@@ -4,6 +4,8 @@ The Director of the Program shall prepare and issue a plan for the implementatio
 
 (July 1, 1944, ch. 373, title XXI, §2103, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3757.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300aa–3, act July 1, 1944, §2104, which was renumbered section 2304 by Pub. L. 99–660, was transferred to section 300cc–3 of this title, prior to repeal by Pub. L. 98–621, §10(s), Nov. 8, 1984, 98 Stat. 3381.

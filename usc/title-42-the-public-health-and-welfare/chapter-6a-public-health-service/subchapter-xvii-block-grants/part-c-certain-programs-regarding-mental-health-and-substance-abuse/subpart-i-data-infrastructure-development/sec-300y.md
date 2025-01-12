@@ -38,6 +38,8 @@ Of the amounts appropriated under paragraph (1) for a fiscal year, 50 percent sh
 
 (July 1, 1944, ch. 373, title XIX, §1971, as added Pub. L. 106–310, div. B, title XXXIV, §3404(2), Oct. 17, 2000, 114 Stat. 1220.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300y, act July 1, 1944, ch. 373, title XIX, §1971, as added Pub. L. 102–321, title II, §204, July 10, 1992, 106 Stat. 410; amended Pub. L. 102–352, §2(a)(13), Aug. 26, 1992, 106 Stat. 939, related to categorical grants to States for programs regarding substance abuse, prior to repeal by Pub. L. 106–310, div. B, title XXXIV, §3404(2), Oct. 17, 2000, 114 Stat. 1220.

@@ -48,6 +48,8 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 (July 1, 1944, ch. 373, title XV, §1501, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 409; amended Pub. L. 103–43, title XX, §2008(c)(1), June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(a), (b), (f), (g)(1), Dec. 14, 1993, 107 Stat. 2227–2229; Pub. L. 105–340, title II, §203(a), (b), Oct. 31, 1998, 112 Stat. 3194; Pub. L. 105–392, title IV, §401(b)(5), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 110–18, §2(1), Apr. 20, 2007, 121 Stat. 80.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -85,6 +87,8 @@ Pub. L. 103–43, §2008(c)(1), designated existing provisions as par. (1), inse
 Subsec. (c). Pub. L. 103–183, §101(f), added subsec. (c) relating to coordinating committee regarding year 2000 health objectives.
 
 Pub. L. 103–183, §101(b), added subsec. (c) relating to special consideration for certain States.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

@@ -86,6 +86,8 @@ For purposes of carrying out this section, there is authorized to be appropriate
 
 (July 1, 1944, ch. 373, title V, §520E–1, formerly §520E, as added Pub. L. 106–310, div. B, title XXXI, §3111, Oct. 17, 2000, 114 Stat. 1186; renumbered §520E–1 and amended Pub. L. 108–355, §3(b), Oct. 21, 2004, 118 Stat. 1407.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 290bb–36 of this title prior to renumbering by Pub. L. 108–355.
@@ -145,6 +147,8 @@ Subsec. (m). Pub. L. 108–355, §3(b)(1)(O), added subsec. (m). Former subsec. 
 Pub. L. 108–355, §3(b)(1)(M), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: "In carrying out this section, the Secretary shall use 1 percent of the amount appropriated under paragraph (1) for each fiscal year for managing programs under this section."
 
 Subsec. (n). Pub. L. 108–355, §3(b)(1)(N), redesignated subsec. (m) as (n).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Teen Suicide Prevention Study ####
 

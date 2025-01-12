@@ -142,6 +142,8 @@ The term "covered activities" shall not include, with respect to a meeting or co
 
 (July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Antitrust Civil Process Act, referred to in subsec. (a)(6), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
@@ -159,6 +161,8 @@ A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as adde
 #### Amendments ####
 
 **2019**—Pub. L. 116–22 redesignated section 405 of Pub. L. 109–417 as this section. See Codification note above.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

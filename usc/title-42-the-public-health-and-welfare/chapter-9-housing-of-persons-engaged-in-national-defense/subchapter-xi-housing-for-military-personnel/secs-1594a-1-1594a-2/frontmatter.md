@@ -4,6 +4,8 @@ Section 1594a–1, Pub. L. 87–554, title V, §501(a)–(c), July 27, 1962, 76 
 
 Section 1594a–2, Pub. L. 87–554, title V, §507, July 27, 1962, 76 Stat. 240, related to prior legislative approval for appropriations for family housing. See section 2821(a) of Title 10.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.

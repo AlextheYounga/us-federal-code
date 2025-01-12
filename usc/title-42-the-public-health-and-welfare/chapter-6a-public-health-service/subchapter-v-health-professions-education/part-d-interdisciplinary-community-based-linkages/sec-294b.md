@@ -22,6 +22,8 @@ There is authorized to be appropriated to carry out this section $5,000,000 for 
 
 (July 1, 1944, ch. 373, title VII, §752, as added Pub. L. 111–148, title V, §5403(b), Mar. 23, 2010, 124 Stat. 648.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 294b, act July 1, 1944, ch. 373, title VII, §752, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544, related to health education and training centers, prior to repeal by Pub. L. 111–148, title V, §5403(b), Mar. 23, 2010, 124 Stat. 648.

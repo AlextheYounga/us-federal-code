@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—GRANTS TO STATES FOR AID AND SERVICES TO NEEDY FAMILIES WITH CHILDREN AND FOR CHILD-WELFARE SERVICES ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 90–248, title II, §240(a), Jan. 2, 1968, 81 Stat. 911, inserted "AND FOR CHILD-WELFARE SERVICES" at end of subchapter heading.

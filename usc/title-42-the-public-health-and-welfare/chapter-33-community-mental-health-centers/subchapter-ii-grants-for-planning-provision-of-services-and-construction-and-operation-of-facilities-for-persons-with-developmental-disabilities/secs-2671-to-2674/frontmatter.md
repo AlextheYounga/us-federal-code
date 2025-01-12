@@ -1,5 +1,7 @@
 ### §§2671 to 2674. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 2671, Pub. L. 88–164, title I, §131, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317, which related to authorization of appropriations, was transferred to former section 6061 of this title.

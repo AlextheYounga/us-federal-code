@@ -70,6 +70,8 @@ A funding agreement for a grant under subsection (a) is that the public entity i
 
 (July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(a), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(a), Dec. 13, 2016, 130 Stat. 1262.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subsections (b) and (c) of section 5304 of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
@@ -89,6 +91,8 @@ A prior section 290ff, act July 1, 1944, ch. 373, title V, §561, as added Nov. 
 **1993**—Subsec. (a)(2). Pub. L. 103–43, §2017(1)(A), substituted "this part" for "this subpart".
 
 Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted "is such a grantee" for "is receiving such payments".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

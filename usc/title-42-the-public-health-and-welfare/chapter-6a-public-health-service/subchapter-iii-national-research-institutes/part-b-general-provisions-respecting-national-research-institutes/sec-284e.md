@@ -20,11 +20,15 @@ For the purpose of carrying out paragraph (1), the Director of NIH shall enter i
 
 (July 1, 1944, ch. 373, title IV, §409A, as added Pub. L. 103–43, title III, §302, June 10, 1993, 107 Stat. 151; amended Pub. L. 105–340, title I, §102, Oct. 31, 1998, 112 Stat. 3192; Pub. L. 109–482, title I, §103(b)(7), Jan. 15, 2007, 120 Stat. 3687.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2003."
 
 **1998**—Subsec. (d). Pub. L. 105–340 substituted "through 2003" for "and 1996".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

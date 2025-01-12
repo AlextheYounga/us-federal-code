@@ -1,5 +1,7 @@
 ### §§242f to 242j. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 242f, act July 1, 1944, ch. 373, title III, §308, as added July 12, 1960, Pub. L. 86–610, §3, 74 Stat. 364, which related to international cooperation with respect to biomedical research and health services research and statistical activities, was renumbered section 307 of act July 1, 1944, by Pub. L. 93–353 and transferred to section 242l of this title.

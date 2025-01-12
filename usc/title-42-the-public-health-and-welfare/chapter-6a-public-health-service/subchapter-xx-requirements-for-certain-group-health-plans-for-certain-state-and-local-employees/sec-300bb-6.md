@@ -20,6 +20,8 @@ For purposes of paragraph (4), any notification shall be made within 14 days of 
 
 (July 1, 1944, ch. 373, title XXII, §2206, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(6)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 100–203, title IV, §4009(j)(8), Dec. 22, 1987, 101 Stat. 1330–59; Pub. L. 101–239, title VI, §6702(c), Dec. 19, 1989, 103 Stat. 2295; Pub. L. 104–191, title IV, §421(a)(2), Aug. 21, 1996, 110 Stat. 2088.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -33,6 +35,8 @@ The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531,
 **1987**—Par. (3). Pub. L. 100–203 amended directory language of Pub. L. 99–514, see 1986 Amendment note below.
 
 **1986**—Par. (3). Pub. L. 99–514, as amended by Pub. L. 100–203, inserted "within 60 days after the date of the qualifying event".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

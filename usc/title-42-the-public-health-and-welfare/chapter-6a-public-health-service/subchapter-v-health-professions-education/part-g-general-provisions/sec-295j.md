@@ -50,6 +50,8 @@ The criteria referred to in paragraph (1) are the following:
 
 (July 1, 1944, ch. 373, title VII, §791, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2058; amended Pub. L. 102–531, title III, §313(a)(5), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 105–392, title I, §§106(a)(2)(B), 107, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 111–148, title V, §5103(c), Mar. 23, 2010, 124 Stat. 605.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 295j, act July 1, 1944, ch. 373, title VII, §799A, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §637(a), 102 Stat. 3149; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2615(g)[(i)], 102 Stat. 4240; Aug. 16, 1989, Pub. L. 101–93, §5(n), 103 Stat. 613, related to grants and contracts to provide health care in rural areas, prior to the general amendment of this subchapter by Pub. L. 102–408.
@@ -71,6 +73,8 @@ Subsec. (b). Pub. L. 105–392, §106(a)(2)(B), redesignated subsec. (c) as (b) 
 Subsec. (c). Pub. L. 105–392, §§106(a)(2)(B)(ii), 107(a), added subsec. (c) and redesignated former subsec. (c) as (b).
 
 **1992**—Subsec. (b). Pub. L. 102–531, in introductory provisions, inserted references to sections 294d and 294e of this title and substituted reference to section 295o(f)(2) of this title for reference to section 293p(a) of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

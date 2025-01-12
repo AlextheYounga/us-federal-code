@@ -42,6 +42,8 @@ that shall be utilized to assist in the payment of all or part of the costs asso
 
 (July 1, 1944, ch. 373, title VII, §755, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3548; amended Pub. L. 116–136, div. A, title III, §3401(8), Mar. 27, 2020, 134 Stat. 386.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 294e, act July 1, 1944, ch. 373, title VII, §767, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2048, authorized grants and contracts for establishment of programs to increase number of allied health professionals, prior to the general amendment of this part by Pub. L. 105–392.

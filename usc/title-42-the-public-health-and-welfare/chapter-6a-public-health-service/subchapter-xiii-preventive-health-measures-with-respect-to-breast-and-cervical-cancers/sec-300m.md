@@ -128,6 +128,8 @@ The Secretary may not grant a waiver or extension under this subsection after Se
 
 (July 1, 1944, ch. 373, title XV, §1503, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410; amended Pub. L. 103–183, title I, §101(c)(1), Dec. 14, 1993, 107 Stat. 2227; Pub. L. 110–18, §2(2), Apr. 20, 2007, 121 Stat. 80.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Prior sections 300m to 300m–6 were repealed by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
@@ -153,6 +155,8 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 **2007**—Subsec. (d). Pub. L. 110–18 added subsec. (d).
 
 **1993**—Subsecs. (c) to (e). Pub. L. 103–183 added subsec. (c) and struck out former subsecs. (c) which related to quality assurance regarding screening for breast cancer, (d) which related to quality assurance regarding screening for cervical cancer, and (e) which related to issuance by Secretary of guidelines with respect to quality of mammography and cytological services.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transition Rule Regarding Mammographies ####
 

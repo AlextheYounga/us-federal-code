@@ -22,11 +22,15 @@ An entity subject to the requirements prescribed pursuant to paragraph (3) respe
 
 (July 1, 1944, ch. 373, title XVI, §1620, as added Pub. L. 96–79, title II, §202(b), Oct. 4, 1979, 93 Stat. 632.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300s, act July 1, 1944, ch. 373, title XVI, §1630, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2269, provided for judicial review by the United States Court of Appeals, prior to repeal by Pub. L. 96–79, §202(b), eff. Oct. 1, 1979.
 
 A prior section 1620 of act July 1, 1944, was renumbered section 1601 by Pub. L. 96–79, title II, §203(a)(1), Oct. 4, 1979, 93 Stat. 635, and is classified to section 300q of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

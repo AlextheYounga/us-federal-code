@@ -1,5 +1,7 @@
 ### SUBCHAPTER XII–A—REGIONAL INFORMATION SHARING SYSTEMS ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter XII–A, consisted of sections 3796h to 3796s, related to grants for law enforcement programs, prior to repeal by Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat. 4340. For similar provisions, see subchapter V (§10151 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement.

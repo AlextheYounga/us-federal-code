@@ -2,7 +2,7 @@
 
 #### (a) Authorization ####
 
-In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for each of fiscal years 2017 through 2021.
+In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for each of fiscal years 2017 through 2022.
 
 #### (b) Reservation of certain amounts ####
 
@@ -28,7 +28,7 @@ After applying paragraphs (4) and (5) (but before applying paragraphs (1) or (2)
 
 #### (A) Reservation ####
 
-The Secretary shall reserve for allotment in accordance with section 629c(e) of this title $20,000,000 for each of fiscal years 2017 through 2021.
+The Secretary shall reserve for allotment in accordance with section 629c(e) of this title $20,000,000 for each of fiscal years 2017 through 2022.
 
 #### (B) Use of funds ####
 
@@ -42,7 +42,7 @@ A State to which an amount is paid from amounts reserved pursuant to subparagrap
 
 #### (5) Regional partnership grants ####
 
-The Secretary shall reserve for awarding grants under section 629g(f) of this title $20,000,000 for each of fiscal years 2017 through 2021.
+The Secretary shall reserve for awarding grants under section 629g(f) of this title $20,000,000 for each of fiscal years 2017 through 2022.
 
 #### (c) Support for foster family homes ####
 
@@ -50,9 +50,7 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 (Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243; Pub. L. 111–242, §133(1), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §§102(a)(1), 103(a), (b), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50751(b), 50752(b)(1), (c), Feb. 9, 2018, 132 Stat. 262, 263; Pub. L. 116–260, div. CC, title III, §305(a), Dec. 27, 2020, 134 Stat. 2994.)
 
-#### Amendment of Section ####
-
-Pub. L. 116–260, div. CC, title III, §305(a), (c), Dec. 27, 2020, 134 Stat. 2994, 2995, provided that, effective Oct. 1, 2021, this section is amended in each of subsections (a), (b)(4)(A), (b)(5), and (f)(10) by striking "2021" and inserting "2022". See 2020 Amendment notes below.
+#### **Editorial Notes** ####
 
 #### Prior Provisions ####
 
@@ -62,7 +60,7 @@ A prior section 436 of act Aug. 14, 1935, was classified to section 636 of this 
 
 **2020**—Subsecs. (a), (b)(4)(A), (5). Pub. L. 116–260 substituted "2022" for "2021".
 
-Subsec. (f)(10). Pub. L. 116–260 which directed amendment of subsec. (f)(10) of this section by substituting "2022" for "2021", could not be executed because no subsec. (f)(10) has been enacted.
+Subsec. (f)(10). Pub. L. 116–260, which directed amendment of subsec. (f)(10) of this section by substituting "2022" for "2021", could not be executed because no subsec. (f)(10) has been enacted.
 
 **2018**—Subsec. (a). Pub. L. 115–123, §50752(b)(1), substituted "for each of fiscal years 2017 through 2021" for "for each of fiscal years 2012 through 2016".
 
@@ -111,6 +109,8 @@ Pub. L. 109–288, §5(a)(1), (3), substituted "After applying paragraphs (4) an
 Subsec. (b)(4). Pub. L. 109–288, §4(a)(1), added par. (4).
 
 Subsec. (b)(5). Pub. L. 109–288, §4(b)(1), added par. (5).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

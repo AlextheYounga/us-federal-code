@@ -30,6 +30,8 @@ There is authorized to be appropriated to carry out this section, $15,000,000 fo
 
 (Pub. L. 108–358, §4, Oct. 22, 2004, 118 Stat. 1664.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), means Pub. L. 108–358, October 22, 2004, 92 Stat. 1661, known as the Anabolic Steroid Control Act of 2004. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.

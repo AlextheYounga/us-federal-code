@@ -1,5 +1,7 @@
 ### §§4711 to 4713. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 4711, Pub. L. 91–648, title I, §101, Jan. 5, 1971, 84 Stat. 1910, declared the purpose of this subchapter to provide intergovernmental cooperation in the development of policies and standards for the administration of programs authorized by this Act.

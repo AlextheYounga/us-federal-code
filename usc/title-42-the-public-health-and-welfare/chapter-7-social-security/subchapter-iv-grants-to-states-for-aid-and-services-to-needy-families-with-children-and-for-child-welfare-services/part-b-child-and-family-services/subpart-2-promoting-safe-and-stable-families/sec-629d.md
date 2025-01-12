@@ -36,6 +36,8 @@ The Secretary shall not make a payment to a State under this section with respec
 
 (Aug. 14, 1935, ch. 531, title IV, §434, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 434 of act Aug. 14, 1935, was classified to section 634 of this title prior to repeal by Pub. L. 100–485.
@@ -59,6 +61,8 @@ Subsec. (d). Pub. L. 109–288, §3(f)(1)(B), added subsec. (d).
 Subsec. (b)(1). Pub. L. 107–133, §104(b)(1), struck out "paragraph (1) or (2)(B) of" after "amount paid under" and substituted "under the State plan under section 629b of this title" for "described in this subpart".
 
 Subsec. (b)(2). Pub. L. 107–133, §104(b)(2), substituted "subsection (a)" for "subsection (a)(1)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2006 Amendment ####
 

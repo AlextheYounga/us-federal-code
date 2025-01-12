@@ -34,6 +34,8 @@ For purposes of subsection (a):
 
 (Pub. L. 98–507, title III, §301, Oct. 19, 1984, 98 Stat. 2346; Pub. L. 100–607, title IV, §407, Nov. 4, 1988, 102 Stat. 3116; Pub. L. 110–144, §2, Dec. 21, 2007, 121 Stat. 1813.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the National Organ Transplant Act, and not as part of the Public Health Service Act which comprises this chapter.
@@ -45,6 +47,8 @@ Section was enacted as part of the National Organ Transplant Act, and not as par
 Subsec. (c)(4). Pub. L. 110–144, §2(2), added par. (4).
 
 **1988**—Subsec. (c)(1). Pub. L. 100–607 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'human organ' means the human kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Determination on the Definition of Human Organ ####
 

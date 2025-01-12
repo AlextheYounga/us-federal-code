@@ -32,6 +32,8 @@ The Committee shall—
 
 (July 1, 1944, ch. 373, title XXIII, §2304, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3065; amended Pub. L. 100–690, title II, §2617(a), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 103–43, title XVIII, §1811(1), title XX, §2008(d)(1), June 10, 1993, 107 Stat. 199, 212.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300cc–3, acts July 1, 1944, ch. 373, title XXIII, §2304, formerly title V, §504, 58 Stat. 710; June 25, 1948, ch. 654, §6, 62 Stat. 1018; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; renumbered title XXI, §2104, Apr. 26, 1983, Pub. L. 98–24, §2(a)(1), 97 Stat. 176; renumbered title XXIII, §2304, Nov. 14, 1986, Pub. L. 99–660, title III, §311(a), 100 Stat. 3755, related to care of Service patients at Saint Elizabeths Hospital, prior to repeal by Pub. L. 98–621, §10(s), Nov. 8, 1984, 98 Stat. 3381, effective Oct. 1, 1987. Subsequent to repeal, section 2104 of title XXI of act July 1, 1944, was renumbered section 2304 of title XXIII of that act by section 311(a) of Pub. L. 99–660.
@@ -49,6 +51,8 @@ Subsec. (a). Pub. L. 103–43, §2008(d)(1)(B), substituted "AIDS Research Advis
 Subsec. (c)(1). Pub. L. 103–43, §1811(1), in introductory provisions inserted "(and may provide advice to the Directors of other agencies of the National Institutes of Health, as appropriate)" after "Director of such Institute" and in subpar. (A) inserted before semicolon at end ", including recommendations on the projects of research with respect to diagnosing immune deficiency and with respect to predicting, diagnosing, preventing, and treating opportunistic cancers and infectious diseases".
 
 **1988**—Subsec. (c)(2)(B). Pub. L. 100–690 substituted semicolon for period.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

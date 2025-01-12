@@ -70,6 +70,8 @@ To carry out this section, there are authorized to be appropriated $36,000,000 f
 
 (July 1, 1944, ch. 373, title V, §546, as added Pub. L. 114–198, title II, §202, July 22, 2016, 130 Stat. 715; amended Pub. L. 115–271, title VII, §7002, Oct. 24, 2018, 132 Stat. 4007.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a), (c)(1), (2), (d), and (f)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.

@@ -1,5 +1,7 @@
 ### §§3256 to 3259. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 3256 to 3259 were omitted in the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795.

@@ -34,6 +34,8 @@ The Assistant Secretary shall make the metrics used to evaluate applications und
 
 (July 1, 1944, ch. 373, title V, §543A, as added Pub. L. 114–255, div. B, title VII, §7002, Dec. 13, 2016, 130 Stat. 1222.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsec. (b)(2), is section 6021 of Pub. L. 114–255, which is set out as a note under section 290aa of this title.

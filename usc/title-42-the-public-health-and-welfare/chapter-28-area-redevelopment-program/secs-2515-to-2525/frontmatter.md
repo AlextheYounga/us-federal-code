@@ -1,5 +1,7 @@
 ### §§2515 to 2525. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 2515 to 2525 terminated as of Aug. 31, 1965, pursuant to section 2525 of this title.

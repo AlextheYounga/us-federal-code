@@ -358,6 +358,8 @@ For the purpose of providing grants, cooperative agreements, and contracts under
 
 (July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. B, title VI, §§6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, 130 Stat. 1202–1206, 1209, 1210.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsecs. (d)(25), (l)(2), and (m)(7), is section 6021 of Pub. L. 114–255, which is set out as a note below.
@@ -508,13 +510,13 @@ Subsecs. (e), (f). Pub. L. 98–24, §2(b)(2)(D), added subsecs. (e) and (f).
 
 **1976**—Subsec. (d). Pub. L. 94–371 added subsec. (d).
 
-#### Change of Name ####
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Change of Name; References ####
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### References ####
 
 Pub. L. 114–255, div. B, title VI, §6001(d), Dec. 13, 2016, 130 Stat. 1203, provided that: "After executing subsections (a), (b), and (c) [see Tables for classification], any reference in statute, regulation, or guidance to the Administrator of the Substance Abuse and Mental Health Services Administration shall be construed to be a reference to the Assistant Secretary for Mental Health and Substance Use."
 
@@ -843,6 +845,8 @@ Pub. L. 98–24, §3, Apr. 26, 1983, 97 Stat. 182, directed Secretary of Health 
 Act July 8, 1947, ch. 210, title II, §201, 61 Stat. 269, provided: "That as of June 30, 1947, and the end of each fiscal year thereafter any balances in the 'Working capital fund, narcotic hospitals,' in excess of $150,000 shall be transferred to the surplus fund of the Treasury."
 
 [Section 201 of act July 8, 1947, set out above, was formerly classified to section 258a of this title.]
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13954. Saving Lives Through Increased Support for Mental- and Behavioral-Health Needs ####
 

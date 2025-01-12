@@ -28,6 +28,8 @@ Section 2413, act Aug. 7, 1956, ch. 1025, §14, 70 Stat. 1083, related to paymen
 
 See section 4001 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as an Effective Date note under section 4001 of this title.

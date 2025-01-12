@@ -1,5 +1,7 @@
 ### Part D—Rural Housing Stability Assistance Program ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 111–22, div. B, title IV, §1401(1), title V, §1502(c), May 20, 2009, 123 Stat. 1696, 1701, redesignated part G as D and substituted "Rural Housing Stability Assistance Program" for "Rural Homeless Housing Assistance" in heading.

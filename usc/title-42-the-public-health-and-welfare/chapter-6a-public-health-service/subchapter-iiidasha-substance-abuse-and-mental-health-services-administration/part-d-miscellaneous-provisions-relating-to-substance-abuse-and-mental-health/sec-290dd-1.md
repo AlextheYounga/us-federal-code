@@ -16,6 +16,8 @@ The Secretary of Veterans Affairs, acting through the Under Secretary for Health
 
 (July 1, 1944, ch. 373, title V, §542, formerly Pub. L. 91–616, title II, §201, Dec. 31, 1970, 84 Stat. 1849, as amended Pub. L. 96–180, §6(a), (b)(1), (2)(B), Jan. 2, 1980, 93 Stat. 1302, 1303; Pub. L. 97–35, title IX, §§961, 966(d), (e), Aug. 13, 1981, 95 Stat. 592, 595; renumbered §521 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; Pub. L. 98–509, title III, §301(c)(2), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–570, title VI, §6002(b)(1), Oct. 27, 1986, 100 Stat. 3207–158; renumbered §542, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L. 103–446, title XII, §1203(a)(2), Nov. 2, 1994, 108 Stat. 4689.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 4561 of this title prior to renumbering by Pub. L. 98–24.
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 98–24, §2(b)(13)(B)(ii), substituted "this section" for 
 Subsec. (a). Pub. L. 96–180, §6(a), substituted "Office of Personnel Management" for "Civil Service Commission" and inserted provisions that require compliance with provisions of subpart F of part III of title 5 and encourage agencies and departments to extend the programs and services to the families of alcoholic employees and to employees who have family members who are alcoholics.
 
 Subsec. (b). Pub. L. 96–180, §6(b)(1), designated existing provisions as par. (1), made the Secretary responsible for encouragement of programs and services, required the programs and services to be designed for application to families of employees and to employees who have family members who are alcoholics, and added pars. (2) to (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

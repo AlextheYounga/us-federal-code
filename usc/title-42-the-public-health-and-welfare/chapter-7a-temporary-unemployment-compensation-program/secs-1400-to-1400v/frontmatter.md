@@ -1,5 +1,9 @@
 ### §§1400 to 1400v. Omitted ###
 
+#### **Editorial Notes** ####
+
+#### Codification ####
+
 Section 1400, Pub. L. 85–441, title I, §101, June 4, 1958, 72 Stat. 171; Pub. L. 86–7, Mar. 31, 1959, 73 Stat. 14, authorized payment of temporary unemployment compensation under sections 1400 to 1400k of this title to persons who exhausted their rights under other unemployment compensation laws.
 
 Section 1400a, Pub. L. 85–441, title I, §102, June 4, 1958, 72 Stat. 172, authorized Secretary to enter into agreements with States for payment of temporary unemployment compensation provided for in sections 1400 to 1400k of this title.

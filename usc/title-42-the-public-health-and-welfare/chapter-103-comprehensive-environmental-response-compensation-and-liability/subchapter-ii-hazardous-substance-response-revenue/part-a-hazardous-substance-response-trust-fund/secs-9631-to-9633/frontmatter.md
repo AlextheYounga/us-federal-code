@@ -6,6 +6,8 @@ Section 9632, Pub. L. 96–510, title II, §222, Dec. 11, 1980, 94 Stat. 2802, l
 
 Section 9633, Pub. L. 96–510, title II, §223, Dec. 11, 1980, 94 Stat. 2802, contained administrative provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal by Pub. L. 99–499 effective Jan. 1, 1987, see section 517(e) of Pub. L. 99–499, set out as an Effective Date note under section 9507 of Title 26, Internal Revenue Code.

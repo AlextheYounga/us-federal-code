@@ -1,5 +1,7 @@
 ### §§2661 to 2666. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 2661 to 2666 were superseded in the general amendment of part B of title I of Pub. L. 88–164 (this subchapter) by Pub. L. 94–103, title I, §105, title III, §303, Oct. 4, 1975, 89 Stat. 486, 507, effective with respect to appropriations under Pub. L. 94–103 for fiscal years beginning after June 30, 1975.

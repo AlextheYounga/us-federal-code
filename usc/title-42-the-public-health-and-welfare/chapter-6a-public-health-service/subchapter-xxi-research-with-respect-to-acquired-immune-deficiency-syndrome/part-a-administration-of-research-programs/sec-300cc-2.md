@@ -20,6 +20,8 @@ For purposes of this section, the term "priority request" means any request that
 
 (July 1, 1944, ch. 373, title XXIII, §2303, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3064; amended Pub. L. 102–321, title I, §§161, 163(b)(7), July 10, 1992, 106 Stat. 375, 376; Pub. L. 102–531, title III, §312(d)(17), Oct. 27, 1992, 106 Stat. 3505.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300cc–2, act July 1, 1944, §2303, was successively renumbered by subsequent acts and transferred, see section 238b of this title.
@@ -37,6 +39,8 @@ Pub. L. 102–321, §163(b)(7)(A), substituted "Administrator of the Substance A
 Subsec. (c)(1). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 Pub. L. 102–321, §163(b)(7)(B), substituted "Administrator of the Substance Abuse and Mental Health Services Administration" for "Administrator of the Alcohol, Drug Abuse, and Mental Health Administration".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

@@ -1,5 +1,7 @@
 ### Part B—Sudden Unexpected Infant Death, Sudden Infant Death Syndrome, and Sudden Unexpected Death in Childhood ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 116–273, §2(1), Dec. 31, 2020, 134 Stat. 3352, substituted "Sudden Unexpected Infant Death, Sudden Infant Death Syndrome, and Sudden Unexpected Death in Childhood" for "Sudden Infant Death Syndrome" in part heading.

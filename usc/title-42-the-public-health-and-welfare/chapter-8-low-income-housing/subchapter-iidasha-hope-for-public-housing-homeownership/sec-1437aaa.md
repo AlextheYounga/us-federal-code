@@ -14,9 +14,13 @@ In connection with a grant under this subchapter, the Secretary may reserve auth
 
 (Sept. 1, 1937, ch. 896, title III, §301, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4148; amended Pub. L. 102–550, title I, §181(a)(2)(A), Oct. 28, 1992, 106 Stat. 3735.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Subsec. (c). Pub. L. 102–550 struck out subsec. (c) which read as follows: "There are authorized to be appropriated for grants under this subchapter $68,000,000 for fiscal year 1991 and $380,000,000 for fiscal year 1992. Any amount appropriated pursuant to this subsection shall remain available until expended."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

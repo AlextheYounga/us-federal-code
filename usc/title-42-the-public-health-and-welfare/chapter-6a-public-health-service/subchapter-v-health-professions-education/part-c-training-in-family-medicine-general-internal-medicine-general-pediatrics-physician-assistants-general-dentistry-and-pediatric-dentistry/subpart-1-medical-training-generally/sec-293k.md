@@ -96,6 +96,8 @@ For purposes of carrying out subsection (b)(1)(B), there are authorized to be ap
 
 (July 1, 1944, ch. 373, title VII, §747, as added Pub. L. 111–148, title V, §5301, Mar. 23, 2010, 124 Stat. 615; amended Pub. L. 116–136, div. A, title III, §3401(3), Mar. 27, 2020, 134 Stat. 386.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 111–148, title V, §5301, Mar. 23, 2010, 124 Stat. 615, which directed the amendment of part C of title VII by striking out section 747 and inserting a new section 747, without specifying the act to be amended, was executed as an amendment to part C of title VII of act July 1, 1944, by adding this section and repealing former section 293k of this title, to reflect the probable intent of Congress.

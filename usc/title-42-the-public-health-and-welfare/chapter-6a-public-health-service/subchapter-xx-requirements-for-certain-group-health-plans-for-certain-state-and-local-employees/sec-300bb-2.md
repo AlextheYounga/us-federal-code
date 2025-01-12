@@ -76,6 +76,8 @@ In the case of a qualified beneficiary whose period of continuation coverage exp
 
 (July 1, 1944, ch. 373, title XXII, §2202, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 233; amended Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), Oct. 22, 1986, 100 Stat. 2937–2939; Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2295, 2297; Pub. L. 104–188, title I, §1704(g)(1)(C), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(a)(1), Aug. 21, 1996, 110 Stat. 2087; Pub. L. 111–5, div. B, title I, §1899F(c), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(5), Oct. 21, 2011, 125 Stat. 420.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in par. (2)(A)(v), (vi), (D)(ii), and (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -131,6 +133,8 @@ Par. (2)(C). Pub. L. 99–514, §1895(d)(3)(C), inserted at end "The payment of 
 Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(C)(ii), (iii), substituted "Group health plan coverage" for "Reemployment" in heading, added cl. (i), and struck out former cl. (i) which read as follows: "a covered employee under any other group health plan, or".
 
 Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(C)(i), struck out subpar. (E), remarriage of spouse, which read as follows: "In the case of an individual who is a qualified beneficiary by reason of being the spouse of a covered employee, the date on which the beneficiary remarries and becomes covered under a group health plan."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

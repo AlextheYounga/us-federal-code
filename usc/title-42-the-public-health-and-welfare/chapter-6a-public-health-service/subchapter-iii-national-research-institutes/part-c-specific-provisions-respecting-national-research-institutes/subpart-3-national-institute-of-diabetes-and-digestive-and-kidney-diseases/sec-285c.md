@@ -4,6 +4,8 @@ The general purpose of the National Institute of Diabetes and Digestive and Kidn
 
 (July 1, 1944, ch. 373, title IV, §426, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 841.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Study on Metabolic Disorders ####
 
 Pub. L. 106–310, div. A, title XXVIII, §2802, Oct. 17, 2000, 114 Stat. 1167, provided that:

@@ -332,6 +332,8 @@ With respect to any fiscal year, no funds may be awarded for a cooperative agree
 
 (Aug. 14, 1935, ch. 531, title IV, §439, as added Pub. L. 107–133, title I, §121, Jan. 17, 2002, 115 Stat. 2419; amended Pub. L. 109–288, §8, Sept. 28, 2006, 120 Stat. 1249.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 September 28, 2006, referred to in subsec. (h)(2), was in the original "the date of enactment of this subsection" and "that date of enactment", which were translated as meaning the date of enactment of Pub. L. 109–288, which amended subsec. (h) of this section generally, to reflect the probable intent of Congress.
@@ -365,6 +367,8 @@ Subsec. (i). Pub. L. 109–288, §8(b)(2)(D)(i), substituted "reservations" for 
 Pub. L. 109–288, §8(b)(1)(A), redesignated subsec. (h) as (i).
 
 Subsec. (i)(2). Pub. L. 109–288, §8(b)(2)(D)(ii), substituted "Reservations" for "Reservation" in heading, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2006 Amendment ####
 

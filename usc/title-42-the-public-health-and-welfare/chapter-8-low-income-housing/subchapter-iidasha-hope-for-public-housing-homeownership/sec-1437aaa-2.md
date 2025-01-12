@@ -134,6 +134,8 @@ The Secretary shall notify each applicant, not later than 6 months after the dat
 
 (Sept. 1, 1937, ch. 896, title III, §303, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4150; amended Pub. L. 102–550, title I, §181(b), (c), (g)(1), title X, §1012(h)(2), Oct. 28, 1992, 106 Stat. 3735, 3736, 3906; Pub. L. 105–276, title V, §519(c)(1), Oct. 21, 1998, 112 Stat. 2561.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (b) (introductory provisions) and (c)(2)(C), (E), was in the original "this subtitle", and was translated as reading "this title", meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
@@ -165,6 +167,8 @@ Subsec. (c)(1). Pub. L. 102–550, §181(b)(1), inserted "and replacement housin
 Subsec. (c)(3). Pub. L. 102–550, §181(b)(2), added par. (3).
 
 Subsec. (e)(8). Pub. L. 102–550, §181(c), struck out "of the type assisted under this subchapter" after "rental housing" and "appreciably" before "reduce".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

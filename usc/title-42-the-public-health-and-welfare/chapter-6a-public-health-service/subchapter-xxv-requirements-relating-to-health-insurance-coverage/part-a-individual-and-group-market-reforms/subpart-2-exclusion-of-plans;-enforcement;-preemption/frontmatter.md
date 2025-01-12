@@ -1,5 +1,7 @@
 ### Subpart 2—Exclusion of Plans; Enforcement; Preemption ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This subpart 2 designation and heading was transferred along with sections 300gg–21 to 300gg–23 of this title to appear before section 300gg–25 of this title to reflect the renumbering of the sections in the original act by Pub. L. 111–148, title I, §§1001(4), 1563(c)(12)(D), (13)(C), (14)(B), formerly §1562(c)(12)(D), (13)(C), (14)(B), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.

@@ -78,6 +78,8 @@ There is authorized to be appropriated to carry out this section, $13,903,000 fo
 
 (July 1, 1944, ch. 373, title III, §340G, as added Pub. L. 107–251, title IV, §403, Oct. 26, 2002, 116 Stat. 1661; amended Pub. L. 110–355, §5, Oct. 8, 2008, 122 Stat. 3994; Pub. L. 115–302, §3, Dec. 11, 2018, 132 Stat. 4397.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.

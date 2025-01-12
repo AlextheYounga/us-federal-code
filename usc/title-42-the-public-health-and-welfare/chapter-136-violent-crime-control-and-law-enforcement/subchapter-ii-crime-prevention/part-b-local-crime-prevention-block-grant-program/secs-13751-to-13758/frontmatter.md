@@ -16,6 +16,8 @@ Section 13757, Pub. L. 103–322, title III, §30207, Sept. 13, 1994, 108 Stat. 
 
 Section 13758, Pub. L. 103–322, title III, §30208, Sept. 13, 1994, 108 Stat. 1844, defined terms for purposes of this part.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Youth Violence Reduction Demonstration Projects ####
 
 Pub. L. 109–162, title XI, §1199, Jan. 5, 2006, 119 Stat. 3132, which authorized the Attorney General to make up to 5 grants for the purpose of carrying out Youth Violence Demonstration Projects, was editorially reclassified and is set out as a note under section 11313 of Title 34, Crime Control and Law Enforcement.

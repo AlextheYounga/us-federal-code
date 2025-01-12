@@ -28,6 +28,8 @@ The Director of the National Institutes of Health shall—
 
 (Pub. L. 114–255, div. A, title II, §2002, Dec. 13, 2016, 130 Stat. 1047.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2032, referred to in subsec. (b)(2), means section 2032 of Pub. L. 114–255.

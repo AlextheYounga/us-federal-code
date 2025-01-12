@@ -64,6 +64,8 @@ There is authorized to be appropriated to carry out this section, $5,000,000 for
 
 (July 1, 1944, ch. 373, title V, §544, as added Pub. L. 114–198, title I, §107(a), July 22, 2016, 130 Stat. 703.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1) and (c)(1) to (4), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -71,6 +73,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1) and (c)
 #### Prior Provisions ####
 
 A prior section 290dd–3, act July 1, 1944, ch. 373, title V, §544, formerly Pub. L. 91–616, title III, §333, Dec. 31, 1970, 84 Stat. 1853, as amended Pub. L. 93–282, title I, §122(a), May 14, 1974, 88 Stat. 131; Pub. L. 94–581, title I, §111(c)(4), Oct. 21, 1976, 90 Stat. 2852; renumbered §523 of act July 1, 1944, Apr. 26, 1983, Pub. L. 98–24, §2(b)(13), 97 Stat. 181; Aug. 27, 1986, Pub. L. 99–401, title I, §106(a), 100 Stat. 907; renumbered §544, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, §13(q)(1)(A)(ii), 105 Stat. 278, which related to confidentiality of patient records for alcohol abuse and alcoholism programs, was omitted in the general revision of this part by Pub. L. 102–321. See section 290dd–2 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Funding for Community-Based Funding for Local Substance Use Disorder Services ####
 

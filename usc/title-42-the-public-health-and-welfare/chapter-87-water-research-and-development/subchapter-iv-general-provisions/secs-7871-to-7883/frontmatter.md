@@ -28,6 +28,8 @@ Section 7883, Pub. L. 95–467, title IV, §412, Oct. 17, 1978, 92 Stat. 1317, p
 
 For prior provisions, see section 10301 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Limitations on Authorization of Appropriations for Fiscal Years 1982 to 1984 ####
 
 Pub. L. 97–35, title XVIII, §1807(b), Aug. 13, 1979, 95 Stat. 765, provided that no funds were authorized to be appropriated to the Secretary of the Interior for the purposes of water resources research and development, saline water research, development, and demonstration, and associated activities in excess of $23,650,000 per fiscal year for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984.

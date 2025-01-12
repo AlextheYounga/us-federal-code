@@ -10,6 +10,8 @@ Section 1437dd, act Sept. 1, 1937, ch. 896, title II, §204, as added June 29, 1
 
 Section 1437ee, act Sept. 1, 1937, ch. 896, title II, §205, as added June 29, 1988, Pub. L. 100–358, §2, 102 Stat. 680, related to issuance of regulations to carry out this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.

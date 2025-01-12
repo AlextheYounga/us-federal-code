@@ -60,6 +60,8 @@ For the purposes of this section, the term "rural" means geographic areas that a
 
 (July 1, 1944, ch. 373, title VII, §754, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3547; amended Pub. L. 116–136, div. A, title III, §3401(7), Mar. 27, 2020, 134 Stat. 386.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Indian Self-Determination Act, referred to in subsec. (c)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.

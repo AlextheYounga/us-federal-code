@@ -80,6 +80,8 @@ the provider of services or supplier shall not be subject to any penalty or inte
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1871, as added Pub. L. 89–97, title I, §102(a) July 30, 1965, 79 Stat. 331; amended Pub. L. 99–509, title IX, §9321(e)(1), Oct. 21, 1986, 100 Stat. 2017; Pub. L. 100–203, title IV, §4035(b), (c), Dec. 22, 1987, 101 Stat. 1330–78; Pub. L. 108–173, title IX, §§902(a)(1), (b)(1), 903(a)(1), (b)(1), (c)(1), 904(b), Dec. 8, 2003, 117 Stat. 2375–2377.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Subsec. (a)(3). Pub. L. 108–173, §902(a)(1), added par. (3).
@@ -99,6 +101,8 @@ Subsec. (f). Pub. L. 108–173, §904(b), added subsec. (f).
 Subsec. (c). Pub. L. 100–203, §4035(c), added subsec. (c).
 
 **1986**—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2003 Amendment ####
 

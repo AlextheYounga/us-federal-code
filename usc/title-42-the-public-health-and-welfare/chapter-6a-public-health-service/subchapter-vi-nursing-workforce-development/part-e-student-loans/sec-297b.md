@@ -78,6 +78,8 @@ Notwithstanding any other provision of Federal or State law, no limitation shall
 
 (July 1, 1944, ch. 373, title VIII, §836, formerly §823, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 914; amended Pub. L. 89–290, §4(g)(2), Oct. 22, 1965, 79 Stat. 1058; Pub. L. 90–490, title II, §222(b), (c)(1), Aug. 16, 1968, 82 Stat. 783, 784; Pub. L. 92–158, §6(a), (b)(1), (e), Nov. 18, 1971, 85 Stat. 475, 476, 478; renumbered §836 and amended Pub. L. 94–63, title IX, §§936(b), 941(h)(1), (2), (5), (i)(1), July 29, 1975, 89 Stat. 363, 365; Pub. L. 96–76, title I, §112, Sept. 29, 1979, 93 Stat. 580; Pub. L. 97–35, title XXVII, §2757(b), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(b)–(d), Aug. 16, 1985, 99 Stat. 398; Pub. L. 100–607, title VII, §§713(b)–(g), 714(a)–(c), Nov. 4, 1988, 102 Stat. 3160, 3161; Pub. L. 101–93, §5(r), Aug. 16, 1989, 103 Stat. 614; Pub. L. 102–408, title II, §211(a)(1), Oct. 13, 1992, 106 Stat. 2078; Pub. L. 105–392, title I, §133(a)–(c)(1), Nov. 13, 1998, 112 Stat. 3575; Pub. L. 111–148, title V, §§5202, 5310(b)(2)–(4), Mar. 23, 2010, 124 Stat. 607, 631.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Peace Corps Act, referred to in subsec. (b)(2), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
@@ -183,6 +185,8 @@ Subsec. (b)(5). Pub. L. 90–490, §222(b)(4), struck out provisions for an inte
 Subsecs. (f), (g). Pub. L. 90–490, §222(c)(1), added subsecs. (f) and (g).
 
 **1965**—Subsec. (b)(5). Pub. L. 89–290 applied rate of interest for first loan obtained by a student from a loan fund established under this part to any subsequent loan to such student from such fund during his course of study.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

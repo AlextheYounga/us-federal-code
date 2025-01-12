@@ -14,6 +14,8 @@ The Secretary shall promote the establishment of a national network to coordinat
 
 (July 1, 1944, ch. 373, title III, §316, as added Pub. L. 99–319, title IV, §401, May 23, 1986, 100 Stat. 489; amended Pub. L. 103–43, title XX, §2008(a), June 10, 1993, 107 Stat. 210.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 247a, act July 1, 1944, ch. 373, title III, §316, as added Nov. 10, 1978, Pub. L. 95–626, title II, §208(a), 92 Stat. 3586; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2193(a)(1)(A), 95 Stat. 826, related to lead-based paint poisoning prevention programs, prior to repeal by Pub. L. 97–35, title XXI, §2193(b)(1), Aug. 13, 1981, 95 Stat. 827.

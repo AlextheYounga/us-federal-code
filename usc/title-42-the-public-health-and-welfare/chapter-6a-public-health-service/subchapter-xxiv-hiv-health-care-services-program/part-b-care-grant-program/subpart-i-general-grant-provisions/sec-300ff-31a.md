@@ -64,6 +64,8 @@ In administering subsections (b) and (c) with respect to the unobligated balance
 
 (July 1, 1944, ch. 373, title XXVI, §2622, as added and amended Pub. L. 109–415, title II, §207, title VII, §703, Dec. 19, 2006, 120 Stat. 2799, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 5(c)(2)–(4), 8(b)(1)(B), (2)(B), (c)(2), 10(a), Oct. 30, 2009, 123 Stat. 2885, 2891, 2894, 2895.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
@@ -87,6 +89,8 @@ Subsec. (d). Pub. L. 111–87, §10(a), inserted at end "If an expenditure of AD
 Subsec. (e). Pub. L. 111–87, §8(b)(2)(B), added subsec. (e).
 
 **2006**—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment; Revival of Section ####
 

@@ -36,6 +36,8 @@ With respect to certification as a nurse practitioner, nurse midwife, or physici
 
 (July 1, 1944, ch. 373, title III, §338H, formerly §338G, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338H and amended Pub. L. 101–597, title II, §§204, 205, Nov. 16, 1990, 104 Stat. 3027, 3028; Pub. L. 107–251, title III, §314, Oct. 26, 2002, 116 Stat. 1652; Pub. L. 110–355, §3(a)(2), Oct. 8, 2008, 122 Stat. 3993; Pub. L. 111–148, title V, §5207, Mar. 23, 2010, 124 Stat. 612.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 254q, act July 1, 1944, ch. 373, title III, §338G, formerly title VII, §756, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2288; renumbered §338F and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), (g), 95 Stat. 908, 912; renumbered §338G, Dec. 1, 1987, Pub. L. 100–177, title II, §201(2), 101 Stat. 992, authorized appropriations for fiscal years 1978 to 1987, prior to repeal by Pub. L. 100–177, §203.

@@ -18,6 +18,8 @@ Not later than September 30, 2025, and every five years thereafter, the Secretar
 
 (July 1, 1944, ch. 373, title VII, §740, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3536; amended Pub. L. 111–148, title V, §5402(b)–(d), Mar. 23, 2010, 124 Stat. 644; Pub. L. 116–136, div. A, title III, §3401(2), Mar. 27, 2020, 134 Stat. 385.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 293d, act July 1, 1944, ch. 373, title VII, §740, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2032, related to educational assistance regarding undergraduates, prior to the general amendment of this part by Pub. L. 105–392.

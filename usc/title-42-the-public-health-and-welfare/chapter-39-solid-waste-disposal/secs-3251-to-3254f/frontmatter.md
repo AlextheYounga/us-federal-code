@@ -1,5 +1,7 @@
 ### §§3251 to 3254f. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 3251 to 3254f were omitted in the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795.

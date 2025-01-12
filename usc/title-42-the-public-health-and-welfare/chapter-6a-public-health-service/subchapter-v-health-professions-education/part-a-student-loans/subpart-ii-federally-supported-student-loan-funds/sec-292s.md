@@ -112,6 +112,8 @@ It is the sense of Congress that funds repaid under the loan program under this 
 
 (July 1, 1944, ch. 373, title VII, §723, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2015; amended Pub. L. 103–43, title XX, §2014(c), June 10, 1993, 107 Stat. 216; Pub. L. 105–392, title I, §131, Nov. 13, 1998, 112 Stat. 3574; Pub. L. 111–148, title V, §5201(a), Mar. 23, 2010, 124 Stat. 606.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 292t(f) of this title, referred to in subsec. (a)(2)(A)(ii)(I), contained provisions in par. (1) relating to appropriation of funds for Federal capital contributions to student loan funds, prior to repeal by Pub. L. 105–392, title I, §132(b), Nov. 13, 1998, 112 Stat. 3575, eff. Oct. 1, 2002.
@@ -145,6 +147,8 @@ Subsec. (b)(1). Pub. L. 103–43, §2014(c)(2)(A), substituted "1997;" for "1994
 Subsec. (b)(2)(B). Pub. L. 103–43, §2014(c)(2)(B), substituted "25 percent" for "15 percent".
 
 Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted "1997" for "1994" in cl. (i) and "1998" for "1995" in cl. (ii).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Student Loan Guidelines ####
 

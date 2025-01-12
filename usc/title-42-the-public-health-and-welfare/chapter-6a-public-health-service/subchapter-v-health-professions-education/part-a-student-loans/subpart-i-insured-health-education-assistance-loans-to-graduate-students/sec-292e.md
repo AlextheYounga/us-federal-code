@@ -46,6 +46,8 @@ Nothing in this section shall be construed to preclude the lender and the borrow
 
 (July 1, 1944, ch. 373, title VII, §706, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2000; amended Pub. L. 105–392, title I, §145, Nov. 13, 1998, 112 Stat. 3581.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 292e, act July 1, 1944, ch. 373, title VII, §705, as added Oct. 12, 1976, Pub. L. 94–484, title II, §204, 90 Stat. 2248; amended Nov. 9, 1978, Pub. L. 95–623, §11(f), 92 Stat. 3456; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2718, 95 Stat. 914, related to establishment and maintenance of records and annual financial reports and audits, prior to the general revision of this subchapter by Pub. L. 102–408.

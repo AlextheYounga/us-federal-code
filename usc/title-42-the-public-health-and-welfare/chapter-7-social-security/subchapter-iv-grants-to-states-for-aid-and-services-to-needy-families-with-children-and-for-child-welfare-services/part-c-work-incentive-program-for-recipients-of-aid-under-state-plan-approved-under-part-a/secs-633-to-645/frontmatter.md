@@ -26,6 +26,8 @@ Section 644, act Aug. 14, 1935, ch. 531, title IV, §444, as added Jan. 2, 1968,
 
 Section 645, act Aug. 14, 1935, ch. 531, title IV, §445, as added Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2309, 95 Stat. 850; amended Sept. 3, 1982, Pub. L. 97–248, title I, §158(a), (b), 96 Stat. 399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(11), 98 Stat. 1166; Aug. 22, 1984, Pub. L. 98–396, title I, 98 Stat. 1392, 1393; Oct. 18, 1986, Pub. L. 99–500, §150, 100 Stat. 1783–352, and Oct. 30, 1986, Pub. L. 99–591, §150, 100 Stat. 3341–355; July 11, 1988, Pub. L. 100–364, §2, 102 Stat. 822, related to work incentive demonstration program.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204(a), (b)(1)(A), of Pub. L. 100–485, set out as an Effective Date of 1988 Amendment note under section 671 of this title.

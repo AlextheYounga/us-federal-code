@@ -202,6 +202,8 @@ Not later than 180 days after November 27, 2013, the Director of the National In
 
 (July 1, 1944, ch. 373, title IV, §404K, formerly §481C, as added Pub. L. 106–551, §2, Dec. 20, 2000, 114 Stat. 2752; amended Pub. L. 110–170, §2(a), Dec. 26, 2007, 121 Stat. 2465; renumbered §404K and amended Pub. L. 112–74, div. F, title II, §221(b)(3), Dec. 23, 2011, 125 Stat. 1088; Pub. L. 113–55, title III, §302(a), (c), Nov. 27, 2013, 127 Stat. 646, 647.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
@@ -237,6 +239,8 @@ Subsec. (d)(3)(A). Pub. L. 110–170, §2(a)(2)(A), substituted "except that the
 and struck out cl. (ii) which related to findings necessary before a chimpanzee may be used in research.
 
 Subsec. (d)(3)(B), (C). Pub. L. 110–170, §2(a)(2)(B)–(D), redesignated subpar. (C) as (B), substituted "under subparagraph (A)" for "under subparagraphs (A) and (B)", and struck out former subpar. (B) which related to approval of research design.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Report to Congress Regarding Number of Chimpanzees and Funding for Care of Chimpanzees ####
 

@@ -22,6 +22,8 @@ Section 12899h–1, Pub. L. 101–625, title IV, §460, as added Pub. L. 104–3
 
 Section 12899i, Pub. L. 101–625, title IV, §461, formerly §460, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3733; renumbered §461, Pub. L. 104–330, title V, §504(a)(1), Oct. 26, 1996, 110 Stat. 4043, authorized the Secretary to issue any regulations necessary to carry out this part.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 All functions which the Secretary of Housing and Urban Development exercised before Sept. 22, 2006, relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12899 et seq.) transferred to the Department of Labor, see section 3(b) of Pub. L. 109–281, set out as a Transfer of Functions and Savings Provisions note under section 3226 of Title 29, Labor.

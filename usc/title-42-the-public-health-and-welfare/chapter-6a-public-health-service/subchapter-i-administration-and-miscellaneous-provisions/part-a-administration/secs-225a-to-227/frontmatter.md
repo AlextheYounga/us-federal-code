@@ -1,5 +1,7 @@
 ### §§225a to 227. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 225a, act July 1, 1944, ch. 373, title V, §507, as added June 24, 1967, Pub. L. 90–31, §5, 81 Stat. 79; amended Oct. 27, 1970, Pub. L. 91–513, title I, §3(c), 84 Stat. 1241; Apr. 22, 1976, Pub. L. 94–278, title XI, §1102(b), 90 Stat. 415; Oct. 7, 1980, Pub. L. 96–398, title VIII, §804(b), 94 Stat. 1603; Aug. 13, 1981, Pub. L. 97–35, title IX, §902(g)(2), 95 Stat. 560, which related to availability of appropriations for grants to Federal institutions, was successively renumbered by subsequent acts and transferred, see section 238d of this title.

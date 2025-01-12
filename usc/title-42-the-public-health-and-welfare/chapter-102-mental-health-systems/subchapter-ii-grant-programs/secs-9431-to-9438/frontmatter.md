@@ -16,6 +16,8 @@ Section 9437, Pub. L. 96–398, title II, §207, Oct. 7, 1980, 94 Stat. 1583, se
 
 Section 9438, Pub. L. 96–398, title II, §208, Oct. 7, 1980, 94 Stat. 1584, set forth authority, etc., for grants for prevention of mental illness and promotion of mental health.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 238l of this title.

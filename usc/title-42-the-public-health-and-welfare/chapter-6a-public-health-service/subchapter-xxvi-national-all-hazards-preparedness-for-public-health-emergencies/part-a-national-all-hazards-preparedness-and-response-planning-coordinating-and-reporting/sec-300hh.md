@@ -10,6 +10,8 @@ The Secretary, in collaboration with the Secretary of Veterans Affairs, the Secr
 
 (July 1, 1944, ch. 373, title XXVIII, §2801, as added Pub. L. 107–188, title I, §101(a), June 12, 2002, 116 Stat. 596; amended Pub. L. 109–417, title I, §101(2), Dec. 19, 2006, 120 Stat. 2832.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 314(6) of title 6, referred to in subsec. (a), was in the original "section 502(6) of the Homeland Security Act of 2002", and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
@@ -17,6 +19,8 @@ Section 314(6) of title 6, referred to in subsec. (a), was in the original "sect
 #### Amendments ####
 
 **2006**—Pub. L. 109–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a national preparedness plan for carrying out health-related activities to prepare for and respond effectively to bioterrorism and other public health emergencies.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Guidance for Participation in Exercises and Drills ####
 

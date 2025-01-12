@@ -22,6 +22,8 @@ The Secretary may establish limited exceptions to the limitations contained in t
 
 (July 1, 1944, ch. 373, title V, §504, formerly §506, as added Pub. L. 98–24, §2(b)(7), Apr. 26, 1983, 97 Stat. 178; amended Pub. L. 99–158, §3(c), Nov. 20, 1985, 99 Stat. 879; renumbered §507 and amended Pub. L. 99–570, title IV, §§4004(a), 4007, Oct. 27, 1986, 100 Stat. 3207–109, 3207–115; renumbered §504 and amended Pub. L. 102–321, title I, §104, July 10, 1992, 106 Stat. 333; Pub. L. 102–352, §2(a)(7), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–392, title IV, §412, Nov. 13, 1998, 112 Stat. 3590; Pub. L. 106–310, div. B, title XXXIV, §3401(b), Oct. 17, 2000, 114 Stat. 1218; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6009, Dec. 13, 2016, 130 Stat. 1203, 1215.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsecs. (a) and (c), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -51,6 +53,8 @@ Pub. L. 102–321 amended section generally, substituting provisions relating to
 **1986**—Subsec. (b). Pub. L. 99–570, §4007, inserted "applications made for" before "grants, cooperative" in introductory text.
 
 **1985**—Subsec. (e). Pub. L. 99–158 added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendments ####
 

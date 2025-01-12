@@ -322,6 +322,8 @@ The evaluation under this paragraph shall include—
 
 (July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179; Pub. L. 114–95, title IX, §9215(kkk)(1), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 116–22, title II, §§201(a), 202(a), (b)(1), (d), 203(e)(1), 207(b), title VII, §705(b), June 24, 2019, 133 Stat. 907–910, 914, 927, 964.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 December 19, 2006, referred to in subsec. (g)(2)(B), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–417, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
@@ -421,6 +423,8 @@ Subsec. (j). Pub. L. 109–417, §201(5), added subsec. (j).
 Pub. L. 109–417, §201(3), redesignated subsec. (j) as (i).
 
 Subsec. (k). Pub. L. 109–417, §201(5), added subsec. (k).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2019 Amendment ####
 

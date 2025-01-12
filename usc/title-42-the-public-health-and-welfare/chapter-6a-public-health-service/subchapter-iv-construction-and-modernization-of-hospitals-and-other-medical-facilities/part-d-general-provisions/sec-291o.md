@@ -54,6 +54,8 @@ under competent professional supervision, and in the case of which—
 
 (July 1, 1944, ch. 373, title VI, §645, formerly §625, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 460; amended Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919; renumbered §645 and amended Pub. L. 91–296, title I, §§113, 114(a), 116(f), 117, 118, 119(d), title II, §201, June 30, 1970, 84 Stat. 340, 341, 342, 343, 344.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 291o, act July 1, 1944, ch. 373, title VI, §641, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to a declaration of purpose with respect to diagnostic or treatment centers, chronic disease hospitals, rehabilitation facilities, and nursing homes, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291 of this title.
@@ -76,6 +78,12 @@ Subsec. (i). Pub. L. 91–296, §118, inserted reference to equipment of any bui
 
 **1964**—Subsec. (c). Pub. L. 88–581 substituted "nurses' home facilities" for "nurses' home and training facilities".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Change of Name ####
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1970 Amendment ####
 
 Pub. L. 91–296, title I, §113, June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
@@ -94,9 +102,11 @@ Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allot
 
 Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) of Pub. L. 88–581, set out as a note under section 291c of this title.
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Termination of Trust Territory of the Pacific Islands ####
 

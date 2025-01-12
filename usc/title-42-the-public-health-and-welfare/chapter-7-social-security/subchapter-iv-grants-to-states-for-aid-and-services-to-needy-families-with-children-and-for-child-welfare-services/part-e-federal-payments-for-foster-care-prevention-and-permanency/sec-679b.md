@@ -46,6 +46,8 @@ The Secretary shall consult with States and organizations with an interest in ch
 
 (Aug. 14, 1935, ch. 531, title IV, §479A, as added Pub. L. 105–89, title II, §203(a), Nov. 19, 1997, 111 Stat. 2126; amended Pub. L. 109–288, §7(c)(2), Sept. 28, 2006, 120 Stat. 1249; Pub. L. 112–34, title I, §106(d), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title I, §115, Sept. 29, 2014, 128 Stat. 1930; Pub. L. 115–123, div. E, title VII, §50744, Feb. 9, 2018, 132 Stat. 260.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (a)(7)(A). Pub. L. 115–123 added cls. (i) and (ii) and struck out former cls. (i) to (vi) which read as follows:
@@ -67,6 +69,8 @@ The Secretary shall consult with States and organizations with an interest in ch
 **2011**—Par. (6)(B), (C). Pub. L. 112–34 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 **2006**—Par. (6). Pub. L. 109–288 added par. (6).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

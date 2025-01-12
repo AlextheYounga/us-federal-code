@@ -40,6 +40,8 @@ There is authorized to be appropriated to carry out this section $41,304,000 for
 
 (July 1, 1944, ch. 373, title V, §506, formerly §512, as added Pub. L. 98–509, title II, §206(a), Oct. 19, 1984, 98 Stat. 2361; amended Pub. L. 100–77, title VI, §613(a), (b), July 22, 1987, 101 Stat. 524; renumbered §506 and amended Pub. L. 102–321, title I, §106, July 10, 1992, 106 Stat. 334; Pub. L. 106–310, div. B, title XXXII, §3202, Oct. 17, 2000, 114 Stat. 1190; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 114–255, div. B, title IX, §9001, Dec. 13, 2016, 130 Stat. 1234.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 290bb–1a of this title prior to renumbering by Pub. L. 102–321.
@@ -73,6 +75,8 @@ Subsec. (a). Pub. L. 106–400 made technical amendment to reference in original
 **1992**—Pub. L. 102–321 amended section generally, substituting provisions relating to grants for benefit of homeless individuals for provisions relating to alcohol abuse and alcoholism demonstration projects.
 
 **1987**—Subsecs. (c), (d). Pub. L. 100–77 added subsec. (c), redesignated former subsec. (c) as (d), and substituted "subsection (a) or (c)" for "subsection (a)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -24,6 +24,8 @@ There are authorized to be appropriated for the purposes of this section $25,000
 
 (Pub. L. 95–155, §5, Nov. 8, 1977, 91 Stat. 1258; Pub. L. 95–477, §7(a)(1), Oct. 18, 1978, 92 Stat. 1511.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the Public Health Service Act which comprises this chapter.
@@ -31,6 +33,8 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 #### Amendments ####
 
 **1978**—Subsec. (a)(2). Pub. L. 95–477 inserted "agricultural use or" after "drinking and".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1978 Amendment ####
 

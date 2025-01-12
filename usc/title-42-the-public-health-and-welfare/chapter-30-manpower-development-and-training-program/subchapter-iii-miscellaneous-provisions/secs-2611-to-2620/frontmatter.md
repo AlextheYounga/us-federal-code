@@ -20,6 +20,8 @@ Section 2619, Pub. L. 87–415, title III, §309, as added Pub. L. 90–636, §1
 
 Section 2620, Pub. L. 87–415, title III, §310, Mar. 15, 1962, 76 Stat. 33; Pub. L. 88–214, §10, Dec. 19, 1963, 77 Stat. 424; Pub. L. 89–15, §16, Apr. 26, 1965, 79 Stat. 80; Pub. L. 90–636, §1(5), Oct. 24, 1968, 82 Stat. 1352; Pub. L. 92–277, §1, Apr. 24, 1972, 86 Stat. 124, called for termination of authority to operate training and skill development programs under title II of Pub. L. 87–415 at the close of June 30, 1973.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 93–203, title VII, §714, formerly title VI, §614, Dec. 28, 1973, 87 Stat. 883; renumbered title VII, §714, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, provided that the repeal is effective with respect to fiscal years after June 30, 1974.

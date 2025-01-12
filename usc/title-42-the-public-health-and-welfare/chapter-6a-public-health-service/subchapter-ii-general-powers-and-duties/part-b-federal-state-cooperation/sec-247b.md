@@ -182,6 +182,8 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 (July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572; Pub. L. 116–260, div. BB, title III, §311(b), Dec. 27, 2020, 134 Stat. 2924.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 300m–3 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
@@ -313,6 +315,8 @@ Subsecs. (f), (g). Pub. L. 91–464 added subsecs. (f) and (g).
 Subsec. (b). Pub. L. 89–109, §2(c), (d)(1), substituted "against the diseases referred to in subsection (a) of this section" for "against poliomyelitis, diphtheria, whooping cough, and tetanus", "of preschool age" for "who are under the age of five years" and "immunization" for "intensive community vaccination" in two places.
 
 Subsec. (c). Pub. L. 89–109, §2(d)(1), (e), inserted "on the basis of estimates" and "(with necessary adjustments on account of underpayments or overpayments)" in par. (1), and substituted "immunization" for "intensive community vaccination" in pars. (2) and (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1978 Amendment ####
 

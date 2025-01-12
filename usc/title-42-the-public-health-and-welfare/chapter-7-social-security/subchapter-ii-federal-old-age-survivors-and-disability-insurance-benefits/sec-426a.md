@@ -46,6 +46,8 @@ in order to place such Trust Fund in the same position at the end of such fiscal
 
 (Pub. L. 89–97, title I, §103, July 30, 1965, 79 Stat. 333; Pub. L. 90–248, title I, §139, title IV, §403(h), Jan. 2, 1968, 81 Stat. 854, 932.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 228e(l) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(l) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively.

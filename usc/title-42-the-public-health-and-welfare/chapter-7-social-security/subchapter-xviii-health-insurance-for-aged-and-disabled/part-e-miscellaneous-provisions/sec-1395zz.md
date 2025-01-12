@@ -62,6 +62,8 @@ Such term does not include, with respect to activities of a specific provider of
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1889, as added and amended Pub. L. 108–173, title IX, §921(a)(1), (d)(1), (e)(1), (f)(1), Dec. 8, 2003, 117 Stat. 2388, 2391.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1395zz, act Aug. 14, 1935, ch. 531, title XVIII, §1889, as added Nov. 5, 1990, Pub. L. 101–508, title IV, §4361(a), 104 Stat. 1388–141, related to medicare and medigap information by telephone, prior to repeal by Pub. L. 103–432, title I, §171(j)(3), (l), Oct. 31, 1994, 108 Stat. 4451, effective as if included in the enactment of Pub. L. 101–508.
@@ -75,6 +77,8 @@ Another prior section 1395zz, act Aug. 14, 1935, ch. 531, title XVIII, §1889, f
 Subsec. (d). Pub. L. 108–173, §921(e)(1), added subsec. (d).
 
 Subsecs. (e) to (g). Pub. L. 108–173, §921(f)(1), added subsecs. (e) to (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2003 Amendment ####
 

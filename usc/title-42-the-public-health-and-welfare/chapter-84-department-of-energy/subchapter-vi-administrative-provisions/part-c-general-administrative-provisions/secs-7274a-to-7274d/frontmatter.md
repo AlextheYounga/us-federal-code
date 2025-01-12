@@ -1,5 +1,7 @@
 ### §§7274a to 7274d. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 7274a, Pub. L. 101–189, div. C, title XXXI, §3141, Nov. 29, 1989, 103 Stat. 1679; Pub. L. 105–85, div. C, title XXXI, §3152(g), Nov. 18, 1997, 111 Stat. 2042, which related to a defense waste cleanup technology program, was renumbered section 4406 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(7)(A)–(C), Nov. 24, 2003, 117 Stat. 1765, and is classified to section 2586 of Title 50, War and National Defense.

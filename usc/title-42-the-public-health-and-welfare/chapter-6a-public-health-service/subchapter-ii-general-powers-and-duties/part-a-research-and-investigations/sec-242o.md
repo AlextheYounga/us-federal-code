@@ -6,6 +6,8 @@
 
 (July 1, 1944, ch. 373, title III, §310, formerly §§309, 310, as added Pub. L. 93–353, title I, §107(a), July 23, 1974, 88 Stat. 371; renumbered §310, Pub. L. 95–623, §6(a), (b), Nov. 9, 1978, 92 Stat. 3447.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Subsec. (a) of this section consists of former section 309 of act July 1, 1944, prior to the renumbering of that section as section 310(a) by Pub. L. 95–623. Subsec. (b) of this section consists of former section 310 of act July 1, 1944, prior to the renumbering of that section as section 310(b) by Pub. L. 95–623.

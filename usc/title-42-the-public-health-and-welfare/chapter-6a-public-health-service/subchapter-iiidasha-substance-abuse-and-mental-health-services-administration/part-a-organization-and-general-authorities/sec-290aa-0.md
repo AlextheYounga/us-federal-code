@@ -98,6 +98,8 @@ There are authorized to be appropriated—
 
 (July 1, 1944, ch. 373, title V, §501A, as added Pub. L. 114–255, div. B, title VII, §7001, Dec. 13, 2016, 130 Stat. 1220; amended Pub. L. 115–271, title VII, §7111, Oct. 24, 2018, 132 Stat. 4042.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (b)(6), (7). Pub. L. 115–271 added par. (6) and redesignated former par. (6) as (7).

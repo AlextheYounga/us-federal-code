@@ -4,6 +4,8 @@ The program authorized under this subchapter shall be in addition to any other p
 
 (Sept. 1, 1937, ch. 896, title III, §307, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4159; amended Pub. L. 104–330, title V, §501(c)(3), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §518(a)(2)(C), Oct. 21, 1998, 112 Stat. 2551.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1437c(h) of this title, referred to in text, was repealed and a new section 1437c(h), relating to audits, was added by Pub. L. 105–276, title V, §§518(a)(1)(A), 566, Oct. 21, 1998, 112 Stat. 2551, 2632. See 1998 Amendment note below.
@@ -13,6 +15,8 @@ Section 1437c(h) of this title, referred to in text, was repealed and a new sect
 **1998**—Pub. L. 105–276, which directed amendment of text by striking out "section 5(h) and" in original (a reference to section 1437c(h) of this title), could not be executed because the word "and" does not appear.
 
 **1996**—Pub. L. 104–330 struck out "and subchapter II of this chapter" after "section 1437c(h) of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

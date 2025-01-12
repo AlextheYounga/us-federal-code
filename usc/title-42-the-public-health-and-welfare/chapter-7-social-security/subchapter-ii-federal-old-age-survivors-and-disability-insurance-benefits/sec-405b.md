@@ -138,6 +138,8 @@ The Commissioner shall annually submit to the Committee on Ways and Means of the
 
 (Pub. L. 115–174, title II, §215, May 24, 2018, 132 Stat. 1323.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Gramm-Leach-Bliley Act, referred to in subsec. (e)(3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§6801 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.

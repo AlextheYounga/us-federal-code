@@ -14,6 +14,8 @@ Section 2573, Pub. L. 87–415, title I, §106, formerly 103, Mar. 15, 1962, 76 
 
 Section 2574, Pub. L. 87–415, title I, §107, formerly 104, Mar. 15, 1962, 76 Stat. 25; renumbered §107, Pub. L. 89–15, §4(a), Apr. 26, 1965, 79 Stat. 75, directed Secretary of Labor to make reports to President and Congress pertaining to manpower requirements, resources, utilization, and training.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 93–203, title VII, §714, formerly title VI, §614, Dec. 28, 1973, 87 Stat. 883; renumbered title VII, §714, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, provided that the repeal is effective with respect to fiscal years after June 30, 1974.

@@ -32,6 +32,8 @@
 
 (July 1, 1944, ch. 373, title XVI, §1610, formerly §1625, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2268; amended Pub. L. 95–83, title I, §103(b), Aug. 1, 1977, 91 Stat. 383; renumbered §1610 and amended Pub. L. 96–79, title II, §§201(c), 203(b), Oct. 4, 1979, 93 Stat. 631, 635.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1610 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2262; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(w), 91 Stat. 385, was classified to section 300p of this title, prior to repeal by Pub. L. 96–79, title II, §201(a), Oct. 4, 1979, 93 Stat. 630.
@@ -47,6 +49,8 @@ Subsec. (c). Pub. L. 96–79, §201(c), redesignated subsec. (c) as par. (2) of 
 Subsec. (d). Pub. L. 96–79, §201(c), struck out subsec. (d) which related to provisions making available 22 per centum of sums appropriated under former section 300p–3 of this title for subsec. (a) grants, including an additional appropriations authorization of $67,500,000 for such grants for fiscal year ending Sept. 30, 1978.
 
 **1977**—Subsec. (d). Pub. L. 95–83 authorized additional grant appropriations of $67,500,000 for fiscal year ending Sept. 30, 1978.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1979 Amendment ####
 

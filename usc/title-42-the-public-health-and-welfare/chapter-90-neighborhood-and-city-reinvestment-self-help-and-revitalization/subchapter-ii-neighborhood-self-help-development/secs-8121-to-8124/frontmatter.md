@@ -8,6 +8,8 @@ Section 8123, Pub. L. 95–557, title VII, §704, Oct. 31, 1978, 92 Stat. 2120; 
 
 Section 8124, Pub. L. 95–557, title VII, §705, Oct. 31, 1978, 92 Stat. 2121; Pub. L. 96–153, title I, §107(a), Dec. 21, 1979, 93 Stat. 1104; Pub. L. 96–399, title I, §115, Oct. 8, 1980, 94 Stat. 1623, related to authorization of appropriations for grants.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Sections 8121 to 8124 repealed effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.

@@ -18,6 +18,8 @@ The outcomes database shall make relevant scientific information not containing 
 
 (July 1, 1944, ch. 373, title III, §379A, as added Pub. L. 105–196, §3, July 16, 1998, 112 Stat. 635; amended Pub. L. 109–129, §3(b), Dec. 20, 2005, 119 Stat. 2561.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 274l, act July 1, 1944, ch. 373, title III, §379A, as added Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3282, related to study by General Accounting Office, prior to repeal by Pub. L. 105–196, §§3, 7, July 16, 1998, 112 Stat. 635, 637, effective Oct. 1, 1998.
@@ -25,6 +27,8 @@ A prior section 274l, act July 1, 1944, ch. 373, title III, §379A, as added Pub
 #### Amendments ####
 
 **2005**—Pub. L. 109–129, amended section generally, substituting provisions relating to the stem cell therapeutic outcomes database for provisions relating to the bone marrow scientific registry.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

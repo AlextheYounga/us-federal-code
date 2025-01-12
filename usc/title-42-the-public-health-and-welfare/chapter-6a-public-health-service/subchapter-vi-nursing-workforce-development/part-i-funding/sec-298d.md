@@ -10,6 +10,8 @@ For the purpose of carrying out part E, there are authorized to be appropriated 
 
 (July 1, 1944, ch. 373, title VIII, §871, formerly §841, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3569; renumbered §871 and amended Pub. L. 111–148, title V, §§5310(b)(7), 5312, Mar. 23, 2010, 124 Stat. 631, 633; Pub. L. 116–136, div. A, title III, §3404(a)(13), Mar. 27, 2020, 134 Stat. 394.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 297q of this title prior to renumbering by Pub. L. 111–148.

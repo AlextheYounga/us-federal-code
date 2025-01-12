@@ -1,5 +1,7 @@
 ### §§1857 to 1857c–9. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1857, act July 14, 1955, ch. 360, title I, §101, formerly §1, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 392; renumbered title I, §101, and amended Oct. 20, 1965, Pub. L. 89–272, title I, §101(2), (3), 79 Stat. 992; Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 485, which related to Congressional findings and declaration of purpose, was transferred to section 7401 of this title.

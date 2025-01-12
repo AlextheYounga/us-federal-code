@@ -4,11 +4,15 @@ The general purpose of the Eunice Kennedy Shriver National Institute of Child He
 
 (July 1, 1944, ch. 373, title IV, §448, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 856; amended Pub. L. 106–554, §1(a)(1) [title II, §215], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 110–154, §1(d), Dec. 21, 2007, 121 Stat. 1828; Pub. L. 111–256, §2(f)(2), Oct. 5, 2010, 124 Stat. 2644.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–256 substituted "intellectual disabilities," for "mental retardation,".
 
 **2000**—Pub. L. 106–554 inserted "gynecologic health," after "with respect to".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

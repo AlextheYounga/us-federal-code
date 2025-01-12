@@ -50,6 +50,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (July 1, 1944, ch. 373, title III, §399W, as added Pub. L. 106–310, div. A, title XXIV, §2401, Oct. 17, 2000, 114 Stat. 1158.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 399W of act July 1, 1944, was renumbered section 399V–1 and is classified to section 280g–12 of this title.

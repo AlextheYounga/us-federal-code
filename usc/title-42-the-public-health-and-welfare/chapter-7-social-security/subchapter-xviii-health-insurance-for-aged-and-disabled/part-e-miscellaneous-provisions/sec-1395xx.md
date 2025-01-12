@@ -30,11 +30,15 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1887, as added and amended Pub. L. 97–248, title I, §§108(a)[(1)], 109(a), Sept. 3, 1982, 96 Stat. 337, 338; Pub. L. 98–21, title VI, §602(j), Apr. 20, 1983, 97 Stat. 165.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1983**—Subsec. (a)(1)(B). Pub. L. 98–21 inserted "or on the bases described in section 1395ww of this title".
 
 **1982**—Subsec. (b). Pub. L. 97–248, §109(a)(2), added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1983 Amendment ####
 

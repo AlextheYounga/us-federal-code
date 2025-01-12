@@ -50,6 +50,8 @@ Nothing in this section shall be construed to imply that the Agency's role is to
 
 (July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654; amended Pub. L. 106–525, title II, §201(a)(1), Nov. 22, 2000, 114 Stat. 2505.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 288(d)(3) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 109–482, title I, §103(b)(47), Jan. 15, 2007, 120 Stat. 3688.
@@ -70,9 +72,13 @@ A prior section 902 of act July 1, 1944, was classified to section 299b of this 
 
 **2000**—Subsec. (g). Pub. L. 106–525 struck out heading and text of subsec. (g). Text read as follows: "Beginning with fiscal year 2003, the Director shall annually submit to the Congress a report regarding prevailing disparities in health care delivery as it relates to racial factors and socioeconomic factors in priority populations."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Reducing Administrative Health Care Costs ####
 
 Pub. L. 103–43, title XIX, §1909, June 10, 1993, 107 Stat. 205, as amended by Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, §900(e)(6)(F), Dec. 8, 2003, 117 Stat. 2374, provided that: "The Secretary of Health and Human Services, acting through the Agency for Healthcare Research and Quality and, to the extent possible, in consultation with the Centers for Medicare & Medicaid Services, may fund research to develop a text-based standardized billing process, through the utilization of text-based information retrieval and natural language processing techniques applied to automatic coding and analysis of textual patient discharge summaries and other text-based electronic medical records, within a parallel general purpose (shared memory) high performance computing environment. The Secretary shall determine whether such a standardized approach to medical billing, through the utilization of the text-based hospital discharge summary as well as electronic patient records can reduce the administrative billing costs of health care delivery."
+
+#### **Executive Documents** ####
 
 #### Demonstration Grants for the Development, Implementation, and Evaluation of Alternatives to the Current Medical Liability System ####
 

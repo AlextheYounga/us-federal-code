@@ -20,6 +20,8 @@ The individuals referred to in subsection (a) are individuals who are pursuing a
 
 (July 1, 1944, ch. 373, title VII, §767, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3555.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 295b, act July 1, 1944, ch. 373, title VII, §763, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–2, authorized Secretary to make grants and to set limitations and conditions on grants, required applications for grants, limited use of grant funds, set forth method of payment of grants, and provided for protection of financial interests of the United States, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.

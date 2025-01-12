@@ -430,6 +430,8 @@ Nothing in this section or section 1396u–4 of this title shall be construed as
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) [title IX, §902(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210; Pub. L. 110–275, title I, §161(c), July 15, 2008, 122 Stat. 2569; Pub. L. 111–148, title III, §3201(i)(1), Mar. 23, 2010, 124 Stat. 453; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code.
@@ -467,6 +469,8 @@ See Effective Date of 2010 Amendment note below.
 **2003**—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
 
 **2000**—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

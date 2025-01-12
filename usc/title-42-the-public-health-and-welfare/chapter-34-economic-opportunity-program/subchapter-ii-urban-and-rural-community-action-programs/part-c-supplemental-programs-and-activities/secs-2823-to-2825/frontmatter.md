@@ -6,6 +6,8 @@ Section 2824, Pub. L. 88–452, title II, §231, as added Pub. L. 90–222, titl
 
 Section 2825, Pub. L. 88–452, title II, §232, as added Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 703; amended Pub. L. 95–568, §§6(c), 17(a)(11), Nov. 2, 1978, 92 Stat. 2428, 2440, related to development, etc., of research and pilot programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

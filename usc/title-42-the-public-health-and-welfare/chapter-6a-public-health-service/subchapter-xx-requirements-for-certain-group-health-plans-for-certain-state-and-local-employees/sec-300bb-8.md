@@ -32,6 +32,8 @@ The term "plan administrator" has the meaning given the term "administrator" by 
 
 (July 1, 1944, ch. 373, title XXII, §2208, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 236; amended Pub. L. 100–647, title III, §3011(b)(7), Nov. 10, 1988, 102 Stat. 3625; Pub. L. 101–239, title VI, §6801(c)(1), Dec. 19, 1989, 103 Stat. 2297; Pub. L. 104–191, title I, §102(d), title III, §321(d)(3), title IV, §421(a)(3), Aug. 21, 1996, 110 Stat. 1978, 2059, 2088; Pub. L. 114–255, div. C, title XVIII, §18001(c)(2), Dec. 13, 2016, 130 Stat. 1344.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Par. (1). Pub. L. 114–255 inserted at end "Such term shall not include any qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of title 26)."
@@ -45,6 +47,8 @@ Par. (3)(A). Pub. L. 104–191, §421(a)(3), inserted at end "Such term shall al
 **1989**—Par. (2). Pub. L. 101–239 substituted "the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1) of title 26)" for "the individual's employment or previous employment with an employer".
 
 **1988**—Par. (1). Pub. L. 100–647 substituted "section 162(i)(2) of the Internal Revenue Code of 1986" for "section 162(i)(3) of the Internal Revenue Code of 1954", which for purposes of codification was translated as "section 162(i)(2) of title 26".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2016 Amendment ####
 

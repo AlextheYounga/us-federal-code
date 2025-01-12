@@ -22,6 +22,8 @@ The Director is authorized to establish the requirements for entities applying f
 
 (July 1, 1944, ch. 373, title IX, §911, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1656.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 299b, act July 1, 1944, ch. 373, title IX, §911, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2192; amended Pub. L. 102–410, §5(b), Oct. 13, 1992, 106 Stat. 2097, related to establishment of Office of the Forum for Quality and Effectiveness in Health Care, prior to the general amendment of this subchapter by Pub. L. 106–129.

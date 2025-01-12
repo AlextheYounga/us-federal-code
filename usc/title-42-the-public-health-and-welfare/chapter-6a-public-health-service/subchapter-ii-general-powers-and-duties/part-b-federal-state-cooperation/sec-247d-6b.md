@@ -432,6 +432,8 @@ In this section:
 
 (July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144; Pub. L. 116–22, title IV, §403(a), (c), title V, §§502, 504(a), title VII, §702, June 24, 2019, 133 Stat. 943, 947, 950, 951, 962; Pub. L. 116–136, div. A, title III, §3102, Mar. 27, 2020, 134 Stat. 361.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (a)(5)(A)(ix), is section 403(b) of Pub. L. 116–22, title IV, June 24, 2019, 133 Stat. 947, which is not classified to the Code.
@@ -585,6 +587,8 @@ Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end "Such agreeme
 **2002**—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted "The Secretary of Homeland Security" for "The Secretary of Health and Human Services" and inserted "the Secretary of Health and Human Services and" after "in coordination with" and "of Health and Human Services" after "as are determined by the Secretary".
 
 Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted "of Health and Human Services" after "Secretary" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 
@@ -762,6 +766,8 @@ Pub. L. 107–188, title I, §127, June 12, 2002, 116 Stat. 615, provided that:
 
 [The Director is authorized and directed to publish this memorandum in the Federal Register.]
 
+#### **Executive Documents** ####
+
 #### Ex. Ord. No. 13944. Combating Public Health Emergencies and Strengthening National Security by Ensuring Essential Medicines, Medical Countermeasures, and Critical Inputs Are Made in the United States ####
 
 Ex. Ord. No. 13944, Aug. 6, 2020, 85 F.R. 49929, provided:
@@ -800,7 +806,7 @@ Sec. 2. *Maximizing Domestic Production in Procurement*. (a) Agencies shall, as 
 
 (d) No later than 30 days after the FDA Commissioner has identified, pursuant to section 3(c) of this order, the initial list of Essential Medicines, Medical Countermeasures, and Critical Inputs, the United States Trade Representative shall, to the extent permitted by law, take all appropriate action to modify United States Federal procurement product coverage under all relevant Free Trade Agreements and the World Trade Organization Agreement on Government Procurement to exclude coverage of Essential Medicines, Medical Countermeasures, and Critical Inputs. The United States Trade Representative shall further modify United States Federal procurement product coverage, as appropriate, to reflect updates by the FDA Commissioner. After the modifications to United States Federal procurement coverage take effect, the United States Trade Representative shall make any necessary, corresponding modifications of existing waivers under section 301 of the Trade Agreements Act of 1979 [19 U.S.C. 2511]. The United States Trade Representative shall notify the President, through the Director of OMB, once it has taken the actions described in this subsection.
 
-(e) No later than 60 days after the FDA Commissioner has identified, pursuant to section 3(c) of this order, the initial list of Essential Medicines, Medical Countermeasures, and Critical Inputs, and notwithstanding the public interest exception in subsection (f)(i)(1) of this section, the Secretary of Defense shall, to the maximum extent permitted by applicable law, use his authority under section 225.872–-1(c) of the Defense Federal Acquisition Regulation Supplement to restrict the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs to domestic sources and to reject otherwise acceptable offers of such products from sources in Qualifying Countries in instances where considered necessary for national defense reasons.
+(e) No later than 60 days after the FDA Commissioner has identified, pursuant to section 3(c) of this order, the initial list of Essential Medicines, Medical Countermeasures, and Critical Inputs, and notwithstanding the public interest exception in subsection (f)(i)(1) of this section, the Secretary of Defense shall, to the maximum extent permitted by applicable law, use his authority under section 225.872–1(c) of the Defense Federal Acquisition Regulation Supplement to restrict the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs to domestic sources and to reject otherwise acceptable offers of such products from sources in Qualifying Countries in instances where considered necessary for national defense reasons.
 
 (f) Subsections (a), (d), and (e) of this section shall not apply:
 

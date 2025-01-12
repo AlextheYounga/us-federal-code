@@ -68,6 +68,8 @@ After consultation with the States and with appropriate national organizations, 
 
 (July 1, 1944, ch. 373, title V, §505, formerly §509D, as added Pub. L. 100–690, title II, §2052(a), Nov. 18, 1988, 102 Stat. 4207; amended Pub. L. 101–93, §3(b), Aug. 16, 1989, 103 Stat. 609; renumbered §505, Pub. L. 102–321, title I, §105, July 10, 1992, 106 Stat. 334; Pub. L. 103–43, title XX, §2010(b)(7), June 10, 1993, 107 Stat. 214; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6004, Dec. 13, 2016, 130 Stat. 1203, 1207.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 290aa–11 of this title prior to renumbering by Pub. L. 102–321.
@@ -115,6 +117,8 @@ Pub. L. 114–255, §6004(2), redesignated subsec. (d) as (e).
 **1989**—Subsec. (c)(1)(A). Pub. L. 101–93, §3(b)(1), substituted "alcohol or" for "alcohol and".
 
 Subsec. (c)(2). Pub. L. 101–93, §3(b)(2), substituted "this subsection" for "this section".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### National Survey on Drug Use and Health ####
 

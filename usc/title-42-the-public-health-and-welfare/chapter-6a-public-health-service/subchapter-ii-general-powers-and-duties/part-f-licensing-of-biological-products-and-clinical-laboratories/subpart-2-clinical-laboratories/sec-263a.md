@@ -396,6 +396,8 @@ In carrying out this section, the Secretary shall consult with appropriate priva
 
 (July 1, 1944, ch. 373, title III, §353, as added Pub. L. 90–174, §5(a), Dec. 5, 1967, 81 Stat. 536; amended Pub. L. 100–578, §2, Oct. 31, 1988, 102 Stat. 2903; Pub. L. 105–115, title I, §123(h), Nov. 21, 1997, 111 Stat. 2324; Pub. L. 112–202, §2, Dec. 4, 2012, 126 Stat. 1483.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -421,6 +423,8 @@ Subsec. (i)(4). Pub. L. 112–202, §2(2)(B), substituted "may have its certific
 "(C) the Secretary has determined pose no reasonable risk of harm to the patient if performed incorrectly."
 
 **1988**—Pub. L. 100–578 substituted "Certification of laboratories" for "Licensing of laboratories" in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1997 Amendment ####
 

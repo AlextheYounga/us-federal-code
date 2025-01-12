@@ -1,5 +1,7 @@
 ### §§1531 to 1536. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1531, act Oct. 14, 1940, ch. 862, title II, §201, as added June 28, 1941, ch. 260, §3, 55 Stat. 361, which declared the policy of this subchapter was to provide means by which public works were to be acquired, operated, and maintained in the areas described in section 1532 of this title, and defined public works, was omitted in view of the omission of section 1532 of this title.
@@ -13,6 +15,8 @@ Section 1534, act Oct. 14, 1940, ch. 862, title II, §204, as added June 28, 194
 Section 1535, act Oct. 14, 1940, ch. 862, title II, §205, as added June 26, 1946, ch. 498, 60 Stat. 314, which authorized, for the fiscal year ending June 30, 1947, contributions for the operation and maintenance of school facilities in order to enable school authorities that were still over-burdened with war-incurred school enrollments to meet their needs during transition from war to peacetime conditions.
 
 Section 1536, act July 31, 1953, ch. 302, title I, §101, 67 Stat. 305, which authorized the Administrator to transfer projects or facilities to other departments or agencies which request a transfer, was enacted as a part of the First Independent Offices Appropriation Act, 1954, and not as a part of title II of the Lanham Public War Housing Act which comprised this subchapter, and was not repeated in subsequent appropriation acts.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Limitation on Use of Funds ####
 

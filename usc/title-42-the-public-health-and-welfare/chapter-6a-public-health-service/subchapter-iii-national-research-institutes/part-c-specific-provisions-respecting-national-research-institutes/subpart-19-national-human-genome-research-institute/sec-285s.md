@@ -32,6 +32,8 @@ The Director of the Institute may conduct and support research training—
 
 (July 1, 1944, ch. 373, title IV, §464z–1, formerly §485B, as added Pub. L. 103–43, title XV, §1521(2), June 10, 1993, 107 Stat. 180; renumbered §464z–1 and amended Pub. L. 109–482, title I, §101(c)(4), Jan. 15, 2007, 120 Stat. 3681.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 287c of this title prior to renumbering by Pub. L. 109–482.
@@ -41,6 +43,8 @@ Section was formerly classified to section 287c of this title prior to renumberi
 **2007**—Pub. L. 109–482, §101(c)(4)(C), substituted "Institute" for "Center" wherever appearing in section catchline and text.
 
 Subsec. (a). Pub. L. 109–482, §101(c)(4)(B), substituted "National Human Genome Research Institute" for "National Center for Human Genome Research" in introductory provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

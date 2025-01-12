@@ -16,6 +16,8 @@ Section 3041e, Pub. L. 89–73, title V, §506, as added Pub. L. 93–29, title 
 
 Section 3041f, Pub. L. 89–73, title V, §507, as added Pub. L. 93–29, title V, §501, May 3, 1973, 87 Stat. 54; amended Pub. L. 94–135, title I, §114(g), Nov. 28, 1975, 89 Stat. 725, related to annual interest grants.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 95–478, title V, §501(a), Oct. 18, 1978, 92 Stat. 1558, provided that the repeal by that section is effective at the close of Sept. 30, 1978.

@@ -18,6 +18,8 @@ The Secretary, through the Center and subject to section 286(d) of this title, s
 
 (July 1, 1944, ch. 373, title IV, §478, as added Pub. L. 100–607, title I, §105, Nov. 4, 1988, 102 Stat. 3052; amended Pub. L. 103–43, title XIV, §1402(b), June 10, 1993, 107 Stat. 171.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which read as follows: "For the purpose of performing the duties specified in subsection (b) of this section, there are authorized to be appropriated $8,000,000 for fiscal year 1989 and such sums as may be necessary for fiscal year 1990. Funds appropriated under this subsection shall remain available until expended."

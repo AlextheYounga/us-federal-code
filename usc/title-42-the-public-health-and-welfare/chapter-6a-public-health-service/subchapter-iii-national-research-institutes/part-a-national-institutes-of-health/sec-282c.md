@@ -4,6 +4,8 @@ The Director of the National Institutes of Health ("NIH") shall require in the c
 
 (Pub. L. 111–8, div. F, title II, §217, Mar. 11, 2009, 123 Stat. 782.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Department of Health and Human Services Appropriations Act, 2009, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2009, and the Omnibus Appropriations Act, 2009, and not as part of the Public Health Service Act which comprises this chapter.

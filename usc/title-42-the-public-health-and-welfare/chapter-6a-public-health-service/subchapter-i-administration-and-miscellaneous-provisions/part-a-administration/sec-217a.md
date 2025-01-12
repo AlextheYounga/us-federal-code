@@ -14,6 +14,8 @@ Upon appointment of any such council or committee, the Secretary may delegate to
 
 (July 1, 1944, ch. 373, title II, §222, as added Pub. L. 87–838, §3, Oct. 17, 1962, 76 Stat. 1073; amended Pub. L. 91–515, title VI, §601(a)(3), (c), Oct. 30, 1970, 84 Stat. 1310, 1311; Pub. L. 99–158, §3(a)(4), Nov. 20, 1985, 99 Stat. 879.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5.
@@ -28,9 +30,11 @@ Subsec. (b). Pub. L. 91–515, §601(a)(3), inserted "council or" before "commit
 
 Subsec. (c). Pub. L. 91–515, §601(a)(3), (c)(2), inserted "council or" before "committee" wherever appearing, and "or programs" after "projects".
 
-#### Transfer of Functions ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+#### Change of Name ####
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a) and (c) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Advisory Committees; Report by Secretary to Congressional Committees Relating to Termination ####
 
@@ -39,3 +43,9 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, provided that:
 "(a) An advisory committee established by or pursuant to the Public Health Service Act [42 U.S.C. 201 et seq.], the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 [former 42 U.S.C. 2689 et seq., 6001 et seq.], or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 [42 U.S.C. 4541 et seq.] shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after the date of the enactment of this Act [Jan. 4, 1975].
 
 "(b) The Secretary of Health, Education, and Welfare shall report, within one year after the date of the enactment of the Act [Jan. 4, 1975], to the Committee on Labor and Public Welfare of the Senate and the Committee on Interstate and Foreign Commerce of the House of Representatives (1) the purpose and use of each advisory committee established by or pursuant to the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 and (2) his recommendations respecting the termination of each such advisory committee."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.

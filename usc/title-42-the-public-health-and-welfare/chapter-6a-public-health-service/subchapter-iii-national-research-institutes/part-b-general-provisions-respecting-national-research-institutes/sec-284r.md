@@ -36,6 +36,8 @@ The Director of the National Institutes of Health shall—
 
 (Pub. L. 114–255, div. A, title II, §2038(g), Dec. 13, 2016, 130 Stat. 1066.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2039, referred to in par. (1), is section 2039 of Pub. L. 114–255, which is set out as a note under section 282 of this title.

@@ -142,6 +142,8 @@ The term "unprotected <sup><a href="#290dd-2_1_target" name="290dd-2_1">1</a></
 
 (July 1, 1944, ch. 373, title V, §543, formerly Pub. L. 91–616, title III, §321, Dec. 31, 1970, 84 Stat. 1852, as amended Pub. L. 93–282, title I, §121(a), May 14, 1974, 88 Stat. 130; Pub. L. 94–371, §11(a), (b), July 26, 1976, 90 Stat. 1041; Pub. L. 94–581, title I, §111(c)(1), Oct. 21, 1976, 90 Stat. 2852; renumbered §522 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; renumbered §543, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 105–392, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3588; Pub. L. 116–136, div. A, title III, §3221(a)–(h), Mar. 27, 2020, 134 Stat. 375–378.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -189,6 +191,8 @@ Subsec. (b)(2). Pub. L. 94–581 provided that subsec. (b)(2), which directed th
 **1974**—Subsec. (a). Pub. L. 93–282, in revising text, prohibited discrimination because of alcohol abuse, substituted provisions respecting eligibility for admission and treatment based on suffering from medical conditions for former provision based on medical need and ineligibility, because of discrimination, for support in any form from any program supported in whole or in part by funds appropriated to any Federal department or agency for former requirement for treatment by a general hospital which received Federal funds, and deleted prohibition against receiving Federal financial assistance for violation of section and for termination of Federal assistance on failure to comply, now incorporated in regulation authorization of subsec. (b) of this section.
 
 Subsec. (b). Pub. L. 93–282 substituted provisions respecting issuance of regulations by the Secretary concerning enforcement procedures and suspension or revocation of Federal support and by the Administrator concerning applicable regulations for veterans, and for coordination of the respective regulations for former provisions respecting judicial review.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

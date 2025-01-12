@@ -26,6 +26,8 @@ Any such grant awarded before the date of promulgation of such guidelines shall 
 
 (Pub. L. 95–477, §7(b), Oct. 18, 1978, 92 Stat. 1511.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 300j–1(a)(2) of this title, referred to in par. (3)(A), was amended by Pub. L. 104–182, title I, §121(3), (4)(A), Aug. 6, 1996, 110 Stat. 1651, to redesignate par. (2)(B) as subsec. (b) of section 300j–1, strike par. (2)(A), and add a new par. (2) relating to information and research facilities.

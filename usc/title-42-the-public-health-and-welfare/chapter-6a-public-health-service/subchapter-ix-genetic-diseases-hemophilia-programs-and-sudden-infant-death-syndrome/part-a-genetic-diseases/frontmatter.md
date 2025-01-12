@@ -1,5 +1,7 @@
 ### Part A—Genetic Diseases ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 407, substituted "Genetic Diseases" for "Sickle Cell Anemia Programs" in part A heading.

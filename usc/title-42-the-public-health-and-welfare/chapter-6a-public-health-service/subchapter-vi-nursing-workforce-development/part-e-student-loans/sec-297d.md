@@ -24,6 +24,8 @@ The Federal capital contributions to a loan fund of a school under this part sha
 
 (July 1, 1944, ch. 373, title VIII, §838, formerly §825, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 915; amended Pub. L. 89–751, §6(c), Nov. 3, 1966, 80 Stat. 1235; Pub. L. 90–490, title II, §222(e), Aug. 16, 1968, 82 Stat. 785; renumbered §838 and amended Pub. L. 94–63, title IX, §941(h)(1), (2), (4)(A), (i)(1), (4), July 29, 1975, 89 Stat. 365, 366; Pub. L. 99–92, §8(e), Aug. 16, 1985, 99 Stat. 398; Pub. L. 100–607, title VII, §713(h)(1), Nov. 4, 1988, 102 Stat. 3161; Pub. L. 102–408, title II, §208(a), Oct. 13, 1992, 106 Stat. 2075; Pub. L. 111–148, title V, §5310(b)(2), Mar. 23, 2010, 124 Stat. 631.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 297c of this title, referred to in subsec. (a)(2)(A), was repealed by Pub. L. 105–392, title I, §123(3), Nov. 13, 1998, 112 Stat. 3562.
@@ -53,6 +55,8 @@ Subsec. (c). Pub. L. 94–63, §941(h)(1), substituted "subpart" for "part".
 **1966**—Subsec. (a). Pub. L. 89–751, §6(c)(1), authorized allotment of appropriations for payment as Federal capital contributions or as loans to schools under section 297f of this title, and directed that funds available in any fiscal year for payment to schools under this part (whether as Federal capital contributions or as loans to schools under section 297f of this title) which are in excess of the amount appropriated pursuant to section 297c of this title for that year shall be allotted among States and among schools within States in such manner as the Secretary determinates will best carry out the purposes of this part.
 
 Subsec. (b)(1). Pub. L. 89–751, §6(c)(2), substituted "schools of nursing in a State must file applications for Federal capital contributions, and for loans pursuant to section 297f of this title, from the allotment of such State under the first two sentences of subsection (a) of this section" for "schools of nursing with which he has in effect agreements under this part must file applications for Federal capital contributions to their loan funds pursuant to section 297a(b)(2)(A) of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

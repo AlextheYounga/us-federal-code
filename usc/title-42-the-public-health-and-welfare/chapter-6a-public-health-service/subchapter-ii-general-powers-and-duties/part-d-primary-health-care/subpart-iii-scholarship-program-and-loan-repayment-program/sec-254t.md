@@ -76,6 +76,8 @@ If the Secretary determines and certifies to Congress by not later than Septembe
 
 (July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 107–251, title III, §317, Oct. 26, 2002, 116 Stat. 1653.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 254t, act July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 101–527, §8, Nov. 6, 1990, 104 Stat. 2328, related to demonstration grants to States for community scholarship programs, prior to repeal by Pub. L. 107–251, title III, §316, Oct. 26, 2002, 116 Stat. 1653.

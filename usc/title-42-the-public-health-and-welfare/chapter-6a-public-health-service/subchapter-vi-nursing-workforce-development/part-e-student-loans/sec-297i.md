@@ -4,6 +4,8 @@ In any case in which the Secretary intends to terminate an agreement with a scho
 
 (July 1, 1944, ch. 373, title VIII, §842, as added Pub. L. 99–92, §8(g), Aug. 16, 1985, 99 Stat. 399; amended Pub. L. 111–148, title V, §5310(b)(2), Mar. 23, 2010, 124 Stat. 631.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 297i, act July 1, 1944, ch. 373, title VIII, §830, as added Nov. 18, 1971, Pub. L. 92–158, §6(b)(2), 85 Stat. 477, relating to loan forgiveness, was transferred to and redesignated as subsec. (j) of section 823 of act July 1, 1944, which is classified to section 297b of this title, by Pub. L. 94–63, title IX, §941(h)(5), July 29, 1975, 89 Stat. 365.
@@ -23,6 +25,8 @@ A prior section 297k, act July 1, 1944, ch. 373, title VIII, §846, formerly §8
 #### Amendments ####
 
 **2010**—Pub. L. 111–148 substituted "this part" for "this subpart".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

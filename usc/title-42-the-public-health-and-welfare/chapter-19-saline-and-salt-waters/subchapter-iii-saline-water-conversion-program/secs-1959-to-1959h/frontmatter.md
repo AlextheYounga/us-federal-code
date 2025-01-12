@@ -18,6 +18,8 @@ Section 1959g, Pub. L. 92–60, §9, July 29, 1971, 85 Stat. 162, defined terms 
 
 Section 1959h, Pub. L. 92–60, §10, July 29, 1971, 85 Stat. 162; Pub. L. 95–84, §1(a)(2), Aug. 2, 1977, 91 Stat. 400, authorized appropriations for saline water conversion programs. See sections 7873 and 7874 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 92–60, §1, July 29, 1971, 85 Stat. 159, which provided that Pub. L. 92–60, which enacted sections 1959 to 1959h of this title and repealed sections 1951 to 1958 of this title may be cited as "The Saline Water Conversion Act of 1971" was repealed by Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316.

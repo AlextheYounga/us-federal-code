@@ -1,5 +1,7 @@
 ### §§1401 to 1404. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1401 to 1404 were omitted in the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
@@ -11,6 +13,8 @@ Section 1402, acts, Sept. 1, 1937, ch. 896, §2, 50 Stat. 888; July 15, 1949, ch
 Section 1403, acts Sept. 1, 1937, ch. 896, §3, 50 Stat. 889; May 25, 1967, Pub. L. 90–19, §2(b), 81 Stat. 20; Aug. 1, 1968, Pub. L. 90–448, title XVII, §1719(a), 82 Stat. 610, created the United States Housing Authority in the Department of Housing and Urban Development.
 
 Section 1404, acts Sept. 1, 1937, ch. 896, §4, 50 Stat. 889; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; May 25, 1967, Pub. L. 90–19, §2(a), (c), 81 Stat. 19, 20, provided for assistance of officers, etc., of other agencies and transfer of property to the Authority.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1969 Amendment; Applicability ####
 

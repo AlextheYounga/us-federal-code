@@ -1,5 +1,7 @@
 ### §287c. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act July 1, 1944, ch. 373, title IV, §485B, as added Pub. L. 103–43, title XV, §1521(2), June 10, 1993, 107 Stat. 180, which set out the purpose of the National Center for Human Genome Research, was renumbered section 464z–1 of act July 1, 1944, by Pub. L. 109–482, title I, §101(c)(4)(A), Jan. 15, 2007, 120 Stat. 3681, and transferred to section 285s of this title.

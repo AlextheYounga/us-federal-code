@@ -28,6 +28,8 @@ A State may not make payments from a grant under subsection (a) for any item or 
 
 (July 1, 1944, ch. 373, title III, §395, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 979; amended Pub. L. 101–557, title I, §101(a)–(c), Nov. 15, 1990, 104 Stat. 2766; Pub. L. 102–108, §2(f), Aug. 17, 1991, 105 Stat. 550.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 280C, act July 1, 1944, ch. 373, title III, §399A, formerly §399c, as added Dec. 29, 1973, Pub. L. 93–222, §3, 87 Stat. 934; renumbered §399A, July 29, 1975, Pub. L. 94–63, title VI, §607(a), (c), 89 Stat. 351, provided for programs designed to assure the quality of health care, prior to repeal by Pub. L. 95–623, §11(b), Nov. 9, 1978, 92 Stat. 3455.
@@ -43,6 +45,8 @@ A prior section 395 of act July 1, 1944, ch. 373, title III, formerly §397, as 
 Subsec. (a)(1). Pub. L. 101–557, §101(b), substituted "skilled nursing care services, homemaker or home health aide services, or personal care services are provided in the homes of the individuals" for "skilled medical services or related health services (or both) are provided in the homes of the individuals".
 
 Subsec. (b). Pub. L. 101–557, §101(c), substituted "to ensure that—" and pars. (1) and (2) for "to ensure that not less than 25 percent of individuals receiving services pursuant to subsection (a) of this section are individuals who are not less than 65 years of age".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

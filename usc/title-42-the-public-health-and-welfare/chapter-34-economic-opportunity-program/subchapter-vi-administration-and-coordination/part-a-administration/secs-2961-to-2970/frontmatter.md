@@ -20,9 +20,13 @@ Section 2969, Pub. L. 88–452, title VI, §619, as added Pub. L. 89–794, titl
 
 Section 2970, Pub. L. 88–452, title VI, §620, as added Pub. L. 89–794, title VI, §614(a), Nov. 8, 1966, 80 Stat. 1472; amended Pub. L. 95–568, §13(h), Nov. 2, 1978, 92 Stat. 2436, related to maximum use of private enterprise resources.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11466 ####
 

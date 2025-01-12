@@ -76,6 +76,8 @@ With respect to reports required in subsection (d), each such report made on or 
 
 (July 1, 1944, ch. 373, title VII, §792, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2058; amended Pub. L. 105–392, title I, §106(b), Nov. 13, 1998, 112 Stat. 3559.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 792 of act July 1, 1944, was classified to section 295h–1b of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
@@ -85,6 +87,8 @@ Another prior section 792 of act July 1, 1944, was classified to section 295h–
 #### Amendments ####
 
 **1998**—Subsec. (a). Pub. L. 105–392 inserted "professional counselors," after "clinical psychologists,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Study Regarding Shortages of Licensed Pharmacists ####
 

@@ -1,5 +1,7 @@
 ### §§11221 to 11223. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 11221 to 11223, which provided for the establishment of the Advisory Panel on Alzheimer's Disease, were omitted pursuant to section 11221(i), which provided that the Panel and all programs established under this subchapter shall terminate on Sept. 30, 1996. See section 11225 of this title.

@@ -4,9 +4,13 @@ The Secretary may agree to modifications of agreements or loans made under this 
 
 (July 1, 1944, ch. 373, title VII, §725, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2019.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 725 of act July 1, 1944, was classified to section 293e of this title prior to the general revision of this subchapter by Pub. L. 102–408.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Health Professions Education Fund; Availability of Fund; Deposit in Fund of: Interest Payments or Repayments of Principal on Loans; Transfer of Excess Moneys to General Fund of the Treasury; Authorization of Appropriations for Payments Under Agreements ####
 

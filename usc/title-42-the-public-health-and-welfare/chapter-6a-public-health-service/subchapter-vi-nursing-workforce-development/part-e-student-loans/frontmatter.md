@@ -1,5 +1,7 @@
 ### Part E—Student Loans ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562, redesignated subpart II of part B as part E.

@@ -2,6 +2,8 @@
 
 Section, act July 1, 1944, ch. 373, title III, §305, as added July 3, 1956, ch. 510, §3, 70 Stat. 490; amended Oct. 30, 1970, Pub. L. 91–515, title II, §210, 84 Stat. 1303; June 18, 1973, Pub. L. 93–45, title I, §103, 87 Stat. 91; July 23, 1974, Pub. L. 93–353, title I, §104, 88 Stat. 363; Oct. 8, 1976, Pub. L. 94–460, title III, §301, 90 Stat. 1960; Nov. 9, 1978, Pub. L. 95–623, §4, 92 Stat. 3445; Aug. 13, 1981, Pub. L. 97–35, title IX, §919(a)(1), (2)(A), (3), (b)(1), (c), (d), 95 Stat. 565, 566; Oct. 30, 1984, Pub. L. 98–551, §§5(a), (b), 6, 98 Stat. 2817, 2819, 2820; Oct. 7, 1985, Pub. L. 99–117, §6, 99 Stat. 492; Nov. 14, 1986, Pub. L. 99–660, title III, §311(b)(2), 100 Stat. 3779; Dec. 1, 1987, Pub. L. 100–177, title I, §§101, 102, 101 Stat. 987; Nov. 4, 1988, Pub. L. 100–607, title II, §204(1), 102 Stat. 3079; Nov. 18, 1988, Pub. L. 100–690, title II, §2620(b)(3), 102 Stat. 4244; Aug. 16, 1989, Pub. L. 101–93, §5(e)(3), 103 Stat. 612, related to National Center for Health Services Research and Health Care Technology Assessment.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination of National Center for Health Services Research and Health Care Technology Assessment ####
 
 Pub. L. 101–239, title VI, §6103(d)(1)(A), Dec. 19, 1989, 103 Stat. 2205, provided in part that the National Center for Health Services Research and Health Care Technology Assessment is terminated.

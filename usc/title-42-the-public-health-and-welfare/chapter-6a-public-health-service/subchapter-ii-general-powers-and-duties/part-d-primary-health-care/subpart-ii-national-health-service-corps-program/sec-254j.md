@@ -16,6 +16,8 @@ Section 14 of the Federal Advisory Committee Act shall not apply with respect to
 
 (July 1, 1944, ch. 373, title III, §337, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2277; amended Pub. L. 96–32, §7(g), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title XXVII, §2707, Aug. 13, 1981, 95 Stat. 907; Pub. L. 97–414, §8(f), Jan. 4, 1983, 96 Stat. 2061; Pub. L. 103–183, title VII, §706(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 111–148, title X, §10501(n)(3), Mar. 23, 2010, 124 Stat. 1003.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 254r of this title, referred to in subsec. (a), was in the original a reference to section 338G of act July 1, 1944, which was renumbered section 338I by Pub. L. 100–177, title II, §201(1), Dec. 1, 1987, 101 Stat. 992, and repealed by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
@@ -35,6 +37,8 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is
 Subsec. (b)(1). Pub. L. 97–35, §2707(b), inserted "not" before "be reappointed".
 
 **1979**—Subsec. (b)(2). Pub. L. 96–32 substituted "section 5703 of title 5" for "section 5703(b) of title 5".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Committees ####
 

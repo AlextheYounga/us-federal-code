@@ -54,6 +54,8 @@ Sec.
 
 9926. Projects to expand the number of job opportunities available to certain low-income individuals.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The Community Services Block Grant Act, comprising this chapter, was originally enacted by subtitle B of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 511, and amended by Pub. L. 97–115, Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–288, May 21, 1984, 98 Stat. 189; Pub. L. 98–558, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–501, Nov. 3, 1990, 104 Stat. 1222; Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359; Pub. L. 103–94, Oct. 6, 1993, 107 Stat. 1001; Pub. L. 103–171, Dec. 2, 1993, 107 Stat. 1988; Pub. L. 103–252, May 18, 1994, 108 Stat. 623. The Community Services Block Grant Act is shown herein, however, as having been added by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728, without reference to those intervening amendments because of the extensive revision of that Act by Pub. L. 105–285.

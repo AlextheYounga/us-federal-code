@@ -24,6 +24,8 @@ Section 8611, Pub. L. 96–223, title III, §312, Apr. 2, 1980, 94 Stat. 298, se
 
 Section 8612, Pub. L. 96–223, title III, §313(a)–(c)(1), (d)–(g), Apr. 2, 1980, 94 Stat. 298, 299, related to administration and implementation of energy assistance programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 97–35, title XXVI, §2611, Aug. 13, 1981, 95 Stat. 902, provided that the repeal made by that section is effective Oct. 1, 1981.

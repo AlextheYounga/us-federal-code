@@ -1,5 +1,7 @@
 ### subpart iii—general provisions ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 106–501, title III, §312(b), Nov. 13, 2000, 114 Stat. 2252, redesignated subpart IV of this part as subpart III.

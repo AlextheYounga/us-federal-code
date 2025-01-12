@@ -28,6 +28,8 @@ Amendment of section by section 125(d)(2) of Pub. L. 116–260 applicable to ite
 
 Amendment of section by section 407(a)(3)(A) of Pub. L. 116–260 applicable with respect to agreements entered into on or after, or in effect as of, the date that is 1 year after Dec. 27, 2020. See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (a). Pub. L. 116–260, §407(a)(3)(A), inserted "and hospice programs" after "information on home health agencies", "or the hospice program" after "the home health agency", "or the hospice program" after "with respect to the agency", and "and hospice programs" after "with respect to home health agencies".
@@ -113,6 +115,8 @@ Subsec. (c). Pub. L. 92–603, §244(a), added subsec. (c).
 **1968**—Subsec. (a). Pub. L. 90–248, §133(f), inserted clause at end of first sentence for determining whether a clinic, rehabilitation agency, or public health agency meets the requirements of section 1395x(p)(4)(A) or (B) of this title.
 
 Pub. L. 90–248, §228(b), struck out last sentence providing for utilization of State facilities to provide consultative services to institutions furnishing medical care, covered in section 1396a(a)(24) of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

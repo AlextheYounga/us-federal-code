@@ -38,6 +38,8 @@ The Secretary, with the consent of the Secretary of Housing and Urban Developmen
 
 (July 1, 1944, ch. 373, title XVI, §1601, formerly §1620, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2264; amended Pub. L. 94–273, §2(21), Apr. 21, 1976, 90 Stat. 376; Pub. L. 95–83, title I, §106(x)(1), Aug. 1, 1977, 91 Stat. 385; renumbered §1601 and amended Pub. L. 96–79, title II, §§201(b)(1), 203(a)(1), (2), Oct. 4, 1979, 93 Stat. 630, 635.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1601 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1975, Pub. L. 93–641, §4, 88 Stat. 2258, was classified to section 300o of this title, prior to repeal by Pub. L. 96–79, §202(a).
@@ -51,6 +53,8 @@ Subsec. (b). Pub. L. 96–79, §201(b)(1), added subsec. (b) and incorporated ex
 **1977**—Subsecs. (a), (b)(1). Pub. L. 95–83 substituted "September 30, 1978" for "September 30, 1977".
 
 **1976**—Subsecs. (a), (b)(1). Pub. L. 94–273 substituted "September" for "June".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1979 Amendment ####
 

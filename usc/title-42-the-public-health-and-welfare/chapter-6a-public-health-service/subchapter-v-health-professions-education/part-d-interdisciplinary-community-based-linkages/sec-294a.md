@@ -148,6 +148,8 @@ It is the sense of the Congress that every State have an area health education c
 
 (July 1, 1944, ch. 373, title VII, §751, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3541; amended Pub. L. 111–148, title V, §5403(a), Mar. 23, 2010, 124 Stat. 644; Pub. L. 113–128, title V, §512(z)(2), July 22, 2014, 128 Stat. 1716; Pub. L. 116–136, div. A, title III, §3401(6), Mar. 27, 2020, 134 Stat. 386.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 294a, act July 1, 1944, ch. 373, title VII, §762, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2046, authorized grants and contracts for public health special projects, prior to the general amendment of this part by Pub. L. 105–392.
@@ -169,6 +171,8 @@ Another prior section 751 of act July 1, 1944, was classified to section 294t of
 **2014**—Subsec. (c)(1)(A). Pub. L. 113–128 substituted "the applicable one-stop delivery system under section 3151(e) of title 29," for "the applicable one-stop delivery system under section 2864(c) of title 29,".
 
 **2010**—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) which related to authority for provision of financial assistance, requirements for centers, and allocations and costs.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

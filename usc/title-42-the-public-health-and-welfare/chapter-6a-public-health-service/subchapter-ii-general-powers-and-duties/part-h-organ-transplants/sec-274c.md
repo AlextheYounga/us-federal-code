@@ -16,6 +16,8 @@ The Secretary shall designate and maintain an identifiable administrative unit i
 
 (July 1, 1944, ch. 373, title III, §375, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2346; amended Pub. L. 100–607, title IV, §405, Nov. 4, 1988, 102 Stat. 3116; Pub. L. 101–616, title II, §204, Nov. 16, 1990, 104 Stat. 3285.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.

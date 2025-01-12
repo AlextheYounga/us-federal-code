@@ -66,6 +66,8 @@ Amounts equal to the amounts deducted pursuant to this section shall be transfer
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Pub. L. 100–203, title IV, §4052(a), Dec. 22, 1987, 101 Stat. 1330–95; amended Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), July 1, 1988, 102 Stat. 780; Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), Oct. 13, 1988, 102 Stat. 2420.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 204(a)(1) of the Public Health Service Amendments of 1987, referred to in subsec. (a)(1)(B), is section 204(a)(1) of Pub. L. 100–177, title II, Dec. 1, 1987, 101 Stat. 1000, which is set out as a note under section 254o of this title.
@@ -115,6 +117,8 @@ Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §60
 Subsec. (d)(4) to (6). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" wherever appearing.
 
 Subsec. (e). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

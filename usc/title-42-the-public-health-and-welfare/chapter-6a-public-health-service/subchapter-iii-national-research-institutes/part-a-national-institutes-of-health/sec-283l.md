@@ -6,6 +6,8 @@
 
 (July 1, 1944, ch. 373, title IV, §404J, formerly §481B, as added Pub. L. 103–43, title XV, §1503, June 10, 1993, 107 Stat. 178; amended Pub. L. 105–392, title IV, §411, Nov. 13, 1998, 112 Stat. 3590; Pub. L. 106–505, title III, §304, Nov. 13, 2000, 114 Stat. 2335; Pub. L. 109–482, title I, §103(b)(41), Jan. 15, 2007, 120 Stat. 3688; renumbered §404J and amended Pub. L. 112–74, div. F, title II, §221(b)(2), Dec. 23, 2011, 125 Stat. 1088.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 287a–3 of this title.
@@ -19,6 +21,8 @@ Section was formerly classified to section 287a–3 of this title.
 **2000**—Subsec. (a). Pub. L. 106–505, which directed the amendment of subsec. (a) by substituting "2000 through 2002, reserve from the amounts appropriated under section 287a–2(i) of this title such sums as necessary" for " '1994' and all that follows through '$5,000,000' ", was executed by making the substitution for "1994 through 1996, reserve from the amounts appropriated under section 287a–2(h) of this title up to $2,500,000", to reflect the probable intent of Congress and the amendment by Pub. L. 105–392. See 1998 Amendment note below.
 
 **1998**—Subsec. (a). Pub. L. 105–392, in first sentence, substituted "may" for "shall" and "up to $2,500,000" for "$5,000,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

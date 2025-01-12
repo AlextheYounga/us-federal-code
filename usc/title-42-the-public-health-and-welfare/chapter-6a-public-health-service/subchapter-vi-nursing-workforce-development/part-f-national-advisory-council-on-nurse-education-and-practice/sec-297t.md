@@ -80,6 +80,8 @@ The Federal Advisory Committee Act shall apply to the Advisory Committee under t
 
 (July 1, 1944, ch. 373, title VIII, §851, formerly §845, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3572; renumbered §851, Pub. L. 111–148, title V, §5310(b)(8)(A), Mar. 23, 2010, 124 Stat. 631; amended Pub. L. 116–136, div. A, title III, §3404(a)(11), Mar. 27, 2020, 134 Stat. 394; Pub. L. 116–260, div. BB, title III, §331(b), Dec. 27, 2020, 134 Stat. 2938.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -104,10 +106,12 @@ Pub. L. 116–136, §3404(a)(11)(B), substituted "2 years after the date of enac
 
 Subsec. (g). Pub. L. 116–136, §3404(a)(11)(C), substituted "for carrying out parts B, C, and D" for "under this subchapter".
 
-#### Termination of Advisory Committees ####
-
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 
 Amendment by Pub. L. 116–260 effective as if included in the enactment of Pub. L. 116–136, see section 331(d) of div. BB of Pub. L. 116–260, set out as a note under section 294c of this title.
+
+#### Termination of Advisory Committees ####
+
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.

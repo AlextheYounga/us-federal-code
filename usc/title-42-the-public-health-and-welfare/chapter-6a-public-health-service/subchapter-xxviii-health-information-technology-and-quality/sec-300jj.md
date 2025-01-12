@@ -80,6 +80,8 @@ The term "State" means each of the several States, the District of Columbia, Pue
 
 (July 1, 1944, ch. 373, title XXX, §3000, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 228; amended Pub. L. 114–255, div. A, title IV, §4003(a), (e)(2)(B), Dec. 13, 2016, 130 Stat. 1165, 1174; Pub. L. 116–260, div. CC, title I, §119(b), Dec. 27, 2020, 134 Stat. 2952.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Indian Self-Determination and Education Assistance Act, referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
@@ -103,6 +105,8 @@ Pars. (11) to (14). Pub. L. 114–255, §4003(e)(2)(B)(i), redesignated pars. (1
 Pub. L. 114–255, §4003(a)(1), redesignated pars. (10) to (13) as (11) to (14), respectively. Former par. (14) redesignated (15).
 
 Par. (15). Pub. L. 114–255, §4003(a)(1), redesignated par. (14) as (15).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Assisting Doctors and Hospitals in Improving Quality of Care for Patients ####
 

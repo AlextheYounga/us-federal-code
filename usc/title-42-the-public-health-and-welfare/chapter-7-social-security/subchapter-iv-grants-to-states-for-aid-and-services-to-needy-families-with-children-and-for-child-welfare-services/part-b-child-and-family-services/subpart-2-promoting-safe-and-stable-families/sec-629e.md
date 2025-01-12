@@ -166,6 +166,8 @@ In addition to any amounts otherwise made available to carry out this subpart, o
 
 (Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243; Pub. L. 115–271, title VIII, §8082(a), Oct. 24, 2018, 132 Stat. 4098.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 435 of act Aug. 14, 1935, was classified to section 635 of this title prior to repeal by Pub. L. 100–485.
@@ -185,6 +187,8 @@ Subsec. (a)(1). Pub. L. 107–133, §105(1), substituted "The Secretary shall ev
 Subsec. (a)(3). Pub. L. 107–133, §105(2), added par. (3).
 
 Subsecs. (c), (d). Pub. L. 107–133, §105(3), added subsecs. (c) and (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2006 Amendment ####
 

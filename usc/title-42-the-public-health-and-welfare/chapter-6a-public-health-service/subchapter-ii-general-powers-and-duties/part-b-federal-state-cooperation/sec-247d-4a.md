@@ -4,6 +4,8 @@ There is established in the Treasury a reserve fund to be known as the "Infectio
 
 (Pub. L. 115–245, div. B, title II, §231, Sept. 28, 2018, 132 Stat. 3095.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 CDC and NIH, referred to in text, mean the Centers for Disease Control and Prevention and the National Institutes of Health, respectively.
@@ -13,6 +15,8 @@ The PHS Act, referred to in text, means the Public Health Service Act, act July 
 #### Codification ####
 
 Section was enacted as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2019, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Reports Required ####
 

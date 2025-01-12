@@ -84,6 +84,8 @@ An organization that offers health benefits coverage shall not be considered as 
 
 (July 1, 1944, ch. 373, title XIII, §1301, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 914; amended Pub. L. 94–460, title I, §§101, 102(a), 103, 105(a), Oct. 8, 1976, 90 Stat. 1945–1947; Pub. L. 95–559, §§9(b), 10, 11(a)–(d), Nov. 1, 1978, 92 Stat. 2137–2139; Pub. L. 96–32, §2(b), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §942(a)(1), (2), (b)–(e), Aug. 13, 1981, 95 Stat. 573, 574; Pub. L. 100–517, §§2–4(a), 5(a)(1), (2), (b), Oct. 24, 1988, 102 Stat. 2578, 2579; Pub. L. 104–191, title I, §§102(b), 193, Aug. 21, 1996, 110 Stat. 1976, 1988.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 300e–9(d) of this title, referred to in subsec. (b)(1), (2), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
@@ -159,6 +161,8 @@ Subsec. (b)(4). Pub. L. 94–460, §101(c), substituted "and only such supplemen
 Subsec. (c)(4). Pub. L. 94–460, §103(a), substituted provisions making a simple reference to an open enrollment period in accordance with the provisions of subsec. (d) of this section for provisions spelling out in detail the requirements for a health maintenance organization with regard to an open enrollment period.
 
 Subsec. (d). Pub. L. 94–460, §103(b), added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

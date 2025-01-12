@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to December 1, 2020)
+(As amended to December 1, 2021)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -174,7 +174,9 @@ Rule
 
 Form
 
-1. Notice of Appeal to a Court of Appeals From a Judgment or Order of a District Court.
+1A. Notice of Appeal to a Court of Appeals From a Judgment of a District Court.
+
+1B. Notice of Appeal to a Court of Appeals From an Appealable Order of a District Court.
 
 2. Notice of Appeal to a Court of Appeals From a Decision of the United States Tax Court.
 
@@ -286,7 +288,7 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (A) specify the party or parties taking the appeal by naming each one in the caption or body of the notice, but an attorney representing more than one party may describe those parties with such terms as "all plaintiffs," "the defendants," "the plaintiffs A, B, et al.," or "all defendants except X";
 
-(B) designate the judgment, order, or part thereof being appealed; and
+(B) designate the judgment—or the appealable order—from which the appeal is taken; and
 
 (C) name the court to which the appeal is taken.
 
@@ -294,9 +296,19 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (3) In a class action, whether or not the class has been certified, the notice of appeal is sufficient if it names one person qualified to bring the appeal as representative of the class.
 
-(4) An appeal must not be dismissed for informality of form or title of the notice of appeal, or for failure to name a party whose intent to appeal is otherwise clear from the notice.
+(4) The notice of appeal encompasses all orders that, for purposes of appeal, merge into the designated judgment or appealable order. It is not necessary to designate those orders in the notice of appeal.
 
-(5) Form 1 in the Appendix of Forms is a suggested form of a notice of appeal.
+(5) In a civil case, a notice of appeal encompasses the final judgment, whether or not that judgment is set out in a separate document under Federal Rule of Civil Procedure 58, if the notice designates:
+
+(A) an order that adjudicates all remaining claims and the rights and liabilities of all remaining parties; or
+
+(B) an order described in Rule 4(a)(4)(A).
+
+(6) An appellant may designate only part of a judgment or appealable order by expressly stating that the notice of appeal is so limited. Without such an express statement, specific designations do not limit the scope of the notice of appeal.
+
+(7) An appeal must not be dismissed for informality of form or title of the notice of appeal, for failure to name a party whose intent to appeal is otherwise clear from the notice, or for failure to properly designate the judgment if the notice of appeal was filed after entry of the judgment and designates an order that merged into that judgment.
+
+(8)	Forms 1A and 1B in the Appendix of Forms are suggested forms of notices of appeal.
 
 (d) Serving the Notice of Appeal.
 
@@ -308,7 +320,7 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (e) Payment of Fees. Upon filing a notice of appeal, the appellant must pay the district clerk all required fees. The district clerk receives the appellate docket fee on behalf of the court of appeals.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 14, 2021, eff. Dec. 1, 2021.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -379,6 +391,38 @@ The language also requires court action to join appeals after separate notices o
 #### Committee Notes on Rules—2019 Amendment ####
 
 Amendments to Subdivision (d) change the words "mailing" and "mails" to "sending" and "sends," and delete language requiring certain forms of service, to allow for electronic service. Other rules determine when a party or the clerk may or must send a notice electronically or non-electronically.
+
+#### Committee Notes on Rules—2021 Amendment ####
+
+The notice of appeal is supposed to be a simple document that provides notice that a party is appealing and invokes the jurisdiction of the court of appeals. It therefore must state who is appealing, what is being appealed, and to what court the appeal is being taken. It is the role of the briefs, not the notice of appeal, to focus the issues on appeal.
+
+Because the jurisdiction of the court of appeals is established by statute, an appeal can be taken only from those district court decisions from which Congress has authorized an appeal. In most instances, that is the final judgment, see, e.g., 28 U.S.C. §1291, but some other orders are considered final within the meaning of 28 U.S.C. §1291, and some interlocutory orders are themselves appealable, see, e.g., 28 U.S.C. §1292. Accordingly, Rule 3(c)(1) currently requires that the notice of appeal "designate the judgment, order, or part thereof being appealed." The judgment or order to be designated is the one serving as the basis of the court's appellate jurisdiction and from which time limits are calculated.
+
+However, some have interpreted this language as an invitation, if not a requirement, to designate each and every order of the district court that the appellant may wish to challenge on appeal. Such an interpretation overlooks a key distinction between the judgment or order on appeal—the one serving as the basis of the court's appellate jurisdiction and from which time limits are calculated—and the various orders or decisions that may be reviewed on appeal because they merge into the judgment or order on appeal. Designation of the final judgment confers appellate jurisdiction over prior interlocutory orders that merge into the final judgment. The merger principle is a corollary of the final judgment rule: a party cannot appeal from most interlocutory orders, but must await final judgment, and only then obtain review of interlocutory orders on appeal from the final judgment.
+
+In an effort to avoid the misconception that it is necessary or appropriate to designate each and every order of the district court that the appellant may wish to challenge on appeal, Rule 3(c)(1) is amended to require the designation of "the judgment—or the appealable order—from which the appeal is taken," and the phrase "or part thereof" is deleted. In most cases, because of the merger principle, it is appropriate to designate only the judgment. In other cases, particularly where an appeal from an interlocutory order is authorized, the notice of appeal must designate that appealable order.
+
+Whether due to misunderstanding or a misguided attempt at caution, some notices of appeal designate both the judgment and some particular order that the appellant wishes to challenge on appeal. A number of courts, using an *expressio unius* rationale, have held that such a designation of a particular order limits the scope of the notice of appeal to the particular order, and prevents the appellant from challenging other orders that would otherwise be reviewable, under the merger principle, on appeal from the final judgment. These decisions inadvertently create a trap for the unwary.
+
+However, there are circumstances in which an appellant may deliberately choose to limit the scope of the notice of appeal, and it is desirable to enable the appellant to convey this deliberate choice to the other parties.
+
+To alert readers to the merger principle, a new provision is added to Rule 3(c): "The notice of appeal encompasses all orders that, for purposes of appeal, merge into the designated judgment or appealable order. It is not necessary to designate those orders in the notice of appeal." The general merger rule can be stated simply: an appeal from a final judgment permits review of all rulings that led up to the judgment. Because this general rule is subject to some exceptions and complications, the amendment does not attempt to codify the merger principle but instead leaves its details to case law.
+
+The amendment does not change the principle established in *Tudinich v. Becton Dickinson & Co.*, 486 U.S. 196, 202–03 (1988), that "a decision on the merits is a 'final decision' for purposes of §1291 whether or not there remains for adjudication a request for attorney's fees attributable to the case." *See also Ray Haluch Gravel Co. v. Cent. Pension Fund of Int'l Union of Operating Eng'rs & Participating Emp.'s*, 571 U.S. 177, 179 (2014) ("Whether the claim for attorney's fees is based on a statute, a contract, or both, the pendency of a ruling on an award for fees and costs does not prevent, as a general rule, the merits judgment from becoming final for purposes of appeal.").
+
+To remove the trap for the unwary, while enabling deliberate limitations of the notice of appeal, another new provision is added to Rule 3(c): "An appellant may designate only part of a judgment or appealable order by expressly stating that the notice of appeal is so limited. Without such an express statement, specific designations do not limit the scope of the notice of appeal."
+
+A related problem arises when a case is decided by a series of orders, sometimes separated by a year or more. For example, some claims might be dismissed for failure to state a claim under Fed. R. Civ. P. 12(b)(6), and then, after a considerable period for discovery, summary judgment under Fed. R. Civ. P. 56 is granted in favor of the defendant on the remaining claims. That second order, because it resolves all of the remaining claims, is a final judgment, and an appeal from that final judgment confers jurisdiction to review the earlier Fed. R. Civ. P. 12(b)(6) dismissal. But if a notice of appeal describes the second order, not as a final judgment, but as an order granting summary judgment, some courts would limit appellate review to the summary judgment and refuse to consider a challenge to the earlier Fed. R. Civ. P. 12(b)(6) dismissal. Similarly, if the district court complies with the separate document requirement of Fed. R. Civ. P. 58, and enters both an order granting summary judgment as to the remaining claims and a separate document denying all relief, but the notice of appeal designates the order granting summary judgment rather than the separate document, some courts would likewise limit appellate review to the summary judgment and refuse to consider a challenge to the earlier Fed. R. Civ. P. 12(b)(6) dismissal. This creates a trap for all but the most wary, because at the time that the district court issues the order disposing of all remaining claims, a litigant may not know whether the district court will ever enter the separate document required by Fed. R. Civ. P. 58.
+
+To remove this trap, a new provision is added to Rule 3(c): "In a civil case, a notice of appeal encompasses the final judgment, whether or not that judgment is set out in a separate document under Federal Rule of Civil Procedure 58, if the notice designates . . . an order that adjudicates all remaining claims and the rights and liabilities of all remaining parties . . . ."
+
+Frequently, a party who is aggrieved by a final judgment will make a motion in the district court instead of filing a notice of appeal. Rule 4(a)(4) permits a party who makes certain motions to await disposition of those motions before appealing. But some courts treat a notice of appeal that designates only the order disposing of such a motion as limited to that order, rather than bringing the final judgment before the court of appeals for review. (Again, such an appeal might be brought before or after the judgment is set out in a separate document under Fed. R. Civ. P. 58.) To reduce the unintended loss of appellate rights in this situation, a new provision is added to Rule 3(c): "In a civil case, a notice of appeal encompasses the final judgment, whether or not that judgment is set out in a separate document under Federal Rule of Civil Procedure 58, if the notice designates . . . an order described in Rule 4(a)(4)(A)." This amendment does not alter the requirement of Rule 4(a)(4)(B)(ii) (requiring a notice of appeal or an amended notice of appeal if a party intends to challenge an order disposing of certain motions).
+
+Rule 3(c)(5) is limited to civil cases. Similar issues may arise in a small number of criminal cases, and similar treatment may be appropriate, but no inference should be drawn about how such issues should be handled in criminal cases.
+
+On occasion, a party may file a notice of appeal after a judgment but designate only a prior nonappealable decision that merged into that judgment. To deal with this situation, Rule 3(c)(7) provides that an appeal must not be dismissed for failure to properly designate the judgment if the notice of appeal was filed after entry of the judgment and designates an order that merged into that judgment. In this situation, a court should act as if the notice had properly designated the judgment. In determining whether a notice of appeal was filed after the entry of judgment, Rules 4(a)(2) and 4(b)(2) apply.
+
+The new provisions are added as Rules 3(c)(4), 3(c)(5), and 3(c)(6), with the existing Rules 3(c)(4) and 3(c)(5) renumbered. In addition, to reflect these changes to the rule, Form 1 is replaced by Forms 1A and 1B, and Form 2 is amended.
 
 ### [Rule 3.1. Appeal from a Judgment of a Magistrate Judge in a Civil Case] (Abrogated Apr. 24, 1998, eff. Dec. 1, 1998) ###
 
@@ -924,9 +968,9 @@ The Federal Courts Improvement Act of 1996, Pub. L. No. 104–317, abolished app
 
 (A) Rules 4(a)(4), 4(b), 9, 10, 11, 12(c), 13–20, 22–23, and 24(b) do not apply;
 
-(B) the reference in Rule 3(c) to "Form 1 in the Appendix of Forms" must be read as a reference to Form 5;
+(B) the reference in Rule 3(c) to "Forms 1A and 1B in the Appendix of Forms" must be read as a reference to Form 5;
 
-(C) when the appeal is from a bankruptcy appellate panel, "district court," as used in any applicable rule, means "appellate panel"; and
+(C) when the appeal is from a bankruptcy appellate panel, "district court," as used inany applicable rule, means "appellate panel"; and
 
 (D) in Rule 12.1, "district court" includes a bankruptcy court or bankruptcy appellate panel.
 
@@ -984,7 +1028,7 @@ The Federal Courts Improvement Act of 1996, Pub. L. No. 104–317, abolished app
 
 (E) *Filing a Representation Statement.* Unless the court of appeals designates another time, within 14 days after entry of the order granting permission to appeal, the attorney who sought permission must file a statement with the circuit clerk naming the parties that the attorney represents on appeal.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 14, 2021, eff. Dec. 1, 2021.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1047,6 +1091,10 @@ Subdivision (c)(2)(D), like subdivision (b)(2)(D), directs the clerk to note on 
 Subdivision (c)(2)(E) is modeled on Rule 12(b), with appropriate adjustments.
 
 *Changes Made After Publication and Comment.* No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2021 Amendment ####
+
+The amendment replaces Form 1 with Forms 1A and 1B to conform to the amendment to Rule 3(c).
 
 #### References in Text ####
 
@@ -4239,11 +4287,11 @@ The language and organization of the rule are amended to make the rule more easi
 
 ### APPENDIX OF FORMS ###
 
-### Form 1. Notice of Appeal to a Court of Appeals From a Judgment or Order of a District Court ###
+### Form 1A. Notice of Appeal to a Court of Appeals From a Judgment of a District Court ###
 
 ### United States District Court for the \_\_\_\_\_\_\_\_ District of \_\_\_\_\_\_\_\_\_\_\_\_ ###
 
-### File Number \_\_\_\_\_\_\_\_ ###
+### Docket Number \_\_\_\_\_\_\_\_ ###
 
 A.B., Plaintiff
 
@@ -4253,7 +4301,7 @@ v.
 
 C. D., Defendant
 
-Notice is hereby given that \_\_\_\_\_\_(here name all parties taking the appeal)\_\_\_\_\_\_, (plaintiffs) (defendants) in the above named case,\* hereby appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit (from the final judgment) (from an order (describing it)) entered in this action on the \_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_.
+\_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the final judgment entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (state the date the judgment was entered).
 
 (s)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4261,11 +4309,39 @@ Notice is hereby given that \_\_\_\_\_\_(here name all parties taking the appeal
 
 *Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
-[*Note to inmate filers:* *If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration along with this Notice of Appeal.*]
+[*Note to inmate filers:* *If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration with this Notice of Appeal.*]
 
 \* See Rule 3(c) for permissible ways of identifying appellants.
 
-(As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As added Apr. 14, 2021, eff. Dec. 1, 2021.)
+
+### Form 1B. Notice of Appeal to a Court of Appeals From an Appealable Order of a District Court ###
+
+### United States District Court for the \_\_\_\_\_\_\_\_ District of \_\_\_\_\_\_\_\_\_\_\_\_ ###
+
+### Docket Number \_\_\_\_\_\_\_\_ ###
+
+A.B., Plaintiff
+
+v.
+
+}Notice of Appeal
+
+C. D., Defendant
+
+\_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the order \_\_\_\_\_\_(describe the order) entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(state the date the order was entered).
+
+(s)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Attorney for \_\_\_\_\_\_\_\_\_\_\_\_*
+
+*Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+[*Note to inmate filers:* *If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration with this Notice of Appeal.*]
+
+\* See Rule 3(c) for permissible ways of identifying appellants.
+
+(As added Apr. 14, 2021, eff. Dec. 1, 2021.)
 
 ### Form 2. Notice of Appeal to a Court of Appeals From a Decision of the United States Tax Court ###
 
@@ -4273,31 +4349,31 @@ Notice is hereby given that \_\_\_\_\_\_(here name all parties taking the appeal
 
 ### Washington, D.C. ###
 
+### Docket No. \_\_\_\_\_\_\_\_ ###
+
 A.B., Petitioner
 
 *v.*
 
 Commissioner of
 
-}Docket No.\_\_\_\_\_\_\_\_
+}Notice of Appeal
 
 Internal Revenue,
 
 Respondent
 
-### Notice of Appeal ###
-
-Notice is hereby given that \_\_\_\_\_\_(here name all parties taking the appeal) \*\_\_\_\_\_\_ hereby appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from (that part of) the decision of this court entered in the above captioned proceeding on the \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_ (relating to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_).
+\_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the decision entered on \_\_\_\_\_\_\_\_(state the date the decision was entered).
 
 (s)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*Counsel for \_\_\_\_\_\_\_\_\_\_\_\_*
+*Attorney for \_\_\_\_\_\_\_\_\_\_\_\_*
 
 *Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 \* See Rule 3(c) for permissible ways of identifying appellants.
 
-(As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003.)
+(As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 14, 2021, eff. Dec. 1, 2021.)
 
 ### Form 3. Petition for Review of Order of an Agency, Board, Commission or Officer ###
 
@@ -4422,7 +4498,7 @@ Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is se
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to December 1, 2020)
+(As amended to December 1, 2021)
 
 #### Historical Note ####
 
@@ -16614,7 +16690,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to December 1, 2020)
+(As amended to December 1, 2021)
 
 #### Effective Date and Application of Rules ####
 

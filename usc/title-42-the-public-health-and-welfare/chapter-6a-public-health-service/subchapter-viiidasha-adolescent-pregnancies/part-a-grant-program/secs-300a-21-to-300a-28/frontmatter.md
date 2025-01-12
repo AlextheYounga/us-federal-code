@@ -18,6 +18,8 @@ Section 300a–28, Pub. L. 95–626, title VI, §608, Nov. 10, 1978, 92 Stat. 36
 
 See section 300z et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 97–35, title IX, §955(b), Aug. 13, 1981, 95 Stat. 592, provided that the repeal of sections 300a–21 to 300a–28 of this title is effective Oct. 1, 1981.

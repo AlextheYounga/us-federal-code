@@ -4,6 +4,8 @@ Not later than February 10 of 1991 and of each second year thereafter, the Secre
 
 (July 1, 1944, ch. 373, title III, §376, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2346; amended Pub. L. 100–607, title IV, §406, Nov. 4, 1988, 102 Stat. 3116; Pub. L. 101–616, title II, §205, Nov. 16, 1990, 104 Stat. 3285.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 376 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1, 70 Stat. 962, which related to Library facilities, was renumbered section 386 and classified to section 280 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
@@ -13,6 +15,8 @@ A prior section 376 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 **1990**—Pub. L. 101–616 substituted "Not later than February 10 of 1991 and of each second year thereafter, the Secretary shall publish, and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate." for "The Secretary shall, not later than October 1 of each year, publish".
 
 **1988**—Pub. L. 100–607 substituted "shall, not later than October 1 of each year," for "shall annually".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -12,6 +12,8 @@ Section 1335, act Aug. 14, 1935, ch. 531, title XIII, §1305, as added Aug. 10, 
 
 Section 1336, act Aug. 14, 1935, ch. 531, title XIII, §1306, as added Aug. 10, 1946, ch. 951, title III, §306, 60 Stat. 982; amended 1949 Reorg. Plan No. 2, §1, eff. Aug. 19, 1949, 14 F.R. 5225, 63 Stat. 1065, related to penalties.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 18, 1984, but such repeal shall not be construed as changing or affecting any right, liability, status, or interpretation which existed before that date, see section 2664(b) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 401 of this title.

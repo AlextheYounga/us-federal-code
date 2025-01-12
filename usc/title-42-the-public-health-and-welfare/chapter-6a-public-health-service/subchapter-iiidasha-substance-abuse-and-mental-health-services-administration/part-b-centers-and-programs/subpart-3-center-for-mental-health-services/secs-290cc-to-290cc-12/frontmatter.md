@@ -10,6 +10,8 @@ Section 290cc–11, act July 1, 1944, ch. 373, title V, §518, formerly §519, a
 
 Section 290cc–12, act July 1, 1944, ch. 373, title V, §519, formerly §520, as added Nov. 18, 1988, Pub. L. 100–690, title II, §2057(3), 102 Stat. 4212; renumbered §519, Aug. 16, 1989, Pub. L. 101–93, §3(e)(1)(A), 103 Stat. 610, related to National Mental Health Education Program.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.

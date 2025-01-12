@@ -206,6 +206,8 @@ An initiative subject to a waiver under paragraph (1) that is ongoing after the 
 
 (July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub. L. 98–49, July 13, 1983, 97 Stat. 245; amended Pub. L. 100–607, title II, §256(a), Nov. 4, 1988, 102 Stat. 3110; Pub. L. 102–321, title I, §163(b)(2), July 10, 1992, 106 Stat. 376; Pub. L. 102–531, title III, §312(d)(2), Oct. 27, 1992, 106 Stat. 3504, authorized the Secretary to take appropriate action relating to public health emergencies, prior to repeal by Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315.
@@ -233,6 +235,8 @@ Subsec. (e)(8). Pub. L. 116–22, §701(c), substituted "2023" for "2018".
 Pub. L. 107–188, §144(a), inserted at end of concluding provisions "Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination."
 
 Subsec. (d). Pub. L. 107–188, §141, added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
@@ -349,6 +353,8 @@ Pub. L. 116–136, div. B, title VIII, §18115(a)–(c), Mar. 27, 2020, 134 Stat
 "(b) Laboratories Covered.—The Secretary may prescribe which laboratories must submit reports pursuant to this section.
 
 "(c) Implementation.—The Secretary may make prescriptions under this section by regulation, including by interim final rule, or by guidance, and may issue such regulations or guidance without regard to the procedures otherwise required by section 553 of title 5, United States Code."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13987. Organizing and Mobilizing the United States Government To Provide a Unified and Effective Response To Combat COVID–19 and To Provide United States Leadership on Global Health and Security ####
 

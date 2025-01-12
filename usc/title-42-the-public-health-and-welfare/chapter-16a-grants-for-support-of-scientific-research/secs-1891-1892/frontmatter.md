@@ -4,6 +4,8 @@ Section 1891, Pub. L. 85–934, §1, Sept. 6, 1958, 72 Stat. 1793, authorized th
 
 Section 1892, Pub. L. 85–934, §2, Sept. 6, 1958, 72 Stat. 1793, authorized the head of each executive agency to vest title to equipment, where feasible, in institutions of higher education, etc., involved in basic or applied scientific research pursuant to grants.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Section 10(a) of Pub. L. 95–224 provided that sections 1891 and 1892 are repealed effective one year after the date of enactment of Pub. L. 95–224, which was approved Feb. 3, 1978.

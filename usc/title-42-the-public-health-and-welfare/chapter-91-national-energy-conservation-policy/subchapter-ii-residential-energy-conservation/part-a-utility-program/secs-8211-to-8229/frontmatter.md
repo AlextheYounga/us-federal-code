@@ -1,5 +1,7 @@
 ### §§8211 to 8229. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted pursuant to section 8229 of this title, which terminated authority under this part June 30, 1989.

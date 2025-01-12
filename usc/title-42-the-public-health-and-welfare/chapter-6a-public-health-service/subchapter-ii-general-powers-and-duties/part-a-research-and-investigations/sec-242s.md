@@ -32,6 +32,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title III, §310A, as added Pub. L. 111–148, title III, §3509(b), Mar. 23, 2010, 124 Stat. 533.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 310A of act July 1, 1944, was renumbered section 226 and transferred to section 235 of this title.

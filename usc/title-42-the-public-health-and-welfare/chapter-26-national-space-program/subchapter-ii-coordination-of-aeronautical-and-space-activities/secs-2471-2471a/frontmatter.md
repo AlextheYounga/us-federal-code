@@ -1,5 +1,7 @@
 ### §§2471, 2471a. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 2471, Pub. L. 100–685, title V, §501, Nov. 17, 1988, 102 Stat. 4102, which related to the National Space Council, was transferred and is set out as a note under section 20111 of Title 51, National and Commercial Space Programs.

@@ -24,6 +24,8 @@ For purposes of this section, there are authorized to be appropriated not to exc
 
 (Pub. L. 93–498, §19, Oct. 29, 1974, 88 Stat. 1547; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 106–503, title I, §110(a)(2)(B)(vii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Federal Fire Prevention and Control Act of 1974 (which is classified principally to chapter 49 (§2201 et seq.) of Title 15), and not as a part of the Public Health Service Act which comprises this chapter.
@@ -34,9 +36,11 @@ Section was enacted as part of the Federal Fire Prevention and Control Act of 19
 
 **2000**—Subsec. (a). Pub. L. 106–503 substituted "in cooperation with the Director" for "in cooperation with the Secretary".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Transfer of Functions ####
 

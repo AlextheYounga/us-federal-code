@@ -4,6 +4,8 @@ The general purpose of the National Institute on Deafness and Other Communicatio
 
 (July 1, 1944, ch. 373, title IV, §464, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2769, and Pub. L. 100–607, title I, §101(4), Nov. 4, 1988, 102 Stat. 3049; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting this section. See 1988 Amendment note below.
@@ -11,6 +13,8 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 #### Amendments ####
 
 **1988**—Pub. L. 100–690 amended this section to read as if the amendments made by Pub. L. 100–607, which enacted this section, had not been enacted. See Codification note above.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1988 Amendment ####
 

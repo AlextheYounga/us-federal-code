@@ -14,6 +14,8 @@ For purposes of this subchapter, the term "qualifying event" means, with respect
 
 (July 1, 1944, ch. 373, title XXII, §2203, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 234.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.

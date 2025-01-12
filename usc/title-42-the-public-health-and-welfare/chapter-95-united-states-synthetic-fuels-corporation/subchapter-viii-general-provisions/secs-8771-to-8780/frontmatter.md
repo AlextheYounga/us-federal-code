@@ -1,5 +1,7 @@
 ### §§8771 to 8780. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 8771 to 8780 were omitted from the Code in view of termination of United States Synthetic Fuels Corporation. See note set out under section 8791 of this title.

@@ -1,5 +1,7 @@
 ### SUBCHAPTER VI—CORONAVIRUS RELIEF, FISCAL RECOVERY, AND CRITICAL CAPITAL PROJECTS FUNDS ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 **2021**—Pub. L. 117–2, title IX, §9901(b), Mar. 11, 2021, 135 Stat. 236, substituted ", FISCAL RECOVERY, AND CRITICAL CAPITAL PROJECTS FUNDS" for "FUND" in subchapter heading.

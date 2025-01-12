@@ -8,6 +8,8 @@ Section 12663, Pub. L. 101–610, title III, §304, Nov. 16, 1990, 104 Stat. 318
 
 Section 12664, Pub. L. 101–610, title III, §305, Nov. 16, 1990, 104 Stat. 3181, related to eligibility of the Foundation for grants.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.

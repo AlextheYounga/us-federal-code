@@ -26,6 +26,8 @@ For purposes of this part (and subject to subsection (b)):
 
 (July 1, 1944, ch. 373, title V, §581, as added Pub. L. 106–554, §1(a)(7) [title I, §144], Dec. 21, 2000, 114 Stat. 2763, 2763A–619.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 581 of act July 1, 1944, is classified to section 290hh of this title.

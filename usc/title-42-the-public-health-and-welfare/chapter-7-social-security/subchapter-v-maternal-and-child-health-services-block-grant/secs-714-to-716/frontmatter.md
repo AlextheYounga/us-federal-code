@@ -1,5 +1,7 @@
 ### §§714 to 716. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 714 to 716 were omitted in the general revision of this subchapter by Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
@@ -15,6 +17,8 @@ Another prior section 715, acts Aug. 14, 1935, ch. 531, title V, §515, 49 Stat.
 Section 716, act Aug. 14, 1935, ch. 531, title V, §516, as added July 1, 1973, Pub. L. 93–53, §4(b), 87 Stat. 136, related to supplemental allotments.
 
 Another prior section 716, act Aug. 14, 1935, ch. 531, title V, §516, as added July 30, 1965, Pub. L. 89–97, title II, §203(a), 79 Stat. 353, authorized appropriations for training of professional personnel for health and related care of crippled and mentally retarded children of $5,000,000, $10,000,000, and $17,500,000 for fiscal years ending June 30, 1967, 1968, 1969, and thereafter, respectively, and was omitted in the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former sections 702 and 711 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Supplemental Allotments for Fiscal Year Ending June 30, 1974 ####
 

@@ -282,6 +282,8 @@ A health maintenance organization described in paragraph (1) may use alternative
 
 (July 1, 1944, ch. 373, title XXVII, §2704, formerly §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; renumbered §2704 and amended Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), (4), Oct. 21, 2011, 125 Stat. 419.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subsection (a), referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by Pub. L. 111–148, title I, §1201(2)(A), Mar. 23, 2010, 124 Stat. 154, and as so amended, subsec. (a) no longer contains paragraphs.
@@ -323,6 +325,8 @@ Subsec. (e)(1)(A). Pub. L. 111–148, §1563(c)(1)(C), formerly §1562(c)(1)(C),
 **2009**—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 111–3 added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

@@ -1,5 +1,7 @@
 ### Part A—Edward Byrne Memorial Justice Assistance Grant Program ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part A, consisting of sections 3751 to 3759, related to the drug control and system improvement grant program, prior to repeal by Pub. L. 109–162, title XI, §1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.

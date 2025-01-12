@@ -346,6 +346,8 @@ A State to which a payment is made under this section shall expend the full amou
 
 (Aug. 14, 1935, ch. 531, title IV, §458, formerly §458A, as added and renumbered §458, Pub. L. 105–200, title II, §201(a), (f)(2)(A), July 16, 1998, 112 Stat. 648, 658.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 105–200, title II, §201(g), July 16, 1998, 112 Stat. 658, provided that: "Except as otherwise provided in this section [enacting this section, amending this section and sections 652, 655, and 658 of this title, repealing section 658 of this title, enacting provisions set out as notes under this section and sections 652 and 655 of this title, amending provisions set out as notes under this section and sections 652 and 658 of this title, and repealing provisions set out as a note under section 658 of this title], the amendments made by this section shall take effect on October 1, 1999."

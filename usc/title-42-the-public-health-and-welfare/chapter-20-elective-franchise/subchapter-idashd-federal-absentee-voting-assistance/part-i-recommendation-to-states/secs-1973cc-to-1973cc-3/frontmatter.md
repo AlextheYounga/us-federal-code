@@ -8,6 +8,8 @@ Section 1973cc–2, act Aug. 9, 1955, ch. 656, title I, §103, 69 Stat. 585, rel
 
 Section 1973cc–3, act Aug. 9, 1955, ch. 656, title I, §104, as added June 18, 1968, Pub. L. 90–344, §1(2), 82 Stat. 181, related to legal residence for voting purposes of personnel residing on military installations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 20301 of Title 52, Voting and Elections.

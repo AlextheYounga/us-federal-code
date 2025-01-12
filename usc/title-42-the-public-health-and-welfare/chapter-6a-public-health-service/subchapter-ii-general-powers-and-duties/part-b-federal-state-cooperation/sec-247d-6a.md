@@ -210,6 +210,8 @@ Actions by the Secretary under the authority of this section are committed to ag
 
 (July 1, 1944, ch. 373, title III, §319F–1, as added Pub. L. 108–276, §2(a), July 21, 2004, 118 Stat. 835; amended Pub. L. 109–417, title IV, §403(a), Dec. 19, 2006, 120 Stat. 2874; Pub. L. 113–5, title IV, §402(g)(1), Mar. 13, 2013, 127 Stat. 195; Pub. L. 116–22, title VII, §705(a)(1), June 24, 2019, 133 Stat. 964.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Project BioShield Act of 2004, referred to in subsec. (b)(1)(D), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
@@ -247,6 +249,8 @@ In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41
 "(A) treat, identify, or prevent harm from any biological, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or
 
 "(B) treat, identify, or prevent harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, biological product, or device that is used as described in subparagraph (A)."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Rule of Construction ####
 

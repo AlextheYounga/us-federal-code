@@ -60,11 +60,15 @@ The Director of NIH is authorized to establish a grant program to support invest
 
 (July 1, 1944, ch. 373, title IV, §409B, as added Pub. L. 105–78, title VI, §603(c), Nov. 13, 1997, 111 Stat. 1520; amended Pub. L. 109–482, title I, §103(b)(8), Jan. 15, 2007, 120 Stat. 3687.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (a). Pub. L. 109–482, §103(b)(8)(A), substituted "to carry out this section" for "under subsection (e) of this section".
 
 Subsec. (e). Pub. L. 109–482, §103(b)(8)(B), struck out heading and text of subsec. (e). Text read as follows: "For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson's disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

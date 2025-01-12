@@ -62,6 +62,8 @@ There is authorized to be appropriated to carry out this section, $100,000,000 f
 
 (July 1, 1944, ch. 373, title V, §581, as added Pub. L. 106–310, div. B, title XXXI, §3101, Oct. 17, 2000, 114 Stat. 1168.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 581 of act July 1, 1944, is classified to section 290kk of this title.

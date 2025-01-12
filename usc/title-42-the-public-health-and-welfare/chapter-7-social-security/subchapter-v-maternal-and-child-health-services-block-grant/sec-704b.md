@@ -4,6 +4,8 @@ No allotment for this or any succeeding fiscal year under such title V shall be 
 
 (July 5, 1952, ch. 575, title II, §201, 66 Stat. 368.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Such title V, referred to in text, means title V of act Aug. 14, 1935, which is classified generally to this subchapter. For complete classification of title V to the Code, see Tables.

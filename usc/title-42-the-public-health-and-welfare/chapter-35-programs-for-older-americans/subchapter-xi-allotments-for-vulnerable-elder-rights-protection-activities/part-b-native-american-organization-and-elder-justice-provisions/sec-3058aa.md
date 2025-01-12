@@ -34,6 +34,8 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 (Pub. L. 89–73, title VII, §751, as added Pub. L. 102–375, title VII, §706, Sept. 30, 1992, 106 Stat. 1290; amended Pub. L. 103–171, §3(a)(10), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title VII, §707, Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title VII, §703, Oct. 17, 2006, 120 Stat. 2592.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Subsec. (a)(3). Pub. L. 109–365, §703(1), added par. (3).
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 109–365, §703(3), substituted "this part" for "this sect
 **2000**—Subsec. (d). Pub. L. 106–501 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section, $5,000,000 for fiscal year 1992, and such sums as may be necessary for fiscal years 1993, 1994, and 1995."
 
 **1993**—Subsecs. (a), (b). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" and "Director of the Office for" for "Associate Commissioner on" in subsec. (a) and "Assistant Secretary" for "Commissioner" in two places in subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

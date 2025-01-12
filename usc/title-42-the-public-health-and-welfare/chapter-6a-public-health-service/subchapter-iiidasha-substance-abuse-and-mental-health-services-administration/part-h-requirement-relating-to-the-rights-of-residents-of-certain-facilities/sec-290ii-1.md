@@ -10,6 +10,8 @@ In this section, the term "facility" has the meaning given the term "facilities"
 
 (July 1, 1944, ch. 373, title V, §592, as added Pub. L. 106–310, div. B, title XXXII, §3207, Oct. 17, 2000, 114 Stat. 1196.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in text, was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.

@@ -326,6 +326,8 @@ Not later than June 30, 2025, the Secretary shall—
 
 (July 1, 1944, ch. 373, title III, §379, as added Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279; amended Pub. L. 105–196, §2(a), (b)(1), (c)–(g), July 16, 1998, 112 Stat. 631–635; Pub. L. 109–129, §3(a), Dec. 20, 2005, 119 Stat. 2553; Pub. L. 111–264, §2(b), Oct. 8, 2010, 124 Stat. 2791; Pub. L. 114–104, §2(a), Dec. 18, 2015, 129 Stat. 2216; Pub. L. 117–15, §2(a)–(c), May 26, 2021, 135 Stat. 277.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in subsec. (d)(2)(A)(iv), (B), is section 2 of Pub. L. 109–129, Dec. 20, 2005, 119 Stat. 2550, which is set out as a note under this section.
@@ -397,6 +399,8 @@ Subsec. (j). Pub. L. 105–196, §2(c), redesignated subsec. (h) as (j) and stru
 Subsec. (k). Pub. L. 105–196, §2(c), (g)(2), redesignated subsec. (i) as (k) and substituted "subsection (e)(5)(A)" for "subsection (c)(5)(A)" and "subsection (e)(5)(B)" for "subsection (c)(5)(B)".
 
 Subsec. (l). Pub. L. 105–196, §2(f), added subsec. (l).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2021 Amendment ####
 

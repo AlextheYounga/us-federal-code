@@ -2,6 +2,8 @@
 
 Section, act July 1, 1944, ch. 373, title IV, §407, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 831, related to biennial report and its contents.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.

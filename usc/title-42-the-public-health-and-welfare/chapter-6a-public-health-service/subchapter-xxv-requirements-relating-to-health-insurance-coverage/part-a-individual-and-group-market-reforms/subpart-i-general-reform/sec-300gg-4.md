@@ -230,6 +230,8 @@ Nothing in this section shall be construed as prohibiting the Secretaries of Lab
 
 (July 1, 1944, ch. 373, title XXVII, §2705, as added and amended Pub. L. 111–148, title I, §1201(3), (4), Mar. 23, 2010, 124 Stat. 154, 156.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -253,6 +255,8 @@ Another prior section 2705 of act July 1, 1944, was successively renumbered by s
 #### Amendments ####
 
 **2010**—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline "Prohibiting discrimination against individual participants and beneficiaries based on health status", by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting "health insurance issuer offering group or individual health insurance coverage" for "health insurance issuer offering health insurance coverage in connection with a group health plan" in pars. (1) and (3)(B) and by inserting "or individual" after "employer" and "or individual health coverage, as the case may be" before semicolon in par. (2)(A), and by amending subsec. (e) by substituting "(a)(6)" for "(a)(1)(F)" and "300gg–3" for "300gg" and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -152,6 +152,8 @@ There is authorized to be appropriated $40,737,000 for each of fiscal years 2021
 
 (July 1, 1944, ch. 373, title VII, §753, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544; amended Pub. L. 107–205, title II, §202(b), Aug. 1, 2002, 116 Stat. 817; Pub. L. 111–148, title V, §5305(a), (b), Mar. 23, 2010, 124 Stat. 622, 624; Pub. L. 111–256, §2(f)(5), Oct. 5, 2010, 124 Stat. 2644; Pub. L. 116–136, div. A, title III, §3403, Mar. 27, 2020, 134 Stat. 388; Pub. L. 116–260, div. BB, title III, §331(a), Dec. 27, 2020, 134 Stat. 2938.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 294c, act July 1, 1944, ch. 373, title VII, §765, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2047, authorized appropriations for purpose of carrying out subpart I of this part, prior to the general amendment of this part by Pub. L. 105–392.
@@ -181,6 +183,8 @@ Subsec. (c)(6). Pub. L. 111–148, §5305(b)(1), redesignated par. (5) as (6).
 Subsecs. (d), (e). Pub. L. 111–148, §5305(a), added subsecs. (d) and (e).
 
 **2002**—Subsec. (a)(1). Pub. L. 107–205 substituted ", and section 296(2) of this title," for ", and section 298b(2) of this title,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

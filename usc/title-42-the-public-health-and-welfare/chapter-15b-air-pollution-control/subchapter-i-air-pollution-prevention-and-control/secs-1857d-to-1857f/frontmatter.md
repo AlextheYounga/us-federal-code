@@ -1,4 +1,6 @@
-### §§1857d to 1857f–6c. Transferred ###
+### §§1857d to 1857f. Transferred ###
+
+#### **Editorial Notes** ####
 
 #### Codification ####
 

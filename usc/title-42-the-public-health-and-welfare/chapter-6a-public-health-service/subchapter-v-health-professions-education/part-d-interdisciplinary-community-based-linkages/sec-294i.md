@@ -34,6 +34,8 @@ There is authorized to be appropriated to carry out this section, such sums as m
 
 (July 1, 1944, ch. 373, title VII, §759, as added Pub. L. 111–148, title IV, §4305(c), Mar. 23, 2010, 124 Stat. 586; amended Pub. L. 115–271, title VII, §7073(a), Oct. 24, 2018, 132 Stat. 4031.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 294i, act July 1, 1944, ch. 373, title VII, §771, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2049, authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by Pub. L. 105–392.
@@ -59,6 +61,8 @@ Subsec. (b)(5), (6). Pub. L. 115–271, §7073(a)(2)(E), (F), added pars. (5) an
 Subsec. (d). Pub. L. 115–271, §7073(a)(3), inserted "prevention," after "diagnosis,".
 
 Subsec. (e). Pub. L. 115–271, §7073(a)(4), substituted "2019 through 2023" for "2010 through 2012".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Emergency Department Alternatives to Opioids Demonstration Program ####
 

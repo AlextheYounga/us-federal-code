@@ -12,6 +12,8 @@ Section 5555, Pub. L. 93–473, §6, Oct. 26, 1974, 88 Stat. 1433, related to re
 
 Section 5556, Pub. L. 93–473, §7, Oct. 26, 1974, 88 Stat. 1434, related to solar energy demonstration facilities program.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 116–260, div. Z, title III, §3006(e)(2), Dec. 27, 2020, 134 Stat. 2513, provided that: "The repeal of the Solar Energy Research, Development, and Demonstration Act of 1974 (42 U.S.C. 5551 et seq.) under paragraph (1) shall not affect the authority of the Secretary of Energy to conduct research and development on solar energy."

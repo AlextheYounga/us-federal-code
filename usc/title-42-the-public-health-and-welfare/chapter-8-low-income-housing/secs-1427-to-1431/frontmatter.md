@@ -1,5 +1,7 @@
 ### §§1427 to 1431. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1427 to 1431 were omitted in the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.

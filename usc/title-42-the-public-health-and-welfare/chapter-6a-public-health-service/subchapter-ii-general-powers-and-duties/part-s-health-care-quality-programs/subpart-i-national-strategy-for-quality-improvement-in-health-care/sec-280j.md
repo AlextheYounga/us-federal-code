@@ -108,6 +108,8 @@ Not later than January 1, 2011, the Secretary shall create an Internet website t
 
 (July 1, 1944, ch. 373, title III, §399HH, as added and amended Pub. L. 111–148, title III, §3011, title X, §10302, Mar. 23, 2010, 124 Stat. 378, 937.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 285t of this title, referred to in subsec. (a)(2)(B)(viii), was in the original "section 485E", meaning section 485E of act July 1, 1944, ch. 373, as added by section 101(a) of Pub. L. 106–525, which was classified to section 287c–31 of this title. Section 485E of act July 1, 1944, was renumbered section 464z–3 by Pub. L. 111–148, title X, §10334(c)(1)(D)(i), Mar. 23, 2010, 124 Stat. 973, and transferred to section 285t of this title. The act July 1, 1944, no longer contains a section 485E.
@@ -119,6 +121,8 @@ The American Recovery and Reinvestment Act of 2009, referred to in subsec. (b)(2
 #### Amendments ####
 
 **2010**—Subsec. (a)(2)(B)(iii). Pub. L. 111–148, §10302, inserted "(taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act)" after "information".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Interagency Working Group on Health Care Quality ####
 

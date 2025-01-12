@@ -56,6 +56,8 @@
 
 (July 1, 1944, ch. 373, title XX, §2001, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 578; amended Pub. L. 98–512, §2(b), (c), Oct. 19, 1984, 98 Stat. 2409.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Subsec. (a)(5). Pub. L. 98–512, §2(b), struck out reference relating to developmental disabilities and inserted provision relating to importance of education, training, and job research services for adolescent parents.

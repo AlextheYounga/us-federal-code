@@ -1,5 +1,7 @@
 ### §§7386 to 7386k. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 7386 to 7386k, Pub. L. 107–314, div. C, title XXXVI, §§3620–3631, Dec. 2, 2002, 116 Stat. 2756–2762, were renumbered sections 4701 to 4712, respectively, of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781, and are classified to sections 2741 to 2752, respectively, of Title 50, War and National Defense.

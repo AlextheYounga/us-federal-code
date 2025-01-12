@@ -12,6 +12,8 @@ Section 11465, Pub. L. 100–77, title VII, §755, as added Pub. L. 101–645, t
 
 Section 11466, Pub. L. 100–77, title VII, §756, as added Pub. L. 101–645, title VI, §641, Nov. 29, 1990, 104 Stat. 4747, required report by General Accounting Office.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1999, see section 199(c)(2)(A) of Pub. L. 105–220, as amended, set out as a note under section 11421 of this title.

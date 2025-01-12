@@ -96,6 +96,8 @@ In the case of a State that provides for premium assistance subsidies under the 
 
 (Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, §5022(c), Oct. 24, 2018, 132 Stat. 3964.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is classified generally to Title 26, Internal Revenue Code.
@@ -121,6 +123,8 @@ Subsec. (b)(4), (5). Pub. L. 111–3, §212, added par. (4) and redesignated for
 Subsec. (c)(1). Pub. L. 111–3, §201(b)(2)(B)(i), inserted "(through community health workers and others)" after "Outreach".
 
 Subsec. (c)(3). Pub. L. 111–3, §302(a), added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

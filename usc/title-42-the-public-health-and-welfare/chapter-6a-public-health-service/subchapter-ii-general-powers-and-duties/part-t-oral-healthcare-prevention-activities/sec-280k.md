@@ -36,6 +36,8 @@ To be eligible to receive a grant, contract, or cooperative agreement under this
 
 (July 1, 1944, ch. 373, title III, §399LL, as added Pub. L. 111–148, title IV, §4102(a), Mar. 23, 2010, 124 Stat. 550; amended Pub. L. 115–302, §2(a), Dec. 11, 2018, 132 Stat. 4396.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1603(c) of title 25, referred to in subsec. (b)(1), which defines "Indians", was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.

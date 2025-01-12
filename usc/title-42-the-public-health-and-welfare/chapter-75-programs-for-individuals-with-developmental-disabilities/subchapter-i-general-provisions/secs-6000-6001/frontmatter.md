@@ -8,6 +8,8 @@ Section 6001, Pub. L. 88–164, title I, §102, as added Pub. L. 98–527, §2, 
 
 A prior section 6001, Pub. L. 88–164, title I, §102, as added Pub. L. 94–103, title I, §125, Oct. 4, 1975, 89 Stat. 496; amended Pub. L. 95–602, title V, §503(a), (b)(1), (c)–(f), Nov. 6, 1978, 92 Stat. 3004–3006; Pub. L. 98–221, title III, §301, Feb. 22, 1984, 98 Stat. 34, defined terms for purposes of this chapter, prior to the general amendment of this chapter by Pub. L. 98–527.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 1996 Amendment ####
 
 Pub. L. 104–183, §1, Aug. 6, 1996, 110 Stat. 1694, provided that: "This Act [amending sections 6030, 6043, 6066, and 6083 of this title] may be cited as the 'Developmental Disabilities Assistance and Bill of Rights Act Amendments of 1996'."

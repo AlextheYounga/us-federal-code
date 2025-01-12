@@ -144,6 +144,8 @@ The continued availability of funds under subparagraph (A) with respect to an en
 
 (July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624; amended Pub. L. 109–417, title III, §305, Dec. 19, 2006, 120 Stat. 2861; Pub. L. 110–85, title XI, §1104(1), Sept. 27, 2007, 121 Stat. 975; Pub. L. 113–5, title II, §§202(c)(2), 203(c), Mar. 13, 2013, 127 Stat. 175, 176; Pub. L. 116–22, title II, §§201(b), 202(c), (e), 203(c), (e)(2), June 24, 2019, 133 Stat. 908–910, 914.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (a). Pub. L. 116–22, §202(c)(1), inserted ", acting through the Assistant Secretary for Preparedness and Response," after "The Secretary" and substituted "preparedness for, and response to, public health emergencies in accordance with subsection (c)" for "preparedness for public health emergencies".

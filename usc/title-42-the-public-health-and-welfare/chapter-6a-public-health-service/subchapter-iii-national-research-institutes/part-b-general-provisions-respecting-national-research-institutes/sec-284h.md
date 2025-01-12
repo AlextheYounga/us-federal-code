@@ -106,6 +106,8 @@ The Director of NIH may transfer amounts appropriated under this section to any 
 
 (July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17, 2000, 114 Stat. 1127; amended Pub. L. 109–482, title I, §103(b)(10), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–154, §1(b)(4), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 113–55, title II, §202, Nov. 27, 2013, 127 Stat. 644; Pub. L. 114–255, div. A, title II, §2071, Dec. 13, 2016, 130 Stat. 1083.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 409D of act July 1, 1944, was renumbered section 409H and is classified to section 284l of this title.
@@ -121,6 +123,8 @@ Subsec. (d)(2)(A), (E). Pub. L. 114–255, §2071(2), substituted "shall" for "m
 **2007**—Subsec. (c)(1). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 
 Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

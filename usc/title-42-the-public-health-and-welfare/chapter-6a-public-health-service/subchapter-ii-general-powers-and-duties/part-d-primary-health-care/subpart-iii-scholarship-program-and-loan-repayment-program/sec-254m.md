@@ -52,6 +52,8 @@ The Secretary shall assign individuals performing obligated service in accordanc
 
 (July 1, 1944, ch. 373, title III, §338C, formerly title VII, §752, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582; renumbered §338B and amended Pub. L. 97–35, title XXVII, §2709(a), (c), Aug. 13, 1981, 95 Stat. 908, 909; Pub. L. 97–414, §8(g)(1), Jan. 4, 1983, 96 Stat. 2061; renumbered §338C and amended Pub. L. 100–177, title II, §201(2), title III, §306, Dec. 1, 1987, 101 Stat. 992, 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 107–251, title III, §311, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 111–148, title V, §5508(b), title X, §10501(n)(5), Mar. 23, 2010, 124 Stat. 670, 1003.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 294u of this title prior to its renumbering by Pub. L. 97–35.
@@ -119,6 +121,8 @@ Subsec. (e). Pub. L. 97–35, §2709(c)(6), substituted provisions respecting ma
 Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted "referred to in subparagraph (A)" for "of medicine, osteopathy, or dentistry".
 
 **1978**—Subsec. (d). Pub. L. 95–626 substituted "subpart II of part D" for "subpart II of part C".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

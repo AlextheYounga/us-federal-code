@@ -10,6 +10,8 @@ Section 300p–2 related to compliance provisions and withholding of payments fo
 
 Section 300p–3 authorized appropriations for allotments to States.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1979, see section 204 of Pub. L. 96–79, set out as an Effective Date of 1979 Amendment note under section 300q of this title.

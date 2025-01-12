@@ -4,6 +4,8 @@ The Secretary may, in accordance with section 238 of this title, accept conditio
 
 (July 1, 1944, ch. 373, title IV, §497, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 877; amended Pub. L. 99–660, title III, §311(b)(1), Nov. 14, 1986, 100 Stat. 3779; Pub. L. 100–607, title II, §204(3), Nov. 4, 1988, 102 Stat. 3079; Pub. L. 100–690, title II, §2620(b)(2), Nov. 18, 1988, 102 Stat. 4244; Pub. L. 101–381, title I, §102(5), Aug. 18, 1990, 104 Stat. 586; Pub. L. 103–43, title XX, §2010(b)(6), June 10, 1993, 107 Stat. 214.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Pub. L. 103–43 substituted "section 238" for "section 300aaa".
@@ -15,6 +17,8 @@ The Secretary may, in accordance with section 238 of this title, accept conditio
 Pub. L. 100–607 substituted "300aaa" for "300cc".
 
 **1986**—Pub. L. 99–660 substituted "section 300cc of this title" for "section 300aa of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

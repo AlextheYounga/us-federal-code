@@ -1,5 +1,7 @@
 ### §704a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, Pub. L. 92–80, title II, Aug. 10, 1971, 85 Stat. 290, which provided that certain allotments to States were not to be included in computing amounts expended or estimated to be expended by the State under subsecs. (a) and (b) of section 706 of this title, was not repeated in the Department of Health, Education, and Welfare Appropriation Act, 1973. Similar provisions were contained in the following prior appropriation acts:

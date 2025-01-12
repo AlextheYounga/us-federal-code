@@ -370,6 +370,8 @@ Chapter 35 of title 44 (commonly referred to as the "Paperwork Reduction Act of 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1899B, as added Pub. L. 113–185, §2(a), Oct. 6, 2014, 128 Stat. 1952; amended Pub. L. 114–255, div. C, title XV, §15008(d)(1), Dec. 13, 2016, 130 Stat. 1321.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d)(3)(A), is section 2(d) of Pub. L. 113–185, which is set out as a note under this section.
@@ -377,6 +379,8 @@ Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d
 #### Amendments ####
 
 **2016**—Subsec. (a)(2)(A)(iv). Pub. L. 114–255 substituted "1395ww(d)(1)(B)(vi)" for "1395ww(d)(1)(B)(iv)(II)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Permitting Occupational Therapists To Conduct the Initial Assessment Visit and Complete the Comprehensive Assessment With Respect to Certain Rehabilitation Services for Home Health Agencies Under the Medicare Program ####
 

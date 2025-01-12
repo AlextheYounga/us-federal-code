@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—COMMUNITY-BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND NEGLECT ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Subchapter is comprised of title II of the Child Abuse Prevention and Treatment Act, Pub. L. 93–247. Title I of that Act is classified to subchapter I (§5101 et seq.) of this chapter.

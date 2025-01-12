@@ -404,6 +404,8 @@ Sec.
 
 7675. American innovation and manufacturing.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Act July 14, 1955, ch. 360, 69 Stat. 322, as amended, known as the Clean Air Act, which was formerly classified to chapter 15B (§1857 et seq.) of this title, was completely revised by Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 685, and was reclassified to this chapter.

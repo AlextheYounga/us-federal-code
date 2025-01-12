@@ -4,11 +4,15 @@ The Secretary shall establish in the Department of Health and Human Services a N
 
 (July 1, 1944, ch. 373, title XXI, §2101, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300aa–1, act July 1, 1944, §2102, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
 
 A prior section 2101 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

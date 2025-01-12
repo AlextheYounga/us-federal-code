@@ -1,5 +1,7 @@
 ### §§2702a, 2702b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 2702a, Pub. L. 91–177, title I, §102, Dec. 30, 1969, 83 Stat. 827, authorized appropriations for fiscal years 1970 and 1971.

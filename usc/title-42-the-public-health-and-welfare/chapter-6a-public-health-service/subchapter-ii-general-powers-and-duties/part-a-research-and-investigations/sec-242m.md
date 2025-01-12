@@ -52,6 +52,8 @@ Contracts may be entered into under section 242b or 242k of this title without r
 
 (July 1, 1944, ch. 373, title III, §308, as added Pub. L. 93–353, title I, §107(a), July 23, 1974, 88 Stat. 368; amended Pub. L. 94–273, §7(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–83, title I, §104, Aug. 1, 1977, 91 Stat. 384; Pub. L. 95–623, §§2, 6(d), 8(b), Nov. 9, 1978, 92 Stat. 3443, 3451, 3455; Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, Aug. 13, 1981, 95 Stat. 564, 565, 567; Pub. L. 97–414, §8(c), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 98–551, §7, Oct. 30, 1984, 98 Stat. 2820; Pub. L. 100–177, title I, §§106(a), 107, 108, Dec. 1, 1987, 101 Stat. 988–990; Pub. L. 100–690, title II, §2612, Nov. 18, 1988, 102 Stat. 4235; Pub. L. 101–239, title VI, §6103(e)(4), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(b)(2), (d), Nov. 6, 1990, 104 Stat. 2328; Pub. L. 103–183, title V, §501(c), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 105–392, title IV, §401(d), Nov. 13, 1998, 112 Stat. 3587.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (f), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -185,6 +187,8 @@ Subsec. (i)(2). Pub. L. 95–623, §2(b), authorized appropriation of $50,000,00
 Subsec. (i)(2). Pub. L. 95–83, §104(b), authorized appropriation of $33,600,000 for fiscal year ending Sept. 30, 1978.
 
 **1976**—Subsec. (a). Pub. L. 94–273 substituted "December" for "September" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

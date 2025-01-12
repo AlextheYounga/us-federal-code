@@ -1,5 +1,7 @@
 ### §§4453 to 4456. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 4453, Pub. L. 91–606, title II, §234, Dec. 31, 1970, 84 Stat. 1754, which related to disaster loan interest rates, was transferred to section 636b of Title 15, Commerce and Trade.

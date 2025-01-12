@@ -30,6 +30,8 @@ For purposes of this part:
 
 (July 1, 1944, ch. 373, title III, §374, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2345; amended Pub. L. 100–607, title IV, §402(b), Nov. 4, 1988, 102 Stat. 3114; Pub. L. 101–616, title II, §203, Nov. 16, 1990, 104 Stat. 3284.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 374 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1, 70 Stat. 961, which related to acceptance and administration of gifts to National Library of Medicine and to establishment of memorials to donors, was renumbered section 384 and classified to section 278 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.

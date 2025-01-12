@@ -190,6 +190,8 @@ Not later than 6 months after June 10, 1993, the Director of NIH, acting through
 
 (July 1, 1944, ch. 373, title IV, §404I, formerly §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107 Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330; Pub. L. 108–276, §2(b), July 21, 2004, 118 Stat. 841; Pub. L. 109–482, title I, §§103(b)(40), 104(b)(1)(M), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §404I and amended Pub. L. 112–74, div. F, title II, §221(b)(1), Dec. 23, 2011, 125 Stat. 1087.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 293c of this title, referred to in subsec. (c)(2)(D)(i), does not contain provisions relating to designation as a center of excellence. See section 293 of this title.
@@ -281,6 +283,8 @@ Subsec. (i). Pub. L. 108–276, §2(b)(6), designated existing provisions as par
 **2000**—Pub. L. 106–505 amended section generally, adding provisions requiring the Director to provide Congress with biennial status reports.
 
 **1998**—Subsec. (c)(3)(D)(i). Pub. L. 105–392 substituted "part B of subchapter V of this chapter" for "section 293c of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

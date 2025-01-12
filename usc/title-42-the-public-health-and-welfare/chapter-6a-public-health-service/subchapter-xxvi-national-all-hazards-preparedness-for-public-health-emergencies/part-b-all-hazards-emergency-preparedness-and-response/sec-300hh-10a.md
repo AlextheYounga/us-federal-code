@@ -48,6 +48,8 @@ In carrying out subparagraphs (B) and (C) of paragraph (1), the PHEMCE shall sol
 
 (July 1, 1944, ch. 373, title XXVIII, §2811–1, as added Pub. L. 116–22, title IV, §402(a), June 24, 2019, 133 Stat. 942.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300hh–10a, act July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936, which related to the National Advisory Committee on Children and Disasters, was transferred to section 300hh–10b of this title.

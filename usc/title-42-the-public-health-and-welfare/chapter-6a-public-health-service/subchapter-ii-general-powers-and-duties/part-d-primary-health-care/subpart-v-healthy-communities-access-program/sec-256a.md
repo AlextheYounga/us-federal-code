@@ -122,6 +122,8 @@ The amounts appropriated pursuant to paragraph (1) shall remain available for ob
 
 (July 1, 1944, ch. 373, title III, §340A, as added Pub. L. 109–18, §2, June 29, 2005, 119 Stat. 340; amended Pub. L. 111–148, title III, §3510, Mar. 23, 2010, 124 Stat. 537.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as added Nov. 6, 1990, Pub. L. 101–527, §3, 104 Stat. 2314; amended Oct. 27, 1992, Pub. L. 102–531, title III, §309(d), 106 Stat. 3502, related to health services for residents of public housing, prior to repeal by Pub. L. 104–299, §§4(a)(3), 5, Oct. 11, 1996, 110 Stat. 3645, effective Oct. 1, 1996.

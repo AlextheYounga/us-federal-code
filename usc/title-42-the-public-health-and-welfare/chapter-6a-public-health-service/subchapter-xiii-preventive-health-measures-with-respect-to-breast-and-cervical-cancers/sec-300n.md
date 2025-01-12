@@ -64,6 +64,8 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 (July 1, 1944, ch. 373, title XV, §1504, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 412; amended Pub. L. 103–183, title I, §101(d), Dec. 14, 1993, 107 Stat. 2228.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300n, act July 1, 1944, ch. 373, title XV, §1531, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2250; amended Mar. 19, 1976, Pub. L. 94–237, §14(c), 90 Stat. 249; Oct. 12, 1976, Pub. L. 94–484, title IX, §902(b), 90 Stat. 2324; Oct. 4, 1979, Pub. L. 96–79, title I, §§104(c)(2), 108(d)(2), 117(b)(3), 126(a)(1), (b), 93 Stat. 596, 602, 619, 628; Dec. 17, 1980, Pub. L. 96–538, title III, §§308, 309, 94 Stat. 3192; Aug. 13, 1981, Pub. L. 97–35, title IX, §936(a), 95 Stat. 572, defined terms applicable to this subchapter, prior to repeal by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.

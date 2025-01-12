@@ -330,6 +330,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318; Pub. L. 116–22, title IV, §405, June 24, 2019, 133 Stat. 949.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -345,6 +347,8 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), i
 **2019**—Subsec. (k). Pub. L. 116–22 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 **2002**—Subsec. (e)(1). Pub. L. 107–296 substituted "collaboration with the Secretary of Homeland Security and" for "consultation with".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 
@@ -383,6 +387,8 @@ Pub. L. 107–188, title II, §202, June 12, 2002, 116 Stat. 646, provided that:
 "(2) section 351A(i) of the Public Health Service Act [42 U.S.C. 262a(i)] (relating to civil penalties).
 
 "(c) Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act [42 U.S.C. 262a(a)(1)] and that were underway as of the effective date of such rule."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13546. Optimizing the Security of Biological Select Agents and Toxins in the United States ####
 

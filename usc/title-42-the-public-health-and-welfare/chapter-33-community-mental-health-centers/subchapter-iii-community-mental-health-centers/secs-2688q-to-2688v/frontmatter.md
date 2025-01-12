@@ -1,5 +1,7 @@
 ### §§2688q to 2688v. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 2688q to 2688v were superseded in the general amendment of title II of Pub. L. 88–164, by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309.

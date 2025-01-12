@@ -62,6 +62,8 @@ There is authorized to be appropriated to carry out this section $5,000,000 for 
 
 (July 1, 1944, ch. 373, title V, §547, as added Pub. L. 114–198, title III, §302, July 22, 2016, 130 Stat. 719; amended Pub. L. 115–271, title VII, §7151, Oct. 24, 2018, 132 Stat. 4057.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 290ee–2, act July 1, 1944, ch. 373, title V, §547, formerly Pub. L. 92–255, title IV, §407, Mar. 21, 1972, 86 Stat. 78, as amended Pub. L. 94–237, §6(a), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–581, title I, §111(c)(2), Oct. 21, 1976, 90 Stat. 2852; renumbered §526 of act July 1, 1944, Apr. 26, 1983. Pub. L. 98–24, §2(b)(16)(B), 97 Stat. 182; renumbered §547, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516, which related to admission of drug abusers to private and public hospitals, was omitted in the general revision of this part by Pub. L. 102–321.

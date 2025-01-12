@@ -20,6 +20,8 @@ In making a determination of the amount of non-Federal contributions for purpose
 
 (July 1, 1944, ch. 373, title XV, §1502, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 410.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.

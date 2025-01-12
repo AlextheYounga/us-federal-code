@@ -4,6 +4,8 @@ Any individual who is aggrieved by the failure of a State, political subdivision
 
 (July 1, 1944, ch. 373, title XXII, §2207, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 236.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Continued Coverage of Costs of Pediatric Vaccine Under Certain Group Health Plans ####
 
 Pub. L. 103–66, title XIII, §13631(d), Aug. 10, 1993, 107 Stat. 643, provided that:

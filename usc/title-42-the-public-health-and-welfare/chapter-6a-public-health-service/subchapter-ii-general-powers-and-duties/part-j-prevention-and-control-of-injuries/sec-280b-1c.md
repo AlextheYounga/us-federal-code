@@ -32,6 +32,8 @@ For purposes of this section, the term "traumatic brain injury" means an acquire
 
 (July 1, 1944, ch. 373, title III, §393B, formerly §393A, as added Pub. L. 104–166, §1, July 29, 1996, 110 Stat. 1445; amended Pub. L. 106–310, div. A, title XIII, §1301(a), Oct. 17, 2000, 114 Stat. 1137; renumbered §393B and amended Pub. L. 110–206, §§2(2), 3(a), Apr. 28, 2008, 122 Stat. 714; Pub. L. 113–196, §2(a), Nov. 26, 2014, 128 Stat. 2052.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 280b–1b of this title.

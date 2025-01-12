@@ -1,5 +1,7 @@
 ### §§2677 to 2677c. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 2677, Pub. L. 88–164, title I, §137, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1323, which related to payments to States for planning, administration, and services, was transferred to former section 6064 of this title.

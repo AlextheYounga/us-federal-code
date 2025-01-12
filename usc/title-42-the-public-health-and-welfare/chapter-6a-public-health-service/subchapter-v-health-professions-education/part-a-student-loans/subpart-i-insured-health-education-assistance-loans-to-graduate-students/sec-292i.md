@@ -22,6 +22,8 @@ If at any time the moneys in the Account are insufficient to make payments in co
 
 (July 1, 1944, ch. 373, title VII, §710, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2007; amended Pub. L. 105–392, title I, §143, Nov. 13, 1998, 112 Stat. 3581.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (b), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 621 of Title 2 and Tables.

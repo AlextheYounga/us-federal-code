@@ -56,6 +56,8 @@ The authority under this subsection shall expire on September 30, 2023.
 
 (July 1, 1944, ch. 373, title III, §319C–3, as added Pub. L. 116–22, title II, §203(a), June 24, 2019, 133 Stat. 911.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (b)(3), is Pub. L. 116–22, June 24, 2019, 133 Stat. 905. For complete classfication of this Act to the Code, see Short Title of 2019 Amendment note set out under section 201 of this title and Tables.

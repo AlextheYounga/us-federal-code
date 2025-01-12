@@ -1,5 +1,7 @@
 ### Part E—General Provisions ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 111–148, title III, §3013(a)(1), Mar. 23, 2010, 124 Stat. 381, redesignated part D "General Provisions" as E.

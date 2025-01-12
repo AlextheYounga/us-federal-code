@@ -1,5 +1,7 @@
 ### §§1801 to 1819. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The Atomic Energy Act of 1946, which was formerly classified to sections 1801 to 1819 of this title, was act Aug. 1, 1946, ch. 724, 60 Stat. 755. Act Aug. 1, 1946, was renamed the Atomic Energy Act of 1954 and completely amended by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, and is classified principally to chapter 23 (§2011 et seq.) of this title. Provisions enacted in the Aug. 30, 1954, amendment largely corresponded to and expanded upon the provisions in the original Atomic Energy Act of 1946, as described below.

@@ -250,6 +250,8 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 (Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, §108, Jan. 19, 2018, 132 Stat. 15.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 5703 of title 5, referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
@@ -278,6 +280,8 @@ Subsec. (j)(2) to (4). Pub. L. 115–118, §108(a), added par. (2) and redesigna
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2007 Amendment ####
 
 Pub. L. 110–53, title VIII, §801(d), Aug. 3, 2007, 121 Stat. 358, provided that:
@@ -305,6 +309,8 @@ Pub. L. 110–53, title VIII, §801(c), Aug. 3, 2007, 121 Stat. 357, provided th
 "(A) In general.—The President and the Senate shall take such actions as necessary for the President, by and with the advice and consent of the Senate, to appoint members to the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a) [amending this section] in a timely manner to provide for the continuing operation of the Board and orderly implementation of this section [amending this section and enacting provisions set out as notes under this section].
 
 "(B) Designations.—In making the appointments described under subparagraph (A) of the first members of the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a), the President shall provide for the members to serve terms of 2, 3, 4, 5, and 6 years beginning on the effective date described under subsection (d)(1) [set out above], with the term of each such member to be designated by the President."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13353. Establishing the President's Board on Safeguarding Americans' Civil Liberties ####
 

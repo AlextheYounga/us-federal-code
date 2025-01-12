@@ -10,6 +10,8 @@ Section 4484, Pub. L. 91–606, title II, §254, Dec. 31, 1970, 84 Stat. 1758, r
 
 Section 4485, Pub. L. 91–606, title II, §255, as added Pub. L. 92–209, §1, Dec. 18, 1971, 85 Stat. 742, related to private medical care facilities grants for repair, reconstruction, or replacement of damaged or destroyed facilities.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, formerly set out as an Effective Date note under section 5121 of this title.

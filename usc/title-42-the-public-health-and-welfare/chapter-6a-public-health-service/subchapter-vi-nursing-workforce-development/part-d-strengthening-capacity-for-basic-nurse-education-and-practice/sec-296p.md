@@ -66,6 +66,8 @@ For purposes of this section, the term "eligible entity" includes an accredited 
 
 (July 1, 1944, ch. 373, title VIII, §831, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3568; amended Pub. L. 107–205, title II, §201, Aug. 1, 2002, 116 Stat. 815; Pub. L. 111–148, title V, §5309(a), Mar. 23, 2010, 124 Stat. 629; Pub. L. 116–136, div. A, title III, §3404(a)(6), Mar. 27, 2020, 134 Stat. 393.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 831 of act July 1, 1944, was classified to section 297–1 of this title prior to repeal by Pub. L. 105–392.

@@ -24,9 +24,13 @@ This section may not be construed as requiring any State to reduce or terminate 
 
 (July 1, 1944, ch. 373, title III, §340C, formerly §340B, as added Pub. L. 102–531, title III, §305, Oct. 27, 1992, 106 Stat. 3494; renumbered §340C, Pub. L. 103–43, title XX, §2008(i)(2)(A)(ii), June 10, 1993, 107 Stat. 213; amended Pub. L. 104–299, §4(a)(2), Oct. 11, 1996, 110 Stat. 3645.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (a)(2). Pub. L. 104–299 substituted "with assistance provided under section 254b of this title" for "under the programs established in sections 254b, 254c, 256, and 256a of this title."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

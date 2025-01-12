@@ -1,5 +1,7 @@
 ### §§4871 to 4883. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The public service employment programs covered by this chapter and authorized pursuant to the Emergency Employment Act of 1971, Pub. L. 92–54, July 12, 1971, 85 Stat. 146, which enacted this chapter, are omitted because appropriations were not authorized after June 30, 1973. Similar public service employment programs were included in the Comprehensive Employment and Training Act of 1973, Pub. L. 93–203, title II, §§201–211, Dec. 28, 1973, 87 Stat. 850–857, which was classified to section 841 et seq. of Title 29, Labor, and was repealed by section 184(a)(1) of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357. The Job Training Partnership Act was classified principally to chapter 19 (§1501 et seq.) of Title 29 and was repealed by Pub. L. 105–220, title I, §199(b)(2), 112 Stat. 1059, effective July 1, 2000.

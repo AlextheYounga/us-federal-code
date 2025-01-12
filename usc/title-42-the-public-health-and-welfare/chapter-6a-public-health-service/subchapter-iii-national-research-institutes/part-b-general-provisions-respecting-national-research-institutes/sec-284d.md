@@ -10,11 +10,15 @@ As used in this subchapter, the term "clinical research" means patient oriented 
 
 (July 1, 1944, ch. 373, title IV, §409, as added Pub. L. 102–321, title I, §121(b), July 10, 1992, 106 Stat. 358; amended Pub. L. 103–43, title XX, §2016(a), June 10, 1993, 107 Stat. 218; Pub. L. 106–505, title II, §206, Nov. 13, 2000, 114 Stat. 2329.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–505 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **1993**—Pub. L. 103–43 inserted at end "Such term does not include research on the efficacy of services to prevent, diagnose, or treat medical conditions."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

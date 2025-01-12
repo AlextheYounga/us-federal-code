@@ -42,6 +42,8 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 
 (Aug. 14, 1935, ch. 531, title XXI, §2109, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§703(a), 705(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, 1501A–403; Pub. L. 110–173, title II, §205, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–3, title VI, §602, Feb. 4, 2009, 123 Stat. 98; Pub. L. 111–148, title II, §2102(a)(6), Mar. 23, 2010, 124 Stat. 288.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
@@ -67,6 +69,8 @@ Subsec. (b)(3), (4). Pub. L. 111–3, §602(b), added par. (3) and redesignated 
 Subsec. (a)(2). Pub. L. 106–113, §1000(a)(6) [title VII, §705(c)(2)], inserted closing parenthesis before period at end.
 
 Subsec. (b). Pub. L. 106–113, §1000(a)(6) [title VII, §703(a)], added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

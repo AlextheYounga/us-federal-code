@@ -176,6 +176,8 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 (July 1, 1944, ch. 373, title III, §306, as added Pub. L. 93–353, title I, §105, July 23, 1974, 88 Stat. 365; amended Pub. L. 95–623, §§5, 8(a), Nov. 9, 1978, 92 Stat. 3445, 3453; Pub. L. 97–35, title IX, §920, Aug. 13, 1981, 95 Stat. 566; Pub. L. 97–414, §8(b), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 100–177, title I, §§104, 105(a), Dec. 1, 1987, 101 Stat. 988; Pub. L. 101–239, title VI, §6103(e)(2), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(a), (b)(1), (c), Nov. 6, 1990, 104 Stat. 2327, 2328; Pub. L. 102–54, §13(q)(1)(A)(i), June 13, 1991, 105 Stat. 278; Pub. L. 103–183, title V, §501(a), (d), Dec. 14, 1993, 107 Stat. 2237, 2238; Pub. L. 104–191, title II, §263, Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–340, title II, §201, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 105–392, title II, §201(b), Nov. 13, 1998, 112 Stat. 3585.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 3509 of title 44, referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812. Pub. L. 104–13 subsequently enacted a new section 3509 of Title 44 relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in section 3507 of Title 44.
@@ -287,6 +289,8 @@ Subsecs. (i), (j). Pub. L. 95–623, §5(f), added subsecs. (i) and (j). Former 
 Subsec. (k). Pub. L. 95–623, §5(c)(2), (e), (f), struck from par. (1) "United States" before "National Committee on Vital and Health Statistics"; authorized in par. (2)(A) the appointment of Committee members from distinguished persons in field of health planning; required the Committee to assist and advise the Secretary with respect to the Cooperative Health Statistics System and the standardized means for the collection of health information and statistics to be established by the Secretary; and redesignated such amended subsec. (i) as (k).
 
 Subsec. (l). Pub. L. 95–623, §8(a), added subsec. (l).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

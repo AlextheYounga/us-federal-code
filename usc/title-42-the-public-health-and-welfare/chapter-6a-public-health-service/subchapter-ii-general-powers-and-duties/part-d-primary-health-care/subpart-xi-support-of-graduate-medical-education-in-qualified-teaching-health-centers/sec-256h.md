@@ -208,6 +208,8 @@ The term "qualified teaching health center" has the meaning given the term "teac
 
 (July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(c), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(c), Oct. 1, 2020, 134 Stat. 728; Pub. L. 116–215, div. B, title II, §1201(c), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(c), Dec. 27, 2020, 134 Stat. 2922.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4410 of the Balanced Budget Act of 1997, referred to in subsec. (c)(2)(A)(ii), is section 4410 of Pub. L. 105–33, which is set out as a note under section 1395ww of this title.
@@ -249,6 +251,8 @@ Subsec. (j)(2) to (4). Pub. L. 115–123, §50901(d)(5), added par. (2) and rede
 Pub. L. 115–63 substituted "2015, $60,000,000" for "2015 and $60,000,000" and inserted ", and $15,000,000 for the first quarter of fiscal year 2018" before period at end.
 
 **2015**—Subsec. (g). Pub. L. 114–10 inserted "and $60,000,000 for each of fiscal years 2016 and 2017" before period at end.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Funding for Teaching Health Centers That Operate Graduate Medical Education ####
 

@@ -164,6 +164,8 @@ From the amounts made available under subsection (a)(2), the Secretary shall dev
 
 (Aug. 14, 1935, ch. 531, title XXI, §2113, as added Pub. L. 111–3, title II, §201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, §10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931; Pub. L. 114–10, title III, §303, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §3004(a), (b), Jan. 22, 2018, 132 Stat. 36; Pub. L. 115–123, div. E, title I, §50103, Feb. 9, 2018, 132 Stat. 176.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Indian Health Care Improvement Act, referred to in subsecs. (b)(2) and (f)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
@@ -197,6 +199,8 @@ Subsec. (g). Pub. L. 114–10, §303(2), inserted "and $40,000,000 for the perio
 **2010**—Subsec. (a)(1). Pub. L. 111–148, §10203(d)(2)(E)(i), substituted "2015" for "2013".
 
 Subsec. (g). Pub. L. 111–148, §10203(d)(2)(E)(ii), substituted "$140,000,000 for the period of fiscal years 2009 through 2015" for "$100,000,000 for the period of fiscal years 2009 through 2013".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

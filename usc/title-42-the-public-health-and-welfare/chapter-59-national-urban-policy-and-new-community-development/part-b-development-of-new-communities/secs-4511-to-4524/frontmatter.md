@@ -30,6 +30,8 @@ Section 4523, Pub. L. 91–609, title VII, §722, Dec. 31, 1970, 84 Stat. 1801, 
 
 Section 4524, Pub. L. 91–609, title VII, §723, Dec. 31, 1970, 84 Stat. 1801, provided authority for new communities demonstration projects.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 98–181, title I [title IV, §474(e)], Nov. 30, 1983, 97 Stat. 1239, provided in part that: "Section 717 of title VII [42 U.S.C. 4518] shall remain in effect until completion of the transfer required in title I of the Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984 [12 U.S.C. 1701g–5a]."

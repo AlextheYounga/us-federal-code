@@ -1,5 +1,7 @@
 ### §§1975e, 1975f. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1975e and 1975f were omitted in the general amendment of this chapter by Pub. L. 103–419.

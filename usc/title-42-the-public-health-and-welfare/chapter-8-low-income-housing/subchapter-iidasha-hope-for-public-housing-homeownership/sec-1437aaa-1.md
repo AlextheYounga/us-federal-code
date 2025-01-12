@@ -62,6 +62,8 @@ The Secretary shall, by regulation, establish selection criteria for a national 
 
 (Sept. 1, 1937, ch. 896, title III, §302, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4149; amended Pub. L. 102–550, title X, §1012(h)(1), Oct. 28, 1992, 106 Stat. 3906.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Fair Housing Act, referred to in subsec. (c)(2)(E), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.

@@ -22,6 +22,8 @@ For purposes of subparagraph (A), the term "2006 adjusted amount" means the amou
 
 (July 1, 1944, ch. 373, title XXVI, §2623, as added and amended Pub. L. 109–415, title II, §208, title VII, §703, Dec. 19, 2006, 120 Stat. 2801, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), (c), 5(c)(3), Oct. 30, 2009, 123 Stat. 2885, 2891.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
@@ -31,6 +33,8 @@ Subsec. (a). Pub. L. 111–87, §2(c), substituted "$1,285,200,000 for fiscal ye
 Subsec. (b)(2)(A). Pub. L. 111–87, §5(c)(3), substituted "300ff–28(a)(2)(F)" for "300ff–28(a)(2)(G)".
 
 **2006**—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment; Revival of Section ####
 

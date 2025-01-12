@@ -108,6 +108,8 @@ In carrying out this subchapter, the Secretary may provide for a streamlined pub
 
 (Sept. 1, 1937, ch. 896, title IV, §406, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2620; amended Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(7)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.

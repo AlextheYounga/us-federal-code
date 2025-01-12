@@ -8,6 +8,8 @@ Section 2985f, Pub. L. 88–452, title VII, §747, as added Pub. L. 93–644, §
 
 Section 2985g, Pub. L. 88–452, title VII, §748, as added Pub. L. 93–644, §10(a), Jan. 4, 1975, 88 Stat. 2323; renumbered §749, Pub. L. 94–341, §2(16), July 6, 1976, 90 Stat. 806; renumbered §748, Pub. L. 95–568, §14(k), Nov. 2, 1978, 92 Stat. 2438, set forth nondiscrimination provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

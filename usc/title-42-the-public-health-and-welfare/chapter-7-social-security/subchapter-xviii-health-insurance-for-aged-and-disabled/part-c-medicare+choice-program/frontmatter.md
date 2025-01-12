@@ -1,8 +1,12 @@
 ### Part C—Medicare+Choice Program ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part C of this subchapter, consisting of section 1395x et seq., was redesignated part E of this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

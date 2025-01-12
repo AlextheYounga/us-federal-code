@@ -16,6 +16,8 @@ Section 3527, Pub. L. 94–505, title II, §207, Oct. 15, 1976, 90 Stat. 2434; P
 
 For transfer of functions under sections 3521 to 3527 to and establishment of the Office of Inspector General of the Department of Health and Human Services, see the Inspector General Act of 1978, Pub. L. 95–452, as amended, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 [Inspector General Act of 1978] in the Appendix to Title 5, Government Organization and Employees.

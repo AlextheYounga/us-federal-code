@@ -4,6 +4,8 @@ In any case in which the Secretary intends to terminate an agreement with a scho
 
 (July 1, 1944, ch. 373, title VII, §727, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2020.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 727 of act July 1, 1944, was classified to section 294 of this title prior to the general revision of this subchapter by Pub. L. 102–408.

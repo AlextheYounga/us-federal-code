@@ -10,6 +10,8 @@ The provisions of section 218c <sup><a href="#300gg-5_1_target" name="300gg-5_1
 
 (July 1, 1944, ch. 373, title XXVII, §2706, as added Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 160.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 218c of title 29, referred to in subsec. (b), was in the original "section 1558 of the Patient Protection and Affordable Care Act", meaning section 1558 of Pub. L. 111–148, and was translated as meaning section 18C of act June 25, 1938, ch. 676, which was added by section 1558 of Pub. L. 111–148, to reflect the probable intent of Congress.
@@ -21,6 +23,8 @@ A prior section 300gg–5, act July 1, 1944, ch. 373, title XXVII, §2705, as ad
 A prior section 2706 of act July 1, 1944, was renumbered section 2727 and is classified to section 300gg–27 of this title.
 
 Another prior section 2706 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238e of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

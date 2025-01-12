@@ -4,6 +4,8 @@ Section 2790, Pub. L. 88–452, title II, §210, Aug. 20, 1964, 78 Stat. 519; Pu
 
 Section 2791, Pub. L. 88–452, title II, §211, Aug. 20, 1964, 78 Stat. 520; Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 693; Pub. L. 92–424, §§6, 7, Sept. 19, 1972, 86 Stat. 690; Pub. L. 95–568, §§4(c), 17(a)(4), Nov. 2, 1978, 92 Stat. 2425, 2439, related to community action agencies and boards.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

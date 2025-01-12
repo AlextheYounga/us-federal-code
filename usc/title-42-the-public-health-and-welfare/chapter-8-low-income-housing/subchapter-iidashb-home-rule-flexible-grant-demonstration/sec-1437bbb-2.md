@@ -22,6 +22,8 @@ For purposes of this subchapter, the term "covered housing assistance" means—
 
 (Sept. 1, 1937, ch. 896, title IV, §403, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2618.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b), is title V of Pub. L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. For complete classification of this Act to the Code, see Tables.

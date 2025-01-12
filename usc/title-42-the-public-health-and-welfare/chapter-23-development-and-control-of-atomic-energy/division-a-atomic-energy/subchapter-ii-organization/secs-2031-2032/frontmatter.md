@@ -10,9 +10,13 @@ Section 2032, act Aug. 1, 1946, ch. 724, §22, as added Aug. 30, 1954, ch. 1073,
 
 Provisions similar to section 2032 were contained in section 1802(a)(2) of this title prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 120 days after Oct. 11, 1974, or on such earlier date as the President may prescribe and publish in the Federal Register, see section 312(a) of Pub. L. 93–438, set out as a note under section 5801 of this title.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 9816. Transfer of Property and Personnel to the Atomic Energy Commission ####
 

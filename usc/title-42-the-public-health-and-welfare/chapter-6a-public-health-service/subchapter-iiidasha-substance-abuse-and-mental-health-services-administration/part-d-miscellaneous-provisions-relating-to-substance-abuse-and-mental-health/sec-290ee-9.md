@@ -24,6 +24,8 @@ A grant awarded under this section may be used for nonprofit national, State, or
 
 (Pub. L. 114–198, title VII, §709, as added Pub. L. 115–271, title VIII, §8212, Oct. 24, 2018, 132 Stat. 4115.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and the Substance Abuse Prevention Act of 2018, and not as part of the Public Health Service Act which comprises this chapter.

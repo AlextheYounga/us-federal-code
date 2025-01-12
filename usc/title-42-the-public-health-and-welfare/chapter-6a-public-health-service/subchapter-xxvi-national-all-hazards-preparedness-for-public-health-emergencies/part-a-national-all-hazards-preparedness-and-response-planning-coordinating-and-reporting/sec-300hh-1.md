@@ -96,6 +96,8 @@ Assessing current or potential health security threats from abroad to inform dom
 
 (July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006, 120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162; Pub. L. 116–22, title I, §101, title II, §203(d), title III, §303(a), June 24, 2019, 133 Stat. 906, 914, 935.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (a)(1). Pub. L. 116–22, §101(1)(A), substituted "2018" for "2014" and "Such National Health Security Strategy shall describe potential emergency health security threats and identify the process for achieving the preparedness goals described in subsection (b) to be prepared to identify and respond to such threats and shall be consistent with the national preparedness goal (as described in section 314(a)(19) of title 6), the National Incident Management System (as defined in section 311(7) of such title), and the National Response Plan developed pursuant to section 314 of such title, or any successor plan." for "Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) of title 6, or any successor plan."
@@ -146,6 +148,8 @@ Subsec. (b)(4)(B). Pub. L. 113–5, §101(a)(2)(C)(ii), inserted "the" before "p
 
 Subsec. (b)(7), (8). Pub. L. 113–5, §101(a)(2)(D), added pars. (7) and (8).
 
+#### **Executive Documents** ####
+
 #### Ex. Ord. No. 13527. Establishing Federal Capability for the Timely Provision of Medical Countermeasures Following a Biological Attack ####
 
 Ex. Ord. No. 13527, Dec. 30, 2009, 75 F.R. 737, provided:
@@ -170,7 +174,7 @@ Sec. 4. *Continuity of Operations*. (a) The Federal Government must establish me
 
 (b) The Secretaries of Health and Human Services and Homeland Security, within 180 days of the date of this order, shall develop a plan for the provision of medical countermeasures to ensure that mission-essential functions of executive branch departments and agencies continue to be performed following a large-scale biological attack.
 
-Sec. 5. *General Provisions*.
+Sec. 5. *General Provisions.*
 
 (a) Nothing in this order shall be construed to impair or otherwise affect:
 

@@ -50,9 +50,13 @@ The establishment under section 284a of this title of an advisory council for th
 
 (July 1, 1944, ch. 373, title IV, §464z, as added Pub. L. 106–580, §3(a), Dec. 29, 2000, 114 Stat. 3089; amended Pub. L. 109–482, title I, §103(b)(37), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to appropriations for fiscal years 2001 to 2003.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

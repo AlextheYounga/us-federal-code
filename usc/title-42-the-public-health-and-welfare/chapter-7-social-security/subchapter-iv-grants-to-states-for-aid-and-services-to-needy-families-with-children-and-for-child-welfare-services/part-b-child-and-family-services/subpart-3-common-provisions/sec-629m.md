@@ -30,6 +30,8 @@ Nothing in this subsection <sup><a href="#629m_1_target" name="629m_1">1</a></s
 
 (Aug. 14, 1935, ch. 531, title IV, §440, as added Pub. L. 112–34, title I, §105(a), Sept. 30, 2011, 125 Stat. 376; amended Pub. L. 115–123, div. E, title VII, §50771(a), Feb. 9, 2018, 132 Stat. 267.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 440 of act Aug. 14, 1935, was classified to section 640 of this title prior to repeal by Pub. L. 100–485.
@@ -37,6 +39,8 @@ A prior section 440 of act Aug. 14, 1935, was classified to section 640 of this 
 #### Amendments ####
 
 **2018**—Pub. L. 115–123 amended section generally. Prior to amendment, section required Secretary of Health and Human Services to designate standard data elements for any category of information required to be reported under this part and designate data reporting standards to govern the reporting required under this part.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -4,6 +4,8 @@ The Secretary may not make a grant, loan guarantee, or interest subsidy payment 
 
 (July 1, 1944, ch. 373, title VIII, §809, formerly §845, as added Pub. L. 92–158, §11, Nov. 18, 1971, 85 Stat. 479; renumbered §855, Pub. L. 94–63, title IX, §941(k)(1), July 29, 1975, 89 Stat. 366; renumbered §810, Pub. L. 105–392, title I, §123(6), Nov. 13, 1998, 112 Stat. 3574; renumbered §809, Pub. L. 111–148, title V, §5310(b)(1), Mar. 23, 2010, 124 Stat. 631.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 298b–2 of this title prior to renumbering by Pub. L. 105–392.

@@ -98,6 +98,8 @@ To carry out this section, there is authorized to be appropriated $3,000,000 for
 
 (July 1, 1944, ch. 373, title V, §550, as added Pub. L. 115–271, title VII, §7031, Oct. 24, 2018, 132 Stat. 4014.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 550 of act July 1, 1944, is classified to section 290ee–10 of this title.

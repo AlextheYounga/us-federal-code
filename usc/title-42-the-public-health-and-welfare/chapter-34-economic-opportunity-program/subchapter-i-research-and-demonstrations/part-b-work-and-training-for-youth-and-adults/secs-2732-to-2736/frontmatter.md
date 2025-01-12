@@ -1,5 +1,7 @@
 ### §§2732 to 2736. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general amendment of Part B of this subchapter by Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 682.

@@ -10,6 +10,8 @@ For purposes of subsection (a), the term "means-tested welfare or public assista
 
 (Pub. L. 104–193, title IX, §911, Aug. 22, 1996, 110 Stat. 2353.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Food Stamp Act of 1977, referred to in subsec. (b), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
@@ -19,6 +21,8 @@ The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 
 #### Codification ####
 
 Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Social Security Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

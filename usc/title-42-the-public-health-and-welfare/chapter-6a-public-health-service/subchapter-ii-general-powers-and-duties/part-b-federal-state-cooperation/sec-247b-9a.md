@@ -66,6 +66,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 111–148, title X, §10407, Mar. 23, 2010, 124 Stat. 976.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.

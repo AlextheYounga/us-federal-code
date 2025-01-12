@@ -18,9 +18,13 @@ The Secretary, acting through the Center, shall coordinate the activities carrie
 
 (July 1, 1944, ch. 373, title IV, §478A, as added Pub. L. 103–43, title XIV, §1421, June 10, 1993, 107 Stat. 171; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (d). Pub. L. 106–129 substituted "Director of the Agency for Healthcare Research and Quality" for "Administrator for Health Care Policy and Research".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Construction ####
 

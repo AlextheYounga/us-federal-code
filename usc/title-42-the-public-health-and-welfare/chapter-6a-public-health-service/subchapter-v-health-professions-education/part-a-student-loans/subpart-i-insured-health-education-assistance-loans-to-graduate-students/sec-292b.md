@@ -10,6 +10,8 @@ The insurance liability on any loan insured by the Secretary under this subpart 
 
 (July 1, 1944, ch. 373, title VII, §703, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1995; amended Pub. L. 105–392, title I, §141(c)(1), Nov. 13, 1998, 112 Stat. 3579.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 292b, act July 1, 1944, ch. 373, title VII, §702, formerly §725, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 169; amended Sept. 4, 1964, Pub. L. 88–581, §3(c), 78 Stat. 919; Nov. 2, 1966, Pub. L. 89–709, §2(d), 80 Stat. 1103; Nov. 3, 1966, Pub. L. 89–751, §3(a), 80 Stat. 1230; Dec. 5, 1967, Pub. L. 90–174, §12(c), 81 Stat. 541; Oct. 30, 1970, Pub. L. 91–515, title VI, §601(b)(2), 84 Stat. 1311; Nov. 18, 1971, Pub. L. 92–157, title I, §108(a), 85 Stat. 460; renumbered §702 and amended Oct. 12, 1976, Pub. L. 94–484, title II, §§201(c), 202(a)(1), (2), (b), 90 Stat. 2247, 2248; Oct. 22, 1985, Pub. L. 99–129, title II, §205(a), 99 Stat. 527; Nov. 4, 1988, Pub. L. 100–607, title VI, §§620(b), 628(2), 102 Stat. 3141, 3145, related to National Advisory Council on Education for Health Professions, prior to the general revision of this subchapter by Pub. L. 102–408.

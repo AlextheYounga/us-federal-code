@@ -50,9 +50,13 @@ For purposes of this section, the terms "Director of NIH", "national research in
 
 (Pub. L. 109–482, title I, §105, Jan. 15, 2007, 120 Stat. 3694.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the National Institutes of Health Reform Act of 2006, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

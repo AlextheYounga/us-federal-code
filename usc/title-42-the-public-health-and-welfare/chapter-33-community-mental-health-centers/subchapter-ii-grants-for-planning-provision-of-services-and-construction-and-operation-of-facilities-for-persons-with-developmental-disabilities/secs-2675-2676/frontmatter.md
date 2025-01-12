@@ -8,6 +8,8 @@ Section 2676, Pub. L. 88–164, title I, §136, as added Pub. L. 91–517, title
 
 A prior section 2676, Pub. L. 88–164, title I, §136, Oct. 31, 1963, 77 Stat. 289, authorized withholding by Secretary of payments for construction.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective with respect to appropriations under Pub. L. 94–103 for fiscal years beginning after June 30, 1975, see Pub. L. 94–103, title III, §303, Oct. 4, 1975, 89 Stat. 507.

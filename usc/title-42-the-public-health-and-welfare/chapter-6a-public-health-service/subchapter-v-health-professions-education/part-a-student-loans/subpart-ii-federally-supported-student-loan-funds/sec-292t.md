@@ -54,6 +54,8 @@ In making Federal capital contributions to student loan funds for purposes of su
 
 (July 1, 1944, ch. 373, title VII, §724, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2018; amended Pub. L. 105–392, title I, §132, Nov. 13, 1998, 112 Stat. 3575.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 724 of act July 1, 1944, was classified to section 293d of this title prior to the general revision of this subchapter by Pub. L. 102–408.
@@ -63,6 +65,8 @@ A prior section 724 of act July 1, 1944, was classified to section 293d of this 
 **1998**—Subsec. (f)(1). Pub. L. 105–392, §132(b), struck out heading and text of par. (1). Text read as follows: "With respect to making Federal capital contributions to student loan funds for purposes of subsection (a) of this section, there is authorized to be appropriated for such contributions $8,000,000 for each of the fiscal years 1998 through 2002."
 
 Pub. L. 105–392, §132(a), substituted "$8,000,000 for each of the fiscal years 1998 through 2002" for "$15,000,000 for fiscal year 1993".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

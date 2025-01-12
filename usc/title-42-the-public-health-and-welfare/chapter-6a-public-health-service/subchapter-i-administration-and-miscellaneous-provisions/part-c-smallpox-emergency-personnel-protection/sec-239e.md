@@ -62,6 +62,8 @@ A benefit under subsection (a) or (b) shall be in addition to any amounts receiv
 
 (July 1, 1944, ch. 373, title II, §266, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 643.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a)(1), (2)(A), (3), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part L of title I of the Act was classified generally to part A (§3796 et seq.) of subchapter XII of chapter 46 of this title prior to editorial reclassification and renumbering as part A (§10281 et seq.) of subchapter XI of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.

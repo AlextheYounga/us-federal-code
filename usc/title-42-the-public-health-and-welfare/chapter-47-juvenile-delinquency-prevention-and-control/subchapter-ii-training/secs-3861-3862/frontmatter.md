@@ -1,5 +1,7 @@
 ### §§3861, 3862. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Appropriations for this subchapter have not been authorized for fiscal years after 1975.

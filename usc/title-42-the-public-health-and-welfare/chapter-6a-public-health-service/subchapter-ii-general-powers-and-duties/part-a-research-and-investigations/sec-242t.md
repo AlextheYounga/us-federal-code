@@ -22,6 +22,8 @@ To carry out this section, there is authorized to be appropriated $2,000,000 for
 
 (Pub. L. 115–271, title VII, §7131, Oct. 24, 2018, 132 Stat. 4046.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.

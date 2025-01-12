@@ -1,5 +1,7 @@
 ### §§2782 to 2789. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general amendment of part A of this subchapter by Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 691.
@@ -19,6 +21,8 @@ Section 2787, Pub. L. 88–452, title II, §207, Aug. 20, 1964, 78 Stat. 518; Pu
 Section 2788, Pub. L. 88–452, title II, §208, Aug. 20, 1964, 78 Stat. 519; Pub. L. 89–253, §14, Oct. 9, 1965, 79 Stat. 975; Pub. L. 89–794, title II, §214, Nov. 8, 1966, 80 Stat. 1462, set out limitations on Federal assistance and provided for non-Federal contributions.
 
 Section 2789, Pub. L. 88–452, title II, §209, Aug. 20, 1964, 78 Stat. 519; Pub. L. 89–253, §§15, 16, 17, Oct. 9, 1965, 79 Stat. 975, 976, provided for participation of State agencies, establishment of procedures in connection therewith, grant and contract authority, State approval of plans, notice to the Governor and the community action agency of application for programs, and limitations upon the participation of private institutions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Savings Provision ####
 

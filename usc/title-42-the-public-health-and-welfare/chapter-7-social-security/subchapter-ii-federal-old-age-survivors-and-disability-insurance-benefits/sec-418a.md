@@ -26,9 +26,13 @@ No agreement under this section may be terminated on or after the effective date
 
 (Aug. 14, 1935, ch. 531, title II, §218A, as added Pub. L. 115–243, §2(a), Sept. 20, 2018, 132 Stat. 2894.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified generally to Title 26, Internal Revenue Code.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Construction ####
 

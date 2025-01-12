@@ -142,6 +142,8 @@ In this subsection, the term "qualified CHIP look-alike program" means a State p
 
 Amendment of section by Pub. L. 117–2 applicable with respect to State elections made under section 1396a(e)(16) of this title during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after Mar. 11, 2021. See 2021 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by section 214(b) of Pub. L. 111–3 to reflect the probable intent of Congress, notwithstanding section 501(d)(3) of Pub. L. 111–3, set out as an Effective Date of 2009 Amendment note under section 1396a of this title.
@@ -271,6 +273,8 @@ Subsec. (f)(2). Pub. L. 111–3, §112(a)(2)(A)(iv), added par. (2).
 **2006**—Subsec. (f). Pub. L. 109–171 added subsec. (f).
 
 **2000**—Subsec. (e)(1)(D). Pub. L. 106–554 added subpar. (D).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2021 Amendment ####
 

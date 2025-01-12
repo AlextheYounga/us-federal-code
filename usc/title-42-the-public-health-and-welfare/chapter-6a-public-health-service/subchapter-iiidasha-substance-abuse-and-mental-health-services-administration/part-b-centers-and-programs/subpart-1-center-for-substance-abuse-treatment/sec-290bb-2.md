@@ -54,6 +54,8 @@ There are authorized to be appropriated to carry out this section, $333,806,000 
 
 (July 1, 1944, ch. 373, title V, §509, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 341; amended Pub. L. 106–310, div. B, title XXXIII, §3301(b), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–255, div. B, title VII, §7004, Dec. 13, 2016, 130 Stat. 1223.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 290bb–2, act July 1, 1944, ch. 373, title V, §513, formerly §512, formerly Pub. L. 91–616, title V, §504, formerly §503, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1039; amended Pub. L. 96–180, §15, Jan. 2, 1980, 93 Stat. 1305; renumbered §504 of Pub. L. 91–616 and amended Pub. L. 97–35, title IX, §965(a), (c), Aug. 13, 1981, 95 Stat. 594; Pub. L. 97–414, §9(e), Jan. 4, 1983, 96 Stat. 2064; renumbered §512 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; renumbered §513 and amended Oct. 19, 1984, Pub. L. 98–509, title II, §§206(a), 207(a), 98 Stat. 2361, 2362; Oct. 27, 1986, Pub. L. 99–570, title IV, §4010(a), 100 Stat. 3207–115; July 22, 1987, Pub. L. 100–77, title VI, §613(c), 101 Stat. 524; Nov. 4, 1988, Pub. L. 100–607, title VIII, §822, 102 Stat. 3171; Nov. 7, 1988, Pub. L. 100–628, title VI, §622, 102 Stat. 3244; Nov. 18, 1988, Pub. L. 100–690, title II, §2056(a), 102 Stat. 4211; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615; Nov. 29, 1990, Pub. L. 101–645, title V, §522, 104 Stat. 4734, authorized appropriations to carry out alcohol abuse and alcoholism research, prior to repeal by Pub. L. 102–321, §122(d)[(e)].
@@ -73,6 +75,8 @@ Subsec. (e). Pub. L. 114–255, §7004(3), substituted "use disorder" for "abuse
 Subsec. (f). Pub. L. 114–255, §7004(4), substituted "$333,806,000 for each of fiscal years 2018 through 2022." for "$300,000,000 for fiscal year 2001 and such sums as may be necessary for each of the fiscal years 2002 and 2003."
 
 **2000**—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority substance abuse treatment needs of regional and national significance for provisions relating to outpatient treatment programs for pregnant and postpartum women.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

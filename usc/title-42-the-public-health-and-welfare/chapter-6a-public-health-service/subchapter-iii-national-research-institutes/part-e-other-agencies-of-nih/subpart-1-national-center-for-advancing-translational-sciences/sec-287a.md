@@ -282,6 +282,8 @@ No funds appropriated under this chapter, other than funds appropriated under pa
 
 (July 1, 1944, ch. 373, title IV, §480, formerly §402C, as added Pub. L. 111–148, title X, §10409(d), Mar. 23, 2010, 124 Stat. 978; renumbered §480 and amended Pub. L. 112–74, div. F, title II, §221(c)(1), Dec. 23, 2011, 125 Stat. 1089.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 262(i) of this title, referred to in subsec. (a)(3), was in the original "section 262(i)", and was translated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.

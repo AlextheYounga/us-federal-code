@@ -24,6 +24,8 @@
 
 (July 1, 1944, ch. 373, title III, §393, as added Pub. L. 103–183, title II, §201(2), Dec. 14, 1993, 107 Stat. 2231.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 393 of act July 1, 1944, was renumbered section 394 and is classified to section 280b–2 of this title.

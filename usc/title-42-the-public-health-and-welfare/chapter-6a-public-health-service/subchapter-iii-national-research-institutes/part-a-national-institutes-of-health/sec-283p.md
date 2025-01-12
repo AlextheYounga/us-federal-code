@@ -10,6 +10,8 @@ The Director of the National Institutes of Health shall, as appropriate, encoura
 
 (July 1, 1944, ch. 373, title IV, §404N, as added Pub. L. 114–255, div. A, title II, §2038(d), Dec. 13, 2016, 130 Stat. 1065.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Reporting ####
 
 Pub. L. 114–255, div. A, title II, §2038(e), Dec. 13, 2016, 130 Stat. 1065, provided that:

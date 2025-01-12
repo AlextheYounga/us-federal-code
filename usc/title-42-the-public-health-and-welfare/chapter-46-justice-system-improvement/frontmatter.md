@@ -190,6 +190,8 @@ Sec.
 
 3797ff to 3797ff–6. Transferred.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter has been editorially reorganized. Title I of the Omnibus Crime Control and Safe Streets Act of 1968, which comprised the chapter, has been editorially reclassified and renumbered as chapter 101 (§10101 et seq.) of Title 34, Crime Control and Law Enforcement.

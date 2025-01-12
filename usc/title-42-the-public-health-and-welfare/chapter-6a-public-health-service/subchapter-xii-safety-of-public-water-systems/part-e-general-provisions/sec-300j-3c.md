@@ -44,9 +44,13 @@ The term "water supply system" means a system for the provision to the public of
 
 (Pub. L. 104–182, title IV, §401, Aug. 6, 1996, 110 Stat. 1690.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Indian Reservation Drinking Water Program ####
 

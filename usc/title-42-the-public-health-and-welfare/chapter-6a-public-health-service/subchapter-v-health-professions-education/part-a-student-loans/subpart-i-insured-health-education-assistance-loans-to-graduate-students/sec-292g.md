@@ -72,6 +72,8 @@ An institution may pay off the outstanding principal and interest owed by the bo
 
 (July 1, 1944, ch. 373, title VII, §708, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2004.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 292g, act July 1, 1944, ch. 373, title VII, §707, as added Oct. 12, 1976, Pub. L. 94–484, title II, §205, 90 Stat. 2249; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(r), 91 Stat. 395, related to delegation of authority by the Secretary, prior to the general revision of this subchapter by Pub. L. 102–408.
@@ -79,6 +81,8 @@ A prior section 292g, act July 1, 1944, ch. 373, title VII, §707, as added Oct.
 Another prior section 292g, act July 1, 1944, ch. 373, title VII, §708, as added July 30, 1956, ch. 779, §2, 70 Stat. 720; amended Oct. 5, 1961, Pub. L. 87–395, §8(d), 75 Stat. 827; Sept. 24, 1963, Pub. L. 88–129, §2(a), 77 Stat. 164, prohibited Federal interference with administration of institutions where grants were made for construction of health research facilities, prior to repeal by Pub. L. 94–484, title II, §201(a), Oct. 12, 1976, 90 Stat. 2246.
 
 A prior section 708 of act July 1, 1944, was classified to section 292h of this title prior to the general revision of this subchapter by Pub. L. 102–408.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

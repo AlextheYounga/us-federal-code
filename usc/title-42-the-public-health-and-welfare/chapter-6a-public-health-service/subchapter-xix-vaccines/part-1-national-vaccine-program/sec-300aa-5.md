@@ -14,6 +14,8 @@
 
 (July 1, 1944, ch. 373, title XXI, §2105, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 300aa–4 of this title, referred to in subsec. (b)(3), (4), was repealed by Pub. L. 105–362, title VI, §601(a)(1)(H), Nov. 10, 1998, 112 Stat. 3285.
@@ -23,6 +25,8 @@ Section 300aa–4 of this title, referred to in subsec. (b)(3), (4), was repeale
 A prior section 300aa–5, act July 1, 1944, §2106, was successively renumbered by subsequent acts and transferred, see section 238c of this title.
 
 A prior section 2105 of act July 1, 1944, was repealed by Pub. L. 99–117, §12(f), Oct. 7, 1985, 99 Stat. 495. See section 300cc–4 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Committees ####
 

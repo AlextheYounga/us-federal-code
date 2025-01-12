@@ -1,5 +1,7 @@
 ### §§1857f–6e to 1857f–7. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1857f–6e, act July 14, 1955, ch. 360, title II, §212, as added Dec. 31, 1970, Pub. L. 91–604, §10(c), 84 Stat. 1700; amended Apr. 9, 1973, Pub. L. 93–15, §1(b), 87 Stat. 11; June 22, 1974, Pub. L. 93–319, §13(b), 88 Stat. 265, which related to low emission vehicles, was transferred to section 7546 of this title.

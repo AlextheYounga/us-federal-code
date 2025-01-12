@@ -1,5 +1,7 @@
 ### §§1958a to 1958g. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1958a, Pub. L. 85–883, §1, Sept. 2, 1958, 72 Stat. 1706, which related to demonstration plants for production of consumptive water from saline water, was omitted pursuant to section 1958d of this title.

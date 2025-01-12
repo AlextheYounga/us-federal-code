@@ -10,6 +10,8 @@ Section 300o–2 related to State medical facilities plans, submission and appro
 
 Section 300o–3 provided for medical facility project applications, covering in submission of applications, required provisions, waivers, and projects subject to requirements, criteria for approval, procedure for disapproval, amendment of approved applications, and review by health systems agencies.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1979, see section 204 of Pub. L. 96–79, set out as an Effective Date of 1979 Amendment note under section 300q of this title.

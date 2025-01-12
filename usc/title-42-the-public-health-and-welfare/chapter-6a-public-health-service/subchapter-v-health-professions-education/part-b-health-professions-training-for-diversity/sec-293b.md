@@ -94,6 +94,8 @@ For purposes of this subsection, the term "underrepresented minority individuals
 
 (July 1, 1944, ch. 373, title VII, §738, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3532; amended Pub. L. 111–148, title V, §5402(a), title X, §10501(d), Mar. 23, 2010, 124 Stat. 644, 995.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subpart III of part D of subchapter II, referred to in subsec. (a)(5), is classified to section 254l et seq. of this title.

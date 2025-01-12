@@ -74,6 +74,8 @@ For purposes of this part:
 
 (July 1, 1944, ch. 373, title XIV, §1421, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1674; amended Pub. L. 95–190, §6(b), Nov. 16, 1977, 91 Stat. 1396; Pub. L. 96–502, §§3, 4(c), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title II, §201(a), June 19, 1986, 100 Stat. 653; Pub. L. 104–182, title V, §501(b)(1), Aug. 6, 1996, 110 Stat. 1691; Pub. L. 109–58, title III, §322, Aug. 8, 2005, 119 Stat. 694.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, by Pub. L. 104–182, title I, §129(a), Aug. 6, 1996, 110 Stat. 1660.

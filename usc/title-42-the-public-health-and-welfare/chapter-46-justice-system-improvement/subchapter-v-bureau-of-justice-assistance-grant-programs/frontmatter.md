@@ -1,5 +1,7 @@
 ### SUBCHAPTER V—BUREAU OF JUSTICE ASSISTANCE GRANT PROGRAMS ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter V, consisting of sections 3761 to 3766, related to discretionary grants, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.

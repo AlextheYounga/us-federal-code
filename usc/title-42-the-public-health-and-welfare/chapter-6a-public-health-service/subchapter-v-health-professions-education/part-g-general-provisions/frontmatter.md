@@ -1,5 +1,7 @@
 ### Part G—General Provisions ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 115–271, title VII, §7071(1), Oct. 24, 2018, 132 Stat. 4028, redesignated part F as G.

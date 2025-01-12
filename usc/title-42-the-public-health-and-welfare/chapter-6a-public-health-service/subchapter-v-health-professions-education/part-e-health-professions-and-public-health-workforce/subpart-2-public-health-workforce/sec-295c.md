@@ -36,6 +36,8 @@ The Secretary shall submit to the Congress an annual report on the program carri
 
 (July 1, 1944, ch. 373, title VII, §768, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3555; amended Pub. L. 111–148, title X, §10501(m)(1), Mar. 23, 2010, 124 Stat. 1001.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 295c, act July 1, 1944, ch. 373, title VII, §764, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–2; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, established requirements of eligibility for grants, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.

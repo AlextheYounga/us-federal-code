@@ -52,6 +52,8 @@ A health insurance issuer upon denying health insurance coverage in connection w
 
 (July 1, 1944, ch. 373, title XXVII, §2702, as added and amended Pub. L. 111–148, title I, §§1201(4), 1563(c)(8), formerly §1562(c)(8), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 156, 266, 911.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The text of section 300gg–11 of this title, which was amended and transferred to subsecs. (c) and (d) of this section by Pub. L. 111–148, §1563(c)(8), formerly §1562(c)(8), as renumbered by Pub. L. 111–148, §10107(b)(1), was based on act July 1, 1944, ch. 373, title XXVII, §2731, formerly §2711, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1962; renumbered §2731, Pub. L. 111–148, title I, §1001(3), Mar. 23, 2010, 124 Stat. 130.
@@ -65,6 +67,8 @@ Another prior section 2702 of act July 1, 1944, was successively renumbered by s
 #### Amendments ####
 
 **2010**—Pub. L. 111–148, §1563(c)(8), formerly §1562(c)(8), as renumbered by Pub. L. 111–148, §10107(b)(1), transferred section 300gg–11 of this title to the end of this section after amending it by striking out the section catchline "Guaranteed availability of coverage for employers in group market", by striking out subsec. (a) which related to issuance of coverage in small group market, subsec. (b) which related to assurance of access in large group market, subsec. (e) which related to exception to requirement for failure to meet certain minimum participation or contribution rules, and subsec. (f) which related to exception for coverage offered only to bona fide association members, by amending subsec. (c) by substituting "group and individual" for "small group" in introductory provisions of par. (1), inserting "and individuals" after "employers" in introductory provisions of par. (1)(B), inserting "or any additional individuals" after "additional groups" in par. (1)(B)(i), substituting "and individuals without regard to the claims experience of those individuals, employers and their employees (and their dependents) or any health status-related factor relating to such individuals" for "without regard to the claims experience of those employers and their employees (and their dependents) or any health status-related factor relating to such" in par. (1)(B)(ii), and substituting "group or individual" for "small group" in par. (2), and by amending subsec. (d) by substituting "group or individual" for "small group" wherever appearing and substituting "all employers and individuals" for "all employers", "those individuals, employers" for "those employers", and "such individuals, employees" for "such employees" in par. (1)(B).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

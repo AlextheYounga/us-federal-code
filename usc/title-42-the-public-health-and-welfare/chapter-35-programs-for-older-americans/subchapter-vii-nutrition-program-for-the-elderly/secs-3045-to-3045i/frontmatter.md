@@ -20,6 +20,8 @@ Section 3045h, Pub. L. 89–73, title VII, §709, as added Pub. L. 92–258, §2
 
 Section 3045i, Pub. L. 89–73, title VII, §710, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 95, related to agreements with profitmaking organizations. See section 3020c of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 95–478, title V, §501(a), Oct. 18, 1978, 92 Stat. 1558, provided that the repeal by that section is effective at the close of Sept. 30, 1978.

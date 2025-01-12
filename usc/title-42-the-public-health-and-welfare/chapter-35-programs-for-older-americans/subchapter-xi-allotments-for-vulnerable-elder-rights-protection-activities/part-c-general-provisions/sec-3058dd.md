@@ -10,11 +10,15 @@ The Assistant Secretary shall provide technical assistance and training (by cont
 
 (Pub. L. 89–73, title VII, §763, as added Pub. L. 102–375, title VII, §707, Sept. 30, 1992, 106 Stat. 1291; amended Pub. L. 103–171, §3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1990.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted "Assistant Secretary" for "Commissioner".
 
 Subsec. (b). Pub. L. 103–171, §13(a)(11), (13), substituted "Assistant Secretary" for "Commissioner" in heading and text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

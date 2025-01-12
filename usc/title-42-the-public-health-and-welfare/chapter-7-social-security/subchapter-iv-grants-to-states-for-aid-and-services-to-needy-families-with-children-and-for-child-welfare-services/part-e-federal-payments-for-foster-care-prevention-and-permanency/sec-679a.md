@@ -28,6 +28,8 @@ The Secretary of Health and Human Services shall establish, either directly or b
 
 (Pub. L. 99–509, title IX, §9442, Oct. 21, 1986, 100 Stat. 2073.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 and also as part of the Omnibus Budget Reconciliation Act of 1986, and not as part of the Social Security Act which comprises this chapter.

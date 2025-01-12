@@ -112,6 +112,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title V, §548, as added Pub. L. 114–198, title VI, §601, July 22, 2016, 130 Stat. 732.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(5)(A)(i), (ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -121,6 +123,8 @@ Section 701 of the Comprehensive Addiction and Recovery Act of 2016, referred to
 #### Prior Provisions ####
 
 A prior section 290ee–3, act July 1, 1944, ch. 373, title V, §548, formerly Pub. L. 92–255, title IV, §408, Mar. 21, 1972, 86 Stat. 79, as amended Pub. L. 93–282, title III, §303(a), (b), May 14, 1974, 88 Stat. 137, 138; Pub. L. 94–237, §4(c)(5)(A), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–581, title I, §111(c)(3), Oct. 21, 1976, 90 Stat. 2852; Pub. L. 97–35, title IX, §973(d), Aug. 13, 1981, 95 Stat. 598; renumbered §527 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(16)(B), 97 Stat. 182; Aug. 27, 1986, Pub. L. 99–401, title I, §106(b), 100 Stat. 907; renumbered §548, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, §13(q)(1)(A)(iii), (B)(ii), 105 Stat. 278, which related to confidentiality of patient records for drug abuse programs, was omitted in the general revision of this part by Pub. L. 102–321. See section 290dd–2 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Grant Program for the State and Tribal Response to the Opioid Abuse Crisis ####
 

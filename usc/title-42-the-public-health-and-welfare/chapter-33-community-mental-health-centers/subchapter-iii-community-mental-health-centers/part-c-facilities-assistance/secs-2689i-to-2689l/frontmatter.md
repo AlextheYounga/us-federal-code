@@ -16,6 +16,8 @@ Section 2689l, Pub. L. 88–164, title II, §224, as added Pub. L. 94–63, titl
 
 A prior section 224 of Pub. L. 88–164, title II, was classified to section 2688d of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 238l of this title.

@@ -62,6 +62,8 @@ The Secretary shall by regulation establish remedies for noncompliance by an ent
 
 (July 1, 1944, ch. 373, title IV, §493, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 874; amended Pub. L. 103–43, title I, §§161, 163, June 10, 1993, 107 Stat. 140, 142.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 June 10, 1993, referred to in subsec. (a)(1), was in the original "the date of enactment of this section" which was translated as meaning the date of enactment of Pub. L. 103–43, which amended this section generally, to reflect the probable intent of Congress.
@@ -79,6 +81,8 @@ June 10, 1993, referred to in subsec. (a)(1), was in the original "the date of e
 "(b) The Director of NIH shall establish a process for the prompt and appropriate response to information provided the Director of NIH respecting scientific fraud in connection with projects for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such fraud."
 
 Subsec. (e). Pub. L. 103–43, §163, added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Regulations ####
 

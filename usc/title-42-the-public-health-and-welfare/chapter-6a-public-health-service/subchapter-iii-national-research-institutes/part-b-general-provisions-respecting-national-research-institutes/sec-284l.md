@@ -90,6 +90,8 @@ Grants under this subsection shall be for terms of up to 5 years and may be rene
 
 (July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408; Pub. L. 109–482, title I, §103(b)(13), Jan. 15, 2007, 120 Stat. 3687.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (a)(3). Pub. L. 109–482, §103(b)(13)(A), struck out heading and text of par. (3). Text read as follows: "For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year."
@@ -99,6 +101,8 @@ Subsec. (b)(3). Pub. L. 109–482, §103(b)(13)(B), struck out heading and text 
 Subsec. (c)(5). Pub. L. 109–482, §103(b)(13)(C), struck out heading and text of par. (5). Text read as follows: "For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year."
 
 Subsec. (d)(4). Pub. L. 109–482, §103(b)(13)(D), struck out heading and text of par. (4). Text read as follows: "For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

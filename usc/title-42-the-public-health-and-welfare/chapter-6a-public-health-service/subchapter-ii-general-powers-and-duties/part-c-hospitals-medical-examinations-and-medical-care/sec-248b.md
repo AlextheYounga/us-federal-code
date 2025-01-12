@@ -42,6 +42,8 @@ For purposes of this section, a hospital or station cannot be found to be financ
 
 (Pub. L. 97–35, title IX, §987, Aug. 13, 1981, 95 Stat. 603.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subtitle, referred to in subsec. (a), is subtitle J of title IX of Pub. L. 97–35, §§985 to 988, Aug. 13, 1981, 95 Stat. 602, which enacted this section, amended sections 201, 249, and 254e of this title, and enacted provisions set out as notes under this section and section 249 of this title. For complete classification of this subtitle to the Code, see Tables.
@@ -51,6 +53,8 @@ Section 248a of this title, referred to in subsec. (a), was in the original "sec
 #### Codification ####
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Congressional Findings and Declaration of Purpose ####
 

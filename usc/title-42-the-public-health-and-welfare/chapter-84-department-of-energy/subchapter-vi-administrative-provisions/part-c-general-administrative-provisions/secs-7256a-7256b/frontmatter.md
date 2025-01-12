@@ -1,5 +1,7 @@
 ### §§7256a, 7256b. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 7256a, Pub. L. 99–145, title XV, §1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title I, §3131(a), Dec. 4, 1987, 101 Stat. 1238, which related to costs not allowed under covered contracts, was renumbered section 4801 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1783, and is classified to section 2781 of Title 50, War and National Defense.

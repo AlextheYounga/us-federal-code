@@ -10,6 +10,8 @@ Section 261, acts July 1, 1944, ch. 373, title III, §346, formerly §345, 58 St
 
 Section 261a, act July 1, 1944, ch. 373, title III, §347, as added May 8, 1954, ch. 195, §4, 68 Stat. 80; amended Pub. L. 91–513, title I, §2(a)(4), Oct. 27, 1970, 84 Stat. 1240, related to release of patients and determination by Surgeon General.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2016 Amendment ####
 
 Pub. L. 114–198, title I, §110(b), July 22, 2016, 130 Stat. 710, provided that the amendment made by section 110(b) (amending directory language of section 3405(a) of Pub. L. 106–310, which repealed sections 259 to 261a of this title) is effective as if included in the enactment of Pub. L. 106–310.

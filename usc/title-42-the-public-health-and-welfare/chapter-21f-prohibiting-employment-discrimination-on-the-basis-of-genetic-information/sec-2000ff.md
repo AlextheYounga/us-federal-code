@@ -98,6 +98,8 @@ The term "genetic test" does not mean an analysis of proteins or metabolites tha
 
 (Pub. L. 110–233, title II, §201, May 21, 2008, 122 Stat. 905.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 110–233, title II, §213, May 21, 2008, 122 Stat. 920, provided that: "This title [enacting this chapter] takes effect on the date that is 18 months after the date of enactment of this Act [May 21, 2008]."

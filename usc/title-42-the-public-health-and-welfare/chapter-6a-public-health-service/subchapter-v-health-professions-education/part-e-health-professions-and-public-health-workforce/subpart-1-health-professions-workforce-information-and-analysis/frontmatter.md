@@ -1,5 +1,7 @@
 ### subpart 1—health professions workforce information and analysis ###
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Funding for Mental Health and Substance Use Disorder Training for Health Care Professionals, Paraprofessionals, and Public Safety Officers ####
 
 Pub. L. 117–2, title II, §2703, Mar. 11, 2021, 135 Stat. 46, provided that:

@@ -18,6 +18,8 @@ This section shall not apply to a plan described in section 18031(d)(2)(B)(ii) 
 
 (July 1, 1944, ch. 373, title XXVII, §2707, as added Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 161; amended Pub. L. 113–93, title II, §213(b), Apr. 1, 2014, 128 Stat. 1047.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 18022(c) of this title, referred to in subsec. (b), was in the original "section 1302(c)", and was translated as meaning section 1302(c) of Pub. L. 111–148, par. (1) of which relates to annual limitation on cost-sharing, to reflect the probable intent of Congress.
@@ -35,6 +37,8 @@ Another prior section 2707 of act July 1, 1944, was successively renumbered by s
 #### Amendments ####
 
 **2014**—Subsec. (b). Pub. L. 113–93 substituted "paragraph (1)" for "paragraphs (1) and (2)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

@@ -40,6 +40,8 @@ For fiscal year 1989, the report required in subsection (d) shall, not less than
 
 (July 1, 1944, ch. 373, title XXIII, §2302, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 300cc of this title, referred to in subsec. (d), was repealed by Pub. L. 109–482, title I, §104(b)(2)(C), Jan. 15, 2007, 120 Stat. 3693.
@@ -47,6 +49,8 @@ Section 300cc of this title, referred to in subsec. (d), was repealed by Pub. L.
 #### Prior Provisions ####
 
 A prior section 300cc–1, act July 1, 1944, §2302, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
@@ -95,6 +99,8 @@ Pub. L. 103–43, title XIX, §1901(b), June 10, 1993, 107 Stat. 200, provided t
 "(3) Implementation.—Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall implement the plan developed under paragraph (1), including measures for the full participation of other Federal agencies currently conducting HIV vaccine studies.
 
 "(4) Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 12963. Presidential Advisory Council on HIV/AIDS ####
 
@@ -290,7 +296,7 @@ Sec. 6. *National HIV/AIDS Strategy Federal Interagency Working Group*. There is
 
 (vii) integrate the Working Group on the Intersection of HIV/AIDS, Violence Against Women and Girls, and Gender-related Health Disparities into the implementation of the Updated Strategy.
 
-(e) *Reporting*.
+(e) *Reporting.*
 
 (i) Within 100 days of the date of this order, the Federal Interagency Working Group shall provide recommendations to the President on actions that agencies should take to implement the Updated Strategy through 2020.
 

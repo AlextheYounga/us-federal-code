@@ -18,9 +18,13 @@ Subsection (c) may not be construed to restrict the ability of an education prog
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2500, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3093; amended Pub. L. 100–690, title II, §2619(a), Nov. 18, 1988, 102 Stat. 4242; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (a). Pub. L. 100–690 substituted "this subchapter" for "this part".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

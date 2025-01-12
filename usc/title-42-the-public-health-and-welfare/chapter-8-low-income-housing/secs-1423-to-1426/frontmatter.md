@@ -10,6 +10,8 @@ Section 1426, act Sept. 1, 1937, ch. 896, §27, formerly §26, 50 Stat. 899, ren
 
 Sections 1423 to 1426 of this title are covered by section 1012 of Title 18, Crimes and Criminal Procedure.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1948, see section 20 of act June 25, 1948, set out as an Effective Date note preceding section 1 of Title 18, Crimes and Criminal Procedure.

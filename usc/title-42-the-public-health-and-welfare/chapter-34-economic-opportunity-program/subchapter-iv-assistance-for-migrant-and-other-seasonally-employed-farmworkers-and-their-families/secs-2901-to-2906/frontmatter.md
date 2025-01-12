@@ -28,6 +28,8 @@ Section 2906, Pub. L. 88–452, title IV, §406, as added Pub. L. 95–568, §9,
 
 A prior section 2906, Pub. L. 88–452, title IV, §404, formerly §406, Aug. 20, 1964, 78 Stat. 527; renumbered §404 and amended Pub. L. 89–794, title IV, §§401, 406, Nov. 8, 1966, 80 Stat. 1465; Pub. L. 90–222, title I, §106(d), (3), Dec. 23, 1967, 81 Stat. 711, required Administrator to distribute financial assistance to insure that at least 50 per centum of amounts loaned or guaranteed are allotted to small business concerns located in designated urban areas, prior to repeal by Pub. L. 93–386, §2(b), Aug. 23, 1974, 88 Stat. 745.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

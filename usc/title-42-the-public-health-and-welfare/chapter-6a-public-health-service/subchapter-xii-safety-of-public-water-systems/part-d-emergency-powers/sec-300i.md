@@ -10,6 +10,8 @@ Any person who violates or fails or refuses to comply with any order issued by t
 
 (July 1, 1944, ch. 373, title XIV, §1431, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1680; amended Pub. L. 99–339, title II, §204, June 19, 1986, 100 Stat. 660; Pub. L. 104–182, title I, §113(d), Aug. 6, 1996, 110 Stat. 1636; Pub. L. 107–188, title IV, §403(2), June 12, 2002, 116 Stat. 687.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsec. (a). Pub. L. 107–188, in first sentence, inserted ", or that there is a threatened or potential terrorist attack (or other intentional act designed to disrupt the provision of safe drinking water or to impact adversely the safety of drinking water supplied to communities and individuals), which" after "drinking water".

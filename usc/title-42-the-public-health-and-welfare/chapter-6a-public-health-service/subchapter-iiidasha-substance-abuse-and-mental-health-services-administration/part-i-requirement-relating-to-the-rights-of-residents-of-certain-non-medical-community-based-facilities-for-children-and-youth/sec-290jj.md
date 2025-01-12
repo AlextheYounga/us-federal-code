@@ -90,6 +90,8 @@ The term "time out" means a behavior management technique that is part of an app
 
 (July 1, 1944, ch. 373, title V, §595, as added Pub. L. 106–310, div. B, title XXXII, §3208, Oct. 17, 2000, 114 Stat. 1197.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.

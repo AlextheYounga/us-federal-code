@@ -44,6 +44,8 @@ The Secretary may enter into an agreement under this section on a demonstration 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(l)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) [title IV, §§403(f), 408(a), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) [title II, §203(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–482; Pub. L. 108–173, title IV, §405(a)(1), Dec. 8, 2003, 117 Stat. 2266.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Subsec. (a)(3). Pub. L. 108–173 inserted "equal to 101 percent of" before "the reasonable costs".
@@ -83,6 +85,8 @@ Pub. L. 100–360, §104(d)(6), struck out "post-hospital" before "extended care
 Subsec. (d). Pub. L. 100–203, §4005(b)(2), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 100–203, §4201(d)(3), as added by Pub. L. 100–360, §411(l)(1)(C), and Pub. L. 100–485, §608(d)(27)(B), substituted "section 1395i–3" for "section 1395x(j)(15)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2003 Amendment ####
 

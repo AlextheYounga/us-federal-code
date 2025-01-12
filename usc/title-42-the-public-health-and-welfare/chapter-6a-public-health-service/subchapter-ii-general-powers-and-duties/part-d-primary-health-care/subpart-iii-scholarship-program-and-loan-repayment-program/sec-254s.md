@@ -36,6 +36,8 @@ There are authorized to be appropriated $1,800,000 for each of the fiscal years 
 
 (July 1, 1944, ch. 373, title III, §338K, formerly §338J, as added Pub. L. 100–713, title I, §106, Nov. 23, 1988, 102 Stat. 4787; renumbered §338K, Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 101–644, title IV, §401, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 107–116, title V, §514(b), Jan. 10, 2002, 115 Stat. 2220.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsec. (a). Pub. L. 107–116, which directed the amendment of subsec. (a) by substituting "Papa Ola Lokahi" for "Kamehameha School/Bishop Estate", was executed by making the substitution for "Kamehameha Schools/Bishop Estate" to reflect the probable intent of Congress.

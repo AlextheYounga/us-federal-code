@@ -44,6 +44,8 @@ There are authorized to be appropriated to carry out this section, $29,605,000 f
 
 (July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1171; amended Pub. L. 114–255, div. B, title X, §10003, Dec. 13, 2016, 130 Stat. 1264; Pub. L. 115–271, title VII, §7102(a), Oct. 24, 2018, 132 Stat. 4038.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 514 of act July 1, 1944, was classified to section 290bb–9 of this title prior to repeal by Pub. L. 114–255, div. B, title IX, §9017, Dec. 13, 2016, 130 Stat. 1248.

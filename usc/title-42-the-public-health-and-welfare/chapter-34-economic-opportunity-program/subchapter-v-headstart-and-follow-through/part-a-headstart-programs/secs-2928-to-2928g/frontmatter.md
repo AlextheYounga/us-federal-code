@@ -16,6 +16,8 @@ Section 2928f, Pub. L. 88–452, title V, §517, as added Pub. L. 93–644, §8(
 
 Section 2928g, Pub. L. 88–452, title V, §518, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2304; amended Pub. L. 95–568, §10(f), Nov. 2, 1978, 92 Stat. 2432, set forth provisions respecting participation in Headstart programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

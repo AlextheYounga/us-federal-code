@@ -84,6 +84,8 @@ Not later than September 30, 2020, and biennially thereafter, the Secretary shal
 
 (July 1, 1944, ch. 373, title VIII, §806, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3565; amended Pub. L. 116–136, div. A, title III, §3404(a)(4), Mar. 27, 2020, 134 Stat. 392.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 296e, act July 1, 1944, ch. 373, title VIII, §810, formerly §806, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 912; amended Dec. 5, 1967, Pub. L. 90–174, §12(a), 81 Stat. 541; Aug. 16, 1968, Pub. L. 90–490, title II, §211, 82 Stat. 781; Nov. 18, 1971, Pub. L. 92–158, §4(a), 85 Stat. 470; renumbered §810 and amended July 29, 1975, Pub. L. 94–63, title IX, §§902(b), 915(a)–(c), 916(a), (b), 941(e), 89 Stat. 354, 356, 358, 365; Aug. 1, 1977, Pub. L. 95–83, title III, §307(o)(1)–(4), 91 Stat. 393; Sept. 29, 1979, Pub. L. 96–76, title I, §104, 93 Stat. 579, set forth provisions relating to computation, requirements, etc., respecting grants for institutional support, prior to repeal by Pub. L. 99–92, §§9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.

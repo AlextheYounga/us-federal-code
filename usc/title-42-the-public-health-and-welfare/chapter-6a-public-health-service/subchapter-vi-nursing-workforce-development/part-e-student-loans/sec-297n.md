@@ -122,6 +122,8 @@ Of the amounts appropriated under section 298d(b) of this title,,<sup><a href="#
 
 (July 1, 1944, ch. 373, title VIII, §846, as added Pub. L. 102–408, title II, §211(a)(3), Oct. 13, 1992, 106 Stat. 2078; amended Pub. L. 105–392, title I, §133(d), Nov. 13, 1998, 112 Stat. 3576; Pub. L. 107–205, title I, §103, Aug. 1, 2002, 116 Stat. 813; Pub. L. 111–148, title V, §5310(a), Mar. 23, 2010, 124 Stat. 631; Pub. L. 116–136, div. A, title III, §3404(a)(8), Mar. 27, 2020, 134 Stat. 394.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subpart II, referred to in subsec. (a)(2), probably should be "this part" to reflect the redesignation of subpart II of former part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
@@ -175,6 +177,8 @@ Former subsec. (h) redesignated (g).
 Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: "For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994."
 
 **1998**—Subsec. (h). Pub. L. 105–392 added subsec. (h).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center ####
 

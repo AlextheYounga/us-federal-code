@@ -6,6 +6,8 @@ Section 9492, Pub. L. 96–398, title III, §327, Oct. 7, 1980, 94 Stat. 1597, r
 
 Section 9493, Pub. L. 96–398, title III, §328, Oct. 7, 1980, 94 Stat. 1597, related to cooperative agreements.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 238l of this title.

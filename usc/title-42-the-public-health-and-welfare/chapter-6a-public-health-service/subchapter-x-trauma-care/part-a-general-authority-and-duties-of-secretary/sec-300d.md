@@ -22,6 +22,8 @@ The Secretary may make grants, and enter into cooperative agreements and contrac
 
 (July 1, 1944, ch. 373, title XII, §1201, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2916; amended Pub. L. 103–183, title VI, §601(a), Dec. 14, 1993, 107 Stat. 2238; Pub. L. 104–146, §12(b), May 20, 1996, 110 Stat. 1373; Pub. L. 110–23, §2, May 3, 2007, 121 Stat. 90.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300d, act July 1, 1944, ch. 373, title XII, §1201, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 594; amended Oct. 12, 1976, Pub. L. 94–484, title IX, §905(b)(1), 90 Stat. 2325; Oct. 21, 1976, Pub. L. 94–573, §§2, 14(2), 90 Stat. 2709, 2718, defined terms applicable to this subchapter, prior to repeal by Pub. L. 97–35, title IX, §902(d)(1), (h), Aug. 13, 1981, 95 Stat. 560, 561, effective Oct. 1, 1981.
@@ -37,6 +39,8 @@ A prior section 1201 of act July 1, 1944, ch. 373, title XII, formerly §1205, a
 **1993**—Subsec. (a). Pub. L. 103–183, §601(a)(1), in introductory provisions inserted ", acting through the Administrator of the Health Resources and Services Administration," after "Secretary".
 
 Subsec. (c). Pub. L. 103–183, §601(a)(2), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

@@ -12,6 +12,8 @@ Section 5638, Pub. L. 93–415, title II, §228, Sept. 7, 1974, 88 Stat. 1124; P
 
 Section 5639, Pub. L. 93–415, title II, §229, as added Pub. L. 95–115, §4(h), Oct. 3, 1977, 91 Stat. 1056, provided for confidentiality of program records.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 11101 of Title 34, Crime Control and Law Enforcement.

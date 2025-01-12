@@ -104,6 +104,8 @@ For purposes of this part:
 
 (July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, §2038(c), Dec. 13, 2016, 130 Stat. 1065.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (c)(2). Pub. L. 114–255 substituted "senior-level staff designees" for "designees".
@@ -111,6 +113,8 @@ For purposes of this part:
 **2010**—Subsec. (a). Pub. L. 111–148 inserted "and who shall report directly to the Director" before period at end.
 
 **1998**—Subsec. (d)(2). Pub. L. 105–340 substituted "NIH" for "the Office".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Committees ####
 

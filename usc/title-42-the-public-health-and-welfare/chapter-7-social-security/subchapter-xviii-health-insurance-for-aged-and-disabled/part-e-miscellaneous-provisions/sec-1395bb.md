@@ -40,6 +40,8 @@ With respect to an accreditation body that has received approval from the Secret
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1865, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 92–603, title II, §§234(h), 244(b), Oct. 30, 1972, 86 Stat. 1413, 1423; Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), Sept. 3, 1982, 96 Stat. 362, 367; Pub. L. 98–369, div. B, title III, §§2345(a), 2346(a), July 18, 1984, 98 Stat. 1096; Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), Oct. 21, 1986, 100 Stat. 1990, 2016; Pub. L. 100–203, title IV, §§4025(b), 4072(d), Dec. 22, 1987, 101 Stat. 1330–117, as amended Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), July 1, 1988, 102 Stat. 774; Pub. L. 100–360, title II, §§204(c)(3), (d)(3), July 1, 1988, 102 Stat. 728, 729; Pub. L. 100–485, title VI, §608(d)(20)(D), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), Dec. 19, 1989, 103 Stat. 2153, 2165, 2166, 2219; Pub. L. 101–508, title IV, §4163(c)(3), Nov. 5, 1990, 104 Stat. 1388–100; Pub. L. 103–432, title I, §145(c)(4), Oct. 31, 1994, 108 Stat. 4427; Pub. L. 104–134, title I, §101(d) [title V, §516(b), (c)(2)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–173, title VII, §736(a)(12), Dec. 8, 2003, 117 Stat. 2355; Pub. L. 110–275, title I, §125(a), (b)(1), July 15, 2008, 122 Stat. 2519; Pub. L. 115–123, div. E, title IV, §50403(a)(1), Feb. 9, 2018, 132 Stat. 217; Pub. L. 116–260, div. CC, title IV, §407(a)(2), Dec. 27, 2020, 134 Stat. 3007.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (b). Pub. L. 116–260 inserted "or, beginning on December 27, 2020, a hospice program" after "home health agency".
@@ -111,6 +113,8 @@ Pub. L. 98–369, §2345(a), struck out "(on a confidential basis)" after "relea
 Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted "a hospital" for "an institution" and "the hospital" for "such institution".
 
 **1972**—Pub. L. 92–603 designated existing provisions as subsec. (a), inserted reference to subsec. (b) of this section in opening provisions, redesignated existing provisions as pars. (1) and (3) and added pars. (2) and (4) and in provisions following par. (4) inserted provisions for the imposition of a standard which the Secretary determines is at least equivalent to the standard promulgated by the Secretary as described in par. (4), and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment; Transition Rule ####
 

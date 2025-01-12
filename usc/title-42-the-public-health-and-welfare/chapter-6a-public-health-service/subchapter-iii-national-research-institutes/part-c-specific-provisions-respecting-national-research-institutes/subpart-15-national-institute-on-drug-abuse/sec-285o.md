@@ -14,11 +14,15 @@ The Director of the Institute shall collaborate with the Substance Abuse and Men
 
 (July 1, 1944, ch. 373, title IV, §464L, as added Pub. L. 102–321, title I, §123(a), July 10, 1992, 106 Stat. 360; amended Pub. L. 102–352, §2(a)(3), Aug. 26, 1992, 106 Stat. 938; Pub. L. 109–482, title I, §103(b)(33), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization of appropriations and allocation for health services research.
 
 **1992**—Subsec. (d)(1). Pub. L. 102–352 inserted "other than section 285o–4 of this title," after "this subpart,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

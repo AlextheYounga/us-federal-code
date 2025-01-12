@@ -54,6 +54,8 @@ This section may be cited as the "Donald J. Cohen National Child Traumatic Stres
 
 (July 1, 1944, ch. 373, title V, §582, as added Pub. L. 106–310, div. B, title XXXI, §3101, Oct. 17, 2000, 114 Stat. 1169; amended Pub. L. 107–116, title II, §218, Jan. 10, 2002, 115 Stat. 2201; Pub. L. 107–188, title I, §155, June 12, 2002, 116 Stat. 633; Pub. L. 114–255, div. B, title X, §10004, Dec. 13, 2016, 130 Stat. 1265; Pub. L. 115–271, title VII, §7133, Oct. 24, 2018, 132 Stat. 4051.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 582 of act July 1, 1944, is classified to section 290kk–1 of this title.

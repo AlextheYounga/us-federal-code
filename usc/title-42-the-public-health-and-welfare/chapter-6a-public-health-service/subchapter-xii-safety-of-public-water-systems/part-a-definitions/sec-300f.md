@@ -72,6 +72,8 @@ At any time after promulgation of a regulation referred to in this paragraph, th
 
 (July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660; amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616; Pub. L. 114–322, title II, §2111, Dec. 16, 2016, 130 Stat. 1729.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Safe Drinking Water Act Amendments of 1996, referred to in par. (4)(C), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 201 of this title and Tables.
@@ -102,6 +104,8 @@ Par. (14). Pub. L. 99–339, §302(b)(1), added par. (14).
 
 Pub. L. 94–317 added par. (13).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1996 Amendment ####
 
 Pub. L. 104–182, §2(b), Aug. 6, 1996, 110 Stat. 1614, provided that: "Except as otherwise specified in this Act [enacting sections 300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and section 1263a of Title 33, Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and section 349 of Title 21, Food and Drugs, repealing section 13551 of this title, enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, section 1281 of Title 33, and section 45 of former Title 40, Public Buildings, Property, and Works, and amending provisions set out as a note under section 201 of this title] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act [Aug. 6, 1996]."
@@ -110,9 +114,9 @@ Pub. L. 104–182, §2(b), Aug. 6, 1996, 110 Stat. 1614, provided that: "Except 
 
 This subchapter is known as the "Safe Drinking Water Act", see note set out under section 201 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands ####
+#### Termination of Advisory Committees ####
 
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Effect of Public Law 104–182 on Federal Water Pollution Control Act ####
 
@@ -172,10 +176,12 @@ Pub. L. 95–190, §3(e)(2), Nov. 16, 1977, 91 Stat. 1394, provided that: "Nothi
 
 Pub. L. 93–523, §3, Dec. 16, 1974, 88 Stat. 1693, as amended by Pub. L. 95–190, §§2(d), 3(d), Nov. 16, 1977, 91 Stat. 1393, 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard, and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
 
+#### **Executive Documents** ####
+
+#### Termination of Trust Territory of the Pacific Islands ####
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
 #### Federal Compliance With Pollution Control Standards ####
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of this title.
-
-#### Termination of Advisory Committees ####
-
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.

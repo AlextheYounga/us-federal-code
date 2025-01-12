@@ -14,9 +14,13 @@ Subsection (a) shall not apply to—
 
 (July 1, 1944, ch. 373, title XXII, §2201, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 232; amended Pub. L. 101–239, title VI, §6801(a)(1), Dec. 19, 1989, 103 Stat. 2296.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Subsec. (b). Pub. L. 101–239 struck out at end "Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of paragraph (1)."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1989 Amendment ####
 

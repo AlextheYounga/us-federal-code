@@ -1,5 +1,7 @@
 ### §§4301 to 4312. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 4301 to 4312 of this title, Pub. L. 91–181, §§1–12, Dec. 30, 1969, 83 Stat. 838, were omitted pursuant to section 4312 of this title which provided that Pub. L. 91–181 shall expire five years after Dec. 30, 1969.

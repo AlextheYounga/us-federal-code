@@ -30,6 +30,8 @@ Section 5091m, Pub. L. 93–113, title VII, §715, as added Pub. L. 101–610, t
 
 Section 5091n, Pub. L. 93–113, title VII, §716, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3179, authorized appropriations to carry out this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Subchapter repealed effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 4951 of this title.

@@ -52,6 +52,8 @@ The education and awareness campaigns under subsection (a) shall, as appropriate
 
 (Pub. L. 114–198, title I, §102, July 22, 2016, 130 Stat. 698; Pub. L. 115–271, title VII, §7161(b), Oct. 24, 2018, 132 Stat. 4061.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the Public Health Service Act which comprises this chapter.
@@ -63,6 +65,8 @@ Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2
 Subsec. (b)(1). Pub. L. 115–271, §7161(b)(2)(A), substituted "opioid misuse and abuse" for "opioid abuse".
 
 Subsec. (b)(2). Pub. L. 115–271, §7161(b)(2), substituted "opioid misuse and abuse" for "opioid abuse" and "non-addictive treatment options, safe disposal options for prescription medications, and other applicable" for "safe disposal of prescription medications and other".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Information Materials and Resources To Prevent Addiction Related to Youth Sports Injuries ####
 

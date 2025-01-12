@@ -14,6 +14,8 @@ Not later than 1 year after December 21, 2000, and annually thereafter, the Secr
 
 (Pub. L. 106–554, §1(a)(6) [title I, §126], Dec. 21, 2000, 114 Stat. 2763, 2763A–479.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, and also as part of the Consolidated Appropriations Act, 2001, and not as part of the Public Health Service Act which comprises this chapter.

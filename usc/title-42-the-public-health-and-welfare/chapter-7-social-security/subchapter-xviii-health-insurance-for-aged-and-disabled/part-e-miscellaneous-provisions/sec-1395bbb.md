@@ -184,6 +184,8 @@ A home health agency shall submit claims for payment for home health services un
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1891, as added and amended Pub. L. 100–203, title IV, §§4021(b), 4022(a), 4023(a), Dec. 22, 1987, 101 Stat. 1330–67, 1330–69, 1330–71; Pub. L. 100–360, title IV, §411(d)(1)(A), (2)–(3)(B), July 1, 1988, 102 Stat. 773, 774; Pub. L. 100–485, title VI, §608(d)(20)(A), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–508, title IV, §§4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–116, 1388–123, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–134, title I, §101(d) [title V, §516(a)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33, title IV, §4604(a), Aug. 5, 1997, 111 Stat. 472; Pub. L. 108–173, title VII, §736(c)(3), Dec. 8, 2003, 117 Stat. 2356.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Subsec. (d)(1). Pub. L. 108–173 substituted "subsection (c)(2)(C)(i)(I)" for "subsection (c)(2)(C)(I)".
@@ -217,6 +219,8 @@ Subsec. (f)(2)(A)(i). Pub. L. 100–360, §411(d)(3)(B)(ii), substituted "in an 
 **1987**—Subsecs. (c), (d). Pub. L. 100–203, §4022(a), added subsecs. (c) and (d).
 
 Subsecs. (e), (f). Pub. L. 100–203, §4023(a), as amended by Pub. L. 100–360, §411(d)(3)(A), added subsecs. (e) and (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1997 Amendment ####
 

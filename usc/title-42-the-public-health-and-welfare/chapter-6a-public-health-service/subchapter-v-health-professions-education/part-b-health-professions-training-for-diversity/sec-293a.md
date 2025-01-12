@@ -36,6 +36,8 @@ The term "eligible individual" means an individual who—
 
 (July 1, 1944, ch. 373, title VII, §737, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3531.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 293a, act July 1, 1944, ch. 373, title VII, §737, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2023, authorized grants to health professions schools for provision of scholarships and undergraduate assistance, prior to the general amendment of this part by Pub. L. 105–392.

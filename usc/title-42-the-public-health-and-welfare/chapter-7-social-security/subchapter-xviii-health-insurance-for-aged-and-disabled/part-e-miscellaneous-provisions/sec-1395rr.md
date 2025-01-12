@@ -508,6 +508,8 @@ The Secretary shall establish a list of providers of services and renal dialysis
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1881, as added Pub. L. 95–292, §2, June 13, 1978, 92 Stat. 308; amended Pub. L. 96–499, title IX, §957, Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–35, title XXI, §2145(a), Aug. 13, 1981, 95 Stat. 799; Pub. L. 98–21, title VI, §602(i), Apr. 20, 1983, 97 Stat. 165; Pub. L. 98–369, div. B, title III, §§2323(c), 2352(a), 2354(b)(41), July 18, 1984, 98 Stat. 1086, 1099, 1102; Pub. L. 98–617, §3(b)(8), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–509, title IX, §9335(a)(2), (d)(1), (e)–(i)(1), (j)(1), (k)(1), Oct. 21, 1986, 100 Stat. 2029–2033; Pub. L. 100–93, §12, Aug. 18, 1987, 101 Stat. 697; Pub. L. 100–203, title IV, §§4036(b), (c)(2), (d)(5), 4065(b), Dec. 22, 1987, 101 Stat. 1330–79, 1330–80, 1330–112; Pub. L. 101–239, title VI, §§6102(e)(8), 6203(b)(1), (2), 6219(a), (b), Dec. 19, 1989, 103 Stat. 2188, 2235, 2254; Pub. L. 101–508, title IV, §4201(c)(1), (d)(2), formerly (d)(2), (3), Nov. 5, 1990, 104 Stat. 1388–103, 1388–104, renumbered Pub. L. 103–432, title I, §160(d)(3), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13566(a), Aug. 10, 1993, 107 Stat. 607; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–113, div. B, §1000(a)(6) [title II, §222(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–352; Pub. L. 106–554, §1(a)(6) [title IV, §422(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–516; Pub. L. 108–173, title VI, §623(a), (b)(2), (d), Dec. 8, 2003, 117 Stat. 2312, 2313; Pub. L. 109–171, title V, §5106, Feb. 8, 2006, 120 Stat. 42; Pub. L. 109–432, div. B, title I, §103(a), Dec. 20, 2006, 120 Stat. 2981; Pub. L. 110–275, title I, §153(a), (b)(1), (3)(A), (c), July 15, 2008, 122 Stat. 2553, 2556; Pub. L. 111–148, title III, §3401(h), Mar. 23, 2010, 124 Stat. 485; Pub. L. 112–240, title VI, §632(a), Jan. 2, 2013, 126 Stat. 2354; Pub. L. 113–93, title II, §217(b), (d), Apr. 1, 2014, 128 Stat. 1061, 1062; Pub. L. 115–123, div. E, title III, §50302(a), (d), title IV, §50403(b), Feb. 9, 2018, 132 Stat. 190, 192, 218; Pub. L. 116–136, div. A, title III, §3705, Mar. 27, 2020, 134 Stat. 418.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1395x(s)(2)(P) of this title, referred to in subsec. (b)(1), was redesignated section 1395x(s)(2)(O) of this title by Pub. L. 103–432, title I, §147(f)(6)(B)(iii)(II), Oct. 31, 1994, 108 Stat. 4432.
@@ -673,6 +675,8 @@ Subsec. (b)(7) to (10). Pub. L. 97–35, §2145(a)(7), (8), added par. (7) and r
 Subsec. (e)(2). Pub. L. 96–499, §957(a)(4), substituted ", facility, or other entity will" for "or facility will".
 
 Subsec. (g). Pub. L. 96–499, §957(b), substituted "July" for "April" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1994 Amendment ####
 

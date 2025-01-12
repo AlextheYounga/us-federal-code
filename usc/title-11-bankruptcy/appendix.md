@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to December 1, 2020)
+(Effective August 1, 1983, as amended to December 1, 2021)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021.
 
 Rule
 
@@ -482,7 +482,7 @@ Rule
 
 9035. Applicability of Rules in Judicial Districts in Alabama and North Carolina.
 
-9036. Notice and Service Generally.
+9036. Notice and Service by Electronic Transmission.
 
 9037. Privacy Protection For Filings Made with the Court.
 
@@ -1784,7 +1784,7 @@ This rule is amended to conform to §303(g) of the Code which provides that the 
 
 (5) A creditor may treat a notice as not having been brought to the creditor's attention under §342(g)(1) only if, prior to issuance of the notice, the creditor has filed a statement that designates the name and address of the person or organizational subdivision of the creditor responsible for receiving notices under the Code, and that describes the procedures established by the creditor to cause such notices to be delivered to the designated person or subdivision.
 
-(h) Notices to Creditors Whose Claims are Filed.
+(h) Notices to Creditors Whose Claims Are Filed.
 
 (1) *Voluntary Case*. In a voluntary chapter 7 case, chapter 12 case, or chapter 13 case, after 70 days following the order for relief under that chapter or the date of the order converting the case to chapter 12 or chapter 13, the court may direct that all notices required by subdivision (a) of this rule be mailed only to:
 
@@ -2256,9 +2256,9 @@ Second, subdivision (c) is amended to bring its subpoena provision into conformi
 
 (2) If the debtor is taken into custody under the order at a place 100 miles or more from the place of issue of the order, the debtor shall be brought without unnecessary delay before the nearest available United States magistrate judge, bankruptcy judge, or district judge. If, after hearing, the magistrate judge, bankruptcy judge, or district judge finds that an order has issued under this rule and that the person in custody is the debtor, or if the person in custody waives a hearing, the magistrate judge, bankruptcy judge, or district judge shall order removal, and the person in custody shall be released on conditions ensuring prompt appearance before the court that issued the order to compel the attendance.
 
-(c) Conditions of Release. In determining what conditions will reasonably assure attendance or obedience under subdivision (a) of this rule or appearance under subdivision (b) of this rule, the court shall be governed by the provisions and policies of title 18, U.S.C., §3146(a) and (b).
+(c) Conditions of Release. In determining what conditions will reasonably assure attendance or obedience under subdivision (a) of this rule or appearance under subdivision (b) of this rule, the court shall be governed by the relevant provisions and policies of title 18 U.S.C. §3142.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 14, 2021, eff. Dec. 1, 2021.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2269,6 +2269,10 @@ The affidavit required to be submitted in support of the motion may be subscribe
 #### Notes of Advisory Committee on Rules—1993 Amendment ####
 
 *Subdivision (b)(2)* is amended to conform to §321 of the Judicial Improvements Act of 1990, Pub. L. No. 101–650, which changed the title of "United States magistrate" to "United States magistrate judge." Other amendments are stylistic and make no substantive change.
+
+#### Committee Notes on Rules—2021 Amendment ####
+
+The rule is amended to replace the reference to 18 U.S.C. §3146(a) and (b) with a reference to 18 U.S.C. §3142. Sections 3141 through 3151 of Title 18 were repealed by the Bail Reform Act of 1984, Pub. L. No. 98–473, Title II, §203(a), 98 Stat. 1976 (1984), and replaced by new provisions dealing with bail. The current version of 18 U.S.C. §3146 deals not with conditions to assure attendance or appearance, but with penalties for failure to appear. The topic of conditions is in 18 U.S.C. §3142. Because 18 U.S.C. §3142 contains provisions bearing on topics not included in former 18 U.S.C. §3146(a) and (b), the rule is also amended to limit the reference to the "relevant" provisions and policies of §3142.
 
 ### Rule 2006. Solicitation and Voting of Proxies in Chapter 7 Liquidation Cases ###
 
@@ -3648,7 +3652,7 @@ This amendment is stylistic. Notice of the hearing need not be given to committe
 
 (i) if the objection is to a claim of the United States, or any of its officers or agencies, in the manner provided for service of a summons and complaint by Rule 7004(b)(4) or (5); or
 
-(ii) if the objection is to a claim of an insured depository institution, in the manner provided by Rule 7004(h).
+(ii) if the objection is to a claim of an insured depository institution as defined in section 3 of the Federal Deposit Insurance Act, in the manner provided in Rule 7004(h).
 
 (B) Service of the objection and notice shall also be made by first-class mail or other permitted means on the debtor or debtor in possession, the trustee, and, if applicable, the entity filing the proof of claim under Rule 3005.
 
@@ -3690,7 +3694,7 @@ This amendment is stylistic. Notice of the hearing need not be given to committe
 
 (f) Finality of Objection. The finality of any order regarding a claim objection included in an omnibus objection shall be determined as though the claim had been subject to an individual objection.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 14, 2021, eff. Dec. 1, 2021.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3727,6 +3731,14 @@ The Advisory Committee did accept several of Judge Grant's suggestions, and the 
 Subdivision (a) is amended to specify the manner in which an objection to a claim and notice of the objection must be served. It clarifies that Rule 7004 does not apply to the service of most claim objections. Instead, a claimant must be served by first-class mail addressed to the person whom the claimant most recently designated on its proof of claim to receive notices, at the address so indicated. If, however, the claimant is the United States, an officer or agency of the United States, or an insured depository institution, service must also be made according to the method prescribed by the appropriate provision of Rule 7004. The service methods for the depository institutions are statutorily mandated, and the size and dispersal of the decision-making and litigation authority of the federal government necessitate service on the appropriate United States attorney's office and the Attorney General, as well as the person designated on the proof of claim.
 
 As amended, subdivision (a) no longer requires that a hearing be scheduled or held on every objection. The rule requires the objecting party to provide notice and an opportunity for a hearing on the objection, but, by deleting from the subdivision references to "the hearing," it permits local practices that require a claimant to timely request a hearing or file a response in order to obtain a hearing. The official notice form served with a copy of the objection will inform the claimant of any actions it must take. However, while a local rule may require the claimant to respond to the objection to a proof of claim, the court will still need to determine if the claim is valid, even if the claimant does not file a response to a claim objection or request a hearing.
+
+#### Committee Notes on Rules—2021 Amendment ####
+
+Subdivision (a)(2)(A)(ii) is amended to clarify that the special service method required by Rule 7004(h) must be used for service of objections to claims only on insured depository institutions as defined in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. §1813. Rule 7004(h) was enacted by Congress as part of the Bankruptcy Reform Act of 1994. It applies only to insured depository institutions that are insured by the Federal Deposit Insurance Corporation and does not include credit unions, which are instead insured by the National Credit Union Administration. A credit union, therefore, may be served with an objection to a claim according to Rule 3007(a)(2)(A)—by first-class mail sent to the person designated for receipt of notice on the credit union's proof of claim.
+
+#### References in Text ####
+
+Section 3 of the Federal Deposit Insurance Act, referred to in subd. (a)(2)(A)(ii), is classified to section 1813 of Title 12, Banks and Banking.
 
 ### Rule 3008. Reconsideration of Claims ###
 
@@ -6160,11 +6172,15 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7007.1. Corporate Ownership Statement ###
 
-(a) Required Disclosure. Any corporation that is a party to an adversary proceeding, other than the debtor or a governmental unit, shall file two copies of a statement that identifies any corporation, other than a governmental unit, that directly or indirectly owns 10% or more of any class of the corporation's equity interests, or states that there are no entities to report under this subdivision.
+(a) Required Disclosure. Any nongovernmental corporation that is a party to an adversary proceeding, other than the debtor, shall file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation. The same requirement applies to a nongovernmental corporation that seeks to intervene.
 
-(b) Time for Filing. A party shall file the statement required under Rule 7007.1(a) with its first appearance, pleading, motion, response, or other request addressed to the court. A party shall file a supplemental statement promptly upon any change in circumstances that this rule requires the party to identify or disclose.
+(b) Time for Filing; Supplemental Filing. The corporate ownership statement shall:
 
-(Added Mar. 27, 2003, eff. Dec. 1, 2003; amended Apr. 30, 2007, eff. Dec. 1, 2007.)
+(1) be filed with the corporation's first appearance, pleading, motion, response, or other request addressed to the court; and
+
+(2) be supplemented whenever the information required by this rule changes.
+
+(Added Mar. 27, 2003, eff. Dec. 1, 2003; amended Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 14, 2021, eff. Dec. 1, 2021.)
 
 #### Committee Notes on Rules—2003 ####
 
@@ -6183,6 +6199,10 @@ The rule does not prohibit the adoption of local rules requiring disclosures bey
 The rule is amended to clarify that a party must file a corporate ownership statement with its initial paper filed with the court in an adversary proceeding. The party's initial filing may be a document that is not a "pleading" as defined in Rule 7 F. R. Civ. P., which is made applicable in adversary proceedings by Rule 7007. The amendment also brings Rule 7007.1 more closely in line with Rule 7.1 F. R. Civ. P.
 
 *Changes After Publication*. No changes were made after publication.
+
+#### Committee Notes on Rules—2021 Amendment ####
+
+The rule is amended to conform to recent amendments to Fed. R. Bankr. P. 8012 and Fed. R. App. P. 26.1, and the anticipated amendment to Fed. R. Civ. P. 7.1. Subdivision (a) is amended to encompass nongovernmental corporations that seek to intervene. Stylistic changes are made to subdivision (b) to reflect that some statements will be filed by nonparties seeking to intervene.
 
 ### Rule 7008. General Rules of Pleading ###
 
@@ -9716,11 +9736,27 @@ Certain statutes that are not codified in title 11 or title 28 of the United Sta
 
 *GAP Report on Rule 9035*. No changes to the published draft.
 
-### Rule 9036. Notice and Service Generally ###
+### Rule 9036. Notice and Service by Electronic Transmission ###
 
-Whenever these rules require or permit sending a notice or serving a paper by mail, the clerk, or some other person as the court or these rules may direct, may send the notice to—or serve the paper on—a registered user by filing it with the court's electronic-filing system. Or it may be sent to any person by other electronic means that the person consented to in writing. In either of these events, service or notice is complete upon filing or sending but is not effective if the filer or sender receives notice that it did not reach the person to be served. This rule does not apply to any pleading or other paper required to be served in accordance with Rule 7004.
+(a) In General. This rule applies whenever these rules require or permit sending a notice or serving a paper by mail or other means.
 
-(Added Apr. 22, 1993, eff. Aug. 1, 1993; amended Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(b) Notices From and Service by the Court.
+
+(1) *Registered Users*. The clerk may send notice to or serve a registered user by filing the notice or paper with the court's electronic-filing system.
+
+(2) *All Recipients*. For any recipient, the clerk may send notice or serve a paper by electronic means that the recipient consented to in writing, including by designating an electronic address for receipt of notices. But these exceptions apply:
+
+(A) if the recipient has registered an electronic address with the Administrative Office of the United States Courts' bankruptcy-noticing program, the clerk shall send the notice to or serve the paper at that address; and
+
+(B) if an entity has been designated by the Director of the Administrative Office of the United States Courts as a high-volume paper-notice recipient, the clerk may send the notice to or serve the paper electronically at an address designated by the Director, unless the entity has designated an address under §342(e) or (f) of the Code.
+
+(c) Notices From and Service by an Entity. An entity may send notice or serve a paper in the same manner that the clerk does under (b), excluding (b)(2)(A) and (B).
+
+(d) Completing Notice or Service. Electronic notice or service is complete upon filing or sending but is not effective if the filer or sender receives notice that it did not reach the person to be served. It is the recipient's responsibility to keep its electronic address current with the clerk.
+
+(e) Inapplicability. This rule does not apply to any paper required to be served in accordance with Rule 7004.
+
+(Added Apr. 22, 1993, eff. Aug. 1, 1993; amended Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 14, 2021, eff. Dec. 1, 2021.)
 
 #### Notes of Advisory Committee on Rules—1993 ####
 
@@ -9747,6 +9783,14 @@ The rule is amended to permit both notice and service by electronic means. The u
 The amended rule permits electronic notice or service on a registered user who has appeared in the case by filing with the court's electronic-filing system. A court may choose to allow registration only with the court's permission. But a party who registers will be subject to service by filing with the court's system unless the court provides otherwise. The rule does not make the court responsible for notifying a person who filed a paper with the court's electronic-filing system that an attempted transmission by the court's system failed. But a filer who receives notice that the transmission failed is responsible for making effective service.
 
 With the consent of the person served, electronic service also may be made by means that do not use the court's system. Consent can be limited to service at a prescribed address or in a specified form, and it may be limited by other conditions.
+
+#### Committee Notes on Rules—2021 Amendment ####
+
+The rule is amended to take account of the Administrative Office of the United States Courts' program for providing notice to high-volume paper-notice recipients. Under this program, when the Bankruptcy Noticing Center (BNC) has sent by mail more than a designated number of notices in a calendar month (initially set at 100) from bankruptcy courts to an entity, the Director of the Administrative Office will notify the entity that it is a high-volume paper-notice recipient. As such, this "threshold notice" will inform the entity that it must register an electronic address with the BNC. If, within a time specified in the threshold notice, a notified entity enrolls in Electronic Bankruptcy Noticing with the BNC, it will be sent notices electronically at the address maintained by the BNC upon a start date determined by the Director. If a notified entity does not timely enroll in Electronic Bankruptcy Noticing, it will be informed that court-generated notices will be sent to an electronic address designated by the Director. Any designation by the Director, however, is subject to the entity's right under §342(e) and (f) of the Code to designate an address at which it wishes to receive notices in chapter 7 and chapter 13 cases, including at its own electronic address that it registers with the BNC.
+
+The rule is also reorganized to separate methods of electronic noticing and service available to courts from those available to parties. Both courts and parties may serve or provide notice to registered users of the court's electronic-filing system by filing documents with that system. Both courts and parties also may serve and provide notice to any entity by electronic means consented to in writing by the recipient. Only courts may serve or give notice to an entity at an electronic address registered with the BNC as part of the Electronic Bankruptcy Noticing program.
+
+The title of the rule is revised to more accurately reflect the rule's applicability to methods of electronic noticing and service. Rule 9036 does not preclude noticing and service by physical means otherwise authorized by the court or these rules.
 
 ### Rule 9037. Privacy Protection For Filings Made with the Court ###
 

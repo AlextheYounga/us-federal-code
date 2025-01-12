@@ -42,6 +42,8 @@ The entities specified in this subsection are the following:
 
 (July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107 Stat. 2230; amended Pub. L. 106–310, div. A, title XXV, §2502(b), Oct. 17, 2000, 114 Stat. 1163; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 247b–7 of this title, referred to in subsec. (c)(1), relates to loan repayment program and not to assistance relating to tuberculosis.
@@ -57,6 +59,8 @@ The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of
 **2002**—Subsec. (c)(5). Pub. L. 107–251 substituted "254b(h)" for "256".
 
 **2000**—Subsec. (c)(1). Pub. L. 106–310 substituted "section 247b–7 of this title" for "section 247b–6 of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center ####
 

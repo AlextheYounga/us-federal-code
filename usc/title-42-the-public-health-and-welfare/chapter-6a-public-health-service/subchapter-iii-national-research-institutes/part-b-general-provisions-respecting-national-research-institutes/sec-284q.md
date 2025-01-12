@@ -82,6 +82,8 @@ The Secretary shall review the necessity of the Committee at least once every 2 
 
 (July 1, 1944, ch. 373, title IV, §409J, as added Pub. L. 111–148, title IV, §4305(b), Mar. 23, 2010, 124 Stat. 585; amended Pub. L. 115–271, title VII, §7042, Oct. 24, 2018, 132 Stat. 4016.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (b)(5)(A). Pub. L. 115–271, §7042(1)(A), substituted "treatment, and management of pain and diseases and disorders associated with pain, including information on best practices for the utilization of non-pharmacologic treatments, non-addictive medical products, and other drugs or devices approved or cleared by the Food and Drug Administration" for "and treatment of pain and diseases and disorders associated with pain".

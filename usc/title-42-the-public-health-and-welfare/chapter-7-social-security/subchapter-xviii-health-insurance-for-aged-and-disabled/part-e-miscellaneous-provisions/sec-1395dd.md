@@ -146,6 +146,8 @@ A participating hospital may not penalize or take adverse action against a quali
 
 Amendment of section by section 125(b)(2)(B) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023. See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal by Pub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
@@ -271,6 +273,8 @@ Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360
 **1986**—Subsec. (b)(2), (3). Pub. L. 99–509 struck out "legally responsible" after "individual (or a".
 
 Subsec. (e)(3). Pub. L. 99–514 struck out "and has, under the agreement, obligated itself to comply with the requirements of this section" after "section 1395cc of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 
@@ -463,6 +467,8 @@ If a hospital makes the election under subparagraph (C)(i), the hospital shall p
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians ####
 
 Pub. L. 101–508, title IV, §4008(c), Nov. 5, 1990, 104 Stat. 1388–44, directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13952. Protecting Vulnerable Newborn and Infant Children ####
 

@@ -64,6 +64,8 @@ There is authorized to be appropriated such sums as may be necessary for each of
 
 (July 1, 1944, ch. 373, title VII, §775, as added Pub. L. 111–148, title V, §5203, Mar. 23, 2010, 124 Stat. 607; amended Pub. L. 116–136, div. A, title III, §3401(13), Mar. 27, 2020, 134 Stat. 387.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The calendar year in which this section is enacted, referred to in subsec. (c)(1)(A)(ii), (B)(iii), probably means the calendar year in which Pub. L. 111–148 was enacted. Such Act was approved Mar. 23, 2010.

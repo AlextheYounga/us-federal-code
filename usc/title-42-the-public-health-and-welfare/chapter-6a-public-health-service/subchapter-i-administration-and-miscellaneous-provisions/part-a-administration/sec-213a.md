@@ -104,6 +104,10 @@ Subsec. (b). Pub. L. 112–144, §1129(b), inserted at end "For purposes of para
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Change of Name ####
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1997 Amendment ####
 
 Pub. L. 105–85, div. A, title VI, §653(c), Nov. 18, 1997, 111 Stat. 1804, provided that: "The amendments made by this section [amending this section and former section 857a of Title 33, Navigation and Navigable Waters] shall apply only to adoptions that are completed on or after the date of the enactment of this Act [Nov. 18, 1997]."
@@ -115,10 +119,6 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 #### Effective Date of 1963 Amendment ####
 
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as an Effective Date note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
-
-#### Transfer of Functions ####
-
-Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Rules and Regulations; Savings Deposit Benefits ####
 

@@ -20,6 +20,8 @@ Sec.
 
 4279. Receipt of funds; consideration by Congress.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Continuation and Termination of Commission To Perform Contracts for Research on Social and Economic Impacts of Gambling ####
 
 Pub. L. 104–328, §1, Oct. 19, 1996, 110 Stat. 4004, provided that the Advisory Commission on Intergovernmental Relations could continue in existence solely for the purpose of performing any contract entered into under section 7(a) of the National Gambling Impact Study Commission Act, Pub. L. 104–169, Aug. 3, 1996, 110 Stat. 1487, formerly set out in a note under section 1955 of Title 18, Crimes and Criminal Procedure, and would terminate on the date of the completion of such contract.

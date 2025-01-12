@@ -1,5 +1,7 @@
 ### §§1320c–14 to 1320c–19. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1320c–14 to 1320c–19 were omitted in the general revision of this part by Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382.

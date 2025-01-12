@@ -6,6 +6,8 @@ Section 2698a, Pub. L. 88–164, title V, §502, as added Pub. L. 90–170, §7,
 
 Section 2698b, Pub. L. 88–164, title V, §503, as added Pub. L. 90–170, §7, Dec. 4, 1967, 81 Stat. 531, related to appointment of an advisory committee and compensation of its members and appointees.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 91–230, title VI, §662, Apr. 13, 1970, 84 Stat. 188, provided that the repeal by that section is effective July 1, 1971.

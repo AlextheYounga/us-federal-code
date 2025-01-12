@@ -1,5 +1,7 @@
 ### SUBCHAPTER IX—DEFENSE HOUSING AND COMMUNITY FACILITIES AND SERVICES ###
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Revolving Fund ####
 
 Establishment of revolving fund under which to account for assets and liabilities in connection with community facilities or defense housing under sections 1592 to 1592o of this title, see section 1701g–5 of Title 12, Banks and Banking.

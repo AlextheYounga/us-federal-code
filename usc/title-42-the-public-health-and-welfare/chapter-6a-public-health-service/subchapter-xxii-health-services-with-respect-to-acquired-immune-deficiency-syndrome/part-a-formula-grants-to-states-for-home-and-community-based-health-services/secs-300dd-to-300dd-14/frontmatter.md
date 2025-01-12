@@ -30,6 +30,8 @@ Section 300dd–13, act July 1, 1944, ch. 373, title XXIV, §2414, as added Nov.
 
 Section 300dd–14, act July 1, 1944, ch. 373, title XXIV, §2415, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3088; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2618(g), 102 Stat. 4241, repealed this part effective with respect to appropriations made for any period after fiscal year 1990.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective with respect to appropriations made for any period after fiscal year 1990, see section 2415 of act July 1, 1944, which was classified to former section 300dd–14 of this title.

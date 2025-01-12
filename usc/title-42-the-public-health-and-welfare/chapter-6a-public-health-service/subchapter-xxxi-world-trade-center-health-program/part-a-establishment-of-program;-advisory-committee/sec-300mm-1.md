@@ -104,6 +104,8 @@ A vacancy in a Steering Committee shall be filled by an individual recommended b
 
 (July 1, 1944, ch. 373, title XXXIII, §3302, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3627.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (a)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

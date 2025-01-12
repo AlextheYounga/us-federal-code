@@ -40,6 +40,8 @@ For purposes of this section:
 
 (July 1, 1944, ch. 373, title II, §247, as added Pub. L. 106–505, title IV, §403, Nov. 13, 2000, 114 Stat. 2337.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Findings ####
 
 Pub. L. 106–505, title IV, §402, Nov. 13, 2000, 114 Stat. 2336, provided that: "Congress makes the following findings:

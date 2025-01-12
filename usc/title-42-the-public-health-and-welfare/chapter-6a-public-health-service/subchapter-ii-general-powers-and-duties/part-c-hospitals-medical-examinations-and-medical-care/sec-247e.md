@@ -22,6 +22,8 @@ The Secretary shall make payments to the Board of Health of the State of Hawaii 
 
 (July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; Pub. L. 86–624, §29(b), July 12, 1960, 74 Stat. 419; renumbered §339, Pub. L. 94–484, title IV, §407(b)(2), Oct. 12, 1976, 90 Stat. 2268; renumbered §320, and amended Pub. L. 95–626, title I, §105(a), Nov. 10, 1978, 92 Stat. 3560; Pub. L. 96–32, §7(b), July 10, 1979, 93 Stat. 84; Pub. L. 99–117, §2(a), Oct. 7, 1985, 99 Stat. 491; Pub. L. 105–78, title II, §211(h), Nov. 13, 1997, 111 Stat. 1494; Pub. L. 107–220, §1(a), Aug. 21, 2002, 116 Stat. 1332.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 211 of the Department of Health and Human Services Appropriations Act, 1998, referred to in subsec. (a)(3), is section 211 of Pub. L. 105–78, which enacted this section and provisions set out as notes below.
@@ -51,6 +53,8 @@ Subsec. (b). Pub. L. 99–117 amended subsec. (b) generally. Prior to amendment,
 **1952**—Act June 25, 1952, provided for payments to Hawaiian Board of Health for expenditures made by them in care and treatment of patients.
 
 **1948**—Act June 25, 1948, authorized payment of travel expenses of indigent leper patients.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

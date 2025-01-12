@@ -56,6 +56,8 @@ Nothing in this section shall be construed to require any State or any political
 
 (July 1, 1944, ch. 373, title III, §318, as added Pub. L. 92–449, title II, §203, Sept. 30, 1972, 86 Stat. 751; amended Pub. L. 94–317, title II, §203(b)–(i), June 23, 1976, 90 Stat. 704, 705; Pub. L. 94–484, title IX, §905(b)(2), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–626, title II, §204(b)(1), (c), (d), Nov. 10, 1978, 92 Stat. 3583; Pub. L. 96–32, §6(j), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §929, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §3, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 100–607, title III, §311, Nov. 4, 1988, 102 Stat. 3112; Pub. L. 103–183, title IV, §401, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 105–392, title IV, §401(b)(2), (c), Nov. 13, 1998, 112 Stat. 3587.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 247c, act July 1, 1944, ch. 373 title III, §318, as added Aug. 18, 1964, Pub. L. 88–443, §2, 78 Stat. 447, related to grants for assisting in the areawide planning of health and related facilities, prior to repeal by Pub. L. 89–749, §6, Nov. 3, 1966, 80 Stat. 1190 eff. July 1, 1967.
@@ -133,6 +135,8 @@ Subsec. (f). Pub. L. 94–317, §203(f)(6), (8), redesignated subsec. (g) as (f)
 Subsec. (g). Pub. L. 94–317, §203(f)(7), (8), redesignated subsec. (h) as (g) and struck out "treated or to have any child or ward of his" after "a program, to be". Former subsec. (g) redesignated (f).
 
 Subsec. (h). Pub. L. 94–317, §203(h), added subsec. (h). Former subsec. (h) redesignated (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

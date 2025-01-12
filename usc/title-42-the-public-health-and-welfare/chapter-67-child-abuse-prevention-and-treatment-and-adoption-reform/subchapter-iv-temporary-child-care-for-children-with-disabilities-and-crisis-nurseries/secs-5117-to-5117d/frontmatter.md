@@ -10,6 +10,8 @@ Section 5117c, Pub. L. 99–401, title II, §205, Aug. 27, 1986, 100 Stat. 908; 
 
 Section 5117d, Pub. L. 99–401, title II, §206, Aug. 27, 1986, 100 Stat. 909; Pub. L. 100–403, §1, Aug. 19, 1988, 102 Stat. 1013; Pub. L. 101–127, §5, Oct. 25, 1989, 103 Stat. 771; Pub. L. 102–295, title II, §203, May 28, 1992, 106 Stat. 200, related to authorization of appropriations for carrying out this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 99–401, title II, §207, Aug. 27, 1986, 100 Stat. 909, which provided that title II of Pub. L. 99–401 was effective Oct. 1, 1986, was repealed by Pub. L. 104–235, title I, §142(a), Oct. 3, 1996, 110 Stat. 3089.

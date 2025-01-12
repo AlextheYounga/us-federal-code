@@ -10,6 +10,8 @@ Section 1973cc–14, acts Aug. 9, 1955, ch. 656, title II, §204, 69 Stat. 586; 
 
 Section 1973cc–15, act Aug. 9, 1955, ch. 656, title II, §205, 69 Stat. 588, related to use of prior post card form for election of Members of Congress.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 1973ff of this title.

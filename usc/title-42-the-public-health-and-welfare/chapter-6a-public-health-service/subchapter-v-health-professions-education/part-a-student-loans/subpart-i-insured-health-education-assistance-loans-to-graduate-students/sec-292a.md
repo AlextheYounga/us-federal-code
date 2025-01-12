@@ -30,6 +30,8 @@ With respect to Federal regulations for lenders, this subpart may not be constru
 
 (July 1, 1944, ch. 373, title VII, §702, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.

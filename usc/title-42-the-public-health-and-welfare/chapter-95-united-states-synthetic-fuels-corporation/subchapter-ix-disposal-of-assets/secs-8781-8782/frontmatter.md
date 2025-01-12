@@ -1,5 +1,7 @@
 ### §§8781, 8782. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 8781 and 8782 were omitted from the Code in view of termination of United States Synthetic Fuels Corporation. See note set out under section 8791 of this title.

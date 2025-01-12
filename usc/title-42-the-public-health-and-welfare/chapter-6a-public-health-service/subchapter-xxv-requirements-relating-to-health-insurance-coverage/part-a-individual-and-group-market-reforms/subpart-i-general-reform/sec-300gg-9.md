@@ -28,6 +28,8 @@ An issuer is not required under this section to disclose any information that is
 
 (July 1, 1944, ch. 373, title XXVII, §2709, formerly §2713, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1966; renumbered §2733, renumbered §2709, and amended Pub. L. 111–148, title I, §§1001(3), 1563(c)(10), formerly §1562(c)(10), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 268, 911.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 300gg–13 of this title prior to renumbering by Pub. L. 111–148.
@@ -45,6 +47,8 @@ A prior section 2709 of act July 1, 1944, was successively renumbered by subsequ
 Subsec. (b)(1). Pub. L. 111–148, §1563(c)(10)(B)(i), formerly §1562(c)(10)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), in introductory provisions substituted "employer, or individual, as applicable," for "small employer", in subpar. (A), inserted "and" at end, struck out subpars. (B) and (C) which related to provisions of coverage relating to renewability of coverage and preexisting condition exclusions, respectively, in subpar. (D), inserted ", or individual, as applicable," after "employer", and redesignated subpar. (D) as (B).
 
 Subsec. (b)(2). Pub. L. 111–148, §1563(c)(10)(B)(ii), formerly §1562(c)(10)(B)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "employer, or individual, as applicable," for "small employer" and "employers, or individuals, as applicable," for "small employers" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

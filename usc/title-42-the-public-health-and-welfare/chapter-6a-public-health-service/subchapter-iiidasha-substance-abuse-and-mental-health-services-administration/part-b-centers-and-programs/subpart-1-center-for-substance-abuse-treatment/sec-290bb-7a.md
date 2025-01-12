@@ -154,11 +154,15 @@ There is authorized to be appropriated $10,000,000 to carry out this subsection 
 
 (Pub. L. 115–271, title VII, §7102, Oct. 24, 2018, 132 Stat. 4038.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 7102 of Pub. L. 115–271. Subsec. (a) of section 7102 of Pub. L. 115–271 amended section 290bb–7 of this title.
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

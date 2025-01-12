@@ -306,6 +306,8 @@ The Secretary, in consultation with the Secretariat for the Interstate Compact o
 
 (Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsec. (f)(2)(A)(ii), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart II of part B of title XIX of the Act is classified generally to subpart II (§300x–21 et seq.) of part B of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
@@ -427,6 +429,8 @@ Subsec. (c)(2). Pub. L. 109–288, §6(f)(5), substituted "section 623" for "sec
 Subsec. (e). Pub. L. 109–288, §4(b)(2)(B)(ii), substituted "subsection (a)" for "this section".
 
 Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

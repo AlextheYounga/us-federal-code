@@ -56,9 +56,13 @@ The term "financial record" has the meaning given such term in section 3401 of t
 
 (Aug. 14, 1935, ch. 531, title IV, §469A, as added Pub. L. 104–193, title III, §353, Aug. 22, 1996, 110 Stat. 2240; amended Pub. L. 105–200, title IV, §406(c), July 16, 1998, 112 Stat. 672.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Subsec. (a). Pub. L. 105–200 inserted ", or for disclosing any such record to the Federal Parent Locator Service pursuant to section 666(a)(17)(A) of this title" before period at end.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

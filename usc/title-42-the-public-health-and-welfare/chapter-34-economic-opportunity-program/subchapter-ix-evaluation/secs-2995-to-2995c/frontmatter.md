@@ -10,6 +10,8 @@ Section 2995c, Pub. L. 88–452, title IX, §904, as added Pub. L. 95–568, §1
 
 A prior section 2995c, Pub. L. 88–452, title IX, §904, as added Pub. L. 92–424, §27(a), Sept. 19, 1972, 86 Stat. 705, which provided for the publication of summaries of evaluations of the results of research, was omitted as superseded in the general reorganization and amendment of this subchapter by Pub. L. 93–644, §12, Jan. 4, 1975, 88 Stat. 2327.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

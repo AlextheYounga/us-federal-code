@@ -20,6 +20,8 @@ Section 7458, act July 14, 1955, ch. 360, title I, §158, as added Aug. 7, 1977,
 
 Section 7459, act July 14, 1955, ch. 360, title I, §159, as added Aug. 7, 1977, Pub. L. 95–95, title I, §126, 91 Stat. 730, related to authority of States to protect the stratosphere.
 
+#### **Editorial Notes** ####
+
 #### Similar Provisions ####
 
 For provisions relating to stratospheric ozone protection, see section 7671 et seq. of this title.

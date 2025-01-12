@@ -42,6 +42,8 @@ Each State to which a grant is made under this section—
 
 (Aug. 14, 1935, ch. 531, title IV, §469B, as added Pub. L. 104–193, title III, §391, Aug. 22, 1996, 110 Stat. 2258.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 For effective date of section, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.

@@ -10,6 +10,8 @@ In obligating amounts appropriated under subsection (a), the Secretary may not o
 
 (July 1, 1944, ch. 373, title VII, §770, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3556; amended Pub. L. 111–148, title X, §10501(m)(2), Mar. 23, 2010, 124 Stat. 1002; Pub. L. 116–136, div. A, title III, §3401(12), Mar. 27, 2020, 134 Stat. 387.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 295e, act July 1, 1944, ch. 373, title VII, §768, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–5, set forth definitions for former part D of this subchapter, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.

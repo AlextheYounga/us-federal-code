@@ -1,5 +1,7 @@
 ### Part A—General Provisions ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3563, added part A heading and struck out former part A heading "Special Projects".

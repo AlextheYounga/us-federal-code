@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—ACTIVITIES FOR HEALTH, INDEPENDENCE, AND LONGEVITY ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title IV of the Older Americans Act of 1965, comprising this subchapter, was originally enacted by Pub. L. 89–73, title IV, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 45, and amended by Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 717; Pub. L. 95–478, Oct. 18, 1978, 92 Stat. 1537; Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1601. Such title is shown herein, however, as having been added by Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2257, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 106–501.

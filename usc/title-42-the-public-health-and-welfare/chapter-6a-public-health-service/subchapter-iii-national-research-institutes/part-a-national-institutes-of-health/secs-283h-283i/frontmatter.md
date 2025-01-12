@@ -1,5 +1,7 @@
 ### §§283h, 283i. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 283h, act July 1, 1944, ch. 373, title IV, §404F, as added Pub. L. 107–280, §3, Nov. 6, 2002, 116 Stat. 1989; amended Pub. L. 109–482, title I, §§103(b)(5), 104(b)(1)(B), Jan. 15, 2007, 120 Stat. 3687, 3693, which related to the Office of Rare Diseases, was renumbered section 481 of act July 1, 1944, by Pub. L. 112–74, div. F, title II, §221(c)(2)(A)(i), Dec. 23, 2011, 125 Stat. 1089, and transferred to section 287a–1 of this title.

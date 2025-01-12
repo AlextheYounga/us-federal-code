@@ -20,6 +20,8 @@ Each appointed member of the Board shall hold office for a term of four years, e
 
 (July 1, 1944, ch. 373, title IV, §466, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 859; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XX, §2008(b)(11), June 10, 1993, 107 Stat. 211.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Subsec. (a)(1)(B). Pub. L. 103–43 substituted "Department of Veterans Affairs" for "Veterans' Administration".

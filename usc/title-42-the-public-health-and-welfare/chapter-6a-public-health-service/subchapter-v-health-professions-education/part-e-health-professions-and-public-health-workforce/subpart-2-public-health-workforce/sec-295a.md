@@ -28,6 +28,8 @@ With respect to a public health training center, an award may not be made under 
 
 (July 1, 1944, ch. 373, title VII, §766, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3554; amended Pub. L. 116–136, div. A, title III, §3401(11), Mar. 27, 2020, 134 Stat. 387.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 295a, act July 1, 1944, ch. 373, title VII, §782, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2057, authorized grants and contracts for chiropractic demonstration projects, prior to repeal by Pub. L. 105–392, title I, §106(a)(1), Nov. 13, 1998, 112 Stat. 3557.

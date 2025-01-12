@@ -34,6 +34,8 @@ Each school shall, immediately prior to the graduation from such school of a stu
 
 (July 1, 1944, ch. 373, title VII, §726, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2020.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 726 of act July 1, 1944, was classified to section 293f of this title prior to the general revision of this subchapter by Pub. L. 102–408.

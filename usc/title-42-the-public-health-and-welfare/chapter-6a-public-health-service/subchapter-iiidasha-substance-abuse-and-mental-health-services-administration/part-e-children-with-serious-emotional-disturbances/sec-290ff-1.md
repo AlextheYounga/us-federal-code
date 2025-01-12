@@ -132,6 +132,8 @@ The Secretary may waive one or more of the requirements of subsection (c) for a 
 
 (July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, §305(i)(4), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 114–255, div. B, title X, §10001(b), Dec. 13, 2016, 130 Stat. 1262.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -145,6 +147,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B
 **2004**—Subsec. (d)(3)(B). Pub. L. 108–446 substituted "and C" for "and H".
 
 **2000**—Subsec. (g). Pub. L. 106–310 added subsec. (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

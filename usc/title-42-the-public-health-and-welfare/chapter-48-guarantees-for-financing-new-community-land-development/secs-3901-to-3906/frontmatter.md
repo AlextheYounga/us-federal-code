@@ -12,6 +12,8 @@ Section 3905, Pub. L. 90–448, title IV, §406, Aug. 1, 1968, 82 Stat. 515, rel
 
 Section 3906, Pub. L. 90–448, title IV, §407, Aug. 1, 1968, 82 Stat. 515; Pub. L. 91–351, title VII, §703, July 24, 1970, 84 Stat. 462; Pub. L. 91–609, title III, §303(a), Dec. 31, 1970, 84 Stat. 1780, provided for a revolving guarantee fund. Section 4528 of this title transferred all receipts, funds, or other assets and all liabilities of the revolving fund established under this section to the revolving fund established under section 4518 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 90–448, title IV, §401, Aug. 1, 1968, 82 Stat. 513, which provided that this title, which enacted this chapter and amended section 1492 of this title and sections 371 and 1464 of Title 12, Banks and Banking, may be referred to as the "New Communities Act of 1968", was repealed by Pub. L. 98–181, title I [title IV, §474(e)], Nov. 30, 1983, 97 Stat. 1239.

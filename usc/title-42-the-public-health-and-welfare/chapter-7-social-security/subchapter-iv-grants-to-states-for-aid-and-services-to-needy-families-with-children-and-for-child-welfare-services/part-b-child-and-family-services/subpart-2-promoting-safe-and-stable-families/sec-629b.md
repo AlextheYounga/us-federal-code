@@ -94,6 +94,8 @@ Not later than September 30 of each year, the Secretary shall publish the compil
 
 (Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §50721(b)(2), Feb. 9, 2018, 132 Stat. 245.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this title prior to repeal by Pub. L. 100–485.
@@ -133,6 +135,8 @@ Subsec. (a)(5)(A). Pub. L. 105–89, §305(b)(1)(A)(ii), substituted ", communi
 Subsec. (a)(9). Pub. L. 105–89, §305(c)(1), added par. (9).
 
 Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted ", family support, time-limited family reunification, and adoption promotion and support" for "and family support".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

@@ -110,6 +110,8 @@ Notwithstanding any other provision of this chapter, nothing in this section sha
 
 (July 1, 1944, ch. 373, title XXVII, §2709, as added Pub. L. 111–148, title X, §10103(c), Mar. 23, 2010, 124 Stat. 892.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 2709 of act July 1, 1944, is classified to section 300gg–9 of this title.

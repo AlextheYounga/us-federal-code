@@ -104,11 +104,15 @@ In the case of any child who is placed in a qualified residential treatment prog
 
 (Aug. 14, 1935, ch. 531, title IV, §475A, as added and amended Pub. L. 113–183, title I, §§112(b)(1), 113(d), Sept. 29, 2014, 128 Stat. 1926, 1929; Pub. L. 115–123, div. E, title VII, §50742, Feb. 9, 2018, 132 Stat. 257.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (c). Pub. L. 115–123 added subsec. (c).
 
 **2014**—Subsec. (b). Pub. L. 113–183, §113(d), added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

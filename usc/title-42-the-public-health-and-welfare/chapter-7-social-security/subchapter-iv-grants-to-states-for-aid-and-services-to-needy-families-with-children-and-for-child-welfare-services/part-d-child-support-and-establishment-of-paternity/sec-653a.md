@@ -132,6 +132,8 @@ The Secretaries of Labor and of Veterans Affairs shall have access to informatio
 
 (Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, §802(a), (b), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 112–40, title II, §253(a), Oct. 21, 2011, 125 Stat. 422; Pub. L. 116–315, title IV, §4301, Jan. 5, 2021, 134 Stat. 5016.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), and (f)(2), is classified generally to Title 26, Internal Revenue Code.
@@ -149,6 +151,8 @@ Subsec. (c). Pub. L. 111–291, §802(b), inserted ", to the extent practicable
 **1997**—Subsec. (d). Pub. L. 105–33, §5533(1), substituted "shall not exceed" for "shall be less than" in introductory provisions and "$25 per failure to meet the requirements of this section with respect to a newly hired employee" for "$25" in par. (1).
 
 Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted "information" for "extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

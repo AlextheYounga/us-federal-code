@@ -64,6 +64,8 @@ In making awards of grants and contracts under subsection (a)(2), the Secretary 
 
 (July 1, 1944, ch. 373, title VIII, §811, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3566; amended Pub. L. 111–148, title V, §5308, Mar. 23, 2010, 124 Stat. 629; Pub. L. 116–136, div. A, title III, §3404(a)(5), Mar. 27, 2020, 134 Stat. 393.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 296j, act July 1, 1944, ch. 373, title VIII, §815, as added July 29, 1975, Pub. L. 94–63, title IX, §921, 89 Stat. 358; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2752, 95 Stat. 929, set forth provisions relating to authorization, terms and conditions, etc., respecting grants for operational costs or meeting accreditation requirements, prior to repeal by Pub. L. 99–92, §§9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.

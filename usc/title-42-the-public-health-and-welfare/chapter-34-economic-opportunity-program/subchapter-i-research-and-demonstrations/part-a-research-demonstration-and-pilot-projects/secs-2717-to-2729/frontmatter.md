@@ -26,6 +26,8 @@ Section 2728, Pub. L. 88–452, title I, §117, as added Pub. L. 90–222, title
 
 Section 2729, Pub. L. 88–452, title I, §118, as added Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 682, prohibited political discrimination and political activity.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883, provided that the repeal by that section is effective with respect to fiscal years after June 30, 1974.

@@ -25,6 +25,8 @@ Such former provisions are covered by various sections of Title 20, Education, a
 |     2493(c)(3)     |       1404        |
 |        2494        |       1454        |
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 91–230, title VI, §662, Apr. 13, 1970, 84 Stat. 188, provided that the repeal is effective July 1, 1971.

@@ -20,6 +20,8 @@ Section 300ll–8, act July 1, 1944, ch. 373, title XXXII, §3209, as added Pub.
 
 Section 300ll–9, act July 1, 1944, ch. 373, title XXXII, §3210, as added Pub. L. 111–148, title VIII, §8002(a)(1), Mar. 23, 2010, 124 Stat. 846, provided that the CLASS program would be treated for tax purposes as a qualified long-term care insurance contract for qualified long-term care services.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 111–148, title VIII, §8002(e), Mar. 23, 2010, 124 Stat. 847, which provided that the amendments made by section 8002(a), (b), and (d) (enacting this subchapter, amending section 1396a of this title, and amending provisions set out as a note under section 1396p of this title) were effective on Jan. 1, 2011, was repealed by Pub. L. 112–240, title VI, §642(b)(1), Jan. 2, 2013, 126 Stat. 2358.

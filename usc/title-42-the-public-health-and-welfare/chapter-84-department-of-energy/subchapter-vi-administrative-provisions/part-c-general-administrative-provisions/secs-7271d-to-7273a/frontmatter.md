@@ -1,5 +1,7 @@
 ### §§7271d to 7273a. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 7271d, Pub. L. 107–314, div. C, title XXXI, §3143, Dec. 2, 2002, 116 Stat. 2733, which related to requirements for specific funding requests for new or modified nuclear weapons, was renumbered section 4209 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(10), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2529 of Title 50, War and National Defense.

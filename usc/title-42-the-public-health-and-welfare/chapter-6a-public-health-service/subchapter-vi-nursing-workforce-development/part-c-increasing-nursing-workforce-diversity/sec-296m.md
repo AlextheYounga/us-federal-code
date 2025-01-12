@@ -26,6 +26,8 @@ A recipient described in paragraph (2) shall be ineligible for continued funding
 
 (July 1, 1944, ch. 373, title VIII, §821, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3568; amended Pub. L. 111–148, title V, §5404, Mar. 23, 2010, 124 Stat. 649.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 296m, act July 1, 1944, ch. 373, title VIII, §822, as added Pub. L. 94–63, title IX, §931(a), July 29, 1975, 89 Stat. 361; amended Pub. L. 95–83, title III, §307(o)(5)(A), Aug. 1, 1977, 91 Stat. 393; Pub. L. 96–76, title I, §107, Sept. 29, 1979, 93 Stat. 579; Pub. L. 97–35, title XXVII, §2755, Aug. 13, 1981, 95 Stat. 930; Pub. L. 99–92, §5, Aug. 16, 1985, 99 Stat. 394; Pub. L. 99–129, title II, §227(c), Oct. 22, 1985, 99 Stat. 548; Pub. L. 100–607, title VII, §703, Nov. 4, 1988, 102 Stat. 3157; Pub. L. 101–93, §5(q), Aug. 16, 1989, 103 Stat. 614; Pub. L. 101–597, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 102–408, title II, §204, Oct. 13, 1992, 106 Stat. 2072, authorized grants and contracts for nurse practitioner and nurse midwife programs, prior to repeal by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562.

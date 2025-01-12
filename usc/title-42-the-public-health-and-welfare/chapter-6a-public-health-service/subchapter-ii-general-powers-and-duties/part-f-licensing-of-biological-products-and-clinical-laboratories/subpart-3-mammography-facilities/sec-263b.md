@@ -678,6 +678,8 @@ There are authorized to be appropriated to carry out this section—
 
 (July 1, 1944, ch. 373, title III, §354, as added Pub. L. 102–539, §2, Oct. 27, 1992, 106 Stat. 3547; amended Pub. L. 105–248, §§2–13, Oct. 9, 1998, 112 Stat. 1864–1867; Pub. L. 108–365, §§2–4, Oct. 25, 2004, 118 Stat. 1738–1740.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 263b, act July 1, 1944, ch. 373, title III, §354, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat. 1173; amended Nov. 28, 1990, Pub. L. 101–629, §19(a)(1)(B), 104 Stat. 4529; Aug. 13, 1993, Pub. L. 103–80, §4(a)(2), 107 Stat. 779, set forth Congressional declaration of purpose, prior to repeal by Pub. L. 101–629, §19(a)(3), Nov. 28, 1990, 104 Stat. 4530.
@@ -753,6 +755,8 @@ Subsec. (q)(4)(B). Pub. L. 105–248, §13, substituted "certified" for "accredi
 Subsec. (r)(2)(A). Pub. L. 105–248, §2, substituted "subsection (p)" for "subsection (q)" and "2002" for "1997".
 
 Subsec. (r)(2)(B). Pub. L. 105–248, §2, substituted "fiscal years" for "fiscal year" and "2002" for "1997".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

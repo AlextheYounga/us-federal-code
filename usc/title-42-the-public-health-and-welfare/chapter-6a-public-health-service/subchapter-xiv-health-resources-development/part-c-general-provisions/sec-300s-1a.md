@@ -56,6 +56,8 @@ The right of recovery of the United States under subsection (a) shall not consti
 
 (July 1, 1944, ch. 373, title XVI, §1622, formerly §1631, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2269; amended Pub. L. 94–278, title XI, §1106(c), Apr. 22, 1976, 90 Stat. 416; renumbered §1622 and amended Pub. L. 96–79, title II, §§202(b), 203(c), Oct. 4, 1979, 93 Stat. 632, 635; Pub. L. 98–369, div. B. title III, §2381(b), July 18, 1984, 98 Stat. 1114.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 300s–1 of this title prior to the general revision of this subchapter by Pub. L. 96–79.
@@ -85,6 +87,8 @@ the United States shall be entitled to recover from either the transferor or the
 If the amount which the United States is entitled to recover under subsection (a) of this section exceeds 90 per centum of the total cost of the construction or modernization project for a facility, a waiver under this subsection shall only apply with respect to an amount which is not more than 90 per centum of such total cost."
 
 **1979**—Subsec. (a)(1)(A). Pub. L. 96–79, §203(c), substituted "section 300s–1 or 300t–12 of this title" for "section 300o–3 of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1979 Amendment ####
 

@@ -94,6 +94,8 @@ Amounts otherwise appropriated under this subchapter may be utilized by the Secr
 
 (July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, §313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, §502, Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5103(d)(3), Mar. 23, 2010, 124 Stat. 606; Pub. L. 116–136, div. A, title III, §3401(10), Mar. 27, 2020, 134 Stat. 386.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly set out as a note under section 295k of this title prior to renumbering by Pub. L. 105–392.
@@ -129,6 +131,8 @@ Subsec. (k). Pub. L. 105–392, §104(b)(2), substituted "2002" for "1995".
 Subsec. (l). Pub. L. 105–392, §104(b)(3), added subsec. (l).
 
 **1992**—Subsec. (a)(2). Pub. L. 102–531 substituted "voluntarily" for "voluntary".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

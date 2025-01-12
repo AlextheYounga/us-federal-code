@@ -256,6 +256,8 @@ For covered entities described in subparagraph (M) (other than a children's hosp
 
 (July 1, 1944, ch. 373, title III, §340B, as added Pub. L. 102–585, title VI, §602(a), Nov. 4, 1992, 106 Stat. 4967; amended Pub. L. 103–43, title XX, §2008(i)(1)(A), June 10, 1993, 107 Stat. 212; Pub. L. 111–148, title II, §2501(f)(1), title VII, §§7101(a)–(d), 7102, Mar. 23, 2010, 124 Stat. 309, 821–823; Pub. L. 111–152, title II, §2302, Mar. 30, 2010, 124 Stat. 1082; Pub. L. 111–309, title II, §204(a)(1), Dec. 15, 2010, 124 Stat. 3289.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (a)(1), (3), (4)(L)(i), (5)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -363,6 +365,8 @@ Subsec. (e). Pub. L. 111–309 substituted "covered entities described in subpar
 Pub. L. 111–152, §2302(4), added subsec. (e).
 
 **1993**—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–585, §602(a), which enacted this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

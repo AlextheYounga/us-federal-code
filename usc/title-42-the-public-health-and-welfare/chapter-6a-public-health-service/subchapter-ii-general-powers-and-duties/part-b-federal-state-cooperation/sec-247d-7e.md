@@ -424,6 +424,8 @@ Not later than 1 year after March 13, 2013, the Comptroller General of the Unite
 
 (July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -487,6 +489,8 @@ Subsec. (d)(2). Pub. L. 113–5, §402(c), amended par. (2) generally. Prior to 
 Subsec. (e)(1)(C). Pub. L. 113–5, §402(d), substituted "12 years" for "7 years".
 
 Subsec. (f). Pub. L. 113–5, §402(f), added subsec. (f).
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13887. Modernizing Influenza Vaccines in the United States to Promote National Security and Public Health ####
 

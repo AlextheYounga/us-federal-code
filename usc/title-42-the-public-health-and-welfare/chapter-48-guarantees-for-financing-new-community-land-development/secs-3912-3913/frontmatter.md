@@ -1,5 +1,7 @@
 ### §§3912, 3913. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted pursuant to section 4528 of this title, which terminated authority to guarantee bonds, debentures, notes, or other obligations under this chapter after Dec. 31, 1970, with exceptions now inapplicable.

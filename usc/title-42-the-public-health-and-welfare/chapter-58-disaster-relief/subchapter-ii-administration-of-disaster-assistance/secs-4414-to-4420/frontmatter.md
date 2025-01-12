@@ -14,6 +14,8 @@ Section 4419, Pub. L. 91–606, title II, §209, Dec. 31, 1970, 84 Stat. 1750, r
 
 Section 4420, Pub. L. 91–606, title II, §210, Dec. 31, 1970, 84 Stat. 1750, related to disaster warnings.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, formerly set out as an Effective Date note under section 5121 of this title.

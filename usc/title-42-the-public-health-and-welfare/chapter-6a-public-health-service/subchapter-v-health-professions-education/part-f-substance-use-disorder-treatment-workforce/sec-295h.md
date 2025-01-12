@@ -100,6 +100,8 @@ There are authorized to be appropriated to carry out this section $25,000,000 fo
 
 (July 1, 1944, ch. 373, title VII, §781, as added Pub. L. 115–271, title VII, §7071(2), Oct. 24, 2018, 132 Stat. 4028.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Higher Education Act of 1965, referred to in subsec. (c)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part E of title IV of the Act, which relates to Federal Perkins Loans, is classified to part E (§1087aa et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.

@@ -1,5 +1,9 @@
 ### Subpart II—Improving Coverage ###
 
+#### **Editorial Notes** ####
+
+#### Prior Provisions ####
+
 A prior subpart 2, consisting of sections 300gg–4 to 300gg–7, related to other requirements, prior to repeal of the subpart designation and heading and transfer of sections 300gg–4 to 300gg–7 to 300gg–25 to 300gg–28, respectively, of this title by Pub. L. 111–148, title I, §§1001(2), 1563(c)(2), formerly §1562(c)(2), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911.
 
 Another prior subpart 2, consisting of sections 300gg–11 to 300gg–13, related to provisions applicable only to health insurance issuers, was redesignated subpart 3 of this part by Pub. L. 104–204, title VI, §604(a)(2), Sept. 26, 1996, 110 Stat. 2939.

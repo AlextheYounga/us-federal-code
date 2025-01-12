@@ -1,5 +1,7 @@
 ### §§1500c–1 to 1500e. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1500c–1 to 1500d–1 were omitted pursuant to section 5316 of this title which terminated the authority to make grants or loans under this chapter after Jan. 1, 1975.
@@ -15,6 +17,8 @@ Section 1500d, Pub. L. 87–70, title VII, §708, formerly §705, June 30, 1961,
 Section 1500d–1, Pub. L. 87–70, title VII, §709, as added Pub. L. 89–754, title VI, §605(g), Nov. 3, 1966, 80 Stat. 1280; amended Pub. L. 91–609, title IV, §401, Dec. 31, 1970, 84 Stat. 1783, defined the terms "open-space land", "urban area", "State", "local public body", and "open-space uses" for purposes of this chapter.
 
 Section 1500e, Pub. L. 87–70, title VII, §710, formerly §706, June 30, 1961, 75 Stat. 185; renumbered §709 and amended Pub. L. 89–117, title IX, §§902(c), 906, Aug. 10, 1965, 79 Stat. 495; renumbered §710, Pub. L. 89–754, title VI, §605(g), Nov. 3, 1966, 80 Stat. 1280; amended Pub. L. 90–19, §18(c), May 25, 1967, 81 Stat. 25, which defined "open-space land", "urban area", "State", and "open space uses", was omitted in the general amendment of this chapter by Pub. L. 91–609, title IV, §401, Dec. 31, 1970, 84 Stat. 1781.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Criteria for Grants for Historic Preservation ####
 

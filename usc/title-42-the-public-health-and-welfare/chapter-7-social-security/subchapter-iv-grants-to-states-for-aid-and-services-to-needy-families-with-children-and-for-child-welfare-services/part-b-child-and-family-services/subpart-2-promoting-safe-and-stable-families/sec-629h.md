@@ -24,149 +24,53 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 (2) to implement improvements the highest state <sup><a href="#629h_3_target" name="629h_3">3</a></sup> courts deem necessary as a result of the assessments, including—
 
-(A) to provide for the safety, well-being, and permanence of children in foster care, as set forth in the Adoption and Safe Families Act of 1997 (Public Law 105–89), including the requirements in the Act related to concurrent planning;
+(A) to provide for the safety, well-being, and permanence of children in foster care in a timely and complete manner, as set forth in the Adoption and Safe Families Act of 1997 (Public Law 105–89), including the requirements in the Act related to concurrent planning;
 
 (B) to implement a corrective action plan, as necessary, resulting from reviews of child and family service programs under section 1320a–2a of this title; and
 
-(C) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption;
-
-(3) to ensure that the safety, permanence, and well-being needs of children are met in a timely and complete manner; and
-
-(4)(A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
-
-(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.
+(C) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption, including by training judges, attorneys, and other legal personnel.
 
 #### (b) Applications ####
 
-#### (1) In general ####
-
 In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
 
-(A) in the case of a grant for the purpose described in subsection (a)(3), a description of how courts and child welfare agencies on the local and State levels will collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
+(1) a description of how courts and child welfare agencies on the local and State levels will use not less than 30 percent of grant funds to collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
 
-(B) in the case of a grant for the purpose described in subsection (a)(4), a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under section 629d of this title, or the State plan approved under part E; and
+(2) a demonstration that a portion of the grant will be used for cross-training initiatives that are jointly planned and executed with the State agency or any other agency under contract with the State to administer the State program under the State plan under subpart 1, the State plan approved under section 629d of this title, or the State plan approved under part E; and
 
-(C) in the case of a grant for any purpose described in subsection (a), a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contract with the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
-
-#### (2) Single grant application ####
-
-Pursuant to the requirements under paragraph (1) of this subsection, a highest State court desiring a grant under this section shall submit a single application to the Secretary that specifies whether the application is for a grant for—
-
-(A) the purposes described in paragraphs (1) and (2) of subsection (a);
-
-(B) the purpose described in subsection (a)(3);
-
-(C) the purpose described in subsection (a)(4); or
-
-(D) the purposes referred to in 2 or more (specifically identified) of subparagraphs (A), (B), and (C) of this paragraph.
+(3) a demonstration of meaningful and ongoing collaboration among the courts in the State, the State agency or any other agency under contract with the State who is responsible for administering the State program under this part or part E, and, where applicable, Indian tribes.
 
 #### (c) Amount of grant ####
 
 #### (1) In general ####
 
-With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2017 through 2022, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
+From the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for a fiscal year, each highest State court that has an application approved under this section for the fiscal year shall be entitled to payment of an amount equal to the sum of—
+
+(A) $255,000; and
+
+(B) the amount described in paragraph (2) with respect to the court and the fiscal year.
 
 #### (2) Amount described ####
 
-The amount described in this paragraph for any fiscal year with respect to the purpose or purposes referred to in a subparagraph of subsection (b)(2) is the amount that bears the same ratio to the total of the amounts allocated under paragraph (3) of this subsection for grants for the purpose or purposes as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under this section for grants for the purpose or purposes.
+The amount described in this paragraph with respect to a court and a fiscal year is the amount that bears the same ratio to the total of the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for grants under this section for the fiscal year (after applying paragraphs (1)(A) and (3) of this subsection) as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States with a highest State court that has an approved application under this section for the fiscal year.
 
-#### (3) Allocation of funds ####
+#### (3) Indian tribes ####
 
-#### (A) Mandatory funds ####
+From the amounts reserved under section 629f(b)(2) of this title for a fiscal year, the Secretary shall, before applying paragraph (1) of this subsection, allocate $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—
 
-Of the amounts reserved under section 629f(b)(2) of this title for any fiscal year, the Secretary shall allocate—
+(A) are operating a program under part E, in accordance with section 679c of this title;
 
-(i) $9,000,000 for grants for the purposes described in paragraphs (1) and (2) of subsection (a);
+(B) are seeking to operate a program under part E and have received an implementation grant under section 676 of this title; or
 
-(ii) $10,000,000 for grants for the purpose described in subsection (a)(3);
-
-(iii) $10,000,000 for grants for the purpose described in subsection (a)(4); and
-
-(iv) $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—
-
-(I) are operating a program under part E, in accordance with section 679c of this title;
-
-(II) are seeking to operate a program under part E and have received an implementation grant under section 676 of this title; or
-
-(III) has <sup><a href="#629h_4_target" name="629h_4">4</a></sup> a court responsible for proceedings related to foster care or adoption.
-
-#### (B) Discretionary funds ####
-
-The Secretary shall allocate all of the amounts reserved under section 629g(b)(2) of this title for grants for the purposes described in paragraphs (1) and (2) of subsection (a).
+(C) have a court responsible for proceedings related to foster care or adoption.
 
 #### (d) Federal share ####
 
-Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2017 through 2021.
+Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2022.
 
 (Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994.)
 
-#### Amendment of Section ####
-
-Pub. L. 116–260, div. CC, title III, §305(b), (c), Dec. 27, 2020, 134 Stat. 2994, 2995, provided that, effective Oct. 1, 2021, this section is amended as follows:
-
-(1) in subsection (a)—
-
-(A) in paragraph (2)—
-
-(i) in subparagraph (A), by inserting "in a timely and complete manner" before ", as set forth";
-
-(ii) in subparagraph (C), by striking the semicolon and inserting ", including by training judges, attorneys, and other legal personnel."; and
-
-(B) by striking paragraphs (3) and (4);
-
-(2) in subsection (b)—
-
-(A) by striking paragraph (2);
-
-(B) by striking all that precedes "be eligible to receive" and inserting the following:
-
-#### *(b) Applications* ####
-
-*In order to; and*
-
-(C) in the matter preceding paragraph (2)—
-
-(i) by moving the matter 2 ems to the left;
-
-(ii) in subparagraph (A)—
-
-(I) by striking "(A) in the case of a grant for the purpose described in subsection (a)(3)," and inserting "(1)"; and
-
- (II) by inserting "use not less than 30 percent of grant funds to" before "collaborate";
-
-(iii) in subparagraph (B), by striking "(B) in the case of a grant for the purpose described in subsection (a)(4)," and inserting "(2)"; and
-
-(iv) in subparagraph (C), by striking "(C) in the case of a grant for the purpose described in subsection (a)," and inserting "(3)";
-
-(3) by striking subsection (c) and inserting the following:
-
-#### *(c) Amount of grant* ####
-
-#### *(1) In general* ####
-
-*From the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for a fiscal year, each highest State court that has an application approved under this section for the fiscal year shall be entitled to payment of an amount equal to the sum of—*
-
-*(A) $255,000; and*
-
-*(B) the amount described in paragraph (2) with respect to the court and the fiscal year.*
-
-#### *(2) Amount described* ####
-
-*The amount described in this paragraph with respect to a court and a fiscal year is the amount that bears the same ratio to the total of the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for grants under this section for the fiscal year (after applying paragraphs (1)(A) and (3) of this subsection) as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States with a highest State court that has an approved application under this section for the fiscal year.*
-
-#### *(3) Indian tribes* ####
-
-*From the amounts reserved under section 629f(b)(2) of this title for a fiscal year, the Secretary shall, before applying paragraph (1) of this subsection, allocate $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—*
-
-*(A) are operating a program under part E, in accordance with section 679c of this title;*
-
-*(B) are seeking to operate a program under part E and have received an implementation grant under section 676 of this title; or*
-
-*(C) have a court responsible for proceedings related to foster care or adoption.*
-
-(4) in subsection (d), by striking "2017 through 2021" and inserting "2018 through 2022".
-
-See 2020 Amendment notes below.
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
@@ -192,9 +96,9 @@ Subsec. (a)(3), (4). Pub. L. 116–260, §305(b)(1)(B), struck out pars. (3) and
 
 "(4)(A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
 
-(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.".
+"(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption."
 
-Subsec. (b). Pub. L. 116–260, §305(b)(2), designated par. (1) as text of section and struck out par. (1) heading "In general", redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and realigned margins, in par. (1), struck out "in the case of a grant for the purpose described in subsection (a)(3)," before "a description" and, inserted "use not less than 30 percent of grant funds to" before "collaborate", in par. (2), struck out "in the case of a grant for the purpose described in subsection (a)(4)," before "a demonstration", in par. (3), struck out "in the case of a grant for any purpose described in subsection (a)," before "a demonstration", and struck out former par. (2) which related to single grant application.
+Subsec. (b). Pub. L. 116–260, §305(b)(2), designated par. (1) as text of section and struck out par. (1) heading "In general", redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and realigned margins, in par. (1), struck out "in the case of a grant for the purpose described in subsection (a)(3)," before "a description" and inserted "use not less than 30 percent of grant funds to" before "collaborate", in par. (2), struck out "in the case of a grant for the purpose described in subsection (a)(4)," before "a demonstration", in par. (3), struck out "in the case of a grant for any purpose described in subsection (a)," before "a demonstration", and struck out former par. (2) which related to single grant application.
 
 Subsec. (c). Pub. L. 116–260, §305(b)(3), added subsec. (c) and struck out former subsec. (c) which related to amount of grant and allocation of mandatory and discretionary funds.
 
@@ -281,6 +185,8 @@ Subsec. (d). Pub. L. 107–133, §107(c), in heading substituted "Federal share"
 **1997**—Subsec. (c)(1). Pub. L. 105–89, §305(a)(3)(A), substituted "2001" for "1998" in introductory provisions and par. (B).
 
 Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted "1998, 1999, 2000, and 2001" for "and 1998".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 
@@ -375,5 +281,3 @@ Pub. L. 116–260, div. X, §2, Dec. 27, 2020, 134 Stat. 2409, provided that: "I
 [<sup>2</sup> So in original. The word "and" probably should not appear.](#629h_2)
 
 [<sup>3</sup> So in original. Probably should be capitalized.](#629h_3)
-
-[<sup>4</sup> So in original. Probably should be "have".](#629h_4)

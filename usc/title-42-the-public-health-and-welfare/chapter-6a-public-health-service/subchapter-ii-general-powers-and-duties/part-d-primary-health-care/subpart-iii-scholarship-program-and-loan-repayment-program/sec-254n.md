@@ -50,6 +50,8 @@ The Secretary shall, upon request, provide to each individual released from serv
 
 (July 1, 1944, ch. 373, title III, §338D, formerly title VII, §753, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2285; amended Pub. L. 96–538, title IV, §403, Dec. 17, 1980, 94 Stat. 3192; renumbered §338C and amended Pub. L. 97–35, title XXVII, §2709(a), (d), Aug. 13, 1981, 95 Stat. 908, 910; renumbered §338D and amended Pub. L. 100–177, title II, §201(2), title III, §307, Dec. 1, 1987, 101 Stat. 992, 1005; Pub. L. 101–597, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 107–251, title III, §312, Oct. 26, 2002, 116 Stat. 1650.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 234 of this title, referred to in subsec. (a), was repealed by Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
@@ -83,6 +85,8 @@ Subsec. (b)(1)(B). Pub. L. 97–35, §2709(d)(2), inserted "(i)" before "shall n
 Subsecs. (c) to (g). Pub. L. 97–35, §2709(d)(3), added subsecs. (c) to (g).
 
 **1980**—Subsec. (a). Pub. L. 96–538 substituted in par. (2) "which has" for "which (A) has" and struck out subpar. (B) which referred to a health manpower shortage area which has a sufficient financial base to substain private practice and provide the individual with income of not less than the income of members of the Corps, and struck out provision following par. (2) which provided that in the case of an individual described in par. (1), the Secretary release the individual from his service obligation under this subsection only if the Secretary determines that the area in which the individual is serving met the requirements of cl. (B) of par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

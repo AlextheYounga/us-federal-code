@@ -44,6 +44,8 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 (July 1, 1944, ch. 373, title III, §377, as added Pub. L. 101–616, title II, §206(a), Nov. 16, 1990, 104 Stat. 3285; amended Pub. L. 108–216, §3, Apr. 5, 2004, 118 Stat. 584.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–216 amended section catchline and text generally, substituting provisions relating to reimbursement of travel and subsistence expenses incurred toward living organ donation for provisions requiring the Comptroller General to study and report on organ procurement and allocation.

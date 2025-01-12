@@ -414,6 +414,8 @@ The term "screening" means using validated patient interview techniques to ident
 
 (July 1, 1944, ch. 373, title V, §519B, as added Pub. L. 106–310, div. B, title XXXI, §3109, Oct. 17, 2000, 114 Stat. 1182; amended Pub. L. 109–422, §2, Dec. 20, 2006, 120 Stat. 2890; Pub. L. 114–255, div. B, title VI, §6001(c), title IX, §9016, Dec. 13, 2016, 130 Stat. 1203, 1246.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Drug-Free Communities Act of 1997, referred to in subsec. (e)(1)(G), is Pub. L. 105–20, June 27, 1997, 111 Stat. 224, which is classified principally to subchapter II (§1521 et seq.) of chapter 20 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1501 of Title 21 and Tables.

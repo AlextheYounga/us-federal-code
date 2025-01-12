@@ -10,6 +10,8 @@ Section 1594h–3, Pub. L. 96–418, title V, §505, Oct. 10, 1980, 94 Stat. 176
 
 Section 1594i, Pub. L. 85–241, title IV, §406(a) Aug. 30, 1957, 71 Stat. 556; Pub. L. 85–685, title V, §512, Aug. 20, 1958, 72 Stat. 662; Pub. L. 86–149, title IV, §408, Aug. 10, 1959, 73 Stat. 321; Pub. L. 86–500, title V, §507(b), June 8, 1960, 74 Stat. 185; Pub. L. 87–70, title VI, §611(b), June 30, 1961, 75 Stat. 180; Pub. L. 88–174, title V, §510, Nov. 7, 1963, 77 Stat. 327, related to authorization of number of family housing units. See section 2822 of Title 10.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.

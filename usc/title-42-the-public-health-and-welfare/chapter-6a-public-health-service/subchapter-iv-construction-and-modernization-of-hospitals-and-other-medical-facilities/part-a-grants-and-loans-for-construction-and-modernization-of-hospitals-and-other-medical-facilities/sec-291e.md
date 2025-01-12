@@ -34,6 +34,8 @@ Notwithstanding any other provision of this subchapter, no application for an ou
 
 (July 1, 1944, ch. 373, title VI, §605, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 453; amended Pub. L. 91–296, title I, §§111(a), 116(e), June 30, 1970, 84 Stat. 340, 342; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(5), is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -56,17 +58,17 @@ A prior section 291v(d), act July 1, 1944, ch. 373, title VI, §654, as added Ju
 
 Subsec. (e). Pub. L. 91–296, §116(e), substituted "an outpatient facility" for "a diagnostic or treatment center" and inserted provisions extending coverage to include corporations and associations which, although not owning or operating hospitals offer services of a general hospital to patients in need of hospital care.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Change of Name ####
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1970 Amendment ####
 
 Pub. L. 91–296, title I, §111(a), June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
 Pub. L. 91–296, title I, §116(e), June 30, 1970, 84 Stat. 342, applicable with respect to applications approved under this subchapter after June 30, 1970, see section 116(g) of Pub. L. 91–296, set out as a note under section 291o of this title.
-
-#### Transfer of Functions ####
-
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Applications Approved Prior to Aug. 18, 1964 ####
 
@@ -75,3 +77,9 @@ Pub. L. 88–443, §3(b)(1), Aug. 18, 1964, 78 Stat. 462, providing that applica
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval ####
 
 Pub. L. 88–443, §3(b)(5), Aug. 18, 1964, 78 Stat. 462, provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note set out under section 291 of this title.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.

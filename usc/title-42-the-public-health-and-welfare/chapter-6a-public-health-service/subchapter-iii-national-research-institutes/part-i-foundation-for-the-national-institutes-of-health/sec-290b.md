@@ -282,6 +282,8 @@ From amounts appropriated to the National Institutes of Health, for each fiscal 
 
 (July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(d)(4), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 112–144, title V, §509(f), July 9, 2012, 126 Stat. 1050.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -437,6 +439,8 @@ Subsec. (n). Pub. L. 103–43, §1701(8), added subsec. (n).
 **1991**—Subsec. (c)(1)(C). Pub. L. 102–170, §216(1), substituted "11" for "9".
 
 Subsec. (c)(1)(C)(iii). Pub. L. 102–170, §216(2), substituted "5" for "3".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

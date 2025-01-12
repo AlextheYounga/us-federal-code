@@ -40,6 +40,8 @@ No government shall impose or implement a land use regulation that—
 
 (Pub. L. 106–274, §2, Sept. 22, 2000, 114 Stat. 803.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 106–274, §1, Sept. 22, 2000, 114 Stat. 803, provided that: "This Act [enacting this chapter and amending sections 1988, 2000bb–2 and 2000bb–3 of this title] may be cited as the 'Religious Land Use and Institutionalized Persons Act of 2000' ".

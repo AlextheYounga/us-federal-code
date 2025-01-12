@@ -20,6 +20,8 @@ In awarding grants under the program described in subsection (a), the Director o
 
 (July 1, 1944, ch. 373, title IV, §404L, formerly Pub. L. 106–505, title III, §305, Nov. 13, 2000, 114 Stat. 2335; renumbered July 1, 1944, ch. 373, title IV, §404L, and amended Pub. L. 112–74, div. F, title II, §221(b)(4), Dec. 23, 2011, 125 Stat. 1088.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly set out as a note under section 287 of this title, prior to renumbering by Pub. L. 112–74.

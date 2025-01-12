@@ -92,6 +92,8 @@ The Comptroller General of the United States, or any of the duly authorized repr
 
 (Sept. 1, 1937, ch. 896, title III, §305, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4155; amended Pub. L. 105–276, title V, §519(c)(2), Oct. 21, 1998, 112 Stat. 2561.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (g)(4), was in the original "this subtitle", and was translated as reading "this title", meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
@@ -103,6 +105,8 @@ Section 1437aaa–2(b)(9) of this title, referred to in subsec. (i), was redesig
 #### Amendments ####
 
 **1998**—Subsec. (e). Pub. L. 105–276 substituted "Amounts from an allocation from the Operating Fund" for "Operating subsidies".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

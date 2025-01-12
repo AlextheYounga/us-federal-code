@@ -4,6 +4,8 @@ For the purpose of facilitating the economical and efficient conduct of operatio
 
 (Pub. L. 86–703, title II, §201, Sept. 2, 1960, 74 Stat. 765; Pub. L. 91–515, title II, §282, Oct. 30, 1970, 84 Stat. 1308.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Public Health Service Act which comprises this chapter.

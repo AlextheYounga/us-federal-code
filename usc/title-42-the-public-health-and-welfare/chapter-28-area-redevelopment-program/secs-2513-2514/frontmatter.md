@@ -4,6 +4,8 @@ Section 2513, Pub. L. 87–27, §16, May 1, 1961, 75 Stat. 58, related to occupa
 
 Section 2514, Pub. L. 87–27, §17, May 1, 1961, 75 Stat. 59, related to retraining subsistence payments: duration, amount of weekly payment; alternative unemployment compensation benefits; administration, finality of determinations; rules and regulations; and appropriation.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1965, see section 9(c) of Pub. L. 89–15, Apr. 26, 1965, 79 Stat. 79.

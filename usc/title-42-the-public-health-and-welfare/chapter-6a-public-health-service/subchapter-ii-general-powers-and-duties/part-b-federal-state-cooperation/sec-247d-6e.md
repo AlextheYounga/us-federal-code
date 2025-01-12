@@ -102,6 +102,8 @@ The term "eligible individual" means an individual who is determined, in accorda
 
 (July 1, 1944, ch. 373, title III, §319F–4, as added Pub. L. 109–148, div. C, §3, Dec. 30, 2005, 119 Stat. 2829.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 H. Con. Res. 95 of the 109th Congress, referred to in subsec. (a), is H. Con. Res. 95, Apr. 28, 2005, 119 Stat. 3633, which is not classified to the Code.

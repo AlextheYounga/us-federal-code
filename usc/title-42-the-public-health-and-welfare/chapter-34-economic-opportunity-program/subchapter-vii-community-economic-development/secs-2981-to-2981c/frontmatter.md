@@ -10,6 +10,8 @@ Section 2981b, Pub. L. 88–452, title VII, §703, as added Pub. L. 93–644, §
 
 Section 2981c, Pub. L. 88–452, title VII, §704, as added Pub. L. 95–568, §14(b), Nov. 2, 1978, 92 Stat. 2436, related to establishment, etc., of advisory community investment boards, and the National Board.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

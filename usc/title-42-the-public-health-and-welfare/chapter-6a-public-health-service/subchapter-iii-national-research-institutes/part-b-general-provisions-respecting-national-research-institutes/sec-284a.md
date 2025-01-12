@@ -88,6 +88,8 @@ Each advisory council may prepare, for inclusion in the biennial report made und
 
 (July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amended Pub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 115–180, title I, §111, June 5, 2018, 132 Stat. 1386.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 284b of this title, referred to in subsec. (g), was repealed by Pub. L. 109–482, title I, §104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
@@ -115,6 +117,8 @@ Subsec. (h)(2)(A)(v). Pub. L. 103–43, §2008(b)(1)(B), substituted "Department
 Subsec. (b)(3)(A). Pub. L. 100–607, §117(b), inserted "not less than two individuals who are leaders in the fields of" after "(including".
 
 Subsec. (h)(2)(A)(v). Pub. L. 100–607, §117(c), inserted "shall be nonvoting members and" after "Board" and substituted "the Assistant Secretary of Defense for Health Affairs, and the Director of the Office of Energy Research of the Department of Energy" for "and the Assistant Secretary of Defense for Health Affairs".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Councils ####
 

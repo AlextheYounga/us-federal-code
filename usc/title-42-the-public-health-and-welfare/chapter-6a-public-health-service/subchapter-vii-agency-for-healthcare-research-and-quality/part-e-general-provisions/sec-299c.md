@@ -98,6 +98,8 @@ Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Advisor
 
 (July 1, 1944, ch. 373, title IX, §941, formerly §921, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1663; amended Pub. L. 108–173, title IX, §900(e)(2)(D), Dec. 8, 2003, 117 Stat. 2372; renumbered §931, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §941, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (j), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5.

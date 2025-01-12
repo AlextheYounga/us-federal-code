@@ -74,6 +74,8 @@ For the first fiscal year beginning after the date on which the Plan first estab
 
 (July 1, 1944, ch. 373, title XXIII, §2353, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 194.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 300cc–40b of this title.

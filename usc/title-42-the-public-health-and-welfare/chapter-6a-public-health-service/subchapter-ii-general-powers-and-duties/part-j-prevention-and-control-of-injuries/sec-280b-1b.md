@@ -52,6 +52,8 @@ A State may not use more than 5 percent of the amount received by the State unde
 
 (July 1, 1944, ch. 373, title III, §393A, formerly §393B, as added Pub. L. 106–386, div. B, title IV, §1401(a), Oct. 28, 2000, 114 Stat. 1512; amended Pub. L. 109–162, title III, §302, Jan. 5, 2006, 119 Stat. 3004; renumbered §393C, Pub. L. 110–202, §2(1), Apr. 23, 2008, 122 Stat. 697; renumbered §393A, Pub. L. 110–206, §2(1), Apr. 28, 2008, 122 Stat. 714; Pub. L. 113–4, title III, §301, Mar. 7, 2013, 127 Stat. 84.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 280b–1c of this title. Pub. L. 110–206, which directed the renumbering of "the section 393B (42 U.S.C. 280b–1c)" of act July 1, 1944, "relating to the use of allotments for rape prevention education" as section 393A and the transfer of that section so as to appear after section 393 of that Act, was executed by renumbering section 393C of that Act as 393A and transferring the renumbered provisions to this section, to reflect the probable intent of Congress and the renumbering of section 393B as 393C by section 2(1) of Pub. L. 110–202.
@@ -71,6 +73,8 @@ Subsec. (c)(1). Pub. L. 113–4, §301(2)(A), substituted "$50,000,000 for each 
 Subsec. (c)(3). Pub. L. 113–4, §301(2)(B), added par. (3).
 
 **2006**—Subsec. (c). Pub. L. 109–162 reenacted heading without change and amended text generally. Prior to amendment, text contained provisions in par. (1) authorizing appropriations for fiscal years 2001 through 2005 and in par. (2) directing an allotment under subsec. (b) of this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

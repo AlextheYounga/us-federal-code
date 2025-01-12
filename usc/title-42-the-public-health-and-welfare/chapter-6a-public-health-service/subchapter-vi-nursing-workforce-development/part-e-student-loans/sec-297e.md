@@ -20,6 +20,8 @@ If a capital distribution is made under subsection (a), the school involved shal
 
 (July 1, 1944, ch. 373, title VIII, §839, formerly §826, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 916; amended Pub. L. 89–751, §6(d), Nov. 3, 1966, 80 Stat. 1235; Pub. L. 90–490, title II, §222(f), Aug. 16, 1968, 82 Stat. 785; Pub. L. 92–52, §3(b), July 9, 1971, 85 Stat. 145; Pub. L. 92–158, §6(d)(1), Nov. 18, 1971, 85 Stat. 478; renumbered §839 and amended Pub. L. 94–63, title IX, §§936(d), 941(h)(1), (2), (4)(B), (i)(1), (5), July 29, 1975, 89 Stat. 363, 365, 366; Pub. L. 96–32, §7(j), July 10, 1979, 93 Stat. 84; Pub. L. 96–76, title I, §109(c), Sept. 29, 1979, 93 Stat. 580; Pub. L. 97–35, title XXVII, §2757(d), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(f), Aug. 16, 1985, 99 Stat. 399; Pub. L. 100–607, title VII, §713(i), Nov. 4, 1988, 102 Stat. 3161; Pub. L. 102–408, title II, §208(b), Oct. 13, 1992, 106 Stat. 2075; Pub. L. 105–392, title I, §133(e), Nov. 13, 1998, 112 Stat. 3577; Pub. L. 111–148, title V, §5310(b)(5), Mar. 23, 2010, 124 Stat. 631.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This part, referred to in subsec. (c)(1), was in the original "this subpart" and was translated to reflect the probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
@@ -73,6 +75,8 @@ Pub. L. 92–52 substituted "1975" for "1974" wherever appearing.
 **1966**—Subsec. (a). Pub. L. 89–751, §6(d)(1), (2), substituted "an agreement pursuant to section 297a(b) of this title" for "this part" in opening provisions, and in par. (1) substituted "such balance" for "the balance".
 
 Subsec. (b). Pub. L. 89–751, §6(d)(3), inserted "(other than so much of such fund as relates to payments from the revolving fund established by section 297f(d) of this title)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1985 Amendment ####
 

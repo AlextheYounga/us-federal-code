@@ -18,6 +18,8 @@ An application submitted under this section shall contain a description of the l
 
 (July 1, 1944, ch. 373, title VIII, §802, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3564; amended Pub. L. 116–136, div. A, title III, §3404(a)(2), Mar. 27, 2020, 134 Stat. 392.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 296a, act July 1, 1944, ch. 373, title VIII, §802, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 909; amended Aug. 16, 1968, Pub. L. 90–490, title II, §201(b), 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, §§2(d)(3), (e), (f), 13, 85 Stat. 468, 480; July 29, 1975, Pub. L. 94–63, title IX, §§910(a)(2), 941(a), 89 Stat. 355, 363, related to time of submission, determinations, etc., respecting applications for construction grants, prior to repeal by Pub. L. 99–92, §§9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.

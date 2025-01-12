@@ -1,5 +1,7 @@
 ### §§8260, 8261. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 8260 and 8261 were omitted in the general amendment of this part by Pub. L 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185.

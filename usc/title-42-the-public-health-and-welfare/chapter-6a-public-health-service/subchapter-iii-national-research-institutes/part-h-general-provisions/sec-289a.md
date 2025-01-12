@@ -34,6 +34,8 @@ and shall authorize such review to be conducted by groups appointed under sectio
 
 (July 1, 1944, ch. 373, title IV, §492, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 874; amended Pub. L. 103–43, title I, §132, June 10, 1993, 107 Stat. 135; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 282(b)(6) of this title, referred to in subsec. (b), was redesignated section 282(b)(16) by Pub. L. 109–482, title I, §102(a)(3), Jan. 15, 2007, 120 Stat. 3681.
@@ -43,6 +45,8 @@ Section 282(b)(6) of this title, referred to in subsec. (b), was redesignated se
 **2007**—Subsec. (a)(2). Pub. L. 109–482 substituted "sections 282(b)(16)" for "sections 282(b)(6)" in concluding provisions.
 
 **1993**—Subsec. (c). Pub. L. 103–43 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

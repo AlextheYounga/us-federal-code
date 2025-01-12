@@ -104,6 +104,8 @@ Amounts otherwise appropriated for programs or activities under this subchapter 
 
 (July 1, 1944, ch. 373, title VII, §761, as added Pub. L. 105–392, title I, §104(a), Nov. 13, 1998, 112 Stat. 3552; amended Pub. L. 111–148, title V, §5103(a), Mar. 23, 2010, 124 Stat. 603; Pub. L. 116–136, div. A, title III, §3401(9), Mar. 27, 2020, 134 Stat. 386.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 294n, act July 1, 1944, ch. 373, title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050, and amended, which related to grants and contracts to provide health care for individuals with acquired immune deficiency syndrome, was renumbered section 2692 of title XXVI of act July 1, 1944, by Pub. L. 104–146, §3(h)(3), May 20, 1996, 110 Stat. 1364, and transferred to section 300ff–111 of this title.
@@ -129,6 +131,8 @@ Subsec. (e)(2). Pub. L. 116–136, §3401(9)(B), substituted "paragraph (1)" for
 Subsec. (e)(1). Pub. L. 111–148, §5103(a)(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section, $750,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002."
 
 Subsec. (e)(2). Pub. L. 111–148, §5103(a)(4), which directed amendment of "paragraph (2)", without specifying the subsec. to be amended, by substituting "paragraph (1)" for "subsection (a)", could not be executed.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

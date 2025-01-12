@@ -22,6 +22,8 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 (July 1, 1944, ch. 373, title III, §393C, formerly §393B, as added Pub. L. 106–310, div. A, title XIII, §1301(b), Oct. 17, 2000, 114 Stat. 1137; renumbered §393C and amended Pub. L. 110–206, §§2(3), 3(b), (c), Apr. 28, 2008, 122 Stat. 714, 715; Pub. L. 115–377, §2(1), Dec. 21, 2018, 132 Stat. 5114.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 393C of act July 1, 1944, was renumbered section 393A and is classified to section 280b–1b of this title.

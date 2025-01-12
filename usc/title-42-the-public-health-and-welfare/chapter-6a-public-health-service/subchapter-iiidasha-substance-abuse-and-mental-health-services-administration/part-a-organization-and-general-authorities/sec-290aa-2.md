@@ -1,5 +1,7 @@
 ### §290aa–2. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act July 1, 1944, ch. 373, title V, §503, formerly §505, as added Pub. L. 98–24, §2(b)(7), Apr. 26, 1983, 97 Stat. 178; renumbered §506, Pub. L. 99–570, title IV, §4004(a), Oct. 27, 1986, 100 Stat. 3207–109; renumbered §503, Pub. L. 102–321, title I, §103, July 10, 1992, 106 Stat. 333, which required the Secretary of Health and Human Services to submit triennial reports to Congress on the health consequences of using alcoholic beverages, the health consequences and extent of drug abuse in the United States, and current research findings made with respect to drug abuse, including current findings on the health effects of marihuana and the addictive property of tobacco, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, pages 92 and 93 of House Document No. 103–7.

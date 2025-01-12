@@ -1,5 +1,7 @@
 ### §§7257a to 7257c. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 7257a, Pub. L. 101–510, div. C, title XXXI, §3132, Nov. 5, 1990, 104 Stat. 1832, which related to laboratory-directed research and development programs, was renumbered section 4811 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(6)(A)–(C), Nov. 24, 2003, 117 Stat. 1784, and is classified to section 2791 of Title 50, War and National Defense.

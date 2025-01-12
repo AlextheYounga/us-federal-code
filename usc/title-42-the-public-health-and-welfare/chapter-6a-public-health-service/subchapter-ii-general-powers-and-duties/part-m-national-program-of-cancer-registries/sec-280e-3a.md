@@ -26,6 +26,8 @@ The activities described in this section shall be subject to section 552a of tit
 
 (July 1, 1944, ch. 373, title III, §399E–1, as added Pub. L. 110–285, §4(b)(1), July 29, 2008, 122 Stat. 2630; amended Pub. L. 115–180, title I, §102(a), June 5, 2018, 132 Stat. 1385.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
@@ -37,6 +39,8 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 Subsecs. (b), (c). Pub. L. 115–180, §102(a)(3), added subsecs. (b) and (c). Former subsec. (b) redesignated (d).
 
 Subsec. (d). Pub. L. 115–180, §102(a)(2), (4), redesignated subsec. (b) as (d) and substituted "activities described in this section" for "registry established pursuant to subsection (a)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Findings and Purposes ####
 

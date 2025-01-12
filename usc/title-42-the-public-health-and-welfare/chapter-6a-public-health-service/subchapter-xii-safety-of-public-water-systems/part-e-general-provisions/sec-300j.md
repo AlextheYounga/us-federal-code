@@ -50,6 +50,8 @@ No certification of need or order issued under this section may remain in effect
 
 (July 1, 1944, ch. 373, title XIV, §1441, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1680; amended Pub. L. 95–190, §7, Nov. 16, 1977, 91 Stat. 1396; Pub. L. 96–63, §3, Sept. 6, 1979, 93 Stat. 411; Pub. L. 99–339, title III, §301(d), June 19, 1986, 100 Stat. 664; Pub. L. 104–182, title V, §501(c), Aug. 6, 1996, 110 Stat. 1691.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (f). Pub. L. 104–182 inserted a period after "year".
@@ -59,6 +61,8 @@ No certification of need or order issued under this section may remain in effect
 **1979**—Subsec. (f)(2). Pub. L. 96–63 substituted "September 30, 1982" for "September 30, 1979".
 
 **1977**—Subsec. (f). Pub. L. 95–190 substituted "September 30, 1979" for "June 30, 1977".
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 11879. Delegation of Functions to Secretary of Commerce Relating to Orders for Provision of Chemicals or Substances Necessary for Treatment of Water ####
 

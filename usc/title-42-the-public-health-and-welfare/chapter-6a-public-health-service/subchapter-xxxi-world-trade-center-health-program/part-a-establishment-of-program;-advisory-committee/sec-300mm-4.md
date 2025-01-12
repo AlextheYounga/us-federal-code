@@ -128,6 +128,8 @@ Not later than July 1, 2011, the Comptroller General shall submit to the Committ
 
 (July 1, 1944, ch. 373, title XXXIII, §3305, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3630; amended Pub. L. 114–113, div. O, title III, §302(c), Dec. 18, 2015, 129 Stat. 2998.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 300mm–1(b) of this title, referred to in subsec. (a)(2)(A)(v), was in the original "section 3002(b)" and was translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.

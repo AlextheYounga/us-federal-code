@@ -42,6 +42,8 @@ The Director of the Program shall make available to Federal agencies involved in
 
 (July 1, 1944, ch. 373, title XXI, §2102, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756; amended Pub. L. 102–531, title III, §312(d)(13), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 108–173, title IX, §900(e)(2)(F), Dec. 8, 2003, 117 Stat. 2372.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300aa–2, act July 1, 1944, §2103, was successively renumbered by subsequent acts and transferred, see section 238b of this title.
@@ -53,6 +55,8 @@ A prior section 2102 of act July 1, 1944, was successively renumbered by subsequ
 **2003**—Subsec. (a)(7). Pub. L. 108–173 substituted "Centers for Medicare & Medicaid Services" for "Health Care Financing Administration".
 
 **1992**—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Encouraging Vaccine Innovation; Meetings ####
 

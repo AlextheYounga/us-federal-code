@@ -102,6 +102,8 @@ Amounts appropriated under paragraph (1) shall remain available until expended.
 
 (July 1, 1944, ch. 373, title III, §338J, as added Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, §301, Nov. 13, 1998, 112 Stat. 3585; Pub. L. 115–408, §2, Dec. 31, 2018, 132 Stat. 5384.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 254r, act July 1, 1944, ch. 373, title III, §338I, formerly title VII, §757, as added Aug. 1, 1977, Pub. L. 95–83, title III, §307(n)(1), 91 Stat. 392; amended Dec. 17, 1980, Pub. L. 96–537, §3(d), 94 Stat. 3174; renumbered §338G, Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2709(a), 95 Stat. 908; Oct. 30, 1984, Pub. L. 98–551, §3, 98 Stat. 2817; renumbered §338I, Dec. 1, 1987, Pub. L. 100–177, title II, §201(1), 101 Stat. 992; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(a)(3), 102 Stat. 3146, which related to Indian Health Scholarships and was classified to section 294y–1 of this title prior to renumbering by Pub. L. 97–35, was repealed by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787. For provisions continuing scholarships provided on or before Nov. 23, 1988, see section 104(b)(2) of Pub. L. 100–713.
@@ -117,6 +119,8 @@ A prior section 338J of act July 1, 1944, was renumbered section 338K by Pub. L.
 Subsec. (j)(1). Pub. L. 105–392, §301(2), struck out "and" after "1992," and inserted before period at end ", and such sums as may be necessary for each of the fiscal years 1998 through 2002".
 
 Subsec. (k). Pub. L. 105–392, §301(3), substituted "$36,000,000" for "$10,000,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Communications for Rural Health Providers ####
 

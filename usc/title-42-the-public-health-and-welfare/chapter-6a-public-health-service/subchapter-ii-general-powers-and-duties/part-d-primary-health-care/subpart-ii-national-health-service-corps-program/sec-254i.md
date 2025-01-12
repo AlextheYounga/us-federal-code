@@ -20,6 +20,8 @@ The Secretary shall submit an annual report to Congress, and shall include in su
 
 (July 1, 1944, ch. 373, title III, §336A, formerly §336, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2277, renumbered §336A, Pub. L. 97–35, title XXVII, §2706(a), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 97–375, title II, §206(a), Dec. 21, 1982, 96 Stat. 1823; Pub. L. 101–597, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 107–251, title III, §307(b), Oct. 26, 2002, 116 Stat. 1649.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Par. (8). Pub. L. 107–251 struck out "agreements under" after "in accordance with".

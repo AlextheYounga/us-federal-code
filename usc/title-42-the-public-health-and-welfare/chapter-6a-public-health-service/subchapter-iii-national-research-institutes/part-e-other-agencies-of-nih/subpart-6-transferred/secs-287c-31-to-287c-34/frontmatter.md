@@ -1,5 +1,7 @@
 ### §§287c–31 to 287c–34. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 287c–31, act July 1, 1944, ch. 373, title IV, §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693, which set out the purpose of the National Center on Minority Health and Health Disparities, was renumbered section 464z–3 of act July 1, 1944, and transferred to section 285t of this title.

@@ -1,5 +1,7 @@
 ### §§1406c to 1411a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1406c, act June 27, 1942, ch. 450, §1, 56 Stat. 410, which related to expenses for construction advisers on non-Federal projects, was from the Independent Offices Appropriation Act, 1943, and was not repeated in subsequent appropriation acts. Prior similar provisions were contained in acts Apr. 5, 1941, ch. 40, §1, 55 Stat. 111; Apr. 18, 1940, ch. 107, §1, 54 Stat. 130.
@@ -15,6 +17,8 @@ Section 1410, acts Sept. 1, 1937, ch. 896, §10, 50 Stat. 891; June 21, 1938, ch
 Section 1411, acts Sept. 1, 1937, ch. 896, §11, 50 Stat. 893; July 15, 1949, ch. 338, title III, §307(d), 63 Stat. 430, authorized capital grants to public housing agencies in assistance of low rentals, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
 Section 1411a, act July 31, 1953, ch. 302, title I, §101, 67 Stat. 306, which related to prohibition of projects in localities where rejected by public vote or governing body, was from the Independent Offices Appropriation Act, 1954, and was not repeated in subsequent appropriation acts.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Retroactive Effect of Repeal of Rights of United States Relating to Self-Liquidation of Projects ####
 

@@ -14,6 +14,8 @@ Section 9886, Pub. L. 97–35, title VI, §670S, as added Pub. L. 100–297, tit
 
 Section 9887, Pub. L. 97–35, title VI, §670T, as added Pub. L. 100–297, title II, §2503, Apr. 28, 1988, 102 Stat. 330; amended Pub. L. 101–501, title VIII, §801, Nov. 3, 1990, 104 Stat. 1261, authorized appropriations to carry out this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.

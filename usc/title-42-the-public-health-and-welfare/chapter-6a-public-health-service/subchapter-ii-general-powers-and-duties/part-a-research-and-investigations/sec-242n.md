@@ -2,6 +2,8 @@
 
 Section, act July 1, 1944, ch. 373, title III, §309, as added Nov. 9, 1978, Pub. L. 95–623, §6(c), 92 Stat. 3447; amended July 10, 1979, Pub. L. 96–32, §5(d), 93 Stat. 83; Aug. 13, 1981, Pub. L. 97–35, title IX, §§917(c), 923, 95 Stat. 565, 567; Oct. 30, 1984, Pub. L. 98–551, §8, 98 Stat. 2820; Oct. 7, 1985, Pub. L. 99–117, §8(a), 99 Stat. 493; Dec. 1, 1987, Pub. L. 100–177, title I, §109, 101 Stat. 990, related to grants for a council on health care technology.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination of Council on Health Care Technology ####
 
 Pub. L. 101–239, title VI, §6103(d)(1)(B), Dec. 19, 1989, 103 Stat. 2205, provided in part that the council on health care technology established under this section is terminated.

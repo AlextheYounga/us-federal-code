@@ -150,6 +150,8 @@ There are authorized to be appropriated to carry out this section $10,000,000 fo
 
 (July 1, 1944, ch. 373, title VII, §760, as added Pub. L. 114–255, div. B, title IX, §9022, Dec. 13, 2016, 130 Stat. 1250.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 294k, act July 1, 1944, ch. 373, title VII, §738, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2265; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(12), 91 Stat. 1506, related to repayment of loans of deceased or disabled borrowers from student loan insurance fund, prior to the general amendment of this subchapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 292m of this title.

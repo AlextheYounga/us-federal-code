@@ -1,5 +1,7 @@
 ### §§6681 to 6685. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 6681 to 6685 were omitted pursuant to section 6685 which provided that sections 6681 to 6685 ceased to be effective Dec. 31, 2000, and that the National Critical Technologies Panel established by this subchapter terminated on that date.

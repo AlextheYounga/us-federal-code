@@ -14,6 +14,8 @@ Section 2697a, Pub. L. 88–164, title IV, §409, as added Pub. L. 90–574, tit
 
 Section 2697b, Pub. L. 88–164, title IV, §410, as added Pub. L. 91–211, title V, §504, Mar. 13, 1970, 84 Stat. 62, related to determination of poverty area.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective with request to appropriations under Pub. L. 94–103, for fiscal years beginning after June 30, 1975, see section 303 of Pub. L. 94–103.

@@ -6,6 +6,8 @@
 
 (July 1, 1944, ch. 373, title XIX, §1901, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 535; amended Pub. L. 98–555, §4, Oct. 30, 1984, 98 Stat. 2855; Pub. L. 100–607, title III, §301(a), Nov. 4, 1988, 102 Stat. 3111; Pub. L. 102–531, title I, §101, Oct. 27, 1992, 106 Stat. 3469; Pub. L. 103–183, title VII, §705(e), Dec. 14, 1993, 107 Stat. 2241.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Subsec. (a). Pub. L. 103–183 substituted "through 1998" for "through 1997".
@@ -19,6 +21,8 @@ Subsec. (b). Pub. L. 102–531, §101(b), substituted "$7,000,000" for "$3,500,0
 **1984**—Subsec. (a). Pub. L. 98–555, §4(a), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
 Subsec. (b). Pub. L. 98–555, §4(b), substituted "$3,500,000" for "$3,000,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

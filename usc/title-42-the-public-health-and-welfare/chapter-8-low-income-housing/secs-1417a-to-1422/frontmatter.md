@@ -1,5 +1,7 @@
 ### §§1417a to 1422. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1417a to 1422 were omitted in the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
@@ -19,6 +21,8 @@ Section 1421a, act Sept. 1, 1937, ch. 896, §22, as added July 15, 1949, ch. 338
 Section 1421b, act Sept. 1, 1937, ch. 896, §23, as added Aug. 10, 1965, Pub. L. 89–117, title I, §103(a), 79 Stat. 455; amended Nov. 3, 1966, Pub. L. 89–754, title X, §1002, 80 Stat. 1284; Aug. 1, 1968, Pub. L. 90–448, title II, §§208, 210, 82 Stat. 504, 505; Dec. 24, 1969, Pub. L. 91–152, title II, §217(c), 83 Stat. 390; Dec. 31, 1970, Pub. L. 91–609, title II, §204(a)(1), (b), 84 Stat. 1777, set forth provisions authorizing low-rent housing in private accommodations. See section 1437f of this title.
 
 Section 1422, acts Sept. 1, 1937, ch. 896, §24, formerly §22, 50 Stat. 899; renumbered, §23, July 15, 1949, ch. 338, title III, §307(h), 63 Stat. 431; renumbered §24, Aug. 10, 1965, Pub. L. 87–117, title I, §103(a), 79 Stat. 455, provided for applicability of all general penal statutes relating to larceny etc., of moneys and properties of the Authority.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Retroactive Application of Policies or Procedures Established by Secretary of Housing and Urban Development to Rights of Owners of Leased Housing, Including Right of Renewal ####
 

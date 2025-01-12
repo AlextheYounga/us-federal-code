@@ -12,6 +12,8 @@ Section 1973cc–25, act Aug. 9, 1955, ch. 656, title III, §305, 69 Stat. 589, 
 
 Section 1973cc–26, act Aug. 9, 1955, ch. 656, title III, §308, 69 Stat. 589, authorized appropriations as necessary to carry out this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 20301 of Title 52, Voting and Elections.

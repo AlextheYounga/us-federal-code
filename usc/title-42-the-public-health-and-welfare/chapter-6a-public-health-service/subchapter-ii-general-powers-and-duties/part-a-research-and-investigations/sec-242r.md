@@ -16,6 +16,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (Pub. L. 108–282, title II, §207, Aug. 2, 2004, 118 Stat. 910.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Food Allergen Labeling and Consumer Protection Act of 2004, and not as part of the Public Health Service Act which comprises this chapter.

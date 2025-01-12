@@ -124,6 +124,8 @@ The Assistant Secretary or Director of the Administration or Center for which th
 
 (July 1, 1944, ch. 373, title V, §502, formerly §505, as added Pub. L. 99–570, title IV, §4004(a), Oct. 27, 1986, 100 Stat. 3207–109; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 101–381, title I, §102(6), Aug. 18, 1990, 104 Stat. 586; renumbered §502 and amended Pub. L. 102–321, title I, §102, July 10, 1992, 106 Stat. 331; Pub. L. 102–352, §2(a)(6), Aug. 26, 1992, 106 Stat. 938; Pub. L. 103–446, title XII, §1203(a)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 106–310, div. B, title XXXIV, §3402, Oct. 17, 2000, 114 Stat. 1219; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6008, Dec. 13, 2016, 130 Stat. 1203, 1214.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 290aa–3a of this title prior to renumbering by Pub. L. 102–321.
@@ -159,6 +161,8 @@ Pub. L. 102–321 amended section generally, substituting provisions relating to
 **1990**—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
 **1988**—Subsec. (b)(2)(A). Pub. L. 100–527 substituted "Chief Medical Director of the Department of Veterans Affairs" for "Chief Medical Director of the Veterans' Administration".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendments ####
 

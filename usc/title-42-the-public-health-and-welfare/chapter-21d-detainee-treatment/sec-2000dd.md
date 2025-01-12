@@ -18,6 +18,8 @@ In this section, the term "cruel, inhuman, or degrading treatment or punishment"
 
 (Pub. L. 109–148, div. A, title X, §1003, Dec. 30, 2005, 119 Stat. 2739; Pub. L. 109–163, div. A, title XIV, §1403, Jan. 6, 2006, 119 Stat. 3475.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date "December 30, 2005", referred to in subsec. (c), was in the original "the date of the enactment of this Act" and was translated as the date of enactment of Pub. L. 109–148.
@@ -25,6 +27,8 @@ The date "December 30, 2005", referred to in subsec. (c), was in the original "t
 #### Codification ####
 
 Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 
@@ -55,6 +59,8 @@ Pub. L. 110–53, title XX, §2034, Aug. 3, 2007, 121 Stat. 517, provided that:
 "(1) with respect to the House of Representatives, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on the Judiciary, and the Permanent Select Committee on Intelligence; and
 
 "(2) with respect to the Senate, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on the Judiciary, and the Select Committee on Intelligence."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13491. Ensuring Lawful Interrogations ####
 

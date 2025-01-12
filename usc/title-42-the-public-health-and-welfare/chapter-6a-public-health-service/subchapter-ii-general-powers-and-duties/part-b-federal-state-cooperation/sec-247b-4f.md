@@ -36,6 +36,8 @@ There is authorized to be appropriated to carry out this section, $2,000,000 for
 
 (Pub. L. 109–450, §3, Dec. 22, 2006, 120 Stat. 3341; Pub. L. 113–55, title I, §102, Nov. 27, 2013, 127 Stat. 641; Pub. L. 115–328, §2, Dec. 18, 2018, 132 Stat. 4471.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 2 of Pub. L. 115–328, which directed the amendment of section 2 of the Prematurity Research Expansion and Education for Mothers who deliver Infants Early Act (Pub. L. 109–450), was executed to this section, which is section 3 of Pub. L. 109–450, to reflect the probable intent of Congress. See 2018 Amendment notes below.
@@ -57,6 +59,8 @@ Subsec. (e). Pub. L. 115–328, §2(3), substituted "$2,000,000 for each of fisc
 **2013**—Subsec. (b). Pub. L. 113–55, §102(a), added subsec. (b) and struck out former subsec. (b) which related to studies and reports on the relationship between prematurity and birth defects.
 
 Subsec. (e). Pub. L. 113–55, §102(b), substituted "$1,880,000 for each of fiscal years 2014 through 2018." for "$5,000,000 for each of fiscal years 2007 through 2011."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Advisory Committee on Infant Mortality ####
 

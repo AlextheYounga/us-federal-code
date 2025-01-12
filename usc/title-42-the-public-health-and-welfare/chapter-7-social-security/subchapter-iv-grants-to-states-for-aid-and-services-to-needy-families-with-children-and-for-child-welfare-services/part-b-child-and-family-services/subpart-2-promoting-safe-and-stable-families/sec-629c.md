@@ -40,6 +40,8 @@ From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any
 
 (Aug. 14, 1935, ch. 531, title IV, §433, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §§103, 106(a)(2), Jan. 17, 2002, 115 Stat. 2415, 2417; Pub. L. 109–288, §§4(a)(2), 5(b)(1)(A), 6(f)(4), Sept. 28, 2006, 120 Stat. 1237, 1242, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §102(g)(2), Sept. 30, 2011, 125 Stat. 372.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -77,6 +79,8 @@ Subsec. (b). Pub. L. 107–133, §106(a)(2)(B), substituted "section 629f(a)" fo
 Subsec. (c)(1). Pub. L. 107–133, §106(a)(2)(C), substituted "section 629f(a)" for "section 629(b)" and "section 629f(b)" for "section 629(d)".
 
 Subsec. (d). Pub. L. 107–133, §103, added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

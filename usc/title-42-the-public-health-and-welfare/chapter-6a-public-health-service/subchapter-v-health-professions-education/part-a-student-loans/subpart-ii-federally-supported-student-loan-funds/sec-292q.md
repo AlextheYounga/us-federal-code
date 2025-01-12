@@ -68,6 +68,8 @@ except that a loan made under this subpart shall not be considered to be in defa
 
 (July 1, 1944, ch. 373, title VII, §721, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2011.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 721 of act July 1, 1944, was classified to section 293a of this title prior to the general revision of this subchapter by Pub. L. 102–408.

@@ -4,6 +4,8 @@ A group health plan and a health insurance issuer offering group health insuranc
 
 (July 1, 1944, ch. 373, title XXVII, §2708, as added and amended Pub. L. 111–148, title I, §1201(4), title X, §10103(b), Mar. 23, 2010, 124 Stat. 161, 892.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300gg–7, act July 1, 1944, ch. 373, title XXVII, §2707, as added Pub. L. 110–381, §2(b)(1), Oct. 9, 2008, 122 Stat. 4083, which related to coverage of dependent students on medically necessary leave of absence, was renumbered section 2728 of act July 1, 1944, and transferred to section 300gg–28 of this title.
@@ -13,6 +15,8 @@ A prior section 2708 of act July 1, 1944, was successively renumbered by subsequ
 #### Amendments ####
 
 **2010**—Pub. L. 111–148, §10103(b), struck out "or individual" after "offering group".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

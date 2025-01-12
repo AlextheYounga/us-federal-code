@@ -16,6 +16,8 @@ In order to assist the States in carrying out the purposes of section 291 of thi
 
 (July 1, 1944, ch. 373, title VI, §601, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 448; amended Pub. L. 90–574, title IV, §402(a), Oct. 15, 1968, 82 Stat. 1011; Pub. L. 91–296, title I, §§101(a), 102(a), 116(a), June 30, 1970, 84 Stat. 337, 341; Pub. L. 93–45, title I, §108(a), June 18, 1973, 87 Stat. 92.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 291a, act July 1, 1944, ch. 373, title VI, §611, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, authorized appropriations for surveys and planning, prior to the general amendment of this subchapter by Pub. L. 88–443.
@@ -43,6 +45,8 @@ Par. (c). Pub. L. 91–296, §102(a)(2), added par. (c).
 **1968**—Par. (a). Pub. L. 90–574, §402(a)(1), substituted "next five" for "next four".
 
 Par. (b). Pub. L. 90–574, §402(a)(2), authorized appropriation of $195,000,000 for fiscal year ending June 30, 1970.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1970 Amendment ####
 

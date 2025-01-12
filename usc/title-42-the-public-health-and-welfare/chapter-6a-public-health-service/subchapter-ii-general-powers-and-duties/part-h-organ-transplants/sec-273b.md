@@ -4,6 +4,8 @@ Not later than 1 year after December 21, 2007, and annually thereafter, the Secr
 
 (Pub. L. 110–144, §3, Dec. 21, 2007, 121 Stat. 1814.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Charlie W. Norwood Living Organ Donation Act, and not as part of the Public Health Service Act which comprises this chapter.

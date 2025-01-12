@@ -1,5 +1,7 @@
 ### Part E—National Family Caregiver Support Program ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part E, consisting of section 3030l of this title, related to authorization of grant program for States to provide additional assistance for special needs of older individuals, prior to repeal by Pub. L. 106–501, title III, §314(1), Nov. 13, 2000, 114 Stat. 2253. See Prior Provisions note set out under section 3030g–22 of this title.

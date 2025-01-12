@@ -1,5 +1,7 @@
 ### Part F—General and Administrative Provisions ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 For prior part F of title II of Pub. L. 93–415, see part F (§11181 et seq.) of subchapter II of chapter 111 of Title 34, Crime Control and Law Enforcement.

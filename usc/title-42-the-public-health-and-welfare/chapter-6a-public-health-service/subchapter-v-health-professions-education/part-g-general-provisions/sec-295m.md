@@ -10,6 +10,8 @@ the provisions of the preceding sentences of this section shall apply only with 
 
 (July 1, 1944, ch. 373, title VII, §794, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2063.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 794 of act July 1, 1944, was classified to section 295h–2 of this title prior to the general amendment of this subchapter by Pub. L. 102–408.

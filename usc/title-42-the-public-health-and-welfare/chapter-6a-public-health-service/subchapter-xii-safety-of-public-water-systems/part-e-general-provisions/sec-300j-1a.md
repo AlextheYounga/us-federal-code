@@ -70,6 +70,8 @@ There is authorized to be appropriated to carry out this section $10,000,000 for
 
 (Pub. L. 115–270, title II, §2007, Oct. 23, 2018, 132 Stat. 3845.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the America's Water Infrastructure Act of 2018, and not as part of the Public Health Service Act which comprises this chapter.

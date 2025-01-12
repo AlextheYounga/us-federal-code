@@ -272,6 +272,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6006(b), Dec. 13, 2016, 130 Stat. 1203, 1212; Pub. L. 115–271, title VII, §7062(b), Oct. 24, 2018, 132 Stat. 4020.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -339,6 +341,8 @@ Pub. L. 114–198, §501(b)(2), substituted "$16,900,000 for each of fiscal year
 Subsec. (s). Pub. L. 114–198, §501(c)(1)(A), (2), redesignated subsec. (r) as (s) and inserted at end "Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016."
 
 **2000**—Subsec. (r). Pub. L. 106–310 reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2001 to 2003 for provisions authorizing appropriations for fiscal years 1993 and 1994 and authorizing appropriations from the special forfeiture fund of the Director of the Office of National Drug Control Policy.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

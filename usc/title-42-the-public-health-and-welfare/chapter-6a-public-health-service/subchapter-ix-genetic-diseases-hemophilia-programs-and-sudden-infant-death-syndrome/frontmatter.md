@@ -1,5 +1,7 @@
 ### SUBCHAPTER IX—GENETIC DISEASES, HEMOPHILIA PROGRAMS, AND SUDDEN INFANT DEATH SYNDROME ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 94–278, title IV, §403(b)(3), Apr. 22, 1976, 90 Stat. 409, substituted "GENETIC DISEASES" for "GENETIC BLOOD DISORDERS" and inserted "HEMOPHILIA PROGRAMS" in subchapter heading.

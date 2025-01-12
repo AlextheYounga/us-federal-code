@@ -42,6 +42,8 @@ In carrying out immunization programs and other programs in developing countries
 
 (July 1, 1944, ch. 373, title III, §307, formerly §308, as added Pub. L. 86–610, §3, July 12, 1960, 74 Stat. 364; renumbered §307 and amended Pub. L. 93–353, title I, §106, July 23, 1974, 88 Stat. 367; Pub. L. 97–35, title IX, §921, Aug. 13, 1981, 95 Stat. 566; Pub. L. 101–239, title VI, §6103(e)(3), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 102–531, title III, §310, Oct. 27, 1992, 106 Stat. 3503; Pub. L. 103–183, title VII, §702, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 108–25, title III, §306, May 27, 2003, 117 Stat. 739; Pub. L. 110–293, title II, §205, July 30, 2008, 122 Stat. 2943.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008, referred to in subsec. (a)(2), is Pub. L. 110–293, July 30, 2008, 122 Stat. 2918. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 7601 of Title 22, Foreign Relations and Intercourse, and Tables.
@@ -83,6 +85,8 @@ Subsec. (c). Pub. L. 110–293, §205(3), substituted "1980" for "1990" and inse
 Subsec. (b). Pub. L. 97–35, §921(b), in par. (5) inserted reference to health care technology, and in par. (6) inserted reference to health care technology activities.
 
 **1974**—Pub. L. 93–353 amended section generally.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### International Health Study ####
 

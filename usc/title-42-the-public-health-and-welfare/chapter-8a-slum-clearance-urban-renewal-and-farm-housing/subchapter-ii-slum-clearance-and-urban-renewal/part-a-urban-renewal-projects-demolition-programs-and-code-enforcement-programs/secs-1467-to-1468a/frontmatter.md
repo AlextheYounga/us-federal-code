@@ -1,5 +1,7 @@
 ### §§1467 to 1468a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted pursuant to section 5316 of this title which terminated authority to make grants or loans under this subchapter after Jan. 1, 1975.

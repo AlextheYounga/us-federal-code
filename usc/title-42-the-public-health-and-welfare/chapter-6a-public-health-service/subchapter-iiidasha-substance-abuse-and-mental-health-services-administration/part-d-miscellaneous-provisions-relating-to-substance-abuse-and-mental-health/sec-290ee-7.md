@@ -118,6 +118,8 @@ There is authorized to be appropriated $10,000,000 for each of fiscal years 2019
 
 (July 1, 1944, ch. 373, title V, §552, as added Pub. L. 115–271, title VII, §7121(a), Oct. 24, 2018, 132 Stat. 4043.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2 of the Expanding Capacity for Health Outcomes Act, referred to in subsec. (f), is section 2 of Pub. L. 114–270, Dec. 14, 2016, 130 Stat. 1395, which is not classified to the Code.

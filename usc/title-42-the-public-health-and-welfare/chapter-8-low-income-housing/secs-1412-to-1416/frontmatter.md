@@ -1,5 +1,9 @@
 ### §§1412 to 1416. Omitted ###
 
+#### **Editorial Notes** ####
+
+#### Codification ####
+
 Section 1412, acts Sept. 1, 1937, ch. 896, §12, 50 Stat. 894; Apr. 20, 1950, ch. 94, title II, §205(b), 64 Stat. 73; Aug. 7, 1956, ch. 1029, title IV, §405, 70 Stat. 1104; Aug. 10, 1965, Pub. L. 89–117, title V, §505, 79 Stat. 487, authorized disposal of low-rent-housing projects transferred to or acquired by the Authority, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
 Section 1413, acts Sept. 1, 1937, ch. 896, §13, 50 Stat. 894; July 15, 1949, ch. 338, title III, §307(e), 63 Stat. 430; May 25, 1967, Pub. L. 90–19, §2(g), 81 Stat. 20, enumerated powers of the Authority, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
@@ -11,6 +15,8 @@ Section 1414, acts Sept. 1, 1937, ch. 896, §14, 50 Stat. 895; July 15, 1949, 33
 Section 1415, acts Sept. 1, 1937, ch. 896, §15, 50 Stat. 895; July 31, 1947, ch. 418, §1, 61 Stat. 704; July 15, 1949, ch. 338, title III, §§301, 303, 304(j), 63 Stat. 422, 424, 427; Aug. 2, 1954, ch. 649, title IV, §401(3), (4), 68 Stat. 631; Aug. 7, 1956, ch. 1029, title IV, §404(c), 70 Stat. 1104; July 12, 1957, Pub. L. 85–104, title IV, §401(b), (c), 71 Stat. 302; Sept. 23, 1959. Pub. L. 86–372, title V, §§503(b), 506, 507, 73 Stat. 680, 681; June 30, 1961, Pub. L. 87–70, title II, §§204(b), 205(b), 206(a), 75 Stat. 164; Sept. 2, 1964, Pub. L. 88–560, title IV, §§401(c), 405(a), 406, 78 Stat. 794, 795; Aug. 10, 1965, Pub. L. 89–117, title IV, §404(c)(2), title V, §§506, 507(a), (b)(3), 79 Stat. 486–488; May 25, 1967, Pub. L. 90–19, §2(a), 81 Stat. 19; Aug. 1, 1968, Pub. L. 90–448, title II, §§204, 205, 207, 82 Stat. 503, 504; Dec. 24, 1969, Pub. L. 91–152, title II, §§215, 216, 83 Stat. 389, 390; Dec. 31, 1970, Pub. L. 91–609, title II, §§207, 209(a), title IX, §903(d), 84 Stat. 1777, 1778, 1809; Jan. 2, 1971, Pub. L. 91–646, title II, §220(a)(6), 84 Stat. 1903, set forth provisions relating to preservation of low rents in housing projects, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653. See sections 1437c, 1437d, and 1437f of this title.
 
 Section 1416, acts Sept. 1, 1937, ch. 896, §16, 50 Stat. 896; July 15, 1949, 338, title III, §307(f) 63 Stat. 430; Aug. 2, 1954, ch. 649, title IV, §404, 68 Stat. 633; Nov. 3, 1966, Pub. L. 89–754, title X, §1003, 80 Stat. 1284; May 25, 1967, Pub. L. 90–19, §2(h), (i), 81 Stat. 20, provided for application of labor standards to contracts, etc., involving Federal projects, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653. See section 1437 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Application for Preliminary Loans Approved Prior to September 2, 1964 ####
 

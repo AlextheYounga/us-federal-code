@@ -436,6 +436,8 @@ The term "serious physical injury" means an injury that—
 
 (July 1, 1944, ch. 373, title III, §319F–3, as added Pub. L. 109–148, div. C, §2, Dec. 30, 2005, 119 Stat. 2818; amended Pub. L. 113–5, title IV, §402(g)(2), (3), Mar. 13, 2013, 127 Stat. 196; Pub. L. 116–127, div. F, §6005, Mar. 18, 2020, 134 Stat. 207; Pub. L. 116–136, div. A, title III, §3103, Mar. 27, 2020, 134 Stat. 361.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and (i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.

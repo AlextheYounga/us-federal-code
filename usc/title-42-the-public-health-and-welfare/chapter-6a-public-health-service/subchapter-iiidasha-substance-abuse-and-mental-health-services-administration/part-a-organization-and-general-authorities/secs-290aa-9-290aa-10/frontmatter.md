@@ -4,6 +4,8 @@ Section 290aa–9, act July 1, 1944, ch. 373, title V, §509B, as added Oct. 27,
 
 Section 290aa–10, act July 1, 1944, ch. 373, title V, §509C, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §420 [4020], 100 Stat. 3207–122, related to guidelines for use of animals in research.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.

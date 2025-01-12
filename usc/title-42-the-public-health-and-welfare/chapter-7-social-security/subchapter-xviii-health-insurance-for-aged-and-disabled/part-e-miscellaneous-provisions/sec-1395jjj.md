@@ -346,6 +346,8 @@ Any payment made under an ACO Beneficiary Incentive Program established under th
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1899, as added and amended Pub. L. 111–148, title III, §3022, title X, §10307, Mar. 23, 2010, 124 Stat. 395, 940; Pub. L. 114–255, div. C, title XVII, §17007, Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–123, div. E, title III, §§50324(a), 50331, 50341(a), Feb. 9, 2018, 132 Stat. 203, 205, 206.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (b)(2)(I). Pub. L. 115–123, §50341(a)(1), added subpar. (I).
@@ -363,6 +365,8 @@ Subsec. (m). Pub. L. 115–123, §50341(a)(2), added subsec. (m).
 **2016**—Subsec. (c). Pub. L. 114–255 substituted "utilization of—" for "utilization of primary", inserted par. (1) designation and "in the case of performance years beginning on or after April 1, 2012, primary" before "care services", and added par. (2).
 
 **2010**—Subsecs. (i) to (k). Pub. L. 111–148, §10307, added subsecs. (i) to (k).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Study and Report ####
 

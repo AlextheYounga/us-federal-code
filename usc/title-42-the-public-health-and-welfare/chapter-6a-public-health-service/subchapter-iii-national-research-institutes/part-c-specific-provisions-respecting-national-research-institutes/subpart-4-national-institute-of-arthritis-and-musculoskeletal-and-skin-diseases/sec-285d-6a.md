@@ -26,9 +26,13 @@ In carrying out subsection (a), the Director of the Institute shall conduct or s
 
 (July 1, 1944, ch. 373, title IV, §441A, as added Pub. L. 106–505, title V, §511, Nov. 13, 2000, 114 Stat. 2342; amended Pub. L. 109–482, title I, §103(b)(22), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

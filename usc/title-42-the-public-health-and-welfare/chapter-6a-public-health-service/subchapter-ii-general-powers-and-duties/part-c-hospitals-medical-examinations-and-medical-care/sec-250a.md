@@ -4,6 +4,8 @@ The Attorney General may transfer to the Department of Health and Human Services
 
 (Pub. L. 116–260, div. B, title II, Dec. 27, 2020, 134 Stat. 1252.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Public Health Service Act which comprises this chapter.

@@ -64,9 +64,13 @@ The Secretary may make a grant under section 290ff(a) of this title only if an a
 
 (July 1, 1944, ch. 373, title V, §564, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 355; amended Pub. L. 114–255, div. B, title X, §10001(c), Dec. 13, 2016, 130 Stat. 1262.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (f). Pub. L. 114–255 inserted "(and provide a copy to the State involved)" after "to the Secretary".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

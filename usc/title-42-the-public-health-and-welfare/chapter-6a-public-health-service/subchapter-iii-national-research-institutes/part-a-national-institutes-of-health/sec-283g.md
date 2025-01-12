@@ -110,6 +110,8 @@ The Coordinating Committee may evaluate the potential need to enhance the clinic
 
 (July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824; amended Pub. L. 109–482, title I, §§103(b)(4), 104(b)(1)(A), Jan. 15, 2007, 120 Stat. 3687, 3692; Pub. L. 110–154, §1(b)(3), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 110–361, §2, Oct. 8, 2008, 122 Stat. 4010; Pub. L. 113–166, §2, Sept. 26, 2014, 128 Stat. 1879.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 6 of the MD–CARE Act, referred to in subsec. (a)(2), is section 6 of Pub. L. 107–84, which was formerly set out as a note under section 247b–18 of this title and does not relate to establishment of a coordinating committee. However, subsec. (d) of this section contains provisions relating to the establishment of the Muscular Dystrophy Coordinating Committee.
@@ -157,6 +159,8 @@ Subsec. (b)(3). Pub. L. 109–482, §104(b)(1)(A)(i), amended heading and text o
 "(B) shall require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director."
 
 Subsec. (h). Pub. L. 109–482, §103(b)(4), struck out heading and text of subsec. (h). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

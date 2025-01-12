@@ -24,6 +24,8 @@ Section 2256, act Aug. 1, 1946, ch. 724, §206, as added Aug. 30, 1954, ch. 1073
 
 Section 2257, act Aug. 1, 1946, ch. 724, §207, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 957, required that Committee keep records of all Committee actions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Act Aug. 1, 1946, ch. 724, title I, §302(a), as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944, provided that the repeal of sections 2251 to 2257 is effective Sept. 20, 1977.

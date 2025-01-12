@@ -14,6 +14,8 @@
 
 (Pub. L. 95–626, title IV, §404, Nov. 10, 1978, 92 Stat. 3591; Pub. L. 100–177, title I, §106(b), Dec. 1, 1987, 101 Stat. 989.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), is Pub. L. 95–626, Nov. 10, 1978, 92 Stat. 3551, known as the Health Services and Centers Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 201 of this title and Tables.
@@ -25,6 +27,8 @@ Section was enacted as part of the Health Services and Centers Amendments of 197
 #### Amendments ####
 
 **1987**—Subsec. (a). Pub. L. 100–177 substituted "on March 15, 1990, and on March 15 of every third year thereafter" for "on December 1, 1980, and on December 1 of every third year thereafter" in first sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1987 Amendment ####
 

@@ -1,5 +1,7 @@
 ### Division E—National Civilian Community Corps ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Subtitle E of title I of Pub. L. 101–610, comprising this division, was formerly classified to part H (§12653 et seq.) of this subchapter prior to amendment by Pub. L. 103–82, §104(b).

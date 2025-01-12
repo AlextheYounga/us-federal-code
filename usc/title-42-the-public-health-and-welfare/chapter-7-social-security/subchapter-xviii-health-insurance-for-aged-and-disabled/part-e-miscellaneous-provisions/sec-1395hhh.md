@@ -82,6 +82,8 @@ There shall be no administrative or judicial review of any determination made by
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1897, as added Pub. L. 108–173, title X, §1016, Dec. 8, 2003, 117 Stat. 2447; amended Pub. L. 109–13, div. A, title VI, §6045(a), (b), May 11, 2005, 119 Stat. 294.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(A), is classified generally to Title 26, Internal Revenue Code.
@@ -97,6 +99,8 @@ Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted "legislature" aft
 Subsec. (c)(3). Pub. L. 109–13, §6045(a)(2), added par. (3).
 
 Subsec. (i). Pub. L. 109–13, §6045(b), added subsec. (i).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2005 Amendment ####
 

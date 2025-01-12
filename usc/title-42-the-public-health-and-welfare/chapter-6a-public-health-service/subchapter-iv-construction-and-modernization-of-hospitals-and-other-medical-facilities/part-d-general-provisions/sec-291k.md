@@ -18,6 +18,8 @@ The Council is authorized to appoint such special advisory or technical committe
 
 (July 1, 1944, ch. 373, title VI, §641, formerly §621, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 458, renumbered §641, Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344; amended Pub. L. 91–515, title VI, §601(b)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 111–256, §2(f)(4), Oct. 5, 2010, 124 Stat. 2644.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those comprising this section were contained in subsec. (b) of a prior section 291k, act July 1, 1944, ch. 373, title VI, §633, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 24, 1948, ch. 621, §6(b), 62 Stat. 602; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, prior to the general amendment of this subchapter by Pub. L. 88–443.
@@ -28,11 +30,11 @@ Provisions similar to those comprising this section were contained in subsec. (b
 
 **1970**—Subsec. (e). Pub. L. 91–515 struck out subsec. (e) which related to payment of compensation and travel expenses of appointed Council members and members of advisory or technical committees while serving on Council business.
 
-#### Transfer of Functions ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+#### Change of Name ####
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Terms of Federal Hospital Council Members ####
 
@@ -45,3 +47,9 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 #### Definitions ####
 
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.

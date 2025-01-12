@@ -88,6 +88,8 @@ Nothing in this section shall be construed to preempt any provision of a State c
 
 (Pub. L. 104–193, title I, §104, Aug. 22, 1996, 110 Stat. 2161.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 103(a) of this Act, referred to in subsec. (a)(2)(A), means section 103(a) of Pub. L. 104–193, which enacted this part and struck out former part A of this subchapter, except for section 618. For complete classification of section 103(a) to the Code, see Tables.
@@ -97,6 +99,8 @@ Titles I and II of this Act, referred to in subsec. (a)(2)(B), means titles I an
 #### Codification ####
 
 Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Social Security Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

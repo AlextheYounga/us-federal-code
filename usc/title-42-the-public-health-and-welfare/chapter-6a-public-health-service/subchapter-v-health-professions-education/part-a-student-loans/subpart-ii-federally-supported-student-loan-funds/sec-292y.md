@@ -44,6 +44,8 @@ For the purpose of making Federal capital contributions to student loan funds es
 
 (July 1, 1944, ch. 373, title VII, §735, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2021; amended Pub. L. 102–531, title III, §313(a)(1), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 103–43, title XX, §2014(d), June 10, 1993, 107 Stat. 217; Pub. L. 105–392, title I, §134(c), Nov. 13, 1998, 112 Stat. 3578.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 735 of act July 1, 1944, was classified to section 294h of this title prior to the general revision of this subchapter by Pub. L. 102–408.
@@ -55,6 +57,8 @@ A prior section 735 of act July 1, 1944, was classified to section 294h of this 
 **1993**—Subsec. (f). Pub. L. 103–43 added subsec. (f).
 
 **1992**—Subsec. (b). Pub. L. 102–531 inserted designations for cls. (A) and (B) in first sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

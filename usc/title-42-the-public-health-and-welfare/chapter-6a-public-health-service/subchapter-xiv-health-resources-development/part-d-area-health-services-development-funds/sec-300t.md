@@ -28,6 +28,8 @@ For the purpose of making payments pursuant to grants under subsection (a), ther
 
 (July 1, 1944, ch. 373, title XVI, §1640, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2273; amended Pub. L. 95–83, title I, §103(c), Aug. 1, 1977, 91 Stat. 383; Pub. L. 96–79, title I, §127(e), Oct. 4, 1979, 93 Stat. 629.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 300l–2, 300l–4, and 300n–4 of this title, referred to in subsec. (a), were repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.

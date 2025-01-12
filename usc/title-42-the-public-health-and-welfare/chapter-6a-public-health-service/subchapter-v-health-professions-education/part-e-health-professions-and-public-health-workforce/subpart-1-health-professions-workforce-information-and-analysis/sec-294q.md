@@ -278,6 +278,8 @@ The term "health professionals" includes—
 
 (Pub. L. 111–148, title V, §5101, title X, §10501(a), Mar. 23, 2010, 124 Stat. 592, 993; Pub. L. 113–128, title V, §512(y), July 22, 2014, 128 Stat. 1716.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 5 of the Federal Advisory Committee Act, referred to in subsec. (c)(1), is section 5 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -323,6 +325,8 @@ Section 294q–3, act July 1, 1944, ch. 373, title VII, §747, formerly §745, a
 Subsec. (d)(4)(A)(iv), (v). Pub. L. 111–148, §10501(a)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
 
 Subsec. (i)(2)(A), (C). Pub. L. 111–148, §10501(a)(3), which directed insertion of "optometrists, ophthalmologists," after "occupational therapists," in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words "occupational therapists," do not appear in subpar. (B).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—NATIONAL RESEARCH INSTITUTES ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title IV of the Public Health Service Act, comprising this subchapter, was originally enacted by act July 1, 1944, ch. 373, 58 Stat. 707, at which time title IV related solely to the National Cancer Institute. Because of the extensive amendments, reorganization of the subject matter, and expansion of title IV by the acts listed below, title IV is shown herein as having been added by Pub. L. 99–158, without reference to intervening amendments.

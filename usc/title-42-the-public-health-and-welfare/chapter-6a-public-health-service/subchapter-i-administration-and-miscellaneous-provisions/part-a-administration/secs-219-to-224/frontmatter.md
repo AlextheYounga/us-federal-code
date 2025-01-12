@@ -1,5 +1,7 @@
 ### §§219 to 224. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 219, acts July 1, 1944, ch. 373, title V, §501, 58 Stat. 709; July 3, 1946, ch. 538, §10, 60 Stat. 425; June 16, 1948, ch. 481, §6(b), 62 Stat. 469; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 15, 1968, Pub. L. 90–574, title V, §503(b), 82 Stat. 1012; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, which related to gifts for the benefit of the Service, was successively renumbered by subsequent acts and transferred, see section 238 of this title.

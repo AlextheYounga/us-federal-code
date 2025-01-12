@@ -1,5 +1,7 @@
 ### §§729 to 729a, 731. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 729, act Aug. 14, 1935, ch. 531, title V, §531, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended Jan. 2, 1968, Pub. L. 90–248, title III, §303, 81 Stat. 929, related to maternity and infant care projects, authorized appropriations of $5,000,000; $15,000,000; $30,000,000; and $35,000,000 for fiscal years ending June 30, 1964, 1965, 1966 and 1967, and 1968, respectively; provided for grants to State health agencies, limitations on payments, scope of projects, health hazards, low-income families, other reasons for lack of health care; and provided for payments to States, adjustments, advances or reimbursement, installments, and conditions, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301. See sections 701 and 702 of this title. Section 531 of act Aug. 14, 1935, as originally enacted, appropriated funds for vocational rehabilitation, and was classified to section 45b of Title 29, Labor. It was omitted as superseded by section 31 of Title 29.

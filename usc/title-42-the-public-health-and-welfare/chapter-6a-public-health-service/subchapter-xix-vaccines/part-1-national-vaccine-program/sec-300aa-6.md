@@ -6,6 +6,8 @@
 
 (July 1, 1944, ch. 373, title XXI, §2106, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 101–502, §4, Nov. 3, 1990, 104 Stat. 1286; Pub. L. 108–276, §2(c), July 21, 2004, 118 Stat. 842.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300aa–6, act July 1, 1944, §2107, was successively renumbered by subsequent acts and transferred, see section 238d of this title.

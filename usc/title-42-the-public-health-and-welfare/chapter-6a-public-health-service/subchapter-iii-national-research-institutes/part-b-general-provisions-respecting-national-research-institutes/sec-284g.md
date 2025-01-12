@@ -66,6 +66,8 @@ The Director shall under subsection (a)(1) provide for means through which the p
 
 (July 1, 1944, ch. 373, title IV, §409C, as added Pub. L. 106–310, div. A, title I, §101, Oct. 17, 2000, 114 Stat. 1105; amended Pub. L. 109–416, §§2(a), 4(b), Dec. 19, 2006, 120 Stat. 2821, 2830; Pub. L. 109–482, title I, §§103(b)(9), 104(b)(1)(D), Jan. 15, 2007, 120 Stat. 3687, 3693; Pub. L. 116–60, §2, Sept. 30, 2019, 133 Stat. 1110.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 409C of act July 1, 1944, was renumbered section 409G and is classified to section 284k of this title.
@@ -91,6 +93,8 @@ Subsec. (b)(1), (2). Pub. L. 109–416, §2(a)(2), substituted "autism spectrum 
 Subsecs. (c), (d). Pub. L. 109–416, §2(a)(2), substituted "autism spectrum disorder" for "autism".
 
 Subsec. (e). Pub. L. 109–416, §4(b), struck out heading and text of subsec. (e). Text read as follows: "There are authorized to be appropriated such sums as may be necessary to carry out this section. Amounts appropriated under this subsection are in addition to any other amounts appropriated for such purpose."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

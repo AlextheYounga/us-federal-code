@@ -120,6 +120,8 @@ An institution or postgraduate training program attended by a borrower may assis
 
 (July 1, 1944, ch. 373, title VII, §707, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2002; amended Pub. L. 103–43, title XX, §2014(a)(2), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §§142(a), (b), 144(a), Nov. 13, 1998, 112 Stat. 3579, 3581.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
@@ -143,6 +145,8 @@ Subsec. (g). Pub. L. 105–392, §144(a), substituted "Notwithstanding any other
 **1993**—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;".
 
 Subsec. (j). Pub. L. 103–43, §2014(a)(2)(B), added subsec. (j).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

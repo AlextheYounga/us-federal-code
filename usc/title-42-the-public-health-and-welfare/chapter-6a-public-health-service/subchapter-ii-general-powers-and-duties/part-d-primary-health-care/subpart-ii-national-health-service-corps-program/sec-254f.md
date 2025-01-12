@@ -80,6 +80,8 @@ Notwithstanding any other law, any member of the Corps licensed to practice medi
 
 (July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 110–355, §3(c), Oct. 8, 2008, 122 Stat. 3993.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (a)(1)(D)(ii)(VI). Pub. L. 110–355 added subcl. (VI).
@@ -143,6 +145,8 @@ Subsec. (g). Pub. L. 97–35, §2703(d), (e), redesignated former subsec. (f) as
 Subsec. (h). Pub. L. 97–35, §2703(d), (f), redesignated former subsec. (g) as (h) and directed that "may" be substituted for "shall" which was executed by substituting "may" for "shall" in two places preceding par. (1). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 97–35, §2703(d), (g), redesignated former subsec. (h) as (i) and inserted reference to other health profession.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2003 Amendment ####
 

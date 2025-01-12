@@ -48,9 +48,13 @@ A hospital dissatisfied with a determination of the Secretary on its application
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1884, as added Pub. L. 97–35, title XXI, §2101(a)[(1)], Aug. 13, 1981, 95 Stat. 785; amended Pub. L. 97–248, title I, §128(a)(6), Sept. 3, 1982, 96 Stat. 366.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1982**—Subsec. (d). Pub. L. 97–248 redesignated second subsec. (c), relating to hearing to review determination, as subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1982 Amendment ####
 

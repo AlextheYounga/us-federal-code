@@ -64,4 +64,32 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this s
 
 Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
 
-[<sup>1</sup> Another section 118a is set out preceding this section.](#118a_1)
+[<sup>1</sup> Another section 118a is set out preceding this section.](#118a_1)e year as the report and the applicable future-years defense program.
+
+(K) An assessment of the extent to which wargames incorporate logistics capabilities and threats and a description of the logistics constraints and restraints to operations identified through such wargames.
+
+(L) An assessment of the ability of the Department of Defense, the Armed Forces, and the combatant commands to leverage and integrate emergent logistics related technologies and advanced computing systems.
+
+(M) Such other matters the Secretary of Defense considers appropriate.
+
+(2) In preparing the report under paragraph (1), the Secretary of Defense shall consult with, and consider the recommendations of, the Chairman of the Joint Chiefs of Staff.
+
+(3) The report required under this subsection shall be submitted in classified form and shall include an unclassified summary.
+
+(c) Comptroller General Review.—Not later than 180 days after the date on which Secretary submits each report required under subsection (b), the Comptroller General shall submit to the congressional defense committees a report that includes an assessment of each of the following:
+
+(1) Whether the report includes each of the elements referred to in subsection (b).
+
+(2) The strengths and weaknesses of the approach and methodology used in conducting the review required under subsection (a) that is covered by the report.
+
+(3) Any other matters relating to sustainment that may arise from the report, as the Comptroller General considers appropriate.
+
+(d) Relationship to Budget.—Nothing in this section shall be construed to affect section 1105(a) of title 31.
+
+(Added Pub. L. 116–283, div. A, title III, §341(a), Jan. 1, 2021, 134 Stat. 3535.)
+
+#### Deadline for Submittal of First Report ####
+
+Pub. L. 116–283, div. A, title III, §341(c), Jan. 1, 2021, 134 Stat. 3537, provided that: "Notwithstanding the deadline in subsection (b)(1) of section 118a of title 10, United States Code, as added by subsection (a), the Secretary of Defense shall submit the first report under such section not later than the date that is 18 months after the date of the enactment of this Act [Jan. 1, 2021], unless a new National Defense Strategy is released prior to such date."
+
+[<sup>1</sup> Another section 118a is set out after this section.](#118a_1)

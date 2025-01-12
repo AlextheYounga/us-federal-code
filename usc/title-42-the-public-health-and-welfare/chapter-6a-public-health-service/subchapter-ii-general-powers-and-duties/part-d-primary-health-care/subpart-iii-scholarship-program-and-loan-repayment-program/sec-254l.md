@@ -116,6 +116,8 @@ Notwithstanding any other provision of law, individuals who have entered into wr
 
 (July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 [title I, §101(b)(4)(K)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3021, 3035; Pub. L. 107–251, title III, §309, Oct. 26, 2002, 116 Stat. 1649; Pub. L. 108–163, §2(j), Dec. 6, 2003, 117 Stat. 2022.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
@@ -203,6 +205,8 @@ Subsec. (j). Pub. L. 97–35, §2709(b)(7), struck out subsec. (j) which related
 Subsec. (i). Pub. L. 95–623 substituted March 1 for December 1 as the date for Secretary's annual report to Congress.
 
 **1977**—Subsec. (d)(2). Pub. L. 95–215 substituted provisions relating to the school years beginning in calendar years 1978 and 1979 for provisions relating to the school year ending in the fiscal year beginning Oct. 1, 1977.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

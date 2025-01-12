@@ -1,5 +1,7 @@
 ### §§300v to 300v–3. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 300v to 300v–3, which provided for the establishment, duties, administration, funding, and termination of the President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research, were omitted pursuant to section 300v–3, which provided for the Commission's termination on Dec. 31, 1982. See 48 F.R. 34408.

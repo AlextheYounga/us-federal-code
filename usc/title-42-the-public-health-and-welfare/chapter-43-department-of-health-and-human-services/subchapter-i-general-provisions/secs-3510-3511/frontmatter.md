@@ -1,5 +1,7 @@
 ### §§3510, 3511. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 3510, Pub. L. 91–667, title II, Jan. 11, 1971, 84 Stat. 2015, which related to the Working Capital Fund, was transferred to section 3513a of this title.

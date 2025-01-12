@@ -56,6 +56,8 @@ No grant may be made or contract entered into under this subchapter unless an ap
 
 (July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (c), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -88,6 +90,8 @@ Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted "To carry out this subchap
 
 Pub. L. 96–32 inserted "(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title)" after "grants and contracts under this subchapter".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 For short title of title I of Pub. L. 94–317, which enacted this subchapter as the "National Consumer Health Information and Health Promotion Act of 1976", see section 101 of Pub. L. 94–317, set out as a Short Title of 1976 Amendments note under section 201 of this title.
@@ -95,6 +99,8 @@ For short title of title I of Pub. L. 94–317, which enacted this subchapter as
 #### Model Programs for Employee Health Promotion and Disease Prevention; Development Completion ####
 
 Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Services, not later than 18 months after Nov. 4, 1988, to complete development of model programs required in section 1701(a)(7)(A) of the Public Health Service Act (subsec. (a)(7)(A) of this section).
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 12345 ####
 

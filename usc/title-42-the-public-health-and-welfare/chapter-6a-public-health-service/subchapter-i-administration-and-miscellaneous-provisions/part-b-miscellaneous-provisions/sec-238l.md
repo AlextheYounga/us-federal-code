@@ -38,6 +38,8 @@ The right of recovery of the United States under subsection (a) shall not, prior
 
 (July 1, 1944, ch. 373, title II, §243, formerly title V, §515, formerly Pub. L. 88–164, title II, §225, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 326; amended Pub. L. 95–622, title I, §110(c), Nov. 9, 1978, 92 Stat. 3420; renumbered title V, §515, and amended Pub. L. 97–35, title IX, §902(e)(2)(A), Aug. 13, 1981, 95 Stat. 560; renumbered title XXI, §2115, Pub. L. 98–24, §2(a)(1), Apr. 26, 1983, 97 Stat. 176; Pub. L. 99–129, title II, §226(a), Oct. 22, 1985, 99 Stat. 546; renumbered title XXIII, §2315, Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3755; renumbered title XXV, §2513, Pub. L. 100–607, title II, §201(1), (3), Nov. 4, 1988, 102 Stat. 3062, 3063; renumbered title XXVI, §2613, Pub. L. 100–690, title II, §2620(a), Nov. 18, 1988, 102 Stat. 4244; renumbered title XXVII, §2713, Pub. L. 101–381, title I, §101(1), (2), Aug. 18, 1990, 104 Stat. 576; Pub. L. 102–229, title II, §208, Dec. 12, 1991, 105 Stat. 1716; Pub. L. 102–239, §1, Dec. 17, 1991, 105 Stat. 1912; renumbered title II, §243, Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Community Mental Health Centers Act, referred to in subsec. (a), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560. Section 222 of the Community Mental Health Centers Act was classified to section 2689j of this title prior to its repeal.
@@ -61,6 +63,8 @@ the United States shall be entitled to recover from either the transferor or the
 **1981**—Pub. L. 97–35 substituted "the Community Mental Health Centers Act" for "this subchapter" and "section 222 of the Community Mental Health Centers Act" for "section 2689j of this title".
 
 **1978**—Pub. L. 95–622 substituted "this subchapter" for "this part".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1985 Amendment ####
 

@@ -24,6 +24,8 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 (July 1, 1944, ch. 373, title VII, §711, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2007.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (b)(1), "chapter 91 of title 31" was substituted for "the Government Corporation Control Act" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

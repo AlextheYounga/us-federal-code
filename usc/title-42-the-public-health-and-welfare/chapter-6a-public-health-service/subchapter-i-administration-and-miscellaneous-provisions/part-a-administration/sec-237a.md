@@ -50,6 +50,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title II, §229, as added Pub. L. 111–148, title III, §3509(a)(1), Mar. 23, 2010, 124 Stat. 531.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Construction ####
 
 Pub. L. 111–148, title III, §3509(j), Mar. 23, 2010, 124 Stat. 537, provided that: "Nothing in this section [enacting this section, sections 242s, 299b–24a, and 914 of this title and section 399b of Title 21, Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section] (or the amendments made by this section) shall be construed to limit the authority of the Secretary of Health and Human Services with respect to women's health, or with respect to activities carried out through the Department of Health and Human Services on the date of enactment of this section [Mar. 23, 2010]."

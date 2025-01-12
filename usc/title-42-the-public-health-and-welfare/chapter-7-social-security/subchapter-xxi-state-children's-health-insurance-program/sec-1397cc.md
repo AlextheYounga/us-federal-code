@@ -260,6 +260,8 @@ The State child health plan shall provide for the application of subsections (a)
 
 (Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–2, title IX, §9821(a), Mar. 11, 2021, 135 Stat. 219.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 March 18, 2020, referred to in subsec. (c)(10), was in the original "the date of the enactment of this subparagraph", and was translated as if it had read "the date of the enactment of this paragraph" to reflect the probable intent of Congress.
@@ -313,6 +315,8 @@ Subsec. (e)(2). Pub. L. 111–3, §111(b)(1), inserted "or pregnancy-related ass
 Subsec. (e)(3)(C). Pub. L. 111–3, §504(a), added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 111–3, §403(a), added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

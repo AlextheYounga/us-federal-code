@@ -214,6 +214,8 @@ There are authorized to be appropriated to carry out this section $79,500,000 fo
 
 (July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §4, Oct. 8, 2008, 122 Stat. 3994; Pub. L. 116–136, div. A, title III, §3213, Mar. 27, 2020, 134 Stat. 370.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July 29, 1975, Pub. L. 94–63, title V, §501(a), 89 Stat. 342; amended Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(b), 90 Stat. 415; Aug. 1, 1977, Pub. L. 95–83, title III, §304, 91 Stat. 388; Nov. 10, 1978, Pub. L. 95–626, title I, §104(a)–(d)(3)(B), (4), (5), (e), (f), 92 Stat. 3556–3559; July 10, 1979, Pub. L. 96–32, §§6(b)–(d), 7(c), 93 Stat. 83, 84; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 19, 1980, Pub. L. 96–470, title I, §106(e), 94 Stat. 2238; Aug. 13, 1981, Pub. L. 97–35, title IX, §§903(a), 905, 906, 95 Stat. 561, 562; Jan. 4, 1983, Pub. L. 97–414, §8(e), 96 Stat. 2060; Apr. 24, 1986, Pub. L. 99–280, §§2–4, 100 Stat. 399, 400; Aug. 10, 1988, Pub. L. 100–386, §§3, 4, 102 Stat. 921, 923; Nov. 4, 1988, Pub. L. 100–607, title I, §163(3), 102 Stat. 3062; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(5), 103 Stat. 2207; Nov. 6, 1990, Pub. L. 101–527, §9(a), 104 Stat. 2332; Oct. 27, 1992, Pub. L. 102–531, title III, §309(b), 106 Stat. 3500, related to community health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
@@ -275,6 +277,8 @@ Subsec. (j). Pub. L. 116–136, §3213(7), substituted "$79,500,000 for each of 
 **2003**—Subsec. (b)(4). Pub. L. 108–163 substituted "section 295p(6)" for "section 295p".
 
 **2002**—Pub. L. 107–251 amended section generally. Prior to amendment, section related to a rural health outreach, network development, and telemedicine grant program, and in subsec. (a), provided for administration by the Office of Rural Health Policy; in subsec. (b), set out the objectives of grants; in subsec. (c), set out eligibility requirements; in subsec. (d), described preferred characteristics of applicant networks; in subsec. (e), specified permitted uses of grant funds; in subsec. (f), limited the duration of grants; and in subsec. (g), authorized appropriations.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2003 Amendment ####
 
@@ -353,6 +357,8 @@ Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: "Not later 
 "(5) determines the extent to which primary care physicians are enhancing their medical knowledge and experience through the interaction with specialists provided by telemedicine consultations; and
 
 "(6) identifies legal and medical issues relating to State licensing of health professionals that are presented by telemedicine services, and provides any recommendations of the Secretary for responding to such issues."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13941. Improving Rural Health and Telehealth Access ####
 

@@ -28,6 +28,8 @@ The Secretary shall submit to the appropriate committees of the Congress reports
 
 (July 1, 1944, ch. 373, title XXVI, §2628, as added Pub. L. 106–345, title II, §213, Oct. 20, 2000, 114 Stat. 1342; amended Pub. L. 109–415, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this section, referred to in subsec. (a)(2), is Oct. 20, 2000. See section 601 of Pub. L. 106–345, set out as an Effective Date of 2000 Amendment note under section 300ff–12 of this title.
@@ -43,6 +45,8 @@ A prior section 2628 of act July 1, 1944, was classified to section 300ff–36 o
 **2006**—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsec. (a)(1)(B). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment; Revival of Section ####
 

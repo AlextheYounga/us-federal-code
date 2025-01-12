@@ -1,5 +1,7 @@
 ### §§11601 to 11610. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 11601, Pub. L. 100–300, §2, Apr. 29, 1988, 102 Stat. 437, which provided findings and declarations related to the International Child Abduction Remedies Act, was transferred to section 9001 of Title 22, Foreign Relations and Intercourse.

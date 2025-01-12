@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—ESTABLISHMENT OF BUREAU OF JUSTICE ASSISTANCE ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter IV, consisting of sections 3741 to 3748, related to block grants by Bureau of Justice Assistance, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.

@@ -66,6 +66,8 @@ The term "State" means any of the several States, the District of Columbia, the 
 
 (July 1, 1944, ch. 373, title XXIX, §2901, as added Pub. L. 109–442, §2, Dec. 21, 2006, 120 Stat. 3291.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Older Americans Act of 1965, referred to in par. (4)(A), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.

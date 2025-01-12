@@ -46,6 +46,8 @@ In carrying out the duties established in subsection (b), the Director may make 
 
 (July 1, 1944, ch. 373, title V, §507, as added Pub. L. 102–321, title I, §107(2), July 10, 1992, 106 Stat. 335; amended Pub. L. 106–310, div. B, title XXXI, §3112(a), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 108–173, title IX, §900(e)(2)(B), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 114–255, div. B, title VI, §6007(c), Dec. 13, 2016, 130 Stat. 1214; Pub. L. 115–271, title VII, §7063(b), (c), Oct. 24, 2018, 132 Stat. 4020.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 290bb, act July 1, 1944, ch. 373, title V, §510, formerly Pub. L. 91–616, title V, §501, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038; amended Pub. L. 95–622, title II, §268(c), (d), Nov. 9, 1978, 92 Stat. 3437; Pub. L. 96–180, §14, Jan. 2, 1980, 93 Stat. 1305; renumbered §510 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 19, 1984, Pub. L. 98–509, title II, §§205(a)(1), 206(c)(1), 98 Stat. 2361, 2362, related to encouragement of alcohol abuse and alcoholism research, prior to repeal by Pub. L. 102–321, §122(b)(1). Prior to repeal, section 510(b) of act July 1, 1944, was renumbered section 464H(b) by Pub. L. 102–321 and transferred to section 285n(b) of this title.
@@ -81,6 +83,8 @@ Subsec. (b)(8) to (12). Pub. L. 106–310, §3112(a)(1), redesignated pars. (6) 
 Subsec. (b)(13). Pub. L. 106–310, §3112(a)(1), (4), redesignated par. (11) as (13) and substituted "treatment, which shall" for "treatment, including the effect of living in housing provided by programs established under section 300x–25 of this title, which shall".
 
 Subsec. (b)(14). Pub. L. 106–310, §3112(a)(1), (5), redesignated par. (12) as (14) and substituted "paragraph (13)" for "paragraph (11)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

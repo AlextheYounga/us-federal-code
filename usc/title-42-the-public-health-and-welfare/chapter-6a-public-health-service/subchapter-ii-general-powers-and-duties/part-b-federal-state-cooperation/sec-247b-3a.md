@@ -14,6 +14,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 106–310, div. A, title XXV, §2503, Oct. 17, 2000, 114 Stat. 1163; Pub. L. 108–173, title IX, §900(e)(6)(E), Dec. 8, 2003, 117 Stat. 2374.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Children's Health Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.

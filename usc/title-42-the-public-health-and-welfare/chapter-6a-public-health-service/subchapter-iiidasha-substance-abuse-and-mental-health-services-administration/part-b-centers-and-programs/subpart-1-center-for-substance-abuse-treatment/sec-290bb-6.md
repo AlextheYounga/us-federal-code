@@ -28,6 +28,8 @@ Prior to notifying States of the availability of space at military facilities un
 
 (July 1, 1944, ch. 373, title V, §513, formerly §561, as added Pub. L. 100–690, title II, §2081(a), Nov. 18, 1988, 102 Stat. 4215; renumbered §513 and amended Pub. L. 102–321, title I, §112(a), (b)(1), July 10, 1992, 106 Stat. 344, 345.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Defense Authorization Act of 1989, referred to in subsec. (a)(1), probably means the National Defense Authorization Act, Fiscal Year 1989, Pub. L. 100–456, Sept. 29, 1988, 102 Stat. 1918. For complete classification of this Act to the Code, see Tables.
@@ -47,6 +49,8 @@ Another prior section 513 of act July 1, 1944, which was classified to section 2
 #### Amendments ####
 
 **1992**—Subsec. (a). Pub. L. 102–321, §112(b)(1), substituted provisions relating to Center for Substance Abuse Treatment for provisions relating to National Institute on Drug Abuse in heading and text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

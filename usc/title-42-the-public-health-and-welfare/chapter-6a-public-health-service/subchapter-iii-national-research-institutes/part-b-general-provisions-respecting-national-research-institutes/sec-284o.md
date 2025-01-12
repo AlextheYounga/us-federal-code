@@ -38,6 +38,8 @@ The Director may provide for a mechanism to educate and disseminate information 
 
 (Pub. L. 111–11, title XIV, §14101, Mar. 30, 2009, 123 Stat. 1452.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Christopher and Dana Reeve Paralysis Act, and also as part of the Omnibus Public Land Management Act of 2009, and not as part of the Public Health Service Act which comprises this chapter.

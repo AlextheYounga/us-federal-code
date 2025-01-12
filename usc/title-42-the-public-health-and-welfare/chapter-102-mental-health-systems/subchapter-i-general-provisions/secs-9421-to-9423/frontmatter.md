@@ -6,6 +6,8 @@ Section 9422, Pub. L. 96–398, title I, §106, Oct. 7, 1980, 94 Stat. 1570, rel
 
 Section 9423, Pub. L. 96–398, title I, §107(a)–(c), Oct. 7, 1980, 94 Stat. 1570, related to allotments to improve State administration of mental health programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 238l of this title.

@@ -1,5 +1,7 @@
 ### §§1776a, 1776b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1776a, Pub. L. 103–111, title IV, Oct. 21, 1993, 107 Stat. 1071, conditioned the distribution of funds under section 1776 of this title upon agreement by a State to participate in studies and surveys of programs authorized under this chapter or the preceding chapter, when such studies or surveys were directed by Congress and requested by the Secretary of Agriculture, and was not repeated in the Agricultural, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1995. See section 1776(h) of this title.

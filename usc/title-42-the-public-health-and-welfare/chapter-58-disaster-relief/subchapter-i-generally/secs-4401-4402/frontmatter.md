@@ -4,6 +4,8 @@ Section 4401, Pub. L. 91–606, title I, §101, Dec. 31, 1970, 84 Stat. 1744, re
 
 Section 4402, Pub. L. 91–606, title I, §102, Dec. 31, 1970, 84 Stat. 1745, related to definitions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 4401 and 4402 effective Apr. 1, 1974, see section 605 of Pub. L. 93–288, formerly set out as an Effective Date note under section 5121 of this title.
@@ -35,6 +37,8 @@ Pub. L. 91–606, title III, §303, Dec. 31, 1970, 84 Stat. 1759, provided that 
 #### Report to Congress; Proposals for Legislation ####
 
 Pub. L. 92–385, §3, Aug. 16, 1972, 86 Stat. 556, required President to conduct a thorough review of existing disaster relief legislation and to submit a report to Congress not later than Jan. 1, 1973.
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

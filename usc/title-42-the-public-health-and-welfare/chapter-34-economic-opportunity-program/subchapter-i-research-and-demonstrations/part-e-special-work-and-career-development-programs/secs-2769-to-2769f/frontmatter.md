@@ -14,6 +14,8 @@ Section 2769e, Pub. L. 88–452, title I, §166, as added Pub. L. 91–177, titl
 
 Section 2769f, Pub. L. 88–452, title I, §167, as added Pub. L. 91–177, title II, §201, Dec. 30, 1969, 83 Stat. 836, set limitations on Federal assistance.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883, provided that the repeal by that section is effective with respect to fiscal years after June 30, 1974.

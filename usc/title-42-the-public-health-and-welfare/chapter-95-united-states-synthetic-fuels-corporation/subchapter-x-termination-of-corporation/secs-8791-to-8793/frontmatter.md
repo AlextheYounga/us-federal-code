@@ -1,5 +1,7 @@
 ### §§8791 to 8793. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 8791 to 8793 were omitted from the Code in view of termination of United States Synthetic Fuels Corporation. See note below.
@@ -9,6 +11,8 @@ Section 8791, Pub. L. 96–294, title I, §191, June 30, 1980, 94 Stat. 681, rel
 Section 8792, Pub. L. 96–294, title I, §192, June 30, 1980, 94 Stat. 681, related to termination of Corporation's affairs.
 
 Section 8793, Pub. L. 96–294, title I, §193, June 30, 1980, 94 Stat. 681, transferred Corporation's powers to Department of the Treasury.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of United States Synthetic Fuels Corporation ####
 

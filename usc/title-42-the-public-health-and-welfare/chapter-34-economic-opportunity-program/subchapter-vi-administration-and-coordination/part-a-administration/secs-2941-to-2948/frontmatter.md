@@ -18,6 +18,8 @@ Section 2947, Pub. L. 88–452, title VI, §607, Aug. 20, 1964, 78 Stat. 532, re
 
 Section 2948, Pub. L. 88–452, title VI, §608, Aug. 20, 1964, 78 Stat. 532; Pub. L. 94–341, §2(a)(34), July 6, 1976, 90 Stat. 805; Pub. L. 95–568, §13(d), Nov. 2, 1978, 92 Stat. 2435, related to annual reports by Director.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

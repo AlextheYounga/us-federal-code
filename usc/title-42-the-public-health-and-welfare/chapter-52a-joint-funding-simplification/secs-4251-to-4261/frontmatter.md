@@ -22,6 +22,8 @@ Section 4260, Pub. L. 93–510, §11, Dec. 5, 1974, 88 Stat. 1608, provided for 
 
 Section 4261, Pub. L. 93–510, §12, Dec. 5, 1974, 88 Stat. 1608, provided definitions for use in this chapter. See section 7102 of Title 31.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective and Expiration Dates ####
 
 Pub. L. 93–510, §13, Dec. 5, 1974, 88 Stat. 1608, as amended by Pub. L. 96–534, Dec. 16, 1980, 94 Stat. 3164, which provided for the effective and expiration dates of that Act, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068. See section 7112 of Title 31, Money and Finance.

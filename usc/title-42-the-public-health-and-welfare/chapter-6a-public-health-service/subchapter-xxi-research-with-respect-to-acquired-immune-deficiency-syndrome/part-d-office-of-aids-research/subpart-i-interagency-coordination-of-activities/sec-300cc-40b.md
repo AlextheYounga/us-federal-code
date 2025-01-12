@@ -26,6 +26,8 @@ Each coordinating committee shall be composed of representatives of the agencies
 
 (July 1, 1944, ch. 373, title XXIII, §2352, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 193.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 300cc–40a of this title.
@@ -33,6 +35,8 @@ Section was formerly classified to section 300cc–40a of this title.
 #### Prior Provisions ####
 
 A prior section 300cc–40b, act July 1, 1944, ch. 373, title XXIII, §2353, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 194, which required the establishment of a comprehensive plan, was transferred to section 300cc–40c of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Councils ####
 

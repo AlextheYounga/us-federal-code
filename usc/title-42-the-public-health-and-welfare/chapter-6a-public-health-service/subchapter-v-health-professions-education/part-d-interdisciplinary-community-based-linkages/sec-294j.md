@@ -56,6 +56,8 @@ Not later than 2 years after March 23, 2010, and annually thereafter, the Secret
 
 (Pub. L. 111–148, title III, §3508, Mar. 23, 2010, 124 Stat. 530.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.

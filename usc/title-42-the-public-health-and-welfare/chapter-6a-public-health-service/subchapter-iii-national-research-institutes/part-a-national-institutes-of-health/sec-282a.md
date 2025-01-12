@@ -94,6 +94,8 @@ This section may not be construed as affecting the authorities of the Director o
 
 (July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087; Pub. L. 114–255, div. A, title II, §§2001, 2031(b), 2042(a), Dec. 13, 2016, 130 Stat. 1047, 1056, 1073.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (a)(1)(D) to (F). Pub. L. 114–255, §2001, added subpars. (D) to (F).
@@ -115,6 +117,8 @@ Pub. L. 113–94, §3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to
 Subsec. (a)(2). Pub. L. 113–94, §3(b)(1)(C), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
 Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, §3(b)(2), substituted "subsection (a)(1)" for "subsection (a)" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

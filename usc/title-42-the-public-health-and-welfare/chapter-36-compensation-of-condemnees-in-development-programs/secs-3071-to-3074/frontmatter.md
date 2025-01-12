@@ -10,6 +10,8 @@ Section 3074, Pub. L. 89–117, title IV, §404(a), Aug. 10, 1965, 79 Stat. 485;
 
 Subject matter is covered by section 4601 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal not applicable to any State so long as sections 4630 and 4655 of this title are not applicable in such State; but such sections completely applicable to all States after July 1, 1972, but until such date applicable to a State to extent the State is able under its laws to comply with such sections, see section 221 of Pub. L. 91–646, set out as an Effective Date note under section 4601 of this title.

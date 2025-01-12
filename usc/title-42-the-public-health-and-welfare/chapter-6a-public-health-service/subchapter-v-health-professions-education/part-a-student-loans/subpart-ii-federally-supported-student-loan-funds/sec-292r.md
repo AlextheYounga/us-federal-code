@@ -98,6 +98,8 @@ Notwithstanding any other provision of Federal or State law, no limitation shall
 
 (July 1, 1944, ch. 373, title VII, §722, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2012; amended Pub. L. 103–43, title XX, §2014(b), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §134(a), (b)(1), Nov. 13, 1998, 112 Stat. 3577, 3578.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Peace Corps Act, referred to in subsec. (c)(1)(B), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
@@ -129,6 +131,8 @@ Subsec. (m). Pub. L. 105–392, §134(b)(1), added subsec. (m).
 "(2) $2,500."
 
 Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: "who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

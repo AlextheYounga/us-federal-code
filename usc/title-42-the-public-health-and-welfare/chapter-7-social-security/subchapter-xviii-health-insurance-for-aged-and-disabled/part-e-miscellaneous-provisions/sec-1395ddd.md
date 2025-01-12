@@ -354,6 +354,8 @@ Information may only be disclosed by a MEDIC under subparagraph (A) if the discl
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775; Pub. L. 114–10, title V, §§505(b), 510, Apr. 16, 2015, 129 Stat. 167, 170; Pub. L. 114–115, §9(b), Dec. 28, 2015, 129 Stat. 3135; Pub. L. 114–198, title VII, §704(c)(1), July 22, 2016, 130 Stat. 749.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
@@ -407,6 +409,8 @@ Subsec. (h). Pub. L. 109–432 added subsec. (h).
 **2003**—Subsec. (a). Pub. L. 108–173, §736(c)(7), substituted "medicare program" for "Medicare program".
 
 Subsec. (f). Pub. L. 108–173, §935(a), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2016 Amendment ####
 

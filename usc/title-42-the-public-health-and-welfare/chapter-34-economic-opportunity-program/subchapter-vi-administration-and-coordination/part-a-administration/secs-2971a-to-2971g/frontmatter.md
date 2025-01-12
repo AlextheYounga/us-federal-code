@@ -14,6 +14,8 @@ Section 2971f, Pub. L. 88–452, title VI, §626, as added Pub. L. 93–644, §9
 
 Section 2971g, Pub. L. 88–452, title VI, §627, as added Pub. L. 93–644, §9(e), Jan. 4, 1975, 88 Stat. 2314; renumbered §628, Pub. L. 94–341, §2(c), July 6, 1976, 90 Stat. 806; renumbered §627 and amended Pub. L. 95–568, §§13(i), 17(a)(32), Nov. 2, 1978, 92 Stat. 2436, 2442, related to withholding of certain Federal taxes by antipoverty agencies.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

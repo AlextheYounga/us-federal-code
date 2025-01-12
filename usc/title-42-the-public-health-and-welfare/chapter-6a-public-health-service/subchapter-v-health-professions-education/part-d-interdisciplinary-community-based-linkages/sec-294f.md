@@ -80,6 +80,8 @@ The Federal Advisory Committee Act shall apply to the Advisory Committee under t
 
 (July 1, 1944, ch. 373, title VII, §757, formerly §756, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3549; renumbered §757 and amended Pub. L. 111–148, title V, §§5103(d)(2), 5306(a)(2), (b), Mar. 23, 2010, 124 Stat. 606, 626, 628.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -103,6 +105,8 @@ A prior section 757 of act July 1, 1944, was classified to section 294g of this 
 **2010**—Subsec. (b)(2). Pub. L. 111–148, §5306(b), substituted "294a(b)(1)(A), 294c(b), and 294e(b)" for "294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b)".
 
 Subsec. (d)(3) to (5). Pub. L. 111–148, §5103(d)(2), added pars. (3) to (5).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -22,6 +22,8 @@ Section 1855ii, Pub. L. 89–769, §13, Nov. 6, 1966, 80 Stat. 1321, called for 
 
 For provisions relating to disaster relief, see section 5121 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 31, 1970, see section 304 of Pub. L. 91–606, set out as an Effective Date of 1970 Amendment note under section 165 of Title 26, Internal Revenue Code.

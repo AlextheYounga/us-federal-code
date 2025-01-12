@@ -18,6 +18,8 @@ Section 1855g, act Sept. 30, 1950, ch. 1125, §8, 64 Stat. 1111, authorized an a
 
 For provisions relating to disaster relief, see section 5121 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 31, 1970, see section 304 of Pub. L. 91–606, set out as an Effective Date of 1970 Amendment note under section 165 of Title 26, Internal Revenue Code.

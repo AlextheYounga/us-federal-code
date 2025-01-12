@@ -86,6 +86,8 @@ With respect to compliance with this section by an agency, a religious organizat
 
 (July 1, 1944, ch. 373, title V, §582, as added Pub. L. 106–554, §1(a)(7) [title I, §144], Dec. 21, 2000, 114 Stat. 2763, 2763A–620.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 582 of act July 1, 1944, is classified to section 290hh–1 of this title.

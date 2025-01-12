@@ -18,6 +18,8 @@ Section 2814, Pub. L. 88–452, title II, §227, as added Pub. L. 92–424, §14
 
 Section 2815, Pub. L. 88–452, title II, §228, as added Pub. L. 92–424, §14, Sept. 19, 1972, 86 Stat. 694; amended Pub. L. 93–644, §5(a)(2), Jan. 4, 1975, 88 Stat. 2295, related to consumer action and cooperative programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

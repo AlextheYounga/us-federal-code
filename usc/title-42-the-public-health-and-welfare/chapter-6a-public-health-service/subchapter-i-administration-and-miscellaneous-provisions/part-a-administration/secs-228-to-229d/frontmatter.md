@@ -1,5 +1,7 @@
 ### §§228 to 229d. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 228, acts July 1, 1944, ch. 373, title V, §510, 58 Stat. 711; June 25, 1948, ch. 645, §5, 62 Stat. 859, which related to wearing of uniforms, was successively renumbered by subsequent acts and transferred, see section 238g of this title.

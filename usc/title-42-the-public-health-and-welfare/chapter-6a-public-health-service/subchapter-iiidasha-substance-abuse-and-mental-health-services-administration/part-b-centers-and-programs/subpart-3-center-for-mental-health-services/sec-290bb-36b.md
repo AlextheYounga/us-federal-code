@@ -102,6 +102,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title V, §520E–2, as added Pub. L. 108–355, §3(d), Oct. 21, 2004, 118 Stat. 1413; amended Pub. L. 114–255, div. B, title IX, §9031, Dec. 13, 2016, 130 Stat. 1257.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–255, §9031(1), substituted "health and substance use disorder" for "and behavioral health" in section catchline.
@@ -139,6 +141,8 @@ Subsec. (f)(2). Pub. L. 114–255, §9031(7), substituted "health and substance 
 Subsec. (h). Pub. L. 114–255, §9031(9), added subsec. (h). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 114–255, §9031(8), (10), redesignated subsec. (h) as (i) and substituted "$7,000,000 for each of fiscal years 2018 through 2022." for "$5,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Interagency Working Group on College Mental Health ####
 

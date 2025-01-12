@@ -28,6 +28,8 @@ Upon the expiration of the assignment of all Corps members to a health professio
 
 (July 1, 1944, ch. 373, title III, §335, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2275; amended Pub. L. 97–35, title XXVII, §2705, Aug. 13, 1981, 95 Stat. 907; Pub. L. 101–597, title I, §106, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3018, 3035; Pub. L. 107–251, title III, §306, Oct. 26, 2002, 116 Stat. 1648.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (e)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.

@@ -114,11 +114,15 @@ In the case of a grant under subsection (a) to any State specified in subsection
 
 (July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 107–260, §2(a), Oct. 29, 2002, 116 Stat. 1743.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsec. (a). Pub. L. 107–260 designated existing provisions as par. (1), inserted par. (1) heading, substituted "population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data" for "population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data", redesignated former pars. (1) to (5) as subpars. (A) to (E) of par. (1), respectively, and added par. (2).
 
 **2000**—Subsec. (e). Pub. L. 106–310, §502(2)(B), substituted "subsection (b) of section 280e–3 of this title" for "section 280e–3(b) of this title" and "such section" for "section 399C".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

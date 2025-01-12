@@ -12,7 +12,7 @@ Sec.
 
 17012. Advanced battery loan guarantee program.
 
-17013.
+17013. Advanced technology vehicles manufacturing incentive program.
 
 17014. Research and development into integrating electric vehicles onto the electric grid.
 

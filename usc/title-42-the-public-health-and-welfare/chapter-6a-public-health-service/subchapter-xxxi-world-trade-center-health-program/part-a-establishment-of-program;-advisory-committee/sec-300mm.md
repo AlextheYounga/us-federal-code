@@ -170,6 +170,8 @@ The WTC Program shall terminate on October 1, 2090.
 
 (July 1, 1944, ch. 373, title XXXIII, §3301, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, §302(b), Dec. 18, 2015, 129 Stat. 2998.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsecs. (i) to (k). Pub. L. 114–113 added subsecs. (i) to (k).

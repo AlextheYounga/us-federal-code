@@ -1,5 +1,7 @@
 ### §§1454, 1455. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1454, acts July 15, 1949, ch. 338, title I, §104, 63 Stat. 416; Aug. 2, 1954, ch. 649, title III, §306, 68 Stat. 625; Aug. 7, 1956, ch. 1029, title III, §306, 70 Stat. 1101; July 12, 1957, Pub. L. 85–104, title III, §302(2), 71 Stat. 300; June 30, 1961, Pub. L. 87–70, title III, §301(b), 75 Stat. 166, which related to requirements for local grants-in-aid, was omitted pursuant to section 5316 of this title which terminated authority to make grants or loans under this subchapter after Jan. 1, 1975.

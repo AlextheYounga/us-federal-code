@@ -1,5 +1,7 @@
 ### Part K—Health Care Services in the Home and Public Health Programs for Dementia ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 115–406, §2(1), Dec. 31, 2018, 132 Stat. 5362, inserted "and Public Health Programs for Dementia" after "Home" in part heading.

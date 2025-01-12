@@ -4,6 +4,8 @@ Section, act July 1, 1944, ch. 373, title XXIII, §2301, as added Pub. L. 100–
 
 A prior section 300cc, act July 1, 1944, §2301, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.

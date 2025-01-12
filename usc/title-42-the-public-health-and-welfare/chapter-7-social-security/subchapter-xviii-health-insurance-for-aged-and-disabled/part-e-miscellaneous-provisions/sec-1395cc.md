@@ -472,6 +472,8 @@ The Secretary shall establish procedures for making data submitted under paragra
 
 Amendment of section by section 125(b)(1), (2)(A) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023. See 2020 Amendment notes below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1713 of title 38, referred to in subsec. (a)(1)(J), was renumbered section 1781 of title 38 by Pub. L. 107–135, title II, §208(c)(1), (2), Jan. 23, 2002, 115 Stat. 2463.
@@ -869,6 +871,8 @@ Subsec. (a)(2)(C). Pub. L. 90–248, §129(c)(12)(B), substituted "1395e(a)(2)" 
 Pub. L. 90–248, §135(b), authorized a provider of services to charge for blood in accordance with its customary practices, included, in addition to whole blood for which a provider of services may charge, equivalent quantities of packed red blood cells, and provided that blood furnished an individual will be deemed replaced when the provider is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells) furnished the individual to which the three pint deductible applies.
 
 Subsec. (e). Pub. L. 90–248, §133(c), added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

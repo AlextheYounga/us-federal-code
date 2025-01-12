@@ -30,6 +30,8 @@ The authorization of appropriations established in paragraph (1) is not effectiv
 
 (July 1, 1944, ch. 373, title XV, §1509, as added Pub. L. 103–183, title I, §102(a)(2), Dec. 14, 1993, 107 Stat. 2229; amended Pub. L. 105–340, title II, §203(c)(1), Oct. 31, 1998, 112 Stat. 3194.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1509 of act July 1, 1944, was renumbered section 1510 and is classified to section 300n–5 of this title.

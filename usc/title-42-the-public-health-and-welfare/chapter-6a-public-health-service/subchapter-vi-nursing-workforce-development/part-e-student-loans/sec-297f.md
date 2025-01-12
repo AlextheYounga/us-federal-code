@@ -2,6 +2,8 @@
 
 Section, act July 1, 1944, ch. 373, title VIII, §827, as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 917; amended Nov. 3, 1966, Pub. L. 89–751, §6(a), 80 Stat. 1233; Aug. 16, 1968, Pub. L. 90–490, title II, §222(g), 82 Stat. 785; July 9, 1971, Pub. L. 92–52, §3(c), 85 Stat. 145; Nov. 18, 1971, Pub. L. 92–158, §6(d)(2), 85 Stat. 478, set out provisions relating to terms, conditions, limitations, manner of payment, etc., of loans to schools of nursing to capitalize student loan funds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1975, see section 905 of Pub. L. 94–63, set out as an Effective Date of 1975 Amendment note under section 297a of this title.

@@ -14,6 +14,8 @@ Section 2855, Pub. L. 88–452, title III, §306, formerly title VI, §606, Aug.
 
 Section 2856, Pub. L. 88–452, title III, §307, as added Pub. L. 95–568, §8(a)(3), Nov. 2, 1978, 92 Stat. 2428, related to authorization of appropriations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

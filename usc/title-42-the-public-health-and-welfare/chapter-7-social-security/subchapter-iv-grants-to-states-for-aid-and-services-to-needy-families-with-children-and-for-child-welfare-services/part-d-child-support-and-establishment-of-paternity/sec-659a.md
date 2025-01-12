@@ -74,6 +74,8 @@ The term "2007 Family Maintenance Convention" means the Hague Convention of 23 N
 
 (Aug. 14, 1935, ch. 531, title IV, §459A, as added Pub. L. 104–193, title III, §371(a), Aug. 22, 1996, 110 Stat. 2252; amended Pub. L. 113–183, title III, §301(d), Sept. 29, 2014, 128 Stat. 1944.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (c). Pub. L. 113–183, §301(d)(2)(A), substituted "foreign reciprocating countries or foreign treaty countries" for "foreign countries that are the subject of a declaration under this section" in introductory provisions.
@@ -84,9 +86,13 @@ Subsec. (d). Pub. L. 113–183, §301(d)(3), substituted "foreign reciprocating 
 
 Subsec. (e). Pub. L. 113–183, §301(d)(1), added subsec. (e).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 For effective date of section, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13752. Relating to the Implementation of the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance ####
 

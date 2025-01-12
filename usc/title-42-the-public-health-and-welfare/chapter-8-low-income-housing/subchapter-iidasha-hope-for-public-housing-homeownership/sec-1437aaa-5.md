@@ -38,11 +38,15 @@ For purposes of this subchapter:
 
 (Sept. 1, 1937, ch. 896, title III, §306, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4158; amended Pub. L. 104–330, title V, §501(c)(2), Oct. 26, 1996, 110 Stat. 4042.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Par. (1)(A). Pub. L. 104–330, §501(c)(2)(A), struck out "(including an Indian housing authority)" after "agency".
 
 Par. (2)(A). Pub. L. 104–330, §501(c)(2)(B), struck out "or Indian" after "public".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

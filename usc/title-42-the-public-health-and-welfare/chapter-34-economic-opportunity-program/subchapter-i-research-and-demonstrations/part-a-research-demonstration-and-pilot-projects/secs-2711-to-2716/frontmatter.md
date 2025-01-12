@@ -24,6 +24,8 @@ Section 2716, Pub. L. 88–452, title I, §106, as added Pub. L. 95–568, §3(b
 
 A prior section 2716, Pub. L. 88–452, title I, §106, Aug. 20, 1964, 78 Stat. 510; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 674, related to enrollment and assignment of Job Corps enrollees, prior to repeal by Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

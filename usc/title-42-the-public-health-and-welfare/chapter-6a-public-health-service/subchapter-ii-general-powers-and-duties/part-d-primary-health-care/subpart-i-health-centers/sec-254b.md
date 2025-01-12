@@ -704,6 +704,8 @@ In addition to any amounts made available pursuant to this subsection, section 2
 
 (July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283; Pub. L. 116–136, div. A, title III, §3211(a), Mar. 27, 2020, 134 Stat. 368; Pub. L. 116–260, div. BB, title III, §311(c), Dec. 27, 2020, 134 Stat. 2925.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -930,6 +932,8 @@ Subsec. (s)(2)(A). Pub. L. 107–251, §101(11)(B)(i), substituted "(l)(3)" for 
 
 Subsec. (s)(2)(B). Pub. L. 107–251, §101(11)(B)(ii), added subpar. (B) and struck out heading and text of former subpar. (B) relating to distribution of grants for fiscal years 1997 through 1999.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2008 Amendment ####
 
 Pub. L. 110–355, §2(c)(2), Oct. 8, 2008, 122 Stat. 3992, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to grants made on or after January 1, 2009."
@@ -1083,6 +1087,8 @@ Pub. L. 104–299, §4(c), Oct. 11, 1996, 110 Stat. 3645, provided that: "Whenev
 #### Legislative Proposal for Changes Conforming to Pub. L. 104–299 ####
 
 Pub. L. 104–299, §4(e), Oct. 11, 1996, 110 Stat. 3645, provided that: "After consultation with the appropriate committees of the Congress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act [see Short Title of 1996 Amendments note set out under section 201 of this title]."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13937. Access to Affordable Life-Saving Medications ####
 

@@ -42,6 +42,8 @@ For the purposes of carrying out this section, there are authorized to be approp
 
 (July 1, 1944, ch. 373, title III, §330A–1, as added Pub. L. 111–148, title V, §5208(b), Mar. 23, 2010, 124 Stat. 613.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Purpose ####
 
 Pub. L. 111–148, title V, §5208(a), Mar. 23, 2010, 124 Stat. 612, provided that: "The purpose of this section [enacting this section] is to fund the development and operation of nurse-managed health clinics."

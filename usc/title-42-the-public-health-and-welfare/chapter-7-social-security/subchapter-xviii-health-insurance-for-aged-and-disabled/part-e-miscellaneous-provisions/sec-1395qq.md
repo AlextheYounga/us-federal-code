@@ -38,6 +38,8 @@ For provisions relating to the authority of certain Indian tribes, tribal organi
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1880, as added Pub. L. 94–437, title IV, §401(b), Sept. 30, 1976, 90 Stat. 1408; amended Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 106–417, §3(b)(1), Nov. 1, 2000, 114 Stat. 1815; Pub. L. 106–554, §1(a)(6) [title IV, §432(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–525; Pub. L. 108–173, title VI, §630, Dec. 8, 2003, 117 Stat. 2321; Pub. L. 111–148, title II, §2902(a), title X, §10221(a), (b)(4), Mar. 23, 2010, 124 Stat. 333, 935, 936.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1645 of title 25, referred to in subsec. (f), was amended generally by section 10221(a) of title X of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains provisions relating to direct billing of medicare, medicaid, and other third party payors.
@@ -59,6 +61,8 @@ Pub. L. 106–417 added subsec. (e).
 Subsec. (f). Pub. L. 106–554, §1(a)(6) [title IV, §432(a)(1)], redesignated subsec. (e) as (f).
 
 **1992**—Subsec. (d). Pub. L. 102–573 made technical amendment to the reference to section 1671 of title 25 to reflect renumbering of corresponding section of original act.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

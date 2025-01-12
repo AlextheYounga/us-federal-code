@@ -1,5 +1,7 @@
 ### Part H—Comprehensive Geriatric Education ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 111–148, title V, §5310(b)(10)(B), Mar. 23, 2010, 124 Stat. 631, redesignated part I "Comprehensive Geriatric Education" as H.

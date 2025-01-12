@@ -46,9 +46,13 @@ The Director of NIH shall take such actions as may be appropriate to convey to s
 
 (July 1, 1944, ch. 373, title IV, §404C, as added Pub. L. 103–43, title II, §205(a), June 10, 1993, 107 Stat. 146; amended Pub. L. 112–74, div. F, title II, §221(d)(2), Dec. 23, 2011, 125 Stat. 1090.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Subsec. (e)(3)(A). Pub. L. 112–74 struck out "and the Director of the Center for Research Resources" after "institutes".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

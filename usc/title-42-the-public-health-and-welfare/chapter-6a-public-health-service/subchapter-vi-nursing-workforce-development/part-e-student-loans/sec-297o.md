@@ -64,6 +64,8 @@ For the purposes of this section and section 297n–1 of this title, funding pri
 
 (July 1, 1944, ch. 373, title VIII, §847, as added Pub. L. 111–148, title V, §5311(b), Mar. 23, 2010, 124 Stat. 632; amended Pub. L. 116–136, div. A, title III, §3404(a)(10), Mar. 27, 2020, 134 Stat. 394.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 847 of act July 1, 1944, was classified to section 297n of this title prior to repeal by Pub. L. 102–408.

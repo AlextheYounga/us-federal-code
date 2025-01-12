@@ -186,6 +186,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, §3(a), Oct. 30, 2004, 118 Stat. 2203; Pub. L. 113–48, §2, Nov. 13, 2013, 127 Stat. 575; Pub. L. 114–95, title IX, §9215(kkk)(2), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 116–292, §2, Jan. 5, 2021, 134 Stat. 4896.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -211,6 +213,8 @@ Subsec. (d)(3)(E)(i). Pub. L. 116–292, §2(2)(B), inserted "school nurse or" b
 Subsec. (d)(3)(E). Pub. L. 113–48, §2(2), added subpar. (E).
 
 **2004**—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2015 Amendment ####
 

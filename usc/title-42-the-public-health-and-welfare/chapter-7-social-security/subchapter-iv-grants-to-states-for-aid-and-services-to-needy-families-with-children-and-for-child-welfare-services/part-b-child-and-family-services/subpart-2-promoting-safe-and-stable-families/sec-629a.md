@@ -104,6 +104,8 @@ For other definitions of other terms used in this subpart, see section 675 of th
 
 (Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §§50721(a), 50751(a), Feb. 9, 2018, 132 Stat. 245, 262.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this title prior to repeal by Pub. L. 100–485.
@@ -143,6 +145,8 @@ Subsec. (a)(2). Pub. L. 105–89, §305(c)(2)(B), inserted "safety and" before "
 Subsec. (a)(7), (8). Pub. L. 105–89, §305(b)(2), added pars. (7) and (8).
 
 Subsec. (a)(9). Pub. L. 105–89, §305(d)(1), added par. (9).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

@@ -72,6 +72,8 @@ Whenever a reduction in the total of benefits for any month based on an individu
 
 (Aug. 14, 1935, ch. 531, title II, §224, as added Pub. L. 89–97, title III, §335, July 30, 1965, 79 Stat. 406; amended Pub. L. 90–248, title I, §159(a), Jan. 2, 1968, 81 Stat. 869; Pub. L. 92–603, title I, §119(a), (b), Oct. 30, 1972, 86 Stat. 1352; Pub. L. 94–202, §8(j), Jan. 2, 1976, 89 Stat. 1140; Pub. L. 95–216, title II, §205(d), title III, §353(c), Dec. 20, 1977, 91 Stat. 1529, 1553; Pub. L. 97–35, title XXII, §2208(a), Aug. 13, 1981, 95 Stat. 839; Pub. L. 99–272, title XII, §12109(a), Apr. 7, 1986, 100 Stat. 286; Pub. L. 99–509, title IX, §9002(c)(2)(F), Oct. 21, 1986, 100 Stat. 1972; Pub. L. 101–239, title X, §10208(b)(2)(A), (C), (d)(2)(A)(i), (iii), Dec. 19, 1989, 103 Stat. 2477, 2478, 2480, 2481; Pub. L. 103–296, title I, §107(a)(4), title III, §321(e)(2)(H), Aug. 15, 1994, 108 Stat. 1478, 1540; Pub. L. 113–295, div. B, title II, §201(a), Dec. 19, 2014, 128 Stat. 4064.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 422(b) of this title, referred to in subsec. (c), was repealed by Pub. L. 106–170, title I, §101(b)(1)(C), Dec. 17, 1999, 113 Stat. 1873.
@@ -133,6 +135,8 @@ Subsec. (f)(2). Pub. L. 95–216, §353(c)(2), divided existing provisions into 
 **1972**—Subsec. (a). Pub. L. 92–603 added cl. (C) in provisions for the determination of an individual's average current earnings so as to introduce into the formula a factor of one-twelfth of the total wages and self-employment income for the calendar year in which he had the highest such wages and income during the year in which he became disabled and the five years preceding that year.
 
 **1968**—Subsec. (a). Pub. L. 90–248 inserted in cl. (B) of first sentence following par. (8) "(computed without regard to the limitations specified in sections 409(a) and 411(b)(1) of this title)" before "for the five", and inserted last sentence authorizing the Secretary, in certain cases, to estimate the total of wages and self-employment income for purposes of cl. (B) indicating the extent such earnings exceed the limitations in sections 409(a) and 411(b)(1) of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

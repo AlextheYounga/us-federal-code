@@ -42,6 +42,8 @@ If a State permits health insurance issuers that offer coverage in the large gro
 
 (July 1, 1944, ch. 373, title XXVII, §2701, as added and amended Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 300gg, act July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), Oct. 21, 2011, 125 Stat. 419, which related to increased portability through limitation on preexisting condition exclusions, was renumbered section 2704 of act July 1, 1944, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title.
@@ -51,6 +53,8 @@ Another prior section 2701 of act July 1, 1944, was successively renumbered by s
 #### Amendments ####
 
 **2010**—Subsec. (a)(5). Pub. L. 111–148, §10103(a), inserted "(other than self-insured group health plans offered in such market)" after "such market".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

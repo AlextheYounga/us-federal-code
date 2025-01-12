@@ -134,6 +134,8 @@ The information under paragraph (1) shall include information on children who ar
 
 (Aug. 14, 1935, ch. 531, title XXI, §2108, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 566; amended Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §703(b), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–401; Pub. L. 111–3, title II, §201(b)(2)(B)(ii), title IV, §402(a), title V, §501(e)(2), title VI, §§603, 604, Feb. 4, 2009, 123 Stat. 39, 82, 87, 99; Pub. L. 111–8, div. G, title I, §1301(e), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–148, title IV, §4302(b)(1)(B), Mar. 23, 2010, 124 Stat. 581.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (e)(7). Pub. L. 111–148, which directed amendment of subsec. (e) by adding par. (7) at end, was executed to the subsec. (e) added by Pub. L. 111–3, §402(a)(2), relating to information required for inclusion in State annual report, to reflect the probable intent of Congress.
@@ -153,6 +155,8 @@ Subsec. (e). Pub. L. 111–3, §501(e)(2), added subsec. (e) relating to informa
 Pub. L. 111–3, §402(a)(2), added subsec. (e) relating to information required for inclusion in State annual report.
 
 **1999**—Subsecs. (c), (d). Pub. L. 106–113 added subsecs. (c) and (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment ####
 

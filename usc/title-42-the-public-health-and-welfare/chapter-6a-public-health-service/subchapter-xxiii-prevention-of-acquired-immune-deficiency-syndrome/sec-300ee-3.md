@@ -34,6 +34,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (Pub. L. 100–607, title II, §254, Nov. 4, 1988, 102 Stat. 3109.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the AIDS Amendments of 1988 and as part of the Health Omnibus Programs Extension of 1988, and not as part of the Public Health Service Act which comprises this chapter.

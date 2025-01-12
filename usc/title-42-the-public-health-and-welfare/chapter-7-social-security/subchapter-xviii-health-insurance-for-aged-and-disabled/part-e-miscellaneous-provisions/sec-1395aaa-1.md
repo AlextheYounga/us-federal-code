@@ -118,6 +118,8 @@ The Secretary—
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1890A, as added and amended Pub. L. 111–148, title III, §§3013(b), 3014(b), title X, §§10303(b), 10304, Mar. 23, 2010, 124 Stat. 383, 385, 938; Pub. L. 115–271, title VI, §6093, Oct. 24, 2018, 132 Stat. 4001.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (g). Pub. L. 115–271 added subsec. (g).

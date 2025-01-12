@@ -106,6 +106,8 @@ For the purpose of carrying out subsection (d)(2) under the existing authority o
 
 (Pub. L. 106–113, div. B, §1000(a)(4) [title VI, §601], Nov. 29, 1999, 113 Stat. 1535, 1501A–276.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsecs. (b) to (e) and (g), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.

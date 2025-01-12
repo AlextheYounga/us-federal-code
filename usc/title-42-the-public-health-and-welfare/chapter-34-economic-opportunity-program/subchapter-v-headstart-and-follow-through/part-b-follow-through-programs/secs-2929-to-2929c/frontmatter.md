@@ -18,6 +18,8 @@ Section 2929b–3, Pub. L. 88–452, title V, §556, as added Pub. L. 95–568, 
 
 Section 2929c, Pub. L. 88–452, title V, §557, formerly §554, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2308; renumbered §557, Pub. L. 95–568, §11(d)(2), Nov. 2, 1978, 92 Stat. 2433, set forth special conditions for recipients of financial assistance.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.

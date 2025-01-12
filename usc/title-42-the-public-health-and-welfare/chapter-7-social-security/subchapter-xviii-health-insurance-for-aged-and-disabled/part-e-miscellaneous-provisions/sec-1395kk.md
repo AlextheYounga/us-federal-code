@@ -124,6 +124,8 @@ For purpose of paragraph (1)(B)(i), the term "fee-for-service enrollment" means 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, §189(a), July 15, 2008, 122 Stat. 2590; Pub. L. 111–148, title X, §10332(a), Mar. 23, 2010, 124 Stat. 968; Pub. L. 114–10, title I, §105(c), (d), title V, §502(a), Apr. 16, 2015, 129 Stat. 137, 165; Pub. L. 114–255, div. C, title XVII, §17002, Dec. 13, 2016, 130 Stat. 1330.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
@@ -153,6 +155,8 @@ Subsec. (f). Pub. L. 114–10, §502(a), added subsec. (f).
 **1972**—Subsec. (c). Pub. L. 92–603 added subsec. (c).
 
 **1965**—Subsec. (a). Pub. L. 89–97 inserted reference to Railroad Retirement Act of 1937 in first sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

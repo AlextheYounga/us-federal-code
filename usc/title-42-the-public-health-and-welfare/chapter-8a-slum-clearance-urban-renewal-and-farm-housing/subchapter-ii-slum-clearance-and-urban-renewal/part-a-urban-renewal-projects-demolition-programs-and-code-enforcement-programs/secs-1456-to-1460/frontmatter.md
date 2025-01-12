@@ -1,5 +1,7 @@
 ### §§1456 to 1460. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted pursuant to section 5316 of this title which terminated authority to make grants or loans under this subchapter after Jan. 1, 1975.
@@ -13,6 +15,8 @@ Section 1458, acts July 15, 1949, ch. 338, title I, §108, 63 Stat. 419; May 25,
 Section 1459, acts July 15, 1949, ch. 338, title I, §109, 63 Stat. 419; Aug. 2, 1954, ch. 649, title III, §310, 68 Stat. 626; May 25, 1967, Pub. L. 90–19, §6(b), 81 Stat. 21, related to protection of labor standards.
 
 Section 1460, acts July 15, 1949, ch. 338, title I, §110, 63 Stat. 420; June 30, 1953, ch. 170, §24(a), 67 Stat. 127; Aug. 2, 1954, ch. 649, title III, §311, 68 Stat. 626; Aug. 11, 1955, ch. 783, title I, §166(c), 69 Stat. 637; Aug. 7, 1956, ch. 1029, title III, 302(a)(2), (b)–(d), 70 Stat. 1097; July 12, 1957, Pub. L. 85–104, title III, §§302(3)–(5), 305, 306, 71 Stat. 300, 301; Sept. 23, 1959, Pub. L. 86–372, title IV, §§412–414(a), 415, 416, 417(3), 73 Stat. 675, 677; June 30, 1961, Pub. L. 87–70, title III, §§301(c), 306(b), 307, 308, 314(c), 75 Stat. 166, 168, 172; Sept. 2, 1964, Pub. L. 88–560, title III, §§301(b), (c), 303(b), 307–309, 311(a), 78 Stat. 785, 787, 788, 790; Aug. 10, 1965, Pub. L. 89–117, title III, §§307–309, 310(a), 311(b), 314(a), 79 Stat. 476–479; Nov. 3, 1966, Pub. L. 89–754, title VI, §§601, 602, title VII, §§701, 702, 80 Stat. 1278, 1280, 1281; May 25, 1967, Pub. L. 90–19, §6(b), (g), 81 Stat. 21, 22; Aug. 1, 1968, Pub. L. 90–448, title V, §§504, 508(b), 511, title XVII, §1722(a)–(c), 82 Stat. 521, 523, 524, 610; Dec. 24, 1969, Pub. L. 91–152, title II, §§202(a), 203(a), 204, 206, 83 Stat. 385–387; Dec. 31, 1970, Pub. L. 91–609, title II, §213(b), title VII, §741(c), title VIII, §801(b), 84 Stat. 1779, 1805, defined terms as used in this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Study of Housing and Building Codes, Zoning, Tax Policies, and Development Standards ####
 

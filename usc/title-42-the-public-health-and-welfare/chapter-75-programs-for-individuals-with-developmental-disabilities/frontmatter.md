@@ -1,5 +1,7 @@
 ### **CHAPTER 75—PROGRAMS FOR INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES** ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The Developmental Disabilities Assistance and Bill of Rights Act, formerly comprising this chapter, was title I of the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, which was originally enacted by Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, at which time title I was known as the Mental Retardation Facilities Construction Act, and parts B and C of such title I were classified to subchapters I (§2661 et seq.) and II (§2670 et seq.), respectively, of chapter 33 of this title. Because of the extensive amendments, reorganization of the subject matter, and expansion of the Act by the acts summarized below, the Act was set out here as having been added by Pub. L. 98–527, without reference to intervening amendments.

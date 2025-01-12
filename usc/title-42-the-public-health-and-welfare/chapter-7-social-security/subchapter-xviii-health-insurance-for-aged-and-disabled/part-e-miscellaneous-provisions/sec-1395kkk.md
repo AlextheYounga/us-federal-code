@@ -2,6 +2,8 @@
 
 Section, Aug. 14, 1935, ch. 531, title XVIII, §1899A, as added and amended Pub. L. 111–148, title III, §3403(a)(1), title X, §10320(a), Mar. 23, 2010, 124 Stat. 489, 949, established the Independent Payment Advisory Board.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Pub. L. 111–148, title X, §10320(b), Mar. 23, 2010, 124 Stat. 952, which provided that any reference in the provisions of, or amendments made by, section 3403 of Pub. L. 111–148 (enacting this section and section 1395kkk–1 of this title and amending section 1395b–6 of this title and section 207 of Title 18, Crimes and Criminal Procedure) to the "Independent Medicare Advisory Board" be deemed to be a reference to the "Independent Payment Advisory Board", was repealed by Pub. L. 115–123, div. E, title XI, §52001(b)(4), Feb. 9, 2018, 132 Stat. 298.

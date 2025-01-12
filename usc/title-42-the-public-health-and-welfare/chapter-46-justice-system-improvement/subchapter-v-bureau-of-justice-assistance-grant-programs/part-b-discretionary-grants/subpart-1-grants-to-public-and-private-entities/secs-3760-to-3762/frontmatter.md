@@ -6,9 +6,13 @@ Section 3761, Pub. L. 90–351, title I, §511, as added Pub. L. 100–690, titl
 
 Section 3762, Pub. L. 90–351, title I, §512, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4336, related to limitation on use of discretionary grant funds.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 For prior sections 510 to 512 of Pub. L. 90–351 and prior sections 3760 to 3762 of this title, see notes set out preceding section 3750 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 
