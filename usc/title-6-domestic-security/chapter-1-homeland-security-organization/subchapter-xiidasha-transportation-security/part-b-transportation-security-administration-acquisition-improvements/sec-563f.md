@@ -18,7 +18,7 @@ The strategy required under subsection (a) shall include the following:
 
 (5) An assessment of the feasibility of partnering with an organization described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of title 26 to provide venture capital to businesses, particularly small business innovators, for commercialization of innovative transportation security technologies that are expected to be ready for commercialization in the near term and within 36 months.
 
-#### (c) Feasibility Assessment ####
+#### (c) Feasibility assessment ####
 
 In conducting the feasibility assessment under subsection (b)(5), the Administrator shall consider the following:
 

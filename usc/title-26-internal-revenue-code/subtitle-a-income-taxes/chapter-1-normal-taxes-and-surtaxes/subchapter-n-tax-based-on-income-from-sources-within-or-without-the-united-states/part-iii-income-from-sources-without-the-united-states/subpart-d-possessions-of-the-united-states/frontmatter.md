@@ -12,6 +12,8 @@ Sec.
 
 [934A, 935. Repealed.]
 
+[936. Repealed.] 1
+
 937. Residence and source rules involving possessions.
 
 #### Amendments ####
@@ -27,3 +29,5 @@ Sec.
 **1972**—Pub. L. 92–606, §1(f)(5), Oct. 31, 1972, 86 Stat. 1497, added item 935.
 
 **1960**—Pub. L. 86–779, §4(a)(2), Sept. 14, 1960, 74 Stat. 999, added item 934.
+
+[<sup>1</sup> See 2018 Amendment note below.](#I_1)

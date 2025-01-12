@@ -4,15 +4,15 @@
 
 #### (1) Preparedness and response regarding public health emergencies ####
 
-Beginning in 2014 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) <sup><a href="#300hh-1_1_target" name="300hh-1_1">1</a></sup> of title 6, or any successor plan.
+Beginning in 2018 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall describe potential emergency health security threats and identify the process for achieving the preparedness goals described in subsection (b) to be prepared to identify and respond to such threats and shall be consistent with the national preparedness goal (as described in section 314(a)(19) of title 6), the National Incident Management System (as defined in section 311(7) of such title), and the National Response Plan developed pursuant to section 314 of such title, or any successor plan.
 
 #### (2) Evaluation of progress ####
 
-The National Health Security Strategy shall include an evaluation of the progress made by Federal, State, local, and tribal entities, based on the evidence-based benchmarks and objective standards that measure levels of preparedness established pursuant to section 247d–3a(g) of this title. Such evaluation shall include aggregate and State-specific breakdowns of obligated funding spent by major category (as defined by the Secretary) for activities funded through awards pursuant to sections 247d–3a and 247d–3b of this title.
+The National Health Security Strategy shall include an evaluation of the progress made by Federal, State, local, and tribal entities, based on the evidence-based benchmarks and objective standards that measure levels of preparedness established pursuant to section 247d–3a(g) of this title. Such evaluation shall include aggregate and State-specific breakdowns of obligated funding spent by major category (as defined by the Secretary) for activities funded through awards pursuant to sections 247d–3a and 247d–3b of this title, and an analysis of any changes to the evidence-based benchmarks and objective standards under sections 247d–3a and 247d–3b of this title.
 
 #### (3) Public health workforce ####
 
-In 2009, the National Health Security Strategy shall include a national strategy for establishing an effective and prepared public health workforce, including defining the functions, capabilities, and gaps in such workforce, and identifying strategies to recruit, retain, and protect such workforce from workplace exposures during public health emergencies.
+In 2022, the National Health Security Strategy shall include a national strategy for establishing an effective and prepared public health workforce, including defining the functions, capabilities, and gaps in such workforce (including gaps in the environmental health and animal health workforces, as applicable), describing the status of such workforce, identifying strategies to recruit, retain, and protect such workforce from workplace exposures during public health emergencies, and identifying current capabilities to meet the requirements of section 300hh–2 of this title.
 
 #### (b) Preparedness goals ####
 
@@ -30,17 +30,19 @@ Integrating public health and public and private medical capabilities with other
 
 Developing and sustaining Federal, State, local, and tribal essential public health security capabilities, including the following:
 
-(A) Disease situational awareness domestically and abroad, including detection, identification, and investigation.
+(A) Disease situational awareness domestically and abroad, including detection, identification, investigation, and related information technology activities.
 
-(B) Disease containment including capabilities for isolation, quarantine, social distancing, and decontamination.
+(B) Disease containment including capabilities for isolation, quarantine, social distancing, decontamination, relevant health care services and supplies, and transportation and disposal of medical waste.
 
 (C) Risk communication and public preparedness.
 
 (D) Rapid distribution and administration of medical countermeasures.
 
+(E) Response to environmental hazards.
+
 #### (3) Medical ####
 
-Increasing the preparedness, response capabilities, and surge capacity of hospitals, other health care facilities (including mental health and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care, and emergency medical service systems, with respect to public health emergencies (including related availability, accessibility, and coordination), which shall include developing plans for the following:
+Increasing the preparedness, response capabilities, and surge capacity of hospitals, other health care facilities (including pharmacies, mental health facilities, and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care, and emergency medical service systems, with respect to public health emergencies (including related availability, accessibility, and coordination), which shall include developing plans for the following:
 
 (A) Strengthening public health emergency medical and trauma management and treatment capabilities.
 
@@ -52,19 +54,19 @@ Increasing the preparedness, response capabilities, and surge capacity of hospit
 
 (E) Effective utilization of any available public and private mobile medical assets (which may include such dental health assets) and integration of other Federal assets.
 
-(F) Protecting health care workers and health care first responders from workplace exposures during a public health emergency.
+(F) Protecting health care workers and health care first responders from workplace exposures during a public health emergency or exposures to agents that could cause a public health emergency.
 
-(G) Optimizing a coordinated and flexible approach to the medical surge capacity of hospitals, other health care facilities, critical care, trauma care (which may include trauma centers), and emergency medical systems.
+(G) Optimizing a coordinated and flexible approach to the emergency response and medical surge capacity of hospitals, other health care facilities, critical care, trauma care (which may include trauma centers), and emergency medical systems.
 
 #### (4) At-risk individuals ####
 
 (A) Taking into account the public health and medical needs of at-risk individuals, including the unique needs and considerations of individuals with disabilities, in the event of a public health emergency.
 
-(B) For the purpose of this section and sections 247d–3a, 247d–6, and 247d–7e of this title, the term "at-risk individuals" means children, pregnant women, senior citizens and other individuals who have special needs in the event of a public health emergency, as determined by the Secretary.
+(B) For the purpose of this chapter, the term "at-risk individuals" means children, pregnant women, senior citizens and other individuals who have access or functional needs in the event of a public health emergency, as determined by the Secretary.
 
 #### (5) Coordination ####
 
-Minimizing duplication of, and ensuring coordination between, Federal, State, local, and tribal planning, preparedness, and response activities (including the State Emergency Management Assistance Compact). Such planning shall be consistent with the National Response Plan, or any successor plan, and National Incident Management System and the National Preparedness Goal.
+Minimizing duplication of, and ensuring coordination between, Federal, State, local, and tribal planning, preparedness, and response activities (including the State Emergency Management Assistance Compact and other applicable compacts). Such planning shall be consistent with the National Response Plan, or any successor plan, and National Incident Management System and the National Preparedness Goal.
 
 #### (6) Continuity of operations ####
 
@@ -84,13 +86,41 @@ Strengthening the ability of States, local communities, and tribal communities t
 
 (B) promoting familiarity with local medical and public health systems.
 
-(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006, 120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162.)
+#### (9) Zoonotic disease, food, and agriculture ####
 
-#### References in Text ####
+Improving coordination among Federal, State, local, Tribal, and territorial entities (including through consultation with the Secretary of Agriculture) to prevent, detect, and respond to outbreaks of plant or animal disease (including zoonotic disease) that could compromise national security resulting from a deliberate attack, a naturally occurring threat, the intentional adulteration of food, or other public health threats, taking into account interactions between animal health, human health, and animals' and humans' shared environment as directly related to public health emergency preparedness and response capabilities, as applicable.
 
-Section 314(6) of title 6, referred to in subsec. (a)(1), was in the original "section 502(6) of the Homeland Security Act of 2002", and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
+#### (10) Global health security ####
+
+Assessing current or potential health security threats from abroad to inform domestic public health preparedness and response capabilities.
+
+(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006, 120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162; Pub. L. 116–22, title I, §101, title II, §203(d), title III, §303(a), June 24, 2019, 133 Stat. 906, 914, 935.)
 
 #### Amendments ####
+
+**2019**—Subsec. (a)(1). Pub. L. 116–22, §101(1)(A), substituted "2018" for "2014" and "Such National Health Security Strategy shall describe potential emergency health security threats and identify the process for achieving the preparedness goals described in subsection (b) to be prepared to identify and respond to such threats and shall be consistent with the national preparedness goal (as described in section 314(a)(19) of title 6), the National Incident Management System (as defined in section 311(7) of such title), and the National Response Plan developed pursuant to section 314 of such title, or any successor plan." for "Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) of title 6, or any successor plan."
+
+Subsec. (a)(2). Pub. L. 116–22, §101(1)(B), inserted before period at end ", and an analysis of any changes to the evidence-based benchmarks and objective standards under sections 247d–3a and 247d–3b of this title".
+
+Subsec. (a)(3). Pub. L. 116–22, §101(1)(C), substituted "2022" for "2009" and "gaps in such workforce (including gaps in the environmental health and animal health workforces, as applicable), describing the status of such workforce, identifying strategies" for "gaps in such workforce, and identifying strategies" and inserted ", and identifying current capabilities to meet the requirements of section 300hh–2 of this title" before period at end.
+
+Subsec. (b)(2)(A). Pub. L. 116–22, §101(2)(A)(i), substituted "investigation, and related information technology activities" for "and investigation".
+
+Subsec. (b)(2)(B). Pub. L. 116–22, §101(2)(A)(ii), substituted "decontamination, relevant health care services and supplies, and transportation and disposal of medical waste" for "and decontamination".
+
+Subsec. (b)(2)(E). Pub. L. 116–22, §101(2)(A)(iii), added subpar. (E).
+
+Subsec. (b)(3). Pub. L. 116–22, §101(2)(B)(i), substituted "including pharmacies, mental health facilities," for "including mental health" in introductory provisions.
+
+Subsec. (b)(3)(F). Pub. L. 116–22, §101(2)(B)(ii), inserted "or exposures to agents that could cause a public health emergency" before period at end.
+
+Subsec. (b)(3)(G). Pub. L. 116–22, §203(d), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: "Optimizing a coordinated and flexible approach to the medical surge capacity of hospitals, other health care facilities, critical care, trauma care (which may include trauma centers), and emergency medical systems."
+
+Subsec. (b)(4)(B). Pub. L. 116–22, §303(a), substituted "this chapter," for "this section and sections 247d–3a, 247d–6, and 247d–7e of this title," and "access or functional" for "special".
+
+Subsec. (b)(5). Pub. L. 116–22, §101(2)(C), inserted "and other applicable compacts" after "Compact".
+
+Subsec. (b)(9), (10). Pub. L. 116–22, §101(2)(D), added pars. (9) and (10).
 
 **2013**—Subsec. (a)(1). Pub. L. 113–5, §101(a)(1), substituted "2014" for "2009".
 
@@ -153,5 +183,3 @@ Sec. 5. *General Provisions*.
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.
-
-[<sup>1</sup> See References in Text note below.](#300hh-1_1)

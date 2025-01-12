@@ -160,7 +160,7 @@ A qualified ABLE program shall submit a notice to the Secretary upon the establi
 
 #### (4) Electronic distribution statements ####
 
-For purposes of section 103 of the Stephen Beck, Jr., ABLE Act of 2014 States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
+For purposes of section 103 of the Stephen Beck, Jr., ABLE Act of 2014, States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
 
 #### (5) Requirements ####
 
@@ -238,7 +238,7 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 #### References in Text ####
 
-Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, also known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014". Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section.
+The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, also known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014". Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section.
 
 The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -248,7 +248,7 @@ The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act 
 
 Subsec. (d)(4). Pub. L. 115–141, §401(a)(129), substituted "Stephen Beck, Jr., ABLE Act of 2014" for "Achieving a Better Life Experience Act of 2014".
 
-Subsec. (e)(4). Pub. L. 115–141, §401(a)(130), substituted "section" for "subparagraph section".
+Subsec. (e)(4). Pub. L. 115–141, §401(a)(130), substituted "section 152(d)(2)(B)" for "subparagraph section 152(d)(2)(B)".
 
 **2017**—Subsec. (b)(2). Pub. L. 115–97, §11024(a)(2), inserted at end of concluding provisions "A designated beneficiary (or a person acting on behalf of such beneficiary) shall maintain adequate records for purposes of ensuring, and shall be responsible for ensuring, that the requirements of subparagraph (B)(ii) are met."
 

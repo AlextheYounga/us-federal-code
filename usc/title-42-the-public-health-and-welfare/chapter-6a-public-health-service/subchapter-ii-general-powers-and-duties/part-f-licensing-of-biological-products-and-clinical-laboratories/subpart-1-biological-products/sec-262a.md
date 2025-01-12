@@ -282,7 +282,19 @@ Regulations under subsections (b) and (c) shall require the prompt notification 
 
 #### (k) Reports ####
 
+#### (1) In general ####
+
 The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+
+#### (2) Implementation of recommendations of the Federal Experts Security Advisory Panel and the fast track action committee on select agent regulations ####
+
+#### (A) In general ####
+
+Not later than 1 year after June 24, 2019, the Secretary shall report to the congressional committees of jurisdiction on the implementation of recommendations of the Federal Experts Security Advisory Panel concerning the select agent program.
+
+#### (B) Continued updates ####
+
+The Secretary shall report to the congressional committees of jurisdiction annually following the submission of the report under subparagraph (A) until the recommendations described in such subparagraph are fully implemented, or a justification is provided for the delay in, or lack of, implementation.
 
 #### (l) Definitions ####
 
@@ -316,7 +328,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007.
 
-(July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318.)
+(July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318; Pub. L. 116–22, title IV, §405, June 24, 2019, 133 Stat. 949.)
 
 #### References in Text ####
 
@@ -329,6 +341,8 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2019**—Subsec. (k). Pub. L. 116–22 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 **2002**—Subsec. (e)(1). Pub. L. 107–296 substituted "collaboration with the Secretary of Homeland Security and" for "consultation with".
 

@@ -264,7 +264,7 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 #### References in Text ####
 
-The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of the enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
+The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Amendments ####
 

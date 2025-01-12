@@ -38,9 +38,7 @@ Sec.
 
 6430. Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate.
 
-[6431. Repealed.]
-
-[6432. Repealed.]
+[6431, 6432. Repealed.]
 
 #### Amendments ####
 

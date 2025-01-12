@@ -58,7 +58,7 @@ Sec.
 
 5329. Public transportation safety program.
 
-5330. State safety oversight.
+5330. State safety oversight. 1
 
 5331. Alcohol and controlled substances testing.
 
@@ -95,3 +95,5 @@ Pub. L. 109–59, title III, §3037(b), Aug. 10, 2005, 119 Stat. 1636, which dir
 Pub. L. 105–178, title III, §3013(b), June 9, 1998, 112 Stat. 359, which directed insertion of "formula" before "grants" in item 5310, was executed by substituting "Formula grants" for "Grants" to reflect the probable intent of Congress.
 
 Pub. L. 105–178, title III, §3027(d), as added by Pub. L. 105–206, title IX, §9009(o)(2), July 22, 1998, 112 Stat. 858, substituted "formula grants" for "block grants" in item 5336.
+
+[<sup>1</sup> Section repealed by Pub. L. 112–141 without corresponding amendment of chapter analysis.](#CHAPTER53_1)

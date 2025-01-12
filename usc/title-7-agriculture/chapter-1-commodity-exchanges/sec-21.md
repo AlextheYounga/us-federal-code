@@ -324,15 +324,7 @@ Pub. L. 102–546, title II, §204(b), Oct. 28, 1992, 106 Stat. 3600, provided t
 
 #### Study on Computerized Futures Trading ####
 
-Pub. L. 102–546, title II, §220(b), (c), Oct. 28, 1992, 106 Stat. 3614, provided that:
-
-"(b) Study.—The Commodity Futures Trading Commission shall conduct a study to assess—
-
-"(1) the progress made under initiatives to conduct trading in futures and options subject to the jurisdiction of the Commission under the Commodity Exchange Act [7 U.S.C. 1 et seq.] through systems of computers or by other electronic means; and
-
-"(2) whether the experience with such systems of trading indicates that they may be useful or effective to enhance access to the futures and options markets by potential market participants, improve the ability of the Commission to audit the activities of the futures and options markets, reduce the opportunity for trading abuses, and otherwise be in the public interest or raise other related issues.
-
-"(c) Report.—Not later than two years after the date of enactment of this Act [Oct. 28, 1992], the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the results of the study conducted under subsection (a), together with any appropriate recommendations."
+Pub. L. 102–546, title II, §220(b), (c), Oct. 28, 1992, 106 Stat. 3614, required the Commodity Futures Trading Commission to conduct a study related to trading in futures and options subject to the jurisdiction of the Commission under the Commodity Exchange Act through computers or by other electronic means, and also required the Commission, not later than two years after Oct. 28, 1992, to submit to Congress a report containing the results of the study and any appropriate recommendations.
 
 [<sup>1</sup> So in original. The semicolon probably should be a period.](#21_1)
 

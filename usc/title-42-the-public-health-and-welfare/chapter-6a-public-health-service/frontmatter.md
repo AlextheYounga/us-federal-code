@@ -80,7 +80,7 @@ Sec.
 
 233. Civil actions or proceedings against commissioned officers or employees.
 
-234. Repealed.
+234. Health care professionals assisting during a public health emergency.
 
 235. Administration of grants in multigrant projects; promulgation of regulations.
 
@@ -300,9 +300,13 @@ Sec.
 
 247d–3b. Partnerships for State and regional hospital preparedness to improve surge capacity.
 
-247d–4. Revitalizing the Centers for Disease Control and Prevention.
+247d–3c. Guidelines for regional health care emergency preparedness and response systems.
+
+247d–4. Facilities and capacities of the Centers for Disease Control and Prevention.
 
 247d–4a. Infectious Diseases Rapid Response Reserve Fund.
+
+247d–4b. Children's Preparedness Unit.
 
 247d–5. Combating antimicrobial resistance.
 
@@ -324,7 +328,7 @@ Sec.
 
 247d–7a. Grants regarding training and education of certain health professionals.
 
-247d–7b. Emergency system for advance registration of health professions volunteers.
+247d–7b. Emergency system for advance registration of volunteer health professional.
 
 247d–7c. Supplies and services in lieu of award funds.
 
@@ -332,7 +336,9 @@ Sec.
 
 247d–7e. Biomedical Advanced Research and Development Authority.
 
-247d–7f. National Biodefense Science Board and working groups.
+247d–7f. Collaboration and Coordination.
+
+247d–7g. National Biodefense Science Board and working groups.
 
 247d–8. Coordinated program to improve pediatric oral health.
 
@@ -2200,6 +2206,10 @@ Sec.
 
 300d–82. Authorization of appropriations.
 
+#### Part I—Military and Civilian Partnership for Trauma Readiness Grant Program ####
+
+300d–91. Military and civilian partnership for trauma readiness grant program.
+
 #### SUBCHAPTER XI—HEALTH MAINTENANCE ORGANIZATIONS ####
 
 300e. Requirements of health maintenance organizations.
@@ -3176,7 +3186,15 @@ Sec.
 
 300hh–10. Coordination of preparedness for and response to all-hazards public health emergencies.
 
-300hh–10a. National Advisory Committee on Children and Disasters.
+300hh–10a. Public Health Emergency Medical Countermeasures Enterprise.
+
+300hh–10b. National Advisory Committee on Children and Disasters.
+
+300hh–10c. National Advisory Committee on Seniors and Disasters.
+
+300hh–10d. National Advisory Committee on Individuals With Disabilities and Disasters.
+
+300hh–10e. Advisory Committee Coordination.
 
 300hh–11. National Disaster Medical System.
 

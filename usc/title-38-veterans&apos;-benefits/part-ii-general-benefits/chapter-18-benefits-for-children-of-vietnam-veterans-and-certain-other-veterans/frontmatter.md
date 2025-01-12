@@ -30,9 +30,11 @@ Sec.
 
 1816. Regulations.
 
-#### SUBCHAPTER III—CHILDREN OF CERTAIN KOREA SERVICE VETERANS BORN WITH SPINA BIFIDA ####
+#### SUBCHAPTER III—CHILDREN OF CERTAIN KOREA AND THAILAND SERVICE VETERANS BORN WITH SPINA BIFIDA ####
 
 1821. Benefits for children of certain Korea service veterans born with spina bifida.
+
+1822. Benefits for children of certain Thailand service veterans born with spina bifida.
 
 #### SUBCHAPTER IV—GENERAL PROVISIONS ####
 
@@ -45,6 +47,8 @@ Sec.
 1834. Nonduplication of benefits.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–23, §4(c)(2), June 25, 2019, 133 Stat. 971, substituted "CHILDREN OF CERTAIN KOREA AND THAILAND SERVICE VETERANS BORN WITH SPINA BIFIDA" for "CHILDREN OF CERTAIN KOREA SERVICE VETERANS BORN WITH SPINA BIFIDA" in item for subchapter III and added item 1822.
 
 **2003**—Pub. L. 108–183, §102(d)(2), (e)(1), Dec. 16, 2003, 117 Stat. 2654, substituted "BENEFITS FOR CHILDREN OF VIETNAM VETERANS AND CERTAIN OTHER VETERANS" for "BENEFITS FOR CHILDREN OF VIETNAM VETERANS" in chapter heading, added item for subchapter III and item 1821, and redesignated former item for subchapter III and items 1821 to 1824 as item for subchapter IV and items 1831 to 1834, respectively.
 

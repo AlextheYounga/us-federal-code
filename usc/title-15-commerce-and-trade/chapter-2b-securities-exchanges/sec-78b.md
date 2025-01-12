@@ -100,17 +100,7 @@ Pub. L. 103–325, title II, §209, Sept. 23, 1994, 108 Stat. 2202, provided tha
 
 #### Intermarket Coordination; Reports to Congress ####
 
-Pub. L. 101–432, §8(a), Oct. 16, 1990, 104 Stat. 976, provided that: "The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission, shall report to the Congress not later than May 31, 1991, and annually thereafter until May 31, 1995, on the following:
-
-"(1) the efforts their respective agencies have made relating to the coordination of regulatory activities to ensure the integrity and competitiveness of United States financial markets;
-
-"(2) the efforts their respective agencies have made to formulate coordinated mechanisms across marketplaces to protect the payments and market systems during market emergencies;
-
-"(3) the views of their respective agencies with respect to the adequacy of margin levels and use of leverage by market participants; and
-
-"(4) such other issues and concerns relating to the soundness, stability, and integrity of domestic and international capital markets as may be appropriate.
-
-The agencies shall cooperate in the development of their reports, and prior to submitting its report to Congress, each agency shall provide copies to the other agencies."
+Pub. L. 101–432, §8(a), Oct. 16, 1990, 104 Stat. 976, provided that the Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission should report to the Congress not later than May 31, 1991, and annually thereafter until May 31, 1995, on the efforts their respective agencies have made relating to the coordination of regulatory activities to ensure the integrity and competitiveness of United States financial markets and to formulate coordinated mechanisms across marketplaces to protect the payments and market systems during market emergencies, on the views of their respective agencies with respect to the adequacy of margin levels and use of leverage by market participants, and other issues relating to market soundness.
 
 #### Securities Laws Study ####
 

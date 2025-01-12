@@ -88,7 +88,7 @@ Section was enacted as part of the American Recovery and Reinvestment Act of 200
 
 #### Amendments ####
 
-**2018**—Subsec. (g). Pub. L. 115–232, substituted "commercial products" for "commercial items" in heading and, in text, substituted "procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed" for "procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed" and " 'commercial product' shall be as defined in section 103 of title 41." for " 'commercial' shall be as defined in the Federal Acquisition Regulation—Part 2.".
+**2018**—Subsec. (g). Pub. L. 115–232, substituted "commercial products" for "commercial items" in heading and, in text, substituted "procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed" for "procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed" and " 'commercial product' shall be as defined in section 103 of title 41." for " 'commercial' shall be as defined in the Federal Acquisition Regulation—Part 2."
 
 #### Effective Date of 2018 Amendment; Savings Provision ####
 

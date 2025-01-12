@@ -10,7 +10,7 @@ The National Integrated Drought Information System shall—
 
 (1) provide an effective drought early warning system that—
 
-(A) collects and integrates information on the key indicators of drought and drought impacts , including precipitation, soil moisture, and evaporative demand, in order to make usable, reliable, and timely forecasts of drought and assessments of the severity of drought conditions and impacts; and
+(A) collects and integrates information on the key indicators of drought and drought impacts, including precipitation, soil moisture, and evaporative demand, in order to make usable, reliable, and timely forecasts of drought and assessments of the severity of drought conditions and impacts; and
 
 (B) provides such information, forecasts, and assessments on both national and regional levels;
 
@@ -68,7 +68,7 @@ Subsec. (b)(4). Pub. L. 115–423, §2(a)(1)(C), inserted ", through interagenc
 
 Subsec. (b)(5). Pub. L. 115–423, §2(a)(1)(D), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "build upon existing forecasting and assessment programs and partnerships, including through the designation of one or more cooperative institutes to assist with National Integrated Drought Information System functions; and".
 
-Subsec. (b)(6). Pub. L. 115–423, §2(a)(1)(E), iserted "the prediction," after "relating to".
+Subsec. (b)(6). Pub. L. 115–423, §2(a)(1)(E), inserted "the prediction," after "relating to".
 
 Subsec. (c). Pub. L. 115–423, §2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 

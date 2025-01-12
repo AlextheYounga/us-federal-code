@@ -4,31 +4,93 @@
 
 #### (1) In general ####
 
-The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security.
+The Secretary, in collaboration with the Assistant Secretary for Preparedness and Response and the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for and optimize the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under section 300hh–10a of this title, make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2).
 
-#### (2) Procedures ####
+#### (2) Threat-based review ####
+
+#### (A) In general ####
+
+The Secretary shall conduct an annual threat-based review (taking into account at-risk individuals) of the contents of the stockpile under paragraph (1), including non-pharmaceutical supplies, and, in consultation with the Public Health Emergency Medical Countermeasures Enterprise established under section 300hh–10a of this title, review contents within the stockpile and assess whether such contents are consistent with the recommendations made pursuant to section 300hh–10a(c)(1)(A) of this title. Such review shall be submitted on June 15, 2019, and on March 15 of each year thereafter, to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, in a manner that does not compromise national security.
+
+#### (B) Additions, modifications, and replenishments ####
+
+Each annual threat-based review under subparagraph (A) shall, for each new or modified countermeasure procurement or replenishment, provide—
+
+(i) information regarding—
+
+(I) the quantities of the additional or modified countermeasure procured for, or contracted to be procured for, the stockpile;
+
+(II) planning considerations for appropriate manufacturing capacity and capability to meet the goals of such additions or modifications (without disclosing proprietary information), including consideration of the effect such additions or modifications may have on the availability of such products and ancillary medical supplies in the health care system;
+
+(III) the presence or lack of a commercial market for the countermeasure at the time of procurement;
+
+(IV) the emergency health security threat or threats such countermeasure procurement is intended to address, including whether such procurement is consistent with meeting emergency health security needs associated with such threat or threats;
+
+(V) an assessment of whether the emergency health security threat or threats described in subclause (IV) could be addressed in a manner that better utilizes the resources of the stockpile and permits the greatest possible increase in the level of emergency preparedness to address such threats;
+
+(VI) whether such countermeasure is replenishing an expiring or expired countermeasure, is a different countermeasure with the same indication that is replacing an expiring or expired countermeasure, or is a new addition to the stockpile;
+
+(VII) a description of how such additions or modifications align with projected investments under previous countermeasures budget plans under section 300hh–10(b)(7) of this title, including expected life-cycle costs, expenditures related to countermeasure procurement to address the threat or threats described in subclause (IV), replenishment dates (including the ability to extend the maximum shelf life of a countermeasure), and the manufacturing capacity required to replenish such countermeasure; and
+
+(VIII) appropriate protocols and processes for the deployment, distribution, or dispensing of the countermeasure at the State and local level, including plans for relevant capabilities of State and local entities to dispense, distribute, and administer the countermeasure; and
+
+(ii) an assurance, which need not be provided in advance of procurement, that for each countermeasure procured or replenished under this subsection, the Secretary completed a review addressing each item listed under this subsection in advance of such procurement or replenishment.
+
+#### (3) Procedures ####
 
 The Secretary, in managing the stockpile under paragraph (1), shall—
 
-(A) consult with the working group under section 247d–6(a) of this title;
+(A) consult with the working group under section 247d–6(a) of this title and the Public Health Emergency Medical Countermeasures Enterprise established under section 300hh–10a of this title;
 
 (B) ensure that adequate procedures are followed with respect to such stockpile for inventory management and accounting, and for the physical security of the stockpile;
 
-(C) in consultation with Federal, State, and local officials, take into consideration the timing and location of special events;
+(C) in consultation with Federal, State, and local officials, take into consideration the timing and location of special events, and the availability, deployment, dispensing, and administration of countermeasures;
 
 (D) review and revise, as appropriate, the contents of the stockpile on a regular basis to ensure that emerging threats, advanced technologies, and new countermeasures are adequately considered and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment;
 
-(E) devise plans for the effective and timely supply-chain management of the stockpile, in consultation with appropriate Federal, State and local agencies, and the public and private health care infrastructure;
+(E) devise plans for effective and timely supply-chain management of the stockpile, in consultation with the Director of the Centers for Disease Control and Prevention, the Assistant Secretary for Preparedness and Response, the Secretary of Transportation, the Secretary of Homeland Security, the Secretary of Veterans Affairs, and the heads of other appropriate Federal agencies; State, local, Tribal, and territorial agencies; and the public and private health care infrastructure, as applicable, taking into account the manufacturing capacity and other available sources of products and appropriate alternatives to supplies in the stockpile;
 
 (F) deploy the stockpile as required by the Secretary of Homeland Security to respond to an actual or potential emergency;
 
-(G) deploy the stockpile at the discretion of the Secretary to respond to an actual or potential public health emergency or other situation in which deployment is necessary to protect the public health or safety; and
+(G) deploy the stockpile at the discretion of the Secretary to respond to an actual or potential public health emergency or other situation in which deployment is necessary to protect the public health or safety;
 
-(H) ensure the adequate physical security of the stockpile.
+(H) ensure the adequate physical security of the stockpile;
 
-#### (3) Utilization guidelines ####
+(I) ensure that each countermeasure or product under consideration for procurement pursuant to this subsection receives the same consideration regardless of whether such countermeasure or product receives or had received funding under section 247d–7e of this title, including with respect to whether the countermeasure or product is most appropriate to meet the emergency health security needs of the United States; and
+
+(J) provide assistance, including technical assistance, to maintain and improve State and local public health preparedness capabilities to distribute and dispense medical countermeasures and products from the stockpile, as appropriate.
+
+#### (4) Utilization guidelines ####
 
 The Secretary shall ensure timely and accurate recommended utilization guidelines for qualified countermeasures (as defined in section 247d–6a of this title), qualified pandemic and epidemic products (as defined in section 247d–6d of this title), and security countermeasures (as defined in subsection (c)), including for such products in the stockpile.
+
+#### (5) GAO report ####
+
+#### (A) In general ####
+
+Not later than 3 years after June 24, 2019, and every 5 years thereafter, the Comptroller General of the United States shall conduct a review of any changes to the contents or management of the stockpile since January 1, 2015. Such review shall include—
+
+(i) an assessment of the comprehensiveness and completeness of each annual threat-based review under paragraph (2), including whether all newly procured or replenished countermeasures within the stockpile were described in each annual review, and whether, consistent with paragraph (2)(B), the Secretary conducted the necessary internal review in advance of such procurement or replenishment;
+
+(ii) an assessment of whether the Secretary established health security and science-based justifications, and a description of such justifications for procurement decisions related to health security needs with respect to the identified threat, for additions or modifications to the stockpile based on the information provided in such reviews under paragraph (2)(B), including whether such review was conducted prior to procurement, modification, or replenishment;
+
+(iii) an assessment of the plans developed by the Secretary for the deployment, distribution, and dispensing of countermeasures procured, modified, or replenished under paragraph (1), including whether such plans were developed prior to procurement, modification, or replenishment;
+
+(iv) an accounting of countermeasures procured, modified, or replenished under paragraph (1) that received advanced research and development funding from the Biomedical Advanced Research and Development Authority;
+
+(v) an analysis of how such procurement decisions made progress toward meeting emergency health security needs related to the identified threats for countermeasures added, modified, or replenished under paragraph (1);
+
+(vi) a description of the resources expended related to the procurement of countermeasures (including additions, modifications, and replenishments) in the stockpile, and how such expenditures relate to the ability of the stockpile to meet emergency health security needs;
+
+(vii) an assessment of the extent to which additions, modifications, and replenishments reviewed under paragraph (2) align with previous relevant reports or reviews by the Secretary or the Comptroller General;
+
+(viii) with respect to any change in the Federal organizational management of the stockpile, an assessment and comparison of the processes affected by such change, including planning for potential countermeasure deployment, distribution, or dispensing capabilities and processes related to procurement decisions, use of stockpiled countermeasures, and use of resources for such activities; and
+
+(ix) an assessment of whether the processes and procedures described by the Secretary pursuant to section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019 are sufficient to ensure countermeasures and products under consideration for procurement pursuant to subsection (a) receive the same consideration regardless of whether such countermeasures and products receive or had received funding under section 247d–7e of this title, including with respect to whether such countermeasures and products are most appropriate to meet the emergency health security needs of the United States.
+
+#### (B) Submission ####
+
+Not later than 6 months after completing a classified version of the review under subparagraph (A), the Comptroller General shall submit an unclassified version of the review to the congressional committees of jurisdiction.
 
 #### (b) Smallpox vaccine development ####
 
@@ -82,7 +144,7 @@ The Secretary shall on an ongoing basis—
 
 #### (C) Notice to Congress ####
 
-The Secretary and the Homeland Security Secretary shall promptly notify the appropriate committees of Congress that a determination has been made pursuant to subparagraph (A) or (B).
+The Secretary and the Secretary of Homeland Security shall send to Congress, on an annual basis, all current material threat determinations and shall promptly notify the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives that a determination has been made pursuant to subparagraph (A) or (B).
 
 #### (D) Assuring access to threat information ####
 
@@ -190,7 +252,7 @@ The contract may provide for a discounted price per unit of a product that is no
 
 #### (III) Contract duration ####
 
-The contract shall be for a period not to exceed five years, except that, in first awarding the contract, the Secretary may provide for a longer duration, not exceeding 10 years, if the Secretary determines that complexities or other difficulties in performance under the contract justify such a period. The contract shall be renewable for additional periods, none of which shall exceed five years.
+The contract shall be for a period not to exceed five years, except that, in first awarding the contract, the Secretary may provide for a longer duration, not exceeding 10 years, if the Secretary determines that complexities or other difficulties in performance under the contract justify such a period. The contract shall be renewable for additional periods, none of which shall exceed five years. The Secretary shall notify the vendor within 90 days of a determination by the Secretary to renew, extend, or terminate such contract.
 
 #### (IV) Storage by vendor ####
 
@@ -314,7 +376,7 @@ An agreement or undertaking under this paragraph shall not authorize another age
 
 #### (d) Disclosures ####
 
-No Federal agency shall disclose under section 552 of title 5 any information identifying the location at which materials in the stockpile under subsection (a) are stored.
+No Federal agency may disclose under section 552 of title 5 any information identifying the location at which materials in the stockpile described in subsection (a) are stored, or other information regarding the contents or deployment capability of the stockpile that could compromise national security.
 
 #### (e) Definition ####
 
@@ -328,7 +390,7 @@ For purposes of subsection (a), the term "stockpile" includes—
 
 #### (1) Strategic National Stockpile ####
 
-For the purpose of carrying out subsection (a), there are authorized to be appropriated $533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
+For the purpose of carrying out subsection (a), there are authorized to be appropriated $610,000,000 for each of fiscal years 2019 through 2023, to remain available until expended. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
 
 #### (2) Smallpox vaccine development ####
 
@@ -338,7 +400,7 @@ For the purpose of carrying out subsection (b), there are authorized to be appro
 
 #### (1) Authorization of appropriations ####
 
-In addition to amounts appropriated to the special reserve fund prior to March 13, 2013, there is authorized to be appropriated, for the procurement of security countermeasures under subsection (c) and for carrying out section 247d–7e of this title (relating to the Biomedical Advanced Research and Development Authority), $2,800,000,000 for the period of fiscal years 2014 through 2018. Amounts appropriated pursuant to the preceding sentence are authorized to remain available until September 30, 2019.
+In addition to amounts appropriated to the special reserve fund prior to March 13, 2013, there is authorized to be appropriated, for the procurement of security countermeasures under subsection (c) and for carrying out section 247d–7e of this title (relating to the Biomedical Advanced Research and Development Authority), $7,100,000,000 for the period of fiscal years 2019 through 2028, to remain available until expended.
 
 #### (2) Use of special reserve fund for advanced research and development ####
 
@@ -368,9 +430,11 @@ In this section:
 
 (2) The term "special reserve fund" means the "Biodefense Countermeasures" appropriations account, any appropriation made available pursuant to section 321j(a) of title 6, and any appropriation made available pursuant to subsection (g)(1).
 
-(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144.)
+(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144; Pub. L. 116–22, title IV, §403(a), (c), title V, §§502, 504(a), title VII, §702, June 24, 2019, 133 Stat. 943, 947, 950, 951, 962.)
 
 #### References in Text ####
+
+Section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (a)(5)(A)(ix), is section 403(b) of Pub. L. 116–22, title IV, June 24, 2019, 133 Stat. 947, which is not classified to the Code.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -401,6 +465,34 @@ In subsec. (c)(7)(B)(vii), "section 3306(a)(1)(B) of title 41" substituted for "
 Section was formerly classified to section 300hh–12 of this title prior to renumbering by Pub. L. 108–276.
 
 #### Amendments ####
+
+**2019**—Subsec. (a)(1). Pub. L. 116–22, §403(a)(2), inserted "the Assistant Secretary for Preparedness and Response and" after "collaboration with", "and optimize" after "provide for" and "and, as informed by existing recommendations of, or consultations with, the Public Health Emergency Medical Countermeasure Enterprise established under section 300hh–10a of this title, make necessary additions or modifications to the contents of such stockpile or stockpiles based on the review conducted under paragraph (2)" after "public health emergency", and struck out at end "The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security."
+
+Subsec. (a)(2). Pub. L. 116–22, §403(a)(3), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 116–22, §403(a)(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(3)(A). Pub. L. 116–22, §403(a)(4)(A), inserted before semicolon at end "and the Public Health Emergency Medical Countermeasures Enterprise established under section 300hh–10a of this title".
+
+Subsec. (a)(3)(C). Pub. L. 116–22, §403(a)(4)(B), inserted before semicolon at end ", and the availability, deployment, dispensing, and administration of countermeasures".
+
+Subsec. (a)(3)(E). Pub. L. 116–22, §403(a)(4)(C), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "devise plans for the effective and timely supply-chain management of the stockpile, in consultation with appropriate Federal, State and local agencies, and the public and private health care infrastructure;".
+
+Subsec. (a)(3)(I), (J). Pub. L. 116–22, §403(a)(4)(D)–(F), added subpars. (I) and (J).
+
+Subsec. (a)(4). Pub. L. 116–22, §403(a)(1), redesignated par. (3) as (4).
+
+Subsec. (a)(5). Pub. L. 116–22, §403(a)(5), added par. (5).
+
+Subsec. (c)(2)(C). Pub. L. 116–22, §502(a), substituted "The Secretary and the Secretary of Homeland Security shall send to Congress, on an annual basis, all current material threat determinations and shall promptly notify the Committee on Health, Education, Labor, and Pensions and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives" for "The Secretary and the Homeland Security Secretary shall promptly notify the appropriate committees of Congress".
+
+Subsec. (c)(7)(B)(ii)(III). Pub. L. 116–22, §502(b), inserted at end "The Secretary shall notify the vendor within 90 days of a determination by the Secretary to renew, extend, or terminate such contract."
+
+Subsec. (d). Pub. L. 116–22, §702, amended subsec. (d) generally. Prior to amendment, text read as follows: "No Federal agency shall disclose under section 552 of title 5 any information identifying the location at which materials in the stockpile under subsection (a) are stored."
+
+Subsec. (f)(1). Pub. L. 116–22, §403(c), substituted "$610,000,000 for each of fiscal years 2019 through 2023, to remain available until expended" for "$533,800,000 for each of fiscal years 2014 through 2018".
+
+Subsec. (g)(1). Pub. L. 116–22, §504(a), substituted "$7,100,000,000 for the period of fiscal years 2019 through 2028, to remain available until expended" for "$2,800,000,000 for the period of fiscal years 2014 through 2018" and struck out at end "Amounts appropriated pursuant to the preceding sentence are authorized to remain available until September 30, 2019."
 
 **2016**—Subsec. (a)(3). Pub. L. 114–255, §3081(1), added par. (3).
 

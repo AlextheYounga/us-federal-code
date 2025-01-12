@@ -84,7 +84,7 @@ For purposes of subparagraph (A), the reasonable costs directly associated with 
 
 (12) The term "interstate commerce" has the same meaning as such term has under the Natural Gas Act.
 
-#### (f) Coordination with this chapter ####
+#### (f) Coordination with the Natural Gas Act ####
 
 (1) Consideration in any transfer of contractual interests pursuant to the rule required under subsection (a)(1) of this section shall be deemed just and reasonable for purposes of sections 4 and 5 of the Natural Gas Act [15 U.S.C. 717c, 717d] if such consideration does not exceed just compensation.
 

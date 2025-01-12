@@ -1,59 +1,53 @@
-### §300hh–10a. National Advisory Committee on Children and Disasters ###
+### §300hh–10a. Public Health Emergency Medical Countermeasures Enterprise ###
 
-#### (a) Establishment ####
+#### (a) In general ####
 
-The Secretary, in consultation with the Secretary of Homeland Security, shall establish an advisory committee to be known as the "National Advisory Committee on Children and Disasters" (referred to in this section as the "Advisory Committee").
+The Secretary shall establish the Public Health Emergency Medical Countermeasures Enterprise (referred to in this section as the "PHEMCE"). The Assistant Secretary for Preparedness and Response shall serve as chair of the PHEMCE.
 
-#### (b) Duties ####
+#### (b) Members ####
 
-The Advisory Committee shall—
+The PHEMCE shall include each of the following members, or the designee of such members:
 
-(1) provide advice and consultation with respect to the activities carried out pursuant to section 300hh–16 of this title, as applicable and appropriate;
+(1) The Assistant Secretary for Preparedness and Response.
 
-(2) evaluate and provide input with respect to the medical and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies; and
+(2) The Director of the Centers for Disease Control and Prevention.
 
-(3) provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under section 300hh–1(b) of this title.
+(3) The Director of the National Institutes of Health.
 
-#### (c) Additional duties ####
+(4) The Commissioner of Food and Drugs.
 
-The Advisory Committee may provide advice and recommendations to the Secretary with respect to children and the medical and public health grants and cooperative agreements as applicable to preparedness and response activities authorized under this subchapter and subchapter II.
+(5) The Secretary of Defense.
 
-#### (d) Membership ####
+(6) The Secretary of Homeland Security.
+
+(7) The Secretary of Agriculture.
+
+(8) The Secretary of Veterans Affairs.
+
+(9) The Director of National Intelligence.
+
+(10) Representatives of any other Federal agency, which may include the Director of the Biomedical Advanced Research and Development Authority, the Director of the Strategic National Stockpile, the Director of the National Institute of Allergy and Infectious Diseases, and the Director of the Office of Public Health Preparedness and Response, as the Secretary determines appropriate.
+
+#### (c) Functions ####
 
 #### (1) In general ####
 
-The Secretary, in consultation with such other Secretaries as may be appropriate, shall appoint not to exceed 15 members to the Advisory Committee. In appointing such members, the Secretary shall ensure that the total membership of the Advisory Committee is an odd number.
+The functions of the PHEMCE shall include the following:
 
-#### (2) Required members ####
+(A) Utilize a process to make recommendations to the Secretary regarding research, advanced research, development, procurement, stockpiling, deployment, distribution, and utilization with respect to countermeasures, as defined in section 247d–6b(c) of this title, including prioritization based on the health security needs of the United States. Such recommendations shall be informed by, when available and practicable, the National Health Security Strategy pursuant to section 300hh–1 of this title, the Strategic National Stockpile needs pursuant to section 247d–6b of this title, and assessments of current national security threats, including chemical, biological, radiological, and nuclear threats, including emerging infectious diseases. In the event that members of the PHEMCE do not agree upon a recommendation, the Secretary shall provide a determination regarding such recommendation.
 
-The Secretary, in consultation with such other Secretaries as may be appropriate, may appoint to the Advisory Committee under paragraph (1) such individuals as may be appropriate to perform the duties described in subsections (b) and (c), which may include—
+(B) Identify national health security needs, including gaps in public health preparedness and response related to countermeasures and challenges to addressing such needs (including any regulatory challenges), and support alignment of countermeasure procurement with recommendations to address such needs under subparagraph (A).
 
-(A) the Assistant Secretary for Preparedness and Response;
+(C) Assist the Secretary in developing strategies related to logistics, deployment, distribution, dispensing, and use of countermeasures that may be applicable to the activities of the strategic national stockpile under section 247d–6b(a) of this title.
 
-(B) the Director of the Biomedical Advanced Research and Development Authority;
+(D) Provide consultation for the development of the strategy and implementation plan under section 300hh–10(d) of this title.
 
-(C) the Director of the Centers for Disease Control and Prevention;
+#### (2) Input ####
 
-(D) the Commissioner of Food and Drugs;
+In carrying out subparagraphs (B) and (C) of paragraph (1), the PHEMCE shall solicit and consider input from State, local, Tribal, and territorial public health departments or officials, as appropriate.
 
-(E) the Director of the National Institutes of Health;
+(July 1, 1944, ch. 373, title XXVIII, §2811–1, as added Pub. L. 116–22, title IV, §402(a), June 24, 2019, 133 Stat. 942.)
 
-(F) the Assistant Secretary of the Administration for Children and Families;
+#### Prior Provisions ####
 
-(G) the Administrator of the Federal Emergency Management Agency;
-
-(H) at least two non-Federal health care professionals with expertise in pediatric medical disaster planning, preparedness, response, or recovery;
-
-(I) at least two representatives from State, local, territorial, or tribal agencies with expertise in pediatric disaster planning, preparedness, response, or recovery; and
-
-(J) representatives from such Federal agencies (such as the Department of Education and the Department of Homeland Security) as determined necessary to fulfill the duties of the Advisory Committee, as established under subsections (b) and (c).
-
-#### (e) Meetings ####
-
-The Advisory Committee shall meet not less than biannually.
-
-#### (f) Sunset ####
-
-The Advisory Committee shall terminate on September 30, 2018.
-
-(July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168.)
+A prior section 300hh–10a, act July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936, which related to the National Advisory Committee on Children and Disasters, was transferred to section 300hh–10b of this title.

@@ -24,4 +24,4 @@ Pub. L. 94–455, title X, §1051(i), Oct. 4, 1976, 90 Stat. 1647, as amended by
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
-[<sup>1</sup> So in original.](#27_1)
+[<sup>1</sup> So in original. Probably should be followed by a period.](#27_1)

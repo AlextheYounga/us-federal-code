@@ -158,7 +158,7 @@ A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Sta
 
 **2018**—Subsec. (a)(1)(C)(vi). Pub. L. 115–141, §401(d)(3)(B)(i), struck out cl. (vi) which read as follows: "the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D."
 
-Subsec. (a)(1)(D)(iii). Pub. L. 115–141, §401(a)(24), substituted "shareholder" for "share-holder".
+Subsec. (a)(1)(D)(iii). Pub. L. 115–141, §401(a)(24), substituted "shareholder" for "share-holder" in concluding provisions.
 
 **2010**—Subsec. (a)(1)(C)(vi). Pub. L. 111–148 added cl. (vi).
 

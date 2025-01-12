@@ -18,7 +18,7 @@ Sec.
 
 1806. Use of information.
 
-1807. Report to Administrative Office of the United States Court and to Congress.
+1807. Report of electronic surveillance.
 
 1808. Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of Congressional committees; report of Congressional committees to Congress.
 

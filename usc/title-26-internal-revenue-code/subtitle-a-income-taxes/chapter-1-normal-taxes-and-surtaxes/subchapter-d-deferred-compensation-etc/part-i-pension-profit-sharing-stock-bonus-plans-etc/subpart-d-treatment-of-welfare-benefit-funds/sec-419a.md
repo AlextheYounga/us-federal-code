@@ -255,9 +255,7 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 **2018**—Subsec. (c)(6)(B). Pub. L. 115–141, §401(a)(96), substituted "(42 U.S.C. 300gg–91(d)(3)))" for "(42 U.S.C. 300gg–91(d)(3))".
 
-Subsec. (g)(1). Pub. L. 115–141, §401(b)(21)(B), substituted "or (17)" for "(17), or (20)".
-
-Subsec. (g)(2). Pub. L. 115–141, §401(b)(21)(C), substituted "or (17)" for "(17), or (20)".
+Subsec. (g)(1), (2). Pub. L. 115–141, §401(b)(21)(B), (C), substituted "or (17)" for "(17), or (20)".
 
 **2006**—Subsec. (c)(6). Pub. L. 109–280 added par. (6).
 

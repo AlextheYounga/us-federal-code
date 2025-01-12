@@ -512,11 +512,11 @@ Amendment by section 1401(b)(3) of Pub. L. 104–188 applicable to taxable years
 
 Pub. L. 104–188, title I, §1601(c), Aug. 20, 1996, 110 Stat. 1833, provided that:
 
-"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting former section 30A and amending this section and sections 56, 59, and 936 of this title] shall apply to taxable years beginning after December 31, 1995.
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting section 30A of this title and amending this section and sections 56, 59, and 936 of this title] shall apply to taxable years beginning after December 31, 1995.
 
 "(2) Special rule for qualified possession source investment income.—The amendments made by this section shall not apply to qualified possession source investment income received or accrued before July 1, 1996, without regard to the taxable year in which received or accrued.
 
-"(3) Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Aug. 20, 1996] and before October 1, 1996, only ½ of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) [enacting former section 30A and amending this section and sections 56, 59, and 936 of this title] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction."
+"(3) Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Aug. 20, 1996] and before October 1, 1996, only ½ of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) [enacting section 30A of this title and amending this section and sections 56, 59, and 936 of this title] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction."
 
 #### Effective Date of 1993 Amendment ####
 

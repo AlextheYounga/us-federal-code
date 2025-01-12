@@ -1,10 +1,12 @@
 ### §191a. Transfer of Secretary of Transportation's powers to Secretary of Navy when Coast Guard operates as part of Navy ###
 
-When the Coast Guard operates as a part of the Navy pursuant to section 3 <sup><a href="#191a_1_target" name="191a_1">1</a></sup> of title 14, the powers conferred on the Secretary of Transportation by section 191 <sup><a href="#191a_2_target" name="191a_2">2</a></sup> of this title, shall vest in and be exercised by the Secretary of the Navy.
+When the Coast Guard operates as a part of the Navy pursuant to section 3 <sup><a href="#191a_1_target" name="191a_1">1</a></sup> of title 14, the powers conferred on the Secretary of Transportation by section 191 <sup><a href="#191a_1_target" name="191a_1">1</a></sup> of this title, shall vest in and be exercised by the Secretary of the Navy.
 
 (Nov. 15, 1941, ch. 471, §2, 55 Stat. 763; Pub. L. 87–845, §11, Oct. 18, 1962, 76A Stat. 699; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 
 #### References in Text ####
+
+Section 3 of title 14, referred to in text, was redesignated section 103 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 Section 191 of this title, referred to in text, was redesignated and transferred to section 70051 of Title 46, Shipping, by Pub. L. 115–282, title IV, §407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
 
@@ -22,10 +24,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 "Secretary of Transportation" substituted in text for "Secretary of the Treasury" pursuant to section 6(b)(1) of Pub. L. 89–670, which transferred Coast Guard to Department of Transportation and transferred to and vested in Secretary of Transportation functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other officers and offices of Department of the Treasury. See section 108 of Title 49, Transportation.
 
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282 ####
-
-Section 3 of title 14 redesignated section 103 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
-
-[<sup>1</sup> See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below.](#191a_1)
-
-[<sup>2</sup> See References in Text note below.](#191a_2)
+[<sup>1</sup> See References in Text note below.](#191a_1)

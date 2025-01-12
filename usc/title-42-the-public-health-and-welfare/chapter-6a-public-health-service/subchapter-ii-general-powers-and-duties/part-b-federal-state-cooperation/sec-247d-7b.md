@@ -1,8 +1,8 @@
-### §247d–7b. Emergency system for advance registration of health professions volunteers ###
+### §247d–7b. Emergency system for advance registration of volunteer health professional ###
 
 #### (a) In general ####
 
-Not later than 12 months after December 19, 2006, the Secretary shall link existing State verification systems to maintain a single national interoperable network of systems, each system being maintained by a State or group of States, for the purpose of verifying the credentials and licenses of health care professionals who volunteer to provide health services during a public health emergency.
+Not later than 12 months after December 19, 2006, the Secretary shall link existing State verification systems to maintain a single national interoperable network of systems, each system being maintained by a State or group of States, for the purpose of verifying the credentials and licenses of health care professionals who volunteer to provide health services during a public health emergency. Such health care professionals may include members of the National Disaster Medical System, members of the Medical Reserve Corps, and individual health care professionals.
 
 #### (b) Requirements ####
 
@@ -42,7 +42,7 @@ Inclusion of a health professional in the verification network shall not constit
 
 #### (i) Health care provider licenses ####
 
-The Secretary shall encourage States to establish and implement mechanisms to waive the application of licensing requirements applicable to health professionals, who are seeking to provide medical services (within their scope of practice), during a national, State, local, or tribal public health emergency upon verification that such health professionals are licensed and in good standing in another State and have not been disciplined by any State health licensing or disciplinary board.
+The Secretary shall encourage States to establish and implement mechanisms to waive the application of licensing requirements applicable to health professionals, who are seeking to provide medical services (within their scope of practice), during a national, State, local, or tribal public health emergency upon verification that such health professionals are licensed and in good standing in another State and have not been disciplined by any State health licensing or disciplinary board. In order to inform the development of such mechanisms by States, the Secretary shall make available information and material provided by States that have developed mechanisms to waive the application of licensing requirements to applicable health professionals seeking to provide medical services during a public health emergency. Such information shall be made publicly available in a manner that does not compromise national security.
 
 #### (j) Rule of construction ####
 
@@ -50,11 +50,19 @@ This section may not be construed as authorizing the Secretary to issue requirem
 
 #### (k) Authorization of appropriations ####
 
-For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2014 through 2018.
+For the purpose of carrying out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2019 through 2023.
 
-(July 1, 1944, ch. 373, title III, §319I, as added Pub. L. 107–188, title I, §107, June 12, 2002, 116 Stat. 608; amended Pub. L. 109–417, title III, §303(b), Dec. 19, 2006, 120 Stat. 2857; Pub. L. 113–5, title II, §203(b)(1), Mar. 13, 2013, 127 Stat. 175.)
+(July 1, 1944, ch. 373, title III, §319I, as added Pub. L. 107–188, title I, §107, June 12, 2002, 116 Stat. 608; amended Pub. L. 109–417, title III, §303(b), Dec. 19, 2006, 120 Stat. 2857; Pub. L. 113–5, title II, §203(b)(1), Mar. 13, 2013, 127 Stat. 175; Pub. L. 116–22, title II, §207(a), June 24, 2019, 133 Stat. 926.)
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–22, §207(a)(1), substituted "volunteer health professional" for "health professions volunteers" in section catchline.
+
+Subsec. (a). Pub. L. 116–22, §207(a)(2), inserted at end "Such health care professionals may include members of the National Disaster Medical System, members of the Medical Reserve Corps, and individual health care professionals."
+
+Subsec. (i). Pub. L. 116–22, §207(a)(3), inserted at end "In order to inform the development of such mechanisms by States, the Secretary shall make available information and material provided by States that have developed mechanisms to waive the application of licensing requirements to applicable health professionals seeking to provide medical services during a public health emergency. Such information shall be made publicly available in a manner that does not compromise national security."
+
+Subsec. (k). Pub. L. 116–22, §207(a)(4), substituted "2019 through 2023" for "2014 through 2018".
 
 **2013**—Subsec. (k). Pub. L. 113–5 substituted "$5,000,000 for each of fiscal years 2014 through 2018" for "$2,000,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2011".
 

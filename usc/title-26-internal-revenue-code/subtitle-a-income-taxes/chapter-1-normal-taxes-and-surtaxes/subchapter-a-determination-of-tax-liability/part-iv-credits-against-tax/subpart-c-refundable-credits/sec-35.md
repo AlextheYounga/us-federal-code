@@ -440,11 +440,11 @@ Pub. L. 111–344, title I, §117(b), Dec. 29, 2010, 124 Stat. 3616, provided th
 
 Pub. L. 111–144, §3(c), Mar. 2, 2010, 124 Stat. 45, provided that: "The amendments made by this section [amending this section, sections 139C, 6432, and 6720C of this title, and provisions set out as a note under section 6432 of this title] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 [Pub. L. 111–5, set out below] to which they relate, except that—
 
-"(1) the amendments made by subsection (b)(1) [amending provisions set out as a note under this section] shall apply to periods of coverage beginning after the date of the enactment of this Act [Mar. 2, 2010];
+"(1) the amendments made by subsection (b)(1) [amending provisions set out as a note under section 6432 of this title] shall apply to periods of coverage beginning after the date of the enactment of this Act [Mar. 2, 2010];
 
-"(2) the amendments made by subsection (b)(2) [amending provisions set out as a note under this section] shall take effect as if included in the amendments made by section 1010 of division B of the Department of Defense Appropriations Act, 2010 [Pub. L. 111–118, amending provisions set out a note under this section]; and
+"(2) the amendments made by subsection (b)(2) [amending provisions set out as a note under section 6432 of this title] shall take effect as if included in the amendments made by section 1010 of division B of the Department of Defense Appropriations Act, 2010 [Pub. L. 111–118, amending provisions set out a note under this section]; and
 
-"(3) the amendments made by subsections (b)(3) and (b)(4) [amending provisions set out as a note under this section] shall take effect on the date of the enactment of this Act [Mar. 2, 2010]."
+"(3) the amendments made by subsections (b)(3) and (b)(4) [amending provisions set out as a note under section 6432 of this title] shall take effect on the date of the enactment of this Act [Mar. 2, 2010]."
 
 #### Effective Date of 2009 Amendment ####
 

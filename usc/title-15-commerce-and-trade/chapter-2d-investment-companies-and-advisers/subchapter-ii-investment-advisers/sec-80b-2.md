@@ -104,10 +104,6 @@ Whenever pursuant to this subchapter the Commission is engaged in rulemaking and
 
 (Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) [title II, §209(a)(2), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(3)(A), (B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 109–351, title IV, §401(b)(1), Oct. 13, 2006, 120 Stat. 1973; Pub. L. 111–203, title IV, §§402(a), 409(a), title VII, §770, title IX, §986(d), July 21, 2010, 124 Stat. 1570, 1575, 1801, 1936.)
 
-#### Amendment of Section ####
-
-Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text ####
 
 The Bank Holding Company Act of 1956, referred to in subsec. (a)(11)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of Title 12 and Tables.

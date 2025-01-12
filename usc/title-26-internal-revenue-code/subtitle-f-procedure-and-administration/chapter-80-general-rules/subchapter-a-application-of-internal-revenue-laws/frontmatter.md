@@ -24,7 +24,11 @@ Sec.
 
 7811. Taxpayer Assistance Orders.
 
+7812. Streamlined critical pay authority for information technology positions.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–25, title II, §2103(b), July 1, 2019, 133 Stat. 1011, added item 7812.
 
 **1998**—Pub. L. 105–206, title I, §§1101(c)(2), 1102(e)(1), 1104(b)(2), July 22, 1998, 112 Stat. 697, 704, 710, added items 7802 to 7804 and struck out former items 7802 "Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate", 7803 "Other personnel", and 7804 "Effect of reorganization plans".
 

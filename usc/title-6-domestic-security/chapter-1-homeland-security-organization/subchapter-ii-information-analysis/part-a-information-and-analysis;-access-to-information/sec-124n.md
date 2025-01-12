@@ -28,7 +28,7 @@ The Secretary and the Attorney General shall develop for their respective Depart
 
 #### (3) Research, testing, training, and evaluation ####
 
-The Secretary and the Attorney General shall conduct research, testing, <sup><a href="#124n_1_target" name="124n_1">1</a></sup> training on, and evaluation of any equipment, including any electronic equipment, to determine its capability and utility prior to the use of any such technology for any action described in subsection (b)(1).
+The Secretary and the Attorney General shall conduct research, testing, training on, and evaluation of any equipment, including any electronic equipment, to determine its capability and utility prior to the use of any such technology for any action described in subsection (b)(1).
 
 #### (4) Coordination ####
 
@@ -62,7 +62,7 @@ The regulations or guidance issued to carry out actions authorized under subsect
 
 (2) communications to or from an unmanned aircraft system are intercepted or acquired only to the extent necessary to support an action described in subsection (b)(1);
 
-(3) records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine <sup><a href="#124n_2_target" name="124n_2">2</a></sup> that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
+(3) records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine <sup><a href="#124n_1_target" name="124n_1">1</a></sup> that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
 
 (4) such communications are not disclosed outside the Department of Homeland Security or the Department of Justice unless the disclosure—
 
@@ -104,7 +104,7 @@ Each briefing required under paragraph (1) shall include—
 
 (E) a description of instances in which communications intercepted or acquired during the course of operations of an unmanned aircraft system were held for more than 180 days or shared outside of the Department of Justice or the Department of Homeland Security;
 
-(F) how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; <sup><a href="#124n_1_target" name="124n_1">1</a></sup>
+(F) how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; <sup><a href="#124n_2_target" name="124n_2">2</a></sup>
 
 (G) how the Secretary, the Attorney General, and the Secretary of Transportation have engaged with Federal, State, and local law enforcement agencies to implement and use such authorities.
 
@@ -238,19 +238,17 @@ The report required under paragraph (1) shall be submitted in unclassified form,
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
+Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated section 528 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+
 This chapter, referred to in subsec. (l)(1)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
-#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282 ####
+[<sup>1</sup> So in original. Probably should be "determines".](#124n_1)
 
-Section 104 of title 14 redesignated section 528 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
-
-[<sup>1</sup> So in original. Probably should be followed by "and".](#124n_1)
-
-[<sup>2</sup> So in original. Probably should be "determines".](#124n_2)
+[<sup>2</sup> So in original. Probably should be followed by "and".](#124n_2)
 
 [<sup>3</sup> So in original. Probably should be "or".](#124n_3)
 
-[<sup>4</sup> See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below.](#124n_4)
+[<sup>4</sup> See References in Text note below.](#124n_4)
 
 [<sup>5</sup> So in original. Probably should be "meanings".](#124n_5)
 

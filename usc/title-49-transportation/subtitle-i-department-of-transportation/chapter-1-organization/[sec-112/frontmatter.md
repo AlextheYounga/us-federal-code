@@ -12,7 +12,7 @@ Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, provided in par
 
 [Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 396, provided in part: "That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation."]
 
-[Similar provisions were contained in the following prior appropriations acts:]
+[Similar provisions were contained in the following prior appropriations acts:
 
 [Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 972.]
 

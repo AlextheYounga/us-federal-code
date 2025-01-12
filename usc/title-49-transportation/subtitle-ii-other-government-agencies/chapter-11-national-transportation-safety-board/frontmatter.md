@@ -20,13 +20,9 @@ Sec.
 
 1116. Reports, studies, and retrospective reviews.
 
-117. 1
+117. 1 Methodology.
 
-Methodology.
-
-1117. 2
-
-Annual report.
+1117. 2 Annual report.
 
 1118. Authorization of appropriations.
 
@@ -82,4 +78,4 @@ Annual report.
 
 [<sup>1</sup> So in original. Probably should be "1117."](#CHAPTER11_1)
 
-[<sup>2</sup> So in original. New item for section 1117 added without striking out former item 1117.](#CHAPTER11_2)
+[<sup>2</sup> So in original. New item 1117 added without striking out existing item 1117.](#CHAPTER11_2)

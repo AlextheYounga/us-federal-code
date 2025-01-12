@@ -26,7 +26,7 @@ Pub. L. 100–418, title I, §1204(a), Aug. 23, 1988, 102 Stat. 1148, provided t
 
 all conforming to the nomenclature of the Convention and as set forth in Publication No. 2030 of the Commission entitled 'Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes' and Supplement No. 1 thereto; but
 
-"(2) does not include the statistical annotations, notes, annexes, suffixes, check digits, units of quantity, and other matters formulated under section 484(e) of the Tariff Act of 1930 (19 U.S.C. 1484(e)), nor the table of contents, footnotes, index, and other matters inserted for ease of reference, that are included in such Publication No. 2030 or Supplement No. 1. thereto."
+"(2) does not include the statistical annotations, notes, annexes, suffixes, check digits, units of quantity, and other matters formulated under [former] section 484(e) of the Tariff Act of 1930 (19 U.S.C. 1484(e) [now see 19 U.S.C. 1484(f)]), nor the table of contents, footnotes, index, and other matters inserted for ease of reference, that are included in such Publication No. 2030 or Supplement No. 1. thereto."
 
 [For effective date of Harmonized Tariff Schedule as Jan. 1, 1989, see section 1217(b) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.]
 

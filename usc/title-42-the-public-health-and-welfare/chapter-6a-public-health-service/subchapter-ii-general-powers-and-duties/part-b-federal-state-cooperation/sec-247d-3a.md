@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-To enhance the security of the United States with respect to public health emergencies, the Secretary shall award cooperative agreements to eligible entities to enable such entities to conduct the activities described in subsection (d).
+To enhance the security of the United States with respect to public health emergencies, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award cooperative agreements to eligible entities to enable such entities to conduct the activities described in subsection (d).
 
 #### (b) Eligible entities ####
 
@@ -24,27 +24,39 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 (iii) preparedness and response strategies and capabilities that take into account the medical and public health needs of at-risk individuals in the event of a public health emergency;
 
-(iv) a description of the mechanism the entity will implement to utilize the Emergency Management Assistance Compact or other mutual aid agreements for medical and public health mutual aid;
+(iv) a description of the mechanism the entity will implement to utilize the Emergency Management Assistance Compact, or other mutual aid agreement, for medical and public health mutual aid, and, as appropriate, the activities such entity will implement pursuant to section 247d–7b of this title to improve enrollment and coordination of volunteer health care professionals seeking to provide medical services during a public health emergency, which may include—
+
+(I) providing a public method of communication for purposes of volunteer coordination (such as a phone number);
+
+(II) providing for optional registration to participate in volunteer services during processes related to State medical licensing, registration, or certification or renewal of such licensing, registration, or certification; or
+
+(III) other mechanisms as the State determines appropriate;
 
 (v) a description of how the entity will include the State Unit on Aging in public health emergency preparedness;
 
-(vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders in public health emergency preparedness and response;
+(vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders, including public health agencies with specific expertise that may be relevant to public health security, such as environmental health agencies, in public health emergency preparedness and response;
 
-(vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801 of title 20) and State child care lead agencies (designated under section 9858b of this title);
+(vii) a description of how, as applicable, such entity may integrate information to account for individuals with behavioral health needs following a public health emergency;
 
-(viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and
+(viii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801 of title 20) and State child care lead agencies (designated under section 9858b of this title);
 
-(ix) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
+(ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
+
+(x) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
+
+(xi) a description of how the entity will partner with health care facilities, including hospitals and nursing homes and other long-term care facilities, to promote and improve public health preparedness and response; and
+
+(xii) a description of how, as appropriate and practicable, the entity will include critical infrastructure partners, such as utility companies within the entity's jurisdiction, in planning pursuant to this subparagraph to help ensure that critical infrastructure will remain functioning during, or return to function as soon as practicable after, a public health emergency;
 
 (B) an assurance that the entity will report to the Secretary on an annual basis (or more frequently as determined by the Secretary) on the evidence-based benchmarks and objective standards established by the Secretary to evaluate the preparedness and response capabilities of such entity under subsection (g);
 
-(C) an assurance that the entity will conduct, on at least an annual basis, an exercise or drill that meets any criteria established by the Secretary to test the preparedness and response capabilities of such entity, including addressing the needs of at-risk individuals,,<sup><a href="#247d-3a_1_target" name="247d-3a_1">1</a></sup> and that the entity will report back to the Secretary within the application of the following year on the strengths and weaknesses identified through such exercise or drill, and corrective actions taken to address material weaknesses;
+(C) an assurance that the entity will conduct, on at least an annual basis, an exercise or drill that meets any criteria established by the Secretary to test the preparedness and response capabilities of such entity, including addressing the needs of at-risk individuals, and that the entity will report back to the Secretary within the application of the following year on the strengths and weaknesses identified through such exercise or drill, and corrective actions taken to address material weaknesses;
 
 (D) an assurance that the entity will provide to the Secretary the data described under section 247d–4(c)(3) of this title as determined feasible by the Secretary;
 
 (E) an assurance that the entity will conduct activities to inform and educate the hospitals within the jurisdiction of such entity on the role of such hospitals in the plan required under subparagraph (A);
 
-(F) an assurance that the entity, with respect to the plan described under subparagraph (A), has developed and will implement an accountability system to ensure that such entity make <sup><a href="#247d-3a_2_target" name="247d-3a_2">2</a></sup> satisfactory annual improvement and describe <sup><a href="#247d-3a_3_target" name="247d-3a_3">3</a></sup> such system in the plan under subparagraph (A);
+(F) an assurance that the entity, with respect to the plan described under subparagraph (A), has developed and will implement an accountability system to ensure that such entity makes satisfactory annual improvement and describes such system in the plan under subparagraph (A);
 
 (G) a description of the means by which to obtain public comment and input on the plan described in subparagraph (A) and on the implementation of such plan, that shall include an advisory committee or other similar mechanism for obtaining comment from the public and from other State, local, and tribal stakeholders; and
 
@@ -66,7 +78,7 @@ Nothing in this subsection may be construed as establishing new regulatory autho
 
 #### (e) Coordination with local response capabilities ####
 
-An entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant Metropolitan Medical Response Systems, local public health departments, the Cities Readiness Initiative, and local emergency plans.
+An entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant Metropolitan Medical Response Systems, local public health departments, the Cities Readiness Initiative, local emergency plans, and any regional health care emergency preparedness and response system established pursuant to the applicable guidelines under section 247d–3c of this title.
 
 #### (f) Consultation with Homeland Security ####
 
@@ -100,7 +112,7 @@ Not later than 180 days after December 19, 2006, the Secretary shall develop and
 
 #### (B) Rule of construction ####
 
-Nothing in this section shall be construed to require the duplication of Federal efforts with respect to the development of criteria or standards, without regard to whether such efforts were carried out prior to or after December 19, 2006.<sup><a href="#247d-3a_4_target" name="247d-3a_4">4</a></sup>
+Nothing in this section shall be construed to require the duplication of Federal efforts with respect to the development of criteria or standards, without regard to whether such efforts were carried out prior to or after December 19, 2006.<sup><a href="#247d-3a_1_target" name="247d-3a_1">1</a></sup>
 
 #### (3) Technical assistance ####
 
@@ -112,9 +124,9 @@ The Secretary shall develop and implement a process to notify entities that are 
 
 #### (5) Withholding of amounts from entities that fail to achieve benchmarks or submit influenza plan ####
 
-Beginning with fiscal year 2009, and in each succeeding fiscal year, the Secretary shall—
+Beginning with fiscal year 2019, and in each succeeding fiscal year, the Secretary shall—
 
-(A) withhold from each entity that has failed substantially to meet the benchmarks and performance measures described in paragraph (1) for the immediately preceding fiscal year (beginning with fiscal year 2008), pursuant to the process developed under paragraph (4), the amount described in paragraph (6); and
+(A) withhold from each entity that has failed substantially to meet the benchmarks and performance measures described in paragraph (1) for either of the 2 immediately preceding fiscal years (beginning with fiscal year 2018), pursuant to the process developed under paragraph (4), the amount described in paragraph (6); and
 
 (B) withhold from each entity that has failed to submit to the Secretary a plan for responding to pandemic influenza that meets the criteria developed under paragraph (2), the amount described in paragraph (6).
 
@@ -124,13 +136,9 @@ Beginning with fiscal year 2009, and in each succeeding fiscal year, the Secreta
 
 The amounts described in this paragraph are the following amounts that are payable to an entity for activities described in this section or section 247d–3b of this title:
 
-(i) For the fiscal year immediately following a fiscal year in which an entity experienced a failure described in subparagraph (A) or (B) of paragraph (5) by the entity, an amount equal to 10 percent of the amount the entity was eligible to receive for such fiscal year.
+(i) For no more than one of each of the first 2 fiscal years immediately following a fiscal year in which an entity experienced a failure described in subparagraph (A) or (B) of paragraph (5), an amount equal to 10 percent of the amount the entity was eligible to receive for the respective fiscal year.
 
-(ii) For the fiscal year immediately following two consecutive fiscal years in which an entity experienced such a failure, an amount equal to 15 percent of the amount the entity was eligible to receive for such fiscal year, taking into account the withholding of funds for the immediately preceding fiscal year under clause (i).
-
-(iii) For the fiscal year immediately following three consecutive fiscal years in which an entity experienced such a failure, an amount equal to 20 percent of the amount the entity was eligible to receive for such fiscal year, taking into account the withholding of funds for the immediately preceding fiscal years under clauses (i) and (ii).
-
-(iv) For the fiscal year immediately following four consecutive fiscal years in which an entity experienced such a failure, an amount equal to 25 percent of the amount the entity was eligible to receive for such a fiscal year, taking into account the withholding of funds for the immediately preceding fiscal years under clauses (i), (ii), and (iii).
+(ii) For no more than one of the first 2 fiscal years immediately following the third consecutive fiscal year in which an entity experienced such a failure, in lieu of applying clause (i), an amount equal to 15 percent of the amount the entity was eligible to receive for the respective fiscal year.
 
 #### (B) Separate accounting ####
 
@@ -156,7 +164,7 @@ The Secretary may waive or reduce the withholding described in paragraph (6), fo
 
 #### (A) In general ####
 
-For the purpose of carrying out this section, there is authorized to be appropriated $641,900,000 for fiscal year 2014 for awards pursuant to paragraph (3) (subject to the authority of the Secretary to make awards pursuant to paragraphs (4) and (5)), and $641,900,000 for each of fiscal years 2015 through 2018.
+For the purpose of carrying out this section, there is authorized to be appropriated $685,000,000 for each of fiscal years 2019 through 2023 for awards pursuant to paragraph (3) (subject to the authority of the Secretary to make awards pursuant to paragraphs (4) and (5)).
 
 #### (B) Requirement for State matching funds ####
 
@@ -294,13 +302,57 @@ The Secretary may, after notice and opportunity for a hearing, withhold payment 
 
 The Secretary shall compile the data submitted under this section and make such data available in a timely manner on an appropriate Internet website in a format that is useful to the public and to other entities and that provides information on what activities are best contributing to the achievement of the outcome goals described in subsection (g).
 
-(July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179; Pub. L. 114–95, title IX, §9215(kkk)(1), Dec. 10, 2015, 129 Stat. 2187.)
+#### (k) Evaluation ####
+
+#### (1) In general ####
+
+Not later than 2 years after June 24, 2019, and every 2 years thereafter, the Secretary shall conduct an evaluation of the evidence-based benchmarks and objective standards required under subsection (g). Such evaluation shall be submitted to the congressional committees of jurisdiction together with the National Health Security Strategy under section 300hh–1 of this title, at such time as such strategy is submitted.
+
+#### (2) Content ####
+
+The evaluation under this paragraph shall include—
+
+(A) a review of evidence-based benchmarks and objective standards, and associated metrics and targets;
+
+(B) a discussion of changes to any evidence-based benchmarks and objective standards, and the effect of such changes on the ability to track whether entities are meeting or making progress toward the goals under this section and, to the extent practicable, the applicable goals of the National Health Security Strategy under section 300hh–1 of this title;
+
+(C) a description of amounts received by eligible entities described in subsection (b) and section 247d–3b(b) of this title, and amounts received by subrecipients and the effect of such funding on meeting evidence-based benchmarks and objective standards; and
+
+(D) recommendations, as applicable and appropriate, to improve evidence-based benchmarks and objective standards to more accurately assess the ability of entities receiving awards under this section to better achieve the goals under this section and section 300hh–1 of this title.
+
+(July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179; Pub. L. 114–95, title IX, §9215(kkk)(1), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 116–22, title II, §§201(a), 202(a), (b)(1), (d), 203(e)(1), 207(b), title VII, §705(b), June 24, 2019, 133 Stat. 907–910, 914, 927, 964.)
 
 #### Codification ####
 
 December 19, 2006, referred to in subsec. (g)(2)(B), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–417, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments ####
+
+**2019**—Subsec. (a). Pub. L. 116–22, §202(a)(1), inserted ", acting through the Director of the Centers for Disease Control and Prevention," after "the Secretary".
+
+Subsec. (b)(2)(A)(iv). Pub. L. 116–22, §207(b), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "a description of the mechanism the entity will implement to utilize the Emergency Management Assistance Compact or other mutual aid agreements for medical and public health mutual aid;".
+
+Subsec. (b)(2)(A)(vi). Pub. L. 116–22, §202(a)(2)(A), inserted ", including public health agencies with specific expertise that may be relevant to public health security, such as environmental health agencies," after "stakeholders".
+
+Subsec. (b)(2)(A)(vii) to (x). Pub. L. 116–22, §202(a)(2)(B), (C), added cl. (vii) and redesignated former cls. (vii) to (ix) as (viii) to (x), respectively.
+
+Subsec. (b)(2)(A)(xi), (xii). Pub. L. 116–22, §202(a)(2)(D), (E), added cls. (xi) and (xii).
+
+Subsec. (b)(2)(C). Pub. L. 116–22, §705(b)(1), substituted "individuals," for "individuals,,".
+
+Subsec. (b)(2)(F). Pub. L. 116–22, §705(b)(2), substituted "makes satisfactory annual improvement and describes" for "make satisfactory annual improvement and describe".
+
+Subsec. (e). Pub. L. 116–22, §203(e)(1), substituted ", local emergency plans, and any regional health care emergency preparedness and response system established pursuant to the applicable guidelines under section 247d–3c of this title." for ", and local emergency plans."
+
+Subsec. (g)(5). Pub. L. 116–22, §202(b)(1)(A)(i), substituted "Beginning with fiscal year 2019" for "Beginning with fiscal year 2009" in introductory provisions.
+
+Subsec. (g)(5)(A). Pub. L. 116–22, §202(b)(1)(A)(ii), substituted "for either of the 2 immediately preceding fiscal years" for "for the immediately preceding fiscal year" and "2018" for "2008".
+
+Subsec. (g)(6)(A). Pub. L. 116–22, §202(b)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) consisted of cls. (i) to (iv) describing amounts payable to an entity for the fiscal year immediately following one to four fiscal years in which the entity experienced a failure described in subsec. (g)(5)(A) or (B).
+
+Subsec. (h)(1)(A). Pub. L. 116–22, §202(d), substituted "$685,000,000 for each of fiscal years 2019 through 2023 for awards pursuant to paragraph (3) (subject to the authority of the Secretary to make awards pursuant to paragraphs (4) and (5))." for "$641,900,000 for fiscal year 2014 for awards pursuant to paragraph (3) (subject to the authority of the Secretary to make awards pursuant to paragraphs (4) and (5)), and $641,900,000 for each of fiscal years 2015 through 2018."
+
+Subsec. (k). Pub. L. 116–22, §201(a), added subsec. (k).
 
 **2015**—Subsec. (b)(2)(A)(vii). Pub. L. 114–95 substituted "including State educational agencies (as defined in section 7801 of title 20)" for "including State educational agencies (as defined in section 7801(41) of title 20)".
 
@@ -370,6 +422,10 @@ Pub. L. 109–417, §201(3), redesignated subsec. (j) as (i).
 
 Subsec. (k). Pub. L. 109–417, §201(5), added subsec. (k).
 
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–22, title II, §202(b)(2), June 24, 2019, 133 Stat. 909, provided that: "The amendments made by paragraph (1) [amending this section] shall apply with respect to cooperative agreements awarded on or after the date of enactment of this Act [June 24, 2019]."
+
 #### Effective Date of 2015 Amendment ####
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -390,10 +446,4 @@ Pub. L. 110–53, title XXII, §2201(d), Aug. 3, 2007, 121 Stat. 541, provided t
 
 "(6) Transfer of information and knowledge.—The Assistant Secretary shall establish mechanisms to ensure that the information and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications."
 
-[<sup>1</sup> So in original.](#247d-3a_1)
-
-[<sup>2</sup> So in original. Probably should be "makes".](#247d-3a_2)
-
-[<sup>3</sup> So in original. Probably should be "describes".](#247d-3a_3)
-
-[<sup>4</sup> See Codification note below.](#247d-3a_4)
+[<sup>1</sup> See Codification note below.](#247d-3a_1)

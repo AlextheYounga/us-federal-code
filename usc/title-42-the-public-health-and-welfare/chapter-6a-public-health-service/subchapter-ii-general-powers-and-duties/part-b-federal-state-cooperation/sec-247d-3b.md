@@ -2,23 +2,25 @@
 
 #### (a) In general ####
 
-The Secretary shall award competitive grants or cooperative agreements to eligible entities to enable such entities to improve surge capacity and enhance community and hospital preparedness for public health emergencies, including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals.
+The Secretary, acting through the Assistant Secretary for Preparedness and Response, shall award competitive grants or cooperative agreements to eligible entities to enable such entities to improve surge capacity and enhance community and hospital preparedness for, and response to, public health emergencies in accordance with subsection (c), including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals.
 
 #### (b) Eligibility ####
 
 To be eligible for an award under subsection (a), an entity shall—
 
-(1)(A) be a partnership consisting of—
+(1)(A) be a coalition that includes—
 
 (i) one or more hospitals, at least one of which shall be a designated trauma center, consistent with section 300d–13(c) of this title;
 
-(ii) one or more other local health care facilities, including clinics, health centers, community health centers, primary care facilities, mental health centers, mobile medical assets, or nursing homes; and
+(ii) one or more other local health care facilities, including clinics, health centers, community health centers, primary care facilities, mental health centers, mobile medical assets, or nursing homes;
 
 (iii)(I) one or more political subdivisions;
 
 (II) one or more States; or
 
 (III) one or more States and one or more political subdivisions; and
+
+(iv) one or more emergency medical service organizations or emergency management organizations; and
 
 (B) prepare, in consultation with the Chief Executive Officer and the lead health officials of the State, District, or territory in which the hospital and health care facilities described in subparagraph (A) are located, and submit to the Secretary, an application at such time, in such manner, and containing such information as the Secretary may require; or
 
@@ -38,11 +40,13 @@ In making awards under subsection (a), the Secretary shall give preference to el
 
 (A) will enhance coordination—
 
-(i) among the entities described in subsection (b)(1)(A)(i); and
+(i) among the entities described in subsection (b)(1)(A)(i);
 
-(ii) between such entities and the entities described in subsection (b)(1)(A)(ii); and
+(ii) among one or more facilities in a regional health care emergency system under section 247d–3c of this title; and
 
-(B) include, in the partnership described in subsection (b)(1)(A), a significant percentage of the hospitals and health care facilities within the geographic area served by such partnership.
+(iii) between such entities and the entities described in subsection (b)(1)(A)(ii); and
+
+(B) include, in the coalition described in subsection (b)(1)(A), a significant percentage of the hospitals and health care facilities within the geographic area served by such coalition.
 
 #### (2) Other preferences ####
 
@@ -52,7 +56,7 @@ In making awards under subsection (a), the Secretary shall give preference to el
 
 (B) are located in a geographic area that faces a high degree of risk, as determined by the Secretary in consultation with the Secretary of Homeland Security; or
 
-(C) have a significant need for funds to achieve the medical preparedness goals described in section 300hh–1(b)(3) of this title.
+(C) have a significant need for funds to achieve the preparedness and response goals described in section 300hh–1(b)(3) of this title.
 
 #### (e) Consistency of planned activities ####
 
@@ -60,7 +64,7 @@ The Secretary may not award a cooperative agreement to an eligible entity descri
 
 #### (f) Limitation on awards ####
 
-A political subdivision shall not participate in more than one partnership described in subsection (b)(1).
+A political subdivision shall not participate in more than one coalition described in subsection (b)(1).
 
 #### (g) Coordination ####
 
@@ -70,7 +74,7 @@ An eligible entity shall, to the extent practicable, ensure that activities carr
 
 #### (2) National collaboration ####
 
-Partnerships consisting of one or more eligible entities under this section may, to the extent practicable, collaborate with other partnerships consisting of one or more eligible entities under this section for purposes of national coordination and collaboration with respect to activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of section 300hh–1(b) of this title.
+Coalitions consisting of one or more eligible entities under this section may, to the extent practicable, collaborate with other coalitions consisting of one or more eligible entities under this section for purposes of national coordination and collaboration with respect to activities to achieve the preparedness and response goals described under paragraphs (1), (3), (4), (5), and (6) of section 300hh–1(b) of this title.
 
 #### (h) Maintenance of funding ####
 
@@ -86,7 +90,7 @@ Nothing in this section shall be construed to prohibit the use of awards under t
 
 #### (1) In general ####
 
-The requirements of section 247d–3a(g), (i), and (j) of this title shall apply to entities receiving awards under this section (regardless of whether such entities are described under subsection (b)(1)(A) or (b)(2)(A)) in the same manner as such requirements apply to entities under section 247d–3a of this title. An entity described in subsection (b)(1)(A) shall make such reports available to the lead health official of the State in which such partnership is located.
+The requirements of section 247d–3a(g), (i), (j), and (k) of this title shall apply to entities receiving awards under this section (regardless of whether such entities are described under subsection (b)(1)(A) or (b)(2)(A)) in the same manner as such requirements apply to entities under section 247d–3a of this title. In submitting reports under this paragraph, a coalition shall include information on the progress that the coalition has made toward the implementation of section 247d–3c of this title (or barriers to progress, if any). A coalition described in subsection (b)(1)(A) shall make such reports available to the lead health official of the State in which such coalition is located.
 
 #### (2) Meeting goals of National Health Security Strategy ####
 
@@ -96,17 +100,33 @@ The Secretary shall implement objective, evidence-based metrics to ensure that e
 
 #### (1) In general ####
 
-For purposes of carrying out this section, there is authorized to be appropriated $374,700,000 for each of fiscal years 2014 through 2018.
+#### (A) Authorization of appropriations ####
+
+For purposes of carrying out this section and section 247d–3c of this title, in accordance with subparagraph (B), there is authorized to be appropriated $385,000,000 for each of fiscal years 2019 through 2023.
+
+#### (B) Reservation of amounts for regional systems ####
+
+#### (i) In general ####
+
+Subject to clause (ii), of the amount appropriated under subparagraph (A) for a fiscal year, the Secretary may reserve up to 5 percent for the purpose of carrying out section 247d–3c of this title.
+
+#### (ii) Reservation contingent on continued appropriations for this section ####
+
+If for fiscal year 2019 or a subsequent fiscal year, the amount appropriated under subparagraph (A) is such that, after application of clause (i), the amount remaining for the purpose of carrying out this section would be less than the amount available for such purpose for the previous fiscal year, the amount that may be reserved under clause (i) shall be reduced such that the amount remaining for the purpose of carrying out this section is not less than the amount available for such purpose for the previous fiscal year.
+
+#### (iii) Sunset ####
+
+The authority to reserve amounts under clause (i) shall expire on September 30, 2023.
 
 #### (2) Reservation of amounts for partnerships ####
 
-Prior to making awards described in paragraph (3), the Secretary may reserve from the amount appropriated under paragraph (1) for a fiscal year, an amount determined appropriate by the Secretary for making awards to entities described in subsection (b)(1)(A).
+Prior to making awards described in paragraph (3), the Secretary may reserve from the amount appropriated under paragraph (1)(A) for a fiscal year and not reserved for the purpose described in paragraph (1)(B)(i), an amount determined appropriate by the Secretary for making awards to entities described in subsection (b)(1)(A).
 
 #### (3) Awards to States and political subdivisions ####
 
 #### (A) In general ####
 
-From amounts appropriated for a fiscal year under paragraph (1) and not reserved under paragraph (2), the Secretary shall make awards to entities described in subsection (b)(2)(A) that have completed an application as described in subsection (b)(2)(B).
+From amounts appropriated for a fiscal year under paragraph (1)(A) and not reserved under paragraph (1)(B)(i) or (2), the Secretary shall make awards to entities described in subsection (b)(2)(A) that have completed an application as described in subsection (b)(2)(B).
 
 #### (B) Amount ####
 
@@ -122,9 +142,37 @@ Amounts provided to an eligible entity under a cooperative agreement under subse
 
 The continued availability of funds under subparagraph (A) with respect to an entity shall be contingent upon such entity achieving the benchmarks and submitting the pandemic influenza plan as required under subsection (i).
 
-(July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624; amended Pub. L. 109–417, title III, §305, Dec. 19, 2006, 120 Stat. 2861; Pub. L. 110–85, title XI, §1104(1), Sept. 27, 2007, 121 Stat. 975; Pub. L. 113–5, title II, §§202(c)(2), 203(c), Mar. 13, 2013, 127 Stat. 175, 176.)
+(July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624; amended Pub. L. 109–417, title III, §305, Dec. 19, 2006, 120 Stat. 2861; Pub. L. 110–85, title XI, §1104(1), Sept. 27, 2007, 121 Stat. 975; Pub. L. 113–5, title II, §§202(c)(2), 203(c), Mar. 13, 2013, 127 Stat. 175, 176; Pub. L. 116–22, title II, §§201(b), 202(c), (e), 203(c), (e)(2), June 24, 2019, 133 Stat. 908–910, 914.)
 
 #### Amendments ####
+
+**2019**—Subsec. (a). Pub. L. 116–22, §202(c)(1), inserted ", acting through the Assistant Secretary for Preparedness and Response," after "The Secretary" and substituted "preparedness for, and response to, public health emergencies in accordance with subsection (c)" for "preparedness for public health emergencies".
+
+Subsec. (b)(1)(A). Pub. L. 116–22, §202(c)(2)(A), substituted "coalition that includes" for "partnership consisting of" in introductory provisions.
+
+Subsec. (b)(1)(A)(iv). Pub. L. 116–22, §202(c)(2)(B), (C), added cl. (iv).
+
+Subsec. (d)(1)(A)(ii). Pub. L. 116–22, §203(e)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (d)(1)(B). Pub. L. 116–22, §202(c)(3)(A), substituted "coalition" for "partnership" in two places.
+
+Subsec. (d)(2)(C). Pub. L. 116–22, §202(c)(3)(B), substituted "preparedness and response" for "medical preparedness".
+
+Subsec. (f). Pub. L. 116–22, §202(c)(4), substituted "coalition" for "partnership".
+
+Subsec. (g)(2). Pub. L. 116–22, §202(c)(5), substituted "Coalitions" for "Partnerships" and "coalitions" for "partnerships" and inserted "and response" after "preparedness".
+
+Subsec. (i)(1). Pub. L. 116–22, §203(c), inserted "In submitting reports under this paragraph, a coalition shall include information on the progress that the coalition has made toward the implementation of section 247d–3c of this title (or barriers to progress, if any)." after "under section 247d–3a of this title."
+
+Pub. L. 116–22, §202(c)(6), substituted "A coalition" for "An entity" and "such coalition" for "such partnership".
+
+Pub. L. 116–22, §201(b), substituted "section 247d–3a(g), (i), (j), and (k)" for "section 247d–3a(g), (i), and (j)".
+
+Subsec. (j)(1). Pub. L. 116–22, §202(e)(1), amended par. (1) generally. Prior to amendment, text read as follows: "For purposes of carrying out this section, there is authorized to be appropriated $374,700,000 for each of fiscal years 2014 through 2018."
+
+Subsec. (j)(2). Pub. L. 116–22, §202(e)(2), substituted "paragraph (1)(A) for a fiscal year and not reserved for the purpose described in paragraph (1)(B)(i)" for "paragraph (1) for a fiscal year".
+
+Subsec. (j)(3)(A). Pub. L. 116–22, §202(e)(3), substituted "paragraph (1)(A) and not reserved under paragraph (1)(B)(i) or (2)" for "paragraph (1) and not reserved under paragraph (2)".
 
 **2013**—Subsec. (a). Pub. L. 113–5, §203(c)(1), inserted ", including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals" before period at end.
 

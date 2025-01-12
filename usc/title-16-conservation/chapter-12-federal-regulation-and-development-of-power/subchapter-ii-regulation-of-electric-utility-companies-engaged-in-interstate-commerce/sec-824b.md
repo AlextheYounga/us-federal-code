@@ -6,7 +6,7 @@
 
 (A) sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $10,000,000;
 
-(B) merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;
+(B) merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;
 
 (C) purchase, acquire, or take any security with a value in excess of $10,000,000 of any other public utility; or
 
@@ -39,14 +39,6 @@
 The Commission may grant any application for an order under this section in whole or in part and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
 
 (June 10, 1920, ch. 285, pt. II, §203, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 849; amended Pub. L. 109–58, title XII, §1289(a), Aug. 8, 2005, 119 Stat. 982; Pub. L. 115–247, §§1, 2, Sept. 28, 2018, 132 Stat. 3152.)
-
-#### Amendment of Subsection (a)(1)(B) ####
-
-Pub. L. 115–247, §§1, 3, Sept. 28, 2018, 132 Stat. 3152, provided that, effective 180 days after Sept. 28, 2018, subsection (a)(1) of this section is amended by striking subparagraph (B) and inserting the following:
-
-*"(B) merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;".*
-
-See 2018 Amendment note below.
 
 #### References in Text ####
 

@@ -112,6 +112,8 @@ Sec.
 
 6720B. Fraudulent identification of exempt use property.
 
+[6720C. Repealed.]
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(306), (307), (d)(7)(B), Mar. 23, 2018, 132 Stat. 1199, 1212, substituted "Assessable penalties with respect to liability for tax under chapter 42" for "Repeated liability for tax under chapter 42" in item 6684 and "Failure to file returns or supply information by DISC or former FSC" for "Failure to file returns or supply information by DISC or FSC" in item 6686 and struck out item 6720C "Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance".

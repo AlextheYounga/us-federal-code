@@ -228,43 +228,15 @@ Another prior section 38 was renumbered section 37 of this title.
 
 #### Amendments ####
 
-**2018**—Subsec. (b)(24), (25). Pub. L. 115–141, §401(d)(2)(B), redesignated par. (25) as (24) and struck out former par. (24) which read as follows: "the energy efficient appliance credit determined under section 45M(a),".
+**2018**—Subsec. (b)(24), (25). Pub. L. 115–141, §401(d)(2)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) which read as follows: "the energy efficient appliance credit determined under section 45M(a),".
 
-Subsec. (b)(26). Pub. L. 115–141, §401(d)(6)(B)(i), redesignated par. (30) as (26) and struck out former par. (26) which read as follows: "the Hurricane Katrina housing credit determined under section 1400P(b),".
+Subsec. (b)(26) to (29). Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (31) to (34) first as (30) to (33), and then as (26) to (29), respectively. Former par. (26) redesignated (25), and former pars. (27) to (29) redesignated (26) to (28), respectively, and then struck out.
 
-Pub. L. 115–141, §401(d)(2)(B), redesignated par. (27) as (26). Former par. (26) redesignated (25).
+Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (27) to (30) as (26) to (29), respectively, and then struck them out. Prior to amendment, these four pars. set out credits for the Hurricane Katrina housing credit determined under section 1400P(b), the Hurricane Katrina employee retention credit determined under section 1400R(a), the Hurricane Rita employee retention credit determined under section 1400R(b), and the Hurricane Wilma employee retention credit determined under section 1400R(c).
 
-Subsec. (b)(27). Pub. L. 115–141, §401(d)(6)(B)(i), redesignated par. (31) as (27) and struck out former par. (27) which read as follows: "the Hurricane Katrina employee retention credit determined under section 1400R(a),".
+Subsec. (b)(30) to (32). Pub. L. 115–141, §401(d)(2)(B), (6)(B)(i), redesignated pars. (35) to (37) first as (34) to (36), and then as (30) to (32), respectively. Former par. (30) redesignated (29) and then struck out, and former pars. (31) and (32) first redesignated (30) and (31), then (26) and (27), respectively.
 
-Pub. L. 115–141, §401(d)(2)(B), redesignated par. (28) as (27). Former par. (27) redesignated (26).
-
-Subsec. (b)(28). Pub. L. 115–141, §401(d)(6)(B)(i), redesignated par. (32) as (28) and struck out former par. (28) which read as follows: "the Hurricane Rita employee retention credit determined under section 1400R(b),".
-
-Pub. L. 115–141, §401(d)(2)(B), redesignated par. (29) as (28). Former par. (28) redesignated (27).
-
-Subsec. (b)(29). Pub. L. 115–141, §401(d)(6)(B)(i), redesignated par. (33) as (29) and struck out former par. (29) which read as follows: "the Hurricane Wilma employee retention credit determined under section 1400R(c),".
-
-Pub. L. 115–141, §401(d)(2)(B), redesignated par. (30) as (29). Former par. (29) redesignated (28).
-
-Subsec. (b)(30) to (32). Pub. L. 115–141, §401(d)(6)(B)(i), redesignated pars. (34) to (36) as (30) to (32), respectively. Former pars. (30) to (32) redesignated (26) to (28), respectively.
-
-Pub. L. 115–141, §401(d)(2)(B), redesignated pars. (31) to (33) as (30) to (32), respectively. Former par. (30) redesignated (29).
-
-Subsec. (b)(33). Pub. L. 115–141, §401(d)(6)(B)(i), redesignated par. (33) as (29).
-
-Pub. L. 115–141, §401(d)(2)(B), redesignated par. (34) as (33). Former par. (33) redesignated (32).
-
-Subsec. (b)(34). Pub. L. 115–141, §401(d)(6)(B)(i), redesignated par. (34) as (30).
-
-Pub. L. 115–141, §401(d)(2)(B), redesignated par. (35) as (34). Former par. (34) redesignated (33).
-
-Pub. L. 115–141, §401(a)(8), inserted comma at end.
-
-Subsec. (b)(35), (36). Pub. L. 115–141, §401(d)(6)(B)(i), redesignated pars. (35) and (36) as (31) and (32), respectively.
-
-Pub. L. 115–141, §401(d)(2)(B), redesignated pars. (36) and (37) as (35) and (36), respectively. Former par. (35) redesignated (34).
-
-Subsec. (b)(37). Pub. L. 115–141, §401(d)(2)(B), redesignated par. (37) as (36).
+Subsec. (b)(33) to (37). Pub. L. 115–141, §401(a)(8), (d)(2)(B), (6)(B)(i), inserted comma at end of par. (34) and subsequently redesignated pars. (33) to (37) first as (32) to (36), and then as (28) to (32), respectively.
 
 Subsec. (c)(2)(A)(ii)(II). Pub. L. 115–141, §401(d)(6)(B)(ii), struck out ", the New York Liberty Zone business employee credit," after "empowerment zone employment credit".
 
@@ -687,6 +659,8 @@ Amendment by Pub. L. 98–369 applicable to interest paid or accrued after Decem
 Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
 
 #### Savings Provision ####
+
+For provisions that amendment made by section 401(d)(6)(B)(i)–(iii) of Pub. L. 115–141 not apply, in the case of certain repeals, to various types of wages, bonds, property, or other items before specific dates, see section 401(d)(6)(C) of Pub. L. 115–141, set out as a note under former section 1400L of this title.
 
 For provisions that nothing in amendment by section 401(b)(5)(A)–(D), (d)(2)(B), (6)(B)(i)–(iii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

@@ -240,7 +240,7 @@ A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as add
 
 #### Amendments ####
 
-**2018**—Subsec. (b)(5)(A). Pub. L. 115–123, §50206(c)(1), substituted "containing the following:" for "containing a description of—" in introductory provisions, inserted "(i) A description of—", redesignated former cls. (i) to (vi) as subcls. (I) to (VI), respectively, of cl. (i), and added cls. (ii) and (iii).
+**2018**—Subsec. (b)(5)(A). Pub. L. 115–123, §50206(c)(1), substituted "containing the following:" for "containing a description of—" in introductory provisions, inserted "(i) A description of—", redesignated former cls. (i) to (vi) as subcls. (I) to (VI), respectively, of cl. (i), realigned margins, and added cls. (ii) and (iii).
 
 Subsec. (d)(2). Pub. L. 115–123, §50206(a), substituted "2014," for "2014 and" and inserted ", and $7,500,000 for each of fiscal years 2018 and 2019" after "through 2017" and "Amounts transferred for each of fiscal years 2018 and 2019 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence." after "until expended."
 

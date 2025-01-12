@@ -18,6 +18,10 @@ Section 314(6) of title 6, referred to in subsec. (a), was in the original "sect
 
 **2006**—Pub. L. 109–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a national preparedness plan for carrying out health-related activities to prepare for and respond effectively to bioterrorism and other public health emergencies.
 
+#### Guidance for Participation in Exercises and Drills ####
+
+Pub. L. 116–22, title III, §306, June 24, 2019, 133 Stat. 941, provided that: "Not later than 2 years after the date of enactment of this Act [June 24, 2019], the Secretary of Health and Human Services shall issue final guidance regarding the ability of personnel funded by programs authorized under this Act [see Tables for classification] (including the amendments made by this Act) to participate in drills and operational exercises related to all-hazards medical and public health preparedness and response. Such drills and operational exercises may include activities that incorporate medical surge capacity planning, medical countermeasure distribution and administration, and preparing for and responding to identified threats for that region. Such personnel may include State, local, Tribal, and territorial public health department or agency personnel funded under this Act (including the amendments made by this Act). The Secretary shall consult with the Department of Homeland Security, the Department of Defense, the Department of Veterans Affairs, and other applicable Federal departments and agencies as necessary and appropriate in the development of such guidance. The Secretary shall make the guidance available on the internet website of the Department of Health and Human Services."
+
 #### Government Accountability Office Report ####
 
 Pub. L. 107–188, title I, §157, June 12, 2002, 116 Stat. 633, provided that:

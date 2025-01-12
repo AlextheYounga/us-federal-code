@@ -8,7 +8,7 @@ The Office of Advocacy shall also perform the following duties on a continuing b
 
 (2) counsel small businesses on how to resolve questions and problems concerning the relationship of the small business to the Federal Government;
 
-(3) develop proposals for changes in the policies and activities of any agency of the Federal Government which will better fulfill the purposes of this chapter and communicate such proposals to the appropriate Federal agencies;
+(3) develop proposals for changes in the policies and activities of any agency of the Federal Government which will better fulfill the purposes of the Small Business Act and communicate such proposals to the appropriate Federal agencies;
 
 (4) represent the views and interests of small businesses before other Federal agencies whose policies and activities may affect small business;
 
@@ -79,6 +79,10 @@ To ensure that negotiations for the covered trade agreement are not disrupted, t
 The Chief Counsel for Advocacy shall, to the extent practicable, coordinate the submission of the report under this paragraph with the United States International Trade Commission, the United States Trade Representative, other agencies, and trade advisory committees to avoid unnecessary duplication of reporting requirements.
 
 (Pub. L. 94–305, title II, §203, June 4, 1976, 90 Stat. 669; Pub. L. 111–240, title I, §1602(a), Sept. 27, 2010, 124 Stat. 2551; Pub. L. 114–125, title V, §502, Feb. 24, 2016, 130 Stat. 172.)
+
+#### References in Text ####
+
+The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
 
 #### Codification ####
 

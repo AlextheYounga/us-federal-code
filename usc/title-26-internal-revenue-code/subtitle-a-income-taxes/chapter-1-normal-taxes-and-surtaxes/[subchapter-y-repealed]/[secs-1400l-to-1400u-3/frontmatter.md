@@ -2,7 +2,7 @@
 
 Section 1400L, added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757; Pub. L. 108–311, title III, §309(a)–(c), title IV, §403(c), Oct. 4, 2004, 118 Stat. 1179, 1180, 1187; Pub. L. 109–135, title IV, §§405(a)(2), 412(ss), Dec. 21, 2005, 119 Stat. 2634, 2640; Pub. L. 110–185, title I, §103(c)(8), Feb. 13, 2008, 122 Stat. 619; Pub. L. 111–240, title II, §2022(b)(6), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(6), title VII, §761(a), Dec. 17, 2010, 124 Stat. 3306, 3323; Pub. L. 112–240, title III, §§328(a), 331(e)(4), Jan. 2, 2013, 126 Stat. 2334, 2337; Pub. L. 113–295, div. A, title I, §125(d)(4), Dec. 19, 2014, 128 Stat. 4017, related to tax benefits for New York Liberty Zone.
 
-Section 1400M, added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2578, related to definitions for part relating to tax benefits for go zones.
+Section 1400M, added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2578, related to definitions for part relating to tax benefits for GO Zones.
 
 Section 1400N, added Pub. L. 109–135, title I, §101(a), Dec. 21, 2005, 119 Stat. 2579; amended Pub. L. 109–432, div. A, title I, §§107(b)(2), 120(a), (b), Dec. 20, 2006, 120 Stat. 2939, 2943; Pub. L. 110–28, title VIII, §§8221–8223, May 25, 2007, 121 Stat. 194, 195; Pub. L. 110–185, title I, §103(c)(9), (10), Feb. 13, 2008, 122 Stat. 619; Pub. L. 110–234, title XV, §15316(c)(1), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(1), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title III, §3082(b)(1), (c)(1), July 30, 2008, 122 Stat. 2907; Pub. L. 110–343, div. C, title III, §320(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–5, div. B, title I, §§1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, 123 Stat. 333, 360; Pub. L. 111–240, title II, §2022(b)(7), Sept. 27, 2010, 124 Stat. 2558; Pub. L. 111–312, title IV, §401(d)(7), title VII, §§762(a), 763, 764(a), 765(a), Dec. 17, 2010, 124 Stat. 3306, 3323, 3324; Pub. L. 112–240, title III, §331(e)(5), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §125(d)(5), title II, §220(q), Dec. 19, 2014, 128 Stat. 4017, 4036, related to tax benefits for Gulf Opportunity Zone.
 
@@ -24,11 +24,9 @@ Section 1400U–2, added Pub. L. 111–5, div. B, title I, §1401(a), Feb. 17, 2
 
 Section 1400U–3, added Pub. L. 111–5, div. B, title I, §1401(a), Feb. 17, 2009, 123 Stat. 350, related to recovery zone facility bonds.
 
-Savings Provisions
+#### Savings Provisions ####
 
-Pub. L. 115–141, div. U, title IV, §401(d)(6)(C), Mar. 23, 2018, 132 Stat. 1211, provided that:
-
-"The amendments made by this paragraph [amending sections 38, 280C, 6033, and 6049 of this title and repealing sections 1400L to 1400U–3 of this title] shall not apply to—
+Pub. L. 115–141, div. U, title IV, §401(d)(6)(C), Mar. 23, 2018, 132 Stat. 1211, provided that: "The amendments made by this paragraph [amending sections 38, 280C, 6033, and 6049 of this title and repealing sections 1400L to 1400U–3 of this title] shall not apply to—
 
 "(i) in the case of the repeal of section 1400L(a) of the Internal Revenue Code of 1986, qualified wages (as defined in such section, as in effect before its repeal) which were paid or incurred before January 1, 2004,
 

@@ -140,16 +140,6 @@ Pub. L. 102–546, title II, §214(b), Oct. 28, 1992, 106 Stat. 3611, provided t
 
 #### Penalties Study and Guidelines ####
 
-Pub. L. 102–546, title II, §225, Oct. 28, 1992, 106 Stat. 3618, provided that:
-
-"(a) Study.—The Commodity Futures Trading Commission shall study the penalties the Commission imposes against persons found to have violated the Commodity Exchange Act (7 U.S.C. 1 et seq.) and the penalties imposed by contract markets and registered futures associations against persons found to have violated their respective rules established under such Act.
-
-"(b) Report.—Not later than two years after the date of enactment of this Act [Oct. 28, 1992], the Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study conducted under subsection (a). The report shall—
-
-"(1) include an analysis of whether systematic differences exist among penalties imposed by various contract markets and registered futures associations for similar offenses, and, if so, the causes of such differences;
-
-"(2) propose industry-wide guidelines or rules to make penalty levels among contract markets and registered futures associations consistent, including, if appropriate, minimum penalties or penalty ranges for various offenses; and
-
-"(3) propose guidelines or rules to make Commission penalty levels consistent, including, if appropriate, minimum penalties or penalty ranges for various offenses."
+Pub. L. 102–546, title II, §225, Oct. 28, 1992, 106 Stat. 3618, provided that the Commodity Futures Trading Commission should study the penalties the Commission imposes against persons found to have violated the Commodity Exchange Act (7 U.S.C. 1 et seq.) and the penalties imposed by contract markets and registered futures associations against persons found to have violated their respective rules established under such Act, and, within two years after Oct. 28, 1992, submit to Congress a report, including proposed penalty guidelines, that describes the results of the study.
 
 [<sup>1</sup> So in original. Probably should be "section".](#13_1)

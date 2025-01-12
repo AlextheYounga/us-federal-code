@@ -1,123 +1,167 @@
-### §247d–7f. National Biodefense Science Board and working groups ###
+### §247d–7f. Collaboration and Coordination ###
 
-#### (a) In general ####
+#### (a) Limited antitrust exemption ####
 
-#### (1) Establishment and function ####
+#### (1) Meetings and consultations to discuss security countermeasures, qualified countermeasures, or qualified pandemic or epidemic product development ####
 
-The Secretary shall establish the National Biodefense Science Board (referred to in this section as the "Board") to provide expert advice and guidance to the Secretary on scientific, technical and other matters of special interest to the Department of Health and Human Services regarding current and future chemical, biological, nuclear, and radiological agents, whether naturally occurring, accidental, or deliberate.
+#### (A) Authority to conduct meetings and consultations ####
 
-#### (2) Membership ####
+The Secretary, in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 247d–6b of this title), a qualified countermeasure (as defined in section 247d–6a of this title), or a qualified pandemic or epidemic product (as defined in section 247d–6d of this title) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the "Chairman"), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
 
-The membership of the Board shall be comprised of individuals who represent the Nation's preeminent scientific, public health, and medical experts, as follows—
+#### (B) Meeting and consultation conditions ####
 
-(A) such Federal officials as the Secretary may determine are necessary to support the functions of the Board;
+A meeting or consultation conducted under subparagraph (A) shall—
 
-(B) four individuals representing the pharmaceutical, biotechnology, and device industries;
+(i) be chaired or, in the case of a consultation, facilitated by the Secretary;
 
-(C) four individuals representing academia; and
+(ii) be open to persons involved in the development, manufacture, distribution, purchase, or storage of a countermeasure or product, as determined by the Secretary;
 
-(D) five other members as determined appropriate by the Secretary, of whom—
+(iii) be open to the Attorney General, the Secretary of Homeland Security, and the Chairman;
 
-(i) one such member shall be a practicing healthcare professional;
+(iv) be limited to discussions involving covered activities; and
 
-(ii) one such member shall be an individual from an organization representing healthcare consumers;
+(v) be conducted in such manner as to ensure that no national security, confidential commercial, or proprietary information is disclosed outside the meeting or consultation.
 
-(iii) one such member shall be an individual with pediatric subject matter expertise; and
+#### (C) Limitation ####
 
-(iv) one such member shall be a State, tribal, territorial, or local public health official.
+The Secretary may not require participants to disclose confidential commercial or proprietary information.
 
-Nothing in this paragraph shall preclude a member of the Board from satisfying two or more of the requirements described in subparagraph (D).
+#### (D) Transcript ####
 
-#### (3) Term of appointment ####
+The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5 to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
 
-A member of the Board described in subparagraph (B), (C), or (D) of paragraph (2) shall serve for a term of 3 years, except that the Secretary may adjust the terms of the initial Board appointees in order to provide for a staggered term of appointment for all members.
+#### (E) Exemption ####
 
-#### (4) Consecutive appointments; maximum terms ####
+#### (i) In general ####
 
-A member may be appointed to serve not more than 3 terms on the Board and may serve not more than 2 consecutive terms.
+Subject to clause (ii), it shall not be a violation of the antitrust laws for any person to participate in a meeting or consultation conducted in accordance with this paragraph.
 
-#### (5) Duties ####
+#### (ii) Limitation ####
 
-The Board shall—
+Clause (i) shall not apply to any agreement or conduct that results from a meeting or consultation and that is not covered by an exemption granted under paragraph (4).
 
-(A) advise the Secretary on current and future trends, challenges, and opportunities presented by advances in biological and life sciences, biotechnology, and genetic engineering with respect to threats posed by naturally occurring infectious diseases and chemical, biological, radiological, and nuclear agents;
+#### (2) Submission of written agreements ####
 
-(B) at the request of the Secretary, review and consider any information and findings received from the working groups established under subsection (b);
+The Secretary shall submit each written agreement regarding covered activities that is made pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—
 
-(C) at the request of the Secretary, provide recommendations and findings for expanded, intensified, and coordinated biodefense research and development activities; and
+(A) an explanation of the intended purpose of the agreement;
 
-(D) provide any recommendation, finding, or report provided to the Secretary under this paragraph to the appropriate committees of Congress.
+(B) a specific statement of the substance of the agreement;
 
-#### (6) Meetings ####
+(C) a description of the methods that will be utilized to achieve the objectives of the agreement;
 
-#### (A) Initial meeting ####
+(D) an explanation of the necessity for a cooperative effort among the particular participating persons to achieve the objectives of the agreement; and
 
-Not later than one year after December 19, 2006, the Secretary shall hold the first meeting of the Board.
+(E) any other relevant information determined necessary by the Attorney General, in consultation with the Chairman and the Secretary.
 
-#### (B) Subsequent meetings ####
+#### (3) Exemption for conduct under approved agreement ####
 
-The Board shall meet at the call of the Secretary, but in no case less than twice annually.
+It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted an exemption under paragraph (4), during the period for which the exemption is in effect.
 
-#### (7) Vacancies ####
+#### (4) Action on written agreements ####
 
-Any vacancy in the Board shall not affect its powers, but shall be filled in the same manner as the original appointment.
+#### (A) In general ####
 
-#### (8) Chairperson ####
+The Attorney General, in consultation with the Chairman, shall grant, deny, grant in part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately.
 
-The Secretary shall appoint a chairperson from among the members of the Board.
+#### (B) Extension ####
 
-#### (9) Powers ####
+The Attorney General may extend the 15-day period referred to in subparagraph (A) for an additional period of not to exceed 10 business days.
 
-#### (A) Hearings ####
+#### (C) Determination ####
 
-The Board may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Board considers advisable to carry out this subsection.
+An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
 
-#### (B) Postal services ####
+#### (5) Limitation on and renewal of exemptions ####
 
-The Board may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+An exemption granted under paragraph (4) shall be limited to covered activities, and such exemption shall be renewed (with modifications, as appropriate, consistent with the finding described in paragraph (4)(C)), on the date that is 3 years after the date on which the exemption is granted unless the Attorney General in consultation with the Chairman determines that the exemption should not be renewed (with modifications, as appropriate) considering the factors described in paragraph (4).
 
-#### (10) Personnel ####
+#### (6) Authority to obtain information ####
 
-#### (A) Employees of the Federal Government ####
+Consideration by the Attorney General for granting or renewing an exemption submitted under this section shall be considered an antitrust investigation for purposes of the Antitrust Civil Process Act (15 U.S.C. 1311 et seq.).
 
-A member of the Board that is an employee of the Federal Government may not receive additional pay, allowances, or benefits by reason of the member's service on the Board.
+#### (7) Limitation on parties ####
 
-#### (B) Other members ####
+The use of any information acquired under an agreement for which an exemption has been granted under paragraph (4), for any purpose other than specified in the exemption, shall be subject to the antitrust laws and any other applicable laws.
 
-A member of the Board that is not an employee of the Federal Government may be compensated at a rate not to exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which the member is engaged in the actual performance of duties as a member of the Board.
+#### (8) Report ####
 
-#### (C) Travel expenses ####
+Not later than one year after the date of enactment of this Act <sup><a href="#247d-7f_1_target" name="247d-7f_1">1</a></sup> and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
 
-Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
+#### (b) Sunset ####
 
-#### (D) Detail of Government employees ####
-
-Any Federal Government employee may be detailed to the Board with the approval for the contributing agency without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
-
-#### (b) Other working groups ####
-
-The Secretary may establish a working group of experts, or may use an existing working group or advisory committee, to—
-
-(1) identify innovative research with the potential to be developed as a qualified countermeasure or a qualified pandemic or epidemic product;
-
-(2) identify accepted animal models for particular diseases and conditions associated with any biological, chemical, radiological, or nuclear agent, any toxin, or any potential pandemic infectious disease, and identify strategies to accelerate animal model and research tool development and validation; and
-
-(3) obtain advice regarding supporting and facilitating advanced research and development related to qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, and other vulnerable populations, and other issues regarding activities under this section that affect such populations.
+The applicability of this section shall expire at the end of the 17-year period that begins on the date of enactment of this Act.<sup><a href="#247d-7f_1_target" name="247d-7f_1">1</a></sup>
 
 #### (c) Definitions ####
 
-Any term that is defined in section 247d–7e of this title and that is used in this section shall have the same meaning in this section as such term is given in section 247d–7e of this title.
+In this section:
 
-#### (d) Authorization of appropriations ####
+#### (1) Antitrust laws ####
 
-There are authorized to be appropriated $1,000,000 to carry out this section for fiscal year 2007 and each fiscal year thereafter.
+The term "antitrust laws"—
 
-(July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197.)
+(A) has the meaning given such term in subsection (a) of section 12 of title 15, except that such term includes section 45 of title 15 to the extent such section 45 of title 15 applies to unfair methods of competition; and
+
+(B) includes any State law similar to the laws referred to in subparagraph (A).
+
+#### (2) Countermeasure or product ####
+
+The term "countermeasure or product" refers to a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product (as those terms are defined in subsection (a)(1)).
+
+#### (3) Covered activities ####
+
+#### (A) In general ####
+
+Except as provided in subparagraph (B), the term "covered activities" includes any activity relating to the development, manufacture, distribution, purchase, or storage of a countermeasure or product.
+
+#### (B) Exception ####
+
+The term "covered activities" shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has been granted under subsection (a)(4), the following activities involving 2 or more persons:
+
+(i) Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities—
+
+(I) with respect to a countermeasure or product regarding which such meeting or consultation is being conducted; or
+
+(II) that are described in the agreement as exempted.
+
+(ii) Entering into any agreement or engaging in any other conduct—
+
+(I) to restrict or require the sale, licensing, or sharing of inventions, developments, products, processes, or services not developed through, produced by, or distributed or sold through such covered activities; or
+
+(II) to restrict or require participation, by any person participating in such covered activities, in other research and development activities, except as reasonably necessary to prevent the misappropriation of proprietary information contributed by any person participating in such covered activities or of the results of such covered activities.
+
+(iii) Entering into any agreement or engaging in any other conduct allocating a market with a competitor that is not expressly exempted from the antitrust laws under subsection (a)(4).
+
+(iv) Exchanging information among competitors relating to production (other than production by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
+
+(v) Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
+
+(vi) Except as otherwise provided in this subsection, entering into any agreement or engaging in any other conduct to restrict or require participation by any person participating in such covered activities, in any unilateral or joint activity that is not reasonably necessary to carry out such covered activities.
+
+(vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
+
+(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961.)
+
+#### References in Text ####
+
+The Antitrust Civil Process Act, referred to in subsec. (a)(6), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
+
+The date of enactment of this Act, referred to in subsecs. (a)(8) and (b), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to redesignation as section 319L–1 of act July 1, 1944, ch. 373. See Codification note below.
+
+#### Codification ####
+
+Section 405 of Pub. L. 109–417, formerly set out as a note under section 247d–6a of this title, which was redesignated as section 319L–1 of act July 1, 1944, ch. 373 and editorially reclassified as this section, was based on Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended by Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; Pub. L. 116–22, title VII, §701(e)(1)(A), (B), June 24, 2019, 133 Stat. 961.
+
+#### Prior Provisions ####
+
+A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197, which related to National Biodefense Science Board and working groups, was transferred to section 247d–7g of this title.
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(2). Pub. L. 113–5, §404(1)(B), inserted concluding provisions.
+**2019**—Pub. L. 116–22 redesignated section 405 of Pub. L. 109–417 as this section. See Codification note above.
 
-Subsec. (a)(2)(D)(iii), (iv). Pub. L. 113–5, §404(1)(A), added cls. (iii) and (iv).
+#### Effective Date of 2013 Amendment ####
 
-Subsec. (a)(5)(D). Pub. L. 113–5, §404(2), added subpar. (D).
+Pub. L. 113–5, title IV, §402(e)(2), Mar. 13, 2013, 127 Stat. 195, provided that: "This subsection [amending this section] shall take effect as if enacted on December 17, 2012."
+
+[<sup>1</sup> See References in Text note below.](#247d-7f_1)

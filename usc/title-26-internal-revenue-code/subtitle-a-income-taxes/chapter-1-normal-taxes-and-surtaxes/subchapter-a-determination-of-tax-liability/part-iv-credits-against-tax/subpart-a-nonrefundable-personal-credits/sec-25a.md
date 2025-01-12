@@ -74,7 +74,7 @@ The Lifetime Learning Credit for any taxpayer for any taxable year is an amount 
 
 #### (A) Coordination with American Opportunity Tax Credit ####
 
-The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a American Opportunity Tax Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
+The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a <sup><a href="#25A_1_target" name="25A_1">1</a></sup> American Opportunity Tax Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
 
 #### (B) Expenses eligible for Lifetime Learning Credit ####
 
@@ -230,7 +230,7 @@ If any amount as adjusted under paragraph (1) is not a multiple of $1,000, such 
 
 #### (i) Portion of American Opportunity Tax Credit made refundable ####
 
-Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph <sup><a href="#25A_1_target" name="25A_1">1</a></sup> and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
+Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph <sup><a href="#25A_2_target" name="25A_2">2</a></sup> and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 
 #### (j) Regulations ####
 
@@ -398,4 +398,6 @@ Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, as am
 
 [Amendments by Pub. L. 112–240, §103(a)(2), and Pub. L. 114–113, §102(b), were executed as the probable intent of Congress to section 1004(c)(1) of the American Recovery and Reinvestment Tax Act of 2009, set out above, which act is title I of div. B of Pub. L. 111–5, notwithstanding directory language amending section 1004(c)(1) of division B of the American Recovery and Reinvestment Tax Act of 2009.]
 
-[<sup>1</sup> So in original. Probably should be "this subsection".](#25A_1)
+[<sup>1</sup> So in original. Probably should be "an".](#25A_1)
+
+[<sup>2</sup> So in original. Probably should be "this subsection".](#25A_2)

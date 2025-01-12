@@ -56,11 +56,17 @@ Sec.
 
 7526. Low-income taxpayer clinics.
 
+7526A. Return preparation programs for applicable taxpayers.
+
 7527. Advance payment of credit for health insurance costs of eligible individuals.
 
 7528. Internal Revenue Service user fees.
 
+7529. Notification of suspected identity theft.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–25, title I, §1401(b), title II, §2007(c), July 1, 2019, 133 Stat. 997, 1006, added items 7526A and 7529.
 
 **2003**—Pub. L. 108–121, title I, §104(b)(3), Nov. 11, 2003, 117 Stat. 1338, inserted "or contingency operation" after "combat zone" in item 7508.
 

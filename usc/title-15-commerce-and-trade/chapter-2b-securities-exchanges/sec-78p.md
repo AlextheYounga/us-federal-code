@@ -60,10 +60,6 @@ The authority of the Commission under this section with respect to security-base
 
 (June 6, 1934, ch. 404, title I, §16, 48 Stat. 896; Pub. L. 88–467, §8, Aug. 20, 1964, 78 Stat. 579; Pub. L. 106–554, §1(a)(5) [title II, §208(b)(3), title III, §303(g), (h)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–455, 2763A–456; Pub. L. 107–204, title IV, §403(a), July 30, 2002, 116 Stat. 788; Pub. L. 111–203, title VII, §762(d)(5), title IX, §929R(b), July 21, 2010, 124 Stat. 1761, 1867.)
 
-#### Amendment of Section ####
-
-Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### Amendments ####
 
 **2010**—Subsec. (a)(1). Pub. L. 111–203, §929R(b)(1), struck out "(and, if such security is registered on a national securities exchange, also with the exchange)" after "Commission".

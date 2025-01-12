@@ -194,7 +194,9 @@ Subsec. (f). Pub. L. 108–311, §315, substituted "December 31, 2005" for "Dece
 
 **1998**—Subsec. (b)(1)(B). Pub. L. 105–206 substituted "work opportunity credit" for "targeted jobs credit" in heading.
 
-**1996**—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting "work opportunity credit" for "targeted jobs credit", could not be executed because the words "targeted jobs credit" did not appear in the text.Effective Date of 2018 Amendment
+**1996**—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting "work opportunity credit" for "targeted jobs credit", could not be executed because the words "targeted jobs credit" did not appear in the text.
+
+#### Effective Date of 2018 Amendment ####
 
 Pub. L. 115–123, div. D, title I, §40301(b), Feb. 9, 2018, 132 Stat. 145, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2016."
 

@@ -282,7 +282,7 @@ The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub
 
 **2018**—Subsec. (c)(6)(H). Pub. L. 115–141, §401(b)(26), struck out subpar. (H) which related to temporary suspension of taxable income limit with respect to marginal production.
 
-Subsec. (c)(7)(B). Pub. L. 115–141, §401(a)(136), substituted "taxpayer's" for "taxpayers".
+Subsec. (c)(7)(B). Pub. L. 115–141, §401(a)(136), substituted "taxpayer's natural gas" for "taxpayers natural gas".
 
 **2017**—Subsec. (d)(1). Pub. L. 115–97, §13305(b)(5), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: "any deduction allowable under section 199,".
 

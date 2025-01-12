@@ -1302,7 +1302,7 @@ Pub. L. 106–554, §1(a)(5) [title I, §105(c)], Dec. 21, 2000, 114 Stat. 2763,
 
 #### Educational Events and Symposia ####
 
-Pub. L. 106–78, title VI, Oct. 22, 1999, 113 Stat. 1160, provided in part: "That for fiscal year 2000 and thereafter, the Commission [Commodity Futures Trading Commission] is authorized to charge reasonable fees to attendees of Commission sponsored educational events and symposia to cover the Commission's costs of providing those events and symposia, and notwithstanding 31 U.S.C. 3302, said fees shall be credited to this account, to be available without further appropriation."
+Pub. L. 106–554, §1(a)(5) [title I, §105(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–379, required the Board of Governors of the Federal Reserve System, the Secretary of the Treasury, the Commodity Futures Trading Commission, and the Securities and Exchange Commission to conduct a study of issues involving the offering of swap agreements to persons other than eligible contract participants and, before the end of the 1-year period beginning on Dec. 21, 2000, submit a report on findings and conclusions of the study and recommendations for any necessary legislative action to Congress.
 
 Similar provisions were contained in the following prior appropriations acts:
 

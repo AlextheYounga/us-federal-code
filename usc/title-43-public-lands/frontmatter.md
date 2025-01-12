@@ -111,6 +111,10 @@ Chap. Sec.
 
 45. State Control of Noxious Plants on Federal Lands 2701
 
+46. Geospatial Data 2801
+
+47. Reclamation Title Transfer 2901
+
 |                   *Former Classification*                    |*New Classification or Disposition*|
 |--------------------------------------------------------------|-----------------------------------|
 |                           43:1161                            |              43:2501              |

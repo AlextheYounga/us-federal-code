@@ -14,6 +14,6 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(125), Mar. 23, 2018, 132 Stat. 1190, substituted "Imposition of tax on unrelated business income of charitable, etc., organizations" for "Imposition of tax on unrelated business income of charitable organizations, etc" in item 511.
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(125), Mar. 23, 2018, 132 Stat. 1190, substituted "Imposition of tax on unrelated business income of charitable, etc., organizations." for "Imposition of tax on unrelated business income of charitable organizations, etc." in item 511.
 
 **1969**—Pub. L. 91–172, title I, §§101(a), 121(d)(3)(C), Dec. 30, 1969, 83 Stat. 492, 548, substituted "PART III" for "PART II" as part designation and substituted "Unrelated debt-financed income" for "Business leases" in item 514.

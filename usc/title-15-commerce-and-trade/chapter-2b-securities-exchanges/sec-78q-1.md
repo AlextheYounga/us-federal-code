@@ -208,10 +208,6 @@ The Commission may conform the core principles established in this section to re
 
 (June 6, 1934, ch. 404, title I, §17A, as added Pub. L. 94–29, §15, June 4, 1975, 89 Stat. 141; amended Pub. L. 100–181, title III, §322, Dec. 4, 1987, 101 Stat. 1257; Pub. L. 101–429, title II, §206, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–432, §5, Oct. 16, 1990, 104 Stat. 973; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–554, §1(a)(5) [title II, §§206(d), 207], Dec. 21, 2000, 114 Stat. 2763, 2763A–431, 2763A–434; Pub. L. 107–204, title VI, §604(c)(1)(C), July 30, 2002, 116 Stat. 796; Pub. L. 111–203, title VII, §763(b), title IX, §§925(a)(3), 929W, July 21, 2010, 124 Stat. 1768, 1851, 1869.)
 
-#### Amendment of Section ####
-
-Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(2), (b)(3)(A), (F), (I), (8), (d)(1), (3)(B), (4), (5), (e), and (h) to (j), was in the original "this title". See References in Text note set out under section 78a of this title.

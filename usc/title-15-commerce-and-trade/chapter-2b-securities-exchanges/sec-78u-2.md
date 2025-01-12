@@ -76,10 +76,6 @@ Any security-based swap dealer or major security-based swap participant that kno
 
 (June 6, 1934, ch. 404, title I, §21B, as added Pub. L. 101–429, title II, §202(a), Oct. 15, 1990, 104 Stat. 937; amended Pub. L. 107–204, title V, §501(b), July 30, 2002, 116 Stat. 793; Pub. L. 109–291, §4(b)(1)(B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title VII, §773, title IX, §929P(a)(2), July 21, 2010, 124 Stat. 1802, 1863.)
 
-#### Amendment of Section ####
-
-Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text ####
 
 The Securities Act of 1933, referred to in subsec. (a)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.

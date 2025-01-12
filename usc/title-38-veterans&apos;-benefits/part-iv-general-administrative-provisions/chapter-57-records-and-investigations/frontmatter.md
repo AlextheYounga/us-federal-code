@@ -154,7 +154,7 @@ Pub. L. 115–407, title V, §503, Dec. 31, 2018, 132 Stat. 5376, provided that:
 
 "(B) any contracts or agreements entered into by the Secretary of Veterans Affairs to carry out, support, or analyze the activities under subparagraph (A)."
 
-#### Discontinuation of Use of Social Security Numbers to Identify Individuals in Department of Veterans Affairs Information Systems ####
+#### Discontinuation of Use of Social Security Numbers To Identify Individuals in Department of Veterans Affairs Information Systems ####
 
 Pub. L. 115–244, div. C, title II, §239, Sept. 21, 2018, 132 Stat. 2972, provided that:
 

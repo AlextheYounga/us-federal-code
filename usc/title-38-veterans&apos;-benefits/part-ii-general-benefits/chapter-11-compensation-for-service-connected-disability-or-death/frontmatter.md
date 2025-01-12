@@ -28,6 +28,10 @@ Sec.
 
 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam.
 
+1116A. Presumptions of service connection for veterans who served offshore of the Republic of Vietnam.
+
+1116B. Presumption of herbicide exposure for certain veterans who served in Korea.
+
 1117. Compensation for disabilities occurring in Persian Gulf War veterans.
 
 1118. Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War.
@@ -87,6 +91,8 @@ Sec.
 1163. Trial work periods and vocational rehabilitation for certain veterans with total disability ratings.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–23, §§2(b), 3(b), June 25, 2019, 133 Stat. 968, 970, added items 1116A and 1116B.
 
 **2008**—Pub. L. 110–389, title II, §211(c), Oct. 10, 2008, 122 Stat. 4151, added item 1156.
 

@@ -16,7 +16,7 @@ VI. Political organizations.
 
 VII. Certain homeowners associations.
 
-VIII. Certain Savings Entities
+VIII. Certain Savings Entities 1
 
 #### Amendments ####
 

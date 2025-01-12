@@ -78,9 +78,9 @@ Sec.
 
 1403. Mediation.
 
-1404. Election of proceeding.
+1404. Repealed.
 
-1405. Complaint and hearing.
+1405. Hearing.
 
 1406. Appeal to Board.
 
@@ -98,7 +98,7 @@ Sec.
 
 1413. Privileges and immunities.
 
-1414. Settlement of complaints.
+1414. Settlement.
 
 1415. Payments.
 

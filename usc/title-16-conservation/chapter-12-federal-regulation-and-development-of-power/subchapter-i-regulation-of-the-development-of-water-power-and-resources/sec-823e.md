@@ -114,6 +114,6 @@ Nothing in this section affects—
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to Code, see Short Title note set out under section 2601 of this title and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 [<sup>1</sup> So in original. Probably should be followed by "of 1969".](#823e_1)

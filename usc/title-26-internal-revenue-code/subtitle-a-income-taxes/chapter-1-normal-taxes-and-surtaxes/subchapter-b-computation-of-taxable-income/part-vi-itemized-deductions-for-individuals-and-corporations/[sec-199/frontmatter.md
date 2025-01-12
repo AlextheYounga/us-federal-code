@@ -6,6 +6,10 @@ Section, added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 14
 
 Prior to repeal by section 13305(a) of Pub. L. 115–97, subsection (c)(3)(C) of this section read as follows:
 
+#### *(c) Qualified production activities income* ####
+
+#### *(3) Special rules for determining costs* ####
+
 #### *(C) Transportation costs of independent refiners* ####
 
 #### *(i) In general* ####

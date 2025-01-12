@@ -94,7 +94,21 @@ In this subsection, the term "eligible countermeasure" means—
 
 The Secretary, in consultation with the Assistant Secretary for Preparedness and Response and the Director of the Biomedical Advanced Research and Development Authority, shall establish a formal process for obtaining scientific feedback and interactions regarding the development and regulatory review of eligible countermeasures by facilitating the development of written regulatory management plans in accordance with this subsection.
 
-#### (3) Submission of request and proposed plan by sponsor or applicant ####
+#### (3) Publication ####
+
+The Secretary shall make available on the internet website of the Food and Drug Administration information regarding regulatory management plans, including—
+
+(A) the process by which an applicant may submit a request for a regulatory management plan;
+
+(B) the timeframe by which the Secretary is required to respond to such request;
+
+(C) the information required for the submission of such request;
+
+(D) a description of the types of development milestones and performance targets that could be discussed and included in such plans; and
+
+(E) contact information for beginning the regulatory management plan process.
+
+#### (4) Submission of request and proposed plan by sponsor or applicant ####
 
 #### (A) In general ####
 
@@ -108,7 +122,7 @@ A sponsor or applicant may submit a written request under subparagraph (A) after
 
 The Secretary shall direct the Food and Drug Administration, upon submission of a written request by a sponsor or applicant under subparagraph (A), to work with the sponsor or applicant to agree on a regulatory management plan within a reasonable time not to exceed 90 days. If the Secretary determines that no plan can be agreed upon, the Secretary shall provide to the sponsor or applicant, in writing, the scientific or regulatory rationale why such agreement cannot be reached.
 
-#### (4) Plan ####
+#### (5) Plan ####
 
 The content of a regulatory management plan agreed to by the Secretary and a sponsor or applicant shall include—
 
@@ -118,9 +132,9 @@ The content of a regulatory management plan agreed to by the Secretary and a spo
 
 (C) an agreement on how the plan shall be modified, if needed.
 
-#### (5) Milestones and performance targets ####
+#### (6) Milestones and performance targets ####
 
-The developmental milestones described in paragraph (4)(A) and the performance targets and goals described in paragraph (4)(B) shall include—
+The developmental milestones described in paragraph (5)(A) and the performance targets and goals described in paragraph (5)(B) shall include—
 
 (A) feedback from the Secretary regarding the data required to support the approval, clearance, or licensure of the eligible countermeasure involved;
 
@@ -136,11 +150,11 @@ The developmental milestones described in paragraph (4)(A) and the performance t
 
 (G) as necessary and appropriate, and to the extent practicable, a plan for demonstrating safety and effectiveness in pediatric populations, and for developing pediatric dosing, formulation, and administration with respect to the eligible countermeasure, provided that such plan would not delay authorization under section 360bbb–3 of this title, approval, licensure, or clearance for adults.
 
-#### (6) Prioritization ####
+#### (7) Prioritization ####
 
 #### (A) Plans for security countermeasures ####
 
-The Secretary shall establish regulatory management plans for all security countermeasures for which a request is submitted under paragraph (3)(A).
+The Secretary shall establish regulatory management plans for all security countermeasures for which a request is submitted under paragraph (4)(A).
 
 #### (B) Plans for other eligible countermeasures ####
 
@@ -182,9 +196,17 @@ Not later than 180 days after March 13, 2013, and annually thereafter, the Secre
 
 (B) another agency engaged in development or management of portfolios for such countermeasures, including the Centers for Disease Control and Prevention, the Biomedical Advanced Research and Development Authority, the National Institutes of Health, and the appropriate agencies of the Department of Defense.
 
-(June 25, 1938, ch. 675, §565, as added Pub. L. 109–417, title IV, §404, Dec. 19, 2006, 120 Stat. 2875; amended Pub. L. 113–5, title III, §§303–306, Mar. 13, 2013, 127 Stat. 185–190.)
+(June 25, 1938, ch. 675, §565, as added Pub. L. 109–417, title IV, §404, Dec. 19, 2006, 120 Stat. 2875; amended Pub. L. 113–5, title III, §§303–306, Mar. 13, 2013, 127 Stat. 185–190; Pub. L. 116–22, title V, §503, June 24, 2019, 133 Stat. 951.)
 
 #### Amendments ####
+
+**2019**—Subsec. (f)(3) to (5). Pub. L. 116–22, §503(1), (2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+
+Subsec. (f)(6). Pub. L. 116–22, §503(1), (3), redesignated par. (5) as (6) and, in introductory provisions, substituted "paragraph (5)(A)" for "paragraph (4)(A)" and "paragraph (5)(B)" for "paragraph (4)(B)". Former par. (6) redesignated (7).
+
+Subsec. (f)(7). Pub. L. 116–22, §503(1), redesignated par. (6) as (7).
+
+Subsec. (f)(7)(A). Pub. L. 116–22, §503(4), substituted "paragraph (4)(A)" for "paragraph (3)(A)".
 
 **2013**—Pub. L. 113–5, §304(1), substituted "Countermeasure development, review, and technical assistance" for "Technical assistance" in section catchline.
 

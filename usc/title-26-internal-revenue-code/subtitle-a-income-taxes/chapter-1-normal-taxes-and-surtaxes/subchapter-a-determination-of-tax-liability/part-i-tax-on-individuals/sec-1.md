@@ -1411,6 +1411,10 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2019 Amendment ####
+
+Pub. L. 116–25, §1(a), July 1, 2019, 133 Stat. 981, provided that: "This Act [see Tables for classification] may be cited as the 'Taxpayer First Act'."
+
 #### Short Title of 2018 Amendment ####
 
 Pub. L. 115–250, §1, Sept. 29, 2018, 132 Stat. 3164, provided that: "This Act [amending section 9502 of this title] may be cited as the 'Airport and Airway Extension Act of 2018, Part II'."

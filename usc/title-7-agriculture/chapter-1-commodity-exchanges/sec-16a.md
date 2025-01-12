@@ -50,16 +50,4 @@ Section effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as a
 
 #### Study of Assessments on Transactions ####
 
-Pub. L. 102–546, title II, §218, Oct. 28, 1992, 106 Stat. 3612, provided that:
-
-"(a) Study.—The Comptroller General of the United States shall conduct a study to determine whether—
-
-"(1) it is feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission, as required by the amendments to the Commodity Exchange Act made by the Futures Trading Practices Act of 1992 [see Short Title of 1992 Amendment note set out under section 1 of this title], through the imposition of an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act [7 U.S.C. 1 et seq.]; and
-
-"(2) a program of assessment-based funding for some or all of such enforcement and market surveillance activities would better provide resources to the Commodity Futures Trading Commission to enable the Commission to—
-
-"(A) protect the interests of market users (including hedgers and speculators), producers of commodities traded on the futures markets, and the general public; and
-
-"(B) maintain and enhance the credibility of such futures and options markets.
-
-"(b) Report.—Not later than one year after the date of enactment of this Act [Oct. 28, 1992], the Comptroller General shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the Comptroller General's determinations pursuant to subsection (a), together with any appropriate recommendations for the implementation of such a program of assessment-based funding for some or all of the Commodity Futures Trading Commission's enforcement and market surveillance activities."
+Pub. L. 102–546, title II, §218, Oct. 28, 1992, 106 Stat. 3612, required the Comptroller General to conduct a study to determine whether it was feasible to fund some or all of the enforcement and market surveillance activities of the Commodity Futures Trading Commission through the imposition of an assessment on commodity futures and options transactions executed pursuant to the Commodity Exchange Act, and report, by one year after Oct. 28, 1992, to Congress the Commission determinations together with any appropriate recommendations for the implementation of such a program of assessment-based funding.

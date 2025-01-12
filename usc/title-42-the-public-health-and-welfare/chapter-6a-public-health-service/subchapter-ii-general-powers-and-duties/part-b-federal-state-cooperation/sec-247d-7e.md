@@ -14,7 +14,7 @@ The term "Fund" means the Biodefense Medical Countermeasure Development Fund est
 
 #### (3) Other transactions ####
 
-The term "other transactions" means transactions, other than procurement contracts, grants, and cooperative agreements, such as the Secretary of Defense may enter into under section 2371 of title 10.
+The term "other transactions" means transactions, other than procurement contracts, grants, and cooperative agreements.
 
 #### (4) Qualified countermeasure ####
 
@@ -122,7 +122,7 @@ To carry out the purpose described in paragraph (2)(A), the Secretary shall—
 
 (III) convene such working groups on countermeasure and product advanced research and development as the Secretary may determine are necessary to carry out this section; and
 
-(iii) carry out the activities described in section 405 of the Pandemic and All-Hazards Preparedness Act.
+(iii) carry out the activities described in section 247d–7f of this title.
 
 #### (B) Support advanced research and development ####
 
@@ -152,7 +152,7 @@ To carry out the purpose described in paragraph (2)(D), the Secretary may award 
 
 (ii) research on and development of research tools and other devices and technologies; and
 
-(iii) research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies.
+(iii) research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, platform technologies, technologies to administer countermeasures, and technologies to improve storage and transportation of countermeasures.
 
 #### (E) Medical countermeasures innovation partner ####
 
@@ -236,7 +236,17 @@ Not later than 4 years after December 13, 2016, the Comptroller General of the U
 
 #### (ix) Sunset ####
 
-This subparagraph shall have no force or effect after September 30, 2022.
+This subparagraph shall have no force or effect after September 30, 2023.
+
+#### (F) Strategic initiatives ####
+
+The Secretary, acting through the Director of BARDA, may implement strategic initiatives, including by building on existing programs and by awarding contracts, grants, and cooperative agreements, or entering into other transactions, to support innovative candidate products in preclinical and clinical development that address priority, naturally occurring and man-made threats that, as determined by the Secretary, pose a significant level of risk to national security based on the characteristics of a chemical, biological, radiological or nuclear threat, or existing capabilities to respond to such a threat (including medical response and treatment capabilities and manufacturing infrastructure). Such initiatives shall accelerate and support the advanced research, development, and procurement of countermeasures and products, as applicable, to address areas including—
+
+(i) chemical, biological, radiological, or nuclear threats, including emerging infectious diseases, for which insufficient approved, licensed, or authorized countermeasures exist, or for which such threat, or the result of an exposure to such threat, may become resistant to countermeasures or existing countermeasures may be rendered ineffective;
+
+(ii) threats that consistently exist or continually circulate and have a significant potential to become a pandemic, such as pandemic influenza, which may include the advanced research and development, manufacturing, and appropriate stockpiling of qualified pandemic or epidemic products, and products, technologies, or processes to support the advanced research and development of such countermeasures (including multiuse platform technologies for diagnostics, vaccines, and therapeutics; virus seeds; clinical trial lots; novel virus strains; and antigen and adjuvant material); and
+
+(iii) threats that may result primarily or secondarily from a chemical, biological, radiological, or nuclear agent, or emerging infectious diseases, and which may present increased treatment complications such as the occurrence of resistance to available countermeasures or potential countermeasures, including antimicrobial resistant pathogens.
 
 #### (5) Transaction authorities ####
 
@@ -244,17 +254,17 @@ This subparagraph shall have no force or effect after September 30, 2022.
 
 #### (i) In general ####
 
-The Secretary shall have the authority to enter into other transactions under this subsection in the same manner as the Secretary of Defense enters into such transactions under section 2371 of title 10.
+The Secretary shall have the authority to enter into other transactions (as defined in subsection (a)(3)) under this subsection.
 
 #### (ii) Limitations on authority ####
 
 #### (I) In general ####
 
-Subsections (b), (c), and (h) of section 845 <sup><a href="#247d-7e_1_target" name="247d-7e_1">1</a></sup> of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
+To the maximum extent practicable, competitive procedures shall be used when entering into transactions to carry out projects under this subsection.
 
 #### (II) Written determinations required ####
 
-The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $20,000,000 only upon a written determination by the senior procurement executive for the Department (as designated for purpose of section 1702(c) of title 41), that the use of such authority is essential to promoting the success of the project. The authority of the senior procurement executive under this subclause may not be delegated.
+The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $100,000,000 only upon a written determination by the Assistant Secretary for Financial Resources, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this subclause may not be delegated.
 
 #### (iii) Guidelines ####
 
@@ -300,7 +310,7 @@ In awarding contracts, grants, and cooperative agreements under this section, th
 
 #### (6) At-risk individuals ####
 
-In carrying out the functions under this section, the Secretary may give priority to the advanced research and development of qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, elderly, and other at-risk individuals.
+In carrying out the functions under this section, the Secretary may give priority to the advanced research and development of qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, older adults, and other at-risk individuals with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products.
 
 #### (7) Personnel authorities ####
 
@@ -344,27 +354,43 @@ There is established the Biodefense Medical Countermeasure Development Fund, whi
 
 #### (2) Funding ####
 
-To carry out the purposes of this section, there is authorized to be appropriated to the Fund $415,000,000 for each of fiscal years 2014 through 2018, such amounts to remain available until expended.
+To carry out the purposes of this section, there is authorized to be appropriated to the Fund $611,700,000 for each of fiscal years 2019 through 2023, such amounts to remain available until expended.
 
 #### (e) Inapplicability of certain provisions ####
 
 #### (1) Disclosure ####
 
-#### (A) In general ####
+#### (A) Nondisclosure of information ####
 
-The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5.
+#### (i) In general ####
+
+Information described in clause (ii) shall be deemed to be information described in section 552(b)(3) of title 5.
+
+#### (ii) Information described ####
+
+The information described in this clause is information relevant to programs of the Department of Health and Human Services that could compromise national security and reveal significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against chemical, biological, radiological, or nuclear threats, and is comprised of—
+
+(I) specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c);
+
+(II) information pertaining to the location security, personnel, and research materials and methods of high-containment laboratories conducting research with select agents, toxins, or other agents with a material threat determination under section 247d–6b(c)(2) of this title; or
+
+(III) security and vulnerability assessments.
 
 #### (B) Review ####
 
 Information subject to nondisclosure under subparagraph (A) shall be reviewed by the Secretary every 5 years, or more frequently as determined necessary by the Secretary, to determine the relevance or necessity of continued nondisclosure.
 
-#### (C) Sunset ####
+#### (C) Reporting ####
 
-This paragraph shall cease to have force or effect on the date that is 12 years after December 19, 2006.
+One year after June 24, 2019, and annually thereafter, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the number of instances in which the Secretary has used the authority under this subsection to withhold information from disclosure, as well as the nature of any request under section 552 of title 5 that was denied using such authority.
+
+#### (D) Sunset ####
+
+This paragraph shall cease to have force or effect on the date that is 17 years after December 19, 2006.
 
 #### (2) Review ####
 
-Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7f of this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
+Notwithstanding section 14 of the Federal Advisory Committee Act, a working group of BARDA under this section and the National Biodefense Science Board under section 247d–7g of this title shall each terminate on the date that is 5 years after the date on which each such group or Board, as applicable, was established. Such 5-year period may be extended by the Secretary for one or more additional 5-year periods if the Secretary determines that any such extension is appropriate.
 
 #### (f) Independent evaluation ####
 
@@ -386,15 +412,11 @@ Not later than 1 year after March 13, 2013, the Comptroller General of the Unite
 
 (ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141.)
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961.)
 
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
-
-Section 405 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(4)(A)(iii), is section 405 of Pub. L. 109–417, which is set out as a note under section 247d–6a of this title.
-
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is section 845 of Pub. L. 103–160, which was formerly set out as a note under section 2371 of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896. See section 2371b of Title 10.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -410,7 +432,33 @@ In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 
 
 #### Amendments ####
 
-Subsec. (c)(3). Pub. L. 114–255, §3082(b), inserted ", including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section" before period at end.
+**2019**—Subsec. (a)(3). Pub. L. 116–22, §602(1), struck out ", such as the Secretary of Defense may enter into under section 2371 of title 10" before period at end.
+
+Subsec. (c)(4)(A)(iii). Pub. L. 116–22, §701(e)(2)(B), substituted "section 247d–7f of this title" for "section 405 of the Pandemic and All-Hazards Preparedness Act".
+
+Subsec. (c)(4)(D)(iii). Pub. L. 116–22, §601, substituted "platform technologies, technologies to administer countermeasures, and technologies to improve storage and transportation of countermeasures" for "and platform technologies".
+
+Subsec. (c)(4)(E)(ix). Pub. L. 116–22, §701(d), substituted "2023" for "2022".
+
+Subsec. (c)(4)(F). Pub. L. 116–22, §404(a), added subpar. (F).
+
+Subsec. (c)(5)(A)(i). Pub. L. 116–22, §602(2)(A), substituted "(as defined in subsection (a)(3)) under this subsection" for "under this subsection in the same manner as the Secretary of Defense enters into such transactions under section 2371 of title 10".
+
+Subsec. (c)(5)(A)(ii)(I). Pub. L. 116–22, §602(2)(B)(i), amended subcl. (I) generally. Prior to amendment, text read as follows: "Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845."
+
+Subsec. (c)(5)(A)(ii)(II). Pub. L. 116–22, §602(2)(B)(ii), substituted "$100,000,000" for "$20,000,000", "Assistant Secretary for Financial Resources" for "senior procurement executive for the Department (as designated for purpose of section 1702(c) of title 41)", and "Assistant Secretary for Financial Resources under" for "senior procurement executive under".
+
+Subsec. (c)(6). Pub. L. 116–22, §303(b), substituted "older adults" for "elderly" and inserted "with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products" before period at end.
+
+Subsec. (d)(2). Pub. L. 116–22, §504(b), substituted "$611,700,000 for each of fiscal years 2019 through 2023" for "$415,000,000 for each of fiscal years 2014 through 2018".
+
+Subsec. (e)(1)(A). Pub. L. 116–22, §701(f)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary shall withhold from disclosure under section 552 of title 5 specific technical data or scientific information that is created or obtained during the countermeasure and product advanced research and development carried out under subsection (c) that reveals significant and not otherwise publicly known vulnerabilities of existing medical or public health defenses against biological, chemical, nuclear, or radiological threats. Such information shall be deemed to be information described in section 552(b)(3) of title 5."
+
+Subsec. (e)(1)(C). Pub. L. 116–22, §701(f)(3), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (e)(1)(D). Pub. L. 116–22, §701(f)(2), (4), redesignated subpar. (C) as (D) and substituted "17" for "12".
+
+**2016**—Subsec. (c)(3). Pub. L. 114–255, §3082(b), inserted ", including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section" before period at end.
 
 Subsec. (c)(4)(E). Pub. L. 114–255, §3084, added subpar. (E).
 
@@ -429,5 +477,3 @@ Subsec. (d)(2). Pub. L. 113–5, §402(c), amended par. (2) generally. Prior to 
 Subsec. (e)(1)(C). Pub. L. 113–5, §402(d), substituted "12 years" for "7 years".
 
 Subsec. (f). Pub. L. 113–5, §402(f), added subsec. (f).
-
-[<sup>1</sup> See References in Text note below.](#247d-7e_1)

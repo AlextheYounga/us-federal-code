@@ -4,7 +4,7 @@ Sec.
 
 8701. Declaration of policy.
 
-8702 Definitions.
+8702. Definitions.
 
 8703. Issuance of orders.
 

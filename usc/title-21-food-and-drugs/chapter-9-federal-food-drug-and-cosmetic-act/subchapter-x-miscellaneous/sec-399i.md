@@ -10,7 +10,7 @@ Of any discretionary resources appropriated in this Act for fiscal year 2018 for
 
 #### (c) Emergency funds excluded ####
 
-No amounts may be transferred pursuant to this section that are designated by the Congress as an emergency requirement pursuant to a concurrent resolution on the budget or the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 900 et seq.].
+No amounts may be transferred pursuant to this section that are designated by the Congress as an emergency requirement pursuant to a concurrent resolution on the budget or the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 (Pub. L. 115–141, div. A, title VII, §722, Mar. 23, 2018, 132 Stat. 387.)
 

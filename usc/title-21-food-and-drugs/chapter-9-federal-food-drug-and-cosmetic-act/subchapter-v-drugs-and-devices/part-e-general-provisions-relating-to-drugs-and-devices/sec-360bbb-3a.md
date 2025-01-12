@@ -88,17 +88,19 @@ The Secretary, acting through an appropriate official within the Department of H
 
 Notwithstanding any other provisions of this chapter or the Public Health Service Act [42 U.S.C. 201 et seq.], a product shall not be considered an unapproved product and shall not be deemed adulterated or misbranded under this chapter because of the issuance of emergency use instructions under paragraph (1) with respect to such product or the introduction or delivery for introduction of such product into interstate commerce accompanied by such instructions—
 
-(A) during an emergency response to an actual emergency that is the basis for a determination described in subsection (a)(1)(C)(i); or
+(A) during an emergency response to an actual emergency that is the basis for a determination described in subsection (a)(1)(C); or
 
 (B) by a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, in preparation for an emergency response.
 
-(June 25, 1938, ch. 675, §564A, as added Pub. L. 113–5, title III, §302(b), Mar. 13, 2013, 127 Stat. 183; amended Pub. L. 114–255, div. A, title III, §3088(c), Dec. 13, 2016, 130 Stat. 1149.)
+(June 25, 1938, ch. 675, §564A, as added Pub. L. 113–5, title III, §302(b), Mar. 13, 2013, 127 Stat. 183; amended Pub. L. 114–255, div. A, title III, §3088(c), Dec. 13, 2016, 130 Stat. 1149; Pub. L. 116–22, title VII, §705(c), June 24, 2019, 133 Stat. 964.)
 
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsecs. (b)(3), (c)(2), and (e)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2019**—Subsec. (e)(2)(A). Pub. L. 116–22 substituted "subsection (a)(1)(C)" for "subsection (a)(1)(C)(i)".
 
 **2016**—Subsec. (a)(1)(A). Pub. L. 114–255, §3088(c)(1), inserted ", conditionally approved under section 360ccc of this title," after "subchapter".
 

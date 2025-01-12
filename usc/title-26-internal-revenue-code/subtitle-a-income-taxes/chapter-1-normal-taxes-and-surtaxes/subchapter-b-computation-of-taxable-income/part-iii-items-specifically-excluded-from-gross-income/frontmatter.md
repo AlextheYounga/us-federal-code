@@ -94,9 +94,13 @@ Sec.
 
 139G. Assignments to Alaska Native Settlement Trusts.
 
+139H. Interest received in action to recover property seized by the Internal Revenue Service based on structuring transaction.
+
 140. Cross references to other Acts.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–25, title I, §1202(b), July 1, 2019, 133 Stat. 988, added item 139H.
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(d)(7)(C), Mar. 23, 2018, 132 Stat. 1212, struck out item 139C "COBRA premium assistance".
 

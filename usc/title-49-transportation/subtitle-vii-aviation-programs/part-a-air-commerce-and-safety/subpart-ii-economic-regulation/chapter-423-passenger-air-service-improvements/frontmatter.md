@@ -30,7 +30,7 @@ Pub. L. 115–254, div. B, title IV, §418, Oct. 5, 2018, 132 Stat. 3334, provid
 
 "(A) Each relevant Federal agency, as determined by the Secretary of Transportation.
 
-"(B) State insurance regulators
+"(B) State insurance regulators[.]
 
 "(C) Health insurance providers.
 
@@ -38,13 +38,13 @@ Pub. L. 115–254, div. B, title IV, §418, Oct. 5, 2018, 132 Stat. 3334, provid
 
 "(E) Consumer advocacy groups.
 
-"(F) Physician specializing in emergency, trauma, cardiac, or stroke.
+"(F) Physician[s] specializing in emergency, trauma, cardiac, or stroke.
 
 "(4) Three representatives, to be appointed by the Secretary of Transportation, to represent the various segments of the air ambulance industry.
 
 "(5) Additional three representatives not covered under paragraphs (1) through (4), as determined necessary and appropriate by the Secretary.
 
-"(c) Consultation.—The advisory committee shall, as appropriate, consult with relevant experts and stakeholders not captured in (b) while conducting its review.
+"(c) Consultation.—The advisory committee shall, as appropriate, consult with relevant experts and stakeholders not captured in [subsection] (b) while conducting its review.
 
 "(d) Recommendations.—The advisory committee shall make recommendations with respect to disclosure of charges and fees for air ambulance services and insurance coverage, consumer protection and enforcement authorities of both the Department of Transportation and State authorities, and the prevention of balance billing to consumers. The recommendations shall address, at a minimum—
 
@@ -96,11 +96,13 @@ Pub. L. 115–254, div. B, title IV, §418, Oct. 5, 2018, 132 Stat. 3334, provid
 
 Pub. L. 115–254, div. B, title IV, §421, Oct. 5, 2018, 132 Stat. 3337, provided that: "Not later than 1 year after the date of enactment of this Act [Oct. 5, 2018], the Secretary of Transportation shall promulgate regulations that require each covered air carrier to promptly provide a refund to a passenger of any ancillary fees paid for services related to air travel that the passenger does not receive, including on the passenger's scheduled flight, on a subsequent replacement itinerary if there has been a rescheduling, or for a flight not taken by the passenger."
 
+[For definition of "covered air carrier" as used in section 421 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.]
+
 #### Advance Boarding During Pregnancy ####
 
 Pub. L. 115–254, div. B, title IV, §422, Oct. 5, 2018, 132 Stat. 3337, provided that: "Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Secretary of Transportation shall review air carrier policies regarding traveling during pregnancy and, if appropriate, may revise regulations, as the Secretary considers necessary, to require an air carrier to offer advance boarding of an aircraft to a pregnant passenger who requests such assistance."
 
-#### Tickets Act ####
+#### TICKETS Act ####
 
 Pub. L. 115–254, div. B, title IV, §425, Oct. 5, 2018, 132 Stat. 3338, provided that:
 
@@ -120,7 +122,7 @@ Pub. L. 115–254, div. B, title IV, §425, Oct. 5, 2018, 132 Stat. 3338, provid
 
 "(d) Rule of Construction.—Nothing in this section may be construed to limit or otherwise affect the responsibility or authority of a pilot in command of an aircraft under section 121.533 of title 14, Code of Federal Regulations, or limit any penalty under section 46504 of title 49, United States Code.
 
-"(e) Involuntary Denied Boarding Compensation.—Not later than 60 days after the date of enactment of this Act, the Secretary of Transportation shall issue a final rule to revise part 250 of title 14, Code of Federal Regulations, to clarify that—
+"(e) Involuntary [sic] Denied Boarding Compensation.—Not later than 60 days after the date of enactment of this Act, the Secretary of Transportation shall issue a final rule to revise part 250 of title 14, Code of Federal Regulations, to clarify that—
 
 "(1) there is not a maximum level of compensation an air carrier or foreign air carrier may pay to a passenger who is involuntarily denied boarding as the result of an oversold flight;
 
@@ -148,7 +150,7 @@ Pub. L. 115–254, div. B, title IV, §425, Oct. 5, 2018, 132 Stat. 3338, provid
 
 "(g) Gate Notice of Policies.—The Secretary may provide guidance on how these policies should be communicated at covered air carrier check-in desks and airport gates."
 
-[For definition of "covered air carrier" as used in section 425 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a note under section 40101 of this title.]
+[For definition of "covered air carrier" as used in section 425 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.]
 
 #### Consumer Protection Requirements Relating to Large Ticket Agents ####
 
@@ -180,7 +182,7 @@ Pub. L. 115–254, div. B, title IV, §427, Oct. 5, 2018, 132 Stat. 3340, provid
 
 "(2) the sale of air transportation is made by a large ticket agent pursuant to a specific corporate or government fare management contract."
 
-[For definition of "covered air carrier" as used in section 427 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a note under section 40101 of this title.]
+[For definition of "covered air carrier" as used in section 427 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.]
 
 #### Passenger Rights ####
 
@@ -202,7 +204,7 @@ Pub. L. 115–254, div. B, title IV, §429, Oct. 5, 2018, 132 Stat. 3341, provid
 
 "(b) Filing of Summarized Guidelines.—Not later than 90 days after each air carrier submits its guidelines to the Secretary under subsection (a), the air carrier shall make available such 1-page document in a prominent location on its website."
 
-[For definition of "covered air carrier" as used in section 429 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a note under section 40101 of this title.]
+[For definition of "covered air carrier" as used in section 429 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.]
 
 #### Minimum Dimensions for Passenger Seats ####
 

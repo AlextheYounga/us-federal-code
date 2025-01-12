@@ -292,35 +292,11 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Study and Report on Shareholder Access to Proxy Statements ####
 
-Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided that:
-
-"(1) Study.—The Commission shall conduct a study of—
-
-"(A) whether shareholder access to proxy statements pursuant to section 14 of the Securities Exchange Act of 1934 [15 U.S.C. 78n] has been impaired by recent statutory, judicial, or regulatory changes; and
-
-"(B) the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements.
-
-"(2) Report.—Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1), together with any recommendations for regulatory or legislative changes that it considers necessary to improve shareholder access to proxy statements."
+Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided that the Securities and Exchange Commission should conduct a study to determine if shareholder access to proxy statements pursuant to this section had been impaired by recent statutory, judicial, or regulatory changes and the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements, and provided that the Commission report the study and any recommendations to Congress by 1 year after Oct. 11, 1996.
 
 #### Evaluation of Fairness Opinion Preparation, Disclosure, and Use ####
 
-Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided that:
-
-"(1) Evaluation required.—The Comptroller General of the United States shall, within 18 months after the date of enactment of this Act [Dec. 17, 1993], conduct a study of—
-
-"(A) the use of fairness opinions in limited partnership rollup transactions;
-
-"(B) the standards which preparers use in making determinations of fairness;
-
-"(C) the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers;
-
-"(D) the nature and quality of disclosures provided with respect to such opinions;
-
-"(E) any conflicts of interest with respect to the preparation of such opinions; and
-
-"(F) the usefulness of such opinions to limited partners.
-
-"(2) Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1)."
+Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided that the Comptroller General of the United States should, within 18 months after Dec. 17, 1993, conduct a study of the use of fairness opinions in limited partnership rollup transactions, the standards which preparers use in making determinations of fairness, the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers, the nature and quality of disclosures provided with respect to such opinions, any conflicts of interest concerning such opinions, and the usefulness of the opinions to limited partners, with a report required to be sent to Congress by the end of the 18-month period.
 
 #### Adjustment of Registration Fee Rate ####
 

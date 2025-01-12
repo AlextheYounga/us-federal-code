@@ -582,7 +582,7 @@ Subsec. (j)(3)(A). Pub. L. 115–264 substituted "October 20, 2027" for "October
 
 Pub. L. 115–239 substituted "October 13, 2027" for "July 21, 2027".
 
-Pub. L. 115–141, substituted "July 21, 2027" for "February 24, 2027".
+Pub. L. 115–141 substituted "July 21, 2027" for "February 24, 2027".
 
 Pub. L. 115–123, §30201(a)(1), substituted "February 24, 2027" for "January 14, 2026".
 

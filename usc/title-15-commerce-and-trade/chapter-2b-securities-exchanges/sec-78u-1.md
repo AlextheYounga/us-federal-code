@@ -124,10 +124,6 @@ An individual described in section 101(f) of the Ethics in Government Act of 197
 
 (June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) [title II, §205(a)(4), title III, §303(k), (l)], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850; Pub. L. 112–105, §§4(b)(2), 9(b)(2)(B), 12, Apr. 4, 2012, 126 Stat. 292, 297, 300.)
 
-#### Amendment of Section ####
-
-Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see 2010 Amendment notes and Effective Date of 2010 Amendment note below.
-
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original "this title", and this chapter, referred to in subsecs. (g)(1) and (h)(1), was in the original "this Act". See References in Text note set out under section 78a of this title.
@@ -202,6 +198,6 @@ Pub. L. 100–704, §2, Nov. 19, 1988, 102 Stat. 4677, provided that: "The Congr
 
 #### Commission Recommendations for Additional Civil Penalty Authority Required ####
 
-Pub. L. 100–704, §3(c), Nov. 19, 1988, 102 Stat. 4680, provided that: "The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act [Nov. 19, 1988], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission's authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 [15 U.S.C. 78u–1] (as added by this section)."
+Pub. L. 100–704, §3(c), Nov. 19, 1988, 102 Stat. 4680, provided that the Securities and Exchange Commission should, within 60 days after Nov. 19, 1988, submit to Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission's authority to seek civil penalties or impose administrative fines for violations other than those described in this section.
 
 [<sup>1</sup> See References in Text note below.](#78u-1_1)

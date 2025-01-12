@@ -2,7 +2,7 @@
 
 Sec.
 
-4601 to 4610. Repealed.
+4601 to 4610.Repealed.
 
 4611. Multilateral export control violations.
 
