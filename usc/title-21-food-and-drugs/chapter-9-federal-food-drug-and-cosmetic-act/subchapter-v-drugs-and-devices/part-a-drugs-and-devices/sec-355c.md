@@ -4,19 +4,29 @@
 
 #### (1) In general ####
 
-A person that submits, on or after September 27, 2007, an application (or supplement to an application) for a drug—
+#### (A) General requirements ####
 
-(A) under section 355 of this title for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration, or
+Except with respect to an application for which subparagraph (B) applies, a person that submits, on or after September 27, 2007, an application (or supplement to an application) for a drug—
 
-(B) under section 262 of title 42 for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration,
+(i) under section 355 of this title for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration; or
+
+(ii) under section 262 of title 42 for a new active ingredient, new indication, new dosage form, new dosing regimen, or new route of administration,
 
 shall submit with the application the assessments described in paragraph (2).
+
+#### (B) Certain molecularly targeted cancer indications ####
+
+A person that submits, on or after the date that is 3 years after August 18, 2017, an original application for a new active ingredient under section 355 of this title or section 262 of title 42, shall submit with the application reports on the investigation described in paragraph (3) if the drug or biological product that is the subject of the application is—
+
+(i) intended for the treatment of an adult cancer; and
+
+(ii) directed at a molecular target that the Secretary determines to be substantially relevant to the growth or progression of a pediatric cancer.
 
 #### (2) Assessments ####
 
 #### (A) In general ####
 
-The assessments referred to in paragraph (1) shall contain data, gathered using appropriate formulations for each age group for which the assessment is required, that are adequate—
+The assessments referred to in paragraph (1)(A) shall contain data, gathered using appropriate formulations for each age group for which the assessment is required, that are adequate—
 
 (i) to assess the safety and effectiveness of the drug or the biological product for the claimed indications in all relevant pediatric subpopulations; and
 
@@ -36,11 +46,25 @@ A study may not be needed in each pediatric age group if data from one age group
 
 A brief documentation of the scientific data supporting the conclusion under clauses (i) and (ii) shall be included in any pertinent reviews for the application under section 355 of this title or section 262 of title 42.
 
-#### (3) Deferral ####
+#### (3) Molecularly targeted pediatric cancer investigation ####
 
 #### (A) In general ####
 
-On the initiative of the Secretary or at the request of the applicant, the Secretary may defer submission of some or all assessments required under paragraph (1) until a specified date after approval of the drug or issuance of the license for a biological product if—
+With respect to a drug or biological product described in paragraph (1)(B), the investigation described in this paragraph is a molecularly targeted pediatric cancer investigation, which shall be designed to yield clinically meaningful pediatric study data, gathered using appropriate formulations for each age group for which the study is required, regarding dosing, safety, and preliminary efficacy to inform potential pediatric labeling.
+
+#### (B) Extrapolation of data ####
+
+Paragraph (2)(B) shall apply to investigations described in this paragraph to the same extent and in the same manner as paragraph (2)(B) applies with respect to the assessments required under paragraph (1)(A).
+
+#### (C) Deferrals and waivers ####
+
+Deferrals and waivers under paragraphs (4) and (5) shall apply to investigations described in this paragraph to the same extent and in the same manner as such deferrals and waivers apply with respect to the assessments under paragraph (2)(B).
+
+#### (4) Deferral ####
+
+#### (A) In general ####
+
+On the initiative of the Secretary or at the request of the applicant, the Secretary may defer submission of some or all assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B) until a specified date after approval of the drug or issuance of the license for a biological product if—
 
 (i) the Secretary finds that—
 
@@ -52,7 +76,7 @@ On the initiative of the Secretary or at the request of the applicant, the Secre
 
 (ii) the applicant submits to the Secretary—
 
-(I) certification of the grounds for deferring the assessments;
+(I) certification of the grounds for deferring the assessments or reports on the investigation;
 
 (II) a pediatric study plan as described in subsection (e);
 
@@ -64,7 +88,7 @@ On the initiative of the Secretary or at the request of the applicant, the Secre
 
 #### (i) In general ####
 
-On the initiative of the Secretary or at the request of the applicant, the Secretary may grant an extension of a deferral approved under subparagraph (A) for submission of some or all assessments required under paragraph (1) if—
+On the initiative of the Secretary or at the request of the applicant, the Secretary may grant an extension of a deferral approved under subparagraph (A) for submission of some or all assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B) if—
 
 (I) the Secretary determines that the conditions described in subclause (II) or (III) of subparagraph (A)(i) continue to be met; and
 
@@ -72,7 +96,7 @@ On the initiative of the Secretary or at the request of the applicant, the Secre
 
 #### (ii) Timing and information ####
 
-If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
+If the deferral extension under this subparagraph is requested by the applicant, the applicant shall submit the deferral extension request containing the information described in this subparagraph not less than 90 days prior to the date that the deferral would expire. The Secretary shall respond to such request not later than 45 days after the receipt of such letter. If the Secretary grants such an extension, the specified date shall be the extended date. The sponsor of the required assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B) shall not be issued a letter described in subsection (d) unless the specified or extended date of submission for such required studies has passed or if the request for an extension is pending. For a deferral that has expired prior to July 9, 2012, or that will expire prior to 270 days after July 9, 2012, a deferral extension shall be requested by an applicant not later than 180 days after July 9, 2012. The Secretary shall respond to any such request as soon as practicable, but not later than 1 year after July 9, 2012. Nothing in this clause shall prevent the Secretary from updating the status of a study or studies publicly if components of such study or studies are late or delayed.
 
 #### (C) Annual review ####
 
@@ -94,17 +118,17 @@ Not later than 90 days after the submission to the Secretary of the information 
 
 (I) such information;
 
-(II) the name of the applicant for the product subject to the assessment;
+(II) the name of the applicant for the product subject to the assessment or investigation;
 
 (III) the date on which the product was approved; and
 
 (IV) the date of each deferral or deferral extension under this paragraph for the product.
 
-#### (4) Waivers ####
+#### (5) Waivers ####
 
 #### (A) Full waiver ####
 
-On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a full waiver, as appropriate, of the requirement to submit assessments for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
+On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a full waiver, as appropriate, of the requirement to submit assessments or reports on the investigation for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
 
 (i) necessary studies are impossible or highly impracticable (because, for example, the number of patients is so small or the patients are geographically dispersed);
 
@@ -118,7 +142,7 @@ On the initiative of the Secretary or at the request of an applicant, the Secret
 
 #### (B) Partial waiver ####
 
-On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a partial waiver, as appropriate, of the requirement to submit assessments for a drug or biological product under this subsection with respect to a specific pediatric age group if the applicant certifies and the Secretary finds that—
+On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a partial waiver, as appropriate, of the requirement to submit assessments or reports on the investigation for a drug or biological product under this subsection with respect to a specific pediatric age group if the applicant certifies and the Secretary finds that—
 
 (i) necessary studies are impossible or highly impracticable (because, for example, the number of patients in that age group is so small or patients in that age group are geographically dispersed);
 
@@ -202,13 +226,13 @@ For the purposes of paragraph (4)(A)(iii)(I) and (4)(B)(iii)(I) of subsection (a
 
 (2) the drug or biological product is in a class of products or for an indication for which there is a need for additional options.
 
-#### (d) Submission of assessments ####
+#### (d) Submission of assessments and reports on the investigation ####
 
-If a person fails to submit a required assessment described in subsection (a)(2), fails to meet the applicable requirements in subsection (a)(3), or fails to submit a request for approval of a pediatric formulation described in subsection (a) or (b), in accordance with applicable provisions of subsections (a) and (b), the following shall apply:
+If a person fails to submit a required assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), fails to meet the applicable requirements in subsection (a)(4), or fails to submit a request for approval of a pediatric formulation described in subsection (a) or (b), in accordance with applicable provisions of subsections (a) and (b), the following shall apply:
 
-(1) Beginning 270 days after July 9, 2012, the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person's request for a deferral extension if applicable. Such letter and the person's written response to such letter shall be made publicly available on the Internet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply.
+(1) Beginning 270 days after July 9, 2012, the Secretary shall issue a non-compliance letter to such person informing them of such failure to submit or meet the requirements of the applicable subsection. Such letter shall require the person to respond in writing within 45 calendar days of issuance of such letter. Such response may include the person's request for a deferral extension if applicable. Such letter and the person's written response to such letter shall be made publicly available on the Internet Web site of the Food and Drug Administration 60 calendar days after issuance, with redactions for any trade secrets and confidential commercial information. If the Secretary determines that the letter was issued in error, the requirements of this paragraph shall not apply. The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters.
 
-(2) The drug or biological product that is the subject of an assessment described in subsection (a)(2), applicable requirements in subsection (a)(3), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under section 333 of this title), but such failure shall not be the basis for a proceeding—
+(2) The drug or biological product that is the subject of an assessment described in subsection (a)(2) or the investigation described in subsection (a)(3), applicable requirements in subsection (a)(4), or request for approval of a pediatric formulation, may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under section 333 of this title), but such failure shall not be the basis for a proceeding—
 
 (A) to withdraw approval for a drug under section 355(e) of this title; or
 
@@ -218,15 +242,15 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (1) In general ####
 
-An applicant subject to subsection (a) shall submit to the Secretary an initial pediatric study plan prior to the submission of the assessments described under subsection (a)(2).
+An applicant subject to subsection (a) shall submit to the Secretary an initial pediatric study plan prior to the submission of the assessments described under subsection (a)(2) or the investigation described in subsection (a)(3).
 
-#### (2) Timing; content; meeting ####
+#### (2) Timing; content; meetings ####
 
 #### (A) Timing ####
 
 An applicant shall submit the initial pediatric study plan under paragraph (1)—
 
-(i) before the date on which the applicant submits the assessments under subsection (a)(2); and
+(i) before the date on which the applicant submits the assessments under subsection (a)(2) or the investigation described in subsection (a)(3); and
 
 (ii) not later than—
 
@@ -246,19 +270,25 @@ The initial pediatric study plan shall include—
 
 (iii) other information specified in the regulations promulgated under paragraph (7).
 
-#### (C) Meeting ####
+#### (C) Meetings ####
 
 The Secretary—
 
-(i) shall meet with the applicant to discuss the initial pediatric study plan as soon as practicable, but not later than 90 calendar days after the receipt of such plan under subparagraph (A);
+(i) shall meet with the applicant—
 
-(ii) may determine that a written response to the initial pediatric study plan is sufficient to communicate comments on the initial pediatric study plan, and that no meeting is necessary; and
+(I) if requested by the applicant with respect to a drug or biological product that is intended to treat a serious or life-threatening disease or condition, to discuss preparation of the initial pediatric study plan, not later than the end-of-Phase 1 meeting (as such term is used in section 312.82(b) of title 21, Code of Federal Regulations, or successor regulations) or within 30 calendar days of receipt of such request, whichever is later;
 
-(iii) if the Secretary determines that no meeting is necessary, shall so notify the applicant and provide written comments of the Secretary as soon as practicable, but not later than 90 calendar days after the receipt of the initial pediatric study plan.
+(II) to discuss the initial pediatric study plan as soon as practicable, but not later than 90 calendar days after the receipt of such plan under subparagraph (A); and
+
+(III) to discuss the bases for the deferral under subsection (a)(4) or a full or partial waiver under subsection (a)(5);
+
+(ii) may determine that a written response to the initial pediatric study plan is sufficient to communicate comments on the initial pediatric study plan, and that no meeting under clause (i)(II) is necessary; and
+
+(iii) if the Secretary determines that no meeting under clause (i)(II) is necessary, shall so notify the applicant and provide written comments of the Secretary as soon as practicable, but not later than 90 calendar days after the receipt of the initial pediatric study plan.
 
 #### (3) Agreed initial pediatric study plan ####
 
-Not later than 90 calendar days following the meeting under paragraph (2)(C)(i) or the receipt of a written response from the Secretary under paragraph (2)(C)(iii), the applicant shall document agreement on the initial pediatric study plan in a submission to the Secretary marked "Agreed Initial Pediatric Study Plan", and the Secretary shall confirm such agreement to the applicant in writing not later than 30 calendar days of receipt of such agreed initial pediatric study plan.
+Not later than 90 calendar days following the meeting under paragraph (2)(C)(i)(II) or the receipt of a written response from the Secretary under paragraph (2)(C)(iii), the applicant shall document agreement on the initial pediatric study plan in a submission to the Secretary marked "Agreed Initial Pediatric Study Plan", and the Secretary shall confirm such agreement to the applicant in writing not later than 30 calendar days of receipt of such agreed initial pediatric study plan.
 
 #### (4) Deferral and waiver ####
 
@@ -402,9 +432,15 @@ The requirements of this subsection shall supplement, not supplant, other review
 
 Nothing in this section provides to the Secretary any authority to require a pediatric assessment of any drug or biological product, or any assessment regarding other populations or uses of a drug or biological product, other than the pediatric assessments described in this section.
 
-#### (k) Orphan drugs ####
+#### (k) Relation to orphan drugs ####
 
-Unless the Secretary requires otherwise by regulation, this section does not apply to any drug for an indication for which orphan designation has been granted under section 360bb of this title.
+#### (1) In general; exemption for orphan indications ####
+
+Unless the Secretary requires otherwise by regulation and except as provided in paragraph (2), this section does not apply to any drug or biological product for an indication for which orphan designation has been granted under section 360bb of this title.
+
+#### (2) Applicability despite orphan designation of certain indications ####
+
+This section shall apply with respect to a drug or biological product for which an indication has been granted orphan designation under 360bb <sup><a href="#355c_1_target" name="355c_1">1</a></sup> of this title if the investigation described in subsection (a)(3) applies to the drug or biological product as described in subsection (a)(1)(B).
 
 #### (l) New active ingredient ####
 
@@ -416,9 +452,77 @@ A biological product that is biosimilar to a reference product under section 262
 
 A biological product that is interchangeable with a reference product under section 262 of title 42 shall not be considered to have a new active ingredient under this section.
 
-(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156.)
+#### (m) List of primary molecular targets ####
+
+#### (1) In general ####
+
+Within one year of August 18, 2017, the Secretary shall establish and update regularly, and shall publish on the internet website of the Food and Drug Administration—
+
+(A) a list of molecular targets considered, on the basis of data the Secretary determines to be adequate, to be substantially relevant to the growth and progression of a pediatric cancer, and that may trigger the requirements under this section; and
+
+(B) a list of molecular targets of new cancer drugs and biological products in development for which pediatric cancer study requirements under this section will be automatically waived.
+
+#### (2) Consultation ####
+
+In establishing the lists described in paragraph (1), the Secretary shall consult the National Cancer Institute, members of the internal committee under section 355d of this title, and the Pediatric Oncology Subcommittee of the Oncologic Drugs Advisory Committee, and shall take into account comments from the meeting under subsection (c).
+
+#### (3) Rule of construction ####
+
+Nothing in paragraph (1) shall be construed—
+
+(A) to require the inclusion of a molecular target on the list published under such paragraph as a condition for triggering the requirements under subsection (a)(1)(B) with respect to a drug or biological product directed at such molecular target; or
+
+(B) to authorize the disclosure of confidential commercial information, as prohibited under section 331(j) of this title or section 1905 of title 18.
+
+(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156; Pub. L. 115–52, title V, §§503–504(b), 505(e), Aug. 18, 2017, 131 Stat. 1038–1041, 1047.)
 
 #### Amendments ####
+
+**2017**—Subsec. (a)(1). Pub. L. 115–52, §504(a)(1)(A), designated existing provisions as subpar. (A) and inserted heading, substituted "Except with respect to an application for which subparagraph (B) applies, a person" for "A person", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted "; or" for ", or" at end of subpar. (A)(i), and added subpar. (B).
+
+Subsec. (a)(2)(A). Pub. L. 115–52, §504(a)(1)(B), substituted "paragraph (1)(A)" for "paragraph (1)" in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 115–52, §504(a)(1)(D), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 115–52, §504(a)(1)(C), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(4)(A). Pub. L. 115–52, §504(a)(1)(E)(i), substituted "assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B)" for "assessments required under paragraph (1)" in introductory provisions.
+
+Subsec. (a)(4)(A)(ii)(I). Pub. L. 115–52, §504(a)(1)(E)(ii), inserted "or reports on the investigation" after "assessments".
+
+Subsec. (a)(4)(B)(i). Pub. L. 115–52, §504(a)(1)(E)(i), substituted "assessments required under paragraph (1)(A) or reports on the investigation required under paragraph (1)(B)" for "assessments required under paragraph (1)" in introductory provisions.
+
+Subsec. (a)(4)(B)(ii). Pub. L. 115–52, §504(a)(1)(E)(iii), substituted "assessment under paragraph (1)(A) or reports on the investigation under paragraph (1)(B)" for "assessment under paragraph (1)".
+
+Subsec. (a)(4)(C)(ii)(II). Pub. L. 115–52, §504(a)(1)(E)(iv), inserted "or investigation" after "assessment".
+
+Subsec. (a)(5). Pub. L. 115–52, §504(a)(1)(C), redesignated par. (4) as (5).
+
+Subsec. (a)(5)(A), (B). Pub. L. 115–52, §504(a)(1)(F), inserted "or reports on the investigation" after "assessments" in introductory provisions.
+
+Subsec. (d). Pub. L. 115–52, §504(a)(2), inserted "and reports on the investigation" after "Submission of assessments" in heading and, in introductory provisions, inserted "or the investigation described in subsection (a)(3)" after "assessment described in subsection (a)(2)" and substituted "subsection (a)(4)" for "subsection (a)(3)".
+
+Subsec. (d)(1). Pub. L. 115–52, §505(e), inserted at end "The Secretary shall inform the Pediatric Advisory Committee of letters issued under this paragraph and responses to such letters."
+
+Subsec. (d)(2). Pub. L. 115–52, §504(a)(2)(A), (C), in introductory provisions, inserted "or the investigation described in subsection (a)(3)" after "assessment described in subsection (a)(2)" and substituted "subsection (a)(4)" for "subsection (a)(3)".
+
+Subsec. (e)(1). Pub. L. 115–52, §504(a)(3)(A), inserted "or the investigation described in subsection (a)(3)" after "under subsection (a)(2)".
+
+Subsec. (e)(2). Pub. L. 115–52, §503(b)(1), substituted "meetings" for "meeting" in heading.
+
+Subsec. (e)(2)(A)(i). Pub. L. 115–52, §504(a)(3)(B), inserted "or the investigation described in subsection (a)(3)" after "under subsection (a)(2)".
+
+Subsec. (e)(2)(C). Pub. L. 115–52, §503(b)(2), substituted "Meetings" for "Meeting" in heading.
+
+Subsec. (e)(2)(C)(i). Pub. L. 115–52, §503(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "shall meet with the applicant to discuss the initial pediatric study plan as soon as practicable, but not later than 90 calendar days after the receipt of such plan under subparagraph (A);".
+
+Subsec. (e)(2)(C)(ii), (iii). Pub. L. 115–52, §503(b)(3), substituted "no meeting under clause (i)(II)" for "no meeting".
+
+Subsec. (e)(3). Pub. L. 115–52, §503(b)(4), substituted "meeting under paragraph (2)(C)(i)(II)" for "meeting under paragraph (2)(C)(i)".
+
+Subsec. (k). Pub. L. 115–52, §504(b), amended subsec. (k) generally. Prior to amendment, text read as follows: "Unless the Secretary requires otherwise by regulation, this section does not apply to any drug for an indication for which orphan designation has been granted under section 360bb of this title."
+
+Subsec. (m). Pub. L. 115–52, §504(a)(4), added subsec. (m).
 
 **2016**—Subsec. (e)(2)(A). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(aa), inserted "study" after "initial pediatric" in introductory and concluding provisions.
 
@@ -529,3 +633,59 @@ Pub. L. 108–155, §4, Dec. 3, 2003, 117 Stat. 1942, provided that:
  unless the Secretary grants a waiver under subsection (a)(4) of that section.
 
 "(c) No Limitation of Authority.—Neither the lack of guidance or regulations to implement this Act or the amendments made by this Act nor the pendency of the process for issuing guidance or regulations shall limit the authority of the Secretary of Health and Human Services under, or defer any requirement under, this Act or those amendments."
+
+#### Rule of Construction ####
+
+Pub. L. 115–52, title V, §504(e), Aug. 18, 2017, 131 Stat. 1045, provided that: "Nothing in this section [amending this section and section 355c–1 of this title and enacting provisions set out as a note below], including the amendments made by this section, shall limit the authority of the Secretary of Health and Human Services to issue written requests under section 505A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a) or section 351(m) of the Public Health Service Act (42 U.S.C. 262(m)), or to negotiate or implement amendments to such requests proposed by the an [sic] applicant."
+
+#### Meeting, Consultation, and Guidance ####
+
+Pub. L. 115–52, title V, §504(c), Aug. 18, 2017, 131 Stat. 1041, provided that:
+
+"(1) Meeting.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary'), acting through the Commissioner of Food and Drugs and in collaboration with the Director of the National Cancer Institute, shall convene a public meeting not later than 1 year after the date of enactment of this Act [Aug. 18, 2017] to solicit feedback from physicians and researchers (including pediatric oncologists and rare disease specialists), patients, and other stakeholders to provide input on development of the guidance under paragraph (2) and the list under subsection (m) of section 505B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c), as added by subsection (a). The Secretary shall seek input at such meeting on—
+
+"(A) the data necessary to determine that there is scientific evidence that a drug or biological product is directed at a molecular target that is considered to be substantially relevant to the growth or progression of a pediatric cancer;
+
+"(B) the data necessary to determine that there is scientific evidence that a molecular target is considered to be substantially relevant to the growth or progression of a pediatric cancer;
+
+"(C) the data needed to meet the requirement of conducting an investigation described in section 505B(a)(3) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(a)(3)], as amended by subsection (a);
+
+"(D) considerations when developing the list under section 505B(m) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(m)] that contains molecular targets shared between different tumor types;
+
+"(E) the process the Secretary shall utilize to update regularly a list of molecular targets that may trigger a pediatric study under section 505B of the Federal Food, Drug, and Cosmetic Act, as so amended, and how often such updates shall occur;
+
+"(F) how to overcome the challenges related to pediatric cancer drug and biological product development, including issues related to the ethical, practical, and other barriers to conducting clinical trials in pediatric cancer with small patient populations;
+
+"(G) scientific or operational challenges associated with performing an investigation described in section 505B(a)(1)(B) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(a)(1)(B)], including the effect on pediatric studies currently underway in a pediatric patient population, treatment of a pediatric patient population, and the ability to complete adult clinical trials;
+
+"(H) the advantages and disadvantages of innovative clinical trial designs in addressing the development of cancer drugs or biological products directed at molecular targets in pediatric cancer patients;
+
+"(I) the ways in which the Secretary can improve the current process outlined under sections 505A and 505B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a, 355c) to encourage additional research and development of pediatric cancer treatments;
+
+"(J) the ways in which the Secretary might streamline and improve the written request process, including when studies contained in a request under such section 505A are not feasible due to the ethical, practical, or other barriers to conducting clinical trials in pediatric cancer populations;
+
+"(K) how the Secretary will facilitate collaboration among pediatric networks, academic centers and experts in pediatric cancer to conduct an investigation described in such section 505B(a)(3);
+
+"(L) how the Secretary may facilitate collaboration among sponsors of same-in-class drugs and biological products that would be subject to the requirements for an investigation under such section 505B based on shared molecular targets; and
+
+"(M) the ways in which the Secretary will help to mitigate the risks, if any, of discouraging the research and development of orphan drugs when implementing such section 505B as amended.
+
+"(2) Guidance.—Not later than 2 years after the date of enactment of this Act [Aug. 18, 2017], the Secretary, acting through the Commissioner of Food and Drugs, shall issue final guidance on implementation of the amendments to section 505B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c) regarding molecularly targeted cancer drugs made by this section, including—
+
+"(A) the scientific criteria, types of data, and regulatory considerations for determining whether a molecular target is substantially relevant to the growth or progression of a pediatric cancer and would trigger an investigation under section 505B of the Federal Food, Drug, and Cosmetic Act, as amended;
+
+"(B) the process by which the Secretary will engage with sponsors to discuss determinations, investigation requirements, deferrals, waivers, and any other issues that need to be resolved to ensure that any required investigation based on a molecular target can be reasonably conducted;
+
+"(C) the scientific or operational challenges for which the Secretary may issue deferrals or waivers for an investigation described in subsection (a)(3) of such section 505B, including adverse impacts on current pediatric studies underway in a pediatric patient population, studies involving drugs designated as orphan drugs, treatment of a pediatric patient population, or the ability to complete adult clinical trials;
+
+"(D) how the Secretary and sponsors will facilitate collaboration among pediatric networks, academic centers, and experts in pediatric cancer to conduct an investigation described in subsection (a)(3) of such section 505B;
+
+"(E) scientific and regulatory considerations for study designs, including the applicability of innovative clinical trial designs for pediatric cancer drug and biological product developments under sections 505A and 505B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a, 355c);
+
+"(F) approaches to streamline and improve the amendment process, including when studies contained in a request under such section 505A are not feasible due to the ethical, practical, or other barriers to conducting clinical trials in pediatric cancer populations;
+
+"(G) the process for submission of an initial pediatric study plan for the investigation described in section 505B(a)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c(a)(3)), including the process for a sponsor to meet and reach agreement with the Secretary on the initial pediatric study plan; and
+
+"(H) considerations for implementation of such section 505B, as so amended, and waivers of the requirements of such section 505B with regard to molecular targets for which several drugs or biological products may be under investigation."
+
+[<sup>1</sup> So in original. Probably should be preceded by "section".](#355c_1)

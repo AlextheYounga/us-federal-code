@@ -22,15 +22,17 @@ The staff of the Office of Pediatric Therapeutics shall coordinate with employee
 
 #### (d) Neonatology expertise ####
 
-For the 5-year period beginning on July 9, 2012, at least one of the individuals described in subsection (c)(2) shall have expertise in neonatology.
+At least one of the individuals described in subsection (c)(2) shall have expertise in neonatology.
 
-(Pub. L. 107–109, §6, Jan. 4, 2002, 115 Stat. 1414; Pub. L. 110–85, title III, §306(a), Sept. 27, 2007, 121 Stat. 864; Pub. L. 112–144, title V, §511, July 9, 2012, 126 Stat. 1050.)
+(Pub. L. 107–109, §6, Jan. 4, 2002, 115 Stat. 1414; Pub. L. 110–85, title III, §306(a), Sept. 27, 2007, 121 Stat. 864; Pub. L. 112–144, title V, §511, July 9, 2012, 126 Stat. 1050; Pub. L. 115–52, title V, §505(d)(1), Aug. 18, 2017, 131 Stat. 1047.)
 
 #### Codification ####
 
 Section was enacted as part of the Best Pharmaceuticals for Children Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments ####
+
+**2017**—Subsec. (d). Pub. L. 115–52 substituted "At least" for "For the 5-year period beginning on July 9, 2012, at least".
 
 **2012**—Subsec. (c)(2) to (4). Pub. L. 112–144, §511(1), added pars. (2) and (3) and redesignated former par. (2) as (4).
 

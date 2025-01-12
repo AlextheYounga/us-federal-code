@@ -28,13 +28,29 @@ An accredited person may not be used to perform a review of—
 
 (i) a class III device;
 
-(ii) a class II device which is intended to be permanently implantable or life sustaining or life supporting; or
+(ii) a device classified under section 360c(f)(2) of this title or designated under section 360e–3(d) <sup><a href="#360m_1_target" name="360m_1">1</a></sup> of this title;
 
-(iii) a class II device which requires clinical data in the report submitted under section 360(k) of this title for the device, except that the number of class II devices to which the Secretary applies this clause for a year, less the number of such reports to which clauses (i) and (ii) apply, may not exceed 6 percent of the number that is equal to the total number of reports submitted to the Secretary under such section for such year less the number of such reports to which such clauses apply for such year.
+(iii) a device that is intended to be permanently implantable, life sustaining, or life supporting, unless otherwise determined by the Secretary in accordance with subparagraph (B)(i)(II) and listed as eligible for review under subparagraph (B)(iii); or
 
-#### (B) Adjustment ####
+(iv) a device that is of a type, or subset of a type, listed as not eligible for review under subparagraph (B)(iii).
 
-In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under section 360(k) of this title were not required to be submitted by reason of the operation of section 360(m) of this title.
+#### (B) Designation for review ####
+
+The Secretary shall—
+
+(i) issue draft guidance on the factors the Secretary will use in determining whether a class I or class II device type, or subset of such device types, is eligible for review by an accredited person, including—
+
+(I) the risk of the device type, or subset of such device type; and
+
+(II) whether the device type, or subset of such device type, is permanently implantable, life sustaining, or life supporting, and whether there is a detailed public health justification for permitting the review by an accredited person of such device type or subset;
+
+(ii) not later than 24 months after the date on which the Secretary issues such draft guidance, finalize such guidance; and
+
+(iii) beginning on the date such guidance is finalized, designate and post on the internet website of the Food and Drug Administration, an updated list of class I and class II device types, or subsets of such device types, and the Secretary's determination with respect to whether each such device type, or subset of a device type, is eligible or not eligible for review by an accredited person under this section based on the factors described in clause (i).
+
+#### (C) Interim rule ####
+
+Until the date on which the updated list is designated and posted in accordance with subparagraph (B)(iii), the list in effect on August 18, 2017, shall be in effect.
 
 #### (b) Accreditation ####
 
@@ -60,11 +76,7 @@ To ensure that persons accredited under this section will continue to meet the s
 
 (ii) take such additional measures as the Secretary determines to be appropriate.
 
-#### (D) Annual report ####
-
-The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under subsection (a) for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
-
-#### (E) Periodic reaccreditation ####
+#### (D) Periodic reaccreditation ####
 
 #### (i) Period ####
 
@@ -90,7 +102,9 @@ An accredited person shall, at a minimum, meet the following requirements:
 
 (D) Such person shall not engage in the design, manufacture, promotion, or sale of devices.
 
-(E) The operations of such person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will—
+(E) The operations of such person shall be in accordance with generally accepted professional and ethical business practices.
+
+(F) Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section—
 
 (i) certify that reported information accurately reflects data reviewed;
 
@@ -112,11 +126,33 @@ Compensation for an accredited person shall be determined by agreement between t
 
 #### (c) Duration ####
 
-The authority provided by this section terminates October 1, 2017.
+The authority provided by this section terminates October 1, 2022.
 
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title II, §206, Aug. 18, 2017, 131 Stat. 1018.)
+
+#### References in Text ####
+
+Section 360e–3 of this title, referred to in subsec. (a)(3)(A)(ii), was in the original a reference to section 515C of act June 25, 1938, which was renumbered section 515B by Pub. L. 115–52, title IX, §901(f)(2), Aug. 18, 2017, 131 Stat. 1077.
 
 #### Amendments ####
+
+**2017**—Subsec. (a)(3)(A)(ii) to (iv). Pub. L. 115–52, §206(1)(A), added cls. (ii) to (iv) and struck out former cls. (ii) and (iii) which read as follows:
+
+"(ii) a class II device which is intended to be permanently implantable or life sustaining or life supporting; or
+
+"(iii) a class II device which requires clinical data in the report submitted under section 360(k) of this title for the device, except that the number of class II devices to which the Secretary applies this clause for a year, less the number of such reports to which clauses (i) and (ii) apply, may not exceed 6 percent of the number that is equal to the total number of reports submitted to the Secretary under such section for such year less the number of such reports to which such clauses apply for such year."
+
+Subsec. (a)(3)(B). Pub. L. 115–52, §206(1)(B), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "In determining for a year the ratio described in subparagraph (A)(iii), the Secretary shall not include in the numerator class III devices that the Secretary reclassified into class II, and the Secretary shall include in the denominator class II devices for which reports under section 360(k) of this title were not required to be submitted by reason of the operation of section 360(m) of this title."
+
+Subsec. (a)(3)(C). Pub. L. 115–52, §206(1)(C), added subpar. (C).
+
+Subsec. (b)(2)(D), (E). Pub. L. 115–52, §206(2)(A), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: "The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under subsection (a) for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year."
+
+Subsec. (b)(3)(E). Pub. L. 115–52, §206(2)(B)(iii), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Subsec. (b)(3)(F). Pub. L. 115–52, §206(2)(B)(i), (ii), redesignated subpar. (E) as (F) and substituted "Such person shall agree, at a minimum, to include in its request for accreditation a commitment to, at the time of accreditation, and at any time it is performing any review pursuant to this section" for "The operations of such person shall be in accordance with generally accepted professional and ethical business practices and shall agree in writing that as a minimum it will" in introductory provisions.
+
+Subsec. (c). Pub. L. 115–52, §206(3), substituted "2022' for "2017".
 
 **2016**—Subsec. (d). Pub. L. 114–255 struck out subsec. (d) which related to report to Congress.
 
@@ -138,6 +174,10 @@ whichever occurs first."
 
 Subsec. (d). Pub. L. 107–250, §202(2), added subsec. (d).
 
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
+
 #### Effective Date ####
 
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
@@ -153,3 +193,5 @@ Pub. L. 105–115, title II, §210(d), Nov. 21, 1997, 111 Stat. 2345, provided t
 "(B) Evaluation of program.—Not later than 6 months prior to the date on which, pursuant to subsection (c) of section 523 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360m(c)] (as added by subsection (a)), the authority provided under subsection (a) of such section will terminate, the Comptroller General shall submit to the Committee on Commerce [now Committee on Energy and Commerce] of the House of Representatives and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate a report describing the use of accredited persons under such section 523, including an evaluation of the extent to which such use assisted the Secretary in carrying out the duties of the Secretary under such Act [21 U.S.C. 301 et seq.] with respect to devices, and the extent to which such use promoted actions which are contrary to the purposes of such Act.
 
 "(2) Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act [Nov. 21, 1997], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360m(a)(3)(A)] (relating to class II devices for which clinical data are required in reports under section 510(k) [21 U.S.C. 360(k)]) should be removed."
+
+[<sup>1</sup> See References in Text note below.](#360m_1)

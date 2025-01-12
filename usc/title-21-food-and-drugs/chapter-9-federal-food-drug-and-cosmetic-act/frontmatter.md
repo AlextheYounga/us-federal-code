@@ -168,6 +168,10 @@ Sec.
 
 356g. Standards for regenerative medicine and regenerative advanced therapies.
 
+356h. Competitive generic therapies.
+
+356i. Prompt reports of marketing status.
+
 357. Qualification of drug development tools.
 
 358. Authority to designate official names.

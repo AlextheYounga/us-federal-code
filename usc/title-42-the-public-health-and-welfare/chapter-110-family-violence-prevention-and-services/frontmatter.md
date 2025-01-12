@@ -30,11 +30,7 @@ Sec.
 
 10414. Domestic Violence Prevention Enhancement and Leadership Through Alliances (DELTA).
 
-10415 to 10419. Repealed or Omitted.
-
-10420. Grants to support families in the justice system.
-
-10421. Omitted.
+10415 to 10421. Repealed, Tranferred, or Omitted.
 
 #### Codification ####
 

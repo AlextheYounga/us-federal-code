@@ -96,7 +96,7 @@ the Secretary shall by administrative order following publication of a proposed 
 
 refer such application to the appropriate panel under section 360c of this title for study and for submission (within such period as he may establish) of a report and recommendation respecting approval of the application, together with all underlying data and the reasons or basis for the recommendation. Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.
 
-(4)(A) Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(h) of this title, the Secretary does not have the authority to collect fees under section 379j(a) of this title.
+(4)(A) Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(g) of this title, the Secretary does not have the authority to collect fees under section 379j(a) of this title.
 
 (B) Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless a significant issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
 
@@ -296,9 +296,11 @@ revising the classification of the device so that the device is classified into 
 
 (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the order requiring a device to remain in class III, establish a schedule for the issuance of an administrative order under subsection (b) for each device which is subject to the order requiring the device to remain in class III.
 
-(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056; Pub. L. 114–255, div. A, title III, §§3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, 130 Stat. 1124, 1129, 1154.)
+(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056; Pub. L. 114–255, div. A, title III, §§3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, 130 Stat. 1124, 1129, 1154; Pub. L. 115–52, title II, §203(f)(2)(A), Aug. 18, 2017, 131 Stat. 1015.)
 
 #### Amendments ####
+
+**2017**—Subsec. (c)(4)(A). Pub. L. 115–52 substituted "section 379j(g)" for "section 379j(h)".
 
 **2016**—Subsec. (a)(1). Pub. L. 114–255, §3101(a)(2)(J), substituted "subject to an order" for "subject to a an order".
 
@@ -377,6 +379,10 @@ Subsec. (e). Pub. L. 101–629, §9(a)(2), inserted "and temporary suspension" a
 Subsec. (e)(3). Pub. L. 101–629, §9(a)(1), added par. (3).
 
 Subsec. (i). Pub. L. 101–629, §4(b)(1), added subsec. (i).
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
 
 #### Effective Date of 2012 Amendment ####
 

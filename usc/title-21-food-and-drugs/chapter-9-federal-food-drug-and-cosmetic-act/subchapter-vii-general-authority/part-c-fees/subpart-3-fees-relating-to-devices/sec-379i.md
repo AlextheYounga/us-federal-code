@@ -34,7 +34,9 @@ Such term does not include a supplement, a premarket report, or a premarket noti
 
 (7) The term "annual fee", for periodic reporting concerning a class III device, means the annual fee associated with periodic reports required by a premarket application approval order.
 
-(8) The term "process for the review of device applications" means the following activities of the Secretary with respect to the review of premarket applications, premarket reports, supplements, and premarket notification submissions:
+(8) The term "de novo classification request" means a request made under section 360c(f)(2)(A) of this title with respect to the classification of a device.
+
+(9) The term "process for the review of device applications" means the following activities of the Secretary with respect to the review of premarket applications, premarket reports, supplements, and premarket notification submissions:
 
 (A) The activities necessary for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
 
@@ -58,7 +60,7 @@ Such term does not include a supplement, a premarket report, or a premarket noti
 
 (K) Compiling, developing, and reviewing information on relevant devices to identify safety and effectiveness issues for devices subject to premarket applications, premarket reports, supplements, or premarket notification submissions.
 
-(9) The term "costs of resources allocated for the process for the review of device applications" means the expenses in connection with the process for the review of device applications for—
+(10) The term "costs of resources allocated for the process for the review of device applications" means the expenses in connection with the process for the review of device applications for—
 
 (A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees and to contracts with such contractors;
 
@@ -66,27 +68,37 @@ Such term does not include a supplement, a premarket report, or a premarket noti
 
 (C) leasing, maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, scientific equipment, and other necessary materials and supplies; and
 
-(D) collecting fees and accounting for resources allocated for the review of premarket applications, premarket reports, supplements, and submissions.
+(D) collecting fees and accounting for resources allocated for the review of premarket applications, premarket reports, supplements, submissions, and de novo classification requests.
 
-(10) The term "adjustment factor" applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by such Index for October 2011.
+(11) The term "adjustment factor" applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by such Index for October 2016.
 
-(11) The term "person" includes an affiliate thereof.
+(12) The term "person" includes an affiliate thereof.
 
-(12) The term "affiliate" means a business entity that has a relationship with a second business entity (whether domestic or international) if, directly or indirectly—
+(13) The term "affiliate" means a business entity that has a relationship with a second business entity (whether domestic or international) if, directly or indirectly—
 
 (A) one business entity controls, or has the power to control, the other business entity; or
 
 (B) a third party controls, or has power to control, both of the business entities.
 
-(13) The term "establishment subject to a registration fee" means an establishment that is registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
+(14) The term "establishment subject to a registration fee" means an establishment that is registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
 
-(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843; Pub. L. 112–144, title II, §202, July 9, 2012, 126 Stat. 1002; Pub. L. 114–255, div. A, title III, §3051(c)(2), Dec. 13, 2016, 130 Stat. 1124.)
+(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843; Pub. L. 112–144, title II, §202, July 9, 2012, 126 Stat. 1002; Pub. L. 114–255, div. A, title III, §3051(c)(2), Dec. 13, 2016, 130 Stat. 1124; Pub. L. 115–52, title II, §202(a), Aug. 18, 2017, 131 Stat. 1013.)
 
 #### Termination of Section ####
 
-For termination of section by section 207(a) of Pub. L. 112–144, see Effective and Termination Dates note below.
+For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.
 
 #### Amendments ####
+
+**2017**—Par. (8). Pub. L. 115–52, §202(a)(2), added par. (8). Former par. (8) redesignated (9).
+
+Par. (9). Pub. L. 115–52, §202(a)(1), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+
+Par. (10). Pub. L. 115–52, §202(a)(1), (3), redesignated par. (9) as (10) and substituted "submissions, and de novo classification requests" for "and submissions" in subpar. (D). Former par. (10) redesignated (11).
+
+Par. (11). Pub. L. 115–52, §202(a)(1), (4), redesignated par. (10) as (11) and substituted "2016" for "2011".
+
+Pars. (12) to (14). Pub. L. 115–52, §202(a)(1), redesignated pars. (11) to (13) as (12) to (14), respectively.
 
 **2016**—Par. (5). Pub. L. 114–255 substituted "360e(d)(5)" for "360e(d)(6)".
 
@@ -118,6 +130,10 @@ Par. (5)(J). Pub. L. 108–214, §2(a)(1)(C), substituted "a premarket applicati
 
 Par. (8). Pub. L. 108–214, §2(a)(1)(D), substituted "The term 'affiliate' means a business entity that has a relationship with a second business entity (whether domestic or international)" for "The term 'affiliate' means a business entity that has a relationship with a second business entity".
 
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–52, title II, §209, Aug. 18, 2017, 131 Stat. 1020, provided that: "The amendments made by this title [see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title] shall take effect on October 1, 2017, or the date of the enactment of this Act [Aug. 18, 2017], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] shall be assessed for all submissions listed in section 738(a)(2)(A) of such Act [21 U.S.C. 379j(a)(2)(A)] received on or after October 1, 2017, regardless of the date of the enactment of this Act."
+
 #### Effective Date of 2012 Amendment ####
 
 Pub. L. 112–144, title II, §206, July 9, 2012, 126 Stat. 1007, provided that: "The amendments made by this title [enacting section 379d–3 of this title, amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section] shall take effect on October 1, 2012, or the date of the enactment of this Act [July 9, 2012], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] shall be assessed for all submissions listed in section 738(a)(2)(A) of such Act [21 U.S.C. 379j(a)(2)(A)] received on or after October 1, 2012, regardless of the date of the enactment of this Act."
@@ -130,7 +146,11 @@ Pub. L. 110–85, title II, §217, Sept. 27, 2007, 121 Stat. 852, which provided
 
 #### Effective and Termination Dates ####
 
-Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, provided that: "Sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 739i [379i]; 739j [379j]) shall cease to be effective October 1, 2017. Section 738A (21 U.S.C. 739j–1 [379j–1]) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) shall cease to be effective January 31, 2018."
+Pub. L. 115–52, title II, §210(a), Aug. 18, 2017, 131 Stat. 1020, provided that: "Sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 739i [379i]; 739j [379j]) shall cease to be effective October 1, 2022."
+
+Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, which provided that sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i; 379j) would cease to be effective Oct. 1, 2017, and that section 738A (21 U.S.C. 379j–1) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020.
+
+[Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020, provided that the repeal of section §207(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.]
 
 Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: "The amendments made by this title [enacting this subpart] shall take effect on the date of the enactment of this Act [Oct. 26, 2002], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment."
 
@@ -140,11 +160,15 @@ Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, which provided
 
 #### Savings Provision ####
 
+Pub. L. 115–52, title II, §208, Aug. 18, 2017, 131 Stat. 1019, provided that: "Notwithstanding the amendments made by this title [see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this title [Aug. 18, 2017], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act [21 U.S.C. 379j(a)(2)(A)] (as defined in such part as of such day) that on or after October 1, 2012, but before October 1, 2017, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018."
+
 Pub. L. 112–144, title II, §205, July 9, 2012, 126 Stat. 1007, provided that: "Notwithstanding the amendments made by this title [enacting section 379d–3 of this title, amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this title [July 9, 2012], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act [21 U.S.C. 379j(a)(2)(A)] (in effect as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2013."
 
 Pub. L. 110–85, title II, §214, Sept. 27, 2007, 121 Stat. 852, provided that: "Notwithstanding section 107 of the Medical Device User Fee and Modernization Act of 2002 (Public Law 107–250) [formerly set out as an Effective and Termination Dates note above], and notwithstanding the amendments made by this subtitle [subtitle A (§§211–217) of title II of Pub. L. 110–85, enacting section 379j–1 of this title and amending this section and section 379j of this title], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this subtitle [Sept. 27, 2007], shall continue to be in effect with respect to premarket applications, premarket reports, premarket notification submissions, and supplements (as defined in such part as of such day) that on or after October 1, 2002, but before October 1, 2007, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2008."
 
 #### Findings ####
+
+Pub. L. 115–52, title II, §201(b), Aug. 18, 2017, 131 Stat. 1013, provided that: "The Congress finds that the fees authorized under the amendments made by this title [see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 
 Pub. L. 112–144, title II, §201(b), July 9, 2012, 126 Stat. 1002, provided that: "The Congress finds that the fees authorized under the amendments made by this title [enacting section 379d–3 of this title, amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section] will be dedicated toward expediting the process for the review of device applications and for assuring the safety and effectiveness of devices, as set forth in the goals identified for purposes of part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [this subpart] in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 

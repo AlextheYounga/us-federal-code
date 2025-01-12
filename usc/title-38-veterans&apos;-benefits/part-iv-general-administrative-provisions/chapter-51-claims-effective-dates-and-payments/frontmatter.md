@@ -16,6 +16,12 @@ Sec.
 
 5104. Decisions and notices of decisions.
 
+5104A. Binding nature of favorable findings.
+
+5104B. Higher-level review by the agency of original jurisdiction.
+
+5104C. Options following decision by agency of original jurisdiction.
+
 5105. Joint applications for social security and dependency and indemnity compensation.
 
 5106. Furnishing of information by other agencies.
@@ -58,7 +64,13 @@ Sec.
 
 5126. Benefits not to be denied based on lack of mailing address.
 
+#### Amendment of Analysis ####
+
+Pub. L. 115–55, §2(i)(3), (k)(2), (x), Aug. 23, 2017, 131 Stat. 1109, 1115, provided that, applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, this analysis is amended by striking items 5108 and 5109B and inserting new items 5108 "Supplemental claims" and 5109B "Expedited treatment of returned and remanded claims". See 2017 Amendment note below.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–55, §2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2), Aug. 23, 2017, 131 Stat. 1107–1109, added items 5104A to 5104C and substituted "Supplemental claims" for "Reopening disallowed claims" in item 5108 and "Expedited treatment of returned and remanded claims" for "Expedited treatment of remanded claims" in item 5109B.
 
 **2008**—Pub. L. 110–389, title II, §212(b), Oct. 10, 2008, 122 Stat. 4151, added item 5121A.
 

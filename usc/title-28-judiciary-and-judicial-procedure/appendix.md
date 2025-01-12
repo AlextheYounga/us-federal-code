@@ -4269,8 +4269,6 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
 
 ### APPENDIX ###
 
-#### Table ####
-
 <img src="http://uscode.house.gov/images/uscprelim/28Aapp1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28Aapp2.gif" width="700" />
 
 (As added Apr. 28, 2016, eff. Dec. 1, 2016.)
@@ -4622,9 +4620,9 @@ This table shows the Equity Rules to which references are made in the notes to t
 |     80     |                    6                    |
 |     81     |                   86                    |
 
-### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS <sup><a href="#Table_1_target" name="Table_1">1</a></sup>** ###
+### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS <sup><a href="#I_1_target" name="I_1">1</a></sup>** ###
 
-[<sup>1</sup> Title amended December 29, 1948, effective October 20, 1949.](#Table_1)
+[<sup>1</sup> Title amended December 29, 1948, effective October 20, 1949.](#I_1)
 
 ### TITLE I. SCOPE OF RULES; FORM OF ACTION ###
 

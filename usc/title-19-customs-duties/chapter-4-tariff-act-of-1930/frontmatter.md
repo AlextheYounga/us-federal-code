@@ -392,7 +392,7 @@ Sec.
 
 1595. Searches and seizures.
 
-1595a. Forfeitures and other penalties.
+1595a. Aiding unlawful importation.
 
 1596 to 1598. Repealed.
 

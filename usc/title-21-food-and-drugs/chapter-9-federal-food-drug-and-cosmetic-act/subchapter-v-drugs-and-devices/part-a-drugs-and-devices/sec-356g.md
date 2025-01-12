@@ -10,7 +10,7 @@ Not later than 2 years after December 13, 2016, the Secretary, in consultation w
 
 In carrying out this section, the Secretary shall continue to—
 
-(A) identity <sup><a href="#356g_1_target" name="356g_1">1</a></sup> opportunities to help advance the development of regenerative medicine therapies and regenerative advanced therapies;
+(A) identify opportunities to help advance the development of regenerative medicine therapies and regenerative advanced therapies;
 
 (B) identify opportunities for the development of laboratory regulatory science research and documentary standards that the Secretary determines would help support the development, evaluation, and review of regenerative medicine therapies and regenerative advanced therapies through regulatory predictability; and
 
@@ -24,7 +24,11 @@ Not later than 1 year after the development of standards as described in subsect
 
 For purposes of this section, the terms "regenerative medicine therapy" and "regenerative advanced therapy" have the meanings given such terms in section 356(g) of this title.
 
-(June 25, 1938, ch. 675, §506G, as added Pub. L. 114–255, div. A, title III, §3036, Dec. 13, 2016, 130 Stat. 1104.)
+(June 25, 1938, ch. 675, §506G, as added Pub. L. 114–255, div. A, title III, §3036, Dec. 13, 2016, 130 Stat. 1104; amended Pub. L. 115–52, title IX, §901(b), Aug. 18, 2017, 131 Stat. 1076.)
+
+#### Amendments ####
+
+**2017**—Subsec. (b)(1)(A). Pub. L. 115–52 substituted "identify" for "identity".
 
 #### Guidance Regarding Devices Used in the Recovery, Isolation, or Delivery of Regenerative Advanced Therapies ####
 
@@ -41,5 +45,3 @@ Pub. L. 114–255, div. A, title III, §3034, Dec. 13, 2016, 130 Stat. 1103, pro
 "(4) application of the least burdensome approach to demonstrate how a device may be used with more than one cell type.
 
 "(b) Final Guidance.—Not later than 12 months after the close of the period for public comment on the draft guidance under subsection (a), the Secretary of Health and Human Services shall finalize such guidance."
-
-[<sup>1</sup> So in original. Probably should be "identify".](#356g_1)

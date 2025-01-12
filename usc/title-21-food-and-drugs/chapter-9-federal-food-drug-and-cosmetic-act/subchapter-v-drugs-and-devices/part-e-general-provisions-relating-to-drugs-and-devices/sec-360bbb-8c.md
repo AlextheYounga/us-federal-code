@@ -50,17 +50,19 @@ For purposes of this section, the term "patient experience data" includes data t
 
 (2) are intended to provide information about patients' experiences with a disease or condition, including—
 
-(A) the impact of such disease or condition, or a related therapy, on patients' lives; and
+(A) the impact (including physical and psychosocial impacts) of such disease or condition, or a related therapy or clinical investigation on patients' lives; and
 
 (B) patient preferences with respect to treatment of such disease or condition.
 
-(June 25, 1938, ch. 675, §569C, as added Pub. L. 112–144, title XI, §1137, July 9, 2012, 126 Stat. 1124; amended Pub. L. 114–255, div. A, title III, §3001, Dec. 13, 2016, 130 Stat. 1083.)
+(June 25, 1938, ch. 675, §569C, as added Pub. L. 112–144, title XI, §1137, July 9, 2012, 126 Stat. 1124; amended Pub. L. 114–255, div. A, title III, §3001, Dec. 13, 2016, 130 Stat. 1083; Pub. L. 115–52, title VI, §605, Aug. 18, 2017, 131 Stat. 1048.)
 
 #### References in Text ####
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(4), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
 
 #### Amendments ####
+
+**2017**—Subsec. (c)(2)(A). Pub. L. 115–52 substituted "impact (including physical and psychosocial impacts) of such disease or condition, or a related therapy or clinical investigation" for "impact of such disease or condition, or a related therapy,".
 
 **2016**—Subsec. (a). Pub. L. 114–255, §3001(1), (2), substituted "Patient engagement in drugs and devices" for "In general" in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated subsecs. (b) to (e) as as pars. (2) to (5), respectively, and realigned margins.
 

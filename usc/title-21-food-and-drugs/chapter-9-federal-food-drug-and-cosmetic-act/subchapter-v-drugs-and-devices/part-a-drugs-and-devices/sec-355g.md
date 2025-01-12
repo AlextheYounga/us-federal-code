@@ -10,7 +10,7 @@ The Secretary shall establish a program to evaluate the potential use of real wo
 
 #### (b) Real world evidence defined ####
 
-In this section, the term "real world evidence" means data regarding the usage, or the potential benefits or risks, of a drug derived from sources other than randomized clinical trials.
+In this section, the term "real world evidence" means data regarding the usage, or the potential benefits or risks, of a drug derived from sources other than traditional clinical trials.
 
 #### (c) Program framework ####
 
@@ -48,7 +48,7 @@ The consultation under subparagraph (A) may be carried out through approaches su
 
 #### (d) Program implementation ####
 
-The Secretary shall, not later than 2 years after December 13, 2016, and in accordance with the framework established under subsection (c), implement the program to evaluate the potential use of real world evidence.
+The Secretary shall, not later than 3 years after December 13, 2016, and in accordance with the framework established under subsection (c), implement the program to evaluate the potential use of real world evidence.
 
 #### (e) Guidance for industry ####
 
@@ -82,4 +82,10 @@ This section shall not be construed to alter—
 
 (B) the Secretary's authority to require postapproval studies or clinical trials, or the standards of evidence under which studies or trials are evaluated.
 
-(June 25, 1938, ch. 675, §505F, as added Pub. L. 114–255, div. A, title III, §3022, Dec. 13, 2016, 130 Stat. 1096.)
+(June 25, 1938, ch. 675, §505F, as added Pub. L. 114–255, div. A, title III, §3022, Dec. 13, 2016, 130 Stat. 1096; amended Pub. L. 115–52, title IX, §901(c), (d), Aug. 18, 2017, 131 Stat. 1076.)
+
+#### Amendments ####
+
+**2017**—Subsec. (b). Pub. L. 115–52, §901(c), substituted "traditional" for "randomized".
+
+Subsec. (d). Pub. L. 115–52, §901(d), substituted "3 years" for "2 years".

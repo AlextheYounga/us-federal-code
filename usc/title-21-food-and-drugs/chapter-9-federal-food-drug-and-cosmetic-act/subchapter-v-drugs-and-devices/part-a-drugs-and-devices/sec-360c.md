@@ -94,7 +94,7 @@ the Secretary shall classify all such devices (other than devices classified by 
 
 (ii) at least one voting member who is knowledgeable about the technology of the device.
 
-(D) The Secretary shall provide an annual opportunity for patients, representatives of patients, and sponsors of medical device submissions to provide recommendations for individuals with appropriate expertise to fill voting member positions on classification panels.
+(D) The Secretary shall provide an annual opportunity for patients, representatives of patients, and sponsors of medical devices that may be specifically the subject of a review by a classification panel to provide recommendations for individuals with appropriate expertise to fill voting member positions on classification panels.
 
 (6)(A) Any person whose device is specifically the subject of review by a classification panel shall have—
 
@@ -119,8 +119,6 @@ the Secretary shall classify all such devices (other than devices classified by 
 (7) After receiving from a classification panel the conclusions and recommendations of the panel on a matter that the panel has reviewed, the Secretary shall review the conclusions and recommendations, shall make a final decision on the matter in accordance with section 360e(d)(2) of this title, and shall notify the affected persons of the decision in writing and, if the decision differs from the conclusions and recommendations of the panel, shall include the reasons for the difference.
 
 (8) A classification panel under this subsection shall not be subject to the annual chartering and annual report requirements of the Federal Advisory Committee Act.
-
-(9) The Secretary shall classify an accessory under this section based on the intended use of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used.
 
 #### (c) Classification panel organization and operation ####
 
@@ -226,6 +224,32 @@ the manufacturer shall certify to the Secretary that the manufacturer has conduc
 
 (5) The Secretary may not withhold a determination of the initial classification of a device under paragraph (1) because of a failure to comply with any provision of this chapter unrelated to a substantial equivalence decision, including a finding that the facility in which the device is manufactured is not in compliance with good manufacturing requirements as set forth in regulations of the Secretary under section 360j(f) of this title (other than a finding that there is a substantial likelihood that the failure to comply with such regulations will potentially present a serious risk to human health).
 
+(6)(A) Subject to the succeeding subparagraphs of this paragraph, the Secretary shall, by written order, classify an accessory under this section based on the risks of the accessory when used as intended and the level of regulatory controls necessary to provide a reasonable assurance of safety and effectiveness of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used.
+
+(B) The classification of any accessory distinct from another device by regulation or written order issued prior to December 13, 2016, shall continue to apply unless and until the accessory is reclassified by the Secretary, notwithstanding the classification of any other device with which such accessory is intended to be used. Nothing in this paragraph shall preclude the Secretary's authority to initiate the classification of an accessory through regulation or written order, as appropriate.
+
+(C)(i) In the case of a device intended to be used with an accessory, where the accessory has been included in an application for premarket approval of such device under section 360e of this title or a report under section 360(k) of this title for clearance of such device and the Secretary has not classified such accessory distinctly from another device in accordance with subparagraph (A), the person filing the application or report (as applicable) at the time such application or report is filed—
+
+(I) may include a written request for the proper classification of the accessory pursuant to subparagraph (A);
+
+(II) shall include in any such request such information as may be necessary for the Secretary to evaluate, based on the least burdensome approach, the appropriate class for the accessory under subsection (a); and
+
+(III) shall, if the request under subclause (I) is requesting classification of the accessory in class II, include in the application an initial draft proposal for special controls, if special controls would be required pursuant to subsection (a)(1)(B).
+
+(ii) The Secretary's response under section 360e(d) or section 360(n) of this title (as applicable) to an application or report described in clause (i) shall also contain the Secretary's granting or denial of the request for classification of the accessory involved.
+
+(iii) The Secretary's evaluation of an accessory under clause (i) shall constitute an order establishing a new classification for such accessory for the specified intended use or uses of such accessory and for any accessory with the same intended use or uses as such accessory.
+
+(D) For accessories that have been granted marketing authorization as part of a submission for another device with which the accessory involved is intended to be used, through an application for such other device under section 360e(c) of this title, a report under section 360(k) of this title, or a request for classification under paragraph (2) of this subsection, the following shall apply:
+
+(i) Not later than the date that is one year after August 18, 2017, and at least once every 5 years thereafter, and as the Secretary otherwise determines appropriate, pursuant to this paragraph, the Secretary shall publish in the Federal Register a notice proposing a list of such accessories that the Secretary determines may be suitable for a distinct classification in class I and the proposed regulations for such classifications. In developing such list, the Secretary shall consider recommendations from sponsors of device submissions and other stakeholders for accessories to be included on such list. The notices shall provide for a period of not less than 60 calendar days for public comment. Within 180 days after the end of the comment period, the Secretary shall publish in the Federal Register a final action classifying such suitable accessories into class I.
+
+(ii) A manufacturer or importer of an accessory that has been granted such marketing authorization may submit to the Secretary a written request for the appropriate classification of the accessory based on the risks and appropriate level of regulatory controls as described in subparagraph (A), and shall, if the request is requesting classification of the accessory in class II, include in the submission an initial draft proposal for special controls, if special controls would be required pursuant to subsection (a)(1)(B). Such request shall include such information as may be necessary for the Secretary to evaluate, based on the least burdensome approach, the appropriate class for the accessory under subsection (a). The Secretary shall provide an opportunity for a manufacturer or importer to meet with appropriate personnel of the Food and Drug Administration to discuss the appropriate classification of such accessory prior to submitting a written request under this clause for classification of the accessory.
+
+(iii) The Secretary shall respond to a request made under clause (ii) not later than 85 calendar days after receiving such request by issuing a written order classifying the accessory or denying the request. If the Secretary does not agree with the recommendation for classification submitted by the manufacturer or importer, the response shall include a detailed description and justification for such determination. Within 30 calendar days after granting such a request, the Secretary shall publish a notice in the Federal Register announcing such response.
+
+(E) Nothing in this paragraph may be construed as precluding a manufacturer of an accessory of a new type from using the classification process described in subsection (f)(2) to obtain classification of such accessory in accordance with the criteria and requirements set forth in that subsection.
+
 #### (g) Information ####
 
 Within sixty days of the receipt of a written request of any person for information respecting the class in which a device has been classified or the requirements applicable to a device under this chapter, the Secretary shall provide such person a written statement of the classification (if any) of such device and the requirements of this chapter applicable to the device.
@@ -306,13 +330,19 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 (ii) on the Internet website of the Food and Drug Administration.
 
-(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056; Pub. L. 114–255, div. A, title III, §§3055, 3058(a), 3060(c), 3101(a)(2)(I), Dec. 13, 2016, 130 Stat. 1127, 1128, 1133, 1154.)
+(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056; Pub. L. 114–255, div. A, title III, §§3055, 3058(a), 3060(c), 3101(a)(2)(I), Dec. 13, 2016, 130 Stat. 1127, 1128, 1133, 1154; Pub. L. 115–52, title VII, §707(a), (b), title IX, §901(h), Aug. 18, 2017, 131 Stat. 1060, 1062, 1077.)
 
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2017**—Subsec. (b)(5)(D). Pub. L. 115–52, §901(h), substituted "medical devices that may be specifically the subject of a review by a classification panel" for "medical device submissions".
+
+Subsec. (b)(9). Pub. L. 115–52, §707(b), struck out par. (9) which read as follows: "The Secretary shall classify an accessory under this section based on the intended use of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used."
+
+Subsec. (f)(6). Pub. L. 115–52, §707(a), added par. (6).
 
 **2016**—Subsec. (b)(5). Pub. L. 114–255, §3055(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
@@ -385,6 +415,10 @@ Subsec. (f)(2)(B)(i). Pub. L. 101–629, §18(a), substituted "the Secretary may
 Subsec. (f)(3). Pub. L. 101–629, §4(a), added par. (3).
 
 Subsec. (i). Pub. L. 101–629, §12(a), added subsec. (i).
+
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–52, title VII, §707(c), Aug. 18, 2017, 131 Stat. 1062, provided that: "The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date that is 60 days after the date of enactment of this Act [Aug. 18, 2017]."
 
 #### Effective Date of 1997 Amendment ####
 

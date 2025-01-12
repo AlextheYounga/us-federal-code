@@ -59,3 +59,57 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 #### Effective Date ####
 
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
+
+#### Investigational Drugs ####
+
+Pub. L. 115–52, title VI, §610(a), (b), Aug. 18, 2017, 131 Stat. 1051, 1053, provided that:
+
+"(a) Patient Access to Investigational Drugs.—
+
+"(1) Public meeting.—
+
+"(A) In general.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Commissioner of Food and Drugs, in coordination with the Director of the National Institutes of Health, and in consultation with patients, health care providers, drug sponsors, bioethicists, and other stakeholders, shall, not later than 270 days after the date of enactment of this Act [Aug. 18, 2007], convene a public meeting to discuss clinical trial inclusion and exclusion criteria to inform the guidance under paragraph (3). The Secretary shall inform the Comptroller General of the United States of the date when the public meeting will take place.
+
+"(B) Topics.—The Secretary shall make available on the internet website of the Food and Drug Administration a report on the topics discussed at the meeting described in subparagraph (A) within 90 days of such meeting. Such topics shall include discussion of—
+
+"(i) the rationale for, and potential barriers for patients created by, research clinical trial inclusion and exclusion criteria;
+
+"(ii) how appropriate patient populations can benefit from the results of trials that employ alternative designs;
+
+"(iii) barriers to participation in clinical trials, including—
+
+ "(I) information regarding any potential risks and benefits of participation;
+
+ "(II) regulatory, geographical, and socioeconomic barriers; and
+
+ "(III) the impact of exclusion criteria on the enrollment in clinical trials of particular populations, including infants and children, pregnant and lactating women, seniors, individuals with advanced disease, and individuals with co-morbid conditions;
+
+"(iv) clinical trial designs and methods, including expanded access trials, that increase enrollment of more diverse patient populations, when appropriate, while facilitating the collection of data to establish safe use and support substantial evidence of effectiveness, including data obtained from expanded access trials; and
+
+"(v) how changes to clinical trial inclusion and exclusion criteria may impact the complexity and length of clinical trials, the data necessary to demonstrate safety and effectiveness, and potential approaches to mitigating those impacts.
+
+"(2) Report.—Not later than 1 year after the Secretary issues the report under paragraph (1)(B), the Comptroller General of the United States shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on individual access to investigational drugs through the expanded access program under section 561(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb(b)). The report shall include—
+
+"(A) a description of actions taken by manufacturers and distributors under section 561A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–0);
+
+"(B) consideration of whether Form FDA 3926 and the guidance documents titled 'Expanded Access to Investigational Drugs for Treatment Use—Questions and Answers' and 'Individual Patient Expanded Access Applications: Form FDA 3926', issued by the Food and Drug Administration in June 2016, have reduced application burden with respect to individuals and physicians seeking access to investigational new drugs pursuant to section 561(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb) and improved clarity for patients, physicians, and drug manufacturers about such process;
+
+"(C) consideration of whether the guidance or regulations issued to implement section 561 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb) have improved access for individual patients to investigational drugs who do not qualify for clinical trials of such investigational drugs, and what barriers to such access remain;
+
+"(D) an assessment of methods patients and health care providers use to engage with the Food and Drug Administration or drug sponsors on expanded access; and
+
+"(E) an analysis of the Secretary's report under paragraph (1)(B).
+
+"(3) Guidance.—
+
+"(A) In general.—Not later than 1 year after the publication of the report under paragraph (1)(B), the Secretary, acting through the Commissioner of Food and Drugs, shall issue one or more draft guidances regarding eligibility criteria for clinical trials. Not later than 1 year after the public comment period on each such draft guidance ends, the Secretary shall issue a revised draft guidance or final guidance.
+
+"(B) Contents.—The guidance documents described in subparagraph (A) shall address methodological approaches that a manufacturer or sponsor of an investigation of a new drug may take to—
+
+"(i) broaden eligibility criteria for clinical trials and expanded access trials, especially with respect to drugs for the treatment of serious and life-threatening conditions or diseases for which there is an unmet medical need;
+
+"(ii) develop eligibility criteria for, and increase trial recruitment to, clinical trials so that enrollment in such trials more accurately reflects the patients most likely to receive the drug, as applicable and as appropriate, while establishing safe use and supporting findings of substantial evidence of effectiveness; and
+
+"(iii) use the criteria described in clauses (i) and (ii) in a manner that is appropriate for drugs intended for the treatment of rare diseases or conditions.
+
+"(b) Improving Institutional Review Board Review of Single Patient Expanded Access Protocol.—Not later than 1 year after the date of enactment of this Act [Aug. 18, 2017], the Secretary, acting through the Commissioner of Food and Drugs, shall issue guidance or regulations, or revise existing guidance or regulations, to streamline the institutional review board review of individual patient expanded access protocols submitted under [section] 561(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb(b)). To facilitate the use of expanded access protocols, any guidance or regulations so issued or revised may include a description of the process for any person acting through a physician licensed in accordance with State law to request that an institutional review board chair (or designated member of the institutional review board) review a single patient expanded access protocol submitted under such section 561(b) for a drug. The Secretary shall update any relevant forms associated with individual patient expanded access requests under such section 561(b) as necessary."
