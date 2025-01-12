@@ -14,6 +14,8 @@ Sec.
 
 5705. Confidentiality of medical quality-assurance records.
 
+5706. Veterans identification card.
+
 #### SUBCHAPTER II—INVESTIGATIONS ####
 
 5711. Authority to issue subpoenas.
@@ -41,6 +43,8 @@ Sec.
 5728. Authorization of appropriations.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–31, §2(c), July 20, 2015, 129 Stat. 430, added item 5706.
 
 **2006**—Pub. L. 109–461, title IX, §902(b), Dec. 22, 2006, 120 Stat. 3460, added item for subchapter III and items 5721 to 5728.
 

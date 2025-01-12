@@ -1,4 +1,4 @@
-### §§2931 to 2945Repealed. Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705 ###
+### §§2931 to 2945. Repealed. Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705 ###
 
 Section 2931, Pub. L. 105–220, title I, §181, Aug. 7, 1998, 112 Stat. 1038, related to requirements and restrictions. See section 3241 of this title.
 

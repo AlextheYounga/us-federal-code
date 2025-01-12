@@ -1,4 +1,4 @@
-### §§2911 to 2916Repealed. Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705 ###
+### §§2911 to 2916. Repealed. Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705 ###
 
 Section 2911, Pub. L. 105–220, title I, §166, Aug. 7, 1998, 112 Stat. 1021; Pub. L. 105–277, div. A, §101(f) [title VIII, §401(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 107–110, title VII, §702(g), Jan. 8, 2002, 115 Stat. 1947, related to Native American programs. See section 3221 of this title.
 
