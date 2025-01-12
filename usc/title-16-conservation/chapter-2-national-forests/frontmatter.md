@@ -144,8 +144,6 @@ Sec.
 
 497d. Recreation residence fees.
 
-497e. . Enhancing Forest Service administration of rights-of-way and land uses.
-
 498. Cooperative work agreements: disposal of moneys received; refund of excess; payment from appropriation; conflict of interest.
 
 499. Disposal of money received by or on account of Forest Service; refund of excess and moneys erroneously collected; receipts from permits.

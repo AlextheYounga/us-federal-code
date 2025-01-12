@@ -11,7 +11,3 @@ The Corporation may, with the consent of the agency concerned, accept and utiliz
 #### Exceptions From Transfer of Functions ####
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
-
-#### Clarification of Use of Funds for Technical Assistance ####
-
-Pub. L. 113–79, title X, §10017, Feb. 7, 2014, 128 Stat. 953, provided that: “In the case of each program established or amended by this title [title X of Pub. L. 113–79, see Tables for classification] that is authorized or required to be carried out using funds of the Commodity Credit Corporation, the use of those funds to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 11 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714i).”

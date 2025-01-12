@@ -30,13 +30,9 @@ Sec.
 
 1134. Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war.
 
-1134a. Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll.
-
 1135. Replacement of military decorations.
 
 #### Amendments ####
-
-**2013**—Pub. L. 113–66, div. A, title V, §563(a)(2), Dec. 26, 2013, 127 Stat. 767, added item 1134a.
 
 **2011**—Pub. L. 111–383, div. A, title V, §571(b), Jan. 7, 2011, 124 Stat. 4223, added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
 

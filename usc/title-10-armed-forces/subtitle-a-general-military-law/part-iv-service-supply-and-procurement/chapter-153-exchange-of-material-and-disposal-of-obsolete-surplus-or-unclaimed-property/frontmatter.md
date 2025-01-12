@@ -67,39 +67,3 @@ Pub. L. 100–370, §1(k)(2), July 19, 1988, 102 Stat. 848, added item 2578.
 **1968**—Pub. L. 90–500, title IV, §403(b), Sept. 20, 1968, 82 Stat. 851, added item 2576.
 
 **1958**—Pub. L. 85–861, §1(50), Sept. 2, 1958, 72 Stat. 1459, substituted “property” for “supplies” in item 2571.
-
-#### Identification and Replacement of Obsolete Electronic Parts ####
-
-Pub. L. 113–66, div. A, title VIII, §803, Dec. 26, 2013, 127 Stat. 805, provided that:
-
-“(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall implement a process for the expedited identification and replacement of obsolete electronic parts included in acquisition programs of the Department of Defense.
-
-“(b) Issues To Be Addressed.—At a minimum, the expedited process established pursuant to subsection (a) shall—
-
-“(1) include a mechanism pursuant to which contractors, or other sources of supply, may provide to appropriate Department of Defense officials information that identifies—
-
-“(A) obsolete electronic parts that are included in the specifications for an acquisition program of the Department of Defense; and
-
-“(B) suitable replacements for such electronic parts;
-
-“(2) specify timelines for the expedited review and validation of information submitted by contractors, or other sources of supply, pursuant to paragraph (1);
-
-“(3) specify procedures and timelines for the rapid submission and approval of engineering change proposals needed to accomplish the substitution of replacement parts that have been validated pursuant to paragraph (2);
-
-“(4) provide for any incentives for contractor participation in the expedited process that the Secretary may determine to be appropriate; and
-
-“(5) provide that, in addition to the responsibilities under section 2337 of title 10, United States Code, a product support manager for a major weapon system shall work to identify obsolete electronic parts that are included in the specifications for an aquisition program of the Department of Defense and approve suitable replacements for such electronic parts.
-
-“(c) Additional Matters.—For the purposes of this section—
-
-“(1) an electronic part is obsolete if—
-
-“(A) the part is no longer in production; and
-
-“(B) the original manufacturer of the part and its authorized dealers do not have sufficient parts in stock to meet the requirements of such an acquisition program; and
-
-“(2) an electronic part is a suitable replacement for an obsolete electronic part if—
-
-“(A) the part could be substituted for an obsolete part without incurring unreasonable expense and without degrading system performance; and
-
-“(B) the part is or will be available in sufficient quantity to meet the requirements of such an acquisition program.”

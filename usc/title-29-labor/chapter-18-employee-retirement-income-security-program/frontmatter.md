@@ -78,7 +78,9 @@ Sec.
 
 1085. Additional funding rules for multiemployer plans in endangered status or critical status.
 
-1085a, 1085b, 1086. Repealed.
+1085a. Minimum funding standards.
+
+1085b, 1086. Repealed.
 
 #### part 4—fiduciary responsibility ####
 
@@ -255,6 +257,8 @@ Sec.
 1303. Operation of corporation.
 
 1304. Participant and Plan Sponsor Advocate.
+
+1304a. Sponsor education and assistance.
 
 1305. Pension benefit guaranty funds.
 

@@ -6,8 +6,6 @@ Sec.
 
 2502. Grants authorized.
 
-2502a. Retrocession or re-assumption of Indian education funds.
-
 2503. Composition of grants.
 
 2504. Eligibility for grants.

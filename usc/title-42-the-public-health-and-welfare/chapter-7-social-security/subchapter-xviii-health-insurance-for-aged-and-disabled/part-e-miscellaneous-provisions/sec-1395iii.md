@@ -8,7 +8,7 @@ The Secretary shall establish under this subchapter a Transitional Fund for Sust
 
 #### (1) In general ####
 
-There shall be available to the Fund, for expenditures from the Fund for services furnished during or after 2017, $2,300,000,000.
+There shall be available to the Fund, for expenditures from the Fund for services furnished during or after 2017, $0.
 
 #### (2) Payment from Trust Funds ####
 
@@ -22,7 +22,7 @@ Amounts in the Fund shall be available in advance of appropriations but only if 
 
 In the case that expenditures from the Fund are applied to, or otherwise affect, a payment rate for an item or service under this subchapter for a year, the payment rate for such item or service shall be computed for a subsequent year as if such application or effect had never occurred.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1898, as added Pub. L. 110–252, title VII, §7002(a), June 30, 2008, 122 Stat. 2394; amended Pub. L. 110–275, title I, §188(a)(2)(B), July 15, 2008, 122 Stat. 2589; Pub. L. 110–379, §6, Oct. 8, 2008, 122 Stat. 4079; Pub. L. 111–5, div. B, title IV, §4103(b), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–118, div. B, §1011(b), Dec. 19, 2009, 123 Stat. 3474; Pub. L. 111–148, title III, §3112, Mar. 23, 2010, 124 Stat. 421; Pub. L. 111–309, title II, §207, Dec. 15, 2010, 124 Stat. 3291; Pub. L. 112–240, title VI, §640, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–82, §3, Feb. 15, 2014, 128 Stat. 1009.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1898, as added Pub. L. 110–252, title VII, §7002(a), June 30, 2008, 122 Stat. 2394; amended Pub. L. 110–275, title I, §188(a)(2)(B), July 15, 2008, 122 Stat. 2589; Pub. L. 110–379, §6, Oct. 8, 2008, 122 Stat. 4079; Pub. L. 111–5, div. B, title IV, §4103(b), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–118, div. B, §1011(b), Dec. 19, 2009, 123 Stat. 3474; Pub. L. 111–148, title III, §3112, Mar. 23, 2010, 124 Stat. 421; Pub. L. 111–309, title II, §207, Dec. 15, 2010, 124 Stat. 3291; Pub. L. 112–240, title VI, §640, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–82, §3, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §219, Apr. 1, 2014, 128 Stat. 1070.)
 
 #### Amendments ####
 
@@ -30,7 +30,9 @@ In the case that expenditures from the Fund are applied to, or otherwise affect,
 
 Subsec. (a). Pub. L. 113–82, §3(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish under this subchapter a Medicare Improvement Fund (in this section referred to as the ‘Fund’) which shall be available to the Secretary to make improvements under the original medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part A or enrolled under part B including, but not limited to, an increase in the conversion factor under section 1395w–4(d) of this title to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program.”
 
-Subsec. (b)(1). Pub. L. 113–82, §3(3), substituted “during or after 2017, $2,300,000,000.” for “during—
+Subsec. (b)(1). Pub. L. 113–93 substituted “$0” for “$2,300,000,000”.
+
+Pub. L. 113–82, §3(3), substituted “during or after 2017, $2,300,000,000.” for “during—
 
 “(A) fiscal year 2014, $0; and
 

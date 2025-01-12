@@ -41,27 +41,3 @@
 #### Prior Provisions ####
 
 A prior section 948k, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2604, related to detail of trial counsel and defense counsel, prior to the general amendment of this chapter by Pub. L. 111–84.
-
-#### Grade of Chief Prosecutor and Chief Defense Counsel in Military Commissions Established To Try Individuals Detained at Guantanamo ####
-
-Pub. L. 113–66, div. A, title X, §1037, Dec. 26, 2013, 127 Stat. 854, provided that:
-
-“(a) In General.—For purposes of any military commission established under chapter 47A of title 10, United States Code, to try an alien unprivileged enemy belligerent (as such terms are defined in section 948a of such title) who is detained at United States Naval Station, Guantanamo Bay, Cuba, the chief defense counsel and the chief prosecutor shall have the same grade (as that term is defined in section 101(b)(7) of such title).
-
-“(b) Waiver.—
-
-“(1) In general.—The Secretary of Defense may temporarily waive the requirement specified in subsection (a), if the Secretary determines that compliance with such subsection would—
-
-“(A) be infeasible due to a non-availability of qualified officers of the same grade to fill the billets of chief defense counsel and chief prosecutor; or
-
-“(B) cause a significant disruption to proceedings established under chapter 47A of title 10, United States Code.
-
-“(2) Reports.—Not later than 30 days after the Secretary issues a waiver under paragraph (1), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the following:
-
-“(A) A copy of the waiver and the determination of the Secretary to issue the waiver.
-
-“(B) A statement of the basis for the determination, including an explanation of the non-availability of qualified officers or the significant disruption concerned.
-
-“(C) Notice of the time period during which the waiver is in effect.
-
-“(c) Guidance.—Not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall issue guidance to ensure that the office of the chief defense counsel and the office of the chief prosecutor receive equitable resources, personnel support, and logistical support for conducting their respective duties in connection with any military commission established under chapter 47A of title 10, United States Code, to try an alien unprivileged enemy belligerent (as such terms are defined in section 948a of such title) who is detained at United States Naval Station, Guantanamo Bay, Cuba.”

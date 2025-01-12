@@ -6,9 +6,11 @@ Sec.
 
 4002. Additional Congressional findings and declaration of purpose.
 
-4003. Additional definitions.
+4003. Definitions applicable to Flood Disaster Protection Act of 1973.
 
-4004. Definitions.
+4004. Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012.
+
+4005. Definitions applicable to Homeowner Flood Insurance Affordability Act of 2014.
 
 #### SUBCHAPTER I—THE NATIONAL FLOOD INSURANCE PROGRAM ####
 
@@ -25,6 +27,8 @@ Sec.
 4014. Estimates of premium rates.
 
 4015. Chargeable premium rates.
+
+4015a. Premium surcharge.
 
 4016. Financing.
 
@@ -65,6 +69,8 @@ Sec.
 4031. Treatment of certain payments.
 
 4032. Treatment of swimming pool enclosures outside of hurricane season.
+
+4033. Designation of Flood Insurance Advocate.
 
 #### SUBCHAPTER II—ORGANIZATION AND ADMINISTRATION OF FLOOD INSURANCE PROGRAM ####
 
@@ -111,6 +117,10 @@ Sec.
 4101b. National Flood Mapping Program.
 
 4101c. Coordination.
+
+4101d. Flood insurance rate map certification.
+
+4101e. Exemption from fees for certain map change requests.
 
 4102. Criteria for land management and use.
 

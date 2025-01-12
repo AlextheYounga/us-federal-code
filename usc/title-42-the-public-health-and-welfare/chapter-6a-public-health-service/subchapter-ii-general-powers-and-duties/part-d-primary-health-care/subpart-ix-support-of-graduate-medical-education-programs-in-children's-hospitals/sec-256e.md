@@ -2,7 +2,7 @@
 
 #### (a) Payments ####
 
-The Secretary shall make two payments under this section to each children's hospital for each of fiscal years 2000 through 2005 and each of fiscal years 2007 through 2011, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
+The Secretary shall make two payments under this section to each children's hospital for each of fiscal years 2000 through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
 
 #### (b) Amount of payments ####
 
@@ -72,7 +72,7 @@ The residents described in this subparagraph are those who—
 
 #### (D) Report to Congress ####
 
-Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
+Not later than the end of fiscal year 2018, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
 
 (i) summarizing the information submitted in reports to the Secretary under subparagraph (B);
 
@@ -170,9 +170,11 @@ There are hereby authorized to be appropriated, out of any money in the Treasury
 
 (ii) for fiscal year 2001, $95,000,000;
 
-(iii) for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
+(iii) for each of the fiscal years 2002 through 2005, such sums as may be necessary;
 
-(iv) for each of fiscal years 2007 through 2011, $110,000,000.
+(iv) for each of fiscal years 2007 through 2011, $110,000,000; and
+
+(v) for each of fiscal years 2014 through 2018, $100,000,000.
 
 #### (B) Carryover of excess ####
 
@@ -186,9 +188,11 @@ There are hereby authorized to be appropriated, out of any money in the Treasury
 
 (B) for fiscal year 2001, $190,000,000;
 
-(C) for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
+(C) for each of the fiscal years 2002 through 2005, such sums as may be necessary;
 
-(D) for each of fiscal years 2007 through 2011, $220,000,000.
+(D) for each of fiscal years 2007 through 2011, $220,000,000; and
+
+(E) for each of fiscal years 2014 through 2018, $200,000,000.
 
 #### (g) Definitions ####
 
@@ -206,13 +210,69 @@ The term “children's hospital” means a hospital with a Medicare payment agre
 
 The term “direct graduate medical education costs” has the meaning given such term in section 1395ww(h)(5)(C) of this title.
 
-(July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972; Pub. L. 109–307, §2, Oct. 6, 2006, 120 Stat. 1721.)
+#### (h) Additional provisions ####
+
+#### (1) In general ####
+
+The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitals qualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
+
+#### (2) Qualified hospitals ####
+
+#### (A) In general ####
+
+To qualify to receive payments under paragraph (1), a hospital shall be a free-standing hospital—
+
+(i) with a Medicare payment agreement and that is excluded from the Medicare inpatient hospital prospective payment system pursuant to section 1395ww(d)(1)(B) of this title and its accompanying regulations;
+
+(ii) whose inpatients are predominantly individuals under 18 years of age;
+
+(iii) that has an approved medical residency training program as defined in section 1395ww(h)(5)(A) of this title; and
+
+(iv) that is not otherwise qualified to receive payments under this section or section 1395ww(h) of this title.
+
+#### (B) Establishment of residency cap ####
+
+In the case of a freestanding children's hospital that, on April 7, 2014, meets the requirements of subparagraph (A) but for which the Secretary has not determined an average number of full-time equivalent residents under section 1395ww(h)(4) of this title, the Secretary may establish such number of full-time equivalent residents for the purposes of calculating payments under this subsection.
+
+#### (3) Payments ####
+
+Payments to hospitals made under this subsection shall be made in the same manner as payments are made to children's hospitals, as described in subsections (b) through (e).
+
+#### (4) Payment amounts ####
+
+The direct and indirect payment amounts under this subsection shall be determined using per resident amounts that are no greater than the per resident amounts used for determining direct and indirect payment amounts under subsection (a).
+
+#### (5) Reporting ####
+
+A hospital receiving payments under this subsection shall be subject to the reporting requirements under subsection (b)(3).
+
+#### (6) Remaining funds ####
+
+#### (A) In general ####
+
+If the payments to qualified hospitals under paragraph (1) for a fiscal year are less than the total amount made available under such paragraph for that fiscal year, any remaining amounts for such fiscal year may be made available to all hospitals participating in the program under this subsection or subsection (a).
+
+#### (B) Quality bonus system ####
+
+For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
+
+(July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972; Pub. L. 109–307, §2, Oct. 6, 2006, 120 Stat. 1721; Pub. L. 113–98, §§2, 3, Apr. 7, 2014, 128 Stat. 1140.)
 
 #### References in Text ####
 
 Section 1395ww(d) of this title, referred to in subsec. (e)(3), was in the original “section 1186(d) of such Act” and was translated as reading “section 1886(d) of such Act”, meaning section 1886(d) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1186 and section 1395ww(d) of this title relates to review of inpatient hospital service payments.
 
 #### Amendments ####
+
+**2014**—Subsec. (a). Pub. L. 113–98, §2(a)(1), substituted “through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018” for “through 2005 and each of fiscal years 2007 through 2011”.
+
+Subsec. (b)(3)(D). Pub. L. 113–98, §2(b), substituted “Not later than the end of fiscal year 2018” for “Not later than the end of fiscal year 2011” in introductory provisions.
+
+Subsec. (f)(1)(A)(v). Pub. L. 113–98, §2(a)(2)(A), added cl. (v).
+
+Subsec. (f)(2)(E). Pub. L. 113–98, §2(a)(2)(B), added subpar. (E).
+
+Subsec. (h). Pub. L. 113–98, §3, added subsec. (h).
 
 **2006**—Subsec. (a). Pub. L. 109–307, §2(a)(1), inserted “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”.
 

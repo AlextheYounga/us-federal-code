@@ -32,7 +32,7 @@ Sec.
 
 6541. Findings and purposes.
 
-6542. Repealed.
+6542. Tribal watershed forestry assistance.
 
 #### SUBCHAPTER IV—INSECT INFESTATIONS AND RELATED DISEASES ####
 
@@ -69,9 +69,3 @@ Sec.
 #### SUBCHAPTER VI—MISCELLANEOUS ####
 
 6591. Forest stands inventory and monitoring program to improve detection of and response to environmental threats.
-
-6591a. Designation of treatment areas.
-
-6591b. Administrative review.
-
-6591c. Stewardship end result contracting projects.

@@ -90,6 +90,12 @@ Except as provided by paragraph (10), on the date of the submission of its seque
 
 (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.
 
+(D) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2024 shall be applied to such payments so that—
+
+(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
+
+(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
+
 #### (7) Adjustment for Medicare ####
 
 If the percentage reduction for the Medicare programs would exceed 2 percent for a fiscal year in the absence of paragraph (6), OMB shall increase the reduction for all other discretionary appropriations and direct spending under paragraph (4) by a uniform percentage to a level sufficient to achieve the reduction required by paragraph (4) in the non-defense function.
@@ -108,7 +114,7 @@ On the dates specified in paragraph (2), OMB shall submit a report to Congress c
 
 (B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009.)
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077.)
 
 #### References in Text ####
 
@@ -123,6 +129,8 @@ A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103�
 #### Amendments ####
 
 **2014**—Par. (6)(B). Pub. L. 113–82 substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
+
+Par. (6)(D). Pub. L. 113–93 added subpar. (D).
 
 **2013**—Pub. L. 113–67, §101(d)(2)(A), in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in section 901(c) of this title shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
 

@@ -6,7 +6,7 @@ Sec.
 
 2202. Payments to agricultural producers for carrying out water conservation or water enhancing measures; criteria.
 
-2203. Emergency measures.
+2203. Undertaking of runoff retardation and soil-erosion preventive measures; cooperation with landowners and land users; criteria.
 
 2204. Authorization of appropriations; availability of funds; implementation of provisions; limitations on expenditures.
 

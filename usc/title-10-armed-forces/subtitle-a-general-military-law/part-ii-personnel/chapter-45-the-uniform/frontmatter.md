@@ -32,52 +32,32 @@ Sec.
 
 **1968**—Pub. L. 90–235, §8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
 
-#### Revised Policy on Ground Combat and Camouflage Utility Uniforms ####
-
-Pub. L. 113–66, div. A, title III, §352(a)–(f), Dec. 26, 2013, 127 Stat. 742, 743, provided that:
-
-“(a) Establishment of Policy.—It is the policy of the United States that the Secretary of Defense shall eliminate the development and fielding of Armed Force-specific combat and camouflage utility uniforms and families of uniforms in order to adopt and field a common combat and camouflage utility uniform or family of uniforms for specific combat environments to be used by all members of the Armed Forces.
-
-“(b) Prohibition.—Except as provided in subsection (c), after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of a military department may not adopt any new camouflage pattern design or uniform fabric for any combat or camouflage utility uniform or family of uniforms for use by an Armed Force, unless—
-
-“(1) the new design or fabric is a combat or camouflage utility uniform or family of uniforms that will be adopted by all Armed Forces;
-
-“(2) the Secretary adopts a uniform already in use by another Armed Force; or
-
-“(3) the Secretary of Defense grants an exception based on unique circumstances or operational requirements.
-
-“(c) Exceptions.—Nothing in subsection (b) shall be construed as—
-
-“(1) prohibiting the development of combat and camouflage utility uniforms and families of uniforms for use by personnel assigned to or operating in support of the unified combatant command for special operations forces described in section 167 of title 10, United States Code;
-
-“(2) prohibiting engineering modifications to existing uniforms that improve the performance of combat and camouflage utility uniforms, including power harnessing or generating textiles, fire resistant fabrics, and anti-vector, anti-microbial, and anti-bacterial treatments;
-
-“(3) prohibiting the Secretary of a military department from fielding ancillary uniform items, including headwear, footwear, body armor, and any other such items as determined by the Secretary;
-
-“(4) prohibiting the Secretary of a military department from issuing vehicle crew uniforms;
-
-“(5) prohibiting cosmetic service-specific uniform modifications to include insignia, pocket orientation, closure devices, inserts, and undergarments; or
-
-“(6) prohibiting the continued fielding or use of pre-existing service-specific or operation-specific combat uniforms as long as the uniforms continue to meet operational requirements.
-
-“(d) Registration Required.—The Secretary of a military department shall formally register with the Joint Clothing and Textiles Governance Board all uniforms in use by an Armed Force under the jurisdiction of the Secretary and all such uniforms planned for use by such an Armed Force.
-
-“(e) Limitation on Restriction.—The Secretary of a military department may not prevent the Secretary of another military department from authorizing the use of any combat or camouflage utility uniform or family of uniforms.
-
-“(f) Guidance Required.—
-
-“(1) In general.—Not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall issue guidance to implement this section.
-
-“(2) Content.—At a minimum, the guidance required by paragraph (1) shall require the Secretary of each of the military departments—
-
-“(A) in cooperation with the commanders of the combatant commands, including the unified combatant command for special operations forces, to establish, by not later than 180 days after the date of the enactment of this Act, joint criteria for combat and camouflage utility uniforms and families of uniforms, which shall be included in all new requirements documents for such uniforms;
-
-“(B) to continually work together to assess and develop new technologies that could be incorporated into future combat and camouflage utility uniforms and families of uniforms to improve war fighter survivability;
-
-“(C) to ensure that new combat and camouflage utility uniforms and families of uniforms meet the geographic and operational requirements of the commanders of the combatant commands; and
-
-“(D) to ensure that all new combat and camouflage utility uniforms and families of uniforms achieve interoperability with all components of individual war fighter systems, including body armor, organizational clothing and individual equipment, and other individual protective systems.”
-
 #### Policy on Ground Combat and Camouflage Utility Uniforms ####
 
-Pub. L. 111–84, div. A, title III, §352, Oct. 28, 2009, 123 Stat. 2262, related to policy on ground combat and camouflage utility uniforms, prior to repeal by Pub. L. 113–66, div. A, title III, §352(g), Dec. 26, 2013, 127 Stat. 743.
+Pub. L. 111–84, div. A, title III, §352, Oct. 28, 2009, 123 Stat. 2262, provided that:
+
+“(a) Establishment of Policy.—It is the policy of the United States that the design and fielding of all future ground combat and camouflage utility uniforms of the Armed Forces may uniquely reflect the identity of the individual military services, as long as such ground combat and camouflage utility uniforms, to the maximum extent practicable—
+
+“(1) provide members of every military service an equivalent level of performance, functionality, and protection commensurate with their respective assigned combat missions;
+
+“(2) minimize risk to the individual soldier, sailor, airman, or marine operating in the joint battlespace; and
+
+“(3) provide interoperability with other components of individual war fighter systems, including body armor and other individual protective systems.
+
+“(b) Comptroller General Assessment.—The Comptroller General shall conduct an assessment of the ground combat uniforms and camouflage utility uniforms currently in use in the Department of Defense. The assessment shall examine, at a minimum, each of the following:
+
+“(1) The overall performance of each uniform in various anticipated combat environments and theaters of operations.
+
+“(2) Whether the uniform design of each uniform conforms adequately and is interoperable with currently issued personal protective gear and body armor.
+
+“(3) Costs associated with the design, development, production, procurement, and fielding of existing service-specific ground combat and camouflage utility uniforms.
+
+“(4) Challenges and risks associated with fielding members of the Armed Forces into combat theaters in unique or service-specific ground combat or camouflage utility uniforms, including the tactical risk to the individuals serving in individual augmentee, in-lieu of force, or joint duty assignments of use of different ground combat uniforms in a combat environment.
+
+“(5) Implications of the use of patents and other proprietary measures that may preclude sharing of technology, advanced uniform design, camouflage techniques, and fire retardence [sic].
+
+“(6) Logistical requirements to field and support forces in varying combat or utility uniforms.
+
+“(c) Report Required.—Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Comptroller General shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the results of the assessment conducted under subsection (b).
+
+“(d) Requirement for Joint Criteria.—In support of the policy established in subsection (a), the Secretaries of the military departments, consistent with the authority set out in subtitles B, C, and D of title 10, United States Code, shall establish joint criteria for future ground combat uniforms by not later than 270 days after the Comptroller General submits the report required under subsection (c). The joint criteria shall take into account the findings and recommendations of such report and ensure that new technologies, advanced materials, and other advances in ground combat uniform design may be shared between the military services and are not precluded from being adapted for use by any military service due to military service-unique proprietary arrangements.”

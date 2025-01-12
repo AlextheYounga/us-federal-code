@@ -196,9 +196,11 @@ The Secretary shall take into consideration the unique treatment needs of childr
 
 (iii) The Secretary shall make an adjustment to the payments under this paragraph for years during which the phase-in under clause (i) is applicable so that the estimated total amount of payments under this paragraph, including payments under this subparagraph, shall equal the estimated total amount of payments that would otherwise occur under this paragraph without such phase-in.
 
-(F)(i)(I) Subject to subclause (II) and clause (ii), beginning in 2012, the Secretary shall annually increase payment amounts established under this paragraph by an ESRD market basket percentage increase factor for a bundled payment system for renal dialysis services that reflects changes over time in the prices of an appropriate mix of goods and services included in renal dialysis services.
+(F)(i)(I) Subject to subclauses (II) and (III) and clause (ii), beginning in 2012, the Secretary shall annually increase payment amounts established under this paragraph by an ESRD market basket percentage increase factor for a bundled payment system for renal dialysis services that reflects changes over time in the prices of an appropriate mix of goods and services included in renal dialysis services. In order to accomplish the purposes of subparagraph (I) with respect to 2016, 2017, and 2018, after determining the increase factor described in the preceding sentence for each of 2016, 2017, and 2018, the Secretary shall reduce such increase factor by 1.25 percentage points for each of 2016 and 2017 and by 1 percentage point for 2018.
 
-(II) For 2012 and each subsequent year, after determining the increase factor described in subclause (I), the Secretary shall reduce such increase factor by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title. The application of the preceding sentence may result in such increase factor being less than 0.0 for a year, and may result in payment rates under the payment system under this paragraph for a year being less than such payment rates for the preceding year.
+(II) Subject to subclause (III), for 2012 and each subsequent year, after determining the increase factor described in subclause (I), the Secretary shall reduce such increase factor by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title. The application of the preceding sentence may result in such increase factor being less than 0.0 for a year, and may result in payment rates under the payment system under this paragraph for a year being less than such payment rates for the preceding year.
+
+(III) Notwithstanding subclauses (I) and (II), in order to accomplish the purposes of subparagraph (I) with respect to 2015, the increase factor described in subclause (I) for 2015 shall be 0.0 percent pursuant to the regulation issued by the Secretary on December 2, 2013, entitled “Medicare Program; End-Stage Renal Disease Prospective Payment System, Quality Incentive Program, and Durable Medical Equipment, Prosthetics, Orthotics, and Supplies; Final Rule” (78 Fed. Reg. 72156).
 
 (ii) For years during which a phase-in of the payment system pursuant to subparagraph (E) is applicable, the following rules shall apply to the portion of the payment under the system that is based on the payment of the composite rate that would otherwise apply if the system under this paragraph had not been enacted:
 
@@ -214,7 +216,7 @@ The Secretary shall take into consideration the unique treatment needs of childr
 
 (ii) included in subparagraph (B) for purposes of payment under this paragraph.
 
-(I) For services furnished on or after January 1, 2014, the Secretary shall, by comparing per patient utilization data from 2007 with such data from 2012, make reductions to the single payment that would otherwise apply under this paragraph for renal dialysis services to reflect the Secretary's estimate of the change in the utilization of drugs and biologicals described in clauses (ii), (iii), and (iv) of subparagraph (B) (other than oral-only ESRD-related drugs, as such term is used in the final rule promulgated by the Secretary in the Federal Register on August 12, 2010 (75 Fed. Reg. 49030)). In making reductions under the preceding sentence, the Secretary shall take into account the most recently available data on average sales prices and changes in prices for drugs and biological <sup><a href="#1395rr_2_target" name="1395rr_2">2</a></sup> reflected in the ESRD market basket percentage increase factor under subparagraph (F).
+(I) For services furnished on or after January 1, 2014, and before January 1, 2015, the Secretary shall, by comparing per patient utilization data from 2007 with such data from 2012, make reductions to the single payment that would otherwise apply under this paragraph for renal dialysis services to reflect the Secretary's estimate of the change in the utilization of drugs and biologicals described in clauses (ii), (iii), and (iv) of subparagraph (B) (other than oral-only ESRD-related drugs, as such term is used in the final rule promulgated by the Secretary in the Federal Register on August 12, 2010 (75 Fed. Reg. 49030)). In making reductions under the preceding sentence, the Secretary shall take into account the most recently available data on average sales prices and changes in prices for drugs and biological <sup><a href="#1395rr_2_target" name="1395rr_2">2</a></sup> reflected in the ESRD market basket percentage increase factor under subparagraph (F).
 
 #### (c) Renal disease network areas; coordinating councils, executive committees, and medical review boards; national end stage renal disease medical information system; functions of network organizations ####
 
@@ -358,9 +360,11 @@ The measures specified under this paragraph with respect to the year involved sh
 
 (i) measures on anemia management that reflect the labeling approved by the Food and Drug Administration for such management and measures on dialysis adequacy;
 
-(ii) to the extent feasible, such measure (or measures) of patient satisfaction as the Secretary shall specify; and
+(ii) to the extent feasible, such measure (or measures) of patient satisfaction as the Secretary shall specify;
 
-(iii) such other measures as the Secretary specifies, including, to the extent feasible, measures on—
+(iii) for 2016 and subsequent years, measures described in subparagraph (E)(i); and
+
+(iv) such other measures as the Secretary specifies, including, to the extent feasible, measures on—
 
 (I) iron management;
 
@@ -372,7 +376,7 @@ The measures specified under this paragraph with respect to the year involved sh
 
 #### (i) In general ####
 
-Subject to clause (ii), any measure specified by the Secretary under subparagraph (A)(iii) must have been endorsed by the entity with a contract under section 1395aaa(a) of this title.
+Subject to clause (ii), any measure specified by the Secretary under subparagraph (A)(iv) must have been endorsed by the entity with a contract under section 1395aaa(a) of this title.
 
 #### (ii) Exception ####
 
@@ -385,6 +389,26 @@ The Secretary shall establish a process for updating the measures specified unde
 #### (D) Consideration ####
 
 In specifying measures under subparagraph (A), the Secretary shall consider the availability of measures that address the unique treatment needs of children and young adults with kidney failure.
+
+#### (E) Measures specific to the conditions treated with oral-only drugs ####
+
+#### (i) In general ####
+
+The measures described in this subparagraph are measures specified by the Secretary that are specific to the conditions treated with oral-only drugs. To the extent feasible, such measures shall be outcomes-based measures.
+
+#### (ii) Consultation ####
+
+In specifying the measures under clause (i), the Secretary shall consult with interested stakeholders.
+
+#### (iii) Use of endorsed measures ####
+
+#### (I) In general ####
+
+Subject to subclause (I), any measures specified under clause (i) must have been endorsed by the entity with a contract under section 1395aaa(a) of this title.
+
+#### (II) Exception ####
+
+If the entity with a contract under section 1395aaa(a) of this title has not endorsed a measure for a specified area or topic related to measures described in clause (i) that the Secretary determines appropriate, the Secretary may specify a measure that is endorsed or adopted by a consensus organization recognized by the Secretary that has expertise in clinical guidelines for kidney disease.
 
 #### (3) Performance scores ####
 
@@ -472,7 +496,7 @@ Each facility or provider receiving a certificate under clause (i) shall promine
 
 The Secretary shall establish a list of providers of services and renal dialysis facilities who furnish renal dialysis services under this section that indicates the total performance score and the performance score for individual measures achieved by the provider and facility under paragraph (3). Such information shall be posted on the Internet website of the Centers for Medicare & Medicaid Services in an easily understandable format.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1881, as added Pub. L. 95–292, §2, June 13, 1978, 92 Stat. 308; amended Pub. L. 96–499, title IX, §957, Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–35, title XXI, §2145(a), Aug. 13, 1981, 95 Stat. 799; Pub. L. 98–21, title VI, §602(i), Apr. 20, 1983, 97 Stat. 165; Pub. L. 98–369, div. B, title III, §§2323(c), 2352(a), 2354(b)(41), July 18, 1984, 98 Stat. 1086, 1099, 1102; Pub. L. 98–617, §3(b)(8), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–509, title IX, §9335(a)(2), (d)(1), (e)–(i)(1), (j)(1), (k)(1), Oct. 21, 1986, 100 Stat. 2029–2033; Pub. L. 100–93, §12, Aug. 18, 1987, 101 Stat. 697; Pub. L. 100–203, title IV, §§4036(b), (c)(2), (d)(5), 4065(b), Dec. 22, 1987, 101 Stat. 1330–79, 1330–80, 1330–112; Pub. L. 101–239, title VI, §§6102(e)(8), 6203(b)(1), (2), 6219(a), (b), Dec. 19, 1989, 103 Stat. 2188, 2235, 2254; Pub. L. 101–508, title IV, §4201(c)(1), (d)(2), formerly (d)(2), (3), Nov. 5, 1990, 104 Stat. 1388–103, 1388–104, renumbered Pub. L. 103–432, title I, §160(d)(3), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13566(a), Aug. 10, 1993, 107 Stat. 607; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–113, div. B, §1000(a)(6) [title II, §222(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–352; Pub. L. 106–554, §1(a)(6) [title IV, §422(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–516; Pub. L. 108–173, title VI, §623(a), (b)(2), (d), Dec. 8, 2003, 117 Stat. 2312, 2313; Pub. L. 109–171, title V, §5106, Feb. 8, 2006, 120 Stat. 42; Pub. L. 109–432, div. B, title I, §103(a), Dec. 20, 2006, 120 Stat. 2981; Pub. L. 110–275, title I, §153(a), (b)(1), (3)(A), (c), July 15, 2008, 122 Stat. 2553, 2556; Pub. L. 111–148, title III, §3401(h), Mar. 23, 2010, 124 Stat. 485; Pub. L. 112–240, title VI, §632(a), Jan. 2, 2013, 126 Stat. 2354.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1881, as added Pub. L. 95–292, §2, June 13, 1978, 92 Stat. 308; amended Pub. L. 96–499, title IX, §957, Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–35, title XXI, §2145(a), Aug. 13, 1981, 95 Stat. 799; Pub. L. 98–21, title VI, §602(i), Apr. 20, 1983, 97 Stat. 165; Pub. L. 98–369, div. B, title III, §§2323(c), 2352(a), 2354(b)(41), July 18, 1984, 98 Stat. 1086, 1099, 1102; Pub. L. 98–617, §3(b)(8), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–509, title IX, §9335(a)(2), (d)(1), (e)–(i)(1), (j)(1), (k)(1), Oct. 21, 1986, 100 Stat. 2029–2033; Pub. L. 100–93, §12, Aug. 18, 1987, 101 Stat. 697; Pub. L. 100–203, title IV, §§4036(b), (c)(2), (d)(5), 4065(b), Dec. 22, 1987, 101 Stat. 1330–79, 1330–80, 1330–112; Pub. L. 101–239, title VI, §§6102(e)(8), 6203(b)(1), (2), 6219(a), (b), Dec. 19, 1989, 103 Stat. 2188, 2235, 2254; Pub. L. 101–508, title IV, §4201(c)(1), (d)(2), formerly (d)(2), (3), Nov. 5, 1990, 104 Stat. 1388–103, 1388–104, renumbered Pub. L. 103–432, title I, §160(d)(3), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13566(a), Aug. 10, 1993, 107 Stat. 607; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–113, div. B, §1000(a)(6) [title II, §222(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–352; Pub. L. 106–554, §1(a)(6) [title IV, §422(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–516; Pub. L. 108–173, title VI, §623(a), (b)(2), (d), Dec. 8, 2003, 117 Stat. 2312, 2313; Pub. L. 109–171, title V, §5106, Feb. 8, 2006, 120 Stat. 42; Pub. L. 109–432, div. B, title I, §103(a), Dec. 20, 2006, 120 Stat. 2981; Pub. L. 110–275, title I, §153(a), (b)(1), (3)(A), (c), July 15, 2008, 122 Stat. 2553, 2556; Pub. L. 111–148, title III, §3401(h), Mar. 23, 2010, 124 Stat. 485; Pub. L. 112–240, title VI, §632(a), Jan. 2, 2013, 126 Stat. 2354; Pub. L. 113–93, title II, §217(b), (d), Apr. 1, 2014, 128 Stat. 1061, 1062.)
 
 #### References in Text ####
 
@@ -485,6 +509,20 @@ Section 623(c) of the Medicare Prescription Drug, Improvement, and Modernization
 Subsection (g) of this section, referred to in subsec. (c)(7)(A), was repealed, and subsec. (h) was redesignated (g), by Pub. L. 100–203, title IV, §§4036(d)(5)(C), (D), Dec. 22, 1987, 101 Stat. 1330–80.
 
 #### Amendments ####
+
+**2014**—Subsec. (b)(14)(F)(i)(I). Pub. L. 113–93, §217(b)(2)(A), substituted “subclauses (II) and (III)” for “subclause (II)” and inserted at end “In order to accomplish the purposes of subparagraph (I) with respect to 2016, 2017, and 2018, after determining the increase factor described in the preceding sentence for each of 2016, 2017, and 2018, the Secretary shall reduce such increase factor by 1.25 percentage points for each of 2016 and 2017 and by 1 percentage point for 2018.”
+
+Subsec. (b)(14)(F)(i)(II). Pub. L. 113–93, §217(b)(2)(B), substituted “Subject to subclause (III), for 2012” for “For 2012”.
+
+Subsec. (b)(14)(F)(i)(III). Pub. L. 113–93, §217(b)(2)(C), added subcl. (III).
+
+Subsec. (b)(14)(I). Pub. L. 113–93, §217(b)(1), inserted “and before January 1, 2015,” after “January 1, 2014,”.
+
+Subsec. (h)(2)(A)(iii), (iv). Pub. L. 113–93, §217(d)(1), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (h)(2)(B)(i). Pub. L. 113–93, §217(d)(2), substituted “(A)(iv)” for “(A)(iii)”.
+
+Subsec. (h)(2)(E). Pub. L. 113–93, §217(d)(3), added subpar. (E).
 
 **2013**—Subsec. (b)(14)(I). Pub. L. 112–240 added subpar. (I).
 
@@ -674,11 +712,27 @@ Section effective with respect to services, supplies, and equipment furnished af
 
 Pub. L. 110–275, title I, §153(b)(4), July 15, 2008, 122 Stat. 2556, provided that: “Nothing in this subsection [amending this section and sections 1395x and 1395y of this title and repealing provisions set out as a note under this section] or the amendments made by this subsection shall be construed as authorizing or requiring the Secretary of Health and Human Services to make payments under the payment system implemented under paragraph (14)(A)(i) of section 1881(b) of the Social Security Act (42 U.S.C. 1395rr(b)), as added by paragraph (1), for any unrecovered amount for any bad debt attributable to deductible and coinsurance on items and services not included in the basic case-mix adjusted composite rate under paragraph (12) of such section as in effect before the date of the enactment of this Act [July 15, 2008].”
 
-#### Two-year Delay of Implementation of Oral-Only ESRD-Related Drugs in the ESRD Prospective Payment System; Monitoring ####
+#### Drug Designations ####
 
-Pub. L. 112–240, title VI, §632(b), Jan. 2, 2013, 126 Stat. 2354, provided that:
+Pub. L. 113–93, title II, §217(c), Apr. 1, 2014, 128 Stat. 1062, provided that: “As part of the promulgation of annual rule for the Medicare end stage renal disease prospective payment system under section 1881(b)(14) of the Social Security Act (42 U.S.C. 1395rr(b)(14)) for calendar year 2016, the Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall establish a process for—
 
-“(1) Delay.—The Secretary of Health and Human Services may not implement the policy under section 413.174(f)(6) of title 42, Code of Federal Regulations (relating to oral-only ESRD-related drugs in the ESRD prospective payment system), prior to January 1, 2016.
+“(1) determining when a product is no longer an oral-only drug; and
+
+“(2) including new injectable and intravenous products into the bundled payment under such system.”
+
+#### Audits of Cost Reports of ESRD Providers as Recommended by MedPAC ####
+
+Pub. L. 113–93, title II, §217(e), Apr. 1, 2014, 128 Stat. 1063, provided that:
+
+“(1) In general.—The Secretary of Health and Human Services shall conduct audits of Medicare cost reports beginning during 2012 for a representative sample of providers of services and renal dialysis facilities furnishing renal dialysis services.
+
+“(2) Funding.—For purposes of carrying out paragraph (1), the Secretary of Health and Human Services shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of the Social Security Act (42 U.S.C. 1395t) to the Centers for Medicare & Medicaid Services Program Management Account of $18,000,000 for fiscal year 2014. Amounts transferred under this paragraph for a fiscal year shall be available until expended.”
+
+#### Delay of Implementation of Oral-Only ESRD-Related Drugs in the ESRD Prospective Payment System; Monitoring ####
+
+Pub. L. 112–240, title VI, §632(b), Jan. 2, 2013, 126 Stat. 2354, as amended by Pub. L. 113–93, title II, §217(a), Apr. 1, 2014, 128 Stat. 1061, provided that:
+
+“(1) Delay.—The Secretary of Health and Human Services may not implement the policy under section 413.174(f)(6) of title 42, Code of Federal Regulations (relating to oral-only ESRD-related drugs in the ESRD prospective payment system), prior to January 1, 2024. Notwithstanding section 1881(b)(14)(A)(ii) of the Social Security Act (42 U.S.C. 1395rr(b)(14)(A)(ii)), implementation of the policy described in the previous sentence shall be based on data from the most recent year available.
 
 “(2) Monitoring.—With respect to the implementation of oral-only ESRD-related drugs in the ESRD prospective payment system under subsection (b)(14) of section 1881 of the Social Security Act (42 U.S.C. 1395rr(b)(14)), the Secretary of Health and Human Services shall monitor the bone and mineral metabolism of individuals with end stage renal disease.”
 

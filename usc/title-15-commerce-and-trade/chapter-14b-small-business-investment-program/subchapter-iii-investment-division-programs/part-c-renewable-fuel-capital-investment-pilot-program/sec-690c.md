@@ -86,11 +86,11 @@ The Administrator may, in the discretion of the Administrator and based upon a s
 
 (i) a viable plan that reasonably projects the capacity of the applicant to raise the amount (in cash or in-kind) required under subparagraph (A); and
 
-(ii) binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph <sup><a href="#690c_1_target" name="690c_1">1</a></sup> (A).
+(ii) binding commitments in an amount equal to not less than 20 percent of the total amount required under paragraph (A).
 
 #### (C) Limitation ####
 
-The total amount of a <sup><a href="#690c_2_target" name="690c_2">2</a></sup> in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
+The total amount of a <sup><a href="#690c_1_target" name="690c_1">1</a></sup> in-kind contributions by a company shall be not more than 50 percent of the total contributions by a company.
 
 #### (e) Final approval; designation ####
 
@@ -106,6 +106,4 @@ The Administrator shall, with respect to each applicant conditionally approved u
 
 (Pub. L. 85–699, title III, §384, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1776.)
 
-[<sup>1</sup> So in original. Probably should be “subparagraph”.](#690c_1)
-
-[<sup>2</sup> So in original. The article probably should not appear.](#690c_2)
+[<sup>1</sup> So in original. The article probably should not appear.](#690c_1)

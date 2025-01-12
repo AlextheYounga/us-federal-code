@@ -148,8 +148,6 @@ Sec.
 
 335. Special bonus and incentive pay authorities for officers in health professions.
 
-336. Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers’ Training Corps.
-
 351. Hazardous duty pay.
 
 352. Assignment pay or special duty pay.
@@ -171,8 +169,6 @@ Sec.
 374. Regulations.
 
 #### Amendments ####
-
-**2013**—Pub. L. 113–66, div. A, title VI, §617(b), Dec. 26, 2013, 127 Stat. 782, added item 336.
 
 **2011**—Pub. L. 111–383, div. A, title X, §1075(c)(2), Jan. 7, 2011, 124 Stat. 4372, added item 312 and struck out former item 312 “Special pay: nuclear-qualified officers extending period of active duty”.
 

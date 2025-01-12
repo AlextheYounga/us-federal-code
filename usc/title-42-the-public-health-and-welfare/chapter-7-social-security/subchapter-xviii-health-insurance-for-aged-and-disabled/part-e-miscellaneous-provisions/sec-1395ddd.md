@@ -358,6 +358,14 @@ Pub. L. 108–173, title IX, §935(b), Dec. 8, 2003, 117 Stat. 2411, provided th
 
 “(8) Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act [42 U.S.C. 1395ddd(f)(8)], as added by subsection (a).”
 
+#### Extension of Two-Midnight Rule ####
+
+Pub. L. 113–93, title I, §111, Apr. 1, 2014, 128 Stat. 1044, provided that:
+
+“(a) Continuation of Certain Medical Review Activities.—The Secretary of Health and Human Services may continue medical review activities described in the notice entitled ‘Selecting Hospital Claims for Patient Status Reviews: Admissions On or After October 1, 2013’, posted on the Internet website of the Centers for Medicare & Medicaid Services, through the first 6 months of fiscal year 2015 for such additional hospital claims as the Secretary determines appropriate.
+
+“(b) Limitation.—The Secretary of Health and Human Services shall not conduct patient status reviews (as described in such notice) on a post-payment review basis through recovery audit contractors under section 1893(h) of the Social Security Act (42 U.S.C. 1395ddd(h)) for inpatient claims with dates of admission October 1, 2013, through March 31, 2015, unless there is evidence of systematic gaming, fraud, abuse, or delays in the provision of care by a provider of services (as defined in section 1861(u) of such Act (42 U.S.C. 1395x(u))).”
+
 #### Access to Coordination of Benefits Contractor Database ####
 
 Pub. L. 109–432, div. B, title III, §302(b), Dec. 20, 2006, 120 Stat. 2992, provided that: “The Secretary of Health and Human Services shall provide for access by recovery audit contractors conducting audit and recovery activities under section 1893(h) of the Social Security Act [42 U.S.C. 1395ddd(h)], as added by subsection (a), to the database of the Coordination of Benefits Contractor of the Centers for Medicare & Medicaid Services with respect to the audit and recovery periods described in paragraph (4) of such section 1893(h).”

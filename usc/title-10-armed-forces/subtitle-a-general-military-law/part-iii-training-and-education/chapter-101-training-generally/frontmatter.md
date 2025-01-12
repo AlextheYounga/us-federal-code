@@ -18,8 +18,6 @@ Sec.
 
 2006. Department of Defense Education Benefits Fund.
 
-2006a. Assistance for education and training: availability of certain assistance for use only for certain programs of education.
-
 2007. Payment of tuition for off-duty training or education.
 
 2008. Authority to use funds for certain educational purposes.
@@ -41,8 +39,6 @@ Sec.
 2016. Undergraduate nurse training program: establishment through agreement with academic institution.
 
 #### Amendments ####
-
-**2013**—Pub. L. 113–66, div. A, title V, §541(b), Dec. 26, 2013, 127 Stat. 762, added item 2006a.
 
 **2009**—Pub. L. 111–84, div. A, title V, §§521(b), 525(b)(2), Oct. 28, 2009, 123 Stat. 2285, 2287, added items 2004b and 2016.
 

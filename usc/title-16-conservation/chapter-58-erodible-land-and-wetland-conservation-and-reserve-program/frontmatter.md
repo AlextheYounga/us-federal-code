@@ -34,15 +34,17 @@ Sec.
 
 #### subpart a—general provisions ####
 
-3830, 3830a. Repealed.
+3830. Comprehensive conservation enhancement program.
+
+3830a. Repealed.
 
 #### subpart b—conservation reserve ####
 
 3831. Conservation reserve.
 
-3831a. Repealed.
+3831a. Emergency forestry conservation reserve program.
 
-3831b. Farmable wetland program.
+3831b. Pilot program for enrollment of wetland and buffer acreage in conservation reserve.
 
 3832. Duties of owners and operators.
 
@@ -52,11 +54,23 @@ Sec.
 
 3835. Contracts.
 
-3835a. Repealed.
+3835a. Conversion of land subject to contract to other conserving uses.
 
 #### subpart c—wetlands reserve program ####
 
-3837 to 3837f. Repealed.
+3837. Wetlands reserve program.
+
+3837a. Easements and agreements.
+
+3837b. Duties of owners.
+
+3837c. Duties of Secretary.
+
+3837d. Payments.
+
+3837e. Changes in ownership; agreement modification; termination.
+
+3837f. Administration and funding.
 
 #### Part II—Conservation Security and Farmland Protection ####
 
@@ -82,15 +96,33 @@ Sec.
 
 #### subpart c—farmland protection program ####
 
-3838h to 3838j. Repealed.
+3838h. Definitions.
+
+3838i. Farmland protection program.
+
+3838j. Farm viability program.
 
 #### subpart d—grassland reserve program ####
 
-3838n to 3838q. Repealed.
+3838n. Grassland reserve program.
+
+3838 o. Duties of owners and operators.
+
+3838p. Duties of Secretary.
+
+3838q. Delegation of duty.
 
 #### Part III—Environmental Easement Program ####
 
-3839 to 3839d. Repealed.
+3839. Environmental easement program.
+
+3839a. Duties of owners; components of plan.
+
+3839b. Duties of Secretary.
+
+3839c. Payments.
+
+3839d. Changes in ownership; modification of easement.
 
 #### Part IV—Environmental Quality Incentives Program ####
 
@@ -112,21 +144,21 @@ Sec.
 
 3839aa–8. Conservation innovation grants and payments.
 
-3839aa–9. Repealed.
+3839aa–9. Agricultural water enhancement program.
 
 #### Part V—Other Conservation Programs ####
 
 3839bb. Conservation of private grazing land.
 
-3839bb–1. Repealed.
+3839bb–1. Wildlife habitat incentive program.
 
 3839bb–2. Grassroots source water protection program.
 
-3839bb–3, 3839bb–4. Repealed.
+3839bb–3. Great Lakes basin program for soil erosion and sediment control.
+
+3839bb–4. Chesapeake Bay watershed.
 
 3839bb–5. Voluntary public access and habitat incentive program.
-
-3839bb–6. Terminal lakes assistance.
 
 #### SUBCHAPTER V—FUNDING AND ADMINISTRATION ####
 
@@ -134,50 +166,18 @@ Sec.
 
 3842. Delivery of technical assistance.
 
-3843. Repealed.
+3843. Cooperative conservation partnership initiative.
 
 3844. Administrative requirements for conservation programs.
 
 3845. Environmental services markets.
 
-3846. Regulations.
-
 #### SUBCHAPTER V-A—OTHER CONSERVATION PROGRAMS ####
 
 3851. Agriculture conservation experienced services program.
-
-3851a. Forest Service participation in ACES Program.
 
 #### SUBCHAPTER VI—STATE TECHNICAL COMMITTEES ####
 
 3861. Establishment of State technical committees.
 
 3862. Responsibilities.
-
-#### SUBCHAPTER VII—AGRICULTURAL CONSERVATION EASEMENT PROGRAM ####
-
-3865. Establishment and purposes.
-
-3865a. Definitions.
-
-3865b. Agricultural land easements.
-
-3865c. Wetland reserve easements.
-
-3865d. Administration.
-
-#### SUBCHAPTER VIII—REGIONAL CONSERVATION PARTNERSHIP PROGRAM ####
-
-3871. Establishment and purposes.
-
-3871a. Definitions.
-
-3871b. Regional conservation partnerships.
-
-3871c. Assistance to producers.
-
-3871d. Funding.
-
-3871e. Administration.
-
-3871f. Critical conservation areas.

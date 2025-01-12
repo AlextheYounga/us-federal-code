@@ -10,7 +10,7 @@ Sec.
 
 2633. Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department.
 
-[2634. Repealed.]
+2634. Motor vehicles: transportation or storage for members on change of permanent station or extended deployment.
 
 2635. Medical emergency helicopter transportation assistance and limitation of individual liability.
 
@@ -32,7 +32,7 @@ Sec.
 
 2641b. Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.
 
-2642. Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates. 1
+2642. Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate.
 
 2643. Commissary and exchange services: transportation overseas.
 
@@ -54,9 +54,7 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–66, div. A, title VI, §621(g)(2), title X, §1073(c), Dec. 26, 2013, 127 Stat. 784, 870, struck out item 2634 “Motor vehicles: transportation or storage for members on change of permanent station or extended deployment”, added item 2642, and struck out former item 2642 “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate”.
-
-Pub. L. 112–239, div. A, title VI, §622(b), Jan. 2, 2013, 126 Stat. 1781, substituted in item 2641b “Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.” for “Space-available travel on Department of Defense aircraft: retired members residing in Commonwealths and possessions of the United States for certain health care services.”
+**2013**—Pub. L. 112–239, div. A, title VI, §622(b), Jan. 2, 2013, 126 Stat. 1781, substituted in item 2641b “Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.” for “Space-available travel on Department of Defense aircraft: retired members residing in Commonwealths and possessions of the United States for certain health care services.”
 
 **2011**—Pub. L. 111–383, div. A, title III, §352(f), Jan. 7, 2011, 124 Stat. 4194, added items 2648 and 2649 and struck out former items 2648 “Persons and supplies: sea transportation” and 2649 “Civilian passengers and commercial cargoes: transportation on Department of Defense vessels”.
 
@@ -103,5 +101,3 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 **1962**—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted “Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department” for “Terminal Services, furnish to commercial steamship companies” in item 2633, and added item 2634.
 
 **1957**—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER157_1)

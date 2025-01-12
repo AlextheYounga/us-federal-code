@@ -1126,6 +1126,10 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+#### Short Title of 2014 Amendment ####
+
+Pub. L. 113–94, §1, Apr. 3, 2014, 128 Stat. 1085, provided that: “This Act [amending sections 9006, 9008, 9009, 9012, and 9037 of this title and sections 282 and 282a of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 282a of Title 42] may be cited as the ‘Gabriella Miller Kids First Research Act’.”
+
 #### Short Title of 2013 Amendment ####
 
 Pub. L. 112–240, §1(a), Jan. 2, 2013, 126 Stat. 2313, provided that: “This Act [see Tables for classification] may be cited as the ‘American Taxpayer Relief Act of 2012’.”

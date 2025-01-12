@@ -14,13 +14,9 @@ Sec.
 
 656. Diversity in military leadership: plan.
 
-657. Prohibition on service in the armed forces by individuals convicted of certain sexual offenses.
-
 #### Amendments ####
 
-**2013**—Pub. L. 113–66, div. A, title XVII, §1711(a)(2), Dec. 26, 2013, 127 Stat. 963, added item 657.
-
-Pub. L. 112–239, div. A, title V, §519(a)(2), Jan. 2, 2013, 126 Stat. 1721, added item 656.
+**2013**—Pub. L. 112–239, div. A, title V, §519(a)(2), Jan. 2, 2013, 126 Stat. 1721, added item 656.
 
 **2010**—Pub. L. 111–321, §2(f)(1)(B), Dec. 22, 2010, 124 Stat. 3516, struck out item 654 “Policy concerning homosexuality in the armed forces”.
 

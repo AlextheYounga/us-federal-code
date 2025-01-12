@@ -56,7 +56,7 @@ Sec.
 
 1649. Forestry Student Grant Program.
 
-1649a. Repealed.
+1649a. Hispanic-serving institution agricultural land national resources leadership program.
 
 1650. Hardwood technology transfer and applied research.
 

@@ -50,19 +50,13 @@
 
 (3) The Assistant Secretary shall review a proposed budget transmitted under paragraph (2) for a fiscal year and, not later than January 31 of the preceding fiscal year, shall submit to the Secretary of Defense a report containing the comments of the Assistant Secretary with respect to the proposed budget, together with the certification of the Assistant Secretary regarding whether the proposed budget is adequate for implementation of the strategy.
 
-(4) The Secretary of Defense shall submit to Congress a report on the proposed budgets for a fiscal year that the Assistant Secretary has not certified under paragraph (3). The report shall include the following:
+(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that the Assistant Secretary has not certified under paragraph (3). The report shall include the following:
 
 (A) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets.
 
 (B) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
 
 (5) The report required by paragraph (4) shall also include a separate statement of estimated expenditures and requested appropriations for that fiscal year for the activities of the Assistant Secretary in carrying out the duties of the Assistant Secretary.
-
-(6) The report required by paragraph (4) for a fiscal year shall be submitted by the later of the following dates:
-
-(A) The date that is 30 days after the date on which the budget for that fiscal year is submitted to Congress pursuant to section 1105 of title 31.
-
-(B) March 31 of the previous fiscal year.
 
 (f) Access to Initiative Results and Records.—(1) The Secretary of a military department shall submit to the Assistant Secretary the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
 
@@ -76,7 +70,7 @@
 
 (2) Operational energy strategy.—The terms “operational energy strategy” and “strategy” mean the operational energy strategy developed under subsection (d).
 
-(Added Pub. L. 110–417, [div. A], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564, §139b; renumbered §138c and amended Pub. L. 111–383, div. A, title IX, §901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title X, §1076(f)(3), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–66, div. A, title III, §311, Dec. 26, 2013, 127 Stat. 728.)
+(Added Pub. L. 110–417, [div. A], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564, §139b; renumbered §138c and amended Pub. L. 111–383, div. A, title IX, §901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title X, §1076(f)(3), Jan. 2, 2013, 126 Stat. 1952.)
 
 #### Codification ####
 
@@ -85,10 +79,6 @@ Subsec. (c)(3) of section 138 of this title, which was transferred to this secti
 #### Amendments ####
 
 **2013**—Subsec. (c)(3). Pub. L. 112–239 transferred subsec. (c)(3) of section 138 of this title to subsec. (c)(3) of this section. See Codification note above.
-
-Subsec. (e)(4). Pub. L. 113–66, §311(1), in introductory provisions, substituted “The Secretary of Defense shall submit to Congress a report on the proposed budgets for a fiscal year” for “Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year”.
-
-Subsec. (e)(6). Pub. L. 113–66, §311(2), added par. (6).
 
 **2011**—Pub. L. 111–383, §901(k)(1)(C), substituted “Assistant Secretary of Defense for Operational Energy Plans and Programs” for “Director of Operational Energy Plans and Programs” in section catchline.
 

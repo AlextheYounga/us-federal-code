@@ -12,9 +12,7 @@ Sec.
 
 673. Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense.
 
-674. Temporary administrative reassignment or removal of a member on active duty accused of committing a sexual assault or related offense.
-
-[675 to 687. Renumbered.]
+[674 to 687. Renumbered.]
 
 688. Retired members: authority to order to active duty; duties.
 
@@ -27,8 +25,6 @@ Sec.
 691. Permanent end strength levels to support two major regional contingencies.
 
 #### Amendments ####
-
-**2013**—Pub. L. 113–66, div. A, title XVII, §1713(b), Dec. 26, 2013, 127 Stat. 964, added item 674.
 
 **2011**—Pub. L. 112–81, div. A, title V, §582(b), Dec. 31, 2011, 125 Stat. 1432, added item 673.
 

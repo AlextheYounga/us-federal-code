@@ -274,7 +274,7 @@ The application of this clause may result in the applicable percentage increase 
 
 There shall be substituted for the base cost reporting period described in clause (i) a hospital's cost reporting period (if any) beginning during fiscal year 1987 if such substitution results in an increase in the target amount for the hospital.
 
-(D) For cost reporting periods ending on or before September 30, 1994, and for discharges occurring on or after October 1, 1997, and before April 1, 2014, in the case of a hospital that is a medicare-dependent, small rural hospital (as defined in subsection (d)(5)(G) of this section), subject to subparagraph (K), the term “target amount” means—
+(D) For cost reporting periods ending on or before September 30, 1994, and for discharges occurring on or after October 1, 1997, and before April 1, 2015, in the case of a hospital that is a medicare-dependent, small rural hospital (as defined in subsection (d)(5)(G) of this section), subject to subparagraph (K), the term “target amount” means—
 
 (i) with respect to the first 12-month cost reporting period in which this subparagraph is applied to the hospital—
 
@@ -286,7 +286,7 @@ There shall be substituted for the base cost reporting period described in claus
 
 (iii) with respect to discharges occurring in fiscal year 1994, the target amount for the cost reporting period beginning in fiscal year 1993 increased by the applicable percentage increase under subparagraph (B)(iv), and
 
-(iv) with respect to discharges occurring during fiscal year 1998 through fiscal year 2013 and the portion of fiscal year 2014 before April 1, 2014, the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
+(iv) with respect to discharges occurring during fiscal year 1998 through fiscal year 2014 and the portion of fiscal year 2015 before April 1, 2015, the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
 
 There shall be substituted for the base cost reporting period described in clause (i) a hospital's cost reporting period (if any) beginning during fiscal year 1987 if such substitution results in an increase in the target amount for the hospital.
 
@@ -940,13 +940,13 @@ where “P” is the hospital's disproportionate patient percentage (as defined 
 
 (II) Under subclause (I), the disproportionate share adjustment percentage shall not exceed 12 percent for a hospital that is not classified as a rural referral center under subparagraph (C) or, in the case of discharges occurring on or after October 1, 2006, as a medicare-dependent, small rural hospital under subparagraph (G)(iv).
 
-(G)(i) For any cost reporting period beginning on or after April 1, 1990, and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before April 1, 2014, in the case of a subsection (d) hospital which is a medicare-dependent, small rural hospital, payment under paragraph (1)(A) shall be equal to the sum of the amount determined under clause (ii) and the amount determined under paragraph (1)(A)(iii).
+(G)(i) For any cost reporting period beginning on or after April 1, 1990, and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before April 1, 2015, in the case of a subsection (d) hospital which is a medicare-dependent, small rural hospital, payment under paragraph (1)(A) shall be equal to the sum of the amount determined under clause (ii) and the amount determined under paragraph (1)(A)(iii).
 
 (ii) The amount determined under this clause is—
 
 (I) for discharges occurring during the 36-month period beginning with the first day of the cost reporting period that begins on or after April 1, 1990, the amount by which the hospital's target amount for the cost reporting period (as defined in subsection (b)(3)(D) of this section) exceeds the amount determined under paragraph (1)(A)(iii); and
 
-(II) for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before April 1, 2014, 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006) of the amount by which the hospital's target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D) of this section) exceeds the amount determined under paragraph (1)(A)(iii).
+(II) for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before April 1, 2015, 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006) of the amount by which the hospital's target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D) of this section) exceeds the amount determined under paragraph (1)(A)(iii).
 
 (iii) In the case of a medicare dependent, small rural hospital that experiences, in a cost reporting period compared to the previous cost reporting period, a decrease of more than 5 percent in its total number of inpatient cases due to circumstances beyond its control, the Secretary shall provide for such adjustment to the payment amounts under this subsection (other than under paragraph (9)) as may be necessary to fully compensate the hospital for the fixed costs it incurs in the period in providing inpatient hospital services, including the reasonable cost of maintaining necessary core staff and services.
 
@@ -1250,7 +1250,7 @@ As used in this section, the term “subsection (d) Puerto Rico hospital” mean
 
 (A) In general.—In addition to any payments calculated under this section for a subsection (d) hospital, for discharges occurring during a fiscal year (beginning with fiscal year 2005), the Secretary shall provide for an additional payment amount to each low-volume hospital (as defined in subparagraph (C)(i)) for discharges occurring during that fiscal year that is equal to the applicable percentage increase (determined under subparagraph (B) or (D) for the hospital involved) in the amount paid to such hospital under this section for such discharges (determined without regard to this paragraph).
 
-(B) Applicable percentage increase.—For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring in the portion of fiscal year 2014 beginning on April 1, 2014, fiscal year 2015, and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
+(B) Applicable percentage increase.—For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring in fiscal year 2015 (beginning on April 1, 2015), fiscal year 2016, and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
 
 (i) The Secretary shall determine the empirical relationship for subsection (d) hospitals between the standardized cost-per-case for such hospitals and the total number of discharges of such hospitals and the amount of the additional incremental costs (if any) that are associated with such number of discharges.
 
@@ -1260,11 +1260,11 @@ As used in this section, the term “subsection (d) Puerto Rico hospital” mean
 
 (C) Definitions.—
 
-(i) Low-volume hospital.—For purposes of this paragraph, the term “low-volume hospital” means, for a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011, 2012, and 2013, and the portion of fiscal year 2014 before <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> 15 road miles) from another subsection (d) hospital and has less than 800 discharges (or, with respect to fiscal years 2011, 2012, and 2013, and the portion of fiscal year 2014 \\9 before 1,600 discharges of individuals entitled to, or enrolled for, benefits under part A) during the fiscal year or portion of fiscal year.
+(i) Low-volume hospital.—For purposes of this paragraph, the term “low-volume hospital” means, for a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011 through 2014 and fiscal year 2015 (before April 1, 2015), 15 road miles) from another subsection (d) hospital and has less than 800 discharges (or, with respect to fiscal years 2011 through 2014 and fiscal year 2015 (before April 1, 2015), 1,600 discharges of individuals entitled to, or enrolled for, benefits under part A) during the fiscal year or portion of fiscal year.
 
 (ii) Discharge.—For purposes of subparagraph (B) and clause (i), the term “discharge” means an inpatient acute care discharge of an individual regardless of whether the individual is entitled to benefits under part A of this subchapter.
 
-(D) Temporary applicable percentage increase.—For discharges occurring in fiscal years 2011, 2012, and 2013, and the portion of fiscal year 2014 before April 1, 2014, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year.
+(D) Temporary applicable percentage increase.—For discharges occurring in fiscal years 2011 through 2014 and fiscal year 2015 (before April 1, 2015), the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year.
 
 (13)(A) In order to recognize commuting patterns among geographic areas, the Secretary shall establish a process through application or otherwise for an increase of the wage index applied under paragraph (3)(E) for subsection (d) hospitals located in a qualifying county described in subparagraph (B) in the amount computed under subparagraph (D) based on out-migration of hospital employees who reside in that county to any higher wage index area.
 
@@ -1604,7 +1604,7 @@ On or after July 1, 1986, but before July 1, 1987, in the case of a foreign medi
 
 Subject to subparagraphs (J) and (K), such rules shall provide that only time spent in activities relating to patient care shall be counted and that—
 
-(i) effective for cost reporting periods beginning before July 1, 2010, all the time; <sup><a href="#1395ww_10_target" name="1395ww_10">10</a></sup> so spent by a resident under an approved medical residency training program shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if the hospital incurs all, or substantially all, of the costs for the training program in that setting; and
+(i) effective for cost reporting periods beginning before July 1, 2010, all the time; <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> so spent by a resident under an approved medical residency training program shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if the hospital incurs all, or substantially all, of the costs for the training program in that setting; and
 
 (ii) effective for cost reporting periods beginning on or after July 1, 2010, all the time so spent by a resident shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if a hospital incurs the costs of the stipends and fringe benefits of the resident during the time the resident spends in that setting. If more than one hospital incurs these costs, either directly or through a third party, such hospitals shall count a proportional share of the time, as determined by written agreement between the hospitals, that a resident spends training in that setting.
 
@@ -1656,7 +1656,7 @@ The Secretary may require any entity that operates a medical residency training 
 
 #### (iv) Nonrural hospitals operating training programs in rural areas ####
 
-In the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in an <sup><a href="#1395ww_11_target" name="1395ww_11">11</a></sup> rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
+In the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in an <sup><a href="#1395ww_10_target" name="1395ww_10">10</a></sup> rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
 
 #### (v) Special provider agreement ####
 
@@ -1696,7 +1696,7 @@ The aggregate number of increases in the otherwise applicable resident limits fo
 
 Chapter 35 of title 44 shall not apply to the implementation of this clause.
 
-#### (J) <sup><a href="#1395ww_12_target" name="1395ww_12">12</a></sup> Treatment of certain nonprovider and didactic activities ####
+#### (J) <sup><a href="#1395ww_11_target" name="1395ww_11">11</a></sup> Treatment of certain nonprovider and didactic activities ####
 
 Such rules shall provide that all time spent by an intern or resident in an approved medical residency training program in a nonprovider setting that is primarily engaged in furnishing patient care (as defined in paragraph (5)(K)) in non-patient care activities, such as didactic conferences and seminars, but not including research not associated with the treatment or diagnosis of a particular patient, as such time and activities are defined by the Secretary, shall be counted toward the determination of full-time equivalency.
 
@@ -1824,7 +1824,7 @@ The determination of the amounts under clauses (i) and (ii) for any year shall b
 
 The Secretary may not approve the application of an qualifying entity unless—
 
-(i) the application is submitted in a form and manner specified by the Secretary and by not later than November 1, 1999,<sup><a href="#1395ww_13_target" name="1395ww_13">13</a></sup>
+(i) the application is submitted in a form and manner specified by the Secretary and by not later than November 1, 1999,<sup><a href="#1395ww_12_target" name="1395ww_12">12</a></sup>
 
 (ii) the application provides for the operation of a plan for the reduction in the number of full-time equivalent residents in the approved medical residency training programs of the entity consistent with the requirements of subparagraph (D);
 
@@ -2004,7 +2004,7 @@ the Secretary shall apply subparagraph (A)(i)(I) using the higher resident refer
 
 #### (E) Judicial review ####
 
-There shall be no administrative or judicial review under section 1395ff, 1395oo of this title, or otherwise, with respect to determinations made under this this <sup><a href="#1395ww_14_target" name="1395ww_14">14</a></sup> paragraph, paragraph (8), or paragraph (4)(H)(vi).
+There shall be no administrative or judicial review under section 1395ff, 1395oo of this title, or otherwise, with respect to determinations made under this this <sup><a href="#1395ww_13_target" name="1395ww_13">13</a></sup> paragraph, paragraph (8), or paragraph (4)(H)(vi).
 
 #### (8) Distribution of additional residency positions ####
 
@@ -2318,7 +2318,7 @@ For cost reporting periods beginning on or after October 1, 1997, the Secretary 
 
 For purposes of this subsection, the term “qualified nonhospital providers” means—
 
-(A) a Federally <sup><a href="#1395ww_15_target" name="1395ww_15">15</a></sup> qualified health center, as defined in section 1395x(aa)(4) of this title;
+(A) a Federally <sup><a href="#1395ww_14_target" name="1395ww_14">14</a></sup> qualified health center, as defined in section 1395x(aa)(4) of this title;
 
 (B) a rural health clinic, as defined in section 1395x(aa)(2) of this title;
 
@@ -2516,9 +2516,9 @@ The Secretary shall establish a process whereby a long-term care hospital may se
 
 In this subparagraph, the term “LTCH discharge payment percentage” means, with respect to a long-term care hospital for a cost reporting period beginning during or after fiscal year 2020, the ratio (expressed as a percentage) of—
 
-(I) the number of discharges for such hospital and period for which payment is not made at the site neutral payment rate, to
+(I) the number of Medicare fee-for-service discharges for such hospital and period for which payment is not made at the site neutral payment rate, to
 
-(II) the total number of discharges for such hospital and period.
+(II) the total number of Medicare fee-for-service discharges for such hospital and period.
 
 #### (D) Inclusion of subsection (d) Puerto Rico hospitals ####
 
@@ -2686,7 +2686,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 (ii) the methodology and standards for determining a meaningful EHR user under paragraph (3), including selection of measures under paragraph (3)(B), specification of the means of demonstrating meaningful EHR use under paragraph (3)(C), and the hardship exception under subsection (b)(3)(B)(ix)(II); and
 
-(iii) the specification of EHR reporting periods under paragraph (6)(B) <sup><a href="#1395ww_16_target" name="1395ww_16">16</a></sup> and the selection of the form of payment under paragraph (2)(F).
+(iii) the specification of EHR reporting periods under paragraph (6)(B) <sup><a href="#1395ww_15_target" name="1395ww_15">15</a></sup> and the selection of the form of payment under paragraph (2)(F).
 
 #### (B) Posting on website ####
 
@@ -3364,7 +3364,7 @@ Not later than October 1, 2012, the Secretary shall publish the measures selecte
 
 The Secretary shall establish procedures for making data submitted under subparagraph (C) available to the public. Such procedures shall ensure that a psychiatric hospital and a psychiatric unit has the opportunity to review the data that is to be made public with respect to the hospital or unit prior to such data being made public. The Secretary shall report quality measures that relate to services furnished in inpatient settings in psychiatric hospitals and psychiatric units on the Internet website of the Centers for Medicare & Medicaid Services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044.)
 
 #### References in Text ####
 
@@ -3417,6 +3417,22 @@ The Health Care and Education Reconciliation Act of 2010, referred to in subsec.
 Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, referred to in subsec. (s)(1), is section 1000(a)(6) [title I, §124] of Pub. L. 106–113, which enacted provisions set out as a note under this section.
 
 #### Amendments ####
+
+**2014**—Subsec. (b)(3)(D). Pub. L. 113–93, §106(b)(1)(A), substituted “April 1, 2015” for “April 1, 2014” in introductory provisions.
+
+Subsec. (b)(3)(D)(iv). Pub. L. 113–93, §106(b)(1)(B), substituted “through fiscal year 2014 and the portion of fiscal year 2015 before April 1, 2015” for “through fiscal year 2013 and the portion of fiscal year 2014 before April 1, 2014”.
+
+Subsec. (d)(5)(G)(i). Pub. L. 113–93, §106(a)(1), substituted “April 1, 2015” for “April 1, 2014”.
+
+Subsec. (d)(5)(G)(ii)(II). Pub. L. 113–93, §106(a)(2), substituted “April 1, 2015” for “April 1, 2014”.
+
+Subsec. (d)(12)(B). Pub. L. 113–93, §105(1), substituted “in fiscal year 2015 (beginning on April 1, 2015), fiscal year 2016, and subsequent fiscal years” for “in the portion of fiscal year 2014 beginning on April 1, 2014, fiscal year 2015, and subsequent fiscal years” in introductory provisions.
+
+Subsec. (d)(12)(C)(i). Pub. L. 113–93, §105(2), substituted “fiscal years 2011 through 2014 and fiscal year 2015 (before April 1, 2015),” for “fiscal years 2011, 2012, and 2013, and the portion of fiscal year 2014 before” in two places.
+
+Subsec. (d)(12)(D). Pub. L. 113–93, §105(3), substituted “fiscal years 2011 through 2014 and fiscal year 2015 (before April 1, 2015),” for “fiscal years 2011, 2012, and 2013, and the portion of fiscal year 2014 before April 1, 2014,”.
+
+Subsec. (m)(6)(C)(iv). Pub. L. 113–93, §112(a), substituted “Medicare fee-for-service discharges” for “discharges” in subcls. (I) and (II).
 
 **2013**—Subsec. (b)(3)(D). Pub. L. 113–67, §1106(b)(1)(A), substituted “April 1, 2014” for “October 1, 2013” in introductory provisions.
 
@@ -4854,6 +4870,10 @@ Subsecs. (e) to (g). Pub. L. 98–21, §601(e), added subsecs. (e) to (g).
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–93, title I, §112(d), Apr. 1, 2014, 128 Stat. 1045, provided that: “The amendments made by this section [amending this section and provisions set out as notes under this section] are effective as of the date of the enactment of this Act [Apr. 1, 2014].”
+
 #### Effective Date of 2011 Amendment ####
 
 Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
@@ -5286,7 +5306,7 @@ Prospective Payment Assessment Commission (ProPAC) was terminated and its assets
 
 #### Calculation of Length of Stay Excluding Cases Paid on a Site Neutral Basis ####
 
-Pub. L. 113–67, div. B, title II, §1206(a)(3), Dec. 26, 2013, 127 Stat. 1203, provided that:
+Pub. L. 113–67, div. B, title II, §1206(a)(3), Dec. 26, 2013, 127 Stat. 1203, as amended by Pub. L. 113–93, title I, §112(c)(2), Apr. 1, 2014, 128 Stat. 1045, provided that:
 
 “(A) In general.—For discharges occurring in cost reporting periods beginning on or after October 1, 2015, subject to subparagraph (B), in calculating the length of stay requirement applicable to a long-term care hospital or satellite facility under section 1886(d)(1)(B)(iv)(I) of the Social Security Act (42 U.S.C. 1395ww(d)(1)(B)(iv)(I)) and section 1861(ccc)(2) of such Act (42 U.S.C. 1395x(ccc)(2)), the Secretary of Health and Human Services shall exclude the following:
 
@@ -5294,7 +5314,7 @@ Pub. L. 113–67, div. B, title II, §1206(a)(3), Dec. 26, 2013, 127 Stat. 1203,
 
 “(ii) Medicare advantage.—Any patient for whom payment is made under a Medicare Advantage plan under part C of title XVIII of such Act [42 U.S.C. 1395w–21 et seq.].
 
-“(B) Limitation on converting subsection (d) hospitals.—Subparagraph (A) shall not apply to a hospital that is classified as of December 10, 2013, as a subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act, 42 U.S.C. 1395ww(d)(1)(B)) for purposes of determining whether the requirements of section 1886(d)(1)(B)(iv)(I) or 1861(ccc)(2) of such Act (42 U.S.C. 1395ww(d)(1)(B)(iv)(I), 1395x(ccc)(2)) are met.”
+“(B) Limitation on converting subsection (d) hospitals.—Subparagraph (A) shall only apply to a hospital that is classified as of December 10, 2013, as a long-term care hospital (as defined in section 1861(ccc) of the Social Security Act, 42 U.S.C. 1395x(ccc)) for purposes of determining whether the requirements of section 1886(d)(1)(B)(iv)(I) or 1861(ccc)(2) of such Act (42 U.S.C. 1395ww(d)(1)(B)(iv)(I), 1395x(ccc)(2)) are met.”
 
 #### Review of Treatment of Certain LTCHs ####
 
@@ -5552,9 +5572,9 @@ Pub. L. 110–173, title I, §114(c), Dec. 29, 2007, 121 Stat. 2502, as amended 
 
 #### Moratorium on the Establishment of Long-Term Care Hospitals, Long-Term Care Satellite Facilities and on the Increase of Long-Term Care Hospital Beds in Existing Long-Term Care Hospitals or Satellite Facilities ####
 
-Pub. L. 110–173, title I, §114(d), Dec. 29, 2007, 121 Stat. 2503, as amended by Pub. L. 111–5, div. B, title IV, §4302(b), Feb. 17, 2009, 123 Stat. 496; Pub. L. 111–148, title III, §3106(b), title X, §10312(b), Mar. 23, 2010, 124 Stat. 418, 943; Pub. L. 113–67, div. B, title II, §1206(b)(2), Dec. 26, 2013, 127 Stat. 1204, provided that:
+Pub. L. 110–173, title I, §114(d), Dec. 29, 2007, 121 Stat. 2503, as amended by Pub. L. 111–5, div. B, title IV, §4302(b), Feb. 17, 2009, 123 Stat. 496; Pub. L. 111–148, title III, §3106(b), title X, §10312(b), Mar. 23, 2010, 124 Stat. 418, 943; Pub. L. 113–67, div. B, title II, §1206(b)(2), Dec. 26, 2013, 127 Stat. 1204; Pub. L. 113–93, title I, §112(b), Apr. 1, 2014, 128 Stat. 1044, provided that:
 
-“(1) In general.—During the 5-year period (and for the period beginning January 1, 2015, and ending September 30, 2017) beginning on the date of the enactment of this Act [Dec. 29, 2007], the Secretary [of Health and Human Services] shall impose a moratorium for purposes of the Medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.]—
+“(1) In general.—During the 5-year period (and for the period beginning on the date of the enactment of paragraph (7) of this subsection [Apr. 1, 2014] and ending September 30, 2017) beginning on the date of the enactment of this Act [Dec. 29, 2007], the Secretary [of Health and Human Services] shall impose a moratorium for purposes of the Medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.]—
 
 “(A) subject to paragraph (2), on the establishment and classification of a long-term care hospital or satellite facility, other than an existing long-term care hospital or facility; and
 
@@ -5582,7 +5602,15 @@ Pub. L. 110–173, title I, §114(d), Dec. 29, 2007, 121 Stat. 2503, as amended 
 
 “(5) Judicial review.—There shall be no administrative or judicial review under section 1869 of the Social Security Act (42 U.S.C. 1395ff), section 1878 of such Act (42 U.S.C. 1395oo), or otherwise, of the application of this subsection by the Secretary.
 
-“(6) Limitation on application of exceptions.—Paragraphs (2) and (3) shall not apply during the period beginning January 1, 2015, and ending September 30, 2017.”
+“(6) Limitation on application of exceptions.—Paragraphs (2) and (3) shall not apply during the period beginning on the date of the enactment of paragraph (7) of this subsection [Apr. 1, 2014] and ending September 30, 2017.
+
+“(7) *Additional exception for certain long-term care hospitals*.—The moratorium under paragraph (1)(A) shall not apply to a long-term care hospital that—
+
+“(A) began its qualifying period for payment as a long-term care hospital under section 412.23(e) of title 42, Code of Federal Regulations, on or before the date of enactment of this paragraph [Apr. 1, 2014];
+
+“(B) has a binding written agreement as of the date of the enactment of this paragraph with an outside, unrelated party for the actual construction, renovation, lease, or demolition for a long-term care hospital, and has expended, before such date of enactment, at least 10 percent of the estimated cost of the project (or, if less, $2,500,000); or
+
+“(C) has obtained an approved certificate of need in a State where one is required on or before such date of enactment.”
 
 [For effective date of amendment by Pub. L. 111–5, see section 4302(c) of Pub. L. 111–5, set out as a note following section 114(c) of Pub. L. 110–173, set out above.]
 
@@ -6478,9 +6506,9 @@ Pub. L. 103–66, title XIII, §13501(d), Aug. 10, 1993, 107 Stat. 575, provided
 
 #### Hospitals Declining Urban Area Reclassifications; Retroactive Payments ####
 
-Pub. L. 103–66, title XIII, §13501(e)(2), (3), Aug. 10, 1993, 107 Stat. 576, as amended by Pub. L. 105–33, title IV, §4204(a)(3), Aug. 5, 1997, 111 Stat. 376; Pub. L. 106–113, div. B, §1000(a)(6) [title IV, §404(b)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–372; Pub. L. 109–171, title V, §5003(a)(2)(B), Feb. 8, 2006, 120 Stat. 32; Pub. L. 111–148, title III, §3124(b)(2), Mar. 23, 2010, 124 Stat. 425; Pub. L. 112–240, title VI, §606(b)(2), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1106(b)(2), Dec. 26, 2013, 127 Stat. 1197, provided that:
+Pub. L. 103–66, title XIII, §13501(e)(2), (3), Aug. 10, 1993, 107 Stat. 576, as amended by Pub. L. 105–33, title IV, §4204(a)(3), Aug. 5, 1997, 111 Stat. 376; Pub. L. 106–113, div. B, §1000(a)(6) [title IV, §404(b)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–372; Pub. L. 109–171, title V, §5003(a)(2)(B), Feb. 8, 2006, 120 Stat. 32; Pub. L. 111–148, title III, §3124(b)(2), Mar. 23, 2010, 124 Stat. 425; Pub. L. 112–240, title VI, §606(b)(2), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1106(b)(2), Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §106(b)(2), Apr. 1, 2014, 128 Stat. 1042, provided that:
 
-“(2) Permitting hospitals to decline reclassification.—If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act [42 U.S.C. 1395ww(d)(5)(G)(i)] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, or fiscal year 2000 through the first 2 quarters of fiscal year 2014, the Secretary of Health and Human Services shall—
+“(2) Permitting hospitals to decline reclassification.—If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act [42 U.S.C. 1395ww(d)(5)(G)(i)] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, or fiscal year 2000 through the first 2 quarters of fiscal year 2015, the Secretary of Health and Human Services shall—
 
 “(A) notify such hospital of such failure to qualify,
 
@@ -7254,18 +7282,16 @@ Pub. L. 97–248, title I, §101(b)(2)(B), Sept. 3, 1982, 96 Stat. 335, as amend
 
 [<sup>8</sup> So in original. Probably should be section “557(b)”.](#1395ww_8)
 
-[<sup>9</sup> So in original. Probably should be followed by a comma.](#1395ww_9)
+[<sup>9</sup> So in original. The semicolon probably should not appear.](#1395ww_9)
 
-[<sup>10</sup> So in original. The semicolon probably should not appear.](#1395ww_10)
+[<sup>10</sup> So in original. Probably should be “a”.](#1395ww_10)
 
-[<sup>11</sup> So in original. Probably should be “a”.](#1395ww_11)
+[<sup>11</sup> So in original. No subpar. (I) has been enacted.](#1395ww_11)
 
-[<sup>12</sup> So in original. No subpar. (I) has been enacted.](#1395ww_12)
+[<sup>12</sup> So in original. The comma probably should be a semicolon.](#1395ww_12)
 
-[<sup>13</sup> So in original. The comma probably should be a semicolon.](#1395ww_13)
+[<sup>13</sup> So in original.](#1395ww_13)
 
-[<sup>14</sup> So in original.](#1395ww_14)
+[<sup>14</sup> So in original. Probably should not be capitalized.](#1395ww_14)
 
-[<sup>15</sup> So in original. Probably should not be capitalized.](#1395ww_15)
-
-[<sup>16</sup> So in original. Probably should be “(6)(A)”.](#1395ww_16)
+[<sup>15</sup> So in original. Probably should be “(6)(A)”.](#1395ww_15)

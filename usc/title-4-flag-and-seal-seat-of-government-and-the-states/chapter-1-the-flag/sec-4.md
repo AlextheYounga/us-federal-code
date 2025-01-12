@@ -1,8 +1,8 @@
 ### §4. Pledge of allegiance to the flag; manner of delivery ###
 
-The Pledge of Allegiance to the Flag: “I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.”, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove any non-religious headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute. Members of the Armed Forces not in uniform and veterans may render the military salute in the manner provided for persons in uniform.
+The Pledge of Allegiance to the Flag: “I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.”, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove any non-religious headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute.
 
-(Added Pub. L. 105–225, §2(a), Aug. 12, 1998, 112 Stat. 1494; amended Pub. L. 107–293, §2(a), Nov. 13, 2002, 116 Stat. 2060; Pub. L. 113–66, div. A, title V, §586, Dec. 26, 2013, 127 Stat. 777.)
+(Added Pub. L. 105–225, §2(a), Aug. 12, 1998, 112 Stat. 1494; amended Pub. L. 107–293, §2(a), Nov. 13, 2002, 116 Stat. 2060.)
 
 |*Revised<br/><br/>Section*|*Source (U.S. Code)*|                                                                                           *Source (Statutes at Large)*                                                                                           |
 |--------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,8 +13,6 @@ The Pledge of Allegiance to the Flag: “I pledge allegiance to the Flag of the 
 Amendment by Pub. L. 107–293 reaffirmed the exact language of the Pledge, see section 2(b) of Pub. L. 107–293, set out as a Reaffirmation of Language note below.
 
 #### Amendments ####
-
-**2013**—Pub. L. 113–66 inserted at end “Members of the Armed Forces not in uniform and veterans may render the military salute in the manner provided for persons in uniform.”
 
 **2002**—Pub. L. 107–293 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Pledge of Allegiance to the Flag, ‘I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all.’, should be rendered by standing at attention facing the flag with the right hand over the heart. When not in uniform men should remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Persons in uniform should remain silent, face the flag, and render the military salute.”
 

@@ -470,6 +470,10 @@ Review of any local coverage determination shall be subject to the following lim
 
 For purposes of this section, the term “local coverage determination” means a determination by a fiscal intermediary or a carrier under part A of this subchapter or part B of this subchapter, as applicable, respecting whether or not a particular item or service is covered on an intermediary- or carrier-wide basis under such parts, in accordance with section 1395y(a)(1)(A) of this title.
 
+#### (C) Local coverage determinations for clinical diagnostic laboratory tests ####
+
+For provisions relating to local coverage determinations for clinical diagnostic laboratory tests, see section 1395m–1(g) of this title.
+
 #### (3) No material issues of fact in dispute ####
 
 In the case of a determination that may otherwise be subject to review under paragraph (1)(A)(iii) or paragraph (2)(A)(i), where the moving party alleges that—
@@ -688,9 +692,11 @@ The Secretary shall establish a mediation process under this subsection through 
 
 Under the process established in paragraph (1), such a mediator shall mediate in disputes between groups representing providers of services, suppliers (as defined in section 1395x(d) of this title), and the medical director for a medicare administrative contractor whenever the regional administrator (as defined by the Secretary) involved determines that there was a systematic pattern and a large volume of complaints from such groups regarding decisions of such director or there is a complaint from the co-chair of the advisory committee for that contractor to such regional administrator regarding such dispute.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) [title V, §§521(a), 522(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426; Pub. L. 112–40, title II, §261(a)(3)(A), (F), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1869, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 330; amended Pub. L. 92–603, title II, §299O(a), Oct. 30, 1972, 86 Stat. 1464; Pub. L. 98–369, div. B, title III, §2354(b)(35), July 18, 1984, 98 Stat. 1102; Pub. L. 99–509, title IX, §§9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, 100 Stat. 2002, 2037; Pub. L. 100–93, §8(e), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, 101 Stat. 1330–128, 1330–133; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 105–33, title IV, §4611(c), Aug. 5, 1997, 111 Stat. 473; Pub. L. 106–554, §1(a)(6) [title V, §§521(a), 522(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–534, 2763A–543; Pub. L. 108–173, title IX, §§931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, 117 Stat. 2399, 2402–2406, 2413, 2416, 2417, 2426; Pub. L. 112–40, title II, §261(a)(3)(A), (F), Oct. 21, 2011, 125 Stat. 423; Pub. L. 113–93, title II, §216(b)(2), Apr. 1, 2014, 128 Stat. 1060.)
 
 #### Amendments ####
+
+**2014**—Subsec. (f)(2)(C). Pub. L. 113–93 added subpar. (C).
 
 **2011**—Subsec. (a)(1)(C). Pub. L. 112–40, §261(a)(3)(A), substituted “quality improvement” for “utilization and quality control peer review”.
 

@@ -42,8 +42,6 @@ The Secretary shall report annually in writing to each tribe regarding projected
 
 #### References in Text ####
 
-This subchapter, referred to in subsecs. (a)(1) and (f)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
-
 Section 450j–1(a)(3) of this title, referred to in subsec. (d), was repealed and a new subsec. (a)(3) of section 450j–1 was added by Pub. L. 103–413, title I, §102(14)(C), Oct. 25, 1994, 108 Stat. 4257. See section 450j–1(a)(4) of this title.
 
 #### Amendments ####

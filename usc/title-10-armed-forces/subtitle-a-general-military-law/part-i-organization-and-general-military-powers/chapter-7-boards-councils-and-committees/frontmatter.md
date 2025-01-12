@@ -4,8 +4,6 @@ Sec.
 
 171. Armed Forces Policy Council.
 
-171a. Council on Oversight of the National Leadership Command, Control, and Communications System.
-
 172. Ammunition storage board.
 
 173. Advisory personnel.
@@ -40,13 +38,9 @@ Sec.
 
 188. Interagency Council on the Strategic Capability of the National Laboratories.
 
-189. Communications Security Review and Advisory Board 1
-
 #### Amendments ####
 
-**2013**—Pub. L. 113–66, div. A, title II, §261(b), title X, §1052(a)(2), Dec. 26, 2013, 127 Stat. 725, 861, added items 171a and 189.
-
-Pub. L. 112–239, div. A, title X, §1040(b), Jan. 2, 2013, 126 Stat. 1930, added item 188.
+**2013**—Pub. L. 112–239, div. A, title X, §1040(b), Jan. 2, 2013, 126 Stat. 1930, added item 188.
 
 **2008**—Pub. L. 110–417, [div. A], title X, §1061(a)(3), Oct. 14, 2008, 122 Stat. 4612, inserted period at end of item 183.
 
@@ -75,5 +69,3 @@ Pub. L. 110–181, div. A, title IX, §906(a)(2), Jan. 28, 2008, 122 Stat. 277, 
 Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 **1976**—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER7_1)

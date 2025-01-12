@@ -8,9 +8,9 @@
 
 (d) Repayment.—An officer who does not complete the period of service in the Selected Reserve specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(e) Termination of Agreement Authority.—No agreement under this section may be entered into after December 31, 2014.
+(e) Termination of Agreement Authority.—No agreement under this section may be entered into after December 31, 2013.
 
-(Added Pub. L. 104–106, div. A, title VI, §614(a)(1), Feb. 10, 1996, 110 Stat. 360; amended Pub. L. 104–201, div. A, title VI, §611(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(a), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(a), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(a), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 [[div. A], title VI, §621(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(a), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §612(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §612(e), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(e), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(e), 687(b)(10), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §§612(e), 616(a), Oct. 17, 2006, 120 Stat. 2248, 2249; Pub. L. 110–181, div. A, title VI, §612(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, [div. A], title VI, §612(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(4), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(4), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(4), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(4), Dec. 26, 2013, 127 Stat. 780.)
+(Added Pub. L. 104–106, div. A, title VI, §614(a)(1), Feb. 10, 1996, 110 Stat. 360; amended Pub. L. 104–201, div. A, title VI, §611(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(a), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(a), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(a), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 [[div. A], title VI, §621(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(a), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §612(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §612(e), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(e), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(e), 687(b)(10), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §§612(e), 616(a), Oct. 17, 2006, 120 Stat. 2248, 2249; Pub. L. 110–181, div. A, title VI, §612(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, [div. A], title VI, §612(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(4), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(4), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(4), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(4), Jan. 2, 2013, 126 Stat. 1776.)
 
 #### Prior Provisions ####
 
@@ -18,9 +18,7 @@ Provisions similar to those in this section were contained in Pub. L. 100–456,
 
 #### Amendments ####
 
-**2013**—Subsec. (e). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
-
-Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (e). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 **2011**—Subsec. (e). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 

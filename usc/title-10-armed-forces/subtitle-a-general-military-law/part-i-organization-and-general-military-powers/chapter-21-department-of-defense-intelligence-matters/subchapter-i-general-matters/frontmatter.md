@@ -14,15 +14,13 @@ Sec.
 
 426. Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities.
 
-427. Conflict Records Research Center.
+[427. Repealed.]
 
 428. Defense industrial security.
 
 429. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority.
 
 #### Amendments ####
-
-**2013**—Pub. L. 113–66, div. A, title X, §1071(b), Dec. 26, 2013, 127 Stat. 868, added item 427.
 
 **2012**—Pub. L. 112–87, title IV, §433(b), Jan. 3, 2012, 125 Stat. 1895, added item 429.
 

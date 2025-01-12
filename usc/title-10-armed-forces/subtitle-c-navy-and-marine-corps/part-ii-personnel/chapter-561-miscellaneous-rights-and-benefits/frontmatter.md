@@ -24,6 +24,12 @@ Sec.
 
 6161. Settlement of accounts: remission or cancellation of indebtedness of members.
 
+#### Historical and Revision Notes ####
+
+#### 1962 Amendment ####
+
+See explanation of section 111(b) [set out as 1962 Amendment in Historical and Revision Notes under section 2634 of this title].
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–364, div. A, title X, §1071(a)(32), Oct. 17, 2006, 120 Stat. 2400, substituted colon for semicolon in item 6154 and “Settlement of accounts: remission or cancellation of indebtedness of members” for “Remission of indebtedness of enlisted members discharge” in item 6161.

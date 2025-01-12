@@ -2,13 +2,19 @@
 
 #### (a) In general ####
 
-For the purpose of carrying out this subchapter, there are authorized to be appropriated—
+#### (1) This subchapter ####
 
-(1) $30,331,309,000 for fiscal year 2007;
+For purposes of carrying out this subchapter, there are authorized to be appropriated—
 
-(2) $32,831,309,000 for fiscal year 2008; and
+(A) $30,331,309,000 for fiscal year 2007;
 
-(3) such sums as may be necessary for fiscal year 2009.
+(B) $32,831,309,000 for fiscal year 2008; and
+
+(C) such sums as may be necessary for fiscal year 2009.
+
+#### (2) Funding for 10-year pediatric research initiative through Common Fund ####
+
+For the purpose of carrying out section 282(b)(7)(B)(ii) of this title, there is authorized to be appropriated to the Common Fund, out of the 10-Year Pediatric Research Initiative Fund described in section 9008 of title 26, and in addition to amounts otherwise made available under paragraph (1) of this subsection and reserved under subsection (c)(1)(B)(i) of this section, $12,600,000 for each of fiscal years 2014 through 2023.
 
 #### (b) Office of the Director ####
 
@@ -26,11 +32,11 @@ For the purpose of allocations under section 282(b)(7)(B) of this title (relatin
 
 #### (i) In general ####
 
-Of the total amount appropriated under subsection (a) for fiscal year 2007 or any subsequent fiscal year, the Director of NIH shall reserve an amount for the Common Fund, subject to any applicable provisions in appropriations Acts.
+Of the total amount appropriated under subsection (a)(1) for fiscal year 2007 or any subsequent fiscal year, the Director of NIH shall reserve an amount for the Common Fund, subject to any applicable provisions in appropriations Acts.
 
 #### (ii) Minimum amount ####
 
-For each fiscal year, the percentage constituted by the amount reserved under clause (i) relative to the total amount appropriated under subsection (a) for such year may not be less than the percentage constituted by the amount so reserved for the preceding fiscal year relative to the total amount appropriated under subsection (a) for such preceding fiscal year, subject to any applicable provisions in appropriations Acts.
+For each fiscal year, the percentage constituted by the amount reserved under clause (i) relative to the total amount appropriated under subsection (a)(1) for such year may not be less than the percentage constituted by the amount so reserved for the preceding fiscal year relative to the total amount appropriated under subsection (a)(1) for such preceding fiscal year, subject to any applicable provisions in appropriations Acts.
 
 #### (C) Common Fund strategic planning report ####
 
@@ -48,7 +54,7 @@ Not later than June 1, 2007, and every 2 years thereafter, the Secretary, acting
 
 #### (D) Evaluation ####
 
-During the 6-month period following the end of the first fiscal year for which the total amount reserved under subparagraph (B) is equal to 5 percent of the total amount appropriated under subsection (a) for such fiscal year, the Secretary, acting through the Director of NIH, in consultation with the advisory council established under section 282(k) of this title, shall submit recommendations to the Congress for changes regarding amounts for the Common Fund.
+During the 6-month period following the end of the first fiscal year for which the total amount reserved under subparagraph (B) is equal to 5 percent of the total amount appropriated under subsection (a)(1) for such fiscal year, the Secretary, acting through the Director of NIH, in consultation with the advisory council established under section 282(k) of this title, shall submit recommendations to the Congress for changes regarding amounts for the Common Fund.
 
 #### (2) Trans-NIH research reporting ####
 
@@ -78,14 +84,34 @@ At the request of any national research institute or national center, the Direct
 
 #### (d) Transfer authority ####
 
-Of the total amount appropriated under subsection (a) for a fiscal year, the Director of NIH may (in addition to the reservation under subsection (c)(1) for such year) transfer not more than 1 percent for programs or activities that are authorized in this subchapter and identified by the Director to receive funds pursuant to this subsection. In making such transfers, the Director may not decrease any appropriation account under subsection (a) by more than 1 percent.
+Of the total amount appropriated under subsection (a)(1) for a fiscal year, the Director of NIH may (in addition to the reservation under subsection (c)(1) for such year) transfer not more than 1 percent for programs or activities that are authorized in this subchapter and identified by the Director to receive funds pursuant to this subsection. In making such transfers, the Director may not decrease any appropriation account under subsection (a)(1) by more than 1 percent.
 
 #### (e) Rule of construction ####
 
 This section may not be construed as affecting the authorities of the Director of NIH under section 281 of this title.
 
-(July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685.)
+(July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087.)
+
+#### Amendments ####
+
+**2014**—Subsec. (a). Pub. L. 113–94, §3(b)(1)(B), which directed amendment of subsec. (a) by striking “For purposes of carrying out this subchapter” and inserting par. (1) designation, heading, and “For purposes of carrying out this subchapter”, was executed by striking “For the purpose of carrying out this subchapter” and making the insertions as directed, to reflect the probable intent of Congress.
+
+Pub. L. 113–94, §3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned margins.
+
+Subsec. (a)(2). Pub. L. 113–94, §3(b)(1)(C), added par. (2).
+
+Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, §3(b)(2), substituted “subsection (a)(1)” for “subsection (a)” wherever appearing.
 
 #### Effective Date ####
 
 Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
+
+#### Supplement, Not Supplant; Prohibition Against Transfer ####
+
+Pub. L. 113–94, §3(c), Apr. 3, 2014, 128 Stat. 1087, provided that:
+
+“Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act [42 U.S.C. 282a(a)(2)], as added by subsection (b)—
+
+“(1) shall be used to supplement, not supplant, the funds otherwise allocated by the National Institutes of Health for pediatric research; and
+
+“(2) notwithstanding any transfer authority in any appropriation Act, shall not be used for any purpose other than allocating funds for making grants as described in section 402(b)(7)(B)(ii) of the Public Health Service Act [42 U.S.C. 282(b)(7)(B)(ii)], as added by subsection (a).”

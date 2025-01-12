@@ -428,11 +428,39 @@ William J. Clinton.
 
 #### Continuance of Certain Federal Advisory Committees ####
 
-Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, provided:
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, provided:
 
-By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. Each advisory committee listed below is continued until September 30, 2015.
+Section 1. Each advisory committee listed below is continued until September 30, 2013.
+
+(a) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
+
+(b) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
+
+(c) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532 (Department of Education).
+
+(d) President's Management Advisory Board; Executive Order 13538 (General Services Administration).
+
+(e) President's Council of Advisors on Science and Technology; Executive Order 13539 (Office of Science and Technology Policy).
+
+(f) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
+
+(g) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549, as amended (National Archives and Records Administration).
+
+Sec. 2. The following advisory committee is continued until September 30, 2012: Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544 (Department of Health and Human Services).
+
+Sec. 3. [Amended Ex. Ord. No. 13530, set out as a note under section 9701 of Title 20, Education.]
+
+Sec. 4. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in sections 1 and 2 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+Barack Obama.
+
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, as amended by Ex. Ord. No. 13592, §5(c), Dec. 2, 2011, 76 F.R. 76607, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+
+Section 1. Each advisory committee listed below is continued until September 30, 2013.
 
 (a) Committee for the Preservation of the White House; Executive Order 11145, as amended (Department of the Interior).
 
@@ -460,55 +488,21 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (m) President's Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
 
-(n) President's Advisory Council on Faith-Based and Neighborhood Partnerships; Executive Order 13498, re-established by Executive Order 13569, and continued by Executive Order 13640 (Department of Health and Human Services).
+(n) [Revoked by Ex. Ord. No. 13592, §5(c), Dec. 2, 2011, 76 F.R. 76607.]
 
-(o) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515, as amended (Department of Education).
+(o) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515 (Department of Education).
 
-(p) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
+Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
-(q) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
+Sec. 3. Sections 1 and 2 of Executive Order 13511 are superseded by sections 1 and 2 of this order.
 
-(r) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532, as amended (Department of Education).
+Sec. 4. [Amended Ex. Ord. No. 13515, set out as a note under section 1501 of Title 15, Commerce and Trade.]
 
-(s) President's Management Advisory Board; Executive Order 13538 (General Services Administration).
-
-(t) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
-
-(u) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
-
-(v) Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544, re-established by Executive Order 13631 (Department of Health and Human Services).
-
-(w) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549, as amended (National Archives and Records Administration).
-
-(x) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555, re-established by Executive Order 13634 (Department of Education).
-
-(y) President's Global Development Council; Executive Order 13600 (United States Agency for International Development).
-
-(z) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
-
-Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the regulations, guidelines, and procedures established by the Administrator of General Services.
-
-Sec. 3. Sections 1 and 2 of Executive Order 13585 of September 30, 2011, and sections 1, 2, and 4 of Executive Order 13591 of November 23, 2011, are superseded by sections 1 and 2 of this order.
-
-Sec. 4. [Amended Ex. Ord. No. 13538, set out as a note under section 301 of Title 40, Public Buildings, Property, and Works.]
-
-Sec. 5. [Amended Ex. Ord. No. 13043, set out as a note under section 402 of Title 23, Highways.]
-
-Sec. 6. [Amended Ex. Ord. No. 13231, set out as a note under section 121 of Title 6, Domestic Security.]
-
-Sec. 7. [Amended Ex. Ord. No. 13600, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.]
-
-Sec. 8. [Amended Ex. Ord. No. 13515, set out as a note under section 1501 of Title 15, Commerce and Trade.]
-
-Sec. 9. This order shall be effective September 30, 2013.
+Sec. 5. This order shall be effective September 30, 2011.
 
 Barack Obama.
 
 Provisions providing for the continuance of certain Federal advisory committees were contained in the following:
-
-Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, partially superseded by Ex. Ord. No. 13652, §3, Sept. 30, 2013, 78 F.R. 61818.
-
-Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, as amended by Ex. Ord. No. 13592, §5(c), Dec. 2, 2011, 76 F.R. 76607, partially superseded by Ex. Ord. No. 13652, §3, Sept. 30, 2013, 78 F.R. 61818.
 
 Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, partially superseded by Ex. Ord. No. 13585, §3, Sept. 30, 2011, 76 F.R. 62281.
 
@@ -721,7 +715,7 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 (3) For the purposes of this section, the requirement of the designation of a Whistleblower Protection Ombudsman under paragraph (1)(C) shall not apply to—
 
-(A) any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) [50 U.S.C. 3003(4)]); or
+(A) any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))[50 U.S.C. 3003(4)]); or
 
 (B) as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counter intelligence activities.
 
@@ -2129,8 +2123,6 @@ Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100�
 
 #### Inspector General at the Commission on Civil Rights ####
 
-Pub. L. 113–76, div. B, title IV, Jan. 17, 2014, 128 Stat. 75, provided in part: “That the Inspector General for the Commission on Civil Rights (CCR IG), as provided in Public Law 113–6 [set out below], is authorized to close out all work related to pending or closed investigations, to complete pending investigations, and to terminate all activities related to the duties, responsibilities and authorities of the CCR IG: *Provided further*, That when the CCR IG concludes that all pending investigations have been completed, all work related to pending or closed investigations has been closed out, and all activities related to the duties, responsibilities and authorities of the CCR IG have ended, the CCR IG shall certify that conclusion to the Committees on Appropriations of the House of Representatives and the Senate, and the Office of the CCR IG shall then be terminated”.
-
 Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, provided in part: “That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978 [Pub. L. 95–452, set out in this Appendix]: *Provided further*, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: *Provided further*, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights”.
 
 Similar provisions were contained in the following prior appropriation act:
@@ -2359,11 +2351,9 @@ Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided t
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board ####
 
-Pub. L. 113–76, div. G, title III, Jan. 17, 2014, 128 Stat. 332, provided in part: “That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
+Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1031, provided in part: “That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
 
 Similar provisions were contained in the following prior appropriations acts:
-
-Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1031.
 
 Pub. L. 111–88, div. A, title III, Oct. 30, 2009, 123 Stat. 2950.
 

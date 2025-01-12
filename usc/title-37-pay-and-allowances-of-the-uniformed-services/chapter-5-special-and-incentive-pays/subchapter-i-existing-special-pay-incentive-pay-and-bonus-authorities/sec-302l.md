@@ -16,15 +16,13 @@
 
 (f) Coordination With Other Accession Bonus Authority.—A person eligible to execute an agreement under both subsection (a) and section 302h of this title shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
 
-(g) Termination of Authority.—No agreement under this section may be entered into after December 31, 2014.
+(g) Termination of Authority.—No agreement under this section may be entered into after December 31, 2013.
 
-(Added Pub. L. 109–364, div. A, title VI, §617(c), Oct. 17, 2006, 120 Stat. 2250; amended Pub. L. 110–181, div. A, title VI, §612(i), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, [div. A], title VI, §612(i), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §612(b)(8), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(8), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §612(b)(8), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(8), Dec. 26, 2013, 127 Stat. 780.)
+(Added Pub. L. 109–364, div. A, title VI, §617(c), Oct. 17, 2006, 120 Stat. 2250; amended Pub. L. 110–181, div. A, title VI, §612(i), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, [div. A], title VI, §612(i), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §612(b)(8), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(8), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §612(b)(8), Jan. 2, 2013, 126 Stat. 1776.)
 
 #### Amendments ####
 
-**2013**—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
-
-Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 **2011**—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 

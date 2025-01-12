@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Section, Pub. L. 96–481, title III, §301(a)–(d), Oct. 21, 1980, 94 Stat. 2330, which related to establishment, staffing, functions, evaluation, and reporting requirements of export promotion centers, terminated Oct. 1, 1983.
+Section, Pub. L. 98–481, title III, §301(a)–(d), Oct. 21, 1980, 94 Stat. 2330, which related to establishment, staffing, functions, evaluation, and reporting requirements of export promotion centers, terminated Oct. 1, 1983.
 
 #### Effective and Termination Dates ####
 

@@ -844,6 +844,8 @@ Sec.
 
 1395m. Special payment rules for particular items and services.
 
+1395m–1. Improving policies for clinical diagnostic laboratory tests.
+
 1395n. Procedure for payment of claims of providers of services.
 
 1395 o. Eligible individuals.
