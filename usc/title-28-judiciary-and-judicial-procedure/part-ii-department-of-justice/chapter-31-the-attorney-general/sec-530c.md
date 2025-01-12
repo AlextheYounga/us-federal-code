@@ -140,10 +140,6 @@ Section 815(d) of Public Law 104–132, referred to in subsec. (a)(5), is sectio
 
 Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24, 1999, 113 Stat. 1497, which amended section 3771 of Title 42, The Public Health and Welfare.
 
-#### Abolition of Immigration and Naturalization Service and Transfer of Functions ####
-
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
-
 #### Amendments ####
 
 **2013**—Subsec. (b)(1)(L)(i). Pub. L. 112–265, §2(a)(1), substituted “$3,000,000” for “$2,000,000” in introductory provisions.
@@ -151,6 +147,10 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 Subsec. (b)(1)(M). Pub. L. 112–265, §2(a)(2), added subpar. (M).
 
 **2004**—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions ####
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Use of Federal Training Facilities ####
 

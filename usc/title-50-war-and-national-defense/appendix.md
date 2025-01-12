@@ -210,9 +210,9 @@ NOW, THEREFORE, by virtue of the authority vested in me by section 5 of the Pana
 
 The foregoing regulations are in addition to the “Rules and Regulations for the Operation and Navigation of the Panama Canal and Approaches Thereto, including all Waters under its Jurisdiction” prescribed by Executive Order No. 4314 of September 25, 1925, as amended, and the provisions of proclamations and executive orders pertaining to the Canal Zone issued in conformity with the laws and treaties of the United States.
 
-Proc. No. 2350, eff. Sept. 5, 1939, 4 F.R. 3821, 54 Stat. 2368, referred to regulations concerning neutrality in the Canal Zone.
-
 Franklin D. Roosevelt.
+
+Proc. No. 2350, eff. Sept. 5, 1939, 4 F.R. 3821, 54 Stat. 2368, referred to regulations concerning neutrality in the Canal Zone.
 
 #### Ex. Ord. No. 9723. Termination of President's War Relief Control Board ####
 
@@ -870,7 +870,7 @@ Ex. Ord. No. 9325, Apr. 7, 1943, 8 F.R. 1682, provided:
 
 Franklin D. Roosevelt.
 
-#### Ex. Ord. No. 9747. Functions of Alien Property Custodian and Treasury Department Continued in Philippines ####
+#### Executive Order No. 9747 ####
 
 Ex. Ord. No. 9747, July 3, 1946, 11 F.R. 7518, provided that the powers of the Alien Property Custodian under Ex. Ord. No. 9095, formerly set out above, should continue to be exercised in the Philippines after July 4, 1946. It also provided that the Secretary of the Treasury should continue to exercise his powers in the Philippines under Ex. Ord. No. 8389, eff. Apr. 10, 1940, set out as a note under section 95a of Title 12, Banks and Banking.
 
@@ -888,7 +888,7 @@ Ex. Ord. No. 9760, July 23, 1946, 11 F.R. 7999, provided:
 
 5. The Secretary of State is authorized to prescribe from time to time regulations, rulings, and instructions to carry out the purposes of this order.
 
-Harry S Truman.
+Harry S. Truman.
 
 #### Ex. Ord. No. 9788. Termination of Office of World War II Alien Property Custodian and Transference of Its Functions to the Attorney General ####
 
@@ -904,7 +904,7 @@ Ex. Ord. No. 9788, Oct. 14, 1946, 11 F.R. 11981, provided:
 
 5. This order shall become effective on October 15, 1946.
 
-Harry S Truman.
+Harry S. Truman.
 
 #### Executive Order No. 9818 ####
 
@@ -1346,17 +1346,19 @@ After the end of the war any claim of any enemy or of an ally of enemy to any mo
 
 Functions of Alien Property Custodian and Office of Alien Property Custodian, except those relating to property or interest in Philippines, vested in Attorney General. See notes set out under section 6 of this Appendix.
 
-#### Delegation of Power ####
-
-Ex. Ord. No. 6237–A, eff. July 30, 1933, provided:
-
-“I hereby vest in the Alien Property Custodian, and in the event of his death, resignation, absence, or disability, in the General Counsel, and in the event of his death, resignation, absence, or disability during his period of authority, then in the Director of Finance and Accounts of the Office of the Alien Property Custodian, all power and authority conferred upon me by the provisions of the act approved October 6, 1917, known as the “Trading With the Enemy Act,” as amended [sections 1 to 6, 7 to 39, and 41 to 44 of this Appendix] pertaining to the deposit, transfer, and payment of moneys, and interest which may have accrued thereon, which may be or have been deposited with the Treasurer of the United States, and to release and deliver property held under and by virtue of said acts: *Provided, however*, That all claims which are required to be submitted to the Attorney General and to the President, as provided in Executive Order No. 4862 of April 23, 1928, shall continue to be submitted to the Attorney General and to the President. Any order of payment of money, and interest, which may be executed by said officials shall constitute a ratification of all previous orders or acts, by virtue of which the funds in the possession of the Treasurer of the United States have been placed to the credit of the particular trusts on which such orders are drawn. I hereby revoke all former orders in conflict herewith.”
-
-Ex. Ord. No. 7894, eff. May 23, 1938, 3 F.R. 998 authorized and directed “the Attorney General of the United States to exercise all power and authority conferred upon the President by section 12 of the said [Trading with the Enemy] act, as amended [section 12 of this Appendix].”
-
 #### World War II Alien Property Custodian ####
 
 Reestablishment and termination of Office of Alien Property Custodian during World War II, see notes set out under section 6 of this Appendix.
+
+#### Ex. Ord. No. 6237–A. Vesting Certain Power and Authority in the Alien Property Custodian ####
+
+Ex. Ord. No. 6237–A, eff. July 30, 1933, provided:
+
+I hereby vest in the Alien Property Custodian, and in the event of his death, resignation, absence, or disability, in the General Counsel, and in the event of his death, resignation, absence, or disability during his period of authority, then in the Director of Finance and Accounts of the Office of the Alien Property Custodian, all power and authority conferred upon me by the provisions of the act approved October 6, 1917, known as the “Trading With the Enemy Act,” as amended [sections 1 to 6, 7 to 39, and 41 to 44 of this Appendix] pertaining to the deposit, transfer, and payment of moneys, and interest which may have accrued thereon, which may be or have been deposited with the Treasurer of the United States, and to release and deliver property held under and by virtue of said acts: *Provided, however*, That all claims which are required to be submitted to the Attorney General and to the President, as provided in Executive Order No. 4862 of April 23, 1928, shall continue to be submitted to the Attorney General and to the President. Any order of payment of money, and interest, which may be executed by said officials shall constitute a ratification of all previous orders or acts, by virtue of which the funds in the possession of the Treasurer of the United States have been placed to the credit of the particular trusts on which such orders are drawn. I hereby revoke all former orders in conflict herewith.
+
+#### Executive Order No. 7894 ####
+
+Ex. Ord. No. 7894, eff. May 23, 1938, 3 F.R. 998, authorized and directed the Attorney General of the United States to exercise all power and authority conferred upon the President by section 12 of the Trading with the Enemy Act, as amended.
 
 ### §13. Statements by masters of vessels and owners of cargoes before granting clearances ###
 
@@ -2974,7 +2976,7 @@ Proc. No. 4101, Jan. 13, 1972, 37 F.R. 659, which concerned the supplementing of
 
 Proc. No. 4360, Mar. 29, 1975, 40 F.R. 14567, 89 Stat. 1255, provided:
 
-Under authority vested in the President by the Military Selective Service Act (62 Stat. 604), as amended [see References In Text note set out under section 451 of this Appendix], procedures have been established for the registration of male citizens of the United States and of other male persons who are subject to registration under section 3 of said act, as amended (85 Stat. 348) [this section].
+Under authority vested in the President by the Military Selective Service Act (62 Stat. 604), as amended [see References in Text note set out under section 451 of this Appendix], procedures have been established for the registration of male citizens of the United States and of other male persons who are subject to registration under section 3 of said act, as amended (85 Stat. 348) [this section].
 
 In order to evaluate an annual registration system, existing procedures are being terminated and will be replaced by new procedures which will provide for periodic registration.
 

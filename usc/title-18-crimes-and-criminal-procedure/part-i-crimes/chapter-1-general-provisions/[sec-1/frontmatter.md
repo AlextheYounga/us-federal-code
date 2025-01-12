@@ -8,6 +8,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2013 Amendment ####
 
+Pub. L. 113–47, §1, Oct. 31, 2013, 127 Stat. 572, provided that: “This Act [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2013’.”
+
 Pub. L. 113–12, §1, June 3, 2013, 127 Stat. 448, provided that: “This Act [amending section 704 of this title] may be cited as the ‘Stolen Valor Act of 2013’.”
 
 Pub. L. 112–269, §1, Jan. 14, 2013, 126 Stat. 2442, provided that: “This Act [amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Foreign and Economic Espionage Penalty Enhancement Act of 2012’.”
