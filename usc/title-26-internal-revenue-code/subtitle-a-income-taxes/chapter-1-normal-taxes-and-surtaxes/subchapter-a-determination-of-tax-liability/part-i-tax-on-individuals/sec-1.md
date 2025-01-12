@@ -1144,13 +1144,17 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2016 Amendment ####
+
+Pub. L. 114–141, §1(a), Mar. 30, 2016, 130 Stat. 322, provided that: "This Act [amending sections 4081, 4083, 4261, 4271, and 9502 of this title and sections 106, 41742, 47104, 47107, 47115, 47124, 47141, and 48101 to 48103 of Title 49, Transportation, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2016'."
+
 #### Short Title of 2015 Amendment ####
 
 Pub. L. 114–113, div. Q, §1(a), Dec. 18, 2015, 129 Stat. 3040, provided that: "This division [see Tables for classification] may be cited as the 'Protecting Americans from Tax Hikes Act of 2015'."
 
 Pub. L. 114–74, §1, Nov. 2, 2015, 129 Stat. 584, provided that: "This Act [see Tables for classification] may be cited as the 'Bipartisan Budget Act of 2015'."
 
-Pub. L. 114–55, §1(a), Sept. 30, 2015, 129 Stat. 522, provided that: "This Act [amending sections 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 47104, 47107, 47115, 47124, 47141, 48101 to 48103, and 48114 of Title 49, Transportation, section 50905 of Title 51, National and Commercial Space Programs, amending provisions set out as a note preceding section 42301 of Title 49, and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2015'."
+Pub. L. 114–55, §1(a), Sept. 30, 2015, 129 Stat. 522, provided that: "This Act [amending sections 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 47104, 47107, 47115, 47124, 47141, 48101 to 48103, and 48114 of Title 49, Transportation, and section 50905 of Title 51, National and Commercial Space Programs, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2015'."
 
 Pub. L. 114–26, §1, June 29, 2015, 129 Stat. 319, provided that: "This Act [see Tables for classification] may be cited as the 'Defending Public Safety Employees' Retirement Act'."
 
