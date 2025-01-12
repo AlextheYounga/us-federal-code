@@ -8,7 +8,7 @@ Sec.
 
 6203. Establishment of the Chief Executive Officer of the Broadcasting Board of Governors.
 
-6204. Authorities of Board.
+6204. Authorities of Chief Executive Officer.
 
 6205. Establishment of the International Broadcasting Advisory Board.
 

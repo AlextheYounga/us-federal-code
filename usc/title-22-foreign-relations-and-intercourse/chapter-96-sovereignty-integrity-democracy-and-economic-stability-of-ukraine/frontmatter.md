@@ -18,4 +18,6 @@ Sec.
 
 8908. Sanctions on persons in the Russian Federation complicit in or responsible for significant corruption.
 
-8909. Repealed.
+8909. Mandatory imposition of sanctions with respect to certain transactions with persons that evade sanctions imposed with respect to the Russian Federation.
+
+8910. Mandatory imposition of sanctions with respect to transactions with persons responsible for human rights abuses.

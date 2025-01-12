@@ -34,6 +34,8 @@ Sec.
 
 1232b. Requirement to notify Coast Guard of release of objects into the navigable waters of the United States.
 
+1232c. Prohibition on entry and operation.
+
 1233. Regulations as to regattas or marine parades.
 
 1234. Enforcement of regulations; use of public or private vessels.

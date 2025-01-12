@@ -40,7 +40,7 @@ Rule
 
 1009. Amendments of Voluntary Petitions, Lists, Schedules and Statements.
 
-1010. Service of Involuntary Petition and Summons
+1010. Service of Involuntary Petition and Summons.
 
 1011. Responsive Pleading or Motion in Involuntary Cases.
 
@@ -1174,7 +1174,7 @@ The Federal Rules of Civil Procedure, referred to in subds. (b) and (c), are set
 
 #### Notes of Advisory Committee on Rules—1987 ####
 
-This rule [former Rule 1012—Examination of Debtor, Including Discovery, on Issue of Nonpayment of Debts in Involuntary Cases] is abrogated [Abrogated Mar. 30, 1987, eff. Aug. 1, 1987]. The discovery rules apply whenever an involuntary petition is contested. Rule 1018.
+This rule [former Rule 1012—Examination of Debtor, Including Discovery, on Issue of Nonpayment of Debts in Involuntary Cases] is abrogated [abrogated Mar. 30, 1987, eff. Aug. 1, 1987]. The discovery rules apply whenever an involuntary petition is contested. Rule 1018.
 
 #### Committee Notes on Rules—2016 Amendment ####
 
@@ -1788,7 +1788,7 @@ This rule is amended to conform to §303(g) of the Code which provides that the 
 
 (2) *Notice of Court's Intention to Communicate with Foreign Courts and Foreign Representatives*. The clerk, or some other person as the court may direct, shall give the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and such other entities as the court may direct, notice by mail of the court's intention to communicate with a foreign court or foreign representative.
 
-(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2011.)
+(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 

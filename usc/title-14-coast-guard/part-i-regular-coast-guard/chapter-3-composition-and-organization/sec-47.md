@@ -14,9 +14,9 @@ The provisions regarding appointment of the Assistant Commandant and Engineer in
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–120, §209(3), substituted "Commandant" for "commandant" in heading.
+**2016**—Pub. L. 114–120, §209(3), substituted "Commandant" for "commandant" in section catchline.
 
-Pub. L. 114–120, §201(b), substituted "admiral" for "vice admiral".
+Pub. L. 114–120, §201(b), substituted "grade of admiral" for "grade of vice admiral".
 
 **2010**—Pub. L. 111–281 substituted "Vice commandant; appointment" for "Vice Commandant; assignment" in section catchline and "section 51(d)" for "subsection 51(d)" in text.
 

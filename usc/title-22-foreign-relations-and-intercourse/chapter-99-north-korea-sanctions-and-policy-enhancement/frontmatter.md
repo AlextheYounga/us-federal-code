@@ -20,6 +20,8 @@ Sec.
 
 9221. Determinations with respect to North Korea as a jurisdiction of primary money laundering concern.
 
+9221a. Prohibition on indirect correspondent accounts.
+
 9222. Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea.
 
 9223. Proliferation prevention sanctions.
@@ -43,6 +45,10 @@ Sec.
 #### SUBCHAPTER III—PROMOTION OF HUMAN RIGHTS ####
 
 9241. Strategy to promote North Korean human rights.
+
+9241a. Rebuttable presumption applicable to goods made with North Korean labor.
+
+9241b. Sanctions on foreign persons employing North Korean labor.
 
 9242. Report on North Korean prison camps.
 

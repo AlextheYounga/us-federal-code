@@ -1,4 +1,4 @@
-### §579c. Backlog prevention ###
+### §579c. Backlog prevention: projects from Public Law 113–121 ###
 
 #### (a) Project deauthorization ####
 

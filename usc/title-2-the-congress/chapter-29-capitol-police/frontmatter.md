@@ -76,7 +76,7 @@ Sec.
 
 1951. Establishment of United States Capitol Police Memorial Fund.
 
-1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut.
+1952. Payments from Fund for families of Detective Gibson and Private First Class Chestnut and certain other United States Capitol Police employees.
 
 1953. Tax treatment of Fund.
 

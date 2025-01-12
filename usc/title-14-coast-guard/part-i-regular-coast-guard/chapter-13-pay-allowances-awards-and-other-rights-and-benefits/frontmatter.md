@@ -112,7 +112,7 @@ Sec.
 
 518. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States.
 
-519 . Annual audit of pay and allowances of members undergoing permanent change of station.
+519. Annual audit of pay and allowances of members undergoing permanent change of station.
 
 520. Prospective payment of funds necessary to provide medical care.
 

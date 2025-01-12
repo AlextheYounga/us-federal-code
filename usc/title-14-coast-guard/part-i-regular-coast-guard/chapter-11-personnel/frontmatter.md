@@ -220,7 +220,7 @@ The subject matter seemed to break down into the sub-heads of "Commissioned Offi
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–120, title II, §214(a)(2), 215(b)(2), 220(b), 222(b), Feb. 8, 2016, 130 Stat. 43, 46, 48, 50, added items 357, 429, 430, and 431 and struck out former item 357 "Involuntary retirement of enlisted members".
+**2016**—Pub. L. 114–120, title II, §§214(a)(2), 215(b)(2), 220(b), 222(b), Feb. 8, 2016, 130 Stat. 43, 46, 48, 50, added items 357, 429, 430, and 431 and struck out former item 357 "Involuntary retirement of enlisted members".
 
 **2014**—Pub. L. 113–281, title II, §212(b), title III, §305(b)(2), Dec. 18, 2014, 128 Stat. 3029, 3044, added items 296 and 428.
 

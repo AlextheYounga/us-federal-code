@@ -925,7 +925,7 @@ Under the amended rule, the complaint and supporting material may be submitted b
 
 (b) undertaken by a foreign authority in response to a letter rogatory, a letter of request, or a request submitted under an applicable international agreement; or
 
-(c)	permitted by an applicable international agreement.
+(c) permitted by an applicable international agreement.
 
 (4) *Return.*
 
