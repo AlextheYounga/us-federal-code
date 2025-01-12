@@ -808,15 +808,15 @@ Subsec. (f). Pub. L. 96–499 added subsec. (f).
 
 **1978**—Subsec. (a)(2)(A). Pub. L. 95–292 provided for computation of and charging of coinsurance amounts for items and services furnished individuals with end stage renal disease on the basis established by the Secretary.
 
-**1977**—Subsec. (a)(3). Pub. L. 95–142, §8(b)(1), added par. (3).
+**1977**—Subsec. (a)(1)(D). Pub. L. 95–142, §15(a), added subpar. (D).
 
-Subsec. (b)(2)(G). Pub. L. 95–142, §8(b)(2), added cl. (G).
-
-Subsec. (a)(1)(D). Pub. L. 95–142, §15(a), added subpar. (D).
+Subsec. (a)(3). Pub. L. 95–142, §8(b)(1), added par. (3).
 
 Subsec. (b)(2)(C). Pub. L. 95–142, §3(b), designated existing provisions as subcl. (i) and added subcl. (ii).
 
 Subsec. (b)(2)(F). Pub. L. 95–142, §13(b)(3), substituted "of a quality which fails to meet professionally recognized standards of health care" for "harmful to individuals or to be of a grossly inferior quality", and struck out provisions relating to approval by an appropriate program review team.
+
+Subsec. (b)(2)(G). Pub. L. 95–142, §8(b)(2), added cl. (G).
 
 Subsec. (c)(2). Pub. L. 95–210 substituted "section 1396i(a) of this title" for "section 1396i of this title".
 
