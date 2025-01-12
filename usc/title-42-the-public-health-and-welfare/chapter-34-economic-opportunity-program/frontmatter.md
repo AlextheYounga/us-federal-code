@@ -6,9 +6,7 @@ Sec.
 
 2704. Discontinued Job Corps centers; utilization for special youth programs.
 
-2705, 2706. Repealed.
-
-2707. Authorization of appropriations.
+2705 to 2707. Repealed or Omitted.
 
 #### SUBCHAPTER I—RESEARCH AND DEMONSTRATIONS ####
 

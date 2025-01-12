@@ -6,7 +6,7 @@ I. Pension, profit-sharing, stock bonus plans, etc.
 
 II. Certain stock options.
 
-III Rules relating to minimum funding standards and benefit limitations. 1
+III. 1 Rules relating to minimum funding standards and benefit limitations. 1
 
 #### Amendments ####
 
