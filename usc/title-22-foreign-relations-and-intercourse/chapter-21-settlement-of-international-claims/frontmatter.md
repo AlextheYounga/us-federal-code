@@ -6,7 +6,7 @@ Sec.
 
 1621. Definitions.
 
-1622. Establishment of Commission.
+1622. Establishment of International Claims Commission.
 
 1622a. Transfer of Foreign Claims Settlement Commission of the United States to Department of Justice.
 

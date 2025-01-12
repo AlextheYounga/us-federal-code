@@ -32,7 +32,7 @@
 
 (4) one-half of the fees collected under section 1930(a)(5) of this title;
 
-(5) 100 percent of the fees collected under section 1930(a)(6) of this title;
+(5) 100 percent of the fees collected under section 1930(a)(6) of this title; <sup><a href="#589a_1_target" name="589a_1">1</a></sup>
 
 (6) three-fourths of the fees collected under the last sentence of section 1930(a) of this title;
 
@@ -123,3 +123,13 @@ Pub. L. 102–140, title I, §111, Oct. 28, 1991, 105 Stat. 795, provided that t
 #### Effective Date ####
 
 Section effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
+
+#### Deposits of Certain Fees for Fiscal Years 2018 Through 2022 ####
+
+Pub. L. 115–72, div. B, §1004(b), Oct. 26, 2017, 131 Stat. 1232, provided that: "Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2018 through 2022—
+
+"(1) 98 percent of the fees collected under section 1930(a)(6) of such title shall be deposited as offsetting collections to the appropriation 'United States Trustee System Fund', to remain available until expended; and
+
+"(2) 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury."
+
+[<sup>1</sup> See Deposits of Certain Fees for Fiscal Years 2018 Through 2022 note below.](#589a_1)

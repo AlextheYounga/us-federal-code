@@ -58,4 +58,22 @@
 
 The National Security Act of 1947, referred to in subsec. (f), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Elevation of U.S. Cyber Command to a Unified Combatant Command ####
+
+Memorandum of President of the United States, Aug. 15, 2017, 82 F.R. 39953, provided:
+
+Memorandum for the Secretary of Defense
+
+Pursuant to my authority as the Commander in Chief and under sections 161 and 167b of title 10, United States Code, and in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, I direct that U.S. Cyber Command be established as a Unified Combatant Command. I also direct the Secretary of Defense to recommend an officer for my nomination and Senate confirmation as commander in order to establish U.S. Cyber Command as a Unified Combatant Command.
+
+I assign to U.S. Cyber Command: (1) all the general responsibilities of a Unified Combatant Command; (2) the cyberspace-related responsibilities previously assigned to the Commander, U.S. Strategic Command; (3) the responsibilities of Joint Force Provider and Joint Force Trainer; and (4) all other responsibilities identified in section 167b of title 10, United States Code. The comprehensive list of authorities and responsibilities for U.S. Cyber Command will be included in the next update to the Unified Command Plan.
+
+I further direct that the Secretary of Defense, in coordination with the Director of National Intelligence, provide a recommendation and, as appropriate, a plan to me regarding the future command relationship between the U.S. Cyber Command and the National Security Agency.
+
+Consistent with section 161(b)(2) of title 10, United States Code, and section 301 of title 3, United States Code, you are directed to notify the Congress on my behalf.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 [<sup>1</sup> So in original. Probably should be "2016".](#167b_1)

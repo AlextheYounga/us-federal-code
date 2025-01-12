@@ -88,7 +88,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2016–09, Aug. 4, 2016, 81 F.R. 55107.
+Colombia.—Determination No. 2017–10, July 21, 2017, 82 F.R. 40667.
+
+Determination No. 2016–09, Aug. 4, 2016, 81 F.R. 55107.
 
 Determination No. 2015–10, Aug. 5, 2015, 80 F.R. 50755.
 
