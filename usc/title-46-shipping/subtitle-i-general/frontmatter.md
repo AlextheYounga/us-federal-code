@@ -9,6 +9,8 @@ Chapter Sec.
 
 5. Other General Provisions 501
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], §8605(b)(4), Jan. 1, 2021, 134 Stat. 4765, struck out item for chapter 3 "Federal Maritime Commission".

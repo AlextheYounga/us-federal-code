@@ -29,7 +29,7 @@ Chapter Sec.
 
 [225. Repealed.]
 
-227. State rail plans 1 22701
+227. State rail plans 2 22701
 
 229. Rail Improvement Grants 22901
 
@@ -37,7 +37,7 @@ Chapter Sec.
 
 241. General 24101
 
-242. Project delivery 1 24201
+242. Project delivery 3 24201
 
 243. Amtrak 24301
 
@@ -49,7 +49,7 @@ Chapter Sec.
 
 249. Northeast Corridor Improvement Program 24901
 
-251. Passenger rail planning 1 25101
+251. Passenger rail planning 4 25101
 
 #### PART D—HIGH-SPEED RAIL ####
 
@@ -89,4 +89,10 @@ Pub. L. 110–432, div. B, title III, §303(b), Oct. 16, 2008, 122 Stat. 4951, w
 
 **1994**—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261, struck out former part D "MISCELLANEOUS" and former item for chapter 261 "Law Enforcement . . . 26101", and added part E and item for chapter 281.
 
-[<sup>1</sup> Capitalizations in item so in original.](#SUBTITLEV_1)
+[<sup>1</sup> So in original. Probably should be "Railroad Rehabilitation and Improvement Financing".](#SUBTITLEV_1)
+
+[<sup>2</sup> So in original. Probably should be "State Rail Plans".](#SUBTITLEV_2)
+
+[<sup>3</sup> So in original. Probably should be "Project Delivery".](#SUBTITLEV_3)
+
+[<sup>4</sup> So in original. Probably should be "Passenger Rail Planning".](#SUBTITLEV_4)
