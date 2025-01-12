@@ -44,6 +44,8 @@ Sec.
 
 3034. Chief Financial Officer of the Intelligence Community.
 
+3034a. Functional Managers for the intelligence community.
+
 3035. Central Intelligence Agency.
 
 3036. Director of the Central Intelligence Agency.
@@ -58,11 +60,13 @@ Sec.
 
 3041. Appointment of officials responsible for intelligence-related activities.
 
+3041a. Director of the National Reconnaissance Office.
+
 3042. Emergency preparedness.
 
 3043. Annual national security strategy report.
 
-3044. Repealed.
+3044. Software licensing.
 
 3045. National mission of National Geospatial-Intelligence Agency.
 
@@ -74,7 +78,7 @@ Sec.
 
 3049. Non-reimbursable detail of other personnel.
 
-3050. Additional annual reports from the Director of National Intelligence.
+3050. Annual report on hiring and retention of minority employees.
 
 3051. Repealed.
 
@@ -142,9 +146,15 @@ Sec.
 
 3105. Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba.
 
+3105a. Annual assessment of intelligence community performance by function.
+
 3106. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees.
 
 3107. Certification of compliance with oversight requirements.
+
+3108. Auditability of certain elements of the intelligence community.
+
+3109. Significant interpretations of law concerning intelligence activities.
 
 #### SUBCHAPTER IV—PROTECTION OF CERTAIN NATIONAL SECURITY INFORMATION ####
 
@@ -235,6 +245,8 @@ Sec.
 3232. Counterintelligence initiatives.
 
 3233. Misuse of the Office of the Director of National Intelligence name, initials, or seal.
+
+3234. Prohibited personnel practices in the intelligence community.
 
 #### Codification ####
 

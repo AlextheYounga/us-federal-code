@@ -86,7 +86,7 @@ Sec.
 
 2366. Repealed.
 
-2367. Reports on Acquisition of Technology Relating to Weapons of Mass Destruction and the Threat Posed by Weapons of Mass Destruction, Ballistic Missiles, and Cruise Missiles.
+2367. Reports on acquisition of technology relating to weapons of mass destruction and the threat posed by weapons of mass destruction, ballistic missiles, and cruise missiles.
 
 2368. Annual reports on the proliferation of missiles and essential components of nuclear, biological, chemical, and radiological weapons.
 

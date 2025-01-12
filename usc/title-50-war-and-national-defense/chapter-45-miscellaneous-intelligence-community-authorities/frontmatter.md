@@ -20,9 +20,11 @@ Sec.
 
 3308. Information access by the Comptroller General of the United States.
 
-3309. Annual report on advisory committees.
+3309. Notification of establishment of advisory committee.
 
 3310. Annual report on United States security arrangements and commitments with other nations.
+
+3311. Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations.
 
 #### SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES ####
 
@@ -44,6 +46,8 @@ Sec.
 
 3329. Intelligence community contracting.
 
+3330. Reports to the intelligence community on penetrations of networks and information systems of certain contractors.
+
 #### SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION ####
 
 3341. Security clearances.
@@ -61,6 +65,8 @@ Sec.
 3347. Secrecy agreements used in intelligence activities.
 
 3348. Reports relating to certain special access programs and similar programs.
+
+3349. Notification regarding the authorized public disclosure of national intelligence.
 
 #### SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE ####
 

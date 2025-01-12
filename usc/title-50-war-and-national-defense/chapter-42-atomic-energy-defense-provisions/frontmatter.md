@@ -88,6 +88,8 @@ Sec.
 
 2567. Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina.
 
+2568. Authority to use international nuclear materials protection and cooperation program funds outside the former Soviet Union.
+
 2569. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide.
 
 2570. Silk Road Initiative.

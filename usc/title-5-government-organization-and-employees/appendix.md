@@ -3,15 +3,15 @@
 TITLE 5—APPENDIX
 ==========
 
-Item Page
+Item
 
-Federal Advisory Committee Act (Pub. L. 92–463) 491
+Federal Advisory Committee Act (Pub. L. 92–463)
 
-Inspector General Act of 1978 (Pub. L. 95–452) 501
+Inspector General Act of 1978 (Pub. L. 95–452)
 
-Ethics in Government Act of 1978 (Titles I to V of Pub. L. 95–521) 549
+Ethics in Government Act of 1978 (Titles I to V of Pub. L. 95–521)
 
-Reorganization Plans 582
+Reorganization Plans
 
 FEDERAL ADVISORY COMMITTEE ACT
 ==========
@@ -428,39 +428,11 @@ William J. Clinton.
 
 #### Continuance of Certain Federal Advisory Committees ####
 
-Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, provided:
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. Each advisory committee listed below is continued until September 30, 2013.
-
-(a) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
-
-(b) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
-
-(c) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532 (Department of Education).
-
-(d) President's Management Advisory Board; Executive Order 13538 (General Services Administration).
-
-(e) President's Council of Advisors on Science and Technology; Executive Order 13539 (Office of Science and Technology Policy).
-
-(f) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
-
-(g) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549, as amended (National Archives and Records Administration).
-
-Sec. 2. The following advisory committee is continued until September 30, 2012: Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544 (Department of Health and Human Services).
-
-Sec. 3. [Amended Ex. Ord. No. 13530, set out as a note under section 9701 of Title 20, Education.]
-
-Sec. 4. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in sections 1 and 2 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the guidelines and procedures established by the Administrator of General Services.
-
-Barack Obama.
-
-Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, as amended by Ex. Ord. No. 13592, §5(c), Dec. 2, 2011, 76 F.R. 76607, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
-
-Section 1. Each advisory committee listed below is continued until September 30, 2013.
+Section 1. Each advisory committee listed below is continued until September 30, 2015.
 
 (a) Committee for the Preservation of the White House; Executive Order 11145, as amended (Department of the Interior).
 
@@ -488,21 +460,55 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (m) President's Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
 
-(n) [Revoked by Ex. Ord. No. 13592, §5(c), Dec. 2, 2011, 76 F.R. 76607.]
+(n) President's Advisory Council on Faith-Based and Neighborhood Partnerships; Executive Order 13498, re-established by Executive Order 13569, and continued by Executive Order 13640 (Department of Health and Human Services).
 
-(o) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515 (Department of Education).
+(o) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515, as amended (Department of Education).
 
-Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the guidelines and procedures established by the Administrator of General Services.
+(p) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
 
-Sec. 3. Sections 1 and 2 of Executive Order 13511 are superseded by sections 1 and 2 of this order.
+(q) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
 
-Sec. 4. [Amended Ex. Ord. No. 13515, set out as a note under section 1501 of Title 15, Commerce and Trade.]
+(r) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532, as amended (Department of Education).
 
-Sec. 5. This order shall be effective September 30, 2011.
+(s) President's Management Advisory Board; Executive Order 13538 (General Services Administration).
+
+(t) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
+
+(u) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
+
+(v) Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544, re-established by Executive Order 13631 (Department of Health and Human Services).
+
+(w) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549, as amended (National Archives and Records Administration).
+
+(x) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555, re-established by Executive Order 13634 (Department of Education).
+
+(y) President's Global Development Council; Executive Order 13600 (United States Agency for International Development).
+
+(z) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
+
+Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the regulations, guidelines, and procedures established by the Administrator of General Services.
+
+Sec. 3. Sections 1 and 2 of Executive Order 13585 of September 30, 2011, and sections 1, 2, and 4 of Executive Order 13591 of November 23, 2011, are superseded by sections 1 and 2 of this order.
+
+Sec. 4. [Amended Ex. Ord. No. 13538, set out as a note under section 301 of Title 40, Public Buildings, Property, and Works.]
+
+Sec. 5. [Amended Ex. Ord. No. 13043, set out as a note under section 402 of Title 23, Highways.]
+
+Sec. 6. [Amended Ex. Ord. No. 13231, set out as a note under section 121 of Title 6, Domestic Security.]
+
+Sec. 7. [Amended Ex. Ord. No. 13600, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.]
+
+Sec. 8. [Amended Ex. Ord. No. 13515, set out as a note under section 1501 of Title 15, Commerce and Trade.]
+
+Sec. 9. This order shall be effective September 30, 2013.
 
 Barack Obama.
 
 Provisions providing for the continuance of certain Federal advisory committees were contained in the following:
+
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, partially superseded by Ex. Ord. No. 13652, §3, Sept. 30, 2013, 78 F.R. 61818.
+
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, as amended by Ex. Ord. No. 13592, §5(c), Dec. 2, 2011, 76 F.R. 76607, partially superseded by Ex. Ord. No. 13652, §3, Sept. 30, 2013, 78 F.R. 61818.
 
 Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, partially superseded by Ex. Ord. No. 13585, §3, Sept. 30, 2011, 76 F.R. 62281.
 
@@ -607,7 +613,7 @@ Except as provided in section 7(b), this Act shall become effective upon the exp
 INSPECTOR GENERAL ACT OF 1978
 ==========
 
-Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066
+Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420
 
 ### §1. Short title ###
 
@@ -715,7 +721,7 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 (3) For the purposes of this section, the requirement of the designation of a Whistleblower Protection Ombudsman under paragraph (1)(C) shall not apply to—
 
-(A) any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))[50 U.S.C. 3003(4)]); or
+(A) any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) [50 U.S.C. 3003(4)]); or
 
 (B) as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counter intelligence activities.
 
@@ -1879,7 +1885,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (F) any entity in the judicial or legislative branches of the Government, including the Administrative Office of the United States Courts and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol;
 
-(2) the term "designated Federal entity" means Amtrak, the Appalachian Regional Commission, the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection, the Board for International Broadcasting, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Corporation for Public Broadcasting, the Defense Intelligence Agency, the Denali Commission, the Equal Employment Opportunity Commission, the Farm Credit Administration, the Federal Communications Commission, the Federal Election Commission, the Election Assistance Commission, the Federal Housing Finance Board, the Federal Labor Relations Authority, the Federal Maritime Commission, the Federal Trade Commission, the Legal Services Corporation, the National Archives and Records Administration, the National Credit Union Administration, the National Endowment for the Arts, the National Endowment for the Humanities, the National Geospatial-Intelligence Agency, the National Labor Relations Board, the National Reconnaissance Office, the National Security Agency, the National Science Foundation, the Panama Canal Commission, the Peace Corps, the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission, the Smithsonian Institution, the United States International Trade Commission, the Postal Regulatory Commission, and the United States Postal Service;
+(2) the term "designated Federal entity" means Amtrak, the Appalachian Regional Commission, the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection, the Board for International Broadcasting, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Corporation for Public Broadcasting, the Defense Intelligence Agency, the Denali Commission, the Equal Employment Opportunity Commission, the Farm Credit Administration, the Federal Communications Commission, the Federal Election Commission, the Election Assistance Commission, the Federal Housing Finance Board, the Federal Labor Relations Authority, the Federal Maritime Commission, the Federal Trade Commission, the Legal Services Corporation, the National Archives and Records Administration, the National Credit Union Administration, the National Endowment for the Arts, the National Endowment for the Humanities, the National Geospatial-Intelligence Agency, the National Labor Relations Board, the National Science Foundation, the Panama Canal Commission, the Peace Corps, the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission, the Smithsonian Institution, the United States International Trade Commission, the Postal Regulatory Commission, and the United States Postal Service;
 
 (3) the term "head of the Federal entity" means any person or persons designated by statute as the head of a Federal entity, and if no such designation exists, the chief policymaking officer or board of a Federal entity as identified in the list published pursuant to subsection (h)(1) of this section;
 
@@ -1999,7 +2005,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (C) summarizes any matters relating to the personnel, programs, and operations of the Federal entity referred to prosecutive authorities, including a summary description of any preliminary investigation conducted by or at the request of the Federal entity concerning these matters, and the prosecutions and convictions which have resulted.
 
-(Pub. L. 95–452, §8G, formerly §8E, as added Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, §702(c), Aug. 9, 1989, 103 Stat. 415; renumbered §8F and amended Pub. L. 103–82, title II, §202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8G and amended Pub. L. 103–204, §23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, §1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–409, §§2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, 122 Stat. 4302, 4305, 4313; Pub. L. 111–203, title IX, §§989B, 989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §431(a), (c), Oct. 7, 2010, 124 Stat. 2731.)
+(Pub. L. 95–452, §8G, formerly §8E, as added Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, §702(c), Aug. 9, 1989, 103 Stat. 415; renumbered §8F and amended Pub. L. 103–82, title II, §202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8G and amended Pub. L. 103–204, §23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, §1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–409, §§2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, 122 Stat. 4302, 4305, 4313; Pub. L. 111–203, title IX, §§989B, 989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §431(a), (c), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title IV, §§402(1), 412(1), July 7, 2014, 128 Stat. 1408, 1409.)
 
 #### Amendment of Subsection (a)(2) ####
 
@@ -2014,6 +2020,10 @@ The National Labor Relations Act, referred to in subsec. (f)(4), is act July 5, 
 A prior section 8G of the Inspector General Act of 1978 was renumbered section 8J.
 
 #### Amendments ####
+
+**2014**—Subsec. (a)(2). Pub. L. 113–126, §412(1), struck out "the National Reconnaissance Office," after "the National Labor Relations Board,".
+
+Pub. L. 113–126, §402(1), struck out "the National Security Agency," before "the National Science Foundation,".
 
 **2010**—Subsec. (a)(2). Pub. L. 111–259, §431(a), inserted "the Defense Intelligence Agency," after "the Corporation for Public Broadcasting,", "the National Geospatial-Intelligence Agency," after "the National Endowment for the Humanities,", and "the National Reconnaissance Office, the National Security Agency," after "the National Labor Relations Board,".
 
@@ -2075,6 +2085,48 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–126, title IV, §403, July 7, 2014, 128 Stat. 1408, provided that:
+
+"(a) In General.—Except as otherwise specifically provided, the amendments made by sections 401 [amending section 3602 of Title 50, War and National Defense] and 402 [amending this section and section 12 of Pub. L. 95–452, set out in this Appendix] shall take effect on October 1, 2014, and shall apply upon the earlier of—
+
+"(1) in the case of section 401—
+
+"(A) the date of the first nomination by the President of an individual to serve as the Director of the National Security Agency that occurs on or after October 1, 2014; or
+
+"(B) the date of the cessation of the performance of the duties of the Director of the National Security Agency by the individual performing such duties on October 1, 2014; and
+
+"(2) in the case of section 402—
+
+"(A) the date of the first nomination by the President of an individual to serve as the Inspector General of the National Security Agency that occurs on or after October 1, 2014; or
+
+"(B) the date of the cessation of the performance of the duties of the Inspector General of the National Security Agency by the individual performing such duties on October 1, 2014.
+
+"(b) Exception for Initial Nominations.—Notwithstanding paragraph (1)(A) or (2)(A) of subsection (a), an individual serving as the Director of the National Security Agency or the Inspector General of the National Security Agency on the date that the President first nominates an individual for such position on or after October 1, 2014, may continue to perform in that position after such date of nomination and until the individual appointed to the position, by and with the advice and consent of the Senate, assumes the duties of the position.
+
+"(c) Incumbent Inspector General.—The individual serving as Inspector General of the National Security Agency on the date of the enactment of this Act [July 7, 2014] shall be eligible to be appointed by the President to a new term of service under section 3 of the Inspector General Act of 1978 (5 U.S.C. App.), by and with the advice and consent of the Senate."
+
+Pub. L. 113–126, title IV, §413, July 7, 2014, 128 Stat. 1410, provided that:
+
+"(a) In General.—The amendments made by sections 411 [enacting section 3041a of Title 50, War and National Defense] and 412 [amending this section and section 12 of Pub. L. 95–452, set out in this Appendix] shall take effect on October 1, 2014, and shall apply upon the earlier of—
+
+"(1) in the case of section 411—
+
+"(A) the date of the first nomination by the President of an individual to serve as the Director of the National Reconnaissance Office that occurs on or after October 1, 2014; or
+
+"(B) the date of the cessation of the performance of the duties of the Director of the National Reconnaissance Office by the individual performing such duties on October 1, 2014; and
+
+"(2) in the case of section 412—
+
+"(A) the date of the first nomination by the President of an individual to serve as the Inspector General of the National Reconnaissance Office that occurs on or after October 1, 2014; or
+
+"(B) the date of the cessation of the performance of the duties of the Inspector General of the National Reconnaissance Office by the individual performing such duties on October 1, 2014.
+
+"(b) Exception for Initial Nominations.—Notwithstanding paragraph (1)(A) or (2)(A) of subsection (a), an individual serving as the Director of the National Reconnaissance Office or the Inspector General of the National Reconnaissance Office on the date that the President first nominates an individual for such position on or after October 1, 2014, may continue to perform in that position after such date of nomination and until the individual appointed to the position, by and with the advice and consent of the Senate, assumes the duties of the position.
+
+"(c) Incumbent Inspector General.—The individual serving as Inspector General of the National Reconnaissance Office on the date of the enactment of this Act [July 7, 2014] shall be eligible to be appointed by the President to a new term of service under section 3 of the Inspector General Act of 1978 (5 U.S.C. App.), by and with the advice and consent of the Senate."
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 989B and 989D of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -2122,6 +2174,8 @@ Pub. L. 103–82, title II, §202(g)(2)(B), Sept. 21, 1993, 107 Stat. 890, provi
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
 
 #### Inspector General at the Commission on Civil Rights ####
+
+Pub. L. 113–76, div. B, title IV, Jan. 17, 2014, 128 Stat. 75, provided in part: "That the Inspector General for the Commission on Civil Rights (CCR IG), as provided in Public Law 113–6 [set out below], is authorized to close out all work related to pending or closed investigations, to complete pending investigations, and to terminate all activities related to the duties, responsibilities and authorities of the CCR IG: *Provided further*, That when the CCR IG concludes that all pending investigations have been completed, all work related to pending or closed investigations has been closed out, and all activities related to the duties, responsibilities and authorities of the CCR IG have ended, the CCR IG shall certify that conclusion to the Committees on Appropriations of the House of Representatives and the Senate, and the Office of the CCR IG shall then be terminated".
 
 Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, provided in part: "That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978 [Pub. L. 95–452, set out in this Appendix]: *Provided further*, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: *Provided further*, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights".
 
@@ -2351,9 +2405,11 @@ Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided t
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board ####
 
-Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1031, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
+Pub. L. 113–76, div. G, title III, Jan. 17, 2014, 128 Stat. 332, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1031.
 
 Pub. L. 111–88, div. A, title III, Oct. 30, 2009, 123 Stat. 2950.
 
@@ -2597,15 +2653,19 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
 (a)(1)(A) An employee of the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Reconnaissance Office, or the National Security Agency, or of a contractor of any of those Agencies, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Defense (or designee).
 
-(B) An employee of the Federal Bureau of Investigation, or of a contractor of the Bureau, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Justice (or designee).
+(B) An employee of an element of the intelligence community, an employee assigned or detailed to an element of the intelligence community, or an employee of a contractor to the intelligence community, who intends to report to Congress a complaint or information with respect to an urgent concern may report such complaint or information to the Inspector General of the Intelligence Community.
 
-(C) Any other employee of, or contractor to, an executive agency, or element or unit thereof, determined by the President under section 2302(a)(2)(C)(ii) of title 5, United States Code, to have as its principal function the conduct of foreign intelligence or counterintelligence activities, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the appropriate Inspector General (or designee) under this Act or section 17 of the Central Intelligence Agency Act of 1949 [50 U.S.C. 3517].
+(C) An employee of the Federal Bureau of Investigation, or of a contractor of the Bureau, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the Inspector General of the Department of Justice (or designee).
+
+(D) Any other employee of, or contractor to, an executive agency, or element or unit thereof, determined by the President under section 2302(a)(2)(C)(ii) of title 5, United States Code, to have as its principal function the conduct of foreign intelligence or counterintelligence activities, who intends to report to Congress a complaint or information with respect to an urgent concern may report the complaint or information to the appropriate Inspector General (or designee) under this Act, section 17 of the Central Intelligence Agency Act of 1949 [50 U.S.C. 3517], or section 103H(k) of the National Security Act of 1947 (50 U.S.C. 3033(k)).
 
 (2) If a designee of an Inspector General under this section receives a complaint or information of an employee with respect to an urgent concern, that designee shall report the complaint or information to the Inspector General within 7 calendar days of receipt.
 
 (3) The Inspectors General of the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Reconnaissance Office, and the National Security Agency shall be designees of the Inspector General of the Department of Defense for purposes of this section.
 
-(b) Not later than the end of the 14-calendar day period beginning on the date of receipt of an employee complaint or information under subsection (a), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information.
+(b)(1) Not later than the end of the 14-calendar day period beginning on the date of receipt of an employee complaint or information under subsection (a), the Inspector General shall determine whether the complaint or information appears credible. Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information.
+
+(2) If the head of an establishment determines that a complaint or information transmitted under paragraph (1) would create a conflict of interest for the head of the establishment, the head of the establishment shall return the complaint or information to the Inspector General with that determination and the Inspector General shall make the transmission to the Director of National Intelligence and, if the establishment is within the Department of Defense, to the Secretary of Defense. In such a case, the requirements of this section for the head of the establishment apply to each recipient of the Inspector General's transmission.
 
 (c) Upon receipt of a transmittal from the Inspector General under subsection (b), the head of the establishment shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the head of the establishment considers appropriate.
 
@@ -2637,7 +2697,9 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
 (3) In this subsection, the term "congressional intelligence committees" shall have the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a) [50 U.S.C. 3003].
 
-(h) In this section:
+(h) An individual who has submitted a complaint or information to an Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to that particular Inspector General, and of the date on which such submission was made.
+
+(i) In this section:
 
 (1) The term "urgent concern" means any of the following:
 
@@ -2649,13 +2711,21 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
 (2) The term "intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, [div. A], title IX, §931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, §431(b), Oct. 7, 2010, 124 Stat. 2731.)
+(Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, [div. A], title IX, §931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, §431(b), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title III, §310, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1420.)
 
 #### Prior Provisions ####
 
 A prior section 8H of the Inspector General Act of 1978 was renumbered section 8J.
 
 #### Amendments ####
+
+**2014**—Subsec. (a)(1)(B), (C). Pub. L. 113–126, §310(1), (2), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
+
+Subsec. (a)(1)(D). Pub. L. 113–126, §310(1), (3), redesignated subpar. (C) as (D), substituted "Act, section 17" for "Act or section 17", and inserted ", or section 103H(k) of the National Security Act of 1947 (50 U.S.C. 3033(k))" before period at end.
+
+Subsec. (b). Pub. L. 113–126, §603(a)(1), designated existing provisions as par. (1) and added par. (2).
+
+Subsecs. (h), (i). Pub. L. 113–126, §603(a)(2), (3), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 **2010**—Subsec. (a)(3). Pub. L. 111–259 added par. (3).
 
@@ -3479,9 +3549,9 @@ Pub. L. 111–15, §7, Apr. 24, 2009, 123 Stat. 1605, provided that: "The Specia
 
 As used in this Act—
 
-(1) the term "head of the establishment" means the Secretary of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Labor, State, Transportation, Homeland Security, or the Treasury; the Attorney General; the Administrator of the Agency for International Development, Environmental Protection, General Services, National Aeronautics and Space, Small Business, or Veterans' Affairs; the Administrator of the Federal Emergency Management Agency, or the Office of Personnel Management; the Chairman of the Nuclear Regulatory Commission or the Railroad Retirement Board; the Chairperson of the Thrift Depositor Protection Oversight Board; the Chief Executive Officer of the Corporation for National and Community Service; the Administrator of the Community Development Financial Institutions Fund; the chief executive officer of the Resolution Trust Corporation; the Chairperson of the Federal Deposit Insurance Corporation; the Commissioner of Social Security, Social Security Administration; the Director of the Federal Housing Finance Agency; the Board of Directors of the Tennessee Valley Authority; the President of the Export-Import Bank; or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; as the case may be;
+(1) the term "head of the establishment" means the Secretary of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Labor, State, Transportation, Homeland Security, or the Treasury; the Attorney General; the Administrator of the Agency for International Development, Environmental Protection, General Services, National Aeronautics and Space, Small Business, or Veterans' Affairs; the Administrator of the Federal Emergency Management Agency, or the Office of Personnel Management; the Chairman of the Nuclear Regulatory Commission or the Railroad Retirement Board; the Chairperson of the Thrift Depositor Protection Oversight Board; the Chief Executive Officer of the Corporation for National and Community Service; the Administrator of the Community Development Financial Institutions Fund; the chief executive officer of the Resolution Trust Corporation; the Chairperson of the Federal Deposit Insurance Corporation; the Commissioner of Social Security, Social Security Administration; the Director of the Federal Housing Finance Agency; the Board of Directors of the Tennessee Valley Authority; the President of the Export-Import Bank; the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; the Director of the National Security Agency; or the Director of the National Reconnaissance Office; as the case may be;
 
-(2) the term "establishment" means the Department of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Justice, Labor, State, Transportation, Homeland Security, or the Treasury; the Agency for International Development, the Community Development Financial Institutions Fund, the Environmental Protection Agency, the Federal Emergency Management Agency, the General Services Administration, the National Aeronautics and Space Administration, the Nuclear Regulatory Commission, the Office of Personnel Management, the Railroad Retirement Board, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the Small Business Administration, the Corporation for National and Community Service, the Veterans' Administration, the Social Security Administration, the Federal Housing Finance Agency, the Tennessee Valley Authority, the Export-Import Bank, or the Commissions established under section 15301 of title 40, United States Code, as the case may be;
+(2) the term "establishment" means the Department of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Justice, Labor, State, Transportation, Homeland Security, or the Treasury; the Agency for International Development, the Community Development Financial Institutions Fund, the Environmental Protection Agency, the Federal Emergency Management Agency, the General Services Administration, the National Aeronautics and Space Administration, the Nuclear Regulatory Commission, the Office of Personnel Management, the Railroad Retirement Board, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the Small Business Administration, the Corporation for National and Community Service, the Veterans' Administration, the Social Security Administration, the Federal Housing Finance Agency, the Tennessee Valley Authority, the Export-Import Bank, the Commissions established under section 15301 of title 40, United States Code, the National Security Agency, or the National Reconnaissance Office, as the case may be;
 
 (3) the term "Inspector General" means the Inspector General of an establishment;
 
@@ -3489,7 +3559,7 @@ As used in this Act—
 
 (5) the term "Federal agency" means an agency as defined in section 552(f) of title 5 (including an establishment as defined in paragraph (2)), United States Code, but shall not be construed to include the Government Accountability Office.
 
-(Pub. L. 95–452, §12, formerly §11, Oct. 12, 1978, 92 Stat. 1109; Pub. L. 96–88, title V, §508(n)(3), (4), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–113, title VII, §705(a)(2), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)(4), (5), Sept. 8, 1982, 96 Stat. 751; Pub. L. 99–93, title I, §150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, §13(h)(2), (3), Oct. 5, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), Aug. 9, 1989, 103 Stat. 393; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(4), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–204, §23(a)(1), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l)(2), Aug. 15, 1994, 108 Stat. 1489; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–106, div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1314(b), Oct. 21, 1998, 112 Stat. 2681–776; Pub. L. 106–422, §1(b)(2), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–189, §22(a), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–296, title XVII, §1701, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; renumbered §12, Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.)
+(Pub. L. 95–452, §12, formerly §11, Oct. 12, 1978, 92 Stat. 1109; Pub. L. 96–88, title V, §508(n)(3), (4), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–113, title VII, §705(a)(2), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)(4), (5), Sept. 8, 1982, 96 Stat. 751; Pub. L. 99–93, title I, §150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, §13(h)(2), (3), Oct. 5, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), Aug. 9, 1989, 103 Stat. 393; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(4), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–204, §23(a)(1), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l)(2), Aug. 15, 1994, 108 Stat. 1489; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–106, div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1314(b), Oct. 21, 1998, 112 Stat. 2681–776; Pub. L. 106–422, §1(b)(2), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–189, §22(a), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–296, title XVII, §1701, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; renumbered §12, Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305; Pub. L. 113–126, title IV, §§402(2), 412(2), July 7, 2014, 128 Stat. 1408, 1409.)
 
 #### Codification ####
 
@@ -3502,6 +3572,14 @@ Amendment by Pub. L. 100–527 amended section as it existed prior to amendment 
 A prior section 12 of the Inspector General Act of 1978 was renumbered section 13.
 
 #### Amendments ####
+
+**2014**—Par. (1). Pub. L. 113–126, §412(2)(A), inserted "or the Director of the National Reconnaissance Office;" before "as the case may be;".
+
+Pub. L. 113–126, §402(2)(A), substituted "the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; the Director of the National Security Agency;" for "or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;".
+
+Par. (2). Pub. L. 113–126, §412(2)(B), inserted "or the National Reconnaissance Office," before "as the case may be;".
+
+Pub. L. 113–126, §402(2)(B), substituted "the Commissions established under section 15301 of title 40, United States Code, the National Security Agency," for "or the Commissions established under section 15301 of title 40, United States Code,".
 
 **2008**—Par. (1). Pub. L. 110–289, div. A , title I, §1105(c)(1), inserted "; the Director of the Federal Housing Finance Agency" after "Social Security Administration".
 
@@ -3582,6 +3660,12 @@ Pub. L. 100–504 added pars. (1) and (2) and struck out former pars. (1) and (2
 "Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" in par. (1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 References to Administrator of Veterans' Affairs and to Veterans' Administration deemed to refer to Secretary of Veterans Affairs and to Department of Veterans Affairs, respectively, pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by section 402(2) of Pub. L. 113–126 effective Oct. 1, 2014, and applicable upon the earlier of the date of the first nomination by the President of an individual to serve as the Inspector General of the National Security Agency that occurs on or after Oct. 1, 2014, or the date of the cessation of the performance of the duties of the Inspector General of the National Security Agency by the individual performing such duties on Oct. 1, 2014, subject to an exception for initial nominations and a provision for the incumbent Inspector General, see section 403 of Pub. L. 113–126, set out as a note under section 8G of Pub. L. 95–452 in this Appendix.
+
+Amendment by section 412(2) of Pub. L. 113–126 effective Oct. 1, 2014, and applicable upon the earlier of the date of the first nomination by the President of an individual to serve as the Inspector General of the National Reconnaissance Office that occurs on or after Oct. 1, 2014, or the date of the cessation of the performance of the duties of the Inspector General of the National Reconnaissance Office by the individual performing such duties on Oct. 1, 2014, subject to an exception for initial nominations and a provision for the incumbent Inspector General, see section 413 of Pub. L. 113–126, set out as a note under section 8G of Pub. L. 95–452 in this Appendix.
 
 #### Effective Date of 2008 Amendment ####
 
@@ -3854,7 +3938,7 @@ Pub. L. 102–25, title VI, §605(b), Apr. 6, 1991, 105 Stat. 110, provided that
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–280, §11, May 4, 1990, 104 Stat. 163, provided that: "Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution [amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of Pub. L. 95–521, set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1, 31–2, and 441i of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, section 3945 of Title 22, Foreign Relations and Intercourse, section 1043 of Title 26, Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering section 1352 of Title 31 as section 1353, repealing section 112 of Pub. L. 95–521, set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of Pub. L. 95–521, set out in this Appendix, section 2397a of Title 10, and section 1043 of Title 26, and amending provisions set out as notes under section 207 and 208 of Title 18 and section 1344 of Title 31] take effect on the date of the enactment of this joint resolution [May 4, 1990]."
+Pub. L. 101–280, §11, May 4, 1990, 104 Stat. 163, provided that: "Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution [amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of Pub. L. 95–521, set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1, 441i, and 4725 of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, section 3945 of Title 22, Foreign Relations and Intercourse, section 1043 of Title 26, Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering section 1352 of Title 31 as section 1353, repealing section 112 of Pub. L. 95–521, set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of Pub. L. 95–521, set out in this Appendix, section 2397a of Title 10, and section 1043 of Title 26, and amending provisions set out as notes under section 207 and 208 of Title 18 and section 1344 of Title 31] take effect on the date of the enactment of this joint resolution [May 4, 1990]."
 
 #### Effective Date of 1989 Amendment ####
 
@@ -3868,7 +3952,7 @@ Pub. L. 101–280, §3(10)(C), (D), May 4, 1990, 104 Stat. 157, provided that:
 
 #### Short Title of 2012 Amendment ####
 
-Pub. L. 112–105, §1, Apr. 4, 2012, 126 Stat. 291, provided that: "This Act [enacting section 4518a of Title 12, Banks and Banking, amending sections 102, 103, and 105 of Pub. L. 95–521, set out in this Appendix, section 104e of Title 2, The Congress, sections 8332 and 8411, of Title 5, Government Organization and Employees, section 6c of Title 7, Agriculture, section 78u–1 of Title 15, Commerce and Trade, and section 227 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes preceding section 101 of Pub. L. 95–521 and under sections 101 to 103 and 105 of Pub. L. 95–521, set out in this Appendix, section 104e of Title 2, and sections 78j and 78u–1 of Title 15] may be cited as the 'Stop Trading on Congressional Knowledge Act of 2012' or the 'STOCK Act'."
+Pub. L. 112–105, §1, Apr. 4, 2012, 126 Stat. 291, provided that: "This Act [see Tables for classification] may be cited as the 'Stop Trading on Congressional Knowledge Act of 2012' or the 'STOCK Act'."
 
 #### Short Title of 2007 Amendment ####
 
@@ -3896,7 +3980,7 @@ Pub. L. 101–194, §1, Nov. 30, 1989, 103 Stat. 1716, provided that: "This Act 
 
 #### Short Title ####
 
-Pub. L. 95–521, §1, Oct. 26, 1978, 92 Stat. 1824, provided: "That this Act [enacting provisions set out in this Appendix, sections 118a, 288 to 288m of Title 2, The Congress, sections 49, 528, 529, 591 to 598, 1364 of Title 28, Judiciary and Judicial Procedure, amending section 5316 of Title 5, Government Organization and Employees, section 207 of Title 18, Crimes and Criminal Procedure, and sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under section 288 of Title 2, section 207 of Title 18, and section 591 of Title 28] may be cited as the 'Ethics in Government Act of 1978'."
+Pub. L. 95–521, §1, Oct. 26, 1978, 92 Stat. 1824, provided: "That this Act [see Tables for classification] may be cited as the 'Ethics in Government Act of 1978'."
 
 #### Rule of Construction ####
 
@@ -3918,7 +4002,7 @@ Pub. L. 112–105, §17, Apr. 4, 2012, 126 Stat. 303, provided that:
 
 #### Rulemaking Power of Congress ####
 
-Pub. L. 102–90, title III, §314(f), Aug. 14, 1991, 105 Stat. 470, provided that: "The provisions of this section [amending sections 102 and 505 of Pub. L. 95–521, set out in this Appendix, section 31–2 of Title 2, The Congress, and section 7701 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 31–2 of Title 2] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
+Pub. L. 102–90, title III, §314(f), Aug. 14, 1991, 105 Stat. 470, provided that: "The provisions of this section [amending sections 102 and 505 of Pub. L. 95–521, set out in this Appendix, section 4725 of Title 2, The Congress, and section 7701 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 4725 of Title 2] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
 
 "(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
@@ -4342,7 +4426,7 @@ Pub. L. 104–65, §22(c), Dec. 19, 1995, 109 Stat. 705, provided that: "The ame
 
 #### Effective Date of 1991 Amendment ####
 
-Amendment by Pub. L. 102–90 effective Jan. 1, 1993, see section 314(g)(2) of Pub. L. 102–90, as amended, set out as a note under section 31–2 of Title 2, The Congress.
+Amendment by Pub. L. 102–90 effective Jan. 1, 1993, see section 314(g)(2) of Pub. L. 102–90, as amended, set out as a note under section 4725 of Title 2, The Congress.
 
 #### Effective Date of 1989 Amendment ####
 
@@ -4726,7 +4810,7 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 Pub. L. 113–7, §1(a)(1), (2), Apr. 15, 2013, 127 Stat. 438, provided that:
 
-"(1) In general.—Except with respect to financial disclosure forms filed by officers and employees referred to in paragraph (2), section 8(a) and section 11(a) of the STOCK Act [Pub. L. 112–178] (5 U.S.C. App. 105 note[s]) [set out below] shall not be effective.
+"(1) In general.—Except with respect to financial disclosure forms filed by officers and employees referred to in paragraph (2), section 8(a) and section 11(a) of the STOCK Act [Pub. L. 112–105] (5 U.S.C. App. 105 note[s]) [set out below] shall not be effective.
 
 "(2) Exempted officers and employees.—The officer and employees referred to in paragraph (1) are the following:
 
@@ -5706,7 +5790,7 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 #### Effective Date of 1991 Amendment ####
 
-Section 6(f)(1) of Pub. L. 102–90 provided that: "Except for the provisions of subsection (e)(1) [105 Stat. 451], the provisions of this section [amending this section and section 505 of Pub. L. 95–521, set out in this Appendix, repealing sections 31–1 and 441i of Title 2, The Congress, enacting provisions set out as a note under section 5318 of this title, and repealing provisions set out as notes under sections 31 and 358 of Title 2] shall take effect on the date of the enactment of this Act [Aug. 14, 1991]."
+Pub. L. 102–90, title I, §6(f)(1), Aug. 14, 1991, 105 Stat. 451, provided that: "Except for the provisions of subsection (e)(1) [105 Stat. 451], the provisions of this section [amending this section and section 505 of Pub. L. 95–521, set out in this Appendix, repealing sections 31–1 and 441i of Title 2, The Congress, enacting provisions set out as a note under section 5318 of this title, and repealing provisions set out as notes under sections 358 and 4501 of Title 2] shall take effect on the date of the enactment of this Act [Aug. 14, 1991]."
 
 #### Effective Date ####
 
@@ -5750,7 +5834,7 @@ Par. (3). Pub. L. 102–90, §314(b), inserted "(including a series of appearanc
 
 #### Effective Date of 1991 Amendment ####
 
-Amendment by section 314(b) of Pub. L. 102–90 effective Jan. 1, 1992, see section 314(g)(1) of Pub. L. 102–90, as amended, set out as a note under section 31–2 of Title 2, The Congress.
+Amendment by section 314(b) of Pub. L. 102–90 effective Jan. 1, 1992, see section 314(g)(1) of Pub. L. 102–90, as amended, set out as a note under section 4725 of Title 2, The Congress.
 
 #### Effective Date ####
 

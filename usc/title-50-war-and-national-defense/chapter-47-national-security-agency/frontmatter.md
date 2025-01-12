@@ -4,7 +4,7 @@ Sec.
 
 3601. Short title.
 
-3602. Director of Compliance.
+3602. Director of the Agency and Director of Compliance.
 
 3603. Repealed.
 

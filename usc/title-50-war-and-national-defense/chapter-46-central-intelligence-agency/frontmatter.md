@@ -30,7 +30,7 @@ Sec.
 
 3511. Authority to pay death gratuities.
 
-3512. Authority to accept gifts, devises, and bequests.
+3512. Gifts, devises, and bequests.
 
 3513. Misuse of Agency name, initials, or seal.
 
