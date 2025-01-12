@@ -199,3 +199,19 @@ Subsecs. (c) to (e). Pub. L. 113–5, §304(3), added subsecs. (c) to (e).
 Subsec. (f). Pub. L. 113–5, §305, added subsec. (f).
 
 Subsec. (g). Pub. L. 113–5, §306, added subsec. (g).
+
+#### Predictable Review Timelines of Vaccines by the Advisory Committee on Immunization Practices ####
+
+Pub. L. 114–255, div. A, title III, §3091, Dec. 13, 2016, 130 Stat. 1149, provided that:
+
+"(a) Consideration of New Vaccines.—Upon the licensure of any vaccine or any new indication for a vaccine, the Advisory Committee on Immunization Practices (in this section referred to as the 'Advisory Committee') shall, as appropriate, consider the use of the vaccine at its next regularly scheduled meeting.
+
+"(b) Additional Information.—If the Advisory Committee does not make a recommendation with respect to the use of a vaccine at the Advisory Committee's first regularly scheduled meeting after the licensure of the vaccine or any new indication for the vaccine, the Advisory Committee shall provide an update on the status of such committee's review.
+
+"(c) Consideration for Breakthrough Therapies and for Potential Use During Public Health Emergency.—The Advisory Committee shall make recommendations with respect to the use of certain vaccines in a timely manner, as appropriate, including vaccines that—
+
+"(1) are designated as a breakthrough therapy under section 506 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356) and licensed under section 351 of the Public Health Service Act (42 U.S.C. 262); or
+
+"(2) could be used in a public health emergency.
+
+"(d) Definition.—In this section, the terms 'Advisory Committee on Immunization Practices' and 'Advisory Committee' mean the Advisory Committee on Immunization Practices established by the Secretary pursuant to section 222 of the Public Health Service Act (42 U.S.C. 217a), acting through the Director of the Centers for Disease Control and Prevention."

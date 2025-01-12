@@ -40,9 +40,21 @@ The purposes for which grants made under subsection (a) of this section may be m
 
 (16) to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers' initial redeployment to community-oriented policing;
 
-(17) to participate in nationally recognized active shooter training programs that offer scenario-based, integrated response courses designed to counter active shooter threats or acts of terrorism against individuals or facilities; and
+(17) to participate in nationally recognized active shooter training programs that offer scenario-based, integrated response courses designed to counter active shooter threats or acts of terrorism against individuals or facilities;
 
-(18) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (17).
+(18) to provide specialized training to law enforcement officers to—
+
+(A) recognize individuals who have a mental illness; and
+
+(B) properly interact with individuals who have a mental illness, including strategies for verbal de-escalation of crises;
+
+(19) to establish collaborative programs that enhance the ability of law enforcement agencies to address the mental health, behavioral, and substance abuse problems of individuals encountered by law enforcement officers in the line of duty;
+
+(20) to provide specialized training to corrections officers to recognize individuals who have a mental illness;
+
+(21) to enhance the ability of corrections officers to address the mental health of individuals under the care and custody of jails and prisons, including specialized training and strategies for verbal de-escalation of crises; and
+
+(22) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (21).
 
 #### (c) Preferential consideration of applications for certain grants ####
 
@@ -142,7 +154,7 @@ Not later than 180 days after July 29, 2010, the Attorney General shall submit t
 
 #### (3) an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations. ####
 
-(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780.)
+(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, §14001(b), Dec. 13, 2016, 130 Stat. 1288.)
 
 #### References in Text ####
 
@@ -156,7 +168,13 @@ A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 **2016**—Subsec. (b)(17). Pub. L. 114–199, §2(1), (3), added par. (17). Former par. (17) redesignated (18).
 
-Subsec. (b)(18). Pub. L. 114–199, §2(2), (4), redesignated par. (17) as (18) and substituted "(17)" for "(16)".
+Subsec. (b)(18). Pub. L. 114–255, §14001(b)(1), (3), added par. (18). Former par. (18) redesignated (22).
+
+Pub. L. 114–199, §2(2), (4), redesignated par. (17) as (18) and substituted "through (17)" for "through (16)".
+
+Subsec. (b)(19) to (21). Pub. L. 114–255, §14001(b)(3), added pars. (19) to (21).
+
+Subsec. (b)(22). Pub. L. 114–255, §14001(b)(2), (4), redesignated par. (18) as (22) and substituted "through (21)" for "through (17)".
 
 **2015**—Subsec. (c). Pub. L. 114–22, §601(1), substituted "where feasible, to an application—" for "where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section." and added pars. (1) and (2).
 

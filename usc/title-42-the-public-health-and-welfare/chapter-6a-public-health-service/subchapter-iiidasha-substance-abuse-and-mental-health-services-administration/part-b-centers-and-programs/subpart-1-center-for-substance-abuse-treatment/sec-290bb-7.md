@@ -1,26 +1,30 @@
-### §290bb–7. Substance abuse treatment services for children and adolescents ###
+### §290bb–7. Substance use disorder treatment and early intervention services for children and adolescents ###
 
 #### (a) In general ####
 
-The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Native Alaskan entities and Indian tribes and tribal organizations, for the purpose of providing substance abuse treatment services for children and adolescents.
+The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), or health facilities or programs operated by or in accordance with a contract or grant with the Indian Health Service, for the purpose of—
+
+(1) providing early identification and services to meet the needs of children and adolescents who are at risk of substance use disorders;
+
+(2) providing substance use disorder treatment services for children, including children and adolescents with co-occurring mental illness and substance use disorders; and
+
+(3) providing assistance to pregnant women, and parenting women, with substance use disorders, in obtaining treatment services, linking mothers to community resources to support independent family lives, and staying in recovery so that children are in safe, stable home environments and receive appropriate health care services.
 
 #### (b) Priority ####
 
 In awarding grants, contracts, or cooperative agreements under subsection (a), the Secretary shall give priority to applicants who propose to—
 
-(1) apply evidenced-based and cost effective methods for the treatment of substance abuse among children and adolescents;
+(1) apply evidence-based and cost-effective methods;
 
-(2) coordinate the provision of treatment services with other social service agencies in the community, including educational, juvenile justice, child welfare, and mental health agencies;
+(2) coordinate the provision of services with other social service agencies in the community, including educational, juvenile justice, child welfare, substance abuse, and mental health agencies;
 
-(3) provide a continuum of integrated treatment services, including case management, for children and adolescents with substance abuse disorders and their families;
+(3) provide a continuum of integrated treatment services, including case management, for children and adolescents with substance use disorders, including children and adolescents with co-occurring mental illness and substance use disorders, and their families;
 
 (4) provide treatment that is gender-specific and culturally appropriate;
 
-(5) involve and work with families of children and adolescents receiving treatment;
+(5) involve and work with families of children and adolescents receiving services; and
 
-(6) provide aftercare services for children and adolescents and their families after completion of substance abuse treatment; and
-
-(7) address the relationship between substance abuse and violence.
+(6) provide aftercare services for children and adolescents and their families after completion of treatment.
 
 #### (c) Duration of grants ####
 
@@ -36,10 +40,30 @@ An entity that receives a grant, contract, or cooperative agreement under subsec
 
 #### (f) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
+There are authorized to be appropriated to carry out this section, $29,605,000 for each of fiscal years 2018 through 2022.
 
-(July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1171.)
+(July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1171; amended Pub. L. 114–255, div. B, title X, §10003, Dec. 13, 2016, 130 Stat. 1264.)
 
 #### Codification ####
 
-Another section 514 of act July 1, 1944, is classified to section 290bb–9 of this title.
+Another section 514 of act July 1, 1944, was classified to section 290bb–9 of this title prior to repeal by Pub. L. 114–255, div. B, title IX, §9017, Dec. 13, 2016, 130 Stat. 1248.
+
+#### Amendments ####
+
+**2016**—Pub. L. 114–255, §10003(1), substituted "use disorder treatment and early intervention" for "abuse treatment" in section catchline.
+
+Subsec. (a). Pub. L. 114–255, §10003(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Native Alaskan entities and Indian tribes and tribal organizations, for the purpose of providing substance abuse treatment services for children and adolescents."
+
+Subsec. (b)(1). Pub. L. 114–255, §10003(3)(A), added par. (1) and struck out former par. (1) which read as follows: "apply evidenced-based and cost effective methods for the treatment of substance abuse among children and adolescents;".
+
+Subsec. (b)(2). Pub. L. 114–255, §10003(3)(B), struck out "treatment" after "provision of" and inserted "substance abuse," after "child welfare,".
+
+Subsec. (b)(3). Pub. L. 114–255, §10003(3)(C), substituted "substance use disorders, including children and adolescents with co-occurring mental illness and substance use disorders," for "substance abuse disorders".
+
+Subsec. (b)(5). Pub. L. 114–255, §10003(3)(D), substituted "services; and" for "treatment;".
+
+Subsec. (b)(6). Pub. L. 114–255, §10003(3)(E), substituted "treatment." for "substance abuse treatment; and".
+
+Subsec. (b)(7). Pub. L. 114–255, §10003(3)(F), struck out par. (7) which read as follows: "address the relationship between substance abuse and violence."
+
+Subsec. (f). Pub. L. 114–255, §10003(4), substituted "$29,605,000 for each of fiscal years 2018 through 2022." for "$40,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003."

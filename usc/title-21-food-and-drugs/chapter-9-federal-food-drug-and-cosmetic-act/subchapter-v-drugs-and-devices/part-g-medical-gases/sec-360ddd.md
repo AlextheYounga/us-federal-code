@@ -18,7 +18,7 @@ In this part:
 
 (G) Medical air that meets the standards set forth in an official compendium.
 
-(H) Any other medical gas deemed appropriate by the Secretary, after taking into account any investigational new drug application or investigational new animal drug application for the same medical gas submitted in accordance with regulations applicable to such applications in title 21 of the Code of Federal Regulations, unless any period of exclusivity under section 355(c)(3)(E)(ii) of this title or section 355(j)(5)(F)(ii) of this title, or the extension of any such period under section 355a of this title, applicable to such medical gas has not expired.
+(H) Any other medical gas deemed appropriate by the Secretary, after taking into account any investigational new drug application or investigational new animal drug application for the same medical gas submitted in accordance with regulations applicable to such applications in title 21 of the Code of Federal Regulations, unless any period of exclusivity for a new drug under section 355(c)(3)(E)(ii) of this title or section 355(j)(5)(F)(ii) of this title, or the extension of any such period under section 355a of this title, or any period of exclusivity for a new animal drug under section 360b(c)(2)(F) of this title, applicable to such medical gas has not expired.
 
 (2) The term "medical gas" means a drug that—
 
@@ -26,7 +26,11 @@ In this part:
 
 (B) is administered as a gas.
 
-(June 25, 1938, ch. 675, §575, as added Pub. L. 112–144, title XI, §1111, July 9, 2012, 126 Stat. 1108.)
+(June 25, 1938, ch. 675, §575, as added Pub. L. 112–144, title XI, §1111, July 9, 2012, 126 Stat. 1108; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(R), Dec. 13, 2016, 130 Stat. 1155.)
+
+#### Amendments ####
+
+**2016**—Par. (1)(H). Pub. L. 114–255 inserted "for a new drug" after "any period of exclusivity" and "or any period of exclusivity for a new animal drug under section 360b(c)(2)(F) of this title," after "section 355a of this title,".
 
 #### Changes to Regulations ####
 

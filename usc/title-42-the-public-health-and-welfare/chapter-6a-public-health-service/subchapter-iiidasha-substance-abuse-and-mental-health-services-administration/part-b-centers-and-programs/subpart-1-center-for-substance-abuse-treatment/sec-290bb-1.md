@@ -176,7 +176,7 @@ The Director shall, directly or through contract, provide for the conduct of eva
 
 #### (p) Reports to Congress ####
 
-Not later than October 1, 1994, the Director shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing programs carried out pursuant to this section (other than subsection (r)). Every 2 years thereafter, the Director shall prepare a report describing such programs carried out during the preceding 2 years, and shall submit the report to the Administrator for inclusion in the biennial report under section 290aa(k) of this title. Each report under this subsection shall include a summary of any evaluations conducted under subsection (m) during the period with respect to which the report is prepared.
+Not later than October 1, 1994, the Director shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing programs carried out pursuant to this section (other than subsection (r)). Every 2 years thereafter, the Director shall prepare a report describing such programs carried out during the preceding 2 years, and shall submit the report to the Assistant Secretary for inclusion in the biennial report under section 290aa(m) of this title. Each report under this subsection shall include a summary of any evaluations conducted under subsection (m) during the period with respect to which the report is prepared.
 
 #### (q) Definitions ####
 
@@ -270,7 +270,7 @@ For purposes of this subsection, the term "State substance abuse agency" means, 
 
 For the purpose of carrying out this section, there are authorized to be appropriated $16,900,000 for each of fiscal years 2017 through 2021. Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.
 
-(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724.)
+(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6006(b), Dec. 13, 2016, 130 Stat. 1203, 1212.)
 
 #### References in Text ####
 
@@ -324,7 +324,11 @@ Subsec. (j)(3). Pub. L. 114–198, §501(a)(7)(B), substituted "Office of" for "
 
 Subsec. (m). Pub. L. 114–198, §501(a)(8), amended subsec. (m) generally. Prior to amendment, text read as follows: "In making awards under subsection (a) of this section, the Director shall ensure that the awards are equitably allocated among the principal geographic regions of the United States, subject to the availability of qualified applicants for the awards."
 
-Subsec. (p). Pub. L. 114–198, §501(b)(1), inserted "(other than subsection (r))" after "pursuant to this section".
+Subsec. (p). Pub. L. 114–255, §6006(b), substituted "section 290aa(m)" for "section 290aa(k)".
+
+Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
+
+Pub. L. 114–198, §501(b)(1), inserted "(other than subsection (r))" after "pursuant to this section".
 
 Subsec. (q)(3). Pub. L. 114–198, §501(a)(9)(A), substituted "funding agreement" for "funding agreement under subsection (a)".
 

@@ -28,4 +28,4 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Codification ####
 
-Another section 1011 of act June 25, 1938, ch. 675, was enacted by Pub. L. 111–353, title II, §209(a), Jan. 4, 2011, 124 Stat. 3945, and is classified to section 399c of this title.
+Another section 1011 of act June 25, 1938, ch. 675, was enacted by Pub. L. 111–353, title II, §209(a), Jan. 4, 2011, 124 Stat. 3945, and subsequently renumbered section 1012 by Pub. L. 114–255, div. A, title III, §3073(b)(2), Dec. 13, 2016, 130 Stat. 1137, and is classified to section 399c of this title.

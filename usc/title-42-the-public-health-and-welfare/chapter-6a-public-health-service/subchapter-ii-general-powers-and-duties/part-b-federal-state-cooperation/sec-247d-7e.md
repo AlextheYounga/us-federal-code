@@ -100,7 +100,7 @@ Based upon the strategic plan described in subsection (b), the Secretary shall c
 
 #### (3) Director ####
 
-The BARDA shall be headed by a Director (referred to in this section as the "Director") who shall be appointed by the Secretary and to whom the Secretary shall delegate such functions and authorities as necessary to implement this section.
+The BARDA shall be headed by a Director (referred to in this section as the "Director") who shall be appointed by the Secretary and to whom the Secretary shall delegate such functions and authorities as necessary to implement this section, including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section.
 
 #### (4) Duties ####
 
@@ -153,6 +153,90 @@ To carry out the purpose described in paragraph (2)(D), the Secretary may award 
 (ii) research on and development of research tools and other devices and technologies; and
 
 (iii) research to promote strategic initiatives, such as rapid diagnostics, broad spectrum antimicrobials, vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies.
+
+#### (E) Medical countermeasures innovation partner ####
+
+#### (i) In general ####
+
+To support the purposes described in paragraph (2), the Secretary, acting through the Director of BARDA, may enter into an agreement (including through the use of grants, contracts, cooperative agreements, or other transactions as described in paragraph (5)) with an independent, nonprofit entity to—
+
+(I) foster and accelerate the development and innovation of medical countermeasures and technologies that may assist advanced research and the development of qualified countermeasures and qualified pandemic or epidemic products, including through the use of strategic venture capital practices and methods;
+
+(II) promote the development of new and promising technologies that address urgent medical countermeasure needs, as identified by the Secretary;
+
+(III) address unmet public health needs that are directly related to medical countermeasure requirements, such as novel antimicrobials for multidrug resistant organisms and multiuse platform technologies for diagnostics, prophylaxis, vaccines, and therapeutics; and
+
+(IV) provide expert consultation and advice to foster viable medical countermeasure innovators, including helping qualified countermeasure innovators navigate unique industry challenges with respect to developing chemical, biological, radiological, and nuclear countermeasure products.
+
+#### (ii) Eligibility ####
+
+#### (I) In general ####
+
+To be eligible to enter into an agreement under clause (i) an entity shall—
+
+(aa) be an independent, nonprofit entity;
+
+(bb) have a demonstrated record of being able to create linkages between innovators and investors and leverage such partnerships and resources for the purpose of addressing identified strategic needs of the Federal Government;
+
+(cc) have experience in promoting novel technology innovation;
+
+(dd) be problem-driven and solution-focused based on the needs, requirements, and problems identified by the Secretary under clause (iv);
+
+(ee) demonstrate the ability, or the potential ability, to promote the development of medical countermeasure products;
+
+(ff) demonstrate expertise, or the capacity to develop or acquire expertise, related to technical and regulatory considerations with respect to medical countermeasures; and
+
+(gg) not be within the Department of Health and Human Services.
+
+#### (II) Partnering experience ####
+
+In selecting an entity with which to enter into an agreement under clause (i), the Secretary shall place a high value on the demonstrated experience of the entity in partnering with the Federal Government to meet identified strategic needs.
+
+#### (iii) Not agency ####
+
+An entity that enters into an agreement under clause (i) shall not be deemed to be a Federal agency for any purpose, including for any purpose under title 5.
+
+#### (iv) Direction ####
+
+Pursuant to an agreement entered into under this subparagraph, the Secretary, acting through the Director of BARDA, shall provide direction to the entity that enters into an agreement under clause (i). As part of this agreement the Director of BARDA shall—
+
+(I) communicate the medical countermeasure needs, requirements, and problems to be addressed by the entity under the agreement;
+
+(II) develop a description of work to be performed by the entity under the agreement;
+
+(III) provide technical feedback and appropriate oversight over work carried out by the entity under the agreement, including subsequent development and partnerships consistent with the needs and requirements set forth in this subparagraph;
+
+(IV) ensure fair consideration of products developed under the agreement in order to maintain competition to the maximum practical extent, as applicable and appropriate under applicable provisions of this section; and
+
+(V) ensure, as a condition of the agreement that the entity—
+
+(aa) has in place a comprehensive set of policies that demonstrate a commitment to transparency and accountability;
+
+(bb) protects against conflicts of interest through a comprehensive set of policies that address potential conflicts of interest, ethics, disclosure, and reporting requirements;
+
+(cc) provides monthly accounting on the use of funds provided under such agreement; and
+
+(dd) provides on a quarterly basis, reports regarding the progress made toward meeting the identified needs set forth in the agreement.
+
+#### (v) Supplement not supplant ####
+
+Activities carried out under this subparagraph shall supplement, and not supplant, other activities carried out under this section.
+
+#### (vi) No establishment of entity ####
+
+To prevent unnecessary duplication and target resources effectively, nothing in this subparagraph shall be construed to authorize the Secretary to establish within the Department of Health and Human Services an entity for the purposes of carrying out this subparagraph.
+
+#### (vii) Transparency and oversight ####
+
+Upon request, the Secretary shall provide to Congress the information provided to the Secretary under clause (iv)(V)(dd).
+
+#### (viii) Independent evaluation ####
+
+Not later than 4 years after December 13, 2016, the Comptroller General of the United States shall conduct an independent evaluation, and submit to the Secretary and the appropriate committees of Congress a report, concerning the activities conducted under this subparagraph. Such report shall include recommendations with respect to any agreement or activities carried out pursuant to this subparagraph.
+
+#### (ix) Sunset ####
+
+This subparagraph shall have no force or effect after September 30, 2022.
 
 #### (5) Transaction authorities ####
 
@@ -302,7 +386,7 @@ Not later than 1 year after March 13, 2013, the Comptroller General of the Unite
 
 (ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195.)
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141.)
 
 #### References in Text ####
 
@@ -325,6 +409,10 @@ In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 o
 In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
+
+Subsec. (c)(3). Pub. L. 114–255, §3082(b), inserted ", including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section" before period at end.
+
+Subsec. (c)(4)(E). Pub. L. 114–255, §3084, added subpar. (E).
 
 **2013**—Subsec. (c)(4)(B)(iii). Pub. L. 113–5, §402(a)(1), inserted "(which may include advanced research and development for purposes of fulfilling requirements under the Federal Food, Drug, and Cosmetic Act or section 262 of this title)" after "research and development".
 

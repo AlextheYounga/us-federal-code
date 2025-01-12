@@ -64,6 +64,36 @@ Pub. L. 111–148, title III, §3509(a)(2), Mar. 23, 2010, 124 Stat. 533, provid
 
 shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, or other authorized official, a court of competent jurisdiction, or by operation of law."
 
+#### Information and Awareness on Eating Disorders ####
+
+Pub. L. 114–255, div. B, title XIII, §13005, Dec. 13, 2016, 130 Stat. 1286, provided that:
+
+"(a) Information.—The Secretary of Health and Human Services, acting through the Director of the Office on Women's Health, may—
+
+"(1) update information, related fact sheets, and resource lists related to eating disorders that are available on the public Internet website of the National Women's Health Information Center sponsored by the Office on Women's Health, to include—
+
+"(A) updated findings and current research related to eating disorders, as appropriate; and
+
+"(B) information about eating disorders, including information related to males and females;
+
+"(2) incorporate, as appropriate, and in coordination with the Secretary of Education, information from publicly available resources into appropriate obesity prevention programs developed by the Office on Women's Health; and
+
+"(3) make publicly available (through a public Internet website or other method) information, related fact sheets, and resource lists, as updated under paragraph (1), and the information incorporated into appropriate obesity prevention programs under paragraph (2).
+
+"(b) Awareness.—The Secretary of Health and Human Services may advance public awareness on—
+
+"(1) the types of eating disorders;
+
+"(2) the seriousness of eating disorders, including prevalence, comorbidities, and physical and mental health consequences;
+
+"(3) methods to identify, intervene, refer for treatment, and prevent behaviors that may lead to the development of eating disorders;
+
+"(4) discrimination and bullying based on body size;
+
+"(5) the effects of media on self-esteem and body image; and
+
+"(6) the signs and symptoms of eating disorders."
+
 #### No New Regulatory Authority ####
 
 Pub. L. 111–148, title III, §3509(h), Mar. 23, 2010, 124 Stat. 537, provided that: "Nothing in this section [enacting this section, sections 242s, 299b–24a, and 914 of this title and section 399b of Title 21, Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section] and the amendments made by this section may be construed as establishing regulatory authority or modifying any existing regulatory authority."

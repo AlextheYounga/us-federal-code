@@ -36,7 +36,7 @@ The terms "post-acute care provider" and "PAC provider" mean—
 
 (iii) an inpatient rehabilitation facility; and
 
-(iv) a long-term care hospital (other than a hospital classified under section 1395ww(d)(1)(B)(iv)(II) of this title).
+(iv) a long-term care hospital (other than a hospital classified under section 1395ww(d)(1)(B)(vi) of this title).
 
 #### (B) PAC assessment instrument ####
 
@@ -368,11 +368,15 @@ There shall be no administrative or judicial review under sections 1395ff and 13
 
 Chapter 35 of title 44 (commonly referred to as the "Paperwork Reduction Act of 1995") shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1899B, as added Pub. L. 113–185, §2(a), Oct. 6, 2014, 128 Stat. 1952.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1899B, as added Pub. L. 113–185, §2(a), Oct. 6, 2014, 128 Stat. 1952; amended Pub. L. 114–255, div. C, title XV, §15008(d)(1), Dec. 13, 2016, 130 Stat. 1321.)
 
 #### References in Text ####
 
 Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d)(3)(A), is section 2(d) of Pub. L. 113–185, which is set out as a note under this section.
+
+#### Amendments ####
+
+**2016**—Subsec. (a)(2)(A)(iv). Pub. L. 114–255 substituted "1395ww(d)(1)(B)(vi)" for "1395ww(d)(1)(B)(iv)(II)".
 
 #### Improving Payment Accuracy Under the PAC Payment Systems and Other Medicare Payment Systems ####
 

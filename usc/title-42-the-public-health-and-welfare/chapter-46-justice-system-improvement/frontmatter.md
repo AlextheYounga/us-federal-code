@@ -412,6 +412,8 @@ Sec.
 
 3796ii–7. Technical assistance, training, and evaluation.
 
+3796ii–8. Mental health responses in the judicial system.
+
 #### SUBCHAPTER XII–K—FAMILY SUPPORT ####
 
 3796jj. Duties.
@@ -486,21 +488,9 @@ Sec.
 
 3797 o. Reports.
 
-#### SUBCHAPTER XV–A—PROSECUTION DRUG TREATMENT ALTERNATIVE TO PRISON PROGRAM ####
+#### SUBCHAPTER XV–A—MENTAL HEALTH AND DRUG TREATMENT ALTERNATIVES TO INCARCERATION PROGRAMS ####
 
-3797q. Grant authority.
-
-3797q–1. Use of grant funds.
-
-3797q–2. Applications.
-
-3797q–3. Federal share.
-
-3797q–4. Geographic distribution.
-
-3797q–5. Reports and evaluations.
-
-3797q–6. Definitions.
+3797q. Mental health and drug treatment alternatives to incarceration programs.
 
 #### SUBCHAPTER XV–B—GRANTS FOR FAMILY-BASED SUBSTANCE ABUSE TREATMENT ####
 
@@ -560,7 +550,9 @@ Sec.
 
 #### SUBCHAPTER XIX—ADULT AND JUVENILE COLLABORATION PROGRAM GRANTS ####
 
-3797aa Adult and juvenile collaboration programs.
+3797aa. Adult and juvenile collaboration programs.
+
+3797aa–1. National criminal justice and mental health training and technical assistance.
 
 #### SUBCHAPTER XX—CONFRONTING USE OF METHAMPHETAMINE ####
 

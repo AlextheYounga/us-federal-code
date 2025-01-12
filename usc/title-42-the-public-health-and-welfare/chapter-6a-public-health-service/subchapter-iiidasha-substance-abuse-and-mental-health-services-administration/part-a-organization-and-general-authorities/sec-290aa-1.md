@@ -14,19 +14,19 @@ The Secretary shall appoint an advisory council for—
 
 (D) the Center for Mental Health Services.
 
-Each such advisory council shall advise, consult with, and make recommendations to the Secretary and the Administrator or Director of the Administration or Center for which the advisory council is established concerning matters relating to the activities carried out by and through the Administration or Center and the policies respecting such activities.
+Each such advisory council shall advise, consult with, and make recommendations to the Secretary and the Assistant Secretary or Director of the Administration or Center for which the advisory council is established concerning matters relating to the activities carried out by and through the Administration or Center and the policies respecting such activities.
 
 #### (2) Function and activities ####
 
 An advisory council—
 
-(A)(i) may on the basis of the materials provided by the organization respecting activities conducted at the organization, make recommendations to the Administrator or Director of the Administration or Center for which it was established respecting such activities;
+(A)(i) may on the basis of the materials provided by the organization respecting activities conducted at the organization, make recommendations to the Assistant Secretary or Director of the Administration or Center for which it was established respecting such activities;
 
 (ii) shall review applications submitted for grants and cooperative agreements for activities for which advisory council approval is required under section 290aa–3(d)(2) of this title and recommend for approval applications for projects that show promise of making valuable contributions to the Administration's mission; and
 
 (iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the organization;
 
-(B) may collect, by correspondence or by personal investigation, information as to studies and services that are being carried on in the United States or any other country as to the diseases, disorders, or other aspects of human health with respect to which the organization was established and with the approval of the Administrator or Director, whichever is appropriate, make such information available through appropriate publications for the benefit of public and private health entities and health professions personnel and for the information of the general public; and
+(B) may collect, by correspondence or by personal investigation, information as to studies and services that are being carried on in the United States or any other country as to the diseases, disorders, or other aspects of human health with respect to which the organization was established and with the approval of the Assistant Secretary or Director, whichever is appropriate, make such information available through appropriate publications for the benefit of public and private health entities and health professions personnel and for the information of the general public; and
 
 (C) may appoint subcommittees and convene workshops and conferences.
 
@@ -42,15 +42,23 @@ The ex officio members of an advisory council shall consist of—
 
 (A) the Secretary;
 
-(B) the Administrator;
+(B) the Assistant Secretary;
 
 (C) the Director of the Center for which the council is established;
 
 (D) the Under Secretary for Health of the Department of Veterans Affairs;
 
-(E) the Assistant Secretary for Defense for Health Affairs (or the designates of such officers); and
+(E) the Assistant Secretary for Defense for Health Affairs (or the designates of such officers);
 
-(F) such additional officers or employees of the United States as the Secretary determines necessary for the advisory council to effectively carry out its functions.
+(F) the Chief Medical Officer, appointed under section 290aa(g) of this title;
+
+(G) the Director of the National Institute of Mental Health for the advisory councils appointed under subsections (a)(1)(A) and (a)(1)(D);
+
+(H) the Director of the National Institute on Drug Abuse for the advisory councils appointed under subsections (a)(1)(A), (a)(1)(B), and (a)(1)(C);
+
+(I) the Director of the National Institute on Alcohol Abuse and Alcoholism for the advisory councils appointed under subsections (a)(1)(A), (a)(1)(B), and (a)(1)(C); and
+
+(J) such additional officers or employees of the United States as the Secretary determines necessary for the advisory council to effectively carry out its functions.
 
 #### (3) Appointed members ####
 
@@ -59,6 +67,30 @@ Individuals shall be appointed to an advisory council under paragraph (1) as fol
 (A) Nine of the members shall be appointed by the Secretary from among the leading representatives of the health disciplines (including public health and behavioral and social sciences) relevant to the activities of the Administration or Center for which the advisory council is established.
 
 (B) Three of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, public relations, law, health policy economics, or management.
+
+(C) Not less than half of the members of the advisory council appointed under subsection (a)(1)(D)—
+
+(i) shall—
+
+(I) have a medical degree;
+
+(II) have a doctoral degree in psychology; or
+
+(III) have an advanced degree in nursing or social work from an accredited graduate school or be a certified physician assistant; and
+
+(ii) shall specialize in the mental health field.
+
+(D) Not less than half of the members of the advisory councils appointed under subsections (a)(1)(B) and (a)(1)(C)—
+
+(i) shall—
+
+(I) have a medical degree;
+
+(II) have a doctoral degree; or
+
+(III) have an advanced degree in nursing, public health, behavioral or social sciences, or social work from an accredited graduate school or be a certified physician assistant; and
+
+(ii) shall have experience in the provision of substance use disorder services or the development and implementation of programs to prevent substance misuse.
 
 #### (4) Compensation ####
 
@@ -80,17 +112,17 @@ If a vacancy occurs in an advisory council among the members under subsection (b
 
 #### (d) Chair ####
 
-The Secretary shall select a member of an advisory council to serve as the chair of the council. The Secretary may so select an individual from among the appointed members, or may select the Administrator or the Director of the Center involved. The term of office of the chair shall be 2 years.
+The Secretary shall select a member of an advisory council to serve as the chair of the council. The Secretary may so select an individual from among the appointed members, or may select the Assistant Secretary or the Director of the Center involved. The term of office of the chair shall be 2 years.
 
 #### (e) Meetings ####
 
-An advisory council shall meet at the call of the chairperson or upon the request of the Administrator or Director of the Administration or Center for which the advisory council is established, but in no event less than 2 times during each fiscal year. The location of the meetings of each advisory council shall be subject to the approval of the Administrator or Director of Administration or Center for which the council was established.
+An advisory council shall meet at the call of the chairperson or upon the request of the Assistant Secretary or Director of the Administration or Center for which the advisory council is established, but in no event less than 2 times during each fiscal year. The location of the meetings of each advisory council shall be subject to the approval of the Assistant Secretary or Director of Administration or Center for which the council was established.
 
 #### (f) Executive Secretary and staff ####
 
-The Administrator or Director of the Administration or Center for which the advisory council is established shall designate a member of the staff of the Administration or Center for which the advisory council is established to serve as the Executive Secretary of the advisory council. The Administrator or Director shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Administrator or Director shall provide orientation and training for new members of the advisory council to provide for their effective participation in the functions of the advisory council.
+The Assistant Secretary or Director of the Administration or Center for which the advisory council is established shall designate a member of the staff of the Administration or Center for which the advisory council is established to serve as the Executive Secretary of the advisory council. The Assistant Secretary or Director shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Assistant Secretary or Director shall provide orientation and training for new members of the advisory council to provide for their effective participation in the functions of the advisory council.
 
-(July 1, 1944, ch. 373, title V, §502, formerly §505, as added Pub. L. 99–570, title IV, §4004(a), Oct. 27, 1986, 100 Stat. 3207–109; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 101–381, title I, §102(6), Aug. 18, 1990, 104 Stat. 586; renumbered §502 and amended Pub. L. 102–321, title I, §102, July 10, 1992, 106 Stat. 331; Pub. L. 102–352, §2(a)(6), Aug. 26, 1992, 106 Stat. 938; Pub. L. 103–446, title XII, §1203(a)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 106–310, div. B, title XXXIV, §3402, Oct. 17, 2000, 114 Stat. 1219.)
+(July 1, 1944, ch. 373, title V, §502, formerly §505, as added Pub. L. 99–570, title IV, §4004(a), Oct. 27, 1986, 100 Stat. 3207–109; amended Pub. L. 100–527, §10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 101–381, title I, §102(6), Aug. 18, 1990, 104 Stat. 586; renumbered §502 and amended Pub. L. 102–321, title I, §102, July 10, 1992, 106 Stat. 331; Pub. L. 102–352, §2(a)(6), Aug. 26, 1992, 106 Stat. 938; Pub. L. 103–446, title XII, §1203(a)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 106–310, div. B, title XXXIV, §3402, Oct. 17, 2000, 114 Stat. 1219; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6008, Dec. 13, 2016, 130 Stat. 1203, 1214.)
 
 #### Codification ####
 
@@ -103,6 +135,18 @@ A prior section 290aa–1, act July 1, 1944, ch. 373, title V, §502, formerly P
 A prior section 502 of act July 1, 1944, which was classified to section 220 of this title, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(1). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in concluding provisions.
+
+Subsec. (a)(2)(A)(i), (B). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
+
+Subsec. (b)(2)(B). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
+
+Subsec. (b)(2)(E) to (J). Pub. L. 114–255, §6008(1), added subpars. (F) to (I) and redesignated former subpar. (F) as (J).
+
+Subsec. (b)(3)(C), (D). Pub. L. 114–255, §6008(2), added subpars. (C) and (D).
+
+Subsecs. (d) to (f). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" wherever appearing.
 
 **2000**—Subsec. (e). Pub. L. 106–310 substituted "2 times during each fiscal year" for "3 times during each fiscal year".
 

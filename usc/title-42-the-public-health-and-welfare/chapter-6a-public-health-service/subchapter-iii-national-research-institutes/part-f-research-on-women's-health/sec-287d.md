@@ -30,7 +30,7 @@ The Director of the Office shall—
 
 (1) In carrying out subsection (b), the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the "Coordinating Committee").
 
-(2) The Coordinating Committee shall be composed of the Directors of the national research institutes (or the designees of the Directors).
+(2) The Coordinating Committee shall be composed of the Directors of the national research institutes (or the senior-level staff designees of the Directors).
 
 (3) The Director of the Office shall serve as the chair of the Coordinating Committee.
 
@@ -102,9 +102,11 @@ For purposes of this part:
 
 (2) The term "research on women's health" means research on women's health conditions, including research on preventing such conditions.
 
-(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534.)
+(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, §2038(c), Dec. 13, 2016, 130 Stat. 1065.)
 
 #### Amendments ####
+
+**2016**—Subsec. (c)(2). Pub. L. 114–255 substituted "senior-level staff designees" for "designees".
 
 **2010**—Subsec. (a). Pub. L. 111–148 inserted "and who shall report directly to the Director" before period at end.
 

@@ -8,17 +8,23 @@ For the purpose described in subsection (b), the Secretary, acting through the D
 
 A funding agreement for a grant under subsection (a) is that, subject to section 300x–5 of this title, the State involved will expend the grant only for the purpose of—
 
-(1) carrying out the plan submitted under section 300x–1(a) of this title by the State for the fiscal year involved;
+(1) providing community mental health services for adults with a serious mental illness and children with a serious emotional disturbance as defined in accordance with section 300x–1(c) of this title;
 
-(2) evaluating programs and services carried out under the plan; and
+(2) carrying out the plan submitted under section 300x–1(a) of this title by the State for the fiscal year involved;
 
-(3) planning, administration, and educational activities related to providing services under the plan.
+(3) evaluating programs and services carried out under the plan; and
 
-(July 1, 1944, ch. 373, title XIX, §1911, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 378.)
+(4) planning, administration, and educational activities related to providing services under the plan.
+
+(July 1, 1944, ch. 373, title XIX, §1911, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 378; amended Pub. L. 114–255, div. B, title VIII, §8001(a), Dec. 13, 2016, 130 Stat. 1225.)
 
 #### Prior Provisions ####
 
 A prior section 300x, act July 1, 1944, ch. 373, title XIX, §1911, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 543; amended Oct. 19, 1984, Pub. L. 98–509, title I, §§101, 106(a), 98 Stat. 2353, 2358; Nov. 18, 1988, Pub. L. 100–690, title II, §2021, 102 Stat. 4194, authorized appropriations in fiscal years 1990 and 1991 for purpose of carrying out this subpart and section 290aa–11 of this title, prior to repeal by Pub. L. 102–321, §201(2).
+
+#### Amendments ####
+
+**2016**—Subsec. (b). Pub. L. 114–255 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
 #### Effective Date ####
 

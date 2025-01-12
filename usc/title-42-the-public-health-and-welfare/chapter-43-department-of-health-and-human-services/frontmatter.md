@@ -28,6 +28,8 @@ Sec.
 
 3506. Travel and subsistence expenses of officers and employees in connection with attendance at meetings or in performing advisory services.
 
+3506a. Scientific engagement.
+
 3507. Transfer of personnel and household goods; delegation of Secretary's authority.
 
 3508 to 3511. Omitted, Repealed, or Transferred.

@@ -26,7 +26,7 @@ A notice required under subsection (a) shall be submitted to the Secretary—
 
 #### (c) Distribution ####
 
-To the maximum extent practicable, the Secretary shall distribute, through such means as the Secretary deems appropriate, information on the discontinuation or interruption of the manufacture of the drugs described in subsection (a) to appropriate organizations, including physician, health provider, and patient organizations, as described in section 356e of this title.
+To the maximum extent practicable, the Secretary shall distribute, through such means as the Secretary deems appropriate, information on the discontinuance or interruption of the manufacture of the drugs described in subsection (a) to appropriate organizations, including physician, health provider, and patient organizations, as described in section 356e of this title.
 
 #### (d) Confidentiality ####
 
@@ -62,7 +62,7 @@ If a person fails to submit information required under subsection (a) in accorda
 
 If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a drug shortage of a drug described in subsection (a), the Secretary may—
 
-(1) expedite the review of a supplement to a new drug application submitted under section 355(b) of this title, an abbreviated new drug application submitted under section 355(j) of this title, or a supplement to such an application submitted under section 355(j) of this title that could help mitigate or prevent such shortage; or
+(1) expedite the review of a supplement to a new drug application submitted under section 355(b) of this title, an abbreviated new drug application submitted under section 355(j) of this title, or a supplement to such an application submitted under section 355(j) of this title, that could help mitigate or prevent such shortage; or
 
 (2) expedite an inspection or reinspection of an establishment that could help mitigate or prevent such drug shortage.
 
@@ -122,9 +122,13 @@ In promulgating a regulation implementing this section, the Secretary shall—
 
 Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (4).
 
-(June 25, 1938, ch. 675, §506C, as added Pub. L. 105–115, title I, §131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, §1001(a), July 9, 2012, 126 Stat. 1099.)
+(June 25, 1938, ch. 675, §506C, as added Pub. L. 105–115, title I, §131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, §1001(a), July 9, 2012, 126 Stat. 1099; Pub. L. 114–255, div. A, title III, §3101(a)(2)(E), Dec. 13, 2016, 130 Stat. 1153.)
 
 #### Amendments ####
+
+**2016**—Subsec. (c). Pub. L. 114–255, §3101(a)(2)(E)(i), substituted "discontinuance" for "discontinuation".
+
+Subsec. (g)(1). Pub. L. 114–255, §3101(a)(2)(E)(ii), substituted "section 355(j) of this title, that could help" for "section 355(j) of this title that could help".
 
 **2012**—Pub. L. 112–144 amended section generally. Prior to amendment, section related to discontinuance of life saving products.
 

@@ -26,7 +26,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that, fo
 
 #### (b) Limitation on age of children provided access to system ####
 
-A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) will not provide an individual with access to the system if the individual is more than 21 years of age.
+A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) will provide an individual with access to the system through the age of 21 years.
 
 #### (c) Required mental health services of system ####
 
@@ -130,7 +130,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 The Secretary may waive one or more of the requirements of subsection (c) for a public entity that is an Indian Tribe or tribal organization, or American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, or the United States Virgin Islands if the Secretary determines, after peer review, that the system of care is family-centered and uses the least restrictive environment that is clinically appropriate.
 
-(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, §305(i)(4), Dec. 3, 2004, 118 Stat. 2806.)
+(July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, §305(i)(4), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 114–255, div. B, title X, §10001(b), Dec. 13, 2016, 130 Stat. 1262.)
 
 #### References in Text ####
 
@@ -139,6 +139,8 @@ The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935,
 The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments ####
+
+**2016**—Subsec. (b). Pub. L. 114–255 substituted "will provide an individual with access to the system through the age of 21 years" for "will not provide an individual with access to the system if the individual is more than 21 years of age".
 
 **2004**—Subsec. (d)(3)(B). Pub. L. 108–446 substituted "and C" for "and H".
 

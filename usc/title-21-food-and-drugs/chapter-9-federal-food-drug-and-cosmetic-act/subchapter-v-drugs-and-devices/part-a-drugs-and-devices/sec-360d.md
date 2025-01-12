@@ -72,9 +72,23 @@ to an advisory committee of experts, established pursuant to subparagraph (B), f
 
 #### (c) Recognition of standard ####
 
-(1)(A) In addition to establishing a performance standard under this section, the Secretary shall, by publication in the Federal Register, recognize all or part of an appropriate standard established by a nationally or internationally recognized standard development organization for which a person may submit a declaration of conformity in order to meet a premarket submission requirement or other requirement under this chapter to which such standard is applicable.
+(1)(A) In addition to establishing a performance standard under this section, the Secretary shall, by publication in the Federal Register (or, with respect to a susceptibility test interpretive criteria standard under section 360a–2 of this title, by posting on the Interpretive Criteria Website in accordance with such section), recognize all or part of an appropriate standard established by a nationally or internationally recognized standard development organization for which a person may submit a declaration of conformity in order to meet a premarket submission requirement or other requirement under this chapter to which such standard is applicable.
 
 (B) If a person elects to use a standard recognized by the Secretary under subparagraph (A) to meet the requirements described in such subparagraph, the person shall provide a declaration of conformity to the Secretary that certifies that the device is in conformity with such standard. A person may elect to use data, or information, other than data required by a standard recognized under subparagraph (A) to meet any requirement regarding devices under this chapter.
+
+(C)(i) Any person may submit a request for recognition under subparagraph (A) of all or part of an appropriate standard established by a nationally or internationally recognized standard organization.<sup><a href="#360d_1_target" name="360d_1">1</a></sup>
+
+(ii) Not later than 60 calendar days after the Secretary receives such a request, the Secretary shall—
+
+(I) make a determination to recognize all, part, or none of the standard that is the subject of the request; and
+
+(II) issue to the person who submitted such request a response in writing that states the Secretary's rationale for that determination, including the scientific, technical, regulatory, or other basis for such determination.
+
+(iii) The Secretary shall make a response issued under clause (ii)(II) publicly available, in such a manner as the Secretary determines appropriate.
+
+(iv) The Secretary shall take such actions as may be necessary to implement all or part of a standard recognized under clause (ii)(I), in accordance with subparagraph (A).
+
+(D) The Secretary shall make publicly available, in such manner as the Secretary determines appropriate, the rationale for recognition under subparagraph (A) of all, part, or none of a standard, including the scientific, technical, regulatory, or other basis for the decision regarding such recognition.
 
 (2) The Secretary may withdraw such recognition of a standard through publication of a notice in the Federal Register if the Secretary determines that the standard is no longer appropriate for meeting a requirement regarding devices under this chapter.
 
@@ -88,9 +102,17 @@ to an advisory committee of experts, established pursuant to subparagraph (B), f
 
 (C) A person making a declaration of conformity with respect to a standard recognized under paragraph (1) shall maintain the data and information demonstrating conformity of the device to the standard for a period of two years after the date of the classification or approval of the device by the Secretary or a period equal to the expected design life of the device, whichever is longer.
 
-(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056.)
+(4) The Secretary shall provide to all employees of the Food and Drug Administration who review premarket submissions for devices periodic training on the concept and use of recognized standards for purposes of meeting a premarket submission requirement or other applicable requirement under this chapter, including standards relevant to an employee's area of device review.
+
+(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125.)
 
 #### Amendments ####
+
+**2016**—Subsec. (c)(1)(A). Pub. L. 114–255, §3044(b)(3), inserted "(or, with respect to a susceptibility test interpretive criteria standard under section 360a–2 of this title, by posting on the Interpretive Criteria Website in accordance with such section)" after "the Secretary shall, by publication in the Federal Register".
+
+Subsec. (c)(1)(C), (D). Pub. L. 114–255, §3053(a)(1), added subpars. (C) and (D).
+
+Subsec. (c)(4). Pub. L. 114–255, §3053(a)(2), added par. (4).
 
 **2012**—Subsec. (a)(1). Pub. L. 112–144 substituted "under an administrative order under section 360c(e) of this title (or a regulation promulgated under such section prior to July 9, 2012) but such order (or regulation)" for "under a regulation under section 360c(e) of this title but such regulation".
 
@@ -146,6 +168,10 @@ Subsec. (g). Pub. L. 101–629, §6(a)(3), redesignated subsec. (g) as (b).
 
 Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
 
+#### Construction of 2016 Amendment ####
+
+Nothing in amendment by section 3044(b)(3) of Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under section 356(h) of this title, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of this title.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
@@ -153,3 +179,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Termination of Advisory Committees ####
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Guidance ####
+
+Pub. L. 114–255, div. A, title III, §3053(b), Dec. 13, 2016, 130 Stat. 1125, provided that: "The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall review and update, if necessary, previously published guidance and standard operating procedures identifying the principles for recognizing standards, and for withdrawing the recognition of standards, under section 514(c) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360d(c)), taking into account the experience with and reliance on a standard by foreign regulatory authorities and the device industry, and whether recognition of a standard will promote harmonization among regulatory authorities in the regulation of devices."
+
+[<sup>1</sup> So in original. Probably should be "standard development organization."](#360d_1)

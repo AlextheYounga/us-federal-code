@@ -6,9 +6,11 @@
 
 (A) there is in effect an approval of an application filed pursuant to subsection (b) with respect to such use or intended use of such drug, and such drug, its labeling, and such use conform to such approved application;
 
-(B) there is in effect a conditional approval of an application filed pursuant to section 360ccc of this title with respect to such use or intended use of such drug, and such drug, its labeling, and such use conform to such conditionally approved application; or
+(B) there is in effect a conditional approval of an application filed pursuant to section 360ccc of this title with respect to such use or intended use of such drug, and such drug, its labeling, and such use conform to such conditionally approved application;
 
-(C) there is in effect an index listing pursuant to section 360ccc–1 of this title with respect to such use or intended use of such drug in a minor species, and such drug, its labeling, and such use conform to such index listing.
+(C) there is in effect an index listing pursuant to section 360ccc–1 of this title with respect to such use or intended use of such drug in a minor species, and such drug, its labeling, and such use conform to such index listing; or
+
+(D) there is in effect an authorization pursuant to section 360bbb–3 of this title with respect to such use or intended use of such drug, and such drug, its labeling, and such use conform to any conditions of such authorization.
 
 A new animal drug shall also be deemed unsafe for such purposes in the event of removal from the establishment of a manufacturer, packer, or distributor of such drug for use in the manufacture of animal feed in any State unless at the time of such removal such manufacturer, packer, or distributor has an unrevoked written statement from the consignee of such drug, or notice from the Secretary, to the effect that, with respect to the use of such drug in animal feed, such consignee (i) holds a license issued under subsection (m) and has in its possession current approved labeling for such drug in animal feed; or (ii) will, if the consignee is not a user of the drug, ship such drug only to a holder of a license issued under subsection (m).
 
@@ -498,7 +500,7 @@ For purposes of this section, with respect to an application described in paragr
 
 (B) the date of issuance of the interim final rule controlling the drug.
 
-(June 25, 1938, ch. 675, §512, as added Pub. L. 90–399, §101(b), July 13, 1968, 82 Stat. 343; amended Pub. L. 100–670, title I, §§101, 102, 104, 107(a)(2), Nov. 16, 1988, 102 Stat. 3971, 3981, 3982, 3984; Pub. L. 102–108, §2(e), Aug. 17, 1991, 105 Stat. 550; Pub. L. 103–80, §3(r), Aug. 13, 1993, 107 Stat. 777; Pub. L. 103–396, §2(a), (b)(2), (3), Oct. 22, 1994, 108 Stat. 4153, 4154; Pub. L. 104–250, §§2(a)–(d), 3, 4, 5(c), 6(a), (b), Oct. 9, 1996, 110 Stat. 3151–3153, 3155–3157; Pub. L. 105–115, title I, §124(b), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 105–277, div. A, §101(a) [title VII, §737], Oct. 21, 1998, 112 Stat. 2681, 2681–30; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(11)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 108–282, title I, §102(b)(2), (3), (5)(I)–(S), Aug. 2, 2004, 118 Stat. 892, 903, 904; Pub. L. 110–316, title I, §105(a), Aug. 14, 2008, 122 Stat. 3513; Pub. L. 114–89, §2(a)(3)(A), Nov. 25, 2015, 129 Stat. 699.)
+(June 25, 1938, ch. 675, §512, as added Pub. L. 90–399, §101(b), July 13, 1968, 82 Stat. 343; amended Pub. L. 100–670, title I, §§101, 102, 104, 107(a)(2), Nov. 16, 1988, 102 Stat. 3971, 3981, 3982, 3984; Pub. L. 102–108, §2(e), Aug. 17, 1991, 105 Stat. 550; Pub. L. 103–80, §3(r), Aug. 13, 1993, 107 Stat. 777; Pub. L. 103–396, §2(a), (b)(2), (3), Oct. 22, 1994, 108 Stat. 4153, 4154; Pub. L. 104–250, §§2(a)–(d), 3, 4, 5(c), 6(a), (b), Oct. 9, 1996, 110 Stat. 3151–3153, 3155–3157; Pub. L. 105–115, title I, §124(b), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 105–277, div. A, §101(a) [title VII, §737], Oct. 21, 1998, 112 Stat. 2681, 2681–30; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(11)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 108–282, title I, §102(b)(2), (3), (5)(I)–(S), Aug. 2, 2004, 118 Stat. 892, 903, 904; Pub. L. 110–316, title I, §105(a), Aug. 14, 2008, 122 Stat. 3513; Pub. L. 114–89, §2(a)(3)(A), Nov. 25, 2015, 129 Stat. 699; Pub. L. 114–255, div. A, title III, §3088(b), Dec. 13, 2016, 130 Stat. 1149.)
 
 #### References in Text ####
 
@@ -507,6 +509,8 @@ Section 342(a)(2) of this title, referred to in subsec. (a)(6), was amended by P
 The Controlled Substances Act, referred to in subsec. (q)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(1)(D). Pub. L. 114–255 added subpar. (D).
 
 **2015**—Subsec. (q). Pub. L. 114–89 added subsec. (q).
 

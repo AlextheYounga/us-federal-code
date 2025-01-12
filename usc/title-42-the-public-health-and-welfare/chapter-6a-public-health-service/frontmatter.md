@@ -86,7 +86,7 @@ Sec.
 
 236. Orphan Products Board.
 
-237. Silvio O. Conte Senior Biomedical Research Service.
+237. Silvio O. Conte Senior Biomedical Research and Biomedical Product Assessment Service.
 
 237a. Health and Human Services Office on Women's Health.
 
@@ -260,6 +260,8 @@ Sec.
 
 247b–13. Prenatal and postnatal health.
 
+247b–13a. Screening and treatment for maternal depression.
+
 247b–14. Oral health promotion and disease prevention.
 
 247b–14a. Identification of interventions that reduce the burden and transmission of oral, dental, and craniofacial diseases in high risk populations; development of approaches for pediatric oral and craniofacial assessment.
@@ -300,7 +302,7 @@ Sec.
 
 247d–5. Combating antimicrobial resistance.
 
-247d–5a. Identification of clinically susceptible concentrations of antimicrobials.
+247d–5a. Repealed.
 
 247d–6. Public health countermeasures to a bioterrorist attack.
 
@@ -413,6 +415,8 @@ Sec.
 254c–17. Repealed.
 
 254c–18. Telemedicine; incentive grants regarding coordination among States.
+
+254c–19. Pediatric mental health care access grants.
 
 #### subpart ii—national health service corps program ####
 
@@ -712,6 +716,8 @@ Sec.
 
 280g–7. Amyotrophic lateral sclerosis registry.
 
+280g–7a. Surveillance of neurological diseases.
+
 280g–8. Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions.
 
 280g–9. Programs to improve quality of life for persons with paralysis and other physical disabilities.
@@ -745,6 +751,8 @@ Sec.
 280h–4. Grants for the establishment of school-based health centers.
 
 280h–5. School-based health centers.
+
+280h–6. Infant and early childhood mental health promotion, intervention, and treatment.
 
 #### Part R—Programs Relating to Autism ####
 
@@ -810,7 +818,7 @@ Sec.
 
 282d. Transferred.
 
-283. Biennial reports of Director of NIH.
+283. Triennial reports of Director of NIH.
 
 283a. Annual reporting to increase interagency collaboration and coordination.
 
@@ -834,7 +842,7 @@ Sec.
 
 283h, 283i. Transferred.
 
-283j. Review of centers of excellence.
+283j. Repealed.
 
 283k. Biomedical and behavioral research facilities.
 
@@ -843,6 +851,12 @@ Sec.
 283m. Sanctuary system for surplus chimpanzees.
 
 283n. Shared Instrumentation Grant Program.
+
+283o. Next generation of researchers.
+
+283p. Population focused research.
+
+283q. Eureka prize competitions.
 
 #### Part B—General Provisions Respecting National Research Institutes ####
 
@@ -885,6 +899,10 @@ Sec.
 284q. Pain research.
 
 284q–1. NIH opioid research.
+
+284r. Basic research.
+
+284s. Tick-borne diseases.
 
 #### Part C—Specific Provisions Respecting National Research Institutes ####
 
@@ -1148,7 +1166,7 @@ Sec.
 
 285q–2. Advisory council.
 
-285q–3. Biennial report.
+285q–3. Repealed.
 
 #### subpart 18—national institute of biomedical imaging and bioengineering ####
 
@@ -1164,7 +1182,7 @@ Sec.
 
 285t–1. Centers of excellence for research education and training.
 
-285t–2. Loan repayment program for minority health disparities research.
+285t–2. Repealed.
 
 285t–3. General provisions regarding the Institute.
 
@@ -1256,19 +1274,15 @@ Sec.
 
 288. Ruth L. Kirschstein National Research Service Awards.
 
-288–1. Loan repayment program for research with respect to acquired immune deficiency syndrome.
+288–1. Intramural loan repayment program.
 
-288–2. Loan repayment program for research with respect to contraception and infertility.
+288–2. Extramural loan repayment program.
 
-288–3. Loan repayment program for research generally.
+288–3. Repealed.
 
 288–4. Undergraduate scholarship program regarding professions needed by National Research Institutes.
 
-288–5. Loan repayment program regarding clinical researchers from disadvantaged backgrounds.
-
-288–5a. Loan repayment program regarding clinical researchers.
-
-288–6. Pediatric research loan repayment program.
+288–5 to 288–6. Repealed.
 
 288a. Visiting Scientist Awards.
 
@@ -1308,6 +1322,8 @@ Sec.
 
 289g–4. Support for emergency medicine research.
 
+289g–5. Precision medicine initiative.
+
 289h. Repealed.
 
 290. National Institutes of Health Management Fund; establishment; advancements; availability; final adjustments of advances.
@@ -1324,6 +1340,8 @@ Sec.
 
 290aa. Substance Abuse and Mental Health Services Administration.
 
+290aa–0. National Mental Health and Substance Use Policy Laboratory.
+
 290aa–1. Advisory councils.
 
 290aa–2. Omitted.
@@ -1334,15 +1352,13 @@ Sec.
 
 290aa–3a. Transferred.
 
-290aa–4. Data collection.
+290aa–4. Center for behavioral health statistics and quality.
 
 290aa–5. Grants for the benefit of homeless individuals.
 
 290aa–5a. Alcohol and drug prevention or treatment services for Indians and Native Alaskans.
 
-290aa–5b. Grants for ecstasy and other club drugs abuse prevention.
-
-290aa–6 to 290aa–14. Transferred or Repealed.
+290aa–5b to 290aa–14. Transferred or Repealed.
 
 290aa–15. Department of Health and Human Services grant accountability.
 
@@ -1366,35 +1382,31 @@ Sec.
 
 290bb–6. Action by Center for Substance Abuse Treatment and States concerning military facilities.
 
-290bb–7. Substance abuse treatment services for children and adolescents.
+290bb–7. Substance use disorder treatment and early intervention services for children and adolescents.
 
-290bb–8. Early intervention services for children and adolescents.
-
-290bb–9. Methamphetamine and amphetamine treatment initiative.
+290bb–8, 290bb–9. Repealed.
 
 290bb–10. Evidence-based prescription opioid and heroin treatment and interventions demonstration.
 
 #### subpart 2—center for substance abuse prevention ####
 
-290bb–21. Office for Substance Abuse Prevention.
+290bb–21. Center for Substance Abuse Prevention.
 
-290bb–22. Priority substance abuse prevention needs of regional and national significance.
+290bb–22. Priority substance use disorder prevention needs of regional and national significance.
 
-290bb–23. Prevention, treatment, and rehabilitation model projects for high risk youth.
-
-290bb–24. Repealed.
+290bb–23, 290bb–24. Repealed.
 
 290bb–25. Grants for services for children of substance abusers.
 
-290bb–25a. Grants for strengthening families.
+290bb–25a. Repealed.
 
 290bb–25b. Programs to reduce underage drinking.
 
-290bb–25c. Services for individuals with fetal alcohol syndrome.
+290bb–25c. Repealed.
 
 290bb–25d. Centers of excellence on services for individuals with fetal alcohol syndrome and alcohol-related birth defects and treatment for individuals with such conditions and their families.
 
-290bb–25e. Prevention of methamphetamine and inhalant abuse and addiction.
+290bb–25e. Repealed.
 
 290bb–25f. Prevention and education programs.
 
@@ -1406,29 +1418,37 @@ Sec.
 
 290bb–32. Priority mental health needs of regional and national significance.
 
-290bb–33. National centers of excellence for depression.
+290bb–33. Repealed.
 
-290bb–34. Youth interagency research, training, and technical assistance centers.
+290bb–34. Suicide prevention technical assistance center.
 
-290bb–35. Services for youth offenders.
+290bb–35. Repealed.
 
 290bb–36. Youth suicide early intervention and prevention strategies.
 
 290bb–36a. Suicide prevention for youth.
 
-290bb–36b. Mental and behavioral health services on campus.
+290bb–36b. Mental health and substance use disorder services on campus.
 
-290bb–37. Grants for emergency mental health centers.
+290bb–36c. National Suicide Prevention Lifeline program.
+
+290bb–36d. Treatment Referral Routing Service.
+
+290bb–37. Strengthening community crisis response systems.
 
 290bb–38. Grants for jail diversion programs.
 
-290bb–39. Improving outcomes for children and adolescents through services integration between child welfare and mental health services.
+290bb–39. Repealed.
 
 290bb–40. Grants for the integrated treatment of serious mental illness and co-occurring substance abuse.
 
-290bb–41. Training grants.
+290bb–41. Mental health awareness training grants.
 
-290bb–42. Awards for co-locating primary and specialty care in community-based mental health settings.
+290bb–42. Integration incentive grants and cooperative agreements.
+
+290bb–43. Adult suicide prevention.
+
+290bb–44. .Assertive community treatment grant program.
 
 290cc to 290cc–13. Repealed or Transferred.
 
@@ -1472,6 +1492,8 @@ Sec.
 
 290dd–2. Confidentiality of records.
 
+290dd–2a. Promoting access to information on evidence-based programs and practices.
+
 290dd–3. Grants for reducing overdose deaths.
 
 290ee. Opioid overdose reversal medication access and education grant programs.
@@ -1481,6 +1503,8 @@ Sec.
 290ee–2. Building communities of recovery.
 
 290ee–3. State demonstration grants for comprehensive opioid abuse response.
+
+290ee–4. Mental and behavioral health outreach and education on college campuses.
 
 #### Part E—Children With Serious Emotional Disturbances ####
 
@@ -1529,6 +1553,10 @@ Sec.
 290kk–2. Limitations on use of funds for certain purposes.
 
 290kk–3. Educational requirements for personnel in drug treatment programs.
+
+#### Part K—Minority Fellowship Program ####
+
+290 ll. Fellowships.
 
 #### SUBCHAPTER IV—CONSTRUCTION AND MODERNIZATION OF HOSPITALS AND OTHER MEDICAL FACILITIES ####
 
@@ -1715,6 +1743,8 @@ Sec.
 294i. Program for education and training in pain care.
 
 294j. Demonstration program to integrate quality improvement and patient safety training into clinical education of health professionals.
+
+294k. Training demonstration program.
 
 #### Part E—Health Professions and Public Health Workforce ####
 
@@ -2458,7 +2488,7 @@ Sec.
 
 300x–24. Requirements regarding tuberculosis and human immunodeficiency virus.
 
-300x–25. Group homes for recovering substance abusers.
+300x–25. Group homes for persons in recovery from substance use disorders.
 
 300x–26. State law regarding sale of tobacco products to individuals under age of 18.
 
@@ -2468,7 +2498,7 @@ Sec.
 
 300x–28. Additional agreements.
 
-300x–29. Submission to Secretary of statewide assessment of needs.
+300x–29. Repealed.
 
 300x–30. Maintenance of effort regarding State expenditures.
 
@@ -2515,6 +2545,10 @@ Sec.
 300x–65. Services provided by nongovernmental organizations.
 
 300x–66. Services for individuals with co-occurring disorders.
+
+300x–67. Public health emergencies.
+
+300x–68. Joint applications.
 
 #### Part C—Certain Programs Regarding Mental Health and Substance Abuse ####
 
@@ -3116,9 +3150,9 @@ Sec.
 
 300jj–11. Office of the National Coordinator for Health Information Technology.
 
-300jj–12. HIT Policy Committee.
+300jj–12. Health Information Technology Advisory Committee.
 
-300jj–13. HIT Standards Committee.
+300jj–13. Setting priorities for standards adoption.
 
 300jj–14. Process for adoption of endorsed recommendations; adoption of initial set of standards, implementation specifications, and certification criteria.
 
@@ -3131,6 +3165,8 @@ Sec.
 300jj–18. Transitions.
 
 300jj–19. Miscellaneous provisions.
+
+300jj–19a. Electronic health record reporting program.
 
 #### Part B—Incentives for the Use of Health Information Technology ####
 
@@ -3153,6 +3189,8 @@ Sec.
 #### Part C—Other Provisions ####
 
 300jj–51. Health information technology enrollment standards and protocols.
+
+300jj–52. Information blocking.
 
 #### SUBCHAPTER XXIX—DATA COLLECTION, ANALYSIS, AND QUALITY ####
 

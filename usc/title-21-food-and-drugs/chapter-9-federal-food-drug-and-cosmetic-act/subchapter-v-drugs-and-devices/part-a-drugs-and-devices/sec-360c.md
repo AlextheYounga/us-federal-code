@@ -76,7 +76,25 @@ the Secretary shall classify all such devices (other than devices classified by 
 
 (4) The Secretary shall furnish each panel with adequate clerical and other necessary assistance.
 
-(5) Classification panels covering each type of device shall be scheduled to meet at such times as may be appropriate for the Secretary to meet applicable statutory deadlines.
+(5)(A) Classification panels covering each type of device shall be scheduled to meet at such times as may be appropriate for the Secretary to meet applicable statutory deadlines.
+
+(B) When a device is specifically the subject of review by a classification panel, the Secretary shall—
+
+(i) ensure that adequate expertise is represented on the classification panel to assess—
+
+(I) the disease or condition which the device is intended to cure, treat, mitigate, prevent, or diagnose; and
+
+(II) the technology of the device; and
+
+(ii) provide an opportunity for the person whose device is specifically the subject of panel review to provide recommendations on the expertise needed among the voting members of the panel.
+
+(C) For purposes of subparagraph (B)(i), the term "adequate expertise" means that the membership of the classification panel includes—
+
+(i) two or more voting members, with a specialty or other expertise clinically relevant to the device under review; and
+
+(ii) at least one voting member who is knowledgeable about the technology of the device.
+
+(D) The Secretary shall provide an annual opportunity for patients, representatives of patients, and sponsors of medical device submissions to provide recommendations for individuals with appropriate expertise to fill voting member positions on classification panels.
 
 (6)(A) Any person whose device is specifically the subject of review by a classification panel shall have—
 
@@ -84,13 +102,25 @@ the Secretary shall classify all such devices (other than devices classified by 
 
 (ii) the opportunity to submit, for review by a classification panel, information that is based on the data or information provided in the application submitted under section 360e of this title by the person, which information shall be submitted to the Secretary for prompt transmittal to the classification panel; and
 
-(iii) the same opportunity as the Secretary to participate in meetings of the panel.
+(iii) the same opportunity as the Secretary to participate in meetings of the panel, including, subject to the discretion of the panel chairperson, by designating a representative who will be provided a time during the panel meeting to address the panel for the purpose of correcting misstatements of fact or providing clarifying information, and permitting the person or representative to call on experts within the person's organization to address such specific issues in the time provided.
 
-(B) Any meetings of a classification panel shall provide adequate time for initial presentations and for response to any differing views by persons whose devices are specifically the subject of a classification panel review, and shall encourage free and open participation by all interested persons.
+(B)(i) Any meeting of a classification panel with respect to the review of a device shall—
+
+(I) provide adequate time for initial presentations by the person whose device is specifically the subject of such review and by the Secretary; and
+
+(II) encourage free and open participation by all interested persons.
+
+(ii) Following the initial presentations described in clause (i), the panel may—
+
+(I) pose questions to a designated representative described in subparagraph (A)(iii); and
+
+(II) consider the responses to such questions in the panel's review of the device.
 
 (7) After receiving from a classification panel the conclusions and recommendations of the panel on a matter that the panel has reviewed, the Secretary shall review the conclusions and recommendations, shall make a final decision on the matter in accordance with section 360e(d)(2) of this title, and shall notify the affected persons of the decision in writing and, if the decision differs from the conclusions and recommendations of the panel, shall include the reasons for the difference.
 
 (8) A classification panel under this subsection shall not be subject to the annual chartering and annual report requirements of the Federal Advisory Committee Act.
+
+(9) The Secretary shall classify an accessory under this section based on the intended use of the accessory, notwithstanding the classification of any other device with which such accessory is intended to be used.
 
 #### (c) Classification panel organization and operation ####
 
@@ -158,13 +188,13 @@ such panel shall recommend to the Secretary that the device be classified in cla
 
 A device classified in class III under this paragraph shall be classified in that class until the effective date of an order of the Secretary under paragraph (2) or (3) classifying the device in class I or II.
 
-(2)(A)(i) Any person who submits a report under section 360(k) of this title for a type of device that has not been previously classified under this chapter, and that is classified into class III under paragraph (1), may request, within 30 days after receiving written notice of such a classification, the Secretary to classify the device.
+(2)(A)(i) Any person who submits a report under section 360(k) of this title for a type of device that has not been previously classified under this chapter, and that is classified into class III under paragraph (1), may request, after receiving written notice of such a classification, the Secretary to classify the device.
 
 (ii) In lieu of submitting a report under section 360(k) of this title and submitting a request for classification under clause (i) for a device, if a person determines there is no legally marketed device upon which to base a determination of substantial equivalence (as defined in subsection (i)), a person may submit a request under this clause for the Secretary to classify the device.
 
 (iii) Upon receipt of a request under clause (i) or (ii), the Secretary shall classify the device subject to the request under the criteria set forth in subparagraphs (A) through (C) of subsection (a)(1) within 120 days.
 
-(iv) Notwithstanding clause (iii), the Secretary may decline to undertake a classification request submitted under clause (ii) if the Secretary identifies a legally marketed device that could provide a reasonable basis for review of substantial equivalence under paragraph (1), or when the Secretary determines that the device submitted is not of low-moderate risk or that general controls would be inadequate to control the risks and special controls to mitigate the risks cannot be developed.
+(iv) Notwithstanding clause (iii), the Secretary may decline to undertake a classification request submitted under clause (ii) if the Secretary identifies a legally marketed device that could provide a reasonable basis for review of substantial equivalence under paragraph (1), or when the Secretary determines that the device submitted is not of low to moderate risk or that general controls would be inadequate to control the risks and special controls to mitigate the risks cannot be developed.
 
 (v) The person submitting the request for classification under this subparagraph may recommend to the Secretary a classification for the device and shall, if recommending classification in class II, include in the request an initial draft proposal for applicable special controls, as described in subsection (a)(1)(B), that are necessary, in conjunction with general controls, to provide reasonable assurance of safety and effectiveness and a description of how the special controls provide such assurance. Any such request shall describe the device and provide detailed information and reasons for the recommended classification.
 
@@ -252,13 +282,51 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 (B) Any summary under subparagraph (A) respecting a device shall contain detailed information regarding data concerning adverse health effects and shall be made available to the public by the Secretary within 30 days of the issuance of a determination that such device is substantially equivalent to another device.
 
-(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056.)
+#### (j) Training and oversight of least burdensome requirements ####
+
+#### (1) The Secretary shall— ####
+
+(A) ensure that each employee of the Food and Drug Administration who is involved in the review of premarket submissions, including supervisors, receives training regarding the meaning and implementation of the least burdensome requirements under subsections (a)(3)(D) and (i)(1)(D) of this section and section 360e(c)(5) of this title; and
+
+(B) periodically assess the implementation of the least burdensome requirements, including the employee training under subparagraph (A), to ensure that the least burdensome requirements are fully and consistently applied.
+
+#### (2) Not later than 18 months after December 13, 2016, the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall— ####
+
+(A) conduct an audit of the training described in paragraph (1)(A), including the effectiveness of such training in implementing the least burdensome requirements;
+
+(B) include in such audit interviews of persons who are representatives of the device industry regarding their experiences in the device premarket review process, including with respect to the application of least burdensome concepts to premarket review and decisionmaking;
+
+(C) include in such audit a list of the measurement tools the Secretary uses to assess the implementation of the least burdensome requirements, including under paragraph (1)(B) and section 360g–1(a)(3) of this title, and may also provide feedback on the effectiveness of such tools in the implementation of the least burdensome requirements;
+
+(D) summarize the findings of such audit in a final audit report; and
+
+(E) within 30 calendar days of completion of such final audit report, make such final audit report available—
+
+(i) to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives; and
+
+(ii) on the Internet website of the Food and Drug Administration.
+
+(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056; Pub. L. 114–255, div. A, title III, §§3055, 3058(a), 3060(c), 3101(a)(2)(I), Dec. 13, 2016, 130 Stat. 1127, 1128, 1133, 1154.)
 
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2016**—Subsec. (b)(5). Pub. L. 114–255, §3055(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+
+Subsec. (b)(6)(A)(iii). Pub. L. 114–255, §3055(b)(1), inserted before period at end ", including, subject to the discretion of the panel chairperson, by designating a representative who will be provided a time during the panel meeting to address the panel for the purpose of correcting misstatements of fact or providing clarifying information, and permitting the person or representative to call on experts within the person's organization to address such specific issues in the time provided".
+
+Subsec. (b)(6)(B). Pub. L. 114–255, §3055(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "Any meetings of a classification panel shall provide adequate time for initial presentations and for response to any differing views by persons whose devices are specifically the subject of a classification panel review, and shall encourage free and open participation by all interested persons."
+
+Subsec. (b)(9). Pub. L. 114–255, §3060(c), added par. (9).
+
+Subsec. (f)(2)(A)(i). Pub. L. 114–255, §3101(a)(2)(I)(i), struck out "within 30 days" after "may request,".
+
+Subsec. (f)(2)(A)(iv). Pub. L. 114–255, §3101(a)(2)(I)(ii), substituted "low to moderate" for "low-moderate".
+
+Subsec. (j). Pub. L. 114–255, §3058(a), added subsec. (j).
 
 **2012**—Subsec. (a)(3)(D)(iii) to (v). Pub. L. 112–144, §602(a), added cls. (iii) and (iv) and redesignated former cl. (iii) as (v).
 

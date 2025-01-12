@@ -62,13 +62,11 @@ Pub. L. 106–345, title V, §502, Oct. 20, 2000, 114 Stat. 1353, provided that:
 
 "(1) In general.—The Director of NIH shall expand, intensify, and coordinate research and other activities of the National Institutes of Health with respect to the development of reliable and affordable tests for HIV disease that can rapidly be administered and whose results can rapidly be obtained (in this section referred to as 'rapid HIV test').
 
-"(2) Report to congress.—The Director of NIH shall periodically submit to the appropriate committees of Congress a report describing the research and other activities conducted or supported under paragraph (1).
-
-"(3) Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+"(2) Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 "(b) Premarket Review of Rapid HIV Tests.—
 
-"(1) In general.—Not later than 90 days after the date of the enactment of this Act [Oct. 20, 2000], the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs, shall submit to the appropriate committees of the Congress a report describing the progress made towards, and barriers to, the premarket review and commercial distribution of rapid HIV tests. The report shall—
+"(1) [sic] In general.—Not later than 90 days after the date of the enactment of this Act [Oct. 20, 2000], the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs, shall submit to the appropriate committees of the Congress a report describing the progress made towards, and barriers to, the premarket review and commercial distribution of rapid HIV tests. The report shall—
 
 "(A) assess the public health need for and public health benefits of rapid HIV tests, including the minimization of false positive results through the availability of multiple rapid HIV tests;
 

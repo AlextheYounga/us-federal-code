@@ -8,9 +8,15 @@ For purposes of carrying out this subchapter, there are authorized to be appropr
 
 (A) $30,331,309,000 for fiscal year 2007;
 
-(B) $32,831,309,000 for fiscal year 2008; and
+(B) $32,831,309,000 for fiscal year 2008;
 
-(C) such sums as may be necessary for fiscal year 2009.
+(C) such sums as may be necessary for fiscal year 2009;
+
+(D) $34,851,000,000 for fiscal year 2018;
+
+(E) $35,585,871,000 for fiscal year 2019; and
+
+(F) $36,472,442,775 for fiscal year 2020.
 
 #### (2) Funding for 10-year pediatric research initiative through Common Fund ####
 
@@ -40,7 +46,7 @@ For each fiscal year, the percentage constituted by the amount reserved under cl
 
 #### (C) Common Fund strategic planning report ####
 
-Not later than June 1, 2007, and every 2 years thereafter, the Secretary, acting through the Director of NIH, shall submit a report to the Congress containing a strategic plan for funding research described in section 282(b)(7)(A)(i) of this title (including personnel needs) through the Common Fund. Each such plan shall include the following:
+As part of the National Institutes of Health Strategic Plan required under section 282(m) of this title, the Secretary, acting through the Director of NIH, shall submit a report to the Congress containing a strategic plan for funding research described in section 282(b)(7)(A)(i) of this title (including personnel needs) through the Common Fund. Each such plan shall include the following:
 
 (i) An estimate of the amounts determined by the Director of NIH to be appropriate for maximizing the potential of such research.
 
@@ -64,11 +70,7 @@ With respect to the total amount appropriated under subsection (a) for fiscal ye
 
 #### (B) Reporting ####
 
-Not later than January 1, 2008, and each January 1st thereafter—
-
-(i) the head of each national research institute or national center shall submit to the Director of NIH a report on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers; and
-
-(ii) the Secretary shall submit a report to the Congress identifying the percentage of funds made available by each national research institute and national center with respect to such fiscal year for conducting or supporting research described in clause (i).
+Not later than 2 years after December 13, 2016, the head of each national research institute or national center shall submit to the Director of the National Institutes of Health a report, to be included in the triennial report under section 283 of this title, on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers.
 
 #### (C) Determination ####
 
@@ -76,11 +78,11 @@ For purposes of determining the amount or percentage of funds to be reported und
 
 #### (D) Verification of amounts ####
 
-Upon receipt of each report submitted under subparagraph (B)(i), the Director of NIH shall review and, in cases of discrepancy, verify the accuracy of the amounts specified in the report.
+Upon receipt of each report submitted under subparagraph (B), the Director of NIH shall review and, in cases of discrepancy, verify the accuracy of the amounts specified in the report.
 
 #### (E) Waiver ####
 
-At the request of any national research institute or national center, the Director of NIH may waive the application of this paragraph to such institute or center if the Director finds that the conduct or support of research described in subparagraph (B)(i) is inconsistent with the mission of such institute or center.
+At the request of any national research institute or national center, the Director of NIH may waive the application of this paragraph to such institute or center if the Director finds that the conduct or support of research described in subparagraph (B) is inconsistent with the mission of such institute or center.
 
 #### (d) Transfer authority ####
 
@@ -90,9 +92,21 @@ Of the total amount appropriated under subsection (a)(1) for a fiscal year, the 
 
 This section may not be construed as affecting the authorities of the Director of NIH under section 281 of this title.
 
-(July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087.)
+(July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087; Pub. L. 114–255, div. A, title II, §§2001, 2031(b), 2042(a), Dec. 13, 2016, 130 Stat. 1047, 1056, 1073.)
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(1)(D) to (F). Pub. L. 114–255, §2001, added subpars. (D) to (F).
+
+Subsec. (c)(1)(C). Pub. L. 114–255, §2031(b), substituted "As part of the National Institutes of Health Strategic Plan required under section 282(m) of this title," for "Not later than June 1, 2007, and every 2 years thereafter,".
+
+Subsec. (c)(2)(B). Pub. L. 114–255, §2042(a)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: "Not later than January 1, 2008, and each January 1st thereafter—
+
+"(i) the head of each national research institute or national center shall submit to the Director of NIH a report on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers; and
+
+"(ii) the Secretary shall submit a report to the Congress identifying the percentage of funds made available by each national research institute and national center with respect to such fiscal year for conducting or supporting research described in clause (i)."
+
+Subsec. (c)(2)(D), (E). Pub. L. 114–255, §2042(a)(2), substituted "(B)" for "(B)(i)".
 
 **2014**—Subsec. (a). Pub. L. 113–94, §3(b)(1)(B), which directed amendment of subsec. (a) by striking "For purposes of carrying out this subchapter" and inserting par. (1) designation, heading, and "For purposes of carrying out this subchapter", was executed by striking "For the purpose of carrying out this subchapter" and making the insertions as directed, to reflect the probable intent of Congress.
 

@@ -1,0 +1,7 @@
+### §§288–5 to 288–6. Repealed. Pub. L. 114–255, div. A, title II, §2022(c)(3)–(5), Dec. 13, 2016, 130 Stat. 1054 ###
+
+Section 288–5, July 1, 1944, ch. 373, title IV, §487E, as added Pub. L. 103–43, title XVI, §1631, June 10, 1993, 107 Stat. 185; amended Pub. L. 105–392, title IV, §410(d), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–554, §1(a)(1) [title II, §223], Dec. 21, 2000, 114 Stat. 2763, 2763A–30, related to loan repayment program regarding clinical researchers from disadvantaged backgrounds.
+
+Section 288–5a, July 1, 1944, ch. 373, title IV, §487F, as added Pub. L. 106–505, title II, §205, Nov. 13, 2000, 114 Stat. 2329; amended Pub. L. 109–482, title I, §103(b)(49), Jan. 15, 2007, 120 Stat. 3689, related to loan repayment program regarding clinical researchers. Another section 487F of act July 1, 1944, was classified to section 288–6 of this title, prior to repeal by Pub. L. 114–255.
+
+Section 288–6, July 1, 1944, ch. 373, title IV, §487F, as added Pub. L. 106–310, div. A, title X, §1002(b), Oct. 17, 2000, 114 Stat. 1129; amended Pub. L. 110–85, title V, §503(b), Sept. 27, 2007, 121 Stat. 890, related to pediatric research loan repayment program. Another section 487F of act July 1, 1944, was classified to section 288–5a of this title, prior to repeal by Pub. L. 114–255.

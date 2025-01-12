@@ -1,0 +1,163 @@
+### §294k. Training demonstration program ###
+
+#### (a) In general ####
+
+The Secretary shall establish a training demonstration program to award grants to eligible entities to support—
+
+(1) training for medical residents and fellows to practice psychiatry and addiction medicine in underserved, community-based settings that integrate primary care with mental and substance use disorders prevention and treatment services;
+
+(2) training for nurse practitioners, physician assistants, health service psychologists, and social workers to provide mental and substance use disorders services in underserved community-based settings that integrate primary care and mental and substance use disorders services; and
+
+(3) establishing, maintaining, or improving academic units or programs that—
+
+(A) provide training for students or faculty, including through clinical experiences and research, to improve the ability to be able to recognize, diagnose, and treat mental and substance use disorders, with a special focus on addiction; or
+
+(B) develop evidence-based practices or recommendations for the design of the units or programs described in subparagraph (A), including curriculum content standards.
+
+#### (b) Activities ####
+
+#### (1) Training for residents and fellows ####
+
+A recipient of a grant under subsection (a)(1)—
+
+(A) shall use the grant funds—
+
+(i)(I) to plan, develop, and operate a training program for medical psychiatry residents and fellows in addiction medicine practicing in eligible entities described in subsection (c)(1); or
+
+(II) to train new psychiatric residents and fellows in addiction medicine to provide and expand access to integrated mental and substance use disorders services; and
+
+(ii) to provide at least 1 training track that is—
+
+(I) a virtual training track that includes an in-person rotation at a teaching health center or in a community-based setting, followed by a virtual rotation in which the resident or fellow continues to support the care of patients at the teaching health center or in the community-based setting through the use of health information technology and, as appropriate, telehealth services;
+
+(II) an in-person training track that includes a rotation, during which the resident or fellow practices at a teaching health center or in a community-based setting; or
+
+(III) an in-person training track that includes a rotation during which the resident practices in a community-based setting that specializes in the treatment of infants, children, adolescents, or pregnant or postpartum women; and
+
+(B) may use the grant funds to provide additional support for the administration of the program or to meet the costs of projects to establish, maintain, or improve faculty development, or departments, divisions, or other units necessary to implement such training.
+
+#### (2) Training for other providers ####
+
+A recipient of a grant under subsection (a)(2)—
+
+(A) shall use the grant funds to plan, develop, or operate a training program to provide mental and substance use disorders services in underserved, community-based settings, as appropriate, that integrate primary care and mental and substance use disorders prevention and treatment services; and
+
+(B) may use the grant funds to provide additional support for the administration of the program or to meet the costs of projects to establish, maintain, or improve faculty development, or departments, divisions, or other units necessary to implement such program.
+
+#### (3) Academic units or programs ####
+
+A recipient of a grant under subsection (a)(3) shall enter into a partnership with organizations such as an education accrediting organization (such as the Liaison Committee on Medical Education, the Accreditation Council for Graduate Medical Education, the Commission on Osteopathic College Accreditation, the Accreditation Commission for Education in Nursing, the Commission on Collegiate Nursing Education, the Accreditation Council for Pharmacy Education, the Council on Social Work Education, American Psychological Association Commission on Accreditation, or the Accreditation Review Commission on Education for the Physician Assistant) to carry out activities under subsection (a)(3).
+
+#### (c) Eligible entities ####
+
+#### (1) Training for residents and fellows ####
+
+To be eligible to receive a grant under subsection (a)(1), an entity shall—
+
+(A) be a consortium consisting of—
+
+(i) at least one teaching health center; and
+
+(ii) the sponsoring institution (or parent institution of the sponsoring institution) of—
+
+(I) a psychiatry residency program that is accredited by the Accreditation Council of Graduate Medical Education (or the parent institution of such a program); or
+
+(II) a fellowship in addiction medicine, as determined appropriate by the Secretary; or
+
+(B) be an entity described in subparagraph (A)(ii) that provides opportunities for residents or fellows to train in community-based settings that integrate primary care with mental and substance use disorders prevention and treatment services.
+
+#### (2) Training for other providers ####
+
+To be eligible to receive a grant under subsection (a)(2), an entity shall be—
+
+(A) a teaching health center (as defined in section 293l–1(f) of this title);
+
+(B) a Federally qualified health center (as defined in section 1396d(l)(2)(B) of this title);
+
+(C) a community mental health center (as defined in section 1395x(ff)(3)(B) of this title);
+
+(D) a rural health clinic (as defined in section 1395x(aa) of this title);
+
+(E) a health center operated by the Indian Health Service, an Indian tribe, a tribal organization, or an urban Indian organization (as defined in section 1603 of title 25); or
+
+(F) an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists, and social workers.
+
+#### (3) Academic units or programs ####
+
+To be eligible to receive a grant under subsection (a)(3), an entity shall be a school of medicine or osteopathic medicine, a nursing school, a physician assistant training program, a school of pharmacy, a school of social work, an accredited public or nonprofit private hospital, an accredited medical residency program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant.
+
+#### (d) Priority ####
+
+#### (1) In general ####
+
+In awarding grants under subsection (a)(1) or (a)(2), the Secretary shall give priority to eligible entities that—
+
+(A) demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, nurse practitioners, physician assistants, or social workers in addiction medicine per year to meet the needs of the area served;
+
+(B) demonstrate experience in training providers to practice team-based care that integrates mental and substance use disorder prevention and treatment services with primary care in community-based settings;
+
+(C) demonstrate experience in using health information technology and, as appropriate, telehealth to support—
+
+(i) the delivery of mental and substance use disorders services at the eligible entities described in subsections (c)(1) and (c)(2); and
+
+(ii) community health centers in integrating primary care and mental and substance use disorders treatment; or
+
+(D) have the capacity to expand access to mental and substance use disorders services in areas with demonstrated need, as determined by the Secretary, such as tribal, rural, or other underserved communities.
+
+#### (2) Academic units or programs ####
+
+In awarding grants under subsection (a)(3), the Secretary shall give priority to eligible entities that—
+
+(A) have a record of training the greatest percentage of mental and substance use disorders providers who enter and remain in these fields or who enter and remain in settings with integrated primary care and mental and substance use disorder prevention and treatment services;
+
+(B) have a record of training individuals who are from underrepresented minority groups, including native populations, or from a rural or disadvantaged background;
+
+(C) provide training in the care of vulnerable populations such as infants, children, adolescents, pregnant and postpartum women, older adults, homeless individuals, victims of abuse or trauma, individuals with disabilities, and other groups as defined by the Secretary;
+
+(D) teach trainees the skills to provide interprofessional, integrated care through collaboration among health professionals; or
+
+(E) provide training in cultural competency and health literacy.
+
+#### (e) Duration ####
+
+Grants awarded under this section shall be for a minimum of 5 years.
+
+#### (f) Study and report ####
+
+#### (1) Study ####
+
+#### (A) In general ####
+
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall conduct a study on the results of the demonstration program under this section.
+
+#### (B) Data submission ####
+
+Not later than 90 days after the completion of the first year of the training program and each subsequent year that the program is in effect, each recipient of a grant under subsection (a) shall submit to the Secretary such data as the Secretary may require for analysis for the report described in paragraph (2).
+
+#### (2) Report to Congress ####
+
+Not later than 1 year after receipt of the data described in paragraph (1)(B), the Secretary shall submit to Congress a report that includes—
+
+(A) an analysis of the effect of the demonstration program under this section on the quality, quantity, and distribution of mental and substance use disorders services;
+
+(B) an analysis of the effect of the demonstration program on the prevalence of untreated mental and substance use disorders in the surrounding communities of health centers participating in the demonstration; and
+
+(C) recommendations on whether the demonstration program should be expanded.
+
+#### (g) Authorization of appropriations ####
+
+There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2018 through 2022.
+
+(July 1, 1944, ch. 373, title VII, §760, as added Pub. L. 114–255, div. B, title IX, §9022, Dec. 13, 2016, 130 Stat. 1250.)
+
+#### Prior Provisions ####
+
+A prior section 294k, act July 1, 1944, ch. 373, title VII, §738, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2265; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(12), 91 Stat. 1506, related to repayment of loans of deceased or disabled borrowers from student loan insurance fund, prior to the general amendment of this subchapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 292m of this title.
+
+Sections 294l to 294m were omitted in the general amendment of this subchapter by Pub. L. 102–408.
+
+Section 294l, act July 1, 1944, ch. 373, title VII, §739, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2266; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(13), 91 Stat. 1506; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2733, 95 Stat. 920, related to eligibility of institutions and recordation and availability of information. See section 292n of this title.
+
+Section 294l–1, act July 1, 1944, ch. 373, title VII, §739A, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §602(m), 102 Stat. 3124, related to reissuance and refinancing of certain loans.
+
+Section 294m, act July 1, 1944, ch. 373, title VII, §740, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170; amended Oct. 13, 1964, Pub. L. 88–654, §1(a), (b), 78 Stat. 1086; Oct. 22, 1965, Pub. L. 89–290, §§2(b), 4 (a), (f)(1), (2), 79 Stat. 1056–1058; Nov. 2, 1966, Pub. L. 89–709, §3(a), (b), 80 Stat. 1103; Nov. 3, 1966, Pub. L. 89–751, §5(c)(1), 80 Stat. 1232; Aug. 16, 1968, Pub. L. 90–490, title I, §121(a)(1), (2), (5)(B), 82 Stat. 777, 778; Nov. 18, 1971, Pub. L. 92–157, title I, §105(e)(1), (4), (f)(2), 85 Stat. 451; Aug. 23, 1974, Pub. L. 93–385, §2(b), 88 Stat. 741; Apr. 22, 1976, Pub. L. 94–278, title XI, §1105(b), 90 Stat. 416; Oct. 12, 1976, Pub. L. 94–484, title IV, §402, 90 Stat. 2266; Oct. 22, 1985, Pub. L. 99–129, title II, §209(a)(1), (j)(1), 99 Stat. 532, 536; Nov. 4, 1988, Pub. L. 100–607, title VI, §§603(a), 628(7), 629(b)(2), 102 Stat. 3125, 3145, 3146; Nov. 6, 1990, Pub. L. 101–527, §5(a), (b), 104 Stat. 2322, 2323, related to loan agreements for establishment of student loan funds. See section 292q of this title.

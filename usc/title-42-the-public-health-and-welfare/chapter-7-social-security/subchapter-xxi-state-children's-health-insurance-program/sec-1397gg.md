@@ -60,33 +60,39 @@ The following sections of this chapter shall apply to States under this subchapt
 
 (A) Section 1396a(a)(4)(C) of this title (relating to conflict of interest standards).
 
-(B) Section 1396a(a)(72) of this title (relating to limiting FQHC contracting for provision of dental services).
+(B) Section 1396a(a)(39) of this title (relating to termination of participation of certain providers).
 
-(C) Section 1396a(a)(73) of this title (relating to requiring certain States to seek advice from designees of Indian Health Programs and Urban Indian Organizations).
+(C) Section 1396a(a)(78) of this title (relating to enrollment of providers participating in State plans providing medical assistance on a fee-for-service basis).
 
-(D) Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements).
+(D) Section 1396a(a)(72) of this title (relating to limiting FQHC contracting for provision of dental services).
 
-(E) Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child's eligibility for medical assistance).
+(E) Section 1396a(a)(73) of this title (relating to requiring certain States to seek advice from designees of Indian Health Programs and Urban Indian Organizations).
 
-(F) Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
+(F) Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements).
 
-(G) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
+(G) Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child's eligibility for medical assistance).
 
-(H) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
+(H) Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
 
-(I) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
+(I) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
 
-(J) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
+(J) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
 
-(K) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
+(K) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
 
-(L) Section 1396r–1a of this title (relating to presumptive eligibility for children).
+(L) Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
 
-(M) Subsections (a)(2)(C) and (h) of section 1396u–2 of this title.
+(M) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
 
-(N) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+(N) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
 
-(O) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
+(O) Section 1396r–1a of this title (relating to presumptive eligibility for children).
+
+(P) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of section 1396u–2 of this title.
+
+(Q) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+
+(R) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
 
 #### (2) Subchapter XI provisions ####
 
@@ -112,13 +118,15 @@ Notwithstanding subsection (e)(2)(A) and section 1315(a) of this title:
 
 (2) The Secretary may not approve, extend, renew, or amend a waiver, experimental, pilot, or demonstration project with respect to a State after February 4, 2009, that would waive or modify the requirements of section 1397kk of this title.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) [title VIII, §803], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291.)
+(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) [title VIII, §803], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194.)
 
 #### Codification ####
 
 Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by section 214(b) of Pub. L. 111–3 to reflect the probable intent of Congress, notwithstanding section 501(d)(3) of Pub. L. 111–3, set out as an Effective Date of 2009 Amendment note under section 1396a of this title.
 
 #### Amendments ####
+
+**2016**—Subsec. (e)(1)(B) to (R). Pub. L. 114–255 added subpars. (B), (C), and (L), redesignated former subpars. (B) to (I) as (D) to (K) and (J) to (O) as (M) to (R), respectively, and in subpar. (P), as so redesignated, substituted "(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)" for "(a)(2)(C) and (h)".
 
 **2010**—Subsec. (e)(1)(D). Pub. L. 111–309, §205(f)(2)(A), substituted "(kk)" for "(ii)".
 
@@ -252,7 +260,11 @@ Pub. L. 111–3, title V, §503(a)(2), Feb. 4, 2009, 123 Stat. 89, provided that
 
 Pub. L. 109–171, title VI, §6102(d), Feb. 8, 2006, 120 Stat. 132, provided that: "This section [amending this section and section 1397ee of this title and enacting provisions set out as a note below] and the amendments made by this section shall take effect as if enacted on October 1, 2005, and shall apply to any waiver, experimental, pilot, or demonstration project that is approved on or after that date."
 
-#### Rule of Construction ####
+#### Construction of 2016 Amendment ####
+
+Nothing in amendment by Pub. L. 114–255 to be construed as changing or limiting the appeal rights of providers or the process for appeals of States under the Social Security Act, see section 5005(d) of Pub. L. 114–255, set out as a note under section 1396a of this title.
+
+#### Construction of 2006 Amendment ####
 
 Pub. L. 109–171, title VI, §6102(c), Feb. 8, 2006, 120 Stat. 131, as amended by Pub. L. 111–3, title I, §112(a)(2)(B), Feb. 4, 2009, 123 Stat. 33, provided that: "Subject to section 2111 of the Social Security Act [42 U.S.C. 1397kk], as added by section 112 of the Children's Health Insurance Program Reauthorization Act of 2009 [Pub. L. 111–3], nothing in this section [amending this section and section 1397ee of this title and enacting provisions set out as a note above] or the amendments made by this section shall be construed to—
 

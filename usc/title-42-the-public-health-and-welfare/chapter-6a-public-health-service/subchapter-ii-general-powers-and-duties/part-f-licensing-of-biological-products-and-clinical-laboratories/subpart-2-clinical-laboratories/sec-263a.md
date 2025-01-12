@@ -434,6 +434,18 @@ Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: "Subsectio
 
 Pub. L. 90–174, §5(b), Dec. 5, 1967, 81 Stat. 539, provided that: "The amendment made by subsection (a) [enacting this section] shall become effective on the first day of the thirteenth month after the month [December 1967] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month [December 1967] in which the amendment is enacted."
 
+#### CLIA Waiver Improvements ####
+
+Pub. L. 114–255, div. A, title III, §3057, Dec. 13, 2016, 130 Stat. 1128, provided that:
+
+"(a) Draft Revised Guidance.—Not later than 1 year after the date of the enactment of this Act [Dec. 13, 2016], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall publish a draft guidance that—
+
+"(1) revises 'Section V. Demonstrating Insignificant Risk of an Erroneous Result – Accuracy' of the guidance entitled 'Recommendations for Clinical Laboratory Improvement Amendments of 1988 (CLIA) Waiver Applications for Manufacturers of In Vitro Diagnostic Devices' and dated January 30, 2008; and
+
+"(2) includes the appropriate use of comparable performance between a waived user and a moderately complex laboratory user to demonstrate accuracy.
+
+"(b) Final Revised Guidance.—The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall finalize the draft guidance published under subsection (a) not later than 1 year after the comment period for such draft guidance closes."
+
 #### Studies ####
 
 Pub. L. 100–578, §4, Oct. 31, 1988, 102 Stat. 2914, directed Secretary to conduct studies and submit report to Congress, not later than May 1, 1990, relating to the reliability and quality control procedures of clinical laboratory testing programs and the effect of errors in the testing procedures and results on the diagnosis and treatment of patients.

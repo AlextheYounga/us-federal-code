@@ -150,7 +150,7 @@ Subsection (a) shall not apply to—
 
 #### (f) Unique device identification system ####
 
-Not later than December 31, 2012, the Secretary shall issue proposed regulations establishing a unique device identification system for medical devices requiring the label of devices to bear a unique identifier, unless the Secretary requires an alternative placement or provides an exception for a particular device or type of device. The unique identifier shall adequately identify the device through distribution and use, and may include information on the lot or serial number. The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies.
+Not later than December 31, 2012, the Secretary shall issue proposed regulations establishing a unique device identification system for medical devices requiring the label of devices to bear a unique identifier, unless the Secretary requires an alternative placement or provides an exception for a particular device or type of device. The unique identifier shall adequately identify the device through distribution and use, and may include information on the lot or serial number. The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, or life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies.
 
 #### (g) Reports of removals and corrections ####
 
@@ -194,9 +194,11 @@ To help ensure effective implementation of the system as described in paragraph 
 
 Chapter 35 of title 44 shall not apply to the collection of voluntary information from health care providers, such as voluntary surveys or questionnaires, initiated by the Secretary for purposes of postmarket risk identification, mitigation, and analysis for devices.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061.)
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061; Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154.)
 
 #### Amendments ####
+
+**2016**—Subsec. (f). Pub. L. 114–255 substituted "or life sustaining" for "and life sustaining".
 
 **2012**—Subsec. (f). Pub. L. 112–144, §614, substituted "Not later than December 31, 2012, the Secretary shall issue proposed" for "The Secretary shall promulgate" and inserted at end "The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies."
 

@@ -74,15 +74,19 @@ The ex officio members of the Board under subparagraph (B) shall, by majority vo
 
 (V) 4 shall be at-large members with expertise or experience relevant to the purpose of the Foundation.
 
-#### (ii) Requirements ####
+#### (ii) Additional members ####
+
+The Board, through amendments to the bylaws of the Foundation, may provide that the number of voting members of the Board shall be a number (to be specified in such amendment) greater than 14. Any Board positions that are established by any such amendment shall be appointed (by majority vote) by the individuals who, as of the date of such amendment, are voting members of the Board and persons so appointed may represent any of the categories specified in subclauses (I) through (V) of clause (i), so long as no more than 30 percent of the total voting members of the Board (including members whose positions are established by such amendment) are representatives of the general pharmaceutical, device, food, cosmetic, and biotechnology industries.
+
+#### (iii) Requirements ####
 
 #### (I) Expertise ####
 
-The ex officio members shall ensure the Board membership includes individuals with expertise in areas including the sciences of developing, manufacturing, and evaluating the safety and effectiveness of devices, including diagnostics, biologics, and drugs, and the safety of food, food ingredients, and cosmetics.
+The ex officio members, acting pursuant to clause (i), and the Board, acting pursuant to clause (ii), shall ensure the Board membership includes individuals with expertise in areas including the sciences of developing, manufacturing, and evaluating the safety and effectiveness of devices, including diagnostics, biologics, and drugs, and the safety of food, food ingredients, and cosmetics.
 
 #### (II) Federal employees ####
 
-No employee of the Federal Government shall be appointed as a member of the Board under this subparagraph or under paragraph (3)(B).
+No employee of the Federal Government shall be appointed as a member of the Board under this subparagraph or under paragraph (3)(B). For purposes of this section, the term "employee of the Federal Government" does not include a special Government employee, as that term is defined in section 202(a) of title 18.
 
 #### (D) Initial meeting ####
 
@@ -144,7 +148,11 @@ The Board shall—
 
 #### (A) Term ####
 
-The term of office of each member of the Board appointed under paragraph (1)(C) shall be 4 years, except that the terms of offices for the initial appointed members of the Board shall expire on a staggered basis as determined by the ex officio members.
+The term of office of each member of the Board appointed under paragraph (1)(C)(i), and the term of office of any member of the Board whose position is established pursuant to paragraph (1)(C)(ii), shall be 4 years, except that—
+
+(i) the terms of offices for the members of the Board initially appointed under paragraph (1)(C)(i) shall expire on a staggered basis as determined by the ex officio members; and
+
+(ii) the terms of office for the persons initially appointed to positions established pursuant to paragraph (1)(C)(ii) may be made to expire on a staggered basis, as determined by the individuals who, as of the date of the amendment establishing such positions, are members of the Board.
 
 #### (B) Vacancy ####
 
@@ -186,7 +194,7 @@ The Board shall appoint an Executive Director who shall serve at the pleasure of
 
 #### (2) Compensation ####
 
-The compensation of the Executive Director shall be fixed by the Board but shall not be greater than the compensation of the Commissioner.
+The compensation of the Executive Director shall be fixed by the Board.
 
 #### (h) Administrative powers ####
 
@@ -264,12 +272,28 @@ Beginning with fiscal year 2009, the Executive Director shall submit to Congress
 
 #### (m) Separation of funds ####
 
-The Executive Director shall ensure that the funds received from the Treasury are held in separate accounts from funds received from entities under subsection (i).
+The Executive Director shall ensure that the funds received from the Treasury are managed as individual programmatic funds under subsection (i), according to best accounting practices.
 
 #### (n) Funding ####
 
 From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $500,000 and not more than $1,250,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).
 
-(June 25, 1938, ch. 675, §770, as added Pub. L. 110–85, title VI, §601(a), Sept. 27, 2007, 121 Stat. 890.)
+(June 25, 1938, ch. 675, §770, as added Pub. L. 110–85, title VI, §601(a), Sept. 27, 2007, 121 Stat. 890; amended Pub. L. 114–255, div. A, title III, §3076, Dec. 13, 2016, 130 Stat. 1139.)
+
+#### Amendments ####
+
+**2016**—Subsec. (d)(1)(C)(ii). Pub. L. 114–255, §3076(a)(1)(B), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (d)(1)(C)(iii). Pub. L. 114–255, §3076(a)(1)(A), redesignated cl. (ii) as (iii).
+
+Subsec. (d)(1)(C)(iii)(I). Pub. L. 114–255, §3076(a)(1)(C), substituted "The ex officio members, acting pursuant to clause (i), and the Board, acting pursuant to clause (ii), shall ensure" for "The ex officio members shall ensure".
+
+Subsec. (d)(1)(C)(iii)(II). Pub. L. 114–255, §3076(a)(2), inserted at end "For purposes of this section, the term 'employee of the Federal Government' does not include a special Government employee, as that term is defined in section 202(a) of title 18."
+
+Subsec. (d)(3)(A). Pub. L. 114–255, §3076(a)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: "The term of office of each member of the Board appointed under paragraph (1)(C) shall be 4 years, except that the terms of offices for the initial appointed members of the Board shall expire on a staggered basis as determined by the ex officio members."
+
+Subsec. (g)(2). Pub. L. 114–255, §3076(b), struck out before period at end "but shall not be greater than the compensation of the Commissioner".
+
+Subsec. (m). Pub. L. 114–255, §3076(c), substituted "are managed as individual programmatic funds under subsection (i), according to best accounting practices" for "are held in separate accounts from funds received from entities under subsection (i)".
 
 [<sup>1</sup> So in original. Probably should be "subsection (g)."](#379dd_1)

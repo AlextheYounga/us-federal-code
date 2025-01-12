@@ -4,9 +4,11 @@
 
 The Attorney General may make grants under this subchapter to States, for use by States and units of local government for the purpose of—
 
-(1) developing and implementing residential substance abuse treatment programs within State correctional facilities, as well as within local correctional and detention facilities in which inmates are incarcerated for a period of time sufficient to permit substance abuse treatment; and
+(1) developing and implementing residential substance abuse treatment programs within State correctional facilities, as well as within local correctional and detention facilities in which inmates are incarcerated for a period of time sufficient to permit substance abuse treatment;
 
-(2) encouraging the establishment and maintenance of drug-free prisons and jails.
+(2) encouraging the establishment and maintenance of drug-free prisons and jails; and
+
+(3) developing and implementing specialized residential substance abuse treatment programs that identify and provide appropriate treatment to inmates with co-occurring mental health and substance abuse disorders or challenges.
 
 #### (b) Consultation ####
 
@@ -16,9 +18,11 @@ The Attorney General shall consult with the Secretary of Health and Human Servic
 
 States that demonstrate that they have existing in-prison drug treatment programs that are in compliance with Federal requirements may use funds awarded under this subchapter for treatment and sanctions both during incarceration and after release.
 
-(Pub. L. 90–351, title I, §1901, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §§2101, 2102(1), Nov. 2, 2002, 116 Stat. 1792.)
+(Pub. L. 90–351, title I, §1901, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §§2101, 2102(1), Nov. 2, 2002, 116 Stat. 1792; Pub. L. 114–255, div. B, title XIV, §14012, Dec. 13, 2016, 130 Stat. 1297.)
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(3). Pub. L. 114–255 added par. (3).
 
 **2002**—Subsec. (a). Pub. L. 107–273, §2102(1), substituted "purpose of—" for "purpose of", inserted par. (1) designation before "developing", and added par. (2).
 

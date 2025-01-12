@@ -4,7 +4,7 @@
 
 A class III device—
 
-(1) which is subject to a <sup><a href="#360e_1_target" name="360e_1">1</a></sup> an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012) ; or
+(1) which is subject to an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012); or
 
 (2) which is a class III device because of section 360c(f) of this title,
 
@@ -102,6 +102,14 @@ refer such application to the appropriate panel under section 360c of this title
 
 (C) Whenever the Secretary determines that a portion of a submission under subparagraph (A) is unacceptable, the Secretary shall, in writing, provide to the applicant a description of any deficiencies in such portion and identify the information that is required to correct these deficiencies, unless the applicant is no longer pursuing the application.
 
+(5)(A) In requesting additional information with respect to an application under this section, the Secretary shall consider the least burdensome appropriate means necessary to demonstrate a reasonable assurance of device safety and effectiveness.
+
+(B) For purposes of subparagraph (A), the term "necessary" means the minimum required information that would support a determination by the Secretary that an application provides a reasonable assurance of the safety and effectiveness of the device.
+
+(C) For purposes of this paragraph, the Secretary shall consider the role of postmarket information in determining the least burdensome means of demonstrating a reasonable assurance of device safety and effectiveness.
+
+(D) Nothing in this paragraph alters the standards for premarket approval of a device.
+
 #### (d) Action on application for premarket approval ####
 
 (1)(A) As promptly as possible, but in no event later than one hundred and eighty days after the receipt of an application under subsection (c) (except as provided in section 360j(l)(3)(D)(ii) of this title or unless, in accordance with subparagraph (B)(i), an additional period as agreed upon by the Secretary and the applicant), the Secretary, after considering the report and recommendation submitted under paragraph (2) of such subsection, shall—
@@ -152,17 +160,7 @@ that was not described as a deficiency in the written description provided by th
 
 (4) An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g), and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g), of an order of the Secretary approving an application.
 
-(5) In order to provide for more effective treatment or diagnosis of life-threatening or irreversibly debilitating human diseases or conditions, the Secretary shall provide review priority for devices—
-
-(A) representing breakthrough technologies,
-
-(B) for which no approved alternatives exist,
-
-(C) which offer significant advantages over existing approved alternatives, or
-
-(D) the availability of which is in the best interest of the patients.
-
-(6)(A)(i) A supplemental application shall be required for any change to a device subject to an approved application under this subsection that affects safety or effectiveness, unless such change is a modification in a manufacturing procedure or method of manufacturing and the holder of the approved application submits a written notice to the Secretary that describes in detail the change, summarizes the data or information supporting the change, and informs the Secretary that the change has been made under the requirements of section 360j(f) of this title.
+(5)(A)(i) A supplemental application shall be required for any change to a device subject to an approved application under this subsection that affects safety or effectiveness, unless such change is a modification in a manufacturing procedure or method of manufacturing and the holder of the approved application submits a written notice to the Secretary that describes in detail the change, summarizes the data or information supporting the change, and informs the Secretary that the change has been made under the requirements of section 360j(f) of this title.
 
 (ii) The holder of an approved application who submits a notice under clause (i) with respect to a manufacturing change of a device may distribute the device 30 days after the date on which the Secretary receives the notice, unless the Secretary within such 30-day period notifies the holder that the notice is not adequate and describes such further information or action that is required for acceptance of such change. If the Secretary notifies the holder that a supplemental application is required, the Secretary shall review the supplement within 135 days after the receipt of the supplement. The time used by the Secretary to review the notice of the manufacturing change shall be deducted from the 135-day review period if the notice meets appropriate content requirements for premarket approval supplements.
 
@@ -298,9 +296,23 @@ revising the classification of the device so that the device is classified into 
 
 (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the order requiring a device to remain in class III, establish a schedule for the issuance of an administrative order under subsection (b) for each device which is subject to the order requiring the device to remain in class III.
 
-(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056.)
+(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056; Pub. L. 114–255, div. A, title III, §§3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, 130 Stat. 1124, 1129, 1154.)
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(1). Pub. L. 114–255, §3101(a)(2)(J), substituted "subject to an order" for "subject to a an order".
+
+Subsec. (c)(5). Pub. L. 114–255, §3058(b), added par. (5).
+
+Subsec. (d)(5), (6). Pub. L. 114–255, §3051(c)(1), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "In order to provide for more effective treatment or diagnosis of life-threatening or irreversibly debilitating human diseases or conditions, the Secretary shall provide review priority for devices—
+
+"(A) representing breakthrough technologies,
+
+"(B) for which no approved alternatives exist,
+
+"(C) which offer significant advantages over existing approved alternatives, or
+
+"(D) the availability of which is in the best interest of the patients."
 
 **2012**—Subsec. (a)(1). Pub. L. 112–144, §608(b)(1)(A), substituted "an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012)" for "regulation promulgated under subsection (b)".
 
@@ -385,5 +397,3 @@ Pub. L. 107–250, title II, §205, Oct. 26, 2002, 116 Stat. 1612, directed the 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
-[<sup>1</sup> So in original.](#360e_1)

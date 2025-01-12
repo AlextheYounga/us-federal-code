@@ -28,7 +28,7 @@ Such term does not include a supplement, a premarket report, or a premarket noti
 
 (E) The term "efficacy supplement" means a supplement to an approved premarket application under section 262 of title 42 that requires substantive clinical data.
 
-(5) The term "30-day notice" means a notice under section 360e(d)(6) of this title that is limited to a request to make modifications to manufacturing procedures or methods of manufacture affecting the safety and effectiveness of the device.
+(5) The term "30-day notice" means a notice under section 360e(d)(5) of this title that is limited to a request to make modifications to manufacturing procedures or methods of manufacture affecting the safety and effectiveness of the device.
 
 (6) The term "request for classification information" means a request made under section 360c(g) of this title for information respecting the class in which a device has been classified or the requirements applicable to a device.
 
@@ -80,13 +80,15 @@ Such term does not include a supplement, a premarket report, or a premarket noti
 
 (13) The term "establishment subject to a registration fee" means an establishment that is registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
 
-(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843; Pub. L. 112–144, title II, §202, July 9, 2012, 126 Stat. 1002.)
+(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843; Pub. L. 112–144, title II, §202, July 9, 2012, 126 Stat. 1002; Pub. L. 114–255, div. A, title III, §3051(c)(2), Dec. 13, 2016, 130 Stat. 1124.)
 
 #### Termination of Section ####
 
 For termination of section by section 207(a) of Pub. L. 112–144, see Effective and Termination Dates note below.
 
 #### Amendments ####
+
+**2016**—Par. (5). Pub. L. 114–255 substituted "360e(d)(5)" for "360e(d)(6)".
 
 **2012**—Par. (9). Pub. L. 112–144, §202(1), struck out "incurred" after "expenses" in introductory provisions.
 

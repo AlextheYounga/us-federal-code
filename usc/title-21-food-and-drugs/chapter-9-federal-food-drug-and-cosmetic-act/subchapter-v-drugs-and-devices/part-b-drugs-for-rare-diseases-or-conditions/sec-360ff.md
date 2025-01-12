@@ -92,7 +92,11 @@ The sponsor of a human drug application that provides notification of the intent
 
 #### (5) Termination of authority ####
 
-The Secretary may not award any priority review vouchers under paragraph (1) after December 31, 2016.
+The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2020, unless the rare pediatric disease product application—
+
+(A) is for a drug that, not later than September 30, 2020, is designated under subsection (d) as a drug for a rare pediatric disease; and
+
+(B) is, not later than September 30, 2022, approved under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)].
 
 #### (c) Priority review user fee ####
 
@@ -224,7 +228,7 @@ In conducting the study under subparagraph (A), the Comptroller General shall ex
 
 Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
 
-(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943.)
+(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943; Pub. L. 114–255, div. A, title III, §3013(a), Dec. 13, 2016, 130 Stat. 1093.)
 
 #### References in Text ####
 
@@ -244,7 +248,9 @@ Subsec. (b)(4). Pub. L. 114–229, §2(a)(2)(A), added par. (4) and struck out f
 
 "(B) Transfer after notice.—The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification."
 
-Subsec. (b)(5). Pub. L. 114–229, §2(a)(2)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016."
+Subsec. (b)(5). Pub. L. 114–255 added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The Secretary may not award any priority review vouchers under paragraph (1) after December 31, 2016."
+
+Pub. L. 114–229, §2(a)(2)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016."
 
 Subsec. (g). Pub. L. 114–229, §2(a)(3), inserted before period at end ", except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made."
 

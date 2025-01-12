@@ -28,7 +28,7 @@ In carrying out subsection (b), the Director of NIH shall—
 
 #### (1) Network ####
 
-In carrying out the Initiative, the Director of NIH, in consultation with the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and in collaboration with other appropriate national research institutes and national centers that carry out activities involving pediatric research, may provide for the establishment of a National Pediatric Research Network in order to more effectively support pediatric research and optimize the use of Federal resources. Such National Pediatric Research Network may be comprised of, as appropriate—
+In carrying out the Initiative, the Director of NIH, in collaboration with the national research institutes and national centers that carry out activities involving pediatric research, shall support a National Pediatric Research Network in order to more effectively support pediatric research and optimize the use of Federal resources. Such National Pediatric Research Network may be comprised of, as appropriate—
 
 (A) the pediatric research consortia receiving awards under paragraph (2); or
 
@@ -38,7 +38,7 @@ In carrying out the Initiative, the Director of NIH, in consultation with the Di
 
 #### (A) In general ####
 
-The Director of NIH may award funding, including through grants, contracts, or other mechanisms, to public or private nonprofit entities for providing support for pediatric research consortia, including with respect to—
+The Director of NIH shall award funding, including through grants, contracts, or other mechanisms, to public or private nonprofit entities for providing support for pediatric research consortia, including with respect to—
 
 (i) basic, clinical, behavioral, or translational research to meet unmet needs for pediatric research; and
 
@@ -78,7 +78,7 @@ Any support received by a consortium under subparagraph (A) shall be used to sup
 
 #### (E) Duration of support ####
 
-Support of a consortium under subparagraph (A) may be for a period of not to exceed 5 years. Such period may be extended at the discretion of the Director of NIH.
+Support of a consortium under subparagraph (A) shall be for a period of not to exceed 5 years. Such period may be extended at the discretion of the Director of NIH.
 
 #### (3) Coordination of consortia activities ####
 
@@ -104,13 +104,17 @@ In making awards under subsection (d)(2) for pediatric research consortia, the D
 
 The Director of NIH may transfer amounts appropriated under this section to any of the Institutes for a fiscal year to carry out the purposes of the Initiative under this section.
 
-(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17, 2000, 114 Stat. 1127; amended Pub. L. 109–482, title I, §103(b)(10), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–154, §1(b)(4), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 113–55, title II, §202, Nov. 27, 2013, 127 Stat. 644.)
+(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–310, div. A, title X, §1001, Oct. 17, 2000, 114 Stat. 1127; amended Pub. L. 109–482, title I, §103(b)(10), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–154, §1(b)(4), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 113–55, title II, §202, Nov. 27, 2013, 127 Stat. 644; Pub. L. 114–255, div. A, title II, §2071, Dec. 13, 2016, 130 Stat. 1083.)
 
 #### Codification ####
 
 Another section 409D of act July 1, 1944, was renumbered section 409H and is classified to section 284l of this title.
 
 #### Amendments ####
+
+**2016**—Subsec. (d)(1). Pub. L. 114–255, §2071(1), substituted "in collaboration with the national research institutes and national centers that carry out activities involving pediatric research, shall support" for "in consultation with the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and in collaboration with other appropriate national research institutes and national centers that carry out activities involving pediatric research, may provide for the establishment of" in introductory provisions.
+
+Subsec. (d)(2)(A), (E). Pub. L. 114–255, §2071(2), substituted "shall" for "may" in introductory provisions of par. (2)(A) and in first sentence of par. (2)(E).
 
 **2013**—Subsecs. (d) to (f). Pub. L. 113–55 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 

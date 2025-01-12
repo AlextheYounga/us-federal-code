@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary ####
 
-The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of qualified testing expenses incurred in connection with the development of drugs for rare diseases and conditions, (2) defraying the costs of developing medical devices for rare diseases or conditions, and (3) defraying the costs of developing medical foods for rare diseases or conditions.
+The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, and (3) defraying the costs of developing medical foods for rare diseases or conditions.
 
 #### (b) Definitions ####
 
@@ -14,9 +14,15 @@ For purposes of subsection (a):
 
 (i) which is carried out under an exemption for a drug for a rare disease or condition under section 355(i) of this title (or regulations issued under such section); and
 
-(ii) which occurs before the date on which an application with respect to such drug is submitted under section 355(b) of this title or under section 262 of title 42; and
+(ii) which occurs before the date on which an application with respect to such drug is submitted under section 355(b) of this title or under section 262 of title 42;
 
-(B) preclinical testing involving a drug for a rare disease or condition which occurs after the date such drug is designated under section 360bb of this title and before the date on which an application with respect to such drug is submitted under section 355(b) of this title or under section 262 of title 42.
+(B) preclinical testing involving a drug for a rare disease or condition which occurs after the date such drug is designated under section 360bb of this title and before the date on which an application with respect to such drug is submitted under section 355(b) of this title or under section 262 of title 42; and
+
+(C) prospectively planned and designed observational studies and other analyses conducted to assist in the understanding of the natural history of a rare disease or condition and in the development of a therapy, including studies and analyses to—
+
+(i) develop or validate a drug development tool related to a rare disease or condition; or
+
+(ii) understand the full spectrum of the disease manifestations, including describing genotypic and phenotypic variability and identifying and defining distinct subpopulations affected by a rare disease or condition.
 
 (2) The term "rare disease or condition" means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a), and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a). Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
 
@@ -26,13 +32,17 @@ For purposes of subsection (a):
 
 For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2013 through 2017.
 
-(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092.)
+(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094.)
 
 #### Codification ####
 
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(1). Pub. L. 114–255, §3015(1), added par. (1) and struck out former par. (1) which read as follows: "defraying the costs of qualified testing expenses incurred in connection with the development of drugs for rare diseases and conditions,".
+
+Subsec. (b)(1)(C). Pub. L. 114–255, §3015(2), added subpar. (C).
 
 **2012**—Subsec. (b)(1)(A)(ii). Pub. L. 112–144, §906(a), struck out "after the date such drug is designated under section 360bb of this title and" after "which occurs".
 
@@ -44,7 +54,7 @@ Subsec. (c). Pub. L. 112–144, §906(b), amended subsec. (c) generally. Prior t
 
 **1997**—Subsec. (b)(1)(A)(ii), (B). Pub. L. 105–115 struck out "or 357" after "355(b)".
 
-**1988**—Subsec. (a). Pub. L. 100–290, §3(a)(1), (b)(1), inserted "(1)" after "assist in" and added cls. (2) and (3).
+**1988**—Subsec. (a). Pub. L. 100–290, §3(a)(1), (b)(1), inserted "(1)" after "assist in" and added pars. (2) and (3).
 
 Subsec. (b)(2). Pub. L. 100–290, §3(a)(2), (b)(2), inserted "(1) in the case of a drug," after "means", added cls. (2) and (3), and substituted "under section 360bb of this title" for "under this subsection" in last sentence.
 

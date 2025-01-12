@@ -26,6 +26,10 @@ The Secretary, in managing the stockpile under paragraph (1), shall—
 
 (H) ensure the adequate physical security of the stockpile.
 
+#### (3) Utilization guidelines ####
+
+The Secretary shall ensure timely and accurate recommended utilization guidelines for qualified countermeasures (as defined in section 247d–6a of this title), qualified pandemic and epidemic products (as defined in section 247d–6d of this title), and security countermeasures (as defined in subsection (c)), including for such products in the stockpile.
+
 #### (b) Smallpox vaccine development ####
 
 #### (1) In general ####
@@ -106,7 +110,7 @@ If, pursuant to an assessment under paragraph (3), the Homeland Security Secreta
 
 (i) issue a call for the development of such countermeasure; and
 
-(ii) make a commitment that, upon the first development of such countermeasure that meets the conditions for procurement under paragraph (5), the Secretaries will, based in part on information obtained pursuant to such call, make a recommendation under paragraph (6) that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure.
+(ii) make a commitment that, upon the first development of such countermeasure that meets the conditions for procurement under paragraph (5), the Secretaries will, based in part on information obtained pursuant to such call, and subject to the availability of appropriations, make available the special reserve fund as defined in subsection (h) for procurement of such countermeasure, as applicable.
 
 #### (B) Countermeasure specifications ####
 
@@ -146,39 +150,23 @@ In making a determination under subparagraph (A) with respect to a security coun
 
 (iii) Whether there is a lack of a significant commercial market for the product at the time of procurement, other than as a security countermeasure.
 
-#### (6) Recommendation for President's approval ####
+#### (6) Recommendations for procurement ####
 
-#### (A) Recommendation for procurement ####
+#### (A) Notice to appropriate congressional committees ####
 
-In the case of a security countermeasure that the Secretary has, in accordance with paragraphs (3) and (5), determined to be appropriate for procurement under this subsection, the Homeland Security Secretary and the Secretary shall jointly submit to the President, in coordination with the Director of the Office of Management and Budget, a recommendation that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure.
+The Secretary shall notify the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives of each decision to make available the special reserve fund as defined in subsection (h) for procurement of a security countermeasure, including, where available, the number of, the nature of, and other information concerning potential suppliers of such countermeasure, and whether other potential suppliers of the same or similar countermeasures were considered and rejected for procurement under this section and the reasons for each such rejection.
 
-#### (B) Presidential approval ####
-
-The special reserve fund as defined in subsection (h) is available for a procurement of a security countermeasure only if the President has approved a recommendation under subparagraph (A) regarding the countermeasure.
-
-#### (C) Notice to appropriate congressional committees ####
-
-The Secretary and the Homeland Security Secretary shall notify the appropriate congressional committees of each decision of the President to approve a recommendation under subparagraph (A). Such notice shall include an explanation of the decision to make available the special reserve fund as defined in subsection (h) for procurement of such a countermeasure, including, where available, the number of, nature of, and other information concerning potential suppliers of such countermeasure, and whether other potential suppliers of the same or similar countermeasures were considered and rejected for procurement under this section and the reasons therefor.
-
-#### (D) Subsequent specific countermeasures ####
+#### (B) Subsequent specific countermeasures ####
 
 Procurement under this subsection of a security countermeasure for a particular purpose does not preclude the subsequent procurement under this subsection of any other security countermeasure for such purpose if the Secretary has determined under paragraph (5)(A) that such countermeasure is appropriate for inclusion in the stockpile and if, as determined by the Secretary, such countermeasure provides improved safety or effectiveness, or for other reasons enhances preparedness to respond to threats of use of a biological, chemical, radiological, or nuclear agent. Such a determination by the Secretary is committed to agency discretion.
 
-#### (E) Rule of construction ####
-
-Recommendations and approvals under this paragraph apply solely to determinations that the special reserve fund as defined in subsection (h) will be made available for a procurement of a security countermeasure, and not to the substance of contracts for such procurement or other matters relating to awards of such contracts.
-
 #### (7) Procurement ####
 
-#### (A) In general ####
+#### (A) Payments from special reserve fund ####
 
-For purposes of a procurement under this subsection that is approved by the President under paragraph (6), the Homeland Security Secretary and the Secretary shall have responsibilities in accordance with subparagraphs (B) and (C).
+The special reserve fund as defined in subsection (h) shall be available for payments made by the Secretary to a vendor for procurement of a security countermeasure in accordance with the provisions of this paragraph.
 
-#### (B) Interagency agreement; cost ####
-
-The Homeland Security Secretary shall enter into an agreement with the Secretary for procurement of a security countermeasure in accordance with the provisions of this paragraph. The special reserve fund as defined in subsection (h) shall be available for payments made by the Secretary to a vendor for such procurement.
-
-#### (C) Procurement ####
+#### (B) Procurement ####
 
 #### (i) In general ####
 
@@ -360,13 +348,17 @@ The Secretary may utilize not more than 50 percent of the amounts authorized to 
 
 Amounts in the special reserve fund shall not be used to pay costs other than payments made by the Secretary to a vendor for advanced development (under section 247d–7e of this title) or for procurement of a security countermeasure under subsection (c)(7).
 
-#### (4) Report ####
+#### (4) Report on security countermeasure procurement ####
 
-Not later than 30 days after any date on which the Secretary determines that the amount of funds in the special reserve fund available for procurement is less than $1,500,000,000, the Secretary shall submit to the appropriate committees of Congress a report detailing the amount of such funds available for procurement and the impact such reduction in funding will have—
+Not later than March 1 of each year in which the Secretary determines that the amount of funds available for procurement of security countermeasures is less than $1,500,000,000, the Secretary shall submit to the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives a report detailing the amount of such funds available for procurement and the impact such amount of funding will have—
 
 (A) in meeting the security countermeasure needs identified under this section; and
 
-(B) on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy <sup><a href="#247d-6b_1_target" name="247d-6b_1">1</a></sup> Implementation Plan (pursuant to section 300hh–10(d) of this title).
+(B) on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy Implementation Plan (pursuant to section 300hh–10(d) of this title).
+
+#### (5) Clarification on contracting authority ####
+
+The Secretary, acting through the Director of the Biomedical Advanced Research and Development Authority, shall carry out the programs funded by the special reserve fund (for the procurement of security countermeasures under subsection (c) and for carrying out section 247d–7e of this title), including the execution of procurement contracts, grants, and cooperative agreements pursuant to this section and section 247d–7e of this title.
 
 #### (h) Definitions ####
 
@@ -376,39 +368,67 @@ In this section:
 
 (2) The term "special reserve fund" means the "Biodefense Countermeasures" appropriations account, any appropriation made available pursuant to section 321j(a) of title 6, and any appropriation made available pursuant to subsection (g)(1).
 
-(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196.)
+(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144.)
 
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Project BioShield Act of 2004, referred to in subsec. (c)(7)(C)(iii)(IV), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
+The Project BioShield Act of 2004, referred to in subsec. (c)(7)(B)(iii)(IV), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
 
 #### Codification ####
 
-In subsec. (c)(7)(C)(ii)(VII), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(ii)(VII), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(I), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" and "section 3101(b)(1)(A) of title 41" substituted for "section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iii)(I), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" and "section 3101(b)(1)(A) of title 41" substituted for "section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(I)(aa), "section 3305(a)(1) of title 41" substituted for "section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iii)(I)(aa), "section 3305(a)(1) of title 41" substituted for "section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(I)(bb), "section 3101(b)(1)(B) of title 41" substituted for "section 302A(b) of such Act (41 U.S.C. 252a(b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iii)(I)(bb), "section 3101(b)(1)(B) of title 41" substituted for "section 302A(b) of such Act (41 U.S.C. 252a(b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(II)(bb), "Section 8703(a) of title 41" substituted for "Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iii)(II)(bb), "Section 8703(a) of title 41" substituted for "Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(II)(cc), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iii)(II)(cc), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(II)(ee), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iii)(II)(ee), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iv)(I), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" and "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iv)(I), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" and "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iv)(III), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(iv)(III), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(vii), "section 3306(a)(1)(B) of title 41" substituted for "section 303A(a)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253a(a)(1)(B))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(B)(vii), "section 3306(a)(1)(B) of title 41" substituted for "section 303A(a)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253a(a)(1)(B))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 300hh–12 of this title prior to renumbering by Pub. L. 108–276.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(3). Pub. L. 114–255, §3081(1), added par. (3).
+
+Subsec. (c)(4)(A)(ii). Pub. L. 114–255, §3085(1), substituted "and subject to the availability of appropriations, make available the special reserve fund as defined in subsection (h) for procurement of such countermeasure, as applicable" for "make a recommendation under paragraph (6) that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure".
+
+Subsec. (c)(6). Pub. L. 114–255, §3085(2)(D), substituted "Recommendations for procurement" for "Recommendation for President's approval" in heading.
+
+Subsec. (c)(6)(A). Pub. L. 114–255, §3085(2)(C), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary and the Homeland Security Secretary shall notify the appropriate congressional committees of each decision of the President to approve a recommendation under subparagraph (A). Such notice shall include an explanation of the decision to make available the special reserve fund as defined in subsection (h) for procurement of such a countermeasure, including, where available, the number of, nature of, and other information concerning potential suppliers of such countermeasure, and whether other potential suppliers of the same or similar countermeasures were considered and rejected for procurement under this section and the reasons therefor."
+
+Pub. L. 114–255, §3085(2)(A), (B), redesignated subpar. (C) as (A) and struck out former subpar. (A). Text of former subpar. (A) read as follows: "In the case of a security countermeasure that the Secretary has, in accordance with paragraphs (3) and (5), determined to be appropriate for procurement under this subsection, the Homeland Security Secretary and the Secretary shall jointly submit to the President, in coordination with the Director of the Office of Management and Budget, a recommendation that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure."
+
+Subsec. (c)(6)(B). Pub. L. 114–255, §3085(2)(A), (B), redesignated subpar. (D) as (B) and struck out former subpar. (B). Text of former subpar. (B) read as follows: "The special reserve fund as defined in subsection (h) is available for a procurement of a security countermeasure only if the President has approved a recommendation under subparagraph (A) regarding the countermeasure."
+
+Subsec. (c)(6)(C), (D). Pub. L. 114–255, §3085(2)(B), redesignated subpars. (C) and (D) as (A) and (B), respectively.
+
+Subsec. (c)(6)(E). Pub. L. 114–255, §3085(2)(A), struck out subpar. (E). Text read as follows: "Recommendations and approvals under this paragraph apply solely to determinations that the special reserve fund as defined in subsection (h) will be made available for a procurement of a security countermeasure, and not to the substance of contracts for such procurement or other matters relating to awards of such contracts."
+
+Subsec. (c)(7)(A). Pub. L. 114–255, §3085(3)(A), added subpar. (A) and struck out former subpar. (A). Text of former subpar. (A) read as follows: "For purposes of a procurement under this subsection that is approved by the President under paragraph (6), the Homeland Security Secretary and the Secretary shall have responsibilities in accordance with subparagraphs (B) and (C)."
+
+Subsec. (c)(7)(B), (C). Pub. L. 114–255, §3085(3), redesignated subpar. (C) as (B) and struck out former subpar. (B). Text of former subpar. (B) read as follows: "The Homeland Security Secretary shall enter into an agreement with the Secretary for procurement of a security countermeasure in accordance with the provisions of this paragraph. The special reserve fund as defined in subsection (h) shall be available for payments made by the Secretary to a vendor for such procurement."
+
+Subsec. (g)(4). Pub. L. 114–255, §3081(2), amended par. (4) generally. Prior to amendment, text read as follows: "Not later than 30 days after any date on which the Secretary determines that the amount of funds in the special reserve fund available for procurement is less than $1,500,000,000, the Secretary shall submit to the appropriate committees of Congress a report detailing the amount of such funds available for procurement and the impact such reduction in funding will have—"
+
+"(A) in meeting the security countermeasure needs identified under this section; and
+
+"(B) on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy Implementation Plan (pursuant to section 300hh–10(d) of this title)."
+
+Subsec. (g)(5). Pub. L. 114–255, §3082(a), added par. (5).
 
 **2013**—Subsec. (a)(1). Pub. L. 113–5, §403(1)(A), inserted "consistent with section 300hh–10 of this title" after "amounts as are determined" and "and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security" after "based on such review".
 
@@ -665,5 +685,3 @@ Any reference in this memorandum to the provision of any Act shall be deemed to 
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.
-
-[<sup>1</sup> So in original. Probably should be "Enterprise Strategy and".](#247d-6b_1)

@@ -96,7 +96,33 @@ The Secretary shall establish and maintain procedures, including procedures for 
 
 (3) A deceased individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, §189(a), July 15, 2008, 122 Stat. 2590; Pub. L. 111–148, title X, §10332(a), Mar. 23, 2010, 124 Stat. 968; Pub. L. 114–10, title I, §105(c), (d), title V, §502(a), Apr. 16, 2015, 129 Stat. 137, 165.)
+#### (g) Requirement for enrollment data reporting ####
+
+#### (1) In general ####
+
+Each year (beginning with 2016), the Secretary shall submit to the Committees on Ways and Means and Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report on Medicare enrollment data (and, in the case of part A, on data on individuals receiving benefits under such part) as of a date in such year specified by the Secretary. Such data shall be presented—
+
+(A) by Congressional district and State; and
+
+(B) in a manner that provides for such data based on—
+
+(i) fee-for-service enrollment (as defined in paragraph (2));
+
+(ii) enrollment under part C (including separate for aggregate enrollment in MA–PD plans and aggregate enrollment in MA plans that are not MA–PD plans); and
+
+(iii) enrollment under part D.
+
+#### (2) Fee-for-service enrollment defined ####
+
+For purpose of paragraph (1)(B)(i), the term "fee-for-service enrollment" means aggregate enrollment (including receipt of benefits other than through enrollment) under—
+
+(A) part A only;
+
+(B) part B only; and
+
+(C) both part A and part B.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, §189(a), July 15, 2008, 122 Stat. 2590; Pub. L. 111–148, title X, §10332(a), Mar. 23, 2010, 124 Stat. 968; Pub. L. 114–10, title I, §105(c), (d), title V, §502(a), Apr. 16, 2015, 129 Stat. 137, 165; Pub. L. 114–255, div. C, title XVII, §17002, Dec. 13, 2016, 130 Stat. 1330.)
 
 #### References in Text ####
 
@@ -107,6 +133,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified 
 July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original "the date of the enactment of this section" and "such date", which were translated as meaning the date of enactment of Pub. L. 110–275, which enacted subsec. (d), to reflect the probable intent of Congress.
 
 #### Amendments ####
+
+**2016**—Subsec. (g). Pub. L. 114–255 added subsec. (g).
 
 **2015**—Subsec. (e). Pub. L. 114–10, §105(c)(1), struck out "Medicare" before "data" in heading.
 

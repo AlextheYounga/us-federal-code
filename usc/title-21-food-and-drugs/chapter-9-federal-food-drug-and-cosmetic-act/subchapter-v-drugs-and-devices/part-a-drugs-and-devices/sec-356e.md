@@ -22,7 +22,7 @@ For each drug on such list, the Secretary shall include the following informatio
 
 (D) Shortage of an inactive ingredient component.
 
-(E) Discontinuation of the manufacture of the drug.
+(E) Discontinuance of the manufacture of the drug.
 
 (F) Delay in shipping of the drug.
 
@@ -44,4 +44,8 @@ Nothing in this section alters or amends section 1905 of title 18 or section 552
 
 The Secretary may choose not to make information collected under this section publicly available under paragraph (1) or section 356c(c) of this title if the Secretary determines that disclosure of such information would adversely affect the public health (such as by increasing the possibility of hoarding or other disruption of the availability of drug products to patients).
 
-(June 25, 1938, ch. 675, §506E, as added Pub. L. 112–144, title X, §1004, July 9, 2012, 126 Stat. 1104.)
+(June 25, 1938, ch. 675, §506E, as added Pub. L. 112–144, title X, §1004, July 9, 2012, 126 Stat. 1104; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(G), Dec. 13, 2016, 130 Stat. 1153.)
+
+#### Amendments ####
+
+**2016**—Subsec. (b)(3)(E). Pub. L. 114–255, which directed substitution of "discontinuance" for "discontinuation", was executed by substituting "Discontinuance" for "Discontinuation" to reflect the probable intent of Congress.

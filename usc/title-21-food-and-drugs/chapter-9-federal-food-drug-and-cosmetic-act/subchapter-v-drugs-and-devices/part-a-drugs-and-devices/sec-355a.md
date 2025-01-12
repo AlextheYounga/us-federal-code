@@ -300,29 +300,11 @@ This subsection does not affect—
 
 (D) except as expressly provided in paragraphs (1) and (2), the operation of section 355 of this title.
 
-#### (p) Institute of Medicine study ####
-
-Not later than 3 years after September 27, 2007, the Secretary shall enter into a contract with the Institute of Medicine to conduct a study and report to Congress regarding the written requests made and the studies conducted pursuant to this section. The Institute of Medicine may devise an appropriate mechanism to review a representative sample of requests made and studies conducted pursuant to this section in order to conduct such study. Such study shall—
-
-(1) review such representative written requests issued by the Secretary since 1997 under subsections (b) and (c);
-
-(2) review and assess such representative pediatric studies conducted under subsections (b) and (c) since 1997 and labeling changes made as a result of such studies;
-
-(3) review the use of extrapolation for pediatric subpopulations, the use of alternative endpoints for pediatric populations, neonatal assessment tools, and ethical issues in pediatric clinical trials;
-
-(4) review and assess the number and importance of biological products for children that are being tested as a result of the amendments made by the Biologics Price Competition and Innovation Act of 2009 and the importance for children, health care providers, parents, and others of labeling changes made as a result of such testing;
-
-(5) review and assess the number, importance, and prioritization of any biological products that are not being tested for pediatric use; and
-
-(6) offer recommendations for ensuring pediatric testing of biological products, including consideration of any incentives, such as those provided under this section or section 262(m) of title 42.
-
-(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191.)
-
-#### References in Text ####
-
-The Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (p)(4), is subtitle A (§§7001–7003) of title VII of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 804, which amended sections 355, 355a, 355c, and 379g of this title, section 2201 of Title 28, Judiciary and Judicial Procedure, section 271 of Title 35, Patents, and sections 262 and 284m of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 262 of Title 42. For complete classification of subtitle A to the Code, see Short Title of 2010 Amendment note set out under section 201 of Title 42 and Tables.
+(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156.)
 
 #### Amendments ####
+
+**2016**—Subsec. (p). Pub. L. 114–255 struck out subsec. (p) which related to Institute of Medicine study.
 
 **2013**—Subsec. (d)(5). Pub. L. 113–5, §307(a)(1), added par. (5).
 

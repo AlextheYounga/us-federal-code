@@ -12,7 +12,7 @@ Consistent with sections X.C and IX.E.4 of the PDUFA Reauthorization Performance
 
 #### (A) In general ####
 
-The Secretary shall develop and maintain a list of external experts who, because of their special expertise, are qualified to provide advice on rare disease issues, including topics described in subsection (c). The Secretary may, when appropriate to address a specific regulatory question, consult such external experts on issues related to the review of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, including the topics described in subsection (b), when such consultation is necessary because the Secretary lacks the specific scientific, medical, or technical expertise necessary for the performance of the Secretary's regulatory responsibilities and the necessary expertise can be provided by the external experts.
+The Secretary shall develop and maintain a list of external experts who, because of their special expertise, are qualified to provide advice on rare disease issues, including topics described in subsection (b). The Secretary may, when appropriate to address a specific regulatory question, consult such external experts on issues related to the review of new drugs and biological products for rare diseases and drugs and biological products that are genetically targeted, including the topics described in subsection (b), when such consultation is necessary because the Secretary lacks the specific scientific, medical, or technical expertise necessary for the performance of the Secretary's regulatory responsibilities and the necessary expertise can be provided by the external experts.
 
 #### (B) External experts ####
 
@@ -86,8 +86,12 @@ Prior to a consultation with an external expert, as described in this section, r
 
 The requirements of this subsection shall apply only in instances where the consultation is undertaken solely under the authority of this section. The requirements of this subsection shall not apply to any consultation initiated under any other authority.
 
-(June 25, 1938, ch. 675, §569, as added Pub. L. 112–144, title IX, §903, July 9, 2012, 126 Stat. 1088.)
+(June 25, 1938, ch. 675, §569, as added Pub. L. 112–144, title IX, §903, July 9, 2012, 126 Stat. 1088; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(O), Dec. 13, 2016, 130 Stat. 1154.)
 
 #### References in Text ####
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsecs. (a)(1) and (f)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
+
+#### Amendments ####
+
+**2016**—Subsec. (a)(2)(A). Pub. L. 114–255 substituted "subsection (b)" for "subsection (c)" before period in first sentence.

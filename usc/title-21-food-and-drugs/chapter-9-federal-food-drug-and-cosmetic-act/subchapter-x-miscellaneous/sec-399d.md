@@ -128,7 +128,7 @@ Any nondiscretionary duty imposed by this section shall be enforceable in a mand
 
 Subsection (a) shall not apply with respect to an employee of an entity engaged in the manufacture, processing, packing, transporting, distribution, reception, holding, or importation of food who, acting without direction from such entity (or such entity's agent), deliberately causes a violation of any requirement relating to any violation or alleged violation of any order, rule, regulation, standard, or ban under this chapter.
 
-(June 25, 1938, ch. 675, §1012, as added Pub. L. 111–353, title IV, §402, Jan. 4, 2011, 124 Stat. 3968.)
+(June 25, 1938, ch. 675, §1013, formerly §1012, as added Pub. L. 111–353, title IV, §402, Jan. 4, 2011, 124 Stat. 3968; renumbered §1013, Pub. L. 114–255, div. A, title III, §3073(b)(1), Dec. 13, 2016, 130 Stat. 1137.)
 
 #### Construction ####
 

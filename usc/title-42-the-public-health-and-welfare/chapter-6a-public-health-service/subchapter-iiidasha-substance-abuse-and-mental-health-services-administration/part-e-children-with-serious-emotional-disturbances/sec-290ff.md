@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance.
+The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance, which may include efforts to identify and serve children at risk.
 
 #### (2) "Public entity" defined ####
 
@@ -68,7 +68,7 @@ A funding agreement for a grant under subsection (a) is that the public entity i
 
 (B) In making a determination of the amount of non-Federal contributions for purposes of subparagraph (A), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the public entity involved toward the purpose described in subsection (a) for the 2-year period preceding the first fiscal year for which the entity receives a grant under such section.
 
-(July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(a), Oct. 17, 2000, 114 Stat. 1175.)
+(July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(a), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(a), Dec. 13, 2016, 130 Stat. 1262.)
 
 #### References in Text ####
 
@@ -81,6 +81,8 @@ The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935,
 A prior section 290ff, act July 1, 1944, ch. 373, title V, §561, as added Nov. 18, 1988, Pub. L. 100–690, title II, §2081(a), 102 Stat. 4216, which related to action by National Institute on Drug Abuse and States concerning military facilities, was renumbered section 513 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–6 of this title.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(1). Pub. L. 114–255 inserted ", which may include efforts to identify and serve children at risk" before period at end.
 
 **2000**—Subsec. (c)(1)(D). Pub. L. 106–310 substituted "fifth and sixth such fiscal year" for "fifth such fiscal year".
 

@@ -179,6 +179,40 @@ The term "qualified health plan" has the meaning given such term by section 1301
 
 The term "grandfathered health plan" has the meaning given such term by section 1251 of the Patient Protection and Affordable Care Act.
 
+#### (4) Special rules for qualified small employer health reimbursement arrangements ####
+
+#### (A) In general ####
+
+The term "coverage month" shall not include any month with respect to an employee (or any spouse or dependent of such employee) if for such month the employee is provided a qualified small employer health reimbursement arrangement which constitutes affordable coverage.
+
+#### (B) Denial of double benefit ####
+
+In the case of any employee who is provided a qualified small employer health reimbursement arrangement for any coverage month (determined without regard to subparagraph (A)), the credit otherwise allowable under subsection (a) to the taxpayer for such month shall be reduced (but not below zero) by the amount described in subparagraph (C)(i)(II) for such month.
+
+#### (C) Affordable coverage ####
+
+For purposes of subparagraph (A), a qualified small employer health reimbursement arrangement shall be treated as constituting affordable coverage for a month if—
+
+(i) the excess of—
+
+(I) the amount that would be paid by the employee as the premium for such month for self-only coverage under the second lowest cost silver plan offered in the relevant individual health insurance market, over
+
+(II) 1/12 of the employee's permitted benefit (as defined in section 9831(d)(3)(C)) under such arrangement, does not exceed—
+
+(ii) 1/12 of 9.5 percent of the employee's household income.
+
+#### (D) Qualified small employer health reimbursement arrangement ####
+
+For purposes of this paragraph, the term "qualified small employer health reimbursement arrangement" has the meaning given such term by section 9831(d)(2).
+
+#### (E) Coverage for less than entire year ####
+
+In the case of an employee who is provided a qualified small employer health reimbursement arrangement for less than an entire year, subparagraph (C)(i)(II) shall be applied by substituting "the number of months during the year for which such arrangement was provided" for "12".
+
+#### (F) Indexing ####
+
+In the case of plan years beginning in any calendar year after 2014, the Secretary shall adjust the 9.5 percent amount under subparagraph (C)(ii) in the same manner as the percentages are adjusted under subsection (b)(3)(A)(ii).
+
 #### (d) Terms relating to income and families ####
 
 For purposes of this section—
@@ -309,7 +343,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734.)
+(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -326,6 +360,8 @@ Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, 
 The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2016**—Subsec. (c)(4). Pub. L. 114–255 added par. (4).
 
 **2011**—Subsec. (c)(2)(D). Pub. L. 112–10 struck out subpar. (D). Prior to amendment, text read as follows: "The term 'coverage month' shall not include any month in which such individual has a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act."
 
@@ -371,6 +407,32 @@ Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted "in the table conta
 
 Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
 
+#### Effective Date of 2016 Amendment ####
+
+Pub. L. 114–255, div. C, title XVIII, §18001(a)(7), Dec. 13, 2016, 130 Stat. 1343, provided that:
+
+"(A) In general.—Except as otherwise provided in this paragraph, the amendments made by this subsection [amending this section, sections 106, 4980I, 6051, 6652, and 9831 of this title, and section 18081 of Title 42, The Public Health and Welfare] shall apply to years beginning after December 31, 2016.
+
+"(B) Transition relief.—The relief under Treasury Notice 2015–17 shall be treated as applying to any plan year beginning on or before December 31, 2016.
+
+"(C) Coordination with health insurance premium credit.—The amendments made by paragraph (3) [amending this section] shall apply to taxable years beginning after December 31, 2016.
+
+"(D) Employee notice.—
+
+"(i) In general.—The amendments made by paragraph (5) [amending section 6652 of this title] shall apply to notices with respect to years beginning after December 31, 2016.
+
+"(ii) Transition relief.—For purposes of section 6652(o) of the Internal Revenue Code of 1986 (as added by this Act), a person shall not be treated as failing to provide a written notice as required by section 9831(d)(4) of such Code if such notice is so provided not later than 90 days after the date of the enactment of this Act [Dec. 13, 2016].
+
+"(E) W–2 reporting.—The amendments made by paragraph (6)(A) [amending section 6051 of this title] shall apply to calendar years beginning after December 31, 2016.
+
+"(F) Information provided by exchange subsidy applicants.—
+
+"(i) In general.—The amendments made by paragraph (6)(B) [amending section 18081 of Title 42] shall apply to applications for enrollment made after December 31, 2016.
+
+"(ii) Verification.—Verification under section 1411 of the Patient Protection and Affordable Care Act [42 U.S.C. 18081] of information provided under section 1411(b)(3)(B) of such Act shall apply with respect to months beginning after October 2016.
+
+"(iii) Transitional relief.—In the case of an application for enrollment under section 1411(b) of the Patient Protection and Affordable Care Act [42 U.S.C. 18081(b)] made before April 1, 2017, the requirement of section 1411(b)(3)(B) of such Act shall be treated as met if the information described therein is provided not later than 30 days after the date on which the applicant receives the notice described in section 9831(d)(4) of the Internal Revenue Code of 1986."
+
 #### Effective Date of 2011 Amendment ####
 
 Pub. L. 112–56, title IV, §401(b), Nov. 21, 2011, 125 Stat. 734, provided that: "The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Nov. 21, 2011]."
@@ -388,6 +450,10 @@ Pub. L. 111–148, title X, §10108(h)(2), Mar. 23, 2010, 124 Stat. 914, provide
 #### Effective Date ####
 
 Pub. L. 111–148, title I, §1401(e), Mar. 23, 2010, 124 Stat. 220, provided that: "The amendments made by this section [enacting this section and amending sections 280C and 6211 of this title and section 1324 of Title 31, Money and Finance] shall apply to taxable years ending after December 31, 2013."
+
+#### Substantiation Requirements ####
+
+Pub. L. 114–255, div. C, title XVIII, §18001(a)(8), Dec. 13, 2016, 130 Stat. 1343, provided that: "The Secretary of the Treasury (or his designee) may issue substantiation requirements as necessary to carry out this subsection [amending this section, sections 106, 4980I, 6051, 6652, and 9831 of this title, and section 18081 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under this section]."
 
 #### No Impact on Social Security Trust Funds ####
 

@@ -114,35 +114,11 @@ Compensation for an accredited person shall be determined by agreement between t
 
 The authority provided by this section terminates October 1, 2017.
 
-#### (d) Report ####
-
-Not later than January 10, 2007, the Secretary shall conduct a study based on the experience under the program under this section and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the findings of the study. The objectives of the study shall include determining—
-
-(1) the number of devices reviewed under this section;
-
-(2) the number of devices reviewed under this section that were ultimately cleared by the Secretary;
-
-(3) the number of devices reviewed under this section that were ultimately not cleared by the Secretary;
-
-(4) the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) and determine the initial device classification);
-
-(5) the average time period identified in paragraph (4) compared to the average time period for review of devices solely by the Secretary pursuant to section 360(k) of this title;
-
-(6) if there is a difference in the average time period under paragraph (4) and the average time period under paragraph (5), the reasons for such difference;
-
-(7) whether the quality of reviews under this section for devices for which no guidance has been issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;
-
-(8) whether the quality of reviews under this section of devices for which no guidance has been issued is qualitatively inferior to reviews under this section of devices for which guidance has been issued;
-
-(9) whether this section has in any way jeopardized or improved the public health;
-
-(10) any impact of this section on resources available to the Secretary to review reports under section 360(k) of this title; and
-
-(11) any suggestions for continuation, modification (including contraction or expansion of device eligibility), or termination of this section that the Secretary determines to be appropriate.
-
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156.)
 
 #### Amendments ####
+
+**2016**—Subsec. (d). Pub. L. 114–255 struck out subsec. (d) which related to report to Congress.
 
 **2012**—Subsec. (b)(2)(E). Pub. L. 112–144, §611(a), added subpar. (E).
 

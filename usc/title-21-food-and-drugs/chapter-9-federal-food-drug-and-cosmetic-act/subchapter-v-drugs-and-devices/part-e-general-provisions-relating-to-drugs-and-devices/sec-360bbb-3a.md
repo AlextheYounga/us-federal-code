@@ -8,7 +8,7 @@ In this section:
 
 The term "eligible product" means a product that—
 
-(A) is approved or cleared under this subchapter or licensed under section 351 of the Public Health Service Act [42 U.S.C. 262];
+(A) is approved or cleared under this subchapter, conditionally approved under section 360ccc of this title, or licensed under section 351 of the Public Health Service Act [42 U.S.C. 262];
 
 (B)(i) is intended for use to prevent, diagnose, or treat a disease or condition involving a biological, chemical, radiological, or nuclear agent or agents; or
 
@@ -68,7 +68,7 @@ Notwithstanding any other provision of this chapter or the Public Health Service
 
 #### (d) Emergency dispensing ####
 
-The requirements of sections 353(b) and 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
+The requirements of subsections (b) and (f) of section 353, section 354, and section 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
 
 (1) the product is dispensed during the circumstances described in subsection (a)(1)(C); and
 
@@ -92,8 +92,14 @@ Notwithstanding any other provisions of this chapter or the Public Health Servic
 
 (B) by a government entity (including a Federal, State, local, or tribal government entity), or a person acting on behalf of such a government entity, in preparation for an emergency response.
 
-(June 25, 1938, ch. 675, §564A, as added Pub. L. 113–5, title III, §302(b), Mar. 13, 2013, 127 Stat. 183.)
+(June 25, 1938, ch. 675, §564A, as added Pub. L. 113–5, title III, §302(b), Mar. 13, 2013, 127 Stat. 183; amended Pub. L. 114–255, div. A, title III, §3088(c), Dec. 13, 2016, 130 Stat. 1149.)
 
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsecs. (b)(3), (c)(2), and (e)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### Amendments ####
+
+**2016**—Subsec. (a)(1)(A). Pub. L. 114–255, §3088(c)(1), inserted ", conditionally approved under section 360ccc of this title," after "subchapter".
+
+Subsec. (d). Pub. L. 114–255, §3088(c)(2), substituted "subsections (b) and (f) of section 353, section 354, and section 360j(e) of this title" for "sections 353(b) and 360j(e) of this title" in introductory provisions.

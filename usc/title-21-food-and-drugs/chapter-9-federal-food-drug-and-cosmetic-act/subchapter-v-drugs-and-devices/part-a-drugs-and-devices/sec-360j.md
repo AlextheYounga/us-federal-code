@@ -132,7 +132,7 @@ Members of the advisory committee who are not officers or employees of the Unite
 
 (A) submit a plan for any proposed clinical testing of the device and a report of prior investigations of the device (including, where appropriate, tests on animals) adequate to justify the proposed clinical testing—
 
-(i) to the local institutional review committee which has been established in accordance with regulations of the Secretary to supervise clinical testing of devices in the facilities where the proposed clinical testing is to be conducted, or
+(i) to the institutional review committee established in accordance with regulations of the Secretary to supervise clinical testing of devices in the facilities where the proposed clinical testing is to be conducted, or
 
 (ii) to the Secretary, if—
 
@@ -142,13 +142,17 @@ Members of the advisory committee who are not officers or employees of the Unite
 
 for review for adequacy to justify the commencement of such testing; and, unless the plan and report are submitted to the Secretary, submit to the Secretary a summary of the plan and a report of prior investigations of the device (including, where appropriate, tests on animals);
 
-(B) promptly notify the Secretary (under such circumstances and in such manner as the Secretary prescribes) of approval by a local institutional review committee of any clinical testing plan submitted to it in accordance with subparagraph (A);
+(B) promptly notify the Secretary (under such circumstances and in such manner as the Secretary prescribes) of approval by an institutional review committee of any clinical testing plan submitted to it in accordance with subparagraph (A);
 
 (C) in the case of a device to be distributed to investigators for testing, obtain signed agreements from each of such investigators that any testing of the device involving human subjects will be under such investigator's supervision and in accordance with subparagraph (D) and submit such agreements to the Secretary; and
 
-(D) assure that informed consent will be obtained from each human subject (or his representative) of proposed clinical testing involving such device, except where subject to such conditions as the Secretary may prescribe, the investigator conducting or supervising the proposed clinical testing of the device determines in writing that there exists a life threatening situation involving the human subject of such testing which necessitates the use of such device and it is not feasible to obtain informed consent from the subject and there is not sufficient time to obtain such consent from his representative.
+(D) assure that informed consent will be obtained from each human subject (or his representative) of proposed clinical testing involving such device, except where, subject to such conditions as the Secretary may prescribe—
 
-The determination required by subparagraph (D) shall be concurred in by a licensed physician who is not involved in the testing of the human subject with respect to which such determination is made unless immediate use of the device is required to save the life of the human subject of such testing and there is not sufficient time to obtain such concurrence.
+(i) the proposed clinical testing poses no more than minimal risk to the human subject and includes appropriate safeguards to protect the rights, safety, and welfare of the human subject; or
+
+(ii) the investigator conducting or supervising the proposed clinical testing of the device determines in writing that there exists a life threatening situation involving the human subject of such testing which necessitates the use of such device and it is not feasible to obtain informed consent from the subject and there is not sufficient time to obtain such consent from his representative.
+
+The determination required by subparagraph (D)(ii) shall be concurred in by a licensed physician who is not involved in the testing of the human subject with respect to which such determination is made unless immediate use of the device is required to save the life of the human subject of such testing and there is not sufficient time to obtain such concurrence.
 
 (4)(A) An application, submitted in accordance with the procedures prescribed by regulations under paragraph (2), for an exemption for a device (other than an exemption from section 360f of this title) shall be deemed approved on the thirtieth day after the submission of the application to the Secretary unless on or before such day the Secretary by order disapproves the application and notifies the applicant of the disapproval of the application.
 
@@ -218,7 +222,7 @@ shall be made available to the public upon issuance of the order. Summaries of i
 
 (3) Except as provided in paragraph (4), any information respecting a device which is made available pursuant to paragraph (1) or (2) of this subsection (A) may not be used to establish the safety or effectiveness of another device for purposes of this chapter by any person other than the person who submitted the information so made available, and (B) shall be made available subject to subsection (c) of this section.
 
-(4)(A) Any information contained in an application for premarket approval filed with the Secretary pursuant to section 360e(c) of this title (including information from clinical and preclinical tests or studies that demonstrate the safety and effectiveness of a device, but excluding descriptions of methods of manufacture and product composition and other trade secrets) shall be available, 6 years after the application has been approved by the Secretary, for use by the Secretary in—
+(4)(A) Subject to subparagraph (C), any information contained in an application for premarket approval filed with the Secretary pursuant to section 360e(c) of this title (including information from clinical and preclinical tests or studies that demonstrate the safety and effectiveness of a device, but excluding descriptions of methods of manufacture and product composition and other trade secrets) shall be available, 6 years after the application has been approved by the Secretary, for use by the Secretary in—
 
 (i) approving another device;
 
@@ -229,6 +233,14 @@ shall be made available to the public upon issuance of the order. Summaries of i
 (iv) classifying or reclassifying another device under section 360c of this title and subsection (l)(2).
 
 (B) The publicly available detailed summaries of information respecting the safety and effectiveness of devices required by paragraph (1)(A) shall be available for use by the Secretary as the evidentiary basis for the agency actions described in subparagraph (A).
+
+(C) No information contained in an application for premarket approval filed with the Secretary pursuant to section 360e(c) of this title may be used to approve or clear any application submitted under section 360e or 360(k) of this title or to classify a product under section 360c(f)(2) of this title for a combination product containing as a constituent part an approved drug (as defined in section 353(g)(5)(B) of this title) unless—
+
+(i) the application includes the certification or statement referenced in section 353(g)(5)(A) of this title;
+
+(ii) the applicant provides notice as described in section 353(g)(5)(A) of this title; and
+
+(iii) the Secretary's approval of such application is subject to the provisions in section 353(g)(5)(C) of this title.
 
 #### (i) Proceedings of advisory panels and committees ####
 
@@ -300,11 +312,11 @@ If the requirements under subsection (g) of this section are made applicable to 
 
 #### (m) Humanitarian device exemption ####
 
-(1) To the extent consistent with the protection of the public health and safety and with ethical standards, it is the purpose of this subsection to encourage the discovery and use of devices intended to benefit patients in the treatment and diagnosis of diseases or conditions that affect fewer than 4,000 individuals in the United States.
+(1) To the extent consistent with the protection of the public health and safety and with ethical standards, it is the purpose of this subsection to encourage the discovery and use of devices intended to benefit patients in the treatment and diagnosis of diseases or conditions that affect not more than 8,000 individuals in the United States.
 
 (2) The Secretary may grant a request for an exemption from the effectiveness requirements of sections 360d and 360e of this title for a device for which the Secretary finds that—
 
-(A) the device is designed to treat or diagnose a disease or condition that affects fewer than 4,000 individuals in the United States,
+(A) the device is designed to treat or diagnose a disease or condition that affects not more than 8,000 individuals in the United States,
 
 (B) the device would not be available to a person with a disease or condition referred to in subparagraph (A) unless the Secretary grants such an exemption and there is no comparable device, other than under this exemption, available to treat or diagnose such disease or condition, and
 
@@ -316,11 +328,11 @@ The request shall be in the form of an application submitted to the Secretary an
 
 (4) Devices granted an exemption under paragraph (2) may only be used—
 
-(A) in facilities that have established, in accordance with regulations of the Secretary, a local institutional review committee to supervise clinical testing of devices in the facilities, and
+(A) in facilities in which clinical testing of devices is supervised by an institutional review committee established in accordance with the regulations of the Secretary; and
 
-(B) if, before the use of a device, an institutional review committee approves the use in the treatment or diagnosis of a disease or condition referred to in paragraph (2)(A), unless a physician determines in an emergency situation that approval from a local institutional review committee can not be obtained in time to prevent serious harm or death to a patient.
+(B) if, before the use of a device, an institutional review committee approves the use in the treatment or diagnosis of a disease or condition referred to in paragraph (2)(A), unless a physician determines in an emergency situation that approval from an institutional review committee can not be obtained in time to prevent serious harm or death to a patient.
 
-In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee, the physician shall, after the use of the device, notify the chairperson of the local institutional review committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.
+In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee, the physician shall, after the use of the device, notify the chairperson of the institutional review committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.
 
 (5) The Secretary may require a person granted an exemption under paragraph (2) to demonstrate continued compliance with the requirements of this subsection if the Secretary believes such demonstration to be necessary to protect the public health, if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met, or if the Secretary has reason to believe that the criteria for the exemption are no longer met. If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.
 
@@ -332,7 +344,7 @@ In a case described in subparagraph (B) in which a physician uses a device witho
 
 (II) is intended for the treatment or diagnosis of a disease or condition that does not occur in pediatric patients or that occurs in pediatric patients in such numbers that the development of the device for such patients is impossible, highly impracticable, or unsafe.
 
-(ii) During any calendar year, the number of such devices distributed during that year under each exemption granted under this subsection does not exceed the annual distribution number for such device. In this paragraph, the term "annual distribution number" means the number of such devices reasonably needed to treat, diagnose, or cure a population of 4,000 individuals in the United States. The Secretary shall determine the annual distribution number when the Secretary grants such exemption.
+(ii) During any calendar year, the number of such devices distributed during that year under each exemption granted under this subsection does not exceed the annual distribution number for such device. In this paragraph, the term "annual distribution number" means the number of such devices reasonably needed to treat, diagnose, or cure a population of 8,000 individuals in the United States. The Secretary shall determine the annual distribution number when the Secretary grants such exemption.
 
 (iii) Such person immediately notifies the Secretary if the number of such devices distributed during any calendar year exceeds the annual distribution number referred to in clause (ii).
 
@@ -366,7 +378,73 @@ In a case described in subparagraph (B) in which a physician uses a device witho
 
 (2) Paragraph (1) shall not be construed as bearing on or being relevant to the question of whether any product other than a contact lens is a device as defined by section 321(h) of this title or a drug as defined by section 321(g) of this title.
 
-(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062.)
+#### (o) Regulation of medical and certain decisions support software ####
+
+(1) The term device, <sup><a href="#360j_1_target" name="360j_1">1</a></sup> as defined in section 321(h) of this title, shall not include a software function that is intended—
+
+(A) for administrative support of a health care facility, including the processing and maintenance of financial records, claims or billing information, appointment schedules, business analytics, information about patient populations, admissions, practice and inventory management, analysis of historical claims data to predict future utilization or cost-effectiveness, determination of health benefit eligibility, population health management, and laboratory workflow;
+
+(B) for maintaining or encouraging a healthy lifestyle and is unrelated to the diagnosis, cure, mitigation, prevention, or treatment of a disease or condition;
+
+(C) to serve as electronic patient records, including patient-provided information, to the extent that such records are intended to transfer, store, convert formats, or display the equivalent of a paper medical chart, so long as—
+
+(i) such records were created, stored, transferred, or reviewed by health care professionals, or by individuals working under supervision of such professionals;
+
+(ii) such records are part of health information technology that is certified under section 300jj–11(c)(5) of title 42; and
+
+(iii) such function is not intended to interpret or analyze patient records, including medical image data, for the purpose of the diagnosis, cure, mitigation, prevention, or treatment of a disease or condition;
+
+(D) for transferring, storing, converting formats, or displaying clinical laboratory test or other device data and results, findings by a health care professional with respect to such data and results, general information about such findings, and general background information about such laboratory test or other device, unless such function is intended to interpret or analyze clinical laboratory test or other device data, results, and findings; or
+
+(E) unless the function is intended to acquire, process, or analyze a medical image or a signal from an in vitro diagnostic device or a pattern or signal from a signal acquisition system, for the purpose of—
+
+(i) displaying, analyzing, or printing medical information about a patient or other medical information (such as peer-reviewed clinical studies and clinical practice guidelines);
+
+(ii) supporting or providing recommendations to a health care professional about prevention, diagnosis, or treatment of a disease or condition; and
+
+(iii) enabling such health care professional to independently review the basis for such recommendations that such software presents so that it is not the intent that such health care professional rely primarily on any of such recommendations to make a clinical diagnosis or treatment decision regarding an individual patient.
+
+(2) In the case of a product with multiple functions that contains—
+
+(A) at least one software function that meets the criteria under paragraph (1) or that otherwise does not meet the definition of device under section 321(h) of this title; and
+
+(B) at least one function that does not meet the criteria under paragraph (1) and that otherwise meets the definition of a device under section 321(h) of this title,
+
+the Secretary shall not regulate the software function of such product described in subparagraph (A) as a device. Notwithstanding the preceding sentence, when assessing the safety and effectiveness of the device function or functions of such product described in subparagraph (B), the Secretary may assess the impact that the software function or functions described in subparagraph (A) have on such device function or functions.
+
+(3)(A) Notwithstanding paragraph (1), a software function described in subparagraph (C), (D), or (E) of paragraph (1) shall not be excluded from the definition of device under section 321(h) of this title if—
+
+(i) the Secretary makes a finding that use of such software function would be reasonably likely to have serious adverse health consequences; and
+
+(ii) the software function has been identified in a final order issued by the Secretary under subparagraph (B).
+
+(B) Subparagraph (A) shall apply only if the Secretary—
+
+(i) publishes a notification and proposed order in the Federal Register;
+
+(ii) includes in such notification the Secretary's finding, including the rationale and identification of the evidence on which such finding was based, as described in subparagraph (A)(i); and
+
+(iii) provides for a period of not less than 30 calendar days for public comment before issuing a final order or withdrawing such proposed order.
+
+(C) In making a finding under subparagraph (A)(i) with respect to a software function, the Secretary shall consider—
+
+(i) the likelihood and severity of patient harm if the software function were to not perform as intended;
+
+(ii) the extent to which the software function is intended to support the clinical judgment of a health care professional;
+
+(iii) whether there is a reasonable opportunity for a health care professional to review the basis of the information or treatment recommendation provided by the software function; and
+
+(iv) the intended user and user environment, such as whether a health care professional will use a software function of a type described in subparagraph (E) of paragraph (1).
+
+(4) Nothing in this subsection shall be construed as limiting the authority of the Secretary to—
+
+(A) exercise enforcement discretion as to any device subject to regulation under this chapter;
+
+(B) regulate software used in the manufacture and transfusion of blood and blood components to assist in the prevention of disease in humans; or
+
+(C) regulate software as a device under this chapter if such software meets the criteria under section 360c(a)(1)(C) of this title.
+
+(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130.)
 
 #### References in Text ####
 
@@ -379,6 +457,32 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(3),
 In subsec. (k), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
+
+**2016**—Subsec. (g)(3). Pub. L. 114–255, §3024(a)(2), substituted "subparagraph (D)(ii)" for "subparagraph (D)" in concluding provisions.
+
+Subsec. (g)(3)(A)(i). Pub. L. 114–255, §3056(1)(A), struck out "local" before "institutional review committee" and "which has been" before "established in accordance with".
+
+Subsec. (g)(3)(B). Pub. L. 114–255, §3056(1)(B), substituted "an institutional" for "a local institutional".
+
+Subsec. (g)(3)(D). Pub. L. 114–255, §3024(a)(1), substituted "except where, subject to such conditions as the Secretary may prescribe—" for "except where subject to such conditions as the Secretary may prescribe,", added cl. (i), and inserted cl. (ii) designation before "the investigator".
+
+Subsec. (h)(4)(A). Pub. L. 114–255, §3038(b)(1), substituted "Subject to subparagraph (C), any information" for "Any information".
+
+Subsec. (h)(4)(C). Pub. L. 114–255, §3038(b)(2), added subpar. (C).
+
+Subsec. (m)(1). Pub. L. 114–255, §3052(a)(1), substituted "not more than 8,000" for "fewer than 4,000".
+
+Subsec. (m)(2)(A). Pub. L. 114–255, §3052(a)(2), substituted "not more than 8,000" for "fewer than 4,000".
+
+Subsec. (m)(4). Pub. L. 114–255, §3056(2)(C), struck out "local" after "chairperson of the" in concluding provisions.
+
+Subsec. (m)(4)(A). Pub. L. 114–255, §3056(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "in facilities that have established, in accordance with regulations of the Secretary, a local institutional review committee to supervise clinical testing of devices in the facilities, and".
+
+Subsec. (m)(4)(B). Pub. L. 114–255, §3056(2)(B), substituted "an institutional" for "a local institutional".
+
+Subsec. (m)(6)(A)(ii). Pub. L. 114–255, §3052(a)(3), substituted "8,000" for "4,000".
+
+Subsec. (o). Pub. L. 114–255, §3060(a), added subsec. (o).
 
 **2012**—Subsec. (b). Pub. L. 112–144, §617, amended subsec. (b) generally. Prior to amendment, subsec. (b) related to custom devices.
 
@@ -470,6 +574,20 @@ Amendment by sections 201(a), 203, 216(a)(1), and 410(a) of Pub. L. 105–115 ef
 
 Pub. L. 101–629, §14(b), Nov. 28, 1990, 104 Stat. 4525, provided that: "Subsection (m) of section 520 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360j(m)], as added by the amendment made by subsection (a), shall take effect on the effective date of the regulations issued by the Secretary under paragraph (6) of such subsection."
 
+#### Guidance Document on Probable Benefit ####
+
+Pub. L. 114–255, div. A, title III, §3052(b), Dec. 13, 2016, 130 Stat. 1125, provided that: "Not later than 18 months after the date of enactment of this Act [Dec. 13, 2016], the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall publish a draft guidance that defines the criteria for establishing 'probable benefit' as that term is used in section 520(m)(2)(C) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(m)(2)(C))."
+
+#### Reports ####
+
+Pub. L. 114–255, div. A, title III, §3060(b), Dec. 13, 2016, 130 Stat. 1132, provided that: "The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary'), after consultation with agencies and offices of the Department of Health and Human Services involved in health information technology, shall publish a report, not later than 2 years after the date of enactment of this Act [Dec. 13, 2016] and every 2 years thereafter, that—
+
+"(1) includes input from outside experts, such as representatives of patients, consumers, health care providers, startup companies, health plans or other third-party payers, venture capital investors, information technology vendors, health information technology vendors, small businesses, purchasers, employers, and other stakeholders with relevant expertise, as determined by the Secretary;
+
+"(2) examines information available to the Secretary on any risks and benefits to health associated with software functions described in section 520(o)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j[(o)(1)]) (as amended by subsection (a)); and
+
+"(3) summarizes findings regarding the impact of such software functions on patient safety, including best practices to promote safety, education, and competency related to such functions."
+
 #### Applicability to Existing Devices ####
 
 Pub. L. 112–144, title VI, §613(b), July 9, 2012, 126 Stat. 1061, provided that: "A sponsor of a device for which an exemption was approved under paragraph (2) of section 520(m) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(m)) before the date of enactment of this Act [July 9, 2012] may seek a determination under subclause (I) or (II) of section 520(m)(6)(A)(i) (as amended by subsection (a)). If the Secretary of Health and Human Services determines that such subclause (I) or (II) applies with respect to a device, clauses (ii), (iii), and (iv) of subparagraph (A) and subparagraphs (B), (C), (D), and (E) of paragraph (6) of such section 520(m) shall apply to such device, and the Secretary shall determine the annual distribution number for purposes of clause (ii) of such subparagraph (A) when making the determination under this subsection."
@@ -491,3 +609,5 @@ Pub. L. 101–629, §14(c), Nov. 28, 1990, 104 Stat. 4525, directed Secretary of
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+[<sup>1</sup> So in original. Probably should be "The term 'device',".](#360j_1)

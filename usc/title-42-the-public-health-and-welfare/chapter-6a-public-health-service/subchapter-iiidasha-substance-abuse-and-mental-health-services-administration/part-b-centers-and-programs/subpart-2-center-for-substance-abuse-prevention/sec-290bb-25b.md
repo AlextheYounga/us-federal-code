@@ -48,7 +48,7 @@ The Secretary, in collaboration with the Federal officials specified in subparag
 
 #### (B) Other agencies ####
 
-The officials referred to in paragraph (1) are the Secretary of Education, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Defense, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Director of the National Institute on Alcohol Abuse and Alcoholism, the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the National Institute on Drug Abuse, the Assistant Secretary for Children and Families, the Director of the Office of National Drug Control Policy, the Administrator of the National Highway Traffic Safety Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Chairman of the Federal Trade Commission, and such other Federal officials as the Secretary of Health and Human Services determines to be appropriate.
+The officials referred to in paragraph (1) are the Secretary of Education, the Attorney General, the Secretary of Transportation, the Secretary of the Treasury, the Secretary of Defense, the Surgeon General, the Director of the Centers for Disease Control and Prevention, the Director of the National Institute on Alcohol Abuse and Alcoholism, the Assistant Secretary for Mental Health and Substance Use, the Director of the National Institute on Drug Abuse, the Assistant Secretary for Children and Families, the Director of the Office of National Drug Control Policy, the Administrator of the National Highway Traffic Safety Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Chairman of the Federal Trade Commission, and such other Federal officials as the Secretary of Health and Human Services determines to be appropriate.
 
 #### (C) Chair ####
 
@@ -138,7 +138,7 @@ In developing these measures, the Secretary shall consider categories including,
 
 #### (3) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this subsection $1,000,000 for fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010.
+There are authorized to be appropriated to carry out this subsection $1,000,000 for each of the fiscal years 2018 through 2022.
 
 #### (d) National media campaign to prevent underage drinking ####
 
@@ -156,7 +156,7 @@ In carrying out the media campaign, the Secretary shall direct the entity carryi
 
 #### (4) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this subsection, $1,000,000 for fiscal year 2007 and $1,000,000 for each of the fiscal years 2008 through 2010.
+There are authorized to be appropriated to carry out this subsection, $1,000,000 for each of the fiscal years 2018 through 2022.
 
 #### (e) Interventions ####
 
@@ -164,7 +164,7 @@ There are authorized to be appropriated to carry out this subsection, $1,000,000
 
 #### (A) Authorization of program ####
 
-The Administrator of the Substance Abuse and Mental Health Services Administration, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Administrator determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, "enhancement grants" to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
+The Assistant Secretary for Mental Health and Substance Use, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Assistant Secretary determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, "enhancement grants" to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
 
 #### (B) Purposes ####
 
@@ -184,7 +184,7 @@ The purposes of this paragraph are to—
 
 #### (C) Application ####
 
-An eligible entity desiring an enhancement grant under this paragraph shall submit an application to the Administrator at such time, and in such manner, and accompanied by such information as the Administrator may require. Each application shall include—
+An eligible entity desiring an enhancement grant under this paragraph shall submit an application to the Assistant Secretary at such time, and in such manner, and accompanied by such information as the Assistant Secretary may require. Each application shall include—
 
 (i) a complete description of the entity's current underage alcohol use prevention initiatives and how the grant will appropriately enhance the focus on underage drinking issues; or
 
@@ -212,7 +212,7 @@ Not more than 6 percent of a grant under this paragraph may be expended for admi
 
 #### (I) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this paragraph $5,000,000 for fiscal year 2007, and $5,000,000 for each of the fiscal years 2008 through 2010.
+There are authorized to be appropriated to carry out this paragraph $5,000,000 for each of the fiscal years 2018 through 2022.
 
 #### (2) Grants directed at preventing and reducing alcohol abuse at institutions of higher education ####
 
@@ -344,9 +344,75 @@ Research under subparagraph (A) shall meet current Federal standards for scienti
 
 #### (2) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this subsection $6,000,000 for fiscal year 2007, and $6,000,000 for each of the fiscal years 2008 through 2010.
+There are authorized to be appropriated to carry out this subsection $3,000,000 for each of the fiscal years 2018 through 2022 <sup><a href="#290bb-25b_1_target" name="290bb-25b_1">1</a></sup>
 
-(July 1, 1944, ch. 373, title V, §519B, as added Pub. L. 106–310, div. B, title XXXI, §3109, Oct. 17, 2000, 114 Stat. 1182; amended Pub. L. 109–422, §2, Dec. 20, 2006, 120 Stat. 2890.)
+#### (g) Reducing underage drinking through screening and brief intervention ####
+
+#### (1) Grants to pediatric health care providers to reduce underage drinking ####
+
+The Assistant Secretary may make grants to eligible entities to increase implementation of practices for reducing the prevalence of alcohol use among individuals under the age of 21, including college students.
+
+#### (2) Purposes ####
+
+Grants under this subsection shall be made to improve—
+
+(A) screening children and adolescents for alcohol use;
+
+(B) offering brief interventions to children and adolescents to discourage such use;
+
+(C) educating parents about the dangers of, and methods of discouraging, such use;
+
+(D) diagnosing and treating alcohol use disorders; and
+
+(E) referring patients, when necessary, to other appropriate care.
+
+#### (3) Use of funds ####
+
+An entity receiving a grant under this subsection may use such funding for the purposes identified in paragraph (2) by—
+
+(A) providing training to health care providers;
+
+(B) disseminating best practices, including culturally and linguistically appropriate best practices, as appropriate, and developing and distributing materials; and
+
+(C) supporting other activities, as determined appropriate by the Assistant Secretary.
+
+#### (4) Application ####
+
+To be eligible to receive a grant under this subsection, an entity shall submit an application to the Assistant Secretary at such time, and in such manner, and accompanied by such information as the Assistant Secretary may require. Each application shall include—
+
+(A) a description of the entity;
+
+(B) a description of activities to be completed;
+
+(C) a description of how the services specified in paragraphs (2) and (3) will be carried out and the qualifications for providing such services; and
+
+(D) a timeline for the completion of such activities.
+
+#### (5) Definitions ####
+
+For the purpose of this subsection:
+
+#### (A) Brief intervention ####
+
+The term "brief intervention" means, after screening a patient, providing the patient with brief advice and other brief motivational enhancement techniques designed to increase the insight of the patient regarding the patient's alcohol use, and any realized or potential consequences of such use, to effect the desired related behavioral change.
+
+#### (B) Children and adolescents ####
+
+The term "children and adolescents" means any person under 21 years of age.
+
+#### (C) Eligible entity ####
+
+The term "eligible entity" means an entity consisting of pediatric health care providers and that is qualified to support or provide the activities identified in paragraph (2).
+
+#### (D) Pediatric health care provider ####
+
+The term "pediatric health care provider" means a provider of primary health care to individuals under the age of 21 years.
+
+#### (E) Screening ####
+
+The term "screening" means using validated patient interview techniques to identify and assess the existence and extent of alcohol use in a patient.
+
+(July 1, 1944, ch. 373, title V, §519B, as added Pub. L. 106–310, div. B, title XXXI, §3109, Oct. 17, 2000, 114 Stat. 1182; amended Pub. L. 109–422, §2, Dec. 20, 2006, 120 Stat. 2890; Pub. L. 114–255, div. B, title VI, §6001(c), title IX, §9016, Dec. 13, 2016, 130 Stat. 1203, 1246.)
 
 #### References in Text ####
 
@@ -354,4 +420,22 @@ The Drug-Free Communities Act of 1997, referred to in subsec. (e)(1)(G), is Pub.
 
 #### Amendments ####
 
+**2016**—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
+
+Subsec. (c)(3). Pub. L. 114–255, §9016(1), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010."
+
+Subsec. (d)(4). Pub. L. 114–255, §9016(2), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007 and $1,000,000 for each of the fiscal years 2008 through 2010."
+
+Subsec. (e)(1)(A). Pub. L. 114–255, §6001(c), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration" and "Assistant Secretary" for "Administrator".
+
+Subsec. (e)(1)(C). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in two places.
+
+Subsec. (e)(1)(I). Pub. L. 114–255, §9016(3), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007, and $5,000,000 for each of the fiscal years 2008 through 2010."
+
+Subsec. (f)(2). Pub. L. 114–255, §9016(4), substituted "$3,000,000 for each of the fiscal years 2018 through 2022" for "$6,000,000 for fiscal year 2007, and $6,000,000 for each of the fiscal years 2008 through 2010."
+
+Subsec. (g). Pub. L. 114–255, §9016(5), added subsec. (g).
+
 **2006**—Pub. L. 109–422 added subsecs. (a) to (f) and struck out former subsecs. (a) to (f), which related, respectively, to the Secretary's authority to make grants, cooperative agreements, or contracts for programs to prevent underage drinking; eligibility requirements; evaluation; geographical distribution; duration of award; and authorization of appropriations.
+
+[<sup>1</sup> So in original. A period probably should appear.](#290bb-25b_1)
