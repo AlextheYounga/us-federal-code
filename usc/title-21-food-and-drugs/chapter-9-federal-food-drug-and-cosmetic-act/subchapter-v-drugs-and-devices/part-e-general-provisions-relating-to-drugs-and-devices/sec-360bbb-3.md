@@ -40,7 +40,11 @@ The Secretary may make a declaration that the circumstances exist justifying the
 
 (A) a determination by the Secretary of Homeland Security that there is a domestic emergency, or a significant potential for a domestic emergency, involving a heightened risk of attack with a biological, chemical, radiological, or nuclear agent or agents;
 
-(B) a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces of attack with a biological, chemical, radiological, or nuclear agent or agents;
+(B) a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces, including personnel operating under the authority of title 10 or title 50, of attack with—
+
+(i) a biological, chemical, radiological, or nuclear agent or agents; or
+
+(ii) an agent or agents that may cause, or are otherwise associated with, an imminently life-threatening and specific risk to United States military forces;
 
 (C) a determination by the Secretary that there is a public health emergency, or a significant potential for a public health emergency, that affects, or has a significant potential to affect, national security or the health and security of United States citizens living abroad, and that involves a biological, chemical, radiological, or nuclear agent or agents, or a disease or condition that may be attributable to such agent or agents; or
 
@@ -76,6 +80,10 @@ The Secretary shall promptly publish in the Federal Register each declaration, d
 
 If an authorization under this section with respect to an unapproved product or an unapproved use of an approved product has been in effect for more than 1 year, the Secretary shall provide in writing to the sponsor of such product an explanation of the scientific, regulatory, or other obstacles to approval, licensure, or clearance of such product or use, including specific actions to be taken by the Secretary and the sponsor to overcome such obstacles.
 
+#### (6) Military emergencies ####
+
+In the case of a determination described in paragraph (1)(B), the Secretary shall determine, within 45 calendar days of such determination, whether to make a declaration under paragraph (1), and, if appropriate, shall promptly make such a declaration.
+
 #### (c) Criteria for issuance of authorization ####
 
 The Secretary may issue an authorization under this section with respect to the emergency use of a product only if, after consultation with the Assistant Secretary for Preparedness and Response, the Director of the National Institutes of Health, and the Director of the Centers for Disease Control and Prevention (to the extent feasible and appropriate given the applicable circumstances described in subsection (b)(1)), the Secretary concludes—
@@ -92,9 +100,11 @@ The Secretary may issue an authorization under this section with respect to the 
 
 (B) the known and potential benefits of the product, when used to diagnose, prevent, or treat such disease or condition, outweigh the known and potential risks of the product, taking into consideration the material threat posed by the agent or agents identified in a declaration under subsection (b)(1)(D), if applicable;
 
-(3) that there is no adequate, approved, and available alternative to the product for diagnosing, preventing, or treating such disease or condition; and
+(3) that there is no adequate, approved, and available alternative to the product for diagnosing, preventing, or treating such disease or condition;
 
-(4) that such other criteria as the Secretary may by regulation prescribe are satisfied.
+(4) in the case of a determination described in subsection (b)(1)(B)(ii), that the request for emergency use is made by the Secretary of Defense; and
+
+(5) that such other criteria as the Secretary may by regulation prescribe are satisfied.
 
 #### (d) Scope of authorization ####
 
@@ -258,13 +268,19 @@ The Secretary may establish appropriate conditions on the performance of the exa
 
 A determination under this subsection shall be effective for purposes of section 353 of the Public Health Service Act [42 U.S.C. 263a] notwithstanding any other provision of that section during the effective period of the relevant declaration under subsection (b).
 
-(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148.)
+(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148; Pub. L. 115–92, §1(a), Dec. 12, 2017, 131 Stat. 2023.)
 
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2017**—Subsec. (b)(1)(B). Pub. L. 115–92, §1(a)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces of attack with a biological, chemical, radiological, or nuclear agent or agents;".
+
+Subsec. (b)(6). Pub. L. 115–92, §1(a)(1)(B), added par. (6).
+
+Subsec. (c)(4), (5). Pub. L. 115–92, §1(a)(2), added par. (4) and redesignated former par. (4) as (5).
 
 **2016**—Subsec. (a)(2)(A). Pub. L. 114–255, §3088(a)(1)(A), substituted "360b, or 360e" for "or 360e" and inserted "or conditionally approved under section 360ccc of this title" after "Public Health Service Act".
 

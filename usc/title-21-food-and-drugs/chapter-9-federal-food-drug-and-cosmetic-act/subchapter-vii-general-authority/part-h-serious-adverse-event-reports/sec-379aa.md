@@ -152,4 +152,4 @@ Pub. L. 109–462, §2(b), Dec. 22, 2006, 120 Stat. 3472, provided that: "The Se
 
 Pub. L. 109–462, §2(e)(3), Dec. 22, 2006, 120 Stat. 3472, provided that: "Not later than 270 days after the date of enactment of this Act [Dec. 22, 2006], the Secretary of Health and Human Services shall issue guidance on the minimum data elements that should be included in a serious adverse event report described under the amendments made by this Act [see Short Title of 2006 Amendment note set out under section 301 of this title]."
 
-Pub. L. 109–462, §3(d)(3), Dec. 22, 2006, 120 Stat. 3475, enacted provisions substantially identical to those enacted by Pub. L. 109–462, §2(b), set out above.
+Pub. L. 109–462, §3(d)(3), Dec. 22, 2006, 120 Stat. 3475, enacted provisions substantially identical to those enacted by Pub. L. 109–462, §2(e)(3), set out above.

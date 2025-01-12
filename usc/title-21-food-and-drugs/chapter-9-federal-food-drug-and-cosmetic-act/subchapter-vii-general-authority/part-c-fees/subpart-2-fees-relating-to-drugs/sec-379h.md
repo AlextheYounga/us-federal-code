@@ -326,7 +326,7 @@ A drug designated under section 360bb of this title for a rare disease or condit
 
 An exemption under paragraph (1) applies with respect to a drug only if the applicant involved submits a certification that its gross annual revenues did not exceed $50,000,000 for the preceding 12 months before the exemption was requested.
 
-(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304; Pub. L. 107–109, §5(a), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–188, title V, §504, June 12, 2002, 116 Stat. 689; Pub. L. 110–85, title I, §103(a)–(h)(1), Sept. 27, 2007, 121 Stat. 826–832; Pub. L. 112–144, title I, §103, July 9, 2012, 126 Stat. 996; Pub. L. 115–52, title I, §102(a)(1), (b)–(h), title IX, §905(b)(1), Aug. 18, 2017, 131 Stat. 1007–1012, 1089.)
+(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304; Pub. L. 107–109, §5(a), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–188, title V, §504, June 12, 2002, 116 Stat. 689; Pub. L. 110–85, title I, §103(a)–(h)(1), Sept. 27, 2007, 121 Stat. 826–832; Pub. L. 112–144, title I, §103, July 9, 2012, 126 Stat. 996; Pub. L. 115–52, title I, §102(a)(1), (b)–(h), title IX, §905(b)(1), Aug. 18, 2017, 131 Stat. 1007–1012, 1090.)
 
 #### Termination of Section ####
 

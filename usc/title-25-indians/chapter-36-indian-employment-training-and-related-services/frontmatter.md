@@ -14,23 +14,21 @@ Sec.
 
 3406. Plan review.
 
-3407. Plan approval.
+3407. Plan approval; Secretarial authority; review of decision.
 
 3408. Job creation activities authorized.
 
-3409. Private sector training placements.
+3409. Employer training placements.
 
 3410. Federal responsibilities.
 
 3411. No reduction in amounts.
 
-3412. Interagency fund transfers authorized.
+3412. Transfer of funds.
 
-3413. Administration of funds and overage.
+3413. Administration of funds.
 
-3414. Fiscal accountability.
-
-3415. Report on statutory obstacles to program integration.
+3414, 3415. Repealed.
 
 3416. Labor market information on Indian work force.
 

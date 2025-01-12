@@ -60,7 +60,7 @@ In this section:
 
 (3) The term "reference listed drug" means the listed drug (as such term is used in section 355(j) of this title) for the drug involved.
 
-(June 25, 1938, ch. 675, §506H, as added Pub. L. 115–52, title VIII, §803(a), Aug. 18, 2017, 131 Stat. 1069.)
+(June 25, 1938, ch. 675, §506H, as added Pub. L. 115–52, title VIII, §803(a), Aug. 18, 2017, 131 Stat. 1070.)
 
 #### Guidance; Amended Regulations ####
 
