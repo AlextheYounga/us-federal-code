@@ -1,266 +1,426 @@
-### §278k. Regional centers for the transfer of manufacturing technology ###
+### §278k. Hollings Manufacturing Extension Partnership ###
 
-#### (a) Creation and support of Centers; affiliations; merit review in determining awards; objectives ####
+#### (a) Definitions ####
 
-The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the "Centers"). Such centers <sup><a href="#278k_1_target" name="278k_1">1</a></sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2). Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+In this section:
+
+#### (1) Appropriate committees of congress ####
+
+The term "appropriate committees of Congress" means—
+
+(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+(B) the Committee on Science, Space, and Technology of the House of Representatives.
+
+#### (2) Area career and technical education school ####
+
+The term "area career and technical education school" has the meaning given the term in section 2302 of title 20.
+
+#### (3) Center ####
+
+The term "Center" means a manufacturing extension center that—
+
+(A) is created under subsection (b); and
+
+(B) is affiliated with an eligible entity that applies for and is awarded financial support under subsection (e).
+
+#### (4) Community college ####
+
+The term "community college" means an institution of higher education (as defined under section 1001(a) of title 20) at which the highest degree that is predominately awarded to students is an associate's degree.
+
+#### (5) Eligible entity ####
+
+The term "eligible entity" means a United States-based nonprofit institution, or consortium thereof, an institution of higher education, or a State, United States territory, local, or tribal government.
+
+#### (6) Hollings Manufacturing Extension Partnership or Program ####
+
+The term "Hollings Manufacturing Extension Partnership" or "Program" means the program established under subsection (b).
+
+#### (7) MEP advisory board ####
+
+The term "MEP Advisory Board" means the Manufacturing Extension Partnership Advisory Board established under subsection (n).<sup><a href="#278k_1_target" name="278k_1">1</a></sup>
+
+#### (b) Establishment and purpose ####
+
+The Secretary, acting through the Director and, if appropriate, through other Federal officials, shall establish a program to provide assistance for the creation and support of manufacturing extension centers for the transfer of manufacturing technology and best business practices.
+
+#### (c) Objective ####
+
+The objective of the Program shall be to enhance competitiveness, productivity, and technological performance in United States manufacturing through—
 
 (1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
-(2) the participation of individuals from industry, universities, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
+(2) the participation of individuals from industry, institutions of higher education, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
 
-(3) efforts to make new manufacturing technology and processes usable by United States-based small- and medium-sized companies;
+(3) efforts to make new manufacturing technology and processes usable by United States-based small and medium-sized companies;
 
-(4) the active dissemination of scientific, engineering, technical, and management information about manufacturing to industrial firms, including small- and medium-sized manufacturing companies;
+(4) the active dissemination of scientific, engineering, technical, and management information about manufacturing to industrial firms, including small and medium-sized manufacturing companies;
 
-(5) the utilization, when appropriate, of the expertise and capability that exists in Federal laboratories other than the Institute; and
+(5) the utilization, when appropriate, of the expertise and capability that exists in Federal agencies, other than the Institute, and federally-sponsored laboratories;
 
-(6) providing to community colleges information about the job skills needed in small- and medium-sized manufacturing businesses in the regions they serve.
+(6) the provision to community colleges and area career and technical education schools of information about the job skills needed in manufacturing companies, including small and medium-sized manufacturing businesses in the regions they serve;
 
-#### (b) Activities of Centers ####
+(7) the promotion and expansion of certification systems offered through industry, associations, and local colleges when appropriate, including efforts such as facilitating training, supporting new or existing apprenticeships, and providing access to information and experts, to address workforce needs and skills gaps in order to assist small- and medium-sized manufacturing businesses; and
 
-The activities of the Centers shall include—
+(8) the growth in employment and wages at United States-based small and medium-sized companies.
 
-(1) the establishment of automated manufacturing systems and other advanced production technologies, based on research by the Institute, for the purpose of demonstrations and technology transfer;
+#### (d) Activities ####
 
-(2) the active transfer and dissemination of research findings and Center expertise to a wide range of companies and enterprises, particularly small- and medium-sized manufacturers; and
+The activities of a Center shall include—
 
-(3) loans, on a selective, short-term basis, of items of advanced manufacturing equipment to small manufacturing firms with less than 100 employees.
+(1) the establishment of automated manufacturing systems and other advanced production technologies, based on Institute-supported research, for the purpose of demonstrations and technology transfer;
 
-#### (c) Duration and amount of support; program descriptions; applications; merit review; evaluations of assistance; applicability of patent law; report; modification of requirements ####
+(2) the active transfer and dissemination of research findings and Center expertise to a wide range of companies and enterprises, particularly small and medium-sized manufacturers; and
 
-(1) The Secretary may provide financial support to any Center created under subsection (a) for a period not to exceed six years. The Secretary may not provide to a Center more than 50 percent of the capital and annual operating and maintenance funds required to create and maintain such Center.
+(3) the facilitation of collaborations and partnerships between small and medium-sized manufacturing companies, community colleges, and area career and technical education schools, to help those entities better understand the specific needs of manufacturers and to help manufacturers better understand the skill sets that students learn in the programs offered by such colleges and schools.
 
-(2) The Secretary shall publish in the Federal Register, within 90 days after August 23, 1988, a draft description of a program for establishing Centers, including—
+#### (e) Financial assistance ####
 
-(A) a description of the program;
+#### (1) Authorization ####
 
-(B) procedures to be followed by applicants;
+Except as provided in paragraph (2), the Secretary may provide financial assistance for the creation and support of a Center through a cooperative agreement with an eligible entity.
 
-(C) criteria for determining qualified applicants;
+#### (2) Cost sharing ####
 
-(D) criteria, including those listed under paragraph (4), for choosing recipients of financial assistance under this section from among the qualified applicants; and
+The Secretary may not provide more than 50 percent of the capital and annual operating and maintenance funds required to establish and support a Center.
 
-(E) maximum support levels expected to be available to Centers under the program in the fourth through sixth years of assistance under this section.
+#### (3) Rule of construction ####
 
-The Secretary shall publish a final description under this paragraph after the expiration of a 30-day comment period.
+For purposes of paragraph (2), any amount received by an eligible entity for a Center under a provision of law other than paragraph (1) shall not be considered an amount provided under paragraph (1).
 
-(3)(A) Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2).
+#### (4) Regulations ####
 
-(B) In order to receive assistance under this section, an applicant for financial assistance under subparagraph (A) shall provide adequate assurances that non-Federal assets obtained from the applicant and the applicant's partnering organizations will be used as a funding source to meet not less than 50 percent of the costs incurred for the first 3 years and an increasing share for each of the last 3 years. For purposes of the preceding sentence, the costs incurred means the costs incurred in connection with the activities undertaken to improve the management, productivity, and technological performance of small- and medium-sized manufacturing companies.
+The Secretary may revise or promulgate such regulations as necessary to carry out this subsection.
 
-(C) In meeting the 50 percent requirement, it is anticipated that a Center will enter into agreements with other entities such as private industry, universities, and State governments to accomplish programmatic objectives and access new and existing resources that will further the impact of the Federal investment made on behalf of small- and medium-sized manufacturing companies. All non-Federal costs,<sup><a href="#278k_2_target" name="278k_2">2</a></sup> contributed by such entities and determined by a Center as programmatically reasonable and allocable under MEP program procedures are includable as a portion of the Center's contribution.
-
-(D) Each applicant under subparagraph (A) shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center's activities.
-
-(4) The Secretary shall subject each such application to merit review. In making a decision whether to approve such application and provide financial support under this subsection, the Secretary shall consider at a minimum (A) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors, (B) the quality of service to be provided, (C) geographical diversity and extent of service area, and (D) the percentage of funding and amount of in-kind commitment from other sources.
-
-(5) Each Center which receives financial assistance under this section shall be evaluated during its third year of operation by an evaluation panel appointed by the Secretary. Each such evaluation panel shall be composed of private experts, none of whom shall be connected with the involved Center, and Federal officials. An official of the Institute shall chair the panel. Each evaluation panel shall measure the involved Center's performance against the objectives specified in this section. The Secretary shall not provide funding for the fourth through the sixth years of such Center's operation unless the evaluation is positive. If the evaluation is positive, the Secretary may provide continued funding through the sixth year at declining levels. A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.
-
-(6) The provisions of chapter 18 of title 35 shall (to the extent not inconsistent with this section) apply to the promotion of technology from research by Centers under this section except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director.
-
-(7) Not later than 90 days after January 4, 2011, the Comptroller General shall submit to Congress a report on the cost share requirements under the program. The report shall—
-
-(A) discuss various cost share structures, including the cost share structure in place prior to such date, and the effect of such cost share structures on individual Centers and the overall program; and
-
-(B) include recommendations for how best to structure the cost share requirement to provide for the long-term sustainability of the program.
-
-(8) If consistent with the recommendations in the report transmitted to Congress under paragraph (7), the Secretary shall alter the cost structure requirements specified under paragraph (3)(B) and (5) provided that the modification does not increase the cost share structure in place before January 4, 2011, or allow the Secretary to provide a Center more than 50 percent of the costs incurred by that Center.
-
-#### (d) Acceptance of funds ####
+#### (f) Applications ####
 
 #### (1) In general ####
 
-In addition to such sums as may be appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies and under section 272(c)(7) of this title from the private sector for the purpose of strengthening United States manufacturing.
+An eligible entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
-#### (2) Allocation of funds ####
+#### (2) Program description ####
 
-#### (A) Funds accepted from other Federal departments or agencies ####
+The Secretary shall establish and update, as necessary—
 
-The Director shall determine whether funds accepted from other Federal departments or agencies shall be counted in the calculation of the Federal share of capital and annual operating and maintenance costs under subsection (c).
+(A) a description of the Program;
 
-#### (B) Funds accepted from the private sector ####
+(B) the application procedures;
 
-Funds accepted from the private sector under section 272(c)(7) of this title, if allocated to a Center, shall not be considered in the calculation of the Federal share under subsection (c) of this section.
+(C) performance metrics;
 
-#### (e) MEP Advisory Board ####
+(D) criteria for determining qualified applicants; and <sup><a href="#278k_2_target" name="278k_2">2</a></sup>
+
+(E) criteria for choosing recipients of financial assistance from among the qualified applicants.<sup><a href="#278k_2_target" name="278k_2">2</a></sup>
+
+(F) procedures for determining allowable cost share contributions; and
+
+(G) such other program policy objectives and operational procedures as the Secretary considers necessary.
+
+#### (3) Cost sharing ####
+
+#### (A) In general ####
+
+To be considered for financial assistance under this section, an applicant shall provide adequate assurances that the applicant and if applicable, the applicant's partnering organizations, will obtain funding for not less than 50 percent of the capital and annual operating and maintenance funds required to establish and support the Center from sources other than the financial assistance provided under subsection (e).
+
+#### (B) Agreements with other entities ####
+
+In meeting the cost-sharing requirement under subparagraph (A), an eligible entity may enter into an agreement with 1 or more other entities, such as a private industry, institutions of higher education, or a State, United States territory, local, or tribal government for the contribution by that other entity of funding if the Secretary determines the agreement—
+
+(i) is programmatically reasonable;
+
+(ii) will help accomplish programmatic objectives; and
+
+(iii) is allocable under Program procedures under subsection (f)(2).
+
+#### (4) Legal rights ####
+
+Each applicant shall include in the application a proposal for the allocation of the legal rights associated with any intellectual property which may result from the activities of the Center.
+
+#### (5) Merit review of applications ####
+
+#### (A) In general ####
+
+The Secretary shall subject each application to merit review.
+
+#### (B) Considerations ####
+
+In making a decision whether to approve an application and provide financial assistance under subsection (e), the Secretary shall consider, at a minimum—
+
+(i) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors;
+
+(ii) the quality of service to be provided;
+
+(iii) the geographical diversity and extent of the service area; and
+
+(iv) the type and percentage of funding and in-kind commitment from other sources under paragraph (3).
+
+#### (g) Evaluations ####
+
+#### (1) Third and eighth year evaluations by panel ####
+
+#### (A) In general ####
+
+The Secretary shall ensure that each Center is evaluated during its third and eighth years of operation by an evaluation panel appointed by the Secretary.
+
+#### (B) Composition ####
+
+The Secretary shall ensure that each evaluation panel appointed under subparagraph (A) is composed of—
+
+(i) private experts, none of whom are connected with the Center evaluated by the panel; and
+
+(ii) Federal officials.
+
+#### (C) Chairperson ####
+
+For each evaluation panel appointed under subparagraph (B), the Secretary shall appoint a chairperson who is an official of the Institute.
+
+#### (2) Fifth year evaluations by Secretary ####
+
+In the fifth year of operation of a Center, the Secretary shall conduct a review of the Center.
+
+#### (3) Performance measurement ####
+
+In evaluating a Center an evaluation panel or the Secretary, as applicable, shall measure the performance of the Center against—
+
+(A) the objective specified in subsection (c);
+
+(B) the performance metrics under subsection (f)(2)(C); and
+
+(C) such other criterion as considered appropriate by the Secretary.
+
+#### (4) Positive evaluations ####
+
+If an evaluation of a Center is positive, the Secretary may continue to provide financial assistance for the Center—
+
+(A) in the case of an evaluation occurring in the third year of a Center, through the fifth year of the Center;
+
+(B) in the case of an evaluation occurring in the fifth year of a Center, through the eighth year of the Center; and
+
+(C) in the case of an evaluation occurring in the eighth year of a Center, through the tenth year of the Center.
+
+#### (5) Other than positive evaluations ####
+
+#### (A) Probation ####
+
+If an evaluation of a Center is other than positive, the Secretary shall put the Center on probation during the period beginning on the date that the Center receives notice under subparagraph (B)(i) and ending on the date that the reevaluation is complete under subparagraph (B)(iii).
+
+#### (B) Notice and reevaluation ####
+
+If a Center receives an evaluation that is other than positive, the evaluation panel or Secretary, as applicable, shall—
+
+(i) notify the Center of the reason, including any deficiencies in the performance of the Center identified during the evaluation;
+
+(ii) assist the Center in remedying the deficiencies by providing the Center, not less frequently than once every 3 months, an analysis of the Center, if considered appropriate by the panel or Secretary, as applicable; and
+
+(iii) reevaluate the Center not later than 1 year after the date of the notice under clause (i).
+
+#### (C) Continued support during period of probation ####
+
+#### (i) In general ####
+
+The Secretary may continue to provide financial assistance under subsection (e) for a Center during the probation period.
+
+#### (ii) Post probation ####
+
+After the period of probation, the Secretary shall not provide any financial assistance unless the Center has received a positive evaluation under subparagraph (B)(iii).
+
+#### (6) Failure to remedy ####
+
+#### (A) In general ####
+
+If a Center fails to remedy a deficiency or to show significant improvement in performance before the end of the probation period under paragraph (5), the Secretary shall conduct a competition to select an operator for the Center under subsection (h).
+
+#### (B) Treatment of Centers subject to new competition ####
+
+Upon the selection of an operator for a Center under subsection (h), the Center shall be considered a new Center and the calculation of the years of operation of that Center for purposes of paragraphs (1) through (5) of this subsection and subsection (h)(1) shall start anew.
+
+#### (h) Reapplication competition for financial assistance after 10 years ####
+
+#### (1) In general ####
+
+If an eligible entity has operated a Center under this section for a period of 10 consecutive years, the Secretary shall conduct a competition to select an eligible entity to operate the Center in accordance with the process plan under subsection (i).
+
+#### (2) Incumbent eligible entities ####
+
+An eligible entity that has received financial assistance under this section for a period of 10 consecutive years and that the Secretary determines is in good standing shall be eligible to compete in the competition under paragraph (1).
+
+#### (3) Treatment of Centers subject to reapplication competition ####
+
+Upon the selection of an operator for a Center under paragraph (1), the Center shall be considered a new Center and the calculation of the years of operation of that Center for purposes of paragraphs (1) through (5) of subsection (g) shall start anew.
+
+#### (i) Process plan ####
+
+Not later than 180 days after January 6, 2017, the Secretary shall implement and submit to Congress a plan for how the Institute will conduct an evaluation, competition, and reapplication competition under this section.
+
+#### (j) Operational requirements ####
+
+#### (1) Protection of confidential information of Center clients ####
+
+The following information, if obtained by the Federal Government in connection with an activity of a Center or the Program, shall be exempt from public disclosure under section 552 of title 5:
+
+(A) Information on the business operation of any participant in the Program or of a client of a Center.
+
+(B) Trade secrets of any client of a Center.
+
+#### (k) Oversight boards ####
+
+#### (1) In general ####
+
+As a condition on receipt of financial assistance for a Center under subsection (e), an eligible entity shall establish a board to oversee the operations of the Center.
+
+#### (2) Standards ####
+
+#### (A) In general ####
+
+The Director shall establish appropriate standards for each board described under paragraph (1).
+
+#### (B) Considerations ####
+
+In establishing the standards, the Director shall take into account the type and organizational structure of an eligible entity.
+
+#### (C) Requirements ####
+
+The standards shall address—
+
+(i) membership;
+
+(ii) composition;
+
+(iii) term limits;
+
+(iv) conflicts of interest; and
+
+(v) such other requirements as the Director considers necessary.
+
+#### (3) Membership ####
+
+#### (A) In general ####
+
+Each board established under paragraph (1) shall be composed of members as follows:
+
+(i) The membership of each board shall be representative of stakeholders in the region in which the Center is located.
+
+(ii) A majority of the members of the board shall be selected from among individuals who own or are employed by small or medium-sized manufacturers.
+
+#### (B) Limitation ####
+
+A member of a board established under paragraph (1) may not serve on more than 1 board established under that paragraph.
+
+#### (4) Bylaws ####
+
+#### (A) In general ####
+
+Each board established under paragraph (1) shall adopt and submit to the Director bylaws to govern the operation of the board.
+
+#### (B) Conflicts of interest ####
+
+Bylaws adopted under subparagraph (A) shall include policies to minimize conflicts of interest, including such policies relating to disclosure of relationships and recusal as may be necessary to minimize conflicts of interest.
+
+#### (l) Acceptance of funds ####
+
+In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under section 272(c)(7) of this title, to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing.
+
+#### (m) MEP Advisory Board ####
 
 #### (1) Establishment ####
 
-There is established within the Institute a Manufacturing Extension Partnership Advisory Board (in this subsection referred to as the "MEP Advisory Board").
+There is established within the Institute a Manufacturing Extension Partnership Advisory Board.
 
 #### (2) Membership ####
 
-#### (A) In general ####
+#### (A) Composition ####
 
-The MEP Advisory Board shall consist of 10 members broadly representative of stakeholders, to be appointed by the Director. At least 2 members shall be employed by or on an advisory board for the Centers, and at least 5 other members shall be from United States small businesses in the manufacturing sector. No member shall be an employee of the Federal Government.
+#### (i) In general ####
+
+The MEP Advisory Board shall consist of not fewer than 10 members appointed by the Director and broadly representative of stakeholders.
+
+#### (ii) Requirements ####
+
+Of the members appointed under clause (i)—
+
+(I) at least 2 members shall be employed by or on an advisory board for a Center;
+
+(II) at least 5 members shall be from United States small businesses in the manufacturing sector; and
+
+(III) at least 1 member shall represent a community college.
+
+#### (iii) Limitation ####
+
+No member of the MEP Advisory Board shall be an employee of the Federal Government.
 
 #### (B) Term ####
 
-Except as provided in subparagraph (C) or (D), the term of office of each member of the MEP Advisory Board shall be 3 years.
+Except as provided in subparagraph (C), the term of office of each member of the MEP Advisory Board shall be 3 years.
 
-#### (C) Classes ####
-
-The original members of the MEP Advisory Board shall be appointed to 3 classes. One class of 3 members shall have an initial term of 1 year, one class of 3 members shall have an initial term of 2 years, and one class of 4 members shall have an initial term of 3 years.
-
-#### (D) Vacancies ####
+#### (C) Vacancies ####
 
 Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 
-#### (E) Serving consecutive terms ####
+#### (D) Serving consecutive terms ####
 
-Any person who has completed two consecutive full terms of service on the MEP Advisory Board shall thereafter be ineligible for appointment during the one-year period following the expiration of the second such term.
+Any person who has completed 2 consecutive full terms of service on the MEP Advisory Board shall thereafter be ineligible for appointment during the 1-year period following the expiration of the second such term.
 
 #### (3) Meetings ####
 
-The MEP Advisory Board shall meet not less than 2 times annually, and provide to the Director—
+The MEP Advisory Board shall—
 
-(A) advice on Manufacturing Extension Partnership programs, plans, and policies;
+(A) meet not less than biannually; and
 
-(B) assessments of the soundness of Manufacturing Extension Partnership plans and strategies; and
+(B) provide to the Director—
 
-(C) assessments of current performance against Manufacturing Extension Partnership program plans.
+(i) advice on the activities, plans, and policies of the Program;
 
-#### (4) Federal Advisory Committee Act applicability ####
+(ii) assessments of the soundness of the plans and strategies of the Program; and
+
+(iii) assessments of current performance against the plans of the Program.
+
+#### (4) FACA applicability ####
 
 #### (A) In general ####
 
-In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.
+In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
 
 #### (B) Exception ####
 
 Section 14 of the Federal Advisory Committee Act shall not apply to the MEP Advisory Board.
 
-#### (5) Report ####
-
-The MEP Advisory Board shall transmit an annual report to the Secretary for transmittal to Congress within 30 days after the submission to Congress of the President's annual budget request in each year. Such report shall address the status of the program established pursuant to this section and comment on the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.
-
-#### (f) Competitive grant program ####
-
-#### (1) Establishment ####
-
-The Director shall establish, within the Centers program under this section and section 278l of this title, a program of competitive awards among participants described in paragraph (2) for the purposes described in paragraph (3).
-
-#### (2) Participants ####
-
-Participants receiving awards under this subsection shall be the Centers, or a consortium of such Centers.
-
-#### (3) Purpose ####
-
-The purpose of the program under this subsection is to add capabilities to the MEP program, including the development of projects to solve new or emerging manufacturing problems as determined by the Director, in consultation with the Director of the Hollings MEP program, the Manufacturing Extension Partnership Advisory Board, and small and medium-sized manufacturers. One or more themes for the competition may be identified, which may vary from year to year, depending on the needs of manufacturers and the success of previous competitions. Centers may be reimbursed for costs incurred under the program. These themes—
-
-(A) shall be related to projects designed to increase the viability both of traditional manufacturing sectors and other sectors, such as construction, that increasingly rely on manufacturing through the use of manufactured components and manufacturing techniques, including supply chain integration and quality management;
-
-(B) shall be related to projects related to the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities; and
-
-(C) may extend beyond these traditional areas to include projects related to construction industry modernization.
-
-#### (4) Applications ####
-
-Applications for awards under this subsection shall be submitted in such manner, at such time, and containing such information as the Director shall require, in consultation with the Manufacturing Extension Partnership Advisory Board.
-
-#### (5) Selection ####
+#### (5) Annual report ####
 
 #### (A) In general ####
 
-Awards under this section shall be peer reviewed and competitively awarded. The Director shall endeavor to select at least one proposal in each of the 9 statistical divisions of the United States (as designated by the Bureau of the Census). The Director shall select proposals to receive awards that will—
+At a minimum, the MEP Advisory Board shall transmit an annual report to the Secretary for transmittal to Congress not later than 30 days after the submission to Congress of the President's annual budget under section 1105 of title 31.
 
-(i) create jobs or train newly hired employees;
+#### (B) Contents ####
 
-(ii) promote technology transfer and commercialization of environmentally focused materials, products, and processes;
+The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i <sup><a href="#278k_3_target" name="278k_3">3</a></sup> of this title.
 
-(iii) increase energy efficiency; and
+#### (n) Small manufacturers ####
 
-(iv) improve the competitiveness of industries in the region in which the Center or Centers are located.
+#### (1) Evaluation of obstacles ####
 
-#### (B) Additional selection criteria ####
+As part of the Program, the Director shall—
 
-The Director may select proposals to receive awards that will—
+(A) identify obstacles that prevent small manufacturers from effectively competing in the global market;
 
-(i) encourage greater cooperation and foster partnerships in the region with similar Federal, State, and locally funded programs to encourage energy efficiency and building technology; and
+(B) implement a comprehensive plan to train the Centers to address the obstacles identified in paragraph (2); and
 
-(ii) collect data and analyze the increasing connection between manufactured products and manufacturing techniques, the future of construction practices, and the emerging application of products from the green energy industries.
+(C) facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to the obstacles identified in paragraph (2).
 
-#### (6) Program contribution ####
+#### (2) Development of open access resources ####
 
-Recipients of awards under this subsection shall not be required to provide a matching contribution.
+As part of the Program, the Secretary shall develop open access resources that address best practices related to inventory sourcing, supply chain management, manufacturing techniques, available Federal resources, and other topics to further the competitiveness and profitability of small manufacturers.
 
-#### (7) <sup><a href="#278k_3_target" name="278k_3">3</a></sup> Global marketplace projects ####
-
-In making awards under this subsection, the Director, in consultation with the Manufacturing Extension Partnership Advisory Board and the Secretary of Commerce, may—
-
-(A) take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace; and
-
-(B) give a preference to applications for such projects to the extent the Director deems appropriate, taking into account the broader purposes of this subsection.
-
-#### (7) <sup><a href="#278k_3_target" name="278k_3">3</a></sup> Duration ####
-
-Awards under this section shall last no longer than 3 years.
-
-#### (8) Eligible participants ####
-
-In addition to manufacturing firms eligible to participate in the Centers program, awards under this subsection may be used by the Centers to assist small- or medium-sized construction firms. Centers may be reimbursed under the program for working with such eligible participants.
-
-#### (9) Authorization of appropriations ####
-
-In addition to any amounts otherwise authorized or appropriated to carry out this section, there are authorized to be appropriated to the Secretary of Commerce $7,000,000 for each of the fiscal years 2011 through 2013 to carry out this subsection.
-
-#### (g) Innovative services initiative ####
-
-#### (1) Establishment ####
-
-The Director shall establish, within the Centers program under this section, an innovative services initiative to assist small- and medium-sized manufacturers in—
-
-(A) reducing their energy usage, greenhouse gas emissions, and environmental waste to improve profitability;
-
-(B) accelerating the domestic commercialization of new product technologies, including components for renewable energy and energy efficiency systems; and
-
-(C) identification of and diversification to new markets, including support for transitioning to the production of components for renewable energy and energy efficiency systems.
-
-#### (2) Market demand ####
-
-The Director may not undertake any activity to accelerate the domestic commercialization of a new product technology under this subsection unless an analysis of market demand for the new product technology has been conducted.
-
-#### (h) Reports ####
-
-#### (1) In general ####
-
-In submitting the 3-year programmatic planning document and annual updates under section 278i of this title, the Director shall include an assessment of the Director's governance of the program established under this section.
-
-#### (2) Criteria ####
-
-In conducting the assessment, the Director shall use the criteria established pursuant to the Malcolm Baldrige National Quality Award under section 3711a(d)(1)(C) of this title.
-
-#### (i) Designation ####
-
-#### (1) Hollings Manufacturing Extension Partnership ####
-
-The program under this section shall be known as the "Hollings Manufacturing Extension Partnership".
-
-#### (2) Hollings Manufacturing Extension Centers ####
-
-The Regional Centers for the Transfer of Manufacturing Technology created and supported under subsection (a) shall be known as the "Hollings Manufacturing Extension Centers" (in this chapter referred to as the "Centers").
-
-#### (j) Community college defined ####
-
-In this section, the term "community college" means an institution of higher education (as defined under section 1001(a) of title 20) at which the highest degree that is predominately awarded to students is an associate's degree.
-
-#### (k) Evaluation of obstacles unique to small manufacturers ####
-
-The Director shall—
-
-(1) evaluate obstacles that are unique to small manufacturers that prevent such manufacturers from effectively competing in the global market;
-
-(2) implement a comprehensive plan to train the Centers to address such obstacles; and
-
-(3) facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to such obstacles.
-
-(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042.)
+(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, §501(b), Jan. 6, 2017, 130 Stat. 3023.)
 
 #### References in Text ####
 
-The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (m)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Subsections (c) and (d) of section 278i of this title, referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were struck out by Pub. L. 114–329, title II, §204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
 
 #### Amendments ####
+
+**2017**—Pub. L. 114–329 amended section generally. Prior to amendment, section related to establishment of regional centers for the transfer of manufacturing technology, the MEP Advisory Board, a competitive grant program, and an innovative services initiative.
 
 **2011**—Subsec. (a). Pub. L. 111–358, §404(f)(3)(A), substituted "regional centers for the transfer of manufacturing technology" for "Regional Centers for the Transfer of Manufacturing Technology" in introductory provisions.
 
@@ -316,7 +476,15 @@ Subsec. (d). Pub. L. 102–245, §105(e)(2), amended subsec. (d) generally. Prio
 
 #### Change of Name ####
 
-Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, which in part renamed the Manufacturing Extension Partnership Program authorized under this section as the Hollings Manufacturing Partnership Program and which named the centers established and receiving funding under subsec. (a) of this section the Hollings Manufacturing Extension Centers, was repealed by Pub. L. 111–358, title IV, §404(f)(2), Jan. 4, 2011, 124 Stat. 4002.
+Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, which in part renamed the Manufacturing Extension Partnership Program authorized under this section as the Hollings Manufacturing Partnership Program and which named the centers established and receiving funding under former subsec. (a) of this section the Hollings Manufacturing Extension Centers, was repealed by Pub. L. 111–358, title IV, §404(f)(2), Jan. 4, 2011, 124 Stat. 4002.
+
+#### Savings Provisions ####
+
+Pub. L. 114–329, title V, §501(f), Jan. 6, 2017, 130 Stat. 3033, provided that: "Notwithstanding the amendments made by subsections (a) [sic; subsec. (a) is set out as a Short Title of 2017 Amendment note under section 271 of this title] and (b) of this section [amending this section], the Secretary of Commerce may carry out section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) as that section was in effect on the day before the date of enactment of this Act [Jan. 6, 2017], with respect to existing grants, agreements, cooperative agreements, or contracts, and with respect to applications for such items that are received by the Secretary prior to the date of enactment of this Act."
+
+#### Patent Rights ####
+
+Pub. L. 114–329, title V, §501(g), Jan. 6, 2017, 130 Stat. 3033, provided that: "The provisions of chapter 18 of title 35, United States Code, shall apply, to the extent not inconsistent with section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) and section 25 [sic] of that Act, to the promotion of technology from research by Centers under those sections, except for contracts for such specific technology extension or transfer services as may be specified by the Director of NIST [National Institute of Standards and Technology] or under other law."
 
 #### Findings ####
 
@@ -332,13 +500,13 @@ Pub. L. 111–358, title VII, §702, Jan. 4, 2011, 124 Stat. 4041, provided that
 
 "(5) Many companies involved in construction are small, without access to innovative manufacturing techniques, and could benefit from the type of training and business analysis activities that the Hollings Manufacturing Extension Partnership routinely provides to the Nation's manufacturers and their supply chains.
 
-"(6) Broadening the competitiveness grant program under section 25(f) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(f)) could help develop and diffuse knowledge necessary to capture a large portion of the estimated $100 billion or more in energy savings if buildings in the United States met the level and quality of energy efficiency now found in buildings in certain other countries.
+"(6) Broadening the competitiveness grant program under [former] section 25(f) of the National Institute of Standards and Technology Act ([former] 15 U.S.C. 278k(f), now see 15 U.S.C. 278k–1) could help develop and diffuse knowledge necessary to capture a large portion of the estimated $100 billion or more in energy savings if buildings in the United States met the level and quality of energy efficiency now found in buildings in certain other countries.
 
 "(7) It is therefore in the national interest to expand the capabilities of the Hollings Manufacturing Extension Partnership to be supportive of the construction and green energy industries."
 
 #### Agreements and Contributions for Collective Research and Development Initiatives ####
 
-Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 73, provided in part: "That hereafter the Secretary of Commerce is authorized to enter into agreements with one or more nonprofit organizations for the purpose of carrying out collective research and development initiatives pertaining to 15 U.S.C. 278k paragraph (a), and is authorized to seek and accept contributions from public and private sources to support these efforts as necessary."
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 73, provided in part: "That hereafter the Secretary of Commerce is authorized to enter into agreements with one or more nonprofit organizations for the purpose of carrying out collective research and development initiatives pertaining to [former] 15 U.S.C. 278k paragraph (a), and is authorized to seek and accept contributions from public and private sources to support these efforts as necessary."
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -356,10 +524,10 @@ Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 #### Publication in Federal Register ####
 
-Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: "The requirement of section 25(c)(2) of the Act of March 3, 1901, [15 U.S.C. 278k(c)(2)], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060)."
+Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that the requirement of former subsec. (c)(2) of this section was met by the publication made by the National Bureau of Standards on July 18, 1988, at 53 F.R. 27060.
 
-[<sup>1</sup> So in original. Probably should be capitalized.](#278k_1)
+[<sup>1</sup> So in original. Probably should refer to subsec. (m).](#278k_1)
 
-[<sup>2</sup> So in original. The comma probably should not appear.](#278k_2)
+[<sup>2</sup> So in original.](#278k_2)
 
-[<sup>3</sup> So in original. Two pars. (7) have been enacted.](#278k_3)
+[<sup>3</sup> See References in Text note below.](#278k_3)

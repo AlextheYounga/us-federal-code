@@ -10,11 +10,11 @@ Sec.
 
 #### SUBCHAPTER I—HIGH-PERFORMANCE COMPUTING RESEARCH AND DEVELOPMENT ####
 
-5511. National High-Performance Computing Program.
+5511. Networking and Information Technology Research and Development Program.
 
-5512. National Research and Education Network.
+5512. Grand challenges in areas of national importance.
 
-5513. Next Generation Internet.
+5513. Repealed.
 
 #### SUBCHAPTER II—AGENCY ACTIVITIES ####
 
@@ -26,13 +26,11 @@ Sec.
 
 5524. Department of Commerce activities.
 
-5525. Environmental Protection Agency activities.
-
-5526. Role of Department of Education.
+5525, 5526. Repealed.
 
 5527. Miscellaneous provisions.
 
-5528. Fostering United States competitiveness in high-performance computing and related activities.
+5528. Repealed.
 
 #### SUBCHAPTER III—DEPARTMENT OF ENERGY HIGH-END COMPUTING REVITALIZATION ####
 
@@ -40,4 +38,4 @@ Sec.
 
 5542. Department of Energy high-end computing research and development program.
 
-5543. Authorization of appropriations.
+5543. Repealed.

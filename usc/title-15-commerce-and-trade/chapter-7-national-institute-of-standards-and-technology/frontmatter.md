@@ -44,7 +44,7 @@ Sec.
 
 278g. International activities.
 
-278g–1. Research fellowships and other financial assistance to students at institutes of higher education.
+278g–1. Education and outreach.
 
 278g–2. Post-doctoral fellowship program.
 
@@ -62,13 +62,13 @@ Sec.
 
 278j. Studies by National Research Council.
 
-278k. Regional centers for the transfer of manufacturing technology.
+278k. Hollings Manufacturing Extension Partnership.
+
+278k–1. Competitive awards program.
 
 278 l. Assistance to State technology programs.
 
-278m. Repealed.
-
-278n. Technology Innovation Program.
+278m, 278n. Repealed.
 
 278n–1. Emergency communication and tracking technologies research initiative.
 

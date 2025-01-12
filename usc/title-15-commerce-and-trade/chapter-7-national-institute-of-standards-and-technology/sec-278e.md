@@ -15,3 +15,11 @@ In the performance of the functions of the Institute the Secretary of Commerce i
 **1988**—Pub. L. 100–418 substituted "functions of the Institute" for "functions of the National Bureau of Standards" and "Institute buildings" for "Bureau buildings".
 
 **1972**—Pub. L. 92–317 substituted, in cl. (b), "the care, maintenance, protection, repair, and alteration of Bureau buildings and other plant facilities, equipment, and property" for "the repair and alteration of buildings and other plant facilities".
+
+#### NIST Campus Security ####
+
+Pub. L. 114–329, title I, §113, Jan. 6, 2017, 130 Stat. 2993, provided that:
+
+"(a) Supervisory Authority.—The Department of Commerce Office of Security shall directly manage the law enforcement and site security programs of NIST [National Institute of Standards and Technology] through an assigned Director of Security for NIST without increasing the number of full-time equivalent employees of the Department of Commerce, including NIST.
+
+"(b) Reports.—The Director of Security for NIST shall provide an activities and security report on a quarterly basis for the first year after the date of enactment of this Act [Jan. 6, 2017], and on an annual basis thereafter, to the Under Secretary for Standards and Technology and the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives]."

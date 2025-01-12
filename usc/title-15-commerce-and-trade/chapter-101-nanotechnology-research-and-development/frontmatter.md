@@ -8,7 +8,7 @@ Sec.
 
 7503. Advisory Panel.
 
-7504. Triennial external review of the National Nanotechnology Program.
+7504. Quadrennial external review of the National Nanotechnology Program.
 
 7505. Authorization of appropriations.
 

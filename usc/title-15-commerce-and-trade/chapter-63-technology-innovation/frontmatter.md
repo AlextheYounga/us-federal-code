@@ -67,3 +67,7 @@ Sec.
 3721. Federal loan guarantees for innovative technologies in manufacturing.
 
 3722. Regional innovation program.
+
+3723. STEM apprenticeship programs.
+
+3724. Crowdsourcing and citizen science.

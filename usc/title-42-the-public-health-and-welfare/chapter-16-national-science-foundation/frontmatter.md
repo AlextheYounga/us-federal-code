@@ -18,7 +18,7 @@ Sec.
 
 1862f. Research center consortia.
 
-1862g. Experimental Program to Stimulate Competitive Research.
+1862g. Established Program to Stimulate Competitive Research.
 
 1862h. Congressional statement of findings and declaration of purposes respecting scientific and technical education and training.
 
@@ -78,7 +78,7 @@ Sec.
 
 1862o–10. Advanced information and communications technology research.
 
-1862o–11. Evaluation and report.
+1862o–11. Repealed.
 
 1862o–12. Hispanic-serving institutions undergraduate program.
 
@@ -125,6 +125,26 @@ Sec.
 1862r. Research in disabilities education.
 
 1862r–1. Dyslexia.
+
+1862s. Reaffirmation of merit-based peer review.
+
+1862s–1. Transparency and accountability.
+
+1862s–2. Oversight of NSF major multi-user research facility projects.
+
+1862s–3. Personnel oversight.
+
+1862s–4. Brain Research through Advancing Innovative Neurotechnologies Initiative.
+
+1862s–5. Programs to expand STEM opportunities.
+
+1862s–6. Presidential awards for excellence in STEM mentoring.
+
+1862s–7. Computer science education research.
+
+1862s–8. Innovation Corps.
+
+1862s–9. Translational research grants.
 
 1863. National Science Board.
 

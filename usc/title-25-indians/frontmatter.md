@@ -103,6 +103,8 @@ Chap. Sec.
 
 45. Protection of Indians and Conservation of Resources 5101
 
+45A. Oklahoma Indian Welfare 5201
+
 46. Indian Self-Determination and Education Assistance 5301
 
 47. Conveyance of Submarginal Land 5501
@@ -332,16 +334,16 @@ Chap. Sec.
 |                                                        25:500*l*                                                         |              omitted              |
 |                                                         25:500m                                                          |              omitted              |
 |                                                         25:500n                                                          |              omitted              |
-|                                                          25:501                                                          |              omitted              |
-|                                                          25:502                                                          |              omitted              |
-|                                                          25:503                                                          |              omitted              |
-|                                                          25:504                                                          |              omitted              |
-|                                                          25:505                                                          |              omitted              |
-|                                                          25:506                                                          |              omitted              |
-|                                                          25:507                                                          |              omitted              |
-|                                                          25:508                                                          |              omitted              |
-|                                                          25:509                                                          |              omitted              |
-|                                                          25:510                                                          |              omitted              |
+|                                                          25:501                                                          |              25:5201              |
+|                                                          25:502                                                          |              25:5202              |
+|                                                          25:503                                                          |              25:5203              |
+|                                                          25:504                                                          |              25:5204              |
+|                                                          25:505                                                          |              25:5205              |
+|                                                          25:506                                                          |              25:5206              |
+|                                                          25:507                                                          |              25:5207              |
+|                                                          25:508                                                          |              25:5208              |
+|                                                          25:509                                                          |              25:5209              |
+|                                                          25:510                                                          |              25:5210              |
 |                                                          25:530                                                          |              omitted              |
 |                                                          25:541                                                          |              omitted              |
 |                                                          25:542                                                          |              omitted              |

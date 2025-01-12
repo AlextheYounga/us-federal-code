@@ -10,17 +10,7 @@ Sec.
 
 #### Part A—Teachers for a Competitive Tomorrow ####
 
-9811. Purpose.
-
-9812. Definitions.
-
-9813. Programs for baccalaureate degrees in science, technology, engineering, mathematics, or critical foreign languages, with concurrent teacher certification.
-
-9814. Programs for master's degrees in science, technology, engineering, mathematics, or critical foreign language education.
-
-9815. General provisions.
-
-9816. Authorization of appropriations.
+9811 to 9816. Repealed.
 
 #### Part B—Advanced Placement and International Baccalaureate Programs ####
 

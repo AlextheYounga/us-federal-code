@@ -1,6 +1,6 @@
 ### §278*l*. Assistance to State technology programs ###
 
-(a) In addition to the Centers program created under section 278k of this title, the Secretary, through the Director and, if appropriate, through other officials, shall provide technical assistance to State technology programs throughout the United States, in order to help those programs help businesses, particularly small- and medium-sized businesses, to enhance their competitiveness through the application of science and technology.
+(a) In addition to the Hollings Manufacturing Extension Partnership under section 278k of this title, the Secretary, through the Director and, if appropriate, through other officials, shall provide technical assistance to State technology programs throughout the United States, in order to help those programs help businesses, particularly small- and medium-sized businesses, to enhance their competitiveness through the application of science and technology.
 
 (b) Such assistance from the Institute to State technology programs shall include, but not be limited to—
 
@@ -10,7 +10,11 @@
 
 (3) entering into cooperative agreements when authorized to do so under this chapter or any other Act.
 
-(Mar. 3, 1901, ch. 872, §26, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1435.)
+(Mar. 3, 1901, ch. 872, §26, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1435; amended Pub. L. 114–329, title V, §501(e)(3), Jan. 6, 2017, 130 Stat. 3033.)
+
+#### Amendments ####
+
+**2017**—Subsec. (a). Pub. L. 114–329 substituted "Hollings Manufacturing Extension Partnership" for "Centers program created".
 
 #### Technology Extension Services ####
 
@@ -36,7 +40,7 @@ The Secretary shall submit to the Committee on Science, Space, and Technology of
 
 "(i) demonstrate methods by which the States can, in cooperation with Federal agencies, increase the use of Federal technology by businesses within their States to improve industrial competitiveness; or
 
-"(ii) help businesses in their States take advantage of the services and information offered by the Regional Centers for the Transfer of Manufacturing Technology created under section 25 of the Act of March 3, 1901 [15 U.S.C. 278k].
+"(ii) help businesses in their States take advantage of the services and information offered by the Regional Centers for the Transfer of Manufacturing Technology created under [former] section 25 of the Act of March 3, 1901 [former 15 U.S.C. 278k].
 
 "(B) Any State, for itself or for a consortium of States, may submit to the Secretary an application for a cooperative agreement under this subsection, in accordance with procedures established by the Secretary. To qualify for a cooperative agreement under this subsection, a State shall provide adequate assurances that it will increase its spending on technology extension services by an amount at least equal to the amount of Federal assistance.
 

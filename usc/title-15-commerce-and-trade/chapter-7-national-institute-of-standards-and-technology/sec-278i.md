@@ -8,17 +8,11 @@ The Director shall keep the Committee on Commerce, Science, and Transportation o
 
 The Director shall justify in writing all changes in policies regarding fees for standard reference materials and calibration services occurring after June 30, 1987, including a description of the anticipated impact of any proposed changes on demand for and anticipated revenues from the materials and services. Changes in policy and fees shall not be effective unless and until the Director has submitted the proposed schedule and justification to the Congress and 30 days on which both Houses of Congress are in session have elapsed since such submission, except that the requirement of this sentence shall not apply with respect to adjustments which are based solely on changes in the costs of raw materials or of producing and delivering standard reference materials or calibration services.
 
-#### (c) Three-Year programmatic planning document ####
-
-Concurrent with the submission to Congress of the President's annual budget request in the first year after August 9, 2007, the Director shall submit to Congress a 3-year programmatic planning document for the Institute, including programs under the Scientific and Technical Research and Services, Industrial Technology Services, and Construction of Research Facilities functions.
-
-#### (d) Annual update on three-year programmatic planning document ####
-
-Concurrent with the submission to the Congress of the President's annual budget request in each year after August 9, 2007, the Director shall submit to Congress an update to the 3-year programmatic planning document submitted under subsection (c), revised to cover the first 3 fiscal years after the date of that update.
-
-(Mar. 3, 1901, ch. 872, §23, as added Pub. L. 100–418, title V, §5114(2), Aug. 23, 1988, 102 Stat. 1432; amended Pub. L. 110–69, title III, §3004, Aug. 9, 2007, 121 Stat. 590.)
+(Mar. 3, 1901, ch. 872, §23, as added Pub. L. 100–418, title V, §5114(2), Aug. 23, 1988, 102 Stat. 1432; amended Pub. L. 110–69, title III, §3004, Aug. 9, 2007, 121 Stat. 590; Pub. L. 114–329, title II, §204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.)
 
 #### Amendments ####
+
+**2017**—Subsecs. (c), (d). Pub. L. 114–329 struck out subsecs. (c) and (d) which required the Director to submit to Congress a 3-year programmatic planning document for the Institute and annual updates.
 
 **2007**—Subsecs. (c), (d). Pub. L. 110–69 added subsecs. (c) and (d).
 

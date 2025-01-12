@@ -10,6 +10,8 @@ Sec.
 
 6603. Sense of Congress on innovation acceleration research.
 
+6604. Interagency working group on research regulation.
+
 #### SUBCHAPTER II—OFFICE OF SCIENCE AND TECHNOLOGY POLICY ####
 
 6611. Establishment of Office.
@@ -39,6 +41,10 @@ Sec.
 6623. Interagency public access committee.
 
 6624. Federal scientific collections.
+
+6625. Coordination of international science and technology partnerships.
+
+6626. Working group on inclusion in STEM fields.
 
 #### SUBCHAPTER III—PRESIDENT'S COMMITTEE ON SCIENCE AND TECHNOLOGY ####
 
