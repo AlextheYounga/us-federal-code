@@ -100,6 +100,144 @@ Sec.
 
 **2001**—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### Frederick Douglass Bicentennial Commission ####
+
+Pub. L. 115–77, Nov. 2, 2017, 131 Stat. 1251, provided that:
+
+#### "SECTION 1. SHORT TITLE. ####
+
+"This Act may be cited as the 'Frederick Douglass Bicentennial Commission Act'.
+
+#### "SEC. 2. FINDINGS. ####
+
+"Congress makes the following findings:
+
+"(1) Born into slavery on the Eastern Shore of Maryland in 1818 and given the name Frederick Augustus Washington Bailey after his mother Harriet Bailey, Frederick Douglass has been called the father of the civil rights movement.
+
+"(2) Douglass rose through determination, brilliance, and eloquence to shape the American Nation. He was an abolitionist, human rights and women's rights activist, orator, author, journalist, publisher, and social reformer.
+
+"(3) Taught basic reading skills by his mistress until she was forced to stop, Douglass continued to teach himself to read and write and taught other slaves to read despite risks including death.
+
+"(4) During the course of his remarkable life Frederick Douglass escaped from slavery, became internationally renowned for his eloquence in the cause of liberty, and went on to serve the national government in several official capacities.
+
+"(5) Forced to leave the country to avoid arrest as an escaped slave, he returned to become a staunch advocate of the Union cause and helped recruit African-American troops for the Union Army, including two of his sons, Charles and Lewis Douglass. His personal relationship with Abraham Lincoln helped persuade the President to make emancipation a cause of the Civil War.
+
+"(6) With the abolition of slavery at the close of the Civil War, Douglass then turned his attention to the full integration of African-Americans into the political and economic life of the United States. Committed to freedom, Douglass dedicated his life to achieving justice for all Americans, in particular African-Americans, women, and minority groups. He envisioned America as an inclusive Nation strengthened by diversity and free of discrimination.
+
+"(7) Douglass served as an advisor to Presidents. Abraham Lincoln referred to him as the most meritorious man of the nineteenth century. Douglass was appointed to several offices. He served as the United States Marshal of the District of Columbia under Rutherford B. Hayes' administration; President James Garfield appointed Douglass the District of Columbia Recorder of Deeds. In 1889, President Benjamin Harrison appointed Frederick Douglass to be the United States minister to Haiti. He was also appointed by President Grant to serve as Assistant Secretary of the Commission of Inquiry to Santo Domingo.
+
+"(8) Douglass lived in the District of Columbia for 23 of his 57 years as a free man, and in recognition of his leadership and continuous fight for justice and freedom, his home, Cedar Hill, was established as a National Historic Site in Anacostia, in Southeast Washington, DC.
+
+"(9) The statue of Frederick Douglass in the United States Capitol is a gift from the almost 700,000 residents of the District of Columbia.
+
+"(10) All Americans could benefit from studying the life of Frederick Douglass, for Douglass dedicated his own life to ensuring freedom and equality for future generations of Americans. This Nation should ensure that his tireless struggle, transformative words, and inclusive vision of humanity continue to inspire and sustain us.
+
+"(11) The year 2018 marks the bicentennial anniversary of the birth of Frederick Douglass, and a commission should be established to plan, develop, and carry out, and to recommend to Congress, programs and activities that are fitting and proper to celebrate that anniversary in a manner that appropriately honors Frederick Douglass.
+
+#### "SEC. 3. ESTABLISHMENT. ####
+
+"There is established a commission to be known as the Frederick Douglass Bicentennial Commission (referred to in this Act as the 'Commission').
+
+#### "SEC. 4. DUTIES. ####
+
+"The Commission shall have the following duties:
+
+"(1) To plan, develop, and carry out programs and activities that are fitting and proper to honor Frederick Douglass on the occasion of the bicentennial anniversary of Douglass' birth.
+
+"(2) To recommend to Congress programs and activities that the Commission considers fitting and proper to honor Frederick Douglass on such occasion, and the entity or entities in the Federal Government that the Commission considers most appropriate to carry out such programs and activities.
+
+#### "SEC. 5. MEMBERSHIP. ####
+
+"(a) Number and Appointment.—The Commission shall be composed of 16 members appointed as follows:
+
+"(1) Two members, each of whom shall be a qualified citizen described in subsection (b), appointed by the President.
+
+"(2) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Maryland.
+
+"(3) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of Massachusetts.
+
+"(4) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Governor of New York.
+
+"(5) One member, who shall be a qualified citizen described in subsection (b), appointed by the President on the recommendation of the Mayor of the District of Columbia.
+
+"(6) Three members, at least one of whom shall be a Member of the House of Representatives, appointed by the Speaker of the House of Representatives.
+
+"(7) Three members, at least one of whom shall be a Senator, appointed by the majority leader of the Senate.
+
+"(8) Two members, at least one of whom shall be a Member of the House of Representatives, appointed by the minority leader of the House of Representatives.
+
+"(9) Two members, at least one of whom shall be a Senator, appointed by the minority leader of the Senate.
+
+"(b) Qualified Citizen.—A qualified citizen described in this subsection is a private citizen of the United States with—
+
+"(1) a demonstrated dedication to educating others about the importance of historical figures and events; and
+
+"(2) substantial knowledge and appreciation of Frederick Douglass.
+
+"(c) Time of Appointment.—Each initial appointment of a member of the Commission shall be made before the expiration of the 60-day period beginning on the date of the enactment of this Act [Nov. 2, 2017].
+
+"(d) Continuation of Membership.—If a member of the Commission was appointed to the Commission as a Member of Congress, and ceases to be a Member of Congress, that member may continue to serve on the Commission for not longer than the 30-day period beginning on the date that member ceases to be a Member of Congress.
+
+"(e) Terms.—Each member shall be appointed for the life of the Commission.
+
+"(f) Vacancies.—A vacancy in the Commission shall not affect the powers of the Commission but shall be filled in the manner in which the original appointment was made.
+
+"(g) Basic Pay.—Members shall serve on the Commission without pay.
+
+"(h) Travel Expenses.—Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
+
+"(i) Quorum.—Six members of the Commission shall constitute a quorum but a lesser number may hold hearings.
+
+"(j) Chair.—The Commission shall select a Chair from among the members of the Commission.
+
+"(k) Meetings.—The Commission shall meet at the call of the Chair. Periodically, the Commission shall hold a meeting in Rochester, New York.
+
+#### "SEC. 6. DIRECTOR AND STAFF. ####
+
+"(a) Director.—The Commission may appoint and fix the pay of a Director and such additional personnel as the Commission considers to be appropriate.
+
+"(b) Applicability of Certain Civil Service Laws.—
+
+"(1) Director.—The Director of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+
+"(2) Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+
+#### "SEC. 7. POWERS. ####
+
+"(a) Hearings and Sessions.—The Commission may, for the purpose of carrying out this Act, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers to be appropriate.
+
+"(b) Powers of Members and Agents.—Any member or agent of the Commission may, if authorized by the Commission, take any action that the Commission is authorized to take by this Act.
+
+"(c) Obtaining Official Data.—The Commission may secure directly from any department or agency of the United States information necessary to enable the Commission to carry out this Act. Upon request of the Chair of the Commission, the head of that department or agency shall furnish that information to the Commission.
+
+"(d) Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+"(e) Administrative Support Services.—Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
+
+"(f) Gifts.—The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money or other property for the purpose of carrying out its duties.
+
+"(g) Volunteer and Uncompensated Services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
+
+#### "SEC. 8. REPORTS. ####
+
+"(a) Initial Report.—Not later than August 1, 2018, the Commission shall submit to Congress an initial report containing its recommendations under section 4(2).
+
+"(b) Final Report.—Not later than June 1, 2019, the Commission shall submit a final report to Congress, and shall include in the final report—
+
+"(1) a summary of its activities and programs;
+
+"(2) a final accounting of the funds the Commission received and expended; and
+
+"(3) any other information that the Commission considers to be appropriate.
+
+#### "SEC. 9. TERMINATION. ####
+
+"The Commission shall terminate 30 days after submitting the final report pursuant to section 8(b).
+
+#### "SEC. 10. NO ADDITIONAL FUNDS AUTHORIZED. ####
+
+"No Federal funds are authorized or may be obligated to carry out this Act."
+
 #### Women's Suffrage Centennial Commission ####
 
 S. 847, One Hundred Fifteenth Congress, as introduced on Apr. 5, 2017, which was enacted into law by Pub. L. 115–31, div. G, title IV, §431(a)(3), May 5, 2017, 131 Stat. 502, provided that:
@@ -272,7 +410,7 @@ S. 847, One Hundred Fifteenth Congress, as introduced on Apr. 5, 2017, which was
 
 "(b) Amounts Available.—Amounts appropriated in accordance with this section for any fiscal year shall remain available until the termination of the Centennial Commission."
 
-#### Program to Commemorate the 100th Anniversary of the Tomb of the Unknown Soldier ####
+#### Program To Commemorate the 100th Anniversary of the Tomb of the Unknown Soldier ####
 
 Pub. L. 114–328, div. A, title X, §1093, Dec. 23, 2016, 130 Stat. 2436, provided that:
 
@@ -1196,31 +1334,33 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9452. Armed Forces Day ####
+#### Proc. No. 9615. Armed Forces Day ####
 
-Proc. No. 9452, May 20, 2016, 81 F.R. 33327, provided:
+Proc. No. 9615, May 19, 2017, 82 F.R. 23995, provided:
 
-The Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who comprise our Armed Forces have defended our Nation and the values for which we stand for generations, answering the call to give up the comforts of civilian life, do whatever it takes to keep us safe, and go wherever they are needed. On Armed Forces Day, we offer our most profound gratitude to the patriots—at home and abroad—who have risked their lives so our people can live knowing the fullest measure of freedom and security.
+For almost 70 years, our Nation has set aside one day to recognize the great debt we owe to the men and women who serve in the Army, Navy, Air Force, Marine Corps, and Coast Guard. On Armed Forces Day, we salute the bravery of those who defend our Nation's peace and security. Their service defends for Americans the freedom that all people deserve.
 
-With courage and honor, our men and women in uniform embody the everlasting responsibility we have to each other and to future generations by giving of themselves to ensure the preservation of our Republic and secure peace throughout the world. It is because of them and the values they represent that people across the globe look to the United States of America in moments of desperation and despair. For the relief they offer, the stability they provide, and the hope they inspire, we owe our service members an extraordinary debt—one we will never stop working to repay.
+This year, we also reflect on the 100th anniversary of our Nation's entry into World War I. More than 4.7 million Americans would ultimately serve in the United States Armed Forces during that terrible conflict. Their sacrifice has not been forgotten. One hundred years later, we face different threats and challenges. But our safety and security, and the defense of our way of life, rest in the same able hands of our Armed Forces.
 
-Our country's strength is measured by how we support and take care of our troops. Humbled by the sacrifices they make—and by the strength of their families—we stand in support of those who don our uniform and strive to ensure they have every opportunity to pursue the American dream they defend. They give their best for America, and they deserve the best from us. On this day, let us salute these brave Americans and all those who laid down their lives for our safety, and each day, let us remember that we live knowing liberty because of our Armed Forces.
+Because our Armed Forces must constantly adapt to new threats, our Nation is committed to ensuring they have the tools and resources they need as they train, deploy, and fight in defense of our country and defending our values. This is why my budget calls for a $54 billion increase in national defense spending.
 
-NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+Today, we salute our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen for their dedication as they carry out the extraordinary duty of protecting our country. We also pay tribute to the families who serve alongside them, lending their steadfast love and support.
 
-I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for encouraging the participation and cooperation of civil authorities and private citizens.
+NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
-I invite the Governors of the United States and its Territories, and appropriate officials of all units of government, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
+I invite the Governors of the States and Territories and other areas subject to the jurisdiction of the United States to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic, and other organizations to join in the observance of Armed Forces Day each year.
 
-Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops and their families.
+Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 9283 of May 15, 2015, is hereby superseded.
+Proclamation 9452 of May 20, 2016, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of May, in the year of our Lord two thousand sixteen, and of the Independence of the United States of America the two hundred and fortieth.
+IN WITNESS WHEREOF, I have hereunto set my hand this nineteenth day of May, in the year of our Lord two thousand seventeen, and of the Independence of the United States of America the two hundred and forty-first.
 
-Barack Obama.
+Donald J. Trump.
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 9452, May 20, 2016, 81 F.R. 33327, superseded by Proc. No. 9615, May 19, 2017, 82 F.R. 23995.
 
 Proc. No. 9283, May 15, 2015, 80 F.R. 29199, superseded by Proc. No. 9452, May 20, 2016, 81 F.R. 33327.
 
