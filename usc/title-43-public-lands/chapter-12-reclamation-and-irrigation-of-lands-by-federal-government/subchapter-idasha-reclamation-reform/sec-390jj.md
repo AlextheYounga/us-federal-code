@@ -14,6 +14,8 @@ The Secretary is authorized and directed to enter into memorandums of agreement 
 
 (Pub. L. 97–293, title II, §210, Oct. 12, 1982, 96 Stat. 1268.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in subsecs. (a) and (b), is defined in section 390aa of this title.

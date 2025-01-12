@@ -4,6 +4,8 @@ Any copy of a plat of survey, or transcript from the records of the office of th
 
 (R.S. §2225.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The word "former" was inserted in text before "surveyor general" because of the discontinuance of the office of surveyor general in Louisiana.

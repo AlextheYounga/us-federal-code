@@ -4,6 +4,8 @@ The Secretary shall require, as conditions to any such loan, that the borrower c
 
 (July 4, 1955, ch. 271, §3, 69 Stat. 245; May 14, 1956, ch. 268, 70 Stat. 155; Pub. L. 92–487, Oct. 13, 1972, 86 Stat. 804; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The references in text to section 79 of title 16 and section 959 of this title are translations of a reference in the original to the act of "February 15, 1901 (31 Stat. 790), as amended (16 U.S.C. 79, 522; 43 U.S.C. 959)", meaning act of Feb. 15, 1901, ch. 372, which is classified to section 959 of Title 43, Public Lands. The Act, insofar as it related to National Park System units, was repealed and reenacted as section 100902(a) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.

@@ -96,6 +96,8 @@ Sec.
 
 619b. Reimbursement of funds advanced by non-Federal purchasers; uprating program; repayment requirement; visitor facilities program.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Consolidation of Certain Projects; Effect on This Chapter ####
 
 Act May 28, 1954, ch. 241, 68 Stat. 143, provided that:

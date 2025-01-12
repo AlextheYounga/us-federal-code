@@ -4,10 +4,14 @@ The Secretary of the Interior is authorized to construct, operate, and maintain 
 
 (June 5, 1944, ch. 234, §3, 58 Stat. 271.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Authorization of Appropriations ####
 
-Section 4 of act June 5, 1944, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and section 593a of this title.
+Act June 5, 1944, ch. 234, §4, 58 Stat. 271, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and section 593a of this title.

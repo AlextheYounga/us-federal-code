@@ -4,9 +4,13 @@ All returns relative to the public lands shall be made to the Secretary of the I
 
 (R.S. §456; July 31, 1894, ch. 174, §7, 28 Stat. 207; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §456 derived from act Apr. 25, 1812, ch. 68, §9, 2 Stat. 717.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

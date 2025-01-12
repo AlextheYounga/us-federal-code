@@ -4,6 +4,8 @@ Irrigation water temporarily made available from reclamation facilities in exces
 
 (Pub. L. 97–293, title II, §220, Oct. 12, 1982, 96 Stat. 1271.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Reclamation Project Act of 1939, referred to in text, is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, which is classified principally to subchapter X (§485 et seq.) of this chapter. For complete classification of this Act to the Code, see section 485k of this title and Tables.

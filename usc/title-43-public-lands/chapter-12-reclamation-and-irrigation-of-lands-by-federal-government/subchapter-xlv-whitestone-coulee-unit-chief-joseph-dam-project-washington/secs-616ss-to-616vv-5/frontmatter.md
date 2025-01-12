@@ -1,5 +1,7 @@
 ### §§616ss to 616vv–5. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 616ss, Pub. L. 88–599, §1, Sept. 18, 1964, 78 Stat. 955, authorized construction, operation, and maintenance of Whitestone Coulee unit of Okanogan-Similkameen division of Chief Joseph Dam project, Washington.

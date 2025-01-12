@@ -4,6 +4,8 @@ Distribution and drainage systems authorized to be constructed under the Federal
 
 (July 4, 1955, ch. 271, §1, 69 Stat. 244; Pub. L. 92–487, Oct. 13, 1972, 86 Stat. 804.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Pub. L. 92–487 substituted provisions relating to construction of distribution and drainage systems, for provisions relating to construction of irrigation systems, and inserted provisions setting forth the type of drainage systems subject to coverage of sections 421a to 421h of this title.

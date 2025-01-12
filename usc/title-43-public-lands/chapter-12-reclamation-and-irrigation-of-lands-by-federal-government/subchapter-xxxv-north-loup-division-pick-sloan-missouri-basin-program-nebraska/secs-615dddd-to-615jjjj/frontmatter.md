@@ -1,5 +1,7 @@
 ### §§615dddd to 615jjjj. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615dddd, Pub. L. 92–514, title V, §501, Oct. 20, 1972, 86 Stat. 969; Pub. L. 108–318, §1, Oct. 5, 2004, 118 Stat. 1211, authorized North Loup division, Pick-Sloan Missouri Basin program, Nebraska, and described principal features of this division.
@@ -15,6 +17,8 @@ Section 615hhhh, Pub. L. 92–514, title V, §505, Oct. 20, 1972, 86 Stat. 970, 
 Section 615iiii, Pub. L. 92–514, title V, §506, Oct. 20, 1972, 86 Stat. 970, related to newly irrigated lands.
 
 Section 615jjjj, Pub. L. 92–514, title V, §507, Oct. 20, 1972, 86 Stat. 970, authorized appropriations for this division.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Virginia Smith Dam and Calamus Lake Recreation Area ####
 

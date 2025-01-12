@@ -4,6 +4,8 @@ Section 1373, Pub. L. 86–649, title II, §203, July 14, 1960, 74 Stat. 507, re
 
 Section 1374, Pub. L. 86–649, title II, §204(a), July 14, 1960, 74 Stat. 507, related to refund of excess or other payments.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.

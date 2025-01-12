@@ -22,6 +22,8 @@ The Secretary of the Interior shall certify to the Secretary of the Treasury, at
 
 (Dec. 21, 1928, ch. 42, §2, 45 Stat. 1057; Pub. L. 98–381, title I, §103(a)(1), Aug. 17, 1984, 98 Stat. 1334.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Subsec. (b). Pub. L. 98–381 substituted a period for ", except that the aggregate amount of such advances shall not exceed the sum of $165,000,000" at end of first sentence.

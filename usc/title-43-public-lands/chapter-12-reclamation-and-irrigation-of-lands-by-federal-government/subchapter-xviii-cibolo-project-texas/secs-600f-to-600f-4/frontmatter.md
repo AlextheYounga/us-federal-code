@@ -1,5 +1,7 @@
 ### §§600f to 600f–4. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 600f, Pub. L. 93–493, title II, §201, Oct. 27, 1974, 88 Stat. 1491, related to authorization for construction, operation, and maintenance of Cibolo project.

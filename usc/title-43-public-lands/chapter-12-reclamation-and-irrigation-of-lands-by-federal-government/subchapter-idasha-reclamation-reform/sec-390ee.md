@@ -26,6 +26,8 @@ Notwithstanding any extension of time of any recordable contract as provided in 
 
 (Pub. L. 97–293, title II, §205, Oct. 12, 1982, 96 Stat. 1265.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in subsec. (b), is defined in section 390aa of this title.

@@ -8,6 +8,8 @@ Section 1233, Pub. L. 85–433, §3, May 29, 1958, 72 Stat. 152, related to defi
 
 Section 1234, Pub. L. 85–433, §4, May 29, 1958, 72 Stat. 152, related to availability of appropriations. See section 4601 et seq. of Title 42, The Public Health and Welfare.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 2, 1971, see section 221 of Pub. L. 91–646, set out as an Effective Date note under section 4601 of Title 42, The Public Health and Welfare.

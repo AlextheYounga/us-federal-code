@@ -20,6 +20,8 @@ Pub. L. 86–649, title II, §202(b), July 14, 1960, 74 Stat. 507, provided that
 |      "June 5, 1924       | 43 Stat. 390, 395.  |
 |      "March 3, 1925      |43 Stat. 1141, 1145."|
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.

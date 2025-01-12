@@ -12,6 +12,8 @@ As used in this subchapter—
 
 (Mar. 4, 1927, ch. 513, §2, 44 Stat. 1452.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 471a of Title 48, Territories and Insular Possessions.

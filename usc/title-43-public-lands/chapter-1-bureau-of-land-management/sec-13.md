@@ -4,6 +4,8 @@ Whenever the officer, as the Secretary of the Interior may designate, of any Uni
 
 (Apr. 19, 1904, ch. 1398, 33 Stat. 186; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.

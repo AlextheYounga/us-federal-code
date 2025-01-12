@@ -4,6 +4,8 @@ When appropriated by Congress, 331/3 per centum of all grazing fees received fro
 
 (June 28, 1934, ch. 865, §11, 48 Stat. 1273; Aug. 6, 1947, ch. 507, §3, 61 Stat. 791.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1947**—Act Aug. 6, 1947, provided that 331/3 per centum of grazing fees on certain Indian lands be paid to the States and the remaining 662/3 per centum of such fees be credited to the Indians.

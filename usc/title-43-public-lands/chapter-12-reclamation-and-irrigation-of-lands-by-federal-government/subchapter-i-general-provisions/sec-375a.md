@@ -4,9 +4,13 @@ The Secretary in his discretion, in any instances where property to be sold unde
 
 (Aug. 4, 1939, ch. 418, §11, 53 Stat. 1197.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Reclamation Project Act of 1939. See sections 387 to 389 and 485 et seq. of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

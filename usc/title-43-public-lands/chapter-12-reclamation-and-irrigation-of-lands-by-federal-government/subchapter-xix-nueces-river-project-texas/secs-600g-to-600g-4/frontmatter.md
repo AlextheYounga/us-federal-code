@@ -1,5 +1,7 @@
 ### §§600g to 600g–4. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 600g, Pub. L. 93–493, title X, §1001, Oct. 27, 1974, 88 Stat. 1496, related to authorization for construction, operation, and maintenance of Nueces River project.

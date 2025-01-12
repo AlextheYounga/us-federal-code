@@ -4,6 +4,8 @@ Notwithstanding section 507 of this title, if the Secretary, in her judgment, de
 
 (Pub. L. 95–578, §5B, as added Pub. L. 114–113, div. D, title II, §203(2), Dec. 18, 2015, 129 Stat. 2406.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.

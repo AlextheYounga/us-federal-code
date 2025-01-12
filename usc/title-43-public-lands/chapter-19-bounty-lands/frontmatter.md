@@ -1,5 +1,7 @@
 ### **CHAPTER 19—BOUNTY LANDS** ###
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeals; Rights Saved; Authorization To Purchase and Cancel Unsatisfied Warrants; Procedure; Limitations; Rights of Transferees; Funds for Payments ####
 
 Pub. L. 87–558, July 27, 1962, 76 Stat. 246, provided: "That sections 457, 473, and 2414–2446, inclusive, of the Revised Statutes, as amended [sections 782, 785, 791 to 808, and 821 to 835 of this title], and the Act of December 13, 1894 (28 Stat. 594) [section 783 of this title], are hereby repealed. Repeal of said laws shall not affect the rights of holders of warrants described in section 2 of this Act, until such rights are extinguished in accordance with said section, to have their warrants receivable in payment or part payment for lands under the Act of December 13, 1894, supra, to assign their warrants pursuant to sections 2414 and 2444 of the Revised Statutes, and to secure a new warrant in lieu of a warrant lost or destroyed pursuant to section 2441 of the Revised Statutes.

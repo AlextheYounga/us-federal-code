@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT ###
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Effective date of subchapter, see sections 618i, 620f, 620h, 620m of this title.

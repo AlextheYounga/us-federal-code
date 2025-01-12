@@ -12,6 +12,8 @@ Section 1155, act Jan. 28, 1879, ch. 30, §§1–4, 20 Stat. 274, 275; 1946 Reor
 
 Section 1156, act May 30, 1894, ch. 87, 28 Stat. 84; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, authorized issuance of patents for locations under certificates made prior to Jan. 28, 1879, under former section 1155 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.

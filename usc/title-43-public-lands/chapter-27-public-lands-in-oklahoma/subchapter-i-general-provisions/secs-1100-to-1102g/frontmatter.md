@@ -20,6 +20,8 @@ Section 1102f, act Aug. 3, 1955, ch. 498, §7, 69 Stat. 447, related to issuance
 
 Section 1102g, act Aug. 3, 1955, ch. 498, §8, 69 Stat. 447, related to deposit of moneys received into Treasury.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

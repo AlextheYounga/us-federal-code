@@ -6,6 +6,8 @@ Section 1097, act May 2, 1890, ch. 182, §27, 26 Stat. 93, related to rights of 
 
 Section 1098, act Mar. 3, 1891, ch. 543, §16, 26 Stat. 1026, provided that all lands in Oklahoma be deemed agricultural lands for purposes of entry.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

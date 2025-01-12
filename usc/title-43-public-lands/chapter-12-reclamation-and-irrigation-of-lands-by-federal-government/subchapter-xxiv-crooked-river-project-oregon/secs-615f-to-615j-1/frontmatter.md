@@ -1,5 +1,7 @@
 ### §§615f to 615j–1. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615f, acts Aug. 6, 1956, ch. 980, §1, 70 Stat. 1058; Sept. 14, 1959, Pub. L. 86–271, §1, 73 Stat. 554; Sept. 18, 1964, Pub. L. 88–598, §1, 78 Stat. 954, authorized construction, operation, and maintenance of the Crooked River Project, Oregon.

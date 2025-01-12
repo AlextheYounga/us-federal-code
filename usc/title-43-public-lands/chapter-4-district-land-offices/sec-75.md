@@ -4,11 +4,15 @@ The officer designated by the Secretary of the Interior is authorized, and it sh
 
 (R.S. §2246; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The words "or receiver" which followed "register" in the original text were omitted, in view of act Mar. 3, 1925 (classified to section 71 of this title), providing for the consolidation of the offices of register and receiver. See, also, Transfer of Functions note below.
 
 R.S. §2246 derived from act June 12, 1840, ch. 35, 5 Stat. 384.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

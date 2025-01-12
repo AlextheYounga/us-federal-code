@@ -17,3 +17,5 @@ Sec.
 1957. Relationship to Outer Continental Shelf Lands Act.
 
 1958. Authorization of appropriations.
+
+1959. Prioritization of marine debris in existing innovation and entrepreneurship programs.

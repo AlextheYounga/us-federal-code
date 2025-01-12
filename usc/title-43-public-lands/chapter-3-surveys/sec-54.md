@@ -4,6 +4,8 @@ The Secretary of the Interior shall take all the necessary measures for the comp
 
 (R.S. §2218; June 5, 1924, ch. 264, 43 Stat. 394; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The original text of R.S. §2218 provided for completion of surveys "in the several surveying-districts for which surveyors general have been, or may be, appointed" and also provided that "the surveyor general thereof shall be required to deliver over" all papers appertaining to land titles within the district, "and the office of surveyor general in every such district shall thereafter cease and be discontinued." The references to the surveyors general were omitted in view of act Mar. 3, 1925 (classified to section 51 of this title) abolishing office of surveyor general and transferring its activities to the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys. See, also, Transfer of Functions note below.
@@ -19,6 +21,8 @@ Provisions of act Oct. 2, 1888, ch. 1069, 25 Stat. 525, which provided for trans
 All records, etc., belonging to office of recorder of land titles for Missouri were delivered to State upon discontinuance of office, by provisions of act June 6, 1874, ch. 223, §3, and act July 31, 1876, ch. 246.
 
 R.S. §2218 derived from acts June 12, 1840, ch. 36, §1, 5 Stat. 384; July 31, 1876, ch. 246, 19 Stat. 121.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

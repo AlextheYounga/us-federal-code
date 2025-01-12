@@ -1,5 +1,7 @@
 ### §§616ww to 616ww–5. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 616ww, Pub. L. 94–228, title III, §301, Mar. 11, 1976, 90 Stat. 207, authorized construction of McKay Dam and Reservoir, Umatilla project, Oregon, and provided for allocation of costs.

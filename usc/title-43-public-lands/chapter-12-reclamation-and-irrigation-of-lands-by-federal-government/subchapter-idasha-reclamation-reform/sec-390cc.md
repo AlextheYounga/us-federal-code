@@ -24,6 +24,8 @@ Amendments to contracts which are not required by the provisions of this subchap
 
 (Pub. L. 97–293, title II, §203, Oct. 12, 1982, 96 Stat. 1264.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in subsec. (b), is defined in section 390aa of this title.

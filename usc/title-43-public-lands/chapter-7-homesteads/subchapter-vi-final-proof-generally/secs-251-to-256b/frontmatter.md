@@ -16,6 +16,8 @@ Section 256a, acts May 13, 1932, ch. 178, §§1, 2, 47 Stat. 153; June 16, 1933,
 
 Section 256b, act Aug. 27, 1935, ch. 770, 49 Stat. 909, related to final proof by disabled World War I veterans.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.

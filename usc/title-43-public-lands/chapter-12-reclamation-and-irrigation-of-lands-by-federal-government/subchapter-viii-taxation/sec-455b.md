@@ -4,6 +4,8 @@ All such taxes legally assessed shall be a lien upon the lands and may be enforc
 
 (Apr. 21, 1928, ch. 394, §3, 45 Stat. 439; June 13, 1930, ch. 477, 46 Stat. 581.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.

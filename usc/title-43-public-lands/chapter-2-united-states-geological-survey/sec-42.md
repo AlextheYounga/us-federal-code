@@ -4,15 +4,21 @@ The Director of the United States Geological Survey is authorized and directed, 
 
 (Feb. 18, 1897, No. 13, §1, 29 Stat. 701; June 7, 1924, ch. 303, 43 Stat. 592; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The first sentence is from Joint Res. Feb. 18, 1897; the second sentence is from act June 7, 1924.
 
 Joint Res. Feb. 18, 1897 superseded a provision contained in act June 11, 1896, ch. 420, 29 Stat. 436, authorizing the sale of topographical maps with text at cost and ten per centum added.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

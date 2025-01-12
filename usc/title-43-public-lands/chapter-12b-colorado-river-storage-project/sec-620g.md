@@ -4,9 +4,13 @@ In connection with the development of the Colorado River storage project and of 
 
 (Apr. 11, 1956, ch. 203, §8, 70 Stat. 110; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–579 struck out provisions authorizing withdrawal of public lands from entry or other disposition under the public land laws.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

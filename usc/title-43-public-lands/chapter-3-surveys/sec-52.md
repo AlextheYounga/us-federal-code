@@ -12,11 +12,15 @@ Fifth. He shall, so far as is compatible with the desk duties of his office, occ
 
 (R.S. §2223; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions different from those of the fifth paragraph of this section, for inspection of surveying operations, were made by several Sundry Civil Appropriation Acts, in connection with the appropriations for surveys and resurveys, and limited to the expenditure of the particular appropriation.
 
 R.S. §2223 derived from acts May 18, 1796, ch. 29, §1, 1 Stat. 464; Apr. 29, 1816, ch. 151, §1, 3 Stat. 325; Mar. 3, 1831, ch. 116, §1, 4 Stat. 492; Mar. 3, 1853, ch. 145, §§3, 10, 10 Stat. 245, 247; Apr. 24, 1874, ch. 127, 18 Stat. 34; Aug. 9, 1876, ch. 256, 19 Stat. 126.
+
+#### **Statutory Notes and Executive Documents** ####
 
 #### Transfer of Functions ####
 

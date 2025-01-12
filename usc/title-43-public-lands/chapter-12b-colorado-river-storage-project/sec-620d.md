@@ -42,6 +42,8 @@ Business-type budgets shall be submitted to the Congress annually for all operat
 
 (Apr. 11, 1956, ch. 203, §5, 70 Stat. 107; Pub. L. 86–529, §9 (part), June 27, 1960, 74 Stat. 227; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 93–320, title II, §205(d), June 24, 1974, 88 Stat. 273; Pub. L. 98–569, §4(h), Oct. 30, 1984, 98 Stat. 2939.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 25, 1947, referred to in subsec. (e), is act June 25, 1947, ch. 148, 61 Stat. 181, which authorized the construction, operation, and maintenance of the Paonia Federal reclamation project, Colorado, and which is not classified to the Code.
@@ -57,6 +59,8 @@ Act of June 28, 1949, referred to in subsec. (e), is act June 28, 1949, ch. 255,
 **1962**—Subsec. (e). Pub. L. 87–483 substituted "hereafter" for "hereinafter" in proviso in first par.
 
 **1960**—Subsec. (f). Pub. L. 86–529 required Secretary, for purposes of computing interest during construction and interest on unpaid balance, to determine interest rate as of beginning of fiscal year in which construction is initiated, on basis of computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from date of issue.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

@@ -10,6 +10,8 @@ An individual religious or charitable entity or organization (including but not 
 
 (Pub. L. 97–293, title II, §219, Oct. 12, 1982, 96 Stat. 1271; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".

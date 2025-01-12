@@ -1,5 +1,7 @@
 ### §§1391 to 1400. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1391 to 1400 of this title, which related to the Public Land Law Review Commission, were omitted in view of the termination of the Commission pursuant to section 1394 of this title.

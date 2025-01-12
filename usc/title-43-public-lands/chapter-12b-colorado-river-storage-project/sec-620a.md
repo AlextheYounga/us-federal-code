@@ -6,6 +6,8 @@ The Secretary, concurrently with the investigations directed by the preceding pa
 
 (Apr. 11, 1956, ch. 203, §2, 70 Stat. 106; Pub. L. 87–483, §18, June 13, 1962, 76 Stat. 102; Pub. L. 88–568, §1, Sept. 2, 1964, 78 Stat. 852; Pub. L. 90–537, title V, §501(a), Sept. 30, 1968, 82 Stat. 897.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in text, are identified in section 620c of this title.
@@ -21,6 +23,8 @@ The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended t
 **1964**—Pub. L. 88–568 struck out ", Fruitland Mesa, Bostwick Park" and ", Savery-Pot Hook" after "Ohio Creek" and "Dallas Creek", respectively.
 
 **1962**—Pub. L. 87–483 struck out "San Juan-Chama, Navajo" after "Gooseberry," in first sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Storage of Water at Abiquiu Dam in New Mexico ####
 

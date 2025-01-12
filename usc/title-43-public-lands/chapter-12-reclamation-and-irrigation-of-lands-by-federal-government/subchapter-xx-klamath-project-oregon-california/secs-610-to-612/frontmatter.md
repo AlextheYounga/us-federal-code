@@ -1,5 +1,7 @@
 ### §§610 to 612. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 610, act May 25, 1926, ch. 383, §14(a–1), as added June 23, 1932, ch. 273, 47 Stat. 332, related to reclassification of lands within the Klamath irrigation district.
@@ -8,13 +10,15 @@ Section 611, act July 1, 1946, ch. 529, 60 Stat. 366, related to availability of
 
 Section 612, acts June 17, 1944, ch. 261, §2(b)–(d), 58 Stat. 279; Aug. 1, 1956, ch. 828, §2(e), 70 Stat. 799, related to lands of the Klamath project being subject to the reclamation laws.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Contract Approved ####
 
-Section 1 of act June 17, 1944, ch. 261, 58 Stat. 279, provided that the contract dated Apr. 28, 1943, negotiated by the Secretary of the Interior with the Klamath Drainage District was approved and that the Secretary was authorized to execute such contract.
+Act June 17, 1944, ch. 261, §1, 58 Stat. 279, provided that the contract dated Apr. 28, 1943, negotiated by the Secretary of the Interior with the Klamath Drainage District was approved and that the Secretary was authorized to execute such contract.
 
 #### Reclamation Laws ####
 
-Section 3 of act June 17, 1944, ch. 261, 58 Stat. 279, provided that section 612 was part of the Federal reclamation laws.
+Act June 17, 1944, ch. 261, §3, 58 Stat. 279, provided that section 612 was part of the Federal reclamation laws.
 
 #### Repayment Contract With Tule Lake Irrigation District ####
 

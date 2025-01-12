@@ -1,5 +1,7 @@
 ### §§615k to 615n. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615k, act Aug. 6, 1956, ch. 981, §1, 70 Stat. 1059, authorized construction, operation, and maintenance of Little Wood River Project, Idaho.

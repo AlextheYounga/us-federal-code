@@ -30,6 +30,8 @@ The use is authorized of such public and reserved lands of the United States as 
 
 (Dec. 21, 1928, ch. 42, §5, 45 Stat. 1060.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The reclamation law, referred to in text preceding subsec. (a), is defined in section 617k of this title.

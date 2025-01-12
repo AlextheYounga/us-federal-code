@@ -34,6 +34,8 @@ No modification of any existing obligation to pay construction charges on any pr
 
 (Aug. 4, 1939, ch. 418, §8, 53 Stat. 1192; Pub. L. 93–608, §1(18), Jan. 2, 1975, 88 Stat. 1970.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in subsec. (c), are defined in section 485a of this title.

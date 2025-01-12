@@ -10,6 +10,8 @@
 
 (Pub. L. 97–293, title II, §214, Oct. 12, 1982, 96 Stat. 1270; Pub. L. 100–203, title V, §5302(b), Dec. 22, 1987, 101 Stat. 1330–269.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in subsec. (a), is defined in section 390aa of this title.

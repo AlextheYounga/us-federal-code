@@ -4,6 +4,8 @@ The lands of any desert-land entryman located within an irrigation project const
 
 (Apr. 21, 1928, ch. 394, §2, 45 Stat. 439; June 13, 1930, ch. 477, 46 Stat. 581.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Reclamation Act, referred to in text, is identified in section 455 of this title.

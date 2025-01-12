@@ -6,6 +6,8 @@ Section 1192, R.S. §2472, related to falsely dating evidence of title under Mex
 
 Section 1193, R.S. §2473, related to presenting false or counterfeited evidences of title to lands in California.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.

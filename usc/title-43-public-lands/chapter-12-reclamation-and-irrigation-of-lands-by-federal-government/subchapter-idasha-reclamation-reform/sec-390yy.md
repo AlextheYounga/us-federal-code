@@ -8,6 +8,8 @@ Notwithstanding any other provision of Federal reclamation law, including this s
 
 (Pub. L. 97–293, title II, §227, Oct. 12, 1982, 96 Stat. 1273.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.

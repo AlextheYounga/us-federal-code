@@ -34,6 +34,8 @@ When the Secretary finds that any individual or legal entity subject to reclamat
 
 (Pub. L. 97–293, title II, §224, Oct. 12, 1982, 96 Stat. 1272; Pub. L. 100–203, title V, §5302(a), Dec. 22, 1987, 101 Stat. 1330–268; Pub. L. 103–437, §16(a)(3), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 104–66, title I, §1081(d), Dec. 21, 1995, 109 Stat. 721.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation law, referred to in subsecs. (a) to (c), is defined in section 390aa of this title.

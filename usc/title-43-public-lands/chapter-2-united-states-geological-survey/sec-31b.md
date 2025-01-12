@@ -44,6 +44,8 @@ The term "Survey" means the United States Geological Survey.
 
 (Pub. L. 102–285, §3, May 18, 1992, 106 Stat. 167; Pub. L. 105–36, §3(a), Aug. 5, 1997, 111 Stat. 1107; Pub. L. 106–148, §3, Dec. 9, 1999, 113 Stat. 1719; Pub. L. 116–9, title V, §5002(c), Mar. 12, 2019, 133 Stat. 768.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 31a to 31h of this title, referred to in text, was in the original "this Act", meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.

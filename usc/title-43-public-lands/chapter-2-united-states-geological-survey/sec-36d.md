@@ -4,11 +4,15 @@ Notwithstanding the provisions of the Federal Grant and Cooperative Agreement Ac
 
 (Pub. L. 108–108, title I, Nov. 10, 2003, 117 Stat. 1254.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Grant and Cooperative Agreement Act of 1977, referred to in text, is Pub. L. 95–224, Feb. 3, 1978, 92 Stat. 3, which was classified generally to chapter 8 (§501 et seq.) of former Title 41, Public Contracts, and was repealed and reenacted as chapter 63 (§6301 et seq.) of Title 31, Money and Finance, by Pub. L. 97–258, §§1, 5(b), Sept. 13, 1982, 96 Stat. 877, 1068.
 
 Appropriations herein, referred to in text, probably means appropriations under the headings "United States Geological Survey", "surveys, investigations, and research" and "administrative provisions", of the annual Department of the Interior and Related Agencies Appropriations Act.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Similar Provisions ####
 

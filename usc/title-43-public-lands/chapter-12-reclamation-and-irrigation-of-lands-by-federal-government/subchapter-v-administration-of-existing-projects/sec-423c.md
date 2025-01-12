@@ -4,6 +4,8 @@ Settlers who have unpatented entries under any of the public land laws embracing
 
 (May 25, 1926, ch. 383, §44, 44 Stat. 648.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 438 of this title, referred to in text, was repealed by act Aug. 13, 1953, ch. 428, §10, 67 Stat. 568. For provisions giving preference to ex-servicemen, see section 451g of this title.

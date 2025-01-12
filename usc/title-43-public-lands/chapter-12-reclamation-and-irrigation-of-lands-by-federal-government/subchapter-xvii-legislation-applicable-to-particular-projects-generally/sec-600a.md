@@ -4,11 +4,15 @@ The Secretary of the Interior is authorized to construct a Federal reclamation p
 
 (Aug. 2, 1937, ch. 557, 50 Stat. 557; Apr. 9, 1938, ch. 134, 52 Stat. 211; Aug. 9, 1955, ch. 637, §1, 69 Stat. 556.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1955**—Act Aug. 9, 1955, struck out cl. (d) which required landowners to contract to pay to the United States one-half of the price above the appraised value received for the sale of land.
 
 **1938**—Act Apr. 9, 1938, inserted "but the project may be found feasible if the Secretary of the Interior finds that the amount to be expended from the reclamation fund can be repaid by the District, and further that the amount of money to be expended from the reclamation fund, plus the amount of money which has been made available from other sources (for the estimated period of construction), equals the estimated cost of construction" after "section 412 of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Amendment of Contracts ####
 

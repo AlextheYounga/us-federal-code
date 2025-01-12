@@ -4,9 +4,13 @@ The Director of the United States Geological Survey on and after March 4, 1909 m
 
 (Mar. 4, 1909, ch. 299, 35 Stat. 989; July 21, 1947, ch. 273, 61 Stat. 398.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1947**—Act July 21, 1947, authorized production and sale of aerial or other photographs and reproductions of records on a reimbursement of appropriations basis.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

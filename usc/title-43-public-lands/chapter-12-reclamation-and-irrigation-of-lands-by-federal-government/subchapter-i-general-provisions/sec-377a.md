@@ -4,6 +4,8 @@ No funds appropriated to the Bureau of Reclamation for operation and maintenance
 
 (Pub. L. 102–377, title II, Oct. 2, 1992, 106 Stat. 1331.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from the appropriation act cited as the credit to this section.

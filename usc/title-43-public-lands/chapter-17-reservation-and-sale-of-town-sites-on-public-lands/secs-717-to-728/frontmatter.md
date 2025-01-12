@@ -24,6 +24,8 @@ Section 727, act Mar. 3, 1877, ch. 113, §4, 19 Stat. 392, authorized additional
 
 Section 728, act Mar. 3, 1891, ch. 561, §16, 26 Stat. 1101, related to town-site entries by incorporated towns and cities on the mineral lands of United States.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

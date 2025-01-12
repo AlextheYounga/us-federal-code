@@ -4,6 +4,8 @@ This subchapter shall be deemed a supplement to the reclamation law, which said 
 
 (Dec. 21, 1928, ch. 42, §14, 45 Stat. 1065.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The reclamation law, referred to in text, is defined in section 617k of this title.

@@ -1,5 +1,7 @@
 ### §§1185 to 1188. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1185, acts July 31, 1947, ch. 406, §1, 61 Stat. 681; July 23, 1955, ch. 375, §1, 69 Stat. 367, which related to rules and regulations governing disposal of materials on public lands, was transferred to section 601 of Title 30, Mineral Lands and Mining.

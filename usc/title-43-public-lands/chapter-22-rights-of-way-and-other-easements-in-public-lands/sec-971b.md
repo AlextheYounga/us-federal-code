@@ -4,6 +4,8 @@ The Secretary may sell such restored lands for not less than their appraised val
 
 (Aug. 1, 1956, ch. 848, §2, 70 Stat. 898.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 420a of Title 48, Territories and Insular Possessions.

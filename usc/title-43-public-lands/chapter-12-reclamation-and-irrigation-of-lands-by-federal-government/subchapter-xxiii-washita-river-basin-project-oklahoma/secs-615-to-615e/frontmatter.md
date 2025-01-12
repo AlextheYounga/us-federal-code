@@ -1,5 +1,7 @@
 ### §§615 to 615e. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615, act Feb. 25, 1956, ch. 71, §1, 70 Stat. 28, authorized construction, operation, and maintenance of Washita River Basin Project, Oklahoma.
@@ -13,6 +15,8 @@ Section 615c, act Feb. 25, 1956, ch. 71, §4, 70 Stat. 30, related to constructi
 Section 615d, act Feb. 25, 1956, ch. 71, §5, 70 Stat. 30, related to expenditures for Foss and Fort Cobb Reservoirs.
 
 Section 615e, act Feb. 25, 1956, ch. 71, §6, 70 Stat. 30, related to authorization of appropriations for this project.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Foss Reservoir Master Conservancy District; Feasibility Study; Revision of Repayment Contract ####
 

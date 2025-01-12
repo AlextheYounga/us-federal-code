@@ -16,6 +16,8 @@ Section 297, act Dec. 29, 1916, ch. 9, §7, 39 Stat. 864, related to applicabili
 
 Section 298, act Dec. 29, 1916, ch. 9, §8, 39 Stat. 864, set forth provisions relating to additional entries and preferential rights.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.

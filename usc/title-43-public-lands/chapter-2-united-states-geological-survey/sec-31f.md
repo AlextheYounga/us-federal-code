@@ -28,6 +28,8 @@ Entities that contribute geologic maps to the national archives shall develop th
 
 (Pub. L. 102–285, §7, May 18, 1992, 106 Stat. 171; Pub. L. 105–36, §3(e), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §7, Dec. 9, 1999, 113 Stat. 1723; Pub. L. 111–11, title XI, §11001(g), Mar. 30, 2009, 123 Stat. 1415.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under section 1457 of this title.

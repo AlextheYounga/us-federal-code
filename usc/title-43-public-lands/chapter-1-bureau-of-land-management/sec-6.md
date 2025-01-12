@@ -4,9 +4,13 @@ It shall be the duty of such officers or employees of the Bureau of Land Managem
 
 (R.S. §459; 1940 Reorg. Plan No. III, §4, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §459 derived from acts Apr. 25, 1812, ch. 68, §8, 2 Stat. 717; July 4, 1836, ch. 352, §4, 5 Stat. 111.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

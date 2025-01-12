@@ -8,6 +8,8 @@ Section 1133, act Jan. 18, 1897, ch. 62, §3, 29 Stat. 490, related to laws appl
 
 Section 1134, act Jan. 18, 1897, ch. 62, §7, 29 Stat. 491, authorized applicability of sections 1131 to 1134 of this title to Greer County, Oklahoma, and repeal of inconsistent provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

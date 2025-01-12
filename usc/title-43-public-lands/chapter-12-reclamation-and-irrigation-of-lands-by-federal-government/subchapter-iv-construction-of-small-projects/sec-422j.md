@@ -4,6 +4,8 @@ There are authorized to be appropriated, such sums as may be necessary, but not 
 
 (Aug. 6, 1956, ch. 972, §10, 70 Stat. 1047; Pub. L. 89–553, §1(6), Sept. 2, 1966, 80 Stat. 377; Pub. L. 92–167, §1(7), Nov. 24, 1971, 85 Stat. 488; Pub. L. 94–181, §1(g), Dec. 27, 1975, 89 Stat. 1050; Pub. L. 96–336, §8(a), Sept. 4, 1980, 94 Stat. 1065; Pub. L. 99–546, title III, §309, Oct. 27, 1986, 100 Stat. 3055.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "October 27, 1986," substituted in text for "the date of enactment of this Act", meaning the date of enactment of Pub. L. 99–546, which amended this section, rather than August 6, 1956, the date of enactment of this section, as the probable intent of Congress.
@@ -19,6 +21,8 @@ There are authorized to be appropriated, such sums as may be necessary, but not 
 **1971**—Pub. L. 92–167 substituted "$300,000,000" for "$200,000,000".
 
 **1966**—Pub. L. 89–553 substituted "$200,000,000" for "$100,000,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

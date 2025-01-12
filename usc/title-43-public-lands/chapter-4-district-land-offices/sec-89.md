@@ -4,11 +4,15 @@ The Secretary of the Interior or such officer as he may designate shall make to 
 
 (R.S. §2245; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The office of receiver consolidated with that of register by act Mar. 3, 1925, under a register only, the office of receiver being abolished. See, also, Transfer of Functions note below.
 
 R.S. §2245 derived from act July 4, 1836, ch. 352, §9, 5 Stat. 111.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

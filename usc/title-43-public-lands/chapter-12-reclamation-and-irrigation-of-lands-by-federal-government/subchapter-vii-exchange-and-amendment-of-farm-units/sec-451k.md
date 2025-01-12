@@ -4,6 +4,8 @@ Appropriations heretofore or hereafter made for carrying on the functions of the
 
 (Aug. 13, 1953, ch. 428, §13, 67 Stat. 568.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in text, are identified in section 451i of this title.

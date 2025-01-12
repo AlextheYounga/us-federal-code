@@ -4,6 +4,8 @@ All official books, papers, instruments of writing, documents, archives, officia
 
 (R.S. §2229; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Oct. 25, 1951, ch. 562, §3(3), 65 Stat. 639.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2229 derived from act May 18, 1858, ch. 39, §1, 11 Stat. 289.
@@ -11,6 +13,8 @@ R.S. §2229 derived from act May 18, 1858, ch. 39, §1, 11 Stat. 289.
 #### Amendments ####
 
 **1951**—Act Oct. 25, 1951, inserted "until disposed of as provided by law".
+
+#### **Statutory Notes and Executive Documents** ####
 
 #### Transfer of Functions ####
 

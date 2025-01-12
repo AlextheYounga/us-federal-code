@@ -30,6 +30,8 @@ The term "major repair and rehabilitation need" means major nonrecurring mainten
 
 (Pub. L. 116–9, title VIII, §8601, Mar. 12, 2019, 133 Stat. 827.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 505a to 505a–2 of this title, referred to in text, was in the original "this part", which was translated as reading "this subtitle", meaning subtitle G of title VIII of Pub. L. 116–9, which is classified generally to sections 505a to 505a–2 of this title, to reflect the probable intent of Congress. Subtitle G of title VIII of Pub. L. 116–9 does not contain parts.

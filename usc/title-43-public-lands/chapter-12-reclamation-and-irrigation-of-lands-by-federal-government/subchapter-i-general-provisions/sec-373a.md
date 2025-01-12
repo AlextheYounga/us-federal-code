@@ -4,6 +4,8 @@ Under the supervision and direction of the Secretary of the Interior, the reclam
 
 (May 26, 1926, ch. 401, 44 Stat. 657; Pub. L. 97–293, title II, §229, Oct. 12, 1982, 96 Stat. 1274.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
@@ -16,9 +18,7 @@ Provisions of this section which prescribed the basic compensation of Commission
 
 **1982**—Pub. L. 97–293 inserted requirement that Commissioner of Reclamation be appointed by and with advice and consent of Senate.
 
-#### Transfer of Functions ####
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Use of Private Sector ####
 
@@ -27,3 +27,9 @@ Pub. L. 108–7, div. D, title II, §208, Feb. 20, 2003, 117 Stat. 146, provided
 #### Compensation of Commissioner ####
 
 Compensation of Commissioner, see section 5316 of Title 5, Government Organization and Employees.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.

@@ -4,9 +4,13 @@ Subject to the authority conferred upon the Secretary of the Interior by this se
 
 (Oct. 9, 1942, ch. 584, §6, 56 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 365 of Title 48, Territories and Insular Possessions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Land Districts and Land Offices Continued ####
 

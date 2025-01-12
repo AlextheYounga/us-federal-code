@@ -4,6 +4,8 @@ The Secretary of the Interior, giving due consideration to the temporary nature 
 
 (June 29, 1948, ch. 733, §1, 62 Stat. 1108.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.

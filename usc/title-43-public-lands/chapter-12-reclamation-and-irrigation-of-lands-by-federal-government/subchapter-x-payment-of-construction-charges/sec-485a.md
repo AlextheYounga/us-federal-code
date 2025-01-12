@@ -24,6 +24,8 @@ As used in this subchapter—
 
 (Aug. 4, 1939, ch. 418, §2, 53 Stat. 1187; Pub. L. 85–611, §3, Aug. 8, 1958, 72 Stat. 543.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in text, was in the original "this Act", meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, known as the Reclamation Project Act of 1939, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under section 485j of this title. For complete classification of this Act to the Code, see section 485k of this title and Tables.

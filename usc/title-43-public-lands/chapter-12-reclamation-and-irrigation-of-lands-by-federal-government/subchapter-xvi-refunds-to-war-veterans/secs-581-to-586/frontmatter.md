@@ -1,5 +1,7 @@
 ### §§581 to 586. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 581, act Feb. 21, 1925, ch. 277, §1, 43 Stat. 956, defined "veteran".

@@ -1,5 +1,7 @@
 ### §§616 to 616f. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 616, Pub. L. 87–590, §1, Aug. 16, 1962, 76 Stat. 389; Pub. L. 111–11, title IX, §9115(a), Mar. 30, 2009, 123 Stat. 1320, authorized construction, operation, and maintenance of Fryingpan-Arkansas project, Colorado.

@@ -12,6 +12,8 @@ Section 270–9, acts July 8, 1916, ch. 228, §1, 39 Stat. 352; June 28, 1918, c
 
 Section 270–10, act July 8, 1916, ch. 228, §2, as added June 28, 1918, ch. 110, 40 Stat. 633; amended Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; July 11, 1956, ch. 571, §1, 70 Stat. 528, set forth requirements for entry on unsurveyed lands. Section was formerly classified to section 375 of Title 48.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

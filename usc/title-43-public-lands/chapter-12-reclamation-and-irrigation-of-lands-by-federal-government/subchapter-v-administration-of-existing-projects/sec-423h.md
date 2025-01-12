@@ -4,6 +4,8 @@ Where the death of a husband or wife causes lands in private ownership to become
 
 (Pub. L. 86–684, Sept. 2, 1960, 74 Stat. 732.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.

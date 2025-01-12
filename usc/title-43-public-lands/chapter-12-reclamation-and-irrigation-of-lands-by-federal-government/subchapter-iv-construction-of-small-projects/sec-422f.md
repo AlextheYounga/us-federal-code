@@ -4,6 +4,8 @@ Any proposal with respect to the construction of a project which has theretofore
 
 (Aug. 6, 1956, ch. 972, §6, 70 Stat. 1046.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in text, are defined in section 422b of this title.

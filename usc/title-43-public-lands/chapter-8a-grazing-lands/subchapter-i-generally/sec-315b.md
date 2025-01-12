@@ -4,11 +4,15 @@ The Secretary of the Interior is authorized to issue or cause to be issued permi
 
 (June 28, 1934, ch. 865, §3, 48 Stat. 1270; Aug. 6, 1947, ch. 507, §1, 61 Stat. 790; Pub. L. 94–579, title IV, §401(b)(3), Oct. 21, 1976, 90 Stat. 2773.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–579 substituted provisions authorizing fees to be fixed in accordance with governing law, for provisions authorizing fees to take into account public benefits to users of grazing districts over and above benefits accruing to users of forage resources and provisions requiring fees to consist of a grazing fee and a range-improvement fee.
 
 **1947**—Act Aug. 6, 1947, provided for method to be used by Secretary of the Interior in fixing amount of grazing fees and by assessing a separate grazing fee and a range-improvement fee.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Savings Provision ####
 

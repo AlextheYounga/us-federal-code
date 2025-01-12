@@ -16,6 +16,8 @@ Nothing in this subchapter shall be construed as authorizing or permitting lump 
 
 (Pub. L. 97–293, title II, §213, Oct. 12, 1982, 96 Stat. 1269.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in subsecs. (a) and (b), is defined in section 390aa of this title.

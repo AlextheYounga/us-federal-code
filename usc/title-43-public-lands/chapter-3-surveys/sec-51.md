@@ -1,5 +1,7 @@
 ### §51. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act Mar. 3, 1925, ch. 462, 43 Stat. 1144, which abolished office of surveyor general and transferred its functions to Field Surveying Service under Supervisor of Surveys, was superseded by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100. See note set out under section 1 of this title.

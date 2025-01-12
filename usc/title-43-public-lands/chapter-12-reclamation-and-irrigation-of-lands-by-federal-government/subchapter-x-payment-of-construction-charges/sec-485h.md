@@ -78,6 +78,8 @@ No less than sixty days before entering into or amending any repayment contract 
 
 (Aug. 4, 1939, ch. 418, §9, 53 Stat. 1193; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 85–611, §§1, 3, Aug. 8, 1958, 72 Stat. 542, 543; Pub. L. 87–613, §2, Aug. 28, 1962, 76 Stat. 407; Pub. L. 97–293, title II, §226, Oct. 12, 1982, 96 Stat. 1273; Pub. L. 113–24, §2, Aug. 9, 2013, 127 Stat. 498.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
@@ -99,6 +101,8 @@ Act of September 21, 1959, referred to in subsec. (d)(1), is Pub. L. 86–308, S
 **1958**—Subsec. (d)(3). Pub. L. 85–611, §1, permitted the general repayment obligation to be spread in annual installments as near to the period of not more than 40 years as is consistent with the adoption and operation of a variable payment formula which permits variance in the required annual payments.
 
 Subsec. (d)(5). Pub. L. 85–611, §3, struck out provisions which required repayment contracts to provide that each year the installment of the organization's repayment obligation scheduled for such year shall be the construction charges due and payable for such year, or that each year the installment for such year of the organization's repayment obligation shall be increased or decreased on the basis of the normal and percentages plan provided in former section 485c of this title for modification of existing obligations to pay construction charges, and the amount of the annual installment, as thus increased or decreased, shall be the construction charges due and payable for such year.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

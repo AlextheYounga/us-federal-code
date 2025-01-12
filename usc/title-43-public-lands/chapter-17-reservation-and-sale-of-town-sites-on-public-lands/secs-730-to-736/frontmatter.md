@@ -14,6 +14,8 @@ Section 735, act May 25, 1926, ch. 379, §3, 44 Stat. 630, related to a survey o
 
 Section 736, act May 25, 1926, ch. 379, §4, 44 Stat. 630, related to authority of Secretary to prescribe regulations for sections 733 to 735 of this title. Section was formerly classified to section 355d of Title 48.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

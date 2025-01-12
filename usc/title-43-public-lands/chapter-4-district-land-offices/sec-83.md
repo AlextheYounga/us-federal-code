@@ -4,9 +4,13 @@ Transcripts of the records in the district land offices, when made and duly cert
 
 (Mar. 22, 1904, ch. 748, 33 Stat. 144; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The words "and receivers" which followed "registers" in the original text were omitted as superseded by acts Oct. 28, 1921, and Mar. 3, 1925, providing for consolidation of the two offices. See, also, Transfer of Functions note below.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

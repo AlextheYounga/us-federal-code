@@ -1,5 +1,7 @@
 ### §8. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act June 29, 1948, ch. 754, 62 Stat. 1114, provided for one clerk in the Bureau of Land Management to sign land patents, was from the Department of the Interior Appropriation Act, 1949, and was not repeated in subsequent appropriation acts.

@@ -4,6 +4,8 @@ The Secretary of the Interior is further authorized, in his discretion, where va
 
 (June 28, 1934, ch. 865, §15, 48 Stat. 1275; June 26, 1936, ch. 842, title I, §5, 49 Stat. 1978; May 28, 1954, ch. 243, §1, 68 Stat. 151.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1954**—Act May 28, 1954, inserted proviso authorizing Secretary to grant a preference right to users of withdrawn public lands for grazing purposes when lands are restored from withdrawal.

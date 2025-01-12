@@ -4,9 +4,13 @@ All patents for public lands shall be issued and signed by the Secretary of the 
 
 (June 17, 1948, ch. 496, §1, 62 Stat. 476.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 15, R.S. §458; 1940 Reorg. Plan No. III, §4 eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to issuance of patents, prior to repeal by section 2(c) of act June 17, 1948.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

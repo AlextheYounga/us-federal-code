@@ -4,6 +4,8 @@ In connection with any repayment contract or other form of obligation, existing 
 
 (Aug. 4, 1939, ch. 418, §3, 53 Stat. 1188.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Extension of Date of Modification of Repayment Contracts ####
 
 Act Mar. 6, 1952, ch. 94, 66 Stat. 16, as amended by acts Aug. 31, 1954, ch. 1168, 68 Stat. 1044; Pub. L. 85–156, Aug. 21, 1957, 71 Stat. 390; Pub. L. 85–611, §3, Aug. 8, 1958, 72 Stat. 543; Pub. L. 86–308, §2, Sept. 21, 1959, 73 Stat. 585, provided that the authority vested in the Secretary of the Interior by sections 485b and 485f of this title should be extended through Dec. 31, 1960.

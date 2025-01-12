@@ -8,6 +8,8 @@ Section 163, R.S. §2295; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 
 
 Section 164, R.S. §2291; June 6, 1912, ch. 153, 37 Stat. 123, related to issuance, etc., of certificate or patent for entered lands.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.

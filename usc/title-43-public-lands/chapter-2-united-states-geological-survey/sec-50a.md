@@ -6,6 +6,8 @@ There are authorized to be transferred to the fund, at fair and reasonable value
 
 (Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1924; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2507.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Provisions relating to the special fund authorized by Public Law 99–190, referred to in text, were formerly classified to this section. See Prior Provisions note below.
@@ -17,6 +19,8 @@ A prior section 50a, Pub. L. 99–190, §101(d) [title I], Dec. 19, 1985, 99 Sta
 #### Amendments ####
 
 **1994**—Pub. L. 103–332 in first par., in second sentence after "work," inserted "facilities,", in third sentence after "include" inserted "laboratory modernization and equipment replacement,", after "operations" inserted ", maintenance,", and after "replacement of computer," inserted "publications, scientific instrumentation," and in second par., in second proviso after "depreciation of equipment" inserted "and facilities,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

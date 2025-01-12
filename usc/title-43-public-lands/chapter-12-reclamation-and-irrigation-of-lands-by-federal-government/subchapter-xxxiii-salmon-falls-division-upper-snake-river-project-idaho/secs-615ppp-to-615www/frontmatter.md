@@ -1,5 +1,7 @@
 ### §§615ppp to 615www. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615ppp, Pub. L. 92–514, title III, §301, Oct. 20, 1972, 86 Stat. 967, authorized construction, operation, and maintenance of Salmon Falls division, Upper Snake River project, Idaho.

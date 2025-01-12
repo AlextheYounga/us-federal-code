@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized, in his judgment and discretion, to 
 
 (Feb. 28, 1929, ch. 374, §1, 45 Stat. 1406; Apr. 22, 1940, ch. 125, 54 Stat. 148; Dec. 23, 1944, ch. 708, 58 Stat. 915; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 652.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–554 struck out provisions which authorized employment of retired personnel of the Department of the Interior as consultants.
@@ -11,6 +13,8 @@ The Secretary of the Interior is authorized, in his judgment and discretion, to 
 **1944**—Act Dec. 23, 1944, inserted third proviso.
 
 **1940**—Act Apr. 22, 1940, provided for employment of appraisers and increased the number to be employed from five to ten.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

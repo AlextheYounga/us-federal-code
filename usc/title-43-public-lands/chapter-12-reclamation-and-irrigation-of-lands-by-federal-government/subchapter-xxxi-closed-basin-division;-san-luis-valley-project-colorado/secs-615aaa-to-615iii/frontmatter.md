@@ -1,5 +1,7 @@
 ### §§615aaa to 615iii. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615aaa, Pub. L. 92–514, title I, §101, Oct. 20, 1972, 86 Stat. 964; Pub. L. 96–375, §6(a), Oct. 3, 1975, 94 Stat. 1507; Pub. L. 98–570, §1(1), (2), Oct. 30, 1984, 98 Stat. 2941; Pub. L. 100–516, §22(1), (2), Oct. 24, 1988, 102 Stat. 2575, authorized construction, operation, and maintenance of the Closed Basin division, San Luis Valley project, Colorado, established Russell Lakes Waterfowl Management Area, and provided a water supply for Blanca Wildlife Habitat Area and Alamosa National Wildlife Refuge.

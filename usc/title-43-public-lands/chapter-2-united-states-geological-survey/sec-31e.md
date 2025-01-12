@@ -44,6 +44,8 @@ The 5-year plan shall identify—
 
 (Pub. L. 102–285, §6, as added Pub. L. 106–148, §6, Dec. 9, 1999, 113 Stat. 1722.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 31e, Pub. L. 102–285, §6, May 18, 1992, 106 Stat. 170; Pub. L. 105–36, §3(d), Aug. 5, 1997, 111 Stat. 1110, provided for the preparation of a geologic mapping program implementation plan, prior to repeal by Pub. L. 106–148, §6, Dec. 9, 1999, 113 Stat. 1722.

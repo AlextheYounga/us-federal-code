@@ -6,6 +6,8 @@ If contracts in accordance with the requirements of this section shall not have 
 
 (July 19, 1940, ch. 643, §10, 54 Stat. 778; Apr. 30, 1947, ch. 46, 61 Stat. 56.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Hoover Power Plant" substituted in text for "Boulder Power Plant" on authority of act Apr. 30, 1947, which changed name of Boulder Dam to Hoover Dam.

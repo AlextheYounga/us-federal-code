@@ -4,9 +4,13 @@ No water shall be delivered upon the completion of any new project or new divisi
 
 (May 25, 1926, ch. 383, §46, 44 Stat. 649; July 11, 1956, ch. 563, §1, 70 Stat. 524.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1956**—Act July 11, 1956, authorized delivery of water for not more than five years to excess lands acquired by foreclosure or other process of law, by conveyance in satisfaction of mortgages, by inheritance, or by devise.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Imperial Irrigation District of California; Nonapplicability of Federal Reclamation Laws ####
 

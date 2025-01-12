@@ -106,7 +106,9 @@ There is authorized to be appropriated to carry out this section $55,000,000 for
 
 Amounts made available under this subsection shall supplement, and not supplant, Federal funds made available for other United States Geological Survey hazards activities and programs.
 
-(Pub. L. 116–9, title V, §5001, Mar. 12, 2019, 133 Stat. 766.
+(Pub. L. 116–9, title V, §5001, Mar. 12, 2019, 133 Stat. 766.)
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definition of "Secretary" ####
 

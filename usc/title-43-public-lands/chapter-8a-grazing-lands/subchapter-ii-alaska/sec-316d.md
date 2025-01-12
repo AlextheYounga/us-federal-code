@@ -4,6 +4,8 @@ Before establishing or altering a district the Secretary shall publish once a we
 
 (Mar. 4, 1927, ch. 513, §5, 44 Stat. 1453; Pub. L. 90–403, §1, July 18, 1968, 82 Stat. 358.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 471d of Title 48, Territories and Insular Possessions.

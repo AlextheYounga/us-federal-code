@@ -30,6 +30,8 @@ Section 283, acts Sept. 27, 1944, ch. 421, §6, formerly §5, 58 Stat. 748, renu
 
 Section 284, act Sept. 27, 1944, ch. 421, §5, as added June 3, 1948, ch. 399, 62 Stat. 305, defined "homestead" for purposes of preference right of entry of World War II or Korean conflict veteran.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.

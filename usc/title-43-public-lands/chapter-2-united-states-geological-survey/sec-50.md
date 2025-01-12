@@ -4,6 +4,8 @@ The share of the United States Geological Survey in any topographic mapping or w
 
 (Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2695.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section text is based on act July 31, 1953, ch. 298, title I, §1, 67 Stat. 269, as continued and modified for the fiscal year covered by the appropriation act cited as the credit to this section.

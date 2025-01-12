@@ -16,6 +16,8 @@ The following terms wherever used in this subchapter shall have the following re
 
 (July 19, 1940, ch. 643, §12, 54 Stat. 778; Pub. L. 98–381, title I, §104(a)(6), Aug. 18, 1984, 98 Stat. 1335.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of this chapter. For complete classification of this Act to the Code, see section 617t of this title and Tables.

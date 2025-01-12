@@ -1,5 +1,7 @@
 ### §§613 to 613e. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 613, act July 30, 1947, ch. 382, §1, 61 Stat. 628, related to reduction in area of Gila project.
@@ -14,6 +16,8 @@ Section 613d, act July 30, 1947, ch. 382, §5, 61 Stat. 629, related to repaymen
 
 Section 613e, act July 30, 1947, ch. 382, §7, 61 Stat. 630, related to powers of Secretary of the Interior and his duly authorized representatives.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Reclamation Law; Amendment of Other Laws ####
 
-Section 8 of act July 30, 1947, ch. 382, 61 Stat. 630, provided that this subchapter be deemed a supplement to the reclamation law and that nothing in this subchapter be construed to amend subchapter I of chapter 12A of this title.
+Act July 30, 1947, ch. 382, §8, 61 Stat. 630, provided that this subchapter be deemed a supplement to the reclamation law and that nothing in this subchapter be construed to amend subchapter I of chapter 12A of this title.

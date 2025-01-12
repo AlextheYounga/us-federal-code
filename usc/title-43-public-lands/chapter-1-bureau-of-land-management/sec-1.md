@@ -2,6 +2,8 @@
 
 Section, R.S. §446; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, provided that there shall be in the Department of the Interior a Director of the Bureau of Land Management. Provision for a Bureau of Land Management in the Department of the Interior and for the structure of such Bureau is contained in section 403 of the 1946 Reorg. Plan No. 3, which is set out below.
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.

@@ -4,6 +4,8 @@ Except as otherwise provided in this chapter, in constructing, operating, and ma
 
 (Apr. 11, 1956, ch. 203, §4, 70 Stat. 107.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.

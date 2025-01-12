@@ -10,6 +10,8 @@ Section 714, R.S. §2383, authorized extension of limits of towns established on
 
 Section 715, R.S. §2384; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, authorized Secretary of the Interior to survey and plat cities or towns on the public domain where interested parties fail to file transcript maps in twelve months after establishment.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

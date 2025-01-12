@@ -20,6 +20,8 @@ Upon approval of any project proposal by the Secretary under the provisions of s
 
 (Aug. 6, 1956, ch. 972, §5, 70 Stat. 1046; Pub. L. 85–47, §1(c), June 5, 1957, 71 Stat. 49; Pub. L. 89–553, §1(4), Sept. 2, 1966, 80 Stat. 376; Pub. L. 92–167, §1(3)–(6), Nov. 24, 1971, 85 Stat. 488; Pub. L. 94–181, §1(f), Dec. 27, 1975, 89 Stat. 1050; Pub. L. 96–336, §8(b), Sept. 4, 1980, 94 Stat. 1065; Pub. L. 97–293, title II, §223, Oct. 12, 1982, 96 Stat. 1272; Pub. L. 99–546, title III, §§306, 307, Oct. 27, 1986, 100 Stat. 3054.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Subsec. (b). Pub. L. 99–546, §306, struck out "and" before "(5)" and substituted "and flood control, which are nonreimbursable under general provisions of law applicable to such projects; and (6) that portion of the estimated cost of constructing the project which is allocable to flood control and which would be nonreimbursable under general provisions of law applicable to projects constructed by the Secretary of the Army." for ", which are nonreimbursable under general provisions of law applicable to such projects: *Provided*, That the cost of constructing the project as used in this subsection shall be exclusive of the cost of lands and interests in land;".
@@ -47,6 +49,8 @@ Subsec. (c)(3). Pub. L. 92–167, §1(6), required reimbursable fish and wildlif
 **1966**—Pub. L. 89–553 substituted the lesser of $6,500,000 or the estimated total cost of the project minus the contribution of the local organization as provided in section 422d(b) of this title and the amount of the grant for the portion of the estimated cost of constructing the project which, if it were being constructed as a Federal reclamation project, would be properly allocable to reimbursable functions under general provisions of law applicable to such projects as the maximum amount of the loan, struck out the time and method of paying a grant to an organization from the list of contract terms, added factors involving fish and wildlife enhancement and public recreation to the factors adding up to the figure comprising the maximum allowable grant, and altered the requirements of the interest term by substituting the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations which are neither due nor callable for redemption for fifteen years from date of issue for the estimate of the average annual yield to maturity, on the basis of daily closing market bid quotations or prices during the month of May preceding the fiscal year in which the loan is made, on all outstanding marketable obligations of the United States having a maturity date of fifteen or more years from May 1 of the year.
 
 **1957**—Pub. L. 85–47 substituted "Upon approval of any project proposal by the Secretary under the provisions of section 422d of this title, he may negotiate a contract which" for "Any contract authorized to be negotiated under the provisions of subsection (c) of section 422d of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

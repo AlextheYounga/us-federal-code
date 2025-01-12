@@ -4,6 +4,8 @@ Except as otherwise provided in section 1318 of title 44, the publications of th
 
 (Mar. 3, 1879, ch. 182, 20 Stat. 394; Aug. 7, 1946, ch. 770, §1(10), 60 Stat. 867; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 1318 of title 44" substituted in text for "section 260 of title 44" on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents.
@@ -14,9 +16,13 @@ The words "Except as otherwise provided in section 260 of title 44" were origina
 
 **1946**—Act Aug. 7, 1946, repealed all provisions requiring preparation, and transmission by Secretary of the Interior, of an annual report of operations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

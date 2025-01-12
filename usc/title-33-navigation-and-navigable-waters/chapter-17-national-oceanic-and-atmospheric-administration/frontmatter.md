@@ -36,9 +36,7 @@ Sec.
 
 857–19. Biennial report.
 
-857–20. Coordination.
-
-857a to 872. Repealed or Omitted.
+857–20 to 872. Repealed or Omitted.
 
 873. Extra compensation for instrument observers, recorders and other Federal employees for oceanographic, seismographic and magnetic observations.
 

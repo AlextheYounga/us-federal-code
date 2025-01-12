@@ -28,6 +28,8 @@ The advisory committee shall—
 
 (Pub. L. 102–285, §5, May 18, 1992, 106 Stat. 169; Pub. L. 105–36, §3(c), Aug. 5, 1997, 111 Stat. 1110; Pub. L. 106–148, §5, Dec. 9, 1999, 113 Stat. 1722; Pub. L. 111–11, title XI, §11001(f), Mar. 30, 2009, 123 Stat. 1415; Pub. L. 116–9, title V, §5002(b), Mar. 12, 2019, 133 Stat. 768.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (a)(3). Pub. L. 116–9 substituted "Associate Director for Core Science Systems" for "Associate Director for Geology".
@@ -49,6 +51,8 @@ Subsec. (b)(3). Pub. L. 106–148, §5(2)(B), substituted "sections 31c through 
 **1997**—Subsec. (a). Pub. L. 105–36, §3(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "There shall be established a sixteen member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program. The President shall appoint one representative each from the Environmental Protection Agency, the Department of Energy, the Department of Agriculture, and the Office of Science and Technology Policy. Within 90 days and with the advice and consultation of the State Geological Surveys, the Secretary shall appoint to the advisory committee 2 representatives from the Survey (including the Chief Geologist, as Chairman), 4 representatives from the State geological surveys, 3 representatives from academia, and 3 representatives from the private sector."
 
 Subsec. (b)(3). Pub. L. 105–36, §3(c)(2), substituted "Federal, State, and university mapping activities" for "Federal and State mapping activities".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Committees ####
 

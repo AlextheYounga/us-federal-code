@@ -10,6 +10,8 @@ Section 270–16, acts Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, 
 
 Section 270–17, act Apr. 13, 1926, ch. 121, §3, 44 Stat. 244, related to disposition of deposit of estimated cost of work incident to survey, and promulgation of rules and regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.

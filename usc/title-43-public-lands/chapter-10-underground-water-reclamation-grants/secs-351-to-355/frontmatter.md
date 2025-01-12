@@ -10,6 +10,8 @@ Section 354, act Oct. 22, 1919, ch. 77, §4, 41 Stat. 294, related to conditions
 
 Section 355, act Oct. 22, 1919, ch. 77, §5, 41 Stat. 294, related to issuance of a patent to land on the development of a water supply.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 88–417, §1, Aug. 11, 1964, 78 Stat. 389, provided: "That, subject to any valid rights and obligations existing on the date of approval of this Act [Aug. 11, 1964], the Act of October 22, 1919 (41 Stat. 293; 43 U.S.C. 351–355, 357–360), is hereby repealed."

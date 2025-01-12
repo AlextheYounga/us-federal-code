@@ -4,6 +4,8 @@ Any contracting entity subject to the ownership or pricing limitations of Federa
 
 (Pub. L. 97–293, title II, §228, Oct. 12, 1982, 96 Stat. 1274.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.

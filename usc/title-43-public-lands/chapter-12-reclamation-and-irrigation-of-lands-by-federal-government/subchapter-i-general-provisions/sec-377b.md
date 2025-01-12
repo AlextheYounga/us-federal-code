@@ -10,6 +10,8 @@ None of the funds made available by this or any other Act or by any subsequent A
 
 (Pub. L. 102–377, title II, Oct. 2, 1992, 106 Stat. 1330, 1331; Pub. L. 108–137, title II, §206, Dec. 1, 2003, 117 Stat. 1849; Pub. L. 113–287, §5(l)(1), Dec. 19, 2014, 128 Stat. 3270.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Interior Department Appropriations Act 1945, referred to in text, is act June 28, 1944, ch. 298, 58 Stat. 463, which is not classified to the Code. The heading "Operation and maintenance administration" appears at 58 Stat. 487 following the heading "Bureau of Reclamation" which appears at 58 Stat. 486.
@@ -29,6 +31,8 @@ Section is comprised of the second, third, fourth, and sixth undesignated pars. 
 **2014**—Pub. L. 113–287, which directed that the second paragraph under the heading "administrative provisions" under the heading "Bureau of Reclamation" (43 U.S.C. 377b), be amended by substituting "chapters 3125 and 3201 of title 54" for "the Acts of August 21, 1935 (16 U.S.C. 461–467) and June 27 1960 (16 U.S.C. 469)" without specifying a public law, was executed by making the substitution for "the Acts of August 21, 1935 (16 U.S.C. 461–467) and June 27, 1960 (16 U.S.C. 469)" in the first paragraph of this section, which is the second undesignated par. under the headings "Bureau of Reclamation" and "administrative provisions" in title II of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1330, to reflect the probable intent of Congress. See Codification note above.
 
 **2003**—Pub. L. 108–137 inserted in first par. ", not to exceed $5,000,000 for each causal event giving rise to a claim or claims" after "activities of the Bureau of Reclamation".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Operations and Maintenance Costs of Certain Bureau of Reclamation Dikes ####
 

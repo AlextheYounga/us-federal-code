@@ -4,6 +4,8 @@ The purpose of this subchapter is to encourage State and local participation in 
 
 (Aug. 6, 1956, ch. 972, §1, 70 Stat. 1044; Pub. L. 99–546, title III, §302, Oct. 27, 1986, 100 Stat. 3053.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in text, are defined in section 422b of this title.
@@ -11,6 +13,8 @@ The Federal reclamation laws, referred to in text, are defined in section 422b o
 #### Amendments ####
 
 **1986**—Pub. L. 99–546 inserted ", with emphasis on rehabilitation and betterment of existing projects for purposes of significant conservation of water, energy and the environment and for purpose of water quality control," after "laws".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

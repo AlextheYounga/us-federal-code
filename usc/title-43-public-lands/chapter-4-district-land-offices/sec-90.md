@@ -1,5 +1,7 @@
 ### §90. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act July 1, 1946, ch. 529, 60 Stat. 352, which required authorization of Commissioner of the General Land Office for expenses chargeable to the Government incurred by registers, was omitted pursuant to Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, set out as a note under section 1 of this title, which abolished the offices of registers and Commissioner of the General Land Office. Section was not repeated in the Interior Department Appropriation Act, 1948, act July 25, 1947, ch. 337, 61 Stat. 460. Similar provisions were contained in the following prior appropriation acts:

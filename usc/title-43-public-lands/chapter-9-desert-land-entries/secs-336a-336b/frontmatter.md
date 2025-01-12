@@ -4,6 +4,8 @@ Section 336a, act July 30, 1956, ch. 778, §1, 70 Stat. 715, related to absence 
 
 Section 336b, act July 30, 1956, ch. 778, §2, 70 Stat. 716, related to homestead or desert land applications on file as of Mar. 1, 1956, and entries and rights of United States.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.

@@ -6,6 +6,8 @@ The Secretary may provide such deferments of construction charges as in his judg
 
 (Aug. 4, 1939, ch. 418, §5, 53 Stat. 1191.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Extension of Secretary's Authority To Enter Into Amendatory Contracts ####
 
 Secretary's authority extended through Dec. 31, 1960, see section 485b–1 of this title.

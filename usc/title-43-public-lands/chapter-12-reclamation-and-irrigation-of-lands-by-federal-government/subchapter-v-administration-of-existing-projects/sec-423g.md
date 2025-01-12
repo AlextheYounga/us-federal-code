@@ -4,6 +4,8 @@ The adjustments under sections 1 to 40, inclusive, of the Act of Congress of May
 
 (May 25, 1926, ch. 383, §50, 44 Stat. 650.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 1 to 40 of the Act of May 25, 1926, referred to in text, are not classified to the Code.

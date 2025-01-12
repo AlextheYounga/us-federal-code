@@ -158,6 +158,8 @@ The Federal share of the cost of activities under the education component for an
 
 (Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720; Pub. L. 111–11, title XI, §11001(c)–(e), Mar. 30, 2009, 123 Stat. 1414, 1415; Pub. L. 116–9, title V, §5002(a)(2), Mar. 12, 2019, 133 Stat. 768.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (b)(1)(A), (B). Pub. L. 116–9 substituted "March 12, 2019" for "March 30, 2009".
@@ -231,6 +233,8 @@ Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out fo
 Investigations conducted under the geologic mapping education component shall be integrated with the other mapping components of the geologic mapping program, and shall respond to priorities identified for those components."
 
 **1994**—Subsec. (b)(1)(A), (C). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

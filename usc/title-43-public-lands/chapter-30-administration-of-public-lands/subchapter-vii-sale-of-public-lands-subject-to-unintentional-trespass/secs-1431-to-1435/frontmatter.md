@@ -1,5 +1,7 @@
 ### §§1431 to 1435. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1431 to 1435, relating to the sale of public lands subject to unintentional trespass, were omitted pursuant to section 1435 of this title, which provided for an expiration date three years after September 26, 1968, with certain exceptions.

@@ -8,6 +8,8 @@ Section 72, R.S. §2334; acts Jan. 27, 1898, ch. 10, 30 Stat. 234; Oct. 28, 1921
 
 Section 73, act Oct. 28, 1921, ch. 114, §2, 42 Stat. 208, related to designation of chief clerk to act in case of death, resignation, removal, or disability of register.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to section 71 of this title were contained in the following prior appropriation acts:

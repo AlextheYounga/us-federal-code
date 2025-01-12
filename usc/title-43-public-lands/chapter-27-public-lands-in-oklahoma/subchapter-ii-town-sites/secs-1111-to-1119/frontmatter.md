@@ -18,6 +18,8 @@ Section 1118, act Sept. 1, 1893, No. 4, 28 Stat. 11, extended town-site laws to 
 
 Section 1119, act May 11, 1896, ch. 168, §§1, 2, 29 Stat. 117; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to homestead entries on vacated town-sites.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

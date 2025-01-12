@@ -8,6 +8,8 @@ Section 687a–2, acts May 14, 1898, ch. 299, §10, 30 Stat. 413; Aug. 3, 1955, 
 
 Section 687a–3, act May 14, 1898, ch. 299, §10, 30 Stat. 413, related to multiple claimants of the same tract.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.

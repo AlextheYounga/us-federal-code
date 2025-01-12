@@ -1,5 +1,7 @@
 ### §§615kkkk to 615kkkk–6. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615kkkk, Pub. L. 94–228, title I, §101, Mar. 11, 1976, 90 Stat. 205, authorized construction, operation, and maintenance of Polecat Bench area, Shoshone extensions unit, Pick-Sloan Missouri Basin program, Wyoming, and described principal features of this area.

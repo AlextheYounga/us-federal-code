@@ -14,6 +14,8 @@ Of any amounts appropriated for any fiscal year in excess of the amount appropri
 
 (Pub. L. 102–285, §9, as added Pub. L. 106–148, §9, Dec. 9, 1999, 113 Stat. 1724; amended Pub. L. 111–11, title XI, §11001(i), Mar. 30, 2009, 123 Stat. 1416; Pub. L. 116–9, title V, §5002(a)(1), Mar. 12, 2019, 133 Stat. 768.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 31a to 31h of this title, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.

@@ -4,6 +4,8 @@ Neither the ownership limitations of this subchapter nor the ownership limitatio
 
 (Pub. L. 97–293, title II, §217, Oct. 12, 1982, 96 Stat. 1270.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in text, is defined in section 390aa of this title.

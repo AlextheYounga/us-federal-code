@@ -4,6 +4,8 @@ For the purpose of avoiding an unduly high operation and maintenance assessment 
 
 (Apr. 22, 1940, ch. 132, 54 Stat. 155.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subchapter X (§485 et seq.) of this chapter, referred to in text, was in the original a reference to act of Aug. 4, 1939 (53 Stat. 1187), which is known as the Reclamation Project Act of 1939, and which enacted subchapter X of this chapter, sections 375a, 380a, and 387 to 389 of this title, and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under section 485j of this title. For complete classification of this Act to the Code, see section 485k of this title and Tables.

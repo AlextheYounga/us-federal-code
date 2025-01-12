@@ -8,6 +8,8 @@ Section 675, act May 18, 1898, ch. 344, §2, 30 Stat. 418, set forth requirement
 
 Section 676, R.S. §2365; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, authorized sale of public land to highest bidder at the private sale of land.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

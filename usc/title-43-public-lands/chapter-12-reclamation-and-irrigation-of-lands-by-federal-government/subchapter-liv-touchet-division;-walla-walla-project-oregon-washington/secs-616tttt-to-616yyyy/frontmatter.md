@@ -1,5 +1,7 @@
 ### §§616tttt to 616yyyy. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 616tttt, Pub. L. 91–307, §1, July 7, 1970, 84 Stat. 409, authorized construction, operation, and maintenance of Touchet Division, Walla Walla project, Oregon-Washington.

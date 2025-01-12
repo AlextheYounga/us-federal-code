@@ -4,9 +4,13 @@ The scientific employees of the United States Geological Survey shall be selecte
 
 (July 7, 1884, ch. 332, 23 Stat. 212; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

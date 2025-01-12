@@ -6,6 +6,8 @@ Section 1382, Pub. L. 86–649, title III, §302, July 14, 1960, 74 Stat. 507, r
 
 Section 1383, Pub. L. 86–649, title III, §303, July 14, 1960, 74 Stat. 508, related to Oregon and California Railroad and Coos Bay Wagon Road Grant lands.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792, provided that the repeal made by section 705(a) is effective on and after Oct. 21, 1976.

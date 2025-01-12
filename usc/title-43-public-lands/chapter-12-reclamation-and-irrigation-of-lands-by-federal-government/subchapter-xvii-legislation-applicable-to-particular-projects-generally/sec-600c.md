@@ -14,9 +14,13 @@ The repayment contract shall provide, among other things, (1) that the holder th
 
 (Dec. 29, 1950, ch. 1183, §2, 64 Stat. 1124.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Public Law 491, Eighty-first Congress, referred to in subsec. (b), is act Apr. 29, 1950, ch. 135, 64 Stat. 93, which is set out as a note below.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Consent of Congress to Compact ####
 

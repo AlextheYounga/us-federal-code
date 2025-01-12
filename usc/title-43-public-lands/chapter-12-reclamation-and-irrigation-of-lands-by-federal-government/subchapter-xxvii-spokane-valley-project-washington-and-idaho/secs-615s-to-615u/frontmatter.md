@@ -1,5 +1,7 @@
 ### §§615s to 615u. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615s, Pub. L. 86–276, §1, Sept. 16, 1959, 73 Stat. 561; Pub. L. 87–630, §1(a), Sept. 5, 1962, 76 Stat. 431, authorized construction, operation, and maintenance of Spokane Valley Project, Washington and Idaho.

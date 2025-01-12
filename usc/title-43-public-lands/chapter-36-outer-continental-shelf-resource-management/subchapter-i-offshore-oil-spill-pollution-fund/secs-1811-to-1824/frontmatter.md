@@ -28,6 +28,8 @@ Section 1823, Pub. L. 95–372, title III, §313, Sept. 18, 1978, 92 Stat. 685, 
 
 Section 1824, Pub. L. 95–372, title III, §314, Sept. 18, 1978, 92 Stat. 685, directed Secretary of Transportation to submit report annually to Congress on operation of this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.

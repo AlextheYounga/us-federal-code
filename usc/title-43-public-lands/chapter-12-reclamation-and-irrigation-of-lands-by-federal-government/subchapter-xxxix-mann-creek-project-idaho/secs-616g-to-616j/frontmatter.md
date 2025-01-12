@@ -1,5 +1,7 @@
 ### §§616g to 616j. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 616g, Pub. L. 87–589, §1, Aug. 16, 1962, 76 Stat. 388, authorized construction, operation, and maintenance of Mann Creek project, Idaho.

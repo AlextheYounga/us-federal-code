@@ -4,6 +4,8 @@ The benefits of section 451 of this title shall, and those of sections 451b to 4
 
 (Aug. 13, 1953, ch. 428, §2, 67 Stat. 566.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 161 of this title, referred to in text, was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787.

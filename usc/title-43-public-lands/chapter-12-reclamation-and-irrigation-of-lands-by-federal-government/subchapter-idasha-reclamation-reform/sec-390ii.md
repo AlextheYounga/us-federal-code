@@ -34,6 +34,8 @@ Excess lands which have been or may be disposed of in compliance with Federal re
 
 (Pub. L. 97–293, title II, §209, Oct. 12, 1982, 96 Stat. 1267.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in subsecs. (a), (b), (e), and (f), is defined in section 390aa of this title.

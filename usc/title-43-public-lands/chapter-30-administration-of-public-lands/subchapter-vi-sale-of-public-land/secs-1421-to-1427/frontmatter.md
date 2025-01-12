@@ -1,5 +1,7 @@
 ### §§1421 to 1427. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1421 to 1427 of this title, which related to the sale of public land, were omitted pursuant to section 1427 of this title, which terminated this authority.

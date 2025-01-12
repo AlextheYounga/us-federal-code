@@ -14,6 +14,8 @@ The Secretary from time to time shall report to the Congress on any proposed con
 
 (Aug. 4, 1939, ch. 418, §7, 53 Stat. 1192; Apr. 24, 1945, ch. 94, §2, 59 Stat. 76.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 485c of this title, referred to in subsec. (a), was repealed by Pub. L. 85–611, §3, Aug. 8, 1958, 72 Stat. 543.

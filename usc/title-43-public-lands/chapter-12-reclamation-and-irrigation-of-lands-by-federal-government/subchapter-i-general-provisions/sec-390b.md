@@ -52,6 +52,8 @@ Modifications of a reservoir project heretofore authorized, surveyed, planned, o
 
 (Pub. L. 85–500, title III, §301, July 3, 1958, 72 Stat. 319; Pub. L. 87–88, §10, July 20, 1961, 75 Stat. 210; Pub. L. 99–662, title IX, §932(a), Nov. 17, 1986, 100 Stat. 4196; Pub. L. 113–121, title I, §§1046(d), 1051(a), June 10, 2014, 128 Stat. 1254, 1259; Pub. L. 114–322, title I, §1187, Dec. 16, 2016, 130 Stat. 1681.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Reclamation Projects Act of 1939, referred to in subsec. (b), is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, which is classified principally to subchapter X (§485 et seq.) of this chapter. For complete classification of this Act to the Code, see section 485k of this title and Tables.
@@ -69,6 +71,8 @@ Subsec. (f). Pub. L. 113–121, §1051(a), added subsec. (f).
 **1986**—Subsec. (b). Pub. L. 99–662 inserted in third proviso "(1) for Corps of Engineers projects, not to exceed 30 percent of the total estimated cost of any project may be allocated to anticipated future demands, and, (2) for Bureau of Reclamation projects,", inserted in fourth proviso "for Corps of Engineers projects, the Secretary of the Army may permit the full non-Federal contribution to be made, without interest, during construction of the project, or, with interest, over a period of not more than thirty years from the date of completion, with repayment contracts providing for recalculation of the interest rate at, five-year intervals, and for Bureau of Reclamation projects,", inserted after first sentence "For Corps of Engineers projects, all annual operation, maintenance, and replacement costs for municipal and industrial water supply storage under the provisions of this section shall be reimbursed from State or local interests on an annual basis. For Corps of Engineers projects, any repayment by a State or local interest shall be made with interest at a rate to be determined by the Secretary of the Treasury, taking into consideration the average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period, during the month preceding the fiscal year in which costs for the construction of the project are first incurred (or, when a recalculation is made), plus a premium of one-eighth of one percentage point for transaction costs.", and substituted "For Bureau of Reclamation projects, the interest rate used" for "The interest rate used".
 
 **1961**—Subsec. (b). Pub. L. 87–88 substituted provisions permitting not more than 30 per centum of the total estimated cost of any project to be allocated to anticipated future demands where State or local interests give reasonable assurances, and there is reasonable evidence, that such demands for the use of such storage will be made within a period of time which will permit paying out the costs allocated to water supply within the life of the project for provisions which permitted not more than 30 per centum of the total estimated cost of any project to be allocated to anticipated future demands where States or local interests give reasonable assurance that they will contract for the use of storage for anticipated future demands within a period of time which will permit paying out the costs allocated to water supply within the life of the project.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1961 Amendment ####
 

@@ -10,6 +10,8 @@ Section 1172, act Feb. 4, 1919, ch. 13, 40 Stat. 1055, provided for applicabilit
 
 Section 1173, act May 10, 1920, ch. 178, 41 Stat. 595, provided for applicability of section 1171 of this title to sale of tracts in Fort Berthold Indian Reservation, North Dakota.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

@@ -1,5 +1,7 @@
 ### §§616ttt to 616yyy. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 616ttt, Pub. L. 90–453, §1, Aug. 3, 1968, 82 Stat. 624, authorized construction, operation, and maintenance of Oahe unit, James division, Missouri River Basin project, South Dakota.

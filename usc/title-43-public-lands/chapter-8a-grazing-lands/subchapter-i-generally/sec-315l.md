@@ -4,6 +4,8 @@ The President of the United States is authorized to reserve by proclamation and 
 
 (June 28, 1934, ch. 865, §13, 48 Stat. 1274.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 124 to 132 of title 5, referred to in text, was in the original "title 4 of the Act entitled 'An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes', approved March 3, 1933", meaning Title IV of Part II (§§401–409) of the Legislative Appropriation Act, fiscal year 1933, as amended generally by section 16 of act Mar. 3, 1933, ch. 212, 47 Stat. 1517, which was classified to sections 124 to 132 of former Title 5, Executive Departments and Government Officers and Employees. Sections 124 to 131 of former Title 5 were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees, and section 132 of former Title 5 was omitted as executed pursuant to its own terms.

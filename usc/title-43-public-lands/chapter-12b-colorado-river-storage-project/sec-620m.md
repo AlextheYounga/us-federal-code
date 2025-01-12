@@ -4,6 +4,8 @@ In the operation and maintenance of all facilities, authorized by Federal law an
 
 (Apr. 11, 1956, ch. 203, §14, 70 Stat. 110.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables.

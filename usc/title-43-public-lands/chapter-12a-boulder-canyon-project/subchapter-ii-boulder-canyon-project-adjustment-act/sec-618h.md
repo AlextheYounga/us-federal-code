@@ -4,9 +4,13 @@ The Secretary is authorized to negotiate for and enter into a contract for the t
 
 (July 19, 1940, ch. 643, §9, 54 Stat. 777; Apr. 30, 1947, ch. 46, 61 Stat. 56; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Project Act, referred to in text, is defined in section 618k of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

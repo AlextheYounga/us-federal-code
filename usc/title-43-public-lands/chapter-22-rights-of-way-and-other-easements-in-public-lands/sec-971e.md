@@ -4,6 +4,8 @@ For the purposes of sections 971a to 971e of this title, the words "restored lan
 
 (Aug. 1, 1956, ch. 848, §5, as added Pub. L. 86–512, June 11, 1960, 74 Stat. 207.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 420d of Title 48, Territories and Insular Possessions.

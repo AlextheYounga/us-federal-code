@@ -14,6 +14,8 @@ Section 687b–3, act Aug. 30, 1949, ch. 521, §4, 63 Stat. 679, related to inap
 
 Section 687b–4, act Aug. 30, 1949, ch. 521, §5, 63 Stat. 679, related to promulgation of rules and regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.

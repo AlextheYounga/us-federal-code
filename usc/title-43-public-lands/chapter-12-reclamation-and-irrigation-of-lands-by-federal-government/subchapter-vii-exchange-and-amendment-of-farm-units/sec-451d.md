@@ -4,6 +4,8 @@ Within ninety days after receipt of notice of the approval by the Secretary of t
 
 (Aug. 13, 1953, ch. 428, §5, 67 Stat. 567.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in text, are identified in section 451i of this title.

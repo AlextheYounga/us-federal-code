@@ -28,6 +28,8 @@ Section 223, acts May 14, 1880, ch. 89, §3, 21 Stat. 141; June 6, 1900, ch. 821
 
 Section 224, acts Apr. 28, 1904, ch. 1801, §§1–3, 33 Stat. 547, 548; Mar. 2, 1907, ch. 2527, §§1–3, 34 Stat. 1224; May 29, 1908, ch. 220, §7, 35 Stat. 466; Aug. 24, 1912, ch. 371, 37 Stat. 499, extended limitation on entries within certain boundaries in Nebraska.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.

@@ -1,5 +1,7 @@
 ### §§615aa to 615hh. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615aa, Pub. L. 86–529, §1, June 27, 1960, 74 Stat. 225, authorized construction, operation, and maintenance of Norman Project, Oklahoma and provided for contracts and advances.

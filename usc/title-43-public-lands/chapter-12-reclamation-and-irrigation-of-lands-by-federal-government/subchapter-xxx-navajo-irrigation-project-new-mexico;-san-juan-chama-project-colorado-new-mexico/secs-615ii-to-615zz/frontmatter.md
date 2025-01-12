@@ -1,5 +1,7 @@
 ### §§615ii to 615zz. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615ii, Pub. L. 87–483, §1, June 13, 1962, 76 Stat. 96, related to Congressional declaration of policy.

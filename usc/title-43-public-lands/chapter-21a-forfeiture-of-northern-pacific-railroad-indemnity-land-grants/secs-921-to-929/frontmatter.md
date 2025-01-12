@@ -1,5 +1,7 @@
 ### §§921 to 929. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 921, act June 25, 1929, ch. 41, §1, 46 Stat. 41, related to forfeiture of any and all lands within indemnity limits of land grants to the Northern Pacific Railroad.

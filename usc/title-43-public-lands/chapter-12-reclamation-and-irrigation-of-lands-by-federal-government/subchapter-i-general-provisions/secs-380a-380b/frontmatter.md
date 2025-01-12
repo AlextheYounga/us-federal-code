@@ -1,5 +1,7 @@
 ### §§380a, 380b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 380a, acts Aug. 4, 1939, ch. 418, §13, 53 Stat. 1197; Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111, authorized purchases by Bureau of Reclamation without compliance with section 16 of former Title 41, Public Contracts.

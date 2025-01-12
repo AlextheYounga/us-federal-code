@@ -14,6 +14,8 @@ Notwithstanding any other provision of this section to the contrary, obligations
 
 (Pub. L. 97–293, title II, §212, Oct. 12, 1982, 96 Stat. 1269.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal reclamation law, referred to in subsec. (a), is defined in section 390aa of this title.

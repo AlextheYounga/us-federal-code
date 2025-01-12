@@ -4,6 +4,8 @@ The payment of all construction charges against said areas temporarily unproduct
 
 (May 25, 1926, ch. 383, §43, 44 Stat. 647; Apr. 23, 1930, ch. 205, 46 Stat. 249.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 423 to 423g and 610 of this title, referred to in text, was in the original "this Act", meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. Section 610 of this title was omitted from the Code. For complete classification of this Act to the Code, see Tables.

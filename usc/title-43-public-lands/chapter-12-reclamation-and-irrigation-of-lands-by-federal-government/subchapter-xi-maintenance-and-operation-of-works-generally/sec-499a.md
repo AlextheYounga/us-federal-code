@@ -4,6 +4,8 @@ Whenever an irrigation district, municipality, or water users' organization assu
 
 (July 29, 1954, ch. 616, 68 Stat. 580; Aug. 2, 1956, ch. 884, 70 Stat. 940; Pub. L. 89–48, §1, June 24, 1965, 79 Stat. 172.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.

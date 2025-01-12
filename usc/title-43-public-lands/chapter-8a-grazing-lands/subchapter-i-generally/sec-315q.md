@@ -4,6 +4,8 @@ Whenever use for war or national defense purposes of the public domain or other 
 
 (July 9, 1942, ch. 500, 56 Stat. 654; May 28, 1948, ch. 353, §1, 62 Stat. 277.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as a part of act June 28, 1934, known as the Taylor Grazing Act, which comprises this subchapter.
@@ -11,6 +13,8 @@ Section was not enacted as a part of act June 28, 1934, known as the Taylor Graz
 #### Amendments ####
 
 **1948**—Act May 28, 1948, inserted "or national defense" between "war" and "purposes" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1948 Amendment ####
 

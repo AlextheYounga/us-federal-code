@@ -1,5 +1,7 @@
 ### §§616gggg to 616*llll*. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 616gggg, Pub. L. 90–562, §1, Oct. 12, 1968, 82 Stat. 999, authorized construction, operation, and maintenance of Palmetto Bend project, Texas.

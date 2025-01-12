@@ -4,6 +4,8 @@ Upon request of an organization which has made or intends to make a proposal und
 
 (Aug. 6, 1956, ch. 972, §7, 70 Stat. 1047.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in text, are defined in section 422b of this title.

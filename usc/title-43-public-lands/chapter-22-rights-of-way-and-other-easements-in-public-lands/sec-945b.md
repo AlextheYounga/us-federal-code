@@ -4,9 +4,13 @@ Jurisdiction of an action brought by the United States or the landowner for the 
 
 (Pub. L. 88–561, §2, as added Pub. L. 89–624, Oct. 4, 1966, 80 Stat. 874.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure for the condemnation of real and personal property, referred to in text, means rule 71A of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

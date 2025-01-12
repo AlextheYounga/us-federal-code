@@ -1,5 +1,7 @@
 ### §§614 to 614d. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 614, act Aug. 1, 1956, ch. 809, §1, 70 Stat. 775, related to authorization for construction, operation, and maintenance of Washoe project, which was revoked by Pub. L. 101–618, title II, §205(c), Nov. 16, 1990, 104 Stat. 3307.

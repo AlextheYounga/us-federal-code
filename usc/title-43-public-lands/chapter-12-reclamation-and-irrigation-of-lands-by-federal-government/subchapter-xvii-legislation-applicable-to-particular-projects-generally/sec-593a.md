@@ -6,6 +6,8 @@ The Secretary of the Interior is authorized to complete, as soon as the necessar
 
 (June 5, 1944, ch. 234, §§1, 2, 58 Stat. 270; Pub. L. 85–428, May 29, 1958, 72 Stat. 147.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
@@ -14,6 +16,8 @@ Act of June 17, 1902, referred to in text, is popularly known as the Reclamation
 
 **1958**—Pub. L. 85–428 provided that the Hungry Horse project shall be subject to the Federal reclamation laws.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Authorization of Appropriations ####
 
-Section 4 of act June 5, 1944, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and section 593b of this title.
+Act June 5, 1944, ch. 234, §4, 58 Stat. 271, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and section 593b of this title.

@@ -1,5 +1,7 @@
 ### §§615jjj to 615*ooo*. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615jjj, Pub. L. 92–514, title II, §201, Oct. 20, 1972, 86 Stat. 966, authorized construction, operation, and maintenance of Brantley project, Pecos River Basin, New Mexico.

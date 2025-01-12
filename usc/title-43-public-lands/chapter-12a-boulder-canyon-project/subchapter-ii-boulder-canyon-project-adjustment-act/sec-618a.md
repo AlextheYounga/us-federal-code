@@ -36,6 +36,8 @@ Transfer to the Lower Colorado River Basin Development Fund established by title
 
 (July 19, 1940, ch. 643, §2, 54 Stat. 774; Apr. 30, 1947, ch. 46, 61 Stat. 56; May 14, 1948, ch. 292, 62 Stat. 235; June 1, 1948, ch. 364, §1, 62 Stat. 284; Pub. L. 98–381, title I, §104(a)(4), Aug. 17, 1984, 98 Stat. 1334.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Project Act, referred to in text, is defined in section 618k of this title.
@@ -53,6 +55,8 @@ Subd. (e). Pub. L. 98–381, §104(a)(4)(ii), substituted provisions relating to
 **1948**—Subd. (d). Act June 1, 1948, inserted proviso to fourth sentence to provide for distribution of receipts for fiscal years 1949 to 1955, inclusive.
 
 Subd. (e). Act May 14, 1948, added subd. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -1,5 +1,7 @@
 ### §§615*llll* to 615*llll*–5. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 615*llll*, Pub. L. 94–228, title IV, §401, Mar. 11, 1976, 90 Stat. 208, authorized construction, operation, and maintenance of Pollock-Herreid Unit, Pick-Sloan Missouri Basin program, South Dakota, and described the principal features of this unit.

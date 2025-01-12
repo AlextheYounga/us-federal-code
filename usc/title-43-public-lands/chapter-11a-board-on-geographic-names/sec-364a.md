@@ -4,9 +4,13 @@ There is established a Board on Geographic Names, hereinafter called the Board. 
 
 (July 25, 1947, ch. 330, §2, 61 Stat. 456; Aug. 10, 1949, ch. 412, §4, 63 Stat. 579; Pub. L. 91–375, §§4(a), 6(o), Aug. 12, 1970, 84 Stat. 773, 783; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1949**—Act Aug. 10, 1949, established Department of Defense as an Executive Department and reduced Departments of the Army, Navy, and Air Force to status of military departments in Department of Defense.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

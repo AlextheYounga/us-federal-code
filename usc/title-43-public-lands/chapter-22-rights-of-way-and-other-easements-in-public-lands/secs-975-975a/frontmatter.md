@@ -4,6 +4,8 @@ Section 975, acts Mar. 12, 1914, ch. 37, §1, 38 Stat. 305; Apr. 10, 1926, ch. 1
 
 Section 975a, act Mar. 12, 1914, ch. 37, §1, 38 Stat. 307, related to telegraph and telephone lines in Alaska. Section was comprised of original second paragraph of section 1 of act Mar. 12, 1914. Section was formerly classified to section 302 of Title 48.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on date of transfer of Alaska Railroad to State [Jan. 5, 1985], pursuant to section 1203 of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.

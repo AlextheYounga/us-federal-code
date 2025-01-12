@@ -129,6 +129,8 @@ It is the purpose of this subchapter to ensure that the rights of contractors fo
 
 (Pub. L. 98–381, title I, §105, Aug. 17, 1984, 98 Stat. 1335; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 112–72, §2, Dec. 20, 2011, 125 Stat. 777.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (a)(2)(A), (5)(F), (f), and (g), was in the original "this Act", meaning Pub. L. 98–381, Aug. 17, 1984, 98 Stat. 1333, which enacted this subchapter and sections 7274 and 7275 of Title 42, and amended sections 617a, 617b, 618, 618a, 618e, 618k, and 1543 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 619 of this title and Tables.
@@ -184,6 +186,8 @@ Pub. L. 112–72, §2(k)(2), redesignated subsec. (i) as (g). Former subsec. (g)
 Subsecs. (h), (i). Pub. L. 112–72, §2(k)(2), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
 **1992**—Subsec. (h)(1). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

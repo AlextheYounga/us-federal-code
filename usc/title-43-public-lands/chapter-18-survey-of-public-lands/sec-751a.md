@@ -4,11 +4,15 @@ The system of public land surveys is extended to the Territory of Alaska.
 
 (Mar. 3, 1899, ch. 424, 30 Stat. 1098.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 351 of Title 48, Territories and Insular Possessions.
 
 Section is from the Sundry Civil Appropriation Act, 1900.
+
+#### **Executive Documents** ####
 
 #### Admission of Alaska as State ####
 

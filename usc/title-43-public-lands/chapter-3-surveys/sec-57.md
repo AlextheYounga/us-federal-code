@@ -4,11 +4,15 @@ Any copy of or extract from the plats, field notes, records, or other papers of 
 
 (R.S. §2224; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This section is from a part of R.S. §2224, as affected by act Mar. 3, 1925. The original text provided for the continuation of the use of the official seals authorized for the offices of the surveyors general of Oregon, California, and Louisiana. This provision was superseded by act Mar. 3, 1925 (classified to section 51 of this title), abolishing the office of surveyor-general. The rest of the section became inapplicable to Louisiana upon the discontinuance of the office of surveyor general of Louisiana pursuant to R.S. §2218. The text of this section was changed to provide for authentication by the supervisor of surveys, instead of a surveyor-general, in view of act Mar. 3, 1925 (classified to section 51 of this title) abolishing the office of surveyor general and transferring its activities to the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys. See, also, Transfer of Functions note below.
 
 R.S. §2224 derived from act Mar. 3, 1853, ch. 145, §§2, 11, 10 Stat. 245, 248.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

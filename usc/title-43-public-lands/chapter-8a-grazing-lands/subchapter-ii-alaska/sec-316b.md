@@ -6,6 +6,8 @@
 
 (Mar. 4, 1927, ch. 513, §3, 44 Stat. 1452.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (b), was in the original "this title" and has been translated as if the reference was to "this Act" to reflect the probable intent of Congress inasmuch as the act of Mar. 4, 1927, was not divided into titles.

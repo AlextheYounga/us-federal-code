@@ -36,6 +36,8 @@ Section 239, R.S. §2308, related to service in Army, Navy, etc., as equivalent 
 
 Section 240, acts June 16, 1898, ch. 458, 30 Stat. 473; Aug. 29, 1916, ch. 420, 39 Stat. 671, related to service in time of war as equivalent to residence and cultivation.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787, provided that the repeal made by section 702 is effective on and after Oct. 21, 1976, except such effective date to be on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976, insofar as homestead laws apply to public lands in Alaska.

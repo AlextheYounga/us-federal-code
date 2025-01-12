@@ -12,6 +12,8 @@ Section 1080, act Feb. 15, 1895, ch. 92, §1, 28 Stat. 664, extended applicabili
 
 Section 1081, act Aug. 23, 1894, ch. 314, §3, as added Apr. 23, 1904, ch. 1496, 33 Stat. 306, authorized patents for homesteads on Fort Abraham Lincoln Military Reservation, North Dakota.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789, provided that the repeal made by section 703(a) is effective on and after Oct. 21, 1976.

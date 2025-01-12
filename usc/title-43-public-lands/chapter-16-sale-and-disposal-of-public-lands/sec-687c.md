@@ -4,6 +4,8 @@ The Secretary of the Interior, in order to encourage and promote development of 
 
 (July 3, 1926, ch. 745, §1, 44 Stat. 821.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 646 of title 16, referred to in text, was repealed by act Feb. 26, 1944, ch. 65, §18, 58 Stat. 104. See sections 1161, 1162, and 1167 of Title 16, Conservation.
@@ -11,6 +13,8 @@ Section 646 of title 16, referred to in text, was repealed by act Feb. 26, 1944,
 #### Codification ####
 
 Section was formerly classified to section 360 of Title 48, Territories and Insular Possessions.
+
+#### **Executive Documents** ####
 
 #### Admission of Alaska as State ####
 

@@ -18,6 +18,8 @@ Each lease shall provide that the lessee may negotiate for renewal of such lease
 
 (Mar. 4, 1927, ch. 513, §7, 44 Stat. 1453; Pub. L. 90–403, §2, July 18, 1968, 82 Stat. 358.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 471f of Title 48, Territories and Insular Possessions.

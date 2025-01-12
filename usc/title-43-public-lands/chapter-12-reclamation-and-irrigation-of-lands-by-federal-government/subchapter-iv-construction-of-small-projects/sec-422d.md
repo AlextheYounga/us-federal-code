@@ -28,6 +28,8 @@ The Secretary shall give due consideration to financial feasibility, emergency, 
 
 (Aug. 6, 1956, ch. 972, §4, 70 Stat. 1044; Pub. L. 85–47, §1(a), (b), June 5, 1957, 71 Stat. 48; Pub. L. 89–553, §1(2), (3), Sept. 2, 1966, 80 Stat. 376; Pub. L. 92–167, §1(2), Nov. 24, 1971, 85 Stat. 488; Pub. L. 94–181, §1(c)–(e), Dec. 27, 1975, 89 Stat. 1049, 1050; Pub. L. 99–546, title III, §§304, 305, Oct. 27, 1986, 100 Stat. 3053, 3054; Pub. L. 103–437, §16(b), Nov. 2, 1994, 108 Stat. 4594.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in subsec. (a), are defined in section 422b of this title.
@@ -57,6 +59,8 @@ Subsec. (b). Pub. L. 89–553, §1(3), substituted "cost of the project" for "co
 **1957**—Subsec. (c). Pub. L. 85–47, §1(a), changed language generally, and struck out provisions which authorized Secretary to negotiate a contract as provided in section 422e of this title, with the provision that no such contract be executed by him prior to sixty days from date project proposal was submitted to both branches of Congress for committee consideration, and then only if neither committee disapproved proposal within the period, but that if both committees approved he could execute contract, and that if either committee disapproved, he could not proceed unless Congress approved.
 
 Subsecs. (d), (e). Pub. L. 85–47, §1(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

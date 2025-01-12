@@ -4,6 +4,8 @@ Whenever by the terms of the Project Act [43 U.S.C. 617 et seq.] or this subchap
 
 (July 19, 1940, ch. 643, §6, 54 Stat. 777; Pub. L. 98–381, title I, §104(a)(5), Aug. 17, 1984, 98 Stat. 1335.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Project Act, referred to in text, is defined in section 618k of this title.
