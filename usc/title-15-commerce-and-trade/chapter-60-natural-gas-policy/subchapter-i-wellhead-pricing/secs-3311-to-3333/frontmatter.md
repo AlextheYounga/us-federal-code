@@ -1,4 +1,6 @@
-### §§3311 to 3320, 3331 to 3333. Repealed. Pub. L. 101–60, §2(b), July 26, 1989, 103 Stat. 158 ###
+### §§3311 to 3333. Repealed. Pub. L. 101–60, §2(b), July 26, 1989, 103 Stat. 158 ###
+
+Sections 3311 to 3320 comprised part A of this subchapter.
 
 Section 3311, Pub. L. 95–621, title I, §101, Nov. 9, 1978, 92 Stat. 3356, related to inflation adjustments and other general price ceiling rules to be applied in establishing wellhead price controls.
 
@@ -19,6 +21,8 @@ Section 3318, Pub. L. 95–621, title I, §108, Nov. 9, 1978, 92 Stat. 3367, rel
 Section 3319, Pub. L. 95–621, title I, §109, Nov. 9, 1978, 92 Stat. 3368, related to ceiling price for other categories of natural gas.
 
 Section 3320, Pub. L. 95–621, title I, §110, Nov. 9, 1978, 92 Stat. 3368, related to treatment of State severance taxes and certain production-related costs.
+
+Sections 3331 to 3333 comprised part B of this subchapter.
 
 Section 3331, Pub. L. 95–621, title I, §121, Nov. 9, 1978, 92 Stat. 3369; Pub. L. 101–60, §2(a), July 26, 1989, 103 Stat. 157, provided for elimination of price controls for certain natural gas sales.
 

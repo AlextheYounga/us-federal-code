@@ -240,7 +240,7 @@ Sec.
 
 251. Transfer of functions.
 
-252. Establishment of Bureau of Border Security.
+252. U.S. Immigration and Customs Enforcement.
 
 253. Professional responsibility and quality review.
 
@@ -251,6 +251,8 @@ Sec.
 256. Sense of Congress regarding construction of fencing near San Diego, California.
 
 257. Report.
+
+258. Homeland Security Investigations Victims Assistance Program.
 
 #### Part E—Citizenship and Immigration Services ####
 

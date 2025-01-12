@@ -36,6 +36,8 @@ Sec.
 
 529. Annual executive agency reports on excess personal property.
 
+530. Internal guidance on excess personal property.
+
 #### SUBCHAPTER III—DISPOSING OF PROPERTY ####
 
 541. Supervision and direction.
@@ -150,10 +152,22 @@ Sec.
 
 624. Information on certain leasing authorities.
 
+#### Amendment of Analysis ####
+
+Pub. L. 118–99, §2(e)(3), Oct. 1, 2024, 138 Stat. 1579, provided that, effective on the date that is 5 years after Oct. 1, 2024, this analysis is amended by striking item 530. See 2024 Amendment note below.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
+**2024**—Pub. L. 118–99, §2(c), (e)(3), Oct. 1, 2024, 138 Stat. 1579, added item 530 and, effective 5 years after Oct. 1, 2024, struck out such item 530 "Internal guidance on excess personal property".
+
 **2022**—Pub. L. 117–328, div. Z, §103(b), Dec. 29, 2022, 136 Stat. 5527, added item 549a.
 
 **2016**—Pub. L. 114–318, §3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2024Amendment ####
+
+Pub. L. 118–99, §2(e), Oct. 1, 2024, 138 Stat. 1579, provided that the amendment made by section 2(e)(3) is effective on the date that is 5 years after Oct. 1, 2024.
