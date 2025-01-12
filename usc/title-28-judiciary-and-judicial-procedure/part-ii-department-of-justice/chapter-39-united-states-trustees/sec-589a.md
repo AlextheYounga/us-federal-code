@@ -44,15 +44,15 @@
 
 (10) fines imposed under section 110(l) of title 11, United States Code.
 
-(c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+(c) Amounts in the Fund which are not currently needed for the purposes specified in subsections (a) and (f) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 (d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
-(f)(1) During each of fiscal years 2021 through 2026 and notwithstanding subsections (b) and (c), the fees collected under section 1930(a)(6), less the amount specified in paragraph (2), shall be deposited as follows, in the following order:
+(f)(1) During each of fiscal years 2021 through 2026 and notwithstanding subsection (b)(5), the fees collected under section 1930(a)(6), less the amount specified in paragraph (2), shall be deposited as follows, in the following order:
 
-(A) First, the amounts specified in the Department of Justice appropriations for that fiscal year, shall be deposited as discretionary offsetting collections to the "United States Trustee System Fund", pursuant to subsection (a), to remain available until expended.
+(A) First, the amounts needed to offset the amount specified in the Department of Justice appropriations for that fiscal year, shall be deposited as discretionary offsetting collections to the "United States Trustee System Fund", pursuant to subsection (a), to remain available until expended.
 
 (B) Second, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to reimburse the judiciary for the costs of administering payments under section 330(e) of title 11, shall be deposited as mandatory offsetting collections to the "United States Trustee System Fund", and transferred and deposited into the special fund established under section 1931(a), and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
 
@@ -62,7 +62,7 @@
 
 (2) Notwithstanding subsection (b), for each of fiscal years 2021 through 2026, $5,400,000 of the fees collected under section 1930(a)(6) shall be deposited in the general fund of the Treasury.
 
-(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) [title I, §109(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) [title I, title I, §113], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, §325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, §212(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, §3(b), May 25, 2012, 126 Stat. 348; Pub. L. 116–325, §3(b), Jan. 12, 2021, 134 Stat. 5087.)
+(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) [title I, §109(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) [title I, title I, §113], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, §325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, §212(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, §3(b), May 25, 2012, 126 Stat. 348; Pub. L. 116–325, §3(b), Jan. 12, 2021, 134 Stat. 5087; Pub. L. 117–151, §2(g), June 21, 2022, 136 Stat. 1299.)
 
 #### **Editorial Notes** ####
 
@@ -71,6 +71,12 @@
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments ####
+
+**2022**—Subsec. (c). Pub. L. 117–151, §2(g)(1), substituted "subsections (a) and (f)" for "subsection (a)".
+
+Subsec. (f)(1). Pub. L. 117–151, §2(g)(2)(A), substituted "subsection (b)(5)" for "subsections (b) and (c)" in introductory provisions.
+
+Subsec. (f)(1)(A). Pub. L. 117–151, §2(g)(2)(B), inserted "needed to offset the amount" after "amounts".
 
 **2021**—Subsec. (f). Pub. L. 116–325 added subsec. (f).
 
@@ -109,6 +115,10 @@ Subsec. (f). Pub. L. 102–140, §111(c), added subsec. (f).
 **1989**—Subsec. (b)(1). Pub. L. 101–162 substituted "one-fourth" for "one-third".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–151, §2(h)(3), June 21, 2022, 136 Stat. 1300, provided that: "The amendments made by subsection (g) [amending this section] shall take effect as if enacted on October 1, 2021."
 
 #### Effective Date of 2012 Amendment ####
 
