@@ -10,6 +10,8 @@ Sec.
 
 2151–1. Development assistance policy.
 
+2151–2. Actions to improve the international gender policy of the United States Agency for International Development.
+
 2151a. Agricultural development in rural areas.
 
 2151a–1. Agricultural research.
@@ -25,6 +27,8 @@ Sec.
 2151b–4. Assistance to combat malaria.
 
 2151c. Education and human resources development.
+
+2151c–1. United States assistance to support educational services for displaced children.
 
 2151d. Development of indigenous energy resources.
 
@@ -190,7 +194,7 @@ Sec.
 
 2201. Assistance to disadvantaged children in Asia.
 
-#### subpart vi—microenterprise development assistance ####
+#### subpart vi—development assistance for micro, small, and medium-sized enterprises ####
 
 #### Division A—Grant Assistance ####
 
@@ -200,13 +204,13 @@ Sec.
 
 2211b. Monitoring system.
 
-2211c. Development and certification of poverty measurement methods; application of methods.
+2211c. Poverty measurement methods.
 
 2211d. Additional authorities.
 
 #### Division B—Credit Assistance ####
 
-2212. Microenterprise development credits.
+2212. Development credits for micro, small, and medium-sized enterprises.
 
 #### Division C—United States Microfinance Loan Facility ####
 
@@ -802,9 +806,9 @@ Sec.
 
 2431f. Authority to engage in debt-for-nature swaps and debt buybacks.
 
-2431g. Tropical Forest Agreement.
+2431g. Conservation Agreement.
 
-2431h. Tropical Forest Fund.
+2431h. Conservation Fund.
 
 2431i. Board.
 

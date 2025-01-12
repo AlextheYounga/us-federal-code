@@ -20,6 +20,8 @@ Sec.
 
 7104d. Rules of construction; effective date.
 
+7104e. Preventing future trafficking in the United States through receipt of complaints abroad.
+
 7105. Protection and assistance for victims of trafficking.
 
 7105a. Increasing effectiveness of anti-trafficking programs.

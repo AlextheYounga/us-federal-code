@@ -44,6 +44,8 @@ Sec.
 
 3520. Establishment of task force on information collection and dissemination.
 
+3520A. Chief Data Officer Council.
+
 3521. Authorization of appropriations.
 
 #### [SUBCHAPTER II—REPEALED] ####
@@ -74,11 +76,49 @@ Sec.
 
 3559. Federal websites required to be mobile friendly.
 
+#### SUBCHAPTER III—CONFIDENTIAL INFORMATION PROTECTION AND STATISTICAL EFFICIENCY ####
+
+#### Part A—General ####
+
+3561. Definitions.
+
+3562. Coordination and oversight of policies.
+
+3563. Statistical agencies.
+
+3564. Effect on other laws.
+
+#### Part B—Confidential Information Protection ####
+
+3571. Findings.
+
+3572. Confidential information protection.
+
+#### Part C—Statistical Efficiency ####
+
+3575. Findings.
+
+3576. Designated statistical agencies.
+
+#### Part D—Access to Data for Evidence ####
+
+3581. Presumption of accessibility for statistical agencies and units.
+
+3582. Expanding secure access to CIPSEA data assets.
+
+3583. Application to access data assets for developing evidence.
+
+#### Amendment of Analysis ####
+
+Pub. L. 115–435, title II, §202(d)(2)(A), (e)(2), title IV, §403, Jan. 14, 2019, 132 Stat. 5541, 5542, 5557, provided that, effective 180 days after Jan. 14, 2019, this analysis is amended by amending item 3511 to read "Data inventory and Federal data catalogue" and by amending item 3520 to read "Chief Data Officers". See 2019 Amendment note below.
+
 #### Codification ####
 
 This chapter was originally added by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, which act enacted this title, and was based on act Dec. 24, 1942, ch. 811, 56 Stat. 1078, known as the Federal Reports Act of 1942, which was classified to sections 139 to 139f of former Title 5, transferred to chapter 12 (§421 et seq.) of former Title 44, and repealed by Pub. L. 90–620 upon the enactment of this title. Subsequent to its original enactment by Pub. L. 90–620, this chapter was amended generally by Pub. L. 96–511 and again by Pub. L. 104–13. As a result, this chapter is shown herein as having been added beginning with Pub. L. 104–13 without reference to earlier amendatory laws. See Prior Provisions notes throughout this chapter.
 
 #### Amendments ####
+
+**2019**—Pub. L. 115–435, title II, §202(d)(2)(A), (e)(2), (f)(2), title III, §§302(b), 303(b), Jan. 14, 2019, 132 Stat. 5541–5543, 5552, 5556, substituted "Data inventory and Federal data catalogue" for "Establishment and operation of Government Information Locator Service" in item 3511 and "Chief Data Officers" for "Establishment of task force on information collection and dissemination" in item 3520, added item 3520A, and added heading for subchapter III, headings for parts A to D of subchapter III, and items 3561 to 3564, 3571, 3572, 3575, 3576, and 3581 to 3583.
 
 **2018**—Pub. L. 115–114, §2(b), Jan. 10, 2018, 131 Stat. 2278, added item 3559.
 

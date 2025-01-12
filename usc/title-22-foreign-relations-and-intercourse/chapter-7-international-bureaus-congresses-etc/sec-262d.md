@@ -106,6 +106,28 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1372 of Pub. L
 
 Section effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as a note under section 282i of this title.
 
+#### United States Support for Integration of Anti-trafficking Interventions in Multilateral Development Banks ####
+
+Pub. L. 115–427, §8, Jan. 9, 2019, 132 Stat. 5507, provided that:
+
+"(a) Requirements.—The Secretary of the Treasury, in consultation with the Secretary of State, acting through the Ambassador at Large for Monitoring and Combating Trafficking in Persons, shall instruct the United States Executive Director of each multilateral development bank to initiate discussions with the other executive directors and management of the respective multilateral development bank to—
+
+"(1) further develop anti-human trafficking provisions in relevant project development, safeguards, procurement, and evaluation policies;
+
+"(2) employing a risk-based approach, require human trafficking risk assessments and integration plans as a routine part of developing projects through existing, forthcoming or new mechanisms and processes;
+
+"(3) support analyses of the impact of severe forms of trafficking in persons on key indicators of economic and social development and of the benefits of reducing human trafficking on economic and social development;
+
+"(4) support the proactive integration of effective anti-trafficking interventions into projects with the objectives of enhancing development outcomes and reducing the incidence of severe forms of trafficking in project areas;
+
+"(5) increase the capacity of multilateral development banks and of recipient governments to conduct human trafficking risk assessments and integrate anti-trafficking interventions into projects;
+
+"(6) support the development of meaningful risk mitigation and reduction policies, regulations, and strategies within the multilateral development banks to reduce the incidence and prevalence of severe forms of trafficking in persons and enhance development outcomes that may be improved by reducing the incidence and prevalence of human trafficking; and
+
+"(7) support the inclusion of human trafficking risk analysis in the development of relevant country strategies by each multilateral development bank.
+
+"(b) Briefings.—The Secretary of the Treasury shall make relevant officials available to brief the Committee on Foreign Relations of the Senate, the Committee on Appropriations of the Senate, the Committee on Financial Services of the House of Representatives, and the Committee on Appropriations of the House of Representatives on the implementation of this section."
+
 #### Consultations for Adoption of Amendment to Articles of Agreement Respecting Human Rights Standards in Connection With Any Application for Assistance ####
 
 Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance."

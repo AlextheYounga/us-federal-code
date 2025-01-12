@@ -20,7 +20,7 @@ Sec.
 
 8517. Observing System Simulation Experiments.
 
-8518. Annual report on computing resources prioritization.
+8518. Computing resource efficiency improvement and annual report.
 
 8519. Authorization of appropriations.
 
@@ -55,3 +55,5 @@ Sec.
 8548. Weather enterprise outreach.
 
 8549. Hurricane hunter aircraft.
+
+8550. Improvements to Cooperative Observer Program of National Weather Service.

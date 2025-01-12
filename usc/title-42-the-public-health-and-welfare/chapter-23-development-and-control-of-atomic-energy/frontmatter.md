@@ -330,6 +330,8 @@ Sec.
 
 2214. NRC user fees and annual charges.
 
+2215. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter.
+
 #### SUBCHAPTER XIV—COMPENSATION FOR PRIVATE PROPERTY ACQUIRED ####
 
 2221. Just compensation for requisitioned property.

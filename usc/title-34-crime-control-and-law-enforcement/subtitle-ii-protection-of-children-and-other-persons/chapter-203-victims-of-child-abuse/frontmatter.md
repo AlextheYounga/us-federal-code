@@ -42,6 +42,8 @@ Sec.
 
 20341. Child abuse reporting.
 
+20342. Federal immunity.
+
 #### SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS ####
 
 20351. Requirement for background checks.
