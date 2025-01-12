@@ -44,7 +44,7 @@ Sec.
 
 7426. Retirement rights.
 
-#### SUBCHAPTER III—PAY FOR PHYSICIANS AND DENTISTS ####
+#### SUBCHAPTER III—PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS ####
 
 7431. Pay.
 
@@ -95,6 +95,8 @@ Sec.
 7474. Consultation.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.
 
 **2018**—Pub. L. 115–182, title V, §502(a)(2), June 6, 2018, 132 Stat. 1475, which directed amendment of the table of sections for chapter 74 by adding item 7413 after item 7412, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
