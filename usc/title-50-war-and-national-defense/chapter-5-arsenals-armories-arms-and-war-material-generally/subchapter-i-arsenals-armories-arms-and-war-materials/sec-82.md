@@ -46,9 +46,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 101. *Policy*. The United States must have the capability to rapidly mobilize its resources in the interest of national security. Therefore, to achieve prompt delivery of articles, products, and materials to meet national security requirements, the Government may place orders and require priority performance of these orders.
 
-Sec. 102. *Delegation of Authority under.*
+Sec. 102. *Delegation of Authority under 50 U.S.C. App. 468 [now 50 U.S.C. 3816].*
 
-(a) Subject to paragraph (b) of this section, the authorities vested in the President, under, with respect to the placing of orders for prompt delivery of articles or materials, except for the taking authority under (c), are hereby delegated to:
+(a) Subject to paragraph (b) of this section, the authorities vested in the President, under 50 U.S.C. App. 468 [now 50 U.S.C. 3816], with respect to the placing of orders for prompt delivery of articles or materials, except for the taking authority under (c), are hereby delegated to:
 
 (1) The Secretary of Agriculture with respect to all food resources;
 

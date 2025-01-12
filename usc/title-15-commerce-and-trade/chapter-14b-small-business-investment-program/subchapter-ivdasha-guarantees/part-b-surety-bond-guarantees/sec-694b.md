@@ -40,7 +40,7 @@ In no event shall the Administration pay a surety pursuant to this subsection an
 
 Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum—
 
-(1) not to exceed 70 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration's guarantee under subsection (a)(3);
+(1) not to exceed 90 per centum of the loss incurred and paid by a surety authorized to issue bonds subject to the Administration's guarantee under subsection (a)(3);
 
 (2) not to exceed 90 per centum of the loss incurred and paid in the case of a surety requiring the Administration's specific approval for the issuance of such bond, but in no event may the Administration make any duplicate payment pursuant to subsection (b) or any other subsection;
 
@@ -93,10 +93,6 @@ The provisions of section 693 of this title shall apply in the administration of
 For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
 
 (Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) [title VIII, §805(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, §203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466; Pub. L. 111–5, div. A, title V, §508(a), (b), Feb. 17, 2009, 123 Stat. 158; Pub. L. 112–239, div. A, title XVI, §1695(a), (b), Jan. 2, 2013, 126 Stat. 2089, 2090; Pub. L. 114–92, div. A, title VIII, §874(b), Nov. 25, 2015, 129 Stat. 941.)
-
-#### Amendment of Subsection (c)(1) ####
-
-Pub. L. 114–92, div. A, title VIII, §874(b), (c), Nov. 25, 2015, 129 Stat. 941, provided that, effective 1 year after Nov. 25, 2015, subsection (c)(1) of this section is amended by substituting "90" for "70". See 2015 Amendment note below.
 
 #### Amendments ####
 
