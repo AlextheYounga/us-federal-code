@@ -36,9 +36,9 @@ Sec.
 
 3317. Certain authority not affected.
 
-3318. Lactation room in public buildings.
+3318. 1 Lactation room in public buildings.
 
-3318. Availability of Federal building project information.
+3318. 1 Availability of Federal building project information.
 
 #### **Editorial Notes** ####
 
@@ -51,3 +51,5 @@ Sec.
 **2016**—Pub. L. 114–235, §2(b), Oct. 7, 2016, 130 Stat. 965, added items 3314 to 3317 and struck out former items 3314 "Delegation", 3315 "Report to Congress", and 3316 "Certain authority not affected".
 
 **2007**—Pub. L. 110–140, title III, §323(c)(2), Dec. 19, 2007, 121 Stat. 1591, added items 3313 to 3316 and struck out former items 3313 "Delegation", 3314 "Report to Congress", and 3315 "Certain authority not affected".
+
+[<sup>1</sup> So in original. Two sections 3318 have been enacted.](#CHAPTER33_1)
