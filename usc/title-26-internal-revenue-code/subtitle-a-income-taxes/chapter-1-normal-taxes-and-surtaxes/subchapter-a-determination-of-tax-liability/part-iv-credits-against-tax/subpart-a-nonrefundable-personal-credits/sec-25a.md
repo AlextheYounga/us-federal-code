@@ -200,7 +200,7 @@ In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amou
 
 If any amount as adjusted under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 
-#### (i) American opportunity tax credit ####
+#### (i) American Opportunity Tax Credit ####
 
 In the case of any taxable year beginning after 2008—
 

@@ -110,7 +110,7 @@ Act Aug. 3, 1954, ch. 655, §8, 68 Stat. 665, provided that: "The amendments mad
 
 #### Definitions of Terms in Pub. L. 113–128 ####
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
 
 [<sup>1</sup> So in original.](#49b_1)
 

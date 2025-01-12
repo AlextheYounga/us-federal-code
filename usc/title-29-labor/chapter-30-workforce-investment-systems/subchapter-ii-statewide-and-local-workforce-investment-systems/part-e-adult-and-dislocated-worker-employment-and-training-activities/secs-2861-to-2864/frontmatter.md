@@ -6,7 +6,7 @@ Section 2862, Pub. L. 105–220, title I, §132, Aug. 7, 1998, 112 Stat. 983; Pu
 
 Section 2863, Pub. L. 105–220, title I, §133, Aug. 7, 1998, 112 Stat. 987, related to allocation within States of funds under this subchapter. See section 3173 of this title.
 
-Section 2864, Pub. L. 105–220, title I, §134, Aug. 7, 1998, 112 Stat. 990; Pub. L. 105–277, div. A, §101(f) [title VIII, §401(5)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(6), Aug. 12, 2006, 120 Stat. 748, related to Use of funds for employment and training activities. See section 3174 of this title.
+Section 2864, Pub. L. 105–220, title I, §134, Aug. 7, 1998, 112 Stat. 990; Pub. L. 105–277, div. A, §101(f) [title VIII, §401(5)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(6), Aug. 12, 2006, 120 Stat. 748, related to use of funds for employment and training activities. See section 3174 of this title.
 
 #### Effective Date of Repeal ####
 

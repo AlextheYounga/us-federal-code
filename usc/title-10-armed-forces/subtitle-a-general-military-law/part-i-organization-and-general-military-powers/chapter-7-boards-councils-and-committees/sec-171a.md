@@ -46,7 +46,7 @@
 
 (5) An assessment of the threats and vulnerabilities described in the reports and assessments collected under subsection (f) during the previous year, including any plans to address such threats and vulnerabilities.
 
-(f) Collection of Assessments on Certain Threats.—The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)) regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
+(f) Collection of Assessments on Certain Threats.—The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)) <sup><a href="#171a_1_target" name="171a_1">1</a></sup> regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
 
 (g) Budget and Funding Matters.—(1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31, the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
 
@@ -78,6 +78,8 @@
 
 #### Amendments ####
 
-Subsec. (e)(5). Pub. L. 114–92, §1651(3), added par. (5).
+**2015**—Subsec. (e)(5). Pub. L. 114–92, §1651(3), added par. (5).
 
 Subsecs. (f) to (i). Pub. L. 114–92, §1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+
+[<sup>1</sup> So in original. Another closing parenthesis probably should appear.](#171a_1)

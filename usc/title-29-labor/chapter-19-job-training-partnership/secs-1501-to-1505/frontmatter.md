@@ -12,7 +12,7 @@ Section 1505, Pub. L. 97–300, title VI, §605, formerly title V, §505, as add
 
 #### Effective Date of Repeal ####
 
-Pub. L. 105–220, title I, §199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeal made by subsection (b)(2) [repealing this chapter and provisions set out as a note under section 801 of this title] would take effect on July 1, 2000, was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705.
+Pub. L. 105–220, title I, §199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeal made by subsection (b)(2) (repealing this chapter and provisions set out as a note under section 801 of this title) would take effect on July 1, 2000, was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705.
 
 #### Short Title of 1992 Amendment ####
 

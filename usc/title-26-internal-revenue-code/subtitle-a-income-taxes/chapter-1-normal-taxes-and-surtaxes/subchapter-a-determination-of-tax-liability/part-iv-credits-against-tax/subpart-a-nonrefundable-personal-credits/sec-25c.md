@@ -174,7 +174,7 @@ This section shall not apply with respect to any property placed in service—
 
 #### References in Text ####
 
-Subsection (c)(2)(B), referred to in subsec. (b)(2), was redesignated (c)(3)(B) by Pub. L. 114–113, div. Q, §181(b)(2), Dec. 18, 2015, 129 Stat. 3072.
+Subsection (c)(2)(B), referred to in subsec. (b)(2), was redesignated (c)(3)(B) by Pub. L. 114–113, div. Q, title I, §181(b)(2), Dec. 18, 2015, 129 Stat. 3072.
 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 

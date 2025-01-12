@@ -226,7 +226,7 @@ The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act 
 
 #### Amendments ####
 
-**2015**—Subsec. (b)(1)(B) to (D). Pub. L. 114–113, §303(a), inserted "and" at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C). Prior to amendment, subpar. (C) read as follows: "which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and".
+**2015**—Subsec. (b)(1)(B) to (D). Pub. L. 114–113, §303(a), inserted "and" at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: "which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and".
 
 Subsec. (c)(1)(C)(i). Pub. L. 114–113, §303(c)(2), substituted "member of the family" for "family member".
 

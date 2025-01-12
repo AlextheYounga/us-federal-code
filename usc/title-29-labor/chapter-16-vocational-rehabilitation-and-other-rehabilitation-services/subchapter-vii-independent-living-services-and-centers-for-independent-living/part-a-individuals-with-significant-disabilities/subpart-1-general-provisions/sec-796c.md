@@ -142,7 +142,7 @@ The plan shall provide satisfactory assurances that all recipients of financial 
 
 #### (n) Evaluation ####
 
-The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d) of this section, including evaluation of satisfaction by individuals with disabilities.
+The plan shall establish a method for the periodic evaluation of the effectiveness of the plan in meeting the objectives established in subsection (d), including evaluation of satisfaction by individuals with disabilities.
 
 #### (o) Promoting full access to community life ####
 

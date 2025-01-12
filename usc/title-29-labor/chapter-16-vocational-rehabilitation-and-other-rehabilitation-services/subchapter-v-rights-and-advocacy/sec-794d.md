@@ -62,21 +62,21 @@ The Administrator of General Services and the Access Board shall provide technic
 
 #### (c) Agency evaluations ####
 
-Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
+Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1), compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
 
 #### (d) Reports ####
 
 #### (1) Interim report ####
 
-Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section.
+Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1).
 
 #### (2) Biennial reports ####
 
-Not later than 3 years after August 7, 1998, and every 2 years thereafter, the Attorney General shall prepare and submit to the President and Congress a report containing information on and recommendations regarding the state of Federal department and agency compliance with the requirements of this section, including actions regarding individual complaints under subsection (f) of this section.
+Not later than 3 years after August 7, 1998, and every 2 years thereafter, the Attorney General shall prepare and submit to the President and Congress a report containing information on and recommendations regarding the state of Federal department and agency compliance with the requirements of this section, including actions regarding individual complaints under subsection (f).
 
 #### (e) Cooperation ####
 
-Each head of a Federal department or agency (including the Access Board, the Equal Employment Opportunity Commission, and the General Services Administration) shall provide to the Attorney General such information as the Attorney General determines is necessary to conduct the evaluations under subsection (c) of this section and prepare the reports under subsection (d) of this section.
+Each head of a Federal department or agency (including the Access Board, the Equal Employment Opportunity Commission, and the General Services Administration) shall provide to the Attorney General such information as the Attorney General determines is necessary to conduct the evaluations under subsection (c) and prepare the reports under subsection (d).
 
 #### (f) Enforcement ####
 
@@ -84,11 +84,11 @@ Each head of a Federal department or agency (including the Access Board, the Equ
 
 #### (A) Complaints ####
 
-Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section, any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) of this section in providing electronic and information technology.
+Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2), any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology.
 
 #### (B) Application ####
 
-This subsection shall apply only to electronic and information technology that is procured by a Federal department or agency not less than 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.
+This subsection shall apply only to electronic and information technology that is procured by a Federal department or agency not less than 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2).
 
 #### (2) Administrative complaints ####
 
@@ -110,9 +110,9 @@ This section shall not be construed to limit any right, remedy, or procedure oth
 
 #### Amendments ####
 
-**2000**—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted "Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section," for "Effective 2 years after August 7, 1998,".
+**2000**—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted "Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2)," for "Effective 2 years after August 7, 1998,".
 
-Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted "6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section." for "2 years after August 7, 1998."
+Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted "6 months after the date of publication by the Access Board of final standards described in subsection (a)(2)." for "2 years after August 7, 1998."
 
 **1998**—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
 

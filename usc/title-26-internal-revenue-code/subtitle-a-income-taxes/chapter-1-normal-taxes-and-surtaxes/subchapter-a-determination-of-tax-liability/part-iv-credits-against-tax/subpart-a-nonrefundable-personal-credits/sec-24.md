@@ -138,7 +138,7 @@ Subsec. (e). Pub. L. 114–113, §205(a), (b), substituted "requirements" for "r
 
 Subsec. (g). Pub. L. 114–113, §208(a)(1), added subsec. (g).
 
-**2014**—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As amended by Pub. L. 111–5, §1003(a), par. (4) read as follows: "Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000." See 2009 Amendment and Effective Date of 2014 Amendment notes below.
+**2014**—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which the amendment related. As amended by Pub. L. 111–5, §1003(a), par. (4) read as follows: "Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000." See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
 **2013**—Subsec. (b)(3). Pub. L. 112–240, §104(c)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: "In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
 
@@ -150,11 +150,11 @@ Subsec. (d)(1). Pub. L. 112–240, §104(c)(2)(B)(ii)(II), substituted "section 
 
 Subsec. (d)(1)(A), (B). Pub. L. 112–240, §104(c)(2)(B)(ii)(I), substituted "section 26(a)" for "section 26(a)(2) or subsection (b)(3), as the case may be," in subpar. (A) and in introductory provisions in subpar. (B).
 
-Subsec. (d)(4). Pub. L. 112–240, §103(b), which directed substitution of "for certain years" for "2009, 2010, 2011, and 2012" in heading and "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
+Subsec. (d)(4). Pub. L. 112–240, §103(b), which directed substitution of "for certain years" for "2009, 2010, 2011, and 2012" in heading and "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which the amendment related. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 **2010**—Subsec. (b)(3)(B). Pub. L. 111–148, §10909(b)(2)(A), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily struck out "23," before "25A(i),". See Effective and Termination Dates of 2010 Amendment note below.
 
-Subsec. (d)(4). Pub. L. 111–312, §103(b), which directed substitution of "2009, 2010, 2011, and 2012" for "2009 and 2010" in heading and ", 2010, 2011, or 2012" for "or 2010" in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
+Subsec. (d)(4). Pub. L. 111–312, §103(b), which directed substitution of "2009, 2010, 2011, and 2012" for "2009 and 2010" in heading and ", 2010, 2011, or 2012" for "or 2010" in text, could not be executed because of the subsequent general amendment of subsec. (d)(4) by Pub. L. 113–295, which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which the amendment related. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 **2009**—Subsec. (b)(3)(B). Pub. L. 111–5, §1144(b)(1)(A), inserted "30B," after "30,".
 
@@ -162,7 +162,7 @@ Pub. L. 111–5, §1142(b)(1)(A), inserted "30," after "25D,".
 
 Pub. L. 111–5, §1004(b)(1), inserted "25A(i)," after "23,".
 
-Subsec. (d)(4). Pub. L. 111–5, §1003(a), amended par. (4) generally. Prior to amendment, text read as follows: "Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500." Par. (4) was subsequently generally amended by Pub. L. 113–295, effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
+Subsec. (d)(4). Pub. L. 111–5, §1003(a), amended par. (4) generally. Prior to amendment, text read as follows: "Notwithstanding paragraph (3), in the case of any taxable year beginning in 2008, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $8,500." Par. (4) was subsequently generally amended by Pub. L. 113–295, effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which the amendment related. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 **2008**—Subsec. (a). Pub. L. 110–351 inserted "for which the taxpayer is allowed a deduction under section 151" after "of the taxpayer".
 

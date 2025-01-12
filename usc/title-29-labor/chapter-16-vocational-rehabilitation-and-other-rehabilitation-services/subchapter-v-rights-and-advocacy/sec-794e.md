@@ -18,7 +18,7 @@ This section shall not be construed to require the provision of protection and a
 
 #### (b) Appropriations less than $5,500,000 ####
 
-For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1) of this section.
+For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of subparagraphs (A) and (B) of subsection (a)(1).
 
 #### (c) Appropriations of $5,500,000 or more ####
 
@@ -34,7 +34,7 @@ For any fiscal year in which the amount appropriated to carry out this section e
 
 #### (2) Allotments ####
 
-For any such fiscal year, after the reservations required by paragraph (1) have been made, the Commissioner shall make allotments from the remainder of such amount in accordance with paragraph (3) to eligible systems within States to enable such systems to carry out protection and advocacy programs authorized under this section for individuals referred to in subsection (b) of this section.
+For any such fiscal year, after the reservations required by paragraph (1) have been made, the Commissioner shall make allotments from the remainder of such amount in accordance with paragraph (3) to eligible systems within States to enable such systems to carry out protection and advocacy programs authorized under this section for individuals referred to in subsection (b).
 
 #### (3) Systems within States ####
 
@@ -62,11 +62,11 @@ For any fiscal year, beginning in fiscal year 1999, in which the total amount ap
 
 #### (d) Proportional reduction ####
 
-To provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or to provide minimum allotments to systems within States (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3) of this section, with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5) of this section) under subsection (c)(3)(B) of this section, or the minimum allotment for a State (as increased under subsection (c)(5) of this section) under subsection (c)(4)(B) of this section, as appropriate.
+To provide minimum allotments to systems within States (as increased under subsection (c)(5)) under subsection (c)(3)(B), or to provide minimum allotments to systems within States (as increased under subsection (c)(5)) under subsection (c)(4)(B), the Commissioner shall proportionately reduce the allotments of the remaining systems within States under subsection (c)(3), with such adjustments as may be necessary to prevent the allotment of any such remaining system within a State from being reduced to less than the minimum allotment for a system within a State (as increased under subsection (c)(5)) under subsection (c)(3)(B), or the minimum allotment for a State (as increased under subsection (c)(5)) under subsection (c)(4)(B), as appropriate.
 
 #### (e) Reallotment ####
 
-Whenever the Commissioner determines that any amount of an allotment to a system within a State for any fiscal year described in subsection (c)(1) of this section will not be expended by such system in carrying out the provisions of this section, the Commissioner shall make such amount available for carrying out the provisions of this section to one or more of the systems that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a system for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the system (as determined under the preceding provisions of this section) for such year.
+Whenever the Commissioner determines that any amount of an allotment to a system within a State for any fiscal year described in subsection (c)(1) will not be expended by such system in carrying out the provisions of this section, the Commissioner shall make such amount available for carrying out the provisions of this section to one or more of the systems that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a system for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the system (as determined under the preceding provisions of this section) for such year.
 
 #### (f) Application ####
 
@@ -76,7 +76,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 (2) have the same general authorities, including the authority to access records and program income, as are set forth in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.];
 
-(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State or the American Indian consortium who are individuals described in subsection (a)(1) of this section;
+(3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State or the American Indian consortium who are individuals described in subsection (a)(1);
 
 (4) provide information on and make referrals to programs and services addressing the needs of individuals with disabilities in the State or the American Indian consortium;
 
@@ -106,7 +106,7 @@ For purposes of any audit, report, or evaluation of the performance of the progr
 
 #### (i) Administrative cost ####
 
-In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) of this section for the cost of the administration of the system required by this section. Such portion may not exceed 5 percent of the allotment.
+In any State in which an eligible system is located within a State agency, a State may use a portion of any allotment under subsection (c) for the cost of the administration of the system required by this section. Such portion may not exceed 5 percent of the allotment.
 
 #### (j) Delegation ####
 
@@ -126,7 +126,7 @@ As used in this section:
 
 #### (1) Eligible system ####
 
-The term "eligible system" means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.] and that meets the requirements of subsection (f) of this section.
+The term "eligible system" means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.] and that meets the requirements of subsection (f).
 
 #### (2) American Indian consortium ####
 
@@ -170,7 +170,7 @@ Subsec. (a)(2). Pub. L. 105–394 substituted "the Assistive Technology Act of 1
 
 Subsec. (b). Pub. L. 103–73, §112(c)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
-"(1) Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a) of this section.
+"(1) Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a).
 
 "(2) Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States."
 
@@ -184,11 +184,11 @@ Subsec. (c)(5). Pub. L. 103–73, §112(c)(3)(B), added par. (5) and struck out 
 
 "(B) Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made."
 
-Subsec. (d). Pub. L. 103–73, §112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) of this section as increased under subsection (c)(5) of this section, or to provide allotments in accordance with subsection (c)(4)(B) of this section as increased in accordance with subsection (c)(5) of this section, shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3) of this section, but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5) of this section."
+Subsec. (d). Pub. L. 103–73, §112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) as increased under subsection (c)(5), or to provide allotments in accordance with subsection (c)(4)(B) as increased in accordance with subsection (c)(5), shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3), but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5)."
 
 Subsec. (i). Pub. L. 103–73, §112(c)(6), which directed the amendment of this section "in subsection (i), to read as follows:", was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
 
-Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "An eligible system may not use more than 5 percent of any allotment under subsection (c) of this section for the cost of administration of the system required by this section."
+Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "An eligible system may not use more than 5 percent of any allotment under subsection (c) for the cost of administration of the system required by this section."
 
 Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 

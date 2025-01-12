@@ -99,3 +99,5 @@ Pub. L. 112–239, div. A, title X, §1076(b), Jan. 2, 2013, 126 Stat. 1949, pro
 #### Effective Date of 2011 Amendment ####
 
 Amendment by section 901(f) of Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
+[<sup>1</sup> See References in Text note below.](#139c_1)

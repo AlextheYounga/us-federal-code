@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-From the funds appropriated for fiscal year 2015 and for each subsequent fiscal year to carry out this subpart, the Administrator shall make available such sums as may be necessary to States, centers for independent living, and other entities in accordance with subsections (b) through (d) of this section.
+From the funds appropriated for fiscal year 2015 and for each subsequent fiscal year to carry out this subpart, the Administrator shall make available such sums as may be necessary to States, centers for independent living, and other entities in accordance with subsections (b) through (d).
 
 #### (b) Training ####
 
@@ -32,7 +32,7 @@ No funds reserved by the Administrator under this subsection may be combined wit
 
 #### (A) Population basis ####
 
-After the reservation required by subsection (b) of this section has been made, and except as provided in subparagraphs (B) and (C), from the remainder of the amounts appropriated for each such fiscal year to carry out this subpart, the Administrator shall make an allotment to each State whose State plan has been approved under section 796d–1 of this title of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
+After the reservation required by subsection (b) has been made, and except as provided in subparagraphs (B) and (C), from the remainder of the amounts appropriated for each such fiscal year to carry out this subpart, the Administrator shall make an allotment to each State whose State plan has been approved under section 796d–1 of this title of an amount bearing the same ratio to such remainder as the population of the State bears to the population of all States.
 
 #### (B) Maintenance of 1992 amounts ####
 

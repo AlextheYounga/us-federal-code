@@ -27,7 +27,7 @@ The credit percentage and the phaseout percentage shall be determined as follows
 |            1 qualifying child             |           34            |                        15.98                         |
 |           2 qualifying children           |           40            |                        21.06                         |
 |       3 or more qualifying children       |           45            |                        21.06                         |
-|          No qualifying children           |          7.65           |                         7.65                         |
+|          No qualifying children           |          7.65           |                         7.65                         |
 
 #### (2) Amounts ####
 
@@ -315,7 +315,7 @@ A prior section 32 was renumbered section 33 of this title.
 
 Subsec. (b)(2)(B). Pub. L. 114–113, §103(b), amended subpar. (B) generally. Prior to amendment, text read as follows: "In the case of a joint return filed by an eligible individual and such individual's spouse, the phaseout amount determined under subparagraph (A) shall be increased by $3,000."
 
-Subsec. (b)(3). Pub. L. 114–113, §103(c), struck out par. (3) which provided for increased credit percentage for 3 or more qualifying children and reduction of marriage penalty in taxable years beginning after 2008 and before 2018, with adjustment for inflation.
+Subsec. (b)(3). Pub. L. 114–113, §103(c), struck out par. (3) which provided for increased credit percentage for taxpayers with 3 or more qualifying children and reduction of marriage penalty in taxable years beginning after 2008 and before 2018, with adjustment for inflation.
 
 Subsec. (m). Pub. L. 114–113, §204(a), inserted "on or before the due date for filing the return for the taxable year" before period at end.
 

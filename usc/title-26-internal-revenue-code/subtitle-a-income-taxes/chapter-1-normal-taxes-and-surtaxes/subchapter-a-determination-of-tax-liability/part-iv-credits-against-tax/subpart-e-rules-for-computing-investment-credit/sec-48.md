@@ -328,7 +328,7 @@ Subsec. (a)(5)(C)(ii). Pub. L. 114–113, §187(b), substituted "January 1, 2017
 
 Pub. L. 114–113, §302(a), which directed the amendment of section 48(a)(5)(C)(ii) by inserting "(January 1, 2020, in the case of any facility which is described in paragraph (1) of section 45(d))" before ", and", without specifying the act to be amended, was executed by making the amendment to this section, which is section 48 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-Subsec. (a)(5)(E). Pub. L. 114–113, §302(b), which directed the amendment of section section 48(a)(5) by adding subpar. (E), without specifying the act to be amended, was executed by making the amendment to this section, which is section 48 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+Subsec. (a)(5)(E). Pub. L. 114–113, §302(b), which directed the amendment of section 48(a)(5) by adding subpar. (E), without specifying the act to be amended, was executed by making the amendment to this section, which is section 48 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 Subsec. (a)(6). Pub. L. 114–113, §303(b), added par. (6).
 

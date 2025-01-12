@@ -18,7 +18,7 @@ Sec.
 
 #### Amendments ####
 
-**2015**—Pub. L. 114–94, §32103(c), div. C, title XXXII, §32103(c), Dec. 4, 2015, 129 Stat. 1737, added item 6307.
+**2015**—Pub. L. 114–94, div. C, title XXXII, §32103(c), Dec. 4, 2015, 129 Stat. 1737, added item 6307.
 
 **2004**—Pub. L. 108–357, title VIII, §881(a)(2)(B), Oct. 22, 2004, 118 Stat. 1626, added item 6306.
 

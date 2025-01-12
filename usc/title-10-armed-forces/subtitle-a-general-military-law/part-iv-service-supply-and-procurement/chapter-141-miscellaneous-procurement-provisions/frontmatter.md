@@ -172,7 +172,7 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 
 **1958**—Pub. L. 85–861, §1(47), Sept. 2, 1958, 72 Stat. 1458, added items 2387 and 2388.
 
-#### Prohibition on Reliance on China and Russia for Space-based Weather Data ####
+#### Prohibition on Reliance on China and Russia for Space-Based Weather Data ####
 
 Pub. L. 114–92, div. A, title XVI, §1614, Nov. 25, 2015, 129 Stat. 1105, provided that:
 

@@ -10,7 +10,7 @@ In order to obtain the benefits of appropriations apportioned under section 49d 
 
 #### Effective Date of 1998 Amendment ####
 
-Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under section 49a of this title.
+Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, formerly set out as a note under section 49a of this title.
 
 #### Transfer of State Agencies to the States ####
 

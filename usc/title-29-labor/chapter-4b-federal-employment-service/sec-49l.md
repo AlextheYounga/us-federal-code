@@ -28,4 +28,4 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
 #### Definitions of Terms in Pub. L. 113–128 ####
 
-Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
