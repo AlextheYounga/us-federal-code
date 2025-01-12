@@ -31,6 +31,8 @@ Subtitle II—Protection of Children and Other Persons
 
 215. Advanced Notification of Traveling Sex Offenders 21501
 
+217. Elder Abuse Prevention and Prosecution 21701
+
 Subtitle III—Prevention of Particular Crimes
 ----------
 

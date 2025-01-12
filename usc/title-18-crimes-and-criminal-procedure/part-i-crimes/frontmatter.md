@@ -170,7 +170,7 @@ Chap. Sec.
 
 113. Stolen property 2311
 
-113A. Telemarketing fraud 2325
+113A. Telemarketing and email marketing fraud 2325
 
 113B. Terrorism 2331
 
@@ -191,6 +191,8 @@ Chap. Sec.
 123. Prohibition on release and use of certain personal information from State motor vehicle records 2721
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–70, title IV, §402(b)(1), Oct. 18, 2017, 131 Stat. 1214, substituted "Telemarketing and email marketing fraud" for "Telemarketing fraud" in item for chapter 113A.
 
 **2006**—Pub. L. 109–248, title I, §141(a)(2), July 27, 2006, 120 Stat. 602, added item for chapter 109B.
 

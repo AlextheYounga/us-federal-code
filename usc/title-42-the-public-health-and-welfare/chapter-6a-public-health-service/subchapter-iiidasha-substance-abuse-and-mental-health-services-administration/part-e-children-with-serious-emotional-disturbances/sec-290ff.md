@@ -92,7 +92,7 @@ Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted "is such a g
 
 #### Effective Date ####
 
-Part effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Current Grantees ####
 

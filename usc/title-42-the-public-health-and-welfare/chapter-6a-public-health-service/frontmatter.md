@@ -702,7 +702,7 @@ Sec.
 
 280g. Children's asthma treatment grants program.
 
-280g–1. Early detection, diagnosis, and treatment regarding hearing loss in newborns and infants.
+280g–1. Early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children.
 
 280g–2. Childhood malignancies.
 
