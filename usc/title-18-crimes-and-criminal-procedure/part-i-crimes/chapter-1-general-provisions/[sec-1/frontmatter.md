@@ -8,6 +8,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2016 Amendment ####
 
+Pub. L. 114–153, §1, May 11, 2016, 130 Stat. 376, provided that: "This Act [amending sections 1832, 1833, 1835, 1836, 1838, 1839, and 1961 of this title and enacting provisions set out as notes under sections 1832 and 1833 of this title and section 620 of Title 28, Judiciary and Judicial Procedure] may be cited as the 'Defend Trade Secrets Act of 2016'."
+
 Pub. L. 114–133, §1, Mar. 9, 2016, 130 Stat. 296, provided that: "This Act [enacting section 4049 of this title] may be cited as the 'Eric Williams Correctional Officer Protection Act of 2015'."
 
 #### Short Title of 2015 Amendment ####

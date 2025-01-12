@@ -12,7 +12,7 @@ Sec.
 
 1835. Orders to preserve confidentiality.
 
-1836. Civil proceedings to enjoin violations.
+1836. Civil proceedings.
 
 1837. Applicability to conduct outside the United States.
 
@@ -21,5 +21,7 @@ Sec.
 1839. Definitions.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–153, §2(d)(2), May 11, 2016, 130 Stat. 381, substituted "Civil proceedings" for "Civil proceedings to enjoin violations" in item 1836.
 
 **2002**—Pub. L. 107–273, div. B, title IV, §4002(f)(1), Nov. 2, 2002, 116 Stat. 1811, substituted "Applicability to conduct" for "Conduct" in item 1837.
