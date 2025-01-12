@@ -78,6 +78,14 @@ If funding is provided to carry out this section, it shall be provided through a
 
 Personnel of the Department trained in pasture and range management shall be made available under the program to deliver and coordinate technical assistance and education to owners and managers of private grazing land, at the request of the owners and managers.
 
+#### (C) Partnerships ####
+
+In carrying out the program under this section, the Secretary shall provide education and outreach activities through partnerships with—
+
+(i) land-grant colleges and universities (as defined in section 3103 of title 7); and
+
+(ii) nongovernmental organizations.
+
 #### (d) Grazing technical assistance self-help ####
 
 #### (1) Findings ####
@@ -128,9 +136,9 @@ The activities of a grazing management district shall be scientifically sound ac
 
 #### (e) Authorization of appropriations ####
 
-There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2018.
+There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2023.
 
-(Pub. L. 99–198, title XII, §1240M, as added Pub. L. 104–127, title III, §335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, §2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2601, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2501, Feb. 7, 2014, 128 Stat. 751.)
+(Pub. L. 99–198, title XII, §1240M, as added Pub. L. 104–127, title III, §335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, §2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2601, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2501, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, §2404, Dec. 20, 2018, 132 Stat. 4572.)
 
 #### References in Text ####
 
@@ -141,6 +149,10 @@ The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2018**—Subsec. (c)(2)(C). Pub. L. 115–334, §2404(1), added subpar. (C).
+
+Subsec. (e). Pub. L. 115–334, §2404(2), substituted "2023" for "2018".
 
 **2014**—Subsec. (e). Pub. L. 113–79 substituted "2018" for "2012".
 

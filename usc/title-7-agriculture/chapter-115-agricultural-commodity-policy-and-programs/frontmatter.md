@@ -22,7 +22,7 @@ Sec.
 
 9018. Producer agreements.
 
-9019. Transition assistance for producers of upland cotton.
+9019. Repealed.
 
 #### SUBCHAPTER II—MARKETING LOANS ####
 
@@ -48,21 +48,21 @@ Sec.
 
 #### SUBCHAPTER III—DAIRY ####
 
-#### Part A—Margin Protection Program for Dairy Producers ####
+#### Part A—Dairy Margin Coverage ####
 
 9051. Definitions.
 
 9052. Calculation of average feed cost and actual dairy production margins.
 
-9053. Establishment of margin protection program for dairy producers.
+9053. Dairy margin coverage.
 
-9054. Participation of dairy operations in margin protection program.
+9054. Participation of dairy operations in dairy margin coverage.
 
 9055. Production history of participating dairy operations.
 
-9056. Margin protection payments.
+9056. Dairy margin coverage payments.
 
-9057. Premiums for margin protection program.
+9057. Premiums for dairy margin coverage.
 
 9058. Effect of failure to pay administrative fees or premiums.
 
@@ -70,9 +70,9 @@ Sec.
 
 9060. Administration and enforcement.
 
-#### Part B—Dairy Product Donation Program ####
+#### Part B—Milk Donation Program ####
 
-9071. Dairy product donation program.
+9071. Milk donation program.
 
 #### SUBCHAPTER IV—SUPPLEMENTAL AGRICULTURAL DISASTER ASSISTANCE PROGRAMS ####
 

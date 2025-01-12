@@ -20,13 +20,7 @@ The term "agricultural real estate" means—
 
 #### (2) Board ####
 
-The term "Board" means—
-
-(A) the interim board of directors established in section 2279aa–2(a) of this title; and
-
-(B) the permanent board of directors established in section 2279aa–2(b) of this title;
-
-as the case may be.
+The term "Board" means the board of directors established under section 2279aa–2 of this title.
 
 #### (3) Certified facility ####
 
@@ -44,19 +38,11 @@ The term "Corporation" means the Federal Agricultural Mortgage Corporation estab
 
 The term "guarantee" means the guarantee of timely payment of the principal and interest on securities representing interests in, or obligations backed by, pools of qualified loans, in accordance with this subchapter.
 
-#### (6) Interim board ####
-
-The term "interim board" means the interim board of directors established in section 2279aa–2(a) of this title.
-
-#### (7) Originator ####
+#### (6) Originator ####
 
 The term "originator" means any Farm Credit System institution, bank, insurance company, business and industrial development company, savings and loan association, association of agricultural producers, agricultural cooperative, commercial finance company, trust company, credit union, or other entity that originates and services agricultural mortgage loans.
 
-#### (8) Permanent board ####
-
-The term "permanent board" means the permanent board of directors established in section 2279aa–2(b) of this title.
-
-#### (9) Qualified loan ####
+#### (7) Qualified loan ####
 
 The term "qualified loan" means an obligation—
 
@@ -72,17 +58,17 @@ The term "qualified loan" means an obligation—
 
 (B) that is the portion of a loan guaranteed by the Secretary of Agriculture pursuant to the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), except that—
 
-(i) subsections (b) through (d) of section 2279aa–6 of this title, and sections 2279aa–8 and 2279aa–9 of this title, shall not apply to the portion of a loan guaranteed by the Secretary or to an obligation, pool, or security representing an interest in or obligation backed by a pool of obligations relating to the portion of a loan guaranteed by the Secretary; and
+(i) subsections (b) and (c) of section 2279aa–6 of this title, and sections 2279aa–8 and 2279aa–9 of this title, shall not apply to the portion of a loan guaranteed by the Secretary or to an obligation, pool, or security representing an interest in or obligation backed by a pool of obligations relating to the portion of a loan guaranteed by the Secretary; and
 
 (ii) the portion of a loan guaranteed by the Secretary shall be considered to meet all standards for qualified loans for all purposes under this chapter; or
 
 (C) that is a loan, or an interest in a loan, for an electric or telephone facility by a cooperative lender to a borrower that has received, or is eligible to receive, a loan under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.).
 
-#### (10) State ####
+#### (8) State ####
 
 The term "State" has the meaning given such term in section 2277a of this title.
 
-(Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165; Pub. L. 110–234, title V, §5406(a), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(a), June 18, 2008, 122 Stat. 1664, 1920.)
+(Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165; Pub. L. 110–234, title V, §5406(a), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(a), June 18, 2008, 122 Stat. 1664, 1920; Pub. L. 115–334, title V, §5411(42), Dec. 20, 2018, 132 Stat. 4683.)
 
 #### References in Text ####
 
@@ -95,6 +81,22 @@ The Rural Electrification Act of 1936, referred to in par. (9)(C), is act May 20
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2018**—Par. (2). Pub. L. 115–334, §5411(42)(A), substituted "means the board of directors established under section 2279aa–2 of this title." for "means—
+
+"(A) the interim board of directors established in section 2279aa–2(a) of this title; and
+
+"(B) the permanent board of directors established in section 2279aa–2(b) of this title;
+
+as the case may be."
+
+Par. (6). Pub. L. 115–334, §5411(42)(B), (C), redesignated par. (7) as (6) and struck out former par. (6) which defined "interim board" to mean the interim board of directors established in section 2279aa–2(a) of this title.
+
+Par. (7). Pub. L. 115–334, §5411(42)(C), (D), redesignated par. (9) as (7) and substituted "(b) and (c)" for "(b) through (d)" in subpar. (B)(i). Former par. (7) redesignated (6).
+
+Par. (8). Pub. L. 115–334, §5411(42)(B), (C), redesignated par. (10) as (8) and struck out former par. (8) which defined "permanent board" to mean the permanent board of directors established in section 2279aa–2(b) of this title.
+
+Pars. (9), (10). Pub. L. 115–334, §5411(42)(C), redesignated pars. (9) and (10) as (7) and (8), respectively.
 
 **2008**—Par. (9)(C). Pub. L. 110–246, §5406(a), added subpar. (C).
 

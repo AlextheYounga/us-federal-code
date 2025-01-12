@@ -52,9 +52,7 @@ Sec.
 
 1647. Other Federal programs.
 
-1648. Recycling research.
-
-1649. Forestry Student Grant Program.
+1648, 1649. Repealed.
 
 1649a. Repealed.
 

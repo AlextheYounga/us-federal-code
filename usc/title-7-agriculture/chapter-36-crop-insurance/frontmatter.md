@@ -30,6 +30,8 @@ Sec.
 
 1508c. Peanut revenue crop insurance.
 
+1508d. Coverage for forage and grazing.
+
 1509. Exemption of indemnities from levy.
 
 1510. Deposit and investment of funds; Federal Reserve banks as fiscal agents.

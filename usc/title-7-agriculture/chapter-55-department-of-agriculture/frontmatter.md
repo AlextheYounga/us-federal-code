@@ -26,6 +26,10 @@ Sec.
 
 2204b–1. Rural development.
 
+2204b–2. Temporary prioritization of rural health assistance.
+
+2204b–3. Council on Rural Community Innovation and Economic Development.
+
 2204c. Water management for rural areas.
 
 2204d. Encouragement of private contracting.
@@ -37,6 +41,10 @@ Sec.
 2204g. Authority of Secretary of Agriculture to conduct census of agriculture.
 
 2204h. Local food production and program evaluation.
+
+2204i. Reports on land access and farmland ownership data collection.
+
+2204j. National agriculture imagery program.
 
 2205. Duties of former Commissioner of Agriculture transferred to Secretary.
 
@@ -53,6 +61,8 @@ Sec.
 2207b. Program metrics.
 
 2207c. Annual report on work of agricultural experiment stations and of college extension work; publication and distribution.
+
+2207d. Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University.
 
 2208. Expenditure of appropriations; accounting.
 
@@ -236,6 +246,10 @@ Sec.
 
 2266. Congressional reaffirmation of policy to foster and encourage family farms.
 
+2266a. Century Farms program.
+
+2266b. Eligibility for operators on heirs property land to obtain a farm number.
+
 2267. Repealed.
 
 2268. Public lands; relinquishment.
@@ -274,7 +288,7 @@ Sec.
 
 2278. Consistency with international obligations of United States.
 
-2279. Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers.
+2279. Farming opportunities training and outreach.
 
 2279–1. Transparency and accountability for socially disadvantaged farmers and ranchers.
 
@@ -297,3 +311,7 @@ Sec.
 2279h. Cross-servicing activities of National Finance Center.
 
 2279i. Cooperation with State and other agencies; expenditures.
+
+2279j. Conversion authority.
+
+2279k. Authorization of protection operations for the Secretary of Agriculture and others.

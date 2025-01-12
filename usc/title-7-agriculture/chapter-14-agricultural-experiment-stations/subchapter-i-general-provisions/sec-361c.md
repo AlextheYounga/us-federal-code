@@ -68,15 +68,9 @@ In making payments to States, the Secretary of Agriculture is authorized to adju
 
 If in any year the amount made available by a State from its own funds (including any revenue-sharing funds) to a State agricultural experiment station is reduced because of an increase in the allotment made available under sections 361a to 361i of this title, the allotment to the State agricultural experiment station from the appropriation in the next succeeding fiscal year shall be reduced in an equivalent amount. The Secretary shall reapportion the amount of such reduction to other States for use by their agricultural experiment stations.
 
-#### (h) Peer review and plan of work ####
+#### (h) Peer review ####
 
-#### (1) Peer review ####
-
-Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of section 7613(e) of this title.
-
-#### (2) Plan of work ####
-
-The State shall include in the plan of work of the State required under section 361g of this title a description of the manner in which the State will meet the requirements of subsection (c)(3).
+Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this subsection shall be considered to satisfy the merit review requirements of section 7613(e) of this title.
 
 #### (i) Integration of research and extension ####
 
@@ -102,10 +96,6 @@ Of the Federal formula funds that are paid to each State for fiscal year 2000 an
 
 The Secretary of Agriculture may reduce the minimum percentage required to be expended by a State for integrated activities under subparagraph (B) in a case of hardship, infeasibility, or other similar circumstance beyond the control of the State, as determined by the Secretary.
 
-#### (D) Plan of work ####
-
-The State shall include in the plan of work of the State required under section 361g of this title or section 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph.
-
 #### (3) Applicability ####
 
 This subsection does not apply to funds provided—
@@ -120,7 +110,7 @@ This subsection does not apply to funds provided—
 
 Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
 
-(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(l), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) [title VII, §753(d)], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008.)
+(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(l), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) [title VII, §753(d)], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 115–334, title VII, §7612(b)(1), Dec. 20, 2018, 132 Stat. 4832.)
 
 #### References in Text ####
 
@@ -133,6 +123,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Prior to being amended generally by act Aug. 11, 1955, ch. 790, §1, 69 Stat. 671, section 3 of act Mar. 2, 1887, which comprises this section, consisted of two sentences. The first sentence was classified to former section 368 of this title. The second sentence was superseded by act Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, which was classified to former section 366 of this title and was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674.
 
 #### Amendments ####
+
+**2018**—Subsec. (h). Pub. L. 115–334, §7612(b)(1)(A), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to peer review and plan of work.
+
+Subsec. (i)(2)(D). Pub. L. 115–334, §7612(b)(1)(B), struck out subpar. (D). Prior to amendment, text read as follows: "The State shall include in the plan of work of the State required under section 361g of this title or section 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph."
 
 **2008**—Subsec. (d)(4). Pub. L. 110–246, §7404(a)(1), inserted "and the District of Columbia" after "areas" in heading.
 

@@ -42,11 +42,37 @@ No State or local governmental agency or person other than an authorized employe
 
 #### (2) Geographic boundaries for official agencies ####
 
-Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—
+#### (A) In general ####
 
-(A) the current designated official agency for that geographic area is unable to provide weighing services in a timely manner; or
+Subject to subparagraph (B), not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary.
 
-(B) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+#### (B) Exceptions ####
+
+If the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—
+
+(i) the current designated official agency for that geographic area is unable to provide weighing services in a timely manner;
+
+(ii) a person requesting weighing services in that geographic area has not been receiving official weighing services from the current designated official agency for that geographic area; or
+
+(iii) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+
+#### (C) Restoration of certain exceptions ####
+
+#### (i) Definition of eligible grain handling facility ####
+
+In this subparagraph, the term "eligible grain handling facility" means a grain handling facility that—
+
+(I) was granted an exception under the final rule entitled "Exceptions to Geographic Areas for Official Agencies Under the USGSA" (68 Fed. Reg. 19137 (April 18, 2003)); and
+
+(II) had that exception revoked between September 30, 2015 and December 20, 2018.
+
+#### (ii) Restoration of exceptions ####
+
+Within 90 days of notification from an eligible grain handling facility, the Secretary shall restore an exception described in clause (i)(I) with an official agency if—
+
+(I) the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
+
+(II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of December 20, 2018.
 
 #### (j) Authority under United States Warehouse Act not limited ####
 
@@ -74,13 +100,15 @@ The representatives of the Secretary shall be afforded access to any elevator, w
 
 (4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2020. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. B, §7A, as added Pub. L. 94–582, §9, Oct. 21, 1976, 90 Stat. 2875; amended Pub. L. 95–113, title XVI, §§1602(b), 1604(e), 1606(e), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(2), Aug. 13, 1981, 95 Stat. 371; Pub. L. 100–518, §2(2), Oct. 24, 1988, 102 Stat. 2585; Pub. L. 103–156, §§4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, 107 Stat. 1526, 1528, 1530; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(b), 103(b), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(3)(B), (c), Sept. 30, 2015, 129 Stat. 518, 519.)
+(Aug. 11, 1916, ch. 313, pt. B, §7A, as added Pub. L. 94–582, §9, Oct. 21, 1976, 90 Stat. 2875; amended Pub. L. 95–113, title XVI, §§1602(b), 1604(e), 1606(e), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(2), Aug. 13, 1981, 95 Stat. 371; Pub. L. 100–518, §2(2), Oct. 24, 1988, 102 Stat. 2585; Pub. L. 103–156, §§4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, 107 Stat. 1526, 1528, 1530; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(b), 103(b), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(3)(B), (c), Sept. 30, 2015, 129 Stat. 518, 519; Pub. L. 115–334, title XII, §12610(b), Dec. 20, 2018, 132 Stat. 5012.)
 
 #### References in Text ####
 
 The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 #### Amendments ####
+
+**2018**—Subsec. (i)(2). Pub. L. 115–334 inserted subpar. (A) designation and heading before "Not more" and subpar. (B) designation and heading before "the Secretary determines" in introductory provisions, substituted "Subject to subparagraph (B), not more" for "Not more" and "Secretary." for "Secretary, except that, if" in subpar. (A) and "If the Secretary determines" for "the Secretary determines" in subpar. (B), redesignated former subpars. (A) and (B) as cls. (i) and (iii), respectively, of subpar. (B), struck out "or" at end of cl. (i) of subpar. (B), added cl. (ii) of subpar. (B) and subpar. (C), and realigned margins.
 
 **2015**—Subsec. (c)(2). Pub. L. 114–54, §301(c)(1), substituted "subsections (e) and (g) of section 79" for "subsection (g) of section 79".
 

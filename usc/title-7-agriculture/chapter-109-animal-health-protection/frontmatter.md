@@ -18,7 +18,7 @@ Sec.
 
 8308. Detection, control, and eradication of diseases and pests.
 
-8308a. National animal health laboratory network.
+8308a. Animal disease prevention and management.
 
 8309. Veterinary accreditation program.
 

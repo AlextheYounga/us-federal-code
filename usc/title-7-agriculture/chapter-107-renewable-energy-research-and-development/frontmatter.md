@@ -8,7 +8,7 @@ Sec.
 
 8103. Biorefinery, renewable chemical, and biobased product manufacturing assistance.
 
-8104. Repowering assistance.
+8104. Repealed.
 
 8105. Bioenergy program for advanced biofuels.
 
@@ -20,7 +20,7 @@ Sec.
 
 8108. Biomass research and development.
 
-8109. Rural Energy Self-Sufficiency Initiative.
+8109. Repealed.
 
 8110. Feedstock flexibility program for bioenergy producers.
 
@@ -28,9 +28,11 @@ Sec.
 
 8112. Repealed.
 
-8113. Community wood energy program.
+8113. Community Wood Energy and Wood Innovation Program.
 
 8114. Sun grant program.
+
+8115. Carbon utilization and biogas education program.
 
 #### Codification ####
 

@@ -38,9 +38,9 @@ Sec.
 
 2109. General provisions.
 
-2109a. Competitive allocation of funds to State foresters or equivalent State officials.
+2109a. State and private forest landscape-scale restoration program.
 
-2109b. Competitive allocation of funds for cooperative forest innovation partnership projects.
+2109b. Repealed.
 
 2110. Statement of limitation.
 

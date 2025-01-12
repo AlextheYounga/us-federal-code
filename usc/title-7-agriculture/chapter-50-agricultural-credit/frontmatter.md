@@ -26,7 +26,7 @@ Sec.
 
 1926d. Water systems for rural and Native villages in Alaska.
 
-1926e. Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes.
+1926e. Rural decentralized water systems.
 
 1926f. Contracts with not-for-profit third parties.
 
@@ -61,6 +61,8 @@ Sec.
 1936a. Use of rural development loans and grants for other purposes.
 
 1936b. Intermediary relending program.
+
+1936c. Relending program to resolve ownership and succession on farmland.
 
 #### SUBCHAPTER II—OPERATING LOANS ####
 
@@ -144,6 +146,8 @@ Sec.
 
 1990. Transfer of lands to Secretary.
 
+1990a. Refinancing of certain rural hospital debt.
+
 1991. Definitions.
 
 1992. Loan limitations.
@@ -194,7 +198,11 @@ Sec.
 
 2008. Rural development and farm loan program activities.
 
-2008a to 2008c. Repealed.
+2008a. Equitable relief.
+
+2008b. Socially disadvantaged farmers and ranchers; qualified beginning farmers and ranchers.
+
+2008c. Rural Business-Cooperative Service programs technical assistance and training.
 
 2008d. Recordkeeping of loans by borrower's gender.
 
@@ -216,25 +224,27 @@ Sec.
 
 2008m. National Rural Development Partnership.
 
-2008n. Rural telework.
-
-2008o. Historic barn preservation.
+2008n, 2008o. Repealed.
 
 2008p. Grants for NOAA weather radio transmitters.
 
-2008q. Grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops.
+2008q. Repealed.
 
 2008q–1. Grants to improve supply, stability, safety, and training of agricultural labor force.
 
-2008r. Delta region agricultural economic development.
+2008r. Repealed.
 
 2008s. Rural microentrepreneur assistance program.
 
-2008t. Grants for expansion of employment opportunities for individuals with disabilities in rural areas.
+2008t. Repealed.
 
 2008u. Health care services.
 
 2008v. Strategic economic and community development.
+
+2008w. Rural Innovation Stronger Economy Grant Program.
+
+2008x. Reporting.
 
 #### SUBCHAPTER V—RURAL COMMUNITY ADVANCEMENT PROGRAM ####
 
@@ -372,21 +382,7 @@ Sec.
 
 #### SUBCHAPTER IX—RURAL COLLABORATIVE INVESTMENT PROGRAM ####
 
-2009dd. Purpose.
-
-2009dd–1. Definitions.
-
-2009dd–2. Establishment and administration of Rural Collaborative Investment Program.
-
-2009dd–3. Regional Rural Investment Boards.
-
-2009dd–4. Regional investment strategy grants.
-
-2009dd–5. Regional innovation grants program.
-
-2009dd–6. Rural endowment loans program.
-
-2009dd–7. Authorization of appropriations.
+2009dd to 2009dd–7. Repealed.
 
 #### SUBCHAPTER X—SEARCH GRANTS FOR SMALL COMMUNITIES ####
 

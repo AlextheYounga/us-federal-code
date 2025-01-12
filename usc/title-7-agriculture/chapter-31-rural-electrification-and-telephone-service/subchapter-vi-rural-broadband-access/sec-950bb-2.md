@@ -1,37 +1,49 @@
-### §950bb–2. Rural Gigabit Network Pilot Program ###
+### §950bb–2. Innovative Broadband Advancement Program ###
 
-#### (a) Definition of ultra-high speed service ####
+#### (a) In general ####
 
-In this section, the term "ultra-high speed service" means broadband service operating at a 1 gigabit per second downstream transmission capacity.
+The Secretary shall establish a program to be known as the "Innovative Broadband Advancement Program", under which the Secretary may provide a grant, a loan, or both to an eligible entity for the purpose of demonstrating innovative broadband technologies or methods of broadband deployment that significantly decrease the cost of broadband deployment, and provide substantially faster broadband speeds than are available, in a rural area.
 
-#### (b) Pilot program ####
+#### (b) Rural area ####
 
-The Secretary shall establish a pilot program to be known as the "Rural Gigabit Network Pilot Program", under which the Secretary may, at the discretion of the Secretary, provide grants, loans, or loan guarantees to eligible entities.
+In this section, the term "rural area" has the meaning provided in section 950bb(b)(3) of this title.
 
 #### (c) Eligibility ####
 
-#### (1) In general ####
+To be eligible to obtain assistance under this section for a project, an entity shall—
 
-To be eligible to obtain assistance under this section, an entity shall—
+(1) submit to the Secretary an application—
 
-(A) demonstrate to the Secretary the ability to furnish or extend ultra-high speed service to a rural area;
+(A) that describes a project designed to decrease the cost of broadband deployment, and substantially increase broadband speed to not less than the maximum <sup><a href="#950bb-2_1_target" name="950bb-2_1">1</a></sup> broadband buildout requirements established under section 950bb(e)(4) of this title, in a rural area to be served by the project; and
 
-(B) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require;
+(B) at such time, in such manner, and containing such other information as the Secretary may require;
 
-(C) not already provide ultra-high speed service to a rural area within any State in the proposed service territory; and
+(2) demonstrate that the entity is able to carry out the project; and
 
-(D) agree to complete buildout of ultra-high speed service by not later than 3 years after the initial date on which assistance under this section is made available.
+(3) agree to complete the project build-out within 5 years after the date the assistance is first provided for the project.
 
-#### (2) Eligible projects ####
+#### (d) Prioritization ####
 
-Assistance under this section may only be used to carry out a project in a proposed service territory if—
+In awarding assistance under this section, the Secretary shall give priority to proposals for projects that—
 
-(A) the proposed service territory is a rural area; and
+(1) involve partnerships between or among multiple entities;
 
-(B) ultra-high speed service is not provided in any part of the proposed service territory.
+(2) would provide broadband service to the greatest number of rural entities at or above the broadband requirements referred to in subsection (c)(1)(A); and
 
-#### (d) Authorization of appropriations ####
+(3) the Secretary determines could be replicated in rural areas described in paragraph (2).
 
-There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2018.
+#### (e) Authorization of appropriations ####
 
-(May 20, 1936, ch. 432, title VI, §603, as added Pub. L. 113–79, title VI, §6105, Feb. 7, 2014, 128 Stat. 856.)
+There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
+
+(May 20, 1936, ch. 432, title VI, §603, as added Pub. L. 113–79, title VI, §6105, Feb. 7, 2014, 128 Stat. 856; amended Pub. L. 115–334, title VI, §6203, Dec. 20, 2018, 132 Stat. 4736.)
+
+#### Amendments ####
+
+**2018**—Pub. L. 115–334, §6203(1), substituted "Innovative Broadband Advancement" for "Rural Gigabit Network Pilot" in section catchline.
+
+Subsecs. (a) to (d). Pub. L. 115–334, §6203(4), added subsecs. (a) to (d) and struck out former subsecs. (a) to (c) which defined "ultra-high speed service", established the Rural Gigabit Network Pilot Program, and set out eligibility requirements for participation in Program, respectively. Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 115–334, §6203(2), (3), redesignated subsec. (d) as (e) and substituted "2019 through 2023" for "2014 through 2018".
+
+[<sup>1</sup> So in original. Probably should be "minimum".](#950bb-2_1)

@@ -40,9 +40,11 @@ Sec.
 
 3831. Conservation reserve.
 
-3831a. Repealed.
+3831a. Conservation reserve enhancement program.
 
 3831b. Farmable wetland program.
+
+3831c. Pilot programs.
 
 3832. Duties of owners and operators.
 
@@ -62,23 +64,11 @@ Sec.
 
 #### subpart a—conservation security program ####
 
-3838. Definitions.
-
-3838a. Conservation security program.
-
-3838b. Duties of producers.
-
-3838c. Duties of the Secretary.
+3838 to 3838c. Repealed.
 
 #### subpart b—conservation stewardship program ####
 
-3838d. Definitions.
-
-3838e. Conservation stewardship program.
-
-3838f. Stewardship contracts.
-
-3838g. Duties of the Secretary.
+3838d to 3838g. Transferred.
 
 #### subpart c—farmland protection program ####
 
@@ -92,7 +82,9 @@ Sec.
 
 3839 to 3839d. Repealed.
 
-#### Part IV—Environmental Quality Incentives Program ####
+#### Part IV—Environmental Quality Incentives Program and Conservation Stewardship Program ####
+
+#### subpart a—environmental quality incentives program ####
 
 3839aa. Purposes.
 
@@ -113,6 +105,18 @@ Sec.
 3839aa–8. Conservation innovation grants and payments.
 
 3839aa–9. Repealed.
+
+#### subpart b—conservation stewardship program ####
+
+3839aa–21. Definitions.
+
+3839aa–22. Conservation stewardship program.
+
+3839aa–23. Stewardship contracts.
+
+3839aa–24. Duties of the Secretary.
+
+3839aa–25. Grassland conservation initiative.
 
 #### Part V—Other Conservation Programs ####
 
@@ -142,9 +146,11 @@ Sec.
 
 3846. Regulations.
 
+3847. Data on conservation practices.
+
 #### SUBCHAPTER V–A—OTHER CONSERVATION PROGRAMS ####
 
-3851. Agriculture conservation experienced services program.
+3851. Experienced services program.
 
 3851a. Forest Service participation in ACES Program.
 

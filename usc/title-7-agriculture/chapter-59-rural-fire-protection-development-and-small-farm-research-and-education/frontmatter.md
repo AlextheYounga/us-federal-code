@@ -31,3 +31,5 @@ Sec.
 2669. Pilot projects for production and marketing of industrial hydrocarbons and alcohols from agricultural commodities and forest products.
 
 2670. Repealed.
+
+2671. Establishment of technical assistance program.

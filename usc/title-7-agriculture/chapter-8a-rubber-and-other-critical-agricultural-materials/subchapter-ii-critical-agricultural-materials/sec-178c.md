@@ -24,7 +24,7 @@ The Secretary of Agriculture shall conduct, sponsor, promote, and coordinate bas
 
 (8) establishing and maintaining a bank of all pertinent research data on native latex including extant United States Government publications and records from the emergency rubber project. Such data shall be made available to other Federal and State agencies and private persons who are interested or involved in native latex research, development, or manufacture; and
 
-(9) studying the economic feasibility of developing other native agricultural crops (in addition to Parthenium and other hydrocarbon-containing plants) that would supply critical agricultural materials for strategic and industrial purposes, carrying out demonstration projects to promote the development or commercialization of such crops (including projects designed to expand domestic or foreign markets for such crops), and, to the extent appropriate, carrying out research activities with respect to such crops in the manner specified in paragraphs (1) through (8).
+(9) studying the economic feasibility of developing other native agricultural crops (in addition to Parthenium and other hydrocarbon-containing plants, and including hemp (as defined in section 1639o of this title)) that would supply critical agricultural materials for strategic and industrial purposes, carrying out demonstration projects to promote the development or commercialization of such crops (including projects designed to expand domestic or foreign markets for such crops), and, to the extent appropriate, carrying out research activities with respect to such crops in the manner specified in paragraphs (1) through (8).
 
 #### (c) Office of Critical Agricultural Materials ####
 
@@ -40,9 +40,11 @@ Notwithstanding any other provision of law, in carrying out a demonstration proj
 
 (3) use any funds appropriated pursuant to section 178n(a) of this title, or any funds provided by any person, or public or private agency or organization, to carry out such project or reimburse the Commodity Credit Corporation for agricultural commodities or products that are utilized in connection with such project.
 
-(Pub. L. 95–592, §5, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, §5, May 16, 1984, 98 Stat. 182; Pub. L. 99–198, title XIV, §1439, Dec. 23, 1985, 99 Stat. 1559; Pub. L. 102–237, title X, §1005(1), Dec. 13, 1991, 105 Stat. 1894.)
+(Pub. L. 95–592, §5, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, §5, May 16, 1984, 98 Stat. 182; Pub. L. 99–198, title XIV, §1439, Dec. 23, 1985, 99 Stat. 1559; Pub. L. 102–237, title X, §1005(1), Dec. 13, 1991, 105 Stat. 1894; Pub. L. 115–334, title VII, §7501(a), Dec. 20, 2018, 132 Stat. 4819.)
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(9). Pub. L. 115–334 inserted ", and including hemp (as defined in section 1639o of this title)" after "hydrocarbon-containing plants".
 
 **1991**—Subsec. (b)(9). Pub. L. 102–237 substituted "industrial purposes," for "industrial purposes,,".
 

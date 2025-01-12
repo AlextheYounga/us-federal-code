@@ -4,15 +4,45 @@
 
 #### (1) In general ####
 
+#### (A) Development and promotion of program ####
+
 The Secretary shall develop and promote a program to encourage borrowers to voluntarily make deposits into cushion of credit accounts established within the Rural Electrification and Telephone Revolving Fund.
+
+#### (B) Termination ####
+
+Effective on December 20, 2018, no deposits may be made under subparagraph (A).
 
 #### (2) Interest ####
 
+#### (A) In general ####
+
 Amounts in each cushion of credit account shall accrue interest to the borrower at a rate of 5 percent per annum.
+
+#### (B) Reduction ####
+
+Notwithstanding subparagraph (A), amounts in each cushion of credit account shall accrue interest to the borrower at a rate equal to—
+
+(i) 4 percent per annum in fiscal year 2021; and
+
+(ii) the then applicable 1-year Treasury rate thereafter.
 
 #### (3) Balance ####
 
+#### (A) In general ####
+
 A borrower may reduce the balance of its cushion of credit account only if the amount obtained from the reduction is used to make scheduled payments on loans made or guaranteed under this chapter.
+
+#### (B) Prepayment ####
+
+Notwithstanding subparagraph (A) and subject to subparagraph (C), beginning on December 20, 2018, and ending with September 30, 2020, a borrower may, at the sole discretion of the borrower, reduce the balance of its cushion of credit account if the amount obtained from the reduction is used to prepay loans made or guaranteed under this chapter.
+
+#### (C) No prepayment premium ####
+
+Notwithstanding any other provision of this chapter, no prepayment premium shall be imposed or collected with respect to that portion of a loan that is prepaid by a borrower in accordance with subparagraph (B).
+
+#### (D) Mandatory funding ####
+
+Notwithstanding section 661c of title 2, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall make available such sums as necessary to cover any loan modification costs as defined in section 661a of title 2.
 
 #### (b) Uses of cushion of credit payments ####
 
@@ -32,28 +62,18 @@ The amount of interest accrued on the cash balances shall be credited to the Fun
 
 #### (2) Rural economic development subaccount ####
 
-#### (A) Maintenance of account ####
+The Secretary shall maintain a subaccount within the Rural Electrification and Telephone Revolving Fund to which shall be credited, on a monthly basis, a sum determined by multiplying the outstanding cushion of credit payments made after October 1, 1987, by the difference (converted to a monthly basis) between the average weighted interest rate paid on outstanding certificates of beneficial ownership issued by the Fund and 5 percent.
 
-The Secretary shall maintain a subaccount within the Rural Electrification and Telephone Revolving Fund to which shall be credited, on a monthly basis, a sum determined by multiplying the outstanding cushion of credit payments made after October 1, 1987, by the difference (converted to a monthly basis) between the average weighted interest rate paid on outstanding certificates of beneficial ownership issued by the Fund and the 5 percent rate of interest provided to borrowers on cushion of credit payments.
-
-#### (B) Grants ####
-
-The Secretary is authorized, from the interest differential sums credited this subaccount and from any other funds made available thereto, to provide grants or zero interest loans to borrowers under this chapter for the purpose of promoting rural economic development and job creation projects, including funding for project feasibility studies, start-up costs, incubator projects, and other reasonable expenses for the purpose of fostering rural development.
-
-#### (C) Repayments ####
-
-In the case of zero interest loans, the Secretary shall establish such reasonable repayment terms as will ensure borrower participation.
-
-#### (D) Proceeds ####
-
-All proceeds from the repayment of such loans shall be returned to the subaccount.
-
-#### (E) Number of grants ####
-
-Such loans and grants shall be made during each fiscal year to the full extent of the amounts held by the rural economic development subaccount, subject only to limitations as may be from time-to-time imposed by law.
-
-(May 20, 1936, ch. 432, title III, §313, as added Pub. L. 100–203, title I, §1403, Dec. 22, 1987, 101 Stat. 1330–21; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §313, as added Pub. L. 100–203, title I, §1403, Dec. 22, 1987, 101 Stat. 1330–21; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 115–334, title VI, §§6503, 6504(b), Dec. 20, 2018, 132 Stat. 4772, 4773.)
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(1). Pub. L. 115–334, §6503(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (a)(2). Pub. L. 115–334, §6503(2), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (a)(3). Pub. L. 115–334, §6503(3), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (b)(2). Pub. L. 115–334, §6504(b), struck out subpar. (A) designation and heading before "The Secretary shall", substituted "5 percent." for "the 5 percent rate of interest provided to borrowers on cushion of credit payments.", and struck out subpars. (B) to (E) which related to grants, repayments, proceeds, and number of grants, respectively.
 
 **1994**—Subsecs. (a)(1), (b)(2)(A) to (C). Pub. L. 103–354 substituted "Secretary" for "Administrator".

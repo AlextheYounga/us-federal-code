@@ -2,10 +2,4 @@
 
 Sec.
 
-1401. Authorization of loans by Governor of Farm Credit Administration; regulations.
-
-1402. Limitations on loans; financial structure of corporation, approval.
-
-1403. Minimum paid-in capital stock required to warrant loans.
-
-1404. Authorization of appropriations; revolving fund.
+1401 to 1404. Repealed.

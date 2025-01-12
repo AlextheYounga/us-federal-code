@@ -30,6 +30,8 @@ Sec.
 
 1725a. Direct hire authority.
 
+1725b. Forest Service hire authority.
+
 1726. Living allowances and terms of service.
 
 1727. National service educational awards.

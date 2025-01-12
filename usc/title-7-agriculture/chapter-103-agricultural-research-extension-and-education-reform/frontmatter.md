@@ -70,6 +70,10 @@ Sec.
 
 7655b. Forestry products advanced utilization research.
 
+7655c. Clarification of research and development program for wood building construction.
+
+7655d. Wood innovation grant program.
+
 7656. Designation of Crisis Management Team within Department.
 
 7657. Senior Scientific Research Service.

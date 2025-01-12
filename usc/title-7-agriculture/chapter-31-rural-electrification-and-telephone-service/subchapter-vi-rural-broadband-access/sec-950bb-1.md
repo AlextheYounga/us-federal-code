@@ -1,54 +1,78 @@
-### §950bb–1. National Center for Rural Telecommunications Assessment ###
+### §950bb–1. Expansion of middle mile infrastructure into rural areas ###
 
-#### (a) Designation of Center ####
+#### (a) Purpose ####
 
-The Secretary shall designate an entity to serve as the National Center for Rural Telecommunications Assessment (referred to in this section as the "Center").
+The purpose of this section is to encourage the expansion and extension of middle mile broadband infrastructure to connect underserved rural areas to the backbone of the Internet.
 
-#### (b) Criteria ####
+#### (b) Middle mile infrastructure ####
 
-In designating the Center under subsection (a), the Secretary shall take into consideration the following criteria:
+For the purposes of this section, the term "middle mile infrastructure" means any broadband infrastructure that does not connect directly to end-user locations (including anchor institutions) and may include interoffice transport, backhaul, Internet connectivity, data centers, or special access transport to rural areas.
 
-(1) The Center shall be an entity that demonstrates to the Secretary—
+#### (c) Grants, loans, and loan guarantees ####
 
-(A) a focus on rural policy research; and
+The Secretary shall make grants, loans, and loan guarantees to eligible applicants described in subsection (d) to provide funds for the construction, improvement, or acquisition of middle mile infrastructure to serve rural areas.
 
-(B) a minimum of 5 years of experience relating to rural telecommunications research and assessment.
+#### (d) Eligibility ####
 
-(2) The Center shall be capable of assessing broadband services in rural areas.
+#### (1) Eligible applicants ####
 
-(3) The Center shall have significant experience involving other rural economic development centers and organizations with respect to the assessment of rural policies and the formulation of policy solutions at the Federal, State, and local levels.
+#### (A) In general ####
 
-#### (c) Board of directors ####
+To be eligible to obtain assistance under this section, an eligible entity shall—
 
-The Center shall be managed by a board of directors, which shall be responsible for the duties of the Center described in subsection (d).
+(i) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require;
 
-#### (d) Duties ####
+(ii) agree to complete build-out of the middle mile infrastructure described in the application by not later than 5 years after the initial date on which proceeds from the assistance provided under this section are made available; and
 
-The Center shall—
+(iii) submit to the Secretary a plan to ensure the viability of the project by—
 
-(1) assess the effectiveness of programs carried out under this subchapter in increasing broadband penetration and purchase in rural areas, especially in rural communities identified by the Secretary as having no broadband service before the provision of a loan or loan guarantee under this subchapter;
+(I) connecting, assisting with connecting, or enabling the connection of retail broadband systems that serve rural areas within the proposed service territory to the middle mile infrastructure project in an affordable and economically competitive manner;
 
-(2) work with existing rural development centers selected by the Center to identify policies and initiatives at the Federal, State, and local levels that have increased broadband penetration and purchase in rural areas and provide recommendations to Federal, State, and local policymakers on effective strategies to bring affordable broadband services to residents of rural areas, particularly residents located outside of the municipal boundaries of a rural city or town; and
+(II) leasing or selling sufficient capacity prior to project approval; and
 
-(3) develop and publish reports describing the activities carried out by the Center under this section.
+(III) complying with any other requirements imposed by the Secretary.
 
-#### (e) Reporting requirements ####
+#### (B) Additional end user broadband programs ####
 
-Not later than December 1 of each applicable fiscal year, the board of directors of the Center shall submit to Congress and the Secretary a report describing the activities carried out by the Center during the preceding fiscal year and the results of any research conducted by the Center during that fiscal year, including—
+Entities that receive assistance to construct, improve, or acquire middle mile infrastructure under this section shall be eligible to apply for additional funds under this subchapter to provide for retail broadband service to end users.
 
-(1) an assessment of each program carried out under this subchapter; and
+#### (2) Eligible service territories ####
 
-(2) an assessment of the effects of the policy initiatives identified under subsection (d)(2).
+The proceeds of assistance provided under this section may be used to carry out a project in a proposed service territory only if, as of the date the application for assistance under this section is submitted, there is not adequate middle mile infrastructure available to support broadband service for eligible rural communities that would be provided access to the middle mile infrastructure.
 
-#### (f) Authorization of appropriations ####
+#### (3) Eligible projects ####
 
-There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2012.
+A project shall be eligible for assistance under this section if at the time of the application—
 
-(May 20, 1936, ch. 432, title VI, §602, as added Pub. L. 110–234, title VI, §6111, May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6111, June 18, 2008, 122 Stat. 1664, 1965.)
+(A) at least 75 percent of the interconnection points serve such eligible rural areas; and
+
+(B) the Secretary determines that the proposed middle mile network will be capable of supporting retail broadband service meeting the maximum broadband buildout requirement established under section 950bb(e)(4) of this title for the residents within the proposed service territory.
+
+#### (e) Limitation on grants ####
+
+In making grants under this section, the Secretary shall—
+
+(1) not provide any grant in excess of 20 percent of the total project cost; and
+
+(2) provide grants only to those projects which serve rural areas where population density or geographic characteristics make it infeasible to construct middle mile broadband systems without grant assistance.
+
+#### (f) Terms, conditions, and adequacy of security ####
+
+All loans and loan guarantees provided under this section shall be made subject to such terms, conditions, and adequacy of security requirements as may be imposed by the Secretary. If the middle mile infrastructure would not provide adequate security due to long-term leasing arrangements, the Secretary shall require substitute security in such form and substance as are acceptable to the Secretary.
+
+#### (g) Authorization of appropriations ####
+
+There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2018 through 2023.
+
+(May 20, 1936, ch. 432, title VI, §602, as added Pub. L. 110–234, title VI, §6111, May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6111, June 18, 2008, 122 Stat. 1664, 1965; amended Pub. L. 115–334, title VI, §6202, Dec. 20, 2018, 132 Stat. 4734.)
 
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments ####
+
+**2018**—Pub. L. 115–334 amended section generally. Prior to amendment, section related to National Center for Rural Telecommunications Assessment.
 
 #### Effective Date ####
 

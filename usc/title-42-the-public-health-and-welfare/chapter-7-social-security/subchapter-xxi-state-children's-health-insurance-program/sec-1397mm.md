@@ -94,7 +94,7 @@ The term "eligible entity" means any of the following:
 
 The term "Federal health safety net organization" means—
 
-(A) a Federally-qualified health center (as defined in section 3196d(l)(2)(B) of this title);
+(A) a Federally-qualified health center (as defined in section 1396d(l)(2)(B) of this title);
 
 (B) a hospital defined as a disproportionate share hospital for purposes of section 1396r–4 of this title;
 

@@ -2,13 +2,17 @@
 
 Sec.
 
-2201. Payments to agricultural producers for carrying out wind erosion control or rehabilitation measures; criteria.
+2201. Emergency conservation program.
 
 2202. Payments to agricultural producers for carrying out water conservation or water enhancing measures; criteria.
 
-2203. Emergency measures.
+2202a. Cost-share requirement.
 
-2204. Authorization of appropriations; availability of funds; implementation of provisions; limitations on expenditures.
+2202b. Payment limitation.
+
+2203. Emergency watershed program.
+
+2204. Funding and administration.
 
 2205. Regulations for implementation of provisions.
 

@@ -36,7 +36,9 @@ Sec.
 
 7516. Settlement and adjustment of claims.
 
-7517. Food insecurity nutrition incentive.
+7517. The Gus Schumacher nutrition incentive program.
+
+7518. Micro-grants for food security.
 
 #### Codification ####
 

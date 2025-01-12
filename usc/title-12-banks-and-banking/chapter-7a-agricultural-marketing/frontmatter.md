@@ -4,25 +4,13 @@ Sec.
 
 1141. Declaration of policy; effective merchandising of agricultural commodities; speculation; cooperative marketing; surpluses; administration of chapter.
 
-1141a. Repealed.
-
-1141b. General powers of Farm Credit Administration.
-
-1141c. Special powers of administration.
-
-1141d. Revolving fund.
-
-1141d–1. Interest rates on loans made from revolving fund.
-
-1141e. Loans to cooperative associations.
-
-1141f. Miscellaneous loan provisions.
+1141a to 1141f. Repealed.
 
 1141g. Omitted.
 
 1141h. Avoidance of duplication; cooperation with other governmental establishments; obtaining information and data; cooperation with States, Territories, and agencies or subdivisions thereof; indicating research problems; transfer of offices, functions, etc.
 
-1141i. Examination of books and accounts.
+1141i. Repealed.
 
 1141j. Miscellaneous provisions.
 

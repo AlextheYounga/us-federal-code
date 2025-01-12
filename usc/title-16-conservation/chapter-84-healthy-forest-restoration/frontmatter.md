@@ -26,13 +26,15 @@ Sec.
 
 #### SUBCHAPTER II—BIOMASS ####
 
-6531. Biomass commercial utilization grant program.
+6531. Repealed.
 
 #### SUBCHAPTER III—WATERSHED FORESTRY ASSISTANCE ####
 
 6541. Omitted.
 
-6542. Repealed.
+6542. Water Source Protection Program.
+
+6543. Watershed Condition Framework.
 
 #### SUBCHAPTER IV—INSECT INFESTATIONS AND RELATED DISEASES ####
 
@@ -46,7 +48,7 @@ Sec.
 
 6555. Relation to other laws.
 
-6556. Authorization of appropriations.
+6556. Termination of effectiveness.
 
 #### SUBCHAPTER V—HEALTHY FORESTS RESERVE PROGRAM ####
 
@@ -77,3 +79,5 @@ Sec.
 6591c. Stewardship end result contracting projects.
 
 6591d. Wildfire resilience projects.
+
+6591e. Categorical exclusion for greater sage-grouse and mule deer habitat.

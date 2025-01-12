@@ -36,7 +36,7 @@ The proposal shall demonstrate how the agricultural research facility would serv
 
 #### (D) Long-term support ####
 
-The proposal shall demonstrate that the recipient college, university, or nonprofit institution has the ability and commitment to support the long-term, ongoing operating costs of—
+The proposal shall demonstrate that the recipient entity has the ability and commitment to support the long-term, ongoing operating and maintenance costs of—
 
 (i) the agricultural research facility after the facility is completed; and
 
@@ -54,7 +54,7 @@ Not later than 90 days after receiving a proposal under subsection (a), the Secr
 
 The Secretary shall ensure that each research activity conducted by a facility of the Agricultural Research Service serves a national or multistate need.
 
-(Pub. L. 88–74, §3, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1177; amended Pub. L. 105–185, title I, §106(a), (b), June 23, 1998, 112 Stat. 530.)
+(Pub. L. 88–74, §3, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1177; amended Pub. L. 105–185, title I, §106(a), (b), June 23, 1998, 112 Stat. 530; Pub. L. 115–334, title VII, §7503(a)(2), (b), Dec. 20, 2018, 132 Stat. 4821.)
 
 #### Prior Provisions ####
 
@@ -63,6 +63,8 @@ A prior section 390a, Pub. L. 88–74, §2, July 22, 1963, 77 Stat. 90; Pub. L. 
 A prior section 3 of Pub. L. 88–74 was classified to section 390b of this title prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments ####
+
+**2018**—Subsec. (c)(2)(D). Pub. L. 115–334, in introductory provisions, substituted "recipient entity" for "recipient college, university, or nonprofit institution" and "operating and maintenance costs" for "operating costs".
 
 **1998**—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, §106(a), substituted "national or multistate needs" for "regional needs".
 

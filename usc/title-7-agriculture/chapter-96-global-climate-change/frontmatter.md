@@ -16,7 +16,7 @@ Sec.
 
 6707. Urban forestry demonstration projects.
 
-6708. Biomass energy demonstration projects.
+6708. Repealed.
 
 6709. Interagency cooperation to maximize biomass growth.
 

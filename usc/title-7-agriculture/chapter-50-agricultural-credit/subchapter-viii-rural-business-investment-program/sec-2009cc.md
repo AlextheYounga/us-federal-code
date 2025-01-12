@@ -6,9 +6,9 @@ In this subchapter:
 
 The term "articles" means articles of incorporation for an incorporated body or the functional equivalent or other similar documents specified by the Secretary for other business entities.
 
-#### (2) Developmental venture capital ####
+#### (2) Developmental capital ####
 
-The term "developmental venture capital" means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
+The term "developmental capital" means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
 
 #### (3) Employee welfare benefit plan; pension plan ####
 
@@ -26,7 +26,11 @@ The terms "employee welfare benefit plan" and "pension plan" include—
 
 #### (4) Equity capital ####
 
-The term "equity capital" means common or preferred stock or a similar instrument, including subordinated debt with equity features.
+The term "equity capital" means—
+
+(A) common or preferred stock or a similar instrument, including subordinated debt with equity features; and
+
+(B) any other type of equity-like financing that might be necessary to facilitate the purposes of this Act, excluding financing such as senior debt or other types of financing that competes with routine loanmaking of commercial lenders.
 
 #### (5) Leverage ####
 
@@ -136,4 +140,14 @@ The term "smaller enterprise" means any rural business concern that, together wi
 
 (B) satisfies the standard industrial classification size standards established by the Administrator of the Small Business Administration for the industry in which the rural business concern is primarily engaged.
 
-(Pub. L. 87–128, title III, §384A, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 388.)
+(Pub. L. 87–128, title III, §384A, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 388; amended Pub. L. 115–334, title VI, §6426(a), Dec. 20, 2018, 132 Stat. 4770.)
+
+#### References in Text ####
+
+This Act, referred to in par. (4)(B), means Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, known as the Agricultural Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables.
+
+#### Amendments ####
+
+**2018**—Par. (2). Pub. L. 115–334, §6426(a)(1), struck out "venture" after "Developmental" in heading and after " 'developmental" in text.
+
+Par. (4). Pub. L. 115–334, §6426(a)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "The term 'equity capital' means common or preferred stock or a similar instrument, including subordinated debt with equity features."

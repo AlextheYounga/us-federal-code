@@ -10,8 +10,6 @@ Sec.
 
 3004. Direct marketing assistance within the States.
 
-3005. Farmers' Market and Local Food Promotion Program.
-
-3006. Authorization of appropriations.
+3005, 3006. Repealed.
 
 3007. Seniors farmers' market nutrition program.

@@ -20,7 +20,7 @@ Sec.
 
 907. Acquisition of property pledged for loans; disposition; sale of pledged property by borrower.
 
-908. Repealed.
+908. Limitations on use of assistance.
 
 909. Administration on nonpolitical basis; dismissal of officers or employees for violating provision.
 
@@ -56,11 +56,9 @@ Sec.
 
 921. Congressional declaration of policy.
 
-921a. Policy of financing of rural telephone program.
+921a, 921b. Repealed.
 
-921b. Policy of expansion of markets for debentures.
-
-922. Loans for rural telephone service.
+922. Loans for telephone service.
 
 923. State regulation of telephone service.
 
@@ -120,7 +118,9 @@ Sec.
 
 940c–1. Guarantees for bonds and notes issued for electrification or telephone purposes.
 
-940d. Limitations on authorization of appropriations.
+940c–2. Rural development loans and grants.
+
+940d. Repealed.
 
 940e. Expansion of 911 access.
 
@@ -130,33 +130,11 @@ Sec.
 
 940h. Bonding requirements.
 
+940i. Cybersecurity and grid security improvements.
+
 #### SUBCHAPTER IV—RURAL TELEPHONE BANK ####
 
-941. Telephone Bank.
-
-942. General powers.
-
-943. Special provisions governing telephone bank as a Federal agency until conversion of ownership, control, and operation.
-
-944. Governor of telephone bank; functions, powers, and duties.
-
-944a. Publication of rural telephone bank policies and regulations.
-
-945. Board of directors.
-
-946. Capitalization.
-
-947. Borrowing power; telephone debentures; issuance; interest rates; terms and conditions; ratio to paid-in capital and retained earnings; investments in debentures; debentures as security; purchase and sale of debentures by the Secretary of the Treasury; treatment as public debt transactions of the United States; exclusion of transactions from budget totals.
-
-948. Lending power.
-
-949. Telephone bank receipts; availability for obligations and expenditures.
-
-950. Conversion of ownership, control, and operation of telephone bank.
-
-950a. Liquidation or dissolution of telephone bank.
-
-950b. Borrower net worth.
+941 to 950b. Repealed.
 
 #### SUBCHAPTER V—RURAL ECONOMIC DEVELOPMENT ####
 
@@ -168,6 +146,22 @@ Sec.
 
 950bb. Access to broadband telecommunications services in rural areas.
 
-950bb–1. National Center for Rural Telecommunications Assessment.
+950bb–1. Expansion of middle mile infrastructure into rural areas.
 
-950bb–2. Rural Gigabit Network Pilot Program.
+950bb–2. Innovative Broadband Advancement Program.
+
+950bb–3. Community Connect Grant Program.
+
+950bb–4. Outdated broadband systems.
+
+950bb–5. Default and deobligation; deferral.
+
+950bb–6. Federal broadband program coordination.
+
+#### SUBCHAPTER VII—GENERAL AND ADMINISTRATIVE PROVISIONS ####
+
+950cc. Public notice, assessments, and reporting requirements.
+
+950cc–1. Environmental reviews.
+
+950cc–2. Use of loan proceeds to refinance loans for deployment of broadband service.

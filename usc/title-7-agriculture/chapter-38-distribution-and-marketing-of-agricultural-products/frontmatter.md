@@ -30,6 +30,8 @@ Sec.
 
 1627b. National Sheep Industry Improvement Center.
 
+1627c. Local agriculture market program.
+
 1628. Repealed.
 
 1629. Establishment of committees to assist in research and service programs.
@@ -40,11 +42,13 @@ Sec.
 
 1632. Repealed.
 
-1632a. Value-added agricultural product market development grants.
+1632a. Agricultural marketing resource center pilot project.
 
 1632b. Agriculture Innovation Center Demonstration Program.
 
 1632c. Acer access and development program.
+
+1632d. Dairy business innovation initiatives.
 
 1633. Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws.
 
@@ -131,3 +135,15 @@ Sec.
 1639i. Federal preemption.
 
 1639j. Exclusion from Federal preemption.
+
+#### SUBCHAPTER VII—HEMP PRODUCTION ####
+
+1639 o. Definitions.
+
+1639p. State and tribal plans.
+
+1639q. Department of Agriculture.
+
+1639r. Regulations and guidelines; effect on other law.
+
+1639s. Authorization of appropriations.

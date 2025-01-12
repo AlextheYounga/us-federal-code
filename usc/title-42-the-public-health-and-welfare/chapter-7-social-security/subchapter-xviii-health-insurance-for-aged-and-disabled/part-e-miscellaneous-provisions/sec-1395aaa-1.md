@@ -112,7 +112,7 @@ The Secretary shall prioritize for measure development the gaps in quality measu
 
 The Secretary—
 
-(A) during the period beginning on October 24, 2018 and ending on December 31, 2023, shall prioritize the endorsement of measures relating to opioids and opioid use disorders by the entity with a contract under subsection (a) of section 1395aaa of this title in connection with endorsement of measures described in subsection (b)(2) of such section; and
+(A) during the period beginning on October 24, 2018, and ending on December 31, 2023, shall prioritize the endorsement of measures relating to opioids and opioid use disorders by the entity with a contract under subsection (a) of section 1395aaa of this title in connection with endorsement of measures described in subsection (b)(2) of such section; and
 
 (B) on and after January 1, 2024, may prioritize the endorsement of such measures by such entity.
 

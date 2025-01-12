@@ -84,13 +84,35 @@ Official certificates setting out the results of official inspection issued and 
 
 (ii) works with the applicant to address any concerns identified during the consultation process.
 
-(2) Geographic boundaries for official agencies.—Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—
+(2) Geographic boundaries for official agencies.—
 
-(A) the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;
+(A) In general.—Subject to subparagraph (B), not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary.
 
-(B) a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis; or
+(B) Exceptions.—Subject to subsection (g)(4)(A), if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—
 
-(C) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+(i) the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;
+
+(ii) a person requesting inspection services in that geographic area has not been receiving official inspection services from the current designated official agency for that geographic area;
+
+(iii) a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis; or
+
+(iv) the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+
+(C) Termination of nonuse of service exception.—The exception under subparagraph (B)(ii) may only be terminated if all parties to that exception jointly agree on the termination, unless terminated according to subsection (g)(4)(A).
+
+(D) Restoration of certain exceptions.—
+
+(i) Definition of eligible grain handling facility.—In this subparagraph, the term "eligible grain handling facility" means a grain handling facility that—
+
+(I) was granted an exception under the final rule entitled "Exceptions to Geographic Areas for Official Agencies Under the USGSA" (68 Fed. Reg. 19137 (April 18, 2003)); and
+
+(II) had that exception revoked between September 30, 2015, and December 20, 2018.
+
+(ii) Restoration of exceptions.—Within 90 days of notification from an eligible grain handling facility, the Secretary shall restore an exception described in clause (i)(I) with an official agency if—
+
+(I) the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
+
+(II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of enactment of the Agriculture Improvement Act of 2018.
 
 (3) Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
 
@@ -103,6 +125,12 @@ Official certificates setting out the results of official inspection issued and 
 (2) A designation of an official agency may be amended at any time upon application by the official agency if the Secretary determines that the amendment will be consistent with the provisions and objectives of this chapter; and a designation will be cancelled upon request by the official agency with ninety days written notice to the Secretary. A fee as prescribed by regulations of the Secretary shall be paid by the official agency to the Secretary for each such amendment, to cover the costs incurred by the Secretary in connection therewith, and it shall be deposited in the fund created in subsection (j) of this section.
 
 (3) The Secretary may revoke a designation of an official agency whenever, after opportunity for hearing is afforded the agency, the Secretary determines that the agency has failed to meet one or more of the criteria specified in subsection (f) of this section or the regulations under this chapter for the performance of official functions, or otherwise has not complied with any provision of this chapter or any regulation prescribed or instruction issued to such agency under this chapter, or has been convicted of any violation of other Federal law involving the handling or official inspection of grain: *Provided*, That the Secretary may, without first affording the official agency an opportunity for a hearing, suspend any designation pending final determination of the proceeding whenever the Secretary has reason to believe there is cause for revocation of the designation and considers such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford any such agency an opportunity for a hearing within thirty days after temporarily suspending such designation.
+
+(4) Effect on exceptions.—
+
+(A) In general.—The exceptions under clauses (ii) and (iv) of subsection (f)(2)(B) shall not apply if the designation of an official agency is terminated, pursuant to paragraph (1).
+
+(B) Designation renewed or restored.—If the designation of an official agency is renewed or restored after being terminated under paragraph (1), the Secretary may renew or restore the exceptions under subsection (f)(2)(B) in accordance with that subsection.
 
 #### (h) Official inspections at locations other than export port locations when designated official agencies are not available ####
 
@@ -132,7 +160,11 @@ The Secretary is authorized to cause official inspection under this chapter to b
 
 (5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2020. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, §7, 39 Stat. 484; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §8, formerly §8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, §110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, §1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, §2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, §2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(1)–(3)(A), (4), (5), Sept. 30, 2015, 129 Stat. 517, 518.)
+(Aug. 11, 1916, ch. 313, pt. B, §7, 39 Stat. 484; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §8, formerly §8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, §110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, §1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, §2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, §2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(1)–(3)(A), (4), (5), Sept. 30, 2015, 129 Stat. 517, 518; Pub. L. 115–334, title XII, §12610(a), (c), Dec. 20, 2018, 132 Stat. 5011, 5013.)
+
+#### References in Text ####
+
+Within 90 days of enactment of the Agriculture Improvement Act of 2018, referred to in subsec. (f)(2)(D)(ii)(II), means within 90 days of enactment of Pub. L. 115–334, which was approved December 20, 2018.
 
 #### Codification ####
 
@@ -141,6 +173,12 @@ Section as originally enacted was composed of part of section 7 of part B of act
 In subsec. (c), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
+
+**2018**—Subsec. (f)(1)(C). Pub. L. 115–334, §12610(c), realigned margins.
+
+Subsec. (f)(2). Pub. L. 115–334, §12610(a)(1), inserted subpar. (A) designation and heading before "Not more" and subpar. (B) designation and heading before "the Secretary determines" in introductory provisions, substituted "Subject to subparagraph (B), not more" for "Not more" and "Secretary." for "Secretary, except that, if" in subpar. (A) and "Subject to subsection (g)(4)(A), if the Secretary determines" for "the Secretary determines" in introductory provisions of subpar. (B), redesignated former subpars. (A), (B), and (C) as cls. (i), (iii), and (iv), respectively, of subpar. (B), added cl. (ii) of subpar. (B) and subpars. (C) and (D), and realigned margins.
+
+Subsec. (g)(4). Pub. L. 115–334, §12610(a)(2), added par. (4).
 
 **2015**—Subsec. (e)(2). Pub. L. 114–54, §301(b)(1), inserted heading, designated existing provisions as subpar. (A) and inserted subpar. heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) to (iii) of subpar. (B) as subcls. (I) to (III), respectively, of cl. (ii), and added subpars. (B) and (C).
 

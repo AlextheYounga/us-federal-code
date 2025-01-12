@@ -246,6 +246,134 @@ The label or labeling required under this subchapter for an antimicrobial pestic
 
 (C) The Administrator, not later than 30 days after receipt of an application for expedited review, shall notify the applicant whether the application is complete. If it is found to be incomplete, the Administrator may either reject the request for expedited review or ask the applicant for additional information to satisfy the guidelines developed under subparagraph (A).
 
+#### (11) Interagency working group ####
+
+#### (A) Definition of covered agency ####
+
+In this paragraph, the term "covered agency" means any of the following:
+
+(i) The Department of Agriculture.
+
+(ii) The Department of Commerce.
+
+(iii) The Department of the Interior.
+
+(iv) The Council on Environmental Quality.
+
+(v) The Environmental Protection Agency.
+
+#### (B) Establishment ####
+
+The Administrator shall establish an interagency working group, to be comprised of representatives from each covered agency, to provide recommendations regarding, and to implement a strategy for improving, the consultation process required under section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536) for pesticide registration and registration review.
+
+#### (C) Duties ####
+
+The interagency working group established under subparagraph (B) shall—
+
+(i) analyze relevant Federal law (including regulations) and case law for purposes of providing an outline of the legal and regulatory framework for the consultation process referred to in that subparagraph, including—
+
+(I) requirements under this subchapter and the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
+
+(II) Federal case law regarding the intersection of this subchapter and the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); and
+
+(III) Federal regulations relating to the pesticide consultation process;
+
+(ii) provide advice regarding methods of—
+
+(I) defining the scope of actions of the covered agencies that are subject to the consultation requirement referred to in subparagraph (B); and
+
+(II) properly identifying and classifying effects of actions of the covered agencies with respect to that consultation requirement;
+
+(iii) identify the obligations and limitations under Federal law of each covered agency for purposes of providing a legal and regulatory framework for developing the recommendations referred to in subparagraph (B);
+
+(iv) review practices for the consultation referred to in subparagraph (B) to identify problem areas, areas for improvement, and best practices for conducting that consultation among the covered agencies;
+
+(v) develop scientific and policy approaches to increase the accuracy and timeliness of the process for that consultation, in accordance with requirements of this subchapter and the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), including—
+
+(I) processes to efficiently share data and coordinate analyses among the Department of Agriculture, the Department of Commerce, the Department of the Interior, and the Environmental Protection Agency;
+
+(II) a streamlined process for identifying which actions require no consultation, informal consultation, or formal consultation;
+
+(III) an approach that will provide clarity with respect to what constitutes the best scientific and commercial data available in the fields of pesticide use and ecological risk assessment, pursuant to section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)); and
+
+(IV) approaches that enable the Environmental Protection Agency to better assist the Department of the Interior and the Department of Commerce in carrying out obligations under that section in a timely and efficient manner; and
+
+(vi) propose and implement a strategy to implement approaches to consultations under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) and document that strategy in a memorandum of understanding, revised regulations, or another appropriate format to promote durable cooperation among the covered agencies.
+
+#### (D) Reports ####
+
+#### (i) Progress reports ####
+
+#### (I) In general ####
+
+Not later than 18 months after December 20, 2018, the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress of the working group in developing the recommendations under subparagraph (B).
+
+#### (II) Requirements ####
+
+The report under this clause shall—
+
+(aa) reflect the perspectives of each covered agency; and
+
+(bb) identify areas of new consensus and continuing topics of disagreement and debate.
+
+#### (ii) Results ####
+
+#### (I) In general ####
+
+Not later than 1 year after December 20, 2018, the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
+
+(aa) the recommendations developed under subparagraph (B); and
+
+(bb) plans for implementation of those recommendations.
+
+#### (II) Requirements ####
+
+The report under this clause shall—
+
+(aa) reflect the perspectives of each covered agency; and
+
+(bb) identify areas of consensus and continuing topics of disagreement and debate, if any.
+
+#### (iii) Implementation ####
+
+Not later than 1 year after the date of submission of the report under clause (i), the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
+
+(I) the implementation of the recommendations referred to in that clause;
+
+(II) the extent to which that implementation improved the consultation process referred to in subparagraph (B); and
+
+(III) any additional recommendations for improvements to the process described in subparagraph (B).
+
+#### (iv) Other reports ####
+
+Not later than the date that is 180 days after the date of submission of the report under clause (iii), and not less frequently than once every 180 days thereafter during the 5-year period beginning on that date, the Administrator, in coordination with the head of each other covered agency, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
+
+(I) the implementation of the recommendations referred to in that clause;
+
+(II) the extent to which that implementation improved the consultation process referred to in subparagraph (B); and
+
+(III) any additional recommendations for improvements to the process described in subparagraph (B).
+
+#### (E) Consultation with private sector ####
+
+In carrying out the duties under this paragraph, the working group shall, as appropriate—
+
+(i) consult with, representatives of interested industry stakeholders and nongovernmental organizations; and
+
+(ii) take into consideration factors, such as actual and potential differences in interest between, and the views of, those stakeholders and organizations.
+
+#### (F) Federal Advisory Committee Act ####
+
+The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this paragraph.
+
+#### (G) Savings clause ####
+
+Nothing in this paragraph supersedes any provision of—
+
+(i) this subchapter; or
+
+(ii) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), including the requirements under section 7 of that Act (16 U.S.C. 1536).
+
 #### (d) Classification of pesticides ####
 
 #### (1) Classification for general use, restricted use, or both ####
@@ -500,13 +628,21 @@ A report submitted under subparagraph (A) shall include a description of—
 
 (iii) recommendations to improve the activities of the Agency pertaining to antimicrobial registrations.
 
-(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000.)
+(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, §10115, Dec. 20, 2018, 132 Stat. 4914.)
+
+#### References in Text ####
+
+The Endangered Species Act of 1973, referred to in subsec. (c)(11)(C)(i)(I), (II), (v), (vi), (G)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+
+The Federal Advisory Committee Act, referred to in subsec. (c)(11)(F), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions ####
 
 A prior section 3 of act June 25, 1947, was classified to section 135a of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
 
 #### Amendments ####
+
+**2018**—Subsec. (c)(11). Pub. L. 115–334 added par. (11).
 
 **2007**—Subsec. (c)(3)(B)(ii)(I). Pub. L. 110–94, §2(1), substituted "review the application in accordance with section 136w–8(f)(4)(B) of this title and," for "within 45 days after receiving the application, notify the registrant whether or not the application is complete and,".
 
@@ -644,11 +780,7 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Biological Pesticide Handling Study ####
 
-Pub. L. 101–624, title XIV, §1498, Nov. 28, 1990, 104 Stat. 3631, provided that:
-
-"(a) Study.—Not later than September 30, 1992, the National Academy of Sciences shall conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency.
-
-"(b) Development of Procedures.—Not later than 1 year after the completion of the study under subsection (a), the agencies and offices described in such subsection shall develop and implement a common process for reviewing and approving biological control applications that are submitted to such agencies and offices that shall be based on the study conducted under such subsection and the recommendation of the National Academy of Sciences, and other public comment."
+Pub. L. 101–624, title XIV, §1498, Nov. 28, 1990, 104 Stat. 3631, provided that the National Academy of Sciences would conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency, and within 1 year after completion of the study, develop and implement a common process for reviewing and approving biological control applications submitted to such agencies and offices based on the study conducted the recommendation of the National Academy of Sciences and other public comment.
 
 #### Education, Study, and Report ####
 

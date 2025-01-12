@@ -8,19 +8,17 @@ Sec.
 
 #### SUBCHAPTER I—GENERAL REORGANIZATION AUTHORITIES ####
 
-6911. Transfer of Department functions to Secretary of Agriculture.
+6911. Repealed.
 
 6912. Authority of Secretary to delegate transferred functions.
 
-6913. Reductions in number of Department personnel.
-
-6914. Consolidation of headquarters offices.
+6913, 6914. Repealed.
 
 6915. Combination of field offices.
 
 6916. Improvement of information sharing.
 
-6917. Reports by Secretary.
+6917. Repealed.
 
 6918. Assistant Secretaries of Agriculture.
 
@@ -30,19 +28,33 @@ Sec.
 
 6921. Office of Tribal Relations.
 
+6922. Office of Homeland Security.
+
+6923. Office of Urban Agriculture and Innovative Production.
+
+6924. Food Loss and Waste Reduction Liaison.
+
+6925. Food Access Liaison.
+
 #### SUBCHAPTER II—FARM PRODUCTION AND CONSERVATION ####
 
 6931. Under Secretary of Agriculture for Farm Production and Conservation.
 
-6932. Consolidated Farm Service Agency.
+6932. Farm Service Agency.
 
 6932a. Prohibition on closure or relocation of county offices for the Farm Service Agency.
 
 6933. Office of Risk Management.
 
-6934. Office of Advocacy and Outreach.
+6934. Office of Partnerships and Public Engagement.
 
-6935. Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.
+6934a. Beginning farmer and rancher coordination.
+
+6934b. Agricultural Youth Organization Coordinator.
+
+6935. Repealed.
+
+6936. Natural Resources Conservation Service.
 
 #### SUBCHAPTER III—RURAL ECONOMIC AND COMMUNITY DEVELOPMENT ####
 
@@ -58,6 +70,8 @@ Sec.
 
 6945. Rural Development Disaster Assistance Fund.
 
+6946. Rural Health Liaison.
+
 #### SUBCHAPTER IV—FOOD, NUTRITION, AND CONSUMER SERVICES ####
 
 6951. Under Secretary of Agriculture for Food, Nutrition, and Consumer Services.
@@ -70,17 +84,17 @@ Sec.
 
 6961. Under Secretary of Agriculture for Natural Resources and Environment.
 
-6962. Natural Resources Conservation Service.
+6962. Transferred.
 
 6962a. Cooperative agreements.
 
-6963. Reorganization of Forest Service.
+6963. Repealed.
 
 #### SUBCHAPTER VI—RESEARCH, EDUCATION, AND ECONOMICS ####
 
 6971. Under Secretary of Agriculture for Research, Education, and Economics.
 
-6972. Program staff.
+6972. Repealed.
 
 #### SUBCHAPTER VII—FOOD SAFETY ####
 
@@ -118,13 +132,17 @@ Sec.
 
 7005. Under Secretary of Agriculture for Marketing and Regulatory Programs.
 
+#### SUBCHAPTER VIII–B—TRADE AND FOREIGN AGRICULTURAL AFFAIRS ####
+
+7007. Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.
+
 #### SUBCHAPTER IX—MISCELLANEOUS REORGANIZATION PROVISIONS ####
 
 7011. Successorship provisions relating to bargaining units and exclusive representatives.
 
 7012. Purchase of American-made equipment and products.
 
-7013. Proposed conforming amendments.
+7013. Repealed.
 
 7014. Termination of authority.
 

@@ -38,6 +38,8 @@ Sec.
 
 2026. Research, demonstration, and evaluations.
 
+2026a. Healthy fluid milk incentives projects.
+
 2027. Appropriations and allotments.
 
 2028. Consolidated block grants for Puerto Rico and American Samoa.
@@ -63,3 +65,5 @@ Sec.
 2036b. Retail food store and recipient trafficking.
 
 2036c. Annual State report on verification of SNAP participation.
+
+2036d. Pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity.
