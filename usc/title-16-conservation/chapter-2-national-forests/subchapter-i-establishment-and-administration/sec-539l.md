@@ -54,7 +54,7 @@ Not later than two years after August 21, 2002, the Secretary, in consultation w
 
 (I) connect existing roads and trails in the inventoried area to other existing roads and trails in the inventoried area for the purpose of mechanized and other nonmotorized use on any lands within the Protection Area as long as there is no net gain in the total mileage of either roads or trails open for public use within the Protection Area; and
 
-(II) close or remove roads or trails within the Protection Area that the Secretary determines to be undesirable, except those roads or trails managed pursuant to paragraph (2) of this subsection or subsection (e)(3) of this section.
+(II) close or remove roads or trails within the Protection Area that the Secretary determines to be undesirable, except those roads or trails managed pursuant to paragraph (2) of this subsection or subsection (e)(3).
 
 #### (ii) After completion of inventory ####
 
@@ -80,7 +80,7 @@ No timber harvesting shall be allowed within the Protection Area except to the e
 
 #### (F) Special interest area ####
 
-The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the 11,300 foot elevation contour as shown on the map referred to in subsection (b) of this section. In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
+The management prescription applicable to the lands described in the 1997 Revision of the Land and Resource Management Plan as the James Peak Special Interest Area shall also be applicable to all the lands in the Protection Area that are bounded on the north by Rollins Pass Road, on the east by the Continental Divide, and on the west by the 11,300 foot elevation contour as shown on the map referred to in subsection (b). In addition, motorized vehicle use shall not be permitted on any part of the Rogers Pass trail.
 
 #### (2) Natural gas pipeline ####
 
@@ -108,7 +108,7 @@ The Secretary shall follow the procedural and substantive requirements of the la
 
 #### (3) Water infrastructure ####
 
-Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F) of this section.
+Nothing in this Act (including the provisions related to establishment or management of the Protection Area) shall affect, impede, interfere with, or diminish the operation, existence, access, maintenance, improvement, or construction of water facilities and infrastructure, rights-of-way, or other water-related property, interests, and uses, (including the use of motorized vehicles and equipment existing or located on lands within the Protection Area) on any lands except those lands managed under the management prescription referred to in subsection (d)(1)(F).
 
 (Pub. L. 107–216, §3, Aug. 21, 2002, 116 Stat. 1056.)
 

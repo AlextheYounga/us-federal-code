@@ -22,7 +22,7 @@ There are authorized to be appropriated for fiscal years after the fiscal year 1
 
 #### (c) Availability of funds ####
 
-Funds appropriated under subsections (a)(2) and (b) of this section shall not be made available for any county which does not have in effect a land use ordinance which has been found to be consistent by the Commission, and concurred on by the Secretary as consistent with the management plan pursuant to section 544f of this title.
+Funds appropriated under subsections (a)(2) and (b) shall not be made available for any county which does not have in effect a land use ordinance which has been found to be consistent by the Commission, and concurred on by the Secretary as consistent with the management plan pursuant to section 544f of this title.
 
 (Pub. L. 99–663, §16, Nov. 17, 1986, 100 Stat. 4300; Pub. L. 113–287, §5(d)(17), Dec. 19, 2014, 128 Stat. 3265.)
 

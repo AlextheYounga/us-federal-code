@@ -96,7 +96,7 @@ The Board shall—
 
 (E) adopt and submit to Congress a conflict-of-interest policy applicable to members of the Board and employees of the Corporation;
 
-(F) establish a compensation plan for employees of the Corporation in accordance with subsection (i) of this section;
+(F) establish a compensation plan for employees of the Corporation in accordance with subsection (i);
 
 (G) approve all compensation (including salary or any other pay, bonuses, benefits, incentives, and any other form of remuneration) of all managers and technical personnel that report directly to the chief executive officer (including any adjustment to compensation);
 

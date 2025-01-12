@@ -24,7 +24,7 @@
 
 #### (b) Construction permit ####
 
-Except as provided in subsection (i) of this section, the Commission may, after notice and an opportunity for hearing, issue one or more permits for the construction or modification of electric transmission facilities in a national interest electric transmission corridor designated by the Secretary under subsection (a) of this section if the Commission finds that—
+Except as provided in subsection (i), the Commission may, after notice and an opportunity for hearing, issue one or more permits for the construction or modification of electric transmission facilities in a national interest electric transmission corridor designated by the Secretary under subsection (a) if the Commission finds that—
 
 (1)(A) a State in which the transmission facilities are to be constructed or modified does not have authority to—
 
@@ -52,7 +52,7 @@ Except as provided in subsection (i) of this section, the Commission may, after 
 
 #### (c) Permit applications ####
 
-(1) Permit applications under subsection (b) of this section shall be made in writing to the Commission.
+(1) Permit applications under subsection (b) shall be made in writing to the Commission.
 
 (2) The Commission shall issue rules specifying—
 
@@ -64,11 +64,11 @@ Except as provided in subsection (i) of this section, the Commission may, after 
 
 #### (d) Comments ####
 
-In any proceeding before the Commission under subsection (b) of this section, the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to the need for and impact of a facility covered by the permit.
+In any proceeding before the Commission under subsection (b), the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to the need for and impact of a facility covered by the permit.
 
 #### (e) Rights-of-way ####
 
-(1) In the case of a permit under subsection (b) of this section for electric transmission facilities to be located on property other than property owned by the United States or a State, if the permit holder cannot acquire by contract, or is unable to agree with the owner of the property to the compensation to be paid for, the necessary right-of-way to construct or modify the transmission facilities, the permit holder may acquire the right-of-way by the exercise of the right of eminent domain in the district court of the United States for the district in which the property concerned is located, or in the appropriate court of the State in which the property is located.
+(1) In the case of a permit under subsection (b) for electric transmission facilities to be located on property other than property owned by the United States or a State, if the permit holder cannot acquire by contract, or is unable to agree with the owner of the property to the compensation to be paid for, the necessary right-of-way to construct or modify the transmission facilities, the permit holder may acquire the right-of-way by the exercise of the right of eminent domain in the district court of the United States for the district in which the property concerned is located, or in the appropriate court of the State in which the property is located.
 
 (2) Any right-of-way acquired under paragraph (1) shall be used exclusively for the construction or modification of electric transmission facilities within a reasonable period of time after the acquisition.
 
@@ -78,7 +78,7 @@ In any proceeding before the Commission under subsection (b) of this section, th
 
 #### (f) Compensation ####
 
-(1) Any right-of-way acquired pursuant to subsection (e) of this section shall be considered a taking of private property for which just compensation is due.
+(1) Any right-of-way acquired pursuant to subsection (e) shall be considered a taking of private property for which just compensation is due.
 
 (2) Just compensation shall be an amount equal to the fair market value (including applicable severance damages) of the property taken on the date of the exercise of eminent domain authority.
 
@@ -176,13 +176,13 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 (3) The regional transmission siting agencies shall have the authority to review, certify, and permit siting of transmission facilities, including facilities in national interest electric transmission corridors (other than facilities on property owned by the United States).
 
-(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C) of this section.
+(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).
 
 #### (j) Relationship to other laws ####
 
 (1) Except as specifically provided, nothing in this section affects any requirement of an environmental law of the United States, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-(2) Subsection (h)(6) of this section shall not apply to any unit of the National Park System, the National Wildlife Refuge System, the National Wild and Scenic Rivers System, the National Trails System, the National Wilderness Preservation System, or a National Monument.
+(2) Subsection (h)(6) shall not apply to any unit of the National Park System, the National Wildlife Refuge System, the National Wild and Scenic Rivers System, the National Trails System, the National Wilderness Preservation System, or a National Monument.
 
 #### (k) ERCOT ####
 

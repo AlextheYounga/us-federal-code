@@ -8,7 +8,7 @@ No person may excavate, remove, damage, or otherwise alter or deface, or attempt
 
 No person may sell, purchase, exchange, transport, receive, or offer to sell, purchase, or exchange any archaeological resource if such resource was excavated or removed from public lands or Indian lands in violation of—
 
-(1) the prohibition contained in subsection (a) of this section, or
+(1) the prohibition contained in subsection (a), or
 
 (2) any provision, rule, regulation, ordinance, or permit in effect under any other provision of Federal law.
 

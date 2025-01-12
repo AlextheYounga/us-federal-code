@@ -18,6 +18,6 @@ The map shall be on file and available for public inspection in the offices of t
 
 #### (e) Discrepancies ####
 
-In the case of any discrepancy between or among the acreage referred to in subsection (b) of this section and the map described in subsection (b) of this section, the map described in subsection (b) of this section shall control any question concerning the boundaries of the Recreation Area.
+In the case of any discrepancy between or among the acreage referred to in subsection (b) and the map described in subsection (b), the map described in subsection (b) shall control any question concerning the boundaries of the Recreation Area.
 
 (Pub. L. 103–63, §4, Aug. 4, 1993, 107 Stat. 297.)

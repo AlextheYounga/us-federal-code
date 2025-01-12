@@ -10,13 +10,13 @@
 
 #### (b) Legal description ####
 
-(1) As soon as practicable after November 16, 1990, the Secretary shall file a legal description of the conservation area established by subsection (a) of this section with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives, and such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in <sup><a href="#460ccc-1_1_target" name="460ccc-1_1">1</a></sup> legal description.
+(1) As soon as practicable after November 16, 1990, the Secretary shall file a legal description of the conservation area established by subsection (a) with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives, and such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in <sup><a href="#460ccc-1_1_target" name="460ccc-1_1">1</a></sup> legal description.
 
 (2) The legal description described in paragraph (1) shall be on file and available for public inspection in the office of the Director of the Bureau of Land Management, Department of the Interior.
 
 #### (c) Discrepancies ####
 
-In case of any discrepancy between or among the map described in subsection (a) of this section, the amount of acreage stated in subsection (a) of this section, or the legal description filed by the Secretary pursuant to subsection (b) of this section, the map described in subsection (a) of this section shall control any question concerning the boundaries of the conservation area.
+In case of any discrepancy between or among the map described in subsection (a), the amount of acreage stated in subsection (a), or the legal description filed by the Secretary pursuant to subsection (b), the map described in subsection (a) shall control any question concerning the boundaries of the conservation area.
 
 (Pub. L. 101–621, §3, Nov. 16, 1990, 104 Stat. 3342; Pub. L. 103–450, §1, Nov. 2, 1994, 108 Stat. 4766; Pub. L. 105–263, §8, Oct. 19, 1998, 112 Stat. 2349; Pub. L. 107–282, title I, §105(c), Nov. 6, 2002, 116 Stat. 1998.)
 

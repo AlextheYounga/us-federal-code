@@ -26,7 +26,7 @@ Notwithstanding sections 797(e) and 817 of this title, the Commission shall disc
 
 (B) the operation of any navigation facilities which may be constructed as part of any project to be controlled at all times by such reasonable rules and regulations as may be made by the Secretary of the Army; and
 
-(C) except as provided in subsection (j) of this section, conditions for the protection, mitigation, and enhancement of fish and wildlife based on recommendations received pursuant to the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
+(C) except as provided in subsection (j), conditions for the protection, mitigation, and enhancement of fish and wildlife based on recommendations received pursuant to the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
 
 #### (b) Definition of "qualifying project works" ####
 
@@ -68,19 +68,19 @@ The State of Alaska shall notify the Commission not later than 30 days after mak
 
 #### (h) Resumption of Commission authority ####
 
-Notwithstanding subsection (a) of this section, the Commission shall reassert its licensing and regulatory authority under this subchapter if the Commission finds that the State of Alaska has not complied with one or more of the requirements of this section.
+Notwithstanding subsection (a), the Commission shall reassert its licensing and regulatory authority under this subchapter if the Commission finds that the State of Alaska has not complied with one or more of the requirements of this section.
 
 #### (i) Determination by the Commission ####
 
-(1) Upon application by the Governor of the State of Alaska, the Commission shall within 30 days commence a review of the State of Alaska's regulatory program for water-power development to determine whether it complies with the requirements of subsection (a) of this section.
+(1) Upon application by the Governor of the State of Alaska, the Commission shall within 30 days commence a review of the State of Alaska's regulatory program for water-power development to determine whether it complies with the requirements of subsection (a).
 
-(2) The Commission's review required by paragraph (1) shall be completed within 1 year of initiation, and the Commission shall within 30 days thereafter issue a final order determining whether or not the State of Alaska's regulatory program for water-power development complies with the requirements of subsection (a) of this section.
+(2) The Commission's review required by paragraph (1) shall be completed within 1 year of initiation, and the Commission shall within 30 days thereafter issue a final order determining whether or not the State of Alaska's regulatory program for water-power development complies with the requirements of subsection (a).
 
-(3) If the Commission fails to issue a final order in accordance with paragraph (2) the State of Alaska's regulatory program for water-power development shall be deemed to be in compliance with subsection (a) of this section.
+(3) If the Commission fails to issue a final order in accordance with paragraph (2) the State of Alaska's regulatory program for water-power development shall be deemed to be in compliance with subsection (a).
 
 #### (j) Fish and wildlife ####
 
-If the State of Alaska determines that a recommendation under subsection (a)(3)(C) of this section is inconsistent with paragraphs (1) and (2) of subsection (a) of this section, the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under section 803(j)(2) of this title.
+If the State of Alaska determines that a recommendation under subsection (a)(3)(C) is inconsistent with paragraphs (1) and (2) of subsection (a), the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under section 803(j)(2) of this title.
 
 (June 10, 1920, ch. 285, pt. I, §32, as added Pub. L. 106–469, title V, §501, Nov. 9, 2000, 114 Stat. 2037; amended Pub. L. 109–58, title II, §244, Aug. 8, 2005, 119 Stat. 678.)
 
@@ -92,7 +92,7 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), i
 
 #### Amendments ####
 
-**2005**—Subsec. (a)(3)(C). Pub. L. 109–58, §244(1), inserted "except as provided in subsection (j) of this section," before "conditions".
+**2005**—Subsec. (a)(3)(C). Pub. L. 109–58, §244(1), inserted "except as provided in subsection (j)," before "conditions".
 
 Subsec. (j). Pub. L. 109–58, §244(2), added subsec. (j).
 

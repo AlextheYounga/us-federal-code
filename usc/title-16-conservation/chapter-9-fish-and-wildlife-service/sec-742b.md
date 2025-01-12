@@ -10,7 +10,7 @@ There is established within the Department of the Interior the United States Fis
 
 #### (c) Succession to United States Fish and Wildlife Service and Bureau of Sport Fisheries and Wildlife ####
 
-The United States Fish and Wildlife Service established by subsection (b) of this section shall succeed to and replace the United States Fish and Wildlife Service (as constituted on June 30, 1974) and the Bureau of Sport Fisheries and Wildlife (as constituted on such date). All laws and regulations in effect on June 30, 1974, which relate to matters administered by the Department of the Interior through the United States Fish and Wildlife Service (as constituted on such date) and the Bureau of Sport Fisheries and Wildlife (as constituted on such date) shall remain in effect.
+The United States Fish and Wildlife Service established by subsection (b) shall succeed to and replace the United States Fish and Wildlife Service (as constituted on June 30, 1974) and the Bureau of Sport Fisheries and Wildlife (as constituted on such date). All laws and regulations in effect on June 30, 1974, which relate to matters administered by the Department of the Interior through the United States Fish and Wildlife Service (as constituted on such date) and the Bureau of Sport Fisheries and Wildlife (as constituted on such date) shall remain in effect.
 
 #### (d) Functions and responsibilities of Secretary of the Interior ####
 

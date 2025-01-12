@@ -6,7 +6,7 @@ Except as provided in section 460nnn–92 of this title, any wilderness study ar
 
 #### (b) Management ####
 
-The wilderness study areas referred to in subsection (a) of this section shall continue to be managed under section 1782(c) of title 43 in a manner so as not to impair the suitability of the areas for preservation as wilderness.
+The wilderness study areas referred to in subsection (a) shall continue to be managed under section 1782(c) of title 43 in a manner so as not to impair the suitability of the areas for preservation as wilderness.
 
 #### (c) Expansion of Basque Hills Wilderness Study Area ####
 

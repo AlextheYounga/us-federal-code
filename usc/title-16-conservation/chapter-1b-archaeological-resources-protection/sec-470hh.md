@@ -10,7 +10,7 @@ Information concerning the nature and location of any archaeological resource fo
 
 #### (b) Request for disclosure by Governors ####
 
-Notwithstanding the provisions of subsection (a) of this section, upon the written request of the Governor of any State, which request shall state—
+Notwithstanding the provisions of subsection (a), upon the written request of the Governor of any State, which request shall state—
 
 (1) the specific site or area for which information is sought,
 

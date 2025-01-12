@@ -72,7 +72,7 @@ Any vacancy on the Task Force shall be filled in the manner in which the origina
 
 #### (1) Procedures ####
 
-The Task Force shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. The procedures shall include the requirement that a quorum of the Task Force must be present before business may be transacted.
+The Task Force shall establish practices and procedures for the carrying out of its functions under subsection (b). The procedures shall include the requirement that a quorum of the Task Force must be present before business may be transacted.
 
 #### (2) Chairman ####
 
@@ -94,7 +94,7 @@ The Secretary and the Director of the California Department of Fish and Game sha
 
 #### (3) Organization ####
 
-The Task Force shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b) of this section.
+The Task Force shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b).
 
 #### (h) Members who are Federal or State employees ####
 

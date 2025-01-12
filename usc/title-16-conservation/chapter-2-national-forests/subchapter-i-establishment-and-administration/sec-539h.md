@@ -10,7 +10,7 @@ The special management area shall consist of lands, waters, and interests therei
 
 #### (c) Timber harvesting ####
 
-The Secretary shall permit the harvesting of timber within the special management area only in those cases where, in the judgment of the Secretary, the harvesting of timber is required in order to control insects or disease, for public safety, for salvage sales, or to accomplish the objectives of the special management area as described in subsection (a) of this section. To the extent practicable, timber harvesting shall be conducted only by the individual tree selection method.
+The Secretary shall permit the harvesting of timber within the special management area only in those cases where, in the judgment of the Secretary, the harvesting of timber is required in order to control insects or disease, for public safety, for salvage sales, or to accomplish the objectives of the special management area as described in subsection (a). To the extent practicable, timber harvesting shall be conducted only by the individual tree selection method.
 
 #### (d) Hunting and fishing ####
 
@@ -22,7 +22,7 @@ Subject to valid, existing rights, lands within the special management areas are
 
 #### (f) Vehicular access ####
 
-The Secretary shall construct and maintain only those roads within the special management area and corridor which are indicated on the map: *Provided*, That the Secretary shall provide access to such roads, or to timber harvesting pursuant to subsection (c) of this section, in such a manner as to minimize environmental impact.
+The Secretary shall construct and maintain only those roads within the special management area and corridor which are indicated on the map: *Provided*, That the Secretary shall provide access to such roads, or to timber harvesting pursuant to subsection (c), in such a manner as to minimize environmental impact.
 
 (Pub. L. 102–220, §4, Dec. 11, 1991, 105 Stat. 1674.)
 

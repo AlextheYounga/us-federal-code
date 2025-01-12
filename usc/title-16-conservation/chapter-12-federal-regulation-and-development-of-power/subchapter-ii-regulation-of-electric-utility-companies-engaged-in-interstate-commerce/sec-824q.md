@@ -30,11 +30,11 @@ In this section:
 
 #### (c) Allocation of transmission rights ####
 
-Nothing in subsections (b)(1), (b)(2), and (b)(3) of this section shall affect any existing or future methodology employed by a Transmission Organization for allocating or auctioning transmission rights if such Transmission Organization was authorized by the Commission to allocate or auction financial transmission rights on its system as of January 1, 2005, and the Commission determines that any future allocation or auction is just, reasonable and not unduly discriminatory or preferential, provided, however, that if such a Transmission Organization never allocated financial transmission rights on its system that pertained to a period before January 1, 2005, with respect to any application by such Transmission Organization that would change its methodology the Commission shall exercise its authority in a manner consistent with the <sup><a href="#824q_1_target" name="824q_1">1</a></sup> chapter and that takes into account the policies expressed in subsections (b)(1), (b)(2), and (b)(3) of this section as applied to firm transmission rights held by a load-serving entity as of January 1, 2005, to the extent the associated generation ownership or power purchase arrangements remain in effect.
+Nothing in subsections (b)(1), (b)(2), and (b)(3) of this section shall affect any existing or future methodology employed by a Transmission Organization for allocating or auctioning transmission rights if such Transmission Organization was authorized by the Commission to allocate or auction financial transmission rights on its system as of January 1, 2005, and the Commission determines that any future allocation or auction is just, reasonable and not unduly discriminatory or preferential, provided, however, that if such a Transmission Organization never allocated financial transmission rights on its system that pertained to a period before January 1, 2005, with respect to any application by such Transmission Organization that would change its methodology the Commission shall exercise its authority in a manner consistent with the <sup><a href="#824q_1_target" name="824q_1">1</a></sup> chapter and that takes into account the policies expressed in subsections (b)(1), (b)(2), and (b)(3) as applied to firm transmission rights held by a load-serving entity as of January 1, 2005, to the extent the associated generation ownership or power purchase arrangements remain in effect.
 
 #### (d) Certain transmission rights ####
 
-The Commission may exercise authority under this chapter to make transmission rights not used to meet an obligation covered by subsection (b) of this section available to other entities in a manner determined by the Commission to be just, reasonable, and not unduly discriminatory or preferential.
+The Commission may exercise authority under this chapter to make transmission rights not used to meet an obligation covered by subsection (b) available to other entities in a manner determined by the Commission to be just, reasonable, and not unduly discriminatory or preferential.
 
 #### (e) Obligation to build ####
 
@@ -58,7 +58,7 @@ This section does not authorize the Commission to take any action not otherwise 
 
 #### (j) TVA area ####
 
-(1) Subject to paragraphs (2) and (3), for purposes of subsection (b)(1)(B) of this section, a load-serving entity that is located within the service area of the Tennessee Valley Authority and that has a firm wholesale power supply contract with the Tennessee Valley Authority shall be considered to hold firm transmission rights for the transmission of the power provided.
+(1) Subject to paragraphs (2) and (3), for purposes of subsection (b)(1)(B), a load-serving entity that is located within the service area of the Tennessee Valley Authority and that has a firm wholesale power supply contract with the Tennessee Valley Authority shall be considered to hold firm transmission rights for the transmission of the power provided.
 
 (2) Nothing in this subsection affects the requirements of section 824k(j) of this title.
 
@@ -66,7 +66,7 @@ This section does not authorize the Commission to take any action not otherwise 
 
 #### (k) Effect of exercising rights ####
 
-An entity that to the extent required to meet its service obligations exercises rights described in subsection (b) of this section shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
+An entity that to the extent required to meet its service obligations exercises rights described in subsection (b) shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
 
 (June 10, 1920, ch. 285, pt. II, §217, as added Pub. L. 109–58, title XII, §1233(a), Aug. 8, 2005, 119 Stat. 957.)
 

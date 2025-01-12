@@ -14,7 +14,7 @@ The Secretary of Agriculture (hereinafter in this section referred to as the "Se
 
 #### (d) Administration ####
 
-The Secretary shall administer the recreation area in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best further the purposes of this section, as set forth in subsection (a) of this section. Management and utilization of natural resources within the recreation area shall be permitted to the extent such management and utilization is compatible with and does not impair the purposes for which the recreation area is established.
+The Secretary shall administer the recreation area in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best further the purposes of this section, as set forth in subsection (a). Management and utilization of natural resources within the recreation area shall be permitted to the extent such management and utilization is compatible with and does not impair the purposes for which the recreation area is established.
 
 #### (e) Timber management ####
 

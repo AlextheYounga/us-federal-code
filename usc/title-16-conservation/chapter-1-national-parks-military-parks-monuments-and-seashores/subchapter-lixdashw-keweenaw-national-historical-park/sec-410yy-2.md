@@ -10,7 +10,7 @@
 
 (1) The boundaries of the park shall be as generally depicted on the map entitled "Keweenaw National Historical Park, Michigan", numbered NHP–KP/20012–B and dated June, 1992. Such map shall be on file and available for public inspection in the office of the National Park Service, Department of the Interior, Washington, District of Columbia, and the office of the village council, Calumet, Michigan.
 
-(2) Within 180 days after October 27, 1992, the Secretary shall publish in the Federal Register a detailed description and map of the boundaries established under paragraph <sup><a href="#410yy-2_2_target" name="410yy-2_2">2</a></sup> (a)(1) of this section.
+(2) Within 180 days after October 27, 1992, the Secretary shall publish in the Federal Register a detailed description and map of the boundaries established under paragraph <sup><a href="#410yy-2_2_target" name="410yy-2_2">2</a></sup> (a)(1).
 
 (Pub. L. 102–543, §3, Oct. 27, 1992, 106 Stat. 3570.)
 

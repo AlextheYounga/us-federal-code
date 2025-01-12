@@ -32,15 +32,15 @@ There is hereby established a Mississippi River Coordinating Commission whose pu
 
 (2) Of the members first appointed—
 
-(A) Under paragraph (4) of subsection (a) of this section:
+(A) Under paragraph (4) of subsection (a):
 
 (i) One shall be appointed for a term of one year.
 
 (ii) One shall be appointed for a term of two years.
 
-(B) Under paragraphs (7) and (8) of subsection (a) of this section, one shall be appointed for a term of one year.
+(B) Under paragraphs (7) and (8) of subsection (a), one shall be appointed for a term of one year.
 
-(C) Under paragraph (11) of subsection (a) of this section:
+(C) Under paragraph (11) of subsection (a):
 
 (i) One shall be appointed for a term of one year.
 
@@ -136,11 +136,11 @@ Prior to the adoption of the Commission's plan, the Secretary and the Commission
 
 #### (m) Commission review ####
 
-The Commission shall assist the Secretary and the Governor of Minnesota in reviewing and monitoring the implementation of the plan by Federal, State, and local governmental agencies having jurisdiction in the Area. The Commission may, after providing, for public comment and subject to the review and approval, as set forth in subsection (k) of this section, modify said plan, if the Commission determines that such modification is necessary to further the purposes of this part.
+The Commission shall assist the Secretary and the Governor of Minnesota in reviewing and monitoring the implementation of the plan by Federal, State, and local governmental agencies having jurisdiction in the Area. The Commission may, after providing, for public comment and subject to the review and approval, as set forth in subsection (k), modify said plan, if the Commission determines that such modification is necessary to further the purposes of this part.
 
 #### (n) Termination of Commission ####
 
-The Commission shall terminate on the date 10 years after November 18, 1988. Following termination of the Commission the State is authorized to establish a State Commission which shall exercise the functions and authorities described in subsection (m) of this section. The Secretary of the Interior and the Secretary of the Army are authorized and directed to participate as members of such State Commission.
+The Commission shall terminate on the date 10 years after November 18, 1988. Following termination of the Commission the State is authorized to establish a State Commission which shall exercise the functions and authorities described in subsection (m). The Secretary of the Interior and the Secretary of the Army are authorized and directed to participate as members of such State Commission.
 
 (Pub. L. 100–696, title VII, §703, Nov. 18, 1988, 102 Stat. 4600; Pub. L. 101–40, §4(2), June 20, 1989, 103 Stat. 82; Pub. L. 102–525, title III, §302, Oct. 26, 1992, 106 Stat. 3441.)
 

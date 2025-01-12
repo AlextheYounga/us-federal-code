@@ -76,7 +76,7 @@ The Secretary is authorized and directed to take prompt and appropriate action i
 
 (C) one member to be appointed from recommendations made by the City Council of the City of San Antonio, Texas;
 
-(D) one member to be appointed to represent non-Federal property owners whose property is operated and maintained in accordance with cooperative agreements with the Secretary pursuant to subsection (b)(2) of this section;
+(D) one member to be appointed to represent non-Federal property owners whose property is operated and maintained in accordance with cooperative agreements with the Secretary pursuant to subsection (b)(2);
 
 (E) one member from the membership of a local conservation or historical organization; and
 

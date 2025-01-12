@@ -6,7 +6,7 @@ The boundaries of the park are hereby modified to reflect the addition of approx
 
 #### (b) Land acquisition ####
 
-(1) Within the lands added to the park pursuant to subsection (a) of this section, the Secretary is authorized to acquire lands and interests therein by donation, purchase with donated or appropriated funds, transfer, or exchange: *Provided*, That no such lands or interests therein may be acquired without the consent of the owner thereof unless the Secretary determines that the land is being developed, or is proposed to be developed in a manner which is determental <sup><a href="#410zz-2_1_target" name="410zz-2_1">1</a></sup> to the integrity of the park.
+(1) Within the lands added to the park pursuant to subsection (a), the Secretary is authorized to acquire lands and interests therein by donation, purchase with donated or appropriated funds, transfer, or exchange: *Provided*, That no such lands or interests therein may be acquired without the consent of the owner thereof unless the Secretary determines that the land is being developed, or is proposed to be developed in a manner which is determental <sup><a href="#410zz-2_1_target" name="410zz-2_1">1</a></sup> to the integrity of the park.
 
 (2) Lands or interests therein owned by the State of Arizona or a political subdivision thereof may only be acquired by donation or exchange.
 

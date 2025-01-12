@@ -6,7 +6,7 @@ Any person may apply to the Federal land manager for a permit to excavate or rem
 
 #### (b) Determinations by Federal land manager prerequisite to issuance of permit ####
 
-A permit may be issued pursuant to an application under subsection (a) of this section if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
+A permit may be issued pursuant to an application under subsection (a) if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
 
 (1) the applicant is qualified, to carry out the permitted activity,
 

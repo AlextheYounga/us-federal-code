@@ -42,7 +42,7 @@ Nothing in this subchapter—
 
 #### (b) Required elements of plans ####
 
-Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—
+Consistent with the use of military installations and State-owned National Guard installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—
 
 (1) shall, to the extent appropriate and applicable, provide for—
 
@@ -76,7 +76,7 @@ Consistent with the use of military installations and State-owned National Guard
 
 #### (c) Prohibitions on sale and lease of lands unless effects compatible with plan ####
 
-After an integrated natural resources management plan is agreed to under subsection (a) of this section—
+After an integrated natural resources management plan is agreed to under subsection (a)—
 
 (1) no sale of land, or forest products from land, that is within a military installation covered by that plan may be made under section 2665(a) or (b) of title 10; and
 
@@ -86,7 +86,7 @@ unless the effects of that sale or leasing are compatible with the purposes of t
 
 #### (d) Implementation and enforcement of integrated natural resources management plans ####
 
-With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a) of this section—
+With regard to the implementation and enforcement of integrated natural resources management plans agreed to under subsection (a)—
 
 (1) neither Office of Management and Budget Circular A–76 nor any successor circular thereto applies to the procurement of services that are necessary for that implementation and enforcement; and
 
@@ -170,7 +170,7 @@ Pub. L. 112–81, §312(b)(1)(E)(i), inserted heading.
 
 **1997**—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located."
 
-Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, "Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—" for "Each cooperative plan entered into under subsection (a) of this section—".
+Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, "Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—" for "Each cooperative plan entered into under subsection (a)—".
 
 Subsec. (b)(1). Pub. L. 105–85, §2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: "shall provide for—
 

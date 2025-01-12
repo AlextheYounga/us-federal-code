@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-Subject to subsections (b) and (c) of this section, the Secretary is authorized to acquire lands, or interests therein, within the boundaries of the park by donation, purchase with donated or appropriated funds, exchange, or transfer.
+Subject to subsections (b) and (c), the Secretary is authorized to acquire lands, or interests therein, within the boundaries of the park by donation, purchase with donated or appropriated funds, exchange, or transfer.
 
 #### (b) State property ####
 

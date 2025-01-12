@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-In order to conserve, protect, and enhance for the benefit and enjoyment of present and future generations the unique and nationally important aquatic, wildlife, vegetative, archaeological, paleontological, scientific, cave, cultural, historical, recreational, educational, scenic, rangeland, and riparian resources and values of the public lands described in subsection (b) of this section while allowing livestock grazing and recreation to continue in appropriate areas, there is hereby established the Las Cienegas National Conservation Area in the State of Arizona.
+In order to conserve, protect, and enhance for the benefit and enjoyment of present and future generations the unique and nationally important aquatic, wildlife, vegetative, archaeological, paleontological, scientific, cave, cultural, historical, recreational, educational, scenic, rangeland, and riparian resources and values of the public lands described in subsection (b) while allowing livestock grazing and recreation to continue in appropriate areas, there is hereby established the Las Cienegas National Conservation Area in the State of Arizona.
 
 #### (b) Areas included ####
 
@@ -10,7 +10,7 @@ The Conservation Area shall consist of approximately 42,000 acres of public land
 
 #### (c) Maps and legal description ####
 
-As soon as practicable after December 6, 2000, the Secretary shall submit to Congress a map and legal description of the Conservation Area. In case of a conflict between the map referred to in subsection (b) of this section and the map and legal description submitted by the Secretary, the map referred to in subsection (b) of this section shall control. The map and legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, and in the appropriate office of the Bureau of Land Management in Arizona.
+As soon as practicable after December 6, 2000, the Secretary shall submit to Congress a map and legal description of the Conservation Area. In case of a conflict between the map referred to in subsection (b) and the map and legal description submitted by the Secretary, the map referred to in subsection (b) shall control. The map and legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographical errors in such map and legal description. Copies of the map and legal description shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, and in the appropriate office of the Bureau of Land Management in Arizona.
 
 #### (d) Forest lands ####
 

@@ -10,7 +10,7 @@ The recreation area shall comprise approximately one hundred fifty-six thousand 
 
 #### (c) Management plan ####
 
-The recreation area shall be managed in accordance with plans prepared in subsection (g) of this section to:
+The recreation area shall be managed in accordance with plans prepared in subsection (g) to:
 
 (1) provide a range of recreation opportunities from primitive to full service developed campgrounds;
 

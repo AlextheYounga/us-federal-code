@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary of Agriculture shall charge a rental charge for all ski area permits issued pursuant to section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b), the Act of March 4, 1915 (38 Stat. 1101, chapter 144; 16 U.S.C. 497), or the 9th through 20th paragraphs under the heading "SURVEYING THE PUBLIC LANDS" under the heading "UNDER THE DEPARTMENT OF THE INTERIOR" in the Act of June 4, 1897 (30 Stat. 34, chapter 2), on National Forest System lands. Permit rental charges for permits issued pursuant to the National Forest Ski Area Permit Act of 1986 shall be calculated as set forth in subsection (b) of this section. Permit rental charges for existing ski area permits issued pursuant to the Act of March 4, 1915, and the Act of June 4, 1897, shall be calculated in accordance with those existing permits: *Provided*, That a permittee may, at the permittee's option, use the calculation method set forth in subsection (b) of this section.
+The Secretary of Agriculture shall charge a rental charge for all ski area permits issued pursuant to section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b), the Act of March 4, 1915 (38 Stat. 1101, chapter 144; 16 U.S.C. 497), or the 9th through 20th paragraphs under the heading "SURVEYING THE PUBLIC LANDS" under the heading "UNDER THE DEPARTMENT OF THE INTERIOR" in the Act of June 4, 1897 (30 Stat. 34, chapter 2), on National Forest System lands. Permit rental charges for permits issued pursuant to the National Forest Ski Area Permit Act of 1986 shall be calculated as set forth in subsection (b). Permit rental charges for existing ski area permits issued pursuant to the Act of March 4, 1915, and the Act of June 4, 1897, shall be calculated in accordance with those existing permits: *Provided*, That a permittee may, at the permittee's option, use the calculation method set forth in subsection (b).
 
 #### (b) Formula ####
 
@@ -26,7 +26,7 @@ Utilizing the abbreviations indicated in this subsection the ski area permit fee
 
 #### (c) Payment ####
 
-The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, the Secretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
+The rental charge set forth in subsection (b) shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, the Secretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
 
 #### (d) Effective date ####
 
@@ -50,11 +50,11 @@ To reduce administrative costs of ski area permittees and the Forest Service the
 
 #### (g) Minimum rental charge ####
 
-In cases where an area of national forest land is under a ski area permit but the permittee does not have revenue or sales qualifying for rental charge payment pursuant to subsection (a) of this section, the permittee shall pay an annual minimum rental charge of $2 for each national forest acre under permit or a percentage of appraised land value, as determined appropriate by the Secretary.
+In cases where an area of national forest land is under a ski area permit but the permittee does not have revenue or sales qualifying for rental charge payment pursuant to subsection (a), the permittee shall pay an annual minimum rental charge of $2 for each national forest acre under permit or a percentage of appraised land value, as determined appropriate by the Secretary.
 
 #### (h) Five-year phase-in of increase ####
 
-Where the new rental charge provided for in subsection (b)(1) of this section results in an increase in permit rental charge greater than one-half of 1 percent of the permittee's adjusted gross revenue as determined under subsection (b)(1) of this section, the new rental charge shall be phased in over a five-year period in a manner providing for increases of approximately equal increments.
+Where the new rental charge provided for in subsection (b)(1) results in an increase in permit rental charge greater than one-half of 1 percent of the permittee's adjusted gross revenue as determined under subsection (b)(1), the new rental charge shall be phased in over a five-year period in a manner providing for increases of approximately equal increments.
 
 #### (i) Construction with National Environmental Policy Act of 1969 ####
 

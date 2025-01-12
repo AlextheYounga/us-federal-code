@@ -14,7 +14,7 @@ The Secretary is authorized to acquire lands, waters, and interests therein with
 
 #### (d) Transfer ####
 
-Lands identified on the maps referred to in subsection (a) of this section as being within unit number 26 in the "Historic Zone" are hereby transferred from the administration of the Secretary of Agriculture to the administration of the Secretary of the Interior, to be managed in accordance with the provisions of this section.
+Lands identified on the maps referred to in subsection (a) as being within unit number 26 in the "Historic Zone" are hereby transferred from the administration of the Secretary of Agriculture to the administration of the Secretary of the Interior, to be managed in accordance with the provisions of this section.
 
 #### (e) Management plan ####
 

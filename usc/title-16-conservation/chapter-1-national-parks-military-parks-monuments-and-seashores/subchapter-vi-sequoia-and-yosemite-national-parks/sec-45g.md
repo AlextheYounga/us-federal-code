@@ -2,15 +2,15 @@
 
 #### (a) In general ####
 
-As soon as practicable after December 28, 2000, the Secretary of the Interior shall acquire by donation, purchase with donated or appropriated funds, or exchange, all interest in and to the land described in subsection (b) of this section for addition to Sequoia National Park, California.
+As soon as practicable after December 28, 2000, the Secretary of the Interior shall acquire by donation, purchase with donated or appropriated funds, or exchange, all interest in and to the land described in subsection (b) for addition to Sequoia National Park, California.
 
 #### (b) Land acquired ####
 
-The land referred to in subsection (a) of this section is the land depicted on the map entitled "Dillonwood", numbered 102/80,044, and dated September 1999.
+The land referred to in subsection (a) is the land depicted on the map entitled "Dillonwood", numbered 102/80,044, and dated September 1999.
 
 #### (c) Addition to park ####
 
-Upon acquisition of the land under subsection (a) of this section—
+Upon acquisition of the land under subsection (a)—
 
 (1) the Secretary of the Interior shall—
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorized expenses for administration ####
 
-Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under section 669c(a)(1) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
+Except as provided in subsection (b), the Secretary of the Interior may use available amounts under section 669c(a)(1) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
 
 (1) personnel costs of employees who directly administer this chapter on a full-time basis;
 
@@ -20,7 +20,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 (6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under section 669e of this title by each State fish and game department;
 
-(7) costs of audits under subsection (d) of this section;
+(7) costs of audits under subsection (d);
 
 (8) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
 
@@ -40,7 +40,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 #### (1) In general ####
 
-Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 669c(a)(1) of this title should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
+Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 669c(a)(1) of this title should be used for an expense for administration other than an expense for administration described in subsection (a), the Secretary—
 
 (A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
@@ -52,7 +52,7 @@ For any fiscal year, the Secretary of the Interior may use under paragraph (1) n
 
 #### (c) Restriction on use to supplement general appropriations ####
 
-The Secretary of the Interior shall not use available amounts under subsection (b) of this section to supplement the funding of any function for which general appropriations are made for the United States Fish and Wildlife Service or any other entity of the Department of the Interior.
+The Secretary of the Interior shall not use available amounts under subsection (b) to supplement the funding of any function for which general appropriations are made for the United States Fish and Wildlife Service or any other entity of the Department of the Interior.
 
 #### (d) Audit requirement ####
 

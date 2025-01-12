@@ -6,11 +6,11 @@ No later than 2 years after November 18, 1988, the Secretary shall develop a com
 
 #### (b) Recommendations ####
 
-The Secretary shall, in the comprehensive plan referred to in subsection (a) of this section, develop recommendations to Congress on whether additional lands should be included in the conservation area.
+The Secretary shall, in the comprehensive plan referred to in subsection (a), develop recommendations to Congress on whether additional lands should be included in the conservation area.
 
 #### (c) Cooperative agreements ####
 
-The Secretary may enter into cooperative agreements with appropriate State and local agencies, pursuant to section 1737(b) of title 43, to better implement the plan developed pursuant to subsection (a) of this section.
+The Secretary may enter into cooperative agreements with appropriate State and local agencies, pursuant to section 1737(b) of title 43, to better implement the plan developed pursuant to subsection (a).
 
 #### (d) Research ####
 

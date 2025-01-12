@@ -42,7 +42,7 @@ Subject to subsection (c), the Commission may grant an exemption in whole or in 
 
 #### (c) Consultation with Federal and State agencies ####
 
-In making the determination under subsection (b) of this section the Commission shall consult with the United States Fish and Wildlife Service <sup><a href="#823a_1_target" name="823a_1">1</a></sup> National Marine Fisheries Service <sup><a href="#823a_1_target" name="823a_1">1</a></sup> and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
+In making the determination under subsection (b) the Commission shall consult with the United States Fish and Wildlife Service <sup><a href="#823a_1_target" name="823a_1">1</a></sup> National Marine Fisheries Service <sup><a href="#823a_1_target" name="823a_1">1</a></sup> and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
 
 (1) such terms and conditions as the Fish and Wildlife Service <sup><a href="#823a_1_target" name="823a_1">1</a></sup> National Marine Fisheries Service <sup><a href="#823a_1_target" name="823a_1">1</a></sup> and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
 
@@ -50,11 +50,11 @@ In making the determination under subsection (b) of this section the Commission 
 
 #### (d) Violation of terms of exemption ####
 
-Any violation of a term or condition of any exemption granted under subsection (b) of this section shall be treated as a violation of a rule or order of the Commission under this chapter.
+Any violation of a term or condition of any exemption granted under subsection (b) shall be treated as a violation of a rule or order of the Commission under this chapter.
 
 #### (e) Fees for studies ####
 
-The Commission, in addition to the requirements of section 803(e) of this title, shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c) of this section. Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) of this section for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
+The Commission, in addition to the requirements of section 803(e) of this title, shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
 
 (June 10, 1920, ch. 285, pt. I, §30, as added Pub. L. 95–617, title II, §213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, §7, Oct. 16, 1986, 100 Stat. 1248; Pub. L. 113–23, §4(a), Aug. 9, 2013, 127 Stat. 494.)
 

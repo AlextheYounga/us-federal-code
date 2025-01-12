@@ -6,7 +6,7 @@ A person is guilty of any <sup><a href="#773g_1_target" name="773g_1">1</a></su
 
 #### (b) Fines; imprisonment ####
 
-Any offense described in subsection (a) of this section is punishable by a fine of not more than $200,000 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any officer authorized to enforce the provisions of this subchapter, or places any such officer in fear of imminent bodily injury the offense is punishable by a fine of not more than $400,000, or imprisonment for not more than 10 years or both.
+Any offense described in subsection (a) is punishable by a fine of not more than $200,000 or imprisonment for not more than 6 months, or both; except that if in the commission of any offense the person uses a dangerous weapon, engages in conduct that causes bodily injury to any officer authorized to enforce the provisions of this subchapter, or places any such officer in fear of imminent bodily injury the offense is punishable by a fine of not more than $400,000, or imprisonment for not more than 10 years or both.
 
 #### (c) Federal jurisdiction ####
 

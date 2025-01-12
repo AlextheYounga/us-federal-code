@@ -70,7 +70,7 @@ The Council is composed of 11 members as follows:
 
 #### (d) Consultation requirement ####
 
-The appointments required under subsection (c) of this section shall be made in consultation with the appropriate users of Area anadromous fish resources.
+The appointments required under subsection (c) shall be made in consultation with the appropriate users of Area anadromous fish resources.
 
 #### (e) Qualifications ####
 
@@ -94,11 +94,11 @@ Any vacancy on the Council shall be filled in the manner in which the original a
 
 #### (1) Procedures ####
 
-The Council shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. The procedures shall include requirements that—
+The Council shall establish practices and procedures for the carrying out of its functions under subsection (b). The procedures shall include requirements that—
 
 (A) a quorum of the Council must be present before business may be transacted; and
 
-(B) no comprehensive plan or recommendation referred to in subsection (b)(1)(A) or (B) of this section may be adopted by the Council except by the unanimous vote of all members present and voting.
+(B) no comprehensive plan or recommendation referred to in subsection (b)(1)(A) or (B) may be adopted by the Council except by the unanimous vote of all members present and voting.
 
 #### (2) Chairman ####
 
@@ -120,7 +120,7 @@ The Secretary and the Director of the California Department of Fish and Game sha
 
 #### (3) Organization ####
 
-The Council shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b) of this section.
+The Council shall determine its organization, and prescribe the practices and procedures for carrying out its functions under subsection (b).
 
 #### (i) Federal or State employees ####
 

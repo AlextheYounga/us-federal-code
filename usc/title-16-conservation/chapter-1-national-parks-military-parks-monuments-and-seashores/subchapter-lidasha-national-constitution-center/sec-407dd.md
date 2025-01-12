@@ -10,7 +10,7 @@ The Secretary is authorized to establish and maintain at Independence National H
 
 #### (c) Public materials ####
 
-In coordination with the National Constitution Center, the Secretary shall develop and make available to the public interpretive and educational materials related to sites within the National Park System as referred to in subsection (a) of this section.
+In coordination with the National Constitution Center, the Secretary shall develop and make available to the public interpretive and educational materials related to sites within the National Park System as referred to in subsection (a).
 
 #### (d) Cooperative agreements ####
 

@@ -46,7 +46,7 @@ Individuals nominated for appointment under paragraphs (14) and (15) shall be in
 
 (1) Except as provided in paragraphs (2) and (3), members of the Commission shall be appointed for terms of three years.
 
-(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c) <sup><a href="#450jj-6_1_target" name="450jj-6_1">1</a></sup> of this section—
+(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)— <sup><a href="#450jj-6_1_target" name="450jj-6_1">1</a></sup>
 
 (A) two shall be appointed for terms of one year;
 
@@ -82,6 +82,6 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 
-[<sup>1</sup> So in original. Probably should be "subsection (b)".](#450jj-6_1)
+[<sup>1</sup> So in original. Probably should be "subsection (b)—".](#450jj-6_1)
 
 [<sup>2</sup> So in original. Probably should be "of".](#450jj-6_2)

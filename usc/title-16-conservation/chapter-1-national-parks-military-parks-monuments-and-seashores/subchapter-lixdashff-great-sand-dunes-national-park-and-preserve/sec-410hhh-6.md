@@ -8,13 +8,13 @@
 
 #### (b) Boundary adjustment ####
 
-As soon as practicable after the acquisition of any land or interest under this section, the Secretary shall modify the boundary of the unit to which the land is transferred pursuant to subsection (b) <sup><a href="#410hhh-6_1_target" name="410hhh-6_1">1</a></sup> of this section to include any land or interest acquired.
+As soon as practicable after the acquisition of any land or interest under this section, the Secretary shall modify the boundary of the unit to which the land is transferred pursuant to subsection (b) <sup><a href="#410hhh-6_1_target" name="410hhh-6_1">1</a></sup> to include any land or interest acquired.
 
 #### (c) Administration of acquired lands ####
 
 #### (1) General authority ####
 
-Upon acquisition of lands under subsection (a) of this section, the Secretary shall, as appropriate—
+Upon acquisition of lands under subsection (a), the Secretary shall, as appropriate—
 
 (A) transfer administrative jurisdiction of the lands to the National Park Service—
 

@@ -16,7 +16,7 @@ The boundary of the Preserve is modified to include the land depicted on the map
 
 #### (c) Map ####
 
-The maps referred to in subsection (b) of this section shall—
+The maps referred to in subsection (b) shall—
 
 (1) be on file and available for public inspection in the offices of the National Park Service of the Department of the Interior in Washington, District of Columbia; and
 

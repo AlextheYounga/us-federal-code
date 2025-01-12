@@ -12,7 +12,7 @@
 
 Such training programs shall be conducted to the maximum extent practicable through established programs.
 
-(2) There are authorized to be appropriated beginning with fiscal year 1980 such funds as may be necessary to carry out the purposes of subsection (b) of this section, and the Secretary of the Interior and the Secretary of Commerce may each require reimbursement from the States for expenditures made pursuant to subsections (b)(1)(A) and (C) of this section.
+(2) There are authorized to be appropriated beginning with fiscal year 1980 such funds as may be necessary to carry out the purposes of subsection (b), and the Secretary of the Interior and the Secretary of Commerce may each require reimbursement from the States for expenditures made pursuant to subsections (b)(1)(A) and (C).
 
 #### (b) Law enforcement cooperative agreement ####
 

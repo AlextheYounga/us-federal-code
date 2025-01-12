@@ -26,7 +26,7 @@ Within eighteen months after June 19, 1984, the Secretary shall develop and subm
 
 #### (e) Public participation in development of management plan ####
 
-In conducting the reviews and preparing the comprehensive management plan required by subsection (d) of this section, the Secretary shall provide for full public participation, shall consider the views of all interested agencies, organizations, and individuals, and shall particularly emphasize the values enumerated in section 460nn(a)(4) of this title.
+In conducting the reviews and preparing the comprehensive management plan required by subsection (d), the Secretary shall provide for full public participation, shall consider the views of all interested agencies, organizations, and individuals, and shall particularly emphasize the values enumerated in section 460nn(a)(4) of this title.
 
 (Pub. L. 98–322, title II, §204, June 19, 1984, 98 Stat. 257; Pub. L. 110–1, §1(b), Jan. 17, 2007, 121 Stat. 3.)
 

@@ -30,7 +30,7 @@ There is hereby established the Santa Monica Mountains National Recreation Area 
 
 (1) Within six months after November 10, 1978, the Secretary shall identify the lands, waters, and interests within the recreation area which must be acquired and held in public ownership for the following critical purposes: preservation of beaches and coastal uplands; protection of undeveloped inland stream drainage basins; connection of existing State and local government parks and other publicly owned lands to enhance their potential for public recreation use; protection of existing park roads and scenic corridors, including such right-of-way as is necessary for the protection of the Mulholland Scenic Parkway Corridor; protection of the public health and welfare; and development and interpretation of historic sites and recreation areas in connection therewith, to include, but not be limited to, parks, picnic areas, scenic overlooks, hiking trails, bicycle trails, and equestrian trails. The Secretary may from time to time revise the identification of such areas, and any such revisions shall become effective in the same manner as herein provided for revisions in the boundaries of the recreation area.
 
-(2) By January 1, 1980, the Secretary shall submit, in writing, to the committees referred to in subsection (c) of this section and to the Committees on Appropriations of the United States Congress a detailed plan which shall indicate—
+(2) By January 1, 1980, the Secretary shall submit, in writing, to the committees referred to in subsection (c) and to the Committees on Appropriations of the United States Congress a detailed plan which shall indicate—
 
 (A) the lands and areas identified in paragraph (1),
 
@@ -86,7 +86,7 @@ By January 1, 1981, the Santa Monica Mountains National Recreation Area Advisory
 
 #### (m) Report of Secretary to Congressional committees ####
 
-The Secretary, after giving careful consideration to the recommendations set forth by the Advisory Commission, shall, by January 1, 1982, submit a report to the committees referred to in subsection (c) of this section which shall incorporate the recommendations of the Advisory Commission as well as set forth the Secretary's recommendations. Such report shall—
+The Secretary, after giving careful consideration to the recommendations set forth by the Advisory Commission, shall, by January 1, 1982, submit a report to the committees referred to in subsection (c) which shall incorporate the recommendations of the Advisory Commission as well as set forth the Secretary's recommendations. Such report shall—
 
 (1) assess the benefits and costs of continued management as a unit of the National Park System,
 
@@ -130,7 +130,7 @@ No grant for acquisition of land may be made under subparagraph (A) unless the S
 
 #### (o) Comments on undertakings prior to expenditure of Federal funds or issuance of licenses or permits ####
 
-The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the lands and waters within the Santa Monica Mountains Zone, generally depicted on the map referred to in subsection (c) of this section, and the head of any Federal agency having authority to license or permit any undertaking in such lands and waters shall, prior to the approval of the expenditure of any Federal funds on such undertaking or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment with regard to such undertaking and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the "findings" and purposes of this section.
+The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the lands and waters within the Santa Monica Mountains Zone, generally depicted on the map referred to in subsection (c), and the head of any Federal agency having authority to license or permit any undertaking in such lands and waters shall, prior to the approval of the expenditure of any Federal funds on such undertaking or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment with regard to such undertaking and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the "findings" and purposes of this section.
 
 #### (p) State agency recommendations; consideration ####
 
@@ -160,15 +160,15 @@ The Secretary shall give full consideration to the recommendations of the Califo
 
 #### (r) Authorization of appropriations for property acquisitions and State grants ####
 
-There are authorized to be appropriated such sums as may be necessary for acquisition of lands and interests in land within the boundaries of the recreation area established under this section, but not more than $15,000,000 for fiscal year 1979, $40,000,000 for fiscal year 1980, $45,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $15,000,000 for fiscal year 1983, such sums to remain available until expended. For grants to the State pursuant to subsection (n) of this section there are authorized to be appropriated not more than $10,000,000 for fiscal year 1979, $10,000,000 for fiscal year 1980, $5,000,000 for fiscal year 1981, and $5,000,000 for fiscal year 1982, such sums to remain available until expended. For the authorizations made in this subsection, any amounts authorized but not appropriated in any fiscal year shall remain available for appropriation in succeeding fiscal years.
+There are authorized to be appropriated such sums as may be necessary for acquisition of lands and interests in land within the boundaries of the recreation area established under this section, but not more than $15,000,000 for fiscal year 1979, $40,000,000 for fiscal year 1980, $45,000,000 for fiscal year 1981, $10,000,000 for fiscal year 1982, and $15,000,000 for fiscal year 1983, such sums to remain available until expended. For grants to the State pursuant to subsection (n) there are authorized to be appropriated not more than $10,000,000 for fiscal year 1979, $10,000,000 for fiscal year 1980, $5,000,000 for fiscal year 1981, and $5,000,000 for fiscal year 1982, such sums to remain available until expended. For the authorizations made in this subsection, any amounts authorized but not appropriated in any fiscal year shall remain available for appropriation in succeeding fiscal years.
 
 #### (s) Authorization of appropriations for public facilities development ####
 
-For the development of essential public facilities in the recreation area there are authorized to be appropriated not more than $500,000. The Congress expects that, at least until assessment of the report required by subsection (t) of this section, any further development of the area shall be accomplished by the State of California or local units of government, subject to the approval of the Director, National Park Service.
+For the development of essential public facilities in the recreation area there are authorized to be appropriated not more than $500,000. The Congress expects that, at least until assessment of the report required by subsection (t), any further development of the area shall be accomplished by the State of California or local units of government, subject to the approval of the Director, National Park Service.
 
 #### (t) General management plan; transmission to Congressional committees ####
 
-Within two years from the date of establishment of the recreation area pursuant to this section, the Secretary shall, after consulting with the Advisory Commission, develop and transmit to the Committees referred to in subsection (c) of this section a general management plan for the recreation area consistent with the objectives of this section. Such plan shall indicate—
+Within two years from the date of establishment of the recreation area pursuant to this section, the Secretary shall, after consulting with the Advisory Commission, develop and transmit to the Committees referred to in subsection (c) a general management plan for the recreation area consistent with the objectives of this section. Such plan shall indicate—
 
 (1) a plan for visitor use including the facilities needed to accommodate the health, safety, education and recreation needs of the public;
 

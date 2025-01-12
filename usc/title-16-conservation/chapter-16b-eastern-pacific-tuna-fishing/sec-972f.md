@@ -20,15 +20,15 @@ It is unlawful for any person subject to the jurisdiction of the United Statesâ€
 
 Any person who is convicted of violatingâ€”
 
-(1) subsection (a)(1), (a)(2), or (a)(3) of this section shall be fined or assessed a civil penalty not more than $25,000, and for a subsequent violation shall be fined or assessed a civil penalty not more than $50,000;
+(1) subsection (a)(1), (a)(2), or (a)(3) shall be fined or assessed a civil penalty not more than $25,000, and for a subsequent violation shall be fined or assessed a civil penalty not more than $50,000;
 
-(2) subsection (a)(4) or (a)(5) of this section shall be fined or assessed a civil penalty not more than $5,000, and for a subsequent violation shall be fined or assessed a civil penalty not more than $5,000; or
+(2) subsection (a)(4) or (a)(5) shall be fined or assessed a civil penalty not more than $5,000, and for a subsequent violation shall be fined or assessed a civil penalty not more than $5,000; or
 
-(3) subsection (a)(6) of this section shall be fined or assessed a civil penalty not more than $100,000.
+(3) subsection (a)(6) shall be fined or assessed a civil penalty not more than $100,000.
 
 #### (c) Forfeiture ####
 
-All designated species of tuna taken or retained in violation of subsection (a)(1), (2), (3), or (6) of this section, or the monetary value thereof, is subject to forfeiture.
+All designated species of tuna taken or retained in violation of subsection (a)(1), (2), (3), or (6), or the monetary value thereof, is subject to forfeiture.
 
 #### (d) Application of laws relating to seizures and forfeitures ####
 

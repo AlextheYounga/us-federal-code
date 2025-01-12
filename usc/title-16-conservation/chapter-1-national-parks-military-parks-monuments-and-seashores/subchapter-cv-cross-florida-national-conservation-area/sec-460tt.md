@@ -2,11 +2,11 @@
 
 #### (a) Deauthorization ####
 
-The barge canal project located between the Gulf of Mexico and the Atlantic Ocean (hereinafter in this section referred to as the "project"), as described in the Act of July 23, 1942 (56 Stat. 703), shall be deauthorized by operation of law immediately upon the Governor and Cabinet of the State of Florida adopting a resolution specifically agreeing on behalf of the State of Florida (hereinafter in this section referred to as the "State") to all of the terms of the agreement prescribed in subsection (b) of this section.
+The barge canal project located between the Gulf of Mexico and the Atlantic Ocean (hereinafter in this section referred to as the "project"), as described in the Act of July 23, 1942 (56 Stat. 703), shall be deauthorized by operation of law immediately upon the Governor and Cabinet of the State of Florida adopting a resolution specifically agreeing on behalf of the State of Florida (hereinafter in this section referred to as the "State") to all of the terms of the agreement prescribed in subsection (b).
 
 #### (b) Transfer of project lands ####
 
-Notwithstanding any other provision of law, the Secretary is, subject to the provisions of subsections (d) and (e) of this section, directed to transfer to the State all lands and interests in lands acquired by the Secretary and facilities completed for the project in subsection (a) of this section, without consideration, if the State agrees to each of the following:
+Notwithstanding any other provision of law, the Secretary is, subject to the provisions of subsections (d) and (e), directed to transfer to the State all lands and interests in lands acquired by the Secretary and facilities completed for the project in subsection (a), without consideration, if the State agrees to each of the following:
 
 (1) The State shall agree to hold the United States harmless from all claims arising from or through the operations of the lands and facilities conveyed by the United States.
 
@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, the Secretary is, subject to the pro
 
 #### (1) Remedies and jurisdiction ####
 
-The United States is directed to vigorously enforce the agreement referred to in subsections (a) and (b) of this section in the courts of the United States and shall be entitled to any remedies in equity or law, including, without limitation, injunctive relief. The court, in issuing any final order in any suit brought pursuant to this subsection, may, in its discretion, award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing party. The United States district courts shall have original and exclusive jurisdiction of any action under this subsection.
+The United States is directed to vigorously enforce the agreement referred to in subsections (a) and (b) in the courts of the United States and shall be entitled to any remedies in equity or law, including, without limitation, injunctive relief. The court, in issuing any final order in any suit brought pursuant to this subsection, may, in its discretion, award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing party. The United States district courts shall have original and exclusive jurisdiction of any action under this subsection.
 
 #### (2) State remedies ####
 
@@ -42,17 +42,17 @@ Actual transfer of lands and management responsibilities under this section shal
 
 #### (e) Management pending transfer ####
 
-In the 24-month period following November 28, 1990, the Secretary shall carry out any and all programmed maintenance on the portions of the project outlined in subsection (d) of this section.
+In the 24-month period following November 28, 1990, the Secretary shall carry out any and all programmed maintenance on the portions of the project outlined in subsection (d).
 
 #### (f) Contract for continued O&M ####
 
 #### (1) In general ####
 
-During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d) of this section. The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
+During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d). The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
 
 #### (2) Funding ####
 
-Funding for the continued operation and maintenance of the barge canal project by the Secretary under this subsection shall not exceed $300,000. The State of Florida shall pay a non-Federal share of $600,000 to fund the continued maintenance of the portions of the project described in subsection (d) of this section in accordance with paragraph (1).
+Funding for the continued operation and maintenance of the barge canal project by the Secretary under this subsection shall not exceed $300,000. The State of Florida shall pay a non-Federal share of $600,000 to fund the continued maintenance of the portions of the project described in subsection (d) in accordance with paragraph (1).
 
 #### (g) Survey ####
 

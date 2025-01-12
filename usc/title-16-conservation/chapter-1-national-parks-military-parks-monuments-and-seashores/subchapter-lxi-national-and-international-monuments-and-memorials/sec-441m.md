@@ -6,11 +6,11 @@ All Federal lands and interests in lands within the Badlands Air Force gunnery r
 
 #### (b) Purchases ####
 
-Any former Indian owner of land that is within the Badlands Air Force gunnery range and outside the boundaries of the park and that has not been declared excess to the needs of the Department of the Air Force on August 8, 1968, may, within the period specified in section 441l(b)(5) of this title, elect (i) to purchase an available tract of land described in subsection (a) of this section of substantially the same value, or (ii) to purchase the tract formerly owned by him at such time as such tract is declared excess and transferred to the Secretary of the Interior as provided in section 441l(a) of this title.
+Any former Indian owner of land that is within the Badlands Air Force gunnery range and outside the boundaries of the park and that has not been declared excess to the needs of the Department of the Air Force on August 8, 1968, may, within the period specified in section 441l(b)(5) of this title, elect (i) to purchase an available tract of land described in subsection (a) of substantially the same value, or (ii) to purchase the tract formerly owned by him at such time as such tract is declared excess and transferred to the Secretary of the Interior as provided in section 441l(a) of this title.
 
 #### (c) Life estates and use restrictions ####
 
-Any former Indian owner of a tract of land within the boundaries of the park that was acquired by the United States for the Badlands Air Force gunnery range, and that is transferred to the Secretary of the Interior pursuant to section 441k of this title, may, within the period specified in section 441l(b)(5) of this title, elect (i) to acquire from the Secretary of the Interior a life estate in such tract at no cost, subject to restrictions on use that may be prescribed in regulations applicable to the park, or (ii) to purchase an available tract of land described in subsection (a) of this section of substantially the same value.
+Any former Indian owner of a tract of land within the boundaries of the park that was acquired by the United States for the Badlands Air Force gunnery range, and that is transferred to the Secretary of the Interior pursuant to section 441k of this title, may, within the period specified in section 441l(b)(5) of this title, elect (i) to acquire from the Secretary of the Interior a life estate in such tract at no cost, subject to restrictions on use that may be prescribed in regulations applicable to the park, or (ii) to purchase an available tract of land described in subsection (a) of substantially the same value.
 
 #### (d) Purchase restrictions ####
 

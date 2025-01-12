@@ -6,10 +6,10 @@ The boundary of the Booker T. Washington National Monument is modified to includ
 
 #### (b) Acquisition of additional lands ####
 
-The Secretary of the Interior is authorized to acquire from willing owners the land or interests in land described in subsection (a) of this section by donation, purchase with donated or appropriated funds, or exchange.
+The Secretary of the Interior is authorized to acquire from willing owners the land or interests in land described in subsection (a) by donation, purchase with donated or appropriated funds, or exchange.
 
 #### (c) Administration of additional lands ####
 
-Lands added to the Booker T. Washington National Monument by subsection (a) of this section shall be administered by the Secretary of the Interior as part of the monument in accordance with applicable laws and regulations.
+Lands added to the Booker T. Washington National Monument by subsection (a) shall be administered by the Secretary of the Interior as part of the monument in accordance with applicable laws and regulations.
 
 (Apr. 2, 1956, ch. 158, §5, as added Pub. L. 107–215, §2, Aug. 21, 2002, 116 Stat. 1054.)

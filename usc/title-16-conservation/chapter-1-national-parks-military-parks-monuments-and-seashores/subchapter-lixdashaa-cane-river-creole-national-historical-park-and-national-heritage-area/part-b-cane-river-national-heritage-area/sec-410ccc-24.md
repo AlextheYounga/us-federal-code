@@ -6,7 +6,7 @@ The Commission shall terminate on the day occurring 10 years after the first off
 
 #### (b) Extension ####
 
-The Commission may petition to be extended for a period of not more than 5 years beginning on the day referred to in subsection (a) of this section, provided the Commission determines a critical need to fulfill the purposes of this subchapter; and the Commission obtains approval from the Secretary, in consultation with the Governor of Louisiana.
+The Commission may petition to be extended for a period of not more than 5 years beginning on the day referred to in subsection (a), provided the Commission determines a critical need to fulfill the purposes of this subchapter; and the Commission obtains approval from the Secretary, in consultation with the Governor of Louisiana.
 
 #### (c) Heritage area management following termination of Commission ####
 

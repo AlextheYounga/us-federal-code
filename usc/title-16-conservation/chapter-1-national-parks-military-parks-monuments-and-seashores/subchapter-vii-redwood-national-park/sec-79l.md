@@ -24,13 +24,13 @@ An affected employee shall be given full consideration for certain civilian jobs
 
 #### (e) Private employer requirements for filling covered employment positions with affected employees pursuant to Federal contracts, etc.; procedures applicable and considerations for employment ####
 
-(1) Any Federal agency involved in the manner provided herein with a private employer responsible for filing <sup><a href="#79l_1_target" name="79l_1">1</a></sup> an employment position that is within the scope of clause (2)(A) of subsection (d) of this section, that will be primarily located in Humboldt or Del Norte Counties, or other counties in California adjacent thereto, is directed to require that any Federal contracts, grants, subsidies, loans, or other forms of funding assistance, and any Federal lease, permit, license, certificate, or other entitlement for use, not constituting an existing property right as of March 27, 1978, that is a condition to or a requirement of the conduct of harvesting and related activities or replanting and land rehabilitation or the conduct of wood processing and related activities or the conduct of highway construction and related activities shall be subject to and conditioned upon said private employer giving full consideration to affected employees as provided herein.
+(1) Any Federal agency involved in the manner provided herein with a private employer responsible for filing <sup><a href="#79l_1_target" name="79l_1">1</a></sup> an employment position that is within the scope of clause (2)(A) of subsection (d), above, that will be primarily located in Humboldt or Del Norte Counties, or other counties in California adjacent thereto, is directed to require that any Federal contracts, grants, subsidies, loans, or other forms of funding assistance, and any Federal lease, permit, license, certificate, or other entitlement for use, not constituting an existing property right as of March 27, 1978, that is a condition to or a requirement of the conduct of harvesting and related activities or replanting and land rehabilitation or the conduct of wood processing and related activities or the conduct of highway construction and related activities shall be subject to and conditioned upon said private employer giving full consideration to affected employees as provided herein.
 
 (2) Any private employer who participates with a Federal agency in the manner described above and who is, accordingly, subject to the requirements as provided herein, shall—
 
-(A) provide notice of the availability of those jobs described in subsection (d)(2)(A) of this section in the manner generally provided by subsection (d)(1) of this section; and
+(A) provide notice of the availability of those jobs described in subsection (d)(2)(A) in the manner generally provided by subsection (d)(1); and
 
-(B) provide full consideration to qualified affected employee applicants for these positions if the further conditions established by clause (2)(B) of subsection (d) of this section are met.
+(B) provide full consideration to qualified affected employee applicants for these positions if the further conditions established by clause (2)(B) of subsection (d) are met.
 
 #### (f) Agreements with affected employers and industry employers for full consideration to employment of affected employees formerly employed by affected employers; implementation ####
 
@@ -48,7 +48,7 @@ The Secretary is directed to seek and authorized to enter into agreements with a
 
 (D) upon the filing of a complaint by an employee who alleges that said employee's rights to full consideration were disregarded, the Secretary shall make a finding on the merits of such complaint. If it is determined that there has been noncompliance with this section, the Secretary shall take such action as may be appropriate to correct the situation.
 
-(2) To assist in implementing this section, agencies shall notify the Secretary, in advance, of any job opening as provided for by subsection (d) of this section and of any Federal commitment as provided for by subsection (e) of this section.
+(2) To assist in implementing this section, agencies shall notify the Secretary, in advance, of any job opening as provided for by subsection (d) and of any Federal commitment as provided for by subsection (e).
 
 (3) The Secretary shall—
 

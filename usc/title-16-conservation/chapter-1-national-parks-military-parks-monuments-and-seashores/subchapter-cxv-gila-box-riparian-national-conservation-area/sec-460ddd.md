@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-In order to conserve, protect, and enhance the riparian and associated areas described in subsection (b) of this section and the aquatic, wildlife, archeological, paleontological, scientific, cultural, recreational, educational, scenic, and other resources and values of such areas, there is hereby established the Gila Box Riparian National Conservation Area (hereafter in this subchapter referred to as the "conservation area").
+In order to conserve, protect, and enhance the riparian and associated areas described in subsection (b) and the aquatic, wildlife, archeological, paleontological, scientific, cultural, recreational, educational, scenic, and other resources and values of such areas, there is hereby established the Gila Box Riparian National Conservation Area (hereafter in this subchapter referred to as the "conservation area").
 
 #### (b) Areas included ####
 
@@ -14,9 +14,9 @@ As soon as practicable after November 28, 1990, a map and legal description of t
 
 #### (d) Management of conservation area ####
 
-(1) The Secretary shall manage the conservation area in a manner that conserves, protects and enhances its resources and values, including the resources and values specified in subsection (a) of this section, pursuant to the Federal Land Policy and Management Act of 1976 [43 U.S.C. 1701 et seq.] and other applicable law, including this subchapter.
+(1) The Secretary shall manage the conservation area in a manner that conserves, protects and enhances its resources and values, including the resources and values specified in subsection (a), pursuant to the Federal Land Policy and Management Act of 1976 [43 U.S.C. 1701 et seq.] and other applicable law, including this subchapter.
 
-(2) The Secretary shall allow only such uses of the conservation area as the Secretary finds will further the purposes for which the conservation area is established. Except where needed for administrative purposes or to respond to an emergency, use of motorized vehicles in the conservation area shall be permitted only on roads specifically designated for such use as part of the management plan prepared pursuant to subsection (g) of this section.
+(2) The Secretary shall allow only such uses of the conservation area as the Secretary finds will further the purposes for which the conservation area is established. Except where needed for administrative purposes or to respond to an emergency, use of motorized vehicles in the conservation area shall be permitted only on roads specifically designated for such use as part of the management plan prepared pursuant to subsection (g).
 
 #### (e) Withdrawal ####
 
@@ -24,7 +24,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 #### (f) Water ####
 
-(1) Congress hereby reserves a quantity of water sufficient to fulfill the purposes, as specified in subsection (a) of this section, for which the conservation area is established. The priority date of this reserved right shall be November 28, 1990.
+(1) Congress hereby reserves a quantity of water sufficient to fulfill the purposes, as specified in subsection (a), for which the conservation area is established. The priority date of this reserved right shall be November 28, 1990.
 
 (2) The Secretary and all other officers of the United States shall take all steps necessary to protect the right reserved by paragraph (1), including the filing by the Secretary of a claim for the quantification of such right in any present or future appropriate stream adjudication in the courts of the State of Arizona in which the United States is or may be joined and which is conducted in accordance with section 666 of title 43.
 
@@ -36,9 +36,9 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 #### (g) Management plan ####
 
-(1) No later than two years after November 28, 1990, the Secretary shall develop a comprehensive plan for the long-term management of the conservation area (hereinafter in this subchapter referred to as the "management plan") in order to fulfill the purposes for which the conservation area is established. The management plan shall be developed with full public participation and shall include provisions designed to assure protection of the resources and values (including the resources and values specified in subsection (a) of this section) of the conservation area.
+(1) No later than two years after November 28, 1990, the Secretary shall develop a comprehensive plan for the long-term management of the conservation area (hereinafter in this subchapter referred to as the "management plan") in order to fulfill the purposes for which the conservation area is established. The management plan shall be developed with full public participation and shall include provisions designed to assure protection of the resources and values (including the resources and values specified in subsection (a)) of the conservation area.
 
-(2) The management plan shall include a discussion of the desirability of the inclusion in the conservation area of additional lands, including the lands not in Federal ownership that are contiguous to the boundary of the conservation area (as depicted on the map referenced in subsection (b) of this section or as hereafter adjusted pursuant to subsection (h) of this section) and within the area extending two miles on either side of the centerline of Eagle Creek from the point where Eagle Creek crosses the southern boundary of the Apache National Forest to the confluence of Eagle Creek with the Gila River (this area is hereafter referred to in this subchapter as the "Eagle Creek riparian area").
+(2) The management plan shall include a discussion of the desirability of the inclusion in the conservation area of additional lands, including the lands not in Federal ownership that are contiguous to the boundary of the conservation area (as depicted on the map referenced in subsection (b) or as hereafter adjusted pursuant to subsection (h)) and within the area extending two miles on either side of the centerline of Eagle Creek from the point where Eagle Creek crosses the southern boundary of the Apache National Forest to the confluence of Eagle Creek with the Gila River (this area is hereafter referred to in this subchapter as the "Eagle Creek riparian area").
 
 (3) In order to better implement the management plan, the Secretary may enter into cooperative agreements with appropriate State and local agencies pursuant to section 307(b) of the Federal Land Policy and Management Act of 1976 [43 U.S.C. 1737(b)].
 

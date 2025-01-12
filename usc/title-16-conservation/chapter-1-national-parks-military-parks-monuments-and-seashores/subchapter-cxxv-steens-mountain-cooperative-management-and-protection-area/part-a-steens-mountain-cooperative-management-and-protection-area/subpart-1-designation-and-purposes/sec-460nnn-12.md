@@ -6,7 +6,7 @@ The purpose of the Cooperative Management and Protection Area is to conserve, pr
 
 #### (b) Objectives ####
 
-To further the purpose specified in subsection (a) of this section, and consistent with such purpose, the Secretary shall manage the Cooperative Management and Protection Area for the benefit of present and future generations—
+To further the purpose specified in subsection (a), and consistent with such purpose, the Secretary shall manage the Cooperative Management and Protection Area for the benefit of present and future generations—
 
 (1) to maintain and enhance cooperative and innovative management projects, programs and agreements between tribal, public, and private interests in the Cooperative Management and Protection Area;
 

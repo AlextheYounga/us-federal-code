@@ -26,9 +26,9 @@ It is the purpose of this section to—
 
 (5) If any individual tract or parcel of land acquired is partly inside and partly outside the boundaries of the park the Secretary may, in order to minimize the payment of severance damages, acquire the whole of the tract or parcel.
 
-(6) If the management plan prepared under subsection (e) of this section provides for improved access to the area added to the park under this section, the Secretary is authorized to acquire, by donation, purchase with donated or appropriated funds, exchange or transfer from other Federal departments or agencies, the area comprising the road from State Route 198 to, and within, the Mineral King Valley together with a right-of-way for such road of a width sufficient to include improvements to the road and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum average width of two hundred feet. Property acquired from the State or any political subdivision thereof may be acquired by donation only. With regard to routes of access to and within the Mineral King Valley, the Secretary shall take such measures as are necessary to protect against the effects of siltation on the ecosystem of the park.
+(6) If the management plan prepared under subsection (e) provides for improved access to the area added to the park under this section, the Secretary is authorized to acquire, by donation, purchase with donated or appropriated funds, exchange or transfer from other Federal departments or agencies, the area comprising the road from State Route 198 to, and within, the Mineral King Valley together with a right-of-way for such road of a width sufficient to include improvements to the road and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum average width of two hundred feet. Property acquired from the State or any political subdivision thereof may be acquired by donation only. With regard to routes of access to and within the Mineral King Valley, the Secretary shall take such measures as are necessary to protect against the effects of siltation on the ecosystem of the park.
 
-(7) The Secretary shall report to the committees of the Congress named in subsection (b)(1) of this section the action taken by him pursuant to this subsection. Such report shall contain information sufficient to inform such committees of—
+(7) The Secretary shall report to the committees of the Congress named in subsection (b)(1) the action taken by him pursuant to this subsection. Such report shall contain information sufficient to inform such committees of—
 
 (A) the acquisitions made by him pursuant to this subsection during the period covered by such report;
 
@@ -36,7 +36,7 @@ It is the purpose of this section to—
 
 (C) his schedule of a timetable for the acquisition of such property referred to in subparagraph (B).
 
-Such report shall be submitted before the expiration of the second fiscal year beginning after the date on which the comprehensive management plan is submitted to the committees of Congress pursuant to subsection (e) of this section.
+Such report shall be submitted before the expiration of the second fiscal year beginning after the date on which the comprehensive management plan is submitted to the committees of Congress pursuant to subsection (e).
 
 #### (d) Administration; statutory authorities applicable; leases or permits: renewals or extensions, review; termination ####
 

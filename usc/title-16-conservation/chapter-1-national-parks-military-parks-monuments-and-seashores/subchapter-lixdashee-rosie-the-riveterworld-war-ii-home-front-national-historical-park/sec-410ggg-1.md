@@ -46,7 +46,7 @@ The Secretary may establish a World War II Home Front Education Center in the Fo
 
 #### (1) Non-Federal matching ####
 
-(A) As a condition of expending any funds appropriated to the Secretary for the purposes of the cooperative agreements under subsection (b)(2) of this section, the Secretary shall require that such expenditure must be matched by expenditure of an equal amount of funds, goods, services, or in-kind contributions provided by non-Federal sources.
+(A) As a condition of expending any funds appropriated to the Secretary for the purposes of the cooperative agreements under subsection (b)(2), the Secretary shall require that such expenditure must be matched by expenditure of an equal amount of funds, goods, services, or in-kind contributions provided by non-Federal sources.
 
 (B) With the approval of the Secretary, any donation of property, services, or goods from a non-Federal source may be considered as a contribution of funds from a non-Federal source for purposes of this paragraph.
 

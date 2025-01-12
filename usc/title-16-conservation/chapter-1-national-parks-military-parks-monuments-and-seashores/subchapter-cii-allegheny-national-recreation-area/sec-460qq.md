@@ -16,13 +16,13 @@ The national recreation area shall be managed for the purposes of—
 
 (4) the conservation of scenic, cultural, and other natural values of the area;
 
-(5) allowing the development of privately owned oil, gas, and mineral resources subject to reasonable conditions prescribed by the Secretary under subsection (c) of this section for the protection of the area; and
+(5) allowing the development of privately owned oil, gas, and mineral resources subject to reasonable conditions prescribed by the Secretary under subsection (c) for the protection of the area; and
 
 (6) minimizing, to the extent practicable, environmental disturbances caused by resource development, consistent with the exercise of private property rights.
 
 #### (c) Administration; plan of operations ####
 
-The Secretary shall administer the national recreation area in accordance with the purposes described in subsection (b) of this section and the laws, rules, and regulations applicable to the National Forest System. Subject to valid existing rights, any activity associated with the exploration, development, or transportation of oil, gas, or other minerals shall be subject to such reasonable conditions as the Secretary may prescribe, and in accordance with the management plan described in subsection (d) of this section, to achieve the purposes, described in subsection (b) of this section, of the national recreation area. For any such activity, the Secretary shall require a plan of operations which shall include provisions for adequate reclamation, including, to the extent practicable, revegetation and rehabilitation after each phase of operations is completed.
+The Secretary shall administer the national recreation area in accordance with the purposes described in subsection (b) and the laws, rules, and regulations applicable to the National Forest System. Subject to valid existing rights, any activity associated with the exploration, development, or transportation of oil, gas, or other minerals shall be subject to such reasonable conditions as the Secretary may prescribe, and in accordance with the management plan described in subsection (d), to achieve the purposes, described in subsection (b), of the national recreation area. For any such activity, the Secretary shall require a plan of operations which shall include provisions for adequate reclamation, including, to the extent practicable, revegetation and rehabilitation after each phase of operations is completed.
 
 #### (d) Management plan ####
 

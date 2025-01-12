@@ -42,7 +42,7 @@ The Secretary shall allow only such uses of the Conservation Area that the Secre
 
 #### (d) Motorized vehicles ####
 
-Except as needed for administrative purposes or to respond to an emergency, the use of motorized vehicles in the Conservation Area shall be permitted only on roads and trails designated for the use of motorized vehicles by the management plan developed under subsection (b) of this section.
+Except as needed for administrative purposes or to respond to an emergency, the use of motorized vehicles in the Conservation Area shall be permitted only on roads and trails designated for the use of motorized vehicles by the management plan developed under subsection (b).
 
 #### (e) Withdrawal ####
 

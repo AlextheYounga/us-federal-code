@@ -6,7 +6,7 @@ The Secretaries of the Interior, Agriculture and Defense and the Chairman of the
 
 #### (b) Federal land managers' rules ####
 
-Each Federal land manager shall promulgate such rules and regulations, consistent with the uniform rules and regulations under subsection (a) of this section, as may be appropriate for the carrying out of his functions and authorities under this chapter.
+Each Federal land manager shall promulgate such rules and regulations, consistent with the uniform rules and regulations under subsection (a), as may be appropriate for the carrying out of his functions and authorities under this chapter.
 
 #### (c) Federal land managers' public awareness program of archaeological resources on public lands and Indian lands ####
 

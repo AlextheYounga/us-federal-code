@@ -10,7 +10,7 @@
 
 #### (b) Land exchanges ####
 
-All exchanges pursuant to subsection (a) of this section shall be made in a manner consistent with section 1716 of title 43.
+All exchanges pursuant to subsection (a) shall be made in a manner consistent with section 1716 of title 43.
 
 (Pub. L. 101–621, §6, Nov. 16, 1990, 104 Stat. 3344; Pub. L. 110–161, div. F, title I, §120, Dec. 26, 2007, 121 Stat. 2121.)
 

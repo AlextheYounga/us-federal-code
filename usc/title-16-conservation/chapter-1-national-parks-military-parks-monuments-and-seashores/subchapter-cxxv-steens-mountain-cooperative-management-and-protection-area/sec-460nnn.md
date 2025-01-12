@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Advisory council ####
 
-The term "advisory council" means the Steens Mountain Advisory Council established by part D of this subchapter.<sup><a href="#460nnn_1_target" name="460nnn_1">1</a></sup>
+The term "advisory council" means the Steens Mountain Advisory Council established by part D.<sup><a href="#460nnn_1_target" name="460nnn_1">1</a></sup>
 
 #### (2) Cooperative management agreement ####
 
@@ -12,7 +12,7 @@ An agreement to plan or implement (or both) cooperative recreation, ecological, 
 
 #### (3) Cooperative Management and Protection Area ####
 
-The term "Cooperative Management and Protection Area" means the Steens Mountain Cooperative Management and Protection Area designated by part A of this subchapter.
+The term "Cooperative Management and Protection Area" means the Steens Mountain Cooperative Management and Protection Area designated by part A.
 
 #### (4) Easements ####
 
@@ -54,7 +54,7 @@ The term "science committee" means the committee of independent scientists appoi
 
 #### (10) Wilderness Area ####
 
-The term "Wilderness Area" means the Steens Mountain Wilderness Area designated by part B of this subchapter.
+The term "Wilderness Area" means the Steens Mountain Wilderness Area designated by part B.
 
 (Pub. L. 106–399, §2, Oct. 30, 2000, 114 Stat. 1656.)
 
@@ -62,7 +62,7 @@ The term "Wilderness Area" means the Steens Mountain Wilderness Area designated 
 
 This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-Part D of this subchapter, referred to in par. (1), probably should be a reference to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
+Part D, referred to in par. (1), was in the original "title IV", meaning title IV of Pub. L. 106–399, but probably should have been a reference to subtitle D of title I of that Act, which is classified generally to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
 
 #### Short Title ####
 

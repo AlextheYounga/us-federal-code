@@ -10,13 +10,13 @@
 
 (A) obtain the information described in paragraph (2) from any market participant; and
 
-(B) rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b) of this section.
+(B) rely on entities other than the Commission to receive and make public the information, subject to the disclosure rules in subsection (b).
 
 (4) In carrying out this section, the Commission shall consider the degree of price transparency provided by existing price publishers and providers of trade processing services, and shall rely on such publishers and services to the maximum extent possible. The Commission may establish an electronic information system if it determines that existing price publications are not adequately providing price discovery or market transparency. Nothing in this section, however, shall affect any electronic information filing requirements in effect under this chapter as of August 8, 2005.
 
 #### (b) Exemption of information from disclosure ####
 
-(1) Rules described in subsection (a)(2) of this section, if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
+(1) Rules described in subsection (a)(2), if adopted, shall exempt from disclosure information the Commission determines would, if disclosed, be detrimental to the operation of an effective market or jeopardize system security.
 
 (2) In determining the information to be made available under this section and time to make the information available, the Commission shall seek to ensure that consumers and competitive markets are protected from the adverse effects of potential collusion or other anticompetitive behaviors that can be facilitated by untimely public disclosure of transaction-specific information.
 

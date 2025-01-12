@@ -2,7 +2,7 @@
 
 #### (a) Acquisition of lands, waters and interests by donation, purchase, etc. ####
 
-Subject to the provisions of subsection (b) of this section, the Secretary is authorized to acquire lands, waters, or interests therein within the Area by donation, purchase, exchange, or otherwise.
+Subject to the provisions of subsection (b) of this subsection,<sup><a href="#541d_1_target" name="541d_1">1</a></sup> the Secretary is authorized to acquire lands, waters, or interests therein within the Area by donation, purchase, exchange, or otherwise.
 
 #### (b) Consent of owner for acquisition of lands in sub-areas; exceptions; guidelines for determination of substantial change in land use or maintenance ####
 
@@ -13,3 +13,5 @@ Within all subareas of the Area except the estuary and associated wetlands subar
 At least thirty days prior to any substantial change in the use or maintenance of any non-federally-owned land within the Area, the owner or owners of such land shall provide notice of such proposed change to the Secretary or his designee, in accordance with such guidelines as the Secretary may establish.
 
 (Pub. L. 93–535, §5, Dec. 22, 1974, 88 Stat. 1733.)
+
+[<sup>1</sup> So in original. Probably should be "section,".](#541d_1)

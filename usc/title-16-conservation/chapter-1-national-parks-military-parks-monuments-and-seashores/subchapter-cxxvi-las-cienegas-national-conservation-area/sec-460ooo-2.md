@@ -22,7 +22,7 @@ Nothing in this subchapter shall be construed as in any way diminishing the Secr
 
 #### (f) Coordinated management ####
 
-The Secretary shall coordinate the management of the public lands within the Acquisition Planning District with that of surrounding county, State, and private lands consistent with the provisions of subsection (d) of this section.
+The Secretary shall coordinate the management of the public lands within the Acquisition Planning District with that of surrounding county, State, and private lands consistent with the provisions of subsection (d).
 
 (Pub. L. 106–538, §3, Dec. 6, 2000, 114 Stat. 2564.)
 

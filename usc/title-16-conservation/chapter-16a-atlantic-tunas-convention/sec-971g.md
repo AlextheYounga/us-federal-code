@@ -26,7 +26,7 @@ If a State requests the opportunity for an agency hearing on the record, the Sec
 
 #### (e) Continuing review of State laws and regulations ####
 
-To insure that the purposes of subsection (d) of this section are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) of this section applies or may apply and the extent to which such laws and regulations are enforced.
+To insure that the purposes of subsection (d) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (d) applies or may apply and the extent to which such laws and regulations are enforced.
 
 (Pub. L. 94–70, §9, Aug. 5, 1975, 89 Stat. 392.)
 

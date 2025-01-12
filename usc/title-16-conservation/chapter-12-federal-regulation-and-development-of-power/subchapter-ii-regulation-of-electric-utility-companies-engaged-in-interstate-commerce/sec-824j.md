@@ -10,7 +10,7 @@ No order may be issued under this section or section 824i of this title if, afte
 
 #### (c) Replacement of electric energy ####
 
-No order may be issued under subsection (a) or (b) of this section which requires the transmitting utility subject to the order to transmit, during any period, an amount of electric energy which replaces any amount of electric energy—
+No order may be issued under subsection (a) or (b) which requires the transmitting utility subject to the order to transmit, during any period, an amount of electric energy which replaces any amount of electric energy—
 
 (1) required to be provided to such applicant pursuant to a contract during such period, or
 
@@ -18,9 +18,9 @@ No order may be issued under subsection (a) or (b) of this section which require
 
 #### (d) Termination or modification of order; notice, hearing and findings of Commission; contents of order; inclusion in order of terms and conditions agreed upon by parties ####
 
-(1) Any transmitting utility ordered under subsection (a) or (b) of this section to provide transmission services may apply to the Commission for an order permitting such transmitting utility to cease providing all, or any portion of, such services. After public notice, notice to each affected State regulatory authority, each affected Federal power marketing agency, each affected transmitting utility, and each affected electric utility, and after an opportunity for an evidentiary hearing, the Commission shall issue an order terminating or modifying the order issued under subsection (a) or (b) of this section, if the transmitting utility providing such transmission services has demonstrated, and the Commission has found, that—
+(1) Any transmitting utility ordered under subsection (a) or (b) to provide transmission services may apply to the Commission for an order permitting such transmitting utility to cease providing all, or any portion of, such services. After public notice, notice to each affected State regulatory authority, each affected Federal power marketing agency, each affected transmitting utility, and each affected electric utility, and after an opportunity for an evidentiary hearing, the Commission shall issue an order terminating or modifying the order issued under subsection (a) or (b), if the transmitting utility providing such transmission services has demonstrated, and the Commission has found, that—
 
-(A) due to changed circumstances, the requirements applicable, under this section and section 824k of this title, to the issuance of an order under subsection (a) or (b) of this section are no longer met, or <sup><a href="#824j_1_target" name="824j_1">1</a></sup>
+(A) due to changed circumstances, the requirements applicable, under this section and section 824k of this title, to the issuance of an order under subsection (a) or (b) are no longer met, or <sup><a href="#824j_1_target" name="824j_1">1</a></sup>
 
 (B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
@@ -28,7 +28,7 @@ No order may be issued under subsection (a) or (b) of this section which require
 
 No order shall be issued under this subsection pursuant to a finding under subparagraph (A) unless the Commission finds that such order is in the public interest.
 
-(2) Any order issued under this subsection terminating or modifying an order issued under subsection (a) or (b) of this section shall—
+(2) Any order issued under this subsection terminating or modifying an order issued under subsection (a) or (b) shall—
 
 (A) provide for any appropriate compensation, and
 
@@ -38,9 +38,9 @@ No order shall be issued under this subsection pursuant to a finding under subpa
 
 (ii) insure that the interests of ratepayers of such utilities are adequately protected.
 
-(3) No order may be issued under this subsection terminating or modifying any order issued under subsection (a) or (b) of this section if the order under subsection (a) or (b) of this section includes terms and conditions agreed upon by the parties which—
+(3) No order may be issued under this subsection terminating or modifying any order issued under subsection (a) or (b) if the order under subsection (a) or (b) includes terms and conditions agreed upon by the parties which—
 
-(A) fix a period during which transmission services are to be provided under the order under subsection (a) or (b) of this section, or
+(A) fix a period during which transmission services are to be provided under the order under subsection (a) or (b), or
 
 (B) otherwise provide procedures or methods for terminating or modifying such order (including, if appropriate, the return of the transmission capacity when necessary to take into account an increase, after the issuance of such order, in the needs of the transmitting utility subject to such order for transmission capacity).
 

@@ -6,11 +6,11 @@ The Secretary of the Interior (hereinafter in this section referred to as the "S
 
 #### (b) Repair and rehabilitation of system ####
 
-The Secretary is authorized to enter into a cooperative agreement with York County, Virginia, under which the Secretary will pay a portion, not to exceed $110,000, of the costs of repair and rehabilitation of the sewage disposal system referred to in subsection (a) of this section.
+The Secretary is authorized to enter into a cooperative agreement with York County, Virginia, under which the Secretary will pay a portion, not to exceed $110,000, of the costs of repair and rehabilitation of the sewage disposal system referred to in subsection (a).
 
 #### (c) Fees and charges ####
 
-In consideration for the rights-of-way granted under subsection (a) of this section, and in recognition of the National Park Service's contribution authorized under subsection (b) of this section, the cooperative agreement under subsection (b) of this section shall provide for a reduction in, or the elimination of, the amounts charged to the National Park Service for its sewage disposal. The cooperative agreement shall also provide for minimizing the impact of the sewage disposal system on the park and its resources. Such system may not be enlarged or substantially altered without National Park Service concurrence.
+In consideration for the rights-of-way granted under subsection (a), and in recognition of the National Park Service's contribution authorized under subsection (b), the cooperative agreement under subsection (b) shall provide for a reduction in, or the elimination of, the amounts charged to the National Park Service for its sewage disposal. The cooperative agreement shall also provide for minimizing the impact of the sewage disposal system on the park and its resources. Such system may not be enlarged or substantially altered without National Park Service concurrence.
 
 #### (d) Inclusion of land in Colonial National Historical Park ####
 

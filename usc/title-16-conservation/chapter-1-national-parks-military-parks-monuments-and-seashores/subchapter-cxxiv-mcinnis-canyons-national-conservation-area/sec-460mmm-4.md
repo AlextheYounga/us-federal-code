@@ -34,9 +34,9 @@ Nothing in this subsection shall be construed to affect discretionary authority 
 
 Except as provided in paragraph (2), use of motorized vehicles in the Conservation Area—
 
-(A) before the effective date of a management plan under subsection (h) of this section, shall be allowed only on roads and trails designated for use of motor vehicles in the management plan that applies on October 24, 2000, to the public lands in the Conservation Area; and
+(A) before the effective date of a management plan under subsection (h), shall be allowed only on roads and trails designated for use of motor vehicles in the management plan that applies on October 24, 2000, to the public lands in the Conservation Area; and
 
-(B) after the effective date of a management plan under subsection (h) of this section, shall be allowed only on roads and trails designated for use of motor vehicles in that management plan.
+(B) after the effective date of a management plan under subsection (h), shall be allowed only on roads and trails designated for use of motor vehicles in that management plan.
 
 #### (2) Administrative and emergency response use ####
 
@@ -134,7 +134,7 @@ The Secretary shall follow the procedural and substantive requirements of the la
 
 (A) As used in this paragraph, the term "water resource facility" means irrigation and pumping facilities, reservoirs, water conservation works, aqueducts, canals, ditches, pipelines, wells, hydropower projects, and transmission and other ancillary facilities, and other water diversion, storage, and carriage structures. Such term does not include any such facilities related to or used for the purpose of livestock grazing.
 
-(B) Except as otherwise provided by subsection (g) of this section or other provisions of this subchapter, on and after October 24, 2000, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within the wilderness area designated by this subchapter.
+(B) Except as otherwise provided by subsection (g) or other provisions of this subchapter, on and after October 24, 2000, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within the wilderness area designated by this subchapter.
 
 (C) Except as provided in this paragraph, nothing in this subchapter shall be construed to affect or limit the use, operation, maintenance, repair, modification, or replacement of water resource facilities in existence on October 24, 2000, within the boundaries of the Wilderness.
 

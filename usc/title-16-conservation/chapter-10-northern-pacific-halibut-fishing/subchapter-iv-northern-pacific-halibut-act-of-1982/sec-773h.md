@@ -6,11 +6,11 @@ Any fishing vessel (including its fishing gear, furniture, appurtenances, stores
 
 #### (b) United States district court jurisdiction ####
 
-Any district court of the United States shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) of this section and any action provided for under subsection (d) of this section.
+Any district court of the United States shall have jurisdiction, upon application by the Attorney General on behalf of the United States, to order any forfeiture authorized under subsection (a) and any action provided for under subsection (d).
 
 #### (c) Seizure of forfeited property ####
 
-If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this subchapter or for which security has not previously been obtained under subsection (d) of this section. The provisions of the customs laws relating to—
+If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this subchapter or for which security has not previously been obtained under subsection (d). The provisions of the customs laws relating to—
 
 (1) the disposition of forfeited property;
 

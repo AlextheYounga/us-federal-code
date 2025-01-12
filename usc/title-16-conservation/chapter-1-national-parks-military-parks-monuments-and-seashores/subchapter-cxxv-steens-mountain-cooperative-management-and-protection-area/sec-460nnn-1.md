@@ -8,21 +8,21 @@ As soon as practicable after October 30, 2000, the Secretary shall prepare and s
 
 (2) The Wilderness Area.
 
-(3) The wild and scenic river segments and redband trout reserve designated by part C of this subchapter.
+(3) The wild and scenic river segments and redband trout reserve designated by part C.
 
-(4) The mineral withdrawal area designated by part D of this subchapter.
+(4) The mineral withdrawal area designated by part D.
 
-(5) The wildlands juniper management area established by part E of this subchapter.
+(5) The wildlands juniper management area established by part E.
 
-(6) The land exchanges required by part F of this subchapter.
+(6) The land exchanges required by part F.
 
 #### (b) Legal effect and correction ####
 
-The maps and legal descriptions referred to in subsection (a) of this section shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such maps and legal descriptions.
+The maps and legal descriptions referred to in subsection (a) shall have the same force and effect as if included in this subchapter, except the Secretary may correct clerical and typographical errors in such maps and legal descriptions.
 
 #### (c) Public availability ####
 
-Copies of the maps and legal descriptions referred to in subsection (a) of this section shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management and in the appropriate office of the Bureau of Land Management in the State of Oregon.
+Copies of the maps and legal descriptions referred to in subsection (a) shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management and in the appropriate office of the Bureau of Land Management in the State of Oregon.
 
 (Pub. L. 106–399, §3, Oct. 30, 2000, 114 Stat. 1657.)
 

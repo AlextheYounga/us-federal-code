@@ -6,6 +6,6 @@ There are hereby authorized to be appropriated an amount not to exceed $5,000,00
 
 #### (b) Other purposes ####
 
-In addition to the amounts authorized to be appropriated under subsection (a) of this section, there are authorized to be appropriated not more than $5,000,000 for development to carry out the other purposes of this subchapter.
+In addition to the amounts authorized to be appropriated under subsection (a), there are authorized to be appropriated not more than $5,000,000 for development to carry out the other purposes of this subchapter.
 
 (Pub. L. 101–292, §9, May 17, 1990, 104 Stat. 190.)

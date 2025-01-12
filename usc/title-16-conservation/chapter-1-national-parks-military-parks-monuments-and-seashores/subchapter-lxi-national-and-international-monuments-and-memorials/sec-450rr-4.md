@@ -10,7 +10,7 @@ The Secretary is directed to enter into negotiations with the United Kingdom, Fr
 
 #### (b) Consultation with Administrator ####
 
-In carrying out the requirements of subsection (a) of this section, the Secretary shall consult with the Administrator, who shall provide research and technical assistance to the Secretary.
+In carrying out the requirements of subsection (a), the Secretary shall consult with the Administrator, who shall provide research and technical assistance to the Secretary.
 
 #### (c) Reports to Congressional committees on progress of negotiations and consultations ####
 
@@ -18,7 +18,7 @@ The Secretary and the Administrator shall report semiannually to the Committee o
 
 #### (d) Notification of agreement and recommendations to Congressional committees ####
 
-Upon adoption of an international agreement as described in subsection (a) of this section, the Secretary shall provide notification of the agreement and recommendations for legislation to implement the agreement to the Committee on Merchant Marine and Fisheries and the Committee on Foreign Affairs in the House of Representatives and to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation in the Senate.
+Upon adoption of an international agreement as described in subsection (a), the Secretary shall provide notification of the agreement and recommendations for legislation to implement the agreement to the Committee on Merchant Marine and Fisheries and the Committee on Foreign Affairs in the House of Representatives and to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation in the Senate.
 
 (Pub. L. 99–513, §6, Oct. 21, 1986, 100 Stat. 2083.)
 

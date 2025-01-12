@@ -1,8 +1,8 @@
 ### §459b. Cape Cod National Seashore; description of area ###
 
-(a) The area comprising that portion of the land and waters located in the towns of Provincetown, Truro, Wellfleet, Eastham, Orleans, and Chatham in the Commonwealth of Massachusetts, and described in subsection (b) of this section, is designated for establishment as Cape Cod National Seashore (hereinafter referred to as "the seashore").
+(a) The area comprising that portion of the land and waters located in the towns of Provincetown, Truro, Wellfleet, Eastham, Orleans, and Chatham in the Commonwealth of Massachusetts, and described in subsection (b), is designated for establishment as Cape Cod National Seashore (hereinafter referred to as "the seashore").
 
-(b) The area referred to in subsection (a) of this section is described as follows:
+(b) The area referred to in subsection (a) is described as follows:
 
 Beginning at a point in the Atlantic Ocean one-quarter of a mile due west of the mean low-water line of the Atlantic Ocean on Cape Cod at the westernmost extremity of Race Point, Provincetown, Massachusetts;
 

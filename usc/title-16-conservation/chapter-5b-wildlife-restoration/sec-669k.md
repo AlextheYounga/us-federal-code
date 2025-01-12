@@ -48,7 +48,7 @@ Not later than December 31 of a fiscal year, the Secretary of the Interior shall
 
 #### (e) Limitation on delegation ####
 
-The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) of this section to any person except the Assistant Secretary for Fish and Wildlife and Parks.
+The Secretary of the Interior shall not delegate the responsibility for making a certification under subsection (c) to any person except the Assistant Secretary for Fish and Wildlife and Parks.
 
 (Pub. L. 106–408, title I, §133, Nov. 1, 2000, 114 Stat. 1775.)
 

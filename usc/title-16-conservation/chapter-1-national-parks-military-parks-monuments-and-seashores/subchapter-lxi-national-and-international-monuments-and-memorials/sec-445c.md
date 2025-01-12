@@ -10,7 +10,7 @@ The administration, protection, and development of such monument shall be exerci
 
 #### (c) Quarry rights of Indians ####
 
-The quarrying of the red pipestone in the lands described in subsection (a) of this section is expressly reserved to Indians of all tribes, under regulations to be prescribed by the Secretary of the Interior.
+The quarrying of the red pipestone in the lands described in subsection (a) is expressly reserved to Indians of all tribes, under regulations to be prescribed by the Secretary of the Interior.
 
 (Aug. 25, 1937, ch. 768, §§1–3, 50 Stat. 804, 805.)
 

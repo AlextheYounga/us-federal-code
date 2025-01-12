@@ -6,7 +6,7 @@
 
 #### (1) In general ####
 
-Subject to the amendment made by subsection (a) of this section,<sup><a href="#410hhh-7_1_target" name="410hhh-7_1">1</a></sup> nothing in this subchapter affects—
+Subject to the amendment made by subsection (a),<sup><a href="#410hhh-7_1_target" name="410hhh-7_1">1</a></sup> nothing in this subchapter affects—
 
 (A) the use, allocation, ownership, or control, in existence on November 22, 2000, of any water, water right, or any other valid existing right;
 
@@ -30,7 +30,7 @@ In carrying out this subchapter, the Secretary shall obtain and exercise any wat
 
 (ii) the Closed Basin Division, San Luis Valley Project.
 
-(D) Except as provided in subsections (c) and (d) of this section, no Federal reservation of water may be claimed or established for the national park or the national preserve.
+(D) Except as provided in subsections (c) and (d), no Federal reservation of water may be claimed or established for the national park or the national preserve.
 
 #### (c) National Forest water rights ####
 

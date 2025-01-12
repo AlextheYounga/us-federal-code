@@ -40,6 +40,6 @@ Nothing in this section shall enlarge or diminish the responsibility and authori
 
 #### (d) Authority of Secretary of Agriculture to manage national forests ####
 
-Except as specifically provided in subsection (b)(5) of this section nothing in this section shall enlarge or diminish the responsibilities and authorities of the Secretary of Agriculture to manage the national forests.
+Except as specifically provided in subsection (b)(5), nothing in this section shall enlarge or diminish the responsibilities and authorities of the Secretary of Agriculture to manage the national forests.
 
 (Pub. L. 96–487, title V, §505, Dec. 2, 1980, 94 Stat. 2405.)

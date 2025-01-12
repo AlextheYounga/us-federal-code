@@ -22,7 +22,7 @@ The Secretary, after consulting with the Salt River Bay National Historical Park
 
 (D) Proposals for assessing the potential operation and supply of park concessions by qualified Virgin Islands-owned businesses.
 
-(E) Plans for the training of personnel in accordance with subsection (e) <sup><a href="#410tt-3_3_target" name="410tt-3_3">3</a></sup> of this section.
+(E) Plans for the training of personnel in accordance with subsection (e).<sup><a href="#410tt-3_3_target" name="410tt-3_3">3</a></sup>
 
 #### (d) Training assistance ####
 
@@ -50,4 +50,4 @@ The National Historic Preservation Act, referred to in subsec. (c)(2)(C), is Pub
 
 [<sup>2</sup> So in original. Probably should be "Archaeological".](#410tt-3_2)
 
-[<sup>3</sup> So in original. Probably should be subsection "(d)".](#410tt-3_3)
+[<sup>3</sup> So in original. Probably should be "subsection (d)."](#410tt-3_3)
