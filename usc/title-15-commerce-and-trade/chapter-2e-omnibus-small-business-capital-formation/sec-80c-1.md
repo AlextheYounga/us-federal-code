@@ -16,9 +16,23 @@ The Commission may request any of the Federal departments, agencies, or organiza
 
 A summary of the proceedings of such forums and any findings or recommendations thereof shall be prepared and transmitted to the participants, appropriate committees of the Congress, and others who may be interested in the subject matter.
 
-(Pub. L. 96–477, title V, §503, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 114–284, §2(c), Dec. 16, 2016, 130 Stat. 1452.)
+#### (e) Review of findings and recommendations ####
+
+The Commission shall—
+
+(1) review the findings and recommendations of the forum; and
+
+(2) each time the forum submits a finding or recommendation to the Commission, promptly issue a public statement—
+
+(A) assessing the finding or recommendation of the forum; and
+
+(B) disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
+
+(Pub. L. 96–477, title V, §503, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 114–284, §2(c), Dec. 16, 2016, 130 Stat. 1452; Pub. L. 115–174, title V, §503, May 24, 2018, 132 Stat. 1362.)
 
 #### Amendments ####
+
+**2018**—Subsec. (e). Pub. L. 115–174 added subsec. (e).
 
 **2016**—Subsec. (a). Pub. L. 114–284 inserted "(acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee)" after "the Securities and Exchange Commission".
 

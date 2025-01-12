@@ -8,6 +8,22 @@ The National Zoological Park is placed under the direction of the Regents of the
 
 **1961**—Pub. L. 87–360 inserted "and improve" after "administer".
 
+#### Central Parking Facility ####
+
+Pub. L. 115–178, June 1, 2018, 132 Stat. 1379, provided that:
+
+#### "SECTION 1. SHORT TITLE. ####
+
+"This Act may be cited as the 'Smithsonian National Zoological Park Central Parking Facility Authorization Act'.
+
+#### "SEC. 2. FACILITY FOR IMPROVED VISITOR EXPERIENCE AND ACCESS AT THE NATIONAL ZOOLOGICAL PARK. ####
+
+"(a) In General.—In order to improve visitor experience and multi-modal access to the Smithsonian National Zoological Park, the Board of Regents of the Smithsonian Institution is authorized to plan, design, and construct a central parking facility on National Zoological Park property in the District of Columbia.
+
+"(b) Central Parking Facility.—The facility authorized under this section may include parking, transportation improvements, visitor amenities including restrooms, a pedestrian bridge to a midpoint entry of the National Zoological Park, and ancillary works to accommodate alternative uses of the facility.
+
+"(c) Funding.—Construction of the facility described in this section shall be conducted with funds from nonappropriated sources."
+
 #### Establishment of Parks ####
 
 The National Zoological Park was established under provisions of the District of Columbia Appropriation Act for the Fiscal Year 1890, act Mar. 2, 1889, ch. 370, §4, 25 Stat. 808, which constituted a commission to select from a certain district along Rock Creek a tract of land, including a section of the creek, suitable for a zoological park, and to purchase the land so selected, or take proceedings for the condemnation thereof, the United States to have title to the land on payment therefor to the owners.

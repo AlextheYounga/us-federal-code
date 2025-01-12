@@ -216,6 +216,22 @@ Amendment by Pub. L. 94–29 effective Jan. 1, 1976, see section 31(a) of Pub. L
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
+#### Securities and Exchange Commission Overpayment Credit ####
+
+Pub. L. 115–174, title V, §505, May 24, 2018, 132 Stat. 1362, provided that:
+
+"(a) Definitions.—In this section—
+
+"(1) the term 'Commission' means the Securities and Exchange Commission;
+
+"(2) the term 'national securities association' means an association that is registered under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3); and
+
+"(3) the term 'national securities exchange' means an exchange that is registered as a national securities exchange under section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f).
+
+"(b) Credit for Overpayment of Fees.—Notwithstanding section 31(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78ee(j)), and subject to subsection (c) of this section, if a national securities exchange or a national securities association has paid fees and assessments to the Commission in an amount that is more than the amount that the exchange or association was required to pay under section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee) and, not later than 10 years after the date of such payment, the exchange or association informs the Commission about the payment of such excess amount, the Commission shall offset future fees and assessments due by that exchange or association in an amount that is equal to the difference between the amount that the exchange or association paid and the amount that the exchange or association was required to pay under such section 31.
+
+"(c) Applicability.—Subsection (b) shall apply only to fees and assessments that a national securities exchange or a national securities association was required to pay to the Commission before the date of enactment of this Act [May 24, 2018]."
+
 #### Budget of the President ####
 
 Pub. L. 111–203, title IX, §991(d)(2), July 21, 2010, 124 Stat. 1954, provided that: "For fiscal year 2012, and each fiscal year thereafter, the annual budget for the Administration submitted by the President to Congress shall reflect the amendments made by this section [amending this section and sections 77f, 78d, 78m, 78n, and 78kk of this title]."

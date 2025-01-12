@@ -862,6 +862,14 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
+#### Improving Access to Capital ####
+
+Pub. L. 115–174, title V, §508, May 24, 2018, 132 Stat. 1364, provided that: "The Securities and Exchange Commission shall amend—
+
+"(1) section 230.251 of title 17, Code of Federal Regulations, to remove the requirement that the issuer not be subject to section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) [15 U.S.C. 78m, 78o(d)] immediately before the offering; and
+
+"(2) section 230.257 of title 17, Code of Federal Regulations, with respect to an offering described in section 230.251(a)(2) of title 17, Code of Federal Regulations, to deem any issuer that is subject to section 13 or 15(d) of the Securities Exchange Act of 1934 as having met the periodic and current reporting requirements of section 230.257 of title 17, Code of Federal Regulations, if such issuer meets the reporting requirements of section 13 of the Securities Exchange Act of 1934."
+
 #### Summary Page for Form 10–K ####
 
 Pub. L. 114–94, div. G, title LXXII, §72001, Dec. 4, 2015, 129 Stat. 1784, provided that: "Not later than the end of the 180-day period beginning on the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates."

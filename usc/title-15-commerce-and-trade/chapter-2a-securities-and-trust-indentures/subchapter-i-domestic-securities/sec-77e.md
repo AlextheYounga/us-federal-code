@@ -56,6 +56,10 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
 
+#### Encouraging Employee Ownership ####
+
+Pub. L. 115–174, title V, §507, May 24, 2018, 132 Stat. 1363, provided that: "Not later than 60 days after the date of the enactment of this Act [May 24, 2018], the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000."
+
 #### Fair Access to Investment Research ####
 
 Pub. L. 115–66, Oct. 6, 2017, 131 Stat. 1196, provided that:

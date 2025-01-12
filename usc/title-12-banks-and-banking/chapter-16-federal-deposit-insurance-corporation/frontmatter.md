@@ -52,6 +52,8 @@ Sec.
 
 1829b. Retention of records by insured depository institutions.
 
+1829c. Making online banking initiation legal and easy.
+
 1830. Nondiscrimination.
 
 1831. Separability of certain provisions of this chapter.
@@ -119,6 +121,8 @@ Sec.
 1831z. Bi-annual FDIC survey and report on encouraging use of depository institutions by the unbanked.
 
 1831aa. Enforcement of agreements.
+
+1831bb. Capital requirements for certain acquisition, development, or construction loans.
 
 1832. Withdrawals by negotiable or transferable instruments for transfers to third parties.
 

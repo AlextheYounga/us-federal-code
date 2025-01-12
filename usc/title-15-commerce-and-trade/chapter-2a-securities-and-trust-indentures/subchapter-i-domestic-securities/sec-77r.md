@@ -26,11 +26,9 @@ For purposes of this section, the following are covered securities:
 
 A security is a covered security if such security is—
 
-(A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
+(A) a security designated as qualified for trading in the national market system pursuant to section 78k–1(a)(2) of this title that is listed, or authorized for listing, on a national securities exchange (or tier or segment thereof); or
 
-(B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
-
-(C) a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
+(B) a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A).
 
 #### (2) Exclusive Federal registration of investment companies ####
 
@@ -142,7 +140,7 @@ The term "State" has the same meaning as in section 78c of this title.
 
 The term "senior security" means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
 
-(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, §305(a), (b)(2), (c), (d)(2), title IV, §401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325; Pub. L. 114–94, div. G, title LXXVI, §76001(b), Dec. 4, 2015, 129 Stat. 1789.)
+(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, §305(a), (b)(2), (c), (d)(2), title IV, §401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325; Pub. L. 114–94, div. G, title LXXVI, §76001(b), Dec. 4, 2015, 129 Stat. 1789; Pub. L. 115–174, title V, §501, May 24, 2018, 132 Stat. 1361.)
 
 #### References in Text ####
 
@@ -151,6 +149,16 @@ The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of
 Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(1)(A). Pub. L. 115–174, §501(1), (4), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: "listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);".
+
+Subsec. (b)(1)(B). Pub. L. 115–174, §501(4), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
+
+Pub. L. 115–174, §501(2), inserted "a security designated as qualified for trading in the national market system pursuant to section 78k–1(a)(2) of this title that is" before "listed" and struck out "that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A)" after "(or tier or segment thereof)".
+
+Subsec. (b)(1)(C). Pub. L. 115–174, §501(4), redesignated subpar. (C) as (B).
+
+Pub. L. 115–174, §501(3), struck out "or (B)" after "described in subparagraph (A)".
 
 **2015**—Subsec. (b)(4)(E). Pub. L. 114–94, §76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating "the second subparagraph (D)" as (E), was executed by making the redesignation for the subpar. (D) relating to section 77c(a) of this title to reflect the probable intent of Congress. Former subpar. (E) redesignated (F).
 

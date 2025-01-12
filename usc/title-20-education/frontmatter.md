@@ -147,7 +147,7 @@ Chap. Sec.
 
 66. Morris K. Udall and Stewart L. Udall Foundation 5601
 
-67. Christopher Columbus Fellowship Foundation 5701
+67. Christopher Columbus Fellowship Foundation [Repealed] 5701
 
 68. National Education Reform 5801
 

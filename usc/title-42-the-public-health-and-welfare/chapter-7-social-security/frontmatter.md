@@ -32,6 +32,8 @@ Sec.
 
 405a. Regulations pertaining to frequency or due dates of payments and reports under voluntary agreements covering State and local employees; effective date.
 
+405b. Reducing identity fraud.
+
 406. Representation of claimants before Commissioner.
 
 407. Assignment of benefits.

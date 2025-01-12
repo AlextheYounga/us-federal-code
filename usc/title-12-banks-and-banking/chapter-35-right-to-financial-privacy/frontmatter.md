@@ -45,3 +45,5 @@ Sec.
 3421. Repealed.
 
 3422. Applicability to Securities and Exchange Commission.
+
+3423. Immunity from suit for disclosure of financial exploitation of senior citizens.

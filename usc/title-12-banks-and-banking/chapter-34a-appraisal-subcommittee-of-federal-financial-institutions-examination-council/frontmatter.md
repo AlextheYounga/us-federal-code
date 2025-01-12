@@ -51,3 +51,5 @@ Sec.
 3354. Automated valuation models used to estimate collateral value for mortgage lending purposes.
 
 3355. Broker price opinions.
+
+3356. Exemption from appraisals of real estate located in rural areas.
