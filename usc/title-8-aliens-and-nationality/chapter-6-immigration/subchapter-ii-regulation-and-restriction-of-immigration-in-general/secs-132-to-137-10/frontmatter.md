@@ -18,7 +18,7 @@ Section 137–2, acts Oct. 16, 1918, ch. 186, §3, 40 Stat. 1012; Sept. 23, 1950
 
 Section 137–3, act Oct. 16, 1918, ch. 186, §4, as added Sept. 23, 1950, ch. 1024, title I, §22, 64 Stat. 1006, related to deportation of subversive aliens.
 
-Sections 137–4 to 137–8, act Oct. 16, 1918, ch. 186, §§5–9, as added Sept. 23, 1950, ch. 1024, title I, §22, 64 Stat., 1006, related to temporary exclusion of suspects, subversive aliens and penalties. See sections 1102, 1182, 1225, 1253, 1326 and 1327 of this title.
+Sections 137–4 to 137–8, act Oct. 16, 1918, ch. 186, §§5–9, as added Sept. 23, 1950, ch. 1024, title I, §22, 64 Stat. 1006, related to temporary exclusion of suspects, subversive aliens and penalties. See sections 1102, 1182, 1225, 1253, 1326 and 1327 of this title.
 
 Section 137–9, act Mar. 28, 1951, ch. 23, §1, 65 Stat. 28, related to clarification of immigration status of certain aliens.
 
