@@ -16,13 +16,13 @@ Any activities under a grant under paragraph (1) shall be based on reliable scie
 
 #### (b) Geographic distribution ####
 
-The Director shall ensure that grants under subsection (a) of this section are distributed equitably among the various regions of the country and among rural, urban, and suburban areas that are affected by methamphetamine or amphetamine abuse or addiction.
+The Director shall ensure that grants under subsection (a) are distributed equitably among the various regions of the country and among rural, urban, and suburban areas that are affected by methamphetamine or amphetamine abuse or addiction.
 
 #### (c) Additional activities ####
 
 The Director shall—
 
-(1) evaluate the activities supported by grants under subsection (a) of this section;
+(1) evaluate the activities supported by grants under subsection (a);
 
 (2) disseminate widely such significant information derived from the evaluation as the Director considers appropriate to assist States, Indian tribes, and private providers of treatment services for methamphetamine or amphetamine abuser or addiction in the treatment of methamphetamine or amphetamine abuse or addiction; and
 
@@ -36,7 +36,7 @@ There are authorized to be appropriated to carry out this section $10,000,000 fo
 
 #### (2) Use of certain funds ####
 
-Of the funds appropriated to carry out this section in any fiscal year, the lesser of 5 percent of such funds or $1,000,000 shall be available to the Director for purposes of carrying out subsection (c) of this section.
+Of the funds appropriated to carry out this section in any fiscal year, the lesser of 5 percent of such funds or $1,000,000 shall be available to the Director for purposes of carrying out subsection (c).
 
 (July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXVI, §3632, Oct. 17, 2000, 114 Stat. 1236.)
 

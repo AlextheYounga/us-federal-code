@@ -6,7 +6,7 @@ The Secretary shall establish guidelines with respect to placing automated exter
 
 #### (b) Related recommendations ####
 
-The Secretary shall publish in the Federal Register the recommendations of the Secretary on the appropriate implementation of the placement of automated external defibrillator devices under subsection (a) of this section, including procedures for the following:
+The Secretary shall publish in the Federal Register the recommendations of the Secretary on the appropriate implementation of the placement of automated external defibrillator devices under subsection (a), including procedures for the following:
 
 (1) Implementing appropriate training courses in the use of such devices, including the role of cardiopulmonary resuscitation.
 

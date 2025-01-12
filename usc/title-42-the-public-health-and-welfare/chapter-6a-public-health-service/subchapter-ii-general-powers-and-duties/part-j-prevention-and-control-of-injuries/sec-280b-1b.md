@@ -30,7 +30,7 @@ There is authorized to be appropriated to carry out this section $50,000,000 for
 
 #### (2) National sexual violence resource center allotment ####
 
-Of the total amount made available under this subsection in each fiscal year, not less than $1,500,000 shall be available for allotment under subsection (b) of this section.
+Of the total amount made available under this subsection in each fiscal year, not less than $1,500,000 shall be available for allotment under subsection (b).
 
 #### (3) Baseline funding for States, the District of Columbia, and Puerto Rico ####
 
@@ -40,7 +40,7 @@ A minimum allocation of $150,000 shall be awarded in each fiscal year for each o
 
 #### (1) Supplement not supplant ####
 
-Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services of the type described in subsection (a) of this section.
+Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services of the type described in subsection (a).
 
 #### (2) Studies ####
 

@@ -6,7 +6,7 @@ In accordance with regulations which the Secretary shall prescribe, each group h
 
 #### (b) Exception for certain plans ####
 
-Subsection (a) of this section shall not apply to—
+Subsection (a) shall not apply to—
 
 (1) any group health plan for any calendar year if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year, or
 

@@ -18,6 +18,8 @@ Sec.
 
 10603e. Crime victims notification grants.
 
+10603f. Sexual assault survivors' notification grants.
+
 10604. Administrative provisions.
 
 10605. Establishment of Office for Victims of Crime.

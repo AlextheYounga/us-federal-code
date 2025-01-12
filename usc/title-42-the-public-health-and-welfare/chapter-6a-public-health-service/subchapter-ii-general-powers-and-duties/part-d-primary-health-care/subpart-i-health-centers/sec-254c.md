@@ -8,7 +8,7 @@ The purpose of this section is to provide grants for expanded delivery of health
 
 #### (1) Director ####
 
-The term "Director" means the Director specified in subsection (d) of this section.
+The term "Director" means the Director specified in subsection (d).
 
 #### (2) Federally qualified health center; rural health clinic ####
 
@@ -40,17 +40,17 @@ The rural health care services outreach, rural health network development, and s
 
 #### (A) In general ####
 
-In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) of this section to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
+In carrying out the programs described in paragraph (1), the Director may award grants under subsections (e), (f), and (g) to expand access to, coordinate, and improve the quality of essential health care services, and enhance the delivery of health care, in rural areas.
 
 #### (B) Types of grants ####
 
 The Director may award the grants—
 
-(i) to promote expanded delivery of health care services in rural areas under subsection (e) of this section;
+(i) to promote expanded delivery of health care services in rural areas under subsection (e);
 
-(ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f) of this section; and
+(ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f); and
 
-(iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g) of this section.
+(iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g).
 
 #### (e) Rural health care services outreach grants ####
 
@@ -206,7 +206,7 @@ In awarding grants under this section, the Secretary shall give preference to en
 
 #### (i) Report ####
 
-Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g) of this section.
+Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report on the progress and accomplishments of the grant programs described in subsections (e), (f), and (g).
 
 #### (j) Authorization of appropriations ####
 

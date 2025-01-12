@@ -2,17 +2,17 @@
 
 #### (a) In general ####
 
-As a condition of receiving grants, cooperative agreements, or contracts under this chapter, each of the entities specified in subsection (c) of this section shall, to the extent determined to be appropriate by the Secretary, make available information concerning breast and cervical cancer.
+As a condition of receiving grants, cooperative agreements, or contracts under this chapter, each of the entities specified in subsection (c) shall, to the extent determined to be appropriate by the Secretary, make available information concerning breast and cervical cancer.
 
 #### (b) Certain authorities ####
 
-In carrying out subsection (a) of this section, an entity specified in subsection (c) of this section—
+In carrying out subsection (a), an entity specified in subsection (c)—
 
 (1) may make the information involved available to such individuals as the entity determines appropriate;
 
-(2) may, as appropriate, provide information under subsection (a) of this section on the need for self-examination of the breasts and on the skills for such self-examinations;
+(2) may, as appropriate, provide information under subsection (a) on the need for self-examination of the breasts and on the skills for such self-examinations;
 
-(3) shall provide information under subsection (a) of this section in the language and cultural context most appropriate to the individuals to whom the information is provided; and
+(3) shall provide information under subsection (a) in the language and cultural context most appropriate to the individuals to whom the information is provided; and
 
 (4) shall refer such clients as the entities determine appropriate for breast and cervical cancer screening, treatment, or other appropriate services.
 
@@ -32,11 +32,11 @@ The entities specified in this subsection are the following:
 
 (6) Entities receiving assistance under section 256a <sup><a href="#256d_1_target" name="256d_1">1</a></sup> of this title (relating to health services for residents of public housing).
 
-(7) Entities providing services with assistance under subchapter III–A of this chapter or subchapter XVII of this chapter.
+(7) Entities providing services with assistance under subchapter III–A or subchapter XVII.
 
 (8) Entities receiving assistance under section 300 of this title (relating to family planning).
 
-(9) Entities receiving assistance under subchapter XXIV of this chapter (relating to services with respect to acquired immune deficiency syndrome).
+(9) Entities receiving assistance under subchapter XXIV (relating to services with respect to acquired immune deficiency syndrome).
 
 (10) Non-Federal entities authorized under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.].
 

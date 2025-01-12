@@ -2,13 +2,13 @@
 
 #### (a) Training ####
 
-Not later than 1 year after October 17, 2000, the Secretary, after consultation with appropriate State and local protection and advocacy organizations, physicians, facilities, and other health care professionals and patients, shall promulgate regulations that require facilities to which the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup><a href="#290ii-2_1_target" name="290ii-2_1">1</a></sup> (42 U.S.C. 10801 et seq.) applies, to meet the requirements of subsection (b) of this section.
+Not later than 1 year after October 17, 2000, the Secretary, after consultation with appropriate State and local protection and advocacy organizations, physicians, facilities, and other health care professionals and patients, shall promulgate regulations that require facilities to which the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup><a href="#290ii-2_1_target" name="290ii-2_1">1</a></sup> (42 U.S.C. 10801 et seq.) applies, to meet the requirements of subsection (b).
 
 #### (b) Requirements ####
 
-The regulations promulgated under subsection (a) of this section shall require that—
+The regulations promulgated under subsection (a) shall require that—
 
-(1) facilities described in subsection (a) of this section ensure that there is an adequate number of qualified professional and supportive staff to evaluate patients, formulate written individualized, comprehensive treatment plans, and to provide active treatment measures;
+(1) facilities described in subsection (a) ensure that there is an adequate number of qualified professional and supportive staff to evaluate patients, formulate written individualized, comprehensive treatment plans, and to provide active treatment measures;
 
 (2) appropriate training be provided for the staff of such facilities in the use of restraints and any alternatives to the use of restraints; and
 

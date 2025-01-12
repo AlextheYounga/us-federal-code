@@ -6,7 +6,7 @@ The Secretary may make awards of grants and cooperative agreements to appropriat
 
 #### (b) Authority regarding non-Federal contributions ####
 
-The Secretary may require as a condition of an award under subsection (a) of this section that a grantee under such subsection provide non-Federal contributions toward the purpose described in such subsection.
+The Secretary may require as a condition of an award under subsection (a) that a grantee under such subsection provide non-Federal contributions toward the purpose described in such subsection.
 
 #### (c) Authorization of appropriations ####
 

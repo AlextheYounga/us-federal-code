@@ -10,7 +10,7 @@ The Director of the Center for Substance Abuse Prevention (referred to in this s
 
 #### (b) Use of funds ####
 
-Amounts made available under a grant, contract or cooperative agreement under subsection (a) of this section shall be used for planning, establishing, or administering methamphetamine or inhalant prevention programs in accordance with subsection (c) of this section.
+Amounts made available under a grant, contract or cooperative agreement under subsection (a) shall be used for planning, establishing, or administering methamphetamine or inhalant prevention programs in accordance with subsection (c).
 
 #### (c) Prevention programs and activities ####
 
@@ -48,7 +48,7 @@ The Director shall submit to the Committee on Health, Education, Labor, and Pens
 
 #### (e) Authorization of appropriations ####
 
-There is authorized to be appropriated to carry out subsection (a) of this section, $10,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
+There is authorized to be appropriated to carry out subsection (a), $10,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §519E, as added Pub. L. 106–310, div. B, title XXXI, §3104(c), Oct. 17, 2000, 114 Stat. 1173.)
 

@@ -12,7 +12,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (b) Requirement with respect to age of recipients of services ####
 
-The Secretary may not make a grant under subsection (a) of this section to a State unless the State agrees to ensure that—
+The Secretary may not make a grant under subsection (a) to a State unless the State agrees to ensure that—
 
 (1) not less than 25 percent of the grant is expended to provide services under such subsection to individuals who are not less than 65 years of age; and
 
@@ -20,7 +20,7 @@ The Secretary may not make a grant under subsection (a) of this section to a Sta
 
 #### (c) Relationship to items and services under other programs ####
 
-A State may not make payments from a grant under subsection (a) of this section for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
+A State may not make payments from a grant under subsection (a) for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service—
 
 (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 

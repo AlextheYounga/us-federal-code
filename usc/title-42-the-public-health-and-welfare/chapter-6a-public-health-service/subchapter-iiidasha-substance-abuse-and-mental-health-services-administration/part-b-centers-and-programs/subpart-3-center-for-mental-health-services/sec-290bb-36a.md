@@ -6,7 +6,7 @@ The Secretary shall award grants or cooperative agreements to public organizatio
 
 #### (b) Collaboration ####
 
-In carrying out subsection (a) of this section, the Secretary shall ensure that activities under this section are coordinated with the relevant Department of Health and Human Services agencies and suicide working groups.
+In carrying out subsection (a), the Secretary shall ensure that activities under this section are coordinated with the relevant Department of Health and Human Services agencies and suicide working groups.
 
 #### (c) Requirements ####
 
@@ -40,23 +40,23 @@ Amounts provided under a grant or cooperative agreement under this section shall
 
 #### (e) Condition ####
 
-An applicant for a grant or cooperative agreement under subsection (a) of this section shall demonstrate to the Secretary that the application complies with the State-sponsored statewide early intervention and prevention strategy as developed under section 290bb–36 of this title and the applicant has the support of the local community and relevant public health officials.
+An applicant for a grant or cooperative agreement under subsection (a) shall demonstrate to the Secretary that the application complies with the State-sponsored statewide early intervention and prevention strategy as developed under section 290bb–36 of this title and the applicant has the support of the local community and relevant public health officials.
 
 #### (f) Special populations ####
 
-In awarding grants and cooperative agreements under subsection (a) of this section, the Secretary shall ensure that such awards are made in a manner that will focus on the needs of communities or groups that experience high or rapidly rising rates of suicide.
+In awarding grants and cooperative agreements under subsection (a), the Secretary shall ensure that such awards are made in a manner that will focus on the needs of communities or groups that experience high or rapidly rising rates of suicide.
 
 #### (g) Application ####
 
-A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving a grant or cooperative agreement under subsection (a) of this section shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. Such application shall include a plan for the rigorous evaluation of activities funded under the grant or cooperative agreement, including a process and outcome evaluation.
+A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving a grant or cooperative agreement under subsection (a) shall prepare and submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. Such application shall include a plan for the rigorous evaluation of activities funded under the grant or cooperative agreement, including a process and outcome evaluation.
 
 #### (h) Distribution of awards ####
 
-In awarding grants and cooperative agreements under subsection (a) of this section, the Secretary shall ensure that such awards are distributed among the geographical regions of the United States and between urban and rural settings.
+In awarding grants and cooperative agreements under subsection (a), the Secretary shall ensure that such awards are distributed among the geographical regions of the United States and between urban and rural settings.
 
 #### (i) Evaluation ####
 
-A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving a grant or cooperative agreement under subsection (a) of this section shall prepare and submit to the Secretary at the end of the program period, an evaluation of all activities funded under this section.
+A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving a grant or cooperative agreement under subsection (a) shall prepare and submit to the Secretary at the end of the program period, an evaluation of all activities funded under this section.
 
 #### (j) Dissemination and education ####
 

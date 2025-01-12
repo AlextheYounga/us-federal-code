@@ -2,11 +2,11 @@
 
 #### (a) In general ####
 
-For the purpose described in subsection (b) of this section, the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title. The Secretary shall make a grant to the State of the allotment made for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title.
+For the purpose described in subsection (b), the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title. The Secretary shall make a grant to the State of the allotment made for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title.
 
 #### (b) Purpose of grants ####
 
-A funding agreement for a grant under subsection (a) of this section is that, subject to section 300x–5 of this title, the State involved will expend the grant only for the purpose of—
+A funding agreement for a grant under subsection (a) is that, subject to section 300x–5 of this title, the State involved will expend the grant only for the purpose of—
 
 (1) carrying out the plan submitted under section 300x–1(a) of this title by the State for the fiscal year involved;
 

@@ -2,13 +2,13 @@
 
 #### (a) Grants ####
 
-The Secretary may make grants or contracts under this section to help entities fund authorized activities under an application approved under subsection (c) of this section.
+The Secretary may make grants or contracts under this section to help entities fund authorized activities under an application approved under subsection (c).
 
 #### (b) Use of amounts ####
 
 #### (1) In general ####
 
-Amounts provided under subsection (a) of this section shall be used by the recipients to fund interdisciplinary training projects designed to—
+Amounts provided under subsection (a) shall be used by the recipients to fund interdisciplinary training projects designed to—
 
 (A) use new and innovative methods to train health care practitioners to provide services in rural areas;
 
@@ -22,7 +22,7 @@ Amounts provided under subsection (a) of this section shall be used by the recip
 
 #### (2) Methods ####
 
-A recipient of funds under subsection (a) of this section may use various methods in carrying out the projects described in paragraph (1), including—
+A recipient of funds under subsection (a) may use various methods in carrying out the projects described in paragraph (1), including—
 
 (A) the distribution of stipends to students of eligible applicants;
 
@@ -36,15 +36,15 @@ A recipient of funds under subsection (a) of this section may use various method
 
 #### (A) In general ####
 
-An applicant shall not use more than 10 percent of the funds made available to such applicant under subsection (a) of this section for administrative expenses.
+An applicant shall not use more than 10 percent of the funds made available to such applicant under subsection (a) for administrative expenses.
 
 #### (B) Training ####
 
-Not more than 10 percent of the individuals receiving training with funds made available to an applicant under subsection (a) of this section shall be trained as doctors of medicine or doctors of osteopathy.
+Not more than 10 percent of the individuals receiving training with funds made available to an applicant under subsection (a) shall be trained as doctors of medicine or doctors of osteopathy.
 
 #### (C) Limitation ####
 
-An institution that receives a grant under this section shall use amounts received under such grant to supplement, not supplant, amounts made available by such institution for activities of the type described in subsection (b)(1) of this section in the fiscal year preceding the year for which the grant is received.
+An institution that receives a grant under this section shall use amounts received under such grant to supplement, not supplant, amounts made available by such institution for activities of the type described in subsection (b)(1) in the fiscal year preceding the year for which the grant is received.
 
 #### (c) Applications ####
 

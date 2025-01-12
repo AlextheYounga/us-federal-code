@@ -6,7 +6,7 @@ The Secretary shall develop and issue public service announcements that advertis
 
 #### (b) Method ####
 
-The public service announcements described in subsection (a) of this section shall be broadcast through appropriate media outlets, including television or radio, in a manner intended to reach as wide and diverse an audience as possible.
+The public service announcements described in subsection (a) shall be broadcast through appropriate media outlets, including television or radio, in a manner intended to reach as wide and diverse an audience as possible.
 
 #### (c) Authorization of appropriations ####
 

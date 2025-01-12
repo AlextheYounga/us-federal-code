@@ -6,17 +6,17 @@ The Secretary shall provide for the establishment and operation in accordance wi
 
 #### (b) Administration of sanctuary system ####
 
-The Secretary shall carry out this section, including the establishment of regulations under subsection (d) of this section, in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section (relating to the operation of the sanctuary system).
+The Secretary shall carry out this section, including the establishment of regulations under subsection (d), in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e) (relating to the operation of the sanctuary system).
 
 #### (c) Acceptance of chimpanzees into system ####
 
-All surplus chimpanzees owned by the Federal Government shall be accepted into the sanctuary system. Subject to standards under subsection (d)(4) of this section, any chimpanzee that is not owned by the Federal Government can be accepted into the system if the owner transfers to the sanctuary system title to the chimpanzee.
+All surplus chimpanzees owned by the Federal Government shall be accepted into the sanctuary system. Subject to standards under subsection (d)(4), any chimpanzee that is not owned by the Federal Government can be accepted into the system if the owner transfers to the sanctuary system title to the chimpanzee.
 
 #### (d) Standards for permanent retirement of surplus chimpanzees ####
 
 #### (1) In general ####
 
-Not later than 180 days after December 20, 2000, the Secretary shall by regulation establish standards for operating the sanctuary system to provide for the permanent retirement of surplus chimpanzees. In establishing the standards, the Secretary shall consider the recommendations of the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, and shall consider the recommendations of the National Research Council applicable to surplus chimpanzees that are made in the report published in 1997 and entitled "Chimpanzees in Research—Strategies for Their Ethical Care, Management, and Use".
+Not later than 180 days after December 20, 2000, the Secretary shall by regulation establish standards for operating the sanctuary system to provide for the permanent retirement of surplus chimpanzees. In establishing the standards, the Secretary shall consider the recommendations of the board of directors of the nonprofit private entity that receives the contract under subsection (e), and shall consider the recommendations of the National Research Council applicable to surplus chimpanzees that are made in the report published in 1997 and entitled "Chimpanzees in Research—Strategies for Their Ethical Care, Management, and Use".
 
 #### (2) Chimpanzees accepted into system ####
 
@@ -62,7 +62,7 @@ With respect to a chimpanzee that is not owned by the Federal Government and is 
 
 (A) A provision that the Secretary may authorize the imposition of a fee for accepting such chimpanzee into the system, except as follows:
 
-(i) Such a fee may not be imposed for accepting the chimpanzee if, on the day before December 20, 2000, the chimpanzee was owned by the nonprofit private entity that receives the contract under subsection (e) of this section or by any individual sanctuary facility receiving a subcontract or grant under subsection (e)(1) of this section.
+(i) Such a fee may not be imposed for accepting the chimpanzee if, on the day before December 20, 2000, the chimpanzee was owned by the nonprofit private entity that receives the contract under subsection (e) or by any individual sanctuary facility receiving a subcontract or grant under subsection (e)(1).
 
 (ii) Such a fee may not be imposed for accepting the chimpanzee if the chimpanzee is owned by an entity that operates a primate center, and if the chimpanzee is housed in the primate center pursuant to the program for regional centers for research on primates that is carried out by the Director of NIH, acting through the Office of the Director of NIH,.<sup><a href="#283m_1_target" name="283m_1">1</a></sup>
 
@@ -78,7 +78,7 @@ Any fees collected under this subparagraph are available to the Secretary for th
 
 #### (1) In general ####
 
-Subject to the availability of funds pursuant to subsection (g) of this section, the Secretary shall make an award of a contract to a nonprofit private entity under which the entity has the responsibility of operating (and establishing, as applicable) the sanctuary system and awarding subcontracts or grants to individual sanctuary facilities that meet the standards under subsection (d) of this section.
+Subject to the availability of funds pursuant to subsection (g), the Secretary shall make an award of a contract to a nonprofit private entity under which the entity has the responsibility of operating (and establishing, as applicable) the sanctuary system and awarding subcontracts or grants to individual sanctuary facilities that meet the standards under subsection (d).
 
 #### (2) Requirements ####
 
@@ -94,7 +94,7 @@ The Secretary may make an award under paragraph (1) to a nonprofit private entit
 
 (E) The entity makes the agreement described in paragraph (4) (relating to non-Federal contributions).
 
-(F) The entity agrees to comply with standards under subsection (d) of this section.
+(F) The entity agrees to comply with standards under subsection (d).
 
 (G) The entity agrees to make necropsy reports on chimpanzees in the sanctuary system available on a reasonable basis to persons who conduct biomedical or behavioral research, with priority given to such persons who are Federal employees or who receive financial support from the Federal Government for research.
 
@@ -156,11 +156,11 @@ For purposes of this section:
 
 #### (1) Permanent retirement ####
 
-The term "permanent retirement", with respect to a chimpanzee that has been accepted into the sanctuary system, means that under subsection (a) of this section the system provides for the lifetime care of the chimpanzee, that under subsection (d)(2) of this section the system does not permit the chimpanzee to be used in research (except as authorized under subsection (d)(3) of this section) or to be euthanized (except as provided in subsection (d)(2)(I) of this section), that under subsection (d)(2) of this section the system will not discharge the chimpanzee from the system, and that under such subsection the system otherwise cares for the chimpanzee.
+The term "permanent retirement", with respect to a chimpanzee that has been accepted into the sanctuary system, means that under subsection (a) the system provides for the lifetime care of the chimpanzee, that under subsection (d)(2) the system does not permit the chimpanzee to be used in research (except as authorized under subsection (d)(3)) or to be euthanized (except as provided in subsection (d)(2)(I)), that under subsection (d)(2) the system will not discharge the chimpanzee from the system, and that under such subsection the system otherwise cares for the chimpanzee.
 
 #### (2) Sanctuary system ####
 
-The term "sanctuary system" means the system described in subsection (a) of this section.
+The term "sanctuary system" means the system described in subsection (a).
 
 #### (3) Secretary ####
 
@@ -168,7 +168,7 @@ The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (4) Surplus chimpanzees ####
 
-The term "surplus chimpanzees" has the meaning given that term in subsection (a) of this section.
+The term "surplus chimpanzees" has the meaning given that term in subsection (a).
 
 #### (g) Funding ####
 
@@ -188,7 +188,7 @@ Of the amount appropriated for the National Institutes of Health, there are auth
 
 #### (2) Use of funds for other compliant facilities ####
 
-With respect to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Secretary may use a portion of such amounts to make awards of grants or contracts to public or private entities operating facilities that, as determined by the Secretary in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d) of this section. Such an award may be expended for the expenses of operating the facilities involved.
+With respect to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Secretary may use a portion of such amounts to make awards of grants or contracts to public or private entities operating facilities that, as determined by the Secretary in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e), provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d). Such an award may be expended for the expenses of operating the facilities involved.
 
 #### (3) Biennial report ####
 

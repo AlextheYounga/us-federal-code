@@ -10,19 +10,19 @@ The Secretary may award grants to States, transplant centers, qualified organ pr
 
 #### (b) Preference ####
 
-The Secretary shall, in carrying out subsection (a) of this section, give preference to those individuals that the Secretary determines are more likely to be otherwise unable to meet such expenses.
+The Secretary shall, in carrying out subsection (a), give preference to those individuals that the Secretary determines are more likely to be otherwise unable to meet such expenses.
 
 #### (c) Certain circumstances ####
 
-The Secretary may, in carrying out subsection (a) of this section, consider—
+The Secretary may, in carrying out subsection (a), consider—
 
 (1) the term "donating individuals" as including individuals who in good faith incur qualifying expenses toward the intended donation of an organ but with respect to whom, for such reasons as the Secretary determines to be appropriate, no donation of the organ occurs; and
 
-(2) the term "qualifying expenses" as including the expenses of having relatives or other individuals, not to exceed 2, accompany or assist the donating individual for purposes of subsection (a) of this section (subject to making payment for only those types of expenses that are paid for a donating individual).
+(2) the term "qualifying expenses" as including the expenses of having relatives or other individuals, not to exceed 2, accompany or assist the donating individual for purposes of subsection (a) (subject to making payment for only those types of expenses that are paid for a donating individual).
 
 #### (d) Relationship to payments under other programs ####
 
-An award may be made under subsection (a) of this section only if the applicant involved agrees that the award will not be expended to pay the qualifying expenses of a donating individual to the extent that payment has been made, or can reasonably be expected to be made, with respect to such expenses—
+An award may be made under subsection (a) only if the applicant involved agrees that the award will not be expended to pay the qualifying expenses of a donating individual to the extent that payment has been made, or can reasonably be expected to be made, with respect to such expenses—
 
 (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program;
 
@@ -34,9 +34,9 @@ An award may be made under subsection (a) of this section only if the applicant 
 
 For purposes of this section:
 
-(1) The term "donating individuals" has the meaning indicated for such term in subsection (a)(1) of this section, subject to subsection (c)(1) of this section.
+(1) The term "donating individuals" has the meaning indicated for such term in subsection (a)(1), subject to subsection (c)(1).
 
-(2) The term "qualifying expenses" means the expenses authorized for purposes of subsection (a) of this section, subject to subsection (c)(2) of this section.
+(2) The term "qualifying expenses" means the expenses authorized for purposes of subsection (a), subject to subsection (c)(2).
 
 #### (f) Authorization of appropriations ####
 

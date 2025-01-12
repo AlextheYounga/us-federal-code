@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary may make grants to accredited schools of public health, and to other public or nonprofit private institutions accredited for the provision of graduate or specialized training in public health, for the purpose of assisting such schools and institutions in providing traineeships to individuals described in subsection (b)(3) of this section.
+The Secretary may make grants to accredited schools of public health, and to other public or nonprofit private institutions accredited for the provision of graduate or specialized training in public health, for the purpose of assisting such schools and institutions in providing traineeships to individuals described in subsection (b)(3).
 
 #### (b) Certain requirements ####
 
@@ -12,11 +12,11 @@ The amount of any grant under this section shall be determined by the Secretary.
 
 #### (2) Use of grant ####
 
-Traineeships awarded under grants made under subsection (a) of this section shall provide for tuition and fees and such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the trainees as the Secretary may deem necessary.
+Traineeships awarded under grants made under subsection (a) shall provide for tuition and fees and such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the trainees as the Secretary may deem necessary.
 
 #### (3) Eligible individuals ####
 
-The individuals referred to in subsection (a) of this section are individuals who are pursuing a course of study in a health professions field in which there is a severe shortage of health professionals (which fields include the fields of epidemiology, environmental health, biostatistics, toxicology, nutrition, and maternal and child health).
+The individuals referred to in subsection (a) are individuals who are pursuing a course of study in a health professions field in which there is a severe shortage of health professionals (which fields include the fields of epidemiology, environmental health, biostatistics, toxicology, nutrition, and maternal and child health).
 
 (July 1, 1944, ch. 373, title VII, §767, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3555.)
 

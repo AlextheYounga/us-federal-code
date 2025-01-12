@@ -62,7 +62,11 @@ Chap. Sec.
 
 237. Crime victims' rights 3771
 
+238. Sexual assault survivors' rights 3772
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–236, §2(b), Oct. 7, 2016, 130 Stat. 967, added item for chapter 238.
 
 **2006**—Pub. L. 109–164, title I, §103(a)(2), Jan. 10, 2006, 119 Stat. 3563, added item for chapter 212A.
 

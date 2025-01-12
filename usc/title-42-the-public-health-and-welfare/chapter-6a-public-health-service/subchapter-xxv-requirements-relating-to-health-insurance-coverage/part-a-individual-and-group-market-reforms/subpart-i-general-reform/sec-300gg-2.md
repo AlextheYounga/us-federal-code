@@ -22,7 +22,7 @@ In the case of a group health plan, the plan sponsor has failed to comply with a
 
 #### (4) Termination of coverage ####
 
-The issuer is ceasing to offer coverage in such market in accordance with subsection (c) of this section and applicable State law.
+The issuer is ceasing to offer coverage in such market in accordance with subsection (c) and applicable State law.
 
 #### (5) Movement outside service area ####
 

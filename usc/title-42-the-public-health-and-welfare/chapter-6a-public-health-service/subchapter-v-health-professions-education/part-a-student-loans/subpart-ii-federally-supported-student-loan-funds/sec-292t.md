@@ -2,7 +2,7 @@
 
 #### (a) Fund agreements regarding certain amounts ####
 
-With respect to amounts appropriated under subsection (f) of this section, each agreement entered into under section 292q of this title with a school shall provide (in addition to the provisions required in subsection (b) of such section) that—
+With respect to amounts appropriated under subsection (f), each agreement entered into under section 292q of this title with a school shall provide (in addition to the provisions required in subsection (b) of such section) that—
 
 (1) any Federal capital contribution made to the student loan fund of the school from such amounts, together with the school contribution appropriate under subsection (b)(2)(B) of such section to the amount of the Federal capital contribution, will be utilized only for the purpose of—
 
@@ -14,7 +14,7 @@ With respect to amounts appropriated under subsection (f) of this section, each 
 
 #### (b) Minimum qualifications for schools ####
 
-The Secretary may not make a Federal capital contribution for purposes of subsection (a) of this section for a fiscal year unless the health professions school involved—
+The Secretary may not make a Federal capital contribution for purposes of subsection (a) for a fiscal year unless the health professions school involved—
 
 (1) is carrying out a program for recruiting and retaining students from disadvantaged backgrounds, including racial and ethnic minorities; and
 
@@ -22,7 +22,7 @@ The Secretary may not make a Federal capital contribution for purposes of subsec
 
 #### (c) Certain agreements regarding education of students; date certain for compliance ####
 
-The Secretary may not make a Federal capital contribution for purposes of subsection (a) of this section for a fiscal year unless the health professions school involved agrees—
+The Secretary may not make a Federal capital contribution for purposes of subsection (a) for a fiscal year unless the health professions school involved agrees—
 
 (1) to ensure that adequate instruction regarding minority health issues is provided for in the curricula of the school;
 
@@ -32,9 +32,9 @@ The Secretary may not make a Federal capital contribution for purposes of subsec
 
 (4) to establish a mentor program for assisting disadvantaged students, including minority students, regarding the completion of the educational requirements for degrees from the school;
 
-(5) to be carrying out each of the activities specified in any of paragraphs (1) through (4) by not later than 1 year after the date on which the first Federal capital contribution is made to the school for purposes of subsection (a) of this section; and
+(5) to be carrying out each of the activities specified in any of paragraphs (1) through (4) by not later than 1 year after the date on which the first Federal capital contribution is made to the school for purposes of subsection (a); and
 
-(6) to continue carrying out such activities, and the activities specified in paragraphs (1) and (2) of subsection (b) of this section, throughout the period during which the student loan fund established pursuant to section 292q(b) of this title is in operation.
+(6) to continue carrying out such activities, and the activities specified in paragraphs (1) and (2) of subsection (b), throughout the period during which the student loan fund established pursuant to section 292q(b) of this title is in operation.
 
 #### (d) Availability of other amounts ####
 
@@ -50,7 +50,7 @@ For purposes of this section, the term "disadvantaged", with respect to an indiv
 
 #### (2) Special consideration for certain schools ####
 
-In making Federal capital contributions to student loan funds for purposes of subsection (a) of this section, the Secretary shall give special consideration to health professions schools that have enrollments of underrepresented minorities above the national average for health professions schools.
+In making Federal capital contributions to student loan funds for purposes of subsection (a), the Secretary shall give special consideration to health professions schools that have enrollments of underrepresented minorities above the national average for health professions schools.
 
 (July 1, 1944, ch. 373, title VII, §724, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2018; amended Pub. L. 105–392, title I, §132, Nov. 13, 1998, 112 Stat. 3575.)
 

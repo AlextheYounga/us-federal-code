@@ -2,17 +2,17 @@
 
 #### (a) Requirement ####
 
-Records of the identity, diagnosis, prognosis, or treatment of any patient which are maintained in connection with the performance of any program or activity relating to substance abuse education, prevention, training, treatment, rehabilitation, or research, which is conducted, regulated, or directly or indirectly assisted by any department or agency of the United States shall, except as provided in subsection (e) of this section, be confidential and be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b) of this section.
+Records of the identity, diagnosis, prognosis, or treatment of any patient which are maintained in connection with the performance of any program or activity relating to substance abuse education, prevention, training, treatment, rehabilitation, or research, which is conducted, regulated, or directly or indirectly assisted by any department or agency of the United States shall, except as provided in subsection (e), be confidential and be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
 
 #### (b) Permitted disclosure ####
 
 #### (1) Consent ####
 
-The content of any record referred to in subsection (a) of this section may be disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g) of this section.
+The content of any record referred to in subsection (a) may be disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g).
 
 #### (2) Method for disclosure ####
 
-Whether or not the patient, with respect to whom any given record referred to in subsection (a) of this section is maintained, gives written consent, the content of such record may be disclosed as follows:
+Whether or not the patient, with respect to whom any given record referred to in subsection (a) is maintained, gives written consent, the content of such record may be disclosed as follows:
 
 (A) To medical personnel to the extent necessary to meet a bona fide medical emergency.
 
@@ -22,7 +22,7 @@ Whether or not the patient, with respect to whom any given record referred to in
 
 #### (c) Use of records in criminal proceedings ####
 
-Except as authorized by a court order granted under subsection (b)(2)(C) of this section, no record referred to in subsection (a) of this section may be used to initiate or substantiate any criminal charges against a patient or to conduct any investigation of a patient.
+Except as authorized by a court order granted under subsection (b)(2)(C), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against a patient or to conduct any investigation of a patient.
 
 #### (d) Application ####
 
@@ -44,11 +44,11 @@ Any person who violates any provision of this section or any regulation issued p
 
 #### (g) Regulations ####
 
-Except as provided in subsection (h) of this section, the Secretary shall prescribe regulations to carry out the purposes of this section. Such regulations may contain such definitions, and may provide for such safeguards and procedures, including procedures and criteria for the issuance and scope of orders under subsection (b)(2)(C) of this section, as in the judgment of the Secretary are necessary or proper to effectuate the purposes of this section, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
+Except as provided in subsection (h), the Secretary shall prescribe regulations to carry out the purposes of this section. Such regulations may contain such definitions, and may provide for such safeguards and procedures, including procedures and criteria for the issuance and scope of orders under subsection (b)(2)(C), as in the judgment of the Secretary are necessary or proper to effectuate the purposes of this section, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
 #### (h) Application to Department of Veterans Affairs ####
 
-The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) of this section to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
+The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
 
 (July 1, 1944, ch. 373, title V, §543, formerly Pub. L. 91–616, title III, §321, Dec. 31, 1970, 84 Stat. 1852, as amended Pub. L. 93–282, title I, §121(a), May 14, 1974, 88 Stat. 130; Pub. L. 94–371, §11(a), (b), July 26, 1976, 90 Stat. 1041; Pub. L. 94–581, title I, §111(c)(1), Oct. 21, 1976, 90 Stat. 2852; renumbered §522 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; renumbered §543, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 105–392, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3588.)
 

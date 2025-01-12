@@ -34,7 +34,7 @@ The Secretary may make grants to States and political subdivisions of States for
 
 #### (e) Authorization of appropriations; terms and conditions; payments; recordkeeping; audit; grant reduction; information disclosure ####
 
-(1) For the purpose of making grants under subsections (b) through (d) of this section, there are authorized to be appropriated $85,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
+(1) For the purpose of making grants under subsections (b) through (d), there are authorized to be appropriated $85,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
 
 (2) Each recipient of a grant under this section shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant was given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 

@@ -10,7 +10,7 @@ The Administrator may make grants to, and enter into contracts and cooperative a
 
 #### (b) Use of funds ####
 
-Amounts made available under a grant, contract or cooperative agreement under subsection (a) of this section shall be used for planning, establishing, or administering prevention programs relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs.
+Amounts made available under a grant, contract or cooperative agreement under subsection (a) shall be used for planning, establishing, or administering prevention programs relating to 3,4-methylenedioxy methamphetamine, related drugs, and other club drugs.
 
 #### (c) Use of funds ####
 

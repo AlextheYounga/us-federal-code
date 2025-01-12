@@ -8,11 +8,11 @@ The Director of the Center for Substance Abuse Treatment (referred to in this se
 
 (2) the minor children of the women reside with the women in such facilities, if the women so request; and
 
-(3) the services described in subsection (d) of this section are available to or on behalf of the women.
+(3) the services described in subsection (d) are available to or on behalf of the women.
 
 #### (b) Availability of services for each participant ####
 
-A funding agreement for an award under subsection (a) of this section for an applicant is that, in the program operated pursuant to such subsection—
+A funding agreement for an award under subsection (a) for an applicant is that, in the program operated pursuant to such subsection—
 
 (1) treatment services and each supplemental service will be available through the applicant, either directly or through agreements with other public or nonprofit private entities; and
 
@@ -20,7 +20,7 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (c) Individualized plan of services ####
 
-A funding agreement for an award under subsection (a) of this section for an applicant is that—
+A funding agreement for an award under subsection (a) for an applicant is that—
 
 (1) in providing authorized services for an eligible woman pursuant to such subsection, the applicant will, in consultation with the women, prepare an individualized plan for the provision of services for the woman and her children; and
 
@@ -32,7 +32,7 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (d) Required supplemental services ####
 
-In the case of an eligible woman, the services referred to in subsection (a)(3) of this section are as follows:
+In the case of an eligible woman, the services referred to in subsection (a)(3) are as follows:
 
 (1) Prenatal and postpartum health care.
 
@@ -74,9 +74,9 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 #### (1) Certification by relevant State agency ####
 
-With respect to the principal agency of the State involved that administers programs relating to substance use disorders, the Director may make an award under subsection (a) of this section to an applicant only if the agency has certified to the Director that—
+With respect to the principal agency of the State involved that administers programs relating to substance use disorders, the Director may make an award under subsection (a) to an applicant only if the agency has certified to the Director that—
 
-(A) the applicant has the capacity to carry out a program described in subsection (a) of this section;
+(A) the applicant has the capacity to carry out a program described in subsection (a);
 
 (B) the plans of the applicant for such a program are consistent with the policies of such agency regarding the treatment of substance use disorders; and
 
@@ -86,7 +86,7 @@ With respect to the principal agency of the State involved that administers prog
 
 #### (A) In general ####
 
-Subject to subparagraphs (B) and (C), the Director may make an award under subsection (a) of this section only if, in the case of any authorized service that is available pursuant to the State plan approved under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] for the State involved—
+Subject to subparagraphs (B) and (C), the Director may make an award under subsection (a) only if, in the case of any authorized service that is available pursuant to the State plan approved under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] for the State involved—
 
 (i) the applicant for the award will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
@@ -110,7 +110,7 @@ With respect to any authorized service that is available pursuant to the State p
 
 #### (1) In general ####
 
-With respect to the costs of the program to be carried out by an applicant pursuant to subsection (a) of this section, a funding agreement for an award under such subsection is that the applicant will make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that—
+With respect to the costs of the program to be carried out by an applicant pursuant to subsection (a), a funding agreement for an award under such subsection is that the applicant will make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that—
 
 (A) for the first fiscal year for which the applicant receives payments under an award under such subsection, is not less than $1 for each $9 of Federal funds provided in the award;
 
@@ -124,11 +124,11 @@ Non-Federal contributions required in paragraph (1) may be in cash or in kind, f
 
 #### (g) Outreach ####
 
-A funding agreement for an award under subsection (a) of this section for an applicant is that the applicant will provide outreach services in the community involved to identify women who have a substance use disorder and to encourage the women to undergo treatment for such disorder.
+A funding agreement for an award under subsection (a) for an applicant is that the applicant will provide outreach services in the community involved to identify women who have a substance use disorder and to encourage the women to undergo treatment for such disorder.
 
 #### (h) Accessibility of program; cultural context of services ####
 
-A funding agreement for an award under subsection (a) of this section for an applicant is that—
+A funding agreement for an award under subsection (a) for an applicant is that—
 
 (1) the program operated pursuant to such subsection will be operated at a location that is accessible to low-income pregnant and postpartum women; and
 
@@ -136,11 +136,11 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (i) Continuing education ####
 
-A funding agreement for an award under subsection (a) of this section is that the applicant involved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
+A funding agreement for an award under subsection (a) is that the applicant involved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
 
 #### (j) Imposition of charges ####
 
-A funding agreement for an award under subsection (a) of this section for an applicant is that, if a charge is imposed for the provision of authorized services to or on behalf of an eligible woman, such charge—
+A funding agreement for an award under subsection (a) for an applicant is that, if a charge is imposed for the provision of authorized services to or on behalf of an eligible woman, such charge—
 
 (1) will be made according to a schedule of charges that is made available to the public;
 
@@ -150,7 +150,7 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (k) Reports to Director ####
 
-A funding agreement for an award under subsection (a) of this section is that the applicant involved will submit to the Director a report—
+A funding agreement for an award under subsection (a) is that the applicant involved will submit to the Director a report—
 
 (1) describing the utilization and costs of services provided under the award;
 
@@ -160,7 +160,7 @@ A funding agreement for an award under subsection (a) of this section is that th
 
 #### (l) Requirement of application ####
 
-The Director may make an award under subsection (a) of this section only if an application for the award is submitted to the Director containing such agreements, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Director determines to be necessary to carry out this section.
+The Director may make an award under subsection (a) only if an application for the award is submitted to the Director containing such agreements, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Director determines to be necessary to carry out this section.
 
 #### (m) Allocation of awards ####
 
@@ -168,15 +168,15 @@ In making awards under subsection (a), the Director shall give priority to an ap
 
 #### (n) Duration of award ####
 
-The period during which payments are made to an entity from an award under subsection (a) of this section may not exceed 5 years. The provision of such payments shall be subject to annual approval by the Director of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments. This subsection may not be construed to establish a limitation on the number of awards under such subsection that may be made to an entity.
+The period during which payments are made to an entity from an award under subsection (a) may not exceed 5 years. The provision of such payments shall be subject to annual approval by the Director of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments. This subsection may not be construed to establish a limitation on the number of awards under such subsection that may be made to an entity.
 
 #### (o) Evaluations; dissemination of findings ####
 
-The Director shall, directly or through contract, provide for the conduct of evaluations of programs carried out pursuant to subsection (a) of this section. The Director shall disseminate to the States the findings made as a result of the evaluations.
+The Director shall, directly or through contract, provide for the conduct of evaluations of programs carried out pursuant to subsection (a). The Director shall disseminate to the States the findings made as a result of the evaluations.
 
 #### (p) Reports to Congress ####
 
-Not later than October 1, 1994, the Director shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing programs carried out pursuant to this section (other than subsection (r)). Every 2 years thereafter, the Director shall prepare a report describing such programs carried out during the preceding 2 years, and shall submit the report to the Administrator for inclusion in the biennial report under section 290aa(k) of this title. Each report under this subsection shall include a summary of any evaluations conducted under subsection (m) of this section during the period with respect to which the report is prepared.
+Not later than October 1, 1994, the Director shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing programs carried out pursuant to this section (other than subsection (r)). Every 2 years thereafter, the Director shall prepare a report describing such programs carried out during the preceding 2 years, and shall submit the report to the Administrator for inclusion in the biennial report under section 290aa(k) of this title. Each report under this subsection shall include a summary of any evaluations conducted under subsection (m) during the period with respect to which the report is prepared.
 
 #### (q) Definitions ####
 
@@ -184,13 +184,13 @@ For purposes of this section:
 
 (1) The term "authorized services" means treatment services and supplemental services.
 
-(2) The term "eligible woman" means a woman who has been admitted to a program operated pursuant to subsection (a) of this section.
+(2) The term "eligible woman" means a woman who has been admitted to a program operated pursuant to subsection (a).
 
-(3) The term "funding agreement", with respect to an award under subsection (a) of this section, means that the Director may make the award only if the applicant makes the agreement involved.
+(3) The term "funding agreement", with respect to an award under subsection (a), means that the Director may make the award only if the applicant makes the agreement involved.
 
-(4) The term "treatment services" means treatment for a substance use disorder, including the counseling and services described in subsection (c)(2) of this section.
+(4) The term "treatment services" means treatment for a substance use disorder, including the counseling and services described in subsection (c)(2).
 
-(5) The term "supplemental services" means the services described in subsection (d) of this section.
+(5) The term "supplemental services" means the services described in subsection (d).
 
 #### (r) Pilot program for State substance abuse agencies ####
 

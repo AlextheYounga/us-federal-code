@@ -16,7 +16,7 @@ As a condition of the receipt of an award under this section a State shall agree
 
 #### (1) In general ####
 
-With respect to the costs of the program to be carried out under subsection (a) of this section by a State, the Secretary may make an award under such subsection only if the applicant agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs.
+With respect to the costs of the program to be carried out under subsection (a) by a State, the Secretary may make an award under such subsection only if the applicant agrees to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs.
 
 #### (2) Determination of amount contributed ####
 
@@ -24,7 +24,7 @@ Non-Federal contributions under paragraph (1) may be in cash or in kind, fairly 
 
 #### (e) Duration of support ####
 
-The period during which payments may be made for a project under subsection (a) of this section may be not less than 3 years nor more than 5 years.
+The period during which payments may be made for a project under subsection (a) may be not less than 3 years nor more than 5 years.
 
 #### (f) Authorization of appropriation ####
 

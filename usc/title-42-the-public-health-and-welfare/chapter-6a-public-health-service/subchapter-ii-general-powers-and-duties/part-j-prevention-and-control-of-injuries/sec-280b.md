@@ -8,7 +8,7 @@
 
 (3) make grants to, or enter into cooperative agreements or contracts with, academic institutions for the purpose of providing training on the causes, mechanisms, prevention, diagnosis, treatment of injuries, and rehabilitation from injuries.
 
-(b) The Secretary, through the Director of the Centers for Disease Control and Prevention, shall collect and disseminate, through publications and other appropriate means, information concerning the practical applications of research conducted or assisted under subsection (a) of this section. In carrying out the preceding sentence, the Secretary shall disseminate such information to the public, including through elementary and secondary schools.
+(b) The Secretary, through the Director of the Centers for Disease Control and Prevention, shall collect and disseminate, through publications and other appropriate means, information concerning the practical applications of research conducted or assisted under subsection (a). In carrying out the preceding sentence, the Secretary shall disseminate such information to the public, including through elementary and secondary schools.
 
 (July 1, 1944, ch. 373, title III, §391, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3633; amended Pub. L. 101–558, §2(a), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §312(d)(3), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–183, title II, §203(b)(2), Dec. 14, 1993, 107 Stat. 2232.)
 

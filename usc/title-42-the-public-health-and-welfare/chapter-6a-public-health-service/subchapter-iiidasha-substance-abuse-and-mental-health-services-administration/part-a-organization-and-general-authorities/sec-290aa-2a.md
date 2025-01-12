@@ -6,7 +6,7 @@ Not later than 2 years after October 17, 2000, the Secretary shall, after consul
 
 #### (b) Report content ####
 
-The report under subsection (a) of this section shall be based on data collected from existing Federal and State surveys regarding the treatment of co-occurring mental illness and substance abuse disorders and shall include—
+The report under subsection (a) shall be based on data collected from existing Federal and State surveys regarding the treatment of co-occurring mental illness and substance abuse disorders and shall include—
 
 (1) a summary of the manner in which individuals with co-occurring disorders are receiving treatment, including the most up-to-date information available regarding the number of children and adults with co-occurring mental illness and substance abuse disorders and the manner in which funds provided under sections 300x and 300x–21 of this title are being utilized, including the number of such children and adults served with such funds;
 

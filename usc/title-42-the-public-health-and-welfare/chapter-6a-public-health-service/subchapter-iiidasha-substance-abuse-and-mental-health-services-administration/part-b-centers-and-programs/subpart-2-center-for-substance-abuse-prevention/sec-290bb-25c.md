@@ -6,7 +6,7 @@ The Secretary shall make awards of grants, cooperative agreements, or contracts 
 
 #### (b) Use of funds ####
 
-An award under subsection (a) of this section may, subject to subsection (d) of this section, be used to—
+An award under subsection (a) may, subject to subsection (d), be used to—
 
 (1) screen and test individuals to determine the type and level of services needed;
 
@@ -34,7 +34,7 @@ An award under subsection (a) of this section may, subject to subsection (d) of 
 
 #### (c) Requirements ####
 
-To be eligible to receive an award under subsection (a) of this section, an applicant shall—
+To be eligible to receive an award under subsection (a), an applicant shall—
 
 (1) demonstrate that the program will be part of a coordinated, comprehensive system of care for such individuals;
 
@@ -48,7 +48,7 @@ To be eligible to receive an award under subsection (a) of this section, an appl
 
 #### (d) Relationship to payments under other programs ####
 
-An award may be made under subsection (a) of this section only if the applicant involved agrees that the award will not be expended to pay the expenses of providing any service under this section to an individual to the extent that payment has been made, or can reasonably be expected to be made, with respect to such expenses—
+An award may be made under subsection (a) only if the applicant involved agrees that the award will not be expended to pay the expenses of providing any service under this section to an individual to the extent that payment has been made, or can reasonably be expected to be made, with respect to such expenses—
 
 (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
@@ -56,11 +56,11 @@ An award may be made under subsection (a) of this section only if the applicant 
 
 #### (e) Duration of awards ####
 
-With respect to an award under subsection (a) of this section, the period during which payments under such award are made to the recipient may not exceed 5 years.
+With respect to an award under subsection (a), the period during which payments under such award are made to the recipient may not exceed 5 years.
 
 #### (f) Evaluation ####
 
-The Secretary shall evaluate each project carried out under subsection (a) of this section and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+The Secretary shall evaluate each project carried out under subsection (a) and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
 
 #### (g) Funding ####
 

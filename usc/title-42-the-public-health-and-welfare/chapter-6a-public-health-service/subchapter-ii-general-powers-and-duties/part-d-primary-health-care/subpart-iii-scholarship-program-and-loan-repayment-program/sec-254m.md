@@ -6,7 +6,7 @@ Except as provided in section 254n of this title, each individual who has entere
 
 #### (b) Notice to individual; information for informed decision; eligibility; notice to Secretary; qualification and appointment as commissioned officer; appointment as civilian member; designation of non-United States employee as member; deferment of obligated service ####
 
-(1) If an individual is required under subsection (a) of this section to provide service as specified in section 254l(f)(1)(B)(v) or 254l–1(f)(1)(B)(iv) of this title (hereinafter in this subsection referred to as "obligated service"), the Secretary shall, not later than ninety days before the date described in paragraph (5), determine if the individual shall provide such service—
+(1) If an individual is required under subsection (a) to provide service as specified in section 254l(f)(1)(B)(v) or 254l–1(f)(1)(B)(iv) of this title (hereinafter in this subsection referred to as "obligated service"), the Secretary shall, not later than ninety days before the date described in paragraph (5), determine if the individual shall provide such service—
 
 (A) as a member of the Corps who is a commissioned officer in the Regular or Reserve Corps of the Service or who is a civilian employee of the United States, or
 
@@ -40,7 +40,7 @@ and shall notify such individual of such determination.
 
 An individual shall be considered to have begun serving a period of obligated service—
 
-(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4) of this section, or
+(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4), or
 
 (2) in the case of an individual who has entered into an agreement with the Secretary under section 254n of this title, on the date specified in such agreement,
 

@@ -1,6 +1,6 @@
 ### §248a. Closing or transfer of hospitals; reduction of services; Congressional authorization required ###
 
-(a) Except as provided in subsection (b) of this section, the Secretary of Health and Human Services shall take such action as may be necessary to assure that the hospitals of the Public Health Service, located in Seattle, Washington, Boston, Massachusetts, San Francisco, California, Galveston, Texas, New Orleans, Louisiana, Baltimore, Maryland, Staten Island, New York, and Norfolk, Virginia, shall continue—
+(a) Except as provided in subsection (b), the Secretary of Health and Human Services shall take such action as may be necessary to assure that the hospitals of the Public Health Service, located in Seattle, Washington, Boston, Massachusetts, San Francisco, California, Galveston, Texas, New Orleans, Louisiana, Baltimore, Maryland, Staten Island, New York, and Norfolk, Virginia, shall continue—
 
 (1) in operation as hospitals of the Public Health Service,
 
@@ -10,11 +10,11 @@
 
 (b)(1) The Secretary may—
 
-(A) close or transfer control of a hospital of the Public Health Service to which subsection (a) of this section applies,
+(A) close or transfer control of a hospital of the Public Health Service to which subsection (a) applies,
 
-(B) reduce the level and range of health care services provided at such a hospital from the level and range required by subsection (a)(2) of this section or change the manner in which such services are provided at such a hospital from the manner required by such subsection, or
+(B) reduce the level and range of health care services provided at such a hospital from the level and range required by subsection (a)(2) or change the manner in which such services are provided at such a hospital from the manner required by such subsection, or
 
-(C) reduce the level and range of the other health-related activities conducted at such hospital from the level and range required by subsection (a)(3) of this section,
+(C) reduce the level and range of the other health-related activities conducted at such hospital from the level and range required by subsection (a)(3),
 
 if Congress by law (enacted after November 16, 1973) specifically authorizes such action.
 

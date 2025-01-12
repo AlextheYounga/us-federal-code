@@ -2,7 +2,7 @@
 
 #### (a) Preparation ####
 
-The Director of NIH, after consultation with the committee established under subsection (e) of this section, shall prepare a plan—
+The Director of NIH, after consultation with the committee established under subsection (e), shall prepare a plan—
 
 (1) for the National Institutes of Health to conduct or support research into—
 
@@ -22,21 +22,21 @@ The Director of NIH, after consultation with the committee established under sub
 
 #### (b) Submission to Congressional committees ####
 
-Not later than October 1, 1993, the Director of NIH shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, the plan required in subsection (a) of this section and shall begin implementation of the plan.
+Not later than October 1, 1993, the Director of NIH shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, the plan required in subsection (a) and shall begin implementation of the plan.
 
 #### (c) Periodic review and revision ####
 
-The Director of NIH shall periodically review, and as appropriate, make revisions in the plan required under subsection (a) of this section. A description of any revision made in the plan shall be included in the first biennial report under section 283 of this title that is submitted after the revision is made.
+The Director of NIH shall periodically review, and as appropriate, make revisions in the plan required under subsection (a). A description of any revision made in the plan shall be included in the first biennial report under section 283 of this title that is submitted after the revision is made.
 
 #### (d) Dissemination of information ####
 
-The Director of NIH shall take such actions as may be appropriate to convey to scientists and others who use animals in biomedical or behavioral research or experimentation information respecting the methods found to be valid and reliable under subsection (a)(2) of this section.
+The Director of NIH shall take such actions as may be appropriate to convey to scientists and others who use animals in biomedical or behavioral research or experimentation information respecting the methods found to be valid and reliable under subsection (a)(2).
 
 #### (e) Interagency Coordinating Committee on the Use of Animals in Research ####
 
 (1) The Director of NIH shall establish within the National Institutes of Health a committee to be known as the Interagency Coordinating Committee on the Use of Animals in Research (in this subsection referred to as the "Committee").
 
-(2) The Committee shall provide advice to the Director of NIH on the preparation of the plan required in subsection (a) of this section.
+(2) The Committee shall provide advice to the Director of NIH on the preparation of the plan required in subsection (a).
 
 (3) The Committee shall be composed of—
 

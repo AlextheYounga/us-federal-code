@@ -16,7 +16,7 @@ The purpose of the Initiative is to provide funds to enable the Director of NIH�
 
 #### (c) Duties ####
 
-In carrying out subsection (b) of this section, the Director of NIH shall—
+In carrying out subsection (b), the Director of NIH shall—
 
 (1) consult with the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development and the other national research institutes, in considering their requests for new or expanded pediatric research efforts, and consult with the Administrator of the Health Resources and Services Administration and other advisors as the Director determines to be appropriate;
 

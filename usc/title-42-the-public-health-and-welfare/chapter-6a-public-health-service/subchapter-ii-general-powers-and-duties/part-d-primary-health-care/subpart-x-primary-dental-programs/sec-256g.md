@@ -6,7 +6,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (b) State activities ####
 
-A State receiving a grant under subsection (a) of this section may use funds received under the grant for—
+A State receiving a grant under subsection (a) may use funds received under the grant for—
 
 (1) loan forgiveness and repayment programs for dentists who—
 
@@ -58,7 +58,7 @@ Each State desiring a grant under this section shall submit an application to th
 
 #### (2) Assurances ####
 
-The application shall include assurances that the State will meet the requirements of subsection (d) of this section and that the State possesses sufficient infrastructure to manage the activities to be funded through the grant and to evaluate and report on the outcomes resulting from such activities.
+The application shall include assurances that the State will meet the requirements of subsection (d) and that the State possesses sufficient infrastructure to manage the activities to be funded through the grant and to evaluate and report on the outcomes resulting from such activities.
 
 #### (d) Matching requirement ####
 

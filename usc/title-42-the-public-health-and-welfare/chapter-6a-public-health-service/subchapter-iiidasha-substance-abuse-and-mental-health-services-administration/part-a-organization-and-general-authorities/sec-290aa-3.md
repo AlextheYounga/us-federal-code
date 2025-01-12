@@ -6,13 +6,13 @@ The Secretary, after consultation with the Administrator, shall require appropri
 
 #### (b) Members ####
 
-The members of any peer review group established under subsection (a) of this section shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of the group. Not more than one-fourth of the members of any such peer review group shall be officers or employees of the United States.
+The members of any peer review group established under subsection (a) shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of the group. Not more than one-fourth of the members of any such peer review group shall be officers or employees of the United States.
 
 #### (c) Advisory council review ####
 
-If the direct cost of a grant or cooperative agreement (described in subsection (a) of this section) exceeds the simple acquisition threshold as defined by section 134 of title 41, the Secretary may make such a grant or cooperative agreement only if such grant or cooperative agreement is recommended—
+If the direct cost of a grant or cooperative agreement (described in subsection (a)) exceeds the simple acquisition threshold as defined by section 134 of title 41, the Secretary may make such a grant or cooperative agreement only if such grant or cooperative agreement is recommended—
 
-(1) after peer review required under subsection (a) of this section; and
+(1) after peer review required under subsection (a); and
 
 (2) by the appropriate advisory council.
 

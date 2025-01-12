@@ -16,7 +16,7 @@ The term "preexisting condition exclusion" means, with respect to coverage, a li
 
 #### (B) Treatment of genetic information ####
 
-Genetic information shall not be treated as a condition described in subsection (a)(1) <sup><a href="#300gg-3_1_target" name="300gg-3_1">1</a></sup> of this section in the absence of a diagnosis of the condition related to such information.
+Genetic information shall not be treated as a condition described in subsection (a)(1) <sup><a href="#300gg-3_1_target" name="300gg-3_1">1</a></sup> in the absence of a diagnosis of the condition related to such information.
 
 #### (2) Enrollment date ####
 
@@ -28,7 +28,7 @@ The term "late enrollee" means, with respect to coverage under a group health pl
 
 (A) the first period in which the individual is eligible to enroll under the plan, or
 
-(B) a special enrollment period under subsection (f) of this section.
+(B) a special enrollment period under subsection (f).
 
 #### (4) Waiting period ####
 
@@ -70,7 +70,7 @@ A period of creditable coverage shall not be counted, with respect to enrollment
 
 #### (B) Waiting period not treated as a break in coverage ####
 
-For purposes of subparagraph (A) and subsection (d)(4) of this section, any period that an individual is in a waiting period for any coverage under a group or individual health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
+For purposes of subparagraph (A) and subsection (d)(4), any period that an individual is in a waiting period for any coverage under a group or individual health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (C) TAA-eligible individuals ####
 
@@ -88,11 +88,11 @@ The terms "TAA-eligible individual" and "TAA-related loss of coverage" have the 
 
 #### (A) Standard method ####
 
-Except as otherwise provided under subparagraph (B), for purposes of applying subsection (a)(3) <sup><a href="#300gg-3_1_target" name="300gg-3_1">1</a></sup> of this section, a group health plan, and a health insurance issuer offering group or individual health insurance coverage, shall count a period of creditable coverage without regard to the specific benefits covered during the period.
+Except as otherwise provided under subparagraph (B), for purposes of applying subsection (a)(3),<sup><a href="#300gg-3_1_target" name="300gg-3_1">1</a></sup> a group health plan, and a health insurance issuer offering group or individual health insurance coverage, shall count a period of creditable coverage without regard to the specific benefits covered during the period.
 
 #### (B) Election of alternative method ####
 
-A group health plan, or a health insurance issuer offering group or individual health insurance, may elect to apply subsection (a)(3) <sup><a href="#300gg-3_1_target" name="300gg-3_1">1</a></sup> of this section based on coverage of benefits within each of several classes or categories of benefits specified in regulations rather than as provided under subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or issuer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
+A group health plan, or a health insurance issuer offering group or individual health insurance, may elect to apply subsection (a)(3) <sup><a href="#300gg-3_1_target" name="300gg-3_1">1</a></sup> based on coverage of benefits within each of several classes or categories of benefits specified in regulations rather than as provided under subparagraph (A). Such election shall be made on a uniform basis for all participants and beneficiaries. Under such election a group health plan or issuer shall count a period of creditable coverage with respect to any class or category of benefits if any level of benefits is covered within such class or category.
 
 #### (C) Plan notice ####
 
@@ -112,7 +112,7 @@ In the case of an election under subparagraph (B) with respect to health insuran
 
 #### (4) Establishment of period ####
 
-Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) of this section or in such other manner as may be specified in regulations.
+Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
 
 #### (d) Exceptions ####
 
@@ -162,7 +162,7 @@ To the extent that medical care under a group health plan consists of group heal
 
 #### (2) Disclosure of information on previous benefits ####
 
-In the case of an election described in subsection (c)(3)(B) of this section by a group health plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
+In the case of an election described in subsection (c)(3)(B) by a group health plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
 
 (A) upon request of such plan or issuer, the entity which issued the certification provided by the individual shall promptly disclose to such requesting plan or issuer information on coverage of classes and categories of health benefits available under such entity's plan or coverage, and
 
@@ -256,7 +256,7 @@ In the case of an enrollee in a group health plan who is covered under a Medicai
 
 #### (1) In general ####
 
-A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
+A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
 
 (A) such period is applied uniformly without regard to any health status-related factors; and
 
@@ -284,7 +284,7 @@ A health maintenance organization described in paragraph (1) may use alternative
 
 #### References in Text ####
 
-Subsection (a) of this section, referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by Pub. L. 111–148, title I, §1201(2)(A), Mar. 23, 2010, 124 Stat. 154, and as so amended, subsec. (a) no longer contains paragraphs.
+Subsection (a), referred to in subsecs. (b)(1)(B) and (c)(3)(A), (B), was struck out, and a new subsec. (a) was added, by Pub. L. 111–148, title I, §1201(2)(A), Mar. 23, 2010, 124 Stat. 154, and as so amended, subsec. (a) no longer contains paragraphs.
 
 The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

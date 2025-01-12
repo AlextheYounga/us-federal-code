@@ -6,7 +6,7 @@ The Secretary shall award grants, contracts and cooperative agreements to commun
 
 #### (b) Preferences ####
 
-In awarding grants, contracts, and cooperative agreements under subsection (a) of this section, the Secretary shall give a preference to—
+In awarding grants, contracts, and cooperative agreements under subsection (a), the Secretary shall give a preference to—
 
 (1) entities that provide integrated primary health, substance abuse, and mental health services to homeless individuals;
 
@@ -20,11 +20,11 @@ In awarding grants, contracts, and cooperative agreements under subsection (a) o
 
 #### (c) Services for certain individuals ####
 
-In awarding grants, contracts, and cooperative agreements under subsection (a) of this section, the Secretary shall not—
+In awarding grants, contracts, and cooperative agreements under subsection (a), the Secretary shall not—
 
 (1) prohibit the provision of services under such subsection to homeless individuals who are suffering from a substance abuse disorder and are not suffering from a mental health disorder; and
 
-(2) make payments under subsection (a) of this section to any entity that has a policy of—
+(2) make payments under subsection (a) to any entity that has a policy of—
 
 (A) excluding individuals from mental health services due to the existence or suspicion of substance abuse; or
 
@@ -32,7 +32,7 @@ In awarding grants, contracts, and cooperative agreements under subsection (a) o
 
 #### (d) Term of the awards ####
 
-No entity may receive a grant, contract, or cooperative agreement under subsection (a) of this section for more than 5 years.
+No entity may receive a grant, contract, or cooperative agreement under subsection (a) for more than 5 years.
 
 #### (e) Authorization of appropriations ####
 

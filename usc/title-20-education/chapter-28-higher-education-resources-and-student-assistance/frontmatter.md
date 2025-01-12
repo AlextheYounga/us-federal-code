@@ -274,7 +274,7 @@ Sec.
 
 1070a. Federal Pell Grants: amount and determinations; applications.
 
-1070a–1. Academic competitiveness grants.
+1070a–1. Omitted.
 
 1070a–2 to 1070a–6. Repealed.
 

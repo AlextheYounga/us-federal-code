@@ -6,7 +6,7 @@ The Secretary, acting through the appropriate agencies, shall evaluate whether t
 
 #### (b) Report to Congress ####
 
-Not later than October 1, 2001, the Secretary shall submit to the Congress a report describing the results of the evaluation under subsection (a) of this section, and as applicable, the strategies developed under such subsection.
+Not later than October 1, 2001, the Secretary shall submit to the Congress a report describing the results of the evaluation under subsection (a), and as applicable, the strategies developed under such subsection.
 
 #### (c) Authorization of appropriations ####
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the "Program"), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) of this section if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise, assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the "Program"), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise, assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
 
 (1) Each member of the Advisory Council shall serve for a term of 2 years, and each such member may serve as many as 3 consecutive 2-year terms, except that—
 
@@ -40,7 +40,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 (2) the information provided to the maternal donor regarding all of her medically appropriate cord blood options.
 
-Based on such examination, the Secretary shall require that the standards used by the accreditation entities recognized under subsection (b) of this section ensure that a cord blood unit is acquired with the informed consent of the maternal donor.
+Based on such examination, the Secretary shall require that the standards used by the accreditation entities recognized under subsection (b) ensure that a cord blood unit is acquired with the informed consent of the maternal donor.
 
 #### (d) Functions ####
 
@@ -52,17 +52,17 @@ With respect to bone marrow, the Program shall—
 
 (B) consistent with paragraph (3), permit transplant physicians, other appropriate health care professionals, and patients to search by means of electronic access all available bone marrow donors listed in the Program;
 
-(C) carry out a program for the recruitment of bone marrow donors in accordance with subsection (e) of this section, including with respect to increasing the representation of racial and ethnic minority groups (including persons of mixed ancestry) in the enrollment of the Program;
+(C) carry out a program for the recruitment of bone marrow donors in accordance with subsection (e), including with respect to increasing the representation of racial and ethnic minority groups (including persons of mixed ancestry) in the enrollment of the Program;
 
 (D) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage;
 
-(E) carry out informational and educational activities in accordance with subsection (e) of this section;
+(E) carry out informational and educational activities in accordance with subsection (e);
 
 (F) at least annually update information to account for changes in the status of individuals as potential donors of bone marrow;
 
-(G) provide for a system of patient advocacy through the office established under subsection (h) of this section;
+(G) provide for a system of patient advocacy through the office established under subsection (h);
 
-(H) provide case management services for any potential donor of bone marrow to whom the Program has provided a notice that the potential donor may be suitably matched to a particular patient through the office established under subsection (h) of this section;
+(H) provide case management services for any potential donor of bone marrow to whom the Program has provided a notice that the potential donor may be suitably matched to a particular patient through the office established under subsection (h);
 
 (I) with respect to searches for unrelated donors of bone marrow that are conducted through the system under subparagraph (A), collect, analyze, and publish data in a standardized electronic format on the number and percentage of patients at each of the various stages of the search process, including data regarding the furthest stage reached, the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances;
 
@@ -88,9 +88,9 @@ With respect to cord blood, the Program shall—
 
 (II) exploring novel approaches or incentives to encourage innovative technological advances that could be used to collect cord blood units, consistent with the requirements under the Program and such National Cord Blood Inventory program goal;
 
-(v) provide for a system of patient advocacy through the office established under subsection (h) of this section;
+(v) provide for a system of patient advocacy through the office established under subsection (h);
 
-(vi) coordinate with the qualified cord blood banks to support informational and educational activities in accordance with subsection (g) of this section;
+(vi) coordinate with the qualified cord blood banks to support informational and educational activities in accordance with subsection (g);
 
 (vii) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage; and
 
@@ -122,7 +122,7 @@ The term "qualified cord blood bank" means a cord blood bank that—
 
 (B) has implemented donor screening, cord blood collection practices, and processing methods intended to protect the health and safety of donors and transplant recipients to improve transplant outcomes, including with respect to the transmission of potentially harmful infections and other diseases;
 
-(C) is accredited by an accreditation entity recognized by the Secretary under subsection (b) of this section;
+(C) is accredited by an accreditation entity recognized by the Secretary under subsection (b);
 
 (D) has established a system of strict confidentiality to protect the identity and privacy of patients and donors in accordance with existing Federal and State law;
 
@@ -162,7 +162,7 @@ In addition to activities regarding recruitment, the recruitment program under p
 
 #### (4) Implementation of subsection ####
 
-The requirements of this subsection shall be carried out by the entity that has been awarded a contract by the Secretary under subsection (a) of this section to carry out the functions described in subsection (d)(1) of this section.
+The requirements of this subsection shall be carried out by the entity that has been awarded a contract by the Secretary under subsection (a) to carry out the functions described in subsection (d)(1).
 
 #### (f) Bone marrow criteria, standards, and procedures ####
 
@@ -174,7 +174,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 (3) procedures to ensure the proper collection and transportation of the marrow;
 
-(4) standards for the system for patient advocacy operated under subsection (h) of this section, including standards requiring the provision of appropriate information (at the start of the search process and throughout the process) to patients and their families and physicians;
+(4) standards for the system for patient advocacy operated under subsection (h), including standards requiring the provision of appropriate information (at the start of the search process and throughout the process) to patients and their families and physicians;
 
 (5) standards that—
 
@@ -216,7 +216,7 @@ In addition to activities regarding recruitment, the recruitment program under p
 
 #### (4) Implementation of subsection ####
 
-The requirements of this subsection shall be carried out by the entity that has been awarded a contract by the Secretary under subsection (a) of this section to carry out the functions described in subsection (d)(2) of this section.
+The requirements of this subsection shall be carried out by the entity that has been awarded a contract by the Secretary under subsection (a) to carry out the functions described in subsection (d)(2).
 
 #### (h) Patient advocacy and case management for bone marrow and cord blood ####
 
@@ -234,9 +234,9 @@ The Office shall meet the following requirements:
 
 (C) The Office shall operate a system for patient advocacy, which shall be separate from mechanisms for donor advocacy, and which shall serve patients for whom the Program is conducting, or has been requested to conduct, a search for a bone marrow donor or cord blood unit.
 
-(D) In the case of such a patient, the Office shall serve as an advocate for the patient by directly providing to the patient (or family members, physicians, or other individuals acting on behalf of the patient) individualized services with respect to efficiently utilizing the system under paragraphs (1) and (2) of subsection (d) of this section to conduct an ongoing search for a bone marrow donor or cord blood unit and assist with information regarding third party payor matters.
+(D) In the case of such a patient, the Office shall serve as an advocate for the patient by directly providing to the patient (or family members, physicians, or other individuals acting on behalf of the patient) individualized services with respect to efficiently utilizing the system under paragraphs (1) and (2) of subsection (d) to conduct an ongoing search for a bone marrow donor or cord blood unit and assist with information regarding third party payor matters.
 
-(E) In carrying out subparagraph (D), the Office shall monitor the system under paragraphs (1) and (2) of subsection (d) of this section to determine whether the search needs of the patient involved are being met, including with respect to the following:
+(E) In carrying out subparagraph (D), the Office shall monitor the system under paragraphs (1) and (2) of subsection (d) to determine whether the search needs of the patient involved are being met, including with respect to the following:
 
 (i) Periodically providing to the patient (or an individual acting on behalf of the patient) information regarding bone marrow donors or cord blood units that are suitably matched to the patient, and other information regarding the progress being made in the search.
 
@@ -298,7 +298,7 @@ Entities eligible to receive a contract under this section shall include private
 
 #### (1) Recordkeeping ####
 
-Each recipient of a contract or subcontract under subsection (a) of this section shall keep such records as the Secretary shall prescribe, including records that fully disclose the amount and disposition by the recipient of the proceeds of the contract, the total cost of the undertaking in connection with which the contract was made, and the amount of the portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of a contract or subcontract under subsection (a) shall keep such records as the Secretary shall prescribe, including records that fully disclose the amount and disposition by the recipient of the proceeds of the contract, the total cost of the undertaking in connection with which the contract was made, and the amount of the portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (2) Examination of records ####
 
@@ -306,7 +306,7 @@ The Secretary and the Comptroller General of the United States shall have access
 
 #### (n) Penalties for disclosure ####
 
-Any person who discloses the content of any record referred to in subsection (d)(4)(D) or (f)(5)(A) of this section without the prior written consent of the donor or potential donor with respect to whom the record is maintained, or in violation of the standards described in subsection (f)(5)(B) of this section, shall be imprisoned for not more than 2 years or fined in accordance with title 18, or both.
+Any person who discloses the content of any record referred to in subsection (d)(4)(D) or (f)(5)(A) without the prior written consent of the donor or potential donor with respect to whom the record is maintained, or in violation of the standards described in subsection (f)(5)(B), shall be imprisoned for not more than 2 years or fined in accordance with title 18, or both.
 
 (July 1, 1944, ch. 373, title III, §379, as added Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279; amended Pub. L. 105–196, §2(a), (b)(1), (c)–(g), July 16, 1998, 112 Stat. 631–635; Pub. L. 109–129, §3(a), Dec. 20, 2005, 119 Stat. 2553; Pub. L. 111–264, §2(b), Oct. 8, 2010, 124 Stat. 2791; Pub. L. 114–104, §2(a), Dec. 18, 2015, 129 Stat. 2216.)
 

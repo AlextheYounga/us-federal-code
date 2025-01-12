@@ -112,7 +112,7 @@ No provision of law establishing a preference for using a Government purchase ca
 
 #### (A) Review allowed ####
 
-Notwithstanding subsection (f) of this section, section 1491 of title 28, and section 3556 of title 31, review of a contracting agency decision relating to a procurement described in paragraph (1) may be had only by filing a protest—
+Notwithstanding subsection (f), section 1491 of title 28, and section 3556 of title 31, review of a contracting agency decision relating to a procurement described in paragraph (1) may be had only by filing a protest—
 
 (i) with a contracting agency; or
 

@@ -28,7 +28,7 @@ The Director of the Office shall—
 
 #### (c) Coordinating Committee ####
 
-(1) In carrying out subsection (b) of this section, the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the "Coordinating Committee").
+(1) In carrying out subsection (b), the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the "Coordinating Committee").
 
 (2) The Coordinating Committee shall be composed of the Directors of the national research institutes (or the designees of the Directors).
 
@@ -48,7 +48,7 @@ The Director of the Office shall—
 
 #### (d) Advisory Committee ####
 
-(1) In carrying out subsection (b) of this section, the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the "Advisory Committee").
+(1) In carrying out subsection (b), the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the "Advisory Committee").
 
 (2) The Advisory Committee shall be composed of no fewer than 12, and not more than 18 individuals, who are not officers or employees of the Federal Government. The Director of NIH shall make appointments to the Advisory Committee from among physicians, practitioners, scientists, and other health professionals, whose clinical practice, research specialization, or professional expertise includes a significant focus on research on women's health. A majority of the members of the Advisory Committee shall be women.
 
@@ -70,7 +70,7 @@ The Director of the Office shall—
 
 (B) report to the Director of the Office on such research;
 
-(C) provide recommendations to such Director regarding activities of the Office (including recommendations on the development of the methodologies described in subsection (c)(4)(C) of this section and recommendations on priorities in carrying out research described in subparagraph (A)); and
+(C) provide recommendations to such Director regarding activities of the Office (including recommendations on the development of the methodologies described in subsection (c)(4)(C) and recommendations on priorities in carrying out research described in subparagraph (A)); and
 
 (D) assist in monitoring compliance with section 289a–2 of this title regarding the inclusion of women in clinical research.
 

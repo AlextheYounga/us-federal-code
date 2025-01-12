@@ -34,7 +34,7 @@ The entity shall make every reasonable effort to secure from patients fees and p
 
 #### (2) Services to beneficiaries of Federal and federally assisted programs ####
 
-In the case of health care services furnished to an individual who is a beneficiary of a program listed in subsection (a)(2) of this section, the entity—
+In the case of health care services furnished to an individual who is a beneficiary of a program listed in subsection (a)(2), the entity—
 
 (A) shall accept an assignment pursuant to section 1842(b)(3)(B)(ii) of the Social Security Act (42 U.S.C. 1395u(b)(3)(B)(ii)) with respect to an individual who is a beneficiary under the medicare program; and
 

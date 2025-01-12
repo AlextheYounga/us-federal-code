@@ -6,19 +6,19 @@ The Secretary shall award grants, contracts or cooperative agreements to public 
 
 #### (b) Priorities ####
 
-In awarding grants, contracts or cooperative agreements under subsection (a) of this section related to the development of knowledge on evidence-based practices for treating disorders associated with psychological trauma, the Secretary shall give priority to mental health agencies and programs that have established clinical and basic research experience in the field of trauma-related mental disorders.
+In awarding grants, contracts or cooperative agreements under subsection (a) related to the development of knowledge on evidence-based practices for treating disorders associated with psychological trauma, the Secretary shall give priority to mental health agencies and programs that have established clinical and basic research experience in the field of trauma-related mental disorders.
 
 #### (c) Geographical distribution ####
 
-The Secretary shall ensure that grants, contracts or cooperative agreements under subsection (a) of this section with respect to centers of excellence are distributed equitably among the regions of the country and among urban and rural areas.
+The Secretary shall ensure that grants, contracts or cooperative agreements under subsection (a) with respect to centers of excellence are distributed equitably among the regions of the country and among urban and rural areas.
 
 #### (d) Evaluation ####
 
-The Secretary, as part of the application process, shall require that each applicant for a grant, contract or cooperative agreement under subsection (a) of this section submit a plan for the rigorous evaluation of the activities funded under the grant, contract or agreement, including both process and outcomes evaluation, and the submission of an evaluation at the end of the project period.
+The Secretary, as part of the application process, shall require that each applicant for a grant, contract or cooperative agreement under subsection (a) submit a plan for the rigorous evaluation of the activities funded under the grant, contract or agreement, including both process and outcomes evaluation, and the submission of an evaluation at the end of the project period.
 
 #### (e) Duration of awards ####
 
-With respect to a grant, contract or cooperative agreement under subsection (a) of this section, the period during which payments under such an award will be made to the recipient may not exceed 5 years. Such grants, contracts or agreements may be renewed.
+With respect to a grant, contract or cooperative agreement under subsection (a), the period during which payments under such an award will be made to the recipient may not exceed 5 years. Such grants, contracts or agreements may be renewed.
 
 #### (f) Authorization of appropriations ####
 

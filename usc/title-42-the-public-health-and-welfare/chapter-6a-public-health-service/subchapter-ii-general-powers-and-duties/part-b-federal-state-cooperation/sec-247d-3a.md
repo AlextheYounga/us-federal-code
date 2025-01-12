@@ -214,11 +214,11 @@ Subject to the amount appropriated under paragraph (1)(A), an award pursuant to 
 
 #### (A) In general ####
 
-For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) of this section to political subdivisions that have a substantial number of residents, have a substantial local infrastructure for responding to public health emergencies, and face a high degree of risk from bioterrorist attacks or other public health emergencies. Not more than three political subdivisions may receive awards pursuant to this subparagraph.
+For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) to political subdivisions that have a substantial number of residents, have a substantial local infrastructure for responding to public health emergencies, and face a high degree of risk from bioterrorist attacks or other public health emergencies. Not more than three political subdivisions may receive awards pursuant to this subparagraph.
 
 #### (B) Coordination with Statewide plans ####
 
-An award pursuant to subparagraph (A) may not be made unless the application of the political subdivision involved is in coordination with, and consistent with, applicable Statewide plans described in subsection (b) of this section.
+An award pursuant to subparagraph (A) may not be made unless the application of the political subdivision involved is in coordination with, and consistent with, applicable Statewide plans described in subsection (b).
 
 #### (C) Relationship to formula grants ####
 
@@ -232,7 +232,7 @@ In determining whether to make an award pursuant to subparagraph (A) to a politi
 
 #### (A) In general ####
 
-For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) of this section to eligible entities that—
+For fiscal year 2007, the Secretary may, before making awards pursuant to paragraph (3) for such year, reserve from the amount appropriated under paragraph (1) for the year an amount determined necessary by the Secretary to make awards under subsection (a) to eligible entities that—
 
 (i) have a significant need for funds to build capacity to identify, detect, monitor, and respond to a bioterrorist or other threat to the public health, which need will not be met by awards pursuant to paragraph (3); and
 
@@ -240,7 +240,7 @@ For fiscal year 2007, the Secretary may, before making awards pursuant to paragr
 
 #### (B) Recipients of grants ####
 
-Awards pursuant to subparagraph (A) may be supplemental awards to States that receive awards pursuant to paragraph (3), or may be awards to eligible entities described in subsection (b)(1)(B) of this section within such States.
+Awards pursuant to subparagraph (A) may be supplemental awards to States that receive awards pursuant to paragraph (3), or may be awards to eligible entities described in subsection (b)(1)(B) within such States.
 
 #### (C) Finding with respect to District of Columbia ####
 

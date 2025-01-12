@@ -42,7 +42,7 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 #### (b) Approval by Surgeon General; hearing after disapproval ####
 
-The Surgeon General shall approve any State plan and any modification thereof which complies with the provisions of subsection (a) of this section. If any such plan or modification thereof shall have been disapproved by the Surgeon General for failure to comply with subsection (a) of this section, the Federal Hospital Council shall, upon request of the State agency, afford it an opportunity for hearing. If such Council determines that the plan or modification complies with the provisions of such subsection, the Surgeon General shall thereupon approve such plan or modification.
+The Surgeon General shall approve any State plan and any modification thereof which complies with the provisions of subsection (a). If any such plan or modification thereof shall have been disapproved by the Surgeon General for failure to comply with subsection (a), the Federal Hospital Council shall, upon request of the State agency, afford it an opportunity for hearing. If such Council determines that the plan or modification complies with the provisions of such subsection, the Surgeon General shall thereupon approve such plan or modification.
 
 (July 1, 1944, ch. 373, title VI, §604, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 452; amended Pub. L. 91–296, title I, §§115, 116(b), (c), 123, June 30, 1970, 84 Stat. 341, 342, 344.)
 

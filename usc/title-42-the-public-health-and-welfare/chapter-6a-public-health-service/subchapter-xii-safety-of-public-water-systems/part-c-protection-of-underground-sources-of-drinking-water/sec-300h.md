@@ -8,7 +8,7 @@
 
 #### (b) Minimum requirements; restrictions ####
 
-(1) Regulations under subsection (a) of this section for State underground injection programs shall contain minimum requirements for effective programs to prevent underground injection which endangers drinking water sources within the meaning of subsection (d)(2) of this section. Such regulations shall require that a State program, in order to be approved under section 300h–1 of this title—
+(1) Regulations under subsection (a) for State underground injection programs shall contain minimum requirements for effective programs to prevent underground injection which endangers drinking water sources within the meaning of subsection (d)(2). Such regulations shall require that a State program, in order to be approved under section 300h–1 of this title—
 
 (A) shall prohibit, effective on the date on which the applicable underground injection control program takes effect, any underground injection in such State which is not authorized by a permit issued by the State (except that the regulations may permit a State to authorize underground injection by rule);
 
@@ -38,7 +38,7 @@ unless such requirements are essential to assure that underground sources of dri
 
 #### (c) Temporary permits; notice and hearing ####
 
-(1) The Administrator may, upon application of the Governor of a State which authorizes underground injection by means of permits, authorize such State to issue (without regard to subsection (b)(1)(B)(i) of this section) temporary permits for underground injection which may be effective until the, expiration of four years after December 16, 1974, if—
+(1) The Administrator may, upon application of the Governor of a State which authorizes underground injection by means of permits, authorize such State to issue (without regard to subsection (b)(1)(B)(i)) temporary permits for underground injection which may be effective until the, expiration of four years after December 16, 1974, if—
 
 (A) the Administrator finds that the State has demonstrated that it is unable and could not reasonably have been able to process all permit applications within the time available;
 
@@ -48,7 +48,7 @@ unless such requirements are essential to assure that underground sources of dri
 
 (D) the Administrator determines the temporary permits require the use of adequate safeguards established by rules adopted by him.
 
-(2) The Administrator may, upon application of the Governor of a State which authorizes underground injection by means of permits, authorize such State to issue (without regard to subsection (b)(1)(B)(i) of this section), but after reasonable notice and hearing, one or more temporary permits each of which is applicable to a particular injection well and to the underground injection of a particular fluid and which may be effective until the expiration of four years after December 16, 1974, if the State finds, on the record of such hearing—
+(2) The Administrator may, upon application of the Governor of a State which authorizes underground injection by means of permits, authorize such State to issue (without regard to subsection (b)(1)(B)(i)), but after reasonable notice and hearing, one or more temporary permits each of which is applicable to a particular injection well and to the underground injection of a particular fluid and which may be effective until the expiration of four years after December 16, 1974, if the State finds, on the record of such hearing—
 
 (A) that technology (or other means) to permit safe injection of the fluid in accordance with the applicable underground injection control program is not generally available (taking costs into consideration);
 

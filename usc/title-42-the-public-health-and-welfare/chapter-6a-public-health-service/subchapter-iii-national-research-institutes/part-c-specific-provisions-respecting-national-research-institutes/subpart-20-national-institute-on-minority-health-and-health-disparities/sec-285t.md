@@ -104,11 +104,11 @@ The Director of the Institute may provide for a research endowment under paragra
 
 (A) The institution does not have an endowment that is worth in excess of an amount equal to 50 percent of the national median of endowment funds at institutions that conduct similar biomedical research or training of health professionals.
 
-(B) The application of the institution under paragraph (1) regarding a research endowment has been recommended pursuant to technical and scientific peer review and has been approved by the advisory council under subsection (j) of this section.
+(B) The application of the institution under paragraph (1) regarding a research endowment has been recommended pursuant to technical and scientific peer review and has been approved by the advisory council under subsection (j).
 
 #### (i) Certain activities ####
 
-In carrying out subsection (a) of this section, the Director of the Institute—
+In carrying out subsection (a), the Director of the Institute—
 
 (1) shall assist the Director of NIH in carrying out section 283k(c)(2) of this title and in committing resources for construction at Institutions of Emerging Excellence under such section;
 
@@ -120,7 +120,7 @@ In carrying out subsection (a) of this section, the Director of the Institute—
 
 #### (1) In general ####
 
-The Secretary shall, in accordance with section 284a of this title, establish an advisory council to advise, assist, consult with, and make recommendations to the Director of the Institute on matters relating to the activities described in subsection (a) of this section, and with respect to such activities to carry out any other functions described in section 284a of this title for advisory councils under such section. Functions under the preceding sentence shall include making recommendations on budgetary allocations made in the plan under subsection (f) of this section, and shall include reviewing reports under subsection (k) of this section before the reports are submitted under such subsection.
+The Secretary shall, in accordance with section 284a of this title, establish an advisory council to advise, assist, consult with, and make recommendations to the Director of the Institute on matters relating to the activities described in subsection (a), and with respect to such activities to carry out any other functions described in section 284a of this title for advisory councils under such section. Functions under the preceding sentence shall include making recommendations on budgetary allocations made in the plan under subsection (f), and shall include reviewing reports under subsection (k) before the reports are submitted under such subsection.
 
 #### (2) Membership ####
 

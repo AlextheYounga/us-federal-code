@@ -6,13 +6,13 @@ The Directors of the National Institute of Arthritis and Musculoskeletal and Ski
 
 #### (b) Coordination ####
 
-The Directors referred to in subsection (a) of this section shall jointly coordinate the programs referred to in such subsection and consult with the Arthritis and Musculoskeletal Diseases Interagency Coordinating Committee and the Interagency Task Force on Aging Research.
+The Directors referred to in subsection (a) shall jointly coordinate the programs referred to in such subsection and consult with the Arthritis and Musculoskeletal Diseases Interagency Coordinating Committee and the Interagency Task Force on Aging Research.
 
 #### (c) Information clearinghouse ####
 
 #### (1) In general ####
 
-In order to assist in carrying out the purpose described in subsection (a) of this section, the Director of NIH shall provide for the establishment of an information clearinghouse on osteoporosis and related bone disorders to facilitate and enhance knowledge and understanding on the part of health professionals, patients, and the public through the effective dissemination of information.
+In order to assist in carrying out the purpose described in subsection (a), the Director of NIH shall provide for the establishment of an information clearinghouse on osteoporosis and related bone disorders to facilitate and enhance knowledge and understanding on the part of health professionals, patients, and the public through the effective dissemination of information.
 
 #### (2) Establishment through grant or contract ####
 

@@ -6,7 +6,7 @@ For the purpose of establishing eligibility of officers of the Regular Corps for
 
 #### (b) Assignment of officers ####
 
-Each officer of the Regular Corps on active duty shall, on the basis of his training and experience, be assigned by the Surgeon General to one of the categories established by regulations under subsection (a) of this section. Except upon amendment of such regulations, no assignment so made shall be changed unless the Surgeon General finds (1) that the original assignment was erroneous, or (2) that the officer is equally well qualified to serve in another category to which he has requested to be transferred, and that such transfer is in the interests of the Service.
+Each officer of the Regular Corps on active duty shall, on the basis of his training and experience, be assigned by the Surgeon General to one of the categories established by regulations under subsection (a). Except upon amendment of such regulations, no assignment so made shall be changed unless the Surgeon General finds (1) that the original assignment was erroneous, or (2) that the officer is equally well qualified to serve in another category to which he has requested to be transferred, and that such transfer is in the interests of the Service.
 
 #### (c) Maximum number of officers in each category ####
 
@@ -22,7 +22,7 @@ The absence of a vacancy in a grade in a category shall not prevent an appointme
 
 #### (f) Vacancy in grade as affecting maximum number for each category ####
 
-Whenever a vacancy exists in any grade in a category the Surgeon General may increase by one the number fixed by him under subsection (c) of this section for the next lower grade in the same category, without regard to the numbers fixed in regulations under section 207(d) of this title; and in that event the vacancy in the higher grade shall not be filled except by a permanent promotion, and upon the making of such promotion the number for the next lower grade shall be reduced by one.
+Whenever a vacancy exists in any grade in a category the Surgeon General may increase by one the number fixed by him under subsection (c) for the next lower grade in the same category, without regard to the numbers fixed in regulations under section 207(d) of this title; and in that event the vacancy in the higher grade shall not be filled except by a permanent promotion, and upon the making of such promotion the number for the next lower grade shall be reduced by one.
 
 (July 1, 1944, ch. 373, title II, §209, as added Feb. 28, 1948, ch. 83, §5(i), 62 Stat. 41; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–76, title III, §306, Sept. 29, 1979, 93 Stat. 585.)
 

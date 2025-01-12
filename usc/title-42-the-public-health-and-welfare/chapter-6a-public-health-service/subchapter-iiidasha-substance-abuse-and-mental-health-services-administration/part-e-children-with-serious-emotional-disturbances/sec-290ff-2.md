@@ -6,11 +6,11 @@ A funding agreement for a grant under section 290ff(a) of this title is that a s
 
 #### (b) Multidisciplinary team ####
 
-A funding agreement for a grant under section 290ff(a) of this title is that the plan required in subsection (a) of this section will be developed, and reviewed and as appropriate revised not less than once each year, by a multidisciplinary team of appropriately qualified individuals who provide services through the system, including as appropriate mental health services, other health services, educational services, social services, and vocational counseling and rehabilitation; <sup><a href="#290ff-2_1_target" name="290ff-2_1">1</a></sup>
+A funding agreement for a grant under section 290ff(a) of this title is that the plan required in subsection (a) will be developed, and reviewed and as appropriate revised not less than once each year, by a multidisciplinary team of appropriately qualified individuals who provide services through the system, including as appropriate mental health services, other health services, educational services, social services, and vocational counseling and rehabilitation; <sup><a href="#290ff-2_1_target" name="290ff-2_1">1</a></sup>
 
 #### (c) Coordination with services under Individuals with Disabilities Education Act ####
 
-A funding agreement for a grant under section 290ff(a) of this title is that, with respect to a plan under subsection (a) of this section for a child, the multidisciplinary team required in subsection (b) of this section will—
+A funding agreement for a grant under section 290ff(a) of this title is that, with respect to a plan under subsection (a) for a child, the multidisciplinary team required in subsection (b) will—
 
 (1) in developing, carrying out, reviewing, and revising the plan consider any individualized education program in effect for the child pursuant to part B of the Individuals with Disabilities Education Act [42 U.S.C. 1411 et seq.];
 
@@ -20,7 +20,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that, wi
 
 #### (d) Contents of plan ####
 
-A funding agreement for a grant under section 290ff(a) of this title is that the plan required in subsection (a) of this section for a child will—
+A funding agreement for a grant under section 290ff(a) of this title is that the plan required in subsection (a) for a child will—
 
 (1) identify and state the needs of the child for the services available pursuant to section 290ff–1 of this title through the system;
 

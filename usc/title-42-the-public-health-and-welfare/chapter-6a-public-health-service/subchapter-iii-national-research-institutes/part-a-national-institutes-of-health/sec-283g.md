@@ -18,7 +18,7 @@ The Director of NIH shall allocate the amounts appropriated to carry out this se
 
 #### (1) In general ####
 
-The Director of NIH shall award grants and contracts under subsection (a)(1) of this section to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on various forms of muscular dystrophy. Such centers of excellence shall be known as the "Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers".
+The Director of NIH shall award grants and contracts under subsection (a)(1) to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on various forms of muscular dystrophy. Such centers of excellence shall be known as the "Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers".
 
 #### (2) Research ####
 
@@ -38,7 +38,7 @@ Support for a center established under paragraph (1) may be provided under this 
 
 #### (c) Facilitation of research ####
 
-The Director of NIH shall provide for a program under subsection (a)(1) of this section under which samples of tissues and genetic materials that are of use in research on muscular dystrophy are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific and medical standards for the donation, collection, and preservation of such samples.
+The Director of NIH shall provide for a program under subsection (a)(1) under which samples of tissues and genetic materials that are of use in research on muscular dystrophy are donated, collected, preserved, and made available for such research. The program shall be carried out in accordance with accepted scientific and medical standards for the donation, collection, and preservation of such samples.
 
 #### (d) Coordinating Committee ####
 
@@ -102,7 +102,7 @@ The plan under paragraph (1) shall, with respect to each form of muscular dystro
 
 #### (f) Public input ####
 
-The Secretary shall, under subsection (a)(1) of this section, provide for a means through which the public can obtain information on the existing and planned programs and activities of the Department of Health and Human Services with respect to various forms of muscular dystrophy and through which the Secretary can receive comments from the public regarding such programs and activities.
+The Secretary shall, under subsection (a)(1), provide for a means through which the public can obtain information on the existing and planned programs and activities of the Department of Health and Human Services with respect to various forms of muscular dystrophy and through which the Secretary can receive comments from the public regarding such programs and activities.
 
 #### (g) Clinical research ####
 
@@ -142,7 +142,7 @@ Subsec. (e)(2)(D). Pub. L. 113–166, §2(4)(B), inserted "and new clinical inte
 
 Subsec. (b)(1). Pub. L. 110–361, §2(b)(2), inserted at end "Such centers of excellence shall be known as the 'Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers'."
 
-Subsec. (f). Pub. L. 110–361, §2(a), struck out subsec. (f) which related to reports.
+Subsec. (f). Pub. L. 110–361, §2(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to reports.
 
 Subsec. (g). Pub. L. 110–361, §2(a), (b)(3), added subsec. (g) and redesignated former subsec. (g) as (f).
 

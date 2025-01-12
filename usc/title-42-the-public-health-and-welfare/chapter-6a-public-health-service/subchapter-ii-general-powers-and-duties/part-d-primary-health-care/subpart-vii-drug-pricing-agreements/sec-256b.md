@@ -40,9 +40,9 @@ In this section, the term "covered entity" means an entity that meets the requir
 
 (C) A family planning project receiving a grant or contract under section 300 of this title.
 
-(D) An entity receiving a grant under subpart II <sup><a href="#256b_1_target" name="256b_1">1</a></sup> of part C of subchapter XXIV of this chapter (relating to categorical grants for outpatient early intervention services for HIV disease).
+(D) An entity receiving a grant under subpart II <sup><a href="#256b_1_target" name="256b_1">1</a></sup> of part C of subchapter XXIV (relating to categorical grants for outpatient early intervention services for HIV disease).
 
-(E) A State-operated AIDS drug purchasing assistance program receiving financial assistance under subchapter XXIV of this chapter.
+(E) A State-operated AIDS drug purchasing assistance program receiving financial assistance under subchapter XXIV.
 
 (F) A black lung clinic receiving funds under section 937(a) of title 30.
 
@@ -52,7 +52,7 @@ In this section, the term "covered entity" means an entity that meets the requir
 
 (I) An urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act [25 U.S.C. 1651 et seq.].
 
-(J) Any entity receiving assistance under subchapter XXIV of this chapter (other than a State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
+(J) Any entity receiving assistance under subchapter XXIV (other than a State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
 (K) An entity receiving funds under section 247c of this title (relating to treatment of sexually transmitted diseases) or section 247b(j)(2) <sup><a href="#256b_1_target" name="256b_1">1</a></sup> of this title (relating to treatment of tuberculosis) through a State or unit of local government, but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
@@ -262,7 +262,7 @@ The Social Security Act, referred to in subsec. (a)(1), (3), (4)(L)(i), (5)(A)(i
 
 Section 256a of this title, referred to in subsec. (a)(4)(B), was in the original a reference to section 340A of act July 1, 1944, which was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645. Subsequently, a new section 340A was added to the act of July 1, 1944, by Pub. L. 109–18, §2, June 29, 2005, 119 Stat. 340, which is also classified to section 256a of this title.
 
-Subpart II of part C of subchapter XXIV of this chapter, referred to in subsec. (a)(4)(D), was redesignated subpart I of part C of subchapter XXIV of this chapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
+Subpart II of part C of subchapter XXIV, referred to in subsec. (a)(4)(D), was redesignated subpart I of part C of subchapter XXIV of this chapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
 
 The Native Hawaiian Health Care Act of 1988, referred to in subsec. (a)(4)(H), was Pub. L. 100–579, Oct. 31, 1988, 102 Stat. 2916, and subtitle D of title II of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4222, which were classified generally to chapter 122 (§11701 et seq.) of this title prior to being amended generally and renamed the Native Hawaiian Health Care Improvement Act by Pub. L. 102–396. For complete classification of this Act to the Code, see Tables.
 

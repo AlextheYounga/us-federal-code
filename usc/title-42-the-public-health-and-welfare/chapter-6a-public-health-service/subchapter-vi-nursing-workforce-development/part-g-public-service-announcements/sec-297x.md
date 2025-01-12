@@ -6,7 +6,7 @@ The Secretary may award grants to eligible entities to support State and local a
 
 #### (b) Use of funds ####
 
-An eligible entity that receives a grant under subsection (a) of this section shall use funds received through such grant to acquire local television and radio time, place advertisements in local newspapers, or post information on billboards or on the Internet in a manner intended to reach as wide and diverse an audience as possible, in order to—
+An eligible entity that receives a grant under subsection (a) shall use funds received through such grant to acquire local television and radio time, place advertisements in local newspapers, or post information on billboards or on the Internet in a manner intended to reach as wide and diverse an audience as possible, in order to—
 
 (1) advertise and promote the nursing profession;
 
@@ -20,7 +20,7 @@ An eligible entity that receives a grant under subsection (a) of this section sh
 
 #### (c) Limitation ####
 
-An eligible entity that receives a grant under subsection (a) of this section shall not use funds received through such grant to advertise particular employment opportunities.
+An eligible entity that receives a grant under subsection (a) shall not use funds received through such grant to advertise particular employment opportunities.
 
 #### (d) Authorization of appropriations ####
 

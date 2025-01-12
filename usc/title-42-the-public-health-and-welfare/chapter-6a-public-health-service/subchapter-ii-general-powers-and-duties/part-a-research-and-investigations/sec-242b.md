@@ -2,11 +2,11 @@
 
 #### (a) Scope of activities ####
 
-The Secretary may, through the Agency for Healthcare Research and Quality or the National Center for Health Statistics, or using Ruth L. Kirschstein National Research Service Awards or other appropriate authorities, undertake and support training programs to provide for an expanded and continuing supply of individuals qualified to perform the research, evaluation, and demonstration projects set forth in section 242k of this title and in subchapter VII of this chapter.
+The Secretary may, through the Agency for Healthcare Research and Quality or the National Center for Health Statistics, or using Ruth L. Kirschstein National Research Service Awards or other appropriate authorities, undertake and support training programs to provide for an expanded and continuing supply of individuals qualified to perform the research, evaluation, and demonstration projects set forth in section 242k of this title and in subchapter VII.
 
 #### (b) Additional authority; scope of activities ####
 
-To implement subsection (a) of this section and section 242k of this title, the Secretary may, in addition to any other authority which under other provisions of this chapter or any other law may be used by him to implement such subsection, do the following:
+To implement subsection (a) and section 242k of this title, the Secretary may, in addition to any other authority which under other provisions of this chapter or any other law may be used by him to implement such subsection, do the following:
 
 (1) Utilize personnel and equipment, facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, provide technical assistance and advice, make grants to public and nonprofit private entities and individuals, and, when appropriate, enter into contracts with public and private entities and individuals.
 
@@ -40,11 +40,11 @@ In subsec. (b)(4), "section 8141 of title 40" substituted for "the Act of March 
 
 **1993**—Subsec. (d). Pub. L. 103–183 struck out subsec. (d) which directed Secretary to conduct an ongoing study of present and projected future health costs of pollution and other environmental conditions resulting from human activity and to submit to Congress reports on the study.
 
-**1989**—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment" and "in section 242k of this title and in subchapter VII of this chapter" for "in sections 242c, 242k, and 242n of this title".
+**1989**—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment" and "in section 242k of this title and in subchapter VII" for "in sections 242c, 242k, and 242n of this title".
 
 Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) which required Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
 
-Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted "subsection (a) of this section and section 242k of this title" for "subsection (a) of this section".
+Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted "subsection (a) and section 242k of this title" for "subsection (a)".
 
 Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment".
 

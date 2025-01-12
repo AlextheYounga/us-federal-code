@@ -10,7 +10,7 @@ The Director of <sup><a href="#285b-7b_1_target" name="285b-7b_1">1</a></sup> I
 
 #### (b) Representation of the Department of Housing and Urban Development ####
 
-A representative of the Department of Housing and Urban Development shall be included on the National Asthma Education Prevention Program Coordinating Committee for the purpose of performing the tasks described in subsection (a) of this section.
+A representative of the Department of Housing and Urban Development shall be included on the National Asthma Education Prevention Program Coordinating Committee for the purpose of performing the tasks described in subsection (a).
 
 (July 1, 1944, ch. 373, title IV, §424B, as added Pub. L. 106–310, div. A, title V, §521, Oct. 17, 2000, 114 Stat. 1116; amended Pub. L. 109–482, title I, §§103(b)(19), 104(b)(1)(G), Jan. 15, 2007, 120 Stat. 3688, 3693.)
 

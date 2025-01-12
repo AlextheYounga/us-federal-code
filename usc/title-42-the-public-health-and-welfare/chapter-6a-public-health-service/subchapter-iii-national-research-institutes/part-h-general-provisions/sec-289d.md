@@ -14,21 +14,21 @@ The Secretary, acting through the Director of NIH, shall establish guidelines fo
 
 Such guidelines shall not be construed to prescribe methods of research.
 
-(3) The organization and operation of animal care committees in accordance with subsection (b) of this section.
+(3) The organization and operation of animal care committees in accordance with subsection (b).
 
 #### (b) Animal care committees; establishment; membership; functions ####
 
-(1) Guidelines of the Secretary under subsection (a)(3) of this section shall require animal care committees at each entity which conducts biomedical and behavioral research with funds provided under this chapter (including the National Institutes of Health and the national research institutes) to assure compliance with the guidelines established under subsection (a) of this section.
+(1) Guidelines of the Secretary under subsection (a)(3) shall require animal care committees at each entity which conducts biomedical and behavioral research with funds provided under this chapter (including the National Institutes of Health and the national research institutes) to assure compliance with the guidelines established under subsection (a).
 
 (2) Each animal care committee shall be appointed by the chief executive officer of the entity for which the committee is established, shall be composed of not fewer than three members, and shall include at least one individual who has no association with such entity and at least one doctor of veterinary medicine.
 
 (3) Each animal care committee of a research entity shall—
 
-(A) review the care and treatment of animals in all animal study areas and facilities of the research entity at least semi-annually to evaluate compliance with applicable guidelines established under subsection (a) of this section for appropriate animal care and treatment;
+(A) review the care and treatment of animals in all animal study areas and facilities of the research entity at least semi-annually to evaluate compliance with applicable guidelines established under subsection (a) for appropriate animal care and treatment;
 
 (B) keep appropriate records of reviews conducted under subparagraph (A); and
 
-(C) for each review conducted under subparagraph (A), file with the Director of NIH at least annually (i) a certification that the review has been conducted, and (ii) reports of any violations of guidelines established under subsection (a) of this section or assurances required under paragraph (1) which were observed in such review and which have continued after notice by the committee to the research entity involved of the violations.
+(C) for each review conducted under subparagraph (A), file with the Director of NIH at least annually (i) a certification that the review has been conducted, and (ii) reports of any violations of guidelines established under subsection (a) or assurances required under paragraph (1) which were observed in such review and which have continued after notice by the committee to the research entity involved of the violations.
 
 Reports filed under subparagraph (C) shall include any minority views filed by members of the committee.
 
@@ -38,7 +38,7 @@ The Director of NIH shall require each applicant for a grant, contract, or coope
 
 (1) assurances satisfactory to the Director of NIH that—
 
-(A) the applicant meets the requirements of the guidelines established under paragraphs (1) and (2) of subsection (a) of this section and has an animal care committee which meets the requirements of subsection (b) of this section; and
+(A) the applicant meets the requirements of the guidelines established under paragraphs (1) and (2) of subsection (a) and has an animal care committee which meets the requirements of subsection (b); and
 
 (B) scientists, animal technicians, and other personnel involved with animal care, treatment, and use by the applicant have available to them instruction or training in the humane practice of animal maintenance and experimentation, and the concept, availability, and use of research or testing methods that limit the use of animals or limit animal distress; and
 
@@ -50,7 +50,7 @@ Notwithstanding subsection (a)(2) of section 553 of title 5, regulations under t
 
 If the Director of NIH determines that—
 
-(1) the conditions of animal care, treatment, or use in an entity which is receiving a grant, contract, or cooperative agreement involving research on animals under this subchapter do not meet applicable guidelines established under subsection (a) of this section;
+(1) the conditions of animal care, treatment, or use in an entity which is receiving a grant, contract, or cooperative agreement involving research on animals under this subchapter do not meet applicable guidelines established under subsection (a);
 
 (2) the entity has been notified by the Director of NIH of such determination and has been given a reasonable opportunity to take corrective action; and
 
@@ -60,7 +60,7 @@ the Director of NIH shall suspend or revoke such grant or contract under such co
 
 #### (e) Disclosure of trade secrets or privileged or confidential information ####
 
-No guideline or regulation promulgated under subsection (a) or (c) of this section may require a research entity to disclose publicly trade secrets or commercial or financial information which is privileged or confidential.
+No guideline or regulation promulgated under subsection (a) or (c) may require a research entity to disclose publicly trade secrets or commercial or financial information which is privileged or confidential.
 
 (July 1, 1944, ch. 373, title IV, §495, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 875.)
 

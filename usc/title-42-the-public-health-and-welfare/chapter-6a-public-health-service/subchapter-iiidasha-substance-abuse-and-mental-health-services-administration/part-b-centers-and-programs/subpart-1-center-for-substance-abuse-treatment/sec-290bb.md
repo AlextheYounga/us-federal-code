@@ -38,7 +38,7 @@ The Director of the Center shall—
 
 #### (c) Grants and contracts ####
 
-In carrying out the duties established in subsection (b) of this section, the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
+In carrying out the duties established in subsection (b), the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
 
 (July 1, 1944, ch. 373, title V, §507, as added Pub. L. 102–321, title I, §107(2), July 10, 1992, 106 Stat. 335; amended Pub. L. 106–310, div. B, title XXXI, §3112(a), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 108–173, title IX, §900(e)(2)(B), Dec. 8, 2003, 117 Stat. 2372.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Eligibility ####
 
-Subject to the availability of funds appropriated under the authority of subsection (d) of this section, the Secretary shall provide funds to Papa Ola Lokahi for the purpose of providing scholarship assistance to students who—
+Subject to the availability of funds appropriated under the authority of subsection (d), the Secretary shall provide funds to Papa Ola Lokahi for the purpose of providing scholarship assistance to students who—
 
 (1) meet the requirements of section 254l(b) of this title, and
 
@@ -10,7 +10,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 #### (b) Terms and conditions ####
 
-(1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254l of this title.
+(1) The scholarship assistance provided under subsection (a) shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254l of this title.
 
 (2) The Native Hawaiian Health Scholarship program shall not be administered by or through the Indian Health Service.
 
@@ -32,7 +32,7 @@ For purposes of this section, the term "Native Hawaiian" means any individual wh
 
 #### (d) Authorization of appropriations ####
 
-There are authorized to be appropriated $1,800,000 for each of the fiscal years 1990, 1991, and 1992 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
+There are authorized to be appropriated $1,800,000 for each of the fiscal years 1990, 1991, and 1992 for the purpose of funding the scholarship assistance provided under subsection (a).
 
 (July 1, 1944, ch. 373, title III, §338K, formerly §338J, as added Pub. L. 100–713, title I, §106, Nov. 23, 1988, 102 Stat. 4787; renumbered §338K, Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 101–644, title IV, §401, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 107–116, title V, §514(b), Jan. 10, 2002, 115 Stat. 2220.)
 

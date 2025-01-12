@@ -90,7 +90,7 @@ There may be in the Administration an Associate Administrator for Alcohol Preven
 
 (B) Each report under subparagraph (A) shall include a description of any revisions in the plan under paragraph (2) made during the preceding 2 years.
 
-(C) Each report under subparagraph (A) shall be submitted to the Administrator for inclusion in the biennial report under subsection (k) of this section.
+(C) Each report under subparagraph (A) shall be submitted to the Administrator for inclusion in the biennial report under subsection (k).
 
 #### (f) Associate Administrator for Women's Services ####
 
@@ -120,7 +120,7 @@ The Associate Administrator appointed under paragraph (1) shall—
 
 (ii) collect and review data, including information provided by the Secretary (including the material referred to in paragraph (3)), and report biannually to the Administrator regarding the extent to which women are represented among senior personnel, and make recommendations regarding improvement in the participation of women in the workforce of the Administration; and
 
-(iii) prepare, for inclusion in the biennial report required pursuant to subsection (k) of this section, a description of activities of the Committee, including findings made by the Committee regarding—
+(iii) prepare, for inclusion in the biennial report required pursuant to subsection (k), a description of activities of the Committee, including findings made by the Committee regarding—
 
 (I) the extent of expenditures made for women's substance abuse and mental health services by the agencies of the Administration; and
 
@@ -210,7 +210,7 @@ Notwithstanding section 290aa–3 of this title and except as provided in paragr
 
 #### (2) Exceptions ####
 
-Amounts appropriated under part C of this subchapter shall not be subject to paragraph (1).
+Amounts appropriated under part C shall not be subject to paragraph (1).
 
 #### (3) Emergencies ####
 

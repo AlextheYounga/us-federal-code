@@ -46,7 +46,7 @@ The Secretary shall by regulation establish procedures for the Director to monit
 
 #### (1) In general ####
 
-In the case of any entity required to establish administrative processes under subsection (b) of this section, the Secretary shall by regulation establish standards for preventing, and for responding to the occurrence of retaliation by such entity, its officials or agents, against an employee in the terms and conditions of employment in response to the employee having in good faith—
+In the case of any entity required to establish administrative processes under subsection (b), the Secretary shall by regulation establish standards for preventing, and for responding to the occurrence of retaliation by such entity, its officials or agents, against an employee in the terms and conditions of employment in response to the employee having in good faith—
 
 (A) made an allegation that the entity, its officials or agents, has engaged in or failed to adequately respond to an allegation of research misconduct; or
 

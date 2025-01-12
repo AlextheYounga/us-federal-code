@@ -44,7 +44,7 @@ The Secretary shall prescribe guidelines as appropriate for other advanced nurse
 
 #### (1) In general ####
 
-The Secretary may not award a grant to an applicant under subsection (a) of this section unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
+The Secretary may not award a grant to an applicant under subsection (a) unless the applicant involved agrees that traineeships provided with the grant will only pay all or part of the costs of—
 
 (A) the tuition, books, and fees of the program of advanced nurse education with respect to which the traineeship is provided; and
 
@@ -52,7 +52,7 @@ The Secretary may not award a grant to an applicant under subsection (a) of this
 
 #### (2) Special consideration ####
 
-In making awards of grants and contracts under subsection (a)(2) of this section, the Secretary shall give special consideration to an eligible entity that agrees to expend the award to train advanced education nurses who will practice in health professional shortage areas designated under section 254e of this title.
+In making awards of grants and contracts under subsection (a)(2), the Secretary shall give special consideration to an eligible entity that agrees to expend the award to train advanced education nurses who will practice in health professional shortage areas designated under section 254e of this title.
 
 (July 1, 1944, ch. 373, title VIII, §811, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3566; amended Pub. L. 111–148, title V, §5308, Mar. 23, 2010, 124 Stat. 629.)
 

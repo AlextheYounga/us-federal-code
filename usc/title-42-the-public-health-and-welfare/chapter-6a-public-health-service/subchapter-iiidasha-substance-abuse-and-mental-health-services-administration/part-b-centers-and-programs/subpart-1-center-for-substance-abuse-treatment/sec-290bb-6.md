@@ -24,7 +24,7 @@ With regard to military facilities or parts thereof, as identified by the Commis
 
 #### (c) Reservation of space ####
 
-Prior to notifying States of the availability of space at military facilities under subsection (a)(2) of this section, the Director may reserve space at such facilities to conduct research or demonstration projects.
+Prior to notifying States of the availability of space at military facilities under subsection (a)(2), the Director may reserve space at such facilities to conduct research or demonstration projects.
 
 (July 1, 1944, ch. 373, title V, §513, formerly §561, as added Pub. L. 100–690, title II, §2081(a), Nov. 18, 1988, 102 Stat. 4215; renumbered §513 and amended Pub. L. 102–321, title I, §112(a), (b)(1), July 10, 1992, 106 Stat. 344, 345.)
 

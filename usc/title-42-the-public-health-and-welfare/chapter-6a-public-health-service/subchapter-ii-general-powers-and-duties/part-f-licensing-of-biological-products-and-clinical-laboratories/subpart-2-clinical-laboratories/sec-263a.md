@@ -12,7 +12,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general ####
 
-The Secretary may issue or renew a certificate for a laboratory only if the laboratory meets the requirements of subsection (d) of this section.
+The Secretary may issue or renew a certificate for a laboratory only if the laboratory meets the requirements of subsection (d).
 
 #### (2) Term ####
 
@@ -24,7 +24,7 @@ A certificate issued under this section shall be valid for a period of 2 years o
 
 A laboratory may be issued a certificate or have its certificate renewed if—
 
-(A) the laboratory submits (or if the laboratory is accredited under subsection (e) of this section, the accreditation body which accredited the laboratory submits), an application—
+(A) the laboratory submits (or if the laboratory is accredited under subsection (e), the accreditation body which accredited the laboratory submits), an application—
 
 (i) in such form and manner as the Secretary shall prescribe,
 
@@ -42,11 +42,11 @@ the laboratory agrees to provide to the Secretary (or if the laboratory is accre
 
 (B) the laboratory provides the Secretary—
 
-(i) with satisfactory assurances that the laboratory will be operated in accordance with standards issued by the Secretary under subsection (f) of this section, or
+(i) with satisfactory assurances that the laboratory will be operated in accordance with standards issued by the Secretary under subsection (f), or
 
-(ii) with proof of accreditation under subsection (e) of this section,
+(ii) with proof of accreditation under subsection (e),
 
-(C) the laboratory agrees to permit inspections by the Secretary under subsection (g) of this section,
+(C) the laboratory agrees to permit inspections by the Secretary under subsection (g),
 
 (D) the laboratory agrees to make records available and submit reports to the Secretary as the Secretary may reasonably require, and
 
@@ -74,7 +74,7 @@ If a laboratory makes changes in the examinations and other procedures performed
 
 #### (C) Effect ####
 
-Subsections (f) and (g) of this section shall not apply to a laboratory to which has been issued a certificate of waiver.
+Subsections (f) and (g) shall not apply to a laboratory to which has been issued a certificate of waiver.
 
 #### (3) Examinations and procedures ####
 
@@ -106,7 +106,7 @@ The Secretary may approve a private nonprofit organization to be an accreditatio
 
 (i) using inspectors qualified to evaluate the methodologies used by the laboratories in performing laboratory examinations and other procedures, the accreditation body agrees to inspect a laboratory for purposes of accreditation with such frequency as determined by <sup><a href="#263a_1_target" name="263a_1">1</a></sup> Secretary,
 
-(ii) the standards applied by the body in determining whether or not to accredit a laboratory are equal to or more stringent than the standards issued by the Secretary under subsection (f) of this section,
+(ii) the standards applied by the body in determining whether or not to accredit a laboratory are equal to or more stringent than the standards issued by the Secretary under subsection (f),
 
 (iii) there is adequate provision for assuring that the standards of the accreditation body continue to be met by the laboratory,
 
@@ -126,13 +126,13 @@ If the Secretary withdraws the approval of an accreditation body under subparagr
 
 (i) for 45 days after the laboratory receives notice of the withdrawal or revocation of the accreditation, or
 
-(ii) until the effective date of any action taken by the Secretary under subsection (i) of this section.
+(ii) until the effective date of any action taken by the Secretary under subsection (i).
 
 #### (D) Evaluations ####
 
 The Secretary shall evaluate annually the performance of each approved accreditation body by—
 
-(i) inspecting under subsection (g) of this section a sufficient number of the laboratories accredited by such body to allow a reasonable estimate of the performance of such body, and
+(i) inspecting under subsection (g) a sufficient number of the laboratories accredited by such body to allow a reasonable estimate of the performance of such body, and
 
 (ii) such other means as the Secretary determines appropriate.
 
@@ -188,11 +188,11 @@ For the purpose of administering proficiency testing programs which meet the sta
 
 #### (D) Onsite testing ####
 
-The Secretary shall perform, or shall direct a program approved under subparagraph (C) to perform, onsite proficiency testing to assure compliance with the requirements of subsection (d)(5) of this section. The Secretary shall perform, on an onsite or other basis, proficiency testing to evaluate the performance of a proficiency testing program approved under subparagraph (C) and to assure quality performance by a laboratory.
+The Secretary shall perform, or shall direct a program approved under subparagraph (C) to perform, onsite proficiency testing to assure compliance with the requirements of subsection (d)(5). The Secretary shall perform, on an onsite or other basis, proficiency testing to evaluate the performance of a proficiency testing program approved under subparagraph (C) and to assure quality performance by a laboratory.
 
 #### (E) Training, technical assistance, and enhanced proficiency testing ####
 
-The Secretary may, in lieu of or in addition to actions authorized under subsection (h), (i), or (j) of this section, require any laboratory which fails to perform acceptably on an individual examination and procedure or a category of examination and procedures—
+The Secretary may, in lieu of or in addition to actions authorized under subsection (h), (i), or (j), require any laboratory which fails to perform acceptably on an individual examination and procedure or a category of examination and procedures—
 
 (i) to undertake training and to obtain the necessary technical assistance to meet the requirements of the proficency <sup><a href="#263a_2_target" name="263a_2">2</a></sup> testing program,
 
@@ -238,13 +238,13 @@ The Secretary may, on an announced or unannounced basis, enter and inspect, duri
 
 #### (2) Compliance with requirements and standards ####
 
-The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements of subsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accredited under subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
+The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements of subsection (d) and the standards issued under subsection (f). Inspections of laboratories not accredited under subsection (e) shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
 
 #### (h) Intermediate sanctions ####
 
 #### (1) In general ####
 
-If the Secretary determines that a laboratory which has been issued a certificate under this section no longer substantially meets the requirements for the issuance of a certificate, the Secretary may impose intermediate sanctions in lieu of the actions authorized by subsection (i) of this section.
+If the Secretary determines that a laboratory which has been issued a certificate under this section no longer substantially meets the requirements for the issuance of a certificate, the Secretary may impose intermediate sanctions in lieu of the actions authorized by subsection (i).
 
 #### (2) Types of sanctions ####
 
@@ -252,7 +252,7 @@ The intermediate sanctions which may be imposed under paragraph (1) shall consis
 
 (A) directed plans of correction,
 
-(B) civil money penalties in an amount not to exceed $10,000 for each violation listed in subsection (i)(1) of this section or for each day of substantial noncompliance with the requirements of this section,
+(B) civil money penalties in an amount not to exceed $10,000 for each violation listed in subsection (i)(1) or for each day of substantial noncompliance with the requirements of this section,
 
 (C) payment for the costs of onsite monitoring, or
 
@@ -272,7 +272,7 @@ Except as provided in paragraph (2), the certificate of a laboratory issued unde
 
 (B) has performed or represented the laboratory as entitled to perform a laboratory examination or other procedure which is not within a category of laboratory examinations or other procedures authorized in the certificate,
 
-(C) has failed to comply with the requirements of subsection (d) of this section or the standards prescribed by the Secretary under subsection (f) of this section,
+(C) has failed to comply with the requirements of subsection (d) or the standards prescribed by the Secretary under subsection (f),
 
 (D) has failed to comply with reasonable requests of the Secretary for—
 
@@ -280,19 +280,19 @@ Except as provided in paragraph (2), the certificate of a laboratory issued unde
 
 (ii) work on materials,
 
-that the Secretary concludes is necessary to determine the laboratory's continued eligibility for its certificate or continued compliance with the Secretary's standards under subsection (f) of this section,
+that the Secretary concludes is necessary to determine the laboratory's continued eligibility for its certificate or continued compliance with the Secretary's standards under subsection (f),
 
 (E) has refused a reasonable request of the Secretary, or any Federal officer or employee duly designated by the Secretary, for permission to inspect the laboratory and its operations and pertinent records during the hours the laboratory is in operation,
 
 (F) has violated or aided and abetted in the violation of any provisions of this section or of any regulation promulgated thereunder, or
 
-(G) has not complied with an intermediate sanction imposed under subsection (h) of this section.
+(G) has not complied with an intermediate sanction imposed under subsection (h).
 
 #### (2) Action before a hearing ####
 
 If the Secretary determines that—
 
-(A) the failure of a laboratory to comply with the standards of the Secretary under subsection (f) of this section presents an imminent and serious risk to human health, or
+(A) the failure of a laboratory to comply with the standards of the Secretary under subsection (f) presents an imminent and serious risk to human health, or
 
 (B) a laboratory has engaged in an action described in subparagraph (D) or (E) of paragraph (1),
 
@@ -304,7 +304,7 @@ No person who has owned or operated a laboratory which has had its certificate r
 
 #### (4) Improper referrals ####
 
-Any laboratory that the Secretary determines intentionally refers its proficiency testing samples to another laboratory for analysis may have its certificate revoked for at least one year and shall be subject to appropriate fines and penalties as provided for in subsection (h) of this section.
+Any laboratory that the Secretary determines intentionally refers its proficiency testing samples to another laboratory for analysis may have its certificate revoked for at least one year and shall be subject to appropriate fines and penalties as provided for in subsection (h).
 
 #### (j) Injunctions ####
 
@@ -314,7 +314,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 #### (1) Petition ####
 
-Any laboratory which has had an intermediate sanction imposed under subsection (h) of this section or has had its certificate suspended, revoked, or limited under subsection (i) of this section may, at any time within 60 days after the date the action of the Secretary under subsection (i) or (h) of this section becomes final, file a petition with the United States court of appeals for the circuit wherein the laboratory has its principal place of business for judicial review of such action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary for that purpose. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+Any laboratory which has had an intermediate sanction imposed under subsection (h) or has had its certificate suspended, revoked, or limited under subsection (i) may, at any time within 60 days after the date the action of the Secretary under subsection (i) or (h) becomes final, file a petition with the United States court of appeals for the circuit wherein the laboratory has its principal place of business for judicial review of such action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary for that purpose. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence ####
 
@@ -340,13 +340,13 @@ The Secretary shall require payment of fees for the issuance and renewal of cert
 
 #### (2) Additional fees ####
 
-The Secretary shall require the payment of fees for inspections of laboratories which are not accredited and for the cost of performing proficiency testing on laboratories which do not participate in proficiency testing programs approved under subsection (f)(3)(C) of this section.
+The Secretary shall require the payment of fees for inspections of laboratories which are not accredited and for the cost of performing proficiency testing on laboratories which do not participate in proficiency testing programs approved under subsection (f)(3)(C).
 
 #### (3) Criteria ####
 
 #### (A) Fees under paragraph (1) ####
 
-Fees imposed under paragraph (1) shall be sufficient to cover the general costs of administering this section, including evaluating and monitoring proficiency testing programs approved under subsection (f) of this section and accrediting bodies and implementing and monitoring compliance with the requirements of this section.
+Fees imposed under paragraph (1) shall be sufficient to cover the general costs of administering this section, including evaluating and monitoring proficiency testing programs approved under subsection (f) and accrediting bodies and implementing and monitoring compliance with the requirements of this section.
 
 #### (B) Fees under paragraph (2) ####
 
@@ -364,17 +364,17 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 (2) a list of laboratories—
 
-(A) which have had their certificates revoked, suspended, or limited under subsection (i) of this section, or
+(A) which have had their certificates revoked, suspended, or limited under subsection (i), or
 
-(B) which have been the subject of a sanction under subsection (l) of this section,
+(B) which have been the subject of a sanction under subsection (l),
 
 together with a statement of the reasons for the revocation, suspension, limitation, or sanction,
 
-(3) a list of laboratories subject to intermediate sanctions under subsection (h) of this section together with a statement of the reasons for the sanctions,
+(3) a list of laboratories subject to intermediate sanctions under subsection (h) together with a statement of the reasons for the sanctions,
 
 (4) a list of laboratories whose accreditation has been withdrawn or revoked together with a statement of the reasons for the withdrawal or revocation,
 
-(5) a list of laboratories against which the Secretary has taken action under subsection (j) of this section together with a statement of the reasons for such action, and
+(5) a list of laboratories against which the Secretary has taken action under subsection (j) together with a statement of the reasons for such action, and
 
 (6) a list of laboratories which have been excluded from participation under title XVIII or XIX of the Social Security Act [42 U.S.C. 1395 et seq., 1396 et seq.].
 

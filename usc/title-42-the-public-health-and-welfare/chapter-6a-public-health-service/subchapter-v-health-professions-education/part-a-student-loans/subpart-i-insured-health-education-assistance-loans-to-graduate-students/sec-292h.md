@@ -24,7 +24,7 @@ It shall be the purpose of the Office to achieve a reduction in the number and a
 
 #### (c) Additional duties ####
 
-In conjunction with the report submitted under subsection (b) of this section, the Office shall—
+In conjunction with the report submitted under subsection (b), the Office shall—
 
 (1) compile, and publish in the Federal Register, a list of the borrowers who are in default under this subpart; and
 

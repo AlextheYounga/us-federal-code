@@ -8,33 +8,33 @@ If any facility with respect to which funds have been paid under the Community M
 
 (2) ceases to be used by a community mental health center in the provision of comprehensive mental health services,
 
-the United States shall be entitled to recover from the transferor, transferee, or owner of the facility, the base amount prescribed by subsection (c)(1) of this section plus the interest (if any) prescribed by subsection (c)(2) of this section.
+the United States shall be entitled to recover from the transferor, transferee, or owner of the facility, the base amount prescribed by subsection (c)(1) plus the interest (if any) prescribed by subsection (c)(2).
 
 #### (b) Notice of sale, transfer, or change ####
 
-The transferor and transferee of a facility that is sold or transferred as described in subsection (a)(1) of this section, or the owner of a facility the use of which changes as described in subsection (a)(2) of this section, shall provide the Secretary written notice of such sale, transfer, or change within 10 days after the date on which such sale, transfer, or cessation of use occurs or within 30 days after October 22, 1985, whichever is later.
+The transferor and transferee of a facility that is sold or transferred as described in subsection (a)(1), or the owner of a facility the use of which changes as described in subsection (a)(2), shall provide the Secretary written notice of such sale, transfer, or change within 10 days after the date on which such sale, transfer, or cessation of use occurs or within 30 days after October 22, 1985, whichever is later.
 
 #### (c) Base amount; interest ####
 
-(1) The base amount that the United States is entitled to recover under subsection (a) of this section is the amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the remodeling, construction, expansion, or acquisition of the project or projects.
+(1) The base amount that the United States is entitled to recover under subsection (a) is the amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district in which the facility is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the remodeling, construction, expansion, or acquisition of the project or projects.
 
-(2)(A) The interest that the United States is entitled to recover under subsection (a) of this section is the interest for the period (if any) described in subparagraph (B) at a rate (determined by the Secretary) based on the average of the bond equivalent rates of ninety-one-day Treasury bills auctioned during that period.
+(2)(A) The interest that the United States is entitled to recover under subsection (a) is the interest for the period (if any) described in subparagraph (B) at a rate (determined by the Secretary) based on the average of the bond equivalent rates of ninety-one-day Treasury bills auctioned during that period.
 
 (B) The period referred to in subparagraph (A) is the period beginning—
 
-(i) if notice is provided as prescribed by subsection (b) of this section, 191 days after the date on which such sale, transfer, or cessation of use occurs, or
+(i) if notice is provided as prescribed by subsection (b), 191 days after the date on which such sale, transfer, or cessation of use occurs, or
 
-(ii) if notice is not provided as prescribed by subsection (b) of this section, 11 days after such sale, transfer, or cessation of use occurs,
+(ii) if notice is not provided as prescribed by subsection (b), 11 days after such sale, transfer, or cessation of use occurs,
 
 and ending on the date the amount the United States is entitled to recover is collected.
 
 #### (d) Waiver of recovery rights ####
 
-The Secretary may waive the recovery rights of the United States under subsection (a) of this section with respect to a facility (under such conditions as the Secretary may establish by regulation) if the Secretary determines that there is good cause for waiving such rights.
+The Secretary may waive the recovery rights of the United States under subsection (a) with respect to a facility (under such conditions as the Secretary may establish by regulation) if the Secretary determines that there is good cause for waiving such rights.
 
 #### (e) Pre-judgment lien ####
 
-The right of recovery of the United States under subsection (a) of this section shall not, prior to judgment, constitute a lien on any facility.
+The right of recovery of the United States under subsection (a) shall not, prior to judgment, constitute a lien on any facility.
 
 (July 1, 1944, ch. 373, title II, §243, formerly title V, §515, formerly Pub. L. 88–164, title II, §225, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 326; amended Pub. L. 95–622, title I, §110(c), Nov. 9, 1978, 92 Stat. 3420; renumbered title V, §515, and amended Pub. L. 97–35, title IX, §902(e)(2)(A), Aug. 13, 1981, 95 Stat. 560; renumbered title XXI, §2115, Pub. L. 98–24, §2(a)(1), Apr. 26, 1983, 97 Stat. 176; Pub. L. 99–129, title II, §226(a), Oct. 22, 1985, 99 Stat. 546; renumbered title XXIII, §2315, Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3755; renumbered title XXV, §2513, Pub. L. 100–607, title II, §201(1), (3), Nov. 4, 1988, 102 Stat. 3062, 3063; renumbered title XXVI, §2613, Pub. L. 100–690, title II, §2620(a), Nov. 18, 1988, 102 Stat. 4244; renumbered title XXVII, §2713, Pub. L. 101–381, title I, §101(1), (2), Aug. 18, 1990, 104 Stat. 576; Pub. L. 102–229, title II, §208, Dec. 12, 1991, 105 Stat. 1716; Pub. L. 102–239, §1, Dec. 17, 1991, 105 Stat. 1912; renumbered title II, §243, Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213.)
 

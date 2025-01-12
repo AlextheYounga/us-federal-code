@@ -18,7 +18,7 @@ The interoperable network of systems established under subsection (a) (referred 
 
 #### (c) Other assistance ####
 
-The Secretary may make grants and provide technical assistance to States and other public or nonprofit private entities for activities relating to the verification network developed under subsection (a) of this section.
+The Secretary may make grants and provide technical assistance to States and other public or nonprofit private entities for activities relating to the verification network developed under subsection (a).
 
 #### (d) Accessibility ####
 

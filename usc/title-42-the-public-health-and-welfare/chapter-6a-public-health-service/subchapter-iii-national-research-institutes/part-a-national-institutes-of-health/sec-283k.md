@@ -20,7 +20,7 @@ There is established a Scientific and Technical Review Board on Biomedical and B
 
 #### (B) Requirement ####
 
-The Director of NIH, acting through the Office of the Director of NIH, may approve an application for a grant under subsection (a) of this section only if the Board has under paragraph (2) recommended the application for approval.
+The Director of NIH, acting through the Office of the Director of NIH, may approve an application for a grant under subsection (a) only if the Board has under paragraph (2) recommended the application for approval.
 
 #### (2) Duties ####
 
@@ -30,7 +30,7 @@ The Board shall provide advice to the Director of NIH and the Council of Council
 
 #### (B) Determination of merit ####
 
-In carrying out subparagraph (A), the Board shall make a determination of the merit of each application submitted for a grant under subsection (a) of this section, after consideration of the requirements established in subsection (c) of this section, and shall report the results of the determination to the Director of NIH and the Council. Such determinations shall be conducted in a manner consistent with procedures established under section 289a of this title.
+In carrying out subparagraph (A), the Board shall make a determination of the merit of each application submitted for a grant under subsection (a), after consideration of the requirements established in subsection (c), and shall report the results of the determination to the Director of NIH and the Council. Such determinations shall be conducted in a manner consistent with procedures established under section 289a of this title.
 
 #### (C) Amount ####
 
@@ -42,7 +42,7 @@ In carrying out subparagraph (A), the Board shall prepare an annual report for t
 
 (i) summarize and analyze expenditures made under this section;
 
-(ii) provide a summary of the types, numbers, and amounts of applications that were recommended for grants under subsection (a) of this section but that were not approved by the Director of NIH; and
+(ii) provide a summary of the types, numbers, and amounts of applications that were recommended for grants under subsection (a) but that were not approved by the Director of NIH; and
 
 (iii) contain the recommendations of the Board for any changes in the administration of this section.
 
@@ -64,9 +64,9 @@ In selecting individuals for membership on the Board, the Director of NIH, actin
 
 (B) are knowledgeable in making determinations of the need of entities for biomedical or behavioral research facilities, including such facilities for the dentistry, nursing, pharmacy, and allied health professions;
 
-(C) are knowledgeable in evaluating the relative priorities for applications for grants under subsection (a) of this section in view of the overall research needs of the United States; and
+(C) are knowledgeable in evaluating the relative priorities for applications for grants under subsection (a) in view of the overall research needs of the United States; and
 
-(D) are experienced with emerging centers of excellence, as described in subsection (c)(2) of this section.
+(D) are experienced with emerging centers of excellence, as described in subsection (c)(2).
 
 #### (5) Certain authorities ####
 
@@ -100,7 +100,7 @@ Members of the Board who are not officers or employees of the United States shal
 
 #### (1) In general ####
 
-The Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, may make a grant under subsection (a) of this section only if the applicant for the grant meets the following conditions:
+The Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, may make a grant under subsection (a) only if the applicant for the grant meets the following conditions:
 
 (A) The applicant is determined by such Director to be competent to engage in the type of research for which the proposed facility is to be constructed.
 
@@ -128,7 +128,7 @@ The Director of NIH, acting through the Office of the Director of NIH or the Nat
 
 #### (2) Institutions of emerging excellence ####
 
-From the amount appropriated to carry out this section for a fiscal year up to $50,000,000, the Director of NIH, acting through the Office of the Director of NIH, shall make available 25 percent of such amount, and from the amount appropriated to carry out this section for a fiscal year that is over $50,000,000, the Director of NIH, acting through the Office of the Director of NIH, shall make available up to 25 percent of such amount, for grants under subsection (a) of this section to applicants that in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
+From the amount appropriated to carry out this section for a fiscal year up to $50,000,000, the Director of NIH, acting through the Office of the Director of NIH, shall make available 25 percent of such amount, and from the amount appropriated to carry out this section for a fiscal year that is over $50,000,000, the Director of NIH, acting through the Office of the Director of NIH, shall make available up to 25 percent of such amount, for grants under subsection (a) to applicants that in addition to meeting the requirements established in paragraph (1), have demonstrated emerging excellence in biomedical or behavioral research, as follows:
 
 (A) The applicant has a plan for research or training advancement and possesses the ability to carry out the plan.
 
@@ -146,13 +146,13 @@ From the amount appropriated to carry out this section for a fiscal year up to $
 
 #### (d) Requirement of application ####
 
-The Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, may make a grant under subsection (a) of this section only if an application for the grant is submitted to the Director and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Director determines to be necessary to carry out this section.
+The Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, may make a grant under subsection (a) only if an application for the grant is submitted to the Director and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Director determines to be necessary to carry out this section.
 
 #### (e) Amount of grant; payments ####
 
 #### (1) Amount ####
 
-The amount of any grant awarded under subsection (a) of this section shall be determined by the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,,<sup><a href="#283k_2_target" name="283k_2">2</a></sup> except that such amount shall not exceed—
+The amount of any grant awarded under subsection (a) shall be determined by the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,,<sup><a href="#283k_2_target" name="283k_2">2</a></sup> except that such amount shall not exceed—
 
 (A) 50 percent (or, in the case of the Institute, 75 percent) of the necessary cost of the construction of a proposed facility as determined by the Director; or
 
@@ -160,11 +160,11 @@ The amount of any grant awarded under subsection (a) of this section shall be de
 
 #### (2) Reservation of amounts ####
 
-On the approval of any application for a grant under subsection (a) of this section, the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, shall reserve, from any appropriation available for such grants, the amount of such grant, and shall pay such amount, in advance or by way of reimbursement, and in such installments consistent with the construction progress, as the Director may determine appropriate. The reservation of any amount by the Director under this paragraph may be amended by the Director, either on the approval of an amendment of the application or on the revision of the estimated cost of construction of the facility.
+On the approval of any application for a grant under subsection (a), the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, shall reserve, from any appropriation available for such grants, the amount of such grant, and shall pay such amount, in advance or by way of reimbursement, and in such installments consistent with the construction progress, as the Director may determine appropriate. The reservation of any amount by the Director under this paragraph may be amended by the Director, either on the approval of an amendment of the application or on the revision of the estimated cost of construction of the facility.
 
 #### (3) Exclusion of certain costs ####
 
-In determining the amount of any grant under subsection (a) of this section, there shall be excluded from the cost of construction an amount equal to the sum of—
+In determining the amount of any grant under subsection (a), there shall be excluded from the cost of construction an amount equal to the sum of—
 
 (A) the amount of any other Federal grant that the applicant has obtained, or is assured of obtaining, with respect to construction that is to be financed in part by a grant authorized under this section; and
 
@@ -172,11 +172,11 @@ In determining the amount of any grant under subsection (a) of this section, the
 
 #### (4) Waiver of limitations ####
 
-The limitations imposed under paragraph (1) may be waived at the discretion of the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, for applicants meeting the conditions described in subsection (c) of this section.
+The limitations imposed under paragraph (1) may be waived at the discretion of the Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases, for applicants meeting the conditions described in subsection (c).
 
 #### (f) Recapture of payments ####
 
-If, not later than 20 years after the completion of construction for which a grant has been awarded under subsection (a) of this section—
+If, not later than 20 years after the completion of construction for which a grant has been awarded under subsection (a)—
 
 (1) in the case of an award by the Director of NIH, acting through the Office of the Director of NIH, the applicant or other owner of the facility shall cease to be a public or non profit <sup><a href="#283k_3_target" name="283k_3">3</a></sup> private entity; or
 
@@ -186,7 +186,7 @@ the United States shall be entitled to recover from the applicant or other owner
 
 #### (g) Guidelines ####
 
-Not later than 6 months after June 10, 1993, the Director of NIH, acting through the Office of the Director of NIH, after consultation with the Council, shall issue guidelines with respect to grants under subsection (a) of this section.
+Not later than 6 months after June 10, 1993, the Director of NIH, acting through the Office of the Director of NIH, after consultation with the Council, shall issue guidelines with respect to grants under subsection (a).
 
 (July 1, 1944, ch. 373, title IV, §404I, formerly §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107 Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330; Pub. L. 108–276, §2(b), July 21, 2004, 118 Stat. 841; Pub. L. 109–482, title I, §§103(b)(40), 104(b)(1)(M), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §404I and amended Pub. L. 112–74, div. F, title II, §221(b)(1), Dec. 23, 2011, 125 Stat. 1087.)
 

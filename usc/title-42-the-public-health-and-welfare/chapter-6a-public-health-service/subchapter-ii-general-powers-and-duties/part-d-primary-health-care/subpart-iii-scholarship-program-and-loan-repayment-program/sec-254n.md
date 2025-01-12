@@ -10,7 +10,7 @@ The Secretary shall, to the extent permitted by, and consistent with, the requir
 
 #### (b) Written agreement; actions to ensure compliance ####
 
-(1) The written agreement described in subsection (a) of this section shall—
+(1) The written agreement described in subsection (a) shall—
 
 (A) provide that, during the period of private practice by an individual pursuant to the agreement, the individual shall comply with the requirements of section 254g of this title that apply to entities; and
 
@@ -20,15 +20,15 @@ The Secretary shall, to the extent permitted by, and consistent with, the requir
 
 #### (c) Breach of service contract ####
 
-If an individual breaches the contract entered into under section 254l or 254l–1 of this title by failing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) of this section or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
+If an individual breaches the contract entered into under section 254l or 254l–1 of this title by failing (for any reason) to begin his service obligation in accordance with an agreement entered into under subsection (a) or to complete such service obligation, the Secretary may permit such individual to perform such service obligation as a member of the Corps.
 
 #### (d) Travel expenses ####
 
-The Secretary may pay an individual who has entered into an agreement with the Secretary under subsection (a) of this section an amount to cover all or part of the individual's expenses reasonably incurred in transporting himself, his family, and his possessions to the location of his private clinical practice.
+The Secretary may pay an individual who has entered into an agreement with the Secretary under subsection (a) an amount to cover all or part of the individual's expenses reasonably incurred in transporting himself, his family, and his possessions to the location of his private clinical practice.
 
 #### (e) Sale of equipment and supplies ####
 
-Upon the expiration of the written agreement under subsection (a) of this section, the Secretary may (notwithstanding any other provision of law) sell to the individual who has entered into an agreement with the Secretary under subsection (a) of this section, equipment and other property of the United States utilized by such individual in providing health services. Sales made under this subsection shall be made at the fair market value (as determined by the Secretary) of the equipment or such other property, except that the Secretary may make such sales for a lesser value to the individual if he determines that the individual is financially unable to pay the full market value.
+Upon the expiration of the written agreement under subsection (a), the Secretary may (notwithstanding any other provision of law) sell to the individual who has entered into an agreement with the Secretary under subsection (a), equipment and other property of the United States utilized by such individual in providing health services. Sales made under this subsection shall be made at the fair market value (as determined by the Secretary) of the equipment or such other property, except that the Secretary may make such sales for a lesser value to the individual if he determines that the individual is financially unable to pay the full market value.
 
 #### (f) Malpractice insurance ####
 

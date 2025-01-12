@@ -2,7 +2,7 @@
 
 #### (a) Establishment; acceptance of conditional gifts; functions ####
 
-(1) Except as provided in subsection (h) of this section, the Secretary shall appoint an advisory council for each national research institute which (A) shall advise, assist, consult with, and make recommendations to the Secretary and the Director of such institute on matters related to the activities carried out by and through the institute and the policies respecting such activities, and (B) shall carry out the special functions prescribed by part C of this subchapter.
+(1) Except as provided in subsection (h), the Secretary shall appoint an advisory council for each national research institute which (A) shall advise, assist, consult with, and make recommendations to the Secretary and the Director of such institute on matters related to the activities carried out by and through the institute and the policies respecting such activities, and (B) shall carry out the special functions prescribed by part C.
 
 (2) Each advisory council for a national research institute may recommend to the Secretary acceptance, in accordance with section 238 of this title, of conditional gifts for study, investigation, or research respecting the diseases, disorders, or other aspect of human health with respect to which the institute was established, for the acquisition of grounds, or for the construction, equipping, or maintenance of facilities for the institute.
 

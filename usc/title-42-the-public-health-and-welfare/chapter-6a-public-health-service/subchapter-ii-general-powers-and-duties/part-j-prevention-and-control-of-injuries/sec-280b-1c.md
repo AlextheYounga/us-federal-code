@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Certain activities ####
 
-Activities under subsection (a) of this section may include—
+Activities under subsection (a) may include—
 
 (1) the conduct of research into identifying effective strategies for the prevention of traumatic brain injury;
 

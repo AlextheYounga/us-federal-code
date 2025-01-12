@@ -8,7 +8,7 @@ The Secretary shall establish a program, including a uniform health professions 
 
 #### (1) Sources of information ####
 
-In carrying out subsection (a) of this section, the Secretary shall collect available information from appropriate local, State, and Federal agencies and other appropriate sources.
+In carrying out subsection (a), the Secretary shall collect available information from appropriate local, State, and Federal agencies and other appropriate sources.
 
 #### (2) Contracts for studies of health professions ####
 
@@ -16,13 +16,13 @@ The Secretary shall conduct or enter into contracts for the conduct of analytic 
 
 #### (3) Grants and contracts regarding States ####
 
-The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in any State) for the purpose of participating in the program established under subsection (a) of this section. The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
+The Secretary is authorized to make grants and to enter into contracts with States (or an appropriate nonprofit private entity in any State) for the purpose of participating in the program established under subsection (a). The Secretary shall determine the amount and scope of any such grant or contract. To be eligible for a grant or contract under this paragraph a State or entity shall submit an application in such form and manner and containing such information as the Secretary shall require. Such application shall include reasonable assurance, satisfactory to the Secretary, that—
 
-(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a) of this section who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
+(A) such State (or nonprofit entity within a State) will establish a program of mandatory annual registration of the health professions personnel described in subsection (a) who reside or practice in such State and of health institutions licensed by such State, which registration shall include such information as the Secretary shall determine to be appropriate;
 
 (B) such State or entity shall collect such information and report it to the Secretary in such form and manner as the Secretary shall prescribe; and
 
-(C) such State or entity shall comply with the requirements of subsection (e) of this section.
+(C) such State or entity shall comply with the requirements of subsection (e).
 
 #### (d) <sup><a href="#295k_1_target" name="295k_1">1</a></sup> Reports to Congress ####
 
@@ -68,11 +68,11 @@ The Secretary shall provide technical assistance to the States and political sub
 
 #### (1) In general ####
 
-In carrying out subsection (a) of this section, the Secretary may make grants, or enter into contracts and cooperative agreements with, and provide technical assistance to, any nonprofit entity in order to establish a uniform allied health professions data reporting system to collect, compile, and analyze data on the allied health professions personnel.
+In carrying out subsection (a), the Secretary may make grants, or enter into contracts and cooperative agreements with, and provide technical assistance to, any nonprofit entity in order to establish a uniform allied health professions data reporting system to collect, compile, and analyze data on the allied health professions personnel.
 
 #### (2) Reports ####
 
-With respect to reports required in subsection (d) of this section, each such report made on or after October 1, 1991, shall include a description and analysis of data collected pursuant to paragraph (1).
+With respect to reports required in subsection (d), each such report made on or after October 1, 1991, shall include a description and analysis of data collected pursuant to paragraph (1).
 
 (July 1, 1944, ch. 373, title VII, §792, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2058; amended Pub. L. 105–392, title I, §106(b), Nov. 13, 1998, 112 Stat. 3559.)
 

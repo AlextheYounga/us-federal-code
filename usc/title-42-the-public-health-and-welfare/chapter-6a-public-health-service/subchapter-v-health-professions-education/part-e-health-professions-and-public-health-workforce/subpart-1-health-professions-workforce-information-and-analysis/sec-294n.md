@@ -100,7 +100,7 @@ Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary
 
 #### (3) Availability of additional funds ####
 
-Amounts otherwise appropriated for programs or activities under this subchapter may be used for activities under subsection (b) of this section with respect to the programs or activities from which such amounts were made available.
+Amounts otherwise appropriated for programs or activities under this subchapter may be used for activities under subsection (b) with respect to the programs or activities from which such amounts were made available.
 
 (July 1, 1944, ch. 373, title VII, §761, as added Pub. L. 105–392, title I, §104(a), Nov. 13, 1998, 112 Stat. 3552; amended Pub. L. 111–148, title V, §5103(a), Mar. 23, 2010, 124 Stat. 603.)
 

@@ -10,7 +10,7 @@ The mission statement of the United States Preventive Services Task Force is ame
 
 #### (c) Report ####
 
-Not later than 1 year after December 21, 2000, and annually thereafter, the Secretary of Health and Human Services shall submit to Congress a report on the conclusions of the studies conducted under subsection (a) of this section, together with recommendations for such legislation and administrative actions as the Secretary considers appropriate.
+Not later than 1 year after December 21, 2000, and annually thereafter, the Secretary of Health and Human Services shall submit to Congress a report on the conclusions of the studies conducted under subsection (a), together with recommendations for such legislation and administrative actions as the Secretary considers appropriate.
 
 (Pub. L. 106–554, §1(a)(6) [title I, §126], Dec. 21, 2000, 114 Stat. 2763, 2763A–479.)
 

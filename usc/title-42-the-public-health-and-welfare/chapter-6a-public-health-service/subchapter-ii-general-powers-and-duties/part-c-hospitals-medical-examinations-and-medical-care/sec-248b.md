@@ -10,7 +10,7 @@ Not later than July 1, 1981, the Secretary shall notify each Service hospital an
 
 #### (c) Evaluation of proposals ####
 
-The Secretary shall evaluate promptly each proposal submitted under subsection (b) of this section with respect to a hospital or other station and determine, not later than September 30, 1981, whether or not under such proposal the hospital or station—
+The Secretary shall evaluate promptly each proposal submitted under subsection (b) with respect to a hospital or other station and determine, not later than September 30, 1981, whether or not under such proposal the hospital or station—
 
 (1) will be maintained as a general health care facility providing a range of services to the population within its service area,
 
@@ -22,9 +22,9 @@ Paragraph (1) shall not apply in the case of a proposal for the transfer of a di
 
 #### (d) Rejection or approval of proposal ####
 
-(1) If the Secretary determines that a proposal for a hospital or other station does not meet the standards of subsection (c) of this section or if there is no proposal submitted under subsection (b) of this section with respect to a hospital or other station, the Secretary shall provide for the closure of the hospital or station by not later than October 31, 1981.
+(1) If the Secretary determines that a proposal for a hospital or other station does not meet the standards of subsection (c) or if there is no proposal submitted under subsection (b) with respect to a hospital or other station, the Secretary shall provide for the closure of the hospital or station by not later than October 31, 1981.
 
-(2) If the Secretary determines that a proposal for a hospital or other station meets the standards of subsection (c) of this section, the Secretary shall take such steps, within the amounts available through appropriations, as may be necessary and proper—
+(2) If the Secretary determines that a proposal for a hospital or other station meets the standards of subsection (c), the Secretary shall take such steps, within the amounts available through appropriations, as may be necessary and proper—
 
 (A) to operate (or participate or assist in the operation of) the hospital or station by the Service until the transfer is accomplished or financial self-sufficiency is achieved,
 

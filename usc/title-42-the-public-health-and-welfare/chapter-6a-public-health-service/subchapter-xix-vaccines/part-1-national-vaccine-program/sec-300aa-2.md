@@ -38,7 +38,7 @@ The Director of the Program shall, through the plan issued under section 300aa�
 
 The Director of the Program shall make available to Federal agencies involved in the implementation of the plan issued under section 300aa–3 of this title funds appropriated under section 300aa–6 of this title to supplement the funds otherwise available to such agencies for activities under the plan.
 
-(b) In carrying out subsection (a) of this section and in preparing the plan under section 300aa–3 of this title, the Director shall consult with all Federal agencies involved in research on and development, testing, licensing, production, procurement, distribution, and use of vaccines.
+(b) In carrying out subsection (a) and in preparing the plan under section 300aa–3 of this title, the Director shall consult with all Federal agencies involved in research on and development, testing, licensing, production, procurement, distribution, and use of vaccines.
 
 (July 1, 1944, ch. 373, title XXI, §2102, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756; amended Pub. L. 102–531, title III, §312(d)(13), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 108–173, title IX, §900(e)(2)(F), Dec. 8, 2003, 117 Stat. 2372.)
 

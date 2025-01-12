@@ -46,11 +46,11 @@ The Council shall be composed of—
 
 #### (1) In general; staggered rotation ####
 
-Members of the Council appointed under paragraphs (4), (5), and (6) of subsection (b) of this section shall be appointed for a term of 4 years, except that the term of office of the members first appointed shall expire, as designated by the Secretary at the time of appointment, 4 at the end of 1 year, 4 at the end of 2 years, 3 at the end of 3 years, and 3 at the end of 4 years.
+Members of the Council appointed under paragraphs (4), (5), and (6) of subsection (b) shall be appointed for a term of 4 years, except that the term of office of the members first appointed shall expire, as designated by the Secretary at the time of appointment, 4 at the end of 1 year, 4 at the end of 2 years, 3 at the end of 3 years, and 3 at the end of 4 years.
 
 #### (2) Date certain for appointment ####
 
-The Secretary shall appoint the first members to the Council under paragraphs (4), (5), and (6) of subsection (b) of this section within 60 days after October 13, 1992.
+The Secretary shall appoint the first members to the Council under paragraphs (4), (5), and (6) of subsection (b) within 60 days after October 13, 1992.
 
 #### (d) Chair ####
 
@@ -84,11 +84,11 @@ The Council shall coordinate its activities with the activities of the Secretary
 
 #### (i) Requirement regarding reports ####
 
-In the reports required under subsection (a) of this section, the Council shall specify its activities during the period for which the report is made.
+In the reports required under subsection (a), the Council shall specify its activities during the period for which the report is made.
 
 #### (j) Final report ####
 
-Not later than April 1, 2002, the Council shall submit a final report under subsection (a) of this section.
+Not later than April 1, 2002, the Council shall submit a final report under subsection (a).
 
 #### (k) Termination ####
 

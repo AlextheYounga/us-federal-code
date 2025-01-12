@@ -6,15 +6,15 @@ The Secretary may make grants to States, and in consultation with State health a
 
 #### (b) Application ####
 
-No grant may be made under subsection (a) of this section unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
+No grant may be made under section (a) <sup><a href="#247b_1_target" name="247b_1">1</a></sup> unless an application therefor has been submitted to, and approved by, the Secretary. Such an application shall be in such form and be submitted in such manner as the Secretary shall by regulation prescribe and shall provide—
 
-(1) a complete description of the type and extent of the program for which the applicant is seeking a grant under subsection (a) of this section;
+(1) a complete description of the type and extent of the program for which the applicant is seeking a grant under subsection (a);
 
 (2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
-(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) of this section will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup><a href="#247b_1_target" name="247b_1">1</a></sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup><a href="#247b_1_target" name="247b_1">1</a></sup> of this title;
+(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) <sup><a href="#247b_1_target" name="247b_1">1</a></sup> of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 <sup><a href="#247b_1_target" name="247b_1">1</a></sup> of this title;
 
-(4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a) of this section;
+(4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a);
 
 (5) assurances satisfactory to the Secretary that the applicant will provide for periodic evaluation of its program or programs;
 
@@ -26,7 +26,7 @@ No grant may be made under subsection (a) of this section unless an application 
 
 #### (c) Approval; annual project review ####
 
-(1) The Secretary shall not approve an application submitted under subsection (b) of this section for a grant for a program for which a grant was previously made under subsection (a) of this section unless the Secretary determines—
+(1) The Secretary shall not approve an application submitted under subsection (b) for a grant for a program for which a grant was previously made under subsection (a) unless the Secretary determines—
 
 (A) the program for which the application was submitted is operating effectively to achieve its stated purpose,
 
@@ -34,37 +34,37 @@ No grant may be made under subsection (a) of this section unless an application 
 
 (C) the applicant will comply with the assurances provided with the application.
 
-(2) The Secretary shall review annually the activities undertaken by each recipient of a grant under subsection (a) of this section to determine if the program assisted by such grant is operating effectively to achieve its stated purposes and if the recipient is in compliance with the assurances provided the Secretary when applying for such grant.
+(2) The Secretary shall review annually the activities undertaken by each recipient of a grant under subsection (a) to determine if the program assisted by such grant is operating effectively to achieve its stated purposes and if the recipient is in compliance with the assurances provided the Secretary when applying for such grant.
 
 #### (d) Amount of grant; payment ####
 
-The amount of a grant under subsection (a) of this section shall be determined by the Secretary. Payments under such grants may be made in advance on the basis of estimates or by the way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
+The amount of a grant under subsection (a) shall be determined by the Secretary. Payments under such grants may be made in advance on the basis of estimates or by the way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants.
 
 #### (e) Reduction ####
 
-The Secretary, at the request of a recipient of a grant under subsection (a) of this section, may reduce the amount of such grant by—
+The Secretary, at the request of a recipient of a grant under subsection (a), may reduce the amount of such grant by—
 
 (1) the fair market value of any supplies (including vaccines and other preventive agents) or equipment furnished the grant recipient, and
 
 (2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee,
 
-when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (f) Recordkeeping; audit authority ####
 
-(1) Each recipient of a grant under subsection (a) of this section shall keep such records as the Secretary shall by regulation prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of a grant under subsection (a) shall keep such records as the Secretary shall by regulation prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the undertaking in connection with which such grant was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
-(2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of grants under subsection (a) of this section that are pertinent to such grants.
+(2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of grants under subsection (a) that are pertinent to such grants.
 
 #### (g) Use of grant funds; mandatory treatment prohibited ####
 
-(1) Nothing in this section shall limit or otherwise restrict the use of funds which are granted to a State or to an agency or a political subdivision of a State under provisions of Federal law (other than this section) and which are available for the conduct of preventive health service programs from being used in connection with programs assisted through grants under subsection (a) of this section.
+(1) Nothing in this section shall limit or otherwise restrict the use of funds which are granted to a State or to an agency or a political subdivision of a State under provisions of Federal law (other than this section) and which are available for the conduct of preventive health service programs from being used in connection with programs assisted through grants under subsection (a).
 
 (2) Nothing in this section shall be construed to require any State or any agency or political subdivision of a State to have a preventive health service program which would require any person, who objects to any treatment provided under such a program, to be treated or to have any child or ward treated under such program.
 
 #### (h) Reports ####
 
-The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented by the diseases and conditions referred to in subsection (j) of this section; on the amount of funds obligated under grants under subsection (a) of this section in the preceding fiscal year for each of the programs listed in subsection (j) of this section; and on the effectiveness of the activities assisted under grants under subsection (a) of this section in controlling such diseases and conditions.
+The Secretary shall include, as part of the report required by section 300u–4 of this title, a report on the extent of the problems presented by the diseases and conditions referred to in subsection (j); on the amount of funds obligated under grants under subsection (a) in the preceding fiscal year for each of the programs listed in subsection (j); and on the effectiveness of the activities assisted under grants under subsection (a) in controlling such diseases and conditions.
 
 #### (i) Technical assistance ####
 
@@ -72,9 +72,9 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (j) Authorization of appropriations ####
 
-(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) of this section for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) of this section for such fiscal year.
+(1) Except for grants for immunization programs the authorization of appropriations for which are established in paragraph (2), for grants under subsections (a) and (k)(1) for preventive health service programs to immunize without charge children, adolescents, and adults against vaccine-preventable diseases, there are authorized to be appropriated such sums as may be necessary. Not more than 10 percent of the total amount appropriated under the preceding sentence for any fiscal year shall be available for grants under subsection (k)(1) for such fiscal year.
 
-(2) For grants under subsection (a) of this section for preventive health service programs for the provision without charge of immunizations with vaccines approved for use, and recommended for routine use, there are authorized to be appropriated such sums as may be necessary.
+(2) For grants under subsection (a) for preventive health service programs for the provision without charge of immunizations with vaccines approved for use, and recommended for routine use, there are authorized to be appropriated such sums as may be necessary.
 
 #### (k) Additional grants to States, political subdivisions, and other public and nonprofit private entities ####
 
@@ -317,5 +317,7 @@ Pub. L. 94–420, §3, Sept. 23, 1976, 90 Stat. 1301, provided that, in order to
 #### Study by Secretary of Scope and Extent of Liability Arising Out of Immunization Program; Alternative Protective Approaches; Report to Congress ####
 
 Pub. L. 94–380, §3, Aug. 12, 1976, 90 Stat. 1118, directed Secretary to conduct a study of liability for personal injuries or death arising out of immunization programs and of alternative approaches to provide protection against such liability and report to Congress on findings of such study by Aug. 12, 1977.
+
+[<sup>1</sup> So in original. Probably should be "subsection (a)".](#247b_1)
 
 [<sup>1</sup> See References in Text note below.](#247b_1)

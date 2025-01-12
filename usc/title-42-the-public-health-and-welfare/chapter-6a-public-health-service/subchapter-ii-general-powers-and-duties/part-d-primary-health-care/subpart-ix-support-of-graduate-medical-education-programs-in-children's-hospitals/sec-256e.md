@@ -12,21 +12,21 @@ Subject to paragraphs (2) and (3), the amounts payable under this section to a c
 
 #### (A) Direct expense amount ####
 
-The amount determined under subsection (c) of this section for direct expenses associated with operating approved graduate medical residency training programs.
+The amount determined under subsection (c) for direct expenses associated with operating approved graduate medical residency training programs.
 
 #### (B) Indirect expense amount ####
 
-The amount determined under subsection (d) of this section for indirect expenses associated with the treatment of more severely ill patients and the additional costs relating to teaching residents in such programs.
+The amount determined under subsection (d) for indirect expenses associated with the treatment of more severely ill patients and the additional costs relating to teaching residents in such programs.
 
 #### (2) Capped amount ####
 
 #### (A) In general ####
 
-The total of the payments made to children's hospitals under paragraph (1)(A) or paragraph (1)(B) in a fiscal year shall not exceed the funds appropriated under paragraph (1) or (2), respectively, of subsection (f) of this section for such payments for that fiscal year.
+The total of the payments made to children's hospitals under paragraph (1)(A) or paragraph (1)(B) in a fiscal year shall not exceed the funds appropriated under paragraph (1) or (2), respectively, of subsection (f) for such payments for that fiscal year.
 
 #### (B) Pro rata reductions of payments for direct expenses ####
 
-If the Secretary determines that the amount of funds appropriated under subsection (f)(1) of this section for a fiscal year is insufficient to provide the total amount of payments otherwise due for such periods under paragraph (1)(A), the Secretary shall reduce the amounts so payable on a pro rata basis to reflect such shortfall.
+If the Secretary determines that the amount of funds appropriated under subsection (f)(1) for a fiscal year is insufficient to provide the total amount of payments otherwise due for such periods under paragraph (1)(A), the Secretary shall reduce the amounts so payable on a pro rata basis to reflect such shortfall.
 
 #### (3) Annual reporting required ####
 
@@ -142,7 +142,7 @@ In determining the amount under paragraph (1), the Secretary shall—
 
 (A) take into account variations in case mix among children's hospitals and the ratio of the number of full-time equivalent residents in the hospitals' approved graduate medical residency training programs to beds (but excluding beds or bassinets assigned to healthy newborn infants); and
 
-(B) assure that the aggregate of the payments for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents under this section in a fiscal year are equal to the amount appropriated for such expenses for the fiscal year involved under subsection (f)(2) of this section.
+(B) assure that the aggregate of the payments for indirect expenses associated with the treatment of more severely ill patients and the additional costs related to the teaching of residents under this section in a fiscal year are equal to the amount appropriated for such expenses for the fiscal year involved under subsection (f)(2).
 
 #### (e) Making of payments ####
 
@@ -164,7 +164,7 @@ Prior to the end of each fiscal year, the Secretary shall determine any changes 
 
 #### (A) In general ####
 
-There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(A) of this section—
+There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(A)—
 
 (i) for fiscal year 2000, $90,000,000;
 
@@ -182,7 +182,7 @@ The amounts appropriated under subparagraph (A) for fiscal year 2000 shall remai
 
 #### (2) Indirect medical education ####
 
-There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(B) of this section—
+There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for payments under subsection (b)(1)(B)—
 
 (A) for fiscal year 2000, $190,000,000;
 

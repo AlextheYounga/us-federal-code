@@ -6,7 +6,7 @@ The Secretary shall by contract establish and maintain a scientific database of 
 
 #### (b) Information ####
 
-The outcomes database shall include information in a standardized electronic format with respect to patients described in subsection (a) of this section, diagnosis, transplant procedures, results, long-term follow-up, and such other information as the Secretary determines to be appropriate, to conduct an ongoing evaluation of the scientific and clinical status of transplantation involving recipients of a stem cell therapeutics product from a donor.
+The outcomes database shall include information in a standardized electronic format with respect to patients described in subsection (a), diagnosis, transplant procedures, results, long-term follow-up, and such other information as the Secretary determines to be appropriate, to conduct an ongoing evaluation of the scientific and clinical status of transplantation involving recipients of a stem cell therapeutics product from a donor.
 
 #### (c) Annual report on patient outcomes ####
 

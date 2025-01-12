@@ -26,7 +26,7 @@ A State or political subdivision of a State shall use amount received under a gr
 
 #### (d) Technical assistance ####
 
-The Secretary may set-aside an amount not to exceed 10 percent of the amount appropriated for a fiscal year under subsection (h) of this section to permit the Director of the Centers for Disease Control and Prevention to—
+The Secretary may set-aside an amount not to exceed 10 percent of the amount appropriated for a fiscal year under subsection (h) to permit the Director of the Centers for Disease Control and Prevention to—
 
 (1) provide States and political subdivisions of States with technical support in the development and implementation of programs under this section; and
 
@@ -34,11 +34,11 @@ The Secretary may set-aside an amount not to exceed 10 percent of the amount app
 
 #### (e) Limitation on administrative costs ####
 
-Not to exceed 10 percent of the amount of a grant awarded to the State or political subdivision under subsection (a) of this section for a fiscal year may be used by the State or political subdivision for administrative expenses.
+Not to exceed 10 percent of the amount of a grant awarded to the State or political subdivision under subsection (a) for a fiscal year may be used by the State or political subdivision for administrative expenses.
 
 #### (f) Term ####
 
-A grant awarded under subsection (a) of this section shall be for a term of 3 years.
+A grant awarded under subsection (a) shall be for a term of 3 years.
 
 #### (g) Definition ####
 

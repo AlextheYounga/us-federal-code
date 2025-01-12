@@ -6,11 +6,11 @@ As used in this section:
 
 #### (1) Accreditation body ####
 
-The term "accreditation body" means a body that has been approved by the Secretary under subsection (e)(1)(A) of this section to accredit mammography facilities.
+The term "accreditation body" means a body that has been approved by the Secretary under subsection (e)(1)(A) to accredit mammography facilities.
 
 #### (2) Certificate ####
 
-The term "certificate" means the certificate described in subsection (b)(1) of this section.
+The term "certificate" means the certificate described in subsection (b)(1).
 
 #### (3) Facility ####
 
@@ -20,7 +20,7 @@ The term "facility" means a hospital, outpatient department, clinic, radiology p
 
 #### (B) Activities ####
 
-For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewing conditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram are performed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f) of this section.
+For the purposes of this section, the activities of a facility include the operation of equipment to produce the mammogram, the processing of the film, the initial interpretation of the mammogram and the viewing conditions for that interpretation. Where procedures such as the film processing, or the interpretation of the mammogram are performed in a location different from where the mammogram is performed, the facility performing the mammogram shall be responsible for meeting the quality standards described in subsection (f).
 
 #### (4) Inspection ####
 
@@ -36,11 +36,11 @@ The term "mammography" means radiography of the breast.
 
 #### (7) Survey ####
 
-The term "survey" means an onsite physics consultation and evaluation performed by a medical physicist as described in subsection (f)(1)(E) of this section.
+The term "survey" means an onsite physics consultation and evaluation performed by a medical physicist as described in subsection (f)(1)(E).
 
 #### (8) Review physician ####
 
-The term "review physician" means a physician as prescribed by the Secretary under subsection (f)(1)(D) of this section who meets such additional requirements as may be established by an accreditation body under subsection (e) of this section and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) of this section on behalf of the accreditation body.
+The term "review physician" means a physician as prescribed by the Secretary under subsection (f)(1)(D) who meets such additional requirements as may be established by an accreditation body under subsection (e) and approved by the Secretary to review clinical images under subsection (e)(1)(B)(i) on behalf of the accreditation body.
 
 #### (b) Certificate requirement ####
 
@@ -50,7 +50,7 @@ No facility may conduct an examination or procedure described in paragraph (2) i
 
 (A) a certificate or a temporary renewal certificate—
 
-(i) that is issued, and, if applicable, renewed, by the Secretary in accordance with paragraphs <sup><a href="#263b_1_target" name="263b_1">1</a></sup> (1) or (2) of subsection (c) of this section;
+(i) that is issued, and, if applicable, renewed, by the Secretary in accordance with paragraphs <sup><a href="#263b_1_target" name="263b_1">1</a></sup> (1) or (2) of subsection (c);
 
 (ii) that is applicable to the examination or procedure to be conducted; and
 
@@ -58,7 +58,7 @@ No facility may conduct an examination or procedure described in paragraph (2) i
 
 (B) a provisional certificate or a limited provisional certificate—
 
-(i) that is issued by the Secretary in accordance with paragraphs (3) and (4) of subsection (c) of this section;
+(i) that is issued by the Secretary in accordance with paragraphs (3) and (4) of subsection (c);
 
 (ii) that is applicable to the examination or procedure to be conducted; and
 
@@ -80,7 +80,7 @@ A facility shall obtain a certificate in order to—
 
 #### (1) In general ####
 
-The Secretary may issue or renew a certificate for a facility if the person or agent described in subsection (d)(1)(A) of this section meets the applicable requirements of subsection (d)(1) of this section with respect to the facility. The Secretary may issue or renew a certificate under this paragraph for not more than 3 years.
+The Secretary may issue or renew a certificate for a facility if the person or agent described in subsection (d)(1)(A) meets the applicable requirements of subsection (d)(1) with respect to the facility. The Secretary may issue or renew a certificate under this paragraph for not more than 3 years.
 
 #### (2) Temporary renewal certificate ####
 
@@ -96,7 +96,7 @@ The Secretary may, upon the request of an accreditation body, issue a limited pr
 
 #### (4) Provisional certificate ####
 
-The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1) of this section, except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A) of this section. A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1) of this section.
+The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1), except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A). A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1).
 
 #### (d) Application for certificate ####
 
@@ -116,17 +116,17 @@ The Secretary may issue or renew a certificate for a facility if—
 
 (III) the names and qualifications (educational background, training, and experience) of the personnel performing mammography and the physicians reading and interpreting the results from the procedures;
 
-(iii) proof of on-site survey by a qualified medical physicist as described in subsection (f)(1)(E) of this section; and
+(iii) proof of on-site survey by a qualified medical physicist as described in subsection (f)(1)(E); and
 
 (iv) proof of accreditation in such manner as the Secretary shall prescribe; and
 
 (B) the person or agent submits to the Secretary—
 
-(i) a satisfactory assurance that the facility will be operated in accordance with standards established by the Secretary under subsection (f) of this section to assure the safety and accuracy of mammography;
+(i) a satisfactory assurance that the facility will be operated in accordance with standards established by the Secretary under subsection (f) to assure the safety and accuracy of mammography;
 
 (ii) a satisfactory assurance that the facility will—
 
-(I) permit inspections under subsection (g) of this section;
+(I) permit inspections under subsection (g);
 
 (II) make such records and information available, and submit such reports, to the Secretary as the Secretary may require; and
 
@@ -154,7 +154,7 @@ If the application for the certification of a facility is denied, the facility m
 
 #### (A) In general ####
 
-The Secretary may approve a private nonprofit organization or State agency to accredit facilities for purposes of subsection (d)(1)(A)(iv) of this section if the accreditation body meets the standards for accreditation established by the Secretary as described in subparagraph (B) and provides the assurances required by subparagraph (C).
+The Secretary may approve a private nonprofit organization or State agency to accredit facilities for purposes of subsection (d)(1)(A)(iv) if the accreditation body meets the standards for accreditation established by the Secretary as described in subparagraph (B) and provides the assurances required by subparagraph (C).
 
 #### (B) Standards ####
 
@@ -170,11 +170,11 @@ The Secretary shall establish standards for accreditation bodies, including—
 
 (iii) standards that limit the imposition of fees for accreditation to reasonable amounts;
 
-(iv) standards that require as a condition of accreditation that each facility undergo a survey at least annually by a medical physicist as described in subsection (f)(1)(E) of this section to ensure that the facility meets the standards described in subparagraphs (A) and (B) of subsection (f)(1) of this section;
+(iv) standards that require as a condition of accreditation that each facility undergo a survey at least annually by a medical physicist as described in subsection (f)(1)(E) to ensure that the facility meets the standards described in subparagraphs (A) and (B) of subsection (f)(1);
 
 (v) standards that require monitoring and evaluation of such survey, as prescribed by the Secretary;
 
-(vi) standards that are equal to standards established under subsection (f) of this section which are relevant to accreditation as determined by the Secretary; and
+(vi) standards that are equal to standards established under subsection (f) which are relevant to accreditation as determined by the Secretary; and
 
 (vii) such additional standards as the Secretary may require.
 
@@ -236,7 +236,7 @@ If an accreditation body revokes the accreditation of a facility, the certificat
 
 The Secretary shall evaluate annually the performance of each approved accreditation body by—
 
-(i) inspecting under subsection (g)(2) of this section a sufficient number of the facilities accredited by the body to allow a reasonable estimate of the performance of the body; and
+(i) inspecting under subsection (g)(2) a sufficient number of the facilities accredited by the body to allow a reasonable estimate of the performance of the body; and
 
 (ii) such additional means as the Secretary determines to be appropriate.
 
@@ -248,7 +248,7 @@ The Secretary shall annually prepare and submit to the Committee on Labor and Hu
 
 #### (1) In general ####
 
-The standards referred to in subsection (d)(1)(B)(i) of this section are standards established by the Secretary which include—
+The standards referred to in subsection (d)(1)(B)(i) are standards established by the Secretary which include—
 
 (A) standards that require establishment and maintenance of a quality assurance and quality control program at each facility that is adequate and appropriate to ensure the reliability, clarity, and accuracy of interpretation of mammograms and standards for appropriate radiation dose;
 
@@ -320,7 +320,7 @@ The Secretary shall by regulation—
 
 #### (A) In general ####
 
-The Secretary may enter and inspect facilities to determine compliance with the certification requirements under subsection (b) of this section and the standards established under subsection (f) of this section. The Secretary shall, if feasible, delegate to a State or local agency the authority to make such inspections.
+The Secretary may enter and inspect facilities to determine compliance with the certification requirements under subsection (b) and the standards established under subsection (f). The Secretary shall, if feasible, delegate to a State or local agency the authority to make such inspections.
 
 #### (B) Identification ####
 
@@ -336,7 +336,7 @@ In conducting inspections, the Secretary or State or local agency acting on beha
 
 #### (D) Qualifications of inspectors ####
 
-Qualified individuals, as determined by the Secretary, shall conduct all inspections. The Secretary may request that a State or local agency acting on behalf of the Secretary designate a qualified officer or employee to conduct the inspections, or designate a qualified Federal officer or employee to conduct inspections. The Secretary shall establish minimum qualifications and appropriate training for inspectors and criteria for certification of inspectors in order to inspect facilities for compliance with subsection (f) of this section.
+Qualified individuals, as determined by the Secretary, shall conduct all inspections. The Secretary may request that a State or local agency acting on behalf of the Secretary designate a qualified officer or employee to conduct the inspections, or designate a qualified Federal officer or employee to conduct inspections. The Secretary shall establish minimum qualifications and appropriate training for inspectors and criteria for certification of inspectors in order to inspect facilities for compliance with subsection (f).
 
 #### (E) Frequency ####
 
@@ -374,7 +374,7 @@ Any demonstration program under subparagraph (A) shall be carried out in accorda
 
 (i) The program may not be implemented before April 1, 2001. Preparations for the program may be carried out prior to such date.
 
-(ii) In carrying out the program, the Secretary may not select a facility for inclusion in the program unless the facility is substantially free of incidents of noncompliance with the standards under subsection (f) of this section. The Secretary may at any time provide that a facility will no longer be included in the program.
+(ii) In carrying out the program, the Secretary may not select a facility for inclusion in the program unless the facility is substantially free of incidents of noncompliance with the standards under subsection (f). The Secretary may at any time provide that a facility will no longer be included in the program.
 
 (iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significant sample, subject to compliance with clause (ii).
 
@@ -384,7 +384,7 @@ Any demonstration program under subparagraph (A) shall be carried out in accorda
 
 #### (1) In general ####
 
-In order to promote voluntary compliance with this section, the Secretary may, in lieu of taking the actions authorized by subsection (i) of this section, impose one or more of the following sanctions:
+In order to promote voluntary compliance with this section, the Secretary may, in lieu of taking the actions authorized by subsection (i), impose one or more of the following sanctions:
 
 (A) Directed plans of correction which afford a facility an opportunity to correct violations in a timely manner.
 
@@ -392,15 +392,15 @@ In order to promote voluntary compliance with this section, the Secretary may, i
 
 #### (2) Patient information ####
 
-If the Secretary determines that the quality of mammography performed by a facility (whether or not certified pursuant to subsection (c) of this section) was so inconsistent with the quality standards established pursuant to subsection (f) of this section as to present a significant risk to individual or public health, the Secretary may require such facility to notify patients who received mammograms at such facility, and their referring physicians, of the deficiencies presenting such risk, the potential harm resulting, appropriate remedial measures, and such other relevant information as the Secretary may require.
+If the Secretary determines that the quality of mammography performed by a facility (whether or not certified pursuant to subsection (c)) was so inconsistent with the quality standards established pursuant to subsection (f) as to present a significant risk to individual or public health, the Secretary may require such facility to notify patients who received mammograms at such facility, and their referring physicians, of the deficiencies presenting such risk, the potential harm resulting, appropriate remedial measures, and such other relevant information as the Secretary may require.
 
 #### (3) Civil money penalties ####
 
 The Secretary may assess civil money penalties in an amount not to exceed $10,000 for—
 
-(A) failure to obtain a certificate as required by subsection (b) of this section,
+(A) failure to obtain a certificate as required by subsection (b),
 
-(B) each failure by a facility to substantially comply with, or each day on which a facility fails to substantially comply with, the standards established under subsection (f) of this section or the requirements described in subclauses (I) through (III) of subsection (d)(1)(B)(ii) of this section,
+(B) each failure by a facility to substantially comply with, or each day on which a facility fails to substantially comply with, the standards established under subsection (f) or the requirements described in subclauses (I) through (III) of subsection (d)(1)(B)(ii),
 
 (C) each failure to notify a patient of risk as required by the Secretary pursuant to paragraph (2), and
 
@@ -414,19 +414,19 @@ The Secretary shall develop and implement procedures with respect to when and ho
 
 #### (1) In general ####
 
-The certificate of a facility issued under subsection (c) of this section may be suspended or revoked if the Secretary finds, after providing, except as provided in paragraph (2), reasonable notice and an opportunity for a hearing to the owner or operator of the facility, that the owner, operator, or any employee of the facility—
+The certificate of a facility issued under subsection (c) may be suspended or revoked if the Secretary finds, after providing, except as provided in paragraph (2), reasonable notice and an opportunity for a hearing to the owner or operator of the facility, that the owner, operator, or any employee of the facility—
 
 (A) has been guilty of misrepresentation in obtaining the certificate;
 
-(B) has failed to comply with the requirements of subsection (d)(1)(B)(ii)(III) of this section or the standards established by the Secretary under subsection (f) of this section;
+(B) has failed to comply with the requirements of subsection (d)(1)(B)(ii)(III) or the standards established by the Secretary under subsection (f);
 
-(C) has failed to comply with reasonable requests of the Secretary (or of an accreditation body approved pursuant to subsection (e) of this section) for any record, information, report, or material that the Secretary (or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section) concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f) of this section;
+(C) has failed to comply with reasonable requests of the Secretary (or of an accreditation body approved pursuant to subsection (e)) for any record, information, report, or material that the Secretary (or such accreditation body or State carrying out certification program requirements pursuant to subsection (q)) concludes is necessary to determine the continued eligibility of the facility for a certificate or continued compliance with the standards established under subsection (f);
 
-(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State or local officer or employee duly designated by the State or local agency, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g) of this section;
+(D) has refused a reasonable request of the Secretary, any Federal officer or employee duly designated by the Secretary, or any State or local officer or employee duly designated by the State or local agency, for permission to inspect the facility or the operations and pertinent records of the facility in accordance with subsection (g);
 
 (E) has violated or aided and abetted in the violation of any provision of, or regulation promulgated under, this section; or
 
-(F) has failed to comply with a sanction imposed under subsection (h) of this section.
+(F) has failed to comply with a sanction imposed under subsection (h).
 
 #### (2) Action before a hearing ####
 
@@ -452,7 +452,7 @@ If the Secretary determines that—
 
 (1) continuation of any activity related to the provision of mammography by a facility would constitute a serious risk to human health, the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin continuation of the activity; and
 
-(2) a facility is operating without a certificate as required by subsection (b) of this section, the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin the operation of the facility.
+(2) a facility is operating without a certificate as required by subsection (b), the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin the operation of the facility.
 
 Upon a proper showing, the district court shall grant a temporary injunction or restraining order against continuation of the activity or against operation of a facility, as the case may be, without requiring the Secretary to post a bond, pending issuance of a final order under this subsection.
 
@@ -460,7 +460,7 @@ Upon a proper showing, the district court shall grant a temporary injunction or 
 
 #### (1) Petition ####
 
-If the Secretary imposes a sanction on a facility under subsection (h) of this section or suspends or revokes the certificate of a facility under subsection (i) of this section, the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+If the Secretary imposes a sanction on a facility under subsection (h) or suspends or revokes the certificate of a facility under subsection (i), the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence ####
 
@@ -482,11 +482,11 @@ Not later than October 1, 1996, and annually thereafter, the Secretary shall com
 
 (A) that have been convicted under Federal or State laws relating to fraud and abuse, false billings, or kickbacks;
 
-(B) that have been subject to sanctions under subsection (h) of this section, together with a statement of the reasons for the sanctions;
+(B) that have been subject to sanctions under subsection (h), together with a statement of the reasons for the sanctions;
 
-(C) that have had certificates revoked or suspended under subsection (i) of this section, together with a statement of the reasons for the revocation or suspension;
+(C) that have had certificates revoked or suspended under subsection (i), together with a statement of the reasons for the revocation or suspension;
 
-(D) against which the Secretary has taken action under subsection (j) of this section, together with a statement of the reasons for the action;
+(D) against which the Secretary has taken action under subsection (j), together with a statement of the reasons for the action;
 
 (E) whose accreditation has been revoked, together with a statement of the reasons of the revocation;
 
@@ -534,15 +534,15 @@ The Advisory Committee shall—
 
 (C) advise the Secretary in the development of regulations with respect to sanctions;
 
-(D) assist in developing procedures for monitoring compliance with standards under subsection (f) of this section;
+(D) assist in developing procedures for monitoring compliance with standards under subsection (f);
 
 (E) make recommendations and assist in the establishment of a mechanism to investigate consumer complaints;
 
 (F) report on new developments concerning breast imaging that should be considered in the oversight of mammography facilities;
 
-(G) determine whether there exists a shortage of mammography facilities in rural and health professional shortage areas and determine the effects of personnel or other requirements of subsection (f) of this section on access to the services of such facilities in such areas;
+(G) determine whether there exists a shortage of mammography facilities in rural and health professional shortage areas and determine the effects of personnel or other requirements of subsection (f) on access to the services of such facilities in such areas;
 
-(H) determine whether there will exist a sufficient number of medical physicists after October 1, 1999, to assure compliance with the requirements of subsection (f)(1)(E) of this section;
+(H) determine whether there will exist a sufficient number of medical physicists after October 1, 1999, to assure compliance with the requirements of subsection (f)(1)(E);
 
 (I) determine the costs and benefits of compliance with the requirements of this section (including the requirements of regulations promulgated under this section); and
 
@@ -610,9 +610,9 @@ The Secretary shall recruit facilities to provide to the breast cancer screening
 
 The Secretary may, upon application, authorize a State—
 
-(A) to carry out, subject to paragraph (2), the certification program requirements under subsections (b), (c), (d), (g)(1), (h), (i), and (j) of this section (including the requirements under regulations promulgated pursuant to such subsections), and
+(A) to carry out, subject to paragraph (2), the certification program requirements under subsections (b), (c), (d), (g)(1), (h), (i), and (j) (including the requirements under regulations promulgated pursuant to such subsections), and
 
-(B) to implement the standards established by the Secretary under subsection (f) of this section,
+(B) to implement the standards established by the Secretary under subsection (f),
 
 with respect to mammography facilities operating within the State.
 
@@ -634,11 +634,11 @@ The Secretary may approve an application under paragraph (1) if the Secretary de
 
 In a State with an approved application—
 
-(A) the Secretary shall carry out the Secretary's functions under subsections (e) and (f) of this section;
+(A) the Secretary shall carry out the Secretary's functions under subsections (e) and (f);
 
-(B) the Secretary may take action under subsections (h), (i), and (j) of this section; and
+(B) the Secretary may take action under subsections (h), (i), and (j); and
 
-(C) the Secretary shall conduct oversight functions under subsections (g)(2) and (g)(3) of this section.
+(C) the Secretary shall conduct oversight functions under subsections (g)(2) and (g)(3).
 
 #### (4) Withdrawal of approval ####
 
@@ -656,7 +656,7 @@ If the Secretary withdraws the approval of a State under subparagraph (A), the c
 
 #### (A) In general ####
 
-The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) of this section (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) of this section by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1) of this section. A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
+The Secretary shall, in accordance with this paragraph assess and collect fees from persons described in subsection (d)(1)(A) (other than persons who are governmental entities, as determined by the Secretary) to cover the costs of inspections conducted under subsection (g)(1) by the Secretary or a State acting under a delegation under subparagraph (A) of such subsection. Fees may be assessed and collected under this paragraph only in such manner as would result in an aggregate amount of fees collected during any fiscal year which equals the aggregate amount of costs for such fiscal year for inspections of facilities of such persons under subsection (g)(1). A person's liability for fees shall be reasonably based on the proportion of the inspection costs which relate to such person.
 
 #### (B) Deposit and appropriations ####
 
@@ -672,7 +672,7 @@ Fees collected under subparagraph (A) shall be collected and available only to t
 
 There are authorized to be appropriated to carry out this section—
 
-(A) to award research grants under subsection (p) of this section, such sums as may be necessary for each of the fiscal years 1993 through 2007; and
+(A) to award research grants under subsection (p), such sums as may be necessary for each of the fiscal years 1993 through 2007; and
 
 (B) for the Secretary to carry out other activities which are not supported by fees authorized and collected under paragraph (1), such sums as may be necessary for fiscal years 1993 through 2007.
 
@@ -722,7 +722,7 @@ Subsec. (f)(1)(G)(ii)(IV). Pub. L. 105–248, §6, added subcl. (IV) and struck 
 
 Subsec. (g)(1). Pub. L. 105–248, §9(1), inserted "or local" after "State" wherever appearing.
 
-Subsec. (g)(1)(A). Pub. L. 105–248, §7, in first sentence, struck out "certified" before "facilities" and inserted "the certification requirements under subsection (b) of this section and" after "compliance with".
+Subsec. (g)(1)(A). Pub. L. 105–248, §7, in first sentence, struck out "certified" before "facilities" and inserted "the certification requirements under subsection (b) and" after "compliance with".
 
 Subsec. (g)(1)(E). Pub. L. 105–248, §8(1), inserted ", subject to paragraph (6)" before period at end.
 
@@ -738,7 +738,7 @@ Subsec. (h)(3). Pub. L. 105–248, §10(a)(1), (b), redesignated par. (2) as (3)
 
 Subsec. (h)(4). Pub. L. 105–248, §10(a)(1), (c), redesignated par. (3) as (4) and substituted "paragraphs (1) through (3)" for "paragraphs (1) and (2)".
 
-Subsec. (i)(1)(C). Pub. L. 105–248, §11, inserted "(or of an accreditation body approved pursuant to subsection (e) of this section)" after "of the Secretary" and inserted "(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q) of this section)" after "that the Secretary".
+Subsec. (i)(1)(C). Pub. L. 105–248, §11, inserted "(or of an accreditation body approved pursuant to subsection (e))" after "of the Secretary" and inserted "(or such accreditation body or State carrying out certification program requirements pursuant to subsection (q))" after "that the Secretary".
 
 Subsec. (i)(1)(D). Pub. L. 105–248, §9(3), inserted "or local" after "any State" and "or local agency" after "by the State".
 

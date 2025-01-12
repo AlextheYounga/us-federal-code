@@ -10,13 +10,13 @@ Not later than 90 days after November 4, 1988, the Secretary of Health and Human
 
 #### (b) Use in occupational standards ####
 
-The Secretary shall transmit the guidelines issued under subsection (a) of this section to the Secretary of Labor for use by the Secretary of Labor in the development of standards to be issued under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.].
+The Secretary shall transmit the guidelines issued under subsection (a) to the Secretary of Labor for use by the Secretary of Labor in the development of standards to be issued under the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.].
 
 #### (c) Development and dissemination of model curriculum for emergency response employees ####
 
 (1) Not later than 90 days after November 4, 1988, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall develop a model curriculum for emergency response employees with respect to the prevention of exposure to the etiologic agent for acquired immune deficiency syndrome during the process of responding to emergencies.
 
-(2) In carrying out paragraph (1), the Secretary shall consider the guidelines issued by the Secretary under subsection (a) of this section.
+(2) In carrying out paragraph (1), the Secretary shall consider the guidelines issued by the Secretary under subsection (a).
 
 (3) The model curriculum developed under paragraph (1) shall, to the extent practicable, include—
 

@@ -6,7 +6,7 @@ For the purpose of carrying out this subpart, there is authorized to be appropri
 
 #### (b) Limitation regarding certain program ####
 
-In obligating amounts appropriated under subsection (a) of this section, the Secretary may not obligate more than 30 percent for carrying out section 295b of this title.
+In obligating amounts appropriated under subsection (a), the Secretary may not obligate more than 30 percent for carrying out section 295b of this title.
 
 (July 1, 1944, ch. 373, title VII, §770, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3556; amended Pub. L. 111–148, title X, §10501(m)(2), Mar. 23, 2010, 124 Stat. 1002.)
 

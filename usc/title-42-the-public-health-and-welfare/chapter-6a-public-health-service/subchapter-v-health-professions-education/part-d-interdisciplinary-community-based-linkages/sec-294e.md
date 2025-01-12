@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary may make grants or contracts under this section to help entities fund activities of the type described in subsection (b) of this section.
+The Secretary may make grants or contracts under this section to help entities fund activities of the type described in subsection (b).
 
 #### (b) Activities ####
 

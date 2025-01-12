@@ -6,7 +6,7 @@ The Secretary shall expedite the award of grants, contracts, and cooperative agr
 
 #### (b) Time limitations with respect to certain applications ####
 
-(1) With respect to programs of grants, contracts, and cooperative agreements described in subsection (a) of this section, any application submitted in response to a solicitation by the Secretary for proposals pursuant to such a program—
+(1) With respect to programs of grants, contracts, and cooperative agreements described in subsection (a), any application submitted in response to a solicitation by the Secretary for proposals pursuant to such a program—
 
 (A) may not be approved if the application is submitted after the expiration of the 3-month period beginning on the date on which the solicitation is issued; and
 
@@ -16,7 +16,7 @@ The Secretary shall expedite the award of grants, contracts, and cooperative agr
 
 #### (c) Requirements with respect to adjustments in time limitations ####
 
-With respect to any program for which a determination described in subsection (b)(2) of this section is made, the Secretary shall—
+With respect to any program for which a determination described in subsection (b)(2) is made, the Secretary shall—
 
 (1) if the determination is made before the Secretary issues a solicitation for proposals pursuant to the program, ensure that the solicitation describes the time limitations as adjusted by the determination; and
 
@@ -24,19 +24,19 @@ With respect to any program for which a determination described in subsection (b
 
 #### (d) Annual reports to Congress ####
 
-Except as provided in subsection (e) of this section, the Secretary shall annually prepare, for inclusion in the comprehensive report required in section 300cc <sup><a href="#300cc-1_1_target" name="300cc-1_1">1</a></sup> of this title, a report—
+Except as provided in subsection (e), the Secretary shall annually prepare, for inclusion in the comprehensive report required in section 300cc <sup><a href="#300cc-1_1_target" name="300cc-1_1">1</a></sup> of this title, a report—
 
-(A) summarizing programs for which the Secretary has made a determination described in subsection (b)(2) of this section, including a description of the time limitations as adjusted by the determination and including a summary of the solicitation issued by the Secretary for proposals pursuant to the program; and
+(A) summarizing programs for which the Secretary has made a determination described in subsection (b)(2), including a description of the time limitations as adjusted by the determination and including a summary of the solicitation issued by the Secretary for proposals pursuant to the program; and
 
 (B) summarizing applications that—
 
-(i) were submitted pursuant to a program of grants, contracts, or cooperative agreements referred to in paragraph (1) of subsection (b) of this section for which a determination described in paragraph (2) of such subsection has not been made; and
+(i) were submitted pursuant to a program of grants, contracts, or cooperative agreements referred to in paragraph (1) of subsection (b) for which a determination described in paragraph (2) of such subsection has not been made; and
 
 (ii) were not processed in accordance with the time limitations described in such paragraph (1).
 
 #### (e) Quarterly reports for fiscal year 1989 ####
 
-For fiscal year 1989, the report required in subsection (d) of this section shall, not less than quarterly, be prepared and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
+For fiscal year 1989, the report required in subsection (d) shall, not less than quarterly, be prepared and submitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
 
 (July 1, 1944, ch. 373, title XXIII, §2302, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063.)
 

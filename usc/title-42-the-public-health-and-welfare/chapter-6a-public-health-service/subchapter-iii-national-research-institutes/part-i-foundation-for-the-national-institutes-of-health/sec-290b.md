@@ -12,7 +12,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 #### (1) In general ####
 
-In carrying out subsection (b) of this section, the Foundation may solicit and accept gifts, grants, and other donations, establish accounts, and invest and expend funds in support of the following activities with respect to the purpose described in such subsection:
+In carrying out subsection (b), the Foundation may solicit and accept gifts, grants, and other donations, establish accounts, and invest and expend funds in support of the following activities with respect to the purpose described in such subsection:
 
 (A) A program to provide and administer endowed positions that are associated with the research program of the National Institutes of Health. Such endowments may be expended for the compensation of individuals holding the positions, for staff, equipment, quarters, travel, and other expenditures that are appropriate in supporting the endowed positions.
 
@@ -32,7 +32,7 @@ In carrying out subsection (b) of this section, the Foundation may solicit and a
 
 (v) programs for writing, editing, printing, publishing, and vending of books and other materials; and
 
-(vi) the conduct of other activities to carry out and support the purpose described in subsection (b) of this section.
+(vi) the conduct of other activities to carry out and support the purpose described in subsection (b).
 
 (E) The Cures Acceleration Network described in section 287a of this title.
 
@@ -72,7 +72,7 @@ The Foundation shall be the sole entity responsible for carrying out the activit
 
 (D)(i) Not later than 30 days after June 10, 1993, the Director of the National Institutes of Health shall convene a meeting of the ex officio members of the Board to—
 
-(I) incorporate the Foundation and establish the general policies of the Foundation for carrying out the purposes of subsection (b) of this section, including the establishment of the bylaws of the Foundation; and
+(I) incorporate the Foundation and establish the general policies of the Foundation for carrying out the purposes of subsection (b), including the establishment of the bylaws of the Foundation; and
 
 (II) appoint the members of the Board in accordance with subparagraph (C).
 
@@ -146,7 +146,7 @@ The rate of compensation of the Executive Director shall be fixed by the Board.
 
 #### (h) Powers ####
 
-In carrying out subsection (b) of this section, the Foundation may—
+In carrying out subsection (b), the Foundation may—
 
 (1) operate under the direction of its Board;
 
@@ -162,7 +162,7 @@ In carrying out subsection (b) of this section, the Foundation may—
 
 (7) modify or consent to the modification of any contract or agreement to which it is a party or in which it has an interest under this part;
 
-(8) establish a process for the selection of candidates for positions under subsection (c) of this section;
+(8) establish a process for the selection of candidates for positions under subsection (c);
 
 (9) enter into contracts with public and private organizations for the writing, editing, printing, and publishing of books and other material;
 
@@ -240,7 +240,7 @@ The Foundation shall exist solely as an entity to work in collaboration with the
 
 #### (i) In general ####
 
-Gifts, grants, and other donations to the Foundation may be designated for pediatric research and studies on drugs, and funds so designated shall be used solely for grants for research and studies under subsection (c)(1)(C) of this section.
+Gifts, grants, and other donations to the Foundation may be designated for pediatric research and studies on drugs, and funds so designated shall be used solely for grants for research and studies under subsection (c)(1)(C).
 
 #### (ii) Other gifts ####
 
@@ -260,7 +260,7 @@ The Commissioner of Food and Drugs shall take appropriate action in response to 
 
 #### (C) Applicability ####
 
-Subparagraph (A) does not apply to the program described in subsection (c)(1)(C) of this section.
+Subparagraph (A) does not apply to the program described in subsection (c)(1)(C).
 
 #### (10) Transfer of funds ####
 
@@ -400,7 +400,7 @@ Subsec. (i)(5), (6). Pub. L. 103–43, §1701(5)(B), (C), redesignated par. (6) 
 
 Subsec. (i)(7). Pub. L. 103–43, §1701(5)(C), (D), redesignated par. (8) as (7) and substituted "part" for "subtitle". Former par. (7) redesignated (6).
 
-Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted "establish a process for the selection of candidates for positions under subsection (c) of this section" for "establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program".
+Subsec. (i)(8). Pub. L. 103–43, §1701(5)(C), (E), redesignated par. (9) as (8) and substituted "establish a process for the selection of candidates for positions under subsection (c)" for "establish a mechanism for the selection of candidates, subject to the approval of the Director of the National Institutes of Health, for the endowed scientific positions within the organizational structure of the intramural research programs of the National Institutes of Health and candidates for participation in the National Institutes of Health Scholars program".
 
 Subsec. (i)(9), (10). Pub. L. 103–43, §1701(5)(C), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 

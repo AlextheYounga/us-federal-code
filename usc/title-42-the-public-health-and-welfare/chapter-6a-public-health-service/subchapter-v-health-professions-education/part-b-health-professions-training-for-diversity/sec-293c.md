@@ -34,7 +34,7 @@ In this section, the term "regular course of education of such a school" as used
 
 #### (b) Requirements for awards ####
 
-In making awards to eligible entities under subsection (a)(1) of this section, the Secretary shall give preference to approved applications for programs that involve a comprehensive approach by several public or nonprofit private health or educational entities to establish, enhance and expand educational programs that will result in the development of a competitive applicant pool of individuals from disadvantaged backgrounds who desire to pursue health professions careers. In considering awards for such a comprehensive partnership approach, the following shall apply with respect to the entity involved:
+In making awards to eligible entities under subsection (a)(1), the Secretary shall give preference to approved applications for programs that involve a comprehensive approach by several public or nonprofit private health or educational entities to establish, enhance and expand educational programs that will result in the development of a competitive applicant pool of individuals from disadvantaged backgrounds who desire to pursue health professions careers. In considering awards for such a comprehensive partnership approach, the following shall apply with respect to the entity involved:
 
 (1) The entity shall have a demonstrated commitment to such approach through formal agreements that have common objectives with institutions of higher education, school districts, and other community-based entities.
 
@@ -46,11 +46,11 @@ In making awards to eligible entities under subsection (a)(1) of this section, t
 
 #### (c) Equitable allocation of financial assistance ####
 
-The Secretary, to the extent practicable, shall ensure that services and activities under subsection (a) of this section are adequately allocated among the various racial and ethnic populations who are from disadvantaged backgrounds.
+The Secretary, to the extent practicable, shall ensure that services and activities under subsection (a) are adequately allocated among the various racial and ethnic populations who are from disadvantaged backgrounds.
 
 #### (d) Matching requirements ####
 
-The Secretary may require that an entity that applies for a grant or contract under subsection (a) of this section, provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant or contract. As determined by the Secretary, such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
+The Secretary may require that an entity that applies for a grant or contract under subsection (a), provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant or contract. As determined by the Secretary, such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
 
 (July 1, 1944, ch. 373, title VII, §739, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3534.)
 

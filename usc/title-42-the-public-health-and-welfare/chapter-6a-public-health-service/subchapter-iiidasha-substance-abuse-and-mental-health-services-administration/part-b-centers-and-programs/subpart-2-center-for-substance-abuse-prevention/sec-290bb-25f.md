@@ -8,11 +8,11 @@ The Secretary of Health and Human Services (referred to in this Act as the "Secr
 
 #### (1) Application ####
 
-To be eligible for grants under subsection (a) of this section, an entity shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+To be eligible for grants under subsection (a), an entity shall prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Preference ####
 
-In awarding grants under subsection (a) of this section, the Secretary shall give preference to applicants that intend to use grant funds to carry out programs based on—
+In awarding grants under subsection (a), the Secretary shall give preference to applicants that intend to use grant funds to carry out programs based on—
 
 (A) the Athletes Training and Learning to Avoid Steroids program;
 
@@ -22,7 +22,7 @@ In awarding grants under subsection (a) of this section, the Secretary shall giv
 
 #### (c) Use of funds ####
 
-Amounts received under a grant under subsection (a) of this section shall be used for education programs that will directly communicate with teachers, principals, coaches, as well as elementary and secondary school children concerning the harmful effects of anabolic steroids.
+Amounts received under a grant under subsection (a) shall be used for education programs that will directly communicate with teachers, principals, coaches, as well as elementary and secondary school children concerning the harmful effects of anabolic steroids.
 
 #### (d) Authorization of appropriations ####
 

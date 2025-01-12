@@ -14,7 +14,7 @@ Sec.
 
 13214. Federal agency promotion, education, and coordination.
 
-13215. Agency incentives program.
+13215. Omitted.
 
 13216. Recognition and incentive awards program.
 
@@ -272,7 +272,7 @@ Sec.
 
 13477. High-temperature superconductivity program.
 
-13478. Electric and magnetic fields research and public information dissemination program.
+13478. Omitted.
 
 13479. Spark M. Matsunaga Renewable Energy and Ocean Technology Center.
 

@@ -6,11 +6,11 @@ It shall be unlawful for any person to knowingly acquire, receive, or otherwise 
 
 #### (b) Penalties ####
 
-Any person who violates subsection (a) of this section shall be fined not more than $50,000 or imprisoned not more than five years, or both.
+Any person who violates subsection (a) shall be fined not more than $50,000 or imprisoned not more than five years, or both.
 
 #### (c) Definitions ####
 
-For purposes of subsection (a) of this section:
+For purposes of subsection (a):
 
 (1) The term "human organ" means the human (including fetal) kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin or any subpart thereof and any other human organ (or any subpart thereof, including that derived from a fetus) specified by the Secretary of Health and Human Services by regulation.
 

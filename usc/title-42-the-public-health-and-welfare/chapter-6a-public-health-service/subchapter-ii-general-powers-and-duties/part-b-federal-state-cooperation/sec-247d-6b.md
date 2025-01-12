@@ -30,11 +30,11 @@ The Secretary, in managing the stockpile under paragraph (1), shall—
 
 #### (1) In general ####
 
-The Secretary shall award contracts, enter into cooperative agreements, or carry out such other activities as may reasonably be required in order to ensure that the stockpile under subsection (a) of this section includes an amount of vaccine against smallpox as determined by such Secretary to be sufficient to meet the health security needs of the United States.
+The Secretary shall award contracts, enter into cooperative agreements, or carry out such other activities as may reasonably be required in order to ensure that the stockpile under subsection (a) includes an amount of vaccine against smallpox as determined by such Secretary to be sufficient to meet the health security needs of the United States.
 
 #### (2) Rule of construction ####
 
-Nothing in this section shall be construed to limit the private distribution, purchase, or sale of vaccines from sources other than the stockpile described in subsection (a) of this section.
+Nothing in this section shall be construed to limit the private distribution, purchase, or sale of vaccines from sources other than the stockpile described in subsection (a).
 
 #### (c) Additional authority regarding procurement of certain countermeasures; availability of special reserve fund ####
 
@@ -134,7 +134,7 @@ If the President approves a proposal under subparagraph (A), the Homeland Securi
 
 #### (A) In general ####
 
-The Secretary, in accordance with the provisions of this paragraph, shall identify specific security countermeasures that the Secretary determines, in consultation with the Homeland Security Secretary, to be appropriate for inclusion in the stockpile under subsection (a) of this section pursuant to procurements made with amounts in the special reserve fund as defined in subsection (h) (referred to in this subsection individually as a "procurement under this subsection").
+The Secretary, in accordance with the provisions of this paragraph, shall identify specific security countermeasures that the Secretary determines, in consultation with the Homeland Security Secretary, to be appropriate for inclusion in the stockpile under subsection (a) pursuant to procurements made with amounts in the special reserve fund as defined in subsection (h) (referred to in this subsection individually as a "procurement under this subsection").
 
 #### (B) Requirements ####
 
@@ -326,25 +326,25 @@ An agreement or undertaking under this paragraph shall not authorize another age
 
 #### (d) Disclosures ####
 
-No Federal agency shall disclose under section 552 of title 5 any information identifying the location at which materials in the stockpile under subsection (a) of this section are stored.
+No Federal agency shall disclose under section 552 of title 5 any information identifying the location at which materials in the stockpile under subsection (a) are stored.
 
 #### (e) Definition ####
 
-For purposes of subsection (a) of this section, the term "stockpile" includes—
+For purposes of subsection (a), the term "stockpile" includes—
 
-(1) a physical accumulation (at one or more locations) of the supplies described in subsection (a) of this section; or
+(1) a physical accumulation (at one or more locations) of the supplies described in subsection (a); or
 
-(2) a contractual agreement between the Secretary and a vendor or vendors under which such vendor or vendors agree to provide to such Secretary supplies described in subsection (a) of this section.
+(2) a contractual agreement between the Secretary and a vendor or vendors under which such vendor or vendors agree to provide to such Secretary supplies described in subsection (a).
 
 #### (f) Authorization of appropriations ####
 
 #### (1) Strategic National Stockpile ####
 
-For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated $533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
+For the purpose of carrying out subsection (a), there are authorized to be appropriated $533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
 
 #### (2) Smallpox vaccine development ####
 
-For the purpose of carrying out subsection (b) of this section, there are authorized to be appropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
+For the purpose of carrying out subsection (b), there are authorized to be appropriated $509,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
 #### (g) Special reserve fund ####
 

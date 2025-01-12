@@ -16,7 +16,7 @@ The Secretary shall, upon the request of a public entity receiving a grant under
 
 #### (2) Authority for grants and contracts ####
 
-The Secretary may provide technical assistance under subsection (a) of this section directly or through grants to, or contracts with, public and nonprofit private entities.
+The Secretary may provide technical assistance under subsection (a) directly or through grants to, or contracts with, public and nonprofit private entities.
 
 #### (c) Evaluations and reports by Secretary ####
 
@@ -26,7 +26,7 @@ The Secretary shall, directly or through contracts with public or private entiti
 
 #### (2) Report to Congress ####
 
-The Secretary shall, not later than 1 year after the date on which amounts are first appropriated under subsection (c) of this section, and annually thereafter, submit to the Congress a report summarizing evaluations carried out pursuant to paragraph (1) during the preceding fiscal year and making such recommendations for administrative and legislative initiatives with respect to this section as the Secretary determines to be appropriate.
+The Secretary shall, not later than 1 year after the date on which amounts are first appropriated under subsection (c), and annually thereafter, submit to the Congress a report summarizing evaluations carried out pursuant to paragraph (1) during the preceding fiscal year and making such recommendations for administrative and legislative initiatives with respect to this section as the Secretary determines to be appropriate.
 
 #### (d) Definitions ####
 
@@ -56,7 +56,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### (2) Limitation regarding technical assistance ####
 
-Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b) of this section.
+Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b).
 
 (July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175.)
 

@@ -84,7 +84,7 @@ Under the existing authority of the Public Health Service Act, the Administrator
 
 #### (3) State early detection, diagnosis, and intervention programs and systems; data collection ####
 
-Under the existing authority of the Public Health Service Act, the Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation and intervention programs and systems under subsection (c) of this section and to develop a data collection system under subsection (d) of this section.
+Under the existing authority of the Public Health Service Act, the Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation and intervention programs and systems under subsection (c) and to develop a data collection system under subsection (d).
 
 #### (f) Rule of construction ####
 
@@ -94,15 +94,15 @@ Nothing in this section shall be construed to preempt any State law.
 
 #### (1) Statewide newborn and infant hearing screening, evaluation and intervention programs and systems ####
 
-For the purpose of carrying out subsection (c) of this section under the existing authority of the Public Health Service Act [42 U.S.C. 201 et seq.], there are authorized to the Health Resources and Services Administration appropriations in the amount of $5,000,000 for fiscal year 2000, $8,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
+For the purpose of carrying out subsection (c) under the existing authority of the Public Health Service Act [42 U.S.C. 201 et seq.], there are authorized to the Health Resources and Services Administration appropriations in the amount of $5,000,000 for fiscal year 2000, $8,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention ####
 
-For the purpose of carrying out subsection (d)(1) of this section under the existing authority of the Public Health Service Act, there are authorized to the Centers for Disease Control and Prevention, appropriations in the amount of $5,000,000 for fiscal year 2000, $7,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
+For the purpose of carrying out subsection (d)(1) under the existing authority of the Public Health Service Act, there are authorized to the Centers for Disease Control and Prevention, appropriations in the amount of $5,000,000 for fiscal year 2000, $7,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
 
 #### (3) Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders ####
 
-For the purpose of carrying out subsection (d)(2) of this section under the existing authority of the Public Health Service Act, there are authorized to the National Institute on Deafness and Other Communication Disorders appropriations for such sums as may be necessary for each of the fiscal years 2000 through 2002.
+For the purpose of carrying out subsection (d)(2) under the existing authority of the Public Health Service Act, there are authorized to the National Institute on Deafness and Other Communication Disorders appropriations for such sums as may be necessary for each of the fiscal years 2000 through 2002.
 
 (Pub. L. 106–113, div. B, §1000(a)(4) [title VI, §601], Nov. 29, 1999, 113 Stat. 1535, 1501A–276.)
 

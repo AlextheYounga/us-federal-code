@@ -10,7 +10,7 @@ The Secretary, acting through the Administrator, shall collect data each year on
 
 #### (b) Requisite areas of data collection on mental health ####
 
-With respect to the activities of the Administrator under subsection (a) of this section relating to mental health, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
+With respect to the activities of the Administrator under subsection (a) relating to mental health, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
 
 (1) the number and variety of public and nonprofit private treatment programs;
 
@@ -22,7 +22,7 @@ With respect to the activities of the Administrator under subsection (a) of this
 
 #### (c) Requisite areas of data collection on substance abuse ####
 
-(1) With respect to the activities of the Administrator under subsection (a) of this section relating to substance abuse, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
+(1) With respect to the activities of the Administrator under subsection (a) relating to substance abuse, the Administrator shall ensure that such activities include, at a minimum, the collection of data on—
 
 (A) the number of individuals admitted to the emergency rooms of hospitals as a result of the abuse of alcohol or other drugs;
 

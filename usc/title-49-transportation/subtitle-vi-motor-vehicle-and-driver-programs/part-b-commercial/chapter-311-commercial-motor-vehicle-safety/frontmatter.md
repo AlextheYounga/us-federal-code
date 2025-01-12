@@ -8,21 +8,21 @@ Sec.
 
 31101. Definitions.
 
-31102. Grants to States.
+31102. Motor carrier safety assistance program.
 
-31103. United States Government's share of costs.
+31103. Commercial motor vehicle operators grant program.
 
-31104. Availability of amounts.
+31104. Authorization of appropriations.
 
 31105. Employee protections.
 
 31106. Information systems.
 
-31107. Border enforcement grants.
+[31107. Repealed.]
 
 31108. Motor carrier research and technology program.
 
-31109. Performance and registration information system management.
+[31109. Repealed.]
 
 31110. Authorization of appropriations.
 
@@ -85,10 +85,6 @@ Sec.
 #### SUBCHAPTER IV—MISCELLANEOUS ####
 
 31161. International cooperation.
-
-#### Amendment of Analysis ####
-
-Pub. L. 114–94, div. A, title V, §5101(d), (e)(3), (4), (f), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, the analysis for this chapter is amended by striking items 31102, 31103, and 31104 and inserting new items 31102 "Motor carrier safety assistance program", 31103 "Commercial motor vehicle operators grant program", and 31104 "Authorization of appropriations" and by striking items 31107 and 31109. See 2015 Amendment note below.
 
 #### Amendments ####
 

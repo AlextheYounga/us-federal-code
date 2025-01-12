@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-Upon default by the borrower on any loan covered by Federal loan insurance pursuant to this subpart, and after a substantial collection effort (including, subject to subsection (h) of this section, commencement and prosecution of an action) as determined under regulations of the Secretary, the insurance beneficiary shall promptly notify the Secretary and the Secretary shall, if requested (at that time or after further collection efforts) by the beneficiary, or may on his own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for "exceptional performance", as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.
+Upon default by the borrower on any loan covered by Federal loan insurance pursuant to this subpart, and after a substantial collection effort (including, subject to subsection (h), commencement and prosecution of an action) as determined under regulations of the Secretary, the insurance beneficiary shall promptly notify the Secretary and the Secretary shall, if requested (at that time or after further collection efforts) by the beneficiary, or may on his own motion, if the insurance is still in effect, pay to the beneficiary the amount of the loss sustained by the insured upon that loan as soon as that amount has been determined, except that, if the insurance beneficiary including any servicer of the loan is not designated for "exceptional performance", as set forth in paragraph (2), the Secretary shall pay to the beneficiary a sum equal to 98 percent of the amount of the loss sustained by the insured upon that loan.
 
 #### (2) Exceptional performance ####
 
@@ -50,7 +50,7 @@ A lender, holder, or servicer designated under subparagraph (A) that fails to se
 
 #### (b) Subrogation ####
 
-Upon payment by the Secretary of the amount of the loss pursuant to subsection (a) of this section, the United States shall be subrogated for all of the rights of the holder of the obligation upon the insured loan and shall be entitled to an assignment of the note or other evidence of the insured loan by the insurance beneficiary. If the net recovery made by the Secretary on a loan after deduction of the cost of that recovery (including reasonable administrative costs) exceeds the amount of the loss, the excess shall be paid over to the insured. The Secretary may sell without recourse to eligible lenders (or other entities that the Secretary determines are capable of dealing in such loans) notes or other evidence of loans received through assignment under the first sentence.
+Upon payment by the Secretary of the amount of the loss pursuant to subsection (a), the United States shall be subrogated for all of the rights of the holder of the obligation upon the insured loan and shall be entitled to an assignment of the note or other evidence of the insured loan by the insurance beneficiary. If the net recovery made by the Secretary on a loan after deduction of the cost of that recovery (including reasonable administrative costs) exceeds the amount of the loss, the excess shall be paid over to the insured. The Secretary may sell without recourse to eligible lenders (or other entities that the Secretary determines are capable of dealing in such loans) notes or other evidence of loans received through assignment under the first sentence.
 
 #### (c) Forbearance ####
 
@@ -84,13 +84,13 @@ Notwithstanding any other provision of Federal or State law, a debt that is a lo
 
 (2) upon a finding by the Bankruptcy Court that the nondischarge of such debt would be unconscionable; and
 
-(3) upon the condition that the Secretary shall not have waived the Secretary's rights to apply subsection (f) of this section to the borrower and the discharged debt.
+(3) upon the condition that the Secretary shall not have waived the Secretary's rights to apply subsection (f) to the borrower and the discharged debt.
 
 #### (h) Requirement regarding actions for default ####
 
 #### (1) In general ####
 
-With respect to the default by a borrower on any loan covered by Federal loan insurance under this subpart, the Secretary shall, under subsection (a) of this section, require an eligible lender or holder to commence and prosecute an action for such default unless—
+With respect to the default by a borrower on any loan covered by Federal loan insurance under this subpart, the Secretary shall, under subsection (a), require an eligible lender or holder to commence and prosecute an action for such default unless—
 
 (A) in the determination of the Secretary—
 
@@ -104,15 +104,15 @@ With respect to the default by a borrower on any loan covered by Federal loan in
 
 #### (2) Relationship to claim for payment ####
 
-With respect to an eligible lender or holder that has commenced an action pursuant to subsection (a) of this section, the Secretary shall make the payment required in such subsection, or deny the claim for such payment, not later than 60 days after the date on which the Secretary determines that the lender or holder has made reasonable efforts to secure a judgment and collect on the judgment entered into pursuant to this subsection.
+With respect to an eligible lender or holder that has commenced an action pursuant to subsection (a), the Secretary shall make the payment required in such subsection, or deny the claim for such payment, not later than 60 days after the date on which the Secretary determines that the lender or holder has made reasonable efforts to secure a judgment and collect on the judgment entered into pursuant to this subsection.
 
 #### (3) State court judgments ####
 
-With respect to any State court judgment that is obtained by a lender or holder against a borrower for default on a loan insured under this subpart and that is subrogated to the United States under subsection (b) of this section, any United States attorney may register such judgment with the Federal courts for enforcement.
+With respect to any State court judgment that is obtained by a lender or holder against a borrower for default on a loan insured under this subpart and that is subrogated to the United States under subsection (b), any United States attorney may register such judgment with the Federal courts for enforcement.
 
 #### (i) Inapplicability of Federal and State statute of limitations on actions for loan collection ####
 
-Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by the Secretary, the Attorney General, or other administrative head of another Federal agency, as the case may be, for the repayment of the amount due from a borrower on a loan made under this subpart that has been assigned to the Secretary under subsection (b) of this section.
+Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by the Secretary, the Attorney General, or other administrative head of another Federal agency, as the case may be, for the repayment of the amount due from a borrower on a loan made under this subpart that has been assigned to the Secretary under subsection (b).
 
 #### (j) School collection assistance ####
 

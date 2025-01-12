@@ -6,6 +6,6 @@ Subject to the succeeding provisions of this section, the Secretary shall make p
 
 #### (b) Benefits secondary to other coverage ####
 
-Payment or reimbursement for services or benefits under subsection (a) of this section shall be secondary to any obligation of the United States or any third party (including any State or local governmental entity, private insurance carrier, or employer) under any other provision of law or contractual agreement, to pay for or provide such services or benefits.
+Payment or reimbursement for services or benefits under subsection (a) shall be secondary to any obligation of the United States or any third party (including any State or local governmental entity, private insurance carrier, or employer) under any other provision of law or contractual agreement, to pay for or provide such services or benefits.
 
 (July 1, 1944, ch. 373, title II, §264, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 641.)

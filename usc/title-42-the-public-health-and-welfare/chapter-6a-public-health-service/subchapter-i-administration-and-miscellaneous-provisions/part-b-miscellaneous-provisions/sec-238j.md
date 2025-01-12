@@ -6,7 +6,7 @@ Such portion as the Secretary shall determine, but not less than 0.2 percent nor
 
 #### (b) Report on evaluations ####
 
-Not later than February 1 of each year, the Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the findings of the evaluations conducted under subsection (a) of this section.
+Not later than February 1 of each year, the Secretary shall prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the findings of the evaluations conducted under subsection (a).
 
 (July 1, 1944, ch. 373, title II, §241, formerly title V, §513, as added Pub. L. 91–296, title IV, §401(a), June 30, 1970, 84 Stat. 351; amended Pub. L. 96–398, title VIII, §804(c), Oct. 7, 1980, 94 Stat. 1608; Pub. L. 97–35, title IX, §902(g)(3), Aug. 13, 1981, 95 Stat. 560; renumbered title XXI, §2113, Pub. L. 98–24, §2(a)(1), Apr. 26, 1983, 97 Stat. 176; renumbered title XXIII, §2313, Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3755; renumbered title XXV, §2511, Pub. L. 100–607, title II, §201(1), (3), Nov. 4, 1988, 102 Stat. 3062, 3063; renumbered title XXVI, §2611, Pub. L. 100–690, title II, §2620(a), Nov. 18, 1988, 102 Stat. 4244; renumbered title XXVII, §2711, Pub. L. 101–381, title I, §101(1), (2), Aug. 18, 1990, 104 Stat. 576; renumbered title II, §241, Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §701, Dec. 14, 1993, 107 Stat. 2239.)
 

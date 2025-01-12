@@ -36,7 +36,7 @@ In determining whether to make a designation, the Secretary shall take into cons
 
 #### (d) Designation; publication of descriptive lists ####
 
-(1) In accordance with the criteria established under subsection (b) of this section and the considerations listed in subsection (c) of this section the Secretary shall designate health professional shortage areas in the States, publish a descriptive list of the areas, population groups, medical facilities, and other public facilities so designated, and at least annually review and, as necessary, revise such designations.
+(1) In accordance with the criteria established under subsection (b) and the considerations listed in subsection (c), the Secretary shall designate health professional shortage areas in the States, publish a descriptive list of the areas, population groups, medical facilities, and other public facilities so designated, and at least annually review and, as necessary, revise such designations.
 
 (2) For purposes of paragraph (1), a complete descriptive list shall be published in the Federal Register not later than July 1 of 1991 and each subsequent year.
 
@@ -64,7 +64,7 @@ The Secretary may conduct such information programs in areas, among population g
 
 #### (i) Dissemination ####
 
-The Administrator of the Health Resources and Services Administration shall disseminate information concerning the designation criteria described in subsection (b) of this section to—
+The Administrator of the Health Resources and Services Administration shall disseminate information concerning the designation criteria described in subsection (b) to—
 
 (1) the Governor of each State;
 
@@ -72,7 +72,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 (3) the representative of any area, population group, or facility that requests such information; and
 
-(4) the representative of any area, population group, or facility determined by the Administrator to be likely to meet the criteria described in subsection (b) of this section.
+(4) the representative of any area, population group, or facility determined by the Administrator to be likely to meet the criteria described in subsection (b).
 
 #### (j) Regulations and report ####
 

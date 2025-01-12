@@ -2,7 +2,7 @@
 
 #### (a) Good Samaritan protections regarding AEDs ####
 
-Except as provided in subsection (b) of this section, any person who uses or attempts to use an automated external defibrillator device on a victim of a perceived medical emergency is immune from civil liability for any harm resulting from the use or attempted use of such device; and in addition, any person who acquired the device is immune from such liability, if the harm was not due to the failure of such acquirer of the device—
+Except as provided in subsection (b), any person who uses or attempts to use an automated external defibrillator device on a victim of a perceived medical emergency is immune from civil liability for any harm resulting from the use or attempted use of such device; and in addition, any person who acquired the device is immune from such liability, if the harm was not due to the failure of such acquirer of the device—
 
 (1) to notify local emergency response personnel or other appropriate entities of the most recent placement of the device within a reasonable period of time after the device was placed;
 
@@ -16,7 +16,7 @@ Except as provided in subsection (b) of this section, any person who uses or att
 
 #### (b) Inapplicability of immunity ####
 
-Immunity under subsection (a) of this section does not apply to a person if—
+Immunity under subsection (a) does not apply to a person if—
 
 (1) the harm involved was caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the victim who was harmed;
 
@@ -46,11 +46,11 @@ The following applies with respect to this section:
 
 #### (A) In general ####
 
-The applicability of subsections (a) and (b) of this section includes applicability to any action for civil liability described in subsection (a) of this section that arises under Federal law.
+The applicability of subsections (a) and (b) includes applicability to any action for civil liability described in subsection (a) that arises under Federal law.
 
 #### (B) Federal areas adopting State law ####
 
-If a geographic area is under Federal jurisdiction and is located within a State but out of the jurisdiction of the State, and if, pursuant to Federal law, the law of the State applies in such area regarding matters for which there is no applicable Federal law, then an action for civil liability described in subsection (a) of this section that in such area arises under the law of the State is subject to subsections (a) through (c) of this section in lieu of any related State law that would apply in such area in the absence of this subparagraph.
+If a geographic area is under Federal jurisdiction and is located within a State but out of the jurisdiction of the State, and if, pursuant to Federal law, the law of the State applies in such area regarding matters for which there is no applicable Federal law, then an action for civil liability described in subsection (a) that in such area arises under the law of the State is subject to subsections (a) through (c) in lieu of any related State law that would apply in such area in the absence of this subparagraph.
 
 #### (d) Federal jurisdiction ####
 

@@ -18,7 +18,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (3) submit an application to participate in the Scholarship Program; and
 
-(4) sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (f) of this section) to accept payment of a scholarship and to serve (in accordance with this subpart) for the applicable period of obligated service in a health professional shortage area.
+(4) sign and submit to the Secretary, at the time of submittal of such application, a written contract (described in subsection (f)) to accept payment of a scholarship and to serve (in accordance with this subpart) for the applicable period of obligated service in a health professional shortage area.
 
 #### (c) Review and evaluation of information and forms by prospective applicant ####
 
@@ -52,13 +52,13 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z <sup><a href="#254l_1_target" name="254l_1">1</a></sup> of this title;
 
-(B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) of this section is completed; and
+(B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
 (C) third, subject to subparagraph (B), to any application for such a contract submitted by an individual who is from a disadvantaged background.
 
 #### (e) Commencement of participation in Scholarship Program; notice ####
 
-(1) An individual becomes a participant in the Scholarship Program only upon the Secretary's approval of the individual's application submitted under subsection (b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section.
+(1) An individual becomes a participant in the Scholarship Program only upon the Secretary's approval of the individual's application submitted under subsection (b)(3) and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4).
 
 (2) The Secretary shall provide written notice to an individual promptly upon the Secretary's approving, under paragraph (1), of the individual's participation in the Scholarship Program.
 
@@ -68,13 +68,13 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 (1) an agreement that—
 
-(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g)) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B), and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 (B) subject to paragraph (2), the individual agrees—
 
 (i) to accept provision of such a scholarship to the individual;
 
-(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) of this section until the individual completes the course of study;
+(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) until the individual completes the course of study;
 
 (iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study);
 

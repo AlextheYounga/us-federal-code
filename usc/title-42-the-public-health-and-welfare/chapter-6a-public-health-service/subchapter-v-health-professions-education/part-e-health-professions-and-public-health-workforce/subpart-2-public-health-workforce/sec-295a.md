@@ -16,7 +16,7 @@ In awarding grants or contracts under this section the Secretary shall give pref
 
 #### (c) Certain requirements ####
 
-With respect to a public health training center, an award may not be made under subsection (a) of this section unless the program agrees that it—
+With respect to a public health training center, an award may not be made under subsection (a) unless the program agrees that it—
 
 (1) will establish or strengthen field placements for students in public or nonprofit private health agencies or organizations;
 

@@ -4,7 +4,7 @@
 
 (b) At least two-thirds of the amounts appropriated to carry out this subchapter shall be used to make grants for demonstration projects for services.
 
-(c) Not more than one-third of the amounts specified under subsection (b) of this section for use for grants for demonstration projects for services shall be used for grants for demonstration projects for prevention services.
+(c) Not more than one-third of the amounts specified under subsection (b) for use for grants for demonstration projects for services shall be used for grants for demonstration projects for prevention services.
 
 (July 1, 1944, ch. 373, title XX, §2010, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 591; amended Pub. L. 98–512, §2(a), Oct. 19, 1984, 98 Stat. 2409.)
 

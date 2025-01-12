@@ -68,7 +68,7 @@ In making grants under this section, the Secretary shall give preference to elig
 
 #### (h) Duplication of services ####
 
-An eligible entity that is receiving Federal funds for activities described in subsection (b) of this section on the date on which the entity submits an application under subsection (e) of this section may not receive a grant under this section unless the entity can demonstrate that amounts received under the grant will be utilized to expand services or provide new services to individuals who would not otherwise be served.
+An eligible entity that is receiving Federal funds for activities described in subsection (b) on the date on which the entity submits an application under subsection (e) may not receive a grant under this section unless the entity can demonstrate that amounts received under the grant will be utilized to expand services or provide new services to individuals who would not otherwise be served.
 
 #### (i) Coordination with other programs ####
 
@@ -98,7 +98,7 @@ The Secretary may require grant recipients under this section to submit interim 
 
 #### (k) Rule of construction ####
 
-This section shall not be construed to authorize funding for the delivery of health care services (other than the patient navigator duties listed in subsection (b) of this section).
+This section shall not be construed to authorize funding for the delivery of health care services (other than the patient navigator duties listed in subsection (b)).
 
 #### (l) Definitions ####
 
@@ -108,7 +108,7 @@ In this section:
 
 (2) The term "health disparity population" means a population that, as determined by the Secretary, has a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates as compared to the health status of the general population.
 
-(3) The term "patient navigator" means an individual who has completed a training program approved by the Secretary to perform the duties listed in subsection (b) of this section.
+(3) The term "patient navigator" means an individual who has completed a training program approved by the Secretary to perform the duties listed in subsection (b).
 
 #### (m) Authorization of appropriations ####
 

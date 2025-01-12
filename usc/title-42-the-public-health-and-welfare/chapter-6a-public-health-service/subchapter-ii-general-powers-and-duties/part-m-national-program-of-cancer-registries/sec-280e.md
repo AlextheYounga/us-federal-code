@@ -48,35 +48,35 @@ References in this section to cancer registries shall be considered to be refere
 
 #### (1) In general ####
 
-The Secretary may make a grant under subsection (a) of this section only if the State, or the academic or nonprofit private organization designated by the State to operate the cancer registry of the State, involved agrees, with respect to the costs of the program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs or $1 for every $3 of Federal funds provided in the grant.
+The Secretary may make a grant under subsection (a) only if the State, or the academic or nonprofit private organization designated by the State to operate the cancer registry of the State, involved agrees, with respect to the costs of the program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs or $1 for every $3 of Federal funds provided in the grant.
 
 #### (2) Determination of amount of non-Federal contribution; maintenance of effort ####
 
 (A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
+(B) With respect to a State in which the purpose described in subsection (a) is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
 
 #### (c) Eligibility for grants ####
 
 #### (1) In general ####
 
-No grant shall be made by the Secretary under subsection (a) of this section unless an application has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such a manner, and be accompanied by such information, as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and in accordance with the requirements of this section, that the application will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under subsection (a) of this section, and that the applicant will comply with the peer review requirements under sections 289 and 289a of this title.
+No grant shall be made by the Secretary under subsection (a) unless an application has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such a manner, and be accompanied by such information, as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and in accordance with the requirements of this section, that the application will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under subsection (a), and that the applicant will comply with the peer review requirements under sections 289 and 289a of this title.
 
 #### (2) Assurances ####
 
-Each applicant, prior to receiving Federal funds under subsection (a) of this section, shall provide assurances satisfactory to the Secretary that the applicant will—
+Each applicant, prior to receiving Federal funds under subsection (a), shall provide assurances satisfactory to the Secretary that the applicant will—
 
-(A) provide for the establishment of a registry in accordance with subsection (a) of this section;
+(A) provide for the establishment of a registry in accordance with subsection (a);
 
 (B) comply with appropriate standards of completeness, timeliness, and quality of population-based cancer registry data;
 
-(C) provide for the annual publication of reports of cancer data under subsection (a) of this section; and
+(C) provide for the annual publication of reports of cancer data under subsection (a); and
 
 (D) provide for the authorization under State law of the statewide cancer registry, including promulgation of regulations providing—
 
-(i) a means to assure complete reporting of cancer cases (as described in subsection (a) of this section) to the statewide cancer registry by hospitals or other facilities providing screening, diagnostic or therapeutic services to patients with respect to cancer;
+(i) a means to assure complete reporting of cancer cases (as described in subsection (a)) to the statewide cancer registry by hospitals or other facilities providing screening, diagnostic or therapeutic services to patients with respect to cancer;
 
-(ii) a means to assure the complete reporting of cancer cases (as defined in subsection (a) of this section) to the statewide cancer registry by physicians, surgeons, and all other health care practitioners diagnosing or providing treatment for cancer patients, except for cases directly referred to or previously admitted to a hospital or other facility providing screening, diagnostic or therapeutic services to patients in that State and reported by those facilities;
+(ii) a means to assure the complete reporting of cancer cases (as defined in subsection (a)) to the statewide cancer registry by physicians, surgeons, and all other health care practitioners diagnosing or providing treatment for cancer patients, except for cases directly referred to or previously admitted to a hospital or other facility providing screening, diagnostic or therapeutic services to patients in that State and reported by those facilities;
 
 (iii) a means for the statewide cancer registry to access all records of physicians and surgeons, hospitals, outpatient clinics, nursing homes, and all other facilities, individuals, or agencies providing such services to patients which would identify cases of cancer or would establish characteristics of the cancer, treatment of the cancer, or medical status of any identified patient;
 
@@ -98,7 +98,7 @@ This section may not be construed to act as a replacement for or diminishment of
 
 #### (2) Supplanting of activities ####
 
-In areas where both such programs exist, the Secretary shall ensure that SEER support is not supplanted and that any additional activities are consistent with the guidelines provided for in subsection (c)(2)(C) and (D) of this section and are appropriately coordinated with the existing SEER program.
+In areas where both such programs exist, the Secretary shall ensure that SEER support is not supplanted and that any additional activities are consistent with the guidelines provided for in subsection (c)(2)(C) and (D) and are appropriately coordinated with the existing SEER program.
 
 #### (3) Transfer of responsibility ####
 
@@ -110,7 +110,7 @@ To encourage the greatest possible efficiency and effectiveness of Federally sup
 
 #### (e) Requirement regarding certain study on breast cancer ####
 
-In the case of a grant under subsection (a) of this section to any State specified in subsection (b) of section 280e–3 of this title, the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.
+In the case of a grant under subsection (a) to any State specified in subsection (b) of section 280e–3 of this title, the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.
 
 (July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 107–260, §2(a), Oct. 29, 2002, 116 Stat. 1743.)
 

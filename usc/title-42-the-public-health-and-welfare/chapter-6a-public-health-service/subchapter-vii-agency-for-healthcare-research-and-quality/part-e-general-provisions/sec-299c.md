@@ -56,7 +56,7 @@ The Secretary shall designate as ex officio members of the Advisory Council—
 
 #### (1) In general ####
 
-Members of the Advisory Council appointed under subsection (c)(2) of this section shall serve for a term of 3 years.
+Members of the Advisory Council appointed under subsection (c)(2) shall serve for a term of 3 years.
 
 #### (2) Staggered terms ####
 
@@ -64,15 +64,15 @@ To ensure the staggered rotation of one-third of the members of the Advisory Cou
 
 #### (3) Service beyond term ####
 
-A member of the Council appointed under subsection (c)(2) of this section may continue to serve after the expiration of the term of the members until a successor is appointed.
+A member of the Council appointed under subsection (c)(2) may continue to serve after the expiration of the term of the members until a successor is appointed.
 
 #### (e) Vacancies ####
 
-If a member of the Advisory Council appointed under subsection (c)(2) of this section does not serve the full term applicable under subsection (d) of this section, the individual appointed to fill the resulting vacancy shall be appointed for the remainder of the term of the predecessor of the individual.
+If a member of the Advisory Council appointed under subsection (c)(2) does not serve the full term applicable under subsection (d), the individual appointed to fill the resulting vacancy shall be appointed for the remainder of the term of the predecessor of the individual.
 
 #### (f) Chair ####
 
-The Director shall, from among the members of the Advisory Council appointed under subsection (c)(2) of this section, designate an individual to serve as the chair of the Advisory Council.
+The Director shall, from among the members of the Advisory Council appointed under subsection (c)(2), designate an individual to serve as the chair of the Advisory Council.
 
 #### (g) Meetings ####
 
@@ -82,11 +82,11 @@ The Advisory Council shall meet not less than once during each discrete 4-month 
 
 #### (1) Appointed members ####
 
-Members of the Advisory Council appointed under subsection (c)(2) of this section shall receive compensation for each day (including travel time) engaged in carrying out the duties of the Advisory Council unless declined by the member. Such compensation may not be in an amount in excess of the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day during which such member is engaged in the performance of the duties of the Advisory Council.
+Members of the Advisory Council appointed under subsection (c)(2) shall receive compensation for each day (including travel time) engaged in carrying out the duties of the Advisory Council unless declined by the member. Such compensation may not be in an amount in excess of the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day during which such member is engaged in the performance of the duties of the Advisory Council.
 
 #### (2) Ex officio members ####
 
-Officials designated under subsection (c)(3) of this section as ex officio members of the Advisory Council may not receive compensation for service on the Advisory Council in addition to the compensation otherwise received for duties carried out as officers of the United States.
+Officials designated under subsection (c)(3) as ex officio members of the Advisory Council may not receive compensation for service on the Advisory Council in addition to the compensation otherwise received for duties carried out as officers of the United States.
 
 #### (i) Staff ####
 

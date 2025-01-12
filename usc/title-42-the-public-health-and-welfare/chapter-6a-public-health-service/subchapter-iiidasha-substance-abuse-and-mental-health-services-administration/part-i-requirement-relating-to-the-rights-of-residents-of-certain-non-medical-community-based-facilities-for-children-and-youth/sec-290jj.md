@@ -8,7 +8,7 @@ A public or private non-medical, community-based facility for children and youth
 
 #### (2) Nonapplicability ####
 
-Notwithstanding this part, a facility that provides inpatient psychiatric treatment services for individuals under the age of 21, as authorized and defined in subsections (a)(16) and (h) of section 1905 of the Social Security Act [42 U.S.C. 1396d], shall comply with the requirements of part H of this subchapter.
+Notwithstanding this part, a facility that provides inpatient psychiatric treatment services for individuals under the age of 21, as authorized and defined in subsections (a)(16) and (h) of section 1905 of the Social Security Act [42 U.S.C. 1396d], shall comply with the requirements of part H.
 
 #### (3) Applicability of Medicaid provisions ####
 
@@ -18,7 +18,7 @@ A non-medical, community-based facility for children and youth funded under the 
 
 #### (1) In general ####
 
-Physical restraints and seclusion may only be imposed on a resident of a facility described in subsection (a) of this section if—
+Physical restraints and seclusion may only be imposed on a resident of a facility described in subsection (a) if—
 
 (A) the restraints or seclusion are imposed only in emergency circumstances and only to ensure the immediate physical safety of the resident, a staff member, or others and less restrictive interventions have been determined to be ineffective; and
 
@@ -44,15 +44,15 @@ A procedure developed under subparagraph (A) shall—
 
 #### (A) In general ####
 
-The use of a drug or medication that is used as a restraint to control behavior or restrict the resident's freedom of movement that is not a standard treatment for the resident's medical or psychiatric condition in nonmedical community-based facilities for children and youth described in subsection (a)(1) of this section is prohibited.
+The use of a drug or medication that is used as a restraint to control behavior or restrict the resident's freedom of movement that is not a standard treatment for the resident's medical or psychiatric condition in nonmedical community-based facilities for children and youth described in subsection (a)(1) is prohibited.
 
 #### (B) Prohibition ####
 
-The use of mechanical restraints in non-medical, community-based facilities for children and youth described in subsection (a)(1) of this section is prohibited.
+The use of mechanical restraints in non-medical, community-based facilities for children and youth described in subsection (a)(1) is prohibited.
 
 #### (C) Limitation ####
 
-A non-medical, community-based facility for children and youth described in subsection (a)(1) of this section may only use seclusion when a staff member is continuously face-to-face monitoring the resident and when strong licensing or accreditation and internal controls are in place.
+A non-medical, community-based facility for children and youth described in subsection (a)(1) may only use seclusion when a staff member is continuously face-to-face monitoring the resident and when strong licensing or accreditation and internal controls are in place.
 
 #### (c) Rule of construction ####
 

@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary may make grants to State or local governments (that have in effect preventive medical and dental public health residency programs) or public or nonprofit private educational entities (including graduate schools of social work and business schools that have health management programs) that offer a program described in subsection (b) of this section—
+The Secretary may make grants to State or local governments (that have in effect preventive medical and dental public health residency programs) or public or nonprofit private educational entities (including graduate schools of social work and business schools that have health management programs) that offer a program described in subsection (b)—
 
 (1) to provide traineeships for students enrolled in such a program; and
 
@@ -10,11 +10,11 @@ The Secretary may make grants to State or local governments (that have in effect
 
 #### (b) Relevant programs ####
 
-The program referred to in subsection (a) of this section is an accredited program in health administration, hospital administration, or health policy analysis and planning, which program is accredited by a body or bodies approved for such purpose by the Secretary of Education and which meets such other quality standards as the Secretary of Health and Human Services by regulation may prescribe.
+The program referred to in subsection (a) is an accredited program in health administration, hospital administration, or health policy analysis and planning, which program is accredited by a body or bodies approved for such purpose by the Secretary of Education and which meets such other quality standards as the Secretary of Health and Human Services by regulation may prescribe.
 
 #### (c) Preference in making grants ####
 
-In making grants under subsection (a) of this section, the Secretary shall give preference to qualified applicants that meet the following conditions:
+In making grants under subsection (a), the Secretary shall give preference to qualified applicants that meet the following conditions:
 
 (1) Not less than 25 percent of the graduates of the applicant are engaged in full-time practice settings in medically underserved communities.
 
@@ -28,11 +28,11 @@ In making grants under subsection (a) of this section, the Secretary shall give 
 
 #### (1) Use of grant ####
 
-Traineeships awarded under grants made under subsection (a) of this section shall provide for tuition and fees and such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the trainees as the Secretary may deem necessary.
+Traineeships awarded under grants made under subsection (a) shall provide for tuition and fees and such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the trainees as the Secretary may deem necessary.
 
 #### (2) Preference for certain students ####
 
-Each entity applying for a grant under subsection (a) of this section for traineeships shall assure to the satisfaction of the Secretary that the entity will give priority to awarding the traineeships to students who demonstrate a commitment to employment with public or nonprofit private entities in the fields with respect to which the traineeships are awarded.
+Each entity applying for a grant under subsection (a) for traineeships shall assure to the satisfaction of the Secretary that the entity will give priority to awarding the traineeships to students who demonstrate a commitment to employment with public or nonprofit private entities in the fields with respect to which the traineeships are awarded.
 
 (July 1, 1944, ch. 373, title VII, §769, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3556.)
 

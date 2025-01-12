@@ -2,11 +2,11 @@
 
 #### (a) In general ####
 
-The Secretary may make a grant to an eligible entity (as defined in subsection (d)(1) of this section) under this section for the awarding of scholarships by schools to any full-time student who is an eligible individual as defined in subsection (d) of this section. Such scholarships may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in the attendance of such school.
+The Secretary may make a grant to an eligible entity (as defined in subsection (d)(1)) under this section for the awarding of scholarships by schools to any full-time student who is an eligible individual as defined in subsection (d). Such scholarships may be expended only for tuition expenses, other reasonable educational expenses, and reasonable living expenses incurred in the attendance of such school.
 
 #### (b) Preference in providing scholarships ####
 
-The Secretary may not make a grant to an entity under subsection (a) of this section unless the health professions and nursing schools involved agree that, in providing scholarships pursuant to the grant, the schools will give preference to students for whom the costs of attending the schools would constitute a severe financial hardship and, notwithstanding other provisions of this section, to former recipients of scholarships under sections 293 and 293d(d)(2)(B) of this title (as such sections existed on the day before November 13, 1998).
+The Secretary may not make a grant to an entity under subsection (a) unless the health professions and nursing schools involved agree that, in providing scholarships pursuant to the grant, the schools will give preference to students for whom the costs of attending the schools would constitute a severe financial hardship and, notwithstanding other provisions of this section, to former recipients of scholarships under sections 293 and 293d(d)(2)(B) of this title (as such sections existed on the day before November 13, 1998).
 
 #### (c) Amount of award ####
 

@@ -6,7 +6,7 @@ The Administrator of the Environmental Protection Agency may provide technical a
 
 #### (b) Limitation ####
 
-Not more than 30 percent of the amounts appropriated to carry out this section in a fiscal year may be used for source water quality protection programs described in subsection (a)(2) of this section.
+Not more than 30 percent of the amounts appropriated to carry out this section in a fiscal year may be used for source water quality protection programs described in subsection (a)(2).
 
 #### (c) Condition ####
 

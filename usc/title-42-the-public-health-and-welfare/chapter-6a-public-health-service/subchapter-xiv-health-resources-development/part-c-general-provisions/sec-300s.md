@@ -16,7 +16,7 @@ The Secretary shall by regulation—
 
 (2) prescribe for medical facilities projects assisted under part A or B general standards of construction, modernization, and equipment, which standards may vary on the basis of the class of facilities and their location; and
 
-(3) prescribe the general manner in which each entity which receives financial assistance under part A or B or has received financial assistance under part A or B or subchapter IV of this chapter shall be required to comply with the assurances required to be made at the time such assistance was received and the means by which such entity shall be required to demonstrate compliance with such assurances.
+(3) prescribe the general manner in which each entity which receives financial assistance under part A or B or has received financial assistance under part A or B or subchapter IV shall be required to comply with the assurances required to be made at the time such assistance was received and the means by which such entity shall be required to demonstrate compliance with such assurances.
 
 An entity subject to the requirements prescribed pursuant to paragraph (3) respecting compliance with assurances made in connection with receipt of financial assistance shall submit periodically to the Secretary data and information which reasonably supports the entity's compliance with such assurances. The Secretary may not waive the requirement of the preceding sentence.
 

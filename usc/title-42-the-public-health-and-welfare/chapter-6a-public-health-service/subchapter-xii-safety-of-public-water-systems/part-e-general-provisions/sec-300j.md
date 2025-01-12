@@ -30,19 +30,19 @@ the Administrator shall take action either to issue or deny the issuance of a ce
 
 (C) such other factors as the President or his delegate may determine are relevant to the apportionment of orders in accordance with the requirements of the preceding sentence.
 
-(3) Subject to subsection (f) of this section, any person for whom a certification of need has been issued under this subsection may upon the expiration of the order issued under paragraph (1) upon such certification apply under this section for additional certifications.
+(3) Subject to subsection (f), any person for whom a certification of need has been issued under this subsection may upon the expiration of the order issued under paragraph (1) upon such certification apply under this section for additional certifications.
 
 #### (d) Breach of contracts; defense ####
 
-There shall be available as a defense to any action brought for breach of contract in a Federal or State court arising out of delay or failure to provide, sell, or offer for sale or exchange a chemical or substance subject to an order issued pursuant to subsection (c)(1) of this section, that such delay or failure was caused solely by compliance with such order.
+There shall be available as a defense to any action brought for breach of contract in a Federal or State court arising out of delay or failure to provide, sell, or offer for sale or exchange a chemical or substance subject to an order issued pursuant to subsection (c)(1), that such delay or failure was caused solely by compliance with such order.
 
 #### (e) Penalties for noncompliance with orders; temporary restraining orders and preliminary or permanent injunctions ####
 
-(1) Whoever knowingly fails to comply with any order issued pursuant to subsection (c)(1) of this section shall be fined not more than $5,000 for each such failure to comply.
+(1) Whoever knowingly fails to comply with any order issued pursuant to subsection (c)(1) shall be fined not more than $5,000 for each such failure to comply.
 
-(2) Whoever fails to comply with any order issued pursuant to subsection (c)(1) of this section shall be subject to a civil penalty of not more than $2,500 for each such failure to comply.
+(2) Whoever fails to comply with any order issued pursuant to subsection (c)(1) shall be subject to a civil penalty of not more than $2,500 for each such failure to comply.
 
-(3) Whenever the Administrator or the President or his delegate has reason to believe that any person is violating or will violate any order issued pursuant to subsection (c)(1) of this section, he may petition a United States district court to issue a temporary restraining order or preliminary or permanent injunction (including a mandatory injunction) to enforce the provision of such order.
+(3) Whenever the Administrator or the President or his delegate has reason to believe that any person is violating or will violate any order issued pursuant to subsection (c)(1), he may petition a United States district court to issue a temporary restraining order or preliminary or permanent injunction (including a mandatory injunction) to enforce the provision of such order.
 
 #### (f) Termination date ####
 

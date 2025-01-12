@@ -8,7 +8,7 @@ The Secretary, acting through the Director of the Office of Rural Health Policy 
 
 #### (1) In general ####
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to—
+The Secretary may not make a grant under subsection (a) unless the State involved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to—
 
 (A) for the first fiscal year of payments under the grant, not less than $1 for each $3 of Federal funds provided in the grant;
 
@@ -20,7 +20,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 (A) Subject to subparagraph (B), non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-(B) The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that—
+(B) The Secretary may not make a grant under subsection (a) unless the State involved agrees that—
 
 (i) for the first fiscal year of payments under the grant, 100 percent or less of the non-Federal contributions required in paragraph (1) will be provided in the form of in-kind contributions;
 
@@ -30,7 +30,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (c) Certain required activities ####
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that activities carried out by an office operated pursuant to such subsection will include—
+The Secretary may not make a grant under subsection (a) unless the State involved agrees that activities carried out by an office operated pursuant to such subsection will include—
 
 (1) establishing and maintaining within the State a clearinghouse for collecting and disseminating information on—
 
@@ -46,13 +46,13 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (d) Requirement regarding annual budget for office ####
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that, for any fiscal year for which the State receives such a grant, the office operated pursuant to subsection (a) of this section will be provided with an annual budget of not less than $50,000.
+The Secretary may not make a grant under subsection (a) unless the State involved agrees that, for any fiscal year for which the State receives such a grant, the office operated pursuant to subsection (a) will be provided with an annual budget of not less than $50,000.
 
 #### (e) Certain uses of funds ####
 
 #### (1) Restrictions ####
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that—
+The Secretary may not make a grant under subsection (a) unless the State involved agrees that—
 
 (A) if research with respect to rural health is conducted pursuant to the grant, not more than 10 percent of the grant will be expended for such research; and
 
@@ -76,9 +76,9 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (2) Authorities ####
 
-Activities for which a State may expend a grant under subsection (a) of this section include—
+Activities for which a State may expend a grant under subsection (a) include—
 
-(A) paying the costs of establishing an office of rural health for purposes of subsection (a) of this section;
+(A) paying the costs of establishing an office of rural health for purposes of subsection (a);
 
 (B) subject to paragraph (1)(B)(ii)(III), paying the costs of any activity carried out with respect to recruiting and retaining health professionals to serve in rural areas of the State; and
 
@@ -86,7 +86,7 @@ Activities for which a State may expend a grant under subsection (a) of this sec
 
 #### (f) Reports ####
 
-The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees—
+The Secretary may not make a grant under subsection (a) unless the State involved agrees—
 
 (1) to submit to the Secretary reports containing such information as the Secretary may require regarding activities carried out under this section by the State; and
 
@@ -94,11 +94,11 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (g) Requirement of application ####
 
-The Secretary may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out such subsection.
+The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out such subsection.
 
 #### (h) Noncompliance ####
 
-The Secretary may not make payments under subsection (a) of this section to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
+The Secretary may not make payments under subsection (a) to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
 
 #### (i) "State" defined ####
 
@@ -108,7 +108,7 @@ For purposes of this section, the term "State" means each of the several States.
 
 #### (1) In general ####
 
-For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $3,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $3,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1998 through 2002.
+For the purpose of making grants under subsection (a), there are authorized to be appropriated $3,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $3,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1998 through 2002.
 
 #### (2) Availability ####
 
@@ -116,7 +116,7 @@ Amounts appropriated under paragraph (1) shall remain available until expended.
 
 #### (k) Termination of program ####
 
-No grant may be made under this section after the aggregate amounts appropriated under subsection (j)(1) of this section are equal to $36,000,000.
+No grant may be made under this section after the aggregate amounts appropriated under subsection (j)(1) are equal to $36,000,000.
 
 (July 1, 1944, ch. 373, title III, §338J, as added Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, §301, Nov. 13, 1998, 112 Stat. 3585.)
 

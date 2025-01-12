@@ -6,7 +6,7 @@ The Secretary, in consultation with the Secretary of Education and the Attorney 
 
 #### (b) Activities ####
 
-Under the program under subsection (a) of this section, the Secretary may—
+Under the program under subsection (a), the Secretary may—
 
 (1) provide financial support to enable local communities to implement programs to foster the health and development of children;
 
@@ -20,9 +20,9 @@ Under the program under subsection (a) of this section, the Secretary may—
 
 #### (c) Requirements ####
 
-An application for a grant, contract or cooperative agreement under subsection (a) of this section shall demonstrate that—
+An application for a grant, contract or cooperative agreement under subsection (a) shall demonstrate that—
 
-(1) the applicant will use amounts received to create a partnership described in subsection (b)(4) of this section to address issues of violence in schools;
+(1) the applicant will use amounts received to create a partnership described in subsection (b)(4) to address issues of violence in schools;
 
 (2) the activities carried out by the applicant will provide a comprehensive method for addressing violence, that will include—
 
@@ -42,11 +42,11 @@ An application for a grant, contract or cooperative agreement under subsection (
 
 #### (d) Geographical distribution ####
 
-The Secretary shall ensure that grants, contracts or cooperative agreements under subsection (a) of this section will be distributed equitably among the regions of the country and among urban and rural areas.
+The Secretary shall ensure that grants, contracts or cooperative agreements under subsection (a) will be distributed equitably among the regions of the country and among urban and rural areas.
 
 #### (e) Duration of awards ####
 
-With respect to a grant, contract or cooperative agreement under subsection (a) of this section, the period during which payments under such an award will be made to the recipient may not exceed 5 years.
+With respect to a grant, contract or cooperative agreement under subsection (a), the period during which payments under such an award will be made to the recipient may not exceed 5 years.
 
 #### (f) Evaluation ####
 

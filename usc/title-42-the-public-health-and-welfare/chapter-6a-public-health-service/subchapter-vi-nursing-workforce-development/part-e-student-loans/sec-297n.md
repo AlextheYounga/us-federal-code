@@ -10,13 +10,13 @@ In the case of any individual—
 
 (3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a <sup><a href="#297n_2_target" name="297n_2">2</a></sup> accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty;
 
-the Secretary shall make payments in accordance with subsection (b) of this section, for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
+the Secretary shall make payments in accordance with subsection (b), for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
 
 #### (b) Manner of payments ####
 
-The payments described in subsection (a) of this section shall be made by the Secretary as follows:
+The payments described in subsection (a) shall be made by the Secretary as follows:
 
-(1) Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a) of this section, the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) of this section which is outstanding on the date he began such practice.
+(1) Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date he began such practice.
 
 (2) Upon completion by that individual of the second year of such service, the Secretary shall pay another 30 percent of the principal of, and the interest on each such loan.
 
@@ -24,7 +24,7 @@ The payments described in subsection (a) of this section shall be made by the Se
 
 #### (c) Payment by due date ####
 
-Notwithstanding the requirement of completion of practice specified in subsection (b) of this section, the Secretary shall, on or before the due date thereof, pay any loan or loan installment which may fall due within the period of service for which the borrower may receive payments under this subsection, upon the declaration of such borrower, at such times and in such manner as the Secretary may prescribe (and supported by such other evidence as the Secretary may reasonably require), that the borrower is then serving as described by subsection (a)(3) of this section, and that the borrower will continue to so serve for the period required (in the absence of this subsection) to entitle the borrower to have made the payments provided by this subsection for such period; except that not more than 85 percent of the principal of any such loan shall be paid pursuant to this subsection.
+Notwithstanding the requirement of completion of practice specified in subsection (b), the Secretary shall, on or before the due date thereof, pay any loan or loan installment which may fall due within the period of service for which the borrower may receive payments under this subsection, upon the declaration of such borrower, at such times and in such manner as the Secretary may prescribe (and supported by such other evidence as the Secretary may reasonably require), that the borrower is then serving as described by subsection (a)(3), and that the borrower will continue to so serve for the period required (in the absence of this subsection) to entitle the borrower to have made the payments provided by this subsection for such period; except that not more than 85 percent of the principal of any such loan shall be paid pursuant to this subsection.
 
 #### (d) Scholarship program ####
 
@@ -52,15 +52,15 @@ An individual may complete the period of service described in subparagraph (A) o
 
 #### (4) Applicability of certain provisions ####
 
-The provisions of subpart III of part D of subchapter II of this chapter shall, except as inconsistent with this section, apply to the program established in paragraph (1) in the same manner and to the same extent as such provisions apply to the National Health Service Corps Scholarship Program established in such subpart.
+The provisions of subpart III of part D of subchapter II shall, except as inconsistent with this section, apply to the program established in paragraph (1) in the same manner and to the same extent as such provisions apply to the National Health Service Corps Scholarship Program established in such subpart.
 
 #### (e) Preferences regarding participants ####
 
-In entering into agreements under subsection (a) or (d) of this section, the Secretary shall give preference to qualified applicants with the greatest financial need.
+In entering into agreements under subsection (a) or (d), the Secretary shall give preference to qualified applicants with the greatest financial need.
 
 #### (f) Condition of agreement ####
 
-The Secretary may make payments under subsection (a) of this section on behalf of an individual only if the agreement under such subsection provides that section 298b–7(c) <sup><a href="#297n_1_target" name="297n_1">1</a></sup> of this title is applicable to the individual.
+The Secretary may make payments under subsection (a) on behalf of an individual only if the agreement under such subsection provides that section 298b–7(c) <sup><a href="#297n_1_target" name="297n_1">1</a></sup> of this title is applicable to the individual.
 
 #### (g) Breach of agreement ####
 
@@ -120,11 +120,11 @@ Not later than 18 months after August 1, 2002, and annually thereafter, the Secr
 
 #### (1) Authorization of appropriations ####
 
-For the purpose of payments under agreements entered into under subsection (a) or (d) of this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
+For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
 
 #### (2) Allocations ####
 
-Of the amounts appropriated under paragraph (1), the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) of this section and the program under subsection (d) of this section.
+Of the amounts appropriated under paragraph (1), the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
 
 (July 1, 1944, ch. 373, title VIII, §846, as added Pub. L. 102–408, title II, §211(a)(3), Oct. 13, 1992, 106 Stat. 2078; amended Pub. L. 105–392, title I, §133(d), Nov. 13, 1998, 112 Stat. 3576; Pub. L. 107–205, title I, §103, Aug. 1, 2002, 116 Stat. 813; Pub. L. 111–148, title V, §5310(a), Mar. 23, 2010, 124 Stat. 631.)
 
@@ -152,7 +152,7 @@ Subsec. (a)(3). Pub. L. 107–205, §103(a)(1), substituted "at a health care fa
 
 Subsec. (d). Pub. L. 107–205, §103(b)(4), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Subsec. (e). Pub. L. 107–205, §103(c), substituted "under subsection (a) or (d) of this section, the Secretary shall give preference to qualified applicants with the greatest financial need." for "under subsection (a) of this section, the Secretary shall give preference—
+Subsec. (e). Pub. L. 107–205, §103(c), substituted "under subsection (a) or (d), the Secretary shall give preference to qualified applicants with the greatest financial need." for "under subsection (a), the Secretary shall give preference—
 
 "(1) to qualified applicants with the greatest financial need; and
 

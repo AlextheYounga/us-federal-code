@@ -52,7 +52,7 @@ The Secretary may award grants to or enter into contracts with eligible entities
 
 #### (e) Preference ####
 
-For purposes of any amount of funds appropriated to carry out this section for fiscal year 2003, 2004, or 2005 that is in excess of the amount of funds appropriated to carry out this section for fiscal year 2002, the Secretary shall give preference to awarding grants or entering into contracts under subsections (a)(2) and (c) of this section.
+For purposes of any amount of funds appropriated to carry out this section for fiscal year 2003, 2004, or 2005 that is in excess of the amount of funds appropriated to carry out this section for fiscal year 2002, the Secretary shall give preference to awarding grants or entering into contracts under subsections (a)(2) and (c).
 
 #### (f) Report ####
 

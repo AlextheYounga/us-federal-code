@@ -6,7 +6,7 @@ The Secretary shall award grants, contracts, or cooperative agreements to public
 
 #### (b) Priority ####
 
-In awarding grants, contracts, or cooperative agreements under subsection (a) of this section, the Secretary shall give priority to applicants who demonstrate an ability to—
+In awarding grants, contracts, or cooperative agreements under subsection (a), the Secretary shall give priority to applicants who demonstrate an ability to—
 
 (1) screen for and assess substance use and abuse by children and adolescents;
 
@@ -18,19 +18,19 @@ In awarding grants, contracts, or cooperative agreements under subsection (a) of
 
 #### (c) Condition ####
 
-In awarding grants, contracts, or cooperative agreements under subsection (a) of this section, the Secretary shall ensure that such grants, contracts, or cooperative agreements are allocated, subject to the availability of qualified applicants, among the principal geographic regions of the United States, to Indian tribes and tribal organizations, and to urban and rural areas.
+In awarding grants, contracts, or cooperative agreements under subsection (a), the Secretary shall ensure that such grants, contracts, or cooperative agreements are allocated, subject to the availability of qualified applicants, among the principal geographic regions of the United States, to Indian tribes and tribal organizations, and to urban and rural areas.
 
 #### (d) Duration of grants ####
 
-The Secretary shall award grants, contracts, or cooperative agreements under subsection (a) of this section for periods not to exceed 5 fiscal years.
+The Secretary shall award grants, contracts, or cooperative agreements under subsection (a) for periods not to exceed 5 fiscal years.
 
 #### (e) Application ####
 
-An entity desiring a grant, contract, or cooperative agreement under subsection (a) of this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+An entity desiring a grant, contract, or cooperative agreement under subsection (a) shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
 
 #### (f) Evaluation ####
 
-An entity that receives a grant, contract, or cooperative agreement under subsection (a) of this section shall submit, in the application for such grant, contract, or cooperative agreement, a plan for the evaluation of any project undertaken with funds provided under this section. Such entity shall provide the Secretary with periodic evaluations of the progress of such project and such evaluation at the completion of such project as the Secretary determines to be appropriate.
+An entity that receives a grant, contract, or cooperative agreement under subsection (a) shall submit, in the application for such grant, contract, or cooperative agreement, a plan for the evaluation of any project undertaken with funds provided under this section. Such entity shall provide the Secretary with periodic evaluations of the progress of such project and such evaluation at the completion of such project as the Secretary determines to be appropriate.
 
 #### (g) Authorization of appropriations ####
 

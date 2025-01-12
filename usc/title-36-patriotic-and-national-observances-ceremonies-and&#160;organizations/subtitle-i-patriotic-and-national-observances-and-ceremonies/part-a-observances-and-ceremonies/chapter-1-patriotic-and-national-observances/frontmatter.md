@@ -90,7 +90,11 @@ Sec.
 
 144. Patriot Day.
 
+145. Veterans Day.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–240, §2(b), Oct. 7, 2016, 130 Stat. 974, added item 145.
 
 **2004**—Pub. L. 108–447, div. J, title I, §111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted "Constitution Day and" before "Citizenship Day" in item 106.
 

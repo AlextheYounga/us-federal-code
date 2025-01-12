@@ -10,7 +10,7 @@ Subject to available appropriations, the Secretary, acting through the National 
 
 #### (b) National network to coordinate groups ####
 
-The Secretary shall promote the establishment of a national network to coordinate the family support groups described in subsection (a) of this section.
+The Secretary shall promote the establishment of a national network to coordinate the family support groups described in subsection (a).
 
 (July 1, 1944, ch. 373, title III, §316, as added Pub. L. 99–319, title IV, §401, May 23, 1986, 100 Stat. 489; amended Pub. L. 103–43, title XX, §2008(a), June 10, 1993, 107 Stat. 210.)
 

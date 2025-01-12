@@ -4,7 +4,7 @@
 
 In connection with the offering of any health insurance coverage to a small employer or an individual, a health insurance issuer—
 
-(1) shall make a reasonable disclosure to such employer, or individual, as applicable,,<sup><a href="#300gg-9_1_target" name="300gg-9_1">1</a></sup> as part of its solicitation and sales materials, of the availability of information described in subsection (b) of this section, and
+(1) shall make a reasonable disclosure to such employer, or individual, as applicable,,<sup><a href="#300gg-9_1_target" name="300gg-9_1">1</a></sup> as part of its solicitation and sales materials, of the availability of information described in subsection (b), and
 
 (2) upon request of such a <sup><a href="#300gg-9_2_target" name="300gg-9_2">2</a></sup> employer, or individual, as applicable,,<sup><a href="#300gg-9_1_target" name="300gg-9_1">1</a></sup> provide such information.
 

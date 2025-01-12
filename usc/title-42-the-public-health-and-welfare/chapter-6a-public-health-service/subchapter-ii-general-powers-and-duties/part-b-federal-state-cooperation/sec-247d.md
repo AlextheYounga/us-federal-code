@@ -14,7 +14,7 @@ the Secretary may take such action as may be appropriate to respond to the publi
 
 #### (1) In general ####
 
-There is established in the Treasury a fund to be designated as the "Public Health Emergency Fund" to be made available to the Secretary without fiscal year limitation to carry out subsection (a) of this section only if a public health emergency has been declared by the Secretary under such subsection. There is authorized to be appropriated to the Fund such sums as may be necessary.
+There is established in the Treasury a fund to be designated as the "Public Health Emergency Fund" to be made available to the Secretary without fiscal year limitation to carry out subsection (a) only if a public health emergency has been declared by the Secretary under such subsection. There is authorized to be appropriated to the Fund such sums as may be necessary.
 
 #### (2) Report ####
 
@@ -30,7 +30,7 @@ Funds appropriated under this section shall be used to supplement and not suppla
 
 #### (d) Data submittal and reporting deadlines ####
 
-In any case in which the Secretary determines that, wholly or partially as a result of a public health emergency that has been determined pursuant to subsection (a) of this section, individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension or waiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
+In any case in which the Secretary determines that, wholly or partially as a result of a public health emergency that has been determined pursuant to subsection (a), individuals or public or private entities are unable to comply with deadlines for the submission to the Secretary of data or reports required under any law administered by the Secretary, the Secretary may, notwithstanding any other provision of law, grant such extensions of such deadlines as the circumstances reasonably require, and may waive, wholly or partially, any sanctions otherwise applicable to such failure to comply. Before or promptly after granting such an extension or waiver, the Secretary shall notify the Congress of such action and publish in the Federal Register a notice of the extension or waiver.
 
 #### (e) Temporary reassignment of State and local personnel during a public health emergency ####
 

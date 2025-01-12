@@ -10,7 +10,7 @@ The purpose of the Center is the collection, storage, analysis, retrieval, and d
 
 #### (c) Electronic, convenient format; criteria for inclusion ####
 
-The Director of the Center shall ensure that information under subsection (b) of this section concerning clinical practice guidelines is collected and maintained electronically and in a convenient format. Such Director shall develop and publish criteria for the inclusion of practice guidelines and technology assessments in the information center database.
+The Director of the Center shall ensure that information under subsection (b) concerning clinical practice guidelines is collected and maintained electronically and in a convenient format. Such Director shall develop and publish criteria for the inclusion of practice guidelines and technology assessments in the information center database.
 
 #### (d) Coordination with Director of the Agency for Healthcare Research and Quality ####
 

@@ -52,7 +52,7 @@ An institution of higher education desiring a grant under this section shall pre
 
 #### (1) In general ####
 
-The Secretary may make a grant under this section to an institution of higher education only if the institution agrees to make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for each $1 of Federal funds provided in the grant, toward the costs of activities carried out with the grant (as described in subsection (b) of this section) and other activities by the institution to reduce student mental and behavioral health problems.
+The Secretary may make a grant under this section to an institution of higher education only if the institution agrees to make available (directly or through donations from public or private entities) non-Federal contributions in an amount that is not less than $1 for each $1 of Federal funds provided in the grant, toward the costs of activities carried out with the grant (as described in subsection (b)) and other activities by the institution to reduce student mental and behavioral health problems.
 
 #### (2) Determination of amount contributed ####
 

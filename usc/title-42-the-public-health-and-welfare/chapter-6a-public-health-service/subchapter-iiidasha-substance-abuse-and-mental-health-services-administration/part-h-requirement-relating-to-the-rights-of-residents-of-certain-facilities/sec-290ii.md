@@ -6,7 +6,7 @@ A public or private general hospital, nursing facility, intermediate care facili
 
 #### (b) Requirements ####
 
-Restraints and seclusion may only be imposed on a resident of a facility described in subsection (a) of this section if—
+Restraints and seclusion may only be imposed on a resident of a facility described in subsection (a) if—
 
 (1) the restraints or seclusion are imposed to ensure the physical safety of the resident, a staff member, or others; and
 

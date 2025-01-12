@@ -20,11 +20,11 @@ The Secretary shall ensure that, not later than 18 months after the effective da
 
 #### (b) Progress toward recommendations ####
 
-In fiscal year 2004, the Secretary shall collect information from the States describing the actions taken by the States toward meeting the recommendations specified for the States under subsection (a)(1)(C) of this section.
+In fiscal year 2004, the Secretary shall collect information from the States describing the actions taken by the States toward meeting the recommendations specified for the States under subsection (a)(1)(C).
 
 #### (c) Submission of reports to Congress ####
 
-The Secretary shall submit to the appropriate committees of the Congress reports describing the information collected under subsection (b) of this section.
+The Secretary shall submit to the appropriate committees of the Congress reports describing the information collected under subsection (b).
 
 (July 1, 1944, ch. 373, title XXVI, §2628, as added Pub. L. 106–345, title II, §213, Oct. 20, 2000, 114 Stat. 1342; amended Pub. L. 109–415, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 

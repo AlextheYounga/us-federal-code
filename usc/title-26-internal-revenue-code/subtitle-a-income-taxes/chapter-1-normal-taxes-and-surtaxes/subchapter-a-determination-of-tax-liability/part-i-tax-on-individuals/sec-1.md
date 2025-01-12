@@ -1146,6 +1146,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2016 Amendment ####
 
+Pub. L. 114–239, §1, Oct. 7, 2016, 130 Stat. 973, provided that: "This Act [amending section 74 of this title and enacting provisions set out as a note under section 74 of this title] may be cited as the 'United States Appreciation for Olympians and Paralympians Act of 2016'."
+
 Pub. L. 114–184, §1, June 30, 2016, 130 Stat. 536, provided that: "This Act [amending sections 6103 and 7213 of this title and enacting provisions set out as a note under section 6103 of this title] may be cited as the 'Recovering Missing Children Act'."
 
 Pub. L. 114–141, §1(a), Mar. 30, 2016, 130 Stat. 322, provided that: "This Act [amending sections 4081, 4083, 4261, 4271, and 9502 of this title and sections 106, 41742, 47104, 47107, 47115, 47124, 47141, and 48101 to 48103 of Title 49, Transportation, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2016'."

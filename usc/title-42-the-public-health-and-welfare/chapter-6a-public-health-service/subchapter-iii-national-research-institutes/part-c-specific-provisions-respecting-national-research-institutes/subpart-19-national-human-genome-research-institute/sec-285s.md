@@ -26,9 +26,9 @@ The Director of the Institute may conduct and support research training—
 
 #### (c) Amount available for ethical and legal issues ####
 
-(1) Except as provided in paragraph (2), of the amounts appropriated to carry out subsection (a) of this section for a fiscal year, the Director of the Institute shall make available not less than 5 percent for carrying out paragraph (6) of such subsection.
+(1) Except as provided in paragraph (2), of the amounts appropriated to carry out subsection (a) for a fiscal year, the Director of the Institute shall make available not less than 5 percent for carrying out paragraph (6) of such subsection.
 
-(2) With respect to providing funds under subsection (a)(6) of this section for proposals to address the ethical issues associated with the genome project, paragraph (1) shall not apply for a fiscal year if the Director of the Institute certifies to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, that the Director has determined that an insufficient number of such proposals meet the applicable requirements of sections 289 and 289a of this title.
+(2) With respect to providing funds under subsection (a)(6) for proposals to address the ethical issues associated with the genome project, paragraph (1) shall not apply for a fiscal year if the Director of the Institute certifies to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, that the Director has determined that an insufficient number of such proposals meet the applicable requirements of sections 289 and 289a of this title.
 
 (July 1, 1944, ch. 373, title IV, §464z–1, formerly §485B, as added Pub. L. 103–43, title XV, §1521(2), June 10, 1993, 107 Stat. 180; renumbered §464z–1 and amended Pub. L. 109–482, title I, §101(c)(4), Jan. 15, 2007, 120 Stat. 3681.)
 

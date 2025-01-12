@@ -10,17 +10,17 @@ The Secretary of Health and Human Services (hereafter in this section referred t
 
 #### (b) Limitation ####
 
-The Secretary may make a grant under subsection (a) of this section to an entity only if the entity will provide services under the grant in a geographic area, or to a population of individuals, not served by a program substantially similar to the program described in subsection (a) of this section.
+The Secretary may make a grant under subsection (a) to an entity only if the entity will provide services under the grant in a geographic area, or to a population of individuals, not served by a program substantially similar to the program described in subsection (a).
 
 #### (c) Requirement of matching funds ####
 
-(1) The Secretary may not make a grant under subsection (a) of this section unless the applicant for the grant agrees, with respect to the costs to be incurred by the applicant in carrying out the purpose described in such subsection, to make available, directly or through donations from public or private entities, non-Federal contributions (in cash or in kind under paragraph (2)) toward such costs in an amount equal to not less than $2 for each $1 of Federal funds provided in such payments.
+(1) The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees, with respect to the costs to be incurred by the applicant in carrying out the purpose described in such subsection, to make available, directly or through donations from public or private entities, non-Federal contributions (in cash or in kind under paragraph (2)) toward such costs in an amount equal to not less than $2 for each $1 of Federal funds provided in such payments.
 
 (2) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 #### (d) Requirement of application ####
 
-The Secretary may not make a grant under subsection (a) of this section unless—
+The Secretary may not make a grant under subsection (a) unless—
 
 (1) an application for the grant is submitted to the Secretary;
 

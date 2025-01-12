@@ -8,7 +8,7 @@ The Secretary may award grants to and enter into contracts with eligible entitie
 
 #### (b) Guidance ####
 
-In carrying out subsection (a) of this section, the Secretary shall take into consideration the recommendations of the National Advisory Council on Nurse Education and Practice and consult with nursing associations including the National Coalition of Ethnic Minority Nurse Associations, American <sup><a href="#296m_2_target" name="296m_2">2</a></sup> Nurses Association, the National League for Nursing, the American Association of Colleges of Nursing, the National Black Nurses Association, the National Association of Hispanic Nurses, the Association of Asian American and Pacific Islander Nurses, the Native American Indian and Alaskan Nurses Association, and the National Council of State Boards of Nursing, and other organizations determined appropriate by the Secretary.
+In carrying out subsection (a), the Secretary shall take into consideration the recommendations of the National Advisory Council on Nurse Education and Practice and consult with nursing associations including the National Coalition of Ethnic Minority Nurse Associations, American <sup><a href="#296m_2_target" name="296m_2">2</a></sup> Nurses Association, the National League for Nursing, the American Association of Colleges of Nursing, the National Black Nurses Association, the National Association of Hispanic Nurses, the Association of Asian American and Pacific Islander Nurses, the Native American Indian and Alaskan Nurses Association, and the National Council of State Boards of Nursing, and other organizations determined appropriate by the Secretary.
 
 #### (c) Required information and conditions for award recipients ####
 

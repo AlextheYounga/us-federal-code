@@ -8,7 +8,7 @@ The total principal amount of new loans made and installments paid pursuant to l
 
 #### (1) Limitations regarding lenders, States, or areas ####
 
-The Secretary may, if necessary to assure an equitable distribution of the benefits of this subpart, assign, within the maximum amounts specified in subsection (a) of this section, Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
+The Secretary may, if necessary to assure an equitable distribution of the benefits of this subpart, assign, within the maximum amounts specified in subsection (a), Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
 
 #### (2) Priority for certain lenders ####
 

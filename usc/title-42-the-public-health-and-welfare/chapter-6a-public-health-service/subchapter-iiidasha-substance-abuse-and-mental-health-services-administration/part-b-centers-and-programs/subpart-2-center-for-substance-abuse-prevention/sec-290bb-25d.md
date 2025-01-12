@@ -6,7 +6,7 @@ The Secretary shall make awards of grants, cooperative agreements, or contracts 
 
 #### (b) Use of funds ####
 
-An award under subsection (a) of this section may be used to—
+An award under subsection (a) may be used to—
 
 (1) study adaptations of innovative clinical interventions and service delivery improvements strategies for children and adults with fetal alcohol syndrome or alcohol-related birth defects and their families;
 
@@ -24,7 +24,7 @@ An award under subsection (a) of this section may be used to—
 
 #### (1) In general ####
 
-A recipient of an award under subsection (a) of this section shall at the end of the period of funding report to the Secretary on any innovative techniques that have been discovered for preventing alcohol use among women of child bearing years.
+A recipient of an award under subsection (a) shall at the end of the period of funding report to the Secretary on any innovative techniques that have been discovered for preventing alcohol use among women of child bearing years.
 
 #### (2) Dissemination of findings ####
 
@@ -32,11 +32,11 @@ The Secretary shall upon receiving a report under paragraph (1) disseminate the 
 
 #### (d) Duration of awards ####
 
-With respect to an award under subsection (a) of this section, the period during which payments under such award are made to the recipient may not exceed 5 years.
+With respect to an award under subsection (a), the period during which payments under such award are made to the recipient may not exceed 5 years.
 
 #### (e) Evaluation ####
 
-The Secretary shall evaluate each project carried out under subsection (a) of this section and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+The Secretary shall evaluate each project carried out under subsection (a) and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
 
 #### (f) Authorization of appropriations ####
 

@@ -40,7 +40,7 @@ The Secretary may not enter into a contract under paragraph (1) unless—
 
 #### (5) Applicability of certain provisions ####
 
-The provisions of sections 254m, 254p, and 254q–1 of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter, including the applicability of provisions regarding reimbursements for increased tax liability and regarding bankruptcy.
+The provisions of sections 254m, 254p, and 254q–1 of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II, including the applicability of provisions regarding reimbursements for increased tax liability and regarding bankruptcy.
 
 #### (6) Waiver regarding school contributions ####
 
@@ -96,7 +96,7 @@ For purposes of this subsection, the term "underrepresented minority individuals
 
 #### References in Text ####
 
-Subpart III of part D of subchapter II of this chapter, referred to in subsec. (a)(5), is classified to section 254l et seq. of this title.
+Subpart III of part D of subchapter II, referred to in subsec. (a)(5), is classified to section 254l et seq. of this title.
 
 #### Prior Provisions ####
 
