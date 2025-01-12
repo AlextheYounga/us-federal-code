@@ -10,7 +10,7 @@ Sec.
 
 1704. Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs.
 
-1705. National Drug Control Strategy.
+1705. Development, submission, implementation, and assessment of National Drug Control Strategy.
 
 1706. High Intensity Drug Trafficking Areas Program.
 

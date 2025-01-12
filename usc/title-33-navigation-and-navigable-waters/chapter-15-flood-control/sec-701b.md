@@ -22,20 +22,4 @@ Section 7 of act Aug. 4, 1954, which amended this section by repealing provision
 
 #### Risk-Based Analysis Methodology ####
 
-Pub. L. 104–303, title II, §202(h), Oct. 12, 1996, 110 Stat. 3676, provided that:
-
-"(1) In general.—The Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study of the Corps of Engineers' use of risk-based analysis for the evaluation of hydrology, hydraulics, and economics in flood damage reduction studies. The study shall include—
-
-"(A) an evaluation of the impact of risk-based analysis on project formulation, project economic justification, and minimum engineering and safety standards; and
-
-"(B) a review of studies conducted using risk-based analysis to determine—
-
-"(i) the scientific validity of applying risk-based analysis in these studies; and
-
-"(ii) the impact of using risk-based analysis as it relates to current policy and procedures of the Corps of Engineers.
-
-"(2) Report.—Not later than 18 months after the date of the enactment of this Act [Oct. 12, 1996], the Secretary shall submit to Congress a report on the results of the study under paragraph (1), as well as such recommendations as the Secretary considers appropriate.
-
-"(3) Limitation on use of methodology.—During the period beginning on the date of the enactment of this Act [Oct. 12, 1996] and ending 18 months after that date, if requested by a non-Federal interest, the Secretary shall refrain from using any risk-based technique required under the studies described in paragraph (1) for the evaluation and design of a project.
-
-"(4) Authorization of appropriations.—There is authorized to be appropriated $250,000 to carry out this subsection."
+Pub. L. 104–303, title II, §202(h), Oct. 12, 1996, 110 Stat. 3676, required the Secretary to enter into an agreement with the National Academy of Sciences to conduct a study of the Corps of Engineers' use of risk-based analysis for the evaluation of hydrology, hydraulics, and economics in flood damage reduction studies and, not later than 18 months after Oct. 12, 1996, to submit to Congress a report on the results of the study as well as such recommendations as the Secretary considered appropriate.

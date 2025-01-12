@@ -316,7 +316,7 @@ Pub. L. 115–91, div. A, title XI, §1101, Dec. 12, 2017, 131 Stat. 1627, provi
 
 "(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-"(B) the Committee on Armed Services and the Committee on Government Oversight and Reform of the House of Representatives.
+"(B) the Committee on Armed Services and the Committee on Government Oversight and Reform [probably means Committee on Oversight and Government Reform, now Committee on Oversight and Reform] of the House of Representatives.
 
 "(f) Sunset.—
 

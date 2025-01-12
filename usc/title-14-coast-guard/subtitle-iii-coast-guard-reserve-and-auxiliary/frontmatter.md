@@ -5,6 +5,8 @@ Chap. Sec.
 
 37. Coast Guard Reserve 3701
 
+39. Coast Guard Auxiliary 3901
+
 41. General Provisions for Coast Guard Reserve and Auxiliary 4101
 
 #### Amendments ####

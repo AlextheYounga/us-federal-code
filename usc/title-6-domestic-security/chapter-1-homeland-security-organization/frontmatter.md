@@ -150,6 +150,8 @@ Sec.
 
 204. Surface Transportation Security Advisory Committee.
 
+205. Ombudsman for immigration detention.
+
 #### Part B—U.S. Customs and Border Protection ####
 
 211. Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices.
@@ -699,6 +701,8 @@ Sec.
 608. Prioritization.
 
 609. Use of funds.
+
+609a. Nonprofit Security Grant Program.
 
 #### Part B—Grants Administration ####
 

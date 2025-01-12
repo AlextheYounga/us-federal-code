@@ -68,6 +68,8 @@ Sec.
 
 1521. Working capital fund; establishment; amount; uses; reimbursement.
 
+1521a. Department of Commerce Nonrecurring Expenses Fund.
+
 1522. Acceptance of gifts and bequests for purposes of the Department; separate fund; disbursements.
 
 1523. Tax status of gifts and bequests of property.

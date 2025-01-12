@@ -80,6 +80,8 @@ Sec.
 
 2148. Separation for failure of selection for promotion or continuation; time of.
 
+2149. Regular captains; retirement.
+
 2150. Captains; continuation on active duty; involuntary retirement.
 
 2151. Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement.

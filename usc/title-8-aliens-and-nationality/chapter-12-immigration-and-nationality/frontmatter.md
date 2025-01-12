@@ -312,6 +312,8 @@ Sec.
 
 1377. Collection of data on detained asylum seekers.
 
+1377a. Report on aliens determined to have credible or reasonable fear of persecution or torture.
+
 1378. Collection of data on other detained aliens.
 
 1378a. Report on aliens detained.

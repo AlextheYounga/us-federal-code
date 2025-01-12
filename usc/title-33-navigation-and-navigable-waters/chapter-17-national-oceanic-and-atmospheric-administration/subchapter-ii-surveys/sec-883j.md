@@ -14,20 +14,6 @@ Functions of Secretary and other officers of Department of Commerce under this s
 
 #### Report on Satellite Oceanography ####
 
-Pub. L. 102–567, title I, §116, Oct. 29, 1992, 106 Stat. 4279, provided that:
-
-"(a) In General.—The Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, in consultation with Federal, academic, and commercial users of remotely sensed data, shall consider and develop findings and recommendations regarding—
-
-"(1) the most urgent current needs of oceanographic researchers within the Federal Government, the academic community, and the private sector, for remote sensing capabilities and remotely sensed data, including findings regarding the present inadequacies in these capabilities and data; and
-
-"(2) the major goals of satellite oceanography for the next 10 years.
-
-"(b) Report.—Not later than one year after the date of enactment of this Act [Oct. 29, 1992], the Federal Coordinating Council for Science, Engineering, and Technology shall submit to the Congress a report which describes the findings and recommendations of the Committee on Earth and Environmental Sciences, including recommendations for, or a description of actions to be taken toward—
-
-"(1) correcting the inadequacies in remote sensing capabilities;
-
-"(2) improving the availability of remotely sensed data; and
-
-"(3) achieving the major goals of satellite oceanography developed pursuant to subsection (a)(2)."
+Pub. L. 102–567, title I, §116, Oct. 29, 1992, 106 Stat. 4279, directed the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, in consultation with Federal, academic, and commercial users of remotely sensed data, to consider and develop findings and recommendations regarding the most urgent current needs of oceanographic researchers for remote sensing capabilities and remotely sensed data and the major goals of satellite oceanography for the next 10 years, and, not later than one year after Oct. 29, 1992, to submit to Congress a report which described the findings and recommendations of the Committee.
 
 [<sup>1</sup> See References in Text note below.](#883j_1)

@@ -154,4 +154,6 @@ Sec. 8. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
+[Ex. Ord. No. 13839, set out above, construed to be amended to the extent necessary, by Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, set out as a note under section 7101 of this title.]
+
 [<sup>1</sup> So in original. Does not conform to subchapter heading.](#CHAPTER75_1)

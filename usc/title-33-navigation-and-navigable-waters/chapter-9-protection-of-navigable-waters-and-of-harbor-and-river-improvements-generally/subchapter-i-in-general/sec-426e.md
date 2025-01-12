@@ -108,55 +108,15 @@ Pub. L. 106–541, title II, §220, Dec. 11, 2000, 114 Stat. 2596, provided that
 
 #### Shore Management Program ####
 
-Pub. L. 106–53, title II, §213, Aug. 17, 1999, 113 Stat. 291, provided that:
-
-"(a) Review.—The Secretary shall review the implementation of the Corps of Engineers shore management program, with particular attention to—
-
-"(1) inconsistencies in implementation among the divisions and districts of the Corps of Engineers; and
-
-"(2) complaints by or potential inequities regarding property owners in the Savannah District, including an accounting of the number and disposition of complaints in the Savannah District during the 5-year period preceding the date of enactment of this Act [Aug. 17, 1999].
-
-"(b) Report.—As expeditiously as practicable, but not later than 1 year after the date of enactment of this Act [Aug. 17, 1999], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the results of the review under subsection (a)."
+Pub. L. 106–53, title II, §213, Aug. 17, 1999, 113 Stat. 291, required the Secretary to review the implementation of the Corps of Engineers shore management program, with particular attention to inconsistencies in implementation among the divisions and districts of the Corps of Engineers and complaints by or potential inequities regarding property owners in the Savannah District during the 5-year period preceding Aug. 17, 1999, and directed the Secrretary to submit to Congress a report of the review by Aug. 17, 1999.
 
 #### Report on Shores of the United States ####
 
-Pub. L. 106–53, title II, §215(c), Aug. 17, 1999, 113 Stat. 293, provided that:
-
-"(1) In general.—Not later than 3 years after the date of enactment of this Act [Aug. 17, 1999], the Secretary shall report to Congress on the state of the shores of the United States.
-
-"(2) Contents.—The report shall include—
-
-"(A) a description of—
-
-"(i) the extent of, and economic and environmental effects caused by, erosion and accretion along the shores of the United States; and
-
-"(ii) the causes of such erosion and accretion;
-
-"(B) a description of resources committed by Federal, State, and local governments to restore and renourish shores;
-
-"(C) a description of the systematic movement of sand along the shores of the United States; and
-
-"(D) recommendations regarding—
-
-"(i) appropriate levels of Federal and non-Federal participation in shore protection; and
-
-"(ii) use of a systems approach to sand management.
-
-"(3) Use of specific location data.—In developing the report, the Secretary shall use data from specific locations on the coasts of the Atlantic Ocean, Pacific Ocean, Great Lakes, and Gulf of Mexico."
+Pub. L. 106–53, title II, §215(c), Aug. 17, 1999, 113 Stat. 293, required the Secretary to report to Congress, not later than 3 years after Aug. 17, 1999, on the state of the shores of the United States and specified the contents of such report and the use of specific location data.
 
 #### Report to Congress on Shoreline Protection Programs ####
 
-Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided that: "Not later than 1 year after the date of the enactment of this Act [Nov. 28, 1990], the Secretary shall transmit to Congress a report on the advisability of not participating in the planning, implementation, or maintenance of any beach stabilization or renourishment project involving Federal funds unless the State in which the proposed project will be located has established or committed to establish a beach front management program that includes—
-
-"(1) restrictions on new development seaward of an erosion setback line (based on preproject beach size) of at least 30 times the annual erosion rate;
-
-"(2) restrictions on construction of new structural stabilization projects, such as seawalls and groins, and their reconstruction if damaged by 50 percent or more;
-
-"(3) provisions for the relocation of structures in erosion-prone areas;
-
-"(4) provisions to assure public access to beaches stabilized or renourished with Federal funds after January 1, 1991; and
-
-"(5) such other provisions as the Secretary may prescribe by regulation to prevent hazardous or environmentally damaging shoreline development."
+Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided that not later than 1 year after Nov. 28, 1990, the Secretary was to transmit to Congress a report on the advisability of not participating in the planning, implementation, or maintenance of any beach stabilization or renourishment project involving Federal funds unless the State in which the proposed project would be located had established or committed to establish a beach front management program, which included specified restrictions and other regulatory provisions.
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#426e_1)
 
