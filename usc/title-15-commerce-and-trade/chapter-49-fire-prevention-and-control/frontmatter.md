@@ -81,3 +81,5 @@ Sec.
 2233. Removal of civil liability barriers that discourage the donation of fire equipment to volunteer fire companies.
 
 2234. Encouraging adoption of standards for firefighter health and safety.
+
+2235. Investigation authorities.

@@ -8,7 +8,7 @@ For the purposes of this subchapter and the Migratory Bird Treaty Act (16 U.S.C.
 
 #### References in Text ####
 
-The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of this chapter. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§703 et seq.) of this chapter. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 #### Amendments ####
 

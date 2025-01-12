@@ -96,7 +96,7 @@ Sec.
 
 791. Advance contracting.
 
-792. Limitations on tiering of subcontractors.
+792. Repealed.
 
 793. Oversight and accountability of Federal disaster expenditures.
 

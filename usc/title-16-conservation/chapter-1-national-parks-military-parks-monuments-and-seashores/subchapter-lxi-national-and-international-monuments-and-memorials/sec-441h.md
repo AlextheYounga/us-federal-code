@@ -8,7 +8,7 @@ Administrative jurisdiction over all Federal lands eliminated from the park, by 
 
 #### References in Text ####
 
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. Title IV thereof, referred to in text, which was classified to sections 1014 to 1029 of title 7, was repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, and by Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. Title IV thereof, referred to in text, which was classified to sections 1014 to 1029 of title 7, was repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, and by Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

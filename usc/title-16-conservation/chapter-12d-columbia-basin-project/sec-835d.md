@@ -10,7 +10,7 @@ The Secretary of the Interior, in lieu of reserving rights of hunting, fishing, 
 
 #### References in Text ####
 
-Act of August 30, 1935 (49 Stat. 1028), referred to in text, is act Aug. 30, 1935, ch. 831, 49 Stat. 1028, as amended, which act, by section 2, authorized the construction of the Grand Coulee Dam.
+Act of August 30, 1935 (49 Stat. 1028), referred to in text, is act Aug. 30, 1935, ch. 831, 49 Stat. 1028, which act, by section 2, authorized the construction of the Grand Coulee Dam.
 
 Act of August 4, 1939, referred to in text, is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, popularly known as the "Reclamation Project Act of 1939", which is classified to sections 375a, 387 to 389, 485 to 485h, and 485i to 485k of Title 43, Public Lands. For complete classification of this Act to the Code, see section 485k of Title 43 and Tables.
 

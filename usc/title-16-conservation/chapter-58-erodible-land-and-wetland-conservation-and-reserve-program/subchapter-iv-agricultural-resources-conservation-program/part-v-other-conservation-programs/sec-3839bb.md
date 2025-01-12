@@ -144,7 +144,7 @@ There is authorized to be appropriated to carry out this section $60,000,000 for
 
 #### References in Text ####
 
-The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
+The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
 
 #### Codification ####
 

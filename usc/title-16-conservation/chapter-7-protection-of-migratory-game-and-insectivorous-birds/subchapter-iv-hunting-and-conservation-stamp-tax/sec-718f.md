@@ -8,7 +8,7 @@ For the efficient execution of this subchapter, the judges of the several courts
 
 #### References in Text ####
 
-The Migratory Bird Treaty Act, and "that Act", referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, and "that Act", referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 #### Amendments ####
 

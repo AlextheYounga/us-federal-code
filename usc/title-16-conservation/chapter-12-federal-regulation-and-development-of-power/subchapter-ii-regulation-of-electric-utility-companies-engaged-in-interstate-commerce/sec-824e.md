@@ -44,7 +44,7 @@ The Commission upon its own motion, or upon the request of any State commission 
 
 #### References in Text ####
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 

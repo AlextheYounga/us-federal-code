@@ -86,19 +86,19 @@ Subject to valid existing rights, all public lands within the scenic area admini
 
 #### References in Text ####
 
-The Mineral Lands Leasing Act of 1920, referred to in subsec. (e)(2)(A)(ii), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Lands Leasing Act of 1920, referred to in subsec. (e)(2)(A)(ii), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 Act of June 9, 1916, referred to in subsec. (e)(2)(A)(ii), is act June 9, 1916, ch. 137, 39 Stat. 218, which is not classified to the Code.
 
 Act of Feb. 26, 1919, referred to in subsec. (e)(2)(A)(ii), is act Feb. 26, 1919, ch. 47, 40 Stat. 1179, which is not classified to the Code.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
 The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed The Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of The Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Robert T. Stafford Disaster Relief and Emergency Assistance Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
 
 Section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103), referred to in subsec. (e)(3)(D)(v), was repealed by Pub. L. 103–325, title V, §551(a), Sept. 23, 1994, 108 Stat. 2269.
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 #### Amendments ####
 

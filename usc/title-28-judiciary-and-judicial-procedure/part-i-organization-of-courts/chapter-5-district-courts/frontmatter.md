@@ -153,3 +153,65 @@ All references to fixed terms of holding court were also omitted in order to ves
 #### Short Title of 1978 Amendment ####
 
 For short title of Pub. L. 95–408, Oct. 2, 1978, 92 Stat. 883, as "Federal District Court Organization Act of 1978", see note set out under section 1 of this title.
+
+#### Pro Bono Work To Empower and Represent Victims of Domestic Violence, Dating Violence, Sexual Assault, and Stalking ####
+
+Pub. L. 115–237, Sept. 4, 2018, 132 Stat. 2447, as amended by Pub. L. 117–252, §2, Dec. 20, 2022, 136 Stat. 2359, provided that:
+
+#### "SECTION 1. SHORT TITLE. ####
+
+"This Act may be cited as the 'Pro bono Work to Empower and Represent Act of 2018' or the 'POWER Act'.
+
+#### "SEC. 2. FINDINGS. ####
+
+"Congress finds the following:
+
+"(1)	Extremely high rates of domestic violence, dating violence, sexual assault, and stalking exist at the local, State, tribal, and national levels and such violence or behavior harms the most vulnerable members of our society.
+
+"(2)	According to a study commissioned by the Department of Justice, nearly 25 percent of women suffer from domestic violence during their lifetime.
+
+"(3)	Proactive efforts should be made available in all forums to provide pro bono legal services and eliminate the violence that destroys lives and shatters families.
+
+"(4)	A variety of factors cause domestic violence, dating violence, sexual assault, and stalking, and a variety of solutions at the local, State, and national levels are necessary to combat such violence or behavior.
+
+"(5)	According to the National Network to End Domestic Violence, which conducted a census including almost 1,700 assistance programs, over the course of 1 day in September 2014, more than 10,000 requests for services, including legal representation, were not met.
+
+"(6)	Pro bono assistance can help fill this need by providing not only legal representation, but also access to emergency shelter, transportation, and childcare.
+
+"(7)	Research and studies have demonstrated that the provision of legal assistance to victims of domestic violence, dating violence, sexual assault, and stalking reduces the probability of such violence or behavior reoccurring in the future and can help survivors move forward.
+
+"(8)	Legal representation increases the possibility of successfully obtaining a protective order against an attacker, which prevents further mental and physical injury to a victim and his or her family, as demonstrated by a study that found that 83 percent of victims represented by an attorney were able to obtain a protective order, whereas only 32 percent of victims without an attorney were able to do so.
+
+"(9) The American Bar Association Model Rules include commentary stating that 'every lawyer, regardless of professional prominence or professional workload, has a responsibility to provide legal services to those unable to pay, and personal involvement in the problems of the disadvantaged can be one of the most rewarding experiences in the life of a lawyer.
+
+"(10) As leaders in their legal communities, judges in district courts should encourage lawyers to provide pro bono resources in an effort to help victims of such violence or behavior escape the cycle of abuse.
+
+"(11) A dedicated army of pro bono attorneys focused on this mission will inspire others to devote efforts to this cause and will raise awareness of the scourge of domestic violence, dating violence, sexual assault, and stalking throughout the country.
+
+"(12) Communities, by providing awareness of pro bono legal services and assistance to survivors of domestic violence, dating violence, sexual assault, and stalking, will empower those survivors to move forward with their lives.
+
+#### "SEC. 3. DISTRICT COURTS TO PROMOTE EMPOWERMENT EVENTS. ####
+
+"(a) In General.—Not later than 1 year after the date of the enactment of this Act [Sept. 4, 2018], and annually thereafter, the chief judge, or his or her designee, for each judicial district shall lead not less than one public event, in partnership with a State, local, tribal, or territorial domestic violence service provider or coalition and a State or local volunteer lawyer project, promoting pro bono legal services as a critical way in which to empower survivors of domestic violence, dating violence, sexual assault, and stalking and engage citizens in assisting those survivors.
+
+"(b) Districts Containing Indian Tribes and Tribal Organizations.—During each 2-year period, the chief judge, or his or her designee, for a judicial district that contains an Indian tribe or tribal organization (as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) shall lead not less than one public event promoting pro bono legal services under subsection (a) of this section in partnership with an Indian tribe or tribal organization with the intent of increasing the provision of pro bono legal services for Indian or Alaska Native victims of domestic violence, dating violence, sexual assault, and stalking.
+
+"(c) Requirements.—Each chief judge shall—
+
+"(1) have discretion as to the design, organization, and implementation of the public events required under subsection (a); and
+
+"(2) in conducting a public event under subsection (a), seek to maximize the local impact of the event and the provision of access to high quality pro bono legal services by survivors of domestic violence, dating violence, sexual assault, and stalking.
+
+#### "SEC. 4. REPORTING REQUIREMENTS. ####
+
+"(a) Report to the Director of the Administrative Office of the United States Courts.—Not later than October 30 of each year, each chief judge shall submit to the Director of the Administrative Office of the United States Courts a report detailing each public event conducted under section 3 during the previous fiscal year.
+
+"(b)Report to Congress.—
+
+"(1) In general.—Not later than January 1 of each year, the Director of the Administrative Office of the United States Courts shall submit to Congress a compilation and summary of each report received under subsection (a) for the previous fiscal year.
+
+"(2) Requirement.—Each comprehensive report submitted under paragraph (1) shall include an analysis of how each public event meets the goals set forth in this Act as well as suggestions on how to improve future public events.
+
+#### "SEC. 5. FUNDING. ####
+
+"The Administrative Office of the United States Courts shall use existing funds to carry out the requirements of this Act."

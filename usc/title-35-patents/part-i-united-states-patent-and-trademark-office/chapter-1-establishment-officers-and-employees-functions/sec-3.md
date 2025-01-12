@@ -134,7 +134,7 @@ Subsecs. (b), (c). Pub. L. 93–601 designated second and third pars. as subsecs
 
 **1958**—Pub. L. 85–933 increased number of examiners-in-chief from nine to not more than fifteen and specified annual compensation of Commissioner.
 
-#### **Statutory Notes and Related Subsidiairies** ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

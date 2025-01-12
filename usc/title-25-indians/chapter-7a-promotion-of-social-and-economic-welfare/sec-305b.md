@@ -8,7 +8,7 @@ The Board shall prescribe from time to time rules and regulations governing the 
 
 #### References in Text ####
 
-This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as amended, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 

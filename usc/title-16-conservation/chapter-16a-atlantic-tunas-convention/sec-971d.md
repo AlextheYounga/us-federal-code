@@ -86,7 +86,7 @@ except that no regulation promulgated under this section may have the effect of 
 
 #### References in Text ####
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1), was subsequently amended, and section 3(16) no longer defines the term "large-scale driftnet fishing". However, such term is defined elsewhere in that section.
 

@@ -64,7 +64,7 @@ The exact acreage and legal description of the real property to be transferred p
 
 #### References in Text ####
 
-Act of July 23, 1942, referred to in subsec. (a), is act July 23, 1942, ch. 520, 56 Stat. 703, as amended. See National Defense Pipe Lines note set out preceding section 715 of Title 15, Commerce and Trade.
+Act of July 23, 1942, referred to in subsec. (a), is act July 23, 1942, ch. 520, 56 Stat. 703. See National Defense Pipe Lines note set out preceding section 715 of Title 15, Commerce and Trade.
 
 #### Amendments ####
 

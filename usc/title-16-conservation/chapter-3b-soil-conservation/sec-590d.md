@@ -16,7 +16,7 @@ For the purposes of this chapter, the Secretary of Agriculture may—
 
 The National Industrial Recovery Act, referred to in par. (2), is act June 16, 1933, ch. 90, 48 Stat. 195, which was classified generally to subchapter I (§401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943, by act June 27, 1942, ch. 450, §1, 56 Stat. 410. Provisions of the Act that were classified to former Title 40 were repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
 
-The Classification Act, as amended, referred to in par. (2), is the Classification Act of 1923 (approved Mar. 4, 1923, ch. 265, 42 Stat. 1488), which was repealed by section 1202 of the Classification Act of 1949 (approved Oct. 28, 1949, ch. 782, 63 Stat. 972).
+The Classification Act, referred to in par. (2), is the Classification Act of 1923 (approved Mar. 4, 1923, ch. 265, 42 Stat. 1488), which was repealed by section 1202 of the Classification Act of 1949 (approved Oct. 28, 1949, ch. 782, 63 Stat. 972).
 
 #### Codification ####
 

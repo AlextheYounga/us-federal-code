@@ -38,6 +38,8 @@ Sec.
 
 1525. Termination.
 
+1526. Inventory of cryptographic systems; migration to post-quantum cryptography.
+
 #### SUBCHAPTER III—OTHER CYBER MATTERS ####
 
 1531. Apprehension and prosecution of international cyber criminals.

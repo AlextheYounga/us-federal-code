@@ -78,9 +78,9 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### References in Text ####
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987, as amended. For complete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987. For complete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments ####
 

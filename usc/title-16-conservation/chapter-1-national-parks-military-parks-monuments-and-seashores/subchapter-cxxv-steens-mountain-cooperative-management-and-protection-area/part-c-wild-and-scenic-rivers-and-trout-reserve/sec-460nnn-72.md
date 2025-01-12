@@ -52,6 +52,6 @@ The Secretary may work with, provide technical assistance to, provide community 
 
 #### References in Text ####
 
-The Wilderness Act, referred to in subsec. (e)(1), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (e)(1), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
-The Wild and Scenic Rivers Act, referred to in subsec. (e)(1), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
+The Wild and Scenic Rivers Act, referred to in subsec. (e)(1), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.

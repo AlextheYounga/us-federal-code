@@ -22,6 +22,8 @@ Sec.
 
 5135. Grants to entities for establishment of hazard mitigation revolving loan funds.
 
+5136. Natural hazard risk assessment.
+
 #### SUBCHAPTER III—MAJOR DISASTER AND EMERGENCY ASSISTANCE ADMINISTRATION ####
 
 5141. Waiver of administrative conditions.

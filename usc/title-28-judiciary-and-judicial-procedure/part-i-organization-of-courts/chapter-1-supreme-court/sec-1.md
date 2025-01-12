@@ -12,6 +12,10 @@ Appointment of "judges of the Supreme Court" by the President by and with the ad
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–252, §1, Dec. 20, 2022, 136 Stat. 2359, provided that: "This Act [amending provisions set out as a note preceding section 81 of this title] may be cited as the 'Pro bono Work to Empower and Represent Act of 2021' or the 'POWER 2.0 Act'."
+
 #### Short Title of 2021 Amendment ####
 
 Pub. L. 116–325, §1, Jan. 12, 2021, 134 Stat. 5086, provided that: "This Act [amending sections 375, 589a, and 1930 of this title and section 330 of Title 11, Bankruptcy, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and section 330 of Title 11] may be cited as the 'Bankruptcy Administration Improvement Act of 2020'."

@@ -8,7 +8,7 @@ The Secretary of the Interior is authorized to make further adjustments in the b
 
 #### References in Text ####
 
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
 
 #### Codification ####
 

@@ -8,7 +8,7 @@ The Indians or persons conducting schools or missions in the Territory of Alaska
 
 #### References in Text ####
 
-This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321, as amended. For complete classification of Title I of this act to the Code, see Tables. Title III of this act provided for the Alaska Civil Code.
+This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321. For complete classification of Title I of this act to the Code, see Tables. Title III of this act provided for the Alaska Civil Code.
 
 #### Codification ####
 

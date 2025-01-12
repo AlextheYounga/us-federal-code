@@ -64,7 +64,7 @@ Congress—
 
 #### References in Text ####
 
-The Wilderness Act, referred to in subsecs. (a), (b), (d), (e)(2), and (f), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsecs. (a), (b), (d), (e)(2), and (f), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The effective date of the Wilderness Act, referred to in subsec. (b), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 

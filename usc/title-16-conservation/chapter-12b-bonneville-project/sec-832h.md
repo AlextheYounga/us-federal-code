@@ -14,7 +14,7 @@ The administrator may make such expenditures for offices, vehicles, furnishings,
 
 #### References in Text ####
 
-Federal Power Act, referred to in subsec. (a), was in the original the "Federal Water Power Act", and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+Federal Power Act, referred to in subsec. (a), was in the original the "Federal Water Power Act", and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Amendments ####
 

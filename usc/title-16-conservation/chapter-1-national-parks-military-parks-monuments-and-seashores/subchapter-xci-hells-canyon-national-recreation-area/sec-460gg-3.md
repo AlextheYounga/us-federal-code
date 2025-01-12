@@ -14,4 +14,4 @@ No flow requirements of any kind may be imposed on the waters of the Snake River
 
 #### References in Text ####
 
-The Wild and Scenic Rivers Act, referred to in text, is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
+The Wild and Scenic Rivers Act, referred to in text, is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.

@@ -42,4 +42,4 @@ Not later than 24 months after the effective date of the transfer, the Chairman 
 
 #### References in Text ####
 
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (b), is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to chapter 12A (§831 et seq.) of this title. For complete classification of this Act to the Code, see section 831 of this title and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (b), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§831 et seq.) of this title. For complete classification of this Act to the Code, see section 831 of this title and Tables.

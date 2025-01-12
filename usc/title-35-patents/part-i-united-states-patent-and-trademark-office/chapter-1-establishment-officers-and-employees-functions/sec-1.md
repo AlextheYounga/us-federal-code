@@ -44,6 +44,10 @@ Pub. L. 106–113, div. B, §1000(a)(9) [title IV, subtitle G, §4731], Nov. 29,
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–245, §1, Dec. 20, 2022, 136 Stat. 2343, provided that: "This Act [enacting section 28 of this title and provisions set out as a note under section 28 of this title] may be cited as the 'Patents for Humanity Act of 2022'."
+
 #### Short Title of 2018 Amendment ####
 
 Pub. L. 115–273, §1, Oct. 31, 2018, 132 Stat. 4158, provided that: "This Act [amending provisions set out as a note under section 41 of this title] may be cited as the 'Study of Underrepresented Classes Chasing Engineering and Science Success Act of 2018' or the 'SUCCESS Act'."

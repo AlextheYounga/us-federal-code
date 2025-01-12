@@ -30,9 +30,9 @@ The provisions of subsection (a) shall not apply to those portions of tributary 
 
 Subsection (c) or (d) of this section, referred to in subsec. (a)(1), is subsec. (c) or (d) of section 13 of Pub. L. 99–663, Nov. 17, 1986, 100 Stat. 4294, which amended sections 1274(a) and 1276(a), respectively, of this title.
 
-The National Forest Management Act of 1976, referred to in subsec. (a)(3)(A), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+The National Forest Management Act of 1976, referred to in subsec. (a)(3)(A), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
-The Wild and Scenic Rivers Act, referred to in subsec. (a)(3)(B), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
+The Wild and Scenic Rivers Act, referred to in subsec. (a)(3)(B), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
 
 #### Codification ####
 

@@ -60,7 +60,7 @@ Within the conservation area the Secretary may permit the use of gravel pits for
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Materials Act of 1947, referred to in subsec. (h), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+The Materials Act of 1947, referred to in subsec. (h), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
 #### Amendments ####
 

@@ -8,7 +8,7 @@ After September 30, 1985, no part of any appropriation (except trust funds) to t
 
 #### References in Text ####
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Sections 6(b)(2), 6(i), and 9(b) of the Maine Indian Claims Settlement Act of 1980, referred to in text, are sections 6(b)(2), (i) and 9(b) of Pub. L. 96–420, which were classified to sections 1725(b)(2), (i) and 1728(b) of this title prior to omission from the Code as being of special and not general application.
 

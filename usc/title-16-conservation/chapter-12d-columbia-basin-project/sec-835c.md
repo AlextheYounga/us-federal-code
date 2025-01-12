@@ -16,7 +16,7 @@ Contracts, exchanges, and leases made under this section shall be on terms that,
 
 This Act, referred to in subsec. (a), is act May 27, 1937, ch. 269, as amended generally by act Mar. 10, 1943, ch. 14, 57 Stat. 14, known as The Columbia Basin Project Act, which enacted this section, sections 835, 835a, 835b, and 835c–1 to 835c–5 of this title, and provisions set out as a note under section 835 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 835 of this title and Tables.
 
-Act of August 13, 1953, referred to in text, is act Aug. 13, 1953, ch. 428, 67 Stat. 566, as amended, which is classified generally to subchapter VII (§451 et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.
+Act of August 13, 1953, referred to in text, is act Aug. 13, 1953, ch. 428, 67 Stat. 566, which is classified generally to subchapter VII (§451 et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 

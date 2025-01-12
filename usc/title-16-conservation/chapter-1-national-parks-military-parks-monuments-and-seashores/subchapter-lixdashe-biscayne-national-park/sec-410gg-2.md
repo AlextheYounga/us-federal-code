@@ -14,6 +14,6 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4), referred to in subse
 
 The effective date of this subchapter, referred to in subsec. (a), probably means the date of enactment of Pub. L. 96–287, which was approved on June 28, 1980.
 
-Act of October 18, 1968, referred to in subsec. (b), is Pub. L. 90–606, Oct. 18, 1968, 82 Stat. 1188, as amended, which was classified to sections 450qq to 450qq–4 of this title, and was omitted from the Code in view of the abolition of the Biscayne National Monument and its incorporation within the Biscayne National Park pursuant to subsec. (b).
+Act of October 18, 1968, referred to in subsec. (b), is Pub. L. 90–606, Oct. 18, 1968, 82 Stat. 1188, which was classified to sections 450qq to 450qq–4 of this title, and was omitted from the Code in view of the abolition of the Biscayne National Monument and its incorporation within the Biscayne National Park pursuant to subsec. (b).
 
 [<sup>1</sup> See References in Text note below.](#410gg-2_1)

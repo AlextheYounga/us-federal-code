@@ -8,7 +8,7 @@ Land allotted to any applicant for enrollment as a citizen in the Five Civilized
 
 #### References in Text ####
 
-Act of March third, nineteen hundred and eleven, referred to in text, is act Mar. 3, 1911, ch. 210, 36 Stat. 1060, as amended, which, insofar as classified to the Code, enacted sections 11, 118, 143, 156, 300, and 301 of this title. For classification of this Act to the Code, see Tables.
+Act of March third, nineteen hundred and eleven, referred to in text, is act Mar. 3, 1911, ch. 210, 36 Stat. 1060, which, insofar as classified to the Code, enacted sections 11, 118, 143, 156, 300, and 301 of this title. For classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 

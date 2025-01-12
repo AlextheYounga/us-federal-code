@@ -10,4 +10,4 @@ Except as provided in section 410aaa–26 of this title, none of the lands withi
 
 This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.
 
-The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see section 617t of Title 43 and Tables.
+The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see section 617t of Title 43 and Tables.

@@ -46,7 +46,7 @@
 
 #### References in Text ####
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 #### Codification ####
 

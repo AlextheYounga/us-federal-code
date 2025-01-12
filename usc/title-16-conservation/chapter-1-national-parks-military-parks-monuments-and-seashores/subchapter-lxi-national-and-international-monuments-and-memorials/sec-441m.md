@@ -22,7 +22,7 @@ Purchases under subsection (b) and clause (ii) of subsection (c) of this section
 
 #### References in Text ####
 
-The National Industrial Recovery Act of June 16, 1933, referred to in subsec. (a), is act June 16, 1933, ch. 90, 48 Stat. 195, as amended. Title II of the Act was classified principally to subchapter I (§401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943 by act June 27, 1942, ch. 450, §1, 56 Stat. 410. Provisions of title II of the Act which were classified to former Title 40 were repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
+The National Industrial Recovery Act of June 16, 1933, referred to in subsec. (a), is act June 16, 1933, ch. 90, 48 Stat. 195. Title II of the Act was classified principally to subchapter I (§401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943 by act June 27, 1942, ch. 450, §1, 56 Stat. 410. Provisions of title II of the Act which were classified to former Title 40 were repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Numbered 7868, dated April 15, 1938, referred to in subsec. (a), was not classified to the Code.
 

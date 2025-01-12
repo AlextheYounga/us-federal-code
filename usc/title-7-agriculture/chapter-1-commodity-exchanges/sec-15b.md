@@ -4,9 +4,7 @@
 
 This section may be cited as the "United States Cotton Futures Act".
 
-#### (b) Repeal of tax on cotton futures ####
-
-Subchapter D of chapter 39 of title 26 (relating to tax on cotton futures) is repealed.
+#### (b) Omitted ####
 
 #### (c) Definitions ####
 
@@ -183,6 +181,8 @@ The Internal Revenue Code of 1954, referred to in subsec. (l), was redesignated 
 #### Codification ####
 
 Section was enacted as part of the Tax Reform Act of 1976, and not as part of the Commodity Exchange Act which comprises this chapter.
+
+Section is comprised of section 1952(a)–(m) of Pub. L. 94–455. Section 1952(b) of Pub. L. 94–455 repealed subchapter D of former chapter 39 of Title 26, Internal Revenue Code. See Prior Provisions note preceding section 4701 of Title 26.
 
 This section, referred to in subsec. (c)(1), was in the original a reference to this "Act", meaning the United States Cotton Futures Act, which comprises this section.
 

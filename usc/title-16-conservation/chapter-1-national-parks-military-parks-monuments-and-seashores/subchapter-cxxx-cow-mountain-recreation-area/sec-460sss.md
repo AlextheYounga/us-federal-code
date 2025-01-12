@@ -74,7 +74,7 @@ Nothing in this section creates protective perimeters or buffer zones around the
 
 This Act, referred to in subsec. (b)(2), is Pub. L. 109–362, Oct. 17, 2006, 120 Stat. 2064, known as the Northern California Coastal Wild Heritage Wilderness Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

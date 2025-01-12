@@ -8,7 +8,7 @@ It is recognized that research in forestry is the driving force behind progress 
 
 #### References in Text ####
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in text, is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in text, is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 The Renewable Resources Extension Act of 1978, referred to in text, is Pub. L. 95–306, June 30, 1978, 92 Stat. 349, which was classified generally to subchapter III (§1671 et seq.) of chapter 36 of this title, and subsequently was omitted from the Code pursuant to section 8 of Pub. L. 95–306, set out as an Effective and Termination Dates note under section 1671 of this title.
 

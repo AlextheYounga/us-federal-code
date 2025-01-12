@@ -100,9 +100,9 @@ The effective date of the Process Patent Amendments Act of 1988, referred to in 
 
 Section 501(c) of the Internal Revenue Code, referred to in subsec. (c)(3), is classified to section 501(c) of Title 26, Internal Revenue Code.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Public Health Service Act, referred to in subsec. (c)(3)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (c)(3)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Clinical Laboratories Improvement Act, referred to in subsec. (c)(3)(B), probably means the Clinical Laboratories Improvement Act of 1967, section 5 of Pub. L. 90–174, Dec. 5, 1967, 81 Stat. 536, which enacted section 263a of Title 42 and enacted provisions set out as notes under section 263a of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 263a of Title 42 and Tables.
 

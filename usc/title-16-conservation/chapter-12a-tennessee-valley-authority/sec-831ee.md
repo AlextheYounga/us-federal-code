@@ -10,7 +10,7 @@ For essential stewardship activities for which appropriations were provided to t
 
 Public Law 104–206, referred to in text, is Pub. L. 104–206, Sept. 30, 1996, 110 Stat. 2984, known as the Energy and Water Development Appropriations Act, 1997. For complete classification of this Act to the Code, see Tables.
 
-The Tennessee Valley Authority Act, referred to in text, probably means the Tennessee Valley Authority Act of 1933, act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 831 of this title and Tables.
+The Tennessee Valley Authority Act, referred to in text, probably means the Tennessee Valley Authority Act of 1933, act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 831 of this title and Tables.
 
 #### Codification ####
 

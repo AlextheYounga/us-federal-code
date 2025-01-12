@@ -52,7 +52,7 @@ If, at any time after lands are conveyed pursuant to this section, the entity to
 
 #### References in Text ####
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (a)(7), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (a)(7), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 This section, referred to in subsec. (c)(2), was in the original "this title", meaning title II of Pub. L. 106–577, Dec. 28, 2000, 114 Stat. 3070, which enacted this section and provisions set out as a note under this section. For complete classification of title II to the Code, see Short Title note below and Tables.
 

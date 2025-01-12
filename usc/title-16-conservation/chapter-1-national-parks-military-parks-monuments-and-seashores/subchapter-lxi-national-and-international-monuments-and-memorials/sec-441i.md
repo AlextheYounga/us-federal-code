@@ -8,7 +8,7 @@ In order that exchanges of land may be effectuated for the purposes of sections 
 
 #### References in Text ####
 
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended, which is classified generally to chapter 33 (§1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, which is classified generally to chapter 33 (§1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
 
 #### Codification ####
 

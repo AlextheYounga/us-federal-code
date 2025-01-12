@@ -18,9 +18,9 @@ This section shall take effect with respect to license applications filed after 
 
 #### References in Text ####
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Power Act, referred to in subsecs. (a) and (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended. Part I of the Act is classified generally to this subchapter (§791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsecs. (a) and (b), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to this subchapter (§791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Codification ####
 

@@ -16,9 +16,13 @@ Sec.
 
 27. Revival of applications; reinstatement of reexamination proceedings.
 
+28. Award of certificates to accelerate certain matters at the Patent and Trademark Office.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–245, §2(c), Dec. 20, 2022, 136 Stat. 2344, added item 28.
 
 **2012**—Pub. L. 112–211, title II, §201(b)(2), Dec. 18, 2012, 126 Stat. 1534, added item 27.
 

@@ -120,17 +120,17 @@ There is hereby established within the administration an executive position for 
 
 #### References in Text ####
 
-The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
-Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, as amended, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (e)(5), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (e)(5), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
 Section 103 of title 26, referred to in subsec. (f), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(3), which prior to the general amendment defined exempt persons, relates to the applicability of the interest exclusion to bonds not in registered form, etc.
 
-Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 803, as amended, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 803, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to Code, see Short Title note set out under section 2601 of this title and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to Code, see Short Title note set out under section 2601 of this title and Tables.
 
 #### Amendments ####
 
