@@ -68,7 +68,7 @@ On March 1, 2013, for fiscal year 2013, OMB shall calculate and the President sh
 
 #### (B) Fiscal years 2014–2021 ####
 
-Except as provided by paragraphs (10), (11), and (12), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to section 904(c) of this title for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
+Except as provided by paragraphs (10), (11), (12), and (13), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to section 904(c) of this title for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
 
 (i) for the revised security category by the amount of the defense function discretionary reduction calculated pursuant to paragraph (3); and
 
@@ -78,13 +78,13 @@ Except as provided by paragraphs (10), (11), and (12), on the date of the submis
 
 (A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in section 935 of this title, the exemptions specified in section 905 of this title, and the special rules specified in section 906 of this title, except that the percentage reduction for the Medicare programs specified in section 906(d) of this title shall not be more than 2 percent for a fiscal year.
 
-(B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2027, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
+(B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2029, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
 
 (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
 (ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
 
-(C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2027 shall be applied to such payments so that—
+(C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2029 shall be applied to such payments so that—
 
 (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
 
@@ -120,7 +120,13 @@ On the dates specified in paragraph (2), OMB shall submit a report to Congress c
 
 (B) Paragraph (5)(B) shall not be implemented for fiscal years 2018 and 2019.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123.)
+#### (13) Implementing direct spending reductions for fiscal years 2020 and 2021 ####
+
+(A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to section 901(c) of this title revising the discretionary spending limits for fiscal years 2020 and 2021 by the Bipartisan Budget Act of 2019.
+
+(B) Paragraph (5)(B) shall not be implemented for fiscal years 2020 and 2021.
+
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058.)
 
 #### References in Text ####
 
@@ -134,11 +140,21 @@ The Bipartisan Budget Act of 2015, referred to in par. (11)(A), is Pub. L. 114�
 
 The Bipartisan Budget Act of 2018, referred to in par. (12)(A), is Pub. L. 115–123, Feb. 9, 2018, 132 Stat. 64. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 
+The Bipartisan Budget Act of 2019, referred to in par. (13)(A), is Pub. L. 116–37, Aug. 2, 2019, 133 Stat. 1049. For complete classification of this Act to the Code, see Short Title of 2019 Amendment note set out under section 900 of this title and Tables.
+
 #### Prior Provisions ####
 
 A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103–322, title XXXI, §310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, §10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments ####
+
+**2019**—Par. (5)(B). Pub. L. 116–37, §101(d)(1), substituted "(12), and (13)" for "and (12)" in introductory provisions.
+
+Par. (6)(B). Pub. L. 116–37, §402(1), substituted "fiscal years 2022 through 2029" for "fiscal years 2022 through 2027" in introductory provisions.
+
+Par. (6)(C). Pub. L. 116–37, §402(2), substituted "fiscal year 2029" for "fiscal year 2027" in introductory provisions.
+
+Par. (13). Pub. L. 116–37, §101(d)(2), added par. (13).
 
 **2018**—Par. (5)(B). Pub. L. 115–123, §30101(b)(1), substituted ", (11), and (12)" for "and (11)" in introductory provisions.
 
@@ -210,17 +226,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 " '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
 
-#### Sequestration Order for Fiscal Year 2019 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
+#### Sequestration Order for Fiscal Year 2020 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
 
-Order of President of the United States, dated Feb. 12, 2018, 83 F.R. 6789, provided:
+Order of President of the United States, dated Mar. 18, 2019, 84 F.R. 10401, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2018, direct spending budgetary resources for fiscal year 2019 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 12, 2018.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2019, direct spending budgetary resources for fiscal year 2020 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 18, 2019.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of February 12, 2018, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 18, 2019, prepared pursuant to section 251A(9) of the Act.
 
 Donald J. Trump.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+**2019**—Order of President of the United States, dated Feb. 12, 2018, 83 F.R. 6789.
 
 **2018**—Order of President of the United States, dated May 23, 2017, 82 F.R. 24209.
 
