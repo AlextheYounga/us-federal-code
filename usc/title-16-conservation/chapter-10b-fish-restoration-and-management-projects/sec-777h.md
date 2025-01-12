@@ -100,7 +100,7 @@ Subsec. (a)(5) to (8). Pub. L. 117–58, §28001(a)(2)(B), redesignated pars. (6
 
 Subsec. (a)(8)(A). Pub. L. 117–58, §28001(a)(2)(E), struck out "on a full-time basis" after "administer this chapter".
 
-Subsec. (a)(9) to (12). Pub. L. 117–58, §28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and, in par. (10), inserted "or part-time" after "full-time" and ", subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter" after "incurred". Former par. (9) redesignated (8).
+Subsec. (a)(9) to (12). Pub. L. 117–58, §28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted "or part-time" after "full-time" and ", subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter" after "incurred". Former par. (9) redesignated (8).
 
 **2005**—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted "section 777c(b)" for "section 777c(d)(1)" in introductory provisions.
 

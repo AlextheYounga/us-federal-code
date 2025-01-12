@@ -2464,6 +2464,22 @@ Sec.
 
 410hhhh–6. Authorization of appropriations.
 
+#### SUBCHAPTER LIX–GGG—BROWN V. BOARD OF EDUCATION NATIONAL HISTORICAL PARK ####
+
+410iiii. Definitions.
+
+410iiii–1. Findings and purposes.
+
+410iiii–2. Establishment of the Civil Rights in Education: Brown v. Board of Education National Historical Park.
+
+410iiii–3. Property acquisition.
+
+410iiii–4. Administration of historical park.
+
+410iiii–5. Establishment of the Brown v. Board of Education affiliated areas.
+
+410iiii–6. Authorization of appropriations.
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS ####
 
 411 to 421. Omitted, Repealed, or Transferred.
