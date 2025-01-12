@@ -18,7 +18,7 @@ Sec.
 
 567. Undefinitized contractual actions.
 
-568. Guidance on excessive pass-through charges.
+[568. Repealed.]
 
 569. Mission need statement.
 
@@ -53,6 +53,8 @@ Sec.
 A prior chapter 15 of this title, consisting of sections 561 to 576 and relating to Coast Guard discipline, was repealed by act May 5, 1950, ch. 169, §14(v), 64 Stat. 148.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. C, title XXXV, §3535, Aug. 13, 2018, 132 Stat. 2322, struck out item 568 "Guidance on excessive pass-through charges".
 
 **2016**—Pub. L. 114–328, div. A, title VIII, §899(b)(2), Dec. 23, 2016, 130 Stat. 2335, added items 578 and 579.
 

@@ -20,11 +20,11 @@
 
 (8) The resolution of claims relating to damage to or loss of personal property of the member incident to service under the Military Personnel and Civilian Employees' Claims Act of 1964 (31 U.S.C. 3721).<sup><a href="#823a_1_target" name="823a_1">1</a></sup>
 
-(9) On or after January 1, 2001, section 651 of Public Law 104–208.
+(9) Section 651 of Public Law 104–208.
 
 (c) A member of the Auxiliary, while assigned to duty, shall be deemed to be a person acting under an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
 
-(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, §209(15), Feb. 8, 2016, 130 Stat. 41.)
+(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, §209(15), Feb. 8, 2016, 130 Stat. 41; Pub. L. 115–232, div. C, title XXXV, §3533(i), Aug. 13, 2018, 132 Stat. 2321.)
 
 #### References in Text ####
 
@@ -33,6 +33,8 @@ The Military Personnel and Civilian Employees' Claims Act of 1964, referred to i
 Section 651 of Public Law 104–208, referred to in subsec. (b)(9), is section 101(f) [title VI, §651] of Pub. L. 104–208, which is set out as a note under section 8133 of Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(9). Pub. L. 115–232 substituted "Section" for "On or after January 1, 2001, section".
 
 **2016**—Subsec. (b)(1). Pub. L. 114–120 substituted "Chapter 171" for "Chapter 26".
 

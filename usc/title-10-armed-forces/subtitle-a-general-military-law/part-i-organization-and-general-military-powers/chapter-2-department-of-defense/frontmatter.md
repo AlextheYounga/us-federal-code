@@ -22,7 +22,7 @@ Sec.
 
 116. Annual operations and maintenance report.
 
-117. Readiness reporting system: establishment; reporting to congressional committees.
+117. Readiness reporting system.
 
 [118. Repealed.]
 
@@ -35,6 +35,8 @@ Sec.
 119a. Programs managed under alternative compensatory control measures: congressional oversight.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title III, §331(g)(2), Aug. 13, 2018, 132 Stat. 1724, struck out ": establishment; reporting to congressional committees" after "system" in item 117.
 
 **2016**—Pub. L. 114–328, div. A, title IX, §941(b)(2), title X, §1062(b), title XI, §1102(b), Dec. 23, 2016, 130 Stat. 2367, 2408, 2444, added item 119a and struck out items 115b "Biennial strategic workforce plan" and 118 "Defense strategy review".
 

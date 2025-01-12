@@ -10,7 +10,11 @@ Sec.
 
 9904. Special pay and benefits for certain employees outside the United States.
 
+9905. Direct hire authority for certain personnel of the Department of Defense.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title XI, §1101(b), Aug. 13, 2018, 132 Stat. 2000, added item 9905.
 
 **2011**—Pub. L. 112–81, div. A, title XI, §1101(d)(1), Dec. 31, 2011, 125 Stat. 1610, amended chapter heading generally, substituting "DEPARTMENT OF DEFENSE PERSONNEL AUTHORITIES" for "DEPARTMENT OF DEFENSE NATIONAL SECURITY PERSONNEL SYSTEM".
 

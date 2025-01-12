@@ -3,55 +3,41 @@ PART II—PERSONNEL
 
 Chap. Sec.
 
-331. Strength 3201
+711. Strength 7101
 
-333. Enlistments 3251
+713. Enlistments 7131
 
-335. Appointments in the Regular Army 3281
+715. Appointments in the Regular Army 7151
 
-[337. Repealed.]
+719. Temporary Appointments 7176
 
-339. Temporary Appointments 3441
+721. Active Duty 7191
 
-341. Active Duty 3491
+723. Special Appointments, Assignments, Details, and Duties 7213
 
-343. Special Appointments, Assignments, Details, and Duties 3531
+725. Rank and Command 7222
 
-345. Rank and Command 3571
+729. Miscellaneous Prohibitions and Penalties 7239
 
-[347. Repealed.]
+733. Miscellaneous Rights and Benefits 7251
 
-349. Miscellaneous Prohibitions and Penalties 3631
+735. Hospitalization 7263
 
-[351. Repealed.]
+737. Decorations and Awards 7271
 
-353. Miscellaneous Rights and Benefits 3681
+741. Retirement for Length of Service 7311
 
-355. Hospitalization 3721
+743. Retired Grade 7341
 
-357. Decorations and Awards 3741
+745. Computation of Retired Pay 7361
 
-[359. Repealed.]
+747. Civilian Employees 7371
 
-[360. Repealed.]
-
-[361. Repealed.]
-
-[363. Repealed.]
-
-[365. Repealed.]
-
-367. Retirement for Length of Service 3911
-
-369. Retired Grade 3961
-
-371. Computation of Retired Pay 3991
-
-373. Civilian Employees 4021
-
-375. Miscellaneous Investigation Requirements and Other Duties 4061
+749. Miscellaneous Investigation Requirements and Other Duties 7381
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 331 to 375 as 711 to 749 and redesignated section numbers 3201 to 4061 as 7101 to 7381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 **2003**—Pub. L. 108–136, div. A, title V, §576(a)(2), Nov. 24, 2003, 117 Stat. 1487, added item for chapter 375.
 

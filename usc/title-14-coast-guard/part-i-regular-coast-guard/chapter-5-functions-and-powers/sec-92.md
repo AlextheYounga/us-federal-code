@@ -10,17 +10,15 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 
 (d) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
 
-[(e) Repealed. Oct. 31, 1951, ch. 654, §1(32), 65 Stat. 702.]
+(e) acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
 
-(f) acquire land or interests in land, including acceptance of gifts thereof, where required for the purpose of carrying out any project or purpose for which an appropriation has been made;
+(f) exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
 
-(g) exchange land or interests in land in part or in full payment for such other land or interests in land as may be necessary or desirable, the balance of such part payment to be defrayable in accordance with other provisions of this section;
+(g) exercise any of the powers vested by this title in the Commandant in any case in which the Secretary deems it appropriate; and
 
-(h) exercise any of the powers vested by this title in the Commandant in any case in which the Secretary deems it appropriate; and
+(h) do any and all things necessary to carry out the purposes of this title.
 
-(i) do any and all things necessary to carry out the purposes of this title.
-
-(Aug. 4, 1949, ch. 393, 63 Stat. 503; Oct. 31, 1951, ch. 654, §§1(32), 2(9), 3(3), 65 Stat. 702, 707, 708; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 107–217, §3(c)(1), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 111–350, §5(c)(1), Jan. 4, 2011, 124 Stat. 3847.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 503; Oct. 31, 1951, ch. 654, §§1(32), 2(9), 3(3), 65 Stat. 702, 707, 708; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 107–217, §3(c)(1), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 111–350, §5(c)(1), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 115–232, div. C, title XXXV, §3533(a), Aug. 13, 2018, 132 Stat. 2321.)
 
 #### Historical and Revision Notes ####
 
@@ -47,6 +45,8 @@ Subsection (i) is based in part on title 14, U.S.C., 1946 ed., §§51, 131 (R.S.
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments ####
+
+**2018**—Subsecs. (e) to (i). Pub. L. 115–232 redesignated subsecs. (f) to (i) as (e) to (h), respectively.
 
 **2011**—Subsec. (d). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 

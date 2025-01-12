@@ -73,7 +73,13 @@ Chap. Sec.
 
 173. Energy Security 2911
 
+#### Amendment of Analysis ####
+
+Pub. L. 115–232, div. A, title VIII, §836(e)(12), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by amending item for chapter 140 to read "Procurement of Commercial Products and Commercial Services" and by substituting "2377" for "2375". See 2018 Amendment note below.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §836(e)(12), Aug. 13, 2018, 132 Stat. 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
 

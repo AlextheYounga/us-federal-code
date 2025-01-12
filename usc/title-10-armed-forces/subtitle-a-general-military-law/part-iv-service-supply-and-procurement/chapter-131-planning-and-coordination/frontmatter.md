@@ -70,7 +70,11 @@ Sec.
 
 2229a. Annual report on prepositioned materiel and equipment.
 
+2229b. Comptroller General assessment of acquisition programs and related initiatives. 1
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §833(b), Aug. 13, 2018, 132 Stat. 1859, added item 2229b.
 
 **2016**—Pub. L. 114–328, div. A, title X, §1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, made technical correction to directory language of Pub. L. 114–92, §883(a)(2). See 2015 Amendment note below.
 
@@ -153,3 +157,5 @@ Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275
 "(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 
 "(e) Report.—Not later than 180 days after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d)."
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER131_1)

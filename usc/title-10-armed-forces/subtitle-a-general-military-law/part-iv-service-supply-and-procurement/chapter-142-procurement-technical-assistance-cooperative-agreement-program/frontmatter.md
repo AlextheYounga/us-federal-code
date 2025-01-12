@@ -8,13 +8,13 @@ Sec.
 
 2413. Cooperative agreements.
 
-2414. Limitation. 1
+2414. Funding.
 
 2415. Distribution.
 
 2416. Subcontractor information.
 
-2417. Administrative costs.
+2417. Administrative costs. 1
 
 2418. Authority to provide certain types of technical assistance.
 
@@ -23,6 +23,8 @@ Sec.
 2420. Regulations.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title X, §1081(a)(24)(B), Aug. 13, 2018, 132 Stat. 1985, substituted "Funding" for "Limitation" in item 2414.
 
 **2013**—Pub. L. 113–66, div. A, title XVI, §1611(a)(2), Dec. 26, 2013, 127 Stat. 947, added item 2419 and redesignated former item 2419 as 2420.
 
@@ -42,4 +44,4 @@ Pub. L. 115–91, div. A, title XVII, §1707, Dec. 12, 2017, 131 Stat. 1809, pro
 
 "(b) Small Business Concern Defined.—The term 'small business concern' has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632)."
 
-[<sup>1</sup> Section catchline amended by Pub. L. 115–91 without corresponding amendment of chapter analysis.](#CHAPTER142_1)
+[<sup>1</sup> Section catchline amended by Pub. L. 115–232 without corresponding amendment of chapter analysis.](#CHAPTER142_1)

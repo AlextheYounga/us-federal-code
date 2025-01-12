@@ -3,47 +3,47 @@ PART IV—GENERAL ADMINISTRATION
 
 Chap. Sec.
 
-631. Secretary of the Navy: Miscellaneous Powers and Duties 7201
+861. Secretary of the Navy: Miscellaneous Powers and Duties 8604
 
-633. Naval Vessels 7291
+863. Naval Vessels 8661
 
-[635. Repealed.]
+865. Salvage Facilities 8701
 
-637. Salvage Facilities 7361
+867. United States Naval Observatory 8715
 
-639. United States Naval Observatory 7395
+869. Naval Petroleum Reserves 8720
 
-641. Naval Petroleum Reserves 7420
+871. Civilian Employees 8742
 
-643. Civilian Employees 7471
+873. Procurement of Supplies and Services 8752
 
-645. Procurement of Supplies and Services 7521
+875. Disposal of Obsolete or Surplus Material 8761
 
-647. Disposal of Obsolete or Surplus Material 7541
+877. Quarters, Utilities, and Services 8771
 
-649. Quarters, Utilities, and Services 7571
+879. Ships' Stores and Commissary Stores 8801
 
-651. Ships' Stores and Commissary Stores 7601
+881. Claims 8821
 
-653. Claims 7621
+883. Prize 8851
 
-655. Prize 7651
+885. Stay of Judicial Proceedings 8891
 
-657. Stay of Judicial Proceedings 7721
+887. Naval Militia 8901
 
-659. Naval Militia 7851
+889. Accountability and Responsibility 8911
 
-661. Accountability and Responsibility 7861
+891. Names and Insignia 8921
 
-663. Names and Insignia 7881
+893. National Oceanographic Partnership Program 8931
 
-665. National Oceanographic Partnership Program 7901
+895. Issue of Serviceable Material Other Than to Armed Forces 8942
 
-667. Issue of Serviceable Material Other Than to Armed Forces 7911
-
-669. Maritime Safety of Forces 7921
+897. Maritime Safety of Forces 8951
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 631 to 669 as 861 to 897 and redesignated section numbers 7201 to 7921 as 8604 to 8951. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 **2011**—Pub. L. 112–81, div. A, title III, §363(b), Dec. 31, 2011, 125 Stat. 1379, added item for chapter 669.
 

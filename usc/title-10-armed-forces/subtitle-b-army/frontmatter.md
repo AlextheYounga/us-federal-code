@@ -5,105 +5,87 @@ Subtitle B—Army
 
 Chap. Sec.
 
-301. Definitions 3001
+701. Definitions 7001
 
-303. Department of the Army 3011
+703. Department of the Army 7011
 
-305. The Army Staff 3031
+705. The Army Staff 7031
 
-307. The Army 3061
+707. The Army 7061
 
 ### **PART II—PERSONNEL** ###
 
-331. Strength 3201
+711. Strength 7101
 
-333. Enlistments 3251
+713. Enlistments 7131
 
-335. Appointments in the Regular Army 3281
+715. Appointments in the Regular Army 7151
 
-[337. Repealed.]
+719. Temporary Appointments 7176
 
-339. Temporary Appointments 3441
+721. Active Duty 7191
 
-341. Active Duty 3491
+723. Special Appointments, Assignments, Details, and Duties 7213
 
-343. Special Appointments, Assignments, Details, and Duties 3531
+725. Rank and Command 7222
 
-345. Rank and Command 3571
+729. Miscellaneous Prohibitions and Penalties 7239
 
-[347. Repealed.]
+733. Miscellaneous Rights and Benefits 7251
 
-349. Miscellaneous Prohibitions and Penalties 3631
+735. Hospitalization 7263
 
-[351. Repealed.]
+737. Decorations and Awards 7271
 
-353. Miscellaneous Rights and Benefits 3681
+741. Retirement for Length of Service 7311
 
-355. Hospitalization 3721
+743. Retired Grade 7341
 
-357. Decorations and Awards 3741
+745. Computation of Retired Pay 7361
 
-[359. Repealed.]
+747. Civilian Employees 7371
 
-[360. Repealed.]
-
-[361. Repealed.]
-
-[363. Repealed.]
-
-[365. Repealed.]
-
-367. Retirement for Length of Service 3911
-
-369. Retired Grade 3961
-
-371. Computation of Retired Pay 3991
-
-373. Civilian Employees 4021
-
-375. Miscellaneous Investigation Requirements and Other Duties 4061
+749. Miscellaneous Investigation Requirements and Other Duties 7381
 
 ### **PART III—TRAINING** ###
 
-401. Training Generally 4301
+751. Training Generally 7401
 
-403. United States Military Academy 4331
+753. United States Military Academy 7431
 
-[405. Repealed.]
-
-407. Schools and Camps 4411
+757. Schools and Camps 7481
 
 ### **PART IV—SERVICE, SUPPLY, AND PROCUREMENT** ###
 
-[431. Repealed.]
+763. Procurement 7532
 
-433. Procurement 4531
+764. Armaments Industrial Base 7551
 
-434. Armaments Industrial Base 4551
+765. Issue of Serviceable Material to Armed Forces 7561
 
-435. Issue of Serviceable Material to Armed Forces 4561
+767. Utilities and Services 7591
 
-437. Utilities and Services 4591
+769. Sale of Serviceable Material 7621
 
-439. Sale of Serviceable Material 4621
+771. Issue of Serviceable Material Other Than to Armed Forces 7652
 
-441. Issue of Serviceable Material Other Than to Armed Forces 4651
+773. Disposal of Obsolete or Surplus Material 7682
 
-443. Disposal of Obsolete or Surplus Material 4681
+775. Disposition of Effects of Deceased Persons; Captured Flags 7712
 
-445. Disposition of Effects of Deceased Persons; Captured Flags 4712
+776. Army National Military Cemeteries 7721
 
-446. Army National Military Cemeteries 4721
+777. Transportation 7749
 
-447. Transportation 4741
+779. Real Property 7771
 
-449. Real Property 4771
+781. Military Claims 7801
 
-451. Military Claims 4801
-
-453. Accountability and Responsibility 4831
+783. Accountability and Responsibility 7831
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 301 to 453 as 701 to 783 and redesignated section numbers 3001 to 4831 as 7001 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 **2011**—Pub. L. 112–81, div. A, title V, §591(a)(2), Dec. 31, 2011, 125 Stat. 1441, added item for chapter 446.
 

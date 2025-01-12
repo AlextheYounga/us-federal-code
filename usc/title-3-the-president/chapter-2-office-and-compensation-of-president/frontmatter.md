@@ -532,111 +532,17 @@ Sec. 5. *Administration*. (a) The Council may function through established or ad
 
 (c) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
 
-#### Ex. Ord. No. 13199. Establishment of White House Office of Faith-Based and Neighborhood Partnerships ####
+#### Executive Order No. 13199 ####
 
-Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 13498, §1, Feb. 5, 2009, 74 F.R. 6533, provided:
-
-By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet social needs in America's communities, it is hereby ordered as follows:
-
-Section 1. *Policy*. Faith-based and other neighborhood organizations are vital to our Nation's ability to address the needs of low-income and other underserved persons and communities. The American people are key drivers of fundamental change in our country, and few institutions are closer to the people than our faith-based and other neighborhood organizations. It is critical that the Federal Government strengthen the ability of such organizations and other nonprofit providers in our neighborhoods to deliver services effectively in partnership with Federal, State, and local governments and with other private organizations, while preserving our fundamental constitutional commitments guaranteeing the equal protection of the laws and the free exercise of religion and forbidding the establishment of religion. The Federal Government can preserve these fundamental commitments while empowering faith-based and neighborhood organizations to deliver vital services in our communities, from providing mentors and tutors to school children to giving ex-offenders a second chance at work and a responsible life to ensuring that families are fed. The Federal Government must also ensure that any organization receiving taxpayers' dollars must be held accountable for its performance. Through rigorous evaluation, and by offering technical assistance, the Federal Government must ensure that organizations receiving Federal funds achieve measurable results in furtherance of valid public purposes.
-
-Sec. 2. *Establishment*. There is established a White House Office of Faith-Based and Neighborhood Partnerships (Office) within the Executive Office of the President that will have lead responsibility in the executive branch to establish policies, priorities, and objectives for the Federal Government's comprehensive effort to enlist, equip, enable, empower, and expand the work of faith-based and other community organizations to the extent permitted by law.
-
-Sec. 3. *Functions*. The principal functions of the Office are, to the extent permitted by law: (a) to develop, lead, and coordinate the Administration's policy agenda affecting faith-based and other community programs and initiatives, expand the role of such efforts in communities, and increase their capacity through executive action, legislation, Federal and private funding, and regulatory relief;
-
-(b) to ensure that Administration and Federal Government policy decisions and programs are consistent with the President's stated goals with respect to faith-based and other community initiatives;
-
-(c) to ensure that services paid for with Federal Government funds are provided in a manner consistent with fundamental constitutional commitments guaranteeing the equal protection of the laws and the free exercise of religion and prohibiting laws respecting an establishment of religion;
-
-(d) to promote effective training for persons providing federally funded social services in faith-based and neighborhood organizations;
-
-(e) to promote the better use of program evaluation and research, in order to ensure that organizations deliver services as specified in grant agreements, contracts, memoranda of understanding, and other arrangements;
-
-(f) to help integrate the President's policy agenda affecting faith-based and other community organizations across the Federal Government;
-
-(g) to coordinate public education activities designed to mobilize public support for faith-based and community nonprofit initiatives through volunteerism, special projects, demonstration pilots, and public-private partnerships;
-
-(h) to encourage private charitable giving to support faith-based and community initiatives;
-
-(i) to bring concerns, ideas, and policy options to the President for assisting, strengthening, and replicating successful faith-based and other community programs;
-
-(j) to provide policy and legal education to State, local, and community policymakers and public officials seeking ways to empower faith-based and other community organizations and to improve the opportunities, capacity, and expertise of such groups;
-
-(k) to develop and implement strategic initiatives under the President's agenda to strengthen the institutions of civil society and America's families and communities;
-
-(l) to showcase and herald innovative grassroots nonprofit organizations and civic initiatives;
-
-(m) to eliminate unnecessary legislative, regulatory, and other bureaucratic barriers that impede effective faith-based and other community efforts to solve social problems;
-
-(n) to monitor implementation of the President's agenda affecting faith-based and other community organizations; and
-
-(o) to ensure that the efforts of faith-based and other community organizations meet high standards of excellence and accountability.
-
-Sec. 4. *Administration*. (a) The Office may function through established or ad hoc committees, task forces, or interagency groups.
-
-(b) The Office shall have a staff to be headed by the Special Assistant to the President and Executive Director of the White House Office of Faith-Based and Neighborhood Partnerships (Executive Director). The Office shall have such staff and other assistance, to the extent permitted by law, as may be necessary to carry out the provisions of this order. The Office operations shall begin no later than 30 days from the date of this order.
-
-(c) The Office shall coordinate with the liaison and point of contact designated by each executive department and agency with respect to this initiative.
-
-(d) All executive departments and agencies (agencies) shall cooperate with the Office and provide such information, support, and assistance to the Office as it may request, to the extent permitted by law.
-
-(e) The agencies' actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
-
-Sec. 5. *Judicial Review*. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 13498, §1, Feb. 5, 2009, 74 F.R. 6533, which established the White House Office of Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, §4, May 3, 2018, 83 F.R. 20717, set out below.
 
 #### Executive Order No. 13283 ####
 
 Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, §9, Sept. 29, 2005, 70 F.R. 57991, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-#### Ex. Ord. No. 13498. Amendments to Executive Order 13199 and Establishment of the President's Advisory Council for Faith-Based and Neighborhood Partnerships ####
+#### Executive Order No. 13498 ####
 
-Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the ability of faith-based and other neighborhood organizations to deliver services effectively in partnership with Federal, State, and local governments and with other private organizations, while preserving our fundamental constitutional commitments, it is hereby ordered:
-
-Section 1. [Amended Ex. Ord. No. 13199, set out as a note above.]
-
-Sec. 2. *President's Advisory Council on Faith-Based and Neighborhood Partnerships*. (a) *Establishment*. There is established within the Executive Office of the President the President's Advisory Council on Faith-Based and Neighborhood Partnerships (Council).
-
-(b) *Mission*. The Council shall bring together leaders and experts in fields related to the work of faith-based and neighborhood organizations in order to: identify best practices and successful modes of delivering social services; evaluate the need for improvements in the implementation and coordination of public policies relating to faith-based and other neighborhood organizations; and make recommendations to the President, through the Executive Director, for changes in policies, programs, and practices that affect the delivery of services by such organizations and the needs of low-income and other underserved persons in communities at home and around the world.
-
-(c) *Membership*. (1) The Council shall be composed of not more than 25 members appointed by the President from among individuals who are not officers or employees of the Federal Government. The members shall be persons with experience and expertise in fields related to the provision of social services by faith-based and other neighborhood organizations.
-
-(2) Members of the Council shall serve for terms of 1 year, and may continue to serve after the expiration of their terms until the President appoints a successor. Members shall be eligible for reappointment and serve at the pleasure of the President during their terms.
-
-(3) The President shall designate a member of the Council to serve as Chair for a term of 1 year at the pleasure of the President. The Chair may continue to serve after the expiration of the Chair's term and shall be eligible for redesignation by the President.
-
-(4) The Executive Director of the White House Office of Faith-Based and Neighborhood Partnerships shall also serve as Executive Director of the Council.
-
-(5) The Council shall have a staff headed by the Executive Director.
-
-(d) *Administration*. (1) Upon the request of the Chair, with the approval of the Executive Director, the heads of executive departments and agencies shall, to the extent permitted by law, provide the Council with information it needs for purposes of carrying out its mission.
-
-(2) With the approval of the Executive Director, the Council may request and collect information, hold hearings, establish subcommittees, and establish task forces consisting of members of the Council or other individuals who are not officers or employees of the Federal Government, as necessary to carry out its mission.
-
-(3) With the approval of the Executive Director, the Council may conduct analyses and develop reports or other materials as necessary to perform its mission.
-
-(4) Members of the Council shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707) to the extent funds are available.
-
-(5) To the extent permitted by law, and subject to the availability of appropriations, the Department of Health and Human Services shall provide the Council with administrative support and with such funds as may be necessary for the performance of the Council's functions.
-
-(e) *General Provisions*. (1) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the Council, any functions of the President under that Act, except for those in section 6 of the Act, shall be performed by the Secretary of Health and Human Services in accordance with guidelines issued by the Administrator of General Services.
-
-(2) The Council shall terminate 2 years from the date of this order unless extended by the President.
-
-Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(1) authority granted by law to a department, agency, or the head thereof; or
-
-(2) functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) In order to ensure that Federal programs and practices involving grants or contracts to faith-based organizations are consistent with law, the Executive Director, acting through the Counsel to the President, may seek the opinion of the Attorney General on any constitutional and statutory questions involving existing or prospective programs and practices.
-
-(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Barack Obama.
+Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, which established the President's Advisory Council for Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, §4, May 3, 2018, 83 F.R. 20717, set out below.
 
 [For extensions of term of the President's Advisory Council on Faith-Based and Neighborhood Partnerships, see Ex. Ord. Nos. 13569 and 13640, set out below, and Executive Orders listed after Ex. Ord. No. 13640.]
 
@@ -718,11 +624,11 @@ Sec. 2. [Amended Ex. Ord. No. 12835, set out as a note under section 1023 of Tit
 
 Sec. 3. [Amended Ex. Ord. No. 12859, set out as a note above.]
 
-Sec. 4. [Amended Ex. Ord. No. 13532, set out as a note under section 1060 of Title 20, Education.]
+Sec. 4. [Amended Ex. Ord. No. 13532, formerly set out as a note under section 1060 of Title 20, Education.]
 
-Sec. 5. The President's Advisory Council on Faith-Based and Neighborhood Partnerships, as set forth under the provisions of Executive Order 13498 of February 5, 2009, is hereby reestablished and shall terminate 2 years from the date of this order unless extended by the President.
+Sec. 5. The President's Advisory Council on Faith-Based and Neighborhood Partnerships, as set forth under the provisions of Executive Order 13498 of February 5, 2009 [formerly set out as a note above], is hereby reestablished and shall terminate 2 years from the date of this order unless extended by the President.
 
-Sec. 6. [Revoked Ex. Ord. No. 13507, set out as a note under section 201 of Title 42, The Public Health and Welfare.]
+Sec. 6. [Revoked Ex. Ord. No. 13507, formerly set out as a note under section 201 of Title 42, The Public Health and Welfare.]
 
 Sec. 7. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
@@ -734,7 +640,7 @@ Ex. Ord. No. 13640, Apr. 5, 2013, 78 F.R. 21211, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. *Continuing the President's Advisory Council on Faith-Based and Neighborhood Partnerships*. The President's Advisory Council on Faith-Based and Neighborhood Partnerships, as set forth under the provisions of Executive Order 13498 of February 5, 2009, and reestablished by section 5 of Executive Order 13569 of April 5, 2011, is hereby extended and shall terminate 2 years from the date of this order unless further extended by the President.
+Section 1. *Continuing the President's Advisory Council on Faith-Based and Neighborhood Partnerships*. The President's Advisory Council on Faith-Based and Neighborhood Partnerships, as set forth under the provisions of Executive Order 13498 of February 5, 2009 [formerly set out as a note above], and reestablished by section 5 of Executive Order 13569 of April 5, 2011 [set out as a note above], is hereby extended and shall terminate 2 years from the date of this order unless further extended by the President.
 
 Sec. 2. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -755,6 +661,58 @@ Term of President's Advisory Council on Faith-Based and Neighborhood Partnership
 Previous extension of term of President's Advisory Council on Faith-Based and Neighborhood Partnerships was contained in the following prior Executive Order:
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+#### Ex. Ord. No. 13831. Establishment of a White House Faith and Opportunity Initiative ####
+
+Ex. Ord. No. 13831, May 3, 2018, 83 F.R. 20715, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to assist faith-based and other organizations in their efforts to strengthen the institutions of civil society and American families and communities, it is hereby ordered as follows:
+
+Section 1. *Policy*. Faith-based and community organizations have tremendous ability to serve individuals, families, and communities through means that are different from those of government and with capacity that often exceeds that of government. These organizations lift people up, keep families strong, and solve problems at the local level. The executive branch wants faith-based and community organizations, to the fullest opportunity permitted by law, to compete on a level playing field for grants, contracts, programs, and other Federal funding opportunities. The efforts of faith-based and community organizations are essential to revitalizing communities, and the Federal Government welcomes opportunities to partner with such organizations through innovative, measurable, and outcome-driven initiatives.
+
+Sec. 2. *Amendments to Executive Orders*. [Amended Ex. Ord. Nos. 13198, 13279, 13280, 13342, and 13397, set out as notes under section 601 of Title 5, Government Organization and Employees.]
+
+Sec. 3. *White House Faith and Opportunity Initiative*. (a) There is established within the Executive Office of the President the White House Faith and Opportunity Initiative (Initiative).
+
+(i) The Initiative shall be headed by an Advisor to the White House Faith and Opportunity Initiative (Advisor). The Advisor shall be housed in the Office of Public Liaison and shall work with that office and the Domestic Policy Council, in consultation with the Centers for Faith-Based and Community Initiatives established by Executive Order 13198, Executive Order 13280, Executive Order 13342, and Executive Order 13397 [5 U.S.C. 601 notes], to implement this order.
+
+(ii) The Initiative shall, from time to time and consistent with applicable law, consult with and seek information from experts and various faith and community leaders from outside the Federal Government, including those from State, local, and tribal governments, identified by the Office of Public Liaison, the Domestic Policy Council, and the Centers for Faith and Opportunity Initiatives. These experts and leaders shall be identified based on their expertise in a broad range of areas in which faith-based and community organizations operate, including poverty alleviation, religious liberty, strengthening marriage and family, education, solutions for substance abuse and addiction, crime prevention and reduction, prisoner reentry, and health and humanitarian services.
+
+(iii) The Advisor shall make recommendations to the President, through the Assistant to the President for Domestic Policy, regarding changes to policies, programs, and practices that affect the delivery of services by faith-based and community organizations.
+
+(iv) Executive departments and agencies (agencies) that lack a Center for Faith and Opportunity Initiative shall designate a Liaison for Faith and Opportunity Initiatives as a point of contact to coordinate with the Advisor in carrying out this order.
+
+(v) All agencies shall, to the extent permitted by law, provide such information, support, and assistance to the Initiative as it may request to develop public policy proposals.
+
+(b) To the extent permitted by law, the Initiative shall:
+
+(i) periodically convene meetings with the individuals described in section 3(a)(ii) of this order;
+
+(ii) periodically convene meetings with representatives from the Centers for Faith and Opportunity Initiatives and other representatives from across agencies as the Advisor may designate;
+
+(iii) provide recommendations regarding aspects of my Administration's policy agenda that affect faith-based and community programs and initiatives;
+
+(iv) help integrate those aspects of my Administration's policy agenda that affect faith-based and other community organizations throughout the Federal Government;
+
+(v) showcase innovative initiatives by faith-based and community organizations that serve and strengthen individuals, families, and communities throughout the United States;
+
+(vi) notify the Attorney General, or his designee, of concerns raised by faith-based and community organizations about any failures of the executive branch to comply with protections of Federal law for religious liberty as outlined in the Attorney General's Memorandum of October 6, 2017 (Federal Law Protections for Religious Liberty), issued pursuant to Executive Order 13798 of May 4, 2017 (Promoting Free Speech and Religious Liberty) [42 U.S.C. 2000bb note]; and
+
+(vii) identify and propose means to reduce, in accordance with Executive Order 13798 and the Attorney General's Memorandum of October 6, 2017, burdens on the exercise of religious convictions and legislative, regulatory, and other barriers to the full and active engagement of faith-based and community organizations in Government-funded or Government-conducted activities and programs.
+
+Sec. 4. *Revocation of Executive Orders*. Executive Order 13199 of January 29, 2001 (Establishment of White House Office of Faith-Based and Community Initiatives), and Executive Order 13498 of February 5, 2009 (Amendments to Executive Order 13199 and Establishment of the President's Advisory Council for Faith-Based and Neighborhood Partnerships) [formerly set out as notes above], are hereby revoked.
+
+Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
 
 #### White House Task Force on Middle-Class Working Families ####
 

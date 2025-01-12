@@ -5,139 +5,115 @@ Subtitle C—Navy and Marine Corps
 
 Chap. Sec.
 
-501. Definitions 5001
+801. Definitions 8001
 
-503. Department of the Navy 5011
+803. Department of the Navy 8011
 
-505. Office of the Chief of Naval Operations 5031
+805. Office of the Chief of Naval Operations 8031
 
-506. Headquarters, Marine Corps 5041
+806. Headquarters, Marine Corps 8041
 
-507. Composition of the Department of the Navy 5061
+807. Composition of the Department of the Navy 8061
 
-[509. Repealed.]
-
-[511. Repealed.]
-
-513. Bureaus; Office of the Judge Advocate General 5131
-
-[515. Repealed.]
-
-[516. Repealed.]
-
-[517. Repealed.]
-
-[519. Repealed.]
+809. Bureaus; Office of the Judge Advocate General 8071
 
 ### **PART II—PERSONNEL** ###
 
-[531. Repealed.]
+811. Distribution in Grade 8101
 
-533. Distribution in Grade 5441
+812. Grade and Rank of Officers 8111
 
-535. Grade and Rank of Officers 5501
+813. Enlistments 8120
 
-537. Enlistments 5531
+815. Original Appointments 8132
 
-539. Original Appointments 5571
+821. Officers in Command 8162
 
-[541. Repealed.]
+823. Special Assignments and Details 8183
 
-[543. Repealed.]
+825. Administration 8211
 
-544. Temporary Appointments 5721
+827. Rations 8241
 
-[545. Repealed.]
+829. Miscellaneous Prohibitions and Penalties 8253
 
-[547. Repealed.]
+831. Miscellaneous Rights and Benefits 8261
 
-[549. Repealed.]
+833. Hospitalization and Medical Care 8281
 
-551. Officers in Command 5941
+835. Bands 8286
 
-553. Special Assignments and Details 5981
+837. Decorations and Awards 8291
 
-555. Administration 6011
+839. Discharge of Enlisted Members 8317
 
-557. Rations 6081
+841. Voluntary Retirement 8321
 
-559. Miscellaneous Prohibitions and Penalties 6111
+843. Involuntary Retirement, Separation, and Furlough 8371
 
-561. Miscellaneous Rights and Benefits 6141
+845. Recall to Active Duty 8383
 
-563. Hospitalization and Medical Care 6201
-
-565. Bands 6221
-
-567. Decorations and Awards 6241
-
-569. Discharge of Enlisted Members 6291
-
-571. Voluntary Retirement 6321
-
-573. Involuntary Retirement, Separation, and Furlough 6371
-
-575. Recall to Active Duty 6481
-
-577. Death Benefits; Care of the Dead 6521
+847. Death Benefits; Care of the Dead 8392
 
 ### **PART III—EDUCATION AND TRAINING** ###
 
-601. Officer Procurement Programs 6901
+851. Officer Procurement Programs 8411
 
-602. Training Generally 6931
+852. Training Generally 8431
 
-603. United States Naval Academy 6951
+853. United States Naval Academy 8451
 
-605. United States Naval Postgraduate School 7041
+855. United States Naval Postgraduate School 8541
 
-607. Retirement of Civilian Members of the Teaching Staffs of the United States Naval Academy and United States Naval Postgraduate School 7081
+857. Retirement of Civilian Members of the Teaching Staffs of the United States Naval Academy and United States Naval Postgraduate School 8581
 
-609. Professional Military Education Schools 7101
+859. Professional Military Education Schools 8591
 
 ### **PART IV—GENERAL ADMINISTRATION** ###
 
-631. Secretary of the Navy: Miscellaneous Powers and Duties 7201
+861. Secretary of the Navy: Miscellaneous Powers and Duties 8604
 
-633. Naval Vessels 7291
+863. Naval Vessels 8661
 
-[635. Repealed.]
+865. Salvage Facilities 8701
 
-637. Salvage Facilities 7361
+867. United States Naval Observatory 8715
 
-639. United States Naval Observatory 7395
+869. Naval Petroleum Reserves 8720
 
-641. Naval Petroleum Reserves 7420
+871. Civilian Employees 8742
 
-643. Civilian Employees 7471
+873. Procurement of Supplies and Services 8752
 
-645. Procurement of Supplies and Services 7521
+875. Disposal of Obsolete or Surplus Material 8761
 
-647. Disposal of Obsolete or Surplus Material 7541
+877. Quarters, Utilities, and Services 8771
 
-649. Quarters, Utilities, and Services 7571
+879. Ships' Stores and Commissary Stores 8801
 
-651. Ships' Stores and Commissary Stores 7601
+881. Claims 8821
 
-653. Claims 7621
+883. Prize 8851
 
-655. Prize 7651
+885. Stay of Judicial Proceedings 8891
 
-657. Stay of Judicial Proceedings 7721
+887. Naval Militia 8901
 
-659. Naval Militia 7851
+889. Accountability and Responsibility 8911
 
-661. Accountability and Responsibility 7861
+891. Names and Insignia 8921
 
-663. Names and Insignia 7881
+893. National Oceanographic Partnership Program 8931
 
-665. National Oceanographic Partnership Program 7901
+895. Issue of Serviceable Material Other Than to Armed Forces 8942
 
-667. Issue of Serviceable Material Other Than to Armed Forces 7911
-
-669. Maritime Safety of Forces 7921
+897. Maritime Safety of Forces 8951
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 669 as 801 to 897 and redesignated section numbers 5001 to 7921 as 8001 to 8951. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+
+Pub. L. 115–232, div. A, title V, §503(b)(2), Aug. 13, 2018, 132 Stat. 1742, struck out item for chapter 544 "Temporary Appointments".
 
 **2011**—Pub. L. 112–81, div. A, title III, §363(b), Dec. 31, 2011, 125 Stat. 1379, added item for chapter 669.
 

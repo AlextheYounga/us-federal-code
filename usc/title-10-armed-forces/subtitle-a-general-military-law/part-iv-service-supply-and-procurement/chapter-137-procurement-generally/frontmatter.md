@@ -82,7 +82,7 @@ Sec.
 
 2322a. Requirement for consideration of certain matters during acquisition of noncommercial computer software.
 
-2323. Contract goal for small disadvantaged businesses and certain institutions of higher education.
+[2323. Repealed.]
 
 2323a. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education.
 
@@ -104,7 +104,7 @@ Sec.
 
 2331. Procurement of services: contracts for professional and technical services.
 
-2332. Share-in-savings contracts.
+[2332. Repealed.]
 
 2333. Joint policies on requirements definition, contingency program management, and contingency contracting.
 
@@ -120,9 +120,13 @@ Sec.
 
 2338. Micro-purchase threshold.
 
-2339. Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories.
+[2339. Repealed.]
+
+2339a. Requirements for information relating to supply chain risk.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(B), (3)(B), 821(c)(2), 881(a)(2), Aug. 13, 2018, 132 Stat. 1846, 1847, 1853, 1913, struck out items 2323 "Contract goal for small disadvantaged businesses and certain institutions of higher education", 2332 "Share-in-savings contracts", and 2339 "Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories" and added item 2339a.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(1), Dec. 12, 2017, 131 Stat. 1599, amended directory language of Pub. L. 114–328, §217(a)(2), effective Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2016 Amendment note below.
 

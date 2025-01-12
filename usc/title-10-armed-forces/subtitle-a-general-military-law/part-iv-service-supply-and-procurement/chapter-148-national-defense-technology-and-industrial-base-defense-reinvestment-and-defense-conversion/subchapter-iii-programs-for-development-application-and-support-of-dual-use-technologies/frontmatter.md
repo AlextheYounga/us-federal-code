@@ -8,11 +8,7 @@ Sec.
 
 2514. Encouragement of technology transfer.
 
-2515. Office of Technology Transition.
-
-[2516. Repealed.]
-
-2517. Office for Foreign Defense Critical Technology Monitoring and Assessment.
+[2515 to 2517. Repealed.]
 
 2518. Overseas foreign critical technology monitoring and assessment financial assistance program.
 
@@ -21,6 +17,8 @@ Sec.
 [2520. Repealed.]
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §811(b)(2), (c)(2), Aug. 13, 2018, 132 Stat. 1845, struck out items 2515 "Office of Technology Transition" and 2517 "Office for Foreign Defense Critical Technology Monitoring and Assessment".
 
 **1996**—Pub. L. 104–106, div. A, title X, §1081(i)(2), Feb. 10, 1996, 110 Stat. 455, substituted "program" for "partnerships" in item 2511 and struck out items 2512 "Commercial-military integration partnerships", 2513 "Regional technology alliances assistance program", 2516 "Military-Civilian Integration and Technology Transfer Advisory Board", and 2520 "Navy Reinvestment Program".
 

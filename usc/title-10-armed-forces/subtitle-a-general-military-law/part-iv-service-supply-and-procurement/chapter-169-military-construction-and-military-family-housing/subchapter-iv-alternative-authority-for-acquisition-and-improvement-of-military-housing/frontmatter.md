@@ -42,7 +42,9 @@ Sec.
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–91, div. B, title XXVIII, §2817(a)(2), Dec. 12, 2017, 131 Stat. 1852, which directed amendment of the analysis at the beginning of this chapter by adding item 2879, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+**2018**—Pub. L. 115–232, div. A, title X, §1081(c), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §2817(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
+
+**2017**—Pub. L. 115–91, div. B, title XXVIII, §2817(a)(2), Dec. 12, 2017, 131 Stat. 1852, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, added item 2879. See 2018 Amendment note above.
 
 Pub. L. 115–91, div. A, title VI, §602(b), Dec. 12, 2017, 131 Stat. 1418, added item 2886.
 

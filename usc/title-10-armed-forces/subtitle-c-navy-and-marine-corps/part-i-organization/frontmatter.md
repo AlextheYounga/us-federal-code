@@ -3,31 +3,21 @@ PART I—ORGANIZATION
 
 Chap. Sec.
 
-501. Definitions 5001
+801. Definitions 8001
 
-503. Department of the Navy 5011
+803. Department of the Navy 8011
 
-505. Office of the Chief of Naval Operations 5031
+805. Office of the Chief of Naval Operations 8031
 
-506. Headquarters, Marine Corps 5041
+806. Headquarters, Marine Corps 8041
 
-507. Composition of the Department of the Navy 5061
+807. Composition of the Department of the Navy 8061
 
-[509. Repealed.]
-
-[511. Repealed.]
-
-513. Bureaus; Office of the Judge Advocate General 5131
-
-[515. Repealed.]
-
-[516. Repealed.]
-
-[517. Repealed.]
-
-[519. Repealed.]
+809. Bureaus; Office of the Judge Advocate General 8071
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 513 as 801 to 809 and redesignated section numbers 5001 to 5131 as 8001 to 8071.
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1673(a)(2), Oct. 5, 1994, 108 Stat. 3015, struck out item for chapter 519 "Naval Reserve and Marine Corps Reserve".
 

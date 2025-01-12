@@ -8,6 +8,10 @@ Sec.
 
 222a. Unfunded priorities of the armed forces and combatant commands: annual report.
 
+222b. Unfunded priorities of the Missile Defense Agency: annual report.
+
+222c. Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers.
+
 223. Ballistic missile defense programs: program elements.
 
 223a. Ballistic missile defense programs: procurement.
@@ -24,9 +28,7 @@ Sec.
 
 231. Budgeting for construction of naval vessels: annual plan and certification.
 
-231a. Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification.
-
-[232. Repealed.]
+[231a, 232. Repealed.]
 
 233. Operation and maintenance budget presentation.
 
@@ -44,7 +46,11 @@ Sec.
 
 239a. Missile defense and defeat programs: major force program and budget assessment.
 
+239b. Certain intelligence-related programs: budget justification materials.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §813(a)(1)(B), title X, §1061(b), title XVI, §§1624(b)(2), 1677(b)(2), Aug. 13, 2018, 132 Stat. 1851, 1970, 2120, 2161, added items 222b, 222c, and 239b and struck out item 231a "Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification".
 
 **2017**—Pub. L. 115–91, div. A, title XVI, §1676(a)(2), Dec. 12, 2017, 131 Stat. 1772, added item 239a.
 
@@ -91,3 +97,43 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 **1992**—Pub. L. 102–484, div. A, title X, §1002(d)(2), Oct. 23, 1992, 106 Stat. 2481, added items 221 and 222 and redesignated former item 221 as 226.
 
 **1991**—Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, substituted "DEFENSE BUDGET MATTERS" for "REGULAR COMPONENTS" in chapter heading and added item 221.
+
+#### Budget Display for Cyber Vulnerability Evaluations and Mitigation Activities for Major Weapon Systems of the Department of Defense ####
+
+Pub. L. 115–232, div. A, title XVI, §1637, Aug. 13, 2018, 132 Stat. 2127, provided that:
+
+"(a) Budget Required.—Beginning in fiscal year 2021 and in each fiscal year thereafter, the Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President's annual budget for the Department of Defense, a consolidated Cyber Vulnerability Evaluation and Mitigation budget justification display for each major weapons system of the Department of Defense that includes the following:
+
+"(1) Cyber vulnerability evaluations.—
+
+"(A) Status.—Whether, in accordance with paragraph (1) of section 1647(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1118), the cyber vulnerability evaluation for each such major weapon system is pending, in progress, complete, or, pursuant to paragraph (2) of such section, waived.
+
+"(B) Funding.—The funding required for the fiscal year with respect to which the budget is submitted and for at least the four succeeding fiscal years required to complete the pending or in progress cyber vulnerability evaluation of each such major weapon system.
+
+"(C) Description.—A description of the activities planned in the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years to complete the required evaluation for each such major weapon system.
+
+"(D) Risk analysis.—A description of operational or security risks associated with cyber vulnerabilities identified as a result of such cyber vulnerability evaluations that require mitigation.
+
+"(2) Mitigation activities.—
+
+"(A) Status.—Whether activities to address identified cyber vulnerabilities of such major weapon systems resulting in operational or security risks requiring mitigation are pending, in progress, or complete.
+
+"(B) Funding.—The funding required for the fiscal year with respect to which the budget is submitted and for at least the four succeeding fiscal years required to complete the pending or in progress mitigation activities referred to in subparagraph (A) related to such major weapon systems.
+
+"(C) Description.—A description of the activities planned in the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years to complete any necessary mitigation.
+
+"(b) Form.—The display required under subsection (a) should, to the extent practicable, be submitted in an unclassified form, and shall include a classified annex as required."
+
+#### Budget Exhibit on Support Provided to Executive Office of the President ####
+
+Pub. L. 115–232, div. A, title XVI, §1697, Aug. 13, 2018, 132 Stat. 2171, provided that:
+
+"(a) In General.—The Under Secretary of Defense (Comptroller) shall include in the budget justification materials submitted to Congress in support of the Department of Defense budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) a single budget exhibit containing relevant details pertaining to support provided by the Department of Defense to the Executive Office of the President related to senior leader communications and continuity of Government programs.
+
+"(b) Inclusions.—The budget exhibit required by subsection (a) shall include—
+
+"(1) support provided by the White House Military Office, the White House Communications Agency, special mission area activities of the Defense Information Systems Agency, and other relevant programs; and
+
+"(2) specific appropriation and line numbers where appropriate.
+
+"(c) Form.—The budget exhibit required by subsection (a) shall be submitted in unclassified form, but may include a classified annex."

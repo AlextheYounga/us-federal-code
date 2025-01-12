@@ -82,7 +82,7 @@ The authority granted by this subsection shall not authorize the Commission to t
 
 #### (7) Assistance to certain countries ####
 
-The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
+The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup><a href="#46_1_target" name="46_1">1</a></sup> of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) <sup><a href="#46_1_target" name="46_1">1</a></sup> of title 50.
 
 #### (k) Referral of evidence for criminal proceedings ####
 
@@ -127,6 +127,8 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (l), is defined in section 44 of this title.
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+
+Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 #### Amendments ####
 
@@ -197,3 +199,5 @@ By virtue of the authority vested in me by section 55(a) of the Internal Revenue
 This Executive Order shall be effective upon its filing for publication in the Federal Register.
 
 Dwight D. Eisenhower.
+
+[<sup>1</sup> See References in Text note below.](#46_1)

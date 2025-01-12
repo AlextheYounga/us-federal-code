@@ -1,0 +1,3 @@
+### [§167a. Repealed. Pub. L. 115–232, div. A, title VIII, §812(a)(1)(A), Aug. 13, 2018, 132 Stat. 1846] ###
+
+Section, added Pub. L. 108–136, div. A, title VIII, §848(a)(1), Nov. 24, 2003, 117 Stat. 1554; amended Pub. L. 109–163, div. A, title VIII, §846(a), Jan. 6, 2006, 119 Stat. 3391; Pub. L. 110–181, div. A, title VIII, §825, Jan. 28, 2008, 122 Stat. 227, provided for delegation of limited acquisition authority to the commander of the unified combatant command for joint warfighting experimentation.

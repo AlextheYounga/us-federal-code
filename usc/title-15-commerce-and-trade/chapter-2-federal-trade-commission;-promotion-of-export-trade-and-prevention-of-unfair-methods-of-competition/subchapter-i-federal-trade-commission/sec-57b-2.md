@@ -52,7 +52,7 @@ then the custodian shall, upon written request of the person who produced the ma
 
 (C) the appropriate Federal banking agency (as defined in section 1813(q) of title 12) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in section 57a(f)(3) of this title, or a Federal credit union described in section 57a(f)(4) of this title; and
 
-(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
+(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup><a href="#57b-2_1_target" name="57b-2_1">1</a></sup> of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) <sup><a href="#57b-2_1_target" name="57b-2_1">1</a></sup> of title 50.
 
 Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of section 6211 of this title) to any officer or employee of a foreign law enforcement agency.
 
@@ -121,6 +121,8 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 #### References in Text ####
 
 Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
+
+Section 4605(j) of title 50, referred to in subsec. (b)(6)(D), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 Section 3512 of title 44, referred to in subsec. (d)(1)(D), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 

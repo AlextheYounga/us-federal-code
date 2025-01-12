@@ -54,7 +54,7 @@ Sec.
 
 656. Use of certain appropriated funds.
 
-[657. Renumbered.]
+657. Contract termination.
 
 658. Confidential investigative expenses.
 
@@ -105,6 +105,8 @@ Sec.
 681. 2 Disposition of infrastructure related to E–LORAN.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. C, title XXXV, §3523(b), Aug. 13, 2018, 132 Stat. 2316, added item 657.
 
 **2016**—Pub. L. 114–120, title I, §102(c), title II, §208(c)(1), title VI, §610(a)(2), Feb. 8, 2016, 130 Stat. 32, 40, 84, added items 676a and 681 and struck out items 661 "Authorization of personnel end strengths", 662 "Requirement for prior authorization of appropriations", 662a "Transmission of annual Coast Guard authorization request", and 663 "Capital investment plan".
 

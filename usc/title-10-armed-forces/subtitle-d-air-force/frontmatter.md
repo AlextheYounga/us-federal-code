@@ -5,103 +5,89 @@ Subtitle D—Air Force
 
 Chap. Sec.
 
-801. Definitions. [No present sections.]
+901. Definitions. [No present sections.]
 
-803. Department of the Air Force 8011
+903. Department of the Air Force 9011
 
-805. The Air Staff 8031
+905. The Air Staff 9031
 
-807. The Air Force 8061
+907. The Air Force 9061
 
 ### **PART II—PERSONNEL** ###
 
-831. Strength 8201
+911. Strength 9110
 
-833. Enlistments 8251
+913. Enlistments 9131
 
-835. Appointments in the Regular Air Force 8281
+915. Appointments in the Regular Air Force 9151
 
-[837. Repealed.]
+919. Temporary Appointments 9176
 
-839. Temporary Appointments 8441
+921. Active Duty 9191
 
-841. Active Duty 8491
+923. Special Appointments, Assignments, Details, and Duties 9217
 
-843. Special Appointments, Assignments, Details, and Duties 8531
+925. Rank and Command 9222
 
-845. Rank and Command 8571
+929. Miscellaneous Prohibitions and Penalties 9239
 
-[847. Repealed.]
+933. Miscellaneous Rights and Benefits 9251
 
-849. Miscellaneous Prohibitions and Penalties 8631
+935. Hospitalization 9263
 
-[851. Repealed.]
+937. Decorations and Awards 9271
 
-853. Miscellaneous Rights and Benefits 8681
+939. Separation for Various Reasons 9307
 
-855. Hospitalization 8721
+941. Retirement for Length of Service 9311
 
-857. Decorations and Awards 8741
+943. Retired Grade 9341
 
-[859. Repealed.]
+945. Computation of Retired Pay 9361
 
-[860. Repealed.]
+947. Civilian Employees 9371
 
-861. Separation for Various Reasons 8811
-
-[863. Repealed.]
-
-[865. Repealed.]
-
-867. Retirement for Length of Service 8911
-
-869. Retired Grade 8961
-
-871. Computation of Retired Pay 8991
-
-873. Civilian Employees 9021
-
-875. Miscellaneous Investigation Requirements and Other Duties 9061
+949. Miscellaneous Investigation Requirements and Other Duties 9381
 
 ### **PART III—TRAINING** ###
 
-901. Training Generally 9301
+951. Training Generally 9401
 
-903. United States Air Force Academy 9331
+953. United States Air Force Academy 9431
 
-[905. Repealed.]
+957. Schools and Camps 9481
 
-907. Schools and Camps 9411
-
-909. Civil Air Patrol 9441
+959. Civil Air Patrol 9491
 
 ### **PART IV—SERVICE, SUPPLY, AND PROCUREMENT** ###
 
-931. Civil Reserve Air Fleet 9511
+961. Civil Reserve Air Fleet 9511
 
-933. Procurement 9531
+963. Procurement 9531
 
-935. Issue of Serviceable Material to Armed Forces 9561
+965. Issue of Serviceable Material to Armed Forces 9561
 
-937. Utilities and Services 9591
+967. Utilities and Services 9591
 
-939. Sale of Serviceable Material 9621
+969. Sale of Serviceable Material 9621
 
-941. Issue of Serviceable Material other than to Armed Forces 9651
+971. Issue of Serviceable Material other than to Armed Forces 9651
 
-943. Disposal of Obsolete or Surplus Material 9681
+973. Disposal of Obsolete or Surplus Material 9681
 
-945. Disposition of Effects of Deceased Persons 9712
+975. Disposition of Effects of Deceased Persons 9712
 
-947. Transportation 9741
+977. Transportation 9741
 
-949. Real Property 9771
+979. Real Property 9771
 
-951. Military Claims 9801
+981. Military Claims 9801
 
-953. Accountability and Responsibility 9831
+983. Accountability and Responsibility 9831
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 953 as 901 to 983 and redesignated section numbers 8011 to 9831 as 9011 to 9831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 **2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 "Aviation Leadership Program".
 

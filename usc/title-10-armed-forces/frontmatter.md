@@ -7,15 +7,19 @@ Subtitle Sec.
 
 A. General Military Law 101
 
-B. Army 3001
+B. Army 7001
 
-C. Navy and Marine Corps 5001
+C. Navy and Marine Corps 8001
 
-D. Air Force 8001
+D. Air Force 9011
 
 E. Reserve Components 10001
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840, substituted "7001" for "3001" in item for subtitle B and "8001" for "5001" in item for subtitle C.
+
+Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840, substituted "9011" for "8001" in item for subtitle D to reflect the probable intent of Congress to include the number, as redesignated by section 806(c) of Pub. L. 115–232, of the first section of subtitle D.
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1671(a), Oct. 5, 1994, 108 Stat. 3013, added item for subtitle E.
 

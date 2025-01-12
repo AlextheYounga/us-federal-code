@@ -10,7 +10,11 @@ Sec.
 
 2034. Educational institutions not maintaining units of Junior Reserve Officers' Training Corps: issuance of arms, tentage, and equipment.
 
+2035. Flexibility in authorities for management of programs and units.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title V, §557(a)(2), Aug. 13, 2018, 132 Stat. 1774, added item 2035.
 
 **2013**—Pub. L. 112–239, div. A, title V, §552(c)(1), Jan. 2, 2013, 126 Stat. 1741, added item 2034.
 

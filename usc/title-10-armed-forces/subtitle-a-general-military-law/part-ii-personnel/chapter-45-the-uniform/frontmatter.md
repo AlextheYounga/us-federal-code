@@ -32,6 +32,16 @@ Sec.
 
 **1968**—Pub. L. 90–235, §8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
 
+#### Notification Requirements Relating to Changes to Uniform of Members of the Uniformed Services ####
+
+Pub. L. 115–232, div. A, title III, §356, Aug. 13, 2018, 132 Stat. 1732, provided that:
+
+"(a) DLA Notification.—The Secretary of a military department shall notify the Commander of the Defense Logistics Agency of any plan to implement a change to any uniform or uniform component of a member of the uniformed services. Such notification shall be made not less than three years prior to the implementation of such change.
+
+"(b) Contractor Notification.—The Commander of the Defense Logistics Agency shall notify a contractor when one of the uniformed services plans to make a change to a uniform component that is provided by that contractor. Such a notification shall be made not less than 12 months prior to any announcement of a public solicitation for the manufacture of the new uniform component.
+
+"(c) Waiver.—If the Secretary of a military department or the Commander of the Defense Logistics Agency determines that the notification requirement under subsection (a) would adversely affect operational safety, force protection, or the national security interests of the United States, the Secretary or the Commander may waive such requirement."
+
 #### Revised Policy on Ground Combat and Camouflage Utility Uniforms ####
 
 Pub. L. 113–66, div. A, title III, §352(a)–(f), Dec. 26, 2013, 127 Stat. 742, 743, provided that:

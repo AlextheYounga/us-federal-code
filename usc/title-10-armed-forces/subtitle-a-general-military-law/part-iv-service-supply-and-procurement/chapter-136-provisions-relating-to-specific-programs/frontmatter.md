@@ -6,7 +6,13 @@ Sec.
 
 [2282. Repealed.]
 
+2283. Department of Defense small business strategy.
+
+2284. Explosive Ordnance Disposal Defense Program.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title III, §311(b), title VIII, §851(c), Aug. 13, 2018, 132 Stat. 1709, 1884, added items 2283 and 2284.
 
 **2016**—Pub. L. 114–328, div. A, title XII, §1241(d)(6), Dec. 23, 2016, 130 Stat. 2505, struck out item 2282 "Authority to build the capacity of foreign security forces".
 

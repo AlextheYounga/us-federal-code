@@ -1,8 +1,12 @@
 ### §754a. Purchase of commissary and quartermaster supplies ###
 
-Officers and crews of vessels of the Lighthouse Service and light keepers and depot keepers of the Lighthouse Service shall be permitted to purchase commissary and quartermaster supplies from the Army, Navy, or Marine Corps at the price charged officers and enlisted men of the Army, Navy, or Marine Corps.
+Officers and crews of vessels of the Lighthouse Service and light keepers and depot keepers of the Lighthouse Service shall be permitted to purchase commissary and quartermaster supplies from the Army, Navy, or Marine Corps at the price charged officers and enlisted members of the Army, Navy, or Marine Corps.
 
-(May 22, 1926, ch. 371, §4, 44 Stat. 626.)
+(May 22, 1926, ch. 371, §4, 44 Stat. 626; Pub. L. 115–232, div. C, title XXXV, §3533(c)(3), Aug. 13, 2018, 132 Stat. 2321.)
+
+#### Amendments ####
+
+**2018**—Pub. L. 115–232 substituted "enlisted members" for "enlisted men".
 
 #### Transfer of Functions ####
 

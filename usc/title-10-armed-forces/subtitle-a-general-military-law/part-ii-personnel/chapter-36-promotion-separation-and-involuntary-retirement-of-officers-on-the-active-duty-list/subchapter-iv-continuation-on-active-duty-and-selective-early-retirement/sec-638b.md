@@ -10,7 +10,7 @@
 
 (A) has served on active duty for more than 20 years, but not more than 29 years, on the approved date of retirement;
 
-(B) meets the minimum length of commissioned service requirement for voluntary retirement as a commissioned officer in accordance with section 3911, 6323, or 8911 of this title, as applicable to that officer;
+(B) meets the minimum length of commissioned service requirement for voluntary retirement as a commissioned officer in accordance with section 7311, 8323, or 9311 of this title, as applicable to that officer;
 
 (C) on the approved date of retirement, has 12 months or more remaining on active-duty service before reaching the maximum retirement years of active service for the member's grade as specified in section 633 or 634 of this title;
 
@@ -38,4 +38,12 @@
 
 (3) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interest of the United States. The authority in this paragraph may be delegated only to the Under Secretary of Defense for Personnel and Readiness and the Principal Deputy Under Secretary of Defense of Personnel and Readiness.
 
-(Added Pub. L. 112–81, div. A, title V, §504(a)(1), Dec. 31, 2011, 125 Stat. 1389.)
+(Added Pub. L. 112–81, div. A, title V, §504(a)(1), Dec. 31, 2011, 125 Stat. 1389; amended Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+
+#### Amendments ####
+
+**2018**—Subsec. (c)(1)(B). Pub. L. 115–232 substituted "section 7311, 8323, or 9311" for "section 3911, 6323, or 8911".
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.

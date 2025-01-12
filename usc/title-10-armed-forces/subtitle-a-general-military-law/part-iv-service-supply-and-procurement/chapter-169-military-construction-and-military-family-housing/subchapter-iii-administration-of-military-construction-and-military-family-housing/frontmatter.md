@@ -32,7 +32,7 @@ Sec.
 
 2864. Master plans for major military installations.
 
-[2865. Repealed.]
+2865. Work in Process Curve charts and outlay tables for military construction projects.
 
 2866. Water conservation at military installations.
 
@@ -43,6 +43,8 @@ Sec.
 2869. Exchange of property at military installations.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. B, title XXVIII, §2806(a)(2), Aug. 13, 2018, 132 Stat. 2264, added item 2865.
 
 **2013**—Pub. L. 112–239, div. B, title XXVIII, §2802(b), Jan. 2, 2013, 126 Stat. 2147, added item 2864.
 

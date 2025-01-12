@@ -48,12 +48,12 @@ Sec.
 
 57532. Operation of experimental vessels.
 
-57533. Vessel chartering authority 1
+57533. Vessel chartering authority.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. C, title XXXV, §3546(t), Aug. 13, 2018, 132 Stat. 2327, inserted period at end of item 57533.
 
 **2016**—Pub. L. 114–120, title III, §313(c)(2), Feb. 8, 2016, 130 Stat. 59, added item 57522.
 
 **2008**—Pub. L. 110–181, div. C, title XXXV, §3511(b), Jan. 28, 2008, 122 Stat. 594, added item 57533.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER575_1)

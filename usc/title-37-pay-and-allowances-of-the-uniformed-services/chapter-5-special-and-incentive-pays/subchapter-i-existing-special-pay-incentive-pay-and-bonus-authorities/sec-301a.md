@@ -18,7 +18,7 @@
 
 (C) The term "proficiency flying duty" means flying performed under competent orders by rated or designated members while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
 
-(D) The term "officer" includes an individual enlisted, and designated, as an aviation cadet under section 6911 of title 10.
+(D) The term "officer" includes an individual enlisted, and designated, as an aviation cadet under section 8411 of title 10.
 
 (b)(1) A member who satisfies the requirements described in subsection (a) is entitled to monthly incentive pay as follows:
 
@@ -53,9 +53,11 @@
 
 (d) Under regulations prescribed by the President and to the extent provided for by appropriations, when a member of a reserve component of a uniformed service, or of the National Guard, who is entitled to compensation under section 206 of this title, performs, under orders, duty described in subsection (a) for members entitled to basic pay, he is entitled to an increase in compensation equal to 1/30 of the monthly incentive pay authorized by subsection (b) for the performance of that duty by a member with corresponding years of aviation service who is entitled to basic pay. Such member is entitled to the increase for as long as he is qualified for it, for each regular period of instruction, or period of appropriate duty, at which he is engaged for at least two hours, including that performed on a Sunday or holiday, or for the performance of such other equivalent training, instruction, duty or appropriate duties, as the Secretary may prescribe under section 206(a) of this title. This subsection does not apply to a member who is entitled to basic pay under section 204 of this title.
 
-(Added Pub. L. 93–294, §2(3), May 31, 1974, 88 Stat. 177; amended Pub. L. 94–273, §3(21), Apr. 21, 1976, 90 Stat. 377; Pub. L. 96–343, §2(b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–513, title V, §516(6), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §112(a), (b), Oct. 14, 1981, 95 Stat. 994; Pub. L. 99–661, div. A, title VI, §632(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–26, §8(e)(3), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §631(a)–(d), Nov. 29, 1989, 103 Stat. 1449, 1450; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–35, title II, §204(c), May 31, 1993, 107 Stat. 102; Pub. L. 104–106, div. A, title VI, §616, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §615(a), (b), Nov. 18, 1997, 111 Stat. 1787; Pub. L. 105–261, div. A, title VI, §615(a)(1), (b), (c)(1), (d), Oct. 17, 1998, 112 Stat. 2040, 2041; Pub. L. 106–65, div. A, title VI, §614(a), Oct. 5, 1999, 113 Stat. 651; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title X, §1084(e)(1), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–364, div. A, title X, §1046(a), Oct. 17, 2006, 120 Stat. 2393.)
+(Added Pub. L. 93–294, §2(3), May 31, 1974, 88 Stat. 177; amended Pub. L. 94–273, §3(21), Apr. 21, 1976, 90 Stat. 377; Pub. L. 96–343, §2(b), Sept. 8, 1980, 94 Stat. 1124; Pub. L. 96–513, title V, §516(6), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–60, title I, §112(a), (b), Oct. 14, 1981, 95 Stat. 994; Pub. L. 99–661, div. A, title VI, §632(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–26, §8(e)(3), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, §631(a)–(d), Nov. 29, 1989, 103 Stat. 1449, 1450; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–35, title II, §204(c), May 31, 1993, 107 Stat. 102; Pub. L. 104–106, div. A, title VI, §616, Feb. 10, 1996, 110 Stat. 362; Pub. L. 105–85, div. A, title VI, §615(a), (b), Nov. 18, 1997, 111 Stat. 1787; Pub. L. 105–261, div. A, title VI, §615(a)(1), (b), (c)(1), (d), Oct. 17, 1998, 112 Stat. 2040, 2041; Pub. L. 106–65, div. A, title VI, §614(a), Oct. 5, 1999, 113 Stat. 651; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title X, §1084(e)(1), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–364, div. A, title X, §1046(a), Oct. 17, 2006, 120 Stat. 2393; Pub. L. 115–232, div. A, title VIII, §809(m)(2), Aug. 13, 2018, 132 Stat. 1843.)
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(6)(D). Pub. L. 115–232 substituted "section 8411 of title 10" for "section 6911 of title 10".
 
 **2006**—Subsec. (f). Pub. L. 109–364 struck out subsec. (f), which required the Secretary of Defense to submit annually to Congress a report specifying for the year covered by the report the total number of officers who were determined under subsection (a)(5) to have failed to perform the minimum operational flying duty requirements, the number of those officers who continued to receive continuous monthly incentive pay and the extent to which they failed to perform those requirements, and the reasons for the exercise of the authority under the second sentence of subsection (a)(5) in the case of each officer specified.
 
@@ -135,6 +137,10 @@ Subsec. (b)(1). Pub. L. 96–343, §2(b)(1), (2), substituted in phase I table, 
 Subsec. (b)(2). Pub. L. 96–343, §2(b)(3), substituted "$125", "$138", and "$250" for "$100", "$110", and "$200" in items relating to 2 or less years, over 2 years, and over 6 years, respectively.
 
 **1976**—Subsec. (e). Pub. L. 94–273 substituted "October" for "July".
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
 #### Effective Date of 2002 Amendment ####
 

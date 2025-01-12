@@ -10,7 +10,11 @@ Sec.
 
 1064. Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency.
 
+1065. Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VI, §621(b)(2), Aug. 13, 2018, 132 Stat. 1799, added item 1065.
 
 **2003**—Pub. L. 108–136, div. A, title VI, §651(c), Nov. 24, 2003, 117 Stat. 1522, added items 1063 and 1064 and struck out former items 1063 "Use of commissary stores: members of Ready Reserve", 1063a "Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency", 1064 "Use of commissary stores: persons qualified for retired pay under chapter 1223 but under age 60", and 1065 "Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents".
 

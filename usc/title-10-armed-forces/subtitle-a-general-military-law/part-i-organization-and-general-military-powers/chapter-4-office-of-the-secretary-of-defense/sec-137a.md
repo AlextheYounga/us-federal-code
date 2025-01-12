@@ -20,15 +20,13 @@
 
 (6) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence, who shall be appointed from among persons who have extensive expertise in intelligence matters.
 
-(d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.<sup><a href="#137a_1_target" name="137a_1">1</a></sup> The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
+(d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, §906(a)–(c), (f)(1), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597.)
-
-#### References in Text ####
-
-The Deputy Chief Management Officer of the Department of Defense, referred to in subsec. (d), was established by section 132a of this title prior to the general amendment of that section by Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516. As amended by Pub. L. 115–91, section 132a of this title established the Chief Management Officer of the Department of Defense.
+(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, §906(a)–(c), (f)(1), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986.)
 
 #### Amendments ####
+
+**2018**—Subsec. (d). Pub. L. 115–232 substituted "the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense" for "the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense".
 
 **2017**—Pub. L. 115–91, §906(f)(1), amended section catchline generally, substituting "Deputy Under Secretaries of Defense" for "Principal Deputy Under Secretaries of Defense".
 
@@ -111,5 +109,3 @@ Pub. L. 111–383, div. A, title IX, §901(i)(2), Jan. 7, 2011, 124 Stat. 4323, 
 Pub. L. 111–84, div. A, title IX, §906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, §901(i)(1), Jan. 7, 2011, 124 Stat. 4323, which provided that, effective Jan. 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10 would be the only Deputy Under Secretaries of Defense, was repealed by Pub. L. 113–291, div. A, title IX, §901(i)(2), Dec. 19, 2014, 128 Stat. 3467.
 
 [Pub. L. 113–291, div. A, title IX, §901(i)(2), Dec. 19, 2014, 128 Stat. 3467, provided that section 901(i)(2), which repealed section 906(a)(2) of Pub. L. 111–84, formerly set out above, is effective on the effective date specified in section 901(i)(1) of Pub. L. 113–291, which is Jan. 1, 2015.]
-
-[<sup>1</sup> See References in Text note below.](#137a_1)

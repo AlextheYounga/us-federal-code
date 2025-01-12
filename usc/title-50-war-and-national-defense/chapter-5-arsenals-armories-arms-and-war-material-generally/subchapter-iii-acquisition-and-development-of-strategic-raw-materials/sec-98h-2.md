@@ -1,6 +1,6 @@
 ### §98h–2. Reports to Congress ###
 
-(a) Not later than January 15 of each year, the President shall submit to the Congress an annual written report detailing operations under this subchapter. Each such report shall include—
+(a) Not later than February 15 of each year, the President shall submit to the Congress an annual written report detailing operations under this subchapter. Each such report shall include—
 
 (1) information with respect to foreign and domestic purchases of materials during the preceding fiscal year;
 
@@ -14,13 +14,13 @@
 
 (6) such other pertinent information on the administration of this subchapter as will enable the Congress to evaluate the effectiveness of the program provided for under this subchapter and to determine the need for additional legislation.
 
-(b)(1) Not later than February 15 of each year, the President shall submit to the appropriate committees of the Congress a report containing an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years.
+(b)(1) Each report under subsection (a) shall also include an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years.
 
-(2) Each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. Each such report shall also contain details regarding the materials development and research projects to be conducted under section 98h(b)(2)(H) of this title during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
+(2) With respect to the plan described in paragraph (1), each such report shall include details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period (including expenditures to be made from appropriations from the general fund of the Treasury) and of anticipated receipts from proposed disposals of stockpile materials during such period. With respect to such plan, each report shall also contain details regarding the materials development and research projects to be conducted under section 98h(b)(2)(H) of this title during the fiscal years covered by the report. With respect to each development and research project, the report shall specify the amount planned to be expended from the fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used.
 
 (3) Any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to section 98d(a)(2) of this title, that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with section 98d(a)(2) of this title, as appropriate.
 
-(June 7, 1939, ch. 190, §11, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 324; amended Pub. L. 97–35, title II, §203(e), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(a)(3), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3205, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 100–456, div. A, title XV, §1503, Sept. 29, 1988, 102 Stat. 2086; Pub. L. 101–189, div. C, title XXXIII, §3315, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 102–190, div. C, title XXXIII, §§3311(b), 3313(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–35, title II, §204(d), May 31, 1993, 107 Stat. 103; Pub. L. 113–291, div. A, title X, §1071(j), Dec. 19, 2014, 128 Stat. 3512.)
+(June 7, 1939, ch. 190, §11, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 324; amended Pub. L. 97–35, title II, §203(e), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(a)(3), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3205, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 100–456, div. A, title XV, §1503, Sept. 29, 1988, 102 Stat. 2086; Pub. L. 101–189, div. C, title XXXIII, §3315, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 102–190, div. C, title XXXIII, §§3311(b), 3313(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–35, title II, §204(d), May 31, 1993, 107 Stat. 103; Pub. L. 113–291, div. A, title X, §1071(j), Dec. 19, 2014, 128 Stat. 3512; Pub. L. 115–232, div. A, title XIV, §1423, Aug. 13, 2018, 132 Stat. 2093.)
 
 #### Prior Provisions ####
 
@@ -29,6 +29,12 @@ A prior section 11 of act June 7, 1939, ch. 190, formerly §10, as added July 23
 Provisions similar to those in this section were contained in former section 98c of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments ####
+
+**2018**—Subsec. (a). Pub. L. 115–232, §1423(1), substituted "February 15" for "January 15" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–232, §1423(2)(A), substituted "Each report under subsection (a) shall also include" for "Not later than February 15 of each year, the President shall submit to the appropriate committees of the Congress a report containing".
+
+Subsec. (b)(2). Pub. L. 115–232, §1423(2)(B), substituted "With respect to the plan described in paragraph (1), each such report shall include" for "Each such report shall include" and "With respect to such plan, each report shall also contain" for "Each such report shall also contain".
 
 **2014**—Subsec. (b)(2). Pub. L. 113–291 substituted "under section 98h(b)(2)(H)" for "under section 98h(b)(2)(G)".
 

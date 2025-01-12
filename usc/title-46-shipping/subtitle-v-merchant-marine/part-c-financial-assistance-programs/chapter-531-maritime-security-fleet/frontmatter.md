@@ -18,10 +18,12 @@ Sec.
 
 53108. Regulatory relief.
 
-53109. Special rule regarding age of participating fleet vessel. 1
+[53109. Repealed.]
 
 53110. Regulations.
 
 53111. Authorization of appropriations.
 
-[<sup>1</sup> Section repealed by Pub. L. 112–239 without corresponding amendment of chapter analysis.](#CHAPTER531_1)
+#### Amendments ####
+
+**2018**—Pub. L. 115–232, div. C, title XXXV, §3546(n), Aug. 13, 2018, 132 Stat. 2327, struck out item 53109 "Special rule regarding age of participating fleet vessel".

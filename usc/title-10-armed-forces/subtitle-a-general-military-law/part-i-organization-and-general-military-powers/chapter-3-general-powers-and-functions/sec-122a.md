@@ -39,3 +39,25 @@ Pub. L. 113–66, div. A, title X, §1081(b), Dec. 26, 2013, 127 Stat. 871, prov
 #### Effective Date ####
 
 Pub. L. 111–383, div. A, title X, §1061(b), Jan. 7, 2011, 124 Stat. 4362, provided that: "Section 122a of title 10, United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Jan. 7, 2011], and shall apply with respect to reports that are required by law to be submitted to Congress on or after that date."
+
+#### Public Availability of Top-Line Numbers of Deployed Members of the Armed Forces ####
+
+Pub. L. 115–232, div. A, title V, §595, Aug. 13, 2018, 132 Stat. 1789, provided that:
+
+"(a) In General.—Except as provided in subsection (b), the Secretary of Defense shall make publicly available, on a quarterly basis, on a website of the Department the top-line numbers of members of the Armed Forces deployed for each country as of the date of the submittal of the report and the total number of members of the Armed Forces so deployed during the quarter covered by the report.
+
+"(b) Waiver.—
+
+"(1) In general.—The Secretary may waive the requirement under subsection (a) in the case of a sensitive military operation if—
+
+"(A) the Secretary determines the public disclosure of the number of deployed members of the Armed Forces could reasonably be expected to provide an operational military advantage to an adversary; or
+
+"(B) members of the Armed Forces are deployed for a period that does not exceed 30 days.
+
+"(2) Notice.— If the Secretary issues a waiver under this subsection, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+
+"(A) a notice of the waiver; and
+
+"(B) the reasons for the determination to issue the waiver.
+
+"(c) Sensitive Military Operation Defined.—The term 'sensitive military operation' has the meaning given that term in section 130f(d) of title 10, United States Code."

@@ -78,6 +78,32 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 **1965**—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
+#### Review of Guidance on Blast Exposure During Training ####
+
+Pub. L. 115–232, div. A, title II, §253, Aug. 13, 2018, 132 Stat. 1704, provided that:
+
+"(a) Initial Review.—Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall review the decibel level exposure, concussive effects exposure, and the frequency of exposure to heavy weapons fire of an individual during training exercises to establish appropriate limitations on such exposures.
+
+"(b) Elements.—The review required by subsection (a) shall take into account current data and evidence on the cognitive effects of blast exposure and shall include consideration of the following:
+
+"(1) The impact of exposure over multiple successive days of training.
+
+"(2) The impact of multiple types of heavy weapons being fired in close succession.
+
+"(3) The feasibility of cumulative annual or lifetime exposure limits.
+
+"(4) The minimum safe distance for observers and instructors.
+
+"(c) Updated Training Guidance.—Not later than 180 days after the date of the completion of the review under subsection (a), each Secretary of a military department shall update any relevant training guidance to account for the conclusions of the review.
+
+"(d) Updated Review.—
+
+"(1) In general.—Not later than two years after the initial review conducted under subsection (a), and not later than two years thereafter, the Secretary of Defense shall conduct an updated review under such subsection, including consideration of the matters set forth under subsection (b), and update training guidance under subsection (c).
+
+"(2) Consideration of new research and evidence.—Each updated review conducted under paragraph (1) shall take into account new research and evidence that has emerged since the previous review.
+
+"(e) Briefing Required.—The Secretary of Defense shall brief the Committees on Armed Services of the Senate and the House of Representatives on a summary of the results of the initial review under subsection (a), each updated review conducted under subsection (d), and any updates to training guidance and procedures resulting from any such review or updated review."
+
 #### Annual Training Regarding the Influence Campaign of the Russian Federation ####
 
 Pub. L. 115–91, div. A, title X, §1048, Dec. 12, 2017, 131 Stat. 1558, provided that: "In addition to any currently mandated training, the Secretary of Defense may furnish annual training to all members of the Armed Forces and all civilian employees of the Department of Defense, regarding attempts by the Russian Federation and its proxies and agents to influence and recruit members of the Armed Forces as part of its influence campaign."

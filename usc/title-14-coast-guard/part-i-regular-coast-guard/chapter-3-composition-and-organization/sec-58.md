@@ -1,6 +1,6 @@
 ### §58. Centers of expertise for Coast Guard prevention and response ###
 
-(a) Establishment.—The Commandant of the Coast Guard may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a "center").
+(a) Establishment.—The Commandant may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a "center").
 
 (b) Missions.—Any center established under subsection (a) shall—
 
@@ -34,9 +34,11 @@
 
 (3) The Commandant shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a donation from a foreign source would have a result described in paragraph (2).
 
-(Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2955; amended Pub. L. 113–281, title II, §204, Dec. 18, 2014, 128 Stat. 3025.)
+(Added Pub. L. 111–281, title V, §521(a), Oct. 15, 2010, 124 Stat. 2955; amended Pub. L. 113–281, title II, §204, Dec. 18, 2014, 128 Stat. 3025; Pub. L. 115–232, div. C, title XXXV, §3531(c)(1), Aug. 13, 2018, 132 Stat. 2320.)
 
 #### Amendments ####
+
+**2018**—Subsec. (a). Pub. L. 115–232 substituted "Commandant" for "Commandant of the Coast Guard".
 
 **2014**—Subsec. (b). Pub. L. 113–281 amended subsec. (b) generally. Prior to amendment, text read as follows: "Each center shall—
 

@@ -14,7 +14,7 @@ Sec.
 
 [45. Repealed.]
 
-46. Retirement of Commandant.
+46. Retirement of Commandant or Vice Commandant.
 
 47. Vice Commandant; appointment.
 
@@ -45,6 +45,8 @@ Sec.
 60. Training course on workings of Congress.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. C, title XXXV, §3528(c), Aug. 13, 2018, 132 Stat. 2318, substituted "Retirement of Commandant or Vice Commandant" for "Retirement of Commandant" in item 46.
 
 **2016**—Pub. L. 114–120, title II, §214(b)(2), Feb. 8, 2016, 130 Stat. 45, added item 60.
 

@@ -34,6 +34,10 @@ Sec.
 
 3114. Appointment of candidates to positions in the competitive service by the Securities and Exchange Commission. 1
 
+3115. Expedited hiring authority for college graduates; competitive service 2
+
+3116. Expedited hiring authority for post-secondary students; competitive service 2
+
 #### SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE ####
 
 3131. The Senior Executive Service.
@@ -66,6 +70,8 @@ Sec.
 
 #### Amendments ####
 
+**2018**—Pub. L. 115–232, div. A, title XI, §1108(b), Aug. 13, 2018, 132 Stat. 2009, added items 3115 and 3116.
+
 **2017**—Pub. L. 115–1, §2(b), Jan. 20, 2017, 131 Stat. 5, added subchapter V heading and items 3171 and 3172.
 
 **2011**—Pub. L. 112–81, div. A, title XI, §1109(b), Dec. 31, 2011, 125 Stat. 1615, added item 3111a.
@@ -91,3 +97,5 @@ Pub. L. 95–251, §2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted "administr
 **1967**—Pub. L. 90–206, title II, §221(b), Dec. 16, 1967, 81 Stat. 640, added item 3110.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER31_1)
+
+[\\2\\ So in original. Probably should be followed by a period.](#CHAPTER31_I)

@@ -160,6 +160,8 @@ Sec.
 
 2626. Hanford Waste Treatment and Immobilization Plant contract oversight.
 
+2627. Notification regarding air release of radioactive or hazardous material.
+
 #### Part D—Savannah River Site, South Carolina ####
 
 2631. Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site.
@@ -311,6 +313,8 @@ Sec.
 2785. Publication of contractor performance evaluations leading to award fees.
 
 2786. Enhanced procurement authority to manage supply chain risk.
+
+2787. Cost-benefit analyses for competition of management and operating contracts.
 
 #### Part B—Research and Development ####
 

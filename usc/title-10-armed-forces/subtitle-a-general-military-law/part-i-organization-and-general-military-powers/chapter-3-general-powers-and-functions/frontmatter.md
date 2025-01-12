@@ -58,17 +58,17 @@ Sec.
 
 130f. Notification requirements for sensitive military operations.
 
-130g. Authorities concerning military cyber operations.
+[130g. Renumbered.]
 
 130h. Prohibitions relating to missile defense information and systems.
 
 130i. Protection of certain facilities and assets from unmanned aircraft.
 
-130j. Notification requirements for sensitive military cyber operations 1
-
-130k. Notification requirements for cyber weapons 1
+[130j, 130k. Renumbered.]
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title X, §1081(a)(2), title XVI, §1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struck out item 130g "Authorities concerning military cyber operations" and made technical correction to and struck out items 130j "Notification requirements for sensitive military cyber operations" and 130k "Notification requirements for cyber weapons".
 
 **2017**—Pub. L. 115–91, div. A, title XVI, §1631(b), Dec. 12, 2017, 131 Stat. 1738, added items 130j and 130k.
 
@@ -127,5 +127,3 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 **1962**—Pub. L. 87–651, title II, §201(b), Sept. 7, 1962, 76 Stat. 517, added items 124 to 126.
 
 **1958**—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER3_1)

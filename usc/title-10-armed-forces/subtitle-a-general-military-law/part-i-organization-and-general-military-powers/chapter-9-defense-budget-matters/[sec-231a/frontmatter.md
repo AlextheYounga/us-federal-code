@@ -1,0 +1,3 @@
+### [§231a. Repealed. Pub. L. 115–232, div. A, title VIII, §813(a)(1)(A), Aug. 13, 2018, 132 Stat. 1851] ###
+
+Section, added Pub. L. 110–417, [div. A], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, §1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591; Pub. L. 113–66, div. A, title X, §1091(a)(5), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title I, §137, Dec. 23, 2016, 130 Stat. 2039, provided for the annual budgeting for life-cycle cost of specified aircraft for the Navy, Army, and Air Force.

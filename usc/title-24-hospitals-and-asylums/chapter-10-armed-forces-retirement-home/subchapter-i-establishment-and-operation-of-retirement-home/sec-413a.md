@@ -18,9 +18,9 @@ The Senior Medical Advisor shall provide advice to the Secretary of Defense, the
 
 In carrying out the responsibilities set forth in subsection (b), the Senior Medical Advisor shall perform the following duties:
 
-(1) Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.
+(1) Facilitate and monitor the timely availability to residents of the Retirement Home such medical, mental health, and dental care services as such residents may require at locations other than the Retirement Home.
 
-(2) Ensure compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
+(2) Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).
 
 (3) Periodically visit each facility of the Retirement Home to review—
 
@@ -34,9 +34,13 @@ In carrying out the responsibilities set forth in subsection (b), the Senior Med
 
 In carrying out the responsibilities set forth in subsection (b) and the duties set forth in subsection (c), the Senior Medical Advisor may establish and seek the advice of such advisory bodies as the Senior Medical Advisor considers appropriate.
 
-(Pub. L. 101–510, div. A, title XV, §1513A, as added Pub. L. 110–181, div. A, title XIV, §1422(d)(1), Jan. 28, 2008, 122 Stat. 420; amended Pub. L. 112–81, div. A, title V, §§562, 567(c)(3), Dec. 31, 2011, 125 Stat. 1420, 1426; Pub. L. 113–291, div. A, title VII, §721, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 115–91, div. A, title XIV, §1413(a)(1), Dec. 12, 2017, 131 Stat. 1707.)
+(Pub. L. 101–510, div. A, title XV, §1513A, as added Pub. L. 110–181, div. A, title XIV, §1422(d)(1), Jan. 28, 2008, 122 Stat. 420; amended Pub. L. 112–81, div. A, title V, §§562, 567(c)(3), Dec. 31, 2011, 125 Stat. 1420, 1426; Pub. L. 113–291, div. A, title VII, §721, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 115–91, div. A, title XIV, §1413(a)(1), Dec. 12, 2017, 131 Stat. 1707; Pub. L. 115–232, div. A, title XIV, §1413, Aug. 13, 2018, 132 Stat. 2092.)
 
 #### Amendments ####
+
+**2018**—Subsec. (c)(1). Pub. L. 115–232, §1413(1), added par. (1) and struck out former par. (1) which read as follows: "Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home."
+
+Subsec. (c)(2). Pub. L. 115–232, §1413(2), substituted "Monitor" for "Ensure".
 
 **2017**—Subsec. (b). Pub. L. 115–91, §1413(a)(1)(A), struck out "the Under Secretary of Defense for Personnel and Readiness," after "Secretary of Defense," in introductory provisions.
 

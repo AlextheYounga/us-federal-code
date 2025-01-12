@@ -1,0 +1,3 @@
+### [§53912. Repealed. Pub. L. 115–232, div. C, title XXXV, §3504(a), Aug. 13, 2018, 132 Stat. 2308] ###
+
+Section, Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1632; Pub. L. 110–417, div. C, title XXXV, §3509, Oct. 14, 2008, 122 Stat. 4769; Pub. L. 113–66, div. C, title XXXV, §3502, Dec. 26, 2013, 127 Stat. 1085, set an expiration date of authority to provide insurance and reinsurance under this chapter.

@@ -1,10 +1,10 @@
 ### §51. Retirement ###
 
-(a) An officer, other than the Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served.
+(a) An officer, other than the Commandant or Vice Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served.
 
-(b) An officer, other than the Commandant, who is retired while serving in the grade of admiral or vice admiral, or who, after serving at least 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served.
+(b) An officer, other than the Commandant or Vice Commandant, who is retired while serving in the grade of admiral or vice admiral, or who, after serving at least 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the highest grade in which that officer served.
 
-(c) An officer, other than the Commandant, who, after serving less than 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.
+(c) An officer, other than the Commandant or Vice Commandant, who, after serving less than 2½ years in the grade of admiral or vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.
 
 (d) An officer serving in the grade of admiral or vice admiral shall continue to hold that grade—
 
@@ -12,9 +12,11 @@
 
 (2) while awaiting retirement, beginning on the day that officer is relieved from the position of Commandant, Vice Commandant, or Vice Admiral and ending on the day before the officer's retirement, but not for more than 60 days.
 
-(Added Pub. L. 92–451, §1(5), Oct. 2, 1972, 86 Stat. 755; amended Pub. L. 99–348, title II, §205(b)(3), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, §§204(d), 205(c), Dec. 20, 1993, 107 Stat. 2421, 2422; Pub. L. 111–281, title V, §511(c), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 114–120, title II, §201(c), Feb. 8, 2016, 130 Stat. 33.)
+(Added Pub. L. 92–451, §1(5), Oct. 2, 1972, 86 Stat. 755; amended Pub. L. 99–348, title II, §205(b)(3), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, §§204(d), 205(c), Dec. 20, 1993, 107 Stat. 2421, 2422; Pub. L. 111–281, title V, §511(c), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 114–120, title II, §201(c), Feb. 8, 2016, 130 Stat. 33; Pub. L. 115–232, div. C, title XXXV, §3528(b), Aug. 13, 2018, 132 Stat. 2318.)
 
 #### Amendments ####
+
+**2018**—Subsecs. (a) to (c). Pub. L. 115–232 substituted "other than the Commandant or Vice Commandant," for "other than the Commandant,".
 
 **2016**—Subsecs. (a) to (c). Pub. L. 114–120 inserted "admiral or" before "vice admiral," wherever appearing.
 

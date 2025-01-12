@@ -72,6 +72,30 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 **1965**—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
+#### Atomic Veterans Service Certificate ####
+
+Pub. L. 115–232, div. A, title V, §581, Aug. 13, 2018, 132 Stat. 1787, provided that:
+
+"(a) Service Certificate Required.—The Secretary of Defense shall design and produce a military service certificate, to be known as the 'Atomic Veterans Service Certificate', to honor retired and former members of the Armed Forces who are radiation-exposed veterans (as such term is defined in section 1112(c)(3) of title 38, United States Code).
+
+"(b) Distribution of Certificate.—
+
+"(1) Issuance to retired and former members.—At the request of a radiation-exposed veteran, the Secretary of Defense shall issue the Atomic Veterans Service Certificate to the veteran.
+
+"(2) Issuance to next-of-kin.—In the case of a radiation-exposed veteran who is deceased, the Secretary may provide for issuance of the Atomic Veterans Service Certificate to the next-of-kin of the person."
+
+#### Award of Medals or Other Commendations to Handlers of Military Working Dogs ####
+
+Pub. L. 115–232, div. A, title V, §582, Aug. 13, 2018, 132 Stat. 1787, provided that:
+
+"(a) Program of Award Required.—Each Secretary of a military department shall carry out a program to provide for the award of one or more medals or other commendations to handlers of military working dogs under the jurisdiction of such Secretary to recognize valor or meritorious achievement by such handlers and dogs.
+
+"(b) Medals and Commendations.—Any medal or commendation awarded pursuant to a program under subsection (a) shall be of such design, and include such elements, as the Secretary of the military department concerned shall specify. The Secretary concerned may use an existing award to carry out such program.
+
+"(c) Presentation and Acceptance.—Any medal or commendation awarded pursuant to a program under subsection (a) may be presented to and accepted by the handler concerned on behalf of the handler and the military working dog concerned.
+
+"(d) Regulations.—Medals and commendations shall be awarded under programs under subsection (a) in accordance with regulations prescribed by the Secretary of Defense for purposes of this section."
+
 #### Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom ####
 
 Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: "Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations."

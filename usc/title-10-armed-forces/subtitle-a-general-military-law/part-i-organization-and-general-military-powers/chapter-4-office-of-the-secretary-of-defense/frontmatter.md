@@ -54,7 +54,11 @@ Sec.
 
 144. Director of Small Business Programs.
 
+145. Principal Advisor on Countering Weapons of Mass Destruction.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title X, §1082(a)(2), Aug. 13, 2018, 132 Stat. 1988, added item 145.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, repealed Pub. L. 113–291, §901(l)(1)(A). See 2014 Amendment note below.
 

@@ -3,15 +3,17 @@ PART I—ORGANIZATION
 
 Chap. Sec.
 
-801. Definitions. [No present sections.]
+901. Definitions. [No present sections.]
 
-803. Department of the Air Force 8011
+903. Department of the Air Force 9011
 
-805. The Air Staff 8031
+905. The Air Staff 9031
 
-807. The Air Force 8061
+907. The Air Force 9061
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 807 as 901 to 907 and redesignated section numbers 8011 to 8061 as 9011 to 9061.
 
 **1987**—Pub. L. 100–26, §7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted "8011" for "8010" in item for chapter 803.
 

@@ -245,7 +245,117 @@ Chap. Sec.
 
 173. Energy Security 2911
 
+### **PART V—ACQUISITION** ###
+
+#### subpart a—general ####
+
+201. Definitions 3001
+
+203. General Matters 3021
+
+205. Defense Acquisition System 3051
+
+207. Budgeting and Appropriations Matters 3101
+
+209. Operational Contract Support 3151
+
+#### subpart b—acquisition planning ####
+
+221. Planning and Solicitation Generally 3201
+
+223. Planning and Solicitation Relating to Particular Items or Services 3251
+
+#### subpart c—contracting methods and contract types ####
+
+241. Awarding of Contracts 3301
+
+243. Specific Types of Contracts 3351
+
+245. Task and Delivery Order Contracts (Multiple Award Contracts) 3401
+
+247. Acquisition of Commercial Items 3451
+
+249. Multiyear Contracts 3501
+
+251. Simplified Acquisition Procedures 3551
+
+253. Emergency and Rapid Acquisitions 3601
+
+255. Contracting With or Through Other Agencies 3651
+
+#### subpart d—general contracting requirements ####
+
+271. Truthful Cost or Pricing Data 3701
+
+273. Allowable Costs 3741
+
+275. Proprietary Contractor Data and Technical Data 3771
+
+277. Contract Financing 3801
+
+279. Contractor Audits and Accounting 3841
+
+281. Claims and Disputes 3861
+
+283. Foreign Acquisitions 3881
+
+285. Small Business Programs 3901
+
+287. Socioeconomic Programs 3961
+
+#### subpart e—special categories of contracting: major defense acquisition programs and major systems ####
+
+301. Major Defense Acquisition Programs 4001
+
+303. Weapon Systems Development and Related Matters 4071
+
+305. Other Matters Relating to Major Systems 4121
+
+#### subpart f—special categories of contracting: research, development, test, and evaluation ####
+
+321. Research and Development Generally 4201
+
+323. Innovation 4301
+
+325. Department of Defense Laboratories 4351
+
+327. Research and Development Centers and Facilities 4401
+
+329. Operational Test and Evaluation; Developmental Test and Evaluation 4451
+
+#### subpart g—other special categories of contracting ####
+
+341. Contracting for Performance of Civilian Commercial or Industrial Type Functions 4501
+
+343. Acquisition of Services 4541
+
+345. Acquisition of Information Technology 4571
+
+#### subpart h—contract management ####
+
+361. Contract Administration 4601
+
+363. Prohibitions and Penalties 4651
+
+365. Contractor Workforce 4701
+
+367. Other Administrative and Miscellaneous Provisions 4751
+
+#### subpart i—defense industrial base ####
+
+381. Defense Industrial Base Generally 4801
+
+383. Loan Guarantee Programs 4861
+
+385. Procurement Technical Assistance Cooperative Agreement Program 4881
+
+#### Amendment of Analysis ####
+
+Pub. L. 115–232, div. A, title VIII, §836(e)(12), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by amending item for chapter 140 to read "Procurement of Commercial Products and Commercial Services" and by substituting "2377" for "2375". See 2018 Amendment note below.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §§801(b), 836(e)(12), Aug. 13, 2018, 132 Stat. 1831, 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140 and added item for part V.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
 
@@ -371,6 +481,6 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "[No present sections]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
-[<sup>1</sup> So in original. Chapters 9A and 13 both begin with a section 251.](#PARTIanalysis_1)
+[<sup>1</sup> So in original. Chapters 9A and 13 both begin with a section 251. Section 251 in chapter 9A was renumbered by Pub. L. 115–232 without corresponding amendment of subtitle analysis.](#PARTIanalysis_1)
 
 [<sup>2</sup> Chapter heading amended by Pub. L. 115–91 without corresponding amendment of subtitle analysis.](#PARTIIIanalysis_2)

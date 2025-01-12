@@ -383,18 +383,18 @@ Chap. Sec.
 |                                                                                7:450j                                                                                |              7:4551               |
 |                                              7:450j note (Pub. L. 88–452, title III, §331, Aug. 20, 1964, 78 Stat. 525)                                              |            7:4551 note            |
 |                                              7:450j note (Pub. L. 89–16, title III, §303, Apr. 30. 1965, 79 Stat. 108)                                               |            7:4551 note            |
-|                                                    7:450j note (Pub. L. 89–253, §24, Oct. 29, 1965, 79 Stat. 977)                                                    |            7:4551 note            |
+|                                                    7:450j note (Pub. L. 89–253, §24, Oct. 9, 1965, 79 Stat. 977)                                                     |            7:4551 note            |
 |                                            7:450j note (Pub. L. 89–794, title III, §301(c), Nov. 8, 1966, 80 Stat. 1465)                                             |            7:4551 note            |
 |                                                    7:450j note (Pub. L. 90–95, §1, Sept. 28, 1967, 81 Stat. 231)                                                     |            7:4551 note            |
 |                                                                                7:450k                                                                                |              7:4552               |
 |                                              7:450k note (Pub. L. 88–452, title III, §331, Aug. 20, 1964, 78 Stat. 525)                                              |            7:4552 note            |
 |                                              7:450k note (Pub. L. 89–16, title III, §303, Apr. 30, 1965, 79 Stat. 108)                                               |            7:4552 note            |
-|                                                    7:450k note (Pub. L. 89–253, §24, Oct. 29, 1965, 79 Stat. 977)                                                    |            7:4552 note            |
+|                                                    7:450k note (Pub. L. 89–253, §24, Oct. 9, 1965, 79 Stat. 977)                                                     |            7:4552 note            |
 |                                            7:450k note (Pub. L. 89–794, title III, §301(c), Nov. 8, 1966, 80 Stat. 1465)                                             |            7:4552 note            |
 |                                                    7:450k note (Pub. L. 90–95, §2, Sept. 28, 1967, 81 Stat. 231)                                                     |            7:4552 note            |
 |                                                                               7:450*l*                                                                               |              7:4553               |
 |                                             7:450*l* note (Pub. L. 88–452, title III, §331, Aug. 20, 1964, 78 Stat. 525)                                             |            7:4553 note            |
 |                                             7:450*l* note (Pub. L. 89–16, title III, §303, Apr. 30, 1965, 79 Stat. 108)                                              |            7:4553 note            |
-|                                                   7:450*l* note (Pub. L. 89–253, §24, Oct. 29, 1965, 79 Stat. 977)                                                   |            7:4553 note            |
+|                                                   7:450*l* note (Pub. L. 89–253, §24, Oct. 9, 1965, 79 Stat. 977)                                                    |            7:4553 note            |
 |                                           7:450*l* note (Pub. L. 89–794, title III, §301(c), Nov. 8, 1966, 80 Stat. 1465)                                            |            7:4553 note            |
 |                                                   7:450*l* note (Pub. L. 90–95, §3, Sept. 28, 1967, 81 Stat. 231)                                                    |            7:4553 note            |

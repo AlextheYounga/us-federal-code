@@ -68,12 +68,30 @@ This section shall be applied in a manner consistent with United States obligati
 
 This section applies with respect to contracts entered into by the Department of Homeland Security 180 days after February 17, 2009.
 
-(Pub. L. 111–5, div. A, title VI, §604, Feb. 17, 2009, 123 Stat. 165.)
+(Pub. L. 111–5, div. A, title VI, §604, Feb. 17, 2009, 123 Stat. 165; Pub. L. 115–232, div. A, title VIII, §836(g)(1), Aug. 13, 2018, 132 Stat. 1872.)
+
+#### Amendment of Subsection (g) ####
+
+Pub. L. 115–232, div. A, title VIII, §836(g)(1), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, made amendments to subsection (g) of this section, effective Jan. 1, 2020, subject to a savings provision. After Jan. 1, 2020, subsection (g) of this section will read as follows:
+
+#### *(g) Applicability to contracts and subcontracts for procurement of commercial products* ####
+
+*This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, "commercial product" shall be as defined in section 103 of title 41.*
+
+See 2018 Amendment note below.
 
 #### Codification ####
 
 In subsec. (g), "section 1906 of title 41" substituted for "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### Amendments ####
+
+**2018**—Subsec. (g). Pub. L. 115–232, substituted "commercial products" for "commercial items" in heading and, in text, substituted "procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed" for "procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed" and " 'commercial product' shall be as defined in section 103 of title 41." for " 'commercial' shall be as defined in the Federal Acquisition Regulation—Part 2.".
+
+#### Effective Date of 2018 Amendment; Savings Provision ####
+
+Pub. L. 115–232, div. A, title VIII, §836(h), Aug. 13, 2018, 132 Stat. 1874, provided that: "The amendments made by subsections (a) through (g) [see Tables for classification] shall take effect on January 1, 2020. Any provision of law that on the day before such effective date is on a list of provisions of law included in the Federal Acquisition Regulation pursuant to section 1907 of title 41, United States Code, shall be deemed as of that effective date to be on a list of provisions of law included in the Federal Acquisition Regulation pursuant to section 1906 of such title."
 
 [<sup>1</sup> So in original. No par. (2) has been enacted.](#453b_1)

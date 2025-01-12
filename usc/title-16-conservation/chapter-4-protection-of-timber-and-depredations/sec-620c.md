@@ -102,7 +102,7 @@ Nothing in this section shall apply to—
 
 #### (f) Western red cedar ####
 
-Nothing in this section shall be construed to supersede section 4606(i) of title 50.
+Nothing in this section shall be construed to supersede section 4606(i) <sup><a href="#620c_1_target" name="620c_1">1</a></sup> of title 50.
 
 #### (g) Presidential authority ####
 
@@ -129,6 +129,10 @@ Notwithstanding any other provision of this section, beginning on January 1, 199
 Nothing in sections 620 to 620j of this title shall be construed to limit the authority of the President or the United States Trade Representative to take action authorized by law to respond appropriately to any measures taken by a foreign government in connection with sections 620 to 620j of this title.
 
 (Pub. L. 101–382, title IV, §491, Aug. 20, 1990, 104 Stat. 719; Pub. L. 103–45, §2, July 1, 1993, 107 Stat. 223; Pub. L. 105–83, title VI, §602(b), Nov. 14, 1997, 111 Stat. 1620; Pub. L. 106–36, title I, §1002(a)(2), June 25, 1999, 113 Stat. 133.)
+
+#### References in Text ####
+
+Section 4606(i) of title 50, referred to in subsec. (f), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments ####
 
@@ -163,3 +167,5 @@ Pub. L. 104–208, div. A, title I, §101(d) [title III], Sept. 30, 1996, 110 St
 Pub. L. 104–134, title I, §101(c) [title III, §333], Apr. 26, 1996, 110 Stat. 1321–156, 1321–210; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 104–99, title I, §130, Jan. 26, 1996, 110 Stat. 34.
+
+[<sup>1</sup> See References in Text note below.](#620c_1)

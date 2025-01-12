@@ -2,11 +2,11 @@
 
 Sec.
 
-261. 1
-
-Reference to chapters 1003, 1005, and 1007.
+241. Reference to chapters 1003, 1005, and 1007.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title X, §1081(a)(4), Aug. 13, 2018, 132 Stat. 1983, which directed amendment of the analysis of chapter 4 of this title by renumbering item 261 as 241, was executed by making the amendment in this analysis to reflect the probable intent of Congress.
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1661(a)(2)(B), Oct. 5, 1994, 108 Stat. 2979, added item 261 and struck out former items 261 to 281.
 
@@ -21,5 +21,3 @@ Reference to chapters 1003, 1005, and 1007.
 **1960**—Pub. L. 86–559, §1(2)(D), June 30, 1960, 74 Stat. 264, added item 281.
 
 **1958**—Pub. L. 85–861, §1(6), Sept. 2, 1958, 72 Stat. 1439, added items 270, 271, 272 and 279.
-
-[<sup>1</sup> So in original. Probably should be section "241". Section renumbered by Pub. L. 114–328 without corresponding amendment of chapter analysis.](#CHAPTER11_1)

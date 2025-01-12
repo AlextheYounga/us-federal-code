@@ -18,7 +18,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (8) Employing poison or similar weapons.—Any person subject to this chapter who intentionally, as a method of warfare, employs a substance or weapon that releases a substance that causes death or serious and lasting damage to health in the ordinary course of events, through its asphyxiating, bacteriological, or toxic properties, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
-(9) Using protected persons as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack.<sup><a href="#950t_1_target" name="950t_1">1</a></sup> or to shield, favor, or impede military operations, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+(9) Using protected persons as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 (10) Using protected property as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of the location of, protected property with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished as a military commission under this chapter may direct.
 
@@ -48,7 +48,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (15) Murder in violation of the law of war.—Any person subject to this chapter who intentionally kills one or more persons, including privileged belligerents, in violation of the law of war shall be punished by death or such other punishment as a military commission under this chapter may direct.
 
-(16) Destruction of property in violation of the law of war.—Any person subject to this chapter who intentionally destroys property belonging to another person in violation of the law of war shall <sup><a href="#950t_2_target" name="950t_2">2</a></sup> punished as a military commission under this chapter may direct.
+(16) Destruction of property in violation of the law of war.—Any person subject to this chapter who intentionally destroys property belonging to another person in violation of the law of war shall be punished as a military commission under this chapter may direct.
 
 (17) Using treachery or perfidy.—Any person subject to this chapter who, after inviting the confidence or belief of one or more persons that they were entitled to, or obliged to accord, protection under the law of war, intentionally makes use of that confidence or belief in killing, injuring, or capturing such person or persons shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
@@ -60,7 +60,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (21) Rape.—Any person subject to this chapter who forcibly or with coercion or threat of force wrongfully invades the body of a person by penetrating, however slightly, the anal or genital opening of the victim with any part of the body of the accused, or with any foreign object, shall be punished as a military commission under this chapter may direct.
 
-(22) Sexual assault or abuse.—Any person subject to this chapter who forcibly or with coercion or threat of force engages in sexual contact with one or more persons, or causes one or more persons to engage in sexual contact, shall be punished as a military commission under this chapter may direct <sup><a href="#950t_3_target" name="950t_3">3</a></sup>
+(22) Sexual assault or abuse.—Any person subject to this chapter who forcibly or with coercion or threat of force engages in sexual contact with one or more persons, or causes one or more persons to engage in sexual contact, shall be punished as a military commission under this chapter may direct.
 
 (23) Hijacking or hazarding a vessel or aircraft.—Any person subject to this chapter who intentionally seizes, exercises unauthorized control over, or endangers the safe navigation of a vessel or aircraft that is not a legitimate military objective shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
@@ -92,7 +92,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (32) Perjury and obstruction of justice.—A military commission under this chapter may try offenses and impose such punishment as the military commission may direct for perjury, false testimony, or obstruction of justice related to the military commission.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2607.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2607; amended Pub. L. 115–232, div. A, title X, §1081(a)(12), Aug. 13, 2018, 132 Stat. 1983.)
 
 #### Prior Provisions ####
 
@@ -106,8 +106,10 @@ Section 950v, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2625,
 
 Section 950w, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2630, related to perjury, obstruction of justice, and contempt.
 
-[<sup>1</sup> So in original. The period probably should be a comma.](#950t_1)
+#### Amendments ####
 
-[<sup>2</sup> So in original. Probably should be followed by "be".](#950t_2)
+**2018**—Par. (9). Pub. L. 115–232, §1081(a)(12)(A), substituted "attack, or" for "attack. or".
 
-[<sup>3</sup> So in original. Probably should be followed by a period.](#950t_3)
+Par. (16). Pub. L. 115–232, §1081(a)(12)(B), substituted "shall be punished" for "shall punished".
+
+Par. (22). Pub. L. 115–232, §1081(a)(12)(C), added period at end.

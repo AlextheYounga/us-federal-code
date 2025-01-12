@@ -1532,17 +1532,19 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9615. Armed Forces Day ####
+#### Proc. No. 9753. Armed Forces Day ####
 
-Proc. No. 9615, May 19, 2017, 82 F.R. 23995, provided:
+Proc. No. 9753, May 18, 2018, 83 F.R. 24215, provided:
 
-For almost 70 years, our Nation has set aside one day to recognize the great debt we owe to the men and women who serve in the Army, Navy, Air Force, Marine Corps, and Coast Guard. On Armed Forces Day, we salute the bravery of those who defend our Nation's peace and security. Their service defends for Americans the freedom that all people deserve.
+On Armed Forces Day, we pay tribute to the extraordinary men and women who serve our Nation with valor and distinction in all branches of the military. This annual observance honors their steadfast service in preserving our Nation's peace, preserving our freedom, and defending our founding principles.
 
-This year, we also reflect on the 100th anniversary of our Nation's entry into World War I. More than 4.7 million Americans would ultimately serve in the United States Armed Forces during that terrible conflict. Their sacrifice has not been forgotten. One hundred years later, we face different threats and challenges. But our safety and security, and the defense of our way of life, rest in the same able hands of our Armed Forces.
+Throughout our history, in times of war and peace, our service members have served with bravery, skill, and unwavering devotion to duty. There is no fighting force that rivals that of the United States military. The precious liberties all Americans enjoy are possible because, every day and without exception, our Armed Forces relentlessly and tirelessly carry out the critical mission of protecting our country, our freedoms, and our way of life.
 
-Because our Armed Forces must constantly adapt to new threats, our Nation is committed to ensuring they have the tools and resources they need as they train, deploy, and fight in defense of our country and defending our values. This is why my budget calls for a $54 billion increase in national defense spending.
+Taking care of our Armed Forces is one of the highest priorities of my Administration. Our military has made tremendous gains against ISIS and al-Qa'ida in Syria and Iraq, with ISIS having lost nearly 100 percent of the territory it formerly occupied. These successes underscore the importance of continuing to support, grow, and modernize our military forces—we must ensure that our Armed Forces remain second to none. Earlier this year, I signed into law legislation that does just that, providing nearly $700 billion in funding for national defense. These funds will increase our military's capacity—investing billions in new equipment, maintenance, and troop readiness.
 
-Today, we salute our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen for their dedication as they carry out the extraordinary duty of protecting our country. We also pay tribute to the families who serve alongside them, lending their steadfast love and support.
+We will never be able to repay fully our heroes for their selfless service. We must, therefore, guarantee that we support them and their families here at home so that they can effectively execute their missions abroad. I was very pleased to sign into law legislation that gave our troops a 2.4 percent pay raise—their largest pay raise in 8 years. I was also proud to sign an Executive Order this month to enhance employment opportunities for the spouses of our service members. My Administration will not stop in our efforts to encourage all sectors of our country—private and public—to find ways to support our troops and their loved ones.
+
+On this day, and every day, we owe a debt of gratitude to our service members stationed at home and those deployed around the world. All across America, we enjoy the blessings of liberty because our Nation's finest men and women willingly accept the call to service. We proudly salute our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen, and recognize the families who serve alongside them for their courage and commitment.
 
 NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
@@ -1550,19 +1552,21 @@ I invite the Governors of the States and Territories and other areas subject to 
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 9452 of May 20, 2016, is hereby superseded.
+Proclamation 9615 of May 19, 2017, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this nineteenth day of May, in the year of our Lord two thousand seventeen, and of the Independence of the United States of America the two hundred and forty-first.
+IN WITNESS WHEREOF, I have hereunto set my hand this eighteenth day of May, in the year of our Lord two thousand eighteen, and of the Independence of the United States of America the two hundred and forty-second.
 
 Donald J. Trump.
 
 Prior similar proclamations were contained in the following:
 
+Proc. No. 9615, May 19, 2017, 82 F.R. 23995, superseded by Proc. No. 9753, May 18, 2018, 83 F.R. 24215.
+
 Proc. No. 9452, May 20, 2016, 81 F.R. 33327, superseded by Proc. No. 9615, May 19, 2017, 82 F.R. 23995.
 
 Proc. No. 9283, May 15, 2015, 80 F.R. 29199, superseded by Proc. No. 9452, May 20, 2016, 81 F.R. 33327.
 
-Proc. No. 9129, May 16, 2014, 79 F.R. 29321, superseded by Proc. No. 9283, May 15, 2015, 80 F.R. 29200.
+Proc. No. 9129, May 16, 2014, 79 F.R. 29321, superseded by Proc. No. 9283, May 15, 2015, 80 F.R. 29199.
 
 Proc. No. 8984, May 17, 2013, 78 F.R. 30731, superseded by Proc. No. 9129, May 16, 2014, 79 F.R. 29321.
 

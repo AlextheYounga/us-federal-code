@@ -3,55 +3,43 @@ PART II—PERSONNEL
 
 Chap. Sec.
 
-831. Strength 8201
+911. Strength 9110
 
-833. Enlistments 8251
+913. Enlistments 9131
 
-835. Appointments in the Regular Air Force 8281
+915. Appointments in the Regular Air Force 9151
 
-[837. Repealed.]
+919. Temporary Appointments 9176
 
-839. Temporary Appointments 8441
+921. Active Duty 9191
 
-841. Active Duty 8491
+923. Special Appointments, Assignments, Details, and Duties 9217
 
-843. Special Appointments, Assignments, Details, and Duties 8531
+925. Rank and Command 9222
 
-845. Rank and Command 8571
+929. Miscellaneous Prohibitions and Penalties 9239
 
-[847. Repealed.]
+933. Miscellaneous Rights and Benefits 9251
 
-849. Miscellaneous Prohibitions and Penalties 8631
+935. Hospitalization 9263
 
-[851. Repealed.]
+937. Decorations and Awards 9271
 
-853. Miscellaneous Rights and Benefits 8681
+939. Separation for Various Reasons 9307
 
-855. Hospitalization 8721
+941. Retirement for Length of Service 9311
 
-857. Decorations and Awards 8741
+943. Retired Grade 9341
 
-[859. Repealed.]
+945. Computation of Retired Pay 9361
 
-[860. Repealed.]
+947. Civilian Employees 9371
 
-861. Separation for Various Reasons 8811
-
-[863. Repealed.]
-
-[865. Repealed.]
-
-867. Retirement for Length of Service 8911
-
-869. Retired Grade 8961
-
-871. Computation of Retired Pay 8991
-
-873. Civilian Employees 9021
-
-875. Miscellaneous Investigation Requirements and Other Duties 9061
+949. Miscellaneous Investigation Requirements and Other Duties 9381
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 831 to 875 as 911 to 949 and redesignated section numbers 8201 to 9061 as 9110 to 9381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 **2003**—Pub. L. 108–136, div. A, title V, §576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 

@@ -76,11 +76,11 @@ Pub. L. 112–239, div. A, title IX, §904(h), Jan. 2, 2013, 126 Stat. 1868, pro
 
 #### Oversight by Office of Under Secretary of Defense for Acquisition, Technology, and Logistics of Exercise of Acquisition Authority by Combatant Commanders and Heads of Defense Agencies ####
 
-Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, title IX, §905, Jan. 28, 2008, 122 Stat. 275, provided that:
+Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, title IX, §905, Jan. 28, 2008, 122 Stat. 275; Pub. L. 115–232, div. A, title VIII, §812(a)(1)(C), Aug. 13, 2018, 132 Stat. 1846, provided that:
 
 "(a) Designation of Official for Oversight.—The Secretary of Defense shall designate a senior acquisition official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics to oversee the exercise of acquisition authority by—
 
-"(1) any commander of a combatant command who is authorized by section 166b, 167, or 167a of title 10, United States Code, to exercise acquisition authority; and
+"(1) any commander of a combatant command who is authorized by section 166b or 167 of title 10, United States Code, to exercise acquisition authority; and
 
 "(2) any head of a Defense Agency who is designated by the Secretary of Defense to exercise acquisition authority.
 
@@ -100,4 +100,4 @@ Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as am
 
 #### Improvement in Defense Research and Procurement Liaison With Israel ####
 
-Pub. L. 100–456, div. A, title X, §1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: "The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall designate for duty in Israel an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel."
+Pub. L. 100–456, div. A, title X, §1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, which provided for the designation of a primary liaison between the procurement and research and development activities of the armed forces of the United States and Israel, was repealed by Pub. L. 115–232, div. A, title VIII, §811(e), Aug. 13, 2018, 132 Stat. 1845.

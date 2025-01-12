@@ -10,7 +10,9 @@ Sec.
 
 2354. Contracts: indemnification provisions.
 
-[2355 to 2357. Repealed.]
+[2355, 2356. Repealed.]
+
+2357. Technology protection features activities.
 
 2358. Research and development projects.
 
@@ -18,7 +20,7 @@ Sec.
 
 2359. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
-[2359a. Repealed.]
+2359a. Defense Research and Development Rapid Innovation Program.
 
 2359b. Defense Acquisition Challenge Program.
 
@@ -67,6 +69,8 @@ Sec.
 [2374b. Repealed.]
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title II, §§223(b), 224(a)(2), Aug. 13, 2018, 132 Stat. 1683, 1684, added items 2357 and 2359a.
 
 **2017**—Pub. L. 115–91, div. A, title II, §220(b), title X, §1081(a)(33), Dec. 12, 2017, 131 Stat. 1333, 1596, added item 2363 and inserted a period at end of items 2372 and 2372a.
 

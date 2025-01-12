@@ -3,19 +3,21 @@ PART III—EDUCATION AND TRAINING
 
 Chap. Sec.
 
-601. Officer Procurement Programs 6901
+851. Officer Procurement Programs 8411
 
-602. Training Generally 6931
+852. Training Generally 8431
 
-603. United States Naval Academy 6951
+853. United States Naval Academy 8451
 
-605. United States Naval Postgraduate School 7041
+855. United States Naval Postgraduate School 8541
 
-607. Retirement of Civilian Members of the Teaching Staffs of the United States Naval Academy and United States Naval Postgraduate School 7081
+857. Retirement of Civilian Members of the Teaching Staffs of the United States Naval Academy and United States Naval Postgraduate School 8581
 
-609. Professional Military Education Schools 7101
+859. Professional Military Education Schools 8591
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 601 to 609 as 851 to 859 and redesignated section numbers 6901 to 7101 as 8411 to 8591. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 **1998**—Pub. L. 105–261, div. A, title V, §521(b)(2), Oct. 17, 1998, 112 Stat. 2011, added item for chapter 602.
 

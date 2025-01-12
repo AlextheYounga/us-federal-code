@@ -71,6 +71,8 @@
 
 #### Amendments ####
 
+**2018**—Pub. L. 115–232, div. A, title V, §532(a)(2), Aug. 13, 2018, 132 Stat. 1759, added item 928b.
+
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended Pub. L. 114–328, §5452. See 2016 Amendment note below.
 
 Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a.
@@ -101,7 +103,9 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 
 #### Amendment of Analysis and Subchapter ####
 
-Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1599, 1600, provided that, effective as of Dec. 23, 2016, and as if included within the amendment made by section 5452 of Pub. L. 114–328, set out below, as enacted, this analysis is amended in the item relating to section 887a, by striking "Resistence" and inserting "Resistance", in the item relating to section 908, by striking "of the United States–Loss" and inserting "of United States–Loss,", in the item relating to section 909, by striking "of the" and inserting "of", and in the item relating to section 909a, by striking the second period at the end. See 2017 Amendment note above.
+Pub. L. 115–232, div. A, title V, §532(a)(2), (b), Aug. 13, 2018, 132 Stat. 1760, provided that, effective as of Jan. 1, 2019, immediately after the coming into effect of the amendments made by div. E of Pub. L. 114–328 as provided in section 5542 of that Act (10 U.S.C. 801 note) this analysis is amended by adding item 928b "Domestic violence". See 2018 Amendment note above.
+
+Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, provided that, effective as of Dec. 23, 2016, and as if included within the amendment made by section 5452 of Pub. L. 114–328, set out below, as enacted, this analysis is amended in the item relating to section 887a, by striking "Resistence" and inserting "Resistance", in the item relating to section 908, by striking "of the United States–Loss" and inserting "of United States–Loss,", in the item relating to section 909, by striking "of the" and inserting "of", and in the item relating to section 909a, by striking the second period at the end. See 2017 Amendment note above.
 
 Pub. L. 114–328, div. E, title LX, §§5401–5452, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2937–2958, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, substantially reorganized and revised this subchapter and correspondingly amended the analysis, effective, except as otherwise provided, on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations. After the effective date of the amendments made by Pub. L. 114–328, the analysis and this subchapter will read as follows:
 
@@ -185,6 +189,7 @@ Pub. L. 114–328, div. E, title LX, §§5401–5452, title LXIII, §5542, Dec. 
 |927. |127. |                                          Extortion.                                          |
 |928. |128. |                                           Assault.                                           |
 |928a.|128a.|                                           Maiming.                                           |
+|928b.|128b.|                                      Domestic violence.                                      |
 |929. |129. |                                  Burglary; unlawful entry.                                   |
 |930. |130. |                                          Stalking.                                           |
 |931. |131. |                                           Perjury.                                           |
@@ -1251,9 +1256,11 @@ is guilty of assault and shall be punished as a court-martial may direct.
 
 (b) Aggravated Assault.—Any person subject to this chapter—
 
-(1) who, with the intent to do bodily harm, offers to do bodily harm with a dangerous weapon; or
+(1) who, with the intent to do bodily harm, offers to do bodily harm with a dangerous weapon;
 
-(2) who, in committing an assault, inflicts substantial bodily harm, or grievous bodily harm on another person;
+(2) who, in committing an assault, inflicts substantial bodily harm or grievous bodily harm on another person; or
+
+(3) who commits an assault by strangulation or suffocation;
 
 is guilty of aggravated assault and shall be punished as a court-martial may direct.
 
@@ -1274,6 +1281,26 @@ Any person subject to this chapter who, with intent to injure, disfigure, or dis
 (3) seriously diminishes his physical vigor by the injury of any member or organ;
 
 is guilty of maiming and shall be punished as a court-martial may direct.
+
+#### §928b. Art. 128b. [Domestic violence] ####
+
+Any person who—
+
+(1) commits a violent offense against a spouse, an intimate partner, or an immediate family member of that person;
+
+(2) with intent to threaten or intimidate a spouse, an intimate partner, or an immediate family member of that person—
+
+(A) commits an offense under this chapter against any person; or
+
+(B) commits an offense under this chapter against any property, including an animal;
+
+(3) with intent to threaten or intimidate a spouse, an intimate partner, or an immediate family member of that person, violates a protection order;
+
+(4) with intent to commit a violent offense against a spouse, an intimate partner, or an immediate family member of that person, violates a protection order; or
+
+(5) assaults a spouse, an intimate partner, or an immediate family member of that person by strangling or suffocating;
+
+shall be punished as a court-martial may direct.
 
 #### §929. Art. 129. Burglary; unlawful entry ####
 

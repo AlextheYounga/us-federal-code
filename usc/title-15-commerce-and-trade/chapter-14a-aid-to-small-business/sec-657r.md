@@ -10,6 +10,14 @@ The Administrator is authorized to establish a mentor-protege program for all sm
 
 The mentor-protege program established under paragraph (1) shall be identical to the mentor-protege program of the Administration for small business concerns that participate in the program under section 637(a) of this title (as in effect on January 2, 2013), except that the Administrator may modify the program to the extent necessary given the types of small business concerns included as proteges.
 
+#### (3) Puerto Rico businesses ####
+
+During the period beginning on August 13, 2018, and ending on the date on which the Oversight Board established under section 2121 of title 48 terminates, the Administrator shall identify potential incentives to a covered mentor that awards a subcontract to its covered protege, including—
+
+(A) positive consideration in any past performance evaluation of the covered mentor; and
+
+(B) the application of costs incurred for providing training to such covered protege to the subcontracting plan (as required under paragraph (4) or (5) of section 637(d) of this title) of the covered mentor.
+
 #### (b) Programs of other agencies ####
 
 #### (1) Approval required ####
@@ -32,7 +40,7 @@ The Administrator shall approve or disapprove a plan submitted under paragraph (
 
 Not later than 270 days after January 2, 2013, the Administrator shall issue, subject to notice and comment, regulations with respect to mentor-protege programs, which shall ensure that such programs improve the ability of proteges to compete for Federal prime contracts and subcontracts and which shall address, at a minimum, the following:
 
-(A) Eligibility criteria for program participants, including any restrictions on the number of mentor-protege relationships permitted for each participant.
+(A) Eligibility criteria for program participants, including any restrictions on the number of mentor-protege relationships permitted for each participant, except that such restrictions shall not apply to up to 2 mentor-protege relationships if such relationships are between a covered protege and covered mentor.
 
 (B) The types of developmental assistance to be provided by mentors, including how the assistance provided shall improve the competitive viability of the proteges.
 
@@ -122,6 +130,14 @@ The term "protege" means a small business concern that—
 
 (B) satisfies any other requirements imposed by the Administrator.
 
+#### (4) Covered mentor ####
+
+The term "covered mentor" means a mentor that enters into an agreement under this chapter, or under any mentor-protege program approved under subsection (b)(1), with a covered protege.
+
+#### (5) Covered protege ####
+
+The term "covered protege" means a protege of a covered mentor that is a Puerto Rico business.
+
 #### (e) Current mentor protege agreements ####
 
 Mentors and proteges with approved agreement in a program operating pursuant to subsection (b)(4)(C) shall be permitted to continue their relationship according to the terms specified in their agreement until the expiration date specified in the agreement.
@@ -130,12 +146,18 @@ Mentors and proteges with approved agreement in a program operating pursuant to 
 
 Agencies operating mentor protege programs pursuant to subsection (b)(4)(C) shall submit the plans specified in subsection (b)(1)(A) to the Administrator within 6 months of the promulgation of rules required by subsection (b)(3). The Administrator shall provide initial comments on each plan within 60 days of receipt, and final approval or denial of each plan within 180 days after receipt.
 
-(Pub. L. 85–536, §2[45], as added Pub. L. 112–239, div. A, title XVI, §1641(2), Jan. 2, 2013, 126 Stat. 2077; amended Pub. L. 114–328, div. A, title XVIII, §1813(e), Dec. 23, 2016, 130 Stat. 2653.)
+(Pub. L. 85–536, §2[45], as added Pub. L. 112–239, div. A, title XVI, §1641(2), Jan. 2, 2013, 126 Stat. 2077; amended Pub. L. 114–328, div. A, title XVIII, §1813(e), Dec. 23, 2016, 130 Stat. 2653; Pub. L. 115–232, div. A, title VIII, §861(d), (e), Aug. 13, 2018, 132 Stat. 1896, 1897.)
 
 #### Prior Provisions ####
 
 A prior section 2[45] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(3). Pub. L. 115–232, §861(d)(1), added par. (3).
+
+Subsec. (b)(3)(A). Pub. L. 115–232, §861(e), inserted ", except that such restrictions shall not apply to up to 2 mentor-protege relationships if such relationships are between a covered protege and covered mentor" after "each participant".
+
+Subsec. (d)(4), (5). Pub. L. 115–232, §861(d)(2), added pars. (4) and (5).
 
 **2016**—Subsec. (b)(3)(K). Pub. L. 114–328 added subpar. (K).

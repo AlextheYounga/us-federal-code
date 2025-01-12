@@ -24,19 +24,49 @@
 
 (6) Authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Chief Management Officer has responsibility under this section.
 
-(c) Precedence.—The Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense and the Deputy Secretary of Defense.
+(7) Serving as the official with principal responsibility in the Department for minimizing the duplication of efforts, maximizing efficiency and effectiveness, and establishing metrics for performance among and for all organizations and elements of the Department.
 
-(d) Enterprise Business Operation Defined.—In this section, the term "enterprise business operations" means those activities that constitute the cross-cutting business operations used by multiple components of the Department of Defense, but not those activities that are directly tied to a single military department or Department of Defense component. The term includes business-support functions designated by the Secretary of Defense or the Deputy Secretary of Defense for purposes of this section, such as aspects of financial management, healthcare, acquisition and procurement, supply chain and logistics, certain information technology, real property, and human resources operations.
+(c) Budget Authority.—(1)(A) Beginning in fiscal year 2020, the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the head of each Defense Agency and Department of Defense Field Activity specified by the Secretary for purposes of this subsection to transmit the proposed budget of such Agency or Activity for enterprise business operations for a fiscal year, and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year, to the Chief Management Officer for review under subparagraph (B) at the same time the proposed budget is submitted to the Under Secretary of Defense (Comptroller).
 
-(Added Pub. L. 111–383, div. A, title IX, §901(c)(1), Jan. 7, 2011, 124 Stat. 4320; amended Pub. L. 113–291, div. A, title IX, §901(a)(1), Dec. 19, 2014, 128 Stat. 3462; Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342; Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516.)
+(B) The Chief Management Officer shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary a report containing the comments of the Chief Management Officer with respect to all such proposed budgets, together with the certification of the Chief Management Officer regarding whether each such proposed budget achieves the required level of efficiency and effectiveness for enterprise business operations, consistent with guidance for budget review established by the Chief Management Officer.
+
+(C) Not later than March 31 each year, the Secretary shall submit to Congress a report that includes the following:
+
+(i) Each proposed budget for the enterprise business operations of a Defense Agency or Department of Defense Field Activity that was transmitted to the Chief Management Officer under subparagraph (A).
+
+(ii) Identification of each proposed budget contained in the most recent report submitted under subparagraph (B) that the Chief Management Officer did not certify as achieving the required level of efficiency and effectiveness for enterprise business operations.
+
+(iii) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address inadequate levels of efficiency and effectiveness for enterprise business operations achieved by the proposed budgets identified in the report.
+
+(iv) Any additional comments that the Secretary considers appropriate regarding inadequate levels of efficiency and effectiveness for enterprise business operations achieved by the proposed budgets.
+
+(2) Nothing in this subsection shall be construed to modify or interfere with the budget-related responsibilities of the Director of National Intelligence.
+
+(d) Precedence.—The Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense and the Deputy Secretary of Defense.
+
+(e) Enterprise Business Operation Defined.—In this section, the term "enterprise business operations" means those activities that constitute the cross-cutting business operations used by multiple components of the Department of Defense, but not those activities that are directly tied to a single military department or Department of Defense component. The term includes business-support functions designated by the Secretary of Defense or the Deputy Secretary of Defense for purposes of this section, such as aspects of financial management, healthcare, acquisition and procurement, supply chain and logistics, certain information technology, real property, and human resources operations.
+
+(Added Pub. L. 111–383, div. A, title IX, §901(c)(1), Jan. 7, 2011, 124 Stat. 4320; amended Pub. L. 113–291, div. A, title IX, §901(a)(1), Dec. 19, 2014, 128 Stat. 3462; Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342; Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516; Pub. L. 115–232, div. A, title IX, §921(a)(1), (2)(A), Aug. 13, 2018, 132 Stat. 1926.)
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(7). Pub. L. 115–232, §921(a)(1), added par. (7).
+
+Subsecs. (c) to (e). Pub. L. 115–232, §921(a)(2)(A), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 **2017**—Pub. L. 115–91 amended section generally. Prior to amendment, section related to the appointment, responsibilites and precedence of the Deputy Chief Management Officer.
 
 **2016**—Pub. L. 114–328, §901(d), repealed Pub. L. 113–291, §901(a)(1). See 2014 Amendment note below.
 
 **2014**—Pub. L. 113–291, §901(a)(1), which directed the general amendment of this section, substituting provisions relating to Under Secretary of Defense for Business Management and Information for provisions which related to Deputy Chief Management Officer, was repealed by Pub. L. 114–328, §901(d).
+
+#### Change of Name ####
+
+Pub. L. 115–232, div. A, title X, §1081(f)(2), Aug. 13, 2018, 132 Stat. 1987, provided that:
+
+"(A) In law or regulation.—Any reference in a law (other than this Act) [See Tables for classification] or regulation in effect on the day before the date of the enactment of this Act [Aug. 13, 2018] to the Deputy Chief Management Officer of the Department of Defense is deemed to be a reference to the Chief Management Officer of the Department of Defense.
+
+"(B) In other documents, papers, or records.—Any reference in a document, paper, or other record of the United States prepared before the date of the enactment of this Act to the Deputy Chief Management Officer of the Department of Defense is deemed to be a reference to the Chief Management Officer of the Department of Defense."
 
 #### Effective Date of 2017 Amendment ####
 
@@ -53,6 +83,36 @@ Section effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out
 #### Service of Incumbent Deputy Chief Management Officer as Chief Management Officer Upon Commencement of Latter Position Without Further Appointment ####
 
 Pub. L. 115–91, div. A, title IX, §910(e), Dec. 12, 2017, 131 Stat. 1518, provided that: "The individual serving in the position of Deputy Chief Management Officer of the Department of Defense as of February 1, 2018, may continue to serve as Chief Management Officer of the Department of Defense under section 132a of title 10, United States Code (as amended by subsection (a)), commencing as of that date without further appointment pursuant to such section 132a."
+
+#### Qualifications for Appointment as Deputy Chief Management Officer of a Military Department ####
+
+Pub. L. 115–232, div. A, title IX, §916, Aug. 13, 2018, 132 Stat. 1924, provided that:
+
+"(a) Department of the Army.—An individual may not be appointed as Deputy Chief Management Officer of the Department of the Army unless the individual—
+
+"(1) has significant experience in business operations or management in the public sector; or
+
+"(2) has significant experience managing an enterprise in the private sector.
+
+"(b) Department of the Navy.—An individual may not be appointed as Deputy Chief Management Officer of the Department of the Navy unless the individual—
+
+"(1) has significant experience in business operations or management in the public sector; or
+
+"(2) has significant experience managing an enterprise in the private sector.
+
+"(c) Department of the Air Force.—An individual may not be appointed as Deputy Chief Management Officer of the Department of the Air Force unless the individual—
+
+"(1) has significant experience in business operations or management in the public sector; or
+
+"(2) has significant experience managing an enterprise in the private sector."
+
+#### Execution of Authority in Subsection (c) ####
+
+Pub. L. 115–232, div. A, title IX, §921(a)(2)(B), Aug. 13, 2018, 132 Stat. 1927, provided that: "In order to execute the authority in subsection (c) of section 132a of title 10, United States Code (as amended by subparagraph (A) [amending this section]), the Chief Management Officer of the Department of Defense shall do the following:
+
+"(i) By April 1, 2019, develop an assessment of cost and expertise requirements to execute such authority.
+
+"(ii) By September 1, 2019, develop guidance for Defense Agencies and Department of Defense Field Activities to delineate spending on enterprise business operations and develop a process to determine the adequacy of their budgets for such operations."
 
 #### Defense Agencies and Field Activities Providing Shared Business Services ####
 

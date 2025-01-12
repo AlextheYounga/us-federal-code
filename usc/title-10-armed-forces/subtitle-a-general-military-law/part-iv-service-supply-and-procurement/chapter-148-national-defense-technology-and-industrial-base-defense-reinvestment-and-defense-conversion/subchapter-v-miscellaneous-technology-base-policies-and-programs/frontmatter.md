@@ -12,6 +12,8 @@ Sec.
 
 2533b. Requirement to buy strategic materials critical to national security from American sources; exceptions.
 
+2533c. Prohibition on acquisition of sensitive materials from non-allied foreign nations.
+
 2534. Miscellaneous limitations on the procurement of goods other than United States goods.
 
 2535. Defense Industrial Reserve.
@@ -29,6 +31,8 @@ Sec.
 2539b. Availability of samples, drawings, information, equipment, materials, and certain services.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–232, div. A, title VIII, §871(b), Aug. 13, 2018, 132 Stat. 1905, added item 2533c.
 
 **2011**—Pub. L. 111–350, §5(b)(36), Jan. 4, 2011, 124 Stat. 3845, substituted "chapter 83 of title 41" for "the Buy American Act" in item 2533.
 
