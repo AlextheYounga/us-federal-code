@@ -146,7 +146,7 @@ Sec.
 
 1097. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care.
 
-1097a. TRICARE Prime: automatic enrollments; payment options.
+1097a. TRICARE Prime: automatic enrollment.
 
 1097b. TRICARE program: financial management.
 
@@ -156,7 +156,7 @@ Sec.
 
 1098. Incentives for participation in cost-effective health care plans.
 
-1099. Health care enrollment system.
+1099. Health care enrollment system and payment options.
 
 1100. Defense Health Program Account.
 
@@ -185,10 +185,6 @@ Sec.
 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B.
 
 1110b. TRICARE program: extension of dependent coverage.
-
-#### Amendment of Analysis ####
-
-Pub. L. 116–92, div. A, title VII, §702(b)(3), (c), Dec. 20, 2019, 133 Stat. 1436, 1437, provided that, applicable to health care coverage beginning on or after Jan. 1, 2021, this analysis is amended by adding items 1097a "TRICARE Prime: automatic enrollments" and 1099 "Health care enrollment system and payment options" and by striking out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system". See 2019 Amendment note below.
 
 #### Amendments ####
 

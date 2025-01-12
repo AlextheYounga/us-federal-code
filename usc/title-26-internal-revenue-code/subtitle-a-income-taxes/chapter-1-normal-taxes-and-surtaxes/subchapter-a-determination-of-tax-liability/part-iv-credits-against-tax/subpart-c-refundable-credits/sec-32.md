@@ -65,8 +65,6 @@ The term "eligible individual" means—
 
 (III) such individual is not a dependent for whom a deduction is allowable under section 151 to another taxpayer for any taxable year beginning in the same calendar year as such taxable year.
 
- For purposes of the preceding sentence, marital status shall be determined under section 7703.
-
 #### (B) Qualifying child ineligible ####
 
 If an individual is the qualifying child of a taxpayer for any taxable year of such taxpayer beginning in a calendar year, such individual shall not be treated as an eligible individual for any taxable year of such individual beginning in such calendar year.
@@ -85,11 +83,7 @@ No credit shall be allowed under this section to an eligible individual who does
 
 (i) such individual's taxpayer identification number, and
 
-(ii) if the individual is married (within the meaning of section 7703), the taxpayer identification number of such individual's spouse.
-
-#### (F) Individuals who do not include TIN, etc., of any qualifying child ####
-
-No credit shall be allowed under this section to any eligible individual who has one or more qualifying children if no qualifying child of such individual is taken into account under subsection (b) by reason of paragraph (3)(D).
+(ii) if the individual is married, the taxpayer identification number of such individual's spouse.
 
 #### (2) Earned income ####
 
@@ -143,7 +137,29 @@ For purposes of paragraphs (1)(A)(ii)(I) and (3)(C), the principal place of abod
 
 #### (d) Married individuals ####
 
-In the case of an individual who is married (within the meaning of section 7703), this section shall apply only if a joint return is filed for the taxable year under section 6013.
+#### (1) In general ####
+
+In the case of an individual who is married, this section shall apply only if a joint return is filed for the taxable year under section 6013.
+
+#### (2) Determination of marital status ####
+
+For purposes of this section—
+
+#### (A) In general ####
+
+Except as provided in subparagraph (B), marital status shall be determined under section 7703(a).
+
+#### (B) Special rule for separated spouse ####
+
+An individual shall not be treated as married if such individual—
+
+(i) is married (as determined under section 7703(a)) and does not file a joint return for the taxable year,
+
+(ii) resides with a qualifying child of the individual for more than one-half of such taxable year, and
+
+(iii)(I) during the last 6 months of such taxable year, does not have the same principal place of abode as the individual's spouse, or
+
+(II) has a decree, instrument, or agreement (other than a decree of divorce) described in section 121(d)(3)(C) with respect to the individual's spouse and is not a member of the same household with the individual's spouse by the end of the taxable year.
 
 #### (e) Taxable year must be full taxable year ####
 
@@ -171,7 +187,7 @@ The tables prescribed under paragraph (1) shall reflect the provisions of subsec
 
 #### (1) In general ####
 
-No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $2,200.
+No credit shall be allowed under subsection (a) for the taxable year if the aggregate amount of disqualified income of the taxpayer for the taxable year exceeds $10,000.
 
 #### (2) Disqualified income ####
 
@@ -205,15 +221,17 @@ For purposes of subparagraph (E), the term "passive activity" has the meaning gi
 
 #### (1) In general ####
 
-In the case of any taxable year beginning after 2015, each of the dollar amounts in subsections (b)(2) and (i)(1) shall be increased by an amount equal to—
+In the case of any taxable year beginning after 2015 (2021 in the case of the dollar amount in subsection (i)(1)), each of the dollar amounts in subsections (b)(2) and (i)(1) shall be increased by an amount equal to—
 
 (A) such dollar amount, multiplied by
 
 (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting in subparagraph (A)(ii) thereof—
 
-(i) in the case of amounts in subsections (b)(2)(A) and (i)(1), "calendar year 1995" for "calendar year 2016", and
+(i) in the case of amounts in subsection (b)(2)(A), "calendar year 1995" for "calendar year 2016",
 
-(ii) in the case of the $5,000 amount in subsection (b)(2)(B), "calendar year 2008" for "calendar year 2016".
+(ii) in the case of the $5,000 amount in subsection (b)(2)(B), "calendar year 2008" for "calendar year 2016", and
+
+(iii) in the case of the $10,000 amount in subsection (i)(1), "calendar year 2020" for "calendar year 2016".
 
 #### (2) Rounding ####
 
@@ -265,7 +283,65 @@ any refund made to an individual (or the spouse of an individual) by reason of t
 
 Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act) on or before the due date for filing the return for the taxable year.
 
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title I, §106(a), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–245, title I, §102(a), June 17, 2008, 122 Stat. 1625; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1002(a), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–226, title II, §219(a)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–312, title I, §103(c), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(c), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, §§206(a), 221(a)(3), Dec. 19, 2014, 128 Stat. 4027, 4037; Pub. L. 114–113, div. Q, title I, §103(a)–(c), title II, §204(a), Dec. 18, 2015, 129 Stat. 3044, 3045, 3081; Pub. L. 115–97, title I, §11002(d)(1)(D), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(a), title IV, §401(b)(4), Mar. 23, 2018, 132 Stat. 1160, 1201.)
+#### (n) Special rules for individuals without qualifying children ####
+
+In the case of any taxable year beginning after December 31, 2020, and before January 1, 2022—
+
+#### (1) Decrease in minimum age for credit ####
+
+#### (A) In general ####
+
+Subsection (c)(1)(A)(ii)(II) shall be applied by substituting "the applicable minimum age" for "age 25".
+
+#### (B) Applicable minimum age ####
+
+For purposes of this paragraph, the term "applicable minimum age" means—
+
+(i) except as otherwise provided in this subparagraph, age 19,
+
+(ii) in the case of a specified student (other than a qualified former foster youth or a qualified homeless youth), age 24, and
+
+(iii) in the case of a qualified former foster youth or a qualified homeless youth, age 18.
+
+#### (C) Specified student ####
+
+For purposes of this paragraph, the term "specified student" means, with respect to any taxable year, an individual who is an eligible student (as defined in section 25A(b)(3)) during at least 5 calendar months during the taxable year.
+
+#### (D) Qualified former foster youth ####
+
+For purposes of this paragraph, the term "qualified former foster youth" means an individual who—
+
+(i) on or after the date that such individual attained age 14, was in foster care provided under the supervision or administration of an entity administering (or eligible to administer) a plan under part B or part E of title IV of the Social Security Act (without regard to whether Federal assistance was provided with respect to such child under such part E), and
+
+(ii) provides (in such manner as the Secretary may provide) consent for entities which administer a plan under part B or part E of title IV of the Social Security Act to disclose to the Secretary information related to the status of such individual as a qualified former foster youth.
+
+#### (E) Qualified homeless youth ####
+
+For purposes of this paragraph, the term "qualified homeless youth" means, with respect to any taxable year, an individual who certifies, in a manner as provided by the Secretary, that such individual is either an unaccompanied youth who is a homeless child or youth, or is unaccompanied, at risk of homelessness, and self-supporting.
+
+#### (2) Elimination of maximum age for credit ####
+
+Subsection (c)(1)(A)(ii)(II) shall be applied without regard to the phrase "but not attained age 65".
+
+#### (3) Increase in credit and phaseout percentages ####
+
+The table contained in subsection (b)(1) shall be applied by substituting "15.3" for "7.65" each place it appears therein.
+
+#### (4) Increase in earned income and phaseout amounts ####
+
+#### (A) In general ####
+
+The table contained in subsection (b)(2)(A) shall be applied—
+
+(i) by substituting "$9,820" for "$4,220", and
+
+(ii) by substituting "$11,610" for "$5,280".
+
+#### (B) Coordination with inflation adjustment ####
+
+Subsection (j) shall not apply to any dollar amount specified in this paragraph.
+
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title I, §106(a), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–245, title I, §102(a), June 17, 2008, 122 Stat. 1625; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1002(a), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–226, title II, §219(a)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–312, title I, §103(c), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(c), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, §§206(a), 221(a)(3), Dec. 19, 2014, 128 Stat. 4027, 4037; Pub. L. 114–113, div. Q, title I, §103(a)–(c), title II, §204(a), Dec. 18, 2015, 129 Stat. 3044, 3045, 3081; Pub. L. 115–97, title I, §11002(d)(1)(D), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(a), title IV, §401(b)(4), Mar. 23, 2018, 132 Stat. 1160, 1201; Pub. L. 117–2, title IX, §§9621(a), 9622(a), 9623(a), (b), 9624(a), (b), Mar. 11, 2021, 135 Stat. 152–154.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -273,7 +349,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### References in Text ####
 
-The Social Security Act, referred to in subsecs. (c)(2)(B)(v) and (m), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(2)(B)(v), (m), and (n)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B and E of title IV of the Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (l)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
 
@@ -294,6 +370,26 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments ####
+
+**2021**—Subsec. (c)(1)(A). Pub. L. 117–2, §9623(b)(1), struck out concluding provisions which read as follows: "For purposes of the preceding sentence, marital status shall be determined under section 7703."
+
+Subsec. (c)(1)(E)(ii). Pub. L. 117–2, §9623(b)(2), struck out "(within the meaning of section 7703)" after "is married".
+
+Subsec. (c)(1)(F). Pub. L. 117–2, §9622(a), struck out heading and text of subpar. (F). Text read as follows: "No credit shall be allowed under this section to any eligible individual who has one or more qualifying children if no qualifying child of such individual is taken into account under subsection (b) by reason of paragraph (3)(D)."
+
+Subsec. (d). Pub. L. 117–2, §9623(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (d)(1). Pub. L. 117–2, §9623(b)(3), struck out "(within the meaning of section 7703)" after "is married".
+
+Subsec. (i)(1). Pub. L. 117–2, §9624(a), substituted "$10,000" for "$2,200".
+
+Subsec. (j)(1). Pub. L. 117–2, §9624(b)(1), inserted "(2021 in the case of the dollar amount in subsection (i)(1))" after "2015" in introductory provisions.
+
+Subsec. (j)(1)(B)(i). Pub. L. 117–2, §9624(b)(2)(A), substituted "subsection (b)(2)(A)" for "subsections (b)(2)(A) and (i)(1)".
+
+Subsec. (j)(1)(B)(iii). Pub. L. 117–2, §9624(b)(2)(B)–(4), added cl. (iii).
+
+Subsec. (n). Pub. L. 117–2, §9621(a), added subsec. (n).
 
 **2018**—Subsec. (b)(2)(B). Pub. L. 115–141, §101(a)(1), struck out cl. (i) designation and heading and struck out cls. (ii) and (iii) which related to inflation adjustment for taxable years after 2015 and application of rounding provisions in subsec. (j)(2)(A) of this section, respectively.
 
@@ -633,6 +729,16 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2021 Amendment ####
+
+Pub. L. 117–2, title IX, §9621(c), Mar. 11, 2021, 135 Stat. 153, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020."
+
+Pub. L. 117–2, title IX, §9622(b), Mar. 11, 2021, 135 Stat. 153, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020."
+
+Pub. L. 117–2, title IX, §9623(c), Mar. 11, 2021, 135 Stat. 154, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020."
+
+Pub. L. 117–2, title IX, §9624(c), Mar. 11, 2021, 135 Stat. 154, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020."
+
 #### Effective Date of 2018 Amendment ####
 
 Amendment by section 101(a) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
@@ -834,6 +940,42 @@ Pub. L. 94–12, title II, §209(b), Mar. 29, 1975, 89 Stat. 35, as amended by P
 #### Savings Provision ####
 
 For provisions that nothing in amendment by section 401(b)(4) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
+#### Information Return Matching ####
+
+Pub. L. 117–2, title IX, §9621(b), Mar. 11, 2021, 135 Stat. 153, provided that: "As soon as practicable, the Secretary of the Treasury (or the Secretary's delegate) shall develop and implement procedures to use information returns under section 6050S (relating to returns relating to higher education tuition and related expenses) to check the status of individuals as specified students for purposes of section 32(n)(1)(B)(ii) of the Internal Revenue Code of 1986 (as added by this section)."
+
+#### Temporary Special Rule for Determining Earned Income for Purposes of Earned Income Tax Credit ####
+
+Pub. L. 117–2, title IX, §9626, Mar. 11, 2021, 135 Stat. 157, provided that:
+
+"(a) In General.—If the earned income of the taxpayer for the taxpayer's first taxable year beginning in 2021 is less than the earned income of the taxpayer for the taxpayer's first taxable year beginning in 2019, the credit allowed under section 32 of the Internal Revenue Code of 1986 may, at the election of the taxpayer, be determined by substituting—
+
+"(1) such earned income for the taxpayer's first taxable year beginning in 2019, for
+
+"(2) such earned income for the taxpayer's first taxable year beginning in 2021.
+
+"(b) Earned Income.—
+
+"(1) In general.—For purposes of this section, the term 'earned income' has the meaning given such term under section 32(c) of the Internal Revenue Code of 1986.
+
+"(2) Application to joint returns.—For purposes of subsection (a), in the case of a joint return, the earned income of the taxpayer for the first taxable year beginning in 2019 shall be the sum of the earned income of each spouse for such taxable year.
+
+"(c) Special Rules.—
+
+"(1) Errors treated as mathematical errors.—For purposes of section 6213 of the Internal Revenue Code of 1986, an incorrect use on a return of earned income pursuant to subsection (a) shall be treated as a mathematical or clerical error.
+
+"(2) No effect on determination of gross income, etc.—Except as otherwise provided in this subsection, the Internal Revenue Code of 1986 shall be applied without regard to any substitution under subsection (a).
+
+"(d) Treatment of Certain Possessions.—
+
+"(1) Payments to possessions with mirror code tax systems.—The Secretary of the Treasury shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the application of the provisions of this section (other than this subsection) with respect to section 32 of the Internal Revenue Code of 1986. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+
+"(2) Payments to other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the provisions of this section (other than this subsection) with respect to section 32 of the Internal Revenue Code of 1986 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents.
+
+"(3) Mirror code tax system.—For purposes of this section, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+
+"(4) Treatment of payments.—For purposes of section 1324 of title 31, United States Code, the payments under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section."
 
 #### Temporary Special Rule for Determination of Earned Income ####
 

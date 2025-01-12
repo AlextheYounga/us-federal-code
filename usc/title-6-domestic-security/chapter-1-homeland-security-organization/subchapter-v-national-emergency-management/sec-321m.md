@@ -84,7 +84,7 @@ In developing and implementing the program under this subsection, the designated
 
 (I) under any other provision of Federal law; or
 
-(II) by anySector Risk Management Agency, as defined under Homeland Security Presidential Directive–7; and
+(II) by any Sector Risk Management Agency, as defined under Homeland Security Presidential Directive–7; and
 
 (ii) coordinate the program, as appropriate, with—
 

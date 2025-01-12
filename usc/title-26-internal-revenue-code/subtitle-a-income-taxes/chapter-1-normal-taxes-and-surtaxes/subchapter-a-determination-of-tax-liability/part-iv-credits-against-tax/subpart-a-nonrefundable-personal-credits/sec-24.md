@@ -170,7 +170,177 @@ No credit shall be allowed under this section to a taxpayer with respect to any 
 
 (B) before the due date for such return.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §807(a), June 29, 2015, 129 Stat. 418; Pub. L. 114–113, div. Q, title I, §101(a), (b), title II, §§205(a), (b), 208(a)(1), Dec. 18, 2015, 129 Stat. 3044, 3081, 3083; Pub. L. 115–97, title I, §11022(a), Dec. 22, 2017, 131 Stat. 2073; Pub. L. 115–141, div. U, title I, §101(i)(1), title IV, §401(a)(3), Mar. 23, 2018, 132 Stat. 1162, 1184.)
+#### (i) Special rules for 2021 ####
+
+In the case of any taxable year beginning after December 31, 2020, and before January 1, 2022—
+
+#### (1) Refundable credit ####
+
+If the taxpayer (in the case of a joint return, either spouse) has a principal place of abode in the United States (determined as provided in section 32) for more than one-half of the taxable year or is a bona fide resident of Puerto Rico (within the meaning of section 937(a)) for such taxable year—
+
+(A) subsection (d) shall not apply, and
+
+(B) so much of the credit determined under subsection (a) (after application of subparagraph (A)) as does not exceed the amount of such credit which would be so determined without regard to subsection (h)(4) shall be allowed under subpart C (and not allowed under this subpart).
+
+#### (2) 17-year-olds eligible for treatment as qualifying children ####
+
+This section shall be applied—
+
+(A) by substituting "age 18" for "age 17" in subsection (c)(1), and
+
+(B) by substituting "described in subsection (c) (determined after the application of subsection (i)(2)(A))" for "described in subsection (c)" in subsection (h)(4)(A).
+
+#### (3) Credit amount ####
+
+Subsection (h)(2) shall not apply and subsection (a) shall be applied by substituting "$3,000 ($3,600 in the case of a qualifying child who has not attained age 6 as of the close of the calendar year in which the taxable year of the taxpayer begins)" for "$1,000".
+
+#### (4) Reduction of increased credit amount based on modified adjusted gross income ####
+
+#### (A) In general ####
+
+The amount of the credit allowable under subsection (a) (determined without regard to subsection (b)) shall be reduced by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income (as defined in subsection (b)) exceeds the applicable threshold amount.
+
+#### (B) Applicable threshold amount ####
+
+For purposes of this paragraph, the term "applicable threshold amount" means—
+
+(i) $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)),
+
+(ii) $112,500, in the case of a head of household (as defined in section 2(b)), and
+
+(iii) $75,000, in any other case.
+
+#### (C) Limitation on reduction ####
+
+#### (i) In general ####
+
+The amount of the reduction under subparagraph (A) shall not exceed the lesser of—
+
+(I) the applicable credit increase amount, or
+
+(II) 5 percent of the applicable phaseout threshold range.
+
+#### (ii) Applicable credit increase amount ####
+
+For purposes of this subparagraph, the term "applicable credit increase amount" means the excess (if any) of—
+
+(I) the amount of the credit allowable under this section for the taxable year determined without regard to this paragraph and subsection (b), over
+
+(II) the amount of such credit as so determined and without regard to paragraph (3).
+
+#### (iii) Applicable phaseout threshold range ####
+
+For purposes of this subparagraph, the term "applicable phaseout threshold range" means the excess of—
+
+(I) the threshold amount applicable to the taxpayer under subsection (b) (determined after the application of subsection (h)(3)), over
+
+(II) the applicable threshold amount applicable to the taxpayer under this paragraph.
+
+#### (D) Coordination with limitation on overall credit ####
+
+Subsection (b) shall be applied by substituting "the credit allowable under subsection (a) (determined after the application of subsection (i)(4)(A)" for "the credit allowable under subsection (a)".
+
+#### (j) Reconciliation of credit and advance credit ####
+
+#### (1) In general ####
+
+The amount of the credit allowed under this section to any taxpayer for any taxable year shall be reduced (but not below zero) by the aggregate amount of payments made under section 7527A to such taxpayer during such taxable year. Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+#### (2) Excess advance payments ####
+
+#### (A) In general ####
+
+If the aggregate amount of payments under section 7527A to the taxpayer during the taxable year exceeds the amount of the credit allowed under this section to such taxpayer for such taxable year (determined without regard to paragraph (1)), the tax imposed by this chapter for such taxable year shall be increased by the amount of such excess. Any failure to so increase the tax shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1).
+
+#### (B) Safe harbor based on modified adjusted gross income ####
+
+#### (i) In general ####
+
+In the case of a taxpayer whose modified adjusted gross income (as defined in subsection (b)) for the taxable year does not exceed 200 percent of the applicable income threshold, the amount of the increase determined under subparagraph (A) with respect to such taxpayer for such taxable year shall be reduced (but not below zero) by the safe harbor amount.
+
+#### (ii) Phase out of safe harbor amount ####
+
+In the case of a taxpayer whose modified adjusted gross income (as defined in subsection (b)) for the taxable year exceeds the applicable income threshold, the safe harbor amount otherwise in effect under clause (i) shall be reduced by the amount which bears the same ratio to such amount as such excess bears to the applicable income threshold.
+
+#### (iii) Applicable income threshold ####
+
+For purposes of this subparagraph, the term "applicable income threshold" means—
+
+(I) $60,000 in the case of a joint return or surviving spouse (as defined in section 2(a)),
+
+(II) $50,000 in the case of a head of household, and
+
+(III) $40,000 in any other case.
+
+#### (iv) Safe harbor amount ####
+
+For purposes of this subparagraph, the term "safe harbor amount" means, with respect to any taxable year, the product of—
+
+(I) $2,000, multiplied by
+
+(II) the excess (if any) of the number of qualified children taken into account in determining the annual advance amount with respect to the taxpayer under section 7527A with respect to months beginning in such taxable year, over the number of qualified children taken into account in determining the credit allowed under this section for such taxable year.
+
+#### (k) Application of credit in possessions ####
+
+#### (1) Mirror code possessions ####
+
+#### (A) In general ####
+
+The Secretary shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the application of this section (determined without regard to this subsection) with respect to taxable years beginning after 2020. Such amounts shall be determined by the Secretary based on information provided by the government of the respective possession.
+
+#### (B) Coordination with credit allowed against United States income taxes ####
+
+No credit shall be allowed under this section for any taxable year to any individual to whom a credit is allowable against taxes imposed by a possession of the United States with a mirror code tax system by reason of the application of this section in such possession for such taxable year.
+
+#### (C) Mirror code tax system ####
+
+For purposes of this paragraph, the term "mirror code tax system" means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+
+#### (2) Puerto Rico ####
+
+#### (A) Application to taxable years in 2021 ####
+
+(i) For application of refundable credit to residents of Puerto Rico, see subsection (i)(1).
+
+(ii) For nonapplication of advance payment to residents of Puerto Rico, see section 7527A(e)(4)(A).
+
+#### (B) Application to taxable years after 2021 ####
+
+In the case of any bona fide resident of Puerto Rico (within the meaning of section 937(a)) for any taxable year beginning after December 31, 2021—
+
+(i) the credit determined under this section shall be allowable to such resident, and
+
+(ii) subsection (d)(1)(B)(ii) shall be applied without regard to the phrase "in the case of a taxpayer with 3 or more qualifying children".
+
+#### (3) American Samoa ####
+
+#### (A) In general ####
+
+The Secretary shall pay to American Samoa amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of American Samoa by reason of the application of this section for taxable years beginning after 2020 if the provisions of this section had been in effect in American Samoa (applied as if American Samoa were the United States and without regard to the application of this section to bona fide residents of Puerto Rico under subsection (i)(1)).
+
+#### (B) Distribution requirement ####
+
+Subparagraph (A) shall not apply unless American Samoa has a plan, which has been approved by the Secretary, under which American Samoa will promptly distribute such payments to its residents.
+
+#### (C) Coordination with credit allowed against United States income taxes ####
+
+#### (i) In general ####
+
+In the case of a taxable year with respect to which a plan is approved under subparagraph (B), this section (other than this subsection) shall not apply to any individual eligible for a distribution under such plan.
+
+#### (ii) Application of section in event of absence of approved plan ####
+
+In the case of a taxable year with respect to which a plan is not approved under subparagraph (B)—
+
+(I) if such taxable year begins in 2021, subsection (i)(1) shall be applied by substituting "bona fide resident of Puerto Rico or American Samoa" for "bona fide resident of Puerto Rico", and
+
+(II) if such taxable year begins after December 31, 2021, rules similar to the rules of paragraph (2)(B) shall apply with respect to bona fide residents of American Samoa (within the meaning of section 937(a)).
+
+#### (4) Treatment of payments ####
+
+For purposes of section 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §807(a), June 29, 2015, 129 Stat. 418; Pub. L. 114–113, div. Q, title I, §101(a), (b), title II, §§205(a), (b), 208(a)(1), Dec. 18, 2015, 129 Stat. 3044, 3081, 3083; Pub. L. 115–97, title I, §11022(a), Dec. 22, 2017, 131 Stat. 2073; Pub. L. 115–141, div. U, title I, §101(i)(1), title IV, §401(a)(3), Mar. 23, 2018, 132 Stat. 1162, 1184; Pub. L. 117–2, title IX, §§9611(a), (b)(2), 9612(a), Mar. 11, 2021, 135 Stat. 144, 148, 150.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -185,6 +355,12 @@ Section 205(c)(2)(B)(i) of the Social Security Act, referred to in subsec. (h)(7
 A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments ####
+
+**2021**—Subsec. (i). Pub. L. 117–2, §9611(a), added subsec. (i).
+
+Subsec. (j). Pub. L. 117–2, §9611(b)(2), added subsec. (j).
+
+Subsec. (k). Pub. L. 117–2, §9612(a), added subsec. (k).
 
 **2018**—Subsec. (d)(3), (5). Pub. L. 115–141, §401(a)(3), redesignated par. (5) as (3).
 
@@ -347,6 +523,12 @@ Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. 
 Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text of par. (4). Text read as follows: "If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess."
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
+
+#### Effective Date of 2021 Amendment ####
+
+Pub. L. 117–2, title IX, §9611(c)(1), Mar. 11, 2021, 135 Stat. 150, provided that: "The amendments made by this section [enacting section 7527A of this title and amending this section, sections 26, 3402, and 6211 of this title, and section 1324 of Title 31, Money and Finance] shall apply to taxable years beginning after December 31, 2020."
+
+Pub. L. 117–2, title IX, §9612(b), Mar. 11, 2021, 135 Stat. 152, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2018 Amendment ####
 

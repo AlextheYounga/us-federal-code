@@ -57,6 +57,23 @@ Except as provided in subclause (III), in the case of any calendar year after 20
 
 Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
 
+#### (iii) Temporary percentages for 2021 and 2022 ####
+
+In the case of a taxable year beginning in 2021 or 2022—
+
+(I) clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and
+
+(II) the following table shall be applied in lieu of the table contained in clause (i):
+
+|In the case of household income (expressed as a percent of poverty line) within the following income tier:|The initial premium percentage is—|The final premium percentage is—|
+|----------------------------------------------------------------------------------------------------------|----------------------------------|--------------------------------|
+|                                           Up to 150.0 percent                                            |               0.0                |              0.0               |
+|                                    150.0 percent up to 200.0 percent                                     |               0.0                |              2.0               |
+|                                    200.0 percent up to 250.0 percent                                     |               2.0                |              4.0               |
+|                                    250.0 percent up to 300.0 percent                                     |               4.0                |              6.0               |
+|                                    300.0 percent up to 400.0 percent                                     |               6.0                |              8.5               |
+|                                         400.0 percent and higher                                         |               8.5                |              8.5               |
+
 #### (B) Applicable second lowest cost silver plan ####
 
 The applicable second lowest cost silver plan with respect to any applicable taxpayer is the second lowest cost silver plan of the individual market in the rating area in which the taxpayer resides which—
@@ -120,6 +137,10 @@ If the taxpayer is married (within the meaning of section 7703) at the close of 
 #### (D) Denial of credit to dependents ####
 
 No credit shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
+
+#### (E) Temporary rule for 2021 and 2022 ####
+
+In the case of a taxable year beginning in 2021 or 2022, subparagraph (A) shall be applied without regard to "but does not exceed 400 percent".
 
 #### (2) Coverage month ####
 
@@ -319,6 +340,10 @@ In the case of any calendar year beginning after 2014, each of the dollar amount
 
  If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
+#### (iii) Temporary modification of limitation on increase ####
+
+In the case of any taxable year beginning in 2020, for any taxpayer who files for such taxable year an income tax return reconciling any advance payment of the credit under this section, the Secretary shall treat subparagraph (A) as not applying.
+
 #### (3) Information requirement ####
 
 Each Exchange (or any person carrying out 1 or more responsibilities of an Exchange under section 1311(f)(3) or 1321(c) of the Patient Protection and Affordable Care Act) shall provide the following information to the Secretary and to the taxpayer with respect to any health plan provided through the Exchange:
@@ -335,7 +360,35 @@ Each Exchange (or any person carrying out 1 or more responsibilities of an Excha
 
 (F) Information necessary to determine whether a taxpayer has received excess advance payments.
 
-#### (g) Regulations ####
+#### (g) Special rule for individuals who receive unemployment compensation during 2021 ####
+
+#### (1) In general ####
+
+For purposes of this section, in the case of a taxpayer who has received, or has been approved to receive, unemployment compensation for any week beginning during 2021, for the taxable year in which such week begins—
+
+(A) such taxpayer shall be treated as an applicable taxpayer, and
+
+(B) there shall not be taken into account any household income of the taxpayer in excess of 133 percent of the poverty line for a family of the size involved.
+
+#### (2) Unemployment compensation ####
+
+For purposes of this subsection, the term "unemployment compensation" has the meaning given such term in section 85(b).
+
+#### (3) Evidence of unemployment compensation ####
+
+For purposes of this subsection, a taxpayer shall not be treated as having received (or been approved to receive) unemployment compensation for any week unless such taxpayer provides self-attestation of, and such documentation as the Secretary shall prescribe which demonstrates, such receipt or approval.
+
+#### (4) Clarification of rules remaining applicable ####
+
+#### (A) Joint return requirement ####
+
+Paragraph (1)(A) shall not affect the application of subsection (c)(1)(C).
+
+#### (B) Household income and affordabillity <sup><a href="#36B_3_target" name="36B_3">3</a></sup> ####
+
+Paragraph (1)(B) shall not apply to any determination of household income for purposes of paragraph (2)(C)(i)(II) or (4)(C)(ii) of subsection (c) <sup><a href="#36B_4_target" name="36B_4">4</a></sup>
+
+#### (h) Regulations ####
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations which provide for—
 
@@ -343,7 +396,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060.)
+(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 117–2, title IX, §§9661(a), (b), 9662(a), 9663(a), Mar. 11, 2021, 135 Stat. 182, 183.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -362,6 +415,14 @@ Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, 
 The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2021**—Subsec. (b)(3)(A)(iii). Pub. L. 117–2, §9661(a), added cl. (iii).
+
+Subsec. (c)(1)(E). Pub. L. 117–2, §9661(b), added subpar. (E).
+
+Subsec. (f)(2)(B)(iii). Pub. L. 117–2, §9662(a), added cl. (iii).
+
+Subsecs. (g), (h). Pub. L. 117–2, §9663(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 **2017**—Subsec. (f)(2)(B)(ii)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -410,6 +471,14 @@ Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. headin
 Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted "in the table contained" after "each of the dollar amounts" in introductory provisions.
 
 Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
+
+#### Effective Date of 2021 Amendment ####
+
+Pub. L. 117–2, title IX, §9661(c), Mar. 11, 2021, 135 Stat. 183, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020."
+
+Pub. L. 117–2, title IX, §9662(b), Mar. 11, 2021, 135 Stat. 183, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019."
+
+Pub. L. 117–2, title IX, §9663(b), Mar. 11, 2021, 135 Stat. 184, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2017 Amendment ####
 
@@ -474,3 +543,7 @@ Pub. L. 112–56, title IV, §401(c), Nov. 21, 2011, 125 Stat. 734, provided tha
 [<sup>1</sup> So in original. Probably should be preceded by "section".](#36B_1)
 
 [<sup>2</sup> See References in Text note below.](#36B_2)
+
+[<sup>3</sup> So in original. Probably should be "affordability".](#36B_3)
+
+[<sup>4</sup> So in original. Probably should be followed by a period.](#36B_4)

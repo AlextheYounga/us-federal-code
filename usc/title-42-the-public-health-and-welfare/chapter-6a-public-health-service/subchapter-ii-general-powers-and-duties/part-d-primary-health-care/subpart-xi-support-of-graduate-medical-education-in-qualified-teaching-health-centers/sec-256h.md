@@ -250,6 +250,26 @@ Pub. L. 115–63 substituted "2015, $60,000,000" for "2015 and $60,000,000" and 
 
 **2015**—Subsec. (g). Pub. L. 114–10 inserted "and $60,000,000 for each of fiscal years 2016 and 2017" before period at end.
 
+#### Funding for Teaching Health Centers That Operate Graduate Medical Education ####
+
+Pub. L. 117–2, title II, §2604, Mar. 11, 2021, 135 Stat. 44, provided that:
+
+"(a) In General.—In addition to amounts otherwise available, and notwithstanding the capped amount referenced in sections 340H(b)(2) and 340H(d)(2) of the Public Health Service Act (42 U.S.C. 256h(b)(2) and (d)(2)), there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $330,000,000, to remain available until September 30, 2023, for the program of payments to teaching health centers that operate graduate medical education under section 340H of the Public Health Service Act (42 U.S.C. 256h) and for teaching health center development grants authorized under section 749A of the Public Health Service Act (42 U.S.C. 293l–1).
+
+"(b) Use of Funds.—Amounts made available pursuant to subsection (a) shall be used for the following activities:
+
+"(1) For making payments to establish new approved graduate medical residency training programs pursuant to section 340H(a)(1)(C) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(C)).
+
+"(2) To provide an increase to the per resident amount described in section 340H(a)(2) of the Public Health Service Act (42 U.S.C. 256h(a)(2)) of $10,000.
+
+"(3) For making payments under section 340H(a)(1)(A) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(A))) to qualified teaching health centers for maintenance of filled positions at existing approved graduate medical residency training programs.
+
+"(4) For making payments under section 340H(a)(1)(B) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(B)) for the expansion of existing approved graduate medical residency training programs.
+
+"(5) For making awards under section 749A of the Public Health Service Act (42 U.S.C. 293l–1) to teaching health centers for the purpose of establishing new accredited or expanded primary care residency programs.
+
+"(6) To cover administrative costs and activities necessary for qualified teaching health centers receiving payments under section 340H of the Public Health Service Act (42 U.S.C. 256h) to carry out activities under such section."
+
 #### Payments for Previous Fiscal Years ####
 
 Pub. L. 115–123, div. E, title IX, §50901(d)(7), Feb. 9, 2018, 132 Stat. 289, provided that: "The provisions of section 340H of the Public Health Service Act (42 U.S.C. 256h), as in effect on the day before the date of enactment of Public Law 115–96 [Dec. 22, 2017], shall continue to apply with respect to payments under such section for fiscal years before fiscal year 2018."

@@ -1,4 +1,4 @@
-### §652a. Sector risk management agencies ###
+### §652a. Sector Risk Management Agencies ###
 
 #### (a) Definitions ####
 
@@ -34,7 +34,7 @@ The term "Secretary" means the Secretary of Homeland Security.
 
 #### (7) Sector risk management agency ####
 
-The term "sector risk management agency" has the meaning given the term "Sector-Specific Agency" in section 651(5) of this title.
+The term "sector risk management agency" has the meaning given the term "Sector-Specific Agency" in section 651(5) of this title.<sup><a href="#652a_1_target" name="652a_1">1</a></sup>
 
 #### (b) Critical infrastructure sector designation ####
 
@@ -118,7 +118,13 @@ Any designation of critical infrastructure sectors shall be published in the Fed
 
 #### (2) Omitted ####
 
-#### (3) References Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—(A) be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and(B) have the meaning give such term in section 651(5) of this title. ####
+#### (3) References ####
+
+Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—
+
+(A) be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and
+
+(B) have the meaning give such term in section 651(5) of this title.
 
 #### (4) Omitted ####
 
@@ -135,3 +141,5 @@ Not later than two years after January 1, 2021 and every four years thereafter f
 Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 Section is comprised of section 9002 of Pub. L. 116–283. Subsec. (c)(1) of section 9002 of Pub. L. 116–283 enacted section 665d of this title. Subsec. (c)(2) of section 9002 of Pub. L. 116–283 amended sections 195f, 321m, 651, 652, and 664 of this title. Subsec. (c)(4) of section 9002 of Pub. L. 116–283 amended the table of contents in section 1(b) of the Homeland Security Act of 2002.
+
+[<sup>1</sup> So in original. Section 651(5) of this title defines "Sector Risk Management Agency".](#652a_1)

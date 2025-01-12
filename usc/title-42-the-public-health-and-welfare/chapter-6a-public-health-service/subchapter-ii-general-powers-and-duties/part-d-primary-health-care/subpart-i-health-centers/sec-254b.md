@@ -990,6 +990,28 @@ Pub. L. 111–148, title V, §5602, Mar. 23, 2010, 124 Stat. 677, provided that:
 
 "(h) Publication of Rule After Public Comment.—The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target publication date."
 
+#### Funding for Community Health Centers and Community Care ####
+
+Pub. L. 117–2, title II, §2601, Mar. 11, 2021, 135 Stat. 43, provided that:
+
+"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle G (§§2601–2605 of title II of Pub. L 117–2, see Tables for classification] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,600,000,000, to remain available until expended, for necessary expenses for awarding grants and cooperative agreements under section 330 of the Public Health Service Act (42 U.S.C. 254b) to be awarded without regard to the time limitation in subsection (e)(3) and subsections (e)(6)(A)(iii), (e)(6)(B)(iii), and (r)(2)(B) of such section 330 , and for necessary expenses for awarding grants to Federally qualified health centers, as described in section 1861(aa)(4)(B) of the Social Security Act (42 U.S.C. 1395x(aa)(4)(B)), and for awarding grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act (42 U.S.C. 11703, 11705). Of the total amount appropriated by the preceding sentence, not less than $20,000,000 shall be for grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act (42 U.S.C. 11703, 11705).
+
+"(b) Use of Funds.—Amounts made available to an awardee pursuant to subsection (a) shall be used—
+
+"(1) to plan, prepare for, promote, distribute, administer, and track COVID–19 vaccines, and to carry out other vaccine-related activities;
+
+"(2) to detect, diagnose, trace, and monitor COVID–19 infections and related activities necessary to mitigate the spread of COVID–19, including activities related to, and equipment or supplies purchased for, testing, contact tracing, surveillance, mitigation, and treatment of COVID–19;
+
+"(3) to purchase equipment and supplies to conduct mobile testing or vaccinations for COVID–19, to purchase and maintain mobile vehicles and equipment to conduct such testing or vaccinations, and to hire and train laboratory personnel and other staff to conduct such mobile testing or vaccinations, particularly in medically underserved areas;
+
+"(4) to establish, expand, and sustain the health care workforce to prevent, prepare for, and respond to COVID–19, and to carry out other health workforce-related activities;
+
+"(5) to modify, enhance, and expand health care services and infrastructure; and
+
+"(6) to conduct community outreach and education activities related to COVID–19.
+
+"(c) Past Expenditures.—An awardee may use amounts awarded pursuant to subsection (a) to cover the costs of the awardee carrying out any of the activities described in subsection (b) during the period beginning on the date of the declaration of a public health emergency by the Secretary under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19 and ending on the date of such award."
+
 #### Studies Relating to Community Health Centers ####
 
 Pub. L. 110–355, §2(b)(1)–(3), Oct. 8, 2008, 122 Stat. 3988, 3989, provided that:

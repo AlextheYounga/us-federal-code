@@ -60,11 +60,17 @@ Sec.
 
 7527. Advance payment of credit for health insurance costs of eligible individuals.
 
+7527A. Advance payment of child tax credit.
+
 7528. Internal Revenue Service user fees.
 
 7529. Notification of suspected identity theft.
 
+7530. Application of earned income tax credit to possessions of the United States.
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–2, title IX, §§9611(b)(4)(D), 9625(b), Mar. 11, 2021, 135 Stat. 150, 157, added items 7527A and 7530.
 
 **2019**—Pub. L. 116–25, title I, §1401(b), title II, §2007(c), July 1, 2019, 133 Stat. 997, 1006, added items 7526A and 7529.
 

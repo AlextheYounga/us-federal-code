@@ -72,6 +72,18 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1) and (c)
 
 A prior section 290dd–3, act July 1, 1944, ch. 373, title V, §544, formerly Pub. L. 91–616, title III, §333, Dec. 31, 1970, 84 Stat. 1853, as amended Pub. L. 93–282, title I, §122(a), May 14, 1974, 88 Stat. 131; Pub. L. 94–581, title I, §111(c)(4), Oct. 21, 1976, 90 Stat. 2852; renumbered §523 of act July 1, 1944, Apr. 26, 1983, Pub. L. 98–24, §2(b)(13), 97 Stat. 181; Aug. 27, 1986, Pub. L. 99–401, title I, §106(a), 100 Stat. 907; renumbered §544, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, §13(q)(1)(A)(ii), 105 Stat. 278, which related to confidentiality of patient records for alcohol abuse and alcoholism programs, was omitted in the general revision of this part by Pub. L. 102–321. See section 290dd–2 of this title.
 
+#### Funding for Community-Based Funding for Local Substance Use Disorder Services ####
+
+Pub. L. 117–2, title II, §2706, Mar. 11, 2021, 135 Stat. 47, provided that:
+
+"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $30,000,000, to remain available until expended, to carry out the purpose described in subsection (b).
+
+"(b) Use of Funds.—
+
+"(1) In general.—The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use and in consultation with the Director of the Centers for Disease Control and Prevention, shall award grants to support States; local, Tribal, and territorial governments; Tribal organizations; nonprofit community-based organizations; and primary and behavioral health organizations to support community-based overdose prevention programs, syringe services programs, and other harm reduction services.
+
+"(2) Use of grant funds.—Grant funds awarded under this section to eligible entities shall be used for preventing and controlling the spread of infectious diseases and the consequences of such diseases for individuals with substance use disorder, distributing opioid overdose reversal medication to individuals at risk of overdose, connecting individuals at risk for, or with, a substance use disorder to overdose education, counseling, and health education, and encouraging such individuals to take steps to reduce the negative personal and public health impacts of substance use or misuse."
+
 #### Improving Access to Overdose Treatment ####
 
 Pub. L. 114–198, title I, §107(b), July 22, 2016, 130 Stat. 705, provided that:

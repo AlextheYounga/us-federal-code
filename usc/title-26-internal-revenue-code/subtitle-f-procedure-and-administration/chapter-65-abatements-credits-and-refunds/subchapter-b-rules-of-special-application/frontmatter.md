@@ -38,13 +38,19 @@ Sec.
 
 6428A. Additional 2020 recovery rebates for individuals.
 
+6428B. 2021 recovery rebates to individuals.
+
 [6429. Repealed.]
 
 6430. Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate.
 
-[6431, 6432. Repealed.]
+[6431. Repealed.]
+
+6432. Continuation coverage premium assistance.
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–2, title IX, §§9501(b)(1)(B), 9601(c)(3)(B), Mar. 11, 2021, 135 Stat. 136, 143, added items 6428B and 6432.
 
 **2020**—Pub. L. 116–260, div. N, title II, §272(g)(2), Dec. 27, 2020, 134 Stat. 1976, added item 6428A.
 

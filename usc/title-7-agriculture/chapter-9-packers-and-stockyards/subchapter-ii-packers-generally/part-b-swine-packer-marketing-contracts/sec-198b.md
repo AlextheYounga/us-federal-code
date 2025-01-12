@@ -43,3 +43,7 @@ For termination of section by section 942 of Pub. L. 106–78, see Livestock Man
 The Federal Trade Commission Act, referred to in subsec. (b)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+
+#### Termination Date ####
+
+Section to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title. Section 942 of Pub. L. 106–78 to be applied by substituting "September 30, 2021" for "September 30, 2020", see section 401 of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under section 1636i of this title.

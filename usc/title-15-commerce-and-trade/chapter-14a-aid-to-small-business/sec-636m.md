@@ -92,7 +92,7 @@ In this section—
 
 (H) covered worker protection expenditures; and
 
-(12) the terms "payroll costs" and "seasonal employer" have the meanings given those terms in section 636(a)(36) of this title. Such payroll costs shall not include qualified wages taken into account in determining the credit allowed under section 2301 of the CARES Act or qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020. Such payroll costs shall not include qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020.<sup><a href="#636m_1_target" name="636m_1">1</a></sup>
+(12) the terms "payroll costs" and "seasonal employer" have the meanings given those terms in section 636(a)(36) of this title. Such payroll costs shall not include qualified wages taken into account in determining the credit allowed under section 2301 of the CARES Act, qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, or premiums taken into account in determining the credit allowed under section 6432 of title 26. Such payroll costs shall not include qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020.<sup><a href="#636m_1_target" name="636m_1">1</a></sup>
 
 #### (b) Forgiveness ####
 
@@ -386,7 +386,9 @@ Not later than 30 days after the date on which the Administrator submits the aud
 
 (iii) any substantial changes made to the audit plan submitted under subparagraph (A).
 
-(Pub. L. 85–536, §2[7A], formerly Pub. L. 116–136, div. A, title I, §1106, Mar. 27, 2020, 134 Stat. 297; Pub. L. 116–142, §3(b), June 5, 2020, 134 Stat. 641; renumbered Pub. L. 85–536, §2[7A], and amended Pub. L. 116–260, div. N, title II, §276(a)(1), title III, §§304(b)(1)(A), (B), (2), 305(a), 306, 307(a), 311(b)(1), 315(b), div. EE, title II, §206(c)(1), title III, §303(g), Dec. 27, 2020, 134 Stat. 1979, 1993, 1994, 1996–1998, 2006, 2011, 3060, 3079.)
+(Pub. L. 85–536, §2[7A], formerly Pub. L. 116–136, div. A, title I, §1106, Mar. 27, 2020, 134 Stat. 297; Pub. L. 116–142, §3(b), June 5, 2020, 134 Stat. 641; renumbered Pub. L. 85–536, §2[7A], and amended Pub. L. 116–260, div. N, title II, §276(a)(1), title III, §§304(b)(1)(A), (B), (2), 305(a), 306, 307(a), 311(b)(1), 315(b), div. EE, title II, §206(c)(1), title III, §303(g), Dec. 27, 2020, 134 Stat. 1979, 1993, 1994, 1996–1998, 2006, 2011, 3060, 3079; Pub. L. 117–2, title V, §5001(c)(1), Mar. 11, 2021, 135 Stat. 84.)
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
@@ -403,6 +405,10 @@ Section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, referred 
 Section was formerly classified to section 9005 of this title prior to renumbering by section 304(b)(1)(A) of title III of div. N of Pub. L. 116–260.
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(12). Pub. L. 117–2, §5001(c)(1)(B), which directed insertion of ", or premiums taken into account in determining the credit allowed under section 6432 of title 26" before the period at the end of par. (12), was executed by making the insertion before the period at end of the penultimate sentence, to reflect the probable intent of Congress and the addition of a duplicative final sentence by section 303(g) of Pub. L. 116–260. See 2020 Amendment note below.
+
+Pub. L. 117–2, §5001(c)(1)(A), substituted "CARES Act," for "CARES Act or".
 
 **2020**—Subsec. (a)(1). Pub. L. 116–260, div. N, §304(b)(1)(B)(i), substituted "section 636(a)(36) of this title" for "paragraph (36) of section 636(a) of this title, as added by section 1102".
 
@@ -467,6 +473,12 @@ Subsec. (l). Pub. L. 116–260, div. N, §307(a)(3), added subsec. (l).
 Pub. L. 116–260, div. N, §306(1), struck out subsec. (l). Text read as follows: "An eligible recipient that received a covered loan before June 5, 2020, may elect for the covered period applicable to such covered loan to end on the date that is 8 weeks after the date of the origination of such covered loan.".
 
 Pub. L. 116–142, §3(b)(3), added subsec. (l).
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2021 Amendment ####
+
+Amendment by Pub. L. 117–2 applicable only with respect to applications for forgiveness of covered loans made under pars. (36) or (37) of section 636(a) of this title received on or after Mar. 11, 2021, see section 5001(c)(3) of Pub. L. 117–2, set out as a note under section 636 of this title.
 
 #### Effective Date of 2020 Amendment ####
 

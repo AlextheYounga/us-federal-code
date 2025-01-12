@@ -102,7 +102,7 @@ Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1882(a)(1), (c), Jan. 1, 20
 
 (1) The heading is amended to read as follows:
 
-**"PART [probably should be 'CHAPTER'] 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY"; and**
+**"PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" [probably should be "CHAPTER 141"]; and**
 
 (2) The table of sections is amended to read as follows:
 

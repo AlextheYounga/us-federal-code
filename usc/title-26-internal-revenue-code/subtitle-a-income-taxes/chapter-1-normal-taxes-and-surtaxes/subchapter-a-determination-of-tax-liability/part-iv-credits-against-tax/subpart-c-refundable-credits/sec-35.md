@@ -258,9 +258,9 @@ Payments made by the Secretary on behalf of any individual under section 7527 (r
 
 Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
 
-#### (9) COBRA premium assistance ####
+#### (9) Continuation coverage premium assistance ####
 
-In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+In the case of an assistance eligible individual who receives premium assistance for continuation coverage under section 9501(a)(1) of the American Rescue Plan Act of 2021 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
 
 #### (10) Continued qualification of family members after certain events ####
 
@@ -316,7 +316,7 @@ In the case of a taxpayer who makes the election under paragraph (11) with respe
 
 The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §134(a), Dec. 27, 2020, 134 Stat. 3053.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §134(a), Dec. 27, 2020, 134 Stat. 3053; Pub. L. 117–2, title IX, §9501(b)(3)(A), Mar. 11, 2021, 135 Stat. 137.)
 
 #### References in Text ####
 
@@ -334,7 +334,7 @@ The Patient Protection and Affordable Care Act, referred to in subsecs. (e)(1)(J
 
 The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9), is section 3001(a) of Pub. L. 111–5, div. B, title III, Feb. 17, 2009, 123 Stat. 455, which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under section 6432 of this title.
+Section 9501(a)(1) of the American Rescue Plan Act of 2021, referred to in subsec. (g)(9), is section 9501(a)(1) of Pub. L. 117–2, which is set out in a note under section 4980B of this title.
 
 #### Prior Provisions ####
 
@@ -343,6 +343,8 @@ A prior section 35 was renumbered section 37 of this title.
 Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments ####
+
+**2021**—Subsec. (g)(9). Pub. L. 117–2 amended par. (9) generally. Prior to amendment, par. (9) related to COBRA premium assistance.
 
 **2020**—Subsec. (b)(1)(B). Pub. L. 116–260 substituted "January 1, 2022" for "January 1, 2021".
 
@@ -401,6 +403,10 @@ Subsec. (g)(11). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–
 **2007**—Subsec. (d)(2). Pub. L. 110–172 struck out "paragraph (2) or (4) of" before "section 152(e)" and substituted "(as defined in section 152(e)(4)(A))" for "(within the meaning of section 152(e)(1))".
 
 **2004**—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a)."
+
+#### Effective Date of 2021 Amendment ####
+
+Pub. L. 117–2, title IX, §9501(b)(3)(B), Mar. 11, 2021, 135 Stat. 137, provided that: "The amendment made by subparagraph (A) [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Mar. 11, 2021]."
 
 #### Effective Date of 2020 Amendment ####
 

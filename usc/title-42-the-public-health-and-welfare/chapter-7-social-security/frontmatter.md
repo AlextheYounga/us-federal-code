@@ -346,6 +346,8 @@ Sec.
 
 711. Maternal, infant, and early childhood home visiting programs.
 
+711a. Emergency assistance to families through home visiting programs.
+
 712. Services to individuals with a postpartum condition and their families.
 
 713. Personal responsibility education.
@@ -355,6 +357,14 @@ Sec.
 #### SUBCHAPTER VI—CORONAVIRUS RELIEF FUND ####
 
 801. Coronavirus relief fund.
+
+802. Coronavirus State fiscal recovery fund.
+
+803. Coronavirus local fiscal recovery fund.
+
+804. Coronavirus capital projects fund.
+
+805. Local assistance and Tribal consistency fund.
 
 #### SUBCHAPTER VII—ADMINISTRATION ####
 
@@ -637,6 +647,8 @@ Sec.
 1320b–24. Consultation with Tribal Technical Advisory Group.
 
 1320b–25. Reporting to law enforcement of crimes occurring in federally funded long-term care facilities.
+
+1320b–26. Funding for providers relating to COVID–19.
 
 #### Part B—Peer Review of Utilization and Quality of Health Care Services ####
 
@@ -1194,6 +1206,8 @@ Sec.
 
 1396w–5. Addressing health care disparities.
 
+1396w–6. State option to provide qualifying community-based mobile crisis intervention services.
+
 #### SUBCHAPTER XX—BLOCK GRANTS AND PROGRAMS FOR SOCIAL SERVICES AND ELDER JUSTICE ####
 
 #### Division A—Block Grants to States for Social Services ####
@@ -1215,6 +1229,8 @@ Sec.
 1397g. Demonstration projects to address health professions workforce needs.
 
 1397h. Program for early detection of certain medical conditions related to environmental health hazards.
+
+1397i. Additional funding for aging and disability services programs.
 
 #### Division B—Elder Justice ####
 

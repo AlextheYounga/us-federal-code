@@ -38,9 +38,9 @@ Subsection (a) does not apply to the following:
 
 Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of title 10.
 
-#### *(g) Applicability to contracts and subcontracts for procurement of commercial products* ####
+#### (g) Applicability to contracts and subcontracts for procurement of commercial products ####
 
-*This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, "commercial product" shall be as defined in section 103 of title 41.*
+This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, "commercial product" shall be as defined in section 103 of title 41.
 
 #### (h) Geographic coverage ####
 

@@ -52,11 +52,13 @@ Paragraph (1) shall not apply to any taxpayer for any taxable year if the adjust
 
 #### (B) Coordination with other limitations ####
 
-For purposes of sections 86, 135, 137, 219, 221, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
+For purposes of sections 85(c), 86, 135, 137, 219, 221, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 24; Pub. L. 99–514, title I, §§122(a)(1), 123(b)(1), Oct. 22, 1986, 100 Stat. 2109, 2113; Pub. L. 114–239, §2(a), Oct. 7, 2016, 130 Stat. 973; Pub. L. 115–97, title I, §13305(b)(1), Dec. 22, 2017, 131 Stat. 2126; Pub. L. 116–260, div. EE, title I, §104(b)(2)(B), Dec. 27, 2020, 134 Stat. 3041.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 24; Pub. L. 99–514, title I, §§122(a)(1), 123(b)(1), Oct. 22, 1986, 100 Stat. 2109, 2113; Pub. L. 114–239, §2(a), Oct. 7, 2016, 130 Stat. 973; Pub. L. 115–97, title I, §13305(b)(1), Dec. 22, 2017, 131 Stat. 2126; Pub. L. 116–260, div. EE, title I, §104(b)(2)(B), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(1), Mar. 11, 2021, 135 Stat. 122.)
 
 #### Amendments ####
+
+**2021**—Subsec. (d)(2)(B). Pub. L. 117–2 inserted "85(c)," before "86".
 
 **2020**—Subsec. (d)(2)(B). Pub. L. 116–260 struck out "222," after "221,".
 
@@ -75,6 +77,10 @@ Subsec. (c). Pub. L. 99–514, §122(a)(1)(D), added subsec. (c).
 #### Change of Name ####
 
 References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+
+#### Effective Date of 2021 Amendment ####
+
+Pub. L. 117–2, title IX, §9042(c), Mar. 11, 2021, 135 Stat. 122, provided that: "The amendments made by this section [amending this section and sections 85, 86, 135, 137, 219, 221, 222, and 469 of this title] shall apply to taxable years beginning after December 31, 2019."
 
 #### Effective Date of 2020 Amendment ####
 

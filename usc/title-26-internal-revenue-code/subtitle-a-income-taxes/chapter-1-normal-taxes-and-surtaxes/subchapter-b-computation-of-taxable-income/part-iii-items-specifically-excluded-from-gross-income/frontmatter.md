@@ -96,9 +96,13 @@ Sec.
 
 139H. Interest received in action to recover property seized by the Internal Revenue Service based on structuring transaction.
 
+139I. Continuation coverage premium assistance.
+
 140. Cross references to other Acts.
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–2, title IX, §9501(b)(4)(B), Mar. 11, 2021, 135 Stat. 137, added item 139I.
 
 **2019**—Pub. L. 116–25, title I, §1202(b), July 1, 2019, 133 Stat. 988, added item 139H.
 

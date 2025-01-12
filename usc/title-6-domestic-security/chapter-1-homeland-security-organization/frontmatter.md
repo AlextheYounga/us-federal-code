@@ -770,7 +770,7 @@ Sec.
 
 652. Cybersecurity and Infrastructure Security Agency.
 
-652a. Sector risk management agencies.
+652a. Sector Risk Management Agencies.
 
 653. Cybersecurity Division.
 

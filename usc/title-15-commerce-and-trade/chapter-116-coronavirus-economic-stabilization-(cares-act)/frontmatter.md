@@ -26,11 +26,15 @@ Sec.
 
 9009b. Targeted EIDL advance for small business continuity, adaptation, and resiliency.
 
+9009c. Support for restaurants.
+
 9010. Resources and services in languages other than English.
 
 9011. Subsidy for certain loan payments.
 
 9012. Emergency rulemaking authority.
+
+9013. Community Navigator pilot program.
 
 #### SUBCHAPTER II—UNEMPLOYMENT INSURANCE PROVISIONS ####
 
@@ -59,6 +63,8 @@ Sec.
 9032. Implementation.
 
 9033. Return to work reporting.
+
+9034. Funding for fraud prevention, equitable access, and timely payment to eligible workers.
 
 #### SUBCHAPTER III—ECONOMIC STABILIZATION AND ASSISTANCE TO SEVERELY DISTRESSED SECTORS OF THE UNITED STATES ECONOMY ####
 
@@ -101,6 +107,12 @@ Sec.
 9058. Temporary moratorium on eviction filings.
 
 9058a. Emergency rental assistance.
+
+9058b. Funding for water assistance program.
+
+9058c. Emergency rental assistance.
+
+9058d. Homeowner Assistance Fund.
 
 9059. Protection of collective bargaining agreement.
 
@@ -161,3 +173,17 @@ Sec.
 #### Part D—Coronavirus Economic Relief for Transportation Services Act ####
 
 9111. Assistance for providers of transportation services affected by COVID–19.
+
+#### Part E—Relief for Airports ####
+
+9121. Relief for airports.
+
+#### Part F—Aviation Manufacturing Jobs Protection ####
+
+9131. Definitions.
+
+9132. Payroll support program.
+
+#### Part G—Airlines ####
+
+9141. Air transportation payroll support program extension.

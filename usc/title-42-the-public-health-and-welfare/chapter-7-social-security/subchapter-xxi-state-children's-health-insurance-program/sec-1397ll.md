@@ -56,7 +56,7 @@ The term "pregnancy-related assistance" has the meaning given the term "child he
 
 The term "targeted low-income pregnant woman" means an individual—
 
-(A) during pregnancy and through the end of the month in which the 60-day period (beginning on the last day of her pregnancy) ends;
+(A) during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg(e)(1) of this title, the 12-month period, (beginning on the last day of her pregnancy) ends;
 
 (B) whose family income exceeds 185 percent (or, if higher, the percent applied under subsection (b)(1)(A)) of the poverty line applicable to a family of the size involved, but does not exceed the income eligibility level established under the State child health plan under this subchapter for a targeted low-income child; and
 
@@ -88,9 +88,11 @@ Nothing in this subsection shall be construed—
 
 (B) to modify the authority to provide pregnancy-related services under a waiver specified in paragraph (1)(B).
 
-(Aug. 14, 1935, ch. 531, title XXI, §2112, as added Pub. L. 111–3, title I, §111(a), Feb. 4, 2009, 123 Stat. 26; amended Pub. L. 116–127, div. F, §6004(b)(2), Mar. 18, 2020, 134 Stat. 206.)
+(Aug. 14, 1935, ch. 531, title XXI, §2112, as added Pub. L. 111–3, title I, §111(a), Feb. 4, 2009, 123 Stat. 26; amended Pub. L. 116–127, div. F, §6004(b)(2), Mar. 18, 2020, 134 Stat. 206; Pub. L. 117–2, title IX, §9822(a)(2), Mar. 11, 2021, 135 Stat. 221.)
 
 #### Amendments ####
+
+**2021**—Subsec. (d)(2)(A). Pub. L. 117–2 inserted ", or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg (e)(1) of this title, the 12-month period," after "60-day period".
 
 **2020**—Subsec. (b)(4). Pub. L. 116–127 inserted "under section 1397cc(c) of this title" after "same requirements".
 

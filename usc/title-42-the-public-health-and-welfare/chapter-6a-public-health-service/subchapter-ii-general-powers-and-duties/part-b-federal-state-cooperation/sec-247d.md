@@ -242,6 +242,86 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 Pub. L. 107–188, title I, §144(b), June 12, 2002, 116 Stat. 630, provided that: "The amendment made by subsection (a) [amending this section] applies to any public health emergency under section 319(a) of the Public Health Service Act [42 U.S.C. 247d(a)], including any such emergency that was in effect as of the day before the date of the enactment of this Act [June 12, 2002]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment."
 
+#### Funding for Covid–19 Vaccine Activities at the Centers for Disease Control and Prevention ####
+
+Pub. L. 117–2, title II, §2301, Mar. 11, 2021, 135 Stat. 37, provided that:
+
+"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle D (§§2301–2305) of title II of Pub. L. 117–2, see Tables for classification] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,500,000,000, to remain available until expended, to carry out activities to plan, prepare for, promote, distribute, administer, monitor, and track COVID–19 vaccines.
+
+"(b) Use of Funds.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, and in consultation with other agencies, as applicable, shall, in conducting activities referred to in subsection (a)—
+
+"(1) conduct activities to enhance, expand, and improve nationwide COVID–19 vaccine distribution and administration, including activities related to distribution of ancillary medical products and supplies related to vaccines; and
+
+"(2) provide technical assistance, guidance, and support to, and award grants or cooperative agreements to, State, local, Tribal, and territorial public health departments for enhancement of COVID–19 vaccine distribution and administration capabilities, including—
+
+"(A) the distribution and administration of vaccines licensed under section 351 of the Public Health Service Act (42 U.S.C. 262) or authorized under section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–3) and ancillary medical products and supplies related to vaccines;
+
+"(B) the establishment and expansion, including staffing support, of community vaccination centers, particularly in underserved areas;
+
+"(C) the deployment of mobile vaccination units, particularly in underserved areas;
+
+"(D) information technology, standards-based data, and reporting enhancements, including improvements necessary to support standards-based sharing of data related to vaccine distribution and vaccinations and systems that enhance vaccine safety, effectiveness, and uptake, particularly among underserved populations;
+
+"(E) facilities enhancements;
+
+"(F) communication with the public regarding when, where, and how to receive COVID–19 vaccines; and
+
+"(G) transportation of individuals to facilitate vaccinations, including at community vaccination centers and mobile vaccination units, particularly for underserved populations.
+
+"(c) Supplemental Funding for State Vaccination Grants.—
+
+"(1) Definitions.—In this subsection:
+
+"(A) Base formula.—The term 'base formula' means the allocation formula that applied to the Public Health Emergency Preparedness cooperative agreement in fiscal year 2020.
+
+"(B) Alternative allocation.—The term 'alternative allocation' means an allocation to each State, territory, or locality calculated using the percentage derived from the allocation received by such State, territory, or locality of the aggregate amount of fiscal year 2020 Public Health Emergency Preparedness cooperative agreement awards under section 319C–1 of the Public Health Service Act (42 U.S.C. 247d–3a).
+
+"(2) Supplemental funding.—
+
+"(A) In general.—Not later than 21 days after the date of enactment of this Act [Mar. 11, 2021], the Secretary shall, out of amounts described in subsection (a), provide supplemental funding to any State, locality, or territory that received less of the amounts that were appropriated under title III of division M of Public Law 116–260 [see Tables for classification] for vaccination grants to be issued by the Centers for Disease Control and Prevention than such State, locality, or territory would have received had such amounts been allocated using the alternative allocation.
+
+"(B) Amount.—The amount of supplemental funding provided under this subsection shall be equal to the difference between—
+
+"(i) the amount the State, locality, or territory received, or would receive, under the base formula; and
+
+"(ii) the amount the State, locality, or territory would receive under the alternative allocation."
+
+#### Funding for COVID–19 Testing, Contact Tracing, and Mitigation Activities ####
+
+Pub. L. 117–2, title II, §2401, Mar. 11, 2021, 135 Stat. 40, provided that:
+
+"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle E (§§2401–2404) of title II of Pub. L. 117–2, see Tables for classification] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $47,800,000,000, to remain available until expended, to carry out activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies to mitigate the spread of COVID–19.
+
+"(b) Use of Funds.—From amounts appropriated by subsection (a), the Secretary shall—
+
+"(1) implement a national, evidence-based strategy for testing, contact tracing, surveillance, and mitigation with respect to SARS–CoV–2 and COVID–19, including through activities authorized under section 319(a) of the Public Health Service Act [42 U.S.C. 247d(a)];
+
+"(2) provide technical assistance, guidance, and support, and award grants or cooperative agreements to State, local, and territorial public health departments for activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies and activities to mitigate the spread of COVID–19;
+
+"(3) support the development, manufacturing, procurement, distribution, and administration of tests to detect or diagnose SARS–CoV–2 and COVID–19, including through—
+
+"(A) support for the development, manufacture, procurement, and distribution of supplies necessary for administering tests, such as personal protective equipment; and
+
+"(B) support for the acquisition, construction, alteration, or renovation of non-federally owned facilities for the production of diagnostics and ancillary medical products and supplies where the Secretary determines that such an investment is necessary to ensure the production of sufficient amounts of such supplies;
+
+"(4) establish and expand Federal, State, local, and territorial testing and contact tracing capabilities, including—
+
+"(A) through investments in laboratory capacity, such as—
+
+"(i) academic and research laboratories, or other laboratories that could be used for processing of COVID–19 testing;
+
+"(ii) community-based testing sites and community-based organizations; or
+
+"(iii) mobile health units, particularly in medically underserved areas; and
+
+"(B) with respect to quarantine and isolation of contacts;
+
+"(5) enhance information technology, data modernization, and reporting, including improvements necessary to support sharing of data related to public health capabilities;
+
+"(6) award grants to, or enter into cooperative agreements or contracts with, State, local, and territorial public health departments to establish, expand, and sustain a public health workforce; and
+
+"(7) to cover administrative and program support costs necessary to conduct activities related to subparagraph (a)."
+
 #### Importance of the Blood Supply ####
 
 Pub. L. 116–136, div. A, title III, §3226, Mar. 27, 2020, 134 Stat. 383, provided that:

@@ -730,7 +730,7 @@ For fiscal year 2012, the allotment of the State is equal to the sum of—
 
 #### (B) Fiscal year 2013 and each succeeding fiscal year ####
 
-Subject to paragraphs (5) and (7), from the amount made available under paragraphs (16) through (27) of subsection (a) for fiscal year 2013 and each succeeding fiscal year, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
+Subject to paragraphs (5), (7), and (12), from the amount made available under paragraphs (16) through (27) of subsection (a) for fiscal year 2013 and each succeeding fiscal year, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
 
 #### (i) Rebasing in fiscal year 2013 and each succeeding odd-numbered fiscal year ####
 
@@ -928,6 +928,18 @@ The first half ratio described in this subparagraph is the ratio of—
 
 (II) the amount made available under subsection (a)(28)(B).
 
+#### (12) Adjusting allotments to account for increased Federal payments for coverage and administration of COVID–19 vaccines ####
+
+If a State, commonwealth, or territory receives payment for a fiscal year (beginning with fiscal year 2021) under subsection (a) of section 1397ee of this title for expenditures that are subject to the enhanced FMAP specified under subsection (c)(12) of such section, the amount of the allotment determined for the State, commonwealth, or territory under this subsection—
+
+(A) for such fiscal year shall be increased by the projected expenditures for such year by the State, commonwealth, or territory under the State child health plan (or a waiver of such plan) for vaccines described in section 1396d(a)(4)(E) of this title (and the administration of such vaccines); and
+
+(B) once actual expenditures are available in the subsequent fiscal year, the fiscal year allotment that was adjusted by the amount described in subparagraph (A) shall be adjusted on the basis of the difference between—
+
+(i) such projected amount of expenditures described in subparagraph (A) for such fiscal year described in such subparagraph by the State, commonwealth, or territory; and
+
+(ii) the actual amount of expenditures for such fiscal year described in subparagraph (A) by the State, commonwealth, or territory under the State child health plan (or waiver of such plan) for vaccines described in section 1396d(a)(4)(E) of this title (and the administration of such vaccines).
+
 #### (n) Child Enrollment Contingency Fund ####
 
 #### (1) Establishment ####
@@ -998,7 +1010,7 @@ For purposes of this paragraph and subsection (f), the State shall submit to the
 
 No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth's or territory's eligibility for, and amount of payment, under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158; Pub. L. 115–90, div. B, §201, Dec. 8, 2017, 131 Stat. 1280; Pub. L. 115–96, div. C, title II, §3201(a)–(b)(2), (c)(1), Dec. 22, 2017, 131 Stat. 2050, 2051; Pub. L. 115–120, div. C, §3002(a)(1), (b)(1), (c), (d)(2), Jan. 22, 2018, 132 Stat. 31–34; Pub. L. 115–123, div. E, title I, §50101(a), (b)(1), (c), Feb. 9, 2018, 132 Stat. 172, 174.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158; Pub. L. 115–90, div. B, §201, Dec. 8, 2017, 131 Stat. 1280; Pub. L. 115–96, div. C, title II, §3201(a)–(b)(2), (c)(1), Dec. 22, 2017, 131 Stat. 2050, 2051; Pub. L. 115–120, div. C, §3002(a)(1), (b)(1), (c), (d)(2), Jan. 22, 2018, 132 Stat. 31–34; Pub. L. 115–123, div. E, title I, §50101(a), (b)(1), (c), Feb. 9, 2018, 132 Stat. 172, 174; Pub. L. 117–2, title IX, §9821(c), Mar. 11, 2021, 135 Stat. 220.)
 
 #### References in Text ####
 
@@ -1013,6 +1025,10 @@ Section 3002(b)(2) of the HEALTHY KIDS Act, referred to in subsec. (m)(10)(A), (
 Section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (m)(11)(A), (D)(i)(II), probably means section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Services (ACCESS) Act, Pub. L. 115–123, div. E, title I, Feb. 9, 2018, 132 Stat. 173, which relates to a one-time appropriation for fiscal year 2027 and is not classified to the Code.
 
 #### Amendments ####
+
+**2021**—Subsec. (m)(2)(B). Pub. L. 117–2, §9821(c)(1), substituted "paragraphs (5), (7), and (12)" for "paragraphs (5) and (7)".
+
+Subsec. (m)(12). Pub. L. 117–2, §9821(c)(2), added par. (12).
 
 **2018**—Subsec. (a)(21) to (26). Pub. L. 115–120, §3002(a)(1), added pars. (21) to (26) and struck out former par. (21) which related to semi-annual allotment for fiscal year 2018 ending on March 31, 2018.
 

@@ -124,14 +124,4 @@ Pub. L. 103–66, title I, §1201(b), Aug. 10, 1993, 107 Stat. 330, provided tha
 
 #### Pilot Program for Funds To Refinance Debt ####
 
-Pub. L. 115–31, div. A, title VII, §749, May 5, 2017, 131 Stat. 177, provided that:
-
-"(a) Subject to subsection (b), the Secretary of Agriculture may conduct a pilot program in accordance with this section that authorizes not more than $600,000,000 in funds from rural electrification loans made by the Federal Financing Bank that are guaranteed under section 306 of the Rural Electrification Act of 1936 [7 U.S.C. 936] to be used for refinancing debt pursuant to section 306C of such Act [7 U.S.C. 936c] (including any associated prepayment penalties and prepayment or refinance premium), notwithstanding subsections (b) and (c)(4) of section 306C of such Act.
-
-"(b) The Secretary of Agriculture may not provide an authorization under subsection (a) to a borrower unless the Secretary determines that the refinancing involved will benefit the ratepayers of the borrower.
-
-"(c) The Federal Financing Bank shall make a new loan to each borrower refinancing a loan pursuant to this section and section 306 of the Rural Electrification Act of 1936 [7 U.S.C. 936], for the purpose of providing funds for the refinancing, which loan shall be obligated from amounts made available for rural electrification loans, and the Secretary of Agriculture shall guarantee the new loan pursuant to section 306 of the Rural Electrification Act of 1936.
-
-"(d) For the cost of refinancing a loan pursuant to this section for any borrower identified by the Federal Financing Bank as having opted since origination of the loan to pay an interest rate premium for the eligibility to prepay at par, including a borrower paying an interest rate premium in the near-term for the right to prepay at par starting in 2020, $13,800,000, to remain available until expended: *Provided*, That these funds shall also be available for refinancing a loan pursuant to any extension or expansion of this pilot program that is enacted subsequent to this Act [div. A of Pub. L. 115–31, enacted May 5, 2017] for those same borrowers.
-
-"(e) The authority for the pilot program provided by this section shall remain in effect through September 30, 2019."
+Pub. L. 115–31, div. A, title VII, §749, May 5, 2017, 131 Stat. 177, authorized the Secretary of Agriculture to conduct a pilot program that authorized not more than $600,000,000 in funds from rural electrification loans made by the Federal Financing Bank that were guaranteed under section 306 of the Rural Electrification Act of 1936 (7 U.S.C. 936) to be used for refinancing debt pursuant to this section, with the authority for the pilot program to remain in effect through Sept. 30, 2019.

@@ -624,6 +624,18 @@ shall continue in effect according to their terms until modified, terminated, su
 
 "With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) [42 U.S.C. 284(a)], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute's advisory council."
 
+#### Funding for Community-Based Funding for Local Behavioral Health Needs ####
+
+Pub. L. 117–2, title II, §2707, Mar. 11, 2021, 135 Stat. 47, provided that:
+
+"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $50,000,000, to remain available until expended, to carry out the purpose described in subsection (b).
+
+"(b) Use of Funds.—
+
+"(1) In general.—The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants to State, local, Tribal, and territorial governments, Tribal organizations, nonprofit community-based entities, and primary care and behavioral health organizations to address increased community behavioral health needs worsened by the COVID–19 public health emergency.
+
+"(2) Use of grant funds.—Grant funds awarded under this section to eligible entities shall be used for promoting care coordination among local entities; training the mental and behavioral health workforce, relevant stakeholders, and community members; expanding evidence-based integrated models of care; addressing surge capacity for mental and behavioral health needs; providing mental and behavioral health services to individuals with mental health needs (including co-occurring substance use disorders) as delivered by behavioral and mental health professionals utilizing telehealth services; and supporting, enhancing, or expanding mental and behavioral health preventive and crisis intervention services."
+
 #### Interdepartmental Substance Use Disorders Coordinating Committee ####
 
 Pub. L. 115–271, title VII, §7022, Oct. 24, 2018, 132 Stat. 4010, provided that:
