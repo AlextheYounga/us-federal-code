@@ -1,1 +1,0 @@
-### subpart 19—grants for capital expenses of providing equitable services for private school students ###

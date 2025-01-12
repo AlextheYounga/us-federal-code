@@ -222,13 +222,15 @@ For purposes of subparagraph (A)(iii), the term "sponsoring facility" includes a
 
 (vi) A program administered by the Indian Health Service or the Bureau of Indian Affairs or operated by an Indian tribe or a tribal organization.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290.)
+(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189.)
 
 #### References in Text ####
 
 Section 2701 of the Public Health Service Act, referred to in subsec. (c)(2), (6), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (c)(9)(B)(v). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
 **2010**—Subsec. (a)(23). Pub. L. 111–148, §2302(b), which directed insertion of "(concurrent, in the case of an individual who is a child, with care related to the treatment of the child's condition with respect to which a diagnosis of terminal illness has been made" after "hospice care", was executed by making the insertion after "Hospice care", to reflect the probable intent of Congress.
 
@@ -255,6 +257,10 @@ Subsec. (c)(9). Pub. L. 111–3, §505(b), added par. (9).
 Subsec. (b)(4). Pub. L. 105–100, §162(3)(B), substituted "March 31, 1997" for "June 1, 1997" and "1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State)" for "1396a(l)(2) of this title".
 
 Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to reference in original act which appears in text as reference to section 300gg–91 of this title.
+
+#### Effective Date of 2015 Amendment ####
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2010 Amendment ####
 

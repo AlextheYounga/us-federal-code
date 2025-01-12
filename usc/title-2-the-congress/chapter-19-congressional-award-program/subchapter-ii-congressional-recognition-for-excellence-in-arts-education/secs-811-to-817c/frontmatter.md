@@ -6,7 +6,7 @@ Sections were omitted pursuant to section 817b of this title which provided that
 
 Section 811, Pub. L. 96–114, title II, §202, as added Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2545, related to findings of Congress.
 
-Section 812, Pub. L. 96–114, title II, §203, as added Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2546, related to definitions of terms in subchapter.
+Section 812, Pub. L. 96–114, title II, §203, as added Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2546; amended Pub. L. 114–95, title IX, §9215(u), Dec. 10, 2015, 129 Stat. 2171, related to definitions of terms in subchapter.
 
 Section 813, Pub. L. 96–114, title II, §204, as added Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2546, related to the establishment of the Board.
 

@@ -24,8 +24,6 @@ Section 4061, Pub. L. 98–377, title VII, §711, Aug. 11, 1984, 98 Stat. 1301; 
 
 Section 4062, Pub. L. 98–377, title VII, §712, Aug. 11, 1984, 98 Stat. 1302, related to withholding.
 
-For similar provisions, see section 7201 et seq. of this title.
-
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of this title.

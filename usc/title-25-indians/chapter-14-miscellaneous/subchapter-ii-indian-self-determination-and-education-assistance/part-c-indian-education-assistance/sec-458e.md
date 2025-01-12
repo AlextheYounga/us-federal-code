@@ -1,15 +1,21 @@
 ### §458e. Supplemental assistance to funds provided to local educational agencies ###
 
-The assistance provided in this subchapter for the education of Indians in the public schools of any State is in addition and supplemental to assistance provided under title IX of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 7801 et seq.].
+The assistance provided in this subchapter for the education of Indians in the public schools of any State is in addition and supplemental to assistance provided under title VI of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 7401 et seq.].
 
-(Pub. L. 93–638, title II, §209, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 103–382, title III, §393(c), Oct. 20, 1994, 108 Stat. 4027.)
+(Pub. L. 93–638, title II, §209, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 103–382, title III, §393(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 114–95, title IX, §9215(rr), Dec. 10, 2015, 129 Stat. 2181.)
 
 #### References in Text ####
 
 This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title IX of the Act is classified generally to subchapter IX (§7801 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments ####
 
+**2015**—Pub. L. 114–95 substituted "assistance provided under title VI of the Elementary and Secondary Education Act of 1965." for "assistance provided under title IX of the Elementary and Secondary Education Act of 1965."
+
 **1994**—Pub. L. 103–382 substituted "title IX of the Elementary and Secondary Education Act of 1965" for "title IV of the Act of June 23, 1972 (86 Stat. 235)".
+
+#### Effective Date of 2015 Amendment ####
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.

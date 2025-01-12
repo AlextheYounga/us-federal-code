@@ -160,7 +160,7 @@ For purposes of this subsection:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-(July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, §3(a), Oct. 30, 2004, 118 Stat. 2203; Pub. L. 113–48, §2, Nov. 13, 2013, 127 Stat. 575.)
+(July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, §3(a), Oct. 30, 2004, 118 Stat. 2203; Pub. L. 113–48, §2, Nov. 13, 2013, 127 Stat. 575; Pub. L. 114–95, title IX, §9215(kkk)(2), Dec. 10, 2015, 129 Stat. 2187.)
 
 #### References in Text ####
 
@@ -174,11 +174,17 @@ A prior section 399L of act July 1, 1944, was renumbered section 399F and is cla
 
 #### Amendments ####
 
+**2015**—Subsec. (d)(3)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
 **2013**—Subsec. (d)(1)(F), (G). Pub. L. 113–48, §2(1), added subpars. (F) and (G).
 
 Subsec. (d)(3)(E). Pub. L. 113–48, §2(2), added subpar. (E).
 
 **2004**—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2015 Amendment ####
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2004 Amendment ####
 

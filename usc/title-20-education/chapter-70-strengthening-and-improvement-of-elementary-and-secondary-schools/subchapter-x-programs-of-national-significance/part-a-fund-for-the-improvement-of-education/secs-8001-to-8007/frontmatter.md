@@ -1,6 +1,6 @@
 ### §§8001 to 8007. Repealed. Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986 ###
 
-Section 8001, Pub. L. 89–10, title X, §10101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809; amended Pub. L. 104–134, title I, §101(d) [title VII, §703(b)(4)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to fund for the improvement of education. See section 7243 of this title.
+Section 8001, Pub. L. 89–10, title X, §10101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3809; amended Pub. L. 104–134, title I, §101(d) [title VII, §703(b)(4)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to fund for the improvement of education.
 
 Section 8002, Pub. L. 89–10, title X, §10102, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3812, related to elementary school counseling demonstration.
 

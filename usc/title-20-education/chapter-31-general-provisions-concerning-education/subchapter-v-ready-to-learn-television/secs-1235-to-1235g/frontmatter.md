@@ -16,8 +16,6 @@ Section 1235f, Pub. L. 90–247, title IV, §477, formerly Pub. L. 89–10, titl
 
 Section 1235g, Pub. L. 90–247, title IV, §478, formerly Pub. L. 89–10, title IV, §4708, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589; renumbered §478 of Pub. L. 90–247, Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, defined "distance learning" for purposes of this subchapter.
 
-See section 6775 of this title.
-
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.

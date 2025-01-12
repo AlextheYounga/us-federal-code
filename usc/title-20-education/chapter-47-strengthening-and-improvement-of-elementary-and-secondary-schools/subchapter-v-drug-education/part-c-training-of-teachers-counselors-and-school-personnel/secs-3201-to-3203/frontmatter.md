@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 7101 et seq. of this title.
+Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 Section 3201, Pub. L. 89–10, title V, §5128, as added Pub. L. 100–690, title III, §3308(a)(2), Nov. 18, 1988, 102 Stat. 4250; amended Pub. L. 101–226, §11(b), Dec. 12, 1989, 103 Stat. 1934; Pub. L. 101–647, title XV, §1506(a), Nov. 29, 1990, 104 Stat. 4840, authorized grants for teacher training programs.
 

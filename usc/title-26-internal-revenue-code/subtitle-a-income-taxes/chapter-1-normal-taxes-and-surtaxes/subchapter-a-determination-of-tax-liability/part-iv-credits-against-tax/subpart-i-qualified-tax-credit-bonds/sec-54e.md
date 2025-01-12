@@ -74,7 +74,7 @@ The term "qualified zone academy" means any public school (or academic program w
 
 #### (2) Eligible local education agency ####
 
-For purposes of this section, the term "eligible local education agency" means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
+For purposes of this section, the term "eligible local education agency" means any local educational agency as defined in section 8101 of the Elementary and Secondary Education Act of 1965.
 
 #### (3) Qualified purpose ####
 
@@ -102,7 +102,7 @@ The term "qualified contribution" means any contribution (of a type and quality 
 
 (E) any other property or service specified by the eligible local education agency.
 
-(Added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, §1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, §758(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §310(a), Jan. 2, 2013, 126 Stat. 2330; Pub. L. 113–295, div. A, title I, §120(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §164(a), Dec. 18, 2015, 129 Stat. 3066.)
+(Added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, §1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, §758(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §310(a), Jan. 2, 2013, 126 Stat. 2330; Pub. L. 113–295, div. A, title I, §120(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–95, title IX, §9215(uu)(1), Dec. 10, 2015, 129 Stat. 2183; Pub. L. 114–113, div. Q, title I, §164(a), Dec. 18, 2015, 129 Stat. 3066.)
 
 #### References in Text ####
 
@@ -110,11 +110,13 @@ The date of the enactment of this section, referred to in subsec. (d)(1)(D)(i), 
 
 The National School Lunch Act, referred to in subsec. (d)(1)(D)(ii), probably means the Richard B. Russell National School Lunch Act, act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is classified to section 7801 of Title 20, Education.
+Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is classified to section 7801 of Title 20, Education.
 
 #### Amendments ####
 
 **2015**—Subsec. (c)(1). Pub. L. 114–113 substituted "2014, 2015, and 2016" for "and 2014".
+
+Subsec. (d)(2). Pub. L. 114–95 substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965".
 
 **2014**—Subsec. (c)(1). Pub. L. 113–295 substituted "2013, and 2014" for "and 2013".
 
@@ -127,6 +129,8 @@ Section 9101 of the Elementary and Secondary Education Act of 1965, referred to 
 #### Effective Date of 2015 Amendment ####
 
 Pub. L. 114–113, div. Q, title I, §164(b), Dec. 18, 2015, 129 Stat. 3067, provided that: "The amendment made by this section [amending this section] shall apply to obligations issued after December 31, 2014."
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2014 Amendment ####
 

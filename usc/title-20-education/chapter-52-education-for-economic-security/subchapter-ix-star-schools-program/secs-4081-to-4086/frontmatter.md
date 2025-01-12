@@ -20,8 +20,6 @@ Section 4085d, Pub. L. 98–377, title IX, §910, as added Pub. L. 102–103, ti
 
 Section 4086, Pub. L. 98–377, title IX, §911, formerly §907, as added Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 324; amended Pub. L. 102–73, title VIII, §802(c), July 25, 1991, 105 Stat. 361; renumbered §911, Pub. L. 102–103, title III, §305(1), Aug. 17, 1991, 105 Stat. 502, defined terms used in this subchapter.
 
-For similar provisions, see section 6891 et seq. of this title.
-
 #### Short Title ####
 
 Section 901 of title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, provided that title IX of Pub. L. 98–377 [enacting this subchapter] could be cited as the "Star Schools Program Assistance Act", prior to repeal by Pub. L. 103–382, title III, §364, Oct. 20, 1994, 108 Stat. 3975.

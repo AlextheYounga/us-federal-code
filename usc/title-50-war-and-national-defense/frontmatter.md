@@ -609,25 +609,25 @@ Chap. Sec.
 |                                    6a (Dec. 22, 1944, ch. 660, title I, 58 Stat. 855)                                    |                                 Omitted                                 |
 |                                 6a note (Dec. 22, 1944, ch. 660, title I, 58 Stat. 855)                                  |                                 Omitted                                 |
 |                                6b (Pub. L. 90–470, title II, Aug. 9, 1968, 82 Stat. 673)                                 |                                 Omitted                                 |
-|                                 6b note (July 20, 1949, ch. 354, title II, 63 Stat. 461)                                 |                                 Omitted                                 |
-|                            6b note (Sept. 6, 1950, ch. 896, Ch. III, title II, 64 Stat. 619)                             |                                 Omitted                                 |
-|                                 6b note (Oct. 22, 1951, ch. 533, title II, 65 Stat. 585)                                 |                                 Omitted                                 |
-|                                 6b note (July 10, 1952, ch. 651, title II, 66 Stat. 559)                                 |                                 Omitted                                 |
-|                                 6b note (Aug. 5, 1953, ch. 328, title II, 67 Stat. 375)                                  |                                 Omitted                                 |
-|                                 6b note (July 2, 1954, ch. 456, title II, 68 Stat. 421)                                  |                                 Omitted                                 |
-|                                 6b note (July 7, 1955, ch. 279, title II, 69 Stat. 273)                                  |                                 Omitted                                 |
-|                                 6b note (June 20, 1956, ch. 414, title II, 70 Stat. 308)                                 |                                 Omitted                                 |
-|                              6b note (Pub. L. 85–49, title II, June 11, 1957, 71 Stat. 63)                               |                                 Omitted                                 |
-|                             6b note (Pub. L. 85–474, title II, June 30, 1958, 72 Stat. 252)                              |                                 Omitted                                 |
-|                              6b note (Pub. L. 86–84, title II, July 13, 1959, 73 Stat. 189)                              |                                 Omitted                                 |
-|                             6b note (Pub. L. 86–678, title II, Aug. 31, 1960, 74 Stat. 564)                              |                                 Omitted                                 |
-|                             6b note (Pub. L. 87–264, title II, Sept. 21, 1961, 75 Stat. 550)                             |                                 Omitted                                 |
-|                             6b note (Pub. L. 87–843, title II, Oct. 18, 1962, 76 Stat. 1085)                             |                                 Omitted                                 |
-|                             6b note (Pub. L. 88–245, title II, Dec. 30, 1963, 77 Stat. 781)                              |                                 Omitted                                 |
-|                             6b note (Pub. L. 88–527, title II, Aug. 31, 1964, 78 Stat. 716)                              |                                 Omitted                                 |
-|                             6b note (Pub. L. 89–164, title II, Sept. 2, 1965, 79 Stat. 625)                              |                                 Omitted                                 |
-|                             6b note (Pub. L. 89–797, title II, Nov. 8, 1966, 80 Stat. 1484)                              |                                 Omitted                                 |
-|                              6b note (Pub. L. 90–133, title II, Nov. 8, 1967, 81 Stat. 416)                              |                                 Omitted                                 |
+|                                   6b (July 20, 1949, ch. 354, title II, 63 Stat. 461)                                    |                                 Omitted                                 |
+|                               6b (Sept. 6, 1950, ch. 896, Ch. III, title II, 64 Stat. 619)                               |                                 Omitted                                 |
+|                                   6b (Oct. 22, 1951, ch. 533, title II, 65 Stat. 585)                                    |                                 Omitted                                 |
+|                                   6b (July 10, 1952, ch. 651, title II, 66 Stat. 559)                                    |                                 Omitted                                 |
+|                                    6b (Aug. 5, 1953, ch. 328, title II, 67 Stat. 375)                                    |                                 Omitted                                 |
+|                                    6b (July 2, 1954, ch. 456, title II, 68 Stat. 421)                                    |                                 Omitted                                 |
+|                                    6b (July 7, 1955, ch. 279, title II, 69 Stat. 273)                                    |                                 Omitted                                 |
+|                                   6b (June 20, 1956, ch. 414, title II, 70 Stat. 308)                                    |                                 Omitted                                 |
+|                                 6b (Pub. L. 85–49, title II, June 11, 1957, 71 Stat. 63)                                 |                                 Omitted                                 |
+|                                6b (Pub. L. 85–474, title II, June 30, 1958, 72 Stat. 252)                                |                                 Omitted                                 |
+|                                6b (Pub. L. 86–84, title II, July 13, 1959, 73 Stat. 189)                                 |                                 Omitted                                 |
+|                                6b (Pub. L. 86–678, title II, Aug. 31, 1960, 74 Stat. 564)                                |                                 Omitted                                 |
+|                               6b (Pub. L. 87–264, title II, Sept. 21, 1961, 75 Stat. 550)                                |                                 Omitted                                 |
+|                               6b (Pub. L. 87–843, title II, Oct. 18, 1962, 76 Stat. 1085)                                |                                 Omitted                                 |
+|                                6b (Pub. L. 88–245, title II, Dec. 30, 1963, 77 Stat. 781)                                |                                 Omitted                                 |
+|                                6b (Pub. L. 88–527, title II, Aug. 31, 1964, 78 Stat. 716)                                |                                 Omitted                                 |
+|                                6b (Pub. L. 89–164, title II, Sept. 2, 1965, 79 Stat. 625)                                |                                 Omitted                                 |
+|                                6b (Pub. L. 89–797, title II, Nov. 8, 1966, 80 Stat. 1484)                                |                                 Omitted                                 |
+|                                6b (Pub. L. 90–133, title II, Nov. 8, 1967, 81 Stat. 416)                                 |                                 Omitted                                 |
 |                                                            7                                                             |                             50 U.S.C. 4307                              |
 |                                                            8                                                             |                             50 U.S.C. 4308                              |
 |                                                            9                                                             |                             50 U.S.C. 4309                              |
@@ -950,7 +950,7 @@ Chap. Sec.
 |                                 2007 (July 3, 1948, ch. 826, title I, §8, 62 Stat. 1245)                                 |                                 Omitted                                 |
 |                                                           2008                                                           |                             50 U.S.C. 4107                              |
 |                         2008 note (Aug. 31, 1954, ch. 1162, title II, §§201–203, 68 Stat. 1037)                          |                                 Omitted                                 |
-|                              2008 note (Pub. L. 89–348, §2(6), Nov. 8, 1965, 79 Stat. 1312)                              |                                 Omitted                                 |
+|                              2008 note (Pub. L. 89–348, §2(6), Nov. 8, 1965, 79 Stat. 1312)                              |                           50 U.S.C. 4107 note                           |
 |                                                           2009                                                           |                             50 U.S.C. 4108                              |
 |                                                           2010                                                           |                             50 U.S.C. 4109                              |
 |                                2011 (July 3, 1948, ch. 826, title I, §12, 62 Stat. 1246)                                 |                                 Omitted                                 |
@@ -1115,7 +1115,7 @@ Chap. Sec.
 |                            2172 note (Pub. L. 108–195, §7(a), Dec. 19, 2003, 117 Stat. 2894)                             |                           50 U.S.C. 4568 note                           |
 |                               2172 note (Ex. Ord. No. 13177, Dec. 4, 2000, 65 F.R. 76558)                                |                           50 U.S.C. 4568 note                           |
 |                                                           2181                                                           |                           50 U.S.C. 4502 note                           |
-|                                   2181 note (Aug. 7, 1953, ch. 339, §1, 67 Stat. 417)                                    |                           50 U.S.C. 4502 note                           |
+|                                  2181 note (Aug. 7, 1953, ch. 339, [§1,] 67 Stat. 417)                                   |                           50 U.S.C. 4502 note                           |
 |                                                           2182                                                           |                           50 U.S.C. 4502 note                           |
 |                                                           2183                                                           |                           50 U.S.C. 4502 note                           |
 |                                                           2285                                                           |                              6 U.S.C. 765                               |

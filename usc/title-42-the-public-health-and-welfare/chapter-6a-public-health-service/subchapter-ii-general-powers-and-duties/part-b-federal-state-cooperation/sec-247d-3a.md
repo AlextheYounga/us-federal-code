@@ -30,7 +30,7 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 (vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders in public health emergency preparedness and response;
 
-(vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801(41) of title 20) and State child care lead agencies (designated under section 9858b of this title);
+(vii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801 of title 20) and State child care lead agencies (designated under section 9858b of this title);
 
 (viii) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section; and
 
@@ -294,13 +294,15 @@ The Secretary may, after notice and opportunity for a hearing, withhold payment 
 
 The Secretary shall compile the data submitted under this section and make such data available in a timely manner on an appropriate Internet website in a format that is useful to the public and to other entities and that provides information on what activities are best contributing to the achievement of the outcome goals described in subsection (g).
 
-(July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179.)
+(July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179; Pub. L. 114–95, title IX, §9215(kkk)(1), Dec. 10, 2015, 129 Stat. 2187.)
 
 #### Codification ####
 
 December 19, 2006, referred to in subsec. (g)(2)(B), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–417, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments ####
+
+**2015**—Subsec. (b)(2)(A)(vii). Pub. L. 114–95 substituted "including State educational agencies (as defined in section 7801 of title 20)" for "including State educational agencies (as defined in section 7801(41) of title 20)".
 
 **2013**—Subsec. (b)(1)(B). Pub. L. 113–5, §202(c)(1), substituted "subsection (h)(4)" for "subsection (i)(4)".
 
@@ -367,6 +369,10 @@ Subsec. (j). Pub. L. 109–417, §201(5), added subsec. (j).
 Pub. L. 109–417, §201(3), redesignated subsec. (j) as (i).
 
 Subsec. (k). Pub. L. 109–417, §201(5), added subsec. (k).
+
+#### Effective Date of 2015 Amendment ####
+
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
 #### Emergency Medical and Public Health Communications Pilot Projects ####
 

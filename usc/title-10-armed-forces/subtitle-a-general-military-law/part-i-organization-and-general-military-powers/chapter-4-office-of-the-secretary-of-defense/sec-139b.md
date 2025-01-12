@@ -232,8 +232,8 @@ Pub. L. 113–291, div. A, title II, §221(b), Dec. 19, 2014, 128 Stat. 3330, pr
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
-[<sup>2</sup> So in original. The "; and" probably should be a period.](#139b_2)
-
 [<sup>1</sup> So in original. Probably should be capitalized.](#139b_1)
+
+[<sup>2</sup> So in original. The "; and" probably should be a period.](#139b_2)
 
 [<sup>3</sup> See References in Text note below.](#139b_3)

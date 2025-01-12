@@ -1,1 +1,0 @@
-### subpart 15—arts in education ###

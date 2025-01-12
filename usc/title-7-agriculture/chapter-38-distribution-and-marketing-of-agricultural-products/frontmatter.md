@@ -68,7 +68,7 @@ Sec.
 
 1635j. Mandatory reporting for swine.
 
-§1635k. Mandatory reporting of wholesale pork cuts.
+1635k. Mandatory reporting of wholesale pork cuts.
 
 #### Part D—Lamb Reporting ####
 

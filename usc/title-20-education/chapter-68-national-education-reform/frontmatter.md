@@ -32,7 +32,7 @@ Sec.
 
 5891a. Definitions.
 
-5891b. Education flexibility partnership.
+5891b. Educational flexibility program.
 
 5892 to 5900. Repealed.
 

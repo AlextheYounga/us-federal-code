@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Part G of title IV of the Elementary and Secondary Education Act of 1965, comprising this part, was renumbered part F of title IV of the General Education Provisions Act, by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, transferred to subchapter VI (§1235 et seq.) of chapter 31 of this title, and subsequently repealed by Pub. L. 107–110, title X, §1011(3), Jan. 8, 2002, 115 Stat. 1986. See section 6775 of this title.
+Part G of title IV of the Elementary and Secondary Education Act of 1965, comprising this part, was renumbered part F of title IV of the General Education Provisions Act, by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, transferred to subchapter VI (§1235 et seq.) of chapter 31 of this title, and subsequently repealed by Pub. L. 107–110, title X, §1011(3), Jan. 8, 2002, 115 Stat. 1986.
 
 Section 3161, Pub. L. 89–10, title IV, §4701, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3586, which authorized Secretary to make contracts, cooperative agreements, or grants to develop, produce, and distribute educational and instructional video programming for preschool and elementary school children, was renumbered section 471 of the General Education Provisions Act by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, transferred to section 1235 of this title, and subsequently repealed.
 

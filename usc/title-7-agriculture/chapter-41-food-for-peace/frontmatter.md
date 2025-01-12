@@ -120,7 +120,7 @@ Sec.
 
 1736 o. Food for progress.
 
-§1736o–1. McGovern-Dole International Food for Education and Child Nutrition Program.
+1736o–1. McGovern-Dole International Food for Education and Child Nutrition Program.
 
 1736p. Trade policy declaration.
 

@@ -188,7 +188,9 @@ Sec.
 
 2657. Annual report and certification on status of security of atomic energy defense facilities.
 
-2658, 2659. Repealed. 2660.
+2658, 2659. Repealed.
+
+2660. Design and use of prototypes of nuclear weapons for intelligence purposes.
 
 #### Part B—Classified Information ####
 
