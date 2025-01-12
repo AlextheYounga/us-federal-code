@@ -6,6 +6,8 @@ Section 1852, act July 26, 1954, ch. 576, §3, as added Aug. 21, 1974, Pub. L. 9
 
 Section 1853, act July 26, 1954, ch. 576, §4, as added Aug. 21, 1974, Pub. L. 93–380, title IV, §402(a)(1), 88 Stat. 545; amended Oct. 12, 1976, Pub. L. 94–482, title IV, §409(c), 90 Stat. 2233; S. Res. 4, Feb. 4, 1977, authorized appropriations for section 1852 contracts and development of plans for succeeding year.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 95–561, title III, §301(b)(2), Nov. 1, 1978, 92 Stat. 2228, provided that the repeal is effective Sept. 30, 1979.

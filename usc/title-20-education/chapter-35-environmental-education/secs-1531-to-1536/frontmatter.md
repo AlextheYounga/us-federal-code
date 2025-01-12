@@ -1,5 +1,7 @@
 ### §§1531 to 1536. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1531, Pub. L. 91–516, §2, Oct. 30, 1970, 84 Stat. 1312; Pub. L. 93–278, §4, May 10, 1974, 88 Stat. 121, set forth Congressional declaration of findings and purpose of Environmental Education Act.

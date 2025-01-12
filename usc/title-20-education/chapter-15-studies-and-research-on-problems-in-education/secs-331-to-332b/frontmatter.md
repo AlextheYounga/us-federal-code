@@ -1,5 +1,7 @@
 ### §§331 to 332b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections constituted the Cooperative Research Act and terminated on and after July 1, 1975, under provisions of section 402(c)(1) of Pub. L. 93–380. See provisions of Special Projects Act, section 1851 et seq. of this title.

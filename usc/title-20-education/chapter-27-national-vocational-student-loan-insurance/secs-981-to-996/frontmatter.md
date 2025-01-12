@@ -34,6 +34,8 @@ Section 995, Pub. L. 89–287, §16, Oct. 22, 1965, 79 Stat. 1048, authorized Fe
 
 Section 996, Pub. L. 89–287, §17, Oct. 22, 1965, 79 Stat. 1048, defined "eligible institution", "eligible lender", "line of credit", "State", "Secretary", and "Commissioner".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to loans made on or after the 60th day after Oct. 16, 1968, see section 116(e) of Pub. L. 90–575.

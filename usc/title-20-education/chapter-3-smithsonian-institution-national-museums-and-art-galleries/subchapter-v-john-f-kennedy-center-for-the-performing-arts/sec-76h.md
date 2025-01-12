@@ -58,6 +58,8 @@ There shall be an Advisory Committee on the Arts composed of such members as the
 
 (Pub. L. 85–874, §2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, §2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410; Pub. L. 107–117, div. D, title II, §201(a), Jan. 10, 2002, 115 Stat. 2353; Pub. L. 110–338, §2, Oct. 3, 2008, 122 Stat. 3731.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (a)(2)(J)(ii). Pub. L. 110–338 substituted "Transportation and Infrastructure" for "Public Works and Transportation".
@@ -77,6 +79,8 @@ Subsec. (c). Pub. L. 103–279, §2(d), inserted heading, inserted "of the Unite
 **1963**—Subsec. (a). Pub. L. 88–100, §1, substituted "thirty" for "fifteen" after "ex officio; and".
 
 Subsec. (b). Pub. L. 88–100, §2, inserted provisions governing the terms of the additional fifteen general trustees added to the Board by section 1 of Pub. L. 88–100.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1994 Amendment ####
 

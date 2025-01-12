@@ -1,5 +1,7 @@
 ### §§1801 to 1806. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general revision of the Elementary and Secondary Education Act of 1965, titles I to IX of Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, by Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143.

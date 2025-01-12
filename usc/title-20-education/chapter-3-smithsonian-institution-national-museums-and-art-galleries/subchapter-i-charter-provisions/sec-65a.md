@@ -22,6 +22,8 @@ There are hereby authorized to be appropriated to the Smithsonian Institution fo
 
 (Pub. L. 89–674, §2, Oct. 15, 1966, 80 Stat. 953; Pub. L. 91–629, §§1, 2 Dec. 31, 1970, 84 Stat. 1875; Pub. L. 93–345, §§1, 2, July 12, 1974, 88 Stat. 339; Pub. L. 94–336, July 1, 1976, 90 Stat. 795; Pub. L. 96–268, June 13, 1980, 94 Stat. 485.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Subsec. (b). Pub. L. 96–268 substituted provisions authorizing appropriations of $803,000 for fiscal year 1981 and $1,000,000 for fiscal year 1982 for provisions which had authorized appropriations of $1,000,000 each year for fiscal years 1978, 1979, and 1980.
@@ -35,6 +37,8 @@ Subsec. (b). Pub. L. 93–345, §2, substituted provisions limiting to $1,000,00
 **1970**—Subsec. (a)(2). Pub. L. 91–629, §2, inserted provisions that programs be prepared and carried out by grant, contract, or directly and which authorized the training of career employees in museum practices in cooperation with institutions of higher education, and substituted provisions which authorized training programs to be conducted either at the Smithsonian Institution, or at the cooperating museum, organization, or institutions, for provisions which authorized such programs to be conducted at the best locations.
 
 Subsec. (b). Pub. L. 91–629, §1, substituted provisions which authorized to be appropriated such sums as necessary to carry out the purposes of this section, with no more than $1,000,000 to be appropriated annually through fiscal year 1974, of which $300,000, annually, to be allocated in the enumerated manner, for provisions which authorized to be appropriated to carry out this section, not to exceed $200,000 for the fiscal year ending June 30, 1968, $250,000 for the fiscal years ending June 30, 1969, and June 30, 1970, and $300,000 for the fiscal year ending June 30, 1971, and in each subsequent fiscal year, only such sums as the Congress hereafter authorizes by law.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Reporting Requirements ####
 

@@ -1,5 +1,7 @@
 ### §§880b–2 to 880b–5. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 880b–2 to 880b–5, were to remain in effect through June 30, 1975. See section 105(a)(2)(A) of Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 512.

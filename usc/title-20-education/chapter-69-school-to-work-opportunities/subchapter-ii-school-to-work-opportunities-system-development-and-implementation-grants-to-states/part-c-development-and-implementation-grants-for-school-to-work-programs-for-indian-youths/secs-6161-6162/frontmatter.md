@@ -1,5 +1,7 @@
 ### §§6161, 6162. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 6161 and 6162 were omitted pursuant to section 6251 of this title which provided that the authority under this chapter terminated on Oct. 1, 2001.

@@ -1,5 +1,7 @@
 ### §§883 to 885. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 883, Pub. L. 89–10, title VIII, §803, formerly title VI, §603, Apr. 11, 1965, 79 Stat. 57; renumbered title VII, §703, and amended Pub. L. 89–750, title I, §§111(f), 161, Nov. 3, 1966, 80 Stat. 1196, 1204; renumbered title VIII, §803, Pub. L. 90–247, title VII, §702, Jan. 2, 1968, 81 Stat. 816; amended Pub. L. 91–230, title I, §163, title IV, §401(c)(2), Apr. 13, 1970, 84 Stat. 152, 173, was comprised of subsecs. (a) to (c). Subsecs. (a) and (b) were repealed by Pub. L. 91–230, title IV, §401(c)(2), Apr. 13, 1970, 84 Stat. 173. Subsec. (c), which related to federal administration, was renumbered Pub. L. 89–10, title X, §1002 by Pub. L. 95–561, title VIII, §801(1), (2), Nov. 1, 1978, 92 Stat. 2284, and transferred to section 3382 of this title, and was subsequently omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.

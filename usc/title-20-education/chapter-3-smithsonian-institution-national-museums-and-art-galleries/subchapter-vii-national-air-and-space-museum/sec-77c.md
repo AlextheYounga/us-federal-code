@@ -10,6 +10,8 @@ The Smithsonian Institution shall include in its annual report of its operations
 
 (Aug. 12, 1946, ch. 955, §4, 60 Stat. 998; Pub. L. 89–509, pt. I, §§6, 7, July 19, 1966, 80 Stat. 310, 311.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Subsec. (a). Pub. L. 89–509, §6, raised from three to six the number of board members required to constitute a quorum.

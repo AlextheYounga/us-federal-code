@@ -8,6 +8,8 @@ Section 13, act Feb. 23, 1917, ch. 114, §3, 39 Stat. 930, appropriated money fo
 
 Section 14, acts Feb. 23, 1917, ch. 114, §4, 39 Stat. 931; June 25, 1959, Pub. L. 86–70, §18(b)(1), 73 Stat. 144; July 12, 1960, Pub. L. 86–624, §14(b)(2), 74 Stat. 414, appropriated money for preparation of teachers, supervisors, and directors of agricultural subjects and teachers of trade, industrial, and home economics.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act June 8, 1936, ch. 541, §2, 49 Stat. 1488, as amended by act Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 775, provided that the act of Feb. 23, 1917, ch. 114, 39 Stat. 929 (enacting sections 11 to 15 and 16 to 28 of this title), was to be known as the Smith-Hughes Vocational Education Act. The 1917 act was also known as the Vocational Education Act of 1917.

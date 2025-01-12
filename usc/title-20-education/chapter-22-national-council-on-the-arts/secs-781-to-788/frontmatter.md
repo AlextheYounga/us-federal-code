@@ -18,6 +18,8 @@ Section 787, Pub. L. 88–579, §8, Sept. 3, 1964, 78 Stat. 907, provided for co
 
 Section 788, Pub. L. 88–579, §9, Sept. 3, 1964, 78 Stat. 907, authorized appointment of and compensation for secretarial, clerical, and other staff and further authorized procurement by the Chairman of temporary and intermittent services.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1970, see section 5(d)(3)(B) of Pub. L. 91–346.

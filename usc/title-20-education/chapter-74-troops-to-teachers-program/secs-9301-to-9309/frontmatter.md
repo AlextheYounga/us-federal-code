@@ -18,6 +18,8 @@ Section 9308, Pub. L. 106–65, div. A, title XVII, §1708, Oct. 5, 1999, 113 St
 
 Section 9309, Pub. L. 106–65, div. A, title XVII, §1709, Oct. 5, 1999, 113 Stat. 824, related to funds for fiscal year 2000.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.

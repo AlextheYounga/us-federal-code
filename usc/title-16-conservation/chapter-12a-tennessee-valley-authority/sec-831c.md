@@ -68,10 +68,10 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-#### Delegation of Functions ####
-
-Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
-
 #### Release of Use Restrictions ####
 
 Pub. L. 113–121, title VI, §6005(h), June 10, 2014, 128 Stat. 1360, provided that: "Notwithstanding any other provision of law, the Tennessee Valley Authority shall, without monetary consideration, grant releases from real estate restrictions established pursuant to section 4(k)(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831c(k)(b)) with respect to tracts of land identified in section 4(k)(b) of that Act, subject to the condition that such releases shall be granted in a manner consistent with applicable Tennessee Valley Authority policies."
+
+#### Delegation of Functions ####
+
+Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.

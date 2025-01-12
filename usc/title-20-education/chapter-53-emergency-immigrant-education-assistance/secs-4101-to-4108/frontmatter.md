@@ -16,6 +16,8 @@ Section 4107, Pub. L. 98–511, title VI, §608, Oct. 19, 1984, 98 Stat. 2404, r
 
 Section 4108, Pub. L. 98–511, title VI, §609, Oct. 19, 1984, 98 Stat. 2405, related to payments.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of this title.

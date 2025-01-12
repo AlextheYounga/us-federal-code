@@ -1,5 +1,7 @@
 ### §§741 to 745. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 741, Pub. L. 88–204, title III, §301, Dec. 16, 1963, 77 Stat. 372, authorized the Commissioner to make loans for construction of academic facilities.

@@ -4,6 +4,8 @@ The Secretary of the Treasury is authorized and directed to receive into the Tre
 
 (Apr. 10, 1943, ch. 46, 57 Stat. 62; Pub. L. 94–418, Sept. 21, 1976, 90 Stat. 1278.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which comprises this subchapter.

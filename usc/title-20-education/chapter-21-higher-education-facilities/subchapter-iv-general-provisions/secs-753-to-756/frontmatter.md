@@ -1,5 +1,7 @@
 ### §§753 to 756. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 753, Pub. L. 88–204, title IV, §403, Dec. 16, 1963, 77 Stat. 378, related to labor standards on projects assisted by grant or loan.

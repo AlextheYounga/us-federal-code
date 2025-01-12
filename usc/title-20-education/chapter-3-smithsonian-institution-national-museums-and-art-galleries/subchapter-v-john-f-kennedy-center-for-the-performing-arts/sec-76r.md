@@ -42,6 +42,8 @@ No funds appropriated pursuant to this section may be used for any direct expens
 
 (Pub. L. 85–874, §13, formerly §12, as added Pub. L. 103–279, §7, July 21, 1994, 108 Stat. 1415; amended Pub. L. 105–226, §5, Aug. 12, 1998, 112 Stat. 1513; renumbered §13 and amended Pub. L. 107–224, §§2(1), 3, Sept. 18, 2002, 116 Stat. 1340, 1342; Pub. L. 108–410, §2, Oct. 30, 2004, 118 Stat. 2303; Pub. L. 109–306, §1, Oct. 6, 2006, 120 Stat. 1720; Pub. L. 110–338, §4, Oct. 3, 2008, 122 Stat. 3731; Pub. L. 112–131, §3, June 8, 2012, 126 Stat. 378; Pub. L. 114–113, div. G, title IV, §427, Dec. 18, 2015, 129 Stat. 2583; Pub. L. 115–31, div. G, title IV, §429, May 5, 2017, 131 Stat. 501; Pub. L. 115–141, div. G, title IV, §426, Mar. 23, 2018, 132 Stat. 693; Pub. L. 116–6, div. E, title IV, §425, Feb. 15, 2019, 133 Stat. 264; Pub. L. 116–94, div. D, title IV, §423, div. P, title VI, §602, Dec. 20, 2019, 133 Stat. 2748, 3194.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classified to section 76s of this title.

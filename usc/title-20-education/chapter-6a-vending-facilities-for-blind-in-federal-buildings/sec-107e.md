@@ -20,6 +20,8 @@ As used in this chapter—
 
 (June 20, 1936, ch. 638, §9, formerly §6, 49 Stat. 1560; Aug. 3, 1954, ch. 655, §4(f), 68 Stat. 664; renumbered §9 and amended Pub. L. 93–516, title II, §§206, 207, Dec. 7, 1974, 88 Stat. 1626, 1628; Pub. L. 93–651, title II, §§206, 207, Nov. 21, 1974, 89 Stat. 2–11, 2–13; Pub. L. 96–88, title III, §301(a)(4)(B), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The content of Pub. L. 93–516, including provisions of sections 206 and 207 thereof which amended and renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
@@ -31,6 +33,8 @@ Pursuant to an order of the United States District Court for the District of Col
 **1974**—Pub. L. 93–516, §207, replaced letter designations with number designations, inserted definitions of "Commissioner", "vending facility", and "vending machine income", and in definition of "blind person" substituted provisions that such person meant a person whose central visual acuity does not exceed 20/200 in the better eye with correcting lenses or whose visual acuity, if better than 20/200, is accompanied by a limit to the field of vision in the better eye to such a degree that its widest diameter subtends an angle of no greater than twenty degrees, and that in determining whether a person is blind, there shall be an examination by a physician skilled in diseases of the eye, or by an optometrist, whichever the individual shall select, for provisions that such person meant a person having not more than 10 per centum visual acuity in the better eye with correction and that such blindness shall be certified by a duly licensed ophthalmologist, in definition of "United States" inserted reference to Puerto Rico, in definition of "State" inserted reference to Puerto Rico, and in definition of "Federal property" inserted reference to Department of Defense and United States Postal Service. An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 **1954**—Subsecs. (d), (e). Act Aug. 3, 1954, added subsecs. (d) and (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1954 Amendment ####
 

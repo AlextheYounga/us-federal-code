@@ -538,6 +538,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 St
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to family contribution for dependent students.
@@ -611,6 +613,8 @@ Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former
 "(2) the net value of investments and real estate, including the net value in the principal place of residence except in the case of a dislocated worker (certified in accordance with title III of the Job Training Partnership Act) or a dislocated homemaker (as defined in section 1087vv(e) of this title)."
 
 Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

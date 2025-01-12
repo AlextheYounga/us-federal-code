@@ -18,6 +18,8 @@ Section 5708, Pub. L. 102–281, title IV, §429, May 13, 1992, 106 Stat. 144, s
 
 Section 5709, Pub. L. 102–281, title IV, §430, as added Pub. L. 111–8, div. D, title VI, §623(2), Mar. 11, 2009, 123 Stat. 678, authorized appropriations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 115–31, div. E, title VI, §631, May 5, 2017, 131 Stat. 376, provided that:

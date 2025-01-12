@@ -1,5 +1,7 @@
 ### §§1241 to 1244. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1241, Pub. L. 88–210, title I, §101, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1064, set forth Congressional declaration of purpose for vocational education assistance by Federal government.

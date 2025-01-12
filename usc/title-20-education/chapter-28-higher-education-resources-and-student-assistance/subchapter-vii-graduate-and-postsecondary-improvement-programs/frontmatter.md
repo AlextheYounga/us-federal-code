@@ -1,5 +1,7 @@
 ### SUBCHAPTER VII—GRADUATE AND POSTSECONDARY IMPROVEMENT PROGRAMS ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title VII of the Higher Education Act of 1965, comprising this subchapter, was originally enacted by Pub. L. 89–329, title VII, Nov. 8, 1965, 79 Stat. 1266; amended Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 94–482, Oct. 12, 1976, 90 Stat. 2081; Pub. L. 95–43, June 15, 1977, 91 Stat. 213; Pub. L. 96–49, Aug. 13, 1979, 93 Stat. 351; Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367; Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1268; Pub. L. 100–50, June 3, 1987, 101 Stat. 335; Pub. L. 100–203, Dec. 22, 1987, 101 Stat. 1330; Pub. L. 100–369, July 18, 1988, 102 Stat. 835; Pub. L. 102–325, July 23, 1992, 106 Stat. 448; Pub. L. 103–208, Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518; Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009. Title VII is shown herein, however, as having been added by Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786, without reference to those intervening amendments because of the extensive revision of title VII by Pub. L. 105–244.

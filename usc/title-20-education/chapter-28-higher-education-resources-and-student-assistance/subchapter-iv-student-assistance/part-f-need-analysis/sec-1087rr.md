@@ -150,6 +150,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(g), Dec. 27, 2020, 134 St
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to authority to update certain tables, including a revised table of State and other tax allowances, and authority to propose modifications in need analysis methodology.
@@ -181,6 +183,8 @@ Subsec. (h). Pub. L. 103–208, §2(g)(8)(A), (9), substituted "1993–1994" for
 Subsec. (d). Pub. L. 100–50, §14(20), inserted ", rounded to the nearest $100," after "present value cost" and "of 40 and above" after "each age cohort" in second sentence and, after second sentence, inserted "For each age cohort below 40, the asset protection allowance shall be computed by decreasing the asset protection allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100."
 
 Subsec. (f). Pub. L. 100–50, §14(22), substituted "Consumer Price Index for All Urban Consumers" for "Consumer Price Index for Wage Earners and Clerical Workers".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

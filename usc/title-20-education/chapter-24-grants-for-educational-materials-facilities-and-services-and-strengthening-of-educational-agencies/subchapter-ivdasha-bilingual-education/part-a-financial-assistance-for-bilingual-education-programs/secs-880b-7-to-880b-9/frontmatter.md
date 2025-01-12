@@ -1,5 +1,7 @@
 ### §§880b–7 to 880b–9. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general revision of title VII of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, title VII, as added Pub. L. 93–380, title I, §105(a)(1), Aug. 21, 1974, 88 Stat. 511, by Pub. L. 95–561, title VII, §701, Nov. 1, 1978, 92 Stat. 2268.

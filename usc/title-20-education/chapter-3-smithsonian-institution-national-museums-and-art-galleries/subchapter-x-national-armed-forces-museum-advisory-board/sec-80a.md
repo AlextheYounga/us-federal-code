@@ -10,6 +10,8 @@ The provisions of this subchapter in no way rescind subchapter VII of this chapt
 
 (Pub. L. 87–186, §2, Aug. 30, 1961, 75 Stat. 414; Pub. L. 89–509, pt. I, §2, July 19, 1966, 80 Stat. 310.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "National Air and Space Museum" substituted for "National Air Museum" in subsec. (b) pursuant to section 2 of Pub. L. 89–509, which is classified to section 77 of this title.

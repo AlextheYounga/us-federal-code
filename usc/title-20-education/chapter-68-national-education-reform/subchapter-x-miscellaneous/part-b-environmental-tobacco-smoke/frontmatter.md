@@ -1,5 +1,7 @@
 ### Part B—Environmental Tobacco Smoke ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This part was, in the original, part C of title X of Pub. L. 103–227 and has been designated part B of this subchapter for purposes of codification.

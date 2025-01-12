@@ -38,6 +38,8 @@ In any State having an approved plan for vocational rehabilitation pursuant to t
 
 (June 20, 1936, ch. 638, §2, 49 Stat. 1559; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, §4(b)–(d), 68 Stat. 663; Pub. L. 93–516, title II, §203, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §203, Nov. 21, 1974, 89 Stat. 2–8; Pub. L. 96–88, title III, §301(a)(4)(B), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 104–66, title I, §1041(i), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–220, title IV, §414(a), Aug. 7, 1998, 112 Stat. 1241.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For the date of the enactment of the Randolph-Sheppard Act Amendments of 1974, referred to in subsec. (a)(1), see Codification note below.
@@ -78,6 +80,8 @@ Subsecs. (d), (e). Pub. L. 93–516, §203(d), added subsecs. (d) and (e). An id
 
 **1954**—Act Aug. 3, 1954, added to the list of articles which may be vended, articles dispensed automatically or in containers or wrappings received by the stand and to provide that after four years the agency designated under section 35(a)(1) of title 29 shall be the sole State agency for vocational rehabilitation of the blind and to require, prior to that time, certification by agencies as a condition for issuing licenses.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1954 Amendment ####
 
 Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954, set out as a note under section 49b of Title 29, Labor.
@@ -87,6 +91,10 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 "Secretary of Education" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to sections 301(a)(4)(B) and 507 of Pub. L. 96–88 which are classified to sections 3441(a)(4)(B) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
 For transfer of functions and offices of Secretary and Department of Health, Education, and Welfare, including Rehabilitation Services Administration and Commissioner thereof, to Secretary and Department of Education, and for delegation of certain functions of Secretary of Education under this chapter to Assistant Secretary for Special Education and Rehabilitative Services, see sections 3417 and 3441 of this title.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

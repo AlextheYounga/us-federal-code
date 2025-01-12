@@ -4,10 +4,6 @@ Except as provided in section 459s of this title, the Secretary of the Interior 
 
 (June 6, 1942, ch. 380, §1, 56 Stat. 326.)
 
-#### Delegation of Functions ####
-
-For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
-
 #### Silver Creek Project ####
 
 Act July 30, 1947, ch. 351, 61 Stat. 519, provided: "That, in order to carry out the purposes of the act of June 6, 1942 [56 Stat. 326; sections 459r to 459t of this title], relating to the disposition of recreational demonstration areas, and to effectuate the transfer to the State of Oregon, pursuant to that act, of the Silver Creek recreational demonstration project, the following-described revested Oregon and California Railroad grant lands shall hereafter be administered as a part of the Silver Creek recreational demonstration project and shall be subject to all of the provisions of the aforesaid Act of June 6, 1942:
@@ -39,6 +35,14 @@ comprising one thousand seven hundred and ninety-one and ninety-three one-hundre
 #### "willamette meridian ####
 
 "Township 8 south, range 1 east: Section 36, northeast quarter, northeast quarter northwest quarter, north half southeast quarter northwest quarter, north half south half southeast quarter northwest quarter, north half northwest quarter northwest quarter, and north half south half northwest quarter northwest quarter; comprising two hundred and sixty acres."
+
+#### Delegation of Functions ####
+
+For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
+
+#### Delegation of Functions ####
+
+For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
 
 #### Ex. Ord. No. 7496. Transfer of Recreational Demonstration Projects ####
 

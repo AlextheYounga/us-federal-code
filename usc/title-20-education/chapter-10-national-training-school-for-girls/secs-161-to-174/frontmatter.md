@@ -1,5 +1,7 @@
 ### §§161 to 174. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections provided for the National Training School for Girls. Act Aug. 3, 1951, ch. 291, §1, 65 Stat. 154, provided that no new commitments to the National Training School for Girls should be made after Aug. 3, 1951. Act July 31, 1953, ch. 299, §1, 67 Stat. 286, redesignated the National Training School for Girls as the Industrial Home School for Colored Girls and authorized construction of a new Industrial Home School for Colored Children near Laurel, Maryland. Act July 1, 1954, ch. 449, §1, 68 Stat. 385, provided that the Industrial Home School for Colored Girls shall be combined with and become a part of the Industrial Home School for Colored Children. Act Sept. 4, 1957, Pub. L. 85–285, §1, 71 Stat. 610, provided in part for the disposition of the land of the United States reserved for a site for the National Training School for Girls by the Act of July 14, 1892 (27 Stat. 165), as amended.

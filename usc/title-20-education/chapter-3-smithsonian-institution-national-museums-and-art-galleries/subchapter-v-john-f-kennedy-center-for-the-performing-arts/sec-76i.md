@@ -80,6 +80,8 @@ In this subsection, the term "expansion project" means an addition to the south 
 
 (Pub. L. 85–874, §3, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 105–95, §2, Nov. 19, 1997, 111 Stat. 2148; Pub. L. 112–131, §2, June 8, 2012, 126 Stat. 377.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Subsec. (c). Pub. L. 112–131 added subsec. (c).

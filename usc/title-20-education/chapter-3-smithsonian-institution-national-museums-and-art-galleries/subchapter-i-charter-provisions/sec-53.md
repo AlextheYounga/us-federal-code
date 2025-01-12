@@ -4,6 +4,8 @@ All laws for the protection of public property in the city of Washington shall a
 
 (R.S. §5589.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5589 derived from act Aug. 10, 1846, ch. 178, §5, 9 Stat. 104.

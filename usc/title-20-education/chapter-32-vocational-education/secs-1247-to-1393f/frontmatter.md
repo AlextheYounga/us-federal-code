@@ -1,5 +1,7 @@
 ### §§1247 to 1393f. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1247, Pub. L. 88–210, title I, §107, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1069, set forth limitations on payments for vocational education assistance.

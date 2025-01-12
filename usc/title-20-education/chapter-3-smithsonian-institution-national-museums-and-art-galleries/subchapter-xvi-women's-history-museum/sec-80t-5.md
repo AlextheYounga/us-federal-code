@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-Not later than 2 years after the December 27, 2020, the Board of Regents shall designate a site for the Museum.
+Not later than 2 years after December 27, 2020, the Board of Regents shall designate a site for the Museum.
 
 #### (2) Sites for consideration ####
 

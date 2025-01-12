@@ -12,6 +12,8 @@ Section 3815, Pub. L. 97–35, title V, §565, Aug. 13, 1981, 95 Stat. 471; Pub.
 
 Section 3816, Pub. L. 97–35, title V, §566, Aug. 13, 1981, 95 Stat. 471; Pub. L. 98–211, §§9(c), 13, Dec. 8, 1983, 97 Stat. 1416, related to local applications.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of this title.

@@ -8,6 +8,8 @@ Section 238, acts Sept. 30, 1950, ch. 1124, title I, §3, formerly §3, 64 Stat.
 
 Section 239, acts Sept. 30, 1950, ch. 1124, title I, §4, formerly §4, 64 Stat. 1104; Aug. 8, 1953, ch. 402, §§3–5, 67 Stat. 532–534; Aug. 12, 1955, ch. 868, §§1, 2, 69 Stat. 713; Aug. 3, 1956, ch. 915, title II, §§207, 208, 70 Stat. 972; Aug. 12, 1958, Pub. L. 85–620, title II, §203, 72 Stat. 560; Oct. 3, 1961, Pub. L. 87–344, title I, §102(a), 75 Stat. 759; Dec. 18, 1963, Pub. L. 88–210, title III, §302, formerly §32, 77 Stat. 419, renumbered Oct. 16, 1968, Pub. L. 90–576, title I, §101(a)(1), 82 Stat. 1064; Oct. 16, 1964, Pub. L. 88–665, title XI, §1102(a), 78 Stat. 1109; renumbered and amended Apr. 11, 1965, Pub. L. 89–10, title I, §§3(b), 5, 79 Stat. 34, 36; Jan. 2, 1968, Pub. L. 90–247, title III, §301(e), 81 Stat. 813; Apr. 13, 1970, Pub. L. 91–230, title II, §201(b), 84 Stat. 154; Aug. 21, 1974, Pub. L. 93–380, title III, §303(a)(2), 88 Stat. 522; Apr. 21, 1976, Pub. L. 94–273, §3(5), 90 Stat. 376; Nov. 1, 1978, Pub. L. 95–561, title X, §1001(c), 92 Stat. 2306; Oct. 19, 1984, Pub. L. 98–511, title III, §301(a)(1), 98 Stat. 2388; Apr. 28, 1988, Pub. L. 100–297, title II, §§2011(a)(1), 2012(a), 102 Stat. 294, related to sudden and substantial increases in attendance resulting from activities of the United States.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 103–382, §3(a)(3)(B), Oct. 20, 1994, 108 Stat. 3519, provided that: "Part C [§331, repealing sections 236 to 239, 240 to 241–1, 242 to 244, and 631 to 647 of this title] of title III of this Act and the amendments made by such part shall take effect on October 1, 1994."

@@ -16,6 +16,8 @@ Section 241c–4, act Sept. 30, 1950, ch. 1124, title II, §124, as added Aug. 2
 
 Section 241c–5, act Sept. 30, 1950, ch. 1124, title II, §125, as added Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(2)(E), 88 Stat. 495, and amended Apr. 21, 1976, Pub. L. 94–273, §3(8), 90 Stat. 376; Oct. 12, 1976, Pub. L. 94–482, title V, §501(b)(1)(A), (o), 90 Stat. 2236, 2238; Sept. 24, 1977, Pub. L. 95–112, §2(a)(1), 91 Stat. 911, related to minimum payments for State operated programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as an Effective Date of 1978 Amendment note under section 1221e–3 of this title.

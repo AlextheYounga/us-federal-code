@@ -4,6 +4,8 @@ A financial aid administrator shall be considered to be making a necessary adjus
 
 (Pub. L. 108–76, §4, Aug. 18, 2003, 117 Stat. 906.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly set out in a note under section 1070 of this title.

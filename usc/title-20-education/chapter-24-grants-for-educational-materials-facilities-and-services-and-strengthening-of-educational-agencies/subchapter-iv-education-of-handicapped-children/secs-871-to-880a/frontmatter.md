@@ -38,6 +38,8 @@ Section 877c comprised Part D—Recruitment of personnel and information on educ
 
 Sections 878 to 880a comprised Part E—General provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1971, see section 662 of Pub. L. 91–230.

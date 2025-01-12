@@ -26,6 +26,8 @@ Funds made available to the National Endowment for the Arts shall be used to car
 
 (Pub. L. 98–306, §13, May 31, 1984, 98 Stat. 225.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the National Foundation on the Arts and the Humanities Act Amendments of 1983, and not as part of the National Foundation on the Arts and the Humanities Act of 1965 which comprises this subchapter.

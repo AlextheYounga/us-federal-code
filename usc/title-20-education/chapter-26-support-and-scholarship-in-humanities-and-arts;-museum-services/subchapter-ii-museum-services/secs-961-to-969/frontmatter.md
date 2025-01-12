@@ -1,5 +1,7 @@
 ### §§961 to 969. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The Museum Services Act (Pub. L. 94–462, title II, Oct. 8, 1976, 90 Stat. 1975, as amended), which was classified to this subchapter (§§961 to 963 and 964 to 969), was amended generally by Pub. L. 104–208, div. A, title I, §101(e) [title VII, §702], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, and transferred to chapter 72 (§9101 et seq.) of this title.
@@ -29,6 +31,8 @@ Section 967, Pub. L. 94–462, title II, §209, Oct. 8, 1976, 90 Stat. 1978; Pub
 Section 968, Pub. L. 94–462, title II, §210, Oct. 8, 1976, 90 Stat. 1978, defined "Board", "Director", "Institute", and "museum" for purposes of this subchapter. See sections 9101 and 9172 of this title.
 
 Section 969, Pub. L. 94–462, title II, §211, as added Pub. L. 101–512, title III, §318 [title II, §205 [(a)]], Nov. 5, 1990, 104 Stat. 1960, 1975, related to assessment of needs of small, emerging, minority, and rural museums.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

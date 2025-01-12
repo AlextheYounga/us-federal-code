@@ -4,6 +4,8 @@ Section 1176, Pub. L. 89–698, title I, §105, Oct. 29, 1966, 80 Stat. 1068; Pu
 
 Section 1177, Pub. L. 89–698, title I, §106, Oct. 29, 1966, 80 Stat. 1069; Pub. L. 91–230, title IV, §401(h)(5), Apr. 13, 1970, 84 Stat. 174, provided for creation of a National Advisory Committee on International Studies. See section 1131 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under section 1001 of this title.

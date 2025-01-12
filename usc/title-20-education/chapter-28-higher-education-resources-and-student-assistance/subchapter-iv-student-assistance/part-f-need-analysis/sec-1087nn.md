@@ -46,6 +46,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(c), Dec. 27, 2020, 134 St
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to determination of expected family contribution and the data elements to be considered.
@@ -55,6 +57,8 @@ See 2020 Amendment note below.
 **1992**—Pub. L. 102–325 substituted "Determination of expected family contribution; data elements" for "Data elements used in determining expected family contribution" in section catchline and amended text generally, adding subsec. (a), designating existing provisions as subsec. (b) and inserting heading, adding the age of the older parent, in the case of a dependent student, and the student as a data element and striking out consideration of any unusual medical and dental expenses and consideration of the number of dependent children other than the student enrolled in a private elementary or secondary institution and the unreimbursed tuition paid as data elements.
 
 **1988**—Par. (8). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

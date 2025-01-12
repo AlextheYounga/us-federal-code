@@ -38,6 +38,8 @@ In order to provide advice and counsel concerning arts education, the Chairperso
 
 (Pub. L. 89–209, §5A, as added Pub. L. 101–512, title III, §318 [title I, §105], Nov. 5, 1990, 104 Stat. 1960, 1967.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Oct. 1, 1990, see section 318 [title IV, §403(a)] of Pub. L. 101–512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.

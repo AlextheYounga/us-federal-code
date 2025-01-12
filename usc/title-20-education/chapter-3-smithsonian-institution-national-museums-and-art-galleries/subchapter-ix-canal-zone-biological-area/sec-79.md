@@ -4,6 +4,8 @@ The President is authorized and directed to set aside within the Canal Zone an a
 
 (July 2, 1940, ch. 516, §1, 54 Stat. 724.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
@@ -11,6 +13,8 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 #### Codification ####
 
 Section was formerly classified to section 1381 of Title 48, Territories and Insular Possessions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of War and Emergencies ####
 

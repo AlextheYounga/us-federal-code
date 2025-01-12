@@ -4,9 +4,13 @@ The Secretary of the Army is authorized to furnish to the National Museum, for e
 
 (Mar. 4, 1921, ch. 166, §1, 41 Stat. 1438; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Oct. 31, 1951, ch. 654, §3(4), 65 Stat. 708.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1951**—Act Oct. 31, 1951, struck out "are surplus or" after "articles".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

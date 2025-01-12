@@ -26,6 +26,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(a)(1), Dec. 27, 2020, 134
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: "Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts 1 or 2 of part A of this subchapter) is equal to—
@@ -39,6 +41,8 @@ See 2020 Amendment note below.
 **1998**—Pub. L. 105–244 substituted "or 2" for "or 4" in introductory provisions.
 
 **1992**—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts 1 and 3 of part A of this subchapter) is equal to the cost of attendance of such student minus the expected family contribution for such student."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

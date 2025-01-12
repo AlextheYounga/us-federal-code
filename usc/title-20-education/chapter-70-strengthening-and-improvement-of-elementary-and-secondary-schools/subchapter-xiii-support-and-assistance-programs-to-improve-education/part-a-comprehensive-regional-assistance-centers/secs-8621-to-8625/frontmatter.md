@@ -1,5 +1,7 @@
 ### §§8621 to 8625. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 8621, Pub. L. 89–10, title XIII, §13101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3877, which authorized grant program for comprehensive regional assistance centers, was renumbered section 1001 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by Pub. L. 107–110, title X, §1021(a), (b), Jan. 8, 2002, 115 Stat. 1987, transferred to section 6053 of this title, and subsequently repealed.

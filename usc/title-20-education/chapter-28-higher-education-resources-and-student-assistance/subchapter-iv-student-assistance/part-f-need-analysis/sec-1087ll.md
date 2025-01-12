@@ -116,6 +116,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 St
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section consisted of pars. (1) to (13) which defined "cost of attendance".
@@ -139,6 +141,8 @@ Par. (11). Pub. L. 105–244, §471(4), substituted "engaged" for "placed".
 **1993**—Par. (12). Pub. L. 103–208 added par. (12).
 
 **1992**—Pub. L. 102–325 amended section generally, revising and restating as pars. (1) to (11) provisions formerly contained in pars. (1) to (9).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

@@ -8,6 +8,8 @@ Section 5899, Pub. L. 103–227, title III, §319, Mar. 31, 1994, 108 Stat. 186,
 
 Section 5900, Pub. L. 103–227, title III, §320, as added Pub. L. 104–134, title I, §101(d) [title VII, §706], Apr. 26, 1996, 110 Stat. 1321–211, 1321–257; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to certain prohibited conditions to receiving assistance and to limitations on Government officials.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 30, 2000, see section 1000(a)(4) [title III, §310(i)] of Pub. L. 106–113, set out as a note under section 5881 of this title.

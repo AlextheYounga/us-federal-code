@@ -6,6 +6,8 @@ Section 4321, Pub. L. 99–371, title I, §121, Aug. 4, 1986, 100 Stat. 783; Pub
 
 Section 4322, Pub. L. 99–371, title I, §122, Aug. 4, 1986, 100 Stat. 784, authorized continuation of agreement with Gallaudet University for model secondary school.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.

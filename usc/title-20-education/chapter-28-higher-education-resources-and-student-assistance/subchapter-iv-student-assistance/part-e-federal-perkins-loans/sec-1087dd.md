@@ -228,6 +228,8 @@ The Secretary may develop such additional safeguards as the Secretary determines
 
 (Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947; Pub. L. 115–245, div. B, title III, §309(d), Sept. 28, 2018, 132 Stat. 3106; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724, which redesignated pars. (6) and (7) as (5) and (6), respectively.
@@ -329,6 +331,8 @@ Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
 **1988**—Subsec. (c)(2)(A)(v). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 **1987**—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted "or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training" before semicolon at end.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

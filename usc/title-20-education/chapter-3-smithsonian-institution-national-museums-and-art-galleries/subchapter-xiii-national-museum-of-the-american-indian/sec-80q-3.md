@@ -102,6 +102,8 @@ Members of the Board shall be entitled (to the same extent as provided in sectio
 
 (Pub. L. 101–185, §5, Nov. 28, 1989, 103 Stat. 1337; Pub. L. 104–278, §2, Oct. 9, 1996, 110 Stat. 3355.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (f)(1)(B). Pub. L. 104–278 substituted "a senior official" for "an Assistant Secretary".

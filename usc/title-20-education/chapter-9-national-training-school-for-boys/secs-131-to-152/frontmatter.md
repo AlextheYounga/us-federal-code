@@ -1,5 +1,7 @@
 ### §§131 to 152. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections provided for the National Training School for Boys which was governed and managed by a Board of Trustees until July 1, 1939, at which time 1939 Reorg. Plan No. 2 (4 F.R. 2731, 53 Stat. 1431) abolished the Board of Trustees and transferred the School and its functions (including the functions of the Board of Trustees) to the Department of Justice, to be administered by the Director of the Bureau of Prisons, under the direction and supervision of the Attorney General. The School was so operated until May 15, 1968, when it was closed pursuant to order of the Attorney General.

@@ -12,6 +12,8 @@ Section 1965, Pub. L. 93–380, title VII, §725, as added and amended Pub. L. 9
 
 Section 1966, Pub. L. 93–380, title VII, §726, as added Pub. L. 94–194, §9(a), Dec. 31, 1975, 89 Stat. 1105, set forth provisions relating to contracting requirements for an inexpensive book distribution program for reading motivation.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as an Effective Date of 1978 Amendment note under section 1221e–3 of this title.

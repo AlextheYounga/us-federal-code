@@ -4,6 +4,8 @@ Section 9211, Pub. L. 105–220, title II, §211, Aug. 7, 1998, 112 Stat. 1062; 
 
 Section 9212, Pub. L. 105–220, title II, §212, Aug. 7, 1998, 112 Stat. 1064; Pub. L. 105–277, div. A, §101(f) [title VIII, §404(c)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, related to performance accountability system.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.

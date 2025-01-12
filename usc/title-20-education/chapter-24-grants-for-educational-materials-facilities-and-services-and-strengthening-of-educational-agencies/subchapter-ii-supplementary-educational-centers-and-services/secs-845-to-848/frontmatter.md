@@ -1,5 +1,7 @@
 ### §§845 to 848. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 845, Pub. L. 89–10, title III, §307, formerly §305, Apr. 11, 1965, 79 Stat. 43, renumbered and amended Pub. L. 90–247, title I, §131, Jan. 2, 1968, 81 Stat. 796; Pub. L. 91–230, title I, §131(a)(1), Apr. 13, 1970, 84 Stat. 139; Pub. L. 93–380, title I, §103(d), title IV, §402(c)(2)(iii), title VIII, §843(a)(2), Aug. 21, 1974, 88 Stat. 502, 546, 611; Pub. L. 94–482, title III, §323(a)(2), Oct. 12, 1976, 90 Stat. 2217, which related to the payments to States to carry out plans for supplementary educational centers and services, was omitted in the general revision of title III of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, title III, Apr. 11, 1965, 79 Stat. 39, by Pub. L. 95–561, title III, §301, Nov. 1, 1978, 92 Stat. 2210.

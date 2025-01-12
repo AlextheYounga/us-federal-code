@@ -6,7 +6,7 @@ Sec.
 
 8002. Purposes.
 
-8003. .Statement of policy.
+8003. Statement of policy.
 
 #### SUBCHAPTER I—PROGRAMS TO COMBAT IUU FISHING AND INCREASE MARITIME SECURITY ####
 

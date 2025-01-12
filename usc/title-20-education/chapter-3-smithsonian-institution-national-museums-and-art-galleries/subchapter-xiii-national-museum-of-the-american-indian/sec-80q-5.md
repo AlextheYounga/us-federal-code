@@ -74,9 +74,13 @@ Notwithstanding any other provision of this subchapter, funds appropriated for c
 
 (Pub. L. 101–185, §7, Nov. 28, 1989, 103 Stat. 1339.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 586(a) and (b) of title 40" substituted in subsec. (b)(1)(A) for "section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j))", "section 592 of title 40" substituted in subsec. (b)(1)(B) for "section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))", and "section 586(a) and (b) of title 40" substituted in subsec. (b)(1)(B) for "section 210(j) of such Act" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### National Native American Veterans' Memorial ####
 

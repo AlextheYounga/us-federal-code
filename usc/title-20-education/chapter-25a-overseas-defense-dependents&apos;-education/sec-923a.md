@@ -20,6 +20,8 @@ The Secretary may use funds available for the defense dependents' education syst
 
 (Pub. L. 95–561, title XIV, §1404A, as added Pub. L. 109–163, div. A, title V, §571, Jan. 6, 2006, 119 Stat. 3270; amended Pub. L. 109–364, div. A, title V, §571(a), Oct. 17, 2006, 120 Stat. 2225; Pub. L. 110–181, div. A, title X, §1063(e)(1), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title V, §535, Oct. 28, 2009, 123 Stat. 2292.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Subsec. (a)(2). Pub. L. 111–84, §535(a), struck out ", and only through the 2010–2011 school year" before period at end.
@@ -31,6 +33,8 @@ Subsec. (c)(1). Pub. L. 111–84, §535(b), inserted at end "The Secretary shall
 **2006**—Subsec. (a). Pub. L. 109–364, §571(a)(1), substituted "basis of—" for "basis of", designated part of existing provisions as par. (1), substituted "; and" for period at end, and added par. (2).
 
 Subsec. (c). Pub. L. 109–364, §571(a)(2), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

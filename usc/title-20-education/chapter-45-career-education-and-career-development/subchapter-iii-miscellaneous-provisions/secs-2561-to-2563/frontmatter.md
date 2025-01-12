@@ -1,5 +1,7 @@
 ### §§2561 to 2563. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 2561, Pub. L. 94–482, title V, §521, Oct. 12, 1976, 90 Stat. 2238, required Secretary of Health, Education, and Welfare, not later than six months after October 12, 1976, to report on purposes, administration, and effectiveness of special programs for students from disadvantaged backgrounds under sections 1070d and 1070d–1 of this title and High School Equivalency Program and College Assistance Migrant Program authorized under section 873 of title 29 and provided funding requirements for fiscal year 1977 for the programs authorized under section 873 of title 29.

@@ -10,6 +10,8 @@ Section 9224, Pub. L. 105–220, title II, §224, Aug. 7, 1998, 112 Stat. 1068; 
 
 Section 9225, Pub. L. 105–220, title II, §225, Aug. 7, 1998, 112 Stat. 1069; Pub. L. 105–277, div. A, §101(f) [title VIII, §404(d)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, related to programs for corrections education and other institutionalized individuals.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.

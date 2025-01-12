@@ -10,6 +10,8 @@ Section 1213c, Pub. L. 89–750, title III, §384, as added Pub. L. 100–297, t
 
 Section 1213d, Pub. L. 89–750, title III, §385, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 319, related to limitation on grants for sectarian instruction or religious worship or to a school or department of divinity.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Purpose and Findings Regarding Literacy Amendments and National Institute for Literacy ####
 
 Pub. L. 102–73, title I, §102(a), (b), July 25, 1991, 105 Stat. 334, stated findings of Congress and purpose of amendment by section 102 of Pub. L. 102–73 to former section 1213c of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.

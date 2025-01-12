@@ -1,5 +1,7 @@
 ### Part C—General Provisions ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–315, title V, §502(a)(1), Aug. 14, 2008, 122 Stat. 3331, redesignated part B of this subchapter as part C of this subchapter.

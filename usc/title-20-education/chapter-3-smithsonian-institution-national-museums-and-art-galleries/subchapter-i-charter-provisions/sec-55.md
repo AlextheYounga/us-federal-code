@@ -4,6 +4,8 @@ The Secretary of the Treasury is authorized and directed to receive into the Tre
 
 (R.S. §5591; Mar. 12, 1894, ch. 36, 28 Stat. 41.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5591 derived from act Feb. 5, 1867, ch. 34, §1, 14 Stat. 391.

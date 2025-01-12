@@ -72,7 +72,7 @@ Subsec. (d)(3). Pub. L. 111–11, §7102(3), in introductory provisions, substit
 
 **1998**—Subsec. (d). Pub. L. 105–363 added subsec. (d).
 
-**1994**—Subsec. (b). Pub. L. 103–449, §203(a)(2), struck out concluding provisions which read as follows: "both as generally depicted on a map entitled 'Land Ownership Map, Weir Farm Historic Site', Figure 5, dated October 1989, as contained in the National Park Service Weir Farm Suitability/Feasibility Study, February, 1990. Such map shall be on file and available for public inspection in the appropriate offices of the Nationsd Park Service."
+**1994**—Subsec. (b). Pub. L. 103–449, §203(a)(2), struck out concluding provisions which read as follows: "both as generally depicted on a map entitled 'Land Ownership Map, Weir Farm Historic Site', Figure 5, dated October 1989, as contained in the National Park Service Weir Farm Suitability/Feasibility Study, February, 1990. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service."
 
 Subsec. (b)(3), (4). Pub. L. 103–449, §203(a)(1), (3), added pars. (3) and (4).
 

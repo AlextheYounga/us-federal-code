@@ -1,5 +1,7 @@
 ### SUBCHAPTER VIII—GENERAL PROVISIONS ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–95, title VIII, §8001(a), Dec. 10, 2015, 129 Stat. 2088, redesignated subchapter IX (§7801 et seq.) of this chapter as this subchapter.

@@ -4,9 +4,13 @@ All moneys received by donation, subscription, fees, or otherwise, except the mo
 
 (July 2, 1940, ch. 516, §6, 54 Stat. 725; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; 1946 Reorg. Plan No. 3, §801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 1386 of Title 48, Territories and Insular Possessions.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

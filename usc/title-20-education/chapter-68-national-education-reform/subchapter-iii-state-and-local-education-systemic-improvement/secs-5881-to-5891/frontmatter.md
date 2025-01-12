@@ -22,6 +22,8 @@ Section 5890, Pub. L. 103–227, title III, §310, Mar. 31, 1994, 108 Stat. 174;
 
 Section 5891, Pub. L. 103–227, title III, §311, Mar. 31, 1994, 108 Stat. 174; Pub. L. 103–382, title III, §394(f)(5), Oct. 20, 1994, 108 Stat. 4028, related to waivers of statutory and regulatory requirements.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 106–113, div. B, §1000(a)(4) [title III, §310(i)], Nov. 29, 1999, 113 Stat. 1535, 1501A–265, provided that: "Titles III [enacting this subchapter] and IV [enacting subchapter IV of this chapter] of the Goals 2000: Educate America Act are repealed on September 30, 2000."

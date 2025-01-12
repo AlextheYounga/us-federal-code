@@ -14,6 +14,8 @@ Section 5826, Pub. L. 103–227, title II, §206, Mar. 31, 1994, 108 Stat. 138, 
 
 Section 5827, Pub. L. 103–227, title II, §207, Mar. 31, 1994, 108 Stat. 138, related to assessment of readiness of children for school.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.

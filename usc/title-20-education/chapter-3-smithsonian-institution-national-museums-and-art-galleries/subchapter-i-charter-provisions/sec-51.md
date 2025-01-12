@@ -4,9 +4,13 @@ The Regents shall make, from the interest of the fund, an appropriation, not exc
 
 (R.S. §5587.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5587 derived from act Aug. 10, 1846, ch. 178, §8, 9 Stat. 105.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Public Use of Research and Study Facilities of Certain Institutions ####
 

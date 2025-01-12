@@ -82,6 +82,8 @@ Sec.
 
 9176. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title II of Pub. L. 94–462, comprising this chapter, was originally enacted as Pub. L. 94–462, title II, Oct. 8, 1976, 90 Stat. 1975; Pub. L. 96–496, title II, §201, Dec. 4, 1980, 94 Stat. 2591; Pub. L. 98–306, §§8–11, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, §318 [title II, §§201, 202(a)(1), (b), 203–205], Nov. 5, 1990, 104 Stat. 1960, 1974, 1975, known as the Museum Services Act, and classified to section 961 et seq. of this title. Title II is shown, herein, however, as having been added by Pub. L. 104–208 without reference to such intervening amendments because of the extensive amendments to the provisions of title II by Pub. L. 104–208.

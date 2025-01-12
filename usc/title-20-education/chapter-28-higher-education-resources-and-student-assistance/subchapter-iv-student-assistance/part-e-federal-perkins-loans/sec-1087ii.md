@@ -14,6 +14,8 @@ For purposes of this part, the term "infants, toddlers, children, and youth with
 
 (Pub. L. 89–329, title IV, §469, as added Pub. L. 102–325, title IV, §465(d), July 23, 1992, 106 Stat. 583; amended Pub. L. 103–382, title III, §391(e)(4), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 108–446, title III, §305(c)(2), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 111–39, title IV, §405(7), July 1, 2009, 123 Stat. 1947; Pub. L. 114–95, title IX, §9215(oo)(9), Dec. 10, 2015, 129 Stat. 2180.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsec. (a). Pub. L. 114–95 substituted "eligible to be counted under section 6333(c) of this title" for "eligible to be counted under title I of the Elementary and Secondary Education Act of 1965".
@@ -23,6 +25,8 @@ For purposes of this part, the term "infants, toddlers, children, and youth with
 **2004**—Subsec. (c). Pub. L. 108–446 substituted "sections 1401 and 1432" for "sections 1401(a)(1) and 1472(1)".
 
 **1994**—Subsec. (a). Pub. L. 103–382 substituted "title I" for "chapter 1 of title I".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2015 Amendment ####
 

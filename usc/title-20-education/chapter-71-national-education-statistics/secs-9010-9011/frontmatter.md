@@ -1,5 +1,7 @@
 ### §§9010, 9011. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 9010, Pub. L. 103–382, title IV, §411, Oct. 20, 1994, 108 Stat. 4036; Pub. L. 107–110, title VI, §602(a), Jan. 8, 2002, 115 Stat. 1898; Pub. L. 107–279, title IV, §401(d)(1)–(7), Nov. 5, 2002, 116 Stat. 1984, was renumbered Pub. L. 107–279, title III, §303, by Pub. L. 107–279, title IV, §401(d)(8), Nov. 5, 2002, 116 Stat. 1984, and transferred to section 9622 of this title.

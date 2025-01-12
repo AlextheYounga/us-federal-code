@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—LANGUAGE INSTRUCTION FOR ENGLISH LEARNERS AND IMMIGRANT STUDENTS ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–95, title III, §3001(1), Dec. 10, 2015, 129 Stat. 1953, substituted "ENGLISH LEARNERS" for "LIMITED ENGLISH PROFICIENT" in subchapter heading.

@@ -4,6 +4,8 @@ The Smithsonian Institution shall (a) determine the policy, prescribe conditions
 
 (July 2, 1940, ch. 516, §4, 54 Stat. 724; 1946 Reorg. Plan No. 3, §801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101; Pub. L. 89–280, §2, Oct. 20, 1965, 79 Stat. 1012.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 1384 of Title 48, Territories and Insular Possessions.
@@ -11,6 +13,8 @@ Section was formerly classified to section 1384 of Title 48, Territories and Ins
 #### Amendments ####
 
 **1965**—Pub. L. 89–280 substituted provisions in cl. (f) requiring the Smithsonian Institution to include in its annual report of its operations to Congress a statement of activities and operations during the preceding year for provisions which required the Smithsonian Institution to submit to the Congress of the United States not later than the 15th day of each January a report of activities and operations during the preceding year.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

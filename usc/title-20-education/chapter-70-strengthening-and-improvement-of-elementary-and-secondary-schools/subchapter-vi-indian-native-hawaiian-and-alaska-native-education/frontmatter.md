@@ -1,5 +1,7 @@
 ### SUBCHAPTER VI—INDIAN, NATIVE HAWAIIAN, AND ALASKA NATIVE EDUCATION ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–95, title VI, §6001(a), Dec. 10, 2015, 129 Stat. 2046, redesignated subchapter VII (§7401 et seq.) of this chapter as this subchapter.

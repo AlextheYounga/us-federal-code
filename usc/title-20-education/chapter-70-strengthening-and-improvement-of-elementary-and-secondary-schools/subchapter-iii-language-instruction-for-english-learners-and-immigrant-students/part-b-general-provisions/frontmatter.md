@@ -1,5 +1,7 @@
 ### Part B—General Provisions ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–95, title III, §3001(4), Dec. 10, 2015, 129 Stat. 1953, redesignated part C (§7011 et seq.) of this subchapter as part B of this subchapter.

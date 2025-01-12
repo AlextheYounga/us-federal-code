@@ -18,6 +18,8 @@ The Secretary is authorized to make grants to or contracts with institutions of 
 
 (Pub. L. 88–560, title VIII, §804, as added Pub. L. 93–383, title IV, §402(c)(2), Aug. 22, 1974, 88 Stat. 692.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 93–383, §402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.

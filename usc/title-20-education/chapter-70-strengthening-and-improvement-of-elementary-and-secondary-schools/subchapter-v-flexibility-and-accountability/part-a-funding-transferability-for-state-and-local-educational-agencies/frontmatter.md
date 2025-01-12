@@ -1,5 +1,7 @@
 ### Part A—Funding Transferability for State and Local Educational Agencies ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–95, title V, §5002(1), (2), Dec. 10, 2015, 129 Stat. 2040, substituted "Funding Transferability for State and Local Educational Agencies" for "Improving Academic Achievement" in part heading and struck out subpart 2 designation and heading.

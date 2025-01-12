@@ -82,6 +82,8 @@ In carrying out the provisions of subsection (a)(5) <sup><a href="#1087cc_1_tar
 
 (Pub. L. 89–329, title IV, §463, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1444; amended Pub. L. 100–50, §13(e), (f), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(a), (b), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(5)–(7), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §463, Oct. 7, 1998, 112 Stat. 1724; Pub. L. 110–315, title IV, §§432(b)(5), 463, Aug. 14, 2008, 122 Stat. 3246, 3266; Pub. L. 111–39, title IV, §405(2), July 1, 2009, 123 Stat. 1947.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subsection (a)(5) relating to due diligence, referred to in subsec. (e), was redesignated subsec. (a)(4), by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724.
@@ -173,6 +175,8 @@ Subsec. (c)(4). Pub. L. 102–325, §463(b)(2), added par. (4).
 **1987**—Subsec. (a)(4). Pub. L. 100–50, §13(e), substituted "in an annual report" for "in a report" and struck out ", and made to the Secretary at least semiannually" after "in such default".
 
 Subsec. (b). Pub. L. 100–50, §13(f), substituted "section 1096 of this title" for "section 1092 of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment ####
 

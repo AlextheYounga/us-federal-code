@@ -22,6 +22,8 @@ Section 15jj, act Aug. 1, 1946, ch. 725, title II, §210, as added Aug. 2, 1956,
 
 For general subject matter of sections 15aa to 15jj, see section 1241 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091, provided that the repeal is effective July 1, 1969.

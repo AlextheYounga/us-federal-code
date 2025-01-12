@@ -34,6 +34,8 @@ Section 646, act Sept. 23, 1950, ch. 995, §16, as added Nov. 1, 1965, Pub. L. 8
 
 Section 647, act Sept. 23, 1950, ch. 995, §17, as added Nov. 1, 1965, Pub. L. 89–313, §3, 79 Stat. 1161; amended Apr. 28, 1988, Pub. L. 100–297, title II, §2032(a)(1), 102 Stat. 301, provided that announcement of decrease in or cessation of Federal activities in certain areas not to affect determination of payment.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1994, see section 3(a)(3)(B) of Pub. L. 103–382, set out as a note under section 236 of this title.

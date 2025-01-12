@@ -407,6 +407,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(f), Dec. 27, 2020, 134 St
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to family contribution for independent students with dependents other than a spouse.
@@ -452,6 +454,8 @@ Subsec. (c)(4)(B). Pub. L. 100–50, §14(5), substituted "$15,999" for "$15,000
 Subsec. (c)(4)(C). Pub. L. 100–50, §14(6), substituted "$16,000" for "$15,000" in three places.
 
 Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted "section 1087rr of this title" for "section 1087ss of this title" in text and inserted a minus sign before "$3,409" in two places in table.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

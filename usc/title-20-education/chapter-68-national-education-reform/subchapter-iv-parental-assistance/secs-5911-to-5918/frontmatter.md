@@ -16,6 +16,8 @@ Section 5917, Pub. L. 103–227, title IV, §407, Mar. 31, 1994, 108 Stat. 190, 
 
 Section 5918, Pub. L. 103–227, title IV, §408, Mar. 31, 1994, 108 Stat. 191, related to authorization of appropriations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 30, 2000, see section 1000(a)(4) [title III, §310(i)] of Pub. L. 106–113, set out as a note under section 5881 of this title.

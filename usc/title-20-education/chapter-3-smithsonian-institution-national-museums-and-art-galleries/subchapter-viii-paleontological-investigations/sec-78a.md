@@ -4,6 +4,8 @@ There is authorized to be appropriated, out of any money in the Treasury not oth
 
 (Aug. 15, 1949, ch. 427, §2, 63 Stat. 606; Pub. L. 113–287, §5(e)(1), Dec. 19, 2014, 128 Stat. 3268.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–287 substituted "section 1866(b) of title 18 and sections 320302 and 320303 of title 54" for "the Act of June 8, 1906 (16 U.S.C. 432, 433)".

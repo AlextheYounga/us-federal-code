@@ -12,6 +12,8 @@ Section 9275, Pub. L. 105–220, title V, §505, Aug. 7, 1998, 112 Stat. 1245; P
 
 Section 9276, Pub. L. 105–220, title V, §506, Aug. 7, 1998, 112 Stat. 1246; Pub. L. 105–277, div. A, §101(f) [title VIII, §401(19)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–332, §4(2), Oct. 31, 1998, 112 Stat. 3126, related to transition provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.

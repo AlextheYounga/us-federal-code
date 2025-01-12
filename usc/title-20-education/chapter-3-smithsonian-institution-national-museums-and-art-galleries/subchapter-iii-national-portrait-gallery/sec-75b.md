@@ -6,9 +6,13 @@
 
 (Pub. L. 87–443, §3, Apr. 27, 1962, 76 Stat. 62.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 28, 1958, referred to in subsec. (a), is act Mar. 28, 1958, Pub. L. 85–357, 72 Stat. 68, which was not classified to the Code.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Patent Office Building Improvements ####
 

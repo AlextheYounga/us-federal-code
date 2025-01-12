@@ -4,6 +4,8 @@ The Secretary of the Board of Regents shall take charge of the building and prop
 
 (R.S. §5583; Oct. 25, 1951, ch. 562, §2(4), 65 Stat. 639.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5583 derived from act Aug. 10, 1846, ch. 178, §7, 9 Stat. 105.

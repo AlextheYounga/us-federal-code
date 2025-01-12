@@ -4,6 +4,8 @@ The area bounded by Seventh Street, Constitution Avenue, Fourth Street, and Nort
 
 (Mar. 24, 1937, ch. 50, §1, 50 Stat. 51.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Smithsonian American Art Museum ####
 
 Pub. L. 106–385, Oct. 27, 2000, 114 Stat. 1463, provided that:

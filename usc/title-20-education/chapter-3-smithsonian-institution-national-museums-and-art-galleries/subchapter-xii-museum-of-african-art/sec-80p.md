@@ -10,6 +10,8 @@ There is authorized to be appropriated for the first fiscal year under this subc
 
 (Pub. L. 95–414, §6, Oct. 5, 1978, 92 Stat. 912.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective, except for the provisions in subsec. (b) of this section, on the date of transfer of a deed or other instrument under the provisions of section 80k of this title, see section 7 of Pub. L. 95–414, set out as a note under section 80k of this title.

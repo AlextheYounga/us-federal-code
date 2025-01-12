@@ -22,6 +22,8 @@ Congress finds the following:
 
 (Pub. L. 116–260, div. T, title I, §102, Dec. 27, 2020, 134 Stat. 2272.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 116–260, div. T, title I, §101, Dec. 27, 2020, 134 Stat. 2272, provided that: "This title [enacting this subchapter] may be cited as the 'Smithsonian American Women's History Museum Act'."

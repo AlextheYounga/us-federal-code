@@ -154,7 +154,7 @@ Not later than September 30 of the first full fiscal year after the date on whic
 
 #### (c) Chronic wasting disease transmission in cervidae resource study ####
 
-#### (1) Definition of academy ####
+#### (1) Definition of Academy ####
 
 In this subsection, the term "Academy" means the National Academy of Sciences.
 

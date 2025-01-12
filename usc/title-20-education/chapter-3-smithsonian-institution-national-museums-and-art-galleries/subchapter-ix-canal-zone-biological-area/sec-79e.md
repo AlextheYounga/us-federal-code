@@ -4,6 +4,8 @@ There are authorized to be appropriated annually, from money in the Treasury of 
 
 (July 2, 1940, ch. 516, §7, 54 Stat. 725; Pub. L. 89–280, §1, Oct. 20, 1965, 79 Stat. 1012; Pub. L. 96–89, §1, Oct. 19, 1979, 93 Stat. 697; Pub. L. 98–57, §1, July 22, 1983, 97 Stat. 293.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 1387 of Title 48, Territories and Insular Possessions.
@@ -15,6 +17,8 @@ Section was formerly classified to section 1387 of Title 48, Territories and Ins
 **1979**—Pub. L. 96–89 substituted "$750,000" for "$350,000".
 
 **1965**—Pub. L. 89–280 substituted "$350,000" for "$10,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1983 Amendment ####
 

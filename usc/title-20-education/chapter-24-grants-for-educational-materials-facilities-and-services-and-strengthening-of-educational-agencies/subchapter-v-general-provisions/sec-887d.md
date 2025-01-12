@@ -2,6 +2,8 @@
 
 Section, Pub. L. 89–10, title VIII, §811, as added Pub. L. 92–318, title V, §505(a)(3), June 23, 1972, 86 Stat. 348; amended Pub. L. 93–380, title IV, §407(a), Aug. 21, 1974, 88 Stat. 553, related to consumers' education programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 30, 1979, see section 301(b)(1) of Pub. L. 95–561.

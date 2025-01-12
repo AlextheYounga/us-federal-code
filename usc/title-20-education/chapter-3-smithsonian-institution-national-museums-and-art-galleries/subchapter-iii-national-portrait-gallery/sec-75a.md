@@ -14,9 +14,13 @@ For the purposes of this subchapter—
 
 (Pub. L. 87–443, §2, Apr. 27, 1962, 76 Stat. 62; Pub. L. 94–209, Feb. 5, 1976, 90 Stat. 30.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Subsec. (e). Pub. L. 94–209 substituted "includes portraits and reproductions thereof made by any means or process, whether invented or developed heretofore or hereafter" for "for purposes of this subchapter shall mean painted or sculptured likenesses".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

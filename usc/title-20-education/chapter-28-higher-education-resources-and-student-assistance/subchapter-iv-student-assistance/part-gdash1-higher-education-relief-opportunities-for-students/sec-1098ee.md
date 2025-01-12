@@ -40,6 +40,8 @@ The term "qualifying National Guard duty during a war or other military operatio
 
 (Pub. L. 108–76, §5, Aug. 18, 2003, 117 Stat. 906.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly set out in a note under section 1070 of this title.

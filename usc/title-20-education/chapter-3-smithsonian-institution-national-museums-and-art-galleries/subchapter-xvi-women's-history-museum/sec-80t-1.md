@@ -16,6 +16,8 @@ The purpose of the Museum established under this section shall be to provide for
 
 (Pub. L. 116–260, div. T, title I, §103, Dec. 27, 2020, 134 Stat. 2273.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a), was in the original "this Act", and was translated as reading "this title", meaning title I of div. T of Pub. L. 116–260, known as the Smithsonian American Women's History Museum Act, which is classified to this subchapter, to reflect the probable intent of Congress.

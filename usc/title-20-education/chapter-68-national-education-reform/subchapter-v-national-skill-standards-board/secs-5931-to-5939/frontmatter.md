@@ -18,6 +18,8 @@ Section 5938, Pub. L. 103–227, title V, §508, Mar. 31, 1994, 108 Stat. 200; P
 
 Section 5939, Pub. L. 103–227, title V, §509, Mar. 31, 1994, 108 Stat. 200, repealed this subchapter effective Sept. 30, 1999.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 30, 1999, see section 509(a) of Pub. L. 103–227, which was formerly classified to section 5939(a) of this title.

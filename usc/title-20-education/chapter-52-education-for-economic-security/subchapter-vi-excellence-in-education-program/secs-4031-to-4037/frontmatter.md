@@ -14,6 +14,8 @@ Section 4036, Pub. L. 98–377, title VI, §607, Aug. 11, 1984, 98 Stat. 1298, r
 
 Section 4037, Pub. L. 98–377, title VI, §608, Aug. 11, 1984, 98 Stat. 1298, related to research, evaluation, dissemination, and monitoring activities.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of this title.

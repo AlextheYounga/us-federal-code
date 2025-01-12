@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—GENERAL PROVISIONS ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 115–224, title II, §201(a)(5), July 31, 2018, 132 Stat. 1621, redesignated subchapter III (§2391 et seq.) of this chapter as this subchapter.

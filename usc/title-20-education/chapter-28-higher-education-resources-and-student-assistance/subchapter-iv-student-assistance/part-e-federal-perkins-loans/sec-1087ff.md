@@ -24,6 +24,8 @@ Beginning October 1, 2017, each institution with which the Secretary has made an
 
 (Pub. L. 89–329, title IV, §466, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102–325, title IV, §466, July 23, 1992, 106 Stat. 584; Pub. L. 103–208, §2(f)(15), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §466, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 110–84, title V, §501, Sept. 27, 2007, 121 Stat. 801; Pub. L. 114–105, §2(b), Dec. 18, 2015, 129 Stat. 2220.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94–482, title I, §130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96–374, title IV, §442(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds, prior to the general revision of this part by Pub. L. 99–498.
@@ -53,6 +55,8 @@ Subsec. (c)(1). Pub. L. 105–244, §466(3), substituted "2004" for "1997" in in
 **1992**—Subsec. (b). Pub. L. 102–325, §466(1), substituted "2005" for "1997".
 
 Subsec. (c). Pub. L. 102–325, §466(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

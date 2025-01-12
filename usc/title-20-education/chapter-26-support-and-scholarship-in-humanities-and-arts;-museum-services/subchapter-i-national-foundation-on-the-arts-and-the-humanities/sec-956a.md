@@ -12,6 +12,8 @@ An application process shall be established no later than March 1, 1986, and ini
 
 (Pub. L. 99–190, §101(d) [title II, §201], Dec. 19, 1985, 99 Stat. 1224, 1261; Pub. L. 99–500, §101(h) [title II, §201], Oct. 18, 1986, 100 Stat. 1783–242, 1783–281, and Pub. L. 99–591, §101(h) [title II, §201], Oct. 30, 1986, 100 Stat. 3341–242, 3341–281; Pub. L. 100–202, §101(g) [title II, §201], Dec. 22, 1987, 101 Stat. 1329–213, 1329–250; Pub. L. 101–121, title II, Oct. 23, 1989, 103 Stat. 739; Pub. L. 106–219, §2, June 20, 2000, 114 Stat. 346; Pub. L. 108–81, title V, §502(b), Sept. 25, 2003, 117 Stat. 1003; Pub. L. 111–88, div. A, title IV, §418, Oct. 30, 2009, 123 Stat. 2960; Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1035.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -33,6 +35,8 @@ Section was not enacted as part of the National Foundation on the Arts and the H
 **1987**—Pub. L. 100–202 substituted "direction of the Commission of Fine Arts" for "direction of the National Endowment for the Humanities" in first par. and amended third par. generally. Prior to amendment, third par. read as follows: "The Chairman of the National Endowment for the Humanities shall establish an application process and shall, along with the Chairman of the National Endowment for the Arts and the Chairman of the Commission on Fine Arts determine the eligibility of applicant organizations in addition to those herein named."
 
 **1986**—Pub. L. 99–500 and Pub. L. 99–591 substituted "whose primary purpose is" for "which are engaged primarily in" in first par. and "annual income, exclusive of Federal Funds," for "an annual operating budget", "operating budget", and "operating budgets" in third and fourth pars.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Redesignation of Capital Children's Museum as National Children's Museum ####
 

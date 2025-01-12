@@ -6,6 +6,8 @@ Section 9242, Pub. L. 105–220, title II, §232, Aug. 7, 1998, 112 Stat. 1072, 
 
 Section 9243, Pub. L. 105–220, title II, §233, Aug. 7, 1998, 112 Stat. 1072, related to local administrative cost limits.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.

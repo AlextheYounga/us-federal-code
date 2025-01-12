@@ -418,6 +418,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(l)(2), Dec. 27, 2020, 134
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(3), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended this section and section 1070a–6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
@@ -551,6 +553,8 @@ Subsecs. (b), (c). Pub. L. 100–50, §14(28)(E), substituted subsec. (b) consis
 Subsec. (d)(2)(F). Pub. L. 100–50, §14(28)(F), substituted "annual total resources (including all sources of resources other than parents)" for "an annual total income".
 
 Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

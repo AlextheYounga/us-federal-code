@@ -84,6 +84,8 @@ which plaque or inscription is permitted under policies of the Board in effect o
 
 (Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, §3(a), Nov. 19, 1997, 111 Stat. 2149; Pub. L. 105–226, §§2, 3, Aug. 12, 1998, 112 Stat. 1513; Pub. L. 107–224, §4(a), Sept. 18, 2002, 116 Stat. 1343.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsec. (a)(2)(D). Pub. L. 107–224 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price."
@@ -109,6 +111,8 @@ Subsec. (a)(1)(H)(ii). Pub. L. 105–226, §3, amended cl. (ii) generally. Prior
 **1983**—Pub. L. 98–205 designated existing provisions as subsec. (a) and added subsec. (b).
 
 **1964**—Pub. L. 88–260 struck out "and" at end of par. (3), substituted "John F. Kennedy Center for the Performing Arts" for "Cultural Center" in par. (4), and added par. (5).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Commemoration of the John F. Kennedy Center for the Performing Arts ####
 

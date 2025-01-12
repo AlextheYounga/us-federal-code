@@ -1,5 +1,7 @@
 ### §§8671 to 8678. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 8671, Pub. L. 89–10, title XIII, §13301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3882, which established regional mathematics and science education consortia program, was renumbered section 1021 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by Pub. L. 107–110, title X, §1023(a), (b), Jan. 8, 2002, 115 Stat. 1987, transferred to section 6055 of this title, and subsequently repealed.

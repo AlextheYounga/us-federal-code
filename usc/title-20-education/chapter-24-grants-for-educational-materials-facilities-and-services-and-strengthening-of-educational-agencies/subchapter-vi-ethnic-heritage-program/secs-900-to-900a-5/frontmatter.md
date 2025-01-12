@@ -1,5 +1,7 @@
 ### §§900 to 900a–5. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general revision of title IX of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, title IX, as added Pub. L. 92–318, title V, §504(a), June 23, 1972, 86 Stat. 347, by Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2292.

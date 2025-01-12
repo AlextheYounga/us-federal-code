@@ -74,6 +74,8 @@ Subject to approval of the Secretary of the Interior under section 76j(a)(2)(F) 
 
 (Pub. L. 85–874, §5, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, §4, July 21, 1994, 108 Stat. 1413; Pub. L. 105–95, §3(b), Nov. 19, 1997, 111 Stat. 2149.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), is Pub. L. 103–279, July 21, 1994, 108 Stat. 1409, which enacted sections 76r and 76s of this title, amended this section, sections 76h, 76j, 76l, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, and enacted and amended provisions set out as notes under section 76h of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 76h of this title and Tables.

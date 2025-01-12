@@ -66,11 +66,11 @@ For purposes of this subsection, the term "public safety officer" means—
 
 (II) at a planned special event.
 
-(Pub. L. 89–329, title IV, §473, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1455; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 586; Pub. L. 105–244, title IV, §480(b), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 111–39, title IV, §406(a)(1), July 1, 2009, 123 Stat. 1948; Pub. L. 115–141, div. H, title III, §317, Mar. 23, 2018, 132 Stat. 753; Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3140.)
+(Pub. L. 89–329, title IV, §473, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1455; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 586; Pub. L. 105–244, title IV, §480(b), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 111–39, title IV, §406(a)(1), July 1, 2009, 123 Stat. 1948; Pub. L. 115–141, div. H, title III, §317, Mar. 23, 2018, 132 Stat. 753; Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3138.)
 
 #### Amendment of Section ####
 
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3140, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 #### §1087mm. Special rules for student aid index ####
 
@@ -87,6 +87,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 St
 *Notwithstanding subsection (b), for an applicant (or, as applicable, an applicant and spouse, or an applicant's parents) who is not required to file a Federal tax return for the second preceding tax year, the Secretary shall for the purposes of this subchapter consider the student aid index as equal to − $1,500 for the applicant.*
 
 See 2020 Amendment note below.
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
@@ -109,6 +111,8 @@ Subsec. (b)(4), (5). Pub. L. 115–141, §317(3), added pars. (4) and (5).
 **1998**—Pub. L. 105–244 substituted "subpart 2" for "subpart 4".
 
 **1992**—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "For the purpose of this subchapter, except subparts 1 and 3 of part A, the term 'family contribution' with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

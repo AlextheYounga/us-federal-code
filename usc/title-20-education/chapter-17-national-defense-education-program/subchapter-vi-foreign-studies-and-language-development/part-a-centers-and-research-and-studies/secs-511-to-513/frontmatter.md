@@ -8,6 +8,8 @@ Section 512a, Pub. L. 85–864, title VI, §603, as added Pub. L. 94–482, titl
 
 Section 513, Pub. L. 85–864, title VI, §604, formerly §603, Sept. 2, 1958, 72 Stat. 1594; Pub. L. 88–665, title VI, §601(b), Oct. 16, 1964, 78 Stat. 1107; Pub. L. 90–575, title III, §331(b), Oct. 16, 1968, 82 Stat. 1057; Pub. L. 92–318, title I, §182(b), June 23, 1972, 86 Stat. 312; renumbered and amended Pub. L. 94–482, title III, §302(b), (c), Oct. 12, 1976, 90 Stat. 2215, 2216; Pub. L. 95–43, §1(c), June 15, 1977, 91 Stat. 219; Pub. L. 96–49, §15, Aug. 13, 1979, 93 Stat. 354, authorized appropriations for foreign studies and language development program. See section 1130b of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1980, see section 1393 of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under section 1001 of this title.

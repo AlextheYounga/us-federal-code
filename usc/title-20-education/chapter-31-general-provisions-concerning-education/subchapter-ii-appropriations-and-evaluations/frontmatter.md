@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—APPROPRIATIONS AND EVALUATIONS ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326, redesignated subchapter I as II. Former subchapter II redesignated III.

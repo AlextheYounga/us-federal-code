@@ -1,5 +1,7 @@
 ### §§821 to 827. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general revision of title II of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 36, by Pub. L. 95–561, title II, §201, Nov. 1, 1978, 92 Stat. 2201.

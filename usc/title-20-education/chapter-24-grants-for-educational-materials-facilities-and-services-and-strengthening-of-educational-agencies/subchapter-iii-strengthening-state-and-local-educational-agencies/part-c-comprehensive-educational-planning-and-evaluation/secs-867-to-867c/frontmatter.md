@@ -1,5 +1,7 @@
 ### §§867 to 867c. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general revision of title V of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, title V, Apr. 11, 1965, 79 Stat. 47, by Pub. L. 95–561, title V, §501, Nov. 1, 1978, 92 Stat. 2240.

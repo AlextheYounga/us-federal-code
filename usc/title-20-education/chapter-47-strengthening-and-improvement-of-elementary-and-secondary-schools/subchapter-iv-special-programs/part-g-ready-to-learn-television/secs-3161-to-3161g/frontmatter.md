@@ -1,5 +1,7 @@
 ### §§3161 to 3161g. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Part G of title IV of the Elementary and Secondary Education Act of 1965, comprising this part, was renumbered part F of title IV of the General Education Provisions Act, by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, transferred to subchapter VI (§1235 et seq.) of chapter 31 of this title, and subsequently repealed by Pub. L. 107–110, title X, §1011(3), Jan. 8, 2002, 115 Stat. 1986.

@@ -16,6 +16,8 @@ Section 15ggg, act Aug. 1, 1946, ch. 725, title III, §307, as added Sept. 2, 19
 
 For general subject matter of sections 15aaa to 15ggg, see section 1241 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091, provided that the repeal is effective July 1, 1969.

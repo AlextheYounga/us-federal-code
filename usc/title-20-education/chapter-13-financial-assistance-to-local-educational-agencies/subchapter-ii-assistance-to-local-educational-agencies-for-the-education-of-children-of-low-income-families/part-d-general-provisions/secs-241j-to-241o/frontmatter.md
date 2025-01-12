@@ -12,6 +12,8 @@ Section 241n, act Sept. 30, 1950, ch. 1124, title II, §150, as added Aug. 21, 1
 
 Section 241o, act Sept. 30, 1950, ch. 1124, title II, §151, as added Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(8), 88 Stat. 499; amended Apr. 21, 1976, Pub. L. 94–273, §3(8), 90 Stat. 376; Oct. 12, 1976, Pub. L. 94–482, title V, §501(b)(1)(E), (p), 90 Stat. 2236, 2238, related to system of program evaluation.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as an Effective Date of 1978 Amendment note under section 1221e–3 of this title.

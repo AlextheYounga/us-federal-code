@@ -1,5 +1,7 @@
 ### subpart 4—leveraging educational assistance partnership program ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 105–244, title IV, §407(a)(1), Oct. 7, 1998, 112 Stat. 1666, amended heading generally.

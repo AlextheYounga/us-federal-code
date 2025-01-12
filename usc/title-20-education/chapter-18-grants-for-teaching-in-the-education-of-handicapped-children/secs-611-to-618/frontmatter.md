@@ -16,6 +16,8 @@ Section 617, Pub. L. 85–926, §7, Sept. 6, 1958, 72 Stat. 1777; Pub. L. 88–1
 
 Section 618, Pub. L. 88–164, title III, §302, Oct. 31, 1963, 77 Stat. 295; Pub. L. 89–105, §§4, 5, Aug. 4, 1965, 79 Stat. 429, 430; Pub. L. 90–247, title I, §156, Jan. 2, 1968, 81 Stat. 805, related to research and demonstration projects: authorization of appropriations, installments, advances, or reimbursements, and conditions; advisory committees; panel or experts; compensation and travel expenses; delegation of functions; construction, equipping and operation of facilities; wages of laborers and authority and functions of Secretary of Labor; definition of "construction" and "cost of construction"; and definition of "research and related purposes".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1971, see section 662 of Pub. L. 91–230.

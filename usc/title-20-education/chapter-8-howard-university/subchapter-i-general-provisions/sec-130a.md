@@ -4,6 +4,8 @@ Funds appropriated in this Act or subsequent Departments of Labor, Health and Hu
 
 (Pub. L. 102–394, title III, §301, Oct. 6, 1992, 106 Stat. 1819.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 1993, and contained additional provisions relating to the American Printing House for the Blind, Gallaudet University, and the National Technical Institute for the Deaf, which are set out as sections 106a and 4363 of this title, respectively.

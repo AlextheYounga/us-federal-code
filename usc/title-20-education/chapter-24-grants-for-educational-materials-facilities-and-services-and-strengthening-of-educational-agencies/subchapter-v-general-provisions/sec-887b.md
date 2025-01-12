@@ -4,6 +4,8 @@ Section, Pub. L. 89–10, title VIII, §809, as added Pub. L. 91–230, title I,
 
 Section 109(b) of Pub. L. 93–380 made such authorizations effective on and after July 1, 1974.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1975, see section 402(c)(3) of Pub. L. 93–380.

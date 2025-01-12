@@ -38,6 +38,8 @@ There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such 
 
 (Pub. L. 101–185, §11, Nov. 28, 1989, 103 Stat. 1343; Pub. L. 104–278, §3, Oct. 9, 1996, 110 Stat. 3355.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (a). Pub. L. 104–278, §3(a), designated existing provisions as par. (1), added pars. (2) and (3), and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1).

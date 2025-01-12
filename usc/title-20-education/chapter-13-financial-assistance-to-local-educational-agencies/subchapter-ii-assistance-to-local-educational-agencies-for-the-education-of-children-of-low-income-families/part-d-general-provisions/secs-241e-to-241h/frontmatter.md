@@ -10,6 +10,8 @@ Section 241g, act Sept. 30, 1950, ch. 1124, title II, §143, formerly §207, as 
 
 Section 241h, act Sept. 30, 1950, ch. 1124, title II, §144, formerly §208, as added Apr. 11, 1965, Pub. L. 89–10, title I, §2, 79 Stat. 33, amended Nov. 3, 1966, Pub. L. 89–750, title I, §114, 80 Stat. 1197, renumbered §108 and amended Jan. 2, 1968, Pub. L. 90–247, title I, §§107(b), 110, 81 Stat. 785, 787, renumbered §144 and amended Apr. 13, 1970, Pub. L. 91–230, title I, §113(b)(3), (4), (c), (d), 84 Stat. 126, 129; Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(7), (9)(H), 88 Stat. 498, 500, related to adjustments necessitated by appropriations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as an Effective Date of 1978 Amendment note under section 1221e–3 of this title.

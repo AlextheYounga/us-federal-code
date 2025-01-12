@@ -6,6 +6,8 @@ Section 1173, Pub. L. 89–698, title I, §102, Oct. 29, 1966, 80 Stat. 1067, pr
 
 Section 1174, Pub. L. 89–698, title I, §103, Oct. 29, 1966, 80 Stat. 1068; Pub. L. 91–230, title IV, §401(c)(7), Apr. 13, 1970, 84 Stat. 173, authorized payment in installments and in advance or by way of reimbursement.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Sections repealed effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as an Effective Date of 1980 Amendment note under section 1001 of this title.

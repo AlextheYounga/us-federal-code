@@ -6,6 +6,8 @@ Section 241, acts Sept. 30, 1950, ch. 1124, title I, §6, formerly §6, 64 Stat.
 
 Section 241–1, acts Sept. 30, 1950, ch. 1124, title I, §7, as added Nov. 1, 1965, Pub. L. 89–313, §2, 79 Stat. 1159; amended Jan. 2, 1968, Pub. L. 90–247, title II, §218, 81 Stat. 811; Oct. 21, 1968, Pub. L. 90–608, ch. IV, §402, 82 Stat. 1194; Apr. 13, 1970, Pub. L. 91–230, title II, §201(c), 84 Stat. 154; Dec. 31, 1970, Pub. L. 91–606, title III, §301(e), 84 Stat. 1759; 1973 Reorg. Plan No. I, §§1, 3(a)(1), eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089; Dec. 10, 1973, Ex. Ord. No. 11749, §2(2), 38 F.R. 34177; May 22, 1974, Pub. L. 93–288, title VII, §702(e), formerly title VI, §602(e), 88 Stat. 163, renumbered title VII, §702(e), Oct. 5, 1994, Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), 108 Stat. 3100; Aug. 21, 1974, Pub. L. 93–380, title III, §§303(a)(3), 305(a)(3), 88 Stat. 522, 532; Apr. 21, 1976, Pub. L. 94–273, §3(5), 90 Stat. 376; Nov. 1, 1978, Pub. L. 95–561, title X, §1010(a), 92 Stat. 2310; July 20, 1979, Ex. Ord. No. 12148, §4–106, 44 F.R. 43239; Aug. 6, 1979, Pub. L. 96–46, §3(a), 93 Stat. 342; Oct. 17, 1979, Pub. L. 96–88, title III, §301(b)(2), title V, §507, 93 Stat. 679, 692; Oct. 19, 1984, Pub. L. 98–511, title III, §301(a)(1), 98 Stat. 2388; Apr. 28, 1988, Pub. L. 100–297, title II, §§2011(a)(1), (b), 2012(a), 2017, 102 Stat. 294, 299; Nov. 23, 1988, Pub. L. 100–707, title I, §109(i), 102 Stat. 4709, related to assistance for current school expenditures in cases of certain disasters.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1994, see section 3(a)(3)(B) of Pub. L. 103–382, set out as a note under section 236 of this title.

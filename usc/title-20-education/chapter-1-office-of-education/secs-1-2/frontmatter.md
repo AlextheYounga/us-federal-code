@@ -4,9 +4,13 @@ Section 1, R.S. §516, established Office of Education and provided for purpose 
 
 Section 2, R.S. §517, provided for appointment of a Commissioner of Education to manage Office of Education.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 92–318, title III, §301(b)(2)(A), June 23, 1972, 86 Stat. 332, provided that the repeal is effective July 1, 1972.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11185 ####
 

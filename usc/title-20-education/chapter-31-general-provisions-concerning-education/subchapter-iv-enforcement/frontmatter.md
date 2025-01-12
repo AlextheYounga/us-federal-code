@@ -1,5 +1,7 @@
 ### SUBCHAPTER IV—ENFORCEMENT ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 103–382, title II, §212(b)(2), Oct. 20, 1994, 108 Stat. 3913, redesignated subchapter V of this chapter as this subchapter.

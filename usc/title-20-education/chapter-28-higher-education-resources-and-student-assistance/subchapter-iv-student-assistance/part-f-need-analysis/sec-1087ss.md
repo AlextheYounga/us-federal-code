@@ -230,6 +230,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 St
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -333,6 +335,8 @@ Subsec. (b)(2). Pub. L. 100–50, §14(24)(A), struck out "and State" after "Fed
 Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

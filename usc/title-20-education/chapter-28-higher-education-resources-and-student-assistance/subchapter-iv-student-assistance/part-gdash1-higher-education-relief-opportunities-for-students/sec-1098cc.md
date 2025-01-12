@@ -14,6 +14,8 @@ For purposes of this section, a full refund includes a refund of required tuitio
 
 (Pub. L. 108–76, §3, Aug. 18, 2003, 117 Stat. 906.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly set out in a note under section 1070 of this title.

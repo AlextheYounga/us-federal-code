@@ -4,6 +4,8 @@ The chancellor of the Smithsonian Institution may, by an instrument in writing f
 
 (May 13, 1884, ch. 44, 23 Stat. 21.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Similar prior provisions were contained in act Jan. 24, 1879, ch. 21, 20 Stat. 264.

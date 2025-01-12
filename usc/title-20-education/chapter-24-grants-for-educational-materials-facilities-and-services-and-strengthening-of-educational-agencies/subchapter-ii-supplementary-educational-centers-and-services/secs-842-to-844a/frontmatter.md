@@ -1,5 +1,7 @@
 ### §§842 to 844a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general revision of title III of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, title III, Apr. 11, 1965, 79 Stat. 39, by Pub. L. 95–561, title III, §301, Nov. 1, 1978, 92 Stat. 2210.

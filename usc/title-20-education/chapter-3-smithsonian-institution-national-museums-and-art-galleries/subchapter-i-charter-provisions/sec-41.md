@@ -4,6 +4,8 @@ The President, the Vice President, the Chief Justice, and the heads of executive
 
 (R.S. §5579; Feb. 27, 1877, ch. 69, 19 Stat. 253; Mar. 12, 1894, ch. 36, 28 Stat. 41.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5579 derived from acts Aug. 10, 1846, ch. 178, §1, 9 Stat. 102; Mar. 20, 1871, ch. 1, 17 Stat. 1.
@@ -17,6 +19,8 @@ R.S. §5579, as originally enacted, constituted the President, the Vice-Presiden
 **1894**—Act Mar. 12, 1894, substituted "the Chief Justice, and heads of executive departments" for "the Secretary of State, the Secretary of the Treasury, the Secretary of War, the Secretary of the Navy, the Postmaster-General, the Attorney General, the Chief Justice, the Commissioner of Patents, the governor of the District of Columbia, and other such persons as they may elect honorary members".
 
 **1877**—Act Feb. 27, 1877, substituted "Patents" for "Patent Office".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2003 Amendment ####
 

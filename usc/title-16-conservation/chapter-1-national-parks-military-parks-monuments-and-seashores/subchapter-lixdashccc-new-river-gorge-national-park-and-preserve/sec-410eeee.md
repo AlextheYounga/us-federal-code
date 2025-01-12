@@ -1,4 +1,4 @@
-### §410eeee. New River Gorge National Park and Preserve Designation. ###
+### §410eeee. New River Gorge National Park and Preserve Designation ###
 
 #### (a) Short title ####
 
@@ -106,7 +106,7 @@ Commercial recreational watercraft services within the New River Gorge National 
 
 Any reference in a law, map, regulation, document, paper, or other record of the United States to the New River Gorge National River shall be considered to be a reference to the "New River Gorge National Park" or the "New River Gorge National Preserve", as appropriate.
 
-#### (d) Authorization of Appropriations ####
+#### (d) Authorization of appropriations ####
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
@@ -120,7 +120,7 @@ Section 402 of the West Virginia National Interest River Conservation Act of 198
 
 #### Codification ####
 
-Section was enacted as part of the New River Gorge National Park and Preserve Designation Act, and not as part of title XI of the National Parks and Recreation Act of 1978 which comprises this subchapter.
+Section was enacted as part of the New River Gorge National Park and Preserve Designation Act and as part of the Consolidated Appropriations Act, 2021, and not as part of title XI of the National Parks and Recreation Act of 1978 which comprises this subchapter.
 
 #### Short Title of 2002 Amendment ####
 

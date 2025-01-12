@@ -12,6 +12,8 @@
 
 (Pub. L. 98–480, title II, §206, Oct. 17, 1984, 98 Stat. 2247.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This subchapter, the first time it appears in subsec. (b), was in the original "this Act" which was translated as reading "this title", meaning title II of Pub. L. 98–480, Oct. 17, 1984, 98 Stat. 2236, as the probable intent of Congress.

@@ -16,6 +16,8 @@ Section 351f, act June 19, 1956, ch. 407, §8, as added Oct. 7, 1977, Pub. L. 95
 
 Section 351g, act June 19, 1956, ch. 407, §9, as added Mar. 15, 1990, Pub. L. 101–254, §8(a), 104 Stat. 104, prohibited contracting out or transferring from Federal Government certain activities or functions of Department of Education Research Library.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act June 19, 1956, ch. 407, §1, 70 Stat. 293, as amended by Pub. L. 88–269, §10(a), Feb. 11, 1964, 78 Stat. 16, which provided that this chapter be cited as the "Library Services and Construction Act", was repealed by Pub. L. 104–208, div. A, title I, §101(e) [title VII, §708(a)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.

@@ -1,5 +1,7 @@
 ### Part F—General Provisions ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–95, title I, §1501(a)(2), Dec. 10, 2015, 129 Stat. 1905, redesignated part I (§6571 et seq.) of this subchapter as part F of this subchapter.

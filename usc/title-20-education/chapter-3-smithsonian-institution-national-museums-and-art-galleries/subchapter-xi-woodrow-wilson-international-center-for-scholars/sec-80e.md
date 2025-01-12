@@ -12,6 +12,8 @@ The Congress hereby finds and declares—
 
 (Pub. L. 90–637, §2, Oct. 24, 1968, 82 Stat. 1357.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 90–637, §1, Oct. 24, 1968, 82 Stat. 1356, provided: "That this Act [enacting this subchapter] may be cited as the 'Woodrow Wilson Memorial Act of 1968'."

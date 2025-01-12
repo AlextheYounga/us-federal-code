@@ -30,11 +30,15 @@ There is authorized to be appropriated $2,000,000 for each fiscal year, beginnin
 
 (Pub. L. 101–185, §10, Nov. 28, 1989, 103 Stat. 1342; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(B), Aug. 14, 2008, 122 Stat. 3465.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (b)(2). Pub. L. 110–315 substituted "tribally controlled colleges or universities (as defined in section 1801(a) of title 25)" for "tribally controlled community colleges (as defined in section 1801 of title 25)".
 
 **1998**—Subsec. (b)(2). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801 of title 25.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

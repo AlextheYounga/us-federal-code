@@ -88,6 +88,8 @@ may continue to teach in such school and shall be eligible for loan cancellation
 
 (Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A)(i), (L), (M), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -175,6 +177,8 @@ Subsec. (a)(3)(A)(i). Pub. L. 101–647, §2101(b), which directed amendment of 
 **1987**—Subsec. (a)(2)(A). Pub. L. 100–50, §13(j)(1), (2), substituted "chapter 1 of the Education Consolidation and Improvement Act of 1981" for "title I of the Elementary and Secondary Education Act of 1965" and "such chapter 1" for "such title I".
 
 Subsec. (a)(2)(B). Pub. L. 100–50, §13(j)(3), substituted "the Head Start Act" for "section 2809(a)(1) of title 42".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment ####
 

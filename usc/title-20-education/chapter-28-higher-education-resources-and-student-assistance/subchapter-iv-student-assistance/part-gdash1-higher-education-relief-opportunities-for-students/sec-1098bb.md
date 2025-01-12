@@ -44,6 +44,8 @@ Sections 482(c) and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 
 
 (Pub. L. 108–76, §2, Aug. 18, 2003, 117 Stat. 904.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
@@ -53,6 +55,8 @@ The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L
 Section was formerly set out in a note under section 1070 of this title.
 
 Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

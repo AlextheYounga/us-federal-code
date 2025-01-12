@@ -124,6 +124,8 @@ Sec.
 
 1482. Administrative provisions.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The Individuals with Disabilities Education Act, comprising this chapter, was originally enacted as title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, known as the Education of the Handicapped Act, and amended by Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 94–142, Nov. 29, 1975, 89 Stat. 773; Pub. L. 95–49, June 17, 1977, 91 Stat. 230; Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143; Pub. L. 96–270, June 14, 1980, 94 Stat. 487; Pub. L. 98–199, Dec. 2, 1983, 97 Stat. 1357; Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887; Pub. L. 99–362, July 9, 1986, 100 Stat. 769; Pub. L. 99–372, Aug. 5, 1986, 100 Stat. 796; Pub. L. 99–457, Oct. 8, 1986, 100 Stat. 1145; Pub. L. 100–630, Nov. 7, 1988, 102 Stat. 3289; Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 102–73, July 25, 1991, 105 Stat. 333; Pub. L. 102–119, Oct. 7, 1991, 105 Stat. 587; Pub. L. 102–421, Oct. 16, 1992, 106 Stat. 2151; Pub. L. 102–569, Oct. 29, 1992, 106 Stat. 4344; Pub. L. 103–73, Aug. 11, 1993, 107 Stat. 718; Pub. L. 103–218, Mar. 9, 1994, 108 Stat. 50; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518; Pub. L. 105–17, June 4, 1997, 111 Stat. 37; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581; Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41; Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677; Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425; Pub. L. 108–173, Dec. 8, 2003, 117 Stat. 2066. Title VI is shown herein, however, as having been added by Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2647, without reference to those intervening amendments because of the extensive revision of title VI by Pub. L. 108–446.

@@ -14,9 +14,13 @@ For purposes of this subchapter—
 
 (Pub. L. 98–480, title II, §202, Oct. 17, 1984, 98 Stat. 2245.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 2, 1867, referred to in par. (5), is act Mar. 2, 1867, ch. 162, 14 Stat. 438, as amended. Section 8 of this Act is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

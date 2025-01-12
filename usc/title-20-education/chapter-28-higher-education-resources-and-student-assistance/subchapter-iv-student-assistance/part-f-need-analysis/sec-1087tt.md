@@ -228,6 +228,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(i), Dec. 27, 2020, 134 St
 
 See 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1087tt, Pub. L. 89–329, title IV, §479A, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
@@ -251,6 +253,8 @@ Subsec. (c). Pub. L. 105–244, §478(2), amended heading and text of subsec. (c
 **1992**—Pub. L. 102–325 amended section generally, revising and restating provisions of subsecs. (a) and (b) and striking out former subsec. (c) which related to asset adjustment as example.
 
 **1989**—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B, C, and E of this subchapter."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

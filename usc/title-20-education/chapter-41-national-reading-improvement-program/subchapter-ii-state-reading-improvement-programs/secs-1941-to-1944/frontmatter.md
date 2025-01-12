@@ -8,6 +8,8 @@ Section 1943, Pub. L. 93–380, title VII, §713, Aug. 21, 1974, 88 Stat. 591, s
 
 Section 1944, Pub. L. 93–380, title VII, §714, Aug. 21, 1974, 88 Stat. 592; Pub. L. 94–194, §4, Dec. 31, 1975, 89 Stat. 1104, set forth provisions respecting requirements for grants for State reading improvement programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 1530(a) of Pub. L. 95–561, set out as an Effective Date of 1978 Amendment note under section 1221e–3 of this title.

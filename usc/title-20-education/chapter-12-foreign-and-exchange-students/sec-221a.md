@@ -4,6 +4,8 @@ After June 26, 1946, no person shall have authority to permit citizens of the Am
 
 (June 26, 1946, ch. 493, §2, 60 Stat. 312.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Words "section 347 of title 10" substituted in text for "sections 4344 and 9344 of title 10" in view of repeal of sections 4344 and 9344 of title 10 by Pub. L. 114–328, div. A, title XII, §1248(b)(1), Dec. 23, 2016, 130 Stat. 2525 and enactment of section 347 of title 10 by Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522. Words "sections 4344 and 9344 of title 10" substituted in text for "section 1 of this Act", meaning section 1 of act June 27, 1946, ch. 493, 60 Stat. 311, on authority of act Aug. 10, 1956, §49(b), ch. 1041, 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.

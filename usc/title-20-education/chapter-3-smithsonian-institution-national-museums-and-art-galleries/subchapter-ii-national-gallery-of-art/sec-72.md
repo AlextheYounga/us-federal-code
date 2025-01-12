@@ -10,6 +10,8 @@ The general trustees first taking office shall be chosen by the Board of Regents
 
 (Mar. 24, 1937, ch. 50, §2, 50 Stat. 52.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Delegation of Functions by Secretary of State to Director of United States Information Agency ####
 
 Pub. L. 95–426, title II, §205, Oct. 7, 1978, 92 Stat. 975, as amended by Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291, provided that: "The Secretary of State may delegate to the Director of the United States Information Agency, with the consent of the Director, the functions vested in the Secretary by section 2(a) of the joint resolution entitled 'Joint Resolution providing for the construction and maintenance of a National Gallery of Art', approved March 24, 1937 (20 U.S.C. 72(a))."

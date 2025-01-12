@@ -14,6 +14,8 @@ There is hereby established in the Treasury of the United States a sinking fund,
 
 (Pub. L. 85–874, §9, as added Pub. L. 88–260, §1(6), Jan. 23, 1964, 78 Stat. 5; amended Pub. L. 91–90, §1(b), Oct. 17, 1969, 83 Stat. 135; Pub. L. 98–473, title I, §101(c), Oct. 12, 1984, 98 Stat. 1837, 1876; Pub. L. 101–449, §4, Oct. 22, 1990, 104 Stat. 1051.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (a). Pub. L. 101–449 substituted "chapter 31 of title 31" for "the Second Liberty Bond Act, as amended," in two places.

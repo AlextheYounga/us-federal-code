@@ -1,5 +1,7 @@
 ### SUBCHAPTER V—FLEXIBILITY AND ACCOUNTABILITY ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, redesignated subchapter VI (§7301 et seq.) of this chapter as this subchapter.

@@ -1,5 +1,7 @@
 ### Part D—Historically Black College and University Capital Financing ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 105–244, title III, §301(a)(3), Oct. 7, 1998, 112 Stat. 1636, redesignated part B of subchapter VII of this chapter as part D of subchapter III of this chapter.

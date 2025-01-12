@@ -270,6 +270,8 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), (3), (4), Dec. 27, 20
 
 See 2020 Amendment notes below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1087aa of this title, referred to in subsecs. (a)(1) and (b)(1), (2)(A)(i), was amended by Pub. L. 114–105, §2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
@@ -449,6 +451,8 @@ Subsec. (d)(3), (4). Pub. L. 100–50, §13(b), redesignated par. (3), defining 
 Subsec. (e). Pub. L. 100–50, §13(c), struck out "; cash on hand" after "collections" in heading.
 
 Subsec. (f). Pub. L. 100–50, §13(d), substituted "subsection (g) of this section" for "paragraph (2)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

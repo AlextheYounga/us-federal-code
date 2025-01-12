@@ -4,6 +4,8 @@ As used in this subchapter, the terms "building and site of the John F. Kennedy 
 
 (Pub. L. 85–874, §14, formerly §13, as added Pub. L. 103–279, §8, July 21, 1994, 108 Stat. 1416; amended Pub. L. 105–95, §4, Nov. 19, 1997, 111 Stat. 2149; renumbered §14 and amended Pub. L. 107–224, §§2(1), 4(b), Sept. 18, 2002, 116 Stat. 1340, 1343.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–224, §4(b), inserted at end: "Upon completion of the project for establishment of the John F. Kennedy Center Plaza authorized by section 76q–1 of this title, the Board, in consultation with the Secretary of Transportation, shall amend the map that is on file and available for public inspection under the preceding sentence."

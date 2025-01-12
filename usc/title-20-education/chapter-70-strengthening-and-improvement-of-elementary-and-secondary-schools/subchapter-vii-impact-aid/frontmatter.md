@@ -1,5 +1,7 @@
 ### SUBCHAPTER VII—IMPACT AID ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–95, title VII, §7001(c), Dec. 10, 2015, 129 Stat. 2074, redesignated subchapter VIII (§7701 et seq.) of this chapter as this subchapter.

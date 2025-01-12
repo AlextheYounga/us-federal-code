@@ -4,11 +4,13 @@ All collections of rocks, minerals, soils, fossils, and objects of natural histo
 
 (Mar. 3, 1879, ch. 182, §1, 20 Stat. 394; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Words "Coast and Interior Survey" appearing in act Mar. 3, 1879, were in prior editions of the Code changed to "Coast and Geodetic Survey." Congress never created a Coast and Interior Survey. In a communication dated Nov. 6, 1940, the Director of the Geological Survey explained that the words "Coast and Interior Survey" were inadvertently incorporated upon authority of report contained in Senate Misc. Doc. No. 9, 45th Congress, 3d Session, which recommended the "Coast and Geodetic Survey" be changed to "United States Coast and Interior Survey" and an organization be created in the Interior Department to be known as the "United States Geological Survey." Congress adopted only the latter suggestion.
 
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
@@ -27,3 +29,9 @@ For provision deeming references to the Museum of History and Technology in laws
 #### Museum of History and Technology for the Smithsonian Institution ####
 
 Act June 28, 1955, ch. 201, 69 Stat. 189, authorized construction of a building for a Museum of History and Technology, which was redesignated the National Museum of American History, for the use of the Smithsonian Institution, at a cost not to exceed $36,000,000.
+
+#### **Executive Documents** ####
+
+#### Change of Name ####
+
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.

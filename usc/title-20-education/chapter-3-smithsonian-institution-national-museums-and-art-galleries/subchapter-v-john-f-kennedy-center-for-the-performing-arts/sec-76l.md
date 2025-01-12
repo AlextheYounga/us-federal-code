@@ -28,6 +28,8 @@ For the purposes of chapter 171 of title 28, an employee of the Board shall be c
 
 (Pub. L. 85–874, §6, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–100, §3, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(4), (5), Jan. 23, 1964, 78 Stat. 4; Pub. L. 92–313, §10, June 16, 1972, 86 Stat. 222; Pub. L. 93–67, July 10, 1973, 87 Stat. 161; Pub. L. 94–119, §§1, 2, Oct. 21, 1975, 89 Stat. 608; Pub. L. 94–578, title III, §314, Oct. 21, 1976, 90 Stat. 2737; Pub. L. 95–50, §2, June 20, 1977, 91 Stat. 232; Pub. L. 95–305, June 29, 1978, 92 Stat. 348; Pub. L. 96–587, §1, Dec. 23, 1980, 94 Stat. 3387; Pub. L. 97–73, Nov. 3, 1981, 95 Stat. 1064; Pub. L. 97–202, June 24, 1982, 96 Stat. 128; Pub. L. 101–449, §§1–3, Oct. 22, 1990, 104 Stat. 1050; Pub. L. 102–500, §1, Oct. 24, 1992, 106 Stat. 3267; Pub. L. 103–279, §5, July 21, 1994, 108 Stat. 1414; Pub. L. 105–226, §4, Aug. 12, 1998, 112 Stat. 1513.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 76r of this title, referred to in subsec. (d), was in the original a reference to section 12 of Pub. L. 85–874. Section 12 of Pub. L. 85–874 was renumbered as section 13, and a new section 12 was added, by Pub. L. 107–224, §2, Sept. 18, 2002, 116 Stat. 1340. Sections 12 and 13 are classified to sections 76q–1 and 76r, respectively, of this title.
@@ -87,6 +89,8 @@ Subsec. (f). Pub. L. 94–119, §2, added subsec. (f).
 Subsec. (d). Pub. L. 88–260, §1(5), added subsec. (d).
 
 **1963**—Subsec. (a). Pub. L. 88–100 substituted "twelve" for "eight" after "vacancies and".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Reporting Requirements ####
 

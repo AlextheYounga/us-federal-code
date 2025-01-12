@@ -38,6 +38,8 @@ Section 1618, Pub. L. 92–318, title VII, §719, June 23, 1972, 86 Stat. 369, r
 
 Section 1619, Pub. L. 92–318, title VII, §720, June 23, 1972, 86 Stat. 369; Pub. L. 93–380, title VI, §643(d), Aug. 21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §321(c)(3), Oct. 12, 1976, 90 Stat. 2217, defined terms used in this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 95–561, title VI, §601(b)(2), Nov. 1, 1978, 92 Stat. 2268, provided that the repeal is effective Sept. 30, 1979.

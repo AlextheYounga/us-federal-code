@@ -1,5 +1,7 @@
 ### §§481 to 485. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This subchapter is no longer funded and was superseded by title III of the Elementary and Secondary Education Act of 1965, which was classified to subchapter II of chapter 24 of this title. Subchapter II of chapter 24 of this title was omitted in the general revision of title III of the Elementary and Secondary Education Act of 1965 by Pub. L. 95–561.

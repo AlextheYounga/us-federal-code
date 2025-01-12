@@ -1,5 +1,7 @@
 ### §§869, 869a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 869, Pub. L. 89–10, title V, §551, as added Pub. L. 91–230, title I, §143(a)(4)(D), Apr. 13, 1970, 84 Stat. 150, which related to the administration of plans, to hearings, and to the steps following a failure to comply with the provisions related of this subchapter, was omitted in the general revision of title V of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, title V, Apr. 11, 1965, 79 Stat. 47, by Pub. L. 95–561, title V, §501, Nov. 1, 1978, 92 Stat. 2240.
