@@ -74,6 +74,8 @@ Sec. 2
 
 3691. Change of program.
 
+3691A. Withdrawal or leave of absence from certain education.
+
 3692. Advisory committee.
 
 3693. Compliance surveys.
@@ -103,6 +105,8 @@ Sec. 2
 #### Amendments ####
 
 **2023**—Pub. L. 117–333, §§2(b), 11(b), Jan. 5, 2023, 136 Stat. 6125, 6134, redesignated items for subchapter I and subchapter II as subchapter II and subchapter III, respectively, and added item for subchapter I and items 3601 to 3605 and 3672A.
+
+**2022**—Pub. L. 117–328, div. U, title II, §216(b), Dec. 29, 2022, 136 Stat. 5456, added item 3691A.
 
 **2021**—Pub. L. 116–315, title I, §§1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, added items 3673A, 3696, and 3699B and struck out former item 3696 "Limitation on certain advertising, sales, and enrollment practices".
 

@@ -70,7 +70,7 @@ The Laboratory shall begin implementation of this section not later than January
 
 #### (1) In general ####
 
-The Assistant Secretary, in coordination with the Laboratory, may award grants to States, local governments, Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), educational institutions, and nonprofit organizations to develop evidence-based interventions, including culturally and linguistically appropriate services, as appropriate, for—
+The Assistant Secretary, in coordination with the Laboratory, may award grants to States, local governments, Indian Tribes or Tribal organizations (as such terms are defined in section 5304 of title 25), educational institutions, and nonprofit organizations to develop evidence-based interventions, including culturally and linguistically appropriate services, as appropriate, for—
 
 (A) evaluating a model that has been scientifically demonstrated to show promise, but would benefit from further applied development, for—
 
@@ -88,18 +88,20 @@ The Assistant Secretary, in coordination with the Laboratory, may award grants t
 
 In awarding grants under this subsection, the Assistant Secretary shall, as appropriate, consult with the Chief Medical Officer, appointed under section 290aa(g) of this title, the advisory councils described in section 290aa–1 of this title, the National Institute of Mental Health, the National Institute on Drug Abuse, and the National Institute on Alcohol Abuse and Alcoholism, as appropriate.
 
-#### (3) Authorization of appropriations ####
+#### (f) Authorization of appropriations ####
 
-There are authorized to be appropriated—
+To carry out this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2023 through 2027.
 
-(A) to carry out paragraph (1)(A), $7,000,000 for the period of fiscal years 2018 through 2020; and
-
-(B) to carry out paragraph (1)(B), $7,000,000 for the period of fiscal years 2018 through 2020.
-
-(July 1, 1944, ch. 373, title V, §501A, as added Pub. L. 114–255, div. B, title VII, §7001, Dec. 13, 2016, 130 Stat. 1220; amended Pub. L. 115–271, title VII, §7111, Oct. 24, 2018, 132 Stat. 4042.)
+(July 1, 1944, ch. 373, title V, §501A, as added Pub. L. 114–255, div. B, title VII, §7001, Dec. 13, 2016, 130 Stat. 1220; amended Pub. L. 115–271, title VII, §7111, Oct. 24, 2018, 132 Stat. 4042; Pub. L. 117–328, div. FF, title I, §1121(a), Dec. 29, 2022, 136 Stat. 5647.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (e)(1). Pub. L. 117–328, §1121(a)(1), substituted "Indian Tribes or Tribal organizations" for "Indian tribes or tribal organizations" in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 117–328, §1121(a)(2), struck out par. (3) which authorized appropriations for grants for fiscal years 2018 through 2020.
+
+Subsec. (f). Pub. L. 117–328, §1121(a)(3), added subsec. (f).
 
 **2018**—Subsec. (b)(6), (7). Pub. L. 115–271 added par. (6) and redesignated former par. (6) as (7).

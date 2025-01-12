@@ -206,6 +206,24 @@ The determination required by subparagraph (D)(ii) shall be concurred in by a li
 
 (C) Any written request to the Secretary from the sponsor of an investigation that a clinical hold be removed shall receive a decision, in writing and specifying the reasons therefor, within 30 days after receipt of such request. Any such request shall include sufficient information to support the removal of such clinical hold.
 
+(9)(A)(i) <sup><a href="#360j_1_target" name="360j_1">1</a></sup> The sponsor of a device for which submission of an application for an investigational device exemption is required shall submit to the Secretary in such application a diversity action plan for clinical studies of the device, in the form and manner specified in guidance issued by the Secretary.
+
+(ii) The sponsor of a device for which submission of an application for an investigational device exemption is not required, except for a device being studied as described in section 812.2(c) of title 21, Code of Federal Regulations (or successor regulations), shall develop a diversity action plan for any clinical study with respect to the device. Such diversity action plan shall be submitted to the Secretary in any premarket notification under section 360(k) of this title, request for classification under section 360c(f)(2) of this title, or application for premarket approval under section 360e of this title for such device.
+
+(B) A diversity action plan under clause (i) or (ii) of subparagraph (A) shall include—
+
+(i) the sponsor's goals for enrollment in the clinical study;
+
+(ii) the sponsor's rationale for such goals; and
+
+(iii) an explanation of how the sponsor intends to meet such goals.
+
+(C)(i) On the initiative of the Secretary or at the request of a sponsor, the Secretary may waive any requirement in subparagraph (A) or (B) if the Secretary determines that a waiver is necessary based on what is known or can be determined about the prevalence or incidence of the disease or condition for which the device is under investigation (including in terms of the patient population that may use the device), if conducting a clinical investigation in accordance with a diversity action plan would otherwise be impracticable, or if such waiver is necessary to protect public health during a public health emergency.
+
+(ii) The Secretary shall issue a written response granting or denying a request from a sponsor for a waiver within 60 days of receiving such request.
+
+(D) No diversity action plan shall be required for a submission described in section 360bbb of this title.
+
 #### (h) Release of information respecting safety and effectiveness ####
 
 (1) The Secretary shall promulgate regulations under which a detailed summary of information respecting the safety and effectiveness of a device which information was submitted to the Secretary and which was the basis for—
@@ -348,7 +366,7 @@ In a case described in subparagraph (B) in which a physician uses a device witho
 
 (iii) Such person immediately notifies the Secretary if the number of such devices distributed during any calendar year exceeds the annual distribution number referred to in clause (ii).
 
-(iv) The request for such exemption is submitted on or before December 24, 2022.
+(iv) The request for such exemption is submitted on or before October 1, 2027.
 
 (B) The Secretary may inspect the records relating to the number of devices distributed during any calendar year of a person granted an exemption under paragraph (2) for which the prohibition in paragraph (3) does not apply.
 
@@ -380,7 +398,7 @@ In a case described in subparagraph (B) in which a physician uses a device witho
 
 #### (o) Regulation of medical and certain decisions support software ####
 
-(1) The term device,<sup><a href="#360j_1_target" name="360j_1">1</a></sup> as defined in section 321(h) of this title, shall not include a software function that is intended—
+(1) The term device,<sup><a href="#360j_2_target" name="360j_2">2</a></sup> as defined in section 321(h) of this title, shall not include a software function that is intended—
 
 (A) for administrative support of a health care facility, including the processing and maintenance of financial records, claims or billing information, appointment schedules, business analytics, information about patient populations, admissions, practice and inventory management, analysis of historical claims data to predict future utilization or cost-effectiveness, determination of health benefit eligibility, population health management, and laboratory workflow;
 
@@ -478,7 +496,7 @@ For purposes of this subsection—
 
 (B) the term "contrast agent" means a drug that is approved under section 355 of this title or licensed under section 262 of title 42, is intended for use in conjunction with an applicable medical imaging device, and—
 
-(i) is a diagnostic radiopharmaceutical, as defined in section <sup><a href="#360j_2_target" name="360j_2">2</a></sup> 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
+(i) is a diagnostic radiopharmaceutical, as defined in section <sup><a href="#360j_3_target" name="360j_3">3</a></sup> 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
 
 (ii) is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
 
@@ -512,7 +530,11 @@ Such term does not include a personal sound amplification product intended to am
 
 An over-the-counter hearing aid shall be subject to the regulations promulgated in accordance with section 709(b) of the FDA Reauthorization Act of 2017 and shall be exempt from sections 801.420 and 801.421 of title 21, Code of Federal Regulations (or any successor regulations).
 
-(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), title VII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065; Pub. L. 117–180, div. F, title V, §5002, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §303, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–286, §4(a)(156), Dec. 27, 2022, 136 Stat. 4323.)
+(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), title VII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065; Pub. L. 117–180, div. F, title V, §5002, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §303, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–286, §4(a)(156), Dec. 27, 2022, 136 Stat. 4323; Pub. L. 117–328, div. FF, title III, §§3103, 3601(b), Dec. 29, 2022, 136 Stat. 5807, 5861.)
+
+#### Delayed Applicability of Amendment ####
+
+For provisions related to delayed applicability of subsection (g)(9) of this section as added by section 3601(b) of Pub. L. 117–328, see Effective Date of 2022 Amendment note set out under section 355 of this title.
 
 #### **Editorial Notes** ####
 
@@ -530,7 +552,11 @@ In subsec. (k), "section 3324(a) and (b) of title 31 and section 6101 of title 4
 
 **2022**—Subsec. (f)(3). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act" in concluding provisions.
 
-Subsec. (m)(6)(A)(iv). Pub. L. 117–229 substituted "December 24, 2022" for "December 17, 2022".
+Subsec. (g)(9). Pub. L. 117–328, §3601(b), added par. (9).
+
+Subsec. (m)(6)(A)(iv). Pub. L. 117–328, §3103, substituted "October 1, 2027" for "December 24, 2022".
+
+Pub. L. 117–229 substituted "December 24, 2022" for "December 17, 2022".
 
 Pub. L. 117–180 substituted "December 17" for "October 1".
 
@@ -654,6 +680,10 @@ Subsec. (m). Pub. L. 101–629, §14(a), added subsec. (m).
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Effective Date of 2022 Amendment ####
+
+Subsec. (g)(9) of this section, as added by section 3601(b) of Pub. L. 117–328, applicable only with respect to clinical investigations for which enrollment commences after the date that is 180 days after the publication of final guidance required under section 3602 of Pub. L. 117–328, see section 3602(c) of Pub. L. 117–328, set out as a note under section 355 of this title.
+
 #### Effective Date of 1997 Amendment ####
 
 Amendment by sections 201(a), 203, 216(a)(1), and 410(a) of Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
@@ -724,6 +754,8 @@ Pub. L. 101–629, §14(c), Nov. 28, 1990, 104 Stat. 4525, directed Secretary of
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-[<sup>1</sup> So in original. Probably should be "The term 'device',".](#360j_1)
+[<sup>1</sup> See Delayed Applicability of Amendment note below.](#360j_1)
 
-[<sup>2</sup> So in original. Probably should be "sections".](#360j_2)
+[<sup>2</sup> So in original. Probably should be "The term 'device',".](#360j_2)
+
+[<sup>3</sup> So in original. Probably should be "sections".](#360j_3)

@@ -60,7 +60,7 @@ Subsec. (d)(2) to (4). Pub. L. 105–85, §620(3), (4), added par. (2) and redes
 
 **1991**—Subsec. (a). Pub. L. 102–25 struck out "of this section" after "subsection (b)".
 
-Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–5 in three places.
+Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–⁠5 in three places.
 
 **1989**—Subsec. (b). Pub. L. 101–189 inserted "COMMISSIONED" before "OFFICERS" in heading of table relating to officers in pay grades O–1 through O–6.
 
@@ -68,7 +68,7 @@ Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added p
 
 **1987**—Subsec. (b). Pub. L. 100–224 substituted "Over 14" for "Over 13" in table relating to warrant officers.
 
-Pub. L. 100–180, §621(a), in amending subsec. (b) generally, struck out "of this section" after "subsection (a)" in introductory provisions and amended table pertaining to enlisted members so as to reflect downward adjustment in monthly special pay rates for persons in pay grade E–4 having over 2 years of sea duty and for persons in pay grades E–5 through E–9 having less than 5 years of sea duty, and amended table so as to reflect upward adjustment for persons in pay grades E–5 through E–9 having over 5 years of sea duty, amended table pertaining to warrant officers so as to reflect upward adjustment for persons in pay grades W–1 through W–3 having over 9 years of sea duty and for persons in pay grade W–4 having over 10 years of sea duty, and in table pertaining to officers for pay grade O–4 substituted "220" for "215" in the column for "Over 8".
+Pub. L. 100–180, §621(a), in amending subsec. (b) generally, struck out "of this section" after "subsection (a)" in introductory provisions and amended table pertaining to enlisted members so as to reflect downward adjustment in monthly special pay rates for persons in pay grade E–4 having over 2 years of sea duty and for persons in pay grades E–5 through E–⁠9 having less than 5 years of sea duty, and amended table so as to reflect upward adjustment for persons in pay grades E–5 through E–⁠9 having over 5 years of sea duty, amended table pertaining to warrant officers so as to reflect upward adjustment for persons in pay grades W–1 through W–3 having over 9 years of sea duty and for persons in pay grade W–4 having over 10 years of sea duty, and in table pertaining to officers for pay grade O–4 substituted "220" for "215" in the column for "Over 8".
 
 Subsec. (c). Pub. L. 100–180, §621(b), inserted "(other than an enlisted member in a pay grade above E–4 with more than five years of sea duty)" after first reference to "sea duty".
 

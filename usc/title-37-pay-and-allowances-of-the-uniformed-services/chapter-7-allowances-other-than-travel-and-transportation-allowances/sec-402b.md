@@ -18,7 +18,7 @@
 
 (c) Amount of Allowance.—The amount of the monthly allowance payable to a member under subsection (a) shall be the amount equal to—
 
-(1)(A) 150 percent of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
+(1)(A) 150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent) of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
 
 (B) the gross household income of the member during the preceding calendar year; divided by
 
@@ -88,7 +88,7 @@
 
 (2) Household.—The term "household" means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.
 
-(Added Pub. L. 117–81, div. A, title VI, §601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, §611(a), Dec. 23, 2022, 136 Stat. 2622.)
+(Added Pub. L. 117–81, div. A, title VI, §601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, §611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, §201(a), Dec. 29, 2022, 136 Stat. 5226.)
 
 #### **Editorial Notes** ####
 
@@ -98,13 +98,17 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Amendments ####
 
-**2022**—Subsec. (b)(2). Pub. L. 117–263, §611(a)(2), designated existing provisions as subpar. (A), substituted "; or" for "; and", and added subpar. (B).
+**2022**—Pub. L. 117–328, §201(a)(1), made technical amendment to directory language of Pub. L. 117–263, §611(a). See Amendment notes below.
 
-Pub. L. 117–263, §611(a)(1), which directed substitution of "150 percent" for "130 percent" both places appearing in subsec. (b) of this section, was executed by making the substitution in the one place appearing in subsec. (b)(2) to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 117–263, §611(a)(1), as amended by Pub. L. 117–328, §201(a)(2), designated existing provisions as subpar. (A), substituted "150 percent" for "130 percent" and "; or" for "; and", and added subpar. (B).
 
-Subsec. (c)(1)(A). Pub. L. 117–263, §611(a)(1), which directed substitution of "150 percent" for "130 percent" both places appearing in subsec. (b) of this section, was executed in the one place appearing in subsec. (b)(2) and in the second place appearing in this section in subsec. (c)(1)(A) to reflect the probable intent of Congress.
+Subsec. (c)(1)(A). Pub. L. 117–263, §611(a)(2), as amended by Pub. L. 117–328, §201(a)(3), substituted "150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)" for "130 percent".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of *2022* Amendment ####
+
+Pub. L. 117–328, div. O, title II, §201(b), Dec. 29, 2022, 136 Stat. 5227, provided that: "The amendments made by this section [amending section 611(a) of Pub. L. 117–263, which amended this section] shall take effect as if included in the enactment of such Act [meaning Pub. L. 117–263, approved Dec. 23, 2022]."
 
 #### Implementation ####
 

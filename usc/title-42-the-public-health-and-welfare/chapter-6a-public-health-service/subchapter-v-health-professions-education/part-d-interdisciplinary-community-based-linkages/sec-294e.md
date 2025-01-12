@@ -40,7 +40,9 @@ that shall be utilized to assist in the payment of all or part of the costs asso
 
 (3) Carrying out demonstration projects in which chiropractors and physicians collaborate to identify and provide effective treatment for spinal and lower-back conditions.
 
-(July 1, 1944, ch. 373, title VII, §755, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3548; amended Pub. L. 116–136, div. A, title III, §3401(8), Mar. 27, 2020, 134 Stat. 386.)
+(4) Increasing educational opportunities in physical therapy, occupational therapy, respiratory therapy, audiology, and speech-language pathology professions, which may include offering scholarships or stipends and carrying out other activities to improve retention, for individuals from disadvantaged backgrounds or individuals who are underrepresented in such professions.
+
+(July 1, 1944, ch. 373, title VII, §755, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3548; amended Pub. L. 116–136, div. A, title III, §3401(8), Mar. 27, 2020, 134 Stat. 386; Pub. L. 117–328, div. FF, title II, §2224, Dec. 29, 2022, 136 Stat. 5749.)
 
 #### **Editorial Notes** ####
 
@@ -53,5 +55,7 @@ Another prior section 294e, act July 1, 1944, ch. 373, title VII, §732, as adde
 Another prior section 294e, act July 1, 1944, ch. 373, title VII, §744, formerly §745, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 173; amended Nov. 18, 1971, Pub. L. 92–157, title I, §105(f)(2), 85 Stat. 451; renumbered §744, Oct. 12, 1976, Pub. L. 94–484, title IV, §406(a)(2), 90 Stat. 2268, which related to administrative provisions, was transferred to section 294q of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (b)(4). Pub. L. 117–328 added par. (4).
 
 **2020**—Subsec. (b)(1)(A). Pub. L. 116–136 substituted "geriatric populations or for maternal and child health" for "the elderly".

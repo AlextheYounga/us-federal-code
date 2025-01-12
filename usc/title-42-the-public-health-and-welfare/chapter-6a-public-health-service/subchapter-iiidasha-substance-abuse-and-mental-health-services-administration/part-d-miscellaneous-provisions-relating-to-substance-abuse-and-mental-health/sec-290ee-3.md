@@ -128,52 +128,6 @@ A prior section 290ee–3, act July 1, 1944, ch. 373, title V, §548, formerly P
 
 #### Grant Program for the State and Tribal Response to the Opioid Abuse Crisis ####
 
-Pub. L. 114–255, div. A, title I, §1003, Dec. 13, 2016, 130 Stat. 1044, as amended by Pub. L. 115–271, title VII, §7181(a), Oct. 24, 2018, 132 Stat. 4068, provided that:
-
-"(a) In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall use any funds appropriated pursuant to subsection (h) to carry out the grant program described in subsection (b) for purposes of addressing the opioid abuse crisis within the States and Indian Tribes.
-
-"(b) Opioid Grant Program.—
-
-"(1) State and tribal response to the opioid abuse crisis.—Subject to the availability of appropriations, the Secretary shall award grants to States and Indian Tribes for the purpose of addressing the opioid abuse crisis within such States and Indian Tribes, in accordance with subparagraph (B) [sic, probably should be "paragraph (2)"]. In awarding such grants, the Secretary shall give preference to States or Indian Tribes with an incidence or prevalence of opioid use disorders that is substantially higher relative to other States or other Indian Tribes, as applicable.
-
-"(2) Opioid grants.—Grants awarded under this subsection shall be used for carrying out activities that supplement activities pertaining to opioids undertaken by the State agency responsible for administering the substance abuse prevention and treatment block grant under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.), which may include public health-related activities such as the following:
-
-"(A) Establishing or improving prescription drug monitoring programs.
-
-"(B) Implementing prevention activities, and evaluating such activities to identify effective strategies to prevent opioid abuse.
-
-"(C) Training for health care practitioners, such as best practices for prescribing opioids, pain management, recognizing potential cases of substance abuse, referral of patients to treatment programs, preventing diversion of controlled substances, and overdose prevention.
-
-"(D) Supporting access to health care services, including those services provided by Federally certified opioid treatment programs or other appropriate health care providers to treat substance use disorders.
-
-"(E) Other public health-related activities, as the State or Indian Tribe determines appropriate, related to addressing the opioid abuse crisis within the State or Indian Tribe, including directing resources in accordance with local needs related to substance use disorders.
-
-"(c) Accountability and Oversight.—A State receiving a grant under subsection (b) shall include in a report related to substance abuse submitted to the Secretary pursuant to section 1942 of the Public Health Service Act (42 U.S.C. 300x–52), a description of—
-
-"(1) the purposes for which the grant funds received by the State under such subsection for the preceding fiscal year were expended and a description of the activities of the State under the program; and
-
-"(2) the ultimate recipients of amounts provided to the State in the grant.
-
-"(d) Limitations.—Any funds made available pursuant to subsection (h)—
-
-"(1) notwithstanding any transfer authority in any appropriations Act, shall not be used for any purpose other than the grant program in subsection (b); and
-
-"(2) shall be subject to the same requirements as substance abuse prevention and treatment programs under titles V and XIX of the Public Health Service Act (42 U.S.C. 290aa et seq., 300w et seq.).
-
-"(e) Indian Tribes.—
-
-"(1) Definition.—For purposes of this section, the term 'Indian Tribe' has the meaning given the term 'Indian tribe' in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
-
-"(2) Appropriate mechanisms.—The Secretary, in consultation with Indian Tribes, shall identify and establish appropriate mechanisms for Tribes to demonstrate or report the information as required under subsections (b), (c), and (d).
-
-"(f) Report to Congress.—Not later than 1 year after the date on which amounts are first awarded after the date of enactment of this subsection [Oct. 24, 2018], pursuant to subsection (b), and annually thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the information provided to the Secretary in reports made pursuant to subsection (c), including the purposes for which grant funds are awarded under this section and the activities of such grant recipients.
-
-"(g) Technical Assistance.—The Secretary, including through the Tribal Training and Technical Assistance Center of the Substance Abuse and Mental Health Services Administration, shall provide State agencies and Indian Tribes, as applicable, with technical assistance concerning grant application and submission procedures under this section, award management activities, and enhancing outreach and direct support to rural and underserved communities and providers in addressing the opioid crisis.
-
-"(h) Authorization of Appropriations.—For purposes of carrying out the grant program under subsection (b), there is authorized to be appropriated $500,000,000 for each of fiscal years 2019 through 2021, to remain available until expended.
-
-"(i) Set Aside.—Of the amounts made available for each fiscal year to award grants under subsection (b) for a fiscal year, 5 percent of such amount for such fiscal year shall be made available to Indian Tribes, and up to 15 percent of such amount for such fiscal year may be set aside for States with the highest age-adjusted rate of drug overdose death based on the ordinal ranking of States according to the Director of the Centers for Disease Control and Prevention.
-
-"(j) Sunset.—This section shall expire on September 30, 2026."
+Pub. L. 114–255, div. A, title I, §1003, Dec. 13, 2016, 130 Stat. 1044, as amended by Pub. L. 115–271, title VII, §7181(a), Oct. 24, 2018, 132 Stat. 4068, which related to grant program to address opioid abuse crisis within States and Indian Tribes, was editorially reclassified as section 290ee–3a of this title.
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#290ee-3_1)

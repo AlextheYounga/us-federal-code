@@ -66,27 +66,35 @@ The term "person" has the meaning given the term in section 101 of the Comprehen
 
 The term "pollutant or contaminant" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
-#### (11) Recreation Area ####
+#### (11) Qualified resident or relative ####
+
+The term "qualified resident or relative" means—
+
+(A) a former resident of the area within the Recreation Area or the spouse of a former resident of that area; or
+
+(B) a widow, widower, or lineal descendant of an individual buried in a cemetery located in the Recreation Area.
+
+#### (12) Recreation Area ####
 
 The term "Recreation Area" means the Land Between the Lakes National Recreation Area.
 
-#### (12) Release ####
+#### (13) Release ####
 
 The term "release" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
-#### (13) Response action ####
+#### (14) Response action ####
 
 The term "response action" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
-#### (14) Secretary ####
+#### (15) Secretary ####
 
 The term "Secretary" means the Secretary of Agriculture.
 
-#### (15) State ####
+#### (16) State ####
 
 The term "State" means the State of Kentucky and the State of Tennessee.
 
-(Pub. L. 105–277, div. A, §101(e) [title V, §502], Oct. 21, 1998, 112 Stat. 2681–231, 2681–310.)
+(Pub. L. 105–277, div. A, §101(e) [title V, §502], Oct. 21, 1998, 112 Stat. 2681–231, 2681–310; Pub. L. 117–328, div. DD, title II, §201(a), Dec. 29, 2022, 136 Stat. 5581.)
 
 #### **Editorial Notes** ####
 
@@ -111,6 +119,10 @@ The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii),
 The Endangered Species Act of 1973, referred to in par. (5)(B)(ix), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Section 101(a) of title 23, referred to in par. (6), was subsequently amended, and section 101(a) no longer defines "forest highway".
+
+#### Amendments ####
+
+**2022**—Pars. (11) to (16). Pub. L. 117–328 added par. (11) and redesignated former pars. (11) to (15) as (12) to (16), respectively.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

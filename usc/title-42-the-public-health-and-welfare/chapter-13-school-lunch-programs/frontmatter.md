@@ -34,7 +34,7 @@ Sec.
 
 1761. Summer food service program for children.
 
-1762. Repealed.
+1762. Summer electronic benefits transfer for children program.
 
 1762a. Commodity distribution program.
 

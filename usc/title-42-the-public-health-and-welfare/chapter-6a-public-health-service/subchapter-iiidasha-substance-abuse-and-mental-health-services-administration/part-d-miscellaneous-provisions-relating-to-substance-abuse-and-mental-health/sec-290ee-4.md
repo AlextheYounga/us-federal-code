@@ -1,4 +1,4 @@
-### §290ee–4. Mental and behavioral health outreach and education on college campuses ###
+### §290ee–4. Mental and behavioral health outreach and education at institutions of higher education ###
 
 #### (a) Purpose ####
 
@@ -22,7 +22,7 @@ The working group convened under subsection (b) shall include—
 
 (1) mental health consumers, including students and family members;
 
-(2) representatives of institutions of higher education;
+(2) representatives of institutions of higher education, including minority-serving institutions as described in section 1067q(a) of title 20 and community colleges;
 
 (3) representatives of national mental and behavioral health associations and associations of institutions of higher education;
 
@@ -50,6 +50,16 @@ In this section, the term "institution of higher education" has the meaning give
 
 #### (f) Authorization of appropriations ####
 
-To carry out this section, there are authorized to be appropriated $1,000,000 for the period of fiscal years 2018 through 2022.
+To carry out this section, there are authorized to be appropriated $1,000,000 for the period of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §549, as added Pub. L. 114–255, div. B, title IX, §9033, Dec. 13, 2016, 130 Stat. 1261.)
+(July 1, 1944, ch. 373, title V, §549, as added Pub. L. 114–255, div. B, title IX, §9033, Dec. 13, 2016, 130 Stat. 1261; amended Pub. L. 117–328, div. FF, title I, §1424, Dec. 29, 2022, 136 Stat. 5704.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Pub. L. 117–328, §1424(1), substituted "at institutions of higher education" for "on college campuses" in section catchline.
+
+Subsec. (c)(2). Pub. L. 117–328, §1424(2), inserted ", including minority-serving institutions as described in section 1067q(a) of title 20 and community colleges" after "higher education".
+
+Subsec. (f). Pub. L. 117–328, §1424(3), substituted "2023 through 2027" for "2018 through 2022".

@@ -1,4 +1,4 @@
-### §290bb–2. Priority substance abuse treatment needs of regional and national significance ###
+### §290bb–2. Priority substance use disorder treatment needs of regional and national significance ###
 
 #### (a) Projects ####
 
@@ -8,11 +8,11 @@ The Secretary shall address priority substance use disorder treatment needs of r
 
 (2) training and technical assistance; and
 
-(3) targeted capacity response programs that permit States, local governments, communities, and Indian tribes and tribal organizations (as the terms "Indian tribes" and "tribal organizations" are defined in section 5304 of title 25) to focus on emerging trends in substance abuse and co-occurrence of substance use disorders with mental illness or other conditions.
+(3) targeted capacity response programs that permit States, local governments, communities, and Indian Tribes and Tribal organizations (as such terms are defined in section 5304 of title 25) to focus on emerging trends in substance use disorders and co-occurrence of substance use disorders with mental illness or other conditions.
 
 The Secretary may carry out the activities described in this section directly or through grants, contracts, or cooperative agreements with States, political subdivisions of States, Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or other public or nonprofit private entities.
 
-#### (b) Priority substance abuse treatment needs ####
+#### (b) Priority substance use disorder treatment needs ####
 
 #### (1) In general ####
 
@@ -50,9 +50,9 @@ The Secretary shall establish comprehensive information and education programs t
 
 #### (f) Authorization of appropriation ####
 
-There are authorized to be appropriated to carry out this section, $333,806,000 for each of fiscal years 2018 through 2022.
+There are authorized to be appropriated to carry out this section, $521,517,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §509, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 341; amended Pub. L. 106–310, div. B, title XXXIII, §3301(b), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–255, div. B, title VII, §7004, Dec. 13, 2016, 130 Stat. 1223.)
+(July 1, 1944, ch. 373, title V, §509, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 341; amended Pub. L. 106–310, div. B, title XXXIII, §3301(b), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–255, div. B, title VII, §7004, Dec. 13, 2016, 130 Stat. 1223; Pub. L. 117–328, div. FF, title I, §1212, Dec. 29, 2022, 136 Stat. 5661.)
 
 #### **Editorial Notes** ####
 
@@ -63,6 +63,14 @@ A prior section 290bb–2, act July 1, 1944, ch. 373, title V, §513, formerly �
 A prior section 509 of act July 1, 1944, which was classified to section 290aa–7 of this title, was renumbered section 516 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–22 of this title.
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, §1212(1), substituted "use disorder" for "abuse" in section catchline.
+
+Subsec. (a)(3). Pub. L. 117–328, §1212(2), substituted "Tribes and Tribal organizations (as such terms are defined" for "tribes and tribal organizations (as the terms 'Indian tribes' and 'tribal organizations' are defined" and "in substance use disorders" for "in substance abuse".
+
+Subsec. (b). Pub. L. 117–328, §1212(3), substituted "use disorder" for "abuse" in heading.
+
+Subsec. (f). Pub. L. 117–328, §1212(4), substituted "$521,517,000 for each of fiscal years 2023 through 2027" for "$333,806,000 for each of fiscal years 2018 through 2022".
 
 **2016**—Subsec. (a). Pub. L. 114–255, §7004(1)(A), (C), in introductory provisions, substituted "use disorder" for "abuse" and, in concluding provisions, inserted ", contracts," before "or cooperative agreements" and substituted "Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or" for "Indian tribes and tribal organizations,".
 

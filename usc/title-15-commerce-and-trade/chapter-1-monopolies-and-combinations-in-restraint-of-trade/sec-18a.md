@@ -216,14 +216,30 @@ Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that:
 
 #### Assessment and Collection of Filing Fees ####
 
-Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) [title VI, §630(b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–109, provided that:
+Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) [title VI, §630(b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–109; Pub. L. 117–328, div. GG, title I, §101, Dec. 29, 2022, 136 Stat. 5967, provided that:
 
 "(a) Five working days after enactment of this Act [Nov. 21, 1989] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the [sic] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant to this section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, 'Salaries and Expenses' and Department of Justice, 'Salaries and Expenses, Antitrust Division': *Provided*, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: *Provided further*, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
 
 "(b) The filing fees referred to in subsection (a) are—
 
-"(1) $45,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is less than $100,000,000 (as adjusted and published for each fiscal year beginning after September 30, 2004, in the same manner as provided in section 8(a)(5) of the Clayton Act (15 U.S.C. 19(a)(5)) to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2003);
+"(1) $30,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is less than $161,500,000 (as adjusted and published for each fiscal year beginning after September 30, 2023, in the same manner as provided in section 8(a)(5) of the Clayton Act (15 U.S.C. 19(a)(5)) to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2022);
 
-"(2) $125,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $100,000,000 (as so adjusted and published) but less than $500,000,000 (as so adjusted and published); and
+"(2) $100,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $161,500,000 (as so adjusted and published) but is less than $500,000,000 (as so adjusted and published);
 
-"(3) $280,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $500,000,000 (as so adjusted and published)."
+"(3) $250,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $500,000,000 (as so adjusted and published)but is less than $1,000,000,000 (as so adjusted and published);
+
+"(4) $400,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $1,000,000,000 (as so adjusted and published) but is less than $2,000,000,000 (as so adjusted and published);
+
+"(5) $800,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $2,000,000,000 (as so adjusted and published) but is less than $5,000,000,000 (as so adjusted and published); and
+
+"(6) $2,250,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $5,000,000,000 (as so adjusted and published).
+
+"(c)(1) For each fiscal year commencing after September 30, 2023, the filing fees in this section shall be increased by an amount equal to the percentage increase, if any, in the Consumer Price Index, as determined by the Department of Labor or its successor, for the year then ended over the level so established for the year ending September 30, 2022.
+
+"(2) As soon as practicable, but not later than January 31 of each year, the Federal Trade Commission shall publish the adjusted amounts required by paragraph (1).
+
+"(3) The Federal Trade Commission shall not adjust amounts required by paragraph (1) if the percentage increase described in paragraph (1) is less than 1 percent.
+
+"(4) An amount adjusted under this section shall be rounded to the nearest multiple of $5,000."
+
+[Another section 101 of div. GG of Pub. L. 117–328 is set out as a note under section 1 of this title.]

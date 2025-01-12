@@ -482,7 +482,7 @@ Amendment by Pub. L. 117–2 applicable only with respect to applications for fo
 
 #### Effective Date of 2020 Amendment ####
 
-Pub. L. 116–260, div. N, title II, §276(a)(2), Dec. 27, 2020, 134 Stat. 1979, provided that: "The amendment made by this subsection [amending this section] shall apply to taxable years ending after the date of the enactment of the CARES Act [Pub. L. 116–136]."
+Pub. L. 116–260, div. N, title II, §276(a)(2), Dec. 27, 2020, 134 Stat. 1979, provided that: "The amendment made by this subsection [amending this section] shall apply to taxable years ending after the date of the enactment of the CARES Act [Mar. 27, 2020]."
 
 Amendment by section 304(b)(1)(A), (B), (2) of div. N of Pub. L. 116–260 effective as if included in Pub. L. 116–136 and applicable to any loan made pursuant to section 636(a)(36) of this title before, on, or after Dec. 27, 2020, including forgiveness of such a loan, with provisions relating to exclusion of loans already forgiven, see section 304(c) of Pub. L. 116–260, set out as a note under section 636 of this title.
 

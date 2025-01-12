@@ -362,6 +362,24 @@ Amendment by section 1000(a)(6) [title III, §321(k)(19)] of Pub. L. 106–113 e
 
 Pub. L. 105–33, title IV, §4603(d), Aug. 5, 1997, 111 Stat. 471, as amended by Pub. L. 105–277, div. J, title V, §5101(c)(2), Oct. 21, 1998, 112 Stat. 2681–914, provided that: "Except as otherwise provided, the amendments made by this section [enacting this section and amending sections 1395f, 1395g, 1395k, 1395l, 1395u, and 1395y of this title] shall apply to portions of cost reporting periods occurring on or after October 1, 2000."
 
+#### Increasing Transparency for Home Health Payments Under the Medicare Program ####
+
+Pub. L. 117–328, div. FF, title IV, §4142, Dec. 29, 2022, 136 Stat. 5929, provided that:
+
+"(a) Transparency.—In notice and comment rulemaking used to implement section 1895(b)(3)(D) of the Social Security Act (42 U.S.C. 1395fff(b)(3)(D)[)], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall, on the date of the notice of proposed rulemaking, make available through the internet website of the Centers for Medicare & Medicaid Services the following:
+
+"(1) Electronic data files showing the Centers for Medicare & Medicaid Services simulation of 60-day episodes under the home health prospective payment system in effect prior to the Patient Driven Groupings Model using data from 30-day periods paid under such Model, if such data are used in determining payment adjustments under clauses (ii) or (iii) of such section 1895(b)(3)(D).
+
+"(2) To the extent practicable, a description of actual behavior changes, as described in clause (i) of such section 1895(b)(3)(D), including behavior changes as a result of the implementation of sections 1895(b)(2)(B) and 1895(b)(4)(B) of the Social Security Act (42 U.S.C. 1395fff(b)(2)(B) and 1395(b)(4)(B) [probably should be "1395fff(b)(4)(B)"]) that occurred in calendar years 2020 through 2026.
+
+"(b) Engagement With Stakeholders.—
+
+"(1) In general.—Not later than 90 days after the date of enactment of this section [Dec. 29, 2022], the Secretary shall use an open door forum, a town hall meeting, a web-based forum, or other appropriate mechanism to receive input from home health stakeholders and interested parties on Medicare home health payment rate development, including the items described in paragraphs (1) and (2) of subsection (a) with respect to the home health prospective payment system rate for calendar year 2023.
+
+"(2) Requirement.—At least 30 days before the forum, meeting, or other mechanism referred to in paragraph (1), the Secretary shall make available through the internet website of the Centers for Medicare & Medicaid Services the items described in paragraphs (1) and (2) of subsection (a) with respect to the home health prospective payment system rate for calendar year 2023 as finalized in the final rule entitled 'Medicare Program; Calendar Year [(CY)] 2023 Home Health Prospective Payment System Rate Update; Home Health Quality Reporting Program Requirements; Home Health Value-Based Purchasing Expanded Model Requirements; and Home Infusion Therapy Services Requirements' published in the Federal Register on November 4, 2022 (87 Fed. Reg. 66790).
+
+"(c) Construction.—Nothing in this section shall be construed to require any change in the methodology used by the Secretary to implement such section 1895(b)(3)(D), to restrict the Secretary's discretion in establishing the methodology to implement such section, or to suggest that the Secretary's promulgation of the methodology implementing such Calendar Year 2023 home health final rule was inadequate under Chapter 5 of title 5, United States Code (commonly known as the 'Administrative Procedures Act' [probably should be "Administrative Procedure Act"]) or any other provision of law."
+
 #### Study and Report on the Development of Home Health Payment Revisions in Order To Ensure Access to Care and Payment for Severity of Illness ####
 
 Pub. L. 111–148, title III, §3131(d), title X, §10315(b), Mar. 23, 2010, 124 Stat. 429, 944, provided that:
@@ -426,7 +444,7 @@ Pub. L. 111–148, title III, §3131(d), title X, §10315(b), Mar. 23, 2010, 124
 
 #### Temporary Increase for Home Health Services Furnished in a Rural Area ####
 
-Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428; Pub. L. 114–10, title II, §210, Apr. 16, 2015, 129 Stat. 151; Pub. L. 115–123, div. E, title II, §50208(a)(1), Feb. 9, 2018, 132 Stat. 188, provided that:
+Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428; Pub. L. 114–10, title II, §210, Apr. 16, 2015, 129 Stat. 151; Pub. L. 115–123, div. E, title II, §50208(a)(1), Feb. 9, 2018, 132 Stat. 188; Pub. L. 117–328, div. FF, title IV, §4137, Dec. 29, 2022, 136 Stat. 5925, provided that:
 
 "(a) In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2019, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary [of Health and Human Services] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2019, 3 percent).
 
@@ -446,9 +464,11 @@ Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by 
 
 "(ii) in the case of episodes and visits ending during 2020, by 3 percent;
 
-"(iii) in the case of episodes and visits ending during 2021, by 2 percent; and
+"(iii) in the case of episodes and visits ending during 2021, by 2 percent;
 
 "(iv) in the case of episodes and visits ending during 2022, by 1 percent; and
+
+"(v) in the case of episodes and visits ending during 2023, by 1 percent; and
 
 "(C) is not described in either subparagraph (A) or (B)—
 

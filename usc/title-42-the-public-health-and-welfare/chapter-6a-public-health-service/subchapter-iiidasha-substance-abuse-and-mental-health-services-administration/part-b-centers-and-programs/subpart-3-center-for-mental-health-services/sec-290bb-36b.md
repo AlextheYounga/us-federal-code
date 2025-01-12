@@ -1,4 +1,4 @@
-### §290bb–36b. Mental health and substance use disorder services on campus ###
+### §290bb–36b. Mental health and substance use disorder services for students in higher education ###
 
 #### (a) In general ####
 
@@ -8,29 +8,29 @@ The Secretary, acting through the Director of the Center for Mental Health Servi
 
 The Secretary may not make a grant to an institution of higher education under this section unless the institution agrees to use the grant only for one or more of the following:
 
-(1) Educating students, families, faculty, and staff to increase awareness of mental and substance use disorders.
+(1) Educating students, families, faculty, and staff to increase awareness of mental health and substance use disorders and promote resiliency.
 
 (2) The operation of hotlines.
 
 (3) Preparing informational material.
 
-(4) Providing outreach services to notify students about available mental and substance use disorder services.
+(4) Providing outreach services to notify students about available mental health and substance use disorder resources and services.
 
-(5) Administering voluntary mental and substance use disorder screenings and assessments.
+(5) Administering voluntary mental health and substance use disorder screenings and assessments.
 
-(6) Supporting the training of students, faculty, and staff to respond effectively to students with mental and substance use disorders.
+(6) Supporting the training of students, faculty, and staff to recognize and respond effectively and appropriately to students experiencing mental health and substance use disorders.
 
-(7) Creating a network infrastructure to link institutions of higher education with health care providers who treat mental and substance use disorders.
+(7) Creating a network infrastructure to link institutions of higher education with health care providers who treat mental health and substance use disorders.
 
-(8) Providing mental and substance use disorders prevention and treatment services to students, which may include recovery support services and programming and early intervention, treatment, and management, including through the use of telehealth services.
+(8) Providing mental health and substance use. <sup><a href="#290bb-36b_1_target" name="290bb-36b_1">1</a></sup> disorders prevention and treatment services to students, which may include recovery support services and programming and early intervention, treatment, and management, including through the use of telehealth services.
 
-(9) Conducting research through a counseling or health center at the institution of higher education involved regarding improving the behavioral health of students through clinical services, outreach, prevention, or academic success, in a manner that is in compliance with all applicable personal privacy laws.
+(9) Conducting research through a counseling or health center at the institution of higher education involved to improve the behavioral health of students through clinical services, outreach, prevention, promotion of mental health, or academic success, in a manner that is in compliance with all applicable personal privacy laws.
 
-(10) Supporting student groups on campus, including athletic teams, that engage in activities to educate students, including activities to reduce stigma surrounding mental and behavioral disorders, and promote mental health.
+(10) Supporting student groups on campus, including athletic teams, that engage in activities to educate students, including activities to reduce stigma surrounding mental and behavioral health disorders, and promote mental health.
 
 (11) Employing appropriately trained staff.
 
-(12) Developing and supporting evidence-based and emerging best practices, including a focus on culturally and linguistically appropriate best practices.
+(12) Developing and supporting evidence-based and emerging best practices, including a focus on culturally and linguistically appropriate best practices, and trauma-informed practices.
 
 #### (c) Eligible grant recipients ####
 
@@ -50,11 +50,11 @@ Any institution of higher education receiving a grant under this section may car
 
 To be eligible to receive a grant under this section, an institution of higher education shall prepare and submit an application to the Secretary at such time and in such manner as the Secretary may require. At a minimum, the application shall include the following:
 
-(1) A description of the population to be targeted by the program carried out under the grant, including veterans whenever possible and appropriate, and of identified mental and substance use disorder needs of students at the institution of higher education.
+(1) A description of the population to be targeted by the program carried out under the grant, including veterans whenever possible and appropriate, and of identified mental health and substance use disorder needs of students at the institution of higher education.
 
 (2) A description of Federal, State, local, private, and institutional resources currently available to address the needs described in paragraph (1) at the institution of higher education, which may include, as appropriate and in accordance with subsection (b)(7), a plan to seek input from relevant stakeholders in the community, including appropriate public and private entities, in order to carry out the program under the grant.
 
-(3) A description of the outreach strategies of the institution of higher education for promoting access to services, including a proposed plan for reaching those students most in need of mental health services.
+(3) A description of the outreach strategies of the institution of higher education for promoting mental health and access to services, including a proposed plan for reaching those students most in need of mental health services.
 
 (4) A plan to evaluate program outcomes, including a description of the proposed use of funds, the program objectives, and how the objectives will be met.
 
@@ -82,11 +82,13 @@ The Secretary may waive the requirement established in paragraph (1) with respec
 
 #### (f) Reports ####
 
-For each fiscal year that grants are awarded under this section, the Secretary shall conduct a study on the results of the grants and submit to the Congress a report on such results that includes the following:
+For each fiscal year that grants are awarded under this section, the Secretary shall conduct a study on the results of the grants and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on such results that includes the following:
 
 (1) An evaluation of the grant program outcomes, including a summary of activities carried out with the grant and the results achieved through those activities.
 
-(2) Recommendations on how to improve access to mental health and substance use disorder services at institutions of higher education, including efforts to reduce the incidence of suicide and substance use disorders.
+(2) Recommendations on how to improve access to mental health and substance use disorder services at institutions of higher education, including through prevention, early detection, early intervention, and efforts to reduce the incidence of suicide and substance use disorders.
+
+(3) An assessment of the mental health and substance use disorder needs of the populations served by recipients of grants under this section.
 
 #### (g) Definition ####
 
@@ -98,13 +100,45 @@ The Secretary may provide technical assistance to grantees in carrying out this 
 
 #### (i) Authorization of appropriations ####
 
-For the purpose of carrying out this section, there are authorized to be appropriated $7,000,000 for each of fiscal years 2018 through 2022.
+For the purpose of carrying out this section, there are authorized to be appropriated $7,000,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §520E–2, as added Pub. L. 108–355, §3(d), Oct. 21, 2004, 118 Stat. 1413; amended Pub. L. 114–255, div. B, title IX, §9031, Dec. 13, 2016, 130 Stat. 1257.)
+(July 1, 1944, ch. 373, title V, §520E–2, as added Pub. L. 108–355, §3(d), Oct. 21, 2004, 118 Stat. 1413; amended Pub. L. 114–255, div. B, title IX, §9031, Dec. 13, 2016, 130 Stat. 1257; Pub. L. 117–328, div. FF, title I, §1423, Dec. 29, 2022, 136 Stat. 5703.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, §1423(1), substituted "for students in higher education" for "on campus" in section catchline.
+
+Subsec. (b)(1). Pub. L. 117–328, §1423(2)(A), substituted "mental health and substance use disorders and promote resiliency" for "mental and substance use disorders".
+
+Subsec. (b)(4). Pub. L. 117–328, §1423(2)(B), substituted "mental health and substance use disorder resources and services." for "mental and substance use disorder services.".
+
+Subsec. (b)(5). Pub. L. 117–328, §1423(2)(C), substituted "mental health and substance use" for "mental and substance use".
+
+Subsec. (b)(6). Pub. L. 117–328, §1423(2)(D), substituted "staff to recognize and respond effectively and appropriately to students experiencing mental health and substance use disorders." for "staff to respond effectively to students with mental and substance use disorders.".
+
+Subsec. (b)(7). Pub. L. 117–328, §1423(2)(E), substituted "mental health and substance use" for "mental and substance use".
+
+Subsec. (b)(8). Pub. L. 117–328, §1423(2)(F), substituted "mental health and substance use." for "mental and substance use".
+
+Subsec. (b)(9). Pub. L. 117–328, §1423(2)(G), substituted "to improve the behavioral health of students through clinical services, outreach, prevention, promotion of mental health, or" for "regarding improving the behavioral health of students through clinical services, outreach, prevention, or".
+
+Subsec. (b)(10). Pub. L. 117–328, §1423(2)(H), substituted "mental and behavioral health disorders," for "mental and behavioral disorders,".
+
+Subsec. (b)(12). Pub. L. 117–328, §1423(2)(I), substituted "best practices, and trauma-informed practices." for "best practices.".
+
+Subsec. (d)(1). Pub. L. 117–328, §1423(3)(A), substituted "mental health and substance use" for "mental and substance use".
+
+Subsec. (d)(3). Pub. L. 117–328, §1423(3)(B), substituted "promoting mental health and access to services," for "promoting access to services,".
+
+Subsec. (f). Pub. L. 117–328, §1423(4)(A), substituted "the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate" for "the Congress" in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 117–328, §1423(4)(B), substituted "including through prevention, early detection, early intervention, and efforts" for "including efforts".
+
+Subsec. (f)(3). Pub. L. 117–328, §1423(4)(C), added par. (3).
+
+Subsec. (i). Pub. L. 117–328, §1423(5), substituted "2023 through 2027" for "2018 through 2022".
 
 **2016**—Pub. L. 114–255, §9031(1), substituted "health and substance use disorder" for "and behavioral health" in section catchline.
 
@@ -201,3 +235,5 @@ Pub. L. 114–255, div. B, title IX, §9032, Dec. 13, 2016, 130 Stat. 1259, prov
 "(f) Definition.—In this section, the term 'institution of higher education' has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 "(g) Authorization of Appropriations.—To carry out this section, there are authorized to be appropriated $1,000,000 for the period of fiscal years 2018 through 2022."
+
+[<sup>1</sup> So in original.](#290bb-36b_1)

@@ -2,13 +2,13 @@
 
 #### (a) Notification of withdrawal ####
 
-The holder of an application approved under subsection (c) or (j) of section 355 of this title shall notify the Secretary in writing 180 days prior to withdrawing the approved drug from sale, or if 180 days is not practicable as soon as practicable but not later than the date of withdrawal. The holder shall include with such notice the—
+The holder of an application approved under subsection (c) or (j) of section 355 of this title or subsection (a) or (k) of section 262 of title 42 shall notify the Secretary in writing 180 days prior to withdrawing the approved drug from sale, or if 180 days is not practicable as soon as practicable but not later than the date of withdrawal. The holder shall include with such notice the—
 
 (1) National Drug Code;
 
-(2) identity of the drug by established name and by proprietary name, if any;
+(2) identity of the drug by established name (or, in the case of a biological product, the proper name) and by proprietary name, if any;
 
-(3) new drug application number or abbreviated application number;
+(3) new drug application number, abbreviated application number, or biologics license application number;
 
 (4) strength of the drug;
 
@@ -18,11 +18,11 @@ The holder of an application approved under subsection (c) or (j) of section 355
 
 #### (b) Notification of drug not available for sale ####
 
-The holder of an application approved under subsection (c) or (j) <sup><a href="#356i_1_target" name="356i_1">1</a></sup> shall notify the Secretary in writing within 180 calendar days of the date of approval of the drug if the drug will not be available for sale within 180 calendar days of such date of approval. The holder shall include with such notice the—
+The holder of an application approved under subsection (c) or (j) of section 355 of this title or subsection (a) or (k) of section 262 of title 42 shall notify the Secretary in writing within 180 calendar days of the date of approval of the drug if the drug will not be available for sale within 180 calendar days of such date of approval. The holder shall include with such notice the—
 
-(1) identity of the drug by established name and by proprietary name, if any;
+(1) identity of the drug by established name (or, in the case of a biological product, the proper name) and by proprietary name, if any;
 
-(2) new drug application number or abbreviated application number;
+(2) new drug application number, abbreviated application number, or biologics license application number;
 
 (3) strength of the drug;
 
@@ -32,28 +32,50 @@ The holder of an application approved under subsection (c) or (j) <sup><a href=
 
 #### (c) Additional one-time report ####
 
-Within 180 days of August 18, 2017, all holders of applications approved under subsection (c) or (j) of section 355 of this title shall review the information in the list published under subsection <sup><a href="#356i_2_target" name="356i_2">2</a></sup> 355(j)(7)(A) of this title and shall notify the Secretary in writing that—
+Within 180 days of December 29, 2022, all holders of applications approved under subsection (a) or (k) of section 262 of title 42 shall review the information in the list published under section 262(k)(9)(A) of title 42 and shall submit a written notice to the Secretary—
 
-(1) all of the application holder's drugs in the active section of the list published under subsection <sup><a href="#356i_2_target" name="356i_2">2</a></sup> 355(j)(7)(A) of this title are available for sale; or
+(1) stating that all of the application holder's biological products in the list published under such section 262(k)(9)(A) of title 42 that are not listed as discontinued are available for sale; or
 
-(2) one or more of the application holder's drugs in the active section of the list published under subsection <sup><a href="#356i_2_target" name="356i_2">2</a></sup> 355(j)(7)(A) of this title have been withdrawn from sale or have never been available for sale, and include with such notice the information required pursuant to subsection (a) or (b), as applicable.
+(2) including the information required pursuant to subsection (a) or (b), as applicable, for each of the application holder's biological products that are in the list published under such section 262(k)(9)(A) of title 42 and not listed as discontinued, but have been discontinued from sale or never have been available for sale.
 
 #### (d) Failure to meet requirements ####
 
-If a holder of an approved application fails to submit the information required under subsection (a), (b), or (c), the Secretary may move the application holder's drugs from the active section of the list published under subsection <sup><a href="#356i_2_target" name="356i_2">2</a></sup> 355(j)(7)(A) of this title to the discontinued section of the list, except that the Secretary shall remove from the list in accordance with subsection <sup><a href="#356i_2_target" name="356i_2">2</a></sup> 355(j)(7)(C) of this title drugs the Secretary determines have been withdrawn from sale for reasons of safety of <sup><a href="#356i_3_target" name="356i_3">3</a></sup> effectiveness.
+If a holder of an approved application fails to submit the information required under subsection (a), (b), or (c), the Secretary may—
+
+(1) move the application holder's drugs from the active section of the list published under section 355(j)(7)(A) of this title to the discontinued section of the list, except that the Secretary shall remove from the list in accordance with section 355(j)(7)(C) of this title drugs the Secretary determines have been withdrawn from sale for reasons of safety or effectiveness; and
+
+(2) identify the application holder's biological products as discontinued in the list published under section 262(k)(9)(A) of title 42, except that the Secretary shall remove from the list in accordance with section 262(k)(9)(B) of such title biological products for which the license has been revoked or suspended for reasons of safety, purity, or potency.
 
 #### (e) Updates ####
 
-The Secretary shall update the list published under subsection <sup><a href="#356i_2_target" name="356i_2">2</a></sup> 355(j)(7)(A) of this title based on the information provided under subsections (a), (b), and (c) by moving drugs that are not available for sale from the active section to the discontinued section of the list, except that drugs the Secretary determines have been withdrawn from sale for reasons of safety or effectiveness shall be removed from the list in accordance with subsection <sup><a href="#356i_2_target" name="356i_2">2</a></sup> 355(j)(7)(C) of this title. The Secretary shall make monthly updates to the list based on the information provided pursuant to subsections (a) and (b), and shall update the list based on the information provided under subsection (c) as soon as practicable.
+The Secretary shall update the list published under section 355(j)(7)(A) of this title based on the information provided under subsections (a), (b), and (c) by moving drugs that are not available for sale from the active section to the discontinued section of the list, except that drugs the Secretary determines have been withdrawn from sale for reasons of safety or effectiveness shall be removed from the list in accordance with section 355(j)(7)(C) of this title. The Secretary shall update the list published under section 262(k)(9)(A) of title 42 based on information provided under subsections (a), (b), and (c) by identifying as discontinued biological products that are not available for sale, except that biological products for which the license has been revoked or suspended for safety, purity, or potency reasons shall be removed from the list in accordance with section 262(k)(9)(B) of title 42. The Secretary shall make monthly updates to the lists referred to in the preceding sentences based on the information provided pursuant to subsections (a) and (b), and shall update such lists based on the information provided under subsection (c) as soon as practicable.
 
 #### (f) Limitation on use of notices ####
 
 Any notice submitted under this section shall not be made public by the Secretary and shall be used solely for the purpose of the updates described in subsection (e).
 
-(June 25, 1938, ch. 675, §506I, as added Pub. L. 115–52, title VIII, §804, Aug. 18, 2017, 131 Stat. 1071.)
+(June 25, 1938, ch. 675, §506I, as added Pub. L. 115–52, title VIII, §804, Aug. 18, 2017, 131 Stat. 1071; amended Pub. L. 117–328, div. FF, title III, §3201, Dec. 29, 2022, 136 Stat. 5808.)
 
-[<sup>1</sup> So in original. Probably means subsection (c) or (j) of section 355 of this title.](#356i_1)
+#### **Editorial Notes** ####
 
-[<sup>2</sup> So in original. Probably should be "section".](#356i_2)
+#### Amendments ####
 
-[<sup>3</sup> So in original. Probably should be "or".](#356i_3)
+**2022**—Subsec. (a). Pub. L. 117–328, §3201(a)(1)(A), substituted "The holder of an application approved under subsection (c) or (j) of section 355 of this title or subsection (a) or (k) of section 262 of title 42" for "The holder of an application approved under subsection (c) or (j) of section 355 of this title" in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 117–328, §3201(a)(1)(B), substituted "established name (or, in the case of a biological product, the proper name)" for "established name".
+
+Subsec. (a)(3). Pub. L. 117–328, §3201(a)(1)(C), substituted ", abbreviated application number, or biologics license application number" for "or abbreviated application number".
+
+Subsec. (b). Pub. L. 117–328, §3201(a)(2)(A), substituted "The holder of an application approved under subsection (c) or (j) of section 355 of this title or subsection (a) or (k) of section 262 of title 42" for "The holder of an application approved under subsection (c) or (j)" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 117–328, §3201(a)(2)(B), substituted "established name (or, in the case of a biological product, the proper name)" for "established name".
+
+Subsec. (b)(2). Pub. L. 117–328, §3201(a)(2)(C), substituted ", abbreviated application number, or biologics license application number" for "or abbreviated application number".
+
+Subsec. (c). Pub. L. 117–328, §3201(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to an additional one-time report to be done within 180 days of Aug. 18, 2017.
+
+Subsec. (d). Pub. L. 117–328, §3201(c)(1), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "If a holder of an approved application fails to submit the information required under subsection (a), (b), or (c), the Secretary may move the application holder's drugs from the active section of the list published under subsection 355(j)(7)(A) of this title to the discontinued section of the list, except that the Secretary shall remove from the list in accordance with subsection 355(j)(7)(C) of this title drugs the Secretary determines have been withdrawn from sale for reasons of safety of effectiveness."
+
+Subsec. (e). Pub. L. 117–328, §3201(d), substituted "section 355(j)(7)(A) of this title" for "subsection 355(j)(7)(A) of this title" and "section 355(j)(7)(C) of this title" for "subsection 355(j)(7)(C) of this title".
+
+Pub. L. 117–328, §3201(c)(2), inserted "The Secretary shall update the list published under section 262(k)(9)(A) of title 42 based on information provided under subsections (a), (b), and (c) by identifying as discontinued biological products that are not available for sale, except that biological products for which the license has been revoked or suspended for safety, purity, or potency reasons shall be removed from the list in accordance with section 262(k)(9)(B) of title 42." before "The Secretary shall make monthly updates" and substituted "monthly updates to the lists referred to in the preceding sentences" for "monthly updates to the list" and "and shall update such lists based on" for "and shall update the list based on".

@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-From the amounts appropriated under subsection (g), subject to paragraphs (2) and (3), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2027 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
+From the amounts appropriated under subsection (g), subject to paragraphs (2) and (3), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2029 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
 
 #### (2) Ten percent set aside for national enrollment campaign ####
 
@@ -12,7 +12,7 @@ An amount equal to 10 percent of such amounts shall be used by the Secretary for
 
 #### (3) Ten percent set aside for evaluating and providing technical assistance to grantees ####
 
-For the period of fiscal years 2024 through 2027, an amount equal to 10 percent of such amounts shall be used by the Secretary for the purpose of evaluating and providing technical assistance to eligible entities awarded grants under this section.
+For the period of fiscal years 2024 through 2029, an amount equal to 10 percent of such amounts shall be used by the Secretary for the purpose of evaluating and providing technical assistance to eligible entities awarded grants under this section.
 
 #### (b) Priority for award of grants ####
 
@@ -142,7 +142,7 @@ The term "parent mentor" means an individual who—
 
 #### (g) Appropriation ####
 
-There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, $40,000,000 for the period of fiscal years 2016 and 2017,,<sup><a href="#1397mm_2_target" name="1397mm_2">2</a></sup> $120,000,000 for the period of fiscal years 2018 through 2023, and $48,000,000 for the period of fiscal years 2024 through 2027, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
+There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, $40,000,000 for the period of fiscal years 2016 and 2017, $120,000,000 for the period of fiscal years 2018 through 2023, $48,000,000 for the period of fiscal years 2024 through 2027, and $40,000,000 for the period of fiscal years 2028 and 2029, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
 
 #### (h) National enrollment campaign ####
 
@@ -162,7 +162,7 @@ From the amounts made available under subsection (a)(2), the Secretary shall dev
 
 (7) such other outreach initiatives as the Secretary determines would increase public awareness of the programs under this subchapter and subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2113, as added Pub. L. 111–3, title II, §201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, §10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931; Pub. L. 114–10, title III, §303, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §3004(a), (b), Jan. 22, 2018, 132 Stat. 36; Pub. L. 115–123, div. E, title I, §50103, Feb. 9, 2018, 132 Stat. 176.)
+(Aug. 14, 1935, ch. 531, title XXI, §2113, as added Pub. L. 111–3, title II, §201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, §10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931; Pub. L. 114–10, title III, §303, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §3004(a), (b), Jan. 22, 2018, 132 Stat. 36; Pub. L. 115–123, div. E, title I, §50103, Feb. 9, 2018, 132 Stat. 176; Pub. L. 117–328, div. FF, title V, §5111(c)(4), Dec. 29, 2022, 136 Stat. 5939.)
 
 #### **Editorial Notes** ####
 
@@ -175,6 +175,12 @@ The Head Start Act, referred to in subsec. (f)(2)(D), is subchapter B (§635 et 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (f)(2)(D), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(1). Pub. L. 117–328, §5111(c)(4)(A)(i), substituted "through 2029" for "through 2027".
+
+Subsec. (a)(3). Pub. L. 117–328, §5111(c)(4)(A)(ii), substituted "through 2029" for "through 2027".
+
+Subsec. (g). Pub. L. 117–328, §5111(c)(4)(B), substituted "2017," for "2017,," and "$48,000,000" for "and $48,000,000" and inserted ", and $40,000,000 for the period of fiscal years 2028 and 2029" after "through 2027".
 
 **2018**—Subsec. (a)(1). Pub. L. 115–123, §50103(a)(1), (b)(1), substituted "paragraphs (2) and (3)" for "paragraph (2)" and "2027" for "2023".
 
@@ -207,5 +213,3 @@ Subsec. (g). Pub. L. 111–148, §10203(d)(2)(E)(ii), substituted "$140,000,000 
 Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
 
 [<sup>1</sup> See References in Text note below.](#1397mm_1)
-
-[<sup>2</sup> So in original.](#1397mm_2)

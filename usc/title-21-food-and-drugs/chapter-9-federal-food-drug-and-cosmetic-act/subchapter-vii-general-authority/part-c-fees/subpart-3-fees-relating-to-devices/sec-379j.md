@@ -100,7 +100,31 @@ Except as provided in subparagraph (B), each establishment subject to a registra
 
 #### (B) Exception ####
 
+#### (i) In general ####
+
 No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup><a href="#379j_1_target" name="379j_1">1</a></sup> [25 U.S.C. 5301 et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
+
+#### (ii) Small businesses fee waiver ####
+
+#### (I) Definition of small business ####
+
+For purposes of this clause, the term "small business" means an entity that reported $1,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
+
+#### (II) Waiver ####
+
+The Secretary may grant a waiver of the fee required under subparagraph (A) for the annual registration (excluding the initial registration) of an establishment for a year, beginning on October 1, 2024, if the Secretary finds that the establishment is a small business and paying the fee for such year represents a financial hardship to the establishment as determined by the Secretary.
+
+#### (III) Firms submitting tax returns to the United States Internal Revenue Service ####
+
+The establishment shall support its claim that it meets the definition under subclause (I) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subclause (I). The establishment, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the establishment shall certify that the establishment has no affiliates.
+
+#### (IV) Firms not submitting tax returns to the United States Internal Revenue Service ####
+
+In the case of an establishment that has not previously submitted a Federal income tax return, the establishment and each of its affiliates shall demonstrate that it meets the definition under subclause (I) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the establishment or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority, if extant, of the country in which the establishment or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the establishment's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The establishment shall also submit a statement signed by the head of the establishment's firm or by its chief financial officer that the establishment has submitted certifications for all of its affiliates, or that the establishment has no affiliates.
+
+#### (V) Request for waiver ####
+
+An establishment seeking a fee waiver for a year under this clause shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subparagraph (C). The decision of the Secretary regarding whether an entity may receive the waiver for such year is not reviewable.
 
 #### (C) Payment ####
 
@@ -385,7 +409,7 @@ The applicant shall support its claim that it meets the definition under subpara
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service ####
 
-In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority, if extant, of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees ####
 
@@ -423,7 +447,7 @@ The applicant shall support its claim that it meets the definition under subpara
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service ####
 
-In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority, if extant, of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees ####
 
@@ -459,7 +483,7 @@ If the Secretary does not assess fees under subsection (a) during any portion of
 
 #### (3) Limitation ####
 
-Beginning on October 1, 2023, the authorities under section 379i(9)(C) of this title shall include only leasing and necessary scientific equipment.
+Beginning on October 1, 2023, the authorities under section 379i(10)(C) of this title shall include only leasing and necessary scientific equipment.
 
 #### (h) Crediting and availability of fees ####
 
@@ -475,13 +499,17 @@ The fees authorized by this section—
 
 (i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation, for such fiscal year, and
 
-(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of device applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2009 multiplied by the adjustment factor.
+(ii) shall be available—
+
+(I) for fiscal year 2023, to defray increases in the costs of the resources allocated for the process for the review of device applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2009 multiplied by the adjustment factor; and
+
+(II) for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the resources allocated for the process for the review of device applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture and other necessary materials and supplies in connection with the process for the review of device applications, is no less than the amount allocated for such costs, excluding any such costs paid from fees collected under this section, for fiscal year 2009 multiplied by the adjustment factor.
 
 #### (B) Compliance ####
 
 #### (i) In general ####
 
-The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for the process for the review of device applications—
+The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated as described in subclause (I) or (II) of such subparagraph, as applicable—
 
 (I) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
 
@@ -531,7 +559,7 @@ To qualify for consideration for a refund under subsection (a)(2)(D), a person s
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title II, §203(a)–(f)(1), (2)(B)–(i), title IX, §905(b)(2), Aug. 18, 2017, 131 Stat. 1013–1016, 1090; Pub. L. 117–180, div. F, title II, §2003, Sept. 30, 2022, 136 Stat. 2148.)
+(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title II, §203(a)–(f)(1), (2)(B)–(i), title IX, §905(b)(2), Aug. 18, 2017, 131 Stat. 1013–1016, 1090; Pub. L. 117–180, div. F, title II, §2003, Sept. 30, 2022, 136 Stat. 2148; Pub. L. 117–328, div. FF, title III, §§3309, 3625(d), (e)(1), Dec. 29, 2022, 136 Stat. 5836, 5882.)
 
 #### Termination of Section ####
 
@@ -541,7 +569,7 @@ For termination of section by section 2007(a) of Pub. L. 117–180, see Effectiv
 
 #### References in Text ####
 
-The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B)(i), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 Section 2001(b) of the Medical Device User Fee Amendments of 2022, referred to in subsec. (c)(4)(A), (C), (D), (5)(E), is section 2001(b) of title II of div. F of Pub. L. 117–180, which is set out as a note under section 379i of this title.
 
@@ -560,6 +588,8 @@ Subsec. (a)(2)(A)(viii). Pub. L. 117–180, §2003(a)(2)(A)(iii), substituted "4
 Subsec. (a)(2)(B)(iii). Pub. L. 117–180, §2003(a)(2)(B), substituted "premarket notification submission, or de novo classification request" for "or premarket notification submission".
 
 Subsec. (a)(2)(C). Pub. L. 117–180, §2003(a)(2)(C), substituted "periodic reporting concerning a class III device, or de novo classification request" for "or periodic reporting concerning a class III device".
+
+Subsec. (a)(3)(B). Pub. L. 117–328, §3309(a), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
 Subsec. (b)(1). Pub. L. 117–180, §2003(b)(1), substituted "2023 through 2027" for "2018 through 2022".
 
@@ -583,9 +613,21 @@ Subsec. (c)(3). Pub. L. 117–180, §2003(c)(3), substituted "2023 through 2027"
 
 Subsec. (c)(4) to (8). Pub. L. 117–180, §2003(c)(4), (5), added pars. (4) to (6) and redesignated former pars. (4) and (5) as (7) and (8), respectively.
 
+Subsec. (d)(2)(B)(iii). Pub. L. 117–328, §3309(b), inserted ", if extant," after "national taxing authority".
+
+Subsec. (e)(2)(B)(iii). Pub. L. 117–328, §3625(d)(1), inserted ", if extant," after "national taxing authority".
+
 Subsec. (g)(1)(A). Pub. L. 117–180, §2003(d)(1), substituted "$398,566,000" for "$320,825,000".
 
 Subsec. (g)(2). Pub. L. 117–180, §2003(d)(2), inserted "de novo classification requests," after "class III device,".
+
+Subsec. (g)(3). Pub. L. 117–328, §3625(e)(1), which directed technical correction to directory language of Pub. L. 115–52, §905(b)(2), was executed by making technical correction to that section as if the amendment were retroactive to the effective date of the amendment by Pub. L. 115–52 to reflect the probable intent of Congress. See 2017 Amendment note below.
+
+Pub. L. 117–328, §3625(d)(3), substituted "379i(10)(C) of this title" for "section 379i(9)(C) of this title".
+
+Subsec. (h)(2)(A)(ii). Pub. L. 117–328, §3625(d)(2)(A), substituted "shall be available—" for "shall be available to defray", designated remainder of existing provisions as subcl. (I), inserted "for fiscal year 2023, to defray" before "increases in the costs", and added subcl. (II).
+
+Subsec. (h)(2)(B)(i). Pub. L. 117–328, §3625(d)(2)(B), substituted "as described in subclause (I) or (II) of such subparagraph, as applicable" for "for the process for the review of device applications" in introductory provisions.
 
 Subsec. (h)(3). Pub. L. 117–180, §2003(e), amended par. (3) generally. Prior to amendment, text read as follows: "For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount specified under subsection (b)(3) for the fiscal year, as adjusted under subsection (c)."
 
@@ -643,7 +685,7 @@ Subsec. (h). Pub. L. 115–52, §203(f)(2)(B)(i), redesignated subsec. (i) as (h
 
 Subsec. (h)(3). Pub. L. 115–52, §203(i)(1), substituted "2018 through 2022" for "2013 through 2017" and "subsection (c)." for "subsection (c) and, for fiscal year 2017 only, as further adjusted under paragraph (4)."
 
-Pub. L. 115–52, §905(b)(2), added par. (3), effective Aug. 18, 2017. Subsec. (h) subsequently redesignated (g) effective Oct. 1, 2017, by Pub. L. 115–52, §203(f)(2)(B)(i). See Amendment note above.
+Pub. L. 115–52, §905(b)(2), as amended by Pub. L. 117–328, §3625(e)(1), added par. (3), effective Aug. 18, 2017. Subsec. (h) subsequently redesignated (g) effective Oct. 1, 2017, by Pub. L. 115–52, §203(f)(2)(B)(i). See Amendment note above.
 
 Subsec. (h)(4). Pub. L. 115–52, §203(i)(2), struck out par. (4). Text read as follows: "If the cumulative amount of fees collected during fiscal years 2013, 2014, and 2015, added to the amount estimated to be collected for fiscal year 2016, which estimate shall be based upon the amount of fees received by the Secretary through June 30, 2016, exceeds the cumulative amount appropriated pursuant to paragraph (3) for these four fiscal years, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017."
 
@@ -828,6 +870,8 @@ Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted "subsection (a)(2)
 #### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–328, div. FF, title III, §3625(e)(2), Dec. 29, 2022, 136 Stat. 5882, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect as though included in the enactment of section 905 of the FDA Reauthorization Act of 2017 (Public Law 115–52) [Aug. 18, 2017]."
 
 Amendments by Pub. L. 117–180 effective Oct. 1, 2022, with fees under this subpart to be assessed for all submissions listed in subsec. (a)(2)(A) of this section received on or after Oct. 1, 2022, see section 2008 of Pub. L. 117–180, set out as a note under section 360d of this title.
 

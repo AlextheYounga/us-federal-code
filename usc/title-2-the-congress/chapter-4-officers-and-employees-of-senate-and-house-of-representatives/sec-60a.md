@@ -86,6 +86,8 @@ In addition to these acts the following House Resolutions affected the salary of
 
 The following acts have provided for funds for the operation of Congress:
 
+Pub. L. 117–328, div. I, title I, Dec. 29, 2022, 136 Stat. 4913.
+
 Pub. L. 117–103, div. I, title I, Mar. 15, 2022, 136 Stat. 502.
 
 Pub. L. 116–260, div. I, title I, Dec. 27, 2020, 134 Stat. 1628.

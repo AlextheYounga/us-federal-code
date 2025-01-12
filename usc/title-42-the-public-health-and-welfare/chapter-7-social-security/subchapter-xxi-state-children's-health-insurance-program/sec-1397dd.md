@@ -68,13 +68,13 @@ For the purpose of providing allotments to States under this section, subject to
 
 (B) $2,850,000,000 for the period beginning on April 1, 2023, and ending on September 30, 2023;
 
-(27) for each of fiscal years 2024 through 2026, such sums as are necessary to fund allotments to States under subsections (c) and (m); and
+(27) for each of fiscal years 2024 through 2028, such sums as are necessary to fund allotments to States under subsections (c) and (m); and
 
-(28) for fiscal year 2027, for purposes of making two semi-annual allotments—
+(28) for fiscal year 2029, for purposes of making two semi-annual allotments—
 
-(A) $7,650,000,000 for the period beginning on October 1, 2026, and ending on March 31, 2027; and
+(A) $7,650,000,000 for the period beginning on October 1, 2028, and ending on March 31, 2029; and
 
-(B) $7,650,000,000 for the period beginning on April 1, 2027, and ending on September 30, 2027.
+(B) $7,650,000,000 for the period beginning on April 1, 2029, and ending on September 30, 2029.
 
 #### (b) Allotments to 50 States and District of Columbia ####
 
@@ -734,7 +734,7 @@ Subject to paragraphs (5), (7), and (12), from the amount made available under p
 
 #### (i) Rebasing in fiscal year 2013 and each succeeding odd-numbered fiscal year ####
 
-For fiscal year 2013 and each succeeding odd-numbered fiscal year (other than fiscal years 2015, 2017,,<sup><a href="#1397dd_3_target" name="1397dd_3">3</a></sup> 2023, and 2027), the allotment of the State is equal to the Federal payments to the State that are attributable to (and countable toward) the total amount of allotments available under this section to the State in the preceding fiscal year (including payments made to the State under subsection (n) for such preceding fiscal year as well as amounts redistributed to the State in such preceding fiscal year), multiplied by the allotment increase factor under paragraph (6) for such odd-numbered fiscal year.
+For fiscal year 2013 and each succeeding odd-numbered fiscal year (other than fiscal years 2015, 2017, 2023, and 2029), the allotment of the State is equal to the Federal payments to the State that are attributable to (and countable toward) the total amount of allotments available under this section to the State in the preceding fiscal year (including payments made to the State under subsection (n) for such preceding fiscal year as well as amounts redistributed to the State in such preceding fiscal year), multiplied by the allotment increase factor under paragraph (6) for such odd-numbered fiscal year.
 
 #### (ii) Growth factor update for fiscal year 2014 and each succeeding even-numbered fiscal year ####
 
@@ -824,7 +824,7 @@ The first half ratio described in this subparagraph is the ratio of—
 
 #### (5) Proration rule ####
 
-If, after the application of this subsection without regard to this paragraph, the sum of the allotments determined under paragraph (1), (2), (3), (4), (10), or (11) for a fiscal year (or, in the case of fiscal year 2015, 2017, 2023, or 2027, for a semi-annual period in such fiscal year) exceeds the amount available under subsection (a) for such fiscal year or period, the Secretary shall reduce each allotment for any State under such paragraph for such fiscal year or period on a proportional basis.
+If, after the application of this subsection without regard to this paragraph, the sum of the allotments determined under paragraph (1), (2), (3), (4), (10), or (11) for a fiscal year (or, in the case of fiscal year 2015, 2017, 2023, or 2029, for a semi-annual period in such fiscal year) exceeds the amount available under subsection (a) for such fiscal year or period, the Secretary shall reduce each allotment for any State under such paragraph for such fiscal year or period on a proportional basis.
 
 #### (6) Allotment increase factor ####
 
@@ -842,7 +842,7 @@ The allotment increase factor under this paragraph for a fiscal year is equal to
 
 In the case of one of the 50 States or the District of Columbia that—
 
-(A) has submitted to the Secretary, and has approved by the Secretary, a State plan amendment or waiver request relating to an expansion of eligibility for children or benefits under this subchapter that becomes effective for a fiscal year (beginning with fiscal year 2010 and ending with fiscal year 2027,); <sup><a href="#1397dd_6_target" name="1397dd_6">6</a></sup> and
+(A) has submitted to the Secretary, and has approved by the Secretary, a State plan amendment or waiver request relating to an expansion of eligibility for children or benefits under this subchapter that becomes effective for a fiscal year (beginning with fiscal year 2010 and ending with fiscal year 2029); and
 
 (B) has submitted to the Secretary, before the August 31 preceding the beginning of the fiscal year (or, in the case of fiscal year 2018, by not later than the date that is 60 days after January 22, 2018), a request for an expansion allotment adjustment under this paragraph for such fiscal year that specifies—
 
@@ -850,7 +850,7 @@ In the case of one of the 50 States or the District of Columbia that—
 
 (ii) the extent to which such additional expenditures are projected to exceed the allotment of the State or District for the year,
 
-subject to paragraph (5), the amount of the allotment of the State or District under this subsection for such fiscal year shall be increased by the excess amount described in subparagraph (B)(i). A State or District may only obtain an increase under this paragraph for an allotment for fiscal year 2010, fiscal year 2012, fiscal year 2014, fiscal year 2016, fiscal year 2018, fiscal year 2020, fiscal year 2022, fiscal year 2024, or fiscal year 2026.
+subject to paragraph (5), the amount of the allotment of the State or District under this subsection for such fiscal year shall be increased by the excess amount described in subparagraph (B)(i). A State or District may only obtain an increase under this paragraph for an allotment for fiscal year 2010, fiscal year 2012, fiscal year 2014, fiscal year 2016, fiscal year 2018, fiscal year 2020, fiscal year 2022, fiscal year 2024, fiscal year 2026, or fiscal year 2028.
 
 #### (8) Adjustment of fiscal year 2010 allotments to account for changes in projected spending for certain previously approved expansion programs ####
 
@@ -858,7 +858,7 @@ For purposes of recalculating the fiscal year 2010 allotment, in the case of one
 
 #### (9) Availability of amounts for semi-annual periods in certain fiscal years ####
 
-Each semi-annual allotment made under paragraph (3), (4), (10), or (11) for a period in fiscal year 2015, 2017, 2023, or 2027, shall remain available for expenditure under this subchapter for periods after the end of such fiscal year in the same manner as if the allotment had been made available for the entire fiscal year.
+Each semi-annual allotment made under paragraph (3), (4), (10), or (11) for a period in fiscal year 2015, 2017, 2023, or 2029, shall remain available for expenditure under this subchapter for periods after the end of such fiscal year in the same manner as if the allotment had been made available for the entire fiscal year.
 
 #### (10) For fiscal year 2023 ####
 
@@ -894,7 +894,7 @@ The first half ratio described in this subparagraph is the ratio of—
 
 (II) the amount made available under subsection (a)(26)(B).
 
-#### (11) For fiscal year 2027 ####
+#### (11) For fiscal year 2029 ####
 
 #### (A) First half ####
 
@@ -910,7 +910,7 @@ Subject to paragraphs (5) and (7), from the amount made available under subparag
 
 #### (C) Full year amount based on rebased amount ####
 
-The amount described in this subparagraph for a State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2026 (including payments made to the State under subsection (n) for fiscal year 2026 as well as amounts redistributed to the State in fiscal year 2026), multiplied by the allotment increase factor under paragraph (6) for fiscal year 2027.
+The amount described in this subparagraph for a State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2028 (including payments made to the State under subsection (n) for fiscal year 2028 as well as amounts redistributed to the State in fiscal year 2028), multiplied by the allotment increase factor under paragraph (6) for fiscal year 2029.
 
 #### (D) First half ratio ####
 
@@ -954,11 +954,11 @@ Subject to subparagraphs (B) and (D), out of any money in the Treasury of the Un
 
 (i) for fiscal year 2009, an amount equal to 20 percent of the amount made available under paragraph (12) of subsection (a) for the fiscal year; and
 
-(ii) for each of fiscal years 2010 through 2014, 2016, 2018 through 2022, and 2024 through 2026 (and for each of the semi-annual allotment periods for fiscal years 2015, 2017, 2023, and 2027), such sums as are necessary for making payments to eligible States for such fiscal year or period, but not in excess of the aggregate cap described in subparagraph (B).
+(ii) for each of fiscal years 2010 through 2014, 2016, 2018 through 2022, and 2024 through 2028 (and for each of the semi-annual allotment periods for fiscal years 2015, 2017, 2023, and 2029), such sums as are necessary for making payments to eligible States for such fiscal year or period, but not in excess of the aggregate cap described in subparagraph (B).
 
 #### (B) Aggregate cap ####
 
-The total amount available for payment from the Fund for each of fiscal years 2010 through 2014, 2016, 2018 through 2022, and 2024 through 2026 (and for each of the semi-annual allotment periods for fiscal years 2015, 2017, 2023, and 2027), taking into account deposits made under subparagraph (C), shall not exceed 20 percent of the amount made available under subsection (a) for the fiscal year or period.
+The total amount available for payment from the Fund for each of fiscal years 2010 through 2014, 2016, 2018 through 2022, and 2024 through 2028 (and for each of the semi-annual allotment periods for fiscal years 2015, 2017, 2023, and 2029), taking into account deposits made under subparagraph (C), shall not exceed 20 percent of the amount made available under subsection (a) for the fiscal year or period.
 
 #### (C) Investment of Fund ####
 
@@ -972,7 +972,7 @@ Any amounts in excess of the aggregate cap described in subparagraph (B) for a f
 
 #### (A) In general ####
 
-If a State's expenditures under this subchapter in any of fiscal years 2009 through 2014, fiscal year 2016, fiscal years 2018 through 2022, or fiscal years 2024 through 2026 (or a semi-annual allotment period for fiscal year 2015, 2017, 2023, or 2027), exceed the total amount of allotments available under this section to the State in the fiscal year or period (determined without regard to any redistribution it receives under subsection (f) that is available for expenditure during such fiscal year or period, but including any carryover from a previous fiscal year) and if the average monthly unduplicated number of children enrolled under the State plan under this subchapter (including children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during such fiscal year or period exceeds its target average number of such enrollees (as determined under subparagraph (B)) for that fiscal year or period, subject to subparagraph (D), the Secretary shall pay to the State from the Fund an amount equal to the product of—
+If a State's expenditures under this subchapter in any of fiscal years 2009 through 2014, fiscal year 2016, fiscal years 2018 through 2022, or fiscal years 2024 through 2028 (or a semi-annual allotment period for fiscal year 2015, 2017, 2023, or 2027), exceed the total amount of allotments available under this section to the State in the fiscal year or period (determined without regard to any redistribution it receives under subsection (f) that is available for expenditure during such fiscal year or period, but including any carryover from a previous fiscal year) and if the average monthly unduplicated number of children enrolled under the State plan under this subchapter (including children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during such fiscal year or period exceeds its target average number of such enrollees (as determined under subparagraph (B)) for that fiscal year or period, subject to subparagraph (D), the Secretary shall pay to the State from the Fund an amount equal to the product of—
 
 (i) the amount by which such average monthly caseload exceeds such target number of enrollees; and
 
@@ -1010,7 +1010,7 @@ For purposes of this paragraph and subsection (f), the State shall submit to the
 
 No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth's or territory's eligibility for, and amount of payment, under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158; Pub. L. 115–90, div. B, §201, Dec. 8, 2017, 131 Stat. 1280; Pub. L. 115–96, div. C, title II, §3201(a)–(b)(2), (c)(1), Dec. 22, 2017, 131 Stat. 2050, 2051; Pub. L. 115–120, div. C, §3002(a)(1), (b)(1), (c), (d)(2), Jan. 22, 2018, 132 Stat. 31–34; Pub. L. 115–123, div. E, title I, §50101(a), (b)(1), (c), Feb. 9, 2018, 132 Stat. 172, 174; Pub. L. 117–2, title IX, §9821(c), Mar. 11, 2021, 135 Stat. 220.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158; Pub. L. 115–90, div. B, §201, Dec. 8, 2017, 131 Stat. 1280; Pub. L. 115–96, div. C, title II, §3201(a)–(b)(2), (c)(1), Dec. 22, 2017, 131 Stat. 2050, 2051; Pub. L. 115–120, div. C, §3002(a)(1), (b)(1), (c), (d)(2), Jan. 22, 2018, 132 Stat. 31–34; Pub. L. 115–123, div. E, title I, §50101(a), (b)(1), (c), Feb. 9, 2018, 132 Stat. 172, 174; Pub. L. 117–2, title IX, §9821(c), Mar. 11, 2021, 135 Stat. 220; Pub. L. 117–328, div. FF, title V, §5111(a), (b)(1), (c)(5), Dec. 29, 2022, 136 Stat. 5938, 5939.)
 
 #### **Editorial Notes** ####
 
@@ -1027,6 +1027,34 @@ Section 3002(b)(2) of the HEALTHY KIDS Act, referred to in subsec. (m)(10)(A), (
 Section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (m)(11)(A), (D)(i)(II), probably means section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Services (ACCESS) Act, Pub. L. 115–123, div. E, title I, Feb. 9, 2018, 132 Stat. 173, which relates to a one-time appropriation for fiscal year 2027 and is not classified to the Code.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(27). Pub. L. 117–328, §5111(a)(1), substituted "through 2028" for "through 2026".
+
+Subsec. (a)(28). Pub. L. 117–328, §5111(a)(2)(A), substituted "for fiscal year 2029" for "for fiscal year 2027" in introductory provisions.
+
+Subsec. (a)(28)(A). Pub. L. 117–328, §5111(a)(2)(B), substituted "beginning on October 1, 2028, and ending on March 31, 2029" for "beginning on October 1, 2026, and ending on March 31, 2027".
+
+Subsec. (a)(28)(B). Pub. L. 117–328, §5111(a)(2)(C), substituted "beginning on April 1, 2029, and ending on September 30, 2029" for "beginning on April 1, 2027, and ending on September 30, 2027".
+
+Subsec. (m)(2)(B)(i). Pub. L. 117–328, §5111(b)(1)(A), substituted "2023, and 2029" for ", 2023, and 2027".
+
+Subsec. (m)(5). Pub. L. 117–328, §5111(b)(1)(B), substituted "or 2029" for "or 2027".
+
+Subsec. (m)(7). Pub. L. 117–328, §5111(b)(1)(C)(ii), substituted "fiscal year 2026, or fiscal year 2028." for "or fiscal year 2026." in concluding provisions.
+
+Subsec. (m)(7)(A). Pub. L. 117–328, §5111(b)(1)(C)(i), substituted "fiscal year 2029" for "fiscal year 2027,".
+
+Subsec. (m)(9). Pub. L. 117–328, §5111(b)(1)(D), substituted "or 2029" for "or 2027".
+
+Subsec. (m)(11). Pub. L. 117–328, §5111(b)(1)(E)(i), substituted "fiscal year 2029" for "fiscal year 2027" in heading.
+
+Subsec. (m)(11)(C). Pub. L. 117–328, §5111(b)(1)(E)(ii), substituted "fiscal year 2028" for "fiscal year 2026" wherever appearing and "fiscal year 2029" for "fiscal year 2027".
+
+Subsec. (n)(2)(A)(ii). Pub. L. 117–328, §5111(c)(5), substituted "2024 through 2028" for "2024 through 2026" and "2023, and 2029" for "2023, and 2027".
+
+Subsec. (n)(2)(B). Pub. L. 117–328, §5111(c)(5), substituted "2024 through 2028" for "2024 through 2026" and "2023, and 2029" for "2023, and 2027".
+
+Subsec. (n)(3)(A). Pub. L. 117–328, §5111(c)(5)(A), substituted "2024 through 2028" for "2024 through 2026" in introductory provisions.
 
 **2021**—Subsec. (m)(2)(B). Pub. L. 117–2, §9821(c)(1), substituted "paragraphs (5), (7), and (12)" for "paragraphs (5) and (7)" in introductory provisions.
 
@@ -1401,5 +1429,3 @@ Pub. L. 105–277, div. A, §101(f) [title VII, §707], Oct. 21, 1998, 112 Stat.
 [<sup>4</sup> So in original. The comma probably should not appear.](#1397dd_4)
 
 [<sup>5</sup> See References in Text note below.](#1397dd_5)
-
-[<sup>6</sup> So in original. Probably should be "2027);".](#1397dd_6)

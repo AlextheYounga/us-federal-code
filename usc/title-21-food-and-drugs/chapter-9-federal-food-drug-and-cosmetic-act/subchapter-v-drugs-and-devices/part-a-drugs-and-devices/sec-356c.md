@@ -14,7 +14,7 @@ A manufacturer of a drug—
 
 (2) that is not a radio pharmaceutical drug product or any other product as designated by the Secretary,
 
-shall notify the Secretary, in accordance with subsection (b), of a permanent discontinuance in the manufacture of the drug or an interruption of the manufacture of the drug that is likely to lead to a meaningful disruption in the supply of that drug in the United States,,<sup><a href="#356c_1_target" name="356c_1">1</a></sup> or a permanent discontinuance in the manufacture of an active pharmaceutical ingredient or an interruption in the manufacture of the active pharmaceutical ingredient of such drug that is likely to lead to a meaningful disruption in the supply of the active pharmaceutical ingredient of such drug, and the reasons for such discontinuance or interruption. Notification under this subsection shall include disclosure of reasons for the discontinuation or interruption, and if applicable, an active pharmaceutical ingredient is a reason for, or risk factor in, such discontinuation or interruption, the source of the active pharmaceutical ingredient and any alternative sources for the active pharmaceutical ingredient known by the manufacturer; whether any associated device used for preparation or administration included in the drug is a reason for, or a risk factor in, such discontinuation or interruption; the expected duration of the interruption; and such other information as the Secretary may require.
+shall notify the Secretary, in accordance with subsection (b), of a permanent discontinuance in the manufacture of the drug or an interruption of the manufacture of the drug that is likely to lead to a meaningful disruption in the supply of that drug in the United States, or a permanent discontinuance in the manufacture of an active pharmaceutical ingredient or an interruption in the manufacture of the active pharmaceutical ingredient of such drug that is likely to lead to a meaningful disruption in the supply of the active pharmaceutical ingredient of such drug, and the reasons for such discontinuance or interruption. Notification under this subsection shall include disclosure of reasons for the discontinuation or interruption, and if applicable, an active pharmaceutical ingredient is a reason for, or risk factor in, such discontinuation or interruption, the source of the active pharmaceutical ingredient and any alternative sources for the active pharmaceutical ingredient known by the manufacturer; whether any associated device used for preparation or administration included in the drug is a reason for, or a risk factor in, such discontinuation or interruption; the expected duration of the interruption; and such other information as the Secretary may require.
 
 #### (b) Timing ####
 
@@ -126,17 +126,21 @@ Notwithstanding any other provision of Federal law, in implementing this section
 
 Each manufacturer of a drug described in subsection (a) or of any active pharmaceutical ingredient or any associated medical device used for preparation or administration included in the drug, shall develop, maintain, and implement, as appropriate, a redundancy risk management plan that identifies and evaluates risks to the supply of the drug, as applicable, for each establishment in which such drug or active pharmaceutical ingredient of such drug is manufactured. A risk management plan under this section shall be subject to inspection and copying by the Secretary pursuant to an inspection or a request under section 374(a)(4) of this title.
 
-(June 25, 1938, ch. 675, §506C, as added Pub. L. 105–115, title I, §131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, §1001(a), July 9, 2012, 126 Stat. 1099; Pub. L. 114–255, div. A, title III, §3101(a)(2)(E), Dec. 13, 2016, 130 Stat. 1153; Pub. L. 116–136, div. A, title III, §§3111–3112(b), Mar. 27, 2020, 134 Stat. 361, 362.)
+(June 25, 1938, ch. 675, §506C, as added Pub. L. 105–115, title I, §131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, §1001(a), July 9, 2012, 126 Stat. 1099; Pub. L. 114–255, div. A, title III, §3101(a)(2)(E), Dec. 13, 2016, 130 Stat. 1153; Pub. L. 116–136, div. A, title III, §§3111–3112(b), Mar. 27, 2020, 134 Stat. 361, 362; Pub. L. 117–328, div. FF, title II, §2515(a)(1), (b)(1), Dec. 29, 2022, 136 Stat. 5806.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
+**2022**—Subsec. (a). Pub. L. 117–328, §2515(b)(1), substituted "in the United States," for "in the United States,," in concluding provisions.
+
+Subsec. (g). Pub. L. 117–328, §2515(a)(1), made technical amendment to directory language of Pub. L. 116–136, §3111(1). See 2020 Amendment note below.
+
 **2020**—Subsec. (a). Pub. L. 116–136, §3112(a)(2), in concluding provisions, inserted ", or a permanent discontinuance in the manufacture of an active pharmaceutical ingredient or an interruption in the manufacture of the active pharmaceutical ingredient of such drug that is likely to lead to a meaningful disruption in the supply of the active pharmaceutical ingredient of such drug," before "and the reasons" and inserted at end "Notification under this subsection shall include disclosure of reasons for the discontinuation or interruption, and if applicable, an active pharmaceutical ingredient is a reason for, or risk factor in, such discontinuation or interruption, the source of the active pharmaceutical ingredient and any alternative sources for the active pharmaceutical ingredient known by the manufacturer; whether any associated device used for preparation or administration included in the drug is a reason for, or a risk factor in, such discontinuation or interruption; the expected duration of the interruption; and such other information as the Secretary may require."
 
 Subsec. (a)(1)(C). Pub. L. 116–136, §3112(a)(1), inserted "or any such drug that is critical to the public health during a public health emergency declared by the Secretary under section 247d of title 42" after "during surgery".
 
-Subsec. (g). Pub. L. 116–136, §3111(1), which directed substitution of "the Secretary shall, as appropriate" for "the Secretary may" in par. (1), was executed by making the substitution in introductory provisions to reflect the probable intent of Congress.
+Subsec. (g). Pub. L. 116–136, §3111(1), as amended by Pub. L. 117–328, §2515(a)(1), substituted "the Secretary shall, as appropriate" for "the Secretary may" in introductory provisions.
 
 Subsec. (g)(1). Pub. L. 116–136, §3111(2), inserted "prioritize and" before "expedite the review".
 
@@ -151,6 +155,10 @@ Subsec. (g)(1). Pub. L. 114–255, §3101(a)(2)(E)(ii), substituted "section 355
 **2012**—Pub. L. 112–144 amended section generally. Prior to amendment, section related to discontinuance of life saving products.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–328, div. FF, title II, §2515(b)(2), Dec. 29, 2022, 136 Stat. 5806, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect as if included in section 3112 of division A of the CARES Act (Public Law 116–136)."
 
 #### Effective Date of 2020 Amendment ####
 
@@ -207,5 +215,3 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.
-
-[<sup>1</sup> So in original.](#356c_1)

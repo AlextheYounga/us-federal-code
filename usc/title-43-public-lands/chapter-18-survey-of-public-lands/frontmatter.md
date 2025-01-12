@@ -45,3 +45,5 @@ Sec.
 774. Protection of surveyor by marshal.
 
 775. Omitted.
+
+776. Cadastre of Federal real property.

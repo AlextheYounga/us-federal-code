@@ -16,6 +16,12 @@ The fellowships awarded under subsection (a) shall be for postbaccalaureate trai
 
 #### (c) Authorization of appropriations ####
 
-To carry out this section, there are authorized to be appropriated $12,669,000 for each of fiscal years 2018 through 2022.
+To carry out this section, there are authorized to be appropriated $25,000,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §597, as added Pub. L. 114–255, div. B, title IX, §9024, Dec. 13, 2016, 130 Stat. 1253.)
+(July 1, 1944, ch. 373, title V, §597, as added Pub. L. 114–255, div. B, title IX, §9024, Dec. 13, 2016, 130 Stat. 1253; amended Pub. L. 117–328, div. FF, title I, §1312, Dec. 29, 2022, 136 Stat. 5697.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (c). Pub. L. 117–328 substituted "$25,000,000 for each of fiscal years 2023 through 2027" for "$12,669,000 for each of fiscal years 2018 through 2022".

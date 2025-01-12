@@ -16,6 +16,14 @@ The historical park shall consist of lands and interests therein as follows:
 
 (4) Not to exceed 10 acres of land that the Secretary may designate for an interpretive visitor center complex to serve the needs of the historical park and heritage area established in part B of this subchapter.
 
-(Pub. L. 103–449, title III, §303, Nov. 2, 1994, 108 Stat. 4758.)
+(5) The approximately 46.1 acres of land identified as "Proposed Addition", as generally depicted on the map entitled "Cane River Creole National Historical Park Proposed Addition—Magnolia Plantation Unit", numbered 494/176,958, and dated October 2021.
+
+(Pub. L. 103–449, title III, §303, Nov. 2, 1994, 108 Stat. 4758; Pub. L. 117–328, div. DD, title VI, §614, Dec. 29, 2022, 136 Stat. 5604.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (b)(5). Pub. L. 117–328 added par. (5).
 
 [<sup>1</sup> So in original. Probably should be "Badin-Roque".](#410ccc-1_1)

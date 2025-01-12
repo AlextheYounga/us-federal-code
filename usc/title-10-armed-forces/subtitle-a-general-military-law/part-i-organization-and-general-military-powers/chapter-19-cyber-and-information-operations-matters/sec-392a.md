@@ -144,7 +144,7 @@
 
 (5) Principal Cyber Advisors' Briefing to Congress.—Not later than February 1, 2021, and biannually thereafter, each Principal Cyber Advisor under paragraph (1) shall brief the Committees on Armed Services of the Senate and House of Representatives on that Advisor's activities and ability to perform the functions specified in paragraph (2).
 
-(Added and amended Pub. L. 117–263, div. A, title XV, §1501(b), Dec. 23, 2022, 136 Stat. 2878.)
+(Added and amended Pub. L. 117–263, div. A, title XV, §1501(b), Dec. 23, 2022, 136 Stat. 2877.)
 
 #### **Editorial Notes** ####
 

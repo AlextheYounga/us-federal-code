@@ -34,7 +34,7 @@ Sec.
 
 516. Effect upon enlisted status of acceptance of appointment as cadet or midshipman.
 
-517. Authorized enlisted end strength: members in pay grades E–8 and E–9.
+517. Authorized enlisted end strength: members in pay grades E–8 and E–⁠9.
 
 518. Temporary enlistments.
 
@@ -52,7 +52,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IV, §403(b), Jan. 1, 2021, 134 Stat. 3556, added item 517 and struck out former item 517 "Authorized daily average: members in pay grades E–8 and E–9".
+**2021**—Pub. L. 116–283, div. A, title IV, §403(b), Jan. 1, 2021, 134 Stat. 3556, added item 517 and struck out former item 517 "Authorized daily average: members in pay grades E–8 and E–⁠9".
 
 **2004**—Pub. L. 108–375, div. A, title V, §551(a)(2), Oct. 28, 2004, 118 Stat. 1911, added item 511.
 

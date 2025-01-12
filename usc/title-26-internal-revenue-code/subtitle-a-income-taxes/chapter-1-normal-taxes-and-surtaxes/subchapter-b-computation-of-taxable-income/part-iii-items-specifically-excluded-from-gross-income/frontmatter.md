@@ -84,7 +84,7 @@ Sec.
 
 139B. Benefits provided to volunteer firefighters and emergency medical responders.
 
-[139C. Repealed.]
+139C. Certain disability-related first responder retirement payments.
 
 139D. Indian health care benefits.
 
@@ -103,6 +103,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. T, title III, §309(b), Dec. 29, 2022, 136 Stat. 5346, added item 139C.
 
 **2021**—Pub. L. 117–2, title IX, §9501(b)(4)(B), Mar. 11, 2021, 135 Stat. 137, added item 139I.
 

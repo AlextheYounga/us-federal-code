@@ -6,7 +6,11 @@
 
 A sponsor of a drug that has entered into an agreement with the Secretary to conduct a postmarketing study of a drug shall submit to the Secretary, within 1 year after the approval of such drug and annually thereafter until the study is completed or terminated, a report of the progress of the study or the reasons for the failure of the sponsor to conduct the study. The report shall be submitted in such form as is prescribed by the Secretary in regulations issued by the Secretary.
 
-#### (2) Agreements prior to effective date ####
+#### (2) Accelerated approval ####
+
+Notwithstanding paragraph (1), a sponsor of a drug approved pursuant to accelerated approval shall submit to the Secretary a report of the progress of any study required under section 356(c) of this title, including progress toward enrollment targets, milestones, and other information as required by the Secretary, not later than 180 days after the approval of such drug and not less frequently than every 180 days thereafter, until the study is completed or terminated. The Secretary shall promptly publish on the website of the Food and Drug Administration, in an easily searchable format, the information reported under this paragraph.
+
+#### (3) Agreements prior to effective date ####
 
 Any agreement entered into between the Secretary and a sponsor of a drug, prior to November 21, 1997, to conduct a postmarketing study of a drug shall be subject to the requirements of paragraph (1). An initial report for such an agreement shall be submitted within 6 months after the date of the issuance of the regulations under paragraph (1).
 
@@ -34,7 +38,7 @@ If a sponsor fails to complete an agreed upon study required by this section by 
 
 With respect to studies of the type required under section 356(c)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as each of such sections was in effect on the day before the effective date of this subsection, the Secretary may require that a sponsor who, for reasons not satisfactory to the Secretary, fails to complete by its deadline a study under any of such sections of such type for a drug or biological product (including such a study conducted after such effective date) notify practitioners who prescribe such drug or biological product of the failure to complete such study and the questions of clinical benefit, and, where appropriate, questions of safety, that remain unanswered as a result of the failure to complete such study. Nothing in this subsection shall be construed as altering the requirements of the types of studies required under section 356(c)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as so in effect, or as prohibiting the Secretary from modifying such sections of title 21 of such Code to provide for studies in addition to those of such type.
 
-(June 25, 1938, ch. 675, §506B, as added Pub. L. 105–115, title I, §130(a), Nov. 21, 1997, 111 Stat. 2331; amended Pub. L. 107–188, title V, §506, June 12, 2002, 116 Stat. 693; Pub. L. 112–144, title IX, §902(c), July 9, 2012, 126 Stat. 1088.)
+(June 25, 1938, ch. 675, §506B, as added Pub. L. 105–115, title I, §130(a), Nov. 21, 1997, 111 Stat. 2331; amended Pub. L. 107–188, title V, §506, June 12, 2002, 116 Stat. 693; Pub. L. 112–144, title IX, §902(c), July 9, 2012, 126 Stat. 1088; Pub. L. 117–328, div. FF, title III, §3210(b), Dec. 29, 2022, 136 Stat. 5823.)
 
 #### **Editorial Notes** ####
 
@@ -43,6 +47,8 @@ With respect to studies of the type required under section 356(c)(2)(A) of this 
 The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 2002, see Effective Date of 2002 Amendment note set out below.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(2), (3). Pub. L. 117–328 added par. (2) and redesignated former par. (2) as (3).
 
 **2012**—Subsec. (e). Pub. L. 112–144 substituted "section 356(c)(2)(A) of this title" for "section 356(b)(2)(A) of this title" in two places.
 
@@ -57,6 +63,10 @@ Pub. L. 107–188, title V, §508, June 12, 2002, 116 Stat. 694, provided that: 
 #### Effective Date ####
 
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
+
+#### Construction of 2022 Amendment ####
+
+Nothing in amendment made by Pub. L. 117–328 to be construed to affect ongoing withdrawal proceedings for products approved pursuant to section 356(c) of this title for which a notice of proposed withdrawal has been published in the Federal Register prior to Dec. 29, 2022, see section 3210(f) of Pub. L. 117–328, set out as a note under section 356 of this title.
 
 #### Report to Congressional Committees ####
 

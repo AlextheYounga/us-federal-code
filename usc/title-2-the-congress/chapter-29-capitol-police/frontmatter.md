@@ -40,6 +40,8 @@ Sec.
 
 1911. General Counsel to the Chief of Police and the United States Capitol Police.
 
+1912. Volunteer chaplain services.
+
 #### Part B—Compensation and Other Personnel Matters ####
 
 1921. Repealed.
@@ -103,6 +105,8 @@ Sec.
 1965a. Prohibition on use of funds for installation of permanent fencing on Capitol Grounds.
 
 1966. Protection of Members of Congress, officers of Congress, and members of their families.
+
+1966a. Protection of former Speakers of the House of Representatives.
 
 1967. Law enforcement authority.
 

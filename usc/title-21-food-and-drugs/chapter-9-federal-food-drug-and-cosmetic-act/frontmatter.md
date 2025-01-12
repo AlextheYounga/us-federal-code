@@ -84,6 +84,8 @@ Sec.
 
 350a. Infant formulas.
 
+350a–1. Protecting infants and improving formula supply.
+
 350b. New dietary ingredients.
 
 350c. Maintenance and inspection of records.
@@ -107,6 +109,8 @@ Sec.
 350l. Mandatory recall authority.
 
 350l–1. Annual report to Congress.
+
+350m. Requirements for critical food.
 
 #### SUBCHAPTER V—DRUGS AND DEVICES ####
 
@@ -158,6 +162,8 @@ Sec.
 
 356–1. Accelerated approval of priority countermeasures.
 
+356–2. Accelerated approval Council.
+
 356a. Manufacturing changes.
 
 356b. Reports of postmarketing studies.
@@ -179,6 +185,10 @@ Sec.
 356i. Prompt reports of marketing status.
 
 356j. Discontinuance or interruption in the production of medical devices.
+
+356k. Platform technologies.
+
+356 l. Advanced manufacturing technologies designation program.
 
 357. Qualification of drug development tools.
 
@@ -210,11 +220,15 @@ Sec.
 
 360e–3. Breakthrough devices.
 
+360e–4. Predetermined change control plans for devices.
+
 360f. Banned devices.
 
 360g. Judicial review.
 
 360g–1. Agency documentation and review of significant decisions regarding devices.
+
+360g–2. Third party data transparency.
 
 360h. Notification and other remedies.
 
@@ -233,6 +247,8 @@ Sec.
 360n. Priority review to encourage treatments for tropical diseases.
 
 360n–1. Priority review for qualified infectious disease products.
+
+360n–2. Ensuring cybersecurity of devices.
 
 #### Part B—Drugs for Rare Diseases or Conditions ####
 
@@ -310,6 +326,8 @@ Sec.
 
 360bbb–5. Critical Path Public-Private Partnerships.
 
+360bbb–5a. Emerging technology program.
+
 360bbb–6. Risk communication.
 
 360bbb–7. Notification.
@@ -380,7 +398,27 @@ Sec.
 
 363. Regulations making exemptions.
 
-364. Repealed.
+364. Definitions.
+
+364a. Adverse events.
+
+364b. Good manufacturing practice.
+
+364c. Registration and product listing.
+
+364d. Safety substantiation.
+
+364e. Labeling.
+
+364f. Records.
+
+364g. Mandatory recall authority.
+
+364h. Small businesses.
+
+364i. Exemption for certain products and facilities.
+
+364j. Preemption.
 
 #### SUBCHAPTER VII—GENERAL AUTHORITY ####
 
@@ -423,6 +461,8 @@ Sec.
 379d–3. Streamlined hiring authority.
 
 379d–3a. Hiring authority for scientific, technical, and professional personnel.
+
+379d–3b. Strategic Workforce Plan and report.
 
 379d–4. Reporting requirements.
 
@@ -652,6 +692,6 @@ Sec.
 
 399g. Food and Drug Administration Intercenter Institutes.
 
-399h. Grants for studying continuous drug manufacturing.
+399h. National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufacturing.
 
 399i. Food and Drug Administration Working Capital Fund.

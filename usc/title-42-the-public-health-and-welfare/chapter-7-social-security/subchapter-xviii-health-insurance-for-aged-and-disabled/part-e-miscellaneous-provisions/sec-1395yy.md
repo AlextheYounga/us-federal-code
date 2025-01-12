@@ -76,7 +76,7 @@ The term "covered skilled nursing facility services"—
 
 #### (ii) Services excluded ####
 
-Services described in this clause are physicians' services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+Services described in this clause are physicians' services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, marriage and family therapist services (as defined in section 1395x(lll)(1) of this title), mental health counselor services (as defined in section 1395x(lll)(3) of this title), services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
 
 #### (iii) Exclusion of certain additional items and services ####
 
@@ -586,7 +586,11 @@ The Secretary shall apply to the measures applied under this subsection and the 
 
 For purposes of carrying out this paragraph, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund established under section 1395i of this title, of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2023 through 2025, to remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) [title II, §203(a), title III, §311(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965; Pub. L. 114–10, title IV, §411(a), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title XII, §53111, Feb. 9, 2018, 132 Stat. 304; Pub. L. 116–260, div. CC, title I, §§111(a), 134(a), Dec. 27, 2020, 134 Stat. 2944, 2977.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) [title II, §203(a), title III, §311(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965; Pub. L. 114–10, title IV, §411(a), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title XII, §53111, Feb. 9, 2018, 132 Stat. 304; Pub. L. 116–260, div. CC, title I, §§111(a), 134(a), Dec. 27, 2020, 134 Stat. 2944, 2977; Pub. L. 117–328, div. FF, title IV, §4121(a)(4), Dec. 29, 2022, 136 Stat. 5903.)
+
+#### Applicability of Amendment ####
+
+Amendment of section by section 4121(a)(4) of Pub. L. 117–328 applicable with respect to services furnished on or after Jan. 1, 2024. See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -597,6 +601,8 @@ Section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (e)(12)(A), is section 1(a)(6) [title III, §314(a)] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–499, which is not classified to the Code.
 
 #### Amendments ####
+
+**2022**—Subsec. (e)(2)(A)(ii). Pub. L. 117–328 inserted "marriage and family therapist services (as defined in section 1395x(lll)(1) of this title), mental health counselor services (as defined in section 1395x(lll)(3) of this title)," after "qualified psychologist services,".
 
 **2020**—Subsec. (e)(2)(A)(iii)(VI). Pub. L. 116–260, §134(a), added subcl. (VI).
 
@@ -719,6 +725,10 @@ Subsec. (d)(1). Pub. L. 99–514, §1895(b)(7)(A), substituted "cost reporting p
 Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted "cost reporting periods beginning in a fiscal year" for "each fiscal year" and "cost reporting period no later than 30 days before the beginning of that period" for "fiscal year within 60 days after the Secretary establishes the final prospective payment amounts for such fiscal year".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–328 applicable with respect to services furnished on or after Jan. 1, 2024, see section 4121(c) of Pub. L. 117–328, set out as a note under section 1395l of this title.
 
 #### Effective Date of 2020 Amendment ####
 

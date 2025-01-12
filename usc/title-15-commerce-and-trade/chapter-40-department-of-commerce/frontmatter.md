@@ -120,7 +120,7 @@ Sec.
 
 1545. Cooperation with travel agencies; publication of information.
 
-1546. Advisory committee for promotion of tourist travel; expenses.
+1546. United States Travel and Tourism Advisory Board.
 
 1547. Rules and regulations; employees.
 

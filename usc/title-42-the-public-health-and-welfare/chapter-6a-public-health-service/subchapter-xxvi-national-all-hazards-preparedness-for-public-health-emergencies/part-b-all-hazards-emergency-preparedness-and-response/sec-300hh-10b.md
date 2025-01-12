@@ -10,9 +10,11 @@ The Advisory Committee shall—
 
 (1) provide advice and consultation with respect to the activities carried out pursuant to section 300hh–16 of this title, as applicable and appropriate;
 
-(2) evaluate and provide input with respect to the medical, mental and behavioral, and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies; and
+(2) evaluate and provide input with respect to the medical, mental, behavioral, developmental, and public health needs of children as they relate to preparation for, response to, and recovery from all-hazards emergencies;
 
-(3) provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under section 300hh–1(b) of this title.
+(3) provide advice and consultation with respect to State emergency preparedness and response activities and children, including related drills and exercises pursuant to the preparedness goals under section 300hh–1(b) of this title; and
+
+(4) provide advice and consultation with respect to continuity of care and education for all children and supporting parents and caregivers during all-hazards emergencies.
 
 #### (c) Additional duties ####
 
@@ -32,17 +34,17 @@ The Secretary, in consultation with such other heads of Federal agencies as may 
 
 (B) at least 2 representatives from State, local, Tribal, or territorial agencies with expertise in pediatric disaster planning, preparedness, response, or recovery;
 
-(C) at least 4 members representing health care professionals, which may include members with expertise in pediatric emergency medicine; pediatric trauma, critical care, or surgery; the treatment of pediatric patients affected by chemical, biological, radiological, or nuclear agents, including emerging infectious diseases; pediatric mental or behavioral health related to children affected by a public health emergency; or pediatric primary care; and
+(C) at least 4 members representing health care professionals, which may include members with expertise in pediatric emergency medicine; pediatric trauma, critical care, or surgery; the treatment of pediatric patients affected by chemical, biological, radiological, or nuclear agents, including emerging infectious diseases; pediatric mental or behavioral health related to children affected by a public health emergency; or pediatric primary care;
 
-(D) other members as the Secretary determines appropriate, of whom—
+(D) at least 4 non-Federal members representing child care settings, State or local educational agencies, individuals with expertise in children with disabilities, and parents; and
+
+(E) other members as the Secretary determines appropriate, of whom—
 
 (i) at least one such member shall represent a children's hospital;
 
-(ii) at least one such member shall be an individual with expertise in schools or child care settings;
+(ii) at least one such member shall be an individual with expertise in children and youth with special health care needs; and
 
-(iii) at least one such member shall be an individual with expertise in children and youth with special health care needs; and
-
-(iv) at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
+(iii) at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
 
 #### (3) Federal members ####
 
@@ -90,7 +92,7 @@ The Secretary shall coordinate duties and activities authorized under this secti
 
 The Advisory Committee shall terminate on September 30, 2023.
 
-(July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936.)
+(July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936; Pub. L. 117–328, div. FF, title II, §2236, Dec. 29, 2022, 136 Stat. 5756.)
 
 #### **Editorial Notes** ####
 
@@ -99,6 +101,14 @@ The Advisory Committee shall terminate on September 30, 2023.
 Section was formerly classified to section 300hh–10a of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (b)(2). Pub. L. 117–328, §2236(1)(A)(i), substituted ", behavioral, developmental" for "and behavioral".
+
+Subsec. (b)(4). Pub. L. 117–328, §2236(1)(A)(ii)–(C), added par. (4).
+
+Subsec. (d)(2)(D), (E). Pub. L. 117–328, §2236(2)(A)–(C), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (d)(2)(E)(ii) to (iv). Pub. L. 117–328, §2236(2)(D), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: "at least one such member shall be an individual with expertise in schools or child care settings;".
 
 **2019**—Subsec. (b)(2). Pub. L. 116–22, §305(a)(1), inserted ", mental and behavioral," after "medical".
 

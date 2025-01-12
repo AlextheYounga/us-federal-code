@@ -100,7 +100,7 @@ Sec.
 
 1166. Claims involving military sexual trauma.
 
-1167. Outreach pursuant to changes in presumptions of service connection.
+1167. 1 Outreach pursuant to changes in presumptions of service connection.
 
 1168. Medical nexus examinations for toxic exposure risk activities.
 
@@ -118,11 +118,15 @@ Sec.
 
 1176. Agreement with National Academies of Sciences, Engineering, and Medicine concerning toxic exposures.
 
+1167. 2 Mental health consultations.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–271, §1(b)(2), Dec. 27, 2022, 136 Stat. 4180, added item 1166 and struck out former item 1166 "Specialized teams to evaluate claims involving military sexual trauma".
+**2022**—Pub. L. 117–328, div. V, title IV, §404(a)(2), Dec. 29, 2022, 136 Stat. 5512, added item 1167 "Mental health consultations" at end of table of sections for this chapter.
+
+Pub. L. 117–271, §1(b)(2), Dec. 27, 2022, 136 Stat. 4180, added item 1166 and struck out former item 1166 "Specialized teams to evaluate claims involving military sexual trauma".
 
 Pub. L. 117–168, §1(b)(2), title II, §§202(a), 203(a), title III, §§302, 303, title IV, §§403(d), 406(b), Aug. 10, 2022, 136 Stat. 1759, 1766, 1775, 1777, 1779, 1781, 1784, added item for subchapter VII and items 1119, 1120, 1167, and 1168 and substituted "certain locations" for "the Republic of Vietnam" in item 1116.
 
@@ -239,3 +243,7 @@ Pub. L. 117–168, title VI, Aug. 10, 2022, 136 Stat. 1792, provided that:
 "(1) In general.—The Secretary shall incorporate a training program for processors of claims under the laws administered by the Secretary who review claims for disability benefits relating to service-connected disabilities based on toxic exposures.
 
 "(2) Annual training.—Training provided to processors under paragraph (1) shall be provided not less frequently than annually."
+
+[<sup>1</sup> So in original. Another item 1167 follows item 1176.](#CHAPTER11_1)
+
+[<sup>2</sup> So in original. Second item 1167 added by Pub. L. 117–328 at end of analysis.](#CHAPTER11_2)

@@ -80,9 +80,13 @@ Sec.
 
 6050Y. Returns relating to certain life insurance contract transactions.
 
+6050Z. Reports relating to long-term care premium statements.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. T, title III, §334(d)(3), Dec. 29, 2022, 136 Stat. 5372, added item 6050Z.
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(260)–(262), Mar. 23, 2018, 132 Stat. 1196, added item 6041A and substituted "Returns relating to cash received in trade or business, etc." for "Returns relating to cash received in trade or business, etc.." in item 6050I and "Returns relating to payments made in settlement of payment card and third party network transactions" for "Returns relating to payments made in settlement of payment card transactions" in item 6050W.
 

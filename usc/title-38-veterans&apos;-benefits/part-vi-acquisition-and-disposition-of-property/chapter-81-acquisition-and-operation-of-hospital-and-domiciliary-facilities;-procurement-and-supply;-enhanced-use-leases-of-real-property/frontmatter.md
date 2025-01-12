@@ -126,6 +126,18 @@ Sec.
 
 [8169. Repealed.]
 
+#### SUBCHAPTER VI—INFORMATION TECHNOLOGY PROJECTS AND ACTIVITIES ####
+
+8171. Definitions.
+
+8172. Management of major information technology projects.
+
+8173. Information technology activities of the Financial Services Center.
+
+8174. Submission of annual reviews of information technology.
+
+8175. Information technology matters to be included in budget justification materials for the Department.
+
 #### Amendment of Analysis ####
 
 Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.
@@ -134,7 +146,9 @@ Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 23
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–168, §1(b)(2), title VII, §705(d), Aug. 10, 2022, 136 Stat. 1759, 1800, which directed amendment of the analyses of this title to conform to additions or amendments of section and unit headings, was executed to this analysis by striking out item 8169 "Expiration" to conform to the repeal of section 8169 of this title, to reflect the probable intent of Congress.
+**2022**—Pub. L. 117–328, div. U, title IV, §403(b), Dec. 29, 2022, 136 Stat. 5490, added heading for subchapter VI and items 8171 to 8175.
+
+Pub. L. 117–168, §1(b)(2), title VII, §705(d), Aug. 10, 2022, 136 Stat. 1759, 1800, which directed amendment of the analyses of this title to conform to additions or amendments of section and unit headings, was executed to this analysis by striking out item 8169 "Expiration" to conform to the repeal of section 8169 of this title, to reflect the probable intent of Congress.
 
 **2021**—Pub. L. 117–81, div. A, title VII, §714(b)(2), Dec. 27, 2021, 135 Stat. 1787, which directed amendment of the table of sections at the beginning of subchapter I of chapter 81 by adding item 8111B, was executed to the table of sections at the beginning of this chapter to reflect the probable intent of Congress.
 

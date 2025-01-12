@@ -28,15 +28,25 @@ The Secretary may use amounts in the Fund established under paragraph (1), to—
 
 (D) strengthen biosurveillance capabilities and laboratory capacity to identify, collect, and analyze information regarding such public health emergency or potential public health emergency, including the systems under section 247d–4 of this title;
 
-(E) support initial emergency operations and assets related to preparation and deployment of intermittent disaster response personnel under section 300hh–11 of this title and the Medical Reserve Corps under section 300hh–15 of this title; and
+(E) support initial emergency operations and assets related to preparation and deployment of intermittent disaster response personnel under section 300hh–11 of this title and the Medical Reserve Corps under section 300hh–15 of this title;
 
-(F) carry out other activities, as the Secretary determines applicable and appropriate.
+(F) support the initial deployment and distribution of contents of the Strategic National Stockpile, as appropriate; and
+
+(G) carry out other activities, as the Secretary determines applicable and appropriate.
 
 #### (3) Report ####
 
 Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
 
-(A) the expenditures made from the Public Health Emergency Fund in such fiscal year; and
+(A) the expenditures made from the Public Health Emergency Fund in such fiscal year, including—
+
+(i) the amount obligated;
+
+(ii) the recipient or recipients of such obligated funds;
+
+(iii) the specific response activities such obligated funds will support; and
+
+(iv) the declared or potential public health emergency for which such funds were obligated; and
 
 (B) each public health emergency for which the expenditures were made and the activities undertaken with respect to each emergency which was conducted or supported by expenditures from the Fund.
 
@@ -204,9 +214,81 @@ The period of a waiver under paragraph (1) shall not exceed the period of time f
 
 An initiative subject to a waiver under paragraph (1) that is ongoing after the date on which the waiver expires, shall be subject to the requirements of subchapter I of chapter 35 of title 44 and the Secretary shall ensure that compliance with such requirements occurs in as timely a manner as possible based on the applicable circumstances, but not to exceed 30 calendar days after the expiration of the applicable waiver.
 
-(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961.)
+#### (g) Certain appointments to support public health emergency responses ####
+
+#### (1) In general ####
+
+In order to support the initial response to a public health emergency declared by the Secretary under this section, the Secretary may, subject to paragraph (2) and without regard to sections 3309 through 3318 of title 5, appoint individuals directly to positions in the Department of Health and Human Services for which the Secretary has provided public notice in order to—
+
+(A) address a critical hiring need directly related to responding to a public health emergency declared by the Secretary under this section; or
+
+(B) address a severe shortage of candidates that impacts the operational capacity of the Department of Health and Human Services to respond in the event of a public health emergency declared by the Secretary under this section.
+
+#### (2) Number of appointments ####
+
+Each fiscal year in which the Secretary makes a determination of a public health emergency under subsection (a) (not including a renewal), the Secretary may directly appoint not more than—
+
+(A) 400 individuals under paragraph (1)(A); and
+
+(B) 100 individuals under paragraph (1)(B).
+
+#### (3) Compensation ####
+
+The annual rate of basic pay of an individual appointed under this subsection shall be determined in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+
+#### (4) Reporting ####
+
+The Secretary shall establish and maintain records regarding the use of the authority under this subsection, including—
+
+(A) the number of positions filled through such authority;
+
+(B) the types of appointments of such positions;
+
+(C) the titles, occupational series, and grades of such positions;
+
+(D) the number of positions publicly noticed to be filled under such authority;
+
+(E) the number of qualified applicants who apply for such positions;
+
+(F) the qualification criteria for such positions; and
+
+(G) the demographic information of individuals appointed to such positions.
+
+#### (5) Notification to Congress ####
+
+In the event the Secretary, within a single fiscal year, directly appoints more than 50 percent of the individuals allowable under either subparagraph (A) or (B) of paragraph (2), the Secretary shall, not later than 15 days after the date of such action, notify the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such notification shall, in a manner that protects personal privacy, to the extent required by applicable Federal and State privacy law, at a minimum, include—
+
+(A) information on each such appointment within such fiscal year;
+
+(B) a description of how each such position relates to the requirements of subparagraph (A) or (B) of paragraph (1); and
+
+(C) the additional number of personnel, if any, the Secretary anticipates to be necessary to adequately support a response to a public health emergency declared under this section using the authorities described in paragraph (1) within such fiscal year.
+
+#### (6) Reports to Congress ####
+
+Not later than September 30, 2023, and annually thereafter for each fiscal year in which the authority under this subsection is used, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the total number of appointments filled under this subsection within the fiscal year and a description of how the positions relate to the requirements of subparagraph (A) or (B) of paragraph (1).
+
+#### (7) Sunset ####
+
+The authority under this subsection shall expire on September 30, 2028.
+
+#### (h) Stockpile depletion reporting ####
+
+The Secretary shall, not later than 30 days after the deployment of contents of the Strategic National Stockpile under section 247d–6b(a) of this title to respond to a public health emergency declared by the Secretary under this section or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act [42 U.S.C. 5121 et seq.], and every 30 days thereafter until the expiration or termination of such public health emergency, emergency, or major disaster, submit a report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives on—
+
+(1) the deployment of the contents of the stockpile in response to State, local, and Tribal requests;
+
+(2) the amount of such products that remain within the stockpile following such deployment; and
+
+(3) plans to replenish such products, as appropriate, including related timeframes and any barriers or limitations to replenishment.
+
+(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961; Pub. L. 117–328, div. FF, title II, §§2103(a), 2223(a), 2407, Dec. 29, 2022, 136 Stat. 5711, 5747, 5788.)
 
 #### **Editorial Notes** ####
+
+#### References in Text ####
+
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (h), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions ####
 
@@ -215,6 +297,14 @@ A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub.
 Another prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, §102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to section 254b of this title, prior to being omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2.
 
 #### Amendments ####
+
+**2022**—Subsec. (b)(2)(F), (G). Pub. L. 117–328, §2103(a)(1), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (b)(3)(A). Pub. L. 117–328, §2103(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the expenditures made from the Public Health Emergency Fund in such fiscal year; and".
+
+Subsec. (g). Pub. L. 117–328, §2223(a), added subsec. (g).
+
+Subsec. (h). Pub. L. 117–328, §2407, added subsec. (h).
 
 **2019**—Subsec. (b)(1). Pub. L. 116–22, §206(1)(A), substituted "under such subsection or if the Secretary determines there is the significant potential for a public health emergency, to allow the Secretary to rapidly respond to the immediate needs resulting from such public health emergency or potential public health emergency. The Secretary shall plan for the expedited distribution of funds to appropriate agencies and entities." for "under such subsection."
 
@@ -245,6 +335,10 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 #### Effective Date of 2002 Amendment ####
 
 Pub. L. 107–188, title I, §144(b), June 12, 2002, 116 Stat. 630, provided that: "The amendment made by subsection (a) [amending this section] applies to any public health emergency under section 319(a) of the Public Health Service Act [42 U.S.C. 247d(a)], including any such emergency that was in effect as of the day before the date of the enactment of this Act [June 12, 2002]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment."
+
+#### Consideration of Unique Challenges in Noncontiguous States and Territories ####
+
+Pub. L. 117–328, div. FF, title II, §2115, Dec. 29, 2022, 136 Stat. 5726, provided that: "During any public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), the Secretary of Health and Human Services shall conduct quarterly meetings or consultations, as applicable or appropriate, with noncontiguous States and territories with regard to addressing unique public health challenges in such States and territories associated with such public health emergency."
 
 #### Funding for COVID–19 Vaccine Activities at the Centers for Disease Control and Prevention ####
 

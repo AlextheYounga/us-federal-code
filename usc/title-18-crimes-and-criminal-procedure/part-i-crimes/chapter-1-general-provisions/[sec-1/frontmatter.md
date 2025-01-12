@@ -14,6 +14,8 @@ Pub. L. 117–351, §1, Jan. 5, 2023, 136 Stat. 6265, provided that: "This Act [
 
 #### Short Title of 2022 Amendment ####
 
+Pub. L. 117–328, div. O, title VIII, §801(a), Dec. 29, 2022, 136 Stat. 5232, provided that: "This section [enacting provisions set out as notes under section 3551 of this title] may be cited as the 'United States Parole Commission Additional Extension Act of 2022'."
+
 Pub. L. 117–272, §1, Dec. 27, 2022, 136 Stat. 4181, provided that: "This Act [amending section 879 of this title] may be cited as the '21st Century President Act'."
 
 Pub. L. 117–264, div. B, title I, §103(a), Dec. 23, 2022, 136 Stat. 4168, provided that: This section [enacting provisions set out as notes under section 3551 of this title] may be cited as the 'United States Parole Commission Further Additional Extension Act of 2022'."

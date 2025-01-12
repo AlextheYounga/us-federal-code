@@ -4,7 +4,7 @@ Sec.
 
 1651. Prohibition against assignment or transportation of students to overcome racial imbalance.
 
-1652. Prohibition against busing.
+1652. Repealed.
 
 1653. Omitted.
 

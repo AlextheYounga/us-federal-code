@@ -138,11 +138,11 @@
 
 (h) Fees for Small Entities.—
 
-(1) Reductions in fees.—Subject to paragraph (3), fees charged under subsections (a), (b), and (d)(1) shall be reduced by 50 percent with respect to their application to any small business concern as defined under section 3 of the Small Business Act, and to any independent inventor or nonprofit organization as defined in regulations issued by the Director.
+(1) Reductions in fees.—Subject to paragraph (3), fees charged under subsections (a), (b), and (d)(1) shall be reduced by 60 percent with respect to their application to any small business concern as defined under section 3 of the Small Business Act, and to any independent inventor or nonprofit organization as defined in regulations issued by the Director.
 
 (2) Surcharges and other fees.—With respect to its application to any entity described in paragraph (1), any surcharge or fee charged under subsection (c) or (d) shall not be higher than the surcharge or fee required of any other entity under the same or substantially similar circumstances.
 
-(3) Reduction for electronic filing.—The fee charged under subsection (a)(1)(A) shall be reduced by 75 percent with respect to its application to any entity to which paragraph (1) applies, if the application is filed by electronic means as prescribed by the Director.
+(3) Reduction for electronic filing.—The fee charged under subsection (a)(1)(A) shall be reduced by 80 percent with respect to its application to any entity to which paragraph (1) applies, if the application is filed by electronic means as prescribed by the Director.
 
 (i) Electronic Patent and Trademark Data.—
 
@@ -154,7 +154,9 @@
 
 (4) Annual report to congress.—The Director shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Director shall also publish such report in the Federal Register. The Director shall provide an opportunity for the submission of comments by interested persons on each such report.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535.)
+(j) Penalty for False Assertions.—In addition to any other penalty available under law, an entity that is found to have falsely asserted entitlement to a fee reduction under this section shall be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false assertion, whether the Director discovers the false assertion before or after the date on which a patent has been issued.
+
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535; Pub. L. 117–328, div. W, §107(a), (b)(1), Dec. 29, 2022, 136 Stat. 5521.)
 
 #### Historical and Revision Notes ####
 
@@ -183,6 +185,12 @@ The fee for reissue applications is changed slightly.
 Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classified to section 632 of Title 15, Commerce and Trade.
 
 #### Amendments ####
+
+**2022**—Subsec. (h)(1). Pub. L. 117–328, §107(a)(1), substituted "60 percent" for "50 percent".
+
+Subsec. (h)(3). Pub. L. 117–328, §107(a)(2), substituted "80 percent" for "75 percent".
+
+Subsec. (j). Pub. L. 117–328, §107(b)(1), added subsec. (j).
 
 **2012**—Subsec. (a)(7). Pub. L. 112–211, §202(b)(1)(A), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,620, unless the petition is filed under section 133 or 151, in which case the fee shall be $540."
 
@@ -466,7 +474,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i)(4) of this
 
 #### Fee Setting Authority ####
 
-Pub. L. 112–29, §10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 115–273, §4, Oct. 31, 2018, 132 Stat. 4159, provided that:
+Pub. L. 112–29, §10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 115–273, §4, Oct. 31, 2018, 132 Stat. 4159; Pub. L. 117–328, div. W, §107(c), Dec. 29, 2022, 136 Stat. 5522, provided that:
 
 "(a) Fee Setting.—
 
@@ -474,7 +482,7 @@ Pub. L. 112–29, §10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 115
 
 "(2) Fees to recover costs.—Fees may be set or adjusted under paragraph (1) only to recover the aggregate estimated costs to the Office for processing, activities, services, and materials relating to patents (in the case of patent fees) and trademarks (in the case of trademark fees), including administrative costs of the Office with respect to such patent or trademark fees (as the case may be).
 
-"(b) Small and Micro Entities.—The fees set or adjusted under subsection (a) for filing, searching, examining, issuing, appealing, and maintaining patent applications and patents shall be reduced by 50 percent with respect to the application of such fees to any small entity that qualifies for reduced fees under section 41(h)(1) of title 35, United States Code, and shall be reduced by 75 percent with respect to the application of such fees to any micro entity as defined in section 123 of that title (as added by subsection (g) of this section).
+"(b) Small and Micro Entities.—The fees set or adjusted under subsection (a) for filing, searching, examining, issuing, appealing, and maintaining patent applications and patents shall be reduced by 60 percent with respect to the application of such fees to any small entity that qualifies for reduced fees under section 41(h)(1) of title 35, United States Code, and shall be reduced by 80 percent with respect to the application of such fees to any micro entity as defined in section 123 of that title (as added by subsection (g) of this section).
 
 "(c) Reduction of Fees in Certain Fiscal Years.—In each fiscal year, the Director—
 

@@ -12,6 +12,8 @@ Sec.
 
 414. Definitions and special rules.
 
+414A. Requirements related to automatic enrollment.
+
 415. Limitations on benefits and contribution under qualified plans.
 
 416. Special rules for top-heavy plans.
@@ -21,6 +23,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. T, title I, §101(b), Dec. 29, 2022, 136 Stat. 5277, added item 414A.
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(81), Mar. 23, 2018, 132 Stat. 1188, substituted "Collectively bargained plans, etc." for "Collectively bargained plans" in item 413.
 

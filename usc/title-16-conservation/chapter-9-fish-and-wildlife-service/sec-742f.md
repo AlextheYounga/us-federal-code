@@ -118,9 +118,9 @@ Not later than 1 year after January 4, 2011, and every 5 years thereafter, the S
 
 #### (g) Authorization of appropriations ####
 
-There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2018 through 2022.
+There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2023 through 2027.
 
-(Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578; Pub. L. 108–327, §§2, 4, Oct. 16, 2004, 118 Stat. 1271; Pub. L. 111–357, §§2, 4(a), Jan. 4, 2011, 124 Stat. 3979, 3980; Pub. L. 115–168, §2, Apr. 23, 2018, 132 Stat. 1284.)
+(Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578; Pub. L. 108–327, §§2, 4, Oct. 16, 2004, 118 Stat. 1271; Pub. L. 111–357, §§2, 4(a), Jan. 4, 2011, 124 Stat. 3979, 3980; Pub. L. 115–168, §2, Apr. 23, 2018, 132 Stat. 1284; Pub. L. 117–328, div. O, title IV, §402, Dec. 29, 2022, 136 Stat. 5228.)
 
 #### **Editorial Notes** ####
 
@@ -131,6 +131,8 @@ This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as
 The National Wildlife Refuge System Administration Act of 1966, referred to in subsecs. (b)(2)(B)(ii) and (d)(2)(B), (C)(i), consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (g). Pub. L. 117–328 substituted "2023 through 2027" for "2018 through 2022".
 
 **2018**—Subsec. (g). Pub. L. 115–168 substituted "2018 through 2022" for "2011 through 2014".
 

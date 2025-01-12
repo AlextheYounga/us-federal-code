@@ -96,7 +96,7 @@ Sec.
 
 1863. Northwest Atlantic Ocean Fisheries Reinvestment Program.
 
-1864. Regional coastal disaster assistance, transition, and recovery program.
+1864. Repealed.
 
 1865. Bycatch reduction engineering program.
 

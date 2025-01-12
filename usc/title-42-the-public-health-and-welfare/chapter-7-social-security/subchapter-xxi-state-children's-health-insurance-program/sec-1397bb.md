@@ -94,7 +94,27 @@ Coordination of the administration of the State program under this subchapter wi
 
 In the case of a State that provides for premium assistance subsidies under the State child health plan in accordance with paragraph (2)(B), (3), or (10) of section 1397ee(c) of this title, or a waiver approved under section 1315 of this title, outreach, education, and enrollment assistance for families of children likely to be eligible for such subsidies, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and for employers likely to provide coverage that is eligible for such subsidies, including the specific, significant resources the State intends to apply to educate employers about the availability of premium assistance subsidies under the State child health plan.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, §5022(c), Oct. 24, 2018, 132 Stat. 3964.)
+#### (d) Treatment of children who are inmates of a public institution ####
+
+#### (1) In general ####
+
+The State child health plan shall provide that—
+
+(A) the State shall not terminate eligibility for child health assistance under the State child health plan for a targeted low-income child because the child is an inmate of a public institution, but may suspend coverage during the period the child is such an inmate;
+
+(B) in the case of a targeted low-income child who was determined eligible for child health assistance under the State child health plan (or waiver of such plan) immediately before becoming an inmate of a public institution, the State shall, prior to the child's release from such public institution, conduct a redetermination of eligibility for such child with respect to such child health assistance (without requiring a new application from the child) and, if the State determines pursuant to such redetermination that the child continues to meet the eligibility requirements for such child health assistance, the State shall restore coverage for such child health assistance to such child upon the child's release from such public institution; and
+
+(C) in the case of a targeted low-income child who is determined eligible for child health assistance while an inmate of a public institution (subject to the exception to the exclusion of children who are inmates of a public institution described in section 1397jj(b)(7) of this title), the State shall process any application for child health assistance submitted by, or on behalf of, the child such that the State makes a determination of eligibility for the child with respect to child health assistance upon release of the child from the public institution.
+
+#### (2) Required coverage of screenings, diagnostic services, referrals, and case management for certain inmates pre-release ####
+
+A State child health plan shall provide that, in the case of a targeted low-income child who is within 30 days of the date on which such child is scheduled to be released from a public institution following adjudication, the State shall have in place a plan for providing, and shall provide in accordance with such plan, screenings, diagnostic services, referrals, and case management services otherwise covered under the State child health plan (or waiver of such plan) in the same manner as described in section 1396a(a)(84)(D) of this title.
+
+(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, §5022(c), Oct. 24, 2018, 132 Stat. 3964; Pub. L. 117–328, div. FF, title V, §5121(c)(1), Dec. 29, 2022, 136 Stat. 5942.)
+
+#### Applicability of Amendment ####
+
+Amendment of section by section 5121(c)(1) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022. See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -105,6 +125,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is class
 Section 1603(c) of title 25, referred to in subsec. (b)(3)(D), was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 #### Amendments ####
+
+**2022**—Subsec. (d). Pub. L. 117–328 added subsec. (d).
 
 **2018**—Subsec. (a)(7)(B). Pub. L. 115–271 substituted "paragraphs (5) and (6) of section 1397cc(c)" for "section 1397cc(c)(5)".
 
@@ -125,6 +147,10 @@ Subsec. (c)(1). Pub. L. 111–3, §201(b)(2)(B)(i), inserted "(through community
 Subsec. (c)(3). Pub. L. 111–3, §302(a), added par. (3).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022, see section 5121(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2018 Amendment ####
 

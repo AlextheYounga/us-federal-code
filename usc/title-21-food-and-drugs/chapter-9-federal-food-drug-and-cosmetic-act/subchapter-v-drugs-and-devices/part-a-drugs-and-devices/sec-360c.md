@@ -330,7 +330,15 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 (ii) on the Internet website of the Food and Drug Administration.
 
-(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056; Pub. L. 114–255, div. A, title III, §§3055, 3058(a), 3060(c), 3101(a)(2)(I), Dec. 13, 2016, 130 Stat. 1127, 1128, 1133, 1154; Pub. L. 115–52, title VII, §707(a), (b), title IX, §901(h), Aug. 18, 2017, 131 Stat. 1060, 1062, 1077; Pub. L. 117–286, §4(a)(155), Dec. 27, 2022, 136 Stat. 4323.)
+#### (k) Dual submission for certain devices ####
+
+For a device authorized for emergency use under section 360bbb–3 of this title for which, in accordance with section 360bbb–3(m) of this title, the Secretary has deemed a laboratory examination or procedure associated with such device to be in the category of examinations and procedures described in section 263a(d)(3) of title 42, the sponsor of such device may, when submitting a request for classification under subsection (f)(2), submit a single submission containing—
+
+(1) the information needed for such a request; and
+
+(2) sufficient information to enable the Secretary to determine whether such laboratory examination or procedure satisfies the criteria to be categorized under section 263a(d)(3) of title 42.
+
+(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056; Pub. L. 114–255, div. A, title III, §§3055, 3058(a), 3060(c), 3101(a)(2)(I), Dec. 13, 2016, 130 Stat. 1127, 1128, 1133, 1154; Pub. L. 115–52, title VII, §707(a), (b), title IX, §901(h), Aug. 18, 2017, 131 Stat. 1060, 1062, 1077; Pub. L. 117–286, §4(a)(155), Dec. 27, 2022, 136 Stat. 4323; Pub. L. 117–328, div. FF, title III, §3301, Dec. 29, 2022, 136 Stat. 5831.)
 
 #### **Editorial Notes** ####
 
@@ -339,6 +347,8 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 **2022**—Subsec. (b)(1). Pub. L. 117–286, §4(a)(155)(A), substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act" in concluding provisions.
 
 Subsec. (b)(8). Pub. L. 117–286, §4(a)(155)(B), substituted "chapter 10 of title 5." for "Federal Advisory Committee Act."
+
+Subsec. (k). Pub. L. 117–328 added subsec. (k).
 
 **2017**—Subsec. (b)(5)(D). Pub. L. 115–52, §901(h), substituted "medical devices that may be specifically the subject of a review by a classification panel" for "medical device submissions".
 

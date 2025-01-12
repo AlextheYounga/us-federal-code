@@ -220,11 +220,11 @@ The Secretary may revise or revoke an authorization under this section if—
 
 #### (1) Publication ####
 
-The Secretary shall promptly publish in the Federal Register a notice of each authorization, and each termination or revocation of an authorization under this section, and an explanation of the reasons therefor (which may include a summary of data or information that has been submitted to the Secretary in an application under section 355(i) <sup><a href="#360bbb-3_1_target" name="360bbb-3_1">1</a></sup> 360b(j), or 360j(g) of this title, even if such summary may indirectly reveal the existence of such application). The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.
+The Secretary shall promptly publish on the internet website of the Food and Drug Administration and in the Federal Register a notice of each authorization, and each termination or revocation of an authorization under this section, and an explanation of the reasons therefor (which may include a summary of data or information that has been submitted to the Secretary in an application, request, or submission under this section or section 355(b), 355(i), 355(j), 360b(b), 360b(j), 360b(n), 360e, 360(k), 360c(f)(2), 360j(g), 360j(m), 360ccc, or 360ccc–1 of this title, or section 351(a) or 351(k) of the Public Health Service Act [42 U.S.C. 262(a), (k)], even if such summary may reveal the existence of such an application, request, or submission, or data contained in such application, request, or submission). The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration, which may include a summary of the data and information supporting such revisions.
 
 #### (2) Confidential information ####
 
-Nothing in this section alters or amends section 1905 of title 18 or section 552(b)(4) of title 5.
+Nothing in this section alters or amends section 1905 of title 18 or section 552(b)(4) of title 5. Information made publicly available by the Secretary in accordance with paragraph (1) shall be considered a disclosure authorized by law for purposes of section 1905 of title 18 <sup><a href="#360bbb-3_1_target" name="360bbb-3_1">1</a></sup>
 
 #### (i) Actions committed to agency discretion ####
 
@@ -268,7 +268,7 @@ The Secretary may establish appropriate conditions on the performance of the exa
 
 A determination under this subsection shall be effective for purposes of section 353 of the Public Health Service Act [42 U.S.C. 263a] notwithstanding any other provision of that section during the effective period of the relevant declaration under subsection (b).
 
-(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148; Pub. L. 115–92, §1(a), Dec. 12, 2017, 131 Stat. 2023.)
+(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148; Pub. L. 115–92, §1(a), Dec. 12, 2017, 131 Stat. 2023; Pub. L. 117–328, div. FF, title II, §2504, Dec. 29, 2022, 136 Stat. 5802.)
 
 #### **Editorial Notes** ####
 
@@ -277,6 +277,12 @@ A determination under this subsection shall be effective for purposes of section
 The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (h)(1). Pub. L. 117–328, §2504(1)(A), (C), inserted "on the internet website of the Food and Drug Administration and" after "promptly publish" and ", which may include a summary of the data and information supporting such revisions" before period at end of second sentence.
+
+Pub. L. 117–328, §2504(1)(B), which directed substitution of "application, request, or submission under this section or section 355(b), 355(i), 355(j), 360b(b), 360b(j), 360b(n), 360e, 360(k), 360c(f)(2), 360j(g), 360j(m), 360ccc, or 360ccc–1 of this title, or section 351(a) or 351(k) of the Public Health Service Act, even if such summary may reveal the existence of such an application, request, or submission, or data contained in such application, request, or submission" for "application under section 355(i), 360b(j), or 360j(g) of this title, even if such summary may indirectly reveal the existence of such application", was executed by making the substitution for "application under section 355(i) 360b(j), or 360j(g) of this title, even if such summary may indirectly reveal the existence of such application", to reflect the probable intent of Congress.
+
+Subsec. (h)(2). Pub. L. 117–328, §2504(2), inserted at end "Information made publicly available by the Secretary in accordance with paragraph (1) shall be considered a disclosure authorized by law for purposes of section 1905 of title 18".
 
 **2017**—Subsec. (b)(1)(B). Pub. L. 115–92, §1(a)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces of attack with a biological, chemical, radiological, or nuclear agent or agents;".
 
@@ -374,4 +380,4 @@ The Secretary of Health and Human Services is authorized and directed to publish
 
 Donald J. Trump.
 
-[<sup>1</sup> So in original. Probably should be followed by a comma.](#360bbb-3_1)
+[<sup>1</sup> So in original. Probably should be followed by a period.](#360bbb-3_1)

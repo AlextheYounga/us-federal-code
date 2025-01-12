@@ -14,21 +14,35 @@ The historical park shall consist of approximately 3,400 acres as generally depi
 
 #### (A) In general ####
 
-In addition to the land described in paragraph (1), the historical park shall consist of approximately 34 acres of land, as generally depicted on the map entitled "Palo Alto Battlefield NHS Proposed Boundary Expansion", numbered 469/80,012, and dated May 21, 2008.
+(i) In addition to the land described in paragraph (1), the historical park shall consist of—
 
-#### (B) Availability of map ####
+(I) the approximately 34 acres of land, as generally depicted on the map entitled "Palo Alto Battlefield NHS Proposed Boundary Expansion", numbered 469/80,012, and dated May 21, 2008; and
 
-The map described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+(II) on the date that such land is donated to the United States, the approximately 166.44 acres of land generally depicted on the map entitled "PALO ALTO BATTLEFIELD NATIONAL HISTORICAL PARK Proposed Boundary Addition, Fort Brown Unit", numbered 469/143,589, and dated April 2018.
+
+(ii) Before accepting any donated land described in this subparagraph, the Secretary shall complete a boundary study analyzing the feasibility of adding the land to the national historical park.
+
+(iii) If a boundary study completed under clause (ii) finds that acceptance of the donated land is feasible and appropriate, the Secretary may accept such land and administer the land as part of the historical park after providing notice of such finding to Congress.
+
+#### (B) Availability of maps ####
+
+The maps described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 #### (3) Legal description ####
 
-Not later than 6 months after June 23, 1992, the Secretary of the Interior (hereafter in this subchapter referred to as the "Secretary") shall file a legal description of the historical park with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in such legal description and in the maps referred to in paragraphs (1) and (2). The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary may, from time to time, make minor revisions in the boundary of the historical park.
+Not later than 6 months after the addition of lands to the historic park boundary, the Secretary of the Interior (hereafter in this subchapter referred to as the "Secretary") shall file a legal description of the historical park with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in such legal description and in the maps referred to in paragraphs (1) and (2). The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary may, from time to time, make minor revisions in the boundary of the historical park.
 
-(Pub. L. 102–304, §3, June 23, 1992, 106 Stat. 256; Pub. L. 111–11, title VII, §7113(a)(3), (b), Mar. 30, 2009, 123 Stat. 1201, 1202.)
+(Pub. L. 102–304, §3, June 23, 1992, 106 Stat. 256; Pub. L. 111–11, title VII, §7113(a)(3), (b), Mar. 30, 2009, 123 Stat. 1201, 1202; Pub. L. 117–328, div. DD, title VI, §620, Dec. 29, 2022, 136 Stat. 5607.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+#### Amendments ####
+
+**2022**—Subsec. (b)(2). Pub. L. 117–328, §620(a), which directed amendment of section 3(b)(2) of the Palo Alto Battlefield National Historic Site Act of 1991 by amending subpar. (A) generally and substituting "maps" for "map" in the heading and text of subpar. (B), was executed to subsec. (b)(2) of this section, which is section 3 of the Palo Alto Battlefield National Historical Park Act of 1991, to reflect the probable intent of Congress. Prior to amendment, subpar. (A) read as follows: "In addition to the land described in paragraph (1), the historical park shall consist of approximately 34 acres of land, as generally depicted on the map entitled 'Palo Alto Battlefield NHS Proposed Boundary Expansion', numbered 469/80,012, and dated May 21, 2008."
+
+Subsec. (b)(3). Pub. L. 117–328, §620(b), which directed amendment of section 3(b)(3) of the Palo Alto Battlefield National Historic Site Act of 1991 by substituting "after the addition of lands to the historic park boundary, the Secretary of the Interior" for "after June 23, 1992, the Secretary of the Interior", was executed to subsec. (b)(3) of this section, which is section 3 of the Palo Alto Battlefield National Historical Park Act of 1991, to reflect the probable intent of Congress.
 
 **2009**—Pub. L. 111–11, §7113(a)(3)(B), substituted "National Historical Park" for "National Historic Site" in section catchline.
 

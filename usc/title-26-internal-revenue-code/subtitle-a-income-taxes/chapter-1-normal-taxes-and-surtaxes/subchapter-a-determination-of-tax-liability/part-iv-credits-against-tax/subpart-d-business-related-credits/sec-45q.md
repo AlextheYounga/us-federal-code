@@ -468,6 +468,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2022**—Internal Revenue Notice 2022–38.
+
 **2021**—Internal Revenue Notice 2021–35.
 
 **2020**—Internal Revenue Notice 2020–40.

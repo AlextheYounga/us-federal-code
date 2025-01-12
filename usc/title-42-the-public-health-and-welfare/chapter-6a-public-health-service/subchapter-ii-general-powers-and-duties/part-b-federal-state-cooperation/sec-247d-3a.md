@@ -36,31 +36,35 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 (vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders, including public health agencies with specific expertise that may be relevant to public health security, such as environmental health agencies, in public health emergency preparedness and response;
 
-(vii) a description of how, as applicable, such entity may integrate information to account for individuals with behavioral health needs following a public health emergency;
+(vii) a description of how, as applicable, such entity may integrate information to account for individuals with behavioral health needs during and following a public health emergency;
 
-(viii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801 of title 20) and State child care lead agencies (designated under section 9858b of this title);
+(viii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State education agencies <sup><a href="#247d-3a_1_target" name="247d-3a_1">1</a></sup> (as defined in section 7801 of title 20), State child care lead agencies (designated under section 9858b of this title), and other relevant State agencies <sup><a href="#247d-3a_2_target" name="247d-3a_2">2</a></sup>
 
 (ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
 
 (x) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
 
-(xi) a description of how the entity will partner with health care facilities, including hospitals and nursing homes and other long-term care facilities, to promote and improve public health preparedness and response; and
+(xi) a description of how the entity will partner with health care facilities, including hospitals and nursing homes and other long-term care facilities, to promote and improve public health preparedness and response;
 
-(xii) a description of how, as appropriate and practicable, the entity will include critical infrastructure partners, such as utility companies within the entity's jurisdiction, in planning pursuant to this subparagraph to help ensure that critical infrastructure will remain functioning during, or return to function as soon as practicable after, a public health emergency;
+(xii) a description of how the entity will provide technical assistance to improve public health preparedness and response, as appropriate, to agencies or other entities that operate facilities within the entity's jurisdiction in which there is an increased risk of infectious disease outbreaks in the event of a public health emergency declared under section 247d of this title, such as residential care facilities, group homes, and other similar settings; and
+
+(xiii) a description of how, as appropriate and practicable, the entity will include critical infrastructure partners, such as utility companies within the entity's jurisdiction, in planning pursuant to this subparagraph to help ensure that critical infrastructure will remain functioning during, or return to function as soon as practicable after, a public health emergency;
 
 (B) an assurance that the entity will report to the Secretary on an annual basis (or more frequently as determined by the Secretary) on the evidence-based benchmarks and objective standards established by the Secretary to evaluate the preparedness and response capabilities of such entity under subsection (g);
 
 (C) an assurance that the entity will conduct, on at least an annual basis, an exercise or drill that meets any criteria established by the Secretary to test the preparedness and response capabilities of such entity, including addressing the needs of at-risk individuals, and that the entity will report back to the Secretary within the application of the following year on the strengths and weaknesses identified through such exercise or drill, and corrective actions taken to address material weaknesses;
 
-(D) an assurance that the entity will provide to the Secretary the data described under section 247d–4(c)(3) of this title as determined feasible by the Secretary;
+(D) an assurance that the entity will require relevant staff to complete relevant preparedness and response trainings, including trainings related to efficient and effective operation during an incident or event within an Incident Command System;
 
-(E) an assurance that the entity will conduct activities to inform and educate the hospitals within the jurisdiction of such entity on the role of such hospitals in the plan required under subparagraph (A);
+(E) an assurance that the entity will provide to the Secretary the data described under section 247d–4(c)(3) of this title as determined feasible by the Secretary;
 
-(F) an assurance that the entity, with respect to the plan described under subparagraph (A), has developed and will implement an accountability system to ensure that such entity makes satisfactory annual improvement and describes such system in the plan under subparagraph (A);
+(F) an assurance that the entity will conduct activities to inform and educate the hospitals within the jurisdiction of such entity on the role of such hospitals in the plan required under subparagraph (A);
 
-(G) a description of the means by which to obtain public comment and input on the plan described in subparagraph (A) and on the implementation of such plan, that shall include an advisory committee or other similar mechanism for obtaining comment from the public and from other State, local, and tribal stakeholders; and
+(G) an assurance that the entity, with respect to the plan described under subparagraph (A), has developed and will implement an accountability system to ensure that such entity makes satisfactory annual improvement and describes such system in the plan under subparagraph (A);
 
-(H) as relevant, a description of the process used by the entity to consult with local departments of public health to reach consensus, approval, or concurrence on the relative distribution of amounts received under this section.
+(H) a description of the means by which to obtain public comment and input on the plan described in subparagraph (A) and on the implementation of such plan, that shall include an advisory committee or other similar mechanism for obtaining comment from the public and from other State, local, and tribal stakeholders; and
+
+(I) as relevant, a description of the process used by the entity to consult with local departments of public health to reach consensus, approval, or concurrence on the relative distribution of amounts received under this section.
 
 #### (c) Limitation ####
 
@@ -112,7 +116,7 @@ Not later than 180 days after December 19, 2006, the Secretary shall develop and
 
 #### (B) Rule of construction ####
 
-Nothing in this section shall be construed to require the duplication of Federal efforts with respect to the development of criteria or standards, without regard to whether such efforts were carried out prior to or after December 19, 2006.<sup><a href="#247d-3a_1_target" name="247d-3a_1">1</a></sup>
+Nothing in this section shall be construed to require the duplication of Federal efforts with respect to the development of criteria or standards, without regard to whether such efforts were carried out prior to or after December 19, 2006.<sup><a href="#247d-3a_3_target" name="247d-3a_3">3</a></sup>
 
 #### (3) Technical assistance ####
 
@@ -320,7 +324,7 @@ The evaluation under this paragraph shall include—
 
 (D) recommendations, as applicable and appropriate, to improve evidence-based benchmarks and objective standards to more accurately assess the ability of entities receiving awards under this section to better achieve the goals under this section and section 300hh–1 of this title.
 
-(July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179; Pub. L. 114–95, title IX, §9215(kkk)(1), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 116–22, title II, §§201(a), 202(a), (b)(1), (d), 203(e)(1), 207(b), title VII, §705(b), June 24, 2019, 133 Stat. 907–910, 914, 927, 964.)
+(July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179; Pub. L. 114–95, title IX, §9215(kkk)(1), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 116–22, title II, §§201(a), 202(a), (b)(1), (d), 203(e)(1), 207(b), title VII, §705(b), June 24, 2019, 133 Stat. 907–910, 914, 927, 964; Pub. L. 117–328, div. FF, title II, §2111(a), Dec. 29, 2022, 136 Stat. 5720.)
 
 #### **Editorial Notes** ####
 
@@ -329,6 +333,14 @@ The evaluation under this paragraph shall include—
 December 19, 2006, referred to in subsec. (g)(2)(B), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–417, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments ####
+
+**2022**—Subsec. (b)(2)(A)(vii). Pub. L. 117–328, §2111(a)(1)(A), inserted "during and" before "following a public health emergency".
+
+Subsec. (b)(2)(A)(viii). Pub. L. 117–328, §2111(a)(1)(B), amended cl. (viii) generally. Prior to amendment, cl. (viii) read as follows: "a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801 of title 20) and State child care lead agencies (designated under section 9858b of this title);".
+
+Subsec. (b)(2)(A)(xii), (xiii). Pub. L. 117–328, §2111(a)(1)(C)–(E), added cl. (xii) and redesignated former cl. (xii) as (xiii).
+
+Subsec. (b)(2)(D) to (I). Pub. L. 117–328, §2111(a)(2), (3), added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
 
 **2019**—Subsec. (a). Pub. L. 116–22, §202(a)(1), inserted ", acting through the Director of the Centers for Disease Control and Prevention," after "the Secretary".
 
@@ -426,6 +438,10 @@ Subsec. (k). Pub. L. 109–417, §201(5), added subsec. (k).
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–328, div. FF, title II, §2111(b), Dec. 29, 2022, 136 Stat. 5721, provided that: "The amendments made by subsection (a) [amending this section] shall not apply with respect to any cooperative agreement entered into prior to the date of enactment of this Act [Dec. 29, 2022]."
+
 #### Effective Date of 2019 Amendment ####
 
 Pub. L. 116–22, title II, §202(b)(2), June 24, 2019, 133 Stat. 909, provided that: "The amendments made by paragraph (1) [amending this section] shall apply with respect to cooperative agreements awarded on or after the date of enactment of this Act [June 24, 2019]."
@@ -450,4 +466,8 @@ Pub. L. 110–53, title XXII, §2201(d), Aug. 3, 2007, 121 Stat. 541, provided t
 
 "(6) Transfer of information and knowledge.—The Assistant Secretary shall establish mechanisms to ensure that the information and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications."
 
-[<sup>1</sup> See Codification note below.](#247d-3a_1)
+[<sup>1</sup> So in original. Section 7801 of title 20 defines "State educational agencies".](#247d-3a_1)
+
+[<sup>2</sup> So in original. Probably should be followed by a semicolon.](#247d-3a_2)
+
+[<sup>3</sup> See Codification note below.](#247d-3a_3)

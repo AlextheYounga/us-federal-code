@@ -10,6 +10,10 @@ The Secretary of the Interior (in this subchapter referred to as the "Secretary"
 
 The Secretary may interpret the story of Rosie the Riveter and the World War II home front, conduct and maintain oral histories that relate to the World War II home front theme, and provide technical assistance in the preservation of historic properties that support this story.
 
+#### (3) Nystrom Elementary School ####
+
+Nothing in this subchapter affects the authority of the West Contra Costa Unified School District to administer Nystrom Elementary School.
+
 #### (b) Cooperative agreements ####
 
 #### (1) General agreements ####
@@ -37,6 +41,16 @@ The Secretary may consult and enter into cooperative agreements with interested 
 (H) Vincent Park; and
 
 (I) the vessel S.S. RED OAK VICTORY, and Whirley Cranes associated with shipbuilding in Richmond.
+
+#### (3) West Contra Costa Unified School District ####
+
+#### (A) In general ####
+
+The Secretary may enter into cooperative agreements with the West Contra Costa Unified School District and other appropriate public and private agencies, organizations, and institutions to carry out the purposes of this subchapter.
+
+#### (B) Visitor interpretation ####
+
+The Secretary shall coordinate visitor interpretation of the Nystrom Elementary School site with the West Contra Costa Unified School District.
 
 #### (c) Education center ####
 
@@ -90,7 +104,7 @@ The general management plan shall include a plan to preserve the historic settin
 
 The general management plan shall include a determination of whether there are additional representative sites in Richmond that should be added to the park or sites in the rest of the United States that relate to the industrial, governmental, and citizen efforts during World War II that should be linked to and interpreted at the park. Such determination shall consider any information or findings developed in the National Park Service study of the World War II Home Front under section 410ggg–2 of this title.
 
-(Pub. L. 106–352, §3, Oct. 24, 2000, 114 Stat. 1370; Pub. L. 108–352, §6(2), Oct. 21, 2004, 118 Stat. 1396.)
+(Pub. L. 106–352, §3, Oct. 24, 2000, 114 Stat. 1370; Pub. L. 108–352, §6(2), Oct. 21, 2004, 118 Stat. 1396; Pub. L. 117–328, div. DD, title VI, §612(b), (c), Dec. 29, 2022, 136 Stat. 5603, 5604.)
 
 #### **Editorial Notes** ####
 
@@ -105,6 +119,10 @@ The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in s
 In subsec. (g)(1), "section 100502 of title 54" substituted for "section 12(b) of the Act of August 18, 1970 (16 U.S.C. 1a–7(b)), popularly known as the National Park System General Authorities Act," on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(3). Pub. L. 117–328, §612(b), added par. (3).
+
+Subsec. (b)(3). Pub. L. 117–328, §612(c), added par. (3).
 
 **2004**—Subsec. (a)(1). Pub. L. 108–352, §6(2)(A), substituted "August 25" for "August 35".
 

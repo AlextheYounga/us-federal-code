@@ -44,6 +44,8 @@ Sec.
 
 3520. Chief Data Officers.
 
+3520A. Chief Data Officer Council.
+
 3521. Authorization of appropriations.
 
 #### [SUBCHAPTER II—REPEALED] ####

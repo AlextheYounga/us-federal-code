@@ -132,6 +132,8 @@ Subtitle III—National Preservation Programs
 
 3085. National Women's Rights History Project 308501
 
+3086. United States African-American Burial Grounds Preservation Program 308601
+
 3087. National Maritime Heritage 308701
 
 3089. Save America's Treasures Program 308901
@@ -161,6 +163,8 @@ Subtitle III—National Preservation Programs
 #### Amendments ####
 
 **2023**—Pub. L. 117–339, §2(d), Jan. 5, 2023, 136 Stat. 6163, which directed amendment of the analysis for subtitle I of this title by adding item for division C and chapter 1201, was executed to this analysis to reflect the probable intent of Congress.
+
+**2022**—Pub. L. 117–328, div. DD, title VI, §643(b), Dec. 29, 2022, 136 Stat. 5614, added item for chapter 3086.
 
 **2020**—Pub. L. 116–152, §2(b), Aug. 4, 2020, 134 Stat. 685, which directed amendment of the analysis for subtitle II of this title by adding item for chapter 2004, was executed to this analysis to reflect the probable intent of Congress.
 

@@ -50,6 +50,8 @@ Sec.
 
 6626. Working group on inclusion in STEM fields.
 
+6627. Federally-funded research with enhanced pathogens of pandemic potential.
+
 #### SUBCHAPTER III—PRESIDENT'S COMMITTEE ON SCIENCE AND TECHNOLOGY ####
 
 6631. Establishment of Committee.

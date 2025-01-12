@@ -8,6 +8,8 @@ Sec.
 
 5302A. Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone.
 
+5302B. Prohibition of debt arising from overpayment due to delay in processing.
+
 5303. Certain bars to benefits.
 
 5303A. Minimum active-duty service requirement.
@@ -40,6 +42,8 @@ Sec.
 
 5314. Indebtedness offsets.
 
+5314A. Dispute of indebtedness.
+
 5315. Interest and administrative cost charges on delinquent payments of certain amounts due the United States.
 
 5316. Authority to sue to collect certain debts.
@@ -57,6 +61,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. U, title II, §§252(a)(2), 255(b)(4), Dec. 29, 2022, 136 Stat. 5463, 5465, added items 5302B and 5314A.
 
 **2021**—Pub. L. 116–315, title II, §2007(b), Jan. 5, 2021, 134 Stat. 4977, added item 5320.
 

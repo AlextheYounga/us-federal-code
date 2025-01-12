@@ -148,6 +148,8 @@ Sec.
 
 794d. Electronic and information technology.
 
+794d–1. Reports on accessibility of electronic information to individuals with disabilities.
+
 794e. Protection and advocacy of individual rights.
 
 794f. Establishment of standards for accessible medical diagnostic equipment.

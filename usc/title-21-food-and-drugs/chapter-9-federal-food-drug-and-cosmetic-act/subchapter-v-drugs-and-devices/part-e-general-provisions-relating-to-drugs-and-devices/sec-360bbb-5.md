@@ -46,18 +46,22 @@ In this section, the term "medical product" includes a drug, a biological produc
 
 #### (f) Authorization of appropriations ####
 
-To carry out this section, there is authorized to be appropriated $1,380,822 for the period beginning on October 1, 2022 and ending on December 23, 2022.
+To carry out this section, there is authorized to be appropriated $1,380,822 for the period beginning on October 1, 2022 and ending on December 23, 2022.<sup><a href="#360bbb-5_1_target" name="360bbb-5_1">1</a></sup>
 
-(June 25, 1938, ch. 675, §566, as added Pub. L. 110–85, title VI, §603, Sept. 27, 2007, 121 Stat. 898; amended Pub. L. 112–144, title XI, §1102, July 9, 2012, 126 Stat. 1108; Pub. L. 115–52, title VI, §602, Aug. 18, 2017, 131 Stat. 1048; Pub. L. 117–180, div. F, title V, §5005, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §301, Dec. 16, 2022, 136 Stat. 2311.)
+(June 25, 1938, ch. 675, §566, as added Pub. L. 110–85, title VI, §603, Sept. 27, 2007, 121 Stat. 898; amended Pub. L. 112–144, title XI, §1102, July 9, 2012, 126 Stat. 1108; Pub. L. 115–52, title VI, §602, Aug. 18, 2017, 131 Stat. 1048; Pub. L. 117–180, div. F, title V, §5005, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §301, Dec. 16, 2022, 136 Stat. 2311; Pub. L. 117–328, div. FF, title III, §3101, Dec. 29, 2022, 136 Stat. 5807.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2022**—Subsec. (f). Pub. L. 117–229 substituted "$1,380,822 for the period beginning on October 1, 2022 and ending on December 23, 2022" for "$1,265,753 for the period beginning on October 1, 2022 and ending on December 16, 2022".
+**2022**—Subsec. (f). Pub. L. 117–328, which directed the substitution of "$6,000,000 for each of fiscal years 2023 through 2027" for "$1,265,753 for the period beginning on October 1, 2022 and ending on December 23, 2022", could not be executed because "$1,265,753" did not appear after the intervening amendment by section 301 of Pub. L. 117–229. See below.
+
+Pub. L. 117–229 substituted "$1,380,822 for the period beginning on October 1, 2022 and ending on December 23, 2022" for "$1,265,753 for the period beginning on October 1, 2022 and ending on December 16, 2022".
 
 Pub. L. 117–180 substituted "$1,265,753 for the period beginning on October 1, 2022 and ending on December 16, 2022" for "$6,000,000 for each of fiscal years 2018 through 2022".
 
 **2017**—Subsec. (f). Pub. L. 115–52 substituted "2018 through 2022" for "2013 through 2017".
 
 **2012**—Subsec. (f). Pub. L. 112–144 amended subsec. (f) generally. Prior to amendment, text read as follows: "To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2008 and such sums as may be necessary for each of fiscal years 2009 through 2012."
+
+[<sup>1</sup> See 2022 Amendment notes below.](#360bbb-5_1)

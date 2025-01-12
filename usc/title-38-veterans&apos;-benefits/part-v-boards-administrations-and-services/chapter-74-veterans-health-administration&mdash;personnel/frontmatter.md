@@ -32,6 +32,8 @@ Sec.
 
 7413. Treatment of podiatrists; clinical oversight standards.
 
+7414. Compliance with requirements for examining qualifications and clinical abilities of health care professionals.
+
 #### SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION ####
 
 7421. Personnel administration: in general.
@@ -100,7 +102,9 @@ Sec.
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–168, §1(b)(2), title IX, §906(b)(1), Aug. 10, 2022, 136 Stat. 1759, 1812, added item 7404A.
+**2022**—Pub. L. 117–328, div. U, title I, §112(b), Dec. 29, 2022, 136 Stat. 5414, added item 7414.
+
+Pub. L. 117–168, §1(b)(2), title IX, §906(b)(1), Aug. 10, 2022, 136 Stat. 1759, 1812, added item 7404A.
 
 **2019**—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.
 

@@ -6,13 +6,33 @@ In order to preserve for the benefit and inspiration of the people of the United
 
 #### (b) Areas included ####
 
-The boundaries of the park shall be those generally depicted on the map entitled "Proposed Boundary Map, Rosie the Riveter/World War II Home Front National Historical Park" numbered 963/80,000 and dated May 2000. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+#### (1) In general ####
 
-(Pub. L. 106–352, §2, Oct. 24, 2000, 114 Stat. 1370; Pub. L. 108–352, §6(1), Oct. 21, 2004, 118 Stat. 1396.)
+The boundaries of the park shall include—
+
+(A)(i) the areas generally depicted on the map entitled "Proposed Boundary Map, Rosie the Riveter/World War II Home Front National Historical Park", numbered 963/80,000, and dated May 2000; and
+
+(ii) the areas depicted as the "Proposed Boundary Addition" on the map entitled "Rosie the Riveter/World War II Home Front National Historical Park Proposed Boundary Addition", numbered 499/168,353, and dated May 2020; and
+
+(B) any other historic properties identified by the Secretary as appropriate for addition to the park, subject to the requirement that a historic property proposed for addition to the park shall—
+
+(i) be determined to be eligible for listing in the National Register of Historic Places;
+
+(ii) have a direct connection to World War II home front themes in Richmond, California; and
+
+(iii) relate to the purpose, significance, and interpretive themes of the park.
+
+#### (2) Availability of maps ####
+
+The maps referred to in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+(Pub. L. 106–352, §2, Oct. 24, 2000, 114 Stat. 1370; Pub. L. 108–352, §6(1), Oct. 21, 2004, 118 Stat. 1396; Pub. L. 117–328, div. DD, title VI, §612(a), Dec. 29, 2022, 136 Stat. 5603.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (b). Pub. L. 117–328 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The boundaries of the park shall be those generally depicted on the map entitled 'Proposed Boundary Map, Rosie the Riveter/World War II Home Front National Historical Park' numbered 963/80,000 and dated May 2000. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service."
 
 **2004**—Subsec. (b). Pub. L. 108–352 substituted "numbered 963/80,000" for "numbered 963/80000".
 

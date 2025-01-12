@@ -424,6 +424,116 @@ Any mixture or other combination of—
 
 shall not be subject to the provisions of this section or sections 136a–1, 136c, 136e, 136m, and 136o(a)(2) of this title if the mixture or other combination is accompanied by the labeling required under this subchapter for the nitrogen stabilizer contained in the mixture or other combination, the mixture or combination is mixed or combined in accordance with such labeling, and the mixture or combination does not contain any active ingredient other than the nitrogen stabilizer.
 
+#### (5) Bilingual labeling ####
+
+#### (A) Requirement ####
+
+#### (i) In general ####
+
+Subject to clause (ii), not later than the applicable deadline described in subparagraph (B), each registered pesticide product released for shipment shall include—
+
+(I) the translation of the parts of the labeling contained in the Spanish Translation Guide described in subparagraph (G) on the product container; or
+
+(II) a link to such translation via scannable technology or other electronic methods readily accessible on the product label.
+
+#### (ii) Exceptions ####
+
+Notwithstanding clause (i)—
+
+(I) an antimicrobial pesticide product may, in lieu of including a translation or a link under clause (i), provide a link to the safety data sheets in Spanish via scannable technology or other electronic methods readily accessible on the product label; or
+
+(II) a non-agricultural pesticide product that is not classified by the Administrator as restricted use under subsection (d)(1)(A) may, in lieu of including a translation or a link under clause (i), provide a link to the safety data sheets in Spanish via scannable technology or other electronic methods readily accessible on the product label.
+
+#### (B) Deadlines for bilingual labeling ####
+
+#### (i) Pesticide products classified as restricted use ####
+
+In the case of pesticide products classified by the Administrator as restricted use under subsection (d)(1)(A), the deadline specified in this subparagraph is the date that is 3 years following December 29, 2022.
+
+#### (ii) Pesticide products not classified as restricted use ####
+
+In the case of pesticide products not classified by the Administrator as restricted use under subsection (d)(1)(A), the deadline specified in this subparagraph shall be as follows:
+
+#### (I) Agricultural ####
+
+#### (aa) Acute Toxicity Category I ####
+
+For agricultural pesticides classified as Acute Toxicity Category I, the date that is 3 years after December 29, 2022.
+
+#### (bb) Acute Toxicity Category II ####
+
+For agricultural pesticides classified as Acute Toxicity Category II, the date that is 5 years after December 29, 2022.
+
+#### (II) Antimicrobial and non-agricultural ####
+
+#### (aa) Acute Toxicity Category I ####
+
+For antimicrobial and non-agricultural pesticide products classified as Acute Toxicity Category I, the date that is 4 years after December 29, 2022.
+
+#### (bb) Acute Toxicity Category II ####
+
+For antimicrobial and non-agricultural pesticide products classified as Acute Toxicity Category II, the date that is 6 years after December 29, 2022.
+
+#### (III) Other pesticide products ####
+
+With respect to pesticide products not described in subclause (I) or (II), the date that is 8 years after December 29, 2022.
+
+#### (C) Implementation ####
+
+#### (i) Non-notification ####
+
+#### (I) In general ####
+
+In carrying out this paragraph, the Administrator shall allow translations of the parts of the label of a pesticide contained in the Spanish Translation Guide described in subparagraph (G) and scannable technology or other electronic methods to be added using non-notification procedures.
+
+#### (II) Non-notification procedure defined ####
+
+In this clause, the term "non-notification procedure" refers to a procedure under which a change may be made to a pesticide label without notifying the Administrator.
+
+#### (ii) Cooperation and consultation ####
+
+In carrying out this paragraph, the Administrator shall cooperate and consult with State lead agencies for pesticide regulation for the purpose of implementing bilingual labeling as provided in this paragraph as expeditiously as possible.
+
+#### (iii) End use labeling ####
+
+The labeling requirements of this paragraph shall apply to end use product labels.
+
+#### (iv) Incorporation timeframe ####
+
+After initial translation deadlines provided in subparagraph (B), updates to the Spanish Translation Guide described in subparagraph (G) shall be incorporated into labeling on the earlier of—
+
+(I) in the case of agricultural use pesticide labels, as determined by the Administrator—
+
+(aa) 1 year after the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); or
+
+(bb) the released for shipment date specified on the EPA Stamped Approved Label after the pesticide label is next changed or amended following the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); and
+
+(II) in the case of antimicrobial and non-agricultural use pesticide labels, as determined by the Administrator—
+
+(aa) 2 years after the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G); or
+
+(bb) the released for shipment date specified on the EPA Stamped Approved Label after the pesticide label is next changed or amended following the date of publication of the updated Spanish Label Translation Guide described in subparagraph (G).
+
+#### (v) Notification of updates to the Spanish Translation Guide for Pesticide Labeling ####
+
+Not later than 10 days after updating the Spanish Translation Guide described in subparagraph (G), the Administrator shall notify registrants of the update to such guide.
+
+#### (D) Accessibility of bilingual labeling for farm workers ####
+
+Not later than 180 days after December 29, 2022, to the maximum extent practicable, the Administrator shall seek stakeholder input on ways to make bilingual labeling required under this paragraph accessible to farm workers.
+
+#### (E) Plan ####
+
+Not later than 3 years after December 29, 2022, the Administrator shall implement a plan to ensure that farm workers have access to the bilingual labeling required under this paragraph.
+
+#### (F) Reporting ####
+
+Not later than 2 years after December 29, 2022, the Administrator shall develop and implement, and make publicly available, a plan for tracking the adoption of the bilingual labeling required under this paragraph.
+
+#### (G) Spanish Translation Guide described ####
+
+The Spanish Translation Guide described in this subparagraph is the Spanish Translation Guide for Pesticide Labeling issued in October 2019, as in effect on December 29, 2022, and any successor guides or amendments to such guide.
+
 #### (g) Registration review ####
 
 #### (1) General rule ####
@@ -628,7 +738,7 @@ A report submitted under subparagraph (A) shall include a description of—
 
 (iii) recommendations to improve the activities of the Agency pertaining to antimicrobial registrations.
 
-(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, §10115, Dec. 20, 2018, 132 Stat. 4914; Pub. L. 117–286, §4(a)(21), Dec. 27, 2022, 136 Stat. 4307.)
+(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, §10115, Dec. 20, 2018, 132 Stat. 4914; Pub. L. 117–286, §4(a)(21), Dec. 27, 2022, 136 Stat. 4307; Pub. L. 117–328, div. HH, title VI, §702, Dec. 29, 2022, 136 Stat. 5996.)
 
 #### **Editorial Notes** ####
 
@@ -643,6 +753,8 @@ A prior section 3 of act June 25, 1947, was classified to section 135a of this t
 #### Amendments ####
 
 **2022**—Subsec. (c)(11)(F). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+
+Subsec. (f)(5). Pub. L. 117–328 added par. (5).
 
 **2018**—Subsec. (c)(11). Pub. L. 115–334 added par. (11).
 
@@ -781,6 +893,30 @@ Pub. L. 95–396, §2(b), Sept. 30, 1978, 92 Stat. 824, provided that: "The amen
 #### Effective Date ####
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.
+
+#### Registration Review Deadline Extension ####
+
+Pub. L. 117–328, div. HH, title VI, §711, Dec. 29, 2022, 136 Stat. 6083, provided that:
+
+"(a) In General.—Notwithstanding section 3(g)(1)(A)(iii)(I) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(g)(1)(A)(iii)(I)), the Administrator of the Environmental Protection Agency (referred to in this section as the 'Administrator') shall complete the initial registration review of each pesticide or pesticide case covered by that section not later than October 1, 2026.
+
+"(b) Interim Registration Review Decision Requirements.—
+
+"(1) Definition of covered interim registration review decision.—In this subsection, the term 'covered interim registration review decision' means an interim registration review decision—
+
+"(A) that is associated with an initial registration review described in subsection (a);
+
+"(B) that is noticed in the Federal Register during the period beginning on the date of enactment of this Act [Dec. 29, 2022] and ending on October 1, 2026; and
+
+"(C) for which the Administrator has not, as of the date on which the decision is noticed in the Federal Register, made effects determinations or completed any necessary consultation under section 7(a)(2) of the Endangered Species Act of 1973 (16 U.S.C. 1536(a)(2)).
+
+"(2) Requirements.—Any covered interim registration review decision shall include, where applicable, measures to reduce the effects of the applicable pesticide on—
+
+"(A) species listed under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.); or
+
+"(B) any designated critical habitat.
+
+"(3) Consultation.—In developing measures described in paragraph (2), the Administrator shall take into account the input received from the Secretary of Agriculture and other members of the interagency working group established under section 3(c)(11) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(c)(11))."
 
 #### Biological Pesticide Handling Study ####
 

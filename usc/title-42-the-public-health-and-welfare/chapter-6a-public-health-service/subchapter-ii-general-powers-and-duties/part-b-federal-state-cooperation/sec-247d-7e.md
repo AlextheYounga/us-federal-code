@@ -44,9 +44,11 @@ The term under subparagraph (A) includes—
 
 (iii) activities to facilitate manufacture of the product on a commercial scale with consistently high quality, as well as to improve and make available new technologies to increase manufacturing surge capacity;
 
-(iv) activities to improve the shelf-life of the product or technologies for administering the product; and
+(iv) activities to support, maintain, and improve domestic manufacturing surge capacity and capabilities, as appropriate, including through the utilization of advanced manufacturing and platform technologies, to increase the availability of products that are or may become qualified countermeasures or qualified pandemic or epidemic products;
 
-(v) such other activities as are part of the advanced stages of testing, refinement, improvement, or preparation of the product for such use and as are specified by the Secretary.
+(v) activities to improve the shelf-life of the product or technologies for administering the product; and
+
+(vi) such other activities as are part of the advanced stages of testing, refinement, improvement, manufacturing, or preparation of the product for such use and as are specified by the Secretary.
 
 #### (7) Security countermeasure ####
 
@@ -68,7 +70,7 @@ The term "person" includes an individual, partnership, corporation, association,
 
 #### (1) In general ####
 
-Not later than 6 months after December 19, 2006, the Secretary shall develop and make public a strategic plan to integrate biodefense and emerging infectious disease requirements with the advanced research and development, strategic initiatives for innovation, and the procurement of qualified countermeasures and qualified pandemic or epidemic products. The Secretary shall carry out such activities as may be practicable to disseminate the information contained in such plan to persons who may have the capacity to substantially contribute to the activities described in such strategic plan. The Secretary shall update and incorporate such plan as part of the National Health Security Strategy described in section 300hh–1 of this title.
+Not later than 6 months after December 19, 2006, the Secretary shall develop and make public a strategic plan to integrate biodefense and emerging infectious disease requirements with the advanced research and development, strategic initiatives for innovation, support for domestic manufacturing surge capacity and capabilities, and the procurement of qualified countermeasures and qualified pandemic or epidemic products. The Secretary shall carry out such activities as may be practicable to disseminate the information contained in such plan to persons who may have the capacity to substantially contribute to the activities described in such strategic plan. The Secretary shall update and incorporate such plan as part of the National Health Security Strategy described in section 300hh–1 of this title.
 
 #### (2) Content ####
 
@@ -76,9 +78,11 @@ The strategic plan under paragraph (1) shall guide—
 
 (A) research and development, conducted or supported by the Department of Health and Human Services, of qualified countermeasures and qualified pandemic or epidemic products against possible biological, chemical, radiological, and nuclear agents and to emerging infectious diseases;
 
-(B) innovation in technologies that may assist advanced research and development of qualified countermeasures and qualified pandemic or epidemic products (such research and development referred to in this section as "countermeasure and product advanced research and development"); and
+(B) innovation in technologies that may assist advanced research and development of qualified countermeasures and qualified pandemic or epidemic products (such research and development referred to in this section as "countermeasure and product advanced research and development");
 
-(C) procurement of such qualified countermeasures and qualified pandemic or epidemic products by such Department.
+(C) activities to support, maintain, and improve domestic manufacturing surge capacity and capabilities, as appropriate, including through the utilization of advanced manufacturing and platform technologies, to increase the availability of products that are or may become qualified countermeasures or qualified pandemic or epidemic products; and
+
+(D) procurement of such qualified countermeasures and qualified pandemic or epidemic products by such Department.
 
 #### (c) Biomedical Advanced Research and Development Authority ####
 
@@ -92,7 +96,7 @@ Based upon the strategic plan described in subsection (b), the Secretary shall c
 
 (A) facilitating collaboration between the Department of Health and Human Services and other Federal agencies, relevant industries, academia, and other persons, with respect to such advanced research and development;
 
-(B) promoting countermeasure and product advanced research and development;
+(B) promoting countermeasure and product advanced research and development, including through the establishment and maintenance of domestic manufacturing surge capacity and capabilities, consistent with subsection (a)(6)(B)(iv);
 
 (C) facilitating contacts between interested persons and the offices or employees authorized by the Secretary to advise such persons regarding requirements under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] and under section 262 of this title; and
 
@@ -110,9 +114,13 @@ To carry out the purpose described in paragraph (2)(A), the Secretary shall—
 
 (i) facilitate and increase the expeditious and direct communication between the Department of Health and Human Services and relevant persons with respect to countermeasure and product advanced research and development, including by—
 
-(I) facilitating such communication regarding the processes for procuring such advanced research and development with respect to qualified countermeasures and qualified pandemic or epidemic products of interest; and
+(I) facilitating such communication regarding the processes for procuring such advanced research and development with respect to qualified countermeasures and qualified pandemic or epidemic products of interest;
 
 (II) soliciting information about and data from research on potential qualified countermeasures and qualified pandemic or epidemic products and related technologies;
+
+(III) facilitating such communication, as appropriate, regarding manufacturing surge capacity and capabilities with respect to qualified countermeasures and qualified pandemic or epidemic products to prepare for, or respond to, a public health emergency or potential public health emergency; and
+
+(IV) facilitating such communication, as appropriate and in a manner that does not compromise national security, with respect to potential eligibility for the material threat medical countermeasure priority review voucher program under section 565A of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360bbb–4a];
 
 (ii) at least annually—
 
@@ -120,9 +128,11 @@ To carry out the purpose described in paragraph (2)(A), the Secretary shall—
 
 (II) sponsor opportunities to demonstrate the operation and effectiveness of relevant biodefense countermeasure technologies; and
 
-(III) convene such working groups on countermeasure and product advanced research and development as the Secretary may determine are necessary to carry out this section; and
+(III) convene such working groups on countermeasure and product advanced research and development as the Secretary may determine are necessary to carry out this section;
 
-(iii) carry out the activities described in section 247d–7f of this title.
+(iii) communicate regularly with entities in receipt of an award pursuant to subparagraph (B)(v), and facilitate communication between such entities and other entities in receipt of an award pursuant to subparagraph (B)(iv), as appropriate, for purposes of planning and response regarding the availability of countermeasures and the maintenance of domestic manufacturing surge capacity and capabilities, including any planned uses of such capacity and capabilities in the near- and mid-term, and identification of any significant challenges related to the long-term maintenance of such capacity and capabilities; and
+
+(iv) carry out the activities described in section 247d–7f of this title.
 
 #### (B) Support advanced research and development ####
 
@@ -132,23 +142,27 @@ To carry out the purpose described in paragraph (2)(B), the Secretary shall—
 
 (ii) direct and coordinate the countermeasure and product advanced research and development activities of the Department of Health and Human Services;
 
-(iii) establish strategic initiatives to accelerate countermeasure and product advanced research and development (which may include advanced research and development for purposes of fulfilling requirements under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] or section 262 of this title) and innovation in such areas as the Secretary may identify as priority unmet need areas; and
+(iii) establish strategic initiatives to accelerate countermeasure and product advanced research and development (which may include advanced research and development for purposes of fulfilling requirements under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] or section 262 of this title) and innovation in such areas as the Secretary may identify as priority unmet need areas;
 
-(iv) award contracts, grants, cooperative agreements, and enter into other transactions, for countermeasure and product advanced research and development.
+(iv) award contracts, grants, cooperative agreements, and enter into other transactions, for countermeasure and product advanced research and development; and
+
+(v) award contracts, grants, and cooperative agreements and enter into other transactions to support, maintain, and improve domestic manufacturing surge capacity and capabilities, including through supporting flexible or advanced manufacturing, to ensure that additional capacity is available to rapidly manufacture products that are or may become qualified countermeasures or qualified pandemic or epidemic products in the event of a public health emergency declaration or significant potential for a public health emergency.
 
 #### (C) Facilitating advice ####
 
 To carry out the purpose described in paragraph (2)(C) the Secretary shall—
 
-(i) connect interested persons with the offices or employees authorized by the Secretary to advise such persons regarding the regulatory requirements under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] and under section 262 of this title related to the approval, clearance, or licensure of qualified countermeasures or qualified pandemic or epidemic products; and
+(i) connect interested persons with the offices or employees authorized by the Secretary to advise such persons regarding the regulatory requirements under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] and under section 262 of this title related to the approval, clearance, or licensure of qualified countermeasures or qualified pandemic or epidemic products;
 
-(ii) with respect to persons performing countermeasure and product advanced research and development funded under this section, enable such offices or employees to provide to the extent practicable such advice in a manner that is ongoing and that is otherwise designed to facilitate expeditious development of qualified countermeasures and qualified pandemic or epidemic products that may achieve such approval, clearance, or licensure.
+(ii) with respect to persons performing countermeasure and product advanced research and development funded under this section, enable such offices or employees to provide to the extent practicable such advice in a manner that is ongoing and that is otherwise designed to facilitate expeditious development of qualified countermeasures and qualified pandemic or epidemic products that may achieve such approval, clearance, or licensure; and
+
+(iii) consult with the Commissioner of Food and Drugs, pursuant to section 565(b)(2) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360bbb–4(b)(2)], to ensure that facilities performing manufacturing, pursuant to an award under subparagraph (B)(v), are in compliance with applicable requirements under such Act and this chapter, as appropriate, including current good manufacturing practice pursuant to section 501(a)(2)(B) of the Food, Drug, and Cosmetic Act [21 U.S.C. 351(a)(2)(B)]; and
 
 #### (D) Supporting innovation ####
 
 To carry out the purpose described in paragraph (2)(D), the Secretary may award contracts, grants, and cooperative agreements, or enter into other transactions, such as prize payments, to promote—
 
-(i) innovation in technologies that may assist countermeasure and product advanced research and development;
+(i) innovation in technologies that may assist countermeasure and product advanced research and development, including to improve manufacturing capacities and capabilities for medical countermeasures;
 
 (ii) research on and development of research tools and other devices and technologies; and
 
@@ -236,7 +250,7 @@ Not later than 4 years after December 13, 2016, the Comptroller General of the U
 
 #### (ix) Sunset ####
 
-This subparagraph shall have no force or effect after September 30, 2023.
+This subparagraph shall have no force or effect after September 30, 2028.
 
 #### (F) Strategic initiatives ####
 
@@ -247,6 +261,10 @@ The Secretary, acting through the Director of BARDA, may implement strategic ini
 (ii) threats that consistently exist or continually circulate and have a significant potential to become a pandemic, such as pandemic influenza, which may include the advanced research and development, manufacturing, and appropriate stockpiling of qualified pandemic or epidemic products, and products, technologies, or processes to support the advanced research and development of such countermeasures (including multiuse platform technologies for diagnostics, vaccines, and therapeutics; virus seeds; clinical trial lots; novel virus strains; and antigen and adjuvant material); and
 
 (iii) threats that may result primarily or secondarily from a chemical, biological, radiological, or nuclear agent, or emerging infectious diseases, and which may present increased treatment complications such as the occurrence of resistance to available countermeasures or potential countermeasures, including antimicrobial resistant pathogens.
+
+#### (G) Annual reports by award recipients ####
+
+As a condition of receiving an award under subparagraph (B)(v), a recipient shall develop and submit to the Secretary annual reports related to the maintenance of such capacity and capabilities, including ensuring that such capacity and capabilities are able to support the rapid manufacture of countermeasures as required by the Secretary.
 
 #### (5) Transaction authorities ####
 
@@ -317,6 +335,10 @@ The Secretary may assess the feasibility and appropriateness of establishing, th
 #### (G) Government purpose ####
 
 In awarding contracts, grants, and cooperative agreements under this section, the Secretary shall provide a clear statement of defined Government purpose related to activities included in subsection (a)(6)(B) for a qualified countermeasure or qualified pandemic or epidemic product.
+
+#### (H) Supporting warm-base and surge capacity and capabilities ####
+
+Pursuant to an award under subparagraph (B)(v),<sup><a href="#247d-7e_1_target" name="247d-7e_1">1</a></sup> the Secretary may make payments for activities necessary to maintain domestic manufacturing surge capacity and capabilities supported under such award to ensure that such capacity and capabilities are able to support the rapid manufacture of countermeasures as required by the Secretary to prepare for, or respond to, an existing or potential public health emergency or otherwise address threats that pose a significant level of risk to national security. The Secretary may support the utilization of such capacity and capabilities under awards for countermeasure and product advanced research and development, as appropriate, to provide for the maintenance of such capacity and capabilities.
 
 #### (6) At-risk individuals ####
 
@@ -406,29 +428,31 @@ Notwithstanding section 1013 of title 5, a working group of BARDA under this sec
 
 #### (1) In general ####
 
-Not later than 180 days after March 13, 2013, the Comptroller General of the United States shall conduct an independent evaluation of the activities carried out to facilitate flexible manufacturing capacity pursuant to this section.
+Not later than 180 days after December 29, 2022, the Comptroller General of the United States shall conduct an independent evaluation of the activities carried out to facilitate flexible manufacturing capacity pursuant to this section.
 
 #### (2) Report ####
 
-Not later than 1 year after March 13, 2013, the Comptroller General of the United States shall submit to the appropriate committees of Congress a report concerning the results of the evaluation conducted under paragraph (1). Such report shall review and assess—
+Not later than 1 year after December 29, 2022, the Comptroller General of the United States shall submit to the appropriate committees of Congress a report concerning the results of the evaluation conducted under paragraph (1). Such report shall review and assess—
 
 (A) the extent to which flexible manufacturing capacity under this section is dedicated to chemical, biological, radiological, and nuclear threats;
 
-(B) the activities supported by flexible manufacturing initiatives; and
+(B) the activities supported by flexible manufacturing initiatives;
 
 (C) the ability of flexible manufacturing activities carried out under this section to—
 
 (i) secure and leverage leading technical expertise with respect to countermeasure advanced research, development, and manufacturing processes; and
 
-(ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.
+(ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents; and
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383; Pub. L. 117–286, §4(a)(228), Dec. 27, 2022, 136 Stat. 4331.)
+(D) plans for the near-, mid-, and long-term sustainment of manufacturing activities carried out under this section, including such activities pursuant to subsection (c)(5)(H), specific actions to regularly assess the ability of recipients of an award under subsection (c)(4)(B)(v) to rapidly manufacture countermeasures as required by the Secretary, and recommendations to address challenges, if any, related to such activities.
+
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383; Pub. L. 117–286, §4(a)(228), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title II, §2401(a), Dec. 29, 2022, 136 Stat. 5782.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), (iii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -440,7 +464,39 @@ In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 
 
 #### Amendments ####
 
-**2022**—Subsec. (e)(2). Pub. L. 117–286 substituted "section 1013 of title 5," for "section 14 of the Federal Advisory Committee Act,".
+**2022**—Subsec. (a)(6)(B)(iv), (v). Pub. L. 117–328, §2401(a)(1)(A), (B), added cl. (iv) and redesignated former cl. (iv) as (v). Former cl. (v) redesignated (vi).
+
+Subsec. (a)(6)(B)(vi). Pub. L. 117–328, §2401(a)(1)(A), (C), redesignated cl. (v) as (vi) and inserted "manufacturing," after "improvement,".
+
+Subsec. (b)(1). Pub. L. 117–328, §2401(a)(2)(A), inserted "support for domestic manufacturing surge capacity and capabilities," after "initiatives for innovation,".
+
+Subsec. (b)(2)(C), (D). Pub. L. 117–328, §2401(a)(2)(B), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (c)(2)(B). Pub. L. 117–328, §2401(a)(3)(A), inserted ", including through the establishment and maintenance of domestic manufacturing surge capacity and capabilities, consistent with subsection (a)(6)(B)(iv)" after "development".
+
+Subsec. (c)(4)(A)(i)(III), (IV). Pub. L. 117–328, §2401(a)(3)(B)(i)(I), added subcls. (III) and (IV).
+
+Subsec. (c)(4)(A)(iii), (iv). Pub. L. 117–328, §2401(a)(3)(B)(i)(II)–(IV), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (c)(4)(B)(v). Pub. L. 117–328, §2401(a)(3)(B)(ii), added cl. (v).
+
+Subsec. (c)(4)(C)(iii). Pub. L. 117–328, §2401(a)(3)(B)(iii), added cl. (iii).
+
+Subsec. (c)(4)(D)(i). Pub. L. 117–328, §2401(a)(3)(B)(iv), inserted ", including to improve manufacturing capacities and capabilities for medical countermeasures" after "development".
+
+Subsec. (c)(4)(E)(ix). Pub. L. 117–328, §2401(a)(3)(B)(v), substituted "2028" for "2023".
+
+Subsec. (c)(4)(G). Pub. L. 117–328, §2401(a)(3)(B)(vi), added subpar. (G).
+
+Subsec. (c)(5)(H). Pub. L. 117–328, §2401(a)(3)(C), added subpar. (H).
+
+Subsec. (e)(2). Pub. L. 117–286 substituted "section 1013 of title 5," for "section 14 of the Federal Advisory Committee Act,".
+
+Subsec. (f)(1). Pub. L. 117–328, §2401(a)(4)(A), substituted "Not later than 180 days after December 29, 2022" for "Not later than 180 days after March 13, 2013".
+
+Subsec. (f)(2). Pub. L. 117–328, §2401(a)(4)(B)(i), substituted "December 29, 2022" for "March 13, 2013" in introductory provisions.
+
+Subsec. (f)(2)(D). Pub. L. 117–328, §2401(a)(4)(B)(ii)–(C), added subpar. (D).
 
 **2020**—Subsec. (c)(5)(A)(iii), (iv). Pub. L. 116–136 added cl. (iii) and redesignated former cl. (iii) as (iv).
 
@@ -627,3 +683,5 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+[<sup>1</sup> So in original. Probably should be "paragraph (4)(B)(v),".](#247d-7e_1)

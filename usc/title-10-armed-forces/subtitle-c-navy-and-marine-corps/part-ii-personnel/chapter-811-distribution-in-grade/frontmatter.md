@@ -16,9 +16,9 @@ Sec.
 
 **1996**—Pub. L. 104–106, div. A, title XV, §1501(c)(20), Feb. 10, 1996, 110 Stat. 499, struck out item 5454 "Computations: rule when fraction occurs in final result".
 
-**1994**—Pub. L. 103–337, div. A, title XVI, §1673(b)(1), Oct. 5, 1994, 108 Stat. 3016, struck out items 5456 "Naval Reserve and Marine Corps Reserve", 5457 "Naval Reserve: officers in an active status in grades above chief warrant officer, W–5", and 5458 "Marine Corps Reserve: officers in an active status in grades above chief warrant officer, W–5".
+**1994**—Pub. L. 103–337, div. A, title XVI, §1673(b)(1), Oct. 5, 1994, 108 Stat. 3016, struck out items 5456 "Naval Reserve and Marine Corps Reserve", 5457 "Naval Reserve: officers in an active status in grades above chief warrant officer, W–⁠5", and 5458 "Marine Corps Reserve: officers in an active status in grades above chief warrant officer, W–⁠5".
 
-**1991**—Pub. L. 102–190, div. A, title XI, §1131(8)(B), Dec. 5, 1991, 105 Stat. 1506, substituted "W–5" for "W–4" in items 5457 and 5458.
+**1991**—Pub. L. 102–190, div. A, title XI, §1131(8)(B), Dec. 5, 1991, 105 Stat. 1506, substituted "W–⁠5" for "W–4" in items 5457 and 5458.
 
 **1990**—Pub. L. 101–510, div. A, title IV, §403(b)(2)(B), Nov. 5, 1990, 104 Stat. 1545, struck out items 5442 "Navy: line officers on active duty; rear admirals (lower half) and rear admirals", 5443 "Marine Corps: officers on active duty; brigadier generals and major generals", 5444 "Navy: staff corps officers on active duty; rear admirals (lower half) and rear admirals", and 5446 "Application: sections 5442, 5443, 5444".
 

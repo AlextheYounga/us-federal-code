@@ -48,7 +48,7 @@ The Library of Congress, directly or by agreement with its designated representa
 
 The Center shall—
 
-(1) pay to the Library of Congress funds sufficient to cover the gross salary and the employer's share of taxes under section 3111 of title 26 for Center employees, in amounts computed by the Library of Congress;
+(1) except as provided in subsection (g), pay to the Library of Congress funds sufficient to cover the gross salary and the employer's share of taxes under section 3111 of title 26 for Center employees, in amounts computed by the Library of Congress;
 
 (2) as required by the Library of Congress, reimburse the Library of Congress for reasonable administrative costs incurred under subsection (e)(1);
 
@@ -58,11 +58,15 @@ The Center shall—
 
 (5) consult with the Librarian of Congress on the administration and implementation of this section.
 
-#### (g) Regulations ####
+#### (g) Reimbursement for certain compensation ####
+
+Notwithstanding paragraph (1) of subsection (f), in the case of expenses described in such paragraph which are attributable to the compensation of the Executive Director and Deputy Executive Director of the Center, the Librarian of Congress may reimburse the Center for such expenses from amounts appropriated or otherwise made available for salaries and expenses of the Library of Congress.
+
+#### (h) Regulations ####
 
 The Librarian of Congress may prescribe regulations to carry out this section.
 
-(Pub. L. 106–554, §1(a)(2) [title II, §210], Dec. 21, 2000, 114 Stat. 2763, 2763A–114.)
+(Pub. L. 106–554, §1(a)(2) [title II, §210], Dec. 21, 2000, 114 Stat. 2763, 2763A–114; Pub. L. 117–328, div. I, title I, §141(a), Dec. 29, 2022, 136 Stat. 4932.)
 
 #### **Editorial Notes** ####
 
@@ -70,7 +74,17 @@ The Librarian of Congress may prescribe regulations to carry out this section.
 
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under section 141 of this title.
 
+#### Amendments ####
+
+**2022**—Subsec. (f)(1). Pub. L. 117–328, §141(a)(1), substituted "except as provided in subsection (g), pay to the Library of Congress" for "pay to the Library of Congress".
+
+Subsecs. (g), (h). Pub. L. 117–328, §141(a)(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
+
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–328, div. I, title I, §141(b), Dec. 29, 2022, 136 Stat. 4932, provided that: "The amendment made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year."
 
 #### Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center ####
 

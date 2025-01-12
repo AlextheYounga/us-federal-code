@@ -1375,6 +1375,10 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–328, div. T, §1(a), Dec. 29, 2022, 136 Stat. 5275, provided that: "This division [see Tables for classification] may be cited as the 'SECURE 2.0 Act of 2022'."
+
 #### Short Title of 2020 Amendment ####
 
 Pub. L. 116–260, div. N, title II, §271(a), Dec. 27, 2020, 134 Stat. 1964, provided that: "This subtitle [subtitle B (§§271–288) of title II of div. N of Pub. L. 116–260, see Tables for classification] may be cited as the 'COVID-related Tax Relief Act of 2020'."
@@ -2212,6 +2216,8 @@ Pub. L. 105–277, div. J, title IV, §4001(a), Oct. 21, 1998, 112 Stat. 2681–
 #### Inflation Adjusted Items for Certain Years ####
 
 Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 179D, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+**2023**—Revenue Procedure 2022–38.
 
 **2022**—Revenue Procedure 2021–45.
 

@@ -48,7 +48,7 @@ Within 1 year after the completion of the member appointment process by the Chai
 
 (6) for deadlines by which providers of interconnected and non-interconnected VoIP services and manufacturers of equipment used for such services shall achieve the actions required in paragraphs (1) through (5), where achievable, and for the possible phase out of the use of current-generation TTY technology to the extent that this technology is replaced with more effective and efficient technologies and methods to enable access to emergency services by individuals with disabilities;
 
-(7) for the establishment of rules to update the Commission's rules with respect to 9–1–1 services and E–911 services (as defined in section 158(e)(4) <sup><a href="#615c_1_target" name="615c_1">1</a></sup> of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942(e)(4))), for users of telecommunications relay services as new technologies and methods for providing such relay services are adopted by providers of such relay services; and
+(7) for the establishment of rules to update the Commission's rules with respect to 9–1–1 services and E–⁠911 services (as defined in section 158(e)(4) <sup><a href="#615c_1_target" name="615c_1">1</a></sup> of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942(e)(4))), for users of telecommunications relay services as new technologies and methods for providing such relay services are adopted by providers of such relay services; and
 
 (8) that take into account what is technically and economically feasible.
 

@@ -152,6 +152,18 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
+#### Information ####
+
+Pub. L. 117–328, div. HH, title VI, §707, Dec. 29, 2022, 136 Stat. 6082, provided that: "Not later than 180 days after the date of enactment of this title [Dec. 29, 2022], the Administrator of the Environmental Protection Agency shall post on a single webpage of the website of the Environmental Protection Agency aggregated information on pesticide regulation under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.), including—
+
+"(1) all guidance relating to risk assessment, risk mitigation, benefits assessments, and cost-benefit balancing;
+
+"(2) hyperlinks to resources, including the Department of Agriculture's 'national list of allowed and prohibited substances' for organic crop and livestock production;
+
+"(3) biopesticides and pesticides exempt pursuant to section 25(b) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136w(b)); and
+
+"(4) integrated pest management principles developed under section 28(c) of such Act (7 U.S.C. 136w–3(c)), including technical assistance for implementation of those principles."
+
 #### Agricultural Worker Protection Standard; Certification of Pesticide Applicators ####
 
 Pub. L. 116–8, §7(a), (b), Mar. 8, 2019, 133 Stat. 578, provided that:

@@ -2,9 +2,9 @@
 
 Sec.
 
-8111. Navy: grades above chief warrant officer, W–5.
+8111. Navy: grades above chief warrant officer, W–⁠5.
 
-8112. Marine Corps: grades above chief warrant officer, W–5.
+8112. Marine Corps: grades above chief warrant officer, W–⁠5.
 
 8113. Navy and Marine Corps: warrant officer grades.
 
@@ -18,7 +18,7 @@ Sec.
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1673(d)(2), Oct. 5, 1994, 108 Stat. 3016, struck out item 5506 "Naval Reserve and Marine Corps Reserve; officers: precedence".
 
-**1991**—Pub. L. 102–190, div. A, title XI, §1131(8)(B), Dec. 5, 1991, 105 Stat. 1506, substituted "W–5" for "W–4" in items 5501 and 5502.
+**1991**—Pub. L. 102–190, div. A, title XI, §1131(8)(B), Dec. 5, 1991, 105 Stat. 1506, substituted "W–⁠5" for "W–4" in items 5501 and 5502.
 
 **1980**—Pub. L. 96–513, title V, §§503(25), 513(10), Dec. 12, 1980, 94 Stat. 2913, 2932, struck out items 5504 "Lineal lists: maintenance", 5505 "Reserve officers: change of lineal position", and 5507 "Rear admirals: determination of upper half".
 

@@ -10,6 +10,8 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in the following acts:
 
+Pub. L. 117–328, div. K, title I, Dec. 29, 2022, 136 Stat. 4978, 4979.
+
 Pub. L. 117–103, div. K, title I, Mar. 15, 2022, 136 Stat. 568, 569.
 
 Pub. L. 116–260, div. K, title I, Dec. 27, 2020, 134 Stat. 1695, 1696.

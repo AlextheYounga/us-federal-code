@@ -88,9 +88,13 @@ Sec.
 
 44743. Pilot training requirements.
 
+44744. Flight Crew Alerting. 1
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. O, title V, §501(e), Dec. 29, 2022, 136 Stat. 5231, added item 44744.
 
 **2020**—Pub. L. 116–260, div. V, title I, §§107(d)(2), 119(b), Dec. 27, 2020, 134 Stat. 2326, 2339, added items 44740 to 44743 and struck out second item 44737 "Special rule for certain aircraft operations".
 
@@ -107,3 +111,5 @@ Sec.
 **2000**—Pub. L. 106–181, title V, §§504(c), 505(a)(2), title VI, §603(b), Apr. 5, 2000, 114 Stat. 134, 136, 152, substituted "Aeronautical charts and related products and services" for "Aeronautical maps and charts" in item 44721 and added items 44725 and 44726.
 
 **1996**—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER447_1)

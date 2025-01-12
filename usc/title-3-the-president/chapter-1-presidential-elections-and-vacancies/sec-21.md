@@ -2,11 +2,21 @@
 
 As used in this chapter the term—
 
-(a) "State" includes the District of Columbia.
+(1) "election day" means the Tuesday next after the first Monday in November, in every fourth year succeeding every election of a President and Vice President held in each State, except, in the case of a State that appoints electors by popular vote, if the State modifies the period of voting, as necessitated by force majeure events that are extraordinary and catastrophic, as provided under laws of the State enacted prior to such day, "election day" shall include the modified period of voting.
 
-(b) "executives of each State" includes the Board of Commissioners of the District of Columbia.
+(2) "State" includes the District of Columbia.
 
-(Added Pub. L. 87–389, §2(a), Oct. 4, 1961, 75 Stat. 820.)
+(3) "executive" means, with respect to any State, the Governor of the State (or, in the case of the District of Columbia, the Mayor of the District of Columbia), except when the laws or constitution of a State in effect as of election day expressly require a different State executive to perform the duties identified under this chapter.
+
+(Added Pub. L. 87–389, §2(a), Oct. 4, 1961, 75 Stat. 820; amended Pub. L. 117–328, div. P, title I, §§102(b), 104(b), Dec. 29, 2022, 136 Stat. 5233, 5235.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Pub. L. 117–328, §102(b), added par. (1) and redesignated former subsecs. (a) and (b) as pars. (2) and (3), respectively.
+
+Par. (3). Pub. L. 117–328, §104(b), added par. (3) and struck out former par. (3), as redesignated from subsec. (b), which read as follows: " 'executives of each State' includes the Board of Commissioners of the District of Columbia."
 
 #### **Executive Documents** ####
 

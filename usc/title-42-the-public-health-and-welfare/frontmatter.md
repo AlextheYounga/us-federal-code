@@ -87,6 +87,8 @@ Chap. Sec.
 
 21F. Prohibiting Employment Discrimination on the Basis of Genetic Information 2000ff
 
+21G. Pregnant Worker Fairness 2000gg
+
 22. Indian Hospitals and Health Facilities 2001
 
 23. Development and Control of Atomic Energy 2011

@@ -1,4 +1,4 @@
-### §667h. Chronic wasting disease task force ###
+### §667h. Chronic Wasting Disease Task Force ###
 
 #### (a) Definitions ####
 

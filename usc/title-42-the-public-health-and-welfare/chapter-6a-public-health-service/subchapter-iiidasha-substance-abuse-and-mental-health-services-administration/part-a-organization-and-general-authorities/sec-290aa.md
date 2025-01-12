@@ -86,7 +86,9 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 (23) collaborate with the Attorney General and representatives of the criminal justice system to improve mental and substance use disorders services for individuals who have been arrested or incarcerated;
 
-(24) after providing an opportunity for public input, set standards for grant programs under this subchapter for mental and substance use disorders services and prevention programs, which standards may address—
+(24) support the continued access to, or availability of, mental health and substance use disorder services during, or in response to, a public health emergency declared under section 247d of this title, including in consultation with, as appropriate, the Assistant Secretary for Preparedness and Response, the Director of the Centers for Disease Control and Prevention, and the heads of other relevant agencies, in preparing for, and responding to, a public health emergency;
+
+(25) after providing an opportunity for public input, set standards for grant programs under this subchapter for mental and substance use disorders services and prevention programs, which standards may address—
 
 (A) the capacity of the grantee to implement the award;
 
@@ -96,9 +98,11 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 (D) the extent to which the grantee must collect and report on required performance measures; and
 
-(E) the extent to which the grantee is proposing to use evidence-based practices; and
+(E) the extent to which the grantee is proposing to use evidence-based practices;
 
-(25) advance, through existing programs, the use of performance metrics, including those based on the recommendations on performance metrics from the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016.
+(26) <sup><a href="#290aa_1_target" name="290aa_1">1</a></sup> advance, through existing programs, the use of performance metrics, including those based on the recommendations on performance metrics from the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016; and
+
+(26) <sup><a href="#290aa_1_target" name="290aa_1">1</a></sup> collaborate with national accrediting entities, recovery housing providers, organizations or individuals with established expertise in delivery of recovery housing services, States, Federal agencies (including the Department of Health and Human Services, the Department of Housing and Urban Development, and the agencies listed in section 290ee–5(e)(2)(B) of this title), and other relevant stakeholders, to promote the availability of high-quality recovery housing and services for individuals with a substance use disorder.
 
 #### (e) Associate Administrator for Alcohol Prevention and Treatment Policy ####
 
@@ -252,7 +256,7 @@ Not later than September 30, 2018, and every 4 years thereafter, the Assistant S
 
 #### (2) Coordination ####
 
-In developing and carrying out the strategic plan under this subsection, the Assistant Secretary shall take into consideration the findings and recommendations of the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016 and the report of the Interdepartmental Serious Mental Illness Coordinating Committee under section 6031 of such Act.
+In developing and carrying out the strategic plan under this subsection, the Assistant Secretary shall take into consideration the findings and recommendations of the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016 and the report of the Interdepartmental Serious Mental Illness Coordinating Committee under section 290aa–0b of this title.
 
 #### (3) Publication of plan ####
 
@@ -278,9 +282,11 @@ The strategic plan developed under paragraph (1) shall—
 
 (ii) a strategy to improve the recruitment, training, and retention of a workforce for the treatment of individuals with mental or substance use disorders, or co-occurring disorders;
 
-(E) identify opportunities to improve collaboration with States, local governments, communities, and Indian tribes and tribal organizations (as such terms are defined in section 5304 of title 25); and
+(E) identify opportunities to improve collaboration with States, local governments, communities, and Indian tribes and tribal organizations (as such terms are defined in section 5304 of title 25);
 
-(F) specify a strategy to disseminate evidence-based and promising best practices related to prevention, diagnosis, early intervention, treatment, and recovery services related to mental illness, particularly for adults with a serious mental illness and children with a serious emotional disturbance, and for individuals with a substance use disorder.
+(F) specify a strategy to disseminate evidence-based and promising best practices related to prevention, diagnosis, early intervention, treatment, and recovery services related to mental illness, particularly for adults with a serious mental illness and children with a serious emotional disturbance, and for individuals with a substance use disorder; and
+
+(G) specify a strategy to support the continued access to, or availability of, mental health and substance use disorder services, including to at-risk individuals (as defined in section 300hh–1(b)(4) of this title), during, or in response to, public health emergencies declared pursuant to section 247d of this title.
 
 #### (m) Biennial report concerning activities and progress ####
 
@@ -292,7 +298,9 @@ Not later than September 30, 2020, and every 2 years thereafter, the Assistant S
 
 (3) a description of the progress made in addressing gaps in mental and substance use disorders prevention, treatment, and recovery services and improving outcomes by the Administration, including with respect to serious mental illnesses, serious emotional disturbances, and co-occurring disorders;
 
-(4) a description of the manner in which the Administration coordinates and partners with other Federal agencies and departments related to mental and substance use disorders, including activities related to—
+(4) a description of the Administration's activities to support the continued provision of mental health and substance use disorder services, as applicable, in response to public health emergencies declared pursuant to section 247d of this title;
+
+(5) a description of the manner in which the Administration coordinates and partners with other Federal agencies and departments related to mental and substance use disorders, including activities related to—
 
 (A) the implementation and dissemination of research findings into improved programs, including with respect to how advances in serious mental illness and serious emotional disturbance research have been incorporated into programs;
 
@@ -300,13 +308,15 @@ Not later than September 30, 2020, and every 2 years thereafter, the Assistant S
 
 (C) the integration of mental disorder services, substance use disorder services, and physical health services;
 
-(D) homelessness; and
+(D) relevant preparedness and response activities;
 
-(E) veterans;
+(E) homelessness; and
 
-(5) a description of the manner in which the Administration promotes coordination by grantees under this subchapter, and part B of subchapter XVII, with State or local agencies; and
+(F) veterans;
 
-(6) a description of the activities carried out under section 290aa–0(e) of this title, with respect to mental and substance use disorders, including—
+(6) a description of the manner in which the Administration promotes coordination by grantees under this subchapter, and part B of subchapter XVII, with State or local agencies; and
+
+(7) a description of the activities carried out under section 290aa–0(e) of this title, with respect to mental and substance use disorders, including—
 
 (A) the number and a description of grants awarded;
 
@@ -316,7 +326,7 @@ Not later than September 30, 2020, and every 2 years thereafter, the Assistant S
 
 (D) information on how the National Mental Health and Substance Use Policy Laboratory is consulting with the Assistant Secretary for Planning and Evaluation and collaborating with the Center for Substance Abuse Treatment, the Center for Substance Abuse Prevention, the Center for Behavioral Health Statistics and Quality, and the Center for Mental Health Services to carry out such activities; and
 
-(7) recommendations made by the Assistant Secretary for Planning and Evaluation under section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 to improve programs within the Administration, and actions taken in response to such recommendations to improve programs within the Administration.
+(8) recommendations made by the Assistant Secretary for Planning and Evaluation under section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 to improve programs within the Administration, and actions taken in response to such recommendations to improve programs within the Administration.
 
 The Assistant Secretary may meet reporting requirements established under this subchapter by providing the contents of such reports as an addendum to the biennial report established under this subsection, notwithstanding the timeline of other reporting requirements in this subchapter. Nothing in this subsection shall be construed to alter the content requirements of such reports or authorize the Assistant Secretary to alter the timeline of any such reports to be less frequent than biennially, unless as specified in this subchapter.
 
@@ -356,15 +366,13 @@ No information, if an establishment or person supplying the information or descr
 
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. B, title VI, §§6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, 130 Stat. 1202–1206, 1209, 1210; Pub. L. 117–286, §4(a)(236), Dec. 27, 2022, 136 Stat. 4331.)
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. B, title VI, §§6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, 130 Stat. 1202–1206, 1209, 1210; Pub. L. 117–286, §4(a)(236), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title I, §§1121(c)(2)(A), 1231, title II, §2112(a)–(c), Dec. 29, 2022, 136 Stat. 5650, 5673, 5721.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
-Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsecs. (d)(25), (l)(2), and (m)(7), is section 6021 of Pub. L. 114–255, which is set out as a note below.
-
-Section 6031 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsec. (l)(2), is section 6031 of Pub. L. 114–255, div. B, title VI, Dec. 13, 2016, 130 Stat. 1217, which is not classified to the Code.
+Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsecs. (d)(26), (l)(2), and (m)(8), is section 6021 of Pub. L. 114–255, which is set out as a note below.
 
 #### Codification ####
 
@@ -376,7 +384,25 @@ A prior section 501 of act July 1, 1944, which was classified to section 219 of 
 
 #### Amendments ####
 
-**2022**—Subsec. (i). Pub. L. 117–286, which directed amendment of subsec. (h) by substituting "Chapter 10 of title 5" for "The Federal Advisory Committee Act", was executed by making the substitution in subsec. (i) to reflect the probable intent of Congress and the prior amendment by Pub. L. 114–255, §6003(1). See 2016 Amendment note below.
+**2022**—Subsec. (d)(24), (25). Pub. L. 117–328, §2112(a), added par. (24) and redesignated former par. (24) as (25). Former par. (25) redesignated (26).
+
+Subsec. (d)(26). Pub. L. 117–328, §2112(a)(1), redesignated par. (25) as (26) relating to performance metrics.
+
+Pub. L. 117–328, §1231, added par. (26) relating to recovery housing and services.
+
+Subsec. (i). Pub. L. 117–286, which directed amendment of subsec. (h) by substituting "Chapter 10 of title 5" for "The Federal Advisory Committee Act", was executed by making the substitution in subsec. (i) to reflect the probable intent of Congress and the redesignation of subsec. (h) as (i) by Pub. L. 114–255, §6003(1). See 2016 Amendment note below.
+
+Subsec. (l)(2). Pub. L. 117–328, §1121(c)(2)(A), substituted "section 290aa–0b of this title" for "section 6031 of such Act".
+
+Subsec. (l)(4)(G). Pub. L. 117–328, §2112(b), added subpar. (G).
+
+Subsec. (m)(4). Pub. L. 117–328, §2112(c)(2), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (m)(5). Pub. L. 117–328, §2112(c)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (m)(5)(D) to (F). Pub. L. 117–328, §2112(c)(3), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (m)(6) to (8). Pub. L. 117–328, §2112(c)(1), redesignated pars. (5) to (7) as (6) to (8), respectively.
 
 **2016**—Subsec. (b). Pub. L. 114–255, §6002(1), substituted "Centers" for "Agencies" in heading and "Centers" for "entities" in introductory provisions.
 
@@ -722,7 +748,7 @@ Pub. L. 115–271, title VII, §7022, Oct. 24, 2018, 132 Stat. 4010, provided th
 
 "(g) Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
 
-"(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) [see chapter 10 of title 5, United States Code] shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
+"(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.] shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
 "(i) Sunset.—The Committee shall terminate on the date that is 6 years after the date on which the Committee is established under subsection (a)."
 
@@ -750,59 +776,7 @@ Pub. L. 114–255, div. B, title VI, §6021, Dec. 13, 2016, 130 Stat. 1215, prov
 
 #### Assisted Outpatient Treatment Grant Program for Individuals With Serious Mental Illness ####
 
-Pub. L. 113–93, title II, §224, Apr. 1, 2014, 128 Stat. 1083, as amended by Pub. L. 114–255, div. B, title IX, §9014, Dec. 13, 2016, 130 Stat. 1245, provided that:
-
-"(a) In General.—The Secretary shall establish a 4-year pilot program to award not more than 50 grants each year to eligible entities for assisted outpatient treatment programs for individuals with serious mental illness.
-
-"(b) Consultation.—The Secretary shall carry out this section in consultation with the Director of the National Institute of Mental Health, the Attorney General of the United States, the Administrator of the Administration for Community Living, and the Administrator of the Substance Abuse and Mental Health Services Administration.
-
-"(c) Selecting Among Applicants.—The Secretary—
-
-"(1) may only award grants under this section to applicants that have not previously implemented an assisted outpatient treatment program; and
-
-"(2) shall evaluate applicants based on their potential to reduce hospitalization, homelessness, incarceration, and interaction with the criminal justice system while improving the health and social outcomes of the patient.
-
-"(d) Use of Grant.—An assisted outpatient treatment program funded with a grant awarded under this section shall include—
-
-"(1) evaluating the medical and social needs of the patients who are participating in the program;
-
-"(2) preparing and executing treatment plans for such patients that—
-
-"(A) include criteria for completion of court-ordered treatment; and
-
-"(B) provide for monitoring of the patient's compliance with the treatment plan, including compliance with medication and other treatment regimens;
-
-"(3) providing for such patients case management services that support the treatment plan;
-
-"(4) ensuring appropriate referrals to medical and social service providers;
-
-"(5) evaluating the process for implementing the program to ensure consistency with the patient's needs and State law; and
-
-"(6) measuring treatment outcomes, including health and social outcomes such as rates of incarceration, health care utilization, and homelessness.
-
-"(e) Report.—Not later than the end of each of fiscal years 2016, 2017, 2018, 2019, 2020, 2021, and 2022, the Secretary shall submit a report to the appropriate congressional committees on the grant program under this section. Each such report shall include an evaluation of the following:
-
-"(1) Cost savings and public health outcomes such as mortality, suicide, substance abuse, hospitalization, and use of services.
-
-"(2) Rates of incarceration by patients.
-
-"(3) Rates of homelessness among patients.
-
-"(4) Patient and family satisfaction with program participation.
-
-"(f) Definitions.—In this section:
-
-"(1) The term 'assisted outpatient treatment' means medically prescribed mental health treatment that a patient receives while living in a community under the terms of a law authorizing a State or local court to order such treatment.
-
-"(2) The term 'eligible entity' means a county, city, mental health system, mental health court, or any other entity with authority under the law of the State in which the grantee is located to implement, monitor, and oversee assisted outpatient treatment programs.
-
-"(3) The term 'Secretary' means the Secretary of Health and Human Services.
-
-"(g) Funding.—
-
-"(1) Amount of grants.—A grant under this section shall be in an amount that is not more than $1,000,000 for each of fiscal years 2015 through 2022. Subject to the preceding sentence, the Secretary shall determine the amount of each grant based on the population of the area, including estimated patients, to be served under the grant.
-
-"(2) Authorization of appropriations.—There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2017, $20,000,000 for fiscal year 2018, $19,000,000 for each of fiscal years 2019 and 2020, and $18,000,000 for each of fiscal years 2021 and 2022."
+Pub. L. 113–93, title II, §224, Apr. 1, 2014, 128 Stat. 1083, as amended by Pub. L. 114–255, div. B, title IX, §9014, Dec. 13, 2016, 130 Stat. 1245, which related to assisted outpatient treatment grant program for individuals with serious mental illness, was editorially reclassified as section 290aa–17 of this title.
 
 #### Report by Substance Abuse and Mental Health Services Administration ####
 
@@ -901,3 +875,5 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+[<sup>1</sup> So in original. Two pars. (26) have been enacted.](#290aa_1)

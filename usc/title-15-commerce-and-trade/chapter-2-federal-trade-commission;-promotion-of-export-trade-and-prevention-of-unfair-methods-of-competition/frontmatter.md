@@ -24,6 +24,8 @@ Sec.
 
 45e. Office for the prevention of fraud targeting seniors.
 
+45f. Collection, verification, and disclosure of information by online marketplaces to inform consumers.
+
 46. Additional powers of Commission.
 
 46a. Concurrent resolution essential to authorize investigations

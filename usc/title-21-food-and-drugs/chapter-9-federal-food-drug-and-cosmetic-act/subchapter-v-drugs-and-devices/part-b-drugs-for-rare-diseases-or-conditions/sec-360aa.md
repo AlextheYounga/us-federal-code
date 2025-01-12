@@ -36,6 +36,32 @@ Pub. L. 99–91, §8, Aug. 15, 1985, 99 Stat. 392, provided that:
 
 "(b) Exception.—The amendments made by sections 2, 3, and 6(a) [amending this section and sections 360bb and 360cc of this title] shall take effect on the date of the enactment of this Act [Aug. 15, 1985]. The amendment made by section 6(b) [amending section 6022 of Title 42] shall take effect October 19, 1984. The amendments made by section 7 [amending section 295g–1 of Title 42] shall take effect October 1, 1984 and shall cease to be in effect after September 30, 1985."
 
+#### Rare Disease Endpoint Advancement Pilot Program ####
+
+Pub. L. 117–328, div. FF, title III, §3208, Dec. 29, 2022, 136 Stat. 5821, provided that:
+
+"(a) In General.—The Secretary [of Health and Human Services] shall establish a pilot program under which the Secretary establishes procedures to provide increased interaction with sponsors of rare disease drug development programs for purposes of advancing the development of efficacy endpoints, including surrogate and intermediate endpoints, for drugs intended to treat rare diseases, including through—
+
+"(1) determining eligibility of participants for such program; and
+
+"(2) developing and implementing a process for applying to, and participating in, such a program.
+
+"(b) Public Workshops.—The Secretary shall conduct up to 3 public workshops, which shall be completed not later than September 30, 2026, to discuss topics relevant to the development of endpoints for rare diseases, which may include discussions about—
+
+"(1) novel endpoints developed through the pilot program established under this section; and
+
+"(2) as appropriate, the use of real world evidence and real world data to support the validation of efficacy endpoints, including surrogate and intermediate endpoints, for rare diseases.
+
+"(c) Reports.—
+
+"(1) Interim report.—Not later than September 30, 2026, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the completed and ongoing activities in the pilot program established under this section and public workshops described in subsection (b).
+
+"(2) Final report.—Not later than September 30, 2027, the Secretaryshall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the outcomes of the pilot program established under this section.
+
+"(d) Guidance.—Not later than September 30, 2027, the Secretary shall issue guidance describing best practices and strategies for development of efficacy endpoints, including surrogate and intermediate endpoints, for rare diseases.
+
+"(e) Sunset.—The Secretary may not accept any new application or request to participate in the program established by this section on or after October 1, 2027."
+
 #### ALS and Other Rare Neurodegenerative Disease Action Plan ####
 
 Pub. L. 117–79, §4, Dec. 23, 2021, 135 Stat. 1536, provided that:

@@ -20,7 +20,11 @@ Sec.
 
 1703E. Center for Innovation for Care and Payment.
 
+1703F. Credentialing verification requirements for providers of non-Department health care services.
+
 1704. Preventive health services: annual report.
+
+1704A. Independent assessments of health care delivery systems and management processes.
 
 1705. Management of health care: patient enrollment system.
 
@@ -111,6 +115,8 @@ Sec.
 1722A. Copayment for medications.
 
 1722B. Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans.
+
+1722C. Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans 2
 
 1723. Furnishing of clothing.
 
@@ -205,6 +211,10 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. U, title I, §193A(a), Dec. 29, 2022, 136 Stat. 5439, added item 1722C.
+
+Pub. L. 117–328, div. U, title I, §§141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendment of subchapter analysis for this chapter by adding items 1703F and 1704A, was executed by making the amendment to the analysis for this chapter, to reflect the probable intent of Congress.
 
 **2021**—Pub. L. 116–315, title III, §3002(b), title V, §5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted "Prohibition on collection of copayments from certain veterans" for "Prohibition on collection of copayments from catastrophically disabled veterans" in item 1730A.
 
@@ -315,3 +325,5 @@ Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 **1959**—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
 
 [<sup>1</sup> So in original. The comma probably should be a period.](#CHAPTER17_1)
+
+[<sup>2</sup> So in original. Probably should be followed by a period.](#CHAPTER17_2)

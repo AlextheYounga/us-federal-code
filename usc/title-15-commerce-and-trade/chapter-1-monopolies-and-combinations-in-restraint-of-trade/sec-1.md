@@ -30,6 +30,12 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: "This Act [e
 
 Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendments made by sections 2 and 3 of this Act [amending this section and section 45 of this title] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act [Dec. 12, 1975]."
 
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–328, div. GG, §101, Dec. 29, 2022, 136 Stat. 5967, provided that: "This division [enacting section 18b of this title, amending section 1407 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 18b of this title, and amending provisions set out as a note under section 18a of this title] may be cited as the 'Merger Filing Fee Modernization Act of 2022'."
+
+[Another section 101 of div. GG of Pub. L. 117–328 amended provisions set out as a note under section 18a of this title.]
+
 #### Short Title of 2020 Amendment ####
 
 Pub. L. 116–257, §1, Dec. 23, 2020, 134 Stat. 1147, provided that: "This Act [enacting section 7a–3 of this title] may be cited as the 'Criminal Antitrust Anti-Retaliation Act of 2019'."

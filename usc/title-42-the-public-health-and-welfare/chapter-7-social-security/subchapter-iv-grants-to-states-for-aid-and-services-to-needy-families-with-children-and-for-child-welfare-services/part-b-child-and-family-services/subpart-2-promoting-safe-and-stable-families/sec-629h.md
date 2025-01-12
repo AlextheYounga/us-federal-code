@@ -66,9 +66,9 @@ From the amounts reserved under section 629f(b)(2) of this title for a fiscal ye
 
 #### (d) Federal share ####
 
-Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2022.
+Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2023.
 
-(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994.)
+(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994; Pub. L. 117–328, div. FF, title VI, §6103(a)(4), Dec. 29, 2022, 136 Stat. 5965.)
 
 #### **Editorial Notes** ####
 
@@ -85,6 +85,8 @@ Section was formerly set out as a note under section 670 of this title prior to 
 A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2022**—Subsec. (d). Pub. L. 117–328 substituted "2023" for "2022".
 
 **2020**—Subsec. (a)(2)(A). Pub. L. 116–260, §305(b)(1)(A)(i), inserted "in a timely and complete manner" before ", as set forth".
 

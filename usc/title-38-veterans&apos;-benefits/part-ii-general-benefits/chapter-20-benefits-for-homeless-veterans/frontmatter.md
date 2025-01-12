@@ -18,7 +18,11 @@ Sec.
 
 2013. Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless.
 
-2014. Authorization of appropriations.
+2014. Training and technical assistance for recipients of certain financial assistance.
+
+2015. Training and technical assistance for entities regarding services provided to veterans at risk of, experiencing, or transitioning out of homelessness.
+
+2016. Authorization of appropriations.
 
 #### SUBCHAPTER III—TRAINING AND OUTREACH ####
 
@@ -78,9 +82,13 @@ Sec.
 
 2067. National Center on Homelessness Among Veterans.
 
+2068. Mental health consultations.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. U, title III, §305(b)(4), div. V, title IV, §404(b)(2), Dec. 29, 2022, 136 Stat. 5472, 5513, added items 2014 to 2016 and 2068 and struck out former item 2014 "Authorization of appropriations".
 
 **2021**—Pub. L. 116–315, title IV, §4202(b), Jan. 5, 2021, 134 Stat. 5012, added item 2022A.
 

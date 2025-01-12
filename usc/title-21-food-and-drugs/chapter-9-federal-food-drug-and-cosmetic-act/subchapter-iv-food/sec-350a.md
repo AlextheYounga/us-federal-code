@@ -70,7 +70,7 @@ In prescribing requirements for audits under clause (iv), the Secretary shall pr
 
 (A) such person has, before introducing such new infant formula, or delivering such new infant formula for introduction, into interstate commerce, registered with the Secretary the name of such person, the place of business of such person, and all establishments at which such person intends to manufacture such new infant formula, and
 
-(B) such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (c)(1).
+(B) such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (d)(1).
 
 (2) For purposes of paragraph (1), the term "new infant formula" includes—
 
@@ -95,6 +95,8 @@ For purposes of this paragraph, the term "major change" has the meaning given to
 (2) After the first production of an infant formula subject to subsection (c), and before the introduction into interstate commerce of such formula, the manufacturer of such formula shall submit to the Secretary, in such form as may be prescribed by the Secretary, a written verification which summarizes test results and records demonstrating that such formula complies with the requirements of subsections (b)(1), (b)(2)(A), (b)(2)(B)(i), (b)(2)(B)(iii), (b)(3)(A), (b)(3)(C), and (i).
 
 (3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a change in the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a), the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
+
+(4) The Secretary shall provide a response to a submission under this subsection not later than 45 days after receiving such submission.
 
 #### (e) Additional notice requirements for manufacturer ####
 
@@ -140,7 +142,7 @@ is exempt from the requirements of subsections (a), (b), and (c). The manufactur
 
 #### (i) Nutrient requirements ####
 
-(1) An infant formula shall contain nutrients in accordance with the table set out in this subsection or, if revised by the Secretary under paragraph (2), as so revised.
+(1) An infant formula shall contain nutrients in accordance with the table set out in this subsection, which shall be reviewed by the Secretary every 4 years as appropriate. In reviewing such table, the Secretary shall consider any new scientific data or information related to infant formula nutrients, including international infant formula standards. The Secretary may revise the list of nutrients and the required level for any nutrient required by the table.
 
 (2) The Secretary may by regulation—
 
@@ -196,11 +198,95 @@ is exempt from the requirements of subsections (a), (b), and (c). The manufactur
 
 <sup>e</sup> Calcium to phosphorus ratio must be no less than 1.1 nor more than 2.0.
 
-(June 25, 1938, ch. 675, §412, as added Pub. L. 96–359, §2, Sept. 26, 1980, 94 Stat. 1190; amended Pub. L. 99–570, title IV, §4014(a), (b)(1), Oct. 27, 1986, 100 Stat. 3207–116, 3207–120; Pub. L. 103–80, §3(l), Aug. 13, 1993, 107 Stat. 777.)
+#### (j) Premarket submissions to address shortages ####
+
+#### (1) In general ####
+
+The Secretary shall waive the 90-day premarket submission requirement under subsection (c) and apply a 30-day premarket submission requirement for any person who intends to introduce or deliver for introduction into interstate commerce any new infant formula.
+
+#### (2) Effective period ####
+
+The waiver authority under this subsection shall remain in effect—
+
+(A) for 90 days beginning on the date that the Secretary distributes information under section 350m(a)(2) of this title with respect to a shortage of infant formula; or
+
+(B) such longer period as the Secretary determines appropriate, to prevent or mitigate a shortage of infant formula.
+
+#### (k) Congressional notification of recall ####
+
+#### (1) In general ####
+
+Not later than 24 hours after the initiation of a recall of infant formula as described in subsection (e), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a notification of such recall.
+
+#### (2) Contents ####
+
+A notification under paragraph (1) shall include the following:
+
+(A) If the recall is required by the Food and Drug Administration, a summary of the information supporting a determination that the adulterated or misbranded infant formula presents a risk to human health.
+
+(B) If the recall is voluntarily initiated by the manufacturer, a summary of the information provided to the Food and Drug Administration by the manufacturer regarding infant formula that has left the control of the manufacturer that may be adulterated or misbranded.
+
+(C) Specification of when the Food and Drug Administration was first made aware of the instance or circumstances surrounding the recall.
+
+(D) An initial estimate of the disruption in domestic production that may result from the recall.
+
+#### (l) Annual report to Congress ####
+
+#### (1) In general ####
+
+Not later than March 30 of each year, the Secretary shall submit a report to Congress containing, with respect to the preceding calendar year, the following information:
+
+(A) The number of submissions received by the Secretary under subsection (d).
+
+(B) The number of such submissions that included any new ingredients that were not included in any infant formula already on the market.
+
+(C) The number of inspections conducted by the Food and Drug Administration or any agent thereof to evaluate compliance with the requirements for infant formulas under subsection (b).
+
+(D) The time between any inspection referred to in subparagraph (C) and any necessary reinspection to evaluate compliance with the requirements for infant formulas under subsection (b).
+
+(E) A breakdown of the information described in subparagraphs (A) through (D) between foreign and domestic manufacturers and facilities.
+
+#### (2) Confidentiality ####
+
+The Secretary shall ensure that the reports under paragraph (1) do not include any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5 or section 1905 of title 18.
+
+#### (m) Waiver of requirements for importation of specialty infant formula ####
+
+#### (1) In general ####
+
+The Secretary may, during a shortage of specialty infant formula as determined by the Secretary, waive any requirement under this chapter applicable to facilitate the importation of specialty infant formula. Such a waiver may be applicable to—
+
+(A) the importation of specialty infant formula from any country that is determined by the Secretary to be implementing and enforcing requirements for infant formula that provide a similar assurance of safety and nutritional adequacy as the requirements of this chapter; or
+
+(B) the distribution and sale of such imported specialty infant formula.
+
+#### (2) Rule of construction ####
+
+Nothing in paragraph (1) shall be construed to limit the authority of the Secretary to require a recall of, or otherwise impose restrictions and requirements under this chapter with respect to, specialty infant formula that is subject to a waiver under paragraph (1).
+
+#### (3) Definition of specialty infant formula ####
+
+In this subsection, the term "specialty infant formula" means infant formula described in subsection (h)(1).
+
+(June 25, 1938, ch. 675, §412, as added Pub. L. 96–359, §2, Sept. 26, 1980, 94 Stat. 1190; amended Pub. L. 99–570, title IV, §4014(a), (b)(1), Oct. 27, 1986, 100 Stat. 3207–116, 3207–120; Pub. L. 103–80, §3(l), Aug. 13, 1993, 107 Stat. 777; Pub. L. 117–328, div. FF, title III, §3401(c), (g)(1)–(4), (6), (l), Dec. 29, 2022, 136 Stat. 5838, 5840, 5841, 5845.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (c)(1)(B). Pub. L. 117–328, §3401(g)(6), substituted "subsection (d)(1)" for "subsection (c)(1)".
+
+Subsec. (d)(4). Pub. L. 117–328, §3401(g)(3), added par. (4).
+
+Subsec. (i)(1). Pub. L. 117–328, §3401(g)(4), substituted ", which shall be reviewed by the Secretary every 4 years as appropriate. In reviewing such table, the Secretary shall consider any new scientific data or information related to infant formula nutrients, including international infant formula standards. The Secretary may revise the list of nutrients and the required level for any nutrient required by the table" for "or, if revised by the Secretary under paragraph (2), as so revised".
+
+Subsec. (j). Pub. L. 117–328, §3401(c), added subsec. (j).
+
+Subsec. (k). Pub. L. 117–328, §3401(g)(1), added subsec. (k).
+
+Subsec. (l). Pub. L. 117–328, §3401(g)(2), added subsec. (l).
+
+Subsec. (m). Pub. L. 117–328, §3401(l), added subsec. (m).
 
 **1993**—Subsec. (h)(1). Pub. L. 103–80 substituted "(e)(1)(B)" for "(c)(1)(B)," in concluding provisions.
 

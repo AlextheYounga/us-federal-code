@@ -76,11 +76,15 @@ Sec.
 
 45Z. Clean fuel production credit.
 
+45AA. Military spouse retirement plan eligibility credit for small employers.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–169, title I, §§13105(b)(2), 13204(a)(4)(B), 13403(b)(3), 13502(b)(2), 13701(b)(2), 13704(b)(4), Aug. 16, 2022, 136 Stat. 1931, 1939, 1966, 1981, 1990, 2002, added items 45U to 45Z.
+**2022**—Pub. L. 117–328, div. T, title I, §112(d), Dec. 29, 2022, 136 Stat. 5295, added item 45AA.
+
+Pub. L. 117–169, title I, §§13105(b)(2), 13204(a)(4)(B), 13403(b)(3), 13502(b)(2), 13701(b)(2), 13704(b)(4), Aug. 16, 2022, 136 Stat. 1931, 1939, 1966, 1981, 1990, 2002, added items 45U to 45Z.
 
 Pub. L. 117–169, title I, §13203(d)(2)(D), Aug. 16, 2022, 136 Stat. 1935, which directed amendment of the analysis for "subpart D of subchapter A of chapter 1" by adding item 40B, was executed to this analysis, which is for subpart D of part IV of subchapter A of chapter 1, to reflect the probable intent of Congress.
 

@@ -126,7 +126,7 @@ Subsec. (f). Pub. L. 101–189, §631(d), added subsec. (f).
 
 **1986**—Subsec. (a)(6)(C). Pub. L. 99–661, §632(a)(1), added subpar. (C).
 
-Subsec. (b)(1). Pub. L. 99–661, §632(a)(2), substituted "a member" for "an officer in pay grades O–1 through O–10".
+Subsec. (b)(1). Pub. L. 99–661, §632(a)(2), substituted "a member" for "an officer in pay grades O–1 through O–⁠10".
 
 **1981**—Subsec. (a)(4). Pub. L. 97–60, §112(a), inserted provision that entitlement to continuous monthly incentive pay ceases for an officer (other than a warrant officer) upon completion of 25 years of service as an officer (as computed under section 205 of this title), but such an officer in a pay grade below pay grade O–7 remains entitled to monthly incentive pay under subsection (b)(1) of this section for the performance of operational flying duty.
 

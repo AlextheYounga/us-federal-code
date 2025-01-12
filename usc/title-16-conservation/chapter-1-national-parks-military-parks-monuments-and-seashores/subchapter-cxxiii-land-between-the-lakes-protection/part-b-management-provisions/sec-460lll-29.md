@@ -30,4 +30,28 @@ Except in emergencies, a prohibition under subparagraph (A) shall become effecti
 
 Nothing in this subchapter affects the jurisdiction or responsibilities of the States with respect to wildlife and fish on national forests.
 
-(Pub. L. 105–277, div. A, §101(e) [title V, §529], Oct. 21, 1998, 112 Stat. 2681–231, 2681–317.)
+#### (c) Historical resources ####
+
+#### (1) In general ####
+
+The Secretary shall identify and manage the historical resources of the Recreation Area—
+
+(A) in accordance with the requirements of division A of subtitle III of title 54 (formerly known as the "National Historic Preservation Act"); and
+
+(B) in consultation with qualified residents or relatives.
+
+#### (2) Consideration ####
+
+The Secretary shall—
+
+(A) in accordance with applicable law, give consideration to requests by qualified residents or relatives to use and maintain traditional sites, buildings, cemeteries, and other areas of cultural importance in the Recreation Area; and
+
+(B) consult with qualified residents or relatives in the management of the historical resources of the Recreation Area.
+
+(Pub. L. 105–277, div. A, §101(e) [title V, §529], Oct. 21, 1998, 112 Stat. 2681–231, 2681–317; Pub. L. 117–328, div. DD, title II, §201(h), Dec. 29, 2022, 136 Stat. 5583.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (c). Pub. L. 117–328 added subsec. (c).

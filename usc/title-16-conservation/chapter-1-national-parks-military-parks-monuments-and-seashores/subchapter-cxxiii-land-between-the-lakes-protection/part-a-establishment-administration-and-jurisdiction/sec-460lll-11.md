@@ -22,7 +22,7 @@ The emphases in the management of the Recreation Area shall be—
 
 #### (3) Status of unit ####
 
-The Secretary may administer the Recreation Area as a separate unit of the National Forest System or in conjunction with an existing national forest.
+The Secretary shall administer the Recreation Area as a separate unit of the National Forest System.
 
 #### (c) Area included ####
 
@@ -44,4 +44,10 @@ Nothing in this subchapter affects the jurisdiction of the Tennessee Valley Auth
 
 Subject to the jurisdiction of the Tennessee Valley Authority and the Army Corps of Engineers, the Secretary shall have jurisdiction to regulate the occupancy and use of the surface waters of the lakes for recreational purposes.
 
-(Pub. L. 105–277, div. A, §101(e) [title V, §511], Oct. 21, 1998, 112 Stat. 2681–231, 2681–312.)
+(Pub. L. 105–277, div. A, §101(e) [title V, §511], Oct. 21, 1998, 112 Stat. 2681–231, 2681–312; Pub. L. 117–328, div. DD, title II, §201(b), Dec. 29, 2022, 136 Stat. 5582.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (b)(3). Pub. L. 117–328 added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The Secretary may administer the Recreation Area as a separate unit of the National Forest System or in conjunction with an existing national forest."

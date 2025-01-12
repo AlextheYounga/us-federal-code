@@ -53,3 +53,17 @@ Sec.
 #### SUBCHAPTER IV—GENERAL PROVISIONS ####
 
 8551. General provisions.
+
+#### SUBCHAPTER V—MASIH ALINEJAD HARASSMENT AND UNLAWFUL TARGETING ####
+
+8561. Findings.
+
+8562. Definitions.
+
+8563. Report and imposition of sanctions with respect to persons who are responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran.
+
+8564. Report and imposition of sanctions with respect to foreign financial institutions conducting significant transactions with persons responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran.
+
+8565. Exceptions; waivers; implementation.
+
+8566. Exception relating to importation of goods.

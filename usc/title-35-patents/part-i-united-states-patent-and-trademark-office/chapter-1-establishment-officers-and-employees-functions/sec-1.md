@@ -46,6 +46,8 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Short Title of 2022 Amendment ####
 
+Pub. L. 117–328, div. W, §101, Dec. 29, 2022, 136 Stat. 5518, provided that: "This division [amending sections 41 and 123 of this title, enacting provisions set out as notes under this section and sections 2 and 131 of this title, and amending provisions set out as notes under this section and section 41 of this title] may be cited as the 'Unleashing American Innovators Act of 2022'."
+
 Pub. L. 117–245, §1, Dec. 20, 2022, 136 Stat. 2343, provided that: "This Act [enacting section 28 of this title and provisions set out as a note under section 28 of this title] may be cited as the 'Patents for Humanity Act of 2022'."
 
 #### Short Title of 2018 Amendment ####
@@ -176,17 +178,75 @@ Pub. L. 106–113, div. B, §1000(a)(9) [title IV, subtitle G, chapter 3], Nov. 
 
 "(2) the term 'office' includes any office, administration, agency, bureau, institute, council, unit, organizational entity, or component thereof."
 
+#### Southeast Regional Office ####
+
+Pub. L. 117–328, div. W, §103(b), Dec. 29, 2022, 136 Stat. 5519, provided that:
+
+"(1) In general.—Not later than 3 years after the date of enactment of this Act [Dec. 29, 2022], the Director shall establish a satellite office of the Office in the southeast region of the United States.
+
+"(2) Considerations.—When selecting a site for the office required under paragraph (1), the Director shall consider the following:
+
+"(A) The number of patent-intensive industries located near the site.
+
+"(B) How many research-intensive institutions, including institutions of higher education, are located near the site.
+
+"(C) The State and local government legal and business frameworks that support intellectual property-intensive industries located near the site."
+
+[For definitions of terms used in section 103(b) of div. W of Pub. L. 117–328, set out above, see section 102 of div. W of Pub. L. 117–328, set out as a Definitions note below.]
+
+#### Community Outreach Offices ####
+
+Pub. L. 117–328, div. W, §104, Dec. 29, 2022, 136 Stat. 5519, provided that:
+
+"(a) Establishment.—
+
+"(1) In general.—Subject to paragraphs (2) and (3), not later than 5 years after the date of enactment of this Act [Dec. 29, 2022], the Director shall establish not fewer than 4 community outreach offices throughout the United States.
+
+"(2) Restriction.—No community outreach office established under paragraph (1) may be located in the same State as—
+
+"(A) the principal office of the Office; or
+
+"(B) any satellite office of the Office.
+
+"(3) Requirement for northern new england region.—
+
+"(A) In general.—The Director shall establish not less than 1 community outreach office under this subsection in the northern New England region, which shall serve the States of Vermont, New Hampshire, and Maine.
+
+"(B) Considerations.—In determining the location for the office required to be established under subparagraph (A), the Director shall give preference to a location in which—
+
+"(i) as of the date of enactment of this Act—
+
+ "(I) there is located not less than 1 public institution of higher education and not less than 1 private institution of higher education; and
+
+ "(II) there are located not more than 15 registered patent attorneys, according to data from the Office of Enrollment and Discipline of the Office; and
+
+"(ii) according to data from the 2012 Survey of Business Owners conducted by the Bureau of the Census, less than 45 percent of the firms (as that term is defined for the purposes of that Survey) are owned by women, minorities, or veterans.
+
+"(b) Purposes.—The purposes of the community outreach offices established under subsection (a) are to—
+
+"(1) further achieve the purposes described in section 23(b)(1) of the Leahy-Smith America Invents Act (35 U.S.C. 1 note), as amended by this division;
+
+"(2) partner with local community organizations, institutions of higher education, research institutions, and businesses to create community-based programs that—
+
+"(A) provide education regarding the patent system; and
+
+"(B) promote the career benefits of innovation and entrepreneurship; and
+
+"(3) educate prospective inventors, including individual inventors, small businesses, veterans, low-income populations, students, rural populations, and any geographic group of innovators that the Director may determine to be underrepresented in patent filings, about all public and private resources available to potential patent applicants, including the patent pro bono programs."
+
+[For definitions of terms used in section 104 of div. W of Pub. L. 117–328, set out above, see section 102 of div. W of Pub. L. 117–328, set out as a Definitions note below.]
+
 #### Satellite Offices ####
 
-Pub. L. 112–29, §23, Sept. 16, 2011, 125 Stat. 336, provided that:
+Pub. L. 112–29, §23, Sept. 16, 2011, 125 Stat. 336, as amended by Pub. L. 117–328, div. W, §103(a), Dec. 29, 2022, 136 Stat. 5518, provided that:
 
 "(a) Establishment.—Subject to available resources, the Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall, by not later than the date that is 3 years after the date of the enactment of this Act [Sept. 16, 2011], establish 3 or more satellite offices in the United States to carry out the responsibilities of the [United States Patent and Trademark] Office.
 
 "(b) Purposes.—The purposes of the satellite offices established under subsection (a) are to—
 
-"(1) increase outreach activities to better connect patent filers and innovators with the Office;
+"(1) better connect patent filers and innovators with the Office, including by increasing outreach activities, including to individual inventors, small businesses, veterans, low-income populations, students, rural populations, and any geographic group of innovators that the Director may determine to be underrepresented in patent filings;
 
-"(2) enhance patent examiner retention;
+"(2) enhance patent examiner and administrative patent judge retention, including patent examiners and administrative patent judges from economically, geographically, and demographically diverse backgrounds;
 
 "(3) improve recruitment of patent examiners;
 
@@ -204,9 +264,11 @@ Pub. L. 112–29, §23, Sept. 16, 2011, 125 Stat. 336, provided that:
 
 "(C) shall evaluate and consider the extent to which the purposes of satellite offices listed under subsection (b) will be achieved;
 
-"(D) shall consider the availability of scientific and technically knowledgeable personnel in the region from which to draw new patent examiners at minimal recruitment cost; and
+"(D) shall consider the availability of scientific and technically knowledgeable personnel in the region from which to draw new patent examiners at minimal recruitment cost;
 
-"(E) shall consider the economic impact to the region.
+"(E) shall consider the economic impact to the region; and
+
+"(F) with respect to each office established after January 1, 2023, shall consider the proximity of the office to anchor institutions (such as hospitals primarily serving veterans and institutions of higher education), individual inventors, small businesses, veterans, low-income populations, students, rural populations, and any geographic group of innovators that the Director may determine to be underrepresented in patent filings.
 
 "(2) Open selection process.—Nothing in paragraph (1) shall constrain the Office to only consider its evaluations in selecting the Detroit, Michigan, satellite office.
 
@@ -231,6 +293,16 @@ Pub. L. 112–29, §24, Sept. 16, 2011, 125 Stat. 337, provided that:
 Pub. L. 101–508, title X, §10102, Nov. 5, 1990, 104 Stat. 1388–392, provided that: "For the purposes of Federal law, the Patent and Trademark Office shall be considered a Federal agency. In particular, the Patent and Trademark Office shall be subject to all Federal laws pertaining to the procurement of goods and services that would apply to a Federal agency using appropriated funds, including the Federal Property and Administrative Services Act of 1949 [now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] and the Office of Federal Procurement Policy Act [now division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41]."
 
 #### Definitions ####
+
+Pub. L. 117–328, div. W, §102, Dec. 29, 2022, 136 Stat. 5518, provided that: "In this division [see Short Title of 2022 Amendment note above]:
+
+"(1) Director.—The term 'Director' means the Under Secretary of Commerce for Intellectual Property and Director of the Office.
+
+"(2) Office.—The term 'Office' means the United States Patent and Trademark Office.
+
+"(3) Patent pro bono programs.—The term 'patent pro bono programs' means the programs established pursuant to section 32 of the Leahy-Smith America Invents Act (35 U.S.C. 2 note).
+
+"(4) Southeast region of the united states.—The term 'southeast region of the United States' means the area of the United States that is comprised of the States of Virginia, North Carolina, South Carolina, Georgia, Florida, Tennessee, Alabama, Mississippi, Louisiana, and Arkansas."
 
 Pub. L. 112–29, §2, Sept. 16, 2011, 125 Stat. 284, provided that: "In this Act [see Short Title of 2011 Amendment note above]:
 

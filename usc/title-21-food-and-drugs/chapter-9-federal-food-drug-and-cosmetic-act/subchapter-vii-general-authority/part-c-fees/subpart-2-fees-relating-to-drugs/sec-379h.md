@@ -272,11 +272,15 @@ The fees authorized by this section—
 
 (i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation, for such fiscal year, and
 
-(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor.
+(ii) shall be available—
+
+(I) for fiscal year 2023, to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor; and
+
+(II) for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the resources allocated for the process for the review of human drug applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with the process for the review of human drug applications, is no less than the amount allocated for such costs, excluding any such costs paid from fees collected under this section, for fiscal year 1997, multiplied by the adjustment factor.
 
 #### (B) Compliance ####
 
-The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for the process for the review of human drug applications—
+The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated as described in subclause (I) or (II) of such subparagraph, as applicable—
 
 (i) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
 
@@ -326,7 +330,7 @@ An exemption under paragraph (1) applies with respect to a drug only if the appl
 
 (B) as necessary, other appropriate financial information.
 
-(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304; Pub. L. 107–109, §5(a), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–188, title V, §504, June 12, 2002, 116 Stat. 689; Pub. L. 110–85, title I, §103(a)–(h)(1), Sept. 27, 2007, 121 Stat. 826–832; Pub. L. 112–144, title I, §103, July 9, 2012, 126 Stat. 996; Pub. L. 115–52, title I, §102(a)(1), (b)–(h), title IX, §905(b)(1), Aug. 18, 2017, 131 Stat. 1007–1012, 1090; Pub. L. 117–180, div. F, title I, §1003, Sept. 30, 2022, 136 Stat. 2142.)
+(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304; Pub. L. 107–109, §5(a), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–188, title V, §504, June 12, 2002, 116 Stat. 689; Pub. L. 110–85, title I, §103(a)–(h)(1), Sept. 27, 2007, 121 Stat. 826–832; Pub. L. 112–144, title I, §103, July 9, 2012, 126 Stat. 996; Pub. L. 115–52, title I, §102(a)(1), (b)–(h), title IX, §905(b)(1), Aug. 18, 2017, 131 Stat. 1007–1012, 1090; Pub. L. 117–180, div. F, title I, §1003, Sept. 30, 2022, 136 Stat. 2142; Pub. L. 117–328, div. FF, title III, §3625(a), Dec. 29, 2022, 136 Stat. 5880.)
 
 #### Termination of Section ####
 
@@ -389,6 +393,10 @@ Subsec. (c)(5). Pub. L. 117–180, §1003(c)(2)(A), (5), redesignated par. (4) a
 Subsec. (c)(6). Pub. L. 117–180, §1003(c)(2)(A), (6), redesignated par. (5) as (6) and substituted "September 30, 2022" for "September 30, 2017" in introductory provisions. Former par. (6) redesignated (7).
 
 Subsec. (c)(7). Pub. L. 117–180, §1003(c)(2)(A), redesignated par. (6) as (7).
+
+Subsec. (g)(2)(A)(ii). Pub. L. 117–328, §3625(a)(1), substituted "shall be available—" for "shall be available to defray", designated remainder of existing provisions as subcl. (I), inserted "for fiscal year 2023, to defray" before "increases in the costs", and added subcl. (II).
+
+Subsec. (g)(2)(B). Pub. L. 117–328, §3625(a)(2), substituted "as described in subclause (I) or (II) of such subparagraph, as applicable" for "for the process for the review of human drug applications" in introductory provisions.
 
 Subsec. (g)(3). Pub. L. 117–180, §1003(d), substituted "fiscal years 2023 through 2027" for "fiscal years 2018 through 2022".
 

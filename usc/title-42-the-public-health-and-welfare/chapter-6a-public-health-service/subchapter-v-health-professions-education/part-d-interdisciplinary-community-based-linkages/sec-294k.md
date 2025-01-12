@@ -4,13 +4,13 @@
 
 The Secretary shall establish a training demonstration program to award grants to eligible entities to support—
 
-(1) training for medical residents and fellows to practice psychiatry and addiction medicine in underserved, community-based settings that integrate primary care with mental and substance use disorders prevention and treatment services;
+(1) training for medical residents and fellows to practice psychiatry and addiction medicine in underserved, community-based settings that integrate primary care with mental health and substance use disorder prevention and treatment services;
 
-(2) training for nurse practitioners, physician assistants, health service psychologists, and social workers to provide mental and substance use disorders services in underserved community-based settings that integrate primary care and mental and substance use disorders services; and
+(2) training (including for individuals completing clinical training requirements for licensure) for nurse practitioners, physician assistants, health service psychologists, counselors, nurses, and social workers to provide mental health and substance use disorder services in underserved community-based settings that integrate primary care and mental health and substance use disorder services, including such settings that serve pediatric populations; and
 
 (3) establishing, maintaining, or improving academic units or programs that—
 
-(A) provide training for students or faculty, including through clinical experiences and research, to improve the ability to be able to recognize, diagnose, and treat mental and substance use disorders, with a special focus on addiction; or
+(A) provide training for students or faculty, including through clinical experiences and research, to improve the ability to be able to recognize, diagnose, and treat mental health and substance use disorders, with a special focus on addiction or pediatric populations; or
 
 (B) develop evidence-based practices or recommendations for the design of the units or programs described in subparagraph (A), including curriculum content standards.
 
@@ -24,7 +24,7 @@ A recipient of a grant under subsection (a)(1)—
 
 (i)(I) to plan, develop, and operate a training program for medical psychiatry residents and fellows in addiction medicine practicing in eligible entities described in subsection (c)(1); or
 
-(II) to train new psychiatric residents and fellows in addiction medicine to provide and expand access to integrated mental and substance use disorders services; and
+(II) to train new psychiatric residents and fellows in addiction medicine to provide and expand access to integrated mental health and substance use disorder services; and
 
 (ii) to provide at least 1 training track that is—
 
@@ -40,7 +40,7 @@ A recipient of a grant under subsection (a)(1)—
 
 A recipient of a grant under subsection (a)(2)—
 
-(A) shall use the grant funds to plan, develop, or operate a training program to provide mental and substance use disorders services in underserved, community-based settings, as appropriate, that integrate primary care and mental and substance use disorders prevention and treatment services; and
+(A) shall use the grant funds to plan, develop, or operate a training program to provide mental health and substance use disorder services in underserved, community-based settings (including such settings that serve pediatric populations), as appropriate, that integrate primary care and mental health and substance use disorder prevention and treatment services; and
 
 (B) may use the grant funds to provide additional support for the administration of the program or to meet the costs of projects to establish, maintain, or improve faculty development, or departments, divisions, or other units necessary to implement such program.
 
@@ -64,7 +64,7 @@ To be eligible to receive a grant under subsection (a)(1), an entity shall—
 
 (II) a fellowship in addiction medicine, as determined appropriate by the Secretary; or
 
-(B) be an entity described in subparagraph (A)(ii) that provides opportunities for residents or fellows to train in community-based settings that integrate primary care with mental and substance use disorders prevention and treatment services.
+(B) be an entity described in subparagraph (A)(ii) that provides opportunities for residents or fellows to train in community-based settings that integrate primary care with mental health and substance use disorder prevention and treatment services.
 
 #### (2) Training for other providers ####
 
@@ -80,7 +80,7 @@ To be eligible to receive a grant under subsection (a)(2), an entity shall be—
 
 (E) a health center operated by the Indian Health Service, an Indian tribe, a tribal organization, or an urban Indian organization (as defined in section 1603 of title 25); or
 
-(F) an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists, and social workers.
+(F) an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists counselors, nurses,, <sup><a href="#294k_1_target" name="294k_1">1</a></sup> and social workers, including such entities that serve pediatric populations.
 
 #### (3) Academic units or programs ####
 
@@ -92,27 +92,27 @@ To be eligible to receive a grant under subsection (a)(3), an entity shall be a 
 
 In awarding grants under subsection (a)(1) or (a)(2), the Secretary shall give priority to eligible entities that—
 
-(A) demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, nurse practitioners, physician assistants, or social workers in addiction medicine per year to meet the needs of the area served;
+(A) demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, health service psychologists, nurses nurse <sup><a href="#294k_2_target" name="294k_2">2</a></sup> practitioners, physician assistants counselors,, <sup><a href="#294k_2_target" name="294k_2">2</a></sup> or social workers in addiction medicine per year to meet the needs of the area served;
 
-(B) demonstrate experience in training providers to practice team-based care that integrates mental and substance use disorder prevention and treatment services with primary care in community-based settings;
+(B) demonstrate experience in training providers to practice team-based care that integrates mental health and substance use disorder prevention and treatment services with primary care in community-based settings, which may include such settings that serve pediatric populations;
 
 (C) demonstrate experience in using health information technology and, as appropriate, telehealth to support—
 
-(i) the delivery of mental and substance use disorders services at the eligible entities described in subsections (c)(1) and (c)(2); and
+(i) the delivery of mental health and substance use disorder services at the eligible entities described in subsections (c)(1) and (c)(2); and
 
-(ii) community health centers in integrating primary care and mental and substance use disorders treatment; or
+(ii) community health centers in integrating primary care and mental health and substance use disorder treatment; or
 
-(D) have the capacity to expand access to mental and substance use disorders services in areas with demonstrated need, as determined by the Secretary, such as tribal, rural, or other underserved communities.
+(D) have the capacity to expand access to mental health and substance use disorder services in areas with demonstrated need, as determined by the Secretary, such as tribal, rural, or other underserved communities.
 
 #### (2) Academic units or programs ####
 
 In awarding grants under subsection (a)(3), the Secretary shall give priority to eligible entities that—
 
-(A) have a record of training the greatest percentage of mental and substance use disorders providers who enter and remain in these fields or who enter and remain in settings with integrated primary care and mental and substance use disorder prevention and treatment services;
+(A) have a record of training the greatest percentage of mental health and substance use disorder providers who enter and remain in these fields or who enter and remain in settings with integrated primary care and mental and substance use disorder prevention and treatment services;
 
 (B) have a record of training individuals who are from underrepresented minority groups, including native populations, or from a rural or disadvantaged background;
 
-(C) provide training in the care of vulnerable populations such as infants, children, adolescents, pregnant and postpartum women, older adults, homeless individuals, victims of abuse or trauma, individuals with disabilities, and other groups as defined by the Secretary;
+(C) provide training in the care (which may include trauma-informed care, as appropriate) of vulnerable populations such as infants, children, adolescents, pregnant and postpartum women, older adults, homeless individuals, victims of abuse or trauma, individuals with disabilities, and other groups as defined by the Secretary;
 
 (D) teach trainees the skills to provide interprofessional, integrated care through collaboration among health professionals; or
 
@@ -138,17 +138,17 @@ Not later than 90 days after the completion of the first year of the training pr
 
 Not later than 1 year after receipt of the data described in paragraph (1)(B), the Secretary shall submit to Congress a report that includes—
 
-(A) an analysis of the effect of the demonstration program under this section on the quality, quantity, and distribution of mental and substance use disorders services;
+(A) an analysis of the effect of the demonstration program under this section on the quality, quantity, and distribution of mental health and substance use disorder services;
 
-(B) an analysis of the effect of the demonstration program on the prevalence of untreated mental and substance use disorders in the surrounding communities of health centers participating in the demonstration; and
+(B) an analysis of the effect of the demonstration program on the prevalence of untreated mental health and substance use disorders in the surrounding communities of health centers participating in the demonstration; and
 
 (C) recommendations on whether the demonstration program should be expanded.
 
 #### (g) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2018 through 2022.
+There are authorized to be appropriated to carry out this section, and $31,700,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title VII, §760, as added Pub. L. 114–255, div. B, title IX, §9022, Dec. 13, 2016, 130 Stat. 1250.)
+(July 1, 1944, ch. 373, title VII, §760, as added Pub. L. 114–255, div. B, title IX, §9022, Dec. 13, 2016, 130 Stat. 1250; amended Pub. L. 117–328, div. FF, title I, §1311(b), Dec. 29, 2022, 136 Stat. 5696.)
 
 #### **Editorial Notes** ####
 
@@ -163,3 +163,29 @@ Section 294l, act July 1, 1944, ch. 373, title VII, §739, as added Oct. 12, 197
 Section 294l–1, act July 1, 1944, ch. 373, title VII, §739A, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §602(m), 102 Stat. 3124, related to reissuance and refinancing of certain loans.
 
 Section 294m, act July 1, 1944, ch. 373, title VII, §740, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170; amended Oct. 13, 1964, Pub. L. 88–654, §1(a), (b), 78 Stat. 1086; Oct. 22, 1965, Pub. L. 89–290, §§2(b), 4 (a), (f)(1), (2), 79 Stat. 1056–1058; Nov. 2, 1966, Pub. L. 89–709, §3(a), (b), 80 Stat. 1103; Nov. 3, 1966, Pub. L. 89–751, §5(c)(1), 80 Stat. 1232; Aug. 16, 1968, Pub. L. 90–490, title I, §121(a)(1), (2), (5)(B), 82 Stat. 777, 778; Nov. 18, 1971, Pub. L. 92–157, title I, §105(e)(1), (4), (f)(2), 85 Stat. 451; Aug. 23, 1974, Pub. L. 93–385, §2(b), 88 Stat. 741; Apr. 22, 1976, Pub. L. 94–278, title XI, §1105(b), 90 Stat. 416; Oct. 12, 1976, Pub. L. 94–484, title IV, §402, 90 Stat. 2266; Oct. 22, 1985, Pub. L. 99–129, title II, §209(a)(1), (j)(1), 99 Stat. 532, 536; Nov. 4, 1988, Pub. L. 100–607, title VI, §§603(a), 628(7), 629(b)(2), 102 Stat. 3125, 3145, 3146; Nov. 6, 1990, Pub. L. 101–527, §5(a), (b), 104 Stat. 2322, 2323, related to loan agreements for establishment of student loan funds. See section 292q of this title.
+
+#### Amendments ####
+
+**2022**—Pub. L. 117–328, §1311(b)(1), substituted "mental health and substance use disorder" for "mental and substance use disorders" wherever appearing.
+
+Subsec. (a)(2). Pub. L. 117–328, §1311(b)(2), inserted "(including for individuals completing clinical training requirements for licensure)" after "training" and "counselors, nurses," after "psychologists," and substituted "services, including such settings that serve pediatric populations;" for "services;".
+
+Subsec. (a)(3)(A). Pub. L. 117–328, §1311(b)(3), substituted "disorders" for "disorder" and inserted "or pediatric populations" after "addiction".
+
+Subsec. (b)(2)(A). Pub. L. 117–328, §1311(b)(4), inserted "(including such settings that serve pediatric populations)" after "settings".
+
+Subsec. (c)(2)(F). Pub. L. 117–328, §1311(b)(5), inserted "counselors, nurses," after "psychologists" and substituted "workers, including such entities that serve pediatric populations." for "workers."
+
+Subsec. (d)(1)(A). Pub. L. 117–328, §1311(b)(6), inserted "health service psychologists, nurses" after "fellows," and "counselors," after "physician assistants".
+
+Subsec. (d)(1)(B). Pub. L. 117–328, §1311(b)(7), inserted "health" after "mental" and ", which may include such settings that serve pediatric populations" after "settings".
+
+Subsec. (d)(2)(C). Pub. L. 117–328, §1311(b)(8), inserted "(which may include trauma-informed care, as appropriate)" after "care".
+
+Subsec. (f)(2)(B). Pub. L. 117–328, §1311(b)(10), substituted "disorders" for "disorder".
+
+Subsec. (g). Pub. L. 117–328, §1311(b)(9), substituted ", and $31,700,000 for each of fiscal years 2023 through 2027" for "$10,000,000 for each of fiscal years 2018 through 2022".
+
+[<sup>1</sup> So in original..](#294k_1)
+
+[<sup>2</sup> So in original.](#294k_2)

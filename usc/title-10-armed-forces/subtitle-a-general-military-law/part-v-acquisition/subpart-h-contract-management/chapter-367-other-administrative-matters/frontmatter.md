@@ -160,7 +160,7 @@ Pub. L. 114–328, div. A, title VIII, §898, Dec. 23, 2016, 130 Stat. 2327, as 
 
 "(j) Sunset.—The Panel shall terminate on the date of submission of the last annual report required under subsection (i).
 
-"(k) Inapplicability of FACA.—The requirements of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel established pursuant to subsection (a).
+"(k) Inapplicability of FACA.—The requirements of the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.] shall not apply to the Panel established pursuant to subsection (a).
 
 "(l) Defense Acquisition University Training.—
 

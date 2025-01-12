@@ -110,7 +110,11 @@ For purposes of this section, adjusted gross income shall be determined without 
 
 Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section 72 by reason of the credit under this section.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076; Pub. L. 117–328, div. T, title I, §103(e)(1), Dec. 29, 2022, 136 Stat. 5285.)
+
+#### Amendment of Subsection (d)(1) ####
+
+Pub. L. 117–328, div. T, title I, §103(e)(1), (f), Dec. 29, 2022, 136 Stat. 5286, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (d)(1) of this section is amended by striking "the sum of—" and all that follows through "the amount of contributions made before January 1, 2026" and inserting "the amount of contributions made before January 1, 2026". See 2022 Amendment note below.
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -119,6 +123,20 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (d)(1). Pub. L. 117–328 substituted "the amount of contributions made before January 1, 2026" for "the sum of—
+
+"(A) the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
+
+"(B) the amount of—
+
+"(i) any elective deferrals (as defined in section 402(g)(3)) of such individual, and
+
+"(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A),
+
+"(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)), and
+
+"(D) the amount of contributions made before January 1, 2026".
 
 **2017**—Subsec. (b)(3)(B). Pub. L. 115–97, §11002(d)(1)(C), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -161,6 +179,10 @@ Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relati
 **2001**—Subsec. (g). Pub. L. 107–16, §618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2026, see section 103(f) of Pub. L. 117–328, set out as an Effective Date note under section 6433 of this title.
 
 #### Effective Date of 2013 Amendment ####
 

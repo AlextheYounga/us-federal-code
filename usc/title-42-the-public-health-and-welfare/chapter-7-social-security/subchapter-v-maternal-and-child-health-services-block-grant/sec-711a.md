@@ -30,15 +30,25 @@ An entity to which funds are provided under this section shall use the funds—
 
 (4) for the acquisition by families served by programs under section 711 of this title of such technological means as are needed to conduct and support a virtual home visit;
 
-(5) to provide emergency supplies (such as diapers and diapering supplies including diaper wipes and diaper cream, necessary to ensure that a child using a diaper is properly cleaned and protected from diaper rash, formula, food, water, hand soap and hand sanitizer) to an eligible family (as defined in section 711(k)(2) of this title);
+(5) to provide emergency supplies (such as diapers and diapering supplies including diaper wipes and diaper cream, necessary to ensure that a child using a diaper is properly cleaned and protected from diaper rash, formula, food, water, hand soap and hand sanitizer) to an eligible family (as defined in section 711(l)(2) of this title);
 
 (6) to coordinate with and provide reimbursement for supplies to diaper banks when using such entities to provide emergency supplies specified in paragraph (5); or
 
-(7) to provide prepaid grocery cards to an eligible family (as defined in section 711(k)(2) of this title) participating in the maternal, infant, and early childhood home visiting program under section 711 of this title for the purpose of enabling the family to meet the emergency needs of the family.
+(7) to provide prepaid grocery cards to an eligible family (as defined in section 711(l)(2) of this title) participating in the maternal, infant, and early childhood home visiting program under section 711 of this title for the purpose of enabling the family to meet the emergency needs of the family.
 
-(Aug. 14, 1935, ch. 531, title V, §511A, as added Pub. L. 117–2, title IX, §9101, Mar. 11, 2021, 135 Stat. 123.)
+(Aug. 14, 1935, ch. 531, title V, §511A, as added Pub. L. 117–2, title IX, §9101, Mar. 11, 2021, 135 Stat. 123; amended Pub. L. 117–328, div. FF, title VI, §6101(f)(2)(B), Dec. 29, 2022, 136 Stat. 5962.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (c)(5), (7). Pub. L. 117–328 substituted "section 711(l)(2)" for "section 711(k)(2)".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–328 effective Oct. 1, 2022, see section 6101(i)(1) of Pub. L. 117–328, set out as a note under section 711 of this title.
 
 #### Effective Date ####
 

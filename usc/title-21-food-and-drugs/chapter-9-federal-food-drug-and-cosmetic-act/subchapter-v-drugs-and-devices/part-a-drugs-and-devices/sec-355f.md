@@ -14,15 +14,17 @@ Subsection (a) does not apply to the approval of—
 
 (1) a supplement to an application under section 355(b) of this title for any qualified infectious disease product for which an extension described in subsection (a) is in effect or has expired;
 
-(2) a subsequent application filed with respect to a product approved under section 355 of this title for a change that results in a new indication, route of administration, dosing schedule, dosage form, delivery system, delivery device, or strength; or
+(2) a subsequent application filed with respect to a product approved under section 355 of this title for a change that results in a new indication, route of administration, dosing schedule, dosage form, delivery system, delivery device, or strength;
 
-(3) a product that does not meet the definition of a qualified infectious disease product under subsection (g) based upon its approved uses.
+(3) a product that does not meet the definition of a qualified infectious disease product under subsection (g) based upon its approved uses; or
+
+(4) an application pursuant to section 262(a) of title 42.
 
 #### (d) Designation ####
 
 #### (1) In general ####
 
-The manufacturer or sponsor of a drug may request the Secretary to designate a drug as a qualified infectious disease product at any time before the submission of an application under section 355(b) of this title for such drug. The Secretary shall, not later than 60 days after the submission of such a request, determine whether the drug is a qualified infectious disease product.
+The manufacturer or sponsor of a drug may request the Secretary to designate a drug as a qualified infectious disease product at any time before the submission of an application under section 355(b) of this title or section 262(a) of title 42 for such drug. The Secretary shall, not later than 60 days after the submission of such a request, determine whether the drug is a qualified infectious disease product.
 
 #### (2) Limitation ####
 
@@ -98,13 +100,31 @@ Every 5 years, or more often as needed, the Secretary shall review, provide modi
 
 #### (g) Qualified infectious disease product ####
 
-The term "qualified infectious disease product" means an antibacterial or antifungal drug for human use intended to treat serious or life-threatening infections, including those caused by—
+The term "qualified infectious disease product" means a drug (including a biological product), including an antibacterial or antifungal drug, for human use that—
 
-(1) an antibacterial or antifungal resistant pathogen, including novel or emerging infectious pathogens; or
+(1) acts on bacteria or fungi or on substances produced by such bacteria or fungi; and
 
-(2) qualifying pathogens listed by the Secretary under subsection (f).
+(2) is intended to treat a serious or life-threatening infection, including such an infection caused by—
 
-(June 25, 1938, ch. 675, §505E, as added Pub. L. 112–144, title VIII, §801(a), July 9, 2012, 126 Stat. 1077.)
+(A) an antibacterial or antifungal resistant pathogen, including novel or emerging infectious pathogens; or
+
+(B) qualifying pathogens listed by the Secretary under subsection (f).
+
+(June 25, 1938, ch. 675, §505E, as added Pub. L. 112–144, title VIII, §801(a), July 9, 2012, 126 Stat. 1077; amended Pub. L. 117–328, div. FF, title III, §3212(a), Dec. 29, 2022, 136 Stat. 5826.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (c)(4). Pub. L. 117–328, §3212(a)(1), added par. (4).
+
+Subsec. (d)(1). Pub. L. 117–328, §3212(a)(2), inserted "or section 262(a) of title 42" after "section 355(b) of this title".
+
+Subsec. (g). Pub. L. 117–328, §3212(a)(3), amended subsec. (g) generally. Prior to amendment, text read as follows: "The term 'qualified infectious disease product' means an antibacterial or antifungal drug for human use intended to treat serious or life-threatening infections, including those caused by—
+
+"(1) an antibacterial or antifungal resistant pathogen, including novel or emerging infectious pathogens; or
+
+"(2) qualifying pathogens listed by the Secretary under subsection (f)."
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

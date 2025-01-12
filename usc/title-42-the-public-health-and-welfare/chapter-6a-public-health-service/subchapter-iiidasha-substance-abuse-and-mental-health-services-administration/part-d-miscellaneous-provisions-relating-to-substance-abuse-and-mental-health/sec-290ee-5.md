@@ -4,25 +4,35 @@
 
 #### (1) In general ####
 
-The Secretary, in consultation with the individuals and entities specified in paragraph (2), shall identify or facilitate the development of best practices, which may include model laws for implementing suggested minimum standards, for operating recovery housing.
+The Secretary, in consultation with the individuals and entities specified in paragraph (2), shall continue activities to identify, facilitate the development of, and periodically update consensus-based best practices, which may include model laws for implementing suggested minimum standards for operating, and promoting the availability of, high-quality recovery housing.
 
 #### (2) Consultation ####
 
 In carrying out the activities described in paragraph (1), the Secretary shall consult with, as appropriate—
 
-(A) relevant divisions of the Department of Health and Human Services, including the Substance Abuse and Mental Health Services Administration, the Office of Inspector General, the Indian Health Service, and the Centers for Medicare & Medicaid Services;
+(A) officials representing the agencies described in subsection (e)(2);
 
-(B) the Secretary of Housing and Urban Development;
+(B) directors or commissioners, as applicable, of State health departments, Tribal health departments, State Medicaid programs, and State insurance agencies;
 
-(C) directors or commissioners, as applicable, of State health departments, tribal health departments, State Medicaid programs, and State insurance agencies;
+(C) representatives of health insurance issuers;
 
-(D) representatives of health insurance issuers;
+(D) national accrediting entities and reputable providers of, and analysts of, recovery housing services, including Indian Tribes, Tribal organizations, and Tribally designated housing entities that provide recovery housing services, as applicable;
 
-(E) national accrediting entities and reputable providers of, and analysts of, recovery housing services, including Indian tribes, tribal organizations, and tribally designated housing entities that provide recovery housing services, as applicable;
+(E) individuals with a history of substance use disorder; and
 
-(F) individuals with a history of substance use disorder; and
+(F) other stakeholders identified by the Secretary.
 
-(G) other stakeholders identified by the Secretary.
+#### (3) Availability ####
+
+The best practices referred to in paragraph (1) shall be—
+
+(A) made publicly available; and
+
+(B) published on the public website of the Substance Abuse and Mental Health Services Administration.
+
+#### (4) Exclusion of guideline on treatment services ####
+
+In facilitating the development of best practices under paragraph (1), the Secretary may not include any best practices with respect to substance use disorder treatment services.
 
 #### (b) Identification of fraudulent recovery housing operators ####
 
@@ -58,7 +68,7 @@ The Secretary shall, as appropriate, disseminate the best practices identified o
 
 (1) State agencies, which may include the provision of technical assistance to State agencies seeking to adopt or implement such best practices;
 
-(2) Indian tribes, tribal organizations, and tribally designated housing entities;
+(2) Indian Tribes, Tribal organizations, and tribally designated housing entities;
 
 (3) the Attorney General of the United States;
 
@@ -78,28 +88,140 @@ The Secretary shall, as appropriate, disseminate the best practices identified o
 
 In carrying out the activities described in subsections (a) and (b), the Secretary, in consultation with appropriate individuals and entities described in subsections (a)(2) and (b)(2), shall consider how recovery housing is able to support recovery and prevent relapse, recidivism, or overdose (including overdose death), including by improving access and adherence to treatment, including medication-assisted treatment.
 
-#### (e) Rule of construction ####
+#### (e) Coordination of Federal activities to promote the availability of housing for individuals experiencing homelessness, individuals with a mental illness, and individuals with a substance use disorder ####
+
+#### (1) In general ####
+
+The Secretary, acting through the Assistant Secretary, and the Secretary of Housing and Urban Development shall convene an interagency working group for the following purposes:
+
+(A) To increase collaboration, cooperation, and consultation among the Department of Health and Human Services, the Department of Housing and Urban Development, and the Federal agencies listed in paragraph (2)(B), with respect to promoting the availability of housing, including high-quality recovery housing, for individuals experiencing homelessness, individuals with mental illnesses, and individuals with substance use disorder.
+
+(B) To align the efforts of such agencies and avoid duplication of such efforts by such agencies.
+
+(C) To develop objectives, priorities, and a long-term plan for supporting State, Tribal, and local efforts with respect to the operation of high-quality recovery housing that is consistent with the best practices developed under this section.
+
+(D) To improve information on the quality of recovery housing.
+
+#### (2) Composition ####
+
+The interagency working group under paragraph (1) shall be composed of—
+
+(A) the Secretary, acting through the Assistant Secretary, and the Secretary of Housing and Urban Development, who shall serve as the co-chairs; and
+
+(B) representatives of each of the following Federal agencies:
+
+(i) The Centers for Medicare & Medicaid Services.
+
+(ii) The Substance Abuse and Mental Health Services Administration.
+
+(iii) The Health Resources and Services Administration.
+
+(iv) The Office of the Inspector General of the Department of Health and Human Services.
+
+(v) The Indian Health Service.
+
+(vi) The Department of Agriculture.
+
+(vii) The Department of Justice.
+
+(viii) The Office of National Drug Control Policy.
+
+(ix) The Bureau of Indian Affairs.
+
+(x) The Department of Labor.
+
+(xi) The Department of Veterans Affairs.
+
+(xii) Any other Federal agency as the co-chairs determine appropriate.
+
+#### (3) Meetings ####
+
+The working group shall meet on a quarterly basis.
+
+#### (4) Reports to Congress ####
+
+Not later than 4 years after December 29, 2022, the working group shall submit to the Committee on Health, Education, Labor, and Pensions, the Committee on Agriculture, Nutrition, and Forestry, and the Committee on Finance of the Senate and the Committee on Energy and Commerce, the Committee on Ways and Means, the Committee on Agriculture, and the Committee on Financial Services of the House of Representatives a report describing the work of the working group and any recommendations of the working group to improve Federal, State, and local coordination with respect to recovery housing and other housing resources and operations for individuals experiencing homelessness, individuals with a mental illness, and individuals with a substance use disorder.
+
+#### (f) Grants for implementing national recovery housing best practices ####
+
+#### (1) In general ####
+
+The Secretary shall award grants to States (and political subdivisions thereof), Indian Tribes, and territories—
+
+(A) for the provision of technical assistance to implement the guidelines and recommendations developed under subsection (a); and
+
+(B) to promote—
+
+(i) the availability of recovery housing for individuals with a substance use disorder; and
+
+(ii) the maintenance of recovery housing in accordance with best practices developed under this section.
+
+#### (2) State promotion plans ####
+
+Not later than 90 days after receipt of a grant under paragraph (1), and every 2 years thereafter, each State (or political subdivisions thereof,) Indian Tribe, or territory receiving a grant under paragraph (1) shall submit to the Secretary, and publish on a publicly accessible internet website of the State (or political subdivisions thereof), Indian Tribe, or territory—
+
+(A) the plan of the State (or political subdivisions thereof), Indian Tribe, or territory, with respect to the promotion of recovery housing for individuals with a substance use disorder located within the jurisdiction of such State (or political subdivisions thereof), Indian Tribe, or territory; and
+
+(B) a description of how such plan is consistent with the best practices developed under this section.
+
+#### (g) Rule of construction ####
 
 Nothing in this section shall be construed to provide the Secretary with the authority to require States to adhere to minimum standards in the State oversight of recovery housing.
 
-#### (f) Definitions ####
+#### (h) Definitions ####
 
 In this section:
 
 (1) The term "recovery housing" means a shared living environment free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
 
-(2) The terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 5304 of title 25.
+(2) The terms "Indian Tribe" and "Tribal organization" have the meanings given those terms in section 5304 of title 25.
 
 (3) The term "tribally designated housing entity" has the meaning given that term in section 4103 of title 25.
 
-#### (g) Authorization of appropriations ####
+#### (i) Authorization of appropriations ####
 
-To carry out this section, there is authorized to be appropriated $3,000,000 for the period of fiscal years 2019 through 2021.
+To carry out this section, there is authorized to be appropriated $5,000,000 for the period of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §550, as added Pub. L. 115–271, title VII, §7031, Oct. 24, 2018, 132 Stat. 4014.)
+(July 1, 1944, ch. 373, title V, §550, as added Pub. L. 115–271, title VII, §7031, Oct. 24, 2018, 132 Stat. 4014; amended Pub. L. 117–328, div. FF, title I, §§1232, 1233, 1235, 1236, Dec. 29, 2022, 136 Stat. 5674, 5676, 5677.)
 
 #### **Editorial Notes** ####
 
-#### Codification ####
+#### References in Text ####
 
-Another section 550 of act July 1, 1944, is classified to section 290ee–10 of this title.
+December 29, 2022, referred to in subsec. (e)(4), was in the original "the date of the enactment of this section", and was translated as reading "the date of the enactment of this subsection", meaning the date of enactment of Pub. L. 117–328, which enacted subsec. (e), to reflect the probable intent of Congress.
+
+#### Prior Provisions ####
+
+A prior section 550 of act July 1, 1944, was renumbered section 550A of act July 1, 1944, and is classified to section 290ee–5a of this title.
+
+#### Amendments ####
+
+**2022**—Subsec. (a)(1). Pub. L. 117–328, §1232(1), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary, in consultation with the individuals and entities specified in paragraph (2), shall identify or facilitate the development of best practices, which may include model laws for implementing suggested minimum standards, for operating recovery housing."
+
+Subsec. (a)(2)(A). Pub. L. 117–328, §1232(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "relevant divisions of the Department of Health and Human Services, including the Substance Abuse and Mental Health Services Administration, the Office of Inspector General, the Indian Health Service, and the Centers for Medicare & Medicaid Services;".
+
+Subsec. (a)(2)(B). Pub. L. 117–328, §1232(2)(A)–(C), redesignated subpar. (C) as (B), substituted "Tribal" for "tribal", and struck out former subpar. (B) which read as follows: "the Secretary of Housing and Urban Development;".
+
+Subsec. (a)(2)(C). Pub. L. 117–328, §1232(2)(B), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
+
+Subsec. (a)(2)(D). Pub. L. 117–328, §1232(2)(B), (D), redesignated subpar. (E) as (D) and substituted "Tribes, Tribal organizations, and Tribally" for "tribes, tribal organizations, and tribally". Former subpar. (D) redesignated (C).
+
+Subsec. (a)(2)(E) to (G). Pub. L. 117–328, §1232(2)(B), redesignated subpars. (F) and (G) as (E) and (F), respectively. Former subpar. (E) redesignated (D).
+
+Subsec. (a)(3), (4). Pub. L. 117–328, §1232(3), added pars. (3) and (4).
+
+Subsec. (c)(2). Pub. L. 117–328, §1233(2), substituted "Indian Tribes, Tribal" for "Indian tribes, tribal".
+
+Subsec. (e). Pub. L. 117–328, §1233(4), added subsec. (e). Former subsec. (e) redesignated (g).
+
+Subsec. (f). Pub. L. 117–328, §1235, added subsec. (f). Former subsec. (f) redesignated (h).
+
+Subsec. (g). Pub. L. 117–328, §1233(1), redesignated subsec. (e) as (g). Former subsec. (g) redesignated (i).
+
+Subsec. (h). Pub. L. 117–328, §1233(1), redesignated subsec. (f) as (h).
+
+Subsec. (h)(2). Pub. L. 117–328, §1233(3), substituted "Indian Tribe" for "Indian tribe" and "Tribal organization" for "tribal organization".
+
+Subsec. (i). Pub. L. 117–328, §1236, substituted "$5,000,000 for the period of fiscal years 2023 through 2027" for "$3,000,000 for the period of fiscal years 2019 through 2021".
+
+Pub. L. 117–328, §1233(1), redesignated subsec. (g) as (i).

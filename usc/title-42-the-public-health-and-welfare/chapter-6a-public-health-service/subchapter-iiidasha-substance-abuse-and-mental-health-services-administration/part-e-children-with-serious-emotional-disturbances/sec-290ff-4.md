@@ -38,7 +38,7 @@ For purposes of this part:
 
 (A) the legal guardian of the child; and
 
-(B) as appropriate regarding mental health services for the child, the parents of the child (biological or adoptive, as the case may be) and any foster parents of the child.
+(B) as appropriate regarding mental health services for the child, the parents of the child (biological or adoptive, as the case may be), kinship caregivers of the child, and any foster parents of the child.
 
 (3) The term "funding agreement", with respect to a grant under section 290ff(a) of this title to a public entity, means that the Secretary may make such a grant only if the public entity makes the agreement involved.
 
@@ -52,13 +52,13 @@ Nothing in this part shall be construed as limiting the rights of a child with a
 
 #### (1) Authorization of appropriations ####
 
-For the purpose of carrying out this part, there are authorized to be appropriated $119,026,000 for each of fiscal years 2018 through 2022.
+For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2023 through 2027.
 
 #### (2) Limitation regarding technical assistance ####
 
 Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b).
 
-(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(d), Dec. 13, 2016, 130 Stat. 1262.)
+(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(d), Dec. 13, 2016, 130 Stat. 1262; Pub. L. 117–328, div. FF, title I, §1411, Dec. 29, 2022, 136 Stat. 5701.)
 
 #### **Editorial Notes** ####
 
@@ -67,6 +67,10 @@ Not more than 10 percent of the amounts appropriated under paragraph (1) for a f
 The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (d)(2)(B). Pub. L. 117–328, §1411(a), substituted "may be), kinship caregivers of the child," for "may be)".
+
+Subsec. (f)(1). Pub. L. 117–328, §1411(b), substituted "$125,000,000 for each of fiscal years 2023 through 2027" for "$119,026,000 for each of fiscal years 2018 through 2022" and realigned margin.
 
 **2016**—Subsec. (b)(1). Pub. L. 114–255, §10001(d)(1)(A), substituted ", regardless of whether such public entity is receiving a grant under section 290ff(a) of this title" for "receiving a grant under section 290ff(a) of this title" in introductory provisions.
 

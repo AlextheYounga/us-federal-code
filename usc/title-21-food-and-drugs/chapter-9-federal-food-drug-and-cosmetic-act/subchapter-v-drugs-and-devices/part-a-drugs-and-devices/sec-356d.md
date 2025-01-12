@@ -66,8 +66,24 @@ No determination, finding, action, or omission of the Secretary under this secti
 
 (2) be construed to establish a defense to an enforcement action by the Secretary.
 
-#### (f) Sunset ####
+#### (f) Temporary sunset ####
 
-Subsections (a), (b), (c), and (e) shall cease to be effective on the date that is 5 years after July 9, 2012.
+Subsection (a) shall cease to be effective on the date that is 5 years after July 9, 2012. Subsections (b), (c), and (e) shall not be in effect during the period beginning 5 years after July 9, 2012, and ending on December 29, 2022. Subsections (b), (c), and (e) shall be in effect beginning on December 29, 2022.
 
-(June 25, 1938, ch. 675, §506D, as added Pub. L. 112–144, title X, §1003, July 9, 2012, 126 Stat. 1103.)
+#### (g) Coordination ####
+
+The Secretary shall ensure timely and effective internal coordination and alignment among the field investigators of the Food and Drug Administration and the staff of the Center for Drug Evaluation and Research's Office of Compliance and Drug Shortage Program regarding—
+
+(1) the reviews of reports shared pursuant to section 374(b)(2) of this title; and
+
+(2) any feedback or corrective or preventive actions in response to such reports.
+
+(June 25, 1938, ch. 675, §506D, as added Pub. L. 112–144, title X, §1003, July 9, 2012, 126 Stat. 1103; amended Pub. L. 117–328, div. FF, title III, §3616(a)(1), (2), Dec. 29, 2022, 136 Stat. 5874.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (f). Pub. L. 117–328, §3616(a)(2), amended subsec. (f) generally. Prior to amendment, text read as follows: "Subsections (a), (b), (c), and (e) shall cease to be effective on the date that is 5 years after July 9, 2012."
+
+Subsec. (g). Pub. L. 117–328, §3616(a)(1), added subsec. (g).

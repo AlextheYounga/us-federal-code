@@ -126,9 +126,9 @@ Compensation for an accredited person shall be determined by agreement between t
 
 #### (c) Duration ####
 
-The authority provided by this section terminates December 24, 2022.
+The authority provided by this section terminates on October 1, 2027.
 
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title II, §206, Aug. 18, 2017, 131 Stat. 1018; Pub. L. 117–180, div. F, title II, §2006, Sept. 30, 2022, 136 Stat. 2154; Pub. L. 117–229, div. C, title III, §309, Dec. 16, 2022, 136 Stat. 2312.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title II, §206, Aug. 18, 2017, 131 Stat. 1018; Pub. L. 117–180, div. F, title II, §2006, Sept. 30, 2022, 136 Stat. 2154; Pub. L. 117–229, div. C, title III, §309, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–328, div. FF, title III, §3109, Dec. 29, 2022, 136 Stat. 5808.)
 
 #### **Editorial Notes** ####
 
@@ -138,7 +138,9 @@ Section 360e–3 of this title, referred to in subsec. (a)(3)(A)(ii), was in the
 
 #### Amendments ####
 
-**2022**—Subsec. (c). Pub. L. 117–229 substituted "December 24, 2022" for "December 17, 2022".
+**2022**—Subsec. (c). Pub. L. 117–328 substituted "on October 1, 2027" for "December 24, 2022".
+
+Pub. L. 117–229 substituted "December 24, 2022" for "December 17, 2022".
 
 Pub. L. 117–180 substituted "December 17" for "October 1".
 

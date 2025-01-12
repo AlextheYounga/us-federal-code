@@ -244,6 +244,12 @@ Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated 
 
 This chapter, referred to in subsec. (l)(1)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Termination Date ####
+
+Pub. L. 117–328, div. F, title V, §547, Dec. 29, 2022, 136 Stat. 4758, provided that: "Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) shall be applied by substituting 'September 30, 2023' for 'the date that is 4 years after October 5, 2018'."
+
 [<sup>1</sup> So in original. Probably should be "determines".](#124n_1)
 
 [<sup>2</sup> So in original. Probably should be followed by "and".](#124n_2)

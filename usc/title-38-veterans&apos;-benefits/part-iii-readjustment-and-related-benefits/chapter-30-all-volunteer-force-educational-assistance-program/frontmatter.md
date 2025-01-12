@@ -92,6 +92,54 @@ Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted "subchap
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Veterans Integration to Academic Leadership Program of the Department of Veterans Affairs ####
+
+Pub. L. 117–328, div. V, title V, §501, Dec. 29, 2022, 136 Stat. 5513, provided that:
+
+"(a) Report.—Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the Veterans Integration to Academic Leadership program of the Department of Veterans Affairs. The report shall include the following:
+
+"(1) The number of medical centers of the Department, institutions of higher learning, non-college degree programs, and student veterans supported by the program, and relevant trends since the program began.
+
+"(2) The staff and resources allocated to the program, and relevant trends since the program began.
+
+"(3) An assessment of the outcomes and effectiveness of the program in—
+
+"(A) supporting student veterans;
+
+"(B) connecting student veterans to needed services of the Department or services provided by non-Department entities;
+
+"(C) addressing the mental health needs of student veterans;
+
+"(D) lowering the suicide risk of student veterans; and
+
+"(E) helping student veterans achieve educational goals.
+
+"(4) An assessment of barriers to expanding the program and how the Secretary intends to address such barriers.
+
+"(5) An assessment of whether the program should be expanded outside of the Office of Mental Health and Suicide Prevention to support students veterans with needs unrelated to mental health or suicide.
+
+"(b) Uniform Best Practices, Goals, and Measures.—The Secretary shall establish best practices, goals, and measures for the Veterans Integration to Academic Leadership program of the Department that are uniform among the medical centers of the Department.
+
+"(c) Outreach.—The Secretary shall conduct outreach among the Armed Forces, veterans service organizations, institutions of higher learning, and non-college degree programs with respect to the Veterans Integration to Academic Leadership program of the Department.
+
+"(d) Assessment.—The Secretary shall assess the feasibility and advisability of including the suicide rate for student veterans in the National Veteran Suicide Prevention Annual Report of the Office of Mental Health and Suicide Prevention of the Department.
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'institution of higher learning' has the meaning given that term in section 3452 of title 38, United States Code.
+
+"(2) The term 'student veteran' means the following:
+
+"(A) A veteran or member of the Armed Forces using educational assistance under any of the following provisions of law:
+
+"(i) Chapter 30, 31, 32, or 33 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code.
+
+"(ii) Section 116 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 38 U.S.C. 3001 note).
+
+"(iii) Section 8006 of the American Rescue Plan Act of 2021 (Public Law 117–2; 38 U.S.C. 3001 note prec.).
+
+"(B) A veteran who is enrolled in an institution of higher learning or other training program, without regard to whether the veteran is using educational assistance specified in subparagraph (A)."
+
 #### COVID–19 Veteran Rapid Retraining Assistance Program ####
 
 Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by Pub. L. 117–16, §2(a), June 8, 2021, 135 Stat. 280; Pub. L. 117–138, §2(a), (b), June 7, 2022, 136 Stat. 1256, 1257, provided that:

@@ -42,7 +42,7 @@ In addition to the voting members, each Advisory Committee shall include a repre
 
 (j) Inapplicability of Patent Prohibition.—Section 4 shall not apply to voting members of the Advisory Committees.
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4714], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, §1(l)(1), Jan. 14, 2013, 126 Stat. 2458; ub. L. 117–286, §4(a)(215), Dec. 27, 2022, 136 Stat. 4329.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4714], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, §1(l)(1), Jan. 14, 2013, 126 Stat. 2458; Pub. L. 117–286, §4(a)(215), Dec. 27, 2022, 136 Stat. 4329.)
 
 #### **Editorial Notes** ####
 

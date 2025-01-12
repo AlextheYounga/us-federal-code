@@ -22,7 +22,7 @@ The Rehabilitation Act of 1973, referred to in par. (2), is Pub. L. 93–112, Se
 
 #### Codification ####
 
-Section was enacted as part of the Rehabilitation Amendments of 1984, and not as part of Rehabilitation Act of 1973 which comprises this chapter.
+Section was enacted as part of the Rehabilitation Amendments of 1984, and not as part of the Rehabilitation Act of 1973 which comprises this chapter.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

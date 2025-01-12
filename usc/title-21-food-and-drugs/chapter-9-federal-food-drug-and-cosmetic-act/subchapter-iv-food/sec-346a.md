@@ -508,7 +508,7 @@ All fees collected under paragraph (1) shall be deposited in the Reregistration 
 
 #### (3) Prohibition ####
 
-During the period beginning on October 1, 2007, and ending on September 30, 2023, the Administrator shall not collect any tolerance fees under paragraph (1).
+During the period beginning on December 29, 2022, and ending on September 30, 2027, the Administrator shall not collect any tolerance fees under paragraph (1).
 
 #### (n) National uniformity of tolerances ####
 
@@ -686,7 +686,7 @@ The Administrator may, upon the request of any person who has obtained an experi
 
 Nothing in this section shall be construed to amend or modify the provisions of the Toxic Substances Control Act [15 U.S.C. 2601 et seq.] or the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136 et seq.].
 
-(June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036; Pub. L. 110–94, §4(d)(2), Oct. 9, 2007, 121 Stat. 1002; Pub. L. 112–177, §2(a)(3), Sept. 28, 2012, 126 Stat. 1329; Pub. L. 116–8, §2(c), Mar. 8, 2019, 133 Stat. 485.)
+(June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036; Pub. L. 110–94, §4(d)(2), Oct. 9, 2007, 121 Stat. 1002; Pub. L. 112–177, §2(a)(3), Sept. 28, 2012, 126 Stat. 1329; Pub. L. 116–8, §2(c), Mar. 8, 2019, 133 Stat. 485; Pub. L. 117–328, div. HH, title VI, §703(b), Dec. 29, 2022, 136 Stat. 6002.)
 
 #### **Editorial Notes** ####
 
@@ -707,6 +707,8 @@ The Toxic Substances Control Act, referred to in subsec. (s), is Pub. L. 94–46
 August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original references to the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments ####
+
+**2022**—Subsec. (m)(3). Pub. L. 117–328 substituted "December 29, 2022, and ending on September 30, 2027" for "October 1, 2007, and ending on September 30, 2023".
 
 **2019**—Subsec. (m)(3). Pub. L. 116–8 substituted "2023" for "2017".
 

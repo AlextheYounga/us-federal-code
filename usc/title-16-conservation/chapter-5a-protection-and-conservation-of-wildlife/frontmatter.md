@@ -60,7 +60,9 @@ Sec.
 
 667g–2. Authorization of appropriations for reimbursement of Commodity Credit Corporation.
 
-667h. Chronic wasting disease task force.
+667h. Chronic Wasting Disease Task Force.
+
+667i. Chronic wasting disease research and management program.
 
 #### SUBCHAPTER II—PROTECTION OF BALD AND GOLDEN EAGLES ####
 

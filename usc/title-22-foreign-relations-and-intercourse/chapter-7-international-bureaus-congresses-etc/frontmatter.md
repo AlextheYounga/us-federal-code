@@ -442,6 +442,8 @@ Sec.
 
 277i. Report on water sharing.
 
+277j. Management of international transboundary water pollution.
+
 #### SUBCHAPTER V—GORGAS MEMORIAL LABORATORY ####
 
 278. Gorgas Memorial Laboratory; location; acceptance of funds from Latin American countries or other sources.
@@ -690,6 +692,8 @@ Sec.
 
 284cc. Nineteenth replenishment.
 
+284dd. Twentieth replenishment.
+
 #### SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK ####
 
 285. Acceptance of membership by United States in Asian Development Bank.
@@ -759,6 +763,8 @@ Sec.
 285ff. Tenth replenishment.
 
 285gg. Eleventh replenishment.
+
+285hh. Twelfth replenishment.
 
 #### SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVELOPMENT ####
 

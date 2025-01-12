@@ -80,6 +80,8 @@ Sec.
 
 7330C. Quadrennial Veterans Health Administration review.
 
+7330D. Inapplicability of Paperwork Reduction Act to research activities.
+
 #### SUBCHAPTER III—PROTECTION OF PATIENT RIGHTS ####
 
 7331. Informed consent.
@@ -108,9 +110,19 @@ Sec.
 
 [7367, 7368. Repealed.]
 
+#### SUBCHAPTER V—RESEARCH AND DEVELOPMENT ####
+
+7381. Office of Research and Development.
+
+7382. Research personnel.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. U, title I, §182(b), Dec. 29, 2022, 136 Stat. 5436, added item for subchapter V and items 7381 and 7382.
+
+Pub. L. 117–328, div. U, title I, §181(b), Dec. 29, 2022, 136 Stat. 5435, which directed amendment of subchapter analysis for this chapter by adding item 7330D, was executed by making the amendment to the analysis for this chapter, to reflect the probable intent of Congress. Item was editorially conformed to the style used in this title.
 
 **2021**—Pub. L. 116–315, title V, §5101(b)(3), Jan. 5, 2021, 134 Stat. 5026, added items 7310 and 7310A.
 

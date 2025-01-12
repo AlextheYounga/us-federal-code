@@ -234,7 +234,11 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 (7) to allow for transfers from one ABLE account to another ABLE account.
 
-(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190.)
+(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190; Pub. L. 117–328, div. T, title I, §124(a), Dec. 29, 2022, 136 Stat. 5314.)
+
+#### Amendment of Subsection (e) ####
+
+Pub. L. 117–328, div. T, title I, §124, Dec. 29, 2022, 136 Stat. 5314, provided that, applicable to taxable years beginning after Dec. 31, 2025, paragraphs (1)(A) and (2)(A)(i)(II) of subsection (e) of this section are amended by striking "age 26" and inserting "age 46". See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -245,6 +249,8 @@ The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. 
 The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (e)(1)(A), (2)(A)(i)(II). Pub. L. 117–328 substituted "age 46" for "age 26".
 
 **2018**—Subsec. (c)(1)(D). Pub. L. 115–141, §101(o), struck out subpar. (D) which related to operating rules.
 
@@ -269,6 +275,10 @@ Subsec. (d)(4). Pub. L. 114–113, §303(c)(1), substituted "section 103" for "s
 Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contracting State' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program."
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–328, div. T, title I, §124(b), Dec. 29, 2022, 136 Stat. 5314, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date of 2018 Amendment ####
 

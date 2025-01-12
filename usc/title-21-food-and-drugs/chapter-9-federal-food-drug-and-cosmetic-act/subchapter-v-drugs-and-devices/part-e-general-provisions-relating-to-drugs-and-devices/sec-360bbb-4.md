@@ -196,11 +196,67 @@ Not later than 180 days after March 13, 2013, and annually thereafter, the Secre
 
 (B) another agency engaged in development or management of portfolios for such countermeasures, including the Centers for Disease Control and Prevention, the Biomedical Advanced Research and Development Authority, the National Institutes of Health, and the appropriate agencies of the Department of Defense.
 
-(June 25, 1938, ch. 675, §565, as added Pub. L. 109–417, title IV, §404, Dec. 19, 2006, 120 Stat. 2875; amended Pub. L. 113–5, title III, §§303–306, Mar. 13, 2013, 127 Stat. 185–190; Pub. L. 116–22, title V, §503, June 24, 2019, 133 Stat. 951.)
+#### (h) Accelerating countermeasure development and review during an emergency ####
+
+#### (1) Acceleration of countermeasure development and review ####
+
+The Secretary may, at the request of the sponsor of a countermeasure, during a domestic, military, or public health emergency or material threat described in section 360bbb–3a(a)(1)(C) of this title, expedite the development and review of countermeasures that are intended to address such domestic, military, or public health emergency or material threat for approval, licensure, clearance, or authorization under this title or section 262 of title 42.
+
+#### (2) Actions ####
+
+The actions to expedite the development and review of a countermeasure under paragraph (1) may include the following:
+
+(A) Expedited review of submissions made by sponsors of countermeasures to the Food and Drug Administration, including rolling submissions of countermeasure applications and other submissions.
+
+(B) Expedited and increased engagement with sponsors regarding countermeasure development and manufacturing, including—
+
+(i) holding meetings with the sponsor and the review team and providing timely advice to, and interactive communication with, the sponsor regarding the development of the countermeasure to ensure that the development program to gather the nonclinical and clinical data necessary for approval, licensure, clearance, or authorization is as efficient as practicable;
+
+(ii) involving senior managers and experienced review staff, as appropriate, in a collaborative, cross-disciplinary review;
+
+(iii) assigning a cross-disciplinary project lead for the review team to facilitate;
+
+(iv) taking steps to ensure that the design of the clinical trials is as efficient as practicable, when scientifically appropriate, such as by minimizing the number of patients exposed to a potentially less efficacious treatment; and
+
+(v) streamlining the review of approved, licensed, cleared, or authorized countermeasures to treat or prevent new or emerging threats, including the review of any changes to such countermeasures.
+
+(C) Expedited issuance of guidance documents and publication of other regulatory information regarding countermeasure development and manufacturing.
+
+(D) Other steps to expedite the development and review of a countermeasure application submitted for approval, licensure, clearance, or authorization, as the Secretary determines appropriate.
+
+#### (3) Limitation of effect ####
+
+Nothing in this subsection shall be construed to require the Secretary to grant, or take any other action related to, a request of a sponsor to expedite the development and review of a countermeasure for approval, licensure, clearance, or authorization under paragraph (1).
+
+#### (i) Third party evaluation of tests used during an emergency ####
+
+#### (1) In general ####
+
+For purposes of conducting evaluations regarding whether an in vitro diagnostic product (as defined in section 809.3 of title 21, Code of Federal Regulations (or any successor regulations)) for which a request for emergency use authorization is submitted under section 360bbb–3 of this title meets the criteria for issuance of such authorization, the Secretary may, as appropriate, consult with persons with appropriate expertise with respect to such evaluations or enter into cooperative agreements or contracts with such persons under which such persons conduct such evaluations and make such recommendations, including, as appropriate, evaluations and recommendations regarding the scope of authorization and conditions of authorization.
+
+#### (2) Requirements regarding evaluations and recommendations ####
+
+#### (A) In general ####
+
+In evaluating and making recommendations to the Secretary regarding the validity, accuracy, and reliability of in vitro diagnostic products, as described in paragraph (1), a person shall consider and document whether the relevant criteria under subsection (c)(2) of section 360bbb–3 of this title for issuance of authorization under such section are met with respect to the in vitro diagnostic product.
+
+#### (B) Written recommendations ####
+
+Recommendations made by a person under this subsection shall be submitted to the Secretary in writing, and shall include the reasons for such recommendation and other information that may be requested by the Secretary.
+
+#### (3) Rule of construction ####
+
+ Nothing in this subsection shall be construed to require the Secretary to consult with, or enter into cooperative agreements or contracts with, persons as described in paragraph (1) for purposes of authorizing an in vitro diagnostic product or otherwise affecting the emergency use authorization authorities under this section or section 360bbb–3 of this title.
+
+(June 25, 1938, ch. 675, §565, as added Pub. L. 109–417, title IV, §404, Dec. 19, 2006, 120 Stat. 2875; amended Pub. L. 113–5, title III, §§303–306, Mar. 13, 2013, 127 Stat. 185–190; Pub. L. 116–22, title V, §503, June 24, 2019, 133 Stat. 951; Pub. L. 117–328, div. FF, title II, §§2501, 2502(a), Dec. 29, 2022, 136 Stat. 5796, 5797.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (h). Pub. L. 117–328, §2501, added subsec. (h).
+
+Subsec. (i). Pub. L. 117–328, §2502(a), added subsec. (i).
 
 **2019**—Subsec. (f)(3) to (5). Pub. L. 116–22, §503(1), (2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
@@ -225,6 +281,10 @@ Subsec. (f). Pub. L. 113–5, §305, added subsec. (f).
 Subsec. (g). Pub. L. 113–5, §306, added subsec. (g).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Guidance ####
+
+Pub. L. 117–328, div. FF, title II, §2502(b), Dec. 29, 2022, 136 Stat. 5798, provided that: "Not later than 1 year after the date of enactment of this Act [Dec. 29, 2022], the Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall issue draft guidance on consultations with persons under subsection (i) of section 565 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–4), as added by subsection (a), including considerations concerning conflicts of interest, compensation arrangements, and information sharing. Not later than 1 year after the public comment period on such draft guidance ends, the Secretary shall issue a revised draft guidance or final guidance."
 
 #### Predictable Review Timelines of Vaccines by the Advisory Committee on Immunization Practices ####
 

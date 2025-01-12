@@ -106,7 +106,7 @@ Information on the administrative performance of the program, including—
 
 #### (E) Scientific reports ####
 
-A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title, including the findings of research conducted under section 300mm–51(a) of this title.
+A summary of the findings of any new scientific reports or studies on the health effects associated with exposure described in section 300mm–5(1) of this title, including the findings of research conducted under subsection (a) or (c) of section 300mm–51 of this title.
 
 #### (F) Advisory Committee recommendations ####
 
@@ -168,10 +168,12 @@ The WTC Program Administrator is authorized to promulgate such regulations as th
 
 The WTC Program shall terminate on October 1, 2090.
 
-(July 1, 1944, ch. 373, title XXXIII, §3301, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, §302(b), Dec. 18, 2015, 129 Stat. 2998.)
+(July 1, 1944, ch. 373, title XXXIII, §3301, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, §302(b), Dec. 18, 2015, 129 Stat. 2998; Pub. L. 117–328, div. FF, title VII, §7702(c), Dec. 29, 2022, 136 Stat. 5967.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (f)(2)(E). Pub. L. 117–328 substituted "subsection (a) or (c) of section 300mm–51 of this title" for "section 300mm–51(a) of this title".
 
 **2015**—Subsecs. (i) to (k). Pub. L. 114–113 added subsecs. (i) to (k).

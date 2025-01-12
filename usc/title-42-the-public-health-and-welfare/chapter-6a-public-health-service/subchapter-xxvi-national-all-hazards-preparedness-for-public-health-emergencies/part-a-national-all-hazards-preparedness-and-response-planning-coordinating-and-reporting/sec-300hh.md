@@ -8,7 +8,23 @@ The Secretary of Health and Human Services shall lead all Federal public health 
 
 The Secretary, in collaboration with the Secretary of Veterans Affairs, the Secretary of Transportation, the Secretary of Defense, the Secretary of Homeland Security, and the head of any other relevant Federal agency, shall establish an interagency agreement, consistent with the National Response Plan or any successor plan, under which agreement the Secretary of Health and Human Services shall assume operational control of emergency public health and medical response assets, as necessary, in the event of a public health emergency, except that members of the armed forces under the authority of the Secretary of Defense shall remain under the command and control of the Secretary of Defense, as shall any associated assets of the Department of Defense.
 
-(July 1, 1944, ch. 373, title XXVIII, §2801, as added Pub. L. 107–188, title I, §101(a), June 12, 2002, 116 Stat. 596; amended Pub. L. 109–417, title I, §101(2), Dec. 19, 2006, 120 Stat. 2832.)
+#### (c) Coordination with Federal agencies ####
+
+In leading the Federal public health and medical response to a declared or potential public health emergency, consistent with this section, the Secretary shall coordinate with, and may request support from, other Federal departments and agencies, as appropriate in order to carry out necessary activities and leverage the expertise of such departments and agencies, which may include the provision of assistance at the direction of the Secretary related to supporting the public health and medical response for States, localities, and Tribes.
+
+#### (d) Annual report on emergency response and preparedness ####
+
+The Secretary shall submit a written report each fiscal year to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, containing—
+
+(1) updated information related to an assessment of the response to any public health emergency declared, or otherwise in effect, during the previous fiscal year;
+
+(2) findings related to drills and operational exercises completed in the previous fiscal year pursuant to section 300hh–10(b)(4)(G) of this title;
+
+(3) the state of public health preparedness and response capabilities for chemical, biological, radiological, and nuclear threats, including emerging infectious diseases; and
+
+(4) any challenges in preparing for or responding to such threats, as appropriate.
+
+(July 1, 1944, ch. 373, title XXVIII, §2801, as added Pub. L. 107–188, title I, §101(a), June 12, 2002, 116 Stat. 596; amended Pub. L. 109–417, title I, §101(2), Dec. 19, 2006, 120 Stat. 2832; Pub. L. 117–328, div. FF, title II, §2103(b)(1), (d), Dec. 29, 2022, 136 Stat. 5711, 5714.)
 
 #### **Editorial Notes** ####
 
@@ -18,9 +34,41 @@ Section 314(6) of title 6, referred to in subsec. (a), was in the original "sect
 
 #### Amendments ####
 
+**2022**—Subsec. (c). Pub. L. 117–328, §2103(b)(1), added subsec. (c).
+
+Subsec. (d). Pub. L. 117–328, §2103(d), added subsec. (d).
+
 **2006**—Pub. L. 109–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a national preparedness plan for carrying out health-related activities to prepare for and respond effectively to bioterrorism and other public health emergencies.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Data Use Agreements ####
+
+Pub. L. 117–328, div. FF, title II, §2213(c), Dec. 29, 2022, 136 Stat. 5735, provided that:
+
+"(1) Interagency data use agreements within the Department of Health and Human Services for public health emergencies.—
+
+"(A) In general.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall, as appropriate, facilitate the development of, or updates to, memoranda of understanding, data use agreements, or other applicable interagency agreements regarding appropriate access, exchange, and use of public health data between the Centers for Disease Control and Prevention, the Office of the Assistant Secretary for Preparedness and Response, other relevant agencies or offices within the Department of Health and Human Services, and other relevant Federal agencies, in order to prepare for, identify, monitor, and respond to declared or potential public health emergencies.
+
+"(B) Requirements.—In carrying out activities pursuant to subparagraph (A), the Secretary shall—
+
+"(i) ensure that the agreements and memoranda of understanding described in such subparagraph—
+
+"(I) address the methods of granting access to data held by one agency or office with another to support the respective missions of such agencies or offices;
+
+"(II) consider minimum necessary principles of data sharing for appropriate use;
+
+"(III) include appropriate privacy and cybersecurity protections; and
+
+"(IV) are subject to regular updates, as appropriate;
+
+"(ii) collaborate with the Centers for Disease Control and Prevention, the Office of the Assistant Secretary for Preparedness and Response, the Office of the Chief Information Officer, and, as appropriate, the Office of the National Coordinator for Health Information Technology, and other entities within the Department of Health and Human Services; and
+
+"(iii) consider the terms and conditions of any existing data use agreements with other public or private entities and any need for updates to such existing agreements, consistent with paragraph (2).
+
+"(2) Data use agreements with external entities.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Assistant Secretary for Preparedness and Response, may update memoranda of understanding, data use agreements, or other applicable agreements and contracts to improve appropriate access, exchange, and use of public health data between the Centers for Disease Control and Prevention and the Office of the Assistant Secretary for Preparedness and Response and external entities, including State, Tribal, and territorial health departments, laboratories, hospitals and other health care providers, electronic health records vendors, and other entities, as applicable and appropriate, in order to prepare for, identify, monitor, and respond to declared or potential public health emergencies.
+
+"(3) Report.—Not later than 90 days after the date of enactment of this Act [Dec. 29, 2022], the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on the status of the agreements under this subsection."
 
 #### Guidance for Participation in Exercises and Drills ####
 

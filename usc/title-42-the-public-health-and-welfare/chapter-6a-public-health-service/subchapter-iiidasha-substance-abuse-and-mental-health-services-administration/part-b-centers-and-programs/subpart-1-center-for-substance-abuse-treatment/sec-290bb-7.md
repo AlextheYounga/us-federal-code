@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), or health facilities or programs operated by or in accordance with a contract or grant with the Indian Health Service, for the purpose of—
+The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Indian Tribes or Tribal organizations (as such terms are defined in section 5304 of title 25), or health facilities or programs operated by or in accordance with a contract or grant with the Indian Health Service, for the purpose of—
 
 (1) providing early identification and services to meet the needs of children, adolescents, and young adults who are at risk of substance use disorders;
 
@@ -40,9 +40,9 @@ An entity that receives a grant, contract, or cooperative agreement under subsec
 
 #### (f) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this section, $29,605,000 for each of fiscal years 2018 through 2022.
+There are authorized to be appropriated to carry out this section, $29,605,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1171; amended Pub. L. 114–255, div. B, title X, §10003, Dec. 13, 2016, 130 Stat. 1264; Pub. L. 115–271, title VII, §7102(a), Oct. 24, 2018, 132 Stat. 4038.)
+(July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1171; amended Pub. L. 114–255, div. B, title X, §10003, Dec. 13, 2016, 130 Stat. 1264; Pub. L. 115–271, title VII, §7102(a), Oct. 24, 2018, 132 Stat. 4038; Pub. L. 117–328, div. FF, title I, §1412, Dec. 29, 2022, 136 Stat. 5701.)
 
 #### **Editorial Notes** ####
 
@@ -51,6 +51,10 @@ There are authorized to be appropriated to carry out this section, $29,605,000 f
 Another section 514 of act July 1, 1944, was classified to section 290bb–9 of this title prior to repeal by Pub. L. 114–255, div. B, title IX, §9017, Dec. 13, 2016, 130 Stat. 1248.
 
 #### Amendments ####
+
+**2022**—Subsec. (a). Pub. L. 117–328, §1412(1), substituted "Indian Tribes or Tribal organizations" for "Indian tribes or tribal organizations" in introductory provisions.
+
+Subsec. (f). Pub. L. 117–328, §1412(2), substituted "2023 through 2027" for "2018 through 2022".
 
 **2018**—Pub. L. 115–271, §7102(a)(3), substituted "children, adolescents, and young adults" for "children and adolescents" wherever appearing.
 

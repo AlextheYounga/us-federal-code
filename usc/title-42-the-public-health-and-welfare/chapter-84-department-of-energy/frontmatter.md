@@ -232,6 +232,8 @@ Sec.
 
 7274 l. Authority to transfer certain Department of Energy property.
 
+7274l–1. Vesting title in property interests related to energy development, demonstration, and deployment programs funded under Department of Energy appropriations.
+
 7274m to 7274s. Transferred.
 
 7275. Definitions.

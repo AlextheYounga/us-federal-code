@@ -30,11 +30,11 @@ Section 8 of Pub. L. 99–552, as added by Pub. L. 100–653, title VI, §604, N
 
 #### Salmon Plan and Study ####
 
-Pub. L. 109–479, title I, §113(b), Jan. 12, 2007, 120 Stat. 3602, provided that:
+Pub. L. 109–479, title I, §113(b), Jan. 12, 2007, 120 Stat. 3602, as amended by Pub. L. 117–328, div. S, title II, §203(b), Dec. 29, 2022, 136 Stat. 5270, provided that:
 
 "(1) Recovery plan.—Not later than 6 months after the date of enactment of this Act [Jan. 12, 2007], the Secretary of Commerce shall complete a recovery plan for Klamath River Coho salmon and make it available to the public.
 
-"(2) Annual report.—Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary of Commerce shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Resources [now Committee on Natural Resources] on—
+"(2) Report.—Not later than 2 years after the date of enactment of the Fishery Resource Disasters Improvement Ac[t] [Dec. 29, 2002], and biennially thereafter, the Secretary of Commerce shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Resources [now Committee on Natural Resources] on—
 
 "(A) the actions taken under the recovery plan and other law relating to recovery of Klamath River Coho salmon, and how those actions are specifically contributing to its recovery;
 
@@ -42,6 +42,6 @@ Pub. L. 109–479, title I, §113(b), Jan. 12, 2007, 120 Stat. 3602, provided th
 
 "(C) the status of other Klamath River anadromous fish populations, particularly Chinook salmon; and
 
-"(D) the actions taken by the Secretary to address the calendar year 2003 National Research Council recommendations regarding monitoring and research on Klamath River Basin salmon stocks."
+"(D) the actions taken by the Secretary to address the most recent National Research Council recommendations regarding monitoring and research on Klamath River Basin salmon stocks."
 
 [<sup>1</sup> So in original. The semicolon probably should be a period.](#460ss_1)

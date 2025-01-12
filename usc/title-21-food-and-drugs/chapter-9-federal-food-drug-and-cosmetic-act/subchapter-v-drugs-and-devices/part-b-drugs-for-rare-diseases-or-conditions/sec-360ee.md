@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary ####
 
-The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, and (3) defraying the costs of developing medical foods for rare diseases or conditions.
+The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, (3) defraying the costs of developing medical foods for rare diseases or conditions, and (4) developing regulatory science pertaining to the chemistry, manufacturing, and controls of individualized medical products to treat individuals with rare diseases or conditions.
 
 #### (b) Definitions ####
 
@@ -30,9 +30,9 @@ For purposes of subsection (a):
 
 #### (c) Authorization of appropriations ####
 
-For grants and contracts under subsection (a), there is authorized to be appropriated $6,904,110 for the period beginning on October 1, 2022 and ending on December 23, 2022.
+For grants and contracts under subsection (a), there is authorized to be appropriated $6,904,110 for the period beginning on October 1, 2022 and ending on December 23, 2022.<sup><a href="#360ee_1_target" name="360ee_1">1</a></sup>
 
-(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048; Pub. L. 117–180, div. F, title V, §5006, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §307, Dec. 16, 2022, 136 Stat. 2312.)
+(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048; Pub. L. 117–180, div. F, title V, §5006, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §307, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–328, div. FF, title III, §3107, Dec. 29, 2022, 136 Stat. 5808.)
 
 #### **Editorial Notes** ####
 
@@ -42,7 +42,11 @@ Section was enacted as part of the Orphan Drug Act, and not as part of the Feder
 
 #### Amendments ####
 
-**2022**—Subsec. (c). Pub. L. 117–229 substituted "$6,904,110 for the period beginning on October 1, 2022 and ending on December 23, 2022" for "$6,328,767 for the period beginning on October 1, 2022, and ending on December 16, 2022".
+**2022**—Subsec. (a)(4). Pub. L. 117–328, §3107(1), added par. (4).
+
+Subsec. (c). Pub. L. 117–328, §3107(2), which directed the substitution of "$30,000,000 for each of fiscal years 2023 through 2027" for "$6,328,767 for the period beginning on October 1, 2022, and ending on December 23, 2022", could not be executed because "$6,328,767" did not appear after the intervening amendment by Pub. L. 117–229. See below.
+
+Pub. L. 117–229 substituted "$6,904,110 for the period beginning on October 1, 2022 and ending on December 23, 2022" for "$6,328,767 for the period beginning on October 1, 2022, and ending on December 16, 2022".
 
 Pub. L. 117–180 substituted "$6,328,767 for the period beginning on October 1, 2022, and ending on December 16, 2022" for "$30,000,000 for each of fiscal years 2018 through 2022".
 
@@ -149,3 +153,5 @@ Pub. L. 107–281, §2, Nov. 6, 2002, 116 Stat. 1992, provided that:
 "(7) The Food and Drug Administration supports small clinical trials through Orphan Products Research Grants. Such grants embody successful partnerships of government and industry, and have led to the development of at least 23 drugs and four medical devices for rare diseases and disorders. Yet the appropriations in fiscal year 2001 for such grants were less than in fiscal year 1995.
 
 "(b) Purposes.—The purpose of this Act [see Short Title of 2002 Amendments note set out under section 301 of this title] is to increase the national investment in the development of diagnostics and treatments for patients with rare diseases and disorders."
+
+[<sup>1</sup> See 2022 Amendment notes below.](#360ee_1)

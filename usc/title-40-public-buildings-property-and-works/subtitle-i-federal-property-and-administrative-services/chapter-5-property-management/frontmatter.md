@@ -56,6 +56,8 @@ Sec.
 
 549. Donation of personal property through state agencies.
 
+549a. Donation of personal property through nonprofit refurbishers.
+
 550. Disposal of real property for certain purposes.
 
 551. Donations to American Red Cross.
@@ -151,5 +153,7 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. Z, §103(b), Dec. 29, 2022, 136 Stat. 5527, added item 549a.
 
 **2016**—Pub. L. 114–318, §3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.

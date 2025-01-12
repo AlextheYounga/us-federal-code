@@ -118,7 +118,7 @@ Pub. L. 104–191, title II, §244(b), Aug. 21, 1996, 110 Stat. 2017, added item
 
 **1982**—Pub. L. 97–398, §3, Dec. 31, 1982, 96 Stat. 2010, added item 1028.
 
-**1974**—Pub. L. 93–406, title I, §111(a)(2)(B)(iii), Sept. 2, 1974, 88 Stat. 852, substituted "Employee Retirement Income Security Act of 1974" for "Welfare and Pension Plans Disclosure Act" in item 1027.
+**1974**—Pub. L. 93–406, title I, §112(a)(2)(B)(iii), formerly §111(a)(2)(B)(iii), Sept. 2, 1974, 88 Stat. 852, renumbered §112(a)(2)(B)(iii), Pub. L. 117–328, div. T, title III, §320(a)(1), Dec. 29, 2022, 136 Stat. 5354, substituted "Employee Retirement Income Security Act of 1974" for "Welfare and Pension Plans Disclosure Act" in item 1027.
 
 **1967**—Pub. L. 90–19, §24(e), May 25, 1967, 81 Stat. 28, included "Department of Housing and Urban Development" in item 1010, and substituted the same for "Public Housing Administration" in item 1012.
 

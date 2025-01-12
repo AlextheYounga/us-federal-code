@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 107–107, §617(b)(3), inserted heading and substituted "p
 
 **1991**—Pub. L. 102–25 struck out "of this section" and "of this subsection" wherever appearing in subsecs. (a) and (d).
 
-Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–5 in two places.
+Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–⁠5 in two places.
 
 **1990**—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: "The Secretary of Defense shall report to the Congress before January 1 each year—
 

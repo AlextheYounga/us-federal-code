@@ -92,7 +92,7 @@ Subject to paragraph (2), the term "targeted low-income child" means a child—
 
 Such term does not include—
 
-(A) a child who is an inmate of a public institution or a patient in an institution for mental diseases; or
+(A) except as provided in paragraph (7), a child who is an inmate of a public institution or a patient in an institution for mental diseases; or
 
 (B) except as provided in paragraph (6), a child who is a member of a family that is eligible for health benefits coverage under a State health benefits plan on the basis of a family member's employment with a public agency in the State.
 
@@ -153,6 +153,10 @@ For purposes of subparagraph (A)(i), a public agency satisfies this subparagraph
 #### (C) Hardship exception ####
 
 For purposes of subparagraph (A)(ii), this subparagraph applies to a child if the State determines that the annual aggregate amount of premiums and cost-sharing imposed for coverage of the family of the child would exceed 5 percent of such family's income for the year involved.
+
+#### (7) Exception to exclusion of children who are inmates of a public institution ####
+
+In the case of a child who is an inmate of a public institution, during the 30 days prior to the release of the child from such institution the child shall not be considered to be described in paragraph (2)(A) with respect to the screenings, diagnostic services, referrals, and case management services otherwise covered under the State child health plan (or waiver of such plan) that the State is required to provide under section 1397bb(d)(2) of this title.
 
 #### (c) Additional definitions ####
 
@@ -222,7 +226,21 @@ For purposes of subparagraph (A)(iii), the term "sponsoring facility" includes a
 
 (vi) A program administered by the Indian Health Service or the Bureau of Indian Affairs or operated by an Indian tribe or a tribal organization.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189; Pub. L. 115–271, title V, §5022(b)(2)(B), (C), Oct. 24, 2018, 132 Stat. 3964.)
+(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189; Pub. L. 115–271, title V, §5022(b)(2)(B), (C), Oct. 24, 2018, 132 Stat. 3964; Pub. L. 117–328, div. FF, title V, §§5121(c)(2), 5122(b), Dec. 29, 2022, 136 Stat. 5943, 5944.)
+
+#### Applicability of Amendment ####
+
+Amendment of section by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022. See 2022 Amendment notes below.
+
+#### Amendment of Subsection (b)(7) ####
+
+Pub. L. 117–328, div. FF, title V, §5122(b), (c), Dec. 29, 2022, 136 Stat. 5944, provided that, effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022 and applicable to items and services furnished for periods beginning on or after such date, subsection (b)(7) of this section is amended as follows:
+
+(1) in the heading, by striking "Exception" and inserting "Exceptions"; and
+
+(2) by adding at the end the following new sentence: "At the option of the State, a child who is an inmate of a public institution shall not be considered to be described in paragraph (2)(A) during the period that the child is an inmate of such institution pending disposition of charges."
+
+See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -231,6 +249,12 @@ For purposes of subparagraph (A)(iii), the term "sponsoring facility" includes a
 Section 2701 of the Public Health Service Act, referred to in subsec. (c)(2), (6), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (b)(2)(A). Pub. L. 117–328, §5121(c)(2)(A), inserted "except as provided in paragraph (7)," before "a child who is an inmate of a public institution".
+
+Subsec. (b)(7). Pub. L. 117–328, §5122(b), substituted "Exceptions" for "Exception" in heading and inserted in text at end "At the option of the State, a child who is an inmate of a public institution shall not be considered to be described in paragraph (2)(A) during the period that the child is an inmate of such institution pending disposition of charges."
+
+Pub. L. 117–328, §5121(c)(2)(B), added par. (7).
 
 **2018**—Subsec. (a)(18). Pub. L. 115–271, §5022(b)(2)(B)(i), substituted "substance use" for "substance abuse" in two places.
 
@@ -267,6 +291,12 @@ Subsec. (b)(4). Pub. L. 105–100, §162(3)(B), substituted "March 31, 1997" for
 Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to reference in original act which appears in text as reference to section 300gg–91 of this title.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by section 5121(c)(2) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022, see section 5121(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
+
+Amendment by section 5122(b) of Pub. L. 117–328 effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022 and applicable to items and services furnished for periods beginning on or after such date, see section 5122(c) of Pub. L. 117–328, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2018 Amendment ####
 

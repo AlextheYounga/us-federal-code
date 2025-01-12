@@ -150,6 +150,108 @@ The Commission, by rule, may prescribe reasonable fees and charges to defray its
 
 (vi) Subsections (d), (e), (f), (g), (h), and (i) <sup><a href="#78o_3_target" name="78o_3">3</a></sup> of section 78q of this title.
 
+(13) Registration exemption for merger and acquisition brokers.—
+
+(A) In general.—Except as provided in subparagraph (B), an M&A broker shall be exempt from registration under this section.
+
+(B) Excluded activities.—An M&A broker is not exempt from registration under this paragraph if such broker does any of the following:
+
+(i) Directly or indirectly, in connection with the transfer of ownership of an eligible privately held company, receives, holds, transmits, or has custody of the funds or securities to be exchanged by the parties to the transaction.
+
+(ii) Engages on behalf of an issuer in a public offering of any class of securities that is registered, or is required to be registered, with the Commission under section 78l of this title or with respect to which the issuer files, or is required to file, periodic information, documents, and reports under subsection (d).
+
+(iii) Engages on behalf of any party in a transaction involving a shell company, other than a business combination related shell company.
+
+(iv) Directly, or indirectly through any of its affiliates, provides financing related to the transfer of ownership of an eligible privately held company.
+
+(v) Assists any party to obtain financing from an unaffiliated third party without—
+
+(I) complying with all other applicable laws in connection with such assistance, including, if applicable, Regulation T (12 C.F.R. 220 et seq.); and
+
+(II) disclosing any compensation in writing to the party.
+
+(vi) Represents both the buyer and the seller in the same transaction without providing clear written disclosure as to the parties the broker represents and obtaining written consent from both parties to the joint representation.
+
+(vii) Facilitates a transaction with a group of buyers formed with the assistance of the M&A broker to acquire the eligible privately held company.
+
+(viii) Engages in a transaction involving the transfer of ownership of an eligible privately held company to a passive buyer or group of passive buyers.
+
+(ix) Binds a party to a transfer of ownership of an eligible privately held company.
+
+(C) Disqualification.—An M&A broker is not exempt from registration under this paragraph if such broker (and if and as applicable, including any officer, director, member, manager, partner, or employee of such broker)—
+
+(i) has been barred from association with a broker or dealer by the Commission, any State, or any self-regulatory organization; or
+
+(ii) is suspended from association with a broker or dealer.
+
+(D) Rule of construction.—Nothing in this paragraph shall be construed to limit any other authority of the Commission to exempt any person, or any class of persons, from any provision of this chapter, or from any provision of any rule or regulation thereunder.
+
+(E) Definitions.—In this paragraph:
+
+(i) Business combination related shell company.—The term "business combination related shell company" means a shell company that is formed by an entity that is not a shell company—
+
+(I) solely for the purpose of changing the corporate domicile of that entity solely within the United States; or
+
+(II) solely for the purpose of completing a business combination transaction (as defined under section 230.165(f) of title 17, Code of Federal Regulations) among one or more entities other than the company itself, none of which is a shell company.
+
+(ii) Control.—The term "control" means the power, directly or indirectly, to direct the management or policies of a company, whether through ownership of securities, by contract, or otherwise. There is a presumption of control if, upon completion of a transaction, the buyer or group of buyers—
+
+(I) has the right to vote 25 percent or more of a class of voting securities or the power to sell or direct the sale of 25 percent or more of a class of voting securities; or
+
+(II) in the case of a partnership or limited liability company, has the right to receive upon dissolution, or has contributed, 25 percent or more of the capital.
+
+(iii) Eligible privately held company.—The term "eligible privately held company" means a privately held company that meets both of the following conditions:
+
+(I) The company does not have any class of securities registered, or required to be registered, with the Commission under section 78l of this title or with respect to which the company files, or is required to file, periodic information, documents, and reports under subsection (d).
+
+(II) In the fiscal year ending immediately before the fiscal year in which the services of the M&A broker are initially engaged with respect to the securities transaction, the company meets either or both of the following conditions (determined in accordance with the historical financial accounting records of the company):
+
+(aa) The earnings of the company before interest, taxes, depreciation, and amortization are less than $25,000,000.
+
+(bb) The gross revenues of the company are less than $250,000,000.
+
+ For purposes of this subclause, the Commission may by rule modify the dollar figures if the Commission determines that such a modification is necessary or appropriate in the public interest or for the protection of investors.
+
+(iv) M&A broker.—The term "M&A broker" means a broker, and any person associated with a broker, engaged in the business of effecting securities transactions solely in connection with the transfer of ownership of an eligible privately held company, regardless of whether the broker acts on behalf of a seller or buyer, through the purchase, sale, exchange, issuance, repurchase, or redemption of, or a business combination involving, securities or assets of the eligible privately held company, if the broker reasonably believes that—
+
+(I) upon consummation of the transaction, any person acquiring securities or assets of the eligible privately held company, acting alone or in concert—
+
+(aa) will control the eligible privately held company or the business conducted with the assets of the eligible privately held company; and
+
+(bb) directly or indirectly, will be active in the management of the eligible privately held company or the business conducted with the assets of the eligible privately held company, including without limitation, for example, by—
+
+(AA) electing executive officers;
+
+(BB) approving the annual budget;
+
+(CC) serving as an executive or other executive manager; or
+
+(DD) carrying out such other activities as the Commission may, by rule, determine to be in the public interest; and
+
+(II) if any person is offered securities in exchange for securities or assets of the eligible privately held company, such person will, prior to becoming legally bound to consummate the transaction, receive or have reasonable access to the most recent fiscal year-end financial statements of the issuer of the securities as customarily prepared by the management of the issuer in the normal course of operations and, if the financial statements of the issuer are audited, reviewed, or compiled, any related statement by the independent accountant, a balance sheet dated not more than 120 days before the date of the offer, and information pertaining to the management, business, results of operations for the period covered by the foregoing financial statements, and material loss contingencies of the issuer.
+
+(v) Shell company.—The term "shell company" means a company that at the time of a transaction with an eligible privately held company—
+
+(I) has no or nominal operations; and
+
+(II) has—
+
+(aa) no or nominal assets;
+
+(bb) assets consisting solely of cash and cash equivalents; or
+
+(cc) assets consisting of any amount of cash and cash equivalents and nominal other assets.
+
+(F) Inflation adjustment.—
+
+(i) In general.—On the date that is 5 years after December 29, 2022, and every 5 years thereafter, each dollar amount in subparagraph (E)(iii)(II) shall be adjusted by—
+
+(I) dividing the annual value of the Employment Cost Index For Wages and Salaries, Private Industry Workers (or any successor index), as published by the Bureau of Labor Statistics, for the calendar year preceding the calendar year in which the adjustment is being made by the annual value of such index (or successor) for the calendar year ending December 31, 2020; and
+
+(II) multiplying such dollar amount by the quotient obtained under subclause (I).
+
+(ii) Rounding.—Each dollar amount determined under clause (i) shall be rounded to the nearest multiple of $100,000.
+
 #### (c) Use of manipulative or deceptive devices; contravention of rules and regulations ####
 
 (1)(A) No broker or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security (other than commercial paper, bankers' acceptances, or commercial bills), or any security-based swap agreement by means of any manipulative, deceptive, or other fraudulent device or contrivance.
@@ -474,13 +576,13 @@ Any documents or information designated under a rule promulgated under paragraph
 
 The Commission, by rule, may prohibit, or impose conditions or limitations on the use of, agreements that require customers or clients of any broker, dealer, or municipal securities dealer to arbitrate any future dispute between them arising under the Federal securities laws, the rules and regulations thereunder, or the rules of a self-regulatory organization if it finds that such prohibition, imposition of conditions, or limitations are in the public interest and for the protection of investors.
 
-(June 6, 1934, ch. 404, title I, §15, 48 Stat. 895; May 27, 1936, ch. 462, §3, 49 Stat. 1377; June 25, 1938, ch. 677, §2, 52 Stat. 1075; Pub. L. 88–467, §6, Aug. 20, 1964, 78 Stat. 570; Pub. L. 91–598, §11(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1653, renumbered §11(d), Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; Pub. L. 94–29, §11, June 4, 1975, 89 Stat. 121; Pub. L. 95–213, title II, §204, Dec. 19, 1977, 91 Stat. 1500; Pub. L. 98–38, §3(a), June 6, 1983, 97 Stat. 206; Pub. L. 98–376, §§4, 6(b), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 99–571, title I, §102(e), (f), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 100–181, title III, §317, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–704, §3(b)(1), Nov. 19, 1988, 102 Stat. 4679; Pub. L. 101–429, title V, §§504(a), 505, Oct. 15, 1990, 104 Stat. 952, 953; Pub. L. 101–550, title II, §203(a), (c)(1), Nov. 15, 1990, 104 Stat. 2715, 2718; Pub. L. 103–202, title I, §§105, 106(b)(2)(B), 109(b)(2), 110, Dec. 17, 1993, 107 Stat. 2348, 2350, 2353; Pub. L. 104–67, title I, §103(a), Dec. 22, 1995, 109 Stat. 756; Pub. L. 104–290, title I, §103(a), Oct. 11, 1996, 110 Stat. 3420; Pub. L. 105–353, title III, §301(b)(8), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §205, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(a)(1), (b), 206(h), title III, §303(e), (f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–421, 2763A–422, 2763A–432, 2763A–454, 2763A–455; Pub. L. 107–204, title VI, §604(a), (c)(1)(B), July 30, 2002, 116 Stat. 795, 796; Pub. L. 109–291, §4(b)(1)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title I, §173(c), title VII, §§713(a), 762(d)(4), 766(d), title IX, §§913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), 975(g), 985(b)(5)(A), July 21, 2010, 124 Stat. 1440, 1646, 1761, 1799, 1828, 1829, 1837, 1841, 1850, 1861, 1870, 1896, 1923, 1933; Pub. L. 112–106, title III, §305(d)(1), title VI, §601(b), Apr. 5, 2012, 126 Stat. 323, 326; Pub. L. 114–94, div. G, title LXXXV, §85001(2), Dec. 4, 2015, 129 Stat. 1797.)
+(June 6, 1934, ch. 404, title I, §15, 48 Stat. 895; May 27, 1936, ch. 462, §3, 49 Stat. 1377; June 25, 1938, ch. 677, §2, 52 Stat. 1075; Pub. L. 88–467, §6, Aug. 20, 1964, 78 Stat. 570; Pub. L. 91–598, §11(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1653, renumbered §11(d), Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; Pub. L. 94–29, §11, June 4, 1975, 89 Stat. 121; Pub. L. 95–213, title II, §204, Dec. 19, 1977, 91 Stat. 1500; Pub. L. 98–38, §3(a), June 6, 1983, 97 Stat. 206; Pub. L. 98–376, §§4, 6(b), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 99–571, title I, §102(e), (f), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 100–181, title III, §317, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–704, §3(b)(1), Nov. 19, 1988, 102 Stat. 4679; Pub. L. 101–429, title V, §§504(a), 505, Oct. 15, 1990, 104 Stat. 952, 953; Pub. L. 101–550, title II, §203(a), (c)(1), Nov. 15, 1990, 104 Stat. 2715, 2718; Pub. L. 103–202, title I, §§105, 106(b)(2)(B), 109(b)(2), 110, Dec. 17, 1993, 107 Stat. 2348, 2350, 2353; Pub. L. 104–67, title I, §103(a), Dec. 22, 1995, 109 Stat. 756; Pub. L. 104–290, title I, §103(a), Oct. 11, 1996, 110 Stat. 3420; Pub. L. 105–353, title III, §301(b)(8), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §205, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(a)(1), (b), 206(h), title III, §303(e), (f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–421, 2763A–422, 2763A–432, 2763A–454, 2763A–455; Pub. L. 107–204, title VI, §604(a), (c)(1)(B), July 30, 2002, 116 Stat. 795, 796; Pub. L. 109–291, §4(b)(1)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title I, §173(c), title VII, §§713(a), 762(d)(4), 766(d), title IX, §§913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), 975(g), 985(b)(5)(A), July 21, 2010, 124 Stat. 1440, 1646, 1761, 1799, 1828, 1829, 1837, 1841, 1850, 1861, 1870, 1896, 1923, 1933; Pub. L. 112–106, title III, §305(d)(1), title VI, §601(b), Apr. 5, 2012, 126 Stat. 323, 326; Pub. L. 114–94, div. G, title LXXXV, §85001(2), Dec. 4, 2015, 129 Stat. 1797; Pub. L. 117–328, div. AA, title V, §501(a), Dec. 29, 2022, 136 Stat. 5538.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (b)(2)(B), (C), (3), (4)(A), (D), (E), (11)(B), (12)(B), (c)(3)(B), (8), (f), (g), and (i)(1), was in the original "this title", and this chapter, referred to in subsecs. (k)(1) and (m), was in the original "this Act". See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (b)(2)(B), (C), (3), (4)(A), (D), (E), (11)(B), (12)(B), (13)(D), (c)(3)(B), (8), (f), (g), and (i)(1), was in the original "this title", and this chapter, referred to in subsecs. (k)(1) and (m), was in the original "this Act". See References in Text note set out under section 78a of this title.
 
 The Commodity Exchange Act, referred to in subsecs. (b)(4)(B)(ii), (C) to (E) and (c)(3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -495,6 +597,8 @@ Subsection (i) of section 78q of this title, referred to in subsec. (b)(11)(B)(v
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (j)(6)(A)(ii), (iii), is section 206 of Pub. L. 106–102, which is set out as a note under section 78c of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (b)(13). Pub. L. 117–328 added par. (13).
 
 **2015**—Subsec. (d). Pub. L. 114–94 substituted "case of a bank, a savings and loan holding company (as defined in section 1467a of title 12)," for "case of bank".
 
@@ -689,6 +793,10 @@ Subsec. (d). Pub. L. 88–467, §6(d), substituted provisions which require ever
 **1936**—Act May 27, 1936, amended section generally.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–328, div. AA, title V, §501(b), Dec. 29, 2022, 136 Stat. 5542, provided that: "This section [amending this section] and any amendment made by this section shall take effect on the date that is 90 days after the date of enactment of this Act [Dec. 29, 2022]."
 
 #### Effective Date of 2010 Amendment ####
 

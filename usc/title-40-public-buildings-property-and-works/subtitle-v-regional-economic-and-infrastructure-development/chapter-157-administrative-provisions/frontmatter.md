@@ -22,6 +22,8 @@ Sec.
 
 15733. Northern Border Regional Commission.
 
+15734. Great Lakes Authority.
+
 #### SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS ####
 
 15751. Authorization of appropriations.
@@ -29,5 +31,7 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–328, div. O, title IV, §401(b)(2), Dec. 29, 2022, 136 Stat. 5228, which directed amendment of the analysis for subchapter II of this chapter by adding item 15734 at the end, was executed by adding item 15734 to the analysis for this chapter to reflect the probable intent of Congress.
 
 **2018**—Pub. L. 115–334, title VI, §6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 4 of subtitle V of this title as chapter 157 of this title.

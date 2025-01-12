@@ -18,6 +18,8 @@ Sec.
 
 2016. Issuance and use of program benefits.
 
+2016a. EBT benefit fraud prevention.
+
 2017. Value of allotment.
 
 2018. Approval of retail food stores and wholesale food concerns.

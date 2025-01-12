@@ -2,7 +2,7 @@
 
 #### (a) Limitations on authorization of appropriations ####
 
-In addition to any amount appropriated pursuant to section 629f of this title, there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2021.
+In addition to any amount appropriated pursuant to section 629f of this title, there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2023.
 
 #### (b) Reservation of certain amounts ####
 
@@ -106,7 +106,7 @@ If an Indian tribe or tribal consortium enters into a regional partnership for p
 
 #### (A) In general ####
 
-In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2017 through 2021 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
+In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2017 through 2023 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
 
 #### (B) Required minimum period of approval; planning ####
 
@@ -246,7 +246,7 @@ On the basis of the reports submitted under subparagraph (A), the Secretary annu
 
 #### (10) Limitation on use of funds for administrative expenses of the Secretary ####
 
-Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2017 through 2021 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
+Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2017 through 2023 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
 
 #### (g) Funding for the development of an electronic interstate case-processing system to expedite the interstate placement of children in foster care or guardianship, or for adoption ####
 
@@ -304,7 +304,7 @@ The Secretary, in consultation with the Secretariat for the Interstate Compact o
 
 (C) improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263.)
+(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263; Pub. L. 117–328, div. FF, title VI, §6103(b)(2)–(4), Dec. 29, 2022, 136 Stat. 5965.)
 
 #### **Editorial Notes** ####
 
@@ -321,6 +321,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2022**—Subsecs. (a), (f)(3)(A), (10). Pub. L. 117–328 substituted "2023" for "2021".
 
 **2018**—Subsec. (a). Pub. L. 115–123, §50752(b)(2), substituted "2017 through 2021" for "2012 through 2016".
 

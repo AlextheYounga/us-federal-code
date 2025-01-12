@@ -356,7 +356,7 @@ The Secretary, in consultation with the committee referred to in paragraph (1), 
 
 (H) an annual summary of labeling changes made as a result of assessments conducted under this section for distribution pursuant to subsection (h)(2);
 
-(I) an annual summary of information submitted pursuant to subsection (a)(3)(B); and
+(I) an annual summary of information submitted pursuant to subsection (a)(4)(C); and
 
 (J) the number of times the committee referred to in paragraph (1) made a recommendation to the Secretary under paragraph (4) regarding priority review, the number of times the Secretary followed or did not follow such a recommendation, and, if not followed, the reasons why such a recommendation was not followed.
 
@@ -474,11 +474,13 @@ Nothing in paragraph (1) shall be construed—
 
 (B) to authorize the disclosure of confidential commercial information, as prohibited under section 331(j) of this title or section 1905 of title 18.
 
-(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156; Pub. L. 115–52, title V, §§503–504(b), 505(e), Aug. 18, 2017, 131 Stat. 1038–1041, 1047.)
+(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156; Pub. L. 115–52, title V, §§503–504(b), 505(e), Aug. 18, 2017, 131 Stat. 1038–1041, 1047; Pub. L. 117–328, div. FF, title II, §2515(c), Dec. 29, 2022, 136 Stat. 5806.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (f)(6)(I). Pub. L. 117–328 substituted "subsection (a)(4)(C)" for "subsection (a)(3)(B)".
 
 **2017**—Subsec. (a)(1). Pub. L. 115–52, §504(a)(1)(A), designated existing provisions as subpar. (A) and inserted heading, substituted "Except with respect to an application for which subparagraph (B) applies, a person" for "A person", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted "; or" for ", or" at end of subpar. (A)(i), and added subpar. (B).
 

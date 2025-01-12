@@ -44,7 +44,7 @@ If a person fails to submit information required under subsection (a) in accorda
 
 #### (f) Expedited inspections and reviews ####
 
-If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a shortage of an <sup><a href="#356j_1_target" name="356j_1">1</a></sup> device, the Secretary shall, as appropriate—
+If, based on notifications described in subsection (a) or (h) or any other relevant information, the Secretary concludes that there is, or is likely to be, a shortage of an <sup><a href="#356j_1_target" name="356j_1">1</a></sup> device, the Secretary shall, as appropriate—
 
 (1) prioritize and expedite the review of a submission under section 360c(f)(2) of this title, 360e of this title, review of a notification under section 360(k) of this title, or 360j(m) of this title for a device that could help mitigate or prevent such shortage; or
 
@@ -98,11 +98,15 @@ Nothing in this subsection shall be construed to alter or amend section 1905 of 
 
 The Secretary may elect not to make information collected under this subsection publicly available if the Secretary determines that disclosure of such information would adversely affect the public health (such as by increasing the possibility of hoarding or other disruption of the availability of the device to patients).
 
-#### (h) Rule of construction ####
+#### (h) Additional notifications ####
+
+The Secretary may receive voluntary notifications from a manufacturer of a device that is life-supporting, life-sustaining, or intended for use in emergency medical care or during surgery, or any other device the Secretary determines to be critical to the public health, pertaining to a permanent discontinuance in the manufacture of the device (except for any discontinuance as a result of an approved modification of the device) or an interruption of the manufacture of the device that is likely to lead to a meaningful disruption in the supply of that device in the United States, and the reasons for such discontinuance or interruption.
+
+#### (i) Rule of construction ####
 
 Nothing in this section shall be construed to affect the authority of the Secretary on March 27, 2020, to expedite the review of devices under section 360e of this title, section 360e–3 of this title relating to the priority review program for devices, and section 360bbb–3 of this title relating to the emergency use authorization authorities.
 
-#### (i) Definitions ####
+#### (j) Definitions ####
 
 In this section:
 
@@ -122,6 +126,24 @@ The term "meaningful disruption"—
 
 The term "shortage", with respect to a device, means a period of time when the demand or projected demand for the device within the United States exceeds the supply of the device.
 
-(June 25, 1938, ch. 675, §506J, as added Pub. L. 116–136, div. A, title III, §3121, Mar. 27, 2020, 134 Stat. 363.)
+(June 25, 1938, ch. 675, §506J, as added Pub. L. 116–136, div. A, title III, §3121, Mar. 27, 2020, 134 Stat. 363; amended Pub. L. 117–328, div. FF, title II, §2514(a), Dec. 29, 2022, 136 Stat. 5805.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (f). Pub. L. 117–328, §2514(a)(1), inserted "or (h)" after "subsection (a)" in introductory provisions.
+
+Subsecs. (h) to (j). Pub. L. 117–328, §2514(a)(2), (3), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Guidance on Voluntary Notifications of Discontinuance or Interruption of Device Manufacture ####
+
+Pub. L. 117–328, div. FF, title II, §2514(b), Dec. 29, 2022, 136 Stat. 5806, provided that: "Not later than 1 year after the date of enactment of this Act [Dec. 29, 2022], the Secretary shall issue draft guidance to facilitate voluntary notifications under subsection (h) of section 506J of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356j), as added by subsection (a). Such guidance shall include a description of circumstances in which a voluntary notification under such subsection (h) may be appropriate, recommended timeframes for such a notification, the process for receiving such a notification, and actions the Secretary may take to mitigate or prevent a shortage resulting from a discontinuance or interruption in the manufacture of a device for which such notification is received. The Secretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance."
+
+#### Guidance on Device Shortage Notification Requirement ####
+
+Pub. L. 117–328, div. FF, title II, §2514(c), Dec. 29, 2022, 136 Stat. 5806, provided that: "Not later than 1 year after the date of enactment of this Act [Dec. 29, 2022], the Secretary shall issue or revise draft guidance regarding requirements under section 506J of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356j). Such guidance shall include a list of each device product code for which a manufacturer of such device is required to notify the Secretary in accordance with section 506J."
 
 [<sup>1</sup> So in original. Probably should be "a".](#356j_1)

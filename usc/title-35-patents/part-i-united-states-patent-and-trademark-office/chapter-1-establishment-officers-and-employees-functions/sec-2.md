@@ -122,6 +122,48 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
+#### Updates to the Patent Pro Bono Programs ####
+
+Pub. L. 117–328, div. W, §105, Dec. 29, 2022, 136 Stat. 5520, provided that:
+
+"(a) Study and Updates.—
+
+"(1) In general.—Not later than 1 year after the date of enactment of this Act [Dec. 29, 2022], the Director shall—
+
+"(A) complete a study of the patent pro bono programs; and
+
+"(B) submit the results of the study required under subparagraph (A) to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+
+"(2) Scope of the study.—The study required under paragraph (1)(A) shall—
+
+"(A) assess—
+
+"(i) whether the patent pro bono programs, as in effect on the date on which the study is commenced, are sufficiently serving prospective and existing participants;
+
+"(ii) whether the patent pro bono programs are sufficiently funded to serve prospective participants;
+
+"(iii) whether any participation requirement of the patent pro bono programs, including any requirement to demonstrate knowledge of the patent system, serves as a deterrent for prospective participants;
+
+"(iv) the degree to which prospective inventors are aware of the patent pro bono programs;
+
+"(v) what factors, if any, deter attorneys from participating in the patent pro bono programs;
+
+"(vi) whether the patent pro bono programs would be improved by expanding those programs to include non-attorney advocates; and
+
+"(vii) any other issue the Director determines appropriate; and
+
+"(B) make recommendations for such administrative and legislative action as may be appropriate.
+
+"(b) Use of Results.—Upon completion of the study required under subsection (a), the Director shall work with the Pro Bono Advisory Council, the operators of the patent pro bono programs, and intellectual property law associations across the United States to update the patent pro bono programs in response to the findings of the study.
+
+"(c) Expansion of Income Eligibility.—
+
+"(1) In general.—The Director shall work with and support, including by providing financial support to, existing patent pro bono programs and intellectual property law associations across the United States to expand eligibility for the patent pro bono programs to an individual living in a household, the gross household income of which is not more than 400 percent of the Federal poverty line.
+
+"(2) Rule of construction.—Nothing in paragraph (1) may be construed to prevent a patent pro bono program from electing to establish a higher eligibility level, as compared to the level described in that paragraph."
+
+[For definitions of terms used in section 105 of div. W of Pub. L. 117–328, set out above, see section 102 of div. W of Pub. L. 117–328, set out as a Definitions note under section 1 of this title.]
+
 #### Temporary Authority of Director of the USPTO During the COVID–19 Emergency ####
 
 Pub. L. 116–136, div. B, title II, §12004, Mar. 27, 2020, 134 Stat. 517, provided that:

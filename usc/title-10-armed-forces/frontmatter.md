@@ -1,6 +1,8 @@
 TITLE 10—ARMED FORCES
 ==========
 
+This title was enacted by act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1
+
 Subtitle Sec.
 
 A. General Military Law 101

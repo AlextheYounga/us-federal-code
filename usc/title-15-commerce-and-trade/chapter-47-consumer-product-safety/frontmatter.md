@@ -28,6 +28,8 @@ Sec.
 
 2056e. Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries.
 
+2056f. Consumer product safety standard to protect against tip-over of clothing storage units.
+
 2057. Banned hazardous products.
 
 2057a. Banning of butyl nitrite.
