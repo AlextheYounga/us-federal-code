@@ -24,6 +24,8 @@ Any agreement made pursuant to subsection (a) of this section to require the iss
 
 (Pub. L. 86–797, title II, §203, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1371; amended Pub. L. 100–653, title II, §201, Nov. 14, 1988, 102 Stat. 3826; Pub. L. 112–81, div. A, title III, §312(b)(9), Dec. 31, 2011, 125 Stat. 1354.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) and (b) and realigned margins of subsec. (b)(3).

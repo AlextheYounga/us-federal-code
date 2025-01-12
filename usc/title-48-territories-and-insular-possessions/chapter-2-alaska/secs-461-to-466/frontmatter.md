@@ -1,5 +1,7 @@
 ### §§461 to 466. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 461, acts May 14, 1898, ch. 299, §10, 30 Stat. 413; Mar. 3, 1927, ch. 323, 44 Stat. 1364; May 26, 1934, ch. 357, 48 Stat. 809; Aug. 23, 1958, Pub. L. 85–725, §3, 72 Stat. 730, which related to rights to purchase for trade or manufacture lands in the Territories, prescribed the price and limit of acreage, and limited the amount of land permitted to be purchased, was transferred to section 687a of Title 43, Public Lands, and was subsequently repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.

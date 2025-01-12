@@ -4,6 +4,8 @@ Bonds or other obligations of Puerto Rico or any municipal government therein, p
 
 (Aug. 13, 1935, ch. 516, 49 Stat. 611.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.

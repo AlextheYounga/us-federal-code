@@ -1,5 +1,7 @@
 ### §§1686, 1687. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1686, act July 31, 1953, ch. 298, title I, 67 Stat. 274, which prohibited new activity in the Trust Territory of the Pacific Islands requiring expenditures of Federal funds without specific prior approval of Congress, was not repeated in subsequent appropriation acts. Section was formerly classified to section 1439 of this title.

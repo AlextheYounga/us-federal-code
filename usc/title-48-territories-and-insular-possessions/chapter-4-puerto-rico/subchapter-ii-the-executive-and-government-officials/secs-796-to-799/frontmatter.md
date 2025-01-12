@@ -8,6 +8,8 @@ Section 798, acts Mar. 2, 1917, ch. 145, §50, 39 Stat. 967; June 7, 1924, ch. 3
 
 Section 799, act Mar. 2, 1917, ch. 145, §51, 39 Stat. 967, provided for payment of municipal expenses from municipal revenues.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 796 to 799 effective July 25, 1952, see note set out under section 732 of this title.

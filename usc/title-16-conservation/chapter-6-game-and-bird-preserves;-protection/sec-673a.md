@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized to accept, on behalf of and without 
 
 (Feb. 25, 1927, ch. 205, 44 Stat. 1246; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.

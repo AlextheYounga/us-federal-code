@@ -1,5 +1,7 @@
 ### §§366 to 367. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 366 to 367, which related to registers at land offices, were omitted in view of Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees, which abolished the office of land register and transferred its functions to the Secretary of the Interior.

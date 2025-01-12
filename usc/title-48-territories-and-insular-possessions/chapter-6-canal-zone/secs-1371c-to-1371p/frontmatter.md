@@ -28,6 +28,8 @@ Section 1371o, act Mar. 2, 1931, ch. 375, §16, 46 Stat. 1480, related to exempt
 
 Section 1371p, acts July 3, 1930, ch. 863, §2, 46 Stat. 1016; Mar. 2, 1931, ch. 375, §17, 46 Stat. 1480; Ex. Ord. No. 6670, eff. Apr. 7, 1934, related to effective date of these sections.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Apr. 1, 1948, see Act July 21, 1949, ch. 356, §7(a), 63 Stat. 476.

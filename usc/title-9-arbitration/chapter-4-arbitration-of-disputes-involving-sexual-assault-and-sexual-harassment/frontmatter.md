@@ -1,0 +1,7 @@
+### **CHAPTER 4—ARBITRATION OF DISPUTES INVOLVING SEXUAL ASSAULT AND SEXUAL HARASSMENT** ###
+
+Sec.
+
+401. Definitions.
+
+402. No validity or enforceability.

@@ -1,5 +1,7 @@
 ### §§537, 538. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 537 and 538, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

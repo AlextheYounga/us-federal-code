@@ -1,5 +1,7 @@
 ### §§631 to 633. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 631 to 633, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

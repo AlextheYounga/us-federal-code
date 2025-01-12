@@ -1,5 +1,7 @@
 ### §§473 to 484d. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 473 to 484d, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

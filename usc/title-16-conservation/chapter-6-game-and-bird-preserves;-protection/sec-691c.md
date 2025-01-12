@@ -4,6 +4,8 @@ The Secretary of the Interior may do all things and make all expenditures necess
 
 (June 12, 1930, ch. 469, §4, 46 Stat. 579; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.

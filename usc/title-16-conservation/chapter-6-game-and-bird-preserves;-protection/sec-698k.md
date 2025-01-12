@@ -8,6 +8,8 @@ Notwithstanding any other provision of law, before entering into any contract fo
 
 (Pub. L. 93–440, §6, Oct. 11, 1974, 88 Stat. 1260; Pub. L. 100–301, §3(d), Apr. 29, 1988, 102 Stat. 444.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–301 in cl. (i) inserted "(January 1, 1985, in the case of the Addition)" after "1972" and "and the Addition" after "preserve", and in cl. (ii) inserted "or within the Addition" after "preserve".

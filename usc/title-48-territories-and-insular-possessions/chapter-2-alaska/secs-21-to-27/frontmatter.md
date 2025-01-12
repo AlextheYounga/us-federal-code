@@ -1,5 +1,7 @@
 ### §§21 to 27. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 21 to 27, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

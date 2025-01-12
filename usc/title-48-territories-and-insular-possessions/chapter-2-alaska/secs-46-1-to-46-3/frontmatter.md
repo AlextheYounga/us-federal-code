@@ -1,5 +1,7 @@
 ### §§46–1 to 46–3. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 46–1 to 46–3, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

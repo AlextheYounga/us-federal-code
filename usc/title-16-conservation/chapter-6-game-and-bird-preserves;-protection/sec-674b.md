@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized to acquire, by purchase or otherwise
 
 (Mar. 3, 1931, ch. 439, §2, 46 Stat. 1509; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 116–94, div. P, title IV, §402(b), Dec. 20, 2019, 133 Stat. 3191.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–94 substituted "White Horse Hill National Game Preserve" for "Sullys Hill National Game Preserve" in text.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

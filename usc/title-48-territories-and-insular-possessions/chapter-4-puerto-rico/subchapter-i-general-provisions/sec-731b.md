@@ -4,9 +4,13 @@ Fully recognizing the principle of government by consent, sections 731b to 731e 
 
 (July 3, 1950, ch. 446, §1, 64 Stat. 319.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

@@ -18,6 +18,8 @@ Whenever an owner of property elects to retain a right of use and occupancy as p
 
 (Pub. L. 93–440, §3, Oct. 11, 1974, 88 Stat. 1259; Pub. L. 100–301, §4(f), Apr. 29, 1988, 102 Stat. 445.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (b)(i). Pub. L. 100–301, §4(f)(1), inserted "with respect to the preserve and January 1, 1986, with respect to the Addition" after "November 23, 1971,".

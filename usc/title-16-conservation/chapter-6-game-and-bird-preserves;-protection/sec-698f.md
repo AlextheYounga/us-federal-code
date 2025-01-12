@@ -24,6 +24,8 @@ The Secretary is authorized to acquire by donation, purchase with donated or app
 
 (Pub. L. 93–440, §1, Oct. 11, 1974, 88 Stat. 1258; Pub. L. 100–301, §4(a)–(e), Apr. 29, 1988, 102 Stat. 444, 445; Pub. L. 108–483, §2, Dec. 23, 2004, 118 Stat. 3920.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Subsec. (d)(3). Pub. L. 108–483 substituted "The amount described in paragraph (2)" for "The amount described in paragraph (1)".
@@ -37,6 +39,8 @@ Pub. L. 100–301, §4(c), inserted "or the Addition" after "land within the pre
 Pub. L. 100–301, §4(d), inserted at end "Nothing in sections 698f to 698m–4 of this title shall be construed to interfere with the right of the State of Florida to acquire such property rights as may be necessary for Interstate 75."
 
 Subsec. (d). Pub. L. 100–301, §4(a), added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1988 Amendment ####
 

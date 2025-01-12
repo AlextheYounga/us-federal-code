@@ -1,5 +1,7 @@
 ### §§1509 to 1512. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1509 to 1512, relating to Territory of Hawaii, were omitted in view of the admission of Hawaii into the Union. Sections were formerly classified to sections 83 to 86 of Title 8, Aliens and Nationality.

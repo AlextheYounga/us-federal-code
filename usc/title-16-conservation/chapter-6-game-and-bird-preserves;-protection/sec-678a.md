@@ -4,6 +4,8 @@ Subject to the conditions herein provided, mining locations may be made under th
 
 (June 24, 1948, ch. 611, §1, 62 Stat. 580; Oct. 6, 1949, ch. 620, §1, 63 Stat. 708.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Custer State Park Game Sanctuary" changed to "Norbeck Wildlife Preserve" by act Oct. 6, 1949.

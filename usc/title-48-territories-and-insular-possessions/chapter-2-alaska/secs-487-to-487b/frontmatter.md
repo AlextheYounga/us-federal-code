@@ -1,5 +1,7 @@
 ### §§487 to 487b. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 487, act Aug. 9, 1955, ch. 682, §1, 69 Stat. 618, which authorized Secretary to make investigations of projects for conservation, development, and utilization of water resources of Alaska, was transferred to section 1962d–12 of Title 42, The Public Health and Welfare.

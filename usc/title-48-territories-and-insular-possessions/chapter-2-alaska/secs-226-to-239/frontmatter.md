@@ -1,5 +1,7 @@
 ### §§226 to 239. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 226 to 239, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

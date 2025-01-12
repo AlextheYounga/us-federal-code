@@ -1,5 +1,7 @@
 ### §§175, 175a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 175 and 175a, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

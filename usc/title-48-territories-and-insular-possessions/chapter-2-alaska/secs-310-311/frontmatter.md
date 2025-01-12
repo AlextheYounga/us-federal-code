@@ -1,5 +1,7 @@
 ### §§310, 311. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 310 and 311, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

@@ -1,5 +1,7 @@
 ### §§471 to 471*o*. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 471, act Mar. 4, 1927, ch. 513, §1, 44 Stat. 1452, which declared Congressional policy towards grazing districts and privileges, was transferred to section 316 of Title 43, Public Lands.

@@ -1,5 +1,7 @@
 ### §§455 to 456h. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 455 to 456h, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

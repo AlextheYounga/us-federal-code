@@ -14,4 +14,10 @@ Sec.
 
 306. Applicable rules of Inter-American Commercial Arbitration Commission.
 
-307. Chapter 1; residual application.
+307. Application.
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Pub. L. 117–90, §2(b)(2)(B), Mar. 3, 2022, 136 Stat. 27, substituted "Application" for "Chapter 1; residual application" in item 307.

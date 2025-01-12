@@ -14,6 +14,8 @@ Sec.
 
 Alaska was admitted into the Union on January 3, 1959, on issuance of Proc. No. 3269, eff. Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, set out below, as required by sections 1 and 8(c) of the Alaska Statehood Law, Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out below.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Alaska Statehood ####
 
 Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, provided:
@@ -559,13 +561,11 @@ Pub. L. 88–451, Aug. 19, 1964, 78 Stat. 505, as amended, provided:
 
 "Sec. 7. [Report to the Congress.] The President shall report semiannually during the term of this Act to the President of the Senate and the Speaker of the House on the actions taken under this Act by the various Federal agencies. The first such report shall be submitted not later than February 1, 1965, and shall cover the period ending December 31, 1964."
 
+#### **Executive Documents** ####
+
 #### Delegation of Functions ####
 
 Ex. Ord. No. 11230, under which the functions of the President under sections 44(a) and 45(a) of the Alaska Omnibus Act of June 25, 1959, set out above, were delegated to the Director of the Bureau of the Budget [now the Director of Management and Budget], was superseded by Ex. Ord. No. 11609, eff. July 22, 1971, 36 F.R. 13747, set out under section 301 of Title 3.
-
-#### United States District Court of Alaska ####
-
-Readiness of United States District Court for District of Alaska to assume functions imposed upon it, see Ex. Ord. No. 10867, eff. Feb. 20, 1960, 25 F.R. 1584, set out under section 81A of Title 28, Judiciary and Judicial Procedure.
 
 #### Proc. No. 3269. Admission of the State of Alaska Into the Union ####
 
@@ -614,5 +614,9 @@ Sec. 3. The Secretary of the Interior is hereby authorized to redelegate to (1) 
 Sec. 4. All transfers and conveyances made under or pursuant to this order shall be made in accordance with such policies, conditions, and procedures as may be prescribed by the Secretary of the Interior.
 
 Dwight D. Eisenhower.
+
+#### United States District Court of Alaska ####
+
+Readiness of United States District Court for District of Alaska to assume functions imposed upon it, see Ex. Ord. No. 10867, eff. Feb. 20, 1960, 25 F.R. 1584, set out under section 81A of Title 28, Judiciary and Judicial Procedure.
 
 [<sup>1</sup> So in original. Probably should be "48 U.S.C.".](#CHAPTER2_1)

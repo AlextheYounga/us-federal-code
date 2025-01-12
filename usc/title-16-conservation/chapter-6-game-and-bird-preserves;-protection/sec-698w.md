@@ -22,6 +22,8 @@ The Secretary of the Interior shall permit hunting on lands within the Craters o
 
 (Pub. L. 107–213, §1, Aug. 21, 2002, 116 Stat. 1052.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Presidential Proclamation 7373, referred to in subsecs. (a) and (b)(1)(A), appears in the item for Craters of the Moon National Monument, Idaho, in the table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 320301 of Title 54, National Park Service and Related Programs.

@@ -1,5 +1,7 @@
 ### §§353a to 362. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 353a, act May 31, 1938, ch. 304, 52 Stat. 593, which authorized Secretary of the Interior to reserve tracts in Alaska for school, hospitals, etc. for the Indians, Eskimos, and Aleuts of Alaska, was transferred to section 497 of Title 25, Indians, and was subsequently repealed by Pub. L. 94–579, §704(a), Oct. 21, 1976, 90 Stat. 2792.

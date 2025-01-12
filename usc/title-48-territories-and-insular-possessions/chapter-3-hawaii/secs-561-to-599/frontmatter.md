@@ -1,5 +1,7 @@
 ### §§561 to 599. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 561 to 599, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

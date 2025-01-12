@@ -104,4 +104,4 @@ Repeal effective Jan. 1, 2022, with additional provisions for delayed implementa
 
 #### Trusted Supply ####
 
-Pub. L. 116–283, div. A, title VIII, §841(c), Jan. 1, 2021, 134 Stat. 3764, provided that: "The Secretary of Defense shall apply the requirements of section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2302 note [now 10 U.S.C. 4501 note prec.]) to the acquisition of covered printed circuit boards (as such term is defined under [former] section 2533d(c) of title 10, United States Code, as added by this section)."
+Pub. L. 116–283, div. A, title VIII, §841(c), Jan. 1, 2021, 134 Stat. 3764, provided that: "The Secretary of Defense shall apply the requirements of section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2302 note) to the acquisition of covered printed circuit boards (as such term is defined under [former] section 2533d(c) of title 10, United States Code, as added by this section)."

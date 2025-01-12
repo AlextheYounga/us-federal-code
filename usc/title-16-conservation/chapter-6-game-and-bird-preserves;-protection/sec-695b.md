@@ -4,6 +4,8 @@ Sections 715g to 715i and 715l to 715n of this title are made applicable for the
 
 (May 18, 1948, ch. 303, §3, 62 Stat. 239.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Migratory Bird Treaty Act of July 3, 1918, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II of chapter 7 (§703 et seq.) of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.

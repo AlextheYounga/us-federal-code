@@ -1,5 +1,7 @@
 ### §§1272 to 1272g. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1272 to 1272g of this title were transferred to section 1341 et seq. of Title 22, Foreign Relations and Intercourse, and were subsequently omitted from the Code.

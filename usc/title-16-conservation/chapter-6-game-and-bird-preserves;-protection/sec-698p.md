@@ -4,6 +4,8 @@ Any properties of historic interest acquired under section 698o of this title sh
 
 (Pub. L. 100–249, title II, §203, Feb. 16, 1988, 102 Stat. 15.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2 of the Act of September 21, 1950, referred to in text, is section 2 of act Sept. 21, 1950, ch. 973, 64 Stat. 897, which is not classified to the Code.

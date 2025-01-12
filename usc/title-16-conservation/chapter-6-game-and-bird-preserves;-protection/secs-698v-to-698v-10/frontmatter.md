@@ -24,6 +24,8 @@ Section 698v–10, Pub. L. 106–248, title I, §112, July 25, 2000, 114 Stat. 6
 
 See section 698v–11 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the termination of the Valles Caldera Trust, see section 698v–11(d)(1) of this title.

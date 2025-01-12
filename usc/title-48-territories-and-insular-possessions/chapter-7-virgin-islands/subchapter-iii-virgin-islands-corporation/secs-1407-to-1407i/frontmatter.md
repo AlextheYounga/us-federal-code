@@ -20,6 +20,8 @@ Section 1407h, acts June 30, 1949, ch. 285, §9, 63 Stat. 354; Sept. 2, 1958, Pu
 
 Section 1407i, act June 30, 1949, ch. 285, §10, 63 Stat. 355; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, related to transfer of functions, assets, and property of Virgin Islands Company to Corporation.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Act June 30, 1949, ch. 285, §14, 63 Stat. 356, which provided that act June 30, 1949, ch. 285 [see Short Title note below] become effective June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.

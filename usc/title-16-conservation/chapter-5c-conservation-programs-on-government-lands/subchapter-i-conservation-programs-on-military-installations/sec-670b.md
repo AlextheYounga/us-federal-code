@@ -10,6 +10,8 @@ Possession of a special permit for hunting migratory game birds issued pursuant 
 
 (Pub. L. 86–797, title I, §102, formerly §2, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, §102, and amended Pub. L. 93–452, §3(1), (3), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§2904(b)(5), 2913(5), Nov. 18, 1997, 111 Stat. 2018, 2022; Pub. L. 112–81, div. A, title III, §312(b)(2), Dec. 31, 2011, 125 Stat. 1353.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Migratory Bird Hunting Stamp Act, referred to in subsec. (b), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 452, as amended, which is classified generally to subchapter IV (§718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.

@@ -2,6 +2,12 @@
 
 Section, added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; amended Pub. L. 98–94, title XII, §1268(1), Sept. 24, 1983, 97 Stat. 705; Pub. L. 98–525, title XII, §1242(b), Oct. 19, 1984, 98 Stat. 2607; Pub. L. 99–145, title XIII, §1303(a)(2), Nov. 8, 1985, 99 Stat. 738; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(14), (g)(8), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) [title X, §961(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–176, and Pub. L. 99–591, §101(c) [title X, §961(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–176; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(b), Nov. 14, 1986, 100 Stat. 3956, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 101–510, div. A, title XIV, §1484(k)(10), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–484, div. A, title VIII, §817(d), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–35, title II, §201(i)(2), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title III, §§3002(a)(2), 3003, Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 105–85, div. A, title VIII, §833, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 108–375, div. A, title VIII, §801(a), (b)(1), Oct. 28, 2004, 118 Stat. 2004; Pub. L. 109–163, div. A, title VIII, §802(a)–(c), (d)(2), Jan. 6, 2006, 119 Stat. 3367–3370; Pub. L. 109–364, div. A, title II, §213(a), Oct. 17, 2006, 120 Stat. 2121; Pub. L. 110–181, div. A, title IX, §942(e), Jan. 28, 2008, 122 Stat. 288; Pub. L. 110–417, [div. A], title VIII, §811(c), Oct. 14, 2008, 122 Stat. 4522; Pub. L. 111–23, title II, §206(a)(3), May 22, 2009, 123 Stat. 1728; Pub. L. 111–84, div. A, title X, §1073(c)(4), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(34), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title XVIII, §1850(b)(1), (c), (d), (e)(1), (f), (g)(1), (h)(1), (i)(1), Jan. 1, 2021, 134 Stat. 4265–4269, related to unit cost reports. See sections 4371 to 4375 of this title.
 
+#### **Editorial Notes** ####
+
+#### Codification ####
+
+Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+
 #### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####

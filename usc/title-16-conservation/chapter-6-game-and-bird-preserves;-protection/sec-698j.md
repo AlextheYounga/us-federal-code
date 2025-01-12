@@ -4,6 +4,8 @@ The Secretary shall permit hunting, fishing, and trapping on lands and waters un
 
 (Pub. L. 93–440, §5, Oct. 11, 1974, 88 Stat. 1260; Pub. L. 100–301, §3(b), Apr. 29, 1988, 102 Stat. 444.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–301 inserted "and the Addition" in two places.

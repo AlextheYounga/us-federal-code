@@ -1,5 +1,7 @@
 ### §§61 to 64. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 61 to 64, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

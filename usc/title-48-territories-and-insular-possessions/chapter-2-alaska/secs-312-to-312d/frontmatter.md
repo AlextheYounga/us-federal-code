@@ -10,6 +10,8 @@ Section 312c, act July 31, 1950, ch. 510, §4, 64 Stat. 383, authorized and dire
 
 Section 312d, act July 31, 1950, ch. 510, §5, 64 Stat. 383, authorized Secretary to delegate the powers and functions given him in connection with the Eklutna project.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 2, 1997, date Eklutna was conveyed to Eklutna Purchasers, see section 104(g)(1) of Pub. L. 104–58, set out as an Alaska Power Administration Asset Sale and Termination note under section 7152 of Title 42, The Public Health and Welfare.

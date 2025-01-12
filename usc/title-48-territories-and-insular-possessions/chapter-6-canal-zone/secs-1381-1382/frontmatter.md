@@ -1,5 +1,7 @@
 ### §§1381, 1382. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1381, act July 2, 1940, ch. 516, §1, 54 Stat. 724, related to setting aside Barro Colorado Island in Gatun Lake for scientific observation, and was transferred to section 79 of Title 20, Education.

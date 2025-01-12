@@ -1,5 +1,7 @@
 ### §§338 to 338g. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 338 to 338g, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

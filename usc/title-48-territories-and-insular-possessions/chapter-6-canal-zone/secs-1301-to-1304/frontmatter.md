@@ -1,5 +1,7 @@
 ### §§1301 to 1304. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1301 to 1304 were omitted as not of general application and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.

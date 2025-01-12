@@ -14,6 +14,8 @@ Whenever an owner of property elects to retain a right of use and occupancy as p
 
 (Pub. L. 93–439, §3, Oct. 11, 1974, 88 Stat. 1256; Pub. L. 94–578, title III, §322, Oct. 21, 1976, 90 Stat. 2742.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Subsec. (b). Pub. L. 94–578 substituted "detached year-round one-family dwelling which serves as the owner's permanent place of abode at the time of acquisition, and" for "detached, one-family dwelling,".

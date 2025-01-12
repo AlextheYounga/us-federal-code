@@ -58,6 +58,8 @@ Agreements entered into by State agencies under the authority of this section sh
 
 (Pub. L. 86–797, title II, §202, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §4, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, §312(b)(8), Dec. 31, 2011, 125 Stat. 1354.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
@@ -71,6 +73,8 @@ In subsec. (d), "chapter 63 of title 31" substituted for "the Federal Grant and 
 **2011**—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) to (d).
 
 **1982**—Subsec. (d). Pub. L. 97–396 added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

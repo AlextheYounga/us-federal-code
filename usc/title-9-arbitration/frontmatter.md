@@ -11,9 +11,13 @@ Chap. Sec.
 
 3. Inter-American Convention on International Commercial Arbitration 301
 
+4. Arbitration of disputes involving sexual assault and sexual harassment 401
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–90, §2(b)(3), Mar. 3, 2022, 136 Stat. 27, added item for chapter 4.
 
 **1990**—Pub. L. 101–369, §2, Aug. 15, 1990, 104 Stat. 450, added item for chapter 3.
 

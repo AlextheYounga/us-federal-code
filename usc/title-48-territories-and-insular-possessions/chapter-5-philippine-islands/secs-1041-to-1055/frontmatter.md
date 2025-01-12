@@ -1,5 +1,7 @@
 ### §§1041 to 1055. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1041 to 1055 were omitted in view of recognition of Philippine independence.

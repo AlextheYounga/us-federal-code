@@ -278,9 +278,9 @@ The Director of the National Institutes of Health may provide facilities, utilit
 
 #### (l) Funding ####
 
-From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
+From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $1,250,000 and not more than $5,000,000 to the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(d)(4), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 112–144, title V, §509(f), July 9, 2012, 126 Stat. 1050.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(d)(4), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 112–144, title V, §509(f), July 9, 2012, 126 Stat. 1050; Pub. L. 117–101, §2(b), Mar. 15, 2022, 136 Stat. 47.)
 
 #### **Editorial Notes** ####
 
@@ -297,6 +297,8 @@ Section 284m of this title, referred to in subsec. (j)(9)(B)(iv), was amended ge
 A prior section 499 of act July 1, 1944, was classified to section 289h of this title prior to repeal by Pub. L. 103–43.
 
 #### Amendments ####
+
+**2022**—Subsec. (l). Pub. L. 117–101 substituted "$1,250,000 and not more than $5,000,000" for "$500,000 and not more than $1,250,000".
 
 **2012**—Subsec. (c)(1)(C). Pub. L. 112–144 struck out "for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21" before period at end.
 

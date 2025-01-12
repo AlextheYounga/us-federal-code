@@ -1,5 +1,7 @@
 ### §§1357, 1358. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1357, acts Aug. 24, 1912, ch. 390, §9, 37 Stat. 565; Sept. 21, 1922, ch. 370, §3, 42 Stat. 1006, related to blending of law and equity jurisdiction.

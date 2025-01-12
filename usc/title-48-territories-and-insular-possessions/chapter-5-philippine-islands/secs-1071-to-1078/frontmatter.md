@@ -1,5 +1,7 @@
 ### §§1071 to 1078. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1071 to 1078 were omitted in view of recognition of Philippine independence.

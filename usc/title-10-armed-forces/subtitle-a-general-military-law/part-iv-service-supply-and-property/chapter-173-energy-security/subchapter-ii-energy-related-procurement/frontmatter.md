@@ -20,7 +20,9 @@ Sec.
 
 2922h. Limitation on procurement of drop-in fuels.
 
-2922i. Multiyear contracts: purchase of electricity from renewable energy sources.
+#### Amendment of Analysis ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1879(b), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by adding at the end item 2922i "Multiyear contracts: purchase of electricity from renewable energy sources." See 2021 Amendment note below.
 
 #### **Editorial Notes** ####
 

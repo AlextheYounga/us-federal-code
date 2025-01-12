@@ -12,6 +12,8 @@ Section 1401d, acts May 26, 1936, ch. 450, §5, 49 Stat. 1372; June 30, 1949, ch
 
 Section 1401e, act May 26, 1936, ch. 450, §6, 49 Stat. 1373, related to exemptions from taxation and authority of municipalities to alter, amend, or repeal existing laws.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 110–40, §1(b), June 29, 2007, 121 Stat. 232, provided that: "This section [repealing sections 1401 to 1401e of this title] shall be deemed to have taken effect on July 22, 1954."

@@ -1,5 +1,7 @@
 ### §§531 to 535. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 531 to 535, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

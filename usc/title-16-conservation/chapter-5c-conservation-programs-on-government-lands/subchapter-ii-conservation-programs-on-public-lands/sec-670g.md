@@ -10,11 +10,15 @@ The Secretary of the Interior shall implement the conservation and rehabilitatio
 
 (Pub. L. 86–797, title II, §201, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §3, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, §312(b)(7), Dec. 31, 2011, 125 Stat. 1354.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) and (b).
 
 **1982**—Subsec. (a). Pub. L. 97–396 inserted "of fish, wildlife, and plants" after "species".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

@@ -7,3 +7,9 @@
 #### Derivation ####
 
 Act Feb. 12, 1925, ch. 213, §1, 43 Stat. 883.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–90, §1, Mar. 3, 2022, 136 Stat. 26, provided that: "This Act [enacting chapter 4 of this title, amending sections 2, 208, and 307 of this title, and enacting provisions set out as a note under section 401 of this title] may be cited as the 'Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021'."

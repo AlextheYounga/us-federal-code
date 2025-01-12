@@ -1,5 +1,7 @@
 ### §§1276 to 1276e. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1276, act July 3, 1946, ch. 536, §2, 60 Stat. 418, related to retention by United States of title to real and personal property, and was transferred to section 1381 of Title 22, Foreign Relations and Intercourse.

@@ -1,5 +1,7 @@
 ### §§1261 to 1264. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1261 to 1264 of this title were transferred to section 1251 et seq. of Title 22, Foreign Relations and Intercourse, and were subsequently omitted from the Code.

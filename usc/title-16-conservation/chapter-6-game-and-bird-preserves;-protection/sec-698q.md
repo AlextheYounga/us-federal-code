@@ -28,11 +28,15 @@ Not later than 6 months after October 21, 1992, the Secretary of the Interior (r
 
 (Pub. L. 102–427, §2, Oct. 21, 1992, 106 Stat. 2179; Pub. L. 111–11, title VII, §7103, Mar. 30, 2009, 123 Stat. 1190.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Subsec. (b). Pub. L. 111–11, §7103(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (c). Pub. L. 111–11, §7103(2), substituted "maps" for "map" in introductory provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

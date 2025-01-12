@@ -1,5 +1,7 @@
 ### §§1238a, 1239. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1238a and 1239 were omitted in view of recognition of Philippine independence.

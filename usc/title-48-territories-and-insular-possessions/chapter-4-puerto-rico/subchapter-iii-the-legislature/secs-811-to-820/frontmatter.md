@@ -22,6 +22,8 @@ Section 819, acts Mar. 2, 1917, ch. 145, §30, 39 Stat. 959; May 17, 1932, ch. 1
 
 Section 820, acts Mar. 2, 1917, ch. 145, §31, 39 Stat. 960; Mar. 4, 1927, ch. 503, §4, 44 Stat. 1420; May 17, 1932, ch. 190, 47 Stat. 158; June 24, 1948, ch. 610, §4, 62 Stat. 580, related to compensation and mileage of members of senate and house of representatives.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 811 to 820 effective July 25, 1952, see note set out under section 732 of this title.

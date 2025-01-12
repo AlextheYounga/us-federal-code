@@ -1,5 +1,7 @@
 ### §§29 to 38. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 29 to 38, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

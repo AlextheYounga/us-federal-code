@@ -1,5 +1,7 @@
 ### §§1266 to 1270b. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1266 to 1270b of this title were transferred to section 1291 et seq. of Title 22, Foreign Relations and Intercourse, and were subsequently omitted from the Code.

@@ -1,5 +1,7 @@
 ### §§1236b to 1237c. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1236b to 1237c were omitted in view of recognition of Philippine independence.

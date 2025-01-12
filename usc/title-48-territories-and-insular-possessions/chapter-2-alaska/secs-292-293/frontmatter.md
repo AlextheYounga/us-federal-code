@@ -1,5 +1,7 @@
 ### §§292, 293. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 292 and 293, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

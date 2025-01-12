@@ -50,6 +50,8 @@ No lands or interest in lands may be added to the Preserve after October 21, 199
 
 (Pub. L. 102–427, §4, Oct. 21, 1992, 106 Stat. 2181; Pub. L. 103–437, §6(d)(36), Nov. 2, 1994, 108 Stat. 4585.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsec. (b)(2)(B). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs".

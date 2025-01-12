@@ -4,6 +4,8 @@ In carrying out the obligations of the United States under any migratory bird tr
 
 (Pub. L. 88–567, §6, Sept. 2, 1964, 78 Stat. 851.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Migratory Bird Treaty Act (40 Stat. 755), as amended, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II of chapter 7 (§703 et seq.) of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.

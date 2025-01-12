@@ -1,5 +1,7 @@
 ### §§315 to 315i. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 315 to 315i, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

@@ -1,5 +1,7 @@
 ### §§1330 to 1336h. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1330 to 1336h were omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.

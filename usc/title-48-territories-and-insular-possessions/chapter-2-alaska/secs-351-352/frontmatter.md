@@ -1,5 +1,7 @@
 ### §§351, 352. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 351, act Mar. 3, 1889, ch. 424, §1, 30 Stat. 1098, which extended to Territory the system of public land surveys, was transferred to section 751a of Title 43, Public Lands.

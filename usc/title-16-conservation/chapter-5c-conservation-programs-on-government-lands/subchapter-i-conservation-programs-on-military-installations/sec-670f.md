@@ -18,6 +18,8 @@ The Secretary of Defense and the Secretary of the Interior may each use any auth
 
 (Pub. L. 86–797, title I, §108, formerly §6, as added Pub. L. 90–465, §2, Aug. 8, 1968, 82 Stat. 661; renumbered title I, §106, and amended Pub. L. 93–452, §§1(2), 3(1), (4), (5), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 95–420, §2, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, §2, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §§1(a), 3(b), Oct. 27, 1986, 100 Stat. 3149, 3151; Pub. L. 100–653, title II, §202(a), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 101–189, div. B, title XXVIII, §2845(b), Nov. 29, 1989, 103 Stat. 1664; renumbered §108, and amended Pub. L. 105–85, div. B, title XXIX, §§2904(b)(7), (8), 2909(1), 2914(a), Nov. 18, 1997, 111 Stat. 2018, 2021, 2022; Pub. L. 108–136, div. A, title III, §311(a), Nov. 24, 2003, 117 Stat. 1428; Pub. L. 111–84, div. A, title III, §312, Oct. 28, 2009, 123 Stat. 2247; Pub. L. 112–81, div. A, title III, §312(b)(6), Dec. 31, 2011, 125 Stat. 1353; Pub. L. 113–66, div. A, title III, §313, title X, §1091(c)(1), Dec. 26, 2013, 127 Stat. 729, 876.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Subsecs. (b), (c). Pub. L. 113–66, §313, substituted "fiscal years 2014 through 2019" for "fiscal years 2009 through 2014".
@@ -61,6 +63,8 @@ Subsec. (c). Pub. L. 95–420 added subsec. (c).
 **1974**—Subsec. (a). Pub. L. 93–452, §3(5), substituted "sections 101 and 102" for "sections 1 and 2" which for purposes of codification was translated as "sections 670a and 670b", therefore requiring no change in text because of redesignation of former sections 1 and 2 of Pub. L. 86–797 by section 3(1) of Pub. L. 93–452.
 
 Subsec. (b). Pub. L. 93–452, §§1(2), 3(4), inserted provisions authorizing appropriations of not to exceed $1,500,000 for the fiscal year beginning July 1, 1972, and for each of the next five fiscal years thereafter, and authorizing appropriations to the Secretary of the Interior not to exceed $2,000,000 for the fiscal year beginning July 1, 1973, and for each of the next four fiscal years thereafter, and substituted "title" for "Act" wherever appearing, which for purposes of codification was translated as "subchapter".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

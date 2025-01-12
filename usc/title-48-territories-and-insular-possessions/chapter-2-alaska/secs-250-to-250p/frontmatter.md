@@ -1,5 +1,7 @@
 ### §§250 to 250p. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 250 to 250n were transferred to sections 500 to 500n, respectively, of Title 25, Indians, and subsequently were omitted from the Code as being of special and not general application.

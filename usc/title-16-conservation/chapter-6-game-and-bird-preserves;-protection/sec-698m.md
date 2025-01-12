@@ -6,6 +6,8 @@
 
 (Pub. L. 93–440, §8, Oct. 11, 1974, 88 Stat. 1261; Pub. L. 95–625, title II, §201(1), Nov. 10, 1978, 92 Stat. 3473; Pub. L. 100–301, §7, Apr. 29, 1988, 102 Stat. 446.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (a). Pub. L. 100–301, §7(1), designated existing provisions as subsec. (a), substituted "Except as provided in subsection (b), there" for "There", and added subsec. (b).

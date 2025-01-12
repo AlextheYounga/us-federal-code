@@ -1,5 +1,7 @@
 ### §§373 to 385. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 373, acts July 8, 1916, ch. 228, §1, 39 Stat. 352; June 28, 1918, ch. 110, 40 Stat. 632, which set a limit on the amount of homestead entries, was transferred to section 270–8 of Title 43, Public Lands, and was subsequently repealed by Pub. L. 94–579, §703(a), Oct. 21, 1976, 90 Stat. 2789.

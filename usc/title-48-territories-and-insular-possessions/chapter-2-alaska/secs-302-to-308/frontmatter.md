@@ -1,5 +1,7 @@
 ### §§302 to 308. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 302, act Mar. 12, 1914, ch. 37, §1, 38 Stat. 305, which authorized construction and maintenance of telegraph and telephone lines, was transferred to section 975a of Title 43, Public Lands.

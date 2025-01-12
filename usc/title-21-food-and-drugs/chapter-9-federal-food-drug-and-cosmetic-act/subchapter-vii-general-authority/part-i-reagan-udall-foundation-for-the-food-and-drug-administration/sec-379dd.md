@@ -276,13 +276,15 @@ The Executive Director shall ensure that the funds received from the Treasury ar
 
 #### (n) Funding ####
 
-From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $500,000 and not more than $1,250,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).
+From amounts appropriated to the Food and Drug Administration for each fiscal year, the Commissioner shall transfer not less than $1,250,000 and not more than $5,000,000, to the Foundation to carry out subsections (a), (b), and (d) through (m).
 
-(June 25, 1938, ch. 675, §770, as added Pub. L. 110–85, title VI, §601(a), Sept. 27, 2007, 121 Stat. 890; amended Pub. L. 114–255, div. A, title III, §3076, Dec. 13, 2016, 130 Stat. 1139.)
+(June 25, 1938, ch. 675, §770, as added Pub. L. 110–85, title VI, §601(a), Sept. 27, 2007, 121 Stat. 890; amended Pub. L. 114–255, div. A, title III, §3076, Dec. 13, 2016, 130 Stat. 1139; Pub. L. 117–101, §2(a), Mar. 15, 2022, 136 Stat. 47.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (n). Pub. L. 117–101 substituted "$1,250,000 and not more than $5,000,000" for "$500,000 and not more than $1,250,000".
 
 **2016**—Subsec. (d)(1)(C)(ii). Pub. L. 114–255, §3076(a)(1)(B), added cl. (ii). Former cl. (ii) redesignated (iii).
 

@@ -6,11 +6,15 @@ The laws of the United States relating to juries and jury trials shall be applic
 
 (June 15, 1950, ch. 253, 64 Stat. 217; Pub. L. 86–3, §14(j), Mar. 18, 1959, 73 Stat. 11; Pub. L. 86–624, §19, July 12, 1960, 74 Stat. 416.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1960**—Pub. L. 86–624 struck out Kure Island.
 
 **1959**—Pub. L. 86–3 extended jurisdiction to cases arising on or within Palmyra Island.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1959 Amendment ####
 

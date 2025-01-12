@@ -1,5 +1,7 @@
 ### §§1373 to 1374d. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1373, acts May 29, 1944, ch. 214, §1, 58 Stat. 257; Sept. 26, 1950, ch. 1049, §2(a)(1), (2), 64 Stat. 1038, related to recognition of personnel engaged in construction of the canal.

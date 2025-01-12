@@ -1,5 +1,7 @@
 ### §§241 to 248b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 241 to 248b, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

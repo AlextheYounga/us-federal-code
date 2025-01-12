@@ -20,6 +20,8 @@ It is the express intent of the Congress that the Secretary should substantially
 
 (Pub. L. 93–440, §2, Oct. 11, 1974, 88 Stat. 1259.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.

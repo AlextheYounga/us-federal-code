@@ -1,5 +1,7 @@
 ### §§191 to 213. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 191 to 213, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

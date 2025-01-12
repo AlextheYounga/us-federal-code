@@ -4,6 +4,8 @@ As used in sections 690 to 690i of this title the term "person" includes an indi
 
 (Apr. 23, 1928, ch. 413, §10, 45 Stat. 450.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.

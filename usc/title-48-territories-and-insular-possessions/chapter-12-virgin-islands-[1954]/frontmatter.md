@@ -102,6 +102,8 @@ Sec.
 
 1645. Remittance of duties, taxes, and fees to be collected in next fiscal year; authorization, prerequisites, amount, etc.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization ####
 
 Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479; Pub. L. 111–194, §2, June 30, 2010, 124 Stat. 1310, provided:

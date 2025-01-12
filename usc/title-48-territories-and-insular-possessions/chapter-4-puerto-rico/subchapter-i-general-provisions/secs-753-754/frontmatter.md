@@ -4,6 +4,8 @@ Section 753, acts Mar. 2, 1917, ch. 145, §38, 39 Stat. 964; Mar. 4, 1927, ch. 5
 
 Section 754, acts Mar. 2, 1917, ch. 145, §35, 39 Stat. 963; May 17, 1932, ch. 190, 47 Stat. 158, which had been transferred to section 814a of this title, related to qualifications of electors.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 753 and 754 effective July 25, 1952, see note set out under section 732 of this title.

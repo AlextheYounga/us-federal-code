@@ -1,5 +1,7 @@
 ### §§1191 to 1202. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1191 to 1202 were omitted in view of recognition of Philippine independence.

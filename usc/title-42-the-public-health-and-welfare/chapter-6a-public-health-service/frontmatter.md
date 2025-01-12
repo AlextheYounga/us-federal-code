@@ -1458,7 +1458,7 @@ Sec.
 
 290bb–32. Priority mental health needs of regional and national significance.
 
-290bb–33. Repealed.
+290bb–33. Student suicide awareness and prevention training.
 
 290bb–34. Suicide prevention technical assistance center.
 

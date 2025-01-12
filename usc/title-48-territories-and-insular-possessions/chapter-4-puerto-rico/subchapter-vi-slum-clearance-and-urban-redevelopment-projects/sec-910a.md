@@ -4,6 +4,8 @@ The government of Puerto Rico may assist slum clearance and urban redevelopment 
 
 (July 18, 1950, ch. 466, title I, §102, 64 Stat. 344; Aug. 11, 1955, ch. 783, title I, §107(3), 69 Stat. 637.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.

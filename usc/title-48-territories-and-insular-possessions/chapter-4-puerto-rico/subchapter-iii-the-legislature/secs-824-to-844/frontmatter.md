@@ -42,6 +42,8 @@ Section 843, acts Mar. 2, 1917, ch. 145, §34, 39 Stat. 962; May 17, 1932, ch. 1
 
 Section 844, act Mar. 2, 1917, ch. 145, §34, 39 Stat. 962, related to punishment for offense of influencing officials by bribery.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 824 to 844 effective July 25, 1952, see note set out under section 732 of this title.

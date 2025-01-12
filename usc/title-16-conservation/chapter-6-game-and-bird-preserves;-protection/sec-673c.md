@@ -10,9 +10,13 @@ At least once a year between February 1 and April 1, the Wyoming Game and Fish C
 
 (Sept. 14, 1950, ch. 950, §6, 64 Stat. 851.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Sept. 14, 1950, ch. 950, 64 Stat. 849, which enacted this section, sections 406d–1 to 406d–5, 431a, 451a, 482m, and 673b of this title and provisions set out as notes under section 406d–1 of this title. Section 1 of the Act was partially repealed and restated as sections 104907 and 320301 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeal of Inconsistent Laws ####
 

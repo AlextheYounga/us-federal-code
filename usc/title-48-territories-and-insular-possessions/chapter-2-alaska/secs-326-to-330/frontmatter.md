@@ -1,5 +1,7 @@
 ### §§326 to 330. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 326 to 330, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

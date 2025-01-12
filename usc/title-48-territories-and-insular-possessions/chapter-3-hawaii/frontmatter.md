@@ -16,6 +16,8 @@ Sec.
 
 Hawaii was admitted into the Union on August 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out below.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Hawaii Statehood ####
 
 Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, as amended, provided:
@@ -746,6 +748,12 @@ Pub. L. 86–624, July 12, 1960, 74 Stat. 411, as amended, provided:
 
 "Sec. 2. [Public trust; terms and conditions.] Any lands, property, improvements, and proceeds conveyed or paid to the State of Hawaii under section 1 of this Act shall be considered a part of public trust established by section 5(f) of Public Law 86–3 [set out above], and shall be subject to the terms and conditions of that trust."
 
+#### **Executive Documents** ####
+
+#### Delegation of Functions ####
+
+Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, under which the functions of the President under section 5(e) of the Hawaii Statehood Act of Mar. 18, 1959, [set out above], were delegated to the Director of the Bureau of the Budget [now Director of Office of Management and Budget], was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out under section 301 of Title 3, The President.
+
 #### Proc. No. 3309. Admission of the State of Hawaii Into the Union ####
 
 Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, provided:
@@ -831,7 +839,3 @@ Sec. 5. To the extent that any prior Executive order or proclamation is inconsis
 Sec. 6. Nothing in this order shall be deemed to reduce, limit, or otherwise modify the authority or responsibility of the Attorney General of the United States to represent the legal interests of the United States in civil or criminal cases arising under the provisions of 48 U.S.C. 644a.
 
 William J. Clinton.
-
-#### Delegation of Functions ####
-
-Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, under which the functions of the President under section 5(e) of the Hawaii Statehood Act of Mar. 18, 1959, [set out above], were delegated to the Director of the Bureau of the Budget [now Director of Office of Management and Budget], was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out under section 301 of Title 3, The President.

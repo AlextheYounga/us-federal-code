@@ -1,5 +1,7 @@
 ### §§1171 to 1173. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1171 to 1173 were omitted in view of recognition of Philippine independence.

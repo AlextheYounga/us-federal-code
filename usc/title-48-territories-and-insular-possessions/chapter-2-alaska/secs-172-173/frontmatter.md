@@ -1,5 +1,7 @@
 ### §§172, 173. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 172 and 173, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

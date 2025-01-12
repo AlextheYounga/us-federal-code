@@ -6,6 +6,8 @@ Section 1371a, acts Mar. 2, 1931, ch. 375, §2, 46 Stat. 1471; June 19, 1934, ch
 
 Section 1371b, acts Mar. 2, 1931, ch. 375, §3, 46 Stat. 1472; July 2, 1945, ch. 220, 59 Stat. 212, related to voluntary retirement.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Apr. 1, 1948, see Act July 21, 1949, ch. 356, §7(a), 63 Stat. 476.

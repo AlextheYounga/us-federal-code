@@ -14,9 +14,13 @@ Containing in all six thousand three hundred and seventy-six acres, more or less
 
 (Sept. 14, 1950, ch. 950, §2, 64 Stat. 849.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No. 2578, Mar. 15, 1943, 57 Stat. 731. For provisions transferring other lands of such former national monument, see sections 406d–1 and 482m of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Revocation of Temporary Withdrawals of Public Lands ####
 

@@ -20,6 +20,8 @@ in accordance with existing or future contracts, the use of lands located within
 
 (Aug. 27, 1954, ch. 1012, §6, 68 Stat. 879; Pub. L. 95–616, §10(a), Nov. 8, 1978, 92 Stat. 3115.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal reclamation laws, referred to in introductory text, are identified in section 695f of this title.

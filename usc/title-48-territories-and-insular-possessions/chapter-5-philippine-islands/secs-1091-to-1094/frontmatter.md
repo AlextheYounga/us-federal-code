@@ -1,5 +1,7 @@
 ### §§1091 to 1094. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1091 to 1094 were omitted in view of recognition of Philippine independence.

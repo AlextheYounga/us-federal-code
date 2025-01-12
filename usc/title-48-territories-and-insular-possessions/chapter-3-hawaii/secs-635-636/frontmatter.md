@@ -1,5 +1,7 @@
 ### §§635, 636. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 635 and 636, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

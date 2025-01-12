@@ -1,5 +1,7 @@
 ### §§364 to 365. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 364, act July 24, 1947, ch. 305, 61 Stat. 414, which authorized the legislature to provide for the exercise of zoning power in town sites, was transferred to section 738 of Title 43, Public Lands, and was subsequently repealed by Pub. L. 94–579, §703(a), Oct. 21, 1976, 90 Stat. 2789.

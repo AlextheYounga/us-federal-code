@@ -4,6 +4,8 @@ Section 822, act Mar. 2, 1917, ch. 145, §34, 39 Stat. 960, related to origin of
 
 Section 823, acts Mar. 2, 1917, ch. 145, §34, 39 Stat. 960; May 17, 1932, ch. 190, 47 Stat. 158, related to enacting clauses of bills and resolutions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 822 and 823 effective July 25, 1952, see note set out under section 732 of this title.

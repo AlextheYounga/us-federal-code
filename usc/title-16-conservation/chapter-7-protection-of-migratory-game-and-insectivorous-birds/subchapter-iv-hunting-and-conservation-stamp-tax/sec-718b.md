@@ -112,7 +112,7 @@ Act July 30, 1956, §3(c), formerly §3(b), as renumbered by Pub. L. 109–266, 
 
 **1935**—Act June 15, 1935, amended section generally.
 
-#### **STatutory Notes and Related Subsidiaries** ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1958 Amendment ####
 

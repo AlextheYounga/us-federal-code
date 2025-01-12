@@ -24,6 +24,8 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 (Pub. L. 86–797, title II, §204, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1372; amended Pub. L. 112–81, div. A, title III, §312(b)(10), (c), Dec. 31, 2011, 125 Stat. 1354, 1355.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–81, §312(b)(10), inserted section catchline and headings for subsecs. (a) to (d).

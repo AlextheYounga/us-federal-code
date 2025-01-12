@@ -50,6 +50,8 @@ Section 792, acts Mar. 2, 1917, ch. 145, §20, 39 Stat. 957; Mar. 4, 1927, ch. 5
 
 Section 793, acts Mar. 2, 1917, ch. 145, §20, 39 Stat. 957; Mar. 4, 1927, ch. 503, §3, 44 Stat. 1419; May 17, 1932, ch. 190, 47 Stat. 158, related to performance of powers and duties of Auditor in case of a vacancy in the office or in his absence by the assistant auditor, or in the absence of that assistant, by an assistant designated by Governor.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 771 to 793 effective July 25, 1952, see note set out under section 732 of this title.

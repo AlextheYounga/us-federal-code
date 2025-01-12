@@ -1,5 +1,7 @@
 ### §§1248, 1249. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1248 and 1249 were omitted in view of recognition of Philippine independence.
