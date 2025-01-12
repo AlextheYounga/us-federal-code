@@ -14,7 +14,7 @@ The management plan described in paragraph (1) shall be developed with full publ
 
 (B) proposals for public facilities to be developed, expanded, or improved for the Recreation Area, including one or more visitor centers to accommodate both local and out-of-State visitors;
 
-(C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act<sup><a href="#460hhh-4_2_target" name="460hhh-4_2">2</a></sup> within the Recreation Area;
+(C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act <sup><a href="#460hhh-4_2_target" name="460hhh-4_2">2</a></sup> within the Recreation Area;
 
 (D) wildlife and fish resource management plans for the Recreation Area prepared in consultation with appropriate departments of the State of Nevada and using other available studies of the Recreation Area;
 
@@ -26,7 +26,7 @@ The management plan described in paragraph (1) shall be developed with full publ
 
 #### (3) Consultation ####
 
-The plans for the management of natural and cultural resources described in paragraph (2)(C) shall be prepared in consultation with the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act<sup><a href="#460hhh-4_2_target" name="460hhh-4_2">2</a></sup> and the Nevada State Department of Conservation and Natural Resources, Division of Historic Preservation and Archaeology.
+The plans for the management of natural and cultural resources described in paragraph (2)(C) shall be prepared in consultation with the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act <sup><a href="#460hhh-4_2_target" name="460hhh-4_2">2</a></sup> and the Nevada State Department of Conservation and Natural Resources, Division of Historic Preservation and Archaeology.
 
 #### (b) Wilderness study areas ####
 

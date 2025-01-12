@@ -6,7 +6,7 @@ In order to carry out the purpose of this subchapter, the Secretary of the Inter
 
 #### (b) Erection and maintenance of tablets and markers ####
 
-To facilitate the interpretation of the Nez Perce country the Secretary is authorized to erect and maintain tablets or markers in accordance with the provisions contained in sections 461 to 467 <sup><a href="#281e_1_target" name="281e_1">1</a></sup> of this title.
+To facilitate the interpretation of the Nez Perce country the Secretary is authorized to erect and maintain tablets or markers in accordance with the provisions contained in the Act approved August 21, 1935, entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes" (49 Stat. 666).<sup><a href="#281e_1_target" name="281e_1">1</a></sup>
 
 #### (c) Consultation with Nez Perce Tribe officials ####
 
@@ -16,7 +16,7 @@ The Secretary shall consult with officials of the Nez Perce Tribe on the interpr
 
 #### References in Text ####
 
-Sections 461 to 467 of this title, referred to in text, were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+The Act approved August 21, 1935, entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes" (49 Stat. 666), referred to in subsec. (b), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Amendments ####
 

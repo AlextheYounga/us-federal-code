@@ -1,3 +1,3 @@
 ### §470r. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-Section, Pub. L. 89–665, title II, §210, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322; amended Pub. L. 96–515, title III, §301(k), Dec. 12, 1980, 94 Stat. 2999, related to transmittal of legislative recommendations, or testimony, or comments, to any officer or agency of the United States prior to submission thereof to Congress. See section 304107 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 89–665, title II, §210, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322; amended Pub. L. 96–515, title III, §301(k), Dec. 12, 1980, 94 Stat. 2999, related to transmittal of legislative recommendations, testimony, or comments to any officer or agency of the United States prior to submission thereof to Congress. See section 304107 of Title 54, National Park Service and Related Programs.

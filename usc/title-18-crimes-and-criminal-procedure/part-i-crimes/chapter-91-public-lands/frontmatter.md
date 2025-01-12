@@ -30,7 +30,13 @@ Sec.
 
 1864. Hazardous or injurious devices on Federal lands.
 
+1865. National Park Service.
+
+1866. Historic, archeologic, or prehistoric items and antiquities.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–287, §4(a)(2), Dec. 19, 2014, 128 Stat. 3261, added items 1865 and 1866.
 
 **1990**—Pub. L. 101–647, title XXXV, §3554, Nov. 29, 1990, 104 Stat. 4927, struck out item 1862 "Trespass on Bull Run National Forest".
 

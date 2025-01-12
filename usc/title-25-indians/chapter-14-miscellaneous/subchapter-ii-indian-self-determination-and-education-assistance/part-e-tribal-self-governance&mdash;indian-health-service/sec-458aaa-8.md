@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-Indian tribes participating in tribal self-governance may carry out construction projects under this part if they elect to assume all Federal responsibilities under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the National Historic Preservation Act (16 U.S.C. 470 et seq.), and related provisions of law that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
+Indian tribes participating in tribal self-governance may carry out construction projects under this part if they elect to assume all Federal responsibilities under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), division A of subtitle III of title 54, and related provisions of law that would apply if the Secretary were to undertake a construction project, by adopting a resolution—
 
 (1) designating a certifying officer to represent the Indian tribe and to assume the status of a responsible Federal official under such laws; and
 
@@ -36,13 +36,11 @@ All laborers and mechanics employed by contractors and subcontractors (excluding
 
 Unless otherwise agreed to by the Indian tribe, no provision of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41, the Federal Acquisition Regulations issued pursuant thereto, or any other law or regulation pertaining to Federal procurement (including Executive orders) shall apply to any construction project conducted under this part.
 
-(Pub. L. 93–638, title V, §509, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 724.)
+(Pub. L. 93–638, title V, §509, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 724; amended Pub. L. 113–287, §5(g), Dec. 19, 2014, 128 Stat. 3269.)
 
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
-
-The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 
 This subchapter, referred to in subsec. (g), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -53,3 +51,7 @@ Reorganization Plan numbered 14, of 1950, referred to in subsec. (g), is set out
 In subsec. (g), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494)", "sections 3141–3144, 3146, and 3147 of title 40 are" substituted for "the Act of March 3, 1931, is", and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934 (48 Stat. 948)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In subsec. (h), "division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41" substituted for "the Office of Federal Procurement Policy Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments ####
+
+**2014**—Subsec. (a). Pub. L. 113–287, which directed substitution of "division A of subtitle III of title 54" for "the National Historic Preservation Act (16 U.S.C. 470et seq.)", was executed by making the substitution for "the National Historic Preservation Act (16 U.S.C. 470 et seq.)" in introductory provisions to reflect the probable intent of Congress.

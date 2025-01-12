@@ -20,7 +20,7 @@ Whenever the Secretary determines that appropriate management and protection set
 
 #### References in Text ####
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of title 54.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of Title 54.
 
 #### Amendments ####
 

@@ -10,4 +10,4 @@ Effective September 22, 1961, the portion of the Hawaii National Park situated o
 
 #### Change of Name ####
 
-Pub. L. 106–510, §3(a)(2), Nov. 13, 2000, 114 Stat. 2363, provided that: "Any reference in any law (other than this Act [see Short Title of 2000 Act note set out under section 100101 of Title 54, National Park Service and Related Programs]), regulation, document, record, map, or other paper of the United States to 'Hawaii Volcanoes National Park' shall be considered a reference to 'Hawai‘i Volcanoes National Park'."
+Pub. L. 106–510, §3(a)(2), Nov. 13, 2000, 114 Stat. 2363, provided that: "Any reference in any law (other than this Act [see Tables for classification]), regulation, document, record, map, or other paper of the United States to 'Hawaii Volcanoes National Park' shall be considered a reference to 'Hawai‘i Volcanoes National Park'."

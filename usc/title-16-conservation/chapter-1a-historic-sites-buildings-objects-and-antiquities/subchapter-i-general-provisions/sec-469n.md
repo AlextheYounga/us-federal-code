@@ -12,7 +12,7 @@ The purpose of this section is to authorize the Preserve America Program, includ
 
 #### (b) to (f) Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ####
 
-(Pub. L. 111–11, title VII, §7302, Mar. 30, 2009, 123 Stat. 1214; Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272
+(Pub. L. 111–11, title VII, §7302, Mar. 30, 2009, 123 Stat. 1214; Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272.)
 
 #### Amendments ####
 

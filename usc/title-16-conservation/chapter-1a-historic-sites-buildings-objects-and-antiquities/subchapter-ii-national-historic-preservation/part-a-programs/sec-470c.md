@@ -1,3 +1,3 @@
 ### §470c. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-Section, Pub. L. 89–665, title I, §103, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, §201(2), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title II, §203, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 102–575, title XL, §4010, Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, §5(a)(6), May 26, 2000, 114 Stat. 318, related to apportionment of grant funds. See section 302902 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 89–665, title I, §103, Oct. 15, 1966, 80 Stat. 916; Pub. L. 94–422, title II, §201(2), Sept. 28, 1976, 90 Stat. 1319; Pub. L. 96–515, title II, §203, Dec. 12, 1980, 94 Stat. 2993; Pub. L. 102–575, title XL, §4010, Oct. 30, 1992, 106 Stat. 4759; Pub. L. 106–208, §5(a)(6), May 26, 2000, 114 Stat. 318, related to apportionment of grant funds. See section 302902(c) of Title 54, National Park Service and Related Programs.

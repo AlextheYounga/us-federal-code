@@ -22,7 +22,7 @@ Sec.
 
 469 l. Omitted or Transferred.
 
-469l–1 to 469l–3. Repealed.
+469l–1 to 469l–3. Transferred or Repealed.
 
 469m. Repealed or Omitted.
 

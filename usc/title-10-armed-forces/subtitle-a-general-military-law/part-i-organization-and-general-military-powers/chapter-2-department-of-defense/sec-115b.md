@@ -114,7 +114,9 @@
 
 (D) Persons serving in Intelligence Senior Level positions under section 1607 of this title.
 
-(3) The term "acquisition workforce" includes individuals designated under section 1721 of this title as filling acquisition positions.Added Pub. L. 111–84, div. A, title XI, §1108(a)(1), Oct. 28, 2009, 123 Stat. 2488; amended Pub. L. 112–81, div. A, title IX, §935(a)(1), (b), (c), title X, §1053, Dec. 31, 2011, 125 Stat. 1545, 1582; Pub. L. 113–291, div. A, title IX, §911, Dec. 19, 2014, 128 Stat. 3472.)
+(3) The term "acquisition workforce" includes individuals designated under section 1721 of this title as filling acquisition positions.
+
+(Added Pub. L. 111–84, div. A, title XI, §1108(a)(1), Oct. 28, 2009, 123 Stat. 2488; amended Pub. L. 112–81, div. A, title IX, §935(a)(1), (b), (c), title X, §1053, Dec. 31, 2011, 125 Stat. 1545, 1582; Pub. L. 113–291, div. A, title IX, §911, Dec. 19, 2014, 128 Stat. 3472.)
 
 #### References in Text ####
 

@@ -10,7 +10,7 @@
 
 #### Amendment of Section ####
 
-Pub. L. 113–291, div. A, title IX, §901(a)(1), Dec. 19, 2014, 128 Stat. 3462, effective on Feb. 1, 2017, this section is amended to read as follows:
+Pub. L. 113–291, div. A, title IX, §901(a)(1), Dec. 19, 2014, 128 Stat. 3462, provided that, effective on Feb. 1, 2017, this section is amended to read as follows:
 
 #### §132a. Under Secretary of Defense for Business Management and Information ####
 

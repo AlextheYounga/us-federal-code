@@ -22,7 +22,7 @@ Within 6 months after October 27, 1986, the Secretary of the Interior (hereinaft
 
 #### References in Text ####
 
-Act of June 8, 1906, referred to in subsec. (d)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Short Title of 1906 Act note set out under section 100101 of Title 54, National Park Service and Related Programs, and Tables.
+Act of June 8, 1906, referred to in subsec. (d)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name ####
 

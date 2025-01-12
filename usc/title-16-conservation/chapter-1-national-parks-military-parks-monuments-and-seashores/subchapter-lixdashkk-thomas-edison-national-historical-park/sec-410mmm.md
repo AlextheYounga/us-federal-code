@@ -26,7 +26,7 @@ The map of the Historical Park shall be on file and available for public inspect
 
 #### (1) In general ####
 
-The Secretary shall administer the Historical Park in accordance with this section and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 <sup><a href="#410mmm_1_target" name="410mmm_1">1</a></sup> of this title and sections 461 to 467 <sup><a href="#410mmm_1_target" name="410mmm_1">1</a></sup> of this title.
+The Secretary shall administer the Historical Park in accordance with this section and with the provisions of law generally applicable to units of the National Park System, including the Acts entitled "An Act to establish a National Park Service, and for other purposes," approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.) <sup><a href="#410mmm_1_target" name="410mmm_1">1</a></sup> and "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes," approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup><a href="#410mmm_1_target" name="410mmm_1">1</a></sup>
 
 #### (2) Acquisition of property ####
 
@@ -56,9 +56,9 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 #### References in Text ####
 
-Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in subsec. (c)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-Sections 461 to 467 of this title, referred to in subsec. (c)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+"An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes," approved August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Codification ####
 

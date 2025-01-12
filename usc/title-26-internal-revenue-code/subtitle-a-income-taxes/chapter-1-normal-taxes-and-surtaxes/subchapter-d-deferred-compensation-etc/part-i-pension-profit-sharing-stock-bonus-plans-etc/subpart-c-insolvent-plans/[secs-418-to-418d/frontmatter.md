@@ -1,4 +1,4 @@
-### [§§418 to 418D]. Repealed. Pub. L. 113–235, div. O, title I, §108(b)(1), Dec. 16, 2014, 128 Stat. 2787] ###
+### [§§418 to 418D. Repealed. Pub. L. 113–235, div. O, title I, §108(b)(1), Dec. 16, 2014, 128 Stat. 2787] ###
 
 Section 418, added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1271, related to reorganization status.
 

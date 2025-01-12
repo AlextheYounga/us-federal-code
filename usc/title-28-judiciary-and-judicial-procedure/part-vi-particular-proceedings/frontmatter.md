@@ -43,11 +43,15 @@ Chap. Sec.
 
 181. Foreign judgments 2 4101. 1
 
+190. Miscellaneous 5001
+
 #### Senate Revision Amendment ####
 
 Chapters 169, 171 and 173 were renumbered "167", "169" and "171", respectively, without change in their section numbers, by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–287, §4(b)(2), Dec. 19, 2014, 128 Stat. 3261, added item for chapter 190.
 
 **2010**—Pub. L. 111–223, §3(c), Aug. 10, 2010, 124 Stat. 2384, added item for chapter 181.
 

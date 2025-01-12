@@ -896,6 +896,8 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2014**—Internal Revenue Notice 2014–36.
+
 **2013**—Internal Revenue Notice 2013–33.
 
 **2012**—Internal Revenue Notice 2012–35.

@@ -454,9 +454,11 @@ For applicability of amendment by section 701(c)(3) of Pub. L. 99–514 notwiths
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§1101–1147 and 1171–1177] or title XVIII [§§1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### Inflation Adjusted Items for Certain Tax Years ####
+#### Inflation Adjusted Items for Certain Years ####
 
-Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+**2013**—Internal Revenue Notice 2014–25.
 
 **2012**—Internal Revenue Notice 2013–25.
 

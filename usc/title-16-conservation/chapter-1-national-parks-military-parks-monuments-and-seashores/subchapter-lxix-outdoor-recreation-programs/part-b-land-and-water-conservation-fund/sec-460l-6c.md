@@ -60,4 +60,4 @@ The amount of the admission, entrance, and recreation fees authorized to be impo
 
 #### Codification ####
 
-Section was enacted as part of the Agricultural Reconciliation Act of 1993 and as part of the Omnibus Budget Reconciliation Act of 1993, and not as part of the Land and Water Conservation Fund Act of 1965 which comprises this part.
+Section was enacted as part of the Agricultural Reconciliation Act of 1993 and as part of the Omnibus Budget Reconciliation Act of 1993, and not as part of the Land and Water Conservation Fund Act of 1965.

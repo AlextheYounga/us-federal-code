@@ -6,7 +6,7 @@ Congress finds that—
 
 (1) in 1946, Secretary of the Interior J.A. Krug, by means of the authority granted the Secretary of the Interior under section 1866(a) of title 18 and section 320102 of title 54, established the Adams Mansion National Historic Site, located in Quincy, Massachusetts;
 
-(2) in 1952, Acting Secretary of the Interior Vernon D. Northrup enlarged the site and renamed it the Adams National Historic Site, using the Secretary's authority as provided in sections 461 to 467 <sup><a href="#410eee_1_target" name="410eee_1">1</a></sup> of this title;
+(2) in 1952, Acting Secretary of the Interior Vernon D. Northrup enlarged the site and renamed it the Adams National Historic Site, using the Secretary's authority as provided in the Historic Sites Act; <sup><a href="#410eee_1_target" name="410eee_1">1</a></sup>
 
 (3) in 1972, Congress, through Public Law 92–272, authorized the Secretary of the Interior to add approximately 3.68 acres at Adams National Historic Site;
 
@@ -26,7 +26,7 @@ The purpose of this subchapter is to establish the Adams National Historical Par
 
 #### References in Text ####
 
-Sections 461 to 467 of this title, referred to in subsec. (a)(2), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+The Historic Sites Act, referred to in subsec. (a)(2), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, also known as the Historic Sites Act of 1935 and as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 Public Law 92–272, referred to in subsec. (a)(3), is Pub. L. 92–272, Apr. 11, 1972, 86 Stat. 120. Provisions of Pub. L. 92–272 relating to Adams National Historic Site appear at 86 Stat. 121 and are not classified to the Code.
 

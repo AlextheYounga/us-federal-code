@@ -1,6 +1,6 @@
 ### §1a–7b. Protection of right of individuals to bear arms ###
 
-#### (a) Congressional Findings.— ####
+#### (a) Congressional findings ####
 
 Congress finds the following:
 
@@ -26,7 +26,7 @@ Congress finds the following:
 
 (7) Federal laws should make it clear that the 2d amendment rights of an individual at a unit of the National Wildlife Refuge System should not be infringed.
 
-#### (b) Protection of Right of Individuals To Bear arms in Units of the National Wildlife Refuge System.— ####
+#### (b) Protection of right of individuals to bear arms in units of the National Wildlife Refuge System ####
 
 The Secretary shall not promulgate or enforce any regulation that prohibits an individual from possessing a firearm, including an assembled or functional firearm, in any unit of the National Wildlife Refuge System if—
 
@@ -38,7 +38,7 @@ The Secretary shall not promulgate or enforce any regulation that prohibits an i
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–287, §7, which directed repeal of this section insofar as it related to the National Park System, could not be executed in light of the general amendment by Pub. L. 113–287, §4(d). See below.
+**2014**—Pub. L. 113–287, §7, which directed repeal of this section insofar as it related to the National Park System, could not be executed because of the general amendment by Pub. L. 113–287, §4(d), which made section applicable only to the National Wildlife Refuge System. See below. For provisions related to the National Park System, see section 104906 of Title 54, National Park Service and Related Programs.
 
 Pub. L. 113–287, §4(d), amended section generally. Prior to amendment, section related to the right of Americans to exercise their Second Amendment rights in the National Park System and the National Wildlife Refuge System.
 

@@ -180,9 +180,11 @@ Pub. L. 101–508, title XI, §11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pro
 
 "(2) Special rule for significant expansion of projects.—For purposes of section 43(c)(2)(A)(iii) of the Internal Revenue Code of 1986 (as added by subsection (a)), any significant expansion after December 31, 1990, of a project begun before January 1, 1991, shall be treated as a project with respect to which the first injection commences after December 31, 1990."
 
-#### Inflation Adjusted Items for Certain Tax Years ####
+#### Inflation Adjusted Items for Certain Years ####
 
-Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+**2014**—Internal Revenue Notice 2014–64.
 
 **2013**—Internal Revenue Notice 2013–50.
 

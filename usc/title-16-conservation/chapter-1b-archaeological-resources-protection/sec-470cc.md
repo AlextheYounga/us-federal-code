@@ -34,13 +34,13 @@ Any permit issued under this section may be suspended by the Federal land manage
 
 #### (g) Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands ####
 
-(1) No permit shall be required under this section or under the Act of June 8, 1906, for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
+(1) No permit shall be required under this section or under the Act of June 8, 1906,<sup><a href="#470cc_1_target" name="470cc_1">1</a></sup> for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
-(2) In the case of any permits for the excavation or removal of any archaelogical <sup><a href="#470cc_1_target" name="470cc_1">1</a></sup> resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
+(2) In the case of any permits for the excavation or removal of any archaelogical <sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
 #### (h) Permits issued under chapter 3203 of title 54 ####
 
-(1) No permit or other permission shall be required under chapter 3203 of title 54,<sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> for any activity for which a permit is issued under this section.
+(1) No permit or other permission shall be required under chapter 3203 of title 54,<sup><a href="#470cc_3_target" name="470cc_3">3</a></sup> for any activity for which a permit is issued under this section.
 
 (2) Any permit issued under chapter 3203 of title 54,<sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,<sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 
@@ -56,7 +56,7 @@ Upon the written request of the Governor of any State, the Federal land manager 
 
 #### References in Text ####
 
-The Antiquities Act of 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, also known as the National Monument Act, which was classified generally to sections 431, 432, and 433 of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs by Pub. L. 113–287, Dec. 19, 2014, 128 Stat. 3094. See chapter 3203 of Title 54.
+The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906 and as the National Monument Act, which was classified generally to sections 431, 432, and 433 of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, Dec. 19, 2014, 128 Stat. 3094. See chapter 3203 of Title 54.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 
@@ -68,6 +68,8 @@ Subsec. (h)(2). Pub. L. 113–287, §5(d)(6)(A)(ii), substituted "chapter 3203 o
 
 Subsec. (i). Pub. L. 113–287, §5(d)(6)(B), substituted "section 306108 of title 54" for "section 470f of this title".
 
-[<sup>1</sup> So in original. Probably should be "archaeological".](#470cc_1)
+[<sup>1</sup> See References in Text note below.](#470cc_1)
 
-[<sup>2</sup> So in original. The comma probably should not appear.](#470cc_2)
+[<sup>2</sup> So in original. Probably should be "archaeological".](#470cc_2)
+
+[<sup>3</sup> So in original. The comma probably should not appear.](#470cc_3)

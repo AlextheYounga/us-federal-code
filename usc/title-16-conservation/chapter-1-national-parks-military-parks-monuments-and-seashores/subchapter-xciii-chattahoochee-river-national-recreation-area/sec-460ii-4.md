@@ -4,7 +4,7 @@
 
 #### (1) Limitation on use of appropriated funds ####
 
-From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended,<sup><a href="#460ii-4_1_target" name="460ii-4_1">1</a></sup> not more than $115,000,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 [54 U.S.C. 200306(a)(4)], the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
+From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897),<sup><a href="#460ii-4_1_target" name="460ii-4_1">1</a></sup> as amended, not more than $115,000,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 [54 U.S.C. 200306(a)(4)], the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
 
 #### (2) Donations ####
 
@@ -76,7 +76,7 @@ Actions which are part of a project recommended in the study entitled "Metropoli
 
 #### References in Text ####
 
-The Land and Water Conservation Fund Act (78 Stat. 897), as amended, referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which was classified generally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of Title 54.
+The Land and Water Conservation Fund Act (78 Stat. 897), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified generally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of Title 54.
 
 The convening of the Ninety-sixth Congress, referred to in subsec. (a)(1), took place on Jan. 15, 1979.
 

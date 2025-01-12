@@ -1,3 +1,3 @@
 ### §470s. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-Section, Pub. L. 89–665, title II, §211, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322; amended Pub. L. 96–515, title III, §301(l), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 102–575, title XL, §4018, Oct. 30, 1992, 106 Stat. 4763, related to rules and regulations; participation by local governments. See section 304108 of Title 54, National Park Service and Related Programs.
+Section, Pub. L. 89–665, title II, §211, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322; amended Pub. L. 96–515, title III, §301(l), Dec. 12, 1980, 94 Stat. 2999; Pub. L. 102–575, title XL, §4018, Oct. 30, 1992, 106 Stat. 4763, related to rules and regulations; participation by local governments. See section 304108(a), (b) of Title 54, National Park Service and Related Programs.

@@ -30,7 +30,7 @@ At such time as the State or appropriate units of local government having jurisd
 
 (2) Lands and waters, and interests therein, within the boundaries of the reserve which were administered by the Forest Service, United States Department of Agriculture or the Bureau of Land Management, Department of the Interior prior to November 18, 1988, are hereby transferred to the administrative jurisdiction of the Secretary to be administered by the National Park Service in accordance with this subchapter.
 
-(3) Lands and interest therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of sections 1, 2, 3, and 4 <sup><a href="#460yy-1_1_target" name="460yy-1_1">1</a></sup> of this title, and in a manner consistent with the purpose of this subchapter.
+(3) Lands and interest therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535),<sup><a href="#460yy-1_1_target" name="460yy-1_1">1</a></sup> as amended and supplemented, and in a manner consistent with the purpose of this subchapter.
 
 #### (e) Withdrawal of management and administration from State or local units of government ####
 
@@ -52,7 +52,7 @@ There is hereby authorized to be appropriated not to exceed $2,000,000 to carry 
 
 #### References in Text ####
 
-Sections 1, 2, 3, and 4 of this title, referred to in subsec. (d)(3), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (d)(3), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Geothermal Steam Act of 1970, referred to in subsec. (g), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified generally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 

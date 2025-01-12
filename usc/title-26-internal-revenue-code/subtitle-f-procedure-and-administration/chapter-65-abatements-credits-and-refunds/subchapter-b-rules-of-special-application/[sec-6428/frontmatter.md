@@ -40,9 +40,9 @@ For purposes of the preceding sentence, the social security account number shall
 
 "(A) In general.—The credit allowed by subsection (a) shall be treated as allowed by subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986.
 
-"(B) Appropriations.—For purposes of section 1324(b)(2) of title 31, United States Code, the credit allowed by subsection (a) shall be treated in the same manner [as] a refund from the credit allowed under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+"(B) Appropriations.—For purposes of section 1324(b)(2) of title 31, United States Code, the credit allowed by subsection (a) shall be treated in the same manner [as] a refund from the credit allowed under [former] section 36A of the Internal Revenue Code of 1986 (as added by this Act).
 
-"(2) Deficiency rules.—For purposes of section 6211(b)(4)(A) of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credit allowable under section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+"(2) Deficiency rules.—For purposes of section 6211(b)(4)(A) of the Internal Revenue Code of 1986, the credit allowable by subsection (a) shall be treated in the same manner as the credit allowable under [former] section 36A of the Internal Revenue Code of 1986 (as added by this Act).
 
 "(d) Refunds Disregarded in the Administration of Federal Programs and Federally Assisted Programs.—Any credit or refund allowed or made to any individual by reason of this section shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following 2 months, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
 

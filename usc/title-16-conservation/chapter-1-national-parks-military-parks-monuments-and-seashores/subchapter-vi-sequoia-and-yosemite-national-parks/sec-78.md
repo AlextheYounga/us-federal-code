@@ -1,8 +1,8 @@
 ### §78. Detail of troops to Sequoia and Yosemite Parks ###
 
-The Secretary of the Army, upon the request of the Secretary of the Interior, is authorized and directed to make the necessary detail of troops to prevent trespassers or intruders from entering the Sequoia National Park and the Yosemite National Park, respectively, in California, for the purpose of destroying the game or objects of curiosity therein, or for any other purpose prohibited by law or regulation for the government of said reservations, and to remove such persons from said parks if found therein.
+The Secretary of the Army, upon the request of the Secretary of the Interior, is authorized and directed to make the necessary detail of troops to prevent trespassers or intruders from entering the Sequoia National Park, the Yosemite National Park, and the General Grant National Park, respectively, in California, for the purpose of destroying the game or objects of curiosity therein, or for any other purpose prohibited by law or regulation for the government of said reservations, and to remove such persons from said parks if found therein.
 
-(June 6, 1900, ch. 791, §1, 31 Stat. 618; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
+(June 6, 1900, ch. 791, §1, 31 Stat. 618; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
 #### Change of Name ####
 
@@ -10,4 +10,4 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### General Grant National Park Abolished ####
 
-Act Mar. 4, 1940, set out as section 80a of this title, abolished the General Grant National Park and added the lands to the Kings Canyon National Park as the General Grant grove section.
+Act Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, set out as section 80a of this title, abolished the General Grant National Park and added the lands to the Kings Canyon National Park as the General Grant grove section.

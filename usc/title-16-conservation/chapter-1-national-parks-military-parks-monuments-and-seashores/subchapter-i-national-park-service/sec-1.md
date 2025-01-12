@@ -1,6 +1,6 @@
 ### §1. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-Section, act Aug. 25, 1916, ch. 408, §1, 39 Stat. 535; Ex. Ord. No. 6166, §2, June 10, 1933; Mar. 2, 1934, ch. 38, §1, 48 Stat. 389; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 104–333, div. I, title VIII, §814(e)(1), Nov. 12, 1996, 110 Stat. 4196, related to creation of National Park Service. See sections 100101, 100301, and 100302 of Title 54, National Park Service and Related Programs.
+Section, act Aug. 25, 1916, ch. 408, §1, 39 Stat. 535; Ex. Ord. No. 6166, §2, June 10, 1933; Mar. 2, 1934, ch. 38, §1, 48 Stat. 389; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 104–333, div. I, title VIII, §814(e)(1), Nov. 12, 1996, 110 Stat. 4196, related to creation of National Park Service. See sections 100101(a), 100301, and 100302(a)(1), (2), (b), (c) of Title 54, National Park Service and Related Programs.
 
 #### Short Title of 2008 Amendment ####
 
@@ -14,7 +14,7 @@ Pub. L. 108–352, §1, Oct. 21, 2004, 118 Stat. 1395, provided that: "This Act 
 
 Pub. L. 107–236, §1, Oct. 9, 2002, 116 Stat. 1483, provided that: "This Act [amending section 460kk of this title] may be cited as the 'Santa Monica Mountains National Recreation Area Boundary Adjustment Act'."
 
-#### Short Title of 2000 Amendments ####
+#### Short Title of 2000 Amendment ####
 
 Pub. L. 106–510, §1, Nov. 13, 2000, 114 Stat. 2363, provided that: "This Act [see Tables for classification] may be cited as the 'Hawaii Volcanoes National Park Adjustment Act of 2000'."
 
