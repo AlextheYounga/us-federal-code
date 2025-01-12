@@ -1,8 +1,6 @@
-### §1087nn. Determination of expected family contribution; data elements ###
+### §1087nn. Determination of student aid index ###
 
-#### (a) General rule for determination of expected family contribution ####
-
-The expected family contribution—
+The student aid index—
 
 (1) for a dependent student shall be determined in accordance with section 1087oo of this title;
 
@@ -10,41 +8,7 @@ The expected family contribution—
 
 (3) for an independent student with dependents other than a spouse shall be determined in accordance with section 1087qq of this title.
 
-#### (b) Data elements ####
-
-The following data elements are considered in determining the expected family contribution:
-
-(1) the available income of (A) the student and the student's spouse, or (B) the student and the student's parents, in the case of a dependent student;
-
-(2) the number of dependents in the family of the student;
-
-(3) the number of dependents in the family of the student, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title and for whom the family may reasonably be expected to contribute to their postsecondary education;
-
-(4) the net assets of (A) the student and the student's spouse, and (B) the student and the student's parents, in the case of a dependent student;
-
-(5) the marital status of the student;
-
-(6) the age of the older parent, in the case of a dependent student, and the student; and
-
-(7) the additional expenses incurred (A) in the case of a dependent student, when both parents of the student are employed or when the family is headed by a single parent who is employed, or (B) in the case of an independent student, when the student is married and the student's spouse is employed, or when the employed student qualifies as a surviving spouse or as a head of a household under section 2 of title 26.
-
 (Pub. L. 89–329, title IV, §474, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 105–244, title IV, §472, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 116–260, div. FF, title VII, §702(c), Dec. 27, 2020, 134 Stat. 3141.)
-
-#### Amendment of Section ####
-
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(c), Dec. 27, 2020, 134 Stat. 3137, 3141; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
-
-#### §1087nn. Determination of student aid index ####
-
-*The student aid index—*
-
-*(1) for a dependent student shall be determined in accordance with section 1087oo of this title;*
-
-*(2) for a single independent student or a married independent student without dependents (other than a spouse) shall be determined in accordance with section 1087pp of this title; and*
-
-*(3) for an independent student with dependents other than a spouse shall be determined in accordance with section 1087qq of this title.*
-
-See 2020 Amendment note below.
 
 #### **Editorial Notes** ####
 

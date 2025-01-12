@@ -1,381 +1,60 @@
-### §1087*oo*. Family contribution for dependent students ###
+### §1087*oo*. Student aid index for dependent students ###
 
-#### (a) Computation of expected family contribution ####
+#### (a) Computation of student aid index ####
 
-For each dependent student, the expected family contribution is equal to the sum of—
+#### (1) In general ####
 
-(1) the parents' contribution from adjusted available income (determined in accordance with subsection (b));
+Except as provided in paragraph (2), for each dependent student, the student aid index is equal to the sum of—
 
-(2) the student contribution from available income (determined in accordance with subsection (g)); and
+(A) the assessment of the parents' adjusted available income (determined in accordance with subsection (b));
 
-(3) the student contribution from assets (determined in accordance with subsection (h)).
+(B) the assessment of the student's available income (determined in accordance with subsection (g)); and
 
-#### (b) Parents' contribution from adjusted available income ####
+(C) the student's available assets (determined in accordance with subsection (h)).
 
-The parents' contribution from adjusted available income is equal to the amount determined by—
+#### (2) Exception ####
+
+If the sum determined under paragraph (1) with respect to a dependent student is less than − $1,500, the student aid index for the dependent student shall be − $1,500.
+
+#### (b) Assessment of parents' adjusted available income ####
+
+The assessment of parents' adjusted available income is equal to the amount determined by—
 
 (1) computing adjusted available income by adding—
 
 (A) the parents' available income (determined in accordance with subsection (c)); and
 
-(B) the parents' contribution from assets (determined in accordance with subsection (d));
+(B) the parents' available assets (determined in accordance with subsection (d));
 
 (2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e); and
 
-(3) dividing the assessment resulting under paragraph (2) by the number of the family members, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter is requested;
-
-except that the amount determined under this subsection shall not be less than zero.
+(3) considering such assessment resulting under paragraph (2) as the amount determined under this subsection.
 
 #### (c) Parents' available income ####
 
 #### (1) In general ####
 
-The parents' available income is determined by deducting from total income (as defined in section 1087vv of this title)—
+The parents' available income is determined by subtracting from total income (as defined in section 1087vv of this title)—
 
 (A) Federal income taxes;
 
-(B) an allowance for State and other taxes, determined in accordance with paragraph (2);
+(B) an allowance for payroll taxes, determined in accordance with paragraph (2);
 
-(C) an allowance for social security taxes, determined in accordance with paragraph (3);
+(C) an income protection allowance, determined in accordance with paragraph (3); and
 
-(D) an income protection allowance, determined in accordance with paragraph (4);
+(D) an employment expense allowance, determined in accordance with paragraph (4).
 
-(E) an employment expense allowance, determined in accordance with paragraph (5); and
+#### (2) Allowance for payroll taxes ####
 
-(F) the amount of any tax credit taken by the parents under section 25A of title 26.
+The allowance for payroll taxes is equal to the sum of—
 
-#### (2) Allowance for State and other taxes ####
+(A) the total amount earned by the parents, multiplied by the rate of tax under section 3101(b) of title 26; and
 
-The allowance for State and other taxes is equal to an amount determined by multiplying total income (as defined in section 1087vv of this title) by a percentage determined according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+(B) the amount earned by the parents that does not exceed such contribution and benefit base (twice such contribution and benefit base, in the case of a joint return) for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.
 
-|                                            If parents' State or territory of residence is—                                             |And parents' total income is—|   |
-|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|---|
-|                                                          less than $15,000 or                                                          |       $15,000 or more       |   |
-|                                                                                                                                        |                             |   |
-|                                                       (1)then the percentage is—                                                       |                             |   |
-|                                                                                                                                        |                             |   |
-|                                                      Alaska, Puerto Rico, Wyoming                                                      |              3              | 2 |
-|                            American Samoa, Guam, Louisiana, Nevada, Texas, Trust Territory, Virgin Islands                             |              4              | 3 |
-|                                              Florida, South Dakota, Tennessee, New Mexico                                              |              5              | 4 |
-|                                                        North Dakota, Washington                                                        |              6              | 5 |
-|              Alabama, Arizona, Arkansas, Indiana, Mississippi, Missouri, Montana, New Hampshire, Oklahoma, West Virginia               |              7              | 6 |
-|                                       Colorado, Connecticut, Georgia, Illinois, Kansas, Kentucky                                       |              8              | 7 |
-|California, Delaware, Idaho, Iowa, Nebraska, North Carolina, Ohio, Pennsylvania, South Carolina, Utah, Vermont, Virginia, Canada, Mexico|              9              | 8 |
-|                                                           Maine, New Jersey                                                            |             10              | 9 |
-|                              District of Columbia, Hawaii, Maryland, Massachusetts, Oregon, Rhode Island                               |             11              |10 |
-|                                                          Michigan, Minnesota                                                           |             12              |11 |
-|                                                               Wisconsin                                                                |             13              |12 |
-|                                                                New York                                                                |             14              |13 |
-|                                                                 Other                                                                  |              9              | 8 |
+#### (3) Income protection allowance ####
 
-#### (3) Allowance for social security taxes ####
-
-The allowance for social security taxes is equal to the amount earned by each parent multiplied by the social security withholding rate appropriate to the tax year of the earnings, up to the maximum statutory social security tax withholding amount for that same tax year.
-
-#### (4) Income protection allowance ####
-
-The income protection allowance is determined by the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
-
-|      Family Size       |Number in College|      |      |       |       |                                               |
-|------------------------|-----------------|------|------|-------|-------|-----------------------------------------------|
-|  (including student)   |        1        |  2   |  3   |   4   |   5   |For each<br/><br/>additional<br/><br/>subtract:|
-|           2            |     $10,520     |$8,720|      |       |       |                    $1,790                     |
-|           3            |     13,100      |11,310|$9,510|       |       |                                               |
-|           4            |     16,180      |14,380|12,590|$10,790|       |                                               |
-|           5            |     19,090      |17,290|15,500|13,700 |$11,910|                                               |
-|           6            |     22,330      |20,530|18,740|16,940 |15,150 |                                               |
-|For each additional add:|      2,520      | 2,520| 2,520| 2,520 | 2,520 |                                               |
-
-#### (5) Employment expense allowance ####
-
-The employment expense allowance is determined as follows (or using a successor provision prescribed by the Secretary under section 1087rr of this title):
-
-(A) If both parents were employed in the year for which their income is reported and both have their incomes reported in determining the expected family contribution, such allowance is equal to the lesser of $2,500 or 35 percent of the earned income of the parent with the lesser earned income.
-
-(B) If a parent qualifies as a surviving spouse or as a head of household as defined in section 2 of title 26, such allowance is equal to the lesser of $2,500 or 35 percent of such parent's earned income.
-
-#### (d) Parents' contribution from assets ####
-
-#### (1) In general ####
-
-The parents' contribution from assets is equal to—
-
-(A) the parental net worth (determined in accordance with paragraph (2)); minus
-
-(B) the education savings and asset protection allowance (determined in accordance with paragraph (3)); multiplied by
-
-(C) the asset conversion rate (determined in accordance with paragraph (4)), except that the result shall not be less than zero.
-
-#### (2) Parental net worth ####
-
-The parental net worth is calculated by adding—
-
-(A) the current balance of checking and savings accounts and cash on hand;
-
-(B) the net value of investments and real estate, excluding the net value of the principal place of residence; and
-
-(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter in this subsection referred to as "NW"), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
-
-|If the net worth of a business or farm is—|       Then the adjusted net worth is:       |
-|------------------------------------------|---------------------------------------------|
-|               Less than $1               |                     $0                      |
-|                $1–$75,000                |              40 percent of NW               |
-|             $75,001–$225,000             | $30,000 plus 50 percent of NW over $75,000  |
-|            $225,001–$375,000             |$105,000 plus 60 percent of NW over $225,000 |
-|             $375,001 or more             |$195,000 plus 100 percent of NW over $375,000|
-
-#### (3) Education savings and asset protection allowance ####
-
-The education savings and asset protection allowance is calculated according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
-
-|If the age of the oldest parent is—|And there are|      |
-|-----------------------------------|-------------|------|
-|            two parents            | one parent  |      |
-|                                   |             |      |
-|     (1)then the allowance is—     |             |      |
-|                                   |             |      |
-|            25 or less             |     $ 0     |  $0  |
-|                26                 |    2,200    | 1,600|
-|                27                 |    4,300    | 3,200|
-|                28                 |    6,500    | 4,700|
-|                29                 |    8,600    | 6,300|
-|                30                 |   10,800    | 7,900|
-|                31                 |   13,000    | 9,500|
-|                32                 |   15,100    |11,100|
-|                33                 |   17,300    |12,600|
-|                34                 |   19,400    |14,200|
-|                35                 |   21,600    |15,800|
-|                36                 |   23,800    |17,400|
-|                37                 |   25,900    |19,000|
-|                38                 |   28,100    |20,500|
-|                39                 |   30,200    |22,100|
-|                40                 |   32,400    |23,700|
-|                41                 |   33,300    |24,100|
-|                42                 |   34,100    |24,700|
-|                43                 |   35,000    |25,200|
-|                44                 |   35,700    |25,800|
-|                45                 |   36,600    |26,300|
-|                46                 |   37,600    |26,900|
-|                47                 |   38,800    |27,600|
-|                48                 |   39,800    |28,200|
-|                49                 |   40,800    |28,800|
-|                50                 |   41,800    |29,500|
-|                51                 |   43,200    |30,200|
-|                52                 |   44,300    |31,100|
-|                53                 |   45,700    |31,800|
-|                54                 |   47,100    |32,600|
-|                55                 |   48,300    |33,400|
-|                56                 |   49,800    |34,400|
-|                57                 |   51,300    |35,200|
-|                58                 |   52,900    |36,200|
-|                59                 |   54,800    |37,200|
-|                60                 |   56,500    |38,100|
-|                61                 |   58,500    |39,200|
-|                62                 |   60,300    |40,300|
-|                63                 |   62,400    |41,500|
-|                64                 |   64,600    |42,800|
-|            65 or more             |   66,800    |44,000|
-
-#### (4) Asset conversion rate ####
-
-The asset conversion rate is 12 percent.
-
-#### (e) Assessment schedule ####
-
-The adjusted available income (as determined under subsection (b)(1) and hereafter in this subsection referred to as "AAI") is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
-
-|    If AAI is—    |    Then the assessment is—     |
-|------------------|--------------------------------|
-|Less than −$3,409 |             −$750              |
-|−$3,409 to $9,400 |           22% of AAI           |
-|$9,401 to $11,800 |$2,068 + 25% of AAI over $9,400 |
-|$11,801 to $14,200|$2,668 + 29% of AAI over $11,800|
-|$14,201 to $16,600|$3,364 + 34% of AAI over $14,200|
-|$16,601 to $19,000|$4,180 + 40% of AAI over $16,600|
-| $19,001 or more  |$5,140 + 47% of AAI over $19,000|
-
-#### (f) Computations in case of separation, divorce, remarriage, or death ####
-
-#### (1) Divorced or separated parents ####
-
-Parental income and assets for a student whose parents are divorced or separated is determined under the following procedures:
-
-(A) Include only the income and assets of the parent with whom the student resided for the greater portion of the 12-month period preceding the date of the application.
-
-(B) If the preceding criterion does not apply, include only the income and assets of the parent who provided the greater portion of the student's support for the 12-month period preceding the date of application.
-
-(C) If neither of the preceding criteria apply, include only the income and assets of the parent who provided the greater support during the most recent calendar year for which parental support was provided.
-
-#### (2) Death of a parent ####
-
-Parental income and assets in the case of the death of any parent is determined as follows:
-
-(A) If either of the parents has died, the student shall include only the income and assets of the surviving parent.
-
-(B) If both parents have died, the student shall not report any parental income or assets.
-
-#### (3) Remarried parents ####
-
-If a parent whose income and assets are taken into account under paragraph (1) of this subsection, or if a parent who is a widow or widower and whose income is taken into account under paragraph (2) of this subsection, has remarried, the income of that parent's spouse shall be included in determining the parent's adjusted available income only if—
-
-(A) the student's parent and the stepparent are married as of the date of application for the award year concerned; and
-
-(B) the student is not an independent student.
-
-#### (g) Student contribution from available income ####
-
-#### (1) In general ####
-
-The student contribution from available income is equal to—
-
-(A) the student's total income (determined in accordance with section 1087vv of this title); minus
-
-(B) the adjustment to student income (determined in accordance with paragraph (2)); multiplied by
-
-(C) the assessment rate as determined in paragraph (5);
-
-except that the amount determined under this subsection shall not be less than zero.
-
-#### (2) Adjustment to student income ####
-
-The adjustment to student income is equal to the sum of—
-
-(A) Federal income taxes of the student;
-
-(B) an allowance for State and other income taxes (determined in accordance with paragraph (3));
-
-(C) an allowance for social security taxes determined in accordance with paragraph (4);
-
-(D) an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
-
-(i) for academic year 2009–2010, $3,750;
-
-(ii) for academic year 2010–2011, $4,500;
-
-(iii) for academic year 2011–2012, $5,250; and
-
-(iv) for academic year 2012–2013, $6,000;
-
-(E) the amount of any tax credit taken by the student under section 25A of title 26; and
-
-(F) an allowance for parents' negative available income, determined in accordance with paragraph (6).
-
-#### (3) Allowance for State and other income taxes ####
-
-The allowance for State and other income taxes is equal to an amount determined by multiplying total income (as defined in section 1087vv of this title) by a percentage determined according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
-
-|                                   If the students' State or territory of<br/><br/>residence is—                                   |The percentage is—|
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------|
-|Alaska, American Samoa, Florida, Guam, Nevada, South Dakota, Tennessee, Texas, Trust Territory, Virgin Islands, Washington, Wyoming|        0         |
-|                                                Connecticut, Louisiana, Puerto Rico                                                |        1         |
-|                                         Arizona, New Hampshire, New Mexico, North Dakota                                          |        2         |
-|           Alabama, Colorado, Illinois, Indiana, Kansas, Mississippi, Missouri, Montana, Nebraska, New Jersey, Oklahoma            |        3         |
-|          Arkansas, Georgia, Iowa, Kentucky, Maine, Pennsylvania, Utah, Vermont, Virginia, West Virginia, Canada, Mexico           |        4         |
-|                       California, Idaho, Massachusetts, North Carolina, Ohio, Rhode Island, South Carolina                        |        5         |
-|                                               Hawaii, Maryland, Michigan, Wisconsin                                               |        6         |
-|                                         Delaware, District of Columbia, Minnesota, Oregon                                         |        7         |
-|                                                             New York                                                              |        8         |
-|                                                               Other                                                               |        4         |
-
-#### (4) Allowance for social security taxes ####
-
-The allowance for social security taxes is equal to the amount earned by the student multiplied by the social security withholding rate appropriate to the tax year of the earnings, up to the maximum statutory social security tax withholding amount for that same tax year.
-
-#### (5) Assessment of available income ####
-
-The student's available income (determined in accordance with paragraph (1) of this subsection) is assessed at 50 percent.
-
-#### (6) Allowance for parents' negative available income ####
-
-The allowance for parents' negative available income is the amount, if any, by which the sum of the amounts deducted under subparagraphs (A) through (F) of subsection (c)(1) exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' contribution from assets (as determined in accordance with subsection (d)).
-
-#### (h) Student contribution from assets ####
-
-The student contribution from assets is determined by calculating the net assets of the student and multiplying such amount by 20 percent, except that the result shall not be less than zero.
-
-#### (i) Adjustments to parents' contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter ####
-
-For periods of enrollment other than 9 months, the parents' contribution from adjusted available income (as determined under subsection (b)) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
-
-(1) For periods of enrollment less than 9 months, the parents' contribution from adjusted available income is divided by 9 and the result multiplied by the number of months enrolled.
-
-(2) For periods of enrollment greater than 9 months—
-
-(A) the parents' adjusted available income (determined in accordance with subsection (b)(1)) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4)) for a family of four and a family of five, each with one child in college;
-
-(B) the resulting revised parents' adjusted available income is assessed according to subsection (e) and adjusted according to subsection (b)(3) to determine a revised parents' contribution from adjusted available income;
-
-(C) the original parents' contribution from adjusted available income is subtracted from the revised parents' contribution from adjusted available income, and the result is divided by 12 to determine the monthly adjustment amount; and
-
-(D) the original parents' contribution from adjusted available income is increased by the product of the monthly adjustment amount multiplied by the number of months greater than 9 for which the student will be enrolled.
-
-#### (j) Adjustments to student's contribution for enrollment periods of less than nine months ####
-
-For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g)) is determined, for purposes other than subpart 2 of part A, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
-
-(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948; Pub. L. 116–260, div. FF, title VII, §702(d), Dec. 27, 2020, 134 Stat. 3141; Pub. L. 118–40, div. B, §101(a), Mar. 1, 2024, 138 Stat. 18.)
-
-#### Amendment of Section ####
-
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 Stat. 3137, 3141; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819; Pub. L. 118–40, div. B, §101(a), Mar. 1, 2024, 138 Stat. 18, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
-
-#### §1087oo. Student aid index for dependent students ####
-
-#### *(a) Computation of student aid index* ####
-
-#### *(1) In general* ####
-
-*Except as provided in paragraph (2), for each dependent student, the student aid index is equal to the sum of—*
-
-*(A) the assessment of the parents' adjusted available income (determined in accordance with subsection (b));*
-
-*(B) the assessment of the student's available income (determined in accordance with subsection (g)); and*
-
-*(C) the student's available assets (determined in accordance with subsection (h)).*
-
-#### *(2) Exception* ####
-
-*If the sum determined under paragraph (1) with respect to a dependent student is less than − $1,500, the student aid index for the dependent student shall be − $1,500.*
-
-#### *(b) Assessment of parents' adjusted available income* ####
-
-*The assessment of parents' adjusted available income is equal to the amount determined by—*
-
-*(1) computing adjusted available income by adding—*
-
-*(A) the parents' available income (determined in accordance with subsection (c)); and*
-
-*(B) the parents' available assets (determined in accordance with subsection (d));*
-
-*(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e); and*
-
-*(3) considering such assessment resulting under paragraph (2) as the amount determined under this subsection.*
-
-#### *(c) Parents' available income* ####
-
-#### *(1) In general* ####
-
-*The parents' available income is determined by subtracting from total income (as defined in section 1087vv of this title)—*
-
-*(A) Federal income taxes;*
-
-*(B) an allowance for payroll taxes, determined in accordance with paragraph (2);*
-
-*(C) an income protection allowance, determined in accordance with paragraph (3); and*
-
-*(D) an employment expense allowance, determined in accordance with paragraph (4).*
-
-#### *(2) Allowance for payroll taxes* ####
-
-*The allowance for payroll taxes is equal to the sum of—*
-
-*(A) the total amount earned by the parents, multiplied by the rate of tax under section 3101(b) of title 26; and*
-
-*(B) the amount earned by the parents that does not exceed such contribution and benefit base (twice such contribution and benefit base, in the case of a joint return) for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.*
-
-#### *(3) Income protection allowance* ####
-
-*The income protection allowance shall equal the amount determined in the following table, as adjusted by the Secretary pursuant to section 1087rr(b) of this title:*
+The income protection allowance shall equal the amount determined in the following table, as adjusted by the Secretary pursuant to section 1087rr(b) of this title:
 
 |Family Size (including<br/><br/>student)|Amount |
 |----------------------------------------|-------|
@@ -386,29 +65,29 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 St
 |                   6                    |$49,500|
 |        For each additional add         |$5,590.|
 
-#### *(4) Employment expense allowance* ####
+#### (4) Employment expense allowance ####
 
-*The employment expense allowance is equal to the lesser of $4,000 or 35 percent of the single parent's earned income or married parents' combined earned income (as adjusted by the Secretary pursuant to section 1087rr(g) of this title).*
+The employment expense allowance is equal to the lesser of $4,000 or 35 percent of the single parent's earned income or married parents' combined earned income (as adjusted by the Secretary pursuant to section 1087rr(g) of this title).
 
-#### *(d) Parents' available assets* ####
+#### (d) Parents' available assets ####
 
-#### *(1) In general* ####
+#### (1) In general ####
 
-#### *(A) Determination* ####
+#### (A) Determination ####
 
-*Except as provided in subparagraph (B), the parents' available assets are equal to—*
+Except as provided in subparagraph (B), the parents' available assets are equal to—
 
-*(i) the difference between the parents' assets and the asset protection allowance (determined in accordance with paragraph (2)); multiplied by*
+(i) the difference between the parents' assets and the asset protection allowance (determined in accordance with paragraph (2)); multiplied by
 
-*(ii) 12 percent.*
+(ii) 12 percent.
 
-#### *(B) Not less than zero* ####
+#### (B) Not less than zero ####
 
-*The parents' available assets under this subsection shall not be less than zero.*
+The parents' available assets under this subsection shall not be less than zero.
 
-#### *(2) Asset protection allowance* ####
+#### (2) Asset protection allowance ####
 
-*The asset protection allowance is calculated based on the following table (as revised by the Secretary pursuant to section 10877rr(d) of this title):*
+The asset protection allowance is calculated based on the following table (as revised by the Secretary pursuant to section 10877rr(d) of this title):
 
 |If the age of the oldest parent is—|And there are|        |
 |-----------------------------------|-------------|--------|
@@ -458,9 +137,9 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 St
 |                64                 |   $10,200   | $3,800 |
 |            65 or more             |   $10,500   | $3,900.|
 
-#### *(e) Assessment schedule* ####
+#### (e) Assessment schedule ####
 
-*The assessment of the parents' adjusted available income (as determined under subsection (b)(1) and hereafter in this subsection referred to as "AAI") is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(e) of this title):*
+The assessment of the parents' adjusted available income (as determined under subsection (b)(1) and hereafter in this subsection referred to as "AAI") is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(e) of this title):
 
 |If the parents' AAI is—|Then the parents' contribution from AAI is—|
 |-----------------------|-------------------------------------------|
@@ -472,73 +151,73 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 St
 |   $30,701 to $35,100  |     $7,734 + 40% of AAI over $30,700      |
 |    $35,101 or more    |     $9,494 + 47% of AAI over $35,100.     |
 
-#### *(f) Consideration of parental income* ####
+#### (f) Consideration of parental income ####
 
-#### *(1) Parents who live together* ####
+#### (1) Parents who live together ####
 
-*Parental income and assets in the case of student whose parents are married and not separated, or who are unmarried but live together, shall include the income and assets of both parents.*
+Parental income and assets in the case of student whose parents are married and not separated, or who are unmarried but live together, shall include the income and assets of both parents.
 
-#### *(2) Divorced or separated parents* ####
+#### (2) Divorced or separated parents ####
 
-*Parental income and assets for a student whose parents are divorced or separated, but not remarried, is determined by including only the income and assets of the parent who provides the greater portion of the student's financial support.*
+Parental income and assets for a student whose parents are divorced or separated, but not remarried, is determined by including only the income and assets of the parent who provides the greater portion of the student's financial support.
 
-#### *(3) Death of a parent* ####
+#### (3) Death of a parent ####
 
-*Parental income and assets in the case of the death of any parent is determined as follows:*
+Parental income and assets in the case of the death of any parent is determined as follows:
 
-*(A) If either of the parents has died, the surviving parent shall be considered a single parent, until that parent has remarried.*
+(A) If either of the parents has died, the surviving parent shall be considered a single parent, until that parent has remarried.
 
-*(B) If both parents have died, the student shall not report any parental income or assets.*
+(B) If both parents have died, the student shall not report any parental income or assets.
 
-#### *(4) Remarried parents* ####
+#### (4) Remarried parents ####
 
-*If a parent whose income and assets are taken into account under paragraph (2), or if a parent who is a widow or widower and whose income is taken into account under paragraph (3), has remarried, the income of that parent's spouse shall be included in determining the parent's assessment of adjusted available income if the student's parent and the stepparent are married as of the date of application for the award year concerned.*
+If a parent whose income and assets are taken into account under paragraph (2), or if a parent who is a widow or widower and whose income is taken into account under paragraph (3), has remarried, the income of that parent's spouse shall be included in determining the parent's assessment of adjusted available income if the student's parent and the stepparent are married as of the date of application for the award year concerned.
 
-#### *(5) Single parent who is not divorced or separated* ####
+#### (5) Single parent who is not divorced or separated ####
 
-*Parental income and assets in the case of a student whose parent is not described in paragraph (1) and is a single parent who is not divorced, separated, or remarried, shall include the income and assets of such single parent.*
+Parental income and assets in the case of a student whose parent is not described in paragraph (1) and is a single parent who is not divorced, separated, or remarried, shall include the income and assets of such single parent.
 
-#### *(g) Student's available income* ####
+#### (g) Student's available income ####
 
-#### *(1) In general* ####
+#### (1) In general ####
 
-*The student's available income is equal to—*
+The student's available income is equal to—
 
-*(A) the difference between the student's total income (determined in accordance with section 480) and the adjustment to student income (determined in accordance with paragraph (2)); multiplied by*
+(A) the difference between the student's total income (determined in accordance with section 480) and the adjustment to student income (determined in accordance with paragraph (2)); multiplied by
 
-*(B) 50 percent,*
+(B) 50 percent,
 
-*except that the amount determined under this paragraph shall not be less than -$1,500 for award year 2024–2025 and not less than zero for award year 2025–2026 and each award year thereafter.*
+except that the amount determined under this paragraph shall not be less than − $1,500 for award year 2024–2025 and not less than zero for award year 2025–2026 and each award year thereafter.
 
-#### *(2) Adjustment to student income* ####
+#### (2) Adjustment to student income ####
 
-*The adjustment to student income is equal to the sum of—*
+The adjustment to student income is equal to the sum of—
 
-*(A) Federal income taxes;*
+(A) Federal income taxes;
 
-*(B) an allowance for payroll taxes determined in accordance with paragraph (3);*
+(B) an allowance for payroll taxes determined in accordance with paragraph (3);
 
-*(C) an income protection allowance that is equal to $9,410, as adjusted pursuant to section 1087rr(b) of this title; and*
+(C) an income protection allowance that is equal to $9,410, as adjusted pursuant to section 1087rr(b) of this title; and
 
-*(D) an allowance for parents' negative available income, determined in accordance with paragraph (4).*
+(D) an allowance for parents' negative available income, determined in accordance with paragraph (4).
 
-#### *(3) Allowance for payroll taxes* ####
+#### (3) Allowance for payroll taxes ####
 
-*The allowance for payroll taxes is equal to the sum of—*
+The allowance for payroll taxes is equal to the sum of—
 
-*(A) the total amount earned by the student, multiplied by the rate of tax under section 3101(b) of title 26; and*
+(A) the total amount earned by the student, multiplied by the rate of tax under section 3101(b) of title 26; and
 
-*(B) the amount earned by the student that does not exceed such contribution and benefit base for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.*
+(B) the amount earned by the student that does not exceed such contribution and benefit base for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.
 
-#### *(4) Allowance for parents' negative available income* ####
+#### (4) Allowance for parents' negative available income ####
 
-*The allowance for parents' negative available income is the amount, if any, by which the sum of the amounts deducted under subsection (c)(1) exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' available assets (as determined in accordance with subsection (d)).*
+The allowance for parents' negative available income is the amount, if any, by which the sum of the amounts deducted under subsection (c)(1) exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' available assets (as determined in accordance with subsection (d)).
 
-#### *(h) Student's assets* ####
+#### (h) Student's assets ####
 
-*The student's assets are determined by calculating the assets of the student and multiplying such amount by 20 percent, except that the result shall not be less than zero.*
+The student's assets are determined by calculating the assets of the student and multiplying such amount by 20 percent, except that the result shall not be less than zero.
 
-See 2020 and 2024 Amendment notes below.
+(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948; Pub. L. 116–260, div. FF, title VII, §702(d), Dec. 27, 2020, 134 Stat. 3141; Pub. L. 118–40, div. B, §101(a), Mar. 1, 2024, 138 Stat. 18.)
 
 #### **Editorial Notes** ####
 

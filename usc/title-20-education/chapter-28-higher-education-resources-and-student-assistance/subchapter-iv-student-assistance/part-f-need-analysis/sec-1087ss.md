@@ -1,244 +1,102 @@
-### §1087ss. Simplified needs test ###
+### §1087ss. Eligible applicants exempt from asset reporting ###
 
-#### (a) Simplified application section ####
+#### (a) In general ####
+
+Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under section 1090 of this title, on or after July 1, 2024.
+
+#### (b) Applicants exempt from asset reporting ####
 
 #### (1) In general ####
 
-The Secretary shall develop and use an easily identifiable simplified application section as part of the common financial reporting form prescribed under section 1090(a) of this title for families described in subsections (b) and (c) of this section.
+Except as provided in paragraph (3), in carrying out section 1090 of this title, the Secretary shall not use asset information from an eligible applicant or, as applicable, the parent or spouse of an eligible applicant.
 
-#### (2) Reduced data requirements ####
+#### (2) Eligible applicants ####
 
-The simplified application form shall—
+In this subsection, the term "eligible applicant" means an applicant who meets at least one of the following criteria:
 
-(A) in the case of a family meeting the requirements of subsection (b)(1), permit such family to submit only the data elements required under subsection (b)(2) for the purposes of establishing eligibility for student financial aid under this part; and
+(A) Is an applicant who qualifies for an automatic zero student aid index or negative student aid index under subsection (b) or (c) of section 1087mm of this title.
 
-(B) in the case of a family meeting the requirements of subsection (c), permit such family to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c).
+(B) Is an applicant who is a dependent student and the student's parents have a total adjusted gross income (excluding any income of the dependent student) that is less than $60,000 and do not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules) with the Federal income tax return for the second preceding tax year, and—
 
-#### (b) Simplified needs test ####
+(i) do not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or
 
-#### (1) Eligibility ####
+(ii) file a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.
 
-An applicant is eligible to file a simplified form containing the elements required by paragraph (2) if—
+(C) Is an applicant who is an independent student and the student (including the student's spouse, if any) has a total adjusted gross income that is less than $60,000 and does not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules), with the Federal income tax return for the second preceding tax year, and—
 
-(A) in the case of an applicant who is a dependent student—
+(i) does not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or
 
-(i) the student's parents—
+(ii) files a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.
 
-(I) file, or are eligible to file, a form described in paragraph (3);
+(D) Is an applicant who, at any time during the previous 24-month period, received a benefit under a means-tested Federal benefit program (or whose parent or spouse received such a benefit, as applicable).
 
-(II) certify that the parents are not required to file a Federal income tax return;
+#### (3) Special rule ####
 
-(III) include at least one parent who is a dislocated worker; or
+An eligible applicant shall not be exempt from asset reporting under this section if the applicant is a dependent student and the students' parents do not—
 
-(IV) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
+(A) reside in the United States or a United States territory; or
 
-(ii) the total adjusted gross income of the parents (excluding any income of the dependent student) is less than $50,000; or
+(B) file taxes in the United States or a United States territory, except if such nonfiling is due to not being required to file a Federal tax return for the applicable tax year due to a low income.
 
-(B) in the case of an applicant who is an independent student—
-
-(i) the student (and the student's spouse, if any)—
-
-(I) files, or is eligible to file, a form described in paragraph (3);
-
-(II) certifies that the student (and the student's spouse, if any) is not required to file a Federal income tax return;
-
-(III) is a dislocated worker or has a spouse who is a dislocated worker; or
-
-(IV) received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
-
-(ii) the adjusted gross income of the student (and the student's spouse, if any) is less than $50,000.
-
-#### (2) Simplified test elements ####
-
-The six elements to be used for the simplified needs analysis are—
-
-(A) adjusted gross income,
-
-(B) Federal taxes paid,
-
-(C) untaxed income and benefits,
-
-(D) the number of family members,
-
-(E) the number of family members in postsecondary education, and
-
-(F) an allowance (A) for State and other taxes, as defined in section 1087oo(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
-
-#### (3) Qualifying forms ####
-
-In the case of an independent student, the student, or in the case of a dependent student, the family, files a form described in this subsection, or subsection (c), as the case may be, if the student or family, as appropriate, files—
-
-(A) a form 1040A or 1040EZ (including any prepared or electronic version of such form) required pursuant to title 26;
-
-(B) a form 1040 (including any prepared or electronic version of such form) required pursuant to title 26, except that such form shall be considered a qualifying form only if the student or family files such form in order to take a tax credit under section 25A of title 26, and would otherwise be eligible to file a form described in subparagraph (A); or
-
-(C) an income tax return (including any prepared or electronic version of such return) required pursuant to the tax code of the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or Palau.
-
-#### (c) Zero expected family contribution ####
-
-The Secretary shall consider an applicant to have an expected family contribution equal to zero if—
-
-(1) in the case of a dependent student—
-
-(A) the student's parents—
-
-(i) file, or are eligible to file, a form described in subsection (b)(3);
-
-(ii) certify that the parents are not required to file a Federal income tax return;
-
-(iii) include at least one parent who is a dislocated worker; or
-
-(iv) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
-
-(B) the sum of the adjusted gross income of the parents is less than or equal to $23,000; or
-
-(2) in the case of an independent student with dependents other than a spouse—
-
-(A) the student (and the student's spouse, if any)—
-
-(i) files, or is eligible to file, a form described in subsection (b)(3);
-
-(ii) certifies that the student (and the student's spouse, if any) is not required to file a Federal income tax return;
-
-(iii) is a dislocated worker or has a spouse who is a dislocated worker; or
-
-(iv) received benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
-
-(B) the sum of the adjusted gross income of the student and spouse (if appropriate) is less than or equal to $23,000.
-
-An individual is not required to qualify or file for the earned income credit in order to be eligible under this subsection. The Secretary shall annually adjust the income level necessary to qualify an applicant for the zero expected family contribution. The income level shall be adjusted according to increases in the Consumer Price Index, as defined in section 1087rr(f) of this title.
-
-#### (d) Definitions ####
+#### (4) Definitions ####
 
 In this section:
 
-#### (1) Dislocated worker ####
+#### (A) Schedule A ####
 
-The term "dislocated worker" has the meaning given the term in section 3102 of title 29.
+The term "Schedule A" means a form or information by a taxpayer to report itemized deductions.
 
-#### (2) Means-tested Federal benefit program ####
+#### (B) Schedule B ####
 
-The term "means-tested Federal benefit program" means a mandatory spending program of the Federal Government, other than a program under this subchapter, in which eligibility for the program's benefits, or the amount of such benefits, are determined on the basis of income or resources of the individual or family seeking the benefit, and may include such programs as—
+The term "Schedule B" means a form or information filed by a taxpayer to report interest and ordinary dividend income.
 
-(A) the supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.);
+#### (C) Schedule C ####
 
-(B) the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
+The term "Schedule C" means a form or information filed by a taxpayer to report income or loss from a business operated or a profession practiced as a sole proprietor.
 
-(C) the free and reduced price school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.);
+#### (D) Schedule D ####
 
-(D) the program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+The term "Schedule D" means a form or information filed by a taxpayer to report sales, exchanges or some involuntary conversions of capital assets, certain capital gain distributions, and nonbusiness bad debts.
 
-(E) the special supplemental nutrition program for women, infants, and children established by section 1786 of title 42; and
+#### (E) Schedule E ####
 
-(F) other programs identified by the Secretary.
+The term "Schedule E" means a form or information filed by a taxpayer to report income from rental properties, royalties, partnerships, S corporations, estates, trusts, and residual interests in real estate mortgage investment conduits.
+
+#### (F) Schedule F ####
+
+The term "Schedule F" means a form or information filed by a taxpayer to report farm income and expenses.
+
+#### (G) Schedule H ####
+
+The term "Schedule H" means a form or information filed by a taxpayer to report household employment taxes.
+
+#### (H) Means-tested Federal benefit program ####
+
+The term "means-tested Federal benefit program" means any of the following:
+
+(i) The supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.).
+
+(ii) The supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), a nutrition assistance program carried out under section 19 of such Act (7 U.S.C. 2028), and a supplemental nutrition assistance program carried out under section 1841(c) of title 48.
+
+(iii) The program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.).
+
+(iv) The special supplemental nutrition program for women, infants, and children established by section 1786 of title 42.
+
+(v) The Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
+
+(vi) Federal housing assistance programs, including tenant-based assistance under section 1437f(o) of title 42, and public housing, as defined in section 1437a(b)(1) of title 42.
+
+(vii) Other means-tested programs determined by the Secretary to be approximately consistent with the income eligibility requirements of the means-tested programs under clauses (i) through (vi).
 
 (Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(h), Dec. 27, 2020, 134 Stat. 3152; Pub. L. 117–103, div. R, §102(b)(3), Mar. 15, 2022, 136 Stat. 819.)
-
-#### Amendment of Section ####
-
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152; Pub. L. 117–103, div. R, §102(a), (b)(3), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
-
-#### §1087ss. Eligible applicants exempt from asset reporting ####
-
-#### *(a) In general* ####
-
-*Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under section 1090 of this title, on or after July 1, 2024.*
-
-#### *(b) Applicants exempt from asset reporting* ####
-
-#### *(1) In general* ####
-
-*Except as provided in paragraph (3), in carrying out section 1090 of this title, the Secretary shall not use asset information from an eligible applicant or, as applicable, the parent or spouse of an eligible applicant.*
-
-#### *(2) Eligible applicants* ####
-
-*In this subsection, the term "eligible applicant" means an applicant who meets at least one of the following criteria:*
-
-*(A) Is an applicant who qualifies for an automatic zero student aid index or negative student aid index under subsection (b) or (c) of section 1087mm of this title.*
-
-*(B) Is an applicant who is a dependent student and the student's parents have a total adjusted gross income (excluding any income of the dependent student) that is less than $60,000 and do not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules) with the Federal income tax return for the second preceding tax year, and—*
-
-*(i) do not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or*
-
-*(ii) file a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.*
-
-*(C) Is an applicant who is an independent student and the student (including the student's spouse, if any) has a total adjusted gross income that is less than $60,000 and does not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules), with the Federal income tax return for the second preceding tax year, and—*
-
-*(i) does not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or*
-
-*(ii) files a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.*
-
-*(D) Is an applicant who, at any time during the previous 24-month period, received a benefit under a means-tested Federal benefit program (or whose parent or spouse received such a benefit, as applicable).*
-
-#### *(3) Special rule* ####
-
-*An eligible applicant shall not be exempt from asset reporting under this section if the applicant is a dependent student and the students' parents do not—*
-
-*(A) reside in the United States or a United States territory; or*
-
-*(B) file taxes in the United States or a United States territory, except if such nonfiling is due to not being required to file a Federal tax return for the applicable tax year due to a low income.*
-
-#### *(4) Definitions* ####
-
-*In this section:*
-
-#### *(A) Schedule A* ####
-
-*The term "Schedule A" means a form or information by a taxpayer to report itemized deductions.*
-
-#### *(B) Schedule B* ####
-
-*The term "Schedule B" means a form or information filed by a taxpayer to report interest and ordinary dividend income.*
-
-#### *(C) Schedule C* ####
-
-*The term "Schedule C" means a form or information filed by a taxpayer to report income or loss from a business operated or a profession practiced as a sole proprietor.*
-
-#### *(D) Schedule D* ####
-
-*The term "Schedule D" means a form or information filed by a taxpayer to report sales, exchanges or some involuntary conversions of capital assets, certain capital gain distributions, and nonbusiness bad debts.*
-
-#### *(E) Schedule E* ####
-
-*The term "Schedule E" means a form or information filed by a taxpayer to report income from rental properties, royalties, partnerships, S corporations, estates, trusts, and residual interests in real estate mortgage investment conduits.*
-
-#### *(F) Schedule F* ####
-
-*The term "Schedule F" means a form or information filed by a taxpayer to report farm income and expenses.*
-
-#### *(G) Schedule H* ####
-
-*The term "Schedule H" means a form or information filed by a taxpayer to report household employment taxes.*
-
-#### *(H) Means-tested Federal benefit program* ####
-
-*The term "means-tested Federal benefit program" means any of the following:*
-
-*(i) The supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.).*
-
-*(ii) The supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), a nutrition assistance program carried out under section 19 of such Act (7 U.S.C. 2028), and a supplemental nutrition assistance program carried out under section 1841(c) of title 48.*
-
-*(iii) The program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.).*
-
-*(iv) The special supplemental nutrition program for women, infants, and children established by section 1786 of title 42.*
-
-*(v) The Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).*
-
-*(vi) Federal housing assistance programs, including tenant-based assistance under section 1437f(o) of title 42, and public housing, as defined in section 1437a(b)(1) of title 42.*
-
-*(vii) Other means-tested programs determined by the Secretary to be approximately consistent with the income eligibility requirements of the means-tested programs under clauses (i) through (vi).*
-
-See 2020 and 2022 Amendment notes below.
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
-The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(4)(H)(i), (iii), (v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
-
-The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (b)(4)(H)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification ####
 

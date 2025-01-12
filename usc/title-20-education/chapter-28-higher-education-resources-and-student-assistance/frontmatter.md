@@ -52,7 +52,7 @@ Sec.
 
 1015c. Database of student information prohibited.
 
-1015d. In-State tuition rates for members of the armed forces on active duty, spouses, and dependent children.
+1015d. In-State tuition rates for members of qualifying Federal service.
 
 1015e. State higher education information system pilot program.
 
@@ -422,7 +422,7 @@ Sec.
 
 #### subpart 10—scholarships for veteran's dependents ####
 
-1070h. Scholarships for veteran's dependents.
+1070h. Repealed.
 
 #### Part B—Federal Family Education Loan Program ####
 
@@ -576,23 +576,23 @@ Sec.
 
 1087 ll. Cost of attendance.
 
-1087mm. Family contribution.
+1087mm. Special rules for student aid index.
 
-1087nn. Determination of expected family contribution; data elements.
+1087nn. Determination of student aid index.
 
-1087 oo. Family contribution for dependent students.
+1087 oo. Student aid index for dependent students.
 
-1087pp. Family contribution for independent students without dependents other than a spouse.
+1087pp. Student aid index for independent students without dependents other than a spouse.
 
-1087qq. Family contribution for independent students with dependents other than a spouse.
+1087qq. Student aid index for independent students with dependents other than a spouse.
 
 1087rr. Regulations; updated tables.
 
-1087ss. Simplified needs test.
+1087ss. Eligible applicants exempt from asset reporting.
 
 1087tt. Discretion of student financial aid administrators.
 
-1087uu. Disregard of student aid in other Federal programs.
+1087uu. Disregard of student aid in other programs.
 
 1087uu–1. Native American students.
 
@@ -608,7 +608,7 @@ Sec.
 
 1089. Master calendar.
 
-1090. Forms and regulations.
+1090. Free Application for Federal Student Aid.
 
 1091. Student eligibility.
 
@@ -630,7 +630,7 @@ Sec.
 
 1092e. College access initiative.
 
-1092f. Early awareness of financial aid eligibility.
+1092f. Early awareness and outreach of financial aid eligibility.
 
 1093. Distance education demonstration programs.
 

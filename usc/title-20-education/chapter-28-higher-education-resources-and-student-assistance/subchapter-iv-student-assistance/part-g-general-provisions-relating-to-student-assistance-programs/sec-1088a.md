@@ -22,7 +22,7 @@ Section 1088b–3, Pub. L. 89–329, title IV, §493C, as added Pub. L. 94–482
 
 Section 1088c, Pub. L. 89–329, title IV, §494, formerly §464, as added Pub. L. 90–575, title I, §152, Oct. 16, 1968, 82 Stat. 1033; renumbered §494 and amended Pub. L. 92–318, title I, §§137(b), 138(a), June 23, 1972, 86 Stat. 272, 280, related to maintenance of effort requirement.
 
-Section 1088d, Pub. L. 89–329, title IV, §495, as added Pub. L. 92–318, title I, §139, June 23, 1972, 86 Stat. 280; amended S. Res. 4, Feb. 4, 1977; S. Res. 30, Mar. 7, 1979, related to requirement that copies of rules, regulations, instructions, and application forms be supplied to Congressional committees. See section 1090(b) of this title.
+Section 1088d, Pub. L. 89–329, title IV, §495, as added Pub. L. 92–318, title I, §139, June 23, 1972, 86 Stat. 280; amended S. Res. 4, Feb. 4, 1977; S. Res. 30, Mar. 7, 1979, related to requirement that copies of rules, regulations, instructions, and application forms be supplied to Congressional committees.
 
 Section 1088e, Pub. L. 89–329, title IV, §496, as added Pub. L. 92–318, title I, §139A(a), June 23, 1972, 86 Stat. 281, related to transfer of funds between programs. See section 1095 of this title.
 

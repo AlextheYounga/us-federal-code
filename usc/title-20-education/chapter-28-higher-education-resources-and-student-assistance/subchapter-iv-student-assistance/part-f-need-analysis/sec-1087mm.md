@@ -1,98 +1,20 @@
-### §1087mm. Family contribution ###
+### §1087mm. Special rules for student aid index ###
 
 #### (a) In general ####
 
-For the purpose of this subchapter, other than subpart 2 of part A, and except as provided in subsection (b), the term "family contribution" with respect to any student means the amount which the student and the student's family may be reasonably expected to contribute toward the student's postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.
+For the purpose of this chapter, the term "student aid index" means, with respect to a student, an index that reflects an evaluation of a student's approximate financial resources to contribute toward the student's postsecondary education for the academic year, as determined in accordance with this part.
 
-#### (b) Special rule ####
+#### (b) Special rule for students eligible for the total maximum Pell Grant ####
 
-#### (1) In general ####
+The Secretary shall consider an applicant to automatically have a student aid index equal to zero if the applicant is eligible for the total maximum Federal Pell Grant under section 1070a(b)(1)(A) of this title, except that, if the applicant has a calculated student aid index of less than zero the Secretary shall consider the negative number as the student aid index for the applicant.
 
-Notwithstanding any other provision of this subchapter, the family contribution of each student described in paragraph (2) shall be deemed to be zero for the academic year for which the determination is made.
+#### (c) Special rule for nonfilers ####
 
-#### (2) Applicability ####
-
-Paragraph (1) shall apply to any dependent or independent student with respect to determinations of need for academic year 2009–2010 (in the case of a student who meets the requirement of subparagraph (B)(i)), or academic year 2018–2019 (in the case of a student who meets the requirement of subparagraph (B)(ii)), and succeeding academic years—
-
-(A) who is eligible to receive a Federal Pell Grant for the academic year for which the determination is made;
-
-(B) whose parent or guardian was—
-
-(i) a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001; or
-
-(ii) actively serving as a public safety officer and died in the line of duty while performing as a public safety officer; and
-
-(C) who, at the time of the parent or guardian's death, was—
-
-(i) less than 24 years of age; or
-
-(ii) enrolled at an institution of higher education on a part-time or full-time basis.
-
-#### (3) Information ####
-
-#### (A) Armed Forces ####
-
-Notwithstanding any other provision of law, the Secretary of Veterans Affairs and the Secretary of Defense, as appropriate, shall provide the Secretary of Education with information necessary to determine which students meet the requirements of subparagraphs (A), (B)(i), and (C) of paragraph (2).
-
-#### (B) Public safety officers ####
-
-Notwithstanding any other provision of law, unless the Secretary establishes an alternate method to adjust the expected family contribution, for each student who meets the requirements of subparagraphs (A), (B)(ii), and (C) of paragraph (2), a financial aid administrator shall—
-
-(i) verify with the student that the student is eligible for the adjustment;
-
-(ii) adjust the expected family contribution in accordance with this subsection; and
-
-(iii) notify the Secretary of the adjustment and the student's eligibility for the adjustment.
-
-#### (4) Treatment of Pell amount ####
-
-Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796d–1),<sup><a href="#1087mm_1_target" name="1087mm_1">1</a></sup> in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student's educational assistance benefits under the Public Safety Officers' Benefits program under subpart 2 of part L of title I of such Act.
-
-#### (5) Definition of public safety officer ####
-
-For purposes of this subsection, the term "public safety officer" means—
-
-(A) a public safety officer, as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b); <sup><a href="#1087mm_1_target" name="1087mm_1">1</a></sup> or
-
-(B) a fire police officer, defined as an individual who—
-
-(i) is serving in accordance with State or local law as an officially recognized or designated member of a legally organized public safety agency;
-
-(ii) is not a law enforcement officer, a firefighter, a chaplain, or a member of a rescue squad or ambulance crew; and
-
-(iii) provides scene security or directs traffic—
-
-(I) in response to any fire drill, fire call, or other fire, rescue, or police emergency; or
-
-(II) at a planned special event.
+Notwithstanding subsection (b), for an applicant (or, as applicable, an applicant and spouse, or an applicant's parents) who is not required to file a Federal tax return for the second preceding tax year, the Secretary shall for the purposes of this subchapter consider the student aid index as equal to − $1,500 for the applicant.
 
 (Pub. L. 89–329, title IV, §473, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1455; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 586; Pub. L. 105–244, title IV, §480(b), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 111–39, title IV, §406(a)(1), July 1, 2009, 123 Stat. 1948; Pub. L. 115–141, div. H, title III, §317, Mar. 23, 2018, 132 Stat. 753; Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3138.)
 
-#### Amendment of Section ####
-
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions for implementation on or after July 1, 2023, this section is amended to read as follows:
-
-#### §1087mm. Special rules for student aid index ####
-
-#### *(a) In general* ####
-
-*For the purpose of this chapter, the term "student aid index" means, with respect to a student, an index that reflects an evaluation of a student's approximate financial resources to contribute toward the student's postsecondary education for the academic year, as determined in accordance with this part.*
-
-#### *(b) Special rule for students eligible for the total maximum Pell Grant* ####
-
-*The Secretary shall consider an applicant to automatically have a student aid index equal to zero if the applicant is eligible for the total maximum Federal Pell Grant under section 1070a(b)(1)(A) of this title, except that, if the applicant has a calculated student aid index of less than zero the Secretary shall consider the negative number as the student aid index for the applicant.*
-
-#### *(c) Special rule for nonfilers* ####
-
-*Notwithstanding subsection (b), for an applicant (or, as applicable, an applicant and spouse, or an applicant's parents) who is not required to file a Federal tax return for the second preceding tax year, the Secretary shall for the purposes of this subchapter consider the student aid index as equal to − $1,500 for the applicant.*
-
-See 2020 Amendment note below.
-
 #### **Editorial Notes** ####
-
-#### References in Text ####
-
-The Omnibus Crime Control and Safe Streets Act of 1968 and such Act, referred to in subsec. (b)(4), (5)(A), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 2 of part L of title I of the Act is classified to part B (§10301 et seq.) of subchapter XI of chapter 101 of subtitle I of Title 34, Crime Control and Law Enforcement. Sections 1204 and 1212 of the Act were classified to sections 3796b and 3796d–1, respectively, of Title 42, The Public Health and Welfare, prior to editorial reclassification as sections 10284 and 10302, respectively, of Title 34. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of Title 34 and Tables.
 
 #### Amendments ####
 
@@ -133,5 +55,3 @@ Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. 
 #### Effective Date of 1992 Amendment ####
 
 Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
-
-[<sup>1</sup> See References in Text note below.](#1087mm_1)

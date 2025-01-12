@@ -80,7 +80,7 @@ except that, if the institution has a cohort default rate in excess of the appli
 
 (A) establish various income categories for dependent and independent undergraduate students;
 
-(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+(B) establish a student aid index for each income category of dependent and independent undergraduate students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
 (C) compute 25 percent of the average cost of attendance for all undergraduate students;
 
@@ -88,7 +88,7 @@ except that, if the institution has a cohort default rate in excess of the appli
 
 (i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 
-(ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+(ii) the average cost of attendance for all undergraduate students minus the student aid index determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
 
 (E) add the amounts determined under subparagraph (D) for each income category of dependent students;
 
@@ -96,7 +96,7 @@ except that, if the institution has a cohort default rate in excess of the appli
 
 (i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 
-(ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
+(ii) the average cost of attendance for all undergraduate students minus the student aid index determined under subparagraph (B) for that income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
 
 (G) add the amounts determined under subparagraph (F) for each income category of independent students; and
 
@@ -106,11 +106,11 @@ except that, if the institution has a cohort default rate in excess of the appli
 
 (A) establish various income categories for graduate and professional students;
 
-(B) establish an expected family contribution for each income category of graduate and professional students, determined on the basis of the average expected family contribution (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
+(B) establish a student aid index for each income category of graduate and professional students, determined on the basis of the average student aid index (computed in accordance with part F of this subchapter) of a representative sample within each income category for the second preceding fiscal year;
 
 (C) determine the average cost of attendance for all graduate and professional students;
 
-(D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the expected family contribution (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
+(D) subtract from the average cost of attendance for all graduate and professional students (determined under subparagraph (C)), the student aid index (determined under subparagraph (B)) for each income category, except that the amount computed by such subtraction for any income category shall not be less than zero;
 
 (E) multiply the amounts determined under subparagraph (D) by the number of eligible students in each category;
 
@@ -257,18 +257,6 @@ The Secretary shall reallocate the remainder of such returned portions in accord
 If under paragraph (1) of this subsection an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.
 
 (Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266; Pub. L. 111–39, title IV, §405(1), July 1, 2009, 123 Stat. 1947; Pub. L. 116–260, div. FF, title VII, §704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3199, 3200.)
-
-#### Amendment of Section ####
-
-Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:
-
-(1) by striking "the expected family contribution" each place the term appears and inserting "the student aid index";
-
-(2) by striking "an expected family contribution" each place the term appears and inserting "a student aid index"; and
-
-(3) by striking "average expected family contribution" each place the term appears and inserting "average student aid index".
-
-See 2020 Amendment notes below.
 
 #### **Editorial Notes** ####
 
