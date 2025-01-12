@@ -20,11 +20,11 @@ The disposal of such property shall be in accordance with chapters 1 to 11 of ti
 
 #### (3) Proceeds ####
 
-All proceeds accruing to the United States by reason of the sale or other disposal of such property shall be treated as moneys received under this chapter for purposes of section 167d(f) of this title.
+All proceeds accruing to the United States by reason of the sale or other disposal of such property shall be treated as moneys received under this chapter for purposes of section 167d(e) of this title.
 
 #### (4) Costs ####
 
-All costs associated with such sale and disposal (including costs associated with termination of personnel) and with the cessation of activities under subsection (b) of this section shall be paid from amounts available in the helium production fund established under section 167d(f) of this title.
+All costs associated with such sale and disposal (including costs associated with termination of personnel) and with the cessation of activities under subsection (b) of this section shall be paid from amounts available in the helium production fund established under section 167d(e) of this title.
 
 #### (5) Exception ####
 
@@ -38,9 +38,9 @@ All contracts that were entered into by any person with the Secretary for the pu
 
 #### (2) Costs ####
 
-Any costs associated with the termination of contracts described in paragraph (1) shall be paid from the helium production fund established under section 167d(f) of this title.
+Any costs associated with the termination of contracts described in paragraph (1) shall be paid from the helium production fund established under section 167d(e) of this title.
 
-(Mar. 3, 1925, ch. 426, §4, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 920; amended Pub. L. 104–273, §3, Oct. 9, 1996, 110 Stat. 3316.)
+(Mar. 3, 1925, ch. 426, §4, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 920; amended Pub. L. 104–273, §3, Oct. 9, 1996, 110 Stat. 3316; Pub. L. 113–40, §7(a), Oct. 2, 2013, 127 Stat. 544.)
 
 #### Codification ####
 
@@ -51,5 +51,7 @@ In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sectio
 A prior section 4 of act Mar. 3, 1925, related to exportation of helium gas and was classified to section 165 of this title, prior to repeal by act Aug. 26, 1954, ch. 937, title V, §542(a)(13), 68 Stat. 861.
 
 #### Amendments ####
+
+**2013**—Subsecs. (c)(3), (4), (d)(2). Pub. L. 113–40 substituted “section 167d(e)” for “section 167d(f)”.
 
 **1996**—Pub. L. 104–273 amended section generally. Prior to amendment, section consisted of single par. authorizing Secretary to maintain and operate helium production and purification plants and to conduct or contract for research as to helium production, purification, transportation, liquefaction, storage, and utilization.

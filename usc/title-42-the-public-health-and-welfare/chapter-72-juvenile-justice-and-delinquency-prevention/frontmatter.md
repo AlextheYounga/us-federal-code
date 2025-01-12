@@ -180,7 +180,7 @@ Sec.
 
 5776. Criteria for grants.
 
-5776a. Repealed.
+5776a. Oversight and accountability.
 
 5777. Authorization of appropriations.
 

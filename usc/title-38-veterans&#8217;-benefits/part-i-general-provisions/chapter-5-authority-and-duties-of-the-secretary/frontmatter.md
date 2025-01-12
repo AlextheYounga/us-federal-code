@@ -30,7 +30,7 @@ Sec.
 
 521. Assistance to certain rehabilitation activities.
 
-521A. Assistance for United States Paralympics, Inc.
+521A. Assistance for United States Olympic Committee.
 
 522. Studies of rehabilitation of disabled persons.
 
@@ -63,6 +63,8 @@ Sec.
 546. Advisory Committee on Disability Compensation.
 
 #### Amendments ####
+
+**2013**—Pub. L. 113–37, §2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and struck out former item 521A “Assistance for United States Paralympics, Inc.”
 
 **2012**—Pub. L. 112–154, title VII, §§707(b), 709(b)(2), Aug. 6, 2012, 126 Stat. 1207, 1208, added item 517 and substituted “Authority to advertise in national media; VetStar Award Program” for “Authority to advertise in national media” in item 532.
 

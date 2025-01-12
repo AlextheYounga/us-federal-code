@@ -68,7 +68,7 @@ Notwithstanding any other provision of this chapter or the Public Health Service
 
 #### (d) Emergency dispensing ####
 
-The requirements of sections 353 and 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
+The requirements of sections 353(b) and 360j(e) of this title shall not apply to an eligible product, and the product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title) and shall not be deemed adulterated or misbranded under this chapter because it is dispensed without an individual prescription, if—
 
 (1) the product is dispensed during the circumstances described in subsection (a)(1)(C); and
 

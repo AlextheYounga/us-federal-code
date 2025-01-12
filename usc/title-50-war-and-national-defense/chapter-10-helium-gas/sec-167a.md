@@ -34,12 +34,18 @@ This subsection shall not in any manner affect or diminish the rights and obliga
 
 The Secretary may store, transport, and sell helium only in accordance with this chapter.
 
-(Mar. 3, 1925, ch. 426, §3, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 918; amended Pub. L. 104–273, §3, Oct. 9, 1996, 110 Stat. 3315.)
+#### (c) Extraction of helium from deposits on Federal land ####
+
+All amounts received by the Secretary from the sale or disposition of helium on Federal land shall be credited to the Helium Production Fund established under section 167d(e) of this title.
+
+(Mar. 3, 1925, ch. 426, §3, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 918; amended Pub. L. 104–273, §3, Oct. 9, 1996, 110 Stat. 3315; Pub. L. 113–40, §3, Oct. 2, 2013, 127 Stat. 535.)
 
 #### Prior Provisions ####
 
 A prior section 3 of act Mar. 3, 1925, related to disposal of helium by sale, use of funds so obtained, and reports to Congress on such uses and was classified to section 164 of this title, prior to the general amendment of this chapter by Pub. L. 86–777.
 
 #### Amendments ####
+
+**2013**—Subsec. (c). Pub. L. 113–40 added subsec. (c).
 
 **1996**—Pub. L. 104–273 amended section generally. Prior to amendment, section enumerated various aspects of Secretary's authority, including provisions in subsec. (a) relating to conserving, producing, buying, and selling helium, in subsec. (b) relating to helium on public domain, and in subsec. (c) relating to contract price for helium.

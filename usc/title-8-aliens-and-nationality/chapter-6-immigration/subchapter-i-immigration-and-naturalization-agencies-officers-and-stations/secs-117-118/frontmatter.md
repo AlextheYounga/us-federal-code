@@ -1,5 +1,7 @@
 ### §§117, 118. Omitted ###
 
+#### Codification ####
+
 Section 117, acts July 12, 1943, ch. 221, title II, 57 Stat. 507; June 28, 1944, ch. 302, title II, 58 Stat. 558, related to use of the hospital at Ellis Island Immigration Station for the care of Public Health Service patients. See section 1356(a) of this title and section 220 of Title 42, The Public Health and Welfare. Similar provisions were contained in the following prior appropriation acts, which were repealed by section 1313, formerly section 611, of act July 1, 1944, ch. 373, 58 Stat. 714, 718.
 
 July 2, 1942, ch. 475, title II, 56 Stat. 581.
@@ -42,10 +44,6 @@ Apr. 4, 1924, ch. 84, title I, 43 Stat. 75.
 
 Jan. 3, 1923, ch. 22, 42 Stat. 1101.
 
-#### Renumbering of Repealing Act ####
-
-Section 611 of act July 1, 1944, which repealed this section, was renumbered 711 by act Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049, 713 by act Feb. 28, 1948, ch. 83, §9(b), 62 Stat. 47, 813 by act July 30, 1956, ch. 779, §3(b), 70 Stat. 720, 913 by Pub. L. 88–581, §4(b), Sept. 4, 1964, 78 Stat. 919, 1013 by Pub. L. 89–239, §3(b), Oct. 6, 1965, 79 Stat. 931, 1113 by Pub. L. 91–572, §6(b), Dec. 24, 1970, 84 Stat. 1506, 1213 by Pub. L. 92–294, §3(b) May 16, 1972, 86 Stat. 137, 1313 by Pub. L. 93–154, §2(b)(2), Nov. 16, 1973, 87 Stat. 604, and was repealed by Pub. L. 93–222, §7(b), Dec. 29, 1973, 87 Stat. 936.
-
 Section 118, act Apr. 18, 1930, ch. 184, title IV, 46 Stat. 216, which related to motor vehicles and horses for enforcement of immigration and Chinese exclusion laws, expired with the appropriation act of which it was a part. Similar provisions were contained in the following prior appropriation acts:
 
 Jan. 25, 1929, ch. 102, title IV, 45 Stat. 1137.
@@ -65,3 +63,7 @@ Jan. 5, 1923, ch. 24, title II, 42 Stat. 1127.
 Mar. 28, 1922, ch. 117, title II, 42 Stat. 487.
 
 June 12, 1917, ch. 27, §1, 40 Stat. 170.
+
+#### Renumbering of Repealing Act ####
+
+Title XIII, §1313, formerly title VI, §611, of act July 1, 1944, which repealed section 117, was renumbered title VII, §711, by act Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049; §713, by act Feb. 28, 1948, ch. 83, §9(b), 62 Stat. 47; title VIII, §813, by act July 30, 1956, ch. 779, §3(b), 70 Stat. 721; title IX, §913, by Pub. L. 88–581, §4(b), Sept. 4, 1964, 78 Stat. 919; title X, §1013, by Pub. L. 89–239, §3(b), Oct. 6, 1965, 79 Stat. 931; title XI, §1113, by Pub. L. 91–572, §6(b), Dec. 24, 1970, 84 Stat. 1506; title XII, §1213, by Pub. L. 92–294, §3(b), May 16, 1972, 86 Stat. 137; title XIII, §1313, by Pub. L. 93–154, §2(b)(2), Nov. 16, 1973, 87 Stat. 604, and was repealed by Pub. L. 93–222, §7(b), Dec. 29, 1973, 87 Stat. 936.
