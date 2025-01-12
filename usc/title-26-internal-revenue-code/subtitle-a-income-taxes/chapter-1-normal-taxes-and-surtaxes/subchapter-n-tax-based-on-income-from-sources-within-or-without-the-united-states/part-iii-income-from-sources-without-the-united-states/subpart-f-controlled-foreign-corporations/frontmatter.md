@@ -4,13 +4,15 @@ Sec.
 
 951. Amounts included in gross income of United States shareholders.
 
+951A. Global intangible low-taxed income included in gross income of United States shareholders.
+
 952. Subpart F income defined.
 
 953. Insurance income.
 
 954. Foreign base company income.
 
-955. Withdrawal of previously excluded subpart F income from qualified investment.
+[955. Repealed.]
 
 956. Investment of earnings in United States property.
 
@@ -22,7 +24,7 @@ Sec.
 
 959. Exclusion from gross income of previously taxed earnings and profits.
 
-960. Special rules for foreign tax credit.
+960. Deemed paid credit for subpart F inclusions.
 
 961. Adjustments to basis of stock in controlled foreign corporations and of other property.
 
@@ -32,9 +34,11 @@ Sec.
 
 964. Miscellaneous provisions.
 
-965. Temporary dividends received deduction.
+965. Treatment of deferred foreign income upon transition to participation exemption system of taxation.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §§14103(b), 14201(c), 14212(b)(6), 14301(c)(39), Dec. 22, 2017, 131 Stat. 2208, 2213, 2217, 2225, added item 951A, substituted "Deemed paid credit for subpart F inclusions" for "Special rules for foreign tax credit" in item 960 and "Treatment of deferred foreign income upon transition to participation exemption system of taxation" for "Temporary dividends received deduction" in item 965, and struck out item 955 "Withdrawal of previously excluded subpart F income from qualified investment".
 
 **2004**—Pub. L. 108–357, title IV, §422(c), Oct. 22, 2004, 118 Stat. 1519, added item 965.
 

@@ -1154,7 +1154,7 @@ In the case of any property which is described in paragraph (3) and also in anot
 
 "(2) any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code,
 
-"(3) any entity referred to in paragraph (4) of section 54(j) of such Code, or
+"(3) any entity referred to in paragraph (4) of [former] section 54(j) of such Code, or
 
 "(4) any partnership or other pass-thru entity any partner (or other holder of an equity or profits interest) of which is described in paragraph (1), (2) or (3).
 

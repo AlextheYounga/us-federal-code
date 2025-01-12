@@ -315,7 +315,7 @@ In the case of any calendar year beginning after 2014, each of the dollar amount
 
 (I) such dollar amount, multiplied by
 
-(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2013" for "calendar year 1992" in subparagraph (B) thereof.
+(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2013" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
  If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
@@ -343,7 +343,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341.)
+(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -360,6 +360,8 @@ Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, 
 The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2017**—Subsec. (f)(2)(B)(ii)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 **2016**—Subsec. (c)(4). Pub. L. 114–255 added par. (4).
 
@@ -406,6 +408,10 @@ Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. headin
 Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted "in the table contained" after "each of the dollar amounts" in introductory provisions.
 
 Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2016 Amendment ####
 

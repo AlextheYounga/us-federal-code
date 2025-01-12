@@ -234,7 +234,7 @@ Pub. L. 111–148, title IX, §9023(e), Mar. 23, 2010, 124 Stat. 881, provided t
 
 "(B) any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code,
 
-"(C) any entity referred to in paragraph (4) of section 54(j) of such Code, or
+"(C) any entity referred to in paragraph (4) of [former] section 54(j) of such Code, or
 
 "(D) any partnership or other pass-thru entity any partner (or other holder of an equity or profits interest) of which is described in subparagraph (A), (B) or (C).
 

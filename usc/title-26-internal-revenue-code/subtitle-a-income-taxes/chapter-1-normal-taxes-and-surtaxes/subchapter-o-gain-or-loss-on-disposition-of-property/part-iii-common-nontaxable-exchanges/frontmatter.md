@@ -2,7 +2,7 @@
 
 Sec.
 
-1031. Exchange of property held for productive use or investment.
+1031. Exchange of real property held for productive use or investment.
 
 1032. Exchange of stock for property.
 
@@ -28,11 +28,13 @@ Sec.
 
 1043. Sale of property to comply with conflict-of-interest requirements.
 
-1044. Rollover of publicly traded securities gain into specialized small business investment companies.
+[1044. Repealed.]
 
 1045. Rollover of gain from qualified small business stock to another qualified small business stock.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §§13303(b)(6), 13313(a), Dec. 22, 2017, 131 Stat. 2124, 2133, substituted "Exchange of real property held for productive use or investment" for "Exchange of property held for productive use or investment" in item 1031 and struck out item 1044 "Rollover of publicly traded securities gain into specialized small business investment companies".
 
 **2010**—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(d)(2), had never been enacted. See 2001 Amendment note below.
 

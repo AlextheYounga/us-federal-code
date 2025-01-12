@@ -86,9 +86,19 @@ Sec.
 
 [198A. Repealed.]
 
-199. Income attributable to domestic production activities.
+[199. Repealed.]
+
+199A. Qualified business income.
+
+#### Amendment of Analysis ####
+
+Pub. L. 115–97, title I, §13206(c), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, provided that, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021, this analysis is amended by striking item 174 and inserting a new item 174 "Amortization of research and experimental expenditures." See 2017 Amendment note below.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §§11011(d)(6), 13305(a), Dec. 22, 2017, 131 Stat. 2071, 2126, struck out item 199 "Income attributable to domestic production activities" and added item 199A.
+
+Pub. L. 115–97, title I, §13206(c), Dec. 22, 2017, 131 Stat. 2112, substituted "Amortization of research and experimental expenditures" for "Research and experimental expenditures" in item 174.
 
 **2015**—Pub. L. 114–113, div. Q, title I, §169(b)(3), Dec. 18, 2015, 129 Stat. 3068, substituted "Treatment of certain qualified film and television and live theatrical productions" for "Treatment of certain qualified film and television productions" in item 181.
 

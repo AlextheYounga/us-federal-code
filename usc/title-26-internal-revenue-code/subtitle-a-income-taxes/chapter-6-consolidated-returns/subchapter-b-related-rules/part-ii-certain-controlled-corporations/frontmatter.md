@@ -2,7 +2,7 @@
 
 Sec.
 
-1561. Limitations on certain multiple tax benefits in the case of certain controlled corporations.
+1561. Limitation on accumulated earnings credit in the case of certain controlled corporations.
 
 [1562. Repealed.]
 
@@ -11,6 +11,8 @@ Sec.
 [1564. Repealed.]
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13001(b)(6)(B), Dec. 22, 2017, 131 Stat. 2098, which directed amendment of the table of sections for part II of subchapter B of chapter 5 by substituting "Limitation on accumulated earnings credit in the case of certain controlled corporations" for "Limitations on certain multiple tax benefits in the case of certain controlled corporations" in item 1561, was executed to the table of sections for part II of subchapter B of this chapter to reflect the probable intent of Congress.
 
 **1990**—Pub. L. 101–508, title XI, §11801(b)(12), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 1564 "Transitional rules in the case of certain controlled corporations".
 

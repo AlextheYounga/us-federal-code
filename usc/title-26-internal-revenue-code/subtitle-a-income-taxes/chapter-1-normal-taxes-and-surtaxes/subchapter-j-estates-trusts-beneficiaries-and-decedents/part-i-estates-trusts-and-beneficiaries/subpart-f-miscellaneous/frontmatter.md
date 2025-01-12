@@ -12,7 +12,13 @@ Sec.
 
 685. Treatment of funeral trusts.
 
+#### Amendment of Analysis ####
+
+Pub. L. 115–97, title I, §11051(b)(1)(C), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended by striking item 682. See 2017 Amendment note below.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §11051(b)(1)(C), Dec. 22, 2017, 131 Stat. 2089, struck out item 682 "Income of an estate or trust in case of divorce, etc.".
 
 **2010**—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(e)(1)(D), had never been enacted. See 2001 Amendment note below.
 

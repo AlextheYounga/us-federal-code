@@ -18,6 +18,8 @@ Sec.
 
 267. Losses, expenses, and interest with respect to transactions between related taxpayers.
 
+267A. Certain related party amounts paid or accrued in hybrid transactions or with hybrid entities.
+
 268. Sale of land with unharvested crop.
 
 269. Acquisitions made to evade or avoid income tax.
@@ -65,6 +67,8 @@ Sec.
 280H. Limitation on certain amounts paid to owner-employees by personal service corporations electing alternative taxable years. 1
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §14222(b), Dec. 22, 2017, 131 Stat. 2220, added item 267A.
 
 **1996**—Pub. L. 104–188, title I, §1704(t)(55), Aug. 20, 1996, 110 Stat. 1890, provided that section 11813(b)(13)(F) of Pub. L. 101–508 shall be applied as if "tax" appeared after "investment" in the material proposed to be stricken. See 1990 Amendment note below.
 

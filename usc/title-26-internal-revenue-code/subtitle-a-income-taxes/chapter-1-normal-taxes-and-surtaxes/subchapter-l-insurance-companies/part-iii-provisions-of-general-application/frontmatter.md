@@ -8,17 +8,19 @@ Sec.
 
 843. Annual accounting period.
 
-844. Special loss carryover rules.
+[844. Repealed.]
 
 845. Certain reinsurance agreements.
 
 846. Discounted unpaid losses defined.
 
-847. Special estimated tax payments.
+[847. Repealed.]
 
 848. Capitalization of certain policy acquisition expenses.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §§13511(b)(2)(A), 13516(a), struck out items 844 "Special loss carryover rules" and 847 "Special estimated tax payments".
 
 **1990**—Pub. L. 101–508, title XI, §11301(c), Nov. 5, 1990, 104 Stat. 1388–449, added item 848.
 

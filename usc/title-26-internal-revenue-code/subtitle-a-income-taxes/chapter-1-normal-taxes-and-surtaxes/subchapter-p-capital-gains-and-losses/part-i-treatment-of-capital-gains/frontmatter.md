@@ -2,11 +2,13 @@
 
 Sec.
 
-1201. Alternative tax for corporations.
+[1201. Repealed.]
 
 1202. Partial exclusion for gain from certain small business stock.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13001(b)(2)(A), Dec. 22, 2017, 131 Stat. 2096, struck out item 1201 "Alternative tax for corporations".
 
 **2000**—Pub. L. 106–554, §1(a)(7) [title I, §117(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604, substituted "Partial" for "50-percent" in item 1202.
 

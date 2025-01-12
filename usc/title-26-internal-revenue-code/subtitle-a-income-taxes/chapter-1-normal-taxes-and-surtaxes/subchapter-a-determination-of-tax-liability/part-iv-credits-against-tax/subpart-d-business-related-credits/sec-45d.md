@@ -80,7 +80,7 @@ The term "qualified community development entity" means any domestic corporation
 
 The requirements of paragraph (1) shall be treated as met by—
 
-(A) any specialized small business investment company (as defined in section 1044(c)(3)), and
+(A) any specialized small business investment company (as defined in section 1044(c)(3)),<sup><a href="#45D_1_target" name="45D_1">1</a></sup> and
 
 (B) any community development financial institution (as defined in section 103 of the Community Development Banking and Financial Institutions Act of 1994 (12 U.S.C. 4702)).
 
@@ -264,6 +264,10 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (Added Pub. L. 106–554, §1(a)(7) [title I, §121(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
 
+#### References in Text ####
+
+Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97, title I, §13313(a), Dec. 22, 2017, 131 Stat. 2133.
+
 #### Amendments ####
 
 **2015**—Subsec. (f)(1)(G). Pub. L. 114–113, §141(a), substituted "for each of calendar years 2010 through 2019" for "for 2010, 2011, 2012, 2013, and 2014".
@@ -355,5 +359,7 @@ Pub. L. 106–554, §1(a)(7) [title I, §121(f)], Dec. 21, 2000, 114 Stat. 2763,
 #### Audit and Report ####
 
 Pub. L. 106–554, §1(a)(7) [title I, §121(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section."
+
+[<sup>1</sup> See References in Text note below.](#45D_1)
 
 [<sup>1</sup> So in original. Probably should be followed by ", and".](#45D_1)

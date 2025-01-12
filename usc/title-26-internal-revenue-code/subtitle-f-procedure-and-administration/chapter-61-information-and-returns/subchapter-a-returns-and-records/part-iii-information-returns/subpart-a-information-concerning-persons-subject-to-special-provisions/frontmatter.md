@@ -44,7 +44,7 @@ Sec.
 
 6039G. Information on individuals losing United States citizenship.
 
-6039H. Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations.
+6039H. Information With Respect to Alaska Native Settlement Trusts and Native Corporations. 2
 
 6039I. Returns and records with respect to employer-owned life insurance contracts.
 
@@ -53,6 +53,8 @@ Sec.
 6040. Cross references.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13821(c)(2), Dec. 22, 2017, 131 Stat. 2182, added item 6039H.
 
 **2015**—Pub. L. 114–41, title II, §2004(b)(3), July 31, 2015, 129 Stat. 456, added item 6035.
 
@@ -107,3 +109,5 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 **1958**—Pub. L. 85–866, title I, §64(d)(4), Sept. 2, 1958, 72 Stat. 1657, added item 6037 and redesignated former item 6037 as 6038.
 
 [<sup>1</sup> So in original. Pub. L. 98–611 and Pub. L. 98–612 enacted identical items designated "6039D". Pub. L. 99–514, §1879(d)(2), repealed the section 6039D enacted by Pub. L. 98–612 without corresponding amendment of subpart analysis.](#I_1)
+
+[<sup>2</sup> So in original. The words "With Respect" probably should not be capitalized.](#I_2)

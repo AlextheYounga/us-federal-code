@@ -376,7 +376,7 @@ In the case of any expenditures which are treated under paragraph (4) as placed 
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2008" for "calendar year 1992" in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2008" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 Any increase under the preceding sentence which is not a multiple of $100 shall be rounded to the nearest multiple of $100.
 
@@ -776,7 +776,7 @@ In the case of a calendar year after 2002, the $2,000,000 and $1.75 amounts in s
 
 (I) such dollar amount, multiplied by
 
-(II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2001" for "calendar year 1992" in subparagraph (B) thereof.
+(II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 2001" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (ii) Rounding ####
 
@@ -928,13 +928,13 @@ For purposes of subparagraph (E), the term "adjusted investor equity" means, wit
 
 (I) such amount, multiplied by
 
-(II) the cost-of-living adjustment for such calendar year, determined under section 1(f)(3) by substituting the base calendar year for "calendar year 1987".
+(II) the cost-of-living adjustment for such calendar year, determined under section 1(f)(3) by substituting the base calendar year for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
  An amount shall be taken into account as an investment in the project only to the extent there was an obligation to invest such amount as of the beginning of the credit period and to the extent such amount is reflected in the adjusted basis of the project.
 
 #### (ii) Cost-of-living increases in excess of 5 percent not taken into account ####
 
-Under regulations prescribed by the Secretary, if the CPI for any calendar year (as defined in section 1(f)(4)) exceeds the CPI for the preceding calendar year by more than 5 percent, the CPI for the base calendar year shall be increased such that such excess shall never be taken into account under clause (i).
+Under regulations prescribed by the Secretary, if the C-CPI-U for any calendar year (as defined in section 1(f)(6)) exceeds the C-CPI-U for the preceding calendar year by more than 5 percent, the C-CPI-U for the base calendar year shall be increased such that such excess shall never be taken into account under clause (i). In the case of a base calendar year before 2017, the C-CPI-U for such year shall be determined by multiplying the CPI for such year by the amount determined under section 1(f)(3)(B).
 
 #### (iii) Base calendar year ####
 
@@ -1472,7 +1472,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) [title I, §§131(a)–(c), 132–136], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) [title I, §§131(a)–(c), 132–136], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055; Pub. L. 115–97, title I, §11002(d)(1)(G), (3), Dec. 22, 2017, 131 Stat. 2060, 2061.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -1509,6 +1509,12 @@ A prior section 42, added Pub. L. 94–12, title II, §203(a), Mar. 29, 1975, 89
 Another prior section 42 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2017**—Subsecs. (e)(3)(D)(ii), (h)(3)(H)(i)(II). Pub. L. 115–97, §11002(d)(1)(G), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (h)(6)(G)(i)(II). Pub. L. 115–97, §11002(d)(3)(A), substituted "for 'calendar year 2016' in subparagraph (A)(ii) thereof" for "for 'calendar year 1987' ".
+
+Subsec. (h)(6)(G)(ii). Pub. L. 115–97, §11002(d)(3)(B), substituted "if the C-CPI-U for any calendar year (as defined in section 1(f)(6)) exceeds the C-CPI-U for the preceding calendar year by more than 5 percent, the C-CPI-U for the base calendar year shall be increased such that such excess shall never be taken into account under clause (i). In the case of a base calendar year before 2017, the C-CPI-U for such year shall be determined by multiplying the CPI for such year by the amount determined under section 1(f)(3)(B)." for "if the CPI for any calendar year (as defined in section 1(f)(4)) exceeds the CPI for the preceding calendar year by more than 5 percent, the CPI for the base calendar year shall be increased such that such excess shall never be taken into account under clause (i)."
 
 **2015**—Subsec. (b)(2). Pub. L. 114–113, §131(b), substituted "Minimum" for "Temporary minimum" in heading.
 
@@ -1977,6 +1983,10 @@ Subsec. (n). Pub. L. 100–647, §4003(b)(3), amended subsec. (n) generally, sub
 Subsec. (n)(1). Pub. L. 100–647, §1002(l)(25), inserted ", and, except for any building described in paragraph (2)(B), subsection (h)(4) shall not apply to any building placed in service after 1989" after "year after 1989".
 
 **1986**—Subsec. (k)(1). Pub. L. 99–509 substituted "subparagraphs (D)(ii)(II) and (D)(iv)(I)" for "subparagraph (D)(iv)(I)".
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2015 Amendment ####
 

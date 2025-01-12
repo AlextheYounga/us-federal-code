@@ -12,19 +12,23 @@ Sec.
 
 245. Dividends received from certain foreign corporations.
 
+245A. Deduction for foreign source-portion of dividends received by domestic corporations from certain 10-percent owned foreign corporations. 1
+
 246. Rules applying to deductions for dividends received.
 
 246A. Dividends received deduction reduced where portfolio stock is debt financed.
 
-[247. Repealed.]
+247. Contributions to Alaska Native Settlement Trusts.
 
 248. Organizational expenditures.
 
 249. Limitation on deduction of bond premium on repurchase.
 
-[250. Repealed.]
+250. Foreign-derived intangible income and global intangible low-taxed income.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §§13821(b)(2), 14101(e)(3), 14202(b)(4), Dec. 22, 2017, 131 Stat. 2181, 2192, 2216, added items 245A, 247, and 250.
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(41)(A), Dec. 19, 2014, 128 Stat. 4043, struck out item 244 "Dividends received on certain preferred stock" and item 247 "Dividends paid on certain preferred stock of public utilities".
 
@@ -37,3 +41,5 @@ Sec.
 **1970**—Pub. L. 91–518, title IX, §901(b), Oct. 30, 1970, 84 Stat. 1342, added item 250.
 
 **1969**—Pub. L. 91–172, title IV, §414(b), Dec. 30, 1969, 83 Stat. 613, added item 249.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

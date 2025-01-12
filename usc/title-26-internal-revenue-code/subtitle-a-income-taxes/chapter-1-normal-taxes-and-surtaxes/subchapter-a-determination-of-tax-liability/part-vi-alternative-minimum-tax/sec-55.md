@@ -2,7 +2,7 @@
 
 #### (a) General rule ####
 
-There is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
+In the case of a taxpayer other than a corporation, there is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
 
 (1) the tentative minimum tax for the taxable year, over
 
@@ -14,33 +14,23 @@ For purposes of this part—
 
 #### (1) Amount of tentative tax ####
 
-#### (A) Noncorporate taxpayers ####
+#### (A) In general ####
 
-#### (i) In general ####
+The tentative minimum tax for the taxable year is the sum of—
 
-In the case of a taxpayer other than a corporation, the tentative minimum tax for the taxable year is the sum of—
+(i) 26 percent of so much of the taxable excess as does not exceed $175,000, plus
 
-(I) 26 percent of so much of the taxable excess as does not exceed $175,000, plus
+(ii) 28 percent of so much of the taxable excess as exceeds $175,000.
 
-(II) 28 percent of so much of the taxable excess as exceeds $175,000.
+The amount determined under the preceding sentence shall be reduced by the alternative minimum tax foreign tax credit for the taxable year.
 
- The amount determined under the preceding sentence shall be reduced by the alternative minimum tax foreign tax credit for the taxable year.
-
-#### (ii) Taxable excess ####
+#### (B) Taxable excess ####
 
 For purposes of this subsection, the term "taxable excess" means so much of the alternative minimum taxable income for the taxable year as exceeds the exemption amount.
 
-#### (iii) Married individual filing separate return ####
+#### (C) Married individual filing separate return ####
 
-In the case of a married individual filing a separate return, clause (i) shall be applied by substituting 50 percent of the dollar amount otherwise applicable under subclause (I) and subclause (II) thereof. For purposes of the preceding sentence, marital status shall be determined under section 7703.
-
-#### (B) Corporations ####
-
-In the case of a corporation, the tentative minimum tax for the taxable year is—
-
-(i) 20 percent of so much of the alternative minimum taxable income for the taxable year as exceeds the exemption amount, reduced by
-
-(ii) the alternative minimum tax foreign tax credit for the taxable year.
+In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting 50 percent of the dollar amount otherwise applicable under clause (i) and clause (ii) thereof. For purposes of the preceding sentence, marital status shall be determined under section 7703.
 
 #### (2) Alternative minimum taxable income ####
 
@@ -54,7 +44,7 @@ If a taxpayer is subject to the regular tax, such taxpayer shall be subject to t
 
 #### (3) Maximum rate of tax on net capital gain of noncorporate taxpayers ####
 
-The amount determined under the first sentence of paragraph (1)(A)(i) shall not exceed the sum of—
+The amount determined under the first sentence of paragraph (1)(A) shall not exceed the sum of—
 
 (A) the amount determined under such first sentence computed at the rates and in the same manner as if this paragraph had not been enacted on the taxable excess reduced by the lesser of—
 
@@ -84,7 +74,7 @@ Terms used in this paragraph which are also used in section 1(h) shall have the 
 
 #### (1) In general ####
 
-For purposes of this section, the term "regular tax" means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
+For purposes of this section, the term "regular tax" means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a). Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
 
 #### (2) Coordination with income averaging for farmers and fishermen ####
 
@@ -120,25 +110,19 @@ In the case of a taxpayer other than a corporation, the term "exemption amount" 
 
 For purposes of this paragraph, the term "surviving spouse" has the meaning given to such term by section 2(a), and marital status shall be determined under section 7703.
 
-#### (2) Corporations ####
-
-In the case of a corporation, the term "exemption amount" means $40,000.
-
-#### (3) Phase-out of exemption amount ####
+#### (2) Phase-out of exemption amount ####
 
 The exemption amount of any taxpayer shall be reduced (but not below zero) by an amount equal to 25 percent of the amount by which the alternative minimum taxable income of the taxpayer exceeds—
 
 (A) $150,000 in the case of a taxpayer described in paragraph (1)(A),
 
-(B) $112,500 in the case of a taxpayer described in paragraph (1)(B),
+(B) $112,500 in the case of a taxpayer described in paragraph (1)(B), and
 
-(C) 50 percent of the dollar amount applicable under subparagraph (A) in the case of a taxpayer described in subparagraph (C) or (D) of paragraph (1), and
-
-(D) $150,000 in the case of a taxpayer described in paragraph (2).
+(C) 50 percent of the dollar amount applicable under subparagraph (A) in the case of a taxpayer described in subparagraph (C) or (D) of paragraph (1).
 
 In the case of a taxpayer described in paragraph (1)(C), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over the minimum amount of such income (as so determined) for which the exemption amount under paragraph (1)(C) is zero, or (ii) such exemption amount (determined without regard to this paragraph).
 
-#### (4) Inflation adjustment ####
+#### (3) Inflation adjustment ####
 
 #### (A) In general ####
 
@@ -146,79 +130,65 @@ In the case of any taxable year beginning in a calendar year after 2012, the amo
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2011" for "calendar year 1992" in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2011" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (B) Amounts described ####
 
 The amounts described in this subparagraph are—
 
-(i) each of the dollar amounts contained in subsection (b)(1)(A)(i),
+(i) each of the dollar amounts contained in subsection (b)(1)(A),
 
 (ii) each of the dollar amounts contained in subparagraphs (A), (B), and (D) of paragraph (1), and
 
-(iii) each of the dollar amounts in subparagraphs (A) and (B) of paragraph (3).
+(iii) each of the dollar amounts in subparagraphs (A) and (B) of paragraph (2).
 
 #### (C) Rounding ####
 
 Any increased amount determined under subparagraph (A) shall be rounded to the nearest multiple of $100.
 
-#### (e) Exemption for small corporations ####
+#### (4) Special rule for taxable years beginning after 2017 and before 2026 ####
 
-#### (1) In general ####
+#### (A) In general ####
 
-#### (A) $7,500,000 gross receipts test ####
+In the case of any taxable year beginning after December 31, 2017, and before January 1, 2026—
 
-The tentative minimum tax of a corporation shall be zero for any taxable year if the corporation's average annual gross receipts for all 3-taxable-year periods ending before such taxable year does not exceed $7,500,000. For purposes of the preceding sentence, only taxable years beginning after December 31, 1993, shall be taken into account.
+(i) paragraph (1) shall be applied—
 
-#### (B) $5,000,000 gross receipts test for first 3-year period ####
+(I) by substituting "$109,400" for "$78,750" in subparagraph (A), and
 
-Subparagraph (A) shall be applied by substituting "$5,000,000" for "$7,500,000" for the first 3-taxable-year period (or portion thereof) of the corporation which is taken into account under subparagraph (A).
+(II) by substituting "$70,300" for "$50,600" in subparagraph (B), and
 
-#### (C) First taxable year corporation in existence ####
+(ii) paragraph (2) shall be applied—
 
-If such taxable year is the first taxable year that such corporation is in existence, the tentative minimum tax of such corporation for such year shall be zero.
+(I) by substituting "$1,000,000" for "$150,000" in subparagraph (A),
 
-#### (D) Special rules ####
+(II) by substituting "50 percent of the dollar amount applicable under subparagraph (A)" for "$112,500" in subparagraph (B), and
 
-For purposes of this paragraph, the rules of paragraphs (2) and (3) of section 448(c) shall apply.
+(III) in the case of a taxpayer described in paragraph (1)(D), without regard to the substitution under subclause (I).
 
-#### (2) Prospective application of minimum tax if small corporation ceases to be small ####
+#### (B) Inflation adjustment ####
 
-In the case of a corporation whose tentative minimum tax is zero for any prior taxable year by reason of paragraph (1), the application of this part for taxable years beginning with the first taxable year such corporation ceases to be described in paragraph (1) shall be determined with the following modifications:
+#### (i) In general ####
 
-(A) Section 56(a)(1) (relating to depreciation) and section 56(a)(5) (relating to pollution control facilities) shall apply only to property placed in service on or after the change date.
+In the case of any taxable year beginning in a calendar year after 2018, the amounts described in clause (ii) shall each be increased by an amount equal to—
 
-(B) Section 56(a)(2) (relating to mining exploration and development costs) shall apply only to costs paid or incurred on or after the change date.
+(I) such dollar amount, multiplied by
 
-(C) Section 56(a)(3) (relating to treatment of long-term contracts) shall apply only to contracts entered into on or after the change date.
+(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2017" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
-(D) Section 56(a)(4) (relating to alternative net operating loss deduction) shall apply in the same manner as if, in section 56(d)(2), the change date were substituted for "January 1, 1987" and the day before the change date were substituted for "December 31, 1986" each place it appears.
+#### (ii) Amounts described ####
 
-(E) Section 56(g)(2)(B) (relating to limitation on allowance of negative adjustments based on adjusted current earnings) shall apply only to prior taxable years beginning on or after the change date.
+The amounts described in this clause are the $109,400 amount in subparagraph (A)(i)(I), the $70,300 amount in subparagraph (A)(i)(II), and the $1,000,000 amount in subparagraph (A)(ii)(I).
 
-(F) Section 56(g)(4)(A) (relating to adjustment for depreciation to adjusted current earnings) shall not apply.
+#### (iii) Rounding ####
 
-(G) Subparagraphs (D) and (F) of section 56(g)(4) (relating to other earnings and profits adjustments and depletion) shall apply in the same manner as if the day before the change date were substituted for "December 31, 1989" each place it appears therein.
+Any increased amount determined under clause (i) shall be rounded to the nearest multiple of $100.
 
-#### (3) Exception ####
+#### (iv) Coordination with current adjustments ####
 
-The modifications in paragraph (2) shall not apply to—
+In the case of any taxable year to which subparagraph (A) applies, no adjustment shall be made under paragraph (3) to any of the numbers which are substituted under subparagraph (A) and adjusted under this subparagraph.
 
-(A) any item acquired by the corporation in a transaction to which section 381 applies, and
-
-(B) any property the basis of which in the hands of the corporation is determined by reference to the basis of the property in the hands of the transferor,
-
-if such item or property was subject to any provision referred to in paragraph (2) while held by the transferor.
-
-#### (4) Change date ####
-
-For purposes of paragraph (2), the change date is the first day of the first taxable year for which the taxpayer ceases to be described in paragraph (1).
-
-#### (5) Limitation on use of credit for prior year minimum tax liability ####
-
-In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(6)(B) shall apply for purposes of the preceding sentence.
-
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108; Pub. L. 115–97, title I, §§11002(d)(1)(I), 12001(a), (b)(3)(A), (B), (4)–(6), 12003(a), Dec. 22, 2017, 131 Stat. 2060, 2092, 2093, 2095.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -233,6 +203,30 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments ####
+
+**2017**—Subsec. (a). Pub. L. 115–97, §12001(a), substituted "In the case of a taxpayer other than a corporation, there" for "There" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–97, §12001(b)(3)(A), amended par. (1) generally. Prior to amendment, par. (1) related to amount of tentative tax.
+
+Subsec. (b)(3). Pub. L. 115–97, §12001(b)(3)(B), substituted "paragraph (1)(A)" for "paragraph (1)(A)(i)" in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 115–97, §12001(b)(4), struck out ", the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A" after "section 27(a)".
+
+Subsec. (d)(2). Pub. L. 115–97, §12001(b)(5)(A), redesignated par. (3) as (2) and struck out former par. (2). Text of former par. (2) read as follows: "In the case of a corporation, the term 'exemption amount' means $40,000.".
+
+Subsec. (d)(2)(D). Pub. L. 115–97, §12001(b)(5)(B), struck out subpar. (D) which read as follows: "$150,000 in the case of a taxpayer described in paragraph (2)."
+
+Subsec. (d)(3). Pub. L. 115–97, §12001(b)(5)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Subsec. (d)(3)(B)(i). Pub. L. 115–97, §12001(b)(5)(C)(i), substituted "(b)(1)(A)" for "(b)(1)(A)(i)".
+
+Subsec. (d)(3)(B)(iii). Pub. L. 115–97, §12001(b)(5)(C)(ii), substituted "paragraph (2)" for "paragraph (3)".
+
+Subsec. (d)(4). Pub. L. 115–97, §12003(a), added par. (4).
+
+Subsec. (d)(4)(A)(ii). Pub. L. 115–97, §11002(d)(1)(I), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (e). Pub. L. 115–97, §12001(b)(6), struck out subsec. (e) which related to exemption for small corporations.
 
 **2015**—Subsec. (b)(4). Pub. L. 114–113 struck out par. (4) which related to the maximum rate of tax on qualified timber gain of corporations.
 
@@ -408,6 +402,14 @@ Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end "In the case of
 
 **1986**—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted "or section 42(j)".
 
+#### Effective Date of 2017 Amendment ####
+
+Amendment by section 11002(d)(1)(I) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Amendment by section 12001(a), (b)(3)(A), (B), (4)–(6) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
+Pub. L. 115–97, title I, §12003(b), Dec. 22, 2017, 131 Stat. 2096, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017."
+
 #### Effective Date of 2015 Amendment ####
 
 Pub. L. 114–113, div. Q, title III, §334(c), Dec. 18, 2015, 129 Stat. 3109, provided that: "The amendments made by this section [amending this section and section 1201 of this title] shall apply to taxable years beginning after December 31, 2015."
@@ -550,7 +552,7 @@ Pub. L. 99–514, title VII, §701(f), Oct. 22, 1986, 100 Stat. 2343, as amended
 
 "(5) Book income.—
 
-"(A) In general.—In the case of a corporation to which this paragraph applies, the amount of any increase for any taxable year under section 56(c)(1)(A) of the Internal Revenue Code of 1986 (as added by this section) shall be reduced (but not below zero) by the excess (if any) of—
+"(A) In general.—In the case of a corporation to which this paragraph applies, the amount of any increase for any taxable year under [former] section 56(c)(1)(A) of the Internal Revenue Code of 1986 (as added by this section) shall be reduced (but not below zero) by the excess (if any) of—
 
 "(i) 50 percent of the excess of taxable income for the 5-taxable year period ending with the taxable year preceding the 1st taxable year to which such section applies over the adjusted net book income for such period, over
 

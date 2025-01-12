@@ -1,0 +1,7 @@
+### [§199. Repealed. Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126] ###
+
+Section, added Pub. L. 108–357, title I, §102(a), Oct. 22, 2004, 118 Stat. 1424; amended Pub. L. 109–135, title IV, §403(a)(1)–(13), Dec. 21, 2005, 119 Stat. 2615–2619; Pub. L. 109–222, title V, §514(a), (b), May 17, 2006, 120 Stat. 366; Pub. L. 109–432, div. A, title IV, §401(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–343, div. B, title IV, §401(a), (b), div. C, title III, §312(a), title V, §502(c), Oct. 3, 2008, 122 Stat. 3851, 3869, 3876; Pub. L. 111–312, title VII, §746(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §318(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §130(a), title II, §§219(b), 221(a)(37), Dec. 19, 2014, 128 Stat. 4018, 4035, 4043; Pub. L. 114–113, div. P, title III, §305(a), div. Q, title I, §170(a), Dec. 18, 2015, 129 Stat. 3040, 3069, related to deduction of income attributable to domestic production activities.
+
+#### Effective Date of Repeal ####
+
+Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 74 of this title.

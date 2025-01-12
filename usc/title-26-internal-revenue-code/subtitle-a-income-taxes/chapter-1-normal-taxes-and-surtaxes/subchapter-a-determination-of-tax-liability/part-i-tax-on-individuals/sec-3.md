@@ -114,7 +114,7 @@ Pub. L. 96–222, title I, §108(a)(2), Apr. 1, 1980, 94 Stat. 225, provided tha
 
 #### Effective Date of 1978 Amendment ####
 
-Amendment by section 401(b)(1) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+Pub. L. 95–600, title IV, §401(c), Nov. 6, 1978, 92 Stat. 2867, provided that: "The amendments made by this section [amending this section and sections 5, 871, 911, 1201, and 1304 of this title] shall apply to taxable years beginning after December 31, 1978."
 
 #### Effective Date of 1977 Amendment ####
 

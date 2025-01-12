@@ -62,7 +62,7 @@ In the case of any taxable year beginning in a calendar year after 2006, the dol
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 1992" in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
@@ -230,6 +230,10 @@ Subparagraph (A) shall not apply to the transfer of any contribution unless such
 
 Subparagraph (A) shall apply to the transfer of any contribution only to the extent no deduction was allowed with respect to the contribution to the transferor plan.
 
+#### (iii) Conversions ####
+
+Subparagraph (A) shall not apply in the case of a qualified rollover contribution to which subsection (d)(3) applies (including by reason of subparagraph (C) thereof).
+
 #### (7) Due date ####
 
 For purposes of this subsection, the due date for any taxable year is the date prescribed by law (including extensions of time) for filing the taxpayer's return for such taxable year.
@@ -278,13 +282,17 @@ For purposes of this section—
 
 (2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
 
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.
 
 #### Amendments ####
+
+**2017**—Subsec. (c)(3)(D)(ii). Pub. L. 115–97, §11002(d)(1)(W), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (d)(6)(B)(iii). Pub. L. 115–97, §13611(a), added cl. (iii).
 
 **2008**—Subsec. (c)(3)(B). Pub. L. 110–458, §108(d)(1), in introductory provisions, struck out second "an" before "eligible" and "other than a Roth IRA" before "during any taxable year", and inserted as concluding provisions "This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)."
 
@@ -413,6 +421,12 @@ Subsec. (d)(6). Pub. L. 105–206, §6005(b)(6)(A), added par. (6).
 Subsec. (d)(7). Pub. L. 105–206, §6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by section 11002(d)(1)(W) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §13611(b), Dec. 22, 2017, 131 Stat. 2165, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2008 Amendment ####
 

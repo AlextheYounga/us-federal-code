@@ -156,7 +156,7 @@ Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as ame
 
 "(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 5 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2017.
 
-"(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting 'American Samoa' for 'the United States' each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year."
+"(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in [former] subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting 'American Samoa' for 'the United States' each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year."
 
 [Pub. L. 114–113, div. Q, title I, §173(b), Dec. 18, 2015, 129 Stat. 3071, provided that: "The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2014."]
 

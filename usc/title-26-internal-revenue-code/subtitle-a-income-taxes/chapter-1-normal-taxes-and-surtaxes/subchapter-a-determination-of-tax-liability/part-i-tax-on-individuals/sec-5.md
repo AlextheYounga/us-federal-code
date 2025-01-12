@@ -68,7 +68,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment ####
 
-Amendment by section 401(b)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+Amendment by section 401(b)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 3 of this title.
 
 Pub. L. 95–600, title IV, §421(g), Nov. 6, 1978, 92 Stat. 2877, provided that: "The amendments made by this section [enacting section 55 of this title and amending this section and sections 57, 58, 443, 511, 666, 871, 877, 904, 6015, 6362, and 6654 of this title] shall apply to taxable years beginning after December 31, 1978, except that the amendment made by paragraph (1) of subsection (b) [amending section 57 of this title] shall apply to sales and exchanges made after July 26, 1978, in taxable years ending after such date."
 

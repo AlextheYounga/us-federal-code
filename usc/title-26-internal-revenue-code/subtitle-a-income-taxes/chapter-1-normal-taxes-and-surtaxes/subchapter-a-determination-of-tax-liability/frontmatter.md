@@ -14,9 +14,13 @@ IV. Credits against tax.
 
 VI. Minimum tax for tax preferences. 1
 
-[VII, VIII. Repealed.]
+VII. Base erosion and anti-abuse tax 2
+
+[VIII. Repealed.]
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §14401(d)(1), Dec. 22, 2017, 131 Stat. 2233, added part VII.
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(12)(A), Dec. 19, 2014, 128 Stat. 4038, struck out part VII "Environmental tax".
 
@@ -33,3 +37,5 @@ VI. Minimum tax for tax preferences. 1
 **1968**—Pub. L. 90–364, title I, §102(d), June 28, 1968, 82 Stat. 259, added part V.
 
 [<sup>1</sup> Part heading amended by Pub. L. 99–514 without corresponding amendment of analysis.](#SubchapterA_1)
+
+[<sup>2</sup> So in original. Probably should be followed by a period.](#SubchapterA_2)

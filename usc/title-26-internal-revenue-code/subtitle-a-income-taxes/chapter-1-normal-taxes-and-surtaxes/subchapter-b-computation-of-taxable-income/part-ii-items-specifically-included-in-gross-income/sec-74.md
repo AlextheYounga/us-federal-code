@@ -52,11 +52,13 @@ Paragraph (1) shall not apply to any taxpayer for any taxable year if the adjust
 
 #### (B) Coordination with other limitations ####
 
-For purposes of sections 86, 135, 137, 199, 219, 221, 222, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
+For purposes of sections 86, 135, 137, 219, 221, 222, and 469, adjusted gross income shall be determined after the application of paragraph (1) and before the application of subparagraph (A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 24; Pub. L. 99–514, title I, §§122(a)(1), 123(b)(1), Oct. 22, 1986, 100 Stat. 2109, 2113; Pub. L. 114–239, §2(a), Oct. 7, 2016, 130 Stat. 973.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 24; Pub. L. 99–514, title I, §§122(a)(1), 123(b)(1), Oct. 22, 1986, 100 Stat. 2109, 2113; Pub. L. 114–239, §2(a), Oct. 7, 2016, 130 Stat. 973; Pub. L. 115–97, title I, §13305(b)(1), Dec. 22, 2017, 131 Stat. 2126.)
 
 #### Amendments ####
+
+**2017**—Subsec. (d)(2)(B). Pub. L. 115–97 struck out "199," after "137,".
 
 **2016**—Subsec. (d). Pub. L. 114–239 added subsec. (d).
 
@@ -67,6 +69,10 @@ Pub. L. 99–514, §122(a)(1)(A), substituted "Except as otherwise provided in t
 Subsec. (b). Pub. L. 99–514, §122(a)(1)(B), (C), inserted "for certain prizes and awards transferred to charities" in heading and added par. (3).
 
 Subsec. (c). Pub. L. 99–514, §122(a)(1)(D), added subsec. (c).
+
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–97, title I, §13305(c), Dec. 22, 2017, 131 Stat. 2126, provided that: "The amendments made by this section [amending this section and sections 86, 135, 137, 170, 172, 219, 221, 222, 246, 469, 613, and 613A of this title and repealing section 199 of this title] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2016 Amendment ####
 

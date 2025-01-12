@@ -4,4 +4,4 @@ Section, added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1023; amended 
 
 #### Effective Date of Repeal ####
 
-Repeal effective with respect to taxable years for foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
+Repeal effective with respect to taxable years for foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 954 of this title.

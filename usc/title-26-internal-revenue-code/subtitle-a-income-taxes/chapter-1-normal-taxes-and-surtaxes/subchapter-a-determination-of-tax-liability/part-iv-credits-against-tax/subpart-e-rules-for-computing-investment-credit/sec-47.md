@@ -2,11 +2,13 @@
 
 #### (a) General rule ####
 
-For purposes of section 46, the rehabilitation credit for any taxable year is the sum of—
+#### (1) In general ####
 
-(1) 10 percent of the qualified rehabilitation expenditures with respect to any qualified rehabilitated building other than a certified historic structure, and
+For purposes of section 46, for any taxable year during the 5-year period beginning in the taxable year in which a qualified rehabilitated building is placed in service, the rehabilitation credit for such year is an amount equal to the ratable share for such year.
 
-(2) 20 percent of the qualified rehabilitation expenditures with respect to any certified historic structure.
+#### (2) Ratable share ####
+
+For purposes of paragraph (1), the ratable share for any taxable year during the period described in such paragraph is the amount equal to 20 percent of the qualified rehabilitation expenditures with respect to the qualified rehabilitated building, as allocated ratably to each year during such period.
 
 #### (b) When expenditures taken into account ####
 
@@ -32,21 +34,11 @@ The term "qualified rehabilitated building" means any building (and its structur
 
 (ii) such building was placed in service before the beginning of the rehabilitation,
 
-(iii) in the case of any building other than a certified historic structure, in the rehabilitation process—
-
-(I) 50 percent or more of the existing external walls of such building are retained in place as external walls,
-
-(II) 75 percent or more of the existing external walls of such building are retained in place as internal or external walls, and
-
-(III) 75 percent or more of the existing internal structural framework of such building is retained in place, and
+(iii) such building is a certified historic structure, and
 
 (iv) depreciation (or amortization in lieu of depreciation) is allowable with respect to such building.
 
-#### (B) Building must be first placed in service before 1936 ####
-
-In the case of a building other than a certified historic structure, a building shall not be a qualified rehabilitated building unless the building was first placed in service before 1936.
-
-#### (C) Substantially rehabilitated defined ####
+#### (B) Substantially rehabilitated defined ####
 
 #### (i) In general ####
 
@@ -66,7 +58,7 @@ In the case of any rehabilitation which may reasonably be expected to be complet
 
 The Secretary shall prescribe by regulation rules for applying this subparagraph to lessees.
 
-#### (D) Reconstruction ####
+#### (C) Reconstruction ####
 
 Rehabilitation includes reconstruction.
 
@@ -104,15 +96,9 @@ The cost of acquiring any building or interest therein.
 
 Any expenditure attributable to the enlargement of an existing building.
 
-#### (iv) Certified historic structure, etc. ####
+#### (iv) Certified historic structure ####
 
-Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historic district, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if—
-
-(I) such building was not a certified historic structure,
-
-(II) the Secretary of the Interior certified to the Secretary that such building is not of historic significance to the district, and
-
-(III) if the certification referred to in subclause (II) occurs after the beginning of the rehabilitation of such building, the taxpayer certifies to the Secretary that, at the beginning of such rehabilitation, he in good faith was not aware of the requirements of subclause (II).
+Any expenditure attributable to the rehabilitation of a qualified rehabilitated building unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)).
 
 #### (v) Tax-exempt use property ####
 
@@ -244,13 +230,37 @@ For purposes of this subsection, the term "self-rehabilitated building" means an
 
 This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
 
-(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897.)
+(Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897; Pub. L. 115–97, title I, §13402(a), (b)(1), Dec. 22, 2017, 131 Stat. 2134.)
 
 #### Prior Provisions ####
 
 Provisions similar to this section were contained in section 48(g) of this title, prior to the general amendment of this subpart by Pub. L. 101–508.
 
 #### Amendments ####
+
+**2017**—Subsec. (a). Pub. L. 115–97, §13402(a), amended subsec. (a) generally. Prior to amendment, text of subsec. (a) read as follows: "For purposes of section 46, the rehabilitation credit for any taxable year is the sum of—
+
+"(1) 10 percent of the qualified rehabilitation expenditures with respect to any qualified rehabilitated building other than a certified historic structure, and
+
+"(2) 20 percent of the qualified rehabilitation expenditures with respect to any certified historic structure."
+
+Subsec. (c)(1)(A)(iii). Pub. L. 115–97, §13402(b)(1)(A)(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "in the case of any building other than a certified historic structure, in the rehabilitation process—
+
+"(I) 50 percent or more of the existing external walls of such building are retained in place as external walls,
+
+"(II) 75 percent or more of the existing external walls of such building are retained in place as internal or external walls, and
+
+"(III) 75 percent or more of the existing internal structural framework of such building is retained in place, and".
+
+Subsec. (c)(1)(B) to (D). Pub. L. 115–97, §13402(b)(1)(A)(ii), (iii), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Text of former subpar. (B) read as follows: "In the case of a building other than a certified historic structure, a building shall not be a qualified rehabilitated building unless the building was first placed in service before 1936."
+
+Subsec. (c)(2)(B)(iv). Pub. L. 115–97, §13402(b)(1)(B), amended cl. (iv) generally. Prior to amendment, text read as follows: "Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historic district, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if—
+
+"(I) such building was not a certified historic structure,
+
+"(II) the Secretary of the Interior certified to the Secretary that such building is not of historic significance to the district, and
+
+"(III) if the certification referred to in subclause (II) occurs after the beginning of the rehabilitation of such building, the taxpayer certifies to the Secretary that, at the beginning of such rehabilitation, he in good faith was not aware of the requirements of subclause (II)."
 
 **2008**—Subsec. (c)(2)(B)(v)(I). Pub. L. 110–289 substituted "section 168(h), except that '50 percent' shall be substituted for '35 percent' in paragraph (1)(B)(iii) thereof" for "section 168(h)".
 
@@ -341,6 +351,20 @@ Subsec. (a)(6). Pub. L. 91–676 added par. (6).
 **1969**—Subsec. (a)(5). Pub. L. 91–172, §703(c)(2), added par. (5).
 
 Subsec. (a)(4). Pub. L. 91–172, §703(c)(1), inserted provision making subpars. (B) and (C) inapplicable to any casualty or theft occurring after April 18, 1969.
+
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–97, title I, §13402(c), Dec. 22, 2017, 131 Stat. 2134, provided that:
+
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and section 145 of this title] shall apply to amounts paid or incurred after December 31, 2017.
+
+"(2) Transition rule.—In the case of qualified rehabilitation expenditures with respect to any building—
+
+"(A) owned or leased by the taxpayer during the entirety of the period after December 31, 2017, and
+
+"(B) with respect to which the 24-month period selected by the taxpayer under clause (i) of section 47(c)(1)(B) of the Internal Revenue Code [26 U.S.C. 47(c)(1)(B)(i)] (as amended by subsection (b)), or the 60-month period applicable under clause (ii) of such section, begins not later than 180 days after the date of the enactment of this Act [Dec. 22, 2017],
+
+the amendments made by this section shall apply to such expenditures paid or incurred after the end of the taxable year in which the 24-month period, or the 60-month period, referred to in subparagraph (B) ends."
 
 #### Effective Date of 2008 Amendment ####
 

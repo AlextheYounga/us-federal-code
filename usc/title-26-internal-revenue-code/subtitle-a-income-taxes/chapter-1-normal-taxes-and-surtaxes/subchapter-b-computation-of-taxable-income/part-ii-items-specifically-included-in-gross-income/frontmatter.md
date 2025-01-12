@@ -16,7 +16,7 @@ Sec.
 
 77. Commodity credit loans.
 
-78. Dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit.
+78. Dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit. 1
 
 79. Group-term life insurance purchased for employees.
 
@@ -24,11 +24,11 @@ Sec.
 
 [81. Repealed.]
 
-82. Reimbursement of moving expenses. 1
+82. Reimbursement of moving expenses. 2
 
 83. Property transferred in connection with performance of services.
 
-84. Transfer of appreciated property to political organizations. 1
+84. Transfer of appreciated property to political organizations. 2
 
 85. Unemployment compensation.
 
@@ -42,7 +42,15 @@ Sec.
 
 90. Illegal Federal irrigation subsidies.
 
+91. Certain foreign branch losses transferred to specified 10-percent owned foreign corporations.
+
+#### Amendment of Analysis ####
+
+Pub. L. 115–97, title I, §11051(b)(1)(B), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended by striking item 71. See 2017 Amendment note below.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §§11051(b)(1)(B), 14102(d)(2), Dec. 22, 2017, 131 Stat. 2089, 2194, struck out item 71 "Alimony and separate maintenance payments" and added item 91.
 
 **2004**—Pub. L. 108–357, title III, §302(c)(1)(B), Oct. 22, 2004, 118 Stat. 1465, substituted "and biodiesel fuels credits" for "fuel credit" in item 87.
 
@@ -76,4 +84,6 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 
 **1962**—Pub. L. 87–834, §9(d)(1), Oct. 16, 1962, 76 Stat. 1001, added item 78.
 
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)
+[<sup>1</sup> Section catchline amended by Pub. L. 115–79 without corresponding amendment of analysis.](#I_1)
+
+[<sup>2</sup> So in original. Does not conform to section catchline.](#I_2)

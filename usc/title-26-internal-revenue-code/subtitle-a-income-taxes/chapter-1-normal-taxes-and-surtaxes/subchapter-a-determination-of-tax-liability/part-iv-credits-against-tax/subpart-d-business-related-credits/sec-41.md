@@ -262,7 +262,7 @@ For purposes of this section—
 
 The term "qualified research" means research—
 
-(A) with respect to which expenditures may be treated as expenses under section 174,
+(A) <sup><a href="#41_1_target" name="41_1">1</a></sup> with respect to which expenditures may be treated as expenses under section 174,
 
 (B) which is undertaken for the purpose of discovering information—
 
@@ -454,11 +454,11 @@ For purposes of this paragraph, the term "nondesignated university contribution"
 
 #### (i) In general ####
 
-The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting "calendar year 1987" for "calendar year 1992" in subparagraph (B) thereof.
+The cost-of-living adjustment for any calendar year is the cost-of-living adjustment for such calendar year determined under section 1(f)(3), by substituting "calendar year 1987" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (ii) Special rule where base period ends in a calendar year other than 1983 or 1984 ####
 
-If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(B) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 1992. Such substitution shall be in lieu of the substitution under clause (i).
+If the base period of any taxpayer does not end in 1983 or 1984, section 1(f)(3)(A)(ii) shall, for purposes of this paragraph, be applied by substituting the calendar year in which such base period ends for 2016. Such substitution shall be in lieu of the substitution under clause (i).
 
 #### (6) Qualified organization ####
 
@@ -814,7 +814,15 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (C) regulations for recapturing the benefit of credits determined under section 3111(f) in cases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)[(c)], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049.)
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(h)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)[(c)], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §§11002(d)(1)(F), (2), 13206(d)(1), Dec. 22, 2017, 131 Stat. 2060, 2061, 2112.)
+
+#### Amendment of Subsection (d)(1)(A) ####
+
+Pub. L. 115–97, title I, §13206(d)(1), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, amended subsection (d)(1)(A) of this section, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021. After amendment, subsection (d)(1)(A) reads as follows:
+
+*(A) with respect to which expenditures may be treated as specified research or experimental expenditures under section 174,*
+
+See 2017 Amendment note below.
 
 #### References in Text ####
 
@@ -827,6 +835,12 @@ A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 9
 Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments ####
+
+**2017**—Subsec. (d)(1)(A). Pub. L. 115–97, §13206(d)(1), substituted "specified research or experimental expenditures under section 174" for "expenses under section 174".
+
+Subsec. (e)(5)(C)(i). Pub. L. 115–97, §11002(d)(1)(F), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+
+Subsec. (e)(5)(C)(ii). Pub. L. 115–97, §11002(d)(2), substituted "1(f)(3)(A)(ii)" for "1(f)(3)(B)" and "2016" for "1992".
 
 **2015**—Subsec. (h). Pub. L. 114–113, §121(c)(1), added subsec. (h).
 
@@ -1028,6 +1042,12 @@ Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting "s
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
 
+#### Effective Date of 2017 Amendment ####
+
+Amendment by section 11002(d)(1)(F), (2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §13206(e), Dec. 22, 2017, 131 Stat. 2113, provided that: "The amendments made by this section [amending this section and sections 174 and 280C of this title ] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2021."
+
 #### Effective Date of 2015 Amendment ####
 
 Amendment by section 121(a)(1) of Pub. L. 114–113 applicable to amounts paid or incurred after Dec. 31, 2014, see section 121(d)(1) of Pub. L. 114–113, set out as a note under section 38 of this title.
@@ -1220,7 +1240,7 @@ Pub. L. 97–34, title II, §221(d), Aug. 13, 1981, 95 Stat. 241, as amended by 
 
 Pub. L. 109–432, div. A, title I, §123, Dec. 20, 2006, 120 Stat. 2944, provided that:
 
-"(a) Research Credit Elections.—In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act [Dec. 20, 2006], any election under section 41(c)(4) or section 280C(c)(3)(C) of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify. Such election shall be made in the manner prescribed by such Secretary or designee.
+"(a) Research Credit Elections.—In the case of any taxable year ending after December 31, 2005, and before the date of the enactment of this Act [Dec. 20, 2006], any election under section 41(c)(4) or section 280C(c)(3)(C) [now 280C(c)(2)(C)] of the Internal Revenue Code of 1986 shall be treated as having been timely made for such taxable year if such election is made not later than the later of April 15, 2007, or such time as the Secretary of the Treasury, or his designee, may specify. Such election shall be made in the manner prescribed by such Secretary or designee.
 
 "(b) Other Elections.—Except as otherwise provided by such Secretary or designee, a rule similar to the rule of subsection (a) shall apply with respect to elections under any other expired provision of the Internal Revenue Code of 1986 the applicability of which is extended by reason of the amendments made by this title [amending this section and sections 32, 45A, 45C, 45D, 51, 54, 62, 164, 168, 170, 198, 220, 222, 613A, 1397E, 1400, 1400A to 1400C, 1400F, 1400N, 6103, 7608, 7652, and 9812 of this title, section 1185a of Title 29, Labor, and section 300gg–5 of Title 42, The Public Health and Welfare, and repealing section 51A of this title]."
 
@@ -1291,3 +1311,5 @@ Pub. L. 98–369, div. A, title IV, §474(i)(2), July 18, 1984, 98 Stat. 832, pr
 "(B) the period during which new section 30 [now 41] is in effect,
 
 new section 30 [now 41] shall be treated as a continuation of old section 44F (and shall apply only to the extent old section 44F would have applied)."
+
+[<sup>1</sup> See Amendment of Subsection (d)(1)(A) note below.](#41_1)

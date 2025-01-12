@@ -38,11 +38,13 @@ Sec.
 
 6430. Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate.
 
-6431. Credit for qualified bonds allowed to issuer.
+[6431. Repealed.]
 
 6432. COBRA premium assistance.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13404(b), Dec. 22, 2017, 131 Stat. 2138, struck out item 6431 "Credit for qualified bonds allowed to issuer".
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(112)(A), (113), Dec. 19, 2014, 128 Stat. 4054, struck out item 6428 "2008 recovery rebates for individuals" and item 6429 "Advance payment of portion of increased child credit for 2003".
 

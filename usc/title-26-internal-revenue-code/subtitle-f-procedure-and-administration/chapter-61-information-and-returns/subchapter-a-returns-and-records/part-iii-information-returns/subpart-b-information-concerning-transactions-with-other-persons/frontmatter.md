@@ -76,7 +76,13 @@ Sec.
 
 6050W. Returns relating to payments made in settlement of payment card transactions. 3
 
+6050X. Information with respect to certain fines, penalties, and other amounts.
+
+6050Y. Returns relating to certain life insurance contract transactions.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §§13306(b)(2), 13520(b), Dec. 22, 2017, 131 Stat. 2129, 2150, added items 6050X and 6050Y.
 
 **2008**—Pub. L. 110–343, div. B, title IV, §403(c)(3), (d)(3), Oct. 3, 2008, 122 Stat. 3858, 3860, added items 6045A and 6045B.
 

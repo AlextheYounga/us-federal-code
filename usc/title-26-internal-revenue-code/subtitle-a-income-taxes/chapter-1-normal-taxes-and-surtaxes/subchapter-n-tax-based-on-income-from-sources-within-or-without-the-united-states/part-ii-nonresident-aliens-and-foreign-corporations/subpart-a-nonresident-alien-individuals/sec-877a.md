@@ -32,7 +32,7 @@ In the case of any taxable year beginning in a calendar year after 2008, the dol
 
 (I) such dollar amount, multiplied by
 
-(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 2007" for "calendar year 1992" in subparagraph (B) thereof.
+(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 2007" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (ii) Rounding ####
 
@@ -292,7 +292,7 @@ If the expatriation of any individual would result in the recognition of gain un
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062.)
+(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -304,9 +304,15 @@ Section 220(e), referred to in subsec. (g)(6), does not contain a par. (4).
 
 #### Amendments ####
 
+**2017**—Subsec. (a)(3)(B)(i)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B) thereof".
+
 **2014**—Subsec. (e)(2). Pub. L. 113–295, §102(e)(2)(A), inserted "a qualified ABLE program (as defined in section 529A)," after "529),".
 
 Subsec. (g)(6). Pub. L. 113–295, §102(e)(2)(B), inserted "529A(c)(3)," after "529(c)(6),".
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2014 Amendment ####
 

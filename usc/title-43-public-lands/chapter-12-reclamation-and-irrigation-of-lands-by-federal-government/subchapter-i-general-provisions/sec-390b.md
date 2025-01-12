@@ -172,7 +172,7 @@ Pub. L. 114–322, title III, §4012, Dec. 16, 2016, 130 Stat. 1882, provided th
 
 "(1) preempts or modifies any obligation of the United States to act in conformance with applicable State law, including applicable State water law;
 
-"(2) affects or modifies any obligation under the Central Valley Project Improvement Act ([title XXXIV of] Public Law 102–575; 106 Stat. 4706), except for the savings provisions for the Stanislaus River predator management program expressly established by section 11(d) [sic] and provisions in section 11(g) [sic];
+"(2) affects or modifies any obligation under the Central Valley Project Improvement Act ([title XXXIV of] Public Law 102–575; 106 Stat. 4706), except for the savings provisions for the Stanislaus River predator management program expressly established by section 11(d) and provisions in section 11(g) [sic; probably means section 4010(d) and (g) of Pub. L. 114–322, 130 Stat. 1874, 1878];
 
 "(3) overrides, modifies, or amends the applicability of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or the application of the smelt and salmonid biological opinions to the operation of the Central Valley Project or the State Water Project;
 
@@ -198,9 +198,9 @@ Pub. L. 114–322, title III, §4012, Dec. 16, 2016, 130 Stat. 1882, provided th
 
 Pub. L. 114–322, title III, §4013, Dec. 16, 2016, 130 Stat. 1883, provided that: "This subtitle [subtitle J (§§4001–4014) of title III of Pub. L. 114–322, see Tables for classification] shall expire on the date that is 5 years after the date of its enactment [Dec. 16, 2016], with the exception of—
 
-"(1) section 4004 [not classified to the Code], which shall expire 10 years after the date of its enactment; and
+"(1) section 4004 [130 Stat. 1858], which shall expire 10 years after the date of its enactment; and
 
-"(2) projects under construction in sections 4007 [set out in part as a note above], 4009(a) [amending a note under section 10301 of Title 42, The Public Health and Welfare], and 4009(c) [amending section 390h of this title]."
+"(2) projects under construction in sections 4007 [set out in part as a note above], 4009(a) [amending provisions set out as a note under section 10301 of Title 42, The Public Health and Welfare], and 4009(c) [amending section 390h of this title]."
 
 #### Amendment of Contracts Existing Prior to November 17, 1986 ####
 

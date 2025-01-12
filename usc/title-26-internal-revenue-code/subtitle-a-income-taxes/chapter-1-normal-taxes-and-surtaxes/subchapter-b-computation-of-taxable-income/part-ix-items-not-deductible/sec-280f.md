@@ -8,13 +8,13 @@
 
 The amount of the depreciation deduction for any taxable year for any passenger automobile shall not exceed—
 
-(i) $2,560 for the 1st taxable year in the recovery period,
+(i) $10,000 for the 1st taxable year in the recovery period,
 
-(ii) $4,100 for the 2nd taxable year in the recovery period,
+(ii) $16,000 for the 2nd taxable year in the recovery period,
 
-(iii) $2,450 for the 3rd taxable year in the recovery period, and
+(iii) $9,600 for the 3rd taxable year in the recovery period, and
 
-(iv) $1,475 for each succeeding taxable year in the recovery period.
+(iv) $5,760 for each succeeding taxable year in the recovery period.
 
 #### (B) Disallowed deductions allowed for years after recovery period ####
 
@@ -22,9 +22,9 @@ The amount of the depreciation deduction for any taxable year for any passenger 
 
 Except as provided in clause (ii), the unrecovered basis of any passenger automobile shall be treated as an expense for the 1st taxable year after the recovery period. Any excess of the unrecovered basis over the limitation of clause (ii) shall be treated as an expense in the succeeding taxable year.
 
-#### (ii) $1,475 limitation ####
+#### (ii) $5,760 limitation ####
 
-The amount treated as an expense under clause (i) for any taxable year shall not exceed $1,475.
+The amount treated as an expense under clause (i) for any taxable year shall not exceed $5,760.
 
 #### (iii) Property must be depreciable ####
 
@@ -126,17 +126,11 @@ Except as provided in subparagraph (B), the term "listed property" means—
 
 (ii) any other property used as a means of transportation,
 
-(iii) any property of a type generally used for purposes of entertainment, recreation, or amusement,
+(iii) any property of a type generally used for purposes of entertainment, recreation, or amusement, and
 
-(iv) any computer or peripheral equipment (as defined in section 168(i)(2)(B)), "and" <sup><a href="#280F_1_target" name="280F_1">1</a></sup>
+(iv) any other property of a type specified by the Secretary by regulations.
 
-(v) any other property of a type specified by the Secretary by regulations.
-
-#### (B) Exception for certain computers ####
-
-The term "listed property" shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion.
-
-#### (C) Exception for property used in business of transporting persons or property ####
+#### (B) Exception for property used in business of transporting persons or property ####
 
 Except to the extent provided in regulations, clause (ii) of subparagraph (A) shall not apply to any property substantially all of the use of which is in a trade or business of providing to unrelated persons services consisting of the transportation of persons or property for compensation or hire.
 
@@ -204,7 +198,7 @@ The term "related person" means any person related to the taxpayer (within the m
 
 #### (A) In general ####
 
-In the case of any passenger automobile placed in service after 1988, subsection (a) shall be applied by increasing each dollar amount contained in such subsection by the automobile price inflation adjustment for the calendar year in which such automobile is placed in service. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or if the increase is a multiple of $50, such increase shall be increased to the next higher multiple of $100).
+In the case of any passenger automobile placed in service after 2018, subsection (a) shall be applied by increasing each dollar amount contained in such subsection by the automobile price inflation adjustment for the calendar year in which such automobile is placed in service. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or if the increase is a multiple of $50, such increase shall be increased to the next higher multiple of $100).
 
 #### (B) Automobile price inflation adjustment ####
 
@@ -214,13 +208,13 @@ For purposes of this paragraph—
 
 The automobile price inflation adjustment for any calendar year is the percentage (if any) by which—
 
-(I) the CPI automobile component for October of the preceding calendar year, exceeds
+(I) the C-CPI-U automobile component for October of the preceding calendar year, exceeds
 
-(II) the CPI automobile component for October of 1987.
+(II) the automobile component of the CPI (as defined in section 1(f)(4)) for October of 2017, multiplied by the amount determined under 1(f)(3)(B).
 
-#### (ii) CPI automobile component ####
+#### (ii) C-CPI-U automobile component ####
 
-The term "CPI automobile component" means the automobile component of the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+The term "C-CPI-U automobile component" means the automobile component of the Chained Consumer Price Index for All Urban Consumers (as described in section 1(f)(6)).
 
 #### (8) Unrecovered basis ####
 
@@ -238,13 +232,33 @@ For purposes of subsection (a)(1) any property acquired in a nonrecognition tran
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations with respect to items properly included in, or excluded from, the adjusted basis of any listed property.
 
-(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59; Pub. L. 111–240, title II, §2043(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 113–295, div. A, title II, §§220(j), 221(a)(34)(E), Dec. 19, 2014, 128 Stat. 4036, 4042.)
+(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59; Pub. L. 111–240, title II, §2043(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 113–295, div. A, title II, §§220(j), 221(a)(34)(E), Dec. 19, 2014, 128 Stat. 4036, 4042; Pub. L. 115–97, title I, §§11002(d)(8), 13202(a), (b), Dec. 22, 2017, 131 Stat. 2061, 2108, 2109.)
 
 #### Inflation Adjusted Items for Certain Calendar Years ####
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
 
 #### Amendments ####
+
+**2017**—Subsec. (a)(1)(A)(i). Pub. L. 115–97, §13202(a)(1)(A), substituted "$10,000" for "$2,560".
+
+Subsec. (a)(1)(A)(ii). Pub. L. 115–97, §13202(a)(1)(B), substituted "$16,000" for "$4,100".
+
+Subsec. (a)(1)(A)(iii). Pub. L. 115–97, §13202(a)(1)(C), substituted "$9,600" for "$2,450".
+
+Subsec. (a)(1)(A)(iv). Pub. L. 115–97, §13202(a)(1)(D), substituted "$5,760" for "$1,475".
+
+Subsec. (a)(1)(B)(ii). Pub. L. 115–97, §13202(a)(2)(A), substituted "$5,760" for "$1,475" in heading and text.
+
+Subsec. (d)(4)(A)(iv), (v). Pub. L. 115–97, §13202(b)(1), redesignated cls. (v) as (iv) and struck out former cls. (iv) which read as follows: "any computer or peripheral equipment (as defined in section 168(i)(2)(B)), 'and' ".
+
+Subsec. (d)(4)(B), (C). Pub. L. 115–97, §13202(b)(2), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "The term 'listed property' shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion."
+
+Subsec. (d)(7)(A). Pub. L. 115–97, §13202(a)(2)(B)(i), substituted "2018" for "1988".
+
+Subsec. (d)(7)(B). Pub. L. 115–97, §11002(d)(8), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to automobile price inflation adjustment.
+
+Subsec. (d)(7)(B)(i)(II). Pub. L. 115–97, §13202(a)(2)(B)(ii), substituted "2017" for "1987".
 
 **2014**—Subsec. (a)(1)(C). Pub. L. 113–295, §221(a)(34)(E), struck out subpar. (C) which related to special rules for certain automobiles modified to be propelled by a clean burning fuel and for purpose built passenger vehicles that were placed in service between Aug. 5, 1997, and Jan. 1, 2007.
 
@@ -340,6 +354,12 @@ Subsec. (d)(7)(B)(i). Pub. L. 99–44, §4(b)(3), struck out last sentence which
 
 Subsec. (d)(7)(B)(i)(II). Pub. L. 99–44, §4(b)(2), substituted "1987" for "1983".
 
+#### Effective Date of 2017 Amendment ####
+
+Amendment by section 11002(d)(8) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
+
+Pub. L. 115–97, title I, §13202(c), Dec. 22, 2017, 131 Stat. 2109, provided that: "The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017, in taxable years ending after such date."
+
 #### Effective Date of 2014 Amendment ####
 
 Amendment by section 221(a)(34)(E) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -434,6 +454,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2017**—Revenue Procedure 2017–29.
+
 **2016**—Revenue Procedure 2016–23.
 
 **2015**—Revenue Procedure 2015–19.
@@ -475,5 +497,3 @@ Provisions relating to inflation adjustment of items in this section for certain
 **1997**—Revenue Procedure 97–20.
 
 **1996**—Revenue Procedure 96–25.
-
-[<sup>1</sup> So in original. The quotation marks probably should not appear.](#280F_1)

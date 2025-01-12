@@ -96,7 +96,7 @@ The amount of the tax imposed by paragraph (1) on any transfer of a residual int
 
 (A) the amount (determined under regulations) equal to the present value of the total anticipated excess inclusions with respect to such interest for periods after such transfer, multiplied by
 
-(B) the highest rate of tax specified in section 11(b)(1).
+(B) the highest rate of tax specified in section 11(b).
 
 #### (3) Liability ####
 
@@ -130,7 +130,7 @@ If, at any time during any taxable year of a pass-thru entity, a disqualified or
 
 (i) the amount of excess inclusions for such taxable year allocable to the interest held by such disqualified organization, multiplied by
 
-(ii) the highest rate of tax specified in section 11(b)(1).
+(ii) the highest rate of tax specified in section 11(b).
 
 #### (B) Pass-thru entity ####
 
@@ -172,9 +172,11 @@ For purposes of subtitle F, the taxes imposed by this subsection shall be treate
 
 Except as provided in regulations, with respect to any variable contract (as defined in section 817), there shall be no adjustment in the reserve to the extent of any excess inclusion.
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, §13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096.)
 
 #### Amendments ####
+
+**2017**—Subsec. (e)(2)(B), (6)(A)(ii). Pub. L. 115–97 substituted "section 11(b)" for "section 11(b)(1)".
 
 **1996**—Subsec. (a)(1). Pub. L. 104–188, §1616(b)(10)(A), substituted "The" for "Except as provided in paragraph (2), the".
 
@@ -201,6 +203,10 @@ Subsec. (d). Pub. L. 100–647, §1006(t)(23), inserted at end "Rules similar to
 Subsec. (e). Pub. L. 100–647, §1006(t)(16)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 #### Effective Date of 1996 Amendment ####
 

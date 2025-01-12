@@ -60,7 +60,11 @@ Sec.
 
 45R. Employee health insurance expenses of small employers.
 
+45S. Employer credit for paid family and medical leave.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13403(d)(3), Dec. 22, 2017, 131 Stat. 2138, added item 45S.
 
 **2010**—Pub. L. 111–148, title I, §1421(e), Mar. 23, 2010, 124 Stat. 242, added item 45R.
 

@@ -52,7 +52,11 @@ X. Renewal Communities 1400E
 
 Y. Short-Term Regional Benefits 1400L
 
+Z. Opportunity zones 1400Z–1
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13823(c), Dec. 22, 2017, 131 Stat. 2188, added subchapter Z.
 
 **2005**—Pub. L. 109–135, title I, §101(b)(4), Dec. 21, 2005, 119 Stat. 2593, substituted "Short-Term Regional Benefits" for "New York Liberty Zone Benefits" in subchapter Y.
 

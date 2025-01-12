@@ -180,7 +180,7 @@ In the case of a taxable year beginning after 2001, each of the $1,000 amounts u
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 1992" in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (B) Rounding ####
 
@@ -194,7 +194,7 @@ In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amou
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 1992" in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 #### (B) Rounding ####
 
@@ -274,7 +274,7 @@ In the case of a taxpayer who is denied credit under this section for any taxabl
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -287,6 +287,8 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and
 The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments ####
+
+**2017**—Subsec. (h)(1)(A)(ii), (2)(A)(ii). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 **2015**—Subsec. (g)(3)(C). Pub. L. 114–27, §804(a)(2), added subpar. (C).
 
@@ -319,6 +321,10 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
 "(1) In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
 "(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date of 2015 Amendment ####
 

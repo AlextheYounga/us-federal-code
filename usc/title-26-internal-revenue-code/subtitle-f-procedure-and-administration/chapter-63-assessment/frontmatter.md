@@ -6,21 +6,9 @@ A. In general 6201
 
 B. Deficiency procedures in the case of income, estate, gift, and certain excise taxes 6211
 
-C. Tax treatment of partnership items 6221
+C. Treatment of partnerships 6221
 
-D. Treatment of electing large partnerships 6240
-
-#### Amendment of Analysis ####
-
-Pub. L. 114–74, title XI, §1101(a), (b)(2), (c)(2), (g), Nov. 2, 2015, 129 Stat. 625, 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is amended as follows:
-
-(1) by striking the item relating to subchapter C;
-
-(2) by striking the item relating to subchapter D; and
-
-(3) by inserting after the item relating to subchapter B the following new item for subchapter C: "Treatment of partnerships".
-
-See 2015 Amendment note below.
+[D. Repealed]
 
 #### Amendments ####
 

@@ -82,9 +82,11 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 (34) the carbon dioxide sequestration credit determined under section 45Q(a) <sup><a href="#38_1_target" name="38_1">1</a></sup>
 
-(35) the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies, plus
+(35) the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies,
 
-(36) the small employer health insurance credit determined under section 45R.
+(36) the small employer health insurance credit determined under section 45R, plus
+
+(37) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a).
 
 #### (c) Limitation based on amount of tax ####
 
@@ -172,11 +174,13 @@ For purposes of this subsection, the term "specified credits" means—
 
 (viii) the credit determined under section 45R,
 
-(ix) the credit determined under section 46 to the extent that such credit is attributable to the energy credit determined under section 48,
+(ix) the credit determined under section 45S,
 
-(x) the credit determined under section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007, and
+(x) the credit determined under section 46 to the extent that such credit is attributable to the energy credit determined under section 48,
 
-(xi) the credit determined under section 51.
+(xi) the credit determined under section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007, and
+
+(xii) the credit determined under section 51.
 
 #### (5) Special rules for eligible small business credits in 2010 ####
 
@@ -230,6 +234,10 @@ In the case of a person described in subparagraph (A) or (B) of section 46(e)(1)
 
 In the case of an estate or trust, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced to an amount which bears the same ratio to $25,000 as the portion of the income of the estate or trust which is not allocated to beneficiaries bears to the total income of the estate or trust.
 
+#### (E) Corporations ####
+
+In the case of a corporation, this subsection shall be applied by treating the corporation as having a tentative minimum tax of zero.
+
 #### (d) Ordering rules ####
 
 For purposes of any provision of this title where it is necessary to ascertain the extent to which the credits determined under any section referred to in subsection (b) are used in a taxable year or as a carryback or carryforward—
@@ -242,7 +250,7 @@ The order in which such credits are used shall be determined on the basis of the
 
 The order in which the credits listed in section 46 are used shall be determined on the basis of the order in which such credits are listed in section 46 as of the close of the taxable year in which the credit is used.
 
-(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) [title I, §121(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129 Stat. 3049, 3074.)
+(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) [title I, §121(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129 Stat. 3049, 3074; Pub. L. 115–97, title I, §§12001(b)(1), 13403(b), (c), Dec. 22, 2017, 131 Stat. 2092, 2137.)
 
 #### References in Text ####
 
@@ -261,6 +269,12 @@ A prior section 38, added Pub. L. 87–834, §2(a), Oct. 16, 1962, 76 Stat. 962;
 Another prior section 38 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2017**—Subsec. (b)(35 ) to (37). Pub. L. 115–97, §13403(b), struck out "plus" at end of par. (35), substituted ", plus" for period at end of par. (36), and added par. (37).
+
+Subsec. (c)(4)(B)(ix) to (xii). Pub. L. 115–97, §13403(c), added cl. (ix) and redesignated former cls. (ix) to (xi) as (x) to (xii), respectively.
+
+Subsec. (c)(6)(E). Pub. L. 115–97, §12001(b)(1), added subpar. (E).
 
 **2015**—Subsec. (c)(4)(B)(ii) to (iv). Pub. L. 114–113, §121(b), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively. Former cl. (iv) redesignated (v).
 
@@ -475,6 +489,12 @@ Pub. L. 99–514, §1171(b)(2), substituted "and 196(a)" for "196(a), and 404(i)
 Pub. L. 99–514, §231(d)(3)(B), inserted "41(a)," after "40(a),".
 
 **1984**—Subsec. (c)(2). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "section 25(b)".
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by section 12001(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under section 11 of this title.
+
+Pub. L. 115–97, title I, §13403(e), Dec. 22, 2017, 131 Stat. 2138, provided that: "The amendments made by this section [enacting section 45S of this title and amending this section and sections 280C and 6501 of this title] shall apply to wages paid in taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2015 Amendment ####
 

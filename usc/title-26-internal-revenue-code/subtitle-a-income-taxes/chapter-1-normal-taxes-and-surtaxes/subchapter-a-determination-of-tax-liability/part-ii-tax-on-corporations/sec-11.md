@@ -6,23 +6,7 @@ A tax is hereby imposed for each taxable year on the taxable income of every cor
 
 #### (b) Amount of tax ####
 
-#### (1) In general ####
-
-The amount of the tax imposed by subsection (a) shall be the sum of—
-
-(A) 15 percent of so much of the taxable income as does not exceed $50,000,
-
-(B) 25 percent of so much of the taxable income as exceeds $50,000 but does not exceed $75,000,
-
-(C) 34 percent of so much of the taxable income as exceeds $75,000 but does not exceed $10,000,000, and
-
-(D) 35 percent of so much of the taxable income as exceeds $10,000,000.
-
-In the case of a corporation which has taxable income in excess of $100,000 for any taxable year, the amount of tax determined under the preceding sentence for such taxable year shall be increased by the lesser of (i) 5 percent of such excess, or (ii) $11,750. In the case of a corporation which has taxable income in excess of $15,000,000, the amount of the tax determined under the foregoing provisions of this paragraph shall be increased by an additional amount equal to the lesser of (i) 3 percent of such excess, or (ii) $100,000.
-
-#### (2) Certain personal service corporations not eligible for graduated rates ####
-
-Notwithstanding paragraph (1), the amount of the tax imposed by subsection (a) on the taxable income of a qualified personal service corporation (as defined in section 448(d)(2)) shall be equal to 35 percent of the taxable income.
+The amount of the tax imposed by subsection (a) shall be 21 percent of taxable income.
 
 #### (c) Exceptions ####
 
@@ -36,11 +20,29 @@ Subsection (a) shall not apply to a corporation subject to a tax imposed by—
 
 #### (d) Foreign corporations ####
 
-In the case of a foreign corporation, the taxes imposed by subsection (a) and section 55 shall apply only as provided by section 882.
+In the case of a foreign corporation, the tax imposed by subsection (a) shall apply only as provided by section 882.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 11; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Pub. L. 85–12, §2, Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §2, June 30, 1958, 72 Stat. 259; Pub. L. 86–75, §2, June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §201, June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §10(d), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 87–72, §2, June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §2, June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §2, June 29, 1963, 77 Stat. 72; Pub. L. 88–272, title I, §121, Feb. 26, 1964, 78 Stat. 25; Pub. L. 89–809, title I, §104(b)(2), Nov. 13, 1966, 80 Stat. 1557; Pub. L. 91–172, title IV, §401(b)(2)(B), Dec. 30, 1969, 83 Stat. 602; Pub. L. 94–12, title III, §303(a), (b), Mar. 29, 1975, 89 Stat. 44; Pub. L. 94–164, §4(a)–(c), Dec. 23, 1975, 89 Stat. 973, 974; Pub. L. 94–455, title IX, §901(a), Oct. 4, 1976, 90 Stat. 1606; Pub. L. 95–30, title II, §201(1), (2), May 23, 1977, 91 Stat. 141; Pub. L. 95–600, title III, §301(a), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 97–34, title II, §231(a), Aug. 13, 1981, 95 Stat. 249; Pub. L. 98–369, div. A, title I, §66(a), July 18, 1984, 98 Stat. 585; Pub. L. 99–514, title VI, §601(a), Oct. 22, 1986, 100 Stat. 2249; Pub. L. 100–203, title X, §10224(a), Dec. 22, 1987, 101 Stat. 1330–412; Pub. L. 100–647, title I, §1007(g)(13)(B), Nov. 10, 1988, 102 Stat. 3436; Pub. L. 103–66, title XIII, §13221(a), (b), Aug. 10, 1993, 107 Stat. 477.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 11; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Pub. L. 85–12, §2, Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §2, June 30, 1958, 72 Stat. 259; Pub. L. 86–75, §2, June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §201, June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §10(d), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 87–72, §2, June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §2, June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §2, June 29, 1963, 77 Stat. 72; Pub. L. 88–272, title I, §121, Feb. 26, 1964, 78 Stat. 25; Pub. L. 89–809, title I, §104(b)(2), Nov. 13, 1966, 80 Stat. 1557; Pub. L. 91–172, title IV, §401(b)(2)(B), Dec. 30, 1969, 83 Stat. 602; Pub. L. 94–12, title III, §303(a), (b), Mar. 29, 1975, 89 Stat. 44; Pub. L. 94–164, §4(a)–(c), Dec. 23, 1975, 89 Stat. 973, 974; Pub. L. 94–455, title IX, §901(a), Oct. 4, 1976, 90 Stat. 1606; Pub. L. 95–30, title II, §201(1), (2), May 23, 1977, 91 Stat. 141; Pub. L. 95–600, title III, §301(a), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 97–34, title II, §231(a), Aug. 13, 1981, 95 Stat. 249; Pub. L. 98–369, div. A, title I, §66(a), July 18, 1984, 98 Stat. 585; Pub. L. 99–514, title VI, §601(a), Oct. 22, 1986, 100 Stat. 2249; Pub. L. 100–203, title X, §10224(a), Dec. 22, 1987, 101 Stat. 1330–412; Pub. L. 100–647, title I, §1007(g)(13)(B), Nov. 10, 1988, 102 Stat. 3436; Pub. L. 103–66, title XIII, §13221(a), (b), Aug. 10, 1993, 107 Stat. 477; Pub. L. 115–97, title I, §§12001(b)(11), 13001(a), Dec. 22, 2017, 131 Stat. 2094, 2096.)
 
 #### Amendments ####
+
+**2017**—Subsec. (b). Pub. L. 115–97, §13001(a), amended subsec. (b) generally. Prior to amendment, text read as follows:
+
+"(1) In general.—The amount of the tax imposed by subsection (a) shall be the sum of—
+
+"(A) 15 percent of so much of the taxable income as does not exceed $50,000,
+
+"(B) 25 percent of so much of the taxable income as exceeds $50,000 but does not exceed $75,000,
+
+"(C) 34 percent of so much of the taxable income as exceeds $75,000 but does not exceed $10,000,000, and
+
+"(D) 35 percent of so much of the taxable income as exceeds $10,000,000.
+
+In the case of a corporation which has taxable income in excess of $100,000 for any taxable year, the amount of tax determined under the preceding sentence for such taxable year shall be increased by the lesser of (i) 5 percent of such excess, or (ii) $11,750. In the case of a corporation which has taxable income in excess of $15,000,000, the amount of the tax determined under the foregoing provisions of this paragraph shall be increased by an additional amount equal to the lesser of (i) 3 percent of such excess, or (ii) $100,000.
+
+"(2) Certain personal service corporations not eligible for graduated rates.—Notwithstanding paragraph (1), the amount of the tax imposed by subsection (a) on the taxable income of a qualified personal service corporation (as defined in section 448(d)(2)) shall be equal to 35 percent of the taxable income."
+
+Subsec. (d). Pub. L. 115–97, §12001(b)(11), substituted "the tax imposed by subsection (a)" for "the taxes imposed by subsection (a) and section 55".
 
 **1993**—Subsec. (b)(1). Pub. L. 103–66, §13221(a)(3), inserted at end of closing provisions "In the case of a corporation which has taxable income in excess of $15,000,000, the amount of the tax determined under the foregoing provisions of this paragraph shall be increased by an additional amount equal to the lesser of (i) 3 percent of such excess, or (ii) $100,000."
 
@@ -139,6 +141,18 @@ Subsec. (d)(3). Pub. L. 86–779 inserted "and real estate investment trusts" af
 **1956**—Subsec. (b). Act Mar. 29, 1956, substituted "April 1, 1957" for "April 1, 1956" and "March 31, 1957" for "March 31, 1956" wherever appearing.
 
 **1955**—Subsec. (b). Act Mar. 30, 1955, substituted "April 1, 1956" for "April 1, 1955" and "March 31, 1956" for "March 31, 1955" wherever appearing.
+
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–97, title I, §12001(c), Dec. 22, 2017, 131 Stat. 2094, provided that: "The amendments made by this section [amending this section and sections 12, 38, 53, 55, 56, 58, 59, 168, 847, 848, 882, 897, 911, 962, 1561, 6425, and 6655 of this title] shall apply to taxable years beginning after December 31, 2017."
+
+Pub. L. 115–97, title I, §13001(c), Dec. 22, 2017, 131 Stat. 2098, provided that:
+
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by subsections (a) and (b) [amending this section and sections 12, 280C, 453A, 527, 535, 594, 691, 801, 831, 832, 834, 852, 857, 860E, 882, 904, 1374, 1381, 1445, 1446, 1561, 6425, 6655, 7518, and 7874 of this title and repealing sections 1201 and 1551 of this title] shall apply to taxable years beginning after December 31, 2017.
+
+"(2) Withholding.—The amendments made by subsection (b)(3) [amending sections 1445 and 1446 of this title] shall apply to distributions made after December 31, 2017.
+
+"(3) Certain transfers.—The amendments made by subsection (b)(6) [amending section 1561 of this title] shall apply to transfers made after December 31, 2017."
 
 #### Effective Date of 1993 Amendment ####
 

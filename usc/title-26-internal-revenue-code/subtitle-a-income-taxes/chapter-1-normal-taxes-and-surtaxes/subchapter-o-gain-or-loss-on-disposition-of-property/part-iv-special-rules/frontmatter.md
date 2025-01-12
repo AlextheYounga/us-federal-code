@@ -22,9 +22,13 @@ Sec.
 
 1060. Special allocation rules for certain asset acquisitions.
 
-1061. Cross references.
+1061. Partnership interests held in connection with performance of services.
+
+1062. Cross references.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13309(b), Dec. 22, 2017, 131 Stat. 2131, added items 1061 and 1062 and struck out former item 1061 "Cross references".
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(78), Dec. 19, 2014, 128 Stat. 4049, struck out item 1051 "Property acquired during affiliation".
 

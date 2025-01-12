@@ -16,13 +16,11 @@ F. Rules for computing work opportunity credit.
 
 G. Credit against regular tax for prior year minimum tax liability. 1
 
-H. Nonrefundable credit to holders of clean renewable energy bonds.
-
-I. Qualified tax credit bonds.
-
-J. Build America bonds.
+[H to J. Repealed.]
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138, struck out items for subparts H "Nonrefundable credit to holders of clean renewable energy bonds", I "Qualified tax credit bonds", and J "Build America bonds".
 
 **2009**—Pub. L. 111–5, div. B, title I, §1531(c)(6), Feb. 17, 2009, 123 Stat. 360, added item for subpart J.
 

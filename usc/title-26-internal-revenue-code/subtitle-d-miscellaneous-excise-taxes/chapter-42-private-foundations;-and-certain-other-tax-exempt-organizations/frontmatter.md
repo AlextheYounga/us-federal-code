@@ -16,7 +16,11 @@ F. Tax shelter transactions 4965
 
 G. Donor advised funds 4966
 
+H. Excise tax based on investment income of private colleges and universities 4968
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13701(b), Dec. 22, 2017, 131 Stat. 2168, added item for subchapter H.
 
 **2006**—Pub. L. 109–280, title XII, §1231(b)(2), Aug. 17, 2006, 120 Stat. 1098, which directed the addition of item for subchapter G to the analysis for chapter 42 without specifying the act to be amended, was executed by adding the item to this analysis, which is for chapter 42 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 

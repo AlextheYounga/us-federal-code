@@ -30,7 +30,13 @@ Sec.
 
 224. Cross reference.
 
+#### Amendment of Analysis ####
+
+Pub. L. 115–97, title I, §11051(a), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended as probable intent by striking item 215. See 2017 Amendment note below.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §11051(a), Dec. 22, 2017, 131 Stat. 2089, which directed amendment of part VII of subchapter B by striking the item relating to section 215 in the table of sections for "such subpart", was executed by striking item 215 "Alimony, etc., payments" in this analysis, which is the analysis for part VII of subchapter B of chapter 1, to reflect the probable intent of Congress.
 
 **2003**—Pub. L. 108–173, title XII, §1201(j), Dec. 8, 2003, 117 Stat. 2479, added items 223 and 224 and struck out former item 223 "Cross reference".
 

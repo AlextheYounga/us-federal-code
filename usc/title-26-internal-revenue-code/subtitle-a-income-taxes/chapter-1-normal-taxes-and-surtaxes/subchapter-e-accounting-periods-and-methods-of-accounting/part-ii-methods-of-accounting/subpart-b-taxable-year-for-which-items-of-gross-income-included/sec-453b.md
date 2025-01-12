@@ -34,7 +34,21 @@ Paragraph (1) shall not apply to any transfer or deemed transfer of an installme
 
 (A) by returning the income on such installment obligation under the installment method prescribed in section 453, and
 
-(B) as if such income were an item attributable to a noninsurance business (as defined in section 806(b)(3)).
+(B) as if such income were an item attributable to a noninsurance business.
+
+#### (3) Noninsurance business ####
+
+#### (A) In general ####
+
+For purposes of this subsection, the term "noninsurance business" means any activity which is not an insurance business.
+
+#### (B) Certain activities treated as insurance businesses ####
+
+For purposes of subparagraph (A), any activity which is not an insurance business shall be treated as an insurance business if—
+
+(i) it is of a type traditionally carried on by life insurance companies for investment purposes, but only if the carrying on of such activity (other than in the case of real estate) does not constitute the active conduct of a trade or business, or
+
+(ii) it involves the performance of administrative services in connection with plans providing life insurance, pension, or accident and health benefits.
 
 #### (f) Obligation becomes unenforceable ####
 
@@ -62,13 +76,17 @@ If—
 
 then, except for purposes of any tax imposed by subchapter S, no gain or loss with respect to the distribution of the obligation shall be recognized by the distributing corporation. Under regulations prescribed by the Secretary, the character of the gain or loss to the shareholder shall be determined in accordance with the principles of section 1366(b).
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2252; amended Pub. L. 96–471, §2(c)(3), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–448, title III, §302, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §43(c)(2), title II, §211(b)(6), title IV, §§421(b)(3), 492(b)(3), July 18, 1984, 98 Stat. 558, 754, 794, 854; Pub. L. 99–514, title VI, §631(e)(9), title X, §1011(b)(1), title XVIII, §1842(c), Oct. 22, 1986, 100 Stat. 2274, 2389, 2853; Pub. L. 100–647, title I, §1006(e)(22), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11702(a)(2), Nov. 5, 1990, 104 Stat. 1388–514.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2252; amended Pub. L. 96–471, §2(c)(3), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–448, title III, §302, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §43(c)(2), title II, §211(b)(6), title IV, §§421(b)(3), 492(b)(3), July 18, 1984, 98 Stat. 558, 754, 794, 854; Pub. L. 99–514, title VI, §631(e)(9), title X, §1011(b)(1), title XVIII, §1842(c), Oct. 22, 1986, 100 Stat. 2274, 2389, 2853; Pub. L. 100–647, title I, §1006(e)(22), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11702(a)(2), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 115–97, title I, §13512(b)(1), Dec. 22, 2017, 131 Stat. 2142.)
 
 #### Prior Provisions ####
 
 Provisions similar to those comprising this section were contained in former section 453 of this title.
 
 #### Amendments ####
+
+**2017**—Subsec. (e)(2)(B). Pub. L. 115–97, §13512(b)(1)(A), struck out "(as defined in section 806(b)(3))" before period at end.
+
+Subsec. (e)(3). Pub. L. 115–97, §13512(b)(1)(B), added par. (3).
 
 **1990**—Subsec. (d). Pub. L. 101–508 substituted heading for one which read: "Effect of distribution in liquidations to which section 332 applies" and amended text generally. Prior to amendment, text read as follows: "If—
 
@@ -99,6 +117,10 @@ Subsec. (g). Pub. L. 98–369, §421(b)(3), added subsec. (g).
 **1983**—Subsec. (d)(2). Pub. L. 97–448 substituted "under subsection (a)" for "under paragraph (1)" in second sentence.
 
 **1980**—Subsec. (d). Pub. L. 96–471, §2(c)(3), inserted last sentence providing that in the case of any installment obligation which would have met the requirements of subpars. (A) and (B) of par. (2) but for sections 337(f), gain shall be recognized to such corporation by reason of such distribution only to the extent gain would have been recognized under sections 337(f) if such corporation had sold or exchanged such installment obligation on the date of such distribution.
+
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–97, title I, §13512(c), Dec. 22, 2017, 131 Stat. 2143, provided that: "The amendments made by this section [amending this section, sections 465, 801, 804, 805, 842, and 953 of this title and repealing section 806 of this title] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 1990 Amendment ####
 

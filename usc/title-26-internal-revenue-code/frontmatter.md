@@ -3972,7 +3972,7 @@ K. Group health plan requirements.
 
 #### Table of Contents ####
 
-This Table of Contents is inserted for convenience of users and was not enacted as part of the Internal Revenue Code of 1986.
+This Table of Contents is inserted for the convenience of users and was not enacted as part of the Internal Revenue Code of 1986.
 
 Subtitle A—Income Taxes
 ----------

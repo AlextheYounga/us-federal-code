@@ -54,7 +54,7 @@ The Secretary may prescribe regulations—
 
 (1) to provide for the treatment of market value adjustments under sections 72, 7702, 7702A, and 807(e)(1)(B),
 
-(2) to determine the interest rates applicable under sections 807(c)(3), 807(d)(2)(B), and 812 with respect to a modified guaranteed contract annually, in a manner appropriate for modified guaranteed contracts and, to the extent appropriate for such a contract, to modify or waive the applicability of section 811(d),
+(2) to determine the interest rates applicable under sections 807(c)(3) and 807(d)(2)(B) with respect to a modified guaranteed contract annually, in a manner appropriate for modified guaranteed contracts and, to the extent appropriate for such a contract, to modify or waive the applicability of section 811(d),
 
 (3) to provide rules to limit ordinary gain or loss treatment to assets constituting reserves for modified guaranteed contracts (and not other assets) of the company,
 
@@ -62,7 +62,15 @@ The Secretary may prescribe regulations—
 
 (5) as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 104–188, title I, §1612(a), Aug. 20, 1996, 110 Stat. 1846.)
+(Added Pub. L. 104–188, title I, §1612(a), Aug. 20, 1996, 110 Stat. 1846; amended Pub. L. 115–97, title I, §13518(b), Dec. 22, 2017, 131 Stat. 2148.)
+
+#### Amendments ####
+
+**2017**—Subsec. (e)(2). Pub. L. 115–97 substituted "and 807(d)(2)(B)" for ", 807(d)(2)(B), and 812".
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13518(c) of Pub. L. 115–97, set out as a note under section 812 of this title.
 
 #### Effective Date ####
 

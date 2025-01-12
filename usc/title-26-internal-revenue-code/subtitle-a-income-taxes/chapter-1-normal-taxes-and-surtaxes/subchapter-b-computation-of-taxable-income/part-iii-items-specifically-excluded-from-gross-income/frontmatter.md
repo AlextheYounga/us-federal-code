@@ -92,9 +92,13 @@ Sec.
 
 139F. Certain amounts received by wrongfully incarcerated individuals.
 
+139G. Assignments to Alaska Native Settlement Trusts.
+
 140. Cross references to other Acts.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–97, title I, §13821(a)(2), Dec. 22, 2017, 131 Stat. 2178, added item 139G.
 
 **2015**—Pub. L. 114–113, div. Q, title III, §304(b), Dec. 18, 2015, 129 Stat. 3088, added item 139F.
 

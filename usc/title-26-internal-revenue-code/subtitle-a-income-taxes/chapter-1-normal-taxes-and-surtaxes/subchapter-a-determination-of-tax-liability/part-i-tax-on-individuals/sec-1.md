@@ -82,7 +82,11 @@ Not later than December 15 of 1993, and each subsequent calendar year, the Secre
 
 The table which under paragraph (1) is to apply in lieu of the table contained in subsection (a), (b), (c), (d), or (e), as the case may be, with respect to taxable years beginning in any calendar year shall be prescribed—
 
-(A) except as provided in paragraph (8), by increasing the minimum and maximum dollar amounts for each rate bracket for which a tax is imposed under such table by the cost-of-living adjustment for such calendar year,
+(A) except as provided in paragraph (8), by increasing the minimum and maximum dollar amounts for each bracket for which a tax is imposed under such table by the cost-of-living adjustment for such calendar year, determined—
+
+(i) except as provided in clause (ii), by substituting "1992" for "2016" in paragraph (3)(A)(ii), and
+
+(ii) in the case of adjustments to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate bracket begins, by substituting "1993" for "2016" in paragraph (3)(A)(ii),
 
 (B) by not changing the rate applicable to any rate bracket as adjusted under subparagraph (A), and
 
@@ -90,11 +94,27 @@ The table which under paragraph (1) is to apply in lieu of the table contained i
 
 #### (3) Cost-of-living adjustment ####
 
-For purposes of paragraph (2), the cost-of-living adjustment for any calendar year is the percentage (if any) by which—
+For purposes of this subsection—
 
-(A) the CPI for the preceding calendar year, exceeds
+#### (A) In general ####
 
-(B) the CPI for the calendar year 1992.
+The cost-of-living adjustment for any calendar year is the percentage (if any) by which—
+
+(i) the C-CPI-U for the preceding calendar year, exceeds
+
+(ii) the CPI for calendar year 2016, multiplied by the amount determined under subparagraph (B).
+
+#### (B) Amount determined ####
+
+The amount determined under this clause is the amount obtained by dividing—
+
+(i) the C-CPI-U for calendar year 2016, by
+
+(ii) the CPI for calendar year 2016.
+
+#### (C) Special rule for adjustments with a base year after 2016 ####
+
+For purposes of any provision of this title which provides for the substitution of a year after 2016 for "2016" in subparagraph (A)(ii), subparagraph (A) shall be applied by substituting "the C-CPI-U for calendar year 2016" for "the CPI for calendar year 2016" and all that follows in clause (ii) thereof.
 
 #### (4) CPI for any calendar year ####
 
@@ -104,7 +124,19 @@ For purposes of paragraph (3), the CPI for any calendar year is the average of t
 
 For purposes of paragraph (4), the term "Consumer Price Index" means the last Consumer Price Index for all-urban consumers published by the Department of Labor. For purposes of the preceding sentence, the revision of the Consumer Price Index which is most consistent with the Consumer Price Index for calendar year 1986 shall be used.
 
-#### (6) Rounding ####
+#### (6) C-CPI-U ####
+
+For purposes of this subsection—
+
+#### (A) In general ####
+
+The term "C-CPI-U" means the Chained Consumer Price Index for All Urban Consumers (as published by the Bureau of Labor Statistics of the Department of Labor). The values of the Chained Consumer Price Index for All Urban Consumers taken into account for purposes of determining the cost-of-living adjustment for any calendar year under this subsection shall be the latest values so published as of the date on which such Bureau publishes the initial value of the Chained Consumer Price Index for All Urban Consumers for the month of August for the preceding calendar year.
+
+#### (B) Determination for calendar year ####
+
+The C-CPI-U for any calendar year is the average of the C-CPI-U as of the close of the 12-month period ending on August 31 of such calendar year.
+
+#### (7) Rounding ####
 
 #### (A) In general ####
 
@@ -113,10 +145,6 @@ If any increase determined under paragraph (2)(A), section 63(c)(4), section 68(
 #### (B) Table for married individuals filing separately ####
 
 In the case of a married individual filing a separate return, subparagraph (A) (other than with respect to sections 63(c)(4) and 151(d)(4)(A)) shall be applied by substituting "$25" for "$50" each place it appears.
-
-#### (7) Special rule for certain brackets ####
-
-In prescribing tables under paragraph (1) which apply to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate bracket begins shall be determined under paragraph (3) by substituting "1993" for "1992".
 
 #### (8) Elimination of marriage penalty in 15-percent bracket ####
 
@@ -446,7 +474,11 @@ A foreign corporation not otherwise treated as a qualified foreign corporation u
 
 #### (iii) Exclusion of dividends of certain foreign corporations ####
 
-Such term shall not include any foreign corporation which for the taxable year of the corporation in which the dividend was paid, or the preceding taxable year, is a passive foreign investment company (as defined in section 1297).
+Such term shall not include—
+
+(I) any foreign corporation which for the taxable year of the corporation in which the dividend was paid, or the preceding taxable year, is a passive foreign investment company (as defined in section 1297), and
+
+(II) any corporation which first becomes a surrogate foreign corporation (as defined in section 7874(a)(2)(B)) after the date of the enactment of this subclause, other than a foreign corporation which is treated as a domestic corporation under section 7874(b).
 
 #### (iv) Coordination with foreign tax credit limitation ####
 
@@ -492,7 +524,7 @@ For purposes of this paragraph, the initial bracket amount is—
 
 In prescribing the tables under subsection (f) which apply with respect to taxable years beginning in calendar years after 2003—
 
-(i) the cost-of-living adjustment shall be determined under subsection (f)(3) by substituting "2002" for "1992" in subparagraph (B) thereof, and
+(i) the cost-of-living adjustment shall be determined under subsection (f)(3) by substituting "2002" for "2016" in subparagraph (A)(ii) thereof, and
 
 (ii) the adjustments under clause (i) shall not apply to the amount referred to in subparagraph (B)(iii).
 
@@ -536,19 +568,246 @@ For purposes of this paragraph, the term "applicable threshold" means—
 
 #### (C) Inflation adjustment ####
 
-For purposes of this paragraph, with respect to taxable years beginning in calendar years after 2013, each of the dollar amounts under clauses (i), (ii), and (iii) of subparagraph (B) shall be adjusted in the same manner as under paragraph (1)(C)(i), except that subsection (f)(3)(B) shall be applied by substituting "2012" for "1992".
+For purposes of this paragraph, with respect to taxable years beginning in calendar years after 2013, each of the dollar amounts under clauses (i), (ii), and (iii) of subparagraph (B) shall be adjusted in the same manner as under paragraph (1)(C)(i), except that subsection (f)(3)(A)(ii) shall be applied by substituting "2012" for "2016".
 
 #### (4) Adjustment of tables ####
 
 The Secretary shall adjust the tables prescribed under subsection (f) to carry out this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) [title I, §117(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364; Pub. L. 110–28, title VIII, §8241(a), (b), May 25, 2007, 121 Stat. 199; Pub. L. 110–185, title I, §101(f)(2), Feb. 13, 2008, 122 Stat. 617; Pub. L. 112–240, title I, §§101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, 126 Stat. 2316, 2318, 2319; Pub. L. 113–295, div. A, title II, §221(a)(1), Dec. 19, 2014, 128 Stat. 4037.)
+#### (j) Modifications for Taxable Years 2018 Through 2025 ####
+
+#### (1) In general ####
+
+In the case of a taxable year beginning after December 31, 2017, and before January 1, 2026—
+
+(A) subsection (i) shall not apply, and
+
+(B) this section (other than subsection (i)) shall be applied as provided in paragraphs (2) through (6).
+
+#### (2) Rate tables ####
+
+#### (A) Married individuals filing joint returns and surviving spouses ####
+
+The following table shall be applied in lieu of the table contained in subsection (a):
+
+|    **"If taxable income is:**     |                **The tax is:**                |
+|-----------------------------------|-----------------------------------------------|
+|         Not over $19,050          |            10% of taxable income.             |
+| Over $19,050 but not over $77,400 | $1,905, plus 12% of the excess over $19,050.  |
+|Over $77,400 but not over $165,000 | $8,907, plus 22% of the excess over $77,400.  |
+|Over $165,000 but not over $315,000|$28,179, plus 24% of the excess over $165,000. |
+|Over $315,000 but not over $400,000|$64,179, plus 32% of the excess over $315,000. |
+|Over $400,000 but not over $600,000|$91,379, plus 35% of the excess over $400,000. |
+|           Over $600,000           |$161,379, plus 37% of the excess over $600,000.|
+
+#### (B) Heads of households ####
+
+The following table shall be applied in lieu of the table contained in subsection (b):
+
+|    **"If taxable income is:**     |                **The tax is:**                |
+|-----------------------------------|-----------------------------------------------|
+|         Not over $13,600          |            10% of taxable income.             |
+| Over $13,600 but not over $51,800 | $1,360, plus 12% of the excess over $13,600.  |
+| Over $51,800 but not over $82,500 | $5,944, plus 22% of the excess over $51,800.  |
+|Over $82,500 but not over $157,500 | $12,698, plus 24% of the excess over $82,500. |
+|Over $157,500 but not over $200,000|$30,698, plus 32% of the excess over $157,500. |
+|Over $200,000 but not over $500,000|$44,298, plus 35% of the excess over $200,000. |
+|           Over $500,000           |$149,298, plus 37% of the excess over $500,000.|
+
+#### (C) Unmarried individuals other than surviving spouses and heads of households ####
+
+The following table shall be applied in lieu of the table contained in subsection (c):
+
+|    **"If taxable income is:**     |                 **The tax is:**                  |
+|-----------------------------------|--------------------------------------------------|
+|          Not over $9,525          |              10% of taxable income.              |
+| Over $9,525 but not over $38,700  |   $952.50, plus 12% of the excess over $9,525.   |
+| Over $38,700 but not over $82,500 | $4,453.50, plus 22% of the excess over $38,700.  |
+|Over $82,500 but not over $157,500 | $14,089.50, plus 24% of the excess over $82,500. |
+|Over $157,500 but not over $200,000|$32,089.50, plus 32% of the excess over $157,500. |
+|Over $200,000 but not over $500,000|$45,689.50, plus 35% of the excess over $200,000. |
+|           Over $500,000           |$150,689.50, plus 37% of the excess over $500,000.|
+
+#### (D) Married individuals filing separate returns ####
+
+The following table shall be applied in lieu of the table contained in subsection (d):
+
+|    **"If taxable income is:**     |                 **The tax is:**                 |
+|-----------------------------------|-------------------------------------------------|
+|          Not over $9,525          |             10% of taxable income.              |
+| Over $9,525 but not over $38,700  |  $952.50, plus 12% of the excess over $9,525.   |
+| Over $38,700 but not over $82,500 | $4,453.50, plus 22% of the excess over $38,700. |
+|Over $82,500 but not over $157,500 |$14,089.50, plus 24% of the excess over $82,500. |
+|Over $157,500 but not over $200,000|$32,089.50, plus 32% of the excess over $157,500.|
+|Over $200,000 but not over $300,000|$45,689.50, plus 35% of the excess over $200,000.|
+|           Over $300,000           |$80,689.50, plus 37% of the excess over $300,000.|
+
+#### (E) Estates and trusts ####
+
+The following table shall be applied in lieu of the table contained in subsection (e):
+
+|   **"If taxable income is:**   |                **The tax is:**                |
+|--------------------------------|-----------------------------------------------|
+|        Not over $2,550         |            10% of taxable income.             |
+|Over $2,550 but not over $9,150 |   $255, plus 24% of the excess over $2,550.   |
+|Over $9,150 but not over $12,500|  $1,839, plus 35% of the excess over $9,150.  |
+|          Over $12,500          |$3,011.50, plus 37% of the excess over $12,500.|
+
+#### (F) References to rate tables ####
+
+Any reference in this title to a rate of tax under subsection (c) shall be treated as a reference to the corresponding rate bracket under subparagraph (C) of this paragraph, except that the reference in section 3402(q)(1) to the third lowest rate of tax applicable under subsection (c) shall be treated as a reference to the fourth lowest rate of tax under subparagraph (C).
+
+#### (3) Adjustments ####
+
+#### (A) No adjustment in 2018 ####
+
+The tables contained in paragraph (2) shall apply without adjustment for taxable years beginning after December 31, 2017, and before January 1, 2019.
+
+#### (B) Subsequent years ####
+
+For taxable years beginning after December 31, 2018, the Secretary shall prescribe tables which shall apply in lieu of the tables contained in paragraph (2) in the same manner as under paragraphs (1) and (2) of subsection (f) (applied without regard to clauses (i) and (ii) of subsection (f)(2)(A)), except that in prescribing such tables—
+
+(i) subsection (f)(3) shall be applied by substituting "calendar year 2017" for "calendar year 2016" in subparagraph (A)(ii) thereof,
+
+(ii) subsection (f)(7)(B) shall apply to any unmarried individual other than a surviving spouse or head of household, and
+
+(iii) subsection (f)(8) shall not apply.
+
+#### (4) Special rules for certain children with unearned income ####
+
+#### (A) In general ####
+
+In the case of a child to whom subsection (g) applies for the taxable year, the rules of subparagraphs (B) and (C) shall apply in lieu of the rule under subsection (g)(1).
+
+#### (B) Modifications to applicable rate brackets ####
+
+In determining the amount of tax imposed by this section for the taxable year on a child described in subparagraph (A), the income tax table otherwise applicable under this subsection to the child shall be applied with the following modifications:
+
+#### (i) 24-percent bracket ####
+
+The maximum taxable income which is taxed at a rate below 24 percent shall not be more than the sum of—
+
+(I) the earned taxable income of such child, plus
+
+(II) the minimum taxable income for the 24-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
+
+#### (ii) 35-percent bracket ####
+
+The maximum taxable income which is taxed at a rate below 35 percent shall not be more than the sum of—
+
+(I) the earned taxable income of such child, plus
+
+(II) the minimum taxable income for the 35-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
+
+#### (iii) 37-percent bracket ####
+
+The maximum taxable income which is taxed at a rate below 37 percent shall not be more than the sum of—
+
+(I) the earned taxable income of such child, plus
+
+(II) the minimum taxable income for the 37-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
+
+#### (C) Coordination with capital gains rates ####
+
+For purposes of applying section 1(h) (after the modifications under paragraph (5)(A))—
+
+(i) the maximum zero rate amount shall not be more than the sum of—
+
+(I) the earned taxable income of such child, plus
+
+(II) the amount in effect under paragraph (5)(B)(i)(IV) for the taxable year, and
+
+(ii) the maximum 15-percent rate amount shall not be more than the sum of—
+
+(I) the earned taxable income of such child, plus
+
+(II) the amount in effect under paragraph (5)(B)(ii)(IV) for the taxable year.
+
+#### (D) Earned taxable income ####
+
+For purposes of this paragraph, the term "earned taxable income" means, with respect to any child for any taxable year, the taxable income of such child reduced (but not below zero) by the net unearned income (as defined in subsection (g)(4)) of such child.
+
+#### (5) Application of current income tax brackets to capital gains brackets ####
+
+#### (A) In general ####
+
+Section 1(h)(1) shall be applied—
+
+(i) by substituting "below the maximum zero rate amount" for "which would (without regard to this paragraph) be taxed at a rate below 25 percent" in subparagraph (B)(i), and
+
+(ii) by substituting "below the maximum 15-percent rate amount" for "which would (without regard to this paragraph) be taxed at a rate below 39.6 percent" in subparagraph (C)(ii)(I).
+
+#### (B) Maximum amounts defined ####
+
+For purposes of applying section 1(h) with the modifications described in subparagraph (A)—
+
+#### (i) Maximum zero rate amount ####
+
+The maximum zero rate amount shall be—
+
+(I) in the case of a joint return or surviving spouse, $77,200,
+
+(II) in the case of an individual who is a head of household (as defined in section 2(b)), $51,700,
+
+(III) in the case of any other individual (other than an estate or trust), an amount equal to ½ of the amount in effect for the taxable year under subclause (I), and
+
+(IV) in the case of an estate or trust, $2,600.
+
+#### (ii) Maximum 15-percent rate amount ####
+
+The maximum 15-percent rate amount shall be—
+
+(I) in the case of a joint return or surviving spouse, $479,000 (½ such amount in the case of a married individual filing a separate return),
+
+(II) in the case of an individual who is the head of a household (as defined in section 2(b)), $452,400,
+
+(III) in the case of any other individual (other than an estate or trust), $425,800, and
+
+(IV) in the case of an estate or trust, $12,700.
+
+#### (C) Inflation adjustment ####
+
+In the case of any taxable year beginning after 2018, each of the dollar amounts in clauses (i) and (ii) of subparagraph (B) shall be increased by an amount equal to—
+
+(i) such dollar amount, multiplied by
+
+(ii) the cost-of-living adjustment determined under subsection (f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2017" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+
+If any increase under this subparagraph is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+
+#### (6) Section 15 not to apply ####
+
+Section 15 shall not apply to any change in a rate of tax by reason of this subsection.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) [title I, §117(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364; Pub. L. 110–28, title VIII, §8241(a), (b), May 25, 2007, 121 Stat. 199; Pub. L. 110–185, title I, §101(f)(2), Feb. 13, 2008, 122 Stat. 617; Pub. L. 112–240, title I, §§101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, 126 Stat. 2316, 2318, 2319; Pub. L. 113–295, div. A, title II, §221(a)(1), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 115–97, title I, §§11001(a), 11002(a)–(c), 14223(a), Dec. 22, 2017, 131 Stat. 2054, 2059, 2220.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
 
+#### References in Text ####
+
+The date of the enactment of this subclause, referred to in subsec. (h)(11)(C)(iii)(II), is the date of enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
+
 #### Amendments ####
+
+**2017**—Subsec. (f)(2)(A). Pub. L. 115–97, §11002(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "except as provided in paragraph (8), by increasing the minimum and maximum dollar amounts for each rate bracket for which a tax is imposed under such table by the cost-of-living adjustment for such calendar year,".
+
+Subsec. (f)(3). Pub. L. 115–97, §11002(a), added par. (3) and struck out former par. (3). Text of former par. (3) read as follows: "For purposes of paragraph (2), the cost-of-living adjustment for any calendar year is the percentage (if any) by which—
+
+"(A) the CPI for the preceding calendar year, exceeds
+
+"(B) the CPI for the calendar year 1992."
+
+Subsec. (f)(6), (7). Pub. L. 115–97, §11002(b), added par. (6), redesignated former par. (6) as (7), and struck out former par. (7). Text of former par. (7) read as follows: "In prescribing tables under paragraph (1) which apply to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate bracket begins shall be determined under paragraph (3) by substituting '1993' for '1992'."
+
+Subsec. (h)(11)(C)(iii). Pub. L. 115–97, §14223(a), substituted "shall not include—(I) any foreign corporation" for "shall not include any foreign corporation " and added subcl. (II).
+
+Subsec. (i)(1)(C)(i). Pub. L. 115–97, §11002(c)(2)(A), substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
+
+Subsec. (i)(3)(C). Pub. L. 115–97, §11002(c)(2)(B), substituted "subsection (f)(3)(A)(ii) shall be applied by substituting '2012' for '2016' " for "subsection (f)(3)(B) shall be applied by substituting '2012' for '1992' ".
+
+Subsec. (j). Pub. L. 115–97, §11001(a), added subsec. (j).
 
 **2014**—Subsec. (f)(7). Pub. L. 113–295 amended par. (7) generally. Prior to amendment, text read as follows:
 
@@ -919,6 +1178,14 @@ Subsec. (e). Pub. L. 91–172 struck out cross reference to section 63. See sect
 **1966**—Subsecs. (d), (e). Pub. L. 89–809 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 **1964**—Pub. L. 88–272 amended section generally by splitting the former first bracket which started at $2,000 into four new brackets, the 14 percent bracket representing a 30 percent reduction, the 15 percent bracket a 25 percent cut, and the 16 percent bracket a 20 percent cut, and reducing all other brackets by cuts averaging about 20 percent and effectuated these cuts in two steps, one in 1964, and one in 1965.
+
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–97, title I, §11001(c), Dec. 22, 2017, 131 Stat. 2059, provided that: "The amendments made by this section [amending this section and section 6695 of this title] shall apply to taxable years beginning after December 31, 2017."
+
+Pub. L. 115–97, title I, §11002(e), Dec. 22, 2017, 131 Stat. 2063, provided that: "The amendments made by this section [amending this section and sections 23, 25A, 25B, 32, 36B, 41, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 151, 162, 179, 213, 219–221, 223, 280F, 408A, 430, 512, 513, 831, 877A, 911, 1274A, 2010, 2032A, 2503, 4161, 4261, 4980I, 5000A, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7872, and 9831 of this title] shall apply to taxable years beginning after December 31, 2017."
+
+Pub. L. 115–97, title I, §14223(b), Dec. 22, 2017, 131 Stat. 2221, provided that: "The amendments made by this section [amending this section] shall apply to dividends received after the date of the enactment of this Act [Dec. 22, 2017]."
 
 #### Effective Date of 2014 Amendment ####
 
@@ -1944,7 +2211,9 @@ Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: "It is the sen
 
 #### Inflation Adjusted Items for Certain Years ####
 
-Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 831, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, and 7702B of this title for certain years were contained in the following:
+Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 831, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+**2018**—Revenue Procedure 2017–58.
 
 **2017**—Revenue Procedure 2016–55.
 
