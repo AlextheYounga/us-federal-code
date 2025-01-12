@@ -87,6 +87,8 @@ Subtitle VI—Other Crime Control and Law Enforcement Matters
 
 607. Project Safe Neighborhoods Block Grant Program 60701
 
+609. Homicide Victims' Families' Rights 60901
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
