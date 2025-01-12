@@ -2,7 +2,7 @@
 
 #### (a) Purchase of materials of domestic origin; processing of materials in domestic facilities ####
 
-Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
+Subject to subsection (c) of this section and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
 
 (1) by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile; and
 
@@ -30,4 +30,8 @@ The authority of the President under subsection (a) of this section includes the
 
 The President shall include in the reports required under section 98h–2(a) of this title information with respect to activities conducted under this section.
 
-(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687.)
+(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687; amended Pub. L. 113–66, div. A, title XIV, §1411(c), Dec. 26, 2013, 127 Stat. 934.)
+
+#### Amendments ####
+
+**2013**—Subsec. (a). Pub. L. 113–66 inserted “and appropriate conservation” after “development” in introductory provisions.

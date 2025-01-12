@@ -557,3 +557,7 @@ Sec.
 2297h–12. AVLIS.
 
 2297h–13. Application of certain laws.
+
+#### Codification ####
+
+The Atomic Energy Act of 1954, which is classified principally to this chapter, is act Aug. 1, 1946, ch. 724. It was originally enacted as the Atomic Energy Act of 1946, act Aug. 1, 1946, ch. 724, 60 Stat. 755, which consisted of sections 1 to 21 and was classified generally to chapter 14 (§1801 et seq.) of this title. The Atomic Energy Act of 1946 was renamed the Atomic Energy Act of 1954 and amended generally by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, and was subsequently transferred to this chapter. Sections that were enacted as part of the 1954 general amendment are shown herein as having been added to act Aug. 1, 1946, and not as amending it, due to the extensive revision and restatement of the 1946 Act's provisions by the 1954 Act. Sections added to the Act after the 1954 general amendment are shown as being added directly to act Aug. 1, 1946, without reference in their source credits to act Aug. 30, 1954.

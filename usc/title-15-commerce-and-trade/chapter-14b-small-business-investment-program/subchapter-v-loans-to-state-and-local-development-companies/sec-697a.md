@@ -46,4 +46,4 @@ Small Business Administration to promulgate final rules and regulations to imple
 
 #### Pilot Program Report ####
 
-Pub. L. 99–272, title XVIII, §18008(b), Apr. 7, 1986, 100 Stat. 367, provided that: “The Administration shall report to the President and the Congress on the conduct of the pilot program established under subsection (a) [enacting this section] not later than 90 days after the date on which the last sale is made pursuant to such subsection in each fiscal year, and unless a report has been made not later than October 1 of 1986 and 1987, the Administration shall make an interim report by such dates.”
+Pub. L. 99–272, title XVIII, §18008(b), Apr. 7, 1986, 100 Stat. 367, required the Small Business Administration to report to the President and Congress on the pilot program under former 15 U.S.C. 697a involving debenture sales to investors not later than 90 days after the date of the last debenture sale in each fiscal year, and unless a report was made by Oct. 1 of 1986 and 1987, the Administration was to make an interim report by such dates.

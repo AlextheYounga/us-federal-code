@@ -8,13 +8,15 @@ Sec.
 
 482. Quarterly reports: personnel and unit readiness.
 
-483. Reports on transfers from high-priority readiness appropriations.
+[483. Repealed.]
 
 484. Quarterly cyber operations briefings.
 
-[485 to 487. Repealed.]
+485. Quarterly counterterrorism operations briefings.
 
-488. Management of electromagnetic spectrum: biennial strategic plan.
+[486, 487. Repealed.]
+
+488. Management of electromagnetic spectrum.
 
 489. Annual report on Department of Defense operation and financial support for military museums.
 
@@ -22,7 +24,9 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title IX, §939(c), title X, §1031(b)(3)(A)(ii), Jan. 2, 2013, 126 Stat. 1888, 1918, added item 484 and struck out items 490a “Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system” and 491 “Nuclear employment strategy of the United States: reports on modification of strategy”.
+**2013**—Pub. L. 113–66, div. A, title X, §§1042(a)(2), 1072(b)(2), 1084(a)(1)(B), Dec. 26, 2013, 127 Stat. 857, 869, 871, added item 485, substituted “Management of electromagnetic spectrum” for “Management of electromagnetic spectrum: biennial strategic plan” in item 488, and struck out item 483 “Reports on transfers from high-priority readiness appropriations”.
+
+Pub. L. 112–239, div. A, title IX, §939(c), title X, §1031(b)(3)(A)(ii), Jan. 2, 2013, 126 Stat. 1888, 1918, added item 484 and struck out items 490a “Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system” and 491 “Nuclear employment strategy of the United States: reports on modification of strategy”.
 
 **2011**—Pub. L. 112–81, div. A, title X, §§1041(c), 1046(b)(2), 1061(6)(B), (7)(B), (8)(B), (9)(B), (10)(B), Dec. 31, 2011, 125 Stat. 1575, 1579, 1583, added items 490a and 491 and struck out items 484 “Annual report on aircraft inventory”, 485 “Joint and service concept development and experimentation”, 486 “Quadrennial report on emerging operational concepts”, 487 “Unit operations tempo and personnel tempo: annual report”, and 490 “Space cadre management: biennial report”.
 

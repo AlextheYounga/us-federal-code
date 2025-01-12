@@ -39,11 +39,13 @@ Chap. Sec.
 
 23. Miscellaneous Studies and Reports 480
 
-24. Nuclear posture 1 491
+24. Nuclear Posture 491
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title X, §1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
+**2013**—Pub. L. 113–66, div. A, title X, §1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
+
+Pub. L. 112–239, div. A, title X, §1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
 
 **2008**—Pub. L. 110–181, div. A, title X, §1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
 
@@ -76,5 +78,3 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 **1981**—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 **1962**—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
-
-[<sup>1</sup> So in original. Probably should be capitalized.](#PARTI_1)

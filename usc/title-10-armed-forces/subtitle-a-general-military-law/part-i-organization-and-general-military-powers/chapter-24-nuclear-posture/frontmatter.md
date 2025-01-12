@@ -16,8 +16,12 @@ Sec.
 
 497. Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe.
 
+497a. Notification required for reduction or consolidation of dual-capable aircraft based in Europe.
+
 498. Unilateral change in nuclear weapons stockpile of the United States.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title X, §§1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 1035(b), 1036(b), 1037(b)(2), 1038(b), Jan. 2, 2013, 126 Stat. 1918, 1919, 1921, 1924, 1925, 1927, added chapter heading and items 491 to 498.
+**2013**—Pub. L. 113–66, div. A, title X, §1051(b)(2), Dec. 26, 2013, 127 Stat. 859, added item 497a.
+
+Pub. L. 112–239, div. A, title X, §§1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 1035(b), 1036(b), 1037(b)(2), 1038(b), Jan. 2, 2013, 126 Stat. 1918, 1919, 1921, 1924, 1925, 1927, added chapter heading and items 491 to 498.

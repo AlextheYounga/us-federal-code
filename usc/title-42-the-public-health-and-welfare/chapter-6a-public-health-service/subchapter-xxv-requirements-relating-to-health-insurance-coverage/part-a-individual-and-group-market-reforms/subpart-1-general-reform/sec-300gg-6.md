@@ -18,10 +18,6 @@ This section shall not apply to a plan described in section 18031(d)(2)(B)(ii) 
 
 (July 1, 1944, ch. 373, title XXVII, §2707, as added Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 161.)
 
-#### Enactment of Section ####
-
-For delayed effective date of section, see Effective Date note below.
-
 #### References in Text ####
 
 Section 18022(c) of this title, referred to in subsec. (b), was in the original “section 1302(c)”, and was translated as meaning section 1302(c) of Pub. L. 111–148, pars. (1) and (2) of which relate to annual limitations on cost-sharing and deductibles, to reflect the probable intent of Congress.

@@ -102,10 +102,6 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Regulations prescribed by the Secretary of Health, Education, and Welfare [now Health and Human Services] concerning savings deposit benefits for Public Health Service personnel to be prescribed jointly with regulations prescribed by the Secretaries concerned under section 1035 of Title 10, Armed Forces, see section 3(c) of Pub. L. 89–538, set out as a note under section 1035 of Title 10.
 
-#### Back Payments: Validation; Application; Limitations; Accountability of Disbursing Officers; Regulations ####
-
-Transportation and travel allowances to escorts for dependents of members, see sections 4 to 7 of Pub. L. 86–160, set out as a note under section 1036 of Title 10, Armed Forces.
-
 #### Designation of Beneficiary Made Before January 1, 1956 ####
 
 Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of section 4 of Pub. L. 85–861, which amended this section, see section 31 of Pub. L. 85–861, set out as a note under section 2771 of Title 10, Armed Forces.

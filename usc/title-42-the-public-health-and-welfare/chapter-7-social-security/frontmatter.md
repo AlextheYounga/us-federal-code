@@ -1074,7 +1074,7 @@ Sec.
 
 1396e. Enrollment of individuals under group health plans.
 
-1396e–1. Premium assistance option for children.
+1396e–1. Premium assistance.
 
 1396f. Observance of religious beliefs.
 

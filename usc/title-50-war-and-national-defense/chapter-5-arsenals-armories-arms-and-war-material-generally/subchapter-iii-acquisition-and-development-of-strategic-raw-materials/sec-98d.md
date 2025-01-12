@@ -8,13 +8,17 @@
 
 #### (b) Disposal ####
 
-Except for disposals made under the authority of paragraph (3), (4), or (5) of section 98e(a) of this title or under section 98f(a) of this title, no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
+Except for disposals made under the authority of paragraph (3), (4), or (5) <sup><a href="#98d_1_target" name="98d_1">1</a></sup> of section 98e(a) of this title or under section 98f(a) of this title, no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
 
 #### (c) Authorization of appropriations ####
 
 There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts.
 
 (June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat. 381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962.)
+
+#### References in Text ####
+
+Paragraph (5) of section 98e(a) of this title, referred to in subsec. (b), was redesignated paragraph (6) of section 98e(a) of this title by Pub. L. 113–66, div. A, title XIV, §1411(a), Dec. 26, 2013, 127 Stat. 934.
 
 #### Prior Provisions ####
 
@@ -59,6 +63,8 @@ Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by P
 #### Materials in the National Defense Stockpile ####
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
+
+Pub. L. 113–66, div. A, title XIV, §1412, Dec. 26, 2013, 127 Stat. 934.
 
 Pub. L. 110–181, div. A, title XIV, §§1413, 1414, Jan. 28, 2008, 122 Stat. 418, 419.
 
@@ -133,3 +139,5 @@ Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Fac
 #### Disposal of Government-Owned Tin Smelter at Texas City, Texas; Cancellation of Obligations ####
 
 Cancellation of obligation of General Services Administration to Federal Facilities Corporation existing by virtue of section 5(b) of act June 22, 1956, set out as a note above, see section 4(b) of Pub. L. 87–190, Aug. 30, 1961, 75 Stat. 418, set out as a note under sections 1921 to 1929 of the Appendix to this title.
+
+[<sup>1</sup> See References in Text note below.](#98d_1)

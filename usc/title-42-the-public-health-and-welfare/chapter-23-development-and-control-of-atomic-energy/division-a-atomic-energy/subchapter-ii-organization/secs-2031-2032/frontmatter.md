@@ -2,11 +2,13 @@
 
 Section 2031, act Aug. 1, 1946, ch. 724, §21, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 924; amended Aug. 9, 1955, ch. 697, §3, 69 Stat. 630, provided for establishment of Atomic Energy Commission, its composition, Chairman, acting Chairman, quorum, official spokesman, and seal.
 
-Provisions similar to section 2031 were contained in section 1802(a)(1) of this title prior to the general amendment and renumbering of act Aug. 1, 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921.
+Provisions similar to section 2031 were contained in section 1802(a)(1) of this title prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919.
+
+Another prior section 21 of act Aug. 1, 1946, ch. 724, 60 Stat. 775, which provided that act Aug. 1, 1946, could be cited as the Atomic Energy Act of 1946, was set out as a note under section 1801 of this title prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919.
 
 Section 2032, act Aug. 1, 1946, ch. 724, §22, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 924; amended Sept. 4, 1957, Pub. L. 85–287, §1, 71 Stat. 612; Aug. 14, 1964, Pub. L. 88–426, title III, §305(10)(A), 78 Stat. 423, provided for appointment of members of Commission, terms of office, and prohibition from engaging in any other vocation, business, or employment, by the members.
 
-Provisions similar to section 2032 were contained in section 1802(a)(2) of this title prior to the general amendment and renumbering of act Aug. 1, 1946 by act Aug. 30, 1954, ch. 1073, 68 Stat. 921.
+Provisions similar to section 2032 were contained in section 1802(a)(2) of this title prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919.
 
 #### Effective Date of Repeal ####
 

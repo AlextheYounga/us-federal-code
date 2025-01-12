@@ -41,7 +41,7 @@ Chap. Sec.
 
 23. Miscellaneous Studies and Reports 480
 
-24. Nuclear posture 1 491
+24. Nuclear Posture 491
 
 ### **PART II—PERSONNEL** ###
 
@@ -239,7 +239,9 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title X, §1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
+**2013**—Pub. L. 113–66, div. A, title X, §1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
+
+Pub. L. 112–239, div. A, title X, §1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
 
 **2011**—Pub. L. 111–383, div. A, title VIII, §861(b), title X, §1075(b)(1), Jan. 7, 2011, 124 Stat. 4292, 4368, substituted “1030” for “1031” in item for chapter 53 and added item for chapter 149.
 
@@ -348,5 +350,3 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 **1961**—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Serviceman's Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “[No present sections]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
-
-[<sup>1</sup> So in original. Probably should be capitalized.](#PARTIanalysis_1)

@@ -230,10 +230,6 @@ Nothing in this section shall be construed as prohibiting the Secretaries of Lab
 
 (July 1, 1944, ch. 373, title XXVII, §2705, as added and amended Pub. L. 111–148, title I, §1201(3), (4), Mar. 23, 2010, 124 Stat. 154, 156.)
 
-#### Enactment of Section ####
-
-For delayed effective date of section, see Effective Date note below.
-
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -244,7 +240,7 @@ Section 300gg–21(a) of this title, referred to in subsec. (e), was in the orig
 
 #### Codification ####
 
-The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of this section by Pub. L. 111–148, §1201(3), was based on act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890. For text of section 300gg–1 prior to amendment and transfer by Pub. L. 111–148, see Prior Provisions note under section 300gg–1 of this title.
+The text of section 300gg–1 of this title, which was amended and transferred to subsecs. (b) to (f) of this section by Pub. L. 111–148, §1201(3), was based on act July 1, 1944, ch. 373, title XXVII, §2702, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1961; amended Pub. L. 110–233, title I, §102(a)(1)–(3), May 21, 2008, 122 Stat. 888, 890.
 
 #### Prior Provisions ####
 

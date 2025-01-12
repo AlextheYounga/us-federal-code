@@ -11,7 +11,19 @@
 |858a.|58a.|     Sentences: reduction in enlisted grade upon approval.      |
 |858b.|58b.|Sentences: forfeiture of pay and allowances during confinement. |
 
+#### Amendment of Analysis ####
+
+Pub. L. 113–66, div. A, title XVII, §1705(a)(2)(B), (c), Dec. 26, 2013, 127 Stat. 959, 960, provided that, effective 180 days after Dec. 26, 2013, and applicable to offenses specified in section 856(b)(2) of this title committed on or after that date, this analysis is amended by striking the item relating to section 856 and inserting the following new item:
+
+|   Sec.   |Art.|                           |
+|----------|----|---------------------------|
+|*856. Art*|56. |Maximum and minimum limits.|
+
+See 2013 Amendment notes below.
+
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. A, title XVII, §1705(a)(2)(B), Dec. 26, 2013, 127 Stat. 959, substituted “Maximum and minimum limits” for “Maximum limits” in item 856.
 
 **1997**—Pub. L. 105–85, div. A, title V, §581(a)(2), Nov. 18, 1997, 111 Stat. 1760, added item 856a.
 

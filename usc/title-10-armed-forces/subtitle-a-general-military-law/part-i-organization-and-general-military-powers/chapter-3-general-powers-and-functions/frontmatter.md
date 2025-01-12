@@ -52,9 +52,13 @@ Sec.
 
 130d. Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel.
 
-130e. Treatment under Freedom of Information Act of certain critical infrastructure security information. 1
+130e. Treatment under Freedom of Information Act of critical infrastructure security information.
+
+130f. Congressional notification regarding sensitive military operations. 1
 
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. A, title X, §§1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130f and substituted “Treatment under Freedom of Information Act of critical infrastructure security information” for “Treatment under Freedom of Information Act of certain critical infrastructure security information” in item 130e.
 
 **2011**—Pub. L. 112–81, div. A, title VIII, §802(a)(2), title IX, §931(b), title X, §1091(b), Dec. 31, 2011, 125 Stat. 1485, 1543, 1605, added items 129d and 130e and substituted “General policy for total force management” for “General personnel policy” in item 129a.
 

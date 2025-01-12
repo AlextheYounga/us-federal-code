@@ -34,6 +34,10 @@ No provision of this subchapter shall apply to a fur product—
 
 (Aug. 8, 1951, ch. 298, §3, 65 Stat. 176; Pub. L. 111–313, §3, Dec. 18, 2010, 124 Stat. 3326.)
 
+#### References in Text ####
+
+The Federal Trade Commission Act, referred to in text, is defined in section 69 of this title.
+
 #### Amendments ####
 
 **2010**—Subsec. (g). Pub. L. 111–313 added subsec. (g).

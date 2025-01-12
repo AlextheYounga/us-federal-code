@@ -22,7 +22,7 @@ Sec.
 
 [230. Repealed.]
 
-231. Budgeting for construction of naval vessels: annual plan and certification 1
+231. Budgeting for construction of naval vessels: annual plan and certification.
 
 231a. Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification.
 
@@ -34,9 +34,15 @@ Sec.
 
 235. Procurement of contract services: specification of amounts requested in budget.
 
+236. Personal protection equipment procurement: display of budget information.
+
+237. Embedded mental health providers of the reserve components: display of budget information.
+
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title X, §§1076(f)(6), 1081(1)(B), Jan. 2, 2013, 126 Stat. 1952, 1960, transferred item 225 to appear after item 224 and struck out item 232 “United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts”.
+**2013**—Pub. L. 113–66, div. A, title I, §141(b), title VII, §721(b), title X, §1091(a)(4), Dec. 26, 2013, 127 Stat. 697, 799, 875, added items 236 and 237 and inserted a period at end of item 231.
+
+Pub. L. 112–239, div. A, title X, §§1076(f)(6), 1081(1)(B), Jan. 2, 2013, 126 Stat. 1952, 1960, transferred item 225 to appear after item 224 and struck out item 232 “United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts”.
 
 **2011**—Pub. L. 112–81, div. A, title X, §§1011(b), 1061(3)(B), 1064(4)(B)(ii), 1069(c), Dec. 31, 2011, 125 Stat. 1560, 1583, 1587, 1592, struck out item 226 “Scoring of outlays”, added item 228 and struck out former item 228 “Quarterly reports on allocation of funds within operation and maintenance budget subactivities”, added item 231 and struck out former item 231 “Long-range plan for construction of naval vessels”, and amended item 231a generally. Prior to amendment, item 231a read as follows: “Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification”.
 
@@ -71,5 +77,3 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 **1992**—Pub. L. 102–484, div. A, title X, §1002(d)(2), Oct. 23, 1992, 106 Stat. 2481, added items 221 and 222 and redesignated former item 221 as 226.
 
 **1991**—Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, substituted “DEFENSE BUDGET MATTERS” for “REGULAR COMPONENTS” in chapter heading and added item 221.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER9_1)

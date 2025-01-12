@@ -32,13 +32,15 @@
 
 (2) absence of the member for authorized leave, other than leave authorized for a period ending upon the discharge of the member or the release of the member from active duty.
 
-(g) Termination of Authority.—No agreement under this section may be entered into after December 31, 2013.
+(g) Termination of Authority.—No agreement under this section may be entered into after December 31, 2014.
 
-(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, [div. A], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(2), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, [div. A], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(2), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(2), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Amendments ####
 
-**2013**—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (g). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
+
+Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
 **2011**—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 

@@ -18,7 +18,13 @@ Sec.
 
 2277. Report on foreign counter-space programs.
 
+2278. Notification of foreign interference of national security space.
+
+2279. Foreign commercial satellite services.
+
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. A, title IX, §911(b), title XVI, §1602(a)(2), Dec. 26, 2013, 127 Stat. 823, 942, added items 2278 and 2279.
 
 **2013**—Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013, 126 Stat. 1872, 1874, 1876, added items 2275 to 2277.
 

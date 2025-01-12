@@ -34,7 +34,7 @@ Sec.
 
 7305a. Vessels stricken from Naval Vessel Register: contracts for dismantling on net-cost basis.
 
-7306. Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise.
+7306. Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation.
 
 7306a. Vessels stricken from Naval Vessel Register: use for experimental purposes.
 
@@ -63,6 +63,8 @@ Sec.
 7317. Status of Government rights in the designs of vessels, boats, and craft, and components thereof.
 
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. A, title X, §1022(e)(2), Dec. 26, 2013, 127 Stat. 846, substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation.” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise.” in item 7306.
 
 **2011**—Pub. L. 112–81, div. A, title X, §1061(27)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 7296 “Combatant surface vessels: notice before reduction in number; preservation of surge capability”.
 

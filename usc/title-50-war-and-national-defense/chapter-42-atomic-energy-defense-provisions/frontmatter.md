@@ -14,6 +14,8 @@ Sec.
 
 2514. Transferred.
 
+2515. Establishment of Center for Security Technology, Analysis, Response, and Testing.
+
 #### SUBCHAPTER II—NUCLEAR WEAPONS STOCKPILE MATTERS ####
 
 #### Part A—Stockpile Stewardship and Weapons Production ####
@@ -50,7 +52,7 @@ Sec.
 
 2533. Reports on critical difficulties at national security laboratories and nuclear weapons production facilities.
 
-2534. Plan for transformation of National Nuclear Security Administration nuclear security enterprise.
+2534. Repealed.
 
 2535. Replacement project for Chemistry and Metallurgy Research Building, Los Alamos National Laboratory, New Mexico.
 
@@ -66,7 +68,7 @@ Sec.
 
 2542. Tritium recycling.
 
-2543. Tritium production.
+2543. Repealed.
 
 2544. Modernization and consolidation of tritium recycling facilities.
 
@@ -74,21 +76,17 @@ Sec.
 
 #### SUBCHAPTER III—PROLIFERATION MATTERS ####
 
-2561. Repealed.
-
-2562. Nonproliferation initiatives and activities.
+2561, 2562. Repealed.
 
 2563. Annual report on status of Nuclear Materials Protection, Control, and Accounting Program.
 
-2564. Nuclear Cities Initiative.
+2564. Repealed.
 
 2565. Authority to conduct program relating to fissile materials.
 
 2566. Disposition of weapons-usable plutonium at Savannah River Site.
 
 2567. Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina.
-
-2568. Authority to use international nuclear materials protection and cooperation program funds outside the former Soviet Union.
 
 2569. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide.
 
@@ -102,41 +100,37 @@ Sec.
 
 2574. Enhancing nuclear forensics capabilities.
 
-#### SUBCHAPTER IV—ENVIRONMENTAL RESTORATION AND WASTE MANAGEMENT MATTERS ####
+#### SUBCHAPTER IV—DEFENSE ENVIRONMENTAL CLEANUP MATTERS ####
 
-#### Part A—Environmental Restoration and Waste Management ####
+#### Part A—Defense Environmental Cleanup ####
 
-2581. Defense Environmental Restoration and Waste Management Account.
+2581. Defense Environmental Cleanup Account.
 
-2582. Requirement to develop future use plans for environmental management programs.
+2582. Requirement to develop future use plans for defense environmental cleanup.
 
-2582a. Future-years defense environmental management plan.
+2582a. Future-years defense environmental cleanup plan.
 
 2583. Integrated fissile materials management plan.
 
-2584. Baseline environmental management reports.
+2584. Repealed.
 
-2585. Accelerated schedule for environmental restoration and waste management activities.
+2585. Accelerated schedule for defense environmental cleanup activities.
 
-2586. Defense waste cleanup technology program.
+2586. Defense environmental cleanup technology program.
 
-2587. Report on environmental restoration expenditures.
+2587. Report on defense environmental cleanup expenditures.
 
-2588. Public participation in planning for environmental restoration and waste management at defense nuclear facilities.
+2588. Public participation in planning for defense environmental cleanup.
 
 2589. Policy of Department of Energy regarding future defense environmental management matters.
 
 #### Part B—Closure of Facilities ####
 
-2601. Projects to accelerate closure activities at defense nuclear facilities.
+2601. Repealed.
 
 2602. Reports in connection with permanent closures of Department of Energy defense nuclear facilities.
 
-#### Part C—Privatization ####
-
-2611. Defense environmental management privatization projects.
-
-#### Part D—Hanford Reservation, Washington ####
+#### Part C—Hanford Reservation, Washington ####
 
 2621. Safety measures for waste tanks at Hanford Nuclear Reservation.
 
@@ -146,7 +140,9 @@ Sec.
 
 2624. Funding for termination costs of River Protection Project, Richland, Washington.
 
-#### Part E—Savannah River Site, South Carolina ####
+2625. Plan for tank farm waste at Hanford Nuclear Reservation.
+
+#### Part D—Savannah River Site, South Carolina ####
 
 2631. Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site.
 
@@ -154,13 +150,7 @@ Sec.
 
 2633. Continuation of processing, treatment, and disposal of legacy nuclear materials.
 
-2634. Continuation of processing, treatment, and disposition of legacy nuclear materials.
-
-2635. Continuation of processing, treatment, and disposition of legacy nuclear materials.
-
-2636. Continuation of processing, treatment, and disposal of legacy nuclear materials.
-
-2637. Continuation of processing, treatment, and disposal of legacy nuclear materials.
+2634 to 2637. Repealed.
 
 2638. Limitation on use of funds for decommissioning F–canyon facility.
 
@@ -168,7 +158,7 @@ Sec.
 
 #### Part A—Safeguards and Security ####
 
-2651. Prohibition on international inspections of Department of Energy facilities unless protection of restricted data is certified.
+2651. Prohibition on international inspections of Department of Energy facilities unless protection of Restricted Data is certified.
 
 2652. Restrictions on access to national security laboratories by foreign visitors from sensitive countries.
 
@@ -180,9 +170,9 @@ Sec.
 
 2656. Notice to congressional committees of certain security and counterintelligence failures within atomic energy defense programs.
 
-2657. Submittal of annual report on status of security functions at nuclear weapons facilities.
+2657. Annual report and certification on status of security of atomic energy defense facilities.
 
-2658. Report on counterintelligence and security practices at national security laboratories.
+2658. Repealed.
 
 2659. Report on security vulnerabilities of national security laboratory computers.
 
@@ -198,10 +188,6 @@ Sec.
 
 2675. Identification in budget materials of amounts for declassification activities and limitation on expenditures for such activities.
 
-#### Part C—Emergency Response ####
-
-2691. Responsibility for Defense Programs Emergency Response Program.
-
 #### SUBCHAPTER VI—PERSONNEL MATTERS ####
 
 #### Part A—Personnel Management ####
@@ -210,7 +196,7 @@ Sec.
 
 2702. Whistleblower protection program.
 
-2703. Employee incentives for employees at closure project facilities.
+2703. Repealed.
 
 2704. Department of Energy defense nuclear facilities workforce restructuring plan.
 
@@ -262,7 +248,7 @@ Sec.
 
 2749. Availability of funds.
 
-2750. Transfer of defense environmental management funds.
+2750. Transfer of defense environmental cleanup funds.
 
 2751. Transfer of weapons activities funds.
 
@@ -296,6 +282,8 @@ Sec.
 
 2785. Publication of contractor performance evaluations leading to award fees.
 
+2786. Enhanced procurement authority to manage supply chain risk.
+
 #### Part B—Research and Development ####
 
 2791. Laboratory-directed research and development programs.
@@ -304,7 +292,7 @@ Sec.
 
 2792. Limitations on use of funds for laboratory directed research and development purposes.
 
-2793. Limitation on use of funds for certain research and development purposes.
+2793. Report on use of funds for certain research and development purposes.
 
 2794. Critical technology partnerships and cooperative research and development centers.
 
@@ -314,7 +302,7 @@ Sec.
 
 2811. Transfers of real property at certain Department of Energy facilities.
 
-2812. Engineering and manufacturing research, development, and demonstration by plant managers of certain nuclear weapons production plants.
+2812. Engineering and manufacturing research, development, and demonstration by managers of certain nuclear weapons production facilities.
 
 2813. Pilot program relating to use of proceeds of disposal or utilization of certain Department of Energy assets.
 

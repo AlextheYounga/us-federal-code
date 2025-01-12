@@ -68,13 +68,13 @@ Sec.
 
 #### SUBCHAPTER IV—ARMY, NAVY, AIR FORCE, AND COAST GUARD MEDAL OF HONOR ROLL ####
 
-1560. Medal of Honor Roll; persons eligible.
-
-1561. Certificate.
+[1560, 1561. Repealed.]
 
 1562. Special provisions relating to pension.
 
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. A, title V, §563(c)(2), Dec. 26, 2013, 127 Stat. 768, struck out items 1560 “Medal of Honor Roll; persons eligible” and 1561 “Certificate”.
 
 **2001**—Pub. L. 107–103, title II, §207(a)(2), Dec. 27, 2001, 115 Stat. 991, added item 1513.
 

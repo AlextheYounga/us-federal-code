@@ -680,21 +680,23 @@ Pub. L. 95–223, title I, §101(b), (c), Dec. 28, 1977, 91 Stat. 1625, provided
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act ####
 
-Determination of President of the United States, No. 2012–14, Sept. 10, 2012, 77 F.R. 56753, provided:
+Determination of President of the United States, No. 2013–13, Sept. 12, 2013, 78 F.R. 57225, provided:
 
 Memorandum for the Secretary of State [and] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. App. 5(b) note), and a previous determination on September 13, 2011 (76 FR 57623, September 15, 2011), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to terminate on September 14, 2012.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. App. 5(b) note) and a previous determination on September 10, 2012 (77 FR 56753, September 13, 2012), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to terminate on September 14, 2013.
 
 I hereby determine that the continuation for 1 year of the exercise of those authorities with respect to Cuba is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2013, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2014, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 CFR Part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 Barack Obama.
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2012–14, Sept. 10, 2012, 77 F.R. 56753.
 
 Determination of President of the United States, No. 2011–15, Sept. 13, 2011, 76 F.R. 57623.
 
@@ -17964,7 +17966,9 @@ Term of the President's Export Council extended until Sept. 30, 2009, by Ex. Ord
 
 Term of the President's Export Council extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Export Council extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Export Council extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Export Council extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13558. Export Enforcement Coordination Center ####
 
@@ -19044,29 +19048,7 @@ Pub. L. 105–85, div. A, title XII, subtitle B, Nov. 18, 1997, 111 Stat. 1932, 
 
 #### Reports on Advanced Supercomputer Sales to Certain Foreign Nations ####
 
-Pub. L. 105–85, div. C, title XXXI, §3157, Nov. 18, 1997, 111 Stat. 2045, as amended by Pub. L. 106–398, §1 [div. C, title XXXI, §3134], Oct. 30, 2000, 114 Stat. 1654, 1654A–456, provided that:
-
-“(a) Reports.—The Secretary of Energy shall require that any company that is a participant in the Accelerated Strategic Computing Initiative (ASCI) program of the Department of Energy report to the Secretary and to the Secretary of Defense each sale by that company to a country designated as a Tier III country of a computer capable of operating at a speed in excess of 2,000 millions theoretical operations per second (MTOPS). The report shall include a description of the following with respect to each such sale:
-
-“(1) The anticipated end-use of the computer sold.
-
-“(2) The software included with the computer.
-
-“(3) Any arrangement under the terms of the sale regarding—
-
-“(A) upgrading the computer;
-
-“(B) servicing the computer; or
-
-“(C) furnishing spare parts for the computer.
-
-“(b) Covered Countries.—For purposes of this section, the countries designated as Tier III countries are the countries listed as ‘computer tier 3’ eligible countries in part 740.7 of title 15 of the Code of Federal Regulations, as in effect on June 10, 1997 (or any successor list).
-
-“(c) Quarterly Submission of Reports.—The Secretary of Energy shall require that reports under subsection (a) be submitted quarterly.
-
-“(d) Annual Report.—The Secretary of Energy shall submit to Congress an annual report containing all information received under subsection (a) during the preceding year. The first annual report shall be submitted not later than July 1, 1998.
-
-“(e) Adjustment of Performance Levels.—Whenever a new composite theoretical performance level is established under section 1211(d) [Pub. L. 105–85, set out as a note above], that level shall apply for the purposes of subsection (a) of this section in lieu of the level set forth in subsection (a).”
+Pub. L. 105–85, div. C, title XXXI, §3157, Nov. 18, 1997, 111 Stat. 2045, as amended by Pub. L. 106–398, §1 [div. C, title XXXI, §3134], Oct. 30, 2000, 114 Stat. 1654, 1654A–456, which related to reports on advanced supercomputer sales to certain foreign nations, was repealed by Pub. L. 113–66, div. C, title XXXI, §3132(b), Dec. 26, 2013, 127 Stat. 1068.
 
 #### National Security Implications of United States Export Control Policy ####
 

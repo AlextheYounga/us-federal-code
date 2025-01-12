@@ -14,7 +14,7 @@ Sec.
 
 1035. Deposits of savings.
 
-1036. Escorts for dependents of members: transportation and travel allowances.
+[1036. Repealed.]
 
 1037. Counsel before foreign judicial tribunals and administrative agencies; court costs and bail.
 
@@ -39,6 +39,8 @@ Sec.
 1044c. Advance medical directives of members and dependents: requirement for recognition by States.
 
 1044d. Military testamentary instruments: requirement for recognition by States.
+
+1044e. Special Victims’ Counsel for victims of sex-related offenses.
 
 1045. Voluntary withholding of State income tax from retired or retainer pay.
 
@@ -66,7 +68,7 @@ Sec.
 
 1053. Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement.
 
-1053a. Expenses incurred in connection with leave canceled due to contingency operations: reimbursement.
+[1053a. Repealed.]
 
 1054. Defense of certain suits arising out of legal malpractice.
 
@@ -89,6 +91,8 @@ Sec.
 1060b. Military ID cards: dependents and survivors of retirees.
 
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. A, title VI, §621(a)(2)(B), (c)(2)(B), title XVII, §1716(a)(2), Dec. 26, 2013, 127 Stat. 783, 784, 969, added item 1044e and struck out items 1036 “Escorts for dependents of members: transportation and travel allowances” and 1053a “Expenses incurred in connection with leave canceled due to contingency operations: reimbursement”.
 
 **2011**—Pub. L. 112–81, div. A, title V, §588(b), title IX, §951(a)(2), Dec. 31, 2011, 125 Stat. 1437, 1549, added items 1051c and 1056a.
 
@@ -174,11 +178,11 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 #### Protection of Rights of Conscience of Members of the Armed Forces and Chaplains of Such Members ####
 
-Pub. L. 112–239, div. A, title V, §533, Jan. 2, 2013, 126 Stat. 1727, provided that:
+Pub. L. 112–239, div. A, title V, §533, Jan. 2, 2013, 126 Stat. 1727, as amended by Pub. L. 113–66, div. A, title V, §532(a), Dec. 26, 2013, 127 Stat. 759, provided that:
 
 “(a) Protection of Rights of Conscience.—
 
-“(1) Accommodation.—The Armed Forces shall accommodate the beliefs of a member of the armed forces reflecting the conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such beliefs as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
+“(1) Accommodation.—Unless it could have an adverse impact on military readiness, unit cohesion, and good order and discipline, the Armed Forces shall accommodate individual expressions of belief of a member of the armed forces reflecting the sincerely held conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such expression of belief as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
 
 “(2) Disciplinary or administrative action.—Nothing in paragraph (1) precludes disciplinary or administrative action for conduct that is proscribed by chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), including actions and speech that threaten good order and discipline.
 
@@ -189,6 +193,8 @@ Pub. L. 112–239, div. A, title V, §533, Jan. 2, 2013, 126 Stat. 1727, provide
 “(2) discriminate or take any adverse personnel action against a chaplain, including denial of promotion, schooling, training, or assignment, on the basis of the refusal by the chaplain to comply with a requirement prohibited by paragraph (1).
 
 “(c) Regulations.—The Secretary of Defense shall issue regulations implementing the protections afforded by this section.”
+
+[Pub. L. 113–66, div. A, title V, §532(b), Dec. 26, 2013, 127 Stat. 759, provided that: “Regulations.—Not later than 90 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section [section 533 of Pub. L. 112–239, set out above]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains.”]
 
 #### Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages ####
 
