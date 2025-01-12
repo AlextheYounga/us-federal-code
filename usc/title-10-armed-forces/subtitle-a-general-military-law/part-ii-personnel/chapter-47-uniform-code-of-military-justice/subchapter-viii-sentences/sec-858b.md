@@ -1,6 +1,6 @@
 ### §858b. Art. 58b. Sentences: forfeiture of pay and allowances during confinement ###
 
-(a)(1) A court-martial sentence described in paragraph (2) shall result in the forfeiture of pay, or of pay and allowances, due that member during any period of confinement or parole. The forfeiture pursuant to this section shall take effect on the date determined under section 857(a) of this title (article 57(a)) and may be deferred as provided in that section. The pay and allowances forfeited, in the case of a general court-martial, shall be all pay and allowances due that member during such period and, in the case of a special court-martial, shall be two-thirds of all pay due that member during such period.
+(a)(1) A court-martial sentence described in paragraph (2) shall result in the forfeiture of pay, or of pay and allowances, due that member during any period of confinement or parole. The forfeiture pursuant to this section shall take effect on the date determined under section 857 of this title (article 57) and may be deferred as provided in that section. The pay and allowances forfeited, in the case of a general court-martial, shall be all pay and allowances due that member during such period and, in the case of a special court-martial, shall be two-thirds of all pay due that member during such period.
 
 (2) A sentence covered by this section is any sentence that includes—
 
@@ -8,19 +8,11 @@
 
 (B) confinement for six months or less and a dishonorable or bad-conduct discharge or dismissal.
 
-(b) In a case involving an accused who has dependents, the convening authority or other person acting under section 860 of this title (article 60) may waive any or all of the forfeitures of pay and allowances required by subsection (a) for a period not to exceed six months. Any amount of pay or allowances that, except for a waiver under this subsection, would be forfeited shall be paid, as the convening authority or other person taking action directs, to the dependents of the accused.
+(b) In a case involving an accused who has dependents, the convening authority or other person acting under section 860a or 860b of this title (article 60a or 60b) may waive any or all of the forfeitures of pay and allowances required by subsection (a) for a period not to exceed six months. Any amount of pay or allowances that, except for a waiver under this subsection, would be forfeited shall be paid, as the convening authority or other person taking action directs, to the dependents of the accused.
 
 (c) If the sentence of a member who forfeits pay and allowances under subsection (a) is set aside or disapproved or, as finally approved, does not provide for a punishment referred to in subsection (a)(2), the member shall be paid the pay and allowances which the member would have been paid, except for the forfeiture, for the period during which the forfeiture was in effect.
 
 (Added Pub. L. 104–106, div. A, title XI, §1122(a)(1), Feb. 10, 1996, 110 Stat. 463; amended Pub. L. 104–201, div. A, title X, §1068(a)(1), Sept. 23, 1996, 110 Stat. 2655; Pub. L. 105–85, div. A, title X, §1073(a)(9), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, §531(g), Dec. 12, 2017, 131 Stat. 1385.)
-
-#### Amendment of Subsection (a)(1) ####
-
-Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2923, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (a)(1) of this section is amended by striking "section 857(a) of this title (article 57(a))" and inserting "section 857 of this title (article 57)". See 2016 Amendment note below.
-
-#### Amendment of Subsection (b) ####
-
-Pub. L. 115–91, div. A, title V, §531(g), (p), Dec. 12, 2017, 131 Stat. 1385, 1388, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (b) of this section is amended in the first sentence by striking "section 860 of this title (article 60)" and inserting "section 860a or 860b of this title (article 60a or 60b)". See 2017 Amendment note below.
 
 #### Amendments ####
 

@@ -12,7 +12,7 @@ There are authorized to be appropriated such sums as may be necessary for carryi
 
 #### References in Text ####
 
-The Johnson-O'Malley Act of June 4, 1936, referred to in text, probably means act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended generally by act June 4, 1936, ch. 490, 49 Stat. 1458, which was classified to sections 452 to 457 of this title prior to editorial reclassification as sections 5342 to 5347 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Johnson-O'Malley Act of June 4, 1936, referred to in text, probably means act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended generally by act June 4, 1936, ch. 490, 49 Stat. 1458, which was classified to section 452 et seq. of this title prior to editorial reclassification as section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification ####
 

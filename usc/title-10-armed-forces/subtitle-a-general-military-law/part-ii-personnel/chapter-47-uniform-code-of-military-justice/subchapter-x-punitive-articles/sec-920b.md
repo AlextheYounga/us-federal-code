@@ -34,7 +34,7 @@ is guilty of rape of a child and shall be punished as a court-martial may direct
 
 (h) Definitions.—In this section:
 
-(1) Sexual act and sexual contact.—The terms "sexual act" and "sexual contact" have the meanings given those terms in section 920(g) of this title (article 120(g)).
+(1) Sexual act and sexual contact.—The terms "sexual act" and "sexual contact" have the meanings given those terms in section 920(g) of this title (article 120(g)), except that the term "sexual act" also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
 
 (2) Force.—The term "force" means—
 
@@ -61,10 +61,6 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 (D) any indecent conduct, intentionally done with or in the presence of a child, including via any communication technology, that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
 (Added Pub. L. 112–81, div. A, title V, §541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, §1076(a)(3), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. E, title LX, §5430(c), Dec. 23, 2016, 130 Stat. 2950.)
-
-#### Amendment of Subsection (h)(1) ####
-
-Pub. L. 114–328, div. E, title LX, §5430(c), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2950, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (h)(1) of this section is amended by inserting before the period at the end ", except that the term 'sexual act' also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person". See 2016 Amendment note below. For text of this section after amendment on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
 
 #### Amendments ####
 

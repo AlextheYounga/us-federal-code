@@ -66,7 +66,7 @@ Sec.
 
 #### SUBCHAPTER V—INCENTIVE GRANTS FOR LOCAL DELINQUENCY PREVENTION PROGRAMS ####
 
-5781 to 5784. Transferred or Omitted.
+5781 to 5784. Repealed or Transferred.
 
 #### SUBCHAPTER VI—PUBLIC OUTREACH ####
 

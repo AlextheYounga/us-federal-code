@@ -53,7 +53,7 @@ Chap. Sec.
 
 24. Vessel Bridge-to-Bridge Communication 1201
 
-25. Ports and Waterways Safety Program 1221
+25. Ports and Waterways Safety Program [Repealed or Transferred] 1221
 
 26. Water Pollution Prevention and Control 1251
 
@@ -112,3 +112,5 @@ Chap. Sec.
 52. Water Infrastructure Finance and Innovation 3901
 
 53. Harmful Algal Bloom and Hypoxia Research and Control 4001
+
+54. Commercial Engagement Through Ocean Technology 4101

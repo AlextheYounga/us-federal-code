@@ -1,0 +1,3 @@
+### [§4508. Repealed. Pub. L. 115–282, title VI, §601(c)(1), Dec. 4, 2018, 132 Stat. 4289] ###
+
+Section, added Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1588; amended Pub. L. 101–225, title I, §106, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 102–241, §25, Dec. 19, 1991, 105 Stat. 2217; Pub. L. 104–324, title III, §304(b), Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title III, §331(a), Nov. 25, 2002, 116 Stat. 2105; Pub. L. 108–293, title IV, §418(a), Aug. 9, 2004, 118 Stat. 1049; Pub. L. 109–241, title IX, §901(g), July 11, 2006, 120 Stat. 564; Pub. L. 111–281, title VI, §604(c)(1)–(3), Oct. 15, 2010, 124 Stat. 2964, 2965, established the Commercial Fishing Safety Advisory Committee. See section 15102 of this title.

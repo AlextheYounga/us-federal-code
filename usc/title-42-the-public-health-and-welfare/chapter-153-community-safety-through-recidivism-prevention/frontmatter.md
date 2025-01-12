@@ -26,4 +26,4 @@ Sec.
 
 #### subpart 2—reentry research ####
 
-17551 to 17555. Transferred or Omitted.
+17551 to 17555. Transferred.

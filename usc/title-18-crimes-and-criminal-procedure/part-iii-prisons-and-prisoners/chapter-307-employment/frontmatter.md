@@ -20,7 +20,11 @@ Sec.
 
 4129. Authority to borrow and invest.
 
+4130. Additional markets.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–391, title VI, §605(b), Dec. 21, 2018, 132 Stat. 5242, added item 4130.
 
 **1990**—Pub. L. 101–647, title XXXV, §3599A, Nov. 29, 1990, 104 Stat. 4931, substituted "Fund" for "fund" in item 4126.
 

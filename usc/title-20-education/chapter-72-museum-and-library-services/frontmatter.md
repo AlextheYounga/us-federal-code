@@ -20,7 +20,7 @@ Sec.
 
 9107. Awards and medals.
 
-9108. Policy research, analysis, data collection, and dissemination.
+9108. Policy research, data collection, analysis and modeling, evaluation, and dissemination.
 
 9109. Prohibition on use of funds for construction.
 
@@ -76,7 +76,9 @@ Sec.
 
 9173. Museum services activities.
 
-9174, 9175. Repealed.
+9174. Repealed.
+
+9175. 21st century museum professional program.
 
 9176. Authorization of appropriations.
 

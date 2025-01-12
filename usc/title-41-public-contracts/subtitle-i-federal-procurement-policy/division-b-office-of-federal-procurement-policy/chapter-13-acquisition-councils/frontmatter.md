@@ -17,3 +17,27 @@ Sec.
 1311. Establishment and membership.
 
 1312. Functions.
+
+#### SUBCHAPTER III—FEDERAL ACQUISITION SUPPLY CHAIN SECURITY ####
+
+Sec.
+
+1321. Definitions.
+
+1322. Federal Acquisition Security Council establishment and membership.
+
+1323. Functions and authorities.
+
+1324. Strategic plan.
+
+1325. Annual report.
+
+1326. Requirements for executive agencies.
+
+1327. Judicial review procedures.
+
+1328. Termination.
+
+#### Amendments ####
+
+**2018**—Pub. L. 115–390, title II, §202(b), Dec. 21, 2018, 132 Stat. 5188, added item for subchapter III and items 1321 to 1328.

@@ -4,7 +4,7 @@
 
 (b) The accused has the burden of proving the defense of lack of mental responsibility by clear and convincing evidence.
 
-(c) Whenever lack of mental responsibility of the accused with respect to an offense is properly at issue, the military judge, or the president of a court-martial without a military judge, shall instruct the members of the court as to the defense of lack of mental responsibility under this section and charge them to find the accused—
+(c) Whenever lack of mental responsibility of the accused with respect to an offense is properly at issue, the military judge shall instruct the members of the court as to the defense of lack of mental responsibility under this section and charge them to find the accused—
 
 (1) guilty;
 
@@ -27,10 +27,6 @@
 (2) in the case of a court-martial composed of a military judge only, the military judge determines that the defense of lack of mental responsibility has been established.
 
 (Added Pub. L. 99–661, div. A, title VIII, §802(a)(1), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 114–328, div. E, title LVII, §5233, Dec. 23, 2016, 130 Stat. 2915.)
-
-#### Amendment of Subsection (c) ####
-
-Pub. L. 114–328, div. E, title LVII, §5233, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2915, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (c) is amended by striking ", or the president of a court-martial without a military judge,". See 2016 Amendment note below.
 
 #### Amendments ####
 

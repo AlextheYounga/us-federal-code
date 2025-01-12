@@ -1452,6 +1452,28 @@ Pub. L. 98–89, §2(a)–(f), Aug. 26, 1983, 97 Stat. 598, provided that:
 
 Pub. L. 98–89, §2(j), Aug. 26, 1983, 97 Stat. 599, provided that: "Within 2 years after the date of enactment of this Act [Aug. 26, 1983], the Federal Maritime Commission and the Secretary of Transportation each shall submit to Congress a proposed codification of the laws within their respective jurisdictions related to shipping and maritime matters."
 
+#### Transitional and Savings Provisions ####
+
+Pub. L. 115–282, title IV, §403, Dec. 4, 2018, 132 Stat. 4264, provided that:
+
+"(a) Definitions.—In this section:
+
+"(1) Source provision.—The term 'source provision' means a provision of law that is replaced by a title 46 provision under this title.
+
+"(2) Title 46 provision.—The term 'title 46 provision' means a provision of title 46, United States Code, that is enacted by section 402 [probably means "section 401", which enacted chapter 700 (§70001 et seq.) of this title].
+
+"(b) Cutoff Date.—The title 46 provisions replace certain provisions of law enacted before the date of the enactment of this Act [Dec. 4, 2018]. If a law enacted after that date amends or repeals a source provision, that law is deemed to amend or repeal, as the case may be, the corresponding title 46 provision. If a law enacted after that date is otherwise inconsistent with a title 46 provision or a provision of this title, that law supersedes the title 46 provision or provision of this title to the extent of the inconsistency.
+
+"(c) Original Date of Enactment Unchanged.—For purposes of determining whether one provision of law supersedes another based on enactment later in time, a title 46 provision is deemed to have been enacted on the date of enactment of the source provision that the title 46 provision replaces.
+
+"(d) References to Title 46 Provisions.—A reference to a title 46 provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding source provision.
+
+"(e) References to Source Provisions.—A reference to a source provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding title 46 provision.
+
+"(f) Regulations, Orders, and Other Administrative Actions.—A regulation, order, or other administrative action in effect under a source provision continues in effect under the corresponding title 46 provision.
+
+"(g) Actions Taken and Offenses Committed.—An action taken or an offense committed under a source provision is deemed to have been taken or committed under the corresponding title 46 provision."
+
 #### Repeals and Savings Provisions ####
 
 Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, as amended by Pub. L. 110–181, div. C, title XXXV, §3529(b)(1)(C), Jan. 28, 2008, 122 Stat. 603, repealed specified laws relating to shipping, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Oct. 6, 2006.
@@ -1467,3 +1489,13 @@ Pub. L. 99–509, title V, subtitle B, §5104(b), Oct. 21, 1986, 100 Stat. 1928,
 Pub. L. 98–89, §4(a), Aug. 26, 1983, 97 Stat. 599, provided that: "The repeal of a law by this Act may not be construed as a legislative implication that the provision was or was not in effect before its repeal."
 
 Pub. L. 98–89, §4(b), Aug. 26, 1983, 97 Stat. 599, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 26, 1983, and except as provided by section 2 of Pub. L. 98–89, set out as notes above and notes under sections 3101, 3302, 3715, and 6301 of this title.
+
+#### Rule of Construction ####
+
+Pub. L. 115–282, title IV, §404, Dec. 4, 2018, 132 Stat. 4265, provided that: "This title [see Tables for classification], including the amendments made by this title, is intended only to transfer provisions of the Ports and Waterways Safety Act [Pub. L. 92–340, former 33 U.S.C. 1221 et seq.] to title 46, United States Code, and may not be construed to alter—
+
+"(1) the effect of a provision of the Ports and Waterways Safety Act, including any authority or requirement therein;
+
+"(2) a department or agency interpretation with respect to the Ports and Waterways Safety Act; or
+
+"(3) a judicial interpretation with respect to the Ports and Waterways Safety Act."

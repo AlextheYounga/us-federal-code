@@ -1,4 +1,4 @@
-### §§853 to 859. Repealed, Pub. L. 97–300, title I, §184(a)(1), Oct. 13, 1982, 96 Stat. 1357 ###
+### §§853 to 859. Repealed. Pub. L. 97–300, title I, §184(a)(1), Oct. 13, 1982, 96 Stat. 1357 ###
 
 Section 853, Pub. L. 93–203, title II, §231, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1957, set out the Congressional statement of purpose for transitional employment opportunities for the economically disadvantaged.
 

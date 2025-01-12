@@ -1,38 +1,28 @@
-### §254r. Grants to States for operation of offices of rural health ###
+### §254r. Grants to State Offices of Rural Health ###
 
 #### (a) In general ####
 
-The Secretary, acting through the Director of the Office of Rural Health Policy (established in section 912 of this title), may make grants to States for the purpose of improving health care in rural areas through the operation of State offices of rural health.
+The Secretary, acting through the Director of the Federal Office of Rural Health Policy (established under section 912 of this title), shall make grants to each State Office of Rural Health for the purpose of improving health care in rural areas.
 
 #### (b) Requirement of matching funds ####
 
 #### (1) In general ####
 
-The Secretary may not make a grant under subsection (a) unless the State involved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to—
+Subject to paragraph (2), the Secretary may not make a grant under subsection (a) unless the State office of rural health involved agrees, with respect to the costs to be incurred in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to $3 for each $1 of Federal funds provided in the grant.
 
-(A) for the first fiscal year of payments under the grant, not less than $1 for each $3 of Federal funds provided in the grant;
+#### (2) Waiver or reduction ####
 
-(B) for any second fiscal year of such payments, not less than $1 for each $1 of Federal funds provided in the grant; and
+The Secretary may waive or reduce the non-Federal contribution if the Secretary determines that requiring matching funds would limit the State office of rural health's ability to carry out the purpose described in subsection (a).
 
-(C) for any third fiscal year of such payments, not less than $3 for each $1 of Federal funds provided in the grant.
+#### (3) Determination of amount of non-Federal contribution ####
 
-#### (2) Determination of amount of non-Federal contribution ####
-
-(A) Subject to subparagraph (B), non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
-
-(B) The Secretary may not make a grant under subsection (a) unless the State involved agrees that—
-
-(i) for the first fiscal year of payments under the grant, 100 percent or less of the non-Federal contributions required in paragraph (1) will be provided in the form of in-kind contributions;
-
-(ii) for any second fiscal year of such payments, not more than 50 percent of such non-Federal contributions will be provided in the form of in-kind contributions; and
-
-(iii) for any third fiscal year of such payments, such non-Federal contributions will be provided solely in the form of cash.
+Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 #### (c) Certain required activities ####
 
-The Secretary may not make a grant under subsection (a) unless the State involved agrees that activities carried out by an office operated pursuant to such subsection will include—
+Recipients of a grant under subsection (a) shall use the grant funds for purposes of—
 
-(1) establishing and maintaining within the State a clearinghouse for collecting and disseminating information on—
+(1) maintaining within the State office of rural health a clearinghouse for collecting and disseminating information on—
 
 (A) rural health care issues;
 
@@ -46,51 +36,51 @@ The Secretary may not make a grant under subsection (a) unless the State involve
 
 #### (d) Requirement regarding annual budget for office ####
 
-The Secretary may not make a grant under subsection (a) unless the State involved agrees that, for any fiscal year for which the State receives such a grant, the office operated pursuant to subsection (a) will be provided with an annual budget of not less than $50,000.
+The Secretary may not make a grant under subsection (a) unless the State involved agrees that, for any fiscal year for which the State office of rural health receives such a grant, the office operated pursuant to subsection (a) of this section will be provided with an annual budget of not less than $150,000.
 
 #### (e) Certain uses of funds ####
 
 #### (1) Restrictions ####
 
-The Secretary may not make a grant under subsection (a) unless the State involved agrees that—
+The Secretary may not make a grant under subsection (a) unless the State office of rural health involved agrees that the grant will not be expended—
 
-(A) if research with respect to rural health is conducted pursuant to the grant, not more than 10 percent of the grant will be expended for such research; and
+(A) to provide health care (including providing cash payments regarding such care);
 
-(B) the grant will not be expended—
+(B) to conduct activities for which Federal funds are expended—
 
-(i) to provide health care (including providing cash payments regarding such care);
+(i) within the State to provide technical and other nonfinancial assistance under section 254c(f) of this title;
 
-(ii) to conduct activities for which Federal funds are expended—
+(ii) under a memorandum of agreement entered into with the State office of rural health under section 254c(h) of this title; or
 
-(I) within the State to provide technical and other nonfinancial assistance under subsection (f) of section 254c <sup><a href="#254r_1_target" name="254r_1">1</a></sup> of this title;
+(iii) under a grant under section 254q–1 of this title;
 
-(II) under a memorandum of agreement entered into with the State under subsection (h) of such section; or
+(C) to purchase medical equipment, to purchase ambulances, aircraft, or other vehicles, or to purchase major communications equipment;
 
-(III) under a grant under section 254q–1 of this title;
+(D) to purchase or improve real property; or
 
-(iii) to purchase medical equipment, to purchase ambulances, aircraft, or other vehicles, or to purchase major communications equipment;
-
-(iv) to purchase or improve real property; or
-
-(v) to carry out any activity regarding a certificate of need.
+(E) to carry out any activity regarding a certificate of need.
 
 #### (2) Authorities ####
 
-Activities for which a State may expend a grant under subsection (a) include—
+Activities for which a State office of rural health may expend a grant under subsection (a) include—
 
-(A) paying the costs of establishing an office of rural health for purposes of subsection (a);
+(A) paying the costs of maintaining an office of rural health for purposes of subsection (a);
 
-(B) subject to paragraph (1)(B)(ii)(III), paying the costs of any activity carried out with respect to recruiting and retaining health professionals to serve in rural areas of the State; and
+(B) subject to paragraph (1)(B)(iii), paying the costs of any activity carried out with respect to recruiting and retaining health professionals to serve in rural areas of the State; and
 
 (C) providing grants and contracts to public and nonprofit private entities to carry out activities authorized in this section.
 
+#### (3) Limit on indirect costs ####
+
+The Secretary may impose a limit of no more than 15 percent on indirect costs claimed by the recipient of the grant.
+
 #### (f) Reports ####
 
-The Secretary may not make a grant under subsection (a) unless the State involved agrees—
+The Secretary may not make a grant under subsection (a) unless the State office of rural health involved agrees—
 
-(1) to submit to the Secretary reports containing such information as the Secretary may require regarding activities carried out under this section by the State; and
+(1) to submit to the Secretary reports or performance data containing such information as the Secretary may require regarding activities carried out under this section; and
 
-(2) to submit such a report not later than January 10 of each fiscal year immediately following any fiscal year for which the State has received such a grant.
+(2) to submit such a report or performance data not later than September 30 of each fiscal year immediately following any fiscal year for which the State office of rural health has received such a grant.
 
 #### (g) Requirement of application ####
 
@@ -98,31 +88,19 @@ The Secretary may not make a grant under subsection (a) unless an application fo
 
 #### (h) Noncompliance ####
 
-The Secretary may not make payments under subsection (a) to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
+The Secretary may not make payments under subsection (a) to a State office of rural health for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State office of rural health has complied with each of the agreements made by the State office of rural health under this section.
 
-#### (i) "State" defined ####
-
-For purposes of this section, the term "State" means each of the several States.
-
-#### (j) Authorization of appropriations ####
+#### (i) Authorization of appropriations ####
 
 #### (1) In general ####
 
-For the purpose of making grants under subsection (a), there are authorized to be appropriated $3,000,000 for fiscal year 1991, $4,000,000 for fiscal year 1992, $3,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1998 through 2002.
+For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,500,000 for each of fiscal years 2018 through 2022.
 
 #### (2) Availability ####
 
 Amounts appropriated under paragraph (1) shall remain available until expended.
 
-#### (k) Termination of program ####
-
-No grant may be made under this section after the aggregate amounts appropriated under subsection (j)(1) are equal to $36,000,000.
-
-(July 1, 1944, ch. 373, title III, §338J, as added Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, §301, Nov. 13, 1998, 112 Stat. 3585.)
-
-#### References in Text ####
-
-Section 254c of this title, referred to in subsec. (e)(1)(B)(ii)(I), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+(July 1, 1944, ch. 373, title III, §338J, as added Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, §301, Nov. 13, 1998, 112 Stat. 3585; Pub. L. 115–408, §2, Dec. 31, 2018, 132 Stat. 5384.)
 
 #### Prior Provisions ####
 
@@ -131,6 +109,8 @@ A prior section 254r, act July 1, 1944, ch. 373, title III, §338I, formerly tit
 A prior section 338J of act July 1, 1944, was renumbered section 338K by Pub. L. 101–597 and is classified to section 254s of this title.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–408 amended section generally. Prior to amendment, section related to grants to States for operation of offices of rural health.
 
 **1998**—Subsec. (b)(1). Pub. L. 105–392, §301(1), struck out "in cash" after "contributions" in introductory provisions.
 
@@ -143,5 +123,3 @@ Subsec. (k). Pub. L. 105–392, §301(3), substituted "$36,000,000" for "$10,000
 Pub. L. 102–538, title I, §154, formerly §134, Oct. 27, 1992, 106 Stat. 3541, renumbered §154 by Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379, directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement in the use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
 
 Similar provisions were contained in Pub. L. 101–555, §3, Nov. 15, 1990, 104 Stat. 2760.
-
-[<sup>1</sup> See References in Text note below.](#254r_1)

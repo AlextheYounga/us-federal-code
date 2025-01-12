@@ -60,6 +60,20 @@ Subsec. (b). Pub. L. 110–386, §3(3), added subsec. (b) and struck out former 
 
 Subsec. (c). Pub. L. 107–372, §103(b), added subsec. (c).
 
+#### System for Tracking and Reporting All-Inclusive Cost of Hydrographic Surveys ####
+
+Pub. L. 115–282, title X, §1002, Dec. 4, 2018, 132 Stat. 4365, provided that:
+
+"(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 4, 2018], the Secretary of Commerce shall—
+
+"(1) develop and implement a system to track and report the full cost to the Department of Commerce of hydrographic data collection, including costs relating to vessel acquisition, vessel repair, and administration of contracts to procure data;
+
+"(2) evaluate measures for comparing cost per unit effort in addition to measures of cost per nautical square mile; and
+
+"(3) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on which additional measures for comparing cost per unit effort the Secretary intends to use and the rationale for such use.
+
+"(b) Development of Strategy for Increased Contracting With Nongovernmental Entities for Hydrographic Data Collection.—Not later than 180 days after the date on which the Secretary completes the activities required by subsection (a), the Secretary shall develop a strategy for how the National Oceanic and Atmospheric Administration will increase contracting with nongovernmental entities for hydrographic data collection in a manner that is consistent with the requirements of the Ocean and Coastal Mapping Integration Act ([subtitle B of title XII of] Public Law 111–11; 33 U.S.C. 3501 et seq.)."
+
 #### Hydrographic Survey ####
 
 Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that: "The Secretary [of the Army] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—

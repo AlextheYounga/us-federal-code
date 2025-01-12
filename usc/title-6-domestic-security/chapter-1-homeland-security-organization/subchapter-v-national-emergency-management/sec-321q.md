@@ -2,7 +2,7 @@
 
 #### (a) Program required ####
 
-The Secretary, acting through the Assistant Secretary for Health Affairs, shall carry out a program to coordinate the Department's efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
+The Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall carry out a program to coordinate the Department's efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
 
 #### (b) Program elements ####
 
@@ -26,4 +26,8 @@ The coordination program required by subsection (a) shall include, at a minimum,
 
 Nothing in this section may be construed as altering or superseding the authority of the Secretary of Agriculture or the Secretary of Health and Human Services.
 
-(Pub. L. 107–296, title V, §528, as added Pub. L. 115–43, §2(a), June 30, 2017, 131 Stat. 884.)
+(Pub. L. 107–296, title V, §528, as added Pub. L. 115–43, §2(a), June 30, 2017, 131 Stat. 884; amended Pub. L. 115–387, §2(f)(5), Dec. 21, 2018, 132 Stat. 5168.)
+
+#### Amendments ####
+
+**2018**—Subsec. (a). Pub. L. 115–387 substituted "the Countering Weapons of Mass Destruction Office," for "Health Affairs,".

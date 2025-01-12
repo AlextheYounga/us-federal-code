@@ -12,6 +12,8 @@ Sec.
 
 41105. Concerted action.
 
+41105A. Authority.
+
 41106. Marine terminal operators.
 
 41107. Monetary penalties.
@@ -19,3 +21,7 @@ Sec.
 41108. Additional penalties.
 
 41109. Assessment of penalties.
+
+#### Amendments ####
+
+**2018**—Pub. L. 115–282, title VII, §709(b)(2), Dec. 4, 2018, 132 Stat. 4296, added item 41105A.

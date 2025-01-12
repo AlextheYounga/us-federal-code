@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the "NBIC"), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007.
+The Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the "NBIC"), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007.
 
 #### (b) Primary mission ####
 
@@ -136,7 +136,11 @@ In this section:
 
 (5) The term "Privacy Officer" means the Privacy Officer appointed under section 142 of this title.
 
-(Pub. L. 107–296, title III, §316, as added Pub. L. 110–53, title XI, §1101(a), Aug. 3, 2007, 121 Stat. 375.)
+(Pub. L. 107–296, title III, §316, as added Pub. L. 110–53, title XI, §1101(a), Aug. 3, 2007, 121 Stat. 375; amended Pub. L. 115–387, §2(f)(2), Dec. 21, 2018, 132 Stat. 5168.)
+
+#### Amendments ####
+
+**2018**—Subsec. (a). Pub. L. 115–387 substituted "Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall" for "Secretary shall".
 
 #### Deadline for Implementation ####
 

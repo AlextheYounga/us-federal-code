@@ -60,7 +60,7 @@ Sec.
 
 3955. Termination of residential or motor vehicle leases.
 
-3956. Termination of telephone service contracts.
+3956. Termination of telephone, multichannel video programming, and internet access service contracts.
 
 3957. Protection of life insurance policy.
 

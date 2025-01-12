@@ -1,1 +1,0 @@
-### b. selection for promotion ###

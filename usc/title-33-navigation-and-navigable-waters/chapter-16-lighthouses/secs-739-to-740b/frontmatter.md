@@ -8,7 +8,7 @@ Section 740a, act May 22, 1926, ch. 371, §6, 44 Stat. 626, related to post-lant
 
 Section 740b, acts June 23, 1874, ch. 455, §1, 18 Stat. 220; June 17, 1910, ch. 301, §6, 36 Stat. 538, related to lights and buoys on Mississippi, Ohio, and Missouri Rivers.
 
-Sections covered by section 81 of Title 14, Coast Guard.
+Sections covered by section 541 of Title 14, Coast Guard.
 
 #### Effective Date of Repeal ####
 

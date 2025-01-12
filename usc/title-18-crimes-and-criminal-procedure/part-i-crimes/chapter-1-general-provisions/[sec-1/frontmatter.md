@@ -8,6 +8,14 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2018 Amendment ####
 
+Pub. L. 115–395, §1, Dec. 21, 2018, 132 Stat. 5287, provided that: "This Act [amending sections 2258A to 2258E of this title] may be cited as the 'CyberTipline Modernization Act of 2018'."
+
+Pub. L. 115–392, §1(a), Dec. 21, 2018, 132 Stat. 5250, provided that: "This Act [enacting section 2429 of this title, section 645 of Title 6, Domestic Security, and section 20709a of Title 34, Crime Control and Law Enforcement, amending sections 521, 1583, 1587, 1591, 2423, 2426, 2516, and 3014 of this title, sections 187 and 473 of Title 6, sections 7103, 7105, and 7110 of Title 22, Foreign Relations and Intercourse, section 524 of Title 28, Judiciary and Judicial Procedure, section 9705 of Title 31, Money and Finance, and sections 20304, 20708, 20711, and 41309 of Title 34, and enacting provisions set out as notes under sections 20701 and 20704 of Title 34] may be cited as the 'Abolish Human Trafficking Act of 2017'."
+
+Pub. L. 115–391, §1(a), Dec. 21, 2018, 132 Stat. 5194, provided that: "This Act [see Tables for classification] may be cited as the 'First Step Act of 2018'."
+
+Pub. L. 115–391, title II, §201, Dec. 21, 2018, 132 Stat. 5216, provided that: "This title [enacting section 4050 of this title] may be cited as the 'Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2018'."
+
 Pub. L. 115–299, §1, Dec. 7, 2018, 132 Stat. 4383, provided that: "This Act [enacting sections 2259A and 2259B of this title, amending sections 1593, 2252A, 2256, 2259, 3509, and 3613 of this title and section 20101 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as a note under section 2259 of this title] may be cited as the 'Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018'."
 
 Pub. L. 115–271, title VIII, §8121, Oct. 24, 2018, 132 Stat. 4108, provided that: "This subtitle [subtitle J (§§8121, 8122) of title VIII of Pub. L. 115–271, enacting section 220 of this title] may be cited as the 'Eliminating Kickbacks in Recovery Act of 2018'."

@@ -82,7 +82,7 @@ Sec.
 
 142k. Library of Congress disbursing office; payroll processing functions.
 
-142 l. Disbursing Officer of Library of Congress; disbursements for Office of Compliance; voucher certifications, accountability and relief by Comptroller General.
+142 l. Disbursing Officer of Library of Congress; disbursements for Office of Congressional Workplace Rights; voucher certifications, accountability and relief by Comptroller General.
 
 143. Appropriations for Library Building and Grounds.
 

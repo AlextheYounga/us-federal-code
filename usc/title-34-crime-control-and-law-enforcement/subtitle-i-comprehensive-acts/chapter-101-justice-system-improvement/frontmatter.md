@@ -432,7 +432,7 @@ Sec.
 
 #### SUBCHAPTER XXVIII—MENTAL HEALTH AND DRUG TREATMENT ALTERNATIVES TO INCARCERATION PROGRAMS ####
 
-10581. Mental health and drug treatment alternatives to incarceration programs.
+10581. Repealed.
 
 #### SUBCHAPTER XXIX—GRANTS FOR FAMILY-BASED SUBSTANCE ABUSE TREATMENT ####
 
@@ -445,6 +445,8 @@ Sec.
 10594. Applications.
 
 10595. Reports.
+
+10595a. Authorization of appropriations.
 
 10596. Definitions.
 
@@ -474,7 +476,7 @@ Sec.
 
 10632. State reentry project evaluation.
 
-10633. State, Tribal, and local reentry courts.
+10633. Repealed.
 
 #### SUBCHAPTER XXXII—CRIME FREE RURAL STATE GRANTS ####
 
@@ -508,7 +510,7 @@ Sec.
 
 #### SUBCHAPTER XXXVI—GRANT PROGRAM TO EVALUATE AND IMPROVE EDUCATIONAL METHODS AT PRISONS, JAILS, AND JUVENILE FACILITIES ####
 
-10681. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities.
+10681. Repealed.
 
 #### SUBCHAPTER XXXVII—SEX OFFENDER APPREHENSION GRANTS; JUVENILE SEX OFFENDER TREATMENT GRANTS ####
 
@@ -545,6 +547,10 @@ Sec.
 10725. Eligibility.
 
 10726. Rules and regulations.
+
+#### SUBCHAPTER XL—GRANT PROGRAM TO EVALUATE AND IMPROVE EDUCATIONAL METHODS AT PRISONS, JAILS, AND JUVENILE FACILITIES ####
+
+10741. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities.
 
 #### Codification ####
 

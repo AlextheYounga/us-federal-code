@@ -4,7 +4,7 @@ Section 767, acts Mar. 3, 1915, ch. 81, §7, 38 Stat. 928; June 20, 1918, ch. 10
 
 Section 768, acts Aug. 24, 1912, ch. 355, §8, 37 Stat. 487; Mar. 3, 1915, ch. 81, §7, 38 Stat. 928; June 20, 1918, ch. 103, §7, 40 Stat. 608; June 6, 1939, ch. 185, 53 Stat. 810, related to oaths to expense accounts.
 
-Section 769, act Feb. 25, 1929, ch. 313, §3, 45 Stat. 1262, related to aids to navigation in Panama. See section 81 of Title 14, Coast Guard.
+Section 769, act Feb. 25, 1929, ch. 313, §3, 45 Stat. 1262, related to aids to navigation in Panama. See section 541 of Title 14, Coast Guard.
 
 #### Effective Date of Repeal ####
 

@@ -1,12 +1,8 @@
 ### §876a. Art. 76a. Leave required to be taken pending review of certain court-martial convictions ###
 
-Under regulations prescribed by the Secretary concerned, an accused who has been sentenced by a court-martial may be required to take leave pending completion of action under this subchapter if the sentence, as approved under section 860 of this title (article 60), includes an unsuspended dismissal or an unsuspended dishonorable or bad-conduct discharge. The accused may be required to begin such leave on the date on which the sentence is approved under section 860 of this title (article 60) or at any time after such date, and such leave may be continued until the date on which action under this subchapter is completed or may be terminated at any earlier time.
+Under regulations prescribed by the Secretary concerned, an accused who has been sentenced by a court-martial may be required to take leave pending completion of action under this subchapter if the sentence includes an unsuspended dismissal or an unsuspended dishonorable or bad-conduct discharge. The accused may be required to begin such leave on the date of the entry of judgment under section 860c of this title (article 60c) or at any time after such date, and such leave may be continued until the date on which action under this subchapter is completed or may be terminated at any earlier time.
 
 (Added Pub. L. 97–81, §2(c)(1), Nov. 20, 1981, 95 Stat. 1087; amended Pub. L. 98–209, §5(g), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 114–328, div. E, title LIX, §5338, Dec. 23, 2016, 130 Stat. 2937.)
-
-#### Amendment of Section ####
-
-Pub. L. 114–328, div. E, title LIX, §5338, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2937, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, this section is amended in the first sentence by striking ", as approved under section 860 of this title (article 60)," and in the second sentence by striking "on which the sentence is approved under section 860 of this title (article 60)" and inserting "of the entry of judgment under section 860c of this title (article 60c)". See 2016 Amendment note below.
 
 #### Amendments ####
 

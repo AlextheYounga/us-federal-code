@@ -16,9 +16,15 @@ Sec.
 
 20707. Definitions.
 
-20708. Grants for law enforcement training programs.
+20708. Grants for specialized human trafficking training and technical assistance for service providers.
 
 20709. Combat Human Trafficking Act.
+
+20709a. Holistic training for Federal law enforcement officers and prosecutors.
+
+20709b. Encouraging a victim-centered approach to training of Federal law enforcement personnel.
+
+20709c. Training of tribal law enforcement and prosecutorial personnel.
 
 20710. Education and outreach to trafficking survivors.
 

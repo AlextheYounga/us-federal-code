@@ -304,7 +304,7 @@ Sec.
 
 321d. National Operations Center.
 
-321e. Chief Medical Officer.
+321e. Repealed.
 
 321f. Nuclear incident response.
 
@@ -353,6 +353,8 @@ Sec.
 348. Joint task forces.
 
 349. Office of Strategy, Policy, and Plans.
+
+350. Workforce health and medical support.
 
 #### SUBCHAPTER VIII—COORDINATION WITH NON-FEDERAL ENTITIES; INSPECTOR GENERAL; UNITED STATES SECRET SERVICE; COAST GUARD; GENERAL PROVISIONS ####
 
@@ -644,11 +646,21 @@ Sec.
 
 580. Border interoperability demonstration project.
 
-#### SUBCHAPTER XIV—DOMESTIC NUCLEAR DETECTION OFFICE ####
+#### SUBCHAPTER XIV—COUNTERING WEAPONS OF MASS DESTRUCTION OFFICE ####
 
-591. Domestic Nuclear Detection Office.
+590. Definitions.
 
-592. Mission of Office.
+#### Part A—Countering Weapons of Mass Destruction ####
+
+591. Countering Weapons of Mass Destruction Office.
+
+#### Part B—Mission of the Office ####
+
+591g. Mission of the Office.
+
+591h. Relationship to other Department components and Federal agencies.
+
+592. Responsibilities.
 
 592a. Technology research and development investment strategy for nuclear and radiological detection.
 
@@ -656,11 +668,17 @@ Sec.
 
 594. Testing authority.
 
-595. Relationship to other Department entities and Federal agencies.
+595. Repealed.
 
 596. Contracting and grant making authorities.
 
 596a. Joint annual interagency review of global nuclear detection architecture.
+
+596b. Securing the Cities program.
+
+#### Part C—Chief Medical Officer ####
+
+597. Chief Medical Officer.
 
 #### SUBCHAPTER XV—HOMELAND SECURITY GRANTS ####
 
@@ -719,6 +737,10 @@ Sec.
 643. Certification and report to Congress.
 
 644. Assistance to non-Federal entities.
+
+645. Victim protection training for the Department of Homeland Security.
+
+645a. Human trafficking assessment.
 
 #### SUBCHAPTER XVIII—CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY ####
 

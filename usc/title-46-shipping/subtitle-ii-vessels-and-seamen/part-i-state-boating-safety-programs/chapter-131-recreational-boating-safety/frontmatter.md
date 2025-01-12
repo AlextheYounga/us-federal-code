@@ -20,13 +20,15 @@ Sec.
 
 13109. Consultation, cooperation, and regulation.
 
-13110. National Boating Safety Advisory Council.
+[13110. Repealed.]
 
 #### Historical and Revision Notes ####
 
 This Chapter establishes the recreational boating safety and facility program administered by the Coast Guard. The general purpose is to encourage State participation in boating safety education and enforcement activities.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–282, title VI, §601(c)(4)(A), Dec. 4, 2018, 132 Stat. 4289, struck out item 13110 "National Boating Safety Advisory Council".
 
 **2006**—Pub. L. 109–304, §16(b)(3), Oct. 6, 2006, 120 Stat. 1705, added item 13101 and redesignated former items 13101 to 13106 as 13102 to 13107, respectively.
 

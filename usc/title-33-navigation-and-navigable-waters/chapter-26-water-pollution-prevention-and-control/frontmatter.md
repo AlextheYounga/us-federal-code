@@ -150,7 +150,7 @@ Sec.
 
 1321c. International efforts on enforcement.
 
-1322. Marine sanitation devices.
+1322. Marine sanitation devices; discharges incidental to the normal operation of vessels.
 
 1323. Federal facilities pollution control.
 

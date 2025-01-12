@@ -1,33 +1,13 @@
 ### SUBCHAPTER VIII—SENTENCES ###
 
-|Sec. |Art.|                                                                |
-|-----|----|----------------------------------------------------------------|
-|855. |55. |           Cruel and unusual punishments prohibited.            |
-|856. |56. |                  Maximum and minimum limits.                   |
-|856a.|56a.|Sentence of confinement for life without eligibility for parole.|
-|857. |57. |                  Effective date of sentences.                  |
-|857a.|57a.|                    Deferment of sentences.                     |
-|858. |58. |                   Execution of confinement.                    |
-|858a.|58a.|     Sentences: reduction in enlisted grade upon approval.      |
-|858b.|58b.|Sentences: forfeiture of pay and allowances during confinement. |
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(5), set out below, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.
-
-Pub. L. 115–91, div. A, title V, §531(f)(3), (p), Dec. 12, 2017, 131 Stat. 1385, 1388, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), this analysis is amended by striking the item relating to section 858a (article 58a) and inserting the following new item:
-
-|Sec. |Art.|                                       |
-|-----|----|---------------------------------------|
-|858a.|58a.|Sentences: reduction in enlisted grade.|
-
-Pub. L. 114–328, div. E, title LXIII, §§5541(5), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, this analysis is amended by striking items 856, 856a, and 857a and inserting the following new item:
-
-|Sec.|Art.|           |
-|----|----|-----------|
-|856.|56. |Sentencing.|
-
-See 2016 Amendment note below.
+|Sec. |Art.|                                                               |
+|-----|----|---------------------------------------------------------------|
+|855. |55. |           Cruel and unusual punishments prohibited.           |
+|856. |56. |                          Sentencing.                          |
+|857. |57. |                 Effective date of sentences.                  |
+|858. |58. |                   Execution of confinement.                   |
+|858a.|58a.|            Sentences: reduction in enlisted grade.            |
+|858b.|58b.|Sentences: forfeiture of pay and allowances during confinement.|
 
 #### Amendments ####
 

@@ -20,7 +20,11 @@ Sec.
 
 4049. Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray.
 
+4050. Secure firearms storage.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–391, title II, §202(b), Dec. 21, 2018, 132 Stat. 5217, added item 4050.
 
 **2016**—Pub. L. 114–133, §2(b), Mar. 9, 2016, 130 Stat. 297, added item 4049.
 

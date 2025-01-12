@@ -30,11 +30,13 @@ Sec.
 
 7114. Fees.
 
-7115. Merchant Mariner Medical Advisory Committee.
+[7115. Repealed.]
 
 7116. Examinations for merchant mariner credentials.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–282, title VI, §601(c)(2), Dec. 4, 2018, 132 Stat. 4289, struck out item 7115 "Merchant Mariner Medical Advisory Committee".
 
 **2016**—Pub. L. 114–120, title III, §315(b)(2), Feb. 8, 2016, 130 Stat. 62, added item 7116.
 

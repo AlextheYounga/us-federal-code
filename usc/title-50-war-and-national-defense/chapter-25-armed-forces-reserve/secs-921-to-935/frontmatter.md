@@ -4,7 +4,7 @@ Section 921, act July 9, 1952, ch. 608, pt. II, §201, 66 Stat. 482, stated purp
 
 Section 922, act July 9, 1952, ch. 608, pt. II, §202, 66 Stat. 482, enumerated reserve components. See section 10101 of Title 10, Armed Forces.
 
-Section 923, act July 9, 1952, ch. 608, pt. II, §203, 66 Stat. 483, provided for maximum numerical strength of reserve components. See section 12001 of Title 10, Armed Forces, and section 702 of Title 14, Coast Guard.
+Section 923, act July 9, 1952, ch. 608, pt. II, §203, 66 Stat. 483, provided for maximum numerical strength of reserve components. See section 12001 of Title 10, Armed Forces, and section 3702 of Title 14, Coast Guard.
 
 Section 924, act July 9, 1952, ch. 608, pt. II, §204, 66 Stat. 483, provided for composition of reserve components. See section 10141 of Title 10, Armed Forces.
 
@@ -28,4 +28,4 @@ Section 933, act July 9, 1952, ch. 608, pt. II, §213, 66 Stat. 485, related to 
 
 Section 934, act July 9, 1952, ch. 608, pt. II, §214, 66 Stat. 485, related to training categories for each reserve component. See section 10141(c) of Title 10.
 
-Section 935, act July 9, 1952, ch. 608, pt. II, §215, 66 Stat. 486, provided for officer candidates and for distribution of personnel in various ranks and grades. See sections 12001 and 12209 of Title 10, Armed Forces, and section 702 of Title 14, Coast Guard.
+Section 935, act July 9, 1952, ch. 608, pt. II, §215, 66 Stat. 486, provided for officer candidates and for distribution of personnel in various ranks and grades. See sections 12001 and 12209 of Title 10, Armed Forces, and section 3702 of Title 14, Coast Guard.

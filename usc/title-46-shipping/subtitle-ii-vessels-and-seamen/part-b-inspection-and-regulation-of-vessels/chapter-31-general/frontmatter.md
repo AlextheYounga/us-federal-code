@@ -10,7 +10,11 @@ Sec.
 
 3104. Survival craft.
 
+3105. Electronic charts.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–282, title IV, §402(a)(2), Dec. 4, 2018, 132 Stat. 4264, added item 3105.
 
 **2010**—Pub. L. 111–281, title VI, §609(b), Oct. 15, 2010, 124 Stat. 2968, added item 3104.
 

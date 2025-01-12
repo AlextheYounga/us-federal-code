@@ -85,3 +85,29 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 **1970**—Pub. L. 91–376, §8(c), Aug. 12, 1970, 84 Stat. 790, added item 3111.
 
 **1962**—Pub. L. 87–825, §4(b), Oct. 15, 1962, 76 Stat. 950, added item 3110.
+
+#### Department of Veterans Affairs Notice Relating to Debt Collection Activities ####
+
+Pub. L. 115–407, title V, §504(a)–(c), Dec. 31, 2018, 132 Stat. 5378, provided that:
+
+"(a) Debt Notification Letter Formats.—The Secretary of Veterans Affairs shall collaborate with veterans service organizations to develop a standard format for any letter provided to an individual who the Secretary determines is indebted to the United States by virtue of such individual's participation in a benefits program administered by the Secretary. Such letter shall be written in plain language and shall include a notice of the debt and a clear explanation of—
+
+"(1) why the individual is indebted to the United States by virtue of such person's participation in a benefits program administered by the Secretary; and
+
+"(2) the options available to the individual.
+
+"(b) Delivery of Debt Notices by Standard Mail and Electronic Means.—The Secretary shall develop a method by which individuals may elect to receive notice of debt by electronic means and shall ensure, to the extent practicable, that the letter developed under subsection (a) is delivered—
+
+"(1) by both standard mail and by electronic means to intended recipients who have made such an election; and
+
+"(2) only by standard mail to intended recipients who have not made such an election.
+
+"(c) Notice to Congress.—
+
+"(1) Notices of completion.—Upon completion of the development of the standard letter format required under subsection (a) and upon completion of development of the method by which individuals may elect to receive notice of debt by electronic means under subsection (b), the Secretary shall submit to Congress notice of the completion of the respective development.
+
+"(2) Progress reports.—If the Secretary has not submitted each notice required by paragraph (1) by the date that is 90 days after the date of the enactment of this Act [Dec. 31, 2018], the Secretary shall—
+
+"(A) submit to Congress a report describing the progress of the Secretary toward implementing subsections (a) and (b) and an explanation for why the respective development has not been completed; and
+
+"(B) every 30 days thereafter until all of the notices required by paragraph (1) have been submitted, submit to Congress an update to the report under subparagraph (A) that includes an additional explanation for the failure to complete the respective development."

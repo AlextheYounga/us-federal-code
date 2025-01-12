@@ -12,7 +12,7 @@
 
 (4) Notwithstanding any other provision of law, the death penalty shall not be imposed for an offense under this section.
 
-(b) The provisions referred to in subsection (a) are sections 918, 919(a), 919(b)(2), 920(a), 922, 924, 926, and 928 of this title (articles 118, 119(a), 119(b)(2), 120(a), 122, 124, 126, and 128).
+(b) The provisions referred to in subsection (a) are sections 918, 919(a), 919(b)(2), 920(a), 922, 926, 928, and 928a of this title (articles 118, 119(a), 119(b)(2), 120(a), 122, 126, 128, and 128a).
 
 (c) Nothing in this section shall be construed to permit the prosecution—
 
@@ -25,18 +25,6 @@
 (d) In this section, the term "unborn child" means a child in utero, and the term "child in utero" or "child, who is in utero" means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
 
 (Added Pub. L. 108–212, §3(a), Apr. 1, 2004, 118 Stat. 569; amended Pub. L. 114–328, div. E, title LX, §5401(13)(B), Dec. 23, 2016, 130 Stat. 2939; Pub. L. 115–91, div. A, title X, §1081(c)(1)(N), Dec. 12, 2017, 131 Stat. 1598.)
-
-#### Amendment of Subsection (b) ####
-
-Pub. L. 115–91, div. A, title X, §1081(c)(1)(N), (4), Dec. 12, 2017, 131 Stat. 1598, 1599, provided that, effective immediately after the amendment made by section 5401(13)(B) of Pub. L. 114–328, set out below, takes effect as provided for in section 5542 of that Act, subsection (b) of this section is amended—
-
-(1) by striking "928a, 926, and 928" and inserting "926, 928, and 928a"; and
-
-(2) by striking "128a 126, and 128" and inserting "126, 128, and 128a".
-
-See 2017 Amendment note below. For text of subsection (b) after amendment by Pub. L. 114–328, §5401(13)(B), on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
-
-Pub. L. 114–328, div. E, title LX, §5401(13)(B), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2939, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (b) of this section is amended by substituting "928a," for "924," and "128a" for "124,". See 2016 Amendment note below. For text of this section after amendment on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
 
 #### Amendments ####
 

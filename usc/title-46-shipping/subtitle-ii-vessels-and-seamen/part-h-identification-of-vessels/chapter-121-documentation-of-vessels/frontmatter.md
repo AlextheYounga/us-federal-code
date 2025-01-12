@@ -77,3 +77,7 @@ This chapter was originally enacted by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 
 #### Amendments ####
 
 **2012**—Pub. L. 112–213, title III, §308(b), Dec. 20, 2012, 126 Stat. 1566, added item 12140.
+
+#### Transparency ####
+
+Pub. L. 115–282, title V, §516(a), Dec. 4, 2018, 132 Stat. 4279, provided that: "The Commandant of the Coast Guard shall publish any letter of determination issued by the Coast Guard National Vessel Documentation Center after the date of the enactment of this Act [Dec. 4, 2018] on the National Vessel Documentation Center website not later than 30 days after the date of issuance of such letter of determination."

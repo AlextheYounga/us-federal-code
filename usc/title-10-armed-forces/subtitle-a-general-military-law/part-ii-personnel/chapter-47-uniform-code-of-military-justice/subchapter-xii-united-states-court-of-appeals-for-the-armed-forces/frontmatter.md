@@ -7,20 +7,8 @@
 |943. |143. |    Organization and employees.    |
 |944. |144. |            Procedure.             |
 |945. |145. |Annuities for judges and survivors.|
-|946. |146. |          Code committee.          |
+|946. |146. |  Military Justice Review Panel.   |
 |946a.|146a.|          Annual reports.          |
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(8), set out below in part, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.
-
-Pub. L. 114–328, div. E, title LXIII, §§5541(8), 5542, Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided in part that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, this analysis is amended by striking item 946 and inserting the following new item:
-
-|Sec.|Art.|                              |
-|----|----|------------------------------|
-|946.|146.|Military Justice Review Panel.|
-
-See 2016 Amendment note below.
 
 #### Amendments ####
 

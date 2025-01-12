@@ -10,4 +10,4 @@
 
 2072. Violations of Inland Navigational Rules.
 
-2073. Navigation Safety Advisory Council.
+2073. Repealed.

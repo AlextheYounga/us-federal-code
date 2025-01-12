@@ -4,15 +4,19 @@ Sec.
 
 60501. Purposes; findings.
 
-60502. Definition of Indian Tribe.
+60502. Definitions.
 
 60503. Submission of reports to Congress.
 
 60504. Rule of construction.
 
+60505. Audit and accountability of grantees.
+
+60506. Federal interagency reentry coordination.
+
 #### SUBCHAPTER I—NEW AND INNOVATIVE PROGRAMS TO IMPROVE OFFENDER REENTRY SERVICES ####
 
-60511. Technology careers training demonstration grants.
+60511. Careers training demonstration grants.
 
 #### SUBCHAPTER II—ENHANCED DRUG TREATMENT AND MENTORING GRANT PROGRAMS ####
 
@@ -22,9 +26,9 @@ Sec.
 
 #### Part B—Mentoring ####
 
-60531. Mentoring grants to nonprofit organizations.
+60531. Community-based mentoring and transitional service grants to nonprofit organizations.
 
-60532. Responsible reintegration of offenders.
+60532. Repealed.
 
 60533. Bureau of Prisons policy on mentoring contacts.
 
@@ -44,4 +48,6 @@ Sec.
 
 60553. Addressing the needs of children of incarcerated parents.
 
-60554. Study of effectiveness of depot naltrexone for heroin addiction.
+60554. Repealed.
+
+60555. Authorization of appropriations for research.

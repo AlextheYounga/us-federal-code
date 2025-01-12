@@ -38,6 +38,8 @@ Sec.
 
 727. Reassignment of senior executives.
 
+728. Misuse of Department purchase cards.
+
 #### SUBCHAPTER II—WHISTLEBLOWER COMPLAINTS ####
 
 731. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints.
@@ -54,7 +56,9 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–188, §2(b), June 21, 2018, 132 Stat. 1491, which directed adding item 727 after item 725, was executed by adding item 727 after item 726 to reflect the probable intent of Congress.
+**2018**—Pub. L. 115–407, title V, §501(b), Dec. 31, 2018, 132 Stat. 5376, which directed adding item 728 after item 728, was executed by adding item 728 after item 727 to reflect the probable intent of Congress.
+
+Pub. L. 115–188, §2(b), June 21, 2018, 132 Stat. 1491, which directed adding item 727 after item 725, was executed by adding item 727 after item 726 to reflect the probable intent of Congress.
 
 Pub. L. 115–182, title V, §501(b), June 6, 2018, 132 Stat. 1475, added item 726.
 

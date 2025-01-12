@@ -1,4 +1,4 @@
-### §§1541 to 1548 Repealed. Pub. L. 115–271, title VIII, §8203(b)(5), Oct. 24, 2018, 132 Stat. 4112 ###
+### §§1541 to 1548. Repealed. Pub. L. 115–271, title VIII, §8203(b)(5), Oct. 24, 2018, 132 Stat. 4112 ###
 
 Section 1541, Pub. L. 100–690, title I, §1041, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 231, established Advisory Commission on Drug-Free Communities.
 

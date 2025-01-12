@@ -26,7 +26,11 @@ Sec.
 
 4712. Enhancement of contractor protection from reprisal for disclosure of certain information.
 
+4713. Authorities relating to mitigating supply chain risks in the procurement of covered articles.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–390, title II, §203(b), Dec. 21, 2018, 132 Stat. 5192, added item 4713.
 
 **2016**—Pub. L. 114–261, §1(a)(3)(B), Dec. 14, 2016, 130 Stat. 1362, added item 4712 and struck out former item 4712 "Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information".
 

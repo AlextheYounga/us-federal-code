@@ -1,49 +1,19 @@
-### §906a. Art. 106a. Espionage ###
+### §906a. Art. 106a. Wearing unauthorized insignia, decoration, badge, ribbon, device, or lapel button ###
 
-(a)(1) Any person subject to this chapter who, with intent or reason to believe that it is to be used to the injury of the United States or to the advantage of a foreign nation, communicates, delivers, or transmits, or attempts to communicate, deliver, or transmit, to any entity described in paragraph (2), either directly or indirectly, anything described in paragraph (3) shall be punished as a court-martial may direct, except that if the accused is found guilty of an offense that directly concerns (A) nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large scale attack, (B) war plans, (C) communications intelligence or cryptographic information, or (D) any other major weapons system or major element of defense strategy, the accused shall be punished by death or such other punishment as a court-martial may direct.
+Any person subject to this chapter—
 
-(2) An entity referred to in paragraph (1) is—
+(1) who is not authorized to wear an insignia, decoration, badge, ribbon, device, or lapel button; and
 
-(A) a foreign government;
+(2) who wrongfully wears such insignia, decoration, badge, ribbon, device, or lapel button upon the person's uniform or civilian clothing;
 
-(B) a faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States; or
+shall be punished as a court-martial may direct.
 
-(C) a representative, officer, agent, employee, subject, or citizen of such a government, faction, party, or force.
+(Added Pub. L. 114–328, div. E, title LX, §5418, Dec. 23, 2016, 130 Stat. 2945.)
 
-(3) A thing referred to in paragraph (1) is a document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, note, instrument, appliance, or information relating to the national defense.
+#### Prior Provisions ####
 
-(b)(1) No person may be sentenced by court-martial to suffer death for an offense under this section (article) unless—
+A prior section 906a was renumbered section 903a of this title.
 
-(A) the members of the court-martial unanimously find at least one of the aggravating factors set out in subsection (c); and
+#### Effective Date ####
 
-(B) the members unanimously determine that any extenuating or mitigating circumstances are substantially outweighed by any aggravating circumstances, including the aggravating factors set out in subsection (c).
-
-(2) Findings under this subsection may be based on—
-
-(A) evidence introduced on the issue of guilt or innocence;
-
-(B) evidence introduced during the sentencing proceeding; or
-
-(C) all such evidence.
-
-(3) The accused shall be given broad latitude to present matters in extenuation and mitigation.
-
-(c) A sentence of death may be adjudged by a court-martial for an offense under this section (article) only if the members unanimously find, beyond a reasonable doubt, one or more of the following aggravating factors:
-
-(1) The accused has been convicted of another offense involving espionage or treason for which either a sentence of death or imprisonment for life was authorized by statute.
-
-(2) In the commission of the offense, the accused knowingly created a grave risk of substantial damage to the national security.
-
-(3) In the commission of the offense, the accused knowingly created a grave risk of death to another person.
-
-(4) Any other factor that may be prescribed by the President by regulations under section 836 of this title (article 36).
-
-(Added Pub. L. 99–145, title V, §534(a), Nov. 8, 1985, 99 Stat. 634.)
-
-#### Transfer and Enactment of Section ####
-
-Pub. L. 114–328, div. E, title LX, §§5401(7), 5418, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2938, 2945, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, this section is redesignated and transferred to become section 903a of this title (article 103a), and a new section 906a (article 106a) is enacted. For text of new section 906a after the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
-
-#### Effective Date of 2016 Amendment ####
-
-Transfer of current section and enactment of new section 906a by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
+Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.

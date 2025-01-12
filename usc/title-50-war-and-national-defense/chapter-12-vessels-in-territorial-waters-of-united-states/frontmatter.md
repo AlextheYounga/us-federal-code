@@ -2,17 +2,17 @@
 
 Sec.
 
-191. Regulation of anchorage and movement of vessels during national emergency.
+191. Transferred.
 
 191a. Transfer of Secretary of Transportation's powers to Secretary of Navy when Coast Guard operates as part of Navy.
 
 191b, 191c. Repealed.
 
-192. Seizure and forfeiture of vessel; fine and imprisonment.
+192. Transferred.
 
 193. Repealed.
 
-194. Enforcement provisions.
+194. Transferred.
 
 195. Definitions.
 

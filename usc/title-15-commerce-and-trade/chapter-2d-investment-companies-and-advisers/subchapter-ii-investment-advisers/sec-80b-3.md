@@ -30,7 +30,7 @@ The provisions of subsection (a) shall not apply to—
 
 (ii) a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election; or
 
-(B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission.<sup><a href="#80b-3_1_target" name="80b-3_1">1</a></sup>
+(B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission;
 
 (7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title, who solely advises—
 
@@ -38,7 +38,17 @@ The provisions of subsection (a) shall not apply to—
 
 (B) entities that have received from the Small Business Administration notice to proceed to qualify for a license as a small business investment company under the Small Business Investment Act of 1958, which notice or license has not been revoked; or
 
-(C) applicants that are affiliated with 1 or more licensed small business investment companies described in subparagraph (A) and that have applied for another license under the Small Business Investment Act of 1958, which application remains pending.
+(C) applicants that are affiliated with 1 or more licensed small business investment companies described in subparagraph (A) and that have applied for another license under the Small Business Investment Act of 1958, which application remains pending; or
+
+(8) any investment adviser, other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title, who solely advises—
+
+(A) rural business investment companies (as defined in section 2009cc of title 7); or
+
+(B) companies that have submitted to the Secretary of Agriculture an application in accordance with section 2009cc–3(b) of title 7 that—
+
+(i) have received from the Secretary of Agriculture a letter of conditions, which has not been revoked; or
+
+(ii) are affiliated with 1 or more rural business investment companies described in subparagraph (A).
 
 #### (c) Procedure for registration; filing of application; effective date of registration; amendment of registration ####
 
@@ -86,7 +96,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 (C) involves the larceny, theft, robbery, extortion, forgery, counterfeiting, fraudulent concealment, embezzlement, fraudulent conversion, or misappropriation of funds or securities or substantially equivalent activity however denominated by the laws of the relevant foreign government; or
 
-(D) involves the violation of section 152, 1341, 1342, or 1343 or chapter 25 or 47 of title 18, or a violation of <sup><a href="#80b-3_2_target" name="80b-3_2">2</a></sup> substantially equivalent foreign statute.
+(D) involves the violation of section 152, 1341, 1342, or 1343 or chapter 25 or 47 of title 18, or a violation of <sup><a href="#80b-3_1_target" name="80b-3_1">1</a></sup> substantially equivalent foreign statute.
 
 (3) has been convicted during the 10-year period preceding the date of filing of any application for registration, or at any time thereafter, of—
 
@@ -112,7 +122,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 (B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
 
-(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup><a href="#80b-3_3_target" name="80b-3_3">3</a></sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
+(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup><a href="#80b-3_2_target" name="80b-3_2">2</a></sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
 
 (9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
 
@@ -146,7 +156,7 @@ In any proceeding instituted pursuant to subsection (e) or (f) against any perso
 
 (iii) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein; or
 
-(iv) has failed reasonably to supervise, within the meaning of subsection (e)(6), with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; <sup><a href="#80b-3_4_target" name="80b-3_4">4</a></sup>
+(iv) has failed reasonably to supervise, within the meaning of subsection (e)(6), with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; <sup><a href="#80b-3_3_target" name="80b-3_3">3</a></sup>
 
 #### (B) Cease-and-desist proceedings ####
 
@@ -256,11 +266,15 @@ No investment adviser that acts as an investment adviser solely to 1 or more ven
 
 For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title).
 
+#### (3) Advisers of RBICS ####
+
+For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A) or (B) of subsection (b)(8) (other than an entity that has elected to be regulated as a business development company pursuant to section 80a–53 of this title).
+
 #### (m) Exemption of and reporting by certain private fund advisers ####
 
 #### (1) In general ####
 
-The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of <sup><a href="#80b-3_5_target" name="80b-3_5">5</a></sup> such investment adviser acts solely as an adviser to private funds and has assets under management in the United States of less than $150,000,000.
+The Commission shall provide an exemption from the registration requirements under this section to any investment adviser of private funds, if each of <sup><a href="#80b-3_4_target" name="80b-3_4">4</a></sup> such investment adviser acts solely as an adviser to private funds and has assets under management in the United States of less than $150,000,000.
 
 #### (2) Reporting ####
 
@@ -270,11 +284,15 @@ The Commission shall require investment advisers exempted by reason of this subs
 
 For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title) shall be excluded from the limit set forth in paragraph (1).
 
+#### (4) Advisers of RBICS ####
+
+For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A) or (B) of subsection (b)(8) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title) shall be excluded from the limit set forth in paragraph (1).
+
 #### (n) Registration and examination of mid-sized private fund advisers ####
 
 In prescribing regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.
 
-(Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Pub. L. 86–750, §§2–5, Sept. 13, 1960, 74 Stat. 885, 886; Pub. L. 91–547, §24, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 94–29, §29(1)–(4), June 4, 1975, 89 Stat. 166–169; Pub. L. 96–477, title II, §202, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 99–571, title I, §102(m), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VII, §702, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–429, title IV, §401, Oct. 15, 1990, 104 Stat. 946; Pub. L. 101–550, title II, §205(b), (c), Nov. 15, 1990, 104 Stat. 2719, 2720; Pub. L. 104–62, §5, Dec. 8, 1995, 109 Stat. 685; Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), Oct. 11, 1996, 110 Stat. 3438, 3439, 3448; Pub. L. 105–353, title III, §301(d)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 106–554, §1(a)(5) [title II, §209(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–436; Pub. L. 107–204, title VI, §604(b), (c)(2), July 30, 2002, 116 Stat. 796; Pub. L. 109–291, §4(b)(3)(C), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IV, §§403, 407, 408, title IX, §§925(b), 929P(a)(4), 985(e)(1), July 21, 2010, 124 Stat. 1571, 1574, 1575, 1851, 1864, 1935; Pub. L. 114–94, div. G, title LXXIV, §§74001, 74002, Dec. 4, 2015, 129 Stat. 1786.)
+(Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Pub. L. 86–750, §§2–5, Sept. 13, 1960, 74 Stat. 885, 886; Pub. L. 91–547, §24, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 94–29, §29(1)–(4), June 4, 1975, 89 Stat. 166–169; Pub. L. 96–477, title II, §202, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 99–571, title I, §102(m), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VII, §702, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–429, title IV, §401, Oct. 15, 1990, 104 Stat. 946; Pub. L. 101–550, title II, §205(b), (c), Nov. 15, 1990, 104 Stat. 2719, 2720; Pub. L. 104–62, §5, Dec. 8, 1995, 109 Stat. 685; Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), Oct. 11, 1996, 110 Stat. 3438, 3439, 3448; Pub. L. 105–353, title III, §301(d)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 106–554, §1(a)(5) [title II, §209(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–436; Pub. L. 107–204, title VI, §604(b), (c)(2), July 30, 2002, 116 Stat. 796; Pub. L. 109–291, §4(b)(3)(C), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IV, §§403, 407, 408, title IX, §§925(b), 929P(a)(4), 985(e)(1), July 21, 2010, 124 Stat. 1571, 1574, 1575, 1851, 1864, 1935; Pub. L. 114–94, div. G, title LXXIV, §§74001, 74002, Dec. 4, 2015, 129 Stat. 1786; Pub. L. 115–417, §2, Jan. 3, 2019, 132 Stat. 5438.)
 
 #### References in Text ####
 
@@ -287,6 +305,14 @@ The Securities Act of 1933, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i)
 The Securities Exchange Act of 1934, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments ####
+
+**2019**—Subsec. (b)(6)(B). Pub. L. 115–417, §2(1)(A), realigned margin and substituted semicolon for period at end.
+
+Subsec. (b)(8). Pub. L. 115–417, §2(1)(B), (C), added par. (8).
+
+Subsec. (l)(3). Pub. L. 115–417, §2(2), added par. (3).
+
+Subsec. (m)(4). Pub. L. 115–417, §2(3), added par. (4).
 
 **2015**—Subsec. (l). Pub. L. 114–94, §74001, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -448,12 +474,10 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-[<sup>1</sup> So in original. The period probably should be "; or".](#80b-3_1)
+[<sup>1</sup> So in original. Probably should be "of a".](#80b-3_1)
 
-[<sup>2</sup> So in original. Probably should be "of a".](#80b-3_2)
+[<sup>2</sup> So in original. Probably should be "financial".](#80b-3_2)
 
-[<sup>3</sup> So in original. Probably should be "financial".](#80b-3_3)
+[<sup>3</sup> So in original. The semicolon probably should be a period.](#80b-3_3)
 
-[<sup>4</sup> So in original. The semicolon probably should be a period.](#80b-3_4)
-
-[<sup>5</sup> So in original. The word "of" probably should not appear.](#80b-3_5)
+[<sup>4</sup> So in original. The word "of" probably should not appear.](#80b-3_4)

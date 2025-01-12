@@ -24,6 +24,8 @@ Sec.
 
 7105a. Increasing effectiveness of anti-trafficking programs.
 
+7105b. Improving domestic victim screening procedures.
+
 7106. Minimum standards for the elimination of trafficking.
 
 7107. Actions against governments failing to meet minimum standards.

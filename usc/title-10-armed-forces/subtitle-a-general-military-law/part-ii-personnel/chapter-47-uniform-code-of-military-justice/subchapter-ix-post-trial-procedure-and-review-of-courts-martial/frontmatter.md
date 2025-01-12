@@ -3,20 +3,20 @@
 |Sec. |Art.|                                                                                                      |
 |-----|----|------------------------------------------------------------------------------------------------------|
 |859. |59. |                                Error of law; lesser included offense.                                |
-|860. |60. |                                  Action by the convening authority.                                  |
+|860. |60. |                     Post-trial processing in general and special courts-martial.                     |
 |860a.|60a.|             Limited authority to act on sentence in specified post-trial circumstances.              |
 |860b.|60b.|     Post-trial actions in summary courts-martial and certain general and special courts-martial.     |
 |860c.|60c.|                                          Entry of judgment.                                          |
-|861. |61. |                                   Waiver or withdrawal of appeal.                                    |
+|861. |61. |                           Waiver of right to appeal; withdrawal of appeal.                           |
 |862. |62. |                                     Appeal by the United States.                                     |
 |863. |63. |                                             Rehearings.                                              |
-|864. |64. |                                     Review by a judge advocate.                                      |
-|865. |65. |                                       Disposition of records.                                        |
-|866. |66. |                                 Review by Court of Criminal Appeals.                                 |
+|864. |64. |                 Judge advocate review of finding of guilty in summary court-martial.                 |
+|865. |65. |                                  Transmittal and review of records.                                  |
+|866. |66. |                                     Courts of Criminal Appeals.                                      |
 |867. |67. |                         Review by the Court of Appeals for the Armed Forces.                         |
 |867a.|67a.|                                     Review by the Supreme Court.                                     |
 |868. |68. |                                           Branch offices.                                            |
-|869. |69. |                         Review in the office of the Judge Advocate General.                          |
+|869. |69. |                                  Review by Judge Advocate General.                                   |
 |870. |70. |                                          Appellate counsel.                                          |
 |871. |71. |                            Execution of sentence; suspension of sentence.                            |
 |872. |72. |                                       Vacation of suspension.                                        |
@@ -26,23 +26,6 @@
 |876. |76. |                          Finality of proceedings, findings, and sentences.                           |
 |876a.|76a.|           Leave required to be taken pending review of certain court-martial convictions.            |
 |876b.|76b.|Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment.|
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(6), set out below in part, effective as of Dec. 23, 2016, and as if included therein as enacted. See 2017 Amendment note below.
-
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LXIII, §§5541(6), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided in part that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, this analysis is amended by striking items 860, 61 (probably should be 861), 864 to 866, and 869 and inserting the following new items:
-
-|Sec.|Art.|                                                                    |
-|----|----|--------------------------------------------------------------------|
-|860.|60. |    Post-trial processing in general and special courts-martial.    |
-|861.|61. |          Waiver of right to appeal; withdrawal of appeal.          |
-|864.|64. |Judge advocate review of finding of guilty in summary court-martial.|
-|865.|65. |                 Transmittal and review of records.                 |
-|866.|66. |                    Courts of Criminal Appeals.                     |
-|869.|69. |                 Review by Judge Advocate General.                  |
-
-See 2016 Amendment notes below.
 
 #### Amendments ####
 

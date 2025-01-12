@@ -1,1 +1,0 @@
-### subpart ii—grants for demonstration projects with respect to alzheimer's disease ###

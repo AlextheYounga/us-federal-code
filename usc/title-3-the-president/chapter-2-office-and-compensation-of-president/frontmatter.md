@@ -618,7 +618,7 @@ Ex. Ord. No. 13569, Apr. 5, 2011, 76 F.R. 19891, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. [Amended Ex. Ord. No. 12824, set out as a note under section 492 of Title 14, Coast Guard.]
+Section 1. [Amended Ex. Ord. No. 12824, set out as a note under section 2736 of Title 14, Coast Guard.]
 
 Sec. 2. [Amended Ex. Ord. No. 12835, set out as a note under section 1023 of Title 15, Commerce and Trade.]
 

@@ -186,15 +186,15 @@ In this section:
 
 (III) protection of an active Federal law enforcement investigation, emergency response, or security function, that is limited to a specified timeframe and location; and <sup><a href="#124n_3_target" name="124n_3">3</a></sup>
 
-(iv) missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
+(iv) missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 <sup><a href="#124n_4_target" name="124n_4">4</a></sup> of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
 
-(4) The terms "electronic communication", "intercept", "oral communication", and "wire communication" have the meaning <sup><a href="#124n_4_target" name="124n_4">4</a></sup> given those terms in section 2510 of title 18.
+(4) The terms "electronic communication", "intercept", "oral communication", and "wire communication" have the meaning <sup><a href="#124n_5_target" name="124n_5">5</a></sup> given those terms in section 2510 of title 18.
 
 (5) The term "homeland security or justice budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary and the Attorney General in support of the budget for that fiscal year.
 
 (6) For purposes of subsection (a), the term "personnel" means officers and employees of the Department of Homeland Security or the Department of Justice.
 
-(7) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801, <sup><a href="#124n_5_target" name="124n_5">5</a></sup> of title 49.
+(7) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801, <sup><a href="#124n_6_target" name="124n_6">6</a></sup> of title 49.
 
 (8) For purposes of this section, the term "risk-based assessment" includes an evaluation of threat information specific to a covered facility or asset and, with respect to potential impacts on the safety and efficiency of the national airspace system and the needs of law enforcement and national security at each covered facility or asset identified by the Secretary or the Attorney General, respectively, of each of the following factors:
 
@@ -220,7 +220,7 @@ Not later than 1 year after October 5, 2018, the Secretary shall conduct, in coo
 
 (A) an evaluation of the threat from unmanned aircraft systems to United States critical infrastructure (as defined in this chapter) and to domestic large hub airports (as defined in section 40102 of title 49);
 
-(B) an evaluation of current Federal and <sup><a href="#124n_6_target" name="124n_6">6</a></sup> State, local, territorial, or tribal law enforcement authorities to counter the threat identified in subparagraph (A), and recommendations, if any, for potential changes to existing authorities to allow State, local, territorial, and tribal law enforcement to assist Federal law enforcement to counter the threat where appropriate;
+(B) an evaluation of current Federal and <sup><a href="#124n_7_target" name="124n_7">7</a></sup> State, local, territorial, or tribal law enforcement authorities to counter the threat identified in subparagraph (A), and recommendations, if any, for potential changes to existing authorities to allow State, local, territorial, and tribal law enforcement to assist Federal law enforcement to counter the threat where appropriate;
 
 (C) an evaluation of the knowledge of, efficiency of, and effectiveness of current procedures and resources available to owners of critical infrastructure and domestic large hub airports when they believe a threat from unmanned aircraft systems is present and what additional actions, if any, the Department of Homeland Security or the Department of Transportation could implement under existing authorities to assist these entities to counter the threat identified in subparagraph (A);
 
@@ -240,14 +240,20 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3
 
 This chapter, referred to in subsec. (l)(1)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
+#### References to Sections of Title 14 as Redesignated by Pub. L. 115–282 ####
+
+Section 104 of title 14 redesignated section 528 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a note preceding section 101 of Title 14, Coast Guard.
+
 [<sup>1</sup> So in original. Probably should be followed by "and".](#124n_1)
 
 [<sup>2</sup> So in original. Probably should be "determines".](#124n_2)
 
 [<sup>3</sup> So in original. Probably should be "or".](#124n_3)
 
-[<sup>4</sup> So in original. Probably should be "meanings".](#124n_4)
+[<sup>4</sup> See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below.](#124n_4)
 
-[<sup>5</sup> So in original. The comma probably should not appear.](#124n_5)
+[<sup>5</sup> So in original. Probably should be "meanings".](#124n_5)
 
-[<sup>6</sup> So in original. Probably should be "Federal,".](#124n_6)
+[<sup>6</sup> So in original. The comma probably should not appear.](#124n_6)
+
+[<sup>7</sup> So in original. Probably should be "Federal,".](#124n_7)

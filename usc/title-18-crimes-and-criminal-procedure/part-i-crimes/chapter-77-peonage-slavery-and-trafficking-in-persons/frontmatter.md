@@ -34,6 +34,8 @@ Sec.
 
 1595. Civil remedy.
 
+1595A. Civil injunctions.
+
 1596. Additional jurisdiction in certain trafficking offenses.
 
 1597. Unlawful conduct with respect to immigration documents.
@@ -43,6 +45,8 @@ Sec.
 It was felt that further revision of this chapter should be considered at an opportune time for the same reasons stated with respect to chapter 81, "Piracy and Privateering".
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–393, title II, §201(b), Dec. 21, 2018, 132 Stat. 5267, added item 1595A.
 
 **2013**—Pub. L. 113–4, title XII, §1211(c)(2), Mar. 7, 2013, 127 Stat. 143, added item 1597.
 

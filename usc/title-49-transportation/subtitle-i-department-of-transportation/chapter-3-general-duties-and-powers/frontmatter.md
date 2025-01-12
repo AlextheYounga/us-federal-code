@@ -30,6 +30,8 @@ Sec.
 
 311. Congressional notification requirements.
 
+312. Alternative timing system.
+
 #### SUBCHAPTER II—ADMINISTRATIVE ####
 
 321. Definitions.
@@ -75,6 +77,8 @@ Sec.
 354. Investigative authority of Inspector General.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–282, title V, §514(c), Dec. 4, 2018, 132 Stat. 4278, which directed amendment of the analysis for chapter 3 by adding item 312 at end, was executed by adding the item at end of the analysis for subchapter I of this chapter to reflect the probable intent of Congress.
 
 **2016**—Pub. L. 114–322, title IV, §5001(b), Dec. 16, 2016, 130 Stat. 1885, added item 311.
 

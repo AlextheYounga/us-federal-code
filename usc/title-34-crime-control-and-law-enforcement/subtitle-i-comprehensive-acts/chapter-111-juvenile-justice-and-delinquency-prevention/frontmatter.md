@@ -38,17 +38,7 @@ Sec.
 
 #### Part C—Juvenile Delinquency Prevention Block Grant Program ####
 
-11141. Authority to make grants.
-
-11142. Allocation.
-
-11143. Eligibility of States.
-
-11144. Grants for local projects.
-
-11145. Eligibility of entities.
-
-11146. Grants to Indian tribes.
+11141 to 11146. Repealed.
 
 #### Part D—Research; Evaluation; Technical Assistance; Training ####
 
@@ -68,7 +58,7 @@ Sec.
 
 #### Part F—General and Administrative Provisions ####
 
-11181. Authorization of appropriations.
+11181. Repealed.
 
 11182. Administrative authority.
 
@@ -178,8 +168,14 @@ Sec.
 
 #### SUBCHAPTER V—INCENTIVE GRANTS FOR LOCAL DELINQUENCY PREVENTION PROGRAMS ####
 
-11311. Definition.
+11311. Definitions.
 
 11312. Duties and functions of the Administrator.
 
-11313. Grants for delinquency prevention programs.
+11313. Grants for local delinquency prevention programs.
+
+#### SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS; ACCOUNTABILITY AND OVERSIGHT ####
+
+11321. Authorization of appropriations.
+
+11322. Accountability and oversight.

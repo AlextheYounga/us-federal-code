@@ -1,14 +1,10 @@
 ### §806a. Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges ###
 
-(a) The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military judge or military appellate judge to perform the duties of the judge's position. To the extent practicable, the procedures shall be uniform for all armed forces.
+(a) The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military appellate judge, military judge, or military magistrate to perform the duties of the position involved.
 
 (b) The President shall transmit a copy of the procedures prescribed pursuant to this section to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 (Added Pub. L. 101–189, div. A, title XIII, §1303, Nov. 29, 1989, 103 Stat. 1576; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 114–328, div. E, title LI, §5104, Dec. 23, 2016, 130 Stat. 2895.)
-
-#### Amendment of Subsection (a) ####
-
-Pub. L. 114–328, div. E, title LI, §5104, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2895, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (a)(1) is amended in the first sentence by striking "military judge" and all that follows through the end of the sentence and inserting "military appellate judge, military judge, or military magistrate to perform the duties of the position involved." See 2016 Amendment note below.
 
 #### Amendments ####
 

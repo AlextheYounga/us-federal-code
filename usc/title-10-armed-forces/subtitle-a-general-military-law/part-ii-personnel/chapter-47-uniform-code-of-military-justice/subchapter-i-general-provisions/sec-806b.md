@@ -16,7 +16,7 @@
 
 (E) The release or escape of the accused, unless such notice may endanger the safety of any person.
 
-(3) The right not to be excluded from any public hearing or proceeding described in paragraph (2) unless the military judge or investigating officer, as applicable, after receiving clear and convincing evidence, determines that testimony by the victim of an offense under this chapter would be materially altered if the victim heard other testimony at that hearing or proceeding.
+(3) The right not to be excluded from any public hearing or proceeding described in paragraph (2) unless the military judge or preliminary hearing officer, as applicable, after receiving clear and convincing evidence, determines that testimony by the victim of an offense under this chapter would be materially altered if the victim heard other testimony at that hearing or proceeding.
 
 (4) The right to be reasonably heard at any of the following:
 
@@ -36,19 +36,25 @@
 
 (b) Victim of an Offense Under This Chapter Defined.—In this section, the term "victim of an offense under this chapter" means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter.
 
-(c) Appointment of Individuals to Assume Rights for Certain Victims.—In the case of a victim of an offense under this chapter who is under 18 years of age (but who is not a member of the armed forces), incompetent, incapacitated, or deceased, the military judge shall designate a representative of the estate of the victim, a family member, or another suitable individual to assume the victim's rights under this section. However, in no event may the individual so designated be the accused.
+(c) Appointment of Individuals to Assume Rights for Certain Victims.—In the case of a victim of an offense under this chapter who is under 18 years of age (but who is not a member of the armed forces), incompetent, incapacitated, or deceased, the legal guardians of the victim or the representatives of the victim's estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section. However, in no event may the individual so designated be the accused.
 
 (d) Rule of Construction.—Nothing in this section (article) shall be construed—
 
-(1) to authorize a cause of action for damages; or
+(1) to authorize a cause of action for damages;
 
-(2) to create, to enlarge, or to imply any duty or obligation to any victim of an offense under this chapter or other person for the breach of which the United States or any of its officers or employees could be held liable in damages.
+(2) to create, to enlarge, or to imply any duty or obligation to any victim of an offense under this chapter or other person for the breach of which the United States or any of its officers or employees could be held liable in damages; or
+
+(3) to impair the exercise of discretion under sections 830 and 834 of this title (articles 30 and 34).
 
 (e) Enforcement by Court of Criminal Appeals.—(1) If the victim of an offense under this chapter believes that a preliminary hearing ruling under section 832 of this title (article 32) or a court-martial ruling violates the rights of the victim afforded by a section (article) or rule specified in paragraph (4), the victim may petition the Court of Criminal Appeals for a writ of mandamus to require the preliminary hearing officer or the court-martial to comply with the section (article) or rule.
 
 (2) If the victim of an offense under this chapter is subject to an order to submit to a deposition, notwithstanding the availability of the victim to testify at the court-martial trying the accused for the offense, the victim may petition the Court of Criminal Appeals for a writ of mandamus to quash such order.
 
-(3) A petition for a writ of mandamus described in this subsection shall be forwarded directly to the Court of Criminal Appeals, by such means as may be prescribed by the President, and, to the extent practicable, shall have priority over all other proceedings before the court.
+(3)(A) A petition for a writ of mandamus described in this subsection shall be forwarded directly to the Court of Criminal Appeals, by such means as may be prescribed by the President, subject to section 830a of this title (article 30a).
+
+(B) To the extent practicable, a petition for a writ of mandamus described in this subsection shall have priority over all other proceedings before the Court of Criminal Appeals.
+
+(C) Review of any decision of the Court of Criminal Appeals on a petition for a writ of mandamus described in this subsection shall have priority in the Court of Appeals for the Armed Forces, as determined under the rules of the Court of Appeals for the Armed Forces.
 
 (4) Paragraph (1) applies with respect to the protections afforded by the following:
 
@@ -64,47 +70,11 @@
 
 (F) Military Rule of Evidence 615, relating to the exclusion of witnesses.
 
+(f) Counsel for Accused Interview of Victim of Alleged Offense.—(1) Upon notice by counsel for the Government to counsel for the accused of the name of an alleged victim of an offense under this chapter who counsel for the Government intends to call as a witness at a proceeding under this chapter, counsel for the accused shall make any request to interview the victim through the Special Victims' Counsel or other counsel for the victim, if applicable.
+
+(2) If requested by an alleged victim who is subject to a request for interview under paragraph (1), any interview of the victim by counsel for the accused shall take place only in the presence of the counsel for the Government, a counsel for the victim, or, if applicable, a victim advocate.
+
 (Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906; Pub. L. 115–91, div. A, title V, §531(a), title X, §1081(a)(22), (c)(1)(B), Dec. 12, 2017, 131 Stat. 1384, 1595, 1597.)
-
-#### Amendment of Section ####
-
-Pub. L. 115–91, div. A, title V, §531(a), (p), Dec. 12, 2017, 131 Stat. 1384, 1388, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (e)(3) of this section is amended—
-
-(1) by inserting "(A)" after "(3)";
-
-(2) by striking "President, and, to the extent practicable, shall have priority over all other proceedings before the court." and inserting the following; "President, subject to section 830a of this title (article 30a)."; and
-
-(3) by adding at the end the following new subparagraphs:
-
-*"(B) To the extent practicable, a petition for a writ of mandamus described in this subsection shall have priority over all other proceedings before the Court of Criminal Appeals.*
-
-*"(C) Review of any decision of the Court of Criminal Appeals on a petition for a writ of mandamus described in this subsection shall have priority in the Court of Appeals for the Armed Forces, as determined under the rules of the Court of Appeals for the Armed Forces."*
-
-See 2017 Amendment note below.
-
-Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2895, 2906, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, this section is amended:
-
-(1) in subsection (a)(3), by striking "investigating officer" and inserting "preliminary hearing officer";
-
-(2) in subsection (c), in the first sentence, by striking "the military judge" and all that follows through the end of the sentence and inserting the following: "the legal guardians of the victim or the representatives of the victim's estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section.";
-
-(3) in subsection (d)—
-
-(A) in paragraph (1), by striking "or" at the end;
-
-(B) in paragraph (2), by striking the period at the end and inserting "; or"; and
-
-(C) by adding at the end the following new paragraph:
-
-*"(3) to impair the exercise of discretion under sections 830 and 834 of this title (articles 30 and 34)."; and*
-
-(4) by adding at the end the following new subsection:
-
-*(f)* *Counsel for Accused Interview of Victim of Alleged Offense**.—(1) Upon notice by counsel for the Government to counsel for the accused of the name of an alleged victim of an offense under this chapter who counsel for the Government intends to call as a witness at a proceeding under this chapter, counsel for the accused shall make any request to interview the victim through the Special Victims' Counsel or other counsel for the victim, if applicable.*
-
-*(2) If requested by an alleged victim who is subject to a request for interview under paragraph (1), any interview of the victim by counsel for the accused shall take place only in the presence of the counsel for the Government, a counsel for the victim, or, if applicable, a victim advocate.*
-
-See 2016 Amendment notes below.
 
 #### Amendments ####
 

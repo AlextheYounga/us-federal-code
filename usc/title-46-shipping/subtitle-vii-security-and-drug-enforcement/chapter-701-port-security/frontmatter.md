@@ -8,6 +8,8 @@ Sec.
 
 70102. United States facility and vessel vulnerability assessments.
 
+70102a. Port, harbor, and coastal facility security.
+
 70103. Maritime transportation security plans.
 
 70104. Transportation security incident response.
@@ -36,7 +38,9 @@ Sec.
 
 70115. Long-range vessel tracking system.
 
-[70116, 70117. Repealed.]
+70116. Port, harbor, and coastal facility security.
+
+[70117. Repealed.]
 
 70118. Enforcement by State and local officers.
 
@@ -62,7 +66,9 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–254, div. J, §1809(c)(1), Oct. 5, 2018, 132 Stat. 3538, struck out items 70107A "Interagency operational centers for port security" and 70116 "Secure systems of transportation".
+**2018**—Pub. L. 115–282, title IV, §§402(b)(3), 408(c), Dec. 4, 2018, 132 Stat. 4264, 4268, added items for 70102a and 70116.
+
+Pub. L. 115–254, div. J, §1809(c)(1), Oct. 5, 2018, 132 Stat. 3538, struck out items 70107A "Interagency operational centers for port security" and 70116 "Secure systems of transportation".
 
 **2016**—Pub. L. 114–120, title III, §306(a)(8), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of item 70107A and substituted "Security Advisory Committees" for "security advisory committees" in item 70112 and "Watch Program" for "watch program" in item 70122.
 

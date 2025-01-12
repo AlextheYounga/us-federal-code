@@ -16,13 +16,15 @@ Sec.
 
 2306. Vessel reporting requirements.
 
-2307. Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators.
+[2307. Repealed.]
 
 #### Historical and Revision Notes ####
 
 Chapter 23 lists requirements that relate to the general operation of all vessels. These include penalties and injunctive relief for negligent operation of a vessel. It also provides penalties for failure to render assistance.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–282, title IV, §402(d), Dec. 4, 2018, 132 Stat. 4264, struck out item 2307 "Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators".
 
 **2012**—Pub. L. 112–213, title III, §302(b), Dec. 20, 2012, 126 Stat. 1563, substituted "Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators" for "Limitation of liability for Coast Guard Vessel Traffic Service pilots" in item 2307.
 

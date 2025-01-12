@@ -1,45 +1,28 @@
 ### SUBCHAPTER VII—TRIAL PROCEDURE ###
 
-|Sec. |Art.|                                                   |
-|-----|----|---------------------------------------------------|
-|836. |36. |          President may prescribe rules.           |
-|837. |37. |      Unlawfully influencing action of court.      |
-|838. |38. |   Duties of trial counsel and defense counsel.    |
-|839. |39. |                     Sessions.                     |
-|840. |40. |                   Continuances.                   |
-|841. |41. |                    Challenges.                    |
-|842. |42. |                      Oaths.                       |
-|843. |43. |              Statute of limitations.              |
-|844. |44. |                 Former jeopardy.                  |
-|845. |45. |               Pleas of the accused.               |
-|846. |46. |Opportunity to obtain witnesses and other evidence.|
-|847. |47. |           Refusal to appear or testify.           |
-|848. |48. |                    Contempts.                     |
-|849. |49. |                   Depositions.                    |
-|850. |50. |  Admissibility of records of courts of inquiry.   |
-|850a.|50a.|     Defense of lack of mental responsibility.     |
-|851. |51. |                Voting and rulings.                |
-|852. |52. |             Number of votes required.             |
-|853. |53. |             Court to announce action.             |
-|853a.|53a.|                 Plea agreements.                  |
-|854. |54. |                 Record of trial.                  |
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(4), set out below, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.
-
-Pub. L. 114–328, div. E, title LXIII, §§5541(4), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, this analysis is amended by striking items 846 to 848, 850, 852, and 853 and by inserting the following new items:
-
-|Sec.|Art.|                                                                                 |
-|----|----|---------------------------------------------------------------------------------|
-|846.|46. | Opportunity to obtain witnesses and other evidence in trials by court-martial.  |
-|847.|47. |Refusal of person not subject to chapter to appear, testify, or produce evidence.|
-|848.|48. |                                    Contempt.                                    |
-|850.|50. |       Admissibility of sworn testimony from records of courts of inquiry.       |
-|852.|52. |          Votes required for conviction, sentencing, and other matters.          |
-|853.|53. |                            Findings and sentencing.                             |
-
-See 2016 Amendment note below.
+|Sec. |Art.|                                                                                 |
+|-----|----|---------------------------------------------------------------------------------|
+|836. |36. |                         President may prescribe rules.                          |
+|837. |37. |                     Unlawfully influencing action of court.                     |
+|838. |38. |                  Duties of trial counsel and defense counsel.                   |
+|839. |39. |                                    Sessions.                                    |
+|840. |40. |                                  Continuances.                                  |
+|841. |41. |                                   Challenges.                                   |
+|842. |42. |                                     Oaths.                                      |
+|843. |43. |                             Statute of limitations.                             |
+|844. |44. |                                Former jeopardy.                                 |
+|845. |45. |                              Pleas of the accused.                              |
+|846. |46. | Opportunity to obtain witnesses and other evidence in trials by court-martial.  |
+|847. |47. |Refusal of person not subject to chapter to appear, testify, or produce evidence.|
+|848. |48. |                                    Contempt.                                    |
+|849. |49. |                                  Depositions.                                   |
+|850. |50. |       Admissibility of sworn testimony from records of courts of inquiry.       |
+|850a.|50a.|                    Defense of lack of mental responsibility.                    |
+|851. |51. |                               Voting and rulings.                               |
+|852. |52. |          Votes required for conviction, sentencing, and other matters.          |
+|853. |53. |                            Findings and sentencing.                             |
+|853a.|53a.|                                Plea agreements.                                 |
+|854. |54. |                                Record of trial.                                 |
 
 #### Amendments ####
 

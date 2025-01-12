@@ -1,26 +1,4 @@
-### §858a. Art. 58a. Sentences: reduction in enlisted grade upon approval ###
-
-(a) Unless otherwise provided in regulations to be prescribed by the Secretary concerned, a court-martial sentence of an enlisted member in a pay grade above E–1, as approved by the convening authority, that includes—
-
-(1) a dishonorable or bad-conduct discharge;
-
-(2) confinement; or
-
-(3) hard labor without confinement;
-
-reduces that member to pay grade E–1, effective on the date of that approval.
-
-(b) If the sentence of a member who is reduced in pay grade under subsection (a) is set aside or disapproved, or, as finally approved, does not include any punishment named in subsection (a)(1), (2), or (3), the rights and privileges of which he was deprived because of that reduction shall be restored to him and he is entitled to the pay and allowances to which he would have been entitled, for the period the reduction was in effect, had he not been so reduced.
-
-(Added Pub. L. 86–633, §1(1), July 12, 1960, 74 Stat. 468; amended Pub. L. 114–328, div. E, title LVIII, §5303, Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, §531(f)(1), (2), Dec. 12, 2017, 131 Stat. 1385.)
-
-#### Amendment of Section ####
-
-Pub. L. 115–91, div. A, title V, §531(f)(1), (2), (p), Dec. 12, 2017, 131 Stat. 1385, 1388, provided that, effective immediately after the amendment made by section 5303 of Pub. L. 114–328, set out below, takes effect as provided for in section 5542 of that Act, this section is amended by amending the section catchline to read "Sentences: reduction in enlisted grade" and, in concluding provisions of subsection (a), by striking ", effective on the date" and inserting ", if such a reduction is authorized by regulation prescribed by the President. The reduction in pay grade shall take effect on the date". See 2017 Amendment notes below.
-
-Pub. L. 114–328, div. E, title LVIII, §5303, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2923, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, made amendments to this section effective, except as otherwise provided, on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations. After such effective date, this section will read:
-
-#### §858a. Art. 58a. Sentences: reduction in enlisted grade upon approval ####
+### §858a. Art. 58a. Sentences: reduction in enlisted grade ###
 
 (a) A court-martial sentence of an enlisted member in a pay grade above E–1, as set forth in the judgment of the court-martial entered into the record under section 860c of this title (article 60c), that includes—
 
@@ -30,11 +8,11 @@ Pub. L. 114–328, div. E, title LVIII, §5303, title LXIII, §5542, Dec. 23, 20
 
 (3) hard labor without confinement;
 
-reduces that member to pay grade E–1, effective on the date on which the judgment is so entered.
+reduces that member to pay grade E–1, if such a reduction is authorized by regulation prescribed by the President. The reduction in pay grade shall take effect on the date on which the judgment is so entered.
 
 (b) If the sentence of a member who is reduced in pay grade under subsection (a) is set aside or reduced, or, as finally affirmed, does not include any punishment named in subsection (a)(1), (2), or (3), the rights and privileges of which he was deprived because of that reduction shall be restored to him and he is entitled to the pay and allowances to which he would have been entitled, for the period the reduction was in effect, had he not been so reduced.
 
-See 2016 Amendment notes below.
+(Added Pub. L. 86–633, §1(1), July 12, 1960, 74 Stat. 468; amended Pub. L. 114–328, div. E, title LVIII, §5303, Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, §531(f)(1), (2), Dec. 12, 2017, 131 Stat. 1385.)
 
 #### Amendments ####
 

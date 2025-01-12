@@ -261,7 +261,7 @@ Pub. L. 86–70, June 25, 1959, 73 Stat. 141, as amended, provided:
 
 "(d) striking out the words 'Territory' in the two places where it appears in section 806 (12 U.S.C., supp. V, sec. 1748e), and inserting the word 'State' in lieu thereof.
 
-"Sec. 11. [Coast Guard; amendment.] Title 14, United States Code, section 634(b), is amended by striking out the words 'and for the territory of' in both places where they appear therein.
+"Sec. 11. [Coast Guard; amendment.] Title 14, United States Code, [former] section 634(b), is amended by striking out the words 'and for the territory of' in both places where they appear therein.
 
 "Sec. 12. [Securities and Exchange Commission.] (a) Paragraph (6) of section 2 of the Securities Act of 1933, as amended (15 U.S.C. 77b(6)), is further amended by striking out the word 'Alaska,'.
 

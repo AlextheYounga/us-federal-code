@@ -110,7 +110,7 @@ Not later than one year after August 3, 2007, and every 5 years thereafter, the 
 
 #### (f) Animal and zoonotic diseases ####
 
-As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Chief Medical Officer, the Department of State, and appropriate officials of the Department of Agriculture, the Department of Defense, and the Department of Health and Human Services, may enter into cooperative activities with foreign countries, including African nations, to strengthen American preparedness against foreign animal and zoonotic diseases overseas that could harm the Nation's agricultural and public health sectors if they were to reach the United States.
+As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Assistant Secretary for the Countering Weapons of Mass Destruction Office, the Department of State, and appropriate officials of the Department of Agriculture, the Department of Defense, and the Department of Health and Human Services, may enter into cooperative activities with foreign countries, including African nations, to strengthen American preparedness against foreign animal and zoonotic diseases overseas that could harm the Nation's agricultural and public health sectors if they were to reach the United States.
 
 #### (g) Cybersecurity ####
 
@@ -134,13 +134,15 @@ Nothing in this section shall be construed to alter or affect the following prov
 
 There are authorized to be appropriated to carry out this section such sums as are necessary.
 
-(Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519.)
+(Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519; Pub. L. 115–387, §2(f)(3), Dec. 21, 2018, 132 Stat. 5168.)
 
 #### References in Text ####
 
 The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (h)(1), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
+
+**2018**—Subsec. (f). Pub. L. 115–387 substituted "the Assistant Secretary for the Countering Weapons of Mass Destruction Office," for "the Chief Medical Officer,".
 
 **2016**—Subsec. (e)(3), (4). Pub. L. 114–304, §2(a)(1), added pars. (3) and (4).
 
