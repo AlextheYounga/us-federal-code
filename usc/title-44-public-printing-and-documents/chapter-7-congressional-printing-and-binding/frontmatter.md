@@ -20,7 +20,7 @@ Sec.
 
 709. Public and private laws, postal conventions, and treaties.
 
-710. Copies of Acts furnished to Public Printer.
+710. Copies of Acts furnished to Director of the Government Publishing Office.
 
 711. Printing Acts, joint resolutions, and treaties.
 
@@ -85,6 +85,8 @@ Sec.
 741. Disposition of documents stored at Capitol.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 710.
 
 **1996**—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted "Senators" for "Members of Congress" in item 735.
 

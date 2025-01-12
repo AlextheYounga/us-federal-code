@@ -2,4 +2,4 @@
 
 #### Termination Date ####
 
-Except as otherwise provided, technical assistance and financial assistance may not be provided under this part after Dec. 31, 2013, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this part after Dec. 31, 2014, see section 285 of Pub. L. 93–618 and section 233(a) of Pub. L. 112–40, set out as notes preceding section 2271 of this title.

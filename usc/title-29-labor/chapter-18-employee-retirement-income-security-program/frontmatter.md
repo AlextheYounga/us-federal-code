@@ -400,17 +400,9 @@ Sec.
 
 1415. Transfers pursuant to change in bargaining representative.
 
-#### part 3—reorganization; minimum contribution requirement for multiemployer plans ####
+#### part 3—reorganization; insolvent plans ####
 
-1421. Reorganization status.
-
-1422. Notice of reorganization and funding requirements.
-
-1423. Minimum contribution requirement.
-
-1424. Overburden credit against minimum contribution requirement.
-
-1425. Adjustments in accrued benefits.
+1421 to 1425. Repealed.
 
 1426. Insolvent plans.
 

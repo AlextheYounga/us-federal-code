@@ -30,6 +30,8 @@ Sec.
 
 2523b. Transferred.
 
+2523c. Major warhead refurbishment program.
+
 2524. Stockpile management program.
 
 2524a. Repealed.
@@ -291,6 +293,8 @@ Sec.
 2791. Laboratory-directed research and development programs.
 
 2791a. Laboratory-directed research and development.
+
+2791b. Charges to individual program, project, or activity.
 
 2792. Limitations on use of funds for laboratory directed research and development purposes.
 

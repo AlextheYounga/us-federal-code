@@ -554,6 +554,8 @@ Sec.
 
 2297h–10a. Incentives for additional downblending of highly enriched uranium by the Russian Federation.
 
+2297h–10b. Secretarial determinations; Congressional notification.
+
 2297h–11. Low-level waste.
 
 2297h–12. AVLIS.

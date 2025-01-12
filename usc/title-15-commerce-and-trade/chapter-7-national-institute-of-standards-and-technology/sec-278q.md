@@ -8,7 +8,7 @@ Appropriations to carry out the provisions of this chapter may remain available 
 
 Section was formerly classified to section 278h of this title prior to renumbering by Pub. L. 107–305.
 
-Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 34 and is set out as a Short Title note under section 271 of this title.
+Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under section 271 of this title.
 
 #### Amendments ####
 

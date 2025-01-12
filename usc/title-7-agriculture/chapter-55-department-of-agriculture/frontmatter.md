@@ -174,6 +174,8 @@ Sec.
 
 2250a. Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination of use; availability of funds for expenses of acquiring long-term leases or other agreements.
 
+2250b. Nonrecurring expenses fund.
+
 2251. Reimbursement of Production and Marketing Administration appropriations for expenses of maintaining registers of indebtedness and making set-offs.
 
 2252. Reimbursement of Production and Marketing Administration appropriations for costs of procuring agricultural commodities for nongovernmental agencies or foreign governments.

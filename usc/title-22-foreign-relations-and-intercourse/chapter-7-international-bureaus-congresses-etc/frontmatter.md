@@ -660,6 +660,10 @@ Sec.
 
 284y. Multilateral debt relief.
 
+284z. Seventeenth replenishment.
+
+284aa. Multilateral debt relief.
+
 #### SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK ####
 
 285. Acceptance of membership by United States in Asian Development Bank.
@@ -725,6 +729,8 @@ Sec.
 285dd. Ninth replenishment.
 
 285ee. Fifth capital increase.
+
+285ff. Tenth replenishment.
 
 #### SUBCHAPTER XV—INTERNATIONAL MONETARY FUND AND BANK FOR RECONSTRUCTION AND DEVELOPMENT ####
 
@@ -1061,6 +1067,10 @@ Sec.
 290g–20. Twelfth replenishment.
 
 290g–21. Multilateral debt relief.
+
+290g–22. Thirteenth replenishment.
+
+290g–23. Multilateral debt relief.
 
 #### SUBCHAPTER XXIII—UNITED STATES AFRICAN DEVELOPMENT FOUNDATION ####
 

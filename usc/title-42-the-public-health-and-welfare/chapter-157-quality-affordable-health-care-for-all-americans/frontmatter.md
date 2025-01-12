@@ -18,6 +18,8 @@ Sec.
 
 18013. Annual report on self-insured plans.
 
+18014. Treatment of expatriate health plans under ACA.
+
 #### SUBCHAPTER III—AVAILABLE COVERAGE CHOICES FOR ALL AMERICANS ####
 
 #### Part A—Establishment of Qualified Health Plans ####

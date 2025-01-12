@@ -28,4 +28,14 @@ Pub. L. 97–448, title III, §311(c)(2), Jan. 12, 1983, 96 Stat. 2411, provided
 
 #### Effective Date ####
 
-Section applicable to taxable years ending after Sept. 26, 1980, see section 210(c) of Pub. L. 96–364, set out as a note under section 418 of this title.
+Pub. L. 96–364, title II, §210, Sept. 26, 1980, 94 Stat. 1291, provided that:
+
+"(a) Except as otherwise provided in this section, the amendments made by this title [amending sections 401, 404, 411 to 414, 4971, and 4975 of this title] shall take effect on the date of the enactment of this Act [Sept. 26, 1980].
+
+"(b) Subpart C of part I of subchapter D of chapter 1 of such Code (as added by this Act) [sections 418 to 418E of this title] shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+
+"(1) the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on the date of the enactment of this Act [Sept. 26, 1980], expires, without regard to extensions agreed to after such date of enactment, or
+
+"(2) 3 years after the date of the enactment of this Act [Sept. 26, 1980].
+
+"(c) The amendments made by section 209 [enacting this section and amending sections 501 and 4975 of this title] shall apply to taxable years ending after the date of the enactment of this Act [Sept. 26, 1980]."

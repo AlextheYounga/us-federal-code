@@ -90,11 +90,7 @@ Sec.
 
 6568. Banking and financial transactions of Secretary of Senate.
 
-6569. Stationery for Senate; advertisements for.
-
-6570. Opening bids for stationery; awarding contracts.
-
-6571. Contracts for separate parts of Senate stationery.
+6569 to 6571. Repealed.
 
 6572. Purchases of stationery and materials for folding.
 

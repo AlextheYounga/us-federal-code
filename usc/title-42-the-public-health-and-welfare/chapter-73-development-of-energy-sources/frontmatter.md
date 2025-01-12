@@ -60,6 +60,8 @@ Sec.
 
 5853. Limitation on legal fee reimbursement.
 
+5854. Notification and reports by Chairman.
+
 #### SUBCHAPTER III—MISCELLANEOUS AND TRANSITIONAL PROVISIONS ####
 
 5871. Transitional provisions.

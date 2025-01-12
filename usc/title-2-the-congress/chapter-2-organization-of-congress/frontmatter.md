@@ -26,9 +26,9 @@ Sec.
 
 28b. Printing and binding as public document of Precedents of House of Representatives; number of sets authorized.
 
-28c. Distribution of Precedents by Public Printer.
+28c. Distribution of Precedents by Director of the Government Publishing Office.
 
-28d. Distribution of Precedents by Public Printer for official use; particular distribution; marking and ownership of sets.
+28d. Distribution of Precedents by Director of the Government Publishing Office for official use; particular distribution; marking and ownership of sets.
 
 28e. Distribution of Precedents by Joint Committee on Printing of surplus sets; additional printing, etc., of sets under authority of Joint Committee.
 

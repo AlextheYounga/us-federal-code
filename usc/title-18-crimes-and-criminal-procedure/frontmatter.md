@@ -76,7 +76,7 @@ V. Immunity of Witnesses 6001
 |                61m                |                            608                             |
 |               61m–1               |                            611                             |
 |                61n                |                            595                             |
-|               61*o*               |             T. 5 §118*l* (See Rev. T. 5 Table)             |
+|               61*o*               |              T. 5 §118l (See Rev. T. 5 Table)              |
 |                61p                |              T. 5 §118m (See Rev. T. 5 Table)              |
 |                61q                |                            Rep.                            |
 |                61r                |              T. 5 §118n (See Rev. T. 5 Table)              |
@@ -208,7 +208,7 @@ V. Immunity of Witnesses 6001
 |                210                |                            606                             |
 |                211                |                            607                             |
 |                212                |                     602, 603, 606, 607                     |
-|                213                |             T. 5 §118*o* (See Rev. T. 5 Table)             |
+|                213                |              T. 5 §118o (See Rev. T. 5 Table)              |
 |                214                |                            1902                            |
 |                215                |                            2072                            |
 |                216                |                            1905                            |
@@ -615,7 +615,7 @@ V. Immunity of Witnesses 6001
 |              744*l*               |                            4126                            |
 |               744m                |                            4127                            |
 |               744n                |                            4128                            |
-|            744*o*–744r            |                           Elim.                            |
+|             744o–744r             |                           Elim.                            |
 |                745                |                            Rep.                            |
 |                746                |                            4281                            |
 |               746a                |                            4282                            |

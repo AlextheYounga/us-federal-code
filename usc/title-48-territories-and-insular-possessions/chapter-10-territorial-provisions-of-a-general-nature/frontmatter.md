@@ -30,6 +30,8 @@ Sec.
 
 1492. Energy resources of Caribbean and Pacific insular areas.
 
+1492a. Study of Electric Rates in the Insular Areas.
+
 1493. Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders.
 
 1494. Purposes.

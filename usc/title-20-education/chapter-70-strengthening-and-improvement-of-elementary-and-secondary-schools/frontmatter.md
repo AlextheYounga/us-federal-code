@@ -10,6 +10,8 @@ Sec.
 
 6303. School improvement.
 
+6303a. Whole-school reform strategy.
+
 6304. State administration.
 
 #### Part A—Improving Basic Programs Operated by Local Educational Agencies ####

@@ -358,9 +358,11 @@ Pub. L. 102–429, title I, §117, Oct. 21, 1996, 106 Stat. 2196, provided that:
 
 "(B) whether or not the authority of subsection (a) should be extended."
 
-[Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) thereof shall remain in effect until September 30, 2014"]
+[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) thereof shall remain in effect until September 30, 2015".]
 
 [Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+[Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489.
 
 [Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191.
 

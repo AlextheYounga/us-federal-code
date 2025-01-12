@@ -92,7 +92,17 @@ Sec.
 
 783. Rules and regulations.
 
+#### SUBCHAPTER VII—CENTER FOR AUDIT EXCELLENCE ####
+
+791. Center for Audit Excellence.
+
+792. Account.
+
+793. Authorization of appropriations.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–235, div. H, title I, §1401(a)(2), Dec. 16, 2014, 128 Stat. 2541, added subchapter VII heading and items 791 to 793.
 
 **2008**—Pub. L. 110–323, §5(c), Sept. 22, 2008, 122 Stat. 3547, added item 705.
 

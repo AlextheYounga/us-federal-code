@@ -82,6 +82,8 @@ In addition to these acts the following House Resolutions affected the salary of
 
 The following acts have provided for funds for the operation of Congress:
 
+Pub. L. 113–235, div. H, Dec. 16, 2014, 128 Stat. 2523.
+
 Pub. L. 113–76, div. I, Jan. 17, 2014, 128 Stat. 417.
 
 Pub. L. 112–74, div. G, Dec. 23, 2011, 125 Stat. 1116.

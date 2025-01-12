@@ -2,7 +2,7 @@
 
 Sec.
 
-1701. Publications for public distribution to be distributed by the Public Printer; mailing lists.
+1701. Publications for public distribution to be distributed by the Director of the Government Publishing Office; mailing lists.
 
 1702. Superintendent of Documents; sale of documents.
 
@@ -24,7 +24,7 @@ Sec.
 
 1711. Catalog of Government publications.
 
-1712. Documents for use of the Public Printer.
+1712. Documents for use of the Director of the Government Publishing Office.
 
 1713. Documents to be delivered to the Executive Mansion.
 
@@ -45,6 +45,10 @@ Sec.
 1721. Exchange of documents by heads of departments.
 
 1722. Departmental distribution of publications.
+
+#### Amendments ####
+
+**2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in items 1701 and 1712.
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

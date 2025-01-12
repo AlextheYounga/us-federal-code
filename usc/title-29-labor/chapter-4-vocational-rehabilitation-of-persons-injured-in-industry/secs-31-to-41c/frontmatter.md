@@ -100,7 +100,7 @@ On enactment of the Rehabilitation Act of 1973, such former provisions were cove
 |       41(i)       |             706(5)             |
 |       41(j)       |             707(b)             |
 |       41(k)       |            706(11)             |
-|      41(*l*)      |             706(1)             |
+|       41(l)       |             706(1)             |
 |      41a(a)       |           771(b)(1)            |
 |      41a(b)       |         771(b)(2), 776         |
 | 41a(b)(1)(A)–(C)  |        776(b)(1)(A)–(C)        |

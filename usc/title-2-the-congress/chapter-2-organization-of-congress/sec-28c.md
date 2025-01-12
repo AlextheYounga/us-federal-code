@@ -1,8 +1,8 @@
-### §28c. Distribution of Precedents by Public Printer ###
+### §28c. Distribution of Precedents by Director of the Government Publishing Office ###
 
 #### (a) Delivery to Members of Ninety-fifth Congress; marking of volumes ####
 
-The Public Printer shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
+The Director of the Government Publishing Office shall deliver one set of the Precedents to each Senator or Representative in, or Delegate or Resident Commissioner to, the Ninety-fifth Congress. The name of the Member to whom the set is delivered shall be legibly stamped on the front cover of each volume of the set.
 
 #### (b) Members of Congress following Ninety-fifth Congress not already having sets of Precedents; necessity of written request to Superintendent of Documents for set ####
 
@@ -10,7 +10,7 @@ Each Senator or Representative in, or Delegate or Resident Commissioner to, each
 
 #### (c) Additional distribution of sets ####
 
-The Public Printer shall make the following distribution of sets of the Precedents:
+The Director of the Government Publishing Office shall make the following distribution of sets of the Precedents:
 
 (1) to the office of the Vice President, to the office of the speaker of the House of Representatives, and to the office of the President pro tempore of the Senate, each, five sets;
 
@@ -40,12 +40,16 @@ The Public Printer shall make the following distribution of sets of the Preceden
 
 (14) to the Superintendent of Documents, eight hundred and sixteen sets for distribution to the depository library system.
 
-(Pub. L. 94–551, §2, Oct. 18, 1976, 90 Stat. 2537; Pub. L. 104–186, title II, §202(3), Aug. 20, 1996, 110 Stat. 1724.)
+(Pub. L. 94–551, §2, Oct. 18, 1976, 90 Stat. 2537; Pub. L. 104–186, title II, §202(3), Aug. 20, 1996, 110 Stat. 1724; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Amendments ####
 
 **1996**—Subsec. (c)(2). Pub. L. 104–186, §202(3)(A), substituted "Representatives, each" for "Representives, each".
 
 Subsec. (c)(5). Pub. L. 104–186, §202(3)(B), substituted "and to the Sergeant at Arms of the House of Representatives, each two sets" for ", to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets".
+
+#### Change of Name ####
+
+"Director of the Government Publishing Office" substituted for "Public Printer" in subsecs. (a) and (c) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#28c_1)

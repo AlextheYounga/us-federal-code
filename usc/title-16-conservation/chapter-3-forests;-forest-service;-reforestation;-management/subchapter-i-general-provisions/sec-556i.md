@@ -2,15 +2,19 @@
 
 None of the funds made available to the Forest Service in this Act or any other Act with respect to any fiscal year shall be subject to transfer under the provisions of section 2257 of title 7, section 7772 of title 7, or section 8316(b) of title 7.
 
-(Pub. L. 113–76, div. G, title III, Jan. 17, 2014, 128 Stat. 326.)
+(Pub. L. 113–235, div. F, title III, Dec. 16, 2014, 128 Stat. 2432.)
 
 #### References in Text ####
+
+This Act, referred to in text, Pub. L. 113–235, div. F, Dec. 16, 2014, 128 Stat. 2396, known as the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
 
 Section 8316(b) of title 7, referred to in text, was in the original "section 10417(b) of Public Law 107–107 (7 U.S.C. 8316(b))" which was translated as meaning section 10417(b) of Pub. L. 107–171 to reflect the probable intent of Congress.
 
 #### Similar Provisions ####
 
 Provisions similar to this section were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. G, title III, Jan. 17, 2014, 128 Stat. 326.
 
 Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1025.
 

@@ -36,11 +36,13 @@ Sec.
 
 116. Reports to Congress: cost information.
 
-117. Advance appropriations for certain medical care accounts.
+117. Advance appropriations for certain accounts.
 
 118. Submission of reports to Congress in electronic form.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–235, div. I, title II, §244(c), Dec. 16, 2014, 128 Stat. 2569, added item 117 and struck out former item 117 "Advance appropriations for certain medical care accounts".
 
 **2013**—Pub. L. 112–260, title II, §202(c), Jan. 10, 2013, 126 Stat. 2424, added item 111A.
 

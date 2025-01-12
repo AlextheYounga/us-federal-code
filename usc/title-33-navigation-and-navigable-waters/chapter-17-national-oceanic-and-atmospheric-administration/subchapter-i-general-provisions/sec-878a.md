@@ -94,6 +94,10 @@ NOAA shall complete an analysis initiated under subsection (e)(2) not later than
 
 (Pub. L. 112–55, div. B, title I, §105, Nov. 18, 2011, 125 Stat. 599; Pub. L. 113–6, div. B, title I, §105(a), Mar. 26, 2013, 127 Stat. 242.)
 
+#### Codification ####
+
+Section is from the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012, which is division B of the Consolidated and Further Continuing Appropriations Act, 2012.
+
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
@@ -106,8 +110,10 @@ Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.
 
 #### Requirements Adopted by Reference ####
 
-Pub. L. 113–76, div. B, title I, §104, Jan. 17, 2014, 128 Stat. 51, provided that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [33 U.S.C. 878a], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2014."
+Pub. L. 113–235, div. B, title I, §104, Dec. 16, 2014, 128 Stat. 2181, provided that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [33 U.S.C. 878a], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2015."
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 113–76, div. B, title I, §104, Jan. 17, 2014, 128 Stat. 51.
 
 Pub. L. 113–6, div. B, title I, §105(b), Mar. 26, 2013, 127 Stat. 242.

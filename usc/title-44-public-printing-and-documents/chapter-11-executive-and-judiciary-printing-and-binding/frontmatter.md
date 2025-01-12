@@ -4,7 +4,7 @@ Sec.
 
 1101. Printing and binding for the President.
 
-1102. Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Public Printer.
+1102. Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Director of the Government Publishing Office.
 
 1103. Certificate of necessity; estimate of cost.
 
@@ -22,7 +22,7 @@ Sec.
 
 1110. Daily examination of Congressional Record for immediate ordering of documents for official use; limit; bills and resolutions.
 
-1111. Annual reports: time for furnishing manuscript and proofs to Public Printer.
+1111. Annual reports: time for furnishing manuscript and proofs to Director of the Government Publishing Office.
 
 1112. Annual reports: type for reports of executive officers.
 
@@ -30,7 +30,7 @@ Sec.
 
 1114. Annual reports: number of copies for Congress.
 
-1115. Annual reports: time of delivery by Public Printer to Congress.
+1115. Annual reports: time of delivery by Director of the Government Publishing Office to Congress.
 
 1116. Annual reports: limitation on number of copies printed; reports of bureau chiefs.
 
@@ -49,6 +49,8 @@ Sec.
 1123. Binding materials; bookbinding for libraries.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in items 1102, 1111, and 1115.
 
 **1984**—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted "Presidential" for "Bureau of Budget" in item 1108.
 

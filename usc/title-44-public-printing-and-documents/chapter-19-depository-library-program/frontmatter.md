@@ -4,7 +4,7 @@ Sec.
 
 1901. Definition of Government publication.
 
-1902. Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Printing Office.
+1902. Availability of Government publications through Superintendent of Documents; lists of publications not ordered from Government Publishing Office.
 
 1903. Distribution of publications to depositories; notice to Government components; cost of printing and binding.
 
@@ -28,13 +28,19 @@ Sec.
 
 1913. Appropriations for supplying depository libraries; restriction.
 
-1914. Implementation of depository library program by Public Printer.
+1914. Implementation of depository library program by Director of the Government Publishing Office.
 
 1915. Highest State appellate court libraries as depository libraries.
 
 1916. Designation of libraries of accredited law schools as depository libraries.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 1914.
+
+#### Change of Name ####
+
+"Government Publishing Office" substituted for "Government Printing Office" in item 1902 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 **1978**—Pub. L. 95–261, §2, Apr. 17, 1978, 92 Stat. 199, added item 1916.
 

@@ -80,7 +80,7 @@ Sec.
 
 1339. Printing of the President's message. 1
 
-1340. Public Printer: annual report.
+1340. Director of the Government Publishing Office: annual report.
 
 1341. Smithsonian Institution: report.
 
@@ -91,6 +91,8 @@ Sec.
 1344. Treasury Department: reports.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 1340.
 
 **2008**—Pub. L. 110–417, [div. A], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575, substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in item 1336.
 

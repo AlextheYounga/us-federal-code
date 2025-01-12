@@ -14,13 +14,17 @@ For the purpose of carrying out each such compilation and preparation, the Parli
 
 (1) subject to the approval of the Speaker, appoint (as employees of the House of Representatives) clerical and other personnel and fix their respective rates of pay; and
 
-(2) utilize the services of personnel of the Library of Congress and the Government Printing Office.
+(2) utilize the services of personnel of the Library of Congress and the Government Publishing Office.
 
-(Pub. L. 91–510, title III, §331, Oct. 26, 1970, 84 Stat. 1186.)
+(Pub. L. 91–510, title III, §331, Oct. 26, 1970, 84 Stat. 1186; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text ####
 
 The Legislative Branch Appropriation Act, 1966, referred to in subsec. (a), is Pub. L. 89–90, July 27, 1965, 79 Stat. 265. For complete classification of this Act to the Code, see Tables.
+
+#### Change of Name ####
+
+"Government Publishing Office" substituted for "Government Printing Office" in subsec. (c)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date ####
 

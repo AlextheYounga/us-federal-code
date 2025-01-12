@@ -46,7 +46,7 @@ Sec.
 
 #### Part F—Study ####
 
-1371. Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress.
+1371. Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress.
 
 #### SUBCHAPTER III—OFFICE OF COMPLIANCE ####
 

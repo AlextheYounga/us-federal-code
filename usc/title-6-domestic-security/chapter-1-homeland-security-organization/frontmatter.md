@@ -60,6 +60,8 @@ Sec.
 
 124m. Classified Information Advisory Officer.
 
+125. Annual report on intelligence activities of the Department of Homeland Security.
+
 #### Part B—Critical Infrastructure Information ####
 
 131. Definitions.

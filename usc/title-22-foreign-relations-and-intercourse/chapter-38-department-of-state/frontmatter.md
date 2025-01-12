@@ -44,7 +44,7 @@ Sec.
 
 2659. State statutes to be procured.
 
-2660. Copies of treaties furnished to Public Printer.
+2660. Copies of treaties furnished to Director of the Government Publishing Office.
 
 2661. Procurement of information for corporations, firms and individuals; expense of cablegrams and telephone service involved; appropriation.
 

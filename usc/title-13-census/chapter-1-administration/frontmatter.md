@@ -16,7 +16,7 @@ Sec.
 
 6. Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources.
 
-7. Printing; requisitions upon Public Printer; publication of bulletins and reports.
+7. Printing; requisitions upon Director of the Government Publishing Office; publication of bulletins and reports.
 
 8. Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received.
 
@@ -63,6 +63,10 @@ Sec.
 **1962**—Pub. L. 87–489, §1(b), June 19, 1962, 76 Stat. 104, added item 14.
 
 **1957**—Pub. L. 85–207, §1, Aug. 28, 1957, 71 Stat. 481, inserted ", acquisition of reports from governmental and other sources" in item 6, and added items 12, 13 and 26.
+
+#### Change of Name ####
+
+"Director of the Government Publishing Office" substituted for "Public Printer" in item 7 on authority of section 1301(d) of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2537, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 [<sup>1</sup> Section repealed by Pub. L. 86–682 without corresponding amendment of chapter analysis.](#CHAPTER1_1)
 

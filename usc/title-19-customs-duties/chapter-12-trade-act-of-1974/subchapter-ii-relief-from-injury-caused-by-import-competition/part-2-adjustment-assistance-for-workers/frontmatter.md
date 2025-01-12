@@ -1,5 +1,23 @@
 ### Part 2—Adjustment Assistance for Workers ###
 
+#### Applicability of Provisions During Calendar Year 2015 ####
+
+Pub. L. 113–235, div. B, title V, §541, Dec. 16, 2014, 128 Stat. 2217, provided that:
+
+"(a) In General.—During the period beginning on January 1, 2015, and ending on December 31, 2015, the provisions of chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) [part 3 of this subchapter], as in effect on December 31, 2014, shall apply, except that in applying and administering such provisions, section 256(b) of that Act [19 U.S.C. 2346(b)] shall be applied and administered by substituting '$16,000,000 for the period beginning on January 1, 2015, and ending December 31, 2015' for '$16,000,000 for each of fiscal years 2003 through 2007, and $4,000,000 for the 3-month period beginning on October 1, 2007'.
+
+"(b) Termination.—During the period beginning on January 1, 2015, and ending on December 31, 2015, section 285 of the Trade Act of 1974 [Pub. L. 93–618] (19 U.S.C. 2271 note [prec.]) [set out as a Termination Date note below], as in effect on December 31, 2014, shall apply, except that in applying and administering that section, subsection (b) of that section shall be applied and administered as if paragraph (1) read as follows:
+
+" '(1) Assistance for firms.—
+
+" '(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 [part 3 of this subchapter] after December 31, 2015.
+
+" '(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2015, may be provided—
+
+" '(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+" '(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance.'."
+
 #### Effective and Termination Dates of 2011 Revival ####
 
 Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, provided that:
@@ -157,6 +175,18 @@ Pub. L. 93–618, title II, ch. 5, §285, formerly §284, Jan. 3, 1975, 88 Stat.
 "(i) to the extent funds are available pursuant to such chapter for such purpose; and
 
 "(ii) to the extent the recipient of the technical or financial assistance is otherwise eligible to receive such technical or financial assistance, as the case may be."
+
+[Pub. L. 113–235, div. B, title V, §541(b), Dec. 16, 2014, 128 Stat. 2217, provided that, during the period beginning on Jan. 1, 2015, and ending on Dec. 31, 2015, section 285 of Pub. L. 93–618, set out above, as in effect on Dec. 31, 2014, shall apply, except that subsec. (b) of that section shall be applied and administered as if par. (1) read as follows:
+
+["(1) Assistance for firms.—
+
+["(A) In general.—Except as provided in subparagraph (B), assistance may not be provided under chapter 3 [part 3 of this subchapter] after December 31, 2015.
+
+["(B) Exception.—Notwithstanding subparagraph (A), any assistance approved under chapter 3 on or before December 31, 2015, may be provided—
+
+["(i) to the extent funds are available pursuant to such chapter for such purpose; and
+
+["(ii) to the extent the recipient of the assistance is otherwise eligible to receive such assistance."]
 
 [Pub. L. 112–40, title II, §233(a), Oct. 21, 2011, 125 Stat. 416, provided that, beginning Jan. 1, 2014, subject to section 233(b), set out as an Effective and Termination Dates of 2011 Revival note above, section 285 of Pub. L. 93–618, set out above, as in effect on Feb. 13, 2011, shall be applied and administered—
 

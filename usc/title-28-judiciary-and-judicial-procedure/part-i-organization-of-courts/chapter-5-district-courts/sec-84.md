@@ -12,7 +12,7 @@ Court for the Northern District shall be held at Eureka, Oakland, San Francisco,
 
 (b) The Eastern District comprises the counties of Alpine, Amador, Butte, Calaveras, Colusa, El Dorado, Fresno, Glenn, Inyo, Kern, Kings, Lassen, Madera, Mariposa, Merced, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Yolo, and Yuba.
 
-Court for the Eastern District shall be held at Fresno, Redding, and Sacramento.
+Court for the Eastern District shall be held at Bakersfield, Fresno, Redding, and Sacramento.
 
 ### Central District ###
 
@@ -36,7 +36,7 @@ Court for the Southern Division shall be held at Santa Ana.
 
 Court for the Southern District shall be held at San Diego.
 
-(June 25, 1948, ch. 646, 62 Stat. 875; Pub. L. 89–372, §3(a), Mar. 18, 1966, 80 Stat. 75; Pub. L. 96–462, §2, Oct. 15, 1980, 94 Stat. 2053; Pub. L. 102–357, §2, Aug. 26, 1992, 106 Stat. 958.)
+(June 25, 1948, ch. 646, 62 Stat. 875; Pub. L. 89–372, §3(a), Mar. 18, 1966, 80 Stat. 75; Pub. L. 96–462, §2, Oct. 15, 1980, 94 Stat. 2053; Pub. L. 102–357, §2, Aug. 26, 1992, 106 Stat. 958; Pub. L. 113–235, div. E, title III, §307, Dec. 16, 2014, 128 Stat. 2352.)
 
 #### Historical and Revision Notes ####
 
@@ -47,6 +47,8 @@ A provision relating to the place for maintenance of a clerk's office, and requi
 Changes in arrangement and phraseology were made.
 
 #### Amendments ####
+
+**2014**—Subsec. (b). Pub. L. 113–235 inserted "Bakersfield," after "shall be held at".
 
 **1992**—Subsec. (c). Pub. L. 102–357 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Central District comprises the counties of Los Angeles, Orange, Riverside, San Bernardino, San Luis Obispo, Santa Barbara, and Ventura.
 

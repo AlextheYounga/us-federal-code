@@ -6,11 +6,11 @@ Any interest or other charges paid to the United States by reason of the late pa
 
 #### (b) Effective date ####
 
-Subsection (a) of this section shall apply with respect to any interest, or other charge referred to in subsection (a) of this section, which is paid to the United States on or after July 1, 1988.
+Subsection (a) shall apply with respect to any interest, or other charge referred to in subsection (a), which is paid to the United States on or after July 1, 1988.
 
 #### (c) Prohibition against recoupment ####
 
-Any interest, or other charge referred to in subsection (a) of this section, which was paid to the United States before July 1, 1988, and distributed to any State or other recipient is hereby deemed to be authorized and approved as of the date of payment or distribution, and no part of any such payment or distribution shall be recouped from the State or other recipient. This subsection shall not apply to interest or other charges paid in connection with any royalty, rent, bonus, or other amount determined not to be owing to the United States.
+Any interest, or other charge referred to in subsection (a), which was paid to the United States before July 1, 1988, and distributed to any State or other recipient is hereby deemed to be authorized and approved as of the date of payment or distribution, and no part of any such payment or distribution shall be recouped from the State or other recipient. This subsection shall not apply to interest or other charges paid in connection with any royalty, rent, bonus, or other amount determined not to be owing to the United States.
 
 (Pub. L. 100–524, §7, Oct. 24, 1988, 102 Stat. 2607.)
 

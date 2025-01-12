@@ -100,6 +100,8 @@ Sec.
 
 2152h. Assistance to provide safe water, sanitation, and hygiene.
 
+2152i. Small Grants Program.
+
 #### Part II—Other Programs ####
 
 #### subpart i—multilateral and regional development programs ####
@@ -419,6 +421,8 @@ Sec.
 2321k. Designation of major non-NATO allies.
 
 2321l to 2322. Repealed or Transferred.
+
+2323. Transfer of defense articles or services.
 
 #### Part III—Foreign Military Sales ####
 

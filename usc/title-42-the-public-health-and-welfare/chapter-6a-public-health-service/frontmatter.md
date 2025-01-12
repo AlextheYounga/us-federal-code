@@ -1232,7 +1232,7 @@ Sec.
 
 287c–11. Dietary supplements.
 
-#### subpart 5—national center for complementary and alternative medicine ####
+#### subpart 5—national center for complementary and integrative health ####
 
 287c–21. Purpose of Center.
 

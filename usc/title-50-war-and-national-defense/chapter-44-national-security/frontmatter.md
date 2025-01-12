@@ -66,6 +66,8 @@ Sec.
 
 3043. Annual national security strategy report.
 
+3043a. National intelligence strategy.
+
 3044. Software licensing.
 
 3045. National mission of National Geospatial-Intelligence Agency.
@@ -105,6 +107,8 @@ Sec.
 3072a. Reports on exercise of authority.
 
 3073. Advisory committees; appointment; compensation of part-time personnel; applicability of other laws.
+
+3073a. Reporting of certain employment activities by former intelligence officers and employees.
 
 3074. Authorization of appropriations.
 
@@ -155,6 +159,8 @@ Sec.
 3108. Auditability of certain elements of the intelligence community.
 
 3109. Significant interpretations of law concerning intelligence activities.
+
+3110. Annual report on violations of law or executive order.
 
 #### SUBCHAPTER IV—PROTECTION OF CERTAIN NATIONAL SECURITY INFORMATION ####
 
