@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2021 Amendment ####
 
+Pub. L. 117–59, §1, Nov. 18, 2021, 135 Stat. 1468, provided that: "This Act [amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under section 1114 of this title] may be cited as the 'Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act'."
+
 Pub. L. 116–309, §1, Jan. 5, 2021, 134 Stat. 4922, provided that: "This Act [enacting section 41312 of Title 34, Crime Control and Law Enforcement, amending section 116 of this title, and enacting provisions set out as notes under section 116 of this title] may be cited as the 'Strengthening the Opposition to Female Genital Mutilation Act of 2020' or the 'STOP FGM Act of 2020'."
 
 #### Short Title of 2020 Amendment ####

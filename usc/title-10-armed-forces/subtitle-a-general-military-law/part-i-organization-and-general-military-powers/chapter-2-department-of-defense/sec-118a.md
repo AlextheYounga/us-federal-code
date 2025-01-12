@@ -1,70 +1,28 @@
-### §118a.<sup><a href="#118a_1_target" name="118a_1">1</a></sup> Quadrennial quality of life review ###
+### §118a.<sup><a href="#118_1_target" name="118_1">1</a></sup> National Defense Sustainment and Logistics Review ###
 
-(a) Review Required.—(1) The Secretary of Defense shall every four years conduct a comprehensive examination of the quality of life of the members of the armed forces (to be known as the "quadrennial quality of life review"). The review shall include examination of the programs, projects, and activities of the Department of Defense, including the morale, welfare, and recreation activities.
+(a) Review Required.—Upon submission of each national defense strategy under section 113(g) of this title, the Secretary of Defense shall conduct a comprehensive review of the sustainment and logistics requirements necessary to support the force structure, force modernization, infrastructure, force deployment capabilities, and other elements of the defense program and policies of the United States during the subsequent 5-, 10-, and 25-year periods. Each such review shall be known as the 'National Defense Sustainment and Logistics Review'. Each such review shall be conducted in consultation with the Secretaries of the military departments, the Chiefs of Staff of the Armed Forces, all functional and geographic combatant commanders, and the Director of the Defense Logistics Agency.
 
-(2) The quadrennial quality of life review shall be designed to result in determinations, and to foster policies and actions, that reflect the priority given the quality of life of members of the armed forces as a primary concern of the Department of Defense leadership.
+(b) Report to Congress.—(1) Not later than the first Monday in February of the year following the fiscal year during which the National Defense Strategy was submitted under section 113(g) of this title, the Secretary shall submit to the congressional defense committees a report on the review required by subsection (a). Each such report shall include each of the following:
 
-(b) Conduct of Review.—Each quadrennial quality of life review shall be conducted so as—
+(A) An assessment of the strategic, operational, and tactical maritime logistics force (including non-military assets provided by Military Sealift Command, the Maritime Administration, and through the Voluntary Intermodal Sealift Agreement and Voluntary Tanker Agreement) required to support sealift, at sea logistics, and over-the-shore logistics of forces to meet steady state and contingency requirements and the strategic and intra-theater movement of supplies, personnel, and equipment.
 
-(1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 3043);
+(B) An assessment of the strategic, operational, and tactical airlift and tankers (including non-military assets provided by the Civil Reserve Air Fleet) required to meet steady state and contingency requirements.
 
-(2) to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessary to encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
+(C) An assessment of the location, configuration, material condition, and inventory of prepositioned materiel, equipment, and war reserves programs, as well as the ability to store and distribute these items to deployed military forces, required to meet steady state and contingency requirements.
 
-(3) to identify other actions that have the potential for improving the quality of life of the members of the armed forces.
+(D) An assessment of the location, infrastructure, and storage capacity for petroleum, oil, and lubricant products, as well as the ability to store, transport, and distribute such products from storage supply points to deployed military forces, required to meet steady state and contingency requirements.
 
-(c) Considerations.—The Secretary shall consider addressing the following matters as part of the quadrennial quality of life review:
+(E) An assessment of the capabilities, capacity, and infrastructure of the Department of Defense organic industrial base and private sector industrial base required to meet steady-state and surge software and depot maintenance requirements.
 
-(1) Infrastructure.
+(F) An assessment of the production capability, capacity, and infrastructure, of the Department of Defense organic industrial base and private sector industrial base required to meet steady-state and surge production requirements for ammunition and other military munitions.
 
-(2) Military construction.
+(G) An assessment of the condition, capacity, location, and survivability under likely threats of military infrastructure located both inside the continental United States and outside the continental United States, including agreements with and infrastructure provided by international partners, required to generate, project, and sustain military forces to meet steady-state and contingency requirements.
 
-(3) Physical conditions at military installations and other Department of Defense facilities.
+(H) An assessment of the cybersecurity risks to military and commercial logistics networks and information technology systems.
 
-(4) Budget plans.
+(I) An assessment of the gaps between the requirements identified under subparagraphs (A) through (H) compared to the actual force structure and infrastructure capabilities, capacity, and posture and the risks associated with each gap as it relates to the ability to meet the national defense strategy.
 
-(5) Adequacy of medical care for members of the armed forces and their dependents.
-
-(6) Adequacy of housing and the basic allowance for housing and basic allowance for subsistence.
-
-(7) Housing-related utility costs.
-
-(8) Educational opportunities and costs.
-
-(9) Length of deployments.
-
-(10) Rates of pay and pay differentials between the pay of members and the pay of civilians.
-
-(11) Retention and recruiting efforts.
-
-(12) Workplace safety.
-
-(13) Support services for spouses and children.
-
-(14) Other elements of Department of Defense programs and Government policies and programs that affect the quality of life of members.
-
-(d) Submission to Congressional Committees.—(1) The Secretary shall submit a report on each quadrennial quality of life review to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include the following:
-
-(A) The assumptions used in the review.
-
-(B) The results of the review, including a comprehensive discussion of how the quality of life of members of the armed forces affects the national security strategy of the United States.
-
-(2) The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31.
-
-(Added Pub. L. 107–314, div. A, title V, §581(a)(1), Dec. 2, 2002, 116 Stat. 2559; amended Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508.)
-
-#### Amendments ####
-
-**2014**—Subsec. (b)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
-
-#### Termination of Reporting Requirements ####
-
-For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
-
-#### First Quadrennial Quality of Life Review ####
-
-Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
-
-[<sup>1</sup> Another section 118a is set out preceding this section.](#118a_1)e year as the report and the applicable future-years defense program.
+(J) A discussion of the identified mitigations being pursued to address each gap and risk identified under subparagraph (I) as well as the initiatives and resources planned to address such gaps, as included in the Department of Defense budget request submitted during the same year as the report and the applicable future-years defense program.
 
 (K) An assessment of the extent to which wargames incorporate logistics capabilities and threats and a description of the logistics constraints and restraints to operations identified through such wargames.
 
