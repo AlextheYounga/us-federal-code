@@ -100,6 +100,38 @@ Sec.
 
 1174. Liquidation.
 
+#### SUBCHAPTER V—SMALL BUSINESS DEBTOR REORGANIZATION ####
+
+1181. Inapplicability of other sections.
+
+1182. Definitions.
+
+1183. Trustee.
+
+1184. Rights and powers of a debtor in possession.
+
+1185. Removal of debtor in possession.
+
+1186. Property of the estate.
+
+1187. Duties and reporting requirements of debtors.
+
+1188. Status conference.
+
+1189. Filing of the plan.
+
+1190. Contents of plan.
+
+1191. Confirmation of plan.
+
+1192. Discharge.
+
+1193. Modification of plan.
+
+1194. Payments.
+
+1195. Transactions with professionals.
+
 #### Historical and Revision Notes ####
 
 #### legislative statements ####
@@ -161,6 +193,8 @@ In summary, it has been the experience of the great majority of those who have t
 Having discussed the general reasons why chapter 11 of the House amendment is sorely needed, a brief discussion of the differences between the House bill, Senate amendment, and the House amendment, is in order. Since chapter 11 of the House amendment rejects the concept of separate treatment for a public company, sections 1101(3), 1104(a), 1125(f), 1128, and 1130(a)(7) of the Senate amendment have been deleted.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–54, §2(b), Aug. 23, 2019, 133 Stat. 1084, added subchapter V heading and items 1181 to 1195.
 
 **2005**—Pub. L. 109–8, title III, §321(a)(2), title IV, §436(b), Apr. 20, 2005, 119 Stat. 95, 113, added items 1115 and 1116.
 

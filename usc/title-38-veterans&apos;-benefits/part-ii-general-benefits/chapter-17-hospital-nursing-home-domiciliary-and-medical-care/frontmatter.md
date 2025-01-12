@@ -8,7 +8,7 @@ Sec.
 
 1702. Presumptions: psychosis after service in World War II and following periods of war; mental illness following service in the Persian Gulf War.
 
-1703. Contracts for hospital care and medical services in non-Department facilities.
+1703. Veterans Community Care Program.
 
 1703A. Agreements with eligible entities or providers; certification processes.
 

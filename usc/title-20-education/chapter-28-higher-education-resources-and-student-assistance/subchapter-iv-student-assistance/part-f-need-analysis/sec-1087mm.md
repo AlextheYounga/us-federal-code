@@ -46,7 +46,7 @@ Notwithstanding any other provision of law, unless the Secretary establishes an 
 
 #### (4) Treatment of Pell amount ####
 
-Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796d–1),<sup><a href="#1087mm_1_target" name="1087mm_1">1</a></sup> in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student's educational assistance benefits under the Public Safety Officers' Benefits program under subpart 2 of part L of title I of such Act.<sup><a href="#1087mm_1_target" name="1087mm_1">1</a></sup> See References in Text note below.
+Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796d–1),<sup><a href="#1087mm_1_target" name="1087mm_1">1</a></sup> in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student's educational assistance benefits under the Public Safety Officers' Benefits program under subpart 2 of part L of title I of such Act.
 
 #### (5) Definition of public safety officer ####
 
@@ -78,7 +78,7 @@ The Omnibus Crime Control and Safe Streets Act of 1968 and such Act, referred to
 
 Subsec. (b)(2)(B). Pub. L. 115–141, §317(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "whose parent or guardian was a member of the Armed Forces of the United States and died as a result of performing military service in Iraq or Afghanistan after September 11, 2001; and".
 
-Subsec. (b)(3). Pub. L. 115–141, §317(2), designated existing provisions as subpar. (A), inserted heading, substituted "subparagraphs (A), (B)(i), and (C) of paragraph (2)" for paragraph (2)", and added subpar. (B).
+Subsec. (b)(3). Pub. L. 115–141, §317(2), designated existing provisions as subpar. (A), inserted heading, substituted "subparagraphs (A), (B)(i), and (C) of paragraph (2)" for "paragraph (2)", and added subpar. (B).
 
 Subsec. (b)(4), (5). Pub. L. 115–141, §317(3), added pars. (4) and (5).
 
@@ -103,3 +103,5 @@ Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. 
 #### Effective Date of 1992 Amendment ####
 
 Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
+
+[<sup>1</sup> See References in Text note below.](#1087mm_1)

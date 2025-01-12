@@ -274,6 +274,10 @@ Subsec. (j)(2) to (4). Pub. L. 115–118, §108(a), added par. (2) and redesigna
 
 **2007**—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
+#### Change of Name ####
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2007 Amendment ####
 
 Pub. L. 110–53, title VIII, §801(d), Aug. 3, 2007, 121 Stat. 358, provided that:

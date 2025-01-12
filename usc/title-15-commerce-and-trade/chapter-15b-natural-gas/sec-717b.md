@@ -96,7 +96,7 @@ Enforcement functions of Secretary or other official in Department of Energy and
 
 Functions of President respecting certain facilities constructed and maintained on United States borders delegated to Secretary of State, see Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, set out as a note under section 301 of Title 3, The President.
 
-#### Ex. Ord. No. 10485. Performance of Functions Respecting Electric Power and Natural Gas Facilities Located on United States Borders ####
+#### Ex. Ord. No. 10485. Providing for the Performance of Certain Functions Heretofore Performed by the President With Respect to Electric Power and Natural Gas Facilities Located on the Borders of the United States ####
 
 Ex. Ord. No. 10485. Sept. 3, 1953, 18 F.R. 5397, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, provided:
 

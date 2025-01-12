@@ -159,3 +159,7 @@ There is authorized to be appropriated $10,000,000 to carry out this subsection 
 Section is comprised of section 7102 of Pub. L. 115–271. Subsec. (a) of section 7102 of Pub. L. 115–271 amended section 290bb–7 of this title.
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Change of Name ####
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.

@@ -53,3 +53,7 @@ The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L
 Section was formerly set out in a note under section 1070 of this title.
 
 Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
+
+#### Change of Name ####
+
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.

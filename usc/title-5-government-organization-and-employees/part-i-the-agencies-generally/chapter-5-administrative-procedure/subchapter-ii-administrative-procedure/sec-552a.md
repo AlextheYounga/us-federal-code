@@ -522,7 +522,7 @@ Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2014 Amendment ####
 
@@ -605,6 +605,26 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (s) 
 #### Delegation of Functions ####
 
 Functions of Director of Office of Management and Budget under this section delegated to Administrator for Office of Information and Regulatory Affairs by section 3 of Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2825, set out as a note under section 3503 of Title 44, Public Printing and Documents.
+
+#### OMB Guidance on Electronic Consent and Access Forms ####
+
+Pub. L. 116–50, §3, Aug. 22, 2019, 133 Stat. 1073, provided that:
+
+"(a) Guidance.—Not later than 1 year after the date of the enactment of this Act [Aug. 22, 2019], the Director shall issue guidance that does the following:
+
+"(1) Requires each agency to accept electronic identity proofing and authentication processes for the purposes of allowing an individual to provide prior written consent for the disclosure of the individual's records under section 552a(b) of title 5, United States Code, or for individual access to records under section 552a(d) of such title.
+
+"(2) Creates a template for electronic consent and access forms and requires each agency to post the template on the agency website and to accept the forms from any individual properly identity proofed and authenticated in accordance with paragraph (1) for the purpose of authorizing disclosure of the individual's records under section 552a(b) of title 5, United States Code, or for individual access to records under section 552a(d) of such title.
+
+"(3) Requires each agency to accept the electronic consent and access forms described in paragraph (2) from any individual properly identity proofed and authenticated in accordance with paragraph (1) for the purpose of authorizing disclosure of the individual's records to another entity, including a congressional office, in accordance with section 552a(b) of title 5, United States Code, or for individual access to records under section 552a(d) [of such title].
+
+"(b) Agency Compliance.—Each agency shall comply with the guidance issued pursuant to subsection (a) not later than 1 year after the date on which such guidance is issued.
+
+"(c) Definitions.—In this section:
+
+"(1) Agency; individual; record.—The terms 'agency', 'individual', and 'record' have the meanings given those terms in section 552a(a) of title 5, United States Code.
+
+"(2) Director.—The term 'Director' means the Director of the Office of Management and Budget."
 
 #### Extension of Privacy Act Remedies to Citizens of Designated Countries ####
 
@@ -708,7 +728,7 @@ Pub. L. 101–366, title II, §206(d), Aug. 15, 1990, 104 Stat. 442, provided th
 
 #### Implementation Guidance for 1988 Amendments ####
 
-Pub. L. 100–503, §6(b), Oct. 18, 1988, 102 Stat. 2513, provided that: "The Director shall, pursuant to section 552a(v) of title 5, United States Code, develop guidelines and regulations for the use of agencies in implementing the amendments made by this Act [amending this section and repealing provisions set out as a note below] not later than 8 months after the date of enactment of this Act [Oct. 18, 1988]."
+Pub. L. 100–503, §6(b), Oct. 18, 1988, 102 Stat. 2513, required the Director, pursuant to section 552a(v) of this title, to develop guidelines and regulations for the use of agencies in implementing amendments made by Pub. L. 100–503 not later than 8 months after Oct. 18, 1988.
 
 #### Construction of 1988 Amendments ####
 

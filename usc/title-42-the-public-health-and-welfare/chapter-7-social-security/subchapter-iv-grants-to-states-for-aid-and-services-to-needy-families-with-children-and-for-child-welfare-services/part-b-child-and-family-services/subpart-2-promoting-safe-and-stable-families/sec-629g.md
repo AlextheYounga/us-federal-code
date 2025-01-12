@@ -300,7 +300,7 @@ The Secretary, in consultation with the Secretariat for the Interstate Compact o
 
 (A) connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
 
-(B) simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being a sex trafficking victim or children missing from foster care; and
+(B) simplifying and improving reporting related to paragraphs (34) and (35) of section 671(a) of this title regarding children or youth who have been identified as being a sex trafficking victim <sup><a href="#629g_2_target" name="629g_2">2</a></sup> or children missing from foster care; and
 
 (C) improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
 
@@ -451,3 +451,5 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
 
 [<sup>1</sup> So in original. Probably should be "subsection".](#629g_1)
+
+[<sup>2</sup> So in original. Probably should be "being sex trafficking victims".](#629g_2)

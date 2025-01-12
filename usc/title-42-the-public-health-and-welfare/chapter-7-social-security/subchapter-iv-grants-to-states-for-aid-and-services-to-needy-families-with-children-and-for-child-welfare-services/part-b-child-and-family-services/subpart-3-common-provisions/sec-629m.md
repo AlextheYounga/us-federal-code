@@ -46,7 +46,7 @@ Pub. L. 112–34, title I, §105(b), Sept. 30, 2011, 125 Stat. 377, provided tha
 
 Pub. L. 115–123, div. E, title VII, §50771(b), Feb. 9, 2018, 132 Stat. 268, provided that: "Not later than the date that is 24 months after the date of the enactment of this section [Feb. 9, 2018], the Secretary of Health and Human Services shall issue a proposed rule that—
 
-"(1) identifies federally required data exchanges, include specification and timing of exchanges to be standardized, and address the factors used in determining whether and when to standardize data exchanges; and
+"(1) identifies federally required data exchanges, include [sic] specification and timing of exchanges to be standardized, and address [sic] the factors used in determining whether and when to standardize data exchanges; and
 
 "(2) specifies State implementation options and describes future milestones."
 

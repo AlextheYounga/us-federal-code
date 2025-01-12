@@ -98,7 +98,7 @@ With respect to cord blood, the Program shall—
 
 #### (B) Efforts to increase collection of high quality cord blood units ####
 
-In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units, consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the "inventory goal"), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection, consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
+In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units,<sup><a href="#274k_1_target" name="274k_1">1</a></sup> consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the "inventory goal"), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection,<sup><a href="#274k_1_target" name="274k_1">1</a></sup> consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
 
 #### (C) Definition ####
 
@@ -316,7 +316,9 @@ Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in 
 
 #### Amendments ####
 
-**2015**—Subsec. (d)(2)(B). Pub. L. 114–104 substituted "collection of high quality cord blood units, including remote collection," for "remote collection of high quality cord blood units,".
+**2015**—Subsec. (d)(2)(B). Pub. L. 114–104, §2(a)(2), which directed insertion of "including remote collection," after "cord blood units,", was executed by making the insertion after "cord blood units," the second place appearing.
+
+Pub. L. 114–104, §2(a)(1), substituted "expanding collection" for "expanding remote collection".
 
 **2010**—Subsec. (a)(6). Pub. L. 111–264, §2(b)(1), added par. (6) and struck out former par. (6) which read as follows: "The Secretary, acting through the Advisory Council, shall submit to the Congress—
 
@@ -471,3 +473,5 @@ Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptrol
 #### Compliance With New Requirements for Office of Patient Advocacy ####
 
 Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that with respect to requirements for the office of patient advocacy under subsec. (d) of this section, the Secretary of Health and Human Services was to ensure that, not later than 180 days after Oct. 1, 1998, such office was in compliance with all requirements that were additional to the requirements under this section in effect with respect to patient advocacy on the day before July 16, 1998.
+
+[<sup>1</sup> See 2015 Amendment note below.](#274k_1)

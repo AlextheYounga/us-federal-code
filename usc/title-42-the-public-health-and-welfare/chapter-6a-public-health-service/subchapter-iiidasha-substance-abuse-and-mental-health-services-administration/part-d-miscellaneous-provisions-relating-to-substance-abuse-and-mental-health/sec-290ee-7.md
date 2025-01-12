@@ -106,7 +106,7 @@ With respect to a grant awarded under subsection (a), not later than 90 days aft
 
 (3) the retention rate of program participants; and
 
-(4) any other information that the Secretary may require for the purpose of—ensuring that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
+(4) any other information that the Secretary may require for the purpose of—ensuring <sup><a href="#290ee-7_1_target" name="290ee-7_1">1</a></sup> that the Center is complying with all the requirements of the grant, including providing the full continuum of services described in subsection (g)(1)(B).
 
 #### (i) Privacy ####
 
@@ -123,3 +123,5 @@ There is authorized to be appropriated $10,000,000 for each of fiscal years 2019
 Section 2 of the Expanding Capacity for Health Outcomes Act, referred to in subsec. (f), is section 2 of Pub. L. 114–270, Dec. 14, 2016, 130 Stat. 1395, which is not classified to the Code.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+
+[<sup>1</sup> So in original.](#290ee-7_1)

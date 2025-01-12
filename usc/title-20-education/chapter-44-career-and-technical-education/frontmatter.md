@@ -38,7 +38,7 @@ Sec.
 
 2327. Tribally controlled postsecondary career and technical institutions.
 
-2328. Occupational and employment information.
+2328. Repealed.
 
 #### Part B—State Provisions ####
 
@@ -58,25 +58,11 @@ Sec.
 
 2353. Special rules for career and technical education.
 
-2354. Local plan for career and technical education programs.
+2354. Local application for career and technical education programs.
 
 2355. Local uses of funds.
 
-#### SUBCHAPTER II—TECH PREP EDUCATION ####
-
-2371. State allotment and application.
-
-2372. Consolidation of funds.
-
-2373. Tech prep program.
-
-2374. Consortium applications.
-
-2375. Report.
-
-2376. Authorization of appropriations.
-
-#### SUBCHAPTER III—GENERAL PROVISIONS ####
+#### SUBCHAPTER II—GENERAL PROVISIONS ####
 
 #### Part A—Federal Administrative Provisions ####
 
