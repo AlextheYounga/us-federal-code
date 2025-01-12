@@ -12,7 +12,7 @@ The Council shall advise the Secretary with respect to the preparation and imple
 
 The Council shall be subject to—
 
-(1) the Federal Advisory Committee Act (5 U.S.C. App.); and
+(1) the Federal Advisory Committee Act (5 U.S.C. App.); <sup><a href="#460dddd-2_1_target" name="460dddd-2_1">1</a></sup> and
 
 (2) section 1739 of title 43.
 
@@ -43,3 +43,5 @@ The Council shall include 7 members, to be appointed by the Secretary, of whom, 
 The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 This part, referred to in subsec. (d)(4), is part II (§§1211–1255) of subtitle C of title I of Pub. L. 116–9, Mar. 12, 2019, 133 Stat. 667, which enacted this subchapter, amended section 1274 of this title, enacted provisions set out as notes under section 1274 of this title, and enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title and in a table of National Monuments set out under section 320301 of Title 54, National Parks Service and Related Programs.
+
+[<sup>1</sup> See References in Text note below.](#460dddd-2_1)

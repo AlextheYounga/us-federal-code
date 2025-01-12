@@ -1,1 +1,1 @@
-### Part A—Supporting Early-career Researchers ###
+### Part A—Supporting Early-Career Researchers ###

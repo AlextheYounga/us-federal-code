@@ -16,9 +16,9 @@ No grant may be made under this part or contract entered into under section 274 
 
 (1) The Secretary shall determine the amount of a grant or contract made under section 273 or 274a of this title. Payments under such grants and contracts may be made in advance on the basis of estimates or by the way of reimbursement, with necessary adjustments on account of underpayments or overpayments, and in such installments and on such terms and conditions as the Secretary finds necessary to carry out the purposes of such grants and contracts.
 
-(2)(A) Each recipient of a grant or contract under section 273 or 274a of this title shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant or contract, the total cost of the undertaking in connection with which such grant or contract was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(2)(A) Each recipient of a grant or contract under section 273, 274, or 274a of this title shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant or contract, the total cost of the undertaking in connection with which such grant or contract was made, and the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
-(B) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant or contract under section 273 or 274a of this title that are pertinent to such grant or contract.
+(B) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant or contract under section 273, 274, or 274a of this title that are pertinent to such grant or contract.
 
 #### (d) "Transplant center" and "organ" defined ####
 
@@ -28,7 +28,7 @@ For purposes of this part:
 
 (2) The term "organ" means the human kidney, liver, heart, lung, pancreas, and any other human organ (other than corneas and eyes) specified by the Secretary by regulation and for purposes of section 274a of this title, such term includes bone marrow.
 
-(July 1, 1944, ch. 373, title III, §374, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2345; amended Pub. L. 100–607, title IV, §402(b), Nov. 4, 1988, 102 Stat. 3114; Pub. L. 101–616, title II, §203, Nov. 16, 1990, 104 Stat. 3284.)
+(July 1, 1944, ch. 373, title III, §374, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2345; amended Pub. L. 100–607, title IV, §402(b), Nov. 4, 1988, 102 Stat. 3114; Pub. L. 101–616, title II, §203, Nov. 16, 1990, 104 Stat. 3284; Pub. L. 118–14, §3(2), Sept. 22, 2023, 137 Stat. 69.)
 
 #### **Editorial Notes** ####
 
@@ -37,6 +37,8 @@ For purposes of this part:
 A prior section 374 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1, 70 Stat. 961, which related to acceptance and administration of gifts to National Library of Medicine and to establishment of memorials to donors, was renumbered section 384 and classified to section 278 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments ####
+
+**2023**—Subsec. (c)(2). Pub. L. 118–14 substituted "section 273, 274, or 274a" for "section 273 or 274a" in subpars. (A) and (B).
 
 **1990**—Subsec. (a). Pub. L. 101–616, §203(1), substituted "No grant may be made under this part" for "No grant may be made under section 273 or 274a of this title".
 

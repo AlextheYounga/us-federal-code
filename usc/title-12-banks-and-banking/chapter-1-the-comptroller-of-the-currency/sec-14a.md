@@ -50,6 +50,6 @@ Pub. L. 117–263, div. E, title LVIII, §5842, Dec. 23, 2022, 136 Stat. 3432, p
 
 "(2) shall seek to minimize disruptive changes to the persons affected by those regulations."
 
-#### Rule of Construction—No New Disclosure Requirements ####
+#### Rule of Construction Regarding No New Disclosure Requirements ####
 
 Pub. L. 117–263, div. E, title LVIII, §5843, Dec. 23, 2022, 136 Stat. 3432, provided that: "Nothing in this subtitle [subtitle D (§§5841–5843) of title LVIII of div. E of Pub. L. 117–263, enacting this section and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Comptroller of the Currency to collect or make publicly available additional information under the Revised Statutes of the United States (or under any other provision of law referenced in an amendment made by this subtitle), beyond information that was collected or made publicly available under any such provision of law, as of the day before the date of enactment of this Act [Dec. 23, 2022]."

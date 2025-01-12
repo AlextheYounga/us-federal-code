@@ -8,7 +8,7 @@ The Commission shall, by rule, adopt data standards for all reports related to s
 
 The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
 
-(June 6, 1934, ch. 404, title I, §41, as added Pub. L. 117–263, div. E, title LVIII, §5821(h), Dec. 23, 2022, 136 Stat. 3426.)
+(June 6, 1934, ch. 404, title I, §41, as added Pub. L. 117–263, div. E, title LVIII, §5821(h), Dec. 23, 2022, 136 Stat. 3427.)
 
 #### **Editorial Notes** ####
 

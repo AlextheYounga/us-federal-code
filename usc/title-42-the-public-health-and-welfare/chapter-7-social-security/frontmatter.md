@@ -368,7 +368,7 @@ Sec.
 
 805. Local assistance and Tribal consistency fund.
 
-806. Rescission of funds declined by states, territories, or other governmental entities.
+806. Rescission of funds declined by States, territories, or other governmental entities.
 
 #### SUBCHAPTER VII—ADMINISTRATION ####
 

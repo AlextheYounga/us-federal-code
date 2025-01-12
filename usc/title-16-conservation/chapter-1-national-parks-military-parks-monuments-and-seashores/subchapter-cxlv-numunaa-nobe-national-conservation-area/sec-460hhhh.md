@@ -126,7 +126,7 @@ Nothing in this section creates a protective perimeter or buffer zone around the
 
 The fact that an activity or use on land outside the Conservation Area can be seen or heard within the Conservation Area shall not preclude the activity or use outside the boundary of the Conservation Area.
 
-#### (10) Military overflights ####
+#### (10) <sup><a href="#460hhhh_1_target" name="460hhhh_1">1</a></sup> Military overflights ####
 
 Nothing in this section restricts or precludes—
 
@@ -136,7 +136,7 @@ Nothing in this section restricts or precludes—
 
 (C) the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Conservation Area.
 
-#### (10) Effect on water rights ####
+#### (10) <sup><a href="#460hhhh_1_target" name="460hhhh_1">1</a></sup> Effect on water rights ####
 
 Nothing in this section constitutes an express or implied reservation of any water rights with respect to the Conservation Area.
 
@@ -147,3 +147,5 @@ Nothing in this section constitutes an express or implied reservation of any wat
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in par. (3)(A)(i)(II), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+[<sup>1</sup> So in original. Two pars. (10) have been enacted.](#460hhhh_1)

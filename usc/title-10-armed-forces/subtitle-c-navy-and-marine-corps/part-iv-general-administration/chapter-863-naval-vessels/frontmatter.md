@@ -90,7 +90,7 @@ Sec.
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–263, div. A, title I, §122(b), title X, §1026(b), Dec. 23, 2022, 136 Stat. 2443, 2767, added items 8696 "Navy shipbuilding workforce development special incentive" and "Battle force ship employment, maintenance, and manning baseline plans".
+**2022**—Pub. L. 117–263, div. A, title I, §122(b), title X, §1026(b), Dec. 23, 2022, 136 Stat. 2443, 2767, added two items 8696.
 
 **2021**—Pub. L. 117–81, div. A, title X, §§1013(b), 1014(b), 1015(a), 1016(b), 1017(b), Dec. 27, 2021, 135 Stat. 1893–1895, 1897, added items 8669c, 8678a, 8694, and 8695, and redesignated item 8692 "Biennial report on shipbuilder training and the defense industrial base" as 8693.
 
@@ -156,4 +156,4 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 
 **1981**—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 "Contracts for construction: profit limitation".
 
-[<sup>1</sup> So in original. Two sections 8696 have been enacted.](#CHAPTER863_1)
+[<sup>1</sup> So in original. Two items 8696 have been enacted.](#CHAPTER863_1)

@@ -108,4 +108,4 @@ Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, which related to coordination By
 
 #### Executive Order No. 11534 ####
 
-Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Council on Organized Crime, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Council on Organized Crime, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.

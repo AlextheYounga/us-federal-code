@@ -34,6 +34,6 @@ Pub. L. 117–263, div. E, title LVIII, §5833, Dec. 23, 2022, 136 Stat. 3431, p
 
 "(2) shall seek to minimize disruptive changes to the persons affected by those regulations."
 
-#### Rule of Construction—No New Disclosure Requirements ####
+#### Rule of Construction Regarding No New Disclosure Requirements ####
 
 Pub. L. 117–263, div. E, title LVIII, §5834, Dec. 23, 2022, 136 Stat. 3431, provided that: "Nothing in this title [probably means "this subtitle", subtitle C (§§5831–5834) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 1831dd of this title, and provisions set out as a note under this section], or the amendments made by this title, shall be construed to require the Federal Deposit Insurance Corporation to collect or make publicly available additional information under the Acts amended by this title (or under any provision of law referenced in an amendment made by this title), beyond information that was collected or made publicly available under any such provision, as of the day before the date of enactment of this Act [Dec. 23, 2022]."

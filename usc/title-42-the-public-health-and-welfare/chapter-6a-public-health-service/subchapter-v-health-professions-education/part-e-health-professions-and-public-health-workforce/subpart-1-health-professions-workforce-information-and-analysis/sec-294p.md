@@ -32,7 +32,7 @@ To carry out this section, there are authorized to be appropriated $5,000,000 fo
 
 #### Prior Provisions ####
 
-A prior section 294p, act July 1, 1944, ch. 373, title VII, §763, as added Pub. L. 106–310, div. A, title III, §301(b), Oct. 17, 2000, 114 Stat. 1111, related to pediatric rheumatologists, prior to repeal by Pub. L. 117–103, div. P, title I, §132, Mar. 15, 2022, 136 Stat. 795
+A prior section 294p, act July 1, 1944, ch. 373, title VII, §763, as added Pub. L. 106–310, div. A, title III, §301(b), Oct. 17, 2000, 114 Stat. 1111, related to pediatric rheumatologists, prior to repeal by Pub. L. 117–103, div. P, title I, §132, Mar. 15, 2022, 136 Stat. 795.
 
 Another prior section 294p, act July 1, 1944, ch. 373, title VII, §778, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2054, authorized grants and contracts to assist provision of health care in rural areas, prior to the general amendment of this part by Pub. L. 105–392.
 

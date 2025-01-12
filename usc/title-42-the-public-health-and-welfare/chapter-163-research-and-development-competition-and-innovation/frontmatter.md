@@ -284,7 +284,7 @@ Sec.
 
 #### SUBCHAPTER VI—MISCELLANEOUS SCIENCE AND TECHNOLOGY PROVISIONS ####
 
-#### Part A—Supporting Early-career Researchers ####
+#### Part A—Supporting Early-Career Researchers ####
 
 19211. Early-career research fellowship program.
 
@@ -346,7 +346,7 @@ Sec.
 
 19313. National Laboratory non-Federal employee outside employment authority.
 
-#### subpart 3—Department of energy modernization ####
+#### subpart 3—department of energy modernization ####
 
 19321. Special hiring authority for scientific, engineering, and project management personnel.
 

@@ -40,7 +40,7 @@ Another prior chapter 363, consisting of sections 3841 to 3855 relating to separ
 
 #### Prohibition on Certain Procurements From the Xinjiang Uyghur Autonomous Region ####
 
-Pub. L. 117–81, div. A, title VIII, §848, Dec. 27, 2021, 135 Stat. 1843, relating to procurement of products mined, produced, or manufactured wholly or in part by forced labor from Xinjiang Uyghur Autonomous Region of the People's Republic of China, was repealed by Pub. L. 117–263, div. A, title VIII, §855(a), Dec. 23, 2022, 136 Stat. 2723. See section 4661 of this title.
+Pub. L. 117–81, div. A, title VIII, §848, Dec. 27, 2021, 135 Stat. 1843, which related to procurement of products mined, produced, or manufactured wholly or in part by forced labor from Xinjiang Uyghur Autonomous Region of the People's Republic of China, was repealed by Pub. L. 117–263, div. A, title VIII, §855(a), Dec. 23, 2022, 136 Stat. 2723. See section 4661 of this title.
 
 #### Employment Transparency Regarding Individuals Who Perform Work in the People's Republic of China ####
 

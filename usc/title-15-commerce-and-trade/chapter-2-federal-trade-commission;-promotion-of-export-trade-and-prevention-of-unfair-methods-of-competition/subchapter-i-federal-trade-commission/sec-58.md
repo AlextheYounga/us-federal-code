@@ -18,9 +18,9 @@ Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions
 
 Pub. L. 117–103, div. Q, title I, §101, Mar. 15, 2022, 136 Stat. 809, provided that: "This title [enacting section 45e of this title, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under this section and section 45e of this title, and section 21711 of Title 34] may be cited as the 'Fraud and Scam Reduction Act'."
 
-Pub. L. 117–103, div. Q, title I, §111, Mar. 15, 2022, 136 Stat. 809, provided that: "This subtitle [amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under section 45e of this title and section 21711 of Title 34] may be cited as the 'Stop Senior Scams Act'."
+Pub. L. 117–103, div. Q, title I, §111, Mar. 15, 2022, 136 Stat. 809, provided that: "This subtitle [subtitle A (§§111, 112) of title I of div. Q of Pub. L. 117–103, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under section 45e of this title and section 21711 of Title 34] may be cited as the 'Stop Senior Scams Act'."
 
-Pub. L. 117–103, div. Q, title I, §121, Mar. 15, 2022, 136 Stat. 811, provided that: "This subtitle [enacting section 45e of this title] may be cited as the 'Seniors Fraud Prevention Act of 2022'."
+Pub. L. 117–103, div. Q, title I, §121, Mar. 15, 2022, 136 Stat. 811, provided that: "This subtitle [subtitle B (§§121, 122) of title I of div. Q of Pub. L. 117–103, enacting section 45e of this title] may be cited as the 'Seniors Fraud Prevention Act of 2022'."
 
 #### Short Title of 2021 Amendment ####
 

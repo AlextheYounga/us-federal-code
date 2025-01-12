@@ -206,9 +206,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 
 #### Physical Entrances to Certain Military Installations ####
 
-Pub. L. 117–263, div. B, title XXVIII, §2833, Dec. 23, 2022, 136 Stat. 3003, provided that:
-
-"The Secretary of Defense shall ensure that, to the extent practicable that—
+Pub. L. 117–263, div. B, title XXVIII, §2833, Dec. 23, 2022, 136 Stat. 3003, provided that: "The Secretary of Defense shall ensure that, to the extent practicable that—
 
 "(1) each military installation in the United States has a designated main entrance that, at all times, is manned by at least one member of the Armed Forces or civilian employee of the Department of Defense;
 

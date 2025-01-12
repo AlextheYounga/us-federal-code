@@ -2368,7 +2368,7 @@ Sec.
 
 #### SUBCHAPTER LIX–YY—FORT SUMTER AND FORT MOULTRIE NATIONAL HISTORICAL PARK ####
 
-410aaaa. . Fort Sumter and Fort Moultrie National Historical Park.
+410aaaa. Fort Sumter and Fort Moultrie National Historical Park.
 
 #### SUBCHAPTER LIX–ZZ—RECONSTRUCTION ERA NATIONAL HISTORICAL PARK ####
 

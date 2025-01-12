@@ -1,1 +1,1 @@
-### subpart 3—Department of energy modernization ###
+### subpart 3—department of energy modernization ###

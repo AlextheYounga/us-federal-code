@@ -212,7 +212,7 @@ The regulations of the Secretaries of the military departments concerned with re
 
 #### Ex. Ord. No. 10694. Authorizing the Secretaries of the Army, Navy, and Air Force to Issue Citations in the Name of the President of the United States to Military and Naval Units for Outstanding Performance in Action ####
 
-Ex. Ord. No. 10694, Jan. 10, 1957, 22 F.R. 253, as amended by Ex Ord. No. 13286, §74, Feb. 28, 2003, 68 F.R. 10631; Ex. Ord. No. 14085, §3, Oct. 3, 2022, 87 F.R. 60542, provided:
+Ex. Ord. No. 10694, Jan. 10, 1957, 22 F.R. 253, as amended by Ex. Ord. No. 13286, §74, Feb. 28, 2003, 68 F.R. 10631; Ex. Ord. No. 14085, §3, Oct. 3, 2022, 87 F.R. 60542, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the armed forces of the United States, it is hereby ordered as follows:
 

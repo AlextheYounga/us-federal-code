@@ -4152,7 +4152,7 @@ Pub. L. 116–260, §126(a)(3), (c), which amended subpar. (E) identically by in
 
 Subsec. (h)(9). Pub. L. 116–260, §126(a)(4), added par. (9).
 
-**2019**—Subsec. (a)(4). Pub. L. 116–94, §108(1), in introductory provisions, inserted "for cost reporting periods beginning on or after October 1, 2020, costs related to hematopoietic stem cell acquisition for the purpose of an allogeneic hematopoietic stem cell transplant (as described in subsection (d)(5)(M))," after "October 1, 1987),"
+**2019**—Subsec. (a)(4). Pub. L. 116–94, §108(1), in introductory provisions, inserted "for cost reporting periods beginning on or after October 1, 2020, costs related to hematopoietic stem cell acquisition for the purpose of an allogeneic hematopoietic stem cell transplant (as described in subsection (d)(5)(M))," after "October 1, 1987),".
 
 Subsec. (d)(4)(C)(iii). Pub. L. 116–94, §108(2)(A), inserted "or payments under paragraph (5)(M) (beginning with fiscal year 2021)" after "fiscal year 1991)" and "or payments under paragraph (5)(M)" before period at end.
 

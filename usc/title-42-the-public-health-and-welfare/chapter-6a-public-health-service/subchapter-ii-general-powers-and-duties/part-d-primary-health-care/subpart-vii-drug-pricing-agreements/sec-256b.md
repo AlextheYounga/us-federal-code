@@ -380,7 +380,7 @@ Pub. L. 111–148, title VII, §7101(e), Mar. 23, 2010, 124 Stat. 823, provided 
 
 "(2) Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
 
-#### Eligibility Exception for the Drug Discount Program Due to the Covid–19 Public Health Emergency ####
+#### Eligibility Exception for the Drug Discount Program Due to the COVID–19 Public Health Emergency ####
 
 Pub. L. 117–103, div. P, title I, §121, Mar. 15, 2022, 136 Stat. 792, provided that:
 

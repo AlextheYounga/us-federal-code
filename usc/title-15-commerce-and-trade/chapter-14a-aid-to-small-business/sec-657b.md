@@ -384,7 +384,7 @@ Sec. 4. *General Provisions*. (a) The Small Business Administration shall provid
 
 (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
-(c) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the Task Force, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Administrator in accordance with guidelines issued by the Administrator of General Services.
+(c) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.] (FACA), may apply to the Task Force, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Administrator in accordance with guidelines issued by the Administrator of General Services.
 
 (d) This order is not intended to and does not create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

@@ -70,7 +70,7 @@ The purposes of this subchapter are—
 
 (3) to assist in the preservation, protection, and interpretation of related resources within Topeka, Kansas, Summerton, South Carolina, Farmville, Virginia, Wilmington, Claymont, and Hockessin, Delaware, and the District of Columbia that further the understanding of the civil rights movement and the context of Brown v. Board of Education.
 
-(Pub. L. 102–525, title I, §102, Oct. 26, 1992, 106 Stat. 3438; Pub. L. 117–123, §3(c), (d), May 12, 2022, 136 Stat. 1197.)
+(Pub. L. 102–525, title I, §102, Oct. 26, 1992, 106 Stat. 3438; Pub. L. 117–123, §3(c), (d), May 12, 2022, 136 Stat. 1197, 1198.)
 
 #### **Editorial Notes** ####
 

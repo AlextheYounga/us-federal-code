@@ -2,19 +2,19 @@
 
 The Secretary shall designate and maintain an identifiable administrative unit in the Public Health Service to—
 
-(1) administer this part and coordinate with the organ procurement activities under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.],
+(1) administer this part and coordinate with the organ procurement activities under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.];
 
-(2) conduct a program of public information to inform the public of the need for organ donations,
+(2) conduct a program of public information to inform the public of the need for organ donations;
 
-(3) provide technical assistance to organ procurement organizations, the Organ Procurement and Transplantation Network established under section 274 of this title, and other entities in the health care system involved in organ donations, procurement, and transplants, and
+(3) provide technical assistance to organ procurement organizations, the Organ Procurement and Transplantation Network established under section 274 of this title, and other entities in the health care system involved in organ donations, procurement, and transplants; and
 
 (4) provide information—
 
-(i) to patients, their families, and their physicians about transplantation; and
+(A) to patients, their families, and their physicians about transplantation; and
 
-(ii) to patients and their families about the resources available nationally and in each State, and the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network, in order to assist the patients and families with the costs associated with transplantation.
+(B) to patients and their families about the resources available nationally and in each State, and the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network, in order to assist the patients and families with the costs associated with transplantation.
 
-(July 1, 1944, ch. 373, title III, §375, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2346; amended Pub. L. 100–607, title IV, §405, Nov. 4, 1988, 102 Stat. 3116; Pub. L. 101–616, title II, §204, Nov. 16, 1990, 104 Stat. 3285.)
+(July 1, 1944, ch. 373, title III, §375, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2346; amended Pub. L. 100–607, title IV, §405, Nov. 4, 1988, 102 Stat. 3116; Pub. L. 101–616, title II, §204, Nov. 16, 1990, 104 Stat. 3285; Pub. L. 118–14, §3(3), Sept. 22, 2023, 137 Stat. 69.)
 
 #### **Editorial Notes** ####
 
@@ -27,6 +27,12 @@ The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531,
 A prior section 375 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1, 70 Stat. 962, which related to definitions, was renumbered section 385 and classified to section 279 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments ####
+
+**2023**—Pars. (1), (2). Pub. L. 118–14, §3(3)(A), substituted semicolon for comma at end.
+
+Par. (3). Pub. L. 118–14, §3(3)(B), substituted "transplants; and" for "transplants, and".
+
+Par. (4). Pub. L. 118–14, §3(3)(C), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
 **1990**—Pub. L. 101–616, §204(a), struck out ", during fiscal years 1985 through 1990," after "The Secretary shall".
 

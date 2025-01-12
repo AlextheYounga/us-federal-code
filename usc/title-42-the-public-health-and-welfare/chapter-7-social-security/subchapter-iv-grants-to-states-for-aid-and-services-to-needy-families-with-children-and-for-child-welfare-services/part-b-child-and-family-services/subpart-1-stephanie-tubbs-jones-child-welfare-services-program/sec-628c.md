@@ -141,3 +141,9 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 #### Prior Provisions ####
 
 A prior section 429A of act Aug. 14, 1935, was renumbered section 429 and is classified to section 628b of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Change of Name ####
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.

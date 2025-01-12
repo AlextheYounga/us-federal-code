@@ -36,13 +36,15 @@ Not later than 6 months after the addition of lands to the historic park boundar
 
 #### **Editorial Notes** ####
 
-#### Amendments ####
+#### Codification ####
+
+Section 620 of div. DD of Pub. L. 117–328, which directed amendment of section 3 of the "Palo Alto Battlefield National Historic Site Act of 1991", was executed to this section, which is section 3 of the Palo Alto Battlefield National Historical Park Act of 1991, to reflect the probable intent of Congress. See 2022 Amendment notes below.
 
 #### Amendments ####
 
-**2022**—Subsec. (b)(2). Pub. L. 117–328, §620(a), which directed amendment of section 3(b)(2) of the Palo Alto Battlefield National Historic Site Act of 1991 by amending subpar. (A) generally and substituting "maps" for "map" in the heading and text of subpar. (B), was executed to subsec. (b)(2) of this section, which is section 3 of the Palo Alto Battlefield National Historical Park Act of 1991, to reflect the probable intent of Congress. Prior to amendment, subpar. (A) read as follows: "In addition to the land described in paragraph (1), the historical park shall consist of approximately 34 acres of land, as generally depicted on the map entitled 'Palo Alto Battlefield NHS Proposed Boundary Expansion', numbered 469/80,012, and dated May 21, 2008."
+**2022**—Subsec. (b)(2). Pub. L. 117–328, §620(a), amended subpar. (A) generally and substituted "maps" for "map" in the heading and text of subpar. (B). Prior to amendment, text of subpar. (A) read as follows: "In addition to the land described in paragraph (1), the historical park shall consist of approximately 34 acres of land, as generally depicted on the map entitled 'Palo Alto Battlefield NHS Proposed Boundary Expansion', numbered 469/80,012, and dated May 21, 2008." See Codification note above.
 
-Subsec. (b)(3). Pub. L. 117–328, §620(b), which directed amendment of section 3(b)(3) of the Palo Alto Battlefield National Historic Site Act of 1991 by substituting "after the addition of lands to the historic park boundary, the Secretary of the Interior" for "after June 23, 1992, the Secretary of the Interior", was executed to subsec. (b)(3) of this section, which is section 3 of the Palo Alto Battlefield National Historical Park Act of 1991, to reflect the probable intent of Congress.
+Subsec. (b)(3). Pub. L. 117–328, §620(b), substituted "after the addition of lands to the historic park boundary, the Secretary of the Interior" for "after June 23, 1992, the Secretary of the Interior". See Codification note above.
 
 **2009**—Pub. L. 111–11, §7113(a)(3)(B), substituted "National Historical Park" for "National Historic Site" in section catchline.
 

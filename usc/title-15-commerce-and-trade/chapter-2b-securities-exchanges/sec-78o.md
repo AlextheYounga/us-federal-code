@@ -386,7 +386,7 @@ For purposes of this paragraph, the term "State" includes the District of Columb
 
 #### (3) De minimis transactions by associated persons ####
 
-No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from effecting a transaction described in paragraph (3) for a customer in such State if—
+No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from effecting a transaction described in paragraph (3) <sup><a href="#78o_3_target" name="78o_3">3</a></sup> for a customer in such State if—
 
 (A) such associated person is not ineligible to register with such State for any reason other than such a transaction;
 
@@ -593,6 +593,8 @@ The Investment Advisers Act of 1940, referred to in subsecs. (b)(4)(D), (E), (k)
 The Investment Company Act of 1940, referred to in subsec. (b)(4)(D), (E), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter 1 (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 Subsection (i) of section 78q of this title, referred to in subsec. (b)(11)(B)(vi), (12)(B)(vi), was struck out and subsec. (j) was redesignated (i) by Pub. L. 111–203, title VI, §617(a), July 21, 2010, 124 Stat. 1616.
+
+Paragraph (3), referred to in subsec. (i)(3), was redesignated as paragraph (4) of subsec. (i) of this section by Pub. L. 112–106, title III, §305(d)(1)(A), Apr. 5, 2012, 126 Stat. 323.
 
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (j)(6)(A)(ii), (iii), is section 206 of Pub. L. 106–102, which is set out as a note under section 78c of this title.
 

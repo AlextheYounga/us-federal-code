@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 117–328, §2103(d), added subsec. (d).
 
 Pub. L. 117–328, div. FF, title II, §2213(c), Dec. 29, 2022, 136 Stat. 5735, provided that:
 
-"(1) Interagency data use agreements within the Department of Health and Human Services for public health emergencies.—
+"(1) Interagency data use agreements within the department of health and human services for public health emergencies.—
 
 "(A) In general.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall, as appropriate, facilitate the development of, or updates to, memoranda of understanding, data use agreements, or other applicable interagency agreements regarding appropriate access, exchange, and use of public health data between the Centers for Disease Control and Prevention, the Office of the Assistant Secretary for Preparedness and Response, other relevant agencies or offices within the Department of Health and Human Services, and other relevant Federal agencies, in order to prepare for, identify, monitor, and respond to declared or potential public health emergencies.
 

@@ -134,4 +134,4 @@ Pub. L. 117–2, title II, §2706, Mar. 11, 2021, 135 Stat. 47, provided that:
 
 #### Improving Access to Overdose Treatment ####
 
-Pub. L. 114–198, title I, §107(b), July 22, 2016, 130 Stat. 705, which authorized Secretary of Health and Human Services to provide information to prescribers within certain Federal health facilities on best practices for prescribing or co-prescribing drugs or devices for emergency treatment of opioid overdose, prior to repeal by Pub. L. 117–328, div. FF, title I, §1219(a)(7)(B), Dec. 29, 2022, 136 Stat. 5672. See subsec. (d) of this section.
+Pub. L. 114–198, title I, §107(b), July 22, 2016, 130 Stat. 705, authorized Secretary of Health and Human Services to provide information to prescribers within certain Federal health facilities on best practices for prescribing or co-prescribing drugs or devices for emergency treatment of opioid overdose, prior to repeal by Pub. L. 117–328, div. FF, title I, §1219(a)(7)(B), Dec. 29, 2022, 136 Stat. 5672. See subsec. (d) of this section.

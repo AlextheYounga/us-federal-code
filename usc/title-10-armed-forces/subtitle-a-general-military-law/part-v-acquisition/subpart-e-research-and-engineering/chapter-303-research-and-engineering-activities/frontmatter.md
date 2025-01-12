@@ -60,4 +60,4 @@ A prior chapter 303 was renumbered chapter 703 of this title.
 
 Pub. L. 117–81, div. A, title XVII, §1701(u)(3)(A), Dec. 27, 2021, 135 Stat. 2152, amended Pub. L. 116–283, div. A, title XVIII, §1842(a), Jan. 1, 2021, 134 Stat. 4244, which added this analysis, by substituting chapter heading, items for subchapters I to III, and items 4061 to 4067, 4091 to 4093, and 4121 to 4126 for former chapter heading "INNOVATION" and items 4061 to 4066.
 
-[<sup>1</sup> So in original. Two sections 4094 have been enacted.](#CHAPTER303_1)
+[<sup>1</sup> So in original. Two items 4094 have been enacted.](#CHAPTER303_1)

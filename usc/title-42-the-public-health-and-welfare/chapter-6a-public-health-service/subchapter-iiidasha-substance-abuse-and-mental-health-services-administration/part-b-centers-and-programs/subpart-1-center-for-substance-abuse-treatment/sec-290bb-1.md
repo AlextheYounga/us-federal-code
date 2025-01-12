@@ -282,7 +282,7 @@ A prior section 508 of act July 1, 1944, which was classified to section 290aa�
 
 #### Amendments ####
 
-Subsec. (r)(4). Pub. L. 117–328, §1114(1), (2), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The pilot program under this subsection shall not exceed 5 years."
+**2022**—Subsec. (r)(4). Pub. L. 117–328, §1114(1), (2), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The pilot program under this subsection shall not exceed 5 years."
 
 Subsec. (r)(4)(B). Pub. L. 117–328, §1114(3), in introductory provisions, substituted "Not later than September 30, 2026, the Director" for "The Director" and "the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives" for "the relevant committees of jurisdiction of the House of Representatives and the Senate".
 

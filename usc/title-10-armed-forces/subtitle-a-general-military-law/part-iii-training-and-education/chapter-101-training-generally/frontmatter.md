@@ -88,7 +88,7 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Pilot Program on Scholarship-for-Service for Civilian Behavioral Health Providers ####
+#### Pilot Program on Scholarship-For-Service for Civilian Behavioral Health Providers ####
 
 Pub. L. 117–263, div. A, title VII, §737(b), (e), Dec. 23, 2022, 136 Stat. 2671, 2674, provided that:
 
@@ -192,7 +192,7 @@ Pub. L. 117–263, div. A, title XV, §1523, Dec. 23, 2022, 136 Stat. 2898, prov
 
 "(B) the synchronized employment of information-related capabilities in the information environment."
 
-#### Lease or use Agreement for Category 3 Subterranean Training Facility ####
+#### Lease or Use Agreement for Category 3 Subterranean Training Facility ####
 
 Pub. L. 117–263, div. B, title XXVIII, §2869(a)–(d), Dec. 23, 2022, 136 Stat. 3012, 3013, provided that:
 

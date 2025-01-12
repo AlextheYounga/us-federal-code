@@ -20,6 +20,6 @@ The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in te
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Rule of Construction—No New Disclosure Requirements ####
+#### Rule of Construction Regarding No New Disclosure Requirements ####
 
 Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5834 of Pub. L. 117–263, set out as a note under section 1831cc of this title.

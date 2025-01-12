@@ -58,7 +58,7 @@
 
 (ii) submits to the congressional defense committees written notice of such determination.
 
-(d) Prioritization.—Not later than 10 days after the receipt of the all of the reports referred to in subsection (a), the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall submit to the congressional defense committees a report that prioritizes each specific unfunded priority across all unfunded priorities submitted by officers specified in (b) according to the risk reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title.
+(d) Prioritization.—Not later than 10 days after the receipt of the <sup><a href="#222a_1_target" name="222a_1">1</a></sup> all of the reports referred to in subsection (a), the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall submit to the congressional defense committees a report that prioritizes each specific unfunded priority across all unfunded priorities submitted by officers specified in (b) according to the risk reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title.
 
 (e) Definitions.—In this section:
 
@@ -119,3 +119,5 @@ Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as 
 #### Annual Report on Unfunded Requirements for Laboratory Military Construction Projects ####
 
 Pub. L. 115–91, div. B, title XXVIII, §2806, Dec. 12, 2017, 131 Stat. 1847, as amended by Pub. L. 116–92, div. B, title XXVIII, §2807, Dec. 20, 2019, 133 Stat. 1885, provided that: "The Under Secretary of Defense for Research and Engineering, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] each year, at the time the budget of the President for the fiscal year beginning in such year is submitted to Congress under section 1105(a) of title 31, United States Code, a report listing unfunded requirements on major and minor military construction projects for Department of Defense science and technology laboratories and facilities and test and evaluation facilities, in prioritized order, with specific accounts and program elements identified, and shall include a Department of Defense Form DD1391 for each major and minor military construction project included in the report."
+
+[<sup>1</sup> So in original.](#222a_1)

@@ -452,7 +452,7 @@ Pub. L. 117–328, div. FF, title II, §2314, Dec. 29, 2022, 136 Stat. 5763, pro
 
 #### National Science Advisory Board for Biosecurity ####
 
-Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, formerly set out as a note under this section, was transferred and is set out as a note under section 283r of this title.
+Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, formerly set out as a note under this section, was transferred and is set out as a National Science Advisory Board for Biosecurity: Provision of Advice, Guidance, or Recommentations note under section 283r of this title.
 
 #### Report to Congress ####
 

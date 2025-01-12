@@ -250,7 +250,7 @@ The Council may from time to time review the actions of the Administrator pursua
 
 #### References in Text ####
 
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Act was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Tables.
 
 The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(10)(A) and (h)(10)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 

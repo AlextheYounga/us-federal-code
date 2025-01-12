@@ -25,3 +25,7 @@ The Secretary shall ensure that the policies developed, updated, or issued pursu
 #### References in Text ####
 
 Sections 242v to 242v–3 of this title, referred to in subsec. (a)(1), was in the original "this chapter", meaning chapter 3 (§§2321–2326) of title II of div. FF of Pub. L. 117–328, 136 Stat. 5765, which enacted this section and sections 242v–1 to 242v–3 of this title and amended section 282 of this title.
+
+#### Codification ####
+
+Section was enacted as part of the Prepare for and Respond to Existing Viruses, Emerging New Threats, and Pandemics Act, also known as PREVENT Pandemics Act, and also as part of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022, and not as part of the Public Health Service Act which comprises this chapter.

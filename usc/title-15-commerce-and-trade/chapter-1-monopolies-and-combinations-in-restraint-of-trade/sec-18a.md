@@ -226,7 +226,7 @@ Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by
 
 "(2) $100,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $161,500,000 (as so adjusted and published) but is less than $500,000,000 (as so adjusted and published);
 
-"(3) $250,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $500,000,000 (as so adjusted and published)but is less than $1,000,000,000 (as so adjusted and published);
+"(3) $250,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $500,000,000 (as so adjusted and published) but is less than $1,000,000,000 (as so adjusted and published);
 
 "(4) $400,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $1,000,000,000 (as so adjusted and published) but is less than $2,000,000,000 (as so adjusted and published);
 

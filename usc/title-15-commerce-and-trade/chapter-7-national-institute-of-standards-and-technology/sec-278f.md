@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 95–422, §1(b), inserted provision authorizing appropriat
 
 #### Termination of Advisory Councils ####
 
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Combination of Fire Research and Building Technology Programs ####
 
@@ -92,6 +92,6 @@ Pub. L. 90–259, §§101, 103, 104, and 201–207, established the National Com
 
 #### Executive Order No. 11654 ####
 
-Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §19, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §19, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 [<sup>1</sup> See References in Text note below.](#278f_1)

@@ -3,5 +3,3 @@
 In the event that the Secretary deploys the contents of the Strategic National Stockpile under section 247d–6b(a) of this title, or otherwise distributes medical countermeasures to States to respond to a public health emergency declared by the Secretary under section 247d of this title, the Secretary shall, in consultation with the applicable States, make such contents or countermeasures directly available to Indian Tribes and Tribal organizations (as such terms are defined in section 5304 of title 25), which may include through health programs or facilities operated by the Indian Health Service, that are affected by such public health emergency.
 
 (July 1, 1944, ch. 373, title III, §319F–5, as added Pub. L. 117–328, div. FF, title II, §2408(b), Dec. 29, 2022, 136 Stat. 5789.)
-
-[<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.](#247d-6f_1)

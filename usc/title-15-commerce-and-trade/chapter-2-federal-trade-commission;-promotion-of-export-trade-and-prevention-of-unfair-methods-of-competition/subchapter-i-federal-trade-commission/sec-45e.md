@@ -48,7 +48,7 @@ Section was enacted as part of the Seniors Fraud Prevention Act of 2022, the Fra
 
 #### Senior Scams Prevention Advisory Group ####
 
-Pub. L. 117–103, div. Q, title I, §112(a)–(d), Mar. 15, 2022, 136 Stat. 809, provided that:
+Pub. L. 117–103, div. Q, title I, §112(a)–(d), Mar. 15, 2022, 136 Stat. 809, 810, provided that:
 
 "(a) Establishment.—There is established a Senior Scams Prevention Advisory Group (in this subtitle [subtitle A of div. Q of Pub. L. 117–103, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under section 58 of this title and section 21711 of Title 34] referred to as the 'Advisory Group').
 

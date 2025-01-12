@@ -184,7 +184,7 @@ Pub. L. 112–239, div. A, title VIII, §802, Jan. 2, 2013, 126 Stat. 1824, prov
 
 #### Review of Acquisition Process for Rapid Fielding of Capabilities in Response to Urgent Operational Needs ####
 
-Pub. L. 111–383, div. A, title VIII, §804, Jan. 7, 2011, 124 Stat. 4256, which required a review of and subsequent report on the process for the fielding of capabilities in response to urgent operational needs, was repealed by Pub. L. 117–263, div. A, title VIII, §804(c)(1), Dec. 23, 2022, 136 Stat. 2701.
+Pub. L. 111–383, div. A, title VIII, §804, Jan. 7, 2011, 124 Stat. 4256, which required a review of, and subsequent report on, the process for the fielding of capabilities in response to urgent operational needs, was repealed by Pub. L. 117–263, div. A, title VIII, §804(c)(1), Dec. 23, 2022, 136 Stat. 2701.
 
 #### Internal Controls for Procurements on Behalf of the Department of Defense ####
 

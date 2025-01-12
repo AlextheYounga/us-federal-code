@@ -110,7 +110,7 @@ Pub. L. 115–232, div. A, title II, §230, Aug. 13, 2018, 132 Stat. 1689, as am
 
 #### Joint Artificial Intelligence Research, Development, and Transition Activities ####
 
-Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480 Pub. L. 117–263, div. A, title II, §212(l), Dec. 23, 2022, 136 Stat. 2470, provided that:
+Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480; Pub. L. 117–263, div. A, title II, §212(l), Dec. 23, 2022, 136 Stat. 2470, provided that:
 
 "(a) Establishment.—
 

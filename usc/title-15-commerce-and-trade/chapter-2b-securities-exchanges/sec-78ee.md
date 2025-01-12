@@ -260,6 +260,10 @@ Pub. L. 104–208, div. A, title I, §101(a) [title V], Sept. 30, 1996, 110 Stat
 
 #### Adjustment of Transaction Fee Rate ####
 
+By order dated Jan. 26, 2023, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $8.00 per $1,000,000, effective Feb. 27, 2023, see 88 F.R. 5051.
+
+By order dated Apr. 8, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.90 per $1,000,000, effective May 14, 2022, see 87 F.R. 21931.
+
 By order dated Jan. 15, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $5.10 per $1,000,000, effective Feb. 25, 2021, see 86 F.R. 6694.
 
 By order dated Jan. 9, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Feb. 18, 2020, see 85 F.R. 2218.

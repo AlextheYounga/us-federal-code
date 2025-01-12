@@ -60,7 +60,7 @@ The Secretary shall provide the advisory council with necessary administrative s
 
 #### (g) State liaison ####
 
-The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the adv1isory council.
+The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the advisory council.
 
 #### (h) Applicable law ####
 

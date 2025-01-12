@@ -14,8 +14,6 @@ Sec.
 
 #### **Editorial Notes** ####
 
-#### Codification ####
-
 #### Amendments ####
 
 **2021**—Pub. L. 117–81, div. A, title XVII, §1701(t)(1), Dec. 27, 2021, 135 Stat. 2150, amended Pub. L. 116–283, div. A, title XVIII, §1870(d)(1), Jan. 1, 2021, 135 Stat. 4286, which added this analysis, by substituting "Contracts: consideration of national security objectives" for "Acquisition of sensitive materials from non-allied foreign nations: prohibition" in item 4871 and "Acquisition of sensitive materials from non-allied foreign nations: prohibition" for "Award of certain contracts to entities controlled by a foreign government: prohibition" in item 4872 and by adding item 4874.

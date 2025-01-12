@@ -42,7 +42,7 @@ Sec.
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–263, div. A, title III, §373, Dec. 23, 2022, 136 Stat. 2540, added item 2473.
+**2022**—Pub. L. 117–263, div. A, title III, §373, Dec. 23, 2022, 136 Stat. 2540, added item 2473. Item was added after item 2472 to reflect the probable intent of Congress, notwithstanding directory language conforming this analysis to the addition of section 2473 after section "2742" of this title.
 
 **2014**—Pub. L. 113–291, div. A, title X, §1060(a)(2)(B), Dec. 19, 2014, 128 Stat. 3502, struck out item 2462 "Reports on public-private competition".
 

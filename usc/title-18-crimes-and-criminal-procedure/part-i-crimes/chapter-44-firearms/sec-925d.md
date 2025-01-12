@@ -20,7 +20,7 @@
 
 (c) Qualified Defined.—For purposes of this section, the term "qualified" means, with respect to an attorney, that the attorney is a licensed attorney in good standing with any relevant licensing authority.
 
-(Added Pub. L. 117–103, div. W, title XI, §1103(a), Mar. 15, 2022, 136 Stat. 920.)
+(Added Pub. L. 117–103, div. W, title XI, §1103(a), Mar. 15, 2022, 136 Stat. 921.)
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

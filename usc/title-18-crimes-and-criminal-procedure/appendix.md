@@ -1933,6 +1933,10 @@ The Uniform Code of Military Justice, referred to in subd. (e)(3)(E)(v), is clas
 
 25 U.S.C. §479a–1, referred to in subd. (i), was editorially reclassified as 25 U.S.C. 5131.
 
+Codification
+
+Another section 895 of Pub. L. 107–296 is classified to section 484a of Title 6, Domestic Security.
+
 #### Amendment by Public Law ####
 
 **2023**—Subd. (e). Pub. L. 117–347, §323(a)(1)(A), repealed Pub. L. 107–296, §895. See 2002 Amendment note below.
@@ -2004,10 +2008,6 @@ If the court orders disclosure of matters occurring before the grand jury, the d
 Subd. (e)(3)(D). Pub. L. 107–56, §203(a)(2), substituted "subdivision (e)(3)(C)(i)(I)" for "subdivision (e)(3)(C)(i)".
 
 **1984**—Subd. (e)(3)(C)(iv). Pub. L. 98–473, eff. Nov. 1, 1987, added subcl. (iv), identical to subcl. (iv) which had been previously added by Order of the Supreme Court dated Apr. 29, 1985, eff. Aug. 1, 1985, thereby requiring no change in text.
-
-Codification
-
-Another section 895 of Pub. L. 107–296 is classified to section 484a of Title 6, Domestic Security.
 
 #### Effective Date of 1984 Amendment ####
 
@@ -6103,7 +6103,7 @@ Subd. (b)(4)(F) to (H). Pub. L. 104–132, §207(a)(2), added subd. (b)(4)(F), a
 
 Subd. (c)(3)(E). Pub. L. 103–322, §230101(b)(1)–(3), added subd. (c)(3)(E).
 
-Subd. (c)(4). Pub. L. 103–322, §230101(b)(5), (6), substituted "(D), and (E)" for "and (D)" and inserted "the victim," before "or the attorney for the Government.".
+Subd. (c)(4). Pub. L. 103–322, §230101(b)(5), (6), substituted "(D), and (E)" for "and (D)" and inserted "the victim," before "or the attorney for the Government."
 
 Subd. (f). Pub. L. 103–322, §230101(b)(7), added subd. (f).
 
@@ -6159,7 +6159,7 @@ Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permi
 
 #### Effective Date of 1994 Amendment ####
 
-Amendment by Pub. L. 103–322 effective Dec. 1, 1994, see section 230101(c) of Pub. L. 103–322, set out as a Victim's Right of Allocution in Sentencing note under section 2074 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 103–322 effective Dec. 1, 1994, see section 230101(c) of Pub. L. 103–322, set out as an Effective Date note under section 2074 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1986 Amendment ####
 

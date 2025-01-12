@@ -52,9 +52,13 @@ Pub. L. 111–203, title IX, §984(b), July 21, 2010, 124 Stat. 1933, provided t
 
 Pub. L. 112–105, §4(a), Apr. 4, 2012, 126 Stat. 292, provided that: "Members of Congress and employees of Congress are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78j(b)] and Rule 10b–5 thereunder."
 
+[For definitions of "Member of Congress" and "employee of Congress", see section 2 of Pub. L. 112–105, set out as a Definitions note under section 13101 of Title 5, Government Organization and Employees.]
+
 #### Application of Insider Trading Laws ####
 
 Pub. L. 112–105, §9(b)(1), Apr. 4, 2012, 126 Stat. 297, provided that: "Executive branch employees, judicial officers, and judicial employees are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78j(b)] and Rule 10b–5 thereunder."
+
+[For definitions of "executive branch employees", "judicial officers", and "judicial employees", see section 2 of Pub. L. 112–105, set out as a Definitions note under section 13101 of Title 5, Government Organization and Employees.]
 
 #### **Executive Documents** ####
 

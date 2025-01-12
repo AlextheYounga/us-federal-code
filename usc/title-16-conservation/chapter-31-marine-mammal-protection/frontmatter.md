@@ -114,9 +114,9 @@ Sec.
 
 1421f. National Marine Mammal Tissue Bank and tissue analysis.
 
-1421f–1. Marine mammal rescue and response grant program and Rapid Response Fund.
+1421f–1. Marine Mammal Rescue and Response Grant Program and Rapid Response Fund.
 
-1421f–2. Marine Mammal Health Monitoring and Analysis Platform.
+1421f–2. Marine Mammal Health Monitoring and Analysis Platform (Health MAP).
 
 1421f–3. Reports to Congress.
 

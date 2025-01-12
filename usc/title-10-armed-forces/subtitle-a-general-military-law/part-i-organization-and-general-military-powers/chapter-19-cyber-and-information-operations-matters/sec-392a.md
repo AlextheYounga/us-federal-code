@@ -86,7 +86,7 @@
 
 (viii) To coordinate and consult with stakeholders in the cyberspace domain across the Department in order to identify other issues on cyberspace for the attention of senior leadership of the Department.
 
-(ix) On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to 932(c)(3) <sup><a href="#392a_2_target" name="392a_2">2</a></sup> of the National Defense Authorization Act for Fiscal Year 2014 (10 U.S.C. 2224 note) in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
+(ix) On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to 932(c)(3) <sup><a href="#392a_2_target" name="392a_2">2</a></sup> of the National Defense Authorization Act for Fiscal Year 2014 (10 U.S.C. 2224 note) <sup><a href="#392a_3_target" name="392a_3">3</a></sup> in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
 
 (c) Cyber Governance Structures and Principal Cyber Advisors on Military Cyber Force Matters.—
 
@@ -136,7 +136,7 @@
 
 (4) Budget Certification Authority.—
 
-(A) In general.—Each of the secretaries of the military departments shall require service components with responsibilities associated with cyberspace operations forces, offensive or defensive cyberspace operations and capabilities, and cyberspace issues relevant to the duties specified in paragraph (2) to transmit the proposed budget for such responsibilities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code, for that fiscal year to the relevant service's Principal Cyber Advisor for review under clause (ii) <sup><a href="#392a_3_target" name="392a_3">3</a></sup> before submitting the proposed budget to the department's comptroller.
+(A) In general.—Each of the secretaries of the military departments shall require service components with responsibilities associated with cyberspace operations forces, offensive or defensive cyberspace operations and capabilities, and cyberspace issues relevant to the duties specified in paragraph (2) to transmit the proposed budget for such responsibilities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code, for that fiscal year to the relevant service's Principal Cyber Advisor for review under clause (ii) <sup><a href="#392a_4_target" name="392a_4">4</a></sup> before submitting the proposed budget to the department's comptroller.
 
 (B) Review.—Each Principal Cyber Advisor under paragraph (1)(A) shall review each proposed budget transmitted under subparagraph (A) and submit to the secretary of the relevant military department a report containing the comments of the Principal Cyber Advisor with respect to all such proposed budgets, together with the certification of the Principal Cyber Advisor regarding whether each proposed budget is adequate.
 
@@ -150,11 +150,11 @@
 
 #### References in Text ####
 
-Section 911 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (a)(3), is section 911 of title IX of div. A of Pub. L. 114–328, which is set out as a note under section 111 of this title.
+Section 911 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (a)(3), is section 911 of Pub. L. 114–328, which is set out as a note under section 111 of this title.
 
-932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014, referred to in subsec. (b)(3)(B)(ix), probably means section 932(c)(3) of Pub. L. 113–66, which was formerly set out as a note under section 2224 of this title, and was transferred to this section and redesignated as subsec. (a) by Pub. L. 117–263, §1501(b)(2)(A), (B), Dec. 23, 2022, 136 Stat. 2878.
+Section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014, referred to in subsec. (b)(3)(B)(ix), is section 932(c)(3) of Pub. L. 113–66, which was formerly set out as a note under section 2224 of this title and was transferred to this section and redesignated as subsec. (a)(3) by Pub. L. 117–263, §1501(b)(2)(A), (B), Dec. 23, 2022, 136 Stat. 2878.
 
-The date of the enactment of this Act, referred to in subsec. (c)(1)(A), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+The date of the enactment of this Act, referred to in subsec. (c)(1)(A), means the date of enactment of Pub. L. 116–92, which had originally enacted the text of subsec. (c) of this section and was approved Dec. 20, 2019. See Codification note below.
 
 #### Codification ####
 
@@ -170,19 +170,17 @@ The text of section 1657 of Pub. L. 116–92, formerly set out as a note under s
 
 Subsec. (a)(1). Pub. L. 117–263, §1501(b)(2)(C), added par. (1) and struck out former par. (1) which related to designation of a Principal Cyber Advisor by the Secretary of Defense.
 
-Subsec. (b). Pub. L. 117–263, §1501(b)(3)(A), transferred section 905 of Pub. L. 116–92 to this section and redesignated it as subsec. (b), redesignated each subordinate provision to conform to such redesignation, and realigned margins. See Codification note above.
+Subsec. (b). Pub. L. 117–263, §1501(b)(3)(A), transferred section 905 of Pub. L. 116–92 to this section, redesignated it as subsec. (b), redesignated each subordinate provision to conform to such redesignation, and realigned margins. See Codification note above.
 
 Subsec. (b)(1)(B), (C). Pub. L. 117–263, §1501(b)(3)(B)(i), substituted "this paragraph" for "this subsection".
 
 Subsec. (b)(2), (3). Pub. L. 117–263, §1501(b)(3)(B)(ii), substituted "paragraph (1)" for "subsection (a)" in introductory provisions of subpars. (A) and (B).
 
-Subsec. (c). Pub. L. 117–263, §1501(b)(4)(A), transferred section 1657 of Pub. L. 116–92 to this section and redesignated it as subsec. (c), redesignated each subordinate provision to conform to such redesignation, and realigned margins. See Codification note above.
+Subsec. (c). Pub. L. 117–263, §1501(b)(4)(A), transferred section 1657 of Pub. L. 116–92 to this section, redesignated it as subsec. (c), redesignated each subordinate provision to conform to such redesignation, and realigned margins. See Codification note above.
 
 Subsec. (c)(1)(B). Pub. L. 117–263, §1501(b)(4)(B)(ii), substituted "subparagraph (A)" for "paragraph (1)" in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 117–263, §1501(b)(4)(B)(v), substituted "paragraph (1)" for "subsection (a)" in introductory provisions.
-
-Subsec. (c)(3). Pub. L. 117–263, §1501(b)(4)(B)(v), substituted "paragraph (1)" for "subsection (a)" in introductory provisions.
+Subsec. (c)(2), (3). Pub. L. 117–263, §1501(b)(4)(B)(v), substituted "paragraph (1)" for "subsection (a)" in introductory provisions.
 
 Subsec. (c)(4)(A). Pub. L. 117–263, §1501(b)(4)(B)(i), (vi), substituted "paragraph (2)" for "subsection (b)" and "clause (ii)" for "subparagraph (B)".
 
@@ -200,6 +198,8 @@ Subsec. (c)(6)(C). Pub. L. 117–263, §1501(b)(4)(B)(ii), substituted "subparag
 
 [<sup>1</sup> So in original. Probably should be "designated".](#392a_1)
 
-[<sup>2</sup> See References in Text note below.](#392a_2)
+[<sup>2</sup> So in original. Probably should be preceded by "section".](#392a_2)
 
-[<sup>3</sup> So in original. Probably should be "subparagraph (B)".](#392a_3)
+[<sup>3</sup> See References in Text note below.](#392a_3)
+
+[<sup>4</sup> So in original. Probably should be "subparagraph (B)".](#392a_4)

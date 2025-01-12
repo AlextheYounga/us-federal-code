@@ -126,7 +126,7 @@ The Commission shall—
 
 #### (h) Federal Advisory Committee Act ####
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
+The Federal Advisory Committee Act (5 U.S.C. App.) <sup><a href="#78qq_1_target" name="78qq_1">1</a></sup> shall not apply with respect to the Committee and its activities.
 
 (June 6, 1934, ch. 404, title I, §40, as added Pub. L. 114–284, §2(b), Dec. 16, 2016, 130 Stat. 1450.)
 
@@ -135,3 +135,5 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect 
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+
+[<sup>1</sup> See References in Text note below.](#78qq_1)
