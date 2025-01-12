@@ -6,4 +6,4 @@ Section 436, Pub. L. 92–225, title III, §306, Feb. 7, 1972, 86 Stat. 16; Pub.
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under section 431 of this title.
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under section 30101 of Title 52, Voting and Elections.
