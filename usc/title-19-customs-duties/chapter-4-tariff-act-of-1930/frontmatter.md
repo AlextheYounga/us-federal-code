@@ -418,7 +418,7 @@ Sec.
 
 1606. Seizure; appraisement.
 
-1607. Seizure; value $500,000 or less, prohibited articles, transporting conveyances.
+1607. Seizure; value $500,000 or less, prohibited merchandise, transporting conveyances.
 
 1608. Seizure; claims; judicial condemnation.
 
