@@ -1,1 +1,2 @@
-### PART C—FINANCING ###
+PART C—FINANCING
+----------

@@ -1,4 +1,5 @@
-### PART E—MISCELLANEOUS ###
+PART E—MISCELLANEOUS
+----------
 
 #### **Editorial Notes** ####
 

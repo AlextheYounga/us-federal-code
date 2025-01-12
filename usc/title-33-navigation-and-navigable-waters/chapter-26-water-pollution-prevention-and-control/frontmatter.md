@@ -52,7 +52,7 @@ Sec.
 
 1269. Long Island Sound.
 
-1270. Lake Champlain Basin Program.
+1270. Patrick Leahy Lake Champlain Basin Program.
 
 1271. Sediment survey and monitoring.
 

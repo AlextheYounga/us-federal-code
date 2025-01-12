@@ -1,4 +1,4 @@
-### §§1051 to 1053, 1061 to 1094. Repealed. Pub. L. 95–75, §10, July 27, 1977, 91 Stat. 311 ###
+### §§1051 to 1094. Repealed. Pub. L. 95–75, §10, July 27, 1977, 91 Stat. 311 ###
 
 Section 1051, Pub. L. 88–131, §1, Sept. 24, 1963, 77 Stat. 194, authorized the President to proclaim the International Regulations for Preventing Collisions at Sea. See section 1602 of this title.
 
