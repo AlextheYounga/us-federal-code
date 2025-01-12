@@ -702,7 +702,17 @@ In addition to any amounts made available pursuant to paragraph (1) of this subs
 
 In addition to any amounts made available pursuant to this subsection, section 282a of this title, or section 254b—2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,320,000,000 for fiscal year 2020 for supplemental awards under subsection (d) for the detection of SARS–CoV–2 or the prevention, diagnosis, and treatment of COVID–19.
 
-(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283; Pub. L. 116–136, div. A, title III, §3211(a), Mar. 27, 2020, 134 Stat. 368; Pub. L. 116–260, div. BB, title III, §311(c), Dec. 27, 2020, 134 Stat. 2925.)
+(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283; Pub. L. 116–136, div. A, title III, §3211(a), Mar. 27, 2020, 134 Stat. 368; Pub. L. 116–260, div. BB, title III, §311(c), Dec. 27, 2020, 134 Stat. 2925; Pub. L. 117–204, §2(a), Oct. 17, 2022, 136 Stat. 2231.)
+
+#### Amendment of Subsection (e)(6)(A) ####
+
+Pub. L. 117–204, §2, Oct. 17, 2022, 136 Stat. 2231, provided that, effective on Jan. 1, 2024, subsection (e)(6)(A) of this section is amended by adding at the end the following:
+
+#### *(v) Mobile units* ####
+
+*An existing health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit, regardless of whether the applicant additionally proposes to establish a permanent, full-time site. In the case of a health center that is not currently receiving funds under this section, such health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit only if such health center uses a portion of such funds to also establish a permanent, full-time site.*
+
+See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -725,6 +735,8 @@ Another prior section 254b, act July 1, 1944, ch. 373, title III, §329, as adde
 A prior section 330 of act July 1, 1944, was classified to section 254c of this title prior to the general amendment of this subpart by Pub. L. 104–299.
 
 #### Amendments ####
+
+**2022**—Subsec. (e)(6)(A)(v). Pub. L. 117–204 added cl. (v).
 
 **2020**—Subsec. (d)(1)(H). Pub. L. 116–260 added subpar. (H).
 
@@ -933,6 +945,10 @@ Subsec. (s)(2)(A). Pub. L. 107–251, §101(11)(B)(i), substituted "(l)(3)" for 
 Subsec. (s)(2)(B). Pub. L. 107–251, §101(11)(B)(ii), added subpar. (B) and struck out heading and text of former subpar. (B) relating to distribution of grants for fiscal years 1997 through 1999.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–204, §2(b), Oct. 17, 2022, 136 Stat. 2231, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2024."
 
 #### Effective Date of 2008 Amendment ####
 

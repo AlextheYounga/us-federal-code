@@ -26,7 +26,7 @@ Sec.
 
 3312. Compliance with nationally recognized codes.
 
-3313. Use of energy efficient lighting fixtures and bulbs.
+3313. Procurement of life-cycle cost effective and energy efficient lighting systems.
 
 3314. Baby changing facilities in restrooms.
 
@@ -43,6 +43,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–202, §3(b), Oct. 17, 2022, 136 Stat. 2226, added item 3313 and struck out former item 3313 "Use of energy efficient lighting fixtures and bulbs".
 
 **2021**—Pub. L. 116–333, §2(b), Jan. 13, 2021, 134 Stat. 5114, which directed adding item 3318, relating to availability of Federal building project information, to the table of chapters for chapter 33, was executed by adding it to the table of sections for chapter 33, to reflect the probable intent of Congress.
 
