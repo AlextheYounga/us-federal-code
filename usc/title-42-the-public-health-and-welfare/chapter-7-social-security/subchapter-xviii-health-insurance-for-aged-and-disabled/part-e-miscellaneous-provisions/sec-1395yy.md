@@ -642,7 +642,7 @@ Subsec. (e)(12). Pub. L. 106–113, §1000(a)(6) [title I, §105(a)(2), (b)], te
 
 **1997**—Subsec. (a). Pub. L. 105–33, §4431, substituted "described in this subsection, except that the limits effective for cost reporting periods beginning on or after October 1, 1997, shall be based on the limits effective for cost reporting periods beginning on or after October 1, 1996." for "described in this subsection" at end.
 
-Subsec. (d)(1). Pub. L. 105–33, §4432(b)(5)(H), substituted "Subject to subsection (e)on, any skilled nursing facility" for "Any skilled nursing facility".
+Subsec. (d)(1). Pub. L. 105–33, §4432(b)(5)(H), substituted "Subject to subsection (e), any skilled nursing facility" for "Any skilled nursing facility".
 
 Subsec. (e). Pub. L. 105–33, §4432(a), added subsec. (e).
 

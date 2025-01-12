@@ -334,7 +334,7 @@ Not later than 180 days after the end of each fiscal year (beginning with fiscal
 
 Pub. L. 114–198, title VII, §704(c)(1), (g)(1), July 22, 2016, 130 Stat. 749, 751, provided that, applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019, this section is amended by adding at the end the following new subsection:
 
-#### *(j) Expanding Activities of Medicare drug integrity contractors (MEDICs)* ####
+#### *(j) Expanding activities of Medicare drug integrity contractors (MEDICs)* ####
 
 #### *(1) Access to information* ####
 

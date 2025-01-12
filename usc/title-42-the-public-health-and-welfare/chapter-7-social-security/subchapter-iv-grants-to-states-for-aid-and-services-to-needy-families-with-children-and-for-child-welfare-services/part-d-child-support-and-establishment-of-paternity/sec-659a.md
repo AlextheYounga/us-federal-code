@@ -98,7 +98,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President by the Cons
 
 Section 1. *Designation of Central Authority*. The Department of Health and Human Services is hereby designated as the Central Authority of the United States for purposes of the Convention. The Secretary of Health and Human Services is hereby authorized and empowered, in accordance with such regulations as the Secretary may prescribe, to perform all lawful acts that may be necessary and proper in order to execute the functions of the Central Authority in a timely and efficient manner.
 
-Sec. 2. *Designation of State IV–D Child Support Agencies*. The Central Authority may designate the State agencies responsible for implementing an approved State Plan under title IV–D of the Social Security Act, 42 U.S.C. 651 et seq., as public bodies authorized to perform specific functions in relation to applications under the Convention.
+Sec. 2. *Designation of State IV–D Child Support Agencies*. The Central Authority may designate the State agencies responsible for implementing an approved State Plan under title IV–D of the Social Security Act, 42 U.S.C. 651 *et seq*., as public bodies authorized to perform specific functions in relation to applications under the Convention.
 
 Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

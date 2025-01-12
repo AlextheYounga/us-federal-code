@@ -226,6 +226,8 @@ Sec.
 
 3796c–2. Funds available for appeals and expenses of representation of hearing examiners.
 
+3796c–3. Due diligence in paying benefit claims.
+
 #### Part B—Educational Assistance to Dependents of Civilian Federal Law Enforcement Officers Killed or Disabled in Line of Duty ####
 
 3796d. Purposes.

@@ -10,7 +10,7 @@ The purposes for which grants made under subsection (a) may be made are—
 
 (1) to rehire law enforcement officers who have been laid off as a result of State, tribal, or local budget reductions for deployment in community-oriented policing;
 
-(2) to hire and train new, additional career law enforcement officers for deployment in community-oriented policing across the Nation;
+(2) to hire and train new, additional career law enforcement officers for deployment in community-oriented policing across the Nation, including by prioritizing the hiring and training of veterans (as defined in section 101 of title 38);
 
 (3) to procure equipment, technology, or support systems, or pay overtime, to increase the number of officers deployed in community-oriented policing;
 
@@ -154,7 +154,7 @@ Not later than 180 days after July 29, 2010, the Attorney General shall submit t
 
 #### (3) an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations. ####
 
-(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, §14001(b), Dec. 13, 2016, 130 Stat. 1288.)
+(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266; Pub. L. 114–199, §2, July 22, 2016, 130 Stat. 780; Pub. L. 114–255, div. B, title XIV, §14001(b), Dec. 13, 2016, 130 Stat. 1288; Pub. L. 115–37, §2, June 2, 2017, 131 Stat. 854.)
 
 #### References in Text ####
 
@@ -165,6 +165,8 @@ The Public Safety Partnership and Community Policing Act of 1994, referred to in
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Amendments ####
+
+**2017**—Subsec. (b)(2). Pub. L. 115–37 inserted ", including by prioritizing the hiring and training of veterans (as defined in section 101 of title 38)" after "Nation".
 
 **2016**—Subsec. (b)(17). Pub. L. 114–199, §2(1), (3), added par. (17). Former par. (17) redesignated (18).
 

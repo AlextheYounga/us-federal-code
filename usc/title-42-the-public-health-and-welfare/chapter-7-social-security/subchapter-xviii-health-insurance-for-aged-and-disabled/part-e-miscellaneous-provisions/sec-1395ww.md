@@ -2610,7 +2610,7 @@ The long-term care hospital discharged inpatients (including both individuals en
 
 Notwithstanding any other provision of law, the Secretary may implement subclause (I) by program instruction or otherwise.
 
-#### (III) Non-application of paperwork reduction act ####
+#### (III) Non-application of Paperwork Reduction Act ####
 
 Chapter 35 of title 44 shall not apply to data collected under this clause.
 
@@ -3568,7 +3568,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(6), is classified 
 
 Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (c)(4)(B), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
 
-The effective date of such clause (vi), referred to in concluding provisions of subsec. (d)(1)(B), probably means the date of enactment of Pub. L. 114–255, which redesignated subcl. (II) of cl. (iv) of subsec. (d)(1)(B) as cl. (vi) of subsec. (d)(1)(B), and which was approved December 13, 2016.
+The effective date of such clause (vi), referred to in concluding provisions of subsec. (d)(1)(B), probably means the date of enactment of Pub. L. 114–255, which redesignated subcl. (II) of cl. (iv) of subsec. (d)(1)(B) as cl. (vi) of subsec. (d)(1)(B), and which was approved Dec. 13, 2016.
 
 Section 9104(a) of the Medicare and Medicaid Budget Reconciliation Amendments of 1985, referred to in subsec. (d)(2)(C)(i), is section 9104(a) of Pub. L. 99–272, which amended subsec. (d)(5)(B) of this section.
 
@@ -5614,9 +5614,7 @@ Pub. L. 114–113, div. O, title VI, §602(c), Dec. 18, 2015, 129 Stat. 3024, pr
 
 #### Calculation of Length of Stay Excluding Cases Paid on a Site Neutral Basis ####
 
-Pub. L. 113–67, div. B, title II, §1206(a)(3), Dec. 26, 2013, 127 Stat. 1203, as amended by Pub. L. 113–93, title I, §112(c)(2), Apr. 1, 2014, 128 Stat. 1045; Pub. L. 114–255, div. C, title XV, §15007(a), Dec. 13, 2016, 130 Stat. 1320, provided that:
-
-"For discharges occurring in cost reporting periods beginning on or after October 1, 2015, in calculating the length of stay requirement applicable to a long-term care hospital or satellite facility under section 1886(d)(1)(B)(iv)(I) of the Social Security Act (42 U.S.C. 1395ww(d)(1)(B)(iv)(I)) and section 1861(ccc)(2) of such Act (42 U.S.C. 1395x(ccc)(2)), the Secretary of Health and Human Services shall exclude the following:
+Pub. L. 113–67, div. B, title II, §1206(a)(3), Dec. 26, 2013, 127 Stat. 1203, as amended by Pub. L. 113–93, title I, §112(c)(2), Apr. 1, 2014, 128 Stat. 1045; Pub. L. 114–255, div. C, title XV, §15007(a), Dec. 13, 2016, 130 Stat. 1320, provided that: "For discharges occurring in cost reporting periods beginning on or after October 1, 2015, in calculating the length of stay requirement applicable to a long-term care hospital or satellite facility under section 1886(d)(1)(B)(iv)(I) [now 1886(d)(1)(B)(iv)] of the Social Security Act (42 U.S.C. 1395ww(d)(1)(B)(iv)(I) [1395ww(d)(1)(B)(iv)]) and section 1861(ccc)(2) of such Act (42 U.S.C. 1395x(ccc)(2)), the Secretary of Health and Human Services shall exclude the following:
 
 "(A) Site neutral payment.—Any patient for whom payment is made at the site neutral payment rate (as defined in section 1886(m)(6)(B)(ii) [42 U.S.C. 1395ww(m)(6)(B)(ii)) of such Act, as added by paragraph (1)).
 
