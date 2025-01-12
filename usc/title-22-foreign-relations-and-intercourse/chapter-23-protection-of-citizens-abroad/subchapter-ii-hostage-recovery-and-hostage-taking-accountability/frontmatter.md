@@ -96,7 +96,7 @@ Sec. 7. *General Provisions*. (a) This order shall be implemented consistent wit
 
 Barack Obama.
 
-#### Ex. Ord. No. 14078.Bolstering Efforts To Bring Hostages and Wrongfully Detained United States Nationals Home ####
+#### Ex. Ord. No. 14078. Bolstering Efforts To Bring Hostages and Wrongfully Detained United States Nationals Home ####
 
 Ex. Ord. No. 14078, July 19, 2022, 87 F.R. 43389, provided:
 

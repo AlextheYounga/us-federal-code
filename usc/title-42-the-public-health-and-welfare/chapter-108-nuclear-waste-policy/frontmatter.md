@@ -18,6 +18,8 @@ Sec.
 
 10108. Applicability to transportation.
 
+10109. Biennial report on the spent nuclear fuel and high-level radioactive waste inventory in the United States.
+
 #### SUBCHAPTER I—DISPOSAL AND STORAGE OF HIGH-LEVEL RADIOACTIVE WASTE, SPENT NUCLEAR FUEL, AND LOW-LEVEL RADIOACTIVE WASTE ####
 
 10121. State and affected Indian tribe participation in development of proposed repositories for defense waste.
