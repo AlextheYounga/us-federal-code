@@ -94,4 +94,4 @@ The term "similarly situated entity" means a subcontractor that—
 
 #### Inapplicability of Requirement To Review and Justify Certain Contracts ####
 
-Pub. L. 113–66, div. A, title XVI, §1615, Dec. 26, 2013, 127 Stat. 950, provided that: "In the case of a contract to which the provisions of section 46 of the Small Business Act (15 U.S.C. 657s) apply, the requirements under section 802 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1824; 10 U.S.C. 2304 note) do not apply."
+Pub. L. 113–66, div. A, title XVI, §1615, Dec. 26, 2013, 127 Stat. 950, provided that: "In the case of a contract to which the provisions of section 46 of the Small Business Act (15 U.S.C. 657s) apply, the requirements under section 802 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1824; 10 U.S.C. 2304 note [now 10 U.S.C. note prec.]) do not apply."
