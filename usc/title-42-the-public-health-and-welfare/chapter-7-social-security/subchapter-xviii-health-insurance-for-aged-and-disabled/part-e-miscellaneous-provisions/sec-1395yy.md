@@ -574,7 +574,7 @@ Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protect
 
 Subsec. (e)(5)(B)(ii). Pub. L. 115–123, §53111(2), substituted "clauses (iii) and (iv)" for "clause (iii)".
 
-Subsec. (e)(5)(B)(iv). Pub. L. 115–123, §53111(3), added subcl. (iv).
+Subsec. (e)(5)(B)(iv). Pub. L. 115–123, §53111(3), added cl. (iv).
 
 **2015**—Subsec. (e)(5)(B)(i). Pub. L. 114–10, §411(a)(1)(A), substituted "clauses (ii) and (iii)" for "clause (ii)".
 

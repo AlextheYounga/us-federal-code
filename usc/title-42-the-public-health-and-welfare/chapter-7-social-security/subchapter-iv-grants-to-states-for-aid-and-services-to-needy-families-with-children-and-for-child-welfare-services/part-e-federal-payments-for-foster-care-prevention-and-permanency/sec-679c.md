@@ -164,7 +164,7 @@ Pub. L. 115–123, div. E, title VII, §§50711(e), 50722(b), 50734, Feb. 9, 201
 
 #### *"(4) Inapplicability of state plan requirement to have in effect procedures providing for the use of an electronic interstate case-processing system* ####
 
-*"The requirement in section 471(a)(25) that a State plan provide that the State shall have in effect procedures providing for the use of an electronic interstate case-processing system shall not apply to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part."; and*
+*"The requirement in section 671(a)(25) of this title that a State plan provide that the State shall have in effect procedures providing for the use of an electronic interstate case-processing system shall not apply to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part."; and*
 
 (2) in subsection (d)—
 
