@@ -22,7 +22,7 @@ Pub. L. 117–263, div. K, title CXVII, §11708, Dec. 23, 2022, 136 Stat. 4158, 
 
 "(2) the second newly acquired aircraft to be fully operational not later than 1 year after the first such aircraft is required to be fully operational under subparagraph (A).
 
-"(c) Acquisition of Aircraft to Replace End of Life-cycle Aircraft.—Subject to the availability of appropriations, the Under Secretary shall maintain the ability of the National Oceanic and Atmospheric Administration to meet agency air reconnaissance and research mission requirements by acquiring new aircraft prior to the end of the service life of the aircraft being replaced with sufficient lead time that the replacement aircraft is fully operation prior to the retirement of the aircraft it is replacing.
+"(c) Acquisition of Aircraft to Replace End of Life-cycle Aircraft.—Subject to the availability of appropriations, the Under Secretary shall maintain the ability of the National Oceanic and Atmospheric Administration to meet agency air reconnaissance and research mission requirements by acquiring new aircraft prior to the end of the service life of the aircraft being replaced with sufficient lead time that the replacement aircraft is fully operation [sic] prior to the retirement of the aircraft it is replacing.
 
 "(d) Authorization of Appropriations.—For fiscal year 2023, there is authorized to be appropriated to the Under Secretary $800,000,000 for the acquisition of aircraft under this section."
 

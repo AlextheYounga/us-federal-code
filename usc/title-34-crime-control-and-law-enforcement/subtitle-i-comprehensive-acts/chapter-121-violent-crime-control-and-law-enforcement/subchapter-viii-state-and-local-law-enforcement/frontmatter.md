@@ -38,6 +38,6 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(c) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act") may apply to the Task Force, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Attorney General.
+(c) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.] (the "Act") may apply to the Task Force, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Attorney General.
 
 Barack Obama.

@@ -912,9 +912,9 @@ Pub. L. 115–31, div. G, title IV, §431(a)(3) [§§1–8], May 5, 2017, 131 St
 
 "(b) Application of Federal Advisory Committee Act.—
 
-"(1) In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
+"(1) In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.] shall apply to the activities of the Centennial Commission under this Act.
 
-"(2) Exception.—Section 14(a)(2) of such Act (5 U.S.C. App.) shall not apply to the Centennial Commission.
+"(2) Exception.—Section 14(a)(2) of such Act ([former] 5 U.S.C. App.) [see 5 U.S.C. 1013(a)] shall not apply to the Centennial Commission.
 
 #### "SEC. 8. AUTHORIZATION OF APPROPRIATIONS. ####
 
@@ -1900,7 +1900,7 @@ J.R. Biden, Jr.
 
 Prior similar proclamations were contained in the following:
 
-Proc. No. 10210, May 14, 2021, 86 F.R. 27017, superseded by Proc No. 10400, May 20, 2022, 87 F.R. 31702.
+Proc. No. 10210, May 14, 2021, 86 F.R. 27017, superseded by Proc. No. 10400, May 20, 2022, 87 F.R. 31702.
 
 Proc. No. 10034, May 15, 2020, 85 F.R. 30585, superseded by Proc. No. 10210, May 14, 2021, 86 F.R. 27017.
 

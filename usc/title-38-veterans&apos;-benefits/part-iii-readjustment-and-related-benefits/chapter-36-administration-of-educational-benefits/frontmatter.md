@@ -1,6 +1,6 @@
 ### **CHAPTER 36—ADMINISTRATION OF EDUCATIONAL BENEFITS** ###
 
-#### SUBCHAPTER I–EMERGENCY SITUATIONS ####
+#### SUBCHAPTER I—EMERGENCY SITUATIONS ####
 
 3601. 1
 
@@ -14,7 +14,7 @@ Definition of emergency situation.
 
 3605. Payment of educational assistance in cases of withdrawal.
 
-#### SUBCHAPTER II–STATE APPROVING AGENCIES ####
+#### SUBCHAPTER II—STATE APPROVING AGENCIES ####
 
 Sec. 2
 
@@ -44,7 +44,7 @@ Sec. 2
 
 3679. Disapproval of courses.
 
-#### SUBCHAPTER III–MISCELLANEOUS PROVISIONS ####
+#### SUBCHAPTER III—MISCELLANEOUS PROVISIONS ####
 
 3680. Payment of educational assistance or subsistence allowances.
 
