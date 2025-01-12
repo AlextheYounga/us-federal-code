@@ -204,7 +204,7 @@ The amount of the credit allowable under subsection (a) (determined without rega
 
 For purposes of this paragraph, the term "applicable threshold amount" means—
 
-(i) $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)),
+(i) $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)) ,<sup><a href="#24_1_target" name="24_1">1</a></sup>
 
 (ii) $112,500, in the case of a head of household (as defined in section 2(b)), and
 
@@ -675,3 +675,5 @@ Pub. L. 105–34, title I, §101(e), Aug. 5, 1997, 111 Stat. 799, provided that:
 #### Refunds Disregarded in Administration of Federal and Federally Assisted Programs ####
 
 Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: "Any payment considered to have been made to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds."
+
+[<sup>1</sup> So in original.](#24_1)

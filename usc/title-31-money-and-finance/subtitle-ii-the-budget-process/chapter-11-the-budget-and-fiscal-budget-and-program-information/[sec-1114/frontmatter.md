@@ -6,4 +6,4 @@ Section, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 916, related to budget infor
 
 #### Effective Date of Repeal ####
 
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 8752 of Title 10, Armed Forces.

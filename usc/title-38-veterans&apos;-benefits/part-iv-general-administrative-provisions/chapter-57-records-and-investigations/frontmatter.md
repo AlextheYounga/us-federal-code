@@ -168,7 +168,7 @@ Pub. L. 115–407, title V, §503, Dec. 31, 2018, 132 Stat. 5376, provided that:
 
 #### Discontinuation of Use of Social Security Numbers To Identify Individuals in Department of Veterans Affairs Information Systems ####
 
-Pub. L. 116–260, div. J, title II, §237, Dec. 27, 2020, 134 Stat. 1681, provided that:
+Pub. L. 117–103, div. J, title II, §237, Mar. 15, 2022, 136 Stat. 556, provided that:
 
 "(a) Except as provided in subsection (b), the Secretary of Veterans Affairs, in consultation with the Secretary of Defense and the Secretary of Labor, shall discontinue using Social Security account numbers to identify individuals in all information systems of the Department of Veterans Affairs as follows:
 
@@ -181,6 +181,8 @@ Pub. L. 116–260, div. J, title II, §237, Dec. 27, 2020, 134 Stat. 1681, provi
 "(c) The matter in subsections (a) and (b) shall supersede section 238 of [div. F of] Public Law 116–94 [see below]."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 116–260, div. J, title II, §237, Dec. 27, 2020, 134 Stat. 1681.
 
 Pub. L. 116–94, div. F, title II, §238, Dec. 20, 2019, 133 Stat. 2804.
 

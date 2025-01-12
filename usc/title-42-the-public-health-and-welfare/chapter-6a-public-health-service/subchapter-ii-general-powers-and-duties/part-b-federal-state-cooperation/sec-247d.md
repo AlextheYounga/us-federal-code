@@ -250,7 +250,7 @@ Pub. L. 107–188, title I, §144(b), June 12, 2002, 116 Stat. 630, provided tha
 
 Pub. L. 117–2, title II, §2301, Mar. 11, 2021, 135 Stat. 37, provided that:
 
-"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle D (§§2301–2305) of title II of Pub. L. 117–2, see Tables for classification] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,500,000,000, to remain available until expended, to carry out activities to plan, prepare for, promote, distribute, administer, monitor, and track COVID–19 vaccines.
+"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [subtitle D (§§2301–2305) of title II of Pub. L. 117–2, see Tables for classification] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,500,000,000, to remain available until expended, to carry out activities to plan, prepare for, promote, distribute, administer, monitor, and track COVID–19 vaccines.
 
 "(b) Use of Funds.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, and in consultation with other agencies, as applicable, shall, in conducting activities referred to in subsection (a)—
 
@@ -294,7 +294,7 @@ Pub. L. 117–2, title II, §2301, Mar. 11, 2021, 135 Stat. 37, provided that:
 
 Pub. L. 117–2, title II, §2401, Mar. 11, 2021, 135 Stat. 40, provided that:
 
-"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle E (§§2401–2404) of title II of Pub. L. 117–2, see Tables for classification] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $47,800,000,000, to remain available until expended, to carry out activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies to mitigate the spread of COVID–19.
+"(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [subtitle E (§§2401–2404) of title II of Pub. L. 117–2, see Tables for classification] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $47,800,000,000, to remain available until expended, to carry out activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies to mitigate the spread of COVID–19.
 
 "(b) Use of Funds.—From amounts appropriated by subsection (a), the Secretary shall—
 

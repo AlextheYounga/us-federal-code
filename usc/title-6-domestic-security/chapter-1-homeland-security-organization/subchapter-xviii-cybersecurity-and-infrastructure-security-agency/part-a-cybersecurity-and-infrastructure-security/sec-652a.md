@@ -112,7 +112,7 @@ Not later than 180 days after the Secretary submits a recommendation pursuant to
 
 Any designation of critical infrastructure sectors shall be published in the Federal Register.
 
-#### (c) Sector risk management agencies ####
+#### (c) Sector Risk Management Agencies ####
 
 #### (1) Omitted ####
 

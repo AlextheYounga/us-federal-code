@@ -22,6 +22,8 @@ Sec.
 
 1905a. Reimbursement for salaries paid for service at Federal Law Enforcement Training Center.
 
+1905b. Notification of obligation.
+
 1906. Disposal of surplus property.
 
 1907. Transfer of disbursing function.

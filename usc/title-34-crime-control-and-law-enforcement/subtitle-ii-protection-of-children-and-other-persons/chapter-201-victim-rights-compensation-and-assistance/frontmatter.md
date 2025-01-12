@@ -30,7 +30,7 @@ Sec.
 
 20121. Legal assistance for victims.
 
-20122. Education, training, and enhanced services to end violence against and abuse of women with disabilities.
+20122. Education, training, and enhanced services to end violence against and abuse of individuals with disabilities and Deaf people.
 
 20123. Grants for outreach and services to underserved populations.
 
@@ -41,6 +41,14 @@ Sec.
 20126. Consultation.
 
 20127. Emergency and transitional pet shelter and housing assistance grant program.
+
+20128. Agency and department coordination.
+
+20129. LGBT specific services program.
+
+20130. Study and reports on barriers to survivors' economic security access.
+
+20131. Media campaign.
 
 #### SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES ####
 

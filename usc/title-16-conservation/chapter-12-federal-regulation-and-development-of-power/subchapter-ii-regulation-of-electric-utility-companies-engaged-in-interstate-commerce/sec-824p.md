@@ -232,7 +232,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6
 
 **2021**—Subsec. (a)(1). Pub. L. 117–58, §40105(a)(1), inserted "and Indian Tribes" after "affected States" and "capacity constraints and" before "congestion".
 
-Subsec. (a)(2). Pub. L. 117–58, §40105(a)(2), substituted "Not less frequently than once every 3 years, the Secretary, after" for "After", and "affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—" for "affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor." and added (i) and (ii).
+Subsec. (a)(2). Pub. L. 117–58, §40105(a)(2), substituted "Not less frequently than once every 3 years, the Secretary, after" for "After" and "affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—" for "affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor." and added subpars. (i) and (ii).
 
 Subsec. (a)(3). Pub. L. 117–58, §40105(a)(3), substituted "Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult" for "The Secretary shall conduct the study and issue the report in consultation".
 
@@ -242,7 +242,7 @@ Subsec. (a)(4)(F) to (H). Pub. L. 117–58, §40105(a)(4)(B)–(D), added subpar
 
 Subsec. (b)(1)(A)(ii). Pub. L. 117–58, §40105(b)(1)(A), inserted "or interregional benefits" after "interstate benefits".
 
-Subsec. (b)(1)(C). Pub. L. 117–58, §40105(b)(1)(B), added subpar. (C) and struck out former subpar. (C), which related to State commission or other authority withholding approval of construction or giving conditional approval that will not result in significant reduction of transmission congestion in interstate commerce or is not economically feasible.
+Subsec. (b)(1)(C). Pub. L. 117–58, §40105(b)(1)(B), added subpar. (C) and struck out former subpar. (C) which related to State commission or other authority withholding approval of construction or giving conditional approval that will not result in significant reduction of transmission congestion in interstate commerce or is not economically feasible.
 
 Subsec. (e)(1). Pub. L. 117–58, §40105(c), substituted "modify, and operate and maintain, the transmission facilities and, in the determination of the Commission, the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process, the" for "modify the transmission facilities, the".
 

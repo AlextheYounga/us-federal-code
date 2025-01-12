@@ -90,19 +90,17 @@ In subsec. (d)(2)(A), "section 132 of title 41" substituted for "section 4 of th
 
 Subsec. (a)(2). Pub. L. 117–58, §28001(a)(2)(C), substituted "paragraph (1)" for "paragraphs (1) and (2)".
 
-Pub. L. 117–58, §28001(a)(2)(A), struck out par. (2) which read as follows: "personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;".
+Pub. L. 117–58, §28001(a)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;".
 
-Pub. L. 117–58, §28001(a)(2)(B), redesignated par. (3) as (2).
-
-Subsec. (a)(3), (4). Pub. L. 117–58, §28001(a)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively.
+Subsec. (a)(3), (4). Pub. L. 117–58, §28001(a)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
 Subsec. (a)(4)(B). Pub. L. 117–58, §28001(a)(2)(D), substituted "employee authorized under paragraph (1)" for "full-time equivalent employee authorized under paragraphs (1) and (2)".
 
-Subsec. (a)(5) to (8). Pub. L. 117–58, §28001(a)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively.
+Subsec. (a)(5) to (8). Pub. L. 117–58, §28001(a)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
 
 Subsec. (a)(8)(A). Pub. L. 117–58, §28001(a)(2)(E), struck out "on a full-time basis" after "administer this chapter".
 
-Subsec. (a)(9) to (12). Pub. L. 117–58, §28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, in par. (10) inserted "or part-time" after "full-time" and ", subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter" after "incurred".
+Subsec. (a)(9) to (12). Pub. L. 117–58, §28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and, in par. (10), inserted "or part-time" after "full-time" and ", subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter" after "incurred". Former par. (9) redesignated (8).
 
 **2005**—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted "section 777c(b)" for "section 777c(d)(1)" in introductory provisions.
 

@@ -6,7 +6,7 @@ Tobacco products, including modified risk tobacco products for which an order ha
 
 #### (b) Applicability ####
 
-This subchapter shall apply to all cigarettes, cigarette tobacco, roll-your-own tobacco, and smokeless tobacco and to any other tobacco products that the Secretary by regulation deems to be subject to this subchapter.
+This subchapter shall apply to all cigarettes, cigarette tobacco, roll-your-own tobacco, and smokeless tobacco and to any other tobacco products that the Secretary by regulation deems to be subject to this subchapter. This subchapter shall also apply to any tobacco product containing nicotine that is not made or derived from tobacco.
 
 #### (c) Scope ####
 
@@ -44,7 +44,7 @@ The Secretary shall establish within the Food and Drug Administration an identif
 
 Prior to promulgating rules under this subchapter, the Secretary shall endeavor to consult with other Federal agencies as appropriate.
 
-(June 25, 1938, ch. 675, §901, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1786.)
+(June 25, 1938, ch. 675, §901, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1786; amended Pub. L. 117–103, div. P, title I, §111(b), Mar. 15, 2022, 136 Stat. 789.)
 
 #### **Editorial Notes** ####
 
@@ -55,3 +55,13 @@ The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (c
 #### Prior Provisions ####
 
 A prior section 901 of act June 25, 1938, was renumbered section 1001 and is classified to section 391 of this title.
+
+#### Amendments ####
+
+**2022**—Subsec. (b). Pub. L. 117–103 inserted at end "This subchapter shall also apply to any tobacco product containing nicotine that is not made or derived from tobacco."
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–103 effective 30 days after Mar. 15, 2022, see section 111(c) of Pub. L. 117–103, div. P, title I, Mar. 15, 2022, 136 Stat. 789, set out as a note under section 321 of this title.

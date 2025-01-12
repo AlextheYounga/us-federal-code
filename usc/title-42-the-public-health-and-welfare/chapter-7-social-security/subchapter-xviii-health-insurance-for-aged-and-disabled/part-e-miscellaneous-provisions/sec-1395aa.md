@@ -26,8 +26,6 @@ Notwithstanding any other provision of law, the Secretary may not impose, or req
 
 Amendment of section by section 125(d)(2) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023. See 2020 Amendment note below.
 
-Amendment of section by section 407(a)(3)(A) of Pub. L. 116–260 applicable with respect to agreements entered into on or after, or in effect as of, the date that is 1 year after Dec. 27, 2020. See 2020 Amendment note below.
-
 #### **Editorial Notes** ####
 
 #### Amendments ####

@@ -70,7 +70,7 @@ For purposes of this subsection, the term "public safety officer" means—
 
 #### Amendment of Section ####
 
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions for implementation on or after July 1, 2023, this section is amended to read as follows:
 
 #### §1087mm. Special rules for student aid index ####
 
@@ -116,7 +116,7 @@ Subsec. (b)(4), (5). Pub. L. 115–141, §317(3), added pars. (4) and (5).
 
 #### Effective Date of 2020 Amendment ####
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title. Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(i) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under section 1070a of this title.
 
 #### Effective Date of 2009 Amendment ####
 

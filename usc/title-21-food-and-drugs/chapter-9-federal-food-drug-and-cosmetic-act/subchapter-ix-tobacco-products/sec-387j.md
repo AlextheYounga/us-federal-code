@@ -203,3 +203,21 @@ The Secretary may exempt tobacco products intended for investigational use from 
 #### Prior Provisions ####
 
 A prior section 910 of act June 25, 1938, was renumbered section 1010 and is classified to section 399a of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Submission of Applications for Previously Marketed Products ####
+
+Pub. L. 117–103, div. P, title I, §111(d), Mar. 15, 2022, 136 Stat. 789, provided that:
+
+"(1) Transition period for all products.—With respect to a tobacco product that contains nicotine from any source other than tobacco and that was being marketed in the United States within 30 days after the date of enactment of this Act [Mar. 15, 2022], such product shall not be considered to be in violation of section 910 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j) (relating to applications for review of certain tobacco products) during the 60-day period following the date of enactment of this Act.
+
+"(2) Submission of applications.—
+
+"(A) In general.—As a condition for continuing to market a product described in paragraph (1) after the 60-day period specified in such paragraph, during the 30-day period beginning on the effective date specified in subsection (c) [21 U.S.C. 321 note], the manufacturer shall submit a new tobacco product application under section 910(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j(b)) with respect to such product.
+
+"(B) Transition period.—Except as provided in subparagraph (C), with respect to a tobacco product for which an application is submitted as described in subparagraph (A), the manufacturer of such product may continue to market such product during the 90-day period beginning on the effective date specified in subsection (c).
+
+"(C) Exception.—If the Secretary of Health and Human Services previously denied an application under section 910(c)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j(c)(2)), refused to file an application under section 910(b) of such Act, or withdrew an order under section 910(d) of such Act for a previous version of a tobacco product that used nicotine made or derived from tobacco, such product is not eligible for continued marketing under subparagraph (B).
+
+"(3) End of transition period.—Beginning on the date that is 90 days after the effective date specified in subsection (c), a tobacco product described in paragraph (1) (including such a tobacco product that is the subject of a pending application under section 910 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j)) is in violation of such section 910 if such tobacco product does not have an order in effect under subsection (c)(1)(A)(i) of such section."

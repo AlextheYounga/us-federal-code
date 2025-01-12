@@ -20,9 +20,13 @@ Sec.
 
 249. Hate crime acts.
 
+250. Penalties for civil rights offenses involving sexual misconduct.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–103, div. W, title XII, §1202(a)(2), Mar. 15, 2022, 136 Stat. 924, added item 250.
 
 **2009**—Pub. L. 111–84, div. E, §4707(b), Oct. 28, 2009, 123 Stat. 2841, added item 249.
 

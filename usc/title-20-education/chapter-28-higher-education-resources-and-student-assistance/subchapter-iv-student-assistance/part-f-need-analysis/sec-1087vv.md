@@ -224,7 +224,7 @@ The term "special combat pay" means pay received by a member of the Armed Forces
 
 #### Amendment of Section ####
 
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(l)(2), Dec. 27, 2020, 134 Stat. 3137, 3163, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(l)(2), Dec. 27, 2020, 134 Stat. 3137, 3163; Pub. L. 117–103, div. R, §102(a), (c)(1)(A)(iii) Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 #### §1087vv. Definitions ####
 
@@ -558,7 +558,7 @@ Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
 
 #### Effective Date of 2020 Amendment ####
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title. Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(iii) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under section 1070a of this title.
 
 #### Effective Date of 2014 Amendment ####
 

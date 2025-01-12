@@ -28,7 +28,7 @@ In the last par. of subsec. (b), "subchapter I of chapter 81 of title 5" substit
 
 **1972**—Pub. L. 92–310 struck out provisions which permitted the board to require bonds from managers, assistant managers, officers, employees, attorneys, and agents.
 
-#### **Statutory Notes and Statutory Notes** ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

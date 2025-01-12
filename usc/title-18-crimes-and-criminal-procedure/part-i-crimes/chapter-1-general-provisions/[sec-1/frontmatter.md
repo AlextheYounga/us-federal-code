@@ -12,6 +12,12 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 Pub. L. 117–107, §1, Mar. 29, 2022, 136 Stat. 1125, provided that: "This Act [amending section 249 of this title] may be cited as the 'Emmett Till Antilynching Act'."
 
+Pub. L. 117–103, div. W, title X, §1001(a), Mar. 15, 2022, 136 Stat. 912, provided that: "This section [enacting section 4051 of this title, amending section 3621 of this title, and enacting provisions set out as a note under section 3621 of this title] may be cited as the 'Ramona Brant Improvement of Conditions for Women in Federal Custody Act'."
+
+Pub. L. 117–103, div. W, title XI, §1101(a), Mar. 15, 2022, 136 Stat. 919, provided that: "This section [enacting section 925B of this title and amending section 921 of this title] may be cited as the 'NICS Denial Notification Act of 2022'."
+
+Pub. L. 117–103, div. W, title XII, §1201, Mar. 15, 2022, 136 Stat. 923, provided that: "This title [enacting section 250 of this title and section 60106 of Title 34, Crime Control and Law Enforcement, amending sections 2242 to 2244 and 2246 of this title, and enacting provisions set out as notes under section 60106 of Title 34] may be cited as the 'Closing the Law Enforcement Consent Loophole Act of 2022'."
+
 #### Short Title of 2021 Amendment ####
 
 Pub. L. 117–59, §1, Nov. 18, 2021, 135 Stat. 1468, provided that: "This Act [amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under section 1114 of this title] may be cited as the 'Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act'."

@@ -132,17 +132,17 @@ The term "means-tested Federal benefit program" means a mandatory spending progr
 
 (F) other programs identified by the Secretary.
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(h), Dec. 27, 2020, 134 Stat. 3152.)
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(h), Dec. 27, 2020, 134 Stat. 3152; Pub. L. 117–103, div. R, §102(b)(3), Mar. 15, 2022, 136 Stat. 819.)
 
 #### Amendment of Section ####
 
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152; Pub. L. 117–103, div. R, §102(a), (b)(3), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 #### §1087ss. Eligible applicants exempt from asset reporting ####
 
 #### *(a) In general* ####
 
-*Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under section 1090 of this title, on or after July 1, 2023.*
+*Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under section 1090 of this title, on or after July 1, 2024.*
 
 #### *(b) Applicants exempt from asset reporting* ####
 
@@ -228,7 +228,7 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 St
 
 *(vii) Other means-tested programs determined by the Secretary to be approximately consistent with the income eligibility requirements of the means-tested programs under clauses (i) through (vi).*
 
-See 2020 Amendment note below.
+See 2020 and 2022 Amendment notes below.
 
 #### **Editorial Notes** ####
 
@@ -245,6 +245,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2022**—Subsec. (a). Pub. L. 117–103 substituted "July 1, 2024" for "July 1, 2023".
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to simplified needs test.
 
@@ -340,7 +342,7 @@ Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
 #### Effective Date of 2020 Amendment ####
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2014 Amendment ####
 

@@ -108,7 +108,7 @@ Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539
 
 #### Ex. Ord. No. 13265. President's Council on Sports, Fitness, and Nutrition ####
 
-Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923, provided:
+Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923; Ex. Ord. No. 14048, §7, Sept. 30, 2021, 86 F.R. 55467, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Sports, Fitness, and Nutrition (the "Council"), it is hereby ordered as follows:
 
@@ -116,15 +116,19 @@ Section 1. *Purpose.* My Administration recognizes the benefits of youth sports 
 
 Good health, including physical activity and proper nutrition, supports Americans', particularly children's, well-being, growth, and development. Participating in sports allows children to experience the connection between effort and success, and it enhances their academic, economic, and social prospects. Many of America's leaders attribute their lifetime achievements to lessons learned through sports participation and athletic activity. Additionally, youth sports help working parents and guardians by providing their children opportunities to engage in productive, positive activities outside of school. Unfortunately, during the past decade youth participation in team sports has declined. As of 2016, only 37 percent of children played team sports on a regular basis, down from 45 percent in 2008. Particularly troubling is that sports participation disproportionately lags among young girls and children who are from economically distressed areas.
 
-Sec. 2. *Policy*. (a) The Secretary of Health and Human Services (Secretary), in carrying out the Secretary's responsibilities for public health and human services, shall develop a national strategy to expand children's participation in youth sports, encourage regular physical activity, including active play, and promote good nutrition for all Americans. This national strategy shall focus on children and youth in communities with below-average sports participation and communities with limited access to athletic facilities or recreational areas. Through this national strategy, the Secretary shall seek to:
+Sec. 2. *Policy*. (a) The Secretary of Health and Human Services (Secretary), in carrying out the Secretary's responsibilities for public health and human services, shall continue to promulgate a national strategy (the National Youth Sports Strategy) to expand children's participation in youth sports, encourage regular physical activity, including active play, and promote good nutrition for all Americans. This national strategy shall focus on children and youth in communities with below-average sports participation and communities with limited access to athletic facilities or recreational areas. Through this national strategy, the Secretary shall seek to:
 
 (i) increase awareness of the benefits of participation in sports and regular physical activity, as well as the importance of good nutrition;
 
 (ii) promote private and public sector strategies to increase participation in sports, encourage regular physical activity, and improve nutrition;
 
-(iii) develop metrics that gauge youth sports participation and physical activity to inform efforts that will improve participation in sports and regular physical activity among young Americans; and
+(iii) develop metrics that gauge youth sports participation and physical activity to inform efforts that will improve participation in sports and regular physical activity among young Americans;
 
-(iv) establish a national and local strategy to recruit volunteers who will encourage and support youth participation in sports and regular physical activity, through coaching, mentoring, teaching, or administering athletic and nutritional programs.
+(iv) establish a national and local strategy to recruit volunteers who will encourage and support youth participation in sports and regular physical activity, through coaching, mentoring, teaching, or administering athletic and nutritional programs;
+
+(v) expand national awareness of the importance of mental health as it pertains to physical fitness and nutrition; and
+
+(vi) share information about the positive effects of physical activity on mental health, particularly as it relates to children and adolescents, to combat the negative mental health impacts of the coronavirus disease 2019 (COVID–19) pandemic.
 
 Sec. 3. *The President's Council on Sports, Fitness, and Nutrition*. (a) There is hereby established the President's Council on Sports, Fitness, and Nutrition (Council).
 
@@ -135,6 +139,8 @@ Sec. 4. *Functions of the Council*. (a) The Council shall advise the President, 
 (b) The Council shall recommend to the Secretary actions to expand opportunities at the national, State, and local levels for participation in sports and engagement in physical fitness and activity.
 
 (c) The Council's performance of these functions shall take into account the Department of Health and Human Services' Physical Activity Guidelines for Americans, including consideration for youth with disabilities.
+
+(d) The Council members shall function as liaisons and spokespersons on behalf of the Council to relevant State, local, and private entities, and share information about the work of the Council in order to advise the Secretary regarding opportunities to extend and improve physical activity, fitness, sports, and nutrition programs and services at the State, local, and national levels.
 
 Sec. 5. *Administration*. (a) Each executive department and agency shall, to the extent permitted by law and subject to the availability of funds, furnish such information and assistance to the Secretary and the Council as they may request.
 
@@ -170,9 +176,11 @@ Sec. 6. *General Provisions*. (a) Insofar as the Federal Advisory Committee Act,
 
 #### Extension of Term of President's Council on Fitness, Sports, and Nutrition ####
 
-Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council on Fitness, Sports, and Nutrition, formerly President's Council on Physical Fitness and Sports, were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

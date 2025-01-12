@@ -1,4 +1,4 @@
-### §665g. State and local cybersecurity grant program ###
+### §665g. State and Local Cybersecurity Grant Program ###
 
 #### (a) Definitions ####
 
@@ -30,7 +30,7 @@ The term "eligible entity" means a—
 
 #### (5) Incident ####
 
-The term "incident" has the meaning given the term in section 2209.
+The term "incident" has the meaning given the term in section 659 of this title.
 
 #### (6) Information sharing and analysis organization ####
 
@@ -562,7 +562,7 @@ The Secretary, acting through the Director, shall make each report submitted und
 
 #### (B) Redactions ####
 
-In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the 'Freedom of Information Act').
+In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the "Freedom of Information Act").
 
 #### (4) Study of risk-based formulas ####
 
@@ -634,10 +634,14 @@ Subject to paragraph (2), the requirements of this section shall terminate on Se
 
 The reporting requirements under subsection (q) shall terminate on the date that is 1 year after the date on which the final funds from a grant under this section are expended or returned.
 
-(Pub. L. 107–296, title XXII, §2220A, formerly §2218, as added Pub. L. 117–58, div. G, title VI, §70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered §2220A and amended, Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, §2220A, formerly §2218, as added Pub. L. 117–58, div. G, title VI, §70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered §2220A and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061.)
 
 #### **Editorial Notes** ####
 
+#### References in Text ####
+
+The Food and Nutrition Act of 2008, referred to in subsec. (m)(2)(C)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
 #### Amendments ####
 
-**2021**—Pub. L. 117–81 re-enact4ed section catchline.
+**2021**—Pub. L. 117–81 reenacted section catchline.

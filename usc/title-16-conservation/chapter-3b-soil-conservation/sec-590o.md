@@ -18,11 +18,11 @@ To enable the Secretary of Agriculture to carry out the purposes of section 590g
 
 **1938**—Act Feb. 16, 1938, inserted par. beginning "The funds available".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1977 Amendment ####
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of Title 7, Agriculture.
-
-#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1938 Amendment ####
 

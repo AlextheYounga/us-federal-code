@@ -54,11 +54,9 @@ A prior section 118b, added Pub. L. 110–181, div. A, title IX, §941(a), Jan. 
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, §1081(a)(3), which directed renumbering of "second section 118a, as added by section 341 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283)" as section 118b, was read as referring to this section, to reflect the probable intent of Congress. However, that renumbering could not be executed due to the intervening amendment by Pub. L. 117–81, §311(b)(1)(B), (C), which had already renumbered section 118a, relating to National Defense Sustainment and Logistics Review, as this section. See below.
+**2021**—Pub. L. 117–81, §§311(b)(1)(B), (C), 1081(a)(3), made similar amendments, renumbering section 118a, relating to National Defense Sustainment and Logistics Review, as this section. Section 1081(a)(3), which directed the renumbering of the "second" section 118a, as added by section 341 of Pub. L. 116–283, was read as referring to this section, which had appeared as the first section 118a, to reflect the probable intent of Congress. Amendment by section 1081(a)(3) to be treated as applying before amendment by section 311(b)(1)(B), (C), see section 1081(d) of Pub. L. 117–81, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act under section 101 of this title.
 
-Pub. L. 117–81, §311(b)(1)(B), (C), renumbered section 118a of this title, relating to National Defense Sustainment and Logistics Review, as this section.
-
-Subsec. (a). Pub. L. 117–81 substituted "capabilities, response to risks to military installation resilience," for "capabilities,".
+Subsec. (a). Pub. L. 117–81, §311(b)(1)(A), substituted "capabilities, response to risks to military installation resilience," for "capabilities,".
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
@@ -66,4 +64,4 @@ Subsec. (a). Pub. L. 117–81 substituted "capabilities, response to risks to mi
 
 Pub. L. 116–283, div. A, title III, §341(c), Jan. 1, 2021, 134 Stat. 3537, as amended by Pub. L. 117–81, div. A, title III, §311(b)(2)(B), Dec. 27, 2021, 135 Stat. 1625, provided that: "Notwithstanding the deadline in subsection (b)(1) of section 118b of title 10, United States Code, as added by subsection (a), the Secretary of Defense shall submit the first report under such section not later than the date that is 18 months after the date of the enactment of this Act [Jan. 1, 2021], unless a new National Defense Strategy is released prior to such date."
 
-[Pub. L. 117–81, div. A, title III, §311(b)(2)(B), which directed amendment of section 314(c) of Pub. L. 116–283, was executed by amending section 341(c) of Pub. L. 116–283, set out above, by substituting "section 118b" for "section 118a", to reflect the probable intent of Congress.]
+[Pub. L. 117–81, div. A, title III, §311(b)(2)(B), which directed amendment of section "314(c)" of Pub. L. 116–283 by substituting "section 118b" for "section 118a", was executed by making the amendment to section 341(c) of Pub. L. 116–283, set out above, to reflect the probable intent of Congress.]

@@ -235,3 +235,5 @@ Sec.
 184. Incorporation of digital collections into educational curricula.
 
 185. Inspector General of the Library of Congress.
+
+186. Library of Congress orders under task and delivery order contracts.

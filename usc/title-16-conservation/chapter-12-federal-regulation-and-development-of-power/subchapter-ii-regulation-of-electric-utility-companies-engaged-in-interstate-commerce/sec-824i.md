@@ -58,6 +58,8 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 **1980**—Subsec. (a)(1). Pub. L. 96–294 added applicability to geothermal power producers.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities ####
 
 For provisions requiring the Federal Energy Regulatory Commission to conduct a study and report to Congress on whether the benefits of this section and section 824a–3 of this title should be applied to hydroelectric power facilities utilizing new dams or diversions, within the meaning of section 824a–3(k) of this title, see section 8(d) of Pub. L. 99–495, set out as a note under section 824a–3 of this title.

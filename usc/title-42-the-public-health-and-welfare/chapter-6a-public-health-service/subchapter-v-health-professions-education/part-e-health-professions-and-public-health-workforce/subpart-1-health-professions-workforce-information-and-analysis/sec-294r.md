@@ -180,8 +180,6 @@ A prior section 294r, act July 1, 1944, ch. 373, title VII, §751, as added Nov.
 
 Another prior section 294r, act July 1, 1944, ch. 373, title VII, §748, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, §3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, §206(a), 93 Stat. 583, which related to traineeships for students in schools of public health, was renumbered section 792 of act July 1, 1944, by Pub. L. 97–35 and transferred to section 295h–1b of this title, and was subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
-A prior section 294s, act July 1, 1944, ch. 373, title VII, §749, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2280; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, which related to traineeships for students in other graduate programs, was renumbered section 791A of act July 1, 1944, by Pub. L. 97–35 and transferred to section 295h–1a of this title, and was subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
-
 #### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####

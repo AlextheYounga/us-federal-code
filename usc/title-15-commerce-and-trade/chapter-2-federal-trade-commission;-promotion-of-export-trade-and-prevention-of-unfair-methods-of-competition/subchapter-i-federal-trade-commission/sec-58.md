@@ -14,6 +14,14 @@ For repeal of amendment renumbering this section by section 13 of Pub. L. 109–
 
 Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended, set out as a note under section 44 of this title.
 
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–103, div. Q, title I, §101, Mar. 15, 2022, 136 Stat. 809, provided that: "This title [enacting section 45e of this title, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under this section and section 45e of this title, and section 21711 of Title 34] may be cited as the 'Fraud and Scam Reduction Act'."
+
+Pub. L. 117–103, div. Q, title I, §111, Mar. 15, 2022, 136 Stat. 809, provided that: "This subtitle [amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under section 45e of this title and section 21711 of Title 34] may be cited as the 'Stop Senior Scams Act'."
+
+Pub. L. 117–103, div. Q, title I, §121, Mar. 15, 2022, 136 Stat. 811, provided that: "This subtitle [enacting section 45e of this title] may be cited as the 'Seniors Fraud Prevention Act of 2022'."
+
 #### Short Title of 2021 Amendment ####
 
 Pub. L. 116–287, §1, Jan. 5, 2021, 134 Stat. 4882, provided that: "This Act [enacting provisions set out as a note under section 52 of this title] may be cited as the 'Combating Pandemic Scams Act of 2020'."

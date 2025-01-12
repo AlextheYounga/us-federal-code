@@ -46,6 +46,8 @@ Except as otherwise provided in this subtitle, gross income means all income fro
 
 **1984**—Subsec. (a)(1). Pub. L. 98–369 inserted reference to fringe benefits.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2017 Amendment ####
 
 Pub. L. 115–97, title I, §11051(c), Dec. 22, 2017, 131 Stat. 2090, provided that: "The amendments made by this section [amending this section and sections 62, 121, 152, 219, 220, 223, 382, 408, 3402, 6724, and 7701 of this title and repealing sections 71, 215, and 682 of this title] shall apply to—

@@ -42,6 +42,8 @@ Pub. L. 112–239, div. A, title V, §519(a)(2), Jan. 2, 2013, 126 Stat. 1721, a
 
 **1958**—Pub. L. 85–861, §33(a)(4)(A), Sept. 2, 1958, 72 Stat. 1564, substituted "GENERAL SERVICE REQUIREMENTS" for "SERVICE REQUIREMENTS FOR RESERVES" in chapter heading.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Prohibition Against Members of the Armed Forces Participating in Criminal Street Gangs ####
 
 Pub. L. 110–181, div. A, title V, §544, Jan. 28, 2008, 122 Stat. 116, provided that: "The Secretary of Defense shall prescribe regulations to prohibit the active participation by members of the Armed Forces in a criminal street gang."

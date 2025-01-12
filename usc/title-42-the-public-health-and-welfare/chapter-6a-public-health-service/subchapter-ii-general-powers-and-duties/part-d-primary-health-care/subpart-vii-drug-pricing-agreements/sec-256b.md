@@ -380,6 +380,36 @@ Pub. L. 111–148, title VII, §7101(e), Mar. 23, 2010, 124 Stat. 823, provided 
 
 "(2) Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
 
+#### Eligibility Exception for the Drug Discount Program Due to the Covid–19 Public Health Emergency ####
+
+Pub. L. 117–103, div. P, title I, §121, Mar. 15, 2022, 136 Stat. 792, provided that:
+
+"(a) In General.—Notwithstanding any other provision of law, in the case of a hospital described in subsection (b) that, with respect to cost reporting periods that begin during fiscal year 2020 or a subsequent fiscal year, but do not end after December 31, 2022, does not meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c) by reason of the COVID–19 public health emergency, but otherwise meets the requirements for being a covered entity under subparagraph (L), (M), or (O) of subsection (a)(4) of section 340B of the Public Health Service Act (42 U.S.C. 256b) and is in compliance with all other requirements of the program under such section, shall be deemed a covered entity for purposes of such section for the period—
+
+"(1) beginning on the date of the enactment of this Act [Mar. 15, 2022] (or, if later, with the first of such cost reporting periods for which the hospital does not so meet such applicable requirement for the disproportionate share adjustment percentage, but otherwise meets all other such requirements for being such a covered entity and of such program); and
+
+"(2) ending with the last of such cost reporting periods (ending not later than December 31, 2022) for which the hospital does not so meet such applicable requirement for the disproportionate share adjustment percentage, but otherwise meets all other such requirements for being such a covered entity and of such program.
+
+"(b) Hospitals.—A hospital described in this subsection is an entity that, on the day before the first day of the COVID–19 public health emergency, was a covered entity described in subparagraph (L), (M), or (O) of subsection (a)(4) of section 340B of the Public Health Service Act participating in the drug discount program under such section.
+
+"(c) Applicable Requirement for Disproportionate Share Adjustment Percentage.—The applicable requirement for the disproportionate share adjustment percentage described in this subsection is—
+
+"(1) in the case of a hospital described in subsection (a) that otherwise meets the requirements under subparagraph (L) or (M) of section 340B(a)(4) of the Public Health Service Act, the requirement under subparagraph (L)(ii) of such section; and
+
+"(2) in the case of a hospital described in subsection (a) that otherwise meets the requirements under subparagraph (O) of such section 340B(a)(4), the requirement with respect to the disproportionate share adjustment percentage described in such subparagraph (O).
+
+"(d) Self-attestation.—
+
+"(1) In general.—A hospital described in subsection (a) that fails to meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c) shall, within 30 days of such failure, or in the case of a hospital where such failure occurred prior to the date of enactment of this Act but after the start of the COVID-19 public health emergency, within 30 days of the date of enactment, provide to the Secretary of Health and Human Services an attestation that contains information on any actions taken by or other impact on such hospital in response to or as a result of the COVID-19 public health emergency that may have impacted the ability to meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c).
+
+"(2) Paperwork reduction act.—Chapter 35 of title 44, United States Code, shall not apply to the collection of information provided pursuant to this subsection.
+
+"(e) Definitions.—In this section:
+
+"(1) Covered entity.—The term 'covered entity' has the meaning given such term in section 340B(a)(4) of the Public Health Service Act (42 U.S.C. 256b(a)(4)).
+
+"(2) Covid–19 public health emergency.—The term 'COVID–19 public health emergency' means the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19 (or any renewal of such declaration)."
+
 #### Pricing of Diagnostic Testing ####
 
 Pub. L. 116–136, div. A, title III, §3202, Mar. 27, 2020, 134 Stat. 367, provided that:

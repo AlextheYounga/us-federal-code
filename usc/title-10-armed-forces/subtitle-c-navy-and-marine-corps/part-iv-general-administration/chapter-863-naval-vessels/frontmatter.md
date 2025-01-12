@@ -86,7 +86,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title X, §§1013(b), 1014(b), 1015(a), 1016(b), 1017(b), Dec. 27, 2021, 135 Stat. 1893–1897, added items 8669c, 8678a, 8694, and 8695, and redesignated item 8692 "Biennial report on shipbuilder training and the defense industrial base" as 8693.
+**2021**—Pub. L. 117–81, div. A, title X, §§1013(b), 1014(b), 1015(a), 1016(b), 1017(b), Dec. 27, 2021, 135 Stat. 1893–1895, 1897, added items 8669c, 8678a, 8694, and 8695, and redesignated item 8692 "Biennial report on shipbuilder training and the defense industrial base" as 8693.
 
 Pub. L. 116–283, div. A, title XVIII, §1876(d), Jan. 1, 2021, 134 Stat. 4291, which added items 8684a and 8688a to the analysis of this chapter effective Jan. 1, 2022, was repealed by Pub. L. 117–81, div. A, title XVII, §1701(n)(3), Dec. 27, 2021, 135 Stat. 2146.
 

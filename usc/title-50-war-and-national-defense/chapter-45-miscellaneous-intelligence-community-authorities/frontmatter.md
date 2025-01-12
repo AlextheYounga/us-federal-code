@@ -34,13 +34,15 @@ Sec.
 
 3314. Report on national security systems.
 
-3315. Annual certification of controlled access programs.
+3315. Repealed.
 
 3316. Submission of intelligence community policies.
 
 3316a. Reports on intelligence community participation in vulnerabilities equities process of Federal Government.
 
 3316b. Continuity of operations plans for certain elements of the intelligence community in the case of a national emergency.
+
+3316c. Development of definitions for certain terms relating to intelligence.
 
 #### SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES ####
 
@@ -90,6 +92,10 @@ Sec.
 
 3334i. Seedling investment in next-generation microelectronics in support of artificial intelligence.
 
+3334j. Access to certain facilities of United States Government for assessment of anomalous health conditions.
+
+3334k. Report on protocols for certain intelligence community employees and dependents.
+
 #### SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION ####
 
 3341. Security clearances.
@@ -107,6 +113,8 @@ Sec.
 3347. Secrecy agreements used in intelligence activities.
 
 3348. Reports relating to certain special access programs and similar programs.
+
+3348a. Congressional oversight of sensitive programs not covered by other provisions of law.
 
 3349. Notification regarding the authorized public disclosure of national intelligence.
 
@@ -195,6 +203,8 @@ Sec.
 3372. Monitoring mineral investments under Belt and Road Initiative of People's Republic of China.
 
 3373. Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena.
+
+3373a. Support for and oversight of Unidentified Aerial Phenomena Task Force.
 
 #### SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES ####
 

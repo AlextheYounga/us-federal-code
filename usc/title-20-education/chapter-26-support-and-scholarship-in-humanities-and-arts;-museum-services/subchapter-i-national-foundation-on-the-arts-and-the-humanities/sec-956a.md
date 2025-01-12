@@ -38,6 +38,10 @@ Section was not enacted as part of the National Foundation on the Arts and the H
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Eligibility Limitation ####
+
+Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 407, provided in part: "That the item relating to 'National Capital Arts and Cultural Affairs' in the Department of the Interior and Related Agencies Appropriations Act, 1986, as enacted into law by section 101(d) of Public Law 99–190 (20 U.S.C. 956a), shall be applied in fiscal year 2022 in the second paragraph by inserting ', calendar year 2020 excluded' before the first period: *Provided further*, That in determining an eligible organization's annual income for calendar years 2021 and 2022, funds or grants received by the eligible organization from any supplemental appropriations Act related to coronavirus or any other law providing appropriations for the purpose of preventing, preparing for, or responding to coronavirus shall be counted as part of the eligible organization's annual income."
+
 #### Redesignation of Capital Children's Museum as National Children's Museum ####
 
 Pub. L. 108–81, title V, §502, Sept. 25, 2003, 117 Stat. 1003, provided that:

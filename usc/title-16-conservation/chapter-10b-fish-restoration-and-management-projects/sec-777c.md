@@ -126,11 +126,11 @@ Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A
 
 Subsec. (b)(1)(A). Pub. L. 117–58, §28001(a)(1)(B)(i)(I), substituted "fiscal year 2026" for "fiscal year 2021".
 
-Subsec. (b)(1)(B). Pub. L. 117–58, §28001(a)(1)(B)(i)(II), added subpar. (B) and struck out former subpar. (B), which related to available amounts for fiscal years 2001 to 2004 and thereafter.
+Subsec. (b)(1)(B). Pub. L. 117–58, §28001(a)(1)(B)(i)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2001 to 2004 and thereafter.
 
 Subsec. (b)(2)(A). Pub. L. 117–58, §28001(a)(1)(B)(ii)(I), substituted "2022 through 2026" for "2016 through 2021".
 
-Subsec. (b)(2)(B). Pub. L. 117–58, §28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B), which related to available amounts for fiscal years 2016, 2017, and thereafter.
+Subsec. (b)(2)(B). Pub. L. 117–58, §28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2016, 2017, and thereafter.
 
 Subsec. (e)(2). Pub. L. 117–58, §28001(a)(1)(C), substituted '$1,300,000" for "$900,000".
 

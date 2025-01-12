@@ -38,7 +38,7 @@ If, after the transfer of management and administration of any lands pursuant to
 
 #### (f) Water rights ####
 
-Congress finds that there are unique circumstances with respect to the water and water related resources within the Reserve <sup><a href="#460yy-1_1_target" name="460yy-1_1">1</a></sup> designated by this subchapter. The Congress recognizes that the management of this area may be transferred to the State of Idaho, that the State has committed to providing the water necessary to fulfill the purposes of this subchapter, and that there is little or no water or water-related resources that require the protection of a Federal reserved water right. Nothing in this subchapter, nor any action taken pursuant thereto, shall constitute either an express or implied reservation of water or water right for any purpose: *Provided*, That the United States shall retain that reserved water right which is associated with the initial establishment and withdrawal of the national forest lands which will be transferred to the Reserve <sup><a href="#460yy-1_1_target" name="460yy-1_1">1</a></sup> under this subchapter.
+Congress finds that there are unique circumstances with respect to the water and water related resources within the Reserve <sup><a href="#460yy-1_2_target" name="460yy-1_2">2</a></sup> designated by this subchapter. The Congress recognizes that the management of this area may be transferred to the State of Idaho, that the State has committed to providing the water necessary to fulfill the purposes of this subchapter, and that there is little or no water or water-related resources that require the protection of a Federal reserved water right. Nothing in this subchapter, nor any action taken pursuant thereto, shall constitute either an express or implied reservation of water or water right for any purpose: *Provided*, That the United States shall retain that reserved water right which is associated with the initial establishment and withdrawal of the national forest lands which will be transferred to the Reserve <sup><a href="#460yy-1_2_target" name="460yy-1_2">2</a></sup> under this subchapter.
 
 #### (g) Withdrawal of lands from disposition under other laws ####
 
@@ -66,4 +66,4 @@ Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923, provided that: "with r
 
 [<sup>1</sup> See References in Text note below.](#460yy-1_1)
 
-[<sup>1</sup> So in original. Probably should not be capitalized.](#460yy-1_1)
+[<sup>2</sup> So in original. Probably should not be capitalized.](#460yy-1_2)

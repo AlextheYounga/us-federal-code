@@ -46,11 +46,11 @@ For the purpose of this subchapter, the term "cost of attendance" means—
 
 (13) at the option of the institution, for a student in a program requiring professional licensure or certification, the one-time cost of obtaining the first professional credentials (as determined by the institution).
 
-(Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8016, Feb. 8, 2006, 120 Stat. 172; Pub. L. 110–315, title IV, §471(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3138.)
+(Pub. L. 89–329, title IV, §472, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 103–208, §2(g)(1), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §471, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8016, Feb. 8, 2006, 120 Stat. 172; Pub. L. 110–315, title IV, §471(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 116–260, div. FF, title VII, §702(b), Dec. 27, 2020, 134 Stat. 3138; Pub. L. 117–103, div. R, §103(a), Mar. 15, 2022, 136 Stat. 820.)
 
 #### Amendment of Section ####
 
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, §§102(a), (c)(1)(A)(i), 103(a), Mar. 15, 2022, 136 Stat. 819, 820, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions for implementation on or after July 1, 2023, this section is amended to read as follows:
 
 #### §1087ll. Cost of attendance ####
 
@@ -102,7 +102,7 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 St
 
 *(12) for a student engaged in a work experience under a cooperative education program, an allowance for reasonable costs associated with such employment (as determined by the institution);*
 
-*(13) for a student who receives a Federal student loan made under this subchapter or any other Federal law, to cover a student's cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or the parent of such student on such loan; and*
+*(13) for a student who receives a Federal student loan made under this subchapter or any other Federal law, to cover a student's cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or the parent of such student on such loan, or the average cost of any such fee or premium, as applicable; and*
 
 *(14) for a student in a program requiring professional licensure, certification, or a first professional credential, the cost of obtaining the license, certification, or a first professional credential.*
 
@@ -114,11 +114,13 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(b), Dec. 27, 2020, 134 St
 
 *Each institution shall make publicly available on the institution's website a list of all the elements of cost of attendance described in paragraphs (1) through (14) of subsection (a), and shall disclose such elements on any portion of the website describing tuition and fees of the institution.*
 
-See 2020 Amendment note below.
+See 2020 and 2022 Amendment notes below.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(13). Pub. L. 117–103 inserted ", or the average cost of any such fee or premium, as applicable" after "on such loan".
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section consisted of pars. (1) to (13) which defined "cost of attendance".
 
@@ -144,9 +146,13 @@ Par. (11). Pub. L. 105–244, §471(4), substituted "engaged" for "placed".
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–103 effective as if included in title VII of div. FF of Pub. L. 116–260 and subject to the effective date of section 701(b) of title VII (July 1, 2024), see section 103(d) of div. R of Pub. L. 117–103, set out as a note under section 1070a of this title.
+
 #### Effective Date of 2020 Amendment ####
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title. Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(i) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under section 1070a of this title.
 
 #### Effective Date of 2008 Amendment ####
 

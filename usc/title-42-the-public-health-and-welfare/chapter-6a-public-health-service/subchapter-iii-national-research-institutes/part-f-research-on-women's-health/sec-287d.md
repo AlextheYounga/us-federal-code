@@ -64,7 +64,7 @@ The Director of the Office shall—
 
 (iii) research on gender differences in disease etiology, course, and treatment;
 
-(iv) research on obstetrical and gynecological health conditions, diseases, and treatments; and
+(iv) research on obstetrical and gynecological health conditions, diseases, and treatments, including preventable maternal mortality and severe maternal morbidity; and
 
 (v) research on women's health conditions which require a multidisciplinary approach;
 
@@ -102,11 +102,13 @@ For purposes of this part:
 
 (2) The term "research on women's health" means research on women's health conditions, including research on preventing such conditions.
 
-(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, §2038(c), Dec. 13, 2016, 130 Stat. 1065.)
+(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, §2038(c), Dec. 13, 2016, 130 Stat. 1065; Pub. L. 117–103, div. P, title I, §141(d), Mar. 15, 2022, 136 Stat. 798.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (d)(4)(A)(iv). Pub. L. 117–103 inserted ", including preventable maternal mortality and severe maternal morbidity" before "; and".
 
 **2016**—Subsec. (c)(2). Pub. L. 114–255 substituted "senior-level staff designees" for "designees".
 

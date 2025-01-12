@@ -34,7 +34,7 @@ The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov.
 
 #### Amendments ####
 
-**2021**—Subsec. (d). Pub. L. 117–81, §1042(1)–(3), struck out par. (1) designation before "Except", substituted "In" for "Except as provided in paragraph (2), in", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2), which read as follows: " For purposes of this section, the term 'sensitive military operation' does not include any operation conducted within Afghanistan, Syria, or Iraq."
+**2021**—Subsec. (d). Pub. L. 117–81, §1042(1)–(3), substituted "In" for "(1) Except as provided in paragraph (2), in", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: " For purposes of this section, the term 'sensitive military operation' does not include any operation conducted within Afghanistan, Syria, or Iraq."
 
 Subsec. (d)(3). Pub. L. 117–81, §1042(4)–(6), added par. (3).
 

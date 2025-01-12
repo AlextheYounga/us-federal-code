@@ -62,9 +62,9 @@ Another section 118a was renumbered section 118b of this title.
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, §1061(a)(1), which directed renumbering of "second section 118a" of this title, relating to quadrennial quality of life review, as section 118b of this title was not be executed because of the intervening renumbering of section 118a of this title, relating to National Defense Sustainment and Logistics Review, as section 118b of this title by Pub. L. 117–81, §311(b)(1)(B), (C). See 2021 Amendment note set out under section 118b of this title.
+**2021**—Pub. L. 117–81, §1061(a)(1), which directed renumbering of the "second section 118a" of this title, relating to quadrennial quality of life review, as section 118b of this title could not be executed because there was no second section 118a of this title after the renumbering of another section 118a of this title, relating to National Defense Sustainment and Logistics Review, as section 118b by Pub. L. 117–81, §311(b)(1)(B), (C). See 2021 Amendment note set out under section 118b of this title.
 
-Subsec. (c)(15). Pub. L. 117–81, §1061(b), which directed the addition of par. (15) to section 118b of this title, as redesignated by Pub. L. 117–81, §1061(a)(1), was executed by adding par. (15) to this section to reflect the probable intent of Congress. See above.
+Subsec. (c)(15). Pub. L. 117–81, §1061(b), which directed the addition of par. (15) to subsec. (c) of section 118b of this title, as redesignated by Pub. L. 117–81, §1061(a)(1), was executed by adding par. (15) to subsec. (c) of this section to reflect the probable intent of Congress. See above.
 
 **2014**—Subsec. (b)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
 

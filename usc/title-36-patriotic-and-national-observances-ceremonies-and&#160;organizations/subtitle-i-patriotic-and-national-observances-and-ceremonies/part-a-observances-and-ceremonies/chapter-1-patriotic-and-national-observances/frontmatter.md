@@ -92,13 +92,17 @@ Sec.
 
 145. Veterans Day.
 
-146. National Atomic Veterans Day.
+146. National Atomic Veterans Day. 1
+
+146. 1 Choose Respect Day.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title X, §1084(b), Dec. 27, 2021, 135 Stat. 1924, added item 146.
+**2022**—Pub. L. 117–103, div. W, title XIII, §1310(b)(2), Mar. 15, 2022, 136 Stat. 931, added item 146 relating to Choose Respect Day.
+
+**2021**—Pub. L. 117–81, div. A, title X, §1084(b), Dec. 27, 2021, 135 Stat. 1924, added item 146 relating to National Atomic Veterans Day.
 
 **2016**—Pub. L. 114–240, §2(b), Oct. 7, 2016, 130 Stat. 975, added item 145.
 
@@ -412,7 +416,7 @@ Pub. L. 115–433, Jan. 10, 2019, 132 Stat. 5523, provided that:
 
 #### 400 Years of African-American History Commission ####
 
-Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2692; Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1484, provided that:
+Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2692; Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1484; Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 353, provided that:
 
 #### "SECTION 1. SHORT TITLE. ####
 
@@ -590,7 +594,7 @@ Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94,
 
 "(a) Strategic Plan.—The Commission shall prepare a strategic plan for the activities of the Commission carried out under this Act.
 
-"(b) Final Report.—Not later than July 1, 2022, the Commission shall complete and submit to Congress a final report that contains—
+"(b) Final Report.—Not later than July 1, 2023, the Commission shall complete and submit to Congress a final report that contains—
 
 "(1) a summary of the activities of the Commission;
 
@@ -600,7 +604,7 @@ Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94,
 
 #### "SEC. 8. TERMINATION OF COMMISSION. ####
 
-"(a) Date of Termination.—The Commission shall terminate on July 1, 2022.
+"(a) Date of Termination.—The Commission shall terminate on July 1, 2023.
 
 "(b) Transfer of Documents and Materials.—Before the date of termination specified in subsection (a), the Commission shall transfer all documents and materials of the Commission to the National Archives or another appropriate Federal entity.
 
@@ -1995,3 +1999,5 @@ Barack Obama.
 #### Executive Order No. 13072 ####
 
 Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the White House Millennium Council to lead the country in a celebration of the new millennium by initiating and recognizing national and local projects that contributed in educational, creative, and productive ways to America's commemoration of that historic time.
+
+[<sup>1</sup> So in original. Two sections 146 have been enacted.](#CHAPTER1_1)

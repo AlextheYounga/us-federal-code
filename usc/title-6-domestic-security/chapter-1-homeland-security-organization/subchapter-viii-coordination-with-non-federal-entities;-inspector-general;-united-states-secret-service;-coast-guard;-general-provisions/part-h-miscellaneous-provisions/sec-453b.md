@@ -74,15 +74,13 @@ This section applies with respect to contracts entered into by the Department of
 
 #### Codification ####
 
-In subsec. (g), "section 1906 of title 41" substituted for "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
 Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments ####
 
 **2021**—Subsec. (f). Pub. L. 117–81 substituted "section 3205" for "section 2304(g)".
 
-**2018**—Subsec. (g). Pub. L. 115–232, substituted "commercial products" for "commercial items" in heading and, in text, substituted "procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed" for "procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed" and " 'commercial product' shall be as defined in section 103 of title 41." for " 'commercial' shall be as defined in the Federal Acquisition Regulation—Part 2."
+**2018**—Subsec. (g). Pub. L. 115–232 substituted "commercial products" for "commercial items" in heading and, in text, substituted "procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed" for "procurement of commercial items not withstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430), with the exception of commercial items listed" and " 'commercial product' shall be as defined in section 103 of title 41." for " 'commercial' shall be as defined in the Federal Acquisition Regulation—Part 2."
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

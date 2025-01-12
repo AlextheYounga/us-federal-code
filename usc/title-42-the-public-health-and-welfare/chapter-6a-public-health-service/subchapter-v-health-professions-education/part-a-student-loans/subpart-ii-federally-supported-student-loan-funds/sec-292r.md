@@ -12,11 +12,7 @@ For purposes of paragraph (1), the amount of the loan may, in the case of the th
 
 #### (b) Terms and conditions ####
 
-Subject to section 292s of this title, any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student—
-
-(1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
-
-(2) who, if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
+Subject to section 292s of this title, any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree.
 
 #### (c) Repayment; exclusions from repayment period ####
 
@@ -96,7 +92,7 @@ It is the purpose of this subsection to ensure that obligations to repay loans u
 
 Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school that has an agreement with the Secretary pursuant to section 292q of this title that is seeking the repayment of the amount due from a borrower on a loan made under this subpart after the default of the borrower on such loan.
 
-(July 1, 1944, ch. 373, title VII, §722, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2012; amended Pub. L. 103–43, title XX, §2014(b), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §134(a), (b)(1), Nov. 13, 1998, 112 Stat. 3577, 3578.)
+(July 1, 1944, ch. 373, title VII, §722, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2012; amended Pub. L. 103–43, title XX, §2014(b), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §134(a), (b)(1), Nov. 13, 1998, 112 Stat. 3577, 3578; Pub. L. 117–103, div. R, §104(2), Mar. 15, 2022, 136 Stat. 821.)
 
 #### **Editorial Notes** ####
 
@@ -109,6 +105,12 @@ The Peace Corps Act, referred to in subsec. (c)(1)(B), is Pub. L. 87–293, Sept
 A prior section 722 of act July 1, 1944, was classified to section 293b of this title prior to the general revision of this subchapter by Pub. L. 102–408.
 
 #### Amendments ####
+
+**2022**—Subsec. (b). Pub. L. 117–103 substituted "to a student who is in need" for "to a student—
+
+"(1) who is in need"
+
+and struck out par. (2) which read as follows: "who, if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section."
 
 **1998**—Subsec. (a)(1). Pub. L. 105–392, §134(a)(1), substituted "the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution)." for "the sum of—
 

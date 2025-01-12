@@ -130,7 +130,7 @@ Sec.
 
 #### Part B—General Powers and Duties ####
 
-6611. Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate.
+6611. Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund.
 
 6612. Travel expenses of Sergeant at Arms and Doorkeeper of Senate.
 

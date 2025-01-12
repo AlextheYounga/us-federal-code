@@ -1,6 +1,6 @@
 ### §665h. National Cyber Exercise Program ###
 
-#### (a) Establishment of Program ####
+#### (a) Establishment of program ####
 
 #### (1) In general ####
 
@@ -52,6 +52,6 @@ The term "private entity" has the meaning given such term in section 1501 of thi
 
 #### (c) Rule of construction ####
 
-Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to section748 of this title.
+Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to section 748 of this title.
 
 (Pub. L. 107–296, title XXII, §2220B, as added Pub. L. 117–81, div. A, title XV, §1547(a), Dec. 27, 2021, 135 Stat. 2059.)

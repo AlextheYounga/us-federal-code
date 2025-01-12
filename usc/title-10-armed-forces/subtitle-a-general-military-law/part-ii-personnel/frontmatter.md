@@ -319,7 +319,7 @@ Pub. L. 117–81, div. A, title VIII, §836, Dec. 27, 2021, 135 Stat. 1837, prov
 
 "(f) Funding.—The Under Secretary of Defense for Acquisition and Sustainment is authorized to use amounts in the Defense Acquisition Workforce Development Account (established under section 1705 of title 10, United States Code) for the purpose of recruitment, training, and retention of members of the cadre, including by using such amounts to pay salaries of newly hired members of the cadre for up to three years.
 
-"(g) Compliance.—In carrying out this section, the Under Secretary of Defense for Acquisition and Sustainment shall ensure compliance with applicable total force management policies, requirements, and restrictions provided in sections 129a, 2329 [now 4506], and 2461 of title 10, United States Code."
+"(g) Compliance.—In carrying out this section, the Under Secretary of Defense for Acquisition and Sustainment shall ensure compliance with applicable total force management policies, requirements, and restrictions provided in sections 129a, 2329 [now 10 U.S.C. 4506], and 2461 of title 10, United States Code."
 
 #### Digital Talent Recruiting Officer ####
 

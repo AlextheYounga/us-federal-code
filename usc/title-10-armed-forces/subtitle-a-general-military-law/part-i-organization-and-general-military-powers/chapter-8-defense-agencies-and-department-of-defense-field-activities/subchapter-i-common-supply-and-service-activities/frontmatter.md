@@ -22,7 +22,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title IX, §902(a)(4)(B), Dec. 27, 2021, 135 Stat. 1869, which directed amendment of table of sections at the beginning of subtitle I of this chapter by adding item 198 after item 197, was executed by adding item 198 after item 197 in the table of sections at the beginning of this subchapter, to reflect the probable intent of Congress.
+**2021**—Pub. L. 117–81, div. A, title IX, §902(a)(4)(B), Dec. 27, 2021, 135 Stat. 1869, which directed amendment of the table of sections at the beginning of "subtitle I" of this chapter by adding item 198 after item 197, was executed to the table of sections at the beginning of this subchapter, to reflect the probable intent of Congress.
 
 **2004**—Pub. L. 108–375, div. A, title X, §1010(b), Oct. 28, 2004, 118 Stat. 2038, added item 197.
 

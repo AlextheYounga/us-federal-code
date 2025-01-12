@@ -88,10 +88,6 @@ The provisions of this section shall not apply with respect to a group health pl
 
 (July 1, 1944, ch. 373, title XXVII, §2719A, as added Pub. L. 111–148, title X, §10101(h), Mar. 23, 2010, 124 Stat. 888; amended Pub. L. 116–260, div. BB, title I, §102(a)(3)(A), Dec. 27, 2020, 134 Stat. 2771.)
 
-#### Applicability of Amendment ####
-
-Amendment of section by section 102(a)(3)(A) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
-
 #### **Editorial Notes** ####
 
 #### References in Text ####

@@ -10,7 +10,7 @@ The Commission may provide for the publication of its reports and decisions in s
 
 "Sections 1535 and 1536 of title 31" substituted in text for "sections 601 and 602 of the Act of June 30, 1932 (47 Stat. 417 [31 U.S.C. 686, 686b])" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-#### **Statutory Notes and ARelated Subsidiaries** ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

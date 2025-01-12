@@ -84,7 +84,7 @@ In carrying out duties under this section, the Secretary shall endeavor to—
 
 #### (1) Technical achievability ####
 
-The Secretary shall consider information submitted in connection with a proposed standard regarding the technical achievability of compliance with such standard.
+The Secretary shall consider information submitted in connection with a proposed standard regarding the technical achievability of compliance with such standard, including with regard to any differences related to the technical achievability of compliance with such standard for products in the same class containing nicotine not made or derived from tobacco and products containing nicotine made or derived from tobacco.
 
 #### (2) Other considerations ####
 
@@ -208,10 +208,14 @@ Not later than 2 years after its establishment, the Tobacco Product Scientific A
 
 Nothing in this subsection shall be construed to limit the Secretary's authority to take action under this section or other sections of this chapter at any time applicable to any dissolvable tobacco product.
 
-(June 25, 1938, ch. 675, §907, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1799.)
+(June 25, 1938, ch. 675, §907, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1799; amended Pub. L. 117–103, div. P, title I, §111(f), Mar. 15, 2022, 136 Stat. 790.)
 
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
 
 A prior section 907 of act June 25, 1938, was renumbered section 1007 and is classified to section 397 of this title.
+
+#### Amendments ####
+
+**2022**—Subsec. (b)(1). Pub. L. 117–103 inserted before period at end ", including with regard to any differences related to the technical achievability of compliance with such standard for products in the same class containing nicotine not made or derived from tobacco and products containing nicotine made or derived from tobacco".

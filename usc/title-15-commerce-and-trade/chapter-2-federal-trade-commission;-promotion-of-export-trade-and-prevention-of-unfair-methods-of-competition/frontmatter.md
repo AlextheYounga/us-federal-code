@@ -22,6 +22,8 @@ Sec.
 
 45d. Unfair or deceptive acts or practices with respect to substance use disorder treatment service and products.
 
+45e. Office for the prevention of fraud targeting seniors.
+
 46. Additional powers of Commission.
 
 46a. Concurrent resolution essential to authorize investigations

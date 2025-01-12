@@ -134,7 +134,7 @@ Sec.
 
 1730. Community residential care.
 
-1730A. Prohibition on collection of copayments from catastrophically disabled veterans.
+1730A. Prohibition on collection of copayments from certain veterans.
 
 1730B. Access to State prescription drug monitoring programs.
 
@@ -201,10 +201,6 @@ Sec.
 1788. Transplant procedures with live donors and related services.
 
 1789. Mental health services for members of the reserve components of the Armed Forces.
-
-#### Amendment of Analysis ####
-
-Pub. L. 116–315, title III, §3002(b), (c), Jan. 5, 2021, 134 Stat. 4991, provided that, effective one year after Jan. 5, 2021, this analysis is amended by striking item 1730A and inserting new item 1730A "Prohibition on collection of copayments from certain veterans". See 2021 Amendment note below.
 
 #### **Editorial Notes** ####
 

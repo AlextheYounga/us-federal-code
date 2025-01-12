@@ -2861,9 +2861,11 @@ Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, required, 
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board ####
 
-Pub. L. 116–260, div. G, title III, Dec. 27, 2020, 134 Stat. 1529, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
+Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 402, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board:  *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. G, title III, Dec. 27, 2020, 134 Stat. 1529.
 
 Pub. L. 116–94, div. D, title III, Dec. 20, 2019, 133 Stat. 2735.
 
@@ -3157,19 +3159,21 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
 (g) An individual who has submitted a complaint or information to an Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to that particular Inspector General, and of the date on which such submission was made.
 
-(h) In this section:
+(h)(1) In this section:
 
-(1) The term "urgent concern" means any of the following:
+(A) The term "urgent concern" means any of the following:
 
-(A) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.
+(i) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.
 
-(B) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
+(ii) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
-(C) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, United States Code, constituting reprisal or threat of reprisal prohibited under section 7(c) in response to an employee's reporting an urgent concern in accordance with this section.
+(iii) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, United States Code, constituting reprisal or threat of reprisal prohibited under section 7(c) in response to an employee's reporting an urgent concern in accordance with this section.
 
-(2) The term "intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+(B) The term "intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, [div. A], title IX, §931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, §431(b), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title III, §310, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1420; Pub. L. 116–92, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 2236.)
+(2) Within the executive branch, an Inspector General to whom any complaint or information is reported under this section shall have sole authority to determine whether the complaint or information is a matter of urgent concern under this section.
+
+(Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, [div. A], title IX, §931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, §431(b), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title III, §310, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1420; Pub. L. 116–92, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 2236; Pub. L. 117–103, div. X, title V, §502(b), Mar. 15, 2022, 136 Stat. 985.)
 
 #### **Editorial Notes** ####
 
@@ -3178,6 +3182,8 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 A prior section 8H of the Inspector General Act of 1978 was renumbered section 8J.
 
 #### Amendments ####
+
+**2022**—Subsec. (h). Pub. L. 117–103 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), realigned margins, and added par. (2).
 
 **2019**—Subsecs. (g) to (i). Pub. L. 116–92 redesignated subsecs. (h) and (i) as (g) and (h), respectively, and struck out former subsec. (g) which read as follows:
 
@@ -4269,7 +4275,7 @@ Pub. L. 110–409, §7(c), Oct. 14, 2008, 122 Stat. 4313, as amended by Pub. L. 
 
 #### Pandemic Response Accountability Committee ####
 
-Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as amended by Pub. L. 116–260, div. O, title VIII, §801(b), Dec. 27, 2020, 134 Stat. 2155, provided that:
+Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as amended by Pub. L. 116–260, div. O, title VIII, §801(b), Dec. 27, 2020, 134 Stat. 2155; Pub. L. 117–103, div. E, title VII, §750, Mar. 15, 2022, 136 Stat. 307, provided that:
 
 "(a) In this section—
 
@@ -4299,9 +4305,11 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as am
 
 "(C) the Families First Coronavirus Response Act (Public Law 116–127);
 
-"(D) the Paycheck Protection Program and Health Care Enhancement Act (Public Law 116–139) [see Short Title of 2020 Amendment note set out under section 9001 of Title 15, Commerce and Trade]; or
+"(D) the Paycheck Protection Program and Health Care Enhancement Act (Public Law 116–139) [see Short Title of 2020 Amendment note set out under section 9001 of Title 15, Commerce and Trade];
 
-"(E) divisions M and N of the Consolidated Appropriations Act, 2021 [Pub. L. 116–260, see Tables for classification]; and
+"(E) divisions M and N of the Consolidated Appropriations Act, 2021 [Pub. L. 116–260, see Tables for classification]; or
+
+"(F) the American Rescue Plan Act of 2021 (Public Law 117–2) [see Short Title of 2021 Amendment note set out under section 9001 of Title 15, Commerce and Trade];
 
 "(7) the term 'Coronavirus response' means the Federal Government's response to the nationwide public health emergency declared by the Secretary of Health and Human Services, retroactive to January 27, 2020, pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d), as a result of confirmed cases of the novel coronavirus (COVID–19) in the United States.
 

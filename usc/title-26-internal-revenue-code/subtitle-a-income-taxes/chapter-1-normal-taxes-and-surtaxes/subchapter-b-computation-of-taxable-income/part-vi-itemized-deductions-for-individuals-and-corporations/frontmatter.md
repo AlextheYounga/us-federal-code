@@ -28,7 +28,7 @@ Sec.
 
 173. Circulation expenditures.
 
-174. Research and experimental expenditures.
+174. Amortization of research and experimental expenditures.
 
 175. Soil and water conservation expenditures; endangered species recovery expenditures.
 
@@ -87,10 +87,6 @@ Sec.
 [198A, 199. Repealed.]
 
 199A. Qualified business income.
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–97, title I, §13206(c), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, provided that, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021, this analysis is amended by striking item 174 and inserting a new item 174 "Amortization of research and experimental expenditures." See 2017 Amendment note below.
 
 #### **Editorial Notes** ####
 

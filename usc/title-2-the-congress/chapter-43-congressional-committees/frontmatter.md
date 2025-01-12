@@ -22,6 +22,8 @@ Sec.
 
 4315. Overtime pay for FBI employees detailed to House Committee on Appropriations.
 
+4316. Allowances for compensation of interns in House committee offices.
+
 #### SUBCHAPTER III—SENATE ####
 
 4331. Computation of compensation for stenographic assistance of committees payable from Senate contingent fund.

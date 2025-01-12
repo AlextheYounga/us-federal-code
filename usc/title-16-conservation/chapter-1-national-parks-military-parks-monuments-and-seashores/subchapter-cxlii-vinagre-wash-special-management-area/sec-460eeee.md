@@ -178,6 +178,4 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(1
 
 #### "Secretary" Defined ####
 
-#### "Secretary" Defined ####
-
 Section 103 of Pub. L. 103–433 provided in part that in this subchapter "Secretary" means the Secretary of the Interior.

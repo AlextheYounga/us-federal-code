@@ -64,6 +64,6 @@ In subsec. (a), "Secretary of Energy" substituted for "Secretary of the Interior
 
 Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
 
 [<sup>1</sup> So in original. Probably should be "cancellation".](#832a_1)

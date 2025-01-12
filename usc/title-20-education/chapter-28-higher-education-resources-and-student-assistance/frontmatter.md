@@ -1020,6 +1020,8 @@ Sec.
 
 1161l–5. Rule of construction.
 
+1161l–6. Online survey tool for campus safety.
+
 #### Part M—Low Tuition ####
 
 1161m. Incentives and rewards for low tuition.

@@ -30,6 +30,8 @@ Sec.
 
 5513. House of Representatives Modernization Initiatives Account.
 
+5514. Green and Gold Congressional Aide Program.
+
 #### SUBCHAPTER II—CHAPLAIN ####
 
 5521. Compensation of Chaplain of House.

@@ -34,6 +34,8 @@ Subsec. (d). Pub. L. 101–189, §3313(b)(1), (3), substituted "sections 98f and
 
 **1987**—Pub. L. 100–180 amended section generally, revising and restating provisions of subsecs. (a) and (b) and adding subsecs. (c) and (d).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 100–180, div. C, title II, §3203(c), Dec. 4, 1987, 101 Stat. 1247, provided that: "Unless otherwise directed by the President under section 6A [renumbered §16] of the Strategic and Critical Materials Stock Piling Act [this section], as amended by subsection (a), the designation of a National Defense Stockpile Manager in effect on the day before the date of the enactment of this Act [Dec. 4, 1987] shall remain in effect until the individual so designated ceases to hold the office held by the individual at the time of the designation."

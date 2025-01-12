@@ -26,6 +26,8 @@ Sec.
 
 10111. Consolidation of financial management systems of Office of Justice Programs.
 
+10112. Senior Policy Advisor on Culturally Specific Communities within the Office of Justice Programs.
+
 #### SUBCHAPTER II—NATIONAL INSTITUTE OF JUSTICE ####
 
 10121. Statement of purpose.
@@ -298,13 +300,13 @@ Sec.
 
 10441. Purpose of program and grants.
 
-10442. Establishment of Violence Against Women Office.
+10442. Establishment of Office on Violence Against Women.
 
-10443. Director of Violence Against Women Office.
+10443. Director of Office on Violence Against Women.
 
-10444. Duties and functions of Director of Violence Against Women Office.
+10444. Duties and functions of Director of Office on Violence Against Women.
 
-10445. Staff of Violence Against Women Office.
+10445. Staff of Office on Violence Against Women.
 
 10446. State grants.
 
@@ -322,11 +324,17 @@ Sec.
 
 10453. Tribal Deputy.
 
-#### SUBCHAPTER XX—GRANTS TO ENCOURAGE ARREST POLICIES AND ENFORCEMENT OF PROTECTION ORDERS ####
+10454. Grant eligibility regarding compelling victim testimony.
+
+10455. Senior Policy Advisor for Culturally Specific Communities.
+
+#### SUBCHAPTER XX—GRANTS TO IMPROVE THE CRIMINAL JUSTICE RESPONSE AND ENFORCEMENT OF PROTECTION ORDERS ####
 
 10461. Grants.
 
 10462. Applications.
+
+10462a. Grants to State and Tribal courts to implement protection order pilot programs.
 
 10463. Reports.
 

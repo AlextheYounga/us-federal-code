@@ -58,6 +58,8 @@ Sec.
 
 3040. Disclosure of foreign intelligence acquired in criminal investigations; notice of criminal investigations of foreign intelligence sources.
 
+3040a. Prohibition on collection and maintenance of information of United States persons based on first amendment-protected activities.
+
 3041. Appointment of officials responsible for intelligence-related activities.
 
 3041a. Director of the National Reconnaissance Office.
@@ -98,7 +100,7 @@ Sec.
 
 3056. National Counterterrorism Center.
 
-3057. National Counter Proliferation Center.
+3057. National Counterproliferation and Biosecurity Center.
 
 3058. National Intelligence Centers.
 
@@ -116,7 +118,7 @@ Sec.
 
 3073. Advisory committees; appointment; compensation of part-time personnel; applicability of other laws.
 
-3073a. Reporting of certain employment activities by former intelligence officers and employees.
+3073a. Requirements for certain employment activities by former intelligence officers and employees.
 
 3074. Authorization of appropriations.
 
@@ -131,6 +133,8 @@ Sec.
 #### SUBCHAPTER III—ACCOUNTABILITY FOR INTELLIGENCE ACTIVITIES ####
 
 3091. General congressional oversight provisions.
+
+3091a. Congressional oversight of controlled access programs.
 
 3092. Reporting of intelligence activities other than covert actions.
 
@@ -173,6 +177,8 @@ Sec.
 3110. Annual report on violations of law or executive order.
 
 3111. Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation.
+
+3112. Annual reports on the domestic activities of the intelligence community.
 
 #### SUBCHAPTER IV—PROTECTION OF CERTAIN NATIONAL SECURITY INFORMATION ####
 
@@ -258,6 +264,8 @@ Sec.
 
 3224. Intelligence officer training program.
 
+3224a. Authorization of support by Director of National Intelligence for certain workforce activities.
+
 #### Part D—National Intelligence University ####
 
 3227. Transfer date.
@@ -291,6 +299,12 @@ Sec.
 3239. Requirement to buy certain satellite component from American sources.
 
 3240. Report on best practices to protect privacy, civil liberties, and civil rights of Chinese Americans.
+
+3241. Biennial reports on foreign biological threats.
+
+3242. Annual reports on certain cyber vulnerabilities procured by intelligence community and foreign commercial providers of cyber vulnerabilities.
+
+3243. Periodic reports on technology strategy of intelligence community.
 
 #### **Editorial Notes** ####
 

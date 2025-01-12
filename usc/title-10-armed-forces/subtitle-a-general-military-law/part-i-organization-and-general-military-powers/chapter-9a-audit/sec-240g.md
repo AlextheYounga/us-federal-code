@@ -26,6 +26,6 @@
 
 #### Amendments ####
 
-**2021**—Subsec. (a)(3). Pub. L. 117–81, substituted a semicolon for "; and" at end.
+**2021**—Subsec. (a)(3). Pub. L. 117–81 substituted a semicolon for "; and" at end.
 
 Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).

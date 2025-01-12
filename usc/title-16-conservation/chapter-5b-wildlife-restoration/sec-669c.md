@@ -136,11 +136,11 @@ Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers 
 
 #### Amendments ####
 
-**2021**—Subsec. (a)(1)(B). Pub. L. 117–58, §28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B), which provided amounts available for fiscal years 2001 and thereafter.
+**2021**—Subsec. (a)(1)(B). Pub. L. 117–58, §28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which provided amounts available for fiscal years 2001 and thereafter.
 
 Subsec. (a)(2)(A). Pub. L. 117–58, §28001(b)(1)(B)(i), inserted "subsequent" before "fiscal year."
 
-Subsec. (a)(2)(B). Pub. L. 117–58, §28001(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B), which related to apportionment of unobligated amounts.
+Subsec. (a)(2)(B). Pub. L. 117–58, §28001(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which related to apportionment of unobligated amounts.
 
 **2019**—Subsec. (c). Pub. L. 116–94, §501(d)(1)(A), inserted heading.
 

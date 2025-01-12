@@ -398,6 +398,8 @@ Sec.
 
 254c–1a. Grants to nurse-managed health clinics.
 
+254c–1b. Rural obstetric network grants.
+
 254c–2. Special diabetes programs for type I diabetes.
 
 254c–3. Special diabetes programs for Indians.
@@ -435,6 +437,10 @@ Sec.
 254c–19. Pediatric mental health care access grants.
 
 254c–20. Expanding capacity for health outcomes.
+
+254c–21. Innovation for maternal health.
+
+254c–22. Integrated services for pregnant and postpartum women.
 
 #### subpart ii—national health service corps program ####
 
@@ -736,6 +742,12 @@ Sec.
 
 280g–4. Grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking.
 
+280g–4a. Understanding sexual assault care in health systems.
+
+280g–4b. Expanding access to unified care.
+
+280g–4c. Expanding access to forensics for victims of interpersonal violence.
+
 280g–5. Public and health care provider education and support services.
 
 280g–6. Chronic kidney disease initiatives.
@@ -859,6 +871,8 @@ Sec.
 283a–2. Annual reporting regarding training of graduate students for doctoral degrees.
 
 283a–3. Establishment of program regarding DES.
+
+283a–4. Notification to Director of personnel removed or disciplined for harassment, bullying, retaliation, or hostile working conditions.
 
 283b. Repealed.
 
@@ -1810,11 +1824,13 @@ Sec.
 
 294o. Advisory Council on Graduate Medical Education.
 
-294p. Pediatric rheumatology.
+294p. Training for health care providers.
 
 294q. National Health Care Workforce Commission.
 
 294r. State health care workforce development grants.
+
+294s. Rural maternal and obstetric care training demonstration.
 
 294t. Programs to promote mental health among the health professional workforce.
 

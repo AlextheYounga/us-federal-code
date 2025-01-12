@@ -232,9 +232,9 @@ Sec.
 
 12410. Definitions.
 
-#### Part G—Enhanced Training and Services To End Abuse Later in Life ####
+#### Part G—Training and Services To End Abuse Later in Life ####
 
-12421. Enhanced training and services to end abuse in later life.
+12421. Training and services to end abuse in later life.
 
 #### Part H—Domestic Violence Task Force ####
 
@@ -282,6 +282,16 @@ Sec.
 
 12491. Housing protections for victims of domestic violence, dating violence, sexual assault, and stalking.
 
+12492. Compliance reviews.
+
+12493. Department of Housing and Urban Development Gender-based Violence Prevention Office and Violence Against Women Act Director.
+
+12494. Prohibition on retaliation.
+
+12495. Right to report crime and emergencies from one's home.
+
+12496. Training and technical assistance grants.
+
 #### Part M—National Resource Center ####
 
 12501. Grant for national resource center on workplace responses to assist victims of domestic and sexual violence.
@@ -291,6 +301,14 @@ Sec.
 12511. Sexual assault services program.
 
 12512. Working Group.
+
+#### Part O—Trauma-Informed, Victim-Centered Training for Law Enforcement ####
+
+12513. Demonstration program on trauma-informed, victim-centered training for law enforcement.
+
+#### Part P—Restorative Practices ####
+
+12514. Pilot program on restorative practices.
 
 #### SUBCHAPTER IV—DRUG CONTROL ####
 

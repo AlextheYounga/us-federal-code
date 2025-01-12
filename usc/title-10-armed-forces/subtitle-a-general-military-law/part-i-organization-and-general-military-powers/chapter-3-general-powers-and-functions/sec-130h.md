@@ -36,7 +36,7 @@ Subsec. (e). Pub. L. 114–328, §1682(a)(1)(A), (b), redesignated subsec. (d) a
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Certification Required for Russia and China to Tour Certain Missile Defense Sites ####
+#### Certification Required for Russia and China To Tour Certain Missile Defense Sites ####
 
 Pub. L. 117–81, div. A, title XVI, §1667, Dec. 27, 2021, 135 Stat. 2106, provided that:
 

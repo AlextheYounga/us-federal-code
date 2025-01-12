@@ -8,9 +8,13 @@ Sec.
 
 1302. Constitutional rights.
 
+1302a. Bureau of Prisons tribal prisoner program.
+
 1303. Habeas corpus.
 
-1304. Tribal jurisdiction over crimes of domestic violence.
+1304. Tribal jurisdiction over covered crimes.
+
+1305. Tribal jurisdiction in Alaska.
 
 #### SUBCHAPTER II—MODEL CODE GOVERNING COURTS OF INDIAN OFFENSES ####
 

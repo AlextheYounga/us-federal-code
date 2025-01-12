@@ -62,7 +62,7 @@ Pub. L. 117–81, div. A, title XVI, §1621, Dec. 27, 2021, 135 Stat. 2084, prov
 
 "(5) The term 'indirect means' means through, or with the assistance of, intermediaries."
 
-#### Strategy and Plan to Implement Certain Defense Intelligence Reforms ####
+#### Strategy and Plan To Implement Certain Defense Intelligence Reforms ####
 
 Pub. L. 117–81, div. A, title XVI, §1622, Dec. 27, 2021, 135 Stat. 2086, provided that:
 
@@ -82,11 +82,11 @@ Pub. L. 117–81, div. A, title XVI, §1622, Dec. 27, 2021, 135 Stat. 2086, prov
 
 "(B) with respect to finished intelligence products that relate to foreign malign influence, coercion, and subversion activities of a covered foreign country described in such subsection, to downgrade the classification level of the product.
 
-"(6) [sic] An identification of any additional resources or legislative authority necessary to better meet the intelligence and information requirements described in such subsection.
+"(6) [(5)] An identification of any additional resources or legislative authority necessary to better meet the intelligence and information requirements described in such subsection.
 
-"(7) An assignment of responsibilities and timelines for the implementation of the plans described in paragraphs (1), (2), and (3).
+"(7) [(6)] An assignment of responsibilities and timelines for the implementation of the plans described in paragraphs (1), (2), and (3).
 
-"(8) Any other matters the Secretary determines relevant.
+"(8) [(7)] Any other matters the Secretary determines relevant.
 
 "(c) Submission.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Director of National Intelligence, shall submit to the appropriate congressional committees and the Comptroller General of the United States the plan developed under subsection (a).
 

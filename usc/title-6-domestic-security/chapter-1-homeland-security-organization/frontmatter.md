@@ -8,6 +8,8 @@ Sec.
 
 103. Use of appropriated funds.
 
+103a. Department of Homeland Security Nonrecurring Expenses Fund.
+
 104. National biodefense strategy.
 
 105. Biodefense analysis and budget submission.
@@ -820,7 +822,7 @@ Sec.
 
 665c. Cybersecurity State Coordinator.
 
-665d. Sector risk management agencies.
+665d. Sector Risk Management Agencies.
 
 665e. Cybersecurity Advisory Committee.
 
@@ -831,6 +833,8 @@ Sec.
 665h. National Cyber Exercise Program.
 
 665i. CyberSentry program.
+
+665j. Ransomware threat mitigation activities.
 
 #### Part B—Critical Infrastructure Information ####
 
@@ -859,3 +863,21 @@ Sec.
 677f. Authorization of appropriations.
 
 677g. Sunset.
+
+#### Part D—Cyber Incident Reporting ####
+
+681. Definitions.
+
+681a. Cyber incident review.
+
+681b. Required reporting of certain cyber incidents.
+
+681c. Voluntary reporting of other cyber incidents.
+
+681d. Noncompliance with required reporting.
+
+681e. Information shared with or provided to the Federal Government.
+
+681f. Cyber Incident Reporting Council.
+
+681g. Federal sharing of incident reports.

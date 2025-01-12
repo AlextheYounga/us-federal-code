@@ -92,7 +92,7 @@ Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted "subchap
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Covid–19 Veteran Rapid Retraining Assistance Program ####
+#### COVID–19 Veteran Rapid Retraining Assistance Program ####
 
 Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by Pub. L. 117–16, §2(a), June 8, 2021, 135 Stat. 280, provided that:
 

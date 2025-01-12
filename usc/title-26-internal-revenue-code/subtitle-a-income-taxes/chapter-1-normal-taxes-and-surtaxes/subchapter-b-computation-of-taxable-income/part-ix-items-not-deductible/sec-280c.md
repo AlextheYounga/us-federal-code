@@ -50,29 +50,25 @@ An election under this paragraph for any taxable year shall be made not later th
 
 In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section 41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).
 
-#### (c) <sup><a href="#280C_1_target" name="280C_1">1</a></sup> Credit for increasing research activities ####
+#### (c) Credit for increasing research activities ####
 
 #### (1) In general ####
-
-No deduction shall be allowed for that portion of the qualified research expenses (as defined in section 41(b)) or basic research expenses (as defined in section 41(e)(2)) otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit determined for such taxable year under section 41(a).
-
-#### (2) Similar rule where taxpayer capitalizes rather than deducts expenses ####
 
 If—
 
 (A) the amount of the credit determined for the taxable year under section 41(a)(1), exceeds
 
-(B) the amount allowable as a deduction for such taxable year for qualified research expenses or basic research expenses (determined without regard to paragraph (1)),
+(B) the amount allowable as a deduction for such taxable year for qualified research expenses or basic research expenses,
 
 the amount chargeable to capital account for the taxable year for such expenses shall be reduced by the amount of such excess.
 
-#### (3) Election of reduced credit ####
+#### (2) Election of reduced credit ####
 
 #### (A) In general ####
 
 In the case of any taxable year for which an election is made under this paragraph—
 
-(i) paragraphs (1) and (2) shall not apply, and
+(i) paragraph (1) shall not apply, and
 
 (ii) the amount of the credit under section 41(a) shall be the amount determined under subparagraph (B).
 
@@ -92,7 +88,7 @@ The amount of credit determined under this subparagraph for any taxable year sha
 
 An election under this paragraph for any taxable year shall be made not later than the time for filing the return of tax for such year (including extensions), shall be made on such return, and shall be made in such manner as the Secretary may prescribe. Such an election, once made, shall be irrevocable.
 
-#### (4) Controlled groups ####
+#### (3) Controlled groups ####
 
 Paragraph (3) of subsection (b) shall apply for purposes of this subsection.
 
@@ -117,54 +113,6 @@ No deduction shall be allowed for the portion of the premiums paid by the taxpay
 No deduction shall be allowed for that portion of the premiums for qualified health plans (as defined in section 1301(a) of the Patient Protection and Affordable Care Act), or for health insurance coverage in the case of taxable years beginning in 2010, 2011, 2012, or 2013, paid by an employer which is equal to the amount of the credit determined under section 45R(a) with respect to the premiums.
 
 (Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776; Pub. L. 106–170, title V, §502(c)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 106–554, §1(a)(7) [title III, §311(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–639; Pub. L. 108–357, title III, §339(c), Oct. 22, 2004, 118 Stat. 1484; Pub. L. 109–135, title I, §103(b)(2), title II, §201(b)(2), Dec. 21, 2005, 119 Stat. 2595, 2607; Pub. L. 109–432, div. A, title IV, §405(c), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–172, §7(a)(1)(B), Dec. 29, 2007, 121 Stat. 2481; Pub. L. 110–234, title XV, §15343(c), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(c), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(c), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 111–148, title I, §§1401(b), 1421(d)(1), title IX, §9023(c)(2), title X, §10105(e)(3), Mar. 23, 2010, 124 Stat. 219, 242, 880, 906; Pub. L. 115–97, title I, §§13001(b)(1)(A), 13206(d)(2), 13401(b), 13403(d)(1), Dec. 22, 2017, 131 Stat. 2096, 2112, 2133, 2137; Pub. L. 115–141, div. U, title IV, §401(a)(62), (d)(3)(B)(iii), (6)(B)(iv), Mar. 23, 2018, 132 Stat. 1187, 1209, 1211.)
-
-#### Amendment of Subsection (c) ####
-
-Pub. L. 115–97, title I, §13206(d)(2), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, amended subsection (c) of this section, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021. After amendment, subsection (c) reads as follows:
-
-#### *(c) Credit for increasing research activities* ####
-
-#### *(1) In general* ####
-
-*If—*
-
-*(A) the amount of the credit determined for the taxable year under section 41(a)(1), exceeds*
-
-*(B) the amount allowable as a deduction for such taxable year for qualified research expenses or basic research expenses,*
-
-*the amount chargeable to capital account for the taxable year for such expenses shall be reduced by the amount of such excess.*
-
-#### *(2) Election of reduced credit* ####
-
-#### *(A) In general* ####
-
-*In the case of any taxable year for which an election is made under this paragraph—*
-
-*(i) paragraph (1) shall not apply, and*
-
-*(ii) the amount of the credit under section 41(a) shall be the amount determined under subparagraph (B).*
-
-#### *(B) Amount of reduced credit* ####
-
-*The amount of credit determined under this subparagraph for any taxable year shall be the amount equal to the excess of—*
-
-*(i) the amount of credit determined under section 41(a) without regard to this paragraph, over*
-
-*(ii) the product of—*
-
-*(I) the amount described in clause (i), and*
-
-*(II) the maximum rate of tax under section 11(b).*
-
-#### *(C) Election* ####
-
-*An election under this paragraph for any taxable year shall be made not later than the time for filing the return of tax for such year (including extensions), shall be made on such return, and shall be made in such manner as the Secretary may prescribe. Such an election, once made, shall be irrevocable.*
-
-#### *(3) Controlled groups* ####
-
-*Paragraph (3) of subsection (b) shall apply for purposes of this subsection.*
-
-See 2017 Amendment notes below.
 
 #### **Editorial Notes** ####
 
@@ -370,9 +318,9 @@ For provisions that amendment made by section 401(d)(6)(B)(iv) of Pub. L. 115–
 
 For provisions that nothing in amendment by section 401(d)(3)(B)(iii), (6)(B)(iv) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
-#### Time and Form of Certain Elections Under Subsection (c)(3) ####
+#### Time and Form of Certain Elections Under Subsection (c)(2) ####
 
-Pub. L. 101–239, title VII, §7814(e)(2)(B), Dec. 19, 1989, 103 Stat. 2413, provided that: "In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) is on or before the date which is 75 days after the date of the enactment of this Act [Dec. 19, 1989], such an election for such year may be made—
+Pub. L. 101–239, title VII, §7814(e)(2)(B), Dec. 19, 1989, 103 Stat. 2413, provided that: "In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) [see 26 U.S.C. 280C(c)(2)] is on or before the date which is 75 days after the date of the enactment of this Act [Dec. 19, 1989], such an election for such year may be made—
 
 "(i) at any time before the date which is 75 days after such date of enactment, and
 
@@ -381,5 +329,3 @@ Pub. L. 101–239, title VII, §7814(e)(2)(B), Dec. 19, 1989, 103 Stat. 2413, pr
 #### Plan Amendments Not Required Until January 1, 1989 ####
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§1101–1147 and 1171–1177] or title XVIII [§§1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-[<sup>1</sup> See Amendment of Subsection (c) note below.](#280C_1)

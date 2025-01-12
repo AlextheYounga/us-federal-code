@@ -14,6 +14,12 @@ Sec.
 
 925A. Remedy for erroneous denial of firearm.
 
+925B. Reporting of background check denials to State authorities.
+
+925C. Annual report to Congress.
+
+925D. Special assistant U.S. attorneys and cross-deputized attorneys.
+
 926. Rules and regulations.
 
 926A. Interstate transportation of firearms.
@@ -35,6 +41,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–103, div. W, title XI, §§1101(d), 1102(b), 1103(b), Mar. 15, 2022, 136 Stat. 920, 921, added items 925B to 925D.
 
 **2004**—Pub. L. 108–277, §§2(b), 3(b), July 22, 2004, 118 Stat. 866, 867, added items 926B and 926C.
 

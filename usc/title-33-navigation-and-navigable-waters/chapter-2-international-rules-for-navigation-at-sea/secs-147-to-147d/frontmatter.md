@@ -8,7 +8,7 @@ Section 147b, act Oct. 11, 1951, ch. 495, §6, Pt. D, 65 Stat. 420, related to l
 
 Section 147c, act Oct. 11, 1951, ch. 495, §6, Pt. D, 65 Stat. 420, related to distress signals.
 
-Section 147d, act Oct. 11, 1951, ch. 495, §6, Pt. D, 65 Stat. 420, related to orders to helmsmen, and has been omitted.
+Section 147d, act Oct. 11, 1951, ch. 495, §6, Pt. D, 65 Stat. 420, related to orders to helmsmen.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

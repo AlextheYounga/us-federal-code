@@ -50,7 +50,7 @@ Pub. L. 117–81, div. A, title V, §539E(b), (f), Dec. 27, 2021, 135 Stat. 1701
 
 (2) by inserting after subsection (a) the following new subsection:
 
-*(b)* Acceptance of Plea Agreement.—Subject to subsection (c), the military judge of a general or special court-martial shall accept a plea agreement submitted by the parties, except that—
+*(b)* *Acceptance of Plea Agreement**.—Subject to subsection (c), the military judge of a general or special court-martial shall accept a plea agreement submitted by the parties, except that—*
 
 *(1) in the case of an offense with a sentencing parameter set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence that is outside the sentencing parameter if the military judge determines that the proposed sentence is plainly unreasonable; and*
 

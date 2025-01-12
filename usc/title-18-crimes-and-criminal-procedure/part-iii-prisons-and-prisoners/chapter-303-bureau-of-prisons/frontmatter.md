@@ -22,9 +22,13 @@ Sec.
 
 4050. Secure firearms storage.
 
+4051. Treatment of primary caretaker parents and other individuals.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–103, div. W, title X, §1001(e), Mar. 15, 2022, 136 Stat. 914, added item 4051.
 
 **2018**—Pub. L. 115–391, title II, §202(b), Dec. 21, 2018, 132 Stat. 5217, added item 4050.
 
