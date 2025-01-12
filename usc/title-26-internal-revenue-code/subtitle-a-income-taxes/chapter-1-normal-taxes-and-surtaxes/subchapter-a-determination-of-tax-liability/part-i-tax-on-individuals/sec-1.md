@@ -1377,6 +1377,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2024 Amendment ####
 
+Pub. L. 118–146, §1, Dec. 12, 2024, 138 Stat. 1673, provided that: "This Act [amending section 170 of this title] may be cited as the 'VSO Equal Tax Treatment Act' or as the 'VETT Act'."
+
 Pub. L. 118–60, §1, May 10, 2024, 138 Stat. 1018, provided that: "This Act [amending section 9502 of this title] may be cited as the 'Airport and Airway Extension Act of 2024, Part II'."
 
 Pub. L. 118–41, §1, Mar. 8, 2024, 138 Stat. 20, provided that: "This Act [amending sections 4043, 4081, 4083, 4261, 4271, and 9502 of this title, section 124n of Title 6, Domestic Security, sections 106, 41742, 41743, 44310, 44803, 44807, 44810, 47104, 47107, 47114, 47115, 47141, 47143, 48101 to 48103, and 48105 of Title 49, Transportation, and section 50905 of Title 51, National and Commercial Space Programs, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 40103, 41705, 41731, 42302, 44810, 47102, 47104, and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2024'."
