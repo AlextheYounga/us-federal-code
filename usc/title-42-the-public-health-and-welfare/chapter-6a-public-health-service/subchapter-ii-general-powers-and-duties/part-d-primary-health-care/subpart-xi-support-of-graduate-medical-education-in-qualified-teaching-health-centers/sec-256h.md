@@ -220,7 +220,7 @@ Another section 340H of act July 1, 1944, was renumbered section 340I and is cla
 
 #### Amendments ####
 
-**2020**—Subsec. (g)(1). Pub. L. 116–215 substituted "$27,379,452" for "$24,953,425" and "December 18, 2020" and "December 11, 2020".
+**2020**—Subsec. (g)(1). Pub. L. 116–215 substituted "$27,379,452" for "$24,953,425" and "December 18, 2020" for "December 11, 2020".
 
 Pub. L. 116–159 substituted "$24,953,425" for "$21,141,096" and "December 11, 2020" for "November 30, 2020".
 

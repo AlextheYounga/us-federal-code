@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2020 Amendment ####
 
+Pub. L. 116–249, §1, Dec. 22, 2020, 134 Stat. 1126, provided that: "This Act [enacting section 2261B of this title and amending section 2261A of this title] may be cited as the 'Combat Online Predators Act'."
+
 Pub. L. 116–179, §1, Oct. 20, 2020, 134 Stat. 855, provided that: "This Act [amending section 1030 of this title] may be cited as the 'Defending the Integrity of Voting Systems Act'."
 
 Pub. L. 116–159, div. D, title II, §4201, Oct. 1, 2020, 134 Stat. 741, provided that: "This title [enacting provisions set out as a note under section 3551 of this title] may be cited as the 'United States Parole Commission Extension Act of 2020'."

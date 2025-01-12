@@ -6,6 +6,8 @@ Sec.
 
 2261A. Interstate stalking. 1
 
+2261B. Enhanced penalty for stalkers of children.
+
 2262. Interstate violation of protection order.
 
 2263. Pretrial release of defendant.
@@ -21,6 +23,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–249, §2(b), Dec. 22, 2020, 134 Stat. 1126, added item 2261B.
 
 **1996**—Pub. L. 104–294, title VI, §604(a)(1), Oct. 11, 1996, 110 Stat. 3506, amended analysis by inserting "Sec." above section numbers.
 
