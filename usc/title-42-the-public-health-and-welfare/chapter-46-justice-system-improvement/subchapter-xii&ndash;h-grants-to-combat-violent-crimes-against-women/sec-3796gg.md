@@ -140,7 +140,7 @@ A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments ####
 
-**2013**—Subsec. (b). Pub. L. 113–4, §101(2)(A), substituted “resources” for “equipment” and inserted “for the protection and safety of victims,” after “women,”.
+**2013**—Subsec. (b). Pub. L. 113–4, §101(2)(A), substituted “resources” for “equipment” and inserted “for the protection and safety of victims,” after “women,” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 113–4, §101(2)(B), substituted “domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8” for “sexual assault, domestic violence, and dating violence”.
 
@@ -154,7 +154,7 @@ Subsec. (b)(5). Pub. L. 113–4, §101(2)(F)(iii), substituted “domestic viole
 
 Pub. L. 113–4, §101(2)(F)(ii), which directed substitution of “domestic violence, dating violence, and stalking” for “domestic violence and dating violence”, was executed by making the substitution for “domestic violence, and dating violence” to reflect the probable intent of Congress.
 
-Pub. L. 113–4, §101(2)(F)(i), inserted “and legal assistance” after “victim services”.
+Pub. L. 113–4, §101(2)(F)(i), which directed insertion of “and legal assistance” after “victim services”, was executed by making the insertion after “victim services” the first time appearing to reflect the probable intent of Congress.
 
 Subsec. (b)(6). Pub. L. 113–4, §101(2)(H), substituted “domestic violence, dating violence, sexual assault, and stalking” for “sexual assault and domestic violence”.
 

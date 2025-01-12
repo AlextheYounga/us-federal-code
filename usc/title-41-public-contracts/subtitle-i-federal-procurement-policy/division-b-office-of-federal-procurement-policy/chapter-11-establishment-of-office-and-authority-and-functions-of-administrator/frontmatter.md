@@ -22,7 +22,7 @@ Sec.
 
 1126. Policy regarding consideration of contractor past performance.
 
-1127. Determining benchmark compensation amount.
+1127. .
 
 1128. Maintaining necessary capability with respect to acquisition of architectural and engineering services.
 

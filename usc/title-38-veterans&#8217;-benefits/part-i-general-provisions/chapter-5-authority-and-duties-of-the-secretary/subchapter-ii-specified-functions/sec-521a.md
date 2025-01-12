@@ -84,7 +84,7 @@
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–59, §5(h)(1), substituted “Adaptive sports programs for disabled veterans and members of the Armed Forces” for “United States Paralympics, Inc.” in section catchline.
+**2013**—Pub. L. 113–59, §5(h)(1), substituted “Adaptive sports programs for disabled veterans and members of the Armed Forces” for “Assistance for United States Paralympics, Inc.” in section catchline.
 
 Pub. L. 113–37, §2(b)(2)(A), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing except in subsec. (d)(4).
 

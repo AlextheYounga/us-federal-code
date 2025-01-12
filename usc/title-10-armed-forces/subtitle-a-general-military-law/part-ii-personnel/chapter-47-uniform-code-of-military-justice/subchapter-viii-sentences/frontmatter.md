@@ -3,23 +3,13 @@
 |Sec. |Art.|                                                                |
 |-----|----|----------------------------------------------------------------|
 |855. |55. |           Cruel and unusual punishments prohibited.            |
-|856. |56. |                        Maximum limits.                         |
+|856. |56. |                  Maximum and minimum limits.                   |
 |856a.|56a.|Sentence of confinement for life without eligibility for parole.|
 |857. |57. |                  Effective date of sentences.                  |
 |857a.|57a.|                    Deferment of sentences.                     |
 |858. |58. |                   Execution of confinement.                    |
 |858a.|58a.|     Sentences: reduction in enlisted grade upon approval.      |
 |858b.|58b.|Sentences: forfeiture of pay and allowances during confinement. |
-
-#### Amendment of Analysis ####
-
-Pub. L. 113–66, div. A, title XVII, §1705(a)(2)(B), (c), Dec. 26, 2013, 127 Stat. 959, 960, provided that, effective 180 days after Dec. 26, 2013, and applicable to offenses specified in section 856(b)(2) of this title committed on or after that date, this analysis is amended by striking the item relating to section 856 and inserting the following new item:
-
-|      |*Art.*|                             |
-|------|------|-----------------------------|
-|*856.*|*56.* |*Maximum and minimum limits.*|
-
-See 2013 Amendment note below.
 
 #### Amendments ####
 

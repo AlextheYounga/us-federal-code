@@ -628,7 +628,7 @@ Pub. L. 105–33, title IV, §4803, Aug. 5, 1997, 111 Stat. 549, as amended by P
 
 “(c) Priority and Special Consideration in Application.—During the 3-year period beginning on the date of the enactment of this Act [Aug. 5, 1997]:
 
-“(1) Provider status.—The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act [42 U.S.C. 1395ddd, 1396u–4]—
+“(1) Provider status.—The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act [42 U.S.C. 1395eee, 1396u–4]—
 
 “(A) first, to entities that are operating a PACE demonstration waiver program (as defined in sections 1894(a)(7) and 1934(a)(7) of such Act [42 U.S.C. 1395eee(a)(7), 1396u–4(a)(7)]); and
 

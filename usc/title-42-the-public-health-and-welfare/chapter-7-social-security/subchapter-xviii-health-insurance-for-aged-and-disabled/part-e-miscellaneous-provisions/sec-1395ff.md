@@ -862,7 +862,7 @@ Pub. L. 92–603, title II, §299O(b), Oct. 30, 1972, 86 Stat. 1465, provided th
 
 “(A) in or after the month in which this Act is enacted [Oct. 1972], or
 
-“(B) before the month in which this Act is enacted [Oct. 1972], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare [now Health and Human Services] on such claim has not been commenced under such section 1869(b) [42 U.S.C. 1395ff(b)] before such month.”
+“(B) before the month in which this Act is enacted [Oct. 1972], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare on such claim has not been commenced under such section 1869(b) [42 U.S.C. 1395ff(b)] before such month.”
 
 #### Transfer of Responsibility for Medicare Appeals ####
 
