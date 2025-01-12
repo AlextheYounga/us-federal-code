@@ -45,3 +45,5 @@ Sec.
 7844. United Nations High Commissioner for Refugees.
 
 7845. Annual reports.
+
+7846. Sense of Congress on humanitarian coordination related to the Korean Peninsula.
