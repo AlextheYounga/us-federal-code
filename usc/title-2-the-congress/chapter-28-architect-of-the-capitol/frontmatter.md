@@ -132,7 +132,7 @@ Sec.
 
 1871. Expired appropriations available for deposit into Employees' Compensation Fund.
 
-#### SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FALLEN HEROES ####
+#### SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FAMILIES OF FALLEN HEROES ####
 
 1881. Definitions.
 
