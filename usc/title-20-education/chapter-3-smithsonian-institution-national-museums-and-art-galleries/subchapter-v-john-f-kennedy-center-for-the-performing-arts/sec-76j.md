@@ -110,6 +110,48 @@ Subsec. (a)(1)(H)(ii). Pub. L. 105–226, §3, amended cl. (ii) generally. Prior
 
 **1964**—Pub. L. 88–260 struck out "and" at end of par. (3), substituted "John F. Kennedy Center for the Performing Arts" for "Cultural Center" in par. (4), and added par. (5).
 
+#### Commemoration of the John F. Kennedy Center for the Performing Arts ####
+
+Pub. L. 116–94, div. P, title VI, §603, Dec. 20, 2019, 133 Stat. 3194, provided that:
+
+"(a) Sense of Congress.—It is the sense of Congress that the John F. Kennedy Center for the Performing Arts (referred to in this Act [probably means "this title", see Short Title of 2019 Amendment note set out under section 76h of this title] as the 'Center')—
+
+"(1) recognize the year 2021 as the 50th anniversary of the opening of the Center;
+
+"(2) acknowledge and commemorate the mission of the Center as a national center for the performing arts and a national memorial to President John F. Kennedy; and
+
+"(3) recognize that the year 2018 is the 60th anniversary of the signing of the National Cultural Center Act (now known as the 'John F. Kennedy Center Act') (20 U.S.C. 76h et seq.), signed into law by President Dwight D. Eisenhower on September 2, 1958.
+
+"(b) Authorization for Plaque.—
+
+"(1) In general.—The Center shall place within the Center a plaque containing an inscription to commemorate the 60th anniversary of the signing of the National Cultural Center Act (20 U.S.C. 76h et seq.) by President Dwight D. Eisenhower.
+
+"(2) Specifications.—The plaque shall be—
+
+"(A)(i) not less than 6 square feet in size; and
+
+"(ii) not more than 18 square feet in size;
+
+"(B) of any shape that the Trustees of the Center determine to be appropriate; and
+
+"(C) placed at a location within the Center approximate to the Eisenhower Theater that the Trustees of the Center determine to be appropriate.
+
+"(3) Funding.—
+
+"(A) In general.—No Federal funds may be used to design, procure, or install the plaque.
+
+"(B) Exception.—Subparagraph (A) shall not affect the payment of salaries, expenses, and benefits otherwise authorized by law for members and employees of the Center who participate in carrying out this subsection.
+
+"(4) Private fundraising authorized.—
+
+"(A) In general.—The Center may solicit and accept private contributions for the design, procurement, and installation of the plaque.
+
+"(B) Accounting.—The Center may—
+
+"(i) establish an account into which any contributions received pursuant to subparagraph (A) shall be deposited; and
+
+"(ii) maintain documentation of any contributions received pursuant to subparagraph (A)."
+
 #### Access to John F. Kennedy Center for the Performing Arts ####
 
 Pub. L. 105–178, title I, §1214(a), June 9, 1998, 112 Stat. 204, provided that:

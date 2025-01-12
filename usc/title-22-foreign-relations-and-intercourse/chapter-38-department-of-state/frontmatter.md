@@ -116,6 +116,8 @@ Sec.
 
 2680a. Compensation for disability or death.
 
+2680b. Special rules for certain monthly workers' compensation payments and other payments for Department of State personnel under chief of mission authority.
+
 2681. International broadcasting facilities; transfer to Department of State; acquisition of property.
 
 2682. Liquidation and disposal of broadcasting facilities.

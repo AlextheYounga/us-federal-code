@@ -76,9 +76,9 @@ Pub. L. 104–14, June 3, 1995, 109 Stat. 186, provided that:
 
 "(b) References to Abolished Committees.—Any reference in any provision of law enacted before January 4, 1995, to—
 
-"(1) the Committee on District of Columbia of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight [now Committee on Oversight and Government Reform] of the House of Representatives;
+"(1) the Committee on District of Columbia of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight [now Committee on Oversight and Reform] of the House of Representatives;
 
-"(2) the Committee on Post Office and Civil Service of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight [now Committee on Oversight and Government Reform] of the House of Representatives, except that a reference with respect to the House Commission on Congressional Mailings [probably should be "Mailing"] Standards (the 'Franking Commission') shall be treated as referring to the Committee on House Oversight [now Committee on House Administration] of the House of Representatives; and
+"(2) the Committee on Post Office and Civil Service of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight [now Committee on Oversight and Reform] of the House of Representatives, except that a reference with respect to the House Commission on Congressional Mailings [probably should be "Mailing"] Standards (the 'Franking Commission') shall be treated as referring to the Committee on House Oversight [now Committee on House Administration] of the House of Representatives; and
 
 "(3) the Committee on Merchant Marine and Fisheries of the House of Representatives shall be treated as referring to—
 

@@ -673,59 +673,7 @@ For taxable years beginning after December 31, 2018, the Secretary shall prescri
 
 (iii) subsection (f)(8) shall not apply.
 
-#### (4) Special rules for certain children with unearned income ####
-
-#### (A) In general ####
-
-In the case of a child to whom subsection (g) applies for the taxable year, the rules of subparagraphs (B) and (C) shall apply in lieu of the rule under subsection (g)(1).
-
-#### (B) Modifications to applicable rate brackets ####
-
-In determining the amount of tax imposed by this section for the taxable year on a child described in subparagraph (A), the income tax table otherwise applicable under this subsection to the child shall be applied with the following modifications:
-
-#### (i) 24-percent bracket ####
-
-The maximum taxable income which is taxed at a rate below 24 percent shall not be more than the sum of—
-
-(I) the earned taxable income of such child, plus
-
-(II) the minimum taxable income for the 24-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-#### (ii) 35-percent bracket ####
-
-The maximum taxable income which is taxed at a rate below 35 percent shall not be more than the sum of—
-
-(I) the earned taxable income of such child, plus
-
-(II) the minimum taxable income for the 35-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-#### (iii) 37-percent bracket ####
-
-The maximum taxable income which is taxed at a rate below 37 percent shall not be more than the sum of—
-
-(I) the earned taxable income of such child, plus
-
-(II) the minimum taxable income for the 37-percent bracket in the table under paragraph (2)(E) (as adjusted under paragraph (3)) for the taxable year.
-
-#### (C) Coordination with capital gains rates ####
-
-For purposes of applying section 1(h) (after the modifications under paragraph (5)(A))—
-
-(i) the maximum zero rate amount shall not be more than the sum of—
-
-(I) the earned taxable income of such child, plus
-
-(II) the amount in effect under paragraph (5)(B)(i)(IV) for the taxable year, and
-
-(ii) the maximum 15-percent rate amount shall not be more than the sum of—
-
-(I) the earned taxable income of such child, plus
-
-(II) the amount in effect under paragraph (5)(B)(ii)(IV) for the taxable year.
-
-#### (D) Earned taxable income ####
-
-For purposes of this paragraph, the term "earned taxable income" means, with respect to any child for any taxable year, the taxable income of such child reduced (but not below zero) by the net unearned income (as defined in subsection (g)(4)) of such child.
+#### [(4) Repealed. Pub. L. 116–94, div. O, title V, §501(a), Dec. 20, 2019, 133 Stat. 3180] ####
 
 #### (5) Application of current income tax brackets to capital gains brackets ####
 
@@ -779,7 +727,7 @@ If any increase under this subparagraph is not a multiple of $50, such increase 
 
 Section 15 shall not apply to any change in a rate of tax by reason of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) [title I, §117(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364; Pub. L. 110–28, title VIII, §8241(a), (b), May 25, 2007, 121 Stat. 199; Pub. L. 110–185, title I, §101(f)(2), Feb. 13, 2008, 122 Stat. 617; Pub. L. 112–240, title I, §§101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, 126 Stat. 2316, 2318, 2319; Pub. L. 113–295, div. A, title II, §221(a)(1), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 115–97, title I, §§11001(a), 11002(a)–(c), 14223(a), Dec. 22, 2017, 131 Stat. 2054, 2059, 2220.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) [title I, §117(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364; Pub. L. 110–28, title VIII, §8241(a), (b), May 25, 2007, 121 Stat. 199; Pub. L. 110–185, title I, §101(f)(2), Feb. 13, 2008, 122 Stat. 617; Pub. L. 112–240, title I, §§101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, 126 Stat. 2316, 2318, 2319; Pub. L. 113–295, div. A, title II, §221(a)(1), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 115–97, title I, §§11001(a), 11002(a)–(c), 14223(a), Dec. 22, 2017, 131 Stat. 2054, 2059, 2220; Pub. L. 116–94, div. O, title V, §501(a), Dec. 20, 2019, 133 Stat. 3180.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -790,6 +738,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 The date of the enactment of this subclause, referred to in subsec. (h)(11)(C)(iii)(II), is the date of enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
 
 #### Amendments ####
+
+**2019**—Subsec. (j)(4). Pub. L. 116–94 struck out par. (4) which related to special rules for certain children with unearned income.
 
 **2017**—Subsec. (f)(2)(A). Pub. L. 115–97, §11002(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "except as provided in paragraph (8), by increasing the minimum and maximum dollar amounts for each rate bracket for which a tax is imposed under such table by the cost-of-living adjustment for such calendar year,".
 
@@ -1179,6 +1129,16 @@ Subsec. (e). Pub. L. 91–172 struck out cross reference to section 63. See sect
 
 **1964**—Pub. L. 88–272 amended section generally by splitting the former first bracket which started at $2,000 into four new brackets, the 14 percent bracket representing a 30 percent reduction, the 15 percent bracket a 25 percent cut, and the 16 percent bracket a 20 percent cut, and reducing all other brackets by cuts averaging about 20 percent and effectuated these cuts in two steps, one in 1964, and one in 1965.
 
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. O, title V, §501(c), Dec. 20, 2019, 133 Stat. 3181, provided that:
+
+"(1) In general.—Except as otherwise provided in this subsection, the amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2019.
+
+"(2) Coordination with alternative minimum tax.—The amendment made by subsection (b) [amending section 55 of this title] shall apply to taxable years beginning after December 31, 2017.
+
+"(3) Elective retroactive application.—A taxpayer may elect (at such time and in such manner as the Secretary of the Treasury (or the Secretary's designee) may provide) for the amendment made by subsection (a) to also apply to taxable years of the taxpayer which begin in 2018, 2019, or both (as specified by the taxpayer in such election)."
+
 #### Effective Date of 2017 Amendment ####
 
 Pub. L. 115–97, title I, §11001(c), Dec. 22, 2017, 131 Stat. 2059, provided that: "The amendments made by this section [amending this section and section 6695 of this title] shall apply to taxable years beginning after December 31, 2017."
@@ -1412,6 +1372,12 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
 #### Short Title of 2019 Amendment ####
+
+Pub. L. 116–94, div. O, §1(a), Dec. 20, 2019, 133 Stat. 3137, provided that: "This Act [div. O of Pub. L. 116–94, see Tables for classification] may be cited as the 'Setting Every Community Up for Retirement Enhancement Act of 2019'."
+
+Pub. L. 116–94, div. P, title XIII, §1301, Dec. 20, 2019, 133 Stat. 3204, provided that: "This title [amending section 4975 of this title and section 1108 of Title 29, Labor, and enacting provisions set out as a note under section 4975 of this title] may be cited as the 'Temporary Relief from Certain ERISA Requirements Act of 2020'."
+
+Pub. L. 116–94, div. Q, §1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: "This division [see Tables for classification] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2019'."
 
 Pub. L. 116–25, §1(a), July 1, 2019, 133 Stat. 981, provided that: "This Act [see Tables for classification] may be cited as the 'Taxpayer First Act'."
 

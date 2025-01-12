@@ -1,14 +1,10 @@
 ### §282b. Compensation ###
 
-(a) The Legislative Counsel shall be paid at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule of section 5314 of title 5.
+(a) The Legislative Counsel shall be paid at a per annum gross rate equal to the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.
 
-(b) Members of the staff of the Office other than the Legislative Counsel shall be paid at per annum gross rates fixed by the Legislative Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the rate of basic pay for one pay level above the maximum pay level for employees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives.
+(b) Members of the staff of the Office other than the Legislative Counsel shall be paid at per annum gross rates fixed by the Legislative Counsel with the approval of the Speaker or in accordance with policies approved by the Speaker, but not in excess of the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.
 
-(Pub. L. 91–510, title V, §523, Oct. 26, 1970, 84 Stat. 1203; Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668.)
-
-#### References in Text ####
-
-Clause 6(c) of Rule XI of the Rules of the House of Representatives, referred to in text, was amended generally for the One Hundred First Congress and, as so amended, does not refer to specific pay levels. The Rules were amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999, and, as so amended, provisions formerly appearing in clause 6(c) of Rule XI, as amended for the One Hundred First Congress, are now contained in clause 9(c) of Rule X.
+(Pub. L. 91–510, title V, §523, Oct. 26, 1970, 84 Stat. 1203; Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 116–94, div. E, title II, §212(b)(3)(A), Dec. 20, 2019, 133 Stat. 2776.)
 
 #### Codification ####
 
@@ -20,7 +16,19 @@ House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into perma
 
 #### Amendments ####
 
+**2019**—Subsec. (a). Pub. L. 116–94, §212(b)(3)(A)(i), substituted "equal to the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title." for "equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule of section 5314 of title 5."
+
+Subsec. (b). Pub. L. 116–94, §212(b)(3)(A)(ii), substituted "in excess of the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title." for "in excess of the rate of basic pay for one pay level above the maximum pay level for employees of the House of Representatives provided under clause 6(c) of Rule XI of the Rules of the House of Representatives."
+
 **1977**—Subsec. (b). Pub. L. 95–94 substituted provisions authorizing compensation at a rate not in excess of the rate of basic pay for one pay level above the maximum pay level for House employees provided under cl. 6(c) of Rule XI of the Rules of the House of Representatives, for provisions authorizing compensation at per annum gross rates not in excess of a per annum gross rate equal to the rate of basic pay for level V of the Executive Schedule of section 5316 of title 5.
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. E, title II, §212(c), Dec. 20, 2019, 133 Stat. 2778, provided that: "This section [see Tables for classification] and the amendments made by this section shall take effect on the later of—
+
+"(1) the first day of the first applicable pay period beginning on or after January 1, 2020; or
+
+"(2) the first day of the first applicable pay period beginning on or after the date of enactment of this Act [Dec. 20, 2019]."
 
 #### Increases in Compensation ####
 

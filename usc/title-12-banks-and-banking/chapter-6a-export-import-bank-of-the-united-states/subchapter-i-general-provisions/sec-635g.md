@@ -140,13 +140,19 @@ The Bank shall include in its annual report to the Congress under subsection (a)
 
 The Bank shall include in its annual report to Congress under subsection (a) a report on the programs of the Bank for United States businesses with less than $250,000,000 in annual sales.
 
-(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I [title VI, §§618(b), 623], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363; Pub. L. 114–94, div. E, title LII, §52002(a), Dec. 4, 2015, 129 Stat. 1767.)
+#### (l) Report on authorizations under the Program on China and Transformational Exports ####
+
+The Bank shall include in its annual report to Congress under subsection (a) a narrative and financial summary of the authorizations made under the Program on China and Transformational Exports.
+
+(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I [title VI, §§618(b), 623], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363; Pub. L. 114–94, div. E, title LII, §52002(a), Dec. 4, 2015, 129 Stat. 1767; Pub. L. 116–94, div. I, title IV, §402(b), Dec. 20, 2019, 133 Stat. 3023.)
 
 #### Prior Provisions ####
 
 A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is classified to section 635f of this title.
 
 #### Amendments ####
+
+**2019**—Subsec. (l). Pub. L. 116–94 added subsec. (l).
 
 **2015**—Subsec. (k). Pub. L. 114–94 added subsec. (k).
 

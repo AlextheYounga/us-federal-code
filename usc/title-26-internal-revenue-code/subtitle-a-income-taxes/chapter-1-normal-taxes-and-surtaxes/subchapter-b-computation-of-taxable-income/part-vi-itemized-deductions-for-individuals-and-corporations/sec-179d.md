@@ -150,11 +150,13 @@ The Secretary shall promulgate such regulations as necessary—
 
 #### (h) Termination ####
 
-This section shall not apply with respect to property placed in service after December 31, 2017.
+This section shall not apply with respect to property placed in service after December 31, 2020.
 
-(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(54), Mar. 23, 2018, 132 Stat. 1186.)
+(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(54), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. Q, title I, §131(a), Dec. 20, 2019, 133 Stat. 3232.)
 
 #### Amendments ####
+
+**2019**—Subsec. (h). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2017".
 
 **2018**—Subsec. (d)(1)(B). Pub. L. 115–141 substituted "such that" for "which".
 
@@ -175,6 +177,10 @@ Subsec. (h). Pub. L. 114–113, §190(a), substituted "December 31, 2016" for "D
 **2008**—Subsec. (h). Pub. L. 110–343 substituted "December 31, 2013" for "December 31, 2008".
 
 **2006**—Subsec. (h). Pub. L. 109–432 substituted "2008" for "2007".
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. Q, title I, §131(b), Dec. 20, 2019, 133 Stat. 3232, provided that: "The amendment made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2017."
 
 #### Effective Date of 2018 Amendment ####
 

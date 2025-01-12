@@ -22,7 +22,7 @@ The term "eligible coverage month" means any month if—
 
 (iv) is not imprisoned under Federal, State, or local authority, and
 
-(B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2020.
+(B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002, and before January 1, 2021.
 
 #### (2) Joint returns ####
 
@@ -316,7 +316,7 @@ In the case of a taxpayer who makes the election under paragraph (11) with respe
 
 The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236.)
 
 #### References in Text ####
 
@@ -343,6 +343,8 @@ A prior section 35 was renumbered section 37 of this title.
 Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments ####
+
+**2019**—Subsec. (b)(1)(B). Pub. L. 116–94 substituted "January 1, 2021" for "January 1, 2020".
 
 **2015**—Subsec. (b)(1)(B). Pub. L. 114–27, §407(a), substituted "before January 1, 2020" for "before January 1, 2014".
 
@@ -397,6 +399,10 @@ Subsec. (g)(11). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–
 **2007**—Subsec. (d)(2). Pub. L. 110–172 struck out "paragraph (2) or (4) of" before "section 152(e)" and substituted "(as defined in section 152(e)(4)(A))" for "(within the meaning of section 152(e)(1))".
 
 **2004**—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a)."
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. Q, title I, §146(b), Dec. 20, 2019, 133 Stat. 3236, provided that: "The amendment made by this section [amending this section] shall apply to months beginning after December 31, 2019."
 
 #### Effective Date of 2015 Amendment ####
 

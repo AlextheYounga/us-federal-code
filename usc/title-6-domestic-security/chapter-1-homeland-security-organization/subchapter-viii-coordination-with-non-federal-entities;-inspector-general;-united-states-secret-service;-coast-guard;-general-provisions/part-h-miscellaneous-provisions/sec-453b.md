@@ -38,9 +38,9 @@ Subsection (a) does not apply to the following:
 
 Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of title 10.
 
-#### (g) Applicability to contracts and subcontracts for procurement of commercial items ####
+#### *(g) Applicability to contracts and subcontracts for procurement of commercial products* ####
 
-This section is applicable to contracts and subcontracts for the procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, "commercial" shall be as defined in the Federal Acquisition Regulation—Part 2.
+*This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, "commercial product" shall be as defined in section 103 of title 41.*
 
 #### (h) Geographic coverage ####
 
@@ -69,16 +69,6 @@ This section shall be applied in a manner consistent with United States obligati
 This section applies with respect to contracts entered into by the Department of Homeland Security 180 days after February 17, 2009.
 
 (Pub. L. 111–5, div. A, title VI, §604, Feb. 17, 2009, 123 Stat. 165; Pub. L. 115–232, div. A, title VIII, §836(g)(1), Aug. 13, 2018, 132 Stat. 1872.)
-
-#### Amendment of Subsection (g) ####
-
-Pub. L. 115–232, div. A, title VIII, §836(g)(1), (h), Aug. 13, 2018, 132 Stat. 1872, 1874, made amendments to subsection (g) of this section, effective Jan. 1, 2020, subject to a savings provision. After Jan. 1, 2020, subsection (g) of this section will read as follows:
-
-#### *(g) Applicability to contracts and subcontracts for procurement of commercial products* ####
-
-*This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, "commercial product" shall be as defined in section 103 of title 41.*
-
-See 2018 Amendment note below.
 
 #### Codification ####
 

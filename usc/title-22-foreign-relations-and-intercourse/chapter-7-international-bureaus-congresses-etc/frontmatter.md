@@ -902,6 +902,8 @@ Sec.
 
 286xx. Quota increase.
 
+286zz. Capital stock increases.
+
 #### SUBCHAPTER XVI—UNITED NATIONS ORGANIZATION ####
 
 287. Representation in Organization.

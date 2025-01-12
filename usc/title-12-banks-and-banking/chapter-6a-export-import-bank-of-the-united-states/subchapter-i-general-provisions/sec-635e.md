@@ -8,7 +8,7 @@ The Export-Import Bank of the United States shall not have outstanding at any on
 
 #### (2) Applicable amount defined ####
 
-In this subsection, the term "applicable amount", for each of fiscal years 2015 through 2019, means $135,000,000,000.
+In this subsection, the term "applicable amount", for each of fiscal years 2020 through 2027, means $135,000,000,000.
 
 #### (3) Freezing of lending cap if default rate is 2 percent or more ####
 
@@ -44,13 +44,15 @@ If the President of the United States finds that the amount of direct loan autho
 
 The Bank shall continue to make remaining amounts of its authority available for the fiscal year involved, in accordance with its practices and the requirements of this subchapter, unless otherwise directed pursuant to law.
 
-(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I [title VI, §§615, 620(d)], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763.)
+(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I [title VI, §§615, 620(d)], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763; Pub. L. 116–94, div. I, title IV, §401(b), Dec. 20, 2019, 133 Stat. 3021.)
 
 #### Prior Provisions ####
 
 A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is classified to section 635d of this title.
 
 #### Amendments ####
+
+**2019**—Subsec. (a)(2). Pub. L. 116–94 substituted "for each of fiscal years 2020 through 2027" for "for each of fiscal years 2015 through 2019".
 
 **2015**—Subsec. (a)(2) to (4). Pub. L. 114–94, §51001, added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which defined the term "applicable amount".
 

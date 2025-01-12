@@ -54,11 +54,7 @@ Act July 3, 1948, ch. 823, §2, 62 Stat. 1239, appropriated $2,500,000, for fisc
 
 #### Farm Placement Service ####
 
-Act Apr. 28, 1947, ch. 43, §2, 61 Stat. 55, provided:
-
-"(a) The provisions of the Farm Labor Supply Appropriation Act, 1944 (Public Law 229, Seventy-eighth Congress, second session, title I [former sections 1351 to 1355 of the former Appendix to Title 50, War and National Defense]), as amended and supplemented, and as extended by this Act, shall not be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under the Act of June 6, 1933 (48 Stat. 113) [this chapter].
-
-"(b) The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295)."
+Act Apr. 28, 1947, ch. 43, §2, 61 Stat. 55, provided that the provisions of the Farm Labor Supply Appropriation Act, 1944 were not be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under this chapter.
 
 #### Definitions of Terms in Pub. L. 113–128 ####
 

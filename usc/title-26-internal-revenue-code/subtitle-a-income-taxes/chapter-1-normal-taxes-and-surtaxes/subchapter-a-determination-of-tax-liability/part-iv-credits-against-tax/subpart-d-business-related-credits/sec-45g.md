@@ -56,11 +56,13 @@ For purposes of this subtitle, if a credit is allowed under this section with re
 
 #### (f) Application of section ####
 
-This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004, and before January 1, 2018.
+This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004, and before January 1, 2023.
 
-(Added Pub. L. 108–357, title II, §245(a), Oct. 22, 2004, 118 Stat. 1447; amended Pub. L. 109–135, title IV, §403(f), Dec. 21, 2005, 119 Stat. 2623; Pub. L. 109–432, div. A, title IV, §423(a), Dec. 20, 2006, 120 Stat. 2973; Pub. L. 110–343, div. C, title III, §316(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §734(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §306(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §116(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §162(a), (b), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–123, div. D, title I, §40302(a), Feb. 9, 2018, 132 Stat. 145.)
+(Added Pub. L. 108–357, title II, §245(a), Oct. 22, 2004, 118 Stat. 1447; amended Pub. L. 109–135, title IV, §403(f), Dec. 21, 2005, 119 Stat. 2623; Pub. L. 109–432, div. A, title IV, §423(a), Dec. 20, 2006, 120 Stat. 2973; Pub. L. 110–343, div. C, title III, §316(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §734(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §306(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §116(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §162(a), (b), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–123, div. D, title I, §40302(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 116–94, div. Q, title I, §112(a), Dec. 20, 2019, 133 Stat. 3228.)
 
 #### Amendments ####
+
+**2019**—Subsec. (f). Pub. L. 116–94 substituted "January 1, 2023" for "January 1, 2018".
 
 **2018**—Subsec. (f). Pub. L. 115–123 substituted "January 1, 2018" for "January 1, 2017".
 
@@ -87,6 +89,10 @@ Subsec. (f). Pub. L. 114–113, §162(a), substituted "January 1, 2017" for "Jan
 A mile of railroad track may be taken into account by a person other than the owner only if such mile is assigned to such person by the owner for purposes of this subsection. Any mile which is so assigned may not be taken into account by the owner for purposes of this subsection."
 
 Subsec. (c)(2). Pub. L. 109–135, §403(f)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "any person who transports property using the rail facilities of a person described in paragraph (1) or who furnishes railroad-related property or services to such a person."
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. Q, title I, §112(c), Dec. 20, 2019, 133 Stat. 3229, provided that: "The amendment made by this section [amending this section] shall apply to expenditures paid or incurred during taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2018 Amendment ####
 
@@ -131,3 +137,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 #### Effective Date ####
 
 Section applicable to taxable years beginning after Dec. 31, 2004, see section 245(e) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
+
+#### Safe Harbor Assignments ####
+
+Pub. L. 116–94, div. Q, title I, §112(b), Dec. 20, 2019, 133 Stat. 3228, provided that: "Any assignment, including related expenditures paid or incurred, under section 45G(b)(2) of the Internal Revenue Code of 1986 for a taxable year beginning on or after January 1, 2018, and ending before January 1, 2020, shall be treated as effective as of the close of such taxable year if made pursuant to a written agreement entered into no later than 90 days following the date of the enactment of this Act [Dec. 20, 2019]."

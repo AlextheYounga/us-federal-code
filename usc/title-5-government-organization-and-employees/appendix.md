@@ -428,7 +428,7 @@ William J. Clinton.
 
 #### Continuance of Certain Federal Advisory Committees ####
 
-Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, provided:
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, as amended by Ex. Ord. No. 13872, §4(a), May 13, 2019, 84 F.R. 22324, provided:
 
 By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
@@ -470,7 +470,7 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (r) President's Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
 
-(s) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515, as amended (Department of Education).
+(s) [Superseded by Ex. Ord. No. 13872, §4(a), May 13, 2019, 84 F.R. 22324.]
 
 (t) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
 
@@ -553,6 +553,64 @@ Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, superseded by Ex. Ord. No. 1225
 Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, as amended by Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839; Ex. Ord. No. 12029, Dec. 14, 1977, 42 F.R. 63631, superseded by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069.
 
 Ex. Ord. No. 11827, Jan. 4, 1975, 40 F.R. 1217, as amended by Ex. Ord. No. 11915, May 10, 1976, 41 F.R. 19195, superseded by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705.
+
+#### Ex. Ord. No. 13875. Evaluating and Improving the Utility of Federal Advisory Committees ####
+
+Ex. Ord. No. 13875, June 14, 2019, 84 F.R. 28711, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the Federal Advisory Committee Act (FACA), as amended (5 U.S.C. App.), it is hereby ordered as follows:
+
+Section 1. *Review of Current Advisory Committees*. (a) Each executive department and agency (agency) shall evaluate the need for each of its current advisory committees established under section 9(a)(2) of FACA and those advisory committees established under section 9(a)(1) that are authorized by law but not required by statute (eligible committees).
+
+(b) Each agency shall, by September 30, 2019, terminate at least one-third of its current committees established under section 9(a)(2) of FACA, including committees for which the:
+
+(i) stated objectives of the committee have been accomplished;
+
+(ii) subject matter or work of the committee has become obsolete;
+
+(iii) primary functions have been assumed by another entity; or
+
+(iv) agency determines that the cost of operation is excessive in relation to the benefits to the Federal Government.
+
+(c) Each agency may request a waiver of the requirement in subsection (b) of this section from the Director of the Office of Management and Budget (Director). The Director may grant such a waiver if the Director concludes it is necessary for the delivery of essential services, for effective program delivery, or because it is otherwise warranted by the public interest.
+
+(d) Each agency that has fewer than three current eligible committees is exempt from subsection (b) of this section.
+
+(e) Agencies may count eligible committees terminated since January 20, 2017, toward the requirement of subsection (b) of this section.
+
+Sec. 2. *Limitations on New Advisory Committees*. The Government-wide combined total number of eligible committees (excluding committees covered by section 6(d) of this order) shall not exceed 350. If the combined total number of eligible committees exceeds 350, an agency may not establish a new advisory committee under section 9(a)(2) of FACA, unless the agency obtains a waiver pursuant to subsection 4(b) of this order. Such a waiver is in addition to the notice and other requirements of FACA and its implementing regulations.
+
+Sec. 3. *Reporting Requirements*. (a) The head of each agency shall submit to the Director on or before August 1, 2019:
+
+(i) a recommendation for each of the agency's current advisory committees established by the President under section 9(a)(1) of FACA regarding whether the committee should be continued; and
+
+(ii) a detailed plan, for each advisory committee required by statute, for continuing or terminating such committee, including, as appropriate, recommended legislation for submission to the Congress.
+
+(b) The Administrator of General Services (Administrator) shall submit to the Director such justifications and recommendations required by subsection (a) of this section for independent Presidential advisory committees, as defined by 41 CFR 102-3.25.
+
+Sec. 4. *Office of Management and Budget Role*. (a) The Director, in coordination with the Administrator, shall issue instructions regarding the implementation of this order, including how to calculate the number of eligible committees to eliminate in each agency and how to comply with applicable law.
+
+(b) The Director may, with the concurrence of the Administrator, grant an agency a waiver of the requirements of section 2 of this order if the Director concludes that such waiver is necessary for the delivery of essential services, for effective program delivery, or because it is otherwise warranted by the public interest.
+
+(c) By September 1, 2019, the Director shall make appropriate recommendations to the President about terminating committees established by the President under section 9(a)(1) of FACA. The Director shall also include in the President's FY 2021 budget submission to the Congress a detailed plan for terminating such committees required by statute whose continued operations no longer serve the public interest, including with respect to the criteria set forth in subsection 1(b) of this order.
+
+Sec. 5. *Exemption for Merit Review Panels*. (a) The requirements of sections 1, 2, and 3 of this order do not apply to a merit review panel or advisory committee whose primary purpose is to provide scientific expertise to support agencies making decisions related to the safety or efficacy of products to be marketed to American consumers.
+
+(b) A merit review panel, for purposes of this order, is any collegial body whose approval is necessary to fund an extramural research procurement contract, grant, or cooperative agreement (including second level peer review), such as those at the National Institutes of Health.
+
+Sec. 6. *General Provisions*. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director relating to budgetary, administrative, or legislative proposals.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The provisions of this order do not apply to any independent regulatory agency, as that term is defined in section 3502(5) of title 44, United States Code.
+
+Donald J. Trump.
 
 #### Termination of Certain Federal Advisory Committees ####
 
@@ -801,7 +859,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 Pub. L. 110–409, §6(c), Oct. 14, 2008, 122 Stat. 4305, provided that: "Nothing in the amendments made by this section [amending this section and section 8G of Pub. L. 95–452, set out in this Appendix] shall be construed to alter the duties and responsibilities of the counsel for any establishment or designated Federal entity, except for the availability of counsel as provided under sections 3(g) and 8G(g) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by this section). The Counsel to the Inspector General shall perform such functions as the Inspector General may prescribe."
 
-#### Transition Rule Relating to Inspector Generals of the Federal Communications Commission ####
+#### Transition Rule Relating to Inspectors General of the Federal Communications Commission ####
 
 Pub. L. 115–141, div. P, title V, §501(b), Mar. 23, 2018, 132 Stat. 1090, provided that: "An individual serving as Inspector General of the Commission [Federal Communications Commission] on the date of the enactment of this Act [Mar. 23, 2018] pursuant to an appointment made under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)—
 
@@ -1287,7 +1345,7 @@ Pub. L. 110–181, div. A, title VIII, §845, Jan. 28, 2008, 122 Stat. 240, prov
 
 "(2) Committees.—The committees listed in this paragraph are the following:
 
-"(A) The Committee on Oversight and Government Reform of the House of Representatives.
+"(A) The Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives.
 
 "(B) The Committee on Homeland Security and Governmental Affairs of the Senate.
 
@@ -1509,6 +1567,10 @@ Subsec. (f). Pub. L. 110–409, §8, added subsec. (f).
 
 Subsec. (d). Pub. L. 100–504, §110(a), added subsec. (d).
 
+#### Change of Name ####
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
 #### Effective Date of 2002 Amendment ####
 
 Pub. L. 107–296, title VIII, §812(c), Nov. 25, 2002, 116 Stat. 2224, provided that:
@@ -1685,7 +1747,7 @@ Subsec. (f)(2). Pub. L. 104–106, §1502(f)(6)(D), substituted "congressional c
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1988 Amendment ####
 
@@ -1913,7 +1975,7 @@ Subsecs. (h) to (l). Pub. L. 105–206, §1103(b)(7), added subsecs. (h) to (l).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2012 Amendment ####
 
@@ -1989,7 +2051,7 @@ Subsec. (d). Pub. L. 107–273, §308(2), added subsec. (d).
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date ####
 
@@ -2297,7 +2359,7 @@ Pub. L. 103–82, §202(g)(2)(A), struck out "ACTION," before "Amtrak,".
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment ####
 
@@ -2659,9 +2721,11 @@ Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided t
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board ####
 
-Pub. L. 116–6, div. E, title III, Feb. 15, 2019, 133 Stat. 252, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board:  *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
+Pub. L. 116–94, div. D, title III, Dec. 20, 2019, 133 Stat. 2735, provided that: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board:  *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–6, div. E, title III, Feb. 15, 2019, 133 Stat. 252.
 
 Pub. L. 115–141, div. G, title III, Mar. 23, 2018, 132 Stat. 681.
 
@@ -3908,6 +3972,8 @@ Subsec. (d)(12), (13). Pub. L. 114–317, §3(3)(H), added pars. (12) and (13).
 #### Change of Name ####
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (b)(1)(I) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2016 Amendment ####
 
@@ -5235,6 +5301,10 @@ Pub. L. 101–280, §3(6)(B)(ii), substituted ", office, Clerk, or Secretary of
 Subsec. (d). Pub. L. 101–280, §3(6)(C), inserted "or to the Clerk of the House of Representatives or the Secretary of the Senate" after "ethics office" and "or by the Clerk or the Secretary of the Senate" after "or office".
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to custody of and public access to reports for provisions relating to review and compliance procedures. See section 106 of this Appendix.
+
+#### Change of Name ####
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2004 Amendment ####
 

@@ -20,6 +20,6 @@ Jefferson National Expansion Memorial redesignated Gateway Arch National Park by
 
 #### Compliance With Congressional Budget Act ####
 
-Pub. L. 98–398, title II, §202, Aug. 24, 1984, 98 Stat. 1472, provided that: "Any provision of this title (or any amendment made by this title) [enacting sections 450jj–3 to 450jj–9 of this title and enacting and amending provisions set out as notes under section 450jj of this title] which, directly or indirectly, authorizes the enactment of new budget authority described in section 402(a) of the Congressional Budget Act of 1974 [2 U.S.C. 652(a)] shall be effective only for fiscal years beginning after September 30, 1983."
+Pub. L. 98–398, title II, §202, Aug. 24, 1984, 98 Stat. 1472, provided that any provision of title II of Pub. L. 98–398 (enacting sections 450jj–3 to 450jj–9 of this title and enacting and amending provisions set out as notes under section 450jj of this title) authorizing the enactment of new budget authority described in former section 652(a) of Title 2, The Congress, would be effective only for fiscal years beginning after Sept. 30, 1983.
 
 [<sup>1</sup> See Change of Name note below.](#450jj-3_1)

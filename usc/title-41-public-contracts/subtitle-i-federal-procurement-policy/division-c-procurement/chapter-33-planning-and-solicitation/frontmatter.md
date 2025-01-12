@@ -14,7 +14,7 @@ Sec.
 
 3306. Planning and solicitation requirements.
 
-3307. Preference for commercial items.
+3307. Preference for commercial products and commercial services.
 
 3308. Planning for future competition in contracts for major systems.
 
@@ -25,10 +25,6 @@ Sec.
 3311. Qualification requirement.
 
 3312. Database on price trends of items and services under Federal contracts.
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–232, div. A, title VIII, §836(b)(10)(B)(ii), (h), Aug. 13, 2018, 132 Stat. 1863, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by striking item 3307 and inserting a new item 3307 "Preference for commercial products and commercial services." See 2018 Amendment note below.
 
 #### Amendments ####
 

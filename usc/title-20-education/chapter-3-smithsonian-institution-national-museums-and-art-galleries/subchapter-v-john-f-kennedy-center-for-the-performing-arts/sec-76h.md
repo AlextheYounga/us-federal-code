@@ -86,6 +86,10 @@ Pub. L. 103–279, §2(b)(2), July 21, 1994, 108 Stat. 1410, provided that:
 
 "(B) Members of congress.—The amendment made by paragraph (1)(C)(ii) [amending this section] shall take effect on the date of enactment of this Act."
 
+#### Short Title of 2019 Amendment ####
+
+Pub. L. 116–94, div. P, title VI, §601, Dec. 20, 2019, 133 Stat. 3194, provided that: "This title [amending section 76r of this title and enacting provisions set out as a note under section 76j of this title] may be cited as the 'John F. Kennedy Center Reauthorization Act of 2019'."
+
 #### Short Title of 2012 Amendment ####
 
 Pub. L. 112–131, §1, June 8, 2012, 126 Stat. 377, provided that: "This Act [amending sections 76i and 76r of this title] may be cited as the 'John F. Kennedy Center Reauthorization Act of 2012'."

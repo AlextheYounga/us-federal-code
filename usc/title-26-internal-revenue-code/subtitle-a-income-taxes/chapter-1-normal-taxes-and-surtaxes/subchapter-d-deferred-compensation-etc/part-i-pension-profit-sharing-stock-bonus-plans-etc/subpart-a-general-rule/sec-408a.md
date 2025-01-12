@@ -18,7 +18,7 @@ No deduction shall be allowed under section 219 for a contribution to a Roth IRA
 
 The aggregate amount of contributions for any taxable year to all Roth IRAs maintained for the benefit of an individual shall not exceed the excess (if any) of—
 
-(A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) or (g) of such section), over
+(A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) <sup><a href="#408A_1_target" name="408A_1">1</a></sup> or (g) of such section), over
 
 (B) the aggregate amount of contributions for such taxable year to all other individual retirement plans (other than Roth IRAs) maintained for the benefit of the individual.
 
@@ -66,11 +66,7 @@ In the case of any taxable year beginning in a calendar year after 2006, the dol
 
 Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-#### (4) Contributions permitted after age 70½ ####
-
-Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½.
-
-#### (5) Mandatory distribution rules not to apply before death ####
+#### (4) Mandatory distribution rules not to apply before death ####
 
 Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
 
@@ -78,7 +74,7 @@ Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to requir
 
 (B) The incidental death benefit requirements of section 401(a).
 
-#### (6) Rollover contributions ####
+#### (5) Rollover contributions ####
 
 #### (A) In general ####
 
@@ -88,7 +84,7 @@ No rollover contribution may be made to a Roth IRA unless it is a qualified roll
 
 A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
 
-#### (7) Time when contributions made ####
+#### (6) Time when contributions made ####
 
 For purposes of this section, the rule of section 219(f)(3) shall apply.
 
@@ -282,13 +278,19 @@ For purposes of this section—
 
 (2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
 
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §107(c), Dec. 20, 2019, 133 Stat. 3149.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.
 
+#### References in Text ####
+
+Subsection (d)(1) of such section, referred to in subsec. (c)(2)(A), means section 219(d)(1) of this title, which was repealed by Pub. L. 116–94, div. O, title I, §107(a), Dec. 20, 2019, 133 Stat. 3148.
+
 #### Amendments ####
+
+**2019**—Subsec. (c)(4) to (7). Pub. L. 116–94 redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½."
 
 **2018**—Subsec. (d)(3)(B). Pub. L. 115–141, §401(a)(77), inserted period at end.
 
@@ -426,6 +428,10 @@ Subsec. (d)(7). Pub. L. 105–206, §6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
 
+#### Effective Date of 2019 Amendment ####
+
+Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out as a note under section 219 of this title.
+
 #### Effective Date of 2017 Amendment ####
 
 Amendment by section 11002(d)(1)(W) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -507,3 +513,5 @@ Pub. L. 110–458, title I, §125, Dec. 23, 2008, 122 Stat. 5115, provided that:
 Such reports shall be in such form, and contain such additional information, as the Secretary may prescribe.
 
 "(c) Effective Date.—This section shall apply to transfers made after the date of the enactment of this Act [Dec. 23, 2008] with respect to airline payment amounts paid before, on, or after such date."
+
+[<sup>1</sup> See References in Text note below.](#408A_1)

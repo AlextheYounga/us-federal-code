@@ -8,7 +8,15 @@ For purposes of section 38, in the case of an eligible employer, the small emplo
 
 The amount of the credit determined under this section for any taxable year shall not exceed—
 
-(1) $500 for the first credit year and each of the 2 taxable years immediately following the first credit year, and
+(1) for the first credit year and each of the 2 taxable years immediately following the first credit year, the greater of—
+
+(A) $500, or
+
+(B) the lesser of—
+
+(i) $250 for each employee of the eligible employer who is not a highly compensated employee (as defined in section 414(q)) and who is eligible to participate in the eligible employer plan maintained by the eligible employer, or
+
+(ii) $5,000, and
 
 (2) zero for any other taxable year.
 
@@ -70,11 +78,17 @@ No deduction shall be allowed for that portion of the qualified startup costs pa
 
 This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.
 
-(Added Pub. L. 107–16, title VI, §619(a), June 7, 2001, 115 Stat. 108; amended Pub. L. 107–147, title IV, §411(n)(1), Mar. 9, 2002, 116 Stat. 48.)
+(Added Pub. L. 107–16, title VI, §619(a), June 7, 2001, 115 Stat. 108; amended Pub. L. 107–147, title IV, §411(n)(1), Mar. 9, 2002, 116 Stat. 48; Pub. L. 116–94, div. O, title I, §104(a), Dec. 20, 2019, 133 Stat. 3147.)
 
 #### Amendments ####
 
+**2019**—Subsec. (b)(1). Pub. L. 116–94 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "$500 for the first credit year and each of the 2 taxable years immediately following the first credit year, and".
+
 **2002**—Subsec. (e)(1). Pub. L. 107–147 substituted "subsection (m)" for "subsection (n)".
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. O, title I, §104(b), Dec. 20, 2019, 133 Stat. 3147, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019."
 
 #### Effective Date of 2002 Amendment ####
 

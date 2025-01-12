@@ -52,7 +52,7 @@ Pub. L. 101–626, §1(a), Nov. 28, 1990, 104 Stat. 4426, provided that: "This A
 
 #### Study Containing Recommendations on Need To Standardize Riparian Management Practices in Tongass National Forest ####
 
-Pub. L. 101–626, title I, §103(b), Nov. 28, 1990, 104 Stat. 4427, provided that: "No later than one year after the date of enactment of this Act [Nov. 28, 1990], the Secretary of Agriculture, in consultation with the State of Alaska, the National Marine Fisheries Service, and affected private land owners, shall prepare and transmit to the Congress a study containing recommendations on the need, if any, to standardize riparian management practices for Federal, State, and private lands within the Tongass National Forest."
+Pub. L. 101–626, title I, §103(b), Nov. 28, 1990, 104 Stat. 4427, directed the Secretary of Agriculture, no later than one year after Nov. 28, 1990, to prepare and transmit to Congress a study containing recommendations on the need, if any, to standardize riparian management practices for Federal, State, and private lands within the Tongass National Forest.
 
 #### Application of Amendments by Pub. L. 101–626 to Certain Long-Term Timber Sale Contracts ####
 

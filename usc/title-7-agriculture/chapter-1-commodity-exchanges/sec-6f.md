@@ -108,7 +108,7 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (11) Nothing in paragraphs (1) through (10) shall be construed to supersede or to limit in any way the authority or powers of the Commission pursuant to any other provision of this chapter or regulations issued under this chapter.
 
-(Sept. 21, 1922, ch. 369, §4f, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Pub. L. 90–258, §7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6), title II, §252(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–447; Pub. L. 110–246, title XIII, §13105(b), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(b), June 18, 2008, 122 Stat. 1664, 2196.)
+(Sept. 21, 1922, ch. 369, §4f, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Pub. L. 90–258, §7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6), title II, §252(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–447; Pub. L. 110–234, title XIII, §13105(b), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(b), June 18, 2008, 122 Stat. 1664, 2196.)
 
 #### References in Text ####
 

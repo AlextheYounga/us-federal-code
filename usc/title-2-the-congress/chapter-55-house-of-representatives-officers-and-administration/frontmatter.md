@@ -26,6 +26,8 @@ Sec.
 
 5511. Transfer of funds.
 
+5512. Use of available balances of expired appropriations.
+
 #### SUBCHAPTER II—CHAPLAIN ####
 
 5521. Compensation of Chaplain of House.

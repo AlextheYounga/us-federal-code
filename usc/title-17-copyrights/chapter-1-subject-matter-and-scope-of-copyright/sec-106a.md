@@ -58,22 +58,4 @@ Pub. L. 101–650, title VI, §610, Dec. 1, 1990, 104 Stat. 5132, provided that:
 
 #### Studies by Copyright Office ####
 
-Pub. L. 101–650, title VI, §608, Dec. 1, 1990, 104 Stat. 5132, provided that:
-
-"(a) Study on Waiver of Rights Provision.—
-
-"(1) Study.—The Register of Copyrights shall conduct a study on the extent to which rights conferred by subsection (a) of section 106A of title 17, United States Code, have been waived under subsection (e)(1) of such section.
-
-"(2) Report to congress.—Not later than 2 years after the date of the enactment of this Act [Dec. 1, 1990], the Register of Copyrights shall submit to the Congress a report on the progress of the study conducted under paragraph (1). Not later than 5 years after such date of enactment, the Register of Copyrights shall submit to the Congress a final report on the results of the study conducted under paragraph (1), and any recommendations that the Register may have as a result of the study.
-
-"(b) Study on Resale Royalties.—
-
-"(1) Nature of study.—The Register of Copyrights, in consultation with the Chair of the National Endowment for the Arts, shall conduct a study on the feasibility of implementing—
-
-"(A) a requirement that, after the first sale of a work of art, a royalty on any resale of the work, consisting of a percentage of the price, be paid to the author of the work; and
-
-"(B) other possible requirements that would achieve the objective of allowing an author of a work of art to share monetarily in the enhanced value of that work.
-
-"(2) Groups to be consulted.—The study under paragraph (1) shall be conducted in consultation with other appropriate departments and agencies of the United States, foreign governments, and groups involved in the creation, exhibition, dissemination, and preservation of works of art, including artists, art dealers, collectors of fine art, and curators of art museums.
-
-"(3) Report to congress.—Not later than 18 months after the date of the enactment of this Act [Dec. 1, 1990], the Register of Copyrights shall submit to the Congress a report containing the results of the study conducted under this subsection."
+Pub. L. 101–650, title VI, §608, Dec. 1, 1990, 104 Stat. 5132, directed the Register of Copyrights to study the extent to which authorship rights have been waived by visual artists under this section and to submit a final report to Congress not later than 5 years after Dec. 1, 1990, and also directed the Register to study the feasibility of implementing a requirement that, after the first sale of a work of art, would enable authors of visual art to share monetarily in the resale and enhanced value of that work, with a report to Congress due not later than 18 months after Dec. 1, 1990.

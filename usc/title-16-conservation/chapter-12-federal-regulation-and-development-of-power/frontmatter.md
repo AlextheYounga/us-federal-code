@@ -214,6 +214,8 @@ Sec.
 
 825s–7. Southwestern Power Administration; deposit and availability of discretionary offsetting collections.
 
+825s–8. Southeastern Power Administration: rates of basic and premium pay.
+
 825t. Utilization of power revenues.
 
 825u. Interest rate on power bonds held by Administrator of General Services.

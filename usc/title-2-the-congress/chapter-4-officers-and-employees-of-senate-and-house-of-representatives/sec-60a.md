@@ -82,21 +82,23 @@ In addition to these acts the following House Resolutions affected the salary of
 
 The following acts have provided for funds for the operation of Congress:
 
-Pub. L. 115–244, div. B, Sept. 21, 2018, 132 Stat. 2923.
+Pub. L. 116–94, div. E, title I, Dec. 20, 2019, 133 Stat. 2753.
 
-Pub. L. 115–141, div. I, Mar. 23, 2018, 132 Stat. 769.
+Pub. L. 115–244, div. B, title I, Sept. 21, 2018, 132 Stat. 2923.
 
-Pub. L. 115–31, div. I, May 5, 2017, 131 Stat. 568.
+Pub. L. 115–141, div. I, title I, Mar. 23, 2018, 132 Stat. 769.
 
-Pub. L. 114–113, div. I, Dec. 18, 2015, 129 Stat. 2654.
+Pub. L. 115–31, div. I, title I, May 5, 2017, 131 Stat. 568.
 
-Pub. L. 113–235, div. H, Dec. 16, 2014, 128 Stat. 2523.
+Pub. L. 114–113, div. I, title I, Dec. 18, 2015, 129 Stat. 2654.
 
-Pub. L. 113–76, div. I, Jan. 17, 2014, 128 Stat. 417.
+Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2523.
 
-Pub. L. 112–74, div. G, Dec. 23, 2011, 125 Stat. 1116.
+Pub. L. 113–76, div. I, title I, Jan. 17, 2014, 128 Stat. 417.
 
-Pub. L. 111–68, div. A, Oct. 1, 2009, 123 Stat. 2023.
+Pub. L. 112–74, div. G, title I, Dec. 23, 2011, 125 Stat. 1116.
+
+Pub. L. 111–68, div. A, title I, Oct. 1, 2009, 123 Stat. 2023.
 
 Pub. L. 111–8, div. G, title I, Mar. 11, 2009, 123 Stat. 812.
 

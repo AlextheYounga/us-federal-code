@@ -90,6 +90,8 @@ Sec.
 
 4575. Gross rate of compensation of employees paid by Secretary of Senate.
 
+4575a. Change in maximum rates of pay for statutory employees.
+
 4576. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions.
 
 4577. Availability of appropriations during first three months of any fiscal year for aggregate of payments of gross compensation made to employees from Senate appropriation account for "Salaries, Officers and Employees".

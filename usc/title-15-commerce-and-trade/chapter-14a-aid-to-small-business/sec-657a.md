@@ -2,111 +2,7 @@
 
 #### (a) In general ####
 
-There is established within the Administration a program to be carried out by the Administrator to provide for Federal contracting assistance to qualified HUBZone small business concerns in accordance with this section.
-
-#### (b) Eligible contracts ####
-
-#### (1) Definitions ####
-
-In this subsection—
-
-(A) the term "contracting officer" has the meaning given that term in section 2101(1) of title 41; and
-
-(B) the term "full and open competition" has the meaning given that term in section 107 of title 41.
-
-#### (2) Authority of contracting officer ####
-
-#### (A) Sole source contracts ####
-
-A contracting officer may award sole source contracts under this section to any qualified HUBZone small business concern, if—
-
-(i) the qualified HUBZone small business concern is determined to be a responsible contractor with respect to performance of such contract opportunity, and the contracting officer does not have a reasonable expectation that 2 or more qualified HUBZone small business concerns will submit offers for the contracting opportunity;
-
-(ii) the anticipated award price of the contract (including options) will not exceed—
-
-(I) $5,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
-
-(II) $3,000,000, in the case of all other contract opportunities; and
-
-(iii) in the estimation of the contracting officer, the contract award can be made at a fair and reasonable price.
-
-#### (B) Restricted competition ####
-
-A contract opportunity may be awarded pursuant to this section on the basis of competition restricted to qualified HUBZone small business concerns if the contracting officer has a reasonable expectation that not less than 2 qualified HUBZone small business concerns will submit offers and that the award can be made at a fair market price.
-
-#### (C) Appeals ####
-
-Not later than 5 days from the date the Administration is notified of a procurement officer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
-
-#### (3) Price evaluation preference in full and open competitions ####
-
-#### (A) In general ####
-
-Subject to subparagraph (B), in any case in which a contract is to be awarded on the basis of full and open competition, the price offered by a qualified HUBZone small business concern shall be deemed as being lower than the price offered by another offeror (other than another small business concern), if the price offered by the qualified HUBZone small business concern is not more than 10 percent higher than the price offered by the otherwise lowest, responsive, and responsible offeror.
-
-#### (B) Procurement of commodities ####
-
-For purchases by the Secretary of Agriculture of agricultural commodities, the price evaluation preference shall be—
-
-(i) 10 percent, for the portion of a contract to be awarded that is not greater than 25 percent of the total volume being procured for each commodity in a single invitation;
-
-(ii) 5 percent, for the portion of a contract to be awarded that is greater than 25 percent, but not greater than 40 percent, of the total volume being procured for each commodity in a single invitation; and
-
-(iii) zero, for the portion of a contract to be awarded that is greater than 40 percent of the total volume being procured for each commodity in a single invitation.
-
-#### (C) Procurement of commodities for international food aid export operations ####
-
-The price evaluation preference for purchases of agricultural commodities by the Secretary of Agriculture for export operations through international food aid programs administered by the Farm Service Agency shall be 5 percent on the first portion of a contract to be awarded that is not greater than 20 percent of the total volume of each commodity being procured in a single invitation.
-
-#### (D) Treatment of preference ####
-
-A contract awarded to a HUBZone small business concern under a preference described in subparagraph (B) shall not be counted toward the fulfillment of any requirement partially set aside for competition restricted to small business concerns.
-
-#### (4) Relationship to other contracting preferences ####
-
-A procurement may not be made from a source on the basis of a preference provided in paragraph (2) or (3), if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
-
-#### (c) Enforcement; penalties ####
-
-#### (1) Verification of eligibility ####
-
-In carrying out this section, the Administrator shall establish procedures relating to—
-
-(A) the filing, investigation, and disposition by the Administration of any challenge to the eligibility of a small business concern to receive assistance under this section (including a challenge, filed by an interested party, relating to the veracity of a certification made or information provided to the Administration by a small business concern under section 632(p)(5) of this title); and
-
-(B) verification by the Administrator of the accuracy of any certification made or information provided to the Administration by a small business concern under section 632(p)(5) of this title.
-
-#### (2) Examinations ####
-
-The procedures established under paragraph (1) may provide for program examinations (including random program examinations) by the Administrator of any small business concern making a certification or providing information to the Administrator under section 632(p)(5) of this title.
-
-#### (3) Provision of data ####
-
-Upon the request of the Administrator, the Secretary of Labor, the Administrator of the Federal Emergency Management Agency, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
-
-#### (4) Penalties ####
-
-In addition to the penalties described in section 645(d) of this title, any small business concern that is determined by the Administrator to have misrepresented the status of that concern as a "HUBZone small business concern" for purposes of this section, shall be subject to—
-
-(A) section 1001 of title 18; and
-
-(B) sections 3729 through 3733 of title 31.
-
-#### (d) Authorization of appropriations ####
-
-There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2004 through 2006.
-
-(Pub. L. 85–536, §2[31], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) [title V, §503(b), title VI, §612(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932; Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), Dec. 12, 2017, 131 Stat. 1795–1798, 1800.)
-
-#### Amendment of Section ####
-
-Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), (j), Dec. 12, 2017, 131 Stat. 1795–1798, 1800, 1803, made amendments to this section effective Jan. 1, 2020. After such effective date, this section will read as follows:
-
-#### §657a. HUBZone program ####
-
-#### (a) In general ####
-
-There is established within the Administration a program (to be known as the HUBZone program) to be carried out by the Administrator to provide for Federal contracting assistance, including promoting economic development in economically distressed areas (as defined in section 636(m)(11)), to qualified HUBZone small business concerns in accordance with this section.
+There is established within the Administration a program (to be known as the HUBZone program) to be carried out by the Administrator to provide for Federal contracting assistance, including promoting economic development in economically distressed areas (as defined in section 636(m)(11)),<sup><a href="#657a_1_target" name="657a_1">1</a></sup> to qualified HUBZone small business concerns in accordance with this section.
 
 #### (b) Definitions relating to HUBZones ####
 
@@ -508,15 +404,21 @@ Not later than 90 days after the last day of each fiscal year, the Administrator
 
 There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2020 through 2025.
 
-See 2017 Amendment notes below.
+(Pub. L. 85–536, §2[31], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) [title V, §503(b), title VI, §612(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932; Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), Dec. 12, 2017, 131 Stat. 1795–1798, 1800.)
+
+#### References in Text ####
+
+Section 636(m)(11) of this title, referred to in subsec. (a), no longer defines the term "economically distressed areas". See 1994 Amendment note for subsec. (m)(11)(D) under section 636 of this title.
 
 #### Codification ####
 
-In subsec. (b)(1)(A), "section 2101(1) of title 41" substituted for "section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+The text of section 632(p) of this title, which was transferred to this section and redesignated as subsec. (b) by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795, was based on Pub. L. 85–536, §2[3], July 18, 1958, 72 Stat. 384; Pub. L. 105–135, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2627; Pub. L. 106–554, §1(a)(9) [title VI, §§602–604, 611, 612(b)–615(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701; Pub. L. 108–447, div. K, title I, §§151(a), 152(a)(1), (3)–(c)(1), Dec. 8, 2004, 118 Stat. 3456, 3457; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 112–239, div. A, title XVI, §1696(b)(1), Jan. 2, 2013, 126 Stat. 2090; Pub. L. 114–92, div. A, title VIII, §866(a), Nov. 25, 2015, 129 Stat. 929; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595.
 
-In subsec. (b)(1)(B), "section 107 of title 41" substituted for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(1)(A), "section 2101(1) of title 41" substituted for "section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(4), "chapter 85 of title 41" substituted for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(1)(B), "section 107 of title 41" substituted for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (c)(4), "chapter 85 of title 41" substituted for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions ####
 
@@ -528,7 +430,7 @@ A prior section 2[31] of Pub. L. 85–536 was renumbered section 2[49] and is se
 
 Subsec. (b). Pub. L. 115–91, §1701(a)(2)(A), substituted "In this section:" for "In this chapter:" in introductory provisions.
 
-Pub. L. 115–91, §1701(a)(2), transferred subsec. (p) of section 632 of this title and redesignated it as subsec. (b) of this section. Former subsec. (b) redesignated (c).
+Pub. L. 115–91, §1701(a)(2), transferred subsec. (p) of section 632 of this title and redesignated it as subsec. (b) of this section. See Codification note above. Former subsec. (b) redesignated (c).
 
 Subsec. (b)(1). Pub. L. 115–91, §1701(a)(2)(B), substituted "terms" for "term" and "or 'HUBZone' mean" for "means" in introductory provisions.
 
@@ -627,3 +529,5 @@ Pub. L. 115–91, div. A, title XVII, §1701(i), Dec. 12, 2017, 131 Stat. 1803, 
 #### Report ####
 
 Pub. L. 105–135, title VI, §606, Dec. 2, 1997, 111 Stat. 2635, required the Administrator to submit to Congress, by Mar. 1, 2002, a report on the HUBZone program and the degree to which the program resulted in increased employment opportunities and an increased level of investment in HUBZones.
+
+[<sup>1</sup> See References in Text note below.](#657a_1)

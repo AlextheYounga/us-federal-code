@@ -114,13 +114,13 @@ The standards and requirements prescribed by the Secretary under subparagraph (B
 
 The term "energy-efficient building property" means—
 
-(A) an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
+(A) an electric heat pump water heater which yields a Uniform Energy Factor of at least 2.2 in the standard Department of Energy test procedure,
 
 (B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
 (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
-(D) a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent, and
+(D) a natural gas, propane, or oil water heater which has either a Uniform Energy Factor of at least 0.82 or a thermal efficiency of at least 90 percent, and
 
 (E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
 
@@ -168,15 +168,21 @@ This section shall not apply with respect to any property placed in service—
 
 (1) after December 31, 2007, and before January 1, 2009, or
 
-(2) after December 31, 2017.
+(2) after December 31, 2020.
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §123(a), (b), Dec. 20, 2019, 133 Stat. 3231.)
 
 #### References in Text ####
 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments ####
+
+**2019**—Subsec. (d)(3)(A). Pub. L. 116–94, §123(b)(1), substituted "a Uniform Energy Factor of at least 2.2" for "an energy factor of at least 2.0".
+
+Subsec. (d)(3)(D). Pub. L. 116–94, §123(b)(2), substituted "a Uniform Energy Factor" for "an energy factor".
+
+Subsec. (g)(2). Pub. L. 116–94, §123(a), substituted "December 31, 2020" for "December 31, 2017".
 
 **2018**—Subsec. (b)(2). Pub. L. 115–141, §401(a)(4), substituted "subsection (c)(3)(B)" for "subsection (c)(2)(B)".
 
@@ -277,6 +283,10 @@ Subsec. (g). Pub. L. 110–343, §302(a), substituted "placed in service—" for
 **2007**—Subsec. (c)(3). Pub. L. 110–172 substituted "part 3280" for "section 3280".
 
 **2005**—Subsec. (b)(2). Pub. L. 109–135 substituted "subsection (c)(2)(B)" for "subsection (c)(3)(B)".
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. Q, title I, §123(c), Dec. 20, 2019, 133 Stat. 3231, provided that: "The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017."
 
 #### Effective Date of 2018 Amendment ####
 

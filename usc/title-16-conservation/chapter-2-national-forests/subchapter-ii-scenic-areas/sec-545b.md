@@ -170,7 +170,7 @@ The Secretary may not allow a salvage sale in the Scenic Recreation Area.
 
 #### (7) Withdrawal ####
 
-(A) <sup><a href="#545b_2_target" name="545b_2">2</a></sup> subject <sup><a href="#545b_3_target" name="545b_3">3</a></sup> to valid existing rights, all lands in the Scenic Recreation Area are withdrawn from—
+(A) <sup><a href="#545b_1_target" name="545b_1">1</a></sup> subject <sup><a href="#545b_2_target" name="545b_2">2</a></sup> to valid existing rights, all lands in the Scenic Recreation Area are withdrawn from—
 
 (i) any form of entry, appropriation, or disposal under the public lands laws;
 
@@ -284,7 +284,7 @@ Within the boundaries of the Opal Creek Wilderness or the Scenic Recreation Area
 
 (i) the nature of land use has changed significantly, or the landowner has demonstrated intent to change the land use significantly, from the use that existed on November 12, 1996; and
 
-(ii) acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title <sup><a href="#545b_4_target" name="545b_4">4</a></sup> or the management plan prepared under subsection (d)(2).
+(ii) acquisition by the Secretary of the land or interest in land is essential to ensure use of the land or interest in land in accordance with the purposes of this title <sup><a href="#545b_3_target" name="545b_3">3</a></sup> or the management plan prepared under subsection (d)(2).
 
 #### (D) Construction ####
 
@@ -344,7 +344,7 @@ The land referred to in paragraph (1) as the land to be conveyed by the United S
 
 (F) Section 8, Township 17 South, Range 4 East, SE¼SW¼ (40 acres);
 
-(G) Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres); <sup><a href="#545b_5_target" name="545b_5">5</a></sup>
+(G) Section 11, Township 17 South, Range 4 East, W½NW¼ (80 acres); <sup><a href="#545b_4_target" name="545b_4">4</a></sup>
 
 #### (4) Equal value ####
 
@@ -354,7 +354,7 @@ The land and interests in land exchanged under this subsection shall be of equal
 
 (A) The exchange directed by this subsection shall be consummated not later than 120 days after the date Rosboro offers and conveys the property described in paragraph (2) to the United States.
 
-(B) The authority provided by this subsection shall lapse of <sup><a href="#545b_6_target" name="545b_6">6</a></sup> Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996.
+(B) The authority provided by this subsection shall lapse of <sup><a href="#545b_5_target" name="545b_5">5</a></sup> Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996.
 
 #### (6) Challenge ####
 
@@ -426,12 +426,10 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 [<sup>1</sup> So in original. No subpar. (B) has been enacted.](#545b_1)
 
-[<sup>2</sup> So in original. No subpar. (B) has been enacted.](#545b_2)
+[<sup>2</sup> So in original. Probably should be capitalized.](#545b_2)
 
-[<sup>3</sup> So in original. Probably should be capitalized.](#545b_3)
+[<sup>3</sup> So in original. Probably should be "section".](#545b_3)
 
-[<sup>4</sup> So in original. Probably should be "section".](#545b_4)
+[<sup>4</sup> So in original. The semicolon probably should be a period.](#545b_4)
 
-[<sup>5</sup> So in original. The semicolon probably should be a period.](#545b_5)
-
-[<sup>6</sup> So in original. Probably should be "if".](#545b_6)
+[<sup>5</sup> So in original. Probably should be "if".](#545b_5)

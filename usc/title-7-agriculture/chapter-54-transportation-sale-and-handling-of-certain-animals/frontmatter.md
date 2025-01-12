@@ -34,6 +34,8 @@ Sec.
 
 2146. Administration and enforcement by Secretary.
 
+2146a. Searchable database requirements.
+
 2147. Inspection by legally constituted law enforcement agencies.
 
 2148. Importation of live dogs.

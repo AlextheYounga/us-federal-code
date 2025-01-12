@@ -202,6 +202,8 @@ Sec.
 
 579d. Indirect expenditures; future budget justifications.
 
+579e. Forest service budget restructure.
+
 580. Use of Forest Service appropriations for repair, etc. of equipment; rental of fire control equipment to non-Federal agencies.
 
 580a. Sale and distribution of supplies, equipment, and materials to other Government activities and to cooperating State and private agencies; reimbursement.

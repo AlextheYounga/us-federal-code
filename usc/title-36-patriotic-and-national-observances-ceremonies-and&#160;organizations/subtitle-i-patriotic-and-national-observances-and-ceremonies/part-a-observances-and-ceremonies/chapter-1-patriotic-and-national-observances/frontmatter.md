@@ -234,7 +234,7 @@ Pub. L. 115–433, Jan. 10, 2019, 132 Stat. 5523, provided that:
 
 #### 400 Years of African-American History Commission ####
 
-Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, provided that:
+Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2692, provided that:
 
 #### "SECTION 1. SHORT TITLE. ####
 
@@ -412,7 +412,7 @@ Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, provided that:
 
 "(a) Strategic Plan.—The Commission shall prepare a strategic plan for the activities of the Commission carried out under this Act.
 
-"(b) Final Report.—Not later than July 1, 2020, the Commission shall complete and submit to Congress a final report that contains—
+"(b) Final Report.—Not later than July 1, 2021, the Commission shall complete and submit to Congress a final report that contains—
 
 "(1) a summary of the activities of the Commission;
 
@@ -422,7 +422,7 @@ Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, provided that:
 
 #### "SEC. 8. TERMINATION OF COMMISSION. ####
 
-"(a) Date of Termination.—The Commission shall terminate on July 1, 2020.
+"(a) Date of Termination.—The Commission shall terminate on July 1, 2021.
 
 "(b) Transfer of Documents and Materials.—Before the date of termination specified in subsection (a), the Commission shall transfer all documents and materials of the Commission to the National Archives or another appropriate Federal entity.
 

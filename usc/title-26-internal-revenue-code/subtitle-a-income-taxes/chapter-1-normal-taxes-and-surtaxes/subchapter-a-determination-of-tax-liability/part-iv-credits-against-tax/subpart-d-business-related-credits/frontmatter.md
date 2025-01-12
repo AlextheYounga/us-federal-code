@@ -60,7 +60,11 @@ Sec.
 
 45S. Employer credit for paid family and medical leave.
 
+45T. Auto-enrollment option for retirement savings options provided by small employers.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–94, div. O, title I, §105(c), Dec. 20, 2019, 133 Stat. 3148, added item 45T.
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(7), (d)(2)(A), Mar. 23, 2018, 132 Stat. 1184, 1208, struck out item 41 "Employee stock ownership credit" and item 45M "Energy efficient appliance credit" and transferred item 45K to appear after item 45J.
 

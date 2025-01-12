@@ -6,7 +6,7 @@ Sec.
 
 4301. Committee staffs.
 
-4302. Per annum rate of compensation of Chief of Staff of Joint Committee on Taxation.
+4302. Maximum annual rate of compensation of Chief of Staff of Joint Committee on Taxation.
 
 4303. Preparation and contents of statement of appropriations.
 

@@ -30,7 +30,7 @@ except that under subparagraph (B) reasonable variations shall be permitted, and
 
 (A) its advertising is false or misleading in any particular; or
 
-(B) it is sold or distributed in violation of regulations prescribed under section 387f(d) of this title;
+(B) it is sold or distributed in violation of section 387f(d)(5) of this title or of regulations prescribed under section 387f(d) of this title;
 
 (8) unless, in the case of any tobacco product distributed or offered for sale in any State, the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that tobacco product—
 
@@ -54,7 +54,7 @@ except that under subparagraph (B) reasonable variations shall be permitted, and
 
 The Secretary may, by regulation, require prior approval of statements made on the label of a tobacco product to ensure that such statements do not violate the misbranding provisions of subsection (a) and that such statements comply with other provisions of the Family Smoking Prevention and Tobacco Control Act (including the amendments made by such Act). No regulation issued under this subsection may require prior approval by the Secretary of the content of any advertisement, except for modified risk tobacco products as provided in section 387k of this title. No advertisement of a tobacco product published after June 22, 2009, shall, with respect to the language of label statements as prescribed under section 1333 of title 15 and section 4402 of title 15 or the regulations issued under such sections, be subject to the provisions of sections 52 through 55 of title 15.
 
-(June 25, 1938, ch. 675, §903, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1788.)
+(June 25, 1938, ch. 675, §903, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1788; amended Pub. L. 116–94, div. N, title I, §603(d)(3), Dec. 20, 2019, 133 Stat. 3124.)
 
 #### References in Text ####
 
@@ -65,6 +65,10 @@ The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b
 A prior section 903 of act June 25, 1938, was renumbered section 1003 and is classified to section 393 of this title.
 
 Another prior section 903 of act June 25, 1938, was renumbered section 1004 and is classified to section 394 of this title.
+
+#### Amendments ####
+
+**2019**—Subsec. (a)(7)(B). Pub. L. 116–94 inserted "section 387f(d)(5) of this title or of" after "violation of".
 
 #### Effective Date ####
 

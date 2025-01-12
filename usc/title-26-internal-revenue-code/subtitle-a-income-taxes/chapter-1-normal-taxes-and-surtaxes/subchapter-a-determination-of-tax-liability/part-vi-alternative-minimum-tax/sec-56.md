@@ -90,11 +90,7 @@ No deduction shall be allowed—
 
 Clause (ii) shall not apply to any amount allowable in computing adjusted gross income.
 
-#### (B) Medical expenses ####
-
-In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section. This subparagraph shall not apply to taxable years beginning after December 31, 2016, and ending before January 1, 2019 <sup><a href="#56_2_target" name="56_2">2</a></sup>
-
-#### (C) Interest ####
+#### (B) Interest ####
 
 In determining the amount allowable as a deduction for interest, subsections (d) and (h) of section 163 shall apply, except that—
 
@@ -106,15 +102,15 @@ In determining the amount allowable as a deduction for interest, subsections (d)
 
 (iv) the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
 
-#### (D) Treatment of certain recoveries ####
+#### (C) Treatment of certain recoveries ####
 
 No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative minimum taxable income.
 
-#### (E) Standard deduction and deduction for personal exemptions not allowed ####
+#### (D) Standard deduction and deduction for personal exemptions not allowed ####
 
 The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed.
 
-#### (F) Section 68 not applicable ####
+#### (E) Section 68 not applicable ####
 
 Section 68 shall not apply.
 
@@ -228,7 +224,7 @@ The term "qualified housing interest" includes interest which is qualified resid
 
 (ii) a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) [title III, §314(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868; Pub. L. 113–295, div. A, title II, §§215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, 128 Stat. 4034, 4038, 4040, 4042; Pub. L. 115–97, title I, §§11027(b), 12001(b)(7), (8)(A), Dec. 22, 2017, 131 Stat. 2077, 2093; Pub. L. 115–141, div. U, title IV, §401(b)(7), (8), Mar. 23, 2018, 132 Stat. 1202.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) [title III, §314(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868; Pub. L. 113–295, div. A, title II, §§215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, 128 Stat. 4034, 4038, 4040, 4042; Pub. L. 115–97, title I, §§11027(b), 12001(b)(7), (8)(A), Dec. 22, 2017, 131 Stat. 2077, 2093; Pub. L. 115–141, div. U, title IV, §401(b)(7), (8), Mar. 23, 2018, 132 Stat. 1202; Pub. L. 116–94, div. Q, title I, §103(b), Dec. 20, 2019, 133 Stat. 3228.)
 
 #### References in Text ####
 
@@ -251,6 +247,8 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments ####
+
+**2019**—Subsec. (b)(1)(B) to (F). Pub. L. 116–94 redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In determining the amount allowable as a deduction under section 213, subsection (a) of section 213 shall be applied without regard to subsection (f) of such section. This subparagraph shall not apply to taxable years beginning after December 31, 2016, and ending before January 1, 2019".
 
 **2018**—Subsec. (b)(1)(E). Pub. L. 115–141, §401(b)(7), struck out at end "The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) of section 63(c)(1)."
 
@@ -539,6 +537,10 @@ Subsec. (g)(4)(I). Pub. L. 100–647, §1007(b)(18), added subpar. (I).
 income from such disposition shall be determined without regard to the installment method under section 453 or 453A and all payments to be received for the disposition shall be deemed received in the taxable year of the disposition. This paragraph shall not apply to any disposition with respect to which an election is in effect under section 453C(e)(4)."
 
 Subsec. (f)(2)(H), (I). Pub. L. 100–203, §10243(a), added subpar. (H) and redesignated former subpar. (H) as (I).
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. Q, title I, §103(c), Dec. 20, 2019, 133 Stat. 3228, provided that: "The amendments made by this section [amending this section and section 213 of this title] shall apply to taxable years ending after December 31, 2018."
 
 #### Effective Date of 2017 Amendment ####
 
@@ -843,5 +845,3 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 [enacting t
 Pub. L. 99–514, title VII, §702, Oct. 22, 1986, 100 Stat. 2345, required Secretary of the Treasury or his delegate to conduct a study of operation and effect of provisions of section 56(f) and former section 56(g) of the Internal Revenue Code of 1986, prior to repeal by Pub. L. 101–508, title XI, §11832(4), Nov. 5, 1990, 104 Stat. 1388–559.
 
 [<sup>1</sup> See References in Text note below.](#56_1)
-
-[<sup>2</sup> So in original. Probably should be followed by a period.](#56_2)

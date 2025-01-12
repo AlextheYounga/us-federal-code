@@ -72,6 +72,10 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
+#### Bonneville Power Administration Fund: State clean energy programs ####
+
+Pub. L. 116–94, div. C, title III, Dec. 20, 2019, 133 Stat. 2675, provided in part that: "Expenditures from the Bonneville Power Administration Fund, established pursuant to Public Law 93–454 are authorized and approved, without fiscal year limitation, for the cost of current and future year purchases or payments of emissions expenses associated with Bonneville Power Administration power and transmission operations in states with clean energy programs: *Provided further*, This expenditure authorization is limited solely to Bonneville Power Administration's voluntary purchase or payments made in conjunction with state clean energy programs and is not a broader waiver of Bonneville Power Administration's sovereign immunity."
+
 #### Authority To Incur Obligations in Excess of Borrowing Authority and Cash in Fund ####
 
 Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: "Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund."

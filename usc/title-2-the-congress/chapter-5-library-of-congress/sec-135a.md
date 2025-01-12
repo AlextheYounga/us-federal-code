@@ -1,14 +1,62 @@
-### §135a. Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases ###
+### §135a. National library service for the blind and print disabled ###
 
-There is authorized to be appropriated annually to the Library of Congress, in addition to appropriations otherwise made to said Library, such sums for expenditure under the direction of the Librarian of Congress as may be necessary to provide books published either in raised characters, on sound-reproduction recordings or in any other form, and for purchase, maintenance, and replacement of reproducers for any such forms, for the use of the blind and for other physically handicapped residents of the United States, including the several States, Territories, insular possessions, and the District of Columbia, all of which books, recordings, and reproducers will remain the property of the Library of Congress but will be loaned to blind and to other physically handicapped readers certified by competent authority as unable to read normal printed material as a result of physical limitations, under regulations prescribed by the Librarian of Congress for this service. In the purchase of books in either raised characters or in sound-reproduction recordings the Librarian of Congress, without reference to the provisions of section 6101 of title 41, shall give preference to nonprofit-making institutions or agencies whose activities are primarily concerned with the blind and with other physically handicapped persons, in all cases where the prices or bids submitted by such institutions or agencies are, by said Librarian, under all the circumstances and needs involved, determined to be fair and reasonable.
+#### (a) Accessible materials and reproducers ####
 
-(Mar. 3, 1931, ch. 400, §1, 46 Stat. 1487; Mar. 4, 1933, ch. 279, 47 Stat. 1570; June 14, 1935, ch. 242, §1, 49 Stat. 374; Apr. 23, 1937, ch. 125, §1, 50 Stat. 72; June 7, 1939, ch. 191, 53 Stat. 812; June 6, 1940, ch. 255, 54 Stat. 245; Oct. 1, 1942, ch. 575, §1, 56 Stat. 764; June 13, 1944, ch. 246, §1, 58 Stat. 276; Aug. 8, 1946, ch. 868, §1, 60 Stat. 908; July 3, 1952, ch. 566, 66 Stat. 326; Pub. L. 85–308, §1, Sept. 7, 1957, 71 Stat. 630; Pub. L. 89–522, §1, July 30, 1966, 80 Stat. 330; Pub. L. 114–219, §1, July 29, 2016, 130 Stat. 845.)
+#### (1) In general ####
 
-#### Codification ####
+The Librarian of Congress is authorized to provide to eligible persons who are residents of the United States (including residents of the several States, insular possessions, and the District of Columbia) and to eligible persons who are United States citizens residing outside the United States the following items:
 
-In text, "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+(A) Literary works published in raised characters, on sound-reproduction recordings, or in any other accessible format.
+
+(B) Musical scores, instructional texts, and other specialized materials used in furthering educational, vocational, and cultural opportunities in the field of music published in any accessible format.
+
+(C) Reproducers for such formats.
+
+#### (2) Ownership ####
+
+Any item provided under paragraph (1) shall be provided on a loan basis and shall remain the property of the Library of Congress.
+
+#### (b) Lending preference ####
+
+In the lending of items under subsection (a), the Librarian shall at all times give preference to—
+
+(1) the needs of the blind and visually disabled; and
+
+(2) the needs of eligible persons who have been honorably discharged from the Armed Forces of the United States.
+
+#### (c) Network ####
+
+The Librarian of Congress may contract or otherwise arrange with such public or other nonprofit libraries, agencies, or organizations as the Librarian may determine appropriate to serve as local or regional centers for the circulation of items described in subsection (a)(1).
+
+#### (d) International service ####
+
+The Librarian of Congress is authorized to provide items described in subparagraphs (A) and (B) of subsection (a)(1) to authorized entities located in a country that is a party to the Marrakesh Treaty, if any such items are delivered to authorized entities through online, not physical, means. The Librarian may contract or otherwise arrange with such authorized entities to deliver such items to eligible persons located in their countries in any accessible format and consistent with section 121A of title 17.
+
+#### (e) Contracting preference ####
+
+In the purchase and maintenance of items described in subsection (a), the Librarian of Congress, without regard to section 6101 of title 41, shall give preference to nonprofit institutions or agencies whose activities are primarily concerned with the blind and with other physically disabled persons, in all cases where, considering all the circumstances and needs involved, the Librarian determines that the prices submitted are fair and reasonable.
+
+#### (f) Regulations ####
+
+The Librarian of Congress shall prescribe regulations for services under this section, in consultation with eligible persons and authorized entities. Such regulations shall include procedures that shall be used by an individual to establish that the individual is an eligible person.
+
+#### (g) Definitions ####
+
+In this section—
+
+(1) the terms "accessible format", "authorized entity", and "eligible person" have the meanings given those terms in section 121 of title 17; and
+
+(2) the term "Marrakesh Treaty" has the meaning given in section 121A of such title 17.
+
+#### (h) Authorization of appropriations ####
+
+There are authorized to be appropriated to carry out this section such sums as may be necessary.
+
+(Mar. 3, 1931, ch. 400, §1, 46 Stat. 1487; Mar. 4, 1933, ch. 279, 47 Stat. 1570; June 14, 1935, ch. 242, §1, 49 Stat. 374; Apr. 23, 1937, ch. 125, §1, 50 Stat. 72; June 7, 1939, ch. 191, 53 Stat. 812; June 6, 1940, ch. 255, 54 Stat. 245; Oct. 1, 1942, ch. 575, §1, 56 Stat. 764; June 13, 1944, ch. 246, §1, 58 Stat. 276; Aug. 8, 1946, ch. 868, §1, 60 Stat. 908; July 3, 1952, ch. 566, 66 Stat. 326; Pub. L. 85–308, §1, Sept. 7, 1957, 71 Stat. 630; Pub. L. 89–522, §1, July 30, 1966, 80 Stat. 330; Pub. L. 114–219, §1, July 29, 2016, 130 Stat. 845; Pub. L. 116–94, div. P, title XIV, §1403(a), Dec. 20, 2019, 133 Stat. 3206.)
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–94 amended section generally. Prior to amendment, text read as follows: "There is authorized to be appropriated annually to the Library of Congress, in addition to appropriations otherwise made to said Library, such sums for expenditure under the direction of the Librarian of Congress as may be necessary to provide books published either in raised characters, on sound-reproduction recordings or in any other form, and for purchase, maintenance, and replacement of reproducers for any such forms, for the use of the blind and for other physically handicapped residents of the United States, including the several States, Territories, insular possessions, and the District of Columbia, all of which books, recordings, and reproducers will remain the property of the Library of Congress but will be loaned to blind and to other physically handicapped readers certified by competent authority as unable to read normal printed material as a result of physical limitations, under regulations prescribed by the Librarian of Congress for this service. In the purchase of books in either raised characters or in sound-reproduction recordings the Librarian of Congress, without reference to the provisions of section 6101 of title 41, shall give preference to nonprofit-making institutions or agencies whose activities are primarily concerned with the blind and with other physically handicapped persons, in all cases where the prices or bids submitted by such institutions or agencies are, by said Librarian, under all the circumstances and needs involved, determined to be fair and reasonable."
 
 **2016**—Pub. L. 114–219 substituted "and for purchase, maintenance, and replacement of reproducers for any such forms" for "and for purchase, maintenance, and replacement of reproducers for such sound-reproduction recordings" in first sentence.
 

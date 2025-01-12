@@ -44,7 +44,7 @@ Sec.
 
 #### Part A—Organization and Personnel ####
 
-6531. Compensation of Secretary of Senate.
+6531. Repealed.
 
 6532. Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer.
 
@@ -56,7 +56,7 @@ Sec.
 
 6536. Compensation of Financial Clerk of Senate.
 
-6537. Compensation of Assistants to Majority and Minority in Office of Secretary of Senate.
+6537. Repealed.
 
 6538. Employment of additional administrative assistants.
 
@@ -110,7 +110,7 @@ Sec.
 
 #### Part A—Organization and Personnel ####
 
-6591. Compensation of Sergeant at Arms and Doorkeeper of Senate.
+6591. Repealed.
 
 6592. Limitation on compensation of Sergeant at Arms and Doorkeeper of Senate.
 
@@ -184,7 +184,7 @@ Sec.
 
 #### SUBCHAPTER IV—CHAPLAIN ####
 
-6651. Compensation of Chaplain of Senate.
+6651. Repealed.
 
 6652. Compensation of employees of Chaplain of Senate.
 

@@ -18,7 +18,7 @@ Sec.
 
 5607a. Environmental Dispute Resolution Fund.
 
-5607b. Use of Institute by Federal agency or other entity.
+5607b. Use of the National Center by Federal agency or other entity.
 
 5608. Administrative provisions.
 

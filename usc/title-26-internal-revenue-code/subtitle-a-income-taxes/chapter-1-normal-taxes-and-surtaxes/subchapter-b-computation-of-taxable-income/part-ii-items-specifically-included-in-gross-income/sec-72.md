@@ -570,7 +570,11 @@ Clause (i) shall not apply to any loan used to acquire any dwelling unit which w
 
 Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan (with payments not less frequently than quarterly) is required over the term of the loan.
 
-#### (D) Related employers and related plans ####
+#### (D) Prohibition of loans through credit cards and other similar arrangements ####
+
+Subparagraph (A) shall not apply to any loan which is made through the use of any credit card or any other similar arrangement.
+
+#### (E) Related employers and related plans ####
 
 For purposes of this paragraph—
 
@@ -870,6 +874,76 @@ For purposes of this subparagraph, the term "qualified reservist distribution" m
 
 This subparagraph applies to individuals ordered or called to active duty after September 11, 2001. In no event shall the 2-year period referred to in clause (ii) end before the date which is 2 years after the date of the enactment of this subparagraph.
 
+#### (H) Distributions from retirement plans in case of birth of child or adoption ####
+
+#### (i) In general ####
+
+Any qualified birth or adoption distribution.
+
+#### (ii) Limitation ####
+
+The aggregate amount which may be treated as qualified birth or adoption distributions by any individual with respect to any birth or adoption shall not exceed $5,000.
+
+#### (iii) Qualified birth or adoption distribution ####
+
+For purposes of this subparagraph—
+
+#### (I) In general ####
+
+The term "qualified birth or adoption distribution" means any distribution from an applicable eligible retirement plan to an individual if made during the 1-year period beginning on the date on which a child of the individual is born or on which the legal adoption by the individual of an eligible adoptee is finalized.
+
+#### (II) Eligible adoptee ####
+
+The term "eligible adoptee" means any individual (other than a child of the taxpayer's spouse) who has not attained age 18 or is physically or mentally incapable of self-support.
+
+#### (iv) Treatment of plan distributions ####
+
+#### (I) In general ####
+
+If a distribution to an individual would (without regard to clause (ii)) be a qualified birth or adoption distribution, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as a qualified birth or adoption distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $5,000.
+
+#### (II) Controlled group ####
+
+For purposes of subclause (I), the term "controlled group" means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414.
+
+#### (v) Amount distributed may be repaid ####
+
+#### (I) In general ####
+
+Any individual who receives a qualified birth or adoption distribution may make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an applicable eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
+
+#### (II) Limitation on contributions to applicable eligible retirement plans other than IRAs ####
+
+The aggregate amount of contributions made by an individual under subclause (I) to any applicable eligible retirement plan which is not an individual retirement plan shall not exceed the aggregate amount of qualified birth or adoption distributions which are made from such plan to such individual. Subclause (I) shall not apply to contributions to any applicable eligible retirement plan which is not an individual retirement plan unless the individual is eligible to make contributions (other than those described in subclause (I)) to such applicable eligible retirement plan.
+
+#### (III) Treatment of repayments of distributions from applicable eligible retirement plans other than IRAs ####
+
+If a contribution is made under subclause (I) with respect to a qualified birth or adoption distribution from an applicable eligible retirement plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received such distribution in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the applicable eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+
+#### (IV) Treatment of repayments for distributions from IRAs ####
+
+If a contribution is made under subclause (I) with respect to a qualified birth or adoption distribution from an individual retirement plan, then, to the extent of the amount of the contribution, such distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the applicable eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+
+#### (vi) Definition and special rules ####
+
+For purposes of this subparagraph—
+
+#### (I) Applicable eligible retirement plan ####
+
+The term "applicable eligible retirement plan" means an eligible retirement plan (as defined in section 402(c)(8)(B)) other than a defined benefit plan.
+
+#### (II) Exemption of distributions from trustee to trustee transfer and withholding rules ####
+
+For purposes of sections 401(a)(31), 402(f), and 3405, a qualified birth or adoption distribution shall not be treated as an eligible rollover distribution.
+
+#### (III) Taxpayer must include TIN ####
+
+A distribution shall not be treated as a qualified birth or adoption distribution with respect to any child or eligible adoptee unless the taxpayer includes the name, age, and TIN of such child or eligible adoptee on the taxpayer's return of tax for the taxable year.
+
+#### (IV) Distributions treated as meeting plan distribution requirements ####
+
+Any qualified birth or adoption distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), and 457(d)(1)(A).
+
 #### (3) Limitations ####
 
 #### (A) Certain exceptions not to apply to individual retirement plans ####
@@ -1102,7 +1176,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 **For limitation on adjustments to basis of annuity contracts sold, see section 1021.**
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–26, §2(a)–(c), June 29, 2015, 129 Stat. 319; Pub. L. 114–113, div. Q, title III, §308(a), Dec. 18, 2015, 129 Stat. 3089.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–26, §2(a)–(c), June 29, 2015, 129 Stat. 319; Pub. L. 114–113, div. Q, title III, §308(a), Dec. 18, 2015, 129 Stat. 3089; Pub. L. 116–94, div. O, title I, §§108(a), 113(a), Dec. 20, 2019, 133 Stat. 3149, 3154.)
 
 #### References in Text ####
 
@@ -1117,6 +1191,10 @@ The date of the enactment of this subparagraph, referred to in subsec. (t)(2)(G)
 Section 1034 (as in effect on the day before the date of the enactment of this paragraph), referred to in subsec. (t)(8)(D)(i)(II), means section 1034 of this title as in effect on the day before Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, §312(b), Aug. 5, 1997, 111 Stat. 839.
 
 #### Amendments ####
+
+**2019**—Subsec. (p)(2)(D), (E). Pub. L. 116–94, §108(a), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (t)(2)(H). Pub. L. 116–94, §113(a), added subpar. (H).
 
 **2015**—Subsec. (t)(4)(A)(ii). Pub. L. 114–26, §2(c), inserted "or a distribution to which paragraph (10) applies" after "other than by reason of death or disability" in introductory provisions.
 
@@ -1519,6 +1597,12 @@ Subsec. (n)(3). Pub. L. 89–44 substituted "sections 31 and 39" for "section 31
 Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall not apply to amounts which were contributed by the employer after Dec. 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of Section 911 if such amounts had been paid directly to the employee at the time of contribution, and making such sentence inapplicable to amounts which were contributed by the employer, as determined under regulations, to provide pension or annuity credits, to the extent such credits are attributable to services performed before Jan. 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on Mar. 12, 1962, and on that date applicable to such services.
 
 Subsecs. (m) to (o). Pub. L. 87–792, §4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o).
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. O, title I, §108(b), Dec. 20, 2019, 133 Stat. 3149, provided that: "The amendments made by subsection (a) [amending this section] shall apply to loans made after the date of the enactment of this Act [Dec. 20, 2019]."
+
+Pub. L. 116–94, div. O, title I, §113(b), Dec. 20, 2019, 133 Stat. 3156, provided that: "The amendments made by this section [amending this section] shall apply to distributions made after December 31, 2019."
 
 #### Effective Date of 2015 Amendment ####
 

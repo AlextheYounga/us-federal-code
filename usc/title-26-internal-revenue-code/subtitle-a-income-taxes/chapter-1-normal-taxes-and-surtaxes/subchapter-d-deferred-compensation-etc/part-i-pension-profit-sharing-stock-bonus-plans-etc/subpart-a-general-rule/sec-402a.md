@@ -92,7 +92,7 @@ In the case of an applicable retirement plan which includes a qualified Roth con
 
 (ii) such transfer shall be treated as a distribution to which this paragraph applies which was contributed in a qualified rollover contribution (within the meaning of section 408A(e)) to such account, and
 
-(iii) the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), or 457(d)(1)(A), or of section 8433 of title 5, United States Code, solely by reason of such transfer.
+(iii) the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii),<sup><a href="#402A_1_target" name="402A_1">1</a></sup> 403(b)(11), or 457(d)(1)(A), or of section 8433 of title 5, United States Code, solely by reason of such transfer.
 
 #### (d) Distribution rules ####
 
@@ -158,6 +158,10 @@ The term "elective deferral" means—
 
 (Added Pub. L. 107–16, title VI, §617(a), June 7, 2001, 115 Stat. 103; amended Pub. L. 111–240, title II, §§2111(a), (b), 2112(a), Sept. 27, 2010, 124 Stat. 2565, 2566; Pub. L. 112–240, title IX, §902(a), Jan. 2, 2013, 126 Stat. 2371; Pub. L. 113–295, div. A, title II, §220(k), Dec. 19, 2014, 128 Stat. 4036.)
 
+#### References in Text ####
+
+Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means section 403(b)(7)(A)(ii) of this title prior to amendment by Pub. L. 116–94, div. O, title I, §109(c)(2), Dec. 20, 2019, 133 Stat. 3151.
+
 #### Amendments ####
 
 **2014**—Subsec. (c)(4)(E)(iii). Pub. L. 113–295 substituted "403(b)(7)(A)(ii)" for "403(b)(7)(A)(i)".
@@ -183,3 +187,5 @@ Pub. L. 111–240, title II, §2112(b), Sept. 27, 2010, 124 Stat. 2566, provided
 #### Effective Date ####
 
 Section applicable to taxable years beginning after Dec. 31, 2005, see section 617(f) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 402 of this title.
+
+[<sup>1</sup> See References in Text note below.](#402A_1)

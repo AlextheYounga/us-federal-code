@@ -53,3 +53,5 @@ Sec.
 3548. Semiannual report on contracts and task orders.
 
 3549. Investigation of violations.
+
+3550. Audit of Department financial statements.

@@ -1,8 +1,4 @@
-### **Subchapter E—Medical Devices** ###
-
-Sec.
-
-4191. Medical devices.
+### **[Subchapter E—Repealed]** ###
 
 #### Prior Provisions ####
 

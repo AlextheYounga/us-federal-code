@@ -246,15 +246,17 @@ In the case of fuel which is treated as renewable diesel solely by reason of sub
 
 #### (g) Termination ####
 
-This section shall not apply to any sale or use after December 31, 2017.
+This section shall not apply to any sale or use after December 31, 2022.
 
-(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40407(a)(1), Feb. 9, 2018, 132 Stat. 149.)
+(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40407(a)(1), Feb. 9, 2018, 132 Stat. 149; Pub. L. 116–94, div. Q, title I, §121(a)(1), Dec. 20, 2019, 133 Stat. 3230.)
 
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2019**—Subsec. (g). Pub. L. 116–94 substituted "December 31, 2022" for "December 31, 2017".
 
 **2018**—Subsec. (g). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
 
@@ -325,6 +327,10 @@ Subsec. (f). Pub. L. 109–58, §1346(a), added subsec. (f). Former subsec. (f) 
 Pub. L. 109–58, §1345(c), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 109–58, §1346(a), redesignated subsec. (f) as (g).
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. Q, title I, §121(a)(2), Dec. 20, 2019, 133 Stat. 3230, provided that: "The amendment made by this subsection [amending this section] shall apply to fuel sold or used after December 31, 2017."
 
 #### Effective Date of 2018 Amendment ####
 

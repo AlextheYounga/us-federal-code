@@ -88,6 +88,8 @@ Sec.
 
 11364. Authorization of appropriations.
 
+11364a. Availability of amounts recaptured from appropriated funds.
+
 #### Part B—Emergency Solutions Grants Program ####
 
 11371. Definitions.

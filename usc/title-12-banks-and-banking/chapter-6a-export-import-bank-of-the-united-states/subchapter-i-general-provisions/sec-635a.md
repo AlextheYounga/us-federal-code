@@ -20,7 +20,37 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 (5) The directors, in addition to their duties as members of the Board, shall perform such additional duties and may hold such other offices in the administration of the Bank as the President of the Bank may from time to time prescribe.
 
-(6) A quorum of the Board of Directors shall consist of at least three members.
+(6)(A) A quorum of the Board of Directors shall consist of at least three members.
+
+(B)(i) If there is an insufficient number of directors to constitute a quorum under subparagraph (A) for 120 consecutive days during the term of a President of the United States, a temporary Board, consisting of the following members, shall act in the stead of the Board of Directors:
+
+(I) The United States Trade Representative.
+
+(II) The Secretary of the Treasury.
+
+(III) The Secretary of Commerce.
+
+(IV) The members of the Board of Directors.
+
+(ii) If, at a meeting of the temporary Board—
+
+(I) a member referred to in clause (i)(IV) is present, the meeting shall be chaired by such a member, consistent with Bank bylaws; or
+
+(II) no such member is present, the meeting shall be chaired by the United States Trade Representative.
+
+(iii) A member described in subclause (I), (II), or (III) of clause (i) may delegate the authority of the member to vote on whether to authorize a transaction, whose value does not exceed $100,000,000, to—
+
+(I) if the member is the United States Trade Representative, the Deputy United States Trade Representative; or
+
+(II) if the member is referred to in such subclause (II) or (III), the Deputy Secretary of the department referred to in the subclause.
+
+(iv) If the temporary Board consists of members of only one political party, the President of the United States shall, to the extent practicable, appoint to the temporary Board a qualified member of a different political party who occupies a position requiring nomination by the President, by and with the consent of the Senate.
+
+(v) The temporary board may not change or amend Bank policies, procedures, bylaws, or guidelines.
+
+(vi) The temporary Board shall expire at the end of the term of the President of the United States in office at the time the temporary Board was constituted or upon restoration of a quorum of the Board of Directors as defined in subparagraph (A).
+
+(vii) With respect to a transaction that equals or exceeds $100,000,000, the Chairperson of the temporary Board shall ensure that the Bank complies with section 635(b)(3) of this title.
 
 (7) The Board of Directors shall adopt, and may from time to time amend, such bylaws as are necessary for the proper management and functioning of the Bank, and shall, in such bylaws, designate the vice presidents and other officers of the Bank and prescribe their duties.
 
@@ -364,7 +394,11 @@ The duties of the Risk Management Committee shall be—
 
 (B) to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I [title VI, §§613, 614(a), 620(b)], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769.)
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I [title VI, §§613, 614(a), 620(b)], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, §409(a), Dec. 20, 2019, 133 Stat. 3025.)
+
+#### Termination of Amendment ####
+
+For termination of amendment by Pub. L. 116–94, see section 409(b) of Pub. L. 116–94, set out as a Termination Date of 2019 Amerndment note below.
 
 #### References in Text ####
 
@@ -377,6 +411,8 @@ The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is Pub. 
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2019**—Subsec. (c)(6). Pub. L. 116–94 designated existing provisions as subpar. (A) and added subpar. (B).
 
 **2015**—Subsec. (g)(3). Pub. L. 114–94, §54002(c), substituted "$25,000,000" for "$10,000,000".
 
@@ -435,6 +471,10 @@ Subsec. (e). Pub. L. 98–181, §620(b), substituted "such individual's" for "hi
 Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
 **1954**—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
+
+#### Termination Date of 2019 Amendment ####
+
+Pub. L. 116–94, div. I, title IV, §409(b), Dec. 20, 2019, 133 Stat. 3026, provided that: "The amendments made by subsection (a) [amending this section] shall have no force or effect after December 31, 2026."
 
 #### Effective Date of 2015 Amendment ####
 

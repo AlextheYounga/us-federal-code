@@ -42,9 +42,11 @@ Sec.
 
 4980H. Shared responsibility for employers regarding health coverage.
 
-4980I. Excise tax on high cost employer-sponsored health coverage.
+[4980I. Repealed.]
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–94, div. N, title I, §503(b)(3), Dec. 20, 2019, 133 Stat. 3120, struck out item 4980I "Excise tax on high cost employer-sponsored health coverage".
 
 **2010**—Pub. L. 111–148, title I, §1513(b), title IX, §9001(b), Mar. 23, 2010, 124 Stat. 256, 853, added items 4980H and 4980I.
 

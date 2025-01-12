@@ -22,13 +22,13 @@ Sec.
 
 673g. Plan for elk restoration and conservation; coordination of Secretary of the Interior with Federal, State and other officers; integration with State plans.
 
-674. Sullys Hill National Game Preserve.
+674. White Horse Hill National Game Preserve.
 
-674a. Sullys Hill National Park; transfer of control; change of name to Sullys Hill National Game Preserve; boundaries; use by public; hunting.
+674a. Sullys Hill National Park; transfer of control; change of name to White Horse Hill National Game Preserve; boundaries; use by public; hunting.
 
-674b. Sullys Hill National Game Preserve; acquisition of additional lands.
+674b. White Horse Hill National Game Preserve; acquisition of additional lands.
 
-674c. Boundary and division fences for Sullys Hill National Game Preserve; buildings and improvements; supplies; employees.
+674c. Boundary and division fences for White Horse Hill National Game Preserve; buildings and improvements; supplies; employees.
 
 674d. Authorization of appropriations.
 

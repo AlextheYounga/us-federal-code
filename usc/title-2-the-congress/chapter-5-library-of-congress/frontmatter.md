@@ -22,9 +22,9 @@ Sec.
 
 135. Purchase of books for law library.
 
-135a. Books and sound-reproduction records for blind and other physically handicapped residents; annual appropriations; purchases.
+135a. National library service for the blind and print disabled.
 
-135a–1. Library of musical scores, instructional texts, and other specialized materials for use of blind persons or other physically handicapped residents; authorization of appropriations.
+135a–1. Repealed.
 
 135b. Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of appropriations.
 

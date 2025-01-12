@@ -38,13 +38,27 @@ Not later than 60 days after the end of a fiscal year, the Secretary of the Inte
 
 #### (b) Apportionment to States ####
 
-The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c),<sup><a href="#669c_1_target" name="669c_1">1</a></sup> any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
+The Secretary of the Interior, after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
 
-#### (c) <sup><a href="#669c_2_target" name="669c_2">2</a></sup> Apportionment of certain taxes ####
+#### (c) Apportionment of revenues from pistols, revolvers, bows, and arrows ####
 
-One-half of the revenues accruing to the fund under this chapter each fiscal year (beginning with the fiscal year 1975) from any tax imposed on pistols, revolvers, bows, and arrows shall be apportioned among the States in proportion to the ratio that the population of each State bears to the population of all the States: *Provided*, That each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues and Guam, the Virgin Islands, American Samoa, Puerto Rico, and the Northern Mariana Islands shall each be apportioned one-sixth of 1 per centum of such revenues. For the purpose of this subsection, population shall be determined on the basis of the latest decennial census for which figures are available, as certified by the Secretary of Commerce.
+#### (1) In general ####
 
-#### (c) <sup><a href="#669c_2_target" name="669c_2">2</a></sup> Apportionment of Wildlife Conservation and Restoration Account ####
+Subject to paragraph (2), ½ of the revenues accruing to the fund under this chapter each fiscal year (beginning with the fiscal year 1975) from any tax imposed on pistols, revolvers, bows, and arrows shall be apportioned among the States in proportion to the ratio that the population of each State bears to the population of all the States.
+
+#### (2) Condition ####
+
+The amount apportioned to each State under paragraph (1) shall be not greater than 3 percent and not less than 1 percent of the revenues described in such paragraph and Guam, the Virgin Islands, American Samoa, Puerto Rico, and the Northern Mariana Islands shall each be apportioned one-sixth of 1 per centum of such revenues.
+
+#### (3) Population determination ####
+
+For the purpose of this subsection, population shall be determined on the basis of the latest decennial census for which figures are available, as certified by the Secretary of Commerce.
+
+#### (4) Use of funds ####
+
+In addition to other uses authorized under this chapter, amounts apportioned under this subsection may be used for hunter recruitment and recreational shooter recruitment.
+
+#### (d) Apportionment of Wildlife Conservation and Restoration Account ####
 
 (1) The Secretary of the Interior shall make the following apportionment from the Wildlife Conservation and Restoration Account:
 
@@ -62,7 +76,7 @@ One-half of the revenues accruing to the fund under this chapter each fiscal yea
 
 (3) Of the amounts transferred to the Wildlife Conservation and Restoration Account, not to exceed 3 percent shall be available for any Federal expenses incurred in the administration and execution of programs carried out with such amounts.
 
-#### (d) Wildlife conservation and restoration programs ####
+#### (e) Wildlife conservation and restoration programs ####
 
 (1) Any State, through its fish and wildlife department, may apply to the Secretary of the Interior for approval of a wildlife conservation and restoration program, or for funds from the Wildlife Conservation and Restoration Account, to develop a program. To apply, a State shall submit a comprehensive plan that includes—
 
@@ -96,7 +110,7 @@ One-half of the revenues accruing to the fund under this chapter each fiscal yea
 
 (2) A State shall provide an opportunity for public participation in the development of the comprehensive plan required under paragraph (1).
 
-(3) If the Secretary finds that the comprehensive plan submitted by a State complies with paragraph (1), the Secretary shall approve the wildlife conservation and restoration program of the State and set aside from the apportionment to the State made pursuant to subsection (c) <sup><a href="#669c_3_target" name="669c_3">3</a></sup> an amount that shall not exceed 75 percent of the estimated cost of developing and implementing the program.
+(3) If the Secretary finds that the comprehensive plan submitted by a State complies with paragraph (1), the Secretary shall approve the wildlife conservation and restoration program of the State and set aside from the apportionment to the State made pursuant to subsection (d), as redesignated <sup><a href="#669c_1_target" name="669c_1">1</a></sup> an amount that shall not exceed 75 percent of the estimated cost of developing and implementing the program.
 
 (4)(A) Except as provided in subparagraph (B), after the Secretary approves a State's wildlife conservation and restoration program, the Secretary may make payments on a project that is a segment of the State's wildlife conservation and restoration program as the project progresses. Such payments, including previous payments on the project, if any, shall not be more than the United States pro rata share of such project. The Secretary, under such regulations as he may prescribe, may advance funds representing the United States pro rata share of a project that is a segment of a wildlife conservation and restoration program, including funds to develop such program.
 
@@ -104,9 +118,27 @@ One-half of the revenues accruing to the fund under this chapter each fiscal yea
 
 (5) For purposes of this subsection, the term "State" shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) [title IX, §902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121.)
+(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) [title IX, §902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, §501(d), Dec. 20, 2019, 133 Stat. 3192.)
+
+#### References in Text ####
+
+Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, §501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
 
 #### Amendments ####
+
+**2019**—Subsec. (c). Pub. L. 116–94, §501(d)(1)(A), inserted heading.
+
+Subsec. (c)(1). Pub. L. 116–94, §501(d)(1)(B), (C), designated the portion of the first sentence of existing provisions preceding the proviso as par. (1), inserted heading, and substituted "Subject to paragraph (2), ½" for "One-half" and a period for ": *Provided*, That".
+
+Subsec. (c)(2). Pub. L. 116–94, §501(d)(1)(D), designated the portion of the first sentence of existing provisions that had followed "*Provided*, That" as par. (2), inserted heading, and substituted "The amount apportioned to each State under paragraph (1) shall be not greater than 3 percent and not less than 1 percent of the revenues described in such paragraph" for "each State shall be apportioned not more than 3 per centum and not less than 1 per centum of such revenues".
+
+Subsec. (c)(3). Pub. L. 116–94, §501(d)(1)(E), designated second sentence of existing provisions as par. (3) and inserted heading.
+
+Subsec. (c)(4). Pub. L. 116–94, §501(d)(1)(F), added par. (4).
+
+Subsecs. (d), (e). Pub. L. 116–94, §501(d)(2)(A), redesignated second subsec. (c), as added by Pub. L. 106–553, and subsec. (d) as (d) as (e), respectively.
+
+Subsec. (e)(3). Pub. L. 116–94, §501(d)(2)(B), substituted "subsection (d), as redesignated" for "subsection (c)".
 
 **2000**—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for "(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under section 669b(b) of this title) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish and game departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.", inserted subsec. (b) designation and heading, substituted "after deducting the available amount under subsection (a), the amount apportioned under subsection (c), any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion" for "after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,", redesignated former subsec. (b) as (c), and inserted "Puerto Rico," after "American Samoa,".
 
@@ -142,8 +174,4 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
 
-[<sup>1</sup> Probably means the subsection (c) relating to apportionment of certain taxes.](#669c_1)
-
-[<sup>2</sup> So in original. Two subsecs. (c) have been enacted.](#669c_2)
-
-[<sup>3</sup> Probably means the subsection (c) relating to apportionment of Wildlife Conservation and Restoration Account.](#669c_3)
+[<sup>1</sup> See References in Text note below.](#669c_1)

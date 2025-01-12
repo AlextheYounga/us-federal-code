@@ -12,17 +12,13 @@ Sec.
 
 1905. List of laws inapplicable to contracts or subcontracts not greater than simplified acquisition threshold.
 
-1906. List of laws inapplicable to procurements of commercial items.
+1906. List of laws inapplicable to procurements of commercial products and commercial services.
 
 1907. List of laws inapplicable to procurements of commercially available off-the-shelf items.
 
 1908. Inflation adjustment of acquisition-related dollar thresholds.
 
 1909. Management of purchase cards.
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–232, div. A, title VIII, §836(b)(6)(B)(ii), (h), Aug. 13, 2018, 132 Stat. 1861, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by striking item 1906 and inserting a new item 1906 "List of laws inapplicable to procurements of commercial products and commercial services." See 2018 Amendment note below.
 
 #### Amendments ####
 
