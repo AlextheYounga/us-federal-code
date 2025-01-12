@@ -26,6 +26,8 @@ Sec.
 
 1810. Civil liability.
 
+1810a. Reporting requirements for civil actions.
+
 1811. Authorization during time of war.
 
 1812. Statement of exclusive means by which electronic surveillance and interception of certain communications may be conducted.
@@ -103,6 +105,8 @@ Sec.
 1881f. Congressional oversight.
 
 1881g. Savings provision.
+
+1881h. Penalties for unauthorized disclosure.
 
 #### SUBCHAPTER VII—PROTECTION OF PERSONS ASSISTING THE GOVERNMENT ####
 
