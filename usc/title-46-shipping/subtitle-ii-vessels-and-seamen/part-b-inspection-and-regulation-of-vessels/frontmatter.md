@@ -1,0 +1,5 @@
+### Part B—Inspection and Regulation of Vessels ###
+
+#### Historical and Revision Notes ####
+
+Part B provides authority and responsibility for the inspection and regulation of vessels by the Coast Guard. This part specifies those vessels subject to inspection, those that are specifically exempt from inspection, and related inspection requirements and procedures. Due to the need for special requirements for the inspection and regulation of passenger vessels and those vessels carrying liquid bulk dangerous cargoes separate chapters have been developed. Additional chapters provide for recreational vessels and those other vessels that are regulated but are not subject to inspection and certification by the Coast Guard. It should also be noted that the United States is signatory to a number of international treaties on maritime safety and seamen's welfare, such as the various Safety of Life at Sea (SOLAS) treaties, and that their provisions and requirements are part of United States maritime law and in many cases are quite extensive.

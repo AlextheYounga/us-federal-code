@@ -1,0 +1,9 @@
+### §68d. Liquidation from appropriations of any unpaid obligations chargeable to rescinded unexpended balances of funds ###
+
+If at the close of any fiscal year there is an unexpended balance of funds which were appropriated for such year (or for prior fiscal years) and which are subject to disbursement by the Secretary of the Senate for any purpose, then, if such unexpended balance is by law rescinded, any unpaid obligations chargeable to the balance so rescinded (or to appropriations for such purpose for prior years) shall be liquidated from any appropriations for the same general purpose, which, at the time of payment, are available for disbursement.
+
+(Pub. L. 97–257, title I, §106, Sept. 10, 1982, 96 Stat. 849.)
+
+#### Codification ####
+
+Section is from the Supplemental Appropriations Act, 1982.

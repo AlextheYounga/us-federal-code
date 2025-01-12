@@ -1,0 +1,9 @@
+### §80. Disbursement of compensation of House Members by Chief Administrative Officer ###
+
+The moneys which have been, or may be, appropriated for the compensation and mileage of Members and Delegates shall be paid at the Treasury on requisitions drawn by the Chief Administrative Officer of the House of Representatives, and shall be kept, disbursed, and accounted for by him according to law, and he shall be a disbursing officer, but he shall not be entitled to any compensation additional to the salary fixed by law.
+
+(Oct. 1, 1890, ch. 1256, §3, 26 Stat. 645; Pub. L. 104–186, title II, §204(25)(B), Aug. 20, 1996, 110 Stat. 1734.)
+
+#### Amendments ####
+
+**1996**—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Sergeant-at-Arms”.

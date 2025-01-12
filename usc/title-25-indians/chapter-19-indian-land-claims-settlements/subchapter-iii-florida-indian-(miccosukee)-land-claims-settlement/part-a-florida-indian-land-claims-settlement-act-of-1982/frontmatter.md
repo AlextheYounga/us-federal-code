@@ -1,0 +1,1 @@
+### Part A—Florida Indian Land Claims Settlement Act of 1982 ###

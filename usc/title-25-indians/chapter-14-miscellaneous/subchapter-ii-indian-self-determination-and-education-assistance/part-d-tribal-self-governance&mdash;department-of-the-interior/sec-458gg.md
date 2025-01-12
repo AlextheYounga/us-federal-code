@@ -1,0 +1,19 @@
+### §458gg. Regulations ###
+
+#### (a) In general ####
+
+Not later than 90 days after October 25, 1994, at the request of a majority of the Indian tribes with agreements under this part, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this part.
+
+#### (b) Committee ####
+
+A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this section shall have as its members only Federal and tribal government representatives, a majority of whom shall be representatives of Indian tribes with agreements under this part.
+
+#### (c) Adaptation of procedures ####
+
+The Secretary shall adapt the negotiated rulemaking procedures to the unique context of Self-Governance and the government-to-government relationship between the United States and the Indian tribes.
+
+#### (d) Effect ####
+
+The lack of promulgated regulations shall not limit the effect of this part.
+
+(Pub. L. 93–638, title IV, §407, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4277.)

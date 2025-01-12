@@ -1,0 +1,19 @@
+### §31a–2b. Transfer of funds from appropriations account of Majority and Minority Leaders of Senate to appropriations account, Miscellaneous Items, within Senate contingent fund ###
+
+#### (a) Requests for transfers ####
+
+Upon the written request of the Majority or Minority Leader of the Senate, the Secretary of the Senate shall transfer during any fiscal year, from the appropriations account appropriated under the headings “Salaries, Officers and Employees” and “Offices of the Majority and Minority Leaders”, such amount as either Leader shall specify to the appropriations account, within the contingent fund of the Senate, “Miscellaneous Items”.
+
+#### (b) Authority to incur expenses ####
+
+The Majority and Minority Leaders of the Senate are each authorized to incur such expenses as may be necessary or appropriate. Expenses incurred by either such leader shall be paid from the amount transferred pursuant to subsection (a) of this section by such leader and upon vouchers approved by such leader.
+
+#### (c) Authority to advance sums ####
+
+The Secretary of the Senate is authorized to advance such sums as may be necessary to defray expenses incurred in carrying out subsections (a) and (b) of this section.
+
+(Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 144.)
+
+#### Codification ####
+
+Section is from the Dire Emergency Supplemental Appropriations for Consequences of Operation Desert Shield/Desert Storm, Food Stamps, Unemployment Compensation Administration, Veterans Compensation and Pensions, and Other Urgent Needs Act of 1991.

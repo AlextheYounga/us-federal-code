@@ -1,0 +1,5 @@
+### Part G—Merchant Seamen Protection and Relief ###
+
+#### Historical and Revision Notes ####
+
+Part G provides for a number of measures for the protection and relief of merchant seamen by requiring certain contractual obligations between the master who represents the vessel owner's interest and the seamen who are engaged or employed on board a vessel, by requiring certain proceedings when a seaman dies or a vessel is suspected of being unseaworthy, by requiring certain standards for accommodations, medicine, clothing, miscellaneous merchandise, and for the handling of special and unique problems of seamen. It also provides for a method of imposing disciplinary controls through the logging of offenses and provides penalties for specified offenses, and certain related disciplinary procedures. The provisions of this part generally do not apply to fishing vessels, whaling vessels, or yachts.

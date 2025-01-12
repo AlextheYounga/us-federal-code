@@ -1,0 +1,23 @@
+### §88b–2. House of Representatives Page Board; establishment and purpose ###
+
+(a) Until otherwise provided by law, there is hereby established a board to be known as the House of Representatives Page Board to ensure that the page program is conducted in a manner that is consistent with the efficient functioning of the House and the welfare of the pages.
+
+(b) The Page Board shall meet regularly, in accordance with a schedule established jointly by the Speaker and minority leader of the House of Representatives.
+
+(Pub. L. 97–377, title I, §127, Dec. 21, 1982, 96 Stat. 1914; Pub. L. 110–2, §3, Feb. 2, 2007, 121 Stat. 5.)
+
+#### Codification ####
+
+Section is based on section 1 of House Resolution No. 611, Ninety-seventh Congress, Nov. 30, 1982, which was enacted into permanent law by Pub. L. 97–377.
+
+#### Amendments ####
+
+**2007**—Pub. L. 110–2 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2007 Amendment ####
+
+Pub. L. 110–2, §4, Feb. 2, 2007, 121 Stat. 5, provided that: “The amendments made by this Act [amending this section and section 88b–3 of this title] shall apply with respect to the portion of the One Hundred Tenth Congress which begins after the date of the enactment of this Act [Feb. 2, 2007] and each succeeding Congress.”
+
+#### Short Title of 2007 Amendment ####
+
+Pub. L. 110–2, §1, Feb. 2, 2007, 121 Stat. 4, provided that: “This Act [amending this section and section 88b–3 of this title and enacting provisions set out as a note under this section] may be cited as the ‘House Page Board Revision Act of 2007’.”
