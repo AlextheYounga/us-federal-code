@@ -1,5 +1,5 @@
-### §83. Tenure of office of Sergeant at Arms ###
+### §83. Transferred ###
 
-Any person duly elected and qualified as Sergeant at Arms of the House of Representatives shall continue in said office until his successor is chosen and qualified, subject however, to removal by the House of Representatives.
+#### Codification ####
 
-(Oct. 1, 1890, ch. 1256, §6, 26 Stat. 646.)
+Section 83 was editorially reclassified as section 5602 of this title.

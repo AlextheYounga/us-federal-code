@@ -79,3 +79,5 @@ Sec.
 1356. Documentary, registry and manning requirements.
 
 1356a. Coastal impact assistance program.
+
+1356b. Transboundary hydrocarbon agreements.

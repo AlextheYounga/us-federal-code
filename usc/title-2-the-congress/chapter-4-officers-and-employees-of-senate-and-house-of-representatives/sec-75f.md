@@ -1,29 +1,5 @@
-### §75f. House emergency operations positions ###
-
-#### (a) Establishment in certain offices ####
-
-Effective with respect to fiscal year 2002 and each succeeding fiscal year, there are hereby established 2 additional positions in each of the following offices of the House of Representatives:
-
-(1) The Office of the Clerk.
-
-(2) The Office of the Chief Administrative Officer.
-
-(3) The Office of the Sergeant at Arms.
-
-#### (b) Duties ####
-
-The duty of the personnel appointed to a position established under this section shall be to ensure the continuity of the operations of the House of Representatives during periods of emergency, in accordance with the direction of the head of the office in which the position is established.
-
-#### (c) Rate of pay ####
-
-The annual rate of pay provided for a position established under this section shall be determined by the head of the office in which the position is established.
-
-#### (d) Appointment authority ####
-
-Notwithstanding any other provision of law, the head of the office in which a position is established under this section shall have the exclusive authority to appoint personnel to such a position.
-
-(Pub. L. 107–68, title I, §118, Nov. 12, 2001, 115 Stat. 573.)
+### §75f. Transferred ###
 
 #### Codification ####
 
-Section is from the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002.
+Section 75f was editorially reclassified as section 5502 of this title.

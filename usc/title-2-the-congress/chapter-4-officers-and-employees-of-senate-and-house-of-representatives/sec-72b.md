@@ -1,13 +1,5 @@
-### §72b. Regulations governing availability of appropriations for House committee employees ###
+### §72b. Transferred ###
 
-Appropriations for committee employees shall be available in such amounts and under such regulations as may be approved by the Committee on House Oversight for compensation of employees of the standing committees of the House of Representatives, except the Committee on Appropriations.
+#### Codification ####
 
-(July 17, 1947, ch. 262, 61 Stat. 367; Pub. L. 104–186, title II, §204(12), Aug. 20, 1996, 110 Stat. 1731.)
-
-#### Amendments ####
-
-**1996**—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
-
-#### Change of Name ####
-
-Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Section 72b was editorially reclassified as section 4312 of this title.

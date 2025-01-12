@@ -68,7 +68,7 @@ Sec.
 
 441k. Prohibition of contributions by minors.
 
-442. Authority to procure technical support and other services and incur travel expenses; payment of such expenses.
+442. Transferred.
 
 #### SUBCHAPTER II—GENERAL PROVISIONS ####
 

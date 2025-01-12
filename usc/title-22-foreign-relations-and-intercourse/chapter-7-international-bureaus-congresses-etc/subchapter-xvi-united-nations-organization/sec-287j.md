@@ -7,3 +7,5 @@ Nothing herein shall be regarded as authorizing the United States to participate
 #### Codification ####
 
 Section originally contained a provision instructing the Department of State to submit to the Congress, not later than Jan. 31, 1963, a report on steps taken in the 17th Session of the General Assembly of the United Nations on long term financing of the United Nations which was omitted.
+
+Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.

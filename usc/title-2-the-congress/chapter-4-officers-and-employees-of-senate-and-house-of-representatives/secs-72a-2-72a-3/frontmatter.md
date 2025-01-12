@@ -4,7 +4,7 @@
 
 Section 72a–2, acts July 20, 1951, ch. 237, §§1–3, 65 Stat. 123; Aug. 5, 1955, ch. 568, §§1, 8, 69 Stat. 501, 509; Feb. 14, 1956, ch. 34, Ch. IV, 70 Stat. 13; June 27, 1956, ch. 453, 70 Stat. 357; July 28, 1967, Pub. L. 90–57, §103, 81 Stat. 141; Aug. 18, 1970, Pub. L. 91–382, §103, 84 Stat. 825, prescribed basic compensation of employees of House and Senate press, periodical, and radio galleries, and was omitted for lack of general applicability.
 
-Section 72a–3, Pub. L. 91–382, Aug. 18, 1970, 84 Stat. 814, which related to computation of salaries and wages paid out of House appropriation items, was from the Legislative Branch Appropriation Act, 1971, and was not repeated in subsequent appropriation acts. See section 331 et seq. of this title. Similar provisions were contained in the following prior appropriation acts:
+Section 72a–3, Pub. L. 91–382, Aug. 18, 1970, 84 Stat. 814, which related to computation of salaries and wages paid out of House appropriation items, was from the Legislative Branch Appropriation Act, 1971, and was not repeated in subsequent appropriation acts. See sections 4533 to 4535 and 5103 of this title. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 347.
 

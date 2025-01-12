@@ -30,9 +30,7 @@ The Secretary shall construct and maintain only those roads within the special m
 
 This Act, referred to in subsec. (a), is Pub. L. 102–220, Dec. 11, 1991, 105 Stat. 1674, known as the Greer Spring Acquisition and Protection Act of 1991, which enacted this section and provisions set out below. For complete classification of this Act to the Code, see section 1 of Pub. L. 102–220, set out below, and Tables.
 
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (e), are classified generally to Title 30, Mineral Lands and Mining.
-
-Geothermal leasing laws of the United States, referred to in subsec. (e), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+Geothermal leasing laws of the United States, referred to in subsec. (e), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 #### Greer Spring Acquisition and Protection ####
 

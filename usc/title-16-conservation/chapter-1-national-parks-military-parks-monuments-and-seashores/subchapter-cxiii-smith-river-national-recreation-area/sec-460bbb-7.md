@@ -4,6 +4,10 @@ The Secretary shall revise the document entitled “Smith River National Recreat
 
 (Pub. L. 101–612, §9, Nov. 16, 1990, 104 Stat. 3214.)
 
+#### References in Text ####
+
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460bbb of this title and Tables.
+
 #### Management ####
 
 Pub. L. 101–612, §10(c), Nov. 16, 1990, 104 Stat. 3219, provided that: “The management plan prepared under section 9 of this Act [this section] shall be deemed to satisfy the requirement for a comprehensive management plan required under section 3(d)(1) of the Wild and Scenic Rivers Act [section 1274(d)(1) of this title].”

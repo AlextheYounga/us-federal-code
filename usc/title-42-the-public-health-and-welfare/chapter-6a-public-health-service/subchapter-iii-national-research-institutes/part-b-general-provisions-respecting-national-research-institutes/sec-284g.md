@@ -62,7 +62,7 @@ The Director shall under subsection (a)(1) of this section provide for means thr
 
 (July 1, 1944, ch. 373, title IV, §409C, as added Pub. L. 106–310, div. A, title I, §101, Oct. 17, 2000, 114 Stat. 1105; amended Pub. L. 109–416, §§2(a), 4(b), Dec. 19, 2006, 120 Stat. 2821, 2830; Pub. L. 109–482, title I, §§103(b)(9), 104(b)(1)(D), Jan. 15, 2007, 120 Stat. 3687, 3693.)
 
-#### Prior Provisions ####
+#### Codification ####
 
 Another section 409C of act July 1, 1944, was renumbered section 409G and is classified to section 284k of this title.
 

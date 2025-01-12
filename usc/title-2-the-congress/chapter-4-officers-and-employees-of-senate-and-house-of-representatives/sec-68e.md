@@ -1,19 +1,5 @@
-### §68e. Advance payments by Secretary of Senate ###
-
-#### (a) Authorization ####
-
-For fiscal year 1998, and each fiscal year thereafter, the Secretary of the Senate is authorized to make advance payments under a contract or other agreement to provide a service or deliver an article for the United States Government without regard to the provisions of section 3324 of title 31.
-
-#### (b) Regulations ####
-
-An advance payment authorized by subsection (a) of this section shall be made in accordance with regulations issued by the Committee on Rules and Administration of the Senate.
-
-#### (c) Effective date ####
-
-The authority granted by subsection (a) of this section shall not take effect until regulations are issued pursuant to subsection (b) of this section.
-
-(Pub. L. 105–55, title I, §1, Oct. 7, 1997, 111 Stat. 1179.)
+### §68e. Transferred ###
 
 #### Codification ####
 
-Section is from the Congressional Operations Appropriations Act, 1998, which is title I of the Legislative Branch Appropriations Act, 1998.
+Section 68e was editorially reclassified as section 6561 of this title.

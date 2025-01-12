@@ -48,11 +48,11 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 1971 Amendment ####
 
-Pub. L. 92–136, §9(a), Oct. 11, 1971, 85 Stat. 378, provided that: “The amendments made by the first section [amending this section] section 2, and section 5 of this Act [amending section 72a of this title] shall become effective as of noon on January 3, 1971.”
+Pub. L. 92–136, §9(a), Oct. 11, 1971, 85 Stat. 378, provided that: “The amendments made by the first section [amending this section] section 2, and section 5 of this Act [amending section 4301 of this title] shall become effective as of noon on January 3, 1971.”
 
 #### Effective Date of 1970 Amendment ####
 
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 72a of this title.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 4301 of this title.
 
 #### Effective Date ####
 

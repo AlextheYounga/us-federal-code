@@ -9,7 +9,3 @@
 (3) If the Secretary, pursuant to paragraph (2), makes an affirmative determination concerning the claims specified in paragraph (1), the holder or holders of such claims shall be permitted to continue to operate such claims subject only to such regulations as applied on July 1, 1994 to the exercise of valid existing rights on patented mining claims within a unit of the National Park System.
 
 (Pub. L. 103–433, title V, §509, Oct. 31, 1994, 108 Stat. 4491.)
-
-#### References in Text ####
-
-The mining laws of the United States, referred to in subsec. (b)(2), are classified generally to Title 30, Mineral Lands and Mining.

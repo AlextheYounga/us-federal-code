@@ -1,9 +1,5 @@
-### §72a–1g. Referral of ethics violations by Senate Ethics Committee to Government Accountability Office for investigation ###
+### §72a–1g. Transferred ###
 
-If the Committee on Ethics of the Senate determines that there is a reasonable basis to believe that a Member, officer, or employee of the Senate may have committed an ethics violation, the committee may request the Office of Special Investigations of the Government Accountability Office to conduct factfinding and an investigation into the matter. The Office of Special Investigations shall promptly investigate the matter as directed by the committee.
+#### Codification ####
 
-(Pub. L. 101–194, title V, §501, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
-
-#### Amendments ####
-
-**2004**—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and text.
+Section 72a–1g was editorially reclassified as section 4721 of this title.

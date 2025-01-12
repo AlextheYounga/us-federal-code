@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 15, 2013)
+(Effective August 1, 1983, as amended to January 2, 2014)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013.
 
 Rule
 
@@ -402,7 +402,7 @@ Rule
 
 9005.1. Constitutional Challenge to a Statute—Notice, Certification, and Intervention.
 
-9006. Computing and Extending Time.
+9006. Computing and Extending Time; Time for Motion Papers.
 
 9007. General Authority to Regulate Notices.
 
@@ -758,7 +758,11 @@ Subdivision (b)(3) is amended in conformance with the changes to subdivision (b)
 
 (6) A debtor in a chapter 13 case shall file a statement of current monthly income, prepared as prescribed by the appropriate Official Form, and, if the current monthly income exceeds the median family income for the applicable state and household size, a calculation of disposable income made in accordance with §1325(b)(3), prepared as prescribed by the appropriate Official Form.
 
-(7) An individual debtor in a chapter 7 or chapter 13 case shall file a statement of completion of a course concerning personal financial management, prepared as prescribed by the appropriate Official Form. An individual debtor shall file the statement in a chapter 11 case in which §1141(d)(3) applies.
+(7) Unless an approved provider of an instructional course concerning personal financial management has notified the court that a debtor has completed the course after filing the petition:
+
+(A) An individual debtor in a chapter 7 or chapter 13 case shall file a statement of completion of the course, prepared as prescribed by the appropriate Official Form; and
+
+(B) An individual debtor in a chapter 11 case shall file the statement if §1141(d)(3) applies.
 
 (8) If an individual debtor in a chapter 11, 12, or 13 case has claimed an exemption under §522(b)(3)(A) in property of the kind described in §522(p)(1) with a value in excess of the amount set out in §522(q)(1), the debtor shall file a statement as to whether there is any proceeding pending in which the debtor may be found guilty of a felony of a kind described in §522(q)(1)(A) or found liable for a debt of the kind described in §522(q)(1)(B).
 
@@ -784,7 +788,7 @@ Subdivision (b)(3) is amended in conformance with the changes to subdivision (b)
 
 (m) Infants and Incompetent Persons. If the debtor knows that a person on the list of creditors or schedules is an infant or incompetent person, the debtor also shall include the name, address, and legal relationship of any person upon whom process would be served in an adversary proceeding against the infant or incompetent person in accordance with Rule 7004(b)(2).
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -929,6 +933,12 @@ The rule is amended to implement changes in connection with the amendment to Rul
 #### Committee Notes on Rules—2012 Amendment ####
 
 *Subdivision (c)*. In subdivision (c), the time limit for a debtor in an involuntary case to file the list required by subdivision (a)(2) is deleted as unnecessary. Subdivision (a)(2) provides that the list must be filed within seven days after the entry of the order for relief. The other change to subdivision (c) is stylistic.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+Subdivision (b)(7) is amended to relieve an individual debtor of the obligation to file a statement of completion of a personal financial management course if the course provider notifies the court that the debtor has completed the course. Course providers approved under §111 of the Code may be permitted to file this notification electronically with the court immediately upon the debtor's completion of the course. If the provider does not notify the court, the debtor must file the statement, prepared as prescribed by the appropriate Official Form, within the time period specified by subdivision (c).
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 [<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_1007_1)
 
@@ -4444,7 +4454,7 @@ Other changes are stylistic.
 
 (c) Grant of Discharge.
 
-(1) In a chapter 7 case, on expiration of the times fixed for objecting to discharge and for filing a motion to dismiss the case under Rule 1017(e), the court shall forthwith grant the discharge unless:
+(1) In a chapter 7 case, on expiration of the times fixed for objecting to discharge and for filing a motion to dismiss the case under Rule 1017(e), the court shall forthwith grant the discharge, except that the court shall not grant the discharge if:
 
 (A) the debtor is not an individual;
 
@@ -4460,15 +4470,15 @@ Other changes are stylistic.
 
 (G) the debtor has not paid in full the filing fee prescribed by 28 U.S.C. §1930(a) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. §1930(b) that is payable to the clerk upon the commencement of a case under the Code, unless the court has waived the fees under 28 U.S.C. §1930(f);
 
-(H) the debtor has not filed with the court a statement of completion of a course concerning personal financial management as required by Rule 1007(b)(7);
+(H) the debtor has not filed with the court a statement of completion of a course concerning personal financial management if required by Rule 1007(b)(7);
 
 (I) a motion to delay or postpone discharge under §727(a)(12) is pending;
 
 (J) a motion to enlarge the time to file a reaffirmation agreement under Rule 4008(a) is pending;
 
-(K) a presumption has arisen under §524(m) that a reaffirmation agreement is an undue hardship; or
+(K) a presumption is in effect under §524(m) that a reaffirmation agreement is an undue hardship and the court has not concluded a hearing on the presumption; or
 
-(L) a motion is pending to delay discharge, because the debtor has not filed with the court all tax documents required to be filed under §521(f).
+(L) a motion is pending to delay discharge because the debtor has not filed with the court all tax documents required to be filed under §521(f).
 
 (2) Notwithstanding Rule 4004(c)(1), on motion of the debtor, the court may defer the entry of an order granting a discharge for 30 days and, on motion within that period, the court may defer entry of the order to a date certain.
 
@@ -4484,7 +4494,7 @@ Other changes are stylistic.
 
 (g) Notice of Discharge. The clerk shall promptly mail a copy of the final order of discharge to those specified in subdivision (a) of this rule.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4593,6 +4603,16 @@ Subdivision (c)(4) is new. It directs the court in chapter 11 and 13 cases to wi
 *Subdivision (b)*. Subdivision (b) is amended to allow a party, under certain specified circumstances, to seek an extension of time to object to discharge after the time for filing has expired. This amendment addresses the situation in which there is a gap between the expiration of the time for objecting to discharge and the entry of the discharge order. If, during that period, a party discovers facts that would provide grounds for revocation of discharge, it may not be able to seek revocation under §727(d) of the Code because the facts would have been known prior to the granting of the discharge. Furthermore, during that period the debtor may commit an act that provides a basis for both denial and revocation of the discharge. In those situations, subdivision (b)(2) allows a party to file a motion for an extension of time to object to discharge based on those facts so long as they were not known to the party before expiration of the deadline for objecting. The motion must be filed promptly after discovery of those facts.
 
 *Changes Made After Publication*. Following publication minor stylistic changes were made to the language of the rule, and a sentence was added to the Committee Note to clarify that the rule applies whenever the debtor commits an act during the gap period that provides a basis for both denial and revocation of the discharge.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+Subdivision (c)(1) is amended in several respects. The introductory language of paragraph (1) is revised to emphasize that the listed circumstances do not just relieve the court of the obligation to enter the discharge promptly but that they prevent the court from entering a discharge.
+
+Subdivision (c)(1)(H) is amended to reflect the simultaneous amendment of Rule 1007(b)(7). The amendment of the latter rule relieves a debtor of the obligation to file a statement of completion of a course concerning personal financial management if the course provider notifies the court directly that the debtor has completed the course. Subparagraph (H) now requires postponement of the discharge when a debtor fails to file a statement of course completion only if the debtor has an obligation to file the statement.
+
+Subdivision (c)(1)(K) is amended to make clear that the prohibition on entering a discharge due to a presumption of undue hardship under §524(m) of the Code ceases when the presumption expires or the court concludes a hearing on the presumption.
+
+*Changes Made After Publication and Comment*. Because this amendment is being made to conform to a simultaneous amendment of Rule 1007(b)(7) and is otherwise technical in nature, final approval is sought without publication.
 
 [<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_4004_1)
 
@@ -4998,11 +5018,11 @@ This rule is new. The 2005 amendments to §342 of the Code require that clerks g
 
 (a) Cases Under Chapters 7, 12, and 13. If in a chapter 7, chapter 12, or chapter 13 case the trustee has filed a final report and final account and has certified that the estate has been fully administered, and if within 30 days no objection has been filed by the United States trustee or a party in interest, there shall be a presumption that the estate has been fully administered.
 
-(b) Notice of Failure To File Rule 1007(b)(7) Statement. If an individual debtor in a chapter 7 or 13 case has not filed the statement required by Rule 1007(b)(7) within 45 days after the first date set for the meeting of creditors under §341(a) of the Code, the clerk shall promptly notify the debtor that the case will be closed without entry of a discharge unless the statement is filed within the applicable time limit under Rule 1007(c).
+(b) Notice of Failure To File Rule 1007(b)(7) Statement. If an individual debtor in a chapter 7 or 13 case is required to file a statement under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under §341(a) of the Code, the clerk shall promptly notify the debtor that the case will be closed without entry of a discharge unless the required statement is filed within the applicable time limit under Rule 1007(c).
 
 (c) Cases Under Chapter 15. A foreign representative in a proceeding recognized under §1517 of the Code shall file a final report when the purpose of the representative's appearance in the court is completed. The report shall describe the nature and results of the representative's activities in the court. The foreign representative shall transmit the report to the United States trustee, and give notice of its filing to the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all parties to litigation pending in the United States in which the debtor was a party at the time of the filing of the petition, and such other entities as the court may direct. The foreign representative shall file a certificate with the court that notice has been given. If no objection has been filed by the United States trustee or a party in interest within 30 days after the certificate is filed, there shall be a presumption that the case has been fully administered.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5021,6 +5041,12 @@ Rule 3022 governs the closing of chapter 11 cases.
 *Subdivision (c)*. Subdivision (c) requires a foreign representative in a chapter 15 case to file a final report setting out the foreign representative's actions and results obtained in the United States court. It also requires the foreign representative to give notice of the filing of the report, and provides interested parties with 30 days to object to the report after the foreign representative has certified that notice has been given. In the absence of a timely objection, a presumption arises that the case is fully administered, and the case may be closed.
 
 *Changes Made After Publication*. No changes since publication.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+Subdivision (b) is amended to conform to the amendment of Rule 1007(b)(7). Rule 1007(b)(7) relieves an individual debtor of the obligation to file a statement of completion of a personal financial management course if the course provider notifies the court that the debtor has completed the course. The clerk's duty under subdivision (b) to notify the debtor of the possible closure of the case without discharge if the statement is not timely filed therefore applies only if the course provider has not already notified the court of the debtor's completion of the course.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 ### Rule 5010. Reopening Cases ###
 
@@ -7186,7 +7212,7 @@ The rule is added to adopt the new rule added to the Federal Rules of Civil Proc
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9006. Computing and Extending Time ###
+### Rule 9006. Computing and Extending Time; Time for Motion Papers ###
 
 (a) Computing Time. The following rules apply in computing any time period specified in these rules, in the Federal Rules of Civil Procedure, in any local rule or court order, or in any statute that does not specify a method of computing time.
 
@@ -7242,7 +7268,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (2) *Reduction Not Permitted*. The court may not reduce the time for taking action under Rules 2002(a)(7), 2003(a), 3002(c), 3014, 3015, 4001(b)(2), (c)(2), 4003(a), 4004(a), 4007(c), 4008(a), 8002, and 9033(b). In addition, the court may not reduce the time under Rule 1007(c) to file the statement required by Rule 1007(b)(7).
 
-(d) For Motions—Affidavits. A written motion, other than one which may be heard ex parte, and notice of any hearing shall be served not later than seven days before the time specified for such hearing, unless a different period is fixed by these rules or by order of the court. Such an order may for cause shown be made on ex parte application. When a motion is supported by affidavit, the affidavit shall be served with the motion; and, except as otherwise provided in Rule 9023, opposing affidavits may be served not later than one day before the hearing, unless the court permits them to be served at some other time.
+(d) Motion Papers. A written motion, other than one which may be heard ex parte, and notice of any hearing shall be served not later than seven days before the time specified for such hearing, unless a different period is fixed by these rules or by order of the court. Such an order may for cause shown be made on ex parte application. When a motion is supported by affidavit, the affidavit shall be served with the motion. Except as otherwise provided in Rule 9023, any written response shall be served not later than one day before the hearing, unless the court permits otherwise.
 
 (e) Time of Service. Service of process and service of any paper other than process or of notice by mail is complete on mailing.
 
@@ -7250,7 +7276,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (g) Grain Storage Facility Cases. This rule shall not limit the court's authority under §557 of the Code to enter orders governing procedures in cases in which the debtor is an owner or operator of a grain storage facility.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -7400,6 +7426,12 @@ The Standing Committee changed Rule 9006(a)(6) to exclude state holidays from th
 
 Subdivision (f) is amended to conform to the changes made to Rule 5(b)(2) of the Federal Rules of Civil Procedure as a part of the Civil Rules Restyling Project. As a part of that project, subparagraphs (b)(2)(C) and (D) of that rule were rewritten as subparagraphs (b)(2)(D), (E), and (F). The cross reference to those rules contained in subdivision (f) of this rule is corrected by this amendment.
 
+#### Committee Notes on Rules—2013 Amendment ####
+
+The title of this rule is amended to draw attention to the fact that it prescribes time limits for the service of motion papers. These time periods apply unless another Bankruptcy Rule or a court order, including a local rule, prescribes different time periods. Rules 9013 and 9014 should also be consulted regarding motion practice. Rule 9013 governs the form of motions and the parties who must be served. Rule 9014 prescribes the procedures applicable to contested matters, including the method of serving motions commencing contested matters and subsequent papers. Subdivision (d) is amended to apply to any written response to a motion, rather than just to opposing affidavits. The caption of the subdivision is amended to reflect this change. Other changes are stylistic.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subds. (a) and (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -7548,19 +7580,29 @@ This rule is amended to conform to the 1986 amendment to §343 which provides th
 
 ### Rule 9013. Motions: Form and Service ###
 
-A request for an order, except when an application is authorized by these rules, shall be by written motion, unless made during a hearing. The motion shall state with particularity the grounds therefor, and shall set forth the relief or order sought. Every written motion other than one which may be considered ex parte shall be served by the moving party on the trustee or debtor in possession and on those entities specified by these rules or, if service is not required or the entities to be served are not specified by these rules, the moving party shall serve the entities the court directs.
+A request for an order, except when an application is authorized by the rules, shall be by written motion, unless made during a hearing. The motion shall state with particularity the grounds therefor, and shall set forth the relief or order sought. Every written motion, other than one which may be considered ex parte, shall be served by the moving party within the time determined under Rule 9006(d). The moving party shall serve the motion on:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(a) the trustee or debtor in possession and on those entities specified by these rules; or
+
+(b) the entities the court directs if these rules do not require service or specify the entities to be served.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 This rule is derived from Rule 5(a) and Rule 7(b)(1) F.R.Civ.P. Except when an application is specifically authorized by these rules, for example an application under Rule 2014 for approval of the employment of a professional, all requests for court action must be made by motion.
 
+#### Committee Notes on Rules—2013 Amendment ####
+
+A cross-reference to Rule 9006(d) is added to this rule to call attention to the time limits for the service of motions, supporting affidavits, and written responses to motions. Rule 9006(d) prescribes time limits that apply unless other limits are fixed by these rules, a court order, or a local rule. The other changes are stylistic.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
 ### Rule 9014. Contested Matters ###
 
 (a) Motion. In a contested matter not otherwise governed by these rules, relief shall be requested by motion, and reasonable notice and opportunity for hearing shall be afforded the party against whom relief is sought. No response is required under this rule unless the court directs otherwise.
 
-(b) Service. The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004. Any paper served after the motion shall be served in the manner provided by Rule 5(b) F. R. Civ. P.
+(b) Service. The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004 and within the time determined under Rule 9006(d). Any written response to the motion shall be served within the time determined under Rule 9006(d). Any paper served after the motion shall be served in the manner provided by Rule 5(b) F.R.Civ.P.
 
 (c) Application of Part VII Rules. Except as otherwise provided in this rule, and unless the court directs otherwise, the following rules shall apply: 7009, 7017, 7021, 7025, 7026, 7028–7037, 7041, 7042, 7052, 7054–7056, 7064, 7069, and 7071. The following subdivisions of Fed. R. Civ. P. 26, as incorporated by Rule 7026, shall not apply in a contested matter unless the court directs otherwise: 26(a)(1) (mandatory disclosure), 26(a)(2) (disclosures regarding expert testimony) and 26(a)(3) (additional pre-trial disclosure), and 26(f) (mandatory meeting before scheduling conference/discovery plan). An entity that desires to perpetuate testimony may proceed in the same manner as provided in Rule 7027 for the taking of a deposition before an adversary proceeding. The court may at any stage in a particular matter direct that one or more of the other rules in Part VII shall apply. The court shall give the parties notice of any order issued under this paragraph to afford them a reasonable opportunity to comply with the procedures prescribed by the order.
 
@@ -7568,7 +7610,7 @@ This rule is derived from Rule 5(a) and Rule 7(b)(1) F.R.Civ.P. Except when an a
 
 (e) Attendance of Witnesses. The court shall provide procedures that enable parties to ascertain at a reasonable time before any scheduled hearing whether the hearing will be an evidentiary hearing at which witnesses may testify.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -7611,6 +7653,12 @@ The Committee Note was amended to reflect the changes made in the text of the ru
 The rule is amended to provide that the mandatory disclosure requirements of Fed. R. Civ. P. 26, as incorporated by Rule 7026, do not apply in contested matters. The typically short time between the commencement and resolution of most contested matters makes the mandatory disclosure provisions of Rule 26 ineffective. Nevertheless, the court may by local rule or by order in a particular case provide that these provisions of the rule apply in a contested matter.
 
 *Changes Made After Publication*. No changes since publication.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+A cross-reference to Rule 9006(d) is added to subdivision (b) to call attention to the time limits for the service of motions, supporting affidavits, and written responses to motions. Rule 9006(d) prescribes time limits that apply unless other limits are fixed by these rules, a court order, or a local rule.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 #### References in Text ####
 

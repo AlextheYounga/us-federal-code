@@ -24,4 +24,4 @@ The Legislative Branch Appropriation Act, 1966, referred to in subsec. (a), is P
 
 #### Effective Date ####
 
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.

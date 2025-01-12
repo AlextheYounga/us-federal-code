@@ -1,13 +1,5 @@
-### §61*l*. Appointment and compensation of Administrative Assistant, Legislative Assistant, and Executive Secretary for Deputy President pro tempore of Senate ###
-
-Effective April 1, 1977, the Deputy President pro tempore is authorized to appoint and fix the compensation of an Administrative Assistant at not to exceed $47,595 per annum; a Legislative Assistant at not to exceed $40,080 per annum, and an Executive Secretary at not to exceed $23,380 per annum.
-
-(Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80.)
+### §61*l*. Transferred ###
 
 #### Codification ####
 
-Section is from the Supplemental Appropriations Act, 1977.
-
-#### Increases in Compensation ####
-
-Increases in compensation for officers and employees of the Senate under authority of the Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under section 60a–1 of this title.
+Section 61l was editorially reclassified as section 6114 of this title.

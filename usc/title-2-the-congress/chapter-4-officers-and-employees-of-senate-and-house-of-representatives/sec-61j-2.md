@@ -1,13 +1,5 @@
-### §61j–2. Compensation and appointment of employees by Senate Majority and Minority Whips ###
-
-Effective April 1, 1977, the Majority Whip and the Minority Whip are each authorized to appoint and fix the compensation of such employees as they deem appropriate: *Provided*, That the gross compensation paid to such employees shall not exceed $111,100 each fiscal year for each Whip.
-
-(Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80.)
+### §61j–2. Transferred ###
 
 #### Codification ####
 
-Section is from the Supplemental Appropriations Act, 1977.
-
-#### Increases in Compensation ####
-
-Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of President pro tempore of the Senate, set out as notes under section 60a–1 of this title.
+Section 61j–2 was editorially reclassified as section 6134 of this title.

@@ -1,13 +1,5 @@
-### §123c. Data processing equipment, software, and services ###
-
-Notwithstanding any other provision of law, the Sergeant at Arms, subject to the approval of the Committee on Rules and Administration, is hereafter authorized to enter into multi-year contracts for data processing equipment, software, and services.
-
-(Pub. L. 94–32, title I, June 12, 1975, 89 Stat. 182; Pub. L. 95–26, title I, §103, May 4, 1977, 91 Stat. 82.)
+### §123c. Transferred ###
 
 #### Codification ####
 
-Section is from the Second Supplemental Appropriations Act, 1975.
-
-#### Amendments ####
-
-**1977**—Pub. L. 95–26 substituted “multi-year contracts for data processing equipment, software, and services” for “multi-year leases for automatic data processing equipment”.
+Section 123c was editorially reclassified as section 6618 of this title.

@@ -8,7 +8,7 @@
 
 #### References in Text ####
 
-Subsection (b) of section 3 of the Speaker's salary directive of June 11, 1968, referred to in subsec. (a), is set out as a note under section 60a–2 of this title.
+Subsection (b) of section 3 of the Speaker's salary directive of June 11, 1968, referred to in subsec. (a), is set out as a note under section 4531 of this title.
 
 #### Codification ####
 
@@ -20,4 +20,4 @@ House Resolution No. 904, Eighty-eighth Congress, Oct. 3, 1964, provided: “Tha
 
 #### Increases in Compensation ####
 
-Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.

@@ -26,9 +26,7 @@ Sec.
 
 55315. Minimum tonnage.
 
-55316. Financing the transportation of agricultural commodities.
-
-55317. Termination of subchapter.
+[55316, 55317. Repealed.]
 
 55318. Effect on other law.
 
@@ -45,3 +43,7 @@ Sec.
 55335. Revocations and terminations of designations.
 
 55336. Civil penalty.
+
+#### Amendments ####
+
+**2013**—Pub. L. 113–67, div. A, title VI, §602(b), Dec. 26, 2013, 127 Stat. 1188, struck out items 55316 “Financing the transportation of agricultural commodities” and 55317 “Termination of subchapter”.

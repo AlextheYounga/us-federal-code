@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Sections were omitted as obsolete and superseded. See section 61–1 of this title and chapter 10A (§331 et seq.) of this title.
+Sections were omitted as obsolete and superseded. See sections 4533 to 4535, 4575, and 5103 of this title.
 
 Section 60e–3, acts June 30, 1945, ch. 212, title V, §501, 59 Stat. 301; May 24, 1946, ch. 270, §5(a), (b), 60 Stat. 217; June 23, 1949, ch. 238, §5, 63 Stat. 265, provided for payment of additional compensation to legislative branch employees.
 

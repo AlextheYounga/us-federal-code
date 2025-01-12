@@ -4,4 +4,4 @@ Section, acts May 21, 1937, ch. 236, §1, 50 Stat. 199; Pub. L. 86–426, §2(a)
 
 #### Effective Date of Repeal ####
 
-Repeal applicable with respect to pay periods beginning after the expiration of the 1-year period which begins Nov. 12, 2001, see section 116(c) of Pub. L. 107–68, set out as an Effective Date note under section 60d–1 of this title.
+Repeal applicable with respect to pay periods beginning after the expiration of the 1-year period which begins Nov. 12, 2001, see section 116(c) of Pub. L. 107–68, set out as an Effective Date note under section 4551 of this title.

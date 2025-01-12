@@ -28,6 +28,8 @@ Sec.
 
 2012. Furniture for House of Representatives.
 
+2013. Revolving fund for House gymnasium; deposit of receipts; availability for expenditure.
+
 #### SUBCHAPTER II—SENATE ####
 
 2021. Additional Senate office building.
@@ -39,6 +41,8 @@ Sec.
 2024. Assignment of space in Senate Office Building.
 
 2025. Senate Garage.
+
+2026. Senate Staff Health and Fitness Facility Revolving Fund.
 
 #### SUBCHAPTER III—RESTAURANTS ####
 
@@ -63,6 +67,8 @@ Sec.
 2050. Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account.
 
 2051. Continued benefits for certain Senate Restaurants employees.
+
+2052. Senate restaurant deficit fund; deposit of proceeds from surcharge on orders.
 
 #### SUBCHAPTER IV—CHILD CARE ####
 
@@ -148,7 +154,7 @@ Sec.
 
 #### SUBCHAPTER VII—OTHER ENTITIES AND SERVICES ####
 
-2161. John W. McCormack Residential Page School.
+2161. Transferred.
 
 2162. Capitol Power Plant.
 
@@ -169,6 +175,8 @@ Sec.
 2170. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Senate at no net cost to the Federal Government.
 
 2171. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government.
+
+2172. Office of Congressional Accessibility Services.
 
 #### SUBCHAPTER VIII—MISCELLANEOUS ####
 

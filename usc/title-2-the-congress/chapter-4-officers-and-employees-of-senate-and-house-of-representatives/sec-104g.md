@@ -1,27 +1,5 @@
-### §104g. Senate privately paid travel public website ###
+### §104g. Transferred ###
 
-#### (a) Travel disclosure ####
+#### Codification ####
 
-Not later than January 1, 2008, the Secretary of the Senate shall establish a publicly available website without fee or without access charge, that contains information on travel that is subject to disclosure under paragraph 2 of rule XXXV of the Standing Rules of the Senate, that includes, with respect to travel occurring on or after January 1, 2008—
-
-(1) a search engine;
-
-(2) uniform categorization by Member, dates of travel, and any other common categories associated with congressional travel; and
-
-(3) forms filed in the Senate relating to officially related travel.
-
-#### (b) Retention ####
-
-The Secretary of the Senate shall maintain the information posted on the public Internet site of the Office of the Secretary under this section for a period not longer than 4 years after receiving the information.
-
-#### (c) Extension of authority ####
-
-If the Secretary of the Senate is unable to meet the deadline established under subsection (a), the Committee on Rules and Administration of the Senate may grant an extension of the Secretary of the Senate.
-
-#### (e) <sup><a href="#104g_1_target" name="104g_1">1</a></sup> Authorization of appropriations ####
-
-There are authorized to be appropriated such sums as are necessary to carry out this section.
-
-(Pub. L. 110–81, title V, §546, Sept. 14, 2007, 121 Stat. 772.)
-
-[<sup>1</sup> So in original. No subsec. (d) has been enacted.](#104g_1)
+Section 104g was editorially reclassified as section 4727 of this title.

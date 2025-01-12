@@ -42,7 +42,7 @@ The Secretary shall establish a demonstration project under which the Secretary 
 
 (D) the State involved submits to the Secretary—
 
-(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier is granted, at a level that is not less than—
+(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier <sup><a href="#300m_1_target" name="300m_1">1</a></sup> is granted, at a level that is not less than—
 
 (I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
 
@@ -86,7 +86,7 @@ The Secretary, upon the request of a State that has received a waiver under para
 
 The Secretary shall include as part of the evaluations and reports required under section 300n–4 of this title, the following:
 
-(A) A description of the total amount of dollars leveraged annually from Non-Federal <sup><a href="#300m_1_target" name="300m_1">1</a></sup> entities in States receiving a waiver under paragraph (1) and how these amounts were used.
+(A) A description of the total amount of dollars leveraged annually from Non-Federal <sup><a href="#300m_2_target" name="300m_2">2</a></sup> entities in States receiving a waiver under paragraph (1) and how these amounts were used.
 
 (B) With respect to States receiving a waiver under paragraph (1), a description of the percentage of the grant that is expended on providing each of the services or activities described in—
 
@@ -158,4 +158,6 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 
 Pub. L. 103–183, title I, §101(c)(2), Dec. 14, 1993, 107 Stat. 2228, provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act [Dec. 14, 1993] under section 1503(c) of the Public Health Service Act [42 U.S.C. 300m(c)] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act [42 U.S.C. 300k]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act [42 U.S.C. 263b].”
 
-[<sup>1</sup> So in original. Probably should be “non-Federal”.](#300m_1)
+[<sup>1</sup> So in original. Probably should be “waiver”.](#300m_1)
+
+[<sup>2</sup> So in original. Probably should be “non-Federal”.](#300m_2)

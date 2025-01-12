@@ -18,7 +18,7 @@
 
 Upon receipt of an application under subsection (a) of this section, the Commission shall—
 
-(1) issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public.
+(1) issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public.<sup><a href="#824i_1_target" name="824i_1">1</a></sup>
 
 (2) afford an opportunity for an evidentiary hearing, and
 
@@ -59,3 +59,5 @@ The Commission may, on its own motion, after compliance with the requirements of
 #### Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities ####
 
 For provisions requiring the Federal Energy Regulatory Commission to conduct a study and report to Congress on whether the benefits of this section and section 824a–3 of this title should be applied to hydroelectric power facilities utilizing new dams or diversions, within the meaning of section 824a–3(k) of this title, see section 8(d) of Pub. L. 99–495, set out as a note under section 824a–3 of this title.
+
+[<sup>1</sup> So in original. The period probably should be a comma.](#824i_1)

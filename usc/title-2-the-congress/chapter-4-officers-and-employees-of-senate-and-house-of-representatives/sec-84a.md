@@ -1,9 +1,5 @@
-### §84a. Reporters for House of Representatives ###
-
-No person shall be employed as a reporter for the House of Representatives without the approval of the Speaker.
-
-(R.S. §54.)
+### §84a. Transferred ###
 
 #### Codification ####
 
-R.S. §54 derived from act Apr. 2, 1872, ch. 79, §3, 17 Stat. 47.
+Section 84a was editorially reclassified as section 5561 of this title.

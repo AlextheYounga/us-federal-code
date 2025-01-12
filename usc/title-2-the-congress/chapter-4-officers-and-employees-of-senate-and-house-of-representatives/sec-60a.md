@@ -212,4 +212,4 @@ Pub. L. 96–508, §10, Dec. 8, 1980, 94 Stat. 2749, provided that in the fiscal
 
 #### Senate and House Committee Employees ####
 
-Senate and House committee employees, formerly provided for by this section, are covered by section 72a of this title.
+Senate and House committee employees, formerly provided for by this section, are covered by section 4301 of this title.

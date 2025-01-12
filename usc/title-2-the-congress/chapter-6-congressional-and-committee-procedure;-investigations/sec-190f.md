@@ -26,7 +26,7 @@ Section constitutes subsections (a) to (c) of section 139 of act Aug. 2, 1946. S
 
 #### Effective Date of 1970 Amendment ####
 
-Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 72a of this title.
+Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as a note under section 4301 of this title.
 
 #### Effective Date ####
 

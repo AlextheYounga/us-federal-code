@@ -12,7 +12,7 @@ Sec.
 
 590e to 590e–2. Repealed or Omitted.
 
-590f. Authorization of appropriation.
+590f. Authorization of appropriations and conservation technical assistance funds.
 
 590g. Additional policies and purposes of chapter.
 

@@ -6,6 +6,4 @@ The President of the United States is authorized, in his discretion, to add by E
 
 #### References in Text ####
 
-The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-
 Act of June 11, 1906, referred to in text, means act June 11, 1906, ch. 3074, 34 Stat. 233, which was classified to sections 506 to 508 and 509 of this title, and was repealed by Pub. L. 87–869, §4, Oct. 23, 1962, 76 Stat. 1157.

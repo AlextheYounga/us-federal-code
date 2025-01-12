@@ -1,29 +1,5 @@
-### §60p. Payment for unaccrued leave ###
-
-#### (a) In general ####
-
-The Financial Clerk of the Senate is authorized to accept from an individual whose pay is disbursed by the Secretary of <sup><a href="#60p_1_target" name="60p_1">1</a></sup> Senate a payment representing pay for any period of unaccrued annual leave used by that individual, as certified by the head of the employing office of the individual making the payment.
-
-#### (b) Withholding ####
-
-The Financial Clerk of the Senate is authorized to withhold the amount referred to in subsection (a) of this section from any amount which is disbursed by the Secretary of the Senate and which is due to or on behalf of the individual described in subsection (a) of this section.
-
-#### (c) Deposit ####
-
-Any payment accepted under this section shall be deposited in the general fund of the Treasury as miscellaneous receipts.
-
-#### (d) “Head of the employing office” defined ####
-
-As used in this section, the term “head of the employing office” means any person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an individual whose pay is disbursed by the Secretary of the Senate.
-
-#### (e) Applicability ####
-
-This section shall apply to fiscal year 1996 and each fiscal year thereafter.
-
-(Pub. L. 104–197, title I, §9, Sept. 16, 1996, 110 Stat. 2398.)
+### §60p. Transferred ###
 
 #### Codification ####
 
-Section is from the Congressional Operations Appropriations Act, 1997, which is title I of the Legislative Branch Appropriations Act, 1997.
-
-[<sup>1</sup> So in original. Probably should be followed by “the”.](#60p_1)
+Section 60p was editorially reclassified as section 4595 of this title.

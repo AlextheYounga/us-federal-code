@@ -40,7 +40,7 @@ A Senator may have an item with respect to the Senator removed from a calendar t
 
 #### Effective Date ####
 
-Pub. L. 110–81, title V, §556, Sept. 14, 2007, 121 Stat. 774, provided that: “Except as otherwise provided in this title [enacting this section, sections 31–3, 72a–1h, 72a–1i, 104f, and 104g of this title, and provisions set out as notes under this section and section 31–3 of this title], this title shall take effect on the date of enactment of this title [Sept. 14, 2007].”
+Pub. L. 110–81, title V, §556, Sept. 14, 2007, 121 Stat. 774, provided that: “Except as otherwise provided in this title [enacting this section, sections 4722, 4723, 4726, 4727, and 4728 of this title, and provisions set out as notes under this section and section 4726 of this title], this title shall take effect on the date of enactment of this title [Sept. 14, 2007].”
 
 #### Exercise of Rulemaking Powers ####
 

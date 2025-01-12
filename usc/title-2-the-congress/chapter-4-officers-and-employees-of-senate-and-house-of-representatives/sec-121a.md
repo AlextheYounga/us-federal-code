@@ -4,4 +4,4 @@ Section, Pub. L. 94–440, title I, §106, Oct. 1, 1976, 90 Stat. 1444; Pub. L. 
 
 #### Effective Date of Repeal ####
 
-Repeal effective 30 days after Oct. 21, 1998, see section 121b–1(i) of this title.
+Repeal effective 30 days after Oct. 21, 1998, see section 6634(i) of this title.

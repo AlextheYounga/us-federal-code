@@ -1,9 +1,5 @@
-### §40. Deductions for withdrawal ###
-
-When any Member or Delegate withdraws from his seat and does not return before the adjournment of Congress, he shall, in addition to the sum deducted for each day, forfeit a sum equal to the amount which would have been allowed by law for his mileage in returning home; and such sum shall be deducted from his compensation, unless the withdrawal is with the leave of the Senate or House of Representatives respectively.
-
-(R.S. §41.)
+### §40. Transferred ###
 
 #### Codification ####
 
-R.S. §41 derived from Res. July 17, 1862, No. 68, §2, 12 Stat. 628.
+Section 40 was editorially reclassified as section 4522 of this title.

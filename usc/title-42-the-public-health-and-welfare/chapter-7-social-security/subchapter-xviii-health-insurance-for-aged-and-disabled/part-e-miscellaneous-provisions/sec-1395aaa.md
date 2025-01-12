@@ -182,9 +182,9 @@ If the entity requires a membership fee for participation in the functions of th
 
 #### (d) Funding ####
 
-For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013.
+For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197.)
 
 #### References in Text ####
 
@@ -202,7 +202,9 @@ A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as add
 
 **2013**—Subsec. (b)(4). Pub. L. 112–240, §609(a)(2), struck out par. (4). Text read as follows: “The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information.”
 
-Subsec. (d). Pub. L. 112–240, §609(a)(1), substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
+Subsec. (d). Pub. L. 113–67 inserted at end “Amounts transferred under the preceding sentence shall remain available until expended.”
+
+Pub. L. 112–240, §609(a)(1), substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
 
 **2010**—Subsec. (b)(5)(A)(iv) to (vi). Pub. L. 111–148, §3014(a)(2), added cls. (iv) to (vi).
 

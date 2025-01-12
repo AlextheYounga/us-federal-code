@@ -21,3 +21,7 @@ To enable the State of California and its political subdivisions to develop and 
 The Secretary of Agriculture shall assist the county of Del Norte in developing a land information system that will be compatible with the Forest Service and National Park Service systems for the Federal lands in Del Norte County and such non-Federal systems as may be appropriate and that will be made available to Federal and non-Federal entities for use in coordinating planning for the recreation area and other lands in the Smith River watershed.
 
 (Pub. L. 101–612, §12, Nov. 16, 1990, 104 Stat. 3221.)
+
+#### References in Text ####
+
+This subchapter, referred to in subsecs. (a), (b)(2), and (c), was in the original “this Act”, meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460bbb of this title and Tables.

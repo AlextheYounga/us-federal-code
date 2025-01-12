@@ -26,7 +26,7 @@ In carrying out section 299(b) of this title, the Director shall conduct and sup
 
 #### (1) In general ####
 
-The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) of this title as well as other appropriated funds.
+The Director may provide training grants in the field of health services research related to activities authorized under subsection (a) of this section, to include pre- and post-doctoral fellowships and training programs, young investigator awards, and other programs and activities as appropriate. In carrying out this subsection, the Director shall make use of funds made available under section 288(d)(3) <sup><a href="#299a_1_target" name="299a_1">1</a></sup> of this title as well as other appropriated funds.
 
 #### (2) Requirements ####
 
@@ -51,6 +51,8 @@ Nothing in this section shall be construed to imply that the Agency's role is to
 (July 1, 1944, ch. 373, title IX, §902, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1654; amended Pub. L. 106–525, title II, §201(a)(1), Nov. 22, 2000, 114 Stat. 2505.)
 
 #### References in Text ####
+
+Section 288(d)(3) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 109–482, title I, §103(b)(47), Jan. 15, 2007, 120 Stat. 3688.
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -91,3 +93,5 @@ This memorandum is not intended to, and does not, create any right or benefit, s
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
+
+[<sup>1</sup> See References in Text note below.](#299a_1)

@@ -20,6 +20,10 @@ Lands, and interests in lands, within the boundaries of the park which are owned
 
 (Pub. L. 100–348, §4, June 27, 1988, 102 Stat. 656; Pub. L. 103–437, §6(d)(11), Nov. 2, 1994, 108 Stat. 4584.)
 
+#### References in Text ####
+
+This subchapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 410nn of this title and Tables.
+
 #### Amendments ####
 
 **1994**—Subsec. (d)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.

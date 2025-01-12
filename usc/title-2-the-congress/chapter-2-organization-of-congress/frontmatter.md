@@ -38,7 +38,7 @@ Sec.
 
 29b, 29c. Omitted.
 
-29d. Committee on Standards of Official Conduct of House of Representatives.
+29d. Transferred.
 
 30. Term of service of Members of Congress as trustees or directors of corporations or institutions appropriated for.
 

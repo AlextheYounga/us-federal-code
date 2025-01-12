@@ -470,21 +470,7 @@ Sec.
 
 #### Part J—Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Resources ####
 
-16371. Program authority.
-
-16372. Ultra-deepwater and unconventional onshore natural gas and other petroleum research and development program.
-
-16373. Additional requirements for awards.
-
-16374. Advisory committees.
-
-16375. Limits on participation.
-
-16376. Sunset.
-
-16377. Definitions.
-
-16378. Funding.
+16371 to 16378. Repealed.
 
 #### SUBCHAPTER X—DEPARTMENT OF ENERGY MANAGEMENT ####
 

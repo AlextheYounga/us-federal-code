@@ -60,12 +60,6 @@ In making awards of grants and contracts under subsection (a)(2) of this section
 
 A prior section 296j, act July 1, 1944, ch. 373, title VIII, §815, as added July 29, 1975, Pub. L. 94–63, title IX, §921, 89 Stat. 358; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2752, 95 Stat. 929, set forth provisions relating to authorization, terms and conditions, etc., respecting grants for operational costs or meeting accreditation requirements, prior to repeal by Pub. L. 99–92, §§9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
 
-Prior sections 296k and 296l were repealed by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562.
-
-Section 296k, act July 1, 1944, ch. 373, title VIII, §820, as added Pub. L. 94–63, title IX, §931(a), July 29, 1975, 89 Stat. 359; amended Pub. L. 96–76, title I, §105, Sept. 29, 1979, 93 Stat. 579; Pub. L. 97–35, title XXVII, §2753(a)(1), (b), Aug. 13, 1981, 95 Stat. 929; Pub. L. 99–92, §3, Aug. 16, 1985, 99 Stat. 393; Pub. L. 99–129, title II, §227(a), Oct. 22, 1985, 99 Stat. 547; Pub. L. 100–607, title VII, §§701(a)(2), (b)–(i), 721(b)(1), Nov. 4, 1988, 102 Stat. 3153–3156, 3165; Pub. L. 102–408, title II, §202(a), Oct. 13, 1992, 106 Stat. 2069; Pub. L. 102–531, title III, §313(a)(9), Oct. 27, 1992, 106 Stat. 3507, authorized grants and contracts for special projects.
-
-Section 296l, act July 1, 1944, ch. 373, title VIII, §821, as added Pub. L. 94–63, title IX, §931(a), July 29, 1975, 89 Stat. 361; amended Pub. L. 96–76, title I, §106, Sept. 29, 1979, 93 Stat. 579; Pub. L. 97–35, title XXVII, §2754, Aug. 13, 1981, 95 Stat. 930; Pub. L. 99–92, §4, Aug. 16, 1985, 99 Stat. 394; Pub. L. 99–129, title II, §227(b), Oct. 22, 1985, 99 Stat. 548; Pub. L. 100–607, title VII, §702, Nov. 4, 1988, 102 Stat. 3157; Pub. L. 102–408, title II, §203, Oct. 13, 1992, 106 Stat. 2072, authorized grants and contracts for advanced nurse education.
-
 #### Amendments ####
 
 **2010**—Subsec. (c). Pub. L. 111–148, §5308(1), struck out “and nurse midwifery programs” after “practitioner” in heading and “and nurse midwifery” after “practitioner” in introductory provisions.

@@ -6,4 +6,4 @@ Section 60e–1, acts Dec. 28, 1945, ch. 589, title I, 59 Stat. 633; Pub. L. 86�
 
 #### Effective Date of Repeal ####
 
-Repeal applicable with respect to pay periods beginning after the expiration of the 1-year period which begins Nov. 12, 2001, see section 116(c) of Pub. L. 107–68, set out as an Effective Date note under section 60d–1 of this title.
+Repeal applicable with respect to pay periods beginning after the expiration of the 1-year period which begins Nov. 12, 2001, see section 116(c) of Pub. L. 107–68, set out as an Effective Date note under section 4551 of this title.

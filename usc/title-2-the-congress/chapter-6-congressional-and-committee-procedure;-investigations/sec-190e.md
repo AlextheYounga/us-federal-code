@@ -4,4 +4,4 @@ Section, act Aug. 2, 1946, ch. 753, title I, §138, 60 Stat. 832, related to rep
 
 #### Effective Date of Repeal ####
 
-Repeal effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.
+Repeal effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.

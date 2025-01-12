@@ -1,19 +1,5 @@
-### §61c–2. Compensation of Assistants to Majority and Minority in Office of Secretary of Senate ###
+### §61c–2. Transferred ###
 
-The Assistant to the Majority of the Senate and the Assistant to the Minority of the Senate in the Office of the Secretary of the Senate may each be paid a maximum annual rate of compensation not to exceed $36,500.
+#### Codification ####
 
-(Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275.)
-
-#### Prior Provisions ####
-
-Pub. L. 89–90, July 27, 1965, 79 Stat. 266, prescribed basic compensation of assistants to Majority and Minority at not more than $8,160 per annum each effective July 1, 1965.
-
-Act May 19, 1956, ch. 313, Ch. XII, 70 Stat. 175, provided that basic compensation of assistant to majority and assistant to minority may be fixed by majority and minority leaders, respectively, at a rate not to exceed $8,820 per annum.
-
-#### Effective Date ####
-
-Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275, provided that this section is effective July 1, 1975.
-
-#### Increases in Compensation ####
-
-Increases in compensation for Senate officers and employees under authority of Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see Salary Directives of the President pro tempore of the Senate, set out as notes under section 60a–1 of this title.
+Section 61c–2 was editorially reclassified as section 6537 of this title.

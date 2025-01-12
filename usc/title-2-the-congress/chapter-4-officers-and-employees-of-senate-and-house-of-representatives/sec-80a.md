@@ -1,9 +1,5 @@
-### §80a. Deductions by Chief Administrative Officer in disbursement of gratuity appropriations ###
+### §80a. Transferred ###
 
-The Chief Administrative Officer of the House of Representatives is authorized, in the disbursement of gratuity appropriations, to make deductions of such amounts as may be due to or through his office or as may be due the House of Representatives.
+#### Codification ####
 
-(May 29, 1928, ch. 853, §1, 45 Stat. 885; Pub. L. 104–186, title II, §204(26), Aug. 20, 1996, 110 Stat. 1734.)
-
-#### Amendments ####
-
-**1996**—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Sergeant-at-Arms of the House”.
+Section 80a was editorially reclassified as section 4560 of this title.

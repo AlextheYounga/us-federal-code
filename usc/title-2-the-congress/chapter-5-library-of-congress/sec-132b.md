@@ -14,7 +14,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date ####
 
-Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under section 72a of this title.
+Section effective Jan. 3, 1947, see section 245 of act Aug. 2, 1946, set out as a note under section 4301 of this title.
 
 #### Member of Committee With Respect to Financial Management and Budget and Program Development ####
 

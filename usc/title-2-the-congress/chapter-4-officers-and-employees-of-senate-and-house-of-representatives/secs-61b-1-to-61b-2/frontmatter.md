@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Sections were omitted in view of section 61a–11 of this title which abolished all statutory positions in Office of Secretary of Senate, with specified exceptions, effective Oct. 1, 1981, and authorized Secretary of Senate to appoint and fix the compensation of such employees as appropriate.
+Sections were omitted in view of section 6539 of this title which abolished all statutory positions in Office of Secretary of Senate, with specified exceptions, effective Oct. 1, 1981, and authorized Secretary of Senate to appoint and fix the compensation of such employees as appropriate.
 
 Section 61b–1, Pub. L. 87–730, Oct. 2, 1962, 76 Stat. 680, provided for the appointment and compensation of a second assistant parliamentarian.
 

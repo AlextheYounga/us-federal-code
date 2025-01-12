@@ -9,11 +9,11 @@ Judicial Personnel Financial Disclosure Requirements (Repealed) 1
 
 Development of Mechanisms for Resolving Minor Disputes (Omitted) 2
 
-Federal Rules of Appellate Procedure 667
+Federal Rules of Appellate Procedure
 
-Federal Rules of Civil Procedure 685
+Federal Rules of Civil Procedure
 
-Federal Rules of Evidence 772
+Federal Rules of Evidence
 
 JUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS
 ==========
@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to January 15, 2013)
+(As amended to January 2, 2014)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -80,11 +80,11 @@ Rule
 
 12.1. Remand After an Indicative Ruling by the District Court on a Motion for Relief That Is Barred by a Pending Appeal.
 
-#### TITLE III. REVIEW OF A DECISION OF THE UNITED STATES TAX COURT ####
+#### TITLE III. APPEALS FROM THE UNITED STATES TAX COURT ####
 
-13. Review of a Decision of the Tax Court.
+13. Appeals from the Tax Court.
 
-14. Applicability of Other Rules to the Review of a Tax Court Decision.
+14. Applicability of Other Rules to Appeals from the Tax Court.
 
 #### TITLE IV. REVIEW OR ENFORCEMENT OF AN ORDER OF AN ADMINISTRATIVE AGENCY, BOARD, COMMISSION, OR OFFICER ####
 
@@ -1348,27 +1348,31 @@ The Appellate Rules Committee, acting at the suggestion of the Civil Rules Commi
 
 The Appellate Rules Committee also made stylistic changes to the Note's first and third paragraphs. “Experienced appeal lawyers” became “Experienced lawyers,” and “act in face of a pending appeal” became “act in the face of a pending appeal.”
 
-### TITLE III. REVIEW OF A DECISION OF THE UNITED STATES TAX COURT ###
+### TITLE III. APPEALS FROM THE UNITED STATES TAX COURT ###
 
-### Rule 13. Review of a Decision of the Tax Court ###
+### Rule 13. Appeals from the Tax Court ###
 
-(a) How Obtained; Time for Filing Notice of Appeal.
+(a) Appeal as of Right.
 
-(1) Review of a decision of the United States Tax Court is commenced by filing a notice of appeal with the Tax Court clerk within 90 days after the entry of the Tax Court's decision. At the time of filing, the appellant must furnish the clerk with enough copies of the notice to enable the clerk to comply with Rule 3(d). If one party files a timely notice of appeal, any other party may file a notice of appeal within 120 days after the Tax Court's decision is entered.
+(1) *How Obtained; Time for Filing a Notice of Appeal.*
 
-(2) If, under Tax Court rules, a party makes a timely motion to vacate or revise the Tax Court's decision, the time to file a notice of appeal runs from the entry of the order disposing of the motion or from the entry of a new decision, whichever is later.
+(A) An appeal as of right from the United States Tax Court is commenced by filing a notice of appeal with the Tax Court clerk within 90 days after the entry of the Tax Court's decision. At the time of filing, the appellant must furnish the clerk with enough copies of the notice to enable the clerk to comply with Rule 3(d). If one party files a timely notice of appeal, any other party may file a notice of appeal within 120 days after the Tax Court's decision is entered.
 
-(b) Notice of Appeal; How Filed. The notice of appeal may be filed either at the Tax Court clerk's office in the District of Columbia or by mail addressed to the clerk. If sent by mail the notice is considered filed on the postmark date, subject to §7502 of the Internal Revenue Code, as amended, and the applicable regulations.
+(B) If, under Tax Court rules, a party makes a timely motion to vacate or revise the Tax Court's decision, the time to file a notice of appeal runs from the entry of the order disposing of the motion or from the entry of a new decision, whichever is later.
 
-(c) Contents of the Notice of Appeal; Service; Effect of Filing and Service. Rule 3 prescribes the contents of a notice of appeal, the manner of service, and the effect of its filing and service. Form 2 in the Appendix of Forms is a suggested form of a notice of appeal.
+(2) *Notice of Appeal; How Filed.* The notice of appeal may be filed either at the Tax Court clerk's office in the District of Columbia or by mail addressed to the clerk. If sent by mail the notice is considered filed on the postmark date, subject to §7502 of the Internal Revenue Code, as amended, and the applicable regulations.
 
-(d) The Record on Appeal; Forwarding; Filing.
+(3) *Contents of the Notice of Appeal; Service; Effect of Filing and Service.* Rule 3 prescribes the contents of a notice of appeal, the manner of service, and the effect of its filing and service. Form 2 in the Appendix of Forms is a suggested form of a notice of appeal.
 
-(1) An appeal from the Tax Court is governed by the parts of Rules 10, 11, and 12 regarding the record on appeal from a district court, the time and manner of forwarding and filing, and the docketing in the court of appeals. References in those rules and in Rule 3 to the district court and district clerk are to be read as referring to the Tax Court and its clerk.
+(4) *The Record on Appeal; Forwarding; Filing.*
 
-(2) If an appeal from a Tax Court decision is taken to more than one court of appeals, the original record must be sent to the court named in the first notice of appeal filed. In an appeal to any other court of appeals, the appellant must apply to that other court to make provision for the record.
+(A) Except as otherwise provided under Tax Court rules for the transcript of proceedings, the appeal is governed by the parts of Rules 10, 11, and 12 regarding the record on appeal from a district court, the time and manner of forwarding and filing, and the docketing in the court of appeals.
 
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998.)
+(B) If an appeal is taken to more than one court of appeals, the original record must be sent to the court named in the first notice of appeal filed. In an appeal to any other court of appeals, the appellant must apply to that other court to make provision for the record.
+
+(b) *Appeal by Permission.* An appeal by permission is governed by Rule 5.
+
+(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1390,15 +1394,21 @@ The proposed amendment reflects the change in the title of the Tax Court to “U
 
 The language and organization of the rule are amended to make the rule more easily understood. In addition to changes made to improve the understanding, the Advisory Committee has changed language to make style and terminology consistent throughout the appellate rules. These changes are intended to be stylistic only.
 
+#### Committee Notes on Rules—2013 Amendment ####
+
+Rules 13 and 14 are amended to address the treatment of permissive interlocutory appeals from the Tax Court under 26 U.S.C. §7482(a)(2). Rules 13 and 14 do not currently address such appeals; instead, those Rules address only appeals as of right from the Tax Court. The existing Rule 13—governing appeals as of right—is revised and becomes Rule 13(a). New subdivision (b) provides that Rule 5 governs appeals by permission. The definition of district court and district clerk in current subdivision (d)(1) is deleted; definitions are now addressed in Rule 14. The caption of Title III is amended to reflect the broadened application of this Title.
+
+*Changes Made After Publication and Comment.* No changes were made after publication and comment.
+
 #### References in Text ####
 
 Section 7502 of the Internal Revenue Code, referred to in subd. (b), is classified to section 112 of Title 26, Internal Revenue Code.
 
-### Rule 14. Applicability of Other Rules to the Review of a Tax Court Decision ###
+### Rule 14. Applicability of Other Rules to Appeals from the Tax Court ###
 
-All provisions of these rules, except Rules 4–9, 15–20, and 22–23, apply to the review of a Tax Court decision.
+All provisions of these rules, except Rules 4, 6–9, 15–20, and 22–23, apply to appeals from the Tax Court. References in any applicable rule (other than Rule 24(a)) to the district court and district clerk are to be read as referring to the Tax Court and its clerk.
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998.)
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1407,6 +1417,12 @@ The proposed rule continues the present uniform practice of the circuits of regu
 #### Committee Notes on Rules—1998 Amendment ####
 
 The language of the rule is amended to make the rule more easily understood. In addition to changes made to improve the understanding, the Advisory Committee has changed language to make style and terminology consistent throughout the appellate rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+Rule 13 currently addresses appeals as of right from the Tax Court, and Rule 14 currently addresses the applicability of the Appellate Rules to such appeals. Rule 13 is amended to add a new subdivision (b) treating permissive interlocutory appeals from the Tax Court under 26 U.S.C. §7482(a)(2). Rule 14 is amended to address the applicability of the Appellate Rules to both appeals as of right and appeals by permission. Because the latter are governed by Rule 5, that rule is deleted from Rule 14's list of inapplicable provisions. Rule 14 is amended to define the terms “district court” and “district clerk” in applicable rules (excluding Rule 24(a)) to include the Tax Court and its clerk. Rule 24(a) is excluded from this definition because motions to appeal from the Tax Court in forma pauperis are governed by Rule 24(b), not Rule 24(a).
+
+*Changes Made After Publication and Comment.* No changes were made after publication and comment.
 
 ### TITLE IV. REVIEW OR ENFORCEMENT OF AN ORDER OF AN ADMINISTRATIVE AGENCY, BOARD, COMMISSION, OR OFFICER ###
 
@@ -1804,7 +1820,7 @@ When Rule 23 was adopted it used the same language as Supreme Court Rule 49, whi
 
 (B) a statute provides otherwise.
 
-(4) *Notice of District Court's Denial.* The district clerk must immediately notify the parties and the court of appeals when the district court does any of the following:
+(4) *Notice of District Court's Denial*. The district clerk must immediately notify the parties and the court of appeals when the district court does any of the following:
 
 (A) denies a motion to proceed on appeal in forma pauperis;
 
@@ -1814,11 +1830,15 @@ When Rule 23 was adopted it used the same language as Supreme Court Rule 49, whi
 
 (5) *Motion in the Court of Appeals.* A party may file a motion to proceed on appeal in forma pauperis in the court of appeals within 30 days after service of the notice prescribed in Rule 24(a)(4). The motion must include a copy of the affidavit filed in the district court and the district court's statement of reasons for its action. If no affidavit was filed in the district court, the party must include the affidavit prescribed by Rule 24(a)(1).
 
-(b) Leave to Proceed in Forma Pauperis on Appeal or Review of an Administrative-Agency Proceeding. When an appeal or review of a proceeding before an administrative agency, board, commission, or officer (including for the purpose of this rule the United States Tax Court) proceeds directly in a court of appeals, a party may file in the court of appeals a motion for leave to proceed on appeal in forma pauperis with an affidavit prescribed by Rule 24(a)(1).
+(b) Leave to Proceed in Forma Pauperis on Appeal from the United States Tax Court or on Appeal or Review of an Administrative-Agency Proceeding. A party may file in the court of appeals a motion for leave to proceed on appeal in forma pauperis with an affidavit prescribed by Rule 24(a)(1):
+
+(1) in an appeal from the United States Tax Court; and
+
+(2)	when an appeal or review of a proceeding before an administrative agency, board, commission, or officer proceeds directly in the court of appeals.
 
 (c) Leave to Use Original Record. A party allowed to proceed on appeal in forma pauperis may request that the appeal be heard on the original record without reproducing any part.
 
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1853,6 +1873,12 @@ Rule 24(a)(2) has been amended to resolve this conflict. Recognizing that future
 Rule 24(a)(3) has been amended to resolve this conflict. Again, recognizing that future legislation regarding prisoner litigation is likely, the Committee has not attempted to incorporate into Rule 24 all of the requirements of the current version of 28 U.S.C. §1915. Rather, the Committee has amended Rule 24(a)(3) to clarify that the rule is not meant to conflict with anything required by the PLRA or any other statute.
 
 *Changes Made After Publication and Comments.* No changes were made to the text of the proposed amendment or to the Committee Note, except that “a statute provides otherwise” was substituted in place of “the law requires otherwise” in the text of the rule and conforming changes (as well as a couple of minor stylistic changes) were made to the Committee Note.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+Rule 24(b) currently refers to review of proceedings “before an administrative agency, board, commission, or officer (including for the purpose of this rule the United States Tax Court).” Experience suggests that Rule 24(b) contributes to confusion by fostering the impression that the Tax Court is an executive branch agency rather than a court. (As a general example of that confusion, appellate courts have returned Tax Court records to the Internal Revenue Service, believing the Tax Court to be part of that agency.) To remove this possible source of confusion, the quoted parenthetical is deleted from subdivision (b) and appeals from the Tax Court are separately listed in subdivision (b)'s heading and in new subdivision (b)(1).
+
+*Changes Made After Publication and Comment.* No changes were made after publication and comment.
 
 ### TITLE VII. GENERAL PROVISIONS ###
 
@@ -2426,33 +2452,29 @@ Permitting parties to take 9 or more days to reply to a response to a motion wou
 
 (5) a statement of the issues presented for review;
 
-(6) a statement of the case briefly indicating the nature of the case, the course of proceedings, and the disposition below;
+(6) a concise statement of the case setting out the facts relevant to the issues submitted for review, describing the relevant procedural history, and identifying the rulings presented for review, with appropriate references to the record (see Rule 28(e));
 
-(7) a statement of facts relevant to the issues submitted for review with appropriate references to the record (see Rule 28(e));
+(7) a summary of the argument, which must contain a succinct, clear, and accurate statement of the arguments made in the body of the brief, and which must not merely repeat the argument headings;
 
-(8) a summary of the argument, which must contain a succinct, clear, and accurate statement of the arguments made in the body of the brief, and which must not merely repeat the argument headings;
-
-(9) the argument, which must contain:
+(8) the argument, which must contain:
 
 (A) appellant's contentions and the reasons for them, with citations to the authorities and parts of the record on which the appellant relies; and
 
 (B) for each issue, a concise statement of the applicable standard of review (which may appear in the discussion of the issue or under a separate heading placed before the discussion of the issues);
 
-(10) a short conclusion stating the precise relief sought; and
+(9) a short conclusion stating the precise relief sought; and
 
-(11) the certificate of compliance, if required by Rule 32(a)(7).
+(10) the certificate of compliance, if required by Rule 32(a)(7).
 
-(b) Appellee's Brief. The appellee's brief must conform to the requirements of Rule 28(a)(1)–(9) and (11), except that none of the following need appear unless the appellee is dissatisfied with the appellant's statement:
+(b) Appellee's Brief. The appellee's brief must conform to the requirements of Rule 28(a)(1)–(8) and (10), except that none of the following need appear unless the appellee is dissatisfied with the appellant's statement:
 
 (1) the jurisdictional statement;
 
 (2) the statement of the issues;
 
-(3) the statement of the case;
+(3) the statement of the case; and
 
-(4) the statement of the facts; and
-
-(5) the statement of the standard of review.
+(4) the statement of the standard of review.
 
 (c) Reply Brief. The appellant may file a brief in reply to the appellee's brief. Unless the court permits, no further briefs may be filed. A reply brief must contain a table of contents, with page references, and a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the reply brief where they are cited.
 
@@ -2478,7 +2500,7 @@ Only clear abbreviations may be used. A party referring to evidence whose admiss
 
 (j) Citation of Supplemental Authorities. If pertinent and significant authorities come to a party's attention after the party's brief has been filed—or after oral argument but before decision—a party may promptly advise the circuit clerk by letter, with a copy to all other parties, setting forth the citations. The letter must state the reasons for the supplemental citations, referring either to the page of the brief or to a point argued orally. The body of the letter must not exceed 350 words. Any response must be made promptly and must be similarly limited.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2550,6 +2572,20 @@ As amended, Rule 28(j) continues to require parties to state the reasons for sup
 
 *Subdivision (h).* Subdivision (h)—regarding briefing in cases involving cross-appeals—has been deleted. All rules regarding such briefing have been consolidated into new Rule 28.1.
 
+#### Committee Notes on Rules—2013 Amendment ####
+
+*Subdivision (a).* Rule 28(a) is amended to remove the requirement of separate statements of the case and of the facts. Currently Rule 28(a)(6) provides that the statement of the case must “indicat[e] the nature of the case, the course of proceedings, and the disposition below,” and it precedes Rule 28(a)(7)'s requirement that the brief include “a statement of facts.” Experience has shown that these requirements have generated confusion and redundancy. Rule 28(a) is amended to consolidate subdivisions (a)(6) and (a)(7) into a new subdivision (a)(6) that provides for one “statement,” much like Supreme Court Rule 24.1(g) (which requires “[a] concise statement of the case, setting out the facts material to the consideration of the questions presented, with appropriate references to the joint appendix. . . .”). This permits but does not require the lawyer to present the factual and procedural history chronologically. Conforming changes are made by renumbering Rules 28(a)(8) through (11) as Rules 28(a)(7) through (10).
+
+The statement of the case should describe the nature of the case, which includes (1) the facts relevant to the issues submitted for review; (2) those aspects of the case's procedural history that are necessary to understand the posture of the appeal or are relevant to the issues submitted for review; and (3) the rulings presented for review. The statement should be concise, and can include subheadings, particularly for the purpose of highlighting the rulings presented for review.
+
+*Subdivision (b).* Rule 28(b) is amended to accord with the amendment to Rule 28(a). Current Rules 28(b)(3) and (4) are consolidated into new Rule 28(b)(3), which refers to “the statement of the case.” Rule 28(b)(5) becomes Rule 28(b)(4). And Rule 28(b)'s reference to certain subdivisions of Rule 28(a) is updated to reflect the renumbering of those subdivisions.
+
+*Changes Made After Publication and Comment.* After publication and comment, the Committee made one change to the text of the proposal and two changes to the Committee Note.
+
+During the comment period, concerns were raised that the deletion of current Rule 28(a)(6)'s reference to “the nature of the case, the course of proceedings, and the disposition below” might lead readers to conclude that those items may no longer be included in the statement of the case. The Committee rejected that concern with respect to the “nature of the case” and the “disposition below,” because the Rule as published would naturally be read to permit continued inclusion of those items in the statement of the case. The Committee adhered to its view that the deletion of “course of proceedings” is useful because that phrase tends to elicit unnecessary detail; but to address the commenters’ concerns, the Committee added, to the revised Rule text, the phrase “describing the relevant procedural history.”
+
+The Committee augmented the Note to Rule 28(a) in two respects. It added a reference to Supreme Court Rule 24.1(g), upon which the proposed revision to Rule 28(a)(6) is modeled. And it added—as a second paragraph in the Note—a discussion of the contents of the statement of the case.
+
 ### Rule 28.1. Cross-Appeals ###
 
 (a) Applicability. This rule applies to a case in which a cross-appeal is filed. Rules 28(a)–(c), 31(a)(1), 32(a)(2), and 32(a)(7)(A)–(B) do not apply to such a case, except as otherwise provided in this rule.
@@ -2560,21 +2596,19 @@ As amended, Rule 28(j) continues to require parties to state the reasons for sup
 
 (1) *Appellant's Principal Brief.* The appellant must file a principal brief in the appeal. That brief must comply with Rule 28(a).
 
-(2) *Appellee's Principal and Response Brief.* The appellee must file a principal brief in the cross-appeal and must, in the same brief, respond to the principal brief in the appeal. That appellee's brief must comply with Rule 28(a), except that the brief need not include a statement of the case or a statement of the facts unless the appellee is dissatisfied with the appellant's statement.
+(2) *Appellee's Principal and Response Brief.* The appellee must file a principal brief in the cross-appeal and must, in the same brief, respond to the principal brief in the appeal. That appellee's brief must comply with Rule 28(a), except that the brief need not include a statement of the case unless the appellee is dissatisfied with the appellant's statement.
 
-(3) *Appellant's Response and Reply Brief.* The appellant must file a brief that responds to the principal brief in the cross-appeal and may, in the same brief, reply to the response in the appeal. That brief must comply with Rule 28(a)(2)–(9) and (11), except that none of the following need appear unless the appellant is dissatisfied with the appellee's statement in the cross-appeal:
+(3) *Appellant's Response and Reply Brief.* The appellant must file a brief that responds to the principal brief in the cross-appeal and may, in the same brief, reply to the response in the appeal. That brief must comply with Rule 28(a)(2)–(8) and (10), except that none of the following need appear unless the appellant is dissatisfied with the appellee's statement in the cross-appeal:
 
 (A) the jurisdictional statement;
 
 (B) the statement of the issues;
 
-(C) the statement of the case;
+(C) the statement of the case; and
 
-(D) the statement of the facts; and
+(D) the statement of the standard of review.
 
-(E) the statement of the standard of review.
-
-(4) *Appellee's Reply Brief.* The appellee may file a brief in reply to the response in the cross-appeal. That brief must comply with Rule 28(a)(2)–(3) and (11) and must be limited to the issues presented by the cross-appeal.
+(4) *Appellee's Reply Brief.* The appellee may file a brief in reply to the response in the cross-appeal. That brief must comply with Rule 28(a)(2)–(3) and (10) and must be limited to the issues presented by the cross-appeal.
 
 (5) *No Further Briefs.* Unless the court permits, no further briefs may be filed in a case involving a cross-appeal.
 
@@ -2612,7 +2646,7 @@ As amended, Rule 28(j) continues to require parties to state the reasons for sup
 
 (4) the appellee's reply brief, within 14 days after the appellant's response and reply brief is served, but at least 7 days before argument unless the court, for good cause, allows a later filing.
 
-(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Committee Notes on Rules—2005 ####
 
@@ -2645,6 +2679,12 @@ The fourth brief is the “appellee's reply brief.” Like a reply brief in a ca
 #### Committee Notes on Rules—2009 Amendment ####
 
 *Subdivision (f)(4).* Subdivision (f)(4) formerly required that the appellee's reply brief be served “at least 3 days before argument unless the court, for good cause, allows a later filing.” Under former Rule 26(a), “3 days” could mean as many as 5 or even 6 days. See the Note to Rule 26. Under revised Rule 26(a), intermediate weekends and holidays are counted. Changing “3 days” to “7 days” alters the period accordingly. Under revised Rule 26(a), when a period ends on a weekend or holiday, one must continue to count in the same direction until the next day that is not a weekend or holiday; the choice of the 7-day period for subdivision (f)(4) will minimize such occurrences.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+*Subdivision (c).* Subdivision (c) is amended to accord with the amendments to Rule 28(a). Rule 28(a) is amended to consolidate subdivisions (a)(6) and (a)(7) into a new subdivision (a)(6) that provides for one “statement of the case setting out the facts relevant to the issues submitted for review, describing the relevant procedural history, and identifying the rulings presented for review. . . .” Rule 28.1(c) is amended to refer to that consolidated “statement of the case,” and references to subdivisions of Rule 28(a) are revised to reflect the re-numbering of those subdivisions.
+
+*Changes Made After Publication and Comment.* No changes were made to the text of the proposed amendment to Rule 28.1 after publication and comment. The Committee revised a quotation in the Committee Note to Rule 28.1(c) to conform to the changes (described above) to the text of proposed Rule 28(a)(6).
 
 ### Rule 29. Brief of an Amicus Curiae ###
 
@@ -3941,13 +3981,17 @@ Respondent
 
 (As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003.)
 
-#### Form 4 ####
+### Form 4. Affidavit Accompanying Motion for Permission to Appeal In Forma Pauperis ###
 
-<img src="http://uscode.house.gov/images/uscprelim/28AApf4p1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p2.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p3.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p4.gif" width="700" />
+<img src="http://uscode.house.gov/images/uscprelim/28AApf4p1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p2.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p3.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p4.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p5.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p6.gif" width="700" />
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Committee Notes on Rules—2010 Amendment ####
+
+*Changes Made After Publication and Comment.* No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2013 Amendment ####
 
 *Changes Made After Publication and Comment.* No changes were made after publication and comment.
 
@@ -3990,13 +4034,13 @@ Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to January 15, 2013)
+(As amended to January 2, 2014)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -10203,9 +10247,9 @@ The final sentence of the first paragraph of former Rule 36(a) was a redundant c
 
 (b) Failure to Comply with a Court Order.
 
-(1) *Sanctions in the District Where the Deposition Is Taken.* If the court where the discovery is taken orders a deponent to be sworn or to answer a question and the deponent fails to obey, the failure may be treated as contempt of court.
+(1) *Sanctions Sought in the District Where the Deposition Is Taken.* If the court where the discovery is taken orders a deponent to be sworn or to answer a question and the deponent fails to obey, the failure may be treated as contempt of court. If a deposition-related motion is transferred to the court where the action is pending, and that court orders a deponent to be sworn or to answer a question and the deponent fails to obey, the failure may be treated as contempt of either the court where the discovery is taken or the court where the action is pending.
 
-(2) *Sanctions in the District Where the Action Is Pending.*
+(2) *Sanctions Sought in the District Where the Action Is Pending.*
 
 (A) *For Not Obeying a Discovery Order.* If a party or a party's officer, director, or managing agent—or a witness designated under Rule 30(b)(6) or 31(a)(4)—fails to obey an order to provide or permit discovery, including an order under Rule 26(f), 35, or 37(a), the court where the action is pending may issue further just orders. They may include the following:
 
@@ -10267,7 +10311,7 @@ The final sentence of the first paragraph of former Rule 36(a) was a redundant c
 
 (f) Failure to Participate in Framing a Discovery Plan. If a party or its attorney fails to participate in good faith in developing and submitting a proposed discovery plan as required by Rule 26(f), the court may, after giving an opportunity to be heard, require that party or attorney to pay to any other party the reasonable expenses, including attorney's fees, caused by the failure.
 
-(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 96–481, §205(a), Oct. 21, 1980, 94 Stat. 2330, eff. Oct. 1, 1981; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 96–481, §205(a), Oct. 21, 1980, 94 Stat. 2330, eff. Oct. 1, 1981; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -10418,6 +10462,12 @@ The changes from the published version of the proposed rule text are set out bel
 The language of Rule 37 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 *Changes Made After Publication and Comment*. See Note to Rule 1, supra.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+Rule 37(b) is amended to conform to amendments made to Rule 45, particularly the addition of Rule 45(f) providing for transfer of a subpoena-related motion to the court where the action is pending. A second sentence is added to Rule 37(b)(1) to deal with contempt of orders entered after such a transfer. The Rule 45(f) transfer provision is explained in the Committee Note to Rule 45.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 #### Amendment by Public Law ####
 
@@ -10989,91 +11039,91 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (i) state the court from which it issued;
 
-(ii) state the title of the action, the court in which it is pending, and its civil-action number;
+(ii) state the title of the action and its civil-action number;
 
 (iii) command each person to whom it is directed to do the following at a specified time and place: attend and testify; produce designated documents, electronically stored information, or tangible things in that person's possession, custody, or control; or permit the inspection of premises; and
 
-(iv) set out the text of Rule 45(c) and (d).
+(iv) set out the text of Rule 45(d) and (e).
 
 (B) *Command to Attend a Deposition—Notice of the Recording Method.* A subpoena commanding attendance at a deposition must state the method for recording the testimony.
 
 (C) *Combining or Separating a Command to Produce or to Permit Inspection; Specifying the Form for Electronically Stored Information.* A command to produce documents, electronically stored information, or tangible things or to permit the inspection of premises may be included in a subpoena commanding attendance at a deposition, hearing, or trial, or may be set out in a separate subpoena. A subpoena may specify the form or forms in which electronically stored information is to be produced.
 
-(D) *Command to Produce; Included Obligations.* A command in a subpoena to produce documents, electronically stored information, or tangible things requires the responding party to permit inspection, copying, testing, or sampling of the materials.
+(D) *Command to Produce; Included Obligations.* A command in a subpoena to produce documents, electronically stored information, or tangible things requires the responding person to permit inspection, copying, testing, or sampling of the materials.
 
-(2) *Issued from Which Court.* A subpoena must issue as follows:
+(2) *Issuing Court.* A subpoena must issue from the court where the action is pending.
 
-(A) for attendance at a hearing or trial, from the court for the district where the hearing or trial is to be held;
+(3) *Issued by Whom.* The clerk must issue a subpoena, signed but otherwise in blank, to a party who requests it. That party must complete it before service. An attorney also may issue and sign a subpoena if the attorney is authorized to practice in the issuing court.
 
-(B) for attendance at a deposition, from the court for the district where the deposition is to be taken; and
-
-(C) for production or inspection, if separate from a subpoena commanding a person's attendance, from the court for the district where the production or inspection is to be made.
-
-(3) *Issued by Whom.* The clerk must issue a subpoena, signed but otherwise in blank, to a party who requests it. That party must complete it before service. An attorney also may issue and sign a subpoena as an officer of:
-
-(A) a court in which the attorney is authorized to practice; or
-
-(B) a court for a district where a deposition is to be taken or production is to be made, if the attorney is authorized to practice in the court where the action is pending.
+(4) *Notice to Other Parties Before Service.* If the subpoena commands the production of documents, electronically stored information, or tangible things or the inspection of premises before trial, then before it is served on the person to whom it is directed, a notice and a copy of the subpoena must be served on each party.
 
 (b) Service.
 
-(1) *By Whom; Tendering Fees; Serving a Copy of Certain Subpoenas.* Any person who is at least 18 years old and not a party may serve a subpoena. Serving a subpoena requires delivering a copy to the named person and, if the subpoena requires that person's attendance, tendering the fees for 1 day's attendance and the mileage allowed by law. Fees and mileage need not be tendered when the subpoena issues on behalf of the United States or any of its officers or agencies. If the subpoena commands the production of documents, electronically stored information, or tangible things or the inspection of premises before trial, then before it is served, a notice must be served on each party.
+(1) *By Whom and How; Tendering Fees.* Any person who is at least 18 years old and not a party may serve a subpoena. Serving a subpoena requires delivering a copy to the named person and, if the subpoena requires that person's attendance, tendering the fees for 1 day's attendance and the mileage allowed by law. Fees and mileage need not be tendered when the subpoena issues on behalf of the United States or any of its officers or agencies.
 
-(2) *Service in the United States.* Subject to Rule 45(c)(3)(A)(ii), a subpoena may be served at any place:
+(2) *Service in the United States.* A subpoena may be served at any place within the United States.
 
-(A) within the district of the issuing court;
-
-(B) outside that district but within 100 miles of the place specified for the deposition, hearing, trial, production, or inspection;
-
-(C) within the state of the issuing court if a state statute or court rule allows service at that place of a subpoena issued by a state court of general jurisdiction sitting in the place specified for the deposition, hearing, trial, production, or inspection; or
-
-(D) that the court authorizes on motion and for good cause, if a federal statute so provides.
-
-(3) *Service in a Foreign Country.* 28 U.S.C. §1783 governs issuing and serving a subpoena directed to a United States national or resident who is in a foreign country.
+(3) *Service in a Foreign Country.* 28 U.S.C. §1783 governs issuing and serving a subpoena directed to a United States national or resident who is in a foreign country.
 
 (4) *Proof of Service.* Proving service, when necessary, requires filing with the issuing court a statement showing the date and manner of service and the names of the persons served. The statement must be certified by the server.
 
-(c) Protecting a Person Subject to a Subpoena.
+(c) Place of Compliance.
 
-(1) *Avoiding Undue Burden or Expense; Sanctions.* A party or attorney responsible for issuing and serving a subpoena must take reasonable steps to avoid imposing undue burden or expense on a person subject to the subpoena. The issuing court must enforce this duty and impose an appropriate sanction—which may include lost earnings and reasonable attorney's fees—on a party or attorney who fails to comply.
+(1)*For a Trial, Hearing, or Deposition.* A subpoena may command a person to attend a trial, hearing, or deposition only as follows:
+
+(A) within 100 miles of where the person resides, is employed, or regularly transacts business in person; or
+
+(B) within the state where the person resides, is employed, or regularly transacts business in person, if the person
+
+(i) is a party or a party's officer; or
+
+(ii) is commanded to attend a trial and would not incur substantial expense.
+
+(2) *For Other Discovery.* A subpoena may command:
+
+(A) production of documents, electronically stored information, or tangible things at a place within 100 miles of where the person resides, is employed, or regularly transacts business in person; and
+
+(B) inspection of premises at the premises to be inspected.
+
+(d) Protecting a Person Subject to a Subpoena; Enforcement.
+
+(1) *Avoiding Undue Burden or Expense; Sanctions.* A party or attorney responsible for issuing and serving a subpoena must take reasonable steps to avoid imposing undue burden or expense on a person subject to the subpoena. The court for the district where compliance is required must enforce this duty and impose an appropriate sanction—which may include lost earnings and reasonable attorney's fees—on a party or attorney who fails to comply.
 
 (2) *Command to Produce Materials or Permit Inspection.*
 
 (A) *Appearance Not Required.* A person commanded to produce documents, electronically stored information, or tangible things, or to permit the inspection of premises, need not appear in person at the place of production or inspection unless also commanded to appear for a deposition, hearing, or trial.
 
-(B) *Objections.* A person commanded to produce documents or tangible things or to permit inspection may serve on the party or attorney designated in the subpoena a written objection to inspecting, copying, testing or sampling any or all of the materials or to inspecting the premises—or to producing electronically stored information in the form or forms requested. The objection must be served before the earlier of the time specified for compliance or 14 days after the subpoena is served. If an objection is made, the following rules apply:
+(B) *Objections.* A person commanded to produce documents or tangible things or to permit inspection may serve on the party or attorney designated in the subpoena a written objection to inspecting, copying, testing, or sampling any or all of the materials or to inspecting the premises—or to producing electronically stored information in the form or forms requested. The objection must be served before the earlier of the time specified for compliance or 14 days after the subpoena is served. If an objection is made, the following rules apply:
 
-(i) At any time, on notice to the commanded person, the serving party may move the issuing court for an order compelling production or inspection.
+(i)	At any time, on notice to the commanded person, the serving party may move the court for the district where compliance is required for an order compelling production or inspection.
 
 (ii) These acts may be required only as directed in the order, and the order must protect a person who is neither a party nor a party's officer from significant expense resulting from compliance.
 
 (3) *Quashing or Modifying a Subpoena.*
 
-(A) *When Required.* On timely motion, the issuing court must quash or modify a subpoena that:
+(A) *When Required.* On timely motion, the court for the district where compliance is required must quash or modify a subpoena that:
 
 (i) fails to allow a reasonable time to comply;
 
-(ii) requires a person who is neither a party nor a party's officer to travel more than 100 miles from where that person resides, is employed, or regularly transacts business in person—except that, subject to Rule 45(c)(3)(B)(iii), the person may be commanded to attend a trial by traveling from any such place within the state where the trial is held;
+(ii) requires a person to comply beyond the geographical limits specified in Rule 45(c);
 
 (iii) requires disclosure of privileged or other protected matter, if no exception or waiver applies; or
 
 (iv) subjects a person to undue burden.
 
-(B) *When Permitted.* To protect a person subject to or affected by a subpoena, the issuing court may, on motion, quash or modify the subpoena if it requires:
+(B) *When Permitted.* To protect a person subject to or affected by a subpoena, the court for the district where compliance is required may, on motion, quash or modify the subpoena if it requires:
 
-(i) disclosing a trade secret or other confidential research, development, or commercial information;
+(i) disclosing a trade secret or other confidential research, development, or commercial information; or
 
-(ii) disclosing an unretained expert's opinion or information that does not describe specific occurrences in dispute and results from the expert's study that was not requested by a party; or
+(ii) disclosing an unretained expert's opinion or information that does not describe specific occurrences in dispute and results from the expert's study that was not requested by a party.
 
-(iii) a person who is neither a party nor a party's officer to incur substantial expense to travel more than 100 miles to attend trial.
-
-(C) *Specifying Conditions as an Alternative.* In the circumstances described in Rule 45(c)(3)(B), the court may, instead of quashing or modifying a subpoena, order appearance or production under specified conditions if the serving party:
+(C) *Specifying Conditions as an Alternative.* In the circumstances described in Rule 45(d)(3)(B), the court may, instead of quashing or modifying a subpoena, order appearance or production under specified conditions if the serving party:
 
 (i) shows a substantial need for the testimony or material that cannot be otherwise met without undue hardship; and
 
-(ii) ensures that the subpoenaed person will be reasonably compensated.
+(ii)	ensures that the subpoenaed person will be reasonably compensated.
 
-(d) Duties in Responding to a Subpoena.
+(e) Duties in Responding to a Subpoena.
 
 (1) *Producing Documents or Electronically Stored Information.* These procedures apply to producing documents or electronically stored information:
 
@@ -11093,11 +11143,13 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (ii) describe the nature of the withheld documents, communications, or tangible things in a manner that, without revealing information itself privileged or protected, will enable the parties to assess the claim.
 
-(B) *Information Produced.* If information produced in response to a subpoena is subject to a claim of privilege or of protection as trial-preparation material, the person making the claim may notify any party that received the information of the claim and the basis for it. After being notified, a party must promptly return, sequester, or destroy the specified information and any copies it has; must not use or disclose the information until the claim is resolved; must take reasonable steps to retrieve the information if the party disclosed it before being notified; and may promptly present the information to the court under seal for a determination of the claim. The person who produced the information must preserve the information until the claim is resolved.
+(B) *Information Produced.* If information produced in response to a subpoena is subject to a claim of privilege or of protection as trial-preparation material, the person making the claim may notify any party that received the information of the claim and the basis for it. After being notified, a party must promptly return, sequester, or destroy the specified information and any copies it has; must not use or disclose the information until the claim is resolved; must take reasonable steps to retrieve the information if the party disclosed it before being notified; and may promptly present the information under seal to the court for the district where compliance is required for a determination of the claim. The person who produced the information must preserve the information until the claim is resolved.
 
-(e) Contempt. The issuing court may hold in contempt a person who, having been served, fails without adequate excuse to obey the subpoena. A nonparty's failure to obey must be excused if the subpoena purports to require the nonparty to attend or produce at a place outside the limits of Rule 45(c)(3)(A)(ii).
+(f) Transferring a Subpoena-Related Motion. When the court where compliance is required did not issue the subpoena, it may transfer a motion under this rule to the issuing court if the person subject to the subpoena consents or if the court finds exceptional circumstances. Then, if the attorney for a person subject to a subpoena is authorized to practice in the court where the motion was made, the attorney may file papers and appear on the motion as an officer of the issuing court. To enforce its order, the issuing court may transfer the order to the court where the motion was made.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(g) Contempt. The court for the district where compliance is required—and also, after a motion is transferred, the issuing court—may hold in contempt a person who, having been served, fails without adequate excuse to obey the subpoena or an order related to it.
+
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -11326,6 +11378,58 @@ Former Rule 45(b)(1) required “prior notice” to each party of any commanded 
 The language of former Rule 45(d)(2) addressing the manner of asserting privilege is replaced by adopting the wording of Rule 26(b)(5). The same meaning is better expressed in the same words.
 
 *Changes Made After Publication and Comment*. See Note to Rule 1, supra.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+Rule 45 was extensively amended in 1991. The goal of the present amendments is to clarify and simplify the rule. The amendments recognize the court where the action is pending as the issuing court, permit nationwide service of a subpoena, and collect in a new subdivision (c) the previously scattered provisions regarding place of compliance. These changes resolve a conflict that arose after the 1991 amendment about a court's authority to compel a party or party officer to travel long distances to testify at trial; such testimony may now be required only as specified in new Rule 45(c). In addition, the amendments introduce authority in new Rule 45(f) for the court where compliance is required to transfer a subpoena-related motion to the court where the action is pending on consent of the person subject to the subpoena or in exceptional circumstances.
+
+*Subdivision (a)*. This subdivision is amended to provide that a subpoena issues from the court where the action is pending. Subdivision (a)(3) specifies that an attorney authorized to practice in that court may issue a subpoena, which is consistent with current practice.
+
+In Rule 45(a)(1)(D), “person” is substituted for “party” because the subpoena may be directed to a nonparty.
+
+Rule 45(a)(4) is added to highlight and slightly modify a notice requirement first included in the rule in 1991. Under the 1991 amendments, Rule 45(b)(1) required prior notice of the service of a “documents only” subpoena to the other parties. Rule 45(b)(1) was clarified in 2007 to specify that this notice must be served before the subpoena is served on the witness.
+
+The Committee has been informed that parties serving subpoenas frequently fail to give the required notice to the other parties. The amendment moves the notice requirement to a new provision in Rule 45(a) and requires that the notice include a copy of the subpoena. The amendments are intended to achieve the original purpose of enabling the other parties to object or to serve a subpoena for additional materials.
+
+Parties desiring access to information produced in response to the subpoena will need to follow up with the party serving it or the person served to obtain such access. The rule does not limit the court's authority to order notice of receipt of produced materials or access to them. The party serving the subpoena should in any event make reasonable provision for prompt access.
+
+*Subdivision (b)*. The former notice requirement in Rule 45(b)(1) has been moved to new Rule 45(a)(4).
+
+Rule 45(b)(2) is amended to provide that a subpoena may be served at any place within the United States, removing the complexities prescribed in prior versions.
+
+*Subdivision (c)*. Subdivision (c) is new. It collects the various provisions on where compliance can be required and simplifies them. Unlike the prior rule, place of service is not critical to place of compliance. Although Rule 45(a)(1)(A)(iii) permits the subpoena to direct a place of compliance, that place must be selected under Rule 45(c).
+
+Rule 45(c)(1) addresses a subpoena to testify at a trial, hearing, or deposition. Rule 45(c)(1)(A) provides that compliance may be required within 100 miles of where the person subject to the subpoena resides, is employed, or regularly conducts business in person. For parties and party officers, Rule 45(c)(1)(B)(i) provides that compliance may be required anywhere in the state where the person resides, is employed, or regularly conducts business in person. When an order under Rule 43(a) authorizes testimony from a remote location, the witness can be commanded to testify from any place described in Rule 45(c)(1).
+
+Under Rule 45(c)(1)(B)(ii), nonparty witnesses can be required to travel more than 100 miles within the state where they reside, are employed, or regularly transact business in person only if they would not, as a result, incur “substantial expense.” When travel over 100 miles could impose substantial expense on the witness, the party that served the subpoena may pay that expense and the court can condition enforcement of the subpoena on such payment.
+
+Because Rule 45(c) directs that compliance may be commanded only as it provides, these amendments resolve a split in interpreting Rule 45's provisions for subpoenaing parties and party officers. *Compare In re Vioxx Products Liability Litigation*, 438 F. Supp. 2d 664 (E.D. La. 2006) (finding authority to compel a party officer from New Jersey to testify at trial in New Orleans), with *Johnson v. Big Lots Stores, Inc.*, 251 F.R.D. 213 (E.D. La. 2008) (holding that Rule 45 did not require attendance of plaintiffs at trial in New Orleans when they would have to travel more than 100 miles from outside the state). Rule 45(c)(1)(A) does not authorize a subpoena for trial to require a party or party officer to travel more than 100 miles unless the party or party officer resides, is employed, or regularly transacts business in person in the state.
+
+Depositions of parties, and officers, directors, and managing agents of parties need not involve use of a subpoena. Under Rule 37(d)(1)(A)(i), failure of such a witness whose deposition was properly noticed to appear for the deposition can lead to Rule 37(b) sanctions (including dismissal or default but not contempt) without regard to service of a subpoena and without regard to the geographical limitations on compliance with a subpoena. These amendments do not change that existing law; the courts retain their authority to control the place of party depositions and impose sanctions for failure to appear under Rule 37(b).
+
+For other discovery, Rule 45(c)(2) directs that inspection of premises occur at those premises, and that production of documents, tangible things, and electronically stored information may be commanded to occur at a place within 100 miles of where the person subject to the subpoena resides, is employed, or regularly conducts business in person. Under the current rule, parties often agree that production, particularly of electronically stored information, be transmitted by electronic means. Such arrangements facilitate discovery, and nothing in these amendments limits the ability of parties to make such arrangements.
+
+Rule 45(d)(3)(A)(ii) directs the court to quash any subpoena that purports to compel compliance beyond the geographical limits specified in Rule 45(c).
+
+*Subdivision (d)*. Subdivision (d) contains the provisions formerly in subdivision (c). It is revised to recognize the court where the action is pending as the issuing court, and to take account of the addition of Rule 45(c) to specify where compliance with a subpoena is required.
+
+*Subdivision (f)*. Subdivision (f) is new. Under Rules 45(d)(2)(B), 45(d)(3), and 45(e)(2)(B), subpoena-related motions and applications are to be made to the court where compliance is required under Rule 45(c). Rule 45(f) provides authority for that court to transfer the motion to the court where the action is pending. It applies to all motions under this rule, including an application under Rule 45(e)(2)(B) for a privilege determination.
+
+Subpoenas are essential to obtain discovery from nonparties. To protect local nonparties, local resolution of disputes about subpoenas is assured by the limitations of Rule 45(c) and the requirements in Rules 45(d) and (e) that motions be made in the court in which compliance is required under Rule 45(c). But transfer to the court where the action is pending is sometimes warranted. If the person subject to the subpoena consents to transfer, Rule 45(f) provides that the court where compliance is required may do so.
+
+In the absence of consent, the court may transfer in exceptional circumstances, and the proponent of transfer bears the burden of showing that such circumstances are present. The prime concern should be avoiding burdens on local nonparties subject to subpoenas, and it should not be assumed that the issuing court is in a superior position to resolve subpoena-related motions. In some circumstances, however, transfer may be warranted in order to avoid disrupting the issuing court's management of the underlying litigation, as when that court has already ruled on issues presented by the motion or the same issues are likely to arise in discovery in many districts. Transfer is appropriate only if such interests outweigh the interests of the nonparty served with the subpoena in obtaining local resolution of the motion. Judges in compliance districts may find it helpful to consult with the judge in the issuing court presiding over the underlying case while addressing subpoena-related motions.
+
+If the motion is transferred, judges are encouraged to permit telecommunications methods to minimize the burden a transfer imposes on nonparties, if it is necessary for attorneys admitted in the court where the motion is made to appear in the court in which the action is pending. The rule provides that if these attorneys are authorized to practice in the court where the motion is made, they may file papers and appear in the court in which the action is pending in relation to the motion as officers of that court.
+
+After transfer, the court where the action is pending will decide the motion. If the court rules that discovery is not justified, that should end the matter. If the court orders further discovery, it is possible that retransfer may be important to enforce the order. One consequence of failure to obey such an order is contempt, addressed in Rule 45(g). Rule 45(g) and Rule 37(b)(1) are both amended to provide that disobedience of an order enforcing a subpoena after transfer is contempt of the issuing court and the court where compliance is required under Rule 45(c). In some instances, however, there may be a question about whether the issuing court can impose contempt sanctions on a distant nonparty. If such circumstances arise, or if it is better to supervise compliance in the court where compliance is required, the rule provides authority for retransfer for enforcement. Although changed circumstances may prompt a modification of such an order, it is not expected that the compliance court will reexamine the resolution of the underlying motion.
+
+*Subdivision (g)*. Subdivision (g) carries forward the authority of former subdivision (e) to punish disobedience of subpoenas as contempt. It is amended to make clear that, in the event of transfer of a subpoena-related motion, such disobedience constitutes contempt of both the court where compliance is required under Rule 45(c) and the court where the action is pending. If necessary for effective enforcement, Rule 45(f) authorizes the issuing court to transfer its order after the motion is resolved.
+
+The rule is also amended to clarify that contempt sanctions may be applied to a person who disobeys a subpoena-related order, as well as one who fails entirely to obey a subpoena. In civil litigation, it would be rare for a court to use contempt sanctions without first ordering compliance with a subpoena, and the order might not require all the compliance sought by the subpoena. Often contempt proceedings will be initiated by an order to show cause, and an order to comply or be held in contempt may modify the subpoena's command. Disobedience of such an order may be treated as contempt.
+
+The second sentence of former subdivision (e) is deleted as unnecessary.
+
+*Changes Made After Publication and Comment*. As described in the Report, the published preliminary draft was modified in several ways after the public comment period. The words “before trial” were restored to the notice provision that was moved to new Rule 45(a)(4). The place of compliance in new Rule 45(c)(2)(A) was changed to a place “within 100 miles of where the person resides, is employed or regularly conducts business.” In new Rule 45(f), the party consent feature was removed, meaning consent of the person subject to the subpoena is sufficient to permit transfer to the issuing court. In addition, style changes were made after consultation with the Standing Committee's Style Consultant. In the Committee Note, clarifications were made in response to points raised during the public comment period.
 
 ### Rule 46. Objecting to a Ruling or Order ###
 
@@ -13365,7 +13469,7 @@ The former 10-day periods are extended to 14 days to reflect the change in the R
 
 (2) *Obtaining Discovery.* In aid of the judgment or execution, the judgment creditor or a successor in interest whose interest appears of record may obtain discovery from any person—including the judgment debtor—as provided in these rules or by the procedure of the state where the court is located.
 
-(b) Against Certain Public Officers. When a judgment has been entered against a revenue officer in the circumstances stated in 28 U.S.C. §2006, or against an officer of Congress in the circumstances stated in 2 U.S.C. §118, the judgment must be satisfied as those statutes provide.
+(b) Against Certain Public Officers. When a judgment has been entered against a revenue officer in the circumstances stated in 28 U.S.C. §2006, or against an officer of Congress in the circumstances stated in 2 U.S.C. §118 <sup><a href="#Rule_69_1_target" name="Rule_69_1">1</a></sup>, the judgment must be satisfied as those statutes provide.
 
 (As amended Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007.)
 
@@ -13504,6 +13608,12 @@ The amendments are technical. No substantive change is intended.
 The language of Rule 69 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 Amended Rule 69(b) incorporates directly the provisions of 2 U.S.C. §118 and 28 U.S.C. §2006, deleting the incomplete statement in former Rule 69(b) of the circumstances in which execution does not issue against an officer.
+
+#### References in Text ####
+
+2 U.S.C. §118, referred to in subd. (b), was editorially reclassified as 2 U.S.C. 5503.
+
+[<sup>1</sup> See References in Text note below.](#Rule_69_1)
 
 ### Rule 70. Enforcing a Judgment for a Specific Act ###
 
@@ -15876,7 +15986,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to January 15, 2013)
+(As amended to January 2, 2014)
 
 #### Effective Date and Application of Rules ####
 
@@ -15886,7 +15996,7 @@ Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1926, provided: “That the follow
 
 The Federal Rules of Evidence were adopted by order of the Supreme Court on Nov. 20, 1972, transmitted to Congress by the Chief Justice on Feb. 5, 1973, and to have become effective on July 1, 1973. Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided that the proposed rules “shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by Act of Congress”. Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1926, enacted the Federal Rules of Evidence proposed by the Supreme Court, with amendments made by Congress, to take effect on July 1, 1975.
 
-The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011.
+The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013.
 
 #### ARTICLE I. GENERAL PROVISIONS ####
 
@@ -18740,11 +18850,15 @@ If admitted, the record may be read into evidence but may be received as an exhi
 
 (9) *Public Records of Vital Statistics.* A record of a birth, death, or marriage, if reported to a public office in accordance with a legal duty.
 
-(10) *Absence of a Public Record.* Testimony—or a certification under Rule 902—that a diligent search failed to disclose a public record or statement if the testimony or certification is admitted to prove that:
+(10) *Absence of a Public Record.* Testimony—or a certification under Rule 902—that a diligent search failed to disclose a public record or statement if:
 
-(A) the record or statement does not exist; or
+(A) the testimony or certification is admitted to prove that
 
-(B) a matter did not occur or exist, if a public office regularly kept a record or statement for a matter of that kind.
+(i) the record or statement does not exist; or
+
+(ii) a matter did not occur or exist, if a public office regularly kept a record or statement for a matter of that kind; and
+
+(B) in a criminal case, a prosecutor who intends to offer a certification provides written notice of that intent at least 14 days before trial, and the defendant does not object in writing within 7 days of receiving the notice—unless the court sets a different time for the notice or the objection.
 
 (11) *Records of Religious Organizations Concerning Personal or Family History.* A statement of birth, legitimacy, ancestry, marriage, divorce, death, relationship by blood or marriage, or similar facts of personal or family history, contained in a regularly kept record of a religious organization.
 
@@ -18806,7 +18920,7 @@ The pendency of an appeal may be shown but does not affect admissibility.
 
 (24) [*Other Exceptions.*] [Transferred to Rule 807.]
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1939; Pub. L. 94–149, §1(11), Dec. 12, 1975, 89 Stat. 805; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1939; Pub. L. 94–149, §1(11), Dec. 12, 1975, 89 Stat. 805; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -19067,6 +19181,12 @@ The amendment provides that the foundation requirements of Rule 803(6) can be sa
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 803 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+Rule 803(10) has been amended in response to *Melendez-Diaz v. Massachusetts,* 557 U.S. 305 (2009). The *Melendez-Diaz* Court declared that a testimonial certificate could be admitted if the accused is given advance notice and does not timely demand the presence of the official who prepared the certificate. The amendment incorporates, with minor variations, a “notice-and-demand” procedure that was approved by the *Melendez-Diaz* Court. *See* Tex. Code Crim. P. Ann., art. 38.41.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 #### Amendment by Public Law ####
 

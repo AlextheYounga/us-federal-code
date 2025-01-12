@@ -9,9 +9,9 @@ Unlawful Possession or Receipt of Firearms (Repealed) 809
 
 Interstate Agreement on Detainers (Pub. L. 91–538) 810
 
-Classified Information Procedures Act (Pub. L. 96–456) 814
+Classified Information Procedures Act (Pub. L. 96–456)
 
-Federal Rules of Criminal Procedure 822
+Federal Rules of Criminal Procedure
 
 UNLAWFUL POSSESSION OR RECEIPT OF FIREARMS
 ==========
@@ -495,13 +495,13 @@ That this Act may be cited as the “Classified Information Procedures Act”.
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to January 15, 2013)
+(As amended to January 2, 2014)
 
 #### Historical Note ####
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013.
 
 #### TITLE I. APPLICABILITY ####
 
@@ -1497,7 +1497,7 @@ The times set in the former rule at 10 or 20 days have been revised to 14 or 21 
 
 (C) An attorney for the government may disclose any grand-jury matter to another federal grand jury.
 
-(D) An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. §401a),<sup><a href="#Rule_6_1_target" name="Rule_6_1">1</a></sup> or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official's duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
+(D) An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. §401a <sup><a href="#Rule_6_1_target" name="Rule_6_1">1</a></sup> ), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official's duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
 
 (i) Any official who receives information under Rule 6(e)(3)(D) may use the information only as necessary in the conduct of that person's official duties subject to any limitations on the unauthorized disclosure of such information. Any state, state subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only in a manner consistent with any guidelines issued by the Attorney General and the Director of National Intelligence.
 
@@ -1857,6 +1857,8 @@ Under the amendment, the grand jury (or the foreperson) would appear in a courtr
 
 #### References in Text ####
 
+50 U.S.C. §401a, referred to in subd. (e)(3)(D), was editorially reclassified as 50 U.S.C. 3003.
+
 The Uniform Code of Military Justice, referred to in subd. (e)(3)(E)(v), is classified to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
 
 #### Amendment by Public Law ####
@@ -1941,7 +1943,7 @@ Amendment of this rule by order of the United States Supreme Court on Apr. 26, 1
 
 Amendment of subd. (f) by the order of the United States Supreme Court of Apr. 26, 1976, effective Aug. 1, 1976, see section 1 of Pub. L. 94–349, July 8, 1976, 90 Stat. 822, set out as a note under section 2074 of Title 28, Judiciary and Judicial Procedure.
 
-[<sup>1</sup> Now editorially reclassified 50 U.S.C. 3003.](#Rule_6_1)
+[<sup>1</sup> See References in Text note below.](#Rule_6_1)
 
 ### Rule 7. The Indictment and the Information ###
 
@@ -2293,9 +2295,11 @@ The amendment leaves to the courts the decision first, whether to permit video a
 
 (L) the court's obligation to impose a special assessment;
 
-(M) in determining a sentence, the court's obligation to calculate the applicable sentencing-guideline range and to consider that range, possible departures under the Sentencing Guidelines, and other sentencing factors under 18 U.S.C. §3553(a); and
+(M) in determining a sentence, the court's obligation to calculate the applicable sentencing-guideline range and to consider that range, possible departures under the Sentencing Guidelines, and other sentencing factors under 18 U.S.C. §3553(a);
 
-(N) the terms of any plea-agreement provision waiving the right to appeal or to collaterally attack the sentence.
+(N) the terms of any plea-agreement provision waiving the right to appeal or to collaterally attack the sentence; and
+
+(O) that, if convicted, a defendant who is not a United States citizen may be removed from the United States, denied citizenship, and denied admission to the United States in the future.
 
 (2) *Ensuring That a Plea Is Voluntary.* Before accepting a plea of guilty or nolo contendere, the court must address the defendant personally in open court and determine that the plea is voluntary and did not result from force, threats, or promises (other than promises in a plea agreement).
 
@@ -2347,7 +2351,7 @@ The amendment leaves to the courts the decision first, whether to permit video a
 
 (h) Harmless Error. A variance from the requirements of this rule is harmless error if it does not affect substantial rights.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(5)–(10), July 31, 1975, 89 Stat. 371, 372; Apr. 30, 1979, eff. Aug. 1, 1979, and Dec. 1, 1980; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Pub. L. 100–690, title VII, §7076, Nov. 18, 1988, 102 Stat. 4406; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(5)–(10), July 31, 1975, 89 Stat. 371, 372; Apr. 30, 1979, eff. Aug. 1, 1979, and Dec. 1, 1980; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Pub. L. 100–690, title VII, §7076, Nov. 18, 1988, 102 Stat. 4406; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -2748,6 +2752,16 @@ Finally, revised Rule 11(f), which addresses the issue of admissibility or inadm
 *Subdivision (b)(1)(M)*. The amendment conforms Rule 11 to the Supreme Court's decision in *United States v. Booker*, 543 U.S. 220 (2005). *Booker* held that the provision of the federal sentencing statute that makes the Guidelines mandatory, 18 U.S.C. §3553(b)(1), violates the Sixth Amendment right to jury trial. With this provision severed and excised, the Court held, the Sentencing Reform Act “makes the Guidelines effectively advisory,” and “requires a sentencing court to consider Guidelines ranges, see 18 U.S.C.A. §3553(a)(4) (Supp. 2004), but it permits the court to tailor the sentence in light of other statutory concerns as well, see §3553(a) (Supp. 2004).” *Id*. at 245–46. Rule 11(b)(M) incorporates this analysis into the information provided to the defendant at the time of a plea of guilty or nolo contendere.
 
 *Changes Made to Proposed Amendment Released for Public Comment*. No changes were made to the text of the proposed amendment as released for public comment. One change was made to the Committee note. The reference to the Fifth Amendment was deleted from the description of the Supreme Court's decision in *Booker*.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+*Subdivision (b)(1)(O)*. The amendment requires the court to include a general statement that there may be immigration consequences of conviction in the advice provided to the defendant before the court accepts a plea of guilty or nolo contendere.
+
+For a defendant who is not a citizen of the United States, a criminal conviction may lead to removal, exclusion, and the inability to become a citizen. In *Padilla v. Kentucky*, 130 S.Ct. 1473 (2010), the Supreme Court held that a defense attorney's failure to advise the defendant concerning the risk of deportation fell below the objective standard of reasonable professional assistance guaranteed by the Sixth Amendment.
+
+The amendment mandates a generic warning, not specific advice concerning the defendant's individual situation. Judges in many districts already include a warning about immigration consequences in the plea colloquy, and the amendment adopts this practice as good policy. The Committee concluded that the most effective and efficient method of conveying this information is to provide it to every defendant, without attempting to determine the defendant's citizenship.
+
+*Changes Made After Publication and Comment*. The Committee Note was revised to make it clear that the court is to give a general statement that there may be immigration consequences, not specific advice concerning a defendant's individual situation.
 
 #### References in Text ####
 
@@ -3691,7 +3705,7 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (G) *Expert Witnesses*. At the defendant's request, the government must give to the defendant a written summary of any testimony that the government intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence during its case-in-chief at trial. If the government requests discovery under subdivision (b)(1)(C)(ii) and the defendant complies, the government must, at the defendant's request, give to the defendant a written summary of testimony that the government intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence as evidence at trial on the issue of the defendant's mental condition. The summary provided under this subparagraph must describe the witness's opinions, the bases and reasons for those opinions, and the witness's qualifications.
 
-(2) *Information Not Subject to Disclosure*. Except as Rule 16(a)(1) provides otherwise, this rule does not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by an attorney for the government or other government agent in connection with investigating or prosecuting the case. Nor does this rule authorize the discovery or inspection of statements made by prospective government witnesses except as provided in 18 U.S.C. §3500.
+(2) *Information Not Subject to Disclosure*. Except as permitted by Rule 16(a)(1)(A)–(D), (F), and (G), this rule does not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by an attorney for the government or other government agent in connection with investigating or prosecuting the case. Nor does this rule authorize the discovery or inspection of statements made by prospective government witnesses except as provided in 18 U.S.C. §3500.
 
 (3) *Grand Jury Transcripts*. This rule does not apply to the discovery or inspection of a grand jury's recorded proceedings, except as provided in Rules 6, 12(h), 16(a)(1), and 26.2.
 
@@ -3751,7 +3765,7 @@ This summary must describe the witness's opinions, the bases and reasons for tho
 
 (D) enter any other order that is just under the circumstances.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(20)–(28), July 31, 1975, 89 Stat. 374, 375; Pub. L. 94–149, §5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, §11019(b), Nov. 2, 2002, 117 Stat. 1825.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(20)–(28), July 31, 1975, 89 Stat. 374, 375; Pub. L. 94–149, §5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, §11019(b), Nov. 2, 2002, 117 Stat. 1825; Apr. 16, 2013, eff. Dec. 1, 2013.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -4030,6 +4044,20 @@ Amended Rule 16(b)(1)(B) includes a change that may be substantive in nature. Ru
 In amended Rule 16(d)(1), the last phrase in the current subdivision—which refers to a possible appeal of the court's discovery order—has been deleted. In the Committee's view, no substantive change results from that deletion. The language is unnecessary because the court, regardless of whether there is an appeal, will have maintained the record.
 
 Finally, current Rule 16(e), which addresses the topic of notice of alibi witnesses, has been deleted as being unnecessarily duplicative of Rule 12.1.
+
+#### Committee Notes on Rules—2013 Amendment ####
+
+*Subdivision (a)*. Paragraph (a)(2) is amended to clarify that the 2002 restyling of Rule 16 did not change the protection afforded to government work product.
+
+Prior to restyling in 2002, Rule 16(a)(1)(C) required the government to allow the defendant to inspect and copy “books, papers, [and] documents” material to his defense. Rule 16(a)(2), however, stated that except as provided by certain enumerated subparagraphs—not including Rule 16(a)(1)(C)—Rule 16(a) did not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by the attorney for the government. Reading these two provisions together, the Supreme Court concluded that “a defendant may examine documents material to his defense, but, under Rule 16(a)(2), he may not examine Government work product.” *United States v. Armstrong*, 517 U.S. 456, 463 (1996).
+
+With one exception not relevant here, the 2002 restyling of Rule 16 was intended to work no substantive change. Nevertheless, because restyled Rule 16(a)(2) eliminated the enumerated subparagraphs of its successor and contained no express exception for the materials previously covered by Rule 16(a)(1)(C) (redesignated as subparagraph (a)(1)(E)), some courts have been urged to construe the restyled rule as eliminating protection for government work product.
+
+Courts have uniformly declined to construe the restyling changes to Rule 16(a)(2) to effect a substantive alteration in the scope of protection previously afforded to government work product by that rule. Correctly recognizing that restyling was intended to effect no substantive change, courts have invoked the doctrine of the scrivener's error to excuse confusion caused by the elimination of the enumerated subparagraphs from the restyled rules.*See, e.g.*, *United States v. Rudolph*, 224 F.R.D. 503, 504–11 (N.D. Ala. 2004), and *United States v. Fort*, 472 F.3d 1106, 1110 n.2 (9th Cir. 2007) (adopting the *Rudolph* court's analysis).
+
+By restoring the enumerated subparagraphs, the amendment makes it clear that a defendant's pretrial access to books, papers, and documents under Rule 16(a)(1)(E) remains subject to the limitations imposed by Rule 16(a)(2).
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 #### References in Text ####
 

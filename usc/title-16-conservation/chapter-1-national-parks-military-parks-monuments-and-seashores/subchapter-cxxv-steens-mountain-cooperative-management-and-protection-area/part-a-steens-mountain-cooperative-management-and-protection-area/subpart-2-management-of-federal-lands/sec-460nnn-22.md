@@ -47,3 +47,7 @@ The Secretary shall provide reasonable access to nonfederally owned lands or int
 Nothing in this subchapter shall have the effect of terminating any valid existing right-of-way on Federal lands included in the Cooperative Management and Protection Area.
 
 (Pub. L. 106–399, title I, §112, Oct. 30, 2000, 114 Stat. 1660.)
+
+#### References in Text ####
+
+This subchapter, referred to in subsec. (e)(2), was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.

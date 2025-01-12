@@ -1,9 +1,5 @@
-### §117i. Revolving fund for House gymnasium; deposit of receipts; availability for expenditure ###
-
-There is established in the Treasury a revolving fund for the House of Representatives gymnasium. The Architect of the Capitol shall deposit in the fund such amounts as the Architect may receive as gymnasium dues or assessments from Members of the House of Representatives and other authorized users of the gymnasium. The amounts so deposited shall be available for obligation by the Architect for expenses of the gymnasium.
-
-(Pub. L. 102–392, title I, §106, Oct. 6, 1992, 106 Stat. 1715.)
+### §117i. Transferred ###
 
 #### Codification ####
 
-Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
+Section 117i was editorially reclassified as section 2013 of this title.

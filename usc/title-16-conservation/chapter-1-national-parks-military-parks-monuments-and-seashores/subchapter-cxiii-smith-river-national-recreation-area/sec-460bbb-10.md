@@ -26,4 +26,6 @@ Annually for the first two full fiscal years after November 16, 1990, the Secret
 
 #### References in Text ####
 
+This subchapter, referred to in subsecs. (a) to (d), was in the original “this Act”, meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460bbb of this title and Tables.
+
 Act of May 23, 1908 (chapter 193; 35 Stat. 251; 16 U.S.C. 500), referred to in subsec. (e), probably means act May 23, 1908, ch. 192, 35 Stat. 260, which is classified to section 500 of this title.

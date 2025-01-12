@@ -1396,7 +1396,7 @@ Pub. L. 105–33, title IV, §4031(d), Aug. 5, 1997, 111 Stat. 357, provided tha
 
 “(3) Conforming amendment.—The amendment made by subsection (c) [amending this section] shall be effective as if included in the enactment of the Health Insurance Portability and Accountability Act of 1996 [Pub. L. 104–191].”
 
-Pub. L. 105–33, title IV, §4032(b), Aug. 5, 1997, 111 Stat. 359 provided that:
+Pub. L. 105–33, title IV, §4032(b), Aug. 5, 1997, 111 Stat. 359, provided that:
 
 “(1) In general.—The amendments made by subsection (a) [amending this section] shall take effect the date of the enactment of this Act [Aug. 5, 1997].
 

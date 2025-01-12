@@ -6,4 +6,4 @@ Section 60g–1, acts July 2, 1954, ch. 455, title I, 68 Stat. 401; Aug. 5, 1955
 
 #### Effective Date of Repeal ####
 
-Repeal effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 72a of this title.
+Repeal effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.

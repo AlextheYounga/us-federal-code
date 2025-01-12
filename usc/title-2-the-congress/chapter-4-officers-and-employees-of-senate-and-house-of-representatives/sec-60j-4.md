@@ -1,9 +1,5 @@
-### §60j–4. Longevity compensation not applicable to individuals paid by Secretary of Senate; savings provision ###
-
-Section 60j of this title on or after October 1, 1983 shall not apply to any individual whose pay is disbursed by the Secretary of the Senate; except that, any individual who prior to such date was entitled to longevity compensation under such section on the basis of service performed prior to such date shall continue to be entitled to such compensation, but no individual shall accrue any longevity compensation on the basis of service performed on or after such date.
-
-(Pub. L. 98–51, title I, §107, July 14, 1983, 97 Stat. 267.)
+### §60j–4. Transferred ###
 
 #### Codification ####
 
-Section is from the Congressional Operations Appropriation Act, 1984, which is title I of the Legislative Branch Appropriation Act, 1984.
+Section 60j–4 was editorially reclassified as section 4509 of this title.

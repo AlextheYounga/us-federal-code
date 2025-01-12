@@ -62,8 +62,12 @@ The river segments designated as wild and scenic rivers by the amendments made b
 
 #### References in Text ####
 
+This subchapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460bbb of this title and Tables.
+
 The Wilderness Act (16 U.S.C. 1131 et seq.), referred to in subsec. (b)(2)(H), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 Section 10(b) of this Act, referred to in subsec. (c), is section 10(b) of Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3215, which amended section 1274 of this title.
 
 The Wild and Scenic Rivers Act, referred to in subsec. (c), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of this title and Tables.
+
+These Acts, referred to in subsec. (c), mean the Wild and Scenic Rivers Act and this subchapter, which was in the original “this Act”. See References in Text notes above.

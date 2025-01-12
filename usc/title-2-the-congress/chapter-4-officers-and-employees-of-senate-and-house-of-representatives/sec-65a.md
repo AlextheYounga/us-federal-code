@@ -1,29 +1,5 @@
-### §65a. Insurance of office funds of Secretary of Senate and Sergeant at Arms; payment of premiums ###
-
-The Secretary of the Senate and the Sergeant at Arms on and after June 27, 1956, are authorized and directed to protect the funds of their respective offices by purchasing insurance in an amount necessary to protect said funds against loss. Premiums on such insurance shall be paid out of the contingent fund of the Senate, upon vouchers approved by the chairman of the Committee on Rules and Administration.
-
-(June 27, 1956, ch. 453, 70 Stat. 360.)
+### §65a. Transferred ###
 
 #### Codification ####
 
-Section is from the Legislative Branch Appropriation Act, 1957, act June 27, 1956.
-
-#### Prior Provisions ####
-
-Provisions similar to those in this section were contained in the following prior appropriation acts:
-
-Aug. 5, 1955, ch. 568, 69 Stat. 504.
-
-July 2, 1954, ch. 455, title I, 68 Stat. 400.
-
-Aug. 1, 1953, ch. 304, title I, 67 Stat. 321.
-
-July 9, 1952, ch. 598, 66 Stat. 467.
-
-Oct. 11, 1951, ch. 485, 65 Stat. 392.
-
-Sept. 6, 1950, ch. 896, Ch. II, 64 Stat. 597.
-
-June 22, 1949, ch. 235, 63 Stat. 219.
-
-June 14, 1948, ch. 467, 62 Stat. 425.
+Section 65a was editorially reclassified as section 6507 of this title.

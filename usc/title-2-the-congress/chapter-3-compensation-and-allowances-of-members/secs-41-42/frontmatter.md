@@ -4,7 +4,7 @@ Section 41, R.S. §43, provided that no Member or Delegate was entitled to any a
 
 Section 42, based on H. Res. No. 420, Ninety-second Congress, May 18, 1971, enacted into permanent law by Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636, related to furnishing of postage stamps to Members, committees, and officers of House of Representatives.
 
-A prior section 42, R.S. §44, which proscribed compensation or allowance to Senators, Representatives, or Delegates for postage, was repealed by Pub. L. 104–186, title II, §203(11), Aug. 20, 1996, 110 Stat. 1726. See sections 42a and 46a of this title.
+A prior section 42, R.S. §44, which proscribed compensation or allowance to Senators, Representatives, or Delegates for postage, was repealed by Pub. L. 104–186, title II, §203(11), Aug. 20, 1996, 110 Stat. 1726. See sections 6116 and 6117 of this title.
 
 #### Applicability of Prohibition During Ninety-fifth Congress ####
 

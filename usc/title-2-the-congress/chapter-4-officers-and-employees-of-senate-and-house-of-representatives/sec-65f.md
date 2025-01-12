@@ -1,31 +1,5 @@
-### §65f. Funds for Secretary of Senate to assist in proper discharge within United States of responsibilities to foreign parliamentary groups or other foreign officials ###
-
-#### (a) In general ####
-
-On and after July 11, 1987, the Secretary of the Senate is authorized to use any available funds (but not in excess of $50,000 for any fiscal year), out of the appropriation account (within the Contingent Fund of the Senate) for the Secretary of the Senate, to assist him in the proper discharge, within the United States, of his appropriate responsibilities to members of foreign parliamentary groups or other foreign officials.
-
-#### (b) Effective date ####
-
-The provisions of subsection (a) of this section shall be effective in the case of expenditures for fiscal years ending after September 30, 1986.
-
-#### (c) Transfer of funds ####
-
-Upon the written request of the Secretary of the Senate, and upon notification to the Committee on Appropriations of the Senate, there shall be transferred any amount of funds available under subsection (a) of this section specified in the request, but not to exceed $10,000 in any fiscal year, from the appropriation account (within the contingent fund of the Senate) for expenses of the Office of the Secretary of the Senate to the appropriation account for the expense allowance of the Secretary of the Senate. Any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.
-
-(Pub. L. 100–71, title I, §2, July 11, 1987, 101 Stat. 423; Pub. L. 102–90, title I, §4, Aug. 14, 1991, 105 Stat. 450; Pub. L. 105–18, title II, §7003(a), June 12, 1997, 111 Stat. 192; Pub. L. 108–447, div. G, title I, §6, Dec. 8, 2004, 118 Stat. 3170.)
+### §65f. Transferred ###
 
 #### Codification ####
 
-Section is from the Supplemental Appropriations Act, 1987.
-
-#### Amendments ####
-
-**2004**—Subsec. (c). Pub. L. 108–447 substituted “and upon notification to” for “with the approval of” in first sentence.
-
-**1997**—Subsec. (c). Pub. L. 105–18 added subsec. (c).
-
-**1991**—Subsec. (a). Pub. L. 102–90 substituted “On and after July 11, 1987, the Secretary of the Senate is authorized” for “The Secretary of the Senate is authorized” and “$50,000” for “$25,000”.
-
-#### Effective Date of 1997 Amendment ####
-
-Pub. L. 105–18, title II, §7003(b), June 12, 1997, 111 Stat. 192, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to appropriations for fiscal years beginning on or after October 1, 1996.”
+Section 65f was editorially reclassified as section 6567 of this title.

@@ -4,7 +4,7 @@
 
 #### (1) Trigger ####
 
-Whenever CBO issues a low-growth report under section 254(j),<sup><a href="#907a_1_target" name="907a_1">1</a></sup> the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(j) <sup><a href="#907a_1_target" name="907a_1">1</a></sup> are met and suspending the relevant provisions of this title,<sup><a href="#907a_1_target" name="907a_1">1</a></sup> titles III and VI <sup><a href="#907a_1_target" name="907a_1">1</a></sup> of the Congressional Budget Act of 1974 [2 U.S.C. 631 et seq.], and section 1103 of title 31.
+Whenever CBO issues a low-growth report under section 254(i) [2 U.S.C. 904(i)], the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(i) are met and suspending the relevant provisions of this title,<sup><a href="#907a_1_target" name="907a_1">1</a></sup> titles III and VI <sup><a href="#907a_1_target" name="907a_1">1</a></sup> of the Congressional Budget Act of 1974 [2 U.S.C. 631 et seq.], and section 1103 of title 31.
 
 #### (2) Form of joint resolution ####
 
@@ -52,15 +52,15 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 (2) In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a) of this section, then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) of this section triggered by that resolution are no longer effective.
 
-(Pub. L. 99–177, title II, §258, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–593.)
+(Pub. L. 99–177, title II, §258, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–593; amended Pub. L. 113–67, div. A, title I, §121(10), Dec. 26, 2013, 127 Stat. 1175.)
 
 #### References in Text ####
-
-Section 254 and section 254 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(1), (2)(A), mean section 254 of Pub. L. 99–177, which is classified to section 904 of this title, and was amended by Pub. L. 105–33, title X, §10206(1), Aug. 5, 1997, 111 Stat. 704, by redesignating subsecs. (j) and (k) as (i) and (j), respectively.
 
 This title, referred to in subsec. (a)(1), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title III of the Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+
+Section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is section 254(j) of Pub. L. 99–177, which was redesignated section 254(i) of that Act by Pub. L. 105–33, title X, §10206(1), Aug. 5, 1997, 111 Stat. 704, and is classified to section 904(i) of this title.
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
@@ -69,5 +69,9 @@ Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referre
 #### Prior Provisions ####
 
 A prior section 258 of Pub. L. 99–177 was classified to section 908 of this title prior to repeal by Pub. L. 105–33, title X, §10210, Aug. 5, 1997, 111 Stat. 711.
+
+#### Amendments ####
+
+**2013**—Subsec. (a)(1). Pub. L. 113–67, which directed substitution of “section 254(i)” for “section 254(j)”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 [<sup>1</sup> See References in Text note below.](#907a_1)

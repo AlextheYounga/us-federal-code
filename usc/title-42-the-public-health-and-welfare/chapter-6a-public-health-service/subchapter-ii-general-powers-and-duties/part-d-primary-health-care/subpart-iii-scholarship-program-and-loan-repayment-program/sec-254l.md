@@ -122,6 +122,8 @@ Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the
 
 Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
 
+The General Schedule, referred to in subsec. (g)(3), is set out under section 5332 of Title 5, Government Organization and Employees.
+
 #### Codification ####
 
 In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

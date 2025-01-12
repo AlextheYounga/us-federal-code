@@ -20,7 +20,7 @@ The building housing and displaying the marine collections, libraries, historic 
 
 #### References in Text ####
 
-This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which enacted this subchapter and amended section 460bb–3 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments ####
 

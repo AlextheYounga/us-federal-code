@@ -1,15 +1,5 @@
-### §72a–1h. Mandatory Senate ethics training for Members and staff ###
+### §72a–1h. Transferred ###
 
-#### (a) Training program ####
+#### Codification ####
 
-The Select Committee on Ethics shall conduct ongoing ethics training and awareness programs for Members of the Senate and Senate staff.
-
-#### (b) Requirements ####
-
-The ethics training program conducted by the Select Committee on Ethics shall be completed by—
-
-(1) new Senators or staff not later than 60 days after commencing service or employment; and
-
-(2) Senators and Senate staff serving or employed on September 14, 2007, not later than 165 days after September 14, 2007.
-
-(Pub. L. 110–81, title V, §553, Sept. 14, 2007, 121 Stat. 773.)
+Section 72a–1h was editorially reclassified as section 4722 of this title.

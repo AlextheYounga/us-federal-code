@@ -1,35 +1,5 @@
-### §43b–2. Staff expenses for House Members attending organizational caucus or conference ###
-
-#### (a) In general ####
-
-Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under section 29a(a) of this title, and each incumbent Member reelected to the ensuing Congress who attends any such caucus or conference convening after the adjournment sine die of the Congress in the year involved, shall be entitled to designate one staff person to be paid for one round trip between that person's place of residence, provided such place of residence is in the district which the Member-elect or incumbent Member represents, and Washington, District of Columbia, for the purpose of accompanying that Member-elect or incumbent Member to such caucus or conference.
-
-#### (b) Per diem expenses of staff person ####
-
-Each Member-elect (other than an incumbent Member reelected to the ensuing Congress) who attends a caucus or conference called under such section 29a(a) of this title shall be entitled to designate one staff person who shall in addition be reimbursed on a per diem or other basis for expenses incurred in accompanying the Member-elect at the time of such caucus or conference.
-
-#### (c) Orientation programs for new Members ####
-
-With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (a) and (b) of this section shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members <sup><a href="#43b-2_1_target" name="43b-2_1">1</a></sup> in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
-
-(Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282; Pub. L. 108–447, div. G, title I, §107(b)(2), (c)(2), Dec. 8, 2004, 118 Stat. 3176.)
+### §43b–2. Transferred ###
 
 #### Codification ####
 
-Section is based on section 1 of House Resolution No. 10, Ninety-fourth Congress, Jan. 14, 1975, which was enacted into permanent law by Pub. L. 94–59.
-
-#### Amendments ####
-
-**2004**—Subsec. (b). Pub. L. 108–447, §107(b)(2), substituted a period for “for a period not to exceed the shorter of the following—
-
-“(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or
-
-“(ii) fourteen days.”
-
-Subsec. (c). Pub. L. 108–447, §107(c)(2), added subsec. (c).
-
-#### Effective Date of 2004 Amendment ####
-
-Amendment by Pub. L. 108–447 applicable with respect to the One Hundred Tenth Congress and each succeeding Congress, see section 107(d) of Pub. L. 108–447, set out as a note under section 29a of this title.
-
-[<sup>1</sup> So in original. Probably should be capitalized.](#43b-2_1)
+Section 43b–2 was editorially reclassified as section 5343 of this title.

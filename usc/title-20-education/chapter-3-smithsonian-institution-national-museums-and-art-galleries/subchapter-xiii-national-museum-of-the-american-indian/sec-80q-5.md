@@ -80,7 +80,7 @@ Notwithstanding any other provision of this subchapter, funds appropriated for c
 
 #### National Native American Veterans’ Memorial ####
 
-Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, provided that:
+Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, as amended by Pub. L. 113–70, §2, Dec. 26, 2013, 127 Stat. 1208, provided that:
 
 #### “SECTION 1. SHORT TITLE. ####
 
@@ -108,14 +108,14 @@ Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, provided that:
 
 “(a) In General.—The National Museum of the American Indian (established by the National Museum of the American Indian Act (20 U.S.C. 80q et seq.)), in close consultation with the National Congress of American Indians and other Native American groups, is authorized to construct and maintain a National Native American Veterans’ Memorial (hereafter in this Act referred to as the ‘memorial’).
 
-“(b) Location.—The memorial shall be located at a site determined to be suitable by the Museum within the interior structure of the facility provided for by section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating to housing the portion of the Museum to be located in the District of Columbia).
+“(b) Location.—The memorial shall be located at a site determined to be suitable by the Museum on property under the jurisdiction of the Museum on the site described in section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating to housing the portion of the Museum to be located in the District of Columbia).
 
-“(c) Design and Plans.—(1) The National Congress of American Indians, in consultation with the Museum, is authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 [(b)]), and with any existing design plans for the Museum's structure and its surroundings.
+“(c) Design and Plans.—(1) The National Congress of American Indians and the National Museum of the American Indian are authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 [(b)]), and with any existing design plans for the Museum's structure and its surroundings.
 
 “(2) Any design so selected shall be subject to the approval of the Board of Regents of the Smithsonian Institution.
 
 #### “SEC. 4. PAYMENT OF EXPENSES AND USE OF NAME. ####
 
-“(a) Responsibility of National Congress of American Indians.—The National Congress of American Indians shall be solely responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial. No Federal funds may be used to pay any expense of the establishment of the memorial.
+“(a) Responsibility of National Congress of American Indians and National Museum of the American Indian.—The National Congress of American Indians and the National Museum of the American Indian shall be responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial. No Federal funds may be used to pay any expense of the establishment of the memorial.
 
 “(b) Use of Name.—Use of the name of the Smithsonian Institution or the National Museum of the American Indian in any material regarding the memorial produced by the National Congress of American Indians, other than in a manner simply describing the location of the memorial, shall be subject to consultation with, and the approval of, the Board of Regents of the Smithsonian Institution.”

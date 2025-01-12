@@ -52,7 +52,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–447, div. G, title I, §107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: “The amendments made by this section [amending this section and section 43b–2 of this title] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
+Pub. L. 108–447, div. G, title I, §107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: “The amendments made by this section [amending this section and section 5343 of this title] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
 
 #### Effective Date ####
 

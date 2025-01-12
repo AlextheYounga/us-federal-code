@@ -474,6 +474,8 @@ Sec.
 
 1306b. State data exchanges.
 
+1306c. Restriction on access to the Death Master File.
+
 1307. Penalty for fraud.
 
 1308. Additional grants to Puerto Rico, Virgin Islands, Guam, and American Samoa; limitation on total payments.

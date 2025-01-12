@@ -1,5 +1,5 @@
-### §66a. Restriction on payment of dual compensation by Secretary of Senate ###
+### §66a. Transferred ###
 
-Unless otherwise specifically authorized by law, no part of any appropriation disbursed by the Secretary of the Senate shall be available for payment of compensation to any person holding any position, for any period for which such person received compensation for holding any other position, the compensation for which is disbursed by the Secretary of the Senate.
+#### Codification ####
 
-(June 27, 1956, ch. 453, 70 Stat. 360.)
+Section 66a was editorially reclassified as section 4578 of this title.

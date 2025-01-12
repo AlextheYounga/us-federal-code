@@ -62,9 +62,7 @@ Subject to valid existing rights, all federally owned lands in the scenic area a
 
 #### References in Text ####
 
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (i), are classified generally to Title 30, Mineral Lands and Mining.
-
-The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
+The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
 
 #### Amendments ####
 

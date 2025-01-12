@@ -1,8 +1,8 @@
-### §61d–2. Postage allowance for Chaplain of Senate ###
+### §61d–2. Transferred ###
 
-The Secretary of the Senate is authorized and directed to procure and furnish each fiscal year (commencing with the fiscal year ending September 30, 1982) to the Chaplain of the Senate, upon the request of the Chaplain of the Senate, United States postage stamps in such amounts as may be necessary for the mailing of postal matters arising in connection with his official business.
+#### Codification ####
 
-(Pub. L. 97–51, §127(b)(1), Oct. 1, 1981, 95 Stat. 966.)
+Section 61d–2 was editorially reclassified as section 6653 of this title.
 
 #### Prior Provisions ####
 

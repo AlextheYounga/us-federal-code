@@ -6,6 +6,6 @@ Section 86, act Mar. 3, 1901, ch. 830, §1, 31 Stat. 968, related to division of
 
 Section 87, act Mar. 3, 1901, ch. 830, §1, 31 Stat. 968, related to requiring or permitting employees of House to sublet duties.
 
-Section 88, act Mar. 3, 1901, ch. 830, §1, 31 Stat. 968, prescribed age limits of twelve and eighteen for service as pages in House of Representatives but made the restriction inapplicable to chief pages, riding pages, and telephone pages. See section 88b–1(b) of this title.
+Section 88, act Mar. 3, 1901, ch. 830, §1, 31 Stat. 968, prescribed age limits of twelve and eighteen for service as pages in House of Representatives but made the restriction inapplicable to chief pages, riding pages, and telephone pages. See section 4901(b) of this title.
 
 Section 88a, act Aug. 2, 1946, ch. 753, title II, §243, 60 Stat. 839, related to education of Congressional and Supreme Court pages, authorized appropriations, and allowed pages to elect to attend private or parochial schools.
