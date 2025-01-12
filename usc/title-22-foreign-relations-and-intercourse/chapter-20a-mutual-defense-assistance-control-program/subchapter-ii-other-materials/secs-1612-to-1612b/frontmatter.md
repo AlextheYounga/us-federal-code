@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Sections, act Oct. 26, 1951, ch. 575, title II, §§201–203, 65 Stat. 646, were superseded, effective October 1, 1979, by section 2416(e) of Title 50, Appendix, War and National Defense. See section 2401 et seq. of Title 50, Appendix.
+Sections, act Oct. 26, 1951, ch. 575, title II, §§201–203, 65 Stat. 646, were superseded, effective October 1, 1979, by section 4619(e) of Title 50, War and National Defense. See chapter 56 (§4601 et seq.) of Title 50.
 
 Section 1612 related to regulation of exports other than war materials.
 

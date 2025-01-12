@@ -18,7 +18,7 @@ The Secretary shall—
 
 #### (c) Alternatives ####
 
-(1) Prior to submitting the reports required under section 509 of this title, the Secretary shall consider any alternative submitted in writing, in accordance with the timeframes established under subsection (b) of this section, by a project beneficiary that has elected to consult with the Bureau of Reclamation on a modification.
+(1) Prior to submitting the reports required under section 509 of this title, the Secretary shall consider any alternative submitted in writing, in accordance with the timeframes established under subsection (b), by a project beneficiary that has elected to consult with the Bureau of Reclamation on a modification.
 
 (2) The Secretary shall provide to the project beneficiary a timely written response describing proposed actions, if any, to address the recommendation.
 
@@ -26,6 +26,6 @@ The Secretary shall—
 
 #### (d) Waiver ####
 
-The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c) of this section, if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
+The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c), if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
 
 (Pub. L. 95–578, §5A, as added Pub. L. 108–439, §2(b), Dec. 3, 2004, 118 Stat. 2627.)

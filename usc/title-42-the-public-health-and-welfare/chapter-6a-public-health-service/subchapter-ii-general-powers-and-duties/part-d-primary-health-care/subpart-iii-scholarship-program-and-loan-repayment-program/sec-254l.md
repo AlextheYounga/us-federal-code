@@ -214,9 +214,9 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1985 Amendment ####
 
-Section 228 of Pub. L. 99–129 provided that:
+Pub. L. 99–129, title II, §228, Oct. 22, 1985, 99 Stat. 548, provided that:
 
-"(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act [enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 462 of the Appendix to Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title] shall take effect on the date of enactment of this Act [Oct. 22, 1985].
+"(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act [enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 3811 of Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title] shall take effect on the date of enactment of this Act [Oct. 22, 1985].
 
 "(b)(1) The amendments made by section 101(a) of this Act [amending section 294a of this title] shall take effect as of October 1, 1985.
 

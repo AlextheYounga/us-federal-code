@@ -2,7 +2,7 @@
 
 (a) The Secretary, in cooperation with the city of San Jose, California, and the Santa Clara Valley Water District, and local water suppliers, shall participate in the planning, design and construction of demonstration and permanent facilities to reclaim and reuse water in the San Jose metropolitan service area.
 
-(b) The Federal share of the costs of the facilities authorized by subsection (a) of this section shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
+(b) The Federal share of the costs of the facilities authorized by subsection (a) shall not exceed 25 per centum of the total. The Secretary shall not provide funds for the operation or maintenance of the project.
 
 (Pub. L. 102–575, title XVI, §1607, Oct. 30, 1992, 106 Stat. 4666.)
 

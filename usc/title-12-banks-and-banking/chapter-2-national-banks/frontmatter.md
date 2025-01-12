@@ -154,9 +154,7 @@ Sec.
 
 95. Emergency limitations and restrictions on business of members of Federal reserve system; designation of legal holiday for national banking associations; exceptions; "State" defined.
 
-95a. Regulation of transactions in foreign exchange of gold and silver; property transfers; vested interests, enforcement and penalties.
-
-95b. Ratification of acts of President and Secretary of the Treasury under section 95a.
+95a, 95b. Omitted.
 
 #### SUBCHAPTER V—OBTAINING AND ISSUING CIRCULATING NOTES ####
 

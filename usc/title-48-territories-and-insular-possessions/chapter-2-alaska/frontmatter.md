@@ -449,9 +449,9 @@ Pub. L. 86–70, June 25, 1959, 73 Stat. 141, as amended, provided:
 
 "(b) Notwithstanding any other provisions of this section, any contract entered into by the Federal Aviation Agency in connection with its activities with respect to public airports constructed and operated pursuant to the Act of May 28, 1948, as amended (48 U.S.C. 485 and the following), which has not been completed by the date of enactment of this Act, may be completed according to the terms thereof.
 
-"Sec. 36. [Selective Service.] Section 16(b) of the Universal Military Training and Service Act, as amended (50 U.S.C., app., sec. 466(b)), is further amended by striking out the word 'Alaska,'.
+"Sec. 36. [Selective Service.] Section 16(b) of the Universal Military Training and Service Act, as amended (50 U.S.C., app., sec. 466(b)) [now 50 U.S.C. 3814(b)], is further amended by striking out the word 'Alaska,'.
 
-"Sec. 37. [Real property transactions.] Section 43(c) of the Act of August 10, 1956 (50 U.S.C. app., supp. V, sec. 2285(c)), is amended by striking out the word 'Alaska,'.
+"Sec. 37. [Real property transactions.] Section 43(c) of the Act of August 10, 1956 (50 U.S.C. app., supp. V, sec. 2285(c)) [now 6 U.S.C. 765(c)], is amended by striking out the word 'Alaska,'.
 
 "Sec. 38. [Recreation facilities.] Section 2 of the Act of May 4, 1956 (70 Stat. 130), is hereby repealed. There are hereby authorized to be appropriated for the fiscal year ending June 30, 1960, such sums as may be necessary to complete the construction of facilities described in section 1 of such Act, as amended by the Act of August 30, 1957 (71 Stat. 510), if construction was begun prior to June 30, 1959, and to maintain the facilities pending their transfer pursuant to such section.
 

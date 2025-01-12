@@ -70,7 +70,7 @@ Amendment by section 604(b)(2) of Pub. L. 104–294 effective Sept. 13, 1994, se
 
 Temporary extension of section, see section 798 of this title.
 
-Act June 30, 1953, ch. 175, §7, 67 Stat. 133, repealed Joint Res. July 3, 1952, ch. 570, §1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914 which is set out as a note preceding section 1 of Appendix to Title 50, War and National Defense.
+Act June 30, 1953, ch. 175, §7, 67 Stat. 133, repealed Joint Res. July 3, 1952, ch. 570, §1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914 which is set out as a note preceding section 1 of Title 50, War and National Defense.
 
 Joint Res. July 3, 1952, ch. 570, §6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
 

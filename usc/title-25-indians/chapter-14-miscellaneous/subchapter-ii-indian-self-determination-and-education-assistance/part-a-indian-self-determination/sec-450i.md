@@ -52,7 +52,7 @@ The status of an Indian (as defined in section 479 of this title) appointed (exc
 
 #### Codification ####
 
-Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 are classified to section 3371 of Title 5, Government Organization and Employees, section 2004b of Title 42, The Public Health and Welfare, section 456 of Title 50, Appendix, War and National Defense, and section 4762 of Title 42, respectively. Subsecs. (k) and (l) of section 104 of Pub. L. 93–638 are classified to section 3372 of Title 5.
+Section is comprised of section 104 of Pub. L. 93–638. Subsecs. (a) to (d) of section 104 of Pub. L. 93–638 are classified to section 3371 of Title 5, Government Organization and Employees, section 2004b of Title 42, The Public Health and Welfare, section 3806 of Title 50, War and National Defense, and section 4762 of Title 42, respectively. Subsecs. (k) and (l) of section 104 of Pub. L. 93–638 are classified to section 3372 of Title 5.
 
 #### Prior Provisions ####
 

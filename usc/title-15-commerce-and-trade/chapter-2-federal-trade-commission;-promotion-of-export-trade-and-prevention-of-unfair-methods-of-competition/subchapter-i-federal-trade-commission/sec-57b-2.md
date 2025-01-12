@@ -52,7 +52,7 @@ then the custodian shall, upon written request of the person who produced the ma
 
 (C) the appropriate Federal banking agency (as defined in section 1813(q) of title 12) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in section 57a(f)(3) of this title, or a Federal credit union described in section 57a(f)(4) of this title; and
 
-(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+(D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
 
 Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of section 6211 of this title) to any officer or employee of a foreign law enforcement agency.
 

@@ -72,7 +72,7 @@ Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 
 
 #### Effective Date ####
 
-Pub. L. 92–129, title II, §209, Sept. 28, 1971, 85 Stat. 359, provided that: "The foregoing provisions of this title [enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense] shall become effective on October 1, 1971, except that section 203 [enacting section 308a of this title] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 [amending section 2203 of Title 50, Appendix] shall become effective July 1, 1971."
+Pub. L. 92–129, title II, §209, Sept. 28, 1971, 85 Stat. 359, provided that: "The foregoing provisions of this title [enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of the former Appendix to Title 50, War and National Defense] shall become effective on October 1, 1971, except that section 203 [enacting section 308a of this title] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 [amending section 2203 of the former Appendix to Title 50] shall become effective July 1, 1971."
 
 #### Savings Provision ####
 

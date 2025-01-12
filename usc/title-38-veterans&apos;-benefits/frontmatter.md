@@ -1439,7 +1439,7 @@ Pub. L. 85–857, §6, Sept. 2, 1958, 72 Stat. 1263, provided that:
 
 "(a) Amounts heretofore appropriated to carry out the purposes of any provision of law repealed by this Act, and available on December 31, 1958, shall be available to carry out the purposes of the corresponding provisions of title 38, United States Code.
 
-"(b) The availability and use of appropriations made for the purposes of the Act of July 1, 1948 (62 Stat. 1210; 50 App. U.S.C. 1991–1996) shall not be affected by the repeal of such Act."
+"(b) The availability and use of appropriations made for the purposes of the Act of July 1, 1948 (62 Stat. 1210; [former] 50 App. U.S.C. 1991–1996) shall not be affected by the repeal of such Act."
 
 #### Outstanding Rules, Regulations, and Orders ####
 

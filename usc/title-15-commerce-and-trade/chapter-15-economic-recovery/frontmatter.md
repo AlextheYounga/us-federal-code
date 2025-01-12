@@ -42,6 +42,14 @@ Sec.
 
 713c–3. Promotion of the free flow of domestically produced fishery products.
 
+713d. Declaration of purpose.
+
+713d–1. Critical shortages; recommendations by President; public hearings.
+
+713d–2. Food and conservation program; appropriations; administrative expenses.
+
+713d–3. Authorizations for appropriations.
+
 #### SUBCHAPTER II—COMMODITY CREDIT CORPORATION ####
 
 714. Creation and purpose of Corporation.

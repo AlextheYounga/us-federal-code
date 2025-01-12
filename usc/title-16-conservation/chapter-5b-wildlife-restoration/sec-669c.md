@@ -140,7 +140,7 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 #### Suspension of Expense Limitation ####
 
-The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
 
 [<sup>1</sup> Probably means the subsection (c) relating to apportionment of certain taxes.](#669c_1)
 

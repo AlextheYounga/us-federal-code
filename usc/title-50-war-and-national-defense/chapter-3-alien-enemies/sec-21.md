@@ -32,7 +32,7 @@ Proc. No. 2655, July 14, 1945, 10 F.R. 8947, 59 Stat. Pt. 2, 870.
 
 Proc. No. 2674, Dec. 7, 1945, 10 F.R. 14945, 59 Stat. Pt. 2, 889.
 
-Proc. No. 2685, Apr. 11, 1946, 11 F.R. 4079, 60 Stat. Pt. 2, 1342, set out as a note preceding section 1 of Appendix to this title.
+Proc. No. 2685, Apr. 11, 1946, 11 F.R. 4079, 60 Stat. Pt. 2, 1342, set out as a note preceding section 1 of this title.
 
 #### World War I Proclamations ####
 

@@ -12,13 +12,13 @@ Such a transfer may also be considered an exportation for the purposes of other 
 
 #### (b) Applicability to bicycle component parts ####
 
-The exemption from the customs laws of the United States provided under subsection (a) of this section shall not be available on or before December 31, 1992, to bicycle component parts unless such parts are reexported from the United States, whether in the original package, as components of a completely assembled bicycle, or otherwise.
+The exemption from the customs laws of the United States provided under subsection (a) shall not be available on or before December 31, 1992, to bicycle component parts unless such parts are reexported from the United States, whether in the original package, as components of a completely assembled bicycle, or otherwise.
 
 #### (c) Articles manufactured or produced from denatured distilled spirits withdrawn free of tax from distilled spirits plant; products unfit for beverage purposes ####
 
-(1) Notwithstanding the provisions of the fifth proviso of subsection (a) of this section, any article (within the meaning of section 5002(a)(14) of title 26) may be manufactured or produced from denatured distilled spirits which have been withdrawn free of tax from a distilled spirits plant (within the meaning of section 5002(a)(1) of title 26), and articles thereof, in a zone.
+(1) Notwithstanding the provisions of the fifth proviso of subsection (a), any article (within the meaning of section 5002(a)(14) of title 26) may be manufactured or produced from denatured distilled spirits which have been withdrawn free of tax from a distilled spirits plant (within the meaning of section 5002(a)(1) of title 26), and articles thereof, in a zone.
 
-(2) Notwithstanding the provisions of the fifth proviso of subsection (a) of this section, distilled spirits which have been removed from a distilled spirits plant (as defined in section 5002(a)(1) of title 26) upon payment or determination of tax may be used in the manufacture or production of medicines, medicinal preparation, food products, flavors, or flavoring extracts, which are unfit for beverage purposes, in a zone. Such products will be eligible for drawback under the internal revenue laws under the same conditions applicable to similar manufacturing or production operations occurring in customs territory.
+(2) Notwithstanding the provisions of the fifth proviso of subsection (a), distilled spirits which have been removed from a distilled spirits plant (as defined in section 5002(a)(1) of title 26) upon payment or determination of tax may be used in the manufacture or production of medicines, medicinal preparation, food products, flavors, or flavoring extracts, which are unfit for beverage purposes, in a zone. Such products will be eligible for drawback under the internal revenue laws under the same conditions applicable to similar manufacturing or production operations occurring in customs territory.
 
 #### (d) Foreign trade zones ####
 

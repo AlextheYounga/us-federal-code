@@ -16,7 +16,7 @@ Subject to section 292s of this title, any such loans shall be made on such term
 
 (1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
 
-(2) who, if required under section 453 of title 50, Appendix, to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
+(2) who, if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
 
 #### (c) Repayment; exclusions from repayment period ####
 

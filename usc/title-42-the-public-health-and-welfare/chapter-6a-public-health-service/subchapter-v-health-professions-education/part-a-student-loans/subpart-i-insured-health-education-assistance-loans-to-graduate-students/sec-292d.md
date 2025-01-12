@@ -14,7 +14,7 @@ A loan by an eligible lender shall be insurable by the Secretary under the provi
 
 (iii) has agreed that all funds received under such loan shall be used solely for tuition, other reasonable educational expenses, including fees, books, and laboratory expenses, and reasonable living expenses, incurred by such students;
 
-(iv) if required under section 453 of title 50, Appendix, to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and
+(iv) if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and
 
 (v) in the case of a pharmacy student, has satisfactorily completed three years of training; or
 
@@ -26,7 +26,7 @@ A loan by an eligible lender shall be insurable by the Secretary under the provi
 
 (iii) has agreed that all funds received under the proposed loan shall be used solely for repayment of interest due on previous loans made under this subpart; and
 
-(iv) if required under section 453 of title 50, Appendix, to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;
+(iv) if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;
 
 (2) evidenced by a note or other written agreement which—
 

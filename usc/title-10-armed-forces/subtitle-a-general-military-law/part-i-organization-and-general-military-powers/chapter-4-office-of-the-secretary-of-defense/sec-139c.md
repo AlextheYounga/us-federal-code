@@ -30,7 +30,7 @@
 
 (11) Carrying out the activities of the Department of Defense relating to the Defense Production Act Committee established under section 722 of the Defense Production Act of 1950 (50 U.S.C. App. 2171).
 
-(12) Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)), executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), including authorities under titles I and III of such Act.
+(12) Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)),<sup><a href="#139c_1_target" name="139c_1">1</a></sup> executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.),<sup><a href="#139c_1_target" name="139c_1">1</a></sup> including authorities under titles I and III of such Act.
 
 (13) Establishing policies related to international technology security and export control issues.
 
@@ -52,7 +52,7 @@
 
 #### References in Text ####
 
-The Defense Production Act of 1950, referred to in subsec. (b)(12), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified generally to section 2061 et seq. of Title 50, Appendix, War and National Defense. Title I of the Act is classified generally to section 2071 et seq. of Title 50, Appendix. Title III of the Act is classified generally to section 2091 et seq. of Title 50, Appendix. For complete classification of this Act to the Code, see section 2061 of Title 50, Appendix, and Tables.
+The Defense Production Act of 1950, referred to in subsec. (b)(12), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified generally to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§4501 et seq.) of Title 50. Titles I and III of the Act are classified generally to subchapters I (§4511 et seq.) and II (§4531 et seq.), respectively, of chapter 55 of Title 50. Section 2 of the Act is classified to section 4502 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Subsection (b)(9), referred to in subsec. (c), was redesignated subsection (b)(8) of this section, by Pub. L. 112–239, div. A, title IX, §901(a)(2), Jan. 2, 2013, 126 Stat. 1864.
 

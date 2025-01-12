@@ -48,7 +48,7 @@ The provisions of this section shall not be construed to modify the provisions o
 
 #### (e) Approval of Congress of modifications of reservoir projects ####
 
-Modifications of a reservoir project heretofore authorized, surveyed, planned, or constructed to include storage as provided in subsection (b) of this section which would seriously affect the purposes for which the project was authorized, surveyed, planned, or constructed, or which would involve major structural or operational changes shall be made only upon the approval of Congress as now provided by law.
+Modifications of a reservoir project heretofore authorized, surveyed, planned, or constructed to include storage as provided in subsection (b) which would seriously affect the purposes for which the project was authorized, surveyed, planned, or constructed, or which would involve major structural or operational changes shall be made only upon the approval of Congress as now provided by law.
 
 #### (f) Apalachicola-Chattahoochee-Flint River System and Alabama-Coosa-Tallapoosa River System projects ####
 

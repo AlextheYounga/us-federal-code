@@ -10,15 +10,15 @@ The Secretary of the Treasury is authorized to advance to the fund, from time to
 
 #### (c) Limitation on use made of advancements ####
 
-Moneys in the fund advanced under subsection (b) of this section shall be available only for expenditures for construction and the payment of interest, during construction, upon the amounts so advanced. No expenditures out of the fund shall be made for operation and maintenance except from appropriations therefor.
+Moneys in the fund advanced under subdivision (b) shall be available only for expenditures for construction and the payment of interest, during construction, upon the amounts so advanced. No expenditures out of the fund shall be made for operation and maintenance except from appropriations therefor.
 
 #### (d) Unpaid interest on advancements; charge on fund; rate of interest ####
 
-The Secretary of the Treasury shall charge the fund as of June 30 in each year with such amount as may be necessary for the payment of interest on advances made under subsection (b) of this section at the rate of 4 per centum per annum accrued during the year upon the amounts so advanced and remaining unpaid, except that if the fund is insufficient to meet the payment of interest the Secretary of the Treasury may, in his discretion, defer any part of such payment, and the amount so deferred shall bear interest at the rate of 4 per centum per annum until paid.
+The Secretary of the Treasury shall charge the fund as of June 30 in each year with such amount as may be necessary for the payment of interest on advances made under subdivision (b) at the rate of 4 per centum per annum accrued during the year upon the amounts so advanced and remaining unpaid, except that if the fund is insufficient to meet the payment of interest the Secretary of the Treasury may, in his discretion, defer any part of such payment, and the amount so deferred shall bear interest at the rate of 4 per centum per annum until paid.
 
 #### (e) Money in fund in excess of amount needed; certification of fact; disposition ####
 
-The Secretary of the Interior shall certify to the Secretary of the Treasury, at the close of each fiscal year, the amount of money in the fund in excess of the amount necessary for construction, operation, and maintenance, and payment of interest. Upon receipt of each such certificate the Secretary of the Treasury is authorized and directed to charge the fund with the amount so certified as repayment of the advances made under subsection (b) of this section, which amount shall be covered into the Treasury to the credit of miscellaneous receipts.
+The Secretary of the Interior shall certify to the Secretary of the Treasury, at the close of each fiscal year, the amount of money in the fund in excess of the amount necessary for construction, operation, and maintenance, and payment of interest. Upon receipt of each such certificate the Secretary of the Treasury is authorized and directed to charge the fund with the amount so certified as repayment of the advances made under subdivision (b), which amount shall be covered into the Treasury to the credit of miscellaneous receipts.
 
 (Dec. 21, 1928, ch. 42, §2, 45 Stat. 1057; Pub. L. 98–381, title I, §103(a)(1), Aug. 17, 1984, 98 Stat. 1334.)
 

@@ -10,7 +10,7 @@ There is established a national cooperative geologic mapping program between the
 
 The cooperative geologic mapping program shall be—
 
-(A) designed and administered to achieve the objectives set forth in subsection (c) of this section;
+(A) designed and administered to achieve the objectives set forth in subsection (c);
 
 (B) developed in consultation with the advisory committee; and
 
@@ -40,7 +40,7 @@ In addition to paragraph (1), the Secretary, acting through the Director, shall 
 
 (A) in cooperation with the Association, other Federal and State agencies, public and private sector organizations and academia, the geologic-map data base; and
 
-(B) maps and mapping techniques which achieve the objectives specified in subsection (c) of this section.
+(B) maps and mapping techniques which achieve the objectives specified in subsection (c).
 
 #### (c) Program objectives ####
 

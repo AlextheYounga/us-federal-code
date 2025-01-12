@@ -10,7 +10,7 @@ The stockpile consists of the following materials:
 
 (3) Materials in the supplemental stockpile established by section 1704(b) of title 7 (as in effect from September 21, 1959, through December 31, 1966) on July 29, 1979.
 
-(4) Materials acquired by the United States under the provisions of section 2093 of the Appendix to this title and transferred to the stockpile by the President pursuant to subsection (f) of such section.
+(4) Materials acquired by the United States under the provisions of section 4533 of this title and transferred to the stockpile by the President pursuant to subsection (f) of such section.
 
 (5) Materials transferred to the United States under section 2423 of title 22 that have been determined to be strategic and critical materials for the purposes of this subchapter and that are allocated by the President under subsection (b) of such section for stockpiling in the stockpile.
 
@@ -60,4 +60,4 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Clarification of Stockpile Status of Certain Materials ####
 
-Pub. L. 102–484, div. C, title XXXIII, §3315, Oct. 23, 1992, 106 Stat. 2654, as amended by Pub. L. 103–337, div. A, title X, §1070(c)(4), Oct. 5, 1994, 108 Stat. 2858, provided that: "All materials purchased under section 303 of the Defense Production Act of 1950 ([former] 50 U.S.C. App. 2093) and held in the Defense Production Act inventory as of June 30, 1992, are hereby transferred to the National Defense Stockpile and shall be managed, controlled, and subject to disposal by the National Defense Stockpile Manager as provided in the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98a et seq.) [50 U.S.C. 98 et seq.]."
+Pub. L. 102–484, div. C, title XXXIII, §3315, Oct. 23, 1992, 106 Stat. 2654, as amended by Pub. L. 103–337, div. A, title X, §1070(c)(4), Oct. 5, 1994, 108 Stat. 2858, provided that: "All materials purchased under section 303 of the Defense Production Act of 1950 (50 U.S.C. App. 2093) [now 50 U.S.C. 4533] and held in the Defense Production Act inventory as of June 30, 1992, are hereby transferred to the National Defense Stockpile and shall be managed, controlled, and subject to disposal by the National Defense Stockpile Manager as provided in the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98a et seq.) [50 U.S.C. 98 et seq.]."

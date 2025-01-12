@@ -82,7 +82,7 @@ The authority granted by this subsection shall not authorize the Commission to t
 
 #### (7) Assistance to certain countries ####
 
-The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50.
 
 #### (k) Referral of evidence for criminal proceedings ####
 
