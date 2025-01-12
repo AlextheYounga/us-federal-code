@@ -69,3 +69,7 @@ Pub. L. 117–81, div. A, title VIII, §878, Dec. 27, 2021, 135 Stat. 1867, prov
 "(2) Form.—The report required by paragraph (1) shall be in an unclassified form, but may include a classified annex.
 
 "(c) Armored Vehicle Defined.—For purposes of this section, the term 'armored vehicle' means a tracked or wheeled tactical vehicle incorporating armor in its manufacture."
+
+#### Advanced Rotorcraft Flight Research and Development ####
+
+Pub. L. 112–81, div. A, title II, §222, Dec. 31, 2011, 125 Stat. 1336, as amended by Pub. L. 114–328, div. A, title VIII, §833(b)(2)(C)(iii), Dec. 23, 2016, 130 Stat. 2284; Pub. L. 115–91, div. A, title X, §1081(d)(6)(B), Dec. 12, 2017, 131 Stat. 1600, authorized the Secretary of the Army to conduct a program for flight research and demonstration of advanced rotorcraft technology and directed the Secretary to use competitive procedures in accordance with former section 2304 of this title in awarding contracts under the program.

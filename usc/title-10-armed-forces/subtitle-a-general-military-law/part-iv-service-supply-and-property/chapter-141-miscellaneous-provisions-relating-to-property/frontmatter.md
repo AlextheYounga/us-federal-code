@@ -122,10 +122,6 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Effective Date of 2021 Amendment ####
-
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
-
 #### Prohibition on Reliance on China and Russia for Space-Based Weather Data ####
 
 Pub. L. 114–92, div. A, title XVI, §1614, Nov. 25, 2015, 129 Stat. 1105, provided that:

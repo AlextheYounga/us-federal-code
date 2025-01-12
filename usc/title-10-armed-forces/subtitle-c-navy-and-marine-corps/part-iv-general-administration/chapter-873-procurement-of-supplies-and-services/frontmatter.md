@@ -2,6 +2,8 @@
 
 Sec.
 
+8751. Notification of Navy procurement production disruptions.
+
 8752. Contracts for research.
 
 8753. Tolls and fares: payment or reimbursement.
@@ -9,14 +11,6 @@ Sec.
 8754. Marine mammals: use for national defense purposes.
 
 8755. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts. 1
-
-#### Amendment of Analysis ####
-
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1878(b), Jan. 1, 2021, 134 Stat. 4151, 4292, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by inserting before the item relating to section 8752 the following new item:
-
-"8751. Notification of Navy procurement production disruptions."
-
-See Effective Date of 2021 Amendment note below.
 
 #### **Editorial Notes** ####
 

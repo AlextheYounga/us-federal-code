@@ -12,4 +12,4 @@ Section 2397c, added Pub. L. 99–500, §101(c) [title X, §931(a)(1)], Oct. 18,
 
 #### Effective Date of Repeal ####
 
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 2302 of this title.
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 2220 of this title.

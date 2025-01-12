@@ -469,6 +469,52 @@ Pub. L. 116–283, div. A, title V, §557, Jan. 1, 2021, 134 Stat. 3637, provide
 
 "(11) Pilot and navigator military occupational specialties."
 
+#### Personal Protective Equipment Matters ####
+
+Pub. L. 116–283, div. A, title X, §1091, Jan. 1, 2021, 134 Stat. 3882, provided that:
+
+"(a) Briefings on Fielding of Newest Generations of PPE to the Armed Forces.—
+
+"(1) Briefings required.—Not later than January 31, 2021, each Secretary of a military department shall submit to Congress a briefing on the fielding of the newest generations of personal protective equipment to the Armed Forces under the jurisdiction of such Secretary.
+
+"(2) Elements.—Each briefing under paragraph (1) shall include, for each Armed Force covered by such briefing, the following:
+
+"(A) A description and assessment of the fielding of newest generations of personal protective equipment to members of such Armed Force, including the following:
+
+"(i) The number (aggregated by total number and by sex) of members of such Armed Force issued the Army Soldiers Protective System and the Modular Scalable Vest Generation II body armor as of December 31, 2020.
+
+"(ii) The number (aggregated by total number and by sex) of members of such Armed Force issued Marine Corps Plate Carrier Generation III body armor as of that date.
+
+"(iii) The number (aggregated by total number and by sex) of members of such Armed Force fitted with legacy personal protective equipment as of that date.
+
+"(B) A description and assessment of the barriers, if any, to the fielding of such generations of equipment to such members.
+
+"(C) A description and assessment of challenges in the fielding of such generations of equipment to such members, including cost overruns, contractor delays, and other challenges.
+
+"(b) System for Tracking Data on Injuries Among Members of the Armed Forces in Use of Newest Generation PPE.—
+
+"(1) System required.—
+
+"(A) In general.—The Secretary of Defense shall develop and maintain a system for tracking data on injuries among members of the Armed Forces in and during the use of newest generation personal protective equipment.
+
+"(B) Scope of system.—The system required by this paragraph may, at the election of the Secretary, be new for purposes of this subsection or within or a modification of an appropriate existing system.
+
+"(2) Briefing.—Not later than January 31, 2025, the Secretary shall submit to Congress a briefing on the prevalence among members of the Armed Forces of preventable injuries attributable to ill-fitting or malfunctioning personal protective equipment.
+
+"(c) Assessments of Members of the Armed Forces of Injuries Incurred in Connection With Ill-fitting or Malfunctioning PPE.—
+
+"(1) In general.—Each health assessment specified in paragraph (2) that is undertaken after the date of the enactment of this Act [Jan. 1, 2021] shall include the following:
+
+"(A) One or more questions on whether members incurred an injury in connection with ill-fitting or malfunctioning personal protective equipment during the period covered by such assessment, including the nature of such injury.
+
+"(B) In the case of any member who has so incurred such an injury, one or more elements of self-evaluation of such injury by such member for purposes of facilitating timely documentation and enhanced monitoring of such members and injuries.
+
+"(2) Assessments.—The health assessments specified in this paragraph are the following:
+
+"(A) The annual Periodic Health Assessment of members of the Armed Forces.
+
+"(B) The post-deployment health assessment of members of the Armed Forces."
+
 #### Policy on the Talent Management of Digital Expertise and Software Professionals ####
 
 Pub. L. 116–92, div. A, title II, §230, Dec. 20, 2019, 133 Stat. 1273, provided that:
@@ -492,6 +538,70 @@ Pub. L. 116–92, div. A, title II, §230, Dec. 20, 2019, 133 Stat. 1273, provid
 "(1) Appointment of officer.—Not later than 270 days after the date of enactment of this Act [Dec. 20, 2019], the Secretary of Defense may appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the 'Chief Digital Engineering Recruitment and Management Officer of the Department of Defense'.
 
 "(2) Expiration of appointment.—The appointment of the Officer under paragraph (1) shall expire on September 30, 2024."
+
+#### Activities on Identification and Development of Enhanced Personal Protective Equipment Against Blast Injury ####
+
+Pub. L. 115–232, div. A, title II, §226, Aug. 13, 2018, 132 Stat. 1685, as amended by Pub. L. 116–283, div. A, title X, §1081(d)(2), Jan. 1, 2021, 134 Stat. 3873, provided that:
+
+"(a) Activities Required.—During calendar year 2019, the Secretary of the Army shall, in consultation with the Director of Operational Test and Evaluation, carry out a set of activities to identify and develop personal equipment to provide enhanced protection against injuries caused by blasts in combat and training.
+
+"(b) Activities.—
+
+"(1) Continuous evaluation process.—For purposes of the activities required by subsection (a), the Secretary shall establish a process to continuously solicit from government, industry, academia, and other appropriate entities personal protective equipment that is ready for testing and evaluation in order to identify and evaluate equipment or clothing that is more effective in protecting members of the Armed Forces from the harmful effects of blast injuries, including traumatic brain injuries, and would be suitable for expedited procurement and fielding.
+
+"(2) Goals.—The goals of the activities shall include:
+
+"(A) Development of streamlined requirements for procurement of personal protective equipment.
+
+"(B) Appropriate testing of personal protective equipment prior to procurement and fielding.
+
+"(C) Development of expedited mechanisms for deployment of effective personal protective equipment.
+
+"(D) Identification of areas of research in which increased investment has the potential to improve the quality of personal protective equipment and the capability of the industrial base to produce such equipment.
+
+"(E) Such other goals as the Secretary considers appropriate.
+
+"(3) Partnerships for certain assessments.—As part of the activities, the Secretary should continue to establish partnerships with appropriate academic institutions for purposes of assessing the following:
+
+"(A) The ability of various forms of personal protective equipment to protect against common blast injuries, including traumatic brain injuries.
+
+"(B) The value of real-time data analytics to track the effectiveness of various forms of personal protective equipment to protect against common blast injuries, including traumatic brain injuries.
+
+"(C) The availability of commercially available off-the-shelf items (as defined in section 104 of title 41, United States Code) that may serve as personal protective technology to protect against traumatic brain injury resulting from blasts.
+
+"(D) The extent to which the equipment determined through the assessment to be most effective to protect against common blast injuries is readily modifiable for different body types and to provide lightweight material options to enhance maneuverability.
+
+"(c) Authorities.—In carrying out activities under subsection (a), the Secretary may use any authority as follows:
+
+"(1) Experimental procurement authority under section 2373 of title 10, United States Code [now 10 U.S.C. 4023].
+
+"(2) Other transactions authority under section 2371 [now 10 U.S.C. 4021] and 2371b [now 10 U.S.C. 4022] of title 10, United States Code.
+
+"(3) Authority to award technology prizes under section 2374a of title 10, United States Code [now 10 U.S.C. 4025].
+
+"(4) Authority under the Defense Acquisition Challenge Program under section 2359b of title 10, United States Code [now 10 U.S.C. 4062].
+
+"(5) Any other authority on acquisition, technology transfer, and personnel management that the Secretary considers appropriate.
+
+"(d) Certain Treatment of Activities.—Any activities under this section shall be deemed to have been through the use of competitive procedures for the purposes of section 2304 of title 10, United States Code [now 10 U.S.C. 3201 et seq.].
+
+"(e) On-going Assessment Following Activities.—After the completion of activities under subsection (a), the Secretary shall, on an on-going basis, do the following:
+
+"(1) Evaluate the extent to which personal protective equipment identified through the activities would—
+
+"(A) enhance survivability of personnel from blasts in combat and training; and
+
+"(B) enhance prevention of brain damage, and reduction of any resultant chronic brain dysfunction, from blasts in combat and training.
+
+"(2) In the case of personal protective equipment so identified that would provide enhancements as described in paragraph (1), estimate the costs that would be incurred to procure such enhanced personal protective equipment, and develop a schedule for the procurement of such equipment.
+
+"(3) Estimate the potential health care cost savings that would occur from expanded use of personal protective equipment described in paragraph (2).
+
+"(f) Report.—Not later than December 1, 2019, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities under subsection (a) as of the date of the report.
+
+"(g) Funding.—Of the amount authorized to be appropriated for fiscal year 2019 by this Act for research, development, test, and evaluation, as specified in the funding tables in division D [div. D of Pub. L. 115–232, 132 Stat. 2328], $10,000,000 may be used to carry out this section."
+
+[Pub. L. 116–283, div. A, title X, §1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(2) of Pub. L. 116–283 to section 226 of Pub. L. 115–232, set out above, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.]
 
 #### Enhanced Protections for Prospective Members and New Members of the Armed Forces During Entry-Level Processing and Training ####
 
