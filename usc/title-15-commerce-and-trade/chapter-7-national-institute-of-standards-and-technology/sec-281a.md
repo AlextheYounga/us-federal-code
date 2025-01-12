@@ -8,7 +8,7 @@ The National Institute of Standards and Technology, on its own initiative but on
 
 #### References in Text ####
 
-The National Construction Safety Team Act, referred to in text, is Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, as amended, which is classified generally to chapter 99 [§7301 et seq.] of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
+The National Construction Safety Team Act, referred to in text, is Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, which is classified generally to chapter 99 [§7301 et seq.] of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
 #### Codification ####
 

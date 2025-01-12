@@ -18,6 +18,6 @@ Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634, 6
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 649, 650, 653, added two items 20251 and items 20252a and 20253. Amendment was made pursuant to operation of section 102 of this title.
+**2023**—Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634, 649, 650, 653, added two items 20251 and items 20252a and 20253. Amendment was made pursuant to operation of section 102 of this title.
 
 [<sup>1</sup> So in original. Two sections 20251 have been enacted.](#I_1)

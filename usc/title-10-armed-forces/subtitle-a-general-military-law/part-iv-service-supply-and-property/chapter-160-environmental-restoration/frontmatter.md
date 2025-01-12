@@ -40,7 +40,7 @@ Sec.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title III, §332, Dec. 22, 2023, 137 Stat. 221, added item 2716. Amendment was made pursuant to operation of section 102 of this title.
+**2023**—Pub. L. 118–31, div. A, title III, §332, Dec. 22, 2023, 137 Stat. 222, added item 2716. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title III, §341(b), Dec. 27, 2021, 135 Stat. 1642, added items 2714 and 2715.
 

@@ -90,9 +90,9 @@ The Secretary shall coordinate duties and activities authorized under this secti
 
 #### (g) Sunset ####
 
-The Advisory Committee shall terminate on March 8, 2024.
+The Advisory Committee shall terminate on December 31, 2024.
 
-(July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936; Pub. L. 117–328, div. FF, title II, §2236, Dec. 29, 2022, 136 Stat. 5756; Pub. L. 118–15, div. B, title III, §2333(a), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(d)(1), Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, §103(d)(1), Jan. 19, 2024, 138 Stat. 5.)
+(July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936; Pub. L. 117–328, div. FF, title II, §2236, Dec. 29, 2022, 136 Stat. 5756; Pub. L. 118–15, div. B, title III, §2333(a), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(d)(1), Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, §103(d)(1), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(d)(1), Mar. 9, 2024, 138 Stat. 398.)
 
 #### **Editorial Notes** ####
 
@@ -102,7 +102,9 @@ Section was formerly classified to section 300hh–10a of this title.
 
 #### Amendments ####
 
-**2024**—Subsec. (g). Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
+**2024**—Subsec. (g). Pub. L. 118–42 substituted "December 31, 2024" for "March 8, 2024".
+
+Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 **2023**—Subsec. (g). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
 

@@ -24,9 +24,9 @@ As used in this subchapter—
 
 #### References in Text ####
 
-The Act of September 26, 1914, referred to in subsec. (f), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Act of September 26, 1914, referred to in subsec. (f), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-The Federal Trade Commission Act approved March 21, 1938, referred to in subsec. (f), is act Mar. 21, 1938, ch. 49, 52 Stat. 111, as amended. For complete classification of this Act to the Code, see Tables.
+The Federal Trade Commission Act approved March 21, 1938, referred to in subsec. (f), is act Mar. 21, 1938, ch. 49, 52 Stat. 111. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 

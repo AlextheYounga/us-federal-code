@@ -32,7 +32,7 @@ Sec.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title XV, §§1501(1), 1502(a)(1), title XVIII, §1801(a)(6), Dec. 22, 2023, 137 Stat. 533, 683, added item 391b and made identical amendments which redesignated item 398 relating to pilot program for sharing cyber capabilities and related information with foreign operational partners as 398a. Addition and redesignation were made pursuant to operation of section 102 of this title.
+**2023**—Pub. L. 118–31, div. A, title XV, §§1501(1), 1502(a)(1), title XVIII, §1801(a)(6), Dec. 22, 2023, 137 Stat. 533, 683, added item 391b and made identical amendments redesignating item 398 "Pilot program for sharing cyber capabilities and related information with foreign operational partners" as 398a. Amendments were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title X, §1052(b), title XV, §§1501(b)(1), 1502(a), 1521, 1551(b), Dec. 23, 2022, 136 Stat. 2777, 2877, 2879, 2897, 2919, added items 391a, 392a, and 399 and two items 398.
 

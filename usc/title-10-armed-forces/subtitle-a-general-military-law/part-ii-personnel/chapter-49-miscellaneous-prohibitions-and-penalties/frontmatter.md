@@ -30,7 +30,7 @@ Sec.
 
 985. Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits.
 
-§986. Policy regarding identification of gender or personal pronouns in official correspondence.
+986. Policy regarding identification of gender or personal pronouns in official correspondence.
 
 987. Terms of consumer credit extended to members and dependents: limitations.
 

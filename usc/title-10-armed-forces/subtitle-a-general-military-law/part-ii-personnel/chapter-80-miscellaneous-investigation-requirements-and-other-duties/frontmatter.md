@@ -2,7 +2,7 @@
 
 Sec.
 
-1561. Complaints of sexual harassment: investigation by commanding officers.
+1561. Complaints of sexual harassment: independent investigation.
 
 1561a. Civilian orders of protection: force and effect on military installations.
 
@@ -35,14 +35,6 @@ Sec.
 1567. Duration of military protective orders.
 
 1567a. Mandatory notification of issuance of military protective order to civilian law enforcement.
-
-#### Amendment of Analysis ####
-
-Pub. L. 117–81, div. A, title V, §543(b), (c), Dec. 27, 2021, 135 Stat. 1710, provided that, effective on the date that is two years after Dec. 27, 2021, this analysis is amended by striking the item relating to section 1561 and inserting the following new item:
-
-"1561. Complaints of sexual harassment: independent investigation."
-
-See 2021 Amendment note below.
 
 #### **Editorial Notes** ####
 

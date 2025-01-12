@@ -46,7 +46,7 @@ The Migratory Bird Hunting and Conservation Stamp Act, referred to in par. (1), 
 
 #### Amendments ####
 
-**2023**—Par. (1). Pub. L. 118–25, §2(b)(1), substituted "Migratory Bird Hunting and Conservation Stamp required under the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a et seq.) that is printed" for "Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the "Duck Stamp Act"), that is printed".
+**2023**—Par. (1). Pub. L. 118–25, §2(b)(1), substituted "Migratory Bird Hunting and Conservation Stamp required under the Migratory Bird Hunting and Conservation Stamp Act (16 U.S.C. 718a et seq.) that is printed" for "Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the 'Duck Stamp Act'), that is printed".
 
 Par. (3)(F). Pub. L. 118–25, §2(b)(2), added subpar. (F).
 

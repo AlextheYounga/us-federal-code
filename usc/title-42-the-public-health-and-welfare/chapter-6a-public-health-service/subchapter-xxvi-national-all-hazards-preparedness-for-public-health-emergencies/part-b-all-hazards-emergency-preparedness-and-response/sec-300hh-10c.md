@@ -64,19 +64,21 @@ The Secretary shall coordinate duties and activities authorized under this secti
 
 #### (1) In general ####
 
-The Advisory Committee shall terminate on March 8, 2024.
+The Advisory Committee shall terminate on December 31, 2024.
 
 #### (2) Extension of Committee ####
 
 Not later than October 1, 2022, the Secretary shall submit to Congress a recommendation on whether the Advisory Committee should be extended.
 
-(July 1, 1944, ch. 373, title XXVIII, §2811B, as added Pub. L. 116–22, title III, §305(b), June 24, 2019, 133 Stat. 938; amended Pub. L. 118–15, div. B, title III, §2333(b), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(d)(2), Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, §103(d)(2), Jan. 19, 2024, 138 Stat. 5.)
+(July 1, 1944, ch. 373, title XXVIII, §2811B, as added Pub. L. 116–22, title III, §305(b), June 24, 2019, 133 Stat. 938; amended Pub. L. 118–15, div. B, title III, §2333(b), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(d)(2), Nov. 17, 2023, 137 Stat. 121; Pub. L. 118–35, div. B, title I, §103(d)(2), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(d)(2), Mar. 9, 2024, 138 Stat. 398.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2024**—Subsec. (g)(1). Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
+**2024**—Subsec. (g)(1). Pub. L. 118–42 substituted "December 31, 2024" for "March 8, 2024".
+
+Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 **2023**—Subsec. (g)(1). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
 

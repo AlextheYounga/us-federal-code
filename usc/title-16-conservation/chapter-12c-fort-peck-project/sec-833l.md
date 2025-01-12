@@ -8,7 +8,7 @@ In aid of the construction of the Fort Peck project, there is granted to the Uni
 
 #### Codification ####
 
-Section was not enacted as part of act May 18, 1938, which comprises this chapter.
+Section was not enacted as part of act May 18, 1938 which comprises this chapter.
 
 #### **Executive Documents** ####
 

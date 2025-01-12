@@ -74,7 +74,7 @@
 
 **2023**—Pub. L. 118–31, §1221(a)(1), inserted "and non-conventional assisted recovery capabilities" after "environment" in section catchline.
 
-Subsec. (a). Pub. L. 118–31, §1221(a)(2), substituted par. (1) for "Subject to subsections (b) through (d), the Secretary of Defense may expend up to $15,000,000 in any fiscal year for clandestine activities for any purpose the Secretary determines to be proper for preparation of the environment for operations of a confidential nature." and redesignated remainder of subsec. (a) as par. (2).
+Subsec. (a). Pub. L. 118–31, §1221(a)(2), substituted par. (1) for "Subject to subsections (b) through (d), the Secretary of Defense may expend up to $15,000,000 in any fiscal year for clandestine activities for any purpose the Secretary determines to be proper for preparation of the environment for operations of a confidential nature." and designated remainder of subsec. (a) as par. (2).
 
 Subsec. (b). Pub. L. 118–31, §1221(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "Funds for expenditures under this section in a fiscal year shall be derived from amounts authorized to be appropriated for that fiscal year for operation and maintenance, Defense-wide."
 

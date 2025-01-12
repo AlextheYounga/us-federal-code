@@ -34,11 +34,11 @@ Funds appropriated under the authority of the Acts, or portions thereof, repeale
 
 Act of April 26, 1940, known as the White Pine Blister Rust Protection Act (54 Stat. 168; 16 U.S.C. 594a), referred to in subsec. (a)(2), is act Apr. 26, 1940, ch. 159, 54 Stat. 168, which enacted section 594a of this title.
 
-The Forest Pest Control Act, referred to in subsec. (a)(3), is act June 25, 1947, ch. 141, 61 Stat. 177, as amended, which enacted sections 594–1 to 594–5 of this title and enacted provisions set out as notes under section 594–1 of this title. For complete classification of this Act to the Code, see Tables.
+The Forest Pest Control Act, referred to in subsec. (a)(3), is act June 25, 1947, ch. 141, 61 Stat. 177, which enacted sections 594–1 to 594–5 of this title and enacted provisions set out as notes under section 594–1 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Cooperative Forest Management Act, referred to in subsec. (a)(4), is act Aug. 25, 1950, ch. 781, 64 Stat. 473, as amended, which enacted sections 568c and 568d of this title, repealed section 568b of this title, and enacted a provision set out as a note under section 568c of this title. For complete classification of this Act to the Code, see Tables.
+The Cooperative Forest Management Act, referred to in subsec. (a)(4), is act Aug. 25, 1950, ch. 781, 64 Stat. 473, which enacted sections 568c and 568d of this title, repealed section 568b of this title, and enacted a provision set out as a note under section 568c of this title. For complete classification of this Act to the Code, see Tables.
 
-The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1921 of Title 7 and Tables.
+The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1921 of Title 7 and Tables.
 
 Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to section 1510 of this title prior to repeal by Pub. L. 104–127, title III, §336(d)(1), Apr. 4, 1996, 110 Stat. 1006.
 

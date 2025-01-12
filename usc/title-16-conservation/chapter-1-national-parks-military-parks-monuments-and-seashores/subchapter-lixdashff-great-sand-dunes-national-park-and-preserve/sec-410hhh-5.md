@@ -86,7 +86,7 @@ The Act entitled "An Act to provide for the preservation of historic American si
 
 The Reclamation Project Authorization Act of 1972, referred to in subsec. (d)(2), is Pub. L. 92–514, Oct. 20, 1972, 86 Stat. 964. Title I of the Act was classified generally to subchapter XXXI (§615aaa et seq.) of chapter 12 of Title 43, Public Lands, prior to its omission from the Code. See Codification notes under sections 615aaa to 615iii of Title 43.
 
-The Wilderness Act, referred to in subsec. (f)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (f)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Colorado Wilderness Act of 1993, referred to in subsec. (f)(2), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
 

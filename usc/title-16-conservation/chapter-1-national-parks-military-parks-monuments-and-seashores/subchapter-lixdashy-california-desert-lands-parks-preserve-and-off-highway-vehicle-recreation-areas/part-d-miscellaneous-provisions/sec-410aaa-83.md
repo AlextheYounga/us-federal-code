@@ -8,4 +8,4 @@ There is authorized to be appropriated to the National Park Service and to the B
 
 #### References in Text ####
 
-This Act, referred to in text, is defined in section 410aaa–1 of this title.
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.

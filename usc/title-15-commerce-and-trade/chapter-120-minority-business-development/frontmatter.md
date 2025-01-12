@@ -32,7 +32,7 @@ Sec.
 
 #### SUBCHAPTER II—NEW INITIATIVES TO PROMOTE ECONOMIC RESILIENCY FOR MINORITY BUSINESSES ####
 
-9541. Annual diverse business forum on capital formation
+9541. Annual diverse business forum on capital formation.
 
 9542. Agency study on alternative financing solutions.
 

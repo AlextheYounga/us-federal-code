@@ -412,6 +412,10 @@ There is authorized to be appropriated to carry out the program established by t
 
 Section 636(m)(11) of this title, referred to in subsec. (a), no longer defines the term "economically distressed areas". See 1994 Amendment note for subsec. (m)(11)(D) under section 636 of this title.
 
+The Community Economic Development Act of 1981, referred to in subsec. (b)(2)(E)(i), is subchapter A (§§611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489. Part 1 of subchapter A of the Act is classified generally to part A (§9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+
+The Puerto Rico Oversight, Management, and Economic Stability Act, referred to in subsec. (b)(3)(A)(ii)(II), is Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to chapter 20 (§2101 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 48 and Tables.
+
 #### Codification ####
 
 The text of section 632(p) of this title, which was transferred to this section and redesignated as subsec. (b) by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795, was based on Pub. L. 85–536, §2[3], July 18, 1958, 72 Stat. 384; Pub. L. 105–135, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2627; Pub. L. 106–554, §1(a)(9) [title VI, §§602–604, 611, 612(b)–615(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701; Pub. L. 108–447, div. K, title I, §§151(a), 152(a)(1), (3)–(c)(1), Dec. 8, 2004, 118 Stat. 3456, 3457; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 112–239, div. A, title XVI, §1696(b)(1), Jan. 2, 2013, 126 Stat. 2090; Pub. L. 114–92, div. A, title VIII, §866(a), Nov. 25, 2015, 129 Stat. 929; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595.

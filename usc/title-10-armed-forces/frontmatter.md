@@ -21,7 +21,7 @@ F. Alternative Military Personnel Systems 20001
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title XVII, §1711, Dec. 22, 2023, 137 Stat. 624, added item for subtitle F. Amendment was made pursuant to operation of section 102 of this title.
+**2023**—Pub. L. 118–31, div. A, title XVII, §1711, Dec. 22, 2023, 137 Stat. 625, added item for subtitle F. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 116–283, div. A, title IX, §923(a)(2), Jan. 1, 2021, 134 Stat. 3807, substituted "Air Force and Space Force" for "Air Force" in item for subtitle D.
 

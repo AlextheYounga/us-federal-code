@@ -91,7 +91,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title XVII, §1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, which directed amendment of part II of this subtitle by amending table of chapters at the beginning of this subtitle by adding item for chapter 915 and striking out former item for chapter 915 "Appointments in the Regular Air Force and the Regular Space Force", was executed to table of chapters at the beginning of this subtitle which is not within part II of this subtitle, to reflect the probable intent of Congress.
+**2023**—Pub. L. 118–31, div. A, title XVII, §1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force and the Regular Space Force". Amendment was executed to reflect the probable intent of Congress, notwithstanding directory language amending this analysis as if it were within part II of this subtitle.
 
 **2021**—Pub. L. 116–283, div. A, title IX, §923(a)(1), (c)(3)(C), title X, §1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted "Air Force and Space Force" for "Air Force" in subtitle heading, struck out period at end of item for chapter 908, and added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".
 

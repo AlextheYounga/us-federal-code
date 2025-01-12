@@ -40,7 +40,7 @@ Sec.
 
 1338. Disposition of revenues.
 
-1338a. Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; return of excess amounts.
+1338a. Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; deposits and transfers to decommissioning account; return of excess amounts.
 
 1339. Repealed.
 

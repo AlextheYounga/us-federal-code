@@ -40,9 +40,11 @@ Section was not enacted as part of the National Foundation on the Arts and the H
 
 #### Eligibility Limitation ####
 
-Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4818, provided in part: "That the item relating to 'National Capital Arts and Cultural Affairs' in the Department of the Interior and Related Agencies Appropriations Act, 1986, as enacted into law by section 101(d) of Public Law 99–190 (20 U.S.C. 956a), shall be applied in fiscal year 2023 in the second paragraph by inserting ', calendar year 2020 excluded' before the first period: *Provided further*, That in determining an eligible organization's annual income for calendar years 2021, 2022, and 2023, funds or grants received by the eligible organization from any supplemental appropriations Act related to coronavirus or any other law providing appropriations for the purpose of preventing, preparing for, or responding to coronavirus shall be counted as part of the eligible organization's annual income."
+Pub. L. 118–42, div. E, title III, Mar. 9, 2024, 138 Stat. 282, provided in part: "That the item relating to 'National Capital Arts and Cultural Affairs' in the Department of the Interior and Related Agencies Appropriations Act, 1986, as enacted into law by section 101(d) of Public Law 99–190 (20 U.S.C. 956a), shall be applied in fiscal year 2024 in the second paragraph by inserting ', calendar year 2020 excluded' before the first period: *Provided further*, That in determining an eligible organization's annual income for calendar years 2021, 2022, and 2023, funds or grants received by the eligible organization from any supplemental appropriations made available in 2020 and 2021 in connection with the public health emergency declared by the Secretary of Health and Human Services on January 31, 2020 (including renewals thereof) shall be counted as part of the eligible organization's annual income."
 
 Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4818.
 
 Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 407.
 

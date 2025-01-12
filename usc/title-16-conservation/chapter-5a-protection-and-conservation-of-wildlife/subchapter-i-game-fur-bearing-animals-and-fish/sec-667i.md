@@ -14,7 +14,7 @@ In entering into cooperative agreements or other legal instruments pursuant to p
 
 (ii) testing methods that significantly improve sensitivity and accelerate timelines for test results on non-live cervids;
 
-(B) the long-term suppression or eradication of chronic wasting disease; or <sup><a href="#667i_1_target" name="667i_1">1</a></sup>
+(B) the long-term suppression or eradication of chronic wasting disease; or <sup><a href="#667i_2_target" name="667i_2">2</a></sup>
 
 (C) determination markers for genetic resistance to chronic wasting disease and strategies for using genetic resistance to combat the spread of the disease;
 
@@ -156,4 +156,4 @@ Section 2 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the Ho
 
 [<sup>1</sup> So in original. Probably should be followed by "section".](#667i_1)
 
-[<sup>1</sup> So in original.](#667i_1)
+[<sup>2</sup> So in original.](#667i_2)

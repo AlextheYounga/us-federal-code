@@ -166,7 +166,7 @@ The text of section 1657 of Pub. L. 116–92, formerly set out as a note under s
 
 #### Amendments ####
 
-**2023**—Subsec. (b)(2)(B). Pub. L. 118–31, §1801(a)(5)(A), substituted "designated" for "designed".
+**2023**—Subsec. (b)(2)(B). Pub. L. 118–31, §1801(a)(5)(A), substituted "designated" for "designed" in introductory provisions.
 
 Subsec. (c)(4)(A). Pub. L. 118–31, §1801(a)(5)(B), substituted "subparagraph (B)" for "clause (ii)".
 

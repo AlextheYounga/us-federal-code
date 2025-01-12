@@ -23,4 +23,4 @@ Chap. Sec.
 
 #### Amendments ####
 
-Pub. L. 118–31, div. A, title XVII, §§1711, 1715, 1716(a), 1717(a), 1718(a), 1719, 1719A(a), Dec. 22, 2023, 137 Stat. 625, 626, 631, 654, 655, 658, 662, added item for part I and items for chapters 2001 to 2013. Amendment was made pursuant to operation of section 102 of this title.
+Pub. L. 118–31, div. A, title XVII, §§1711, 1715, 1716(a), 1717(a), 1718(a), 1719, 1719A(a), Dec. 22, 2023, 137 Stat. 625, 626, 631, 654, 655, 658, 662, added item for part I and items for chapters 2001 to 2013. Amendments were made pursuant to operation of section 102 of this title.

@@ -106,6 +106,8 @@ Sec.
 
 1474f. Sums received by the Bureau of Land Management from vendors under enterprise information technology-procurements.
 
+1474g. Department of the Interior Nonrecurring Expenses Fund.
+
 1475. Bureau of Reclamation acceptance of services of volunteers.
 
 1475a. Participation of non-Federal entities in contract negotiations and source selection proceedings.

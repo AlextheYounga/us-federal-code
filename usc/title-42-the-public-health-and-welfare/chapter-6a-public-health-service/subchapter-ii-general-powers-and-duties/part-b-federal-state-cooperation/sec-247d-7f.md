@@ -90,7 +90,7 @@ Not later than one year after the date of enactment of this Act <sup><a href="#
 
 #### (b) Sunset ####
 
-The applicability of this section shall expire after March 8, 2024.
+The applicability of this section shall expire after December 31, 2024.
 
 #### (c) Definitions ####
 
@@ -140,7 +140,7 @@ The term "covered activities" shall not include, with respect to a meeting or co
 
 (vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
 
-(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961; amended Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(c), Jan. 19, 2024, 138 Stat. 5.)
+(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961; amended Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(c), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(c), Mar. 9, 2024, 138 Stat. 398.)
 
 #### **Editorial Notes** ####
 
@@ -160,7 +160,9 @@ A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as adde
 
 #### Amendments ####
 
-**2024**—Subsec. (b). Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
+**2024**—Subsec. (b). Pub. L. 118–42 substituted "December 31, 2024" for "March 8, 2024".
+
+Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 **2023**—Subsec. (b). Pub. L. 118–22 substituted "after January 19, 2024" for "at the end of the 17-year period that begins on the date of enactment of this Act".
 

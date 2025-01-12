@@ -180,6 +180,8 @@ Sec.
 
 #### Amendment of Analysis ####
 
+Pub. L. 118–31, div. A, title XI, §1119(d), Dec. 22, 2023, 137 Stat. 435, provided that, effective Dec. 31, 2028, the amendment made by section 1119(b) of Pub. L. 118–31 would expire. See 2023 Amendment note below.
+
 Pub. L. 115–232, div. A, title XI, §1107(c), (d), Aug. 13, 2018, 132 Stat. 2005, provided that, effective on the date on which the Director of the Office of Personnel Management issues final regulations for implementation, with such regulations due not later than one year after Aug. 13, 2018, this analysis is amended by striking items 3317, 3318, and 3319 and inserting new items 3317 "Competitive service; certification using numerical ratings", 3318 "Competitive service; selection using numerical ratings", and 3319 "Competitive service; selection using category rating". See 2018 Amendment note below.
 
 Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, as amended by Pub. L. 117–263, div. A, title XI, §1111(a), Dec. 23, 2022, 136 Stat. 2820, provided that, effective Dec. 31, 2028, the amendment made by section 573(b) of Pub. L. 115–232 would expire. See 2018 Amendment note below.
@@ -188,7 +190,7 @@ Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, as 
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title XI, §1119(b), Dec. 22, 2023, 137 Stat. 434, which directed the amendment of the table of sections for subchapter I of this chapter by adding item 3330d "Appointment of military and Department of Defense civilian spouses" and striking out former item 3330d "Appointment of military spouses", was executed to the table of sections for this chapter and was treated as temporary, to reflect the probable intent of Congress, notwithstanding termination provision in sections 573(e) of Pub. L. 115–232 and 1119(d) of Pub. L. 118–31, which effectively undid the amendments made to section 3330d of this title but only provided that the amendment made to this analysis would expire. See Termination Date of 2018 Amendment and Termination Date of 2023 Amendment notes set out under section 3330d of this title.
+**2023**—Pub. L. 118–31, div. A, title XI, §1119(b), (d), Dec. 22, 2023, 137 Stat. 434, 435, which directed the amendment of the table of sections for subchapter I of this chapter by adding item 3330d "Appointment of military and Department of Defense civilian spouses" and striking out former item 3330d "Appointment of military spouses", was executed to the table of sections for this chapter and was treated as temporary to reflect the probable intent of Congress, notwithstanding termination provision in sections 573(e) of Pub. L. 115–232 and 1119(d) of Pub. L. 118–31, which effectively undid the amendments made to section 3330d of this title but only provided that the amendment made to this analysis would expire. See Termination Date of 2018 Amendment and Termination Date of 2023 Amendment notes set out under section 3330d of this title.
 
 **2022**—Pub. L. 117–263, div. E, title LII, §5221(b), title LIII, §5322(a)(2), Dec. 23, 2022, 136 Stat. 3234, 3259, which directed amendment of the analyses for subchapter I of this chapter by adding item 3330f and for subchapter III of this chapter by adding item 3349e, was executed by adding items 3330f and 3349e to the analysis for this chapter to reflect the probable intent of Congress.
 

@@ -50,7 +50,7 @@ Sec.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title III, §363(1), Dec. 22, 2023, 137 Stat. 233, redesignated item 184 "Joint Safety Council" as 185. Redesignation was made pursuant to operation of section 102 of this title.
+**2023**—Pub. L. 118–31, div. A, title III, §363(1), Dec. 22, 2023, 137 Stat. 233, redesignated item 184 "Joint Safety Council" as 185. Amendment was made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title III, §311, title X, §1082(a)(2), title XIV, §1411(a), Dec. 23, 2022, 136 Stat. 2500, 2799, 2869, added item 182a and item 184 "Civilian Protection Center of Excellence" and struck out item 187 "Strategic Materials Protection Board". Striking of item 187 was made pursuant to operation of section 102 of this title.
 

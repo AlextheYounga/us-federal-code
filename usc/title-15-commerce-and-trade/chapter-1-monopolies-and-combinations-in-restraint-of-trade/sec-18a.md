@@ -150,7 +150,7 @@ If the end of any period of time provided in this section falls on a Saturday, S
 
 #### References in Text ####
 
-The antitrust laws, referred to in subsecs. (c), (d), are defined in section 12 of this title.
+The antitrust laws, referred to in subsecs. (c) and (d), are defined in section 12 of this title.
 
 This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 

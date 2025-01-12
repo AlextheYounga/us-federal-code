@@ -8,6 +8,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2024 Amendment ####
+
+Pub. L. 118–42, div. G, title III, §302(a), Mar. 9, 2024, 138 Stat. 451, provided that: "This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the 'United States Parole Commission Additional Extension Act of 2024'."
+
 #### Short Title of 2023 Amendment ####
 
 Pub. L. 118–31, div. E, title LI, §5102(a), Dec. 22, 2023, 137 Stat. 933, provided that: "This section [amending sections 2423 and 2427 of this title and enacting provisions set out as a note under section 2423 of this title] may be cited as the 'Preventing Child Sex Abuse Act of 2023'."

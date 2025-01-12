@@ -93,7 +93,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title V, §514(a), Dec. 22, 2023, 137 Stat. 245, added item for chapter 1413. Addition was made pursuant to operation of section 102 of this title.
+**2023**—Pub. L. 118–31, div. A, title V, §514(a), Dec. 22, 2023, 137 Stat. 245, added item for chapter 1413. Amendment was made pursuant to operation of section 102 of this title.
 
 **2009**—Pub. L. 111–84, div. A, title X, §1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted "Reserve Active-Status List" for "Reserve-Active Status List" in item for chapter 1409.
 

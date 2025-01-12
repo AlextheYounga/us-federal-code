@@ -128,4 +128,4 @@ Section 1647 of the National Defense Authorization Act for Fiscal Year 2016, ref
 
 Section 1559 of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsecs. (h)(4) and (j)(3)(D), is section 1559 of Pub. L. 117–263, which is set out as a note under section 2224 of this title.
 
-[<sup>1</sup> So in original. Probably should be "requirement;".](#391b_1)
+[<sup>1</sup> So in original. The colon probably should be a semicolon.](#391b_1)

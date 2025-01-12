@@ -8,6 +8,8 @@ Section 1020a–2, act June 4, 1956, ch. 355, title IV, 70 Stat. 239, which rela
 
 Section 1020a–3, Pub. L. 87–112, title IV, July 26, 1961, 75 Stat. 240, which limited the aggregate amount of bonds issued and outstanding, was from the Department of Agriculture and Related Agencies Appropriation Act, 1962, and was not repeated in subsequent appropriations acts.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Similar Provisions ####
 
 Similar provisions to section 1020a–2 of this title were contained in the following acts:

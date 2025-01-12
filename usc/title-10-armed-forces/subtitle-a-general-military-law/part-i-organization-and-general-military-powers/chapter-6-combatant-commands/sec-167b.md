@@ -96,7 +96,7 @@ Pub. L. 118–31, div. A, title XV, §1506, Dec. 22, 2023, 137 Stat. 540, provid
 
 "(5) Specific plans to assist in the defense of friendly foreign countries."
 
-#### Pilot Program and Other Measures to Enhance Readiness and Effectiveness of Cyber Mission Force ####
+#### Pilot Program and Other Measures To Enhance Readiness and Effectiveness of Cyber Mission Force ####
 
 Pub. L. 118–31, div. A, title XV, §1535, Dec. 22, 2023, 137 Stat. 566, provided that:
 

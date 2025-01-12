@@ -80,11 +80,11 @@ Subsec. (b)(1)(A). Pub. L. 118–31, §1061(h)(1)(A), substituted "July 31 each 
 
 Subsec. (b)(1)(B)(vii) to (xiii). Pub. L. 118–31, §1061(h)(1)(B), redesignated cls. (xi) to (xiii) as (vii) to (ix), respectively, and struck out former cls. (vii) to (x) which related to elements to be included in annual reports by the Under Secretary of Defense (Comptroller) covering auditing and audit remediation services under contract where less than 50 percent, or less than 25 percent, of such services were being performed by professionals with certain qualifications.
 
-Subsec. (b)(1)(C). Pub. L. 118–31, §1061(h)(1)(C), struck out subpar. (C). Text of subpar. (C) read as follows:
+Subsec. (b)(1)(C). Pub. L. 118–31, §1061(h)(1)(C), struck out subpar. (C). Text read as follows:
 
 "(i) Unclassified form.—A description submitted pursuant to clause (vii) or (ix) of subparagraph (B) or a certification submitted pursuant to clause (viii) of such subparagraph shall be submitted in unclassified form, but may contain a classified annex.
 
-"(ii) Delegation.—The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Performance Improvement Officer or the Under Secretary of Defense (Comptroller)."
+"(ii) Delegation.—The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Performance Improvement Officer, or the Under Secretary of Defense (Comptroller)."
 
 Subsec. (b)(1)(C)(ii). Pub. L. 118–31, §901(c)(2), substituted "the Performance Improvement Officer" for "the Chief Management Officer".
 

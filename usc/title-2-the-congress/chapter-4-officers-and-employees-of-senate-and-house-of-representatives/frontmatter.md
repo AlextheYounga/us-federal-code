@@ -88,9 +88,9 @@ Sec.
 
 61h, 61h–1. Omitted.
 
-61h–2 Repealed.
+61h–2. Repealed.
 
-61h–3 Omitted.
+61h–3. Omitted.
 
 61h–4 to 61h–7. Transferred.
 

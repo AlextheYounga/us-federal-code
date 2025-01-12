@@ -24,7 +24,7 @@
 
 #### Amendments ####
 
-**2023**—Subsecs. (d) to (f). Pub. L. 118–31 redesignated subsecs. (e) and (f) as (d) and (e), respectively; struck out ", or the Secretary's designee," after "of the Secretary" and ", through the Office of the Director of Administration and Management" after "upon request" in subsec. (d) as redesignated; and struck out former subsec. (d), the text of which read as follows: "The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management."
+**2023**—Subsecs. (d) to (f). Pub. L. 118–31 redesignated subsecs. (e) and (f) as (d) and (e), respectively; struck out ", or the Secretary's designee," after "of the Secretary" and ", through the Office of the Director of Administration and Management" after "upon request" in subsec. (d) as redesignated; and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management."
 
 **2016**—Subsecs. (b), (c), (f). Pub. L. 114–328 added subsecs. (b) and (c), redesignated former subsec. (c) as (f), and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense."
 

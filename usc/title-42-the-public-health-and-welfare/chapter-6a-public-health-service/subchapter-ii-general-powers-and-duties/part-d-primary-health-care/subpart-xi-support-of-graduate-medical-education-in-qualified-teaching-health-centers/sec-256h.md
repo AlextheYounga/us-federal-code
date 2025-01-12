@@ -48,6 +48,10 @@ The total of the payments made to qualified teaching health centers under paragr
 
 The Secretary shall limit the funding of full-time equivalent residents in order to ensure the direct and indirect payments as determined under subsection <sup><a href="#256h_1_target" name="256h_1">1</a></sup> (c) and (d) do not exceed the total amount of funds appropriated in a fiscal year under subsection (g).
 
+#### (C) Addition ####
+
+Notwithstanding any provision of this section, for the period beginning on October 1, 2023, and ending on December 31, 2024, the Secretary may use any amounts made available in any fiscal year to carry out this section (including amounts recouped under subsection (f)) to make payments described in paragraphs (1)(A) and (1)(B), in addition to the total amount of funds appropriated under subsection (g).
+
 #### (c) Amount of payment for direct graduate medical education ####
 
 #### (1) In general ####
@@ -118,7 +122,7 @@ The Secretary shall determine any changes to the number of residents reported by
 
 #### (1) In general ####
 
-To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 through 2023, $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, to remain available until expended.
+To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 through 2023, $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023,<sup><a href="#256h_3_target" name="256h_3">3</a></sup> and ending on December 31, 2024, to remain available until expended.
 
 #### (2) Administrative expenses ####
 
@@ -206,7 +210,7 @@ The term "primary care residency program" has the meaning given that term in sec
 
 The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
-(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(c), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(c), Oct. 1, 2020, 134 Stat. 728; Pub. L. 116–215, div. B, title II, §1201(c), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(c), Dec. 27, 2020, 134 Stat. 2922; Pub. L. 118–15, div. B, title III, §2321(a), Sept. 30, 2023, 137 Stat. 94; Pub. L. 118–22, div. B, title II, §201(a), Nov. 17, 2023, 137 Stat. 119; Pub. L. 118–35, div. B, title I, §101(a), Jan. 19, 2024, 138 Stat. 4.)
+(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(c), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(c), Oct. 1, 2020, 134 Stat. 728; Pub. L. 116–215, div. B, title II, §1201(c), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(c), Dec. 27, 2020, 134 Stat. 2922; Pub. L. 118–15, div. B, title III, §2321(a), Sept. 30, 2023, 137 Stat. 94; Pub. L. 118–22, div. B, title II, §201(a), Nov. 17, 2023, 137 Stat. 119; Pub. L. 118–35, div. B, title I, §101(a), Jan. 19, 2024, 138 Stat. 4; Pub. L. 118–42, div. G, title I, §101(c)(1), (2), Mar. 9, 2024, 138 Stat. 397.)
 
 #### **Editorial Notes** ####
 
@@ -222,7 +226,11 @@ Another section 340H of act July 1, 1944, was renumbered section 340I and is cla
 
 #### Amendments ####
 
-**2024**—Subsec. (g)(1). Pub. L. 118–35 substituted "$21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024" for "and $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024".
+**2024**—Subsec. (b)(2)(C). Pub. L. 118–42, §101(c)(2), added subpar. (C).
+
+Subsec. (g)(1). Pub. L. 118–42, §101(c)(1), substituted "$16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024, and $164,136,986 for the period beginning on October 1, 2023, and ending on December 31, 2024" for "and $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024".
+
+Pub. L. 118–35 substituted "$21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024" for "and $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024".
 
 **2023**—Subsec. (g)(1). Pub. L. 118–22 substituted "$16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023, and $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024" for "and $16,635,616 for the period beginning on October 1, 2023, and ending on November 17, 2023".
 
@@ -287,3 +295,5 @@ Pub. L. 115–123, div. E, title IX, §50901(d)(7), Feb. 9, 2018, 132 Stat. 289,
 [<sup>1</sup> So in original. Probably should be "subsections".](#256h_1)
 
 [<sup>2</sup> See References in Text note below.](#256h_2)
+
+[<sup>3</sup> So in original.](#256h_3)

@@ -538,9 +538,9 @@ Pub. L. 102–429, title I, §117, Oct. 21, 1992, 106 Stat. 2196, provided that:
 
 [Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
 
-Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588.
+[Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588.
 
-Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716.
+[Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716.
 
 [Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598.
 

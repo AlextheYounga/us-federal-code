@@ -16,6 +16,8 @@ Pub. L. 112–74, div. E, title I, §114, Dec. 23, 2011, 125 Stat. 1009, provide
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–42, div. E, title I, §108, Mar. 9, 2024, 138 Stat. 246.
+
 Pub. L. 117–328, div. G, title I, §108, Dec. 29, 2022, 136 Stat. 4786.
 
 Pub. L. 117–103, div. G, title I, §108, Mar. 15, 2022, 136 Stat. 375.

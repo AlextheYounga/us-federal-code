@@ -32,7 +32,7 @@ Sec.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(20), Dec. 22, 2023, 137 Stat. 684, which directed amendment of analysis for chapter 134 of this title by striking item 2249 "Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs", was executed to analysis for this subchapter to reflect the probable intent of Congress.
+**2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(20), Dec. 22, 2023, 137 Stat. 684, which directed amendment of the analysis for this chapter by striking item 2249 "Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs", was executed to the analysis for this subchapter to reflect the probable intent of Congress.
 
 **2022**—Pub. L. 117–263, div. A, title V, §551(b), Dec. 23, 2022, 136 Stat. 2592, added item 2246.
 

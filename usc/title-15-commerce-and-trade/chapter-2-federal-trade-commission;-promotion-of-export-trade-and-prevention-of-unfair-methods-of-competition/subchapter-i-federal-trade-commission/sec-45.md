@@ -128,7 +128,7 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 #### References in Text ####
 
-The Packers and Stockyards Act, 1921, as amended, referred to in subsec. (a)(2), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, as amended, referred to in subsec. (a)(2), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
 #### Codification ####
 

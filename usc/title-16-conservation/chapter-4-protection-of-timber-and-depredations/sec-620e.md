@@ -78,7 +78,7 @@ For purposes of sections 620 to 620j of this title:
 
 #### References in Text ####
 
-Sections 620 to 620j of this title, referred to in par. (11), was in the original "this Act" and was translated as reading "this title", meaning title IV of Pub. L. 101–382, Aug. 20, 1990, 104 Stat. 714, as amended, known as the Forest Resources Conservation and Shortage Relief Act of 1990, which enacted sections 620 to 620j of this title and provisions set out as notes under section 620 of this title, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
+Sections 620 to 620j of this title, referred to in par. (11), was in the original "this Act" and was translated as reading "this title", meaning title IV of Pub. L. 101–382, Aug. 20, 1990, 104 Stat. 714, known as the Forest Resources Conservation and Shortage Relief Act of 1990, which enacted sections 620 to 620j of this title and provisions set out as notes under section 620 of this title, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 620 of this title and Tables.
 
 #### Amendments ####
 

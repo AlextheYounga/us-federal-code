@@ -6,7 +6,7 @@ Sec.
 
 9802. Purposes.
 
-9803. Responsibilities of the Assistant Secretary of Commerce for travel and tourism.
+9803. Responsibilities of the Assistant Secretary of Commerce for Travel and Tourism.
 
 9804. Travel and tourism strategy.
 

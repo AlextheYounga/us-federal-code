@@ -26,7 +26,7 @@ shall be punished as a court-martial may direct.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, §531(d)(1), designated existing provisions as subsec. (a), inserted heading, inserted "a dating partner," after "an intimate partner," wherever appearing, and added subsec. (b).
+**2023**—Pub. L. 118–31 designated existing provisions as subsec. (a), inserted heading, inserted "a dating partner," after "an intimate partner," wherever appearing, and added subsec. (b).
 
 **2019**—Pub. L. 116–92 inserted section catchline. Identical section catchline had been editorially supplied.
 

@@ -32,8 +32,8 @@ Sec.
 
 #### Codification ####
 
-Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634, 638, which directed amendment of chapter "205" of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter,which is chapter 2005, to reflect the probable intent of Congress.
+Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634, 638, which directed amendment of chapter "205" of this title by adding this subchapter at the end, was executed by adding this subchapter at the end of this chapter, which is chapter 2005, to reflect the probable intent of Congress.
 
 #### Amendments ####
 
-Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 638, 641–645, 647–649, added items 20231 to 20243. Amendment was made pursuant to operation of section 102 of this title.
+Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634, 638, 641–645, 647–649, added items 20231 to 20243. Amendment was made pursuant to operation of section 102 of this title.

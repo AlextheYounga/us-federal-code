@@ -70,7 +70,7 @@ Sec.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title I, §151, title II, §211, title X, §1002, title XVI, §1631, title XVIII, §1801(a)(3)(A), Dec. 22, 2023, 137 Stat. 179, 182, 378, 591, 683, added item 222e "Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report", 222e "Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report", and items 233a and 239e and substituted "plans and certifications" for "plan and certification" in item 231. Additions and amendment were made pursuant to operation of section 102 of this title.
+**2023**—Pub. L. 118–31, div. A, title I, §151, title II, §211, title X, §1002, title XVI, §1631, title XVIII, §1801(a)(3)(A), Dec. 22, 2023, 137 Stat. 179, 182, 378, 591, 683, added item 222e "Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report", 222e "Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report", and items 233a and 239e and substituted "plans and certifications" for "plan and certification" in item 231. Amendments were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title III, §§352(b), 371, title XVII, §1701(d)(2), Dec. 23, 2022, 136 Stat. 2534, 2539, 2966, added items 222d, 231, and 239d and struck out former item 231 "Budgeting for construction of naval vessels: annual plan and certification".
 

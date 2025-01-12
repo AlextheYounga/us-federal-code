@@ -38,7 +38,7 @@ The Secretary of the Interior, in consultation with the Secretary of Agriculture
 
 Section 2 of the Mineral Lands Leasing Act of 1920, referred to in subsec. (b)(1), probably means section 2(a) of the Mineral Lands Leasing Act of 1920, act Feb. 25, 1920, ch. 85, §2(a), 41 Stat. 438, which enacted section 201(a) of Title 30, Mineral Lands and Mining. Section 2(b) to (d) of the Mineral Lands Leasing Act of 1920 enacted sections 201(b), 202, and 202(a) of Title 30, respectively.
 
-The Mineral Lands Leasing Act of 1920, as amended, referred to in subsec. (b)(3), (5), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Lands Leasing Act of 1920, as amended, referred to in subsec. (b)(3), (5), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 #### Codification ####
 

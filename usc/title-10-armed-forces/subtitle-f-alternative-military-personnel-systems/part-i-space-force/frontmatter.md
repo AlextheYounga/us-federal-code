@@ -17,4 +17,10 @@ Chap. Sec.
 
 2013. Retirement 1 20601
 
+#### **Editorial Notes** ####
+
+#### Codification ####
+
+As enacted, section 1711 of Pub. L. 118–31, which enacted this subtitle, set out, in order, the headings for subtitle F and part I, the heading and table of sections for chapter 2001, the heading and text of section 20001, and a table of chapters consisting of chapters 2001 to 2013. Such table of chapters was executed as the table of chapters for this part.
+
 [<sup>1</sup> So in original. Does not conform to chapter heading.](#PARTI_1)

@@ -335,7 +335,7 @@ Chap. Sec.
 
 325. Cost Growth-Unit Cost Reports (Nunn-McCurdy) 4371
 
-326. 4
+326. 4 Weapon Systems Development And Related Matters 4401
 
 #### subpart f—major systems, major defense acquisition programs, and weapon systems development <sup><a href="#PARTVanalysis_3_target" name="PARTVanalysis_3">3</a></sup> ####
 
@@ -391,7 +391,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G), Dec. 22, 2023, 137 Stat. 683, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, §1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
+**2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G), Dec. 22, 2023, 137 Stat. 683, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed, notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, §1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
 
 Pub. L. 118–31, div. A, title XVI, §1682(b), title XVIII, §1801(a)(1)(A)–(F), (H), Dec. 22, 2023, 137 Stat. 617, 682, 683, added items for chapters 25, 113, 207, 287, 305, and 383 and items for Reserved chapters 225 and 272 and struck out former items for chapters 113 "Defense Civilian Training Corps", 207 "Budgeting and Appropriations Matters", 225 "Planning and Solicitation Relating to Particular Items or Services", 272 "Other Provisions Relating to Cost or Pricing Data", 287 "Other Contracting Programs", 305 "Universities", and 383 "Development, Application, & Support of Dual-Use Technologies".
 

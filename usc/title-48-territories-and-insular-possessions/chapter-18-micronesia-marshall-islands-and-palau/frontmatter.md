@@ -97,3 +97,25 @@ Sec.
 1973. Freely Associated State Air Carrier.
 
 1974. Connecting Oceania's Nations With Vanguard Exercises and National Empowerment.
+
+#### SUBCHAPTER IV—MICRONESIA, MARSHALL ISLANDS, AND PALAU: 2023 AGREEMENTS ####
+
+1981. Findings.
+
+1982. Definitions.
+
+1983. Approval of 2023 Agreement to Amend the U.S.-FSM Compact, 2023 Agreement to Amend the U.S.-RMI Compact, 2023 U.S.-Palau Compact Review Agreement, and Subsidiary Agreements.
+
+1984. Agreements with Federated States of Micronesia.
+
+1985. Agreements with and other provisions related to the Republic of the Marshall Islands.
+
+1986. Agreements with and other provisions related to the Republic of Palau.
+
+1987. Oversight provisions.
+
+1988. United States policy regarding the Freely Associated States.
+
+1989. Additional authorities.
+
+1990. Compact appropriations.

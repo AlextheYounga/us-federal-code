@@ -10,7 +10,7 @@ Sec.
 
 2164. Department of Defense domestic dependent elementary and secondary schools.
 
-§2164a. Rights of parents of children attending schools operated by the Department of Defense Education Activity.
+2164a. Rights of parents of children attending schools operated by the Department of Defense Education Activity.
 
 2165. National Defense University: component institutions.
 

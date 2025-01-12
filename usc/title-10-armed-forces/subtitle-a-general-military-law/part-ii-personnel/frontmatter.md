@@ -257,7 +257,7 @@ Pub. L. 117–81, div. A, title III, §364, Dec. 27, 2021, 135 Stat. 1662, provi
 
 "(4) The term 'special operations forces' means forces described under section 167(j) of title 10, United States Code."
 
-#### Improvements to Military Accessions ####
+#### Improvements to Military Accessions in the Armed Forces ####
 
 Pub. L. 118–31, div. A, title V, §545, Dec. 22, 2023, 137 Stat. 265, provided that:
 

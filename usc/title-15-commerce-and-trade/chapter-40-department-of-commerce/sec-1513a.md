@@ -16,6 +16,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–42, div. C, title I, Mar. 9, 2024, 138 Stat. 128.
+
 Pub. L. 117–328, div. B, title I, Dec. 29, 2022, 136 Stat. 4517.
 
 Pub. L. 117–103, div. B, title I, Mar. 15, 2022, 136 Stat. 108.

@@ -16,45 +16,7 @@ II. [Reserved] 4991
 
 #### Pilot Program for Streamlined Technology Transition From the SBIR and STTR Programs of the Department of Defense ####
 
-Pub. L. 115–91, div. A, title XVII, §1710, Dec. 12, 2017, 131 Stat. 1810, provided that:
-
-"(a) Definitions.—In this section—
-
-"(1) the terms 'commercialization', 'Federal agency', 'Phase I', 'Phase II', 'Phase III', 'SBIR', and 'STTR' have the meanings given those terms in section 9(e) of the Small Business Act (15 U.S.C. 638(e));
-
-"(2) the term 'covered small business concern' means—
-
-"(A) a small business concern that completed a Phase II award under the SBIR or STTR program of the Department; or
-
-"(B) a small business concern that—
-
-"(i) completed a Phase I award under the SBIR or STTR program of the Department; and
-
-"(ii) a contracting officer for the Department recommended for inclusion in a multiple award contract described in subsection (b);
-
-"(1) [sic] the term 'Department' means the Department of Defense;
-
-"(2) [sic] the term 'military department' has the meaning given the term in section 101 of title 10, United States Code;
-
-"(3) the term 'multiple award contract' has the meaning given the term in section 3302(a) of title 41, United States Code;
-
-"(4) the term 'pilot program' means the pilot program established under subsection (b); and
-
-"(5) the term 'small business concern' has the meaning given the term in section 3 of the Small Business Act (15 U.S.C. 632).
-
-"(b) Establishment.—Not later than 180 days after the date of enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall establish a pilot program under which the Department shall award multiple award contracts to covered small business concerns for the purchase of technologies, supplies, or services that the covered small business concern has developed through the SBIR or STTR program.
-
-"(c) Waiver of Competition in Contracting Act Requirements.—The Secretary of Defense may establish procedures to waive provisions of section 2304 of title 10, United States Code [see 10 U.S.C. 3201 et seq.], for purposes of carrying out the pilot program.
-
-"(d) Use of Contract Vehicle.—A multiple award contract described in subsection (b) may be used by any military department or component of the Department.
-
-"(e) Termination.—The pilot program established under this section shall terminate on September 30, 2023.
-
-"(f) Rule of Construction.—Nothing in this section shall be construed to prevent the commercialization of products and services produced by a small business concern under an SBIR or STTR program of a Federal agency through—
-
-"(1) direct awards for Phase III of an SBIR or STTR program; or
-
-"(2) any other contract vehicle."
+Pub. L. 115–91, div. A, title XVII, §1710, Dec. 12, 2017, 131 Stat. 1810, authorized the Secretary of Defense to establish a pilot program under which the Department was to award multiple award contracts to certain small business concerns for the purchase of technologies, supplies, or services that the small business concern had developed through the SBIR or STTR program, and provided that such pilot program would terminate on Sept. 30, 2023.
 
 #### Mentor-Protege Pilot Program ####
 

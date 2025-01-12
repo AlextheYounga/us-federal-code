@@ -8,7 +8,7 @@ Nothing in this part shall have the effect of terminating any validly issued rig
 
 #### References in Text ####
 
-The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see section 617t of Title 43 and Tables.
+The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see section 617t of Title 43 and Tables.
 
 Section 601(a)(2), referred to in text, is section 601(a)(2) of Pub. L. 103–433, which enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title.
 

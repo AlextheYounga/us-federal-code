@@ -24,7 +24,7 @@ The Secretary is authorized to grant to the State of Alaska a highway right-of-w
 
 #### References in Text ####
 
-Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
+Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
 That portion of the act of February 25, 1920, which is set out at 41 Stat. 449, as referred to in subsec. (c), is classified to sections 185 to 187 of Title 30, Mineral Lands and Mining. For complete classification of the Act to the Code, see Tables.
 

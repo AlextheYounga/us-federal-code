@@ -420,7 +420,7 @@ Subsec. (a)(4). Pub. L. 116–260, div. N, §306(A), amended par. (4) generally.
 
 "(A) the date that is 24 weeks after such date of origination; or
 
-"(B) December 31, 2020;"
+"(B) December 31, 2020;".
 
 Pub. L. 116–260, div. N, §304(b)(2)(A)(iii), (iv), redesignated par. (3) as (4). Former par. (4) redesignated (6).
 
@@ -470,7 +470,7 @@ Subsec. (i). Pub. L. 116–260, div. N, §276(a)(1), amended subsec. (i) general
 
 Subsec. (l). Pub. L. 116–260, div. N, §307(a)(3), added subsec. (l).
 
-Pub. L. 116–260, div. N, §306(1), struck out subsec. (l). Text read as follows: "An eligible recipient that received a covered loan before June 5, 2020, may elect for the covered period applicable to such covered loan to end on the date that is 8 weeks after the date of the origination of such covered loan.".
+Pub. L. 116–260, div. N, §306(1), struck out subsec. (l). Text read as follows: "An eligible recipient that received a covered loan before June 5, 2020, may elect for the covered period applicable to such covered loan to end on the date that is 8 weeks after the date of the origination of such covered loan."
 
 Pub. L. 116–142, §3(b)(3), added subsec. (l).
 

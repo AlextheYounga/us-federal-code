@@ -8,7 +8,7 @@ Pub. L. 98–473, title II, §235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out i
 
 Provisions further extending the period that this chapter would remain in effect after Nov. 1, 1987, were contained in the following:
 
-Pub. L. 118–15, div. A, §123, Sept. 30, 2023, 137 Stat. 78, as amended by Pub. L. 118–22, div. A, §5, Nov. 17, 2023, 137 Stat. 113, extended the period from 36 years to 36 years and 94 days.
+Pub. L. 118–15, div. A, §123, Sept. 30, 2023, 137 Stat. 78, as amended by Pub. L. 118–22, div. A, §101(5), Nov. 17, 2023, 137 Stat. 113, extended the period from 36 years to 36 years and 94 days.
 
 Pub. L. 117–328, div. O, title VIII, §801(b), Dec. 29, 2022, 136 Stat. 5232, extended the period from 35 years and 46 days to 36 years.
 

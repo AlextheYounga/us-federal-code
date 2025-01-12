@@ -38,7 +38,7 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 #### References in Text ####
 
-The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 #### Amendments ####
 

@@ -504,7 +504,7 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 St
 
 *The student's available income is equal to—*
 
-*(A) the difference between the student's total income (determined in accordance with section 1087vv of this title) and the adjustment to student income (determined in accordance withparagraph (2)); multiplied by*
+*(A) the difference between the student's total income (determined in accordance with section 480) and the adjustment to student income (determined in accordance with paragraph (2)); multiplied by*
 
 *(B) 50 percent,*
 
@@ -538,11 +538,17 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 St
 
 *The student's assets are determined by calculating the assets of the student and multiplying such amount by 20 percent, except that the result shall not be less than zero.*
 
-See 2020 Amendment note below.
+See 2020 and 2024 Amendment notes below.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Subsec. (g)(1). Pub. L. 118–40 amended par. (1) generally. Prior to amendment, text read as follows: "The student's available income is equal to—
+
+"(A) the difference between the student's total income (determined in accordance with section 1087vv of this title) and the adjustment to student income (determined in accordance with paragraph (2)); multiplied by
+
+"(B) 50 percent."
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to family contribution for dependent students.
 

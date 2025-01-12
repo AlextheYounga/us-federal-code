@@ -94,7 +94,7 @@ Sec.
 
 9052. Optional temporary relief from current expected credit losses.
 
-9053. Special Inspector General for pandemic recovery.
+9053. Special Inspector General for Pandemic Recovery.
 
 9054. Conflicts of interest.
 

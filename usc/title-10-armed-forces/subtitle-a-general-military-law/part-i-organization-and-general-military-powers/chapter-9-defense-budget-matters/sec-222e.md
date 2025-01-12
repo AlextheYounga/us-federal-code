@@ -42,6 +42,6 @@
 
 #### Codification ####
 
-Pub. L. 118–31, div. A, title II, §211, Dec. 22, 2023, 137 Stat. 182, provided that this chapter was amended by inserting this section "after section 222d". Another section 222e, which is set out preceding this section, was added and inserted "after section 222d", and so before this section, by Pub. L. 118–31, div. A, title X, §1002, Dec. 22, 2023, 137 Stat. 378.
+Pub. L. 118–31, div. A, title II, §211, Dec. 22, 2023, 137 Stat. 182, provided that this chapter was amended by inserting this section "after section 222d". Another section 222e, which is set out preceding this section, was subsequently added and inserted "after section 222d" by Pub. L. 118–31, div. A, title X, §1002, Dec. 22, 2023, 137 Stat. 378.
 
 [<sup>1</sup> Another section 222e is set out preceding this section. See Codification note below.](#222e_1)

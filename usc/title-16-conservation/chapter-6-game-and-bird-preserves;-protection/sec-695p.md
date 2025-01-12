@@ -8,6 +8,6 @@ In carrying out the obligations of the United States under any migratory bird tr
 
 #### References in Text ####
 
-The Migratory Bird Treaty Act (40 Stat. 755), referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II of chapter 7 (§703 et seq.) of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act (40 Stat. 755), referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II of chapter 7 (§703 et seq.) of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
 The Migratory Bird Conservation Act (45 Stat. 1222), as amended, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.

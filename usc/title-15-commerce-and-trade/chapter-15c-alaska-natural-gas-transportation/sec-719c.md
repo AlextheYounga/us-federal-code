@@ -64,7 +64,7 @@ If the Commission recommends the approval of a particular transportation system,
 
 #### References in Text ####
 
-The Natural Gas Act, referred to in subsecs. (a)(1) and (e), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(1) and (e), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

@@ -10,7 +10,7 @@
 
 #### References in Text ####
 
-This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under this section. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 
 Sections 79b and 79c of this title, referred to in subsec. (a), was in the original "the first section of this Act", meaning section 101 of Pub. L. 95–250. Provisions of section 101 relating to the addition of property to Redwood National Park are classified to sections 79b and 79c of this title.
 
