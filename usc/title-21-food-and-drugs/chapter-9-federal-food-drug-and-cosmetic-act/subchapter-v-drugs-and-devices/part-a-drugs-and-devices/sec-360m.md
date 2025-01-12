@@ -126,9 +126,9 @@ Compensation for an accredited person shall be determined by agreement between t
 
 #### (c) Duration ####
 
-The authority provided by this section terminates October 1, 2022.
+The authority provided by this section terminates December 17, 2022.
 
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title II, §206, Aug. 18, 2017, 131 Stat. 1018.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title II, §206, Aug. 18, 2017, 131 Stat. 1018; Pub. L. 117–180, div. F, title II, §2006, Sept. 30, 2022, 136 Stat. 2154.)
 
 #### **Editorial Notes** ####
 
@@ -137,6 +137,8 @@ The authority provided by this section terminates October 1, 2022.
 Section 360e–3 of this title, referred to in subsec. (a)(3)(A)(ii), was in the original a reference to section 515C of act June 25, 1938, which was renumbered section 515B by Pub. L. 115–52, title IX, §901(f)(2), Aug. 18, 2017, 131 Stat. 1077.
 
 #### Amendments ####
+
+**2022**—Subsec. (c). Pub. L. 117–180 substituted "December 17" for "October 1".
 
 **2017**—Subsec. (a)(3)(A)(ii) to (iv). Pub. L. 115–52, §206(1)(A), added cls. (ii) to (iv) and struck out former cls. (ii) and (iii) which read as follows:
 
@@ -177,6 +179,10 @@ whichever occurs first."
 Subsec. (d). Pub. L. 107–250, §202(2), added subsec. (d).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–180 effective Oct. 1, 2022, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2022, see section 2008 of Pub. L. 117–180, set out as a note under section 360d of this title.
 
 #### Effective Date of 2017 Amendment ####
 

@@ -32,9 +32,9 @@ This section shall not apply to a State requirement adopted by a State public in
 
 #### References in Text ####
 
-The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, as amended, which is classified principally to chapter 39A (§1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15 and Tables.
+The Poison Prevention Packaging Act of 1970, referred to in subsec. (a), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15 and Tables.
 
-The Fair Packaging and Labeling Act, referred to in subsec. (a), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, as amended, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+The Fair Packaging and Labeling Act, referred to in subsec. (a), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

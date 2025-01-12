@@ -56,7 +56,7 @@ The term "pregnancy-related assistance" has the meaning given the term "child he
 
 The term "targeted low-income pregnant woman" means an individual—
 
-(A) during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg(e)(1) of this title, the 12-month period, (beginning on the last day of her pregnancy) ends;
+(A) during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg(e)(1) of this title, the 12-month period,<sup><a href="#1397ll_1_target" name="1397ll_1">1</a></sup> (beginning on the last day of her pregnancy) ends;
 
 (B) whose family income exceeds 185 percent (or, if higher, the percent applied under subsection (b)(1)(A)) of the poverty line applicable to a family of the size involved, but does not exceed the income eligibility level established under the State child health plan under this subchapter for a targeted low-income child; and
 
@@ -103,3 +103,5 @@ Nothing in this subsection shall be construed—
 #### Effective Date ####
 
 Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+
+[<sup>1</sup> So in original. The comma probably should not appear.](#1397ll_1)

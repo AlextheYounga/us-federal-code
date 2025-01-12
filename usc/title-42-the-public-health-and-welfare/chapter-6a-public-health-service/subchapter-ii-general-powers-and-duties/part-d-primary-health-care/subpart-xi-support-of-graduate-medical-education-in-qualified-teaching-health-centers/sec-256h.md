@@ -266,7 +266,7 @@ Pub. L. 117–2, title II, §2604, Mar. 11, 2021, 135 Stat. 44, provided that:
 
 "(2) To provide an increase to the per resident amount described in section 340H(a)(2) of the Public Health Service Act (42 U.S.C. 256h(a)(2)) of $10,000.
 
-"(3) For making payments under section 340H(a)(1)(A) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(A))) to qualified teaching health centers for maintenance of filled positions at existing approved graduate medical residency training programs.
+"(3) For making payments under section 340H(a)(1)(A) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(A))) [sic] to qualified teaching health centers for maintenance of filled positions at existing approved graduate medical residency training programs.
 
 "(4) For making payments under section 340H(a)(1)(B) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(B)) for the expansion of existing approved graduate medical residency training programs.
 

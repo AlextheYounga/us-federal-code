@@ -104,67 +104,45 @@ to an advisory committee of experts, established pursuant to subparagraph (B), f
 
 (4) The Secretary shall provide to all employees of the Food and Drug Administration who review premarket submissions for devices periodic training on the concept and use of recognized standards for purposes of meeting a premarket submission requirement or other applicable requirement under this chapter, including standards relevant to an employee's area of device review.
 
-#### (d) Pilot accreditation scheme for conformity assessment ####
+#### (d) Accreditation scheme for conformity assessment ####
 
 #### (1) In general ####
 
-The Secretary shall establish a pilot program under which—
+The Secretary shall establish a program under which—
 
-(A) testing laboratories may be accredited, by accreditation bodies meeting criteria specified by the Secretary, to assess the conformance of a device with certain standards recognized under this section; and
+(A) testing laboratories meeting criteria specified in guidance by the Secretary may be accredited, by accreditation bodies meeting criteria specified in guidance by the Secretary, to conduct testing to support the assessment of the conformity of a device to certain standards recognized under this section; and
 
-(B) subject to paragraph (2), determinations by testing laboratories so accredited that a device conforms with such standard or standards shall be accepted by the Secretary for purposes of demonstrating such conformity under this section unless the Secretary finds that a particular such determination shall not be so accepted.
+(B) subject to paragraph (2), results from tests conducted to support the assessment of conformity of devices as described in subparagraph (A) conducted by testing laboratories accredited pursuant to this subsection shall be accepted by the Secretary for purposes of demonstrating such conformity unless the Secretary finds that certain results of such tests should not be so accepted.
 
-#### (2) Secretarial review of accredited laboratory determinations ####
+#### (2) Secretarial review of accredited laboratory results ####
 
 The Secretary may—
 
-(A) review determinations by testing laboratories accredited pursuant to this subsection, including by conducting periodic audits of such determinations or processes of accredited bodies or testing laboratories and, following such review, taking additional measures under this chapter, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A) or requesting additional information with respect to such device, as the Secretary determines appropriate; and
+(A) review the results of tests conducted by testing laboratories accredited pursuant to this subsection, including by conducting periodic audits of such results or of the processes of accredited bodies or testing laboratories;
 
-(B) if the Secretary becomes aware of information materially bearing on safety or effectiveness of a device assessed for conformity by a testing laboratory so accredited, take such additional measures under this chapter as the Secretary determines appropriate, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A), or requesting additional information with regard to such device.
+(B) following such review, take additional measures under this chapter, as the Secretary determines appropriate, such as—
 
-#### (3) Implementation and reporting ####
+(i) suspension or withdrawal of accreditation of a testing laboratory or recognition of an accreditation body under paragraph (1)(A); or
 
-#### (A) Public meeting ####
+(ii) requesting additional information with respect to a device; and
 
-The Secretary shall publish in the Federal Register a notice of a public meeting to be held no later than September 30, 2018, to discuss and obtain input and recommendations from stakeholders regarding the goals and scope of, and a suitable framework and procedures and requirements for, the pilot program under this subsection.
+(C) if the Secretary becomes aware of information materially bearing on the safety or effectiveness of a device for which an assessment of conformity was supported by testing conducted by a testing laboratory accredited under this subsection, take such additional measures under this chapter, as the Secretary determines appropriate, such as—
 
-#### (B) Pilot program guidance ####
+(i) suspension or withdrawal of accreditation of a testing laboratory or recognition of an accreditation body under paragraph (1)(A); or
 
-The Secretary shall—
+(ii) requesting additional information with regard to such device.
 
-(i) not later than September 30, 2019, issue draft guidance regarding the goals and implementation of the pilot program under this subsection; and
+#### (3) Report ####
 
-(ii) not later than September 30, 2021, issue final guidance with respect to the implementation of such program.
+The Secretary shall make available on the internet website of the Food and Drug Administration an annual report on the progress of the program under this subsection.
 
-#### (C) Pilot program initiation ####
-
-Not later than September 30, 2020, the Secretary shall initiate the pilot program under this subsection.
-
-#### (D) Report ####
-
-The Secretary shall make available on the internet website of the Food and Drug Administration an annual report on the progress of the pilot program under this subsection.
-
-#### (4) Sunset ####
-
-As of October 1, 2022—
-
-(A) the authority for accreditation bodies to accredit testing laboratories pursuant to paragraph (1)(A) shall cease to have force or effect;
-
-(B) the Secretary—
-
-(i) may not accept a determination pursuant to paragraph (1)(B) made by a testing laboratory after such date; and
-
-(ii) may accept such a determination made prior to such date;
-
-(C) except for purposes of accepting a determination described in subparagraph (B)(ii), the Secretary shall not continue to recognize the accreditation of testing laboratories accredited under paragraph (1)(A); and
-
-(D) the Secretary may take actions in accordance with paragraph (2) with respect to the determinations made prior to such date and recognition of the accreditation of testing laboratories pursuant to determinations made prior to such date.
-
-(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125; Pub. L. 115–52, title II, §205(a), Aug. 18, 2017, 131 Stat. 1016.)
+(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125; Pub. L. 115–52, title II, §205(a), Aug. 18, 2017, 131 Stat. 1016; Pub. L. 117–180, div. F, title II, §2005, Sept. 30, 2022, 136 Stat. 2153.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (d). Pub. L. 117–180 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to a pilot program for accrediting laboratories to assess device conformance.
 
 **2017**—Subsec. (d). Pub. L. 115–52 added subsec. (d).
 
@@ -225,6 +203,10 @@ Subsec. (g). Pub. L. 101–629, §6(a)(3), redesignated subsec. (g) as (b).
 **1976**—Subsec. (a). Pub. L. 94–460 redesignated pars. (4) and (5) as (3) and (4), respectively. Section as originally enacted contained no par. (3).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–180, div. F, title II, §2008, Sept. 30, 2022, 136 Stat. 2154, provided that: "The amendments made by this title [amending this section and sections 360m and 379i to 379j–1 of this title and repealing provisions set out as notes under sections 379i and 379j–1 of this title] shall take effect on October 1, 2022, or the date of the enactment of this Act [Sept. 30, 2022], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.) shall be assessed for all submissions listed in section 738(a)(2)(A) of such Act [21 U.S.C. 379j(a)(2)(A)] received on or after October 1, 2022, regardless of the date of the enactment of this Act."
 
 #### Effective Date of 2017 Amendment ####
 

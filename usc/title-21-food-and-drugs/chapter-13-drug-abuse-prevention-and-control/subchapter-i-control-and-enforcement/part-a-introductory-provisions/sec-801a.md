@@ -16,7 +16,7 @@ The Congress makes the following findings and declarations:
 
 This Act, referred to in par. (2), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat. 2768, as amended, known as the Psychotropic Substances Act of 1978, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealed section 830 of this title effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 801 of this title and Tables.
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (3), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to this chapter [§801 et seq.]. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (3), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to this chapter [§801 et seq.]. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Codification ####
 

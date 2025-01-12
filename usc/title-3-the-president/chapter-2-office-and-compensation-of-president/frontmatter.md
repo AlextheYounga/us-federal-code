@@ -548,7 +548,7 @@ Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of
 
 #### Executive Order No. 13498 ####
 
-Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, which established the President's Advisory Council for Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, §4, May 3, 2018, 83 F.R. 20717, set out below.
+Ex. Ord. No. 13498, Feb. 5, 2009, 74 F.R. 6533, which established the President's Advisory Council for Faith-Based and Neighborhood Partnerships, was revoked by Ex. Ord. No. 13831, §4, May 3, 2018, 83 F.R. 20717, formerly set out below.
 
 [For extensions of term of the President's Advisory Council on Faith-Based and Neighborhood Partnerships, see Ex. Ord. Nos. 13569 and 13640, set out below, and Executive Orders listed after Ex. Ord. No. 13640.]
 
@@ -668,47 +668,47 @@ Previous extension of term of President's Advisory Council on Faith-Based and Ne
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
-#### Ex. Ord. No. 13831. Establishment of a White House Faith and Opportunity Initiative ####
+#### Executive Order No. 13831 ####
 
-Ex. Ord. No. 13831, May 3, 2018, 83 F.R. 20715, provided:
+Ex. Ord. No. 13831, May 3, 2018, 83 F.R. 20715, which established a White House Faith and Opportunity Initiative, was revoked by Ex. Ord. No. 14015, §6, Feb. 14, 2021, 86 F.R. 10008, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to assist faith-based and other organizations in their efforts to strengthen the institutions of civil society and American families and communities, it is hereby ordered as follows:
+#### Ex. Ord. No. 14015. Establishment of the White House Office of Faith-Based and Neighborhood Partnerships ####
 
-Section 1. *Policy*. Faith-based and community organizations have tremendous ability to serve individuals, families, and communities through means that are different from those of government and with capacity that often exceeds that of government. These organizations lift people up, keep families strong, and solve problems at the local level. The executive branch wants faith-based and community organizations, to the fullest opportunity permitted by law, to compete on a level playing field for grants, contracts, programs, and other Federal funding opportunities. The efforts of faith-based and community organizations are essential to revitalizing communities, and the Federal Government welcomes opportunities to partner with such organizations through innovative, measurable, and outcome-driven initiatives.
+Ex. Ord. No. 14015, Feb. 14, 2021, 86 F.R. 10007, provided:
 
-Sec. 2. *Amendments to Executive Orders*. [Amended Ex. Ord. Nos. 13198, 13279, 13280, 13342, and 13397, set out as notes under section 601 of Title 5, Government Organization and Employees.]
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to better serve people in need through partnerships with civil society, while preserving our fundamental constitutional commitments, it is hereby ordered:
 
-Sec. 3. *White House Faith and Opportunity Initiative*. (a) There is established within the Executive Office of the President the White House Faith and Opportunity Initiative (Initiative).
+Section 1. *Policy*. Faith-based and other community-serving organizations are vital to our Nation's ability to address the needs of, and lift up, low-income and other underserved persons and communities, notably including persons of color. The American people are key drivers of fundamental change in our country, and few institutions are closer to the people than our faith-based and other community organizations. It is important that the Federal Government strengthen the ability of such organizations and other nonprofit providers in our communities to deliver services effectively in partnership with Federal, State, and local governments and with other private organizations, while preserving our fundamental constitutional commitments guaranteeing the equal protection of the laws and the free exercise of religion and forbidding the establishment of religion. The Federal Government can preserve these fundamental commitments while empowering faith-based and secular organizations to assist in the delivery of vital services in our neighborhoods. These partnerships are also vital for the success and effectiveness of the United States' diplomatic, international development, and humanitarian work around the world.
 
-(i) The Initiative shall be headed by an Advisor to the White House Faith and Opportunity Initiative (Advisor). The Advisor shall be housed in the Office of Public Liaison and shall work with that office and the Domestic Policy Council, in consultation with the Centers for Faith-Based and Community Initiatives established by Executive Order 13198, Executive Order 13280, Executive Order 13342, and Executive Order 13397 [5 U.S.C. 601 notes], to implement this order.
+Sec. 2. *Establishment*. There is established a White House Office of Faith-Based and Neighborhood Partnerships (White House Partnerships Office) within the Executive Office of the President, supported by the Domestic Policy Council and the Office of Public Engagement, that will have lead responsibility in the executive branch for establishing policies, priorities, and objectives for the Federal Government's comprehensive effort to enlist, equip, enable, empower, and expand the work of community-serving organizations, both faith-based and secular, to the extent permitted by law.
 
-(ii) The Initiative shall, from time to time and consistent with applicable law, consult with and seek information from experts and various faith and community leaders from outside the Federal Government, including those from State, local, and tribal governments, identified by the Office of Public Liaison, the Domestic Policy Council, and the Centers for Faith and Opportunity Initiatives. These experts and leaders shall be identified based on their expertise in a broad range of areas in which faith-based and community organizations operate, including poverty alleviation, religious liberty, strengthening marriage and family, education, solutions for substance abuse and addiction, crime prevention and reduction, prisoner reentry, and health and humanitarian services.
+Sec. 3. *Functions*. The principal functions of the White House Partnerships Office are, to the extent permitted by law:
 
-(iii) The Advisor shall make recommendations to the President, through the Assistant to the President for Domestic Policy, regarding changes to policies, programs, and practices that affect the delivery of services by faith-based and community organizations.
+(a) to assist in organizing more effective efforts to serve people in need across the country and around the world, in partnership with civil society, including faith-based and secular organizations;
 
-(iv) Executive departments and agencies (agencies) that lack a Center for Faith and Opportunity Initiative shall designate a Liaison for Faith and Opportunity Initiatives as a point of contact to coordinate with the Advisor in carrying out this order.
+(b) to develop, lead, and coordinate the Administration's policy agenda affecting faith-based and other community programs and initiatives and to optimize the role of such efforts in communities;
 
-(v) All agencies shall, to the extent permitted by law, provide such information, support, and assistance to the Initiative as it may request to develop public policy proposals.
+(c) to ensure that policy decisions and programs throughout the Federal Government are consistent with the policy set forth in section 1 of this order with respect to faith-based and other community initiatives;
 
-(b) To the extent permitted by law, the Initiative shall:
+(d) to bring concerns, ideas, and policy options to Administration leadership for assisting, strengthening, and replicating partnerships, whether financial or nonfinancial, with faith-based and other community organizations; and
 
-(i) periodically convene meetings with the individuals described in section 3(a)(ii) of this order;
+(e) to promote awareness among diverse civil society leaders of opportunities to partner—both financially and otherwise—with the Federal Government to serve people in need and to build institutional capacity.
 
-(ii) periodically convene meetings with representatives from the Centers for Faith and Opportunity Initiatives and other representatives from across agencies as the Advisor may designate;
+Sec. 4. *Administration*. (a) The White House Partnerships Office may make use of established or ad hoc committees, task forces, or interagency groups.
 
-(iii) provide recommendations regarding aspects of my Administration's policy agenda that affect faith-based and community programs and initiatives;
+(b) The White House Partnerships Office shall be led by an Executive Director and a Deputy Director. The operations of the White House Partnerships Office shall begin within 30 days of the date of this order [Feb. 14, 2021].
 
-(iv) help integrate those aspects of my Administration's policy agenda that affect faith-based and other community organizations throughout the Federal Government;
+(c) The White House Partnerships Office shall coordinate with the liaison and point of contact designated by each executive department and agency (agency) with respect to this initiative.
 
-(v) showcase innovative initiatives by faith-based and community organizations that serve and strengthen individuals, families, and communities throughout the United States;
+(d) All agencies shall cooperate with the White House Partnerships Office and provide such information, support, and assistance to the White House Partnerships Office as it may request, to the extent permitted by law.
 
-(vi) notify the Attorney General, or his designee, of concerns raised by faith-based and community organizations about any failures of the executive branch to comply with protections of Federal law for religious liberty as outlined in the Attorney General's Memorandum of October 6, 2017 (Federal Law Protections for Religious Liberty), issued pursuant to Executive Order 13798 of May 4, 2017 (Promoting Free Speech and Religious Liberty) [42 U.S.C. 2000bb note]; and
+(e) In order to ensure that Federal programs and practices involving grants or contracts to faith-based organizations are consistent with applicable law, the Executive Director of the White House Partnerships Office, acting through the Counsel to the President, may seek the opinion of the Attorney General on any constitutional and statutory questions involving existing or prospective programs and practices.
 
-(vii) identify and propose means to reduce, in accordance with Executive Order 13798 and the Attorney General's Memorandum of October 6, 2017, burdens on the exercise of religious convictions and legislative, regulatory, and other barriers to the full and active engagement of faith-based and community organizations in Government-funded or Government-conducted activities and programs.
+Sec. 5. *Amendments to Executive Orders*. (a) [Amended Ex. Ord. Nos. 13198, 13279, 13280, 13342, and 13397, set out as notes under section 601 of Title 5, Government Organization and Employees.]
 
-Sec. 4. *Revocation of Executive Orders*. Executive Order 13199 of January 29, 2001 (Establishment of White House Office of Faith-Based and Community Initiatives), and Executive Order 13498 of February 5, 2009 (Amendments to Executive Order 13199 and Establishment of the President's Advisory Council for Faith-Based and Neighborhood Partnerships) [formerly set out as notes above], are hereby revoked.
+Sec. 6. *Revocation*. Executive Order 13831 of May 3, 2018 (Establishment of a White House Faith and Opportunity Initiative) [formerly set out above], is revoked.
 
-Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
+Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -718,7 +718,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-Donald J. Trump.
+J.R. Biden, Jr.
 
 #### White House Task Force on Middle-Class Working Families ####
 

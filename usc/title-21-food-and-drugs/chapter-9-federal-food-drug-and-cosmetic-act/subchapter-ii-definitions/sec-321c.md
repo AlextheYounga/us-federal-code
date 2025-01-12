@@ -10,7 +10,7 @@ The term "milk", when used herein, means sweet milk of cows.
 
 #### References in Text ####
 
-The Federal Food, Drug, and Cosmetic Act of June 26, 1938 (ch. 675, sec. 1, 52 Stat. 1040), referred to in text, probably means act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to this chapter (§301 et seq.). For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act of June 26, 1938 (ch. 675, sec. 1, 52 Stat. 1040), referred to in text, probably means act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter (§301 et seq.). For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 #### Codification ####
 

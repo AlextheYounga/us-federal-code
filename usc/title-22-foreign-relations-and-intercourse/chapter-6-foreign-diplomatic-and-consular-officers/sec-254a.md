@@ -30,7 +30,7 @@ within the meaning of Article 37 of the Vienna Convention;
 
 #### References in Text ####
 
-This Act, referred to in text, means Pub. L. 95–393, Sept. 30, 1978, 92 Stat. 808, as amended, known as the Diplomatic Relations Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, means Pub. L. 95–393, Sept. 30, 1978, 92 Stat. 808, known as the Diplomatic Relations Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments ####
 

@@ -92,7 +92,9 @@ Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
 
 Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
-Colombia.—Determination No. 2021–10, Aug. 10, 2021, 86 F.R. 45619.
+Colombia.—Determination No. 2022–20, Aug. 9, 2022, 87 F.R. 51233.
+
+Determination No. 2021–10, Aug. 10, 2021, 86 F.R. 45619.
 
 Determination No. 2020–09, July 17, 2020, 85 F.R. 45751.
 

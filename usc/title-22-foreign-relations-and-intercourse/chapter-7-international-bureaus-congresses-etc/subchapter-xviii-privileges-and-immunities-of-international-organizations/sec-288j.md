@@ -8,7 +8,7 @@ For purposes of the International Organizations Immunities Act (22 U.S.C. 288 an
 
 #### References in Text ####
 
-The International Organizations Immunities Act, referred to in text, is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 288 of this title and Tables.
+The International Organizations Immunities Act, referred to in text, is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 288 of this title and Tables.
 
 #### Codification ####
 

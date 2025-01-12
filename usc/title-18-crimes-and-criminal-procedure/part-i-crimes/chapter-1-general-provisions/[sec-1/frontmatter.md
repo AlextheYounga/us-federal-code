@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2022 Amendment ####
 
+Pub. L. 117–180, div. C, title I, §103(a), Sept. 30, 2022, 136 Stat. 2133, provided that: "This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the 'United States Parole Commission Extension Act of 2022'."
+
 Pub. L. 117–176, §1, Sept. 16, 2022, 136 Stat. 2108, provided that: "This Act [amending section 2255 of this title and enacting provisions set out as a note under section 2255 of this title] may be cited as the 'Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022'."
 
 Pub. L. 117–159, §3(a), June 25, 2022, 136 Stat. 1313, provided that: "This Act [see Tables for classification] may be cited as the 'Bipartisan Safer Communities Act'."

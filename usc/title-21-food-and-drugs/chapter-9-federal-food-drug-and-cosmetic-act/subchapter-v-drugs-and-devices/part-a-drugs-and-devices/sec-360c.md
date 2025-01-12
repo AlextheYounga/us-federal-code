@@ -308,13 +308,13 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 #### (j) Training and oversight of least burdensome requirements ####
 
-#### (1) The Secretary shall— ####
+(1) The Secretary shall—
 
 (A) ensure that each employee of the Food and Drug Administration who is involved in the review of premarket submissions, including supervisors, receives training regarding the meaning and implementation of the least burdensome requirements under subsections (a)(3)(D) and (i)(1)(D) of this section and section 360e(c)(5) of this title; and
 
 (B) periodically assess the implementation of the least burdensome requirements, including the employee training under subparagraph (A), to ensure that the least burdensome requirements are fully and consistently applied.
 
-#### (2) Not later than 18 months after December 13, 2016, the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall— ####
+(2) Not later than 18 months after December 13, 2016, the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall—
 
 (A) conduct an audit of the training described in paragraph (1)(A), including the effectiveness of such training in implementing the least burdensome requirements;
 
@@ -336,7 +336,7 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 #### References in Text ####
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
 

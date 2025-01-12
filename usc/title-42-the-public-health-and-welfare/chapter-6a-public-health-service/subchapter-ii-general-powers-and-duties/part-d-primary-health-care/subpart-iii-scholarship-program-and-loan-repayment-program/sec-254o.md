@@ -26,7 +26,7 @@ in lieu of any service obligation arising under such contract shall be liable to
 
 ###  t−s ###
 
-### A=3φ (——) ###
+### A= 3φ (——) ###
 
 ###  t ###
 

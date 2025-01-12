@@ -12,7 +12,7 @@
 
 #### References in Text ####
 
-The Bretton Woods Agreements Act, referred to in subsec. (a), is act July 31, 1945, ch. 339, 59 Stat. 512, as amended, which is classified principally to this subchapter (§286 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 286 of this title and Tables.
+The Bretton Woods Agreements Act, referred to in subsec. (a), is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to this subchapter (§286 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 286 of this title and Tables.
 
 #### Codification ####
 

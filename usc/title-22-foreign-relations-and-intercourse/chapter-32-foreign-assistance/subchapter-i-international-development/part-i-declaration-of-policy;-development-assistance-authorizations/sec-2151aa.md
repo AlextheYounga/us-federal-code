@@ -162,9 +162,9 @@ Amounts authorized to be appropriated under paragraph (1) are authorized to rema
 
 #### References in Text ####
 
-The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(4), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(4), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification ####
 

@@ -28,7 +28,7 @@ The congressional committees and organizations referred to in subsection (a) are
 
 #### References in Text ####
 
-The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 Section 711(a)(1), referred to in subsec. (a)(2)(A), is section 711(a)(1) of Pub. L. 109–177, which amended section 802 of this title.
 

@@ -32,7 +32,7 @@ Remainder of section 203 of title 13, U.S.C., 1952 ed., is incorporated in this 
 
 #### References in Text ####
 
-The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, as amended, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
+The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
 Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5533 of Title 5.
 

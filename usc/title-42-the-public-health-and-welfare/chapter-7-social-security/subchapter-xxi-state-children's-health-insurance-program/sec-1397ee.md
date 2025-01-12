@@ -436,7 +436,7 @@ In the case of a targeted low-income child who receives child health assistance 
 
 Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup><a href="#1397ee_4_target" name="1397ee_4">4</a></sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
 
-#### (12) Temporary enhanced payment for coverage and administration of covid–19 vaccines ####
+#### (12) Temporary enhanced payment for coverage and administration of COVID–19 vaccines ####
 
 During the period described in section 1396d(hh)(2) of this title, notwithstanding subsection (b), the enhanced FMAP for a State, with respect to payments under subsection (a) for expenditures under the State child health plan (or a waiver of such plan) for a vaccine described in section 1396d(a)(4)(E) of this title (and the administration of such a vaccine), shall be equal to 100 percent.
 

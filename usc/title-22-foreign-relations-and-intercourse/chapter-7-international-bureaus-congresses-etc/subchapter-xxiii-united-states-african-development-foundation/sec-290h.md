@@ -18,9 +18,9 @@ The Congress finds that—
 
 #### References in Text ####
 
-The Foreign Assistance Act of 1961, referred to in par. (3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title IX of chapter 2 of part I of the Foreign Assistance Act of 1961 is classified generally to subpart IX of part II of subchapter I (§2218) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title IX of chapter 2 of part I of the Foreign Assistance Act of 1961 is classified generally to subpart IX of part II of subchapter I (§2218) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Foreign Assistance Act of 1969, referred to in par. (4), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. The Inter-American Foundation was established by section 401 of that Act, which is classified to section 290f of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1969, referred to in par. (4), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805. The Inter-American Foundation was established by section 401 of that Act, which is classified to section 290f of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification ####
 

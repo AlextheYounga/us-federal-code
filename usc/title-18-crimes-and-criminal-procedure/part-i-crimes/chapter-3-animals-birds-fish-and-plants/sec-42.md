@@ -44,11 +44,11 @@ This section [section 2] incorporates in section 42 of title 18, U.S.C., with sl
 
 #### References in Text ####
 
-The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Foods and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Foods and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Plant Pest Act, referred to in subsec. (a)(1), is Pub. L. 85–36, title I, May 23, 1957, 71 Stat. 31, as amended, which was classified generally to chapter 7B (§150aa et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(2), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
+The Federal Plant Pest Act, referred to in subsec. (a)(1), is Pub. L. 85–36, title I, May 23, 1957, 71 Stat. 31, which was classified generally to chapter 7B (§150aa et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, §438(a)(2), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
 
 This Act, referred to in subsec. (a)(3), probably refers to Pub. L. 86–702, which amended this section and section 43 of this title.
 

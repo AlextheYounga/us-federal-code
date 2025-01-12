@@ -160,7 +160,7 @@ The child health assistance provided to a targeted low-income child shall includ
 
 #### (11) Required coverage of COVID–19 vaccines and treatment ####
 
-Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, of—
+Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, of—
 
 (A) a COVID–19 vaccine (and the administration of the vaccine); and
 
@@ -202,7 +202,7 @@ A State child health plan shall include a description, consistent with this subs
 
 The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
 
-#### (2) No cost sharing on benefits for preventive services, COVID–19 testing, a covid–19 vaccine, covid–19 treatment, or pregnancy-related assistance ####
+#### (2) No cost sharing on benefits for preventive services, COVID–19 testing, a COVID–19 vaccine, COVID–19 treatment, or pregnancy-related assistance ####
 
 The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
 
@@ -292,7 +292,7 @@ Subsec. (e)(2). Pub. L. 117–169, §11405(b)(2), inserted "vaccines described i
 
 **2021**—Subsec. (c)(11). Pub. L. 117–2, §9821(a)(1), added par. (11).
 
-Subsec. (e)(2). Pub. L. 117–2, §9821(a)(2), in heading, inserted "a covid–19 vaccine, covid–19 treatment," before "or pregnancy-related assistance" and, in text, substituted "services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or" for "visits described in section 1396o(a)(2)(G) of this title, or".
+Subsec. (e)(2). Pub. L. 117–2, §9821(a)(2), in heading, inserted "a COVID–19 vaccine, COVID–19 treatment," before "or pregnancy-related assistance" and, in text, substituted "services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or" for "visits described in section 1396o(a)(2)(G) of this title, or".
 
 **2020**—Subsec. (c)(7)(A). Pub. L. 116–260, §203(a)(4)(C)(ii), inserted at end "In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act, a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation."
 

@@ -32,7 +32,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Constitutionality ####
 
-For constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

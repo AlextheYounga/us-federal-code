@@ -706,7 +706,7 @@ Pub. L. 114–268, Dec. 14, 2016, 130 Stat. 1387, provided that:
 
 #### Stockpile Functions Transferred ####
 
-Pub. L. 108–276, §3(c)(1),(2), July 21, 2004, 118 Stat. 853, provided that:
+Pub. L. 108–276, §3(c)(1), (2), July 21, 2004, 118 Stat. 853, provided that:
 
 "(1) In general.—Except as provided in paragraph (2), there shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, unexpended balances, and liabilities of the Strategic National Stockpile, including the functions of the Secretary of Homeland Security relating thereto.
 

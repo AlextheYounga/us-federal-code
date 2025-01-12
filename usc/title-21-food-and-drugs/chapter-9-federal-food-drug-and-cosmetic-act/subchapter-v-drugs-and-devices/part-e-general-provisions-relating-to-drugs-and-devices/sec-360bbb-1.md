@@ -8,7 +8,7 @@ If, regarding an obligation concerning drugs or devices under this Act or sectio
 
 #### References in Text ####
 
-This Act, referred to in text, is the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+This Act, referred to in text, is the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

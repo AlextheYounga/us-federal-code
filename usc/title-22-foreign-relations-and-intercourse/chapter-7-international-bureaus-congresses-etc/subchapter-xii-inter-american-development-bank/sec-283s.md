@@ -8,4 +8,4 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### References in Text ####
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§801 et seq.) of Title 21, Food and Drugs. For complete classification of this act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of Title 21, Food and Drugs. For complete classification of this act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.

@@ -30,9 +30,9 @@ For purposes of subsection (a):
 
 #### (c) Authorization of appropriations ####
 
-For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
+For grants and contracts under subsection (a), there is authorized to be appropriated $6,328,767 for the period beginning on October 1, 2022, and ending on December 16, 2022.
 
-(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048.)
+(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048; Pub. L. 117–180, div. F, title V, §5006, Sept. 30, 2022, 136 Stat. 2167.)
 
 #### **Editorial Notes** ####
 
@@ -41,6 +41,8 @@ For grants and contracts under subsection (a), there is authorized to be appropr
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments ####
+
+**2022**—Subsec. (c). Pub. L. 117–180 substituted "$6,328,767 for the period beginning on October 1, 2022, and ending on December 16, 2022" for "$30,000,000 for each of fiscal years 2018 through 2022".
 
 **2017**—Subsec. (c). Pub. L. 115–52 substituted "2018 through 2022" for "2013 through 2017".
 

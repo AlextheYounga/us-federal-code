@@ -10,7 +10,7 @@ The President is authorized to negotiate a special agreement or agreements with 
 
 Article 43 of said Charter and article 42 of said Charter, referred to in text, are articles of the United Nations Charter.
 
-Herein, referred to in text, means act Dec. 20, 1945, ch. 583, 59 Stat. 619, as amended, known as the United Nations Participation Act of 1945, which is classified generally to this subchapter (§287 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 287 of this title and Tables.
+Herein, referred to in text, means act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which is classified generally to this subchapter (§287 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 287 of this title and Tables.
 
 #### Amendments ####
 
