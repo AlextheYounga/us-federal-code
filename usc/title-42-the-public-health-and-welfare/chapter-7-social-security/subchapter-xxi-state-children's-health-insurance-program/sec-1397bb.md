@@ -18,9 +18,11 @@ A State child health plan shall include a description, consistent with the requi
 
 (7) methods (including monitoring) used—
 
-(A) to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan, and
+(A) to assure the quality and appropriateness of care, particularly with respect to well-baby care, well-child care, and immunizations provided under the plan;
 
-(B) to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title.
+(B) to assure access to covered services, including emergency services and services described in section 1397cc(c)(5) of this title; and
+
+(C) to ensure that the State agency involved is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title.
 
 #### (b) General description of eligibility standards and methodology ####
 
@@ -92,7 +94,7 @@ Coordination of the administration of the State program under this subchapter wi
 
 In the case of a State that provides for premium assistance subsidies under the State child health plan in accordance with paragraph (2)(B), (3), or (10) of section 1397ee(c) of this title, or a waiver approved under section 1315 of this title, outreach, education, and enrollment assistance for families of children likely to be eligible for such subsidies, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and for employers likely to provide coverage that is eligible for such subsidies, including the specific, significant resources the State intends to apply to educate employers about the availability of premium assistance subsidies under the State child health plan.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034.)
+(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754.)
 
 #### References in Text ####
 
@@ -101,6 +103,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is class
 Section 1603(c) of title 25, referred to in subsec. (b)(3)(D), was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(7)(C). Pub. L. 114–198 added subpar. (C).
 
 **2010**—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted "modified adjusted gross income" for "modified gross income".
 

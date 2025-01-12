@@ -152,7 +152,7 @@ Subsec. (g)(1). Pub. L. 114–54, §301(b)(4), substituted "every 5 years" for "
 
 Subsec. (j). Pub. L. 114–54, §301(b)(5)(A), inserted heading.
 
-Subsec. (j)(1). Pub. L. 114–54, §301(b)(5)(A), (B), inserted heading; designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings; in subpar. (C), substituted "Fees described in this paragraph" for "Such fees"; and added subpar. (D).
+Subsec. (j)(1). Pub. L. 114–54, §301(b)(5)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted "Fees described in this paragraph" for "Such fees", and added subpar. (D).
 
 Subsec. (j)(4). Pub. L. 114–54, §301(b)(5)(D), added par. (4). Former par. (4) redesignated (5).
 

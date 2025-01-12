@@ -88,7 +88,7 @@ Subsec. (i)(2). Pub. L. 114–54, §301(b)(3)(B), in introductory provisions, su
 
 Subsec. (l). Pub. L. 114–54, §301(c)(2)(A), inserted heading.
 
-Subsec. (l)(1). Pub. L. 114–54, §301(c)(2)(A), (B), inserted heading; designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings; in subpar. (C), substituted "Fees described in this paragraph" for "Such fees"; and added subpar. (D).
+Subsec. (l)(1). Pub. L. 114–54, §301(c)(2)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted "Fees described in this paragraph" for "Such fees", and added subpar. (D).
 
 Subsec. (l)(3). Pub. L. 114–54, §301(c)(2)(D), added par. (3). Former par. (3) redesignated (4).
 

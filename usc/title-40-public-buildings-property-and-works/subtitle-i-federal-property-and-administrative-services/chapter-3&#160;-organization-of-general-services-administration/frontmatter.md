@@ -1,4 +1,4 @@
-### **CHAPTER 3<sup><a href="#CHAPTER3_1_target" name="CHAPTER3_1">1</a></sup>**—ORGANIZATION OF GENERAL SERVICES ADMINISTRATION ###
+### **CHAPTER 3 <sup><a href="#CHAPTER3&nbsp;_1_target" name="CHAPTER3&nbsp;_1">1</a></sup>**—ORGANIZATION OF GENERAL SERVICES ADMINISTRATION ###
 
 #### SUBCHAPTER I—GENERAL ####
 
@@ -36,6 +36,6 @@ Sec.
 
 **2002**—Pub. L. 107–347, title I, §102(a)(2), Dec. 17, 2002, 116 Stat. 2910, added item 305.
 
-[<sup>1</sup> Another chapter 3 is set out in subtitle V of this title.](#CHAPTER3_1)
+[<sup>1</sup> Another chapter 3 is set out in subtitle V of this title.](#CHAPTER3 _1)
 
-[<sup>2</sup> Section repealed by Pub. L. 111–8 without corresponding amendment of chapter analysis.](#CHAPTER3_2)
+[<sup>2</sup> Section repealed by Pub. L. 111–8 without corresponding amendment of chapter analysis.](#CHAPTER3 _2)

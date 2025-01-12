@@ -2,9 +2,9 @@
 
 #### (a) In general ####
 
-The Director of the Center for Substance Abuse Treatment shall provide awards of grants, cooperative agreement, or contracts to public and nonprofit private entities for the purpose of providing to pregnant and postpartum women treatment for substance abuse through programs in which, during the course of receiving treatment—
+The Director of the Center for Substance Abuse Treatment (referred to in this section as the "Director") shall provide awards of grants, including the grants under subsection (r), cooperative agreements or contracts to public and nonprofit private entities for the purpose of providing to pregnant and postpartum women treatment for substance use disorders through programs in which, during the course of receiving treatment—
 
-(1) the women reside in facilities provided by the programs;
+(1) the women reside in or receive outpatient treatment services from facilities provided by the programs;
 
 (2) the minor children of the women reside with the women in such facilities, if the women so request; and
 
@@ -16,19 +16,19 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 (1) treatment services and each supplemental service will be available through the applicant, either directly or through agreements with other public or nonprofit private entities; and
 
-(2) the services will be made available to each woman admitted to the program.
+(2) the services will be made available to each woman admitted to the program and her children.
 
 #### (c) Individualized plan of services ####
 
 A funding agreement for an award under subsection (a) of this section for an applicant is that—
 
-(1) in providing authorized services for an eligible woman pursuant to such subsection, the applicant will, in consultation with the women, prepare an individualized plan for the provision to the woman of the services; and
+(1) in providing authorized services for an eligible woman pursuant to such subsection, the applicant will, in consultation with the women, prepare an individualized plan for the provision of services for the woman and her children; and
 
 (2) treatment services under the plan will include—
 
-(A) individual, group, and family counseling, as appropriate, regarding substance abuse; and
+(A) individual, group, and family counseling, as appropriate, regarding substance use disorders; and
 
-(B) follow-up services to assist the woman in preventing a relapse into such abuse.
+(B) follow-up services to assist the woman in preventing a relapse into such a disorder.
 
 #### (d) Required supplemental services ####
 
@@ -40,13 +40,13 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 (3) For the infants and children of the woman—
 
-(A) pediatric health care, including treatment for any perinatal effects of maternal substance abuse and including screenings regarding the physical and mental development of the infants and children;
+(A) pediatric health care, including treatment for any perinatal effects of a maternal substance use disorder and including screenings regarding the physical and mental development of the infants and children;
 
 (B) counseling and other mental health services, in the case of children; and
 
 (C) comprehensive social services.
 
-(4) Providing supervision of children during periods in which the woman is engaged in therapy or in other necessary health or rehabilitative activities.
+(4) Providing therapeutic, comprehensive child care for children during the periods in which the woman is engaged in therapy or in other necessary health and rehabilitative activities.
 
 (5) Training in parenting.
 
@@ -56,43 +56,55 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 (8) Counseling on obtaining employment, including the importance of graduating from a secondary school.
 
-(9) Reasonable efforts to preserve and support the family units of the women, including promoting the appropriate involvement of parents and others, and counseling the children of the women.
+(9) Reasonable efforts to preserve and support the family unit of the woman, including promoting the appropriate involvement of parents and others, and counseling the children of the woman.
 
-(10) Planning for and counseling to assist reentry into society, both before and after discharge, including referrals to any public or nonprofit private entities in the community involved that provide services appropriate for the women and the children of the women.
+(10) Planning for and counseling to assist reentry into society, both before and after discharge, including referrals to any public or nonprofit private entities in the community involved that provide services appropriate for the woman and the children of the woman.
 
 (11) Case management services, including—
 
-(A) assessing the extent to which authorized services are appropriate for the women and their children;
+(A) assessing the extent to which authorized services are appropriate for the woman and any child of such woman;
 
-(B) in the case of the services that are appropriate, ensuring that the services are provided in a coordinated manner; and
+(B) in the case of the services that are appropriate, ensuring that the services are provided in a coordinated manner;
 
-(C) assistance in establishing eligibility for assistance under Federal, State, and local programs providing health services, mental health services, housing services, employment services, educational services, or social services.
+(C) assistance in establishing eligibility for assistance under Federal, State, and local programs providing health services, mental health services, housing services, employment services, educational services, or social services; and
+
+(D) family reunification with children in kinship or foster care arrangements, where safe and appropriate.
 
 #### (e) Minimum qualifications for receipt of award ####
 
 #### (1) Certification by relevant State agency ####
 
-With respect to the principal agency of the State involved that administers programs relating to substance abuse, the Director may make an award under subsection (a) of this section to an applicant only if the agency has certified to the Director that—
+With respect to the principal agency of the State involved that administers programs relating to substance use disorders, the Director may make an award under subsection (a) of this section to an applicant only if the agency has certified to the Director that—
 
 (A) the applicant has the capacity to carry out a program described in subsection (a) of this section;
 
-(B) the plans of the applicant for such a program are consistent with the policies of such agency regarding the treatment of substance abuse; and
+(B) the plans of the applicant for such a program are consistent with the policies of such agency regarding the treatment of substance use disorders; and
 
 (C) the applicant, or any entity through which the applicant will provide authorized services, meets all applicable State licensure or certification requirements regarding the provision of the services involved.
 
 #### (2) Status as medicaid provider ####
 
-(A) Subject to subparagraphs (B) and (C), the Director may make an award under subsection (a) of this section only if, in the case of any authorized service that is available pursuant to the State plan approved under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] for the State involved—
+#### (A) In general ####
+
+Subject to subparagraphs (B) and (C), the Director may make an award under subsection (a) of this section only if, in the case of any authorized service that is available pursuant to the State plan approved under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] for the State involved—
 
 (i) the applicant for the award will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 (ii) the applicant will enter into an agreement with a public or nonprofit private entity under which the entity will provide the service, and the entity has entered into such a participation agreement plan and is qualified to receive such payments.
 
-(B)(i) In the case of an entity making an agreement pursuant to subparagraph (A)(ii) regarding the provision of services, the requirement established in such subparagraph regarding a participation agreement shall be waived by the Director if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
+#### (B) Waiver of participation agreements ####
 
-(ii) A determination by the Director of whether an entity referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
+#### (i) In general ####
 
-(C) With respect to any authorized service that is available pursuant to the State plan described in subparagraph (A), the requirements established in such subparagraph shall not apply to the provision of any such service by an institution for mental diseases to an individual who has attained 21 years of age and who has not attained 65 years of age. For purposes of the preceding sentence, the term "institution for mental diseases" has the meaning given such term in section 1905(i) of the Social Security Act [42 U.S.C. 1396d(i)].
+In the case of an entity making an agreement pursuant to subparagraph (A)(ii) regarding the provision of services, the requirement established in such subparagraph regarding a participation agreement shall be waived by the Director if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
+
+#### (ii) Donations ####
+
+A determination by the Director of whether an entity referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
+
+#### (C) Nonapplication of certain requirements ####
+
+With respect to any authorized service that is available pursuant to the State plan described in subparagraph (A), the requirements established in such subparagraph shall not apply to the provision of any such service by an institution for mental diseases to an individual who has attained 21 years of age and who has not attained 65 years of age. For purposes of the preceding sentence, the term "institution for mental diseases" has the meaning given such term in section 1905(i) of the Social Security Act [42 U.S.C. 1396d(i)].
 
 #### (f) Requirement of matching funds ####
 
@@ -112,7 +124,7 @@ Non-Federal contributions required in paragraph (1) may be in cash or in kind, f
 
 #### (g) Outreach ####
 
-A funding agreement for an award under subsection (a) of this section for an applicant is that the applicant will provide outreach services in the community involved to identify women who are engaging in substance abuse and to encourage the women to undergo treatment for such abuse.
+A funding agreement for an award under subsection (a) of this section for an applicant is that the applicant will provide outreach services in the community involved to identify women who have a substance use disorder and to encourage the women to undergo treatment for such disorder.
 
 #### (h) Accessibility of program; cultural context of services ####
 
@@ -128,13 +140,13 @@ A funding agreement for an award under subsection (a) of this section is that th
 
 #### (j) Imposition of charges ####
 
-A funding agreement for an award under subsection (a) of this section for an applicant is that, if a charge is imposed for the provision of authorized services to on <sup><a href="#290bb-1_1_target" name="290bb-1_1">1</a></sup> behalf of an eligible woman, such charge—
+A funding agreement for an award under subsection (a) of this section for an applicant is that, if a charge is imposed for the provision of authorized services to or on behalf of an eligible woman, such charge—
 
 (1) will be made according to a schedule of charges that is made available to the public;
 
 (2) will be adjusted to reflect the income of the woman involved; and
 
-(3) will not be imposed on any such woman with an income of less than 185 percent of the official poverty line, as established by the Director of the Office for Management and Budget and revised by the Secretary in accordance with section 9902(2) of this title.
+(3) will not be imposed on any such woman with an income of less than 185 percent of the official poverty line, as established by the Director of the Office of Management and Budget and revised by the Secretary in accordance with section 9902(2) of this title.
 
 #### (k) Reports to Director ####
 
@@ -150,9 +162,9 @@ A funding agreement for an award under subsection (a) of this section is that th
 
 The Director may make an award under subsection (a) of this section only if an application for the award is submitted to the Director containing such agreements, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Director determines to be necessary to carry out this section.
 
-#### (m) Equitable allocation of awards ####
+#### (m) Allocation of awards ####
 
-In making awards under subsection (a) of this section, the Director shall ensure that the awards are equitably allocated among the principal geographic regions of the United States, subject to the availability of qualified applicants for the awards.
+In making awards under subsection (a), the Director shall give priority to an applicant that agrees to use the award for a program serving an area that is a rural area, an area designated under section 254e of this title by the Secretary as a health professional shortage area, or an area determined by the Director to have a shortage of family-based substance use disorder treatment options.
 
 #### (n) Duration of award ####
 
@@ -164,7 +176,7 @@ The Director shall, directly or through contract, provide for the conduct of eva
 
 #### (p) Reports to Congress ####
 
-Not later than October 1, 1994, the Director shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing programs carried out pursuant to this section. Every 2 years thereafter, the Director shall prepare a report describing such programs carried out during the preceding 2 years, and shall submit the report to the Administrator for inclusion in the biennial report under section 290aa(k) of this title. Each report under this subsection shall include a summary of any evaluations conducted under subsection (m) of this section during the period with respect to which the report is prepared.
+Not later than October 1, 1994, the Director shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing programs carried out pursuant to this section (other than subsection (r)). Every 2 years thereafter, the Director shall prepare a report describing such programs carried out during the preceding 2 years, and shall submit the report to the Administrator for inclusion in the biennial report under section 290aa(k) of this title. Each report under this subsection shall include a summary of any evaluations conducted under subsection (m) of this section during the period with respect to which the report is prepared.
 
 #### (q) Definitions ####
 
@@ -174,17 +186,91 @@ For purposes of this section:
 
 (2) The term "eligible woman" means a woman who has been admitted to a program operated pursuant to subsection (a) of this section.
 
-(3) The term "funding agreement under subsection (a)" of this section, with respect to an award under subsection (a) of this section, means that the Director may make the award only if the applicant makes the agreement involved.
+(3) The term "funding agreement", with respect to an award under subsection (a) of this section, means that the Director may make the award only if the applicant makes the agreement involved.
 
-(4) The term "treatment services" means treatment for substance abuse, including the counseling and services described in subsection (c)(2) of this section.
+(4) The term "treatment services" means treatment for a substance use disorder, including the counseling and services described in subsection (c)(2) of this section.
 
 (5) The term "supplemental services" means the services described in subsection (d) of this section.
 
-#### (r) Authorization of appropriations ####
+#### (r) Pilot program for State substance abuse agencies ####
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary to fiscal years 2001 through 2003.
+#### (1) In general ####
 
-(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207.)
+From amounts made available under subsection (s), the Director of the Center for Substance Abuse Treatment shall carry out a pilot program under which competitive grants are made by the Director to State substance abuse agencies—
+
+(A) to enhance flexibility in the use of funds designed to support family-based services for pregnant and postpartum women with a primary diagnosis of a substance use disorder, including opioid use disorders;
+
+(B) to help State substance abuse agencies address identified gaps in services furnished to such women along the continuum of care, including services provided to women in nonresidential-based settings; and
+
+(C) to promote a coordinated, effective, and efficient State system managed by State substance abuse agencies by encouraging new approaches and models of service delivery.
+
+#### (2) Requirements ####
+
+In carrying out the pilot program under this subsection, the Director shall—
+
+(A) require State substance abuse agencies to submit to the Director applications, in such form and manner and containing such information as specified by the Director, to be eligible to receive a grant under the program;
+
+(B) identify, based on such submitted applications, State substance abuse agencies that are eligible for such grants;
+
+(C) require services proposed to be furnished through such a grant to support family-based treatment and other services for pregnant and postpartum women with a primary diagnosis of a substance use disorder, including opioid use disorders;
+
+(D) not require that services furnished through such a grant be provided solely to women that reside in facilities;
+
+(E) not require that grant recipients under the program make available through use of the grant all the services described in subsection (d); and
+
+(F) consider not applying the requirements described in paragraphs (1) and (2) of subsection (f) to an applicant, depending on the circumstances of the applicant.
+
+#### (3) Required services ####
+
+#### (A) In general ####
+
+The Director shall specify a minimum set of services required to be made available to eligible women through a grant awarded under the pilot program under this subsection. Such minimum set of services—
+
+(i) shall include the services requirements described in subsection (c) and be based on the recommendations submitted under subparagraph (B); and
+
+(ii) may be selected from among the services described in subsection (d) and include other services as appropriate.
+
+#### (B) Stakeholder input ####
+
+The Director shall convene and solicit recommendations from stakeholders, including State substance abuse agencies, health care providers, persons in recovery from substance abuse, and other appropriate individuals, for the minimum set of services described in subparagraph (A).
+
+#### (4) Duration ####
+
+The pilot program under this subsection shall not exceed 5 years.
+
+#### (5) Evaluation and report to Congress ####
+
+#### (A) In general ####
+
+The Director of the Center for Behavioral Health Statistics and Quality shall evaluate the pilot program at the conclusion of the first grant cycle funded by the pilot program.
+
+#### (B) Report ####
+
+The Director of the Center for Behavioral Health Statistics and Quality, in coordination with the Director of the Center for Substance Abuse Treatment shall submit to the relevant committees of jurisdiction of the House of Representatives and the Senate a report on the evaluation under subparagraph (A). The report shall include, at a minimum—
+
+(i) outcomes information from the pilot program, including any resulting reductions in the use of alcohol and other drugs;
+
+(ii) engagement in treatment services;
+
+(iii) retention in the appropriate level and duration of services;
+
+(iv) increased access to the use of medications approved by the Food and Drug Administration for the treatment of substance use disorders in combination with counseling; and
+
+(v) other appropriate measures.
+
+#### (C) Recommendation ####
+
+The report under subparagraph (B) shall include a recommendation by the Director of the Center for Substance Abuse Treatment as to whether the pilot program under this subsection should be extended.
+
+#### (6) State substance abuse agencies defined ####
+
+For purposes of this subsection, the term "State substance abuse agency" means, with respect to a State, the agency in such State that manages the Substance Abuse Prevention and Treatment Block Grant under part B of subchapter XVII.
+
+#### (s) Authorization of appropriations ####
+
+For the purpose of carrying out this section, there are authorized to be appropriated $16,900,000 for each of fiscal years 2017 through 2021. Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.
+
+(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724.)
 
 #### References in Text ####
 
@@ -197,6 +283,60 @@ A prior section 290bb–1, act July 1, 1944, ch. 373, title V, §511, formerly P
 A prior section 508 of act July 1, 1944, which was classified to section 290aa–6 of this title, was renumbered section 515 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–21 of this title.
 
 #### Amendments ####
+
+**2016**—Subsec. (a). Pub. L. 114–198, §501(a)(1)(A), in introductory provisions, inserted "(referred to in this section as the 'Director')" after "Substance Abuse Treatment" and substituted "grants, including the grants under subsection (r), cooperative agreements" for "grants, cooperative agreement," and "for substance use disorders" for "for substance abuse".
+
+Subsec. (a)(1). Pub. L. 114–198, §501(a)(1)(B), inserted "or receive outpatient treatment services from" after "reside in".
+
+Subsec. (b)(2). Pub. L. 114–198, §501(a)(2), inserted "and her children" before period at end.
+
+Subsec. (c)(1). Pub. L. 114–198, §501(a)(3)(A), substituted "of services for the woman and her children" for "to the woman of the services".
+
+Subsec. (c)(2)(A). Pub. L. 114–198, §501(a)(3)(B)(i), substituted "substance use disorders" for "substance abuse".
+
+Subsec. (c)(2)(B). Pub. L. 114–198, §501(a)(3)(B)(ii), substituted "such a disorder" for "such abuse".
+
+Subsec. (d)(3)(A). Pub. L. 114–198, §501(a)(4)(A), substituted "a maternal substance use disorder" for "maternal substance abuse".
+
+Subsec. (d)(4). Pub. L. 114–198, §501(a)(4)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Providing supervision of children during periods in which the woman is engaged in therapy or in other necessary health or rehabilitative activities."
+
+Subsec. (d)(9). Pub. L. 114–198, §501(a)(4)(D), substituted "unit" for "units".
+
+Pub. L. 114–198, §501(a)(4)(C), substituted "woman" for "women" in two places.
+
+Subsec. (d)(10). Pub. L. 114–198, §501(a)(4)(C), substituted "woman" for "women" in two places.
+
+Subsec. (d)(11)(A). Pub. L. 114–198, §501(a)(4)(E)(i), substituted "any child of such woman" for "their children".
+
+Pub. L. 114–198, §501(a)(4)(C), substituted "the woman" for "the women".
+
+Subsec. (d)(11)(D). Pub. L. 114–198, §501(a)(4)(E)(ii)–(iv), added subpar. (D).
+
+Subsec. (e)(1). Pub. L. 114–198, §501(a)(5)(A), substituted "substance use disorders" for "substance abuse" in introductory provisions and in subpar. (B).
+
+Subsec. (e)(2). Pub. L. 114–198, §501(a)(5)(B), inserted headings for subpars. (A) to (C) and for cls. (i) and (ii) of subpar. (B).
+
+Subsec. (g). Pub. L. 114–198, §501(a)(6), substituted "who have a substance use disorder" for "who are engaging in substance abuse" and "such disorder" for "such abuse".
+
+Subsec. (j). Pub. L. 114–198, §501(a)(7)(A), substituted "to or on" for "to on" in introductory provisions.
+
+Subsec. (j)(3). Pub. L. 114–198, §501(a)(7)(B), substituted "Office of" for "Office for".
+
+Subsec. (m). Pub. L. 114–198, §501(a)(8), amended subsec. (m) generally. Prior to amendment, text read as follows: "In making awards under subsection (a) of this section, the Director shall ensure that the awards are equitably allocated among the principal geographic regions of the United States, subject to the availability of qualified applicants for the awards."
+
+Subsec. (p). Pub. L. 114–198, §501(b)(1), inserted "(other than subsection (r))" after "pursuant to this section".
+
+Subsec. (q)(3). Pub. L. 114–198, §501(a)(9)(A), substituted "funding agreement" for "funding agreement under subsection (a)".
+
+Subsec. (q)(4). Pub. L. 114–198, §501(a)(9)(B), substituted "a substance use disorder" for "substance abuse".
+
+Subsec. (r). Pub. L. 114–198, §501(c)(1)(B), added subsec. (r). Former subsec. (r) redesignated (s).
+
+Pub. L. 114–198, §501(b)(2), substituted "$16,900,000 for each of fiscal years 2017 through 2021" for "such sums as may be necessary to fiscal years 2001 through 2003".
+
+Subsec. (s). Pub. L. 114–198, §501(c)(2), inserted at end "Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016."
+
+Pub. L. 114–198, §501(c)(1)(A), redesignated subsec. (r) as (s).
 
 **2000**—Subsec. (r). Pub. L. 106–310 reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2001 to 2003 for provisions authorizing appropriations for fiscal years 1993 and 1994 and authorizing appropriations from the special forfeiture fund of the Director of the Office of National Drug Control Policy.
 
@@ -229,5 +369,3 @@ Pub. L. 102–321, title I, §108(b), July 10, 1992, 106 Stat. 341, provided tha
 "(B) The term 'current section 508' means section 508 of the Public Health Service Act [42 U.S.C. 290bb–1], as in effect for fiscal year 1993 and subsequent fiscal years.
 
 "(C) The term 'current section 509' means section 509 of the Public Health Service Act [42 U.S.C. 290bb–2], as in effect for fiscal year 1993 and subsequent fiscal years."
-
-[<sup>1</sup> So in original. Probably should be preceded by "or".](#290bb-1_1)

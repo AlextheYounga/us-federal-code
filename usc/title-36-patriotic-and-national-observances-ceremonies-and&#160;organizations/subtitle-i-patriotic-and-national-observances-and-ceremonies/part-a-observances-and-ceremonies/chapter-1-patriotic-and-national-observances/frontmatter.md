@@ -96,6 +96,428 @@ Sec.
 
 **2001**—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### John F. Kennedy Centennial Commission ####
+
+Pub. L. 114–215, July 29, 2016, 130 Stat. 830, provided that:
+
+#### "SECTION 1. SHORT TITLE. ####
+
+"This Act may be cited as the 'John F. Kennedy Centennial Commission Act'.
+
+#### "SEC. 2. ESTABLISHMENT. ####
+
+"There is established a commission to be known as the 'John F. Kennedy Centennial Commission' (in this Act referred to as the 'Commission').
+
+#### "SEC. 3. DUTIES OF COMMISSION. ####
+
+"The Commission shall—
+
+"(1) plan, develop, and carry out such activities as the Commission considers fitting and proper to honor John F. Kennedy on the occasion of the 100th anniversary of his birth;
+
+"(2) provide advice and assistance to Federal, State, and local governmental agencies, as well as civic groups to carry out activities to honor John F. Kennedy on the occasion of the 100th anniversary of his birth;
+
+"(3) develop activities that may be carried out by the Federal Government that are fitting and proper to honor John F. Kennedy on the occasion of the 100th anniversary of his birth; and
+
+"(4) submit to the President and Congress reports pursuant to section 7.
+
+#### "SEC. 4. MEMBERSHIP. ####
+
+"(a) Number and Appointment.—The Commission shall be composed of 11 members as follows:
+
+"(1) The Secretary of the Interior.
+
+"(2) Four members appointed by the President after considering the recommendations of the Board of Trustees of the John F. Kennedy Library Foundation.
+
+"(3) Two Members of the House of Representatives appointed by the Speaker of the House of Representatives.
+
+"(4) One Member of the House of Representatives appointed by the minority leader of the House of Representatives.
+
+"(5) Two Members of the Senate appointed by the majority leader of the Senate.
+
+"(6) One Member of the Senate appointed by the minority leader of the Senate.
+
+"(b) Ex Officio Member.—The Archivist of the United States shall serve in an ex officio capacity on the Commission to provide advice and information to the Commission.
+
+"(c) Terms.—Each member shall be appointed for the life of the Commission.
+
+"(d) Deadline for Appointment.—All members of the Commission shall be appointed not later than 90 days after the date of the enactment of this Act [July 29, 2016].
+
+"(e) Vacancies.—A vacancy on the Commission shall—
+
+"(1) not affect the powers of the Commission; and
+
+"(2) be filled in the manner in which the original appointment was made.
+
+"(f) Rates of Pay.—Members shall not receive compensation for the performance of their duties on behalf of the Commission.
+
+"(g) Travel Expenses.—Each member of the Commission shall be reimbursed for travel and per diem in lieu of subsistence expenses during the performance of duties of the Commission while away from home or his or her regular place of business, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
+
+"(h) Quorum.—A majority of the members of the Commission shall constitute a quorum to conduct business, but two or more members may hold hearings.
+
+"(i) Chairperson.—The chairperson of the Commission shall be elected by a majority vote of the members of the Commission.
+
+#### "SEC. 5. DIRECTOR AND STAFF OF COMMISSION. ####
+
+"(a) Director and Staff.—The Commission shall appoint an executive director and such other additional employees as are necessary to enable the Commission to perform its duties.
+
+"(b) Applicability of Certain Civil Service Laws.—The executive director and employees of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other employees may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+"(c) Detail of Federal Employees.—Upon request of the Commission, the Secretary of the Interior or the Archivist of the United States may detail, on a reimbursable basis, any of the employees of that department or agency to the Commission to assist it in carrying out its duties under this Act.
+
+"(d) Experts and Consultants.—The Commission may procure such temporary and intermittent services as are necessary to enable the Commission to perform its duties.
+
+"(e) Volunteer and Uncompensated Services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
+
+#### "SEC. 6. POWERS OF COMMISSION. ####
+
+"(a) Hearings.—The Commission may, for the purpose of carrying out this Act, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+
+"(b) Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+"(c) Obtaining Official Data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this Act. Upon request of the chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
+
+"(d) Gifts, Bequests, Devises.—The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of aiding or facilitating its work.
+
+"(e) Available Space.—Upon the request of the Commission, the Administrator of General Services shall make available nationwide to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
+
+"(f) Contract Authority.—The Commission may enter into contracts with and compensate government and private agencies or persons to enable the Commission to discharge its duties under this Act.
+
+#### "SEC. 7. REPORTS. ####
+
+"(a) Annual Reports.—The Commission shall submit to the President and the Congress annual reports on the revenue and expenditures of the Commission, including a list of each gift, bequest, or devise to the Commission with a value of more than $250, together with the identity of the donor of each gift, bequest, or devise.
+
+"(b) Interim Reports.—The Commission may submit to the President and Congress interim reports as the Commission considers appropriate.
+
+"(c) Final Report.—Not later than August 31, 2017, the Commission shall submit a final report to the President and the Congress containing—
+
+"(1) a summary of the activities of the Commission;
+
+"(2) a final accounting of funds received and expended by the Commission; and
+
+"(3) the findings, conclusions, and final recommendations of the Commission.
+
+#### "SEC. 8. TERMINATION. ####
+
+"The Commission may terminate on such date as the Commission may determine after it submits its final report pursuant to section 7(c), but not later than September 30, 2017.
+
+#### "SEC. 9. ANNUAL AUDIT. ####
+
+"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+#### "SEC. 10. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS. ####
+
+"No Federal funds may be obligated to carry out this Act."
+
+#### United States Semiquincentennial Commission ####
+
+Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
+
+#### "SECTION 1. SHORT TITLE. ####
+
+"This Act may be cited as the 'United States Semiquincentennial Commission Act of 2016'.
+
+#### "SEC. 2. FINDINGS; PURPOSE. ####
+
+"(a) Findings.—Congress finds that July 4, 2026, the 250th anniversary of the founding of the United States, as marked by the Declaration of Independence in 1776, and the historic events preceding that anniversary—
+
+"(1) are of major significance in the development of the national heritage of the United States of individual liberty, representative government, and the attainment of equal and inalienable rights; and
+
+"(2) have had a profound influence throughout the world.
+
+"(b) Purpose.—The purpose of this Act is to establish a Commission to provide for the observance and commemoration of the 250th anniversary of the founding of the United States and related events through local, State, national, and international activities planned, encouraged, developed, and coordinated by a national commission representative of appropriate public and private authorities and organizations.
+
+#### "SEC. 3. DEFINITIONS. ####
+
+"In this Act:
+
+"(1) Commission.—The term 'Commission' means the United States Semiquincentennial Commission established by section 4(a).
+
+"(2) Private citizen.—The term 'private citizen' means an individual who is not an officer or employee of—
+
+"(A) the Federal Government; or
+
+"(B) a State or local government.
+
+"(3) Secretary.—The term 'Secretary' means the Secretary of the Interior.
+
+#### "SEC. 4. ESTABLISHMENT OF COMMISSION. ####
+
+"(a) In General.—There is established a commission, to be known as the 'United States Semiquincentennial Commission', to plan, encourage, develop, and coordinate the commemoration of the history of the United States leading up to the 250th anniversary of the founding of the United States.
+
+"(b) Composition.—The Commission shall be composed of the following members:
+
+"(1) Four members of the Senate, of whom—
+
+"(A) two shall be appointed by the majority leader of the Senate; and
+
+"(B) two shall be appointed by the minority leader of the Senate.
+
+"(2) Four members of the House of Representatives, of whom—
+
+"(A) two shall be appointed by the Speaker of the House of Representatives; and
+
+"(B) two shall be appointed by the minority leader of the House of Representatives.
+
+"(3) Sixteen members who are private citizens, of whom—
+
+"(A) four shall be appointed by the majority leader of the Senate;
+
+"(B) four shall be appointed by the minority leader of the Senate;
+
+"(C) four shall be appointed by the Speaker of the House of Representatives;
+
+"(D) four shall be appointed by the minority leader of the House of Representatives; and
+
+"(E) one of whom shall be designated by the President as the Chairperson.
+
+"(4) The following nonvoting ex officio members:
+
+"(A) The Secretary.
+
+"(B) The Secretary of State.
+
+"(C) The Attorney General.
+
+"(D) The Secretary of Defense.
+
+"(E) The Secretary of Education.
+
+"(F) The Librarian of Congress.
+
+"(G) The Secretary of the Smithsonian Institution.
+
+"(H) The Archivist of the United States.
+
+"(I) The presiding officer of the Federal Council on the Arts and the Humanities.
+
+"(c) Term; Vacancies.—
+
+"(1) Term.—A member shall be appointed for the life of the Commission.
+
+"(2) Vacancies.—A vacancy on the Commission—
+
+"(A) shall not affect the powers of the Commission; and
+
+"(B) shall be filled in the same manner as the original appointment was made.
+
+"(d) Meetings.—All meetings of the Commission shall be convened at Independence Hall in Philadelphia, Pennsylvania, to honor the historical significance of the building as the site of deliberations and adoption of both the United States Declaration of Independence and Constitution.
+
+"(e) Quorum.—A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
+
+#### "SEC. 5. DUTIES. ####
+
+"(a) In General.—The Commission shall—
+
+"(1) prepare an overall program for commemorating the 250th anniversary of the founding of the United States and the historic events preceding that anniversary; and
+
+"(2) plan, encourage, develop, and coordinate observances and activities commemorating the historic events that preceded, and are associated with, the United States Semiquincentennial.
+
+"(b) Requirements.—
+
+"(1) In general.—In preparing plans and an overall program, the Commission—
+
+"(A) shall give due consideration to any related plans and programs developed by State, local, and private groups; and
+
+"(B) may designate special committees with representatives from groups described in subparagraph (A) to plan, develop, and coordinate specific activities.
+
+"(2) Emphasis.—The Commission shall—
+
+"(A) emphasize the planning of events in locations of historical significance to the United States, especially in those locations that witnessed the assertion of American liberty, such as—
+
+"(i) the 13 colonies; and
+
+"(ii) leading cities, including Boston, Charleston, New York City, and Philadelphia; and
+
+"(B) give special emphasis to—
+
+"(i) the role of persons and locations with significant impact on the history of the United States during the 250-year period beginning on the date of execution of the Declaration of Independence; and
+
+"(ii) the ideas associated with that history, which have been so important in the development of the United States, in world affairs, and in the quest for freedom of all mankind.
+
+"(3) Infrastructure.—The Commission shall—
+
+"(A) evaluate existing infrastructure;
+
+"(B) include in the report required under subsection (c) recommendations for what infrastructure should be in place for the successful undertaking of an appropriate celebration in accordance with this Act; and
+
+"(C) coordinate with State and local bodies to make necessary infrastructure improvements.
+
+"(c) Report Submitted to the President.—
+
+"(1) In general.—Not later than 2 years after the date of enactment of this Act [July 22, 2016], the Commission shall submit to the President a comprehensive report that includes the specific recommendations of the Commission for the commemoration of the 250th anniversary and related events.
+
+"(2) Recommended activities.—The report may include recommended activities such as—
+
+"(A) the production, publication, and distribution of books, pamphlets, films, and other educational materials focusing on the history, culture, and political thought of the period of the American Revolution;
+
+"(B) bibliographical and documentary projects and publications;
+
+"(C) conferences, convocations, lectures, seminars, and other programs, especially those located in the 13 colonies, including the major cities and buildings of national historical significance of the 13 colonies;
+
+"(D) the development of libraries, museums, historic sites, and exhibits, including mobile exhibits;
+
+"(E) ceremonies and celebrations commemorating specific events, such as—
+
+"(i) the signing of the Declaration of Independence;
+
+"(ii) programs and activities focusing on the national and international significance of the United States Semiquincentennial; and
+
+"(iii) the implications of the Semiquincentennial for present and future generations; and
+
+"(F) encouraging Federal agencies to integrate the celebration of the Semiquincentennial into the regular activities and execution of the purpose of the agencies through such activities as the issuance of coins, medals, certificates of recognition, stamps, and the naming of vessels.
+
+"(3) Requirements.—The report shall include—
+
+"(A) the recommendations of the Commission for the allocation of financial and administrative responsibility among the public and private authorities and organizations recommended for participation by the Commission; and
+
+"(B) proposals for such legislative enactments and administrative actions as the Commission considers necessary to carry out the recommendations.
+
+"(d) Report Submitted to Congress.—The President shall submit to Congress a report that contains—
+
+"(1) the complete report of the Commission; and
+
+"(2) such comments and recommendations for legislation and such a description of administrative actions taken by the President as the President considers appropriate.
+
+"(e) Point of Contact.—The Commission, acting through the secretariat of the Commission described in section 9(b), shall serve as the point of contact of the Federal Government for all State, local, international, and private sector initiatives regarding the Semiquincentennial of the founding of the United States, with the purpose of coordinating and facilitating all fitting and proper activities honoring the 250th anniversary of the founding of the United States.
+
+#### "SEC. 6. COORDINATION. ####
+
+"(a) In General.—In carrying out this Act, the Commission shall consult and cooperate with, and seek advice and assistance from, appropriate Federal agencies, State and local public bodies, learned societies, and historical, patriotic, philanthropic, civic, professional, and related organizations.
+
+"(b) Responsibility of Other Federal Agencies.—
+
+"(1) In general.—Federal agencies shall cooperate with the Commission in planning, encouraging, developing, and coordinating appropriate commemorative activities.
+
+"(2) Department of the interior.—
+
+"(A) In general.—The Secretary shall undertake a study of appropriate actions that might be taken to further preserve and develop historic sites and battlefields, at such time and in such manner as will ensure that fitting observances and exhibits may be held at appropriate sites and battlefields during the 250th anniversary celebration.
+
+"(B) Report.—The Secretary shall submit to the Commission a report that contains the results of the study and the recommendations of the Secretary, in time to afford the Commission an opportunity—
+
+"(i) to review the study; and
+
+"(ii) to incorporate in the report described in section 5(c) such findings and recommendations as the Commission considers appropriate.
+
+"(3) Arts and humanities.—
+
+"(A) In general.—The presiding officer of the Federal Council on the Arts and the Humanities, the Chairperson of the National Endowment for the Arts, and the Chairperson of the National Endowment for the Humanities shall cooperate with the Commission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
+
+"(B) Library of congress, smithsonian institution, and archives.—
+
+"(i) In general.—The Librarian of Congress, the Secretary of the Smithsonian Institution, and the Archivist of the United States shall cooperate with the Commission, especially in the development and display of exhibits and collections and in the development of bibliographies, catalogs, and other materials relevant to the period predating the United States Semiquincentennial.
+
+"(ii) Location.—To the maximum extent practicable, displays described in subparagraph (A) shall be located in, or in facilities near to, buildings of historical significance to the American Revolution, so as to promote greater public awareness of the heritage of the United States.
+
+"(C) Submission of recommendations.—Each of the officers described in this paragraph shall submit to the Commission a report containing recommendations in time to afford the Commission an opportunity—
+
+"(i) to review the reports; and
+
+"(ii) to incorporate in the report described in section 5(c) such findings and recommendations as the Commission considers appropriate.
+
+"(4) Department of state.—The Secretary of State shall coordinate the participation of foreign nations in the celebration of the United States Semiquincentennial, including by soliciting the erection of monuments and other cultural cooperations in founding cities of the United States so as—
+
+"(A) to celebrate the shared heritage of the United States with the many peoples and nations of the world; and
+
+"(B) to provide liaison and encouragement for the erection of international pavilions to showcase the spread of democratic institutions abroad in the period following the American Revolution.
+
+#### "SEC. 7. POWERS. ####
+
+"(a) Hearings.—The Commission may hold such hearings, meet and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out this Act.
+
+"(b) Information From Federal Agencies.—
+
+"(1) In general.—The Commission may secure directly from a Federal agency such information as the Commission considers necessary to carry out this Act.
+
+"(2) Provision of information.—On request of the Chairperson of the Commission, the head of the agency shall provide the information to the Commission.
+
+"(c) Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as other agencies of the Federal Government.
+
+"(d) Gifts.—The Commission may accept, use, and dispose of gifts or donations of money, property, or personal services.
+
+"(e) Additional Powers.—As determined necessary by the Commission, the Commission may—
+
+"(1) procure supplies, services, and property;
+
+"(2) make contracts;
+
+"(3) expend in furtherance of this Act funds donated or received in pursuance of contracts entered into under this Act; and
+
+"(4) take such actions as are necessary to enable the Commission to carry out efficiently and in the public interest the purposes of this Act.
+
+"(f) Use of Materials.—
+
+"(1) Time capsule.—A representative portion of all books, manuscripts, miscellaneous printed matter, memorabilia, relics, and other materials relating to the United States Semiquincentennial shall be deposited in a time capsule—
+
+"(A) to be buried in Independence Mall, Philadelphia, on July 4, 2026; and
+
+"(B) to be unearthed on the occasion of the 500th anniversary of the United States of America on July 4, 2276.
+
+"(2) Other materials.—All other books, manuscripts, miscellaneous printed matter, memorabilia, relics, and other materials relating to the United States Semiquincentennial, whether donated to the Commission or collected by the Commission, may be deposited for preservation in national, State, or local libraries or museums or be otherwise disposed of by the Commission, in consultation with the Librarian of Congress, the Secretary of the Smithsonian Institution, the Archivist of the United States, and the Administrator of General Services.
+
+"(g) Property.—Any property acquired by the Commission remaining on termination of the Commission may be—
+
+"(1) used by the Secretary for purposes of the National Park Service; or
+
+"(2) disposed of as excess or surplus property.
+
+#### "SEC. 8. COMMISSION PERSONNEL MATTERS. ####
+
+"(a) Compensation of Members.—The members of the Commission shall receive no compensation for service on the Commission.
+
+"(b) Travel Expenses.—A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+
+"(c) Staff.—
+
+"(1) In general.—The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate an executive director and such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
+
+"(2) Confirmation of executive director.—The employment of an executive director shall be subject to confirmation by the Commission.
+
+"(3) Compensation.—
+
+"(A) In general.—Except as provided in subparagraph (B), the Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+
+"(B) Maximum rate of pay.—The rate of pay for the executive director and other personnel shall not exceed the rate payable for level V of the Executive Schedule under section 5316 of title 5, United States Code.
+
+"(d) Detail of Federal Government Employees.—
+
+"(1) In general.—An employee of the Federal Government may be detailed to the Commission without reimbursement.
+
+"(2) Civil service status.—The detail of the employee shall be without interruption or loss of civil service status or privilege.
+
+"(e) Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+
+"(f) Advisory Committees.—The Commission may appoint such advisory committees as the Commission determines necessary.
+
+#### "SEC. 9. EXPENDITURES OF COMMISSION. ####
+
+"(a) In General.—All expenditures of the Commission shall be made solely from donated funds.
+
+"(b) Administrative Secretariat.—The Secretary of the Interior shall, through a competitive process, seek to enter into an arrangement with a nonprofit organization, the mission of which is consistent with the purpose of this Act. Under such arrangement, such nonprofit organization shall—
+
+"(1) serve as the secretariat of the Commission, including by serving as the point of contact under section 5(e);
+
+"(2) house the administrative offices of the Commission;
+
+"(3) assume responsibility for funds of the Commission; and
+
+"(4) provide to the Commission financial and administrative services, including services related to budgeting, accounting, financial reporting, personnel, and procurement.
+
+"(c) Payment for Financial and Administrative Services.—
+
+"(1) In general.—Subject to paragraph (2), payment for services provided under subsection (b)(4) shall be made in advance, or by reimbursement, from funds of the Commission in such amounts as may be agreed on by the Chairperson of the Commission and the secretariat of the Commission.
+
+"(2) Relationship to regulations.—
+
+"(A) Erroneous payments.—The regulations under section 5514 of title 5, United States Code, relating to the collection of indebtedness of personnel resulting from erroneous payments shall apply to the collection of erroneous payments made to, or on behalf of, a Commission employee.
+
+"(B) No promulgation by commission.—The Commission shall not be required to prescribe any regulations relating to the matters described in subparagraph (A).
+
+"(d) Annual Report.—Once each year during the period beginning on the date of enactment of this Act [July 22, 2016] and ending on December 31, 2027, the Commission shall submit to Congress a report of the activities of the Commission, including an accounting of funds received and expended during the year covered by the report.
+
+#### "SEC. 10. TERMINATION OF COMMISSION. ####
+
+"The Commission shall terminate on December 31, 2027."
+
 #### World War I Centennial ####
 
 Pub. L. 113–291, div. B, title XXX, §3091(a)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3858–3860, provided that:
@@ -532,31 +954,33 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9283. Armed Forces Day ####
+#### Proc. No. 9452. Armed Forces Day ####
 
-Proc. No. 9283, May 15, 2015, 80 F.R. 29199, provided:
+Proc. No. 9452, May 20, 2016, 81 F.R. 33327, provided:
 
-At the heart of our Nation is the idea that we are each endowed with certain unalienable rights. We hold this truth to be self-evident, but from the moment a small band of patriots first came together to declare independence, we have never believed it to be self-executing. From Lexington and Concord to Iraq and Afghanistan, brave women and men have fought to defend the blessings of liberty and freedom and to protect the way of life we cherish. On Armed Forces Day, we salute the unbroken chain of Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who have continuously secured and renewed the promise of our Nation.
+The Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who comprise our Armed Forces have defended our Nation and the values for which we stand for generations, answering the call to give up the comforts of civilian life, do whatever it takes to keep us safe, and go wherever they are needed. On Armed Forces Day, we offer our most profound gratitude to the patriots—at home and abroad—who have risked their lives so our people can live knowing the fullest measure of freedom and security.
 
-This year, as we celebrate the 70th anniversary of the end of World War II, we honor the generation that triumphed over tyranny and laid a foundation for peace around the world. In the face of oppression, more than 16 million Americans left everything they knew and everyone they loved to fight for freedom far from home. Today, this legacy of extraordinary service is carried forward by patriots who protect the same liberties our parents and grandparents fought for. Year after year, tour after tour, the members of our Armed Forces serve with honor and distinction. Their sacrifice makes our Nation more free and more safe, and in their example, we see the best of America.
+With courage and honor, our men and women in uniform embody the everlasting responsibility we have to each other and to future generations by giving of themselves to ensure the preservation of our Republic and secure peace throughout the world. It is because of them and the values they represent that people across the globe look to the United States of America in moments of desperation and despair. For the relief they offer, the stability they provide, and the hope they inspire, we owe our service members an extraordinary debt—one we will never stop working to repay.
 
-As we pay tribute to today's servicemen and women, we acknowledge the obligations we have to all who serve in our name. This sacred trust requires that we fulfill our promise and guarantee that these patriots, and the families who serve alongside them, have all the resources and benefits they have earned and deserve—supporting them as they carry out their missions and ensuring they get their shot at the American dream they helped to defend. As a Nation, we are called to recognize the enormous debt of gratitude we owe the members of our Armed Forces, and we must never forget those who laid down their lives to safeguard our freedoms, or their loved ones who carry their legacies forward.
+Our country's strength is measured by how we support and take care of our troops. Humbled by the sacrifices they make—and by the strength of their families—we stand in support of those who don our uniform and strive to ensure they have every opportunity to pursue the American dream they defend. They give their best for America, and they deserve the best from us. On this day, let us salute these brave Americans and all those who laid down their lives for our safety, and each day, let us remember that we live knowing liberty because of our Armed Forces.
 
-Today and every day, let us celebrate the women and men who make our military the greatest fighting force the world has ever known. As a grateful Nation, let us show our appreciation by working to uphold the values they protect every day and by continuing to strive to build a country worthy of their enormous sacrifice.
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
-NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day. I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for encouraging the participation and cooperation of civil authorities and private citizens.
+I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for encouraging the participation and cooperation of civil authorities and private citizens.
 
 I invite the Governors of the United States and its Territories, and appropriate officials of all units of government, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
 
 Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops and their families.
 
-Proclamation 9129 of May 16, 2014, is hereby superseded.
+Proclamation 9283 of May 15, 2015, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this fifteenth day of May, in the year of our Lord two thousand fifteen, and of the Independence of the United States of America the two hundred and thirty-ninth.
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of May, in the year of our Lord two thousand sixteen, and of the Independence of the United States of America the two hundred and fortieth.
 
 Barack Obama.
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 9283, May 15, 2015, 80 F.R. 29199, superseded by Proc. No. 9452, May 20, 2016, 81 F.R. 33327.
 
 Proc. No. 9129, May 16, 2014, 79 F.R. 29321, superseded by Proc. No. 9283, May 15, 2015, 80 F.R. 29200.
 

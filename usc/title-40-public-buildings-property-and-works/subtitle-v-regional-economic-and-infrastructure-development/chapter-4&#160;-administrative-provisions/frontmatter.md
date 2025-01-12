@@ -1,4 +1,4 @@
-### **CHAPTER 4<sup><a href="#CHAPTER4_1_target" name="CHAPTER4_1">1</a></sup>**—ADMINISTRATIVE PROVISIONS ###
+### **CHAPTER 4 <sup><a href="#CHAPTER4&nbsp;_1_target" name="CHAPTER4&nbsp;_1">1</a></sup>**—ADMINISTRATIVE PROVISIONS ###
 
 #### SUBCHAPTER I—GENERAL PROVISIONS ####
 
@@ -26,4 +26,4 @@ Sec.
 
 15751. Authorization of appropriations.
 
-[<sup>1</sup> So in original. Probably should be "157".](#CHAPTER4_1)
+[<sup>1</sup> So in original. Probably should be "157".](#CHAPTER4 _1)

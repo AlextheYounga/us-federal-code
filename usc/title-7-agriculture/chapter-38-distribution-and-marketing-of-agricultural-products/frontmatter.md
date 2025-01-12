@@ -113,3 +113,19 @@ Sec.
 1638c. Regulations.
 
 1638d. Applicability.
+
+#### SUBCHAPTER V—NATIONAL BIOENGINEERED FOOD DISCLOSURE STANDARD ####
+
+1639. Definitions.
+
+1639a. Applicability.
+
+1639b. Establishment of national bioengineered food disclosure standard.
+
+1639c. Savings provisions.
+
+#### SUBCHAPTER VI—LABELING OF CERTAIN FOOD ####
+
+1639i. Federal preemption.
+
+1639j. Exclusion from Federal preemption.

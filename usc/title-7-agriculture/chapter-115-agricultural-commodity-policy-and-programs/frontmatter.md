@@ -8,7 +8,7 @@ Sec.
 
 9011. Definitions.
 
-9012. Base Acres.
+9012. Base acres.
 
 9013. Payment yields.
 

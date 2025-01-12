@@ -642,7 +642,7 @@ In the case of a qualifying State described in paragraph (2) of section 1397ee(g
 
 #### (A) In general ####
 
-Subject to paragraphs (4) and (6), from the amount made available under paragraphs (13) through (15) of subsection (a) for each of fiscal years 2010 through 2012, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
+Subject to paragraphs (4) and (6),<sup><a href="#1397dd_5_target" name="1397dd_5">5</a></sup> from the amount made available under paragraphs (13) through (15) of subsection (a) for each of fiscal years 2010 through 2012, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
 
 #### (i) Growth factor update for fiscal year 2010 ####
 
@@ -873,6 +873,8 @@ No payment shall be made under this paragraph to a commonwealth or territory des
 (Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158.)
 
 #### References in Text ####
+
+Paragraphs (4) and (6), referred to in subsec. (m)(2)(A), were redesignated (5) and (7), respectively, by Pub. L. 114–10, title III, §301(b)(1)(F), Apr. 16, 2015, 129 Stat. 156.
 
 Section 108 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (m)(3)(A), (D)(i)(II), is section 108 of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, which is not classified to the Code.
 
@@ -1155,3 +1157,5 @@ Pub. L. 105–277, div. A, §101(f) [title VII, §707], Oct. 21, 1998, 112 Stat.
 [<sup>3</sup> So in original.](#1397dd_3)
 
 [<sup>4</sup> So in original. The comma probably should not appear.](#1397dd_4)
+
+[<sup>5</sup> See References in Text note below.](#1397dd_5)

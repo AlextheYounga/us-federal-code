@@ -30,6 +30,8 @@ Sec.
 
 822. Persons required to register.
 
+822a. Prescription drug take back expansion.
+
 823. Registration requirements.
 
 824. Denial, revocation, or suspension of registration.

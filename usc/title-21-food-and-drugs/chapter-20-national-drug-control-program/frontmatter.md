@@ -36,6 +36,8 @@ Sec.
 
 1535. Supplemental grants for coalition mentoring activities.
 
+1536. Community-based coalition enhancement grants to address local drug crises.
+
 #### Part B—Advisory Commission ####
 
 1541. Establishment of Advisory Commission.

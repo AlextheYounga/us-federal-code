@@ -134,14 +134,12 @@ Sec.
 
 #### SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FALLEN HEROES ####
 
-1881.
+1881. Definitions.
 
-Definitions. 1881a.
+1881a. Providing Capitol-flown flags for families of fallen heroes.
 
-Providing Capitol-flown flags for families of fallen heroes. 1881b.
+1881b. Regulations and procedures.
 
-Regulations and procedures. 1881c.
+1881c. Authorization of appropriations.
 
-Authorization of appropriations. 1881d.
-
-Effective date.
+1881d. Effective date.

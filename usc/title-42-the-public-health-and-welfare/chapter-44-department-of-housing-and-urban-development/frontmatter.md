@@ -18,6 +18,8 @@ Sec.
 
 3536. Annual reports.
 
+3536a. Report on interagency family economic empowerment strategies.
+
 3537. Separability.
 
 3537a. Prohibition of advance disclosure of funding decisions.

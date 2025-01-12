@@ -16,6 +16,10 @@ The National Film Preservation Act of 1992, referred to in text, is title II of 
 
 Prior provisions similar to sections 179l to 179w of this title were contained in former section 179 et seq. of this title.
 
+#### Short Title of 2016 Amendment ####
+
+Pub. L. 114–217, §1, July 29, 2016, 130 Stat. 840, provided that: "This Act [amending sections 179v and 1743 of this title and sections 151711, 152403, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations] may be cited as the 'Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2016'."
+
 #### Short Title of 2008 Amendment ####
 
 Pub. L. 110–336, §1, Oct. 2, 2008, 122 Stat. 3726, provided that: "This Act [amending sections 179m, 179n, 179v, 179w, 1722, and 1743 of this title and sections 151702, 151703, 151711, 152403, 152405, 152406, and 152411 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under sections 179v and 1743 of this title and section 152411 of Title 36] may be cited as the 'Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008'."

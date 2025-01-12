@@ -47,3 +47,5 @@ Sec.
 6522. Authorization of appropriations.
 
 6523. National organic certification cost-share program.
+
+6524. Organically produced food.
