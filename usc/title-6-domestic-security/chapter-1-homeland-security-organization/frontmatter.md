@@ -464,8 +464,6 @@ Sec.
 
 471. Annual ammunition report.
 
-472. Annual weaponry report.
-
 #### Part I—Information Sharing ####
 
 481. Short title; findings; and sense of Congress.

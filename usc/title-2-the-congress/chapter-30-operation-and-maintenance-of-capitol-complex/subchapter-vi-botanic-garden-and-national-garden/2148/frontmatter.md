@@ -1,4 +1,4 @@
-### §2148. Administration of educational outreach and services ###
+### 2148. Administration of educational outreach and services ###
 
 #### (a) Cooperative agreements ####
 
