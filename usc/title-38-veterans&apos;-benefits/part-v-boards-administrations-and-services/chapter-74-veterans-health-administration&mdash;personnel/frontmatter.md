@@ -28,6 +28,8 @@ Sec.
 
 7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations.
 
+7413. Treatment of podiatrists; clinical oversight standards.
+
 #### SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION ####
 
 7421. Personnel administration: in general.
@@ -93,6 +95,8 @@ Sec.
 7474. Consultation.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–182, title V, §502(a)(2), June 6, 2018, 132 Stat. 1475, which directed amendment of the table of sections for chapter 74 by adding item 7413 after item 7412, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 **2014**—Pub. L. 113–146, §301(a)(2), Aug. 7, 2014, 128 Stat. 1784, added item 7412.
 

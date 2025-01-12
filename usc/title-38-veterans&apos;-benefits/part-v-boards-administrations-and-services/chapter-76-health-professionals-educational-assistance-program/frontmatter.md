@@ -94,7 +94,25 @@ Sec.
 
 [7684. Repealed.]
 
+#### SUBCHAPTER VIII—SPECIALTY EDUCATION LOAN REPAYMENT PROGRAM ####
+
+7691. Establishment.
+
+7692. Purpose.
+
+7693. Eligibility; preferences; covered costs.
+
+7694. Specialty education loan repayment.
+
+7695. Choice of location.
+
+7696. Term of obligated service.
+
+7697. Relationship to Educational Assistance Program.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–182, title III, §303(b)(2), June 6, 2018, 132 Stat. 1467, added heading for subchapter VIII and items 7691 to 7697.
 
 **2010**—Pub. L. 111–163, title VI, §603(d), May 5, 2010, 124 Stat. 1174, added items 7618 and 7619 and struck out former item 7618 "Expiration of program".
 

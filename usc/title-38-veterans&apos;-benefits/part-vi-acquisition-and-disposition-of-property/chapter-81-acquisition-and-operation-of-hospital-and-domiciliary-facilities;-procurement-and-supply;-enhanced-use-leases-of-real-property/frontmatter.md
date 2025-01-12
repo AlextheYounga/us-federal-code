@@ -100,6 +100,8 @@ Sec.
 
 8158. Deposit in escrow.
 
+8159. Authority to pay for services authorized but not subject to an agreement.
+
 #### SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY ####
 
 8161. Definitions.
@@ -125,6 +127,8 @@ Sec.
 Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–182, title I, §112(b), June 6, 2018, 132 Stat. 1421, added item 8159.
 
 **2016**—Pub. L. 114–315, title VIII, §801(d)(2), Dec. 16, 2016, 130 Stat. 1591, added item 8120.
 

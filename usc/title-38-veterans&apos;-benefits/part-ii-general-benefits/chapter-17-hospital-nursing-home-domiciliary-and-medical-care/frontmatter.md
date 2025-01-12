@@ -10,6 +10,16 @@ Sec.
 
 1703. Contracts for hospital care and medical services in non-Department facilities.
 
+1703A. Agreements with eligible entities or providers; certification processes.
+
+1703B. Access standards.
+
+1703C. Standards for quality.
+
+1703D. Prompt payment standard.
+
+1703E. Center for Innovation for Care and Payment.
+
 1704. Preventive health services: annual report.
 
 1705. Management of health care: patient enrollment system.
@@ -17,6 +27,8 @@ Sec.
 1705A. Management of health care: information regarding health-plan contracts.
 
 1706. Management of health care: other requirements.
+
+1706A. Remediation of medical service lines.
 
 1707. Limitations.
 
@@ -84,9 +96,7 @@ Sec.
 
 1720H. Mental health treatment for veterans who served in classified missions.
 
-1720I. 1
-
-Mental and behavioral health care for certain former members of the Armed Forces.
+1720I. Mental and behavioral health care for certain former members of the Armed Forces.
 
 #### SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME CARE AND MEDICAL TREATMENT OF VETERANS ####
 
@@ -104,6 +114,8 @@ Mental and behavioral health care for certain former members of the Armed Forces
 
 1725. Reimbursement for emergency treatment.
 
+1725A. Access to walk-in care.
+
 1726. Reimbursement for loss of personal effects by natural disaster.
 
 1727. Persons eligible under prior law.
@@ -119,6 +131,10 @@ Mental and behavioral health care for certain former members of the Armed Forces
 1730. Community residential care.
 
 1730A. Prohibition on collection of copayments from catastrophically disabled veterans.
+
+1730B. Access to State prescription drug monitoring programs.
+
+1730C. Licensure of health care professionals providing treatment via telemedicine.
 
 #### SUBCHAPTER IV—HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES ####
 
@@ -178,9 +194,13 @@ Mental and behavioral health care for certain former members of the Armed Forces
 
 1787. Health care of family members of veterans stationed at Camp Lejeune, North Carolina.
 
+1788. Transplant procedures with live donors and related services.
+
 #### Amendments ####
 
-**2018**—Pub. L. 115–159, §2(c), Mar. 27, 2018, 132 Stat. 1245, substituted "Nursing home care, adult day health care, and medications for veterans with service-connected disabilities" for "Nursing home care and medications for veterans with service-connected disabilities" in item 1745.
+**2018**—Pub. L. 115–182, title I, §§101(a)(2), 102(b), 104(b), 105(c), 109(b), 111(b), 134(b), 151(b), 152(b), 153(b), June 6, 2018, 132 Stat. 1403, 1408, 1411, 1413, 1418, 1421, 1429, 1431, 1437, 1438, substituted "Veterans Community Care Program" for "Contracts for hospital care and medical services in non-Department facilities" in item 1703, and added items 1703A to 1703E, 1706A, 1725A, 1730B, 1730C, and 1788.
+
+Pub. L. 115–159, §2(c), Mar. 27, 2018, 132 Stat. 1245, substituted "Nursing home care, adult day health care, and medications for veterans with service-connected disabilities" for "Nursing home care and medications for veterans with service-connected disabilities" in item 1745.
 
 Pub. L. 115–141, div. J, title II, §258(b), Mar. 23, 2018, 132 Stat. 828, added item 1720I.
 
@@ -277,5 +297,3 @@ Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 "Arr
 Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 **1959**—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
-
-[<sup>1</sup> So in original. Does not correspond to section number.](#CHAPTER17_1)

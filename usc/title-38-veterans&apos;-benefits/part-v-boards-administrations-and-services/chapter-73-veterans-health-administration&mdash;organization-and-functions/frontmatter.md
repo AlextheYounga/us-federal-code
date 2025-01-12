@@ -74,6 +74,8 @@ Sec.
 
 7330B. Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care.
 
+7330C. Quadrennial Veterans Health Administration review.
+
 #### SUBCHAPTER III—PROTECTION OF PATIENT RIGHTS ####
 
 7331. Informed consent.
@@ -103,6 +105,8 @@ Sec.
 [7367, 7368. Repealed.]
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–182, title I, §106(b), June 6, 2018, 132 Stat. 1415, added item 7330C.
 
 **2016**—Pub. L. 114–315, title VI, §612(b), Dec. 16, 2016, 130 Stat. 1576, added item 7330B.
 
