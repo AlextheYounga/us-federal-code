@@ -6,7 +6,7 @@
 
 (b) In addition to the authorization of appropriations provided under subsection (a) of this section, there is authorized to be appropriated to the Secretary for the purposes of carrying out section 3704a of this title not to exceed $500,000 for the fiscal year ending September 30, 1988, $1,000,000 for the fiscal year ending September 30, 1989, and $1,500,000 for the fiscal year ending September 30, 1990.
 
-(c) Such sums as may be appropriated under subsections (a) and (b) of this section shall remain available until expended.
+(c) Such sums as may be appropriated under subsections (a) and (b) shall remain available until expended.
 
 (d) To enable the National Science Foundation to carry out its powers and duties under this chapter only such sums may be appropriated as the Congress may authorize by law.
 

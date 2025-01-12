@@ -58,11 +58,13 @@ Subtitle V—Programs Targeting Commercial Opportunities
 
 505. Commercial Space Competitiveness 50501
 
-507. Office of Space Commercialization 50701
+507. Office of Space Commerce 50701
 
 509. Commercial Space Launch Activities 50901
 
 511. Space Transportation Infrastructure Matching Grants 51101
+
+513. Space resource commercial exploration and utilization 1 51301
 
 Subtitle VI—Earth Observations
 ----------
@@ -76,7 +78,7 @@ Subtitle VI—Earth Observations
 Subtitle VII—Access to Space
 ----------
 
-701. Use of Space Shuttle or Alternatives 70101
+701. Use of space launch system or alternatives 2 70101
 
 703. Shuttle Pricing Policy for Commercial and Foreign Users 70301
 
@@ -91,6 +93,8 @@ Subtitle VII—Access to Space
 713. Cooperation for Safety Among Spacefaring Nations 71301
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–90, title I, §117(b)(1), title III, §301(a)(2), title IV, §402(b), Nov. 25, 2015, 129 Stat. 718, 720, 722, added item 513 and substituted "Commerce" for "Commercialization" in item 507 and "Use of space launch system or alternatives" for "Use of Space Shuttle or Alternatives" in item 701.
 
 **2010**—Pub. L. 111–314, §4(d)(7), Dec. 18, 2010, 124 Stat. 3443, added items 509 and 511.
 
@@ -381,3 +385,7 @@ Pub. L. 111–314, §5, Dec. 18, 2010, 124 Stat. 3443, provided that:
 #### Repeals ####
 
 Pub. L. 111–314, §6, Dec. 18, 2010, 124 Stat. 3444, repealed specified laws relating to national and commercial space programs, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Dec. 18, 2010.
+
+[<sup>1</sup> So in original. Probably should be "Space Resource Commercial Exploration and Utilization".](#_1)
+
+[<sup>2</sup> So in original. Probably should be "Use of Space Launch System or Alternatives".](#_2)

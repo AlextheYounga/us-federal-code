@@ -41,3 +41,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Effective Date ####
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
+
+#### Disaster Plan Improvements ####
+
+Pub. L. 114–88, div. A, title I, §1105, Nov. 25, 2015, 129 Stat. 688, provided that: "The Administrator of the Small Business Administration shall revise the comprehensive written disaster response plan required in section 40 of the Small Business Act (15 U.S.C. 657l), or any successor thereto, to incorporate the Administration's response to a situation in which an extreme volume of applications are received during the period of time immediately after a disaster, which shall include a plan to ensure that sufficient human and technological resources are made available and a plan to prevent delays in loan processing."

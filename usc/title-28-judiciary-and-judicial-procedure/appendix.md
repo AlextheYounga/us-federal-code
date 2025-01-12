@@ -36,7 +36,7 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to January 5, 2015)
+(As amended to December 1, 2015)
 
 #### Historical Note ####
 
@@ -4084,13 +4084,13 @@ Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to January 5, 2015)
+(As amended to December 1, 2015)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr.25, 2014, eff. Dec. 1, 2014.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr.25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -4304,7 +4304,7 @@ Rule
 
 83. Rules by District Courts; Judge's Directives.
 
-84. Forms.
+84. [Abrogated.]
 
 85. Title.
 
@@ -4312,79 +4312,7 @@ Rule
 
 #### APPENDIX OF FORMS ####
 
-Form
-
-1. Caption.
-
-2. Date, Signature, Address, E-mail Address, and Telephone Number.
-
-3. Summons.
-
-4. Summons on a Third-Party Complaint.
-
-5. Notice of a Lawsuit and Request to Waive Service of a Summons.
-
-6. Waiver of the Service of Summons.
-
-7. Statement of Jurisdiction.
-
-8. Statement of Reasons for Omitting a Party.
-
-9. Statement Noting a Party's Death.
-
-10. Complaint to Recover a Sum Certain.
-
-11. Complaint for Negligence.
-
-12. Complaint for Negligence When the Plaintiff Does Not Know Who Is Responsible.
-
-13. Complaint for Negligence Under the Federal Employers' Liability Act.
-
-14. Complaint for Damages Under the Merchant Marine Act.
-
-15. Complaint for the Conversion of Property.
-
-16. Third-Party Complaint.
-
-17. Complaint for Specific Performance of a Contract to Convey Land.
-
-18. Complaint for Patent Infringement.
-
-19. Complaint for Copyright Infringement and Unfair Competition.
-
-20. Complaint for Interpleader and Declaratory Relief.
-
-21. Complaint on a Claim for a Debt and to Set Aside a Fraudulent Conveyance Under Rule 18(b).
-
-30. Answer Presenting Defenses Under Rule 12(b).
-
-31. Answer to a Complaint for Money Had and Received with a Counterclaim for Interpleader.
-
-40. Motion to Dismiss Under Rule 12(b) for Lack of Jurisdiction, Improper Venue, Insufficient Service of Process, or Failure to State a Claim.
-
-41. Motion to Bring in a Third-Party Defendant.
-
-42. Motion to Intervene as a Defendant Under Rule 24.
-
-50. Request to Produce Documents and Tangible Things, or to Enter onto Land Under Rule 34.
-
-51. Request for Admissions Under Rule 36.
-
-52. Report of the Parties' Planning Meeting.
-
-60. Notice of Condemnation.
-
-61. Complaint for Condemnation.
-
-70. Judgment on a Jury Verdict.
-
-71. Judgment by the Court without a Jury.
-
-80. Notice of a Magistrate Judge's Availability.
-
-81. Consent to an Assignment to a Magistrate Judge.
-
-82. Order of Assignment to a Magistrate Judge.
+#### [Abrogated.] ####
 
 #### SUPPLEMENTAL RULES FOR ADMIRALTY OR MARITIME CLAIMS AND ASSET FORFEITURE ACTIONS ####
 
@@ -4504,9 +4432,9 @@ This table shows the Equity Rules to which references are made in the notes to t
 
 ### Rule 1. Scope and Purpose ###
 
-These rules govern the procedure in all civil actions and proceedings in the United States district courts, except as stated in Rule 81. They should be construed and administered to secure the just, speedy, and inexpensive determination of every action and proceeding.
+These rules govern the procedure in all civil actions and proceedings in the United States district courts, except as stated in Rule 81. They should be construed, administered, and employed by the court and the parties to secure the just, speedy, and inexpensive determination of every action and proceeding.
 
-(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -4585,6 +4513,12 @@ Rule 36 would have been amended to make clear the rule that an admission adopted
 #### *"E-Discovery" Style Amendments: Rules 16, 26, 33, 34, 37, and 45* ####
 
 As noted above [omitted], the Style revisions to the "e-discovery" amendments published for comment in 2004, before the Style Project was published for comment in 2005, are all "changes made after publication." All involve pure style. They can be evaluated by reading the overstrike-underline version set out above [omitted].
+
+#### Committee Notes on Rules—2015 Amendment ####
+
+Rule 1 is amended to emphasize that just as the court should construe and administer these rules to secure the just, speedy, and inexpensive determination of every action, so the parties share the responsibility to employ the rules in the same way. Most lawyers and parties cooperate to achieve these ends. But discussions of ways to improve the administration of civil justice regularly include pleas to discourage over-use, misuse, and abuse of procedural tools that increase cost and result in delay. Effective advocacy is consistent with—and indeed depends upon—cooperative and proportional use of procedure.
+
+This amendment does not create a new or independent source of sanctions. Neither does it abridge the scope of any other of these rules.
 
 ### Rule 2. One Form of Action ###
 
@@ -4678,9 +4612,9 @@ The caption of Rule 3 has been amended as part of the general restyling of the C
 
 (B) name the court where the complaint was filed;
 
-(C) be accompanied by a copy of the complaint, 2 copies of a waiver form, and a prepaid means for returning the form;
+(C) be accompanied by a copy of the complaint, 2 copies of the waiver form appended to this Rule 4, and a prepaid means for returning the form;
 
-(D) inform the defendant, using text prescribed in Form 5, of the consequences of waiving and not waiving service;
+(D) inform the defendant, using the form appended to this Rule 4, of the consequences of waiving and not waiving service;
 
 (E) state the date when the request is sent;
 
@@ -4802,7 +4736,7 @@ The caption of Rule 3 has been amended as part of the general restyling of the C
 
 (3) *Validity of Service; Amending Proof.* Failure to prove service does not affect the validity of service. The court may permit proof of service to be amended.
 
-(m) Time Limit for Service. If a defendant is not served within 120 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time. But if the plaintiff shows good cause for the failure, the court must extend the time for service for an appropriate period. This subdivision (m) does not apply to service in a foreign country under Rule 4(f) or 4(j)(1).
+(m) Time Limit for Service. If a defendant is not served within 90 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time. But if the plaintiff shows good cause for the failure, the court must extend the time for service for an appropriate period. This subdivision (m) does not apply to service in a foreign country under Rule 4(f) or 4(j)(1) or to service of a notice under Rule 71.1(d)(3)(A).
 
 (n) Asserting Jurisdiction over Property or Assets.
 
@@ -4810,7 +4744,103 @@ The caption of Rule 3 has been amended as part of the general restyling of the C
 
 (2) *State Law.* On a showing that personal jurisdiction over a defendant cannot be obtained in the district where the action is brought by reasonable efforts to serve a summons under this rule, the court may assert jurisdiction over the defendant's assets found in the district. Jurisdiction is acquired by seizing the assets under the circumstances and in the manner provided by state law in that district.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 97–462, §2, Jan. 12, 1983, 96 Stat. 2527, eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 97–462, §2, Jan. 12, 1983, 96 Stat. 2527, eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
+
+#### Rule 4 Notice of a Lawsuit and Request to Waive Service of Summons. ####
+
+#### (Caption) ####
+
+To (*name the defendant or—if the defendant is a corporation, partnership, or association—name an officer or agent authorized to receive service*):
+
+Why are you getting this?
+
+A lawsuit has been filed against you, or the entity you represent, in this court under the number shown above. A copy of the complaint is attached.
+
+This is not a summons, or an official notice from the court. It is a request that, to avoid expenses, you waive formal service of a summons by signing and returning the enclosed waiver. To avoid these expenses, you must return the signed waiver within (*give at least 30 days or at least 60 days if the defendant is outside any judicial district of the United States*) from the date shown below, which is the date this notice was sent. Two copies of the waiver form are enclosed, along with a stamped, self-addressed envelope or other prepaid means for returning one copy. You may keep the other copy.
+
+What happens next?
+
+If you return the signed waiver, I will file it with the court. The action will then proceed as if you had been served on the date the waiver is filed, but no summons will be served on you and you will have 60 days from the date this notice is sent (see the date below) to answer the complaint (or 90 days if this notice is sent to you outside any judicial district of the United States).
+
+If you do not return the signed waiver within the time indicated, I will arrange to have the summons and complaint served on you. And I will ask the court to require you, or the entity you represent, to pay the expenses of making service.
+
+Please read the enclosed statement about the duty to avoid unnecessary expenses.
+
+I certify that this request is being sent to you on the date below.
+
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Signature of the attorney
+
+or unrepresented party)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Printed name)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Address)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(E-mail address)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Telephone number)
+
+#### Rule 4 Waiver of the Service of Summons. ####
+
+#### (Caption) ####
+
+To (*name the plaintiff's attorney or the unrepresented plaintiff*):
+
+I have received your request to waive service of a summons in this action along with a copy of the complaint, two copies of this waiver form, and a prepaid means of returning one signed copy of the form to you.
+
+I, or the entity I represent, agree to save the expense of serving a summons and complaint in this case.
+
+I understand that I, or the entity I represent, will keep all defenses or objections to the lawsuit, the court's jurisdiction, and the venue of the action, but that I waive any objections to the absence of a summons or of service.
+
+I also understand that I, or the entity I represent, must file and serve an answer or a motion under Rule 12 within 60 days from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, the date when this request was sent (or 90 days if it was sent outside the United States). If I fail to do so, a default judgment will be entered against me or the entity I represent.
+
+Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Signature of the attorney
+
+or unrepresented party)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Printed name)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Address)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(E-mail address)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Telephone number)
+
+#### (Attach the following) ####
+
+#### Duty to Avoid Unnecessary Expenses of Serving a Summons ####
+
+Rule 4 of the Federal Rules of Civil Procedure requires certain defendants to cooperate in saving unnecessary expenses of serving a summons and complaint. A defendant who is located in the United States and who fails to return a signed waiver of service requested by a plaintiff located in the United States will be required to pay the expenses of service, unless the defendant shows good cause for the failure.
+
+"Good cause" does not include a belief that the lawsuit is groundless, or that it has been brought in an improper venue, or that the court has no jurisdiction over this matter or over the defendant or the defendant's property.
+
+If the waiver is signed and returned, you can still make these and all other defenses and objections, but you cannot object to the absence of a summons or of service.
+
+If you waive service, then you must, within the time specified on the waiver form, serve an answer or a motion under Rule 12 on the plaintiff and file a copy with the court. By signing and returning the waiver form, you are allowed more time to respond than if a summons had been served.
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -5329,6 +5359,18 @@ Rule 4(i)(4) corrects a misleading reference to "the plaintiff" in former Rule 4
 Former Rule 4(j)(2) refers to service upon an "other governmental organization subject to suit." This is changed to "any other state-created governmental organization that is subject to suit." The change entrenches the meaning indicated by the caption ("Serving a Foreign, State, or Local Government"), and the invocation of state law. It excludes any risk that this rule might be read to govern service on a federal agency, or other entities not created by state law.
 
 The former provision describing service on interpleader claimants [former subd. (k)(1)(C)] is deleted as redundant in light of the general provision in (k)(1)(C) recognizing personal jurisdiction authorized by a federal statute.
+
+#### Committee Notes on Rules—2015 Amendment ####
+
+*Subdivision (d)*. Abrogation of Rule 84 and the other official forms requires that former Forms 5 and 6 be directly incorporated into Rule 4.
+
+*Subdivision (m)*. The presumptive time for serving a defendant is reduced from 120 days to 90 days. This change, together with the shortened times for issuing a scheduling order set by amended Rule 16(b)(2), will reduce delay at the beginning of litigation.
+
+Shortening the presumptive time for service will increase the frequency of occasions to extend the time. More time may be needed, for example, when a request to waive service fails, a defendant is difficult to serve, or a marshal is to make service in an in forma pauperis action.
+
+The final sentence is amended to make it clear that the reference to Rule 4 in Rule 71.1(d)(3)(A) does not include Rule 4(m). Dismissal under Rule 4(m) for failure to make timely service would be inconsistent with the limits on dismissal established by Rule 71.1(i)(1)(C).
+
+Shortening the time to serve under Rule 4(m) means that the time of the notice required by Rule 15(c)(1)(C) for relation back is also shortened.
 
 #### Amendment by Public Law ####
 
@@ -6936,9 +6978,9 @@ Amended Rule 15(a)(3) extends from 10 to 14 days the period to respond to an ame
 
 (A) after receiving the parties' report under Rule 26(f); or
 
-(B) after consulting with the parties' attorneys and any unrepresented parties at a scheduling conference or by telephone, mail, or other means.
+(B) after consulting with the parties' attorneys and any unrepresented parties at a scheduling conference.
 
-(2) *Time to Issue.* The judge must issue the scheduling order as soon as practicable, but in any event within the earlier of 120 days after any defendant has been served with the complaint or 90 days after any defendant has appeared.
+(2) *Time to Issue.* The judge must issue the scheduling order as soon as practicable, but unless the judge finds good cause for delay, the judge must issue it within the earlier of 90 days after any defendant has been served with the complaint or 60 days after any defendant has appeared.
 
 (3) *Contents of the Order.*
 
@@ -6950,13 +6992,15 @@ Amended Rule 15(a)(3) extends from 10 to 14 days the period to respond to an ame
 
 (ii) modify the extent of discovery;
 
-(iii) provide for disclosure or discovery of electronically stored information;
+(iii) provide for disclosure, discovery, or preservation of electronically stored information;
 
-(iv) include any agreements the parties reach for asserting claims of privilege or of protection as trial-preparation material after information is produced;
+(iv) include any agreements the parties reach for asserting claims of privilege or of protection as trial-preparation material after information is produced, including agreements reached under Federal Rule of Evidence 502;
 
-(v) set dates for pretrial conferences and for trial; and
+(v) direct that before moving for an order relating to discovery, the movant must request a conference with the court;
 
-(vi) include other appropriate matters.
+(vi) set dates for pretrial conferences and for trial; and
+
+(vii) include other appropriate matters.
 
 (4) *Modifying a Schedule.* A schedule may be modified only for good cause and with the judge's consent.
 
@@ -7014,7 +7058,7 @@ Amended Rule 15(a)(3) extends from 10 to 14 days the period to respond to an ame
 
 (2) *Imposing Fees and Costs.* Instead of or in addition to any other sanction, the court must order the party, its attorney, or both to pay the reasonable expenses—including attorney's fees—incurred because of any noncompliance with this rule, unless the noncompliance was substantially justified or other circumstances make an award of expenses unjust.
 
-(As amended Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -7161,6 +7205,20 @@ The language of Rule 16 has been amended as part of the general restyling of the
 When a party or its representative is not present, it is enough to be reasonably available by any suitable means, whether telephone or other communication device.
 
 *Changes Made After Publication and Comment*. See Note to Rule 1, supra.
+
+#### Committee Notes on Rules—2015 Amendment ####
+
+The provision for consulting at a scheduling conference by "telephone, mail, or other means" is deleted. A scheduling conference is more effective if the court and parties engage in direct simultaneous communication. The conference may be held in person, by telephone, or by more sophisticated electronic means.
+
+The time to issue the scheduling order is reduced to the earlier of 90 days (not 120 days) after any defendant has been served, or 60 days (not 90 days) after any defendant has appeared. This change, together with the shortened time for making service under Rule 4(m), will reduce delay at the beginning of litigation. At the same time, a new provision recognizes that the court may find good cause to extend the time to issue the scheduling order. In some cases it may be that the parties cannot prepare adequately for a meaningful Rule 26(f) conference and then a scheduling conference in the time allowed. Litigation involving complex issues, multiple parties, and large organizations, public or private, may be more likely to need extra time to establish meaningful collaboration between counsel and the people who can supply the information needed to participate in a useful way. Because the time for the Rule 26(f) conference is geared to the time for the scheduling conference or order, an order extending the time for the scheduling conference will also extend the time for the Rule 26(f) conference. But in most cases it will be desirable to hold at least a first scheduling conference in the time set by the rule.
+
+Three items are added to the list of permitted contents in Rule 16(b)(3)(B).
+
+The order may provide for preservation of electronically stored information, a topic also added to the provisions of a discovery plan under Rule 26(f)(3)(C). Parallel amendments of Rule 37(e) recognize that a duty to preserve discoverable information may arise before an action is filed.
+
+The order also may include agreements incorporated in a court order under Evidence Rule 502 controlling the effects of disclosure of information covered by attorney-client privilege or work-product protection, a topic also added to the provisions of a discovery plan under Rule 26(f)(3)(D).
+
+Finally, the order may direct that before filing a motion for an order relating to discovery the movant must request a conference with the court. Many judges who hold such conferences find them an efficient way to resolve most discovery disputes without the delay and burdens attending a formal motion, but the decision whether to require such conferences is left to the discretion of the judge in each case.
 
 ### TITLE IV. PARTIES ###
 
@@ -8397,7 +8455,7 @@ On the other hand, the amendments now proposed will in any event require revisio
 
 (b) Discovery Scope and Limits.
 
-(1) *Scope in General.* Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party's claim or defense—including the existence, description, nature, custody, condition, and location of any documents or other tangible things and the identity and location of persons who know of any discoverable matter. For good cause, the court may order discovery of any matter relevant to the subject matter involved in the action. Relevant information need not be admissible at the trial if the discovery appears reasonably calculated to lead to the discovery of admissible evidence. All discovery is subject to the limitations imposed by Rule 26(b)(2)(C).
+(1) *Scope in General.* Unless otherwise limited by court order, the scope of discovery is as follows: Parties may obtain discovery regarding any nonprivileged matter that is relevant to any party's claim or defense and proportional to the needs of the case, considering the importance of the issues at stake in the action, the amount in controversy, the parties' relative access to relevant information, the parties' resources, the importance of the discovery in resolving the issues, and whether the burden or expense of the proposed discovery outweighs its likely benefit. Information within this scope of discovery need not be admissible in evidence to be discoverable.
 
 (2) *Limitations on Frequency and Extent.*
 
@@ -8411,7 +8469,7 @@ On the other hand, the amendments now proposed will in any event require revisio
 
 (ii) the party seeking discovery has had ample opportunity to obtain the information by discovery in the action; or
 
-(iii) the burden or expense of the proposed discovery outweighs its likely benefit, considering the needs of the case, the amount in controversy, the parties' resources, the importance of the issues at stake in the action, and the importance of the discovery in resolving the issues.
+(iii) the proposed discovery is outside the scope permitted by Rule 26(b)(1).
 
 (3) *Trial Preparation: Materials.*
 
@@ -8471,7 +8529,7 @@ On the other hand, the amendments now proposed will in any event require revisio
 
 (A) forbidding the disclosure or discovery;
 
-(B) specifying terms, including time and place, for the disclosure or discovery;
+(B) specifying terms, including time and place or the allocation of expenses, for the disclosure or discovery;
 
 (C) prescribing a discovery method other than the one selected by the party seeking discovery;
 
@@ -8493,7 +8551,17 @@ On the other hand, the amendments now proposed will in any event require revisio
 
 (1) *Timing.* A party may not seek discovery from any source before the parties have conferred as required by Rule 26(f), except in a proceeding exempted from initial disclosure under Rule 26(a)(1)(B), or when authorized by these rules, by stipulation, or by court order.
 
-(2) *Sequence.* Unless, on motion, the court orders otherwise for the parties' and witnesses' convenience and in the interests of justice:
+(2) *Early Rule 34 Requests.*
+
+(A) *Time to Deliver.* More than 21 days after the summons and complaint are served on a party, a request under Rule 34 may be delivered:
+
+(i) to that party by any other party, and
+
+(ii) by that party to any plaintiff or to any other party that has been served.
+
+(B) *When Considered Served.* The request is considered to have been served at the first Rule 26(f) conference.
+
+(3) *Sequence.* Unless the parties stipulate or the court orders otherwise for the parties' and witnesses' convenience and in the interests of justice:
 
 (A) methods of discovery may be used in any sequence; and
 
@@ -8521,9 +8589,9 @@ On the other hand, the amendments now proposed will in any event require revisio
 
 (B) the subjects on which discovery may be needed, when discovery should be completed, and whether discovery should be conducted in phases or be limited to or focused on particular issues;
 
-(C) any issues about disclosure or discovery of electronically stored information, including the form or forms in which it should be produced;
+(C) any issues about disclosure, discovery, or preservation of electronically stored information, including the form or forms in which it should be produced;
 
-(D) any issues about claims of privilege or of protection as trial-preparation materials, including—if the parties agree on a procedure to assert these claims after production—whether to ask the court to include their agreement in an order;
+(D) any issues about claims of privilege or of protection as trial-preparation materials, including—if the parties agree on a procedure to assert these claims after production—whether to ask the court to include their agreement in an order under Federal Rule of Evidence 502;
 
 (E) what changes should be made in the limitations on discovery imposed under these rules or by local rule, and what other limitations should be imposed; and
 
@@ -8553,7 +8621,7 @@ On the other hand, the amendments now proposed will in any event require revisio
 
 (3) *Sanction for Improper Certification.* If a certification violates this rule without substantial justification, the court, on motion or on its own, must impose an appropriate sanction on the signer, the party on whose behalf the signer was acting, or both. The sanction may include an order to pay the reasonable expenses, including attorney's fees, caused by the violation.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -9125,6 +9193,56 @@ Former Rules 26(b)(4)(B) and (C) have been renumbered (D) and (E), and a slight 
 
 *Changes Made After Publication and Comment.* Small changes to rule language were made to conform to style conventions. In addition, the protection for draft expert disclosures or reports in proposed Rule 26(b)(4)(B) was changed to read "regardless of the form in which the draft is recorded." Small changes were also made to the Committee Note to recognize this change to rule language and to address specific issues raised during the public comment period.
 
+#### Committee Notes on Rules—2015 Amendment ####
+
+Rule 26(b)(1) is changed in several ways.
+
+Information is discoverable under revised Rule 26(b)(1) if it is relevant to any party's claim or defense and is proportional to the needs of the case. The considerations that bear on proportionality are moved from present Rule 26(b)(2)(C)(iii), slightly rearranged and with one addition.
+
+Most of what now appears in Rule 26(b)(2)(C)(iii) was first adopted in 1983. The 1983 provision was explicitly adopted as part of the scope of discovery defined by Rule 26(b)(1). Rule 26(b)(1) directed the court to limit the frequency or extent of use of discovery if it determined that "the discovery is unduly burdensome or expensive, taking into account the needs of the case, the amount in controversy, limitations on the parties' resources, and the importance of the issues at stake in the litigation." At the same time, Rule 26(g) was added. Rule 26(g) provided that signing a discovery request, response, or objection certified that the request, response, or objection was "not unreasonable or unduly burdensome or expensive, given the needs of the case, the discovery already had in the case, the amount in controversy, and the importance of the issues at stake in the litigation." The parties thus shared the responsibility to honor these limits on the scope of discovery.
+
+The 1983 Committee Note stated that the new provisions were added "to deal with the problem of over-discovery. The objective is to guard against redundant or disproportionate discovery by giving the court authority to reduce the amount of discovery that may be directed to matters that are otherwise proper subjects of inquiry. The new sentence is intended to encourage judges to be more aggressive in identifying and discouraging discovery overuse. The grounds mentioned in the amended rule for limiting discovery reflect the existing practice of many courts in issuing protective orders under Rule 26(c). . . . On the whole, however, district judges have been reluctant to limit the use of the discovery devices."
+
+The clear focus of the 1983 provisions may have been softened, although inadvertently, by the amendments made in 1993. The 1993 Committee Note explained: "[F]ormer paragraph (b)(1) [was] subdivided into two paragraphs for ease of reference and to avoid renumbering of paragraphs (3) and (4)." Subdividing the paragraphs, however, was done in a way that could be read to separate the proportionality provisions as "limitations," no longer an integral part of the (b)(1) scope provisions. That appearance was immediately offset by the next statement in the Note: "Textual changes are then made in new paragraph (2) to enable the court to keep tighter rein on the extent of discovery."
+
+The 1993 amendments added two factors to the considerations that bear on limiting discovery: whether "the burden or expense of the proposed discovery outweighs its likely benefit," and "the importance of the proposed discovery in resolving the issues." Addressing these and other limitations added by the 1993 discovery amendments, the Committee Note stated that "[t]he revisions in Rule 26(b)(2) are intended to provide the court with broader discretion to impose additional restrictions on the scope and extent of discovery . . . ."
+
+The relationship between Rule 26(b)(1) and (2) was further addressed by an amendment made in 2000 that added a new sentence at the end of (b)(1): "All discovery is subject to the limitations imposed by Rule 26(b)(2)(i), (ii), and (iii)[now Rule 26(b)(2)(C)]." The Committee Note recognized that "[t]hese limitations apply to discovery that is otherwise within the scope of subdivision (b)(1)." It explained that the Committee had been told repeatedly that courts were not using these limitations as originally intended. "This otherwise redundant cross-reference has been added to emphasize the need for active judicial use of subdivision (b)(2) to control excessive discovery."
+
+The present amendment restores the proportionality factors to their original place in defining the scope of discovery. This change reinforces the Rule 26(g) obligation of the parties to consider these factors in making discovery requests, responses, or objections.
+
+Restoring the proportionality calculation to Rule 26(b)(1) does not change the existing responsibilities of the court and the parties to consider proportionality, and the change does not place on the party seeking discovery the burden of addressing all proportionality considerations.
+
+Nor is the change intended to permit the opposing party to refuse discovery simply by making a boilerplate objection that it is not proportional. The parties and the court have a collective responsibility to consider the proportionality of all discovery and consider it in resolving discovery disputes.
+
+The parties may begin discovery without a full appreciation of the factors that bear on proportionality. A party requesting discovery, for example, may have little information about the burden or expense of responding. A party requested to provide discovery may have little information about the importance of the discovery in resolving the issues as understood by the requesting party. Many of these uncertainties should be addressed and reduced in the parties' Rule 26(f) conference and in scheduling and pretrial conferences with the court. But if the parties continue to disagree, the discovery dispute could be brought before the court and the parties' responsibilities would remain as they have been since 1983. A party claiming undue burden or expense ordinarily has far better information—perhaps the only information—with respect to that part of the determination. A party claiming that a request is important to resolve the issues should be able to explain the ways in which the underlying information bears on the issues as that party understands them. The court's responsibility, using all the information provided by the parties, is to consider these and all the other factors in reaching a case-specific determination of the appropriate scope of discovery.
+
+The direction to consider the parties' relative access to relevant information adds new text to provide explicit focus on considerations already implicit in present Rule 26(b)(2)(C)(iii). Some cases involve what often is called "information asymmetry." One party—often an individual plaintiff—may have very little discoverable information. The other party may have vast amounts of information, including information that can be readily retrieved and information that is more difficult to retrieve. In practice these circumstances often mean that the burden of responding to discovery lies heavier on the party who has more information, and properly so.
+
+Restoring proportionality as an express component of the scope of discovery warrants repetition of parts of the 1983 and 1993 Committee Notes that must not be lost from sight. The 1983 Committee Note explained that "[t]he rule contemplates greater judicial involvement in the discovery process and thus acknowledges the reality that it cannot always operate on a self-regulating basis." The 1993 Committee Note further observed that "[t]he information explosion of recent decades has greatly increased both the potential cost of wide-ranging discovery and the potential for discovery to be used as an instrument for delay or oppression." What seemed an explosion in 1993 has been exacerbated by the advent of e-discovery. The present amendment again reflects the need for continuing and close judicial involvement in the cases that do not yield readily to the ideal of effective party management. It is expected that discovery will be effectively managed by the parties in many cases. But there will be important occasions for judicial management, both when the parties are legitimately unable to resolve important differences and when the parties fall short of effective, cooperative management on their own.
+
+It also is important to repeat the caution that the monetary stakes are only one factor, to be balanced against other factors. The 1983 Committee Note recognized "the significance of the substantive issues, as measured in philosophic, social, or institutional terms. Thus the rule recognizes that many cases in public policy spheres, such as employment practices, free speech, and other matters, may have importance far beyond the monetary amount involved." Many other substantive areas also may involve litigation that seeks relatively small amounts of money, or no money at all, but that seeks to vindicate vitally important personal or public values.
+
+So too, consideration of the parties' resources does not foreclose discovery requests addressed to an impecunious party, nor justify unlimited discovery requests addressed to a wealthy party. The 1983 Committee Note cautioned that "[t]he court must apply the standards in an even-handed manner that will prevent use of discovery to wage a war of attrition or as a device to coerce a party, whether financially weak or affluent."
+
+The burden or expense of proposed discovery should be determined in a realistic way. This includes the burden or expense of producing electronically stored information. Computer-based methods of searching such information continue to develop, particularly for cases involving large volumes of electronically stored information. Courts and parties should be willing to consider the opportunities for reducing the burden or expense of discovery as reliable means of searching electronically stored information become available.
+
+A portion of present Rule 26(b)(1) is omitted from the proposed revision. After allowing discovery of any matter relevant to any party's claim or defense, the present rule adds: "including the existence, description, nature, custody, condition, and location of any documents or other tangible things and the identity and location of persons who know of any discoverable matter." Discovery of such matters is so deeply entrenched in practice that it is no longer necessary to clutter the long text of Rule 26 with these examples. The discovery identified in these examples should still be permitted under the revised rule when relevant and proportional to the needs of the case. Framing intelligent requests for electronically stored information, for example, may require detailed information about another party's information systems and other information resources.
+
+The amendment deletes the former provision authorizing the court, for good cause, to order discovery of any matter relevant to the subject matter involved in the action. The Committee has been informed that this language is rarely invoked. Proportional discovery relevant to any party's claim or defense suffices, given a proper understanding of what is relevant to a claim or defense. The distinction between matter relevant to a claim or defense and matter relevant to the subject matter was introduced in 2000. The 2000 Note offered three examples of information that, suitably focused, would be relevant to the parties' claims or defenses. The examples were "other incidents of the same type, or involving the same product"; "information about organizational arrangements or filing systems"; and "information that could be used to impeach a likely witness." Such discovery is not foreclosed by the amendments. Discovery that is relevant to the parties' claims or defenses may also support amendment of the pleadings to add a new claim or defense that affects the scope of discovery.
+
+The former provision for discovery of relevant but inadmissible information that appears "reasonably calculated to lead to the discovery of admissible evidence" is also deleted. The phrase has been used by some, incorrectly, to define the scope of discovery. As the Committee Note to the 2000 amendments observed, use of the "reasonably calculated" phrase to define the scope of discovery "might swallow any other limitation on the scope of discovery." The 2000 amendments sought to prevent such misuse by adding the word "Relevant" at the beginning of the sentence, making clear that "'relevant' means within the scope of discovery as defined in this subdivision . . . ." The "reasonably calculated" phrase has continued to create problems, however, and is removed by these amendments. It is replaced by the direct statement that "Information within this scope of discovery need not be admissible in evidence to be discoverable." Discovery of nonprivileged information not admissible in evidence remains available so long as it is otherwise within the scope of discovery.
+
+Rule 26(b)(2)(C)(iii) is amended to reflect the transfer of the considerations that bear on proportionality to Rule 26(b)(1). The court still must limit the frequency or extent of proposed discovery, on motion or on its own, if it is outside the scope permitted by Rule 26(b)(1).
+
+Rule 26(c)(1)(B) is amended to include an express recognition of protective orders that allocate expenses for disclosure or discovery. Authority to enter such orders is included in the present rule, and courts already exercise this authority. Explicit recognition will forestall the temptation some parties may feel to contest this authority. Recognizing the authority does not imply that cost-shifting should become a common practice. Courts and parties should continue to assume that a responding party ordinarily bears the costs of responding.
+
+Rule 26(d)(2) is added to allow a party to deliver Rule 34 requests to another party more than 21 days after that party has been served even though the parties have not yet had a required Rule 26(f) conference. Delivery may be made by any party to the party that has been served, and by that party to any plaintiff and any other party that has been served. Delivery does not count as service; the requests are considered to be served at the first Rule 26(f) conference. Under Rule 34(b)(2)(A) the time to respond runs from service. This relaxation of the discovery moratorium is designed to facilitate focused discussion during the Rule 26(f) conference. Discussion at the conference may produce changes in the requests. The opportunity for advance scrutiny of requests delivered before the Rule 26(f) conference should not affect a decision whether to allow additional time to respond.
+
+Rule 26(d)(3) is renumbered and amended to recognize that the parties may stipulate to case-specific sequences of discovery.
+
+Rule 26(f)(3) is amended in parallel with Rule 16(b)(3) to add two items to the discovery plan—issues about preserving electronically stored information and court orders under Evidence Rule 502.
+
 #### References in Text ####
 
 The Federal Rules of Evidence, referred to in subdiv. (a)(2)(A), (C)(i), (3)(B), are set out in this Appendix.
@@ -9315,7 +9433,7 @@ The language of Rule 29 has been amended as part of the general restyling of the
 
 (1) *Without Leave.* A party may, by oral questions, depose any person, including a party, without leave of court except as provided in Rule 30(a)(2). The deponent's attendance may be compelled by subpoena under Rule 45.
 
-(2) *With Leave.* A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(2):
+(2) *With Leave.* A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(1) and (2):
 
 (A) if the parties have not stipulated to the deposition and:
 
@@ -9371,7 +9489,7 @@ The language of Rule 29 has been amended as part of the general restyling of the
 
 (d) Duration; Sanction; Motion to Terminate or Limit.
 
-(1) *Duration.* Unless otherwise stipulated or ordered by the court, a deposition is limited to 1 day of 7 hours. The court must allow additional time consistent with Rule 26(b)(2) if needed to fairly examine the deponent or if the deponent, another person, or any other circumstance impedes or delays the examination.
+(1) *Duration.* Unless otherwise stipulated or ordered by the court, a deposition is limited to one day of 7 hours. The court must allow additional time consistent with Rule 26(b)(1) and (2) if needed to fairly examine the deponent or if the deponent, another person, or any other circumstance impedes or delays the examination.
 
 (2) *Sanction.* The court may impose an appropriate sanction—including the reasonable expenses and attorney's fees incurred by any party—on a person who impedes, delays, or frustrates the fair examination of the deponent.
 
@@ -9417,7 +9535,7 @@ The language of Rule 29 has been amended as part of the general restyling of the
 
 (2) serve a subpoena on a nonparty deponent, who consequently did not attend.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -9589,13 +9707,17 @@ The right to arrange a deposition transcription should be open to any party, reg
 
 "[O]ther entity" is added to the list of organizations that may be named as deponent. The purpose is to ensure that the deposition process can be used to reach information known or reasonably available to an organization no matter what abstract fictive concept is used to describe the organization. Nothing is gained by wrangling over the place to fit into current rule language such entities as limited liability companies, limited partnerships, business trusts, more exotic common-law creations, or forms developed in other countries.
 
+#### Committee Notes on Rules—2015 Amendment ####
+
+Rule 30 is amended in parallel with Rules 31 and 33 to reflect the recognition of proportionality in Rule 26(b)(1).
+
 ### Rule 31. Depositions by Written Questions ###
 
 (a) When a Deposition May Be Taken.
 
 (1) *Without Leave.* A party may, by written questions, depose any person, including a party, without leave of court except as provided in Rule 31(a)(2). The deponent's attendance may be compelled by subpoena under Rule 45.
 
-(2) *With Leave.* A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(2):
+(2) *With Leave.* A party must obtain leave of court, and the court must grant leave to the extent consistent with Rule 26(b)(1) and (2):
 
 (A) if the parties have not stipulated to the deposition and:
 
@@ -9627,7 +9749,7 @@ The right to arrange a deposition transcription should be open to any party, reg
 
 (2) *Filing.* A party who files the deposition must promptly notify all other parties of the filing.
 
-(As amended Mar. 30, 1970, eff. July 1, 1970; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Mar. 30, 1970, eff. July 1, 1970; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -9662,6 +9784,10 @@ The amendments are technical. No substantive change is intended.
 The language of Rule 31 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 The party who noticed a deposition on written questions must notify all other parties when the deposition is completed, so that they may make use of the deposition. A deposition is completed when it is recorded and the deponent has either waived or exercised the right of review under Rule 30(e)(1).
+
+#### Committee Notes on Rules—2015 Amendment ####
+
+Rule 31 is amended in parallel with Rules 30 and 33 to reflect the recognition of proportionality in Rule 26(b)(1).
 
 ### Rule 32. Using Depositions in Court Proceedings ###
 
@@ -9793,13 +9919,13 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (a) In General.
 
-(1) *Number.* Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(2).
+(1)*Number.* Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(1) and (2).
 
 (2) *Scope.* An interrogatory may relate to any matter that may be inquired into under Rule 26(b). An interrogatory is not objectionable merely because it asks for an opinion or contention that relates to fact or the application of law to fact, but the court may order that the interrogatory need not be answered until designated discovery is complete, or until a pretrial conference or some other time.
 
 (b) Answers and Objections.
 
-(1) *Responding Party.* The interrogatories must be answered:
+(1) *Responding Party.* The interrogatories must be answered—
 
 (A) by the party to whom they are directed; or
 
@@ -9821,7 +9947,7 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (2) giving the interrogating party a reasonable opportunity to examine and audit the records and to make copies, compilations, abstracts, or summaries.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -9927,6 +10053,10 @@ Former Rule 33(c) stated that an interrogatory "is not necessarily objectionable
 
 *Changes Made After Publication and Comment*. See Note to Rule 1, supra.
 
+#### Committee Notes on Rules—2015 Amendment ####
+
+Rule 33 is amended in parallel with Rules 30 and 31 to reflect the recognition of proportionality in Rule 26(b)(1).
+
 #### References in Text ####
 
 The Federal Rules of Evidence, referred to in subd. (c), are set out in this Appendix.
@@ -9955,11 +10085,11 @@ The Federal Rules of Evidence, referred to in subd. (c), are set out in this App
 
 (2) *Responses and Objections.*
 
-(A) *Time to Respond.* The party to whom the request is directed must respond in writing within 30 days after being served. A shorter or longer time may be stipulated to under Rule 29 or be ordered by the court.
+(A) *Time to Respond.* The party to whom the request is directed must respond in writing within 30 days after being served or—if the request was delivered under Rule 26(d)(2)—within 30 days after the parties' first Rule 26(f) conference. A shorter or longer time may be stipulated to under Rule 29 or be ordered by the court.
 
-(B) *Responding to Each Item.* For each item or category, the response must either state that inspection and related activities will be permitted as requested or state an objection to the request, including the reasons.
+(B) *Responding to Each Item.* For each item or category, the response must either state that inspection and related activities will be permitted as requested or state with specificity the grounds for objecting to the request, including the reasons. The responding party may state that it will produce copies of documents or of electronically stored information instead of permitting inspection. The production must then be completed no later than the time for inspection specified in the request or another reasonable time specified in the response.
 
-(C) *Objections.* An objection to part of a request must specify the part and permit inspection of the rest.
+(C) *Objections.* An objection must state whether any responsive materials are being withheld on the basis of that objection. An objection to part of a request must specify the part and permit inspection of the rest.
 
 (D) *Responding to a Request for Production of Electronically Stored Information.* The response may state an objection to a requested form for producing electronically stored information. If the responding party objects to a requested form—or if no form was specified in the request—the party must state the form or forms it intends to use.
 
@@ -9973,7 +10103,7 @@ The Federal Rules of Evidence, referred to in subd. (c), are set out in this App
 
 (c) Nonparties. As provided in Rule 45, a nonparty may be compelled to produce documents and tangible things or to permit an inspection.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -10080,6 +10210,18 @@ The final sentence in the first paragraph of former Rule 34(b) was a redundant c
 The redundant reminder of Rule 37(a) procedure in the second paragraph of former Rule 34(b) is omitted as no longer useful.
 
 *Changes Made After Publication and Comment*. See Note to Rule 1, supra.
+
+#### Committee Notes on Rules—2015 Amendment ####
+
+Several amendments are made in Rule 34, aimed at reducing the potential to impose unreasonable burdens by objections to requests to produce.
+
+Rule 34(b)(2)(A) is amended to fit with new Rule 26(d)(2). The time to respond to a Rule 34 request delivered before the parties' Rule 26(f) conference is 30 days after the first Rule 26(f) conference.
+
+Rule 34(b)(2)(B) is amended to require that objections to Rule 34 requests be stated with specificity. This provision adopts the language of Rule 33(b)(4), eliminating any doubt that less specific objections might be suitable under Rule 34. The specificity of the objection ties to the new provision in Rule 34(b)(2)(C) directing that an objection must state whether any responsive materials are being withheld on the basis of that objection. An objection may state that a request is overbroad, but if the objection recognizes that some part of the request is appropriate the objection should state the scope that is not overbroad. Examples would be a statement that the responding party will limit the search to documents or electronically stored information created within a given period of time prior to the events in suit, or to specified sources. When there is such an objection, the statement of what has been withheld can properly identify as matters "withheld" anything beyond the scope of the search specified in the objection.
+
+Rule 34(b)(2)(B) is further amended to reflect the common practice of producing copies of documents or electronically stored information rather than simply permitting inspection. The response to the request must state that copies will be produced. The production must be completed either by the time for inspection specified in the request or by another reasonable time specifically identified in the response. When it is necessary to make the production in stages the response should specify the beginning and end dates of the production.
+
+Rule 34(b)(2)(C) is amended to provide that an objection to a Rule 34 request must state whether anything is being withheld on the basis of the objection. This amendment should end the confusion that frequently arises when a producing party states several objections and still produces information, leaving the requesting party uncertain whether any relevant and responsive information has been withheld on the basis of the objections. The producing party does not need to provide a detailed description or log of all documents withheld, but does need to alert other parties to the fact that documents have been withheld and thereby facilitate an informed discussion of the objection. An objection that states the limits that have controlled the search for responsive and relevant materials qualifies as a statement that the materials have been "withheld."
 
 ### Rule 35. Physical and Mental Examinations ###
 
@@ -10275,7 +10417,7 @@ The final sentence of the first paragraph of former Rule 36(a) was a redundant c
 
 (iii) a party fails to answer an interrogatory submitted under Rule 33; or
 
-(iv) a party fails to respond that inspection will be permitted—or fails to permit inspection—as requested under Rule 34.
+(iv) a party fails to produce documents or fails to respond that inspection will be permitted—or fails to permit inspection—as requested under Rule 34.
 
 (C) *Related to a Deposition.* When taking an oral deposition, the party asking a question may complete or adjourn the examination before moving for an order.
 
@@ -10357,11 +10499,21 @@ The final sentence of the first paragraph of former Rule 36(a) was a redundant c
 
 (3) *Types of Sanctions.* Sanctions may include any of the orders listed in Rule 37(b)(2)(A)(i)–(vi). Instead of or in addition to these sanctions, the court must require the party failing to act, the attorney advising that party, or both to pay the reasonable expenses, including attorney's fees, caused by the failure, unless the failure was substantially justified or other circumstances make an award of expenses unjust.
 
-(e) Failure to Provide Electronically Stored Information. Absent exceptional circumstances, a court may not impose sanctions under these rules on a party for failing to provide electronically stored information lost as a result of the routine, good-faith operation of an electronic information system.
+(e) Failure to Preserve Electronically Stored Information. If electronically stored information that should have been preserved in the anticipation or conduct of litigation is lost because a party failed to take reasonable steps to preserve it, and it cannot be restored or replaced through additional discovery, the court:
+
+(1) upon finding prejudice to another party from loss of the information, may order measures no greater than necessary to cure the prejudice; or
+
+(2) only upon finding that the party acted with the intent to deprive another party of the information's use in the litigation may:
+
+(A) presume that the lost information was unfavorable to the party;
+
+(B) instruct the jury that it may or must presume the information was unfavorable to the party; or
+
+(C) dismiss the action or enter a default judgment.
 
 (f) Failure to Participate in Framing a Discovery Plan. If a party or its attorney fails to participate in good faith in developing and submitting a proposed discovery plan as required by Rule 26(f), the court may, after giving an opportunity to be heard, require that party or attorney to pay to any other party the reasonable expenses, including attorney's fees, caused by the failure.
 
-(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 96–481, §205(a), Oct. 21, 1980, 94 Stat. 2330, eff. Oct. 1, 1981; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 96–481, §205(a), Oct. 21, 1980, 94 Stat. 2330, eff. Oct. 1, 1981; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -10518,6 +10670,54 @@ The language of Rule 37 has been amended as part of the general restyling of the
 Rule 37(b) is amended to conform to amendments made to Rule 45, particularly the addition of Rule 45(f) providing for transfer of a subpoena-related motion to the court where the action is pending. A second sentence is added to Rule 37(b)(1) to deal with contempt of orders entered after such a transfer. The Rule 45(f) transfer provision is explained in the Committee Note to Rule 45.
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2015 Amendment ####
+
+*Subdivision (a)*. Rule 37(a)(3)(B)(iv) is amended to reflect the common practice of producing copies of documents or electronically stored information rather than simply permitting inspection. This change brings item (iv) into line with paragraph (B), which provides a motion for an order compelling "production, or inspection."
+
+*Subdivision (e)*. Present Rule 37(e), adopted in 2006, provides: "Absent exceptional circumstances, a court may not impose sanctions under these rules on a party for failing to provide electronically stored information lost as a result of the routine, good-faith operation of an electronic information system." This limited rule has not adequately addressed the serious problems resulting from the continued exponential growth in the volume of such information. Federal circuits have established significantly different standards for imposing sanctions or curative measures on parties who fail to preserve electronically stored information. These developments have caused litigants to expend excessive effort and money on preservation in order to avoid the risk of severe sanctions if a court finds they did not do enough.
+
+New Rule 37(e) replaces the 2006 rule. It authorizes and specifies measures a court may employ if information that should have been preserved is lost, and specifies the findings necessary to justify these measures. It therefore forecloses reliance on inherent authority or state law to determine when certain measures should be used. The rule does not affect the validity of an independent tort claim for spoliation if state law applies in a case and authorizes the claim.
+
+The new rule applies only to electronically stored information, also the focus of the 2006 rule. It applies only when such information is lost. Because electronically stored information often exists in multiple locations, loss from one source may often be harmless when substitute information can be found elsewhere.
+
+The new rule applies only if the lost information should have been preserved in the anticipation or conduct of litigation and the party failed to take reasonable steps to preserve it. Many court decisions hold that potential litigants have a duty to preserve relevant information when litigation is reasonably foreseeable. Rule 37(e) is based on this common-law duty; it does not attempt to create a new duty to preserve. The rule does not apply when information is lost before a duty to preserve arises.
+
+In applying the rule, a court may need to decide whether and when a duty to preserve arose. Courts should consider the extent to which a party was on notice that litigation was likely and that the information would be relevant. A variety of events may alert a party to the prospect of litigation. Often these events provide only limited information about that prospective litigation, however, so that the scope of information that should be preserved may remain uncertain. It is important not to be blinded to this reality by hindsight arising from familiarity with an action as it is actually filed.
+
+Although the rule focuses on the common-law obligation to preserve in the anticipation or conduct of litigation, courts may sometimes consider whether there was an independent requirement that the lost information be preserved. Such requirements arise from many sources — statutes, administrative regulations, an order in another case, or a party's own information-retention protocols. The court should be sensitive, however, to the fact that such independent preservation requirements may be addressed to a wide variety of concerns unrelated to the current litigation. The fact that a party had an independent obligation to preserve information does not necessarily mean that it had such a duty with respect to the litigation, and the fact that the party failed to observe some other preservation obligation does not itself prove that its efforts to preserve were not reasonable with respect to a particular case.
+
+The duty to preserve may in some instances be triggered or clarified by a court order in the case. Preservation orders may become more common, in part because Rules 16(b)(3)(B)(iii) and 26(f)(3)(C) are amended to encourage discovery plans and orders that address preservation. Once litigation has commenced, if the parties cannot reach agreement about preservation issues, promptly seeking judicial guidance about the extent of reasonable preservation may be important.
+
+The rule applies only if the information was lost because the party failed to take reasonable steps to preserve the information. Due to the ever-increasing volume of electronically stored information and the multitude of devices that generate such information, perfection in preserving all relevant electronically stored information is often impossible. As under the current rule, the routine, good-faith operation of an electronic information system would be a relevant factor for the court to consider in evaluating whether a party failed to take reasonable steps to preserve lost information, although the prospect of litigation may call for reasonable steps to preserve information by intervening in that routine operation. This rule recognizes that "reasonable steps" to preserve suffice; it does not call for perfection. The court should be sensitive to the party's sophistication with regard to litigation in evaluating preservation efforts; some litigants, particularly individual litigants, may be less familiar with preservation obligations than others who have considerable experience in litigation.
+
+Because the rule calls only for reasonable steps to preserve, it is inapplicable when the loss of information occurs despite the party's reasonable steps to preserve. For example, the information may not be in the party's control. Or information the party has preserved may be destroyed by events outside the party's control—the computer room may be flooded, a "cloud" service may fail, a malign software attack may disrupt a storage system, and so on. Courts may, however, need to assess the extent to which a party knew of and protected against such risks.
+
+Another factor in evaluating the reasonableness of preservation efforts is proportionality. The court should be sensitive to party resources; aggressive preservation efforts can be extremely costly, and parties (including governmental parties) may have limited staff and resources to devote to those efforts. A party may act reasonably by choosing a less costly form of information preservation, if it is substantially as effective as more costly forms. It is important that counsel become familiar with their clients' information systems and digital data—including social media—to address these issues. A party urging that preservation requests are disproportionate may need to provide specifics about these matters in order to enable meaningful discussion of the appropriate preservation regime.
+
+When a party fails to take reasonable steps to preserve electronically stored information that should have been preserved in the anticipation or conduct of litigation, and the information is lost as a result, Rule 37(e) directs that the initial focus should be on whether the lost information can be restored or replaced through additional discovery. Nothing in the rule limits the court's powers under Rules 16 and 26 to authorize additional discovery. Orders under Rule 26(b)(2)(B) regarding discovery from sources that would ordinarily be considered inaccessible or under Rule 26(c)(1)(B) on allocation of expenses may be pertinent to solving such problems. If the information is restored or replaced, no further measures should be taken. At the same time, it is important to emphasize that efforts to restore or replace lost information through discovery should be proportional to the apparent importance of the lost information to claims or defenses in the litigation. For example, substantial measures should not be employed to restore or replace information that is marginally relevant or duplicative.
+
+*Subdivision (e)(1)*. This subdivision applies only if information should have been preserved in the anticipation or conduct of litigation, a party failed to take reasonable steps to preserve the information, information was lost as a result, and the information could not be restored or replaced by additional discovery. In addition, a court may resort to (e)(1) measures only "upon finding prejudice to another party from loss of the information." An evaluation of prejudice from the loss of information necessarily includes an evaluation of the information's importance in the litigation.
+
+The rule does not place a burden of proving or disproving prejudice on one party or the other. Determining the content of lost information may be a difficult task in some cases, and placing the burden of proving prejudice on the party that did not lose the information may be unfair. In other situations, however, the content of the lost information may be fairly evident, the information may appear to be unimportant, or the abundance of preserved information may appear sufficient to meet the needs of all parties. Requiring the party seeking curative measures to prove prejudice may be reasonable in such situations. The rule leaves judges with discretion to determine how best to assess prejudice in particular cases.
+
+Once a finding of prejudice is made, the court is authorized to employ measures "no greater than necessary to cure the prejudice." The range of such measures is quite broad if they are necessary for this purpose. There is no all-purpose hierarchy of the severity of various measures; the severity of given measures must be calibrated in terms of their effect on the particular case. But authority to order measures no greater than necessary to cure prejudice does not require the court to adopt measures to cure every possible prejudicial effect. Much is entrusted to the court's discretion.
+
+In an appropriate case, it may be that serious measures are necessary to cure prejudice found by the court, such as forbidding the party that failed to preserve information from putting on certain evidence, permitting the parties to present evidence and argument to the jury regarding the loss of information, or giving the jury instructions to assist in its evaluation of such evidence or argument, other than instructions to which subdivision (e)(2) applies. Care must be taken, however, to ensure that curative measures under subdivision (e)(1) do not have the effect of measures that are permitted under subdivision (e)(2) only on a finding of intent to deprive another party of the lost information's use in the litigation. An example of an inappropriate (e)(1) measure might be an order striking pleadings related to, or precluding a party from offering any evidence in support of, the central or only claim or defense in the case. On the other hand, it may be appropriate to exclude a specific item of evidence to offset prejudice caused by failure to preserve other evidence that might contradict the excluded item of evidence.
+
+*Subdivision (e)(2)*. This subdivision authorizes courts to use specified and very severe measures to address or deter failures to preserve electronically stored information, but only on finding that the party that lost the information acted with the intent to deprive another party of the information's use in the litigation. It is designed to provide a uniform standard in federal court for use of these serious measures when addressing failure to preserve electronically stored information. It rejects cases such as *Residential Funding Corp. v. DeGeorge Financial Corp.*, 306 F.3d 99 (2d Cir. 2002), that authorize the giving of adverse-inference instructions on a finding of negligence or gross negligence.
+
+Adverse-inference instructions were developed on the premise that a party's intentional loss or destruction of evidence to prevent its use in litigation gives rise to a reasonable inference that the evidence was unfavorable to the party responsible for loss or destruction of the evidence. Negligent or even grossly negligent behavior does not logically support that inference. Information lost through negligence may have been favorable to either party, including the party that lost it, and inferring that it was unfavorable to that party may tip the balance at trial in ways the lost information never would have. The better rule for the negligent or grossly negligent loss of electronically stored information is to preserve a broad range of measures to cure prejudice caused by its loss, but to limit the most severe measures to instances of intentional loss or destruction.
+
+Similar reasons apply to limiting the court's authority to presume or infer that the lost information was unfavorable to the party who lost it when ruling on a pretrial motion or presiding at a bench trial. Subdivision (e)(2) limits the ability of courts to draw adverse inferences based on the loss of information in these circumstances, permitting them only when a court finds that the information was lost with the intent to prevent its use in litigation.
+
+Subdivision (e)(2) applies to jury instructions that permit or require the jury to presume or infer that lost information was unfavorable to the party that lost it. Thus, it covers any instruction that directs or permits the jury to infer from the loss of information that it was in fact unfavorable to the party that lost it. The subdivision does not apply to jury instructions that do not involve such an inference. For example, subdivision (e)(2) would not prohibit a court from allowing the parties to present evidence to the jury concerning the loss and likely relevance of information and instructing the jury that it may consider that evidence, along with all the other evidence in the case, in making its decision. These measures, which would not involve instructing a jury it may draw an adverse inference from loss of information, would be available under subdivision (e)(1) if no greater than necessary to cure prejudice. In addition, subdivision (e)(2) does not limit the discretion of courts to give traditional missing evidence instructions based on a party's failure to present evidence it has in its possession at the time of trial.
+
+Subdivision (e)(2) requires a finding that the party acted with the intent to deprive another party of the information's use in the litigation. This finding may be made by the court when ruling on a pretrial motion, when presiding at a bench trial, or when deciding whether to give an adverse inference instruction at trial. If a court were to conclude that the intent finding should be made by a jury, the court's instruction should make clear that the jury may infer from the loss of the information that it was unfavorable to the party that lost it only if the jury first finds that the party acted with the intent to deprive another party of the information's use in the litigation. If the jury does not make this finding, it may not infer from the loss that the information was unfavorable to the party that lost it.
+
+Subdivision (e)(2) does not include a requirement that the court find prejudice to the party deprived of the information. This is because the finding of intent required by the subdivision can support not only an inference that the lost information was unfavorable to the party that intentionally destroyed it, but also an inference that the opposing party was prejudiced by the loss of information that would have favored its position. Subdivision (e)(2) does not require any further finding of prejudice.
+
+Courts should exercise caution, however, in using the measures specified in (e)(2). Finding an intent to deprive another party of the lost information's use in the litigation does not require a court to adopt any of the measures listed in subdivision (e)(2). The remedy should fit the wrong, and the severe measures authorized by this subdivision should not be used when the information lost was relatively unimportant or lesser measures such as those specified in subdivision (e)(1) would be sufficient to redress the loss.
 
 #### Amendment by Public Law ####
 
@@ -12449,11 +12649,11 @@ Former Rule 54(d)(1) provided that the clerk may tax costs on 1 day's notice. Th
 
 (D) investigate any other matter.
 
-(c) Setting Aside a Default or a Default Judgment. The court may set aside an entry of default for good cause, and it may set aside a default judgment under Rule 60(b).
+(c) Setting Aside a Default or a Default Judgment. The court may set aside an entry of default for good cause, and it may set aside a final default judgment under Rule 60(b).
 
 (d) Judgment Against the United States. A default judgment may be entered against the United States, its officers, or its agencies only if the claimant establishes a claim or right to relief by evidence that satisfies the court.
 
-(As amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 29, 2015, eff. Dec. 1, 2015.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -12467,7 +12667,7 @@ This represents the joining of the equity decree *pro confesso* ([former] Equity
 
 #### Notes of Advisory Committee on Rules—1946 Supplementary Note ####
 
-*Note*. The operation of Rule 55(b) (Judgment) is directly affected by the Soldiers' and Sailors' Civil Relief Act of 1940 (50 U.S.C. [App.] §501 *et seq*.). Section 200 of the Act [50 U.S.C. Appendix, §520] imposes specific requirements which must be fulfilled before a default judgment can be entered (*e.g., Ledwith v. Storkan* (D.Neb. 1942) 6 Fed.Rules Serv. 60b.24, Case 2, 2 F.R.D. 539, and also provides for the vacation of a judgment in certain circumstances. See discussion in Commentary, *Effect of Conscription Legislation on the Federal Rules* (1940) 3 Fed.Rules Serv. 725; 3 *Moore's Federal Practice* (1938) Cum.Supplement §55.02.
+*Note*. The operation of Rule 55(b) (Judgment) is directly affected by the Soldiers' and Sailors' Civil Relief Act of 1940 ([former] 50 U.S.C. [App.] §501 *et seq*.) [now 50 U.S.C. 3901 et seq.]. Section 200 of the Act [former 50 U.S.C. Appendix, §520] imposes specific requirements which must be fulfilled before a default judgment can be entered (*e.g., Ledwith v. Storkan* (D.Neb. 1942) 6 Fed.Rules Serv. 60b.24, Case 2, 2 F.R.D. 539, and also provides for the vacation of a judgment in certain circumstances. See discussion in Commentary, *Effect of Conscription Legislation on the Federal Rules* (1940) 3 Fed.Rules Serv. 725; 3 *Moore's Federal Practice* (1938) Cum.Supplement §55.02.
 
 #### Notes of Advisory Committee on Rules—1987 Amendment ####
 
@@ -12484,6 +12684,10 @@ Amended Rule 55 omits former Rule 55(d), which included two provisions. The firs
 #### Committee Notes on Rules—2009 Amendment ####
 
 The time set in the former rule at 3 days has been revised to 7 days. See the Note to Rule 6.
+
+#### Committee Notes on Rules—2015 Amendment ####
+
+Rule 55(c) is amended to make plain the interplay between Rules 54(b), 55(c), and 60(b). A default judgment that does not dispose of all of the claims among all parties is not a final judgment unless the court directs entry of final judgment under Rule 54(b). Until final judgment is entered, Rule 54(b) allows revision of the default judgment at any time. The demanding standards set by Rule 60(b) apply only in seeking relief from a final judgment.
 
 ### Rule 56. Summary Judgment ###
 
@@ -12927,7 +13131,7 @@ The time limit for relief by motion in the court and in the action in which the 
 
 It should be noted that Rule 60(b) does not assume to define the substantive law as to the grounds for vacating judgments, but merely prescribes the practice in proceedings to obtain relief.
 
-It should also be noted that under §200(4) of the Soldiers' and Sailors' Civil Relief Act of 1940 (50 U.S.C. [App.] §501 *et seq*. [§520(4)]), a judgment rendered in any action or proceeding governed by the section may be vacated under certain specified circumstances upon proper application to the court.
+It should also be noted that under §200(4) of the Soldiers' and Sailors' Civil Relief Act of 1940 ([former] 50 U.S.C. [App.] §501 *et seq*. [§520(4)]), a judgment rendered in any action or proceeding governed by the section may be vacated under certain specified circumstances upon proper application to the court.
 
 #### Notes of Advisory Committee on Rules—1948 Amendment ####
 
@@ -13035,7 +13239,7 @@ U.S.C., Title 49:
 
 #### Notes of Advisory Committee on Rules—1946 Amendment ####
 
-*Subdivision (a)*. [This subdivision not amended]. Sections 203 and 204 of the Soldiers' and Sailors' Civil Relief Act of 1940 (50 U.S.C. [App.] §501 *et seq*. [§§523, 524]) provide under certain circumstances for the issuance and continuance of a stay of execution of any judgment or order entered against a person in military service. See *Bowsman v. Peterson* (D.Neb. 1942) 45 F.Supp. 741. Section 201 of the Act [50 U.S.C. App. §521] permits under certain circumstances the issuance of a stay of any action or proceeding at any stage thereof, where either the plaintiff or defendant is a person in military service. See also Note to Rule 64 herein.
+*Subdivision (a)*. [This subdivision not amended]. Sections 203 and 204 of the Soldiers' and Sailors' Civil Relief Act of 1940 ([former] 50 U.S.C. [App.] §501 *et seq*. [§§523, 524] [now 50 U.S.C. §§3933, 3934]) provide under certain circumstances for the issuance and continuance of a stay of execution of any judgment or order entered against a person in military service. See *Bowsman v. Peterson* (D.Neb. 1942) 45 F.Supp. 741. Section 201 of the Act [50 U.S.C. §3931] permits under certain circumstances the issuance of a stay of any action or proceeding at any stage thereof, where either the plaintiff or defendant is a person in military service. See also Note to Rule 64 herein.
 
 *Subdivision (b)*. This change was necessary because of the proposed addition to Rule 59 of subdivision (e).
 
@@ -13217,7 +13421,7 @@ U.S.C., Title 28:
 
 #### Notes of Advisory Committee on Rules—1946 Supplementary Note ####
 
-Sections 203 and 204 of the Soldiers' and Sailors' Civil Relief Act of 1940 (50 U.S.C. [App.] §501 *et seq*. [§§523, 524]) provide under certain circumstances for the issuance and continuance of a stay of the execution of any judgment entered against a person in military service, or the vacation or stay of any attachment or garnishment directed against such person's property, money, or debts in the hands of another. See also Note to Rule 62 herein.
+Sections 203 and 204 of the Soldiers' and Sailors' Civil Relief Act of 1940 ([former] 50 U.S.C. [App.] §501 *et seq*. [§§523, 524] [now 50 U.S.C. §§3933, 3934]) provide under certain circumstances for the issuance and continuance of a stay of the execution of any judgment entered against a person in military service, or the vacation or stay of any attachment or garnishment directed against such person's property, money, or debts in the hands of another. See also Note to Rule 62 herein.
 
 #### Committee Notes on Rules—2007 Amendment ####
 
@@ -13639,7 +13843,7 @@ U.S.C., Title 48:
 
 #### Notes of Advisory Committee on Rules—1946 Supplementary Note ####
 
-With respect to the provisions of the Soldiers' and Sailors' Civil Relief Act of 1940 (50 U.S.C. [App.] §501 *et seq*.) see Notes to Rules 62 and 64 herein.
+With respect to the provisions of the Soldiers' and Sailors' Civil Relief Act of 1940 ([former] 50 U.S.C. [App.] §501 *et seq*. [now 50 U.S.C. §3901 et seq.]) see Notes to Rules 62 and 64 herein.
 
 #### Notes of Advisory Committee on Rules—1948 Amendment ####
 
@@ -14843,23 +15047,11 @@ There should be no adverse consequence to a party or attorney for violating spec
 
 The language of Rule 83 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-### Rule 84. Forms ###
+### Rule 84. [Abrogated (Apr. 29, 2015, eff. Dec. 1, 2015).] ###
 
-The forms in the Appendix suffice under these rules and illustrate the simplicity and brevity that these rules contemplate.
+#### Committee Notes on Rules—2015 Amendment ####
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Apr. 30, 2007, eff. Dec. 1, 2007.)
-
-#### Notes of Advisory Committee on Rules—1937 ####
-
-In accordance with the practice found useful in many codes, provision is here made for a limited number of official forms which may serve as guides in pleading. Compare 2 Mass. Gen. Laws (Ter. Ed., 1932) ch. 231, §147, Forms 1–47; English Annual Practice (1937) Appendix A to M, inclusive; Conn. Practice Book (1934) Rules, 47–68, pp. 123–427.
-
-#### Notes of Advisory Committee on Rules—1946 Amendment ####
-
-The amendment serves to emphasize that the forms contained in the Appendix of Forms are sufficient to withstand attack under the rules under which they are drawn, and that the practitioner using them may rely on them to that extent. The circuit courts of appeals generally have upheld the use of the forms as promoting desirable simplicity and brevity of statement. *Sierocinski v. E. I. DuPont DeNemours & Co*. (C.C.A. 3d, 1939) 103 F.(2d) 843; *Swift & Co. v. Young* (C.C.A. 4th, 1939) 107 F.(2d) 170; *Sparks v. England* (C.C.A. 8th, 1940) 113 F.(2d) 579; *Ramsouer v. Midland Valley R. Co*. (C.C.A. 8th, 1943) 135 F.(2d) 101. And the forms as a whole have met with widespread approval in the courts. See cases cited in 1 *Moore's Federal Practice* (1938), Cum. Supplement §8.07, under "Page 554"; see also Commentary, *The Official Forms* (1941) 4 Fed. Rules Serv. 954. In Cook, "*Facts" and "Statements of Fact" (1937) 4 U.Chi.L.Rev. 233, 245–246, it is said with reference to what is now Rule 84: ". . . pleaders in the federal courts are not to be left to guess as to the meaning of [the] language" in Rule 8 (a) regarding the form of the complaint. "All of which is as it should be. In no other way can useless litigation be avoided."* *Ibid*. The amended rule will operate to discourage isolated results such as those found in *Washburn v. Moorman Mfg. Co*. (S.D.Cal. 1938) 25 F.Supp. 546; *Employers Mutual Liability Ins. Co. of Wisconsin v. Blue Line Transfer Co*. (W.D.Mo. 1941) 5 Fed. Rules Serv. 12e.235, Case 2.
-
-#### Committee Notes on Rules—2007 Amendment ####
-
-The language of Rule 84 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+Rule 84 was adopted when the Civil Rules were established in 1938 "to indicate, subject to the provisions of these rules, the simplicity and brevity of statement which the rules contemplate." The purpose of providing illustrations for the rules, although useful when the rules were adopted, has been fulfilled. Accordingly, recognizing that there are many alternative sources for forms, including the website of the Administrative Office of the United States Courts, the websites of many district courts, and local law libraries that contain many commercially published forms, Rule 84 and the Appendix of Forms are no longer necessary and have been abrogated. The abrogation of Rule 84 does not alter existing pleading standards or otherwise change the requirements of Civil Rule 8.
 
 ### Rule 85. Title ###
 
@@ -14915,173 +15107,7 @@ Sections 2–4 of the Order of the Supreme Court, dated Feb. 28, 1966, 383 U.S. 
 
 ### APPENDIX OF FORMS ###
 
-#### *(As added April 30, 2007, effective December 1, 2007.)* ####
-
-#### (See Rule 84.) ####
-
-#### Excerpts from the Report of the Judicial Conference—Committee on Rules of Practice and Procedure—September 2006 ####
-
-#### *The Illustrative Forms* ####
-
-The advisory committee submitted proposed revisions to Illustrative Forms 1 through 35 (to become Forms 1 through 82) contained in the Appendix of Forms to the Federal Rules of Civil Procedure with a recommendation that they be approved and transmitted to the Judicial Conference. \* \* \*
-
-The Illustrative Forms have not been revised or updated in many years. The advisory committee applied the same style conventions and principles to the forms as was used with the restyled rules. It declined to make changes to the substance of the forms, consistent with its style-project policy, even though some of the forms represent approaches to pleading and other submissions that may not be consistent with current practices. For example, the "complaint" forms call for allegations that are far briefer than are commonly found in cases filed in the district courts. Similarly, the advisory committee did not change the choice of examples in the forms; the "negligence complaint" form continues to use the example of an automobile striking a pedestrian.
-
-The forms have been reorganized and grouped by subject area. The revised forms place "special" forms as Forms 1–9; "complaint" forms as Forms 10–21,[;] "answer" forms as Forms 31–31 [sic]; "motions" forms as Forms 40–42; "discovery" forms as Forms 50–52; "condemnation" forms as Forms 60–61; "judgment" forms as Forms 70–71; and forms for "assignment to magistrate judges" as Forms 80–82.
-
-The pleading dates in the forms were eliminated and a uniform blank date was substituted. Explanatory Notes were also eliminated, because the forms are intended to stand on their own as simple and brief illustrations.
-
-#### Form 1 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af1.gif" width="700" />
-
-#### Form 2 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af2.gif" width="700" />
-
-#### Form 3 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af3.gif" width="700" />
-
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
-
-#### Form 4 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af4.gif" width="700" />
-
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
-
-#### Form 5 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af5.gif" width="700" />
-
-#### Form 6 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af6.gif" width="700" />
-
-#### Form 7 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af7.gif" width="700" />
-
-#### Form 8 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af8.gif" width="700" />
-
-#### Form 9 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af9.gif" width="700" />
-
-#### Form 10 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af10.gif" width="700" />
-
-#### Form 11 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af11.gif" width="700" />
-
-#### Form 12 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af12.gif" width="700" />
-
-#### Form 13 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af13.gif" width="700" />
-
-#### Form 14 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af14.gif" width="700" />
-
-#### Form 15 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af15.gif" width="700" />
-
-#### Form 16 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af16.gif" width="700" />
-
-#### Form 17 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af17.gif" width="700" />
-
-#### Form 18 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af18.gif" width="700" />
-
-#### Form 19 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af19.gif" width="700" />
-
-#### Form 20 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af20.gif" width="700" />
-
-#### Form 21 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af21.gif" width="700" />
-
-#### Form 30 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af30.gif" width="700" />
-
-#### Form 31 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af31.gif" width="700" />
-
-#### Form 40 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af40.gif" width="700" />
-
-#### Form 41 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af41.gif" width="700" />
-
-#### Form 42 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af42.gif" width="700" />
-
-#### Form 50 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af50.gif" width="700" />
-
-#### Form 51 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af51.gif" width="700" />
-
-#### Form 52 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af52.gif" width="700" />
-
-(As amended Apr. 28, 2010, eff. Dec. 1, 2010.)
-
-#### Form 60 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af60.gif" width="700" />
-
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
-
-#### Form 61 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af61.gif" width="700" />
-
-#### Form 70 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af70.gif" width="700" />
-
-#### Form 71 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af71.gif" width="700" />
-
-#### Form 80 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af80.gif" width="700" />
-
-#### Form 81 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af81.gif" width="700" />
-
-#### Form 82 ####
-
-<img src="http://uscode.house.gov/images/uscprelim/28Af82.gif" width="700" />
+#### [Abrogated (Apr. 29, 2015, eff. Dec. 1, 2015).] ####
 
 ### SUPPLEMENTAL RULES FOR ADMIRALTY OR MARITIME CLAIMS AND ASSET FORFEITURE ACTIONS <sup><a href="#I_1_target" name="I_1">1</a></sup> ###
 
@@ -16040,7 +16066,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to January 5, 2015)
+(As amended to December 1, 2015)
 
 #### Effective Date and Application of Rules ####
 

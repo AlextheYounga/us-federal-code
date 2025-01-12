@@ -495,7 +495,7 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to January 5, 2015)
+(As amended to December 1, 2015)
 
 #### Historical Note ####
 
@@ -749,7 +749,7 @@ Rule
 
 (11) "Telephone" means any technology for transmitting live electronic voice communication.
 
-(12) "Victim" means a "crime victim" as defined in 18 U.S.C. §3771(e).
+(12) "Victim" means a "crime victim" as defined in 18 U.S.C. §3771(e).<sup><a href="#Rule_1_1_target" name="Rule_1_1">1</a></sup>
 
 (c) Authority of a Justice or Judge of the United States. When these rules authorize a magistrate judge to act, any other federal judge may also act.
 
@@ -822,6 +822,12 @@ Upon occasion, disputes may arise over the question whether a particular person 
 *Subdivisions (b)(11) and (12)*. The added definition clarifies that the term "telephone" includes technologies enabling live voice conversations that have developed since the traditional "land line" telephone. Calls placed by cell phone or from a computer over the internet, for example, would be included. The definition is limited to live communication in order to ensure contemporaneous communication and excludes voice recordings. Live voice communication should include services for the hearing impaired, or other contemporaneous translation, where necessary.
 
 *Changes Made to Proposed Amendment Released for Public Comment*. The text was rephrased by the Committee to describe the telephone as a "technology for transmitting electronic voice communication" rather than a "form" of communication.
+
+#### References in Text ####
+
+18 U.S.C. §3771(e), referred to in subd. (b)(12), was redesignated 18 U.S.C. §3771(e)(2) by Pub. L. 114–22, title I, §113(a)(3)(A), May 29, 2015, 129 Stat. 240.
+
+[<sup>1</sup> See References in Text note below.](#Rule_1_1)
 
 ### Rule 2. Interpretation ###
 
@@ -8943,7 +8949,7 @@ The times set in the former rule at 10 days have been revised to 14 days. See th
 
 (1) *Time for Deciding a Motion.* The court must promptly decide any motion asserting a victim's rights described in these rules.
 
-(2) *Who May Assert the Rights.* A victim's rights described in these rules may be asserted by the victim, the victim's lawful representative, the attorney for the government, or any other person as authorized by 18 U.S.C. §3771(d) and (e).
+(2) *Who May Assert the Rights.* A victim's rights described in these rules may be asserted by the victim, the victim's lawful representative, the attorney for the government, or any other person as authorized by 18 U.S.C. §3771(d) and (e).<sup><a href="#Rule_60_1_target" name="Rule_60_1">1</a></sup>
 
 (3) *Multiple Victims.* If the court finds that the number of victims makes it impracticable to accord all of them their rights described in these rules, the court must fashion a reasonable procedure that gives effect to these rights without unduly complicating or prolonging the proceedings.
 
@@ -8986,6 +8992,12 @@ Subdivision(b)(2) was revised to respond to concerns that the amendments did not
 References throughout subdivision (b) were revised to indicate that they were applicable to the victim's rights described in the Federal Rules of Criminal Procedure, not merely subdivision (a) of Rule 60.
 
 Other minor changes were made at the suggestion of the Style Consultant to improve clarity.
+
+#### References in Text ####
+
+18 U.S.C. §3771(e), referred to in subd. (b)(2), was redesignated 18 U.S.C. §3771(e)(2) by Pub. L. 114–22, title I, §113(a)(3)(A), May 29, 2015, 129 Stat. 240.
+
+[<sup>1</sup> See References in Text note below.](#Rule_60_1)
 
 ### Rule 61. Title ###
 

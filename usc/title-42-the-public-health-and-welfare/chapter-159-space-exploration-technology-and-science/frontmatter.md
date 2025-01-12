@@ -38,7 +38,7 @@ Sec.
 
 #### SUBCHAPTER IV—CONTINUATION, SUPPORT, AND EVOLUTION OF THE INTERNATIONAL SPACE STATION ####
 
-18351. Continuation of the International Space Station through 2020.
+18351. Continuation of the International Space Station.
 
 18352. Maximum utilization of the International Space Station.
 
