@@ -10,7 +10,7 @@ Inasmuch as the reservation of the tribe has been terminated, the Secretary shal
 
 #### (c) Notification and consultation ####
 
-To assure that legitimate State and local interests are not prejudiced by the creation of a reservation for the tribe, the Secretary, in developing a plan under subsection (b)for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
+To assure that legitimate State and local interests are not prejudiced by the creation of a reservation for the tribe, the Secretary, in developing a plan under subsection (b) for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
 
 (1) the size and location of the reservation;
 

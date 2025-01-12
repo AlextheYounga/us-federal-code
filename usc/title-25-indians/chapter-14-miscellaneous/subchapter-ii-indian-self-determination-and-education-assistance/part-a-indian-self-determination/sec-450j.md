@@ -28,7 +28,7 @@
 
 (IV) Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(V) Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479) [40 U.S.C. 545 note].
+(V) Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479).
 
 (VI) Chapters 21, 25, 27, 29, and 31 of title 44.
 
@@ -191,6 +191,8 @@ Patient records that are deemed to be Federal records under those provisions of 
 This subchapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f)(3), (k), (l)(1), and (m)(1), (4)(C)(i), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of former Title 41, Public Contracts, and was repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
+
+Section 13 of the Act of Oct. 3, 1944 (58 Stat. 770; chapter 479), referred to in subsec. (a)(3)(C)(ii)(V), is act Oct. 3, 1944, ch. 479, §13, 58 Stat. 770, which is set out as a note under section 545 of Title 40, Public Buildings, Property, and Works.
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
