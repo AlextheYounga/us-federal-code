@@ -366,7 +366,7 @@ the date specified in this subparagraph is the first day of the first calendar q
 
 The requirements of this subsection are as follows:
 
-(1) Each medicare supplemental policy shall provide for coverage of a group of benefits consistent with subsections (p), (v) <sup><a href="#1395ss_1_target" name="1395ss_1">1</a></sup> (w), and (y).
+(1) Each medicare supplemental policy shall provide for coverage of a group of benefits consistent with subsections (p), (v) <sup><a href="#1395ss_2_target" name="1395ss_2">2</a></sup> (w), and (y).
 
 (2) If the medicare supplemental policy provides for coverage of a group of benefits other than the core group of basic benefits described in subsection (p)(2)(B), the issuer of the policy must make available to the individual a medicare supplemental policy with only such core group of basic benefits.
 
@@ -480,7 +480,7 @@ The requirements of this subsection are as follows:
 
 (A) provides for continuation of the benefits contained in the group policy, or
 
-(B) provides for such benefits as otherwise meets <sup><a href="#1395ss_2_target" name="1395ss_2">2</a></sup> the requirements of this section.
+(B) provides for such benefits as otherwise meets <sup><a href="#1395ss_3_target" name="1395ss_3">3</a></sup> the requirements of this section.
 
 (3) If an individual is a certificateholder in a group medicare supplemental policy and the individual terminates membership in the group, the issuer shall—
 
@@ -488,7 +488,7 @@ The requirements of this subsection are as follows:
 
 (B) at the option of the group policyholder, offer the certificateholder continuation of coverage under the group policy.
 
-(4) If a group medicare supplemental policy is replaced by another group medicare supplemental policy purchased by the same policyholder, issuer <sup><a href="#1395ss_3_target" name="1395ss_3">3</a></sup> of the replacement policy shall offer coverage to all persons covered under the old group policy on its date of termination. Coverage under the new group policy shall not result in any exclusion for preexisting conditions that would have been covered under the group policy being replaced.
+(4) If a group medicare supplemental policy is replaced by another group medicare supplemental policy purchased by the same policyholder, issuer <sup><a href="#1395ss_4_target" name="1395ss_4">4</a></sup> of the replacement policy shall offer coverage to all persons covered under the old group policy on its date of termination. Coverage under the new group policy shall not result in any exclusion for preexisting conditions that would have been covered under the group policy being replaced.
 
 (5)(A) Each medicare supplemental policy shall provide that benefits and premiums under the policy shall be suspended at the request of the policyholder for the period (not to exceed 24 months) in which the policyholder has applied for and is determined to be entitled to medical assistance under subchapter XIX, but only if the policyholder notifies the issuer of such policy within 90 days after the date the individual becomes entitled to such assistance. If such suspension occurs and if the policyholder or certificate holder loses entitlement to such medical assistance, such policy shall be automatically reinstituted (effective as of the date of termination of such entitlement) under terms described in subsection (n)(6)(A)(ii) as of the termination of such entitlement if the policyholder provides notice of loss of such entitlement within 90 days after the date of such loss.
 
@@ -508,7 +508,7 @@ The requirements of this subsection are as follows:
 
 For purposes of applying subparagraph (A) only, policies issued as a result of solicitations of individuals through the mails or by mass media advertising (including both print and broadcast advertising) shall be deemed to be individual policies. For the purpose of calculating the refund or credit required under paragraph (1)(B) for a policy issued before the date specified in subsection (p)(1)(C), the refund or credit calculation shall be based on the aggregate benefits provided and premiums collected under all such policies issued by an insurer in a State (separated as to individual and group policies) and shall be based only on aggregate benefits provided and premiums collected under such policies after the date specified in section 171(m)(4) of the Social Security Act Amendments of 1994.
 
-(2)(A) Paragraph (1)(B) shall be applied with respect to each type of policy by standard package. Paragraph (1)(B) shall not apply to a policy until 12 months following issue. The Comptroller General, in consultation with the National Association of Insurance Commissioners, shall submit to Congress a report containing recommendations on adjustment in the percentages under paragraph (1)(A) that may be appropriate. In the case of a policy issued before the date specified in subsection (p)(1)(C), paragraph (1)(B) shall not apply until 1 year after the date specified in section 171(m)(4) of the Social Security Act Amendments of 1994.
+(2)(A) Paragraph (1)(B) shall be applied with respect to each type of policy by standard package. Paragraph (1)(B) shall not apply to a policy until 12 months following issue. The Comptroller General, in consultation with the National Association of Insurance Commissioners, shall submit to Congress a report containing recommendations on adjustments in the percentages under paragraph (1)(A) that may be appropriate. In the case of a policy issued before the date specified in subsection (p)(1)(C), paragraph (1)(B) shall not apply until 1 year after the date specified in section 171(m)(4) of the Social Security Act Amendments of 1994.
 
 (B) A refund or credit required under paragraph (1)(B) shall be made to each policyholder insured under the applicable policy as of the last day of the year involved.
 
@@ -536,7 +536,7 @@ For purposes of applying subparagraph (A) only, policies issued as a result of s
 
 (C) If a medicare supplemental policy or certificate replaces another such policy or certificate which has been in effect for 6 months or longer, the replacing policy may not provide any time period applicable to pre-existing conditions, waiting periods, elimination periods, and probationary periods in the new policy or certificate for similar benefits.
 
-(D) In the case of a policy issued during the 6-month period described in subparagraph (A) to an individual who is 65 years of age or older as of the date of issuance and who as of the date of the application for enrollment has a continuous period of creditable coverage (as defined in section 2701(c) <sup><a href="#1395ss_4_target" name="1395ss_4">4</a></sup> of the Public Health Service Act) of—
+(D) In the case of a policy issued during the 6-month period described in subparagraph (A) to an individual who is 65 years of age or older as of the date of issuance and who as of the date of the application for enrollment has a continuous period of creditable coverage (as defined in section 2701(c) <sup><a href="#1395ss_5_target" name="1395ss_5">5</a></sup> of the Public Health Service Act) of—
 
 (i) at least 6 months, the policy may not exclude benefits based on a pre-existing condition; or
 
@@ -652,7 +652,7 @@ in the case of an individual described in subparagraph (B) who seeks to enroll u
 
 the issuer is subject to a civil money penalty in an amount not to exceed $25,000 for each such violation. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
-(3) The Secretary may enter into a contract with an entity whose policy has been certified under paragraph (1) or has been approved by a State under subsection (b)(1)(H) to determine whether items and services (furnished to individuals entitled to benefits under this subchapter and under that policy) are not allowable under section 1395y(a)(1) of this title. Payments to the entity shall be in such amounts as the Secretary may determine, taking into account estimated savings under contracts with carriers and fiscal intermediaries and other factors that the Secretary finds appropriate. Paragraph (1), the first sentence of paragraph (2)(A), paragraph (2)(B), paragraph (3)(C), paragraph (3)(D), and paragraph (3)(E) <sup><a href="#1395ss_4_target" name="1395ss_4">4</a></sup> of section 1395u(b) of this title shall apply to the entity.
+(3) The Secretary may enter into a contract with an entity whose policy has been certified under paragraph (1) or has been approved by a State under subsection (b)(1)(H) to determine whether items and services (furnished to individuals entitled to benefits under this subchapter and under that policy) are not allowable under section 1395y(a)(1) of this title. Payments to the entity shall be in such amounts as the Secretary may determine, taking into account estimated savings under contracts with carriers and fiscal intermediaries and other factors that the Secretary finds appropriate. Paragraph (1), the first sentence of paragraph (2)(A), paragraph (2)(B), paragraph (3)(C), paragraph (3)(D), and paragraph (3)(E) <sup><a href="#1395ss_5_target" name="1395ss_5">5</a></sup> of section 1395u(b) of this title shall apply to the entity.
 
 #### (u) Additional rules relating to individuals enrolled in MSA plans and in private fee-for-service plans ####
 
@@ -1652,10 +1652,10 @@ Pub. L. 101–508, title IV, §4358(d), Nov. 5, 1990, 104 Stat. 1388–137, prov
 
 [<sup>1</sup> So in original. Probably should be "subsection (*l*)".](#1395ss_1)
 
-[<sup>1</sup> So in original. Probably should be followed by a comma.](#1395ss_1)
+[<sup>2</sup> So in original. Probably should be followed by a comma.](#1395ss_2)
 
-[<sup>2</sup> So in original. Probably should be "meet".](#1395ss_2)
+[<sup>3</sup> So in original. Probably should be "meet".](#1395ss_3)
 
-[<sup>3</sup> So in original. Probably should be preceded by "the".](#1395ss_3)
+[<sup>4</sup> So in original. Probably should be preceded by "the".](#1395ss_4)
 
-[<sup>4</sup> See References in Text note below.](#1395ss_4)
+[<sup>5</sup> See References in Text note below.](#1395ss_5)

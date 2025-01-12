@@ -270,7 +270,7 @@ Another prior section 38 was renumbered section 37 of this title.
 
 #### Amendments ####
 
-**2017**—Subsec. (b)(35 ) to (37). Pub. L. 115–97, §13403(b), struck out "plus" at end of par. (35), substituted ", plus" for period at end of par. (36), and added par. (37).
+**2017**—Subsec. (b)(35) to (37). Pub. L. 115–97, §13403(b), struck out "plus" at end of par. (35), substituted ", plus" for period at end of par. (36), and added par. (37).
 
 Subsec. (c)(4)(B)(ix) to (xii). Pub. L. 115–97, §13403(c), added cl. (ix) and redesignated former cls. (ix) to (xi) as (x) to (xii), respectively.
 

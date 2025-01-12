@@ -212,7 +212,7 @@ Subsec. (b)(3). Pub. L. 115–97, §12001(b)(3)(B), substituted "paragraph (1)(A
 
 Subsec. (c)(1). Pub. L. 115–97, §12001(b)(4), struck out ", the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A" after "section 27(a)".
 
-Subsec. (d)(2). Pub. L. 115–97, §12001(b)(5)(A), redesignated par. (3) as (2) and struck out former par. (2). Text of former par. (2) read as follows: "In the case of a corporation, the term 'exemption amount' means $40,000.".
+Subsec. (d)(2). Pub. L. 115–97, §12001(b)(5)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "In the case of a corporation, the term 'exemption amount' means $40,000.".
 
 Subsec. (d)(2)(D). Pub. L. 115–97, §12001(b)(5)(B), struck out subpar. (D) which read as follows: "$150,000 in the case of a taxpayer described in paragraph (2)."
 
@@ -222,7 +222,7 @@ Subsec. (d)(3)(B)(i). Pub. L. 115–97, §12001(b)(5)(C)(i), substituted "(b)(1)
 
 Subsec. (d)(3)(B)(iii). Pub. L. 115–97, §12001(b)(5)(C)(ii), substituted "paragraph (2)" for "paragraph (3)".
 
-Subsec. (d)(4). Pub. L. 115–97, §12003(a), added par. (4).
+Subsec. (d)(4). Pub. L. 115–97, §12003(a), added par. (4). Former par. (4) redesignated (3).
 
 Subsec. (d)(4)(A)(ii). Pub. L. 115–97, §11002(d)(1)(I), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 

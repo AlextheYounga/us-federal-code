@@ -118,6 +118,8 @@ Sec.
 
 261. Effect on other requirements.
 
+262. Ensuring the integrity of voice communications.
+
 #### Part III—Special Provisions Concerning Bell Operating Companies ####
 
 271. Bell operating company entry into interLATA services.

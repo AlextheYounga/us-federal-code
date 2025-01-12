@@ -18,7 +18,7 @@ Pub. L. 115–97, title I, §11051(b)(1)(C), (c), Dec. 22, 2017, 131 Stat. 2089,
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–97, title I, §11051(b)(1)(C), Dec. 22, 2017, 131 Stat. 2089, struck out item 682 "Income of an estate or trust in case of divorce, etc.".
+**2017**—Pub. L. 115–97, title I, §11051(b)(1)(C), Dec. 22, 2017, 131 Stat. 2089, struck out item 682 "Income of an estate or trust in case of divorce, etc."
 
 **2010**—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(e)(1)(D), had never been enacted. See 2001 Amendment note below.
 

@@ -60,7 +60,7 @@ A prior section 58, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 #### Amendments ####
 
-**2017**—Subsec. (a)(3), (4). Pub. L. 115–97 redesignated par. (4) as (3) and struck out former par. (3). Text of former par. (3) read as follows: "For purposes of paragraph (1), a personal service corporation (within the meaning of section 469(j)(2)) shall be treated as a taxpayer other than a corporation."
+**2017**—Subsec. (a)(3), (4). Pub. L. 115–97 redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: "For purposes of paragraph (1), a personal service corporation (within the meaning of section 469(j)(2)) shall be treated as a taxpayer other than a corporation."
 
 **2014**—Subsec. (a)(2)(A). Pub. L. 113–295, §221(a)(58)(E), substituted "section 461(j)" for "section 464(c)".
 

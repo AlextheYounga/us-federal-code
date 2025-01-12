@@ -42,7 +42,7 @@ An election under this paragraph may be made only for the taxpayer's first taxab
 
 An election under this paragraph, once made, shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
 
-#### [(b) Repealed. Pub. L. 115–97, title I, §12001(b)(3)(C)(ii), Dec. 22, 2017, 131 Stat. 2093] ####
+#### [(b) Repealed. Pub. L. 115–97, title I, §12001(b)(10), Dec. 22, 2017, 131 Stat. 2093] ####
 
 #### (c) Treatment of estates and trusts ####
 
@@ -118,7 +118,7 @@ In the case of any disposition of mining property to which section 617(d) applie
 
 Any portion of any qualified expenditure to which an election under paragraph (1) applies shall not be treated as an item of tax preference under section 57(a) and section 56 shall not apply to such expenditure.
 
-#### [(f) Repealed. Pub. L. 115–97, title I, §12001(b)(3)(C)(ii), Dec. 22, 2017, 131 Stat. 2093] ####
+#### [(f) Repealed. Pub. L. 115–97, title I, §12001(b)(10), Dec. 22, 2017, 131 Stat. 2093] ####
 
 #### (g) Tax benefit rule ####
 

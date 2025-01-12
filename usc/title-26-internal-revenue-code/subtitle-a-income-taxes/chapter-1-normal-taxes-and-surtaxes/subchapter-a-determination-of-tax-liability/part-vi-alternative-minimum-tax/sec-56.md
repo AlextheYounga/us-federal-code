@@ -144,7 +144,7 @@ If the taxpayer materially participates (within the meaning of section 469(h)) i
 
 Section 421 shall not apply to the transfer of stock acquired pursuant to the exercise of an incentive stock option (as defined in section 422). Section 422(c)(2) shall apply in any case where the disposition and the inclusion for purposes of this part are within the same taxable year and such section shall not apply in any other case. The adjusted basis of any stock so acquired shall be determined on the basis of the treatment prescribed by this paragraph.
 
-#### [(c) Repealed. Pub. L. 115–97, title I, §11002(d)(4), Dec. 22, 2017, 131 Stat. 2061] ####
+#### [(c) Repealed. Pub. L. 115–97, title I, §12001(b)(8)(A), Dec. 22, 2017, 131 Stat. 2093] ####
 
 #### (d) Alternative tax net operating loss deduction defined ####
 
@@ -258,7 +258,7 @@ A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 **2017**—Subsec. (b)(1)(B). Pub. L. 115–97, §11027(b), inserted at end "This subparagraph shall not apply to taxable years beginning after December 31, 2016, and ending before January 1, 2019".
 
-Subsec. (b)(2)(C), (D). Pub. L. 115–97, §12001(b)(7), redesignated subpar. (D) as (C) and struck out former subpar. (C). Text of former subpar. (C) read as follows: "In the case of circulation expenditures described in section 173, the adjustments provided in this paragraph shall apply also to a personal holding company (as defined in section 542)."
+Subsec. (b)(2)(C), (D). Pub. L. 115–97, §12001(b)(7), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: "In the case of circulation expenditures described in section 173, the adjustments provided in this paragraph shall apply also to a personal holding company (as defined in section 542)."
 
 Subsec. (c). Pub. L. 115–97, §12001(b)(8)(A), struck out subsec. (c) which related to adjustments applicable to corporations.
 
@@ -826,7 +826,7 @@ Pub. L. 110–343, div. C, title VII, §712, Oct. 3, 2008, 122 Stat. 3929, as am
 
 #### Application of Former Subsection (g)(1) and (3) to Taxable Years Beginning in 1991 and 1992 ####
 
-Pub. L. 104–188, title I, §1702(e)(1)(B), Aug. 20, 1996, 110 Stat. 1870, provided that: "For purposes of applying [former] sections 56(g)(1) and 56(g)(3) of the Internal Revenue Code of 1986 with respect to taxable years beginning in 1991 and 1992, the reference in such sections to the alternative tax net operating loss deduction shall be treated as including a reference to the deduction under section 56(h) of such Code as in effect before the amendments made by section 1915 of the Energy Policy Act of 1992 [Pub. L. 102–486]."
+Pub. L. 104–188, title I, §1702(e)(1)(B), Aug. 20, 1996, 110 Stat. 1870, provided that: "For purposes of applying [former] sections 56(g)(1) and 56(g)(3) of the Internal Revenue Code of 1986 with respect to taxable years beginning in 1991 and 1992, the reference in such sections to the alternative tax net operating loss deduction shall be treated as including a reference to the deduction under [former] section 56(h) of such Code as in effect before the amendments made by section 1915 of the Energy Policy Act of 1992 [Pub. L. 102–486]."
 
 #### Installment Sales; Taxable Years Beginning in 1987 ####
 

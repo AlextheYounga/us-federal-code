@@ -6,6 +6,10 @@
 
 (Pub. L. 96–428, §1, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024(a), Oct. 30, 1992, 106 Stat. 4768; Pub. L. 115–108, §2(1)–(3), Jan. 8, 2018, 131 Stat. 2267.)
 
+#### Codification ####
+
+This subchapter is comprised of Pub. L. 96–428, as amended. Pub. L. 96–428 is also listed in a table of National Historic Sites set out under section 320101 of Title 54, National Park Service and Related Programs.
+
 #### Amendments ####
 
 **2018**—Subsec. (a). Pub. L. 115–108 substituted "Martin Luther King, Jr. National Historical Park" for "Martin Luther King, Junior, National Historic Site", "the map entitled 'Martin Luther King, Jr. National Historical Park Proposed Boundary Revision', numbered 489/128,786 and dated June 2015" for "the map entitled 'Martin Luther King, Junior, National Historic Site Boundary Map', number 489/80,013B, and dated September 1992", and "national historical park" for "national historic site".

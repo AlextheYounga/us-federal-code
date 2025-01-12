@@ -264,11 +264,11 @@ In the case of a facility using wind to produce electricity, the term "qualified
 
 In the case of a facility using closed-loop biomass to produce electricity, the term "qualified facility" means any facility—
 
-(i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2017, or
+(i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2018, or
 
-(ii) owned by the taxpayer which before January 1, 2017, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+(ii) owned by the taxpayer which before January 1, 2018, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
 
-For purposes of clause (ii), a facility shall be treated as modified before January 1, 2017, if the construction of such modification begins before such date.
+For purposes of clause (ii), a facility shall be treated as modified before January 1, 2018, if the construction of such modification begins before such date.
 
 #### (B) Expansion of facility ####
 
@@ -290,11 +290,11 @@ In the case of a facility using open-loop biomass to produce electricity, the te
 
 (i) in the case of a facility using agricultural livestock waste nutrients—
 
-(I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2017, and
+(I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2018, and
 
 (II) the nameplate capacity rating of which is not less than 150 kilowatts, and
 
-(ii) in the case of any other facility, the construction of which begins before January 1, 2017.
+(ii) in the case of any other facility, the construction of which begins before January 1, 2018.
 
 #### (B) Expansion of facility ####
 
@@ -310,7 +310,7 @@ In the case of a facility using geothermal or solar energy to produce electricit
 
 (A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
 
-(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2017.
+(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2018.
 
 Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
 
@@ -320,11 +320,11 @@ In the case of a facility using small irrigation power to produce electricity, t
 
 #### (6) Landfill gas facilities ####
 
-In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2017.
+In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2018.
 
 #### (7) Trash facilities ####
 
-In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2017. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2018. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
 #### (8) Refined coal production facility ####
 
@@ -340,9 +340,9 @@ In the case of a facility that produces refined coal, the term "refined coal pro
 
 In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term "qualified facility" means—
 
-(i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2017, and
+(i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2018, and
 
-(ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2017.
+(ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2018.
 
 #### (B) Credit period ####
 
@@ -350,7 +350,7 @@ In the case of a qualified facility described in subparagraph (A), the 10-year p
 
 #### (C) Special rule ####
 
-For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2017, if the construction of such improvement or addition begins before such date.
+For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2018, if the construction of such improvement or addition begins before such date.
 
 #### (10) Indian coal production facility ####
 
@@ -362,7 +362,7 @@ In the case of a facility producing electricity from marine and hydrokinetic ren
 
 (A) which has a nameplate capacity rating of at least 150 kilowatts, and
 
-(B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2017.
+(B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2018.
 
 #### (e) Definitions and special rules ####
 
@@ -514,13 +514,13 @@ In the case of a facility producing steel industry fuel, clause (i) shall not ap
 
 In the case of a producer of Indian coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to the applicable dollar amount per ton of Indian coal—
 
-(i) produced by the taxpayer at an Indian coal production facility during the 11-year period beginning on January 1, 2006, and
+(i) produced by the taxpayer at an Indian coal production facility during the 12-year period beginning on January 1, 2006, and
 
 (ii) sold by the taxpayer—
 
 (I) to an unrelated person (either directly by the taxpayer or after sale or transfer to one or more related persons), and
 
-(II) during such 11-year period and such taxable year.
+(II) during such 12-year period and such taxable year.
 
 #### (B) Applicable dollar amount ####
 
@@ -574,7 +574,7 @@ shall be treated as an increase in tax imposed by this chapter on the organizati
 
 For purposes of this section the term "eligible cooperative" means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
 
-(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) [title III, §319(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §§154(a), 155(a), title II, §210(g)(1), Dec. 19, 2014, 128 Stat. 4021, 4032; Pub. L. 114–113, div. P, title III, §301(a), div. Q, title I, §§186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, 129 Stat. 3038, 3073, 3074.)
+(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) [title III, §319(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §§154(a), 155(a), title II, §210(g)(1), Dec. 19, 2014, 128 Stat. 4021, 4032; Pub. L. 114–113, div. P, title III, §301(a), div. Q, title I, §§186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, 129 Stat. 3038, 3073, 3074; Pub. L. 115–123, div. D, title I, §§40408(a), 40409(a), Feb. 9, 2018, 132 Stat. 149, 150.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -601,6 +601,10 @@ The date of enactment of the Energy Tax Incentives Act of 2005, referred to in s
 A prior section 45 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (d). Pub. L. 115–123, §40409(a), substituted "January 1, 2018" for "January 1, 2017" wherever appearing.
+
+Subsec. (e)(10)(A)(i), (ii)(II). Pub. L. 115–123, §40408(a), substituted "12-year period" for "11-year period".
 
 **2015**—Subsec. (b)(5). Pub. L. 114–113, §301(a)(2), added par. (5).
 
@@ -825,6 +829,12 @@ Subsec. (c)(3). Pub. L. 106–170, §507(a), reenacted heading without change an
 Subsec. (c)(4). Pub. L. 106–170, §507(b)(2), added par. (4).
 
 Subsec. (d)(6), (7). Pub. L. 106–170, §507(c), added pars. (6) and (7).
+
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–123, div. D, title I, §40408(b), Feb. 9, 2018, 132 Stat. 149, provided that: "The amendment made by this section [amending this section] shall apply to coal produced after December 31, 2016."
+
+Pub. L. 115–123, div. D, title I, §40409(c), Feb. 9, 2018, 132 Stat. 150, provided that: "The amendments made by this section [amending this section and section 48 of this title] shall take effect on January 1, 2017."
 
 #### Effective Date of 2015 Amendment ####
 

@@ -534,6 +534,12 @@ the amendments made by this section shall apply under a cut-off method whereby t
 
 "(7) Special rule for casualty losses.—Section 263A(d)(2) of the Internal Revenue Code of 1986 (as added by this section) shall apply to expenses incurred on or after the date of the enactment of this Act [Oct. 22, 1986]."
 
+#### Construction ####
+
+Pub. L. 115–97, title I, §13809, as added by Pub. L. 115–123, div. D, title II, §41111(a), Feb. 9, 2018, 132 Stat. 160, provided that: "Nothing in this subpart [subpart A (§§13801—13809) of part IX of subtitle C of title I of Pub. L. 115–97, amending this section and sections 5001, 5041, 5051, 5212, 5412, 5414, and 7652 of this title, and enacting provisions set out as notes under sections 5001, 5041, 5051, 5212, and 5412 of this title], the amendments made by this subpart, or any regulation promulgated under this subpart or the amendments made by this subpart, shall be construed to preempt, supersede, or otherwise limit or restrict any State, local, or tribal law that prohibits or regulates the production or sale of distilled spirits, wine, or malt beverages."
+
+[Pub. L. 115–123, div. D, title II, §41111(b), Feb. 9, 2018, 132 Stat. 160, provided that: "The amendment made by this section [enacting section 13809 of Pub. L. 115–97, set out above] shall take effect as if included in Public Law 115–97."]
+
 #### Allocation Ratio for Apportioning Storage Costs and Related Handling Costs ####
 
 Pub. L. 100–647, title I, §1008(b)(8), Nov. 10, 1988, 102 Stat. 3438, provided that: "The allocation used in the regulations prescribed under section 263A(h)(2) of the Internal Revenue Code of 1986 for apportioning storage costs and related handling costs shall be determined by dividing the amount of such costs by the beginning inventory balances and the purchases during the year and by multiplying the resulting allocation ratio by inventory amounts determined in accordance with the provisions of the joint explanatory statement of the committee of conference of the conference report accompanying H.R. 3838 (H.R. Rept. No. 99–841, Vol. II., 99th Cong., 2d Sess. II–306–307 (1986))."

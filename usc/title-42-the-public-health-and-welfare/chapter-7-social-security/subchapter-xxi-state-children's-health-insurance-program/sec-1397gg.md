@@ -60,39 +60,41 @@ The following sections of this chapter shall apply to States under this subchapt
 
 (A) Section 1396a(a)(4)(C) of this title (relating to conflict of interest standards).
 
-(B) Section 1396a(a)(39) of this title (relating to termination of participation of certain providers).
+(B) Section 1396a(a)(25) of this title (relating to third party liability).
 
-(C) Section 1396a(a)(78) of this title (relating to enrollment of providers participating in State plans providing medical assistance on a fee-for-service basis).
+(C) Section 1396a(a)(39) of this title (relating to termination of participation of certain providers).
 
-(D) Section 1396a(a)(72) of this title (relating to limiting FQHC contracting for provision of dental services).
+(D) Section 1396a(a)(78) of this title (relating to enrollment of providers participating in State plans providing medical assistance on a fee-for-service basis).
 
-(E) Section 1396a(a)(73) of this title (relating to requiring certain States to seek advice from designees of Indian Health Programs and Urban Indian Organizations).
+(E) Section 1396a(a)(72) of this title (relating to limiting FQHC contracting for provision of dental services).
 
-(F) Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements).
+(F) Section 1396a(a)(73) of this title (relating to requiring certain States to seek advice from designees of Indian Health Programs and Urban Indian Organizations).
 
-(G) Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child's eligibility for medical assistance).
+(G) Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements).
 
-(H) Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
+(H) Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child's eligibility for medical assistance).
 
-(I) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
+(I) Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
 
-(J) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
+(J) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
 
-(K) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
+(K) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
 
-(L) Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
+(L) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
 
-(M) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
+(M) Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
 
-(N) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
+(N) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
 
-(O) Section 1396r–1a of this title (relating to presumptive eligibility for children).
+(O) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
 
-(P) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of section 1396u–2 of this title.
+(P) Section 1396r–1a of this title (relating to presumptive eligibility for children).
 
-(Q) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+(Q) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of section 1396u–2 of this title.
 
-(R) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
+(R) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+
+(S) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
 
 #### (2) Subchapter XI provisions ####
 
@@ -132,7 +134,7 @@ In this subsection, the term "qualified CHIP look-alike program" means a State p
 
 (B) that is funded exclusively through non-Federal funds, including funds received by the State in the form of premiums for the purchase of such coverage.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) [title VIII, §803], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194; Pub. L. 115–120, div. C, §3002(g)(1), Jan. 22, 2018, 132 Stat. 35.)
+(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) [title VIII, §803], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194; Pub. L. 115–120, div. C, §3002(g)(1), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–123, div. E, title XII, §53102(d)(1), Feb. 9, 2018, 132 Stat. 299.)
 
 #### Codification ####
 
@@ -140,7 +142,9 @@ Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by se
 
 #### Amendments ####
 
-**2018**—Subsec. (g). Pub. L. 115–120 added subsec. (g).
+**2018**—Subsec. (e)(1)(B) to (S). Pub. L. 115–123 added subpar. (B) and redesignated former subpars. (B) to (R) as (C) to (S), respectively.
+
+Subsec. (g). Pub. L. 115–120 added subsec. (g).
 
 **2016**—Subsec. (e)(1)(B) to (R). Pub. L. 114–255 added subpars. (B), (C), and (L), redesignated former subpars. (B) to (I) as (D) to (K) and (J) to (O) as (M) to (R), respectively, and in subpar. (P), as so redesignated, substituted "(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)" for "(a)(2)(C) and (h)".
 

@@ -311,7 +311,7 @@ A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments ####
 
-**2017**—Subsec. (b)(2)(B)(ii)(II), (j)(1)(B)(i), (ii). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
+**2017**—Subsecs. (b)(2)(B)(ii)(II), (j)(1)(B)(i), (ii). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
 **2015**—Subsec. (b)(1). Pub. L. 114–113, §103(a), amended par. (1) generally. Prior to amendment, par. (1) provided credit and phaseout percentages for eligible individuals with 1, 2 or more, or no qualifying children.
 

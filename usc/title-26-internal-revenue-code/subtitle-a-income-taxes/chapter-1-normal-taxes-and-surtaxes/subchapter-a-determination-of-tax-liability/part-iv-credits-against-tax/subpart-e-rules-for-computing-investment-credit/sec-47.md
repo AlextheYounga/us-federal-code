@@ -238,7 +238,7 @@ Provisions similar to this section were contained in section 48(g) of this title
 
 #### Amendments ####
 
-**2017**—Subsec. (a). Pub. L. 115–97, §13402(a), amended subsec. (a) generally. Prior to amendment, text of subsec. (a) read as follows: "For purposes of section 46, the rehabilitation credit for any taxable year is the sum of—
+**2017**—Subsec. (a). Pub. L. 115–97, §13402(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "For purposes of section 46, the rehabilitation credit for any taxable year is the sum of—
 
 "(1) 10 percent of the qualified rehabilitation expenditures with respect to any qualified rehabilitated building other than a certified historic structure, and
 
@@ -252,7 +252,7 @@ Subsec. (c)(1)(A)(iii). Pub. L. 115–97, §13402(b)(1)(A)(i), amended cl. (iii)
 
 "(III) 75 percent or more of the existing internal structural framework of such building is retained in place, and".
 
-Subsec. (c)(1)(B) to (D). Pub. L. 115–97, §13402(b)(1)(A)(ii), (iii), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Text of former subpar. (B) read as follows: "In the case of a building other than a certified historic structure, a building shall not be a qualified rehabilitated building unless the building was first placed in service before 1936."
+Subsec. (c)(1)(B) to (D). Pub. L. 115–97, §13402(b)(1)(A)(ii), (iii), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In the case of a building other than a certified historic structure, a building shall not be a qualified rehabilitated building unless the building was first placed in service before 1936."
 
 Subsec. (c)(2)(B)(iv). Pub. L. 115–97, §13402(b)(1)(B), amended cl. (iv) generally. Prior to amendment, text read as follows: "Any expenditure attributable to the rehabilitation of a certified historic structure or a building in a registered historic district, unless the rehabilitation is a certified rehabilitation (within the meaning of subparagraph (C)). The preceding sentence shall not apply to a building in a registered historic district if—
 

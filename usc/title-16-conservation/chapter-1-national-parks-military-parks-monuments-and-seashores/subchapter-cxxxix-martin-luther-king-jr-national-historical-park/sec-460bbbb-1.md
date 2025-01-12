@@ -16,7 +16,7 @@
 
 (5) Structural space requirements of the National Park Service to meet its administrative, operational, and interpretive functions for the national historical park and preservation district shall, to the maximum extent feasible without displacing residents, be met within the district through the adaptive use of existing structures.
 
-Pub. L. 96–428, §2, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 108–314, §3, Oct. 5, 2004, 118 Stat. 1199; Pub. L. 115–108, §2(2), (3), Jan. 8, 2018, 131 Stat. 2267.)
+(Pub. L. 96–428, §2, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 108–314, §3, Oct. 5, 2004, 118 Stat. 1199; Pub. L. 115–108, §2(2), (3), Jan. 8, 2018, 131 Stat. 2267.)
 
 #### References in Text ####
 

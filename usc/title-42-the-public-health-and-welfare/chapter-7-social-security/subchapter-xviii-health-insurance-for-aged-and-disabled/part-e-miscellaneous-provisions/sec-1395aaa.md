@@ -58,21 +58,37 @@ The entity shall establish and implement a process to ensure that measures endor
 
 #### (5) Annual report to Congress and the Secretary; secretarial publication and comment ####
 
-#### (A) Annual report ####
+#### (A)<sup><a href="#1395aaa_1_target" name="1395aaa_1">1</a></sup> Annual report ####
 
-By not later than March 1 of each year (beginning with 2009), the entity shall submit to Congress and the Secretary a report containing a description of—
+By not later than March 1 of each year (beginning with 2009), the entity shall submit to Congress and the Secretary a report containing the following:
 
-(i) the implementation of quality measurement initiatives under this chapter and the coordination of such initiatives with quality initiatives implemented by other payers;
+(i) A description of—
 
-(ii) the recommendations made under paragraph (1);
+(I) the implementation of quality measurement initiatives under this chapter and the coordination of such initiatives with quality initiatives implemented by other payers;
 
-(iii) the performance by the entity of the duties required under the contract entered into with the Secretary under subsection (a);
+(II) the recommendations made under paragraph (1);
 
-(iv) gaps in endorsed quality measures, which shall include measures that are within priority areas identified by the Secretary under the national strategy established under section 280j of this title, and where quality measures are unavailable or inadequate to identify or address such gaps;
+(III) the performance by the entity of the duties required under the contract entered into with the Secretary under subsection (a);
 
-(v) areas in which evidence is insufficient to support endorsement of quality measures in priority areas identified by the Secretary under the national strategy established under section 280j of this title and where targeted research may address such gaps; and
+(IV) gaps in endorsed quality measures, which shall include measures that are within priority areas identified by the Secretary under the national strategy established under section 280j of this title, and where quality measures are unavailable or inadequate to identify or address such gaps;
 
-(vi) the matters described in clauses (i) and (ii) of paragraph (7)(A).
+(V) areas in which evidence is insufficient to support endorsement of quality measures in priority areas identified by the Secretary under the national strategy established under section 280j of this title and where targeted research may address such gaps; and
+
+(VI) the matters described in clauses (i) and (ii) of paragraph (7)(A).
+
+(ii) An itemization of financial information for the fiscal year ending September 30 of the preceding year, including—
+
+(I) annual revenues of the entity (including any government funding, private sector contributions, grants, membership revenues, and investment revenue);
+
+(II) annual expenses of the entity (including grants paid, benefits paid, salaries or other compensation, fundraising expenses, and overhead costs); and
+
+(III) a breakdown of the amount awarded per contracted task order and the specific projects funded in each task order assigned to the entity.
+
+(iii) Any updates or modifications of internal policies and procedures of the entity as they relate to the duties of the entity under this section, including—
+
+(I) specifically identifying any modifications to the disclosure of interests and conflicts of interests for committees, work groups, task forces, and advisory panels of the entity; and
+
+(II) information on external stakeholder participation in the duties of the entity under this section (including complete rosters for all committees, work groups, task forces, and advisory panels funded through government contracts, descriptions of relevant interests and any conflicts of interest for members of all committees, work groups, task forces, and advisory panels, and the total percentage by health care sector of all convened committees, work groups, task forces, and advisory panels.
 
 #### (B) Secretarial review and publication of annual report ####
 
@@ -106,7 +122,7 @@ The entity shall convene multi-stakeholder groups to provide input on—
 
 Subject to clause (ii), the quality and efficiency measures described in this subparagraph are quality and efficiency measures—
 
-(I) for use pursuant to sections 1395f(i)(5)(D), 1395l(i)(7), 1395l(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii),<sup><a href="#1395aaa_1_target" name="1395aaa_1">1</a></sup> 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(o)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
+(I) for use pursuant to sections 1395f(i)(5)(D), 1395l(i)(7), 1395l(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii),<sup><a href="#1395aaa_2_target" name="1395aaa_2">2</a></sup> 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(o)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
 
 (II) for use in reporting performance information to the public; and
 
@@ -184,9 +200,29 @@ If the entity requires a membership fee for participation in the functions of th
 
 (1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
-(2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014 and $30,000,000 for each of fiscal years 2015 through 2017. Amounts transferred under the preceding sentence shall remain available until expended.
+(2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, and $7,500,000 for each of fiscal years 2018 and 2019. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018 and 2019 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §207, Apr. 16, 2015, 129 Stat. 145.)
+#### (e) Annual report by Secretary to Congress ####
+
+By not later than March 1 of each year (beginning with 2019), the Secretary shall submit to Congress a report containing the following:
+
+(1) A comprehensive plan that identifies the quality measurement needs of programs and initiatives of the Secretary and provides a strategy for using the entity with a contract under subsection (a) and any other entity the Secretary has contracted with or may contract with to perform work associated with section 1395aaa–1 of this title to help meet those needs, specifically with respect to the programs under this subchapter and subchapter XIX. In years after the first plan under this paragraph is submitted, the requirements of this paragraph may be met by providing an update to the plan.
+
+(2) The amount of funding provided under subsection (d) for purposes of carrying out this section and section 1395aaa–1 of this title that has been obligated by the Secretary, the amount of funding provided that has been expended, and the amount of funding provided that remains unobligated.
+
+(3) With respect to the activities described under this section or section 1395aaa–1 of this title, a description of how the funds described in paragraph (2) have been obligated or expended, including how much of that funding has been obligated or expended for work performed by the Secretary, the entity with a contract under subsection (a), and any other entity the Secretary has contracted with to perform work.
+
+(4) A description of the activities for which the funds described in paragraph (2) were used, including task orders and activities assigned to the entity with a contract under subsection (a), activities performed by the Secretary, and task orders and activities assigned to any other entity the Secretary has contracted with to perform work related to carrying out section 1395aaa–1 of this title.
+
+(5) The amount of funding described in paragraph (2) that has been obligated or expended for each of the activities described in paragraph (4).
+
+(6) Estimates for, and descriptions of, obligations and expenditures that the Secretary anticipates will be needed in the succeeding two year period to carry out each of the quality measurement activities required under this section and section 1395aaa–1 of this title, including any obligations that will require funds to be expended in a future year.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §207, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50206(a)–(c)(1), Feb. 9, 2018, 132 Stat. 183–185.)
+
+#### Amendment of Subsection (b)(5)(A) ####
+
+For applicability of subsec. (b)(5)(A) of this section as amended by section 50206(c)(1) of Pub. L. 115–123, see Effective Date of 2018 Amendment note below.
 
 #### References in Text ####
 
@@ -203,6 +239,12 @@ In subsec. (a)(4), "section 132 of title 41" substituted for "section 4(5) of th
 A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Aug. 18, 1987, Pub. L. 100–93, §10, 101 Stat. 696, which related to limitation of liability of beneficiaries with respect to services furnished by excluded individuals and entities, was amended and transferred to section 1862(e)(2) of act Aug. 14, 1935, by Pub. L. 100–360, title IV, §411(i)(4)(D)(ii), July 1, 1988, 102 Stat. 790, as amended by Pub. L. 100–485, title VI, §608(d)(24)(C)(ii), Oct. 13, 1988, 102 Stat. 2421, and is classified to section 1395y(e)(2) of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(5)(A). Pub. L. 115–123, §50206(c)(1), substituted "containing the following:" for "containing a description of—" in introductory provisions, inserted "(i) A description of—", redesignated former cls. (i) to (vi) as subcls. (I) to (VI), respectively, of cl. (i), and added cls. (ii) and (iii).
+
+Subsec. (d)(2). Pub. L. 115–123, §50206(a), substituted "2014," for "2014 and" and inserted ", and $7,500,000 for each of fiscal years 2018 and 2019" after "through 2017" and "Amounts transferred for each of fiscal years 2018 and 2019 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence." after "until expended."
+
+Subsec. (e). Pub. L. 115–123, §50206(b), added subsec. (e).
 
 **2015**—Subsec. (d)(2). Pub. L. 114–10 substituted "and $30,000,000 for each of fiscal years 2015 through 2017" for "and $15,000,000 for the first 6 months of fiscal year 2015".
 
@@ -228,4 +270,10 @@ Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted "1395ww(s)(4)(D
 
 Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
 
-[<sup>1</sup> See References in Text note below.](#1395aaa_1)
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–123, div. E, title II, §50206(c)(2), Feb. 9, 2018, 132 Stat. 185, provided that: "The amendments made by this subsection [amending this section] shall apply to reports submitted for years beginning with 2019."
+
+[<sup>1</sup> See Amendment of Subsection (b)(5)(A) note below.](#1395aaa_1)
+
+[<sup>2</sup> See References in Text note below.](#1395aaa_2)

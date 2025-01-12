@@ -250,9 +250,9 @@ Subsec. (a)(1)(A)(iv). Pub. L. 115–97, §13202(a)(1)(D), substituted "$5,760" 
 
 Subsec. (a)(1)(B)(ii). Pub. L. 115–97, §13202(a)(2)(A), substituted "$5,760" for "$1,475" in heading and text.
 
-Subsec. (d)(4)(A)(iv), (v). Pub. L. 115–97, §13202(b)(1), redesignated cls. (v) as (iv) and struck out former cls. (iv) which read as follows: "any computer or peripheral equipment (as defined in section 168(i)(2)(B)), 'and' ".
+Subsec. (d)(4)(A)(iv), (v). Pub. L. 115–97, §13202(b)(1), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: "any computer or peripheral equipment (as defined in section 168(i)(2)(B)), 'and' ".
 
-Subsec. (d)(4)(B), (C). Pub. L. 115–97, §13202(b)(2), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "The term 'listed property' shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion."
+Subsec. (d)(4)(B), (C). Pub. L. 115–97, §13202(b)(2), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "The term 'listed property' shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion."
 
 Subsec. (d)(7)(A). Pub. L. 115–97, §13202(a)(2)(B)(i), substituted "2018" for "1988".
 

@@ -2974,6 +2974,8 @@ Sec.
 
 450jj–9. Activities in Memorial area pending submission of plan.
 
+450jj–10. Designation of Gateway Arch National Park.
+
 450kk. Fort Union National Monument; acquisition of site and other lands; reversions and reservations.
 
 450kk–1. Establishment; publication in Federal Register; additional properties.

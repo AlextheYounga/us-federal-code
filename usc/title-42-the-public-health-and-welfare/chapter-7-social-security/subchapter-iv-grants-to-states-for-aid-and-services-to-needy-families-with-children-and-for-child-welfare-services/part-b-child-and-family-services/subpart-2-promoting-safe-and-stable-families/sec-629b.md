@@ -92,13 +92,23 @@ The compilation shall include the individual State reports and tables that synth
 
 Not later than September 30 of each year, the Secretary shall publish the compilation on the website of the Department of Health and Human Services in a location easily accessible by the public.
 
-(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372.)
+(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §50721(b)(2), Feb. 9, 2018, 132 Stat. 245.)
+
+#### Amendment of Section ####
+
+Pub. L. 115–123, div. E, title VII, §§50721(b)(2), 50734, Feb. 9, 2018, 132 Stat. 245, 252, provided that, effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, subsections (a)(4), (5)(A) and (b)(1) of this section are amended by striking "time-limited" each place it appears. See 2018 Amendment notes below.
 
 #### Prior Provisions ####
 
 A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(4). Pub. L. 115–123, §50721(b)(2), struck out "time-limited" before "family reunification services".
+
+Subsec. (a)(5)(A). Pub. L. 115–123, §50721(b)(2), struck out "time-limited" before "family reunification services" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 115–123, §50721(b)(2), struck out "time-limited" before "family reunification".
 
 **2011**—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, §102(g)(1), substituted "form CFS–101 (including all parts and any successor forms)" for "forms CFS 101–Part I and CFS 101–Part II (or any successor forms)".
 
@@ -127,6 +137,10 @@ Subsec. (a)(5)(A). Pub. L. 105–89, §305(b)(1)(A)(ii), substituted ", communi
 Subsec. (a)(9). Pub. L. 105–89, §305(c)(1), added par. (9).
 
 Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted ", family support, time-limited family reunification, and adoption promotion and support" for "and family support".
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
 
 #### Effective Date of 2011 Amendment ####
 

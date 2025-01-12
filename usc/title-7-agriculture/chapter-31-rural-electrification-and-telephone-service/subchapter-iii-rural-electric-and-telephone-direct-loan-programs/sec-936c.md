@@ -126,7 +126,7 @@ Pub. L. 103–66, title I, §1201(b), Aug. 10, 1993, 107 Stat. 330, provided tha
 
 Pub. L. 115–31, div. A, title VII, §749, May 5, 2017, 131 Stat. 177, provided that:
 
-"(a) Subject to subsection (b), the Secretary of Agriculture may conduct a pilot program in accordance with this section that authorizes not more than $600,000,000 in funds from rural electrification loans made by the Federal Financing Bank that are guaranteed under section 306 of the Rural Electrification Act of 1936 [7 U.S.C. 936] to be used for refinancing debt pursuant to section 306C of such Act [7 U.S.C. 936a] (including any associated prepayment penalties and prepayment or refinance premium), notwithstanding subsections (b) and (c)(4) of section 306C of such Act.
+"(a) Subject to subsection (b), the Secretary of Agriculture may conduct a pilot program in accordance with this section that authorizes not more than $600,000,000 in funds from rural electrification loans made by the Federal Financing Bank that are guaranteed under section 306 of the Rural Electrification Act of 1936 [7 U.S.C. 936] to be used for refinancing debt pursuant to section 306C of such Act [7 U.S.C. 936c] (including any associated prepayment penalties and prepayment or refinance premium), notwithstanding subsections (b) and (c)(4) of section 306C of such Act.
 
 "(b) The Secretary of Agriculture may not provide an authorization under subsection (a) to a borrower unless the Secretary determines that the refinancing involved will benefit the ratepayers of the borrower.
 

@@ -1,6 +1,6 @@
 ### [§54AA. Repealed. Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138] ###
 
-Section, added Pub. L. 111–5, div. B, title I, §1531(a), Feb. 17, 2009, 123 Stat. 358, related to Build America bonds.
+Section, added Pub. L. 111–5, div. B, title I, §1531(a), Feb. 17, 2009, 123 Stat. 358, related to build America bonds.
 
 #### Effective Date of Repeal ####
 

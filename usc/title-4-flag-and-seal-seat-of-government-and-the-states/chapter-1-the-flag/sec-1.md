@@ -4,6 +4,10 @@ The flag of the United States shall be thirteen horizontal stripes, alternate re
 
 (July 30, 1947, ch. 389, 61 Stat. 642.)
 
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–123, div. A, §10101, Feb. 9, 2018, 132 Stat. 64, provided that: "This division [amending section 7 of this title and enacting provisions set out as a note under section 7 of this title] may be cited as the 'Honoring Hometown Heroes Act'."
+
 #### Short Title of 2017 Amendment ####
 
 Pub. L. 115–15, §1, Mar. 28, 2017, 131 Stat. 79, provided that: "This Act [amending section 6 of this title] may be cited as the 'Vietnam War Veterans Recognition Act of 2017'."

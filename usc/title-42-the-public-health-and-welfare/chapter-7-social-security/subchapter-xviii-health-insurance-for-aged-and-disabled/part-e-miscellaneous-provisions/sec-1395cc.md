@@ -470,7 +470,7 @@ The Secretary shall establish procedures for making data submitted under paragra
 
 Section 1713 of title 38, referred to in subsec. (a)(1)(J), was renumbered section 1781 of title 38 by Pub. L. 107–135, title II, §208(c)(1), (2), Jan. 23, 2002, 115 Stat. 2463.
 
-Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(O)(i), is section 222(a) of Pub. L. 92–603, which is set out as a note under section 1395b–1 of this title.
+Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(O), is section 222(a) of Pub. L. 92–603, which is set out as a note under section 1395b–1 of this title.
 
 The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1)(V) and (b)(4)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
@@ -504,9 +504,9 @@ Subsec. (a)(1)(V). Pub. L. 111–148, §6406(b)(2), which directed amendment by 
 
 Pub. L. 111–148, §3005(1)(B), substituted ", and" for period at end.
 
-Subsec. (a)(1)(W). Pub. L. 111–148, §6406(b)(3), added subpar. (W) relating to maintaining and providing access to documentation.
+Subsec. (a)(1)(W). Pub. L. 111–148, §6406(b)(3), added subpar. (W) relating to maintaining and providing access to documentation. Subpar. (W) was added after subpar. (W) relating to reporting quality data to the Secretary to reflect the probable intent of Congress, notwithstanding directory language adding subpar. at the end of par. (1).
 
-Pub. L. 111–148, §3005(1)(C), added subpar. (W) relating to reporting quality data to the Secretary.
+Pub. L. 111–148, §3005(1)(C), added subpar. (W) relating to reporting quality data to the Secretary. Subpar. (W) was added after subpar. (V) to reflect the probable intent of Congress, notwithstanding directory language adding subpar. at the end of par. (1).
 
 Subsec. (j)(1)(A). Pub. L. 111–148, §6401(a)(1), inserted at end "Such process shall include screening of providers and suppliers in accordance with paragraph (2), a provisional period of enhanced oversight in accordance with paragraph (3), disclosure requirements in accordance with paragraph (4), the imposition of temporary enrollment moratoria in accordance with paragraph (5), and the establishment of compliance programs in accordance with paragraph (6)."
 
@@ -592,7 +592,7 @@ Subsec. (a)(1)(I), (N). Pub. L. 105–33, §4201(c)(1), substituted "critical ac
 
 Subsec. (a)(1)(O). Pub. L. 105–33, §4002(e), struck out "in the case of hospitals and skilled nursing facilities," before "to accept as payment in full for", "inpatient hospital and extended care" after "to accept as payment in full for", and "(in the case of hospitals) or limits (in the case of skilled nursing facilities)" after "the organization the amounts"; inserted "with a Medicare+Choice organization under part C or" after "any individual enrolled" and "(less any payments under sections 1395ww(d)(11) and 1395ww(h)(3)(D) of this title)" after "under this subchapter".
 
-Subsec. (a)(1)(S). Pub. L. 105–33, §4321(b), added subpar. (S).
+Subsec. (a)(1)(S). Pub. L. 105–33, §4321(b), added subpar. (S). Subpar. (S) was added after subpar. (R) to reflect the probable intent of Congress, notwithstanding directory language adding subpar. at the end of par. (1).
 
 Subsec. (a)(2)(A). Pub. L. 105–33, §4541(a)(3), which directed the amendment of subsec. (a)(2)(A)(ii) by inserting the following at the end "In the case of services described in section 1395l(a)(8) of this title or section 1395l(a)(9) of this title for which payment is made under part B under section 1395m(k) of this title, clause (ii) of the first sentence shall be applied by substituting for 20 percent of the reasonable charge for such services 20 percent of the lesser of the actual charge or the applicable fee schedule amount (as defined in such section) for such services.", was executed by inserting the material at the end of subpar. (A) to reflect the probable intent of Congress.
 
@@ -750,27 +750,27 @@ Subsec. (a)(2)(A). Pub. L. 99–272, §9401(b)(2)(F), inserted ", with respect 
 
 Subsec. (a)(4). Pub. L. 99–509, §9353(e)(1)(B), added par. (4).
 
-Subsec. (e). Pub. L. 99–509, §9337(c)(2), inserted in second sentence "(or meets the requirements of such section through the operation of section 1395x(g) of this title)" in two places, and inserted "or (through the operation of section 1395x(g) of this title) with respect to the furnishing of outpatient occupational therapy services" after "(as therein defined)".
+Subsec. (e). Pub. L. 99–509, §9337(c)(2), inserted "(or meets the requirements of such section through the operation of section 1395x(g) of this title)" in two places, and inserted "or (through the operation of section 1395x(g) of this title) with respect to the furnishing of outpatient occupational therapy services" after "(as therein defined)".
 
 Subsec. (g). Pub. L. 99–509, §9343(c)(3), added subsec. (g).
 
 **1984**—Subsec. (a)(1)(E). Pub. L. 98–369, §2354(b)(33), inserted a comma at end.
 
-Subsec. (a)(1)(F). Pub. L. 98–369, §2315(d), substituted "(b), (c), or (d)" for "(c) or (d)".
+Subsec. (a)(1)(F). Pub. L. 98–369, §2347(a)(2), repealed amendment made by Pub. L. 98–21, §602(l)(1). See 1983 Amendment note below.
 
 Pub. L. 98–369, §2347(a)(1), substituted "maintain an agreement with a professional standards review organization (if there is such an organization in existence in the area in which the hospital is located) or with a utilization and quality control peer review organization which has a contract with the Secretary under part B of subchapter XI for the area in which the hospital is located, under which the organization" for "maintain an agreement with a utilization and quality control peer review organization (if there is such an organization which has a contract with the Secretary under part B of subchapter XI for the area in which the hospital is located) under which the organization".
 
-Pub. L. 98–369, §2347(a)(2), repealed amendment made by Pub. L. 98–21, §602(l)(1). See 1983 Amendment note below.
+Pub. L. 98–369, §2315(d), substituted "(b), (c), or (d)" for "(c) or (d)".
 
-Subsec. (a)(2)(A). Pub. L. 98–369, §2303(f), inserted "and with respect to clinical diagnostic laboratory tests" after "section 1395x(s)(10) of this title".
+Subsec. (a)(2)(A). Pub. L. 98–369, §2323(b)(3), substituted "section 1395x(s)(10)(A) of this title" for "section 1395x(s)(10) of this title".
 
 Pub. L. 98–369, §2321(c), inserted "or which are durable medical equipment furnished as home health services" after "part B".
 
-Pub. L. 98–369, §2323(b)(3), substituted "section 1395x(s)(10)(A) of this title" for "section 1395x(s)(10) of this title".
+Pub. L. 98–369, §2303(f), inserted "and with respect to clinical diagnostic laboratory tests" after "section 1395x(s)(10) of this title".
 
-Subsec. (b)(3). Pub. L. 98–369, §2335(d)(1), substituted "(including inpatient psychiatric hospital services)" for "(including tuberculosis hospital services and inpatient psychiatric hospital services)".
+Subsec. (b)(3). Pub. L. 98–369, §2354(b)(34), realigned margin.
 
-Pub. L. 98–369, §2354(b)(34), realigned margin of par. (3).
+Pub. L. 98–369, §2335(d)(1), substituted "(including inpatient psychiatric hospital services)" for "(including tuberculosis hospital services and inpatient psychiatric hospital services)".
 
 Subsec. (b)(4). Pub. L. 98–369, §2348(a), substituted "more than 30 days after such effective date" for "after the calendar year in which such termination is effective".
 
@@ -808,11 +808,11 @@ Subsec. (f). Pub. L. 96–499 added subsec. (f).
 
 **1978**—Subsec. (a)(2)(A). Pub. L. 95–292 provided for computation of and charging of coinsurance amounts for items and services furnished individuals with end stage renal disease on the basis established by the Secretary.
 
-Subsec. (a)(3). Pub. L. 95–142, §8(b)(1), added par. (3).
+**1977**—Subsec. (a)(3). Pub. L. 95–142, §8(b)(1), added par. (3).
 
 Subsec. (b)(2)(G). Pub. L. 95–142, §8(b)(2), added cl. (G).
 
-**1977**—Subsec. (a)(1)(D). Pub. L. 95–142, §15(a), added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 95–142, §15(a), added subpar. (D).
 
 Subsec. (b)(2)(C). Pub. L. 95–142, §3(b), designated existing provisions as subcl. (i) and added subcl. (ii).
 

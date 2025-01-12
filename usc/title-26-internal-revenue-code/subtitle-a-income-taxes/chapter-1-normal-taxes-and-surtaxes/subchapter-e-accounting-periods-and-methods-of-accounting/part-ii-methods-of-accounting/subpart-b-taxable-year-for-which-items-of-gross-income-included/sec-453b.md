@@ -120,7 +120,7 @@ Subsec. (g). Pub. L. 98–369, §421(b)(3), added subsec. (g).
 
 #### Effective Date of 2017 Amendment ####
 
-Pub. L. 115–97, title I, §13512(c), Dec. 22, 2017, 131 Stat. 2143, provided that: "The amendments made by this section [amending this section, sections 465, 801, 804, 805, 842, and 953 of this title and repealing section 806 of this title] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §13512(c), Dec. 22, 2017, 131 Stat. 2143, provided that: "The amendments made by this section [amending this section and sections 465, 801, 804, 805, 842, and 953 of this title and repealing section 806 of this title] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 1990 Amendment ####
 

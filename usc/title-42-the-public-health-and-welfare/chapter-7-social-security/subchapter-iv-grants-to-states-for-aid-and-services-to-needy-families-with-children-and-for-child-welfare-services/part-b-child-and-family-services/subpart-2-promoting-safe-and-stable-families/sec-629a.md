@@ -38,13 +38,15 @@ The purposes described in this subparagraph are the following:
 
 (ii) To increase the strength and stability of families (including adoptive, foster, and extended families).
 
-(iii) To increase parents' confidence and competence in their parenting abilities.
+(iii) To support and retain foster families so they can provide quality family-based settings for children in foster care.
 
-(iv) To afford children a safe, stable, and supportive family environment.
+(iv) To increase parents' confidence and competence in their parenting abilities.
 
-(v) To strengthen parental relationships and promote healthy marriages.
+(v) To afford children a safe, stable, and supportive family environment.
 
-(vi) To enhance child development, including through mentoring (as defined in section 629i(b)(2) of this title).
+(vi) To strengthen parental relationships and promote healthy marriages.
+
+(vii) To enhance child development, including through mentoring (as defined in section 629i(b)(2) of this title).
 
 #### (3) State agency ####
 
@@ -100,13 +102,35 @@ The term "non-Federal funds" means State funds, or at the option of a State, Sta
 
 For other definitions of other terms used in this subpart, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372.)
+(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §§50721(a), 50751(a), Feb. 9, 2018, 132 Stat. 245, 262.)
+
+#### Amendment of Subsection (a)(7) ####
+
+Pub. L. 115–123, div. E, title VII, §§50721(a), 50734, Feb. 9, 2018, 132 Stat. 245, 252, provided that, effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, subsection (a)(7) of this section is amended—
+
+(1) in the paragraph heading, by striking "Time-limited family" and inserting "Family"; and
+
+(2) in subparagraph (A)—
+
+(A) by striking "time-limited family" and inserting "family";
+
+(B) by inserting "or a child who has been returned home" after "child care institution"; and
+
+(C) by striking ", but only during the 15-month period that begins on the date that the child, pursuant to section 675(5)(F) of this title, is considered to have entered foster care" and inserting "and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home".
+
+See 2018 Amendment notes below.
 
 #### Prior Provisions ####
 
 A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(2)(B)(iii) to (vii). Pub. L. 115–123, §50751(a), added cl. (iii) and redesignated former cls. (iii) to (vi) as (iv) to (vii), respectively.
+
+Subsec. (a)(7). Pub. L. 115–123, §50721(a)(1), substituted "Family" for "Time-limited family" in heading.
+
+Subsec. (a)(7)(A). Pub. L. 115–123, §50721(a)(2), struck out "time-limited" before "family reunification", inserted "or a child who has been returned home" after "child care institution", and substituted "and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home" for ", but only during the 15-month period that begins on the date that the child, pursuant to section 675(5)(F) of this title, is considered to have entered foster care".
 
 **2011**—Subsec. (a)(2). Pub. L. 112–34, §102(c)(1), amended par. (2) generally. Prior to amendment, text read as follows: "The term 'family support services' means community-based services to promote the safety and well-being of children and families designed to increase the strength and stability of families (including adoptive, foster, and extended families), to increase parents' confidence and competence in their parenting abilities, to afford children a safe, stable, and supportive family environment, to strengthen parental relationships and promote healthy marriages, and otherwise to enhance child development."
 
@@ -135,6 +159,10 @@ Subsec. (a)(2). Pub. L. 105–89, §305(c)(2)(B), inserted "safety and" before "
 Subsec. (a)(7), (8). Pub. L. 105–89, §305(b)(2), added pars. (7) and (8).
 
 Subsec. (a)(9). Pub. L. 105–89, §305(d)(1), added par. (9).
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by section 50721(a) of Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
 
 #### Effective Date of 2011 Amendment ####
 

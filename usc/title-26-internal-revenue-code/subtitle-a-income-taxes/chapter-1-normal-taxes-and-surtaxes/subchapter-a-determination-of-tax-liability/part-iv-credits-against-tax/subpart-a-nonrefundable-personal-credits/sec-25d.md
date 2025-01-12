@@ -2,17 +2,19 @@
 
 #### (a) Allowance of credit ####
 
-In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
+In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable percentages of—
 
-(1) the applicable percentage of the qualified solar electric property expenditures made by the taxpayer during such year,
+(1) the qualified solar electric property expenditures,
 
-(2) the applicable percentage of the qualified solar water heating property expenditures made by the taxpayer during such year,
+(2) the qualified solar water heating property expenditures,
 
-(3) 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year,
+(3) the qualified fuel cell property expenditures,
 
-(4) 30 percent of the qualified small wind energy property expenditures made by the taxpayer during such year, and
+(4) the qualified small wind energy property expenditures, and
 
-(5) 30 percent of the qualified geothermal heat pump property expenditures made by the taxpayer during such year.
+(5) the qualified geothermal heat pump property expenditures,
+
+made by the taxpayer during such year.
 
 #### (b) Limitations ####
 
@@ -132,7 +134,7 @@ For purposes of this subtitle, if a credit is allowed under this section for any
 
 #### (g) Applicable percentage ####
 
-For purposes of paragraphs (1) and (2) of subsection (a), the applicable percentage shall be—
+For purposes of subsection (a), the applicable percentage shall be—
 
 (1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
 
@@ -142,11 +144,27 @@ For purposes of paragraphs (1) and (2) of subsection (a), the applicable percent
 
 #### (h) Termination ####
 
-The credit allowed under this section shall not apply to property placed in service after December 31, 2016 (December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures).
+The credit allowed under this section shall not apply to property placed in service after December 31, 2021.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039.)
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148.)
 
 #### Amendments ####
+
+**2018**—Subsec. (a). Pub. L. 115–123, §40402(b)(1), substituted "the sum of the applicable percentages of—", pars. (1) to (5), and concluding provisions for "the sum of—
+
+"(1) the applicable percentage of the qualified solar electric property expenditures made by the taxpayer during such year,
+
+"(2) the applicable percentage of the qualified solar water heating property expenditures made by the taxpayer during such year,
+
+"(3) 30 percent of the qualified fuel cell property expenditures made by the taxpayer during such year,
+
+"(4) 30 percent of the qualified small wind energy property expenditures made by the taxpayer during such year, and
+
+"(5) 30 percent of the qualified geothermal heat pump property expenditures made by the taxpayer during such year."
+
+Subsec. (g). Pub. L. 115–123, §40402(b)(2), struck out "paragraphs (1) and (2) of" before "subsection (a)," in introductory provisions.
+
+Subsec. (h). Pub. L. 115–123, §40402(a), substituted "December 31, 2021." for "December 31, 2016 (December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)."
 
 **2015**—Subsec. (a)(1), (2). Pub. L. 114–113, §304(a)(1), substituted "the applicable percentage" for "30 percent".
 
@@ -209,6 +227,10 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 "(A) The amount of the credit allowable, under subsection (a) by reason of expenditures (as the case may be) made during such calendar year by any of such individuals with respect to such dwelling unit shall be determined by treating all of such individuals as 1 taxpayer whose taxable year is such calendar year.
 
 "(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year."
+
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–123, div. D, title I, §40402(c), Feb. 9, 2018, 132 Stat. 148, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2016."
 
 #### Effective Date of 2015 Amendment ####
 

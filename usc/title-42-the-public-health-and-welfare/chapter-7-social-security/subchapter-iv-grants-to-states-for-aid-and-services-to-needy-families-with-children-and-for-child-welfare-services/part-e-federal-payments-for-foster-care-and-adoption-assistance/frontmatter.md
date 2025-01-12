@@ -1,1 +1,0 @@
-### Part E—Federal Payments for Foster Care and Adoption Assistance ###

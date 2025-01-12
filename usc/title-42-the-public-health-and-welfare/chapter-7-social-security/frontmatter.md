@@ -110,6 +110,8 @@ Sec.
 
 505. Demonstration projects.
 
+506. Grants to states for reemployment services and eligibility assessments.
+
 #### SUBCHAPTER IV—GRANTS TO STATES FOR AID AND SERVICES TO NEEDY FAMILIES WITH CHILDREN AND FOR CHILD-WELFARE SERVICES ####
 
 #### Part A—Block Grants to States for Temporary Assistance for Needy Families ####
@@ -210,7 +212,7 @@ Sec.
 
 #### subpart 3—common provisions ####
 
-629m. Data standardization for improved data matching.
+629m. Data exchange standards for improved interoperability.
 
 #### Part C—Work Incentive Program for Recipients of Aid Under State Plan Approved Under Part A ####
 
@@ -270,7 +272,7 @@ Sec.
 
 669b. Grants to States for access and visitation programs.
 
-#### Part E—Federal Payments for Foster Care and Adoption Assistance ####
+#### Part E—Federal Payments for Foster Care, Prevention, and Permanency ####
 
 670. Congressional declaration of purpose; authorization of appropriations.
 
@@ -294,7 +296,7 @@ Sec.
 
 676. Administration.
 
-677. John H. Chafee Foster Care Independence Program.
+677. John H. Chafee Foster Care Program for Successful Transition to Adulthood.
 
 678. Rule of construction.
 
@@ -336,7 +338,7 @@ Sec.
 
 709. Administration of Federal and State programs.
 
-710. Separate program for abstinence education.
+710. Sexual risk avoidance education.
 
 711. Maternal, infant, and early childhood home visiting programs.
 
@@ -1068,9 +1070,7 @@ Sec.
 
 1395jjj. Shared savings program.
 
-1395kkk. Independent Payment Advisory Board.
-
-1395kkk–1. GAO study and report on determination and implementation of payment and coverage policies under the Medicare program.
+1395kkk, 1395kkk–1. Repealed.
 
 1395 lll. Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning.
 
@@ -1182,7 +1182,7 @@ Sec.
 
 1396w–5. Addressing health care disparities.
 
-#### SUBCHAPTER XX—BLOCK GRANTS TO STATES FOR SOCIAL SERVICES AND ELDER JUSTICE ####
+#### SUBCHAPTER XX—BLOCK GRANTS AND PROGRAMS FOR SOCIAL SERVICES AND ELDER JUSTICE ####
 
 #### Division A—Block Grants to States for Social Services ####
 
@@ -1239,6 +1239,36 @@ Sec.
 1397m–4. Report.
 
 1397m–5. Rule of construction.
+
+#### Division C—Social Impact Demonstration Projects ####
+
+1397n. Purposes.
+
+1397n–1. Social impact partnership application.
+
+1397n–2. Awarding social impact partnership agreements.
+
+1397n–3. Feasibility study funding.
+
+1397n–4. Evaluations.
+
+1397n–5. Federal Interagency Council on Social Impact Partnerships.
+
+1397n–6. Commission on Social Impact Partnerships.
+
+1397n–7. Limitation on use of funds.
+
+1397n–8. No Federal funding for credit enhancements.
+
+1397n–9. Availability of funds.
+
+1397n–10. Website.
+
+1397n–11. Regulations.
+
+1397n–12. Definitions.
+
+1397n–13. Funding.
 
 #### SUBCHAPTER XXI—STATE CHILDREN'S HEALTH INSURANCE PROGRAM ####
 

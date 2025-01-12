@@ -154,6 +154,16 @@ Payments made by a lessee of equipment to the lessor of the equipment for the us
 
 (vi) the lease meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
+#### (C) Holdover lease arrangements ####
+
+In the case of a holdover lease arrangement for the lease of office space or equipment, which immediately follows a lease arrangement described in subparagraph (A) for the use of such office space or subparagraph (B) for the use of such equipment and that expired after a term of at least 1 year, payments made by the lessee to the lessor pursuant to such holdover lease arrangement, if—
+
+(i) the lease arrangement met the conditions of subparagraph (A) for the lease of office space or subparagraph (B) for the use of equipment when the arrangement expired;
+
+(ii) the holdover lease arrangement is on the same terms and conditions as the immediately preceding arrangement; and
+
+(iii) the holdover arrangement continues to satisfy the conditions of subparagraph (A) for the lease of office space or subparagraph (B) for the use of equipment.
+
 #### (2) Bona fide employment relationships ####
 
 Any amount paid by an employer to a physician (or an immediate family member of such physician) who has a bona fide employment relationship with the employer for the provision of services if—
@@ -207,6 +217,16 @@ In the case of a physician incentive plan (as defined in clause (ii)) between a 
 #### (ii) "Physician incentive plan" defined ####
 
 For purposes of this subparagraph, the term "physician incentive plan" means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
+
+#### (C) Holdover personal service arrangement ####
+
+In the case of a holdover personal service arrangement, which immediately follows an arrangement described in subparagraph (A) that expired after a term of at least 1 year, remuneration from an entity pursuant to such holdover personal service arrangement, if—
+
+(i) the personal service arrangement met the conditions of subparagraph (A) when the arrangement expired;
+
+(ii) the holdover personal service arrangement is on the same terms and conditions as the immediately preceding arrangement; and
+
+(iii) the holdover arrangement continues to satisfy the conditions of subparagraph (A).
 
 #### (4) Remuneration unrelated to the provision of designated health services ####
 
@@ -337,6 +357,14 @@ For purposes of this section:
 (III) the amount of the payment is set in advance, does not exceed fair market value, and is not determined in a manner that takes into account directly or indirectly the volume or value of any referrals, and
 
 (IV) the payment meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
+
+(D) Written requirement clarified.—In the case of any requirement pursuant to this section for a compensation arrangement to be in writing, such requirement shall be satisfied by such means as determined by the Secretary, including by a collection of documents, including contemporaneous documents evidencing the course of conduct between the parties involved.
+
+(E) Special rule for signature requirements.—In the case of any requirement pursuant to this section for a compensation arrangement to be in writing and signed by the parties, such signature requirement shall be met if—
+
+(i) not later than 90 consecutive calendar days immediately following the date on which the compensation arrangement became noncompliant, the parties obtain the required signatures; and
+
+(ii) the compensation arrangement otherwise complies with all criteria of the applicable exception.
 
 #### (2) Employee ####
 
@@ -616,7 +644,7 @@ For purposes of this subsection, the term "physician owner or investor" means a 
 
 Nothing in this subsection shall be construed as preventing the Secretary from revoking a hospital's provider agreement if not in compliance with regulations implementing section 1395cc of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) [title V, §524(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) [title V, §524(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049; Pub. L. 115–123, div. E, title IV, §50404, Feb. 9, 2018, 132 Stat. 218.)
 
 #### References in Text ####
 
@@ -633,6 +661,14 @@ The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classif
 A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
 
 #### Amendments ####
+
+**2018**—Subsec. (e)(1)(C). Pub. L. 115–123, §50404(b)(1), added subpar. (C).
+
+Subsec. (e)(3)(C). Pub. L. 115–123, §50404(b)(2), added subpar. (C).
+
+Subsec. (h)(1)(D). Pub. L. 115–123, §50404(a)(1), added subpar. (D).
+
+Subsec. (h)(1)(E). Pub. L. 115–123, §50404(a)(2), added subpar. (E).
 
 **2010**—Subsec. (b)(2). Pub. L. 111–148, §6003(a), inserted at end of concluding provisions "Such requirements shall, with respect to magnetic resonance imaging, computed tomography, positron emission tomography, and any other designated health services specified under subsection (h)(6)(D) that the Secretary determines appropriate, include a requirement that the referring physician inform the individual in writing at the time of the referral that the individual may obtain the services for which the individual is being referred from a person other than a person described in subparagraph (A)(i) and provide such individual with a written list of suppliers (as defined in section 1395x(d) of this title) who furnish such services in the area in which such individual resides."
 
@@ -690,7 +726,7 @@ Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec
 
 **1990**—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "October 1, 1991" for "1 year after December 19, 1989" in second sentence and inserted at end "The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type."
+Subsec. (f). Pub. L. 101–508, §4207(e)(3)(B), (C), formerly §4027(e)(3)(B), (C), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "October 1, 1991" for "1 year after December 19, 1989" in third sentence and inserted at end "The requirement of this subsection shall not apply to covered items and services provided outside the United States or to entities which the Secretary determines provides services for which payment may be made under this subchapter very infrequently. The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing clinical laboratory services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type."
 
 Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as renumbered by Pub. L. 103–432, §160(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the names and all of the medicare provider numbers of the physicians who are interested investors or who are immediate relatives of interested investors."
 

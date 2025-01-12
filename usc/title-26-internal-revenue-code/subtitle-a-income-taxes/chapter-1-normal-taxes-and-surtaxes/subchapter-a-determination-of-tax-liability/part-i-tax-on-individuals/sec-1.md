@@ -793,13 +793,13 @@ The date of the enactment of this subclause, referred to in subsec. (h)(11)(C)(i
 
 **2017**—Subsec. (f)(2)(A). Pub. L. 115–97, §11002(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "except as provided in paragraph (8), by increasing the minimum and maximum dollar amounts for each rate bracket for which a tax is imposed under such table by the cost-of-living adjustment for such calendar year,".
 
-Subsec. (f)(3). Pub. L. 115–97, §11002(a), added par. (3) and struck out former par. (3). Text of former par. (3) read as follows: "For purposes of paragraph (2), the cost-of-living adjustment for any calendar year is the percentage (if any) by which—
+Subsec. (f)(3). Pub. L. 115–97, §11002(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "For purposes of paragraph (2), the cost-of-living adjustment for any calendar year is the percentage (if any) by which—
 
 "(A) the CPI for the preceding calendar year, exceeds
 
 "(B) the CPI for the calendar year 1992."
 
-Subsec. (f)(6), (7). Pub. L. 115–97, §11002(b), added par. (6), redesignated former par. (6) as (7), and struck out former par. (7). Text of former par. (7) read as follows: "In prescribing tables under paragraph (1) which apply to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate bracket begins shall be determined under paragraph (3) by substituting '1993' for '1992'."
+Subsec. (f)(6), (7). Pub. L. 115–97, §11002(b), added par. (6), redesignated former par. (6) as (7), and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: "In prescribing tables under paragraph (1) which apply to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate bracket begins shall be determined under paragraph (3) by substituting '1993' for '1992'."
 
 Subsec. (h)(11)(C)(iii). Pub. L. 115–97, §14223(a), substituted "shall not include—(I) any foreign corporation" for "shall not include any foreign corporation " and added subcl. (II).
 

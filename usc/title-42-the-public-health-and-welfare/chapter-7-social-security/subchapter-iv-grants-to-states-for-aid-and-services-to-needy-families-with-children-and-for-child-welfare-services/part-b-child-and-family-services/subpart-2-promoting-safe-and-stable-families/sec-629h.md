@@ -40,7 +40,7 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 #### (1) In general ####
 
-In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
+In order to be eligible to receive a grant under this section, a highest State court shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home, and shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary may require, including—
 
 (A) in the case of a grant for the purpose described in subsection (a)(3), a description of how courts and child welfare agencies on the local and State levels will collaborate and jointly plan for the collection and sharing of all relevant data and information to demonstrate how improved case tracking and analysis of child abuse and neglect cases will produce safe and timely permanency decisions;
 
@@ -64,7 +64,7 @@ Pursuant to the requirements under paragraph (1) of this subsection, a highest S
 
 #### (1) In general ####
 
-With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2012 through 2016, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
+With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2017 through 2021, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
 
 #### (2) Amount described ####
 
@@ -96,19 +96,9 @@ The Secretary shall allocate all of the amounts reserved under section 629g(b)(2
 
 #### (d) Federal share ####
 
-Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2012 through 2016.
+Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2017 through 2021.
 
-#### (e) Funding for grants for improved data collection and training ####
-
-Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary, for each of fiscal years 2006 through 2010—
-
-(1) $10,000,000 for grants referred to in subsection (b)(2)(B); and
-
-(2) $10,000,000 for grants referred to in subsection (b)(2)(C).
-
-For fiscal year 2011, out of the amount reserved pursuant to section 629f(b)(2) of this title for such fiscal year, there are available $10,000,000 for grants referred to in subsection (b)(2)(B), and $10,000,000 for grants referred to in subsection (b)(2)(C).
-
-(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374.)
+(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263.)
 
 #### References in Text ####
 
@@ -123,6 +113,20 @@ Section was formerly set out as a note under section 670 of this title prior to 
 A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(1). Pub. L. 115–123, §50741(c), in introductory provisions, inserted "shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home," after "with respect to the child,".
+
+Subsec. (c)(1). Pub. L. 115–123, §50752(d)(1), substituted "2017 through 2021" for "2012 through 2016".
+
+Subsec. (d). Pub. L. 115–123, §50752(d)(2), substituted "2017 through 2021" for "2012 through 2016".
+
+Subsec. (e). Pub. L. 115–123, §50752(e), struck out subsec. (e). Text read as follows: "Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary, for each of fiscal years 2006 through 2010—
+
+"(1) $10,000,000 for grants referred to in subsection (b)(2)(B); and
+
+"(2) $10,000,000 for grants referred to in subsection (b)(2)(C).
+
+"For fiscal year 2011, out of the amount reserved pursuant to section 629f(b)(2) of this title for such fiscal year, there are available $10,000,000 for grants referred to in subsection (b)(2)(B), and $10,000,000 for grants referred to in subsection (b)(2)(C)."
 
 **2011**—Subsec. (a)(2)(A). Pub. L. 112–34, §104(a)(1)(A), substituted ", including the requirements in the Act related to concurrent planning;" for "; and".
 
@@ -187,6 +191,10 @@ Subsec. (d). Pub. L. 107–133, §107(c), in heading substituted "Federal share"
 **1997**—Subsec. (c)(1). Pub. L. 105–89, §305(a)(3)(A), substituted "2001" for "1998" in introductory provisions and par. (B).
 
 Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted "1998, 1999, 2000, and 2001" for "and 1998".
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by section 50741(c) of Pub. L. 115–123 effective as if enacted on Jan. 1, 2018, subject to transition rule and State waiver provisions, see section 50746 of Pub. L. 115–123, set out as a note under section 622 of this title.
 
 #### Effective Date of 2011 Amendment ####
 

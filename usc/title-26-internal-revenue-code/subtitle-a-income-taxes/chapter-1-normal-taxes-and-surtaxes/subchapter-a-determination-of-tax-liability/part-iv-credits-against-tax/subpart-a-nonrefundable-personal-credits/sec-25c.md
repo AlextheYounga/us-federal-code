@@ -168,9 +168,9 @@ This section shall not apply with respect to any property placed in service—
 
 (1) after December 31, 2007, and before January 1, 2009, or
 
-(2) after December 31, 2016..<sup><a href="#25C_4_target" name="25C_4">4</a></sup>
+(2) after December 31, 2017..<sup><a href="#25C_4_target" name="25C_4">4</a></sup>
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148.)
 
 #### References in Text ####
 
@@ -179,6 +179,8 @@ Subsection (c)(2)(B), referred to in subsec. (b)(2), was redesignated (c)(3)(B) 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments ####
+
+**2018**—Subsec. (g)(2). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
 
 **2015**—Subsec. (c)(1). Pub. L. 114–113, §181(b)(1), struck out "which meets the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009 (or, in the case of an exterior window, a skylight, an exterior door, a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements)" after "envelope component" in introductory provisions.
 
@@ -269,6 +271,10 @@ Subsec. (g). Pub. L. 110–343, §302(a), substituted "placed in service—" for
 **2007**—Subsec. (c)(3). Pub. L. 110–172 substituted "part 3280" for "section 3280".
 
 **2005**—Subsec. (b)(2). Pub. L. 109–135 substituted "subsection (c)(2)(B)" for "subsection (c)(3)(B)".
+
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–123, div. D, title I, §40401(b), Feb. 9, 2018, 132 Stat. 148, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2016."
 
 #### Effective Date of 2015 Amendment ####
 

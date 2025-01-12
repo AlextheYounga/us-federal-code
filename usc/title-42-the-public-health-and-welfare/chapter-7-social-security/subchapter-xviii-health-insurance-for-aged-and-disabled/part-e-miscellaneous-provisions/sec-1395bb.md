@@ -2,7 +2,7 @@
 
 #### (a) Accreditation by American Osteopathic Association or other national accreditation body ####
 
-(1) If the Secretary finds that accreditation of a provider entity (as defined in paragraph (4)) by the American Osteopathic Association or any other national accreditation body demonstrates that all of the applicable conditions or requirements of this subchapter (other than the requirements of section 1395m(j) of this title or the conditions and requirements under section 1395rr(b) of this title) are met or exceeded—
+(1) If the Secretary finds that accreditation of a provider entity (as defined in paragraph (4)) by the American Osteopathic Association or any other national accreditation body demonstrates that all of the applicable conditions or requirements of this subchapter (other than the requirements of section 1395m(j) of this title) are met or exceeded—
 
 (A) in the case of a provider entity not described in paragraph (3)(B), the Secretary shall treat such entity as meeting those conditions or requirements with respect to which the Secretary made such finding; or
 
@@ -14,7 +14,7 @@
 
 (B) The 210-day and 60-day deadlines specified in subparagraph (A) shall not apply in the case of any request for a finding with respect to accreditation of a provider entity to which the conditions and requirements of sections 1395i–3 and 1395x(j) of this title apply.
 
-(4) For purposes of this section, the term "provider entity" means a provider of services, supplier, facility, clinic, agency, or laboratory.
+(4) For purposes of this section, the term "provider entity" means a provider of services, supplier, facility (including a renal dialysis facility), clinic, agency, or laboratory.
 
 #### (b) Disclosure of accreditation survey ####
 
@@ -28,9 +28,25 @@ Notwithstanding any other provision of this subchapter, if the Secretary finds t
 
 For provisions relating to validation surveys of entities that are treated as meeting applicable conditions or requirements of this subchapter pursuant to subsection (a)(1), see section 1395aa(c) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1865, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 92–603, title II, §§234(h), 244(b), Oct. 30, 1972, 86 Stat. 1413, 1423; Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), Sept. 3, 1982, 96 Stat. 362, 367; Pub. L. 98–369, div. B, title III, §§2345(a), 2346(a), July 18, 1984, 98 Stat. 1096; Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), Oct. 21, 1986, 100 Stat. 1990, 2016; Pub. L. 100–203, title IV, §§4025(b), 4072(d), Dec. 22, 1987, 101 Stat. 1330–117, as amended Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), July 1, 1988, 102 Stat. 774; Pub. L. 100–360, title II, §§204(c)(3), (d)(3), July 1, 1988, 102 Stat. 728, 729; Pub. L. 100–485, title VI, §608(d)(20)(D), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), Dec. 19, 1989, 103 Stat. 2153, 2165, 2166, 2219; Pub. L. 101–508, title IV, §4163(c)(3), Nov. 5, 1990, 104 Stat. 1388–100; Pub. L. 103–432, title I, §145(c)(4), Oct. 31, 1994, 108 Stat. 4427; Pub. L. 104–134, title I, §101(d) [title V, §516(b), (c)(2)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–173, title VII, §736(a)(12), Dec. 8, 2003, 117 Stat. 2355; Pub. L. 110–275, title I, §125(a), (b)(1), July 15, 2008, 122 Stat. 2519.)
+#### (e) Accreditation for dialysis facilities ####
+
+With respect to an accreditation body that has received approval from the Secretary under subsection (a)(3)(A) for accreditation of provider entities that are required to meet the conditions and requirements under section 1395rr(b) of this title, in addition to review and oversight authorities otherwise applicable under this subchapter, the Secretary shall (as the Secretary determines appropriate) conduct, with respect to such accreditation body and provider entities, any or all of the following as frequently as is otherwise required to be conducted under this subchapter with respect to other accreditation bodies or other provider entities:
+
+(1) Validation surveys referred to in subsection (d).
+
+(2) Accreditation program reviews (as defined in section 488.8(c) of title 42 of the Code of Federal Regulations, or a successor regulation).
+
+(3) Performance reviews (as defined in section 488.8(a) of title 42 of the Code of Federal Regulations, or a successor regulation).
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1865, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 92–603, title II, §§234(h), 244(b), Oct. 30, 1972, 86 Stat. 1413, 1423; Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), Sept. 3, 1982, 96 Stat. 362, 367; Pub. L. 98–369, div. B, title III, §§2345(a), 2346(a), July 18, 1984, 98 Stat. 1096; Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), Oct. 21, 1986, 100 Stat. 1990, 2016; Pub. L. 100–203, title IV, §§4025(b), 4072(d), Dec. 22, 1987, 101 Stat. 1330–117, as amended Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), July 1, 1988, 102 Stat. 774; Pub. L. 100–360, title II, §§204(c)(3), (d)(3), July 1, 1988, 102 Stat. 728, 729; Pub. L. 100–485, title VI, §608(d)(20)(D), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), Dec. 19, 1989, 103 Stat. 2153, 2165, 2166, 2219; Pub. L. 101–508, title IV, §4163(c)(3), Nov. 5, 1990, 104 Stat. 1388–100; Pub. L. 103–432, title I, §145(c)(4), Oct. 31, 1994, 108 Stat. 4427; Pub. L. 104–134, title I, §101(d) [title V, §516(b), (c)(2)], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–173, title VII, §736(a)(12), Dec. 8, 2003, 117 Stat. 2355; Pub. L. 110–275, title I, §125(a), (b)(1), July 15, 2008, 122 Stat. 2519; Pub. L. 115–123, div. E, title IV, §50403(a)(1), Feb. 9, 2018, 132 Stat. 217.)
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(1). Pub. L. 115–123, §50403(a)(1)(A)(i), struck out "or the conditions and requirements under section 1395rr(b) of this title" after "section 1395m(j) of this title" in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 115–123, §50403(a)(1)(A)(ii), inserted "(including a renal dialysis facility)" after "facility".
+
+Subsec. (e). Pub. L. 115–123, §50403(a)(1)(B), added subsec. (e).
 
 **2008**—Subsec. (a). Pub. L. 110–275, §125(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) which provided criteria necessary for an institution to meet certain requirements enumerated in section 1395x(e) of this title.
 
@@ -93,6 +109,10 @@ Pub. L. 98–369, §2345(a), struck out "(on a confidential basis)" after "relea
 Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted "a hospital" for "an institution" and "the hospital" for "such institution".
 
 **1972**—Pub. L. 92–603 designated existing provisions as subsec. (a), inserted reference to subsec. (b) of this section in opening provisions, redesignated existing provisions as pars. (1) and (3) and added pars. (2) and (4) and in provisions following par. (4) inserted provisions for the imposition of a standard which the Secretary determines is at least equivalent to the standard promulgated by the Secretary as described in par. (4), and added subsec. (b).
+
+#### Timing for Acceptance of Requests From Accreditation Organizations ####
+
+Pub. L. 115–123, div. E, title IV, §50403(a)(2), Feb. 9, 2018, 132 Stat. 218, provided that: "Not later than 90 days after the date of enactment of this Act [Feb. 9, 2018], the Secretary of Health and Human Services shall begin accepting requests from national accreditation bodies for a finding described in section 1865(a)(3)(A) of the Social Security Act (42 U.S.C. 1395bb(a)(3)(A)) for purposes of accrediting provider entities that are required to meet the conditions and requirements under section 1881(b) of such Act (42 U.S.C. 1395rr(b))."
 
 #### Effective Date of 2008 Amendment; Transition Rule ####
 

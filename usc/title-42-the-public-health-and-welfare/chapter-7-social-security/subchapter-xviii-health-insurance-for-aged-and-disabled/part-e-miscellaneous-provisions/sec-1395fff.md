@@ -12,7 +12,13 @@ The Secretary shall establish under this subsection a prospective payment system
 
 #### (2) Unit of payment ####
 
+#### (A) In general ####
+
 In defining a prospective payment amount under the system under this subsection, the Secretary shall consider an appropriate unit of service and the number, type, and duration of visits provided within that unit, potential changes in the mix of services provided within that unit and their cost, and a general system design that provides for continued access to quality services.
+
+#### (B) 30-day unit of service ####
+
+For purposes of implementing the prospective payment system with respect to home health units of service furnished during a year beginning with 2020, the Secretary shall apply a 30-day unit of service as the unit of service applied under this paragraph.
 
 #### (3) Payment basis ####
 
@@ -44,6 +50,10 @@ Subject to subclause (II), for 2014 and subsequent years, the amount (or amounts
 
 The Secretary shall provide for a 4-year phase-in (in equal increments) of the adjustment under subclause (I), with such adjustment being fully implemented for 2017. During each year of such phase-in, the amount of any adjustment under subclause (I) for the year may not exceed 3.5 percent of the amount (or amounts) applicable under clause (i)(III) as of March 23, 2010.
 
+#### (iv) Budget neutrality for 2020 ####
+
+With respect to payments for home health units of service furnished that end during the 12-month period beginning January 1, 2020, the Secretary shall calculate a standard prospective payment amount (or amounts) for 30-day units of service (as described in paragraph (2)(B)) for the prospective payment system under this subsection. Such standard prospective payment amount (or amounts) shall be calculated in a manner such that the estimated aggregate amount of expenditures under the system during such period with application of paragraph (2)(B) is equal to the estimated aggregate amount of expenditures that otherwise would have been made under the system during such period if paragraph (2)(B) had not been enacted. The previous sentence shall be applied before (and not affect the application of) paragraph (3)(B). In calculating such amount (or amounts), the Secretary shall make assumptions about behavior changes that could occur as a result of the implementation of paragraph (2)(B) and the case-mix adjustment factors established under paragraph (4)(B) and shall provide a description of such assumptions in the notice and comment rulemaking used to implement this clause.
+
 #### (B) Annual update ####
 
 #### (i) In general ####
@@ -66,7 +76,7 @@ For purposes of this subparagraph, the term "home health applicable increase per
 
 #### (iii) Home health market basket percentage increase ####
 
-For purposes of this subsection, the term "home health market basket percentage increase" means, with respect to a fiscal year or year, a percentage (estimated by the Secretary before the beginning of the fiscal year or year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under section 1395ww(b)(3)(B)(iii) of this title is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year or year. Notwithstanding the previous sentence, the home health market basket percentage increase for 2018 shall be 1 percent.
+For purposes of this subsection, the term "home health market basket percentage increase" means, with respect to a fiscal year or year, a percentage (estimated by the Secretary before the beginning of the fiscal year or year) determined and applied with respect to the mix of goods and services included in home health services in the same manner as the market basket percentage increase under section 1395ww(b)(3)(B)(iii) of this title is determined and applied to the mix of goods and services comprising inpatient hospital services for the fiscal year or year. Notwithstanding the previous sentence, the home health market basket percentage increase for 2018 shall be 1 percent and for 2020 shall be 1.5 percent.
 
 #### (iv) Adjustment for case mix changes ####
 
@@ -108,7 +118,7 @@ To the extent data submitted under subclause (IV) duplicates other data required
 
 After determining the home health market basket percentage increase under clause (iii), and after application of clause (v), the Secretary shall reduce such percentage—
 
-(I) for 2015 and each subsequent year (except 2018), by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title; and
+(I) for 2015 and each subsequent year (except 2018 and 2020), by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title; and
 
 (II) for each of 2011, 2012, and 2013, by 1 percentage point.
 
@@ -117,6 +127,20 @@ After determining the home health market basket percentage increase under clause
 #### (C) Adjustment for outliers ####
 
 The Secretary shall reduce the standard prospective payment amount (or amounts) under this paragraph applicable to home health services furnished during a period by such proportion as will result in an aggregate reduction in payments for the period equal to 5 percent of the total payments estimated to be made based on the prospective payment system under this subsection for the period.
+
+#### (D) Behavior assumptions and adjustments ####
+
+#### (i) In general ####
+
+The Secretary shall annually determine the impact of differences between assumed behavior changes (as described in paragraph (3)(A)(iv)) and actual behavior changes on estimated aggregate expenditures under this subsection with respect to years beginning with 2020 and ending with 2026.
+
+#### (ii) Permanent adjustments ####
+
+The Secretary shall, at a time and in a manner determined appropriate, through notice and comment rulemaking, provide for one or more permanent increases or decreases to the standard prospective payment amount (or amounts) for applicable years, on a prospective basis, to offset for such increases or decreases in estimated aggregate expenditures (as determined under clause (i)).
+
+#### (iii) Temporary adjustments for retrospective behavior ####
+
+The Secretary shall, at a time and in a manner determined appropriate, through notice and comment rulemaking, provide for one or more temporary increases or decreases to the payment amount for a unit of home health services (as determined under paragraph (4)) for applicable years, on a prospective basis, to offset for such increases or decreases in estimated aggregate expenditures (as determined under clause (i)). Such a temporary increase or decrease shall apply only with respect to the year for which such temporary increase or decrease is made, and the Secretary shall not take into account such a temporary increase or decrease in computing such amount under this subsection for a subsequent year.
 
 #### (4) Payment computation ####
 
@@ -134,7 +158,13 @@ The portion of such amount that the Secretary estimates to be attributable to wa
 
 #### (B) Establishment of case mix adjustment factors ####
 
+#### (i) In general ####
+
 The Secretary shall establish appropriate case mix adjustment factors for home health services in a manner that explains a significant amount of the variation in cost among different units of services.
+
+#### (ii) Treatment of therapy thresholds ####
+
+For 2020 and subsequent years, the Secretary shall eliminate the use of therapy thresholds (established by the Secretary) in case mix adjustment factors established under clause (i) for calculating payments under the prospective payment system under this subsection.
 
 #### (C) Establishment of area wage adjustment factors ####
 
@@ -158,9 +188,11 @@ If a beneficiary elects to transfer to, or receive services from, another home h
 
 With respect to home health services furnished on or after October 1, 1998, no claim for such a service may be paid under this subchapter unless—
 
-(1) the claim has the unique identifier (provided under section 1395u(r) of this title) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title; and
+(1) the claim has the unique identifier (provided under section 1395u(r) of this title) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
 
-(2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments.
+(2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments; and
+
+(3) in the case of home health services furnished on or after January 1, 2019, the claim contains the code for the county (or equivalent area) in which the home health service was furnished.
 
 #### (d) Limitation on review ####
 
@@ -192,13 +224,27 @@ Nothing in this section shall be construed as preventing a home health agency fu
 
 Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) [title III, §§302(b), 303(b), 306, 321(k)(19)], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) [title V, §§501(a), (c)(1), 504], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) [title III, §§302(b), 303(b), 306, 321(k)(19)], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) [title V, §§501(a), (c)(1), 504], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title II, §50208(a)(2), title X, §51001(a), title XII, §53110, Feb. 9, 2018, 132 Stat. 189, 289, 304.)
 
 #### References in Text ####
 
 Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is section 5201(d) of title V of Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 47, which is not classified to the Code.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(2). Pub. L. 115–123, §51001(a)(1), inserted subpar. (A) designation and heading before "In defining" and added subpar. (B).
+
+Subsec. (b)(3)(A)(iv). Pub. L. 115–123, §51001(a)(2)(A), added cl. (iv).
+
+Subsec. (b)(3)(B)(iii). Pub. L. 115–123, §53110(1), inserted "and for 2020 shall be 1.5 percent" after "1 percent".
+
+Subsec. (b)(3)(B)(vi)(I). Pub. L. 115–123, §53110(2), inserted "and 2020" after "except 2018".
+
+Subsec. (b)(3)(D). Pub. L. 115–123, §51001(a)(2)(B), added subpar. (D).
+
+Subsec. (b)(4)(B). Pub. L. 115–123, §51001(a)(3), inserted cl. (i) designation and heading before "The Secretary" and added cl. (ii).
+
+Subsec. (c)(3). Pub. L. 115–123, §50208(a)(2), added par. (3).
 
 **2015**—Subsec. (b)(3)(B)(iii). Pub. L. 114–10, §411(c)(1), inserted at end "Notwithstanding the previous sentence, the home health market basket percentage increase for 2018 shall be 1 percent."
 
@@ -366,13 +412,57 @@ Pub. L. 111–148, title III, §3131(d), title X, §10315(b), Mar. 23, 2010, 124
 
 #### Temporary Increase for Home Health Services Furnished in a Rural Area ####
 
-Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428; Pub. L. 114–10, title II, §210, Apr. 16, 2015, 129 Stat. 151, provided that:
+Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428; Pub. L. 114–10, title II, §210, Apr. 16, 2015, 129 Stat. 151; Pub. L. 115–123, div. E, title II, §50208(a)(1), Feb. 9, 2018, 132 Stat. 187, provided that:
 
-"(a) In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2018, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary [of Health and Human Services] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2018, 3 percent).
+"(a) In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2019, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary [of Health and Human Services] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2019, 3 percent).
 
-"(b) Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a).
+"(b) Subsequent Temporary Increase.—
 
-"(c) No Effect on Subsequent Periods.—The payment increase provided under subsection (a) for a period under such subsection—
+"(1) In general.—The Secretary shall increase the payment amount otherwise made under such section 1895 for home health services furnished in a county (or equivalent area) in a rural area (as defined in such section 1886(d)(2)(D)) that, as determined by the Secretary—
+
+"(A) is in the highest quartile of all counties (or equivalent areas) based on the number of Medicare home health episodes furnished per 100 individuals who are entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act [42 U.S.C. 1395c et seq.] or enrolled for benefits under part B of such title [42 U.S.C. 1395j et seq.] (but not enrolled in a plan under part C of such title [42 U.S.C. 1395w–21 et seq.])—
+
+"(i) in the case of episodes and visits ending during 2019, by 1.5 percent; and
+
+"(ii) in the case of episodes and visits ending during 2020, by 0.5 percent;
+
+"(B) has a population density of 6 individuals or fewer per square mile of land area and is not described in subparagraph (A)—
+
+"(i) in the case of episodes and visits ending during 2019, by 4 percent;
+
+"(ii) in the case of episodes and visits ending during 2020, by 3 percent;
+
+"(iii) in the case of episodes and visits ending during 2021, by 2 percent; and
+
+"(iv) in the case of episodes and visits ending during 2022, by 1 percent; and
+
+"(C) is not described in either subparagraph (A) or (B)—
+
+"(i) in the case of episodes and visits ending during 2019, by 3 percent;
+
+"(ii) in the case of episodes and visits ending during 2020, by 2 percent; and
+
+"(iii) in the case of episodes and visits ending during 2021, by 1 percent.
+
+"(2) Rules for determinations.—
+
+"(A) No switching.—For purposes of this subsection, the determination by the Secretary as to which subparagraph of paragraph (1) applies to a county (or equivalent area) shall be made a single time and shall apply for the duration of the period to which this subsection applies.
+
+"(B) Utilization.—In determining which counties (or equivalent areas) are in the highest quartile under paragraph (1)(A), the following rules shall apply:
+
+"(i) The Secretary shall use data from 2015.
+
+"(ii) The Secretary shall exclude data from the territories (and the territories shall not be described in such paragraph).
+
+"(iii) The Secretary may exclude data from counties (or equivalent areas) in rural areas with a low volume of home health episodes (and if data is so excluded with respect to a county (or equivalent area), such county (or equivalent area) shall not be described in such paragraph).
+
+"(C) Population density.—In determining population density under paragraph (1)(B), the Secretary shall use data from the 2010 decennial Census.
+
+"(3) Limitations on review.—There shall be no administrative or judicial review under section 1869 [probably means section 1869 of the Social Security Act, 42 U.S.C. 1395ff], section 1878 [probably means section 1878 of the Social Security Act, 42 U.S.C.	1395oo], or otherwise of determinations under paragraph (1).
+
+"(c) Waiving Budget Neutrality.—The Secretary shall not reduce the standard prospective payment amount (or amounts) under section 1895 of the Social Security Act (42 U.S.C. 1395fff) applicable to home health services furnished during a period to offset the increase in payments resulting from the application of subsection (a) or (b).
+
+"(d) No Effect on Subsequent Periods.—The payment increase provided under subsection (a) or (b) for a period under such subsection—
 
 "(1) shall not apply to episodes and visits ending after such period; and
 

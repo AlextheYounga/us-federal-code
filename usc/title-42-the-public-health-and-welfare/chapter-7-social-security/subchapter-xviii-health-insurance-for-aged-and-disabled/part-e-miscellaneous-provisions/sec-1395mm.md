@@ -706,7 +706,9 @@ Subsec. (g)(4)(A). Pub. L. 98–369, §2350(c), inserted "and skilled nursing fa
 
 Subsec. (g)(5). Pub. L. 98–369, §2350(b)(2), added par. (5).
 
-**1983**—Subsec. (a)(5)(A)(ii), (B)(ii). Pub. L. 98–21, §606(a)(3)(H), substituted "1395r(a)(1)" for "1395r(c)(1)".
+**1983**—Subsec. (a)(5)(A)(ii). Pub. L. 98–21, §606(a)(3)(H)(i), substituted "1395r(a)(1)" for "1395r(c)(1)".
+
+Subsec. (a)(5)(B)(ii). Pub. L. 98–21, §606(a)(3)(H)(ii), substituted "1395r(a)(4)" for "1395r(c)(4)".
 
 Subsec. (g)(1). Pub. L. 97–448 substituted "subsection (b)" for "subsection (b)(1)".
 
@@ -1314,7 +1316,7 @@ Pub. L. 92–603, title II, §226(b), Oct. 30, 1972, 86 Stat. 1403, provided tha
 
 "(2) With respect to individuals who are members of organizations which have entered into a risk-sharing contract with the Secretary pursuant to subsection (i)(2)(A) [of this section] prior to July 1, 1973, and who, although eligible to have payment made pursuant to section 1876 of such Act [42 U.S.C. 1395mm] for services rendered to them, chose (in accordance with regulations) not to have such payment made pursuant to such section, the Secretary shall, for a period not to exceed three years commencing on July 1, 1973, pay to such organization on the basis of an interim per capita rate, determined in accordance with the provisions of section 1876(a)(2) of such Act [42 U.S.C. 1395mm(a)(2)], with appropriate actuarial adjustments to reflect the difference in utilization of out-of-plan services, which would have been considered sufficiently reasonable and necessary under the rules of the health maintenance organization to be provided by that organization, between such individuals and individuals who are enrolled with such organization pursuant to section 1876 of such Act [42 U.S.C. 1395mm]. Payments under this paragraph shall be subject to retroactive adjustment at the end of each contract year as provided in paragraph (3).
 
-"(3) If the Secretary determines that the per capita cost of any such organization in any contract year for providing services to individuals described in paragraph (2), when combined with the cost of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such year for providing out-of-plan services to such individuals, is less than or greater than the adjusted average per capita cost (as defined in section 1876(a)(3) of such Act) [42 U.S.C. 1395mm(a)(3)] of providing such services, the resulting savings shall be apportioned between such organization and such Trust Funds, or the resulting losses shall be absorbed by such organization, in the manner prescribed in section 1876(a)(3) of such Act [42 U.S.C. 1395mm(a)(3)]."
+"(3) If the Secretary determines that the per capita cost of any such organization in any contract year for providing services to individuals described in paragraph (2), when combined with the cost of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such year for providing out-of-plan services to such individuals, is less than or greater than the adjusted average per capita cost (as defined in section 1876(a)(3) of such Act [42 U.S.C. 1395mm(a)(3)]) of providing such services, the resulting savings shall be apportioned between such organization and such Trust Funds, or the resulting losses shall be absorbed by such organization, in the manner prescribed in section 1876(a)(3) of such Act [42 U.S.C. 1395mm(a)(3)]."
 
 [<sup>1</sup> See References in Text note below.](#1395mm_1)
 

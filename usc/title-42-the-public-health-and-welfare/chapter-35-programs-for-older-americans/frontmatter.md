@@ -16,7 +16,7 @@ Sec.
 
 3012. Functions of Assistant Secretary.
 
-3013. Federal agency cooperation.
+3013. Federal agency consultation.
 
 3013a. Consultation with State agencies, area agencies on aging, and Native American grant recipients.
 

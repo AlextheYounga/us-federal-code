@@ -128,7 +128,7 @@ Pub. L. 104–188, title I, §1601(c), Aug. 20, 1996, 110 Stat. 1833, provided t
 
 #### American Samoa Economic Development Credit ####
 
-Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §330(a), (b), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, §141(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §173(a), Dec. 18, 2015, 129 Stat. 3071, provided that:
+Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §330(a), (b), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, §141(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §173(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–123, div. D, title I, §40312(a), Feb. 9, 2018, 132 Stat. 147, provided that:
 
 "(a) In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if—
 
@@ -152,11 +152,13 @@ Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as ame
 
 "(d) Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply—
 
-"(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 11 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2017, and
+"(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 12 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2018, and
 
-"(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 5 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2017.
+"(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 6 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2018.
 
-"(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in [former] subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting 'American Samoa' for 'the United States' each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year."
+"(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in [former] subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting 'American Samoa' for 'the United States' each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year. References in this subsection to section 199 of the Internal Revenue Code of 1986 shall be treated as references to such section as in effect before its repeal."
+
+[Pub. L. 115–123, div. D, title I, §40312(b), Feb. 9, 2018, 132 Stat. 147, provided that: "The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2016."]
 
 [Pub. L. 114–113, div. Q, title I, §173(b), Dec. 18, 2015, 129 Stat. 3071, provided that: "The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2014."]
 

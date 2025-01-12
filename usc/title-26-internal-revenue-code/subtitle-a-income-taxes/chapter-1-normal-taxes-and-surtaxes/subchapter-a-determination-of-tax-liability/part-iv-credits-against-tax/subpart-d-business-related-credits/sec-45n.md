@@ -26,11 +26,13 @@ For purposes of this section, the term "wages" has the meaning given to such ter
 
 #### (e) Termination ####
 
-This section shall not apply to taxable years beginning after December 31, 2016.
+This section shall not apply to taxable years beginning after December 31, 2017.
 
-(Added Pub. L. 109–432, div. A, title IV, §405(a), Dec. 20, 2006, 120 Stat. 2957; amended Pub. L. 110–343, div. C, title III, §310, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §735(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §307(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §117(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §163(a), Dec. 18, 2015, 129 Stat. 3066.)
+(Added Pub. L. 109–432, div. A, title IV, §405(a), Dec. 20, 2006, 120 Stat. 2957; amended Pub. L. 110–343, div. C, title III, §310, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §735(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §307(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §117(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §163(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–123, div. D, title I, §40303(a), Feb. 9, 2018, 132 Stat. 146.)
 
 #### Amendments ####
+
+**2018**—Subsec. (e). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
 
 **2015**—Subsec. (e). Pub. L. 114–113 substituted "December 31, 2016" for "December 31, 2014".
 
@@ -41,6 +43,10 @@ This section shall not apply to taxable years beginning after December 31, 2016.
 **2010**—Subsec. (e). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
 
 **2008**—Subsec. (e). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2008".
+
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–123, div. D, title I, §40303(b), Feb. 9, 2018, 132 Stat. 146, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2016."
 
 #### Effective Date of 2015 Amendment ####
 

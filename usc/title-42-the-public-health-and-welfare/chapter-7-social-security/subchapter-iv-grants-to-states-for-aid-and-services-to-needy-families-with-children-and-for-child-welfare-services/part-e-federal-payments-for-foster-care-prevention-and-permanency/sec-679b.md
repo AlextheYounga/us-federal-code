@@ -26,17 +26,17 @@ The Secretary, in consultation with Governors, State legislatures, State and loc
 
 (A) children in foster care who have been placed in a child care institution or other setting that is not a foster family home, including—
 
-(i) the number of children in the placements and their ages, including separately, the number and ages of children who have a permanency plan of another planned permanent living arrangement;
+(i) with respect to each such placement—
 
-(ii) the duration of the placement in the settings (including for children who have a permanency plan of another planned permanent living arrangement);
+(I) the type of the placement setting, including whether the placement is shelter care, a group home and if so, the range of the child population in the home, a residential treatment facility, a hospital or institution providing medical, rehabilitative, or psychiatric care, a setting specializing in providing prenatal, post-partum, or parenting supports, or some other kind of child-care institution and if so, what kind;
 
-(iii) the types of child care institutions used (including group homes, residential treatment, shelters, or other congregate care settings);
+(II) the number of children in the placement setting and the age, race, ethnicity, and gender of each of the children;
 
-(iv) with respect to each child care institution or other setting that is not a foster family home, the number of children in foster care residing in each such institution or non-foster family home;
+(III) for each child in the placement setting, the length of the placement of the child in the setting, whether the placement of the child in the setting is the first placement of the child and if not, the number and type of previous placements of the child, and whether the child has special needs or another diagnosed mental or physical illness or condition; and
 
-(v) any clinically diagnosed special need of such children; and
+(IV) the extent of any specialized education, treatment, counseling, or other services provided in the setting; and
 
-(vi) the extent of any specialized education, treatment, counseling, or other services provided in the settings; and
+(ii) separately, the number and ages of children in the placements who have a permanency plan of another planned permanent living arrangement; and
 
 (B) children in foster care who are pregnant or parenting.
 
@@ -44,15 +44,33 @@ The Secretary, in consultation with Governors, State legislatures, State and loc
 
 The Secretary shall consult with States and organizations with an interest in child welfare, including organizations that provide adoption and foster care services, and shall take into account requests from Members of Congress, in selecting other issues to be analyzed and reported on under this section using data available to the Secretary, including data reported by States through the Adoption and Foster Care Analysis and Reporting System and to the National Youth in Transition Database.
 
-(Aug. 14, 1935, ch. 531, title IV, §479A, as added Pub. L. 105–89, title II, §203(a), Nov. 19, 1997, 111 Stat. 2126; amended Pub. L. 109–288, §7(c)(2), Sept. 28, 2006, 120 Stat. 1249; Pub. L. 112–34, title I, §106(d), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title I, §115, Sept. 29, 2014, 128 Stat. 1930.)
+(Aug. 14, 1935, ch. 531, title IV, §479A, as added Pub. L. 105–89, title II, §203(a), Nov. 19, 1997, 111 Stat. 2126; amended Pub. L. 109–288, §7(c)(2), Sept. 28, 2006, 120 Stat. 1249; Pub. L. 112–34, title I, §106(d), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title I, §115, Sept. 29, 2014, 128 Stat. 1930; Pub. L. 115–123, div. E, title VII, §50744, Feb. 9, 2018, 132 Stat. 260.)
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(7)(A). Pub. L. 115–123 added cls. (i) and (ii) and struck out former cls. (i) to (vi) which read as follows:
+
+"(i) the number of children in the placements and their ages, including separately, the number and ages of children who have a permanency plan of another planned permanent living arrangement;
+
+"(ii) the duration of the placement in the settings (including for children who have a permanency plan of another planned permanent living arrangement);
+
+"(iii) the types of child care institutions used (including group homes, residential treatment, shelters, or other congregate care settings);
+
+"(iv) with respect to each child care institution or other setting that is not a foster family home, the number of children in foster care residing in each such institution or non-foster family home;
+
+"(v) any clinically diagnosed special need of such children; and
+
+"(vi) the extent of any specialized education, treatment, counseling, or other services provided in the settings; and".
 
 **2014**—Pub. L. 113–183 designated existing provisions as subsec. (a), inserted heading, and added par. (7) and subsec. (b).
 
 **2011**—Par. (6)(B), (C). Pub. L. 112–34 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 **2006**—Par. (6). Pub. L. 109–288 added par. (6).
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by Pub. L. 115–123 effective as if enacted on Jan. 1, 2018, subject to transition rule and State waiver provisions, see section 50746 of Pub. L. 115–123, set out as a note under section 622 of this title.
 
 #### Effective Date of 2011 Amendment ####
 

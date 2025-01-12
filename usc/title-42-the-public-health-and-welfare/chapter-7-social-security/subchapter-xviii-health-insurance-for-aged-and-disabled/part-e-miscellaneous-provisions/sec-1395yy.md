@@ -256,15 +256,19 @@ The Secretary shall establish a skilled nursing facility market basket index tha
 
 #### (i) In general ####
 
-Subject to clauses (ii) and (iii), the term "skilled nursing facility market basket percentage" means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
+Subject to clauses (ii), (iii), and (iv), the term "skilled nursing facility market basket percentage" means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
 
 #### (ii) Adjustment ####
 
-For fiscal year 2012 and each subsequent fiscal year, subject to clause (iii), after determining the percentage described in clause (i), the Secretary shall reduce such percentage by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title. The application of the preceding sentence may result in such percentage being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
+For fiscal year 2012 and each subsequent fiscal year, subject to clauses (iii) and (iv), after determining the percentage described in clause (i), the Secretary shall reduce such percentage by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title. The application of the preceding sentence may result in such percentage being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
 
 #### (iii) Special rule for fiscal year 2018 ####
 
 For fiscal year 2018 (or other similar annual period specified in clause (i)), the skilled nursing facility market basket percentage, after application of clause (ii), is equal to 1 percent.
+
+#### (iv) Special rule for fiscal year 2019 ####
+
+For fiscal year 2019 (or other similar annual period specified in clause (i)), the skilled nursing facility market basket percentage, after application of clause (ii), is equal to 2.4 percent.
 
 #### (6) Reporting of assessment and quality data ####
 
@@ -556,7 +560,7 @@ The Secretary shall provide for the one time transfer from the Federal Hospital 
 
 Such funds shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) [title II, §203(a), title III, §311(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965; Pub. L. 114–10, title IV, §411(a), Apr. 16, 2015, 129 Stat. 161.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) [title II, §203(a), title III, §311(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965; Pub. L. 114–10, title IV, §411(a), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title XII, §53111, Feb. 9, 2018, 132 Stat. 304.)
 
 #### References in Text ####
 
@@ -565,6 +569,12 @@ Section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (e)(12)(A), is section 1(a)(6) [title III, §314(a)] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–499, which is not classified to the Code.
 
 #### Amendments ####
+
+**2018**—Subsec. (e)(5)(B)(i). Pub. L. 115–123, §53111(1), substituted ", (iii), and (iv)" for "and (iii)".
+
+Subsec. (e)(5)(B)(ii). Pub. L. 115–123, §53111(2), substituted "clauses (iii) and (iv)" for "clause (iii)".
+
+Subsec. (e)(5)(B)(iv). Pub. L. 115–123, §53111(3), added subcl. (iv).
 
 **2015**—Subsec. (e)(5)(B)(i). Pub. L. 114–10, §411(a)(1)(A), substituted "clauses (ii) and (iii)" for "clause (ii)".
 

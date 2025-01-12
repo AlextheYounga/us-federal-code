@@ -46,6 +46,8 @@ An ACO shall meet the following requirements:
 
 (H) The ACO shall demonstrate to the Secretary that it meets patient-centeredness criteria specified by the Secretary, such as the use of patient and caregiver assessments or the use of individualized care plans.
 
+(I) An ACO that seeks to operate an ACO Beneficiary Incentive Program pursuant to subsection (m) shall apply to the Secretary at such time, in such manner, and with such information as the Secretary may require.
+
 #### (3) Quality and other reporting requirements ####
 
 #### (A) In general ####
@@ -80,11 +82,37 @@ A provider of services or supplier that participates in any of the following sha
 
 #### (c) Assignment of Medicare fee-for-service beneficiaries to ACOs ####
 
-The Secretary shall determine an appropriate method to assign Medicare fee-for-service beneficiaries to an ACO based on their utilization of—
+#### (1) In general ####
 
-(1) in the case of performance years beginning on or after April 1, 2012, primary care services provided under this subchapter by an ACO professional described in subsection (h)(1)(A); and
+Subject to paragraph (2), the Secretary shall determine an appropriate method to assign Medicare fee-for-service beneficiaries to an ACO based on their utilization of—
 
-(2) in the case of performance years beginning on or after January 1, 2019, services provided under this subchapter by a Federally qualified health center or rural health clinic (as those terms are defined in section 1395x(aa) of this title), as may be determined by the Secretary.
+(A) in the case of performance years beginning on or after April 1, 2012, primary care services provided under this subchapter by an ACO professional described in subsection (h)(1)(A); and
+
+(B) in the case of performance years beginning on or after January 1, 2019, services provided under this subchapter by a Federally qualified health center or rural health clinic (as those terms are defined in section 1395x(aa) of this title), as may be determined by the Secretary.
+
+#### (2) Providing flexibility ####
+
+#### (A) Choice of prospective assignment ####
+
+For each agreement period (effective for agreements entered into or renewed on or after January 1, 2020), in the case where an ACO established under the program is in a Track that provides for the retrospective assignment of Medicare fee-for-service beneficiaries to the ACO, the Secretary shall permit the ACO to choose to have Medicare fee-for-service beneficiaries assigned prospectively, rather than retrospectively, to the ACO for an agreement period.
+
+#### (B) Assignment based on voluntary identification by medicare fee-for-service beneficiaries ####
+
+#### (i) In general ####
+
+For performance year 2018 and each subsequent performance year, if a system is available for electronic designation, the Secretary shall permit a Medicare fee-for-service beneficiary to voluntarily identify an ACO professional as the primary care provider of the beneficiary for purposes of assigning such beneficiary to an ACO, as determined by the Secretary.
+
+#### (ii) Notification process ####
+
+The Secretary shall establish a process under which a Medicare fee-for-service beneficiary is—
+
+(I) notified of their ability to make an identification described in clause (i); and
+
+(II) informed of the process by which they may make and change such identification.
+
+#### (iii) Superseding claims-based assignment ####
+
+A voluntary identification by a Medicare fee-for-service beneficiary under this subparagraph shall supersede any claims-based assignment otherwise determined by the Secretary.
 
 #### (d) Payments and treatment of savings ####
 
@@ -122,7 +150,7 @@ The Secretary may terminate an agreement with an ACO if it does not meet the qua
 
 #### (e) Administration ####
 
-Chapter 35 of title 44 shall not apply to the program.
+Chapter 35 of title 44 shall not apply to the program, including an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m).
 
 #### (f) Waiver authority ####
 
@@ -142,7 +170,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 (5) the percent of shared savings specified by the Secretary under subsection (d)(2) and any limit on the total amount of shared savings established by the Secretary under such subsection; and
 
-(6) the termination of an ACO under subsection (d)(4).
+(6) the termination of an ACO under subsection (d)(4) or of an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m).
 
 #### (h) Definitions ####
 
@@ -198,12 +226,154 @@ The Secretary may give preference to ACOs who are participating in similar arran
 
 During the period beginning on March 23, 2010, and ending on the date the program is established, the Secretary may enter into an agreement with an ACO under the demonstration under section 1395cc–1 of this title, subject to rebasing and other modifications deemed appropriate by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1899, as added and amended Pub. L. 111–148, title III, §3022, title X, §10307, Mar. 23, 2010, 124 Stat. 395, 940; Pub. L. 114–255, div. C, title XVII, §17007, Dec. 13, 2016, 130 Stat. 1338.)
+#### (l) Providing ACOs the ability to expand the use of telehealth services ####
+
+#### (1) In general ####
+
+In the case of telehealth services for which payment would otherwise be made under this subchapter furnished on or after January 1, 2020, for purposes of this subsection only, the following shall apply with respect to such services furnished by a physician or practitioner participating in an applicable ACO (as defined in paragraph (2)) to a Medicare fee-for-service beneficiary assigned to the applicable ACO:
+
+#### (A) Inclusion of home as originating site ####
+
+Subject to paragraph (3), the home of a beneficiary shall be treated as an originating site described in section 1395m(m)(4)(C)(ii) of this title.
+
+#### (B) No application of geographic limitation ####
+
+The geographic limitation under section 1395m(m)(4)(C)(i) of this title shall not apply with respect to an originating site described in section 1395m(m)(4)(C)(ii) of this title (including the home of a beneficiary under subparagraph (A)), subject to State licensing requirements.
+
+#### (2) Definitions ####
+
+In this subsection:
+
+#### (A) Applicable ACO ####
+
+The term "applicable ACO" means an ACO participating in a model tested or expanded under section 1315a of this title or under this section—
+
+(i) that operates under a two-sided model—
+
+(I) described in section 425.600(a) of title 42, Code of Federal Regulations; or
+
+(II) tested or expanded under section 1315a of this title; and
+
+(ii) for which Medicare fee-for-service beneficiaries are assigned to the ACO using a prospective assignment method, as determined appropriate by the Secretary.
+
+#### (B) Home ####
+
+The term "home" means, with respect to a Medicare fee-for-service beneficiary, the place of residence used as the home of the beneficiary.
+
+#### (3) Telehealth services received in the home ####
+
+In the case of telehealth services described in paragraph (1) where the home of a Medicare fee-for-service beneficiary is the originating site, the following shall apply:
+
+#### (A) No facility fee ####
+
+There shall be no facility fee paid to the originating site under section 1395m(m)(2)(B) of this title.
+
+#### (B) Exclusion of certain services ####
+
+No payment may be made for such services that are inappropriate to furnish in the home setting such as services that are typically furnished in inpatient settings such as a hospital.
+
+#### (m) Authority to provide incentive payments to beneficiaries with respect to qualifying primary care services ####
+
+#### (1) Program ####
+
+#### (A) In general ####
+
+In order to encourage Medicare fee-for-service beneficiaries to obtain medically necessary primary care services, an ACO participating under this section under a payment model described in clause (i) or (ii) of paragraph (2)(B) may apply to establish an ACO Beneficiary Incentive Program to provide incentive payments to such beneficiaries who are furnished qualifying services in accordance with this subsection. The Secretary shall permit such an ACO to establish such a program at the Secretary's discretion and subject to such requirements, including program integrity requirements, as the Secretary determines necessary.
+
+#### (B) Implementation ####
+
+The Secretary shall implement this subsection on a date determined appropriate by the Secretary. Such date shall be no earlier than January 1, 2019, and no later than January 1, 2020.
+
+#### (2) Conduct of program ####
+
+#### (A) Duration ####
+
+Subject to subparagraph (H), an ACO Beneficiary Incentive Program established under this subsection shall be conducted for such period (of not less than 1 year) as the Secretary may approve.
+
+#### (B) Scope ####
+
+An ACO Beneficiary Incentive Program established under this subsection shall provide incentive payments to all of the following Medicare fee-for-service beneficiaries who are furnished qualifying services by the ACO:
+
+(i) With respect to the Track 2 and Track 3 payment models described in section 425.600(a) of title 42, Code of Federal Regulations (or in any successor regulation), Medicare fee-for-service beneficiaries who are preliminarily prospectively or prospectively assigned (or otherwise assigned, as determined by the Secretary) to the ACO.
+
+(ii) With respect to any future payment models involving two-sided risk, Medicare fee-for-service beneficiaries who are assigned to the ACO, as determined by the Secretary.
+
+#### (C) Qualifying service ####
+
+For purposes of this subsection, a qualifying service is a primary care service, as defined in section 425.20 of title 42, Code of Federal Regulations (or in any successor regulation), with respect to which coinsurance applies under part B, furnished through an ACO by—
+
+(i) an ACO professional described in subsection (h)(1)(A) who has a primary care specialty designation included in the definition of primary care physician under section 425.20 of title 42, Code of Federal Regulations (or any successor regulation);
+
+(ii) an ACO professional described in subsection (h)(1)(B); or
+
+(iii) a Federally qualified health center or rural health clinic (as such terms are defined in section 1395x(aa) of this title).
+
+#### (D) Incentive payments ####
+
+An incentive payment made by an ACO pursuant to an ACO Beneficiary Incentive Program established under this subsection shall be—
+
+(i) in an amount up to $20, with such maximum amount updated annually by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year;
+
+(ii) in the same amount for each Medicare fee-for-service beneficiary described in clause (i) or (ii) of subparagraph (B) without regard to enrollment of such a beneficiary in a medicare supplemental policy (described in section 1395ss(g)(1) of this title), in a State Medicaid plan under subchapter XIX or a waiver of such a plan, or in any other health insurance policy or health benefit plan;
+
+(iii) made for each qualifying service furnished to such a beneficiary described in clause (i) or (ii) of subparagraph (B) during a period specified by the Secretary; and
+
+(iv) made no later than 30 days after a qualifying service is furnished to such a beneficiary described in clause (i) or (ii) of subparagraph (B).
+
+#### (E) No separate payments from the Secretary ####
+
+The Secretary shall not make any separate payment to an ACO for the costs, including incentive payments, of carrying out an ACO Beneficiary Incentive Program established under this subsection. Nothing in this subparagraph shall be construed as prohibiting an ACO from using shared savings received under this section to carry out an ACO Beneficiary Incentive Program.
+
+#### (F) No application to shared savings calculation ####
+
+Incentive payments made by an ACO under this subsection shall be disregarded for purposes of calculating benchmarks, estimated average per capita Medicare expenditures, and shared savings under this section.
+
+#### (G) Reporting requirements ####
+
+An ACO conducting an ACO Beneficiary Incentive Program under this subsection shall, at such times and in such format as the Secretary may require, report to the Secretary such information and retain such documentation as the Secretary may require, including the amount and frequency of incentive payments made and the number of Medicare fee-for-service beneficiaries receiving such payments.
+
+#### (H) Termination ####
+
+The Secretary may terminate an ACO Beneficiary Incentive Program established under this subsection at any time for reasons determined appropriate by the Secretary.
+
+#### (3) Exclusion of incentive payments ####
+
+Any payment made under an ACO Beneficiary Incentive Program established under this subsection shall not be considered income or resources or otherwise taken into account for purposes of—
+
+(A) determining eligibility for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds; or
+
+(B) any Federal or State laws relating to taxation.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1899, as added and amended Pub. L. 111–148, title III, §3022, title X, §10307, Mar. 23, 2010, 124 Stat. 395, 940; Pub. L. 114–255, div. C, title XVII, §17007, Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–123, div. E, title III, §§50324(a), 50331, 50341(a), Feb. 9, 2018, 132 Stat. 203, 205, 206.)
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(2)(I). Pub. L. 115–123, §50341(a)(1), added subpar. (I).
+
+Subsec. (c). Pub. L. 115–123, §50331, designated existing provisions as par. (1), inserted heading, substituted "Subject to paragraph (2), the Secretary" for "The Secretary", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
+
+Subsec. (e). Pub. L. 115–123, §50341(a)(3), inserted", including an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m)" after "the program".
+
+Subsec. (g)(6). Pub. L. 115–123, §50341(a)(4), inserted "or of an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m)" after "under subsection (d)(4)".
+
+Subsec. (l). Pub. L. 115–123, §50324(a), added subsec. (l).
+
+Subsec. (m). Pub. L. 115–123, §50341(a)(2), added subsec. (m).
 
 **2016**—Subsec. (c). Pub. L. 114–255 substituted "utilization of—" for "utilization of primary", inserted par. (1) designation and "in the case of performance years beginning on or after April 1, 2012, primary" before "care services", and added par. (2).
 
 **2010**—Subsecs. (i) to (k). Pub. L. 111–148, §10307, added subsecs. (i) to (k).
+
+#### Study and Report ####
+
+Pub. L. 115–123, div. E, title III, §50324(b), Feb. 9, 2018, 132 Stat. 204, provided that:
+
+"(1) Study.—
+
+"(A) In general.—The Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') shall conduct a study on the implementation of section 1899(l) of the Social Security Act [42 U.S.C. 1395jjj(l)], as added by subsection (a). Such study shall include an analysis of the utilization of, and expenditures for, telehealth services under such section.
+
+"(B) Collection of data.—The Secretary may collect such data as the Secretary determines necessary to carry out the study under this paragraph.
+
+"(2) Report.—Not later than January 1, 2026, the Secretary shall submit to Congress a report containing the results of the study conducted under paragraph (1), together with recommendations for such legislation and administrative action as the Secretary determines appropriate."
 
 [<sup>1</sup> So in original. No par. (2) has been enacted.](#1395jjj_1)

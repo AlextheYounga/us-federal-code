@@ -1046,7 +1046,7 @@ Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted "an S corpora
 
 Amendment by section 11002(d)(1)(F), (2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Pub. L. 115–97, title I, §13206(e), Dec. 22, 2017, 131 Stat. 2113, provided that: "The amendments made by this section [amending this section and sections 174 and 280C of this title ] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2021."
+Pub. L. 115–97, title I, §13206(e), Dec. 22, 2017, 131 Stat. 2113, provided that: "The amendments made by this section [amending this section and sections 174 and 280C of this title] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2021."
 
 #### Effective Date of 2015 Amendment ####
 

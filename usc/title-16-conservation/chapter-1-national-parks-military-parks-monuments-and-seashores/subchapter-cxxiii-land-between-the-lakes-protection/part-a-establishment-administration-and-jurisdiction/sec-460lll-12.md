@@ -16,6 +16,6 @@ In order to provide for a cost-effective transfer of the law enforcement respons
 
 #### References in Text ####
 
-Act of March 1, 1911, referred to in subsec. (b), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, popularly known as the Weeks Law, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
+Act of March 1, 1911, referred to in subsec. (b), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
 The National Forest System Drug Control Act of 1986, referred to in subsec. (c), is title XV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–191, which enacted sections 559b to 559g of this title, amended section 841 of Title 21, Food and Drugs, and enacted provisions set out as a note under section 559b of this title. For complete classification of title XV to the Code, see Short Title note set out under section 559b of this title and Tables.

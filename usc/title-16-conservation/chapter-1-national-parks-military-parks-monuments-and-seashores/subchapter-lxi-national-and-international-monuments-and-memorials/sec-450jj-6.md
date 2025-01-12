@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is hereby established the Jefferson National Expansion Memorial Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the "Commission").
+There is hereby established the Jefferson National Expansion Memorial <sup><a href="#450jj-6_1_target" name="450jj-6_1">1</a></sup> Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the "Commission").
 
 #### (b) Composition ####
 
@@ -46,7 +46,7 @@ Individuals nominated for appointment under paragraphs (14) and (15) shall be in
 
 (1) Except as provided in paragraphs (2) and (3), members of the Commission shall be appointed for terms of three years.
 
-(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)— <sup><a href="#450jj-6_1_target" name="450jj-6_1">1</a></sup>
+(2) Of the members of the Commission first appointed under paragraphs (14) and (15) of subsection (c)— <sup><a href="#450jj-6_2_target" name="450jj-6_2">2</a></sup>
 
 (A) two shall be appointed for terms of one year;
 
@@ -68,7 +68,7 @@ The chairperson of the Commission shall be elected by the members of the Commiss
 
 #### (f) Assistance from Federal agencies ####
 
-Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail any of the personnel or <sup><a href="#450jj-6_2_target" name="450jj-6_2">2</a></sup> such agency, or provide administrative services to the Commission to assist the Commission in carrying out the Commission's duties under section 450jj–7 of this title.
+Upon request of the Commission, the head of any Federal agency represented by members on the Commission may detail any of the personnel or <sup><a href="#450jj-6_3_target" name="450jj-6_3">3</a></sup> such agency, or provide administrative services to the Commission to assist the Commission in carrying out the Commission's duties under section 450jj–7 of this title.
 
 #### (g) Gifts, bequests, or donations ####
 
@@ -82,6 +82,12 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 
-[<sup>1</sup> So in original. Probably should be "subsection (b)—".](#450jj-6_1)
+#### Change of Name ####
 
-[<sup>2</sup> So in original. Probably should be "of".](#450jj-6_2)
+Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, §2, Feb. 22, 2018, 132 Stat. 328, which is classified to section 450jj–10 of this title.
+
+[<sup>1</sup> See Change of Name note below.](#450jj-6_1)
+
+[<sup>2</sup> So in original. Probably should be "subsection (b)—".](#450jj-6_2)
+
+[<sup>3</sup> So in original. Probably should be "of".](#450jj-6_3)

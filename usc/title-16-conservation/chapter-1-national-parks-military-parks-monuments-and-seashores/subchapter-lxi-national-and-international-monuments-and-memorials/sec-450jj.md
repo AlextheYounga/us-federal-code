@@ -1,8 +1,16 @@
 ### §450jj. Jefferson National Expansion Memorial; authorization ###
 
-There is authorized to be constructed by the Secretary of the Interior upon the Jefferson National Expansion Memorial National Historic Site, Saint Louis, Missouri, an appropriate national memorial to those persons who made possible the territorial expansion of the United States, including President Thomas Jefferson and his aides, Livingston and Monroe, who negotiated the Louisiana Purchase, the great explorers, Lewis and Clark, and the hardy hunters, trappers, frontiersmen, pioneers, and others who contributed to such expansion.
+There is authorized to be constructed by the Secretary of the Interior upon the Jefferson National Expansion Memorial National Historic Site,<sup><a href="#450jj_1_target" name="450jj_1">1</a></sup> Saint Louis, Missouri, an appropriate national memorial to those persons who made possible the territorial expansion of the United States, including President Thomas Jefferson and his aides, Livingston and Monroe, who negotiated the Louisiana Purchase, the great explorers, Lewis and Clark, and the hardy hunters, trappers, frontiersmen, pioneers, and others who contributed to such expansion.
 
 (May 17, 1954, ch. 204, §1, 68 Stat. 98.)
+
+#### Change of Name ####
+
+Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, §2, Feb. 22, 2018, 132 Stat. 328, which is classified to section 450jj–10 of this title.
+
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–128, §1, Feb. 22, 2018, 132 Stat. 328, provided that: "This Act [enacting section 450jj–10 of this title] may be cited as the 'Gateway Arch National Park Designation Act'."
 
 #### Short Title of 1984 Amendment ####
 
@@ -10,7 +18,7 @@ Pub. L. 98–398, title II, §203, Aug. 24, 1984, 98 Stat. 1472, provided that: 
 
 #### Disposition of Funds Received by National Park Service as Reimbursement for Costs Incurred ####
 
-Pub. L. 99–500, §101(h) [title I, §100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–251, and Pub. L. 99–591, §101(h) [title I, §100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–251, provided: "That notwithstanding any other provision of law, hereafter funds received by the National Park Service as reimbursement for the cost of providing security, law enforcement, interpretive, and other services with respect to the operation of facilities at the Jefferson National Expansion Memorial National Historic Site shall be credited to the appropriation bearing the cost of providing such services."
+Pub. L. 99–500, §101(h) [title I, §100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–251, and Pub. L. 99–591, §101(h) [title I, §100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–251, provided: "That notwithstanding any other provision of law, hereafter funds received by the National Park Service as reimbursement for the cost of providing security, law enforcement, interpretive, and other services with respect to the operation of facilities at the Jefferson National Expansion Memorial National Historic Site [now Gateway Arch National Park] shall be credited to the appropriation bearing the cost of providing such services."
 
 #### Authorization of Appropriations; Federal and Non-Federal Ratio of Expenditures ####
 
@@ -25,3 +33,5 @@ Section 11, formerly section 4, of act May 17, 1954, as amended by Pub. L. 85–
 "(3) Within one year after the date of enactment of this paragraph [Aug. 26, 1992], the Secretary, in direct consultation with the city of East St. Louis, Gateway Arch Park Expansion, and the Southwestern Illinois Development Authority, shall develop and transmit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Interior and Insular Affairs [now Committee on Natural Resources] of the United States House of Representatives a study of alternatives to, and costs associated with, the removal of the grain elevator located within the East St. Louis unit of the Memorial. The study shall contain, but need not be limited to, at least one alternative which would incorporate and retain the existing grain elevator into the draft development and management plan and environmental assessment referred to in paragraph (1).
 
 "(c) Funds appropriated under subsection (b) of this section shall remain available until expended."
+
+[<sup>1</sup> See Change of Name note below.](#450jj_1)
