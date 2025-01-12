@@ -58,10 +58,6 @@ Subsec. (a). Pub. L. 102–190, §3313(b)(1), in introductory provisions, substi
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 3311(c) of Pub. L. 104–201, set out as a note under section 98a of this title.
 
-#### Termination of Reporting Requirements ####
-
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of biennial report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
-
 #### Initial Report Due Date ####
 
 Pub. L. 102–190, div. C, title XXXIII, §3313(b)(3), Dec. 5, 1991, 105 Stat. 1585, provided that: "The first report required by section 14(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–5(a)), as amended by paragraph (1) shall be submitted not later than January 15, 1993."

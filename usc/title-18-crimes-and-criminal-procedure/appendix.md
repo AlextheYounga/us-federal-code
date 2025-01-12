@@ -495,13 +495,13 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to December 1, 2021)
+(As amended to December 1, 2022)
 
 #### Historical Note ####
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §12(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Pub. L. 116–182, §2, Oct. 21, 2020, 134 Stat. 894.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §2(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Pub. L. 116–182, §2, Oct. 21, 2020, 134 Stat. 894; Apr. 11, 2022, eff. Dec. 1, 2022.
 
 #### TITLE I. APPLICABILITY ####
 
@@ -3835,7 +3835,31 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (iii) the item is material to preparing the defense or the government intends to use the item in its case-in-chief at trial.
 
-(G) *Expert Witnesses*. At the defendant's request, the government must give to the defendant a written summary of any testimony that the government intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence during its case-in-chief at trial. If the government requests discovery under subdivision (b)(1)(C)(ii) and the defendant complies, the government must, at the defendant's request, give to the defendant a written summary of testimony that the government intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence as evidence at trial on the issue of the defendant's mental condition. The summary provided under this subparagraph must describe the witness's opinions, the bases and reasons for those opinions, and the witness's qualifications.
+(G) *Expert Witnesses.*
+
+(i) Duty to Disclose. At the defendant's request, the government must disclose to the defendant, in writing, the information required by (iii) for any testimony that the government intends to use at trial under Federal Rule <sup><a href="#Rule_16_1_target" name="Rule_16_1">1</a></sup> of Evidence 702, 703, or 705 during its case-in-chief, or during its rebuttal to counter testimony that the defendant has timely disclosed under (b)(1)(C). If the government requests discovery under the second bullet point in (b)(1)(C)(i) and the defendant complies, the government must, at the defendant's request, disclose to the defendant, in writing, the information required by (iii) for testimony that the government intends to use at trial under Federal Rule <sup><a href="#Rule_16_1_target" name="Rule_16_1">1</a></sup> of Evidence 702, 703, or 705 on the issue of the defendant's mental condition.
+
+(ii) Time to Disclose. The court, by order or local rule, must set a time for the government to make its disclosures. The time must be sufficiently before trial to provide a fair opportunity for the defendant to meet the government's evidence.
+
+(iii) Contents of the Disclosure. The disclosure for each expert witness must contain:
+
+• a complete statement of all opinions that the government will elicit from the witness in its case-in-chief, or during its rebuttal to counter testimony that the defendant has timely disclosed under (b)(1)(C);
+
+• the bases and reasons for them;
+
+• the witness's qualifications, including a list of all publications authored in the previous 10 years; and
+
+• a list of all other cases in which, during the previous 4 years, the witness has testified as an expert at trial or by deposition.
+
+(iv) Information Previously Disclosed. If the government previously provided a report under (F) that contained information required by (iii), that information may be referred to, rather than repeated, in the expert-witness disclosure.
+
+(v) Signing the Disclosure. The witness must approve and sign the disclosure, unless the government:
+
+• states in the disclosure why it could not obtain the witness's signature through reasonable efforts; or
+
+• has previously provided under (F) a report, signed by the witness, that contains all the opinions and the bases and reasons for them required by (iii).
+
+(vi) Supplementing and Correcting a Disclosure. The government must supplement or correct its disclosures in accordance with (c).
 
 (2) *Information Not Subject to Disclosure*. Except as permitted by Rule 16(a)(1)(A)–(D), (F), and (G), this rule does not authorize the discovery or inspection of reports, memoranda, or other internal government documents made by an attorney for the government or other government agent in connection with investigating or prosecuting the case. Nor does this rule authorize the discovery or inspection of statements made by prospective government witnesses except as provided in 18 U.S.C. §3500.
 
@@ -3857,13 +3881,35 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (ii) the defendant intends to use the item in the defendant's case-in-chief at trial, or intends to call the witness who prepared the report and the report relates to the witness's testimony.
 
-(C) *Expert Witnesses*. The defendant must, at the government's request, give to the government a written summary of any testimony that the defendant intends to use under Rules 702, 703, or 705 of the Federal Rules of Evidence as evidence at trial, if—
+(C) *Expert Witnesses.*
 
-(i) the defendant requests disclosure under subdivision (a)(1)(G) and the government complies; or
+(i) Duty to Disclose. At the government's request, the defendant must disclose to the government, in writing, the information required by (iii) for any testimony that the defendant intends to use under Federal Rule of Evidence 702, 703, or 705 during the defendant's case-in-chief at trial, if:
 
-(ii) the defendant has given notice under Rule 12.2(b) of an intent to present expert testimony on the defendant's mental condition.
+• the defendant requests disclosure under (a)(1)(G) and the government complies; or
 
-This summary must describe the witness's opinions, the bases and reasons for those opinions, and the witness's qualifications[.]
+• the defendant has given notice under Rule 12.2(b) of an intent to present expert testimony on the defendant's mental condition.
+
+(ii) Time to Disclose. The court, by order or local rule, must set a time for the defendant to make the defendant's disclosures. The time must be sufficiently before trial to provide a fair opportunity for the government to meet the defendant's evidence.
+
+(iii) Contents of the Disclosure. The disclosure for each expert witness must contain:
+
+• a complete statement of all opinions that the defendant will elicit from the witness in the defendant's case-in-chief;
+
+• the bases and reasons for them;
+
+• the witness's qualifications, including a list of all publications authored in the previous 10 years; and
+
+• a list of all other cases in which, during the previous 4 years, the witness has testified as an expert at trial or by deposition.
+
+(iv) Information Previously Disclosed. If the defendant previously provided a report under (B) that contained information required by (iii), that information may be referred to, rather than repeated, in the expert-witness disclosure.
+
+(v) Signing the Disclosure. The witness must approve and sign the disclosure, unless the defendant:
+
+• states in the disclosure why the defendant could not obtain the witness's signature through reasonable efforts; or
+
+• has previously provided under (F) a report, signed by the witness, that contains all the opinions and the bases and reasons for them required by (iii).
+
+(vi) Supplementing and Correcting a Disclosure. The defendant must supplement or correct the defendant's disclosures in accordance with (c).
 
 (2) *Information Not Subject to Disclosure*. Except for scientific or medical reports, Rule 16(b)(1) does not authorize discovery or inspection of:
 
@@ -3897,7 +3943,7 @@ This summary must describe the witness's opinions, the bases and reasons for tho
 
 (D) enter any other order that is just under the circumstances.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(20)–(28), July 31, 1975, 89 Stat. 374, 375; Pub. L. 94–149, §5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, §11019(b), Nov. 2, 2002, 117 Stat. 1825; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(20)–(28), July 31, 1975, 89 Stat. 374, 375; Pub. L. 94–149, §5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, §11019(b), Nov. 2, 2002, 117 Stat. 1825; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -4191,9 +4237,35 @@ By restoring the enumerated subparagraphs, the amendment makes it clear that a d
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2022 Amendment ####
+
+The amendment addresses two shortcomings of the prior provisions on expert witness disclosure: the lack of adequate specificity regarding what information must be disclosed, and the lack of an enforceable deadline for disclosure. The amendment clarifies the scope and timing of the parties' obligations to disclose expert testimony they intend to present at trial. It is intended to facilitate trial preparation, allowing the parties a fair opportunity to prepare to cross-examine expert witnesses and secure opposing expert testimony if needed.
+
+Like the existing provisions, amended subsections (a)(1)(G) (government's disclosure) and (b)(1)(C) (defendant's disclosure) generally mirror one another. The amendment to (b)(1)(C) includes the limiting phrase—now found in (a)(1)(G) and carried forward in the amendment—restricting the disclosure obligation to testimony the defendant will use in the defendant's "case-in-chief." Because the history of Rule 16 revealed no reason for the omission of this phrase from (b)(1)(C), this phrase was added to make (a) and (b) parallel as well as reciprocal. No change from current practice in this respect is intended.
+
+The amendment to (a)(1)(G) also clarifies that the government's disclosure obligation includes not only the testimony it intends to use in its case-in-chief, but also testimony it intends to use to rebut testimony timely disclosed by the defense under (b)(1)(C).
+
+To ensure enforceable deadlines that the prior provisions lacked, items (a)(1)(G)(ii) and (b)(1)(C)(ii) provide that the court, by order or local rule, must set a time for the government to make its disclosures of expert testimony to the defendant, and for the defense to make its disclosures of expert testimony to the government. These disclosure times, the amendment mandates, must be sufficiently before trial to provide a fair opportunity for each party to meet the other side's expert evidence. Sometimes a party may need to secure its own expert to respond to expert testimony disclosed by the other party. Deadlines should accommodate the time that may take, including the time an appointed attorney may need to secure funding to hire an expert witness, or the time the government would need to find a witness to rebut an expert disclosed by the defense. Deadlines for disclosure must also be sensitive to the requirements of the Speedy Trial Act. Because caseloads vary from district to district, the amendment does not itself set a specific time for the disclosures by the government and the defense for every case. Instead, it allows courts to tailor disclosure deadlines to local conditions or specific cases by providing that the time for disclosure must be set either by local rule or court order.
+
+Items (a)(1)(G)(ii) and (b)(1)(C)(ii) require the court to set a time for disclosure in each case if that time is not already set by local rule or other order, but leave to the court's discretion when it is most appropriate to announce those deadlines. The court also retains discretion under Rule 16(d) consistent with the provisions of the Speedy Trial Act to alter deadlines to ensure adequate trial preparation. In setting times for expert disclosures in individual cases, the court should consider the recommendations of the parties, who are required to "confer and try to agree on a timetable" for pretrial disclosures under Rule 16.1.
+
+To ensure that parties receive adequate information about the content of the witness's testimony and potential impeachment, items (a)(1)(G)(i) and (iii)—and the parallel provisions in (b)(1)(C)(i) and (iii)—delete the phrase "written summary" and substitute specific requirements that the parties provide "a complete statement" of the witness's opinions, the bases and reasons for those opinions, the witness's qualifications, and a list of other cases in which the witness has testified in the past 4 years. Although the language of some of these provisions is drawn from Civil Rule 26, the amendment is not intended to replicate all aspects of practice under the civil rule in criminal cases, which differ in many significant ways from civil cases. The amendment requires a complete statement of all opinions the expert will provide, but does not require a verbatim recitation of the testimony the expert will give at trial.
+
+On occasion, an expert witness will have testified in a large number of cases, and developing the list of prior testimony may be unduly burdensome. Likewise, on occasion, with respect to an expert witness whose identity is not critical to the opposing party's ability to prepare for trial, the party who wishes to call the expert may be able to provide a complete statement of the expert's opinions, bases and reasons for them, but may not be able to provide the witness's identity until a date closer to trial. In such circumstances, the party who wishes to call the expert may seek an order modifying discovery under Rule 16(d).
+
+Items (a)(1)(G)(iv) and (b)(1)(C)(iv) also recognize that, in some situations, information that a party must disclose about opinions and the bases and reasons for those opinions may have been provided previously in a report (including accompanying documents) of an examination or test under subparagraph (a)(1)(F) or (b)(1)(B). Information previously provided need not be repeated in the expert disclosure, if the expert disclosure clearly identifies the information and the prior report in which it was provided.
+
+Items (a)(1)(G)(v) and (b)(1)(C)(v) of the amended rule require that the expert witness approve and sign the disclosure. However, the amended provisions also recognize two exceptions to this requirement. First, the rule recognizes the possibility that a party may not be able to obtain a witness's approval and signature despite reasonable efforts to do so. This may occur, for example, when the party has not retained or specially employed the witness to present testimony, such as when a party calls a treating physician to testify. In that situation, the party is responsible for providing the required information, but may be unable to procure a witness's approval and signature following a request. An unsigned disclosure is acceptable so long as the party states why it was unable to procure the expert's signature following reasonable efforts. Second, the expert need not sign the disclosure if a complete statement of all of the opinions as well as the bases and reasons for those opinions, were already set forth in a report, signed by the witness, previously provided under subparagraph (a)(1)(F)—for government disclosures—or (b)(1)(B)—for defendant's disclosures. In that situation, the prior signed report and accompanying documents, combined with the attorney's representation of the expert's qualifications, publications, and prior testimony, provide the information and signature needed to prepare to meet the testimony.
+
+Items (a)(1)(G)(vi) and (b)(1)(C)(vi) require the parties to supplement or correct each disclosure to the other party in accordance with Rule 16(c). This provision is intended to ensure that, if there is any modification of a party's expert testimony or change in the identity of an expert after the initial disclosure, the other party will receive prompt notice of that modification or correction.
+
 #### References in Text ####
 
 The Federal Rules of Evidence, referred to in subds. (a)(1)(G) and (b)(1)(C), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+Codification
+
+"Federal Rule of Evidence 702, 703, or 705", referred to in two places in subd. (a)(1)(G)(i), appeared in the amendment by House Document 117–109 with "Rules", with the final "s" lined through instead of deleted. The final "s" has been omitted here to reflect the intent of the amendment. See Committee Notes on Rules—2022 Amendment set out above.
 
 #### Amendment by Public Law ####
 
@@ -4220,6 +4292,8 @@ Pub. L. 107–273, div. C, title I, §11019(c), Nov. 2, 2002, 116 Stat. 1826, pr
 #### Effective Date of Amendments Proposed April 22, 1974; Effective Date of 1975 Amendments ####
 
 Amendments of this rule embraced in the order of the United States Supreme Court on Apr. 22, 1974, and the amendments of this rule made by section 3 of Pub. L. 94–64, effective Dec. 1, 1975, see section 2 of Pub. L. 94–64, set out as a note under rule 4 of these rules.
+
+[<sup>1</sup> See Codification note below.](#Rule_16_1)
 
 ### Rule 16.1. Pretrial Discovery Conference; Request for Court Action ###
 

@@ -66,7 +66,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsecs. (b), (j)(1)(A), i
 
 Section 516A of the Tariff Act of 1930, referred to in subsecs. (c), (j)(1)(B), is classified to section 1516a of Title 19.
 
-The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. Section 2371 of Title 19 was omitted from the Code as terminated Sept. 30, 1982. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsecs. (e), (k)(2)(A), is classified to section 2515(b)(1) of Title 19.
 

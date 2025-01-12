@@ -36,9 +36,13 @@ In subsec. (d), "section 1346 or section 1491 of title 28" substituted for "sect
 
 Provisions similar to those in this section were contained in the Naval Appropriation Act, 1918, act July 1, 1918, ch. 114, 40 Stat. 719, which terminated six months after the treaty of peace between the United States and Germany (Oct. 18, 1921).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination of War and Emergencies ####
 
 Act July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the interpretation of the provisions of this section, which authorized the President to acquire, through construction or conversion, ships, landing craft, and other vessels, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 12742. National Security Industrial Responsiveness ####
 

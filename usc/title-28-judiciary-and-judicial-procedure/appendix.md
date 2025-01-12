@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to December 1, 2021)
+(As amended to December 1, 2022)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -64,7 +64,7 @@ Rule
 
 [5.1. Abrogated.]
 
-6. Appeal in a Bankruptcy Case
+6. Appeal in a Bankruptcy Case.
 
 7. Bond for Costs on Appeal in a Civil Case.
 
@@ -396,7 +396,7 @@ Amendments to Subdivision (d) change the words "mailing" and "mails" to "sending
 
 The notice of appeal is supposed to be a simple document that provides notice that a party is appealing and invokes the jurisdiction of the court of appeals. It therefore must state who is appealing, what is being appealed, and to what court the appeal is being taken. It is the role of the briefs, not the notice of appeal, to focus the issues on appeal.
 
-Because the jurisdiction of the court of appeals is established by statute, an appeal can be taken only from those district court decisions from which Congress has authorized an appeal. In most instances, that is the final judgment, see, e.g., 28 U.S.C. §1291, but some other orders are considered final within the meaning of 28 U.S.C. §1291, and some interlocutory orders are themselves appealable, see, e.g., 28 U.S.C. §1292. Accordingly, Rule 3(c)(1) currently requires that the notice of appeal "designate the judgment, order, or part thereof being appealed." The judgment or order to be designated is the one serving as the basis of the court's appellate jurisdiction and from which time limits are calculated.
+Because the jurisdiction of the court of appeals is established by statute, an appeal can be taken only from those district court decisions from which Congress has authorized an appeal. In most instances, that is the final judgment, *see, e.g.*, 28 U.S.C. §1291, but some other orders are considered final within the meaning of 28 U.S.C. §1291, and some interlocutory orders are themselves appealable, *see, e.g.*, 28 U.S.C. §1292. Accordingly, Rule 3(c)(1) currently requires that the notice of appeal "designate the judgment, order, or part thereof being appealed." The judgment or order to be designated is the one serving as the basis of the court's appellate jurisdiction and from which time limits are calculated.
 
 However, some have interpreted this language as an invitation, if not a requirement, to designate each and every order of the district court that the appellant may wish to challenge on appeal. Such an interpretation overlooks a key distinction between the judgment or order on appeal—the one serving as the basis of the court's appellate jurisdiction and from which time limits are calculated—and the various orders or decisions that may be reviewed on appeal because they merge into the judgment or order on appeal. Designation of the final judgment confers appellate jurisdiction over prior interlocutory orders that merge into the final judgment. The merger principle is a corollary of the final judgment rule: a party cannot appeal from most interlocutory orders, but must await final judgment, and only then obtain review of interlocutory orders on appeal from the final judgment.
 
@@ -408,7 +408,7 @@ However, there are circumstances in which an appellant may deliberately choose t
 
 To alert readers to the merger principle, a new provision is added to Rule 3(c): "The notice of appeal encompasses all orders that, for purposes of appeal, merge into the designated judgment or appealable order. It is not necessary to designate those orders in the notice of appeal." The general merger rule can be stated simply: an appeal from a final judgment permits review of all rulings that led up to the judgment. Because this general rule is subject to some exceptions and complications, the amendment does not attempt to codify the merger principle but instead leaves its details to case law.
 
-The amendment does not change the principle established in *Tudinich v. Becton Dickinson & Co.*, 486 U.S. 196, 202–03 (1988), that "a decision on the merits is a 'final decision' for purposes of §1291 whether or not there remains for adjudication a request for attorney's fees attributable to the case." *See also Ray Haluch Gravel Co. v. Cent. Pension Fund of Int'l Union of Operating Eng'rs & Participating Emp.'s*, 571 U.S. 177, 179 (2014) ("Whether the claim for attorney's fees is based on a statute, a contract, or both, the pendency of a ruling on an award for fees and costs does not prevent, as a general rule, the merits judgment from becoming final for purposes of appeal.").
+The amendment does not change the principle established in *Budinich v. Becton Dickinson & Co.*, 486 U.S. 196, 202–03 (1988), that "a decision on the merits is a 'final decision' for purposes of §1291 whether or not there remains for adjudication a request for attorney's fees attributable to the case." *See also Ray Haluch Gravel Co. v. Cent. Pension Fund of Int'l Union of Operating Eng'rs & Participating Emp.'s*, 571 U.S. 177, 179 (2014) ("Whether the claim for attorney's fees is based on a statute, a contract, or both, the pendency of a ruling on an award for fees and costs does not prevent, as a general rule, the merits judgment from becoming final for purposes of appeal.").
 
 To remove the trap for the unwary, while enabling deliberate limitations of the notice of appeal, another new provision is added to Rule 3(c): "An appellant may designate only part of a judgment or appealable order by expressly stating that the notice of appeal is so limited. Without such an express statement, specific designations do not limit the scope of the notice of appeal."
 
@@ -423,6 +423,10 @@ Rule 3(c)(5) is limited to civil cases. Similar issues may arise in a small numb
 On occasion, a party may file a notice of appeal after a judgment but designate only a prior nonappealable decision that merged into that judgment. To deal with this situation, Rule 3(c)(7) provides that an appeal must not be dismissed for failure to properly designate the judgment if the notice of appeal was filed after entry of the judgment and designates an order that merged into that judgment. In this situation, a court should act as if the notice had properly designated the judgment. In determining whether a notice of appeal was filed after the entry of judgment, Rules 4(a)(2) and 4(b)(2) apply.
 
 The new provisions are added as Rules 3(c)(4), 3(c)(5), and 3(c)(6), with the existing Rules 3(c)(4) and 3(c)(5) renumbered. In addition, to reflect these changes to the rule, Form 1 is replaced by Forms 1A and 1B, and Form 2 is amended.
+
+#### References in Text ####
+
+The Federal Rules of Civil Procedure, referred to in subd. (c)(5), are set out in this Appendix.
 
 ### [Rule 3.1. Appeal from a Judgment of a Magistrate Judge in a Civil Case] (Abrogated Apr. 24, 1998, eff. Dec. 1, 1998) ###
 
@@ -1494,7 +1498,7 @@ The Appellate Rules Committee also made stylistic changes to the Note's first an
 
 ### Rule 13. Appeals from the Tax Court ###
 
-(a) Appeal as of Right.
+(a) Appeal as of Right.	
 
 (1) *How Obtained; Time for Filing a Notice of Appeal.*
 
@@ -1548,7 +1552,7 @@ The amendment to subdivision (a)(2) will allow an appellant to send a notice of 
 
 #### References in Text ####
 
-Section 7502 of the Internal Revenue Code, referred to in subd. (b), is classified to section 112 of Title 26, Internal Revenue Code.
+The Internal Revenue Code, referred to in subd. (a)(2), is classified to Title 26, Internal Revenue Code.
 
 ### Rule 14. Applicability of Other Rules to Appeals from the Tax Court ###
 
@@ -2082,7 +2086,7 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (4) *Clerk's Refusal of Documents.* The clerk must not refuse to accept for filing any paper presented for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice.
 
-(5) *Privacy Protection.* An appeal in a case whose privacy protection was governed by Federal Rule of Bankruptcy Procedure 9037, Federal Rule of Civil Procedure 5.2, or Federal Rule of Criminal Procedure 49.1 is governed by the same rule on appeal. In all other proceedings, privacy protection is governed by Federal Rule of Civil Procedure 5.2, except that Federal Rule of Criminal Procedure 49.1 governs when an extraordinary writ is sought in a criminal case.
+(5) *Privacy Protection.* An appeal in a case whose privacy protection was governed by Federal Rule of Bankruptcy Procedure 9037, Federal Rule of Civil Procedure 5.2, or Federal Rule of Criminal Procedure 49.1 is governed by the same rule on appeal. In all other proceedings, privacy protection is governed by Federal Rule of Civil Procedure 5.2, except that Federal Rule of Criminal Procedure 49.1 governs when an extraordinary writ is sought in a criminal case. The provisions on remote electronic access in Federal Rule of Civil Procedure 5.2(c)(1) and (2) apply in a petition for review of a benefits decision of the Railroad Retirement Board under the Railroad Retirement Act.
 
 (b) Service of All Papers Required. Unless a rule requires service by the clerk, a party must, at or before the time of filing a paper, serve a copy on the other parties to the appeal or review. Service on a party represented by counsel must be made on the party's counsel.
 
@@ -2122,7 +2126,7 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (e) Number of Copies. When these rules require the filing or furnishing of a number of copies, a court may require a different number by local rule or by order in a particular case.
 
-(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2232,6 +2236,10 @@ The amendments conform Rule 25 to the amendments to Federal Rule of Civil Proced
 
 The amendment conforms Rule 25 to other federal rules regarding proof of service. As amended, subdivision (d) eliminates the requirement of proof of service or acknowledgment of service when service is made through a court's electronic-filing system. The notice of electronic filing generated by the court's system serves that purpose.
 
+#### Committee Notes on Rules—2022 Amendment ####
+
+There are close parallels between the Social Security Act and the Railroad Retirement Act. One difference, however, is that judicial review in Social Security cases is initiated in the district courts, while judicial review in Railroad Retirement cases is initiated directly in the courts of appeals. Federal Rule of Civil Procedure 5.2 protects privacy in Social Security cases by limiting remote electronic access. The amendment extends those protections to Railroad Retirement cases.
+
 #### References in Text ####
 
 The Federal Rules of Bankruptcy Procedure, referred to in subd. (a)(5), are set out in the Appendix to Title 11, Bankruptcy.
@@ -2239,6 +2247,8 @@ The Federal Rules of Bankruptcy Procedure, referred to in subd. (a)(5), are set 
 The Federal Rules of Civil Procedure, referred to in subd. (a)(5), are set out in this Appendix.
 
 The Federal Rules of Criminal Procedure, referred to in subd. (a)(5), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+The Railroad Retirement Act, referred to in subd. (a)(5), probably means the Railroad Retirement Act of 1974, which is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 [<sup>1</sup> At its June 15–16, 2005, meeting, the Standing Rules Committee with the concurrence of the advisory committee chair agreed to set out the "reasonable exception" clause as a separate sentence in the rule, consistent with drafting conventions of the Style Project.](#Rule_25_1)
 
@@ -4051,9 +4061,19 @@ The reference in prior subdivision (d)(2)(D) to the *filing* of a copy of the Su
 
 (a) Dismissal in the District Court. Before an appeal has been docketed by the circuit clerk, the district court may dismiss the appeal on the filing of a stipulation signed by all parties or on the appellant's motion with notice to all parties.
 
-(b) Dismissal in the Court of Appeals. The circuit clerk may dismiss a docketed appeal if the parties file a signed dismissal agreement specifying how costs are to be paid and pay any fees that are due. But no mandate or other process may issue without a court order. An appeal may be dismissed on the appellant's motion on terms agreed to by the parties or fixed by the court.
+(b) Dismissal in the Court of Appeals.
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998.)
+(1) *Stipulated Dismissal.* The circuit clerk must dismiss a docketed appeal if the parties file a signed dismissal agreement specifying how costs are to be paid and pay any court fees that are due.
+
+(2) *Appellant's Motion to Dismiss.* An appeal may be dismissed on the appellant's motion on terms agreed to by the parties or fixed by the court.
+
+(3) *Other Relief.* A court order is required for any relief under Rule 42(b)(1) or (2) beyond the dismissal of an appeal—including approving a settlement, vacating an action of the district court or an administrative agency, or remanding the case to either of them.
+
+(c) Court Approval. This Rule 42 does not alter the legal requirements governing court approval of a settlement, payment, or other consideration.
+
+(d) Criminal Cases. A court may, by local rule, impose requirements to confirm that a defendant has consented to the dismissal of an appeal in a criminal case.
+
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -4064,6 +4084,14 @@ The reference in prior subdivision (d)(2)(D) to the *filing* of a copy of the Su
 #### Committee Notes on Rules—1998 Amendment ####
 
 The language of the rule is amended to make the rule more easily understood. In addition to changes made to improve the understanding, the Advisory Committee has changed language to make style and terminology consistent throughout the appellate rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The amendment restores the requirement, in effect prior to the restyling of the Federal Rules of Appellate Procedure, that the circuit clerk dismiss an appeal if all parties so agree. It also clarifies that the fees that must be paid are court fees, not attorney's fees. The rule does not alter the legal requirements governing court approval of a settlement, payment, or other consideration. *See, e.g.*, Fed. R. Civ. P. 23(e) (requiring district court approval).
+
+The amendment replaces old terminology and clarifies that any relief beyond dismissal of an appeal—including approving a settlement, vacating, or remanding—requires a court order. Pursuant to Rule 20, Rule 42(b) applies to petitions for review and applications to enforce an agency order. For Rule 42(b) to function in such cases, "appeal" should be understood to include a petition for review or application to enforce an agency order.
+
+The amendment permits local rules that impose requirements to confirm that a defendant has consented to the dismissal of an appeal in a criminal case.
 
 ### Rule 43. Substitution of Parties ###
 
@@ -4301,7 +4329,7 @@ v.
 
 C. D., Defendant
 
-\_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the final judgment entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (state the date the judgment was entered).
+\_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the final judgment entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(state the date the judgment was entered).
 
 (s)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4345,7 +4373,7 @@ C. D., Defendant
 
 ### Form 2. Notice of Appeal to a Court of Appeals From a Decision of the United States Tax Court ###
 
-### UNITED STATES TAX COURT ###
+### United States Tax Court ###
 
 ### Washington, D.C. ###
 
@@ -4491,20 +4519,16 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
 
 (As added Apr. 28, 2016, eff. Dec. 1, 2016.)
 
-#### Length Limits ####
-
-Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is set out in the order of the Supreme Court amending the Federal Rules of Appellate Procedure, April 28, 2016, available at the Supreme Court website.
-
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to December 1, 2021)
+(As amended to December 1, 2022)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 11, 2022, eff. Dec. 1, 2022.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -4745,6 +4769,26 @@ E. Actions in Rem and Quasi in Rem: General Provisions.
 F. Limitation of Liability.
 
 G. Forfeiture Actions in Rem.
+
+#### SUPPLEMENTAL RULES FOR SOCIAL SECURITY ACTIONS UNDER 42 U.S.C. §405(g) ####
+
+Rule
+
+1. Review of Social Security Decisions Under 42 U.S.C. §405(g).
+
+2. Complaint.
+
+3. Service.
+
+4. Answer; Motions; Time.
+
+5. Presenting the Action for Decision.
+
+6. Plaintiff's Brief.
+
+7. Commissioner's Brief.
+
+8. Reply Brief.
 
 #### References to Equity Rules ####
 
@@ -6512,19 +6556,27 @@ Former Rule 7(c) is deleted because it has done its work. If a motion or pleadin
 
 ### Rule 7.1. Disclosure Statement ###
 
-(a) Who Must File; Contents. A nongovernmental corporate party must file 2 copies of a disclosure statement that:
+(a) Who Must File; Contents.
 
-(1) identifies any parent corporation and any publicly held corporation owning 10% or more of its stock; or
+(1) *Nongovernmental Corporations.* A nongovernmental corporate party or a nongovernmental corporation that seeks to intervene must file a statement that:
 
-(2) states that there is no such corporation.
+(A) identifies any parent corporation and any publicly held corporation owning 10% or more of its stock; or
 
-(b) Time to File; Supplemental Filing. A party must:
+(B) states that there is no such corporation.
+
+(2) *Parties or Intervenors in a Diversity Case.* In an action in which jurisdiction is based on diversity under 28 U.S.C. §1332(a), a party or intervenor must, unless the court orders otherwise, file a disclosure statement. The statement must name—and identify the citizenship of—every individual or entity whose citizenship is attributed to that party or intervenor:
+
+(A) when the action is filed in or removed to federal court, and
+
+(B) when any later event occurs that could affect the court's jurisdiction under §1332(a).
+
+(b) Time to File; Supplemental Filing. A party, intervenor, or proposed intervenor must:
 
 (1) file the disclosure statement with its first appearance, pleading, petition, motion, response, or other request addressed to the court; and
 
 (2) promptly file a supplemental statement if any required information changes.
 
-(As added Apr. 29, 2002, eff. Dec. 1, 2002; amended Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As added Apr. 29, 2002, eff. Dec. 1, 2002; amended Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Committee Notes on Rules—2002 ####
 
@@ -6539,6 +6591,24 @@ Rule 7.1 does not prohibit local rules that require disclosures in addition to t
 #### Committee Notes on Rules—2007 Amendment ####
 
 The language of Rule 7.1 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+*Rule 7.1(a)(1).* Rule 7.1 is amended to require a disclosure statement by a nongovernmental corporation that seeks to intervene. This amendment conforms Rule 7.1 to similar recent amendments to Appellate Rule 26.1 and Bankruptcy Rule 8012(a).
+
+*Rule 7.1(a)(2).* Rule 7.1 is further amended to require a party or intervenor in an action in which jurisdiction is based on diversity under 28 U.S.C. §1332(a) to name and disclose the citizenship of every individual or entity whose citizenship is attributed to that party or intervenor. The disclosure does not relieve a party that asserts diversity jurisdiction from the Rule 8(a)(1) obligation to plead the grounds for jurisdiction, but is designed to facilitate an early and accurate determination of jurisdiction.
+
+Two examples of attributed citizenship are provided by §1332(c)(1) and (2), addressing direct actions against liability insurers and actions that include as parties a legal representative of the estate of a decedent, an infant, or an incompetent. Identifying citizenship in such actions is not likely to be difficult, and ordinarily should be pleaded in the complaint. But many examples of attributed citizenship arise from noncorporate entities that sue or are sued as an entity. A familiar example is a limited liability company, which takes on the citizenship of each of its owners. A party suing an LLC may not have all the information it needs to plead the LLC's citizenship. The same difficulty may arise with respect to other forms of noncorporate entities, some of them familiar—such as partnerships and limited partnerships—and some of them more exotic, such as "joint ventures." Pleading on information and belief is acceptable at the pleading stage, but disclosure is necessary both to ensure that diversity jurisdiction exists and to protect against the waste that may occur upon belated discovery of a diversity-destroying citizenship. Disclosure is required by a plaintiff as well as all other parties and intervenors.
+
+What counts as an "entity" for purposes of Rule 7.1 is shaped by the need to determine whether the court has diversity jurisdiction under §1332(a). It does not matter whether a collection of individuals is recognized as an entity for any other purpose, such as the capacity to sue or be sued in a common name, or is treated as no more than a collection of individuals for all other purposes. Every citizenship that is attributable to a party or intervenor must be disclosed.
+
+Discovery should not often be necessary after disclosures are made. But discovery may be appropriate to test jurisdictional facts by inquiring into such matters as the completeness of a disclosure's list of persons or the accuracy of their described citizenships. This rule does not address the questions that may arise when a disclosure statement or discovery responses indicate that the party or intervenor cannot ascertain the citizenship of every individual or entity whose citizenship may be attributed to it.
+
+The rule recognizes that the court may limit the disclosure in appropriate circumstances. Disclosure might be cut short when a party reveals a citizenship that defeats diversity jurisdiction. Or the names of identified persons might be protected against disclosure to other parties when there are substantial interests in privacy and when there is no apparent need to support discovery by other parties to go behind the disclosure.
+
+Disclosure is limited to individuals and entities whose citizenship is attributed to a party or intervenor. The rules that govern attribution, and the time that controls the determination of complete diversity, are matters of subject-matter jurisdiction that this rule does not address. A supplemental statement is required if an event occurs after initial filing in federal court or removal to it that requires a determination of citizenships as they exist at a time after the initial filing or removal.
+
+*Rule 7.1(b).* Rule 7.1(b) is amended to reflect the provisions in Rule 7.1(a) that extend the disclosure obligation to proposed intervenors and intervenors.
 
 ### Rule 8. General Rules of Pleading ###
 
@@ -16687,10 +16757,148 @@ Changes were made in the Committee Note to explain some of the rule text revisio
 
 The times set in the former rule at 20 days have been revised to 21 days. See the Note to Rule 6.
 
+### SUPPLEMENTAL RULES FOR SOCIAL SECURITY ACTIONS UNDER 42 U.S.C. §405(g) <sup><a href="#I_1_target" name="I_1">1</a></sup> ###
+
+[<sup>1</sup> Title is set out as presented for Congressional review; see House Document 117–110. Title appears as "Supplemental Rules for Social Security Review Actions Under 42 U.S.C. §405(g)" in the order of the Supreme Court, April 11, 2022, adopting these rules.](#I_1)
+
+### Rule 1. Review of Social Security Decisions Under 42 U.S.C. §405(g) ###
+
+(a) Applicability of These Rules. These rules govern an action under 42 U.S.C. §405(g) for review on the record of a final decision of the Commissioner of Social Security that presents only an individual claim.
+
+(b) Federal Rules of Civil Procedure. The Federal Rules of Civil Procedure also apply to a proceeding under these rules, except to the extent that they are inconsistent with these rules.
+
+(As added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### Codification ####
+
+For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
+
+### Rule 2. Complaint ###
+
+(a) Commencing Action. An action for review under these rules is commenced by filing a complaint with the court.
+
+(b) Contents.
+
+(1) The complaint must:
+
+(A) state that the action is brought under §405(g);
+
+(B) identify the final decision to be reviewed, including any identifying designation provided by the Commissioner with the final decision;
+
+(C) state the name and the county of residence of the person for whom benefits are claimed;
+
+(D) name the person on whose wage record benefits are claimed; and
+
+(E) state the type of benefits claimed.
+
+(2) The complaint may include a short and plain statement of the grounds for relief.
+
+(As added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### Codification ####
+
+For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
+
+### Rule 3. Service ###
+
+The court must notify the Commissioner of the commencement of the action by transmitting a Notice of Electronic Filing to the appropriate office within the Social Security Administration's Office of General Counsel and to the United States Attorney for the district where the action is filed. If the complaint was not filed electronically, the court must notify the plaintiff of the transmission. The plaintiff need not serve a summons and complaint under Civil Rule 4.
+
+(As added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### References in Text ####
+
+Civil Rule 4, referred to in text, probably means Rule 4 of the Federal Rules of Civil Procedure, which is set out in this Appendix.
+
+#### Codification ####
+
+For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
+
+### Rule 4. Answer; Motions; Time ###
+
+(a) Serving the Answer. An answer must be served on the plaintiff within 60 days after notice of the action is given under Rule 3.
+
+(b) The Answer. An answer may be limited to a certified copy of the administrative record, and to any affirmative defenses under Civil Rule 8(c). Civil Rule 8(b) does not apply.
+
+(c) Motions Under Civil Rule 12. A motion under Civil Rule 12 must be made within 60 days after notice of the action is given under Rule 3.
+
+(d) Time to Answer After a Motion Under Rule 4(c). Unless the court sets a different time, serving a motion under Rule 4(c) alters the time to answer as provided by Civil Rule 12(a)(4).
+
+(As added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### References in Text ####
+
+Civil Rules, referred to in subds. (b) to (d), probably means the Federal Rules of Civil Procedure, which is set out in this Appendix.
+
+#### Codification ####
+
+For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
+
+### Rule 5. Presenting the Action for Decision ###
+
+The action is presented for decision by the parties' briefs. A brief must support assertions of fact by citations to particular parts of the record.
+
+(As added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### Codification ####
+
+For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
+
+### Rule 6. Plaintiff's Brief ###
+
+The plaintiff must file and serve on the Commissioner a brief for the requested relief within 30 days after the answer is filed or 30 days after entry of an order disposing of the last remaining motion filed under Rule 4(c), whichever is later.
+
+(As added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### Codification ####
+
+For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
+
+### Rule 7. Commissioner's Brief ###
+
+The Commissioner must file a brief and serve it on the plaintiff within 30 days after service of the plaintiff's brief.
+
+(As added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### Codification ####
+
+For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
+
+### Rule 8. Reply Brief ###
+
+The plaintiff may file a reply brief and serve it on the Commissioner within 14 days after service of the Commissioner's brief.
+
+(As added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### Committee Notes on Rules—2022 ####
+
+Actions to review a final decision of the Commissioner of Social Security under 42 U.S.C. §405(g) have been governed by the Civil Rules. These Supplemental Rules, however, establish a simplified procedure that recognizes the essentially appellate character of actions that seek only review of an individual's claims on a single administrative record, including a single claim based on the wage record of one person for an award to be shared by more than one person. These rules apply only to final decisions actually made by the Commissioner of Social Security. They do not apply to actions against another agency under a statute that adopts §405(g) by considering the head of the other agency to be the Commissioner. There is not enough experience with such actions to determine whether they should be brought into the simplified procedures contemplated by these rules. But a court can employ these procedures on its own if they seem useful, apart from the Rule 3 provision for service on the Commissioner.
+
+Some actions may plead a claim for review under §405(g) but also join more than one plaintiff, or add a defendant or a claim for relief beyond review on the administrative record. Such actions fall outside these Supplemental Rules and are governed by the Civil Rules alone.
+
+The Civil Rules continue to apply to actions for review under §405(g) except to the extent that the Civil Rules are inconsistent with these Supplemental Rules. Supplemental Rules 2, 3, 4, and 5 are the core of the provisions that are inconsistent with, and supersede, the corresponding rules on pleading, service, and presenting the action for decision.
+
+These Supplemental Rules establish a uniform procedure for pleading and serving the complaint; for answering and making motions under Rule 12; and for presenting the action for decision by briefs. These procedures reflect the ways in which a civil action under §405(g) resembles an appeal or a petition for review of administrative action filed directly in a court of appeals.
+
+Supplemental Rule 2 adopts the procedure of Civil Rule 3, which directs that a civil action be commenced by filing a complaint with the court. In an action that seeks only review on the administrative record, however, the complaint is similar to a notice of appeal. Simplified pleading is often desirable. Jurisdiction is pleaded under Rule 2(b)(1)(A) by identifying the action as one brought under §405(g). The Social Security Administration can ensure that the plaintiff is able to identify the administrative proceeding and record in a way that enables prompt response by providing an identifying designation with the final decision. In current practice, this designation is called the Beneficiary Notice Control Number. The elements of the claim for review are adequately pleaded under Rule 2(b)(1)(B), (C), (D), and (E). Failure to plead all the matters described in Rule 2(b)(1)(B), (C), (D), and (E), moreover, should be cured by leave to amend, not dismissal. Rule 2(b)(2), however, permits a plaintiff to plead more than Rule 2(b)(1) requires.
+
+Rule 3 provides a means for giving notice of the action that supersedes Civil Rule 4(i)(2). The Notice of Electronic Filing sent by the court suffices for service, so long as it provides a means of electronic access to the complaint. Notice to the Commissioner is sent to the appropriate office. The plaintiff need not serve a summons and complaint under Civil Rule 4.
+
+Rule 4's provisions for the answer build from this part of §405(g): "As part of the Commissioner's answer the Commissioner of Social Security shall file a certified copy of the transcript of the record including the evidence upon which the findings and decision complained of are made." <sup><a href="#Rule_8_1_target" name="Rule_8_1">1</a></sup> In addition to filing the record, the Commissioner must plead any affirmative defenses under Civil Rule 8(c). Civil Rule 8(b) does not apply, but the Commissioner is free to answer any allegations that the Commissioner may wish to address in the pleadings.
+
+The time to answer or to file a motion under Civil Rule 12 is set at 60 days after notice of the action is given under Rule 3. If a timely motion is made under Civil Rule 12, the time to answer is governed by Civil Rule 12(a)(4) unless the court sets a different time.
+
+Rule 5 states the procedure for presenting for decision on the merits a §405(g) review action that is governed by the Supplemental Rules. Like an appeal, the briefs present the action for decision on the merits. This procedure displaces summary judgment or such devices as a joint statement of facts as the means of review on the administrative record. Rule 5 also displaces local rules or practices that are inconsistent with the simplified procedure established by these Supplemental Rules for treating the action as one for review on the administrative record.
+
+All briefs are similar to appellate briefs, citing to the parts of the administrative record that support an assertion that the final decision is not supported by substantial evidence or is contrary to law.
+
+Rules 6, 7, and 8 set the times for serving the briefs: 30 days after the answer is filed or 30 days after entry of an order disposing of the last remaining motion filed under Rule 4(c) for the plaintiff's brief, 30 days after service of the plaintiff's brief for the Commissioner's brief, and 14 days after service of the Commissioner's brief for a reply brief. The court may revise these times when appropriate.
+
+[<sup>1</sup> So in House Document 117–110. Substitution of "based" for "made" to conform with 42 U.S.C. §405(g) was not presented for Congressional review.](#Rule_8_1)
+
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to December 1, 2021)
+(As amended to December 1, 2022)
 
 #### Effective Date and Application of Rules ####
 

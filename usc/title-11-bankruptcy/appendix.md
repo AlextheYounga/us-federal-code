@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to December 1, 2021)
+(Effective August 1, 1983, as amended to December 1, 2022)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022.
 
 Rule
 
@@ -60,7 +60,7 @@ Rule
 
 1019. Conversion of a Chapter 11 Reorganization Case, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case to a Chapter 7 Liquidation Case.
 
-1020. Small Business Chapter 11 Reorganization Case.
+1020. Chapter 11 Reorganization Case for Small Business Debtors.
 
 1021. Health Care Business Case.
 
@@ -122,7 +122,7 @@ Rule
 
 3002. Filing Proof of Claim or Interest.
 
-3002.1 Notice Relating to Claims Secured by Security Interest in the Debtor's Principal Residence.
+3002.1. Notice Relating to Claims Secured by Security Interest in the Debtor's Principal Residence.
 
 3003. Filing Proof of Claim or Equity Security Interest in Chapter 9 Municipality or Chapter 11 Reorganization Cases.
 
@@ -138,9 +138,9 @@ Rule
 
 3009. Declaration and Payment of Dividends in a Chapter 7 Liquidation Case.
 
-3010. Small Dividends and Payments in Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, and Chapter 13 Individual's Debt Adjustment Cases.
+3010. Small Dividends and Payments in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13.
 
-3011. Unclaimed Funds in Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, and Chapter 13 Individual's Debt Adjustment Cases.
+3011. Unclaimed Funds in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13.
 
 3012. Determining the Amount of Secured and Priority Claims.
 
@@ -156,7 +156,9 @@ Rule
 
 3017. Court Consideration of Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case.
 
-3017.1. Court Consideration of Disclosure Statement in a Small Business Case.
+3017.1. Court Consideration of Disclosure Statement in a Small Business Case or in a Case Under Subchapter V of Chapter 11.
+
+3017.2. Fixing of Dates by the Court in Subchapter V Cases in Which There Is No Disclosure Statement.
 
 3018. Acceptance or Rejection of Plan in a Chapter 9 Municipality or a Chapter 11 Reorganization Case.
 
@@ -790,7 +792,7 @@ Subdivision (b)(1) is amended to clarify that an individual debtor's voluntary p
 
 (4) Unless §707(b)(2)(D) applies, an individual debtor in a chapter 7 case shall file a statement of current monthly income prepared as prescribed by the appropriate Official Form, and, if the current monthly income exceeds the median family income for the applicable state and household size, the information, including calculations, required by §707(b), prepared as prescribed by the appropriate Official Form.
 
-(5) An individual debtor in a chapter 11 case shall file a statement of current monthly income, prepared as prescribed by the appropriate Official Form.
+(5) An individual debtor in a chapter 11 case (unless under subchapter V) shall file a statement of current monthly income, prepared as prescribed by the appropriate Official Form.
 
 (6) A debtor in a chapter 13 case shall file a statement of current monthly income, prepared as prescribed by the appropriate Official Form, and, if the current monthly income exceeds the median family income for the applicable state and household size, a calculation of disposable income made in accordance with §1325(b)(3), prepared as prescribed by the appropriate Official Form.
 
@@ -812,7 +814,11 @@ Subdivision (b)(1) is amended to clarify that an individual debtor's voluntary p
 
 (g) Partnership and Partners. The general partners of a debtor partnership shall prepare and file the list required under subdivision (a), schedules of the assets and liabilities, schedule of current income and expenditures, schedule of executory contracts and unexpired leases, and statement of financial affairs of the partnership. The court may order any general partner to file a statement of personal assets and liabilities within such time as the court may fix.
 
-(h) Interests Acquired or Arising After Petition. If, as provided by §541(a)(5) of the Code, the debtor acquires or becomes entitled to acquire any interest in property, the debtor shall within 14 days after the information comes to the debtor's knowledge or within such further time the court may allow, file a supplemental schedule in the chapter 7 liquidation case, chapter 11 reorganization case, chapter 12 family farmer's debt adjustment case, or chapter 13 individual debt adjustment case. If any of the property required to be reported under this subdivision is claimed by the debtor as exempt, the debtor shall claim the exemptions in the supplemental schedule. The duty to file a supplemental schedule in accordance with this subdivision continues notwithstanding the closing of the case, except that the schedule need not be filed in a chapter 11, chapter 12, or chapter 13 case with respect to property acquired after entry of the order confirming a chapter 11 plan or discharging the debtor in a chapter 12 or chapter 13 case.
+(h) Interests Acquired or Arising After Petition. If, as provided by §541(a)(5) of the Code, the debtor acquires or becomes entitled to acquire any interest in property, the debtor shall within 14 days after the information comes to the debtor's knowledge or within such further time the court may allow, file a supplemental schedule in the chapter 7 liquidation case, chapter 11 reorganization case, chapter 12 family farmer's debt adjustment case, or chapter 13 individual debt adjustment case. If any of the property required to be reported under this subdivision is claimed by the debtor as exempt, the debtor shall claim the exemptions in the supplemental schedule. This duty to file a supplemental schedule continues even after the case is closed, except for property acquired after an order is entered:
+
+(1) confirming a chapter 11 plan (other than one confirmed under §1191(b)); or
+
+(2) discharging the debtor in a chapter 12 case, a chapter 13 case, or a case under subchapter V of chapter 11 in which the plan is confirmed under §1191(b).
 
 (i) Disclosure of List of Security Holders. After notice and hearing and for cause shown, the court may direct an entity other than the debtor or trustee to disclose any list of security holders of the debtor in its possession or under its control, indicating the name, address and security held by any of them. The entity possessing this list may be required either to produce the list or a true copy thereof, or permit inspection or copying, or otherwise disclose the information contained on the list.
 
@@ -824,7 +830,7 @@ Subdivision (b)(1) is amended to clarify that an individual debtor's voluntary p
 
 (m) Infants and Incompetent Persons. If the debtor knows that a person on the list of creditors or schedules is an infant or incompetent person, the debtor also shall include the name, address, and legal relationship of any person upon whom process would be served in an adversary proceeding against the infant or incompetent person in accordance with Rule 7004(b)(2).
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 29, 2015, eff. Dec. 1, 2015.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -979,6 +985,12 @@ Subdivision (b)(7) is amended to relieve an individual debtor of the obligation 
 #### Committee Notes on Rules—2015 Amendment ####
 
 In subdivisions (a)(1) and (a)(2), the references to Schedules are amended to reflect the new designations adopted as part of the Forms Modernization Project.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. As amended, subdivision (b)(5) of the rule includes an exception for subchapter V cases. Because Code §1129(a)(15) is inapplicable to such cases, there is no need for an individual debtor in a subchapter V case to file a statement of current monthly income.
+
+Subdivision (h) is amended to provide that the duty to file a supplemental schedule under the rule terminates upon confirmation of the plan in a subchapter V case, unless the plan is confirmed under §1191(b), in which case it terminates upon discharge as provided in §1192.
 
 [<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_1007_1)
 
@@ -1616,17 +1628,15 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 [<sup>1</sup> So in original. Probably should be "Rule".](#Rule_1019_1)
 
-### Rule 1020. Small Business Chapter 11 Reorganization Case ###
+### Rule 1020. Chapter 11 Reorganization Case for Small Business Debtors ###
 
-(a) Small Business Debtor Designation. In a voluntary chapter 11 case, the debtor shall state in the petition whether the debtor is a small business debtor. In an involuntary chapter 11 case, the debtor shall file within 14 days after entry of the order for relief a statement as to whether the debtor is a small business debtor. Except as provided in subdivision (c), the status of the case as a small business case shall be in accordance with the debtor's statement under this subdivision, unless and until the court enters an order finding that the debtor's statement is incorrect.
+(a) Small Business Debtor Designation. In a voluntary chapter 11 case, the debtor shall state in the petition whether the debtor is a small business debtor and, if so, whether the debtor elects to have subchapter V of chapter 11 apply. In an involuntary chapter 11 case, the debtor shall file within 14 days after entry of the order for relief a statement as to whether the debtor is a small business debtor and, if so, whether the debtor elects to have subchapter V of chapter 11 apply. The status of the case as a small business case or a case under subchapter V of chapter 11 shall be in accordance with the debtor's statement under this subdivision, unless and until the court enters an order finding that the debtor's statement is incorrect.
 
-(b) Objecting to Designation. Except as provided in subdivision (c), the United States trustee or a party in interest may file an objection to the debtor's statement under subdivision (a) no later than 30 days after the conclusion of the meeting of creditors held under §341(a) of the Code, or within 30 days after any amendment to the statement, whichever is later.
+(b) Objecting to Designation. The United States trustee or a party in interest may file an objection to the debtor's statement under subdivision (a) no later than 30 days after the conclusion of the meeting of creditors held under §341(a) of the Code, or within 30 days after any amendment to the statement, whichever is later.
 
-(c) Appointment of Committee of Unsecured Creditors. If a committee of unsecured creditors has been appointed under §1102(a)(1), the case shall proceed as a small business case only if, and from the time when, the court enters an order determining that the committee has not been sufficiently active and representative to provide effective oversight of the debtor and that the debtor satisfies all the other requirements for being a small business. A request for a determination under this subdivision may be filed by the United States trustee or a party in interest only within a reasonable time after the failure of the committee to be sufficiently active and representative. The debtor may file a request for a determination at any time as to whether the committee has been sufficiently active and representative.
+(c) Procedure for Objection or Determination. Any objection or request for a determination under this rule shall be governed by Rule 9014 and served on: the debtor; the debtor's attorney; the United States trustee; the trustee; the creditors included on the list filed under Rule 1007(d) or, if a committee has been appointed under §1102(a)(3), the committee or its authorized agent; and any other entity as the court directs.
 
-(d) Procedure for Objection or Determination. Any objection or request for a determination under this rule shall be governed by Rule 9014 and served on: the debtor; the debtor's attorney; the United States trustee; the trustee; any committee appointed under §1102 or its authorized agent, or, if no committee of unsecured creditors has been appointed under §1102, the creditors included on the list filed under Rule 1007(d); and any other entity as the court directs.
-
-(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1997 ####
 
@@ -1657,6 +1667,14 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 20-day periods become 21-day periods
 
 • 25-day periods become 28-day periods
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019 (SBRA), Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. The title and subdivision (a) of the rule are amended to include that option and to require a small business debtor to state in its voluntary petition, or in a statement filed within 14 days after the order for relief is entered in an involuntary case, whether it elects to proceed under subchapter V. The rule does not address whether the court, on a case-by-case basis, may allow a debtor to make an election to proceed under subchapter V after the times specified in subdivision (a) or, if it can, under what conditions.
+
+Former subdivision (c) of the rule is deleted because the existence or level of activity of a creditors' committee is no longer a criterion for small-business-debtor status. The SBRA eliminated that portion of the definition of "small business debtor" in §101(51D) of the Code.
+
+Former subdivision (d) is redesignated as subdivision (c), and the list of entities to be served is revised to reflect that in most small business and subchapter V cases there will not be a committee of creditors.
 
 ### Rule 1021. Health Care Business Case ###
 
@@ -2524,15 +2542,15 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 ### Rule 2009. Trustees for Estates When Joint Administration Ordered ###
 
-(a) Election of Single Trustee for Estates Being Jointly Administered. If the court orders a joint administration of two or more estates under Rule 1015(b), creditors may elect a single trustee for the estates being jointly administered, unless the case is under subchapter V of chapter 7 of the Code.
+(a) Election of Single Trustee for Estates Being Jointly Administered. If the court orders a joint administration of two or more estates under Rule 1015(b), creditors may elect a single trustee for the estates being jointly administered, unless the case is under subchapter V of chapter 7 or subchapter V of chapter 11 of the Code.
 
-(b) Right of Creditors To Elect Separate Trustee. Notwithstanding entry of an order for joint administration under Rule 1015(b), the creditors of any debtor may elect a separate trustee for the estate of the debtor as provided in §702 of the Code, unless the case is under subchapter V of chapter 7.
+(b) Right of Creditors To Elect Separate Trustee. Notwithstanding entry of an order for joint administration under Rule 1015(b), the creditors of any debtor may elect a separate trustee for the estate of the debtor as provided in §702 of the Code, unless the case is under subchapter V of chapter 7 or subchapter V of chapter 11 of the Code.
 
 (c) Appointment of Trustees for Estates Being Jointly Administered.
 
 (1) *Chapter 7 Liquidation Cases*. Except in a case governed by subchapter V of chapter 7, the United States trustee may appoint one or more interim trustees for estates being jointly administered in chapter 7 cases.
 
-(2) *Chapter 11 Reorganization Cases*. If the appointment of a trustee is ordered, the United States trustee may appoint one or more trustees for estates being jointly administered in chapter 11 cases.
+(2) *Chapter 11 Reorganization Cases*. If the appointment of a trustee is ordered or is required by the Code, the United States trustee may appoint one or more trustees for estates being jointly administered in chapter 11 cases.
 
 (3) *Chapter 12 Family Farmer's Debt Adjustment Cases*. The United States trustee may appoint one or more trustees for estates being jointly administered in chapter 12 cases.
 
@@ -2542,7 +2560,7 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 (e) Separate Accounts. The trustee or trustees of estates being jointly administered shall keep separate accounts of the property and distribution of each estate.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2569,6 +2587,10 @@ The rule is amended to reflect the enactment of subchapter V of chapter 7 of the
 Other amendments are stylistic.
 
 *Changes Made After Publication and Comments*. No changes since publication.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. In a case under that subchapter, §1183 of the Code requires the United States trustee to appoint a trustee, so there will be no election. Accordingly, subdivisions (a) and (b) of the rule are amended to except cases under subchapter V from their coverage. Subdivision (c)(2), which addresses the appointment of trustees in jointly administered chapter 11 cases, is amended to make it applicable to cases under subchapter V.
 
 ### Rule 2010. Qualification by Trustee; Proceeding on Bond ###
 
@@ -2614,11 +2636,11 @@ This rule is amended to provide a procedure for proving that a trustee has quali
 
 ### Rule 2012. Substitution of Trustee or Successor Trustee; Accounting ###
 
-(a) Trustee. If a trustee is appointed in a chapter 11 case or the debtor is removed as debtor in possession in a chapter 12 case, the trustee is substituted automatically for the debtor in possession as a party in any pending action, proceeding, or matter.
+(a) Trustee. If a trustee is appointed in a chapter 11 case (other than under subchapter V), or the debtor is removed as debtor in possession in a chapter 12 case or in a case under subchapter V of chapter 11, the trustee is substituted automatically for the debtor in possession as a party in any pending action, proceeding, or matter.
 
 (b) Successor Trustee. When a trustee dies, resigns, is removed, or otherwise ceases to hold office during the pendency of a case under the Code (1) the successor is automatically substituted as a party in any pending action, proceeding, or matter; and (2) the successor trustee shall prepare, file, and transmit to the United States trustee an accounting of the prior administration of the estate.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2637,6 +2659,10 @@ The original provisions of the rule are now in subdivision (b).
 *Subdivision (a)* is amended to include any chapter 12 case in which the debtor is removed as debtor in possession pursuant to §1204(a) of the Code.
 
 *Subdivision (b)* is amended to require that the accounting of the prior administration which must be filed with the court is also transmitted to the United States trustee who is responsible for supervising the administration of cases and trustees. See 28 U.S.C. §586(a)(3). Because a court order is not required for the appointment of a successor trustee, requiring the court to fix a time for filing the accounting is inefficient and unnecessary. The United States trustee has supervisory powers over trustees and may require the successor trustee to file the accounting within a certain time period. If the successor trustee fails to file the accounting within a reasonable time, the United States trustee or a party in interest may take appropriate steps including a request for an appropriate court order. See 28 U.S.C. §586(a)(3)(G). The words "with the court" are deleted in subdivision (b)(2) as unnecessary. See Rules 5005(a) and 9001(3).
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Subdivision (a) of the rule is amended to include any case under that subchapter in which the debtor is removed as debtor in possession under §1185 of the Code.
 
 ### Rule 2013. Public Record of Compensation Awarded to Trustees, Examiners, and Professionals ###
 
@@ -2698,7 +2724,7 @@ The United States trustee appoints committees pursuant to §1102 of the Code whi
 
 (a) Trustee or Debtor in Possession. A trustee or debtor in possession shall:
 
-(1) in a chapter 7 liquidation case and, if the court directs, in a chapter 11 reorganization case file and transmit to the United States trustee a complete inventory of the property of the debtor within 30 days after qualifying as a trustee or debtor in possession, unless such an inventory has already been filed;
+(1) in a chapter 7 liquidation case and, if the court directs, in a chapter 11 reorganization case (other than under subchapter V), file and transmit to the United States trustee a complete inventory of the property of the debtor within 30 days after qualifying as a trustee or debtor in possession, unless such an inventory has already been filed;
 
 (2) keep a record of receipts and the disposition of money and property received;
 
@@ -2706,23 +2732,25 @@ The United States trustee appoints committees pursuant to §1102 of the Code whi
 
 (4) as soon as possible after the commencement of the case, give notice of the case to every entity known to be holding money or property subject to withdrawal or order of the debtor, including every bank, savings or building and loan association, public utility company, and landlord with whom the debtor has a deposit, and to every insurance company which has issued a policy having a cash surrender value payable to the debtor, except that notice need not be given to any entity who has knowledge or has previously been notified of the case;
 
-(5) in a chapter 11 reorganization case, on or before the last day of the month after each calendar quarter during which there is a duty to pay fees under 28 U.S.C. §1930(a)(6), file and transmit to the United States trustee a statement of any disbursements made during that quarter and of any fees payable under 28 U.S.C. §1930(a)(6) for that quarter; and
+(5) in a chapter 11 reorganization case (other than under subchapter V), on or before the last day of the month after each calendar quarter during which there is a duty to pay fees under 28 U.S.C. §1930(a)(6), file and transmit to the United States trustee a statement of any disbursements made during that quarter and of any fees payable under 28 U.S.C. §1930(a)(6) for that quarter; and
 
 (6) in a chapter 11 small business case, unless the court, for cause, sets another reporting interval, file and transmit to the United States trustee for each calendar month after the order for relief, on the appropriate Official Form, the report required by §308. If the order for relief is within the first 15 days of a calendar month, a report shall be filed for the portion of the month that follows the order for relief. If the order for relief is after the 15th day of a calendar month, the period for the remainder of the month shall be included in the report for the next calendar month. Each report shall be filed no later than 21 days after the last day of the calendar month following the month covered by the report. The obligation to file reports under this subparagraph terminates on the effective date of the plan, or conversion or dismissal of the case.
 
-(b) Chapter 12 Trustee and Debtor in Possession. In a chapter 12 family farmer's debt adjustment case, the debtor in possession shall perform the duties prescribed in clauses (2)–(4) of subdivision (a) of this rule and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the property of the debtor within the time fixed by the court. If the debtor is removed as debtor in possession, the trustee shall perform the duties of the debtor in possession prescribed in this paragraph.
+(b) Trustee, Debtor in Possession, and Debtor in a Case Under Subchapter V of Chapter 11. In a case under subchapter V of chapter 11, the debtor in possession shall perform the duties prescribed in (a)(2)–(4) and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the debtor's property within the time fixed by the court. If the debtor is removed as debtor in possession, the trustee shall perform the duties of the debtor in possession prescribed in this subdivision (b). The debtor shall perform the duties prescribed in (a)(6).
 
-(c) Chapter 13 Trustee and Debtor.
+(c) Chapter 12 Trustee and Debtor in Possession. In a chapter 12 family farmer's debt adjustment case, the debtor in possession shall perform the duties prescribed in clauses (2)–(4) of subdivision (a) of this rule and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the property of the debtor within the time fixed by the court. If the debtor is removed as debtor in possession, the trustee shall perform the duties of the debtor in possession prescribed in this subdivision (c).
+
+(d) Chapter 13 Trustee and Debtor.
 
 (1) *Business Cases*. In a chapter 13 individual's debt adjustment case, when the debtor is engaged in business, the debtor shall perform the duties prescribed by clauses (2)–(4) of subdivision (a) of this rule and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the property of the debtor within the time fixed by the court.
 
 (2) *Nonbusiness Cases*. In a chapter 13 individual's debt adjustment case, when the debtor is not engaged in business, the trustee shall perform the duties prescribed by clause (2) of subdivision (a) of this rule.
 
-(d) Foreign Representative. In a case in which the court has granted recognition of a foreign proceeding under chapter 15, the foreign representative shall file any notice required under §1518 of the Code within 14 days after the date when the representative becomes aware of the subsequent information.
+(e) Foreign Representative. In a case in which the court has granted recognition of a foreign proceeding under chapter 15, the foreign representative shall file any notice required under §1518 of the Code within 14 days after the date when the representative becomes aware of the subsequent information.
 
-(e) Transmission of Reports. In a chapter 11 case the court may direct that copies or summaries of annual reports and copies or summaries of other reports shall be mailed to the creditors, equity security holders, and indenture trustees. The court may also direct the publication of summaries of any such reports. A copy of every report or summary mailed or published pursuant to this subdivision shall be transmitted to the United States trustee.
+(f) Transmission of Reports. In a chapter 11 case the court may direct that copies or summaries of annual reports and copies or summaries of other reports shall be mailed to the creditors, equity security holders, and indenture trustees. The court may also direct the publication of summaries of any such reports. A copy of every report or summary mailed or published pursuant to this subdivision shall be transmitted to the United States trustee.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 23, 2012, eff. Dec. 1, 2012.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2797,6 +2825,12 @@ The rule is amended to implement changes in connection with the amendment to Rul
 #### Committee Notes on Rules—2012 Amendment ####
 
 *Subdivision (a)(3)*. Subdivision (a)(3) is amended to correct the reference to §704. The 2005 amendments to the Code expanded §704 and created subsections within it. The provision that was previously §704(8) became §704(a)(8). The other change to (a)(3) is stylistic.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Subdivision (b) is amended to prescribe the duties of a debtor in possession, trustee, and debtor in a subchapter V case. Those cases are excepted from subdivision (a) because, unlike other chapter 11 cases, there will generally be both a trustee and a debtor in possession. Subdivision (b) also reflects that §1187 of the Code prescribes reporting duties for the debtor in a subchapter V case.
+
+Former subdivisions (b), (c), (d), and (e) are redesignated (c), (d), (e), and (f)[,] respectively.
 
 ### Rule 2015.1. Patient Care Ombudsman ###
 
@@ -3332,11 +3366,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (5) If notice of insufficient assets to pay a dividend was given to creditors under Rule 2002(e), and subsequently the trustee notifies the court that payment of a dividend appears possible, the clerk shall give at least 90 days' notice by mail to creditors of that fact and of the date by which proofs of claim must be filed.
 
-(6) On motion filed by a creditor before or after the expiration of the time to file a proof of claim, the court may extend the time by not more than 60 days from the date of the order granting the motion. The motion may be granted if the court finds that:
-
-(A) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim because the debtor failed to timely file the list of creditors' names and addresses required by Rule 1007(a); or
-
-(B) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim, and the notice was mailed to the creditor at a foreign address.
+(6) On motion filed by a creditor before or after the expiration of the time to file a proof of claim, the court may extend the time by not more than 60 days from the date of the order granting the motion. The motion may be granted if the court finds that the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim.
 
 (7) A proof of claim filed by the holder of a claim that is secured by a security interest in the debtor's principal residence is timely filed if:
 
@@ -3344,7 +3374,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (B) any attachments required by Rule 3001(c)(1) and (d) are filed as a supplement to the holder's claim not later than 120 days after the order for relief is entered.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3413,6 +3443,10 @@ Subdivision (c) is amended to alter the calculation of the bar date for proofs o
 Subdivision (c)(6) is amended to expand the exception to the bar date for cases in which a creditor received insufficient notice of the time to file a proof of claim. The amendment provides that the court may extend the time to file a proof of claim if the debtor fails to file a timely list of names and addresses of creditors as required by Rule 1007(a). The amendment also clarifies that if a court grants a creditor's motion under this rule to extend the time to file a proof of claim, the extension runs from the date of the court's decision on the motion.
 
 Subdivision (c)(7) is added to provide a two-stage deadline for filing mortgage proofs of claim secured by an interest in the debtor's principal residence. Those proofs of claim must be filed with the appropriate Official Form mortgage attachment within 70 days of the order for relief. The claim will be timely if any additional documents evidencing the claim, as required by Rule 3001(c)(1) and (d), are filed within 120 days of the order for relief. The order for relief is the commencement of the case upon filing a petition, except in an involuntary case. See §301 and §303(h). The confirmation of a plan within the 120-day period set forth in subdivision (c)(7)(B) does not prohibit an objection to any proof of claim.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+Rule 3002(c)(6) is amended to provide a single standard for granting motions for an extension of time to file a proof of claim, whether the creditor has a domestic address or a foreign address. If the notice to such creditor was "insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim," the court may grant an extension.
 
 ### Rule 3002.1. Notice Relating to Claims Secured by Security Interest in the Debtor's Principal Residence ###
 
@@ -3772,13 +3806,13 @@ The rule does not permit variance at local option. This represents a marked chan
 
 This rule is amended to delete the requirement that the court approve the amounts and times of distributions in chapter 7 cases. This change recognizes the role of the United States trustee in supervising trustees. Other amendments are stylistic and make no substantive change.
 
-### Rule 3010. Small Dividends and Payments in Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, and Chapter 13 Individual's Debt Adjustment Cases ###
+### Rule 3010. Small Dividends and Payments in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13 ###
 
 (a) Chapter 7 Cases. In a chapter 7 case no dividend in an amount less than $5 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Any dividend not distributed to a creditor shall be treated in the same manner as unclaimed funds as provided in §347 of the Code.
 
-(b) Chapter 12 and Chapter 13 Cases. In a chapter 12 or chapter 13 case no payment in an amount less than $15 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Funds not distributed because of this subdivision shall accumulate and shall be paid whenever the accumulation aggregates $15. Any funds remaining shall be distributed with the final payment.
+(b) Cases Under Subchapter V of Chapter 11, Chapter 12, and Chapter 13. In a case under subchapter V of chapter 11, chapter 12, or chapter 13, no payment in an amount less than $15 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Funds not distributed because of this subdivision shall accumulate and shall be paid whenever the accumulation aggregates $15. Any funds remaining shall be distributed with the final payment.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3788,11 +3822,15 @@ This rule permits a court to eliminate the disproportionate expense and inconven
 
 *Subdivision (b)* is amended to include chapter 12 cases.
 
-### Rule 3011. Unclaimed Funds in Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, and Chapter 13 Individual's Debt Adjustment Cases ###
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. To avoid the undue cost and inconvenience of distributing small payments, the title and subdivision (b) are amended to include subchapter V cases.
+
+### Rule 3011. Unclaimed Funds in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13 ###
 
 The trustee shall file a list of all known names and addresses of the entities and the amounts which they are entitled to be paid from remaining property of the estate that is paid into court pursuant to §347(a) of the Code.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3801,6 +3839,10 @@ This rule is derived from former Bankruptcy Rule 310. The operative provisions o
 #### Notes of Advisory Committee on Rules—1991 Amendment ####
 
 The title of this rule is amended to include chapter 12 cases. The words "with the clerk" are deleted as unnecessary. See Rules 5005(a) and 9001(3).
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. The rule is amended to include such cases because §347(a) of the Code applies to them.
 
 ### Rule 3012. Determining the Amount of Secured and Priority Claims ###
 
@@ -3848,9 +3890,9 @@ This rule is amended to include chapter 12 cases.
 
 ### Rule 3014. Election Under §1111(b) by Secured Creditor in Chapter 9 Municipality or Chapter 11 Reorganization Case ###
 
-An election of application of §1111(b)(2) of the Code by a class of secured creditors in a chapter 9 or 11 case may be made at any time prior to the conclusion of the hearing on the disclosure statement or within such later time as the court may fix. If the disclosure statement is conditionally approved pursuant to Rule 3017.1, and a final hearing on the disclosure statement is not held, the election of application of §1111(b)(2) may be made not later than the date fixed pursuant to Rule 3017.1(a)(2) or another date the court may fix. The election shall be in writing and signed unless made at the hearing on the disclosure statement. The election, if made by the majorities required by §1111(b)(1)(A)(i), shall be binding on all members of the class with respect to the plan.
+An election of application of §1111(b)(2) of the Code by a class of secured creditors in a chapter 9 or 11 case may be made at any time prior to the conclusion of the hearing on the disclosure statement or within such later time as the court may fix. If the disclosure statement is conditionally approved pursuant to Rule 3017.1, and a final hearing on the disclosure statement is not held, the election of application of §1111(b)(2) may be made not later than the date fixed pursuant to Rule 3017.1(a)(2) or another date the court may fix. In a case under subchapter V of chapter 11 in which §1125 of the Code does not apply, the election may be made not later than a date the court may fix. The election shall be in writing and signed unless made at the hearing on the disclosure statement. The election, if made by the majorities required by §1111(b)(1)(A)(i), shall be binding on all members of the class with respect to the plan.
 
-(As amended Apr. 11, 1997, eff. Dec. 1, 1997.)
+(As amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3867,6 +3909,10 @@ While this rule and the Code refer to a class of secured creditors it should be 
 This amendment provides a deadline for electing application of §1111(b)(2) in a small business case in which a conditionally approved disclosure statement is finally approved without a hearing.
 
 *GAP Report on Rule 3014*. No changes to the published draft.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Because there generally will not be a disclosure statement in a subchapter V case, *see* §1181(b) of the Code, the rule is amended to provide a deadline for making an election under §1111(b) in such cases that is set by the court.
 
 ### Rule 3015. Filing, Objection to Confirmation, Effect of Confirmation, and Modification of a Plan in a Chapter 12 or a Chapter 13 Case ###
 
@@ -3992,13 +4038,13 @@ The last paragraph of a Local Form must be for the inclusion of any nonstandard 
 
 (a) Identification of Plan. Every proposed plan and any modification thereof shall be dated and, in a chapter 11 case, identified with the name of the entity or entities submitting or filing it.
 
-(b) Disclosure Statement. In a chapter 9 or 11 case, a disclosure statement under §1125 of the Code or evidence showing compliance with §1126(b) shall be filed with the plan or within a time fixed by the court, unless the plan is intended to provide adequate information under §1125(f)(1). If the plan is intended to provide adequate information under §1125(f)(1), it shall be so designated and Rule 3017.1 shall apply as if the plan is a disclosure statement.
+(b) Disclosure Statement. In a chapter 9 or 11 case, a disclosure statement, if required under §1125 of the Code, or evidence showing compliance with §1126(b) shall be filed with the plan or within a time fixed by the court, unless the plan is intended to provide adequate information under §1125(f)(1). If the plan is intended to provide adequate information under §1125(f)(1), it shall be so designated, and Rule 3017.1 shall apply as if the plan is a disclosure statement.
 
 (c) Injunction Under a Plan. If a plan provides for an injunction against conduct not otherwise enjoined under the Code, the plan and disclosure statement shall describe in specific and conspicuous language (bold, italic, or underlined text) all acts to be enjoined and identify the entities that would be subject to the injunction.
 
-(d) Standard Form Small Business Disclosure Statement and Plan. In a small business case, the court may approve a disclosure statement and may confirm a plan that conform substantially to the appropriate Official Forms or other standard forms approved by the court.
+(d) Standard Form Small Business Disclosure Statement and Plan. In a small business case or a case under subchapter V of chapter 11, the court may approve a disclosure statement and may confirm a plan that conform substantially to the appropriate Official Forms or other standard forms approved by the court.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4047,6 +4093,10 @@ Subdivision (d) is added to the rule to implement §433 of the Bankruptcy Abuse 
 Other amendments are stylistic.
 
 *Changes Made After Publication*. No changes were made after publication.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Subdivision (b) of the rule is amended to reflect that under §1181(b) of the Code, §1125 does not apply to subchapter V cases (and thus a disclosure statement is not required) unless the court for cause orders otherwise. Subdivision (d) is amended to include subchapter V cases as ones in which Official Forms are available for a reorganization plan and, when required, a disclosure statement.
 
 ### Rule 3017. Court Consideration of Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case ###
 
@@ -4144,9 +4194,9 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 [<sup>1</sup> So in original. The comma probably should not appear.](#Rule_3017_1)
 
-### Rule 3017.1. Court Consideration of Disclosure Statement in a Small Business Case ###
+### Rule 3017.1. Court Consideration of Disclosure Statement in a Small Business Case or in a Case Under Subchapter V of Chapter 11 ###
 
-(a) Conditional Approval of Disclosure Statement. In a small business case, the court may, on application of the plan proponent or on its own initiative, conditionally approve a disclosure statement filed in accordance with Rule 3016. On or before conditional approval of the disclosure statement, the court shall:
+(a) Conditional Approval of Disclosure Statement. In a small business case or in a case under subchapter V of chapter 11 in which the court has ordered that §1125 applies, the court may, on application of the plan proponent or on its own initiative, conditionally approve a disclosure statement filed in accordance with Rule 3016. On or before conditional approval of the disclosure statement, the court shall:
 
 (1) fix a time within which the holders of claims and interests may accept or reject the plan;
 
@@ -4166,7 +4216,7 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 (3) *Hearing*. If a timely objection to the disclosure statement is filed, the court shall hold a hearing to consider final approval before or combined with the hearing on confirmation of the plan.
 
-(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008.)
+(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1997 ####
 
@@ -4184,9 +4234,31 @@ As provided in the amendment to Rule 3016(b), a plan intended to provide adequat
 
 *Changes Made After Publication*. No changes were made after publication.
 
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. The title and subdivision (a) of the rule are amended to cover such cases when the court orders that §1125 of the Code applies.
+
+### Rule 3017.2. Fixing of Dates by the Court in Subchapter V Cases in Which There Is No Disclosure Statement ###
+
+In a case under subchapter V of chapter 11 in which §1125 does not apply, the court shall:
+
+(a) fix a time within which the holders of claims and interests may accept or reject the plan;
+
+(b) fix a date on which an equity security holder or creditor whose claim is based on a security must be the holder of record of the security in order to be eligible to accept or reject the plan;
+
+(c) fix a date for the hearing on confirmation; and
+
+(d) fix a date for transmitting the plan, notice of the time within which the holders of claims and interests may accept or reject it, and notice of the date for the hearing on confirmation.
+
+(Added Apr. 11, 2022, eff. Dec. 1, 2022.)
+
+#### Committee Notes on Rules—2022 ####
+
+The rule is added in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Because there generally will not be a disclosure statement in a subchapter V case, *see* §1181(b) of the Code, the rule is added to authorize the court in such a case to act at a time other than when a disclosure statement is approved to set certain times and dates.
+
 ### Rule 3018. Acceptance or Rejection of Plan in a Chapter 9 Municipality or a Chapter 11 Reorganization Case ###
 
-(a) Entities Entitled To Accept or Reject Plan; Time for Acceptance or Rejection. A plan may be accepted or rejected in accordance with §1126 of the Code within the time fixed by the court pursuant to Rule 3017. Subject to subdivision (b) of this rule, an equity security holder or creditor whose claim is based on a security of record shall not be entitled to accept or reject a plan unless the equity security holder or creditor is the holder of record of the security on the date the order approving the disclosure statement is entered or on another date fixed by the court, for cause, after notice and a hearing. For cause shown, the court after notice and hearing may permit a creditor or equity security holder to change or withdraw an acceptance or rejection. Notwithstanding objection to a claim or interest, the court after notice and hearing may temporarily allow the claim or interest in an amount which the court deems proper for the purpose of accepting or rejecting a plan.
+(a) Entities Entitled To Accept or Reject Plan; Time for Acceptance or Rejection. A plan may be accepted or rejected in accordance with §1126 of the Code within the time fixed by the court pursuant to Rule 3017, 3017.1, or 3017.2. Subject to subdivision (b) of this rule, an equity security holder or creditor whose claim is based on a security of record shall not be entitled to accept or reject a plan unless the equity security holder or creditor is the holder of record of the security on the date the order approving the disclosure statement is entered or on another date fixed by the court under Rule 3017.2, or fixed for cause after notice and a hearing. For cause shown, the court after notice and hearing may permit a creditor or equity security holder to change or withdraw an acceptance or rejection. Notwithstanding objection to a claim or interest, the court after notice and hearing may temporarily allow the claim or interest in an amount which the court deems proper for the purpose of accepting or rejecting a plan.
 
 (b) Acceptances or Rejections Obtained Before Petition. An equity security holder or creditor whose claim is based on a security of record who accepted or rejected the plan before the commencement of the case shall not be deemed to have accepted or rejected the plan pursuant to §1126(b) of the Code unless the equity security holder or creditor was the holder of record of the security on the date specified in the solicitation of such acceptance or rejection for the purposes of such solicitation. A holder of a claim or interest who has accepted or rejected a plan before the commencement of the case under the Code shall not be deemed to have accepted or rejected the plan if the court finds after notice and hearing that the plan was not transmitted to substantially all creditors and equity security holders of the same class, that an unreasonably short time was prescribed for such creditors and equity security holders to accept or reject the plan, or that the solicitation was not in compliance with §1126(b) of the Code.
 
@@ -4194,7 +4266,7 @@ As provided in the amendment to Rule 3016(b), a plan intended to provide adequat
 
 (d) Acceptance or Rejection by Partially Secured Creditor. A creditor whose claim has been allowed in part as a secured claim and in part as an unsecured claim shall be entitled to accept or reject a plan in both capacities.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4236,13 +4308,19 @@ If the court fixes the record date for voting purposes, the judge also should or
 
 *GAP Report on Rule 3018*. No changes to the published draft.
 
+#### Committee Notes on Rules—2022 Amendment ####
+
+Subdivision (a) of the rule is amended to take account of the court's authority to set times under Rules 3017.1 and 3017.2 in small business cases and cases under subchapter V of chapter 11.
+
 ### Rule 3019. Modification of Accepted Plan in a Chapter 9 Municipality or a Chapter 11 Reorganization Case ###
 
 (a) Modification of Plan Before Confirmation. In a chapter 9 or chapter 11 case, after a plan has been accepted and before its confirmation, the proponent may file a modification of the plan. If the court finds after hearing on notice to the trustee, any committee appointed under the Code, and any other entity designated by the court that the proposed modification does not adversely change the treatment of the claim of any creditor or the interest of any equity security holder who has not accepted in writing the modification, it shall be deemed accepted by all creditors and equity security holders who have previously accepted the plan.
 
 (b) Modification of Plan After Confirmation in Individual Debtor Case. If the debtor is an individual, a request to modify the plan under §1127(e) of the Code is governed by Rule 9014. The request shall identify the proponent and shall be filed together with the proposed modification. The clerk, or some other person as the court may direct, shall give the debtor, the trustee, and all creditors not less than 21 days' notice by mail of the time fixed to file objections and, if an objection is filed, the hearing to consider the proposed modification, unless the court orders otherwise with respect to creditors who are not affected by the proposed modification. A copy of the notice shall be transmitted to the United States trustee, together with a copy of the proposed modification. Any objection to the proposed modification shall be filed and served on the debtor, the proponent of the modification, the trustee, and any other entity designated by the court, and shall be transmitted to the United States trustee.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(c) Modification of Plan After Confirmation in a Subchapter V Case. In a case under subchapter V of chapter 11, a request to modify the plan under §1193(b) or (c) of the Code is governed by Rule 9014, and the provisions of this Rule 3019(b) apply.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4271,6 +4349,10 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 20-day periods become 21-day periods
 
 • 25-day periods become 28-day periods
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Subdivision (c) is added to the rule to govern requests to modify a plan after confirmation in such cases under §1193(b) or (c) of the Code.
 
 ### Rule 3020. Deposit; Confirmation of Plan in a Chapter 9 Municipality or Chapter 11 Reorganization Case ###
 
@@ -5180,7 +5262,7 @@ The rule is amended to be gender neutral. The bankruptcy judge before whom the m
 
 (1) *Place of Filing*. The lists, schedules, statements, proofs of claim or interest, complaints, motions, applications, objections and other papers required to be filed by these rules, except as provided in 28 U.S.C. §1409, shall be filed with the clerk in the district where the case under the Code is pending. The judge of that court may permit the papers to be filed with the judge, in which event the filing date shall be noted thereon, and they shall be forthwith transmitted to the clerk. The clerk shall not refuse to accept for filing any petition or other paper presented for the purpose of filing solely because it is not presented in proper form as required by these rules or any local rules or practices.
 
-(2) *Electronic Filing and Signing*.
+(2) *Electronic Filing and Signing.*
 
 (A) *By a Represented Entity—Generally Required; Exceptions*. An entity represented by an attorney shall file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
 
@@ -5196,15 +5278,15 @@ The rule is amended to be gender neutral. The bankruptcy judge before whom the m
 
 (b) Transmittal to the United States Trustee.
 
-(1) The complaints, motions, applications, objections and other papers required to be transmitted to the United States trustee by these rules shall be mailed or delivered to an office of the United States trustee, or to another place designated by the United States trustee, in the district where the case under the Code is pending.
+(1) The complaints, notices, motions, applications, objections and other papers required to be transmitted to the United States trustee may be sent by filing with the court's electronic-filing system in accordance with Rule 9036, unless a court order or local rule provides otherwise.
 
-(2) The entity, other than the clerk, transmitting a paper to the United States trustee shall promptly file as proof of such transmittal a verified statement identifying the paper and stating the date on which it was transmitted to the United States trustee.
+(2) The entity, other than the clerk, transmitting a paper to the United States trustee other than through the court's electronic-filing system shall promptly file as proof of such transmittal a statement identifying the paper and stating the manner by which and the date on which it was transmitted to the United States trustee.
 
 (3) Nothing in these rules shall require the clerk to transmit any paper to the United States trustee if the United States trustee requests in writing that the paper not be transmitted.
 
 (c) Error in Filing or Transmittal. A paper intended to be filed with the clerk but erroneously delivered to the United States trustee, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the clerk of the bankruptcy court. A paper intended to be transmitted to the United States trustee but erroneously delivered to the clerk, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the United States trustee. In the interest of justice, the court may order that a paper erroneously delivered shall be deemed filed with the clerk or transmitted to the United States trustee as of the date of its original delivery.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2018, eff. Dec. 1, 2018.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5265,6 +5347,10 @@ Electronic filing has matured. Most districts have adopted local rules that requ
 Filings by an individual not represented by an attorney are treated separately. It is not yet possible to rely on an assumption that pro se litigants are generally able to seize the advantages of electronic filing. Encounters with the court's system may prove overwhelming to some. Attempts to work within the system may generate substantial burdens on a pro se party, on other parties, and on the court. Rather than mandate electronic filing, filing by pro se litigants is left for governing by local rules or court order. Efficiently handled electronic filing works to the advantage of all parties and the court. Many courts now allow electronic filing by pro se litigants with the court's permission. Such approaches may expand with growing experience in these and other courts, along with the growing availability of the systems required for electronic filing and the increasing familiarity of most people with electronic communication. Room is also left for a court to require electronic filing by a pro se litigant by court order or by local rule. Care should be taken to ensure that an order to file electronically does not impede access to the court, and reasonable exceptions must be included in a local rule that requires electronic filing by a pro se litigant.
 
 A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature. A person's electronic-filing account means an account established by the court for use of the court's electronic-filing system, which account the person accesses with the user name and password (or other credentials) issued to that person by the court.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+Subdivision (b)(1) is amended to authorize the clerk or parties to transmit papers to the United States trustee by electronic means in accordance with Rule 9036, regardless of whether the United States trustee is a registered user with the court's electronic-filing system. Subdivision (b)(2) is amended to recognize that parties meeting transmittal obligations to the United States trustee using the court's electronic-filing system need not file a statement evidencing transmittal under Rule 5005(b)(2). The amendment to subdivision (b)(2) also eliminates the requirement that statements evidencing transmittal filed under Rule 5005(b)(2) be verified.
 
 #### References in Text ####
 
@@ -5980,7 +6066,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (3) the institution has waived in writing its entitlement to service by certified mail by designating an officer to receive service.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 26, 2018, eff. Dec. 1, 2018.)
+(i) Service of Process by Title. This subdivision (i) applies to service on a domestic or foreign corporation or partnership or other unincorporated association under Rule 7004(b)(3) or on an officer of an insured depository institution under Rule 7004(h). The defendant's officer or agent need not be correctly named in the address—or even be named—if the envelope is addressed to the defendant's proper address and directed to the attention of the officer's or agent's position or title.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6133,6 +6221,10 @@ Subdivision (e) is amended to alter the period of time during which service of t
 #### Committee Notes on Rules—2018 Amendment ####
 
 In 1996, Rule 7004(a) was amended to incorporate by reference F.R.Civ.P. 4(d)(1). Civil Rule 4(d)(1) addresses the effect of a defendant's waiver of service. In 2007, Civil Rule 4 was amended, and the language of old Civil Rule 4(d)(1) was modified and renumbered as Civil Rule 4(d)(5). Accordingly, Rule 7004(a) is amended to update the cross-reference to Civil Rule 4.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+New Rule 7004(i) is intended to reject those cases interpreting Rule 7004(b)(3) and Rule 7004(h) to require service on a named officer, managing or general agent or other agent, rather than use of their titles. Service to a corporation or partnership, unincorporated association or insured depository institution at its proper address directed to the attention of the "Chief Executive Officer," "President," "Officer for Receiving Service of Process," "Managing Agent," "General Agent," "Officer," or "Agent for Receiving Service of Process" (or other similar titles) is sufficient.
 
 #### References in Text ####
 
@@ -8366,9 +8458,15 @@ Page limits are retained for papers prepared without the aid of a computer (i.e.
 
 ### Rule 8023. Voluntary Dismissal ###
 
-The clerk of the district court or BAP must dismiss an appeal if the parties file a signed dismissal agreement specifying how costs are to be paid and pay any fees that are due. An appeal may be dismissed on the appellant's motion on terms agreed to by the parties or fixed by the district court or BAP.
+(a) Stipulated Dismissal. The clerk of the district court or BAP must dismiss an appeal if the parties file a signed dismissal agreement specifying how costs are to be paid and pay any court fees that are due.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(b) Appellant's Motion to Dismiss. An appeal may be dismissed on the appellant's motion on terms agreed to by the parties or fixed by the district court or BAP.
+
+(c) Other Relief. A court order is required for any relief under Rule 8023(a) or (b) beyond the dismissal of an appeal—including approving a settlement, vacating an action of the bankruptcy court, or remanding the case to it.
+
+(d) Court Approval. This rule does not alter the legal requirements governing court approval of a settlement, payment, or other consideration.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 11, 2022, eff. Dec. 1, 2022.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8377,6 +8475,10 @@ This rule is derived from former Rule 8001(c) and F.R.App.P. 42. The provision o
 The rule retains the provision of the former rule that the district or BAP clerk must dismiss an appeal upon the parties' agreement. District courts and BAPs continue to have discretion to dismiss an appeal on an appellant's motion. Nothing in the rule prohibits a district court or BAP from dismissing an appeal for other reasons authorized by law, such as the failure to prosecute an appeal.	
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2022 Amendment ####
+
+The amendment is intended to conform the rule to the revised version of Appellate Rule 42(b) on which it was modelled. It clarifies that the fees that must be paid are court fees, not attorney's fees. The rule does not alter the legal requirements governing court approval of a settlement, payment, or other consideration. *See, e.g.*, Fed. R. Bankr. P. 9019 (requiring court approval of compromise or settlement). The amendment clarifies that any order beyond mere dismissal—including approving a settlement, vacating or remanding—requires a court order.
 
 ### Rule 8024. Clerk's Duties on Disposition of the Appeal ###
 
