@@ -4,9 +4,13 @@ Electric power and energy generated at reservoir projects under the control of t
 
 (Dec. 22, 1944, ch. 665, §5, 58 Stat. 890; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 95–91, title III, §§301(b), 302(a)(1), Aug. 4, 1977, 91 Stat. 578.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
@@ -18,10 +22,14 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Functions of Secretary of the Interior under this section transferred to Secretary of Energy by section 7152(a)(1) of Title 42.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
-
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 #### Section as Unaffected by Submerged Lands Act ####
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act [43 U.S.C. 1301 et seq.], see section 1303 of Title 43, Public Lands.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.

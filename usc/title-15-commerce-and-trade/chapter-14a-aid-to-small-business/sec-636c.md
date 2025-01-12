@@ -4,6 +4,8 @@ In the administration of any Federal disaster loan program under the authority o
 
 (Pub. L. 91–606, title II, §235, Dec. 31, 1970, 84 Stat. 1754.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 636a of this title, referred to in text, was repealed by Pub. L. 97–35, title XIX, §1917, Aug. 13, 1981, 95 Stat. 781.
@@ -15,6 +17,8 @@ Section 233 of Public Law 91–606, referred to in text, amended section 1820(a)
 #### Codification ####
 
 Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act which comprises this chapter. Section was formerly classified to section 4454 of Title 42, The Public Health and Welfare.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -22,6 +22,8 @@ The authority provided to the Secretary for the establishment and maintenance of
 
 (Aug. 11, 1916, ch. 313, pt. B, §21, as added Pub. L. 100–518, §2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §109, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(g), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, §7, Dec. 11, 2020, 134 Stat. 1050.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, the date of enactment of Pub. L. 100–518.
@@ -45,6 +47,8 @@ Subsec. (e). Pub. L. 116–216, §7(2), substituted "2025" for "2020".
 **1993**—Subsec. (a). Pub. L. 103–156, §13(b)(1), struck out "(1)" before "Not later than" and struck out par. (2) which read as follows: "To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under section 87i of this title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title."
 
 Subsec. (e). Pub. L. 103–156, §14(c), added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2000 Amendment ####
 

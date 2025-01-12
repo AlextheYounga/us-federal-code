@@ -18,6 +18,8 @@ The Corporation shall determine its own system of administrative accounts and th
 
 (May 18, 1933, ch. 32, §9, 48 Stat. 63; Aug. 31, 1935, ch. 836, §14, 49 Stat. 1080; Nov. 21, 1941, ch. 485, 55 Stat. 775; Aug. 30, 1954, ch. 1076, §1 (32), 68 Stat. 968; Pub. L. 93–356, §5, July 25, 1974, 88 Stat. 390; Pub. L. 94–273, §5(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–191, §9(d), Dec. 1, 1983, 97 Stat. 1332; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. C, title VI, §603(a)(2), (b), Dec. 8, 2004, 118 Stat. 2966.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (c), "sections 3526(a) and 3702(a) of title 31" substituted for "section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 (42 Stat. 24 [31 U.S.C. 71])" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -43,6 +45,8 @@ Subsecs. (c), (d). Pub. L. 108–447, §603(b), designated second and third pars
 **1941**—Subsec. (b). Act Nov. 21, 1941, inserted last paragraph and last sentence of next to last paragraph.
 
 **1935**—Subsec. (b). Act Aug. 31, 1935, amended subsec. (b) generally.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

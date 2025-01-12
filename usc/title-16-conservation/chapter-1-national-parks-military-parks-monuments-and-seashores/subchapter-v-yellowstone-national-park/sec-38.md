@@ -4,6 +4,8 @@ The Secretary of Agriculture is authorized in his discretion to accept, on behal
 
 (May 26, 1926, ch. 399, §2, 44 Stat. 655; Pub. L. 86–509, §1(f), June 11, 1960, 74 Stat. 205.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 Functions of Secretary of the Interior under this section, with respect to exchanges of lands held in private or State ownership for national forest lands or timber in Montana, transferred to Secretary of Agriculture, see Pub. L. 86–509, June 11, 1960, 74 Stat. 205, set out as a note under section 2201 of Title 7, Agriculture.

@@ -86,9 +86,13 @@ Not later than 3 years after the date on which funds are first made available to
 
 (Pub. L. 116–9, title II, §2102, Mar. 12, 2019, 133 Stat. 724.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of act June 14, 1934, which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definition of "Secretary" ####
 

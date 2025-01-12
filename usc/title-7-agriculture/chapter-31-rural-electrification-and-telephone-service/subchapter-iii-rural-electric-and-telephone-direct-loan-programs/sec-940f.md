@@ -46,6 +46,8 @@ The borrower shall pay the fee required under this section at the time the exist
 
 (May 20, 1936, ch. 432, title III, §316, as added Pub. L. 109–97, title VII, §774, Nov. 10, 2005, 119 Stat. 2160.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.

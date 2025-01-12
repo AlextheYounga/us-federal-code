@@ -50,6 +50,8 @@ All hearings, investigations, and proceedings under this chapter shall be govern
 
 (June 21, 1938, ch. 556, §15, 52 Stat. 829; Pub. L. 109–58, title III, §313(a), Aug. 8, 2005, 119 Stat. 688.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.

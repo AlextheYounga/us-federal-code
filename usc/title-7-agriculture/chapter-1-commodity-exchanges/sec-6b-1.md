@@ -38,9 +38,13 @@ If the prudential regulator does not initiate an enforcement proceeding before t
 
 (Sept. 21, 1922, ch. 369, §4b–1, as added Pub. L. 111–203, title VII, §741(a), July 21, 2010, 124 Stat. 1729.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subtitle A of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a), is subtitle A (§§711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of this title and subchapter I (§8301 et seq.) of chapter 109 and section 78c–2 of Title 15, Commerce and Trade, amended sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of this title, section 761 of Title 11, Bankruptcy, sections 4421 and 4422 of Title 12, Banks and Banking, and sections 78f, 78o, and 78s of Title 15, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of this title, and amended provisions set out as a note under section 78c of Title 15. For complete classification of subtitle A to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -4,6 +4,8 @@ The Secretary may make such rules, regulations, and orders as may be necessary t
 
 (June 10, 1930, ch. 436, §15, 46 Stat. 537; June 15, 1950, ch. 254, §3, 64 Stat. 218.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 565 of this title.

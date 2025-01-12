@@ -22,6 +22,8 @@ The Secretary shall prepare a map of the lands included within the park. Such ma
 
 (Pub. L. 100–479, §2, Oct. 7, 1988, 102 Stat. 2324; Pub. L. 101–399, §1(a), Sept. 28, 1990, 104 Stat. 860.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (c), "section 100506(c) of title 54" substituted for "section 7(c) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–4 [sic] and following)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

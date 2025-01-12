@@ -44,6 +44,8 @@ Nothing in this subsection may be construed to limit or suspend any other rulema
 
 (Pub. L. 111–203, title IX, §939F, July 21, 2010, 124 Stat. 1889.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 3(a)(77) of the Securities Exchange Act of 1934, referred to in subsec. (a), was redesignated section 3(a)(79) of that Act by Pub. L. 112–106, title I, §101(b)(1), Apr. 5, 2012, 126 Stat. 307, and is classified to section 78c(a)(79) of this title.
@@ -57,6 +59,8 @@ H.R. 4173, referred to in subsec. (d)(1), became Pub. L. 111–203. As enacted, 
 #### Codification ####
 
 Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

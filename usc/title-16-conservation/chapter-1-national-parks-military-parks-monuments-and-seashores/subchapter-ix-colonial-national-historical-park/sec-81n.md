@@ -4,6 +4,8 @@ The Secretary is further authorized to transfer without compensation up to fifte
 
 (Mar. 29, 1956, ch. 105, §2, 70 Stat. 62.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.

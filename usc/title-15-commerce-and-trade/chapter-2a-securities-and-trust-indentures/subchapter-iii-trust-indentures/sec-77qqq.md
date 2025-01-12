@@ -10,6 +10,8 @@
 
 (May 27, 1933, ch. 38, title III, §317, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; amended Pub. L. 101–550, title IV, §416, Nov. 15, 1990, 104 Stat. 2731; Pub. L. 111–203, title IX, §985(c)(2), July 21, 2010, 124 Stat. 1934.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (a)(1). Pub. L. 111–203 substituted "(1) in the" for "(1) , in the".
@@ -17,6 +19,8 @@
 **1990**—Subsec. (a). Pub. L. 101–550, §416(1)–(3), in introductory provisions, substituted "trustee shall be authorized" for "to be qualified shall contain provisions", in par. (1) struck out "authorizing the indenture trustee" after the paragraph designation, and in par. (2) struck out "authorizing such trustee" after the paragraph designation.
 
 Subsec. (b). Pub. L. 101–550, §416(4), substituted "Each" for "The indenture to be qualified shall provide that each".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

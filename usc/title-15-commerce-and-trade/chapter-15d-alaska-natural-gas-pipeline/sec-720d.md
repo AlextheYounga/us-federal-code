@@ -122,6 +122,8 @@ The Federal Coordinator is authorized to use, without further appropriation, amo
 
 (Pub. L. 108–324, div. C, §106, Oct. 13, 2004, 118 Stat. 1259; Pub. L. 109–148, div. A, title VIII, §8128, Dec. 30, 2005, 119 Stat. 2731; Pub. L. 110–140, title VIII, §802, Dec. 19, 2007, 121 Stat. 1717.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. This chapter, referred to in subsec. (h)(4)(A), was in the original "this Act", also meaning division C of Pub. L. 108–324 as provided in section 2 of Pub. L. 108–324, 118 Stat. 1220. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
@@ -135,6 +137,8 @@ Executive Order No. 12142, referred to in subsec. (f), is set out as a note unde
 **2007**—Subsec. (h). Pub. L. 110–140 added subsec. (h).
 
 **2005**—Subsec. (g). Pub. L. 109–148 substituted "earlier" for "later".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

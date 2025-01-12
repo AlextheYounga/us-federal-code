@@ -14,7 +14,7 @@ The bureau referred to in text is known as the Office of the Comptroller of the 
 
 R.S. §331 derived from act June 3, 1864, ch. 106, §3, 13 Stat. 100, which was the National Bank Act. See section 38 of this title.
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Exception as to Transfer of Functions ####
 

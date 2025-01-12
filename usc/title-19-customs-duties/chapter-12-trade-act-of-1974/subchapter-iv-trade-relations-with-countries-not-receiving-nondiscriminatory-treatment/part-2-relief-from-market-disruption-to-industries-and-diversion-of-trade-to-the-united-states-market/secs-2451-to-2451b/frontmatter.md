@@ -1,5 +1,7 @@
 ### §§2451 to 2451b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 2451 to 2451b were omitted pursuant to section 2451b(c), which provided that this part ceased to be effective 12 years after the date of entry into force of the Protocol of Accession of the People's Republic of China to the World Trade Organization, which date was Dec. 11, 2001.

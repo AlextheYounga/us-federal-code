@@ -90,11 +90,21 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 (June 20, 1938, ch. 530, §1, 52 Stat. 781; Pub. L. 105–380, §2, Nov. 12, 1998, 112 Stat. 3401; Pub. L. 106–510, §2, Nov. 13, 2000, 114 Stat. 2363.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–510 substituted at end "park. Land (including the land depicted on the map entitled 'NPS–PAC 1997HW') may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds." for "park: *Provided*, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled 'NPS–PAC 1997HW', which may be purchased with donated or appropriated funds."
 
 **1998**—Pub. L. 105–380 inserted before period at end ", except for the land depicted on the map entitled 'NPS–PAC 1997HW', which may be purchased with donated or appropriated funds".
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Hawai‘i Volcanoes National Park ####
+
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
+
+#### **Executive Documents** ####
 
 #### Change of Name ####
 
@@ -103,7 +113,3 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 #### Admission of Hawaii as State ####
 
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
-
-#### Hawai‘i Volcanoes National Park ####
-
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.

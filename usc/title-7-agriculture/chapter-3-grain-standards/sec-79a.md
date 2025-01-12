@@ -102,6 +102,8 @@ The representatives of the Secretary shall be afforded access to any elevator, w
 
 (Aug. 11, 1916, ch. 313, pt. B, §7A, as added Pub. L. 94–582, §9, Oct. 21, 1976, 90 Stat. 2875; amended Pub. L. 95–113, title XVI, §§1602(b), 1604(e), 1606(e), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(2), Aug. 13, 1981, 95 Stat. 371; Pub. L. 100–518, §2(2), Oct. 24, 1988, 102 Stat. 2585; Pub. L. 103–156, §§4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, 107 Stat. 1526, 1528, 1530; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(b), 103(b), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(3)(B), (c), Sept. 30, 2015, 129 Stat. 518, 519; Pub. L. 115–334, title XII, §12610(b), Dec. 20, 2018, 132 Stat. 5012; Pub. L. 116–216, §3, Dec. 11, 2020, 134 Stat. 1048.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
@@ -165,6 +167,8 @@ Subsec. (g). Pub. L. 95–113, §1604(e)(6), substituted "official weighing or s
 Subsec. (i). Pub. L. 95–113, §1604(e)(7), (8), substituted "No State or local governmental agency" for "No State" and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title.
 
 Subsec. (l). Pub. L. 95–113, §1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2000 Amendment ####
 

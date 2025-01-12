@@ -22,11 +22,15 @@ This section shall not apply to investigations involving any security underlying
 
 (Sept. 21, 1922, ch. 369, §16, as added Pub. L. 93–463, title IV, §414, Oct. 23, 1974, 88 Stat. 1414; amended Pub. L. 97–444, title II, §232, Jan. 11, 1983, 96 Stat. 2320; Pub. L. 106–554, §1(a)(5) [title II, §251(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–443.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Subsec. (e). Pub. L. 106–554 added subsec. (e).
 
 **1983**—Subsec. (d). Pub. L. 97–444 prohibited disclosure of market positions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1983 Amendment ####
 

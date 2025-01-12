@@ -1,5 +1,7 @@
 ### §§1461 to 1469. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1461 to 1469 were omitted pursuant to section 1469 which provided that this subchapter was to be effective only for the 1991 through 1997 program crops.

@@ -34,6 +34,8 @@ Sec.
 
 8115. Carbon utilization and biogas education program.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title IX of the Farm Security and Rural Investment Act of 2002, which comprises this chapter, was originally enacted by Pub. L. 107–171, title IX, May 13, 2002, 116 Stat. 475, and amended by Pub. L. 108–199, div. A, title VII, §778(b), Jan. 23, 2004, 118 Stat. 41; Pub. L. 109–58, title II, §205, title IX, §943(a), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881; Pub. L. 109–171, title I, §1301, Feb. 8, 2006, 120 Stat. 6. Such title is shown herein, however, as having been added by Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2064, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 110–234 and Pub. L. 110–246, which amended the title identically. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

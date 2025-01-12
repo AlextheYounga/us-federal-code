@@ -4,9 +4,13 @@ The several district courts of the United States are invested with jurisdiction 
 
 (Oct. 15, 1914, ch. 323, §15, 38 Stat. 736; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

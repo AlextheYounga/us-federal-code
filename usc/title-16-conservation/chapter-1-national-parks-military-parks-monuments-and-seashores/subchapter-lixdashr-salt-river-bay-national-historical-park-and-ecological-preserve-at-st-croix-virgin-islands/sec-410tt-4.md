@@ -54,6 +54,8 @@ The Commission shall terminate 10 years after February 24, 1992, unless the Secr
 
 (Pub. L. 102–247, title I, §106, Feb. 24, 1992, 106 Stat. 35.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.

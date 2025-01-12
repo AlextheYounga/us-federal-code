@@ -46,6 +46,8 @@ Only a major league baseball player has standing to sue under this section. For 
 
 (Oct. 15, 1914, ch. 323, §27, as added Pub. L. 105–297, §3, Oct. 27, 1998, 112 Stat. 2824.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
@@ -55,6 +57,8 @@ Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 3
 #### Codification ####
 
 Another section 27 of act Oct. 15, 1914, ch. 323, was renumbered section 28 and is classified to section 27 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Purpose ####
 

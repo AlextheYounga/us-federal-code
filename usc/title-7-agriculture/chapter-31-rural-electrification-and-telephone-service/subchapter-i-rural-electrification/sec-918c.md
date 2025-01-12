@@ -56,9 +56,13 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 (Pub. L. 95–617, title VI, §609, as added Pub. L. 109–58, title II, §209, Aug. 8, 2005, 119 Stat. 657.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

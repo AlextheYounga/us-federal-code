@@ -4,6 +4,8 @@ The Chief Counsel may from time to time prepare and publish such reports as he d
 
 (Pub. L. 94–305, title II, §206, June 4, 1976, 90 Stat. 670.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

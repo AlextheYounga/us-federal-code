@@ -4,6 +4,8 @@ Any person or persons, or stage or express company, or railway company, who know
 
 (June 2, 1920, ch. 218, §5, 41 Stat. 732.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 3 of the Act of Congress approved August 25, 1916 (Thirty-ninth Statutes, page 535), entitled "An Act to establish a National Park Service, and for other purposes", referred to in text, is section 3 of act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted section 3 of this title. Section 3 of the Act was repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272.

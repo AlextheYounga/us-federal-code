@@ -250,6 +250,8 @@ Sec.
 
 538. User fees fund for delayed payments to grantors.
 
+538a. Forest Service Legacy Road and Trail Remediation Program.
+
 539. Additions to existing national forests; administration.
 
 539a. Mining and mineral leasing on certain national forest lands.

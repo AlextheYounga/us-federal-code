@@ -10,6 +10,8 @@ unless such person files or causes to be filed with the properly designated offi
 
 (Sept. 21, 1922, ch. 369, §4i, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §9, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, §211, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(9)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §13202(b), May 22, 2008, 122 Stat. 1439; Pub. L. 110–246, §4(a), title XIII, §13202(b), June 18, 2008, 122 Stat. 1664, 2201.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -25,6 +27,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 **1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture" and "United States Department of Agriculture".
 
 **1968**—Pub. L. 90–258 required recordkeeping of positions and of cash or spot transactions in commodities entered into, and inventories and purchase and sale commitments of commodities held, in any month in which reports are required to be kept, including details concerning positions, inventories, and commitments, and included controlled transactions and positions in the futures and cash or spot transactions and positions of any person.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

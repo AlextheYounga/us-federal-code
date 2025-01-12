@@ -84,6 +84,8 @@ If the State of Alaska determines that a recommendation under subsection (a)(3)(
 
 (June 10, 1920, ch. 285, pt. I, §32, as added Pub. L. 106–469, title V, §501, Nov. 9, 2000, 114 Stat. 2037; amended Pub. L. 109–58, title II, §244, Aug. 8, 2005, 119 Stat. 678.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Endangered Species Act, referred to in subsec. (a)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
@@ -95,6 +97,8 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), i
 **2005**—Subsec. (a)(3)(C). Pub. L. 109–58, §244(1), inserted "except as provided in subsection (j)," before "conditions".
 
 Subsec. (j). Pub. L. 109–58, §244(2), added subsec. (j).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

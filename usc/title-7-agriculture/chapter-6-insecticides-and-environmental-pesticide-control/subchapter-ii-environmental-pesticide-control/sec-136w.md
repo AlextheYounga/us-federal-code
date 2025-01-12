@@ -68,6 +68,8 @@ The Administrator shall, by written procedures, provide for peer review with res
 
 (June 25, 1947, ch. 125, §25, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 997; amended Pub. L. 94–140, §§2(a), 6, 7, Nov. 28, 1975, 89 Stat. 751, 753; Pub. L. 95–396, §23, Sept. 30, 1978, 92 Stat. 836; Pub. L. 96–539, §§1, 2(a), 4, Dec. 17, 1980, 94 Stat. 3194, 3195; Pub. L. 98–201, §1, Dec. 2, 1983, 97 Stat. 1379; Pub. L. 98–620, title IV, §402(4)(D), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–352, §6(i), June 27, 1988, 102 Stat. 664; Pub. L. 100–532, title VI, §§602, 605, title VIII, §801(n), Oct. 25, 1988, 102 Stat. 2678, 2679, 2683; Pub. L. 102–237, title X, §1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 104–170, title I, §104, title II, §235, Aug. 3, 1996, 110 Stat. 1490, 1509.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Poison Prevention Packaging Act, referred to in subsec. (c)(3), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15, and Tables.
@@ -125,6 +127,8 @@ Subsec. (a)(2). Pub. L. 94–140, §2(a)(3), added par. (2).
 Subsec. (a)(3). Pub. L. 94–140, §6, added par. (3).
 
 Subsec. (d). Pub. L. 94–140, §7, added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

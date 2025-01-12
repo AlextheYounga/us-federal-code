@@ -66,6 +66,8 @@ Sec.
 
 1275. Columbia River Basin Restoration.
 
+1276. Enhanced aquifer use and recharge.
+
 #### SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS ####
 
 1281. Congressional declaration of purpose.
@@ -115,6 +117,20 @@ Sec.
 1300. Pilot program for alternative water source projects.
 
 1301. Sewer overflow and stormwater reuse municipal grants.
+
+1302. Wastewater efficiency grant pilot program.
+
+1302a. Clean water infrastructure resiliency and sustainability program.
+
+1302b. Small and medium publicly owned treatment works circuit rider program.
+
+1302c. Small publicly owned treatment works efficiency grant program.
+
+1302d. Grants for construction and refurbishing of individual household decentralized wastewater systems for individuals with low or moderate income.
+
+1302e. Connection to publicly owned treatment works.
+
+1302f. Stormwater infrastructure technology.
 
 #### SUBCHAPTER III—STANDARDS AND ENFORCEMENT ####
 
@@ -239,6 +255,8 @@ Sec.
 1387. Authorization of appropriations.
 
 1388. Requirements.
+
+1389. Clean watersheds needs survey.
 
 #### **Editorial Notes** ####
 

@@ -1,5 +1,7 @@
 ### §§331 to 374. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections referred to War Finance Corporation. They were derived from acts Apr. 5, 1918, ch. 45, §§1–19, 24–28, 300, 302–304, 40 Stat. 506–512, 514, 515; Mar. 3, 1919, ch. 100, §10, 40 Stat. 1314; Jan. 4, 1921, ch. 9, 41 Stat. 1084; Aug. 24, 1921, ch. 80, §§1–3, 5–7, 42 Stat. 181–184; June 10, 1922, ch. 215, §§2, 3, 42 Stat. 634; Mar. 4, 1923, ch. 252, title V, §§502, 503, 42 Stat. 1481; Feb. 20, 1924, ch. 37, §§1–4, 43 Stat. 14, 15; Apr. 4, 1928, ch. 315, 45 Stat. 405; May 29, 1928, ch. 901, §1(116), 45 Stat. 995; Mar. 1, 1929, ch. 444, 45 Stat. 1442; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704.
@@ -7,6 +9,8 @@ Sections referred to War Finance Corporation. They were derived from acts Apr. 5
 War Finance Corporation was abolished and Secretary of Treasury was directed to complete and wind up its affairs and dispose of its assets in accordance with act Mar. 1, 1929, ch. 444, 45 Stat. 1442, not later than Dec. 31, 1939. All its functions, property, and obligations not previously transferred by statute to Secretary of Treasury were transferred to Department of Treasury by Reorg. Plan No. II, of 1939, §2(c), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of Reorg. Plan No. II of 1939 for provisions relating to transfer of functions, records, property, personnel, and funds.
 
 In a letter addressed to the Speaker of the House of Representatives and dated October 26, 1942, the Acting Secretary of the Treasury transmitted the final report of the affairs of the War Finance Corporation covering the period of its existence from April 5, 1918 through June 30, 1939.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

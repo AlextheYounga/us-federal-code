@@ -154,6 +154,8 @@ The provisions of this section shall not—
 
 (Sept. 26, 1914, ch. 311, §20, as added Pub. L. 96–252, §13, May 28, 1980, 94 Stat. 380; amended Pub. L. 103–312, §7, Aug. 26, 1994, 108 Stat. 1693; Pub. L. 103–438, §3(e)(2)(B), Nov. 2, 1994, 108 Stat. 4598.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Clayton Act, referred to in subsec. (a)(8)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
@@ -183,6 +185,8 @@ Subsec. (c)(4) to (14). Pub. L. 103–312, §7(b)(2), added pars. (4) and (12) a
 Subsec. (g). Pub. L. 103–312, §7(c), inserted ", tangible things" after "documentary material".
 
 Subsec. (j)(1). Pub. L. 103–312, §7(d), inserted before semicolon at end ", any proceeding under section 11(b) of the Clayton Act (15 U.S.C. 21(b)), or any adjudicative proceeding under any other provision of law".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1994 Amendment ####
 

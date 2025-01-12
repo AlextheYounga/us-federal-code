@@ -4,9 +4,13 @@ In order to preserve and protect for the education, inspiration, recreation, and
 
 (Pub. L. 96–287, title I, §101, June 28, 1980, 94 Stat. 599; Pub. L. 103–437, §6(d)(10), Nov. 2, 1994, 108 Stat. 4584.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Dante Fascell Biscayne National Park Visitor Center ####
 

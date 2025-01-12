@@ -16,6 +16,8 @@ Section 1359, act Feb. 16, 1938, ch. 30, title III, §358d, formerly §359, as a
 
 Section 1359a, act Feb. 16, 1938, ch. 30, title III, §358e, formerly §359a, as added Pub. L. 101–624, title VIII, §804, Nov. 28, 1990, 104 Stat. 3467; renumbered §358e and amended Pub. L. 102–237, title I, §117(a), (b)(2)(D), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1109(c)(2), Aug. 10, 1993, 107 Stat. 326; Pub. L. 103–182, title III, §321(d)(1)(B), Dec. 8, 1993, 107 Stat. 2110; Pub. L. 103–465, title IV, §404(e)(6), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–127, title I, §155(i)(1)(D), Apr. 4, 1996, 110 Stat. 928, related to marketing penalties and disposition of additional peanuts.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Treatment of 2001 Crop ####
 
 For applicability of this subpart, as in effect on the day before May 13, 2002, with respect to the 2001 crop of peanuts notwithstanding repeal of this subpart by Pub. L. 107–171, see section 7959(a)(2) of this title.

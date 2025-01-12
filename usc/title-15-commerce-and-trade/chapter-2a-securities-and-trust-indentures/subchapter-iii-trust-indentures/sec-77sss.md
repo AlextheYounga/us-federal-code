@@ -14,9 +14,13 @@ No provision of this subchapter imposing any liability shall apply to any act do
 
 (May 27, 1933, ch. 38, title III, §319, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; Pub. L. 105–353, title III, §301(e)(4), Nov. 3, 1998, 112 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Subsec. (b). Pub. L. 105–353 substituted "chapter 15 of title 44" for "the Federal Register Act".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

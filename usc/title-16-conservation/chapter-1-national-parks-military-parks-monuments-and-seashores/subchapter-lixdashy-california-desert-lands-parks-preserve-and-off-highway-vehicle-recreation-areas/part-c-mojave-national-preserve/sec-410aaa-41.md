@@ -14,6 +14,8 @@ The Congress hereby finds that—
 
 (Pub. L. 103–433, title V, §501, Oct. 31, 1994, 108 Stat. 4489.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in par. (1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.

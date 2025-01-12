@@ -6,6 +6,8 @@
 
 (Sept. 26, 1914, ch. 311, §24, as added Pub. L. 103–312, §2, Aug. 26, 1994, 108 Stat. 1691.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 24 of act Sept. 26, 1914, was renumbered section 25 and is classified to section 57c of this title.

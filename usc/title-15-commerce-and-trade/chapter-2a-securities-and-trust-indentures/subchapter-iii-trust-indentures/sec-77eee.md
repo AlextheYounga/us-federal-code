@@ -32,6 +32,8 @@ The provisions of sections 11, 12, 17, and 24 of the Securities Act of 1933 [15 
 
 (May 27, 1933, ch. 38, title III, §305, as added Aug. 3, 1939, ch. 411, 53 Stat. 1154; amended Aug. 10, 1954, ch. 667, title III, §303, 68 Stat. 687; Pub. L. 101–550, title IV, §404, Nov. 15, 1990, 104 Stat. 2722.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in subsec. (b)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -44,9 +46,13 @@ Subsec. (b). Pub. L. 101–550, §404(2), designated existing provisions as par.
 
 **1954**—Subsec. (c). Act Aug. 10, 1954, authorized the Commission to prescribe by rule and regulation the extent to which summaries of indenture provisions must be contained in prospectuses.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1954 Amendment ####
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

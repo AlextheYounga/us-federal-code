@@ -26,6 +26,8 @@ Section 6212, Pub. L. 106–291, title VI, §613, Oct. 11, 2000, 114 Stat. 1022,
 
 Section 6213, Pub. L. 106–291, title VI, §614, Oct. 11, 2000, 114 Stat. 1022, related to fees during period of transition.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the date of the assessment of annual permit fees in accordance with section 6214(f) of this title (as certified to Congress by the Secretary of Agriculture), see section 6214(k) of this title. The tiered fee schedule set out in section 6214(f) of this title was implemented effective Jan. 1, 2016.

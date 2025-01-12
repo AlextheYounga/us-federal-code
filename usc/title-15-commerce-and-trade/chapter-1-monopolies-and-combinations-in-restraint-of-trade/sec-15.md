@@ -34,6 +34,8 @@ For purposes of this section—
 
 (Oct. 15, 1914, ch. 323, §4, 38 Stat. 731; Pub. L. 96–349, §4(a)(1), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 97–393, Dec. 29, 1982, 96 Stat. 1964.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in subsec. (a), are defined in section 12 of this title.
@@ -47,6 +49,8 @@ Section supersedes two former similar sections enacted by act July 2, 1890, ch. 
 **1982**—Pub. L. 97–393 designated existing provisions as subsec. (a), inserted "Except as provided in subsection (b),", and added subsecs. (b) and (c).
 
 **1980**—Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

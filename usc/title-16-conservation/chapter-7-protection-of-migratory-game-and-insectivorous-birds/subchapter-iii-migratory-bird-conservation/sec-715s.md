@@ -66,6 +66,8 @@ As used in this section—
 
 (June 15, 1935, ch. 261, title IV, §401, 49 Stat. 383; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Oct. 31, 1951, ch. 654, §2(13), 65 Stat. 707; Pub. L. 88–523, Aug. 30, 1964, 78 Stat. 701; Pub. L. 89–669, §8(b), Oct. 15, 1966, 80 Stat. 930; Pub. L. 93–205, §13(b), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §4, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 95–469, §1(a), Oct. 17, 1978, 92 Stat. 1319; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Beginning with the next full fiscal year and for each fiscal year thereafter, referred to in subsec. (a), probably means the next full fiscal year following Aug. 30, 1964, the date of enactment of Pub. L. 88–523, which amended this section.
@@ -118,6 +120,8 @@ Subsec. (h). Pub. L. 95–469, §1(a)(4), added subsec. (h).
 
 **1951**—Act Oct. 31, 1951, in second proviso, inserted reference to application regulations of the Federal Property and Administrative Services Act of 1949, as amended, and, in third proviso, inserted reference to section 485 of Title 40.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1978 Amendment; Fiscal Year of Availability of Appropriation Authorization ####
 
 Pub. L. 95–469, §2, Oct. 17, 1978, 92 Stat. 1321, provided that: "The amendments made by this Act [amending this section and sections 1603, 1605 and 1606 of former Title 31, Money and Finance], shall apply with respect to payments made to counties under title IV of the Act of June 15, 1935 [this section], for the fiscal year ending September 30, 1979, and for fiscal years thereafter; except that the amendments made to such title IV [this section] which amend section 401(a) and (g), add paragraph (4) to section 401(c) [subsecs. (a) and (g), and (c)(4) of this section], and amend the title heading [of this section] shall take effect on the date of the enactment of this Act [Oct. 17, 1978]. No authorization for appropriation shall be available under this Act before the fiscal year ending September 30, 1980."
@@ -126,6 +130,12 @@ Pub. L. 95–469, §2, Oct. 17, 1978, 92 Stat. 1321, provided that: "The amendme
 
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under section 1531 of this title.
 
+#### Refuge Revenue Sharing ####
+
+Pub. L. 105–83, title I, §132, Nov. 14, 1997, 111 Stat. 1570, provided that: "Notwithstanding any other provision of law, hereafter the United States Fish and Wildlife Service may disburse to local entities impact funding pursuant to Refuge Revenue Sharing that is associated with Federal real property transferred to the United States Geological Survey from the United States Fish and Wildlife Service."
+
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -133,9 +143,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 Reorg. Plan No. III of 1940, set out in the Appendix to Title 5, consolidated Bureau of Fisheries and Bureau of Biological Survey, with their respective functions, into one agency in Department of the Interior to be known as the Fish and Wildlife Service.
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
-
-#### Refuge Revenue Sharing ####
-
-Pub. L. 105–83, title I, §132, Nov. 14, 1997, 111 Stat. 1570, provided that: "Notwithstanding any other provision of law, hereafter the United States Fish and Wildlife Service may disburse to local entities impact funding pursuant to Refuge Revenue Sharing that is associated with Federal real property transferred to the United States Geological Survey from the United States Fish and Wildlife Service."
 
 [<sup>1</sup> So in original. Probably should be "carcasses,".](#715s_1)

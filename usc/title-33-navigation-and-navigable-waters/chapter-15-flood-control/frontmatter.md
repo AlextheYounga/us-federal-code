@@ -74,7 +74,7 @@ Sec.
 
 701h–2. No adverse effect on processes.
 
-701h–3. State Contribution of Funds for Certain Operation and Maintenance Costs.
+701h–3. State contribution of funds for certain operation and maintenance costs.
 
 701h–4. Acceptance of funds for harbor dredging.
 

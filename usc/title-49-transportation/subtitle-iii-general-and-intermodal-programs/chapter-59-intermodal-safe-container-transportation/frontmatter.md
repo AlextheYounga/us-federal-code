@@ -18,6 +18,8 @@ Sec.
 
 5908. Relationship to other laws.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–291, title II, §§208(b), 209(b), Oct. 11, 1996, 110 Stat. 3457, 3458, substituted "Effective date" for "Regulations and effective date" in item 5907 and added item 5908.

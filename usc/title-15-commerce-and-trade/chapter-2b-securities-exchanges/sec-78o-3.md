@@ -244,6 +244,8 @@ A national securities association registered pursuant to subsection (a) shall, n
 
 (June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(c), 206(j), (k)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6, Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (b)(2), (6), (7), (9), (h)(1)(B), (k)(2)(B)(ii), (4), and (l), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -342,6 +344,8 @@ Subsec. (k)(2). Pub. L. 88–467, §7(e), inserted ", or with such modification
 
 Subsec. (l). Pub. L. 88–467, §7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2) preceding cl. (A) ", or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective Oct. 1, 2010, see section 975(i) of Pub. L. 111–203, set out as a note under section 78o of this title.
@@ -375,6 +379,8 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
 Amendment by section 303(a), (c) of Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association or a national securities exchange under any provision of this chapter, or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

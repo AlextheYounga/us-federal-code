@@ -18,6 +18,8 @@ An entity eligible to receive funds under this subchapter may receive funds for 
 
 (Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, §7403, Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, §7503(d), Dec. 20, 2018, 132 Stat. 4821.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
@@ -63,6 +65,8 @@ Subsecs. (c), (d). Pub. L. 115–334, §7503(d)(2), added subsecs. (c) and (d).
 **2002**—Subsec. (a). Pub. L. 107–171 substituted "2007" for "2002".
 
 **1998**—Subsec. (a). Pub. L. 105–185 substituted "each of fiscal years 1996 through 2002" for "fiscal years 1996 and 1997".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

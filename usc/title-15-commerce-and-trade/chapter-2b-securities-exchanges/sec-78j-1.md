@@ -192,6 +192,8 @@ Each issuer shall provide for appropriate funding, as determined by the audit co
 
 (June 6, 1934, ch. 404, title I, §10A, as added Pub. L. 104–67, title III, §301(a), Dec. 22, 1995, 109 Stat. 762; amended Pub. L. 107–204, title II, §§201(a), 202–204, 205(b), (d), 206, title III, §301, July 30, 2002, 116 Stat. 771–775; Pub. L. 111–203, title IX, §985(b)(3), July 21, 2010, 124 Stat. 1933.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -231,6 +233,8 @@ Subsec. (k). Pub. L. 107–204, §204, added subsec. (k).
 Subsec. (l). Pub. L. 107–204, §206, added subsec. (l).
 
 Subsec. (m). Pub. L. 107–204, §301, added subsec. (m).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

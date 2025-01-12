@@ -10,6 +10,8 @@ Sections 27 to 27f of this title shall supersede and preempt the application of 
 
 (Pub. L. 106–554, §1(a)(5) [title IV, §408], Dec. 21, 2000, 114 Stat. 2763, 2763A–461; Pub. L. 111–203, title VII, §725(g)(1)(C), July 21, 2010, 124 Stat. 1694.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in subsec. (a), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.
@@ -25,6 +27,8 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 Subsec. (c). Pub. L. 111–203, §725(g)(1)(C)(iii), redesignated subsec. (c) as (b).
 
 Pub. L. 111–203, §725(g)(1)(C)(i), substituted "in the case of" for "in the case of—", struck out par. (1) designation before "a hybrid", substituted "product." for "product; or", and struck out par. (2) which read as follows: "a covered swap agreement."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

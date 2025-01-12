@@ -184,6 +184,8 @@ For purposes of this section—
 
 (June 6, 1934, ch. 404, title I, §15B, as added Pub. L. 94–29, §13, June 4, 1975, 89 Stat. 131; amended Pub. L. 98–38, §4, June 6, 1983, 97 Stat. 207; Pub. L. 100–181, title III, §§318–320, Dec. 4, 1987, 101 Stat. 1256, 1257; Pub. L. 101–429, title II, §205, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 105–353, title III, §301(b)(9), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–204, title VI, §604(c)(1)(B), July 30, 2002, 116 Stat. 796; Pub. L. 111–203, title IX, §§925(a)(2), 929F(a), 975(a)–(e), July 21, 2010, 124 Stat. 1850, 1853, 1915–1921.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(3), (b)(2), (7), (c)(6)(C), (8), and (d), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -275,6 +277,8 @@ Subsec. (c)(6)(A). Pub. L. 100–181, §320, substituted "Board" for "board".
 **1983**—Subsec. (b)(1)(A). Pub. L. 98–38, §4(a), inserted "(other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer)" after "securities dealer".
 
 Subsec. (b)(2)(B). Pub. L. 98–38, §4(b), inserted "(other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer)" after "broker, dealer, or municipal securities dealer".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

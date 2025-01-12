@@ -396,6 +396,8 @@ For purposes of this subsection—
 
 (June 6, 1934, ch. 404, title I, §21D, as added and amended Pub. L. 104–67, title I, §101(b), title II, §201(a), Dec. 22, 1995, 109 Stat. 743, 758; Pub. L. 105–353, title I, §101(b)(2), title III, §301(b)(13), Nov. 3, 1998, 112 Stat. 3233, 3236; Pub. L. 111–203, title IX, §933(b), July 21, 2010, 124 Stat. 1883.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -413,6 +415,8 @@ Subsecs. (f), (g). Pub. L. 105–353, §301(b)(13)(B), redesignated subsec. (g) 
 Subsec. (g)(2)(B)(i). Pub. L. 105–353, §301(b)(13)(A), substituted "subparagraph (A)" for "paragraph (1)".
 
 **1995**—Subsec. (g). Pub. L. 104–67, §201(a), added subsec. (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

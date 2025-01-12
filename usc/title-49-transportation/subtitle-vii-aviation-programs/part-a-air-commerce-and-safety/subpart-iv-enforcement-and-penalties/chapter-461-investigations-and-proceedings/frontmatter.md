@@ -24,6 +24,8 @@ Sec.
 
 46111. Certificate actions in response to a security threat.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Pub. L. 108–176, title VI, §601(b), Dec. 12, 2003, 117 Stat. 2563, added item 46111.

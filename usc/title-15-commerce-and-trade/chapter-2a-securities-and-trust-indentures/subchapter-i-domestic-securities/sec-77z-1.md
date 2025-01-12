@@ -200,6 +200,8 @@ In any private action arising under this subchapter in which the plaintiff may r
 
 (May 27, 1933, ch. 38, title I, §27, as added Pub. L. 104–67, title I, §101(a), Dec. 22, 1995, 109 Stat. 737; amended Pub. L. 105–353, title I, §101(a)(2), title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3230, 3235.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii), (B)(iii)(I)(cc), (vi), (b)(2), and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -209,6 +211,8 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii
 **1998**—Pub. L. 105–353, §301(a)(5), made technical correction relating to placement of section in subchapter.
 
 Subsec. (b)(4). Pub. L. 105–353, §101(a)(2), added par. (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

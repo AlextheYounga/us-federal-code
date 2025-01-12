@@ -18,6 +18,8 @@ The Director of the United States Fish and Wildlife Service shall make a report 
 
 (Mar. 3, 1885, ch. 360, §1(2), as added Pub. L. 93–280, §1(3), May 10, 1974, 88 Stat. 123; amended Pub. L. 96–470, title II, §206(a), Oct. 19, 1980, 94 Stat. 2244; Pub. L. 103–437, §6(t), Nov. 2, 1994, 108 Stat. 4587.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Bureau of Sport Fisheries and Wildlife, referred to in subsec. (b), was replaced and succeeded by the United States Fish and Wildlife Service. See section 742b(c) of this title.
@@ -27,6 +29,8 @@ The Bureau of Sport Fisheries and Wildlife, referred to in subsec. (b), was repl
 **1994**—Subsec. (c). Pub. L. 103–437 substituted "Committee on Commerce, Science, and Transportation" for "Committee on Commerce".
 
 **1980**—Subsec. (c). Pub. L. 96–470 substituted provision requiring that a report to Congress be made at the end of any fiscal year that provisions of this section are utilized for provision requiring an annual report to Congress be made on utilization of the provisions of this section and struck out "annual" before "report shall be".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

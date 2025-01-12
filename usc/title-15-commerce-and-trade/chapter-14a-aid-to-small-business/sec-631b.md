@@ -40,6 +40,8 @@ The information and data required to be reported pursuant to subsection (a) shal
 
 (Pub. L. 96–302, title III, §303, July 2, 1980, 94 Stat. 848; Pub. L. 100–533, title V, §503, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 100–590, title I, §124, Nov. 3, 1988, 102 Stat. 3000; Pub. L. 101–574, title III, §305, Nov. 15, 1990, 104 Stat. 2829; Pub. L. 105–135, title VI, §604(c), title VII, §705, Dec. 2, 1997, 111 Stat. 2633, 2637; Pub. L. 106–50, title VI, §602, Aug. 17, 1999, 113 Stat. 248.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Internal Revenue Code, referred to in subsec. (a)(4), is classified to Title 26, Internal Revenue Code.
@@ -71,6 +73,8 @@ Subsec. (e)(3). Pub. L. 105–135, §604(c), added par. (3).
 **1990**—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows: "present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;".
 
 **1988**—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase ", by gender," in par. (1).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

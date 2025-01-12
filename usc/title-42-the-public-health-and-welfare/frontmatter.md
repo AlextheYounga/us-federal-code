@@ -382,3 +382,7 @@ Chap. Sec.
 159. Space Exploration, Technology, and Science 18301
 
 160. Treatment of Certain Payments in Eugenics Compensation 18501
+
+161. Department of Energy Research and Innovation 18601
+
+162. Energy Infrastructure 18701

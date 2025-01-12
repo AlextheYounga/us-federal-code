@@ -8,6 +8,8 @@ Section 1364, acts June 16, 1951, ch. 141, §7, 65 Stat. 74; Aug. 7, 1953, ch. 3
 
 Section 1365, act June 16, 1951, ch. 141, §8(a), 65 Stat. 75, provided for emergency action for perishable agricultural products.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Presidential Action in Effect on October 11, 1962 ####
 
 Pub. L. 87–794, title II, §257(e)(2), Oct. 11, 1962, 76 Stat. 882, provided that: "Action taken by the President under section 5 of such Act [former section 1362 of this title] and in effect on the date of the enactment of this Act [Oct. 11, 1962] shall be considered as having been taken by the President under section 231 [section 1861 of this title]."

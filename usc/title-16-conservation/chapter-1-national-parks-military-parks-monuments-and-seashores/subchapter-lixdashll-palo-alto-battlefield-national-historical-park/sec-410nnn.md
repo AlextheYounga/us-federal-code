@@ -8,6 +8,8 @@ The Congress finds that:
 
 (Pub. L. 102–304, §2, June 23, 1992, 106 Stat. 256.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 506(b) of Pub. L. 95–625, referred to in par. (1), is set out as a note under section 410nnn–1 of this title.
@@ -15,6 +17,8 @@ Section 506(b) of Pub. L. 95–625, referred to in par. (1), is set out as a not
 #### Codification ####
 
 This subchapter is comprised of Pub. L. 102–304. Pub. L. 102–304 is also listed in a table of National Historic Sites set out under section 320101 of Title 54, National Park Service and Related Programs.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

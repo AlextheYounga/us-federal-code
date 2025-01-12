@@ -20,7 +20,7 @@ R.S. §333 derived from acts June 3, 1864, ch. 106, §61, 13 Stat. 117, and Feb.
 
 **1946**—Act Aug. 7, 1946, repealed in the opening clause, the requirement that the report to Congress shall be submitted at the commencement of its session, and repealed all provisions prescribing contents of the exhibits in the report.
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Exception as to Transfer of Functions ####
 

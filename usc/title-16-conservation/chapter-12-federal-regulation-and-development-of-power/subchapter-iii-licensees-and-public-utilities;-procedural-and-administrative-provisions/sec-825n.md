@@ -14,11 +14,15 @@ This section shall not apply in the case of any provision of section 824j, 824k,
 
 (June 10, 1920, ch. 285, pt. III, §315, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 861; amended June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 102–486, title VII, §725(a), Oct. 24, 1992, 106 Stat. 2920; Pub. L. 109–58, title XII, §1295(d), Aug. 8, 2005, 119 Stat. 985.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Subsec. (c). Pub. L. 109–58 substituted "This section" for "This subsection".
 
 **1992**—Subsec. (c). Pub. L. 102–486 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

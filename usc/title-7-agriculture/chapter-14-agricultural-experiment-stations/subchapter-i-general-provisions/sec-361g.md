@@ -54,6 +54,8 @@ To the maximum extent practicable, the Secretary shall consider a plan of work s
 
 (Mar. 2, 1887, ch. 314, §7, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 86–533, §1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, §3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, §103(f)(2), title II, §202(b), June 23, 1998, 112 Stat. 528, 532; Pub. L. 107–171, title VII, §7202, May 13, 2002, 116 Stat. 437; Pub. L. 115–334, title VII, §7612(b)(2), Dec. 20, 2018, 132 Stat. 4832.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 379 of this title. See section 361h of this title.
@@ -82,9 +84,13 @@ Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agricultu
 
 **1955**—Act Aug. 11, 1955, amended section generally to prescribe the powers and duties of the Secretary of Agriculture, to provide for the determination of the amount of entitlement, to authorize deduction of unexpended balances, and to require reports. For provisions which stated that the relation of the college to the State was unaffected, see section 361h of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1998 Amendment ####
 
 Amendment by section 202(b) of Pub. L. 105–185 effective Oct. 1, 1999, see section 202(c) of Pub. L. 105–185, set out as a note under section 344 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

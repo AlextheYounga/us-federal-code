@@ -4,6 +4,8 @@ Notwithstanding any provision of the Act of October 2, 1968 [16 U.S.C. 79a et se
 
 (Pub. L. 95–250, title I, §101(c), Mar. 27, 1978, 92 Stat. 166.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of October 2, 1968, referred to in text, is Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.

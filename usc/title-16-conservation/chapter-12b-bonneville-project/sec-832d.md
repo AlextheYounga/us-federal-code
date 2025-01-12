@@ -10,9 +10,13 @@ The administrator is authorized to enter into contracts with public or private p
 
 (Aug. 20, 1937, ch. 720, §5, 50 Stat. 734; Oct. 23, 1945, ch. 433, §2, 59 Stat. 546; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1945**—Subsec. (a). Act Oct. 23, 1945, inserted "and for the disposition of electric energy to Federal agencies" in first sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 
@@ -20,7 +24,11 @@ The administrator is authorized to enter into contracts with public or private p
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
 
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 

@@ -6,9 +6,13 @@
 
 (Aug. 8, 1946, ch. 915, §§1, 2, 60 Stat. 949.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Subsecs. (a) and (b) of this section constitute sections 1 and 2, respectively, of act Aug. 8, 1946.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

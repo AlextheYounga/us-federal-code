@@ -52,6 +52,8 @@ Any court having jurisdiction of a civil action arising under this chapter may g
 
 (Pub. L. 91–598, §14, formerly §10, Dec. 30, 1970, 84 Stat. 1655; renumbered §14 and amended Pub. L. 95–283, §§9, 13, May 21, 1978, 92 Stat. 260, 269; Pub. L. 111–203, title IX, §929V(b), (c), July 21, 2010, 124 Stat. 1868.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -69,6 +71,8 @@ Subsec. (d). Pub. L. 111–203, §929V(c), added subsec. (d).
 Subsec. (b). Pub. L. 95–283, §13(b), in heading inserted "or initiation of direct payment procedure" after "trustee", and in text inserted references to initiation of direct payment procedure in two places.
 
 Subsec. (c). Pub. L. 95–283, §13(c), in heading substituted "Concealment of assets; false statements or claims" for "Embezzlement, etc., of assets of SIPC", added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

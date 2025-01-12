@@ -24,6 +24,8 @@
 
 (Aug. 11, 1916, ch. 313, pt. B, §2, 39 Stat. 482; July 18, 1940, ch. 636, 54 Stat. 765; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, §2, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 99–641, title III, §302, Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, §2004, Nov. 28, 1990, 104 Stat. 3929.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (b)(3)(E), (F). Pub. L. 101–624 added subpars. (E) and (F).
@@ -35,6 +37,8 @@
 **1968**—Pub. L. 90–487 substituted a declaration of policy by the Congress for provisions authorizing promulgation and establishment of grain standards by Secretary of Agriculture.
 
 **1940**—Act July 18, 1940, inserted "soybeans," after "flaxseed,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

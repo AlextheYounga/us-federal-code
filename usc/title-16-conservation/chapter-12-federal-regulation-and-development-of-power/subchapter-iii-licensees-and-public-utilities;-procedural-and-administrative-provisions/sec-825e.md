@@ -4,6 +4,8 @@ Any person, electric utility, State, municipality, or State commission complaini
 
 (June 10, 1920, ch. 285, pt. III, §306, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 109–58, title XII, §1284(a), Aug. 8, 2005, 119 Stat. 980.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–58 inserted "electric utility," after "Any person," and ", transmitting utility," after "licensee" wherever appearing.

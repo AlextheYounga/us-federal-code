@@ -234,6 +234,8 @@ Whenever pursuant to this subchapter the Commission is engaged in rulemaking and
 
 (Aug. 22, 1940, ch. 686, title I, §2, 54 Stat. 790; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Aug. 10, 1954, ch. 667, title IV, §401, 68 Stat. 688; Pub. L. 86–70, §12(d), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §2(a), Dec. 14, 1970, 84 Stat. 1413; Pub. L. 95–598, title III, §310(a), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §101, Oct. 21, 1980, 94 Stat. 2275; Pub. L. 97–303, §5, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title VI, §§601–603, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title II, §206(a), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title I, §106(c), title II, §209(b), title V, §§503, 504, Oct. 11, 1996, 110 Stat. 3425, 3434, 3445; Pub. L. 105–353, title III, §301(c)(1), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §§213(a), (b), 215, 216, 223, Nov. 12, 1999, 113 Stat. 1397, 1399, 1401; Pub. L. 106–554, §1(a)(5) [title II, §209(a)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(2)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title VII, §769, title IX, §§985(d)(1), 986(c)(1), July 21, 2010, 124 Stat. 1801, 1934, 1936.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(11), (44), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
@@ -320,6 +322,8 @@ Subsec. (a)(45). Pub. L. 91–547, §2(a)(5), added par. (45).
 
 **1954**—Subsec. (a)(30). Act Aug. 10, 1954, substituted "section 10(a) of the Securities Act of 1933" for "section 5(b) of the Securities Act of 1933".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 985(d)(1) and 986(c)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -353,6 +357,8 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Regulations ####
 
 Pub. L. 104–290, title II, §209(d)(2), Oct. 11, 1996, 110 Stat. 3435, provided that: "Not later than 180 days after the date of enactment of this Act [Oct. 11, 1996], the Commission shall prescribe rules defining the term, or otherwise identifying, 'investments' for purposes of section 2(a)(51) of the Investment Company Act of 1940 [15 U.S.C. 80a–2(a)(51)], as added by this Act."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

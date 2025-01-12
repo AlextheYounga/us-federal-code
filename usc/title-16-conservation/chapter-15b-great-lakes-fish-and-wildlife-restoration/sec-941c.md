@@ -176,6 +176,8 @@ Nothing in this subsection affects an Indian tribe affected by an alternative ap
 
 (Pub. L. 101–537, title I, §1005, Nov. 8, 1990, 104 Stat. 2372; Pub. L. 101–646, title II, §2005, Nov. 29, 1990, 104 Stat. 4775; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 6, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, §4, Oct. 11, 2006, 120 Stat. 1762; Pub. L. 114–322, title III, §3901(c), Dec. 16, 2016, 130 Stat. 1848.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.

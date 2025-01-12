@@ -30,6 +30,8 @@ The Secretary shall develop and effectuate standards for the recruiting, trainin
 
 (Aug. 11, 1916, ch. 313, pt. B, §8, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 764; Pub. L. 94–582, §10, Oct. 21, 1976, 90 Stat. 2877; Pub. L. 95–113, title XVI, §§1604(g), 1606(f), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, §§6, 12(g), Nov. 24, 1993, 107 Stat. 1526, 1528; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §106, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 114–54, title III, §301(e), Sept. 30, 2015, 129 Stat. 520.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The General Schedule, referred to in subsec. (e), is set out under section 5332 of Title 5.
@@ -75,6 +77,8 @@ Subsec. (d). Pub. L. 94–582 substituted "official agency (including persons em
 Subsecs. (e) to (g). Pub. L. 94–582 added subsecs. (e) to (g).
 
 **1968**—Pub. L. 90–487 substituted provisions for the licensing and examination and reexamination of inspectors for provisions authorizing the Secretary of Agriculture to promulgate rules and regulations.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1977 Amendment ####
 

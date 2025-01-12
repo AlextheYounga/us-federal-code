@@ -14,6 +14,8 @@ Section 3316, Pub. L. 103–182, title I, §106, Dec. 8, 1993, 107 Stat. 2065, r
 
 Section 3317, Pub. L. 103–182, title I, §108, Dec. 8, 1993, 107 Stat. 2066, related to congressional intent regarding future accessions with respect to countries other than Canada and Mexico.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the date on which the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of this title.
@@ -21,6 +23,8 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 #### Effective Date; Termination of NAFTA Status ####
 
 Pub. L. 103–182, title I, §109, Dec. 8, 1993, 107 Stat. 2067, which provided that title I of Pub. L. 103–182 (except for section 107) would take effect on Dec. 8, 1993, and terminated the effect of sections 101 through 106 of Pub. L. 103–182 with respect to a country ceasing to be a NAFTA country, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+
+#### **Executive Documents** ####
 
 #### North American Free Trade Agreement: Entry Into Force ####
 

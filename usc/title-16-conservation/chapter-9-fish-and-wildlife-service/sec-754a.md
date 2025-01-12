@@ -4,9 +4,13 @@ The Secretary of the Interior may purchase, to the extent of not to exceed $5,00
 
 (July 1, 1918, ch. 113, §1, 40 Stat. 694; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 662 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

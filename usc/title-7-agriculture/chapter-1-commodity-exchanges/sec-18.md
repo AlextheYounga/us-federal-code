@@ -40,6 +40,8 @@ Nothing in this section prohibits a registered futures commission merchant from 
 
 (Sept. 21, 1922, ch. 369, §14, as added Pub. L. 93–463, title I, §106, Oct. 23, 1974, 88 Stat. 1393; amended Pub. L. 94–16, §3, Apr. 16, 1975, 89 Stat. 77; Pub. L. 95–405, §21, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §231, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title II, §§209(b)(7), 222(b), 224, title IV, §402(11), Oct. 28, 1992, 106 Stat. 3607, 3615, 3617, 3625; Pub. L. 106–554, §1(a)(5) [title I, §§118, 123(a)(23)], Dec. 21, 2000, 114 Stat. 2763, 2763A–403, 2763A–410; Pub. L. 110–234, title XIII, §13105(k), May 22, 2008, 122 Stat. 1435; Pub. L. 110–246, §4(a), title XIII, §13105(k), June 18, 2008, 122 Stat. 1664, 2197.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -81,6 +83,8 @@ Subsecs. (g) to (i). Pub. L. 97–444, §231(4), redesignated subsecs. (g), (h),
 Subsecs. (b), (c). Pub. L. 95–405, §21(2), (3), substituted "$5,000" for "$2,500" wherever appearing.
 
 **1975**—Subsec. (i). Pub. L. 94–16 substituted "fifteen months" for "one year" in two places, and "one year" for "nine months".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

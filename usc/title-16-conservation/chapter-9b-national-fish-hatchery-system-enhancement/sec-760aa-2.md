@@ -10,6 +10,8 @@ Not later than 3 years after October 16, 2006, the Secretary shall submit a repo
 
 (Pub. L. 109–360, §4, Oct. 16, 2006, 120 Stat. 2059.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.

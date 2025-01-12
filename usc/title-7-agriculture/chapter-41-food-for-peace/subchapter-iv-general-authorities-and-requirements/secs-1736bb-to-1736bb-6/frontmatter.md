@@ -14,6 +14,8 @@ Section 1736bb–5, Pub. L. 100–202, §6, Dec. 22, 1987, 101 Stat. 1329–447;
 
 Section 1736bb–6, Pub. L. 100–202, §7, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, §4610(b), Aug. 23, 1988, 102 Stat. 1411; Pub. L. 101–624, title XV, §1515(b), Nov. 28, 1990, 104 Stat. 3663; Pub. L. 102–237, title III, §307, Dec. 13, 1991, 105 Stat. 1856, provided definitions for former sections 1736bb to 1736bb–6.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Inapplicability of Federal Advisory Committee Act to Agricultural Aid and Trade Missions ####
 
 Pub. L. 100–277, §7, Apr. 4, 1988, 102 Stat. 69, provided that any agricultural aid and trade mission established under this section and any other activity under sections 1736bb to 1736bb–6 of this title were not to be considered advisory committee for purposes of Federal Advisory Committee Act, 5 App. U.S.C., prior to repeal by Pub. L. 104–127, title II, §271(b), Apr. 4, 1996, 110 Stat. 976.

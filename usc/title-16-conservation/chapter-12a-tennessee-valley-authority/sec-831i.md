@@ -4,6 +4,8 @@ The Board is empowered and authorized to sell the surplus power not used in its 
 
 (May 18, 1933, ch. 32, §10, 48 Stat. 64; Aug. 31, 1935, ch. 836, §6, 49 Stat. 1076.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1935**—Act Aug. 31, 1935, inserted last three provisos.

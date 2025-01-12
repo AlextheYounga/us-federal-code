@@ -10,6 +10,8 @@ Section 1696, act July 10, 1954, ch. 469, title III, §307, as added Sept. 21, 1
 
 Section 1697, act July 10, 1954, ch. 469, title III, §308, as added Sept. 21, 1959, Pub. L. 86–341, title I, §13, 73 Stat. 609; amended Sept. 27, 1962, Pub. L. 87–703, title II, §203, 76 Stat. 611, related to disposal of animal fats and edible oils. See section 1721 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an Effective Date of 1966 Amendment note under section 1691 of this title.

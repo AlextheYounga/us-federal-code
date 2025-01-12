@@ -4,6 +4,8 @@ In addition to the functions transferred by the provisions of Reorganization Pla
 
 (June 6, 1934, ch. 404, title I, §4B, as added Pub. L. 100–181, title III, §308(a), Dec. 4, 1987, 101 Stat. 1255.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Reorganization Plan Numbered 10 of 1950 (64 Stat. 1265), referred to in text, is set out as a note under section 78d of this title.

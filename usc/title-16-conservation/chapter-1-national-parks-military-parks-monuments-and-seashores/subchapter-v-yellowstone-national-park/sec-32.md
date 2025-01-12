@@ -8,6 +8,8 @@ The provisions of this section are not to be construed as mandatory upon the Sec
 
 (Aug. 3, 1894, ch. 198, 28 Stat. 222; June 4, 1906, ch. 2570, 34 Stat. 207; Mar. 2, 1907, ch. 2518, 34 Stat. 1219.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The first paragraph of this section is from act June 4, 1906, as amended by act Mar. 2, 1907, which changed the authorized term of leasing from ten years to twenty years as set out above. It superseded earlier provisions covering similar matter contained in the first sentence of act Aug. 3, 1894.

@@ -16,6 +16,8 @@ In administering programs of the United States Fish and Wildlife Service related
 
 (Pub. L. 101–537, title I, §1006, Nov. 8, 1990, 104 Stat. 2373; Pub. L. 101–646, title II, §2006, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, §5, Oct. 11, 2006, 120 Stat. 1764.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265.

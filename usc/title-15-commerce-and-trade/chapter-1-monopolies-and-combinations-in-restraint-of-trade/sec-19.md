@@ -28,6 +28,8 @@ For purposes of this paragraph, "competitive sales" means the gross revenues for
 
 (Oct. 15, 1914, ch. 323, §8, 38 Stat. 732; May 15, 1916, ch. 120, 39 Stat. 121; May 26, 1920, ch. 206, 41 Stat. 626; Mar. 9, 1928, ch. 165, 45 Stat. 253; Mar. 2, 1929, ch. 581, 45 Stat. 1536; Aug. 23, 1935, ch. 614, §329, 49 Stat. 717; Pub. L. 101–588, §2, Nov. 16, 1990, 104 Stat. 2879; Pub. L. 103–203, §1, Dec. 17, 1993, 107 Stat. 2368.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in subsec. (a)(1)(B), are defined in section 12 of this title.

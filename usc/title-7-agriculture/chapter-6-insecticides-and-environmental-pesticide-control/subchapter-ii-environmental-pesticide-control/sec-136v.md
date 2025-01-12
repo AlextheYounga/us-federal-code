@@ -20,6 +20,8 @@ Such State shall not impose or continue in effect any requirements for labeling 
 
 (June 25, 1947, ch. 125, §24, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 997; amended Pub. L. 95–396, §22, Sept. 30, 1978, 92 Stat. 835; Pub. L. 100–532, title VIII, §801(m), Oct. 25, 1988, 102 Stat. 2682.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -39,6 +41,8 @@ Subsec. (c)(2). Pub. L. 95–396 incorporated existing text in provisions design
 Subsec. (c)(3). Pub. L. 95–396 added par. (3).
 
 Subsec. (c)(4). Pub. L. 95–396 incorporated existing text in provisions designated par. (4) and authorized suspension of registration authority of the State based on findings of inability or failure to exercise adequate controls following an indication of intention to suspend and reasons for the suspension and provision for time to respond.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

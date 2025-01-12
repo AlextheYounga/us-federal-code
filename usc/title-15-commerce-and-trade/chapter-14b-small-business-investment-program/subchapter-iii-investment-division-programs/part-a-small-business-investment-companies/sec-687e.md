@@ -152,6 +152,8 @@ The commencement of proceedings for judicial review under this paragraph shall n
 
 (Pub. L. 85–699, title III, §313, as added Pub. L. 89–779, §7, Nov. 6, 1966, 80 Stat. 1360; amended Pub. L. 107–100, §5, Dec. 21, 2001, 115 Stat. 967.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "this chapter", referred to in subsec. (b)(1)(A)(i)(I), (II), see References in Text note set out under section 661 of this title.

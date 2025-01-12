@@ -1,5 +1,7 @@
 ### §§4705 to 4705c. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 4705 to 4705c were omitted pursuant to section 4705c which provided that the authority under this subchapter expired on Dec. 31, 2003.

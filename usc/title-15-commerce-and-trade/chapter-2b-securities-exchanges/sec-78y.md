@@ -40,6 +40,8 @@
 
 (June 6, 1934, ch. 404, title I, §25, 48 Stat. 901; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §10, Aug. 28, 1958, 72 Stat. 945; Pub. L. 94–29, §20, June 4, 1975, 89 Stat. 158; Pub. L. 99–571, title I, §102(k), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 101–432, §6(b), Oct. 16, 1990, 104 Stat. 975.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -60,6 +62,8 @@ Subsecs. (c), (d). Pub. L. 94–29 added subsecs. (c) and (d).
 
 **1958**—Subsec. (a). Pub. L. 85–791, in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", struck out "certify and" before "file in the court", struck out "a transcript of" after "file in the court", and inserted "as provided in section 2112 of title 28", and, in third sentence, substituted "petition" for "transcript", and "jurisdiction, which upon the filing of the record shall be exclusive" for "exclusive jurisdiction".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".
@@ -73,6 +77,8 @@ Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see sectio
 #### Effective Date of 1975 Amendment ####
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

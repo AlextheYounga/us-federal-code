@@ -14,6 +14,8 @@ Of the amount appropriated under this section for a fiscal year—
 
 (Pub. L. 103–340, §6, formerly §5, Oct. 6, 1994, 108 Stat. 3120; renumbered §6 and amended Pub. L. 106–316, §§1, 2(2), Oct. 19, 2000, 114 Stat. 1276; Pub. L. 109–166, §3, Jan. 10, 2006, 119 Stat. 3577.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 6 of Pub. L. 103–340 was renumbered section 7 and enacted provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title.

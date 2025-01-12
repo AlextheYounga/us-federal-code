@@ -106,6 +106,8 @@ The Commission is authorized—
 
 (Sept. 21, 1922, ch. 369, §8a, as added June 15, 1936, ch. 545, §10, 49 Stat. 1500; amended Aug. 5, 1955, ch. 574, 69 Stat. 535; Pub. L. 90–258, §§20–23, Feb. 19, 1968, 82 Stat. 32, 33; Pub. L. 93–463, title I, §103(a), title II, §§204(c), 205(c), 213–215, Oct. 23, 1974, 88 Stat. 1392, 1397, 1400, 1404; Pub. L. 95–405, §17, Sept. 30, 1978, 92 Stat. 874; Pub. L. 97–444, title I, §104, title II, §§223–225, Jan. 11, 1983, 96 Stat. 2297, 2310–2315; Pub. L. 102–546, title II, §§207(b)(3), (4), 208, 209(b)(6), 227, title IV, §402(10), Oct. 28, 1992, 106 Stat. 3604, 3607, 3618, 3625; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(19)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410; Pub. L. 111–203, title VII, §736, July 21, 2010, 124 Stat. 1722.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in pars. (2)(E) and (3)(B), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
@@ -223,6 +225,8 @@ Par. (4). Pub. L. 90–258, §22, struck out authorization for establishment of 
 Par. (7). Pub. L. 90–258, §23, added par. (7).
 
 **1955**—Par. (4). Act Aug. 5, 1955, authorized Secretary to fix and establish reasonable fees for registrations and renewals, and struck out provisions which set the fee for each registration and renewal at not more than $10.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

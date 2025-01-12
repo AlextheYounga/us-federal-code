@@ -42,9 +42,13 @@ The Commission shall, in each of the first 5 annual reports (under section 78w(b
 
 (June 6, 1934, ch. 404, title I, §17B, as added Pub. L. 101–429, title V, §506, Oct. 15, 1990, 104 Stat. 955.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 78w(b)(1) of this title, referred to in subsec. (d), was omitted from the Code. For further details related to reports referred to in subsec. (d), see Codification note set out under section 78w of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

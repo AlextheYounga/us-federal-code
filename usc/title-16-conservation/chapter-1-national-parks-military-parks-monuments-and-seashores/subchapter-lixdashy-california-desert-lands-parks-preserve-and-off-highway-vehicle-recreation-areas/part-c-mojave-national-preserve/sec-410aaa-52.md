@@ -4,6 +4,8 @@ Within three years after October 31, 1994, the Secretary shall submit to the Com
 
 (Pub. L. 103–433, title V, §512, Oct. 31, 1994, 108 Stat. 4494.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Americans with Disabilities Act of 1990, referred to in text, is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.

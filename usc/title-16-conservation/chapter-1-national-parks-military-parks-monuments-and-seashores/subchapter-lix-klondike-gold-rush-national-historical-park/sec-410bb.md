@@ -20,6 +20,8 @@ The Secretary is authorized to grant to the State of Alaska a highway right-of-w
 
 (Pub. L. 94–323, §1, June 30, 1976, 90 Stat. 717; Pub. L. 96–487, title XIII, §1309, Dec. 2, 1980, 94 Stat. 2481; Pub. L. 103–437, §6(h)(1), Nov. 2, 1994, 108 Stat. 4585.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.

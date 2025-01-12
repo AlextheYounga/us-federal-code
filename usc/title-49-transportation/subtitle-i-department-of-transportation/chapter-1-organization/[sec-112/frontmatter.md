@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 102–508, title IV, §401(a), Oct. 24, 1992, 106 Stat. 3310; amended Pub. L. 103–429, §6(1), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 108–426, §4(a), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title VII, §7301, Aug. 10, 2005, 119 Stat. 1914; Pub. L. 112–141, div. E, title II, §52012, July 6, 2012, 126 Stat. 896; Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, related to establishment of the Research and Innovative Technology Administration, whose functions were subsequently transferred to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation. See Transfer of Duties and Powers note below.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.

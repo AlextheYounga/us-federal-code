@@ -4,9 +4,13 @@ Whenever the Secretary has reason to believe that any aircraft or helicopter act
 
 (Pub. L. 93–620, §8, Jan. 3, 1975, 88 Stat. 2091.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Noise Control Act of 1972, referred to in text, is Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified generally to chapter 65 (§4901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4901 of Title 42 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

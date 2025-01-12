@@ -48,6 +48,8 @@ The Commission, by rule, may prohibit, or impose conditions or limitations on th
 
 (Aug. 22, 1940, ch. 686, title II, §205, 54 Stat. 852; Pub. L. 86–750, §7, Sept. 13, 1960, 74 Stat. 887; Pub. L. 91–547, §25, Dec. 14, 1970, 84 Stat. 1432; Pub. L. 96–477, title II, §203, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 100–181, title VII, §703, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 104–290, title II, §210, Oct. 11, 1996, 110 Stat. 3436; Pub. L. 111–203, title IV, §418, title IX, §§921(b), 928, July 21, 2010, 124 Stat. 1579, 1841, 1852; Pub. L. 115–141, div. S, title VIII, §802(b)(1), Mar. 23, 2018, 132 Stat. 1140.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (b)(3). Pub. L. 115–141 substituted "section 80a–60(a)(4)(B)(iii) of this title" for "section 80a–60(a)(3)(B)(iii) of this title" and "section 80a–60(a)(4)(B) of this title" for "section 80a–60(a)(3)(B) of this title".
@@ -70,6 +72,8 @@ Subsec. (e). Pub. L. 104–290, §210(2), added subsec. (e).
 
 **1960**—Pub. L. 86–750 substituted "unless exempt from registration pursuant to" for "registered under".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 921(b) and 928 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -79,6 +83,8 @@ Amendment by section 418 of Pub. L. 111–203 effective 1 year after July 21, 20
 #### Effective Date of 1970 Amendment ####
 
 Amendment by Pub. L. 91–547 effective on expiration of one year after Dec. 14, 1970, see section 30(1) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

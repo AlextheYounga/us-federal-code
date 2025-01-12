@@ -198,9 +198,13 @@ The authority provided by this section to impose assessments terminates on Septe
 
 (Pub. L. 108–357, title VI, §625, Oct. 22, 2004, 118 Stat. 1529.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

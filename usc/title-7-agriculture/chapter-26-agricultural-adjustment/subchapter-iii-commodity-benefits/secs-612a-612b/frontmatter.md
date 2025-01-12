@@ -1,5 +1,7 @@
 ### §§612a, 612b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 612a, act Apr. 7, 1934, ch. 103, §6, 48 Stat. 528; 1940 Reorg. Plan No. III, §5, 5 F.R. 2108, 54 Stat. 1232, authorized appropriation of $50,000,000 for purpose of dairy and beef products for distribution for relief purposes, and for elimination of diseased cattle.

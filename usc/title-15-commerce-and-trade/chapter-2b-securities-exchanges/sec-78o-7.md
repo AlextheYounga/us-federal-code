@@ -710,6 +710,8 @@ In producing a credit rating, a nationally recognized statistical rating organiz
 
 (June 6, 1934, ch. 404, title I, §15E, as added Pub. L. 109–291, §4(a), Sept. 29, 2006, 120 Stat. 1329; amended Pub. L. 111–203, title IX, §§932(a), 933(a), 934, 935, July 21, 2010, 124 Stat. 1872, 1883, 1884.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -745,6 +747,8 @@ Subsecs. (p) to (t). Pub. L. 111–203, §932(a)(8), added subsecs. (p) to (t) a
 Subsec. (u). Pub. L. 111–203, §934, added subsec. (u).
 
 Subsec. (v). Pub. L. 111–203, §935, added subsec. (v).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

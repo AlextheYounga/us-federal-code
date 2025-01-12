@@ -138,6 +138,8 @@ For purposes of this section:
 
 (Pub. L. 95–213, title I, §104, Dec. 19, 1977, 91 Stat. 1496; Pub. L. 100–418, title V, §5003(c), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 103–322, title XXXIII, §330005, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 105–366, §3, Nov. 10, 1998, 112 Stat. 3304.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of Pub. L. 95–213, the Foreign Corrupt Practices Act of 1977, and not as part of act June 6, 1934, ch. 404, 48 Stat. 881, the Securities Exchange Act of 1934, which comprises this chapter.

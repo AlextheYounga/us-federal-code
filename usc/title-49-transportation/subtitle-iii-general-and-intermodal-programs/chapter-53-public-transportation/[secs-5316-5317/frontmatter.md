@@ -8,6 +8,8 @@ Section 5317, added Pub. L. 109–59, title III, §3019(a), Aug. 10, 2005, 119 S
 
 A prior section 5317, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 815; Pub. L. 104–287, §5(14), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3029(b)(7), June 9, 1998, 112 Stat. 372, related to transportation centers, prior to repeal by Pub. L. 105–178, title V, §5110(c), June 9, 1998, 112 Stat. 444.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.

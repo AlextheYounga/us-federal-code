@@ -1,5 +1,7 @@
 ### §§368 to 368b. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 368, act Mar. 2, 1887, ch. 314, §3, 24 Stat. 441, as amended, was transferred to section 361c of this title. For provisions of section 368 which provided for assistance and advice by the Secretary of Agriculture, see section 361g of this title.

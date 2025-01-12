@@ -208,6 +208,8 @@ Any decision made under this subsection may be appealed to the Secretary in acco
 
 (Feb. 16, 1938, ch. 30, title III, §359d, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 191; amended Pub. L. 110–234, title I, §1403(d), May 22, 2008, 122 Stat. 984; Pub. L. 110–246, §4(a), title I, §1403(d), June 18, 2008, 122 Stat. 1664, 1712.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -221,6 +223,8 @@ A prior section 1359dd, act Feb. 16, 1938, ch. 30, title III, §359d, as added P
 **2008**—Subsec. (b)(1)(F). Pub. L. 110–246, §1403(d)(1), substituted "If" for "Except as otherwise provided in section 1359ff(c)(8) of this title, if".
 
 Subsec. (b)(2)(G) to (I). Pub. L. 110–246, §1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

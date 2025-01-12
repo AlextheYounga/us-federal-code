@@ -344,6 +344,8 @@ Sec.
 
 321q. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism.
 
+321r. Transfer of equipment during a public health emergency.
+
 322. Continuity of the economy plan.
 
 #### SUBCHAPTER VI—TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES OF THE UNITED STATES AND OTHER GOVERNMENTAL ORGANIZATIONS ####
@@ -810,6 +812,8 @@ Sec.
 
 665f. Cybersecurity education and training programs.
 
+665g. State and local cybersecurity grant program.
+
 #### Part B—Critical Infrastructure Information ####
 
 671. Definitions.
@@ -819,3 +823,21 @@ Sec.
 673. Protection of voluntarily shared critical infrastructure information.
 
 674. No private right of action.
+
+#### Part C—Declaration of a Significant Incident ####
+
+677. Sense of Congress.
+
+677a. Definitions.
+
+677b. Declaration.
+
+677c. Cyber Response and Recovery Fund.
+
+677d. Notification and reporting.
+
+677e. Rule of construction.
+
+677f. Authorization of appropriations.
+
+677g. Sunset.

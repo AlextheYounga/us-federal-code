@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized to cause condemnation proceedings to
 
 (Feb. 14, 1927, ch. 127, §2, 44 Stat. 1092; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 3113 of title 40" substituted in text for "the Act of August 1, 1888, entitled 'An Act to authorize condemnation of lands for sites for public buildings, and for other purposes' (Twenty-fifth Statutes at Large, page 357)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -4,6 +4,8 @@ The Secretary of Commerce (hereafter referred to in sections 758e to 758e–5 of
 
 (Pub. L. 92–444, §2, Sept. 29, 1972, 86 Stat. 745; Pub. L. 94–343, §1(1), July 6, 1976, 90 Stat. 809; Pub. L. 95–295, §1(1), June 16, 1978, 92 Stat. 319; Pub. L. 98–498, title IV, §410, Oct. 19, 1984, 98 Stat. 2309.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–498 substituted "Pacific Fisheries Development Foundation" for "Pacific Tuna Development Foundation".
@@ -11,6 +13,8 @@ The Secretary of Commerce (hereafter referred to in sections 758e to 758e–5 of
 **1978**—Pub. L. 95–295 inserted provision authorizing contracts for programs with the Pacific Tuna Development Foundation or other agency or organization.
 
 **1976**—Pub. L. 94–343 struck "three year" before "program for".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

@@ -118,13 +118,19 @@ Sec.
 
 38. Association of marine insurance companies; application of antitrust laws.
 
+#### **Editorial Notes** ####
+
 #### Historical Note ####
 
 This chapter includes among other statutory provisions the Sherman Act, comprising sections 1 to 7 of this title, the Clayton Act, comprising sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title and sections 52 and 53 of Title 29, Labor, the Wilson Tariff Act, comprising sections 8 and 9 of this title, the Robinson-Patman Price Discrimination Act, comprising sections 13, 13a, 13b, and 21a of this title, the "Expediting Act", sections 28 and 29 of this title, and the "Hart-Scott-Rodino Antitrust Improvements Act of 1976", comprising sections 15c to 15h, 18a, and 66 of this title. For complete classification of the Hart-Scott-Rodino Act, see Short Title note under section 1 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Congressional Investigation of Monopoly ####
 
 Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which was authorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services. The time for submitting the final report under Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225. The committee's report was presented to Congress on Mar. 31, 1941, and was published in Senate Document No. 35.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 12022 ####
 

@@ -4,9 +4,13 @@ There are hereby authorized to be appropriated such sums, but not more than $5,4
 
 (Pub. L. 89–102, §3, July 30, 1965, 79 Stat. 426; Pub. L. 94–578, title II, §201(5), Oct. 21, 1976, 90 Stat. 2733.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–578 substituted "$5,422,000" for "$1,168,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

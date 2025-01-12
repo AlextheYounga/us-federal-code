@@ -28,6 +28,8 @@ The Secretary of the Interior shall administer Pinnacles National Park in accord
 
 (Pub. L. 112–245, §3, Jan. 10, 2013, 126 Stat. 2386.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (c)(2) and (d), was in the original "this Act", meaning Pub. L. 112–245, Jan. 10, 2013, 126 Stat. 2385, known as the Pinnacles National Park Act, which enacted this subchapter and amended provisions listed in a table of Wilderness Areas under section 1132 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 410ooo of this title and Tables.

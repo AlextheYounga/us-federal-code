@@ -26,11 +26,15 @@ Witnesses whose depositions are taken as authorized in this chapter, and the per
 
 (June 10, 1920, ch. 285, pt. III, §307, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 91–452, title II, §221, Oct. 15, 1970, 84 Stat. 929; Pub. L. 109–58, title XII, §1284(b), Aug. 8, 2005, 119 Stat. 980.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Subsec. (a). Pub. L. 109–58 inserted ", electric utility, transmitting utility, or other entity" after "person" in two places and inserted ", or in obtaining information about the sale of electric energy at wholesale in interstate commerce and the transmission of electric energy in interstate commerce" before period at end of first sentence.
 
 **1970**—Subsec. (g). Pub. L. 91–452 struck out subsec. (g) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1970 Amendment ####
 

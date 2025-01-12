@@ -80,6 +80,8 @@ The Chief Counsel for Advocacy shall, to the extent practicable, coordinate the 
 
 (Pub. L. 94–305, title II, §203, June 4, 1976, 90 Stat. 669; Pub. L. 111–240, title I, §1602(a), Sept. 27, 2010, 124 Stat. 2551; Pub. L. 114–125, title V, §502, Feb. 24, 2016, 130 Stat. 172.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
@@ -93,6 +95,8 @@ Section was not enacted as part of the Small Business Act which comprises this c
 **2016**—Pub. L. 114–125 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **2010**—Par. (6). Pub. L. 111–240 added par. (6).
+
+#### **Executive Documents** ####
 
 #### Delegation of Authority Under 15 U.S.C. 634c(b)(3)(B) ####
 

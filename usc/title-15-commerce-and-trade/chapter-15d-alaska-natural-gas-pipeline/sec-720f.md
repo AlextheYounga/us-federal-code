@@ -24,6 +24,8 @@ In carrying out paragraph (1), the Commission, in accordance with section 17(b) 
 
 (Pub. L. 108–324, div. C, §108, Oct. 13, 2004, 118 Stat. 1261.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (b), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.

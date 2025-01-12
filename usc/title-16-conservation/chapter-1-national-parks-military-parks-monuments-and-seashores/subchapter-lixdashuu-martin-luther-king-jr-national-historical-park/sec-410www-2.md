@@ -12,6 +12,8 @@
 
 (Pub. L. 96–428, §3, Oct. 10, 1980, 94 Stat. 1840; Pub. L. 115–108, §2(3), (4), Jan. 8, 2018, 131 Stat. 2267.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460bbbb–2 of this title.

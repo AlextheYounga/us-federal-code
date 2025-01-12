@@ -26,6 +26,8 @@ Section 950a, act May 20, 1936, ch. 432, title IV, §411, as added Pub. L. 92–
 
 Section 950b, act May 20, 1936, ch. 432, title IV, §412, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 37; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221, limited loans under section 922 of this title for any borrower with a net worth in excess of 20 percent of its assets.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Congressional Findings Covering Interest Rates and Loan Prepayments ####
 
 Pub. L. 100–203, title I, §1411(a), Dec. 22, 1987, 101 Stat. 1330–22, which set out congressional findings related to interest rates and loan prepayments and was formerly set out as a note under section 948 of this title, was repealed by Pub. L. 115–334, title VI, §6602(b)(16), Dec. 20, 2018, 132 Stat. 4777.

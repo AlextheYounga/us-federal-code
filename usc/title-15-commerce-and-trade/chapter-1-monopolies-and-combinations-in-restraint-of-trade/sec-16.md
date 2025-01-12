@@ -72,6 +72,8 @@ Whenever any civil or criminal proceeding is instituted by the United States to 
 
 (Oct. 15, 1914, ch. 323, §5, 38 Stat. 731; July 7, 1955, ch. 283, §2, 69 Stat. 283; Pub. L. 93–528, §2, Dec. 21, 1974, 88 Stat. 1706; Pub. L. 94–435, title III, §302(2), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 96–349, §5(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 108–237, title II, §221(b), June 22, 2004, 118 Stat. 668.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are defined in section 12 of this title.
@@ -95,6 +97,8 @@ Subsec. (g). Pub. L. 108–237, §221(b)(3), inserted "by any officer, director,
 **1974**—Subsecs. (b) to (i). Pub. L. 93–528 added subsecs. (b) to (h) and redesignated former subsec. (b) as (i).
 
 **1955**—Act July 7, 1955, substituted subsec. (a) for first paragraph, to provide that final judgments in actions under the antitrust laws by the United States shall be prima facie evidence in damage suits by the United States as well as in private damage suits, and substituted subsec. (b) for second paragraph, to provide for a one-year suspension of limitations.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

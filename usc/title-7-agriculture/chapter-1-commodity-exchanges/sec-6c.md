@@ -144,6 +144,8 @@ The Commission shall adopt rules requiring that a contemporaneous written record
 
 (Sept. 21, 1922, ch. 369, §4c, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 93–463, title I, §103(a), title IV, §402, Oct. 23, 1974, 88 Stat. 1392, 1412; Pub. L. 95–405, §3, Sept. 30, 1978, 92 Stat. 867; Pub. L. 97–444, title I, §102, title II, §206, Jan. 11, 1983, 96 Stat. 2296, 2301; Pub. L. 99–641, title I, §102, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §203(a), title IV, §402(4), Oct. 28, 1992, 106 Stat. 3600, 3624; Pub. L. 106–554, §1(a)(5) [title I, §§109, 123(a)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–383, 2763A–407; Pub. L. 111–203, title VII, §§741(b)(2), 746, 747, July 21, 2010, 124 Stat. 1731, 1737, 1739; Pub. L. 112–105, §5, Apr. 4, 2012, 126 Stat. 293.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. L. 112–105, which is set out as a note under section 101 of the Ethics in Government Act of 1978, Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees.
@@ -207,6 +209,8 @@ Subsecs. (c) to (e). Pub. L. 95–405, §3(3), added subsecs. (c) to (e).
 **1974**—Subsec. (a). Pub. L. 93–463, §§103(a), 402(a), (b), (d), designated existing provisions as subsec. (a), in par. (B) of subsec. (a) as so designated inserted "if such transaction involves any commodity specifically set forth in section 2(a) of this title, prior to the enactment of the Commodity Futures Trading Commission Act of 1974, and" and "option", and in provisions following par. (C), struck out provisions prohibiting a construction of this section or section 6b of this title which would impair any State law applicable to any transaction enumerated or described in this section or section 6b of this title and substituted "Commission" for "Secretary of Agriculture".
 
 Subsec. (b). Pub. L. 93–463, §402(c), added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

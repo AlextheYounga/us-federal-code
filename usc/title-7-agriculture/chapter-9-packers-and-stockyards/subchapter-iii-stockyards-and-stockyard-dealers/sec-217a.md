@@ -18,9 +18,13 @@ The Secretary may, if he deems it to be in the public interest, suspend, and aft
 
 (Aug. 15, 1921, ch. 64, title III, §317, as added June 19, 1942, ch. 421, 56 Stat. 372.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Former provisions relating to fees for inspection of brands appearing upon livestock were contained in section 231 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Administrative Orders Review Act ####
 

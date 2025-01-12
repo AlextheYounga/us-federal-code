@@ -60,6 +60,8 @@ The Secretary may take such steps as may be necessary to preserve and protect va
 
 (Pub. L. 95–348, §6, Aug. 18, 1978, 92 Stat. 492; Pub. L. 103–197, §3, Dec. 17, 1993, 107 Stat. 2302; Pub. L. 103–437, §6(i), Nov. 2, 1994, 108 Stat. 4585.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsec. (b). Pub. L. 103–437, §6(i)(1), substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
@@ -69,6 +71,8 @@ Subsec. (h). Pub. L. 103–437, §6(i)(2), struck out subsec. (h) which directed
 **1993**—Subsec. (k). Pub. L. 103–197, §3(a), substituted "$8,000,000" for "$500,000".
 
 Subsecs. (l) to (o). Pub. L. 103–197, §3(b), added subsecs. (l) to (o).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Congressional Findings ####
 

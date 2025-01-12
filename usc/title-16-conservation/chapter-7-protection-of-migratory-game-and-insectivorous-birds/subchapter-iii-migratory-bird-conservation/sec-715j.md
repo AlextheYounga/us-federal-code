@@ -4,6 +4,8 @@ For the purposes of this subchapter and the Migratory Bird Treaty Act (16 U.S.C.
 
 (Feb. 18, 1929, ch. 257, §11, 45 Stat. 1224; Pub. L. 89–669, §7(c), Oct. 15, 1966, 80 Stat. 930; Pub. L. 95–616, §5(c), Nov. 8, 1978, 92 Stat. 3114.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of this chapter. For complete classification of this Act to the Code, see section 710 of this title and Tables.

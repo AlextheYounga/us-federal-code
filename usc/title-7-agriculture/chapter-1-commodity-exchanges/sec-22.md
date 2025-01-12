@@ -6,6 +6,8 @@
 
 (Sept. 21, 1922, ch. 369, §18, as added Pub. L. 93–463, title IV, §416, Oct. 23, 1974, 88 Stat. 1415.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 For effective date of section, see section 418 of Pub. L. 93–463, set out as an Effective Date of 1974 Amendment note under section 2 of this title.

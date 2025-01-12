@@ -138,6 +138,8 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (Pub. L. 96–501, §5, Dec. 5, 1980, 94 Stat. 2712; Pub. L. 106–273, §1, Sept. 22, 2000, 114 Stat. 802.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.

@@ -34,6 +34,8 @@ The Director—
 
 (Pub. L. 101–537, title I, §1008, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2008, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 7, Oct. 19, 1998, 112 Stat. 2358, 2361; Pub. L. 109–326, §7, Oct. 11, 2006, 120 Stat. 1765; Pub. L. 114–322, title III, §3901(e), Dec. 16, 2016, 130 Stat. 1850.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Executive Order 13340, referred to in subsec. (b)(5), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
@@ -63,6 +65,8 @@ Subsec. (c). Pub. L. 114–322, §3901(e)(3), added subsec. (c) and struck out f
 **1998**—Pub. L. 105–265 amended section generally, substituting present provisions for provisions which had required report not later than 1 year after date of enactment and annually thereafter.
 
 **1996**—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2008, which enacted this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

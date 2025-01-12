@@ -46,6 +46,8 @@ Any State may, not later than 7 years after September 23, 1994, enact a statute 
 
 (Pub. L. 98–440, title I, §106, Oct. 3, 1984, 98 Stat. 1691; Pub. L. 103–325, title II, §207, Sept. 23, 1994, 108 Stat. 2199.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 77d(5) of this title, referred to in subsecs. (a)(1)(A), (2)(A) and (c), was redesignated section 77d(a)(5) of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.

@@ -6,6 +6,8 @@ Section 3462, Pub. L. 103–182, title V, §512, Dec. 8, 1993, 107 Stat. 2155, r
 
 Section 3463, Pub. L. 103–182, title V, §514, Dec. 8, 1993, 107 Stat. 2157, required reports on the impact of NAFTA on motor vehicle exports to Mexico.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the date on which the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of this title.

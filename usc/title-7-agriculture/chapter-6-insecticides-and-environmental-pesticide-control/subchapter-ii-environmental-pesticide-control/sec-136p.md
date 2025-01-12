@@ -4,6 +4,8 @@ The Administrator may, at the Administrator's discretion, exempt any Federal or 
 
 (June 25, 1947, ch. 125, §18, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 94–140, §8, Nov. 28, 1975, 89 Stat. 754; Pub. L. 100–532, title VIII, §801(k), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, §1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Pub. L. 102–237 substituted "the Administrator" for "he" before "determines" and "the Administrator's" for "his".
@@ -15,6 +17,8 @@ The Administrator may, at the Administrator's discretion, exempt any Federal or 
 #### Effective Date of 1988 Amendment ####
 
 Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as a note under section 136 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

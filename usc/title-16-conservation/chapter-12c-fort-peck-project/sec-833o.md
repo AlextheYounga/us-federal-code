@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized to perform any and all acts and to p
 
 (Apr. 23, 1946, ch. 199, §4, 60 Stat. 118.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act May 18, 1938, which comprises this chapter.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -4,6 +4,8 @@ To provide further for the preservation and interpretation of historic sites, st
 
 (Pub. L. 86–321, §3, Sept. 21, 1959, 73 Stat. 591.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act approved August 21, 1935, entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes" (49 Stat. 666), referred to in text, is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.

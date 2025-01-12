@@ -22,6 +22,8 @@ Not more than 4 percent of the amounts made available under paragraph (1) may be
 
 (May 20, 1936, ch. 432, title I, §19, as added Pub. L. 106–472, title III, §301, Nov. 9, 2000, 114 Stat. 2069.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Denali Commission Act of 1998, referred to in subsec. (a)(2), is title III of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–637, which is set out as a note under section 3121 of Title 42, The Public Health and Welfare.

@@ -30,6 +30,8 @@ The United States district courts, the District Court of Guam, the District Cour
 
 (Aug. 11, 1916, ch. 313, pt. B, §17, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 91–452, title II, §203, Oct. 15, 1970, 84 Stat. 928; Pub. L. 94–582, §19, Oct. 21, 1976, 90 Stat. 2885; Pub. L. 103–156, §§10, 12(o), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsecs. (a) to (e). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
@@ -47,6 +49,8 @@ Subsec. (e). Pub. L. 94–582, §19(a), (c), substituted "Administrator" for "Se
 Subsec. (g). Pub. L. 94–582, §19(d), struck out subsec. (g) which made unlawful disclosure of information by an officer or employee of the Department of Agriculture a misdemeanor, subject to the penalties set forth in section 87c of this title.
 
 **1970**—Subsec. (f). Pub. L. 91–452 struck out subsec. (f) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

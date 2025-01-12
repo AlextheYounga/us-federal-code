@@ -40,6 +40,8 @@ The Commission upon its own motion, or upon the request of any State commission 
 
 (June 10, 1920, ch. 285, pt. II, §206, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 852; amended Pub. L. 100–473, §2, Oct. 6, 1988, 102 Stat. 2299; Pub. L. 109–58, title XII, §§1285, 1286, 1295(b), Aug. 8, 2005, 119 Stat. 980, 981, 985.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
@@ -57,6 +59,8 @@ Subsec. (e). Pub. L. 109–58, §1286, added subsec. (e).
 **1988**—Subsec. (a). Pub. L. 100–473, §2(1), inserted provisions for a statement of reasons for listed changes, hearings, and specification of issues.
 
 Subsecs. (b) to (d). Pub. L. 100–473, §2(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

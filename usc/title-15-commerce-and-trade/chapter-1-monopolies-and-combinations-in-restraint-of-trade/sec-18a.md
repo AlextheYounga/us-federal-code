@@ -146,6 +146,8 @@ If the end of any period of time provided in this section falls on a Saturday, S
 
 (Oct. 15, 1914, ch. 323, §7A, as added Pub. L. 94–435, title II, §201, Sept. 30, 1976, 90 Stat. 1390; amended Pub. L. 98–620, title IV, §402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, §1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, §133(c), Nov. 12, 1999, 113 Stat. 1383; Pub. L. 106–553, §1(a)(2) [title VI, §630(a), (c), (d)], Dec. 21, 2000, 114 Stat. 2762, 2762A–108, 2762A–110.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in subsecs. (c), (d), are defined in section 12 of this title.
@@ -193,6 +195,8 @@ Subsec. (c)(8). Pub. L. 106–102, §133(c)(2), inserted before semicolon at end
 Subsec. (c)(8). Pub. L. 101–73, §1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
 
 **1984**—Subsec. (f)(2). Pub. L. 98–620 struck out designation "(A)" before "upon the filing", and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2000 Amendment ####
 

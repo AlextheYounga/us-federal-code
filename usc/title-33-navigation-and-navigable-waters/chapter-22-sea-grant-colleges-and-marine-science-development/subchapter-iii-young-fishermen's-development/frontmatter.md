@@ -4,4 +4,4 @@
 
 #### Codification ####
 
-This subchapter was enacted as part of the Young Fishermen's Development Act, and not as part of the Marine Resources and Engineering Development Act of 1966 which comprises this chapter.
+This subchapter was enacted as part of the Young Fishermen's Development Act, and not as part of titles I and II of Pub. L. 89–454 which comprise this chapter.

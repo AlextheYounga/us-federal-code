@@ -4,9 +4,13 @@ In order to preserve in public ownership historically significant properties ass
 
 (Pub. L. 88–543, §1, Aug. 31, 1964, 78 Stat. 749.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This subchapter is comprised of Pub. L. 88–543, as amended. Pub. L. 88–543 is also listed in a table of National Historic Sites set out under section 320101 of Title 54, National Park Service and Related Programs.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Designation of Saint-Gaudens National Historical Park ####
 

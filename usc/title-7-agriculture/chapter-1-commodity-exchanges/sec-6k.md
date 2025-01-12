@@ -32,6 +32,8 @@
 
 (Sept. 21, 1922, ch. 369, §4k, as added Pub. L. 93–463, title II, §204(a), Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 95–405, §7, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §212, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, §1(a)(5) [title II, §252(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–448; Pub. L. 110–234, title XIII, §13105(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(c), June 18, 2008, 122 Stat. 1664, 2196.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -55,6 +57,8 @@ Par. (5). Pub. L. 97–444 added par. (5).
 **1978**—Par. (2). Pub. L. 95–405, §7(1), inserted provisions authorizing the Commission to prescribe the period of registration of not less than one year for associated persons.
 
 Par. (3). Pub. L. 95–405, §7(2), added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, within the boundaries of the park as
 
 (Pub. L. 94–578, title III, §320(d), Oct. 21, 1976, 90 Stat. 2739.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 251e to 251m of this title, the first three times appearing in text, was in the original "this Act" and, where last appearing, was in the original "this title", meaning Pub. L. 94–578 and title III of Pub. L. 94–578, respectively.

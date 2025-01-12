@@ -28,6 +28,8 @@ The primary functions of the Office of Advocacy shall be to—
 
 (Pub. L. 94–305, title II, §202, June 4, 1976, 90 Stat. 668; Pub. L. 96–481, title II, §203(b), Oct. 21, 1980, 94 Stat. 2327; Pub. L. 106–50, title VII, §702, Aug. 17, 1999, 113 Stat. 250.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
@@ -37,6 +39,8 @@ Section was not enacted as part of the Small Business Act which comprises this c
 **1999**—Par. (12). Pub. L. 106–50 added par. (12).
 
 **1980**—Par. (11). Pub. L. 96–481 added par. (11).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

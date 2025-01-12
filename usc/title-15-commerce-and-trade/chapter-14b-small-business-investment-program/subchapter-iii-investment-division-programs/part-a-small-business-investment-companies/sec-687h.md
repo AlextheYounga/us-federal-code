@@ -4,6 +4,8 @@ Any suit or action brought under section 687, 687a, 687c, 687e, or 687g of this 
 
 (Pub. L. 85–699, title III, §316, as added Pub. L. 89–779, §7, Nov. 6, 1966, 80 Stat. 1364.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "this chapter", referred to in text, see References in Text note set out under section 661 of this title.

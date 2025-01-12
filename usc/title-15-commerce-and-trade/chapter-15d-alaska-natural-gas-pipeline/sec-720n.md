@@ -2,15 +2,15 @@
 
 #### (a) Authority ####
 
-(1) The Secretary may enter into agreements with 1 or more holders of a certificate of public convenience and necessity issued under section 720a(b) of this title or section 719g of this title or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States, to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project.
+(1) The Secretary may enter into agreements with 1 or more holders of a certificate of public convenience and necessity issued under section 720a(b) of this title or section 719g of this title or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska, to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project.
 
 (2) Subject to the requirements of this section, the Secretary may also enter into agreements with 1 or more owners of the Canadian portion of a qualified infrastructure project to issue Federal guarantee instruments with respect to loans and other debt obligations for a qualified infrastructure project as though such owner were a holder described in paragraph (1).
 
-(3) The authority of the Secretary to issue Federal guarantee instruments under this section for a qualified infrastructure project shall expire on the date that is 2 years after the date on which the final certificate of public convenience and necessity (including any Canadian certificates of public convenience and necessity) is issued for the project. A final certificate shall be considered to have been issued when all certificates of public convenience and necessity have been issued that are required for the initial transportation of commercially economic quantities of natural gas from Alaska to the continental United States.
+(3) The authority of the Secretary to issue Federal guarantee instruments under this section for a qualified infrastructure project shall expire on the date that is 2 years after the date on which the final certificate of public convenience and necessity (including any Canadian certificates of public convenience and necessity) is issued for the project. A final certificate shall be considered to have been issued when all certificates of public convenience and necessity have been issued that are required for the initial transportation of commercially economic quantities of natural gas from Alaska.
 
 #### (b) Conditions ####
 
-(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section 719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
+(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section 719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska. In no case shall loan guarantees be issued for more than one qualified project.
 
 (2) The Secretary may issue a Federal guarantee instrument under this section for a qualified infrastructure project only if the loan or other debt obligation guaranteed by the instrument has been issued by an eligible lender.
 
@@ -60,15 +60,25 @@ The term "Federal guarantee instrument" means any guarantee or other pledge by t
 
 #### (4) Qualified infrastructure project ####
 
-The term "qualified infrastructure project" means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants <sup><a href="#720n_1_target" name="720n_1">1</a></sup> liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska to the West Coast), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope to the continental United States.
+The term "qualified infrastructure project" means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants, liquification plants, and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope.
 
-(Pub. L. 108–324, div. C, §116, Oct. 13, 2004, 118 Stat. 1265; Pub.L. 108–199, div. H, §146, Jan. 23, 2004, 118 Stat. 444; Pub. L. 108–447, div. J, title I, §114, Dec. 8, 2004, 118 Stat. 3346.)
+(Pub. L. 108–324, div. C, §116, Oct. 13, 2004, 118 Stat. 1265; Pub.L. 108–199, div. H, §146, Jan. 23, 2004, 118 Stat. 444; Pub. L. 108–447, div. J, title I, §114, Dec. 8, 2004, 118 Stat. 3346; Pub. L. 117–58, div. D, title IV, §40401(d), Nov. 15, 2021, 135 Stat. 1037.)
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
 The Securities Act of 1933, referred to in subsec. (g)(2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(1). Pub. L. 117–58, §40401(d)(1)(A), struck out "to West Coast States" after "Alaska".
+
+Subsec. (a)(3). Pub. L. 117–58, §40401(d)(1)(B), struck out "to the continental United States" after "Alaska".
+
+Subsec. (b)(1). Pub. L. 117–58, §40401(d)(2), struck out "to West Coast States" after "Alaska".
+
+Subsec. (g)(4). Pub. L. 117–58, §40401(d)(3), substituted "plants, liquification plants, and" for "plants liquification plants and" and struck out "to the West Coast" after "southcentral Alaska" and "to the continental United States" after "Alaska North Slope".
 
 **2004**—Subsec. (a)(1). Pub.L. 108–199, §146(1), as amended by Pub. L. 108–447, §114(a)(1), (2), which directed the amendment of subsec. (a) by inserting "or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States," before "to issue", was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
 
@@ -79,5 +89,3 @@ Subsec. (b)(4). Pub. L. 108–447, §114(b), added par. (4).
 Subsec. (c)(2). Pub. L. 108–199, §146(3), as amended by Pub. L. 108–447, §114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting ", except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000" before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
 
 Subsec. (g)(4). Pub.L. 108–199, §146(4), as amended by Pub. L. 108–447, §114(1), (2), (5), inserted "or system" after "gas transportation project" and "liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast" after "including gas treatment plants".
-
-[<sup>1</sup> So in original. Probably should be followed by a comma.](#720n_1)

@@ -30,11 +30,15 @@ The Commission shall—
 
 (Pub. L. 96–477, title V, §503, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 114–284, §2(c), Dec. 16, 2016, 130 Stat. 1452; Pub. L. 115–174, title V, §503, May 24, 2018, 132 Stat. 1362.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (e). Pub. L. 115–174 added subsec. (e).
 
 **2016**—Subsec. (a). Pub. L. 114–284 inserted "(acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee)" after "the Securities and Exchange Commission".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

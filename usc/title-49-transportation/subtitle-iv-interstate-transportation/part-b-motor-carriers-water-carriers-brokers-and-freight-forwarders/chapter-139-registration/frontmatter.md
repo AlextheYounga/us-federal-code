@@ -20,6 +20,8 @@ Sec.
 
 13909. Availability of information.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–141, div. C, title II, §32914(b)(2), July 6, 2012, 126 Stat. 820, added item 13909.

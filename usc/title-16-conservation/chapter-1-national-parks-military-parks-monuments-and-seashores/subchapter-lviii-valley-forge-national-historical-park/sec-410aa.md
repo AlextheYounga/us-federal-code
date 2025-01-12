@@ -4,6 +4,8 @@ In order to preserve and commemorate for the people of the United States the are
 
 (Pub. L. 94–337, §1, July 4, 1976, 90 Stat. 796.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 1999 Amendment ####
 
 Pub. L. 106–86, §1, Oct. 31, 1999, 113 Stat. 1298, provided that: "This Act [enacting provisions set out as a note under this section] may be cited as the 'Pennsylvania Battlefields Protection Act of 1999'."

@@ -54,6 +54,8 @@ The term "take" means—
 
 (Mar. 16, 1934, ch. 71, §10, as added Pub. L. 109–266, §10(h), Aug. 3, 2006, 120 Stat. 678.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.

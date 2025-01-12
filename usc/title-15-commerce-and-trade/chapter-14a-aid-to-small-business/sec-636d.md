@@ -10,6 +10,8 @@ Assistance under this section shall be in addition to any other Federal disaster
 
 (Pub. L. 91–606, title II, §237, Dec. 31, 1970, 84 Stat. 1754.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4418 of title 42, referred to in subsec. (b), was repealed by Pub. L. 93–288, title VI, §603, May 22, 1974, 88 Stat. 164. Provisions similar to former section 4418 of Title 42, The Public Health and Welfare, are contained in section 5155 of Title 42.
@@ -17,6 +19,8 @@ Section 4418 of title 42, referred to in subsec. (b), was repealed by Pub. L. 93
 #### Codification ####
 
 Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act which comprises this chapter. Section was formerly classified to section 4456 of Title 42, The Public Health and Welfare.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

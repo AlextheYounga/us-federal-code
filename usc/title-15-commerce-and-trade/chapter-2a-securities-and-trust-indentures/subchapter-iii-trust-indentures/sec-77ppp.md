@@ -20,6 +20,8 @@ The obligor upon any indenture qualified under this subchapter may set a record 
 
 (May 27, 1933, ch. 38, title III, §316, as added Aug. 3, 1939, ch. 411, 53 Stat. 1172; amended Pub. L. 101–550, title IV, §415, Nov. 15, 1990, 104 Stat. 2731.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (a). Pub. L. 101–550, §415(1)–(3), in introductory provisions struck out "may contain provisions" after "qualified", in par. (1) inserted "shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions" before "authorizing the holders" and "or if expressly specified in such indenture, of any series of securities" after "principal amount of the indenture securities", and in par. (2) inserted "may contain provisions" before "authorizing the holders" and "or if expressly specified in such indenture, of any series of securities" after "principal amount of the indenture securities".

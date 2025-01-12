@@ -4,6 +4,8 @@ Any China Trade Act corporation existing on June 25, 1938, may make its existenc
 
 (June 25, 1938, ch. 696, §2, 52 Stat. 1196.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the China Trade Act, 1922, which comprises this chapter.

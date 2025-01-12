@@ -4,6 +4,8 @@ The Yellowstone National Park, as its boundaries now are defined, or as they may
 
 (May 7, 1894, ch. 72, §1, 28 Stat. 73.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act May 7, 1894, which is classified to sections 24 to 30a of this title. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ This Act, referred to in text, is act May 7, 1894, which is classified to sectio
 #### Codification ####
 
 Section 2 of act May 7, 1894, provided that the Yellowstone National Park should be part of the judicial district of Wyoming, and that the courts of the United States for the district should have jurisdiction of all offenses committed within the park. It was superseded by act Mar. 3, 1911, ch. 231, §115, 36 Stat. 1130, constituting the State of Wyoming and Yellowstone National Park the judicial district of Wyoming, that section being in turn superseded by act June 5, 1924, ch. 260, 43 Stat. 388. Provisions of that act are covered by section 131 of Title 28, Judiciary and Judicial Procedure.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Wyoming: Jurisdiction Over Park ####
 

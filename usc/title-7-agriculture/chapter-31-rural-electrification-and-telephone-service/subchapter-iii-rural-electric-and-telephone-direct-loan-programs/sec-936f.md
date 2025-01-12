@@ -42,6 +42,8 @@ Not later than 1 year after the date of enactment of this section and annually t
 
 (May 20, 1936, ch. 432, title III, §306F, as added Pub. L. 110–234, title VI, §6105, May 22, 2008, 122 Stat. 1196, and Pub. L. 110–246, §4(a), title VI, §6105, June 18, 2008, 122 Stat. 1664, 1957.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -49,6 +51,8 @@ The date of enactment of this section, referred to in subsec. (d), is the date o
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

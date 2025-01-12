@@ -4,9 +4,13 @@ Upon proclamation of the President, as herein provided, sufficient of the areas 
 
 (July 3, 1930, ch. 837, §1, 46 Stat. 855; June 5, 1936, ch. 525, §2, 49 Stat. 1483.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 443 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

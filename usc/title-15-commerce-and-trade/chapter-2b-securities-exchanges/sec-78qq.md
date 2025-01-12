@@ -130,6 +130,8 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect 
 
 (June 6, 1934, ch. 404, title I, §40, as added Pub. L. 114–284, §2(b), Dec. 16, 2016, 130 Stat. 1450.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

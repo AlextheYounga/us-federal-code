@@ -4,6 +4,8 @@ Whenever the Secretary has reason to believe that any person subject to this cha
 
 (Aug. 15, 1921, ch. 64, title IV, §408, as added Pub. L. 94–410, §5, Sept. 13, 1976, 90 Stat. 1250; amended Pub. L. 100–173, §8, Nov. 23, 1987, 101 Stat. 919.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 A prior section 228a, act Sept. 21, 1944, ch. 412, title I, §101(c), 58 Stat. 734, which related to inspections of livestock, hides, animal products, etc., was transferred to section 396 of this title.
@@ -15,6 +17,8 @@ A prior section 408 of act Aug. 15, 1921, was renumbered section 417 and is clas
 #### Amendments ####
 
 **1987**—Pub. L. 100–173 inserted "or live poultry, or has failed to pay any poultry grower what is due on account of poultry obtained under a poultry growing arrangement," after "unmanufactured form,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1987 Amendment ####
 

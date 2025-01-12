@@ -10,6 +10,8 @@ Contracts, exchanges, and leases made under this section shall be on terms that,
 
 (May 27, 1937, ch. 269, §4, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 18; Sept. 26, 1950, ch. 1048, §1(4), 64 Stat. 1037; Pub. L. 85–264, §1(d), Sept. 2, 1957, 71 Stat. 591; Pub. L. 87–728, §3, Oct. 1, 1962, 76 Stat. 678.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), is act May 27, 1937, ch. 269, as amended generally by act Mar. 10, 1943, ch. 14, 57 Stat. 14, known as The Columbia Basin Project Act, which enacted this section, sections 835, 835a, 835b, and 835c–1 to 835c–5 of this title, and provisions set out as a note under section 835 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 835 of this title and Tables.
@@ -27,6 +29,8 @@ Subsec. (b). Pub. L. 87–728 authorized farm units which are not suitable for s
 **1950**—Subsec. (b). Act Sept. 26, 1950, permitted the Secretary to make recordable contract provisions applicable to lands to be included in farm units.
 
 **1943**—Act Mar. 10, 1943, amended section generally.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Amendment of Contracts, Instruments, Rules, Regulations, Forms, and Procedures ####
 

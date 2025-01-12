@@ -32,6 +32,8 @@ In sections 27 to 27f of this title, the term "hybrid instrument" means an ident
 
 (Pub. L. 106–554, §1(a)(5) [title IV, §402], Dec. 21, 2000, 114 Stat. 2763, 2763A–457; Pub. L. 111–203, title VII, §§721(e)(9), 725(g)(1)(B), July 21, 2010, 124 Stat. 1672, 1694.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4), is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25 of the Federal Reserve Act, referred to in subsec. (a)(5), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
@@ -51,6 +53,8 @@ Subsec. (b)(2). Pub. L. 111–203, §721(e)(9)(B), substituted "section 1a" for 
 Subsec. (c). Pub. L. 111–203, §721(e)(9)(C), substituted "section 1a" for "section 1a(4)".
 
 Subsec. (d). Pub. L. 111–203, §725(g)(1)(B), struck out subsec. (d) which defined covered swap agreement.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

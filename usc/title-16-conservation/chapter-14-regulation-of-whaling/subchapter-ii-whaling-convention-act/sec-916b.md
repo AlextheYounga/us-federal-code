@@ -4,6 +4,8 @@ The Secretary of State is authorized, with the concurrence of the Secretary of C
 
 (Aug. 9, 1950, ch. 653, §4, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.

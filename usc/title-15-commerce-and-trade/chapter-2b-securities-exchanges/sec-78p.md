@@ -60,6 +60,8 @@ The authority of the Commission under this section with respect to security-base
 
 (June 6, 1934, ch. 404, title I, §16, 48 Stat. 896; Pub. L. 88–467, §8, Aug. 20, 1964, 78 Stat. 579; Pub. L. 106–554, §1(a)(5) [title II, §208(b)(3), title III, §303(g), (h)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–455, 2763A–456; Pub. L. 107–204, title IV, §403(a), July 30, 2002, 116 Stat. 788; Pub. L. 111–203, title VII, §762(d)(5), title IX, §929R(b), July 21, 2010, 124 Stat. 1761, 1867.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (a)(1). Pub. L. 111–203, §929R(b)(1), struck out "(and, if such security is registered on a national securities exchange, also with the exchange)" after "Commission".
@@ -88,6 +90,8 @@ Subsec. (g). Pub. L. 106–554, §1(a)(5) [title III, §303(h)], added subsec. (
 
 Subsecs. (d), (e). Pub. L. 88–467, §8(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by section 929R(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -101,6 +105,8 @@ Pub. L. 107–204, title IV, §403(b), July 30, 2002, 116 Stat. 789, provided th
 #### Effective Date of 1964 Amendment ####
 
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under section 78c of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

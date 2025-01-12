@@ -6,13 +6,15 @@ The Commission shall have an official seal, which shall be judicially noticed.
 
 (Sept. 26, 1914, ch. 311, §1, 38 Stat. 717; Mar. 21, 1938, ch. 49, §1, 52 Stat. 111; 1950 Reorg. Plan No. 8, §3, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1938**—Act Mar. 21, 1938, inserted proviso clause to third sentence.
 
-#### Transfer of Functions ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
-Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by Reorg. Plan No. 8 of 1950, set out below.
+#### Transfer of Functions ####
 
 Functions of Federal Trade Commission (1) under Flammable Fabrics Act [section 1191 et seq. of this title] and under this subchapter to extent that such functions relate to administration of Flammable Fabrics Act, and (2) under Act of August 2, 1956, [section 1211 et seq. of this title], transferred to Consumer Product Safety Commission by section 30 of Act Oct. 27, 1972, Pub. L. 92–573 [section 2079 of this title].
 
@@ -25,6 +27,12 @@ Pub. L. 106–102, title I, §133(a), (b), Nov. 12, 1999, 113 Stat. 1383, provid
 "(a) Clarification of Federal Trade Commission Jurisdiction.—Any person that directly or indirectly controls, is controlled directly or indirectly by, or is directly or indirectly under common control with, any bank or savings association (as such terms are defined in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]) and is not itself a bank or savings association shall not be deemed to be a bank or savings association for purposes of any provisions applied by the Federal Trade Commission under the Federal Trade Commission Act [15 U.S.C. 41 et seq.].
 
 "(b) Savings Provision.—No provision of this section [amending section 18a of this title] shall be construed as restricting the authority of any Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]) under any Federal banking law, including section 8 of the Federal Deposit Insurance Act [12 U.S.C. 1818]."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by Reorg. Plan No. 8 of 1950, set out below.
 
 #### **REORGANIZATION PLAN NO. 8 OF 1950** ####
 

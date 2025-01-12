@@ -178,6 +178,8 @@ Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that
 
 Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665, provided that: "Any amendment made by this title which provides for the imposition of civil penalties [enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title] shall apply only to violations occurring or continuing after the date of its enactment [Nov. 10, 1978]."
 
+#### **Executive Documents** ####
+
 #### Exception as to Transfer of Functions ####
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

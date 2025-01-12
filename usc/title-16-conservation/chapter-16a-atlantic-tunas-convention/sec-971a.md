@@ -34,6 +34,8 @@ It is the sense of the Congress that the United States Commissioners should seek
 
 (Pub. L. 94–70, §3, Aug. 5, 1975, 89 Stat. 385; Pub. L. 101–627, title II, §§201(a), 203, Nov. 28, 1990, 104 Stat. 4459, 4460; Pub. L. 106–562, title III, §303, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 109–479, title IV, §405(c), Jan. 12, 2007, 120 Stat. 3633.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (e). Pub. L. 109–479 added subsec. (e).
@@ -43,6 +45,8 @@ It is the sense of the Congress that the United States Commissioners should seek
 **1990**—Subsec. (a). Pub. L. 101–627, §201(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (d). Pub. L. 101–627, §203, added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Limitations on Appointments of Commissioners; Application to Current Commissioners ####
 

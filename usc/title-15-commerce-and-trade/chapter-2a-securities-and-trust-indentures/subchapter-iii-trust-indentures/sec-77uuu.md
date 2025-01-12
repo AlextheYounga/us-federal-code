@@ -30,9 +30,13 @@ The provisions section 78d(b) of this title shall be applicable with respect to 
 
 (May 27, 1933, ch. 38, title III, §321, as added Aug. 3, 1939, ch. 411, 53 Stat. 1174; amended Pub. L. 101–550, title I, §104(b), Nov. 15, 1990, 104 Stat. 2714.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (d). Pub. L. 101–550 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The provisions of section 78d(b) of this title shall be applicable with respect to the power of the Commission to appoint and fix the compensation of such officers, attorneys, examiners, and other experts, and such other officers and employees, as may be necessary for carrying out its functions under this subchapter."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

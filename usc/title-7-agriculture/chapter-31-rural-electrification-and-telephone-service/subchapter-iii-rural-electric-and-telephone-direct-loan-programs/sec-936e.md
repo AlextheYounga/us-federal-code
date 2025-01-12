@@ -18,11 +18,15 @@ Nothing in this section limits the authority of the Secretary to establish terms
 
 (May 20, 1936, ch. 432, title III, §306E, as added Pub. L. 103–129, §2(c)(7), Nov. 1, 1993, 107 Stat. 1365; amended Pub. L. 103–201, §1, Dec. 17, 1993, 107 Stat. 2342; Pub. L. 103–354, title II, §235(a)(8), (13), Oct. 13, 1994, 108 Stat. 3221.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–354 substituted "Secretary" for "Administrator" in heading of subsec. (d) and wherever appearing in text.
 
 **1993**—Pub. L. 103–201 inserted "certain" before "electric" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Administrator may not require prior approval of, impose any requirement, restriction, or prohibition with respect to the operations of, or deny or delay the granting of a lien accommodation to, any electric borrower under this chapter whose net worth exceeds 110 percent of the outstanding principal balance on all loans made or guaranteed to the borrower by the Administrator."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Regulations ####
 

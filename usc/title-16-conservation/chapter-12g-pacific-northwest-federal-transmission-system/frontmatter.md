@@ -27,3 +27,7 @@ Sec.
 838k. Bonneville Power Administration bonds.
 
 838l. Bonneville Power Administration refinancing.
+
+838m. Power marketing administration transmission borrowing authority.
+
+838n. Columbia Basin power management.

@@ -14,6 +14,8 @@ Subject to valid existing rights the following-described lands, in addition to t
 
 (Mar. 6, 1942, ch. 152, §1, 56 Stat. 138; July 27, 1942, ch. 526, 56 Stat. 722; Pub. L. 94–567, §4(a)(1), Oct. 20, 1976, 90 Stat. 2694.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–567 designated existing provisions as par. (a), redesignated subpars. (a) to (c) as (1) to (3), respectively, and added par. (b).

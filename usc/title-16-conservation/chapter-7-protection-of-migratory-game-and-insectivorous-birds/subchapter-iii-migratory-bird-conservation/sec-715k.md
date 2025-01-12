@@ -4,6 +4,8 @@ For the acquisition, including the location, examination, and survey, of suitabl
 
 (Feb. 18, 1929, ch. 257, §12, 45 Stat. 1224; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, §7(a), Oct. 15, 1966, 80 Stat. 929.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions of this section which related to appropriations for the fiscal year ending June 30, 1930, to June 30, 1939, were omitted.
@@ -11,6 +13,8 @@ Provisions of this section which related to appropriations for the fiscal year e
 #### Amendments ####
 
 **1966**—Pub. L. 89–669 substituted "grounds frequented by migratory birds" for "grounds frequented by migratory game birds", and "United States protector" for "United States game protector".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

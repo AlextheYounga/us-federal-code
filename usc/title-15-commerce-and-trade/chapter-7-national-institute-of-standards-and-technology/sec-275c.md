@@ -4,6 +4,8 @@ Fees for calibration services, standard reference materials, and other comparabl
 
 (Pub. L. 99–73, §5(b), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The amendments made by subsection (a), referred to in text, mean the amendments made by subsec. (a) of section 5 of Pub. L. 99–73, which amended section 278b(f) of this title.
@@ -15,6 +17,8 @@ Section was not enacted as part of the National Institute and Technology Act whi
 #### Amendments ####
 
 **1988**—Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

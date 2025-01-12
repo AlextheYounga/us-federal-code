@@ -30,6 +30,8 @@ In addition to the sites described in subsection (b), the park shall consist of 
 
 (Pub. L. 102–419, title I, §101, Oct. 16, 1992, 106 Stat. 2141; Pub. L. 106–356, §2(a), Oct. 24, 2000, 114 Stat. 1391; Pub. L. 111–11, title VII, §7117(a), Mar. 30, 2009, 123 Stat. 1204; Pub. L. 114–328, div. B, title XXVIII, §2832, Dec. 23, 2016, 130 Stat. 2740.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (b)(5). Pub. L. 114–328 substituted "National Museum" for "Aviation Center".
@@ -49,6 +51,8 @@ In addition to the sites described in subsection (b), the park shall consist of 
 #### Short Title of 2000 Amendment ####
 
 Pub. L. 106–356, §1, Oct. 24, 2000, 114 Stat. 1391, provided that: "This Act [amending this section and sections 410ww–6 and 410ww–8 of this title] may be cited as the 'Dayton Aviation Heritage Preservation Amendments Act of 2000'."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

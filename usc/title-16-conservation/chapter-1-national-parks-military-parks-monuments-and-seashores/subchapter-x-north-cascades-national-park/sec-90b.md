@@ -6,9 +6,13 @@
 
 (Pub. L. 90–544, title III, §301, Oct. 2, 1968, 82 Stat. 927; Pub. L. 100–668, title II, §203, Nov. 16, 1988, 102 Stat. 3963.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (b). Pub. L. 100–668 added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Boundary Adjustments for Road ####
 

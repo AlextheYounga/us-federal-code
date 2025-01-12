@@ -92,6 +92,8 @@ The Secretary shall administer the park in accordance with the provisions of thi
 
 (Pub. L. 96–607, title XVI, §1601, Dec. 28, 1980, 94 Stat. 3546; Pub. L. 98–402, Aug. 28, 1984, 98 Stat. 1478; Pub. L. 100–475, §1, Oct. 6, 1988, 102 Stat. 2303; Pub. L. 104–333, div. I, title V, §505, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–258, §1, Aug. 8, 2000, 114 Stat. 655.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (g), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -133,6 +135,8 @@ Subsec. (i). Pub. L. 104–333, §505(b), designated existing provisions as par.
 **1984**—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted "McClintock House and related structures, 14 and 16 East Williams Street" for "McClintock House, 16 East Williams Street".
 
 Subsec. (d). Pub. L. 98–402, §1(b), substituted "paragraphs (7) and (9)" for "paragraphs (7) through (9)", and inserted "Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### General Management Plans; Submittal to Congressional Committees ####
 

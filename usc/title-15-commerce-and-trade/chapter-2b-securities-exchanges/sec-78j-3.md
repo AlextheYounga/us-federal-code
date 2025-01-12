@@ -136,9 +136,13 @@ For purposes of this section, the term "controlled company" means an issuer—
 
 (June 6, 1934, ch. 404, title I, §10C, as added Pub. L. 111–203, title IX, §952(a), July 21, 2010, 124 Stat. 1900.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

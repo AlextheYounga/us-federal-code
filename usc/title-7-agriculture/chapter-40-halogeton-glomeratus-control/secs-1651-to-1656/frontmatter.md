@@ -12,6 +12,8 @@ Section 1655, act July 14, 1952, ch. 721, §6, 66 Stat. 598, authorized appropri
 
 Section 1656, act July 14, 1952, ch. 721, §7, 66 Stat. 599, set forth provisions relating to extent of authority of this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act July 14, 1952, ch. 721, §1, 66 Stat. 597, which provided that this chapter could be cited as the "Halogeton Glomeratus Control Act", was repealed by Pub. L. 106–224, title IV, §438(a)(7), June 20, 2000, 114 Stat. 454.

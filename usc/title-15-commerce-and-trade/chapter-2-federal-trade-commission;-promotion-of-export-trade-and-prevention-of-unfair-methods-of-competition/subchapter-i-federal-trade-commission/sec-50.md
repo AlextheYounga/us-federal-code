@@ -10,6 +10,8 @@ Any officer or employee of the Commission who shall make public any information 
 
 (Sept. 26, 1914, ch. 311, §10, 38 Stat. 723; June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 93–637, title II, §203(c), Jan. 4, 1975, 88 Stat. 2199; Pub. L. 96–252, §6, May 28, 1980, 94 Stat. 376.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—First par. Pub. L. 96–252 inserted "any" after "produce" and "an order of a district court of the United States directing compliance with" after "obedience to".
@@ -18,6 +20,8 @@ Any officer or employee of the Commission who shall make public any information 
 
 Third par. Pub. L. 93–637, §203(c)(2), substituted "If any persons, partnership, or corporation" for "If any corporation", and "in the case of a corporation or partnership in the district where the corporation or partnership has its principal office or in any district in which it shall do business, and in the case of any person in the district where such person resides or has his principal place of business" for "in the district where the corporation has its principal office or in any district in which it shall do business".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorneys" for "district attorneys". See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
@@ -25,6 +29,8 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorneys" for
 #### Effective Date of 1980 Amendment ####
 
 Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as a note under section 45 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

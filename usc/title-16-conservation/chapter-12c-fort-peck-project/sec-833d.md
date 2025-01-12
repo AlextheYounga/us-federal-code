@@ -4,13 +4,19 @@ Schedules of rates and charges for electric energy produced at the Fort Peck pro
 
 (May 18, 1938, ch. 250, §5, 52 Stat. 405; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
 "Secretary of Energy" substituted in text for "Federal Power Commission" pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
 
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 

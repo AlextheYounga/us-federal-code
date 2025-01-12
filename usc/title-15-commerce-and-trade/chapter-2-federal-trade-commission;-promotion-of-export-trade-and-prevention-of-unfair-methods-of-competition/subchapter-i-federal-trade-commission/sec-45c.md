@@ -120,6 +120,8 @@ Nothing in this subsection may be construed to prohibit an authorized official o
 
 (Pub. L. 114–274, §2, Dec. 14, 2016, 130 Stat. 1401.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
@@ -127,6 +129,8 @@ The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26
 #### Codification ####
 
 Section was enacted as part of the Better Online Ticket Sales Act of 2016 or the BOTS Act of 2016, and not as part of the Federal Trade Commission Act which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

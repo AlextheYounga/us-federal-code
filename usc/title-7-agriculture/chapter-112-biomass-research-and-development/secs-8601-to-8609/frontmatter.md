@@ -20,9 +20,13 @@ Section 8609, Pub. L. 106–224, title III, §310, as added Pub. L. 107–171, t
 
 A prior section 310 of Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 437, renumbered section 311 and amended Pub. L. 107–171, title IX, §9008(a)(2), (b), May 13, 2002, 116 Stat. 483, which provided this chapter would terminate Sept. 30, 2007, was repealed by Pub. L. 109–58, title IX, §941(h), Aug. 8, 2005, 119 Stat. 878.
 
+#### **Editorial Note** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 repealed this chapter. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246. This chapter was comprised generally of title III (§§301–311) of Pub. L. 106–224, June 20, 2000, 114 Stat. 428, as amended. Title III of Pub. L. 106–224 was formerly set out as a note under section 8101 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 

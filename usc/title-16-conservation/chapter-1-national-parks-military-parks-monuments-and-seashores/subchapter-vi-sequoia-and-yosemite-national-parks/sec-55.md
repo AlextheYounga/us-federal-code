@@ -8,6 +8,8 @@ Any mortgage, lien, or encumbrance created under the provisions hereof shall be 
 
 (Oct. 1, 1890, ch. 1263, §2, 26 Stat. 651; July 23, 1914, ch. 206, 38 Stat. 554; June 12, 1917, ch. 27, §1, 40 Stat. 153.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This section superseded earlier provisions as to leases contained in section 2 of act Oct. 1, 1890.

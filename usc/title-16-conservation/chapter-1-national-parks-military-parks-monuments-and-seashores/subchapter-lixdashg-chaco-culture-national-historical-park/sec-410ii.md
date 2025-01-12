@@ -14,9 +14,13 @@
 
 (Pub. L. 96–550, title V, §501, Dec. 19, 1980, 94 Stat. 3227; Pub. L. 104–11, §2, May 18, 1995, 109 Stat. 158.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1995**—Subsec. (b). Pub. L. 104–11 substituted "San Juan Basin and surrounding areas" for "San Juan Basin".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2004 Amendment ####
 

@@ -38,6 +38,8 @@ In case a complaint is made by a nonresident of the United States, or by a resid
 
 (June 10, 1930, ch. 436, §6, 46 Stat. 534; Apr. 13, 1934, ch. 120, §§8–10, 48 Stat. 586, 587; Aug. 20, 1937, ch. 719, §§8, 9, 50 Stat. 728; Pub. L. 86–507, §1(4), June 11, 1960, 74 Stat. 200; Pub. L. 87–725, §8, Oct. 1, 1962, 76 Stat. 675; Pub. L. 92–231, §1, Feb. 15, 1972, 86 Stat. 38; Pub. L. 97–98, title XI, §1115(c), Dec. 22, 1981, 95 Stat. 1270; Pub. L. 97–352, §2, Oct. 18, 1982, 96 Stat. 1667; Pub. L. 102–237, title X, §1011(4), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§7, 8(a), Nov. 15, 1995, 109 Stat. 428, 429.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 556 of this title.
@@ -81,6 +83,8 @@ Subsec. (e). Act Aug. 20, 1937, §9, inserted "and any reparation award that may
 Subsec. (d). Act Apr. 13, 1934, §9, substituted "complaints" for "a complaint" after "on" and inserted "where damages claimed do not exceed the sum of $500 not requiring hearing as provided herein" after "complaints".
 
 Subsec. (e). Act Apr. 13, 1934, §10, among other changes, inserted "formal" before "action".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1982 Amendment ####
 

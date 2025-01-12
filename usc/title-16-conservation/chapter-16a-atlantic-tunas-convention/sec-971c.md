@@ -10,11 +10,15 @@ The Secretary of State, in consultation with the Secretary and the Secretary of 
 
 (Pub. L. 94–70, §5, Aug. 5, 1975, 89 Stat. 386; Pub. L. 104–43, title III, §303(3), Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, §202(b)(1)(B), Nov. 13, 1998, 112 Stat. 3452.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Subsec. (b). Pub. L. 105–384 directed amendment identical to amendment by Pub. L. 104–43. See 1995 Amendment note below.
 
 **1995**—Subsec. (b). Pub. L. 104–43 substituted "exclusive economic zone" for "fisheries zone" after "territorial seas or" in third sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

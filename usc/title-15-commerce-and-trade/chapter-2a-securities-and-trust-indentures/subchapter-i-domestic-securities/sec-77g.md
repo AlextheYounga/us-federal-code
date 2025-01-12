@@ -62,6 +62,8 @@ Not later than 180 days after July 21, 2010, the Commission shall issue rules re
 
 (May 27, 1933, ch. 38, title I, §7, 48 Stat. 78; Pub. L. 101–429, title V, §508, Oct. 15, 1990, 104 Stat. 956; Pub. L. 111–203, title IX, §§942(b), 945, July 21, 2010, 124 Stat. 1897, 1898; Pub. L. 112–106, title I, §102(b)(1), Apr. 5, 2012, 126 Stat. 309.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 78c(a)(77) of this title, referred to in subsec. (d), was redesignated section 78c(a)(79) of this title by Pub. L. 112–106, title I, §101(b)(1), Apr. 5, 2012, 126 Stat. 307.
@@ -75,6 +77,8 @@ Section 78c(a)(77) of this title, referred to in subsec. (d), was redesignated s
 Subsec. (d). Pub. L. 111–203, §945, added subsec. (d).
 
 **1990**—Pub. L. 101–429 designated existing provision as subsec. (a) and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 
@@ -99,10 +103,6 @@ Pub. L. 101–429, §1(c), Oct. 15, 1990, 104 Stat. 931, provided that:
 "(B) Sections 505 and 508.—Except as provided in subparagraph (C), sections 505 [amending section 78o of this title] and 508 [amending this section] shall be effective 18 months after the date of enactment of this Act or upon the issuance of final regulations initially implementing such sections [Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.], whichever is earlier.
 
 "(C) Commencement of rulemaking.—Not later than 180 days after the date of enactment of this Act, the Commission shall commence rulemaking proceedings to implement sections 503, 505, and 508."
-
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Improvement of Regulation S–K ####
 
@@ -137,5 +137,11 @@ Pub. L. 112–106, title I, §102(d), as added by Pub. L. 114–94, div. G, titl
 "(A) the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or Form F–1 at the time of the contemplated offering; and
 
 "(B) prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See References in Text note below.](#77g_1)

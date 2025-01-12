@@ -8,9 +8,13 @@ The purpose of this chapter is to encourage and improve telemedicine services an
 
 For termination of section by section 1(b) of Pub. L. 102–551, see Termination of Chapter note set out below.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 950aaa, Pub. L. 101–624, title XXIII, §2331, Nov. 28, 1990, 104 Stat. 4017, provided purposes of chapter, prior to the general amendment of this chapter by Pub. L. 104–127.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Chapter ####
 

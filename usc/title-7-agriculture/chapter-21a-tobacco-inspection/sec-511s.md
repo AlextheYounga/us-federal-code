@@ -20,6 +20,8 @@ A determination by the Secretary under this section shall not be subject to judi
 
 (Pub. L. 107–76, title VII, §759(a), Nov. 28, 2001, 115 Stat. 741.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.

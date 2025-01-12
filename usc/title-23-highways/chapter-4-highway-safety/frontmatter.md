@@ -12,17 +12,23 @@ Sec.
 
 405. National priority safety programs.
 
-[406 to 408. Repealed.]
+406. General requirements for Federal assistance.
 
-409. Discovery and admission as evidence of certain reports and surveys.
+407. Discovery and admission as evidence of certain reports and surveys.
+
+408. Agency accountability.
+
+[409. Renumbered.]
 
 [410, 411. Repealed.]
 
-412. Agency accountability.
+[412. Renumbered.]
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title IV, §24101(d)(2), Nov. 15, 2021, 135 Stat. 785, which directed amendment of this analysis by striking out items 406 to 412 and adding new items 406 to 408, was executed by adding new items 406 to 408 and striking out items 409 "Discovery and admission as evidence of certain reports and surveys" and 412"Agency accountability" to reflect the probable intent of Congress, as items 406 to 408, 410, and 411 had already been struck out by Pub. L. 112–141. See 2012 Amendment note below.
 
 **2015**—Pub. L. 114–94, div. A, title IV, §4004(b), Dec. 4, 2015, 129 Stat. 1501, substituted "High-visibility enforcement program" for "National Highway Safety Advisory Committee" in item 404.
 

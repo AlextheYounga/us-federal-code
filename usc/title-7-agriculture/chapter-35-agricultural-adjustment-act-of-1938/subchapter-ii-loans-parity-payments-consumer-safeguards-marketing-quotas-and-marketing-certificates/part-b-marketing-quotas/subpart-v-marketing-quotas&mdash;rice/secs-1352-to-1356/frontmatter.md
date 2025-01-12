@@ -10,6 +10,8 @@ Section 1355, acts Feb. 16, 1938, ch. 30, title III, §355, 52 Stat. 62; July 3,
 
 Section 1356, acts Feb. 16, 1938, ch. 30, title III, §356, 52 Stat. 62; Oct. 31, 1949, ch. 792, title IV, §418(a), 63 Stat. 1059; June 4, 1958, Pub. L. 85–443, §4, 72 Stat. 178; Dec. 14, 1967, Pub. L. 90–191, 81 Stat. 578, related to penalties for farm marketing excess when farm marketing quotas are in effect and to avoidance or postponement of penalties by storage or other disposition.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 97–98, title VI, §601, Dec. 22, 1981, 95 Stat. 1242, provided that the repeal of sections 1352 to 1356 of this title is effective beginning with the 1982 crop of rice.

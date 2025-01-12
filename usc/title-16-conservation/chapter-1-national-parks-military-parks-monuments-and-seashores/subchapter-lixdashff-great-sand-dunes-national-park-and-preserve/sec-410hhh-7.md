@@ -80,6 +80,8 @@ The Secretary is authorized to sell the water resources and related appurtenance
 
 (Pub. L. 106–530, §9, Nov. 22, 2000, 114 Stat. 2533.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 9 of Pub. L. 106–530. Subsec. (a) of section 9 of Pub. L. 106–530 amended section 1501(a) of Pub. L. 102–575, 106 Stat. 4663, which is not classified to the Code.

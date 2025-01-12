@@ -148,6 +148,8 @@ The Secretary shall coordinate the preparation and implementation of the managem
 
 (Pub. L. 113–291, div. B, title XXX, §3035, Dec. 19, 2014, 128 Stat. 3778; Pub. L. 114–289, title VI, §601(e), Dec. 16, 2016, 130 Stat. 1491.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Presidential Proclamation Number 8943, referred to in subsec. (c)(2), is listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs.

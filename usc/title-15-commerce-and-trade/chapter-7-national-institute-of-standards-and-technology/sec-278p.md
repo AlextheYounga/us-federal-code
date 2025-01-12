@@ -16,6 +16,8 @@ For purposes of this subsection, the term "major reorganization" means any reorg
 
 (Mar. 3, 1901, ch. 872, §31, as added Pub. L. 105–309, §4(b), Oct. 30, 1998, 112 Stat. 2935.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.

@@ -22,9 +22,13 @@ Practices of the character above enumerated have existed to such an extent that,
 
 (May 27, 1933, ch. 38, title III, §302, as added Aug. 3, 1939, ch. 411, 53 Stat. 1150.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 78jj of this title, referred to in subsec. (a), was omitted from the Code.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

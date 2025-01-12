@@ -24,6 +24,8 @@ The term "rural area" has the meaning given the term in section 950bb(b)(3) of t
 
 For termination of section by section 1(b) of Pub. L. 102–551, see Termination of Chapter note set out under section 950aaa of this title.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 950aaa–1, Pub. L. 101–624, title XXIII, §2332, Nov. 28, 1990, 104 Stat. 4017; Pub. L. 102–237, title VII, §702(g), Dec. 13, 1991, 105 Stat. 1880, provided goal of Federal Government to make affordable advanced telecommunications available to rural residents, prior to the general amendment of this chapter by Pub. L. 104–127.

@@ -14,6 +14,8 @@ Funds authorized to be appropriated to the Secretary for the purposes of this se
 
 (Pub. L. 102–543, §8, Oct. 27, 1992, 106 Stat. 3571; Pub. L. 111–11, title VII, §7101(b), Mar. 30, 2009, 123 Stat. 1190.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Subsec. (b). Pub. L. 111–11 substituted "each $1 of funds" for "each $4 of funds".

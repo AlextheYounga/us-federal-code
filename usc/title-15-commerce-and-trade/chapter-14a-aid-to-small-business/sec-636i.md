@@ -14,11 +14,15 @@ The Administrator may carry out this section only with amounts appropriated in a
 
 (Pub. L. 110–234, title XII, §12079, May 22, 2008, 122 Stat. 1416; Pub. L. 110–246, §4(a), title XII, §12079, June 18, 2008, 122 Stat. 1664, 2178.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

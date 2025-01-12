@@ -162,6 +162,8 @@ Notwithstanding subsection (a), none of the following persons is an investment c
 
 (Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 108–359, §1(a), Oct. 25, 2004, 118 Stat. 1666; Pub. L. 111–203, title IX, §986(c)(2), July 21, 2010, 124 Stat. 1936; Pub. L. 115–174, title V, §504, May 24, 2018, 132 Stat. 1362.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (c)(1). Pub. L. 115–174, §504(1), inserted "(or, in the case of a qualifying venture capital fund, 250 persons)" after "one hundred persons" in introductory provisions.
@@ -230,6 +232,8 @@ Subsecs. (c)(12) to (15). Pub. L. 91–547, §3(b)(2), redesignated pars. (14) a
 
 **1942**—Subsec. (c)(13). Act Oct. 31, 1942, inserted "as amended".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -284,10 +288,6 @@ Pub. L. 104–290, title II, §209(d)(3), Oct. 11, 1996, 110 Stat. 3436, provide
 
 Pub. L. 104–290, title II, §209(d)(4), Oct. 11, 1996, 110 Stat. 3436, provided that: "Not later than 180 days after the date of enactment of this Act [Oct. 11, 1996], the Commission shall prescribe rules defining the term 'beneficial owner' for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(7)(B)], as amended by this Act."
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Protection of Church Employee Benefit Plans Under State Law ####
 
 Pub. L. 104–290, title V, §508(f), Oct. 11, 1996, 110 Stat. 3448, provided that:
@@ -295,3 +295,9 @@ Pub. L. 104–290, title V, §508(f), Oct. 11, 1996, 110 Stat. 3448, provided th
 "(1) Registration requirements.—Any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(14)], as added by subsection (a) of this section, and any offer, sale, or purchase thereof, shall be exempt from any law of a State that requires registration or qualification of securities.
 
 "(2) Treatment of church plans.—No church plan described in section 414(e) of the Internal Revenue Code of 1986 [26 U.S.C. 414(e)], no person or entity eligible to establish and maintain such a plan under the Internal Revenue Code of 1986 [26 U.S.C. 1 et seq.], no company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(14)], as added by subsection (a) of this section, and no trustee, director, officer, or employee of or volunteer for any such plan, person, entity, company, or account shall be required to qualify, register, or be subject to regulation as an investment company or as a broker, dealer, investment adviser, or agent under the laws of any State solely because such plan, person, entity, company, or account buys, holds, sells, or trades in securities for its own account or in its capacity as a trustee or administrator of or otherwise on behalf of, or for the account of, or provides investment advice to, for, or on behalf of, any such plan, person, or entity or any company or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, as added by subsection (a) of this section."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.

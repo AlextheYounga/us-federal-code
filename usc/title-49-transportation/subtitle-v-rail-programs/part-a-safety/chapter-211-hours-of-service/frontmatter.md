@@ -20,6 +20,8 @@ Sec.
 
 21109. Regulatory authority.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–432, div. A, title I, §108(d)(2), (e)(2)(A), Oct. 16, 2008, 122 Stat. 4864, 4865, substituted item 21102 for former item 21102 "Nonapplication and exemption" and added item 21109.

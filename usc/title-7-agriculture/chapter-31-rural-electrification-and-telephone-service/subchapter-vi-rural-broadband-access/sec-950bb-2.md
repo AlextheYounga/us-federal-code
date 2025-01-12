@@ -38,6 +38,8 @@ There is authorized to be appropriated to carry out this section $10,000,000 for
 
 (May 20, 1936, ch. 432, title VI, §603, as added Pub. L. 113–79, title VI, §6105, Feb. 7, 2014, 128 Stat. 856; amended Pub. L. 115–334, title VI, §6203, Dec. 20, 2018, 132 Stat. 4736.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–334, §6203(1), substituted "Innovative Broadband Advancement" for "Rural Gigabit Network Pilot" in section catchline.

@@ -14,9 +14,13 @@ An order under the provisions of this section revoking the grant issued by the B
 
 (June 18, 1934, ch. 590, §18, 48 Stat. 1002; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §11, Aug. 28, 1958, 72 Stat. 945.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1958**—Subsec. (c). Pub. L. 85–791 substituted "thereupon file in the court" for "forthwith prepare, certify, and file in the court a full and accurate transcript of" and "as provided in section 2112 of title 28" for "the charges, the evidence, and the order revoking the grant" in third sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

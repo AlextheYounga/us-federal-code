@@ -4,9 +4,13 @@ Nothing in this subchapter shall relieve any person of any obligation or duty, o
 
 (Aug. 22, 1940, ch. 686, title II, §224, as added Pub. L. 111–203, title IV, §414, July 21, 2010, 124 Stat. 1578.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

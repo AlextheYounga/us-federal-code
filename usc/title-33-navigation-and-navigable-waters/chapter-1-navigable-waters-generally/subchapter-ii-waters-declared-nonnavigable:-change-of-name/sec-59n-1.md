@@ -14,4 +14,6 @@ more particularly described in the Congressional Record dated March 11, 1986, pa
 
 #### References in Text ####
 
+For Congressional Record dated March 11, 1986, pages S2446–2447, referred to in text, see Cong. Rec., vol. 132, pt. 3, pp. 4342–4343, Mar. 11, 1986.
+
 The Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.

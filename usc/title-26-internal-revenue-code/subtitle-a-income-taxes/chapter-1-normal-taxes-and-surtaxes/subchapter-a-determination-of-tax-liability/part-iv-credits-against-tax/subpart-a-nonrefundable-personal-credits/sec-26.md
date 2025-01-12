@@ -226,7 +226,7 @@ Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, su
 
 #### Effective Date of 2021 Amendment ####
 
-Amendment by Pub. L. 117–2 applicable to taxable years beginning after December 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under section 24 of this title.
+Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under section 24 of this title.
 
 #### Effective Date of 2017 Amendment ####
 

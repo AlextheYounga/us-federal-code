@@ -6,6 +6,8 @@ Beginning at the southwest corner of the present boundary of Sequoia National Pa
 
 (July 3, 1926, ch. 744, §1, 44 Stat. 818.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Exclusion and Addition of Lands ####
 
 Certain lands excluded from Kings Canyon National Park and added to Sequoia National Forest, see section 80a–1 of this title.

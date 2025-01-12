@@ -10,6 +10,8 @@ The park shall consist of approximately 1015 acres of lands, waters, and interes
 
 (Pub. L. 102–247, title I, §103, Feb. 24, 1992, 106 Stat. 34; Pub. L. 107–329, title III, §301, Dec. 6, 2002, 116 Stat. 2819.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a), was in the original "this Act" and was translated as reading "this title", meaning title I of Pub. L. 102–247, known as the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992, to reflect the probable intent of Congress.

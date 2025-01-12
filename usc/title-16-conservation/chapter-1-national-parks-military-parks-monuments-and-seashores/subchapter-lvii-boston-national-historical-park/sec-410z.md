@@ -34,6 +34,8 @@ As used in this section, the Charlestown Navy Yard shall include the United Stat
 
 (Pub. L. 93–431, §2, Oct. 1, 1974, 88 Stat. 1184; Pub. L. 95–625, title III, §310(a), (d), Nov. 10, 1978, 92 Stat. 3478; Pub. L. 96–344, §5, Sept. 8, 1980, 94 Stat. 1134.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Subsec. (d). Pub. L. 96–344 inserted provision including within the Charlestown Navy Yard properties known as the Ropewalk and Tar House and the Chain Forge and Round House, designated as buildings numbered 58, 60, and 105.
@@ -41,6 +43,8 @@ As used in this section, the Charlestown Navy Yard shall include the United Stat
 **1978**—Subsec. (a)(8). Pub. L. 95–625, §310(a), added par. (8).
 
 Subsec. (d). Pub. L. 95–625, §310(d), authorized grant of easements and rights-of-way for vehicular, pedestrian and utility access to the Boston Navy Yard outside the boundaries of the Boston National Historical Park upon express condition that the grantee convey to the United States the part of the Boston Navy Yard owned by the Boston Redevelopment Authority.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

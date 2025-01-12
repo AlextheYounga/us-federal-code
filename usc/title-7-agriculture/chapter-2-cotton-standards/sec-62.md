@@ -4,6 +4,8 @@ Wherever used in this chapter, (a) the word "person" imports the plural or the s
 
 (Mar. 4, 1923, ch. 288, §11, 42 Stat. 1519.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is composed of the first sentence of section 11 of act Mar. 4, 1923. The remainder of section 11 is contained in section 63 of this title.

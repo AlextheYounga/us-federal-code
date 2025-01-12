@@ -8,6 +8,8 @@ Section 2653, Pub. L. 92–419, title IV, §403, Aug. 30, 1972, 86 Stat. 671, re
 
 Section 2654, Pub. L. 92–419, title IV, §404, Aug. 30, 1972, 86 Stat. 671; Pub. L. 91–524, title VIII, §816(b), as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 240; amended Pub. L. 95–113, title XV, §1505, Sept. 29, 1977, 91 Stat. 1021, related to authorization of appropriations for assistance.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of Title 16, Conservation.

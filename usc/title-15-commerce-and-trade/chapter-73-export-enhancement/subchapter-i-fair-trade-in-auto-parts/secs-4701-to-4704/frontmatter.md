@@ -1,5 +1,7 @@
 ### §§4701 to 4704. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 4701 to 4704 were omitted pursuant to section 4704 which provided that the authorities under this subchapter expired on Dec. 31, 1998.
@@ -11,6 +13,8 @@ Section 4702, Pub. L. 100–418, title II, §2123, Aug. 23, 1988, 102 Stat. 1326
 Section 4703, Pub. L. 100–418, title II, §2124, Aug. 23, 1988, 102 Stat. 1326, established Special Advisory Committee on auto parts sales in Japan.
 
 Section 4704, Pub. L. 100–418, title II, §2125, Aug. 23, 1988, 102 Stat. 1327; Pub. L. 103–236, title V, §510(a), Apr. 30, 1994, 108 Stat. 465, provided that the authorities under this subchapter expire on Dec. 31, 1998.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1998 Amendment ####
 

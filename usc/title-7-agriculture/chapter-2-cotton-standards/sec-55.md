@@ -6,6 +6,8 @@
 
 (Mar. 4, 1923, ch. 288, §5, 42 Stat. 1518; Pub. L. 97–35, title I, §156(a), Aug. 13, 1981, 95 Stat. 373; Pub. L. 100–518, §4, Oct. 24, 1988, 102 Stat. 2587.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (a), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -15,6 +17,8 @@ In subsec. (a), "chapters 1 to 11 of title 40 and division C (except sections 33
 **1988**—Subsec. (a). Pub. L. 100–518 included late payment penalties, proceeds, and interest within amounts to be credited to current appropriation account and remain available until expended, and authorized investment of such funds in certain interest-bearing accounts or debt instruments.
 
 **1981**—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions requiring Secretary to cause to be collected fees and charges, for provisions authorizing Secretary to cause to be collected charges, and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

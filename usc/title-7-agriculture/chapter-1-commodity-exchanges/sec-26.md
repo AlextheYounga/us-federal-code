@@ -328,9 +328,13 @@ No predispute arbitration agreement shall be valid or enforceable, if the agreem
 
 (Sept. 21, 1922, ch. 369, §23, as added Pub. L. 111–203, title VII, §748, July 21, 2010, 124 Stat. 1739.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 26, act Sept. 21, 1922, ch. 369, §23, as added Jan. 11, 1983, Pub. L. 97–444, title II, §236, 96 Stat. 2324, provided for special studies to be conducted by Commission, Board of Governors of Federal Reserve System, and Securities and Exchange Commission, prior to repeal by Pub. L. 102–546, title IV, §402(15), Oct. 28, 1992, 106 Stat. 3625.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

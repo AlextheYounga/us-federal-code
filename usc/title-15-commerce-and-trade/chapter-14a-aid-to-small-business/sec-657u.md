@@ -40,6 +40,8 @@ The Committee shall submit to the Administrator a report detailing each meeting 
 
 (Pub. L. 85–536, §2[48], as added Pub. L. 115–189, §3(a)(2), June 21, 2018, 132 Stat. 1494.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Pub. L. 115–189, §3(d)(2), June 21, 2018, 132 Stat. 1496, provided that: "Any reference in a law, regulation, guidance, document, paper, or other record of the United States to the Lender Oversight Committee of the Small Business Administration shall be deemed a reference to the Lender Oversight Committee, established under section 48 of the Small Business Act [15 U.S.C. 657u], as added by subsection (a)."

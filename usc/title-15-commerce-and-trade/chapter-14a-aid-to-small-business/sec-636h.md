@@ -50,6 +50,8 @@ Not later than 30 days after the date of enactment of this Act, the Administrato
 
 (Pub. L. 110–234, title XII, §12073, May 22, 2008, 122 Stat. 1413; Pub. L. 110–246, §4(a), title XII, §12073, June 18, 2008, 122 Stat. 1664, 2175.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of enactment of this Act, referred to in subsec. (e), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -59,6 +61,8 @@ The date of enactment of this Act, referred to in subsec. (e), is the date of en
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

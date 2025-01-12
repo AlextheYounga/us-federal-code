@@ -40,6 +40,8 @@ This section shall not affect any rights or obligations arising out of any trans
 
 (Sept. 21, 1922, ch. 369, §19, as added Pub. L. 95–405, §23, Sept. 30, 1978, 92 Stat. 876; amended Pub. L. 97–444, title II, §234, Jan. 11, 1983, 96 Stat. 2322; Pub. L. 99–641, title I, §109, Nov. 10, 1986, 100 Stat. 3560.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those appearing in subsec. (b) were formerly contained in section 15a of this title.
@@ -57,6 +59,8 @@ Subsec. (d). Pub. L. 99–641, in amending section generally, added subsec. (d).
 **1983**—Subsec. (c). Pub. L. 97–444, §234(1), substituted "shall regulate" for "may prohibit or regulate" and authorized Commission prohibition of transactions for delivery of commodities under a standardized contract that was not permitted by the rules, regulations and orders of the Commission in effect on Dec. 9, 1982, where transactions are determined to be contrary to the public interest.
 
 Subsec. (d). Pub. L. 97–444, §234(2), struck out subsec. (d) which provided for regulation of transactions in accordance with applicable provisions of this chapter where Commission determined the transactions under subsecs. (b) and (c) of this section were contracts for future delivery within the meaning of this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1983 Amendment ####
 

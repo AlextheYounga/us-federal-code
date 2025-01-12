@@ -6,6 +6,8 @@
 
 (June 21, 1938, ch. 556, §21, 52 Stat. 833; Pub. L. 109–58, title III, §314(a)(1), Aug. 8, 2005, 119 Stat. 690.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Subsec. (a). Pub. L. 109–58, §314(a)(1)(A), substituted "$1,000,000" for "$5,000" and "5 years" for "two years".

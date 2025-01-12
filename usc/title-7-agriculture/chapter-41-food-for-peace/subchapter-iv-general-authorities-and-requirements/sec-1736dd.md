@@ -38,6 +38,8 @@ There is authorized to be appropriated to carry out this section $1,000,000 for 
 
 (Pub. L. 101–624, title XV, §1543B, as added Pub. L. 115–334, title III, §3308, Dec. 20, 2018, 132 Stat. 4621.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Food for Peace Act which comprises this chapter.

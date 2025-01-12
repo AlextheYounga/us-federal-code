@@ -1,5 +1,7 @@
 ### §§1506a, 1506b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1506a, act July 30, 1947, ch. 356, title II, §202, 61 Stat. 550, which related to authority of Federal Crop Insurance Corporation to make expenditures, was from the Department of Agriculture Appropriation Act, 1948, and was not repeated in subsequent appropriation acts.

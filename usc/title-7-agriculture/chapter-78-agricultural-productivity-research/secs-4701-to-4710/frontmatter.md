@@ -20,6 +20,8 @@ Section 4709, Pub. L. 99–198, title XIV, §1469, Dec. 23, 1985, 99 Stat. 1565,
 
 Section 4710, Pub. L. 99–198, title XIV, §1470, Dec. 23, 1985, 99 Stat. 1566, authorized appropriations to carry out chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 99–198, title XIV, subtitle C (§§1461–1471), §1471, Dec. 23, 1985, 99 Stat. 1566, which provided that this chapter was effective Oct. 1, 1985, was repealed by Pub. L. 101–624, title XVI, §1620(a), Nov. 28, 1990, 104 Stat. 3734.

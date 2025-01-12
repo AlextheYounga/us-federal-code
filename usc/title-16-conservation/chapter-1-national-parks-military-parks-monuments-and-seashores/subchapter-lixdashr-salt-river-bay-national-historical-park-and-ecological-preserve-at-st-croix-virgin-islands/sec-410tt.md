@@ -20,6 +20,8 @@ The Congress finds that the Salt River Bay area of the north central coast of St
 
 (Pub. L. 102–247, title I, §102, Feb. 24, 1992, 106 Stat. 33.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 102–247, §1, Feb. 24, 1992, 106 Stat. 33, provided that: "This Act [enacting this subchapter, sections 5204 to 5204c of Title 42, The Public Health and Welfare, and sections 1469e and 1973 of Title 48, Territories and Insular Possessions, amending section 5122 of Title 42 and section 1903 of Title 48, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 301 of Title 7, Agriculture] may be cited as the 'Omnibus Insular Areas Act of 1992'."

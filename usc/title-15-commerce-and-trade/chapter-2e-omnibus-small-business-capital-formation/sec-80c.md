@@ -10,6 +10,8 @@ The Commission shall make the results of such studies available to the Small Bus
 
 (Pub. L. 96–477, title V, §502, Oct. 21, 1980, 94 Stat. 2292.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 96–477, title V, §507, Oct. 21, 1980, 94 Stat. 2294, provided that: "Except as otherwise specified, the amendments made by this title [enacting this chapter and amending section 77s of this title] shall become effective January 1 of the year following the date of enactment of this Act [Oct. 21, 1980]."

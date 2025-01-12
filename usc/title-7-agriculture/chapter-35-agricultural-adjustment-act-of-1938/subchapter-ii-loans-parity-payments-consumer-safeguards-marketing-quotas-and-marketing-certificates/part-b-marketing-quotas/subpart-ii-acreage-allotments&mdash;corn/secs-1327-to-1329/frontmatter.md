@@ -1,5 +1,7 @@
 ### §§1327 to 1329. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections provided for establishment of a commercial corn-producing area and corn acreage allotments, which were discontinued. See sections 1329a, 1444a, and 1444b of this title.

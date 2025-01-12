@@ -4,6 +4,8 @@ There is hereby authorized to be appropriated from time to time, out of any mone
 
 (Aug. 9, 1950, ch. 653, §14, 64 Stat. 425.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In par. 2(a), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1923, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631 (the first section of which enacted Title 5, Government Organization and Employees), and of section 1106(a) of act Oct. 28, 1949, ch. 782, title XI, 63 Stat. 972, which provided that references in other laws to the Classification Act of 1923 shall be considered to mean the Classification Act of 1949.

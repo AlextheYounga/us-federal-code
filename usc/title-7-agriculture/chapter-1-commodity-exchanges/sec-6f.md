@@ -110,6 +110,8 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (Sept. 21, 1922, ch. 369, §4f, as added June 15, 1936, ch. 545, §5, 49 Stat. 1495; amended Pub. L. 90–258, §7, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §5, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §208, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §§207(b)(1), 229, Oct. 28, 1992, 106 Stat. 3604, 3619; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6), title II, §252(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–447; Pub. L. 110–234, title XIII, §13105(b), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(b), June 18, 2008, 122 Stat. 1664, 2196.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 9 of the Federal Reserve Act, referred to in subsec. (c)(4)(B)(i), is section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
@@ -145,6 +147,8 @@ Par. (2). Pub. L. 97–444, §208(2), made financial requirements applicable to 
 **1968**—Par. (1). Pub. L. 90–258, §7(a), substituted "this chapter" for "section 6g of this title".
 
 Par. (2). Pub. L. 90–258, §7(b), substituted provisions that prescribed financial requirements for registration as futures commission merchant be met and continued at all times and that such requirements will be considered met by membership in a contract market and compliance with its minimum financial standards and related reporting requirements for former provisions for display of futures commission merchants' registration certificates.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

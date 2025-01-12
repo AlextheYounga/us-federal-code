@@ -4,9 +4,13 @@ For the purpose of developing adequate, coordinated, cooperative research and tr
 
 (Pub. L. 86–686, §1, Sept. 2, 1960, 74 Stat. 733; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 95–616, §2, Nov. 8, 1978, 92 Stat. 3110.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–616, in proviso, substituted "scientific personnel" for "technical personnel" and authorized provision of assistance (including reasonable financial compensation) for the work of researchers on funded fish and wildlife ecology and resource management projects.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -26,9 +26,13 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 (Oct. 15, 1914, ch. 323, §2, 38 Stat. 730; June 19, 1936, ch. 592, §1, 49 Stat. 1526.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1936**—Act June 19, 1936, amended section generally.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

@@ -18,6 +18,8 @@
 
 (Pub. L. 85–699, title V, §504, as added Pub. L. 99–272, title XVIII, §18008(a), Apr. 7, 1986, 100 Stat. 366; amended Pub. L. 100–72, §2 July 11, 1987, 101 Stat. 477; Pub. L. 100–590, title I, §112(a), Nov. 3, 1988, 102 Stat. 2996.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–590 inserted "Private debenture sales" as section catchline and amended text generally. Prior to amendment, text read as follows:
@@ -39,6 +41,8 @@
 "(3) any obligation which is secured by, or substantially all of the value of which is attributable to, any obligation described in paragraph (1) or (2)."
 
 **1987**—Subsec. (a). Pub. L. 100–72 struck out "and" at end of par. (1), substituted "$425,000,000; and" for "$295,000,000." in par. (2), and added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Regulations ####
 

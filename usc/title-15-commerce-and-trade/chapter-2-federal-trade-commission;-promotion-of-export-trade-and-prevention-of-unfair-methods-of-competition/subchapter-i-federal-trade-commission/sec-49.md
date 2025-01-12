@@ -14,6 +14,8 @@ Witnesses summoned before the Commission shall be paid the same fees and mileage
 
 (Sept. 26, 1914, ch. 311, §9, 38 Stat. 722; Pub. L. 91–452, title II, §211, Oct. 15, 1970, 84 Stat. 929; Pub. L. 93–637, title II, §203(b), Jan. 4, 1975, 88 Stat. 2198.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1975**—First par. Pub. L. 93–637, §203(b)(1), substituted "person, partnership, or corporation" for "corporation".
@@ -24,6 +26,8 @@ Fourth par. Pub. L. 93–637, §203(b)(3), substituted "person, partnership, or 
 
 **1970**—Seventh par. Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1970 Amendment ####
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
@@ -31,6 +35,8 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 #### Savings Provision ####
 
 Amendment by Pub. L. 91–452 not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

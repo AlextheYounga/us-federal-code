@@ -24,6 +24,8 @@ The purposes of the environmental quality incentives program established by this
 
 (Pub. L. 99–198, title XII, §1240, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, §2501(a), May 22, 2008, 122 Stat. 1057; Pub. L. 110–246, §4(a), title II, §2501(a), June 18, 2008, 122 Stat. 1664, 1785; Pub. L. 113–79, title II, §2201, Feb. 7, 2014, 128 Stat. 728; Pub. L. 115–334, title II, §§2301(d)(1)(D), 2302, Dec. 20, 2018, 132 Stat. 4554, 4555.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -51,6 +53,8 @@ Pars. (3), (4). Pub. L. 110–246, §2501(a)(2), added pars. (3) and (4) and str
 "(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
 
 "(4) assisting producers to make beneficial, cost effective changes to cropping systems, grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

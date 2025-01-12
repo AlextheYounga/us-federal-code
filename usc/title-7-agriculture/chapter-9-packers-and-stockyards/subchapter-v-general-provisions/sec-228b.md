@@ -14,6 +14,8 @@ Any delay or attempt to delay by a market agency, dealer, or packer purchasing l
 
 (Aug. 15, 1921, ch. 64, title IV, §409, as added Pub. L. 94–410, §7, Sept. 13, 1976, 90 Stat. 1250; amended Pub. L. 114–237, §3, Oct. 7, 2016, 130 Stat. 970.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (a). Pub. L. 114–237, §3, substituted "shall transfer funds for the full amount of the purchase price to the account of the seller by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary" for "shall wire transfer funds to the seller's account" in two places in first proviso and "or dealer shall transfer funds for the full amount of the purchase price by wire, electronic funds transfer, or any other expeditious method determined appropriate by the Secretary" for "or dealer shall wire transfer funds" in second proviso.

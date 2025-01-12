@@ -8,6 +8,8 @@ This subchapter may be cited as the "Federal Trade Commission Act".
 
 For repeal of amendment renumbering this section by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination Date of 2006 Amendment ####
 
 Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended, set out as a note under section 44 of this title.

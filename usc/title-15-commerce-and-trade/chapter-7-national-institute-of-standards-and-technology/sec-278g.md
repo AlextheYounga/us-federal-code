@@ -18,6 +18,8 @@ For any scientific and engineering disciplines for which there is a shortage of 
 
 (Mar. 3, 1901, ch. 872, §17, as added Pub. L. 96–461, §9, Oct. 15, 1980, 94 Stat. 2051; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, §104(h)(2), Feb. 14, 1992, 106 Stat. 11.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
@@ -31,6 +33,8 @@ A prior section 278g, act Mar. 3, 1901, ch. 872, §17, as added Mar. 1, 1968, Pu
 **1992**—Subsec. (d). Pub. L. 102–245 added subsec. (d).
 
 **1988**—Pub. L. 100–418 substituted "Institute" for "National Bureau of Standards" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

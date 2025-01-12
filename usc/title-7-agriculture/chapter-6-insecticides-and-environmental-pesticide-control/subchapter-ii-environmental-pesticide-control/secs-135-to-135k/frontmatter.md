@@ -1,5 +1,7 @@
 ### §§135 to 135k. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 135 to 135k, acts June 25, 1947, ch. 125, §§2–13, 61 Stat. 163–172; Aug. 7, 1959, Pub. L. 86–139, §2, 73 Stat. 286; May 12, 1964, Pub. L. 88–305, §§1–6, 78 Stat. 190–193; Oct. 15, 1970, Pub. L. 91–452, title II, §204, 84 Stat. 928; Dec. 30, 1970, Pub. L. 91–601, §6(b), formerly §7(b), 84 Stat. 1673, renumbered, Aug. 13, 1981, Pub. L. 97–35, title XII, §1205(c), 95 Stat. 716, which related to economic poison control, were superseded by the amendments made to act June 25, 1947, by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 975. See section 4 of Pub. L. 92–516, set out as a note under section 136 of this title. The provisions of act June 25, 1947, as amended by Pub. L. 92–516, are set out in section 136 et seq. of this title.

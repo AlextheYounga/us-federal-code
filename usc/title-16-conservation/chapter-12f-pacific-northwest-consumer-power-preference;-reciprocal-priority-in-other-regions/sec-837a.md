@@ -4,6 +4,8 @@ Subject to the provisions of this chapter, the sale, delivery, and exchange of e
 
 (Pub. L. 88–552, §2, Aug. 31, 1964, 78 Stat. 756.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.

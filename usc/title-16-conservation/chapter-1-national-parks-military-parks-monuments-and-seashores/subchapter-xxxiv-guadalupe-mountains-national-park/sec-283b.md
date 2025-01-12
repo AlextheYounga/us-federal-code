@@ -22,6 +22,8 @@ If at any time oil, gas, or other minerals should be discovered and produced in 
 
 (Pub. L. 89–667, §3, Oct. 15, 1966, 80 Stat. 920.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Mineral Leasing Act for Acquired Lands, referred to in subsec. (c), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§351 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 30 and Tables.

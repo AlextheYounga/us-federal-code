@@ -4,6 +4,8 @@ Wherever reference is made in this chapter to the President such reference shall
 
 (Feb. 22, 1935, ch. 18, §11, 49 Stat. 33.)
 
+#### **Executive Documents** ####
+
 #### Delegation of Functions ####
 
 Ex. Ord. No. 6979, Feb. 28, 1935, which designated and appointed Secretary of the Interior to execute powers and functions vested in President by this chapter except those vested in him by section 715c of this title, was superseded by Ex. Ord. No. 10752, set out below.

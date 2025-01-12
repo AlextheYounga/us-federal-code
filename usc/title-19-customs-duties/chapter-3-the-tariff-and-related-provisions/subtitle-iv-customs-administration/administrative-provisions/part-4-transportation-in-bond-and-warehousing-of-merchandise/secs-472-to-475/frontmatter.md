@@ -2,6 +2,8 @@
 
 Sections, act June 8, 1896, ch. 371, §§1–4, 29 Stat. 263, related to special delivery and appraisement of imported articles of limited value and weight.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Act Aug. 8, 1953, ch. 397, §1, 67 Stat. 507, provided that such act is effective, except as otherwise specifically provided for, on and after thirtieth day following date of its enactment (Aug. 8, 1953).

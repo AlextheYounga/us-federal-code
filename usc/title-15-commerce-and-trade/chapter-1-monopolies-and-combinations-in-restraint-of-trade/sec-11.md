@@ -4,6 +4,8 @@ Any property owned under any contract or by any combination, or pursuant to any 
 
 (Aug. 27, 1894, ch. 349, §76, 28 Stat. 570; Feb. 12, 1913, ch. 40, 37 Stat. 667.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1913**—Act Feb. 12, 1913, substituted "imported into and being within the United States or" for "and".

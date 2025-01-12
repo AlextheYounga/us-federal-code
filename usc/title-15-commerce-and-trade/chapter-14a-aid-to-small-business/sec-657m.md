@@ -10,9 +10,13 @@ The Administrator shall include a report on the plans developed under subsection
 
 (Pub. L. 85–536, §2[41], as added Pub. L. 110–234, title XII, §12076, May 22, 2008, 122 Stat. 1415, and Pub. L. 110–246, §4(a), title XII, §12076, June 18, 2008, 122 Stat. 1664, 2177.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

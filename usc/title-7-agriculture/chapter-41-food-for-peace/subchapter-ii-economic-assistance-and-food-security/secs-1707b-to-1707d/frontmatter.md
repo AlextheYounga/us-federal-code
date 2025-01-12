@@ -1,5 +1,7 @@
 ### §§1707b to 1707d. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted as part of the complete revision of the Agricultural Trade Act of 1978 (Pub. L. 95–501) by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3668. See chapter 87 (§5601 et seq.) of this title.

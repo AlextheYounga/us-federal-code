@@ -50,6 +50,8 @@ The provisions of this section shall not apply to the disposal of property under
 
 (Pub. L. 103–433, title VII, §707, Oct. 31, 1994, 108 Stat. 4499; Pub. L. 116–9, title I, §1456, Mar. 12, 2019, 133 Stat. 716.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsecs. (a)(1) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.

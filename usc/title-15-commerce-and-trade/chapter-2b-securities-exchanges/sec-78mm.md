@@ -20,6 +20,8 @@ Unless the Commission is expressly authorized by any provision described in this
 
 (June 6, 1934, ch. 404, title I, §36, as added Pub. L. 104–290, title I, §105(b), Oct. 11, 1996, 110 Stat. 3424; amended Pub. L. 111–203, title VII, §772(a), July 21, 2010, 124 Stat. 1801.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1) and (c), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -29,6 +31,8 @@ The Wall Street Transparency and Accountability Act of 2010, referred to in subs
 #### Amendments ####
 
 **2010**—Subsec. (c). Pub. L. 111–203 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

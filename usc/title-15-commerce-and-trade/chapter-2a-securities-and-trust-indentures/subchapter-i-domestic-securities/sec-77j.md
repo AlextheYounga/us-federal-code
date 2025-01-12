@@ -34,15 +34,21 @@ In any case where a prospectus consists of a radio or television broadcast, copi
 
 (May 27, 1933, ch. 38, title I, §10, 48 Stat. 81; June 6, 1934, ch. 404, title II, §205, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §8, 68 Stat. 685.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1954**—Act Aug. 10, 1954, complemented changes in section 77e of this title by act Aug. 10, 1954, permitted offering activities in the waiting period and in so doing rearranged the sequence of the subsections, added new text contained in subsec. (b), and renumbered subsecs. (c) and (d) as (e) and (f), respectively.
 
 **1934**—Subsec. (b)(1). Act June 6, 1934, amended par. (1).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1954 Amendment ####
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

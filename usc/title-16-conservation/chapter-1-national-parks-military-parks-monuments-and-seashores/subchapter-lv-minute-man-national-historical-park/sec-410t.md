@@ -30,6 +30,8 @@ Nothing in paragraph (2) shall be construed to prohibit the use of condemnation 
 
 (Pub. L. 86–321, §2, Sept. 21, 1959, 73 Stat. 591; Pub. L. 102–488, §2(3)[(2)], Oct. 24, 1992, 106 Stat. 3135.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Minute Man National Historical Park Amendments of 1991, referred to in subsec. (c), is Pub. L. 102–488, Oct. 24, 1992, 106 Stat. 3135, which enacted sections 410x–1 and 410x–2 of this title, amended this section and sections 410s and 410x of this title, and enacted provisions set out as a note under section 410s of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 410s of this title and Tables.
@@ -37,6 +39,8 @@ The Minute Man National Historical Park Amendments of 1991, referred to in subse
 #### Amendments ####
 
 **1992**—Pub. L. 102–488 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Boundary Adjustment ####
 

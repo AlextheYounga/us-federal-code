@@ -18,6 +18,8 @@ Lands acquired under this section shall be administered by the Secretary of the 
 
 (Pub. L. 108–312, §3, Oct. 5, 2004, 118 Stat. 1194.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 For short title of Pub. L. 108–312, which enacted this section, as the Mount Rainier National Park Boundary Adjustment Act of 2004, see section 1 of Pub. L. 108–312, set out as a note under section 91 of this title.

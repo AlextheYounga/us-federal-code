@@ -4,6 +4,8 @@ No electric transmission lines or related facilities shall be constructed by any
 
 (Pub. L. 88–552, §8, Aug. 31, 1964, 78 Stat. 758; Pub. L. 95–91, title III, §302(a), Aug. 4, 1977, 91 Stat. 578.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 "Secretary of Energy" substituted for "Secretary of the Interior" in the proviso in text pursuant to Pub. L. 95–91, §302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.

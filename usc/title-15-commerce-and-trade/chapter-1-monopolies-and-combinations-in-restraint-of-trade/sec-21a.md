@@ -4,9 +4,13 @@ Nothing herein contained shall affect rights of action arising, or litigation pe
 
 (June 19, 1936, ch. 592, §2, 49 Stat. 1527.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Nothing herein contained, referred to in text, probably means nothing contained in act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

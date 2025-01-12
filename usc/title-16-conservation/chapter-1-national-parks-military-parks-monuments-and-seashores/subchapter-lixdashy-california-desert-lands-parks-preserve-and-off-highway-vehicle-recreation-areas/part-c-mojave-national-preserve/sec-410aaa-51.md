@@ -36,6 +36,8 @@ Nothing in this part shall have the effect of terminating any validly issued rig
 
 (Pub. L. 103–433, title V, §511, Oct. 31, 1994, 108 Stat. 4492.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 601(a)(3), referred to in text, is section 601(a)(3) of Pub. L. 103–433, which enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title.

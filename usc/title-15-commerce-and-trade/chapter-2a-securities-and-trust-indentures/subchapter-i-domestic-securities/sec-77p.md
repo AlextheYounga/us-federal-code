@@ -102,6 +102,8 @@ The term "covered security" means a security that satisfies the standards for a 
 
 (May 27, 1933, ch. 38, title I, §16, 48 Stat. 84; Pub. L. 105–353, title I, §101(a)(1), Nov. 3, 1998, 112 Stat. 3227.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 77d(2) of this title, referred to in subsec. (f)(3), was redesignated section 77d(a)(2) of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
@@ -109,6 +111,8 @@ Section 77d(2) of this title, referred to in subsec. (f)(3), was redesignated se
 #### Amendments ####
 
 **1998**—Pub. L. 105–353 amended section catchline and text generally. Prior to amendment, text read as follows: "The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

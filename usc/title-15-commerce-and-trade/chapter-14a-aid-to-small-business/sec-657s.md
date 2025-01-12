@@ -84,9 +84,13 @@ The term "similarly situated entity" means a subcontractor that—
 
 (Pub. L. 85–536, §2[46], as added Pub. L. 112–239, div. A, title XVI, §1651, Jan. 2, 2013, 126 Stat. 2079; amended Pub. L. 114–92, div. A, title VIII, §864(b), Nov. 25, 2015, 129 Stat. 927.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsec. (a)(4). Pub. L. 114–92 substituted "which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction" for "for supplies from a regular dealer in such supplies" in introductory provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Inapplicability of Requirement To Review and Justify Certain Contracts ####
 

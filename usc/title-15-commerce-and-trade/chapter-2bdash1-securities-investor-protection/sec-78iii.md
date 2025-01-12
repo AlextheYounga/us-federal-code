@@ -36,6 +36,8 @@ The Commission may, by such rules as it determines necessary or appropriate in t
 
 (Pub. L. 91–598, §13, formerly §9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, §26, June 4, 1975, 89 Stat. 163; renumbered §13 and amended Pub. L. 95–283, §§9, 12, May 21, 1978, 92 Stat. 260, 269.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -51,6 +53,8 @@ Subsec. (c). Pub. L. 95–283, §12(c), revised existing format and provisions i
 Subsec. (f). Pub. L. 95–283, §12(d), substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members.
 
 **1975**—Subsec. (c). Pub. L. 94–29 directed the Commission to designate the self-regulatory organization to be responsible for enforcing applicable rules with respect to any firm which is a member of more than one self-regulatory organization.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1975 Amendment ####
 

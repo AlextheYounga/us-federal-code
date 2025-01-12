@@ -4,6 +4,8 @@ Sums available for allotment to the States under the terms of sections 361a to 3
 
 (Mar. 2, 1887, ch. 314, §5, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 94–273, §9(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 105–185, title II, §203(c)(3), June 23, 1998, 112 Stat. 535.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 368a of this title. See sections 361c and 361d of this title.

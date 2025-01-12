@@ -110,6 +110,8 @@ Sec.
 
 41767. Termination.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–254, div. B, title IV, §§403(b), 412(b), title V, §539(e), Oct. 5, 2018, 132 Stat. 3329, 3332, 3370, added items 41725 and 41726 and substituted "rules" for "Rules" in item 41718.

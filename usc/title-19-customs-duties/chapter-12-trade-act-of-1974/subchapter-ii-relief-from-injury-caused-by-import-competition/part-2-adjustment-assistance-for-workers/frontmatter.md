@@ -1,5 +1,7 @@
 ### Part 2—Adjustment Assistance for Workers ###
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective and Termination Dates of 2015 Revival ####
 
 Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374, provided that:

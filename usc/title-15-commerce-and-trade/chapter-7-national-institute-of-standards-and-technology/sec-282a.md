@@ -4,6 +4,8 @@ The Board of Assessment of the National Institute of Standards and Technology sh
 
 (Pub. L. 100–418, title V, §5163(a), Aug. 23, 1988, 102 Stat. 1450.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 5163(a) of Pub. L. 100–418. Section 5163(b)–(d) of Pub. L. 100–418 enacted provisions set out as a note under section 272 of this title, amended section 3710 of this title, and enacted section 1533 of this title, respectively.

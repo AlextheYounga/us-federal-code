@@ -1,5 +1,7 @@
 ### §§2912 to 2918. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 2912 to 2918 of this title were omitted in the general revision of this chapter by Pub. L. 99–198, title XVI, §1601(b), Dec. 23, 1985, 99 Stat. 1597.

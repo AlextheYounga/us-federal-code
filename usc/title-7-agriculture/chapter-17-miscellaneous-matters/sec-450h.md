@@ -1,5 +1,7 @@
 ### §450h. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act July 24, 1919, ch. 26, 41 Stat. 270, as amended, was transferred to section 2220 of this title.

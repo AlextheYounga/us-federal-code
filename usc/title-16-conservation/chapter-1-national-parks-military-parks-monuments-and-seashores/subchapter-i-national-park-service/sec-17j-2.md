@@ -10,6 +10,8 @@ Appropriations for the National Park Service are authorized for—
 
 (Aug. 7, 1946, ch. 788, 60 Stat. 885; Pub. L. 86–689, §3, Sept. 2, 1960, 74 Stat. 737; Pub. L. 102–201, title I, §101, Dec. 10, 1991, 105 Stat. 1631; Pub. L. 104–333, div. I, title VIII, §802, Nov. 12, 1996, 110 Stat. 4186; Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsecs. (b) to (g), (i), (j). Pub. L. 113–287 struck out subsecs. (b) to (g), (i), and (j), which authorized various appropriations for the National Park Service. See section 103102 of Title 54, National Park Service and Related Programs.
@@ -18,9 +20,13 @@ Appropriations for the National Park Service are authorized for—
 
 **1960**—Subsec. (a). Pub. L. 86–689 authorized appropriations for the repair and maintenance of the class "C" road lying between the terminus of F.A. 383 at the east boundary of Coronado National Forest and the point where said class "C" road enters Coronado National Memorial in the vicinity of Montezuma Pass.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Little Bighorn Battlefield National Monument" substituted in text for "Custer Battlefield National Monument" pursuant to Pub. L. 102–201.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

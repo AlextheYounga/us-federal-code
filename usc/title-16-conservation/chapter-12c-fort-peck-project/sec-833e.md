@@ -4,10 +4,16 @@ It is the intent of Congress that rate schedules for the sale of electric energy
 
 (May 18, 1938, ch. 250, §6, 52 Stat. 405; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 "Secretary of Energy" substituted in text for "Federal Power Commission" pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
 
 Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.

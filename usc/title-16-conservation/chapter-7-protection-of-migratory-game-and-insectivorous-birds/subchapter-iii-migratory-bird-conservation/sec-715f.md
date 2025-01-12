@@ -4,9 +4,13 @@ No deed or instrument of conveyance in fee shall be accepted by the Secretary of
 
 (Feb. 18, 1929, ch. 257, §7, 45 Stat. 1223; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 103–434, title XIII, Oct. 31, 1994, 108 Stat. 4565.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–434 inserted "in fee" after "conveyance".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

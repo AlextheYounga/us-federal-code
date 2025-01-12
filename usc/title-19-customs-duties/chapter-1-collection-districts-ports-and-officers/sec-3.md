@@ -4,13 +4,17 @@ The Secretary of the Treasury shall direct the superintendence of the collection
 
 (R.S. §249.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §249 derived from act May 8, 1792, ch. 37, §6, 1 Stat. 280.
 
 Section, prior to its incorporation into the Code, contained the words "and tonnage," after "duties on imports". These words were omitted as superseded by section 3 of the former Appendix to Title 46, Shipping, which charged the Chief of the Bureau of Navigation and Steamboat Inspection with the execution of the laws relating to the collection of the tonnage tax. Section 3 of the former Appendix to Title 46 was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710.
 
-#### Analysis Regarding CES Program; Effect on Implementation of Program ####
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Analysis Regarding the CES Program; Effect on Implementation of Program ####
 
 Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as amended by Pub. L. 103–182, title VI, §691(b)(1), Dec. 8, 1993, 107 Stat. 2224; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that:
 

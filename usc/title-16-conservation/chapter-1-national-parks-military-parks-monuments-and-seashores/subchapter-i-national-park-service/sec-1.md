@@ -2,6 +2,8 @@
 
 Section, act Aug. 25, 1916, ch. 408, §1, 39 Stat. 535; Ex. Ord. No. 6166, §2, June 10, 1933; Mar. 2, 1934, ch. 38, §1, 48 Stat. 389; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 104–333, div. I, title VIII, §814(e)(1), Nov. 12, 1996, 110 Stat. 4196, related to creation of National Park Service. See sections 100101(a), 100301, and 100302(a)(1), (2), (b), (c) of Title 54, National Park Service and Related Programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2019 Amendment ####
 
 Pub. L. 116–9, §1(a), Mar. 12, 2019, 133 Stat. 580, provided that: "This Act [see Tables for classification] may be cited as the 'John D. Dingell, Jr. Conservation, Management, and Recreation Act'."

@@ -4,6 +4,8 @@ To the extent any person introduces, delivers for introduction, sells, advertise
 
 (Pub. L. 103–322, title XXXII, §320933, Sept. 13, 1994, 108 Stat. 2135.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Violent Crime Control and Law Enforcement Act of 1994, and not as part of the Federal Trade Commission Act which comprises this subchapter.

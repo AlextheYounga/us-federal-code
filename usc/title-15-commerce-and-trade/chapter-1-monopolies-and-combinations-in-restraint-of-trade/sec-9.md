@@ -4,9 +4,13 @@ The several district courts of the United States are invested with jurisdiction 
 
 (Aug. 27, 1894, ch. 349, §74, 28 Stat. 570; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Act Mar. 3, 1911, vested jurisdiction in "district" courts, instead of "circuit" courts.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

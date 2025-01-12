@@ -30,6 +30,8 @@ In lieu of suspending or revoking a license under this section when the Secretar
 
 (June 10, 1930, ch. 436, §8, 46 Stat. 535; Apr. 13, 1934, ch. 120, §14, 48 Stat. 588; Aug. 20, 1937, ch. 719, §11, 50 Stat. 730; July 30, 1956, ch. 786, §5, 70 Stat. 727; Pub. L. 87–725, §11, Oct. 1, 1962, 76 Stat. 675; Pub. L. 102–237, title X, §1011(6), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§11, 12(b), Nov. 15, 1995, 109 Stat. 430, 431.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 558 of this title.

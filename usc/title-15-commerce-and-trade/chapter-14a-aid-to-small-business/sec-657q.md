@@ -62,6 +62,8 @@ The benefits considered for the purposes of paragraphs (1) and (2) may include c
 
 (Pub. L. 85–536, §2[44], as added Pub. L. 111–240, title I, §1313(a)(2), Sept. 27, 2010, 124 Stat. 2538; amended Pub. L. 112–239, div. A, title XVI, §1671(a), (b), (c)(2), Jan. 2, 2013, 126 Stat. 2084, 2085; Pub. L. 113–291, div. A, title VIII, §822(b), Dec. 19, 2014, 128 Stat. 3436; Pub. L. 114–92, div. A, title VIII, §863(b), (c), Nov. 25, 2015, 129 Stat. 926, 927.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 2[44] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.

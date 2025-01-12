@@ -28,6 +28,8 @@
 
 (Pub. L. 93–275, §52, as added Pub. L. 94–385, title I, §142, Aug. 14, 1976, 90 Stat. 1135; amended Pub. L. 95–91, title VII, §709(a)(3), Aug. 4, 1977, 91 Stat. 608.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Natural Gas Act, referred to in subsec. (a)(4), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
@@ -37,6 +39,8 @@ The Federal Power Act, referred to in subsec. (a)(4), is act June 10, 1920, ch. 
 #### Amendments ####
 
 **1977**—Subsec. (a)(4). Pub. L. 95–91 added par. (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

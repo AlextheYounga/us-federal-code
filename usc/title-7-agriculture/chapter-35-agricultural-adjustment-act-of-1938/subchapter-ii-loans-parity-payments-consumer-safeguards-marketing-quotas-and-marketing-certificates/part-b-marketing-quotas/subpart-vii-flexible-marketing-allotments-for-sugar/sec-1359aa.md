@@ -50,6 +50,8 @@ The term "United States", when used in a geographical sense, means all of the St
 
 (Feb. 16, 1938, ch. 30, title III, §359a, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 187; amended Pub. L. 110–234, title I, §1403(a), May 22, 2008, 122 Stat. 981; Pub. L. 110–246, §4(a), title I, §1403(a), June 18, 2008, 122 Stat. 1664, 1709.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -63,6 +65,8 @@ A prior section 359a of act Feb. 16, 1938, was renumbered section 359e and was c
 #### Amendments ####
 
 **2008**—Pub. L. 110–246, §1403(a), added pars. (1) and (3) and redesignated former pars. (1) to (4) as (2), (4), (5), and (6), respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

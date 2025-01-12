@@ -30,9 +30,13 @@ Witnesses whose depositions are taken as authorized in this chapter, and the per
 
 (June 21, 1938, ch. 556, §14, 52 Stat. 828; Pub. L. 91–452, title II, §218, Oct. 15, 1970, 84 Stat. 929.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Subsec. (h). Pub. L. 91–452 struck out subsec. (h) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1970 Amendment ####
 

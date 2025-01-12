@@ -240,6 +240,8 @@ If a proceeding under subsection (h)(1) of this section results in the suspensio
 
 (June 6, 1934, ch. 404, title I, §19, 48 Stat. 898; Pub. L. 87–196, Sept. 5, 1961, 75 Stat. 465; Pub. L. 87–561, July 27, 1962, 76 Stat. 247; Pub. L. 90–438, July 29, 1968, 82 Stat. 453; Pub. L. 91–94, Oct. 20, 1969, 83 Stat. 141; Pub. L. 91–410, Sept. 25, 1970, 84 Stat. 862; Pub. L. 94–29, §16, June 4, 1975, 89 Stat. 146; Pub. L. 103–202, title I, §106(c), Dec. 17, 1993, 107 Stat. 2350; Pub. L. 105–353, title III, §301(b)(11), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) [title II, §202(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–418, 2763A–421; Pub. L. 111–203, title VII, §717(c), title IX, §§916, 929F(e), July 21, 2010, 124 Stat. 1652, 1833, 1854.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1), (b)(2)(C)(i), (3)(C), (7)(C), (8), (c), (d)(1), (e)(1)(A), (2), (f), (g), and (h), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -294,6 +296,8 @@ Subsec. (c)(5). Pub. L. 103–202, §106(c)(2), added par. (5).
 
 **1961**—Subsec. (d). Pub. L. 87–196 added subsec. (d).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 916 and 929F(e) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -308,12 +312,14 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, except for amendment of sub
 
 Amendment by Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Review of Regulatory Structures and Procedures With Respect to Penny Stocks; Report ####
 
 Pub. L. 101–429, title V, §510, Oct. 15, 1990, 104 Stat. 957, directed Comptroller General, in consultation with Securities and Exchange Commission, to conduct a review of rules, procedures, facilities, and oversight and enforcement activities of self-regulatory organizations under Securities Exchange Act of 1934, with respect to penny stocks (within the meaning of 15 U.S.C. 78c(a)(51)), and, within one year after Oct. 15, 1990, to submit a report on the review including a statement of findings and such recommendations as the Comptroller General considered appropriate with respect to legislative or administrative changes.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> So in original. Two pars. (10) have been enacted.](#78s_1)

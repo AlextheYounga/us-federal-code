@@ -1,5 +1,7 @@
 ### §§1172 to 1183. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1172, act Sept. 1, 1937, ch. 898, title V, §502, 50 Stat. 915, related to annual appropriation and availability of funds, expired on Dec. 31, 1947, and was covered by section 402 of the Sugar Act of 1948, which was set out as former section 1152 of this title.

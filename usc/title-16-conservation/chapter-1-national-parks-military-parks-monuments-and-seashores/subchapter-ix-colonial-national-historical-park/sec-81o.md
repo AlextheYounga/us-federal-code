@@ -4,6 +4,8 @@ The Secretary of the Interior may transfer administrative jurisdiction over appr
 
 (Pub. L. 99–390, Aug. 23, 1986, 100 Stat. 831.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.

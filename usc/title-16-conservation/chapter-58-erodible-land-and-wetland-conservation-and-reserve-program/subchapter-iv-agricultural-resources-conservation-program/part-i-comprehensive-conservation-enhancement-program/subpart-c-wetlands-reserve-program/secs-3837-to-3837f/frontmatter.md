@@ -14,6 +14,8 @@ Section 3837e, Pub. L. 99–198, title XII, §1237E, as added Pub. L. 101–624,
 
 Section 3837f, Pub. L. 99–198, title XII, §1237F, as added Pub. L. 101–624, title XIV, §1438, Nov. 28, 1990, 104 Stat. 3589; Pub. L. 110–234, title II, §2203(c), May 22, 2008, 122 Stat. 1037; Pub. L. 110–246, §4(a), title II, §2203(c), June 18, 2008, 122 Stat. 1664, 1765, related to administration and funding.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeal; Transitional Provisions ####
 
 Pub. L. 113–79, title II, §2703, Feb. 7, 2014, 128 Stat. 767, provided that:

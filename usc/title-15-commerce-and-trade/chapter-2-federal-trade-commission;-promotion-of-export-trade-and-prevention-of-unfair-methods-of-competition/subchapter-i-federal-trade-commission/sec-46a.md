@@ -4,9 +4,13 @@ After June 16, 1933, no new investigations shall be initiated by the Commission 
 
 (June 16, 1933, ch. 101, §1, 48 Stat. 291.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Federal Trade Commission Act which comprises this subchapter.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

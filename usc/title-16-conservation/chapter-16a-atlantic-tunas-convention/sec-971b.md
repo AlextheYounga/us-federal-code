@@ -24,6 +24,8 @@ Each member of the advisory committee appointed under paragraph (1) shall serve 
 
 (Pub. L. 94–70, §4, Aug. 5, 1975, 89 Stat. 386; Pub. L. 96–339, §1(1), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 101–627, title II, §204, Nov. 28, 1990, 104 Stat. 4460; Pub. L. 104–43, title III, §304, Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, §202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(5), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -45,6 +47,8 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(6), is Pub. L. 92
 **1980**—Pub. L. 96–339 incorporated existing provision in par. designated (1), added par. (2), redesignated as subpars. (A) and (B) former pars. (1) and (2), substituted in subpar. (B) reference to "subparagraph (A)" for "paragraph (1)", and made specific reference to appointment of committee member under paragraph (1).
 
 Par. (2). Pub. L. 96–561 substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

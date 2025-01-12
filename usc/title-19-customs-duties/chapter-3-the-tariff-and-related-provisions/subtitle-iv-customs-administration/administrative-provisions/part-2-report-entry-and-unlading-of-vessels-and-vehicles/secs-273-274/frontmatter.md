@@ -2,6 +2,8 @@
 
 Sections, R.S. §§2885, 2886, required the containers of imported liquors or distilled spirits to be marked or scored at the port of landing with the capacity, wine gallons, proof, proof gallons, and other detailed information, such marks to be obliterated upon sale.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Act Aug. 8, 1953, ch. 397, §1, 67 Stat. 507, provided that such act is effective, except as otherwise specifically provided for, on and after the thirtieth day following the date of its enactment (Aug. 8, 1953).

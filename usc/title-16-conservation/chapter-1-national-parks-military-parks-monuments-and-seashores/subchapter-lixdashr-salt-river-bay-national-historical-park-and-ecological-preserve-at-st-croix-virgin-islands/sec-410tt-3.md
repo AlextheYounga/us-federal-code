@@ -30,6 +30,8 @@ During the 10-year period beginning on February 24, 1992, the Secretary shall, s
 
 (Pub. L. 102–247, title I, §105, Feb. 24, 1992, 106 Stat. 34; Pub. L. 103–437, §6(d)(13), Nov. 2, 1994, 108 Stat. 4584.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a) after "the provisions of" in two places and in subsec. (b), was in the original "this Act" and was translated as reading "this title", meaning title I of Pub. L. 102–247, known as the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992, to reflect the probable intent of Congress.

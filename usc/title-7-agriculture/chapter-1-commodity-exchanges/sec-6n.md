@@ -24,6 +24,8 @@
 
 (Sept. 21, 1922, ch. 369, §4n, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, §9, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title II, §213, Jan. 11, 1983, 96 Stat. 2305.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1983**—Par. (5). Pub. L. 97–444 struck out par. (5) which authorized Commission, without hearing, to deny registration to any person as a commodity trading advisor or commodity pool operator if such person was subject to an outstanding order under this chapter denying to such person trading privileges on any contract market, or suspending or revoking the registration of such person as a commodity trading advisor, commodity pool operator, futures commission merchant, or floor broker, or suspending or expelling such person from membership on any contract market.
@@ -33,6 +35,8 @@ Par. (6). Pub. L. 97–444 struck out par. (6) which authorized Commission to de
 **1978**—Par. (2). Pub. L. 95–405, §9(1)–(3), redesignated par. (3) as (2) and substituted "Each registration" for "All registrations" and inserted "or at such other time, not less than one year from the effective date thereof, as the Commission may rule, regulation, or order prescribe," after "June of each year,". Former par. (2), which provided that registration under this section becomes effective thirty days after the receipt of such application by the Commission, or within such shorter period of time as the Commission may determine, was struck out.
 
 Pars. (3) to (6). Pub. L. 95–405, §9(1), redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3) redesignated (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1983 Amendment ####
 

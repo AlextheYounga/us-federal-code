@@ -4,6 +4,8 @@ The Secretary of Commerce shall charge for any service performed by the Institut
 
 (Pub. L. 97–286, §8, Oct. 6, 1982, 96 Stat. 1223; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the National Institute of Standards and Technology Act which comprises this chapter.

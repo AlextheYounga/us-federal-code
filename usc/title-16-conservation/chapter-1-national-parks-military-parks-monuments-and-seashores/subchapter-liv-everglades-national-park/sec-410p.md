@@ -8,6 +8,8 @@ Sections 3, 4, and 5; section 6, less the west half of the northwest quarter; se
 
 (Pub. L. 85–482, §8, July 2, 1958, 72 Stat. 286; Pub. L. 91–88, Oct. 17, 1969, 83 Stat. 134; Pub. L. 91–428, §1, Sept. 26, 1970, 84 Stat. 885.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Subsec. (a). Pub. L. 91–428 substituted "$22,000,000" for "$2,000,000".

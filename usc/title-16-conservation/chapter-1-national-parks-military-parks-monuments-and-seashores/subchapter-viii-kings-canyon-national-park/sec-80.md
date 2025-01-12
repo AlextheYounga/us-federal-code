@@ -4,6 +4,8 @@ The tract of land in the State of California, particularly described as follows,
 
 (Mar. 4, 1940, ch. 40, §1, 54 Stat. 41.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Additions to Kings Canyon National Park ####
 
 The following provision authorized the addition of lands to Kings Canyon National Park: Pub. L. 98–425, title I, §105(a)(1), Sept. 28, 1984, 98 Stat. 1626.

@@ -16,6 +16,8 @@ Section 3357, Pub. L. 103–182, title III, §307, Dec. 8, 1993, 107 Stat. 2104,
 
 Section 3358, Pub. L. 103–182, title III, §309, Dec. 8, 1993, 107 Stat. 2105; Pub. L. 104–295, §21(b)(4), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to price-based snapback for frozen concentrated orange juice.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the date on which the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of this title.

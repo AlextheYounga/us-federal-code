@@ -16,6 +16,8 @@ The Secretary of the Interior is authorized subject to the following conditions 
 
 (Aug. 2, 1956, ch. 885, §2, 70 Stat. 940; Pub. L. 95–348, §7(b)(6), Aug. 18, 1978, 92 Stat. 495.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Subsec. (c). Pub. L. 95–348 inserted provisions relating to acceptance through donation or purchase of the real and personal property located on Lots 251–252 Estate Contant Enighed.

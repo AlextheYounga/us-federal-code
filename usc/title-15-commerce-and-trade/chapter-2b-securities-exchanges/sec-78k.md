@@ -52,6 +52,8 @@ It shall be unlawful for a member of a national securities exchange who is both 
 
 (June 6, 1934, ch. 404, title I, §11, 48 Stat. 891; Aug. 10, 1954, ch. 667, title II, §201, 68 Stat. 686; Pub. L. 94–29, §6, June 4, 1975, 89 Stat. 110; Pub. L. 95–283, §18(a), May 21, 1978, 92 Stat. 275; Pub. L. 98–440, title I, §104, Oct. 3, 1984, 98 Stat. 1690; Pub. L. 103–68, §1, Aug. 11, 1993, 107 Stat. 691; Pub. L. 103–325, title II, §205, Sept. 23, 1994, 108 Stat. 2199.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsec. (d)(1)(ii). Pub. L. 103–325 inserted "or any small business related security" after "mortgage related security".
@@ -72,6 +74,8 @@ Subsec. (e). Pub. L. 94–29, §6(3), struck out subsec. (e) which directed the 
 
 **1954**—Subsec. (d). Act Aug. 10, 1954, reduced from 6 months to 30 days the prohibition period against extending credit to purchasers of a new issue by dealers.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1978 Amendment ####
 
 Pub. L. 95–283, §18(b), May 21, 1978, 92 Stat. 275, provided that: "The amendment made by subsection (a) of this section [amending this section] shall be effective as of May 1, 1978."
@@ -83,6 +87,8 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1954 Amendment ####
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

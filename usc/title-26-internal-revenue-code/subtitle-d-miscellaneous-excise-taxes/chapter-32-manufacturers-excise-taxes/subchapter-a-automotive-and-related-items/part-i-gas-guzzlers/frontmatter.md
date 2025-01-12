@@ -6,6 +6,8 @@ Sec.
 
 4064. Gas guzzler tax.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–514, title XVIII, §1875(f), Oct. 22, 1986, 100 Stat. 2897, substituted "guzzler" for "guzzlers" in item 4064.

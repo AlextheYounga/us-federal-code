@@ -156,6 +156,8 @@ For the purposes of this section, the term "investment adviser" includes a corpo
 
 (Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(l), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–102, title II, §222, Nov. 12, 1999, 113 Stat. 1401; Pub. L. 109–291, §4(b)(2)(B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IX, §§929P(a)(3), 985(d)(2), July 21, 2010, 124 Stat. 1863, 1934.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in subsecs. (a)(1), (2) and (b)(2), (3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
@@ -202,6 +204,8 @@ Subsec. (b)(2), (3). Pub. L. 99–571, §102(l)(2), (3), inserted reference to C
 
 Subsecs. (b), (c). Pub. L. 91–547, §4(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -225,6 +229,8 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1970 Amendment ####
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

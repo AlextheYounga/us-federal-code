@@ -10,6 +10,8 @@ Any person who willfully and knowingly violates any rule, regulation, restrictio
 
 (June 10, 1920, ch. 285, pt. III, §316, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 862; amended July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 102–486, title VII, §725(a), Oct. 24, 1992, 106 Stat. 2920; Pub. L. 109–58, title XII, §1284(d), Aug. 8, 2005, 119 Stat. 980.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Subsec. (a). Pub. L. 109–58, §1284(d)(1), substituted "$1,000,000" for "$5,000" and "5 years" for "two years".
@@ -19,6 +21,8 @@ Subsec. (b). Pub. L. 109–58, §1284(d)(2), substituted "$25,000" for "$500".
 Subsec. (c). Pub. L. 109–58, §1284(d)(3), struck out subsec. (c) which read as follows: "This subsection shall not apply in the case of any provision of section 824j, 824k, 824l, or 824m of this title or any rule or order issued under any such provision."
 
 **1992**—Subsec. (c). Pub. L. 102–486 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

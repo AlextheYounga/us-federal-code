@@ -6,6 +6,8 @@ Section 1962, Pub. L. 87–794, title III, §329, Oct. 11, 1962, 76 Stat. 895, s
 
 Section 1963, Pub. L. 87–794, title III, §330, Oct. 11, 1962, 76 Stat. 896, defined "relocation allowance". See sections 2297 and 2298 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on 90th day following Jan. 3, 1975, see note set out under section 1901 of this title.

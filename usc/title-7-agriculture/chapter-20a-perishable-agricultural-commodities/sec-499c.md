@@ -42,6 +42,8 @@ A licensee may conduct business in more than one trade name or change the name u
 
 (June 10, 1930, ch. 436, §3, 46 Stat. 533; Aug. 20, 1937, ch. 719, §5, 50 Stat. 726; June 15, 1950, ch. 254, §1, 64 Stat. 217; July 30, 1956, ch. 786, §2(a), 70 Stat. 726; Pub. L. 87–725, §§3, 4, Oct. 1, 1962, 76 Stat. 673, 674; Pub. L. 91–107, §3, Nov. 4, 1969, 83 Stat. 182; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 95–562, §2, Nov. 1, 1978, 92 Stat. 2381; Pub. L. 97–98, title XI, §1115(b), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 100–414, §1, Aug. 22, 1988, 102 Stat. 1102; Pub. L. 101–624, title XIII, §1361, Nov. 28, 1990, 104 Stat. 3568; Pub. L. 104–48, §§3–4(b), 5(a), Nov. 15, 1995, 109 Stat. 425–427.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act to prevent the destruction or dumping of farm produce, approved March 3, 1927, referred to in subsec. (b)(2), (5), is act Mar. 3, 1927, ch. 309, 44 Stat. 1355, as amended, which is classified generally to chapter 20 (§491 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
@@ -88,9 +90,13 @@ Subsec. (c). Pub. L. 87–725, §4, added subsec. (c).
 
 **1937**—Subsec. (a). Act Aug. 20, 1937, added second par.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1981 Amendment ####
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

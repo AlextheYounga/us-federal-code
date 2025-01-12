@@ -24,6 +24,8 @@ For the purpose of conserving, developing, and enhancing within the several Stat
 
 (Pub. L. 89–304, §1, Oct. 30, 1965, 79 Stat. 1125; Pub. L. 91–249, §1, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §3(a), July 30, 1974, 88 Stat. 398; Pub. L. 95–464, Oct. 17, 1978, 92 Stat. 1278; Pub. L. 96–118, §1, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(1), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 98–44, title I, §104, July 12, 1983, 97 Stat. 216; Pub. L. 107–372, title III, §303(b), Dec. 19, 2002, 116 Stat. 3095.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Public Law 80–77, May 4, 1942, 56 Stat. 267, referred to in subsec. (c)(2)(A), probably means act May 4, 1942, ch. 283 [Public Law 539, 77th Cong.], 56 Stat. 267, which is not classified to the Code.
@@ -50,6 +52,8 @@ Subsec. (c). Pub. L. 97–453 designated existing provisions as par. (1) and add
 
 Subsec. (c). Pub. L. 91–249, §1(b), added subsec. (c).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2002 Amendment ####
 
 Pub. L. 107–372, title III, §301, Dec. 19, 2002, 116 Stat. 3094, provided that: "This title [amending this section, sections 757d, 971h, 4101, 4107, and 5610 of this title, and provisions set out as a note under section 857–19 of Title 33, Navigation and Navigable Waters] may be cited as the 'Fisheries Conservation Act of 2002'."
@@ -61,6 +65,8 @@ Pub. L. 102–130, §1, Oct. 17, 1991, 105 Stat. 626, provided that: "This Act [
 #### Short Title ####
 
 Section 8, formerly section 7, of Pub. L. 89–304, as added by Pub. L. 91–249, §3, May 14, 1970, 84 Stat. 214, and renumbered by Pub. L. 96–118, §4, Nov. 16, 1979, 93 Stat. 859, provided that: "This Act [enacting this section and sections 757b to 757g of this title] may be cited as the 'Anadromous Fish Conservation Act'."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

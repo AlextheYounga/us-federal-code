@@ -14,6 +14,8 @@ Any person whose application for a certificate of clearance is denied may obtain
 
 (Feb. 22, 1935, ch. 18, §5, 49 Stat. 31.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (c), "sections 1254, 1291, and 1292 of title 28" substituted for "sections 128 and 240 of the Judicial Code, as amended [28 U.S.C. 225 and 347]" on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.

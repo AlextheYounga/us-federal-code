@@ -52,6 +52,8 @@ The Secretary shall charge and collect fees from any person registered under thi
 
 (Aug. 11, 1916, ch. 313, pt. B, §17A, as added Pub. L. 94–582, §22, Oct. 21, 1976, 90 Stat. 2886; amended Pub. L. 95–113, title XVI, §1604(l), Sept. 29, 1977, 91 Stat. 1029; Pub. L. 103–156, §12(p), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsecs. (a), (b)(1), (c) to (e). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
@@ -63,6 +65,8 @@ Subsec. (a)(2). Pub. L. 103–156, §12(p)(1), substituted "the producer" for "h
 Subsec. (c). Pub. L. 103–156, §12(p)(2), substituted "the person" for "he" in last sentence.
 
 **1977**—Subsec. (b)(1). Pub. L. 95–113 substituted "All persons required to register" for "All persons registered" in provisions preceding subpar. (A).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1977 Amendment ####
 

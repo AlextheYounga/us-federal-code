@@ -10,6 +10,8 @@ Not later than March 1 of each year, the Secretary shall submit to Congress and 
 
 (Aug. 15, 1921, ch. 64, title IV, §415, as added Pub. L. 106–472, title III, §312(e)(2), Nov. 9, 2000, 114 Stat. 2077.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 415 of act Aug. 15, 1921, was renumbered section 417 and is classified to section 229c of this title.

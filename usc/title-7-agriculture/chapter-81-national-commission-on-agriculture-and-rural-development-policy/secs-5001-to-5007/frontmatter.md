@@ -1,5 +1,7 @@
 ### §§5001 to 5007. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 5001 to 5007 were omitted pursuant to section 5007 which provided that this chapter and the National Commission on Agriculture and Rural Development Policy established by this chapter terminated 5 years after Dec. 23, 1985.
@@ -17,6 +19,8 @@ Section 5005, Pub. L. 99–198, title XVII, §1726, Dec. 23, 1985, 99 Stat. 1639
 Section 5006, Pub. L. 99–198, title XVII, §1727, Dec. 23, 1985, 99 Stat. 1640, authorized appropriations to carry out chapter.
 
 Section 5007, Pub. L. 99–198, title XVII, §1728, Dec. 23, 1985, 99 Stat. 1640, provided that this chapter and the Commission terminate five years after Dec. 23, 1985.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

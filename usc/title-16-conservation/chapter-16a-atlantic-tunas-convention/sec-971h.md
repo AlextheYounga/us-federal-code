@@ -20,6 +20,8 @@ Of the amounts made available under subsection (a) for each fiscal year—
 
 (Pub. L. 94–70, §10, Aug. 5, 1975, 89 Stat. 393; Pub. L. 95–33, §1, May 26, 1977, 91 Stat. 173; Pub. L. 96–339, §1(2), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 98–44, title I, §101, July 12, 1983, 97 Stat. 216; Pub. L. 99–659, title IV, §404, Nov. 14, 1986, 100 Stat. 3737; Pub. L. 101–627, title II, §208, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title III, §307, Nov. 3, 1995, 109 Stat. 386; Pub. L. 105–384, title II, §202(a), Nov. 13, 1998, 112 Stat. 3452; Pub. L. 107–372, title III, §304, Dec. 19, 2002, 116 Stat. 3095; Pub. L. 109–479, title IV, §405(a), Jan. 12, 2007, 120 Stat. 3633.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the original "section 3(b)(2)(H) of that section" and was translated as reading "section 3(b)(2)(H) of that Act", meaning Pub. L. 96–339, to reflect the probable intent of Congress.

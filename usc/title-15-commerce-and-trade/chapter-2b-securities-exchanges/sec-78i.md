@@ -90,6 +90,8 @@ It shall be unlawful for any person, directly or indirectly, by the use of any m
 
 (June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Pub. L. 97–303, §3, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 101–432, §6(a), Oct. 16, 1990, 104 Stat. 975; Pub. L. 106–554, §1(a)(5) [title II, §205(a)(1), (2), title III, §303(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–425, 2763A–426, 2763A–453, 2763A–454; Pub. L. 111–203, title VII, §§762(d)(2), 763(f), (g), title IX, §§929L(1), 929X(b), July 21, 2010, 124 Stat. 1760, 1777, 1861, 1870.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in subsec. (h)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
@@ -148,11 +150,15 @@ Subsec. (i). Pub. L. 106–554, §1(a)(5) [title III, §303(c)], added subsec. (
 
 Subsec. (g). Pub. L. 97–303, §3(2), added subsec. (g).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 929L(1) and 929X(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 Title 12, Banks and Banking.
 
 Amendment by sections 762(d)(2) and 763(f), (g) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

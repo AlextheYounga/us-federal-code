@@ -336,6 +336,8 @@ A compliance report under subparagraph (A) shall—
 
 (June 6, 1934, ch. 404, title I, §3C, as added Pub. L. 111–203, title VII, §763(a), July 21, 2010, 124 Stat. 1762; amended Pub. L. 114–113, div. O, title VII, §705(b), Dec. 18, 2015, 129 Stat. 3027.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original "this Act", and this chapter, referred to in subsec. (j)(2)(D), (3)(A)(i), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -347,6 +349,8 @@ Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the 
 #### Amendments ####
 
 **2015**—Subsec. (g)(4). Pub. L. 114–113 added subpars. (A) to (D) and (F), redesignated former subpar. (C) as (E), and struck out former subpars. (A) and (B) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

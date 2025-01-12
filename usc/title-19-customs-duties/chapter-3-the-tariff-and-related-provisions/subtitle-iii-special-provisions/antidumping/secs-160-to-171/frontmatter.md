@@ -26,6 +26,8 @@ Section 170a, act May 27, 1921, ch. 14, §212, as added Aug. 14, 1958, Pub. L. 8
 
 Section 171, act May 27, 1921, ch. 14, §213, formerly §212, 42 Stat. 15, renumbered Aug. 14, 1958, Pub. L. 85–630, §5, 72 Stat. 585, authorized citation of sections 160 to 171 of this title as the "Antidumping Act, 1921".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as an Effective Date note under section 1671 of this title.

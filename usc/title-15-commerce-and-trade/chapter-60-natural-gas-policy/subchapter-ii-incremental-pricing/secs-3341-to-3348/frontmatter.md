@@ -16,6 +16,8 @@ Section 3347, Pub. L. 95–621, title II, §207, Nov. 9, 1978, 92 Stat. 3380, re
 
 Section 3348, Pub. L. 95–621, title II, §208, Nov. 9, 1978, 92 Stat. 3381, directed that Alaska natural gas be allocated to rates and charges of interstate pipelines in accordance with certain general principles applicable on Nov. 9, 1978, for establishing rates.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeal of Incremental Pricing Requirements ####
 
 Pub. L. 100–42, §2, May 21, 1987, 101 Stat. 314, provided that:

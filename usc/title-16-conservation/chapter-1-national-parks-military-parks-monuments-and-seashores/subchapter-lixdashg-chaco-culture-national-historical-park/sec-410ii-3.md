@@ -26,6 +26,8 @@ All Federal lands, waters, and interests therein excluded from the boundaries of
 
 (Pub. L. 96–550, title V, §504, Dec. 19, 1980, 94 Stat. 3228; Pub. L. 104–11, §4, May 18, 1995, 109 Stat. 159.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.

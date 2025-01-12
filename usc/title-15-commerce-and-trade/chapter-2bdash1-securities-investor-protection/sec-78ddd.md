@@ -118,6 +118,8 @@ Except as otherwise provided by SIPC bylaw, gross revenues from the securities b
 
 (Pub. L. 91–598, §4, Dec. 30, 1970, 84 Stat. 1639; Pub. L. 95–283, §6, May 21, 1978, 92 Stat. 253; Pub. L. 111–203, title IX, §§929C, 929V(a), July 21, 2010, 124 Stat. 1852, 1868.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1), (4), (c)(3), (g), and (i)(1), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -145,6 +147,8 @@ Subsec. (f). Pub. L. 95–283, §6(e), struck out "examining authority as" befor
 Subsec. (g). Pub. L. 95–283, §6(f), redesignated cls. (A) to (C) as (1) to (3), respectively, and, as so redesignated, in cl. (2) struck out applicability to a member of a national securities exchange and in cl. (3) substituted provisions relating to exemptions by rule of transactions in the over-the-counter market or on any national securities exchange, for provisions relating to exemptions by rules and regulations of transactions in the over-the-counter market, and inserted provisions authorizing the collection of fees by such other persons as designated by the Commission by rule for such purpose, and provisions relating to limits on manner of payment of fees.
 
 Subsec. (i). Pub. L. 95–283, §6(g), substituted "Consolidated group" for " 'Gross revenues' defined" in heading, redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term "gross revenues" and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

@@ -18,6 +18,8 @@ In this subtitle— <sup><a href="#636e_1_target" name="636e_1">1</a></sup>
 
 (Pub. L. 110–234, title XII, §12052, May 22, 2008, 122 Stat. 1406; Pub. L. 110–246, §4(a), title XII, §12052, June 18, 2008, 122 Stat. 1664, 2168.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subtitle, referred to in text, is subtitle B (§§12051–12091) of title XII of Pub. L. 110–246, which enacted this section and sections 636f to 636k and 657i to 657o of this title, amended sections 632, 633, and 636 of this title, enacted provisions set out as notes under sections 631 and 636 of this title, and amended provisions set out as a note under section 631 of this title. For complete classification of subtitle B to the Code, see Short Title of 2008 Amendment note under section 631 of this title and Tables.
@@ -31,6 +33,8 @@ Paragraph (9) of section 636(b) of this title, as added by this Act, referred to
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -450,6 +450,8 @@ Each derivatives clearing organization that clears swaps shall provide to the Co
 
 (Sept. 21, 1922, ch. 369, §5b, as added Pub. L. 106–554, §1(a)(5) [title I, §112(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–396; amended Pub. L. 111–203, title VII, §§721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, 124 Stat. 1671, 1685–1687, 1693, 1695; Pub. L. 114–94, div. G, title LXXXVI, §86001(a), Dec. 4, 2015, 129 Stat. 1797.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Exchange Act of 1934, referred to in subsecs. (a)(1)(A)(ii) and (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -479,6 +481,8 @@ Subsec. (f)(1). Pub. L. 111–203, §725(h), inserted at end "In order to minimi
 Subsecs. (g) to (i). Pub. L. 111–203, §725(b), added subsecs. (g) to (i).
 
 Subsec. (k). Pub. L. 111–203, §725(e), added subsec. (k).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2015 Amendment ####
 

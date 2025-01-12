@@ -150,6 +150,8 @@ Nothing in this paragraph shall be construed to affect the discretion of a State
 
 (June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 106–554, §1(a)(5) [title II, §§203(a)(2), 210], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–436; Pub. L. 111–203, title VII, §767, July 21, 2010, 124 Stat. 1799.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -182,6 +184,8 @@ Subsec. (e)(1). Pub. L. 100–181, §329, substituted "subsequent to the date of
 
 Subsecs. (c) to (e). Pub. L. 94–29, §21(2), added subsecs. (c) to (e).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
@@ -193,6 +197,8 @@ Amendment by Pub. L. 105–353 not to affect or apply to any action commenced be
 #### Effective Date of 1975 Amendment ####
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -4,9 +4,13 @@ The following-described lands are made a part of the Theodore Roosevelt National
 
 (Mar. 24, 1956, ch. 94, §1, 70 Stat. 55; Pub. L. 95–625, title VI, §610, Nov. 10, 1978, 92 Stat. 3521.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act Apr. 25, 1947, ch. 41, 61 Stat. 52, which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

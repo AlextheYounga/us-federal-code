@@ -142,6 +142,8 @@ The term "senior security" means any bond, debenture, note, or similar obligatio
 
 (May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, §305(a), (b)(2), (c), (d)(2), title IV, §401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325; Pub. L. 114–94, div. G, title LXXVI, §76001(b), Dec. 4, 2015, 129 Stat. 1789; Pub. L. 115–174, title V, §501, May 24, 2018, 132 Stat. 1361.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
@@ -198,13 +200,11 @@ Subsec. (d)(4). Pub. L. 105–353, §301(a)(4)(F), substituted "The term" for "F
 
 **1996**—Pub. L. 104–290 substituted "Exemption from State regulation of securities offerings" for "State control of securities" as section catchline and amended text generally. Prior to amendment, text read as follows: "Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency or office performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
-
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Clarification of the Preservation of State Enforcement Authority ####
 
@@ -213,6 +213,12 @@ Pub. L. 112–106, title III, §305(b)(1), Apr. 5, 2012, 126 Stat. 322, provided
 #### Study and Report on Uniformity of State Regulatory Requirements ####
 
 Pub. L. 104–290, title I, §102(b), Oct. 11, 1996, 110 Stat. 3420, provided that: "The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 [15 U.S.C. 77r], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of such study."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See References in Text note below.](#77r_1)
 

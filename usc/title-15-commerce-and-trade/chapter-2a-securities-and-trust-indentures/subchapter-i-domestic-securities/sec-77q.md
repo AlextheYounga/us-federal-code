@@ -24,6 +24,8 @@ The authority of the Commission under this section with respect to security-base
 
 (May 27, 1933, ch. 38, title I, §17, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, §10, 68 Stat. 686; Pub. L. 106–554, §1(a)(5) [title III, §302(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–452; Pub. L. 111–203, title VII, §762(c)(2), July 21, 2010, 124 Stat. 1759.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 78c(a)(78) of this title, referred to in subsec. (a), was in the original "section 3(a)(78) of the Securities Exchange Act", and was translated as meaning section 3(a)(78) of act June 6, 1934, ch. 404, to reflect the probable intent of Congress.
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 111–203, §762(c)(2)(B), substituted "78c(a)(78) of this 
 Subsec. (d). Pub. L. 106–554, §1(a)(5) [title III, §302(c)], added subsec. (d).
 
 **1954**—Subsec. (a). Act Aug. 10, 1954, inserted "offer or" before "sale" in introductory text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

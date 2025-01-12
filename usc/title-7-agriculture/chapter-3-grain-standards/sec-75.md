@@ -56,6 +56,8 @@ When used in this chapter, except where the context requires otherwise—
 
 (Aug. 11, 1916, ch. 313, pt. B, §3, 39 Stat. 483; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, §3, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 95–113, title XVI, §§1604(a), 1606(a), Sept. 29, 1977, 91 Stat. 1026, 1030; Pub. L. 96–437, §1, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 102–237, title X, §1007(1), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–156, §12(a), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(1), (7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing in subsecs. (i) to (k), (m), (n), (u) to (w), and (y), redesignated subsec. (bb) as (z), and struck out former subsecs. (z) and (aa) which read as follows:
@@ -101,6 +103,8 @@ Subsec. (u). Pub. L. 94–582, §3(g), included within term defined and its defi
 Subsecs. (v) to (aa). Pub. L. 94–582, §3(h), added subsecs. (v) to (aa).
 
 **1968**—Pub. L. 90–487 substituted provisions defining terms used in the chapter for provisions that the standards fixed and established by the Secretary of Agriculture be known as the official grain standards of the United States.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1993 Amendment ####
 

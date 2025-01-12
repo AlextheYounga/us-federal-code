@@ -6,6 +6,8 @@
 
 (Pub. L. 94–70, §8, Aug. 5, 1975, 89 Stat. 391; Pub. L. 114–81, title I, §107(3), (4), Nov. 5, 2015, 129 Stat. 658.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsec. (a). Pub. L. 114–81, §107(3), added subsec. (a) and struck out former subsec. (a) which related to particular powers of persons authorized to enforce the provisions of this chapter and the regulations issued thereunder.

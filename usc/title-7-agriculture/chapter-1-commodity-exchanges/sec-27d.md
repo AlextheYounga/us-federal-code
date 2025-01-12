@@ -50,6 +50,8 @@ Any aggrieved party may seek judicial review pursuant to section 6(c) of the Com
 
 (Pub. L. 106–554, §1(a)(5) [title IV, §406], Dec. 21, 2000, 114 Stat. 2763, 2763A–459.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in subsecs. (a), (b)(2), and (c)(4)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.

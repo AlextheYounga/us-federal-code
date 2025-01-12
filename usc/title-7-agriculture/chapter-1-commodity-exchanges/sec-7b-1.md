@@ -44,6 +44,8 @@ Such designation shall be effective contemporaneously with the submission of not
 
 (Sept. 21, 1922, ch. 369, §5f, as added Pub. L. 106–554, §1(a)(5) [title II, §252(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–445.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subsec. (f) of section 13 of this title, referred to in subsec. (b)(1)(G), was redesignated subsec. (e) by Pub. L. 110–246, title XIII, §13105(h)(2), June 18, 2008, 122 Stat. 2197.

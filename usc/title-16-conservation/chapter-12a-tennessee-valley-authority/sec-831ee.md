@@ -4,6 +4,8 @@ For essential stewardship activities for which appropriations were provided to t
 
 (Pub. L. 105–62, title IV, Oct. 13, 1997, 111 Stat. 1338.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Public Law 104–206, referred to in text, is Pub. L. 104–206, Sept. 30, 1996, 110 Stat. 2984, known as the Energy and Water Development Appropriations Act, 1997. For complete classification of this Act to the Code, see Tables.

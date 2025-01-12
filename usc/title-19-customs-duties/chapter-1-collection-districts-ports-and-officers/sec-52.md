@@ -4,6 +4,8 @@ The compensation of all customs officers and employees provided for by sections 
 
 (Mar. 4, 1923, ch. 251, §6, 42 Stat. 1454; Mar. 3, 1927, ch. 348, §3(c), 44 Stat. 1382.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 7 and 8 of this title, referred to in text, were repealed by Pub. L. 91–271, title III, §321(c), (d), June 2, 1970, 84 Stat. 293.

@@ -26,9 +26,13 @@ Nothing in this subchapter shall be construed as empowering the Commission to co
 
 (May 27, 1933, ch. 38, title III, §309, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Pub. L. 101–550, title IV, §405, Nov. 15, 1990, 104 Stat. 2723.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (b). Pub. L. 101–550 inserted before period at end ", or the failure of the issuer to file an application as provided for by section 77eee(b)(2) of this title".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

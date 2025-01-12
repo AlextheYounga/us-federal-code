@@ -2,6 +2,8 @@
 
 Sections, act Aug. 24, 1935, ch. 641, §§201–233, 49 Stat. 782–793, related to potato control.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Collection of Unpaid Taxes ####
 
 Act Mar. 2, 1936, ch. 112, 49 Stat. 1155, amending act Feb. 10, 1936, ch. 42, 49 Stat. 1106, provided that no tax, civil penalty, or interest which accrued under any provision of law repealed by said act Feb. 10, 1936, and which was uncollected on date of enactment of said act Feb. 10, 1936, was to be collected; and all liens for taxes, civil penalties, or interest arising out of taxes under such provisions of law were canceled and released.

@@ -46,6 +46,8 @@ In subsection (c)(3), the words "appropriate" and "suitable" are omitted as surp
 
 In subsection (c)(6), the words "province and", "from time to time", and "useful statistics, data, and" are omitted as surplus.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Arctic Shipping Federal Advisory Committee ####
 
 Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], §8426, Jan. 1, 2021, 134 Stat. 4730, provided that:

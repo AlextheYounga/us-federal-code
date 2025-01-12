@@ -4,6 +4,8 @@ The provisions of the Act of March 1, 1872,<sup><a href="#21b_1_target" name="21
 
 (Mar. 1, 1929, ch. 437, §2, 45 Stat. 1436.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of March 1, 1872, referred to in text, is act Mar. 1, 1872, ch. 24, 17 Stat. 32. That Act was incorporated into the Revised Statutes as R.S. §§2474 and 2475 which are classified to sections 21 and 22, respectively, of this title. For complete classification of this Act to the Code, see Tables.

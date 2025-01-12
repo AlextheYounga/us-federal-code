@@ -58,9 +58,13 @@ The map referred to in subsection (b) shall be on file and available for public 
 
 (Pub. L. 108–387, title I, §103, Oct. 30, 2004, 118 Stat. 2234.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Public Law 85–435, referred to in subsec. (b)(1), is Pub. L. 85–435, May 29, 1958, 72 Stat. 153, which enacted sections 450mm to 450mm–3 of this title and was repealed by Pub. L. 108–387, title I, §105(a), Oct. 30, 2004, 118 Stat. 2236. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Fort Clatsop National Memorial ####
 

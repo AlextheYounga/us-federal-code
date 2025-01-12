@@ -58,6 +58,8 @@ The Commission, in addition to the requirements of section 803(e) of this title,
 
 (June 10, 1920, ch. 285, pt. I, §30, as added Pub. L. 95–617, title II, §213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, §7, Oct. 16, 1986, 100 Stat. 1248; Pub. L. 113–23, §4(a), Aug. 9, 2013, 127 Stat. 494; Pub. L. 115–270, title III, §3002, Oct. 23, 2018, 132 Stat. 3863.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
@@ -83,6 +85,8 @@ Subsec. (d). Pub. L. 113–23, §4(a)(3), substituted "subsection (b)" for "subs
 Subsec. (c). Pub. L. 99–495, §7(b), which directed the insertion of "National Marine Fisheries Service" after "the Fish and Wildlife Service" in both places such term appears, was executed by inserting "National Marine Fisheries Service" after "the United States Fish and Wildlife Service" and "the Fish and Wildlife Service", as the probable intent of Congress.
 
 Subsec. (e). Pub. L. 99–495, §7(c), added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

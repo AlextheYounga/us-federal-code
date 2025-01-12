@@ -12,6 +12,8 @@ Section 1786, act Aug. 28, 1954, ch. 1041, title VII, §707, 68 Stat. 912, defin
 
 Section 1787, acts Aug. 28, 1954, ch. 1041, title VII, §708, 68 Stat. 912; Nov. 30, 1970, Pub. L. 91–524, title III, §301(6), as added Aug. 10, 1973, Pub. L. 93–86, §1(7)(B), 87 Stat. 224; amended Dec. 23, 1985, Pub. L. 99–198, title II, §202, 99 Stat. 1378; Nov. 28, 1990, Pub. L. 101–624, title XIX, §1989, 104 Stat. 3909; Dec. 13, 1991, Pub. L. 102–237, title VIII, §810, 105 Stat. 1883, authorized Secretary of Agriculture to enter into agreements with, or to approve agreements entered into between, marketing cooperatives, trade associations, etc., for purpose of developing and conducting sales and advertising programs and for development and dissemination of information on product quality, production management, and marketing improvement.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 103–130, §3(a), (b), Nov. 1, 1993, 107 Stat. 1369, provided that:

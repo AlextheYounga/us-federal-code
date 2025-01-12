@@ -28,9 +28,13 @@ Township 19 north, range 24 east: the southwest quarter of the southwest quarter
 
 (Pub. L. 85–358, §2, Mar. 28, 1958, 72 Stat. 69; Pub. L. 99–250, §1, Feb. 27, 1986, 100 Stat. 13.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–250 inserted "Township 19 north, range 24 east: the southwest quarter of the southwest quarter of section 27."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

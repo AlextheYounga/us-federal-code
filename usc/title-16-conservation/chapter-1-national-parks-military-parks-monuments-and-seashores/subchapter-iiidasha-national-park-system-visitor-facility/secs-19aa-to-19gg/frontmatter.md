@@ -1,5 +1,7 @@
 ### §§19aa to 19gg. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 19aa to 19gg were omitted pursuant to section 19gg which provided that all authorities contained in this subchapter expired Sept. 30, 1989.
@@ -17,6 +19,8 @@ Section 19ee, Pub. L. 97–433, §6, Jan. 8, 1983, 96 Stat. 2278, related to aut
 Section 19ff, Pub. L. 97–433, §7, Jan. 8, 1983, 96 Stat. 2279, provided that nothing in this subchapter affect responsibilities of Secretary of the Interior under other provisions of law.
 
 Section 19gg, Pub. L. 97–433, §8, Jan. 8, 1983, 96 Stat. 2279, provided that authorities contained in this subchapter expire Sept. 30, 1989, and that any moneys credited to Fund not appropriated, expended, or obligated be transferred to miscellaneous receipts of the Treasury.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

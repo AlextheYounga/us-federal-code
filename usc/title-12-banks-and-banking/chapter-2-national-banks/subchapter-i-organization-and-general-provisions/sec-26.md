@@ -18,7 +18,7 @@ R.S. §5168 derived from act June 3, 1864, ch. 106, §17, 13 Stat. 104, which wa
 
 **1959**—Pub. L. 86–230 substituted "all" for "at least 50 per centum" before "of its capital stock".
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Exception as to Transfer of Functions ####
 

@@ -28,9 +28,13 @@ A determination by the Secretary under subsection (b) shall not exempt any forei
 
 (Sept. 21, 1922, ch. 369, §1b, as added Pub. L. 111–203, title VII, §722(h), July 21, 2010, 124 Stat. 1674.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (c), was in the original "this title", and was translated as reading "this Act", meaning act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter, to reflect the probable intent of Congress, because act Sept. 21, 1922, does not contain titles.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

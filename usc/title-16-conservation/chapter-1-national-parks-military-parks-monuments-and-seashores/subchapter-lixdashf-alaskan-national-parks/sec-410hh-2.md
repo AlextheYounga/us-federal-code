@@ -4,11 +4,15 @@ Subject to valid existing rights, the Secretary shall administer the lands, wate
 
 (Pub. L. 96–487, title II, §203, Dec. 2, 1980, 94 Stat. 2383.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of August 25, 1916 (39 Stat. 535), as amended and supplemented (16 U.S.C. 1 et seq.), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Environmental Impact Statement on Effects of 1996 Increases in Vessel Entries for Glacier Bay National Park and Preserve ####
 

@@ -30,6 +30,8 @@ Subject only to the provisions of this chapter, the Administrator is authorized 
 
 (Aug. 20, 1937, ch. 720, §2, 50 Stat. 732; Mar. 6, 1940, ch. 47, §§1, 2, 54 Stat. 47; Oct. 23, 1945, ch. 433, §§1, 5, 59 Stat. 546, 547; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; 1965 Reorg. Plan No. 4, §§11(c), 13(a), eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321; Pub. L. 95–91, title III, §302(a)(1)(D), (2), Aug. 4, 1977, 91 Stat. 578.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions of the first par. of subsec. (a) which prescribed the compensation of the Administrator were omitted as compensation of the Administrator is prescribed by section 5316 of Title 5, Government Organization and Employees.
@@ -42,6 +44,8 @@ Subsec. (f). Act Oct. 23, 1945, §1, substituted "is authorized to enter into su
 
 **1940**—Subsec. (a). Act Mar. 6, 1940, inserted provisions relating to jurisdiction and functions of administrator.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
@@ -53,6 +57,10 @@ Act Mar. 6, 1940, ch. 47, §1, 54 Stat. 47, cited as a credit to this section, w
 #### Transfer of Functions ####
 
 In subsec. (a), "Secretary of Energy" substituted for "Secretary of the Interior" in five places and "Department of Energy" substituted for "Department of the Interior" pursuant to Pub. L. 95–91, §302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, and which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
 
 Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior.
 

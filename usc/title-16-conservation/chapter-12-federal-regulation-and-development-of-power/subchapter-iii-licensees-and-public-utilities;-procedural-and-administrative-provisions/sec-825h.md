@@ -4,6 +4,8 @@ The Commission shall have power to perform any and all acts, and to prescribe, i
 
 (June 10, 1920, ch. 285, pt. III, §309, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 858.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Commission Review ####
 
 Pub. L. 99–495, §4(c), Oct. 16, 1986, 100 Stat. 1248, provided that: "In order to ensure that the provisions of Part I of the Federal Power Act [16 U.S.C. 791a et seq.], as amended by this Act, are fully, fairly, and efficiently implemented, that other governmental agencies identified in such Part I are able to carry out their responsibilities, and that the increased workload of the Federal Energy Regulatory Commission and other agencies is facilitated, the Commission shall, consistent with the provisions of section 309 of the Federal Power Act [16 U.S.C. 825h], review all provisions of that Act [16 U.S.C. 791a et seq.] requiring an action within a 30-day period and, as the Commission deems appropriate, amend its regulations to interpret such period as meaning 'working days', rather than 'calendar days' unless calendar days is specified in such Act for such action."

@@ -4,6 +4,8 @@ In order to preserve in public ownership historically significant properties ass
 
 (Pub. L. 91–134, §1, Dec. 2, 1969, 83 Stat. 274; Pub. L. 96–607, title VI, §601(1), (3), Dec. 28, 1980, 94 Stat. 3540.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Pub. L. 96–607 substituted "donated or appropriated funds" for "donated funds", "drawings entitled 'Boundary Map, Lyndon B. Johnson National Historical Park', numbered 447–40,008B and 447–40,000A, and dated January 1980" for "drawing entitled 'Lyndon B. Johnson National Historic Site Boundary Map', numbered NHS–LBJ–20,000 and dated September 1969", and "Lyndon B. Johnson National Historical Park" for "Lyndon B. Johnson National Historic Site".

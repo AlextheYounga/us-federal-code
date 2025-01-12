@@ -18,7 +18,7 @@ Sec.
 
 7508. Time for performing certain acts postponed by reason of service in combat zone or contingency operation.
 
-7508A. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions.
+7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions.
 
 7509. Expenditures incurred by the United States Postal Service.
 
@@ -72,7 +72,9 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–2, title IX, §§9611(b)(4)(D), 9625(b), Mar. 11, 2021, 135 Stat. 150, 157, added items 7527A and 7530.
+**2021**—Pub. L. 117–58, div. H, title V, §80504(b)(2), Nov. 15, 2021, 135 Stat. 1337, substituted "Federally declared disaster, significant fire," for "Presidentially declared disaster" in item 7508A.
+
+Pub. L. 117–2, title IX, §§9611(b)(4)(D), 9625(b), Mar. 11, 2021, 135 Stat. 150, 157, added items 7527A and 7530.
 
 **2019**—Pub. L. 116–25, title I, §1401(b), title II, §2007(c), July 1, 2019, 133 Stat. 997, 1006, added items 7526A and 7529.
 

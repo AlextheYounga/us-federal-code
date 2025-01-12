@@ -66,6 +66,8 @@ Nothing in this section shall be construed to affect any additional or alternati
 
 (Pub. L. 95–250, title I, §103, Mar. 27, 1978, 92 Stat. 167; Pub. L. 96–417, title VI, §602, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 105–277, div. A, §101(f) [title VIII, §405(b)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsecs. (a), (b), (g)(3)(B), and (h), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under section 79k of this title. For complete classification of this Act to the Code, see Tables.
@@ -81,6 +83,8 @@ Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931,
 Subsec. (b). Pub. L. 105–277, §101(f) [title VIII, §405(b)(2)], struck out after first sentence "In filling these positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations."
 
 **1980**—Subsec. (h). Pub. L. 96–417 substituted provision for judicial review under section 2395 of title 19 for review under section 2322 of title 19 and provided for review in the appropriate court of appeals of the United States and for review of the judgment of the court of appeals by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

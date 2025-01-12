@@ -18,6 +18,8 @@ Section 375, acts Mar. 16, 1906, ch. 951, §3, 34 Stat. 63; Feb. 24, 1925, ch. 3
 
 Section 376, acts Mar. 16, 1906, ch. 951, §4, 34 Stat. 64; Feb. 24, 1925, ch. 308, §4, 43 Stat. 971, provided for certification of amounts due States for agricultural experiment stations, for withholding certificate, and for redress by Congress. See section 361g of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Existing Rights and Liabilities ####
 
 Any rights or liabilities existing under sections 369 to 376 as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former section 361 of this title.

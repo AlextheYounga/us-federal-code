@@ -38,6 +38,8 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 (Feb. 12, 1927, ch. 111, §1, 44 Stat. 1087.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Haleakalā National Park ####
 
 Establishment of detached portion of Hawaii National Park lying on island of Maui as Haleakalā National Park, effective July 1, 1961, see section 396b of this title.

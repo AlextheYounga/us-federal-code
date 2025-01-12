@@ -4,6 +4,8 @@ Subject to valid existing rights, all mining claims located within the preserve 
 
 (Pub. L. 103–433, title V, §508, Oct. 31, 1994, 108 Stat. 4491.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In text, "section 1865(b) of title 18 and subchapter III of chapter 1007 of title 54" substituted for "the Mining in the Parks Act (16 U.S.C. 1901 et seq.)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

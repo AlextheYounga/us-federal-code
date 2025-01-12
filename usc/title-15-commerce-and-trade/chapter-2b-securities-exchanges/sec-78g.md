@@ -120,6 +120,8 @@ Subject to such rules and regulations as the Board of Governors of the Federal R
 
 (June 6, 1934, ch. 404, title I, §7, 48 Stat. 886; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Pub. L. 90–437, July 29, 1968, 82 Stat. 452; Pub. L. 91–508, title III, §301(a), Oct. 26, 1970, 84 Stat. 1124; Pub. L. 98–440, title I, §102, Oct. 3, 1984, 98 Stat. 1690; Pub. L. 103–325, title II, §203, Sept. 23, 1994, 108 Stat. 2199; Pub. L. 104–290, title I, §104(a), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title III, §301(b)(5), (6), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) [title II, §206(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–429; Pub. L. 111–203, title IX, §929, July 21, 2010, 124 Stat. 1852.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (c)(1)(A). Pub. L. 111–203 substituted "; or" for "; and" at end.
@@ -153,6 +155,8 @@ Subsec. (d). Pub. L. 104–290, §104(a)(2), amended heading and text of subsec.
 Subsec. (c). Pub. L. 90–437, §1(2), struck out "who transacts a business in securities through the medium of any such member" after "any broker or dealer", in par. (1) struck out "registered on a national securities exchange" after "(other than an exempted security)", and in par. (2) substituted "other than securities" for "other than exempted securities and/or securities registered upon a national securities exchange".
 
 Subsec. (d). Pub. L. 90–437, §1(3), struck out "registered on a national securities exchange" after "the purpose of purchasing or carrying any security", and "registered on national securities exchanges" after "the purpose of purchasing or carrying securities".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

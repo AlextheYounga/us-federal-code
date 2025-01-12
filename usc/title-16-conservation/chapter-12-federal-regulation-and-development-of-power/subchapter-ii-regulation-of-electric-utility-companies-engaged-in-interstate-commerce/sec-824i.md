@@ -52,6 +52,8 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 (June 10, 1920, ch. 285, pt. II, §210, as added Pub. L. 95–617, title II, §202, Nov. 9, 1978, 92 Stat. 3135; amended Pub. L. 96–294, title VI, §643(a)(2), June 30, 1980, 94 Stat. 770.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Subsec. (a)(1). Pub. L. 96–294 added applicability to geothermal power producers.

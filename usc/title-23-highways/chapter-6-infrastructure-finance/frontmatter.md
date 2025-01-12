@@ -22,8 +22,14 @@ Sec.
 
 610. State infrastructure bank program.
 
+611. Asset concessions and innovative finance assistance.
+
 #### **Editorial Notes** ####
 
 #### Codification ####
 
 This chapter, consisting of sections 601 to 610 of this title, was previously set out as subchapter II, consisting of sections 181 to 190, of chapter 1 of this title.
+
+#### Amendments ####
+
+**2021**—Pub. L. 117–58, div. G, title X, §71001(a)(2), Nov. 15, 2021, 135 Stat. 1320, added item 611.

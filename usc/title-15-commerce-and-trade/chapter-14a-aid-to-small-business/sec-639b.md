@@ -16,6 +16,8 @@ Not later than the date that is 120 days after December 27, 2020, and not less t
 
 (Pub. L. 116–260, div. N, title III, §321, Dec. 27, 2020, 134 Stat. 2017.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (b), probably means title III of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 1993, known as the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act. For complete classification of title III to the Code, see Short Title of 2020 Amendment note set out under section 9001 of this title and Tables.
@@ -23,6 +25,8 @@ This Act, referred to in subsec. (b), probably means title III of div. N of Pub.
 #### Codification ####
 
 Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

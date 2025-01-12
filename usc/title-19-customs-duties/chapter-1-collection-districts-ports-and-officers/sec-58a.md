@@ -4,6 +4,8 @@ The Secretary may charge such fees as may be necessary to cover the costs of pro
 
 (Pub. L. 95–410, title II, §214(b), Oct. 3, 1978, 92 Stat. 904.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The sections repealed by subsection (a), referred to in text, means the sections repealed by Pub. L. 95–410, §214(a), which provided: "Sections 2654, 4381, 4382, and 4383 of the Revised Statutes of the United States (19 U.S.C. 58 and 46 U.S.C. 329, 330, and 333) are each repealed."

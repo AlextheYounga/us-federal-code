@@ -58,6 +58,8 @@ For purposes of this subchapter, any textile fiber product shall be misbranded i
 
 (Pub. L. 85–897, §4, Sept. 2, 1958, 72 Stat. 1719; Pub. L. 89–35, §§1, 2, June 5, 1965, 79 Stat. 124; Pub. L. 98–417, title III, §§301–303, Sept. 24, 1984, 98 Stat. 1603, 1604; Pub. L. 108–429, title II, §2004(h)(1), Dec. 3, 2004, 118 Stat. 2594.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (k), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
@@ -77,6 +79,8 @@ Subsecs. (i), (j). Pub. L. 98–417, §303, added subsecs. (i) and (j).
 **1965**—Subsec. (b)(1). Pub. L. 89–35, §1, inserted ", but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product".
 
 Subsec. (b)(2). Pub. L. 89–35, §2, inserted ", but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

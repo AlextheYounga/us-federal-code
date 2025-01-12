@@ -1,5 +1,7 @@
 ### Part 4—Trade Adjustment Assistance for Communities ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of general amendment of this part by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this part, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b), (c). See Amendment of Part notes below.
@@ -11,6 +13,8 @@ Pub. L. 112–40, title II, §222(a)(1), (2), Oct. 21, 2011, 125 Stat. 411, amen
 Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, revived the provisions of this part, as in effect on Feb. 12, 2011. See Codification note above and note below.
 
 Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 401, temporarily generally amended this part. See Codification note above.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Revival ####
 

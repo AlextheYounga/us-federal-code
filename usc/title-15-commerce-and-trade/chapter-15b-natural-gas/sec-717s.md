@@ -26,6 +26,8 @@ In any proceedings under subsection (a), the court may prohibit, conditionally o
 
 (June 21, 1938, ch. 556, §20, 52 Stat. 832; June 25, 1948, ch. 646, §1, 62 Stat. 875, 895; Pub. L. 109–58, title III, §318, Aug. 8, 2005, 119 Stat. 693.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The words "the District Court of the United States for the District of Columbia" in subsec. (a) following "district court of the United States" and in subsec. (b) following "district courts of the United States" omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of title 28 which states that "The District of Columbia constitutes one judicial district".

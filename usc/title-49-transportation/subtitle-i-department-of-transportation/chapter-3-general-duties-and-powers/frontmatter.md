@@ -32,6 +32,8 @@ Sec.
 
 312. Alternative timing system.
 
+313. Nontraditional and Emerging Transportation Technology Council.
+
 #### SUBCHAPTER II—ADMINISTRATIVE ####
 
 321. Definitions.
@@ -76,7 +78,15 @@ Sec.
 
 354. Investigative authority of Inspector General.
 
+355. Motorcyclist Advisory Council.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title V, §25008(b), Nov. 15, 2021, 135 Stat. 852, which directed amendment of the analysis for subchapter I of this chapter by adding item 313 at the end, was executed by adding item 313 to the analysis for this chapter, to reflect the probable intent of Congress.
+
+Pub. L. 117–58, div. B, title IV, §24111(b), Nov. 15, 2021, 135 Stat. 815, which directed amendment of the analysis for subchapter III of this chapter by adding item 355 at the end, was executed by adding item 355 to the analysis for this chapter, to reflect the probable intent of Congress.
 
 **2018**—Pub. L. 115–282, title V, §514(c), Dec. 4, 2018, 132 Stat. 4278, which directed amendment of the analysis for this chapter by adding item 312 at the end, was executed by adding item 312 at the end of the item for subchapter I, to reflect the probable intent of Congress.
 

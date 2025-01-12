@@ -6,6 +6,8 @@
 
 (Pub. L. 89–667, §6, Oct. 15, 1966, 80 Stat. 922; Pub. L. 95–625, title I, §101(12), Nov. 10, 1978, 92 Stat. 3471; Pub. L. 100–541, §2, Oct. 28, 1988, 102 Stat. 2720.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–541 designated existing provisions as subsec. (a), substituted "sums" for "sums, but not more than $1,800,000 in all,", and added subsec. (b).

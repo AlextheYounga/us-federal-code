@@ -4,6 +4,8 @@ If any provision of this Act or the application thereof to any person or circums
 
 (Pub. L. 90–258, §27, Feb. 19, 1968, 82 Stat. 34.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is Pub. L. 90–258, Feb. 19, 1968, 82 Stat. 26. For complete classification of this Act to the Code, see Tables.

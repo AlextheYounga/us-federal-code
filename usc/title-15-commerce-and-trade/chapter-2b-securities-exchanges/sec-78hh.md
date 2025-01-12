@@ -4,6 +4,8 @@ This chapter shall become effective on July 1, 1934, except that sections 78f an
 
 (June 6, 1934, ch. 404, title I, §34, 48 Stat. 905.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in text, was in the original "This Act". See References in Text note set out under section 78a of this title.

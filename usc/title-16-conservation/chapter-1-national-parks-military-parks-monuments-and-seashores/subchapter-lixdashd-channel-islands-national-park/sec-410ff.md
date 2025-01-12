@@ -18,6 +18,8 @@ there is hereby established the Channel Islands National Park, the boundaries of
 
 (Pub. L. 96–199, title II, §201, Mar. 5, 1980, 94 Stat. 74.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Robert J. Lagomarsino Visitor Center ####
 
 Pub. L. 104–333, div. I, title VIII, §809, Nov. 12, 1996, 110 Stat. 4189, as amended by Pub. L. 106–176, title I, §119, Mar. 10, 2000, 114 Stat. 28, provided that:

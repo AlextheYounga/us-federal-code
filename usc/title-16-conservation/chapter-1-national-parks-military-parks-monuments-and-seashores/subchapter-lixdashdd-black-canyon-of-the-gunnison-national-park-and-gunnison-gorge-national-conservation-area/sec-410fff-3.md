@@ -48,6 +48,8 @@ On the date that the Secretary acquires fee ownership of any privately owned lan
 
 (Pub. L. 106–76, §5, Oct. 21, 1999, 113 Stat. 1128; Pub. L. 108–128, §2(c), Nov. 17, 2003, 117 Stat. 1355.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Subsec. (a)(1). Pub. L. 108–128 substituted "Map or the map described in section 410fff–2(a)(2) of this title" for "Map".

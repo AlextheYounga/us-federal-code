@@ -36,9 +36,13 @@ There is authorized to be appropriated to the Administrator $50,000,000 to carry
 
 (Pub. L. 111–240, title I, §1402, Sept. 27, 2010, 124 Stat. 2550.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Small Business Jobs Act of 2010, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

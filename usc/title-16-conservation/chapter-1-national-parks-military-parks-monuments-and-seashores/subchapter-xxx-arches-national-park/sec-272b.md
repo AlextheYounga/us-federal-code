@@ -32,6 +32,8 @@ Any portion of a grazing lease, permit, or license with respect to land in the L
 
 (Pub. L. 92–155, §3, Nov. 12, 1971, 85 Stat. 422; Pub. L. 105–329, §2(c), Oct. 30, 1998, 112 Stat. 3060.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Taylor Grazing Act, referred to in subsec. (b)(5), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 315 of Title 43 and Tables.

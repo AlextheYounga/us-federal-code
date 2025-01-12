@@ -1,5 +1,7 @@
 ### §§1151 to 1161. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1151, act Aug. 8, 1947, ch. 519, title IV, §401, 61 Stat. 932, related to expenditures by Secretary and expired Dec. 31, 1974.

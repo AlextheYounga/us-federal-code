@@ -22,6 +22,8 @@ Any issuer which fails to file information, documents, or reports required to be
 
 (June 6, 1934, ch. 404, title I, §32, 48 Stat. 904; May 27, 1936, ch. 462, §9, 49 Stat. 1380; June 25, 1938, ch. 677, §4, 52 Stat. 1076; Pub. L. 88–467, §11, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §§23, 27(b), June 4, 1975, 89 Stat. 162, 163; Pub. L. 95–213, title I, §103(b), Dec. 19, 1977, 91 Stat. 1496; Pub. L. 98–376, §3, Aug. 10, 1984, 98 Stat. 1265; Pub. L. 100–418, title V, §5003(b), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 100–704, §4, Nov. 19, 1988, 102 Stat. 4680; Pub. L. 105–366, §2(d), Nov. 10, 1998, 112 Stat. 3303; Pub. L. 107–204, title XI, §1106, July 30, 2002, 116 Stat. 810.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -69,6 +71,8 @@ Subsec. (c). Pub. L. 94–29, §23(2), struck out subsec. (c) which rendered thi
 **1936**—Subsec. (a). Act May 27, 1936, inserted "or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title".
 
 Subsec. (b). Act May 27, 1936, added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

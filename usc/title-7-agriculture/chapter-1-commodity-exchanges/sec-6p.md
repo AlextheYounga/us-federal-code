@@ -6,6 +6,8 @@
 
 (Sept. 21, 1922, ch. 369, §4p, as added Pub. L. 93–463, title II, §206, Oct. 23, 1974, 88 Stat. 1400; amended Pub. L. 97–444, title II, §215, Jan. 11, 1983, 96 Stat. 2305; Pub. L. 102–546, title II, §210(a), Oct. 28, 1992, 106 Stat. 3607; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(11)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 4p of act Sept. 21, 1922, was renumbered section 4q and is classified to section 6q of this title.
@@ -19,6 +21,8 @@ Subsec. (b). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(11)(B)], inserted "
 **1992**—Pub. L. 102–546 designated existing provisions as subsec. (a) and added subsec. (b).
 
 **1983**—Pub. L. 97–444 substituted "persons required to be registered with the Commission" for "futures commission merchants, floor brokers, and those persons associated with futures commission merchants or floor brokers" in first sentence, "customers, clients, pool participants, or other members of the public with whom such individuals deal" for "the customers of futures commission merchants and floor brokers" in last sentence, and in second and third sentences struck out "as futures commission merchants, floor brokers, and those persons associated with futures commission merchants or floor brokers," after "applicants for registration".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1983 Amendment ####
 

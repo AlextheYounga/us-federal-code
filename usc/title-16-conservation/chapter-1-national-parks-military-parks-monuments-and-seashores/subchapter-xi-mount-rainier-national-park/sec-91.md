@@ -4,6 +4,8 @@ All those certain tracts, pieces, or parcels of land lying and being in the Stat
 
 (Mar. 2, 1899, ch. 377, §1, 30 Stat. 993.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 108–312, §1, Oct. 5, 2004, 118 Stat. 1194, provided that: "This Act [enacting section 110d of this title and provisions set out as a note under section 110d of this title] may be cited as the 'Mount Rainier National Park Boundary Adjustment Act of 2004'."

@@ -38,15 +38,21 @@ Sec.
 
 24318. Costs and revenues.
 
-24319. Grant process.
+24319. Grant process and reporting.
 
-24320. Amtrak 5-year business line and asset plans.
+24320. Amtrak 5-year service line and asset line plans.
 
-24321. Food and beverage reform.
+24321. Food and beverage service.
 
 24322. Rolling stock purchases.
 
+24323. Prohibition on smoking on Amtrak trains.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title II, §§22206(c)(2), 22207(b), 22208(b)(2), 22209(b), Nov. 15, 2021, 135 Stat. 703, 706–708, substituted "Grant process and reporting" for "Grant process" in item 24319, "Amtrak 5-year service line and asset line plans" for "Amtrak 5-year business line and asset plans" in item 24320, and "Food and beverage service" for "Food and beverage reform" in item 24321 and added item 24323.
 
 **2015**—Pub. L. 114–94, div. A, title XI, §§11201(b), 11202(b), 11203(c), 11207(b), 11208(b), 11316(m), Dec. 4, 2015, 129 Stat. 1627, 1630, 1634, 1639, 1640, 1678, substituted "Plans to address the needs of families of passengers involved in rail passenger accidents" for "Plan to assist families of passengers involved in rail passenger accidents" in item 24316 and added items 24317 to 24322.
 

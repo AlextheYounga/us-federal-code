@@ -10,11 +10,15 @@ Lands and interests in lands within the boundary depicted on the maps referred t
 
 (Pub. L. 101–214, §2, Dec. 11, 1989, 103 Stat. 1849; Pub. L. 102–541, §2(a), Oct. 27, 1992, 106 Stat. 3565; Pub. L. 106–150, §1(c), Dec. 9, 1999, 113 Stat. 1730.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (a). Pub. L. 106–150 substituted "Spotsylvania National" for "Spotslyvania National".
 
 **1992**—Subsec. (a). Pub. L. 102–541 struck out "326–40072E/89," after "326–40071C/89." and substituted "1989, and the map entitled 'Fredericksburg and Spotsylvania National Military Park,' numbered 326–40072E/89/A and dated September, 1990." for "1989."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

@@ -266,6 +266,8 @@ Not later than 1 year after October 22, 1994, and annually thereafter, the Admin
 
 (Pub. L. 85–699, title V, §508, as added and amended Pub. L. 103–403, title II, §217, Oct. 22, 1994, 108 Stat. 4185; Pub. L. 105–135, title II, §223(a), Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) [title III, §§305, 306], Dec. 21, 2000, 114 Stat. 2763, 2763A–685; Pub. L. 108–232, §§2–3(c), May 28, 2004, 118 Stat. 649–652.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 May 28, 2004, referred to in subsec. (c)(8)(C), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 108–232, which enacted subsec. (c)(8), to reflect the probable intent of Congress.
@@ -345,6 +347,8 @@ Subsec. (h). Pub. L. 105–135, §223(a)(7), added subsec. (h) and struck out he
 Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted "other lenders, specifically comparing default rates and recovery rates on liquidations" for "other lenders".
 
 **1994**—Pub. L. 103–403, §217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) [title III, §305] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) [title III, §306] of Pub. L. 106–554. See Termination Date note below.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

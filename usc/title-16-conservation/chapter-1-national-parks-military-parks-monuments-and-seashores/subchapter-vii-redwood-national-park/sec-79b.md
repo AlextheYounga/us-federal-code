@@ -22,6 +22,8 @@ Within the area outside the boundaries of Redwood National Park indicated as the
 
 (Pub. L. 90–545, §2, Oct. 2, 1968, 82 Stat. 931; Pub. L. 95–250, title I, §101(a)(1), (2), Mar. 27, 1978, 92 Stat. 163; Pub. L. 103–437, §6(d)(7), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 109–131, title III, §302, Dec. 20, 2005, 119 Stat. 2569.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of October 21, 1976 (90 Stat. 2743), referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.

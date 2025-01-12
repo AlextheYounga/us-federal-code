@@ -70,6 +70,8 @@ The authority provided by this subsection is in addition to any other authority 
 
 For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment notes below.
@@ -82,6 +84,8 @@ Subsec. (c). Pub. L. 109–455, §5, which added subsec. (c) relating to attorne
 
 **1973**—Pub. L. 93–153 inserted provisions authorizing the Federal Trade Commission to itself cause appropriate proceedings to be brought after compliance with the requirements of section 45(m) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination Date of 2006 Amendment ####
 
 Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
@@ -89,6 +93,8 @@ Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 3
 #### Effective Date of 1975 Amendment ####
 
 Pub. L. 93–637, title II, §204(c), Jan. 4, 1975, 88 Stat. 2200, provided that: "The amendment and repeal made by this section [amending this section and repealing section 45(m) of this title] shall not apply to any civil action commenced before the date of enactment of this Act [Jan. 4, 1975]."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

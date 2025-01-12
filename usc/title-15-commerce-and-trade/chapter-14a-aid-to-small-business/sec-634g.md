@@ -14,6 +14,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 94–305, title II, §207, as added Pub. L. 111–240, title I, §1602(b), Sept. 27, 2010, 124 Stat. 2551.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

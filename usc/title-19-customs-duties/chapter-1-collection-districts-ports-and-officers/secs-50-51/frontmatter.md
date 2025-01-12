@@ -4,6 +4,8 @@ Section 50, acts Aug. 24, 1912, ch. 355, §8, 37 Stat. 487; June 6, 1939, ch. 18
 
 Section 51, act Mar. 4, 1923, ch. 251, §7, 42 Stat. 1454, provided limitations on compensation.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Additional Repeal ####
 
 Section 51 was additionally repealed by Pub. L. 91–271, title III, §321(j), June 2, 1970, 84 Stat. 293.

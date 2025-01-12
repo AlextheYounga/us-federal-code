@@ -66,6 +66,8 @@ Notwithstanding subsection (a), a direct or insured loan may be prepaid by an el
 
 (May 20, 1936, ch. 432, title III, §306B, as added Pub. L. 99–509, title I, §1011(a), Oct. 21, 1986, 100 Stat. 1876; amended Pub. L. 101–624, title XXIII, §2387, Nov. 28, 1990, 104 Stat. 4051; Pub. L. 102–428, §2, Oct. 21, 1992, 106 Stat. 2183; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 October 21, 1992, referred to in subsec. (a)(5)(A), (B), was in the original "the date of enactment of this subsection", which was translated as meaning the date of enactment of Pub. L. 102–428, which amended subsec. (a) generally, to reflect the probable intent of Congress.

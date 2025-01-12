@@ -12,6 +12,8 @@ Whenever the United States is hereafter injured in its business or property by r
 
 (Oct. 15, 1914, ch. 323, §4A, as added July 7, 1955, ch. 283, §1, 69 Stat. 282; amended Pub. L. 96–349, §4(a)(2), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 101–588, §5, Nov. 16, 1990, 104 Stat. 2880.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
@@ -21,6 +23,8 @@ The antitrust laws, referred to in text, are defined in section 12 of this title
 **1990**—Pub. L. 101–588 substituted "threefold the" for "actual".
 
 **1980**—Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

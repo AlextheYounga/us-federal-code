@@ -34,6 +34,8 @@ All costs and expenses of administration of the estate of the debtor and of the 
 
 (Pub. L. 91–598, §6, Dec. 30, 1970, 84 Stat. 1646; Pub. L. 95–283, §8, May 21, 1978, 92 Stat. 259; Pub. L. 95–598, title III, §308(g), (h), Nov. 6, 1978, 92 Stat. 2675; Pub. L. 109–8, title XV, §1502(b), Apr. 20, 2005, 119 Stat. 217.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1), (3), (b), (c), and (d), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -67,6 +69,8 @@ Subsec. (h). Pub. L. 95–283 struck out subsec. (h) relating to nonapplicabilit
 Subsec. (i). Pub. L. 95–283 struck out subsec. (i) setting forth provisions relating to reports by the trustee to the court. See section 78fff–1(c) of this title.
 
 Subsec. (j). Pub. L. 95–283 struck out subsec. (j) which related to nonapplicability of provisions to rights of persons to establish by formal proof such claims as they may have to payment or delivery of specific securities. See section 78fff–2(a)(4) of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2005 Amendment ####
 

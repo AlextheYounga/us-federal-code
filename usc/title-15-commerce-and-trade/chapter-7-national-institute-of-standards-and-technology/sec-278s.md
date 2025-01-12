@@ -482,6 +482,8 @@ Any reference in law, regulation, map, document, paper, or other record of the U
 
 (Mar. 3, 1901, ch. 872, §34, as added Pub. L. 113–235, div. B, title VII, §703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, §1741(a), Dec. 20, 2019, 133 Stat. 1826.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under section 271 of this title.
@@ -489,6 +491,8 @@ A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 #### Amendments ####
 
 **2019**—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Coordination With Hollings Manufacturing Extension Partnership Centers ####
 

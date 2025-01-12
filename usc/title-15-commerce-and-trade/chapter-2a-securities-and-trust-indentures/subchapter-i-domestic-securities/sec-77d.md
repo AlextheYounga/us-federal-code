@@ -134,6 +134,8 @@ The transactions referred to in subsection (a)(7) are transactions meeting the f
 
 (May 27, 1933, ch. 38, title I, §4, 48 Stat. 77; June 6, 1934, ch. 404, title II, §203, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §6, 68 Stat. 684; Pub. L. 88–467, §12, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §30, June 4, 1975, 89 Stat. 169; Pub. L. 96–477, title VI, §602, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 111–203, title IX, §944(a), July 21, 2010, 124 Stat. 1897; Pub. L. 112–106, title II, §201(b), (c), title III, §302(a), title IV, §401(c), Apr. 5, 2012, 126 Stat. 314, 315, 325; Pub. L. 114–94, div. G, title LXXVI, §76001(a), Dec. 4, 2015, 129 Stat. 1787.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 201 of the Jumpstart Our Business Startups Act, referred to in subsec. (b), is section 201 of Pub. L. 112–106, which amended this section and enacted provisions set out as a note under this section.
@@ -180,6 +182,8 @@ Par. (4). Pub. L. 88–467 redesignated former par. (2) as (4) and substituted "
 
 **1934**—Act June 6, 1934, among other changes, repealed par. (3), provisions of which were replaced by section 77c(9), (10) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -195,10 +199,6 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 #### Effective Date of 1954 Amendment ####
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
-
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Modification of Exemption Rules ####
 
@@ -265,5 +265,11 @@ Pub. L. 111–203, title IX, §926, July 21, 2010, 124 Stat. 1851, provided that
 "(B) has been convicted of any felony or misdemeanor in connection with the purchase or sale of any security or involving the making of any false filing with the Commission."
 
 [For definitions of terms used in section 926 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See References in Text note below.](#77d_1)

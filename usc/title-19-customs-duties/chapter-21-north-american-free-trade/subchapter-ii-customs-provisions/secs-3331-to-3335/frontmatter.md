@@ -4,11 +4,13 @@ Section 3331, Pub. L. 103–182, title II, §201, Dec. 8, 1993, 107 Stat. 2068; 
 
 Section 3332, Pub. L. 103–182, title II, §202, Dec. 8, 1993, 107 Stat. 2069; Pub. L. 104–295, §21(a)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–206, title V, §5003(b)(4), July 22, 1998, 112 Stat. 790, related to rules of origin for goods.
 
-Section 3333, Pub. L. 103–182, title II, §203, Dec. 8, 1993, 107 Stat. 2086; Pub. L. 116–113, title V, §501(b)(1), (2), (d)(1)–(3), Jan. 29, 2020, 134 Stat. 67, 68, consisted of subsecs. (a) to (e) relating to drawback. Subsecs. (b) and (c) had amended sections 81c, 1311 to 1313, and 1562 of this title. Subsecs. (a), (d), and (e) were transferred to section 4534 of this title by Pub. L. 116–133 prior to repeal of section 3333.
+Section 3333, Pub. L. 103–182, title II, §203, Dec. 8, 1993, 107 Stat. 2086; Pub. L. 116–113, title V, §501(b)(1), (2), (d)(1)–(3), Jan. 29, 2020, 134 Stat. 67, 68, consisted of subsecs. (a) to (e) relating to drawback. Subsecs. (b) and (c) had amended sections 81c, 1311 to 1313, and 1562 of this title. Subsecs. (a), (d), and (e) were transferred to section 4534 of this title by Pub. L. 116–113 prior to repeal of section 3333.
 
 Section 3334, Pub. L. 103–182, title II, §210, Dec. 8, 1993, 107 Stat. 2099, prohibited drawback for television picture tubes.
 
 Section 3335, Pub. L. 103–182, title II, §211, Dec. 8, 1993, 107 Stat. 2099, related to monitoring of television and picture tube imports and reports on results.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 

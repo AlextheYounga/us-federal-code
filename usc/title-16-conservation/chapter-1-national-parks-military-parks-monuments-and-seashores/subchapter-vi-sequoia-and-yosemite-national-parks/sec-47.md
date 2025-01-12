@@ -4,6 +4,8 @@ That portion of the Yosemite National Park lying between the boundary line descr
 
 (June 11, 1906, No. 27, §1, 34 Stat. 831; Mar. 4, 1907, ch. 2907, 34 Stat. 1269.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act approved February fifteenth, nineteen hundred and one, referred to in text, is act Feb. 15, 1901, ch. 372, 31 Stat. 790, which is classified to section 959 of Title 43, Public Lands. The Act, insofar as it related to National Park System units, was repealed and restated as section 100902(a) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.

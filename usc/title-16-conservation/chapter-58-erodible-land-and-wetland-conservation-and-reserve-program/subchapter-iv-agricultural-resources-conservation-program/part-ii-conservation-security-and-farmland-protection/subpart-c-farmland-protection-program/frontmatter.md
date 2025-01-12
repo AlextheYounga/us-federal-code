@@ -1,5 +1,7 @@
 ### subpart c—farmland protection program ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234, title II, §2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, both redesignated subpart B of this part as subpart C. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234.

@@ -4,6 +4,8 @@ The Secretary may report any violation of this chapter for which a civil penalty
 
 (June 10, 1930, ch. 436, §12, 46 Stat. 536.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 562 of this title.

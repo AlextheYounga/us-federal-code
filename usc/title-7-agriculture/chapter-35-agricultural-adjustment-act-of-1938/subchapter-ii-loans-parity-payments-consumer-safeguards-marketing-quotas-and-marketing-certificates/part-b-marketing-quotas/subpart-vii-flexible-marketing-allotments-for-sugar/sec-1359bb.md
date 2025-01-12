@@ -78,6 +78,8 @@ Any processor who knowingly violates paragraph (1) shall be liable to the Commod
 
 (Feb. 16, 1938, ch. 30, title III, §359b, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 188; amended Pub. L. 110–234, title I, §1403(b), May 22, 2008, 122 Stat. 982; Pub. L. 110–246, §4(a), title I, §1403(b), June 18, 2008, 122 Stat. 1664, 1710; Pub. L. 113–79, title I, §1301(b)(1), Feb. 7, 2014, 128 Stat. 688; Pub. L. 115–334, title I, §1301(b)(1), Dec. 20, 2018, 132 Stat. 4511.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -93,6 +95,8 @@ A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, §359b, as added P
 **2014**—Subsec. (a)(1). Pub. L. 113–79 substituted "2018" for "2012".
 
 **2008**—Pub. L. 110–246, §1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

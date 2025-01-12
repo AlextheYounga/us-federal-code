@@ -8,6 +8,8 @@
 
 (Sept. 21, 1922, ch. 369, §13, as added Pub. L. 90–258, §26, Feb. 19, 1968, 82 Stat. 34; amended Pub. L. 93–463, title I, §103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, §230, Jan. 11, 1983, 96 Stat. 2319; Pub. L. 102–546, title IV, §402(1)(D), (9)(C), Oct. 28, 1992, 106 Stat. 3624, 3625.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Subsec. (c). Pub. L. 102–546, §402(9)(C), which directed that "the Secretary of Agriculture or" be struck out, could not be executed because of amendment by Pub. L. 93–463, §103(a). See 1974 Amendment note below.
@@ -19,6 +21,8 @@ Pub. L. 102–546, §402(1)(D), substituted "Commission" for "commission" before
 Subsecs. (b), (c). Pub. L. 97–444, §230(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 **1974**—Subsec. (b). Pub. L. 93–463, §103(a), provided for substitution of "Commission" for "Secretary of Agriculture" except where such words would be stricken by section 103(b), which directed striking the words "the Secretary of Agriculture or" where they appeared in the phrase "the Secretary of Agriculture or the Commission". Because the word "commission" was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of "the Commission or the commission" for "the Secretary of Agriculture or the commission".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1983 Amendment ####
 

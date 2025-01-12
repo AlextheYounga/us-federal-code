@@ -4,15 +4,21 @@ For each fiscal year beginning with the fiscal year ending June 30, 1951, the Se
 
 (Aug. 9, 1950, ch. 658, §5, 64 Stat. 432; Pub. L. 98–369, div. A, title X, §1014(a)(4), July 18, 1984, 98 Stat. 1015; Pub. L. 106–408, title I, §125, Nov. 1, 2000, 114 Stat. 1775.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–408 inserted ", at the time at which a deduction or apportionment is made," after "certify" and struck out "and executing" after "administering".
 
 **1984**—Pub. L. 98–369 struck out provisions relating to notice by the State to the Secretary of intention to accept, and use of funds where the State fails to accept.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1984 Amendment ####
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

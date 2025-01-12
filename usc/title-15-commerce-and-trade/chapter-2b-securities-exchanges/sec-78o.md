@@ -476,6 +476,8 @@ The Commission, by rule, may prohibit, or impose conditions or limitations on th
 
 (June 6, 1934, ch. 404, title I, §15, 48 Stat. 895; May 27, 1936, ch. 462, §3, 49 Stat. 1377; June 25, 1938, ch. 677, §2, 52 Stat. 1075; Pub. L. 88–467, §6, Aug. 20, 1964, 78 Stat. 570; Pub. L. 91–598, §11(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1653, renumbered §11(d), Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; Pub. L. 94–29, §11, June 4, 1975, 89 Stat. 121; Pub. L. 95–213, title II, §204, Dec. 19, 1977, 91 Stat. 1500; Pub. L. 98–38, §3(a), June 6, 1983, 97 Stat. 206; Pub. L. 98–376, §§4, 6(b), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 99–571, title I, §102(e), (f), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 100–181, title III, §317, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–704, §3(b)(1), Nov. 19, 1988, 102 Stat. 4679; Pub. L. 101–429, title V, §§504(a), 505, Oct. 15, 1990, 104 Stat. 952, 953; Pub. L. 101–550, title II, §203(a), (c)(1), Nov. 15, 1990, 104 Stat. 2715, 2718; Pub. L. 103–202, title I, §§105, 106(b)(2)(B), 109(b)(2), 110, Dec. 17, 1993, 107 Stat. 2348, 2350, 2353; Pub. L. 104–67, title I, §103(a), Dec. 22, 1995, 109 Stat. 756; Pub. L. 104–290, title I, §103(a), Oct. 11, 1996, 110 Stat. 3420; Pub. L. 105–353, title III, §301(b)(8), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §205, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(a)(1), (b), 206(h), title III, §303(e), (f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–421, 2763A–422, 2763A–432, 2763A–454, 2763A–455; Pub. L. 107–204, title VI, §604(a), (c)(1)(B), July 30, 2002, 116 Stat. 795, 796; Pub. L. 109–291, §4(b)(1)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title I, §173(c), title VII, §§713(a), 762(d)(4), 766(d), title IX, §§913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), 975(g), 985(b)(5)(A), July 21, 2010, 124 Stat. 1440, 1646, 1761, 1799, 1828, 1829, 1837, 1841, 1850, 1861, 1870, 1896, 1923, 1933; Pub. L. 112–106, title III, §305(d)(1), title VI, §601(b), Apr. 5, 2012, 126 Stat. 323, 326; Pub. L. 114–94, div. G, title LXXXV, §85001(2), Dec. 4, 2015, 129 Stat. 1797.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (b)(2)(B), (C), (3), (4)(A), (D), (E), (11)(B), (12)(B), (c)(3)(B), (8), (f), (g), and (i)(1), was in the original "this title", and this chapter, referred to in subsecs. (k)(1) and (m), was in the original "this Act". See References in Text note set out under section 78a of this title.
@@ -686,6 +688,8 @@ Subsec. (d). Pub. L. 88–467, §6(d), substituted provisions which require ever
 
 **1936**—Act May 27, 1936, amended section generally.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 173(c), 913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), and 985(b)(5)(A) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -741,10 +745,6 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 #### Construction of 1993 Amendment ####
 
 Amendment by sections 105, 106(b)(2)(B), and 109(b)(2) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
-
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Study and Rulemaking Regarding Obligations of Brokers, Dealers, and Investment Advisers ####
 
@@ -883,6 +883,12 @@ Pub. L. 101–429, title V, §502, Oct. 15, 1990, 104 Stat. 951, provided that: 
 #### Revision of Sanction Authority With Respect to Penny Stocks; Recommendations to Congress ####
 
 Pub. L. 101–429, title V, §504(b), Oct. 15, 1990, 104 Stat. 953, provided that within 6 months after Oct. 15, 1990, the Securities and Exchange Commission was to submit to each House of Congress any recommendations the Commission considered appropriate with respect to further revision of subsection (b)(6) of this section.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> So in original.](#78o_1)
 

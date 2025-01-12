@@ -14,6 +14,8 @@ The provisions of sections 77jjj to and including 77qqq of this title that impos
 
 (May 27, 1933, ch. 38, title III, §318, as added Aug. 3, 1939, ch. 411, 53 Stat. 1173; amended Pub. L. 101–550, title IV, §417, Nov. 15, 1990, 104 Stat. 2731.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (a). Pub. L. 101–550, §417(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "The indenture to be qualified shall provide that if any provision thereof limits, qualifies, or conflicts with another provision which is required to be included in such indenture by any of sections 77jjj to 77qqq of this title, inclusive, such required provision shall control."

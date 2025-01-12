@@ -22,6 +22,8 @@ The provisions of this section shall not prevent an official agency or State age
 
 (Aug. 11, 1916, ch. 313, pt. B, §11, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 766; Pub. L. 94–582, §13, Oct. 21, 1976, 90 Stat. 2880; Pub. L. 95–113, title XVI, §§1604(h), 1606(g), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, §12(j), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 103–437, §4(a)(1), Nov. 2, 1994, 108 Stat. 4581.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsecs. (a), (b). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
@@ -49,6 +51,8 @@ Subsec. (c). Pub. L. 95–113, §1604(h)(3), inserted "or State agency delegated
 Subsecs. (b), (c). Pub. L. 94–582, §13(c), added subsecs. (b) and (c).
 
 **1968**—Pub. L. 90–487 substituted provisions prohibiting a conflict of interest on the part of inspectors who are interested financially in a grain elevator or in grain merchandising, for provisions covering the separability of provisions of this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1977 Amendment ####
 

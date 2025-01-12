@@ -8,6 +8,8 @@ Section 1006e, act July 22, 1937, ch. 517, title I, §18, as added Aug. 25, 1958
 
 For subject matter of sections 1006c to 1006e of this title, see section 1921 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective one hundred and twenty days after Aug. 8, 1961, or such earlier date as the provisions of section 1921 et seq. of this title are made effective by regulations of Secretary of Agriculture, see section 341(a) of Pub. L. 87–128, set out as a note under section 1921 of this title.

@@ -4,6 +4,8 @@ There is established within the Small Business Administration an Office of Advoc
 
 (Pub. L. 94–305, title II, §201, June 4, 1976, 90 Stat. 668.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

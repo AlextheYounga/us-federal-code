@@ -32,6 +32,8 @@ The term "Federal Home Loan Mortgage Corporation" means the corporation created 
 
 (June 6, 1934, ch. 404, title I, §38, as added Pub. L. 110–289, div. A, title I, §1112, July 30, 2008, 122 Stat. 2677.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (b)(1), was in the original "this title". See References in Text note set out under section 78a of this title and Codification note below.

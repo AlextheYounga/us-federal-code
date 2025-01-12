@@ -90,6 +90,8 @@ Any resignation of an indenture trustee shall become effective only upon the app
 
 (May 27, 1933, ch. 38, title III, §310, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Pub. L. 101–550, title IV, §§406–408, Nov. 15, 1990, 104 Stat. 2723, 2724; Pub. L. 111–203, title IX, §986(b)(3), July 21, 2010, 124 Stat. 1936.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (c). Pub. L. 111–203 struck out subsec. (c). Text read as follows: "The Public Utility Holding Company Act of 1935 shall not be held to establish or authorize the establishment of any standards regarding the eligibility and qualifications of any trustee or prospective trustee under an indenture to be qualified under this subchapter, or regarding the provisions to be included in any such indenture with respect to the eligibility and qualifications of the trustee thereunder, other than those established by the provisions of this section."
@@ -106,9 +108,13 @@ Subsec. (a)(5). Pub. L. 101–550, §407, added par. (5).
 
 Subsec. (b). Pub. L. 101–550, §408, amended subsec. (b) generally.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

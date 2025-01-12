@@ -20,9 +20,13 @@ Within 6 months after October 27, 1986, the Secretary of the Interior (hereinaft
 
 (Pub. L. 99–565, §2, Oct. 27, 1986, 100 Stat. 3181.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 8, 1906 (34 Stat. 225), referred to in subsec. (d)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as section 1866(b) of Title 18, Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

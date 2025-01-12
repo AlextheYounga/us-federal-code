@@ -50,6 +50,8 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 (Pub. L. 100–330, §10, June 7, 1988, 102 Stat. 597.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 89 of title 14, referred to in subsec. (d)(3), redesignated section 522 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.

@@ -162,9 +162,13 @@ The terms "blank check company", "rollup transaction", "partnership", "limited l
 
 (June 6, 1934, ch. 404, title I, §21E, as added Pub. L. 104–67, title I, §102(b), Dec. 22, 1995, 109 Stat. 753.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (c)(1), (f), and (g), was in the original "this title". See References in Text note set out under section 78a of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

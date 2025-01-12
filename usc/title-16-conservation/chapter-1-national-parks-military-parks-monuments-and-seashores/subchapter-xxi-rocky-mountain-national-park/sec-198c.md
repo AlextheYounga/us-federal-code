@@ -4,6 +4,8 @@ All hunting or the killing, wounding, or capturing at any time of any wild bird 
 
 (Mar. 2, 1929, ch. 583, §4, 45 Stat. 1537.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Mar. 2, 1929, which is classified to sections 198 to 198j of this title. For complete classification of this Act to the Code, see Tables.

@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—POWERS ###
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Pub. L. 105–102, §2(2), Nov. 20, 1997, 111 Stat. 2204, struck out "AND" before "POWERS".

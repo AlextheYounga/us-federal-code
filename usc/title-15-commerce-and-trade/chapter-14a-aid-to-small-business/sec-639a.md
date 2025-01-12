@@ -4,6 +4,8 @@ It is the sense of the Congress that the regular business loan program of the Sm
 
 (Pub. L. 87–550, §1(b), July 25, 1962, 76 Stat. 221.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

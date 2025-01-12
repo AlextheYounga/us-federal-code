@@ -36,9 +36,13 @@ This section shall not be construed to bar or limit in any manner any action by 
 
 (June 6, 1934, ch. 404, title I, §20A, as added Pub. L. 100–704, §5, Nov. 19, 1988, 102 Stat. 4680.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a), (c), (d), and (e), was in the original "this title". See References in Text note set out under section 78a of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

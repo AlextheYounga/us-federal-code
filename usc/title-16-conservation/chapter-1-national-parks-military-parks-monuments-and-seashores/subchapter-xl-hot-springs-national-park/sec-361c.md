@@ -4,6 +4,8 @@ The boundaries of the Hot Springs National Park in the State of Arkansas are ext
 
 (June 15, 1936, ch. 554, §1, 49 Stat. 1516; Aug. 10, 1939, ch. 639, 53 Stat. 1341.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1939**—Act Aug. 10, 1939, repealed proviso which limited expenditure of funds.

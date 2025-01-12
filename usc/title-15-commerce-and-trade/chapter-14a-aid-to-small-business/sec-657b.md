@@ -124,6 +124,8 @@ The Administrator, in coordination with the Administrator of General Services, s
 
 (Pub. L. 85–536, §2[32], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, §145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§102, 104, Feb. 14, 2008, 122 Stat. 624, 625; Pub. L. 115–416, §2, Jan. 3, 2019, 132 Stat. 5436.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 2[32] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
@@ -139,6 +141,8 @@ Subsecs. (d), (e). Pub. L. 110–186, §104, added subsecs. (d) and (e).
 Subsec. (f). Pub. L. 110–186, §102(1), redesignated subsec. (c) as (f).
 
 **2004**—Subsec. (c). Pub. L. 108–447 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Congressional Findings ####
 
@@ -318,6 +322,12 @@ Pub. L. 106–50, title VI, §604, Aug. 17, 1999, 113 Stat. 249, provided that:
 
 "(d) Data Collection Required.—The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 405(d)(4)(A)) [now 41 U.S.C. 1122(a)(4)(A)] shall be modified to collect data regarding the percentage and dollar value of prime contracts and subcontracts awarded to small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans."
 
+#### Definitions ####
+
+Pub. L. 106–50, title I, §103(b), Aug. 17, 1999, 113 Stat. 235, provided that: "In this Act [see Short Title of 1999 Amendments note set out under section 631 of this title], the definitions contained in section 3(q) of the Small Business Act [15 U.S.C. 632(q)], as added by this section, apply."
+
+#### **Executive Documents** ####
+
 #### Ex. Ord. No. 13540. Interagency Task Force on Veterans Small Business Development ####
 
 Ex. Ord. No. 13540, Apr. 26, 2010, 75 F.R. 22497, provided:
@@ -393,7 +403,3 @@ Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30,
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
-
-#### Definitions ####
-
-Pub. L. 106–50, title I, §103(b), Aug. 17, 1999, 113 Stat. 235, provided that: "In this Act [see Short Title of 1999 Amendments note set out under section 631 of this title], the definitions contained in section 3(q) of the Small Business Act [15 U.S.C. 632(q)], as added by this section, apply."

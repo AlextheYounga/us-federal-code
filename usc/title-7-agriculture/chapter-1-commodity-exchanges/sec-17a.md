@@ -4,9 +4,13 @@ If any provision of the act of June 15, 1936, ch. 545, 49 Stat. 1491, which amen
 
 (June 15, 1936, ch. 545, §12, 49 Stat. 1501.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Commodity Exchange Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

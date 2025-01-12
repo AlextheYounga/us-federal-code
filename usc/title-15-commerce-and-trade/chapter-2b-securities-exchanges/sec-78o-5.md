@@ -202,6 +202,8 @@ The Secretary may, by order, take any action with respect to a matter or action 
 
 (June 6, 1934, ch. 404, title I, §15C, as added Pub. L. 99–571, title I, §101, Oct. 28, 1986, 100 Stat. 3208; amended Pub. L. 100–181, title VIII, §801(a), Dec. 4, 1987, 101 Stat. 1265; Pub. L. 101–73, title VII, §744(u)(3), Aug. 9, 1989, 103 Stat. 441; Pub. L. 101–432, §4(b), Oct. 16, 1990, 104 Stat. 970; Pub. L. 101–550, title II, §203(c), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 103–202, title I, §§102–104, 106(a), 108, 109(b)(1), (c), Dec. 17, 1993, 107 Stat. 2345, 2346, 2349, 2351–2353; Pub. L. 105–353, title III, §301(b)(10), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–204, title VI, §604(c)(1)(B), July 30, 2002, 116 Stat. 796; Pub. L. 108–458, title VII, §7803(d), Dec. 17, 2004, 118 Stat. 3863; Pub. L. 111–203, title III, §376(3), title IX, §§929F(b), 985(b)(6), July 21, 2010, 124 Stat. 1569, 1854, 1934.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(3), (5), (b)(1), (2)(B), (4)(B), (d)(1), (f)(1), and (g)(2), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -273,6 +275,8 @@ Subsec. (f)(2). Pub. L. 101–550, §203(c)(2), substituted "the rules or regula
 **1989**—Subsec. (f)(1). Pub. L. 101–73 substituted "Director of the Office of Thrift Supervision" for "Federal Home Loan Bank Board".
 
 **1987**—Subsec. (a)(1)(B)(i). Pub. L. 100–181 substituted "When such" for "When".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

@@ -197,7 +197,7 @@ Chap. Sec.
 
 72. Semiconductor Research 4601
 
-72A. Creating Helpful Incentives to Produce Semiconductors for America 4651
+72A. Creating Helpful Incentives To Produce Semiconductors for America 4651
 
 73. Export Enhancement 4701
 

@@ -22,6 +22,8 @@ Section 1006, act July 22, 1937, ch. 517, title I, §6, 50 Stat. 524, related to
 
 For subject matter of sections 1001 to 1005d of this title, see section 1921 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 1001 to 1006 effective one hundred and twenty days after Aug. 8, 1961, or such earlier date as the provisions of section 1921 et seq. of this title are made effective by regulations of Secretary of Agriculture, see section 341(a) of Pub. L. 87–128, set out as a note under section 1921 of this title.

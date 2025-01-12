@@ -26,6 +26,8 @@ Sec.
 
 31k. National Volcano Early Warning and Monitoring System.
 
+31 l. Earth Mapping Resources Initiative.
+
 32. Acting Director.
 
 33. Repealed.
@@ -77,3 +79,5 @@ Sec.
 50c. Payment of costs incidental to utilization of services of volunteers.
 
 50d. Services of students or recent graduates.
+
+50e. USGS energy and minerals research facility.

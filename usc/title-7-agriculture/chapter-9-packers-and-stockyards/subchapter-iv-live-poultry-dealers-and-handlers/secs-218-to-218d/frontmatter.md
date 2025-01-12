@@ -10,6 +10,8 @@ Section 218c, act Aug. 15, 1921, ch. 64, title V, §504, as added Aug. 14, 1935,
 
 Section 218d, act Aug. 15, 1921, ch. 64, title V, §505, as added Aug. 14, 1935, ch. 532, 49 Stat. 649, related to suspension and revocation of licenses.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as an Effective Date of 1987 Amendment note under section 182 of this title.

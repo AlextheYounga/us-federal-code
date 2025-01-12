@@ -1,5 +1,7 @@
 ### §§1111 to 1122. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1111, acts Aug. 8, 1947, ch. 519, title II, §201, 61 Stat. 923; May 29, 1956, ch. 342, §5, 70 Stat. 217; July 13, 1962, Pub. L. 87–535, §2, 76 Stat. 156; Nov. 8, 1965, Pub. L. 89–331, §2, 79 Stat. 1271; Oct. 14, 1971, Pub. L. 92–138, §3, 85 Stat. 379, related to annual consumption estimate in the continental United States, the price of objective, and definitions of parity index and wholesale price index and expired on Dec. 31, 1974.

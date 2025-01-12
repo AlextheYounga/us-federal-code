@@ -8,6 +8,8 @@ Section 4203, Pub. L. 98–365, title I, §103, July 17, 1984, 98 Stat. 452, rel
 
 Section 4204, Pub. L. 98–365, title I, §104, July 17, 1984, 98 Stat. 452, related to definitions for chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 98–365, §1, July 17, 1984, 98 Stat. 451, which provided that such Act was to be cited as the "Land Remote-Sensing Commercialization Act of 1984", was repealed by Pub. L. 102–555, §4, Oct. 28, 1992, 106 Stat. 4166.

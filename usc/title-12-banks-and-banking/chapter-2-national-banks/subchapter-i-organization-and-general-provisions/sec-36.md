@@ -198,10 +198,6 @@ Subsecs. (h) to (l). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-#### Exception as to Transfer of Functions ####
-
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
 #### Right of State To Opt Out ####
 
 Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L. 96–221, see section 3 of Pub. L. 105–24, set out as a note under section 1831a of this title.
@@ -209,5 +205,11 @@ Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L
 #### Applicability of McFadden Act to Present Financial Environment; Report and Recommendations by President to Congress ####
 
 Pub. L. 95–369, §14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act [Feb. 25, 1927, ch. 191, 44 Stat. 1224] to the then current financial, banking, and economic environment.
+
+#### **Executive Documents** ####
+
+#### Exception as to Transfer of Functions ####
+
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
 [<sup>1</sup> See References in Text note below.](#36_1)

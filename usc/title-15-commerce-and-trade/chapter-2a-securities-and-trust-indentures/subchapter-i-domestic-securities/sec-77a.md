@@ -4,6 +4,8 @@ This subchapter may be cited as the "Securities Act of 1933".
 
 (May 27, 1933, ch. 38, title I, §1, 48 Stat. 74.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2012 Amendment ####
 
 Pub. L. 112–142, §1, July 9, 2012, 126 Stat. 989, provided that: "This Act [amending section 77c of this title] may be cited as the 'Church Plan Investment Clarification Act'."

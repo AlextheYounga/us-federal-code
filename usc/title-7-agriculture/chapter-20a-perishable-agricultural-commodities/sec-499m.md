@@ -26,6 +26,8 @@ Witnesses summoned before the Secretary or any officer or employee designated by
 
 (June 10, 1930, ch. 436, §13, 46 Stat. 536; July 30, 1956, ch. 786, §6, 70 Stat. 727; Pub. L. 91–452, title II, §205, Oct. 15, 1970, 84 Stat. 928; Pub. L. 95–562, §3, Nov. 1, 1978, 92 Stat. 2381.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 563 of this title.
@@ -37,6 +39,8 @@ Section was formerly classified to section 563 of this title.
 **1970**—Subsec. (f). Pub. L. 91–452 struck out subsec. (f) which related to immunity from prosecution of any natural person compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
 **1956**—Subsec. (a). Act July 30, 1956, permitted inspection of accounts, records and memoranda to determine ownership, control, packer, or State, country, or region of origin in connection with commodity inspection, and to ascertain whether section 499i of this title is being complied with, and to permit inspection of lots of perishable agricultural commodities.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1970 Amendment ####
 

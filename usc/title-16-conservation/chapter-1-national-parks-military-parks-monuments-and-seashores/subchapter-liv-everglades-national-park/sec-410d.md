@@ -6,6 +6,8 @@
 
 (Dec. 6, 1944, ch. 508, 58 Stat. 794.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 1, 1929 (45 Stat. 1443), referred to in subsec. (a), is act Mar. 1, 1929, ch. 446, 45 Stat. 1443, which is not classified to the Code.

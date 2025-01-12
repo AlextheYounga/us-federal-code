@@ -16,6 +16,8 @@ The Commission, by rule or regulation—
 
 (June 6, 1934, ch. 404, title I, §35A, as added Pub. L. 100–181, title I, §102, Dec. 4, 1987, 101 Stat. 1249; amended Pub. L. 105–353, title II, §202, Nov. 3, 1998, 112 Stat. 3234.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 100–181, which directed amendment of the Securities Exchange Act of 1934 by adding this section after section 35 of the Act, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress. See Codification note set out under section 78kk of this title.

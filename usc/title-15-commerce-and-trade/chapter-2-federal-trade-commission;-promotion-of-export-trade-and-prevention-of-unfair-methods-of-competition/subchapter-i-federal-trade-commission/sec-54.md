@@ -10,13 +10,19 @@ No publisher, radio-broadcast licensee, or agency or medium for the disseminatio
 
 (Sept. 26, 1914, ch. 311, §14, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, as amended, which is classified to subchapters I to IV (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Act Mar. 21, 1938, ch. 49, §5(b), 52 Stat. 117, provided: "Section 14 of the Federal Trade Commission Act [this section] added to such Act by section 4 of this Act, shall take effect on the expiration of sixty days after the date of the enactment of this Act [Mar. 21, 1938]."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

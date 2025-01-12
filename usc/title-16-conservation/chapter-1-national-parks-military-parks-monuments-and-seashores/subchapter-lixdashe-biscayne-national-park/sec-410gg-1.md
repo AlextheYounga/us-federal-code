@@ -10,6 +10,8 @@ It is the express intent of the Congress that the Secretary shall substantially 
 
 (Pub. L. 96–287, title I, §102, June 28, 1980, 94 Stat. 599.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this subchapter, referred to in subsec. (b), probably means the date of enactment of Pub. L. 96–287, which was approved on June 28, 1980.

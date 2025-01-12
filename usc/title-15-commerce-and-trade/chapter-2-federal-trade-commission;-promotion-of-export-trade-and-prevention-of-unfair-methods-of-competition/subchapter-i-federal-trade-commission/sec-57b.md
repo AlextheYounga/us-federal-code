@@ -26,6 +26,8 @@ Remedies provided in this section are in addition to, and not in lieu of, any ot
 
 (Sept. 26, 1914, ch. 311, §19, as added Pub. L. 93–637, title II, §206(a), Jan. 4, 1975, 88 Stat. 2201.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 93–637, title II, §206(b), Jan. 4, 1975, 88 Stat. 2202, provided that: "The amendment made by subsection (a) of this section [enacting this section] shall not apply to—

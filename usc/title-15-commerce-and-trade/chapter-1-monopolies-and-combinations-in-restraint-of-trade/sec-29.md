@@ -10,6 +10,8 @@ An appeal from a final judgment pursuant to subsection (a) shall lie directly to
 
 (Feb. 11, 1903, ch. 544, §2, 32 Stat. 823; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 9, 1944, ch. 239, 58 Stat. 272; June 25, 1948, ch. 646, §17, 62 Stat. 989; Pub. L. 93–528, §5, Dec. 21, 1974, 88 Stat. 1709.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act entitled "An Act to protect trade and commerce against unlawful restraints and monopolies", approved July 2, 1890, referred to in subsec. (a), is known as the Sherman Act, and is classified to sections 1 to 7 of this title.
@@ -25,6 +27,8 @@ Section was previously set out in both this section and in section 45 of former 
 **1948**—Act June 25, 1948, amended section generally to strike out provisions relating to time for appeal, procedure, etc. See sections 2101 and 2109 of Title 28, Judiciary and Judicial Procedure.
 
 **1944**—Act June 9, 1944, provided for certification of case to circuit court of appeals when there was no quorum of Justices of the Supreme Court qualified to participate in the consideration of the case and for designation of circuit judges in the event of disqualification from hearing the case.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

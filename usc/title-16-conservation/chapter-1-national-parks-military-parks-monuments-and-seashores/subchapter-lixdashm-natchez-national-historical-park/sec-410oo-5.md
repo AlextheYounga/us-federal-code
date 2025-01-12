@@ -22,9 +22,13 @@ The provisions of section 14(b) of the Federal Advisory Committee Act (Act of Oc
 
 (Pub. L. 100–479, §6, Oct. 7, 1988, 102 Stat. 2326.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Commissions ####
 

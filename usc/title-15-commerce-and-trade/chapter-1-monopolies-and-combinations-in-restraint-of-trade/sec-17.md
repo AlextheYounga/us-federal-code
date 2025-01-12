@@ -4,6 +4,8 @@ The labor of a human being is not a commodity or article of commerce. Nothing co
 
 (Oct. 15, 1914, ch. 323, §6, 38 Stat. 731.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.

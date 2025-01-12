@@ -10,6 +10,8 @@ The Secretary of the Interior may enter into cooperative agreements with the own
 
 (Pub. L. 89–19, §4, May 15, 1965, 79 Stat. 110; Pub. L. 102–576, §2(4), Oct. 30, 1992, 106 Stat. 4771.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Subsec. (a). Pub. L. 102–576 struck out after second sentence "Not more than one thousand and five hundred acres overall shall be designated pursuant to the foregoing provisions of this subsection."

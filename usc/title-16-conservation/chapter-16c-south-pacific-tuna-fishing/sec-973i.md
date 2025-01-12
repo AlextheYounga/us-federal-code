@@ -40,6 +40,8 @@ Upon a request by the Secretary, the Attorney General shall commence a civil act
 
 (Pub. L. 100–330, §11, June 7, 1988, 102 Stat. 598; Pub. L. 100–350, §4(3), June 27, 1988, 102 Stat. 660.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (a)(2)(C). Pub. L. 100–350 substituted "section 973c(a)(7) of this title" for "section 973c(b)(7) of this title".

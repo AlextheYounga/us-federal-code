@@ -4,6 +4,8 @@ The Secretary of Agriculture is requested to extend to cotton growers facilities
 
 (Mar. 4, 1933, ch. 284, §1, 47 Stat. 1621.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, as amended, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.

@@ -72,6 +72,8 @@ The Congress recognizes that the Mineral King Valley area has outstanding potent
 
 (Pub. L. 95–625, title III, §314, Nov. 10, 1978, 92 Stat. 3479; Pub. L. 103–437, §6(d)(5), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 108–447, div. E, title I, §139(b), Dec. 8, 2004, 118 Stat. 3068.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This section, referred to in text, other than as appearing with a reference to a subsection of this section, means section 314 of Pub. L. 95–625, which in addition to enacting this section, repealed sections 45a–3 and 688 of this title, enacted provisions set out as a note under section 688 of this title, and amended provisions set out as a note under section 45a–1 of this title.
@@ -89,6 +91,8 @@ Section is comprised of section 314 of Pub. L. 95–625. Subsec. (d)(3) of secti
 Subsec. (d)(2)(B). Pub. L. 108–447, §139(b)(2), inserted "and to their heirs, successors, and assigns" after "of record on November 10, 1978," in third sentence.
 
 **1994**—Subsec. (b)(1). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

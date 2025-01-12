@@ -4,6 +4,8 @@ The Secretary, in accordance with any agreements entered into pursuant to sectio
 
 (Pub. L. 89–304, §2, Oct. 30, 1965, 79 Stat. 1125; Pub. L. 93–362, §1, July 30, 1974, 88 Stat. 398; Pub. L. 95–464, Oct. 17, 1978, 92 Stat. 1278; Pub. L. 96–118, §2, Nov. 16, 1979, 93 Stat. 859.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1979**—Pub. L. 96–118 substituted "cooperating States or other non-Federal interests" for "United States".

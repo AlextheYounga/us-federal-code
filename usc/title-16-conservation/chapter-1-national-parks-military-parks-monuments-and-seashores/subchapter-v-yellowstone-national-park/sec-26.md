@@ -6,6 +6,8 @@ All guns, traps, teams, horses, or means of transportation of every nature or de
 
 (May 7, 1894, ch. 72, §4, 28 Stat. 73; June 28, 1916, ch. 179, 39 Stat. 238.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act May 7, 1894, which is classified to sections 24 to 30a of this title. For complete classification of this Act to the Code, see Tables.

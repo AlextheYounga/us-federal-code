@@ -10,6 +10,8 @@ Section 1314, acts Feb. 16, 1938, ch. 30, title III, §314, 52 Stat. 48; Aug. 7,
 
 Section 1314–1, act Feb. 16, 1938, ch. 30, title III, §314A, as added Pub. L. 97–218, title III, §306, July 20, 1982, 96 Stat. 215, related to limitation on sale of tobacco floor sweepings.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.

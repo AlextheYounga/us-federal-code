@@ -4,6 +4,8 @@ No rate or charge received by an exempt wholesale generator for the sale of elec
 
 (June 10, 1920, ch. 285, pt. II, §214, as added Pub. L. 102–486, title VII, §724, Oct. 24, 1992, 106 Stat. 2920; amended Pub. L. 109–58, title XII, §1277(b)(2), Aug. 8, 2005, 119 Stat. 978.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 16451 of title 42, referred to in text, was in the original "section 2(a) of the Public Utility Holding Company Act of 2005" and was translated as reading "section 1262" of that Act, meaning section 1262 of subtitle F of title XII of Pub. L. 109–58, to reflect the probable intent of Congress, because subtitle F of title XII of Pub. L. 109–58 does not contain a section 2 and section 1262 of subtitle F of title XII of Pub. L. 109–58 defines terms.
@@ -11,6 +13,8 @@ Section 16451 of title 42, referred to in text, was in the original "section 2(a
 #### Amendments ####
 
 **2005**—Pub. L. 109–58 substituted "section 16451 of title 42" for "section 79b(a) of title 15".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2005 Amendment ####
 

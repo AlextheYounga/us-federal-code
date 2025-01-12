@@ -92,6 +92,8 @@ The Commission may, for purposes of carrying out this subchapter, hold such hear
 
 (Pub. L. 107–373, §9, Dec. 19, 2002, 116 Stat. 3107.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination of Advisory Commissions ####
 
 Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.

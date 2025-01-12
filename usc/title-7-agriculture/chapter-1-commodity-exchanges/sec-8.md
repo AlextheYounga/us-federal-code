@@ -6,6 +6,8 @@
 
 (Sept. 21, 1922, ch. 369, §6(a), (b), formerly §6(a), 42 Stat. 1001; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §7(a), Aug. 28, 1958, 72 Stat. 944; Pub. L. 90–258, §§14, 15, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, §103(a)–(c), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §13(1), (2), Sept. 30, 1978, 92 Stat. 871; Pub. L. 97–444, title II, §218, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 98–620, title IV, §402(3), Nov. 8, 1984, 98 Stat. 3357; renumbered §6(a), (b) and amended Pub. L. 102–546, title II, §209(a)(1)–(3), title IV, §402(1)(B), (9)(A), Oct. 28, 1992, 106 Stat. 3606, 3624, 3625; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(12)(A), (B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408; Pub. L. 110–234, title XIII, §13203(m), May 22, 2008, 122 Stat. 1441; Pub. L. 110–246, §4(a), title XIII, §13203(m), June 18, 2008, 122 Stat. 1664, 2203; Pub. L. 111–203, title VII, §749(e), July 21, 2010, 124 Stat. 1747.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -59,6 +61,8 @@ Pub. L. 93–463, §103(a), provided for substitution of "Commission" for "Secre
 Par. (a). Pub. L. 90–258, §15, amended par. (a) generally, striking out such parts both of first sentence and of proviso of last sentence as described the commission as made up of the Secretary of Agriculture, Secretary of Commerce, and Attorney General (covered in definition of "Commission" in section 2 of this title, including representation of such officials by their designees), extending grounds for suspension or revocation of designation to include violations of any provisions of this chapter or rules, regulations, or orders of the Secretary of Agriculture or commission, requiring delivery of appeal petitions to Secretary of Agriculture rather than any member of the commission, who would notify the other members, and filing of commission records of proceedings on appeal by the Secretary of Agriculture and not the commission, striking out provisions describing Secretary of Agriculture as Chairman (now found in section 2 of this title), superseding such part of proviso of seventh sentence as authorized appeals to the commission from Secretary of Agriculture's refusal of a contract market designation by provisions of first par. of this section, and striking out such other part as made decision of court on appeal from commission final and binding on the parties.
 
 **1958**—Pub. L. 85–791 substituted "thereupon file in the court the record in such proceedings, as provided in section 2112 of title 28" for "forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings including the notice to the board of trade, a copy of the charges, the evidence, and the report and order" in third notice, and struck out "certified and" after "duly" in fourth sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

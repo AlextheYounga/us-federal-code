@@ -4,6 +4,8 @@ Whenever a corporation shall violate any of the penal provisions of the antitrus
 
 (Oct. 15, 1914, ch. 323, §14, 38 Stat. 736.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.

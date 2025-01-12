@@ -4,6 +4,8 @@ There is hereby authorized to be appropriated not to exceed $23,700,000 for the 
 
 (Pub. L. 94–578, title III, §320(j), Oct. 21, 1976, 90 Stat. 2741; Pub. L. 96–199, title I, §110, Mar. 5, 1980, 94 Stat. 70.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 251e to 251m of this title, referred to in text, was in the original "this title", meaning title III of Pub. L. 94–578.

@@ -4,9 +4,13 @@ A State may use contributions of funds, real property, materials, and services t
 
 (Aug. 9, 1950, ch. 658, §13, as added Pub. L. 100–448, §6(c)(2), Sept. 28, 1988, 102 Stat. 1841.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 13 of act Aug. 9, 1950, ch. 658, which was classified as a note under section 777 of this title, was repealed by Pub. L. 106–408, title I, §122(a)(1), Nov. 1, 2000, 114 Stat. 1772.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

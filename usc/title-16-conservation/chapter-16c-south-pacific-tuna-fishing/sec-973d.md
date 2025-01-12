@@ -6,6 +6,8 @@
 
 (Pub. L. 100–330, §6, June 7, 1988, 102 Stat. 594; Pub. L. 108–219, title IV, §402, Apr. 13, 2004, 118 Stat. 617.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Subsec. (a). Pub. L. 108–219 substituted "or to fishing by vessels using the longline method in the high seas areas of the Treaty area" for "outside of the 200 nautical mile fisheries zones of the Pacific Island Parties".

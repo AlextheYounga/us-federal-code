@@ -1,8 +1,12 @@
 ### SUBTITLE I—HARMONIZED TARIFF SCHEDULE OF THE UNITED STATES ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Titles I and II of act June 17, 1930, ch. 497, 46 Stat. 590, 672, which comprised the dutiable and free lists for articles imported into the United States, were formerly classified to sections 1001 and 1201 of this title, and were stricken by Pub. L. 87–456, title I, §101(a), May 24, 1962, 76 Stat. 72. The Revised Tariff Schedules, which were classified to section 1202 of this title, were stricken by Pub. L. 100–418, title I, §1204(a), Aug. 23, 1988, 102 Stat. 1148, and were replaced by the Harmonized Tariff Schedule of the United States. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

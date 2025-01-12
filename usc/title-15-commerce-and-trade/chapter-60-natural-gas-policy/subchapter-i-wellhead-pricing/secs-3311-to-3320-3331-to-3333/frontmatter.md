@@ -26,6 +26,8 @@ Section 3332, Pub. L. 95–621, title I, §122, Nov. 9, 1978, 92 Stat. 3370, rel
 
 Section 3333, Pub. L. 95–621, title I, §123, Nov. 9, 1978, 92 Stat. 3371, related to reports to Congress by Department of Energy.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Section 2(b) of Pub. L. 101–60 provided that the repeal of sections 3311 to 3320 and 3331 to 3333 is effective Jan. 1, 1993.

@@ -4,6 +4,8 @@ The provisions of the Act of February 26, 1919, entitled "An Act to establish th
 
 (Feb. 25, 1927, ch. 197, §2, 44 Stat. 1240.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of February 26, 1919, entitled "An Act to establish the Grand Canyon National Park in the State of Arizona,", referred to in text, is act Feb. 26, 1919, ch. 44, 40 Stat. 1175, which is classified to sections 221, 222 to 228, and 687 of this title. For complete classification of this Act to the Code, see Tables.

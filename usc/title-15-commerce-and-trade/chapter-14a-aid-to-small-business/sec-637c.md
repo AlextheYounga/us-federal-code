@@ -10,6 +10,8 @@ For purposes of this Act—
 
 (Pub. L. 95–507, title II, §224(a), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, means Pub. L. 95–507, Oct. 24, 1978, 92 Stat. 1757. For complete classification of this Act to the Code, see Tables.

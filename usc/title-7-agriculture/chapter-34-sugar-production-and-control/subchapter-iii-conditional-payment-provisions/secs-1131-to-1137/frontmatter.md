@@ -1,5 +1,7 @@
 ### §§1131 to 1137. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1131, acts Aug. 8, 1947, ch. 519, title III, §301, 61 Stat. 929; May 29, 1956, ch. 342, §13, 70 Stat. 220; July 13, 1962, Pub. L. 87–535, §13(a), 76 Stat. 163, related to conditions of production and expired on Dec. 31, 1974.

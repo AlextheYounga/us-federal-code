@@ -14,6 +14,8 @@ It is the sense of Congress that—
 
 (Pub. L. 108–324, div. C, §112, Oct. 13, 2004, 118 Stat. 1263; Pub. L. 111–68, div. A, title I, §1501(b), Oct. 1, 2009, 123 Stat. 2041.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Subsec. (c). Pub. L. 111–68 struck out subsec. (c) which related to study to determine extent to which small business concerns participate in construction of oil and gas pipelines in the United States.

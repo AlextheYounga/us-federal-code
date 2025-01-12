@@ -20,6 +20,8 @@ If any person other than the ultimate consumer breaks a package which bears a st
 
 (Pub. L. 85–897, §5, Sept. 2, 1958, 72 Stat. 1720.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.

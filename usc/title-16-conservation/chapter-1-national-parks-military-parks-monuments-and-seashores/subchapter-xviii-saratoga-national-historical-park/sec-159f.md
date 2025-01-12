@@ -4,9 +4,13 @@ In order to preserve certain lands historically associated with the Battle of Sa
 
 (Pub. L. 97–460, §1, Jan. 12, 1983, 96 Stat. 2520.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is Pub. L. 97–460, Jan. 12, 1983, 96 Stat. 2520, which enacted sections 159f and 159g of this title, amended section 159d of this this title, and enacted a provision set out as a note under section 159f of this title. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Authorization of Appropriations ####
 

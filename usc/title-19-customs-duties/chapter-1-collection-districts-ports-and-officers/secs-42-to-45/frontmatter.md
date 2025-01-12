@@ -4,6 +4,8 @@ Sections, R.S. §§2639 to 2641, 2643, related to various accounting duties of c
 
 Section 42 was amended by act July 31, 1894, ch. 174, §19, 28 Stat. 210.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal; Savings Provision ####
 
 Repeal effective on and after thirtieth day following Aug. 8, 1953, and savings provision, see sections 1 and 23 of act Aug. 8, 1953.

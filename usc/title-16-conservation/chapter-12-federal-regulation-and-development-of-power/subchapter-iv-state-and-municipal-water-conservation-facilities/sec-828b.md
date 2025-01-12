@@ -4,6 +4,8 @@ Section 807 of this title pertaining to the taking over by the United States of 
 
 (Aug. 15, 1953, ch. 503, §3, 67 Stat. 587; Pub. L. 86–124, July 31, 1959, 73 Stat. 271; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
@@ -12,8 +14,10 @@ Section was not enacted as part of the Federal Power Act which generally compris
 
 **1959**—Pub. L. 86–124 struck out "except that the provisions of sections 797(b) and 807 of this title shall continue to be applicable to any license issued for a hydroelectric development in the International Rapids section of the Saint Lawrence River" in first sentence.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 "Secretary of Energy" and "Secretary" substituted in text for "Federal Power Commission" and "Commission", respectively, pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.

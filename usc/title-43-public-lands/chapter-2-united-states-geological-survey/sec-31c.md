@@ -156,11 +156,23 @@ The Survey and recipients of grants under the education component shall not use 
 
 The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
 
-(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720; Pub. L. 111–11, title XI, §11001(c)–(e), Mar. 30, 2009, 123 Stat. 1414, 1415; Pub. L. 116–9, title V, §5002(a)(2), Mar. 12, 2019, 133 Stat. 768.)
+#### (4) Abandoned mine land and mine waste component ####
+
+#### (A) In general ####
+
+The geologic mapping program shall include an abandoned mine land and mine waste geologic mapping component, the objective of which shall be to establish the geologic framework of abandoned mine land and other land containing mine waste.
+
+#### (B) Mapping priorities ####
+
+For the component described in subparagraph (A), the priority shall be mapping abandoned mine land and other land containing mine waste where multiple critical mineral (as defined in section 1606(a) of title 30) and metal commodities are anticipated to be present, rather than single mineral resources.
+
+(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720; Pub. L. 111–11, title XI, §11001(c)–(e), Mar. 30, 2009, 123 Stat. 1414, 1415; Pub. L. 116–9, title V, §5002(a)(2), Mar. 12, 2019, 133 Stat. 768; Pub. L. 117–58, div. D, title II, §40202(a), Nov. 15, 2021, 135 Stat. 959.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Subsec. (d)(4). Pub. L. 117–58 added par. (4).
 
 **2019**—Subsec. (b)(1)(A), (B). Pub. L. 116–9 substituted "March 12, 2019" for "March 30, 2009".
 

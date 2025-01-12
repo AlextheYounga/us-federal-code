@@ -46,6 +46,8 @@ The Secretary may also provide support services, as requested by the Foundation,
 
 (Pub. L. 89–671, §4, as added Pub. L. 97–310, Oct. 14, 1982, 96 Stat. 1455; amended Pub. L. 101–636, §1, Nov. 28, 1990, 104 Stat. 4586; Pub. L. 103–437, §6(d)(8), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 107–219, §2, Aug. 21, 2002, 116 Stat. 1330.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For effective date of this paragraph, referred to in subsec. (b)(2)(A), (B), and (D), see Effective Date of 1990 Amendment note below.
@@ -61,6 +63,8 @@ For effective date of this paragraph, referred to in subsec. (b)(2)(A), (B), and
 **1994**—Subsec. (b)(3). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 **1990**—Subsec. (b). Pub. L. 101–636 designated existing provisions as par. (1) and added pars. (2) and (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1990 Amendment ####
 

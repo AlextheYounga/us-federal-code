@@ -26,6 +26,8 @@ Not later than 6 months after June 23, 1992, the Secretary of the Interior (here
 
 (Pub. L. 102–304, §3, June 23, 1992, 106 Stat. 256; Pub. L. 111–11, title VII, §7113(a)(3), (b), Mar. 30, 2009, 123 Stat. 1201, 1202.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–11, §7113(a)(3)(B), substituted "National Historical Park" for "National Historic Site" in section catchline.
@@ -43,6 +45,8 @@ Pub. L. 111–11, §7113(a)(3)(C), substituted "historical park" for "historic s
 Subsec. (b)(3). Pub. L. 111–11, §7113(b)(4), inserted heading and substituted "Not later than" for "Within" and "maps referred to in paragraphs (1) and (2)" for "map referred to in paragraph (1)".
 
 Pub. L. 111–11, §7113(b)(2), redesignated par. (2) as (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

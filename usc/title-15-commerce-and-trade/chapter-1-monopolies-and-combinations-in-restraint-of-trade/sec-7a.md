@@ -2,7 +2,7 @@
 
 In sections 7a to 7a–3 of this title:
 
-#### (1) Antitrust division ####
+#### (1) Antitrust Division ####
 
 The term "Antitrust Division" means the United States Department of Justice Antitrust Division.
 
@@ -28,6 +28,8 @@ The term "person" has the meaning given it in subsection (a) of section 12 of th
 
 (Pub. L. 108–237, title II, §212, June 22, 2004, 118 Stat. 666; Pub. L. 111–190, §2, June 9, 2010, 124 Stat. 1275; Pub. L. 116–159, div. D, title III, §4303(b)(2), Oct. 1, 2020, 134 Stat. 742.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 7a to 7a–3 of this title, referred to in text, was in the original "this subtitle", meaning subtitle A (§§211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a–1 to 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
@@ -41,6 +43,8 @@ Section was formerly set out in a note under section 1 of this title, prior to t
 **2020**—Pars. (6), (7). Pub. L. 116–159 redesignated par. (7) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: "The term 'marker' means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application."
 
 **2010**—Pars. (6), (7). Pub. L. 111–190 added par. (6) and redesignated former par. (6) as (7).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Findings; Purpose of 2020 Amendment ####
 

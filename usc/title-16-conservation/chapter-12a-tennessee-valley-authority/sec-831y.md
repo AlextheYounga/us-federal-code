@@ -4,6 +4,8 @@ Commencing July 1, 1936, the proceeds for each fiscal year derived by the Board 
 
 (May 18, 1933, ch. 32, §26, 48 Stat. 71; Aug. 31, 1935, ch. 836, §10, 49 Stat. 1079; Pub. L. 94–273, §35(b), Apr. 21, 1976, 90 Stat. 380.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–273 substituted "on March 31 of each year" for "at the end of each calendar year".

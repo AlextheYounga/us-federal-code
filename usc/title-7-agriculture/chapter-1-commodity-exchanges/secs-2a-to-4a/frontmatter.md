@@ -1,5 +1,7 @@
 ### §§2a to 4a. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 2a, act Sept. 21, 1922, ch. 369, §2(a)(1)(C), formerly §2(a)(1)(B), as added Pub. L. 97–444, title I, §101(a)(3), Jan. 11, 1983, 96 Stat. 2294, as amended and renumbered, which related to designation of boards of trade as contract markets and approval by and jurisdiction of Commodity Futures Trading Commission and Securities and Exchange Commission, was transferred to section 2(a)(1)(C) of this title.

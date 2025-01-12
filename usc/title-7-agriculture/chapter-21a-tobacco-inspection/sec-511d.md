@@ -4,6 +4,8 @@ The Secretary is authorized to designate those auction markets where tobacco bou
 
 (Aug. 23, 1935, ch. 623, §5, 49 Stat. 732; Pub. L. 97–35, title I, §157(a)(1), Aug. 13, 1981, 95 Stat. 374; Pub. L. 99–272, title I, §1111, Apr. 7, 1986, 100 Stat. 99.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -14,9 +16,13 @@ The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oc
 
 **1981**—Pub. L. 97–35 substituted provisions requiring the Secretary to fix and collect fees and charges for inspection, certification, establishment of standards, and other services at designated auction markets, for provisions prohibiting imposition or collection of fees or charges for inspection or certification at markets.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1981 Amendment ####
 
 Pub. L. 97–35, title I, §157(b), Aug. 13, 1981, 95 Stat. 375, provided that: "The provisions of this section [amending this section and section 511e of this title] shall become effective October 1, 1981."
+
+#### **Executive Documents** ####
 
 #### Abolition of Offices and Transfer of Functions ####
 

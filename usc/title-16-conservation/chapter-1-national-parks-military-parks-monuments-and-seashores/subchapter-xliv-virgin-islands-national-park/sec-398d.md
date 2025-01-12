@@ -22,9 +22,13 @@ Subject to continued protection and use of Hassel Island for park and recreation
 
 (Pub. L. 87–750, §2, Oct. 5, 1962, 76 Stat. 747; Pub. L. 95–348, §7(b)(1)–(3), Aug. 18, 1978, 92 Stat. 494.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–348 designated existing provisions as subsec. (a), inserted provisions respecting acquisitions of up to 6.6 acres, and added subsecs. (b) to (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Caneel Bay Lease Authorization ####
 

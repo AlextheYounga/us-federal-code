@@ -22,6 +22,8 @@ Sums appropriated pursuant to this section shall be in addition to, and not in s
 
 (May 8, 1914, ch. 79, §8, as added Aug. 11, 1955, ch. 798, §1(a), 69 Stat. 683; amended Pub. L. 87–749, §1(h), Oct. 5, 1962, 76 Stat. 745.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 8 of act May 8, 1914, was renumbered section 9 and is classified to section 348 of this title.

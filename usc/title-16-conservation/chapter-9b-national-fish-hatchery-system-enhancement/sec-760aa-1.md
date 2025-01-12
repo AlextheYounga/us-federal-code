@@ -22,6 +22,8 @@ Subject to the availability of appropriations and the requirements of the Fish a
 
 (Pub. L. 109–360, §3, Oct. 16, 2006, 120 Stat. 2059.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (b)(2)(B), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.

@@ -10,9 +10,13 @@ Congress further declares that the Federal Government is committed to a policy o
 
 (Pub. L. 96–302, title III, §302, July 2, 1980, 94 Stat. 848.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Small Business Economic Policy Act of 1980, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -20,6 +20,8 @@ Notwithstanding subsection (a), there are authorized to be appropriated $3,000,0
 
 (Pub. L. 94–545, §5, Oct. 18, 1976, 90 Stat. 2518; Pub. L. 98–141, §6, Oct. 31, 1983, 97 Stat. 909; Pub. L. 100–524, §6, Oct. 24, 1988, 102 Stat. 2607; Pub. L. 108–108, title I, §135, Nov. 10, 2003, 117 Stat. 1270.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this subchapter, referred to in subsec. (b), probably means the date of enactment of Pub. L. 94–545, which was approved on Oct. 18, 1976.
@@ -31,6 +33,8 @@ The effective date of this subchapter, referred to in subsec. (b), probably mean
 Subsec. (c). Pub. L. 100–524, §6(b), added subsec. (c).
 
 **1983**—Subsec. (a). Pub. L. 98–141 substituted "$60,500,000" for "$35,500,000" and "$2,000,000" for "$500,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

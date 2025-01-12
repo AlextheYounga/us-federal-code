@@ -30,6 +30,8 @@ Notwithstanding the provisions of section 77c or 77d of this title, unless a reg
 
 (May 27, 1933, ch. 38, title I, §5, 48 Stat. 77; June 6, 1934, ch. 404, title II, §204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §7, 68 Stat. 684; Pub. L. 111–203, title VII, §768(b), July 21, 2010, 124 Stat. 1801; Pub. L. 112–106, title I, §105(c), Apr. 5, 2012, 126 Stat. 311.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Subsecs. (d), (e). Pub. L. 112–106 added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -43,6 +45,8 @@ Subsec. (b). Act Aug. 10, 1954, in par. (1) substituted "with respect to which a
 Subsec. (c). Act Aug. 10, 1954, added subsec. (c).
 
 **1934**—Act June 6, 1934, repealed subsec. (c), the provisions of which were replaced by section 77c(a)(11) of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

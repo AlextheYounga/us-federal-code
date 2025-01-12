@@ -4,6 +4,8 @@ The Commission is authorized to appoint and fix the compensation of such officer
 
 (June 10, 1920, ch. 285, pt. III, §310, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 859; amended Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions that authorized the Commission to appoint and fix the compensation of such officers, attorneys, examiners, and experts as may be necessary for carrying out its functions under this chapter "without regard to the provisions of other laws applicable to the employment and compensation of officers and employees of the United States" have been omitted as obsolete and superseded.
@@ -17,6 +19,8 @@ As to the compensation of such personnel, sections 1202 and 1204 of the Classifi
 #### Amendments ####
 
 **1949**—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

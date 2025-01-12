@@ -46,9 +46,13 @@ The Commission, by rule or regulation, may require any person that effects trans
 
 (June 6, 1934, ch. 404, title I, §10B, as added Pub. L. 111–203, title VII, §763(h), July 21, 2010, 124 Stat. 1778.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (c)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

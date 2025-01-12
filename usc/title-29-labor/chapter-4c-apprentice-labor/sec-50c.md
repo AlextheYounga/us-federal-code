@@ -2,7 +2,7 @@
 
 #### (a) Definitions ####
 
-In this section:
+In this Act:
 
 #### (1) Registered apprenticeship program ####
 
@@ -39,6 +39,8 @@ Notwithstanding any other provision of law, for any program applying to become a
 #### **Editorial Notes** ####
 
 #### References in Text ####
+
+This Act, referred to in subsec. (a), is Pub. L. 116–134, Mar. 26, 2020, 134 Stat. 276, known as the Support for Veterans in Effective Apprenticeships Act of 2019, which enacted this section and provisions set out as a note under section 50 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 50 of this title and Tables.
 
 The Act of August 16, 1937, referred to in subsec. (a)(1), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 

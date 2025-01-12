@@ -6,6 +6,8 @@
 
 (Sept. 21, 1922, ch. 369, §6a, as added June 15, 1936, ch. 545, §9, 49 Stat. 1499; amended June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 102–546, title II, §209(b)(4), title IV, §402(8), Oct. 28, 1992, 106 Stat. 3607, 3625; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(13)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(13)(A)], substituted "designated or registered as a contract market or a derivatives transaction execution facility" for "designated as a 'contract market' shall".
@@ -13,6 +15,8 @@
 Subsec. (b). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(13)(B)], substituted "designated or registered as a contract market or a derivatives transaction execution facility" for "designated as a contract market".
 
 **1992**—Pub. L. 102–546 redesignated subsecs. (1) and (2) as (a) and (b), respectively, and in subsec. (a) substituted reference to section 8(b) of this title for reference to section 8 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

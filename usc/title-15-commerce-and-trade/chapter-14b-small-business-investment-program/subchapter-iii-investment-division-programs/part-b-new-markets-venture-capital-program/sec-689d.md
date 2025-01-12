@@ -42,6 +42,8 @@ Except to the extent approved by the Administrator, a covered New Markets Ventur
 
 (Pub. L. 85–699, title III, §355, as added Pub. L. 106–554, §1(a)(8) [§1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–658; amended Pub. L. 111–240, title I, §1115, Sept. 27, 2010, 124 Stat. 2508.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (e). Pub. L. 111–240 added subsec. (e).

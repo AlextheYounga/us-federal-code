@@ -28,6 +28,8 @@ Within the area bounded by the Orange Turnpike, the Orange Plank Road, and McLaw
 
 (Pub. L. 101–214, §3, Dec. 11, 1989, 103 Stat. 1849; Pub. L. 106–150, §1(b)(1), Dec. 9, 1999, 113 Stat. 1730.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (a). Pub. L. 106–150 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the Secretary" for "The Secretary", and added par. (2).

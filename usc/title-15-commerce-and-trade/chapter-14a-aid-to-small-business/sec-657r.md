@@ -168,6 +168,8 @@ Agencies operating mentor protege programs pursuant to subsection (b)(4)(C) shal
 
 (Pub. L. 85–536, §2[45], as added Pub. L. 112–239, div. A, title XVI, §1641(2), Jan. 2, 2013, 126 Stat. 2077; amended Pub. L. 114–328, div. A, title XVIII, §1813(e), Dec. 23, 2016, 130 Stat. 2653; Pub. L. 115–232, div. A, title VIII, §861(d), (e), Aug. 13, 2018, 132 Stat. 1896, 1897; Pub. L. 116–283, div. A, title VIII, §866(c), Jan. 1, 2021, 134 Stat. 3786.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 2[45] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
@@ -176,7 +178,7 @@ A prior section 2[45] of Pub. L. 85–536 was renumbered section 2[49] and is se
 
 **2021**—Subsec. (a)(4). Pub. L. 116–283, §866(c)(1), added par. (4).
 
-Subsec. (b)(3)(A). Pub. L. 116–283, §866(c)(2), substituted "relationships—" and cls. (i) and (ii) for "relationships are between a covered protege and covered mentor.".
+Subsec. (b)(3)(A). Pub. L. 116–283, §866(c)(2), substituted "relationships—" and cls. (i) and (ii) for "relationships are between a covered protege and covered mentor."
 
 Subsec. (d)(6), (7). Pub. L. 116–283, §866(c)(3), added pars. (6) and (7).
 

@@ -4,6 +4,8 @@ Each member of SIPC shall file with such member's examining authority, or collec
 
 (Pub. L. 91–598, §12, formerly §8, Dec. 30, 1970, 84 Stat. 1653; renumbered §12 and amended Pub. L. 95–283, §§9, 11, May 21, 1978, 92 Stat. 260, 268.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 12 of Pub. L. 91–598 was renumbered section 16 and is classified to section 78lll of this title.

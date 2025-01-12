@@ -32,10 +32,14 @@ Any person, in making application for a license to operate a land station or a f
 
 (Aug. 9, 1950, ch. 653, §6, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
-#### Transfer of Functions ####
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Refund of License Fees Paid Under Subchapter I of This Chapter ####
 
 Act Aug. 9, 1950, ch. 653, §16, 64 Stat. 425, provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former section 908 of this title that is in excess of the license fee required under this section.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.

@@ -4,6 +4,8 @@ Upon the vesting of title in the United States to such additional lands as may b
 
 (Aug. 10, 1939, ch. 640, §2, 53 Stat. 1342; Pub. L. 95–625, title IX, §909, Nov. 10, 1978, 92 Stat. 3538; Pub. L. 111–11, title VII, §7105(f)(1)(B), Mar. 30, 2009, 123 Stat. 1193.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Jean Lafitte National Historical Park and Preserve" substituted for "Jean Lafitte National Historical Park" pursuant to Pub. L. 111–11.

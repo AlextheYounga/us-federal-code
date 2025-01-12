@@ -6,6 +6,8 @@ The functions of the National Park Service with regard to the administration of 
 
 (Dec. 13, 1944, ch. 555, 58 Stat. 801.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, §3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120. See section 742b of this title.

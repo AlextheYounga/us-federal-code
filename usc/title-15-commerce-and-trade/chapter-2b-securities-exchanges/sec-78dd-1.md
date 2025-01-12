@@ -106,6 +106,8 @@ For purposes of this section:
 
 (June 6, 1934, ch. 404, title I, §30A, as added Pub. L. 95–213, title I, §103(a), Dec. 19, 1977, 91 Stat. 1495; amended Pub. L. 100–418, title V, §5003(a), Aug. 23, 1988, 102 Stat. 1415; Pub. L. 105–366, §2(a)–(c), Nov. 10, 1998, 112 Stat. 3302, 3303.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Subsec. (a)(1)(A). Pub. L. 105–366, §2(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
@@ -129,6 +131,8 @@ Subsec. (f)(1). Pub. L. 105–366, §2(b), amended par. (1) generally. Prior to 
 Subsec. (g). Pub. L. 105–366, §2(c)(1), added subsec. (g).
 
 **1988**—Pub. L. 100–418 substituted "Prohibited foreign trade" for "Foreign corrupt" in section catchline and amended text generally, revising and restating provisions of subsec. (a) relating to prohibitions, adding subsecs. (b) to (e), and redesignating provisions of subsec. (b) relating to definitions as subsec. (f) and amending those provisions generally.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Treatment of International Organizations Providing Commercial Communications Services ####
 
@@ -237,6 +241,8 @@ Pub. L. 100–418, title V, §5003(d), Aug. 23, 1988, 102 Stat. 1424, provided t
 "(iii) an assessment of the current and future role of private initiatives in curtailing such acts."
 
 [For delegation of functions of the President under section 5003(d)(1) of Pub. L. 100–418 to the Secretary of State, see section 3–101 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.]
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13259. Designation of Public International Organizations for Purposes of the Securities Exchange Act of 1934 and the Foreign Corrupt Practices Act of 1977 ####
 

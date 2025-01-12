@@ -12,11 +12,15 @@ The Corporation shall, not later than January 1, 1945, submit to the Congress a 
 
 (May 18, 1933, ch. 32, §13, 48 Stat. 66; June 26, 1940, ch. 432, §39, 54 Stat. 626; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–447 substituted "Board" for "board" in first and second pars.
 
 **1940**—Act June 26, 1940, amended section generally.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

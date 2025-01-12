@@ -14,9 +14,13 @@ The Secretary is authorized to lease or to acquire, by purchase, donation, or ex
 
 (Pub. L. 102–525, title II, §203, Oct. 26, 1992, 106 Stat. 3440.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 201 of the Act of June 28, 1980 (Public Law 96–287), referred to in subsec. (a), appears in a table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 320301 of Title 54, National Park Service and Related Programs.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

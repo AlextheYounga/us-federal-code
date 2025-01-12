@@ -4,6 +4,8 @@ In order to consolidate Federal holdings in, and to improve, Colonial National H
 
 (May 13, 1953, ch. 38, 67 Stat. 27.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.

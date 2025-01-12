@@ -12,8 +12,14 @@ Sec.
 
 30305. Access to Register information.
 
-30306. National Driver Register Advisory Committee.
+[30306. Repealed.]
 
 30307. Criminal penalties.
 
 30308. Authorization of appropriations.
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title IV, §24218(b), Nov. 15, 2021, 135 Stat. 831, struck out item 30306 "National Driver Register Advisory Committee".

@@ -22,6 +22,8 @@ Cooperative agreements under this section shall provide, whenever appropriate, t
 
 (Pub. L. 102–419, title I, §102, Oct. 16, 1992, 106 Stat. 2142; Pub. L. 111–11, title VII, §7117(b), Mar. 30, 2009, 123 Stat. 1204.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Subsec. (a). Pub. L. 111–11, §7117(b)(1), inserted "Hawthorn Hill, the Wright Company factory," before "the Wright Cycle Company Building".

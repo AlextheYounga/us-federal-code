@@ -88,6 +88,8 @@ Sec.
 
 60143. Idled pipelines.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260, div. R, title I, §§104(b), 109(b), Dec. 27, 2020, 134 Stat. 2219, 2224, added items 60142 and 60143.
@@ -101,6 +103,8 @@ Sec.
 **2002**—Pub. L. 107–355, §§6(c), 9(c), 11(b), 13(a)(2), 15(b), 16(b), 20(a)(2)(B), Dec. 17, 2002, 116 Stat. 2993, 2995, 2997, 3001, 3006, 3008, 3010, substituted "Purpose and general authority" for "General authority" in item 60102 and "Population encroachment and rights-of-way" for "Population encroachment" in item 60127 and added items 60129 to 60133.
 
 **1996**—Pub. L. 104–304, §§5(f)[(b)], 15(c)[(b)], 16(b), 18(b)(2), 20(e), Oct. 12, 1996, 110 Stat. 3800, 3803, 3804, substituted "State pipeline safety program certifications" for "State certifications" in item 60105, "State pipeline safety agreements" for "State agreements" in item 60106, "State pipeline safety grants" for "State grants" in item 60107, and "Biennial reports" for "Annual reports" in item 60124 and added items 60126, 60127, and 60128.
+
+#### **Executive Documents** ####
 
 #### Expediting Review of Pipeline Projects From Cushing, Oklahoma, to Port Arthur, Texas, and Other Domestic Pipeline Infrastructure Projects ####
 

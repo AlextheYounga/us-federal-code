@@ -20,6 +20,8 @@ The functions and powers of the Office shall be vested in or delegated to the Di
 
 (Pub. L. 93–275, §53, as added Pub. L. 94–385, title I, §142, Aug. 14, 1976, 90 Stat. 1136.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective 150 days after Aug. 14, 1976, see section 143 of Pub. L. 94–385, set out as a note under section 790 of this title.

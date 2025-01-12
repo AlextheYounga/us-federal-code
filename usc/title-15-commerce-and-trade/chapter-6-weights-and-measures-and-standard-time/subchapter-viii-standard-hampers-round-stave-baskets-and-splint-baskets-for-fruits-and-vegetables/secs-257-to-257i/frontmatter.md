@@ -20,6 +20,8 @@ Section 257h, act May 21, 1928, ch. 664, §9, 45 Stat. 687, provided for promulg
 
 Section 257i, act May 21, 1968, ch. 664, §10, 45 Stat. 687, authorized Secretary of Agriculture to cooperate with other agencies in carrying out sections 257 to 257i of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 60 days after Oct. 22, 1968, see section 3 of Pub. L. 90–628, set out as a note under section 251 of this title.

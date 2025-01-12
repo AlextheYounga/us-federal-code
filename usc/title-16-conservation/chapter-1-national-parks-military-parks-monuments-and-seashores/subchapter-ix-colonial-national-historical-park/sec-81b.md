@@ -4,9 +4,13 @@ Subject to all the laws and regulations applicable to the Colonial National Hist
 
 (June 28, 1938, ch. 775, §1, 52 Stat. 1208.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

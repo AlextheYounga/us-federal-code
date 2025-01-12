@@ -40,6 +40,8 @@ Sec.
 
 44519. Certification personnel continuing education and training.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260, div. V, title I, §112(b), Dec. 27, 2020, 134 Stat. 2332, added item 44519.

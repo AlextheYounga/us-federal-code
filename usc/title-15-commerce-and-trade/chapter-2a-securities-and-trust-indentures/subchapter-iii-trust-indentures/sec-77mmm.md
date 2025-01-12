@@ -44,6 +44,8 @@ A copy of each such report shall, at the time of such transmission to indenture 
 
 (May 27, 1933, ch. 38, title III, §313, as added Aug. 3, 1939, ch. 411, 53 Stat. 1165; amended Pub. L. 101–550, title IV, §§411, 412, Nov. 15, 1990, 104 Stat. 2729; Pub. L. 105–353, title III, §301(e)(3), Nov. 3, 1998, 112 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Subsec. (a)(4). Pub. L. 105–353, §301(e)(3)(A), inserted "any change to" before "the amount".
@@ -73,6 +75,8 @@ Subsec. (b). Pub. L. 101–550, §412(1), substituted "The indenture trustee sha
 Subsec. (c). Pub. L. 101–550, §412(2), substituted "Reports" for "The indenture to be qualified shall also provide that reports".
 
 Subsec. (d). Pub. L. 101–550, §412(3), substituted "A copy" for "The indenture to be qualified shall also provide that a copy".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

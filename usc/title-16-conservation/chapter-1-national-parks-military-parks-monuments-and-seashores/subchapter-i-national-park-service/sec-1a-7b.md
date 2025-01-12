@@ -36,11 +36,15 @@ The Secretary shall not promulgate or enforce any regulation that prohibits an i
 
 (Pub. L. 111–24, title V, §512, May 22, 2009, 123 Stat. 1764; Pub. L. 113–287, §§4(d), 7, Dec. 19, 2014, 128 Stat. 3263, 3272.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–287, §7, which directed repeal of this section insofar as it related to the National Park System, could not be executed because of the general amendment by Pub. L. 113–287, §4(d), which made section applicable only to the National Wildlife Refuge System. See below. For provisions related to the National Park System, see section 104906 of Title 54, National Park Service and Related Programs.
 
 Pub. L. 113–287, §4(d), amended section generally. Prior to amendment, section related to the right of Americans to exercise their Second Amendment rights in the National Park System and the National Wildlife Refuge System.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

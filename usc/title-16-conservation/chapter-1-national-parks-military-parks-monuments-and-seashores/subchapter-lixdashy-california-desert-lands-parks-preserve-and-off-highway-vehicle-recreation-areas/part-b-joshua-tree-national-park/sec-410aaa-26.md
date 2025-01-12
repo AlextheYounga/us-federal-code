@@ -4,6 +4,8 @@ Nothing in this part shall have the effect of terminating any validly issued rig
 
 (Pub. L. 103–433, title IV, §406, Oct. 31, 1994, 108 Stat. 4488.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see section 617t of Title 43 and Tables.

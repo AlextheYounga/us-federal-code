@@ -82,6 +82,8 @@ In order to better manage lands acquired under this section in a manner that wil
 
 (Pub. L. 108–199, div. H, §150, Jan. 23, 2004, 118 Stat. 446.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This section and the section, referred to in subsecs. (a) and (b)(2), were in the original "This Act" and "the Act", which were translated as meaning section 150 of Pub. L. 108–199, div. H, Jan. 23, 2004, 118 Stat. 446, to reflect the probable intent of Congress.

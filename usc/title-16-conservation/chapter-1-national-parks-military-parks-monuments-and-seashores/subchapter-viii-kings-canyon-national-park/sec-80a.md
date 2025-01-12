@@ -4,6 +4,8 @@ The General Grant National Park is abolished, and the west half of section 33, t
 
 (Mar. 4, 1940, ch. 40, §2, 54 Stat. 43.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Nation's Christmas Tree ####
 
 Joint Res. Mar. 29, 1956, ch. 98, 70 Stat. 57, provided: "That the General Grant tree, which is located in the Kings Canyon National Park, in Fresno County, California, and which was dedicated by the Federal Government in 1926 as the Nation's Christmas Tree, is hereby declared to be a national shrine in memory of the men and women of the Armed Forces who have served and fought and died to keep this Nation free and to preserve the spiritual, human, and civil rights which are the essence of our American heritage. The Secretary of the Interior, through the National Park Service, shall make appropriate provision for the perpetual care and maintenance of such shrine.

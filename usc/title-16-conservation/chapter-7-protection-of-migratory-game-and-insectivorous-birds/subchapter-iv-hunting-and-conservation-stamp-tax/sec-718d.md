@@ -58,6 +58,8 @@ The Secretary shall include in each annual report of the Commission under sectio
 
 (Mar. 16, 1934, ch. 71, §4, 48 Stat. 451; June 15, 1935, ch. 261, title I, §§3, 4, 49 Stat. 379, 380; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Aug. 12, 1949, ch. 421, §2, 63 Stat. 600; Oct. 20, 1951, ch. 520, 65 Stat. 451; Pub. L. 85–585, §§2, 3, Aug. 1, 1958, 72 Stat. 486, 487; Pub. L. 89–669, §6, Oct. 15, 1966, 80 Stat. 929; Pub. L. 92–214, §2, Dec. 22, 1971, 85 Stat. 777; Pub. L. 94–215, §3(d), Feb. 17, 1976, 90 Stat. 190; Pub. L. 105–269, §2, Oct. 19, 1998, 112 Stat. 2381; Pub. L. 109–266, §10(e), Aug. 3, 2006, 120 Stat. 676; Pub. L. 113–264, §§2(3), 3, Dec. 18, 2014, 128 Stat. 2939, 2940.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Migratory Bird Conservation Act, referred to in subsec. (b)(2), (3), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
@@ -114,9 +116,13 @@ Subsec. (b). Act Oct. 20, 1951, inserted "in enforcing" after "The remainder sha
 
 **1935**—Act June 15, 1935, amended section generally.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1958 Amendment ####
 
 For effective date of amendment by Pub. L. 85–585, see section 4 of Pub. L. 85–585, set out as a note under section 718b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

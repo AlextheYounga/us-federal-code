@@ -170,6 +170,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 94–455, title XIX, §1952(a)–(m), Oct. 4, 1976, 90 Stat. 1841–1846; Pub. L. 97–35, title I, §156(c), Aug. 13, 1981, 95 Stat. 374; Pub. L. 102–237, title I, §123, Dec. 13, 1991, 105 Stat. 1844; Pub. L. 106–472, title III, §311, Nov. 9, 2000, 114 Stat. 2076; Pub. L. 114–36, §1(a), July 20, 2015, 129 Stat. 435.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
@@ -195,6 +197,8 @@ In subsec. (f)(1)(G), "chapters 1 to 11 of title 40 and division C (except secti
 **1991**—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end ", except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section".
 
 **1981**—Subsec. (f)(1)(G). Pub. L. 97–35 inserted provisions relating to crediting to account referred to in section 55 of this title and provisions respecting cotton samples submitted or used becoming the property of the United States.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2015 Amendment ####
 

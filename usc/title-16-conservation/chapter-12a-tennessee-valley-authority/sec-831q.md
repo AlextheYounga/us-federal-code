@@ -4,9 +4,13 @@ In order to enable and empower the Secretary of the Army, the Secretary of the I
 
 (May 18, 1933, ch. 32, §18, 48 Stat. 67; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–447 substituted "Board" for "board" in first sentence.
+
+#### Statutory Notes and Related Subsidiaries ####
 
 #### Change of Name ####
 

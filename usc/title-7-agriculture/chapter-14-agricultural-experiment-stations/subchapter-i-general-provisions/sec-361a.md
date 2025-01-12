@@ -4,6 +4,8 @@ It is the policy of Congress to continue the agricultural research at State agri
 
 (Mar. 2, 1887, ch. 314, §1, 24 Stat. 440; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(k), June 23, 1972, 86 Stat. 351; Pub. L. 93–471, title II, §208(e), Oct. 26, 1974, 88 Stat. 1429; Pub. L. 105–185, title II, §203(c)(1), June 23, 1998, 112 Stat. 534.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Hatch Act of 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, which is classified generally to sections 361a to 361i of this title. For complete classification of this act to the Code, see Short Title note set out below, and Tables.
@@ -34,6 +36,8 @@ Section was formerly classified to section 362 of this title.
 
 **1955**—Act Aug. 11, 1955, amended section generally to continue agricultural research at the agricultural experiment stations, to restate the declaration of purpose, and to insert definitions of "State" and "State agricultural experiment station." Former provisions which required division of appropriations between colleges of same state are now contained in section 361h of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1974 Amendment ####
 
 Amendment by Pub. L. 93–471 effective July 1, 1975, unless Pub. L. 93–471 repealed by District of Columbia Council after Jan. 2, 1975, and prior to July 1, 1975; or such amendment by Pub. L. 93–471, as amended by the District Council, also effective July 1, 1975, or some other date prescribed by the Council as authorized under provisions of section 407 of Pub. L. 93–471.
@@ -49,6 +53,8 @@ Act Mar. 2, 1887, ch. 314, §10, as added by Pub. L. 105–185, §3(b), June 23,
 #### Arlington Estate ####
 
 Besides the provisions establishing agricultural experiment stations, contained in act Mar. 2, 1887, a portion of the Arlington estate in the State of Virginia was set apart for experimental agricultural purposes by act April 18, 1900, ch. 243, 31 Stat. 135, and provisions for establishing and maintaining a general experimental farm and agricultural station thereon were made by the subsequent agricultural appropriation acts.
+
+#### **Executive Documents** ####
 
 #### Admission of Alaska and Hawaii to Statehood ####
 

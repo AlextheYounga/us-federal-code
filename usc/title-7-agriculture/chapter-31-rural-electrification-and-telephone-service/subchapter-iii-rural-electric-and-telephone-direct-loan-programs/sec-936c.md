@@ -106,6 +106,8 @@ The option provided under paragraph (1) shall not be available in the case of an
 
 (May 20, 1936, ch. 432, title III, §306C, as added Pub. L. 103–66, title I, §1201(a), Aug. 10, 1993, 107 Stat. 327; amended Pub. L. 103–129, §2(c)(10), Nov. 1, 1993, 107 Stat. 1365; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Rural Electrification Loan Restructuring Act of 1993, referred to in subsec. (d)(4), is Pub. L. 103–129, Nov. 1, 1993, 107 Stat. 1356. Section 6 of Pub. L. 103–129 relates to the issuance of regulations to carry out amendments made by the Act and is set out as a note under section 901 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 901 of this title and Tables.
@@ -117,6 +119,8 @@ The Rural Electrification Loan Restructuring Act of 1993, referred to in subsec.
 **1993**—Subsec. (c)(2). Pub. L. 103–129, §2(c)(10)(A), inserted before period at end ", except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section".
 
 Subsec. (d). Pub. L. 103–129, §2(c)(10)(B), added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Regulations ####
 

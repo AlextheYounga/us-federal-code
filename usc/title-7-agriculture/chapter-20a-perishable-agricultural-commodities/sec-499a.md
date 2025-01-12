@@ -40,6 +40,8 @@ For purposes of this chapter:
 
 (June 10, 1930, ch. 436, §1, 46 Stat. 531; Apr. 13, 1934, ch. 120, §1, 48 Stat. 584; Aug. 20, 1937, ch. 719, §1, 50 Stat. 725; June 29, 1940, ch. 456, §§1, 2, 54 Stat. 696; Pub. L. 87–725, §§1, 2, Oct. 1, 1962, 76 Stat. 673; Pub. L. 91–107, §§1, 2, Nov. 4, 1969, 83 Stat. 182; Pub. L. 95–562, §1, Nov. 1, 1978, 92 Stat. 2381; Pub. L. 97–98, title XI, §1115(a), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 102–237, title X, §1011(1), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§2, 9(a), 12(a), Nov. 15, 1995, 109 Stat. 424, 429, 430.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 551 of this title.
@@ -79,6 +81,8 @@ Par. (6)(C). Act June 29, 1940, §2, inserted ", or consists of cherries in bri
 **1937**—Par. (6)(C). Act Aug. 20, 1937, inserted "unless such product is frozen or packed in ice within the meaning of paragraph 4 of this section" after "foreign commerce".
 
 **1934**—Par. (6)(C). Act Apr. 13, 1934, added cl. (C).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

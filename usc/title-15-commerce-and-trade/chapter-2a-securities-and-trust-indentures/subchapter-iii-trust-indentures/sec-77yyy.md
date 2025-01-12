@@ -4,9 +4,13 @@ Any person who willfully violates any provision of this subchapter or any rule, 
 
 (May 27, 1933, ch. 38, title III, §325, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177; amended Pub. L. 94–29, §27(d), June 4, 1975, 89 Stat. 163.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1975**—Pub. L. 94–29 substituted "$10,000" for "$5,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1975 Amendment ####
 

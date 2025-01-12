@@ -4,11 +4,15 @@ Any person that has been designated or registered a registered entity in the man
 
 (Sept. 21, 1922, ch. 369, §7, 42 Stat. 1002; Pub. L. 93–463, title I, §103(a), (e), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(17)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–554, in first sentence, substituted "person" for "board of trade", inserted "or registered" after "designated", inserted "or registration" after "designation" wherever appearing, and substituted "registered entity" for "contract market" in two places, in second sentence, substituted "designation or registration of the registered entity" for "designation of such board of trade as a contract market" and "registered entities" for "contract markets", and, in last sentence, substituted "person" for "board of trade" and "designated or registered again a registered entity" for "designated again a contract market".
 
 **1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture" and "its order" for "his order".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1974 Amendment ####
 

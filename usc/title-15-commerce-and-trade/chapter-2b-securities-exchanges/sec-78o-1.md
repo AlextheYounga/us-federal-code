@@ -4,9 +4,13 @@ All brokers and dealers for whom registration was in effect on May 27, 1936, in 
 
 (May 27, 1936, ch. 462, §10, 49 Stat. 1380.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as a part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

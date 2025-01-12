@@ -14,9 +14,13 @@ The Tumacacori National Monument is hereby abolished and any funds available for
 
 (Pub. L. 101–344, §1, Aug. 6, 1990, 104 Stat. 393; Pub. L. 107–218, §3, Aug. 21, 2002, 116 Stat. 1328.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsec. (b). Pub. L. 107–218 inserted "The park shall also consist of approximately 310 acres of land adjacent to the original Tumacacori unit of the park and generally depicted on the map entitled 'Tumacacori National Historical Park, Arizona Proposed Boundary Revision 2001', numbered 310/80,044, and dated July 2001." and substituted "The maps" for "The map" and "the appropriate offices" for "the offices".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2002 Amendment ####
 

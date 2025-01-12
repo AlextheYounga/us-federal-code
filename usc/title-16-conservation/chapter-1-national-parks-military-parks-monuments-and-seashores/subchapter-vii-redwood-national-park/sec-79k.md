@@ -6,6 +6,8 @@
 
 (Pub. L. 95–250, title I, §102(a), (b), Mar. 27, 1978, 92 Stat. 166, 167.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under this section. For complete classification of this Act to the Code, see Tables.
@@ -17,6 +19,8 @@ Act of October 2, 1968, referred to in subsec. (b), is Pub. L. 90–545, Oct. 2,
 #### Codification ####
 
 Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931, which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Study of Timber Harvest Scheduling Alternatives for Six Rivers National Forest; Scope; Report to Congress ####
 

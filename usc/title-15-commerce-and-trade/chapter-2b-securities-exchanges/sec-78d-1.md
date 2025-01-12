@@ -14,6 +14,8 @@ If the right to exercise such review is declined, or if no such review is sought
 
 (June 6, 1934, ch. 404, title I, §4A, as added Pub. L. 100–181, title III, §308(a), Dec. 4, 1987, 101 Stat. 1254.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 78d–1, Pub. L. 87–592, §1, Aug. 20, 1962, 76 Stat. 394; Pub. L. 94–29, §25, June 4, 1975, 89 Stat. 163; Pub. L. 95–251, §2(a)(4), Mar. 27, 1978, 92 Stat. 183, provided for subject matter similar to the provisions comprising this section, prior to repeal by section 308(b) of Pub. L. 100–181.

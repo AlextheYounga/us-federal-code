@@ -4,6 +4,8 @@ The assets, funds, property, and records of Commodity Credit Corporation, a Dela
 
 (June 29, 1948, ch. 704, §16, 62 Stat. 1075.)
 
+#### **Executive Documents** ####
+
 #### Exceptions From Transfer of Functions ####
 
 For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.

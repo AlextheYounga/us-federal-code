@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, any national banking association may
 
 **1933**—Act June 15, 1933, struck out all of former section and inserted a new section which incorporated all former provisions and inserted "of one or more classes," in first sentence.
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Exception as to Transfer of Functions ####
 

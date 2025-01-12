@@ -4,6 +4,8 @@ The Commission is authorized to appoint and fix the compensation of such officer
 
 (June 21, 1938, ch. 556, §18, 52 Stat. 831; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions that authorized the Commission to appoint and fix the compensation of such officers, attorneys, examiners, and experts as may be necessary for carrying out its functions under this chapter "without regard to the provisions of other laws applicable to the employment and compensation of officers and employees of the United States" are omitted as obsolete and superseded.
@@ -17,6 +19,8 @@ Such appointments are now subject to the civil service laws unless specifically 
 #### Amendments ####
 
 **1949**—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

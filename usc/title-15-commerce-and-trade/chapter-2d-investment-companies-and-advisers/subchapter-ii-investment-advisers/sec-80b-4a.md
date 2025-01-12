@@ -4,9 +4,13 @@ Every investment adviser subject to section 80b–4 of this title shall establis
 
 (Aug. 22, 1940, ch. 686, title II, §204A, as added Pub. L. 100–704, §3(b)(2), Nov. 19, 1988, 102 Stat. 4680.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

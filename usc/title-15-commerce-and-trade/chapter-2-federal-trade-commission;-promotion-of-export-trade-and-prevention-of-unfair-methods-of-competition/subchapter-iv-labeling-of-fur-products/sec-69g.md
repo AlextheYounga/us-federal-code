@@ -18,9 +18,13 @@ the Commission may bring suit in the district court of the United States or in t
 
 (Aug. 8, 1951, ch. 298, §9, 65 Stat. 180.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Trade Commission Act, referred to in subsec. (b)(2), is defined in section 69 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -6,6 +6,8 @@
 
 (Pub. L. 86–744, §2, as added Pub. L. 94–578, title III, §313, Oct. 21, 1976, 90 Stat. 2737; amended Pub. L. 106–510, §3(b)(1), Nov. 13, 2000, 114 Stat. 2363.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Subsec. (a). Pub. L. 106–510 substituted "Haleakalā National Park" for "Haleakala National Park".

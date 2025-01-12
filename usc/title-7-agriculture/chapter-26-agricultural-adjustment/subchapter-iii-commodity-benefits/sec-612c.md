@@ -4,6 +4,8 @@ There is appropriated for each fiscal year beginning with the fiscal year ending
 
 (Aug. 24, 1935, ch. 641, §32, 49 Stat. 774; Feb. 29, 1936, ch. 104, §2, 49 Stat. 1151; Feb. 16, 1938, ch. 30, title II, §203, 52 Stat. 38; June 30, 1939, ch. 253, title I, 53 Stat. 975; July 3, 1948, ch. 827, title III, §301, 62 Stat. 1257; Oct. 31, 1949, ch. 792, title IV, §411, 63 Stat. 1057; Jan. 30, 1954, ch. 2, §5(b), 68 Stat. 7; Pub. L. 99–198, title XV, §1561, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 107–171, title X, §10602, May 13, 2002, 116 Stat. 511.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 3690 of the Revised Statutes, and section 5 of act June 30, 1875, referred to in text, which were classified to sections 712 and 713 of former Title 31, Money and Finance, were repealed by act July 6, 1949, ch. 299, §3, 63 Stat. 407.
@@ -30,17 +32,11 @@ Section was not enacted as part of the Agricultural Adjustment Act which compris
 
 **1936**—Act Feb. 29, 1936, struck out cl. (3) and inserted in lieu thereof immediately preceding second proviso "(3) reestablish farmers' purchasing power by making payments in connection with the normal production of any agricultural commodity for domestic consumption. Determinations by the Secretary as to what constitutes diversion and what constitutes normal channels of trade and commerce and what constitutes normal production for domestic consumption shall be final. The sums appropriated under this section shall be expended for such one or more of the above-specified purposes, and at such times, in such manner, and in such amounts as the Secretary of Agriculture finds will effectuate substantial accomplishment of any one or more of the purposes of this section."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1948 Amendment ####
 
 Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under section 1301 of this title.
-
-#### Transfer of Functions ####
-
-Functions of all officers, agencies, and employees of the Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
-
-Federal Surplus Relief Corporation changed to Federal Surplus Commodities Corporation by amendment of its charter in 1935. It consolidated with Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration to form Surplus Marketing Administration by 1940 Reorg. Plan No. III, §5, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. By Executive orders under First War Powers Act, former section 601 et seq. of the former Appendix to Title 50, War and National Defense, Surplus Marketing Administration merged into Agricultural Marketing Administration, which consolidated into Food Distribution Administration, which consolidated into War Food Administration, which terminated and its functions transferred to Secretary of Agriculture. By Memorandum 1118, Secretary of Agriculture, Aug. 18, 1945, functions of Federal Surplus Commodities Corporation transferred to Production and Marketing Administration. 1946 Reorg. Plan No. 3, §501(a), eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, transferred functions of Surplus Marketing Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue the consolidation already effected in Production and Marketing Administration.
-
-Federal Surplus Commodities Corporation and Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration and their functions consolidated into Surplus Marketing Administration in Department of Agriculture by Reorg. Plan No. III, §5, eff. June 30, 1940, set out in the Appendix to Title 5. See, also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds.
 
 #### Additional Appropriations ####
 
@@ -715,5 +711,15 @@ Use of funds made available under this section for distribution of surplus fishe
 #### Home Economics Training ####
 
 Authorization of schools to use surplus foods received under this section to train students in home economics, see note set out under section 1431 of this title.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Functions of all officers, agencies, and employees of the Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+
+Federal Surplus Relief Corporation changed to Federal Surplus Commodities Corporation by amendment of its charter in 1935. It consolidated with Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration to form Surplus Marketing Administration by 1940 Reorg. Plan No. III, §5, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. By Executive orders under First War Powers Act, former section 601 et seq. of the former Appendix to Title 50, War and National Defense, Surplus Marketing Administration merged into Agricultural Marketing Administration, which consolidated into Food Distribution Administration, which consolidated into War Food Administration, which terminated and its functions transferred to Secretary of Agriculture. By Memorandum 1118, Secretary of Agriculture, Aug. 18, 1945, functions of Federal Surplus Commodities Corporation transferred to Production and Marketing Administration. 1946 Reorg. Plan No. 3, §501(a), eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, transferred functions of Surplus Marketing Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue the consolidation already effected in Production and Marketing Administration.
+
+Federal Surplus Commodities Corporation and Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration and their functions consolidated into Surplus Marketing Administration in Department of Agriculture by Reorg. Plan No. III, §5, eff. June 30, 1940, set out in the Appendix to Title 5. See, also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds.
 
 [<sup>1</sup> See References in Text note below.](#612c_1)

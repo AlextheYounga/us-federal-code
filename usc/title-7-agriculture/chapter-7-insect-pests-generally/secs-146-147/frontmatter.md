@@ -1,5 +1,7 @@
 ### §§146, 147. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 146, act Feb. 9, 1927, ch. 90, 44 Stat. 1065, authorized an appropriation of $10,000,000 to eradicate or control European corn borer.

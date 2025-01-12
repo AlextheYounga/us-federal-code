@@ -86,6 +86,8 @@ Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and p
 
 (Sept. 21, 1922, ch. 369, §4d, as added June 15, 1936, ch. 545, §5, 49 Stat. 1494; amended Pub. L. 90–258, §6, Feb. 19, 1968, 82 Stat. 27; Pub. L. 93–463, title I, §103(a), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §4, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §207, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6), title II, §251(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407, 2763A–443; Pub. L. 111–203, title VII, §§713(b), 724(a), 732, 749(a), July 21, 2010, 124 Stat. 1646, 1682, 1712, 1746.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (a). Pub. L. 111–203, §749(a)(1)(A), in introductory provisions, substituted "be a" for "engage as" and struck out "or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility" after "merchant".
@@ -117,6 +119,8 @@ Par. (2). Pub. L. 97–444, §207(3), inserted "if a futures commission merchant
 **1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture" in pars. (1) and (2).
 
 **1968**—Pub. L. 90–258 struck out from second proviso of first par. authorization for investment of customer funds in investment securities of the kind national banking associations may buy or in loans secured by negotiable warehouse receipts conveying or securing title to readily marketable commodities to the extent of the current loan value of such receipts and added second par., making it unlawful for any person, including a clearing agency of a contract market or any depository, to treat customer funds as belonging to any person other than the customer, respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

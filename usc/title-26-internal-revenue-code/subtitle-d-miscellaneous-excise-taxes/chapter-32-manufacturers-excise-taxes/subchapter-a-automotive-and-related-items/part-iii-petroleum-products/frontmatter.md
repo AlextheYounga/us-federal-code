@@ -6,6 +6,8 @@ A. Motor and aviation fuels.
 
 B. Special provisions applicable to fuels tax.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–357, title VIII, §853(d)(2)(R), Oct. 22, 2004, 118 Stat. 1614, amended analysis generally, substituting items for subparts A "Motor and aviation fuels" and B "Special provisions applicable to fuels tax" for former items for subparts A "Gasoline and diesel fuel", B "Aviation fuel", and C "Special provisions applicable to petroleum products".

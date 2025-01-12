@@ -38,6 +38,8 @@ The Administration shall not collect any fee for any guarantee under this sectio
 
 (Pub. L. 85–699, title V, §505, as added Pub. L. 99–272, title XVIII, §18008(c), Apr. 7, 1986, 100 Stat. 367; amended Pub. L. 100–590, title I, §111(d)(1), (2), Nov. 3, 1988, 102 Stat. 2995; Pub. L. 104–208, div. D, title II, §205(c), Sept. 30, 1996, 110 Stat. 3009–738.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.
@@ -49,6 +51,8 @@ For definition of "this chapter", referred to in subsec. (a), see References in 
 **1988**—Pub. L. 100–590, §111(d)(2), inserted "Pooling of debentures" as section catchline.
 
 Subsec. (a). Pub. L. 100–590, §111(d)(1), substituted "all or a" for "all of a".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

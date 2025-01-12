@@ -20,9 +20,13 @@ The Congress further declares that the provisions of this Act are necessary in o
 
 (Aug. 8, 1956, ch. 1036, §2, 70 Stat. 1119.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2018 Amendment ####
 

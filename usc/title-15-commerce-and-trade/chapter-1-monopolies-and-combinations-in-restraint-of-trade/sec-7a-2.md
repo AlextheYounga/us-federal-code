@@ -6,9 +6,11 @@ Nothing in sections 7a to 7a–3 of this title shall be construed to—
 
 (2) create any right to challenge any decision by the Antitrust Division with respect to an antitrust leniency agreement; or
 
-(3) affect, in any way, the joint and several liability of any party to a civil action described in section 7a–1(a) of this title, other than that of the antitrust leniency applicant and cooperating individuals as provided in section 7a–1(a) of this title."
+(3) affect, in any way, the joint and several liability of any party to a civil action described in section 7a–1(a) of this title, other than that of the antitrust leniency applicant and cooperating individuals as provided in section 7a–1(a) of this title.
 
 (Pub. L. 108–237, title II, §214, June 22, 2004, 118 Stat. 667; Pub. L. 111–190, §4, June 9, 2010, 124 Stat. 1276.)
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 

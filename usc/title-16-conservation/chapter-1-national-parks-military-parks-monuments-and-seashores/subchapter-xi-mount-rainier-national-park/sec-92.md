@@ -4,9 +4,13 @@ Mount Rainier National Park shall be under the exclusive control of the Secretar
 
 (Mar. 2, 1899, ch. 377, §2, 30 Stat. 994.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Pacific National Forest" was substituted for "Pacific Forest Reserve" on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

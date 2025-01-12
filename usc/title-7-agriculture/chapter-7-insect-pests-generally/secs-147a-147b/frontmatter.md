@@ -1,5 +1,7 @@
 ### §§147a, 147b. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 147a, acts Sept. 21, 1944, ch. 412, title I, §102, 58 Stat. 735, as amended, which related to fees for inspection of plants for exporting or transiting, was transferred to section 7759 of this title.

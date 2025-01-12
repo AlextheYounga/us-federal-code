@@ -24,9 +24,13 @@ Beginning not later than 180 days after October 9, 2018, the Administrator, in c
 
 (Pub. L. 115–259, §4, Oct. 9, 2018, 132 Stat. 3664.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Small Business Innovation Protection Act of 2017, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Findings ####
 

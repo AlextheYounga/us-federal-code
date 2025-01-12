@@ -14,6 +14,8 @@ The Fort Jefferson National Monument is hereby abolished.
 
 (Pub. L. 102–525, title II, §201, Oct. 26, 1992, 106 Stat. 3439.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a), was in the original "this title", meaning title II of Pub. L. 102–525, Oct. 26, 1992, 106 Stat. 3439, which enacted this subchapter and amended provisions listed in a National Monuments Established Under Presidential Proclamation table set out under section 320301 of Title 54, National Park Service and Related Programs. For complete classification of title II to the Code, see Tables.

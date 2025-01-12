@@ -18,6 +18,8 @@ The Federal water rights reserved by this Act are specific to the wilderness are
 
 (Pub. L. 103–433, title VII, §706, Oct. 31, 1994, 108 Stat. 4498.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 204 of this Act, referred to in subsec. (a), is section 204 of Pub. L. 103–433, title II, Oct. 31, 1994, 108 Stat. 4485, which is not classified to the Code.

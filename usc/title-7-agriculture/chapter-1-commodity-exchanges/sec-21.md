@@ -220,6 +220,8 @@ Consistent with this chapter, each futures association registered under this sec
 
 (Sept. 21, 1922, ch. 369, §17, as added Pub. L. 93–463, title III, §301, Oct. 23, 1974, 88 Stat. 1406; amended Pub. L. 95–405, §22, Sept. 30, 1978, 92 Stat. 876; Pub. L. 97–444, title II, §§217(b), 233, Jan. 11, 1983, 96 Stat. 2307, 2320; Pub. L. 99–641, title I, §§107, 108, 110(6), (7), Nov. 10, 1986, 100 Stat. 3558, 3559, 3561; Pub. L. 102–546, title II, §§204(a), 206(b), 209(b)(8), 222(c), 228, title IV, §402(12), Oct. 28, 1992, 106 Stat. 3600, 3602, 3607, 3616, 3619, 3625; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(24), title II, §251(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–444; Pub. L. 110–234, title XIII, §13105(f), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(f), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §749(g), July 21, 2010, 124 Stat. 1748.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -297,6 +299,8 @@ Subsec. (b)(10). Pub. L. 95–405, §22(2), substituted "$15,000" for "$5,000".
 Subsec. (l)(1), (2)(A). Pub. L. 95–405, §22(3), substituted "chapter" for "section" wherever appearing.
 
 Subsecs. (m), (n). Pub. L. 95–405, §22(4), added subsec. (m) and redesignated former subsec. (m) as (n).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

@@ -10,6 +10,8 @@ In order to facilitate the acquisition of privately owned lands in the park by e
 
 (Pub. L. 89–667, §2, Oct. 15, 1966, 80 Stat. 920; Pub. L. 94–174, Dec. 23, 1975, 89 Stat. 1029.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1975**—Subsec. (b). Pub. L. 94–174 inserted provisions relating to the exchange of lands in order to provide for an adequate entrance road into the McKittrick Canyon area of the park.

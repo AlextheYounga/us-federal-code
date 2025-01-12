@@ -20,11 +20,15 @@ The disclosure of any such information as to the names and addresses of the inde
 
 (May 27, 1933, ch. 38, title III, §312, as added Aug. 3, 1939, ch. 411, 53 Stat. 1164; amended Pub. L. 101–550, title IV, §410, Nov. 15, 1990, 104 Stat. 2728.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (a). Pub. L. 101–550, §410(1), (2), substituted "Each obligor" for "The indenture to be qualified shall contain provisions requiring each obligor" and "indenture securities shall" for "indenture securities to".
 
 Subsec. (b). Pub. L. 101–550, §410(3), substituted "Within" for "The indenture to be qualified shall also contain provisions requiring that, within".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

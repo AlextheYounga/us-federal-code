@@ -148,11 +148,7 @@ Sec.
 
 579a. Corps budgeting; project deauthorizations; comprehensive backlog report.
 
-579b. Omitted.
-
-579c to 579c–2. Repealed.
-
-579d, 579d–1. Repealed.
+579b to 579d–1. Omitted or Repealed.
 
 579d–2. Deauthorization of inactive projects.
 

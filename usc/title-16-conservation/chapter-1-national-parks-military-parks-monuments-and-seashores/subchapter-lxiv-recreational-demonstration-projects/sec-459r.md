@@ -40,10 +40,6 @@ comprising one thousand seven hundred and ninety-one and ninety-three one-hundre
 
 For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
 
-#### Delegation of Functions ####
-
-For delegation to Secretary of the Interior of authority vested in President by this section, see Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, set out as a note under section 715j of Title 15, Commerce and Trade.
-
 #### Ex. Ord. No. 7496. Transfer of Recreational Demonstration Projects ####
 
 Ex. Ord. No. 7496, Nov. 14, 1936, 1 F.R. 1946, provided:

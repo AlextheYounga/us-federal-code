@@ -30,6 +30,8 @@ No law of any State or political subdivision thereof requiring the registration,
 
 (Aug. 22, 1940, ch. 686, title II, §222, as added Pub. L. 86–750, §16, Sept. 13, 1960, 74 Stat. 888; amended Pub. L. 104–290, title III, §304, Oct. 11, 1996, 110 Stat. 3438; Pub. L. 105–353, title III, §301(d)(2), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §985(e)(4), July 21, 2010, 124 Stat. 1935.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsecs. (b), (c). Pub. L. 111–203 substituted "principal office and place of business" for "principal place of business" wherever appearing.
@@ -37,6 +39,8 @@ No law of any State or political subdivision thereof requiring the registration,
 **1998**—Subsec. (b)(2). Pub. L. 105–353 substituted "principal" for "principle".
 
 **1996**—Pub. L. 104–290 substituted "regulation" for "control" in section catchline and amended text generally, designating existing provisions as subsec. (a), inserting heading, and adding subsecs. (b) to (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

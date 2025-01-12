@@ -168,6 +168,8 @@ The income and net worth of a natural person under section 77d(6)(B) <sup><a hr
 
 (May 27, 1933, ch. 38, title I, §4A, as added Pub. L. 112–106, title III, §302(b), Apr. 5, 2012, 126 Stat. 315.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 77d(6) of this title, referred to in text, was redesignated section 77d(a)(6) of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.

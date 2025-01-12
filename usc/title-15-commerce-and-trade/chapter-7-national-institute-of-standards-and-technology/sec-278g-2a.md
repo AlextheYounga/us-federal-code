@@ -34,6 +34,8 @@ The program shall provide for teachers' participation in activities at the labor
 
 (Mar. 3, 1901, ch. 872, §19A, as added Pub. L. 105–309, §7, Oct. 30, 1998, 112 Stat. 2937; amended Pub. L. 111–358, title IV, §406(c), Jan. 4, 2011, 124 Stat. 4004.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Subsec. (c). Pub. L. 111–358 inserted at end "The Director shall give special consideration to an application from a teacher from a high-need school, as defined in section 1021 of title 20."

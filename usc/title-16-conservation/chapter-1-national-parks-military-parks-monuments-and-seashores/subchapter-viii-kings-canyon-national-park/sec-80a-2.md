@@ -6,6 +6,8 @@ East half northeast quarter, east half west half northeast quarter, northeast qu
 
 (Pub. L. 85–666, §2, Aug. 14, 1958, 72 Stat. 617.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act Mar. 4, 1940, ch. 40, 54 Stat. 41, which comprises this subchapter.

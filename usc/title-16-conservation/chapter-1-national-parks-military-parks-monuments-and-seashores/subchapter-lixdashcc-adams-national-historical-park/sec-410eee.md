@@ -24,6 +24,8 @@ The purpose of this subchapter is to establish the Adams National Historical Par
 
 (Pub. L. 105–342, §2, Nov. 2, 1998, 112 Stat. 3200.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Historic Sites Act, referred to in subsec. (a)(2), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, also known as the Historic Sites Act of 1935 and as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -37,6 +39,8 @@ Public Law 96–435, referred to in subsec. (a)(5), is Pub. L. 96–435, Oct. 10
 #### Codification ####
 
 In subsec. (a)(1), "section 1866(a) of title 18 and section 320102 of title 54" substituted for "section 2 of the Historic Sites Act of August 21, 1935" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

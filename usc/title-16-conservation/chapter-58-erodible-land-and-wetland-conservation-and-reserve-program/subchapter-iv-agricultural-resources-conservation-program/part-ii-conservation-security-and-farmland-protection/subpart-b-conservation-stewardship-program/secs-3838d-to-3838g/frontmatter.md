@@ -1,5 +1,7 @@
 ### §§3838d to 3838g. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 3838d, Pub. L. 99–198, title XII, §1238D, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1768; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 721, which set out definitions for this subpart, was renumbered section 1240I of Pub. L. 99–198 and transferred to section 3839aa–21 of this title.
@@ -15,6 +17,8 @@ Section 3838f, Pub. L. 99–198, title XII, §1238F, as added Pub. L. 110–234,
 A prior section 3838f, Pub. L. 99–198, title XII, §1238F, as added Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3596, related to report to Congress, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007.
 
 Section 3838g, Pub. L. 99–198, title XII, §1238G, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1045, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1773; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 726, which described duties of the Secretary regarding the conservation stewardship program, was renumbered section 1240L of Pub. L. 99–198 and transferred to section 3839aa–24 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Conservation Stewardship Program ####
 

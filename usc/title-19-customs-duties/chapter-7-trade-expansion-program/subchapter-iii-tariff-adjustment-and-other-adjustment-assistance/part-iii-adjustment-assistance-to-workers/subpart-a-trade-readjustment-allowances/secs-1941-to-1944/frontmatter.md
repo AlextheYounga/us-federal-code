@@ -8,6 +8,8 @@ Section 1943, Pub. L. 87–794, title III, §324, Oct. 11, 1962, 76 Stat. 894, s
 
 Section 1944, Pub. L. 87–794, title III, §325, Oct. 11, 1962, 76 Stat. 894, provided for application of State laws. See section 2294 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on 90th day following Jan. 3, 1975, see note set out under section 1901 of this title.

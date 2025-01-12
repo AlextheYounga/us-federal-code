@@ -20,6 +20,8 @@ Sec.
 
 99. Separability.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 All functions of the Federal Security Administrator were transferred to the Secretary of Health, Education, and Welfare and all agencies of the Federal Security Agency were transferred to the Department of Health, Education, and Welfare by section 5 of 1953 Reorg. Plan No. 1, eff. Mar. 12, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Security Agency and the office of Administrator were abolished by section 8 of 1953 Reorg. Plan No. 1.

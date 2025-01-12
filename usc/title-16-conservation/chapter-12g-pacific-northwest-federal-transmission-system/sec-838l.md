@@ -138,6 +138,8 @@ Except as provided in subsection (e), this section does not affect the authority
 
 (Pub. L. 104–134, title III, §3201, Apr. 26, 1996, 110 Stat. 1321–350.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.

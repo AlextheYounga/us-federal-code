@@ -18,6 +18,8 @@ For purposes of section 200306(a)(4) of title 54, the statutory ceilings on appr
 
 (Pub. L. 91–661, §401, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 97–405, §1(4), Jan. 3, 1983, 96 Stat. 2029.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (d), "section 200306(a)(4) of title 54" substituted for "section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9(a)(3)) [sic]" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
@@ -25,6 +27,8 @@ In subsec. (d), "section 200306(a)(4) of title 54" substituted for "section 7(a)
 #### Amendments ####
 
 **1983**—Pub. L. 97–405 designated existing provisions as subsec. (a), substituted "$38,314,000" for "$26,014,000", and added subsecs. (b) to (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

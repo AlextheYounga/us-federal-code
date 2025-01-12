@@ -10,9 +10,13 @@ It is hereby found that the activities of commodity trading advisors and commodi
 
 (Sept. 21, 1922, ch. 369, §4l, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1397; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(10)], Dec. 21, 2000, 114 Stat. 2763, 2763A–408.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pars. (2), (3). Pub. L. 106–554 inserted "or derivatives transaction execution facilities" after "contract markets".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

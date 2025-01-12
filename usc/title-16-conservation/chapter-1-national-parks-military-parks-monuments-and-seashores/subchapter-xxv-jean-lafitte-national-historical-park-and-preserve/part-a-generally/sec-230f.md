@@ -40,6 +40,8 @@ The Directors of the Heritage Conservation and Recreation Service and the Nation
 
 (Pub. L. 95–625, title IX, §907, Nov. 10, 1978, 92 Stat. 3537; Pub. L. 96–87, title IV, §401(q)(3), (4), Oct. 12, 1979, 93 Stat. 666; Pub. L. 100–250, §1(c), Feb. 16, 1988, 102 Stat. 16; Pub. L. 100–355, §2, June 28, 1988, 102 Stat. 667.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (a)(6), (7). Pub. L. 100–355, §2(1), (2), which directed that in par. (6) "region;" be substituted for "region; and" and that in par. (7) "Arts; and" be substituted for "Arts." could not be executed because of prior amendment by section 401(q)(3) of Pub. L. 96–87.
@@ -51,6 +53,8 @@ Subsec. (e). Pub. L. 100–250 substituted "twenty" for "ten".
 **1979**—Subsec. (a)(8). Pub. L. 96–87, §401(q)(3), added par. (8).
 
 Subsec. (e). Pub. L. 96–87, §401(q)(4), provided that the Commission terminate ten years from November 10, 1978.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

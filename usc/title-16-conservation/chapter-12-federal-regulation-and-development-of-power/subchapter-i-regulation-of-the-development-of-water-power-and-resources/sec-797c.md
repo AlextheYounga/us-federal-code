@@ -4,6 +4,8 @@ After October 24, 1992, the Federal Energy Regulatory Commission may not issue a
 
 (Pub. L. 102–486, title XXIV, §2402, Oct. 24, 1992, 106 Stat. 3097.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended. Part I of the Act is classified generally to this subchapter (§791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.

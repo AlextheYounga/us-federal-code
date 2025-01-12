@@ -2,6 +2,8 @@
 
 Section, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1157, related to evidence of providing mail service.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2008, see section 2(c) of Pub. L. 110–405, set out as an Effective Date of 2008 Amendment note under section 101 of Title 39, Postal Service.

@@ -10,6 +10,8 @@ Section 10, R.S. §2630; acts Mar. 4, 1923, ch. 251, §§2, 3, 42 Stat. 1453; Ja
 
 Section 11, R.S. §2632; act June 17, 1930, ch. 497, title IV, §523, 46 Stat. 740, provided that in cases of occasional and necessary absence, or of sickness, every comptroller and surveyor could, respectively, exercise and perform his functions, powers, and duties by deputy.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective with respect to articles entered, or withdrawn from warehouse for consumption, on or after Oct. 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, or with respect to which a protest has not been disallowed in whole or in part before Oct. 1, 1970, see section 203 of Pub. L. 91–271, set out as an Effective Date of 1970 Amendment note under section 1500 of this title.

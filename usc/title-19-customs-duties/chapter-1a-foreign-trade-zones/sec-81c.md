@@ -50,6 +50,8 @@ For termination of amendment by section 107(c) of Pub. L. 108–77, see Effectiv
 
 For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Tariff Act of 1930, referred to in subsec. (a)(1), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§1202 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
@@ -107,6 +109,8 @@ Subsec. (d). Pub. L. 100–647 added subsec. (d).
 
 **1950**—Act June 17, 1950, amended section generally to remove the prohibition against, and to authorize specifically, manufacture and exhibition within a zone.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2020 Amendment ####
 
 Pub. L. 116–260, div. O, title VI, §601(h), Dec. 27, 2020, 134 Stat. 2152, provided that: "This section [amending this section, sections 1311 to 1313, 1508, 1520, 1562, 1677f, 3472, 3473, 4531, and 4534 of this title, and sections 290m to 290m–5 and 290m–7 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 3472 of this title] and the amendments made by this section shall take effect on July 1, 2020."
@@ -161,8 +165,6 @@ Amendment by Pub. L. 91–271 effective with respect to articles entered, or wit
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under section 1 of this title. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Floor Stocks Tax Treatment of Articles in Foreign Trade Zones ####
 
 Notwithstanding this chapter, articles located in a foreign trade zone on the effective date of increases in tax under specific amendments by Pub. L. 101–508 subject to floor stocks taxes under certain circumstances, see section 11218 of Pub. L. 101–508, set out as a note under section 5001 of Title 26, Internal Revenue Code.
@@ -170,3 +172,9 @@ Notwithstanding this chapter, articles located in a foreign trade zone on the ef
 #### Plan Amendments Not Required Until January 1, 1989 ####
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§1101–1147 and 1171–1177] or title XVIII [§§1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under section 1 of this title. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.

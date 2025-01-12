@@ -22,6 +22,8 @@ Section 990, acts Sept. 27, 1950, ch. 1054, §11, 64 Stat. 1070; Oct. 17, 1968, 
 
 Section 991, acts Sept. 27, 1950, ch. 1054, §12, 64 Stat. 1071; Aug. 11, 1971, Pub. L. 92–87, §111(d), 85 Stat. 313, authorized appropriation to carry out the purposes and provisions of this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 95–6, §4, Feb. 21, 1977, 91 Stat. 16, provided that repeal of sections 981 to 991 of this title is effective Mar. 1, 1977.

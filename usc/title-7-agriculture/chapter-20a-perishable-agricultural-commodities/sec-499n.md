@@ -10,6 +10,8 @@ Whoever shall falsely make, issue, alter, forge, or counterfeit, or cause or pro
 
 (June 10, 1930, ch. 436, §14, 46 Stat. 537; Apr. 13, 1934, ch. 120, §15, 48 Stat. 588; Aug. 20, 1937, ch. 719, §12, 50 Stat. 730; Pub. L. 102–237, title X, §1011(7), Dec. 13, 1991, 105 Stat. 1898.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodities Exchange Act, referred to in subsec. (a), probably means act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, known as the Commodity Exchange Act, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
@@ -25,6 +27,8 @@ Section was formerly classified to section 564 of this title.
 **1937**—Act Aug. 20, 1937, designated existing provisions as subsec. (a) and, among other changes inserted "That official inspection certificates for fresh fruits and vegetables issued by the Secretary of Agriculture pursuant to any law shall be received by all officers and all courts of the United States, in all proceedings under this chapter, and in all transactions upon contract markets under Commodities Exchange Act" before "as prima facie" in third proviso, and added subsec. (b).
 
 **1934**—Act Apr. 13, 1934, inserted "and in all proceedings under this chapter" after "United States" in third proviso.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Potato Inspection ####
 

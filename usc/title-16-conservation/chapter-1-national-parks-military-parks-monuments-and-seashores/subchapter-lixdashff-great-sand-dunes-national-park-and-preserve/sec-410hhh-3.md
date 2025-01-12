@@ -22,11 +22,15 @@ As soon as practicable after the establishment of the national park and preserve
 
 (Pub. L. 106–530, §5, Nov. 22, 2000, 114 Stat. 2529.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wilderness Act, referred to in subsec. (a)(3), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Colorado Wilderness Act of 1993, referred to in subsec. (a)(3), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

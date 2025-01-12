@@ -630,6 +630,8 @@ A report submitted under subparagraph (A) shall include a description of—
 
 (June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, §10115, Dec. 20, 2018, 132 Stat. 4914.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Endangered Species Act of 1973, referred to in subsec. (c)(11)(C)(i)(I), (II), (v), (vi), (G)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
@@ -757,6 +759,8 @@ Subsec. (d)(3). Pub. L. 95–396, §7(3), added par. (3).
 Subsec. (g). Pub. L. 95–396, §8, added subsec. (g).
 
 **1975**—Subsec. (c)(1)(D). Pub. L. 94–140 inserted exception relating to test data submitted on or after January 1, 1970, in support of application, inserted provision that compensation for producing test data shall apply to all applications submitted on or after October 21, 1972, and provision relating to delay of registration pending determination of reasonable compensation, struck out requirement that payment determined by court not be less than amount determined by Administrator, and substituted "If either party" for "If the owner of the test data".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

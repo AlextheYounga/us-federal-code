@@ -22,6 +22,8 @@ A person appointed under subsection (a)(1) shall be subject to the provisions of
 
 For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of Repeal note below.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Section repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note under section 44 of this title.

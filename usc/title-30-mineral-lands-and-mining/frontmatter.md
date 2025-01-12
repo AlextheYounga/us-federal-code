@@ -65,7 +65,7 @@ Chap. Sec.
 
 29. Oil and Gas Royalty Management 1701
 
-30. National Critical Materials Council 1801
+30. National Critical Materials Council [Repealed] 1801
 
 31. Marine Mineral Resources Research 1901
 

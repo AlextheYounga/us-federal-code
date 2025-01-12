@@ -92,6 +92,8 @@ The Commission may from time to time by its rules and regulations and subject to
 
 (May 27, 1933, ch. 38, title I, §3, 48 Stat. 75; June 6, 1934, ch. 404, title II, §202, 48 Stat. 906; Feb. 4, 1887, ch. 104, title II, §214, as added Aug. 9, 1935, ch. 498, 49 Stat. 557; amended June 29, 1938, ch. 811, §15, 52 Stat. 1240; May 15, 1945, ch. 122, 59 Stat. 167; Aug. 10, 1954, ch. 667, title I, §5, 68 Stat. 684; Pub. L. 85–699, title III, §307(a), Aug. 21, 1958, 72 Stat. 694; Pub. L. 91–373, title IV, §401(a), Aug. 10, 1970, 84 Stat. 718; Pub. L. 91–547, §27(b), (c), Dec. 14, 1970, 84 Stat. 1434; Pub. L. 91–565, Dec. 19, 1970, 84 Stat. 1480; Pub. L. 91–567, §6(a), Dec. 22, 1970, 84 Stat. 1498; Pub. L. 94–210, title III, §308(a)(1), (3), Feb. 5, 1976, 90 Stat. 56, 57; Pub. L. 95–283, §18, May 21, 1978, 92 Stat. 275; Pub. L. 95–425, §2, Oct. 6, 1978, 92 Stat. 962; Pub. L. 95–598, title III, §306, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 96–477, title III, §301, title VII, §701, Oct. 21, 1980, 94 Stat. 2291, 2294; Pub. L. 97–261, §19(d), Sept. 20, 1982, 96 Stat. 1121; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–181, title II, §§203, 204, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 103–325, title III, §320, Sept. 23, 1994, 108 Stat. 2225; Pub. L. 104–62, §3, Dec. 8, 1995, 109 Stat. 684; Pub. L. 104–290, title V, §508(b), Oct. 11, 1996, 110 Stat. 3447; Pub. L. 106–102, title II, §221(a), Nov. 12, 1999, 113 Stat. 1401; Pub. L. 106–554, §1(a)(5) [title II, §208(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435; Pub. L. 108–359, §1(b), Oct. 25, 2004, 118 Stat. 1666; Pub. L. 111–203, title IX, §985(a)(1), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title IV, §401(a), Apr. 5, 2012, 126 Stat. 323; Pub. L. 112–142, §2, July 9, 2012, 126 Stat. 989.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 103 of title 26, referred to in subsec. (a)(2), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2) (formerly section 103(c)(2)), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
@@ -168,6 +170,8 @@ Subsec. (b). Pub. L. 91–565 substituted "$500,000" for "$300,000".
 
 **1934**—Subsec. (a). Act June 6, 1934, amended pars. (2), (4), and (8) and added pars. (9) to (11).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -214,10 +218,6 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 Section 214 of act Feb. 4, 1887 (the Interstate Commerce Act), as added Aug. 9, 1935, ch. 498, 49 Stat. 557, cited as a credit to this section, was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2443, 2444.
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Further Promoting the Adoption of the NAIC Model Regulations That Enhance Protection of Seniors and Other Consumers ####
 
 Pub. L. 111–203, title IX, §989J, July 21, 2010, 124 Stat. 1949, provided that:
@@ -249,5 +249,11 @@ Pub. L. 111–203, title IX, §989J, July 21, 2010, 124 Stat. 1949, provided tha
 #### Securities and Investment Company Provisions Inapplicable to Certain Life Insurance Benefits Issued Prior to March 23, 1959 ####
 
 Pub. L. 91–547, §29, Dec. 14, 1970, 84 Stat. 1436, provided that: "The provisions of the Securities Act of 1933 [this subchapter] and the Investment Company Act of 1940 [section 80a–1 et seq. of this title] shall not apply, except for purposes of definition of terms used in this section, to any interest or participation (including any separate account or other fund providing for the sharing of income or gains and losses, and any interest or participation in such account or fund) in any contract, certificate, or policy providing for life insurance benefits which was issued prior to March 23, 1959, by an insurance company, if (1) the form of such contract, certificate, or policy was approved by the insurance commissioner, or similar official or agency, of a State, territory or the District of Columbia, and (2) under such contract, certificate, or policy not to exceed 49 per centum of the gross premiums or other consideration paid was to be allocated to a separate account or other fund providing for the sharing of income or gains and losses. Nothing herein contained shall be taken to imply that any such interest or participation constitutes a 'security' under any other laws of the United States."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See References in Text note below.](#77c_1)

@@ -54,6 +54,8 @@ In order to insure continuity of service to customers of public utilities, the C
 
 (June 10, 1920, ch. 285, pt. II, §202, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 848; amended Aug. 7, 1953, ch. 343, 67 Stat. 461; Pub. L. 95–617, title II, §206(a), Nov. 9, 1978, 92 Stat. 3141; Pub. L. 114–94, div. F, §61002, Dec. 4, 2015, 129 Stat. 1772.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsec. (c). Pub. L. 114–94, §61002(a), designated existing provisions as par. (1) and added pars. (2) to (5).
@@ -64,9 +66,13 @@ Subsec. (d). Pub. L. 114–94, §61002(b), inserted "or municipality" before "en
 
 **1953**—Subsec. (f). Act Aug. 7, 1953, added subsec. (f).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1978 Amendment ####
 
 Pub. L. 95–617, title II, §206(b), Nov. 9, 1978, 92 Stat. 3142, provided that: "The amendment made by subsection (a) [adding subsec. (g) of this section] shall not affect any proceeding of the Commission [Federal Energy Regulatory Commission] pending on the date of the enactment of this Act [Nov. 9, 1978] or any case pending on such date respecting a proceeding of the Commission."
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

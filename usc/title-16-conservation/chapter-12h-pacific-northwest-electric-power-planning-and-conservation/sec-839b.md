@@ -246,6 +246,8 @@ The Council may from time to time review the actions of the Administrator pursua
 
 (Pub. L. 96–501, §4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, §6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, §512, Sept. 30, 1996, 110 Stat. 3005; Pub. L. 106–60, title VI, §610, Sept. 29, 1999, 113 Stat. 502; Pub. L. 112–74, div. B, title III, §307, Dec. 23, 2011, 125 Stat. 877.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
@@ -271,6 +273,8 @@ September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the origi
 **1996**—Subsec. (h)(10)(D). Pub. L. 104–206, which directed that subpar. (D) be inserted after subsec. (h)(10)(C) of the Northwest Power Planning and Conservation Act, was executed by adding subsec. (h)(10)(D) to this section, which is from the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress.
 
 **1994**—Subsec. (h)(12)(A). Pub. L. 103–437 substituted "Committees on Energy and Commerce and on Natural Resources" for "Committees on Interstate and Foreign Commerce and on Interior and Insular Affairs".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

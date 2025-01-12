@@ -28,6 +28,8 @@ The exclusions in subsection (a) shall not apply to an identified bank product t
 
 (Pub. L. 106–554, §1(a)(5) [title IV, §403], Dec. 21, 2000, 114 Stat. 2763, 2763A–458; Pub. L. 111–203, title VII, §725(g)(2), July 21, 2010, 124 Stat. 1694.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in subsecs. (a)(1), (b)(2), and (c)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.
@@ -47,6 +49,8 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 "(1) an appropriate banking agency certifies that the product has been commonly offered, entered into, or provided in the United States by any bank on or before December 5, 2000, under applicable banking law; and
 
 "(2) the product was not prohibited by the Commodity Exchange Act and not regulated by the Commodity Futures Trading Commission as a contract of sale of a commodity for future delivery (or an option on such a contract) or an option on a commodity, on or before December 5, 2000."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

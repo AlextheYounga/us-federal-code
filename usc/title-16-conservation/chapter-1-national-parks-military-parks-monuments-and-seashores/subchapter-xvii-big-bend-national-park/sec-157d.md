@@ -4,6 +4,8 @@ The boundaries of Big Bend National Park, established by the Act of June 20, 193
 
 (Pub. L. 100–201, Dec. 22, 1987, 101 Stat. 1328.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 20, 1935, referred to in text, is act June 30, 1935, ch. 283, 49 Stat. 393, which is classified to sections 156, 157, and 158 of this title. For complete classification of this Act to the Code, see Tables.

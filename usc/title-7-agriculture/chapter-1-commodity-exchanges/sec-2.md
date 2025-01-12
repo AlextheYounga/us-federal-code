@@ -926,6 +926,8 @@ Exemptions from the requirements of subsection (h)(1) to clear a swap and subsec
 
 (Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) [title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749; Pub. L. 114–113, div. O, title VII, §705(a), Dec. 18, 2015, 129 Stat. 3025.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wall Street Transparency and Accountability Act of 2010, referred to in subsecs. (a)(1)(A), (G)(i), (H) and (i), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
@@ -1171,6 +1173,8 @@ Pub. L. 90–258, §1(a), extended definition of "commodity" in third sentence t
 **1936**—Subsec. (a). Act June 15, 1936, substituted "commodity", "any commodity", or "commodities", as the case may require, for "grain" wherever appearing, and "any cash commodity" for "cash grain", substituted sentence defining "commodity" for sentence defining "grain", and inserted definitions of "cooperative association of producers,", "member of a contract market", "futures commission merchant", "floor broker", and "the commission."
 
 Subsec. (b). Act June 15, 1936, §2, substituted "commodity" and "commodities", as the case may require, for "grain" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

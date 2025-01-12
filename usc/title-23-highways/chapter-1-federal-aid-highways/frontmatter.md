@@ -10,7 +10,7 @@ Sec.
 
 104. Apportionment.
 
-105. Additional deposits into Highway Trust Fund.
+[105. Repealed.]
 
 106. Project approval and oversight.
 
@@ -34,7 +34,7 @@ Sec.
 
 116. Maintenance.
 
-117. Nationally significant freight and highway projects.
+117. Nationally significant multimodal freight and highway projects.
 
 118. Availability of funds.
 
@@ -48,7 +48,7 @@ Sec.
 
 123. Relocation of utility facilities.
 
-[124. Repealed.]
+124. Bridge investment program.
 
 125. Emergency relief.
 
@@ -78,7 +78,7 @@ Sec.
 
 138. Preservation of parklands.
 
-139. Efficient environmental reviews for project decisionmaking.
+139. Efficient environmental reviews for project decisionmaking and One Federal Decision.
 
 140 Nondiscrimination.
 
@@ -114,7 +114,7 @@ Sec.
 
 156. Proceeds from the sale or lease of real property.
 
-[157. Repealed.]
+157. National Environmental Policy Act of 1969 reporting program.
 
 158. National minimum drinking age.
 
@@ -142,9 +142,23 @@ Sec.
 
 170. Funding flexibility for transportation emergencies.
 
+171. Wildlife crossings pilot program.
+
+172. Wildlife-vehicle collision reduction and habitat connectivity improvement.
+
+173. Rural surface transportation grant program.
+
+174. State human capital plans.
+
+175. Carbon reduction program.
+
+176. Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. A, title I, §§11110(b), 11118(b), 11123(b)(2), 11123(c)(2), 11132(b), 11203(b), 11301(b), 11312(b), 11403(b), 11405(b), 11501(b), Nov. 15, 2021, 135 Stat. 475, 495, 502, 505, 514, 520, 530, 539, 558, 575, 578, added items 124, 157, and 171 to 176, substituted "Nationally significant multimodal freight and highway projects" for "Nationally significant freight and highway projects" in item 117 and "Efficient environmental reviews for project decisionmaking and One Federal Decision" for "Efficient environmental reviews for project decisionmaking" in item 139, and struck out item 105 "Additional deposits into Highway Trust Fund".
 
 **2015**—Pub. L. 114–94, div. A, title I, §§1105(b), 1109(c)(6)(A), 1116(b), 1403(b), 1413(b), Dec. 4, 2015, 129 Stat. 1337, 1344, 1356, 1409, 1418, substituted "Surface transportation block grant program" for "Surface transportation program" in item 133, "National highway freight program" for "National freight program" in item 167, and added items 105, 117, and 151.
 

@@ -14,6 +14,8 @@ Nothing in this section shall be construed to diminish, impair, or otherwise aff
 
 (June 6, 1934, ch. 404, title I, §37, as added Pub. L. 108–447, div. H, title V, §520(2), Dec. 8, 2004, 118 Stat. 3267.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title and Codification note below.

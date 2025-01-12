@@ -4,6 +4,8 @@ The administration, protection, and development of the aforesaid parks shall be 
 
 (May 22, 1926, ch. 363, §3, 44 Stat. 616; Feb. 16, 1928, ch. 59, §1, 45 Stat. 109; Feb. 4, 1932, ch. 19, §1, 47 Stat. 37; June 15, 1934, ch. 538, §1, 48 Stat. 964.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes,", referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -17,6 +19,8 @@ The Federal Power Act, referred to in text, was in the original the "Act approve
 **1932**—Act Feb. 4, 1932, changed minimum area for Shenandoah National Park to 160,000 acres.
 
 **1928**—Act Feb. 16, 1928, changed minimum area for Shenandoah National Park to 327,000 acres.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

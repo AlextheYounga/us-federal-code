@@ -34,6 +34,8 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 (May 27, 1933, ch. 38, title III, §315, as added Aug. 3, 1939, ch. 411, 53 Stat. 1171; amended Pub. L. 101–550, title IV, §414, Nov. 15, 1990, 104 Stat. 2730.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (a). Pub. L. 101–550, §414(1), (2), substituted "The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to" for "The indenture to be qualified may" and "the indenture trustee shall examine" for "such indenture shall contain provisions requiring the indenture trustee to examine".

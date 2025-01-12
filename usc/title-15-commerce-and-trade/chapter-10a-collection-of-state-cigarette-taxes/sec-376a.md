@@ -318,6 +318,8 @@ For purposes of this chapter, a delivery sale shall be deemed to have occurred i
 
 (Oct. 19, 1949, ch. 699, §2A, as added Pub. L. 111–154, §2(c), Mar. 31, 2010, 124 Stat. 1091; amended Pub. L. 116–260, div. FF, title VI, §602(a)(2), Dec. 27, 2020, 134 Stat. 3137.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Prevent All Cigarette Trafficking Act of 2009, referred to in subsec. (e)(1)(A), (5)(C)(i), is Pub. L. 111–154, Mar. 31, 2010, 124 Stat. 1087, also known as the PACT Act. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 375 of this title and Tables.
@@ -327,6 +329,8 @@ For the date subsection (e) of this section goes into effect, referred to in sub
 #### Amendments ####
 
 **2020**—Subsec. (b)(1). Pub. L. 116–260 inserted "NICOTINE/" after "CIGARETTES/".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

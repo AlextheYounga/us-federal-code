@@ -192,6 +192,8 @@ The Commission shall, by rule, require each issuer to disclose in any proxy or c
 
 (June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–123, §6, Jan. 16, 2002, 115 Stat. 2396; Pub. L. 111–203, title IX, §§953(a), 955, 971(a), 991(b)(3), July 21, 2010, 124 Stat. 1903, 1904, 1915, 1953; Pub. L. 112–106, title I, §102(a)(2), Apr. 5, 2012, 126 Stat. 309.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -248,6 +250,8 @@ Subsec. (b). Pub. L. 88–467, §5(b), substituted provisions which make it unla
 
 Subsec. (c). Pub. L. 88–467, §5(c), added subsec. (c).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 953(a), 955, and 971(a) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -286,10 +290,6 @@ Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided 
 
 Amendment by Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of this chapter or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Study and Report on Shareholder Access to Proxy Statements ####
 
 Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided that the Securities and Exchange Commission should conduct a study to determine if shareholder access to proxy statements pursuant to this section had been impaired by recent statutory, judicial, or regulatory changes and the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements, and provided that the Commission report the study and any recommendations to Congress by 1 year after Oct. 11, 1996.
@@ -299,6 +299,8 @@ Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided th
 Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided that the Comptroller General of the United States should, within 18 months after Dec. 17, 1993, conduct a study of the use of fairness opinions in limited partnership rollup transactions, the standards which preparers use in making determinations of fairness, the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers, the nature and quality of disclosures provided with respect to such opinions, any conflicts of interest concerning such opinions, and the usefulness of the opinions to limited partners, with a report required to be sent to Congress by the end of the 18-month period.
 
 #### Adjustment of Registration Fee Rate ####
+
+By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
 
@@ -317,5 +319,11 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See Adjustment of Registration Fee Rate notes below.](#78n_1)

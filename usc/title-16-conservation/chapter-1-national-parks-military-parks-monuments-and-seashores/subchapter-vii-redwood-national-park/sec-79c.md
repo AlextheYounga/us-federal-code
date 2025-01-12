@@ -30,6 +30,8 @@ In order to afford as full protection as is reasonably possible to the timber, s
 
 (Pub. L. 90–545, §3, Oct. 2, 1968, 82 Stat. 931; Pub. L. 95–250, title I, §101(a)(3)–(6), Mar. 27, 1978, 92 Stat. 163–165.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4(b) of the Land and Water Conservation Fund Act of 1965, referred to in subsec. (b)(2), probably means section 5(b), formerly section 4(b), of Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 900, which was classified to section 460l–7(b) of this title and which related to advance appropriations. Section 5(b) was repealed by Pub. L. 94–422, title I, §101(2), Sept. 28, 1976, 90 Stat. 1314. The remainder of section 5 was repealed and restated as section 200304 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.

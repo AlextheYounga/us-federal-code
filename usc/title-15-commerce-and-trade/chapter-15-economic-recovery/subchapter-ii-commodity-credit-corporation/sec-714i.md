@@ -4,6 +4,8 @@ The Corporation may, with the consent of the agency concerned, accept and utiliz
 
 (June 29, 1948, ch. 704, §11, 62 Stat. 1073; Pub. L. 104–127, title I, §161(b)(2), Apr. 4, 1996, 110 Stat. 934; Pub. L. 115–334, title X, §10112, Dec. 20, 2018, 132 Stat. 4908.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Agriculture Improvement Act of 2018, referred to in text, is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. Title X of the Act enacted subchapter VII of chapter 38 and sections 1627c and 6521a of Title 7, Agriculture, amended this section and sections 136a, 1622b, 1632a, 1632b, 2204h, 2207b, 2276, 2401, 2402, 2541, 2568, 3003, 5925c, 6502, 6514, 6515, 6518, 6519, 6521–6523, and 7655a of Title 7, repealed sections 3005 and 3006 of Title 7, enacted provisions set out as notes under sections 1627c, 1639o, 6503, and 6521a of Title 7, and amended provisions set out as a note under section 1621 of Title 7. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of Title 7 and Tables.
@@ -14,10 +16,14 @@ The Agriculture Improvement Act of 2018, referred to in text, is Pub. L. 115–3
 
 **1996**—Pub. L. 104–127 inserted at end "After September 30, 1996, the total amount of all allotments and fund transfers from the Corporation under this section (including allotments and transfers for automated data processing or information resource management activities) for a fiscal year may not exceed the total amount of the allotments and transfers made under this section in fiscal year 1995."
 
-#### Exceptions From Transfer of Functions ####
-
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Clarification of Use of Funds for Technical Assistance ####
 
 Pub. L. 113–79, title X, §10017, Feb. 7, 2014, 128 Stat. 953, provided that: "In the case of each program established or amended by this title [title X of Pub. L. 113–79, see Tables for classification] that is authorized or required to be carried out using funds of the Commodity Credit Corporation, the use of those funds to provide technical assistance shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 11 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714i)."
+
+#### **Executive Documents** ####
+
+#### Exceptions From Transfer of Functions ####
+
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.

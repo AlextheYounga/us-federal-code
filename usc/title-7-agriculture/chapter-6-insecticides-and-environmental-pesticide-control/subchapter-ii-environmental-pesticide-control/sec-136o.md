@@ -64,6 +64,8 @@ The Secretary of the Treasury, in consultation with the Administrator, shall pre
 
 (June 25, 1947, ch. 125, §17, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §18(a), Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title VIII, §801(j), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, §1006(a)(9), (b)(2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 110–234, title XIV, §14209(a), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, §4(a), title XIV, §14209(a), June 18, 2008, 122 Stat. 1664, 2225; Pub. L. 113–79, title X, §10008, Feb. 7, 2014, 128 Stat. 948.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Plant Protection Act, referred to in subsec. (c)(4)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
@@ -89,6 +91,8 @@ Subsec. (c). Pub. L. 102–237, §1006(b)(2), substituted "the Administrator's" 
 **1978**—Subsec. (a). Pub. L. 95–396, §18(a)(1), amended subsec. (a) generally.
 
 Subsec. (b). Pub. L. 95–396, §18(a)(2), inserted sentence at end relating to information to be included in notification.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

@@ -4,6 +4,8 @@ Nothing in this subchapter shall be held to deprive the State of Virginia, or an
 
 (July 3, 1930, ch. 837, §6, 46 Stat. 856; June 5, 1936, ch. 525, §2, 49 Stat. 1483.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act referred to in section 81g of this title, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act. See References in Text note set out under section 81g of this title.
@@ -11,6 +13,8 @@ The Act referred to in section 81g of this title, referred to in text, is act Au
 #### Codification ####
 
 Section was formerly classified to section 443e of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

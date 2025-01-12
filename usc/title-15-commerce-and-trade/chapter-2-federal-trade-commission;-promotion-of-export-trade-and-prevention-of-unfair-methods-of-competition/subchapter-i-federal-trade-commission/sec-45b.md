@@ -186,6 +186,8 @@ This section shall take effect on December 14, 2016, except that—
 
 (Pub. L. 114–258, §2, Dec. 14, 2016, 130 Stat. 1355.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Trade Commission Act, referred to in subsecs. (d)(2) and (h), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.

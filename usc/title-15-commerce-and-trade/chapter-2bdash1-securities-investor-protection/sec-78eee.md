@@ -140,6 +140,8 @@ SIPC shall be deemed to be a party in interest as to all matters arising in a li
 
 (Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12, 2006, 120 Stat. 2698; Pub. L. 111–203, title IX, §929H(b), July 21, 2010, 124 Stat. 1857.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a)(3)(B), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
@@ -185,6 +187,8 @@ Subsec. (b)(5)(E), (F). Pub. L. 95–598, §308(f)(5), redesignated subpar. (F) 
 Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted "protective" after "of" in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted "Jurisdiction and powers of court" for "Exclusive jurisdiction over debtor" in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted "and attorney" after "trustee" in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted "Reference to referee in bankruptcy" for "Debtor and filing date defined" in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms "debtor" and "filing date", and added pars. (5) and (6).
 
 Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

@@ -4,6 +4,8 @@ The provisions of the Act of August 9, 1916, entitled "An Act to establish the L
 
 (Jan. 19, 1929, ch. 75, §2, 45 Stat. 1082.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of August 9, 1916, entitled "An Act to establish the Lassen Volcanic National Park in the Sierra Nevada Mountains in the State of California, and for other purposes,", referred to in text, is act Aug. 9, 1916, ch. 302, 39 Stat. 442, which enacted sections 201, 202, and 203 of this title. For complete classification of this Act to the Code, see Tables.

@@ -8,9 +8,13 @@ Not later than 180 days after July 21, 2010, the Commission shall issue rules th
 
 (June 6, 1934, ch. 404, title I, §14B, as added Pub. L. 111–203, title IX, §972, July 21, 2010, 124 Stat. 1915.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 July 21, 2010, referred to in text, was in the original "the date of enactment of this subsection", and was translated as meaning the date of enactment of Pub. L. 111–203, which enacted this section, to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

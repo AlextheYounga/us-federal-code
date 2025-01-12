@@ -154,6 +154,8 @@ Notwithstanding any other provision of this section, rates established by the Ad
 
 (Pub. L. 96–501, §7, Dec. 5, 1980, 94 Stat. 2723; Pub. L. 106–60, title III, §316, Sept. 29, 1999, 113 Stat. 497.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.

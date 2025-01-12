@@ -474,6 +474,8 @@ If the counterparty does not choose to require segregation of the funds or other
 
 (Sept. 21, 1922, ch. 369, §4s, as added and amended Pub. L. 111–203, title VII, §§724(c), 731, July 21, 2010, 124 Stat. 1684, 1703; Pub. L. 114–1, title III, §302(a), Jan. 12, 2015, 129 Stat. 28.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Exchange Act of 1934, referred to in subsec. (e)(3)(B)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -485,6 +487,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(
 **2015**—Subsec. (e)(4). Pub. L. 114–1 added par. (4).
 
 **2010**—Subsec. (l). Pub. L. 111–203, §724(c), added subsec. (l).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -8,6 +8,8 @@ For the purpose of enforcing these provisions the Federal Trade Commission shall
 
 (Apr. 10, 1918, ch. 50, §5, 40 Stat. 517; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
@@ -16,9 +18,13 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 
 "Federal Trade Commission Act [15 U.S.C. 41 et seq.]" substituted in text for "An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes," on authority of section 18 of that Act [15 U.S.C. 58].
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorneys" for "district attorneys". See section 541 of Title 28, Judiciary and Judicial Procedure.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

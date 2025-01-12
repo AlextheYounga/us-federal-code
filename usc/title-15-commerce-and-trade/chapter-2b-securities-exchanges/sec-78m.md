@@ -712,6 +712,8 @@ The provisions of this subsection shall terminate on the date that is 30 days af
 
 (June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (a), was in the original "this Act", and this chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), (i), and (n)(6)(B)(v), (C)(i)(I), (7)(A), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -822,6 +824,8 @@ Subsec. (e)(2). Pub. L. 91–567, §2, inserted provisions empowering the Commis
 
 **1964**—Subsec. (a). Pub. L. 88–467 substituted provisions which require the issuer of a security registered pursuant to section 78l of this title to file reports with the Commission rather than with the exchange and to furnish the exchange with duplicate originals and prohibit the Commission from requiring the filing of any material contract wholly executed before July 1, 1962 for former provisions which required the issuer of a security registered on a national securities exchange to file certain reports with the exchange and to file duplicates with the Commission.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2015 Amendment ####
 
 Amendment by Pub. L. 114–94 effective as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111–203, see section 86001(d) of Pub. L. 114–94, set out as a note under section 7a–1 of Title 7, Agriculture.
@@ -853,10 +857,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1964 Amendment ####
 
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under section 78c of this title.
-
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Improving Access to Capital ####
 
@@ -992,6 +992,8 @@ Pub. L. 106–102, title II, §241, Nov. 12, 1999, 113 Stat. 1407, provided that
 
 #### Adjustment of Registration Fee Rate ####
 
+By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
+
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
 
 By order dated Aug. 24, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $121.20 per $1,000,000, effective Oct. 1, 2018, see 83 F.R. 44101.
@@ -1009,6 +1011,12 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Assignment of Function Relating to Granting of Authority for Issuance of Certain Directives ####
 

@@ -304,6 +304,8 @@ It shall be unlawful for any person to effect a transaction in a security-based 
 
 (June 6, 1934, ch. 404, title I, §6, 48 Stat. 885; Pub. L. 94–29, §4, June 4, 1975, 89 Stat. 104; Pub. L. 100–181, title III, §§309–312, Dec. 4, 1987, 101 Stat. 1255; Pub. L. 103–202, title III, §303(b), Dec. 17, 1993, 107 Stat. 2365; Pub. L. 106–554, §1(a)(5) [title II, §§202(a), 206(a), (i), (k)(2), (l)], Dec. 21, 2000, 114 Stat. 2763, 2763A–416, 2763A–426, 2763A–433, 2763A–434; Pub. L. 111–203, title VII, §§721(e)(8), 734(b)(2), 763(e), title IX, §957, July 21, 2010, 124 Stat. 1671, 1718, 1777, 1906.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (b) to (e), (g)(4)(A), (h)(3)(G), (7)(C)(ii), and (i), was in the original "this title". This chapter, referred to in subsec. (h)(6), was in the original "this Act". See References in Text note set out under section 78a of this title.
@@ -352,6 +354,8 @@ Subsec. (e)(3), (4). Pub. L. 100–181, §312(2), (3), redesignated par. (4) as 
 
 **1975**—Pub. L. 94–29 restructured the entire section and, in addition, authorized the Commission to require an exchange to file such documents and information as it deems necessary or appropriate in the public interest or for the protection of investors and to prescribe the form and substance of an exchange's application for registration, expanded to eight the number of explicit statutory requirements that must be satisfied before an exchange may be registered as a national securities exchange, set forth the authority of a national securities exchange to admit or deny persons membership or association with members, prescribed exchange procedures for instituting disciplinary actions, denying membership, and summarily suspending members or persons associated with members, specified the authority of national securities exchanges to impose schedules or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for transacting business on the exchange, and empowered the Commission to regulate any broker or dealer who effects transactions on an exchange on a regular basis but who is not a member of that exchange and any person who effects transactions on an exchange without the services of another person acting as broker.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by section 957 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -378,12 +382,14 @@ Pub. L. 103–202, title III, §304, Dec. 17, 1993, 107 Stat. 2367, provided tha
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, except for amendment of subsecs. (a) through (d) by Pub. L. 94–29 to be effective 180 days after June 4, 1975, with provisions of subsecs. (b)(2) and (c)(6), as amended by Pub. L. 94–29, or rules or regulations thereunder, not to apply in a way so as to deprive any person of membership in any national securities exchange (or its successor) of which such person was, on June 4, 1975, a member or a member firm as defined in the constitution of such exchange, or so as to deny membership in any such exchange (or its successor) to a natural person who is or becomes associated with such member or member firm, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Changes in Organization and Rules of National Securities Exchanges and Registered Securities Associations ####
 
 Pub. L. 94–29, §31(b), June 4, 1975, 89 Stat. 170, provided that: "If it appears to the Commission at any time within one year of the effective date of any amendment made by this Act [see Short Title of 1975 Amendment note under section 78a of this title] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act [June 4, 1975] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 [section 78s(h) of this title], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See References in Text note below.](#78f_1)

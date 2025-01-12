@@ -48,6 +48,8 @@ Sections were repealed effective one year from July 5, 1946, insofar as inconsis
 
 Sections 98 and 127 were rerepealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992, eff. Sept. 1, 1948.
 
+#### **Editorial Notes** ####
+
 #### Derivation ####
 
 Sections were derived from the following acts:

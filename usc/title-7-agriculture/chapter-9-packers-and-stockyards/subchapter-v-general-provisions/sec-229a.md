@@ -6,6 +6,8 @@ Section, act Aug. 15, 1921, ch. 64, title IV, §416, as added Pub. L. 105–277,
 
 For termination of repeal by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination Date of Repeal ####
 
 Repeal by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title. Section 942 of Pub. L. 106–78 to be applied by substituting "September 30, 2021" for "September 30, 2020", see section 401 of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under section 1636i of this title.

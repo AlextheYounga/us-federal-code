@@ -54,20 +54,54 @@ Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, a
 
 #### Indian Reservation Drinking Water Program ####
 
-Pub. L. 115–270, title II, §2001, Oct. 23, 2018, 132 Stat. 3840, provided that:
+Pub. L. 115–270, title II, §2001, Oct. 23, 2018, 132 Stat. 3840, as amended by Pub. L. 117–58, div. E, title I, §50111, Nov. 15, 2021, 135 Stat. 1152, provided that:
 
-"(a) In General.—Subject to the availability of appropriations, the Administrator of the Environmental Protection Agency shall carry out a program to implement—
-
-"(1) 10 eligible projects described in subsection (b) that are within the Upper Missouri River Basin; and
-
-"(2) 10 eligible projects described in subsection (b) that are within the Upper Rio Grande Basin.
+"(a) In General.—The Administrator of the Environmental Protection Agency (referred to in this section as the 'Administrator') shall carry out a program to implement eligible projects described in subsection (b).
 
 "(b) Eligible Projects.—A project eligible to participate in the program under subsection (a) is a project—
 
 "(1) that is on a reservation (as defined in section 3 of the Indian Financing Act of 1974 (25 U.S.C. 1452)) that serves a federally recognized Indian Tribe; and
 
-"(2) the purpose of which is to connect, expand, or repair an existing public water system, as defined in section 1401(4) of the Safe Drinking Water Act (42 U.S.C. 300f(4)), in order to improve water quality, water pressure, or water services.
+"(2) that will—
 
-"(c) Requirement.—In carrying out the program under subsection (a)(1), the Administrator of the Environmental Protection Agency shall select not less than one eligible project for a reservation that serves more than one federally recognized Indian Tribe.
+"(A) improve water quality, water pressure, or water services through means such as connecting to, expanding, repairing, improving, or obtaining water from a public water system (as defined in section 1401 of the Safe Drinking Water Act (42 U.S.C. 300f)); or
 
-"(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out the program under subsection (a) $20,000,000 for each of fiscal years 2019 through 2022."
+"(B) improve water quality or sanitation or wastewater services at a treatment works (as defined in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292)).
+
+"(c) Required Projects.—
+
+"(1) In general.—If sufficient projects exist, of the funds made available to carry out this section, the Administrator shall use 50 percent to carry out—
+
+"(A) 10 eligible projects described in subsection (b) that are within the Upper Missouri River Basin;
+
+"(B) 10 eligible projects described in subsection (b) that are within the Upper Rio Grande Basin;
+
+"(C) 10 eligible projects described in subsection (b) that are within the Columbia River Basin;
+
+"(D) 10 eligible projects described in subsection (b) that are within the Lower Colorado River Basin; and
+
+"(E) 10 eligible projects described in subsection (b) that are within the Arkansas-White-Red River Basin.
+
+"(2) Requirement.—In carrying out paragraph (1)(A), the Administrator shall select not fewer than 2 eligible projects for a reservation that serves more than 1 federally recognized Indian Tribe.
+
+"(d) Priority.—In selecting projects to carry out under this section, the Administrator shall give priority to projects that—
+
+"(1) respond to emergency situations occurring due to or resulting in a lack of access to clean drinking water that threatens the health of Tribal populations;
+
+"(2) would serve a Tribal population that would qualify as a disadvantaged community based on the affordability criteria established by the applicable State under section 1452(d)(3) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(3)); or
+
+"(3) would address the underlying factors contributing to—
+
+"(A) an enforcement action commenced pursuant to the Safe Drinking Water Act (42 U.S.C. 300f et seq.) against the applicable public water system (as defined in section 1401 of that Act (42 U.S.C. 300f)) as of the date of enactment of this subparagraph [Nov. 15, 2021]; or
+
+"(B) an enforcement action commenced pursuant to the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) against the applicable treatment works (as defined in section 212 of that Act (33 U.S.C. 1292)) as of the date of enactment of this subparagraph.
+
+"(e) Federal Share.—The Federal share of the cost of a project carried out under this section shall be 100 percent.
+
+"(f) Report.—Not later than 2 years after the date of enactment of this subsection [Nov. 15, 2021], the Administrator shall submit to Congress a report that describes the implementation of the program established under subsection (a), which shall include a description of the use and deployment of amounts made available under that program.
+
+"(g) Authorization of Appropriations.—There are authorized to be appropriated to carry out the program under subsection (a)—
+
+"(1) $20,000,000 for each of fiscal years 2019 through 2021; and
+
+"(2) $50,000,000 for each of fiscal years 2022 through 2026."

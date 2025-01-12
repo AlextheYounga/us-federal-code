@@ -70,7 +70,7 @@ Sec.
 
 2238b. Funding for harbor maintenance programs.
 
-2238b–1. Budgetary treatment expansion and adjustment for harbor maintenance trust fund.
+2238b–1. Budgetary treatment expansion and adjustment for the Harbor Maintenance Trust Fund.
 
 2238c. Additional measures at donor ports and energy transfer ports.
 

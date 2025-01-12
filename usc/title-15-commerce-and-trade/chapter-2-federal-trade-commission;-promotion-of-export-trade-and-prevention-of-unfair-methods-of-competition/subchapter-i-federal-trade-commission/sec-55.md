@@ -42,6 +42,8 @@ For the purposes of this section and section 347 of title 21, the term "oleomarg
 
 (Sept. 26, 1914, ch. 311, §15, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114; amended Mar. 16, 1950, ch. 61, §4(a), (b), 64 Stat. 21; Pub. L. 94–295, §3(a)(1)(B), May 28, 1976, 90 Stat. 575.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Subsec. (d). Pub. L. 94–295 expanded definition of "device" to include implements, machines, implants, in vitro reagents, and other similar or related articles, added recognition in the National Formulary or the United States Pharmacopeia, or any supplement to the Formulary or Pharmacopeia, to the enumeration of conditions under which a device may qualify for inclusion under this chapter, and inserted requirements that a device be one which does not achieve any of its principal intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of any of its principal intended purposes.
@@ -49,6 +51,8 @@ For the purposes of this section and section 347 of title 21, the term "oleomarg
 **1950**—Subsec. (a). Act Mar. 16, 1950, §4(a), designated existing provisions as par. (1) and added par. (2) relating to oleomargarine.
 
 Subsec. (f). Act Mar. 16, 1950, §4(b), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1950 Amendment ####
 

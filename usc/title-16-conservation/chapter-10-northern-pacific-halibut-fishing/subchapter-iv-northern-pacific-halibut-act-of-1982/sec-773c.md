@@ -18,9 +18,13 @@ The Regional Fishery Management Council having authority for the geographic area
 
 (Pub. L. 97–176, §5, May 17, 1982, 96 Stat. 79; Pub. L. 104–208, div. A, title I, §101(a) [title II, §211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1853(b)(6) of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

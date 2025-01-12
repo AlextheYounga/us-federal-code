@@ -4,6 +4,8 @@ All hunting or the killing, wounding, or capturing at any time of any wild bird 
 
 (Apr. 26, 1928, ch. 438, §4, 45 Stat. 463.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Apr. 26, 1928, which is classified to sections 204 to 204j of this title. For complete classification of this Act to the Code, see Tables.

@@ -8,6 +8,8 @@ It shall be unlawful for any registered broker or dealer, member of a national s
 
 (June 6, 1934, ch. 404, title I, §8, 48 Stat. 888; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Pub. L. 94–29, §5, June 4, 1975, 89 Stat. 109; Pub. L. 98–440, title I, §103, Oct. 3, 1984, 98 Stat. 1690; Pub. L. 103–325, title II, §204, Sept. 23, 1994, 108 Stat. 2199; Pub. L. 104–290, title I, §104(b), Oct. 11, 1996, 110 Stat. 3423.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–290 redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out former subsec. (a) which related to borrowing in ordinary course of business as broker or dealer on any security, except exempted security, registered on national securities exchange.
@@ -20,6 +22,8 @@ It shall be unlawful for any registered broker or dealer, member of a national s
 
 Subsecs. (b) to (d). Pub. L. 94–29, §5(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and in subsec. (c) as so redesignated inserted "or in contravention of such rules and regulations as the Commissioner shall prescribe for the protection of investors" after "written consent of such customer". Former subsec. (b), which covered the maximum allowable aggregate indebtedness of brokers, was struck out.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Act Aug. 23, 1935, substituted "Board of Governors of the Federal Reserve System" for "Federal Reserve Board".
@@ -27,6 +31,8 @@ Act Aug. 23, 1935, substituted "Board of Governors of the Federal Reserve System
 #### Effective Date of 1975 Amendment ####
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

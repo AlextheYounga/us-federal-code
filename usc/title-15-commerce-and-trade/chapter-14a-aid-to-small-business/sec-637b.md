@@ -20,6 +20,8 @@ Subsection (a) shall not apply to any contract or subcontract under such contrac
 
 (Pub. L. 95–507, title II, §223, Oct. 24, 1978, 92 Stat. 1772.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

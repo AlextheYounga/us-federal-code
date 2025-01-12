@@ -10,6 +10,8 @@ For the purposes of enforcing the provisions of this subchapter, any producer, d
 
 (June 25, 1947, ch. 125, §8, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 987; amended Pub. L. 95–396, §14, Sept. 30, 1978, 92 Stat. 829; Pub. L. 100–532, title III, §301, Oct. 25, 1988, 102 Stat. 2668; Pub. L. 102–237, title X, §1006(b)(1), Dec. 13, 1991, 105 Stat. 1895.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 8 of act June 25, 1947, was classified to section 135f of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
@@ -21,6 +23,8 @@ A prior section 8 of act June 25, 1947, was classified to section 135f of this t
 **1988**—Subsec. (a). Pub. L. 100–532 inserted ", registrants, and applicants for registration" after "requiring producers" and "and to make the records available for inspection and copying in the same manner as provided in subsection (b) of this section" before period at end of first sentence.
 
 **1978**—Subsec. (b). Pub. L. 95–396 required, in connection with inspection of records and information, the presentation of credentials, written statement as to the reason for inspection, including statement of suspected violation, or an alternative but sufficient reason, and commencement and completion of inspection with reasonable promptness.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

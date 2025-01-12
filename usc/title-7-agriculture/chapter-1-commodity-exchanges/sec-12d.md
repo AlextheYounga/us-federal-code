@@ -4,9 +4,13 @@ The Commission may, in accordance with the procedures provided for in this chapt
 
 (Sept. 21, 1922, ch. 369, §8d, as added Pub. L. 97–444, title II, §226, Jan. 11, 1983, 96 Stat. 2316.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 612c–3 of this title, referred to in text, was repealed by Pub. L. 101–624, title XV, §1578, Nov. 28, 1990, 104 Stat. 3702.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

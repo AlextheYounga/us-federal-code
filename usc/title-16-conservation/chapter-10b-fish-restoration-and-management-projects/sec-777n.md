@@ -4,6 +4,8 @@ Section, act Aug. 9, 1950, ch. 658, §15, as added Pub. L. 109–59, title X, §
 
 A prior section 15 of act Aug. 9, 1950, was renumbered section 16 and is set out as a note under section 777 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.

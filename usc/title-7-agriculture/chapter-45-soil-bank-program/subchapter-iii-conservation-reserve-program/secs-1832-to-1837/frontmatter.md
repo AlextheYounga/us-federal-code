@@ -12,6 +12,8 @@ Section 1836, acts May 28, 1956, ch. 327, title I, §112, 70 Stat. 195; Sept. 14
 
 Section 1837, acts May 28, 1956, ch. 327, title I, §113, 70 Stat. 195; June 25, 1959, Pub. L. 86–70, §5, 73 Stat. 142; July 12, 1960, Pub. L. 86–624, §3, 74 Stat. 411, authorized Secretary to apply Soil Bank Program to Puerto Rico and Virgin Islands in addition to several States if such application would be in national interest.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 89–321, title VI, §601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.

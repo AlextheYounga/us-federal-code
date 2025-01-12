@@ -192,6 +192,8 @@ A household, industrial, or institutional antimicrobial product that is not subj
 
 (June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507; Pub. L. 110–234, title XIV, §14209(b), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, §4(a), title XIV, §14209(b), June 18, 2008, 122 Stat. 1664, 2225.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this subsection, referred to in subsecs. (e), (f)(1)(A), (2), and (g)(2), is 60 days after Oct. 25, 1988, the effective date of Pub. L. 100–532. See Effective Date of 1988 Amendment note below.
@@ -219,6 +221,8 @@ Subsec. (f)(2). Pub. L. 100–532, §801(q)(1)(D), substituted "136i" for "136b"
 Subsecs. (g), (h). Pub. L. 100–532, §403, added subsecs. (g) and (h).
 
 **1978**—Subsec. (c). Pub. L. 95–396 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

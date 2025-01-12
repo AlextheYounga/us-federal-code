@@ -4,6 +4,8 @@ There is appropriated annually, out of funds in the Treasury not otherwise appro
 
 (Aug. 30, 1890, ch. 841, §5, as added Pub. L. 92–318, title V, §506(c), June 23, 1972, 86 Stat. 350; amended Pub. L. 96–374, title XIII, §1361(b), Oct. 3, 1980, 94 Stat. 1502; Pub. L. 99–396, §9(b), Aug. 27, 1986, 100 Stat. 840; Pub. L. 100–339, §2, June 17, 1988, 102 Stat. 620; Pub. L. 103–382, title III, §352, Oct. 20, 1994, 108 Stat. 3966.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Appropriated by section 322 of this title" substituted in text for "appropriated by the first sentence of section 1". The first sentence of section 1 of act Aug. 30, 1890, is classified to sections 322 and 323 of this title, but section 322 only contains the appropriation provision.
@@ -17,6 +19,8 @@ There is appropriated annually, out of funds in the Treasury not otherwise appro
 **1986**—Pub. L. 99–396 substituted "Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands)" for "and Micronesia, and Guam".
 
 **1980**—Pub. L. 96–374 inserted references to American Samoa and Micronesia.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

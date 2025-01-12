@@ -10,6 +10,8 @@ All of those lands lying within the boundary lines above described and the prese
 
 (Mar. 1, 1929, ch. 437, §1, 45 Stat. 1435; Apr. 19, 1930, ch. 190, 46 Stat. 220.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1930**—Act Apr. 19, 1930, struck out *"Provided*, That whereas it is the purpose and intent of Congress to retain the areas hereby added to the park in its original wilderness character, therefore, no new roads shall be constructed and no hotels or permanent camps shall be authorized or permitted to be maintained on such lands".

@@ -10,6 +10,8 @@ There is authorized to be appropriated to carry out this subchapter (other than 
 
 (June 25, 1947, ch. 125, §35, formerly §27, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 998; amended Pub. L. 94–51, July 2, 1975, 89 Stat. 257; Pub. L. 94–109, Oct. 10, 1975, 89 Stat. 571; Pub. L. 94–140, §3, Nov. 28, 1975, 89 Stat. 752; renumbered §31 and amended Pub. L. 95–396, §§24(1), 25, Sept. 30, 1978, 92 Stat. 836, 838; Pub. L. 96–539, §3, Dec. 17, 1980, 94 Stat. 3195; Pub. L. 98–201, §2, Dec. 2, 1983, 97 Stat. 1380; Pub. L. 99–198, title XVII, §1768, Dec. 23, 1985, 99 Stat. 1656; Pub. L. 100–532, title VII, §701, Oct. 25, 1988, 102 Stat. 2679; renumbered §34, Pub. L. 104–170, title I, §121(1), Aug. 3, 1996, 110 Stat. 1492; renumbered §35, Pub. L. 108–199, div. G, title V, §501(f)(1), Jan. 23, 2004, 118 Stat. 422.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 1768 of Pub. L. 99–198 enacted sections 154a and 159 and amended sections 151, 154, and 157 of Title 21, Food and Drugs.
@@ -31,6 +33,8 @@ Another section 1768 of Pub. L. 99–198 enacted sections 154a and 159 and amend
 Pub. L. 94–109 inserted provisions authorizing appropriation of $5,983,500 for period beginning Oct. 1, 1975 and ending Nov. 15, 1975.
 
 Pub. L. 94–51 authorized appropriation of $11,967,000 to carry out provisions of this subchapter for period beginning July 1, 1975, and ending Sept. 30, 1975.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

@@ -18,6 +18,8 @@ Nothing in this Act alters any authority of the Secretary of Defense to conduct 
 
 (Pub. L. 103–433, title VIII, §802, Oct. 31, 1994, 108 Stat. 4501; Pub. L. 116–9, title I, §1460(b), Mar. 12, 2019, 133 Stat. 719.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsecs. (a), (b), and (d), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.
@@ -29,6 +31,8 @@ The Wilderness Act, referred to in subsecs. (a) and (b), is Pub. L. 88–577, Se
 **2019**—Subsecs. (a), (b). Pub. L. 116–9, §1460(b)(1), (2), inserted ", scenic areas, off-highway vehicle recreation areas, or special management areas" before "designated by this Act".
 
 Subsec. (d). Pub. L. 116–9, §1460(b)(3), added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title and Findings ####
 

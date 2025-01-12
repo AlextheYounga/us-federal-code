@@ -4,6 +4,8 @@ Sections, act Sept. 21, 1922, ch. 356, title III, §304(a), (b), 42 Stat. 936, r
 
 Corresponding provisions of Tariff Act of 1930, see section 1304 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective sixty days after enactment of repealing act.

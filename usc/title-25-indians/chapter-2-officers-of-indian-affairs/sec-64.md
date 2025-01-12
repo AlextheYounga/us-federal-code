@@ -10,6 +10,8 @@ It shall be the duty of the President to dispense with the services of such Indi
 
 R.S. §2053 derived from act Feb. 14, 1873, ch. 138, §1, 17 Stat. 437.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Indian Agents ####
 
 In a communication, dated November 29, 1940, from the Office of Indian Affairs of the Department of the Interior, it was stated that there have been no Indian agents since 1908, all of the agencies and schools having been placed under the supervision of superintendents.

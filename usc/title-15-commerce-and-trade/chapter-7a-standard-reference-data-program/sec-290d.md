@@ -4,6 +4,8 @@ Standard reference data conforming to standards established by the Secretary may
 
 (Pub. L. 90–396, §5, July 11, 1968, 82 Stat. 340.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 3, 1901, as amended, referred to in text, means act Mar. 3, 1901, ch. 872, 31 Stat. 1449, as amended, which is classified generally to chapter 7 (§271 et seq.) of this title. For complete classification of this Act to the Code, see Tables.

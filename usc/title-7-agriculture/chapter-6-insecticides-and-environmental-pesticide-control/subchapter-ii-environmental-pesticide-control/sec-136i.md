@@ -40,6 +40,8 @@ When establishing or approving standards for licensing or certification, the Adm
 
 (June 25, 1947, ch. 125, §11, formerly §§4, 11, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983, 989; amended Pub. L. 94–140, §§5, 11, Nov. 28, 1975, 89 Stat. 753, 754; Pub. L. 95–396, §9, Sept. 30, 1978, 92 Stat. 827; Pub. L. 100–532, title VIII, §801(c), (q)(1)(A)–(C), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, §1006(a)(6), (b)(1), (2), (3)(K), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 100–532, §801(q)(1)(A), transferred subsecs. (a) to (c) of section 4 of act June 25, 1947, which was classified to section 136b of this title, to subsecs. (a) to (c) of this section.
@@ -69,6 +71,8 @@ Subsec. (a)(1). Pub. L. 100–532, §801(c), substituted "pesticides. Such progr
 **1975**—Subsec. (a)(1). Pub. L. 94–140, §5, inserted proviso relating to Administrator's powers and duties with respect to the certification forms and requirement for pesticide dealers participating in certification program.
 
 Subsec. (c). Pub. L. 94–140, §11, added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

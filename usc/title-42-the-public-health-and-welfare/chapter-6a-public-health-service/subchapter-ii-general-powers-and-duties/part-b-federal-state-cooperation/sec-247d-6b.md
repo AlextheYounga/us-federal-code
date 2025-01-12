@@ -92,6 +92,14 @@ Not later than 3 years after June 24, 2019, and every 5 years thereafter, the Co
 
 Not later than 6 months after completing a classified version of the review under subparagraph (A), the Comptroller General shall submit an unclassified version of the review to the congressional committees of jurisdiction.
 
+#### (6) Transfers of items ####
+
+The Secretary, in coordination with the Secretary of Homeland Security, may sell drugs, vaccines and other biological products, medical devices, or other supplies maintained in the stockpile under paragraph (1) to a Federal agency or private, nonprofit, State, local, tribal, or territorial entity for immediate use and distribution, provided that any such items being sold are—
+
+(A) within 1 year of their expiration date; or
+
+(B) determined by the Secretary to no longer be needed in the stockpile due to advances in medical or technical capabilities.
+
 #### (b) Smallpox vaccine development ####
 
 #### (1) In general ####
@@ -430,7 +438,7 @@ In this section:
 
 (2) The term "special reserve fund" means the "Biodefense Countermeasures" appropriations account, any appropriation made available pursuant to section 321j(a) of title 6, and any appropriation made available pursuant to subsection (g)(1).
 
-(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144; Pub. L. 116–22, title IV, §403(a), (c), title V, §§502, 504(a), title VII, §702, June 24, 2019, 133 Stat. 943, 947, 950, 951, 962; Pub. L. 116–136, div. A, title III, §3102, Mar. 27, 2020, 134 Stat. 361.)
+(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144; Pub. L. 116–22, title IV, §403(a), (c), title V, §§502, 504(a), title VII, §702, June 24, 2019, 133 Stat. 943, 947, 950, 951, 962; Pub. L. 116–136, div. A, title III, §3102, Mar. 27, 2020, 134 Stat. 361; Pub. L. 117–58, div. G, title IX, §70953(f)(3), Nov. 15, 2021, 135 Stat. 1316.)
 
 #### **Editorial Notes** ####
 
@@ -467,6 +475,8 @@ In subsec. (c)(7)(B)(vii), "section 3306(a)(1)(B) of title 41" substituted for "
 Section was formerly classified to section 300hh–12 of this title prior to renumbering by Pub. L. 108–276.
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(6). Pub. L. 117–58 added par. (6).
 
 **2020**—Subsec. (a)(1). Pub. L. 116–136 inserted "(including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile)" after "other supplies".
 

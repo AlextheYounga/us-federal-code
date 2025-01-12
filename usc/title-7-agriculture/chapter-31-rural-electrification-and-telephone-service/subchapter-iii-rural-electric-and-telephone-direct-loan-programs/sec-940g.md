@@ -14,9 +14,13 @@ The rate of a loan under this section shall be equal to the average tax-exempt m
 
 (May 20, 1936, ch. 432, title III, §317, as added Pub. L. 110–234, title VI, §6108, May 22, 2008, 122 Stat. 1198, and Pub. L. 110–246, §4(a), title VI, §6108, June 18, 2008, 122 Stat. 1664, 1959.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

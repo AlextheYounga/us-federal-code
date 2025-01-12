@@ -24,6 +24,8 @@ There is authorized to be appropriated $3,000,000 to carry out this subsection.
 
 (Pub. L. 100–479, §3, Oct. 7, 1988, 102 Stat. 2325; Pub. L. 101–399, §1(b), Sept. 28, 1990, 104 Stat. 860; Pub. L. 104–333, div. I, title X, §1030, Nov. 12, 1996, 110 Stat. 4238; Pub. L. 106–176, title I, §127, Mar. 10, 2000, 114 Stat. 30.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–176, §127(b), made technical correction to directory language of Pub. L. 104–333. See 1996 Amendment note below.

@@ -10,6 +10,8 @@ Within 3 full fiscal years from the date funding is made available for the purpo
 
 (Pub. L. 101–313, title II, §205, June 27, 1990, 104 Stat. 279; Pub. L. 103–437, §6(d)(12), Nov. 2, 1994, 108 Stat. 4584.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–437 in introductory provisions substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

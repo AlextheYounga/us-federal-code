@@ -4,6 +4,8 @@ The site within the Hot Springs National Park fronting on Central Avenue and on 
 
 (Feb. 14, 1931, ch. 180, 46 Stat. 1109.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act August 24, 1912 (chapter 355, 37 Statutes 459), as it related to lease of property at Hot Springs, Arkansas, referred to in text, was classified to section 370 of this title and was omitted from the Code as superseded by this section. For complete classification of this Act to the Code, see Tables.

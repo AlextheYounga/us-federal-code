@@ -22,6 +22,8 @@ Provisions of this section which prescribed the annual basic compensation of the
 
 Act Oct. 15, 1949, ch. 695, §4, 63 Stat. 880, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 655.
 
+#### **Executive Documents** ####
+
 #### Exception as to Transfer of Functions ####
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

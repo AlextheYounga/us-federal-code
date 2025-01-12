@@ -1,5 +1,7 @@
 ### §§3431 to 3438. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 3431, Pub. L. 103–182, title IV, §401, Dec. 8, 1993, 107 Stat. 2129, which defined certain references in this part, was renumbered as section 411 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, §504(b)(1), (2), Jan. 29, 2020, 134 Stat. 72, and transferred to section 4581 of this title.
@@ -17,6 +19,8 @@ Section 3436, Pub. L. 103–182, title IV, §406, Dec. 8, 1993, 107 Stat. 2138, 
 Section 3437, Pub. L. 103–182, title IV, §407, Dec. 8, 1993, 107 Stat. 2138; Pub. L. 104–295, §21(c)(2), Oct. 11, 1996, 110 Stat. 3530, which related to identification of industries facing subsidized imports, was renumbered as section 417 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, §504(h)(1), (2), Jan. 29, 2020, 134 Stat. 75, 76, and transferred to section 4587 of this title.
 
 Section 3438, Pub. L. 103–182, title IV, §408, Dec. 8, 1993, 107 Stat. 2140, which limited application of amendments to certain antidumping and countervailing duty laws, was renumbered as section 418 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, §504(i)(1), (2), Jan. 29, 2020, 134 Stat. 76, and transferred to section 4588 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

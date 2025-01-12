@@ -4,6 +4,8 @@ The Secretary may refuse to renew, or may suspend or revoke, any license issued 
 
 (Aug. 11, 1916, ch. 313, pt. B, §9, 39 Stat. 485; Aug. 1, 1956, ch. 812, 70 Stat. 780; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, §11, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, §12(h), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
@@ -15,6 +17,8 @@ The Secretary may refuse to renew, or may suspend or revoke, any license issued 
 **1968**—Pub. L. 90–487 substituted provisions authorizing the suspension, revocation, and refusal of renewal of licenses by the Secretary, for provisions setting out the penalties for violations of this chapter.
 
 **1956**—Act Aug. 1, 1956, provided penalties for persons who knowingly sample grain improperly and for persons who knowingly or willfully cause or attempt to cause the issuance of a false grade certificate by deceptive loading, handling, or sampling of grain, or any other means.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

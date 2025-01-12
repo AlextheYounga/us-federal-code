@@ -1,5 +1,7 @@
 ### §§1181 to 1187. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general revision of this chapter by Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 835.

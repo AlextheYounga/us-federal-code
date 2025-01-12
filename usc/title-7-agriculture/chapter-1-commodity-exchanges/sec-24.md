@@ -24,11 +24,15 @@ The Commission shall exercise its authority to ensure that securities held in a 
 
 (Sept. 21, 1922, ch. 369, §20, formerly §19, as added Pub. L. 95–598, title III, §302, Nov. 6, 1978, 92 Stat. 2673; renumbered and amended Pub. L. 97–222, §20, July 27, 1982, 96 Stat. 241; Pub. L. 111–203, title VII, §713(c), July 21, 2010, 124 Stat. 1647.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (c). Pub. L. 111–203 added subsec. (c).
 
 **1982**—Subsec. (a)(3). Pub. L. 97–222, §20(b), inserted ", including the payment and allocation of margin with respect to commodity contracts not specifically identifiable to a particular customer pending their orderly liquidation".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

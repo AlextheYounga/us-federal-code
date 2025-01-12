@@ -46,6 +46,8 @@ The Commission shall provide the Securities and Exchange Commission with notice 
 
 (Sept. 21, 1922, ch. 369, §6c, as added Pub. L. 93–463, title II, §211, Oct. 23, 1974, 88 Stat. 1402; amended Pub. L. 97–444, title II, §220, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, §104, Nov. 10, 1986, 100 Stat. 3557; Pub. L. 102–546, title II, §221, Oct. 28, 1992, 106 Stat. 3614; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(15), title II, §253(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409, 2763A–449; Pub. L. 110–234, title XIII, §13103(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13103(c), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §§741(b)(5), 744, July 21, 2010, 124 Stat. 1731, 1735.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -67,6 +69,8 @@ Subsec. (h). Pub. L. 106–554, §1(a)(5) [title II, §253(c)], added subsec. (h
 **1986**—Pub. L. 99–641 inserted ", and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate".
 
 **1983**—Pub. L. 97–444 inserted "(other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property)" after "*Provided*, That no restraining order".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

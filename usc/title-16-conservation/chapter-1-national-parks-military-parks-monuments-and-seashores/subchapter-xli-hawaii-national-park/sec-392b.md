@@ -4,9 +4,13 @@ The Governor of the Territory of Hawaii is authorized to convey to the United St
 
 (June 20, 1938, ch. 530, §4, 52 Stat. 785.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of the last provision of section 4 of act June 20, 1938, the remainder of which is classified to section 391b–1 of this title.
+
+#### **Executive Documents** ####
 
 #### Admission of Hawaii as State ####
 

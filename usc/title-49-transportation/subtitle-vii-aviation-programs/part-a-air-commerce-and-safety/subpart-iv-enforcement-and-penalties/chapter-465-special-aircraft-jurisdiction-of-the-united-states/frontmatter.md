@@ -16,6 +16,8 @@ Sec.
 
 46507. False information and threats.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–254, div. B, title V, §539(m), div. K, title I, §1991(h)(2), Oct. 5, 2018, 132 Stat. 3371, 3645, made identical amendments, striking out item 46503 "Repealed".

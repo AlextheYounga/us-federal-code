@@ -1,5 +1,7 @@
 ### §§521 to 535. Omitted or Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections, act June 15, 1929, ch. 24, §§1–15, 46 Stat. 11, as amended, were omitted or transferred as set forth below.

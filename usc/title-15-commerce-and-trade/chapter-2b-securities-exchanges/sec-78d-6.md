@@ -52,9 +52,13 @@ The Comptroller General of the United States may hire independent consultants wi
 
 (Pub. L. 111–203, title IX, §961, July 21, 2010, 124 Stat. 1907.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -198,6 +198,8 @@ For purposes of this subsection, the term "examining authority" means a self-reg
 
 (June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §231(a), Nov. 12, 1999, 113 Stat. 1402; Pub. L. 106–554, §1(a)(5) [title II, §204], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 107–204, title II, §205(c)(2), July 30, 2002, 116 Stat. 774; Pub. L. 108–386, §8(f)(5), (6), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–291, §5, Sept. 29, 2006, 120 Stat. 1338; Pub. L. 111–203, title VI, §617(a), title IX, §§929D, 929S, 975(h), 982(e)(2), 985(b)(7), July 21, 2010, 124 Stat. 1616, 1853, 1867, 1923, 1929, 1934.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), and (j)(5), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -270,6 +272,8 @@ Subsecs. (b) to (g). Pub. L. 94–29 added subsecs. (b) to (f) and redesignated 
 
 **1936**—Subsec. (a). Act May 27, 1936, substituted "every broker or dealer registered pursuant to section 78o of this title" for "every broker or dealer making or creating a market for both the purchase and sale of securities through the use of the mails or of any means or instrumentality of interstate commerce".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 929D, 929S, 982(e)(2), and 985(b)(7) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -291,6 +295,8 @@ Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see sectio
 #### Effective Date of 1975 Amendment ####
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

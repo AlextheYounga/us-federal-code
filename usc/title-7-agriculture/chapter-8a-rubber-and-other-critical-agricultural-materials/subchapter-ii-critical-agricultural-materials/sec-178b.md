@@ -38,6 +38,8 @@ To the maximum extent possible, the Secretaries and the Joint Commission shall s
 
 (Pub. L. 95–592, §4, Nov. 4, 1978, 92 Stat. 2530; Pub. L. 98–284, §4, May 16, 1984, 98 Stat. 181; Pub. L. 104–127, title VIII, §881(a), Apr. 4, 1996, 110 Stat. 1175.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsecs. (g), (h). Pub. L. 104–127 redesignated subsec. (h) as (g), and struck out former subsec. (g) which read as follows: "One year after November 4, 1978, and each year thereafter, the Joint Commission shall provide to the Congress a report on the implementation of the subchapter. Such report shall (1) recommend specific directions for further research, development, and other work, and (2) recommend funding levels for various elements of the overall project."
@@ -49,6 +51,8 @@ Subsec. (b). Pub. L. 98–284, §4(b), struck out provision mandating that two o
 Subsec. (c). Pub. L. 98–284, §4(c), substituted "The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b)" for "The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years".
 
 Subsec. (h). Pub. L. 98–284, §4(d), substituted "manufacturing and commerce involving rubber and other critical agricultural materials" for "rubber manufacturing and commerce".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

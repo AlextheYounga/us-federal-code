@@ -14,6 +14,8 @@ Any reference in any law (other than this subchapter), regulation, document, rec
 
 (Pub. L. 89–671, §14, as added Pub. L. 107–219, §1(a)(3), Aug. 21, 2002, 116 Stat. 1330.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Applicability ####
 
 Pub. L. 107–219, §1(b), Aug. 21, 2002, 116 Stat. 1330, provided that: "Section 14(c) of the Wolf Trap Farm Park Act [16 U.S.C. 284k(c)] (as added by subsection (a) of this section) shall not apply to this Act [enacting this section and amending former section 1e and sections 284, 284a, 284c, and 284j of this title and provisions set out as notes under section 284c of this title]."

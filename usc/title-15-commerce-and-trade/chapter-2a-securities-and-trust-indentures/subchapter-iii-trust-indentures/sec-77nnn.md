@@ -60,6 +60,8 @@ Nothing in this section shall be construed either as requiring the inclusion in 
 
 (May 27, 1933, ch. 38, title III, §314, as added Aug. 3, 1939, ch. 411, 53 Stat. 1167; amended Pub. L. 101–550, title IV, §413, Nov. 15, 1990, 104 Stat. 2729.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (a). Pub. L. 101–550, §413(1)–(6), in introductory provision substituted "Each" for "The indenture to be qualified shall contain provisions requiring each" and inserted "shall" after "thereby" and in pars. (1) to (3) struck out "to" after the paragraph designation, and directed the addition of par. (4) at the end which was executed by inserting par. (4) after par. (3) to reflect the probable intent of Congress.
@@ -73,6 +75,8 @@ Subsec. (d). Pub. L. 101–550, §413(11), (13), (14), substituted "the obligor 
 Subsec. (d)(1) to (3). Pub. L. 101–550, §413(12), which directed that "requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser or other expert as to the fair value" be struck out after the paragraph designations in pars. (1) to (3), was executed by striking out "requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value", as the probable intent of Congress.
 
 Subsec. (e). Pub. L. 101–550, §413(15), inserted "(other than certificates provided pursuant to subsection (a)(4) of this section)" after "indenture".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

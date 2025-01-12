@@ -78,6 +78,8 @@ For purposes of this subsection, the term "person participating in an offering o
 
 (May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§305(a)(2), 308(d)(3), title VI, §603(b), July 30, 2002, 116 Stat. 779, 785, 795; Pub. L. 111–203, title IX, §923(a)(1), July 21, 2010, 124 Stat. 1849.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (d)(3)(A). Pub. L. 111–203 inserted "and section 78u–6 of this title" after "section 7246 of this title".
@@ -96,6 +98,8 @@ Subsec. (g). Pub. L. 107–204, §603(b), added subsec. (g).
 
 Subsec. (c). Pub. L. 100–181, §208(b), amended subsec. (c) generally.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -111,6 +115,8 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 #### Construction of 1995 Amendment ####
 
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

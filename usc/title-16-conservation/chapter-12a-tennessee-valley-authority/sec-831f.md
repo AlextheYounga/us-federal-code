@@ -8,6 +8,8 @@ In order to enable the Corporation to exercise the powers and duties vested in i
 
 (May 18, 1933, ch. 32, §7, 48 Stat. 63.)
 
+#### **Executive Documents** ####
+
 #### Delegation of Functions ####
 
 Authority of President under subsection (b) of this section to provide for transfer to Tennessee Valley Authority of use, possession, and control of real or personal property of United States deemed by Administrator of General Services to be necessary and proper for purposes of that Authority as provided for in this section, delegated to Administrator of General Services, see section 1(17) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.

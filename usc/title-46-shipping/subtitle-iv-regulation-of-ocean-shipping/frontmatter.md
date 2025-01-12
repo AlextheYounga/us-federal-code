@@ -25,9 +25,7 @@ Chapter Sec.
 
 423. Foreign Shipping Practices 42301
 
-1
-
-[425. National Shipper Advisory Committee 42501]
+425. National Shipper Advisory Committee 42501 1
 
 #### Part C—Miscellaneous ####
 
@@ -41,6 +39,6 @@ Chapter Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], §8604(c), 8605(b)(5), Jan. 1, 2021, 134 Stat. 4764, 4765, added items for chapter 425 and part D.
+**2021**—Pub. L. 116–283, div. G, title LVXXXVI [LXXXVI], §§8604(c), 8605(b)(5), Jan. 1, 2021, 134 Stat. 4764, 4765, added item for chapter 425 and item for part D. Item for chapter 425 was formatted to the style of this analysis to reflect the probable intent of Congress.
 
-[<sup>1</sup> So in original.](#SubtitleIV_1)
+[<sup>1</sup> Section number editorially supplied.](#SubtitleIV_1)

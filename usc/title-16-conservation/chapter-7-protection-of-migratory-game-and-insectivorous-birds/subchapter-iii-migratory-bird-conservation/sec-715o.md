@@ -4,9 +4,13 @@ Nothing in this subchapter shall be construed as authorizing or empowering the M
 
 (Feb. 18, 1929, ch. 257, §16, 45 Stat. 1225; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Herein created, referred to in text, means created by section 715a of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

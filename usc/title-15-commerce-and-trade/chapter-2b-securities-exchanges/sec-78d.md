@@ -320,6 +320,8 @@ Nothing in this subsection may be construed as replacing or reducing the respons
 
 (June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447; Pub. L. 115–141, div. S, title IX, §902, Mar. 23, 2018, 132 Stat. 1143.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -360,6 +362,8 @@ Pub. L. 86–619 increased the salary of each commissioner from $15,000 to $20,0
 
 **1949**—Subsec. (b). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 915, 919D, and 965 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -378,10 +382,6 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 
 Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out below.
-
 #### Outreach by the Commission ####
 
 Pub. L. 112–106, title VII, §701, Apr. 5, 2012, 126 Stat. 327, provided that: "The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made by this Act [see Short Title of 2012 Amendment note set out under section 78a of this title]."
@@ -389,6 +389,12 @@ Pub. L. 112–106, title VII, §701, Apr. 5, 2012, 126 Stat. 327, provided that:
 #### Pay Authority for Employment of Experts and Consultants ####
 
 Pub. L. 111–203, title IX, §929G(c), July 21, 2010, 124 Stat. 1856, provided that: "The [Securities and Exchange] Commission may set the rate of pay for experts and consultants appointed under the authority of section 3109 of title 5, United States Code, in the same manner in which it sets the rate of pay for employees of the Commission."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out below.
 
 #### **1950 REORGANIZATION PLAN NO. 10** ####
 

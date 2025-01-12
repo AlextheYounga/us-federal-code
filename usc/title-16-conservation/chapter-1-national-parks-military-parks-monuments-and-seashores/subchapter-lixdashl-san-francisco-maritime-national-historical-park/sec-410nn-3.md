@@ -42,6 +42,8 @@ The Commission shall cease to exist 10 years after the date on which the first m
 
 (Pub. L. 100–348, §5, June 27, 1988, 102 Stat. 656.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (a) and (e), was in the original "this Act", meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 410nn of this title and Tables.

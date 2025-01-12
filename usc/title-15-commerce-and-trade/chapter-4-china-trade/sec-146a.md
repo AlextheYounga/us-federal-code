@@ -4,6 +4,8 @@ The Federal district courts shall have exclusive original jurisdiction of all su
 
 (Sept. 19, 1922, ch. 346, §20(a), formerly §20, 42 Stat. 855; renumbered §20(a), Feb. 26, 1925, ch. 345, §10, 43 Stat. 996; June 25, 1936, ch. 804, 49 Stat. 1921; Treaty of Jan. 11, 1943, 57 Stat. 767; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section comprises subsec. (a) of section 20 of act Sept. 19, 1922, as amended by act Feb. 26, 1925. Subsec. (b) of section 20 is classified to section 160 of this title.
@@ -13,6 +15,8 @@ In the first sentence, the words "(except as provided by the Act entitled 'An Ac
 The provision in the second sentence that suits against the China Trade Act corporation might also be brought in the United States Court for China was omitted as that court is no longer in operation. By the treaty of Jan. 11, 1943, between the United States and China, the United States relinquished extraterritorial rights in China. See Codification note set out under section 142 of this title.
 
 Section was formerly classified to section 53 of Title 28 prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, §1, 62 Stat. 869.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

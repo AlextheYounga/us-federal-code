@@ -18,6 +18,8 @@ No funds appropriated or used to carry out this chapter may be used for acquisit
 
 (Pub. L. 101–537, title I, §1009, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2009, Nov. 29, 1990, 104 Stat. 4778; Pub. L. 104–332, §2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 8, Oct. 19, 1998, 112 Stat. 2358, 2361; Pub. L. 109–326, §9, Oct. 11, 2006, 120 Stat. 1766; Pub. L. 114–322, title III, §3901(f), (g), Dec. 16, 2016, 130 Stat. 1850, 1851.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical provisions of subsec. (a), but Pub. L. 101–537 did not enact a subsec. (b). Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, §3(b).

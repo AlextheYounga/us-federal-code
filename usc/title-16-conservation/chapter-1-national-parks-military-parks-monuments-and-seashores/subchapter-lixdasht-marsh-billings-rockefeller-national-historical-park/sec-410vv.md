@@ -14,9 +14,13 @@ The purposes of this subchapter are—
 
 (Pub. L. 102–350, §2, Aug. 26, 1992, 106 Stat. 934; Pub. L. 105–277, div. A, §101(e) [title I, §143], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pars. (4), (5). Pub. L. 105–277 substituted "Marsh-Billings-Rockefeller" for "Marsh-Billings".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

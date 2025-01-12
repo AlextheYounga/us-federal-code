@@ -22,6 +22,8 @@ Section 772i, act June 28, 1937, ch. 392, §10, 50 Stat. 328, set the effective 
 
 Section 772j, act June 28, 1937, ch. 392, §11, as added Oct. 1, 1965, Pub. L. 89–233, 79 Stat. 902, provided for the location of office facilities on or near the campus of the University of Washington. See section 773k of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 97–176, §14, May 17, 1982, 96 Stat. 84, provided that the Northern Pacific Halibut Act of 1937 [sections 772 to 772j of this title] is repealed effective as of the 90th day after the date of enactment of Pub. L. 97–176 [May 17, 1982].

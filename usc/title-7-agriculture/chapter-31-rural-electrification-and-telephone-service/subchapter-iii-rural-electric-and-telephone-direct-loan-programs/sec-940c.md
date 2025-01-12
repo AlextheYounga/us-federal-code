@@ -66,6 +66,8 @@ The Secretary shall maintain a subaccount within the Rural Electrification and T
 
 (May 20, 1936, ch. 432, title III, §313, as added Pub. L. 100–203, title I, §1403, Dec. 22, 1987, 101 Stat. 1330–21; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 115–334, title VI, §§6503, 6504(b), Dec. 20, 2018, 132 Stat. 4772, 4773.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (a)(1). Pub. L. 115–334, §6503(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).

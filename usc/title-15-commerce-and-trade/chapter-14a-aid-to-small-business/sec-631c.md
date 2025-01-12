@@ -50,6 +50,8 @@ Not later than 1 year after December 8, 2004, and annually thereafter, the Task 
 
 (Pub. L. 108–447, div. K, title I, §147, Dec. 8, 2004, 118 Stat. 3455.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subtitle, referred to in subsec. (a), is subtitle D (§§141–147) of title I of div. K of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3453, which enacted this section, amended sections 637, 648, 657b, and 657c of this title, enacted provisions set out as note under section 637 of this title, and amended provisions set out as a note under section 657b of this title. For complete classification of subtitle D to the Code, see Tables.

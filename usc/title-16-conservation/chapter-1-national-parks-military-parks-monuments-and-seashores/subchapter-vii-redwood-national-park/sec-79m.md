@@ -14,6 +14,8 @@
 
 (Pub. L. 95–250, title I, §104, Mar. 27, 1978, 92 Stat. 170.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 79c(b)(1) of this title, referred to in subsec. (a), was in the original "section 101(a)(4) . . . of this amendment", meaning section 101(a)(4) of Pub. L. 95–250, which amended section 79c(b)(1) of this title.
@@ -33,6 +35,8 @@ Section 79c(b)(2) of this title, referred to in subsec. (a), was in the original
 #### Codification ####
 
 Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931, which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -4,6 +4,8 @@ Within three complete fiscal years from the effective date of this subchapter, t
 
 (Pub. L. 96–287, title I, §104, June 28, 1980, 94 Stat. 600.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this subchapter, referred to in text, probably means the date of enactment of Pub. L. 96–287, which was approved on June 28, 1980.

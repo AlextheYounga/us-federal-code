@@ -32,6 +32,8 @@ Administrative jurisdiction is transferred to the National Park Service over any
 
 (Pub. L. 106–530, §4, Nov. 22, 2000, 114 Stat. 2529.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.

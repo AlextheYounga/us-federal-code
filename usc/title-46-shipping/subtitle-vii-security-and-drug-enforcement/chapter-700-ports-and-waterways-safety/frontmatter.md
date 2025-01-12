@@ -64,7 +64,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], §8342(b), title LVXXXV, §§8501(b)(5), 8507(a)(3), 8508(2)(C), Jan. 1, 2021, 134 Stat. 4709, 4746, 4753, 4755, inserted "Sec." before item 70001, added item 70006, and substituted "Conditions for entry into ports in the United States" for "Conditions for entry to ports in the united states" in item 70021, "SUBCHAPTER I" for "SUBCHAPTER A", "SUBCHAPTER II" for "SUBCHAPTER B", "SUBCHAPTER III" for "SUBCHAPTER C", "SUBCHAPTER IV" and "SUBCHAPTER D", "SUBCHAPTER V" for "SUBCHAPTER E", and "SUBCHAPTER VI" for "SUBCHAPTER F". Item 70014, which was directed to be inserted at the end of the analysis for subchapter II of chapter 700, was added after item 70013 to reflect the probable intent of Congress.
+**2021**—Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], §8342(b), title LVXXXV, §§8501(b)(5), 8507(a)(3), 8508(2)(C), Jan. 1, 2021, 134 Stat. 4709, 4746, 4753, 4755, inserted "Sec." before item 70001, added item 70006, and substituted "Conditions for entry into ports in the United States" for "Conditions for entry to ports in the united states" in item 70021, "SUBCHAPTER I" for "SUBCHAPTER A", "SUBCHAPTER II" for "SUBCHAPTER B", "SUBCHAPTER III" for "SUBCHAPTER C", "SUBCHAPTER IV" and "SUBCHAPTER D", "SUBCHAPTER V" for "SUBCHAPTER E", and "SUBCHAPTER VI" for "SUBCHAPTER F". Items 70014 and 70022were added to this analysis after items 70013 and 70021, respectively, to reflect the probable intent of Congress, notwithstanding errors in directory language.
 
 **2018**—Pub. L. 115–282, title IV, §§406(b), 407(e), Dec. 4, 2018, 132 Stat. 4266, 4267, added items for subchapters E and F and items 70041 and 70051 to 70054.
 

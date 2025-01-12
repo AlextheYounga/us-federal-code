@@ -4,9 +4,13 @@ Within the Barataria Preserve Unit, the owner or owners of improved property use
 
 (Pub. L. 95–625, title IX, §903, Nov. 10, 1978, 92 Stat. 3536; Pub. L. 111–11, title VII, §7105(c), (f)(2)(A), Mar. 30, 2009, 123 Stat. 1192, 1193.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–11 substituted "Barataria Preserve Unit" for "Barataria Marsh Unit" in first sentence and inserted "(or January 1, 2007, for areas added to the park after that date)" after "January 1, 1977" in fifth sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

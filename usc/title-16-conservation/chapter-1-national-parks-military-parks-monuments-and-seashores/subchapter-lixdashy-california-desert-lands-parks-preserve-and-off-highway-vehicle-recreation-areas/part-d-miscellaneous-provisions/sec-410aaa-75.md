@@ -78,6 +78,8 @@ Subject to valid existing rights, all Federal land within the area administrativ
 
 (Pub. L. 103–433, title VII, §705, Oct. 31, 1994, 108 Stat. 4498; Pub. L. 116–9, title I, §1454, Mar. 12, 2019, 133 Stat. 714.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsecs. (a) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.
@@ -93,6 +95,8 @@ The Religious Freedom Restoration Act of 1993, referred to in subsec. (d)(3)(B)(
 #### Amendments ####
 
 **2019**—Pub. L. 116–9 added subsecs. (a), (b), (d), and (e), redesignated former subsec. (b) as (c), and struck out former subsec. (a) which related to access to park system units and wilderness areas by Indian people for traditional cultural and religious purposes.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

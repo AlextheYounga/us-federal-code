@@ -78,6 +78,8 @@ In making any determination under paragraph (1) to increase the standard maximum
 
 (Pub. L. 91–598, §9, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 265; amended Pub. L. 96–433, §1, Oct. 10, 1980, 94 Stat. 1855; Pub. L. 111–203, title IX, §§929H(a), 983(a), July 21, 2010, 124 Stat. 1856, 1931.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -97,6 +99,8 @@ Subsecs. (d), (e). Pub. L. 111–203, §929H(a)(2), added subsecs. (d) and (e).
 **1980**—Subsec. (a). Pub. L. 96–433, §1(1), substituted in opening par. "$500,000" for "$100,000".
 
 Subsec. (a)(1). Pub. L. 96–433, §1(2), substituted "$100,000" for "$40,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

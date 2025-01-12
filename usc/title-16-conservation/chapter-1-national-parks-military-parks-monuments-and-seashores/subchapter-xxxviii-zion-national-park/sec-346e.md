@@ -12,6 +12,8 @@ The Secretary is authorized to enter into cooperative agreements with State or l
 
 (Pub. L. 104–333, div. I, title VIII, §814(c), Nov. 12, 1996, 110 Stat. 4195; Pub. L. 109–131, title I, §102(a), Dec. 20, 2005, 119 Stat. 2567.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–131 inserted "and Yosemite National Park" after "Zion National Park" in section catchline and in introductory provisions, inserted "for transportation systems or" after "appropriated funds" in introductory provisions, and substituted "systems or facilities" for "facilities" in introductory provisions.

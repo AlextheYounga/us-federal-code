@@ -4,9 +4,13 @@ The Secretary of the Interior, in his discretion, is authorized to construct upo
 
 (June 28, 1948, ch. 687, §3, 62 Stat. 1062; July 10, 1952, ch. 653, §2, 66 Stat. 575.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1952**—Act July 10, 1952, inserted last sentence.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Acquisition of Land Encroached Upon by Deshler-Morris House ####
 

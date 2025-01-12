@@ -8,6 +8,8 @@ Sec.
 
 60303. Fees for compliance reviews of liquefied natural gas facilities.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260, div. R, title I, §103(b), Dec. 27, 2020, 134 Stat. 2215, added item 60303.

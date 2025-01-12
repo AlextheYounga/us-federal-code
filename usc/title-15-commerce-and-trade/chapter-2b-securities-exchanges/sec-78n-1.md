@@ -66,6 +66,8 @@ An issuer that was an emerging growth company but is no longer an emerging growt
 
 (June 6, 1934, ch. 404, title I, §14A, as added Pub. L. 111–203, title IX, §951, July 21, 2010, 124 Stat. 1899; amended Pub. L. 112–106, title I, §102(a)(1), Apr. 5, 2012, 126 Stat. 308.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in subsec. (e)(2)(B)(i), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -73,6 +75,8 @@ The Securities Act of 1933, referred to in subsec. (e)(2)(B)(i), is title I of a
 #### Amendments ####
 
 **2012**—Subsec. (e). Pub. L. 112–106 designated existing provisions as par. (1), inserted heading, substituted "any other issuer" for "an issuer", and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -22,6 +22,8 @@ Notwithstanding any other provision of this subchapter, the Secretaries and the 
 
 (Pub. L. 95–592, §16, Nov. 4, 1978, 92 Stat. 2534; Pub. L. 98–284, §15, May 16, 1984, 98 Stat. 184; Pub. L. 101–624, title XVI, §1601(e), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §881(b), Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title III, §301(c), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7138, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7401, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, §4(a), title VII, §7401, June 18, 2008, 122 Stat. 1664, 2007; Pub. L. 113–79, title VII, §7401, Feb. 7, 2014, 128 Stat. 893; Pub. L. 115–334, title VII, §7501(b), Dec. 20, 2018, 132 Stat. 4819.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -51,6 +53,8 @@ Subsecs. (c) to (e). Pub. L. 101–624, §1601(e)(4), redesignated subsecs. (c) 
 Subsec. (b). Pub. L. 98–284, §15(b), inserted "$2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988," and struck out "and" after "1981,".
 
 Subsec. (e). Pub. L. 98–284, §15(c), added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

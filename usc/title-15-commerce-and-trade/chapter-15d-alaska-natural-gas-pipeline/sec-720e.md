@@ -30,6 +30,8 @@ The United States Court of Appeals for the District of Columbia Circuit shall se
 
 (Pub. L. 108–324, div. C, §107, Oct. 13, 2004, 118 Stat. 1261; Pub. L. 111–11, title XIII, §13003, Mar. 30, 2009, 123 Stat. 1448; Pub. L. 113–287, §5(c), Dec. 19, 2014, 128 Stat. 3264.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.

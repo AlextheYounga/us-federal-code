@@ -138,6 +138,8 @@ The provisions of this section do not apply to Alaska or Hawaii.
 
 (June 10, 1920, ch. 285, pt. II, §215, as added Pub. L. 109–58, title XII, §1211(a), Aug. 8, 2005, 119 Stat. 941.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Status of ERO ####
 
 Pub. L. 109–58, title XII, §1211(b), Aug. 8, 2005, 119 Stat. 946, provided that: "The Electric Reliability Organization certified by the Federal Energy Regulatory Commission under section 215(c) of the Federal Power Act [16 U.S.C. 824o(c)] and any regional entity delegated enforcement authority pursuant to section 215(e)(4) of that Act [16 U.S.C. 824o(e)(4)] are not departments, agencies, or instrumentalities of the United States Government."

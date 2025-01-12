@@ -26,6 +26,8 @@ Except with the written consent of the Administration, it shall be unlawful—
 
 (Pub. L. 85–699, title III, §314, as added Pub. L. 89–779, §7, Nov. 6, 1966, 80 Stat. 1363.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.

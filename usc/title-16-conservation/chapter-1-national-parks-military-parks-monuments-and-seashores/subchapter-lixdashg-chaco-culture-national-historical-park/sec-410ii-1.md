@@ -54,6 +54,8 @@ There is hereby established in the State of New Mexico, the Chaco Culture Nation
 
 (Pub. L. 96–550, title V, §502, Dec. 19, 1980, 94 Stat. 3227; Pub. L. 104–11, §3, May 18, 1995, 109 Stat. 158.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1995**—Subsec. (b). Pub. L. 104–11 designated existing provisions as par. (1), increased number of outlying protection sites from 33 to 39, updated number designation and date on site designation maps, increased total acreage from 8,771 to 14,372 acres, and added par. (2).

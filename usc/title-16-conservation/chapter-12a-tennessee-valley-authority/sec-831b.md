@@ -16,6 +16,8 @@ Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 sha
 
 (May 18, 1933, ch. 32, §3, 48 Stat. 59; Pub. L. 92–310, title II, §225(a), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, §602, Dec. 8, 2004, 118 Stat. 2966.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In the last par. of subsec. (b), "subchapter I of chapter 81 of title 5" substituted for "the Act entitled 'An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes,' approved September 7, 1916, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -25,6 +27,8 @@ In the last par. of subsec. (b), "subchapter I of chapter 81 of title 5" substit
 **2004**—Pub. L. 108–447 added subsec. (a), designated existing provisions as subsec. (b) and inserted heading, and struck out former first undesignated par. which read as follows: "The board shall without regard to the provisions of Civil Service laws applicable to officers and employees of the United States, appoint such managers, assistant managers, officers, employees, attorneys, and agents as are necessary for the transaction of its business, fix their compensation, define their duties, and provide a system of organization to fix responsibility and promote efficiency. Any appointee of the board may be removed in the discretion of the board. No regular officer or employee of the Corporation shall receive a salary in excess of that received by the members of the board."
 
 **1972**—Pub. L. 92–310 struck out provisions which permitted the board to require bonds from managers, assistant managers, officers, employees, attorneys, and agents.
+
+#### **Statutory Notes and Statutory Notes** ####
 
 #### Effective Date of 2004 Amendment ####
 

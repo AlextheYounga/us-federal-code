@@ -10,6 +10,8 @@ For purposes of title V of such Act [15 U.S.C. 6801 et seq.], the Commission sha
 
 (Sept. 21, 1922, ch. 369, §5g, as added Pub. L. 106–554, §1(a)(5) [title I, §124], Dec. 21, 2000, 114 Stat. 2763, 2763A–411.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Gramm-Leach-Bliley Act, referred to in text, is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§6801 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.

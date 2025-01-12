@@ -4,6 +4,8 @@ Section 835a, acts May 27, 1937, ch. 269, §2, 50 Stat. 210; Mar. 10, 1943, ch. 
 
 Section 835b, acts May 27, 1937, ch. 269, §3, 50 Stat. 210; Mar. 10, 1943, ch. 14, 57 Stat. 18; Sept. 26, 1950, ch. 1048, §1(3), 64 Stat. 1037, related to consideration for conveyance of lands.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 87–728, §5(b), Oct. 1, 1962, 76 Stat. 679, provided that: "The rights of any vendee or grantee as defined in section 3 of the Columbia Basin Project Act of 1943 [section 835b of this title] are hereby preserved as to any transactions that were consummated by contract or deed prior to repeal of said section 3 by this Act."

@@ -4,6 +4,8 @@ There are authorized to be appropriated to carry out the purposes of sections 75
 
 (Pub. L. 89–304, §4, Oct. 30, 1965, 79 Stat. 1126; Pub. L. 91–249, §2, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §§2, 3(b), July 30, 1974, 88 Stat. 398; Pub. L. 96–118, §3, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(2), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title IV, §402, Nov. 14, 1986, 100 Stat. 3737; Pub. L. 101–627, title IV, §401, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–297, title IV, §403, Oct. 11, 1996, 110 Stat. 3619; Pub. L. 107–372, title III, §303(a), Dec. 19, 2002, 116 Stat. 3095; Pub. L. 109–479, title III, §302(h), Jan. 12, 2007, 120 Stat. 3625.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Pub. L. 109–479 amended section generally. Prior to amendment, section authorized appropriations to carry out sections 757a to 757f of this title for fiscal years 2003 to 2006 and limited the obligation of funds in any one State to not more than $625,000.

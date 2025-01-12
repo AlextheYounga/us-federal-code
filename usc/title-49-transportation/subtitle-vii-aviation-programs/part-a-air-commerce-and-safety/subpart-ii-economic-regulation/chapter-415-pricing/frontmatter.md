@@ -24,6 +24,8 @@ Sec.
 
 41511. Special prices for foreign air transportation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Pub. L. 105–102, §2(21), Nov. 20, 1997, 111 Stat. 2205, struck out "common" before "carriers" in item 41502.

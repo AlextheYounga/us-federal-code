@@ -14,6 +14,8 @@ If sections 1 to 7 of this title apply to such conduct only because of the opera
 
 (July 2, 1890, ch. 647, §7, as added Pub. L. 97–290, title IV, §402, Oct. 8, 1982, 96 Stat. 1246.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 7 of act July 2, 1890, ch. 647, 26 Stat. 210, related to suits by persons injured by acts in violation of sections 1 to 7 of this title and was classified as a note under section 15 of this title, prior to repeal by act July 7, 1955, ch. 283, §3, 69 Stat. 283, effective six months after July 7, 1955.

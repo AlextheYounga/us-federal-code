@@ -36,6 +36,8 @@ The Court shall set any action brought under this subsection for expedited consi
 
 (June 21, 1938, ch. 556, §19, 52 Stat. 831; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §19, Aug. 28, 1958, 72 Stat. 947; Pub. L. 109–58, title III, §313(b), Aug. 8, 2005, 119 Stat. 689.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
@@ -51,6 +53,8 @@ In subsec. (b), "section 1254 of title 28" substituted for "sections 239 and 240
 **1958**—Subsec. (a). Pub. L. 85–791, §19(a), inserted sentence providing that until record in a proceeding has been filed in a court of appeals, Commission may modify or set aside any finding or order issued by it.
 
 Subsec. (b). Pub. L. 85–791, §19(b), in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", substituted "file with the court" for "certify and file with the court a transcript of", and inserted "as provided in section 2112 of title 28", and, in third sentence, substituted "petition" for "transcript", and "jurisdiction, which upon the filing of the record with it shall be exclusive" for "exclusive jurisdiction".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

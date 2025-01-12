@@ -30,6 +30,8 @@ The number of suspensions or debarments referred to the Inspector General of the
 
 (Pub. L. 112–239, div. A, title XVI, §1683, Jan. 2, 2013, 126 Stat. 2086.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Small Business Act which comprises this chapter.

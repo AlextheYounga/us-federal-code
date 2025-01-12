@@ -48,6 +48,8 @@ The Federal Acquisition Regulatory Council and other appropriate regulatory auth
 
 (Pub. L. 103–355, title VII, §7104, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 112–239, div. A, title XVI, §1692, Jan. 2, 2013, 126 Stat. 2089.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly set out as a note under section 644 of this title.

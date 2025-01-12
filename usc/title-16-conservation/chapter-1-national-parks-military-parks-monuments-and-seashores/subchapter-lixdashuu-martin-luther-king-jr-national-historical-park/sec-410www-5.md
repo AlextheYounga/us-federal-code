@@ -4,6 +4,8 @@ Effective October 1, 1980, there are authorized to be appropriated such sums as 
 
 (Pub. L. 96–428, §6, Oct. 10, 1980, 94 Stat. 1842; Pub. L. 102–575, title XL, §4024(b), Oct. 30, 1992, 106 Stat. 4768.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460bbbb–5 of this title.

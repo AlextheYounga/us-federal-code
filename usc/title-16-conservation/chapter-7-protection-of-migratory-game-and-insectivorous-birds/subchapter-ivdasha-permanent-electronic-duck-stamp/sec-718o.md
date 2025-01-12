@@ -36,9 +36,13 @@ The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 113–239, §2, Dec. 18, 2014, 128 Stat. 2847.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of March 16, 1934, referred to in par. (1), is act Mar. 16, 1934, ch. 71, 48 Stat. 451, known as the Migratory Bird Hunting and Conservation Stamp Act, and also popularly known as the Duck Stamp Act, which is classified generally to subchapter IV (§718 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

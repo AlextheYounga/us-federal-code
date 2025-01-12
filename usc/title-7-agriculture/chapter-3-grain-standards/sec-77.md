@@ -34,6 +34,8 @@ In the case of a disruption in official grain inspections or weighings, includin
 
 (Aug. 11, 1916, ch. 313, pt. B, §5, 39 Stat. 483; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §6, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, §1606(b), Sept. 29, 1977, 91 Stat. 1030; Pub. L. 96–437, §2, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 101–624, title XX, §2007, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §12(c), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(3), (7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §101, Nov. 9, 2000, 114 Stat. 2059; Pub. L. 114–54, title III, §301(a), Sept. 30, 2015, 129 Stat. 516.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsec. (a)(1). Pub. L. 114–54, §301(a)(1), substituted "shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this chapter whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment" for "may waive the foregoing requirement in emergency or other circumstances which would not impair the objectives of this chapter".
@@ -63,6 +65,8 @@ Subsec. (b). Pub. L. 103–156, §12(c)(2), substituted "regulations as the Admi
 Subsec. (b). Pub. L. 94–582 added subsec. (b).
 
 **1968**—Pub. L. 90–487 substituted provisions requiring an official inspection for export grains but authorizing the waiver of such requirements when official inspection is impracticable for provisions prohibiting misrepresentation respecting grade shipped or delivered for shipment, allowing reexamination, requiring hearing in the event of a false or misleading description, and allowing publication of findings.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1977 Amendment ####
 

@@ -20,6 +20,8 @@ Section 909, act June 30, 1938, ch. 850, §9, 52 Stat. 1252, provided for the Fe
 
 Section 910, act June 30, 1938, ch. 850, §10, as added Sept. 15, 1965, Pub. L. 89–184, 79 Stat. 788, provided for relief from disabilities resulting from conviction, application of provisions, public interest, and publication in Federal Register. See section 925(c) of Title 18.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 180 days after June 19, 1968, except that valid license issued thereunder shall not terminate until expiration according to terms of license unless sooner revoked or terminated pursuant to applicable law, see section 907 of Pub. L. 90–351, set out as a note under section 921 of Title 18, Crimes and Criminal Procedure.

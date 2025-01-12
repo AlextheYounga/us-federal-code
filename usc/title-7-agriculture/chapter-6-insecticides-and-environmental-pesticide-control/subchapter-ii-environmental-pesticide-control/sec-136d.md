@@ -106,6 +106,8 @@ Final orders of the Administrator under this section shall be subject to judicia
 
 (June 25, 1947, ch. 125, §6, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 984; amended Pub. L. 94–140, §1, Nov. 28, 1975, 89 Stat. 751; Pub. L. 95–251, §2(a)(2), Mar. 27, 1978, 92 Stat. 183; Pub. L. 95–396, §§11, 12, Sept. 30, 1978, 92 Stat. 828; Pub. L. 98–620, title IV, §402(4)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title II, §201, title IV, §404, title VIII, §801(e), (q)(2)(B), Oct. 25, 1988, 102 Stat. 2668, 2673, 2681, 2683; Pub. L. 101–624, title XIV, §1494, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(5), (b)(1), (2), (3)(C)–(E), Dec. 13, 1991, 105 Stat. 1895, 1896; Pub. L. 104–170, title I, §§102, 106(a), title II, §§210(g), (h), 233, Aug. 3, 1996, 110 Stat. 1489, 1491, 1500, 1509.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Subchapter II of chapter 5 of title 5", referred to in subsec. (c)(2), was in the original "subchapter II of Title 5", and was editorially changed to reflect the probable intent of Congress.
@@ -173,6 +175,8 @@ Subsec. (c)(2). Pub. L. 95–251 substituted "administrative law judge" for "hea
 Subsecs. (e), (f). Pub. L. 95–396, §12, added subsec. (e) and redesignated former subsec. (e) as (f).
 
 **1975**—Subsec. (b). Pub. L. 94–140 established criteria which Administrator must use in determining the issuance of a suspension of registration notice and the time periods relating to such notice, set forth required procedures to be followed by Administrator prior to publication of such notice, required procedures when the Secretary elects to comment or fails to comment on suspension notice, waiver or modification of time periods in specified required procedures, required procedures for waiver of notice and consent by Secretary for suspension of registration, and established criteria for Secretary taking any final action.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

@@ -14,7 +14,7 @@ Pub. L. 103–325, §602(g)(8)(A)(i), substituted "Whenever any Federal Reserve 
 
 **1966**—Pub. L. 89–427 excepted Federal Reserve notes from the category of notes which, upon redemption by the Treasurer of the United States, must be forwarded to the Comptroller of the Currency for cancellation and destruction.
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -4,6 +4,22 @@ Sec.
 
 601 to 619. Repealed, Omitted, or Transferred.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Short Title of Act July 30, 1953, Ch. 282, Title I ####
+
+Act July 30, 1953, ch. 282, title I, §101, 67 Stat. 230, provided that: This title [amending sections 603 and 604 of this title and section 459 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as a note under this section, and amending provisions set out as notes under sections 98, 544, and 4534 of Title 50, War and National Defense, and sections 1929 and 2261 of the former Appendix to Title 50] may be cited as the 'Reconstruction Finance Corporation Liquidation Act'."
+
+#### Continuation of Pending Proceedings ####
+
+Act July 30, 1953, ch. 282, title I, §105, 67 Stat. 231, as amended by act June 29, 1954, ch. 410, §2(c), 68 Stat. 320, provided that: "No suit, action, or other proceeding lawfully commenced by or against the Reconstruction Finance Corporation shall abate by reason of the dissolution of the Corporation; but the court may, on motion or supplemental petition filed at any time within twelve months after the date of such dissolution and showing a necessity for a survival of such suit, action, or other proceeding to obtain a settlement of the questions involved, allow the same to be maintained by or against the officer or agency of the Government performing the functions with respect to which any such suit, action, or other proceeding was commenced."
+
+#### Extension or Renewal of Loans ####
+
+Pub. L. 85–536, §4, July 18, 1958, 72 Stat. 396, provided that: "The Secretary of the Treasury is hereby authorized to further extend the maturity of or renew any loan transferred to the Secretary of the Treasury pursuant to Reorganization Plan Numbered 1 of 1957 [set out as a note above], for additional periods not to exceed ten years, if such extension or renewal will aid in the orderly liquidation of such loan."
+
+#### **Executive Documents** ####
+
 #### Abolition of Reconstruction Finance Corporation ####
 
 Reconstruction Finance Corporation was abolished and remaining functions transferred to Housing and Home Finance Agency, Administrator of General Services, Administrator of Small Business Administration, and Secretary of Commerce, such transfer including assets and liabilities, administrative property, personnel, funds, and records, pursuant to 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in Appendix II of title 5, Government Organization and Employees. The Plan provided for retirement of capital stock and payment of all unused funds into the Treasury as miscellaneous receipts and required a final report by Secretary of Treasury not later than June 30, 1959. Powers of the Corporation relating to loans and advances were terminated at close of business on sixtieth day after July 30, 1953, through amendment of former section 604(f) of this title by act July 30, 1953, ch. 282, title I, §102(b), 67 Stat. 230. Consequential liquidation of assets, winding up of affairs, and dissolution of the Corporation and cancellation and retirement of its capital stock were required under former section 608 of this title. Former section 609 of this title required such liquidation, winding up of affairs, and dissolution by Secretary of Treasury where such action had been initiated but not completed by close of business on June 30, 1954.
@@ -96,15 +112,3 @@ This schedule annexed to Reorganization Plan No. 1 of 1957 lists by name and add
 |    Texas Frozen Foods Corp    |  Harlingen, Tex.  |
 |       Waltham Watch Co        |  Waltham, Mass.   |
 |          Wheland Co           |Chattanooga, Tenn. |
-
-#### Short Title of Act July 30, 1953, Ch. 282, Title I ####
-
-Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of former Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98, 544, and 4534 of Title 50, War and National Defense, and sections 1929 and 2261 of the former Appendix to Title 50, provided by section 101 of such act that they should be popularly known as the "Reconstruction Finance Corporation Liquidation Act".
-
-#### Continuation of Pending Proceedings ####
-
-Act July 30, 1953, ch. 282, title I, §105, 67 Stat. 231, as amended by act June 29, 1954, ch. 410, §2(c), 68 Stat. 320, provided that: "No suit, action, or other proceeding lawfully commenced by or against the Reconstruction Finance Corporation shall abate by reason of the dissolution of the Corporation; but the court may, on motion or supplemental petition filed at any time within twelve months after the date of such dissolution and showing a necessity for a survival of such suit, action, or other proceeding to obtain a settlement of the questions involved, allow the same to be maintained by or against the officer or agency of the Government performing the functions with respect to which any such suit, action, or other proceeding was commenced."
-
-#### Extension or Renewal of Loans ####
-
-Pub. L. 85–536, §4, July 18, 1958, 72 Stat. 396, provided that: "The Secretary of the Treasury is hereby authorized to further extend the maturity of or renew any loan transferred to the Secretary of the Treasury pursuant to Reorganization Plan Numbered 1 of 1957 [set out as a note above], for additional periods not to exceed ten years, if such extension or renewal will aid in the orderly liquidation of such loan."

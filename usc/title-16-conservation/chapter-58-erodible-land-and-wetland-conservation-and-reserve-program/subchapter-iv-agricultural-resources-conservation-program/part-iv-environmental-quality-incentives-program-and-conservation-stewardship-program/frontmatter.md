@@ -1,5 +1,7 @@
 ### Part IV—Environmental Quality Incentives Program and Conservation Stewardship Program ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 115–334, title II, §2301(a)(1), Dec. 20, 2018, 132 Stat. 4551, substituted "Environmental Quality Incentives Program and Conservation Stewardship Program" for "Environmental Quality Incentives Program" in part heading.

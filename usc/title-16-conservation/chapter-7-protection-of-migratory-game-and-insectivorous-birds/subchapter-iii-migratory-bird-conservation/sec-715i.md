@@ -10,6 +10,8 @@ In administering such areas, the Secretary is authorized to manage timber, range
 
 (Feb. 18, 1929, ch. 257, §10, 45 Stat. 1224; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, §7(b), Oct. 15, 1966, 80 Stat. 929; Pub. L. 93–205, §13(b), Dec. 28, 1973, 87 Stat. 902; Pub. L. 95–616, §5(b), Nov. 8, 1978, 92 Stat. 3114.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Subsec. (a). Pub. L. 95–616 provided for treaty obligations with Japan and the Union of Soviet Socialist Republics.
@@ -18,9 +20,13 @@ In administering such areas, the Secretary is authorized to manage timber, range
 
 **1966**—Subsecs. (a), (b). Pub. L. 89–669 added subsecs. (a) and (b). Former paragraph prohibited acts on acquired areas and is now covered by section 668dd(c) and (d)(1) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1973 Amendment ####
 
 Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as a note under section 1531 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

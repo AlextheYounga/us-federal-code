@@ -146,6 +146,8 @@ Upon the filing of a petition under subparagraph (B)(ii), the appropriate court 
 
 (Sept. 21, 1922, ch. 369, §6(c), formerly §6(b), 42 Stat. 1002; June 15, 1936, ch. 545, §8, 49 Stat. 1498; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; June 16, 1955, ch. 151, 69 Stat. 160; Pub. L. 85–791, §7(b), Aug. 28, 1958, 72 Stat. 944; Pub. L. 86–507, §1(2), June 11, 1960, 74 Stat. 200; Pub. L. 90–258, §16, Feb. 19, 1968, 82 Stat. 30; Pub. L. 91–452, title II, §202, Oct. 15, 1970, 84 Stat. 928; Pub. L. 93–463, title I, §103(a), (b), (d), (e), title II, §§204(b), 205(b), 212(a)(1), (2), title IV, §408, Oct. 23, 1974, 88 Stat. 1392, 1397, 1400, 1403, 1414; Pub. L. 95–405, §13(3), Sept. 30, 1978, 92 Stat. 871; Pub. L. 97–444, title II, §219, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 99–641, title I, §103, Nov. 10, 1986, 100 Stat. 3557; renumbered §6(c) and amended Pub. L. 102–546, title II, §§209(a)(1), 212(b), 223, title III, §301, title IV, §402(1)(C), (6), (7), (9)(B), Oct. 28, 1992, 106 Stat. 3606, 3609, 3617, 3622, 3624, 3625; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(12)(C)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 110–234, title XIII, §13103(a), May 22, 2008, 122 Stat. 1433; Pub. L. 110–246, §4(a), title XIII, §13103(a), June 18, 2008, 122 Stat. 1664, 2195; Pub. L. 111–203, title VII, §§741(b)(3), 753(a), July 21, 2010, 124 Stat. 1731, 1750.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This section, referred to in par. (7), means section 6 of act Sept. 21, 1922, ch. 369, 42 Stat. 1001. For classification of section 6 to the Code, see Codification note below.
@@ -183,6 +185,8 @@ Pub. L. 93–463, §103(a), provided for substitution of "Commission" for "Secre
 **1958**—Pub. L. 85–791 substituted "transmitted by the clerk of the court to the Secretary of Agriculture and thereupon the Secretary of Agriculture shall file in the court the record theretofore made, as provided in section 2112 of Title 28" for "served upon the Secretary of Agriculture by delivering such copy to him and thereupon the Secretary of Agriculture shall forthwith certify and file in the court a transcript of the record theretofore made, including evidence received" in seventh sentence, and substituted "petition" for "transcript" in eighth sentence.
 
 **1936**—Act June 15, 1936, among other changes, amended section by inserting provisions relating to the service of complaints and penalties for violations of this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

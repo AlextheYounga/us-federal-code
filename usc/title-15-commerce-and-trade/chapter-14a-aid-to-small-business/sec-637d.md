@@ -16,6 +16,8 @@ Not later than March 31 of each year, the Administrator of the Small Business Ad
 
 (Pub. L. 112–239, div. A, title XVI, §1653(b), Jan. 2, 2013, 126 Stat. 2082.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Small Business Act which comprises this chapter.

@@ -48,6 +48,8 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 (May 27, 1933, ch. 38, title III, §311, as added Aug. 3, 1939, ch. 411, 53 Stat. 1161; amended Pub. L. 101–550, title IV, §409, Nov. 15, 1990, 104 Stat. 2728; Pub. L. 111–203, title IX, §986(b)(4), July 21, 2010, 124 Stat. 1936.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)(5), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
@@ -60,9 +62,13 @@ Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)
 
 Subsec. (b). Pub. L. 101–550, §409(5), substituted "shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to" for "may".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

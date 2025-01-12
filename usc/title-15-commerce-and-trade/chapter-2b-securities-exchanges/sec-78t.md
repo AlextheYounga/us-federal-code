@@ -26,6 +26,8 @@ The authority of the Commission under this section with respect to security-base
 
 (June 6, 1934, ch. 404, title I, §20, 48 Stat. 899; May 27, 1936, ch. 462, §6, 49 Stat. 1379; Pub. L. 88–467, §9, Aug. 20, 1964, 78 Stat. 579; Pub. L. 98–376, §5, Aug. 10, 1984, 98 Stat. 1265; Pub. L. 104–67, title I, §104, Dec. 22, 1995, 109 Stat. 757; Pub. L. 105–353, title III, §301(b)(12), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) [title II, §205(a)(3), title III, §303(i), (j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456; Pub. L. 111–203, title VII, §762(d)(6), title IX, §§929O, 929P(c), July 21, 2010, 124 Stat. 1761, 1862, 1865.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -57,6 +59,8 @@ Subsec. (f). Pub. L. 104–67, §104(2), added subsec. (f).
 **1964**—Subsec. (c). Pub. L. 88–467 extended application of provisions of subsec. (c) by substituting the prohibition against any officer or director of, or an owner of securities issued by, a company from hindering, delaying, or obstructing the preparation or filing of any report, document, or information required to be filed under this chapter for existing provisions applicable only to filings by companies with securities registered on a national securities exchange or subject to the provisions of section 78o(d) of this title.
 
 **1936**—Subsec. (c). Act May 27, 1936, inserted "or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

@@ -4,6 +4,8 @@ There is authorized to be appropriated to the National Park Service and to the B
 
 (Pub. L. 103–433, title IX, §901, Oct. 31, 1994, 108 Stat. 4508.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is defined in section 410aaa–1 of this title.

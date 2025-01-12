@@ -40,21 +40,29 @@ If the President determines to designate a transportation system for approval, t
 
 (Pub. L. 94–586, §7, Oct. 22, 1976, 90 Stat. 2907; Pub. L. 102–486, title XXX, §3012(a), Oct. 24, 1992, 106 Stat. 3128.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Subsec. (a)(5). Pub. L. 102–486 struck out par. (5) which provided for Presidential appointment of officer or board to serve as Federal inspector of construction of Alaska natural gas transportation system and specified duties and powers of such inspector.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter, all functions assigned to the person or board to be appointed by the President under subsec. (a)(5) of this section, and, pursuant to subsec. (a)(6) of this section, function of enforcing terms and conditions described in section 5 of the Decision and Report to the Congress on the Alaska Natural Gas Transportation System, approved by Congress pursuant to Pub. L. 95–158, set out under section 719f of this title, with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see sections 102(h) and 203(a) of Reorg. Plan No. 1 of 1979 set out below. Subsec. (a)(5) of this section was repealed, Office of the Federal Inspector for the Alaska Natural Gas Transportation System, created pursuant to subsec. (a)(5) abolished, and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out below. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
-
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Abolition of Office of Federal Inspector ####
 
 Pub. L. 102–486, title XXX, §3012(b), Oct. 24, 1992, 106 Stat. 3128, provided that: "The Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System [also known as "Office of the Federal Inspector for the Alaska Natural Gas Transportation System"], created pursuant to the paragraph [15 U.S.C. 719e(a)(5)] repealed by subsection (a) of this section, is abolished. All functions and authority vested in the Inspector are hereby transferred to the Secretary of Energy."
 
 [Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.]
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter, all functions assigned to the person or board to be appointed by the President under subsec. (a)(5) of this section, and, pursuant to subsec. (a)(6) of this section, function of enforcing terms and conditions described in section 5 of the Decision and Report to the Congress on the Alaska Natural Gas Transportation System, approved by Congress pursuant to Pub. L. 95–158, set out under section 719f of this title, with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see sections 102(h) and 203(a) of Reorg. Plan No. 1 of 1979 set out below. Subsec. (a)(5) of this section was repealed, Office of the Federal Inspector for the Alaska Natural Gas Transportation System, created pursuant to subsec. (a)(5) abolished, and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out below. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
 #### **REORGANIZATION PLAN NO. 1 OF 1979** ####
 
@@ -160,7 +168,7 @@ Ex. Ord. No. 12142, June 21, 1979, 44 F.R. 36927, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 301 of Title 3 of the United States Code and Sections 201 and 205 of Reorganization Plan No. 1 of 1979 [set out above], it is hereby ordered as follows:
 
-1–101. Reorganization Plan No. 1 of 1979 [set out above], not having been disapproved by Congress (S. Res. 126, 125 Cong. Rec. S 6563–64 (May 23, 1979); H. Res. 199, 125 Cong. Rec. H 3950–51 (May 31, 1979)), shall be effective on July 1, 1979.
+1–101. Reorganization Plan No. 1 of 1979 [set out above], not having been disapproved by Congress (S. Res. 126, 125 Cong. Rec. S 6563–64 (May 23, 1979) [Cong. Rec., vol. 125, pt. 10, pp. 12413–12414, May 23, 1979]; H. Res. 199, 125 Cong. Rec. H 3950–51 (May 31, 1979) [Cong. Rec., vol. 125, pt. 10, pp. 13052–13053, May 31, 1979]), shall be effective on July 1, 1979.
 
 1–102. In accord with Section 201 of that Plan, there is hereby established the Executive Policy Board for the system for the transportation of Alaska natural gas ("the System") as such system is defined in the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.).
 

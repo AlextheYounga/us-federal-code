@@ -22,6 +22,8 @@ Moneys received in payment of such civil penalties shall be deposited in the gen
 
 (Aug. 11, 1916, ch. 313, pt. B, §10, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, §12, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, §12(i), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsecs. (a), (c) to (e). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
@@ -41,6 +43,8 @@ Subsec. (d). Pub. L. 94–582 redesignated provisions of former subsec. (c) as (
 Subsec. (e). Pub. L. 94–582 added subsec. (e).
 
 **1968**—Pub. L. 90–487 substituted provisions authorizing the Secretary to refuse official inspection and affording an opportunity for a hearing in such a case, for provisions setting the penalty for interference with the execution of official duties.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

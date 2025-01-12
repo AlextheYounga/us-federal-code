@@ -12,6 +12,8 @@ The Secretary of Energy, acting by and through the Administrator, shall operate 
 
 (Pub. L. 93–454, §4, Oct. 18, 1974, 88 Stat. 1376; Pub. L. 95–91, title III, §302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 "Secretary of Energy" substituted in text for "Secretary of the Interior" pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.

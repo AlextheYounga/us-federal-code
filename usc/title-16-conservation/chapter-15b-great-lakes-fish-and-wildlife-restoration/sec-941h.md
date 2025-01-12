@@ -72,6 +72,8 @@ For each of fiscal years 2021 through 2025, there is authorized to be appropriat
 
 (Pub. L. 116–94, div. P, title II, §201, Dec. 20, 2019, 133 Stat. 3184.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Reorganization Plan No. 4, referred to in subsec. (b)(4), (5), probably means Reorganization Plan No. 4 of 1970, which is set out as a note under section 1511 of title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees.

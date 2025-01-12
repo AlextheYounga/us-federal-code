@@ -28,6 +28,8 @@ This section shall not apply—
 
 (Pub. L. 85–897, §3, Sept. 2, 1958, 72 Stat. 1718.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Trade Commission Act, referred to in subsecs. (a) to (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.

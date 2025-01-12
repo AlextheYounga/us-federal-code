@@ -22,6 +22,8 @@ Sec.
 
 7110. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter is comprised of title IV of Pub. L. 100–533, as added by Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4193, and amended. Title IV of Pub. L. 100–533 was formerly set out as a note under section 631 of this title.

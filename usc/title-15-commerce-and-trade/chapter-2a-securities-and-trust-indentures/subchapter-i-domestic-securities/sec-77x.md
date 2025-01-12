@@ -4,13 +4,19 @@ Any person who willfully violates any of the provisions of this subchapter, or t
 
 (May 27, 1933, ch. 38, title I, §24, 48 Stat. 87; Pub. L. 94–29, §27(a), June 4, 1975, 89 Stat. 163.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1975**—Pub. L. 94–29 substituted "$10,000" for "$5,000".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1975 Amendment ####
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

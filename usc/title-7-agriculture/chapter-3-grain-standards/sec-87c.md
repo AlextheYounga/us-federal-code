@@ -8,6 +8,8 @@
 
 (Aug. 11, 1916, ch. 313, pt. B, §14, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 767; amended Pub. L. 94–582, §17, Oct. 21, 1976, 90 Stat. 2884; Pub. L. 103–156, §§8, 12(m), Nov. 24, 1993, 107 Stat. 1527, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsec. (b). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
@@ -23,6 +25,8 @@ Subsec. (b). Pub. L. 103–156, §12(m)(2), substituted "the Administrator" for 
 Subsec. (b). Pub. L. 94–582 substituted "Administrator" for "Secretary" and inserted provision that nothing in this chapter shall be construed as requiring the Administrator to report any violation of this chapter for prosecution when he believes that institution of a proceeding under section 86 of this title will obtain compliance with this chapter and he institutes such a proceeding.
 
 Subsec. (c). Pub. L. 94–582 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

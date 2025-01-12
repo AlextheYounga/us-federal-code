@@ -140,10 +140,14 @@ Sec.
 
 1141n. Rights of extension of protection.
 
+#### **Editorial Notes** ####
+
+#### Prior Provisions ####
+
+The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 138, 21 Stat. 502, entitled "An Act to authorize the registration of trade-marks and protect the same," and also act Aug. 5, 1882, ch. 393, 22 Stat. 298, entitled "An Act relating to the registration of trade marks". Former section 109 of this title repealed all inconsistent acts and parts of acts, except so far as they might apply to certificates of registration issued under the Trade-Mark Act of Mar. 3, 1881, ch. 138, and act Aug. 5, 1882, ch. 393.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year from July 5, 1946, and repealed chapter 3 of this title as of that date. See notes under section 1051 of this title.
-
-#### Prior Laws ####
-
-The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 138, 21 Stat. 502, entitled "An Act to authorize the registration of trade-marks and protect the same," and also act Aug. 5, 1882, ch. 393, 22 Stat. 298, entitled "An Act relating to the registration of trade marks". Former section 109 of this title repealed all inconsistent acts and parts of acts, except so far as they might apply to certificates of registration issued under the Trade-Mark Act of Mar. 3, 1881, ch. 138, and act Aug. 5, 1882, ch. 393.

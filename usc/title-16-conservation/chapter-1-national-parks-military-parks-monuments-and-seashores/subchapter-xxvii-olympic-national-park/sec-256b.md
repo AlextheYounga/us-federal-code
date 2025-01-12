@@ -4,6 +4,8 @@ All hunting or the killing, wounding, or capturing at any time of any wild bird 
 
 (Mar. 6, 1942, ch. 151, §3, 56 Stat. 136; Pub. L. 100–668, title I, §104(a), Nov. 16, 1988, 102 Stat. 3962.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Mar. 6, 1942, which is classified to sections 256 to 256i of this title. For complete classification of this Act to the Code, see Tables.

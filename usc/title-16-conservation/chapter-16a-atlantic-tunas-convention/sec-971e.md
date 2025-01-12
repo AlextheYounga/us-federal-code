@@ -26,6 +26,8 @@ All provisions of law relating to the seizure, judicial forfeiture, and condemna
 
 (Pub. L. 94–70, §7, Aug. 5, 1975, 89 Stat. 390; Pub. L. 104–43, title III, §306, Nov. 3, 1995, 109 Stat. 385; Pub. L. 105–384, title II, §202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 114–81, title I, §107(2), Nov. 5, 2015, 129 Stat. 658.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 971d(d) of this title, referred to in subsec. (d), was amended generally by Pub. L. 101–627, title II, §207, Nov. 28, 1990, 104 Stat. 4461. Prior to amendment, subsec. (d) related to Commission recommendations concerning bluefin tuna and issuance of regulations in that regard.

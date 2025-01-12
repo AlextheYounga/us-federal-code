@@ -1,5 +1,7 @@
 ### §§1401 to 1407. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1401, act Feb. 16, 1938, ch. 30, title IV, §401, 52 Stat. 70, authorized an appropriation of $1,800,000 to accomplish the purposes declared in former provisions of this subchapter and provided for payments by Secretary of Treasury upon order of Secretary of Agriculture.
@@ -19,6 +21,8 @@ Section 1405, act Feb. 16, 1938, ch. 30, title IV, §405, 52 Stat. 71, authorize
 Section 1406, act Feb. 16, 1938, ch. 30, title IV, §406, 52 Stat. 71, prohibited purchase of certificates after expiration of time limit.
 
 Section 1407, acts Feb. 16, 1938, ch. 30, title IV, §407, 52 Stat. 71; Apr. 7, 1938, ch. 107, §15, 52 Stat. 204, provided for payment by assignee of certificate transferred subsequent to May 1, 1937, limited to the purchase price paid by the assignee, with interest at rate of four per centum from date of purchase, not exceeding an amount of $1 per bale, payment to be based upon affidavit of assignee.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Inapplicability of Subchapter ####
 

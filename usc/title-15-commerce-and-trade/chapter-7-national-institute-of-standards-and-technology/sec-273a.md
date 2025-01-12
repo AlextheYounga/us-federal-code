@@ -22,6 +22,8 @@ The individual serving as the Director of the Institute on January 4, 2011, shal
 
 (Mar. 3, 1901, ch. 872, §4, as added Pub. L. 111–358, title IV, §403(a), Jan. 4, 2011, 124 Stat. 4000.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 4 of act Mar. 3, 1901, ch. 872, 31 Stat. 1449, which was not classified to the Code, was repealed.

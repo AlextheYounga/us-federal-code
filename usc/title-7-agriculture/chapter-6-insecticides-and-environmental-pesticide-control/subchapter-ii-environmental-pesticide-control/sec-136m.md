@@ -104,9 +104,13 @@ Notwithstanding any other provision of this subchapter, the Administrator may pr
 
 (June 25, 1947, ch. 125, §15, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 993; amended Pub. L. 100–532, title V, §501(a), Oct. 25, 1988, 102 Stat. 2674.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–532 amended section generally, in subsec. (a), substituting provisions relating to general indemnification for provisions relating to requirements for payment, adding subsec. (b), and redesignating provisions of former subsec. (b), with further amendment, as subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

@@ -4,6 +4,8 @@ All hunting or the killing, wounding, or capturing at any time of any wild bird 
 
 (June 30, 1916, ch. 197, §4, 39 Stat. 244.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act June 30, 1916, which is classified to sections 95 to 105 of this title. For complete classification of this Act to the Code, see Tables.

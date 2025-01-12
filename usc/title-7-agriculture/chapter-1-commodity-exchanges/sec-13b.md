@@ -4,6 +4,8 @@ If any person (other than a registered entity), is violating or has violated sec
 
 (Sept. 21, 1922, ch. 369, §6(d), formerly §6(c), as added Pub. L. 90–258, §17, Feb. 19, 1968, 82 Stat. 31; amended Pub. L. 93–463, title I, §103(a), (b), title II, §212(c), Oct. 23, 1974, 88 Stat. 1392, 1404; renumbered §6(d) and amended Pub. L. 102–546, title II, §§209(a)(1), (4), 212(b), Oct. 28, 1992, 106 Stat. 3606, 3609; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(12)(D)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 111–203, title VII, §§741(b)(4), 753(b), July 21, 2010, 124 Stat. 1731, 1753.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of subsec. (d) of section 6 of act Sept. 21, 1922. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsec. (c) of section 6 is classified to section 9 of this title. Subsecs. (e), (f), and (g) of section 6 are classified to sections 9a, 9b, and 9c of this title, respectively.
@@ -21,6 +23,8 @@ Pub. L. 111–203, §741(b)(4), inserted "or of any swap," before "or otherwise 
 **1974**—Pub. L. 93–463, §§103(a), 212(c), substituted "Commission" for "Secretary" before "may" and substituted "not more than $100,000" for "not less than $500 nor more than $10,000".
 
 Pub. L. 93–463, §103(a), provided for substitution of "Commission" for "Secretary of Agriculture" except where such words would be stricken by section 103(b), which directed striking the words "the Secretary of Agriculture or" where they appeared in the phrase "the Secretary of Agriculture or the Commission". Because the word "commission" was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of "the Commission or the commission" for "the Secretary of Agriculture or the commission".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

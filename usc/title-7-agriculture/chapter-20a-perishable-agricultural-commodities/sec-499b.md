@@ -24,6 +24,8 @@ and pay, in the case of a violation under either clause (A) or (B) of this parag
 
 (June 10, 1930, ch. 436, §2, 46 Stat. 532; Apr. 13, 1934, ch. 120, §§2, 3, 48 Stat. 585; June 19, 1936, ch. 602, §1, 49 Stat. 1533; Aug. 20, 1937, ch. 719, §§2–4, 50 Stat. 725, 726; June 29, 1940, ch. 456, §§3, 4, 54 Stat. 696; Apr. 6, 1942, ch. 211, 56 Stat. 200; July 30, 1956, ch. 786, §1, 70 Stat. 726; Pub. L. 93–369, Aug. 10, 1974, 88 Stat. 423; Pub. L. 97–352, §1, Oct. 18, 1982, 96 Stat. 1667; Pub. L. 98–273, §2, May 7, 1984, 98 Stat. 166; Pub. L. 104–48, §§9(b), 10, Nov. 15, 1995, 109 Stat. 430.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 552 of this title.

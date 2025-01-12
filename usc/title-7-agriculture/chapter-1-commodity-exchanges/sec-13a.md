@@ -4,6 +4,8 @@ If any registered entity is not enforcing or has not enforced its rules of gover
 
 (Sept. 21, 1922, ch. 369, §6b, as added June 15, 1936, ch. 545, §9, 49 Stat. 1500; amended Pub. L. 90–258, §18, Feb. 19, 1968, 82 Stat. 31; Pub. L. 93–463, title II, §212(b), Oct. 23, 1974, 88 Stat. 1403; Pub. L. 95–405, §14, Sept. 30, 1978, 92 Stat. 872; Pub. L. 102–546, title II, §§209(b)(5), 212(c), Oct. 28, 1992, 106 Stat. 3607, 3609; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(14)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409; Pub. L. 110–234, title XIII, §13103(b), May 22, 2008, 122 Stat. 1433; Pub. L. 110–246, §4(a), title XIII, §13103(b), June 18, 2008, 122 Stat. 1664, 2195.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -21,6 +23,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 **1974**—Pub. L. 93–463 inserted provision for assessment of a civil penalty of not more than $100,000 for each violation, substituted "not more than $100,000" for "not less than $500 nor more than $10,000" as permissible range of fines imposed, inserted provisions for enforcement of a penalty, and substituted "orders of the Commission" for "orders of the Secretary of Agriculture or the commission".
 
 **1968**—Pub. L. 90–258 amended section to clarify application only to boards of trade designated as contract markets, to include as grounds for cease and desist orders failure to enforce the market's rules of government made a condition of its designation and violation of rules or regulations of the commission or orders of the Secretary, and to authorize such orders in conjunction with a suspension or revocation of designation as a contract market rather than in lieu of suspension or revocation.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

@@ -81,6 +81,8 @@ Notwithstanding any other provision of this subchapter, the Commission shall not
 
 (May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, §106(a), Apr. 5, 2012, 126 Stat. 312; Pub. L. 114–94, div. G, title LXXI, §§71001, 71002, Dec. 4, 2015, 129 Stat. 1783.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 78m(e) and 78n(g) of this title, referred to in subsec. (b)(5), were in the original, "sections 13(e) and 14(g)" and were translated as meaning sections 13(e) and 14(g) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
@@ -111,6 +113,8 @@ Subsec. (b)(6)(A). Pub. L. 111–203, §991(b)(1)(L), substituted "each fiscal y
 
 **1965**—Subsec. (b). Pub. L. 89–289 substituted "one-fiftieth" for "one one-hundredth" and "$100" for "$25".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Pub. L. 111–203, title IX, §991(b)(4), July 21, 2010, 124 Stat. 1953, provided that: "The amendments made by this subsection [amending this section and sections 78m and 78n of this title] shall take effect on October 1, 2011, except that for fiscal year 2012, the [Securities and Exchange] Commission shall publish the rate established under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), as amended by this Act, on August 31, 2011."
@@ -122,10 +126,6 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities p
 #### Effective Date of 1965 Amendment ####
 
 Pub. L. 89–289, §2, Oct. 22, 1965, 79 Stat. 1051, provided that: "The amendment made by the first section of this Act [amending this section] shall take effect January 1, 1966."
-
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Increase in Registration Fees and Deposit Into Treasury ####
 
@@ -157,6 +157,8 @@ Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
 
 #### Adjustment of Registration Fee Rate ####
 
+By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
+
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
 
 By order dated Aug. 24, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $121.20 per $1,000,000, effective Oct. 1, 2018, see 83 F.R. 44101.
@@ -174,6 +176,12 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See Adjustment of Registration Fee Rate notes below.](#77f_1)
 

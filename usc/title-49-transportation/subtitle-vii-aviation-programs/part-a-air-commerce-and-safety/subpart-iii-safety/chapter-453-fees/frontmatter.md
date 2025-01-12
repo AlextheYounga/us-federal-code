@@ -14,6 +14,8 @@ Sec.
 
 45306. Manual surcharge. 1
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–95, title I, §122(b), Feb. 14, 2012, 126 Stat. 20, added item 45305.

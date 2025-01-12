@@ -10,11 +10,15 @@ A poultry growing arrangement or swine production or marketing contract may spec
 
 (Aug. 15, 1921, ch. 64, title II, §209, as added Pub. L. 110–234, title XI, §11005, May 22, 2008, 122 Stat. 1357, and Pub. L. 110–246, §4(a), title XI, §11005, June 18, 2008, 122 Stat. 1664, 2119.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section 11005 of Pub. L. 110–246, which directed amendment of title II of the Packers and Stockyards Act, 1921, by adding sections 208 to 210 at the end, was executed by adding the sections at the end of this part, which is subtitle A of title II of the Act, to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

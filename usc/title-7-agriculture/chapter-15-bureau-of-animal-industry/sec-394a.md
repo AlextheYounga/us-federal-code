@@ -4,6 +4,8 @@ The Secretary of Agriculture is authorized to pay employees of the Bureau of Ani
 
 (Aug. 4, 1949, ch. 392, 63 Stat. 495.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, §301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.

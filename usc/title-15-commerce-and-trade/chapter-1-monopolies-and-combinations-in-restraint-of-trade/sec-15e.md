@@ -10,6 +10,8 @@ subject in either case to the requirement that any distribution procedure adopte
 
 (Oct. 15, 1914, ch. 323, §4E, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1395.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under section 15c of this title.

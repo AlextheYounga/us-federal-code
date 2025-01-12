@@ -16,6 +16,8 @@ In an action described in subsection (a)(2), if the person who offered or sold s
 
 (May 27, 1933, ch. 38, title I, §12, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, §9, 68 Stat. 686; Pub. L. 104–67, title I, §105, Dec. 22, 1995, 109 Stat. 757; Pub. L. 106–554, §1(a)(5) [title II, §208(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Subsec. (a)(2). Pub. L. 106–554 substituted "paragraphs (2) and (14)" for "paragraph (2)".
@@ -23,6 +25,8 @@ In an action described in subsection (a)(2), if the person who offered or sold s
 **1995**—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted ", subject to subsection (b)," after "shall be liable" in concluding provisions, and added subsec. (b).
 
 **1954**—Act Aug. 10, 1954, inserted "offers or" before "sells" in pars. (1) and (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1995 Amendment ####
 

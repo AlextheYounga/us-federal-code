@@ -6,11 +6,23 @@
 
 (June 22, 1936, ch. 689, §7, 49 Stat. 1647; Pub. L. 87–353, §3(l), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 101–73, title VII, §741, Aug. 9, 1989, 103 Stat. 436.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Subsec. (b). Pub. L. 101–73 struck out "1. Federal Home Loan Bank Board; 2. Home Owners' Loan Corporation;" and "11. Federal Savings and Loan Insurance Corporation;".
 
 **1961**—Subsec. (b). Pub. L. 87–353 struck out item 4. Federal Farm Mortgage Corporation and redesignated former items 5 to 13 as 4 to 12, respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Applicability to National Housing Agency; Transfer of Funds; Report to Congress ####
+
+Act May 3, 1945, ch. 106, title I, §101, 59 Stat. 122, provided in part: "Section 7 of the First Deficiency Appropriation Act, 1936 [this section], shall continue to apply to administrative expenses of and for the constituent units of the National Housing Agency mentioned in said section 7 [this section] and shall also apply to such expenses of said National Housing Agency in connection with the functions and purposes of said constituent units, and none of the funds made available by this Act [act May 3, 1945, ch. 106, title I, §101, 59 Stat. 106] for such administrative expenses shall be obligated or expended unless and until an appropriate appropriation account shall have been established therefor pursuant to an appropriation warrant or a covering warrant, and all such expenditures shall be accounted for and audited in accordance with the Budget and Accounting Act, as amended [see chapters 11 and 35 of Title 31, Money and Finance]: *Provided further*, That the Administrator may, with the approval of the President of the United States, transfer to this authorization or to an authorization of a constituent unit from funds available for administrative expenses of the constituent units or the Office of the Administrator such additional sums as represent a consolidation in the Office of the Administrator or in a constituent unit of any of the administrative functions of the National Housing Agency; but no such transfer of funds shall be made unless the consolidation will result in a reduction in manpower and a savings in administrative expenses, which savings shall not be used for administrative expenses but instead shall be returned to or remain in the funds from which administrative expenses are drawn under this authorization: *Provided further*, That a report of such transfers and the savings effected thereby shall be submitted to Congress in the annual budget."
+
+Similar provisions were contained in acts June 26, 1943, ch. 145, title I, §101, 57 Stat. 184; June 27, 1944, ch. 286, title I, §101, 58 Stat. 375.
+
+#### **Executive Documents** ####
 
 #### Transfers of Functions and Changes in Names ####
 
@@ -37,9 +49,3 @@ For changes affecting other agencies enumerated in subsection (b) of this sectio
 #### Exceptions From Transfer of Functions ####
 
 Functions of corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to the supervision of the Administration excepted from functions of officers, agencies and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Applicability to National Housing Agency; Transfer of Funds; Report to Congress ####
-
-Act May 3, 1945, ch. 106, title I, §101, 59 Stat. 122, provided in part: "Section 7 of the First Deficiency Appropriation Act, 1936 [this section], shall continue to apply to administrative expenses of and for the constituent units of the National Housing Agency mentioned in said section 7 [this section] and shall also apply to such expenses of said National Housing Agency in connection with the functions and purposes of said constituent units, and none of the funds made available by this Act [act May 3, 1945, ch. 106, title I, §101, 59 Stat. 106] for such administrative expenses shall be obligated or expended unless and until an appropriate appropriation account shall have been established therefor pursuant to an appropriation warrant or a covering warrant, and all such expenditures shall be accounted for and audited in accordance with the Budget and Accounting Act, as amended [see chapters 11 and 35 of Title 31, Money and Finance]: *Provided further*, That the Administrator may, with the approval of the President of the United States, transfer to this authorization or to an authorization of a constituent unit from funds available for administrative expenses of the constituent units or the Office of the Administrator such additional sums as represent a consolidation in the Office of the Administrator or in a constituent unit of any of the administrative functions of the National Housing Agency; but no such transfer of funds shall be made unless the consolidation will result in a reduction in manpower and a savings in administrative expenses, which savings shall not be used for administrative expenses but instead shall be returned to or remain in the funds from which administrative expenses are drawn under this authorization: *Provided further*, That a report of such transfers and the savings effected thereby shall be submitted to Congress in the annual budget."
-
-Similar provisions were contained in acts June 26, 1943, ch. 145, title I, §101, 57 Stat. 184; June 27, 1944, ch. 286, title I, §101, 58 Stat. 375.

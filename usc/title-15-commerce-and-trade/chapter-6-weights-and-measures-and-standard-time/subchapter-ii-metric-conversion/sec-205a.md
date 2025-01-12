@@ -18,6 +18,8 @@ The Congress finds as follows:
 
 (Pub. L. 94–168, §2, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 100–418, title V, §5164(a), Aug. 23, 1988, 102 Stat. 1451.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R.S. §3569 authorizing use of the metric system, which is classified to section 204 of this title.
@@ -25,6 +27,8 @@ Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R
 #### Amendments ####
 
 **1988**—Pars. (3) to (7). Pub. L. 100–418 added pars. (3) to (7).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1996 Amendment ####
 
@@ -43,6 +47,8 @@ Pub. L. 104–289, §2, Oct. 11, 1996, 110 Stat. 3411, provided that: "The Congr
 "(2) In accordance with that Act and Executive Order 12770, of July 25, 1991 [set out below], Federal agencies increasingly construct new Federal buildings in round metric dimensions. As a result, companies that wish to bid on Federal construction projects increasingly are asked to supply materials or products in round metric dimensions.
 
 "(3) While the Metric Conversion Act of 1975 currently provides an exemption to metric usage when impractical or when such usage will cause economic inefficiencies, amendments are warranted to ensure that the use of specific metric components in metric construction projects do not increase the cost of Federal buildings to the taxpayers."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 12770. Metric Usage in Federal Government Programs ####
 

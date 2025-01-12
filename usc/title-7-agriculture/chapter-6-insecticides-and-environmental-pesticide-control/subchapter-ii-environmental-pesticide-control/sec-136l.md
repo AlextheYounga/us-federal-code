@@ -44,6 +44,8 @@ When construing and enforcing the provisions of this subchapter, the act, omissi
 
 (June 25, 1947, ch. 125, §14, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 992; amended Pub. L. 95–396, §17, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, §604, Oct. 25, 1988, 102 Stat. 2678; Pub. L. 102–237, title X, §1006(a)(8), Dec. 13, 1991, 105 Stat. 1895.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Subsec. (a)(2). Pub. L. 102–237 substituted ", except that" for ": *Provided*, That" and "uses" for "use".
@@ -57,6 +59,8 @@ Subsec. (a)(3). Pub. L. 95–396, §17(2), struck out provision respecting certa
 Subsec. (a)(4). Pub. L. 95–396, §17(4), reenacted second sentence of par. (3) as par. (4) and authorized Administrator to issue a warning in lieu of assessing a penalty. Former par. (4) redesignated (5).
 
 Subsec. (a)(5). Pub. L. 95–396, §17(3), redesignated former par. (4) as (5).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

@@ -112,6 +112,8 @@ Federal formula funds described in paragraph (1) that are used by a State for a 
 
 (Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(l), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) [title VII, §753(d)], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 115–334, title VII, §7612(b)(1), Dec. 20, 2018, 132 Stat. 4832.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
@@ -171,6 +173,8 @@ Subsec. (c)(5). Pub. L. 95–113, §1466(b), inserted provision authorizing the 
 **1972**—Subsec. (b). Pub. L. 92–318 designated existing provisions as par. (1) and added par. (2).
 
 **1955**—Act Aug. 11, 1955, amended section generally to authorize appropriations and to provide for allotment of grants. For provisions which related to advice and assistance by the Secretary of Agriculture, see section 361g of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

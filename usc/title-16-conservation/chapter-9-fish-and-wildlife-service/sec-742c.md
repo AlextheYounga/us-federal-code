@@ -42,6 +42,8 @@ The Secretary is authorized under such terms and conditions and pursuant to regu
 
 (Aug. 8, 1956, ch. 1036, §4, 70 Stat. 1121; Pub. L. 85–888, Sept. 2, 1958, 72 Stat. 1710; Pub. L. 88–309, §9, May 20, 1964, 78 Stat. 199; Pub. L. 89–85, §§1–4, July 24, 1965, 79 Stat. 262; Pub. L. 91–279, §9, June 12, 1970, 84 Stat. 309; Pub. L. 91–387, §§1, 2, Aug. 24, 1970, 84 Stat. 829; Pub. L. 94–273, §2(8), Apr. 21, 1976, 90 Stat. 375; Pub. L. 96–478, §16(a), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 97–347, §1, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(1), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(1), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 99–659, title IV, §409, Nov. 14, 1986, 100 Stat. 3740.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (b)(8), "section 50501 of title 46" substituted for "section 2 of the Shipping Act, 1916, as amended," on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
@@ -80,6 +82,8 @@ Subsec. (c). Pub. L. 89–85, §4, extended term for making fisheries loans from
 
 **1958**—Subsec. (c). Pub. L. 85–888 increased authorization for $10,000,000 to $20,000,000.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1980 Amendment ####
 
 Pub. L. 96–478, §16(b), Oct. 21, 1980, 94 Stat. 2304, provided that: "The amendments made by subsection (a) [amending this section] shall take effect on September 1, 1980."
@@ -92,10 +96,12 @@ Pub. L. 91–387, §3, Aug. 24, 1970, 84 Stat. 829, provided that: "The provisio
 
 Pub. L. 89–85, §5, July 24, 1965, 79 Stat. 263, provided that: "The provisions of this Act [amending this section] shall be effective July 1, 1965. Notwithstanding the provisions of section 4(c) of the Fish and Wildlife Act of 1956, as amended [subsec. (c) of this section], any balance remaining in the fisheries loan fund at the close of June 30, 1965, shall be available to make loans for the purposes of section 4 of said Act [this section] from July 1, 1965, to the close of June 30, 1970."
 
-#### Transfer of Functions ####
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
-
 #### Loans Under Fish and Wildlife Act of 1956 ####
 
 Pub. L. 96–561, title II, §221, Dec. 22, 1980, 94 Stat. 3295, as amended by Pub. L. 98–44, title I, §103(b), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §431, Oct. 19, 1984, 98 Stat. 2310, provided that during the period beginning Dec. 22, 1980, through the close of Sept. 30, 1986, the Secretary of Commerce could make loans from the fisheries loan fund established under subsec. (c) of this section only for the purpose of assisting obligors to avoid default on obligations covering fishing vessels and to cover operating losses.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.

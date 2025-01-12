@@ -294,6 +294,8 @@ In prescribing regulations to carry out the requirements of this section with re
 
 (Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Pub. L. 86–750, §§2–5, Sept. 13, 1960, 74 Stat. 885, 886; Pub. L. 91–547, §24, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 94–29, §29(1)–(4), June 4, 1975, 89 Stat. 166–169; Pub. L. 96–477, title II, §202, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 99–571, title I, §102(m), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VII, §702, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–429, title IV, §401, Oct. 15, 1990, 104 Stat. 946; Pub. L. 101–550, title II, §205(b), (c), Nov. 15, 1990, 104 Stat. 2719, 2720; Pub. L. 104–62, §5, Dec. 8, 1995, 109 Stat. 685; Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), Oct. 11, 1996, 110 Stat. 3438, 3439, 3448; Pub. L. 105–353, title III, §301(d)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 106–554, §1(a)(5) [title II, §209(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–436; Pub. L. 107–204, title VI, §604(b), (c)(2), July 30, 2002, 116 Stat. 796; Pub. L. 109–291, §4(b)(3)(C), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IV, §§403, 407, 408, title IX, §§925(b), 929P(a)(4), 985(e)(1), July 21, 2010, 124 Stat. 1571, 1574, 1575, 1851, 1864, 1935; Pub. L. 114–94, div. G, title LXXIV, §§74001, 74002, Dec. 4, 2015, 129 Stat. 1786; Pub. L. 115–417, §2, Jan. 3, 2019, 132 Stat. 5438.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Small Business Investment Act of 1958, referred to in subsec. (b)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
@@ -440,6 +442,8 @@ Subsec. (e). Pub. L. 86–750, §4, substituted provisions postponing the effect
 
 Subsec. (g). Pub. L. 86–750, §5, substituted "existence" for "business".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 925(b), 929P(a)(4), and 985(e)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -469,6 +473,8 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1970 Amendment ####
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by section 24(a) of Pub. L. 91–547 effective on expiration of one year after Dec. 14, 1970, see section 30 (introductory text and par. (1)) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

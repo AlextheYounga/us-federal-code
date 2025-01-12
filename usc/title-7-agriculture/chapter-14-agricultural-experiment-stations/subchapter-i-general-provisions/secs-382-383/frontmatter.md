@@ -4,6 +4,8 @@ Section 382, acts Mar. 16, 1906, ch. 951, §6, 34 Stat. 64; Feb. 24, 1925, ch. 3
 
 Section 383, act Oct. 1, 1918, ch. 178, 40 Stat. 998, authorized appropriations for the Georgia Experiment Station. See section 361c of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Existing Rights and Liabilities ####
 
 Any rights or liabilities existing under these sections as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former section 361 of this title.

@@ -10,6 +10,8 @@ Section 5994, Pub. L. 105–391, title VI, §604, Nov. 13, 1998, 112 Stat. 3519,
 
 Section 5995, Pub. L. 105–391, title VI, §605, Nov. 13, 1998, 112 Stat. 3520, related to effect of the national park passport on other laws and programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 19, 2006, see section 6812(d) of this title.

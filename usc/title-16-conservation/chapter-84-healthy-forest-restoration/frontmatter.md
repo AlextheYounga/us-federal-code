@@ -81,3 +81,13 @@ Sec.
 6591d. Wildfire resilience projects.
 
 6591e. Categorical exclusion for greater sage-grouse and mule deer habitat.
+
+6592. Wildfire risk reduction.
+
+6592a. Ecosystem restoration.
+
+6592b. Establishment of fuel breaks in forests and other wildland vegetation.
+
+6592c. Emergency actions.
+
+6592d. Joint Chiefs Landscape Restoration Partnership program.

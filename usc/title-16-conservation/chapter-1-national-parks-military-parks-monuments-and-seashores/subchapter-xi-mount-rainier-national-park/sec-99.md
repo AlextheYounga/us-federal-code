@@ -4,6 +4,8 @@ All guns, traps, teams, horses, or means of transportation of every nature or de
 
 (June 30, 1916, ch. 197, §5, 39 Stat. 245.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act June 30, 1916, which is classified to sections 95 to 105 of this title. For complete classification of this Act to the Code, see Tables.

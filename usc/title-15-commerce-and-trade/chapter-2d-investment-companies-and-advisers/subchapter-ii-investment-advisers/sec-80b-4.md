@@ -150,6 +150,8 @@ Any person that is subject to regulation and examination by a Federal financial 
 
 (Aug. 22, 1940, ch. 686, title II, §204, 54 Stat. 852; Pub. L. 86–750, §6, Sept. 13, 1960, 74 Stat. 886; Pub. L. 94–29, §29(5), June 4, 1975, 89 Stat. 169; Pub. L. 109–290, §7(a), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §404, title IX, §929Q(b), July 21, 2010, 124 Stat. 1571, 1866.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsecs. (b), (c). Pub. L. 111–203, §404, added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d) relating to access to disciplinary and other information.
@@ -164,6 +166,8 @@ Pub. L. 111–203, §404(1), redesignated subsec. (c) as (d) relating to access 
 
 **1960**—Pub. L. 86–750 substituted provisions requiring investment advisers who make business use of the mails or any instrument of interstate commerce, unless exempted from registration by section 80b–3(b) of this title, to keep and preserve accounts, correspondence, memorandums, papers, books, and records, and make such reports as the Commission requires by its rules and regulations, and that these accounts, correspondence, memorandums, papers, books and records shall be subject to examination by representatives of the Commission, for provisions requiring investment advisers registered under section 80b–3 of this title to file annual and special reports in such form as the Commission prescribed by its rules and regulations to keep current the information contained in the registration application.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by section 929Q(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -173,6 +177,8 @@ Amendment by section 404 of Pub. L. 111–203 effective 1 year after July 21, 20
 #### Effective Date of 1975 Amendment ####
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

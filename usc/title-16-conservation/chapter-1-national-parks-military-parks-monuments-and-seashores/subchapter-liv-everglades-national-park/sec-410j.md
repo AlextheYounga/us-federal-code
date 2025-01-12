@@ -12,6 +12,8 @@ The authority to acquire land, water, and interests therein within the park boun
 
 (Pub. L. 85–482, §2, July 2, 1958, 72 Stat. 284; Pub. L. 91–428, §2, Sept. 26, 1970, 84 Stat. 885.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Pub. L. 91–428 struck out restriction against acquisition of certain described lands in Dade County without the consent of the owner so long as the land is used exclusively for agricultural purposes, including housing directly incident thereto, or is lying fallow or remains in its natural state.

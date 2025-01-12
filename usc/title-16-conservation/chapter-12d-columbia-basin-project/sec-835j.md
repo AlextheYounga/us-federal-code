@@ -4,9 +4,13 @@ The Secretary of the Interior shall prepare, maintain, and present annually to t
 
 (Pub. L. 89–448, §2(a), formerly §2, June 14, 1966, 80 Stat. 200, renumbered Pub. L. 89–561, §6(1), Sept. 7, 1966, 80 Stat. 714.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of first sentence of first par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Second sentence of the first par. repealed section 832h(c) of this title; second par. of such section 2(a) is classified to section 835k of this title; subsecs. (b) and (c) of section 2 are classified to sections 835l and 835m of this title, respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Reporting Requirements ####
 
@@ -15,6 +19,8 @@ For termination, effective May 15, 2000, of provisions of this section requiring
 #### Transfer of Functions ####
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 8526. Coordinating the Electrical Facilities of Grand Coulee Dam Project and Bonneville Project ####
 

@@ -30,6 +30,8 @@ The Corporation—
 
 (June 29, 1948, ch. 704, §4, 62 Stat. 1070; June 7, 1949, ch. 175, §§2, 5, 63 Stat. 154, 156; Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591; June 28, 1950, ch. 381, §2, 64 Stat. 261; Mar. 20, 1954, ch. 102, §2, 68 Stat. 30; Aug. 31, 1954, ch. 1172, §2, 68 Stat. 1047; Aug. 11, 1955, ch. 782, §2, 69 Stat. 634; Aug. 1, 1956, ch. 815, §1(a), 70 Stat. 783; Pub. L. 89–758, Nov. 5, 1966, 80 Stat. 1307; Pub. L. 95–113, title XI, §1104, Sept. 29, 1977, 91 Stat. 954; Pub. L. 95–279, title III, §301(a), May 15, 1978, 92 Stat. 242; Pub. L. 96–41, §3(b), July 30, 1979, 93 Stat. 325; Pub. L. 96–234, §3, Apr. 11, 1980, 94 Stat. 333; Pub. L. 97–35, title I, §151, Aug. 13, 1981, 95 Stat. 370; Pub. L. 97–98, title XV, §1520(a), title XVI, §1606, Dec. 22, 1981, 95 Stat. 1335, 1347; Pub. L. 97–164, title I, §161(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 99–198, title XI, §1167(b), title XVII, §1761, Dec. 23, 1985, 99 Stat. 1503, 1651; Pub. L. 99–260, §11, Mar. 20, 1986, 100 Stat. 52; Pub. L. 100–202, §101(k) [title I, §101], Dec. 22, 1987, 101 Stat. 1329–322, 1329–336; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–127, title I, §161(b)(1), Apr. 4, 1996, 110 Stat. 934; Pub. L. 105–185, title V, §521(a), June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(a) [title VII, §756], Oct. 21, 1998, 112 Stat. 2681, 2681–34.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Tort Claims Act, referred to in subsec. (c), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
@@ -96,6 +98,8 @@ Subsec. (i). Act Mar. 20, 1954, substituted "$8,500,000,000" for "$6,750,000,000
 
 Subsec. (h). Act June 7, 1949, §2, enabled the Corporation to acquire items of personal and real property to be used in connection with the care, preservation, storage, and handling of agricultural commodities controlled by it, and enabled the Corporation to take liens on real property as security for obligations owing to it and to bid in on any execution or foreclosure sale to protect its financial interests in the matter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 National Military Establishment changed to Department of Defense by act Aug. 10, 1949.
@@ -124,14 +128,6 @@ Amendment by Pub. L. 95–279 effective Oct. 1, 1978, see section 301(d) of Pub.
 
 Section 1104 of Pub. L. 95–113 provided that the amendment made by that section is effective only with respect to the fiscal years beginning Oct. 1, 1977, and ending Sept. 30, 1981.
 
-#### Delegation of Functions ####
-
-Functions of President under subsec. (h) of this section delegated to Secretary of Defense, see section 2 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under section 98 of Title 50, War and National Defense.
-
-#### Exceptions From Transfer of Functions ####
-
-For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
-
 #### Storage Cost Adjustment for Fiscal Years 1988 and 1989 ####
 
 Pub. L. 100–203, title I, §1106, Dec. 22, 1987, 101 Stat. 1330–5, required the Secretary of Agriculture to reduce expenditures of the Commodity Credit Corporation for commercial storage, transportation, and handling of commodities owned by the Corporation by $230,000,000 from the amount of funds otherwise projected to be expended in fiscal years 1988 and 1989 under the budget base determined under section 901 of title 2.
@@ -139,5 +135,15 @@ Pub. L. 100–203, title I, §1106, Dec. 22, 1987, 101 Stat. 1330–5, required 
 #### Increase in Borrowing Authority Effective Only to Extent Provided in Appropriation Acts ####
 
 Pub. L. 95–279, title III, §301(c), May 15, 1978, 92 Stat. 242, provided that: "The increase in the borrowing authority of the Commodity Credit Corporation made by this section [amending this section and section 713a–4 of this title] shall be effective only to the extent provided in appropriation Acts."
+
+#### **Executive Documents** ####
+
+#### Delegation of Functions ####
+
+Functions of President under subsec. (h) of this section delegated to Secretary of Defense, see section 2 of Ex. Ord. No. 12626, Feb. 25, 1988, 53 F.R. 6114, set out as a note under section 98 of Title 50, War and National Defense.
+
+#### Exceptions From Transfer of Functions ####
+
+For exception of functions of corporations of Department of Agriculture from transfer of functions to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, see Exceptions From Transfer of Functions note set out under section 712a of this title.
 
 [<sup>1</sup> So in original. Should be "Congress)".](#714b_1)

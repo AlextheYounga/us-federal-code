@@ -8,6 +8,8 @@ Notwithstanding any other provision of law, funds received by the United States 
 
 (Mar. 16, 1934, ch. 71, §9, as added Pub. L. 109–266, §10(h), Aug. 3, 2006, 120 Stat. 678.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 9 of act Mar. 16, 1934, was classified to section 718 of this title prior to repeal by Pub. L. 109–266, §10(h), Aug. 3, 2006, 120 Stat. 677.

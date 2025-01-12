@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized in his discretion to accept title to
 
 (Feb. 4, 1932, ch. 19, §2, 47 Stat. 37.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions of act Feb. 4, 1932, §2, relating to the Shenandoah National Park and the Great Smoky Mountains National Park, and to the Mammoth Cave National Park, are classified to sections 403e and 404d of this title.

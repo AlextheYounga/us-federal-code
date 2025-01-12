@@ -4,6 +4,8 @@ Nothing in this subchapter shall be construed to authorize any person to take an
 
 (Mar. 16, 1934, ch. 71, §3, 48 Stat. 451; Pub. L. 95–616, §7(b), Nov. 8, 1978, 92 Stat. 3114; Pub. L. 109–266, §10(d), Aug. 3, 2006, 120 Stat. 675.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–266 inserted section catchline.

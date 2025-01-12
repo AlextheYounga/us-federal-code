@@ -30,9 +30,13 @@ For purposes of this section—
 
 (Pub. L. 104–62, §6, Dec. 8, 1995, 109 Stat. 685.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Philanthropy Protection Act of 1995, and not as part of the Investment Company Act of 1940 which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

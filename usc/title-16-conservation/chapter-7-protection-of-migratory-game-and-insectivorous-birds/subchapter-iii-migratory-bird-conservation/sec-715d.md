@@ -10,9 +10,13 @@ which he determines to be suitable for use as an inviolate sanctuary, or for any
 
 (Feb. 18, 1929, ch. 257, §5, 45 Stat. 1223; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 95–616, §5(a), Nov. 8, 1978, 92 Stat. 3113.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–616 incorporated existing provisions in pars. (1) and (2) and cls. (A) and (B), made provisions applicable to interests in approved areas, and inserted authority for purchase or acquisition for other management purposes.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

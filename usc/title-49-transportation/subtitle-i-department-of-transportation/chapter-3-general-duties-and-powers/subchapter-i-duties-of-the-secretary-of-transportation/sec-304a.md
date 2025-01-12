@@ -34,9 +34,15 @@
 
 (Added Pub. L. 114–94, div. A, title I, §1311(a), Dec. 4, 2015, 129 Stat. 1398.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (c)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

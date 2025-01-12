@@ -6,7 +6,7 @@ The following area is declared to be nonnavigable waters of the United States: A
 
 #### (b) Requirement that area be improved ####
 
-The declaration of nonnavigability under subsection (a) applies only to those parts of the area described in subsection (a) that are or will be bulkheaded, filled, or otherwise occupied or covered by permanent structures and does not affect the applicability of any Federal statute or regulation that relates to filling of navigable waters or to other regulated activities within the area described in subsection (a), including sections 9 and 10 of the Act of March 3, 1899 (33 U.S.C. 401, 403), section 404 of the Federal Water Pollution Control Act [33 U.S.C. 1344], and the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
+The declaration of nonnavigability under subsection (a) applies only to those parts of the area described in subsection (a) that are or will be bulkheaded, filled, or otherwise occupied or covered by permanent structures and does not affect the applicability of any Federal statute or regulation that relates to filling of navigable waters or to other regulated activities within the area described in subsection (a), including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
 
 #### (c) Inclusion of Embarcadero Historic District ####
 
@@ -18,7 +18,7 @@ Congress finds and declares that the area described in subsection (a) contains t
 
 #### References in Text ####
 
-The National Environmental Policy Act of 1969, referred to in susbec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments ####
 

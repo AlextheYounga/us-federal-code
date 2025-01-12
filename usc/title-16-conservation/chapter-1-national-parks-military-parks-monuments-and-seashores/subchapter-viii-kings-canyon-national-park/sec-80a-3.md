@@ -10,6 +10,8 @@ and all lands in the Cedar Grove area of the Sequoia National Forest lying east 
 
 (Pub. L. 89–111, Aug. 6, 1965, 79 Stat. 446.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act Mar. 4, 1940, ch. 40, 54 Stat. 41, which comprises this subchapter.

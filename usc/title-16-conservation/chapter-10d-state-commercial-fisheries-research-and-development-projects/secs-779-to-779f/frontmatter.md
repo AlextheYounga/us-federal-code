@@ -14,6 +14,8 @@ Section 779e, Pub. L. 88–309, §7, May 20, 1964, 78 Stat. 199, related to work
 
 Section 779f, Pub. L. 88–309, §8, May 20, 1964, 78 Stat. 199, authorized promulgation of rules and regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as an Effective Date note under section 4101 of this title.

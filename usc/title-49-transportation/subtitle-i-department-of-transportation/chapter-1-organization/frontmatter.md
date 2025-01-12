@@ -34,7 +34,15 @@ Sec.
 
 117. Council on Credit and Finance.
 
+118. Office of Multimodal Freight Infrastructure and Policy.
+
+119. Advanced Research Projects Agency–Infrastructure.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title I, §21101(c), title V, §25012(b), Nov. 15, 2021, 135 Stat. 656, 867, added items 118 and 119.
 
 **2020**—Pub. L. 116–260, div. AA, title V, §512(c)(7)(B), Dec. 27, 2020, 134 Stat. 2757, substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation" in item 110.
 

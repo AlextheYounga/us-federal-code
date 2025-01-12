@@ -14,6 +14,8 @@ The filing of an application for rehearing under subsection (a) shall not, unles
 
 (June 10, 1920, ch. 285, pt. III, §313, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 860; amended June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §16, Aug. 28, 1958, 72 Stat. 947; Pub. L. 109–58, title XII, §1284(c), Aug. 8, 2005, 119 Stat. 980.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (b), "section 1254 of title 28" substituted for "sections 239 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 346 and 347)" on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
@@ -25,6 +27,8 @@ In subsec. (b), "section 1254 of title 28" substituted for "sections 239 and 240
 **1958**—Subsec. (a). Pub. L. 85–791, §16(a), inserted sentence to provide that Commission may modify or set aside findings or orders until record has been filed in court of appeals.
 
 Subsec. (b). Pub. L. 85–791, §16(b), in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", substituted "file with the court" for "certify and file with the court a transcript of", and inserted "as provided in section 2112 of title 28", and in third sentence, substituted "jurisdiction, which upon the filing of the record with it shall be exclusive" for "exclusive jurisdiction".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

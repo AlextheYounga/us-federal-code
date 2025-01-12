@@ -4,11 +4,15 @@ The Secretary of the Interior may do all things and make all expenditures necess
 
 (Feb. 18, 1929, ch. 257, §6, 45 Stat. 1223; June 15, 1935, ch. 261, title III, §301, 49 Stat. 381; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–393, §6, Sept. 1, 1970, 84 Stat. 835.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Pub. L. 91–393 inserted "or his designee" after "Attorney General".
 
 **1935**—Act June 15, 1935, inserted "under said sections or any other Act for the acquisition by the Secretary of Agriculture of areas for wildlife refuges" and "or as refuges for wildlife", and inserted clause beginning "as are set out in such deed or lease or, if deemed necessary" etc.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

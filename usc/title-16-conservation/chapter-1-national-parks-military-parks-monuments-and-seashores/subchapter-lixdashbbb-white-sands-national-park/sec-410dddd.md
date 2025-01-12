@@ -236,6 +236,8 @@ Any activities undertaken under this subparagraph shall be carried out in accord
 
 (Pub. L. 116–92, div. B, title XXVIII, §2851, Dec. 20, 2019, 133 Stat. 1895.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Presidential Proclamation No. 2025, referred to in subsec. (a)(4), is Proc. No. 2025, Jan. 18, 1933, 47 Stat. 2551, which is listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs.

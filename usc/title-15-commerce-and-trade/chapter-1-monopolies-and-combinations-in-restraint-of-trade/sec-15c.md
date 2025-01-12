@@ -34,6 +34,8 @@ In any action under subsection (a)—
 
 (Oct. 15, 1914, ch. 323, §4C, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1394; amended Pub. L. 96–349, §4(a)(3), Sept. 12, 1980, 94 Stat. 1157.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in subsec. (a)(2), are defined in section 12 of this title.
@@ -41,6 +43,8 @@ The antitrust laws, referred to in subsec. (a)(2), are defined in section 12 of 
 #### Amendments ####
 
 **1980**—Subsec. (a)(2). Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

@@ -26,6 +26,8 @@ This subsection <sup><a href="#77z-2a_1_target" name="77z-2a_1">1</a></sup> sha
 
 (May 27, 1933, ch. 38, title I, §27B, as added Pub. L. 111–203, title VI, §621(a), July 21, 2010, 124 Stat. 1631.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 111–203, title VI, §621(b), July 21, 2010, 124 Stat. 1632, provided that: "Section 27B of the Securities Act of 1933 [15 U.S.C. 77z–2a], as added by this section, shall take effect on the effective date of final rules issued by the [Securities and Exchange] Commission under subsection (b) of such section 27B, except that subsections (b) and (d) of such section 27B shall take effect on the date of enactment of this Act [July 21, 2010]."

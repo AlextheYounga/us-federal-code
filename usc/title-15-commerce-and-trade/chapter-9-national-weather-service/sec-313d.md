@@ -54,6 +54,8 @@ Not later than 1 year after January 7, 2019, the Under Secretary, acting through
 
 (Pub. L. 109–430, §3, Dec. 20, 2006, 120 Stat. 2918; Pub. L. 113–86, §2, Mar. 6, 2014, 128 Stat. 1015; Pub. L. 115–423, §2(a), Jan. 7, 2019, 132 Stat. 5454.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This section, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 109–430, Dec. 20, 2006, 120 Stat. 2918, which enacted this section and provisions set out as notes under this section and section 311 of this title. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under section 311 of this title and Tables.
@@ -85,6 +87,8 @@ Pub. L. 115–423, §2(a)(2), redesignated subsec. (e) as (f).
 Subsec. (b). Pub. L. 113–86, §2(2), added subsec. (b) and struck out former subsec. (b) which set out required functions of the National Integrated Drought Information System.
 
 Subsec. (e). Pub. L. 113–86, §2(3), added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Authorization of Appropriations ####
 

@@ -8,6 +8,8 @@ Section 186, R.S. §338, required annual report of statistics of commerce and na
 
 Section 187, R.S. §§265, 3812; acts Jan. 12, 1895, ch. 23, §17, 28 Stat. 603; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736, related to printing of statement of exports and imports. See section 301 et seq. of Title 13.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 180 days after Oct. 15, 1962, see section 4 of Pub. L. 87–826, set out as a note under section 301 of Title 13, Census.

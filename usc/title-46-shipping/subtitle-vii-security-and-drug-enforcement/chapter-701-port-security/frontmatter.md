@@ -8,7 +8,7 @@ Sec.
 
 70102. United States facility and vessel vulnerability assessments.
 
-[70102a. Repealed]
+[70102a. Repealed.]
 
 70103. Maritime transportation security plans.
 
@@ -68,7 +68,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §8507(d)(1), Jan. 1, 2021, 134 Stat. 4754, repealed amendment by Pub. L. 115–282, §408(c). See 2018 Amendment note below.
+**2021**—Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §8507(d)(1), Jan. 1, 2021, 134 Stat. 4754, repealed amendment by Pub. L. 115–282, §408(c), and further provided that the provisions of law amended by section 408 of Pub. L. 115–282 are amended to read as if such section were not enacted. See 2018 Amendment note below.
 
 **2018**—Pub. L. 115–282, title IV, §408(c), Dec. 4, 2018, 132 Stat. 4268, added item 70102a "Port, harbor, and coastal facility security", prior to repeal by Pub. L. 116–283.
 

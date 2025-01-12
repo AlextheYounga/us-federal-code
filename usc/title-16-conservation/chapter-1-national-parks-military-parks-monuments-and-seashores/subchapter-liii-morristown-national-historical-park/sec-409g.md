@@ -4,6 +4,8 @@ In order to preserve for the benefit and inspiration of the public certain lands
 
 (Pub. L. 88–601, §1, Sept. 18, 1964, 78 Stat. 957; Pub. L. 93–477, title III, §301(6), Oct. 26, 1974, 88 Stat. 1447; Pub. L. 94–578, title III, §315, Oct. 21, 1976, 90 Stat. 2737; Pub. L. 102–118, §1, Oct. 4, 1991, 105 Stat. 586; Pub. L. 115–141, div. G, title I, §119, Mar. 23, 2018, 132 Stat. 661.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, which comprises this subchapter.
@@ -17,6 +19,8 @@ Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, w
 **1976**—Pub. L. 94–578 substituted "600 acres" for "465 acres" in two places.
 
 **1974**—Pub. L. 93–477 substituted "465 acres" for "two hundred and eighty-one acres" in two places and inserted proviso relating to property known as the Cross estate.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Authorization of Appropriations for Additional Lands ####
 

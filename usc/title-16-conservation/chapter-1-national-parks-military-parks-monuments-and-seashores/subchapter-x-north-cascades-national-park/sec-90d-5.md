@@ -4,6 +4,8 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 (Pub. L. 90–544, title V, §506, Oct. 2, 1968, 82 Stat. 930; Pub. L. 94–578, title I, §101(9), Oct. 21, 1976, 90 Stat. 2732.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–578 substituted "$4,500,000" for "$3,500,000".

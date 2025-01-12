@@ -4,6 +4,8 @@ The Secretaries are authorized to accept financial or other assistance from any 
 
 (Pub. L. 95–592, §8, Nov. 4, 1978, 92 Stat. 2532; Pub. L. 98–284, §8, May 16, 1984, 98 Stat. 183.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–284 inserted "or to other critical agricultural materials".

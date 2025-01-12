@@ -10,6 +10,8 @@ The members of any board established under authority of section 715d of this tit
 
 (Feb. 22, 1935, ch. 18, §9, 49 Stat. 33; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions of subsec. (b) that authorized appointments "without regard to the civil service laws" omitted as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
@@ -19,6 +21,8 @@ Provisions of subsec. (b) that authorized appointments "without regard to the ci
 #### Amendments ####
 
 **1949**—Subsec. (b). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

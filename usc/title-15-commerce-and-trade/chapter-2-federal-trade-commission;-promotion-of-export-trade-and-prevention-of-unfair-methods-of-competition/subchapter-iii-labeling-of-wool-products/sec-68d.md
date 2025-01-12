@@ -18,6 +18,8 @@ The neglect or refusal to maintain and so preserve such records is unlawful, and
 
 (Oct. 14, 1940, ch. 871, §6, 54 Stat. 1131.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.

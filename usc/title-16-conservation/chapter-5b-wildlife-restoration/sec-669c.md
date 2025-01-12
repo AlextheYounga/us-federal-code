@@ -12,17 +12,19 @@ For fiscal year 2001 and each fiscal year thereafter, of the revenues (excluding
 
 The available amount referred to in subparagraph (A) is—
 
-(i) for each of fiscal years 2001 and 2002, $9,000,000;
+(i) for the fiscal year that includes November 15, 2021, the sum obtained by adding—
 
-(ii) for fiscal year 2003, $8,212,000; and
+(I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-(iii) for fiscal year 2004 and each fiscal year thereafter, the sum of—
+(II) $979,500; and
 
-(I) the available amount for the preceding fiscal year; and
+(ii) for each fiscal year thereafter, the sum obtained by adding—
 
-(II) the amount determined by multiplying—
+(I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-(aa) the available amount for the preceding fiscal year; and
+(II) the product obtained by multiplying—
+
+(aa) the available amount specified in this subparagraph for the preceding fiscal year; and
 
 (bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
@@ -30,11 +32,17 @@ The available amount referred to in subparagraph (A) is—
 
 #### (A) Period of availability ####
 
-For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the fiscal year.
+For each fiscal year, the available amount under paragraph (1) shall remain available for obligation for use under that paragraph until the end of the subsequent fiscal year.
 
 #### (B) Apportionment of unobligated amounts ####
 
-Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States for the fiscal year.
+#### (i) In general ####
+
+Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remained available for obligation pursuant to subparagraph (A) during that fiscal year and remains unobligated at the end of that fiscal year.
+
+#### (ii) Requirement ####
+
+The available amount apportioned under clause (i) shall be apportioned on the same basis and in the same manner as other amounts made available under this chapter were apportioned among the States for the fiscal year in which the amount was originally made available.
 
 #### (b) Apportionment to States ####
 
@@ -118,13 +126,21 @@ In addition to other uses authorized under this chapter, amounts apportioned und
 
 (5) For purposes of this subsection, the term "State" shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) [title IX, §902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, §501(d), Dec. 20, 2019, 133 Stat. 3192.)
+(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) [title IX, §902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, §501(d), Dec. 20, 2019, 133 Stat. 3192; Pub. L. 117–58, div. B, title VIII, §28001(b)(1), Nov. 15, 2021, 135 Stat. 887.)
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
 Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, §501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(1)(B). Pub. L. 117–58, §28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B), which provided amounts available for fiscal years 2001 and thereafter.
+
+Subsec. (a)(2)(A). Pub. L. 117–58, §28001(b)(1)(B)(i), inserted "subsequent" before "fiscal year."
+
+Subsec. (a)(2)(B). Pub. L. 117–58, §28001(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B), which related to apportionment of unobligated amounts.
 
 **2019**—Subsec. (c). Pub. L. 116–94, §501(d)(1)(A), inserted heading.
 
@@ -157,6 +173,8 @@ Subsec. (d). Pub. L. 106–553 added subsec. (d).
 **1970**—Pub. L. 91–503 designated existing provisions as subsec. (a), substituted "second fiscal year preceding" for "preceding fiscal year" in provision dealing with the apportionment by the Secretary of the Interior, defined "fiscal year", and struck out provisions dealing with the maximum and minimum apportionments "to all the States", and added subsec. (b).
 
 **1946**—Act July 24, 1946, substituted proviso making apportionment upon a percentage basis for provisos providing for certain definite sums to be apportioned to each State.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1989 Amendment ####
 

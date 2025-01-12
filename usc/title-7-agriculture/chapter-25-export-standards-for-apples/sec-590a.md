@@ -4,6 +4,8 @@ On and after October 18, 1986, no funds available to the Department of Agricultu
 
 (Pub. L. 99–500, §101(a) [title I], Oct. 18, 1986, 100 Stat. 1783, 1783–3, and Pub. L. 99–591, §101(a) [title I], Oct. 30, 1986, 100 Stat. 3341, 3341–3.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 411b of this title prior to editorial reclassification and renumbering as this section.

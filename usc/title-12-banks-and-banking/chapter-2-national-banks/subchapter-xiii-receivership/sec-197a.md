@@ -4,7 +4,7 @@ In any case in which, in the opinion of the Comptroller of the Currency, it woul
 
 (June 16, 1933, ch. 89, §29, 48 Stat. 193.)
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Exception as to Transfer of Functions ####
 

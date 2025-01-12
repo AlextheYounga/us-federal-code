@@ -1,5 +1,7 @@
 ### §§1708 to 1715. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in the general revision of this chapter by Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3633.

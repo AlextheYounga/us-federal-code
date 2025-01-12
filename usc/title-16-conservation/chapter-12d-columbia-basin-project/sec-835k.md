@@ -4,6 +4,8 @@ Subject to the provisions of section 835l of this title, that portion of the con
 
 (Pub. L. 89–448, §2(a), formerly §2, June 14, 1966, 80 Stat. 200, renumbered and amended Pub. L. 89–561, §6(1), (2), Sept. 7, 1966, 80 Stat. 714.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
@@ -15,6 +17,8 @@ Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so d
 #### Amendments ####
 
 **1966**—Pub. L. 89–561, §6(2), substituted "Subject to the provisions of section 835l of this title, that" for "That".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

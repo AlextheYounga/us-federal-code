@@ -14,6 +14,8 @@ Within 3 years after June 23, 1992, the Secretary shall develop and transmit to 
 
 (Pub. L. 102–304, §7, June 23, 1992, 106 Stat. 257; Pub. L. 111–11, title VII, §7113(a)(3)(C), Mar. 30, 2009, 123 Stat. 1202.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In introductory provisions, "section 100502 of title 54" substituted for "section 12 of the Act of August 18, 1970 (16 U.S.C. 1a–7)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
@@ -21,6 +23,8 @@ In introductory provisions, "section 100502 of title 54" substituted for "sectio
 #### Amendments ####
 
 **2009**—Pub. L. 111–11 substituted "historical park" for "historic site" in introductory provisions and in par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

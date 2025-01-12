@@ -32,15 +32,15 @@ Sec.
 
 4232. Genius Prize for Save Our Seas Innovations.
 
-4233. Agreement with The Marine Debris Foundation.
+4233. Agreement with the Marine Debris Foundation.
 
 4234. Judges.
 
-4235. Report to Congress
+4235. Report to Congress.
 
-4236. Authorization of appropriations
+4236. Authorization of appropriations.
 
-4237. Termination of authority
+4237. Termination of authority.
 
 #### Part C—Pilot Projects ####
 

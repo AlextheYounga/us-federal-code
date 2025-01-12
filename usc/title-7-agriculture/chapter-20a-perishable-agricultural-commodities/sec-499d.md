@@ -30,6 +30,8 @@ The Secretary may refuse to issue a license to an applicant if he finds that the
 
 (June 10, 1930, ch. 436, §4, 46 Stat. 533; Apr. 13, 1934, ch. 120, §§4–7, 48 Stat. 585, 586; June 19, 1936, ch. 602, §2, 49 Stat. 1533; Aug. 20, 1937, ch. 719, §6, 50 Stat. 726; June 15, 1950, ch. 254, §2, 64 Stat. 218; July 30, 1956, ch. 786, §§2(b), 3, 4, 70 Stat. 726; Pub. L. 87–725, §§5–7, Oct. 1, 1962, 76 Stat. 674; Pub. L. 95–598, title III, §303, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 102–237, title X, §1011(2), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§4(c), 5(b), 12(c), Nov. 15, 1995, 109 Stat. 427, 431.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 554 of this title.
@@ -73,6 +75,8 @@ Subsecs. (c), (d). Act Aug. 20, 1937, amended subsecs. (c) and (d) generally.
 **1934**—Subsec. (b). Act Apr. 13, 1934, §4, among other changes, added cls. (3) and (4).
 
 Subsecs. (c) to (e). Act Apr. 13, 1934, §§5–7, added subsecs. (c) to (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1978 Amendment ####
 

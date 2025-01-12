@@ -14,6 +14,8 @@ For purposes of sections 34 to 36 of this title—
 
 (Pub. L. 98–544, §2, Oct. 24, 1984, 98 Stat. 2750.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 98–544, §6, Oct. 24, 1984, 98 Stat. 2751, provided that: "This Act [enacting this section, sections 35 and 36 of this title, and provisions set out as a note under section 1 of this title] shall take effect thirty days before the date of the enactment of this Act [Oct. 24, 1984]."

@@ -4,9 +4,13 @@ It shall be the duties of the commissioners, under the direction of the Secretar
 
 (July 3, 1926, ch. 746, §4, 44 Stat. 822; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 87–603, §1, Aug. 24, 1962, 76 Stat. 403.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Battlefield" substituted in text for "park" in view of redesignation of Petersburg National Military Park as Petersburg National Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

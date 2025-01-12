@@ -36,6 +36,8 @@ Any owner of lands or interests therein within the park who desires to have such
 
 (Pub. L. 97–460, §2, Jan. 12, 1983, 96 Stat. 2520.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), is Pub. L. 97–460, Jan. 12, 1983, 96 Stat. 2520, which enacted sections 159f and 159g of this title, amended section 159d of this title, and enacted a provision set out as a note under section 159f of this title. For complete classification of this Act to the Code, see Tables.

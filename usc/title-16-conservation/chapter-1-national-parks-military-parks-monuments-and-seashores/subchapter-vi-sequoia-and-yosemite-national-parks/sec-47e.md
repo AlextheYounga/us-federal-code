@@ -6,6 +6,8 @@ When title to the aforesaid privately owned lands has been vested in the United 
 
 (July 9, 1937, ch. 469, §§1, 2, 50 Stat. 485, 486.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 3113 of title 40" substituted in text for "the Act of August 1, 1888" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.

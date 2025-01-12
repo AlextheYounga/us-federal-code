@@ -50,7 +50,7 @@ Sec.
 
 324. Prohibition of discrimination on the basis of sex.
 
-325. State assumption of responsibilities for certain programs and projects.
+[325. Repealed.]
 
 326. State assumption of responsibility for categorical exclusions.
 
@@ -62,9 +62,15 @@ Sec.
 
 330. Program for eliminating duplication of environmental reviews.
 
+331. Evaluation of projects within an operational right-of-way.
+
+332. Pollinator-friendly practices on roadsides and highway rights-of-way.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. A, title I, §§11309(b), 11525(t), 11528(b), Nov. 15, 2021, 135 Stat. 536, 608, 612, added items 331 and 332 and struck out item 325 "State assumption of responsibilities for certain programs and projects".
 
 **2015**—Pub. L. 114–94, div. A, title I, §1309(d), Dec. 4, 2015, 129 Stat. 1397, added item 330.
 

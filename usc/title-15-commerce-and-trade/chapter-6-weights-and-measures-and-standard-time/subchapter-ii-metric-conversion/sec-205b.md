@@ -12,9 +12,13 @@ It is therefore the declared policy of the United States—
 
 (Pub. L. 94–168, §3, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 100–418, title V, §5164(b), Aug. 23, 1988, 102 Stat. 1452.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows: "It is therefore declared that the policy of the United States shall be to coordinate and plan the increasing use of the metric system in the United States and to establish a United States Metric Board to coordinate the voluntary conversion to the metric system."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Implementation of Metric Usage in Federal Government ####
 

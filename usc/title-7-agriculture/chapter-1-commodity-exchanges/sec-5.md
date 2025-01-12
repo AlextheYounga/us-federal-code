@@ -10,6 +10,8 @@ It is the purpose of this chapter to serve the public interests described in sub
 
 (Sept. 21, 1922, ch. 369, §3, as added Pub. L. 106–554, §1(a)(5) [title I, §108], Dec. 21, 2000, 114 Stat. 2763, 2763A–383.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 5, acts Sept. 21, 1922, ch. 369, §3, 42 Stat. 999; June 15, 1936, ch. 545, §2, 49 Stat. 1491; Pub. L. 97–444, title II, §203, Jan. 11, 1983, 96 Stat. 2298, stated legislative findings, prior to repeal by Pub. L. 106–554, §1(a)(5) [title I, §108], Dec. 21, 2000, 114 Stat. 2763, 2763A–383.

@@ -48,6 +48,8 @@ The activities of the Inspector General under this subsection shall be funded by
 
 (June 6, 1934, ch. 404, title I, §4D, as added Pub. L. 111–203, title IX, §966, July 21, 2010, 124 Stat. 1912.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.

@@ -1,5 +1,7 @@
 ### §§3001 to 3007. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 3001 to 3007 were omitted pursuant to section 3007 which provided that this chapter terminated Sept. 30, 1984.
@@ -17,6 +19,8 @@ Section 3005, Pub. L. 96–460, §6, Oct. 15, 1980, 94 Stat. 2047, authorized ap
 Section 3006, Pub. L. 96–460, §7, Oct. 15, 1980, 94 Stat. 2047, established the relationship between this chapter and existing Federal, State, and local authority.
 
 Section 3007, Pub. L. 96–460, §8, Oct. 15, 1980, 94 Stat. 2048, provided that this chapter and the authority conferred by it would terminate Sept. 30, 1984.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

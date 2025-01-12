@@ -36,6 +36,8 @@ there shall be no referral to the Attorney General under subsection (c) of this 
 
 (Pub. L. 100–330, §8, June 7, 1988, 102 Stat. 594; Pub. L. 100–350, §4(1), (2), June 27, 1988, 102 Stat. 660.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (a). Pub. L. 100–350, §4(1), substituted "and gravity" for "any gravity" and "history of prior" for "history or prior".

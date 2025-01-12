@@ -1,5 +1,7 @@
 ### §§601 to 616. Repealed or Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 601, acts Jan. 22, 1932, ch. 8, §1, 47 Stat. 5; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202; May 25, 1948, ch. 334, §1, 62 Stat. 261; 1951 Reorg. Plan No. 1, §§1, 5, 9, eff. May 1, 1951, 16 F.R. 3690, 65 Stat. 773, 774, created the Reconstruction Finance Corporation, which was abolished by section 6 of Reorg. Plan. No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.

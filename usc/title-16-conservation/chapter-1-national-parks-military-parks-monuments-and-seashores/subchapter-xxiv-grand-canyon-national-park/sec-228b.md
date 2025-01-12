@@ -14,6 +14,8 @@ The Secretary of the Interior shall study the lands within the former boundaries
 
 (Pub. L. 93–620, §3, Jan. 3, 1975, 88 Stat. 2090.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Navajo Boundary Act of 1934, referred to in subsec. (a), is act June 14, 1934, ch. 521, 48 Stat. 960, which was not classified to the Code.

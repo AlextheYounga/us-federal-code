@@ -242,13 +242,15 @@ Act June 16, 1933, ch. 89, §16, 48 Stat. 184, provided that restrictions of thi
 
 Pub. L. 103–325, title III, §347(c), Sept. 23, 1994, 108 Stat. 2241, provided that: "Not later than 1 year after the date of enactment of this Act [Sept. 23, 1994], the Comptroller of the Currency shall promulgate final regulations, in accordance with the thirteenth sentence of Paragraph Seventh of section 5136 of the Revised Statutes [this section] (as amended by subsection (b)), to carry out the amendments made by this section [amending this section and section 78c of Title 15, Commerce and Trade]." [Final regulations implementing these amendments were published in the Federal Register on Dec. 2, 1996 [61 F.R. 63972], effective Dec. 31, 1996.]
 
-#### Exception as to Transfer of Functions ####
-
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
 #### Abolition of Home Owners' Loan Corporation ####
 
 For dissolution and abolishment of Home Owners' Loan Corporation, by act June 30, 1953, ch. 170, §21, 67 Stat. 126, see note set out under section 1463 of this title.
+
+#### **Executive Documents** ####
+
+#### Exception as to Transfer of Functions ####
+
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#24_1)
 

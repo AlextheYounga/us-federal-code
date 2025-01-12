@@ -118,6 +118,8 @@ Nothing in this subsection shall authorize the Commission to withhold informatio
 
 For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
@@ -151,6 +153,8 @@ Subsec. (b)(4), (5). Pub. L. 103–312, §8(5), (6), inserted "tangible things,"
 Subsec. (b)(6). Pub. L. 103–312, §8(7), inserted "The custodian of any tangible things may make such things available for inspection to such persons on the same basis." after first sentence, and "results of inspections of tangible things," after "Such documentary material,".
 
 Subsec. (b)(7). Pub. L. 103–312, §8(8), inserted "tangible things," after "documentary material,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination Date of 2006 Amendment ####
 

@@ -4,6 +4,8 @@ The Mound City Group National Monument established by proclamation of the Presid
 
 (Pub. L. 102–294, §1, May 27, 1992, 106 Stat. 185.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Proclamation No. 1653, 42 Stat. 2298 and section 701 of Public Law 96–607, referred to in text, appear in a table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 320301 of Title 54, National Park Service and Related Programs.

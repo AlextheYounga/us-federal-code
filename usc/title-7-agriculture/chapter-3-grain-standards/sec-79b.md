@@ -14,6 +14,8 @@ Notwithstanding any other provision of law, no person shall use for the purposes
 
 (Aug. 11, 1916, ch. 313, pt. B, §7B, as added Pub. L. 94–582, §9, Oct. 21, 1976, 90 Stat. 2877; amended Pub. L. 95–113, title XVI, §1604(f), Sept. 29, 1977, 91 Stat. 1028; Pub. L. 103–156, §12(f), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §104, Nov. 9, 2000, 114 Stat. 2060.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Subsec. (a). Pub. L. 106–472 struck out "but at least annually and" before "under such regulations" in first sentence.
@@ -25,6 +27,8 @@ Notwithstanding any other provision of law, no person shall use for the purposes
 **1977**—Subsec. (a). Pub. L. 95–113, §1604(f)(1), (2), substituted "and weighing for the purpose of official inspection, official weighing, or supervision of weighing of grain located at all grain elevators" for "and weighing of grain located at all grain elevators" and inserted provisions that regulations provide for the charging and collection of reasonable fees to cover the estimated costs to the Service incident to the performance of testing by employees of the Service and that the fees be deposited into the fund created by section 79(j) of this title.
 
 Subsec. (c). Pub. L. 95–113, §1604(f)(3), substituted "shall use for the purposes of this chapter" for "shall use".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1977 Amendment ####
 

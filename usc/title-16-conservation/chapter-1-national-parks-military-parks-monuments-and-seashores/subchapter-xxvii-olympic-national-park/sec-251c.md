@@ -4,6 +4,8 @@ Lands acquired pursuant to the exchange authority contained herein shall be admi
 
 (Pub. L. 85–455, §2, June 11, 1958, 72 Stat. 185.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Herein, referred to in text, means Pub. L. 85–455, June 11, 1958, 72 Stat. 185, which is classified to sections 251b to 251d of this title. The "exchange authority" referred to in text is contained in section 1 of the Act, which is classified to section 251b of this title.

@@ -86,6 +86,8 @@ Sec.
 
 31161. International cooperation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–94, div. A, title V, §§5101(d), (e)(3), (4), 5103(b), Dec. 4, 2015, 129 Stat. 1525, 1527, substituted "Motor carrier safety assistance program" for "Grants to States" in item 31102, "Commercial motor vehicle operators grant program" for "United States Government's share of costs" in item 31103, and "Authorization of appropriations" for "Availability of amounts" in item 31104, struck out items 31107 "Border enforcement grants" and 31109 "Performance and registration information system management", and added item 31110.

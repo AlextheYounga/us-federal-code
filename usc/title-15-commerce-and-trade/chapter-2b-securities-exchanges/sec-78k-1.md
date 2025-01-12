@@ -130,6 +130,8 @@ No rule adopted pursuant to this section shall be applied to any person with res
 
 (June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) [title II, §206(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–430; Pub. L. 112–106, title I, §106(b), Apr. 5, 2012, 126 Stat. 312.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -149,6 +151,8 @@ Subsec. (c)(4). Pub. L. 100–181, §313(2), struck out "On or before the nineti
 Subsec. (e). Pub. L. 100–181, §314, struck out subsec. (e) which read as follows: "The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of 'broker' and 'dealer' maintain accounts on behalf of public customers for buying and selling securities registered under section 78l of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable."
 
 **1984**—Subsec. (c)(4). Pub. L. 98–620 struck out designation "(A)" after "(4)", and struck out subpar. (B) which provided that review pursuant to section 78y(b) of this title of any rule promulgated by the Commission in accordance with any proceeding commenced pursuant to this paragraph would, except as to causes the court considers of greater importance, take precedence on the docket over all other causes and had to be assigned for consideration at the earliest practicable date and expedited in every way.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

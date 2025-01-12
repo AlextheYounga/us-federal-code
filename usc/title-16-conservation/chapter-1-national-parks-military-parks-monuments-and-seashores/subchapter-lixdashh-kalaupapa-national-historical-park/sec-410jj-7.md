@@ -26,6 +26,8 @@ The Commission shall expire on the date that is 45 years after December 22, 1980
 
 (Pub. L. 96–565, title I, §108, Dec. 22, 1980, 94 Stat. 3323; Pub. L. 109–54, title I, §128, Aug. 2, 2005, 119 Stat. 525.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (c), is Pub. L. 96–565, Dec. 22, 1980, 94 Stat. 3321, as amended, which enacted this subchapter and provisions set out as a note under section 2991a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.

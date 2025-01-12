@@ -486,7 +486,7 @@ Sec.
 
 1643. Application of customs reorganization act.
 
-1644. Application of section 1644a(b)(1) of this title and section 1518(d) of title 33.
+1644. Application of the Federal Aviation Act and section 1518(d) of title 33.
 
 1644a. Ports of entry.
 

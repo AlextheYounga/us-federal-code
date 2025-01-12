@@ -16,7 +16,7 @@ R.S. §5145 derived from act June 3, 1864, ch. 106, §§9, 10, 13 Stat. 102, whi
 
 **1963**—Pub. L. 88–232 substituted "on such day of each year as is specified therefor in the bylaws" for "on such day in January of each year as is specified therefor in the articles of association".
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Exception as to Transfer of Functions ####
 

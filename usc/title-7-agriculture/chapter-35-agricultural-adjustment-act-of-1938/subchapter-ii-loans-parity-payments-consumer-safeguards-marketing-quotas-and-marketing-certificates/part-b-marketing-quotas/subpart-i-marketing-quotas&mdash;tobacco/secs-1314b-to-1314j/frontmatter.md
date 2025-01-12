@@ -22,6 +22,8 @@ Section 1314i, act Feb. 16, 1938, ch. 30, title III, §320C, as added Pub. L. 10
 
 Section 1314j, act Feb. 16, 1938, ch. 30, title III, §320D, as added Pub. L. 106–47, §1, Aug. 13, 1999, 113 Stat. 228, and Pub. L. 106–78, title VII, §755(b), Oct. 22, 1999, 113 Stat. 1170; amended Pub. L. 106–113, div. B, §1000(a)(5) [title II, §211], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, related to release of tobacco production and marketing information.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.

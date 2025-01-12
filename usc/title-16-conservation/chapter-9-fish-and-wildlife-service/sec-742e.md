@@ -14,9 +14,13 @@ The Secretary may request and secure the advice or assistance of any department 
 
 (Aug. 8, 1956, ch. 1036, §6, 70 Stat. 1122; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

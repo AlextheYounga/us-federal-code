@@ -140,6 +140,8 @@ Not later than 60 days after May 28, 1980, the Commission shall publish a propos
 
 (Sept. 26, 1914, ch. 311, §18, as added Pub. L. 93–637, title II, §202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, §1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, §610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, §715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, §744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, §212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, §1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, §5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 109–351, title VII, §725(g), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(g), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 111–203, title X, §1092, July 21, 2010, 124 Stat. 2094.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (f)(2)(B), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
@@ -230,6 +232,8 @@ Subsecs. (j), (k). Pub. L. 96–252, §12, added subsecs. (j) and (k).
 
 Subsec. (f)(3) to (6). Pub. L. 96–37, §1(c)(2), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
@@ -260,15 +264,15 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Restriction on Use of Funds for Purpose of Initiating New Rulemaking Proceeding ####
 
-Section 11(b) of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under section 57c of this title, for the purpose of initiating any new rulemaking proceeding under this section which was intended to result in, or which might result in, the promulgation of any rule by the Commission which prohibited or otherwise regulated any commercial advertising on the basis of a determination by the Commission that such commercial advertising constituted an unfair act or practice in or affecting commerce.
+Pub. L. 96–252, §11(b), May 28, 1980, 94 Stat. 379, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under section 57c of this title, for the purpose of initiating any new rulemaking proceeding under this section which was intended to result in, or which might result in, the promulgation of any rule by the Commission which prohibited or otherwise regulated any commercial advertising on the basis of a determination by the Commission that such commercial advertising constituted an unfair act or practice in or affecting commerce.
 
 #### Restriction on Use of Funds Respecting Regulation of Funeral Industry; Exception ####
 
-Section 19 of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982, under section 57c of this title to issue the proposed trade regulation rule which was published in the Federal Register of Aug. 29, 1975, beginning at page 39901, and which relates to the regulation of funeral industry practices, in final form or a substantially similar proposed or final trade regulation rule unless the final rule met specific requirements and the Commission followed specific procedures.
+Pub. L. 96–252, §19, May 28, 1980, 94 Stat. 391, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982, under section 57c of this title to issue the proposed trade regulation rule which was published in the Federal Register of Aug. 29, 1975, beginning at page 39901, and which relates to the regulation of funeral industry practices, in final form or a substantially similar proposed or final trade regulation rule unless the final rule met specific requirements and the Commission followed specific procedures.
 
 #### Oversight Hearings With Respect to Federal Trade Commission ####
 
-Section 22 of Pub. L. 96–252 required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendar months, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
+Pub. L. 96–252, §22, May 28, 1980, 94 Stat. 396, required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendar months, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
 
 #### Applicability of Unfair or Deceptive Acts or Practices Rulemaking Procedures to Rules Classifying Corporations Promulgated Prior to January 4, 1975 ####
 
@@ -280,7 +284,7 @@ Pub. L. 93–637, title II, §202(c), Jan. 4, 1975, 88 Stat. 2198, provided that
 
 #### Study, Evaluation, and Report by Federal Trade Commission and Administrative Conference of United States on Unfair or Deceptive Acts or Practices; Rulemaking Procedures ####
 
-Section 202(d) of Pub. L. 93–637, as amended by Pub. L. 94–299, §2, May 29, 1976, 90 Stat. 588; Pub. L. 95–558, Nov. 1, 1978, 92 Stat. 2130, required the Federal Trade Commission and the Administrative Conference of the United States, not later than June 30, 1979, to conduct a study and submit a report to Congress on the rulemaking procedures under section 57a of this title.
+Pub. L. 93–637, title II, §202(d), Jan. 4, 1975, 88 Stat. 2198, as amended by Pub. L. 94–299, §2, May 29, 1976, 90 Stat. 588; Pub. L. 95–558, Nov. 1, 1978, 92 Stat. 2130, required the Federal Trade Commission and the Administrative Conference of the United States, not later than June 30, 1979, to conduct a study and submit a report to Congress on the rulemaking procedures under section 57a of this title.
 
 [<sup>1</sup> So in original. Probably should be "and".](#57a_1)
 

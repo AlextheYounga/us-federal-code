@@ -4,6 +4,8 @@ The purposes of this joint resolution are to aid in stabilizing the economy of t
 
 (Dec. 30, 1947, ch. 526, §1, 61 Stat. 945.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This joint resolution, referred to in text, means act Dec. 30, 1947, ch. 526, 61 Stat. 945. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ This joint resolution, referred to in text, means act Dec. 30, 1947, ch. 526, 61
 #### Codification ####
 
 Section was formerly classified to section 1911 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as this section.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 9919. Delegation of Authority and Establishment of Procedures Under 15 U.S.C. 713d et seq. ####
 

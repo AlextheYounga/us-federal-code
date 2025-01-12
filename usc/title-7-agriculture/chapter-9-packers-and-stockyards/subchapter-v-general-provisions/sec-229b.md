@@ -44,6 +44,8 @@ This section applies to each contract described in subsection (b) that is entere
 
 (Pub. L. 107–171, title X, §10503, May 13, 2002, 116 Stat. 510.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Packers and Stockyards Act, 1921, which comprises this chapter.

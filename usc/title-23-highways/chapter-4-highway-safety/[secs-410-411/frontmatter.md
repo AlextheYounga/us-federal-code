@@ -9,3 +9,7 @@ Section 411, added Pub. L. 105–178, title II, §2005(a), June 9, 1998, 112 Sta
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+#### Repeal of Programs ####
+
+Pub. L. 112–141, div. C, title I, §31109(a), July 6, 2012, 126 Stat. 756, provided that: "A repeal made by this section [repealing sections 406 to 408, 410, and 411 of this title and repealing provisions set out as notes under sections 402, 403, and 405 of this title] shall not affect amounts apportioned or allocated before the effective date of such repeal [Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title], provided that such apportioned or allocated funds continue to be subject to the requirements to which such funds were subject under the repealed section as in effect on the day before the date of the repeal."

@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized to acquire, and the State of Montana
 
 (Mar. 16, 1948, ch. 133, 62 Stat. 80.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 11 of the Act approved February 22, 1889 (25 Stat. 676), referred to in text, was not classified to the Code.

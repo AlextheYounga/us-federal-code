@@ -38,7 +38,7 @@ For purposes of this subsection, the terms "depository institution", "insured de
 
 **1959**—Pub. L. 86–230 required approval of Comptroller of the Currency before a national bank could change location of its main office within the limitations of the city, town, or village in which it is situated.
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Exception as to Transfer of Functions ####
 

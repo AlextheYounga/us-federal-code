@@ -2,7 +2,7 @@
 
 Sec.
 
-7451. Fee for filing petition.
+7451. Petitions.
 
 7452. Representation of parties.
 
@@ -37,6 +37,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. H, title V, §80503(b)(2), Nov. 15, 2021, 135 Stat. 1336, substituted "Petitions" for "Fee for filing petition" in item 7451.
 
 **2015**—Pub. L. 114–113, div. Q, title IV, §431(b), Dec. 18, 2015, 129 Stat. 3125, added item 7466.
 

@@ -412,6 +412,8 @@ As part of the Program, the Secretary shall develop open access resources that a
 
 (Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, §501(b), Jan. 6, 2017, 130 Stat. 3023.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (m)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -473,6 +475,8 @@ Subsec. (f). Pub. L. 110–69, §3003(e), added subsec. (f).
 **1992**—Subsec. (c)(6). Pub. L. 102–245, §105(e)(1), inserted before period at end "except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director".
 
 Subsec. (d). Pub. L. 102–245, §105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

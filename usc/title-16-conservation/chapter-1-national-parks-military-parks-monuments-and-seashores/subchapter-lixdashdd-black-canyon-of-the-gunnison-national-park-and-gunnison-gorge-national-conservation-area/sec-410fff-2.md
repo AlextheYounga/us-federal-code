@@ -42,6 +42,8 @@ Subject to valid existing rights, all Federal lands within the park <sup><a hre
 
 (Pub. L. 106–76, §4, Oct. 21, 1999, 113 Stat. 1127; Pub. L. 108–128, §§2(a), 4, Nov. 17, 2003, 117 Stat. 1355, 1356.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Upon enactment of this subchapter, referred to in subsec. (b), was in the original "upon enactment of this title", which was translated as reading "upon enactment of this act", meaning upon enactment of Pub. L. 106–76, which was approved Oct. 21, 1999, to reflect the probable intent of Congress.
@@ -63,6 +65,8 @@ Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the
 Subsec. (e)(1)(D). Pub. L. 108–128, §4(a), added subpar. (D). See Codification note above.
 
 Subsec. (e)(3). Pub. L. 108–128, §4(b), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and, in subpar. (D), substituted "corporation or" for "partnership, corporation, or" in three places and "subparagraphs (A), (B), or (C)" for "subparagraph (A)". See Codification note above.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

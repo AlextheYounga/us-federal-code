@@ -12,10 +12,12 @@ Section is based on Treasury Department Appropriation Act, 1924, act Jan. 3, 192
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Exception as to Transfer of Functions ####
-
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
 #### Similar Provisions ####
 
 Similar provisions were contained in act Feb. 17, 1922, ch. 55, 42 Stat. 375, and in earlier appropriation acts.
+
+#### **Executive Documents** ####
+
+#### Exception as to Transfer of Functions ####
+
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

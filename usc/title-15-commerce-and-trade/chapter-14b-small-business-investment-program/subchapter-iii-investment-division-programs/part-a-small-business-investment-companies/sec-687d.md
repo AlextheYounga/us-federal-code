@@ -4,6 +4,8 @@ For the purpose of controlling conflicts of interest which may be detrimental to
 
 (Pub. L. 85–699, title III, §312, as added Pub. L. 88–273, §6(a), Feb. 28, 1964, 78 Stat. 147; amended Pub. L. 94–305, title I, §106(f), June 4, 1976, 90 Stat. 666; Pub. L. 104–208, div. D, title II, §208(h)(1)(D), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 107–100, §3, Dec. 21, 2001, 115 Stat. 966.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "this chapter", referred to in text, see References in Text note set out under section 661 of this title.

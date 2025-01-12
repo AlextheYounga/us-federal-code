@@ -12,6 +12,8 @@ It shall be unlawful for any investment adviser by use of the mails or any means
 
 (Aug. 22, 1940, ch. 686, title II, §206, 54 Stat. 852; Pub. L. 86–750, §§8, 9, Sept. 13, 1960, 74 Stat. 887; Pub. L. 111–203, title IX, §985(e)(2), July 21, 2010, 124 Stat. 1935.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Par. (3). Pub. L. 111–203 inserted "or" at end.
@@ -19,6 +21,8 @@ It shall be unlawful for any investment adviser by use of the mails or any means
 **1960**—Pub. L. 86–750, §8, struck out "registered under section 80b–3 of this title" from introductory text.
 
 Par. (4). Pub. L. 86–750, §9, added par. (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

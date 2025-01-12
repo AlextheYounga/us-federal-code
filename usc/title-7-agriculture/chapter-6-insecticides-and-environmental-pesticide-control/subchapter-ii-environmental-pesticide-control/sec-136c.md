@@ -30,6 +30,8 @@ Notwithstanding the foregoing provisions of this section, the Administrator may 
 
 (June 25, 1947, ch. 125, §5, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 983; amended Pub. L. 94–140, §10, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, §10, Sept. 30, 1978, 92 Stat. 828; Pub. L. 100–532, title VIII, §801(d), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2681, 2683; Pub. L. 102–237, title X, §1006(b)(1), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 116–8, §4, Mar. 8, 2019, 133 Stat. 487.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 5 of act June 25, 1947, was classified to section 135c of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
@@ -49,6 +51,8 @@ Subsec. (g). Pub. L. 100–532, §801(d), substituted "require. Such pesticide" 
 Subsec. (f). Pub. L. 95–396, §10(2), substituted in first sentence "shall" for "may" where first appearing.
 
 **1975**—Subsec. (g). Pub. L. 94–140 added subsec. (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

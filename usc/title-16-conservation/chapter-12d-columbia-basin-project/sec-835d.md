@@ -6,6 +6,8 @@ The Secretary of the Interior, in lieu of reserving rights of hunting, fishing, 
 
 (June 29, 1940, ch. 460, §1, 54 Stat. 703; Dec. 16, 1944, ch. 602, 58 Stat. 813; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of August 30, 1935 (49 Stat. 1028), referred to in text, is act Aug. 30, 1935, ch. 831, 49 Stat. 1028, as amended, which act, by section 2, authorized the construction of the Grand Coulee Dam.
@@ -17,6 +19,8 @@ The Columbia Basin Project Act, referred to in text, is act May 27, 1937, ch. 26
 #### Amendments ####
 
 **1944**—Act Dec. 16, 1944, among other changes, inserted reference to the Act of August 4, 1939, and the Columbia Basin Project Act in first par.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

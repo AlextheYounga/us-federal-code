@@ -4,6 +4,8 @@ With respect to the Cape Krusenstern National Monument, the Malaspina Glacier Fo
 
 (Pub. L. 96–487, title II, §205, Dec. 2, 1980, 94 Stat. 2384.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Glacier Bay National Park Resource Management ####
 
 Pub. L. 106–455, Nov. 7, 2000, 114 Stat. 1953, provided that:

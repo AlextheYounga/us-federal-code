@@ -88,6 +88,8 @@ In any cease-and-desist proceeding under subsection (a), the Commission may issu
 
 (June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939; amended Pub. L. 107–204, §3(b)(3), title XI, §§1103, 1105(a), July 30, 2002, 116 Stat. 749, 807, 809; Pub. L. 111–203, title IX, §985(b)(8), July 21, 2010, 124 Stat. 1934.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -105,6 +107,8 @@ Pub. L. 107–204, §3(b)(3), inserted "registered public accounting firm (as de
 Subsec. (c)(3). Pub. L. 107–204, §1103(a), added par. (3).
 
 Subsec. (f). Pub. L. 107–204, §1105(a), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

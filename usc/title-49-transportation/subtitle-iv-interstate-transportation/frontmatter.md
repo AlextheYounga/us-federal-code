@@ -67,6 +67,8 @@ Chapter Sec.
 
 A prior subtitle IV, consisting of chapters 101 to 119, related to interstate commerce, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Pub. L. 105–102, §2(5), Nov. 20, 1997, 111 Stat. 2204, struck out "AND TARIFFS" after "RATES" in item for chapter 155.

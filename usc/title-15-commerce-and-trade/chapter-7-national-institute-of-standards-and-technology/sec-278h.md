@@ -108,6 +108,8 @@ The term "institution of higher education" has the meaning given that term in se
 
 (Mar. 3, 1901, ch. 872, §22, as added Pub. L. 107–305, §8(a)(2), Nov. 27, 2002, 116 Stat. 2375.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 278g–3 of this title, referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, did not contain a subsec. (d) defining "computer system" or a subsec. (f). A later amendment by Pub. L. 113–274, title II, §204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of section 278g–3 of this title, relating to definitions, as subsec. (f).
@@ -117,6 +119,8 @@ The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4),
 #### Prior Provisions ####
 
 A prior section 22 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

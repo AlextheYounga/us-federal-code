@@ -196,6 +196,8 @@ The Commission shall adopt rules governing persons that are registered under thi
 
 (Sept. 21, 1922, ch. 369, §21, as added Pub. L. 111–203, title VII, §728, July 21, 2010, 124 Stat. 1697; amended Pub. L. 114–94, div. G, title LXXXVI, §86001(b), Dec. 4, 2015, 129 Stat. 1797.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276, §7, June 17, 1980, 94 Stat. 542, related to silver markets activity and was set out as a note under section 4a of this title prior to repeal by Pub. L. 102–546, title IV, §402(13), Oct. 28, 1992, 106 Stat. 3625.
@@ -207,6 +209,8 @@ A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276,
 Subsec. (c)(7)(E)(iv). Pub. L. 114–94, §86001(b)(1)(B), added cl. (iv).
 
 Subsec. (d). Pub. L. 114–94, §86001(b)(2), added subsec. (d) and struck out former subsec. (d) which related to confidentiality and indemnification agreement.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2015 Amendment ####
 

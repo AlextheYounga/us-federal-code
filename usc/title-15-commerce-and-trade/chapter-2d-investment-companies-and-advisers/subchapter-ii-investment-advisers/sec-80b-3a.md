@@ -60,6 +60,8 @@ Upon request of the securities commissioner (or any agency or officer performing
 
 (Aug. 22, 1940, ch. 686, title II, §203A, as added Pub. L. 104–290, title III, §303(a), Oct. 11, 1996, 110 Stat. 3437; amended Pub. L. 109–290, §7(b)(1), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §410, July 21, 2010, 124 Stat. 1576; Pub. L. 114–94, div. G, title LXXIV, §74003, Dec. 4, 2015, 129 Stat. 1786; Pub. L. 115–417, §3, Jan. 3, 2019, 132 Stat. 5439.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
@@ -77,6 +79,8 @@ The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I
 "(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and
 
 "(2) to pay the reasonable costs associated with such filing."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

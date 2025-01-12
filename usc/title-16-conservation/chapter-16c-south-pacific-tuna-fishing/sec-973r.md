@@ -10,6 +10,8 @@
 
 (Pub. L. 100–330, §20, June 7, 1988, 102 Stat. 601; Pub. L. 102–523, §3(b), Oct. 26, 1992, 106 Stat. 3433.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.

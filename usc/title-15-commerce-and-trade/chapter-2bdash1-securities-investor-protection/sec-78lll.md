@@ -134,6 +134,8 @@ The term "Security" means any note, stock, treasury stock, bond, debenture, evid
 
 (Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(o), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) [title II, §203(d)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, §983(b), July 21, 2010, 124 Stat. 1931.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in provision preceding par. (1), and in pars. (10) and (13), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -169,6 +171,8 @@ Par. (7). Pub. L. 95–598, §308(o)(2), (3), redesignated par. (8) as (7) and s
 Pars. (8) to (15). Pub. L. 95–598, §308(o)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
 
 Pub. L. 95–283 in introductory text inserted requirement for applicability of terms to a liquidation proceeding involving the Bankruptcy Act, in par. (1) heading substituted "Bankruptcy Act" for "Self-regulatory organization", and in text substituted provisions defining such terms, in par. (2) heading substituted "Commission" for "Financial responsibility rules", and in text substituted provisions defining such terms, in par. (3) heading substituted "Customer" for "Examining authority", and in text substituted provisions defining such terms, and added pars. (4) to (15).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

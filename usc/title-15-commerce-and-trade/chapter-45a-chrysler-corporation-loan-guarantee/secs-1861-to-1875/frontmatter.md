@@ -1,5 +1,7 @@
 ### §§1861 to 1875. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections, Pub. L. 96–185, §§1–16, Jan. 7, 1980, 93 Stat. 1324, were omitted in view of the termination of authority to make commitments to guarantee or issue guarantees under this chapter on Dec. 31, 1983, pursuant to section 1875 of this title, and the total repayment of loans guaranteed under this chapter.

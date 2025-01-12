@@ -4,6 +4,8 @@ Section 173, R.S. §336; acts Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Aug. 2
 
 Section 174, R.S. §337; acts Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Mar. 1, 1919, ch. 86, 40 Stat. 1256; Aug. 31, 1961, Pub. L. 87–191, §2, 75 Stat. 419, prescribed regulations required to be observed by collectors of customs. See section 301 et seq. of Title 13, Census.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 180 days after Oct. 15, 1962, except that the last sentence of par. Fifth of section 174 of this title shall be repealed Oct. 15, 1962, see section 4 of Pub. L. 87–826, set out as a note under section 301 of Title 13, Census.

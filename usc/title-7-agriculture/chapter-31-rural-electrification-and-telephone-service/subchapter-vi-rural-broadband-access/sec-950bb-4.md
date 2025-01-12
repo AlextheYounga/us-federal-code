@@ -10,6 +10,8 @@ The Secretary shall not consider a portion of a service territory described in s
 
 (May 20, 1936, ch. 432, title VI, §605, as added Pub. L. 115–334, title VI, §6205(a), Dec. 20, 2018, 132 Stat. 4739.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 115–334, title VI, §6205(b), Dec. 20, 2018, 132 Stat. 4739, provided that: "The amendment made by this section [enacting this section] shall not take effect until October 1, 2020."

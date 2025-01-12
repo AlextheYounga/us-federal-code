@@ -4,6 +4,8 @@ A commission to be known as the Migratory Bird Conservation Commission, consisti
 
 (Feb. 18, 1929, ch. 257, §2, 45 Stat. 1222; 1939 Reorg. Plan No. II, §4(f), (h), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 90–261, Mar. 2, 1968, 82 Stat. 39; Pub. L. 94–215, §4, Feb. 17, 1976, 90 Stat. 190; Pub. L. 101–233, §13, Dec. 13, 1989, 103 Stat. 1977.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Pub. L. 101–233 substituted "Administrator of the Environmental Protection Agency" for "Secretary of Transportation".
@@ -11,6 +13,8 @@ A commission to be known as the Migratory Bird Conservation Commission, consisti
 **1976**—Pub. L. 94–215 inserted provision including in the purchase or rental of any area of land, water, or land and water the purchase or rental of any interest in any such area of land, water, or land and water.
 
 **1968**—Pub. L. 90–261 substituted the Secretary of Transportation for the Secretary of Commerce in the membership of the Commission.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

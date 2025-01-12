@@ -6,6 +6,8 @@
 
 (Pub. L. 85–699, title IV, §412, as added Pub. L. 93–386, §6(a)(4), Aug. 23, 1974, 88 Stat. 747; amended Pub. L. 94–305, title I, §113, June 4, 1976, 90 Stat. 667; Pub. L. 95–14, §4, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §105, Aug. 4, 1977, 91 Stat. 556; Pub. L. 96–302, title I, §111, July 2, 1980, 94 Stat. 837; Pub. L. 100–590, title II, §208, Nov. 3, 1988, 102 Stat. 3009.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–590 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -17,6 +19,8 @@
 Pub. L. 95–14 substituted "$110,000,000" for "$56,500,000".
 
 **1976**—Pub. L. 94–305 substituted "$56,500,000" for "$35,000,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

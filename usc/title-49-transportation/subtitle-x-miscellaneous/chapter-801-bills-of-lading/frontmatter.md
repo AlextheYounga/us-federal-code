@@ -34,6 +34,8 @@ Sec.
 
 80116. Criminal penalty.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–429, §6(79), Oct. 31, 1994, 108 Stat. 4388, made technical amendment to chapter heading.

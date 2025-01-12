@@ -232,6 +232,8 @@ The authority to carry out the FAST program under this section shall terminate o
 
 (Pub. L. 85–536, §2[34], as added Pub. L. 106–554, §1(a)(9) [title I, §111(b)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265; Pub. L. 114–88, div. B, title I, §2104, Nov. 25, 2015, 129 Stat. 691; Pub. L. 116–283, div. A, title VIII, §867(2), Jan. 1, 2021, 134 Stat. 3787.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (e)(2)(B), was redesignated (B) by Pub. L. 110–289, div. C, title I, §3003(g)(3), July 30, 2008, 122 Stat. 2882.
@@ -253,6 +255,8 @@ Subsec. (c)(5). Pub. L. 114–88, §2104(c), added par. (5).
 **2001**—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, §8(a), added cl. (vi).
 
 Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end "The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B)."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

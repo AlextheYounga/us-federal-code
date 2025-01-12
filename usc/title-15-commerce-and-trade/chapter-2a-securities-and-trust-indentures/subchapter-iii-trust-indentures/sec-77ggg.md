@@ -14,6 +14,8 @@ The provisions of section 77h of this title and the provisions of subsection (b)
 
 (May 27, 1933, ch. 38, title III, §307, as added Aug. 3, 1939, ch. 411, 53 Stat. 1156; amended Pub. L. 107–123, §7, Jan. 16, 2002, 115 Stat. 2397.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -22,9 +24,13 @@ The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 
 
 **2002**—Subsec. (b). Pub. L. 107–123 substituted "Commission" for "Commission, but, in the case of an application, only if it is accompanied or preceded by payment to the Commission of a filing fee in the amount of $100, such payment to be made in cash or by United States postal money order or certified or bank check, or in such other medium of payment as the Commission may authorize by rule and regulation".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2002 Amendment ####
 
 Amendment by Pub. L. 107–123 effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as a note under section 78ee of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

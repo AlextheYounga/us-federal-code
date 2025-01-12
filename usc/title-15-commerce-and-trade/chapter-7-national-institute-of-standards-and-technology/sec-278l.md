@@ -12,9 +12,13 @@
 
 (Mar. 3, 1901, ch. 872, §26, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1435; amended Pub. L. 114–329, title V, §501(e)(3), Jan. 6, 2017, 130 Stat. 3033.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (a). Pub. L. 114–329 substituted "Hollings Manufacturing Extension Partnership" for "Centers program created".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Technology Extension Services ####
 

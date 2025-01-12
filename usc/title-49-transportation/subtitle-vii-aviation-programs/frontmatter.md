@@ -75,6 +75,8 @@ Chapter Sec.
 
 501. Buy-American Preferences 50101
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–254, div. K, title I, §1991(i)(2), Oct. 5, 2018, 132 Stat. 3645, which directed amendment of this analysis by striking item for chapter 483 "Aviation security funding", was executed by striking item for chapter 483 "Aviation Security Funding" to reflect the probable intent of Congress.

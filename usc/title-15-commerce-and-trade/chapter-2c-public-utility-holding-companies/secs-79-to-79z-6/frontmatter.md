@@ -72,6 +72,8 @@ Section 79z–5c, act Aug. 26, 1935, ch. 687, title I, §34, as added Pub. L. 10
 
 Section 79z–6, acts Aug. 26, 1935, ch. 687, title I, §35, formerly §32, 49 Stat. 837; renumbered §34, Pub. L. 102–486, title VII, §711, Oct. 24, 1992, 106 Stat. 2905; renumbered §35, Pub. L. 104–104, title I, §103, Feb. 8, 1996, 110 Stat. 81, set forth separability clause.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 6 months after Aug. 8, 2005, with provisions relating to effect of compliance with certain regulations approved and made effective prior to such date, see section 1274 of Pub. L. 109–58, set out as an Effective Date note under section 16451 of Title 42, The Public Health and Welfare.

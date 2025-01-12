@@ -176,9 +176,13 @@ Each report submitted under paragraph (1) shall include the following informatio
 
 (Pub. L. 85–699, title V, §510, as added Pub. L. 106–554, §1(a)(9) [title III, §307(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is Pub. L. 104–208, div. D, Sept. 30, 1996, 110 Stat. 3009–724. Provisions relating to loan liquidation pilot program are contained in section 204 of title II of div. D of Pub. L. 104–208, which is set out as a note under section 695 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 631 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

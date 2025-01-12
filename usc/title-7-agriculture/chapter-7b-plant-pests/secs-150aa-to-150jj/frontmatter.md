@@ -20,6 +20,8 @@ Section 150ii, Pub. L. 85–36, title I, §111, May 23, 1957, 71 Stat. 34, provi
 
 Section 150jj, Pub. L. 85–36, title I, §111, May 23, 1957, 71 Stat. 35, provided that nothing in this chapter was to amend or repeal provisions of the Plant Quarantine Act.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 85–36, title I, §101, May 23, 1957, 71 Stat. 31, provided that title I of Pub. L. 85–36, which enacted this chapter and provisions set out as a note under section 147a of this title, amended section 149 of this title, and repealed sections 141 to 144 and 441 of this title, could be cited as the "Federal Plant Pest Act", prior to repeal by Pub. L. 106–224, title IV, §438(a)(2), June 20, 2000, 114 Stat. 454.

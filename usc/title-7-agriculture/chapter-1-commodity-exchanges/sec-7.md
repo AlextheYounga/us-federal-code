@@ -226,6 +226,8 @@ The board of trade shall keep any such records relating to swaps defined in sect
 
 (Sept. 21, 1922, ch. 369, §5, as added Pub. L. 106–554, §1(a)(5) [title I, §110(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–384; amended Pub. L. 111–203, title VII, §§721(e)(4), 735, July 21, 2010, 124 Stat. 1671, 1718.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 1936, ch. 545, §§2, 6, 49 Stat. 1491, 1497; Pub. L. 90–258, §§10, 11, Feb. 19, 1968, 82 Stat. 29; Pub. L. 93–463, title I, §103(a), (f), (g), title II, §207, Oct. 23, 1974, 88 Stat. 1392, 1400; Pub. L. 102–546, title II, §§201(c), 209(b)(2), Oct. 28, 1992, 106 Stat. 3597, 3606, related to conditions and requirements for designation of boards of trade as contract markets, prior to repeal by Pub. L. 106–554, §1(a)(5) [title I, §110(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–384.
@@ -237,6 +239,8 @@ A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 19
 Subsec. (d). Pub. L. 111–203, §735(b), added subsec. (d) and struck out former subsec. (d) which related to core principles for contract markets.
 
 Subsec. (e)(1). Pub. L. 111–203, §721(e)(4), substituted "section 1a(9)" for "section 1a(4)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

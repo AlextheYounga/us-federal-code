@@ -4,11 +4,15 @@ The Corporation may cause proceedings to be instituted for the acquisition by co
 
 (May 18, 1933, ch. 32, §25, 48 Stat. 70; July 12, 1952, ch. 700, 66 Stat. 591; Pub. L. 90–536, §1, Sept. 28, 1968, 82 Stat. 885.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1968**—Pub. L. 90–536 repealed six paragraphs following initial paragraph which provided as follows: appointment of three commissioners, oath as to absence of interest, and per diem for services and subsistence, and transportation expenses; duties of commissioners as to valuation of lands, conduct of hearings, taking of evidence, administration of oaths, subpoena of witnesses, submission of report as to value of land, and notice of award to parties; hearing de novo of exceptions to award by three Federal district judges and judicial award; disposition upon record after appeal from decision of judges; passage of title and possession to property and enforcement by writ of dispossession; and legal representatives for minors, insane or incompetents, and estates of deceased, or guardians ad litem for wards.
 
 **1952**—Act July 12, 1952, increased the commissioners' per diem from $15 to $30, their sustenance from $5 to $10 a day, and allowed them 7 cents mileage.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1968 Amendment ####
 

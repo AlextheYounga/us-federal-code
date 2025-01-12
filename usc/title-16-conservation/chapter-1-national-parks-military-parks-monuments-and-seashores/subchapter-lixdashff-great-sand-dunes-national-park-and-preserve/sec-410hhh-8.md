@@ -46,6 +46,8 @@ The Advisory Council shall terminate upon the completion of the management plan 
 
 (Pub. L. 106–530, §10, Nov. 22, 2000, 114 Stat. 2535.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.

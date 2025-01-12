@@ -11,3 +11,7 @@ Sec.
 1604. Program administration.
 
 1605. Applicability to other statutory national mining and minerals policies.
+
+1606. Mineral security.
+
+1607. Critical minerals supply chains and reliability.

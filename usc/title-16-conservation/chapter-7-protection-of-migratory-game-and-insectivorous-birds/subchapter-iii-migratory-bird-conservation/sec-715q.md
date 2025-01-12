@@ -4,6 +4,8 @@ A sum sufficient to pay the necessary expenses of the commission and its members
 
 (Feb. 18, 1929, ch. 257, §18, 45 Stat. 1225; Pub. L. 87–812, Oct. 15, 1962, 76 Stat. 922; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".

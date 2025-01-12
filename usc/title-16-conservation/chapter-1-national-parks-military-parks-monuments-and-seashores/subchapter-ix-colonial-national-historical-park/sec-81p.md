@@ -22,6 +22,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 104–333, div. I, title II, §211, Nov. 12, 1996, 110 Stat. 4109; Pub. L. 106–113, div. B, §1000(a)(3) [title I, §122], Nov. 29, 1999, 113 Stat. 1535, 1501A–159; Pub. L. 106–176, title I, §102, Mar. 10, 2000, 114 Stat. 25.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Omnibus Parks and Public Lands Management Act of 1996, and not as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.

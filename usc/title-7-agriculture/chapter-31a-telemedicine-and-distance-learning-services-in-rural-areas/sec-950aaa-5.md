@@ -8,6 +8,8 @@ There are authorized to be appropriated to carry out this chapter $82,000,000 fo
 
 For termination of section by section 1(b) of Pub. L. 102–551, see Termination of Chapter note set out under section 950aaa of this title.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -25,6 +27,8 @@ A prior section 950aaa–5, Pub. L. 101–624, title XXIII, §2335A, as added Pu
 **2008**—Pub. L. 110–246, §6201(b), substituted "2012" for "2007".
 
 **2002**—Pub. L. 107–171 substituted "2007" for "2002".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

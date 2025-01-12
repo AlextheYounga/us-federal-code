@@ -82,6 +82,8 @@ except that no regulation promulgated under this section may have the effect of 
 
 (Pub. L. 94–70, §6, Aug. 5, 1975, 89 Stat. 387; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–627, title II, §§206, 207, Nov. 28, 1990, 104 Stat. 4461; Pub. L. 104–43, title III, §§303(3), 305, Nov. 3, 1995, 109 Stat. 384, 385; Pub. L. 105–384, title II, §202(b)(1)(C), (F), Nov. 13, 1998, 112 Stat. 3452, 3453; Pub. L. 114–81, title I, §107(1), Nov. 5, 2015, 129 Stat. 658.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -112,16 +114,22 @@ Subsec. (c)(3). Pub. L. 101–627, §206(b), added subpars. (I) to (K) and concl
 
 Subsec. (d). Pub. L. 101–627, §207, amended subsec. (d) generally, substituting provisions relating to recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish for provisions relating to Commission recommendations concerning bluefin tuna and issuance of regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
-
 #### Use of Aircraft in Atlantic Bluefin Tuna Fishing ####
 
 Pub. L. 106–553, §1(a)(2) [title VI, §634], Dec. 21, 2000, 114 Stat. 2762, 2762A–114, provided that none of the funds of the Department of Commerce would be available to issue or renew, for any fishing vessel, any general or harpoon category fishing permit for Atlantic bluefin tuna that would allow the vessel to use an aircraft to locate, or otherwise assist in fishing for, catching, or possessing Atlantic bluefin tuna, or to fish for, catch, or possess Atlantic bluefin tuna located by the use of an aircraft.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 [<sup>1</sup> See References in Text note below.](#971d_1)

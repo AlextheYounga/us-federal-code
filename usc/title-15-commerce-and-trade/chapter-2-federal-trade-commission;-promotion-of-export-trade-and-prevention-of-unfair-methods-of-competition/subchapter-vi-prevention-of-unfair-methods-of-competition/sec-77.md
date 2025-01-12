@@ -10,6 +10,8 @@ The President of the United States is authorized and empowered to employ such pa
 
 (Sept. 8, 1916, ch. 463, title VIII, §806, 39 Stat. 799.)
 
+#### **Executive Documents** ####
+
 #### Delegation of Functions ####
 
-For delegation to Secretary of Homeland Security of authority vested in President by this section, see section 1(j), (k) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of Homeland Security of authority vested in President by this section, see section 1(j), (k) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as a note under section 301 of Title 3, The President.

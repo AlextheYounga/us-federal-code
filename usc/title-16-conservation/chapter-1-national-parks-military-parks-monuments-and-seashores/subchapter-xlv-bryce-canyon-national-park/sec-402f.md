@@ -4,6 +4,8 @@ For the purpose of preserving in their natural state the outstanding scenic feat
 
 (Feb. 17, 1931, ch. 209, §1, 46 Stat. 1166; Mar. 7, 1942, ch. 161, 56 Stat. 141.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Amendments ####
 
 **1942**—Act Mar. 7, 1942, corrected description of portions of the land.

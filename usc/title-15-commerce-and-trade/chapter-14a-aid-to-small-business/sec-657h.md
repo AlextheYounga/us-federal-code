@@ -236,11 +236,15 @@ There is authorized to be appropriated to the Administration $5,000,000 to carry
 
 (Pub. L. 110–140, title XII, §1203, Dec. 19, 2007, 121 Stat. 1766.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 1203 of Pub. L. 110–140. Subsec. (e) of section 1203 of Pub. L. 110–140 amended section 638 of this title.
 
 Section was enacted as part of the Energy Independence and Security Act of 2007, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

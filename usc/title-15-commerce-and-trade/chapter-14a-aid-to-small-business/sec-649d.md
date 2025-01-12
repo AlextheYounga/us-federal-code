@@ -4,6 +4,8 @@ The Secretary through the International Trade Administration, shall, only to suc
 
 (Pub. L. 96–481, title III, §304, Oct. 21, 1980, 94 Stat. 2333.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

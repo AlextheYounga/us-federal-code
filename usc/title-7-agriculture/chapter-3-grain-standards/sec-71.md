@@ -4,6 +4,8 @@ This chapter may be cited as the "United States Grain Standards Act".
 
 (Aug. 11, 1916, ch. 313, pt. B, §1, 39 Stat. 482; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter constitutes part B of "An act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1917, and for other purposes," approved Aug. 11, 1916. Part A of act of Aug. 11, 1916, containing the "United States Cotton Futures Act," was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. Part C of that act contained the "United States Warehouse Act," and is incorporated, as amended, as section 241 et seq. of this title.
@@ -13,6 +15,8 @@ Section is comprised of part of section 1 of part B of act Aug. 11, 1916. Other 
 #### Amendments ####
 
 **1968**—Pub. L. 90–487 substituted "may be cited as" for "shall be known by the short title of".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1968 Amendment ####
 

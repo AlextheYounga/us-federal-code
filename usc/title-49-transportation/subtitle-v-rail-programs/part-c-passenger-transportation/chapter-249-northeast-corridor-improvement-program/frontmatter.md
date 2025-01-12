@@ -22,9 +22,13 @@ Sec.
 
 24910. Rail cooperative research program.
 
-24911. Federal-State partnership for state of good repair.
+24911. Federal-State partnership for intercity passenger rail.
+
+#### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title II, §22307(b), Nov. 15, 2021, 135 Stat. 730, substituted "Federal-State partnership for intercity passenger rail" for "Federal-State partnership for state of good repair" in item 24911.
 
 **2015**—Pub. L. 114–94, div. A, title XI, §§11302(b), 11305(d)(2), 11306(b)(2), Dec. 4, 2015, 129 Stat. 1651, 1658, 1660, added items 24904 and 24911, redesignated former item 24904 as 24903, and substituted "Northeast Corridor Commission" for "Northeast Corridor Infrastructure and Operations Advisory Commission; Safety Committee" in item 24905.
 

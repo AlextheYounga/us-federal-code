@@ -80,6 +80,8 @@ Sec.
 
 5340. Apportionments based on growing States and high density States formula factors.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–94, div. A, title III, §§3008(c), 3009(b), 3017(b), 3030(b)–(d), Dec. 4, 2015, 129 Stat. 1469, 1473, 1487, 1496, 1497, substituted "Public transportation innovation" for "Research, development, demonstration, and deployment projects" in item 5312, "Technical assistance and workforce development" for "Technical assistance and standards development" in item 5314, and "Grants for buses and bus facilities" for "Bus and bus facilities formula grants" in item 5339, and struck out item 5313 "Transit cooperative research program", item 5319 "Bicycle facilities", and item 5322 "Human resources and training".

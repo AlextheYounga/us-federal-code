@@ -4,6 +4,8 @@ The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food a
 
 (Pub. L. 88–74, §5, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.

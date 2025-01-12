@@ -26,6 +26,8 @@ Congress finds that—
 
 (Pub. L. 106–76, §2, Oct. 21, 1999, 113 Stat. 1126.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2003 Amendment ####
 
 Pub. L. 108–128, §1, Nov. 17, 2003, 117 Stat. 1355, provided that: "This Act [amending sections 410fff–2, 410fff–3, and 410fff–5 of this title and enacting provisions set out as notes under section 410fff–2 of this title] may be cited as the 'Black Canyon of the Gunnison Boundary Revision Act of 2003'."

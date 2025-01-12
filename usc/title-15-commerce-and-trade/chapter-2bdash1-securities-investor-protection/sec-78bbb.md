@@ -4,6 +4,8 @@ Except as otherwise provided in this chapter, the provisions of the Securities E
 
 (Pub. L. 91–598, §2, Dec. 30, 1970, 84 Stat. 1637.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.

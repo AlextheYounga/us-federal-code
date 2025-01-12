@@ -26,6 +26,8 @@ Nothing contained in this section shall be construed to prohibit the Commission 
 
 (Sept. 21, 1922, ch. 369, §4g, as added June 15, 1936, ch. 545, §5, 49 Stat. 1496; amended Pub. L. 90–258, §8, Feb. 19, 1968, 82 Stat. 28; Pub. L. 93–463, title I, §103(a), (f), title IV, §415, Oct. 23, 1974, 88 Stat. 1392, 1415; Pub. L. 95–405, §6, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §209, Jan. 11, 1983, 96 Stat. 2302; Pub. L. 102–546, title II, §207(b)(1), title IV, §402(5), Oct. 28, 1992, 106 Stat. 3604, 3624; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(7)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §13202(a), May 22, 2008, 122 Stat. 1438; Pub. L. 110–246, §4(a), title XIII, §13202(a), June 18, 2008, 122 Stat. 1664, 2200.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -57,6 +59,8 @@ Par. (2). Pub. L. 97–444, §209(2), made customer daily trading records requir
 Pars. (2) to (6). Pub. L. 93–463, §415, added pars. (2) to (6).
 
 **1968**—Pub. L. 90–258 rephrased existing provisions to express reporting and recordkeeping requirements as a positive obligation of futures commission merchants and floor brokers, rather than as a ground for revoking or suspending registration and struck out provisions for revocation or suspension of registration. See section 9 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

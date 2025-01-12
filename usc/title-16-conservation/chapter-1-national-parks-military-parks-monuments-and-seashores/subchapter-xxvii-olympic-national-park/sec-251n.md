@@ -14,11 +14,15 @@
 
 (Pub. L. 99–635, §1(a), (b), Nov. 7, 1986, 100 Stat. 3527; Pub. L. 100–668, title I, §104(c)(1)–(3), Nov. 16, 1988, 102 Stat. 3962.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (a)(2). Pub. L. 100–668, §104(c)(1), (2), inserted ", above the point of lowest low tide," after "islands", substituted "34 minutes north" for "38 minutes north", and inserted proviso at end.
 
 Subsec. (b). Pub. L. 100–668, §104(c)(3), substituted "sheets 1 through 9" for "sheets 1 through 10".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Administrative Jurisdiction of Exchanged Park and Forest Lands; Authorization of Appropriations ####
 

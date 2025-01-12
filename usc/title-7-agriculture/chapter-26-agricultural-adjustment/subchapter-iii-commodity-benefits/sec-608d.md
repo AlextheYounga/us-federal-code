@@ -16,6 +16,8 @@
 
 (May 12, 1933, ch. 25, title I, §8d, as added Aug. 24, 1935, ch. 641, §6, 49 Stat. 761; amended June 3, 1937, ch. 296, §1, 50 Stat. 246; Pub. L. 99–198, title XVI, §1663, Dec. 23, 1985, 99 Stat. 1631; Pub. L. 106–78, title VII, §757(b), Oct. 22, 1999, 113 Stat. 1171.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Act Aug. 24, 1935, struck out provisions of section 8(4) of act May 12, 1933, formerly appearing in section 608(4) of this title and added a new section 8d containing provisions appearing in text.
@@ -27,6 +29,8 @@ Act Aug. 24, 1935, struck out provisions of section 8(4) of act May 12, 1933, fo
 **1985**—Subsec. (2). Pub. L. 99–198, §1663(1), extended confidentiality requirement to include information for marketing order programs that is categorized as trade secrets and commercial or financial information that is exempt from disclosure under section 552 of title 5.
 
 Pub. L. 99–198, §1663(2), inserted provisions directing that confidential information relating to a marketing agreement or order applicable to milk may be released upon the authorization of any regulated milk handler to whom such information pertains and that the Secretary notify the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives not later than 10 legislative days before the contemplated release under law, of the names and addresses of producers participating in such marketing agreements and orders, and include in such notice a statement of reasons relied upon by the Secretary in making the determination to release such names and addresses.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Release of Information ####
 

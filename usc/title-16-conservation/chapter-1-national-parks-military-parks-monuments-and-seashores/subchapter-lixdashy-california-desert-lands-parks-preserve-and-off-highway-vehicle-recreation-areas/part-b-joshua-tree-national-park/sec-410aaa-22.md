@@ -4,6 +4,8 @@ There is hereby established the Joshua Tree National Park, (hereinafter in this 
 
 (Pub. L. 103–433, title IV, §402, Oct. 31, 1994, 108 Stat. 4488.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Boundary Adjustment and Administration, Joshua Tree National Park ####
 
 Pub. L. 116–9, title I, §1433(a)–(d), Mar. 12, 2019, 133 Stat. 700, provided that:

@@ -6,6 +6,8 @@ Section was also repealed by act June 30, 1947, ch. 166, title II, §206(m), 61 
 
 Section 10 of act July 31, 1945, which repealed this section, was repealed by Pub. L. 102–429, title I, §121(c)(1), Oct. 21, 1992, 106 Stat. 2199.
 
+#### **Executive Documents** ####
+
 #### Dissolution of Second Export-Import Bank of Washington, D.C. ####
 
 Ex. Ord. No. 7365, May 7, 1936, 1 F.R. 372, dissolved said Bank on June 30, 1936, and provided that all remaining funds be covered into United States Treasury as miscellaneous receipts and all records transferred to Export-Import Bank of Washington.

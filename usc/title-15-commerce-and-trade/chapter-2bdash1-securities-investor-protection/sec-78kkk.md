@@ -30,6 +30,8 @@ Not later than twelve months after December 30, 1970, the Commission shall compi
 
 (Pub. L. 91–598, §15, formerly §11, Dec. 30, 1970, 84 Stat. 1655; renumbered §15 and amended Pub. L. 95–283, §§9, 14, May 21, 1978, 92 Stat. 260, 270; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a) to (f), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.

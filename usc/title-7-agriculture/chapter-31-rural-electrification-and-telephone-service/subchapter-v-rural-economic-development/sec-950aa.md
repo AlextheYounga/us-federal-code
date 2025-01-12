@@ -16,6 +16,8 @@ The Secretary shall—
 
 (May 20, 1936, ch. 432, title V, §501, as added Pub. L. 101–624, title XXIII, §2345, Nov. 28, 1990, 104 Stat. 4029; amended Pub. L. 102–237, title VII, §703(c), Dec. 13, 1991, 105 Stat. 1881; Pub. L. 103–354, title II, §235(a)(12), (13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §781(b), Apr. 4, 1996, 110 Stat. 1151.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Par. (7). Pub. L. 104–127 struck out par. (7) which read as follows: "administer a Rural Business Incubator Fund (as established under section 950aa–1 of this title) that shall provide technical assistance, advice, loans, or capital to business incubator programs or for the creation or operation of small business incubators in rural areas."
@@ -23,6 +25,8 @@ The Secretary shall—
 **1994**—Pub. L. 103–354 struck out "of REA Administrator" at end of section catchline and substituted "Secretary" for "Administrator" in introductory provisions and par. (3).
 
 **1991**—Pars. (6) to (8). Pub. L. 102–237 inserted "and" at end of par. (6), redesignated par. (8) as (7), and struck out former par. (7) which read as follows: "review the advice and recommendations of the Rural Educational Opportunities Board as established under section 601(f); and".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1991 Amendment ####
 

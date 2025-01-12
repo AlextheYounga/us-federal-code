@@ -4,6 +4,8 @@ Within the area which lies within the boundaries of the park, the Secretary of t
 
 (Pub. L. 88–590, §2, Sept. 12, 1964, 78 Stat. 937; Pub. L. 92–154, §1(b), Nov. 12, 1971, 85 Stat. 421.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Date of enactment of this Act or any amendment thereto, referred to in text, means Sept. 12, 1964, date of enactment of Pub. L. 88–590, originally classified to sections 271 to 271d of this title, and Nov. 12, 1971, date of enactment of Pub. L. 92–154, amendatory of Pub. L. 88–590 and classified to sections 271 to 271b, 271e to 271g of this title.
@@ -12,6 +14,8 @@ Date of enactment of this Act or any amendment thereto, referred to in text, mea
 
 **1971**—Pub. L. 92–154 struck out "described in section 271 of this title" after "Within the area", inserted in third sentence "or any amendment thereto" after "the date of enactment of this Act", and inserted in fifth sentence "or any amendment thereto" after "this subchapter".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions whcih were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.

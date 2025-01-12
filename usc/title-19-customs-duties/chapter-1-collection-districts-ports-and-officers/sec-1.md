@@ -4,6 +4,8 @@ Except as hereinafter provided the reorganization of the customs service made by
 
 (Aug. 24, 1912, ch. 355, 37 Stat. 434.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was superseded in part by section 2071 et seq. of this title.
@@ -56,6 +58,8 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 "Wm. H. Taft."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2018 Amendment ####
 
 Pub. L. 115–271, title VIII, §8001, Oct. 24, 2018, 132 Stat. 4073, provided that: "This subtitle [subtitle A (§§8001–8009) of title VIII of Pub. L. 115–271, enacting sections 1436a and 1583a of this title, amending sections 58c, 1415, and 1436 of this title, and enacting provisions set out as notes under sections 58c, 1415, and 1436 of this title] may be cited as the 'Synthetics Trafficking and Overdose Prevention Act of 2018' or 'STOP Act of 2018'."
@@ -69,6 +73,8 @@ Pub. L. 111–227, §1(a), Aug. 11, 2010, 124 Stat. 2409, provided that: "This A
 #### Transfer of Functions ####
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### **Executive Documents** ####
 
 #### **REORGANIZATION PLAN NO. 1 OF 1965** ####
 

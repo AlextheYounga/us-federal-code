@@ -22,6 +22,8 @@ Such liability may be enforced either (1) by complaint to the Secretary as herei
 
 (June 10, 1930, ch. 436, §5, 46 Stat. 534; Aug. 20, 1937, ch. 719, §7, 50 Stat. 728; Pub. L. 98–273, §1, May 7, 1984, 98 Stat. 165; Pub. L. 102–237, title X, §1011(3), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§6, 8(b), Nov. 15, 1995, 109 Stat. 427, 429.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 555 of this title.

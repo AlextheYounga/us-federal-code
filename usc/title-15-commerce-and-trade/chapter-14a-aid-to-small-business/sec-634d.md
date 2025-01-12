@@ -14,6 +14,8 @@ In carrying out the provisions of sections 634a to 634g of this title, the Chief
 
 (Pub. L. 94–305, title II, §204, June 4, 1976, 90 Stat. 669; Pub. L. 96–302, title IV, §402, July 2, 1980, 94 Stat. 850; Pub. L. 103–403, title VI, §§605(b), 610, Oct. 22, 1994, 108 Stat. 4203, 4204.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The General Schedule, referred to in par. (1), is set out under section 5332 of Title 5.
@@ -29,6 +31,8 @@ Section was not enacted as part of the Small Business Act which comprises this c
 Par. (1). Pub. L. 103–403, §610(2), substituted "14" for "ten" before "staff personnel".
 
 **1980**—Par. (1). Pub. L. 96–302 authorized employment at any one time of ten staff personnel at rate of compensation not in excess of GS–15, step 10, of the General Schedule.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

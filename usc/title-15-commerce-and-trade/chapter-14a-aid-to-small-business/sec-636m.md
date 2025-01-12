@@ -296,7 +296,7 @@ The cancellation of indebtedness on a covered loan under this section shall not 
 
 #### (k) Regulations ####
 
-Not later than 30 days after March 27, 2020, the Administrator shall issue guidance and regulations implementing this section."
+Not later than 30 days after March 27, 2020, the Administrator shall issue guidance and regulations implementing this section.
 
 #### (l) Simplified application ####
 
@@ -398,7 +398,7 @@ Section 1102 of this Act, referred to in subsec. (a)(12), means section 1102 of 
 
 Section 2301 of the CARES Act, referred to in subsec. (a)(12), is section 2301 of Pub. L. 116–136, which is set out as a note under section 3111 of Title 26, Internal Revenue Code.
 
-Section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, referred to in subsec. (a)(12), is section 303 of div. EE of Pub. L. 116–260, Dec. 27, 3075, 134 Stat. 3075. Subsec. (d)(3)(C) of section 303 of the Act amended provisions set out as notes under section 3111 of Title 26, Internal Revenue Code. Subsecs. (a) to (c) and the rest of subsec. (d) of section 303 of the Act are not classified to the Code.
+Section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, referred to in subsec. (a)(12), is section 303 of div. EE of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 3075. Subsec. (d)(3)(C) of section 303 of the Act amended provisions set out as notes under section 3111 of Title 26, Internal Revenue Code. Subsecs. (a) to (c) and the rest of subsec. (d) of section 303 of the Act are not classified to the Code.
 
 #### Codification ####
 

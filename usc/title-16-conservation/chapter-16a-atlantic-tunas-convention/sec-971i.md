@@ -42,6 +42,8 @@
 
 (Pub. L. 96–339, §3, Sept. 4, 1980, 94 Stat. 1070; Pub. L. 104–43, title III, §302(b), Nov. 3, 1995, 109 Stat. 382; Pub. L. 105–384, title II, §202(b)(2), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 109–479, title IV, §405(b), Jan. 12, 2007, 120 Stat. 3633.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.

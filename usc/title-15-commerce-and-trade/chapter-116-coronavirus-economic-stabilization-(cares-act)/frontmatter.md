@@ -8,7 +8,7 @@ Sec.
 
 9002. Entrepreneurial development.
 
-9003. State trade expansion program.
+9003. State Trade Expansion Program.
 
 9004. Waiver of matching funds requirement under the Women's Business Center program.
 

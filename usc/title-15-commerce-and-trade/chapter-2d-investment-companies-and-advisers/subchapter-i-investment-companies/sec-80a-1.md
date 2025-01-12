@@ -38,9 +38,13 @@ It is declared that the policy and purposes of this subchapter, in accordance wi
 
 (Aug. 22, 1940, ch. 686, title I, §1, 54 Stat. 789.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 79z–4 of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

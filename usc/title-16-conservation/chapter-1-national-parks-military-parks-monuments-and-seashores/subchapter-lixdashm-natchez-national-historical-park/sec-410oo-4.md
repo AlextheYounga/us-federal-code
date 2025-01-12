@@ -4,6 +4,8 @@ The Secretary shall prepare, in consultation with the city of Natchez, a study o
 
 (Pub. L. 100–479, §5, Oct. 7, 1988, 102 Stat. 2326.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

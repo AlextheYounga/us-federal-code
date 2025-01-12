@@ -5,7 +5,7 @@ Chapter Sec.
 
 1. Definitions 101
 
-[3. Transferred] 301
+[3. Transferred]
 
 5. Other General Provisions 501
 

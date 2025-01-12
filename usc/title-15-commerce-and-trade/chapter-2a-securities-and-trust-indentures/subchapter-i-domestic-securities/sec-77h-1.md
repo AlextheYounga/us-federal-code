@@ -92,11 +92,15 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 (May 27, 1933, ch. 38, title I, §8A, as added Pub. L. 101–429, title I, §102, Oct. 15, 1990, 104 Stat. 933; amended Pub. L. 107–204, title XI, §1105(b), July 30, 2002, 116 Stat. 809; Pub. L. 111–203, title IX, §929P(a)(1), July 21, 2010, 124 Stat. 1862.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (g). Pub. L. 111–203 added subsec. (g).
 
 **2002**—Subsec. (f). Pub. L. 107–204 added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

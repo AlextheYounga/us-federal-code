@@ -4,9 +4,13 @@ All Federal officers and agencies shall take such affirmative action as is neces
 
 (Pub. L. 94–586, §17, Oct. 22, 1976, 90 Stat. 2915.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

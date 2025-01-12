@@ -14,9 +14,13 @@ The head of any Federal agency having direct or indirect jurisdiction over a pro
 
 (Pub. L. 96–550, title V, §507, Dec. 19, 1980, 94 Stat. 3230.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this section, referred to in subsec. (a), probably means the date of enactment of Pub. L. 96–550, which was approved Dec. 19, 1980.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

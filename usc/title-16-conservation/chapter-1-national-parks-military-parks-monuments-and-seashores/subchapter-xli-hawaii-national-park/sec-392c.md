@@ -30,6 +30,8 @@ There is hereby authorized to be appropriated up to $700,000 to carry out the pu
 
 (June 20, 1938, ch. 530, §5, as added Pub. L. 99–564, §1, Oct. 27, 1986, 100 Stat. 3179; amended Pub. L. 108–352, §3, Oct. 21, 2004, 118 Stat. 1395.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–352 substituted "Hawai‘i Volcanoes" for "Hawaii Volcanoes" in two places in subsec. (a) and in subsec. (e).

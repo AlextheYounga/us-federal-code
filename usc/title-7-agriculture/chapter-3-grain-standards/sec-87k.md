@@ -32,6 +32,8 @@ that may be used by processors, refiners, operators of grain elevators and termi
 
 (Aug. 11, 1916, ch. 313, pt. B, §22, as added Pub. L. 101–624, title XX, §2009, Nov. 28, 1990, 104 Stat. 3931; amended Pub. L. 103–156, §§11, 13(b)(2), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, §293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (c), was in the original "this Act" and was translated as reading "this part", meaning part B of act Aug. 11, 1916, known as the United States Grain Standards Act, to reflect the probable intent of Congress.

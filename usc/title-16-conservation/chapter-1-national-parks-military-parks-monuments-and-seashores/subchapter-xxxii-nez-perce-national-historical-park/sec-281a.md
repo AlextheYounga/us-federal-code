@@ -32,6 +32,8 @@ each as described in the National Park Service document entitled "Nez Perce Nati
 
 (Pub. L. 89–19, §2, May 15, 1965, 79 Stat. 110; Pub. L. 102–576, §2(2), Oct. 30, 1992, 106 Stat. 4770.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Pub. L. 102–576 inserted provision listing 13 sites to be designated as Nez Perce National Historical Park, as described in documents dated 1990 and 1991, and provision relating to lands added to Big Hole National Battlefield, Montana.

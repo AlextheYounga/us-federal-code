@@ -46,6 +46,8 @@ In administering water resources for the national wildlife refuge, the Secretary
 
 (Pub. L. 106–530, §6, Nov. 22, 2000, 114 Stat. 2530; Pub. L. 111–8, div. E, title I, §117, Mar. 11, 2009, 123 Stat. 724.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Wildlife Refuge System Administration Act of 1966, referred to in subsec. (c)(1), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.

@@ -54,6 +54,8 @@ For purposes of this section, there are authorized to be appropriated an amount 
 
 (Mar. 3, 1901, ch. 872, §16, as added Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545; amended Pub. L. 94–411, §1(b), Sept. 13, 1976, 90 Stat. 1254; Pub. L. 95–422, §§1(b), 2(b), 3(b), Oct. 5, 1978, 92 Stat. 932, 933; Pub. L. 96–121, §3, Nov. 16, 1979, 93 Stat. 863.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2220(b)(1) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 106–503, title I, §110(a)(1)(D), Nov. 13, 2000, 114 Stat. 2302.
@@ -72,6 +74,8 @@ Subsec. (b). Pub. L. 95–422, §1(b), inserted provision authorizing appropriat
 
 **1976**—Subsec. (b). Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, and not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated not to exceed $3,500,000 for the fiscal year ending June 30, 1975, and not to exceed $4,000,000 for the fiscal year ending June 30, 1976.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination of Advisory Councils ####
 
 Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -83,6 +87,8 @@ Pub. L. 102–245, title I, §104(g), Feb. 14, 1992, 106 Stat. 11, provided that
 #### National Commission on Fire Prevention and Control ####
 
 Pub. L. 90–259, §§101, 103, 104, and 201–207, established the National Commission on Fire Prevention and Control, directed the commission to study and investigate measures to reduce the destructive effects of fire throughout the country, and provided that the commission cease to exist thirty days after the submission of its report which was to be made no later than two years after the commission had been organized.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11654 ####
 

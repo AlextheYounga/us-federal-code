@@ -10,6 +10,8 @@ Jurisdiction of offenses and violations under, and jurisdiction and venue of sui
 
 (May 27, 1933, ch. 38, title III, §322, as added Aug. 3, 1939, ch. 411, 53 Stat. 1175; amended Pub. L. 101–550, title IV, §418, Nov. 15, 1990, 104 Stat. 2732.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -17,6 +19,8 @@ Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved
 #### Amendments ####
 
 **1990**—Subsec. (b). Pub. L. 101–550 inserted "or duty" after "any liability".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

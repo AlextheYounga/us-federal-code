@@ -1,5 +1,7 @@
 ### SUBCHAPTER VII—PROGRAMS FOR HISPANIC, ALASKA NATIVE, AND NATIVE HAWAIIAN SERVING INSTITUTIONS ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter VII, consisting of parts A (§3241), B (§§3251, 3252), C (§§3261 to 3263), D (§3271), and E (§§3281, 3282), related to solar energy research and development, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(D), Nov. 28, 1990, 104 Stat. 3704.

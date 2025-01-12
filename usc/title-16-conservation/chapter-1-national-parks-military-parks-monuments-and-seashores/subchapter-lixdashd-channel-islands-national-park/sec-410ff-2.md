@@ -12,6 +12,8 @@ Such report shall be submitted within two complete fiscal years from March 5, 19
 
 (Pub. L. 96–199, title II, §203, Mar. 5, 1980, 94 Stat. 75.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

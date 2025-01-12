@@ -30,9 +30,13 @@ Such agencies shall cooperate with the Administrator and provide such other desc
 
 (Pub. L. 93–275, §56, as added Pub. L. 94–385, title I, §142, Aug. 14, 1976, 90 Stat. 1138.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 5818 of title 42, referred to in subsec. (c), was repealed by Pub. L. 95–91, title VII, §709(b), Aug. 4, 1977, 91 Stat. 608.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

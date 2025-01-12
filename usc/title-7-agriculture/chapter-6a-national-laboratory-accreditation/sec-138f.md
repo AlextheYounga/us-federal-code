@@ -26,6 +26,8 @@ There are authorized to be appropriated each fiscal year such sums as may be nec
 
 (Pub. L. 101–624, title XIII, §1327, Nov. 28, 1990, 104 Stat. 3565; Pub. L. 102–237, title X, §1017, Dec. 13, 1991, 105 Stat. 1904.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Meat Inspection Act, referred to in subsec. (a), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.

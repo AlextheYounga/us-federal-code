@@ -24,6 +24,8 @@ Section is comprised of the sixth and seventh pars. of section 2 of act Dec. 23,
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
+#### **Executive Documents** ####
+
 #### Exception as to Transfer of Functions ####
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

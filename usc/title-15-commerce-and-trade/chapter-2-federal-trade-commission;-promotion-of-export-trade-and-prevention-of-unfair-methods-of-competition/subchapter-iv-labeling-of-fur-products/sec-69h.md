@@ -10,9 +10,13 @@ It shall be unlawful for any person to furnish, with respect to any fur product 
 
 (Aug. 8, 1951, ch. 298, §10, 65 Stat. 181.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Trade Commission Act, referred to in subsec. (b), is defined in section 69 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

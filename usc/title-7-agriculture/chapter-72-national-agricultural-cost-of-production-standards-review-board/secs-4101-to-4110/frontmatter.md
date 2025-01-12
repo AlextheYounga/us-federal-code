@@ -1,5 +1,7 @@
 ### §§4101 to 4110. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 4101 to 4110 were omitted pursuant to section 4110 which provided that the National Agricultural Cost of Production Standards Review Board established by this chapter ceased to exist on Sept. 30, 1995.

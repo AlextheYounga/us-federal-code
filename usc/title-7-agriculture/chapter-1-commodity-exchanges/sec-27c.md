@@ -22,6 +22,8 @@ For purposes of subsection (b)(3) of this title, mark-to-market margining requir
 
 (Pub. L. 106–554, §1(a)(5) [title IV, §405], Dec. 21, 2000, 114 Stat. 2763, 2763A–459.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in subsecs. (a) and (b)(4), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.

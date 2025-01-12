@@ -166,10 +166,12 @@ Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as 
 
 Act June 16, 1933, ch. 89, §26(b), 48 Stat. 191, provided: "The amendment made by this section [amending this section] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect."
 
-#### Exception as to Transfer of Functions ####
-
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
 #### Application to District of Columbia ####
 
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §3, 47 Stat. 1567.
+
+#### **Executive Documents** ####
+
+#### Exception as to Transfer of Functions ####
+
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

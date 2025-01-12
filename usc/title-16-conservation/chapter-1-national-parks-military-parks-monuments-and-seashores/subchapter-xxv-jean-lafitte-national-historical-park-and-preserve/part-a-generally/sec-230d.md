@@ -4,9 +4,13 @@ Within the Barataria Preserve Unit, the Secretary shall permit hunting, fishing 
 
 (Pub. L. 95–625, title IX, §905, Nov. 10, 1978, 92 Stat. 3536; Pub. L. 111–11, title VII, §7105(d), (f)(2)(A), Mar. 30, 2009, 123 Stat. 1192, 1193.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–11, in first sentence, substituted "Barataria Preserve Unit" for "Barataria Marsh Unit" and "on land, and interests in land and water managed by the Secretary, except that the Secretary" for ", except that within the core area and on those lands acquired by the Secretary pursuant to section 230a(c) of this title, he".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

@@ -30,6 +30,8 @@ Sec.
 
 48114. Funding for aviation programs.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–254, div. B, title I, §115, Oct. 5, 2018, 132 Stat. 3201, struck out item 48112 "Adjustment to AIP program funding".

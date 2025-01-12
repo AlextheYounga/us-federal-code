@@ -2288,6 +2288,8 @@ Sec.
 
 300g–9. Capacity development.
 
+300g–10. Cybersecurity support for public water systems.
+
 #### Part C—Protection of Underground Sources of Drinking Water ####
 
 300h. Regulations for State programs.
@@ -2307,6 +2309,8 @@ Sec.
 300h–7. State programs to establish wellhead protection areas.
 
 300h–8. State ground water protection grants.
+
+300h–9. Secure geologic storage permitting.
 
 #### Part D—Emergency Powers ####
 
@@ -2370,6 +2374,8 @@ Sec.
 
 300j–18. Drinking water studies.
 
+300j–18a. Annual study on boil water advisories.
+
 300j–19. Algal toxin risk assessment and management.
 
 300j–19a. Assistance for small and disadvantaged communities.
@@ -2381,6 +2387,12 @@ Sec.
 300j–19d. Review of technologies.
 
 300j–19e. Water infrastructure and workforce investment.
+
+300j–19f. Operational sustainability of small public water systems.
+
+300j–19g. Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program.
+
+300j–19h. Advanced drinking water technologies.
 
 #### Part F—Additional Requirements To Regulate Safety of Drinking Water ####
 

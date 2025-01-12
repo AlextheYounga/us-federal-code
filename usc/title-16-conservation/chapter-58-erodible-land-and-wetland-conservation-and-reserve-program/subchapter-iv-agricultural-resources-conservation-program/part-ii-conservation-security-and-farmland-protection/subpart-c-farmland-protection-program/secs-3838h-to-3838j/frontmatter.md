@@ -6,6 +6,8 @@ Section 3838i, Pub. L. 99–198, title XII, §1238I, as added Pub. L. 107–171,
 
 Section 3838j, Pub. L. 99–198, title XII, §1238J, as added Pub. L. 107–171, title II, §2503(a), May 13, 2002, 116 Stat. 269; amended Pub. L. 110–234, title II, §2402, May 22, 2008, 122 Stat. 1051; Pub. L. 110–246, §4(a), title II, §2402, June 18, 2008, 122 Stat. 1664, 1779, related to farm viability program.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeal; Transitional Provisions ####
 
 Pub. L. 113–79, title II, §2704, Feb. 7, 2014, 128 Stat. 767, provided that:

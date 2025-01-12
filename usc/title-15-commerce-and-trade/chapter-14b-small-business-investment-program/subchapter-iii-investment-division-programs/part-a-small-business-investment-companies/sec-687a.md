@@ -36,6 +36,8 @@ If any licensee or other person against which or against whom an order is issued
 
 (Pub. L. 85–699, title III, §309, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 753; amended Pub. L. 89–779, §4, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 98–620, title IV, §402(15)(A), (B), Nov. 8, 1984, 98 Stat. 3358.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "this chapter", referred to in subsecs. (a)(3), (4) and (b), see References in Text note set out under section 661 of this title.
@@ -55,6 +57,8 @@ Subsec. (c). Pub. L. 89–779, §4(d), inserted references to persons involved o
 Subsec. (e). Pub. L. 89–779, §4(e), authorized the appeal from an order issued by the Administration under this section by other persons, besides the licensee, against whom an order is issued.
 
 Subsec. (f). Pub. L. 89–779, §4(f), provided that individuals as well as licensees are to be affected by subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

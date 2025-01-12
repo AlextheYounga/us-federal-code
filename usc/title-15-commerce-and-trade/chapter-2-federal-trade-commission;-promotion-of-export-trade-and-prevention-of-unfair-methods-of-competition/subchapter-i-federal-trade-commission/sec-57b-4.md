@@ -30,6 +30,8 @@ any person, partnership, or corporation submits a request to the Board of Govern
 
 (Sept. 26, 1914, ch. 311, §23, as added Pub. L. 96–252, §16, May 28, 1980, 94 Stat. 390.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.

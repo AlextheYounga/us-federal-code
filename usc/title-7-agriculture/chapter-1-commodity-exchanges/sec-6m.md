@@ -14,6 +14,8 @@
 
 (Sept. 21, 1922, ch. 369, §4m, as added Pub. L. 93–463, title II, §205(a), Oct. 23, 1974, 88 Stat. 1398; amended Pub. L. 95–405, §8, Sept. 30, 1978, 92 Stat. 870; Pub. L. 97–444, title I, §103, Jan. 11, 1983, 96 Stat. 2296; Pub. L. 106–554, §1(a)(5) [title II, §251(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–443; Pub. L. 111–203, title VII, §§721(e)(2), 749(b), July 21, 2010, 124 Stat. 1671, 1747.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in par. (2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
@@ -31,6 +33,8 @@ Pub. L. 111–203, §721(e)(2), substituted "section 1a" for "section 1a(6)".
 **1983**—Pub. L. 97–444 designated existing provisions as par. (1) and added par. (2).
 
 **1978**—Pub. L. 95–405 inserted provisions relating to applicability of this section to commodity trading advisors who are dealers, processors, brokers, or sellers in cash market transactions of specifically listed commodities or nonprofit, voluntary membership, general farm organizations who provide advice on sale or purchase of specifically listed commodities if the advice by the person described in cl. (1) or (2) of this sentence is incidental solely to the conduct to the person's business and that such person be subject to proceedings under section 18 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

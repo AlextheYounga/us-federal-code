@@ -22,6 +22,8 @@ The Secretary shall require the sponsor of the Alaska natural gas transportation
 
 (Pub. L. 108–324, div. C, §110, Oct. 13, 2004, 118 Stat. 1262.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (a), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.

@@ -36,6 +36,8 @@ For purposes of this section, customs services provided in connection with, or w
 
 (Pub. L. 98–573, title II, §236, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–190, §142, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 99–272, title XIII, §13032, Apr. 7, 1986, 100 Stat. 310; Pub. L. 100–418, title I, §1905, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–207, §3(c)(2), (f)(1), Dec. 7, 1989, 103 Stat. 1834, 1835.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Pub. L. 101–207, §3(f)(1)(C), inserted "and other facilities" after "airports" in section catchline.
@@ -57,6 +59,8 @@ Subsec. (c). Pub. L. 100–418, §1905(4), struck out "20" before "airports".
 Subsec. (e). Pub. L. 99–272, §13032(2), substituted last two sentences for former last sentence which read as follows: "The funds in such account shall only be available, as provided by appropriation Acts, for expenditures relating to the provision of customs services at such airport (including expenditures for the salaries and expenses of individuals employed to provide such services)."
 
 **1985**—Subsec. (c). Pub. L. 99–190 substituted "20 airports" for "4 airports".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

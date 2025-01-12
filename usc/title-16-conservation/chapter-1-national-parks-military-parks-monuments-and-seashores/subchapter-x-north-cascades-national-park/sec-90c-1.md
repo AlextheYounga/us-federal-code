@@ -22,6 +22,8 @@ The Secretary shall not permit the construction or use of any road within the pa
 
 (Pub. L. 90–544, title IV, §402, Oct. 2, 1968, 82 Stat. 928; Pub. L. 100–668, title II, §§205, 206, Nov. 16, 1988, 102 Stat. 3964.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Mineral Leasing Act of February 25, 1920, as amended, referred to in subsec. (c), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.

@@ -6,9 +6,13 @@ Beginning at the southeast corner of section 13, township 6 south, range 5 east;
 
 (Mar. 4, 1931, ch. 496, 46 Stat. 1518; Aug. 9, 1946, ch. 935, §1, 60 Stat. 970.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1946**—Act Aug. 9, 1946, revised the boundaries of the park.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Wind Cave National Park Boundary Revision ####
 

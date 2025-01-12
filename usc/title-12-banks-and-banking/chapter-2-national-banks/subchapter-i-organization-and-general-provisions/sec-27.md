@@ -40,6 +40,8 @@ Pub. L. 96–221, title VII, §712(c), Mar. 31, 1980, 94 Stat. 190, provided tha
 
 Pub. L. 95–630, title XV, §1505, Nov. 10, 1978, 92 Stat. 3713, provided that: "This title [amending this section and sections 1715z–10 and 2902 of this title and amending provisions set out as a note under section 1666f of Title 15, Commerce and Trade] shall take effect upon enactment [Nov. 10, 1978]."
 
+#### **Executive Documents** ####
+
 #### Exception as to Transfer of Functions ####
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

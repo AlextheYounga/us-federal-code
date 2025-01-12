@@ -68,6 +68,8 @@ For purposes of any action brought by the Commission under subsection (e), any p
 
 (Aug. 22, 1940, ch. 686, title II, §209, 54 Stat. 853; Pub. L. 86–750, §12, Sept. 13, 1960, 74 Stat. 887; Pub. L. 91–452, title II, §216, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VII, §704, Dec. 4, 1987, 101 Stat. 1264; Pub. L. 101–429, title IV, §402, Oct. 15, 1990, 104 Stat. 949; Pub. L. 107–204, title III, §308(d)(5), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title IX, §§923(a)(3), 929N, July 21, 2010, 124 Stat. 1849, 1862.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (e)(3)(A). Pub. L. 111–203, §923(a)(3), inserted "and section 78u–6 of this title" after "section 7246 of this title".
@@ -84,6 +86,8 @@ Subsec. (f). Pub. L. 111–203, §929N, added subsec. (f).
 
 **1960**—Subsec. (e). Pub. L. 86–750 inserted ", is engaged," after "has engaged" wherever appearing, and inserted provisions relating to aiders and abettors.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -99,6 +103,8 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 #### Savings Provision ####
 
 Amendment by Pub. L. 91–452 not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

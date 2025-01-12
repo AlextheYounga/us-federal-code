@@ -14,6 +14,8 @@ Within the boundaries of the scenic zone, the Secretary is authorized only to ac
 
 (Pub. L. 102–350, §5, Aug. 26, 1992, 106 Stat. 935; Pub. L. 105–277, div. A, §101(e) [title I, §143], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–277 substituted "Marsh-Billings-Rockefeller" for "Marsh-Billings" in section catchline and wherever appearing in subsecs. (a) and (b).

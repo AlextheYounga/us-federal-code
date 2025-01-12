@@ -24,6 +24,8 @@ Section 515j, act Apr. 25, 1936, ch. 249, §11, 49 Stat. 1242, related to separa
 
 Section 515k, act Apr. 25, 1936, ch. 249, §12, 49 Stat. 1242, authorized promulgation of rules and regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.

@@ -8,6 +8,8 @@ Sec.
 
 4073. Exemptions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–357, title VIII, §869(d)(2), Oct. 22, 2004, 118 Stat. 1623, substituted "Exemptions" for "Exemption for tires with internal wire fastening" in item 4073.

@@ -42,6 +42,8 @@ Notwithstanding the provisions of sections 9105 and 9106 of title 31, the financ
 
 (Pub. L. 93–454, §11, Oct. 18, 1974, 88 Stat. 1378; Pub. L. 95–91, title III, §302(a)(1)(D), Aug. 4, 1977, 91 Stat. 578; Pub. L. 96–501, §8(a), (b), Dec. 5, 1980, 94 Stat. 2728.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Executive Order Numbered 8526 dated August 26, 1940, referred to in subsec. (a), is not classified to the Code.
@@ -61,6 +63,8 @@ In subsec. (d), "sections 9105 and 9106 of title 31" substituted for "sections 1
 **1980**—Subsec. (b)(6)(iv). Pub. L. 96–501, §8(a), added cl. (iv).
 
 Subsec. (b)(12). Pub. L. 96–501, §8(b), added par. (12).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

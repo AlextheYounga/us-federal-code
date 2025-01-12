@@ -136,6 +136,8 @@ The report submitted under paragraph (1) shall include—
 
 (Pub. L. 110–234, title XII, §12091, May 22, 2008, 122 Stat. 1423; Pub. L. 110–246, §4(a), title XII, §12091, June 18, 2008, 122 Stat. 1664, 2185.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 636(b) of this title, as amended by this Act, referred to in subsec. (c)(1), is section 636(b) of this title, as amended by Pub. L. 110–246.
@@ -149,6 +151,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section is comprised of section 12091 of Pub. L. 110–246. Subsec. (g) of section 12091 of Pub. L. 110–246 enacted section 657o of this title.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

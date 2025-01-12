@@ -52,6 +52,8 @@ In no case shall the amount recoverable under this section exceed the price at w
 
 (May 27, 1933, ch. 38, title I, §11, 48 Stat. 82; June 6, 1934, ch. 404, title II, §206, 48 Stat. 907; Pub. L. 104–67, title II, §201(b), Dec. 22, 1995, 109 Stat. 762; Pub. L. 105–353, title III, §301(a)(2), Nov. 3, 1998, 112 Stat. 3235.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Subsec. (f)(2)(A). Pub. L. 105–353 made technical amendment to reference in original act which appears in text as reference to section 78u–4(f) of this title.
@@ -62,6 +64,8 @@ In no case shall the amount recoverable under this section exceed the price at w
 
 Subsecs. (b)(3), (c) to (e). Act June 6, 1934, amended subsecs. (b)(3) and (c) to (e).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1995 Amendment ####
 
 Pub. L. 104–67, title II, §202, Dec. 22, 1995, 109 Stat. 762, provided that: "The amendments made by this title [amending this section and section 78u–4 of this title] shall not affect or apply to any private action arising under the securities laws commenced before and pending on the date of enactment of this Act [Dec. 22, 1995]."
@@ -69,6 +73,8 @@ Pub. L. 104–67, title II, §202, Dec. 22, 1995, 109 Stat. 762, provided that: 
 #### Construction of 1995 Amendment ####
 
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

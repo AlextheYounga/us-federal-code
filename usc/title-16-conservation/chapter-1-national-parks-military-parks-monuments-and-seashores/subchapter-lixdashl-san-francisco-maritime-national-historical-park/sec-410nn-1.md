@@ -30,6 +30,8 @@ Within 2 years after establishment of the park, the Secretary shall prepare and 
 
 (Pub. L. 100–348, §3, June 27, 1988, 102 Stat. 655.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 410nn of this title and Tables.
@@ -39,6 +41,8 @@ The Act entitled "An Act to establish a National Park Service, and for other pur
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

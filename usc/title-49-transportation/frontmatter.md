@@ -25,6 +25,8 @@ IX. Multimodal Freight Transportation 1 70101
 
 X. MISCELLANEOUS 80101
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–94, div. A, title VIII, §8001(b), Dec. 4, 2015, 129 Stat. 1612, substituted "Multimodal Freight Transportation . . .70101" for "[TRANSFERRED]" in item for subtitle IX.
@@ -1891,6 +1893,8 @@ X. MISCELLANEOUS 80101
 |                                                                                                   2810                                                                                                    |                                                                                                                                           5711                                                                                                                                           |
 |                                                                                                   2811                                                                                                    |                                                                                                                                           5712                                                                                                                                           |
 |                                                                                                   2812                                                                                                    |                                                                                                                                           5714                                                                                                                                           |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Enacting Clauses ####
 

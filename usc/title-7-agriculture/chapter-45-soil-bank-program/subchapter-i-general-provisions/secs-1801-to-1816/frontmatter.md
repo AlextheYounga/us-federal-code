@@ -32,6 +32,8 @@ Section 1815, act May 28, 1956, ch. 327, title I, §127, as added May 16, 1958, 
 
 Section 1816, act May 28, 1956, ch. 327, title I, §128, as added Sept. 14, 1959, Pub. L. 86–265, 73 Stat. 552, authorized Secretary to pay compensation to a producer in order to provide fair and equitable treatment when producer has suffered losses because of inaccurate information forming the basis for contract if producer relied in good faith upon inaccurate information.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 89–321, title VI, §601, Nov. 3, 1965, 79 Stat. 1206, provided that the Soil Bank Act of 1956 [former subchapters I to III of this chapter] shall remain in effect with respect to contracts entered into thereunder prior to its repeal by section 601 of Pub. L. 89–321.

@@ -56,6 +56,8 @@ The Comptroller General of the United States shall conduct reviews and audits of
 
 (Sept. 21, 1922, ch. 369, §8, 42 Stat. 1003; June 15, 1936, ch. 545, §2, 49 Stat. 1491; Pub. L. 90–258, §19(a), Feb. 19, 1968, 82 Stat. 32; Pub. L. 93–463, title I, §103(a), (e), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 95–405, §16, Sept. 30, 1978, 92 Stat. 873; Pub. L. 97–444, title II, §222, Jan. 11, 1983, 96 Stat. 2309; Pub. L. 102–546, title II, §205, title III, §§304, 305, title IV, §402(7), Oct. 28, 1992, 106 Stat. 3600, 3623, 3624; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(18), title II, §253(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410, 2763A–449; Pub. L. 110–234, title XIII, §13105(g), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(g), June 18, 2008, 122 Stat. 1664, 2196; Pub. L. 111–203, title VII, §725(f), July 21, 2010, 124 Stat. 1694.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -99,6 +101,8 @@ Subsecs. (h), (i). Pub. L. 97–444, §222(4), redesignated former subsecs. (f) 
 **1968**—Pub. L. 90–258 authorized investigations to ascertain facts regarding operations of other persons subject to any provisions of this chapter.
 
 **1936**—Act June 15, 1936, substituted "commodity" for "grain" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

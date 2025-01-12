@@ -24,6 +24,8 @@ Subsections (a) and (b) shall not apply with respect to the enforcement of a Sta
 
 (Pub. L. 104–63, §2, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, §2(1), July 3, 1997, 111 Stat. 241.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "antitrust laws", referred to in text, see section 37a(1) of this title.
@@ -31,6 +33,8 @@ For definition of "antitrust laws", referred to in text, see section 37a(1) of t
 #### Amendments ####
 
 **1997**—Pub. L. 105–26 amended section generally. Prior to amendment, section related to modification of antitrust laws to allow two or more charitable organizations to use, or to agree to use, the same annuity rate in issuing one or more charitable gift annuities and to limitations on such conduct.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1997 Amendment ####
 

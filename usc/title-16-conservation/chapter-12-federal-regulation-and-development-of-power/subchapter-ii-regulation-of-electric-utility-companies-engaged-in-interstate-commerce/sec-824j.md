@@ -50,6 +50,8 @@ As used in this section, the term "facilities" means only facilities used for th
 
 (June 10, 1920, ch. 285, pt. II, §211, as added Pub. L. 95–617, title II, §203, Nov. 9, 1978, 92 Stat. 3136; amended Pub. L. 96–294, title VI, §643(a)(3), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §15, Oct. 16, 1986, 100 Stat. 1257; Pub. L. 102–486, title VII, §721, Oct. 24, 1992, 106 Stat. 2915; Pub. L. 109–58, title XII, §1295(c), Aug. 8, 2005, 119 Stat. 985.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Subsec. (c). Pub. L. 109–58, §1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted "termination or modification" for "termination of modification".
@@ -87,6 +89,8 @@ Subsec. (d). Pub. L. 102–486, §721(5), in first sentence substituted "transmi
 **1986**—Subsec. (c)(2)(B). Pub. L. 99–495 inserted provisions that nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination or modification of an existing rate schedule, provided that such order shall not become effective until termination of such rate schedule or the modification becomes effective.
 
 **1980**—Subsec. (a). Pub. L. 96–294 added applicability to geothermal power producers.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

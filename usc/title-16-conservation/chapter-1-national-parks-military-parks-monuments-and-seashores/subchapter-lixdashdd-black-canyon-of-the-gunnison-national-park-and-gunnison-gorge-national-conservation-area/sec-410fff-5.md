@@ -74,6 +74,8 @@ The Secretary may make revisions to the boundary of the Conservation Area follow
 
 (Pub. L. 106–76, §7, Oct. 21, 1999, 113 Stat. 1129; Pub. L. 108–128, §3, Nov. 17, 2003, 117 Stat. 1356.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
@@ -81,6 +83,8 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2
 #### Amendments ####
 
 **2003**—Subsec. (a). Pub. L. 108–128 designated existing provisions as par. (1) and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

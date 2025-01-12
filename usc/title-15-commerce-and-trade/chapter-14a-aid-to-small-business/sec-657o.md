@@ -12,9 +12,13 @@ Not later than 45 days after the end of a fiscal year, the Administrator shall s
 
 (Pub. L. 85–536, §2[43], as added Pub. L. 110–234, title XII, §12091(g), May 22, 2008, 122 Stat. 1426, and Pub. L. 110–246, §4(a), title XII, §12091(g), June 18, 2008, 122 Stat. 1664, 2188.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

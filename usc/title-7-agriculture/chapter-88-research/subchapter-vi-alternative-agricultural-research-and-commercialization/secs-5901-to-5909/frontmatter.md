@@ -18,6 +18,8 @@ Section 5908, Pub. L. 101–624, title XVI, §1664, Nov. 28, 1990, 104 Stat. 376
 
 Section 5909, Pub. L. 101–624, title XVI, §1665, as added Pub. L. 104–127, title VII, §729, Apr. 4, 1996, 110 Stat. 1121, related to procurement of alternative agricultural research and commercialization products.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Disposition and Use of Assets ####
 
 Pub. L. 107–171, title VI, §6201(b), (c), May 13, 2002, 116 Stat. 418, 419, provided that:

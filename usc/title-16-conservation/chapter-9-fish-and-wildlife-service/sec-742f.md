@@ -122,6 +122,8 @@ There is authorized to be appropriated to the Secretary of the Interior to carry
 
 (Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578; Pub. L. 108–327, §§2, 4, Oct. 16, 2004, 118 Stat. 1271; Pub. L. 111–357, §§2, 4(a), Jan. 4, 2011, 124 Stat. 3979, 3980; Pub. L. 115–168, §2, Apr. 23, 2018, 132 Stat. 1284.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
@@ -166,9 +168,7 @@ Subsec. (a)(5). Pub. L. 95–616, §4(1), struck out par. (5) relating to wildli
 
 Subsecs. (b), (c). Pub. L. 95–616, §4(3), added subsecs. (b) and (c).
 
-#### Transfer of Functions ####
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Congressional Findings and Purposes ####
 
@@ -195,3 +195,9 @@ Pub. L. 105–242, §2, Oct. 5, 1998, 112 Stat. 1574, provided that:
 #### Pilot Projects ####
 
 Pub. L. 105–242, §4(a), Oct. 5, 1998, 112 Stat. 1575, as amended, formerly set out as a note under this section, was transferred and is classified to section 742f–1 of this title.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.

@@ -4,6 +4,8 @@ All guns, bows, traps, nets, seines, fishing tackle, clothing, teams, horses, ma
 
 (Mar. 6, 1942, ch. 151, §4, 56 Stat. 136; Pub. L. 100–668, title I, §104(b), Nov. 16, 1988, 102 Stat. 3962.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Mar. 6, 1942, which is classified to sections 256 to 256i of this title. For complete classification of this Act to the Code, see Tables.

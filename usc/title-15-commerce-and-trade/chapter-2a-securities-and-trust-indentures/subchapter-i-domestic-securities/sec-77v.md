@@ -18,6 +18,8 @@ The district courts of the United States and the United States courts of any Ter
 
 (May 27, 1933, ch. 38, title I, §22, 48 Stat. 86; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Aug. 10, 1954, ch. 667, title I, §11, 68 Stat. 686; Pub. L. 91–452, title II, §213, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title II, §209, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 105–353, title I, §101(a)(3), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 111–203, title IX, §§929E(a), 929P(b)(1), July 21, 2010, 124 Stat. 1853, 1864.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -40,6 +42,8 @@ Subsec. (c). Pub. L. 111–203, §929P(b)(1), added subsec. (c).
 
 **1954**—Subsec. (a). Act Aug. 10, 1954, inserted "offer or" before "sale" in second sentence.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -59,6 +63,8 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Savings Provision ####
 
 Amendment by Pub. L. 91–452 not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -16,6 +16,8 @@ F. Special provisions applicable to manufacturers tax 4216
 
 G. Exemptions, registration, etc 4221
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–94, div. N, title I, §501(c) Dec. 20, 2019, 133 Stat. 3119, struck out item for subchapter E "Medical devices".

@@ -2,6 +2,8 @@
 
 Section, Pub. L. 109–59, title IX, §9002(a)(1), Aug. 10, 2005, 119 Stat. 1919, related to capital grants for rail line relocation projects.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.

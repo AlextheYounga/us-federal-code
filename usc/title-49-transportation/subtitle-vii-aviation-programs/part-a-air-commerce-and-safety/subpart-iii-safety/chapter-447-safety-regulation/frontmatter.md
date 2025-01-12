@@ -88,6 +88,8 @@ Sec.
 
 44743. Pilot training requirements.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260, div. V, title I, §§107(d)(2), 119(b), Dec. 27, 2020, 134 Stat. 2326, 2339, added items 44740 to 44743 and struck out second item 44737 "Special rule for certain aircraft operations".

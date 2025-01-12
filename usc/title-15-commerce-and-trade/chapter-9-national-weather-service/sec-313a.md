@@ -4,10 +4,14 @@ In order to improve the weather forecasting service of the United States and to 
 
 (Feb. 12, 1946, ch. 4, §1, 60 Stat. 4; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
-#### Transfer of Functions ####
-
-Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. For further details, see notes set out under section 311 of this title.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Appropriations ####
 
 Section 2 of act Feb. 12, 1946, authorized appropriation of necessary funds to carry out provisions of this section.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. For further details, see notes set out under section 311 of this title.

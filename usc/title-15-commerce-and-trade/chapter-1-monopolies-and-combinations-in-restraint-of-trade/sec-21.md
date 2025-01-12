@@ -58,6 +58,8 @@ Any person who violates any order issued by the commission, board, or Secretary 
 
 (Oct. 15, 1914, ch. 323, §11, 38 Stat. 734; June 19, 1934, ch. 652, title VII, §702(d), formerly title VI, §602(d), 48 Stat. 1102; renumbered Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 23, 1938, ch. 601, §1107(g), 52 Stat. 1028; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806; Pub. L. 85–791, §4, Aug. 28, 1958, 72 Stat. 943; Pub. L. 86–107, §1, July 23, 1959, 73 Stat. 243; Pub. L. 98–443, §9(m), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 98–620, title IV, §402(10)(B), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 104–88, title III, §318(2), Dec. 29, 1995, 109 Stat. 949.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in subsec. (e), are defined in section 12 of this title.
@@ -100,6 +102,8 @@ Pub. L. 85–791, §4(d), substituted in fifth par., "Upon the filing of the rec
 
 **1934**—Act June 19, 1934, amended first par.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".
@@ -117,6 +121,8 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 #### Effective Date of 1959 Amendment ####
 
 Section 2 of Pub. L. 86–107 provided that: "The amendments made by section 1 [amending this section] shall have no application to any proceeding initiated before the date of enactment of this Act [July 23, 1959] under the third or fourth paragraph of section 11 of the Act entitled 'An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes', approved October 15, 1914 (38 Stat. 734, as amended; 15 U.S.C. 21) [this section]. Each such proceeding shall be governed by the provisions of such section as they existed on the day preceding the date of enactment of this Act."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -14,6 +14,8 @@ For the purposes of subsections (a) and (b) of this section, any package of wool
 
 (Oct. 14, 1940, ch. 871, §5, 54 Stat. 1130; Pub. L. 98–417, title III, §306, Sept. 24, 1984, 98 Stat. 1605.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 68b of this title, the second time it appears in subsec. (c), was in the original "subsection (4)" and was translated as reading "section 4" as the probable intent of Congress.
@@ -21,6 +23,8 @@ Section 68b of this title, the second time it appears in subsec. (c), was in the
 #### Amendments ####
 
 **1984**—Pub. L. 98–417 designated existing first and second pars. as subsecs. (a) and (b), respectively, and added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

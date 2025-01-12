@@ -48,6 +48,8 @@ The total acreage of the park shall not exceed 26,776 acres.
 
 (Pub. L. 94–545, §1, Oct. 18, 1976, 90 Stat. 2517; Pub. L. 100–524, §5, Oct. 24, 1988, 102 Stat. 2607; Pub. L. 108–108, title I, §§135, 148, Nov. 10, 2003, 117 Stat. 1270, 1281; Pub. L. 108–199, div. H, §139(a), Jan. 23, 2004, 118 Stat. 442.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Hereinafter, referred to in subsec. (a), means Pub. L. 94–545, which is classified to this subchapter. For complete classification of Pub. L. 94–545 to the Code, see Tables.
@@ -67,6 +69,8 @@ Hereinafter, referred to in subsec. (a), means Pub. L. 94–545, which is classi
 Subsecs. (c), (d). Pub. L. 108–108, §148(2), added subsecs. (c) and (d).
 
 **1988**—Pub. L. 100–524 designated existing provisions as subsec. (a), struck out ", but the total area may not exceed fifteen thousand, two hundred acres" after "Federal Register", and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

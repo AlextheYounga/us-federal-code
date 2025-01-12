@@ -56,6 +56,8 @@ Sec.
 
 47534. Prohibition on operating certain aircraft weighing 75,000 pounds or less not complying with stage 3 noise levels.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–254, div. B, title VII, §743(b), Oct. 5, 2018, 132 Stat. 3413, added item 47511.

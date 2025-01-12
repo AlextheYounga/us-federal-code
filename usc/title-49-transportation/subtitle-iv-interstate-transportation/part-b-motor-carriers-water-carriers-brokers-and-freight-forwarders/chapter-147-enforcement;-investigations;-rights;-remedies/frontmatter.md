@@ -24,6 +24,8 @@ Sec.
 
 14711. Enforcement by State attorneys general.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–59, title IV, §4206(c), Aug. 10, 2005, 119 Stat. 1757, added items 14710 and 14711.

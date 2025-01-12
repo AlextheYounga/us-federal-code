@@ -196,11 +196,15 @@ Not later than 1 year after March 12, 2019, or the issuance of a new utility fac
 
 (Pub. L. 103–433, title XIII, §1301, as added Pub. L. 116–9, title I, §1441, Mar. 12, 2019, 133 Stat. 702.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in subsecs. (a)(1) and (e)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 Section 2945 of the Military Construction Authorization Act for Fiscal Year 2014, referred to in subsec. (a)(2), is section 2945 of title XXIX of div. B of Pub. L. 113–66, Dec. 26, 2013, 127 Stat. 1038, which is set out as a note below.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Johnson Valley Off-Highway Vehicle Recreation Area ####
 

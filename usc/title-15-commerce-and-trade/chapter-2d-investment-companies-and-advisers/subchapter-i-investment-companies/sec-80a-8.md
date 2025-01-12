@@ -46,6 +46,8 @@ Whenever the Commission, on its own motion or upon application, finds that a reg
 
 (Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; Pub. L. 86–507, §1(14), June 11, 1960, 74 Stat. 201; Pub. L. 91–547, §3(c), Dec. 14, 1970, 84 Stat. 1415.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -62,9 +64,13 @@ Subsec. (b)(3) to (5). Pub. L. 91–547, §3(c)(2), (3), added par. (3) and rede
 
 **1960**—Subsec. (e). Pub. L. 86–507 inserted "or by certified mail" after "registered mail".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1970 Amendment ####
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

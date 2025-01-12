@@ -116,6 +116,8 @@ To achieve the purposes of this section and to ensure effective coordination of 
 
 (Pub. L. 116–9, title II, §2204, Mar. 12, 2019, 133 Stat. 735.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Definition of "Secretary" ####
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9, set out as a note under section 1 of this title.

@@ -10,9 +10,13 @@ The boundaries of the park shall be those generally depicted on the map entitled
 
 (Pub. L. 106–352, §2, Oct. 24, 2000, 114 Stat. 1370; Pub. L. 108–352, §6(1), Oct. 21, 2004, 118 Stat. 1396.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Subsec. (b). Pub. L. 108–352 substituted "numbered 963/80,000" for "numbered 963/80000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

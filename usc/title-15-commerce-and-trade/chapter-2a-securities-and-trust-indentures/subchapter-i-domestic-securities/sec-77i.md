@@ -6,11 +6,15 @@
 
 (May 27, 1933, ch. 38, title I, §9, 48 Stat. 80; Pub. L. 85–791, §9, Aug. 28, 1958, 72 Stat. 945; Pub. L. 100–181, title II, §206, Dec. 4, 1987, 101 Stat. 1252.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1987**—Subsec. (a). Pub. L. 100–181 substituted "court of appeals" for "Circuit Court of Appeals", "United States Court of Appeals for the District of Columbia, by filing in such Court" for "Court of Appeals of the District of Columbia, by filing in such court", and "section 1254 of title 28" for "sections 239 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 346 and 347)".
 
 **1958**—Subsec. (a). Pub. L. 85–791, in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", struck out "certify and" before "file in the court", struck out "a transcript of" after "file in the court", and inserted "as provided in section 2112 of title 28".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

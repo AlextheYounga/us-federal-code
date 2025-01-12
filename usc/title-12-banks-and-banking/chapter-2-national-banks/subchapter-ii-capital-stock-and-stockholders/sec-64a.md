@@ -16,7 +16,7 @@ Sections 63 and 64 of this title, referred to in text, were repealed by Pub. L. 
 
 **1935**—Act Aug. 23, 1935, added second and third sentences.
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Exception as to Transfer of Functions ####
 

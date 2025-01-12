@@ -132,6 +132,8 @@ Nothing in this section shall prohibit or impair the adoption by any contract ma
 
 (Sept. 21, 1922, ch. 369, §4a, as added June 15, 1936, ch. 545, §5, 49 Stat. 1492; amended July 24, 1956, ch. 690, §1, 70 Stat. 630; Pub. L. 90–258, §§2–4, Feb. 19, 1968, 82 Stat. 26, 27; Pub. L. 93–463, title IV, §§403, 404, Oct. 23, 1974, 88 Stat. 1413; Pub. L. 94–16, §4, Apr. 16, 1975, 89 Stat. 78; Pub. L. 97–444, title II, §205, Jan. 11, 1983, 96 Stat. 2299; Pub. L. 102–546, title IV, §402(1)(A), (2), Oct. 28, 1992, 106 Stat. 3624; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–407; Pub. L. 110–234, title XIII, §§13105(a), 13203(g), May 22, 2008, 122 Stat. 1434, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(a), 13203(g), June 18, 2008, 122 Stat. 1664, 2196, 2201; Pub. L. 111–203, title VII, §737(a)–(c), July 21, 2010, 124 Stat. 1722, 1725.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -197,6 +199,8 @@ Par. (2)(B). Pub. L. 90–258, §3, substituted prohibition against holding of n
 Par. (3). Pub. L. 90–258, §4, included references to positions, made hedging applicable to short and long positions, substituted "contract market" for "board of trade", and required the activities to be those of the same person to constitute hedging.
 
 **1956**—Par. (3)(C). Act July 24, 1956, added subpar. (C).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

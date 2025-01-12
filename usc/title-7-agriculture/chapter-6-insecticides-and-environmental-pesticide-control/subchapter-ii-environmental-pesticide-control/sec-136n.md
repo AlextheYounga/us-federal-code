@@ -18,6 +18,8 @@ The Administrator shall, by publication in such manner as the Administrator may 
 
 (June 25, 1947, ch. 125, §16, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 994; amended Pub. L. 98–620, title IV, §402(4)(C), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title VIII, §801(i), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, §1006(b)(1), (2), (3)(P), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Subsec. (b). Pub. L. 102–237, §1006(b)(1), (2), (3)(P), substituted "the Administrator" for "he" before "based", "the Administrator's" for "his", and "the Administrator" for "him" after "designated by".
@@ -27,6 +29,8 @@ Subsec. (d). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" fo
 **1988**—Subsec. (a). Pub. L. 100–532 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Except as is otherwise provided in this subchapter, Agency refusals to cancel or suspend registrations or change classifications not following a hearing and other final Agency actions not committed to Agency discretion by law are judicially reviewable in the district courts."
 
 **1984**—Subsec. (b). Pub. L. 98–620 struck out provisions requiring the court to advance on the docket and expedite the disposition of all cases filed pursuant to this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

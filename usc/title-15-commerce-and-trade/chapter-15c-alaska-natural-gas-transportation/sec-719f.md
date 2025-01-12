@@ -62,15 +62,17 @@ Within 20 days of the transmittal of the President's decision to the Congress un
 
 (Pub. L. 94–586, §8, Oct. 22, 1976, 90 Stat. 2909.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (d)(2) and (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
-
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Congressional Approval of Presidential Recommendations for Waiver of Law To Permit Expeditious Construction and Initial Operation of System ####
 
@@ -79,5 +81,11 @@ Pub. L. 97–93, Dec. 15, 1981, 95 Stat. 1204, provided: "That the House of Repr
 #### Congressional Approval of Presidential Decision on Alaska Natural Gas Transportation System ####
 
 Pub. L. 95–158, Nov. 8, 1977, 91 Stat. 1268, provided: "That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on September 22, 1977, and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural [National] Environmental Policy Act of 1969 [section 4321 et seq. of Title 42, The Public Health and Welfare]."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
 [<sup>1</sup> So in original. Probably should be "National".](#719f_1)

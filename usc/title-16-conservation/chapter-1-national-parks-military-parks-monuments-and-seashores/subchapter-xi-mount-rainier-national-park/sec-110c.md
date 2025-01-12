@@ -26,6 +26,8 @@ The boundaries of the Snoqualmie National Forest and of the Gifford Pinchot Nati
 
 (Pub. L. 100–668, title III, §302, Nov. 16, 1988, 102 Stat. 3965.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 2, 1899 (30 Stat. 993), as amended, referred to in subsec. (a), is act Mar. 2, 1899, ch. 377, 30 Stat. 993, which enacted sections 91, 92, and 93 of this title. For complete classification of this Act to the Code, see Tables.

@@ -14,6 +14,8 @@ This section shall take effect with respect to license applications filed after 
 
 (Pub. L. 102–486, title XXIV, §2403, Oct. 24, 1992, 106 Stat. 3097.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.

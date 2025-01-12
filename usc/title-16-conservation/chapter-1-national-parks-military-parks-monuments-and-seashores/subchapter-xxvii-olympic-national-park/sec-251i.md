@@ -4,6 +4,8 @@ The Secretary is directed to acquire in fee all other privately owned lands adde
 
 (Pub. L. 94–578, title III, §320(f), Oct. 21, 1976, 90 Stat. 2741.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 251e to 251m of this title, referred to in text, was in the original "this Act", meaning Pub. L. 94–578.

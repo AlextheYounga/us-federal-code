@@ -26,6 +26,8 @@ The amount of any earned net income resulting from the operation of the fund at 
 
 (Mar. 3, 1901, ch. 872, §12, as added Aug. 3, 1956, ch. 906, §2, 70 Stat. 959; amended Pub. L. 95–322, §2(a), July 21, 1978, 92 Stat. 395; Pub. L. 99–73, §5(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 29, 1950 (64 Stat. 275), referred to in subsec. (a), was the Deficiency Appropriation Act, 1950. Provisions thereof relating to Working Capital Fund are not classified to the Code.
@@ -41,6 +43,8 @@ A prior section 12 of act Mar. 3, 1901, ch. 872, as added by act July 22, 1950, 
 **1985**—Subsec. (f). Pub. L. 99–73 struck out "first" after "may be applied", and inserted provisions relating to working capital for replacement of equipment and inventories.
 
 **1978**—Subsec. (a). Pub. L. 95–322 struck out ", and additional amounts as from time to time may be required for the purposes of said fund are authorized to be appropriated" after "(64 Stat. 275)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1985 Amendment ####
 

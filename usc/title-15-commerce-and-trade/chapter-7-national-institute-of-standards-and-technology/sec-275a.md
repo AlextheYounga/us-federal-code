@@ -4,6 +4,8 @@ The Secretary shall charge for services performed under the authority of section
 
 (Mar. 3, 1901, ch. 872, §7, as added Aug. 3, 1956, ch. 906, §1, 70 Stat. 959.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions relating to fees were formerly contained in section 276 of this title.

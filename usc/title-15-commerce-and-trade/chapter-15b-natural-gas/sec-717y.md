@@ -106,6 +106,8 @@ No supplier of natural gas under any contract, with respect to which contractual
 
 (Pub. L. 95–617, title VI, §606, Nov. 9, 1978, 92 Stat. 3167.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to this chapter (§717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
@@ -117,6 +119,8 @@ The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 9
 #### Codification ####
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

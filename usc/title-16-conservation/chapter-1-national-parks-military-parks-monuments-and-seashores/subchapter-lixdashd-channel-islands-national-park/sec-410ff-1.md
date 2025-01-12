@@ -32,6 +32,8 @@ With respect to the privately owned lands on Santa Rosa Island, the Secretary sh
 
 (Pub. L. 96–199, title II, §202, Mar. 5, 1980, 94 Stat. 74; Pub. L. 104–333, div. I, title VIII, §817, Nov. 12, 1996, 110 Stat. 4200.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–199, and was translated as "this subchapter", meaning title II of Pub. L. 96–199, to reflect the probable intent of Congress.

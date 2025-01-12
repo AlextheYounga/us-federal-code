@@ -34,6 +34,8 @@ Sec.
 
 526. General criminal penalty when specific penalty not provided.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–178, title IV, §4014(a)(2), June 9, 1998, 112 Stat. 411, added item 508.

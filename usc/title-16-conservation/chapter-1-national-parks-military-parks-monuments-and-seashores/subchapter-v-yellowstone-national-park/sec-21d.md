@@ -4,6 +4,8 @@ Nothing herein contained shall affect any valid existing claim, location, or ent
 
 (Mar. 1, 1929, ch. 437, §4, 45 Stat. 1436.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Herein, referred to in text, means act Mar. 1, 1929, which is classified to sections 21a to 21d of this title. For complete classification of this Act to the Code, see Tables.

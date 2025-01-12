@@ -4,6 +4,8 @@ Except as otherwise expressly provided, nothing in this subchapter shall affect 
 
 (May 27, 1933, ch. 38, title III, §326, as added Aug. 3, 1939, ch. 411, 53 Stat. 1177; amended Pub. L. 111–203, title IX, §986(b)(6), July 21, 2010, 124 Stat. 1936.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -14,9 +16,13 @@ The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, c
 
 **2010**—Pub. L. 111–203 substituted "Securities Act of 1933 or the Securities Exchange Act of 1934" for "Securities Act of 1933, or the Securities Exchange Act of 1934, or the Public Utility Holding Company Act of 1935,".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

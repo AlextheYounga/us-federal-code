@@ -4,6 +4,8 @@ Moneys appropriated pursuant to sections 361a to 361i of this title shall also b
 
 (Mar. 2, 1887, ch. 314, §4, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 672.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 365 of this title.

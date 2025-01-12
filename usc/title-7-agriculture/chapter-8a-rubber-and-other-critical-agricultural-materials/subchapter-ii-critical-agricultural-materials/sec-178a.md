@@ -12,6 +12,8 @@ As used in this subchapter—
 
 (Pub. L. 95–592, §3, Nov. 4, 1978, 92 Stat. 2529; Pub. L. 98–284, §3, May 16, 1984, 98 Stat. 181.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Subsec. (d). Pub. L. 98–284, §3(a), inserted "and other agricultural crops of strategic and industrial importance" and "plants which are".

@@ -20,7 +20,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 (2) Authority of Court To Prohibit Persons From Serving as Officers and Directors.—In any proceeding under paragraph (1) of this subsection, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 78j(b) of this title or the rules or regulations thereunder from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
-(3) Civil Money Penalties and Authority to Seek Disgorgement.—
+(3) Civil money penalties and authority to seek disgorgement.—
 
 (A) Authority of commission.—Whenever it shall appear to the Commission that any person has violated any provision of this chapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 78u–3 of this title, other than by committing a violation subject to a penalty pursuant to section 78u–1 of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to—
 
@@ -176,6 +176,8 @@ The Commission shall provide the Commodity Futures Trading Commission with notic
 
 (June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Pub. L. 91–452, title II, §212, Oct. 15, 1970, 84 Stat. 929; Pub. L. 94–29, §17, June 4, 1975, 89 Stat. 154; Pub. L. 96–433, §§3, 4, Oct. 10, 1980, 94 Stat. 1855, 1858; Pub. L. 98–376, §2, Aug. 10, 1984, 98 Stat. 1264; Pub. L. 100–181, title III, §323, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 100–704, §§3(a)(1), 6(b), Nov. 19, 1988, 102 Stat. 4677, 4681; Pub. L. 101–429, title II, §201, Oct. 15, 1990, 104 Stat. 935; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–67, title I, §103(b)(2), Dec. 22, 1995, 109 Stat. 756; Pub. L. 106–554, §1(a)(5) [title II, §205(a)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–426; Pub. L. 107–204, §3(b)(2), title III, §§305(a)(1), (b), 308(d)(1), title VI, §603(a), July 30, 2002, 116 Stat. 749, 778, 779, 785, 794; Pub. L. 111–203, title IX, §§923(b)(1), 929F(c), (d), (g)(2), 986(a)(3), July 21, 2010, 124 Stat. 1849, 1854, 1855, 1935; Pub. L. 114–113, div. O, title VII, §708, Dec. 18, 2015, 129 Stat. 3030; Pub. L. 116–283, div. F, title LXV, §6501(a), Jan. 1, 2021, 134 Stat. 4625.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(1), (b), (d)(1), (3), (e), and (f), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -190,7 +192,7 @@ Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragra
 
 #### Amendments ####
 
-**2021**—Subsec. (d)(3). Pub. L. 116–283, §6501(a)(1)(A), substituted Civil Money Penalties and Authority to Seek Disgorgement" for "Money Penalties in Civil Actions" in heading.
+**2021**—Subsec. (d)(3). Pub. L. 116–283, §6501(a)(1)(A), substituted "Civil money penalties and authority to seek disgorgement" for "Money Penalties in Civil Actions" in heading. Amendment was executed to reflect the probable intent of Congress due to minor errors in formatting of quoted text.
 
 Subsec. (d)(3)(A). Pub. L. 116–283, §6501(a)(1)(B), substituted "jurisdiction to—" and cls. (i) and (ii) for "jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation."
 
@@ -264,6 +266,8 @@ Subsecs. (f), (g). Pub. L. 94–29, §17(3), added subsecs. (f) and (g). Former 
 
 **1936**—Subsec. (f). Act May 27, 1936, inserted "or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Words "magistrate judge" substituted for "magistrate" wherever appearing in subsec. (h)(4)(A), (5), (7)(A), (8) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
@@ -316,10 +320,6 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Promotion of Reciprocal Subpoena Enforcement ####
 
 Pub. L. 105–353, title I, §102, Nov. 3, 1998, 112 Stat. 3233, provided that:
@@ -333,5 +333,11 @@ Pub. L. 105–353, title I, §102, Nov. 3, 1998, 112 Stat. 3233, provided that:
 "(2) describing the actions undertaken by the Commission and State securities commissions to promote the adoption of such laws; and
 
 "(3) identifying any further actions that the Commission recommends for such purposes."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See References in Text note below.](#78u_1)

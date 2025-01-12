@@ -58,9 +58,13 @@ The authority to enter into contracts shall be in effect for each fiscal year on
 
 (Pub. L. 96–481, title III, §302, Oct. 21, 1980, 94 Stat. 2331.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Boards ####
 

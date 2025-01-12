@@ -14,9 +14,13 @@ Each member of the Board, before entering upon the duties of his office, shall s
 
 (May 18, 1933, ch. 32, §8, 48 Stat. 63; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Subsec. (c). Pub. L. 108–447 substituted "Board" for "board".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

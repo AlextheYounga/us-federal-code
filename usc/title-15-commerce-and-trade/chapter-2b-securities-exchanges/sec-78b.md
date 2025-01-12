@@ -12,11 +12,15 @@ For the reasons hereinafter enumerated, transactions in securities as commonly c
 
 (June 6, 1934, ch. 404, title I, §2, 48 Stat. 881; Pub. L. 94–29, §2, June 4, 1975, 89 Stat. 97; Pub. L. 111–203, title IX, §985(b)(1), July 21, 2010, 124 Stat. 1933.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–203 substituted "effected" for "affected" in introductory provisions.
 
 **1975**—Pub. L. 94–29 inserted "to remove impediments to and perfect the mechanisms of a national market system for securities and a national system for the clearance and settlement of securities transactions and the safeguarding of securities and funds related thereto," after "require appropriate reports," in introductory provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 
@@ -109,6 +113,8 @@ Pub. L. 100–704, §7, Nov. 19, 1988, 102 Stat. 4682, directed Securities and E
 #### Foreign Investment Study ####
 
 Pub. L. 93–479, Oct. 26, 1974, 88 Stat. 1450, directed Secretary of the Treasury and Secretary of Commerce to conduct a comprehensive, overall study of foreign direct and portfolio investments in the United States and submit to Congress an interim report twelve months after Oct. 26, 1974, and not later than one and one-half years after Oct. 26, 1974, a full and complete report of the findings made under the study authorized, together with such recommendations as they considered appropriate.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 12631. Working Group on Financial Markets ####
 

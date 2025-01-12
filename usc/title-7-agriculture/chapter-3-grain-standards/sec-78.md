@@ -6,6 +6,8 @@
 
 (Aug. 11, 1916, ch. 313, pt. B, §6, 39 Stat. 484; Pub. L. 85–509, July 11, 1958, 72 Stat. 352; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §7, Oct. 21, 1976, 90 Stat. 2870; Pub. L. 95–113, title XVI, §1606(c), Sept. 29, 1977, 91 Stat. 1030.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1977**—Subsec. (a). Pub. L. 95–113 substituted "criteria" for "factor information".
@@ -15,6 +17,8 @@
 **1968**—Pub. L. 90–487 substituted provisions requiring the use of official grade designations and prohibiting the use of false or misleading description of grain shipped out of the United States, for provisions allowing the appeal to the Secretary from official grading, authorizing the payment of additional fees for employees required in making appeal inspections, and making the findings prima facie evidence of the grain's true grade.
 
 **1958**—Pub. L. 85–509 authorized payment of employees assigned to perform appeal inspection for all overtime, night, or holiday work, and permitted acceptance of reimbursement for any sums paid for such work.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1977 Amendment ####
 

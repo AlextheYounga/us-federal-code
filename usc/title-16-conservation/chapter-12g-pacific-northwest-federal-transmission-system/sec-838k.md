@@ -14,6 +14,8 @@ The Secretary of the Treasury shall purchase forthwith any bonds issued by the A
 
 (Pub. L. 93–454, §13, Oct. 18, 1974, 88 Stat. 1380; Pub. L. 96–501, §8(c), (d), Dec. 5, 1980, 94 Stat. 2728, 2729.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Pacific Northwest Electric Power Planning and Conservation Act, referred to in subsec. (a), is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to chapter 12H (§839 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
@@ -27,6 +29,8 @@ In subsec. (c), "chapter 31 of title 31" substituted for "the Second Liberty Bon
 **1980**—Subsec. (a). Pub. L. 96–501, §8(d), inserted provision relating to the implementation of the Administrator's authority pursuant to the Pacific Northwest Electric Power Planning and Conservation Act, inserted "issued by Government corporations" after "rates prevailing in the market for similar bonds", increased the existing $1,250,000,000 aggregate principal limitation by an additional $1,250,000,000 after Oct. 1, 1981, to be used to provide funds for conservation and renewable resource loans and grants in a special revolving account created for that purpose, and inserted provision that, beginning in fiscal year 1982, if the Administrator fails to repay by the end of any fiscal year all of the amounts projected immediately prior to that year to be repaid to the Treasury by the end of that year under the repayment criteria of the Secretary of Energy and if that failure is due to reasons other than a decrease in power sale revenues due to fluctuating streamflows or other reasons beyond the control of the Administrator, the Secretary of the Treasury may increase the interest rate applicable to the outstanding bonds issued by the Administrator during that fiscal year.
 
 Subsec. (b). Pub. L. 96–501, §8(c), substituted ", (b)(11), and (b)(12) of this title," for "and (b)(11) of this title,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

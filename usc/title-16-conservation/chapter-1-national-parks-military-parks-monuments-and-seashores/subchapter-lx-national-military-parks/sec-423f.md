@@ -4,11 +4,15 @@ If any person shall, except by permission of the Secretary of the Interior, dest
 
 (July 3, 1926, ch. 746, §7, 44 Stat. 823; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 87–603, §1, Aug. 24, 1962, 76 Stat. 403; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Battlefield" substituted for "park" wherever appearing in text, in view of redesignation of Petersburg National Military Park as Petersburg National Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
 
 "United States magistrate judge" substituted for "United States magistrate" wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" substituted for "United States commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

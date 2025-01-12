@@ -10,9 +10,13 @@ Any construction work and labor in each State shall be performed in accordance w
 
 (Aug. 9, 1950, ch. 658, §7, 64 Stat. 433; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1103.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Pub. L. 91–503 divided existing provisions into subsecs. (a) and (b) and authorized advance payments by the Secretary to the States for financing the United States' pro rata share of the comprehensive fish and wildlife plan.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

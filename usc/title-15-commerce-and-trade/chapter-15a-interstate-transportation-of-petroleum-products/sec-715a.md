@@ -12,6 +12,8 @@ As used in this chapter—
 
 (Feb. 22, 1935, ch. 18, §2, 49 Stat. 30; Pub. L. 89–644, Oct. 13, 1966, 80 Stat. 890.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–644 inserted provisions in par. (1) exempting petroleum or any of its constituent parts, title to which has been acquired by a State pursuant to its laws.

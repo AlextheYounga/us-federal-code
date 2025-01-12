@@ -4,9 +4,13 @@ In any suit in equity brought by or under the direction of the Attorney General 
 
 (Sept. 26, 1914, ch. 311, §7, 38 Stat. 722.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The words "In any suit in equity brought by or under the direction of the Attorney General as provided in the antitrust Acts" have reference to actions under sections 4, 9, and 25 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

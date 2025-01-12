@@ -4,6 +4,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 93–620, §12, formerly §11, Jan. 3, 1975, 88 Stat. 2093; renumbered §12, Pub. L. 94–31, June 10, 1975, 89 Stat. 172.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 June 30, 1974, first appearing in text of section, was in the original "June 30, 1074". The typographical error was corrected to conform to the apparent intent of the Congress.

@@ -42,6 +42,8 @@ This section shall not apply to a transaction for the purchase or sale of wholes
 
 (June 10, 1920, ch. 285, pt. II, §220, as added Pub. L. 109–58, title XII, §1281, Aug. 8, 2005, 119 Stat. 978.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.

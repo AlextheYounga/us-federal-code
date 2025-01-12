@@ -42,13 +42,19 @@ Each fund that is excluded from the definition of an investment company under se
 
 (Aug. 22, 1940, ch. 686, title I, §7, 54 Stat. 802; Pub. L. 104–62, §2(b), Dec. 8, 1995, 109 Stat. 683.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1995**—Subsec. (e). Pub. L. 104–62 added subsec. (e).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1995 Amendment ####
 
 Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

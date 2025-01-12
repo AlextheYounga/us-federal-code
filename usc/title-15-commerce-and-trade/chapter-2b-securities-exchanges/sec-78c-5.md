@@ -86,9 +86,13 @@ A security-based swap, as defined in section 78c(a)(68) of this title shall be c
 
 (June 6, 1934, ch. 404, title I, §3E, as added Pub. L. 111–203, title VII, §763(d), July 21, 2010, 124 Stat. 1774.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

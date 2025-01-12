@@ -34,6 +34,8 @@ The Secretary of the Interior (referred to as the "Secretary") may, by notice in
 
 (Pub. L. 102–294, §2, May 27, 1992, 106 Stat. 185; Pub. L. 111–11, title VII, §7104, Mar. 30, 2009, 123 Stat. 1191.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (d)(2)(B), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.

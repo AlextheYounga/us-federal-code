@@ -140,6 +140,8 @@ There is authorized to be appropriated to carry out this section $60,000,000 for
 
 (Pub. L. 99–198, title XII, §1240M, as added Pub. L. 104–127, title III, §335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, §2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2601, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2501, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, §2404, Dec. 20, 2018, 132 Stat. 4572.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
@@ -159,6 +161,8 @@ Subsec. (e). Pub. L. 115–334, §2404(2), substituted "2023" for "2018".
 **2008**—Subsec. (e). Pub. L. 110–246, §2601, substituted "2012" for "2007".
 
 **2002**—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

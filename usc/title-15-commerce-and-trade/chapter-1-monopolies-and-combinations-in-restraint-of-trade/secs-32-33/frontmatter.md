@@ -4,6 +4,8 @@ Section 32, act Feb. 25, 1903, ch. 755, §1, 32 Stat. 904, granted immunity from
 
 Section 33, act June 30, 1906, ch. 3920, 34 Stat. 798, provided that, under the immunity provisions of former section 32 of this title, immunity was to extend only to a natural person who, in obedience to a subpoena, testified or produced evidence.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.

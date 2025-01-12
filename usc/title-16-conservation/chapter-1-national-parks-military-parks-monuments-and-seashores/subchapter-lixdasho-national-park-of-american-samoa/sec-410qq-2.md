@@ -50,6 +50,8 @@ The Secretary, in providing technical or other assistance to the Government of A
 
 (Pub. L. 100–571, §3, Oct. 31, 1988, 102 Stat. 2881.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -59,6 +61,8 @@ Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (g)(
 #### Codification ####
 
 In subsec. (f), "section 100502 of title 54" substituted for "section 12(b) of the Act of August 18, 1970 (16 U.S.C. 1a–1 through 1a–7)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Boards ####
 

@@ -4,11 +4,15 @@ The Government of the United States reserves the right, in case of war or nation
 
 (May 18, 1933, ch. 32, §20, 48 Stat. 68; Pub. L. 97–164, title I, §161(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 **1982**—Pub. L. 97–164 substituted "Claims Court" for "Court of Claims".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

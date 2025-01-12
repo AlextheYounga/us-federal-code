@@ -1,5 +1,7 @@
 ### SUBTITLE V—REQUIREMENTS APPLICABLE TO IMPORTS OF CERTAIN CIGARETTES AND SMOKELESS TOBACCO PRODUCTS ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 109–432, div. C, title IV, §401(e)(4)(A), Dec. 20, 2006, 120 Stat. 3049, inserted "AND SMOKELESS TOBACCO PRODUCTS" after "CIGARETTES" in subtitle heading.

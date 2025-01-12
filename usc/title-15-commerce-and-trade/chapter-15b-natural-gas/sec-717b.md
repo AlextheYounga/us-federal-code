@@ -72,6 +72,8 @@ Except as specifically provided in this chapter, nothing in this chapter affects
 
 (June 21, 1938, ch. 556, §3, 52 Stat. 822; Pub. L. 102–486, title II, §201, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 109–58, title III, §311(c), Aug. 8, 2005, 119 Stat. 685.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
@@ -87,6 +89,8 @@ The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act J
 Subsecs. (d) to (f). Pub. L. 109–58, §311(c)(2), added subsecs. (d) to (f).
 
 **1992**—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

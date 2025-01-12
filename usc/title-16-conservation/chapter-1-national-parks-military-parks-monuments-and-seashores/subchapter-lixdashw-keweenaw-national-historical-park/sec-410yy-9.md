@@ -6,6 +6,8 @@
 
 (Pub. L. 102–543, §10, Oct. 27, 1992, 106 Stat. 3574; Pub. L. 111–11, title VII, §7101(c), Mar. 30, 2009, 123 Stat. 1190.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Subsec. (a). Pub. L. 111–11, §7101(c)(1), substituted "$50,000,000 for development, and $25,000,000" for "$25,000,000 for development, and $3,000,000".

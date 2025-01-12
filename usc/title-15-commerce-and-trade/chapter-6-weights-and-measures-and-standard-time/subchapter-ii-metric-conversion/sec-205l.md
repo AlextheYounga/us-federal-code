@@ -62,6 +62,8 @@ The construction metrication ombudsman shall be independent of the contracting o
 
 (Pub. L. 94–168, §14, as added and amended Pub. L. 104–289, §§4(a), 5, Oct. 11, 1996, 110 Stat. 3412, 3414; Pub. L. 108–423, §6, Nov. 30, 2004, 118 Stat. 2402.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of the Savings in Construction Act of 1996, referred to in subsecs. (b)(1) and (c)(2), is 90 days after Oct. 11, 1996. See Effective Date of 1996 Amendment; Savings Provision note set out under section 205c of this title.
@@ -75,6 +77,8 @@ In subsec. (a), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,
 **2004**—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: "The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996."
 
 **1996**—Pub. L. 104–289, §5, added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date; Savings Provision ####
 

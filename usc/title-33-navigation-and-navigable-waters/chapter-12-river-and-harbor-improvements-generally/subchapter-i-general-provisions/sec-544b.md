@@ -4,7 +4,7 @@ The Chief of Engineers may authorize the employment of physicians under agreemen
 
 (Mar. 2, 1945, ch. 19, §5, 59 Stat. 24.)
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

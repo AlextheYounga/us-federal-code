@@ -2,6 +2,8 @@
 
 Section, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 902; Pub. L. 105–134, title III, §301(a), Dec. 2, 1997, 111 Stat. 2585, authorized certain appropriations for the benefit of Amtrak.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.

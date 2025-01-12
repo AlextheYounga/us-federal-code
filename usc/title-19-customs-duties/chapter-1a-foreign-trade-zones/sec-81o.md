@@ -22,9 +22,13 @@ Tangible personal property imported from outside the United States and held in a
 
 (June 18, 1934, ch. 590, §15, 48 Stat. 1002; Pub. L. 98–573, title II, §231(b)(1), Oct. 30, 1984, 98 Stat. 2991.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Subsec. (e). Pub. L. 98–573 added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

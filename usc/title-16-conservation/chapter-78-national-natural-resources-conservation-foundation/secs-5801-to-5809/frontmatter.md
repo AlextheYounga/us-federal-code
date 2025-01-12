@@ -18,6 +18,8 @@ Section 5808, Pub. L. 104–127, title III, §359, Apr. 4, 1996, 110 Stat. 1014,
 
 Section 5809, Pub. L. 104–127, title III, §360, Apr. 4, 1996, 110 Stat. 1014, authorized appropriations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 104–127, title III, §351, Apr. 4, 1996, 110 Stat. 1010, which provided that subtitle F (§§351–360) of title III of Pub. L. 104–127 could be cited as the "National Natural Resources Conservation Foundation Act", was repealed by Pub. L. 115–334, title II, §2813, Dec. 20, 2018, 132 Stat. 4602.

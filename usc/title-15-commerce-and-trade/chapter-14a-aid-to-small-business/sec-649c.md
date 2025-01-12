@@ -4,6 +4,8 @@ At least one small business international program shall be established within ea
 
 (Pub. L. 96–481, title III, §303, Oct. 21, 1980, 94 Stat. 2332.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

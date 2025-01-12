@@ -4,9 +4,13 @@ It shall be the duty of the commission, acting under the direction of the Secret
 
 (Mar. 3, 1927, ch. 374, §3, 44 Stat. 1399; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 A provision of act Mar. 3, 1927, authorizing the submission of a report by the commission to the Secretary of War not later than Dec. 1, 1927, and describing the contents of such report was omitted as executed.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -14,6 +14,8 @@ The Secretary of Commerce may establish such regulations as may be necessary to 
 
 (Aug. 8, 1956, ch. 1039, §1, 70 Stat. 1126; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 755 of this title.

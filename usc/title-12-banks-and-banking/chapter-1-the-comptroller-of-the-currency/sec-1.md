@@ -44,6 +44,8 @@ Pub. L. 111–203, title III, §314(d), July 21, 2010, 124 Stat. 1524, provided 
 
 [For definition of "transfer date" as used in section 314(d) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
+#### **Executive Documents** ####
+
 #### Exception as to Transfer of Functions ####
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies, and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280. See section 321(c)(2) of Title 31, Money and Finance.

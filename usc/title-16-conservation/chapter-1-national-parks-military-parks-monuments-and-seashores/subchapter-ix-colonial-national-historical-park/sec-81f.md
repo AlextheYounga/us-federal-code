@@ -4,6 +4,8 @@ There is authorized to be appropriated, out of any money in the Treasury not oth
 
 (July 3, 1930, ch. 837, §4, 46 Stat. 856; Mar. 3, 1931, ch. 405, 46 Stat. 1490; June 5, 1936, ch. 525, §2, 49 Stat. 1483; Pub. L. 90–74, Aug. 29, 1967, 81 Stat. 176; Pub. L. 93–477, title I, §101(2), Oct. 26, 1974, 88 Stat. 1445; Pub. L. 109–418, §3, Dec. 19, 2006, 120 Stat. 2883.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 443c of this title.
@@ -17,6 +19,8 @@ Section was formerly classified to section 443c of this title.
 **1967**—Pub. L. 90–74 substituted "$2,777,000" for "$2,000,000".
 
 **1931**—Act Mar. 3, 1931, changed amount of appropriation and inserted last sentence extending the area of Yorktown battlefield.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -162,6 +162,8 @@ The Commission may, by such rules as it determines to be necessary or appropriat
 
 (Pub. L. 91–598, §3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§2–5, May 21, 1978, 92 Stat. 249–251; Pub. L. 106–554, §1(a)(5) [title II, §203(d)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.

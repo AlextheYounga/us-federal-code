@@ -4,13 +4,19 @@ It shall be unlawful for any person in offering, selling or issuing any security
 
 (May 27, 1933, ch. 38, title III, §324, as added Aug. 3, 1939, ch. 411, 53 Stat. 1176; amended Aug. 10, 1954, ch. 667, title III, §305, 68 Stat. 688.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1954**—Act Aug. 10, 1954, substituted "offering, selling, or issuing" for "issuing or selling".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1954 Amendment ####
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

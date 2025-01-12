@@ -114,6 +114,8 @@ Sec.
 
 47175. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–254, div. B, title I, §§140(b), 160(b), 166(c), title III, §395(b), Oct. 5, 2018, 132 Stat. 3211, 3221, 3226, 3327, added items 47124a, 47136, 47140, and 47143, substituted "Airport investment partnership program" for "Pilot program on private ownership of airports" in item 47134, and struck out former item 47136 "Inherently low-emission airport vehicle pilot program", item 47136a "Zero-emission airport vehicles and infrastructure", former item 47140 "Airport ground support equipment emissions retrofit pilot program", and item 47140a "Increasing the energy efficiency of airport power sources".

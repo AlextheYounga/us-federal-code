@@ -4,6 +4,8 @@ The failure of a registered entity to comply with any provision of this chapter,
 
 (Sept. 21, 1922, ch. 369, §5e, formerly §5b, as added June 15, 1936, ch. 545, §7, 49 Stat. 1498; amended Pub. L. 90–258, §13, Feb. 19, 1968, 82 Stat. 30; Pub. L. 93–463, title I, §103(a), (b), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 102–546, title II, §209(b)(3), Oct. 28, 1992, 106 Stat. 3607; renumbered §5e and amended Pub. L. 106–554, §1(a)(5) [title I, §§110(1), 115], Dec. 21, 2000, 114 Stat. 2763, 2763A–384, 2763A–402; Pub. L. 110–234, title XIII, §13203(l), May 22, 2008, 122 Stat. 1441; Pub. L. 110–246, §4(a), title XIII, §13203(l), June 18, 2008, 122 Stat. 1664, 2203; Pub. L. 111–203, title VII, §749(d), July 21, 2010, 124 Stat. 1747.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -21,6 +23,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 **1974**—Pub. L. 93–463, §103(a), provided for substitution of "Commission" for "Secretary of Agriculture" except where such words would be stricken by section 103(b), which directed striking the words "the Secretary of Agriculture or" where they appeared in the phrase "the Secretary of Agriculture or the Commission". Because the word "commission" was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of "the Commission or the commission" for "the Secretary of Agriculture or the commission".
 
 **1968**—Pub. L. 90–258 substituted "rules, regulations, or orders of the Secretary of Agriculture or the commission" for "rules and regulations of the Secretary of Agriculture".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

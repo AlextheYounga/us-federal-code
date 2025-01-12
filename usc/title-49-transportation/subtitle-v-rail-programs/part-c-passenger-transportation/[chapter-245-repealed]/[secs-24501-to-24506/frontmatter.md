@@ -12,6 +12,8 @@ Section 24505, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 921, related t
 
 Section 24506, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 922, provided that certain powers and duties of Consolidated Rail Corporation were not affected by this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Trackage Rights Not Affected ####
 
 Pub. L. 105–134, title I, §106(c), Dec. 2, 1997, 111 Stat. 2573, provided that: "The repeal of chapter 245 of title 49, United States Code, by subsection (a) of this section is without prejudice to the retention of trackage rights over property owned or leased by commuter authorities."

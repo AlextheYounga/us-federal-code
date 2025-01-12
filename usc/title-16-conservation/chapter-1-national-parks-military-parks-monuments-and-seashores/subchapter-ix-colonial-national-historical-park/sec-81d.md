@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized, in his discretion, to acquire by pu
 
 (June 28, 1938, ch. 775, §2, 52 Stat. 1209.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.

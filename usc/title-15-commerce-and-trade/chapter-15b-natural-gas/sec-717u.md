@@ -4,6 +4,8 @@ The District Courts of the United States and the United States courts of any Ter
 
 (June 21, 1938, ch. 556, §24, formerly §22, 52 Stat. 833; June 25, 1948, ch. 646, §1, 62 Stat. 875, 895; renumbered §24, Pub. L. 109–58, title III, §314(b)(1)(A), Aug. 8, 2005, 119 Stat. 690.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The words "the District Court of the United States for the District of Columbia" following "The District Courts of the United States" omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district" and section 88 of title 28 which states that "The District of Columbia constitutes one judicial district".

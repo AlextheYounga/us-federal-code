@@ -40,6 +40,8 @@ Such felony shall be punishable by a fine of not more than $500,000, plus the am
 
 (Sept. 21, 1922, ch. 369, §9, 42 Stat. 1003; June 15, 1936, ch. 545, §§2, 11, 49 Stat. 1491, 1501; Pub. L. 90–258, §25, Feb. 19, 1968, 82 Stat. 33; Pub. L. 93–463, title II, §212(d), title IV, §§401, 409, Oct. 23, 1974, 88 Stat. 1404, 1412, 1414; Pub. L. 95–405, §19, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §227, Jan. 11, 1983, 96 Stat. 2316; Pub. L. 99–641, title I, §§105, 110(3), (4), Nov. 10, 1986, 100 Stat. 3558, 3561; Pub. L. 102–546, title II, §§212(a), 214(a), Oct. 28, 1992, 106 Stat. 3608, 3610; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(22)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410; Pub. L. 110–234, title XIII, §§13103(d), 13105(h), May 22, 2008, 122 Stat. 1434, 1435; Pub. L. 110–246, §4(a), title XIII, §§13103(d), 13105(h), June 18, 2008, 122 Stat. 1664, 2196, 2197; Pub. L. 111–203, title VII, §741(b)(6), (7), July 21, 2010, 124 Stat. 1731.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -105,6 +107,8 @@ Subsec. (b). Pub. L. 90–258 incorporated existing offenses in provisions desig
 Subsec. (c). Pub. L. 90–258 incorporated existing offenses in provisions designated as subsec. (c), and included penalty for violation of section 12b of this title.
 
 **1936**—Act June 15, 1936, amended section generally and provided that price manipulations of commodities in interstate commerce was a violation.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

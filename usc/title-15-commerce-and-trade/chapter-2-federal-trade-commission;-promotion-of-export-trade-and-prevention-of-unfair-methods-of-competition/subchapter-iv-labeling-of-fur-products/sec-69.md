@@ -26,6 +26,8 @@ As used in this subchapter—
 
 (Aug. 8, 1951, ch. 298, §2, 65 Stat. 175; Pub. L. 106–476, title I, §1443(b), Nov. 9, 2000, 114 Stat. 2167; Pub. L. 111–313, §2(a), Dec. 18, 2010, 124 Stat. 3326.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The act approved September 26, 1914, referred to in subsec. (h), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, known as the Federal Trade Commission Act, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
@@ -35,6 +37,8 @@ The act approved September 26, 1914, referred to in subsec. (h), is act Sept. 26
 **2010**—Subsec. (d). Pub. L. 111–313 struck out "; except that such term shall not include such articles (other than any dog or cat fur product to which section 1308 of title 19 applies) as the Commission shall exempt by reason of the relatively small quantity or value of the fur or used fur contained therein" after "used fur".
 
 **2000**—Subsec. (d). Pub. L. 106–476 inserted "(other than any dog or cat fur product to which section 1308 of title 19 applies)" after "shall not include such articles".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 
@@ -55,6 +59,8 @@ Act Aug. 8, 1951, ch. 298, §1, 65 Stat. 175, provided: "That this Act [this sub
 #### Separability ####
 
 Act Aug. 8, 1951, ch. 298, §13, 65 Stat. 181, provided that: "If any provision of this Act [this subchapter] or the application thereof to any person or circumstance is held invalid, the remainder of the Act [this subchapter] and the application of such provision to any other person or circumstance shall not be affected thereby."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

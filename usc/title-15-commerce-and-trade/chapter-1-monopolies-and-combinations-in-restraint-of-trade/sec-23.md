@@ -4,6 +4,8 @@ In any suit, action, or proceeding brought by or on behalf of the United States 
 
 (Oct. 15, 1914, ch. 323, §13, 38 Stat. 736.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.

@@ -4,9 +4,13 @@ In preparing the maps and legal descriptions required by section 410aaa–3 of t
 
 (Pub. L. 103–433, title III, §308, Oct. 31, 1994, 108 Stat. 4487.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 602 of this Act, referred to in text, is section 602 of Pub. L. 103–433, title VI, Oct. 31, 1994, 108 Stat. 4496, which is not classified to the Code.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Death Valley National Park Boundary Revision ####
 

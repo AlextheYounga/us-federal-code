@@ -18,6 +18,8 @@ For purposes of this chapter—
 
 (Aug. 9, 1950, ch. 658, §2, 64 Stat. 431; July 2, 1956, ch. 489, §3, 70 Stat. 473; Pub. L. 86–624, §12, July 12, 1960, 74 Stat. 413; Pub. L. 105–178, title VII, §7402(a), June 9, 1998, 112 Stat. 483.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–178 inserted introductory provisions "For purposes of this chapter—", designated existing provisions as par. (1), substituted "the term" for "For the purpose of this chapter the term", redesignated subsecs. (a) to (d) as subpars. (A) to (D), respectively, of par. (1), substituted "department;" for "department." at end of subpar. (D), realigned margins, and added pars. (2) and (3).
@@ -25,6 +27,8 @@ For purposes of this chapter—
 **1960**—Subsec. (d). Pub. L. 86–624 struck out provisions which defined "State" as including the several States and the Territory of Hawaii.
 
 **1956**—Act July 2, 1956, included definition of "State".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1956 Amendment ####
 

@@ -28,6 +28,8 @@ Any information submitted to the Administrator pursuant to subsection (c) other 
 
 (June 25, 1947, ch. 125, §7, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 987; amended Pub. L. 95–396, §13, Sept. 30, 1978, 92 Stat. 829; Pub. L. 102–237, title X, §1006(b)(1), (3)(F), (G), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 7 of act June 25, 1947, was classified to section 135e of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
@@ -45,6 +47,8 @@ Subsec. (c)(2). Pub. L. 102–237, §1006(b)(3)(G), substituted "the Administrat
 Subsec. (c)(1). Pub. L. 95–396, §13(2), required information pertaining to types and amounts of active ingredients used in producing pesticides where applicable.
 
 Subsec. (d). Pub. L. 95–396, §13(3), considered names of pesticides or active ingredients used in producing pesticides produced, sold, or distributed at an establishment as not being confidential information.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

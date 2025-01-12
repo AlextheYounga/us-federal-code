@@ -104,6 +104,8 @@ Whenever pursuant to this subchapter the Commission is engaged in rulemaking and
 
 (Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) [title II, §209(a)(2), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(3)(A), (B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 109–351, title IV, §401(b)(1), Oct. 13, 2006, 120 Stat. 1973; Pub. L. 111–203, title IV, §§402(a), 409(a), title VII, §770, title IX, §986(d), July 21, 2010, 124 Stat. 1570, 1575, 1801, 1936.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Bank Holding Company Act of 1956, referred to in subsec. (a)(11)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of Title 12 and Tables.
@@ -180,6 +182,8 @@ Pub. L. 86–624 struck out reference to Hawaii.
 
 **1959**—Subsec. (a)(18). Pub. L. 86–70 struck out reference to Alaska.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by section 986(d) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -232,13 +236,15 @@ Pub. L. 111–203, title IV, §409(b), (c), July 21, 2010, 124 Stat. 1575, provi
 
 [For definitions of "Commission" and "investment adviser" as used in section 409(b), (c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking, and section 402(b) of Pub. L. 111–203, set out below, respectively.]
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Definitions ####
 
 Pub. L. 111–203, title IV, §402(b), July 21, 2010, 124 Stat. 1570, provided that: "As used in this title [enacting sections 80b–18b and 80b–18c of this title, amending this section and sections 80b–3, 80b–3a, 80b–4, 80b–5, 80b–10, and 80b–11 of this title, and enacting provisions set out as notes under this section and sections 77b and 80b–20 of this title], the terms 'investment adviser' and 'private fund' have the same meanings as in section 202 of the Investment Advisers Act of 1940 [15 U.S.C. 80b–2], as amended by this title."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> So in original.](#80b-2_1)
 

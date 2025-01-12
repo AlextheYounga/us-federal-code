@@ -30,6 +30,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 105–355, title V, §510, Nov. 6, 1998, 112 Stat. 3265; Pub. L. 111–11, title VII, §7114(b), Mar. 30, 2009, 123 Stat. 1202.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Abraham Lincoln Birthplace National Historical Park" substituted for "Abraham Lincoln Birthplace National Historic Site" in section catchline and in subsecs. (a) and (c)(3) pursuant to Pub. L. 111–11.

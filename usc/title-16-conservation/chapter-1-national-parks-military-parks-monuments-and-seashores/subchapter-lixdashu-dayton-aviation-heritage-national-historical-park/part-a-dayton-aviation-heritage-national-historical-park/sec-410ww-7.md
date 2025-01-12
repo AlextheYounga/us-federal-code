@@ -14,6 +14,8 @@ The Secretary is authorized to publish interpretative materials for historic avi
 
 (Pub. L. 102–419, title I, §108, Oct. 16, 1992, 106 Stat. 2143; Pub. L. 111–11, title VII, §7117(c), Mar. 30, 2009, 123 Stat. 1204.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Subsecs. (b), (c). Pub. L. 111–11 added subsec. (b) and redesignated former subsec. (b) as (c).

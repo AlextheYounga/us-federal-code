@@ -4,9 +4,13 @@ It is declared to be the policy of the Congress that reclamation projects hereaf
 
 (Pub. L. 89–448, §2(b), as added Pub. L. 89–561, §6(3), Sept. 7, 1966, 80 Stat. 714.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of subsec. (b) of section 2 of Pub. L. 89–448, as added by Pub. L. 89–561. Subsecs. (a) and (c) of section 2 are classified to sections 835j and 835k, and 835m of this title, respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

@@ -16,6 +16,8 @@ Rules promulgated under subsection (b) that prohibit fraud, manipulation, or ins
 
 (June 6, 1934, ch. 404, title I, §10, 48 Stat. 891; Pub. L. 106–554, §1(a)(5) [title II, §206(g), title III, §303(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–432, 2763A–454; Pub. L. 111–203, title VII, §762(d)(3), title IX, §§929L(2), 984(a), July 21, 2010, 124 Stat. 1761, 1861, 1932.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–203, §762(d)(3)(B), which directed amendment of the matter following subsection (b) "by striking '(as defined in section 206B of the Gramm-Leach-Bliley Act), in each place that such terms appear' ", was executed by striking out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreements" in two places in concluding provisions following subsec. (c) to reflect the probable intent of Congress.
@@ -32,6 +34,8 @@ Subsec. (a). Pub. L. 106–554, §1(a)(5) [title II, §206(g)], designated exist
 
 Subsec. (b). Pub. L. 106–554, §1(a)(5) [title III, §303(d)(1)], inserted "or any securities-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)," before "any manipulative or deceptive device".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 929L(2) and 984(a) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 Title 12, Banks and Banking.
@@ -44,10 +48,6 @@ Pub. L. 111–203, title IX, §984(b), July 21, 2010, 124 Stat. 1933, provided t
 
 [For definitions of terms used in section 984(b) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Prohibition of Insider Trading ####
 
 Pub. L. 112–105, §4(a), Apr. 4, 2012, 126 Stat. 292, provided that: "Members of Congress and employees of Congress are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78j(b)] and Rule 10b–5 thereunder."
@@ -55,5 +55,11 @@ Pub. L. 112–105, §4(a), Apr. 4, 2012, 126 Stat. 292, provided that: "Members 
 #### Application of Insider Trading Laws ####
 
 Pub. L. 112–105, §9(b)(1), Apr. 4, 2012, 126 Stat. 297, provided that: "Executive branch employees, judicial officers, and judicial employees are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78j(b)] and Rule 10b–5 thereunder."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#78j_1)

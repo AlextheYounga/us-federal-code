@@ -20,6 +20,8 @@
 
 (Sept. 21, 1922, ch. 369, §6d, as added Pub. L. 95–405, §15, Sept. 30, 1978, 92 Stat. 872; amended Pub. L. 97–444, title II, §221, Jan. 11, 1983, 96 Stat. 2308; Pub. L. 102–546, title II, §207(b)(1), (2), Oct. 28, 1992, 106 Stat. 3604; Pub. L. 106–554, §1(a)(5) [title I, §123(a)(16)], Dec. 21, 2000, 114 Stat. 2763, 2763A–409.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Par. (1). Pub. L. 106–554 inserted "derivatives transaction execution facility," after "contract market,".
@@ -27,6 +29,8 @@
 **1992**—Pars. (1), (8)(A). Pub. L. 102–546 inserted reference to floor trader.
 
 **1983**—Par. (8). Pub. L. 97–444 added par. (8).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

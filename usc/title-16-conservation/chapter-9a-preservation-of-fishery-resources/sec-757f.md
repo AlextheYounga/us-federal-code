@@ -4,9 +4,13 @@ The Secretary of the Interior shall, on the basis of studies carried out pursuan
 
 (Pub. L. 89–304, §6, Oct. 30, 1965, 79 Stat. 1126; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

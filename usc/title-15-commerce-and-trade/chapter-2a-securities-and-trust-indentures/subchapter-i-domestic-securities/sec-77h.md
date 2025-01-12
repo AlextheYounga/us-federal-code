@@ -26,9 +26,13 @@ Any notice required under this section shall be sent to or served on the issuer,
 
 (May 27, 1933, ch. 38, title I, §8, 48 Stat. 79; Aug. 22, 1940, ch. 686, title III, §301, 54 Stat. 857.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1940**—Subsec. (a). Act Aug. 22, 1940, amended subsec. (a) generally.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

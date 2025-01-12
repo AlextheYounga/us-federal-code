@@ -14,6 +14,8 @@ Section 776e, acts July 29, 1947, ch. 345, §7, 61 Stat. 514; July 11, 1957, Pub
 
 Section 776f, acts July 29, 1947, ch. 345, §8, 61 Stat. 514; Oct. 18, 1972, Pub. L. 92–504, 86 Stat. 907, related to authorizations. See section 3631 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15, provided that the repeal of this chapter is effective Dec. 31, 1985.

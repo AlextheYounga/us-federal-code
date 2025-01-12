@@ -4,6 +4,8 @@ All guns, traps, nets, seines, fishing tackle, teams, horses, or means of transp
 
 (Mar. 6, 1942, ch. 150, §4, 56 Stat. 134.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Mar. 6, 1942, which is classified to sections 408i to 408q of this title. For complete classification of this Act to the Code, see Tables.

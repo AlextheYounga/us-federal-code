@@ -34,10 +34,6 @@ R.S. §5154 derived from act June 3, 1864, ch. 106, §44, 13 Stat. 112, which wa
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-#### Exception as to Transfer of Functions ####
-
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
 #### Exception to Prohibition on Approval of Conversions ####
 
 Pub. L. 111–203, title VI, §612(d), July 21, 2010, 124 Stat. 1613, provided that: "The prohibition on the approval of conversions under the amendments made by subsections (a), (b), and (c) [enacting section 214d of this title and amending this section and section 1464 of this title] shall not apply, if—
@@ -69,3 +65,9 @@ Pub. L. 111–203, title VI, §612(e), July 21, 2010, 124 Stat. 1613, provided t
 "(B) provide the Federal banking agency that would be the appropriate Federal banking agency for the institution after the proposed conversion access to all investigative and supervisory information relating to the proceedings described in subparagraph (A)."
 
 [For definitions of terms used in section 612(e) of Pub. L. 111–203, set out above, see section 5301 of this title.]
+
+#### **Executive Documents** ####
+
+#### Exception as to Transfer of Functions ####
+
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

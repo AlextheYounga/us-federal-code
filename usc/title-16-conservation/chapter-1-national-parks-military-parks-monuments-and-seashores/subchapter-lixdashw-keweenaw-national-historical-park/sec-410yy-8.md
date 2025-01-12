@@ -104,9 +104,13 @@ The Commission may, for the purpose of carrying out this subchapter, hold such h
 
 (Pub. L. 102–543, §9, Oct. 27, 1992, 106 Stat. 3572; Pub. L. 106–134, §1, Dec. 7, 1999, 113 Stat. 1684.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted "after consideration of nominees" for "from nominees".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Commissions ####
 

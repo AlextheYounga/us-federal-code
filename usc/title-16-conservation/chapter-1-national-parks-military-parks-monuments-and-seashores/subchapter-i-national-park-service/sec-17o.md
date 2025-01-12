@@ -1,5 +1,7 @@
 ### §17*o*. Repealed or Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, Pub. L. 104–333, div. I, title VIII, §814(a), Nov. 12, 1996, 110 Stat. 4190; Pub. L. 106–176, title I, §120(a)(1), Mar. 10, 2000, 114 Stat. 28; Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, which related to National Park Service housing improvement, was repealed in part and omitted in part.

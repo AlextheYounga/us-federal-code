@@ -24,6 +24,8 @@ The Secretary of the Interior may enter into agreements to finance up to 75 per 
 
 (Aug. 9, 1950, ch. 658, §6, 64 Stat. 432; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1102; Pub. L. 98–369, div. A, title X, §1014(a)(5), July 18, 1984, 98 Stat. 1016; Pub. L. 114–94, div. A, title X, §10001(c), Dec. 4, 2015, 129 Stat. 1621.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsec. (d). Pub. L. 114–94 substituted "from appropriations" for "for appropriations".
@@ -34,6 +36,8 @@ The Secretary of the Interior may enter into agreements to finance up to 75 per 
 
 Subsecs. (b), (c). Pub. L. 91–503 added subsecs. (b) and (c).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2015 Amendment ####
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -41,6 +45,8 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 1984 Amendment ####
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

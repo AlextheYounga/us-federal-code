@@ -54,6 +54,8 @@ Any trade secrets or information described in section 552(b)(4) of title 5 that 
 
 (Aug. 11, 1916, ch. 313, pt. B, §17B, as added Pub. L. 94–582, §22, Oct. 21, 1976, 90 Stat. 2888; amended Pub. L. 95–113, title XVI, §§1604(m), 1606(i), (j), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 102–237, title X, §1007(3), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 116–216, §5, Dec. 11, 2020, 134 Stat. 1048.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 612c–3 of this title, referred to in subsec. (b), was repealed by Pub. L. 101–624, title XV, §1578, Nov. 28, 1990, 104 Stat. 3702.
@@ -71,6 +73,8 @@ Section 612c–3 of this title, referred to in subsec. (b), was repealed by Pub.
 Subsec. (b). Pub. L. 95–113, §§1604(m), 1606(i), substituted "Committee on Agriculture, Nutrition, and Forestry" for "Committee on Agriculture and Forestry" in provisions preceding cl. (1) and, in cl. (2) substituted "notwithstanding the provisions of section 612c–3 of this title, within thirty days after receipt by the Administrator or the Secretary of notice of the cancellation" for "within thirty days after receipt by the Administrator or the Secretary of the cancellation".
 
 Subsec. (c). Pub. L. 95–113, §1606(i), substituted "Committee on Agriculture, Nutrition, and Forestry" for "Committee on Agriculture and Forestry".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1977 Amendment ####
 

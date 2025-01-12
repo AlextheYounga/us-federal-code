@@ -52,6 +52,8 @@ any vessel documented under the laws of the United States as of November 3, 1995
 
 (Pub. L. 100–330, §9, June 7, 1988, 102 Stat. 596; Pub. L. 104–43, title VIII, §801, Nov. 3, 1995, 109 Stat. 395.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1 of the Act of August 26, 1983 (97 Stat. 587; 46 U.S.C. 12108), referred to in subsec. (h)(1), probably should be a reference to section 12108 of Title 46, Shipping, which was enacted by section 1 of act Aug. 26, 1983, Pub. L. 98–89, 97 Stat. 587. Section 12108 of Title 46 was subsequently omitted, and its provisions restated, in the general amendment of chapter 121 of Title 46 by Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1491. See sections 12102, 12113, and 12116 of Title 46 and Prior Provisions note under section 12107 of Title 46.

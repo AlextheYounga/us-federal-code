@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—GENERAL AUTHORITY AND STATE GRANTS ###
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–59, title IV, §4110(a)(1), Aug. 10, 2005, 119 Stat. 1721, substituted "GENERAL AUTHORITY AND STATE GRANTS" for "STATE GRANTS AND OTHER COMMERCIAL MOTOR VEHICLE PROGRAMS" in subchapter heading.

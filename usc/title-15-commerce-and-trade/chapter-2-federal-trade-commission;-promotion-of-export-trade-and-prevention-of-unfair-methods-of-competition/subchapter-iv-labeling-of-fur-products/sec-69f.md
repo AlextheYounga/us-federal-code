@@ -22,9 +22,13 @@ The Commission is authorized (1) to cause inspections, analyses, tests, and exam
 
 (Aug. 8, 1951, ch. 298, §8, 65 Stat. 179.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Trade Commission Act, referred to in subsec. (a), is defined in section 69 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

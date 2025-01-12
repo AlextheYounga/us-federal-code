@@ -40,6 +40,8 @@ When used in this subchapter, unless the context otherwise requires—
 
 (May 27, 1933, ch. 38, title III, §303, as added Aug. 3, 1939, ch. 411, 53 Stat. 1151; amended Aug. 10, 1954, ch. 667, title III, §301, 68 Stat. 686; Pub. L. 95–598, title III, §307, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 100–181, title V, §§501, 502, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title IV, §402, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 105–353, title III, §301(e)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §986(b)(1), July 21, 2010, 124 Stat. 1935.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in pars. (3) and (17), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -64,6 +66,8 @@ Par. (12). Pub. L. 100–181, §502, inserted "(including a guarantor)" after "p
 
 **1954**—Pars. (1) to (4). Act Aug. 10, 1954, made formal changes in order to conform to amendments made by act Aug. 10, 1954, to sections 77b, 77e, and 77j of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -75,6 +79,8 @@ Amendment effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598 set out
 #### Effective Date of 1954 Amendment ####
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

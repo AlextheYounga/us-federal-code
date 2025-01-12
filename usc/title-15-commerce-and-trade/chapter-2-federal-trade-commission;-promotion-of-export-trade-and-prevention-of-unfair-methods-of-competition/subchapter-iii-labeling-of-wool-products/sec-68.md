@@ -20,6 +20,8 @@ As used in this subchapter—
 
 (Oct. 14, 1940, ch. 871, §2, 54 Stat. 1128; Pub. L. 96–242, §1, May 5, 1980, 94 Stat. 344.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of September 26, 1914, referred to in subsec. (f), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
@@ -31,6 +33,8 @@ The Federal Trade Commission Act approved March 21, 1938, referred to in subsec.
 **1980**—Subsec. (c). Pub. L. 96–242, §1(a), substituted "recycled wool" for "reprocessed wool" as term defined, designated existing definition as cl. (1), and added cl. (2).
 
 Subsecs. (d) to (i). Pub. L. 96–242, §1(b)–(d), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and, in subsec. (d) as so redesignated, substituted "containing wool or recycled wool" for "containing wool, reprocessed wool, or reused wool". Former subsec. (d), which defined term "reused wool", was struck out.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 
@@ -51,6 +55,8 @@ Act Oct. 14, 1940, ch. 871, §1, 54 Stat. 1128, provided that: "This Act [this s
 #### Separability ####
 
 Act Oct. 14, 1940, ch. 871, §13, 54 Stat. 1133, provided that: "If any provision of this Act [this subchapter], or the application thereof to any person, partnership, corporation, or circumstance is held invalid, the remainder of the Act and the application of such provision to any other person, partnership, corporation, or circumstance shall not be affected thereby."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

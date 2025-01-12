@@ -10,6 +10,8 @@ The word "person" or "persons" wherever used in this Act shall be deemed to incl
 
 (Oct. 15, 1914, ch. 323, §1, 38 Stat. 730; Pub. L. 94–435, title III, §305(b), Sept. 30, 1976, 90 Stat. 1397; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(A), Nov. 2, 2002, 116 Stat. 1921.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Words "herein" and "this Act", referred to in the three paragraphs of subsec. (a), mean the Clayton Act. For classification of the Clayton Act to the Code, see last paragraph hereunder.
@@ -31,6 +33,8 @@ The 3d par. of subsec. (a) is also classified to section 53 of Title 29, Labor.
 **2002**—Subsec. (a). Pub. L. 107–273 substituted "seventy-three to seventy-six" for "seventy-three to seventy-seven" in first par.
 
 **1976**—Pub. L. 94–435 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 

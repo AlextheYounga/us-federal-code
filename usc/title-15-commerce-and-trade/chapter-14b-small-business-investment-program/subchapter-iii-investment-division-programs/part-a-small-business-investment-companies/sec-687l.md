@@ -36,6 +36,8 @@ The Administration shall not collect a fee for any guarantee under this section:
 
 (Pub. L. 85–699, title III, §319, formerly §321, as added Pub. L. 99–272, title XVIII, §18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, §404, Sept. 4, 1992, 106 Stat. 1013; renumbered §319 and amended Pub. L. 104–208, div. D, title II, §§205(b), 208(h)(1)(E), (F), Sept. 30, 1996, 110 Stat. 3009–738, 3009–747.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "this chapter", referred to in subsecs. (a) and (f)(2), see References in Text note set out under section 661 of this title.
@@ -73,6 +75,8 @@ Subsec. (f)(5). Pub. L. 104–208, §205(b)(2), added par. (5).
 **1992**—Pub. L. 102–366 amended section generally, in subsec. (a) authorizing issuance of trust certificates representing ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration's ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts.
 
 **1989**—Subsec. (a). Pub. L. 101–162 inserted ", including companies operating under the authority of section 681(d) of this title," after "investment companies".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

@@ -4,6 +4,8 @@ It is the object of sections 228a to 228j of this title to provide for the recog
 
 (Pub. L. 93–620, §2, Jan. 3, 1975, 88 Stat. 2089.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 For short title of sections 228a to 228j of this title as the "Grand Canyon National Park Enlargement Act", see Short Title note set out under section 221 of this title.

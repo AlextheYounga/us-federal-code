@@ -56,6 +56,8 @@ Sec.
 
 30128. Vehicle accident ejection protection. 1
 
+30129. Crash avoidance technology.
+
 #### SUBCHAPTER III—IMPORTING NONCOMPLYING MOTOR VEHICLES AND EQUIPMENT ####
 
 30141. Importing motor vehicles capable of complying with standards.
@@ -106,7 +108,11 @@ Sec.
 
 30183. Prohibition on certain disclosures.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title IV, §24208(b), Nov. 15, 2021, 135 Stat. 823, which directed amendment of the analysis for subchapter II of this chapter by adding item 30129 at the end, was executed by adding item 30129 to the analysis for this chapter to reflect the probable intent of Congress.
 
 **2015**—Pub. L. 114–94, div. B, title XXIV, §24352(c), Dec. 4, 2015, 129 Stat. 1720, which directed amendment of the analysis for subchapter IV of this chapter by adding item 30172 at the end, was executed by adding item 30172 to the analysis for this chapter to reflect the probable intent of Congress.
 

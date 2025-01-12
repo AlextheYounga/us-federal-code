@@ -156,6 +156,8 @@ A lessee or permittee that donates a grazing lease or grazing permit (or a porti
 
 (Pub. L. 113–291, div. B, title XXX, §3041, Dec. 19, 2014, 128 Stat. 3789.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Presidential Proclamation Number 876, referred to in subsecs. (a)(2) and (c)(1)(B), is listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs.

@@ -4,6 +4,8 @@ The Secretary of Agriculture shall hold annual meetings with representatives of 
 
 (Pub. L. 97–35, title I, §156(d), Aug. 13, 1981, 95 Stat. 374.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Cotton Standards Act, referred to in text, probably meaning the United States Cotton Standards Act, is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 51 of this title and Tables.
@@ -15,6 +17,8 @@ The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 
 #### Codification ####
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the United States Cotton Standards Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

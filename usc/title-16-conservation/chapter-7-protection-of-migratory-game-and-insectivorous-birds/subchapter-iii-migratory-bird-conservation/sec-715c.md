@@ -8,11 +8,15 @@ The Secretary of the Interior may not recommend any area for purchase or rental 
 
 (Feb. 18, 1929, ch. 257, §4, 45 Stat. 1223; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 89–669, §7(a), Oct. 15, 1966, 80 Stat. 929; Pub. L. 95–552, §2, Oct. 30, 1978, 92 Stat. 2071.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–552 substituted "may not recommend any area" for "shall recommend no area", incorporated existing provision in item (1) and added item (2).
 
 **1966**—Pub. L. 89–669 struck out "game" from "migratory game birds".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

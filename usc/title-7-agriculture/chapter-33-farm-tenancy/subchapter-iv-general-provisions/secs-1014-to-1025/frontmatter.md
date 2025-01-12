@@ -26,6 +26,8 @@ Section 1025, acts July 22, 1937, ch. 517, title IV, §51, 50 Stat. 531; Aug. 14
 
 For subject matter of sections 1014 to 1025 of this title, see section 1921 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective one hundred and twenty days after Aug. 8, 1961, or such earlier date as the provisions of chapter 50 of this title are made effective by regulations of Secretary of Agriculture, see section 341(a) of Pub. L. 87–128, set out as a note under section 1921 of this title.

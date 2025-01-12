@@ -68,7 +68,9 @@ Sec.
 
 15881. Hydroelectric production incentives.
 
-15882. Hydroelectric efficiency improvement.
+15882. Hydroelectric efficiency improvement incentives.
+
+15883. Maintaining and enhancing hydroelectricity incentives.
 
 #### Part D—Insular Energy ####
 
@@ -90,7 +92,7 @@ Sec.
 
 15906. North Slope Science Initiative.
 
-15907. Orphaned, abandoned, or idled wells on Federal land.
+15907. Orphaned well site plugging, remediation, and restoration.
 
 15908. Preservation of geological and geophysical data.
 
@@ -125,6 +127,8 @@ Sec.
 15941. Great Lakes oil and gas drilling ban.
 
 15942. NEPA review.
+
+15943. Certain gathering lines located on Federal land and Indian land.
 
 #### Part D—Refinery Revitalization ####
 
@@ -286,7 +290,7 @@ Sec.
 
 16153. Plan.
 
-16154. Programs.
+16154. Clean hydrogen research and development program.
 
 16155. Hydrogen and Fuel Cell Technical Task Force.
 
@@ -302,6 +306,16 @@ Sec.
 
 16161. Solar and wind technologies.
 
+16161a. Regional clean hydrogen hubs.
+
+16161b. National clean hydrogen strategy and roadmap.
+
+16161c. Clean hydrogen manufacturing and recycling.
+
+16161d. Clean hydrogen electrolysis program.
+
+16161e. Laboratory management.
+
 16162. Technology transfer.
 
 16163. Miscellaneous provisions.
@@ -309,6 +323,8 @@ Sec.
 16164. Cost sharing.
 
 16165. Savings clause.
+
+16166. Clean hydrogen production qualifications.
 
 #### SUBCHAPTER IX—RESEARCH AND DEVELOPMENT ####
 
@@ -506,9 +522,23 @@ Sec.
 
 16362. Barrow Geophysical Research Facility.
 
-#### Part J—Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Resources ####
+#### Part J—Carbon Dioxide Transportation Infrastructure Finance and Innovation ####
 
-16371 to 16378. Repealed.
+16371. Definitions.
+
+16372. Determination of eligibility and project selection.
+
+16373. Secured loans.
+
+16374. Future growth grants.
+
+16375. Program administration.
+
+16376. State and local permits.
+
+16377. Regulations.
+
+16378. Authorization of appropriations; contract authority.
 
 #### SUBCHAPTER X—DEPARTMENT OF ENERGY MANAGEMENT ####
 

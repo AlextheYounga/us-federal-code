@@ -8,6 +8,8 @@ The Secretary is authorized to acquire all lands and interest in lands within th
 
 (Pub. L. 103–433, title V, §516, Oct. 31, 1994, 108 Stat. 4494.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Boundary Adjustment, Mojave National Preserve ####
 
 Pub. L. 116–9, title I, §1432, Mar. 12, 2019, 133 Stat. 700, provided that: "The boundary of the Mojave National Preserve is adjusted to include the 25 acres of Bureau of Land Management land in Baker, California, as depicted on the map entitled 'Mojave National Preserve Proposed Boundary Addition', numbered 170/100,199A, and dated November 1, 2018."

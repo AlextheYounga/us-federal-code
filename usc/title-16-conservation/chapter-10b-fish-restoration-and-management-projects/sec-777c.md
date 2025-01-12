@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-For each fiscal year through fiscal year 2021, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for activities under section 777m(e) of this title shall be distributed as follows:
+For each fiscal year through fiscal year 2026, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for activities under section 777m(e) of this title shall be distributed as follows:
 
 #### (1) Coastal wetlands ####
 
@@ -32,23 +32,25 @@ An amount equal to 2.0 percent to the Secretary of the Interior for the National
 
 #### (A) Set-aside for administration ####
 
-From the annual appropriation made in accordance with section 777b of this title, for each fiscal year through fiscal year 2021, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
+From the annual appropriation made in accordance with section 777b of this title, for each fiscal year through fiscal year 2026, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
 
 #### (B) Available amounts ####
 
 The available amount referred to in subparagraph (A) is—
 
-(i) for each of fiscal years 2001 and 2002, $9,000,000;
+(i) for the fiscal year that includes November 15, 2021, the sum obtained by adding—
 
-(ii) for fiscal year 2003, $8,212,000; and
+(I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-(iii) for fiscal year 2004 and each fiscal year thereafter, the sum of—
+(II) $979,500; and
 
-(I) the available amount for the preceding fiscal year; and
+(ii) for each fiscal year thereafter, the sum obtained by adding—
 
-(II) the amount determined by multiplying—
+(I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-(aa) the available amount for the preceding fiscal year; and
+(II) the product obtained by multiplying—
+
+(aa) the available amount specified in this subparagraph for the preceding fiscal year; and
 
 (bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
@@ -56,21 +58,21 @@ The available amount referred to in subparagraph (A) is—
 
 #### (A) In general ####
 
-From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2016 through 2021, the Secretary of the department in which the Coast Guard is operating may use no more than the amount specified in subparagraph (B) for the fiscal year for the purposes set forth in section 13107(c) of title 46. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
+From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2022 through 2026, the Secretary of the department in which the Coast Guard is operating may use no more than the amount specified in subparagraph (B) for the fiscal year for the purposes set forth in section 13107(c) of title 46. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) for the fiscal year.
 
 #### (B) Available amounts ####
 
 The available amount referred to in subparagraph (A) is—
 
-(i) for fiscal year 2016, $7,700,000; and
+(i) for fiscal year 2022, $12,786,434; and
 
-(ii) for fiscal year 2017 and each fiscal year thereafter, the sum of—
+(ii) for fiscal year 2023 and each fiscal year thereafter, the sum obtained by adding—
 
-(I) the available amount for the preceding fiscal year; and
+(I) the available amount specified in this subparagraph for the preceding fiscal year; and
 
-(II) the amount determined by multiplying—
+(II) the product obtained by multiplying—
 
-(aa) the available amount for the preceding fiscal year; and
+(aa) the available amount specified in this subparagraph for the preceding fiscal year; and
 
 (bb) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
@@ -102,13 +104,15 @@ For each fiscal year, of the amounts appropriated under section 777b of this tit
 
 #### (2) Maximum amount ####
 
-For each fiscal year, the Secretary of the Interior may use not more than $900,000 in accordance with paragraph (1).
+For each fiscal year, the Secretary of the Interior may use not more than $1,300,000 in accordance with paragraph (1).
 
 #### (f) Transfer of certain funds ####
 
 Amounts available under paragraphs (3) and (4) of subsection (a) that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under section 13107(a) of title 46.
 
-(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, §1(a)(2) [title VI, §605], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, §9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, §9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, §114(b), Dec. 8, 2004, 118 Stat. 2944; Pub. L. 109–14, §8(a), (b), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §8(a), (b), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §8(a), (b), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §8(a), (b), July 22, 2005, 119 Stat. 404, 405; Pub. L. 109–40, §8(a), (b), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, §10113, Aug. 10, 2005, 119 Stat. 1927; Pub. L. 109–74, title II, §§201, 202, Sept. 29, 2005, 119 Stat. 2031; Pub. L. 109–241, title IX, §901(r)(1), July 11, 2006, 120 Stat. 566; Pub. L. 109–304, §16(c)(1), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 111–68, div. B, §160, Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–147, title IV, §423(b), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2203(b), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title II, §203(b), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §123(b), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §203(b), Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title II, §203(b), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title IV, §34002, July 6, 2012, 126 Stat. 842; Pub. L. 113–159, title I, §1103, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1103, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1103, July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1103, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1103, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title X, §10001(b), Dec. 4, 2015, 129 Stat. 1619.)
+(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, §1(a)(2) [title VI, §605], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, §9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, §9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, §114(b), Dec. 8, 2004, 118 Stat. 2944; Pub. L. 109–14, §8(a), (b), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §8(a), (b), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §8(a), (b), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §8(a), (b), July 22, 2005, 119 Stat. 404, 405; Pub. L. 109–40, §8(a), (b), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, §10113, Aug. 10, 2005, 119 Stat. 1927; Pub. L. 109–74, title II, §§201, 202, Sept. 29, 2005, 119 Stat. 2031; Pub. L. 109–241, title IX, §901(r)(1), July 11, 2006, 120 Stat. 566; Pub. L. 109–304, §16(c)(1), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 111–68, div. B, §160, Oct. 1, 2009, 123 Stat. 2052; Pub. L. 111–147, title IV, §423(b), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2203(b), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title II, §203(b), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §123(b), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §203(b), Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title II, §203(b), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title IV, §34002, July 6, 2012, 126 Stat. 842; Pub. L. 113–159, title I, §1103, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1103, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1103, July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1103, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1103, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title X, §10001(b), Dec. 4, 2015, 129 Stat. 1619; Pub. L. 117–58, div. B, title VIII, §28001(a)(1), Nov. 15, 2021, 135 Stat. 886.)
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
@@ -117,6 +121,18 @@ The Coastal Wetlands Planning, Protection and Restoration Act, referred to in su
 Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A), is section 5604(c) of Pub. L. 102–587, which is set out as a note under section 1322 of Title 33, Navigation and Navigable Waters.
 
 #### Amendments ####
+
+**2021**—Subsec. (a). Pub. L. 117–58, §28001(a)(1)(A), substituted "fiscal year 2026" for "fiscal year 2021" in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 117–58, §28001(a)(1)(B)(i)(I), substituted "fiscal year 2026" for "fiscal year 2021".
+
+Subsec. (b)(1)(B). Pub. L. 117–58, §28001(a)(1)(B)(i)(II), added subpar. (B) and struck out former subpar. (B), which related to available amounts for fiscal years 2001 to 2004 and thereafter.
+
+Subsec. (b)(2)(A). Pub. L. 117–58, §28001(a)(1)(B)(ii)(I), substituted "2022 through 2026" for "2016 through 2021".
+
+Subsec. (b)(2)(B). Pub. L. 117–58, §28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B), which related to available amounts for fiscal years 2016, 2017, and thereafter.
+
+Subsec. (e)(2). Pub. L. 117–58, §28001(a)(1)(C), substituted '$1,300,000" for "$900,000".
 
 **2015**—Subsec. (a). Pub. L. 114–94, §10001(b)(1)(A), substituted "For each fiscal year through fiscal year 2021, the balance" for "For each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015, the balance" and "activities under section 777m(e) of this title" for "multistate conservation grants under section 777m of this title" in introductory provisions.
 
@@ -308,6 +324,8 @@ Subsec. (f). Pub. L. 105–178, §7402(b)(1), redesignated subsec. (e) as (f).
 
 **1970**—Pub. L. 91–503 changed method of apportionment of funds by striking out reference to "to all the States" and inserted definition of "fiscal year".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2015 Amendment ####
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -329,6 +347,8 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 #### Effective Date of 1984 Amendment ####
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

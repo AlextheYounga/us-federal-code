@@ -66,6 +66,8 @@ shall be exempt from sections 80a–1 through 80a–52 of this title, except to 
 
 (Aug. 22, 1940, ch. 686, title I, §6, 54 Stat. 800; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 86–70, §12(e), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 95–598, title III, §310(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §103, Oct. 21, 1980, 94 Stat. 2277; Pub. L. 100–181, title VI, §608, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 104–290, title V, §§501, 502, Oct. 11, 1996, 110 Stat. 3444, 3445; Pub. L. 111–203, title IX, §939(c), July 21, 2010, 124 Stat. 1886; Pub. L. 115–174, title V, §506(a), May 24, 2018, 132 Stat. 1363.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For the effective date of this subchapter, referred to in subsec. (a)(1), see section 80a–52 of this title.
@@ -94,6 +96,8 @@ Subsec. (a)(2) to (5). Pub. L. 100–181, §608(2), redesignated pars. (3) to (5
 
 **1959**—Subsec. (a)(1). Pub. L. 86–70 struck out reference to Alaska.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2018 Amendment; Safe Harbor ####
 
 Pub. L. 115–174, title V, §506(b), May 24, 2018, 132 Stat. 1363, provided that:
@@ -118,10 +122,14 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Investment Company Provisions Inapplicable to Certain Life Insurance Benefits Issued Prior to March 23, 1959 ####
 
 Subchapter inapplicable to certain life insurance benefits issued prior to Mar. 23, 1959, under certain conditions, see section 29 of Pub. L. 91–547, Dec. 14, 1970, 84 Stat. 1436, set out as a note under section 77c of this title.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 [<sup>1</sup> See References in Text note below.](#80a-6_1)

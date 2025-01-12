@@ -50,6 +50,8 @@ The Commission may from time to time by its rules and regulations, and subject t
 
 (May 27, 1933, ch. 38, title III, §304, as added Aug. 3, 1939, ch. 411, 53 Stat. 1153; amended Aug. 10, 1954, ch. 667, title III, §302, 68 Stat. 687; Pub. L. 85–699, title III, §307(b), Aug. 21, 1958, 72 Stat. 694; Pub. L. 86–760, Sept. 13, 1960, 74 Stat. 902; Pub. L. 89–754, title V, §504(b), Nov. 3, 1966, 80 Stat. 1278; Pub. L. 91–567, §6(c), Dec. 22, 1970, 84 Stat. 1499; Pub. L. 96–477, title III, §302, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 101–550, title IV, §403, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 104–290, title V, §508(e), Oct. 11, 1996, 110 Stat. 3448; Pub. L. 105–353, title III, §301(e)(2), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §985(c)(1), July 21, 2010, 124 Stat. 1934.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -86,6 +88,8 @@ Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted "$10,000,000, or such le
 
 **1954**—Subsec. (b). Act Aug. 10, 1954, struck out "as heretofore amended,".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -97,6 +101,8 @@ Amendment by Pub. L. 91–567 applicable with respect to securities sold after J
 #### Effective Date of 1954 Amendment ####
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

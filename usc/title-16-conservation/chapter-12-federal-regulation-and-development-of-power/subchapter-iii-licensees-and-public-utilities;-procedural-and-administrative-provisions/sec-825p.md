@@ -4,6 +4,8 @@ The District Courts of the United States, and the United States courts of any Te
 
 (June 10, 1920, ch. 285, pt. III, §317, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 862; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 As originally enacted, this section contained reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted "the district court of the United States for the District of Columbia" for "the Supreme Court of the District of Columbia", and act June 25, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia". However, the words "United States District Court for the District of Columbia" have been deleted entirely as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of Title 28 which states that "the District of Columbia constitutes one judicial district".

@@ -130,6 +130,8 @@ The Director shall annually provide, in writing, a fiscal year budget submission
 
 (Pub. L. 85–536, §2[47], as added and amended Pub. L. 115–189, §3(a)(2), (b), June 21, 2018, 132 Stat. 1492, 1495.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 2[47] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
@@ -141,6 +143,8 @@ A prior section 2[47] of Pub. L. 85–536 was renumbered section 2[49] and is se
 "(1) be present for and supervise any such review that is conducted by a contractor of the Office on the premise of the 7(a) lender; and
 
 "(2) supervise any such review that is not conducted on the premise of the 7(a) lender."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

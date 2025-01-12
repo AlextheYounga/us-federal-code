@@ -4,6 +4,8 @@ Each department, agency, and instrumentality of the Federal Government is author
 
 (Pub. L. 94–305, title II, §205, June 4, 1976, 90 Stat. 670.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.

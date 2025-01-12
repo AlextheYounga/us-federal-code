@@ -4,6 +4,8 @@ Effective October 1, 1978, there are authorized to be appropriated such sums as 
 
 (Pub. L. 87–750, §4, Oct. 5, 1962, 76 Stat. 748; Pub. L. 93–477, title I, §101(10), Oct. 26, 1974, 88 Stat. 1445; Pub. L. 95–348, §7(b)(5), Aug. 18, 1978, 92 Stat. 495.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Paragraph (2) of the Act of June 10, 1977 (Public Law 95–42; 91 Stat. 210), referred to in text, amended former section 460l–7 of this title.

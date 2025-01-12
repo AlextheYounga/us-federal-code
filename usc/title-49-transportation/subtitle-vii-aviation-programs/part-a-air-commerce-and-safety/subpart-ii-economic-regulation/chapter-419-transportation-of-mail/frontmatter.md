@@ -26,6 +26,8 @@ Sec.
 
 41908. Effect on foreign postal arrangements.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–405, §2(b)(8), Oct. 13, 2008, 122 Stat. 4289, redesignated items 41906, 41909, and 41910 as 41905 "Emergency mail transportation", 41906, and 41907 "Weighing mail", respectively.

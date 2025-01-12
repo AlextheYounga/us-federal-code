@@ -94,6 +94,8 @@ For purposes of this subchapter, any wool product shall be misbranded if a stamp
 
 (Oct. 14, 1940, ch. 871, §4, 54 Stat. 1129; Pub. L. 96–242, §2, May 5, 1980, 94 Stat. 344; Pub. L. 98–417, title III, §§304, 305, Sept. 24, 1984, 98 Stat. 1604; Pub. L. 109–428, §2(a), Dec. 20, 2006, 120 Stat. 2913.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Subsec. (a)(5), (6). Pub. L. 109–428 added pars. (5) and (6).
@@ -103,6 +105,8 @@ For purposes of this subchapter, any wool product shall be misbranded if a stamp
 Subsecs. (e), (f). Pub. L. 98–417, §305, added subsecs. (e) and (f).
 
 **1980**—Subsec. (a)(2)(A). Pub. L. 96–242 substituted "recycled wool" for "reprocessed wool" as cl. (2), struck out cl. (3) "reused wool", and redesignated existing cls. (4) and (5) as (3) and (4), respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2006 Amendment ####
 
@@ -115,6 +119,8 @@ Pub. L. 98–417, title III, §307, Sept. 24, 1984, 98 Stat. 1605, provided that
 #### Effective Date of 1980 Amendment ####
 
 Amendment by Pub. L. 96–242 effective with respect to wool products manufactured on or after the date sixty days after May 5, 1980, see section 3 of Pub. L. 96–242, set out as a note under section 68 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

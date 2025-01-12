@@ -18,6 +18,8 @@ Every State, political subdivision thereof, or person who is the owner or operat
 
 (Aug. 11, 1916, ch. 313, pt. B, §12, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, §14, Oct. 21, 1976, 90 Stat. 2882; Pub. L. 95–113, title XVI, §§1601, 1604(i), Sept. 29, 1977, 91 Stat. 1024, 1029; Pub. L. 103–156, §12(k), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, §293(a)(5)–(7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 12 of act Aug. 11, 1916, ch. 313, pt. B, 39 Stat. 485, which appropriated a sum of $250,000 for expenses of carrying into effect this chapter, was not classified to the Code.
@@ -45,6 +47,8 @@ Subsec. (b). Pub. L. 94–582 substituted "Every official agency and every perso
 Subsec. (c). Pub. L. 94–582 substituted "Every official agency and every person licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter" for "Every official inspection agency", provided for access to and the copying of records by any authorized representative of the Administrator or the Comptroller General, and required Administrator audits of official agencies and State agencies delegate authority.
 
 Subsec. (d). Pub. L. 94–582 added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1977 Amendment ####
 

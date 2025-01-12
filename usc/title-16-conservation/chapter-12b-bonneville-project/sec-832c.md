@@ -18,9 +18,13 @@ It is declared to be the policy of the Congress, as expressed in this chapter, t
 
 (Aug. 20, 1937, ch. 720, §4, 50 Stat. 733; Mar. 6, 1940, ch. 47, §3, 54 Stat. 47.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1940**—Subsec. (b). Act Mar. 6, 1940, substituted "January 1, 1942" for "January 1, 1941" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

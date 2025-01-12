@@ -28,6 +28,8 @@ In this chapter—
 
 (Pub. L. 101–537, title I, §1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, §2004, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 5, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, §3, Oct. 11, 2006, 120 Stat. 1761.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, §3(b).

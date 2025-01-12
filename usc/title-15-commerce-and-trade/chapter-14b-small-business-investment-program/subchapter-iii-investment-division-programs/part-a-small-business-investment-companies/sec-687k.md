@@ -10,6 +10,8 @@ Nothing in any provision of law shall be construed to authorize the Federal Fina
 
 (Pub. L. 85–699, title III, §318, formerly §320, as added Pub. L. 99–272, title XVIII, §18004(a), Apr. 7, 1986, 100 Stat. 364; renumbered §318, Pub. L. 104–208, div. D, title II, §208(h)(1)(E), Sept. 30, 1996, 110 Stat. 3009–747.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 318 of Pub. L. 85–699 was classified to section 687j of this title, prior to repeal by Pub. L. 104–208.

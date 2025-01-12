@@ -10,7 +10,7 @@ The Secretary of the Army, the Secretary of the Air Force and the Secretary of t
 
 The Secretary of the Air Force was inserted in text under the authority of section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 501, and Secretary of Defense Transfer Order No. 40 [App. A(73)], July 22, 1949. The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of act July 26, 1947. Sections 205(a) and 207 (a), (f) of act July 26, 1947, were repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces", which in sections 3010 to 3013 and 8010 to 8013 continued the Departments of the Army and Air Force under the administrative supervision of a Secretary of the Army and a Secretary of the Air Force, respectively.
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

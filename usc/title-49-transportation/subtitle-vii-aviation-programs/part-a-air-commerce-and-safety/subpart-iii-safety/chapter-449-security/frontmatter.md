@@ -100,6 +100,8 @@ Sec.
 
 44948. National Deployment Office.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–254, div. K, title I, §§1937(b)(2), 1943(b), 1955(a)(2), 1988(b), 1991(j)(2), 1992, Oct. 5, 2018, 132 Stat. 3579, 3584, 3596, 3623, 3646, added items 44929, 44931, 44932, 44942, 44943, 44947, and 44948 and substituted "PreCheck Program" for "Security screening pilot program" in item 44919 and "Deputization" for "Deputation" in item 44922.

@@ -164,6 +164,8 @@ Land and water now in Federal ownership within said boundary shall continue to b
 
 (Pub. L. 85–482, §1, July 2, 1958, 72 Stat. 280.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Everglades Ecosystem Restoration ####
 
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 295, provided in part: "That in addition, the National Park Service may accept and use other Federal or non-Federal funds to implement the Tamiami Trail project, and may enter into a cooperative agreement or other agreements with the State of Florida to transfer funds to the State to plan and construct the Tamiami Trail project: *Provided further*, That a contract for the Tamiami Trail project may not be awarded until sufficient Federal funds and written commitments from non-Federal entities are available to cover the total estimated cost of the contract: *Provided further*, That because the Tamiami Trail project provides significant environmental benefits for Everglades National Park, the requirements of 49 U.S.C. 303 are deemed satisfied with respect to such project and no additional documentation shall be required under such section."

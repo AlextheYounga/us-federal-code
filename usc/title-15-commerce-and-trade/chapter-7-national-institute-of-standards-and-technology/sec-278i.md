@@ -10,11 +10,15 @@ The Director shall justify in writing all changes in policies regarding fees for
 
 (Mar. 3, 1901, ch. 872, §23, as added Pub. L. 100–418, title V, §5114(2), Aug. 23, 1988, 102 Stat. 1432; amended Pub. L. 110–69, title III, §3004, Aug. 9, 2007, 121 Stat. 590; Pub. L. 114–329, title II, §204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsecs. (c), (d). Pub. L. 114–329 struck out subsecs. (c) and (d) which required the Director to submit to Congress a 3-year programmatic planning document for the Institute and annual updates.
 
 **2007**—Subsecs. (c), (d). Pub. L. 110–69 added subsecs. (c) and (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

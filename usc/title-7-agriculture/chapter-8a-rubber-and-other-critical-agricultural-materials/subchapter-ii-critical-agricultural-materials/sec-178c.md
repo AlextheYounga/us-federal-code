@@ -42,6 +42,8 @@ Notwithstanding any other provision of law, in carrying out a demonstration proj
 
 (Pub. L. 95–592, §5, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, §5, May 16, 1984, 98 Stat. 182; Pub. L. 99–198, title XIV, §1439, Dec. 23, 1985, 99 Stat. 1559; Pub. L. 102–237, title X, §1005(1), Dec. 13, 1991, 105 Stat. 1894; Pub. L. 115–334, title VII, §7501(a), Dec. 20, 2018, 132 Stat. 4819.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (b)(9). Pub. L. 115–334 inserted ", and including hemp (as defined in section 1639o of this title)" after "hydrocarbon-containing plants".

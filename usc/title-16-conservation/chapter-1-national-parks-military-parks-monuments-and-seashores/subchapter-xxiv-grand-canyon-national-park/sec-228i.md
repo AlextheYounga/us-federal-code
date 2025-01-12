@@ -40,6 +40,8 @@ By the enactment of sections 228a to 228j of this title, the Congress recognizes
 
 (Pub. L. 93–620, §10, Jan. 3, 1975, 88 Stat. 2091; Pub. L. 103–437, §6(a)(2), Nov. 2, 1994, 108 Stat. 4583.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provision of subsec. (f) of this section, which repealed section 3 of act of Feb. 26, 1919 (40 Stat. 1177), set out as section 223 of this title, has been omitted from this section as executed. See note set out under section 223 of this title.

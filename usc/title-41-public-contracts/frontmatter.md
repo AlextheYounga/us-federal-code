@@ -13,8 +13,6 @@ III. CONTRACT DISPUTES 7101
 
 IV. MISCELLANEOUS 8101
 
-#### **Editorial Notes** ####
-
 |                              *Title 41<br/><br/>Former Sections*                               |                  *Title 41<br/><br/>New Sections*                   |
 |------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 |                                            1 to 4a                                             |                        (Previously repealed)                        |

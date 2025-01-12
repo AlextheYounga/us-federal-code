@@ -10,6 +10,8 @@ The Administrator shall cooperate with Department of Agriculture, any other Fede
 
 (June 25, 1947, ch. 125, §22, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 996.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 For effective date of section, see section 4 of Pub. L. 92–516, set out as a note under section 136 of this title.

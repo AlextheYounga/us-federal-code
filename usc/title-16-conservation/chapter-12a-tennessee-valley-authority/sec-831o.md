@@ -4,9 +4,13 @@ The Board, whenever the President deems it advisable, is empowered and directed 
 
 (May 18, 1933, ch. 32, §16, 48 Stat. 67; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–447 substituted "Board" for "board".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

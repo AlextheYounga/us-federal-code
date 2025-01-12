@@ -6,7 +6,7 @@ Sec.
 
 5501. National Intermodal Transportation System policy.
 
-5502. Intermodal Transportation Advisory Board.
+[5502. Repealed.]
 
 [5503. Repealed.]
 
@@ -14,7 +14,9 @@ Sec.
 
 5505. University transportation centers program.
 
-[5506. Repealed.]
+5506. Advanced transportation research initiative.
+
+5507. Transportation workforce outreach program.
 
 #### SUBCHAPTER II—TERMINALS ####
 
@@ -34,7 +36,11 @@ Sec.
 
 5568. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title V, §§25013(b), 25020(c)(2), 25021(b), Nov. 15, 2021, 135 Stat. 869, 878, which directed amendment of analysis for subchapter I of this chapter by striking out item 5502 "Intermodal Transportation Advisory Board" and adding items 5506 and 5507 at the end, was executed to analysis for this chapter to reflect the probable intent of Congress.
 
 **2015**—Pub. L. 114–94, div. A, title VI, §6015(b), Dec. 4, 2015, 129 Stat. 1571, struck out item 5503 "Office of Intermodalism".
 

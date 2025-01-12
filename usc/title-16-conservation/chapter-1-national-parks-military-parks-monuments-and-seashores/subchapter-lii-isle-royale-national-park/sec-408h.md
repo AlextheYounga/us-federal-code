@@ -4,6 +4,8 @@ All federally owned lands within the boundaries of the Isle Royale National Park
 
 (Mar. 6, 1942, ch. 152, §4, 56 Stat. 138; July 27, 1942, ch. 526, 56 Stat. 722.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1942**—Act July 27, 1942, substituted "Secretary of the Navy" for "Secretary of the Treasury".

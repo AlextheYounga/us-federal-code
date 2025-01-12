@@ -10,9 +10,13 @@ Upon the basis of facts disclosed by the record and report of the Securities and
 
 (Aug. 22, 1940, ch. 686, title II, §201, 54 Stat. 847.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 79z–4 of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

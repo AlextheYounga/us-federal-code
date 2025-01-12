@@ -30,6 +30,8 @@ The Administrator shall include a report on the plan whenever the Administration
 
 (Pub. L. 85–536, §2[40], as added Pub. L. 110–234, title XII, §12075, May 22, 2008, 122 Stat. 1414, and Pub. L. 110–246, §4(a), title XII, §12075, June 18, 2008, 122 Stat. 1664, 2176.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -37,6 +39,8 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

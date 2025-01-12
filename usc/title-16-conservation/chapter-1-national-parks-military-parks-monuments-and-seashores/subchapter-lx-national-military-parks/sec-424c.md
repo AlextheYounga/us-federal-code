@@ -64,6 +64,8 @@ Not later than 3 years after funds are made available under this section, the Se
 
 (Pub. L. 108–7, div. F, title I, §160, Feb. 20, 2003, 117 Stat. 247.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 160 of div. F of Pub. L. 108–7. Subsec. (e) of section 160 of div. F of Pub. L. 108–7 repealed section 424a–4 of this title.

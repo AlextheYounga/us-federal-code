@@ -124,6 +124,8 @@ The Commission shall have no authority under this section or section 57a of this
 
 For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Packers and Stockyards Act, 1921, as amended, referred to in subsec. (a)(2), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
@@ -194,6 +196,8 @@ Subsec. (d). Pub. L. 85–791, §3(c), substituted "Upon the filing of the recor
 
 Act Mar. 21, 1938, amended section generally.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".
@@ -240,10 +244,6 @@ Amendment by Pub. L. 85–726 effective on 60th day following the date on which 
 
 Amendment by act Mar. 16, 1950, effective July 1, 1950, see note set out under section 347 of Title 21, Food and Drugs.
 
-#### Transfer of Functions ####
-
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
-
 #### Prohibiting Deceptive Acts or Practices in Connection With the Novel Coronavirus ####
 
 Pub. L. 116–260, div. FF, title XIV, §1401, Dec. 27, 2020, 134 Stat. 3275, provided that:
@@ -283,5 +283,11 @@ Pub. L. 93–153, §408(a), (b), Nov. 16, 1973, 87 Stat. 591, provided that:
 #### Purpose of Act July 14, 1952 ####
 
 Act July 14, 1952, ch. 745, §1, 66 Stat. 631, provided: "That it is the purpose of this Act [amending this section] to protect the rights of States under the United States Constitution to regulate their internal affairs and more particularly to enact statutes and laws, and to adopt policies, which authorize contracts and agreements prescribing minimum or stipulated prices for the resale of commodities and to extend the minimum or stipulated prices prescribed by such contracts and agreements to persons who are not parties thereto. It is the further purpose of this Act to permit such statutes, laws, and public policies to apply to commodities, contracts, agreements, and activities in or affecting interstate or foreign commerce."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
 [<sup>1</sup> So in original. Probably should be "clause".](#45_1)

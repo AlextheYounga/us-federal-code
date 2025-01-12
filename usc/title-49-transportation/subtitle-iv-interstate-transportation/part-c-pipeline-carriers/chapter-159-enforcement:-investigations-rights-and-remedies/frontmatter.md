@@ -14,6 +14,8 @@ Sec.
 
 15906. Liability of pipeline carriers under receipts and bills of lading.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–225, §7(d), Aug. 12, 1998, 112 Stat. 1512, made technical amendment to directory language of Pub. L. 104–287, §5(45)(A), effective Oct. 11, 1996. See 1996 Amendment note below.

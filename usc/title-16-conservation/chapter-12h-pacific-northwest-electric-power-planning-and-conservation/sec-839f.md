@@ -116,6 +116,8 @@ There is hereby established within the administration an executive position for 
 
 (Pub. L. 96–501, §9, Dec. 5, 1980, 94 Stat. 2729; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.

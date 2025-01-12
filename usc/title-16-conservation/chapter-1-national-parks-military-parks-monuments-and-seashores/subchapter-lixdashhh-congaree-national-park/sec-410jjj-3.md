@@ -4,9 +4,13 @@ Within three years from the effective date of this subchapter, the Secretary sha
 
 (Pub. L. 94–545, §4, Oct. 18, 1976, 90 Stat. 2518; Pub. L. 108–108, title I, §135, Nov. 10, 2003, 117 Stat. 1270.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this subchapter, referred to in text, probably means the date of enactment of Pub. L. 94–545, which was approved on Oct. 18, 1976.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

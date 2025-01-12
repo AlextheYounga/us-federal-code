@@ -1,5 +1,7 @@
 ### §§641 to 659. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 641, act June 22, 1936, ch. 690, §601, 49 Stat. 1739, related to refunds in cases where exports, deliveries for charitable distribution or use, manufacture of large cotton bags, or the decrease in rate of processing tax took place prior to January 6, 1936, specified persons entitled to refunds, and filing and determination of claims.

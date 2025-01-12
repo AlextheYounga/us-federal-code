@@ -146,7 +146,7 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1),
 
 **2020**—Subsec. (a)(2)(B)(i)(I). Pub. L. 116–260, §120(1)(A)(i), inserted ", or provide contributions equal to," after "pay".
 
-Subsec. (a)(2)(B)(ii). Pub. L. 116–260, §120(1)(A)(ii), in heading, inserted "and contributions" after "of payments" and, in text, inserted "or contributions" after "Non-Federal payments"and after "non-Federal payments".
+Subsec. (a)(2)(B)(ii). Pub. L. 116–260, §120(1)(A)(ii), in heading, inserted "and contributions" after "of payments" and, in text, inserted "or contributions" after "Non-Federal payments" and after "non-Federal payments".
 
 Subsec. (a)(5). Pub. L. 116–260, §120(1)(B), added par. (5).
 
@@ -206,17 +206,13 @@ Subsec. (c). Pub. L. 104–303, §202(f), added subsec. (c).
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Termination of Trust Territory of the Pacific Islands ####
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Continued Eligibility ####
 
 Pub. L. 115–270, title I, §1161(b), Oct. 23, 2018, 132 Stat. 3796, as amended by Pub. L. 116–260, div. AA, title I, §121, Dec. 27, 2020, 134 Stat. 2634, provided that: "Notwithstanding a non-Federal flood control work's status in the Rehabilitation and Inspection Program carried out pursuant to section 5 of the Act of August 18, 1941 (33 U.S.C. 701n), any unconstructed emergency project for the non-Federal flood control work that was formulated during the five fiscal years preceding the fiscal year in which this Act was enacted [Oct. 23, 2018] but that was determined to not produce benefits greater than costs shall remain eligible for assistance under such section 5 until the last day of the fifth fiscal year following the fiscal year in which this Act was enacted if—
 
 "(1) the non-Federal sponsor agrees, in accordance with such section 5, as amended by this Act, to pay, or provide contributions equal to, an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and
 
-"(2) the Secretary determines that the damage to the structure was not as a result of negligent operation or maintenance."
+"(2) the Secretary [of the Army] determines that the damage to the structure was not as a result of negligent operation or maintenance."
 
 #### Systemwide Improvement Framework ####
 
@@ -359,3 +355,9 @@ Pub. L. 104–303, title II, §202(g), Oct. 12, 1996, 110 Stat. 3676, provided t
 "(2) Cooperation and consultation.—The review under this section [subsection] shall be undertaken in cooperation with interested Federal agencies and in consultation with interested representatives of State and local governments and the public.
 
 "(3) Revision of guidelines.—Based upon the results of the review, the Secretary shall revise, not later than 270 days after the date of the enactment of this Act [Oct. 12, 1996], the policy guidelines so as to provide a coherent and coordinated policy for vegetation management for levees. Such revised guidelines shall address regional variations in levee management and resource needs and shall be incorporated in the manual proposed under section 5(c) of such Act of August 18, 1941 (33 U.S.C. 701n[(c)])."
+
+#### **Executive Documents** ####
+
+#### Termination of Trust Territory of the Pacific Islands ####
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

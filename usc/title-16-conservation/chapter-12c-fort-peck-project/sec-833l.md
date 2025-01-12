@@ -4,9 +4,13 @@ In aid of the construction of the Fort Peck project, there is granted to the Uni
 
 (Apr. 23, 1946, ch. 199, §1, 60 Stat. 118.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act May 18, 1938, which comprises this chapter.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

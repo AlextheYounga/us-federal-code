@@ -100,9 +100,13 @@ In case of certificates of deposit, voting trust certificates, collateral trust 
 
 (May 27, 1933, ch. 38, title I, schedules A, B, 48 Stat. 88, 91; Pub. L. 105–353, title III, §301(a)(6), Nov. 3, 1998, 112 Stat. 3235.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Schedule A, par. (28). Pub. L. 105–353 substituted "identical" for "identic".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

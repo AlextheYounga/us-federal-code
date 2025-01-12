@@ -8,9 +8,13 @@ This section is intended merely to provide for the furnishing of services upon r
 
 (Aug. 23, 1935, ch. 623, §6, 49 Stat. 732; Pub. L. 97–35, title I, §157(a)(2), Aug. 13, 1981, 95 Stat. 375.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1981**—Pub. L. 97–35 substituted provisions requiring the Secretary to fix and collect fees and charges to cover cost of services, for provisions authorizing the Secretary to fix and collect fees and charges as he deems reasonable and provisions respecting fees or charges collected under an agreement with a State, etc.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

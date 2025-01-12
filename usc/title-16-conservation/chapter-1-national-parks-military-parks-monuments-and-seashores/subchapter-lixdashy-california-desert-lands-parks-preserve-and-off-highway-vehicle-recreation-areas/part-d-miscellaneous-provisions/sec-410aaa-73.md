@@ -4,6 +4,8 @@ Except as provided in section 410aaa–26 of this title, none of the lands withi
 
 (Pub. L. 103–433, title VII, §703, Oct. 31, 1994, 108 Stat. 4497.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.

@@ -6,7 +6,7 @@ Sec.
 
 1902. Ships subject to preventive measures.
 
-1902a. Discharge of agricultural cargo residue.
+1902a. Repealed.
 
 1903. Administration and enforcement.
 

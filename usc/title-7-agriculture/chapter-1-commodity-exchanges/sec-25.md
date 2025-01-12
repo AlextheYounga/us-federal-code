@@ -72,6 +72,8 @@ The provisions of this section shall become effective with respect to causes of 
 
 (Sept. 21, 1922, ch. 369, §22, as added Pub. L. 97–444, title II, §235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§211, 222(d), title IV, §402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625; Pub. L. 106–554, §1(a)(5) [title I, §§120, 123(a)(25)], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, 2763A–410; Pub. L. 110–234, title XIII, §§13105(i), 13203(n), May 22, 2008, 122 Stat. 1435, 1441; Pub. L. 110–246, §4(a), title XIII, §§13105(i), 13203(n), June 18, 2008, 122 Stat. 1664, 2197, 2203; Pub. L. 111–203, title VII, §§738(c), 739, 749(h), 753(c), July 21, 2010, 124 Stat. 1728, 1729, 1748, 1754.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a)(5), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 15 and Tables.
@@ -127,6 +129,8 @@ Subsec. (a)(2). Pub. L. 102–546, §402(14)(B), made technical amendment to ref
 Subsec. (a)(3). Pub. L. 102–546, §222(d), added par. (3).
 
 Subsec. (c). Pub. L. 102–546, §211, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action must be brought within two years after the date the cause of action accrued."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

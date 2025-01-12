@@ -90,6 +90,8 @@ Nothing in this section affects any authority of the Commission to license a clo
 
 (June 10, 1920, ch. 285, pt. I, §35, as added Pub. L. 115–270, title III, §3004, Oct. 23, 2018, 132 Stat. 3865.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (c)(2), (3)(A), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.

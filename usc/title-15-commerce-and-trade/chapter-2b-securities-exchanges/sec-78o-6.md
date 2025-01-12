@@ -50,9 +50,13 @@ In this section—
 
 (June 6, 1934, ch. 404, title I, §15D, as added Pub. L. 107–204, title V, §501(a), July 30, 2002, 116 Stat. 791; amended Pub. L. 112–106, title I, §105(b), Apr. 5, 2012, 126 Stat. 311.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Subsecs. (c), (d). Pub. L. 112–106 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Post Offering Communications ####
 

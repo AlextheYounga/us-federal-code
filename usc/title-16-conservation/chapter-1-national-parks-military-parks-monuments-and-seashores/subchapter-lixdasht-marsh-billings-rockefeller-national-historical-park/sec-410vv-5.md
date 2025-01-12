@@ -12,6 +12,8 @@ In accordance with the provisions of subsection (b), the Secretary is authorized
 
 (Pub. L. 102–350, §7, Aug. 26, 1992, 106 Stat. 936; Pub. L. 105–277, div. A, §101(e) [title I, §143], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Subsec. (b)(1). Pub. L. 105–277 substituted "Marsh-Billings-Rockefeller" for "Marsh-Billings".

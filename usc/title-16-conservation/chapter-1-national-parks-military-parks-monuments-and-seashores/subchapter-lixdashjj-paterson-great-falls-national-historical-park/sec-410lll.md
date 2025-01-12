@@ -322,6 +322,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 111–11, title VII, §7001, Mar. 30, 2009, 123 Stat. 1183; Pub. L. 113–291, div. B, title XXX, §3037(a), Dec. 19, 2014, 128 Stat. 3782; Pub. L. 114–289, title VI, §601(i), Dec. 16, 2016, 130 Stat. 1491.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 No act with the title "Hinchliffe Stadium Heritage Act", referred to in subsec. (b)(3)(B), has been enacted. However, a bill, H.R. 2430, entitled the "Hinchliffe Stadium Heritage Act", was passed by the House of Representatives on July 22, 2014, during the 113th Congress. Section 3 of that bill contained provisions similar to section 3037(b) of Pub. L. 113–291, set out as a note below.
@@ -347,6 +349,8 @@ Subsec. (b)(4). Pub. L. 113–291, §3037(a)(2), substituted "The Map and the ma
 Subsec. (c)(4)(A). Pub. L. 113–291, §3037(a)(3)(A), substituted "Except as provided in subparagraphs (B) and (C), the Secretary" for "The Secretary".
 
 Subsec. (c)(4)(C). Pub. L. 113–291, §3037(a)(3)(B), added subpar. (C).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Additional Considerations for Hinchliffe Stadium ####
 

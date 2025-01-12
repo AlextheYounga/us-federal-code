@@ -4,6 +4,8 @@ No power revenues on any project shall be distributed as profits, before or afte
 
 (July 1, 1946, ch. 529, §1, 60 Stat. 366.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.

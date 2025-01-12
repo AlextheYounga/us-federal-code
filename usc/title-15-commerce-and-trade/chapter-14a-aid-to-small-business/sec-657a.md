@@ -406,6 +406,8 @@ There is authorized to be appropriated to carry out the program established by t
 
 (Pub. L. 85–536, §2[31], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) [title V, §503(b), title VI, §612(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932; Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), Dec. 12, 2017, 131 Stat. 1795–1798, 1800; Pub. L. 116–283, div. A, title VIII, §864(2), Jan. 1, 2021, 134 Stat. 3784.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 636(m)(11) of this title, referred to in subsec. (a), no longer defines the term "economically distressed areas". See 1994 Amendment note for subsec. (m)(11)(D) under section 636 of this title.
@@ -507,6 +509,8 @@ Subsec. (d). Pub. L. 108–447, §154, substituted "2004 through 2006" for "2001
 **2000**—Subsec. (b)(3). Pub. L. 106–554, §1(a)(9) [title VI, §612(a)], designated existing provisions as subpar. (A), inserted heading, substituted "Subject to subparagraph (B), in any" for "In any", and added subpars. (B) and (C).
 
 Subsec. (d). Pub. L. 106–554, §1(a)(9) [title V, §503(b)], added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

@@ -122,6 +122,8 @@ Nothing in this subsection shall be construed to impair or limit the authority o
 
 (May 27, 1933, ch. 38, title I, §19, 48 Stat. 85; June 6, 1934, ch. 404, title II, §209, 48 Stat. 908; Pub. L. 94–210, title III, §308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, §505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, §207, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 107–204, title I, §108(a), July 30, 2002, 116 Stat. 768; Pub. L. 111–203, title IX, §§912, 978(a), 985(a)(3), July 21, 2010, 124 Stat. 1824, 1924, 1933.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Paperwork Reduction Act, referred to in subsec. (f), probably means chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents. See Short Title note set out under section 3501 of Title 44.
@@ -146,6 +148,8 @@ Subsec. (g). Pub. L. 111–203, §978(a), added subsec. (g).
 
 **1934**—Subsec. (a). Act June 6, 1934, inserted "technical" in first sentence and inserted last sentence.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -157,10 +161,6 @@ Amendment by Pub. L. 96–477 effective Jan. 1, 1981, see section 507 of Pub. L.
 #### Effective Date of 1976 Amendment ####
 
 Amendment by Pub. L. 94–210 effective on 60th day after Feb. 5, 1976, but not applicable to any bona fide offering of a security made by the issuer, or by or through an underwriter, before such 60th day, see section 308(d)(1) of Pub. L. 94–210, set out as a note under section 77c of this title.
-
-#### Transfer of Functions ####
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Study on Modernization and Simplification of Regulation S–K ####
 
@@ -187,3 +187,9 @@ Pub. L. 114–94, div. G, title LXXII, §72003, Dec. 4, 2015, 129 Stat. 1785, pr
 "(d) Rulemaking.—Not later than the end of the 360-day period beginning on the date that the report is issued to the Congress under subsection (c), the Commission shall issue a proposed rule to implement the recommendations of the report issued under subsection (c).
 
 "(e) Rule of Construction.—Revisions made to regulation S–K by the Commission under section 202 [probably means section 72002 of Pub. L. 114–94, set out as a note under section 77g of this title] shall not be construed as satisfying the rulemaking requirements under this section."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.

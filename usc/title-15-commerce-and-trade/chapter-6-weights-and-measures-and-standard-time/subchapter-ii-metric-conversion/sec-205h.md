@@ -4,6 +4,8 @@ Members of the Board who are not in the regular full-time employ of the United S
 
 (Pub. L. 94–168, §9, Dec. 23, 1975, 89 Stat. 1011.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.

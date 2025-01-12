@@ -4,9 +4,13 @@ For the purpose of securing any rights of flowage, or obtaining title to or poss
 
 (May 18, 1933, ch. 32, §24, 48 Stat. 69; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–447 substituted "Board" for "board" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

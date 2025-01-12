@@ -4,9 +4,13 @@ The Secretary of the Interior (hereinafter referred to as the "Secretary") shall
 
 (Pub. L. 94–578, title III, §320(b), Oct. 21, 1976, 90 Stat. 2739.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 251e to 251m of this title, referred to in text, was in the original "this Act", meaning Pub. L. 94–578.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

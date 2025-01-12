@@ -34,6 +34,8 @@ Nothing in this section shall be construed to modify, impair, or supersede the p
 
 (Pub. L. 108–237, title II, §213, June 22, 2004, 118 Stat. 666; Pub. L. 111–190, §3, June 9, 2010, 124 Stat. 1275.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly set out in a note under section 1 of this title, prior to transfer to this section upon repeal of sunset provision.

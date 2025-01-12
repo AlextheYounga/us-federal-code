@@ -114,6 +114,8 @@ There are authorized to be appropriated $30,000,000 to carry out the provisions 
 
 (Pub. L. 85–699, title V, §509, as added Pub. L. 103–403, title V, §503, Oct. 22, 1994, 108 Stat. 4199; amended Pub. L. 104–208, div. D, title II, §208(h)(1)(H), Sept. 30, 1996, 110 Stat. 3009–747.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of "this chapter", referred to in subsec. (a)(1), see References in Text note set out under section 661 of this title.
@@ -127,6 +129,8 @@ The Small Business Prepayment Penalty Relief Act of 1994, referred to in subsec.
 **1996**—Subsec. (a)(1). Pub. L. 104–208, §208(h)(1)(H)(i), struck out at end "A small business investment company operating under the authority of section 681(d) of this title that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration."
 
 Subsec. (e)(1)(B). Pub. L. 104–208, §208(h)(1)(H)(ii), substituted "section 681 of this title" for "subsection (c) or (d) of section 681 of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Intention of Congress ####
 

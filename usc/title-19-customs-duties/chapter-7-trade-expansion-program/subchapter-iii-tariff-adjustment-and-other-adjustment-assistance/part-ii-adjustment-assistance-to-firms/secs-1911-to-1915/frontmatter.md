@@ -10,6 +10,8 @@ Section 1914, Pub. L. 87–794, title III, §314, Oct. 11, 1962, 76 Stat. 887, p
 
 Section 1915, Pub. L. 87–794, title III, §315, Oct. 11, 1962, 76 Stat. 887, set out conditions for giving of financial assistance.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on 90th day following Jan. 3, 1975, see note set out under section 1901 of this title.

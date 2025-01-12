@@ -26,6 +26,8 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 (Pub. L. 101–536, §3, Nov. 8, 1990, 104 Stat. 2368.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This section, referred to in subsecs. (a), (b), (d), and (f), was in the original "this Act", meaning Pub. L. 101–536, Nov. 8, 1990, 104 Stat. 2368, known as the Pecos National Historical Park Expansion Act of 1990, which enacted this section and provisions set out as notes under this section and section 410rr of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 410rr of this title and Tables.
@@ -39,6 +41,8 @@ The Act of August 21, 1935 (49 U.S.C. 666; 16 U.S.C. 461–7), referred to in su
 #### Codification ####
 
 Section was enacted as part of the Pecos National Historical Park Expansion Act of 1990, and not as part of title II of Pub. L. 101–313 which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Findings and Purpose ####
 

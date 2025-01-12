@@ -36,6 +36,8 @@ The trustee shall—
 
 (Pub. L. 91–598, §7, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; amended Pub. L. 95–598, title III, §308(i)–(k), Nov. 6, 1978, 92 Stat. 2675.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 7 of Pub. L. 91–598 was renumbered section 11 and is classified to section 78ggg of this title.
@@ -47,6 +49,8 @@ A prior section 7 of Pub. L. 91–598 was renumbered section 11 and is classifie
 Subsec. (b). Pub. L. 95–598, §308(j), substituted "trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7," for "trustee in bankruptcy".
 
 Subsec. (c). Pub. L. 95–598, §308(k), substituted "required of a trustee in a case under chapter 7 of title 11" for "required by the Bankruptcy Act".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1978 Amendment ####
 

@@ -12,17 +12,7 @@ Sec.
 
 #### SUBCHAPTER II—RAILROAD REHABILITATION AND IMPROVEMENT FINANCING ####
 
-821. Definitions.
-
-822. Direct loans and loan guarantees.
-
-823. Administration of direct loans and loan guarantees.
-
-824 to 835. Repealed or Transferred.
-
-836. Employee protection.
-
-837, 838. Repealed.
+821 to 838. Repealed or Transferred.
 
 #### SUBCHAPTER III—NORTHEAST CORRIDOR PROJECT IMPLEMENTATION ####
 

@@ -78,6 +78,8 @@ The penalties provided for a violation of paragraph (1) of subsection (a) shall 
 
 (June 25, 1947, ch. 125, §12, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 989; amended Pub. L. 95–396, §16, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, §§601(b)(2), 603, title VIII, §801(g), (q)(2)(B), Oct. 25, 1988, 102 Stat. 2677, 2678, 2682, 2683; Pub. L. 102–237, title X, §1006(a)(7), (b)(3)(L)–(O), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 12 of act June 25, 1947, was classified to section 135j of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
@@ -117,6 +119,8 @@ Subsec. (a)(2)(M). Pub. L. 100–532, §603(2)(C), substituted "this subchapter"
 Subsec. (a)(2)(Q), (R), (S). Pub. L. 100–532, §603(2)(D), added subpars. (Q), (R), and (S).
 
 **1978**—Subsec. (a)(2)(F). Pub. L. 95–396 inserted proviso exempting from prohibition the sale, under regulations issued by the Administrator, of a restricted use pesticide to a person who is not a certified applicator for application by a certified applicator.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

@@ -888,6 +888,8 @@ A person or group of persons that would not otherwise constitute a trading facil
 
 (Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) [title I, §§101, 123(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Employee Retirement Income Security Act of 1974, referred to in pars. (12)(B)(v) and (18)(A)(vi), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
@@ -1043,6 +1045,8 @@ Pars. (25) to (27). Pub. L. 106–554, §1(a)(5) [title I, §101(6)], added pars
 Par. (28). Pub. L. 106–554, §1(a)(5) [title I, §101(1)], redesignated par. (16) as (28).
 
 Pars. (29) to (33). Pub. L. 106–554, §1(a)(5) [title I, §101(7)], added pars. (29) to (33).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

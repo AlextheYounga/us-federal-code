@@ -14,6 +14,8 @@
 
 (Pub. L. 95–625, title IX, §908, Nov. 10, 1978, 92 Stat. 3537.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

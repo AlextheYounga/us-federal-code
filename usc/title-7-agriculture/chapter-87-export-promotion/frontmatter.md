@@ -106,6 +106,8 @@ Sec.
 
 5721 to 5723. Repealed.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The Agricultural Trade Act of 1978, comprising this chapter, was originally enacted as Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, which enacted sections 1707b to 1707d, 1765a to 1765h, 1769, and 2211a of this title, amended sections 1707a, 1761, 1762, 1764, 1765, and 1766b of this title and section 5314 of Title 5, Government Organization and Employees, redesignated sections 1762(d), (f), and 1763 as sections 1766a to 1766c of this title, and enacted provisions set out as notes under sections 612c–3, 1761, and 2211a of this title and section 2431 of Title 19, Customs Duties. The Act is shown herein, however, as having been added by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3668, because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic Act's provisions by Pub. L. 101–624.

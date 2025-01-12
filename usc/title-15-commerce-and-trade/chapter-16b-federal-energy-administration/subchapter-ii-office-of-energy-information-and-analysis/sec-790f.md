@@ -20,6 +20,8 @@ Prior to publication, the Director may not be required to obtain the approval of
 
 (Pub. L. 93–275, §57, as added Pub. L. 94–385, title I, §142, Aug. 14, 1976, 90 Stat. 1139.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective 150 days after Aug. 14, 1976, see section 143 of Pub. L. 94–385, set out as a note under section 790 of this title.

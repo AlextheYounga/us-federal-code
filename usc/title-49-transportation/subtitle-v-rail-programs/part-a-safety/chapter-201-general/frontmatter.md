@@ -120,11 +120,21 @@ Sec.
 
 20166. Emergency escape breathing apparatus.
 
-[20167. Repealed.]
+20167. Reports on highway-rail grade crossing safety.
 
 20168. Installation of audio and image recording devices.
 
+20169. Speed limit action plans.
+
+20170. Pre-revenue service safety validation plan.
+
+20171. Requirements for railroad freight cars placed into service in the United States.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–58, div. B, title II, §§22403(b)(2), 22415(b), 22416(b), 22425(b), Nov. 15, 2021, 135 Stat. 736, 747, 748, 756, added items 20167 and 20169 to 20171.
 
 2015–Pub. L. 114–94, div. A, title XI, §§11301(c)(1), 11411(b), 11413(b), Dec. 4, 2015, 129 Stat. 1648, 1687, 1689, added items 20121 and 20168 and struck out items 20154 "Capital grants for rail line relocation projects" and 20167 "Railroad safety infrastructure improvement grants". Items 20121 and 20168 were added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding those items to the analyses for subchapters I and II of this chapter, respectively.
 
