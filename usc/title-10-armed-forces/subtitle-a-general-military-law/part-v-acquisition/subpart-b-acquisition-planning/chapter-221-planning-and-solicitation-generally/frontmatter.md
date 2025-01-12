@@ -192,6 +192,16 @@ Pub. L. 113–291, div. A, title VIII, §851, Dec. 19, 2014, 128 Stat. 3457, pro
 
 "(2) Notification after use of procedures.—The Secretary of Defense shall notify the congressional defense committees not later than 48 hours after each use of the procedures prescribed pursuant to this section."
 
+#### Review and Justification of Pass-Through Contracts ####
+
+Pub. L. 112–239, div. A, title VIII, §802, Jan. 2, 2013, 126 Stat. 1824, provided that: "Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development shall issue such guidance and regulations as may be necessary to ensure that in any case in which an offeror for a contract or a task or delivery order informs the agency pursuant to section 52.215-22 of the Federal Acquisition Regulation that the offeror intends to award subcontracts for more than 70 percent of the total cost of work to be performed under the contract, task order, or delivery order, the contracting officer for the contract is required to—
+
+"(1) consider the availability of alternative contract vehicles and the feasibility of contracting directly with a subcontractor or subcontractors that will perform the bulk of the work;
+
+"(2) make a written determination that the contracting approach selected is in the best interest of the Government; and
+
+"(3) document the basis for such determination."
+
 #### Review of Acquisition Process for Rapid Fielding of Capabilities in Response to Urgent Operational Needs ####
 
 Pub. L. 111–383, div. A, title VIII, §804, Jan. 7, 2011, 124 Stat. 4256, provided that:
@@ -275,6 +285,300 @@ Pub. L. 111–383, div. A, title VIII, §804, Jan. 7, 2011, 124 Stat. 4256, prov
 "(D) can appropriately be acquired under fixed price contracts.
 
 "(4) Inclusion in report.—The Secretary shall include a description of the expedited review process implemented pursuant to paragraph (1) in the report required by subsection (a)."
+
+#### Internal Controls for Procurements on Behalf of the Department of Defense ####
+
+Pub. L. 110–417, [div. A], title VIII, §804(a)–(c), Oct. 14, 2008, 122 Stat. 4519, provided that:
+
+"(a) Inclusion of Additional Non-Defense Agencies in Review.—The covered non-defense agencies specified in subsection (c) of this section shall be considered covered non-defense agencies as defined in subsection (i) of section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2326) [set out below] for purposes of such section.
+
+"(b) Deadlines and Applicability for Additional Non-Defense Agencies.—For each covered non-defense agency specified in subsection (c) of this section, section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2326) shall apply to such agency as follows:
+
+"(1) The review and determination required by subsection (a)(1) of such section shall be completed by not later than March 15, 2009.
+
+"(2) The review and determination required by subsection (a)(2) of such section, if necessary, shall be completed by not later than June 15, 2010, and such review and determination shall be a review and determination of such agency's procurement of property and services on behalf of the Department of Defense in fiscal year 2009.
+
+"(3) The memorandum of understanding required by subsection (c)(1) of such section shall be entered into by not later than 60 days after the date of the enactment of this Act [Oct. 14, 2008].
+
+"(4) The limitation specified in subsection (d)(1) of such section shall apply after March 15, 2009, and before June 16, 2010.
+
+"(5) The limitation specified in subsection (d)(2) of such section shall apply after June 15, 2010.
+
+"(6) The limitation required by subsection (d)(3) of such section shall commence, if necessary, on the date that is 60 days after the date of the enactment of this Act.
+
+"(c) Definition of Covered Non-Defense Agency.—In this section, the term 'covered non-defense agency' means each of the following:
+
+"(1) The Department of Commerce.
+
+"(2) The Department of Energy."
+
+Pub. L. 110–181, div. A, title VIII, §801, Jan. 28, 2008, 122 Stat. 202, as amended by Pub. L. 110–417, [div. A], title VIII, §804(d), Oct. 14, 2008, 122 Stat. 4519; Pub. L. 111–84, div. A, title VIII, §806, Oct. 28, 2009, 123 Stat. 2404; Pub. L. 112–81, div. A, title VIII, §817, Dec. 31, 2011, 125 Stat. 1493; Pub. L. 112–239, div. A, title VIII, §§801, 805, Jan. 2, 2013, 126 Stat. 1824, 1826; Pub. L. 113–291, div. A, title X, §1071(d)(1)(B), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, §902(42), Dec. 20, 2019, 133 Stat. 1547; Pub. L. 116–283, div. A, title XVIII, §1806(e)(5), Jan. 1, 2021, 134 Stat. 4156, provided that:
+
+"(a) Inspectors General Reviews and Determinations.—
+
+"(1) In general.—For each covered non-defense agency, the Inspector General of the Department of Defense and the Inspector General of such covered non-defense agency may jointly—
+
+"(A) review—
+
+"(i) the procurement policies, procedures, and internal controls of such covered non-defense agency that are applicable to the procurement of property and services on behalf of the Department by such covered non-defense agency; and
+
+"(ii) the administration of such policies, procedures, and internal controls; and
+
+"(B) determine in writing whether such covered non-defense agency is or is not compliant with applicable procurement requirements.
+
+"(2) Separate reviews and determinations.—The Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency may by joint agreement conduct separate reviews of the procurement of property and services on behalf of the Department of Defense that are conducted by separate business units, or under separate government-wide acquisition contracts, of the covered non-defense agency. If such separate reviews are conducted, the Inspectors General shall make a separate determination under paragraph (1)(B) with respect to each such separate review.
+
+"(3) Memoranda of understanding for reviews and determinations.—Not later than one year before a review and determination is to be performed under this subsection with respect to a covered non-defense agency, the Inspector General of the Department of Defense and the Inspector General of the covered non-defense agency may enter into a memorandum of understanding with each other to carry out such review and determination.
+
+"(4) Termination of non-compliance determination.—If the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency determine, pursuant to paragraph (1)(B), that a covered non-defense agency is not compliant with applicable procurement requirements, the Inspectors General may terminate such a determination effective on the date on which the Inspectors General jointly—
+
+"(A) determine that the non-defense agency is compliant with applicable procurement requirements; and
+
+"(B) notify the Secretary of Defense of that determination.
+
+"(5) Resolution of disagreements.—If the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency are unable to agree on a joint determination under this subsection, a determination by the Inspector General of the Department of Defense under this subsection shall be conclusive for the purposes of this section.
+
+"(b) Limitation on Procurements on Behalf of Department of Defense.—
+
+"(1) Except as provided in paragraph (2), an acquisition official of the Department of Defense may place an order, make a purchase, or otherwise procure property or services for the Department of Defense in excess of the simplified acquisition threshold through a non-defense agency only if—
+
+"(A) in the case of a procurement by any non-defense agency in any fiscal year, the head of the non-defense agency has certified that the non-defense agency will comply with applicable procurement requirements for the fiscal year;
+
+"(B) in the case of—
+
+"(i) a procurement by a covered non-defense agency in a fiscal year for which a memorandum of understanding is to be entered into under subsection (a)(3), the Inspector General of the Department of Defense and the Inspector General of the covered non-defense agency have entered into such a memorandum of understanding; or
+
+"(ii) a procurement by a covered non-defense agency in a fiscal year following the Inspectors General review and determination provided for under subsection (a), the Inspectors General have determined that a covered non-defense agency is compliant with applicable procurement requirements or have terminated a prior determination of non-compliance in accordance with subsection (a)(4); and
+
+"(C) the procurement is not otherwise prohibited by section 817 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364) or section 811 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) [see notes below].
+
+"(2) Exception for procurements of necessary property and services.—
+
+"(A) In general.—The limitation in paragraph (1) shall not apply to the procurement of property and services on behalf of the Department of Defense by a non-defense agency during any fiscal year for which there is in effect a written determination of the Under Secretary of Defense for Acquisition and Sustainment that it is necessary in the interest of the Department of Defense to procure property and services through the non-defense agency during such fiscal year.
+
+"(B) Scope of particular exception.—A written determination with respect to a non-defense agency under subparagraph (A) shall apply to any category of procurements through the non-defense agency that is specified in the determination.
+
+"(3) Treatment of procurements under joint programs with intelligence community.—For purposes of this subsection, a contract entered into by a non-defense agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) for the performance of a joint program conducted to meet the needs of the Department of Defense and the non-defense agency shall not be considered a procurement of property or services for the Department of Defense through a non-defense agency.
+
+"(c) Guidance on Interagency Contracting.—
+
+"(1) Requirement.—Not later than 180 days after the date of enactment of this Act [Jan. 28, 2008], the Secretary of Defense shall issue guidance on the use of interagency contracting by the Department of Defense.
+
+"(2) Matters covered.—The guidance required by paragraph (1) shall address the circumstances in which it is appropriate for Department of Defense acquisition officials to procure goods or services through a contract entered into by an agency outside the Department of Defense. At a minimum, the guidance shall address—
+
+"(A) the circumstances in which it is appropriate for such acquisition officials to use direct acquisitions;
+
+"(B) the circumstances in which it is appropriate for such acquisition officials to use assisted acquisitions;
+
+"(C) the circumstances in which it is appropriate for such acquisition officials to use interagency contracting to acquire items unique to the Department of Defense and the procedures for approving such interagency contracting;
+
+"(D) the circumstances in which it is appropriate for such acquisition officials to use interagency contracting to acquire items that are already being provided under a contract awarded by the Department of Defense;
+
+"(E) tools that should be used by such acquisition officials to determine whether items are already being provided under a contract awarded by the Department of Defense; and
+
+"(F) procedures for ensuring that applicable procurement requirements are identified and communicated to outside agencies involved in interagency contracting.
+
+"(d) Compliance With Applicable Procurement Requirements.—
+
+"(1) Except as provided in paragraph (2), for the purposes of this section, a non-defense agency is compliant with applicable procurement requirements if the procurement policies, procedures, and internal controls of the non-defense agency applicable to the procurement of products and services on behalf of the Department of Defense, and the manner in which they are administered, are adequate to ensure the compliance of the non-defense agency with the following:
+
+"(A) The Federal Acquisition Regulation and other laws and regulations that apply to procurements of property and services by Federal agencies.
+
+"(B) Laws and regulations (including applicable Department of Defense financial management regulations) that apply to procurements of property and services made by the Department of Defense through other Federal agencies.
+
+"(2) In the case of the procurement of property or services on behalf of the Department of Defense through the Work for Others program of the Department of Energy, the laws and regulations applicable under paragraph (1)(B) are the Department of Energy Acquisition Regulations, pertinent interagency agreements, and Department of Defense and Department of Energy policies related to the Work for Others program.
+
+"(e) Treatment of Procurements for Fiscal Year Purposes.—For the purposes of this section, a procurement shall be treated as being made during a particular fiscal year to the extent that funds are obligated by the Department of Defense for the procurement in that fiscal year.
+
+"(f) Definitions.—In this section:
+
+"(1) Non-defense agency.—The term 'non-defense agency' means any department or agency of the Federal Government other than the Department of Defense. Such term includes a covered non-defense agency.
+
+"(2) Covered non-defense agency.—The term 'covered non-defense agency' means each of the following:
+
+"(A) The General Services Administration.
+
+"(B) The Department of the Interior.
+
+"(C) The Department of Veterans Affairs.
+
+"(D) The National Institutes of Health.
+
+"(E) The Department of Commerce.
+
+"(F) The Department of Energy.
+
+"(3) Government-wide acquisition contract.—The term 'government-wide acquisition contract' means a task or delivery order contract that—
+
+"(A) is entered into by a non-defense agency; and
+
+"(B) may be used as the contract under which property or services are procured for one or more other departments or agencies of the Federal Government.
+
+"(4) Simplified acquisition threshold.—The term 'simplified acquisition threshold' has the meaning provided by section 2302(7)section 3015(a) of title 10, United States Code.
+
+"(5) Interagency contracting.—The term 'interagency contracting' means the exercise of the authority under section 1535 of title 31, United States Code, or other statutory authority, for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies.
+
+"(6) Acquisition official.—The term 'acquisition official', with respect to the Department of Defense, means—
+
+"(A) a contracting officer of the Department of Defense; or
+
+"(B) any other Department of Defense official authorized to approve a direct acquisition or an assisted acquisition on behalf of the Department of Defense.
+
+"(7) Direct acquisition.—The term 'direct acquisition', with respect to the Department of Defense, means the type of interagency contracting through which the Department of Defense orders an item or service from a government-wide acquisition contract maintained by a non-defense agency.
+
+"(8) Assisted acquisition.—The term 'assisted acquisition', with respect to the Department of Defense, means the type of interagency contracting through which acquisition officials of a non-defense agency award a contract or task or delivery order for the procurement of goods or services on behalf of the Department of Defense."
+
+*[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(5), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 801(f)(4) of Pub. L. 110–181, set out above, is amended by substituting "section 3015(a)" for "section 2302(7)".]*
+
+Pub. L. 109–364, div. A, title VIII, §817, Oct. 17, 2006, 120 Stat. 2326, as amended by Pub. L. 116–92, div. A, title IX, §902(43), Dec. 20, 2019, 133 Stat. 1547, provided that:
+
+"(a) Inspector General Reviews and Determinations.—
+
+"(1) In general.—For each covered non-defense agency, the Inspector General of the Department of Defense and the Inspector General of such non-defense agency shall, not later than March 15, 2007, jointly—
+
+"(A) review—
+
+"(i) the procurement policies, procedures, and internal controls of such non-defense agency that are applicable to the procurement of property and services on behalf of the Department by such non-defense agency; and
+
+"(ii) the administration of those policies, procedures, and internal controls; and
+
+"(B) determine in writing whether—
+
+"(i) such non-defense agency is compliant with defense procurement requirements;
+
+"(ii) such non-defense agency is not compliant with defense procurement requirements, but has a program or initiative to significantly improve compliance with defense procurement requirements;
+
+"(iii) neither of the conclusions stated in clauses (i) and (ii) is correct in the case of such non-defense agency; or
+
+"(iv) such non-defense agency is not compliant with defense procurement requirements to such an extent that the interests of the Department of Defense are at risk in procurements conducted by such non-defense agency.
+
+"(2) Actions following certain determinations.—If the Inspectors General determine under paragraph (1) that a conclusion stated in clause (ii), (iii), or (iv) of subparagraph (B) of that paragraph is correct in the case of a covered non-defense agency, such Inspectors General shall, not later than June 15, 2008, jointly—
+
+"(A) conduct a second review, as described in subparagraph (A) of that paragraph, regarding such non-defense agency's procurement of property or services on behalf of the Department of Defense in fiscal year 2007; and
+
+"(B) determine in writing whether such non-defense agency is or is not compliant with defense procurement requirements.
+
+"(b) Compliance With Defense Procurement Requirements.—For the purposes of this section, a covered non-defense agency is compliant with defense procurement requirements if such non-defense agency's procurement policies, procedures, and internal controls applicable to the procurement of products and services on behalf of the Department of Defense, and the manner in which they are administered, are adequate to ensure such non-defense agency's compliance with the requirements of laws and regulations that apply to procurements of property and services made directly by the Department of Defense.
+
+"(c) Memoranda of Understanding Between Inspectors General.—
+
+"(1) In general.—Not later than 60 days after the date of the enactment of this Act [Oct. 17, 2006], the Inspector General of the Department of Defense and the Inspector General of each covered non-defense agency shall enter into a memorandum of understanding with each other to carry out the reviews and make the determinations required by this section.
+
+"(2) Scope of memoranda.—The Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency may by mutual agreement conduct separate reviews of the procurement of property and services on behalf of the Department of Defense that are conducted by separate business units, or under separate governmentwide acquisition contracts, of such non-defense agency. In any case where such separate reviews are conducted, the Inspectors General shall make separate determinations under paragraph (1) or (2) of subsection (a), as applicable, with respect to each such separate review.
+
+"(d) Limitations on Procurements on Behalf of Department of Defense.—
+
+"(1) Limitation during review period.—After March 15, 2007, and before June 16, 2008, no official of the Department of Defense may, except as provided in subsection (e) or (f), order, purchase, or otherwise procure property or services in an amount in excess of $100,000 through a covered non-defense agency for which a determination described in clause (iii) or (iv) of paragraph (1)(B) of subsection (a) has been made under subsection (a).
+
+"(2) Limitation after review period.—After June 15, 2008, no official of the Department of Defense may, except as provided in subsection (e) or (f), order, purchase, or otherwise procure property or services in an amount in excess of $100,000 through a covered non-defense agency that, having been subject to review under this section, has not been determined under this section as being compliant with defense procurement requirements.
+
+"(3) Limitation following failure to reach mou.—Commencing on the date that is 60 days after the date of the enactment of this Act [Oct. 17, 2006], if a memorandum of understanding between the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency cannot be attained causing the review required by this section to not be performed, no official of the Department of Defense, except as provided in subsection (e) or (f), may order, purchase or otherwise procure property or services in an amount in excess of $100,000 through such non-defense agency.
+
+"(e) Exception From Applicability of Limitations.—
+
+"(1) Exception.—No limitation applies under subsection (d) with respect to the procurement of property and services on behalf of the Department of Defense by a covered non-defense agency during any period that there is in effect a determination of the Under Secretary of Defense for Acquisition and Sustainment, made in writing, that it is necessary in the interest of the Department of Defense to continue to procure property and services through such non-defense agency.
+
+"(2) Applicability of determination.—A written determination with respect to a covered non-defense agency under paragraph (1) is in effect for the period, not in excess of one year, that the Under Secretary shall specify in the written determination. The Under Secretary may extend from time to time, for up to one year at a time, the period for which the written determination remains in effect.
+
+"(f) Termination of Applicability of Limitations.—Subsection (d) shall cease to apply to a covered non-defense agency on the date on which the Inspector General of the Department of Defense and the Inspector General of such non-defense agency jointly—
+
+"(1) determine that such non-defense agency is compliant with defense procurement requirements; and
+
+"(2) notify the Secretary of Defense of that determination.
+
+"(g) Identification of Procurements Made During a Particular Fiscal Year.—For the purposes of subsection (a), a procurement shall be treated as being made during a particular fiscal year to the extent that funds are obligated by the Department of Defense for that procurement in that fiscal year.
+
+"(h) Resolution of Disagreements.—If the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency are unable to agree on a joint determination under subsection (a) or (f), a determination by the Inspector General of the Department of Defense under such subsection shall be conclusive for the purposes of this section.
+
+"(i) Definitions.—In this section:
+
+"(1) The term 'covered non-defense agency' means each of the following:
+
+"(A) The Department of Veterans Affairs.
+
+"(B) The National Institutes of Health.
+
+"(2) The term 'governmentwide acquisition contract', with respect to a covered non-defense agency, means a task or delivery order contract that—
+
+"(A) is entered into by the non-defense agency; and
+
+"(B) may be used as the contract under which property or services are procured for one or more other departments or agencies of the Federal Government."
+
+Pub. L. 109–163, div. A, title VIII, §811, Jan. 6, 2006, 119 Stat. 3374, as amended by Pub. L. 116–92, div. A, title IX, §902(44), Dec. 20, 2019, 133 Stat. 1547, provided that:
+
+"(a) Inspector General Reviews and Determinations.—
+
+"(1) In general.—For each covered non-defense agency, the Inspector General of the Department of Defense and the Inspector General of such non-defense agency shall, not later than March 15, 2006, jointly—
+
+"(A) review—
+
+"(i) the procurement policies, procedures, and internal controls of such non-defense agency that are applicable to the procurement of property and services on behalf of the Department by such non-defense agency; and
+
+"(ii) the administration of those policies, procedures, and internal controls; and
+
+"(B) determine in writing whether—
+
+"(i) such non-defense agency is compliant with defense procurement requirements;
+
+"(ii) such non-defense agency is not compliant with defense procurement requirements, but has a program or initiative to significantly improve compliance with defense procurement requirements; or
+
+"(iii) neither of the conclusions stated in clauses (i) and (ii) is correct in the case of such non-defense agency.
+
+"(2) Actions following certain determinations.—If the Inspectors General determine under paragraph (1) that the conclusion stated in clause (ii) or (iii) of subparagraph (B) of that paragraph is correct in the case of a covered non-defense agency, such Inspectors General shall, not later than June 15, 2007, jointly—
+
+"(A) conduct a second review, as described in subparagraph (A) of that paragraph, regarding such non-defense agency's procurement of property or services on behalf of the Department of Defense in fiscal year 2006; and
+
+"(B) determine in writing whether such non-defense agency is or is not compliant with defense procurement requirements.
+
+"(b) Compliance With Defense Procurement Requirements.—For the purposes of this section, a covered non-defense agency is compliant with defense procurement requirements if such non-defense agency's procurement policies, procedures, and internal controls applicable to the procurement of products and services on behalf of the Department of Defense, and the manner in which they are administered, are adequate to ensure such non-defense agency's compliance with the requirements of laws and regulations that apply to procurements of property and services made directly by the Department of Defense.
+
+"(c) Memoranda of Understanding Between Inspectors General.—
+
+"(1) In general.—Not later than 60 days after the date of the enactment of this Act [Jan. 6, 2006], the Inspector General of the Department of Defense and the Inspector General of each covered non-defense agency shall enter into a memorandum of understanding with each other to carry out the reviews and make the determinations required by this section.
+
+"(2) Scope of memoranda.—The Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency may by mutual agreement conduct separate reviews of the procurement of property and services on behalf of the Department of Defense that are conducted by separate business units, or under separate governmentwide acquisition contracts, of such non-defense agency. In any case where such separate reviews are conducted, the Inspectors General shall make separate determinations under paragraph (1) or (2) of subsection (a), as applicable, with respect to each such separate review.
+
+"(d) Limitations on Procurements on Behalf of Department of Defense.—
+
+"(1) Limitation during review period.—After March 15, 2006, and before June 16, 2007, no official of the Department of Defense may, except as provided in subsection (e) or (f), order, purchase, or otherwise procure property or services in an amount in excess of $100,000 through a covered non-defense agency for which a determination described in paragraph (1)(B)(iii) of subsection (a) has been made under that subsection.
+
+"(2) Limitation after review period.—After June 15, 2007, no official of the Department of Defense may, except as provided in subsection (e) or (f), order, purchase, or otherwise procure property or services in an amount in excess of $100,000 through a covered non-defense agency that, having been subject to review under this section, has not been determined under this section as being compliant with defense procurement requirements.
+
+"(3) Limitation following failure to reach mou.—Commencing on the date that is 60 days after the date of the enactment of this Act [Jan. 6, 2006], if a memorandum of understanding between the Inspector General of the Department of Defense and the Inspector General of a covered non-defense agency cannot be attained causing the review required by this section to not be performed, no official of the Department of Defense, except as provided in subsection (e) or (f), may order, purchase or otherwise procure property or services in an amount in excess of $100,000 through such non-defense agency.
+
+"(e) Exception From Applicability of Limitations.—
+
+"(1) Exception.—No limitation applies under subsection (d) with respect to the procurement of property and services on behalf of the Department of Defense by a covered non-defense agency during any period that there is in effect a determination of the Under Secretary of Defense for Acquisition and Sustainment, made in writing, that it is necessary in the interest of the Department of Defense to continue to procure property and services through such non-defense agency.
+
+"(2) Applicability of determination.—A written determination with respect to a covered non-defense agency under paragraph (1) is in effect for the period, not in excess of one year, that the Under Secretary shall specify in the written determination. The Under Secretary may extend from time to time, for up to one year at a time, the period for which the written determination remains in effect.
+
+"(f) Termination of Applicability of Limitations.—Subsection (d) shall cease to apply to a covered non-defense agency on the date on which the Inspector General of the Department of Defense and the Inspector General of such non-defense agency jointly—
+
+"(1) determine that such non-defense agency is compliant with defense procurement requirements; and
+
+"(2) notify the Secretary of Defense of that determination.
+
+"(g) Identification of Procurements Made During a Particular Fiscal Year.—For the purposes of subsection (a), a procurement shall be treated as being made during a particular fiscal year to the extent that funds are obligated by the Department of Defense for that procurement in that fiscal year.
+
+"(h) Definitions.—In this section:
+
+"(1) The term 'covered non-defense agency' means each of the following:
+
+"(A) The Department of the Treasury.
+
+"(B) The Department of the Interior.
+
+"(C) The National Aeronautics and Space Administration.
+
+"(2) The term 'governmentwide acquisition contract', with respect to a covered non-defense agency, means a task or delivery order contract that—
+
+"(A) is entered into by the non-defense agency; and
+
+"(B) may be used as the contract under which property or services are procured for 1 or more other departments or agencies of the Federal Government."
+
+#### Employment of State Residents in States Having Unemployment Rate in Excess of National Average ####
+
+Pub. L. 109–289, div. A, title VIII, §8048, Sept. 29, 2006, 120 Stat. 1284, provided that: "Notwithstanding any other provision of law, each contract awarded by the Department of Defense during the current fiscal year and hereafter for construction or service performed in whole or in part in a State (as defined in section 381(d) [now 281(d)] of title 10, United States Code) which is not contiguous with another State and has an unemployment rate in excess of the national average rate of unemployment as determined by the Secretary of Labor, shall include a provision requiring the contractor to employ, for the purpose of performing that portion of the contract in such State that is not contiguous with another State, individuals who are residents of such State and who, in the case of any craft or trade, possess or would be able to acquire promptly the necessary skills: *Provided*, That the Secretary of Defense may waive the requirements of this section, on a case-by-case basis, in the interest of national security."
 
 #### Rapid Acquisition and Deployment Procedures ####
 
@@ -401,6 +705,34 @@ Pub. L. 107–314, div. A, title VIII, §806, Dec. 2, 2002, 116 Stat. 2607, as a
 [Pub. L. 115–245, div. A, title VIII, §8069, Sept. 28, 2018, 132 Stat. 3017.
 
 [Pub. L. 115–141, div. C, title VIII, §8070, Mar. 23, 2018, 132 Stat. 480.]
+
+#### Requirements Relating to Micro-Purchases ####
+
+Pub. L. 105–85, div. A, title VIII, §848, Nov. 18, 1997, 111 Stat. 1846, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(10), Dec. 19, 2014, 128 Stat. 3507, provided that:
+
+"(a) Requirement.—(1) Not later than October 1, 1998, at least 60 percent of all eligible purchases made by the Department of Defense for an amount less than the micro-purchase threshold shall be made through streamlined micro-purchase procedures.
+
+"(2) Not later than October 1, 2000, at least 90 percent of all eligible purchases made by the Department of Defense for an amount less than the micro-purchase threshold shall be made through streamlined micro-purchase procedures.
+
+"(b) Eligible Purchases.—The Secretary of Defense shall establish which purchases are eligible for purposes of subsection (a). In establishing which purchases are eligible, the Secretary may exclude those categories of purchases determined not to be appropriate or practicable for streamlined micro-purchase procedures.
+
+"(c) Plan.—Not later than March 1, 1998, the Secretary of Defense shall provide to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a plan to implement this section.
+
+"(d) Report.—Not later than March 1 in each of the years 1999, 2000, and 2001, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a report on the implementation of this section. Each report shall include—
+
+"(A) the total dollar amount of all Department of Defense purchases for an amount less than the micro-purchase threshold in the fiscal year preceding the year in which the report is submitted;
+
+"(B) the total dollar amount of such purchases that were considered to be eligible purchases;
+
+"(C) the total amount of such eligible purchases that were made through a streamlined micro-purchase method; and
+
+"(D) a description of the categories of purchases excluded from the definition of eligible purchases established under subsection (b).
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'micro-purchase threshold' has the meaning provided in section 1902 of title 41, United States Code.
+
+"(2) The term 'streamlined micro-purchase procedures' means procedures providing for the use of the Government-wide commercial purchase card or any other method for carrying out micro-purchases that the Secretary of Defense prescribes in the regulations implementing this subsection."
 
 #### Defense Facility-Wide Pilot Program ####
 

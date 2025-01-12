@@ -52,9 +52,7 @@ A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Re
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title V, §544(b), Dec. 27, 2021, 135 Stat. 1711, added item 1562a.
-
-Pub. L. 117–81, div. A, title V, §543(b), (c), Dec. 27, 2021, 135 Stat. 1710, added item 1561 and struck out former item 1561 "Complaints of sexual harassment: investigation by commanding officers", effective two years after Dec. 27, 2021.
+**2021**—Pub. L. 117–81, div. A, title V, §§543(b), 544(b), Dec. 27, 2021, 135 Stat. 1710, 1711, added items 1561 and 1562a and struck out former item 1561 "Complaints of sexual harassment: investigation by commanding officers".
 
 Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review". Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
 

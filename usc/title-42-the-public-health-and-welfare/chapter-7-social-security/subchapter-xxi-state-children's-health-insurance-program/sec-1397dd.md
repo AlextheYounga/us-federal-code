@@ -1028,7 +1028,7 @@ Section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Service
 
 #### Amendments ####
 
-**2021**—Subsec. (m)(2)(B). Pub. L. 117–2, §9821(c)(1), substituted "paragraphs (5), (7), and (12)" for "paragraphs (5) and (7)".
+**2021**—Subsec. (m)(2)(B). Pub. L. 117–2, §9821(c)(1), substituted "paragraphs (5), (7), and (12)" for "paragraphs (5) and (7)" in introductory provisions.
 
 Subsec. (m)(12). Pub. L. 117–2, §9821(c)(2), added par. (12).
 

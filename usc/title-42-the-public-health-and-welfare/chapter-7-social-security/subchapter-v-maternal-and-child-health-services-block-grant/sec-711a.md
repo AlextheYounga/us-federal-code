@@ -42,4 +42,4 @@ An entity to which funds are provided under this section shall use the funds—
 
 #### Effective Date ####
 
-Pub. L. 117–2, title IX, §9101, Mar. 11, 2021, 135 Stat. 123, provided in part that this section is effective 1 day after the date of enactment of this Act [Mar. 11, 2021].
+Pub. L. 117–2, title IX, §9101, Mar. 11, 2021, 135 Stat. 123, provided in part that this section is effective 1 day after the date of enactment of this Act (Mar. 11, 2021).

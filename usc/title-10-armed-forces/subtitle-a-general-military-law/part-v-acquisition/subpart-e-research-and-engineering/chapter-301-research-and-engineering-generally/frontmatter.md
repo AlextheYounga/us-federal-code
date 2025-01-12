@@ -52,7 +52,7 @@ Sec.
 
 #### Codification ####
 
-Section 4027 not transferred from section 2374b of this title in light of prior repeal of section 2374b, see note under section 4027 of this title.
+Item 4027 was added to this analysis by section 1701(e)(4)(B) of Pub. L. 117–81 in conjunction with the transfer of section 2374b of this title to section 4027. However, the transfer was not executed in light of the repeal of section 2374b, which took effect just prior to the transfer. See Codification note under section 4027 of this title.
 
 #### Prior Provisions ####
 
@@ -72,4 +72,4 @@ Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(A), Dec. 27, 2021, 135 Stat. 
 
 Pub. L. 111–383, div. A, title II, §214, Jan. 7, 2011, 124 Stat. 4164, provided for a program for research and development on, and deployment of, advanced technology ground vehicles, ground vehicle systems, and components within the Department of Defense.
 
-[<sup>1</sup> See Codification and Amendment notes below.](#CHAPTER301_1)
+[<sup>1</sup> See Codification note below.](#CHAPTER301_1)

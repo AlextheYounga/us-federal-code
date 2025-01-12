@@ -48,6 +48,52 @@ Pub. L. 116–283, div. A, title V, §591(b), Jan. 1, 2021, 134 Stat. 3665, adde
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Study Regarding Establishment Within the Department of Defense of a Designated Central Program Office To Oversee Academic Engagement Programs Relating To Establishing Cyber Talent Across the Department ####
+
+Pub. L. 117–81, div. A, title XV, §1532, Dec. 27, 2021, 135 Stat. 2052, provided that:
+
+"(a) In General.—Not later than 270 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a study regarding the need, feasibility, and advisability of establishing within the Department of Defense a designated central program office responsible for overseeing covered academic engagement programs across the Department. Such study shall examine the following:
+
+"(1) Whether the Department's cyber-focused academic engagement needs more coherence, additional coordination, or improved management, and whether a designated central program office would provide such benefits.
+
+"(2) How such a designated central program office would coordinate and harmonize Department programs relating to covered academic engagement programs.
+
+"(3) Metrics such office would use to measure the effectiveness of covered academic engagement programs.
+
+"(4) Whether such an office is necessary to serve as an identifiable entry point to the Department by the academic community.
+
+"(5) Whether the cyber discipline with respect to academic engagement should be treated separately from other STEM fields.
+
+"(6) How such an office would interact with the consortium universities (established pursuant to section 1659 of the National Defense Authorization Act for Fiscal Year 2020 (10 U.S.C. 391 note)) to assist the Secretary on cybersecurity matters.
+
+"(7) Whether the establishment of such an office would have an estimated net savings for the Department.
+
+"(b) Consultation.—In conducting the study required under subsection (a), the Secretary of Defense shall consult with and solicit recommendations from academic institutions and stakeholders, including primary, secondary, and post-secondary educational institutions.
+
+"(c) Determination.—
+
+"(1) In general.—Upon completion of the study required under subsection (a), the Secretary of Defense shall make a determination regarding the establishment within the Department of Defense of a designated central program office responsible for overseeing covered academic engagement programs across the Department.
+
+"(2) Implementation.—If the Secretary of Defense makes an affirmative determination in accordance with paragraph (1), the Secretary shall establish within the Department of Defense a designated central program office responsible for overseeing covered academic programs across the Department. Not later than 180 days after such a determination, the Secretary shall promulgate such rules and regulations as are necessary to so establish such an office.
+
+"(3) Negative determination.—If the Secretary of Defense makes a negative determination in accordance with paragraph (1), the Secretary shall submit to the congressional defense committees notice of such determination, together with a justification for such determination. Such justification shall include—
+
+"(A) how the Secretary intends to coordinate and harmonize covered academic engagement programs; and
+
+"(B) measures to determine effectiveness of covered academic engagement programs absent a designated central program office responsible for overseeing covered academic programs across the Department.
+
+"(d) Report.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report that updates the matters required for inclusion in the reports required pursuant to section 1649 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) [133 Stat. 1758] and section 1726(c) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [134 Stat. 4116].
+
+"(e) Definition.—In this section, the term 'covered academic engagement program' means each of the following:
+
+"(1) Primary, secondary, or post-secondary education programs with a cyber focus.
+
+"(2) Recruitment or retention programs for Department of Defense cyberspace personnel, including scholarship programs.
+
+"(3) Academic partnerships focused on establishing cyber talent.
+
+"(4) Cyber enrichment programs."
+
 #### Encouragement of Contractor Science, Technology, Engineering, and Mathematics (STEM) Programs ####
 
 Pub. L. 116–283, div. A, title II, §245(a)–(d), Jan. 1, 2021, 134 Stat. 3489, 3490, provided that:

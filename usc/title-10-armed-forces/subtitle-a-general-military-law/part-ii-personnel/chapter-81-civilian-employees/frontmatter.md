@@ -82,7 +82,7 @@ Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950,
 
 **2021**—Pub. L. 117–81, div. A, title XVII, §1701(w)(1), Dec. 27, 2021, 135 Stat. 2154, struck out item 1599h "Personnel management authority to attract experts in science and engineering".
 
-Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950, which directed amendment of this analysis by striking item 1599e "Probationary period for employees", was executed effective Dec. 31, 2022, concurrent with the repeal of section 1599e by Pub. L. 117–81, div. A, title XI, §1106(a)(1), to reflect the probable intent of Congress.
+Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950, which directed amendment of this analysis by striking item 1599e "Probationary period for employees", was executed as if effective on Dec. 31, 2022, concurrent with the repeal of section 1599e by Pub. L. 117–81, div. A, title XI, §1106(a)(1), to reflect the probable intent of Congress.
 
 Pub. L. 116–283, div. A, title II, §241(c)(2), title XI, §1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
 
@@ -224,7 +224,7 @@ Pub. L. 116–283, div. A, title XI, §1108, Jan. 1, 2021, 134 Stat. 3891, as am
 
 "(A)(i) at any defense industrial base facility (as that term is defined in section 2208(u)(3) of title 10, United States Code) that is part of the core logistics capabilities (as described in section 2464(a) of such title); or
 
-"(ii) at any Major Range and Test Facility Base (as that term is defined in section 196(i) of such title); and
+"(ii) at any Major Range and Test Facility Base (as that term is defined in section 196(i) of such title) [now 10 U.S.C. 4173(i)]; and
 
 "(B) that have been certified by the Secretary of the military department concerned as lacking sufficient numbers of potential applicants.
 

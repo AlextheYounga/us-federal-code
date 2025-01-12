@@ -444,7 +444,7 @@ Sec.
 
 2286k. Inspector General.
 
-2286l. Authority of Inspector General.
+2286 l. Authority of Inspector General.
 
 #### SUBCHAPTER XVIII—EURATOM COOPERATION ####
 

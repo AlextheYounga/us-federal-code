@@ -114,7 +114,7 @@ Pub. L. 117–81, div. A, title II, §228, Dec. 27, 2021, 135 Stat. 1609, provid
 
 "(B) A recommendation with respect to continuing or expanding the activities required under subsection (a)."
 
-#### Authority to Maintain Access to Category 3 Subterranean Training Facility ####
+#### Authority To Maintain Access to Category 3 Subterranean Training Facility ####
 
 Pub. L. 117–81, div. A, title III, §375, Dec. 27, 2021, 135 Stat. 1667, provided that:
 

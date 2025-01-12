@@ -16,7 +16,7 @@ Sec.
 
 #### Codification ####
 
-Section 8755 not transferred from section 2339c of this title in light of prior repeal of section 2339c, see note under section 8755 of this title.
+Item 8755 was added to this analysis by section 1701(e)(1)(B) of Pub. L. 117–81 in conjunction with the transfer of section 2339c of this title to section 8755. However, the transfer was not executed in light of the repeal of section 2339c, which took effect just prior to the transfer. See Codification note under section 8755 of this title.
 
 #### Prior Provisions ####
 
@@ -34,4 +34,4 @@ Pub. L. 116–283, div. A, title XVIII, §1878(b), Jan. 1, 2021, 134 Stat. 4292,
 
 **1986**—Pub. L. 99–661, div. A, title XIII, §1354(b), Nov. 14, 1986, 100 Stat. 3996, added item 7524.
 
-[<sup>1</sup> See Codification and Amendment notes below.](#CHAPTER873_1)
+[<sup>1</sup> See Codification note below.](#CHAPTER873_1)

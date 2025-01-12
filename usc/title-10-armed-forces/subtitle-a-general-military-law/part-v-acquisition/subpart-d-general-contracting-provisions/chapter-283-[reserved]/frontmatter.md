@@ -4,7 +4,7 @@
 
 #### Prior Provisions ####
 
-A prior chapter 283 "FOREIGN ACQUISITIONS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3881, was repealed by Pub. L. 116–283, div. A, title XVIII, §1837(a), Jan. 1, 2021, 134 Stat. 4241.
+A prior chapter 283 "FOREIGN ACQUISITIONS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3881, was repealed by Pub. L. 116–283, div. A, title XVIII, §1837, Jan. 1, 2021, 134 Stat. 4241, as amended by Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(B), Dec. 27, 2021, 135 Stat. 2142.
 
 #### Codification ####
 

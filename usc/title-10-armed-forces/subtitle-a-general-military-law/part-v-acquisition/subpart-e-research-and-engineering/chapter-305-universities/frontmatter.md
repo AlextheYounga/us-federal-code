@@ -90,7 +90,7 @@ Pub. L. 116–92, div. A, title II, §252, Dec. 20, 2019, 133 Stat. 1285, as ame
 
 "(e) Research, Development, Test, and Evaluation Infrastructure Defined.—In this section, the term 'research, development, test, and evaluation infrastructure' means the infrastructure of—
 
-"(1) the science and technology reinvention laboratories (as designated under section 4121(b) of title 10, United States Code));
+"(1) the science and technology reinvention laboratories (as designated under section 4121(b) of title 10, United States Code);
 
 "(2) the Major Range and Test Facility Base (as defined in section 2358a(f)(3) of title 10, United States Code [now 10 U.S.C. 4091(g)(3)]); and
 

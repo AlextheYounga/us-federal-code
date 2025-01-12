@@ -94,7 +94,7 @@ Sec. 2. *Definitions*. As used in this order:
 
 (g) The terms "detention facilities" and "detention facility" in section 4(a) of this order do not refer to facilities used only to hold people on a short-term, transitory basis.
 
-Sec. 3. *Standards and Practices for Interrogation of Individuals in the Custody or Control of the United States in Armed Conflicts*.
+Sec. 3. *Standards and Practices for Interrogation of Individuals in the Custody or Control of the United States in Armed Conflicts.*
 
 (a) *Common Article 3 Standards as a Minimum Baseline*. Consistent with the requirements of the Federal torture statute, 18 U.S.C. 2340–2340A, section 1003 of the Detainee Treatment Act of 2005, 42 U.S.C. 2000dd, the Convention Against Torture, Common Article 3, and other laws regulating the treatment and interrogation of individuals detained in any armed conflict, such persons shall in all circumstances be treated humanely and shall not be subjected to violence to life and person (including murder of all kinds, mutilation, cruel treatment, and torture), nor to outrages upon personal dignity (including humiliating and degrading treatment), whenever such individuals are in the custody or under the effective control of an officer, employee, or other agent of the United States Government or detained within a facility owned, operated, or controlled by a department or agency of the United States.
 
@@ -102,13 +102,13 @@ Sec. 3. *Standards and Practices for Interrogation of Individuals in the Custody
 
 (c) *Interpretations of Common Article 3 and the Army Field Manual*. From this day forward, unless the Attorney General with appropriate consultation provides further guidance, officers, employees, and other agents of the United States Government may, in conducting interrogations, act in reliance upon Army Field Manual 2–22.3, but may not, in conducting interrogations, rely upon any interpretation of the law governing interrogation—including interpretations of Federal criminal laws, the Convention Against Torture, Common Article 3, Army Field Manual 2–22.3, and its predecessor document, Army Field Manual 34–52—issued by the Department of Justice between September 11, 2001, and January 20, 2009.
 
-Sec. 4. *Prohibition of Certain Detention Facilities, and Red Cross Access to Detained Individuals*.
+Sec. 4. *Prohibition of Certain Detention Facilities, and Red Cross Access to Detained Individuals.*
 
 (a) *CIA Detention*. The CIA shall close as expeditiously as possible any detention facilities that it currently operates and shall not operate any such detention facility in the future.
 
 (b) *International Committee of the Red Cross Access to Detained Individuals*. All departments and agencies of the Federal Government shall provide the International Committee of the Red Cross with notification of, and timely access to, any individual detained in any armed conflict in the custody or under the effective control of an officer, employee, or other agent of the United States Government or detained within a facility owned, operated, or controlled by a department or agency of the United States Government, consistent with Department of Defense regulations and policies.
 
-Sec. 5. *Special Interagency Task Force on Interrogation and Transfer Policies*.
+Sec. 5. *Special Interagency Task Force on Interrogation and Transfer Policies.*
 
 (a) *Establishment of Special Interagency Task Force*. There shall be established a Special Task Force on Interrogation and Transfer Policies (Special Task Force) to review interrogation and transfer policies.
 

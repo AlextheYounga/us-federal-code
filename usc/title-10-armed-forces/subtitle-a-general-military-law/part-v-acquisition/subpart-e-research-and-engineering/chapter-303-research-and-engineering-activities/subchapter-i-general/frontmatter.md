@@ -348,7 +348,7 @@ Pub. L. 108–136, div. A, title II, §234, Nov. 24, 2003, 117 Stat. 1423, direc
 
 #### Research and Development of Defense Biomedical Countermeasures ####
 
-Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, as amended by Pub. L. 112–81, div. A, title X, §1062(g)(3), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(B), Dec. 19, 2014, 128 Stat. 3507; Pub. L. 114–92, div. A, title VIII, §815(d), Nov. 25, 2015, 129 Stat. 896, provided that:
+Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, as amended by Pub. L. 112–81, div. A, title X, §1062(g)(3), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, §1071(b)(5)(B), Dec. 19, 2014, 128 Stat. 3507; Pub. L. 114–92, div. A, title VIII, §815(d), Nov. 25, 2015, 129 Stat. 896; Pub. L. 117–81, div. A, title II, §215(d)(1), Dec. 27, 2021, 135 Stat. 1593, provided that:
 
 "(a) In General.—The Secretary of Defense (in this section referred to as the 'Secretary') shall carry out a program to accelerate the research, development and procurement of biomedical countermeasures, including but not limited to therapeutics and vaccines, for the protection of the Armed Forces from attack by one or more biological, chemical, radiological, or nuclear agents.
 
@@ -404,7 +404,7 @@ Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, as 
 
 "(B) it would not be practicable for the Department of Defense to obtain such services by other measures.
 
-"(f) Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 342 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721), [former] section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261 [5 U.S.C. 3104 note]), and section 1101 of this Act [enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5].
+"(f) Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 4121(a) of title 10, United States Code, [former] section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261 [5 U.S.C. 3104 note]), and section 1101 of this Act [enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5].
 
 "(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretary that use of such authority is necessary to accelerate the research and development under the program.
 

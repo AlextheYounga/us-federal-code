@@ -1,5 +1,7 @@
 ### §§1901 to 1918. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1901, act June 6, 1933, ch. 49, §1, 48 Stat. 113, which related to establishment of United States Employment Service, was transferred to section 49 of Title 29, Labor.

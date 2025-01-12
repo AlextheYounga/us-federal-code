@@ -16,9 +16,9 @@ Sec.
 
 #### Codification ####
 
-Section 4873 not transferred from section 2533d of this title in light of prior repeal of section 2533d, see note under section 4873 of this title.
+Item 4873 was added to this analysis by section 1701(e)(2)(B) of Pub. L. 117–81 in conjunction with the transfer of section 2533d of this title to section 4873. However, the transfer was not executed in light of the repeal of section 2533d, which took effect just prior to the transfer. See Codification note under section 4873 of this title.
 
-Section 4875 not transferred from section 2533e of this title in light of prior repeal of section 2533e, see note under section 4875 of this title.
+Item 4875 was added to this analysis by section 802(b)(2)(A) of Pub. L. 117–81 in conjunction with the transfer of section 2533e of this title to section 4875. However, the transfer was not executed in light of the repeal of section 2533e, which took effect just prior to the transfer. See Codification note under section 4875 of this title.
 
 #### Amendments ####
 
@@ -290,4 +290,4 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 
 [Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(3) of Pub. L. 116–283 to section 821 (probably should be 822) of Pub. L. 116–92, which amended section 841 of Pub. L. 113–291, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019), and as if included in Pub. L. 116–92.]
 
-[<sup>1</sup> See Codification and Amendment notes below.](#I_1)
+[<sup>1</sup> See Codification note below.](#I_1)

@@ -18,6 +18,8 @@ Section 1973dd–5, Pub. L. 94–203, §9, formerly §7, Jan. 2, 1976, 89 Stat. 
 
 Section 1973dd–6, Pub. L. 94–203, §11, as added Pub. L. 95–593, §6, Nov. 4, 1978, 92 Stat. 2537, authorized appropriations as necessary to carry out this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 20301 of Title 52, Voting and Elections.

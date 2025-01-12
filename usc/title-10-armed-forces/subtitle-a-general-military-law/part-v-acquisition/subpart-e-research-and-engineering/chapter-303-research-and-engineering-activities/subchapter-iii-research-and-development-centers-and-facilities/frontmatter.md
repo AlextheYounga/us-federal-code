@@ -98,7 +98,7 @@ Pub. L. 114–92, div. B, title XXVIII, §2803, Nov. 25, 2015, 129 Stat. 1169, a
 
 "(a) Authority to Use Research, Development, Test, and Evaluation Funds.—Using amounts appropriated or otherwise made available to the Department of Defense for research, development, test, and evaluation, the Secretary of Defense may fund a military construction project described in subsection (d) at any of the following:
 
-"(1) A Department of Defense Science and Technology Reinvention Laboratory (as designated under section 4121(b) of title 10, United States Code)[)].
+"(1) A Department of Defense Science and Technology Reinvention Laboratory (as designated under section 4121(b) of title 10, United States Code).
 
 "(2) A Department of Defense Federally Funded Research and Development Center that functions primarily as a research laboratory.
 
