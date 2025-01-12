@@ -44,7 +44,7 @@ The term "undistributed foreign earnings" means the portion of the undistributed
 
 (B) dividends described in subparagraph (B) of such section (determined without regard to section 245(a)(12)).
 
-#### (d) Disallowance of foreign tax credit, etc ####
+#### (d) Disallowance of foreign tax credit, etc. ####
 
 #### (1) In general ####
 

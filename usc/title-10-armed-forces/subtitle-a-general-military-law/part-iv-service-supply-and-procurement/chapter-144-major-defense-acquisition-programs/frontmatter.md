@@ -40,7 +40,7 @@ Sec.
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–91, div. A, title VIII, §§832(a)(2), 834(a)(2), 835(a)(2), title X, §1081(a)(37), Dec. 12, 2017, 131 Stat. 1468, 1470, 1471, 1596, added items 2439, 2442, and 2443, and substituted "Risk management and mitigation in major defense acquisition programs and major systems" for "Risk reduction in major defense acquisition programs and major systems" in item 2431b.
+**2017**—Pub. L. 115–91, div. A, title VIII, §§832(a)(2), 834(a)(2), 835(a)(2), title X, §1081(a)(37), Dec. 12, 2017, 131 Stat. 1468, 1470, 1471, 1596, added items 2439, 2442, and 2443 and substituted "Risk management and mitigation in major defense acquisition programs and major systems" for "Risk reduction in major defense acquisition programs and major systems" in item 2431b.
 
 **2016**—Pub. L. 114–328, div. A, title VIII, §§842(c)(2), 849(c)(2), Dec. 23, 2016, 130 Stat. 2290, 2294, struck out item 2434 "Independent cost estimates" and added item 2441.
 

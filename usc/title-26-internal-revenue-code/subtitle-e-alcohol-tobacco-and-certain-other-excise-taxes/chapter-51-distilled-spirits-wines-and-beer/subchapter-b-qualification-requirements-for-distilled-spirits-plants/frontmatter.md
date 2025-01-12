@@ -16,7 +16,7 @@ Sec.
 
 5177. Other provisions relating to bonds.
 
-5178. Distilled spirits plants. 1
+5178. Premises of distilled spirits plants.
 
 5179. Registration of stills.
 
@@ -32,8 +32,8 @@ A prior subchapter B, Distilleries, consisted of part I, Establishment, part II,
 
 #### Amendments ####
 
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(242), Mar. 23, 2018, 132 Stat. 1195, substituted "Premises of distilled spirits plants" for "Distilled spirits plants" in item 5178.
+
 **1980**—Pub. L. 96–223, title II, §232(e)(2)(F), Apr. 2, 1980, 94 Stat. 280, added item 5181 and redesignated former item 5181 as 5182.
 
 **1979**—Pub. L. 96–39, title VIII, §807(b)(4), July 26, 1979, 93 Stat. 290, substituted "Bonds" for "Qualification bonds" in item 5173, struck out item 5174 "Withdrawal bonds", and substituted "Distilled spirits plants" for "Premises of distilled spirits plants" in item 5178.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#SubchapterB_1)

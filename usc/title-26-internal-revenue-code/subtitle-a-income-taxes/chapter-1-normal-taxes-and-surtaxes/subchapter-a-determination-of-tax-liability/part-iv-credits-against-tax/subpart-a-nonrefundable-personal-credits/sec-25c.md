@@ -16,7 +16,7 @@ The credit allowed under this section with respect to any taxpayer for any taxab
 
 #### (2) Windows ####
 
-In the case of amounts paid or incurred for components described in subsection (c)(2)(B) <sup><a href="#25C_1_target" name="25C_1">1</a></sup> by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
+In the case of amounts paid or incurred for components described in subsection (c)(3)(B) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
 
 #### (3) Limitation on residential energy property expenditures ####
 
@@ -116,11 +116,11 @@ The term "energy-efficient building property" means—
 
 (A) an electric heat pump water heater which yields an energy factor of at least 2.0 in the standard Department of Energy test procedure,
 
-(B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009.<sup><a href="#25C_2_target" name="25C_2">2</a></sup>
+(B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
 (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
 
-(D) a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent.<sup><a href="#25C_3_target" name="25C_3">3</a></sup>
+(D) a natural gas, propane, or oil water heater which has either an energy factor of at least 0.82 or a thermal efficiency of at least 90 percent, and
 
 (E) a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.
 
@@ -168,19 +168,25 @@ This section shall not apply with respect to any property placed in service—
 
 (1) after December 31, 2007, and before January 1, 2009, or
 
-(2) after December 31, 2017..<sup><a href="#25C_4_target" name="25C_4">4</a></sup>
+(2) after December 31, 2017.
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184.)
 
 #### References in Text ####
-
-Subsection (c)(2)(B), referred to in subsec. (b)(2), was redesignated (c)(3)(B) by Pub. L. 114–113, div. Q, title I, §181(b)(2), Dec. 18, 2015, 129 Stat. 3072.
 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments ####
 
-**2018**—Subsec. (g)(2). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
+**2018**—Subsec. (b)(2). Pub. L. 115–141, §401(a)(4), substituted "subsection (c)(3)(B)" for "subsection (c)(2)(B)".
+
+Subsec. (d)(3)(B). Pub. L. 115–141, §401(a)(5)(A), substituted comma for period at end.
+
+Subsec. (d)(3)(D). Pub. L. 115–141, §401(a)(5)(B), substituted ", and" for period at end.
+
+Subsec. (g)(2). Pub. L. 115–141, §401(a)(6), substituted "2017." for "2017.."
+
+Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
 
 **2015**—Subsec. (c)(1). Pub. L. 114–113, §181(b)(1), struck out "which meets the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009 (or, in the case of an exterior window, a skylight, an exterior door, a metal roof with appropriate pigmented coatings, or an asphalt roof with appropriate cooling granules, which meet the Energy Star program requirements)" after "envelope component" in introductory provisions.
 
@@ -321,11 +327,3 @@ Pub. L. 110–343, div. B, title III, §302(f), Oct. 3, 2008, 122 Stat. 3845, pr
 #### Effective Date ####
 
 Pub. L. 109–58, title XIII, §1333(c), Aug. 8, 2005, 119 Stat. 1030, provided that: "The amendments made by this section [enacting this section and amending section 1016 of this title] shall apply to property placed in service after December 31, 2005."
-
-[<sup>1</sup> See References in Text note below.](#25C_1)
-
-[<sup>2</sup> So in original. The period probably should be a comma.](#25C_2)
-
-[<sup>3</sup> So in original. The period probably should be ", and".](#25C_3)
-
-[<sup>4</sup> So in original.](#25C_4)

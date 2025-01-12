@@ -408,9 +408,13 @@ Sec.
 
 10552. Applications.
 
-10553. Annual report to Congress.
+10553. Annual report to Congress; grant accountability.
 
 10554. Definitions.
+
+10555. Authorization of appropriations.
+
+10556. Rules of construction.
 
 #### SUBCHAPTER XXVII—PAUL COVERDELL FORENSIC SCIENCES IMPROVEMENT GRANTS ####
 

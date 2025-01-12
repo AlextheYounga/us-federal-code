@@ -10,11 +10,15 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, provided in part: "That notwithstanding any other provision of law, the powers and duties, functions, authorities and personnel of the Research and Innovative Technology Administration are hereby transferred to the Office of the Assistant Secretary for Research and Technology in the Office of the Secretary: *Provided further*, That notwithstanding section 102 of title 49 and section 5315 of title 5, United States Code, there shall be an Assistant Secretary for Research and Technology within the Office of the Secretary, appointed by the President with the advice and consent of the Senate, to lead such office: *Provided further*, That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation."
 
-[Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 725, provided in part: "That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation."]
+[Pub. L. 115–141, div. L, title I, Mar. 23, 2018, 132 Stat. 972, provided in part: "That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation."]
 
-[Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2835, provided in part: "That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation."]
+[Similar provisions were contained in the following prior appropriations acts:]
 
-[Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2696, provided in part: "That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation."]
+[Pub. L. 115–31, div. K, title I, May 5, 2017, 131 Stat. 725.]
+
+[Pub. L. 114–113, div. L, title I, Dec. 18, 2015, 129 Stat. 2835.]
+
+[Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2696.]
 
 Pub. L. 108–426, §4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: "The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration."
 

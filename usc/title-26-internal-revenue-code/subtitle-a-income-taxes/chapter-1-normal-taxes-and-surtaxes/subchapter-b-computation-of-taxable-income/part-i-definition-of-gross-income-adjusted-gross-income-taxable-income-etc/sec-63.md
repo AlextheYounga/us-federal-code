@@ -12,7 +12,7 @@ In the case of an individual who does not elect to itemize his deductions for th
 
 (2) the deduction for personal exemptions provided in section 151, and
 
-(3) the deduction provided in section 199A.
+(3) any deduction provided in section 199A.
 
 #### (c) Standard deduction ####
 
@@ -114,7 +114,7 @@ For purposes of this subtitle, the term "itemized deductions" means the deductio
 
 (2) the deduction for personal exemptions provided by section 151, and
 
-(3) the deduction provided in section 199A.
+(3) any deduction provided in section 199A.
 
 #### (e) Election to itemize ####
 
@@ -168,13 +168,15 @@ For purposes of this subsection, an individual is blind only if his central visu
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318; Pub. L. 113–295, div. A, title II, §221(a)(13), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–97, title I, §§11002(d)(1)(K), 11011(b)(2), (3), 11021(a), Dec. 22, 2017, 131 Stat. 2060, 2070, 2072.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318; Pub. L. 113–295, div. A, title II, §221(a)(13), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–97, title I, §§11002(d)(1)(K), 11011(b)(2), (3), 11021(a), Dec. 22, 2017, 131 Stat. 2060, 2070, 2072; Pub. L. 115–141, div. T, §101(a)(2)(A), Mar. 23, 2018, 132 Stat. 1155.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
 #### Amendments ####
+
+**2018**—Subsecs. (b)(3), (d)(3). Pub. L. 115–141 substituted "any deduction" for "the deduction".
 
 **2017**—Subsec. (b)(3). Pub. L. 115–97, §11011(b)(2), added par. (3).
 
@@ -345,6 +347,10 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 **1978**—Pub. L. 95–600 substituted "$3,400" for "$3,200" in par. (1), "$2,300" for "$2,200" in par. (2), and "$1,700" for "$1,600" in par. (3).
 
 **1977**—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, "General rule" and "Individuals electing standard deduction" to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, "Corporations", "Individuals", "Excess itemized deductions", "Zero bracket amount", "Unused zero bracket amount", "Itemized deductions", "Election to itemize", and "Marital status".
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by Pub. L. 115–141 effective as if included in section 11011 of Pub. L. 115–97, see section 101(d) of Pub. L. 115–141, set out as a note under section 62 of this title.
 
 #### Effective Date of 2017 Amendment ####
 

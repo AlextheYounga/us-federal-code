@@ -16,9 +16,11 @@ VI. Political organizations.
 
 VII. Certain homeowners associations.
 
-VIII. Certain Savings Entities. 1
+VIII. Certain Savings Entities
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(121), Mar. 23, 2018, 132 Stat. 1190, substituted "Certain Savings Entities" for "Certain Savings Entities." in part VIII heading.
 
 **2014**—Pub. L. 113–295, div. B, title I, §102(e)(5), Dec. 19, 2014, 128 Stat. 4062, substituted "Certain Savings Entities" for "Higher education savings entities" in part VIII heading.
 

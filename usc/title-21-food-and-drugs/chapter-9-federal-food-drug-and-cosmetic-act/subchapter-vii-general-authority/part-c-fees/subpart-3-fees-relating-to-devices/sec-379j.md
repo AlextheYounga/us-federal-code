@@ -355,7 +355,7 @@ To qualify for consideration for a refund under subsection (a)(2)(D), a person s
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title II, §203(a)–(f)(1), (f)(2)(B)–(i), title IX, §905(b)(2), Aug. 18, 2017, 131 Stat. 1013–1016, 1090.)
+(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title II, §203(a)–(f)(1), (2)(B)–(i), title IX, §905(b)(2), Aug. 18, 2017, 131 Stat. 1013–1016, 1090.)
 
 #### Termination of Section ####
 
@@ -605,7 +605,7 @@ Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted "subsection (a)(2)
 
 #### Effective Date of 2017 Amendment ####
 
-Amendment by section 203 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all submissions listed in subsection (a)(2)(A) of this section received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
+Amendment by section 203 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all submissions listed in subsec. (a)(2)(A) of this section received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
 
 #### Effective Date of 2012 Amendment ####
 

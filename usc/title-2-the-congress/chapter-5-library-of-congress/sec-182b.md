@@ -1,4 +1,4 @@
-### §182b. Revolving fund for gift shop, decimal classification, photo duplication, and related services ###
+### §182b. Revolving fund for sales shop and other services ###
 
 #### (a) Establishment ####
 
@@ -11,6 +11,8 @@ There is hereby established in the Treasury a revolving fund for the following p
 (3) Document reproduction and microfilming services.
 
 (4) Special events and programs.
+
+(5) Training.
 
 #### (b) Individual accounting requirement ####
 
@@ -56,9 +58,13 @@ Except as provided in paragraph (2), amounts in the accounts of the revolving fu
 
 In the case of any amount in the revolving fund consisting of a payment received for services of the United States Capitol Police in connection with a special event or program described in subsection (a)(4), the Librarian shall transfer such amount upon receipt to the Capitol Police for deposit into the applicable appropriations accounts of the Capitol Police.
 
-(Pub. L. 106–481, title I, §102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, §208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, §1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, §6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
+(Pub. L. 106–481, title I, §102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, §208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, §1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, §6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 115–141, div. I, title I, §151(1), Mar. 23, 2018, 132 Stat. 784.)
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, §151(1)(A), substituted "Revolving fund for sales shop and other services" for "Revolving fund for gift shop, decimal classification, photo duplication, and related services" in section catchline.
+
+Subsec. (a). Pub. L. 115–141, §151(1)(B), added par. (5).
 
 **2010**—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(f)(1). See 2007 Amendment note below.
 

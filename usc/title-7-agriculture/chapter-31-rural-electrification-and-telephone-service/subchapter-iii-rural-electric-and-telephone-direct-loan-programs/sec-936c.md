@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 103–129, §2(c)(10)(B), added subsec. (d).
 
 Pub. L. 103–66, title I, §1201(b), Aug. 10, 1993, 107 Stat. 330, provided that: "Not later than 45 days after the date of enactment of this section [Aug. 10, 1993], the Administrator of the Rural Electrification Administration shall issue interim final regulations to carry out the amendment made by subsection (a) [enacting this section]."
 
-#### Pilot Program for Funds to Refinance Debt ####
+#### Pilot Program for Funds To Refinance Debt ####
 
 Pub. L. 115–31, div. A, title VII, §749, May 5, 2017, 131 Stat. 177, provided that:
 

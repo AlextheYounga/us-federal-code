@@ -2,10 +2,4 @@
 
 Sec.
 
-4401 to 4403. Repealed.
-
-4404. Repealed or Transferred.
-
-4405. Transferred.
-
-4406. Repealed.
+4401 to 4406. Repealed or Transferred.

@@ -212,7 +212,7 @@ Subsec. (d)(4). Pub. L. 98–76 inserted "3(f)(3)," after "3(a),".
 
 #### Effective Date of 2017 Amendment ####
 
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective Date of 2004 Amendment ####
 

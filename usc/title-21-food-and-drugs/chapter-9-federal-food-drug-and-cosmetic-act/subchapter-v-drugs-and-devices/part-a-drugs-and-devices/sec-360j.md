@@ -478,7 +478,7 @@ For purposes of this subsection—
 
 (B) the term "contrast agent" means a drug that is approved under section 355 of this title or licensed under section 262 of title 42, is intended for use in conjunction with an applicable medical imaging device, and—
 
-(i) is a diagnostic radiopharmaceutical, as defined in section 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
+(i) is a diagnostic radiopharmaceutical, as defined in section <sup><a href="#360j_2_target" name="360j_2">2</a></sup> 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
 
 (ii) is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
 
@@ -717,3 +717,5 @@ Pub. L. 101–629, §14(c), Nov. 28, 1990, 104 Stat. 4525, directed Secretary of
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 [<sup>1</sup> So in original. Probably should be "The term 'device',".](#360j_1)
+
+[<sup>2</sup> So in original. Probably should be "sections".](#360j_2)

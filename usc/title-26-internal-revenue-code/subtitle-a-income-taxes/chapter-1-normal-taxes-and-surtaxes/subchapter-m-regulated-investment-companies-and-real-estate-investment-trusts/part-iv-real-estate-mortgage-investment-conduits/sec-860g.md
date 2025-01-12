@@ -38,7 +38,7 @@ The term "qualified mortgage" means—
 
 (II) occurs after the startup day, and
 
-(III) is purchased by the REMIC pursuant to a fixed price contract in effect on the startup day.<sup><a href="#860G_1_target" name="860G_1">1</a></sup>
+(III) is purchased by the REMIC pursuant to a fixed price contract in effect on the startup day,
 
 (B) any qualified replacement mortgage, and
 
@@ -164,9 +164,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (5) providing that a mortgage will be treated as a qualified replacement mortgage only if it is part of a bona fide replacement (and not part of a swap of mortgages).
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 115–141, div. U, title IV, §401(a)(151), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(3)(A)(iii)(III). Pub. L. 115–141 substituted comma for period at end.
 
 **2005**—Subsec. (a)(3). Pub. L. 109–135, §403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: "For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property."
 
@@ -251,5 +253,3 @@ Pub. L. 100–647, title I, §1006(t)(5)(F), Nov. 10, 1988, 102 Stat. 3421, prov
 Pub. L. 100–647, title I, §1006(t)(9)(B), Nov. 10, 1988, 102 Stat. 3422, provided that: "The amendment made by subparagraph (A) [amending this section] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before July 1, 1987."
 
 Amendment by section 1006(t)(6)–(8)(B), (10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
-
-[<sup>1</sup> So in original. The period probably should be a comma.](#860G_1)

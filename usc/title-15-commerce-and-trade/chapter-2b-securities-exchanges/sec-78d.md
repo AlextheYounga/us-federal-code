@@ -250,7 +250,7 @@ The Advocate for Small Business Capital Formation shall—
 
 (B) identify areas in which small businesses and small business investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
 
-(C) identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned and women-owned small businesses;
+(C) identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters;
 
 (D) analyze the potential impact on small businesses and small business investors of—
 
@@ -284,7 +284,7 @@ Each report required under subparagraph (A) shall include—
 
 (ii) information on steps that the Advocate for Small Business Capital Formation has taken during the reporting period to improve small business services and the responsiveness of the Commission and self-regulatory organizations to small business and small business investor concerns;
 
-(iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned and women-owned small businesses and their investors, during the reporting period;
+(iii) a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters and their investors, during the reporting period;
 
 (iv) an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
 
@@ -318,13 +318,15 @@ The Advocate for Small Business Capital Formation shall be responsible for plann
 
 Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
 
-(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447.)
+(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447; Pub. L. 115–141, div. S, title IX, §902, Mar. 23, 2018, 132 Stat. 1143.)
 
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (j)(4)(C), (6)(B)(iii). Pub. L. 115–141 substituted "minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters" for "minority-owned and women-owned small businesses".
 
 **2016**—Subsec. (j). Pub. L. 114–284 added subsec. (j).
 

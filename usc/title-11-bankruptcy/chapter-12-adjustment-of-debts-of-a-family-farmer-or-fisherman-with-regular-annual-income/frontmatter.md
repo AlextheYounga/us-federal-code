@@ -52,6 +52,6 @@ Chapter repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–72, div. B, §1005(b)(2), Oct. 26, 2017, 131 Stat. 1234, added item 1232. Item was added to analysis for this chapter, notwithstanding directory language adding item to analysis for subchapter II of this chapter.
+**2017**—Pub. L. 115–72, div. B, §1005(b)(2), Oct. 26, 2017, 131 Stat. 1234, added item 1232. Item was added to analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding item to analysis for subchapter II of this chapter.
 
 **2005**—Pub. L. 109–8, title X, §1007(c)(1), Apr. 20, 2005, 119 Stat. 188, inserted "OR FISHERMAN" after "FAMILY FARMER" in chapter heading.

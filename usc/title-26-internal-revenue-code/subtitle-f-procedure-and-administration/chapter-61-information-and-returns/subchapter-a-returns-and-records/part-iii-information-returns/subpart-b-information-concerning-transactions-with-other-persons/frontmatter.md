@@ -4,7 +4,7 @@ Sec.
 
 6041. Information at source.
 
-6041A. Returns regarding payments of remuneration for services and direct sales. 1
+6041A. Returns regarding payments of remuneration for services and direct sales.
 
 6042. Returns regarding payments of dividends and corporate earnings and profits.
 
@@ -48,7 +48,7 @@ Sec.
 
 6050H. Returns relating to mortgage interest received in trade or business from individuals.
 
-6050I. Returns relating to cash received in trade or business, etc.. 2
+6050I. Returns relating to cash received in trade or business, etc.
 
 6050J. Returns relating to foreclosures and abandonments of security.
 
@@ -74,13 +74,15 @@ Sec.
 
 6050V. Returns relating to applicable insurance contracts in which certain exempt organizations hold interests.
 
-6050W. Returns relating to payments made in settlement of payment card transactions. 3
+6050W. Returns relating to payments made in settlement of payment card and third party network transactions.
 
 6050X. Information with respect to certain fines, penalties, and other amounts.
 
 6050Y. Returns relating to certain life insurance contract transactions.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(260)–(262), Mar. 23, 2018, 132 Stat. 1196, added item 6041A and substituted "Returns relating to cash received in trade or business, etc." for "Returns relating to cash received in trade or business, etc.." in item 6050I and "Returns relating to payments made in settlement of payment card and third party network transactions" for "Returns relating to payments made in settlement of payment card transactions" in item 6050W.
 
 **2017**—Pub. L. 115–97, title I, §§13306(b)(2), 13520(b), Dec. 22, 2017, 131 Stat. 2129, 2150, added items 6050X and 6050Y.
 
@@ -145,9 +147,3 @@ Pub. L. 98–21, title I, §121(f)(4), Apr. 20, 1983, 97 Stat. 84, added item 60
 Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 
 **1960**—Pub. L. 86–780, §7(b), Sept. 14, 1960, 74 Stat. 1016, substituted "Returns as to creation or organization, or reorganization, of foreign corporations" for "Returns as to formation or reorganization of foreign corporations," in item 6046.
-
-[<sup>1</sup> Editorially supplied. Section 6041A added by Pub. L. 97–248 without corresponding amendment of subpart analysis.](#I_1)
-
-[<sup>2</sup> So in original.](#I_2)
-
-[<sup>3</sup> So in original. Does not conform to section catchline.](#I_3)

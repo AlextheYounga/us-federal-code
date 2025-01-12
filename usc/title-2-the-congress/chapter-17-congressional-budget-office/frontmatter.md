@@ -12,6 +12,8 @@ Sec.
 
 605. Sale or lease of property, supplies, or services.
 
+605a. Contracting parity.
+
 606. Disposition of surplus or obsolete property.
 
 607. Lump-sum payments for annual leave to separated employees.

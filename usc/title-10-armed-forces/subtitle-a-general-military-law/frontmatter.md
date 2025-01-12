@@ -23,11 +23,13 @@ Chap. Sec.
 
 9. Defense Budget Matters 221
 
+9A. Audit 251 1
+
 11. Reserve Components 261
 
 12. The Militia 246
 
-13. Insurrection 251
+13. Insurrection 251 1
 
 14. Arming of American Vessels 261
 
@@ -169,7 +171,7 @@ Chap. Sec.
 
 111. Support of Science, Mathematics, and Engineering Education 2191
 
-112. Information Security Scholarship Program 2200
+112. Information Security Scholarship Program 2 2200
 
 ### **PART IV—SERVICE, SUPPLY, AND PROCUREMENT** ###
 
@@ -245,7 +247,13 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title VIII, §§805(a)(2), 846(2), title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2255, 2292, 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", added items for chapters 16 and 144B, and struck out item for chapter 144A "Major Automated Information System Programs".
+**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
+
+Pub. L. 115–91, div. A, title X, §1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §846(2), title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2292, 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", added item for chapter 16, and struck out item for chapter 144A "Major Automated Information System Programs".
+
+Pub. L. 114–328, div. A, title VIII, §805(a)(2), Dec. 23, 2016, 130 Stat. 2255, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, added item for chapter 144B.
 
 **2015**—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
 
@@ -362,3 +370,7 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 **1961**—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted "Retired Serviceman's Family Protection Plan" for "Annuities Based on Retired or Retainer Pay" in item for chapter 73.
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "[No present sections]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
+
+[<sup>1</sup> So in original. Chapters 9A and 13 both begin with a section 251.](#PARTIanalysis_1)
+
+[<sup>2</sup> Chapter heading amended by Pub. L. 115–91 without corresponding amendment of subtitle analysis.](#PARTIIIanalysis_2)

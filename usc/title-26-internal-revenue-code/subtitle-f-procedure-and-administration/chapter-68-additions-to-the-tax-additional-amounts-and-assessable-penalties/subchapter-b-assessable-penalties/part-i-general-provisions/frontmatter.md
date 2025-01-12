@@ -26,11 +26,11 @@ Sec.
 
 [6683. Repealed.]
 
-6684. Repeated liability for tax under chapter 42. 1
+6684. Assessable penalties with respect to liability for tax under chapter 42.
 
 6685. Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations.
 
-6686. Failure to file returns or supply information by DISC or FSC. 2
+6686. Failure to file returns or supply information by DISC or former FSC.
 
 [6687. Repealed.]
 
@@ -112,9 +112,9 @@ Sec.
 
 6720B. Fraudulent identification of exempt use property.
 
-6720C. Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance.
-
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(306), (307), (d)(7)(B), Mar. 23, 2018, 132 Stat. 1199, 1212, substituted "Assessable penalties with respect to liability for tax under chapter 42" for "Repeated liability for tax under chapter 42" in item 6684 and "Failure to file returns or supply information by DISC or former FSC" for "Failure to file returns or supply information by DISC or FSC" in item 6686 and struck out item 6720C "Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance".
 
 **2010**—Pub. L. 111–325, title V, §501(a), Dec. 22, 2010, 124 Stat. 3554, struck out item 6697 "Assessable penalties with respect to liability for tax of regulated investment companies".
 
@@ -213,7 +213,3 @@ Pub. L. 89–368, title I, §101(e)(4)(B), Mar. 15, 1966, 80 Stat. 62, added ite
 **1956**—Act June 29, 1956, ch. 462, title II, §208(e)(8), 70 Stat. 397, substituted "Excessive claims with respect to the use of certain gasoline" for "Excessive claims for gasoline used on farms" in item 6675.
 
 Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)
-
-[<sup>2</sup> Section catchline amended by Pub. L. 110–172 without corresponding amendment of analysis.](#I_2)

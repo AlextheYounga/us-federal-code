@@ -27,7 +27,7 @@ Chap. Sec.
 
 111. Support of Science, Mathematics, and Engineering Education 2191
 
-112. Information Security Scholarship Program 2200
+112. Information Security Scholarship Program 1 2200
 
 #### Amendments ####
 
@@ -60,3 +60,5 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 **1972**—Pub. L. 92–426, §2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
 
 **1964**—Pub. L. 88–647, title I, §101(2), title II, §201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
+
+[<sup>1</sup> Chapter heading amended by Pub. L. 115–91 without corresponding amendment of part analysis.](#PARTIII_1)

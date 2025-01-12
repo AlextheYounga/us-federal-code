@@ -5,7 +5,3 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 286; Pub. L. 86–780, §6(b)(2),
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 78 of this title.
-
-#### Increase in Earnings and Profits of Foreign Corporations Under Section 1023(e)(3)(C) of Pub. L. 99–514 ####
-
-Pub. L. 100–647, title I, §1012(b)(3), Nov. 10, 1988, 102 Stat. 3496, which related to increase in earnings and profits of foreign corporations under section 1023(e)(3)(C) of Pub. L. 99–514, was transferred and is set out as a note under section 960 of this title.

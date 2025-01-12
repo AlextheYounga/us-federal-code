@@ -362,7 +362,7 @@ For purposes of this subparagraph, the term "qualified employee-owner" means any
 
 In the case of any taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3)) which meets the gross receipts test of section 448(c) for any taxable year, this section shall not apply with respect to such taxpayer for such taxable year.
 
-#### (2) Application of gross receipts test to individuals, etc ####
+#### (2) Application of gross receipts test to individuals, etc. ####
 
 In the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership.
 
@@ -382,7 +382,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text ####
 
-The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (d)(2)(C)(II)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
+The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (d)(2)(C)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
 #### Amendments ####
 

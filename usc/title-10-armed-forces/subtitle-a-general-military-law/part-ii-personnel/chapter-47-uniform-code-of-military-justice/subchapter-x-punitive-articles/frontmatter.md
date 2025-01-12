@@ -71,9 +71,9 @@
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a.
+**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended Pub. L. 114–328, §5452. See 2016 Amendment note below.
 
-Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended section 5452 of Pub. L. 114–328. See 2016 Amendment note below.
+Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a.
 
 **2016**—Pub. L. 114–328, div. E, title LX, §5452, Dec. 23, 2016, 130 Stat. 2958, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended analysis generally, substituting items 877 to 934 for former items 877 to 934.
 
@@ -101,7 +101,7 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 
 #### Amendment of Analysis and Subchapter ####
 
-Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, 1600, provided that, effective as of Dec. 23, 2016, and as if included within the amendment made by section 5452 of Pub. L. 114–328, set out below, as enacted, this analysis is amended in the item relating to section 887a, by striking "Resistence" and inserting "Resistance", in the item relating to section 908, by striking "of the United States–Loss" and inserting "of United States–Loss,", in the item relating to section 909, by striking "of the" and inserting "of", and in the item relating to section 909a, by striking the second period at the end. See 2017 Amendment note above.
+Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1599, 1600, provided that, effective as of Dec. 23, 2016, and as if included within the amendment made by section 5452 of Pub. L. 114–328, set out below, as enacted, this analysis is amended in the item relating to section 887a, by striking "Resistence" and inserting "Resistance", in the item relating to section 908, by striking "of the United States–Loss" and inserting "of United States–Loss,", in the item relating to section 909, by striking "of the" and inserting "of", and in the item relating to section 909a, by striking the second period at the end. See 2017 Amendment note above.
 
 Pub. L. 114–328, div. E, title LX, §§5401–5452, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2937–2958, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, substantially reorganized and revised this subchapter and correspondingly amended the analysis, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After the effective date of the amendments made by Pub. L. 114–328, the analysis and this subchapter will read as follows:
 

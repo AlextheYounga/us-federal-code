@@ -28,7 +28,7 @@
 
 (B) Vulnerability identification and mitigation.
 
-(C) Architecture development(including space system architectures and associated user terminals and ground segments).
+(C) Architecture development (including space system architectures and associated user terminals and ground segments).
 
 (D) Resource prioritization.
 

@@ -4,7 +4,7 @@ Section, added Pub. L. 111–5, div. B, title I, §1531(a), Feb. 17, 2009, 123 S
 
 #### Effective Date of Repeal ####
 
-Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under former section 54 of this title.
+Repeal applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under former section 54 of this title.
 
 #### Transitional Coordination With State Law ####
 

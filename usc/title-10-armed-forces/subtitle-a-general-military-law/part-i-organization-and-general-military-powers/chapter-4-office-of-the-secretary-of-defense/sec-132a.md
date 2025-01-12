@@ -40,7 +40,7 @@
 
 #### Effective Date of 2017 Amendment ####
 
-Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516, provided that amendment by section 910(a)(1) is effective Feb. 1, 2018.
+Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516, provided that the amendment made by section 910(a)(1) is effective Feb. 1, 2018.
 
 #### Effective Date of 2014 Amendment ####
 

@@ -26,7 +26,7 @@ The amount of the unused credit for the unused credit year shall be carried to e
 
 Notwithstanding subsection (d), in the case of the marginal oil and gas well production credit—
 
-(A) this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit) or the eligible small business credits,
+(A) this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit),
 
 (B) paragraph (1) shall be applied by substituting "each of the 5 taxable years" for "the taxable year" in subparagraph (A) thereof, and
 
@@ -35,24 +35,6 @@ Notwithstanding subsection (d), in the case of the marginal oil and gas well pro
 (i) by substituting "25 taxable years" for "21 taxable years" in subparagraph (A) thereof, and
 
 (ii) by substituting "24 taxable years" for "20 taxable years" in subparagraph (B) thereof.
-
-#### (4) 5-year carryback for eligible small business credits ####
-
-#### (A) In general ####
-
-Notwithstanding subsection (d), in the case of eligible small business credits determined in the first taxable year of the taxpayer beginning in 2010—
-
-(i) paragraph (1) shall be applied by substituting "each of the 5 taxable years" for "the taxable year" in subparagraph (A) thereof, and
-
-(ii) paragraph (2) shall be applied—
-
-(I) by substituting "25 taxable years" for "21 taxable years" in subparagraph (A) thereof, and
-
-(II) by substituting "24 taxable years" for "20 taxable years" in subparagraph (B) thereof.
-
-#### (B) Eligible small business credits ####
-
-For purposes of this subsection, the term "eligible small business credits" has the meaning given such term by section 38(c)(5)(B).
 
 #### (b) Limitation on carrybacks ####
 
@@ -70,7 +52,7 @@ The amount of the unused credit which may be taken into account under section 38
 
 No portion of the unused business credit for any taxable year which is attributable to a credit specified in section 38(b) or any portion thereof may be carried back to any taxable year before the first taxable year for which such specified credit or such portion is allowable (without regard to subsection (a)).
 
-(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(l)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) [title I, §121(b)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title II, §245(b)(1), title III, §341(c), Oct. 22, 2004, 118 Stat. 1447, 1487; Pub. L. 109–135, title IV, §412(g), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 111–240, title II, §2012(a), (b), Sept. 27, 2010, 124 Stat. 2554.)
+(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(l)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) [title I, §121(b)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title II, §245(b)(1), title III, §341(c), Oct. 22, 2004, 118 Stat. 1447, 1487; Pub. L. 109–135, title IV, §412(g), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 111–240, title II, §2012(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 115–141, div. U, title IV, §401(b)(5)(E), (F), Mar. 23, 2018, 132 Stat. 1202.)
 
 #### Prior Provisions ####
 
@@ -79,6 +61,10 @@ A prior section 39 was renumbered section 34 of this title.
 Another prior section 39 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(3)(A). Pub. L. 115–141, §401(b)(5)(F), struck out "or the eligible small business credits" after "gas well production credit)".
+
+Subsec. (a)(4). Pub. L. 115–141, §401(b)(5)(E), struck out par. (4) which related to 5-year carryback for eligible small business credits.
 
 **2010**—Subsec. (a)(3)(A). Pub. L. 111–240, §2012(b), inserted "or the eligible small business credits" after "credit)".
 
@@ -199,6 +185,8 @@ Amendment by section 1846 of Pub. L. 99–514 effective, except as otherwise pro
 Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
 
 #### Savings Provision ####
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by section 11801(a)(2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

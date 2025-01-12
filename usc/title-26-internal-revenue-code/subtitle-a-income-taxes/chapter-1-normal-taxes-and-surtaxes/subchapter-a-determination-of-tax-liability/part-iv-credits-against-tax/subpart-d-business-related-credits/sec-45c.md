@@ -38,7 +38,7 @@ The term "clinical testing" means any human clinical testing—
 
 (I) after the date such drug is designated under section 526 of such Act, and
 
-(II) before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act; <sup><a href="#45C_1_target" name="45C_1">1</a></sup> and
+(II) before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Service Act, and
 
 (iii) which is conducted by or on behalf of the taxpayer to whom the designation under such section 526 applies.
 
@@ -70,17 +70,11 @@ Determinations under the preceding sentence with respect to any drug shall be ma
 
 #### (2) Special limitations on foreign testing ####
 
-#### (A) In general ####
-
 No credit shall be allowed under this section with respect to any clinical testing conducted outside the United States unless—
 
-(i) such testing is conducted outside the United States because there is an insufficient testing population in the United States, and
+(A) such testing is conducted outside the United States because there is an insufficient testing population in the United States, and
 
-(ii) such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
-
-#### (B) Special limitation for corporations to which section 936 applies ####
-
-No credit shall be allowed under this section with respect to any clinical testing conducted by a corporation to which an election under section 936 applies.
+(B) such testing is conducted by a United States person or by any other person who is not related to the taxpayer to whom the designation under section 526 of the Federal Food, Drug, and Cosmetic Act applies.
 
 #### (3) Certain rules made applicable ####
 
@@ -90,15 +84,19 @@ Rules similar to the rules of paragraphs (1) and (2) of section 41(f) shall appl
 
 This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.
 
-(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(2), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 113–295, div. A, title I, §111(b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(2), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §13401(a), Dec. 22, 2017, 131 Stat. 2133.)
+(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(2), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 113–295, div. A, title I, §111(b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(2), Dec. 18, 2015, 129 Stat. 3049; Pub. L. 115–97, title I, §13401(a), Dec. 22, 2017, 131 Stat. 2133; Pub. L. 115–141, div. U, title IV, §401(a)(17), (d)(1)(D)(iii), Mar. 23, 2018, 132 Stat. 1185, 1206.)
 
 #### References in Text ####
 
-Sections 505(b), (i) and 526 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(2)(A) and (d)(1), (2)(A)(ii), are classified to sections 355(b), (i) and 360bb, respectively, of Title 21, Food and Drugs.
+Sections 505(b), (i) and 526 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(2)(A) and (d)(1), (2)(B), are classified to sections 355(b), (i) and 360bb, respectively, of Title 21, Food and Drugs.
 
 Section 351 of the Public Health Service Act, referred to in subsec. (b)(2)(A)(ii)(II), is classified to section 262 of Title 42, The Public Health and Welfare.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(2)(A)(ii)(II). Pub. L. 115–141, §401(a)(17), substituted ", and" for "; and".
+
+Subsec. (d)(2). Pub. L. 115–141, §401(d)(1)(D)(iii), struck out subpar. (A) designation and heading, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpar. (B) which related to special limitation for corporations to which former section 936 applied.
 
 **2017**—Subsec. (a). Pub. L. 115–97 substituted "25 percent" for "50 percent".
 
@@ -288,6 +286,10 @@ Amendment by section 612(e)(1) of Pub. L. 98–369, applicable to interest paid 
 
 Pub. L. 97–414, §4(d), Jan. 4, 1983, 96 Stat. 2056, provided that: "The amendments made by this section [enacting this section and amending sections 280C and 6096 of this title] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date."
 
+#### Savings Provision ####
+
+For provisions that nothing in amendment by section 401(d)(1)(D)(iii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States ####
 
 For applicability of amendment by section 701(c)(2) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
@@ -295,5 +297,3 @@ For applicability of amendment by section 701(c)(2) of Pub. L. 99–514 notwiths
 #### Plan Amendments Not Required Until January 1, 1989 ####
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§1101–1147 and 1171–1177] or title XVIII [§§1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-[<sup>1</sup> So in original. The semicolon probably should be a comma.](#45C_1)

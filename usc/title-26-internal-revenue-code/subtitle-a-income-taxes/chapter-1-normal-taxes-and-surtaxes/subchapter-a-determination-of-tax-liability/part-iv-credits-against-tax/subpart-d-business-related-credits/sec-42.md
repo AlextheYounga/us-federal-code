@@ -214,7 +214,7 @@ The adjusted basis of any building shall be determined by taking into account th
 
 #### (i) In general ####
 
-The adjusted basis of any building located in a qualified census tract (as defined in paragraph (5)(C)) shall be determined by taking into account the adjusted basis of property (of a character subject to the allowance for depreciation and not otherwise taken into account) used throughout the taxable year in providing any community service facility.
+The adjusted basis of any building located in a qualified census tract (as defined in paragraph (5)(B)(ii)) shall be determined by taking into account the adjusted basis of property (of a character subject to the allowance for depreciation and not otherwise taken into account) used throughout the taxable year in providing any community service facility.
 
 #### (ii) Limitation ####
 
@@ -344,7 +344,7 @@ For purposes of paragraph (1)—
 
 The term "rehabilitation expenditures" means amounts chargeable to capital account and incurred for property (or additions or improvements to property) of a character subject to the allowance for depreciation in connection with the rehabilitation of a building.
 
-#### (B) Cost of acquisition, etc,<sup><a href="#42_1_target" name="42_1">1</a></sup> not included ####
+#### (B) Cost of acquisition, etc., not included ####
 
 Such term does not include the cost of acquiring any building (or interest therein) or any amount not permitted to be taken into account under paragraph (3) or (4) of subsection (d).
 
@@ -464,7 +464,7 @@ In the case of a building described in clause (ii)—
 
 A building is described in this clause if—
 
-(I) a waiver is granted under subsection (d)(6)(C) with respect to the acquisition of the building, and
+(I) a waiver is granted under subsection (d)(6)(B) with respect to the acquisition of the building, and
 
 (II) a credit would be allowed for rehabilitation expenditures with respect to such building if subsection (e)(3)(A)(ii)(I) did not apply and if the dollar amount in effect under subsection (e)(3)(A)(ii)(II) were two-thirds of such amount.
 
@@ -474,7 +474,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term "qualified low-income housing project" means any project for residential rental property if the project meets the requirements of subparagraph (A) or (B) whichever is elected by the taxpayer:
+The term "qualified low-income housing project" means any project for residential rental property if the project meets the requirements of subparagraph (A), (B), or (C) whichever is elected by the taxpayer:
 
 #### (A) 20–50 test ####
 
@@ -483,6 +483,28 @@ The project meets the requirements of this subparagraph if 20 percent or more of
 #### (B) 40–60 test ####
 
 The project meets the requirements of this subparagraph if 40 percent or more of the residential units in such project are both rent-restricted and occupied by individuals whose income is 60 percent or less of area median gross income.
+
+#### (C) Average income test ####
+
+#### (i) In general ####
+
+The project meets the minimum requirements of this subparagraph if 40 percent or more (25 percent or more in the case of a project described in section 142(d)(6)) of the residential units in such project are both rent-restricted and occupied by individuals whose income does not exceed the imputed income limitation designated by the taxpayer with respect to the respective unit.
+
+#### (ii) Special rules relating to income limitation ####
+
+For purposes of clause (i)—
+
+#### (I) Designation ####
+
+The taxpayer shall designate the imputed income limitation of each unit taken into account under such clause.
+
+#### (II) Average test ####
+
+The average of the imputed income limitations designated under subclause (I) shall not exceed 60 percent of area median gross income.
+
+#### (III) 10-percent increments ####
+
+The designated imputed income limitation of any unit under subclause (I) shall be 20 percent, 30 percent, 40 percent, 50 percent, 60 percent, 70 percent, or 80 percent of area median gross income.
 
 Any election under this paragraph, once made, shall be irrevocable. For purposes of this paragraph, any property shall not be treated as failing to be residential rental property merely because part of the building in which such property is located is used for purposes other than residential rental purposes.
 
@@ -520,11 +542,37 @@ In the case of a project with respect to which a credit is allowable by reason o
 
 #### (i) In general ####
 
-Except as provided in clause (ii), notwithstanding an increase in the income of the occupants of a low-income unit above the income limitation applicable under paragraph (1), such unit shall continue to be treated as a low-income unit if the income of such occupants initially met such income limitation and such unit continues to be rent-restricted.
+Except as provided in clauses (ii), (iii), and (iv), notwithstanding an increase in the income of the occupants of a low-income unit above the income limitation applicable under paragraph (1), such unit shall continue to be treated as a low-income unit if the income of such occupants initially met such income limitation and such unit continues to be rent-restricted.
 
-#### (ii) Next available unit must be rented to low-income tenant if income rises above 140 percent of income limit ####
+#### (ii) Rental of next available unit in case of 20–50 or 40–60 test ####
 
-If the income of the occupants of the unit increases above 140 percent of the income limitation applicable under paragraph (1), clause (i) shall cease to apply to such unit if any residential rental unit in the building (of a size comparable to, or smaller than, such unit) is occupied by a new resident whose income exceeds such income limitation. In the case of a project described in section 142(d)(4)(B), the preceding sentence shall be applied by substituting "170 percent" for "140 percent" and by substituting "any low-income unit in the building is occupied by a new resident whose income exceeds 40 percent of area median gross income" for "any residential unit in the building (of a size comparable to, or smaller than, such unit) is occupied by a new resident whose income exceeds such income limitation".
+In the case of a project with respect to which the taxpayer elects the requirements of subparagraph (A) or (B) of paragraph (1), if the income of the occupants of the unit increases above 140 percent of the income limitation applicable under paragraph (1), clause (i) shall cease to apply to such unit if any residential rental unit in the building (of a size comparable to, or smaller than, such unit) is occupied by a new resident whose income exceeds such income limitation.
+
+#### (iii) Rental of next available unit in case of average income test ####
+
+In the case of a project with respect to which the taxpayer elects the requirements of subparagraph (C) of paragraph (1), if the income of the occupants of the unit increases above 140 percent of the greater of—
+
+(I) 60 percent of area median gross income, or
+
+(II) the imputed income limitation designated with respect to the unit under paragraph (1)(C)(ii)(I),
+
+ clause (i) shall cease to apply to any such unit if any residential rental unit in the building (of a size comparable to, or smaller than, such unit) is occupied by a new resident whose income exceeds the limitation described in clause (v).
+
+#### (iv) Deep rent skewed projects ####
+
+In the case of a project described in section 142(d)(4)(B), clause (ii) or (iii), whichever is applicable, shall be applied by substituting "170 percent" for "140 percent", and—
+
+(I) in the case of clause (ii), by substituting "any low-income unit in the building is occupied by a new resident whose income exceeds 40 percent of area median gross income" for "any residential rental unit" and all that follows in such clause, and
+
+(II) in the case of clause (iii), by substituting "any low-income unit in the building is occupied by a new resident whose income exceeds the lesser of 40 percent of area median gross income or the imputed income limitation designated with respect to such unit under paragraph (1)(C)(ii)(I)" for "any residential rental unit" and all that follows in such clause.
+
+#### (v) Limitation described ####
+
+For purposes of clause (iii), the limitation described in this clause with respect to any unit is—
+
+(I) the imputed income limitation designated with respect to such unit under paragraph (1)(C)(ii)(I), in the case of a unit which was taken into account as a low-income unit prior to becoming vacant, and
+
+(II) the imputed income limitation which would have to be designated with respect to such unit under such paragraph in order for the project to continue to meet the requirements of paragraph (1)(C)(ii)(II), in the case of any other unit.
 
 #### (E) Units where Federal rental assistance is reduced as tenant's income increases ####
 
@@ -784,13 +832,9 @@ In the case of a calendar year after 2002, the $2,000,000 and $1.75 amounts in s
 
 (II) In the case of the $1.75 amount, any increase under clause (i) which is not a multiple of 5 cents shall be rounded to the next lowest multiple of 5 cents.
 
-#### (I) Increase in State housing credit ceiling for 2008 and 2009 ####
+#### (I) Increase in State housing credit ceiling for 2018, 2019, 2020, and 2021 ####
 
-In the case of calendar years 2008 and 2009—
-
-(i) the dollar amount in effect under subparagraph (C)(ii)(I) for such calendar year (after any increase under subparagraph (H)) shall be increased by $0.20, and
-
-(ii) the dollar amount in effect under subparagraph (C)(ii)(II) for such calendar year (after any increase under subparagraph (H)) shall be increased by an amount equal to 10 percent of such dollar amount (rounded to the next lowest multiple of $5,000).
+In the case of calendar years 2018, 2019, 2020, and 2021, each of the dollar amounts in effect under clauses (I) and (II) of subparagraph (C)(ii) for any calendar year (after any increase under subparagraph (H)) shall be increased by multiplying such dollar amount by 1.125.
 
 #### (4) Credit for buildings financed by tax-exempt bonds subject to volume cap not taken into account ####
 
@@ -822,7 +866,7 @@ For purposes of this paragraph, the term "qualified nonprofit organization" mean
 
 (i) such organization is described in paragraph (3) or (4) of section 501(c) and is exempt from tax under section 501(a),
 
-(ii) such organization is determined by the State housing credit agency not to be affiliated with or controlled by a for-profit organization; <sup><a href="#42_2_target" name="42_2">2</a></sup> and
+(ii) such organization is determined by the State housing credit agency not to be affiliated with or controlled by a for-profit organization, and
 
 (iii) 1 of the exempt purposes of such organization includes the fostering of low-income housing.
 
@@ -1016,7 +1060,7 @@ The term "compliance period" means, with respect to any building, the period of 
 
 #### (A) In general ####
 
-Except as otherwise provided in this paragraph, for purposes of subsection (b)(1), a new building shall be treated as federally subsidized for any taxable year if, at any time during such taxable year or any prior taxable year, there is or was outstanding any obligation the interest on which is exempt from tax under section 103 the proceeds of which <sup><a href="#42_3_target" name="42_3">3</a></sup> are or were used (directly or indirectly) with respect to such building or the operation thereof.
+Except as otherwise provided in this paragraph, for purposes of subsection (b)(1), a new building shall be treated as federally subsidized for any taxable year if, at any time during such taxable year or any prior taxable year, there is or was outstanding any obligation the interest on which is exempt from tax under section 103 the proceeds of which <sup><a href="#42_1_target" name="42_1">1</a></sup> are or were used (directly or indirectly) with respect to such building or the operation thereof.
 
 #### (B) Election to reduce eligible basis by proceeds of obligations ####
 
@@ -1084,7 +1128,7 @@ A unit shall not fail to be treated as a low-income unit merely because it is oc
 
 (ii) entirely by full-time students if such students are—
 
-(I) single parents and their children and such parents are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual and such children are not dependents (as so defined) of another individual other than a parent of such children, or.<sup><a href="#42_4_target" name="42_4">4</a></sup>
+(I) single parents and their children and such parents are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual and such children are not dependents (as so defined) of another individual other than a parent of such children, or
 
 (II) married and file a joint return.
 
@@ -1268,11 +1312,11 @@ If the requirements of subparagraphs (B), (C), and (D) are met with respect to a
 
 #### (B) Financing secured by property ####
 
-The requirements of this subparagraph are met with respect to any financing if such financing is secured by the qualified low-income building, except that this subparagraph shall not apply in the case of a federally assisted building described in subsection (d)(6)(B) if—
+The requirements of this subparagraph are met with respect to any financing if such financing is secured by the qualified low-income building, except that this subparagraph shall not apply in the case of a federally assisted building described in subsection (d)(6)(C) if—
 
 (i) a security interest in such building is not permitted by a Federal agency holding or insuring the mortgage secured by such building, and
 
-(ii) the proceeds from the financing (if any) are applied to acquire or improve such building..<sup><a href="#42_5_target" name="42_5">5</a></sup>
+(ii) the proceeds from the financing (if any) are applied to acquire or improve such building.
 
 #### (C) Portion of building attributable to financing ####
 
@@ -1384,7 +1428,7 @@ For purposes of this paragraph, the term "qualified allocation plan" means any p
 
 (II) projects obligated to serve qualified tenants for the longest periods, and
 
-(III) projects which are located in qualified census tracts (as defined in subsection (d)(5)(C)) and the development of which contributes to a concerted community revitalization plan, and
+(III) projects which are located in qualified census tracts (as defined in subsection (d)(5)(B)(ii)) and the development of which contributes to a concerted community revitalization plan, and
 
 (iii) which provides a procedure that the agency (or an agent or other private contractor of such agency) will follow in monitoring for noncompliance with the provisions of this section and in notifying the Internal Revenue Service of such noncompliance which such agency becomes aware of and in monitoring for noncompliance with habitability standards through regular site visits.
 
@@ -1472,7 +1516,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) [title I, §§131(a)–(c), 132–136], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055; Pub. L. 115–97, title I, §11002(d)(1)(G), (3), Dec. 22, 2017, 131 Stat. 2060, 2061.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) [title I, §§131(a)–(c), 132–136], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055; Pub. L. 115–97, title I, §11002(d)(1)(G), (3), Dec. 22, 2017, 131 Stat. 2060, 2061; Pub. L. 115–141, div. T, §§102(a), 103(a), (b), div. U, title IV, §401(a)(10)–(13), Mar. 23, 2018, 132 Stat. 1157, 1184, 1185.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -1509,6 +1553,34 @@ A prior section 42, added Pub. L. 94–12, title II, §203(a), Mar. 29, 1975, 89
 Another prior section 42 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (d)(4)(C)(i). Pub. L. 115–141, §401(a)(11)(A), substituted "as defined in paragraph (5)(B)(ii)" for "as defined in paragraph (5)(C)".
+
+Subsec. (e)(2)(B). Pub. L. 115–141, §401(a)(10), substituted "etc.," for "etc," in heading.
+
+Subsec. (f)(5)(B)(ii)(I). Pub. L. 115–141, §401(a)(11)(B), substituted "(d)(6)(B)" for "(d)(6)(C)".
+
+Subsec. (g)(1). Pub. L. 115–141, §103(a)(1), substituted "subparagraph (A), (B), or (C)" for "subparagraph (A) or (B)" in introductory provisions.
+
+Subsec. (g)(1)(C). Pub. L. 115–141, §103(a)(2), added subpar. (C).
+
+Subsec. (g)(2)(D)(i). Pub. L. 115–141, §103(b)(1), substituted "clauses (ii), (iii), and (iv)" for "clause (ii)".
+
+Subsec. (g)(2)(D)(ii). Pub. L. 115–141, §103(b)(2), in heading, substituted "Rental of next available unit in case of 20–50 or 40–60 test" for "Next available unit must be rented to low-income tenant if income rises above 140 percent of income limit", and, in text, substituted "In the case of a project with respect to which the taxpayer elects the requirements of subparagraph (A) or (B) of paragraph (1), if" for "If" and struck out at end "In the case of a project described in section 142(d)(4)(B), the preceding sentence shall be applied by substituting '170 percent' for '140 percent' and by substituting 'any low-income unit in the building is occupied by a new resident whose income exceeds 40 percent of area median gross income' for 'any residential unit in the building (of a size comparable to, or smaller than, such unit) is occupied by a new resident whose income exceeds such income limitation'."
+
+Subsec. (g)(2)(D)(iii) to (v). Pub. L. 115–141, §103(b)(3), added cls. (iii) to (v).
+
+Subsec. (h)(3)(I). Pub. L. 115–141, §102(a), amended subpar. (I) generally. Prior to amendment, subpar. (I) related to the increase in State housing credit ceiling for 2008 and 2009.
+
+Subsec. (h)(5)(C)(ii). Pub. L. 115–141, §401(a)(12), substituted ", and" for "; and".
+
+Subsec. (i)(3)(D)(ii)(I). Pub. L. 115–141, §401(a)(13), struck out period at end.
+
+Subsec. (k)(2)(B). Pub. L. 115–141, §401(a)(11)(C)(i), substituted "(d)(6)(C)" for "(d)(6)(B)" in introductory provisions.
+
+Subsec. (k)(2)(B)(ii). Pub. L. 115–141, §401(a)(11)(C)(ii), substituted "building." for "building.."
+
+Subsec. (m)(1)(B)(ii)(III). Pub. L. 115–141, §401(a)(11)(D), substituted "as defined in subsection (d)(5)(B)(ii)" for "as defined in subsection (d)(5)(C)".
 
 **2017**—Subsecs. (e)(3)(D)(ii), (h)(3)(H)(i)(II). Pub. L. 115–97, §11002(d)(1)(G), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -1984,6 +2056,12 @@ Subsec. (n)(1). Pub. L. 100–647, §1002(l)(25), inserted ", and, except for a
 
 **1986**—Subsec. (k)(1). Pub. L. 99–509 substituted "subparagraphs (D)(ii)(II) and (D)(iv)(I)" for "subparagraph (D)(iv)(I)".
 
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–141, div. T, §102(b), Mar. 23, 2018, 132 Stat. 1157, provided that: "The amendment made by this section [amending this section] shall apply to calendar years beginning after December 31, 2017."
+
+Pub. L. 115–141, div. T, §103(c), Mar. 23, 2018, 132 Stat. 1159, provided that: "The amendments made by this section [amending this section] shall apply to elections made under section 42(g)(1) of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Mar. 23, 2018]."
+
 #### Effective Date of 2017 Amendment ####
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -2376,12 +2454,4 @@ such building shall be treated as described in section 42(b)(1)(B) of such Code 
 
 The number of units to which the preceding sentence applies shall not exceed 150."
 
-[<sup>1</sup> So in original. Probably should be "etc.,".](#42_1)
-
-[<sup>2</sup> So in original. The semicolon probably should be a comma.](#42_2)
-
-[<sup>3</sup> So in original. See 2008 Amendment note below.](#42_3)
-
-[<sup>4</sup> So in original. The period probably should not appear.](#42_4)
-
-[<sup>5</sup> So in original.](#42_5)
+[<sup>1</sup> So in original. See 2008 Amendment note below.](#42_1)

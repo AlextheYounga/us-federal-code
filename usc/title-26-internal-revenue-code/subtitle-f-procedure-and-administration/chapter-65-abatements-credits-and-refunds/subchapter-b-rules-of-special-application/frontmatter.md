@@ -40,9 +40,11 @@ Sec.
 
 [6431. Repealed.]
 
-6432. COBRA premium assistance.
+[6432. Repealed.]
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212, struck out item 6432 "COBRA premium assistance".
 
 **2017**—Pub. L. 115–97, title I, §13404(b), Dec. 22, 2017, 131 Stat. 2138, struck out item 6431 "Credit for qualified bonds allowed to issuer".
 

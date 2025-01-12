@@ -50,7 +50,11 @@ Sec.
 
 220530. Other amateur sports organizations.
 
-#### SUBCHAPTER III—UNITED STATES CENTER FOR SAFE SPORT ####
+#### SUBCHAPTER III <sup><a href="#CHAPTER2205_1_target" name="CHAPTER2205_1">1</a></sup>—GRANT TO KEEP YOUNG ATHLETES SAFE ####
+
+220531. Grant to protect young athletes from abuse.
+
+#### SUBCHAPTER III <sup><a href="#CHAPTER2205_1_target" name="CHAPTER2205_1">1</a></sup>—UNITED STATES CENTER FOR SAFE SPORT ####
 
 220541. Designation of United States Center for Safe Sport.
 
@@ -60,8 +64,12 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 325, added item for subchapter III and items 220530 and 220541 to 220543.
+**2018**—Pub. L. 115–141, div. S, title III, §302(b), Mar. 23, 2018, 132 Stat. 1128, added item for subchapter III relating to grant to keep young athletes safe and item 220531.
+
+Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 325, added item for subchapter III relating to United States Center for Safe Sport and items 220530 and 220541 to 220543.
 
 **2006**—Pub. L. 109–284, §5(12), Sept. 27, 2006, 120 Stat. 1212, substituted "Short title and definitions" for "Definitions" in item 220501.
 
 **1998**—Pub. L. 105–277, div. C. title I, §142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted "Report" for "Annual report" in item 220511 and added item 220512.
+
+[<sup>1</sup> So in original. Two items for subchapter III have been enacted.](#CHAPTER2205_1)

@@ -30,9 +30,9 @@ Sec.
 
 6921. Office of Tribal Relations.
 
-#### SUBCHAPTER II—FARM AND FOREIGN AGRICULTURAL SERVICES ####
+#### SUBCHAPTER II—FARM PRODUCTION AND CONSERVATION ####
 
-6931. Under Secretary of Agriculture for Farm and Foreign Agricultural Services.
+6931. Under Secretary of Agriculture for Farm Production and Conservation.
 
 6932. Consolidated Farm Service Agency.
 

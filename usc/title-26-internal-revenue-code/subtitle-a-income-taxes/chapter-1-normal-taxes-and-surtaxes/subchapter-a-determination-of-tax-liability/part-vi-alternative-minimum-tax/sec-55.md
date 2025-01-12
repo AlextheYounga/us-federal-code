@@ -74,7 +74,7 @@ Terms used in this paragraph which are also used in section 1(h) shall have the 
 
 #### (1) In general ####
 
-For purposes of this section, the term "regular tax" means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a). Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
+For purposes of this section, the term "regular tax" means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a).<sup><a href="#55_1_target" name="55_1">1</a></sup> Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
 
 #### (2) Coordination with income averaging for farmers and fishermen ####
 
@@ -194,6 +194,10 @@ In the case of any taxable year to which subparagraph (A) applies, no adjustment
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### References in Text ####
+
+Section 27, referred to in subsec. (c)(1), was amended generally by Pub. L. 115–141, div. U, title IV, §401(d)(1)(A), Mar. 23, 2018, 132 Stat. 1206, and as so amended, no longer contains a subsec. (a) designation. Text of section 27 as amended by Pub. L. 115–141 is identical to that of former section 27(a).
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -212,7 +216,7 @@ Subsec. (b)(3). Pub. L. 115–97, §12001(b)(3)(B), substituted "paragraph (1)(A
 
 Subsec. (c)(1). Pub. L. 115–97, §12001(b)(4), struck out ", the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A" after "section 27(a)".
 
-Subsec. (d)(2). Pub. L. 115–97, §12001(b)(5)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "In the case of a corporation, the term 'exemption amount' means $40,000.".
+Subsec. (d)(2). Pub. L. 115–97, §12001(b)(5)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "In the case of a corporation, the term 'exemption amount' means $40,000."
 
 Subsec. (d)(2)(D). Pub. L. 115–97, §12001(b)(5)(B), struck out subpar. (D) which read as follows: "$150,000 in the case of a taxpayer described in paragraph (2)."
 
@@ -506,7 +510,13 @@ Amendment by section 1205(d)(6) of Pub. L. 104–188 applicable to amounts paid 
 
 Amendment by section 1401(b)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
-Amendment by section 1601(b)(2)(A) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, except as otherwise provided, see section 1601(c) of Pub. L. 104–188, set out as an Effective Date note under section 30A of this title.
+Pub. L. 104–188, title I, §1601(c), Aug. 20, 1996, 110 Stat. 1833, provided that:
+
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting section 30A and amending this section and sections 56, 59, and 936 of this title] shall apply to taxable years beginning after December 31, 1995.
+
+"(2) Special rule for qualified possession source investment income.—The amendments made by this section shall not apply to qualified possession source investment income received or accrued before July 1, 1996, without regard to the taxable year in which received or accrued.
+
+"(3) Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Aug. 20, 1996] and before October 1, 1996, only ½ of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) [enacting section 30A and amending this section and sections 56, 59, and 936 of this title] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction."
 
 #### Effective Date of 1993 Amendment ####
 
@@ -603,3 +613,5 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 [enacting t
 Pub. L. 94–455, title XXI, §2123, Oct. 4, 1976, 90 Stat. 1915, as amended by Pub. L. 98–369, div. A, title IV, §441(b)(1), July 18, 1984, 98 Stat. 815, provided that: "The Secretary of the Treasury shall publish annually information on the amount of tax paid by individual taxpayers with high total incomes. Total income for this purpose is to be calculated and set forth by adding to adjusted gross income any items of tax preference excluded from, or deducted in arriving at, adjusted gross income, and by subtracting any investment expenses incurred in the production of such income to the extent of the investment income. These data are to include the number of such individuals with total income over $200,000 who owe no Federal income tax (after credits) and the deductions, exclusions, or credits used by them to avoid tax."
 
 [Pub. L. 98–369, div. A, title IV, §441(b)(2), July 18, 1984, 98 Stat. 815, provided that: "The amendment made by paragraph (1) [amending section 2123 of Pub. L. 94–455, set out above] shall apply to information published after the date of the enactment of this Act [July 18, 1984]."]
+
+[<sup>1</sup> See References in Text note below.](#55_1)

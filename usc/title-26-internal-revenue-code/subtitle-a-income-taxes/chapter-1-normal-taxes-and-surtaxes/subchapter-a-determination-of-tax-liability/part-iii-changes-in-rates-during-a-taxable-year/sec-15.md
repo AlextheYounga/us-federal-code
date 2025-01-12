@@ -104,6 +104,10 @@ Amendment by Pub. L. 94–164 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30, provided that the amendment made by that section is effective with respect to taxable years ending after Dec. 31, 1963.
 
+#### Coordination of 2017 Amendment With Section 15 ####
+
+This section not to apply to any change in a rate of tax by reason of section 1(j) of this title, as added by Pub. L. 115–97, see section 1(j)(6) of this title.
+
 #### Coordination of 1997 Amendment With Section 15 ####
 
 Pub. L. 105–34, title I, §1(c), Aug. 5, 1997, 111 Stat. 788, provided that: "No amendment made by this Act [see Tables for classification] shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986."

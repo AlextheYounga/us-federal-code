@@ -84,9 +84,7 @@ Sec.
 
 198. Expensing of environmental remediation costs.
 
-[198A. Repealed.]
-
-[199. Repealed.]
+[198A, 199. Repealed.]
 
 199A. Qualified business income.
 

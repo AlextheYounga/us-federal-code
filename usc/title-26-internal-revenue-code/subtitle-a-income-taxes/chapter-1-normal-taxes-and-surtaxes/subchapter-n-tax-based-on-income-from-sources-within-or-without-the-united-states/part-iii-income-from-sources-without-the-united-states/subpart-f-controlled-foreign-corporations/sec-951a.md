@@ -90,7 +90,7 @@ The term "specified tangible property" means, except as provided in subparagraph
 
 In the case of property used both in the production of tested income and income which is not tested income, such property shall be treated as specified tangible property in the same proportion that the gross income described in subsection (c)(1)(A) produced with respect to such property bears to the total gross income produced with respect to such property.
 
-#### (3) Determination of adjusted basis ####
+#### (3) <sup><a href="#951A_1_target" name="951A_1">1</a></sup> Determination of adjusted basis ####
 
 For purposes of this subsection, notwithstanding any provision of this title (or any other provision of law) which is enacted after the date of the enactment of this section, the adjusted basis in any property shall be determined—
 
@@ -98,7 +98,7 @@ For purposes of this subsection, notwithstanding any provision of this title (or
 
 (B) by allocating the depreciation deduction with respect to such property ratably to each day during the period in the taxable year to which such depreciation relates.
 
-#### (3) Partnership property ####
+#### (3) <sup><a href="#951A_1_target" name="951A_1">1</a></sup> Partnership property ####
 
 For purposes of this subsection, if a controlled foreign corporation holds an interest in a partnership at the close of such taxable year of the controlled foreign corporation, such controlled foreign corporation shall take into account under paragraph (1) the controlled foreign corporation's distributive share of the aggregate of the partnership's adjusted bases (determined as of such date in the hands of the partnership) in tangible property held by such partnership to the extent such property—
 
@@ -167,3 +167,5 @@ The date of the enactment of this section, referred to in subsec. (d)(3), is the
 #### Effective Date ####
 
 Section applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14201(d) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 904 of this title.
+
+[<sup>1</sup> So in original. There are two pars. designated (3).](#951A_1)

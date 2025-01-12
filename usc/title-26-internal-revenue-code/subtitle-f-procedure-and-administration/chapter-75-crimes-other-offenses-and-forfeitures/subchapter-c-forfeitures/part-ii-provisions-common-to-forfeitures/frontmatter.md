@@ -12,13 +12,15 @@ Sec.
 
 7325. Personal property valued at $100,000 or less.
 
-7326. Disposal of forfeited or abandoned property in special cases.
+[7326. Repealed.]
 
 7327. Customs laws applicable.
 
 7328. Cross references.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(b)(50), Mar. 23, 2018, 132 Stat. 1205, struck out item 7326 "Disposal of forfeited or abandoned property in special cases".
 
 **1986**—Pub. L. 99–514, title XV, §1566(d), Oct. 22, 1986, 100 Stat. 2763, substituted "$100,000" for "$2,500" in item 7325.
 

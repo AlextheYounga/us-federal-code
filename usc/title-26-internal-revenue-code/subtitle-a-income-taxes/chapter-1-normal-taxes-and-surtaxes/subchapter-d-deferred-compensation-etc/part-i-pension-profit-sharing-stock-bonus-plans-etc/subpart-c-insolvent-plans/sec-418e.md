@@ -28,7 +28,7 @@ The term "insolvency year" means a plan year in which a plan is insolvent.
 
 #### (1) Determination of resource benefit level ####
 
-The plan sponsor of a plan in critical status, as described in subsection <sup><a href="#418E_1_target" name="418E_1">1</a></sup> 432(b)(2), shall determine in writing the plan's resource benefit level for each insolvency year, based on the plan sponsor's reasonable projection of the plan's available resources and the benefits payable under the plan.
+The plan sponsor of a plan in critical status, as described in section 432(b)(2), shall determine in writing the plan's resource benefit level for each insolvency year, based on the plan sponsor's reasonable projection of the plan's available resources and the benefits payable under the plan.
 
 #### (2) Uniformity of the benefit suspension ####
 
@@ -82,15 +82,15 @@ Except as provided in paragraph (4) or (5), a plan is not required to make retro
 
 #### (1) Triennial test ####
 
-As of the end of the first plan year in which a plan is in critical status, as described in subsection <sup><a href="#418E_1_target" name="418E_1">1</a></sup> 432(b)(2),,<sup><a href="#418E_2_target" name="418E_2">2</a></sup> and at least every 3 plan years thereafter (unless the plan is no longer in critical status, as described in subsection <sup><a href="#418E_1_target" name="418E_1">1</a></sup> 432(b)(2),),<sup><a href="#418E_2_target" name="418E_2">2</a></sup> the plan sponsor shall compare the value of plan assets for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
+As of the end of the first plan year in which a plan is in critical status, as described in section 432(b)(2), and at least every 3 plan years thereafter (unless the plan is no longer in critical status, as described in section 432(b)(2)), the plan sponsor shall compare the value of plan assets for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
 
 #### (2) Determination of insolvency ####
 
-If, at any time, the plan sponsor of a plan in critical status, as described in subsection <sup><a href="#418E_1_target" name="418E_1">1</a></sup> 432(b)(2), reasonably determines, taking into account the plan's recent and anticipated financial experience, that the plan's available resources are not sufficient to pay benefits under the plan when due for the next plan year, the plan sponsor shall make such determination available to interested parties.
+If, at any time, the plan sponsor of a plan in critical status, as described in section 432(b)(2), reasonably determines, taking into account the plan's recent and anticipated financial experience, that the plan's available resources are not sufficient to pay benefits under the plan when due for the next plan year, the plan sponsor shall make such determination available to interested parties.
 
 #### (3) Determination of resource benefit level ####
 
-The plan sponsor of a plan in critical status, as described in subsection <sup><a href="#418E_1_target" name="418E_1">1</a></sup> 432(b)(2), shall determine in writing for each insolvency year the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
+The plan sponsor of a plan in critical status, as described in section 432(b)(2), shall determine in writing for each insolvency year the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
 
 (4) For purposes of this subsection, the value of plan assets shall be the value of the available plan assets determined under regulations prescribed by the Secretary of the Treasury.
 
@@ -98,15 +98,15 @@ The plan sponsor of a plan in critical status, as described in subsection <sup>
 
 #### (1) Impending insolvency ####
 
-If the plan sponsor of a plan in critical status, as described in subsection <sup><a href="#418E_1_target" name="418E_1">1</a></sup> 432(b)(2), determines under subsection (d)(1) or (2) that the plan may become insolvent (within the meaning of subsection (b)(1)), the plan sponsor shall—
+If the plan sponsor of a plan in critical status, as described in section 432(b)(2), determines under subsection (d)(1) or (2) that the plan may become insolvent (within the meaning of subsection (b)(1)), the plan sponsor shall—
 
-(A) notify the Secretary,<sup><a href="#418E_3_target" name="418E_3">3</a></sup> the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
+(A) notify the Secretary and the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
 
 (B) inform the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
 #### (2) Resource benefit level ####
 
-No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in critical status, as described in subsection <sup><a href="#418E_1_target" name="418E_1">1</a></sup> 432(b)(2), shall notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of the resource benefit level determined in writing for that insolvency year.
+No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in critical status, as described in section 432(b)(2), shall notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of the resource benefit level determined in writing for that insolvency year.
 
 #### (3) Potential need for financial assistance ####
 
@@ -136,7 +136,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 (h) Subsections (a) and (c) shall not apply to a plan that, for the plan year, is operating under section 432(e)(9), regarding benefit suspensions by certain multiemployer plans in critical and declining status.
 
-(Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1282; amended Pub. L. 109–280, title II, §213(a), Aug. 17, 2006, 120 Stat. 917; Pub. L. 113–235, div. O, title I, §108(b)(2), Dec. 16, 2014, 128 Stat. 2787.)
+(Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1282; amended Pub. L. 109–280, title II, §213(a), Aug. 17, 2006, 120 Stat. 917; Pub. L. 113–235, div. O, title I, §108(b)(2), Dec. 16, 2014, 128 Stat. 2787; Pub. L. 115–141, div. U, title IV, §401(a)(92)–(94), Mar. 23, 2018, 132 Stat. 1188.)
 
 #### References in Text ####
 
@@ -148,19 +148,25 @@ Section 101(f)(1) of the Employee Retirement Income Security Act of 1974, referr
 
 #### Amendments ####
 
+**2018**—Pub. L. 115–141, §401(a)(92), substituted "section 432(b)(2)" for "subsection 432(b)(2)" wherever appearing.
+
+Subsec. (d)(1). Pub. L. 115–141, §401(a)(93), substituted "section 432(b)(2)," for "section 432(b)(2),,", "section 432(b)(2))" for "section 432(b)(2),)", and "compare the value of plan assets for that plan year with" for "compare the value of plan assets (determined in accordance with section 418B(b)(3)(B)(ii)) for that plan year with".
+
+Subsec. (e)(1)(A). Pub. L. 115–141, §401(a)(94), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of that determination, and".
+
 **2014**—Subsec. (c)(1). Pub. L. 113–235, §108(b)(2)(A), substituted "critical status, as described in subsection 432(b)(2)," for "reorganization".
 
 Subsec. (c)(2). Pub. L. 113–235, §108(b)(2)(B), designated existing provisions as subpar. (A), struck out "(within the meaning of section 418(b)(6))" after "pay status", and added subpar. (B).
 
 Subsec. (d). Pub. L. 113–235, §108(b)(2)(A), substituted "critical status, as described in subsection 432(b)(2)," for "reorganization" wherever appearing.
 
-Subsec. (d)(1). Pub. L. 113–235, §108(b)(2)(C)(i), which directed amendment of par. (1) by striking out "(determined in accordance with section 418B(3)(B)(ii))", was executed by striking out "(determined in accordance with section 418B(b)(3)(B)(ii))" after "compare the value of plan assets" to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 113–235, §108(b)(2)(C)(i), which directed amendment of par. (1) by striking out "(determined in accordance with section 418B(3)(B)(ii))", could not be executed because the phrase "(determined in accordance with section 418B(3)(B)(ii))" did not appear.
 
 Subsec. (d)(4). Pub. L. 113–235, §108(b)(2)(C)(ii), added par. (4).
 
 Subsec. (e)(1). Pub. L. 113–235, §108(b)(2)(A), substituted "critical status, as described in subsection 432(b)(2)," for "reorganization".
 
-Subsec. (e)(1)(A). Pub. L. 113–235, §108(b)(2)(D)(i), which directed substitution of "the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974" for "the corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries", was executed by making the substitution for "the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries" to reflect the probable intent of Congress.
+Subsec. (e)(1)(A). Pub. L. 113–235, §108(b)(2)(D)(i), which directed substitution of "the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974" for "the corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries", could not be executed because the phrase "the corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries" did not appear.
 
 Subsec. (e)(1)(B). Pub. L. 113–235, §108(b)(2)(D)(ii), substituted "section 101(f)(1) of the Employee Retirement Income Security Act of 1974" for "section 418A(a)(2) and the plan participants and beneficiaries".
 
@@ -181,9 +187,3 @@ Pub. L. 109–280, title II, §213(b), Aug. 17, 2006, 120 Stat. 918, provided th
 #### Effective Date ####
 
 Section effective, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on Sept. 26, 1980, expires, without regard to extensions agreed to after such date, or 3 years after Sept. 26, 1980, see section 210 of Pub. L. 96–364, set out as a note under section 194A of this title.
-
-[<sup>1</sup> So in original. Probably should be "section".](#418E_1)
-
-[<sup>2</sup> So in original.](#418E_2)
-
-[<sup>3</sup> So in original. The comma probably should be "and".](#418E_3)

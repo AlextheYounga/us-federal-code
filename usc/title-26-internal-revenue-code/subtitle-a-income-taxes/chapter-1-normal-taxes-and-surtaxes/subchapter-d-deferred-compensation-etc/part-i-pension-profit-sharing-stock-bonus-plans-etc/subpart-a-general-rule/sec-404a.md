@@ -82,7 +82,7 @@ There shall be amortized over a 10-year period any increase or decrease to the r
 
 (A) the adoption of the plan or a plan amendment,
 
-(B) experience gains and losses, and <sup><a href="#404A_1_target" name="404A_1">1</a></sup>
+(B) experience gains and losses,
 
 (C) any change in actuarial assumptions,
 
@@ -204,9 +204,11 @@ For purposes of section 481, any election under this section shall be treated as
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section (including regulations providing for the coordination of the provisions of this section with section 404 in the case of a plan which has been subject to both of such sections).
 
-(Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, §1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 109–280, title VIII, §801(c)(4), Aug. 17, 2006, 120 Stat. 995.)
+(Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, §1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 109–280, title VIII, §801(c)(4), Aug. 17, 2006, 120 Stat. 995; Pub. L. 115–141, div. U, title IV, §401(a)(74), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### Amendments ####
+
+**2018**—Subsec. (c)(4)(B). Pub. L. 115–141 struck out "and" at end.
 
 **2006**—Subsec. (g)(3)(A). Pub. L. 109–280 substituted "paragraphs (3) and (6) of section 431(c)" for "paragraphs (3) and (7) of section 412(c)".
 
@@ -281,5 +283,3 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 #### Plan Amendments Not Required Until January 1, 1989 ####
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§1101–1147 and 1171–1177] or title XVIII [§§1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-[<sup>1</sup> So in original. The word "and" probably should not appear.](#404A_1)

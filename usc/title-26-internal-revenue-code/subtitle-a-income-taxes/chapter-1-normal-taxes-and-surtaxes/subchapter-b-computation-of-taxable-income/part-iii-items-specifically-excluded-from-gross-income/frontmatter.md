@@ -84,7 +84,7 @@ Sec.
 
 139B. Benefits provided to volunteer firefighters and emergency medical responders.
 
-139C. COBRA premium assistance.
+[139C. Repealed.]
 
 139D. Indian health care benefits.
 
@@ -97,6 +97,8 @@ Sec.
 140. Cross references to other Acts.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(d)(7)(C), Mar. 23, 2018, 132 Stat. 1212, struck out item 139C "COBRA premium assistance".
 
 **2017**—Pub. L. 115–97, title I, §13821(a)(2), Dec. 22, 2017, 131 Stat. 2178, added item 139G.
 

@@ -112,7 +112,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 **1957**—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 
-#### Air Transportation of Civilian Department of Defense Personnel to and from Afghanistan ####
+#### Air Transportation of Civilian Department of Defense Personnel To and From Afghanistan ####
 
 Pub. L. 115–91, div. A, title X, §1098, Dec. 12, 2017, 131 Stat. 1626, provided that:
 

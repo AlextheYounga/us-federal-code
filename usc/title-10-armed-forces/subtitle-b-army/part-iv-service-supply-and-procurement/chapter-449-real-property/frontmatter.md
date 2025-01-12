@@ -22,7 +22,7 @@ Sec.
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–91, div. A., title X, §1081(a)(49)(B), Dec. 12, 2017, 131 Stat. 1597, struck out second item 4781 "Cyber Center for Education and Innovation-Home of the National Cryptologic Museum" after identical first item 4781.
+**2017**—Pub. L. 115–91, div. A, title X, §1081(a)(49)(B), Dec. 12, 2017, 131 Stat. 1597, struck out second item 4781 "Cyber Center for Education and Innovation-Home of the National Cryptologic Museum" after identical first item 4781.
 
 Pub. L. 115–31, div. N, title VI, §602(b), May 5, 2017, 131 Stat. 829, added identical second item 4781 after first item 4781.
 

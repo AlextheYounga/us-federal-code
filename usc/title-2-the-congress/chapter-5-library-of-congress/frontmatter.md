@@ -150,6 +150,8 @@ Sec.
 
 166. Congressional Research Service.
 
+166a. Equal access to Congressional Research Service Reports.
+
 167 to 167h. Repealed.
 
 167i. Suspension of prohibitions against use of Library buildings and grounds.
@@ -218,7 +220,7 @@ Sec.
 
 182a. Revolving fund for duplication services associated with audiovisual conservation center.
 
-182b. Revolving fund for gift shop, decimal classification, photo duplication, and related services.
+182b. Revolving fund for sales shop and other services.
 
 182c. Revolving fund for FEDLINK program and Federal Research program.
 

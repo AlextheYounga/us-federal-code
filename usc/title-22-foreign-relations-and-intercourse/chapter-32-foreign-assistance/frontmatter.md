@@ -612,6 +612,12 @@ Sec.
 
 2378a. Depleted uranium ammunition.
 
+2378b. Limitation on assistance to the Palestinian authority.
+
+2378c. Limitation on assistance for the West Bank and Gaza.
+
+2378c–1. Limitation on assistance to the West Bank and Gaza.
+
 2378d. Limitation on assistance to security forces.
 
 #### Part II—Administrative Provisions ####

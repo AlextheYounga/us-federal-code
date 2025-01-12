@@ -38,7 +38,7 @@ For delayed effective date of section, see Effective Date note below.
 
 **2017**—Subsec. (b)(4), (5). Pub. L. 115–91, §531(d)(1), added pars. (4) and (5).
 
-Subsec. (d). Pub. L. 115–91, §1081(c)(1)(H), which directed substitution of "court-martial" for "military judge" before period at end, could not be executed because of the prior amendment by Pub. L. 115–91, §531(d)(2). See below.
+Subsec. (d). Pub. L. 115–91, §1081(c)(1)(H), which directed substitution of "court-martial" for "military judge" the second place it appeared, could not be executed because of the prior amendment by Pub. L. 115–91, §531(d)(2). See below.
 
 Pub. L. 115–91, §531(d)(2), substituted "shall bind the parties and the court-martial" for "shall bind the parties and the military judge".
 

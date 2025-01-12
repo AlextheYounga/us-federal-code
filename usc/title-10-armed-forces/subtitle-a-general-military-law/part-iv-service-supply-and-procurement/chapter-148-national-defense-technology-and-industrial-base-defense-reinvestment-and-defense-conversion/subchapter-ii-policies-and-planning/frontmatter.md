@@ -20,6 +20,8 @@ Sec.
 
 #### Amendments ####
 
+**2017**—Pub. L. 115–91, div. A, title X, §1081(g)(2), Dec. 12, 2017, 131 Stat. 1601, amended directory language of Pub. L. 111–383, §896(b)(2). See 2011 Amendment note below.
+
 **2013**—Pub. L. 112–239, div. A, title XVI, §1603(a)(2), Jan. 2, 2013, 126 Stat. 2063, substituted "National security strategy for national technology and industrial base" for "National security objectives concerning national technology and industrial base" in item 2501.
 
 **2011**—Pub. L. 111–383, div. A, title VIII, §896(b)(2), Jan. 7, 2011, 124 Stat. 4316, as amended by Pub. L. 115–91, div. A, title X, §1081(g)(2), Dec. 12, 2017, 131 Stat. 1601, added item 2508.

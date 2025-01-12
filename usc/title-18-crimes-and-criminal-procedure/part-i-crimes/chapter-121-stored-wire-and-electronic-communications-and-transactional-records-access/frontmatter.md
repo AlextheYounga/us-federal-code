@@ -26,7 +26,11 @@ Sec.
 
 2712. Civil actions against the United States.
 
+2713. Required preservation and disclosure of communications and records.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. V, §103(a)(2), Mar. 23, 2018, 132 Stat. 1214, added item 2713.
 
 **2002**—Pub. L. 107–273, div. B, title IV, §4005(b), Nov. 2, 2002, 116 Stat. 1812, made technical correction to directory language of Pub. L. 107–56, title II, §223(c)(2), Oct. 26, 2001, 115 Stat. 295, effective Oct. 26, 2001. See 2001 Amendment note below.
 

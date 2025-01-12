@@ -8,25 +8,25 @@ Sec.
 
 1601. Renewable Resource Assessment.
 
-1602. Renewable Resource Program; preparation by Secretary of Agriculture and transmittal to President; purpose and development of program; time of preparation, updating and contents.
+1602. Renewable Resource Program; preparation by Secretary and transmittal to President; purpose and development of program; time of preparation, updating and contents.
 
-1603. National Forest System resource inventories; development, maintenance, and updating by Secretary of Agriculture as part of Assessment.
+1603. National Forest System resource inventories; development, maintenance, and updating by Secretary as part of Assessment.
 
 1604. National Forest System land and resource management plans.
 
-1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary of Agriculture to assist States, etc.
+1605. Protection, use and management of renewable resources on non-Federal lands; utilization of Assessment, surveys and Program by Secretary to assist States, etc.
 
 1606. Budget requests by President for Forest Service activities.
 
 1606a. Reforestation Trust Fund.
 
-1607. National Forest System renewable resources; development and administration by Secretary of Agriculture in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests.
+1607. National Forest System renewable resources; development and administration by Secretary in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests.
 
 1608. National Forest Transportation System.
 
 1609. National Forest System.
 
-1610. Implementation of provisions by Secretary of Agriculture; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; "renewable resources" defined.
+1610. Implementation of provisions by Secretary; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; "renewable resources" defined.
 
 1611. Timber.
 

@@ -8,7 +8,7 @@
 
 #### Codification ####
 
-Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a) and (b) of section 1003 of Pub. L. 114–328, div. A, title X, Dec. 23, 2016, 130 Stat. 2380, which was formerly set out as a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(f)(3), Dec. 12, 2017, 131 Stat. 1542.
+Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a) and (b) of section 1003 of Pub. L. 114–328, div. A, title X, Dec. 23, 2016, 130 Stat. 2380, which were formerly set out in a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(f)(3), Dec. 12, 2017, 131 Stat. 1542.
 
 #### Amendments ####
 

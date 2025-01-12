@@ -14,6 +14,8 @@ Sec.
 
 2605. Oregon and California land-grant fund; annual distribution of moneys.
 
+2606. Oregon and California Railroad revested lands and Coos Bay Wagon Road reconveyed lands.
+
 #### SUBCHAPTER II—DISPOSITION OF FUNDS ####
 
 2621. Coos Bay Wagon Road grant fund; annual payments; appraisal and assessment of land and timber; computation of payments.

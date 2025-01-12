@@ -38,7 +38,7 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–91, div. A, title X, §1081(a)(51), Dec. 12, 2017, 131 Stat. 1597, reduced from capital to lower-case the first letter of "readiness" in item 9517.
+**2017**—Pub. L. 115–91, div. A, title X, §1081(a)(51), Dec. 12, 2017, 131 Stat. 1597, substituted "readiness" for "Readiness" in item 9517.
 
 **2015**—Pub. L. 114–92, div. A, title X, §1085(b)(2), Nov. 25, 2015, 129 Stat. 1005, added item 9517.
 

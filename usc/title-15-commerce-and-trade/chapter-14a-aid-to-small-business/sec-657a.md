@@ -448,7 +448,7 @@ The Administrator shall conduct program examinations of qualified HUBZone small 
 
 A HUBZone small business concern that, based on the results of an examination conducted pursuant to paragraph (5) no longer meets the requirements of paragraph (1), shall have 30 days to submit documentation to the Administrator to be eligible to be certified as a qualified HUBZone small business concern. During the 30-day period, such concern may not compete for or be awarded a contract under this section. If such concern fails to meet the requirements of paragraph (1) by the last day of the 30-day period, the Administrator shall not certify such concern as a qualified HUBZone small business concern.
 
-#### (7) Hubzone online tool ####
+#### (7) HUBZone online tool ####
 
 #### (A) In general ####
 
@@ -468,7 +468,7 @@ The online tool required under subparagraph (A) shall clearly and conspicuously 
 
 The Administrator shall include in the online tool a notification of the date on which the online tool, and the data used to create the online tool, will be updated.
 
-#### (8) List of qualified hubzone small business concerns ####
+#### (8) List of qualified HUBZone small business concerns ####
 
 The Administrator shall establish and publicly maintain on the internet a list of qualified HUBZone small business concerns that shall—
 
@@ -490,7 +490,7 @@ In addition to the penalties described in section 645(d) of this title, any smal
 
 #### (1) In general ####
 
-Not later than 1 year after December 12, 2017, the Administrator shall publish performance metrics designed to measure the success of the HUBZone program established under this section in meeting the program's objective of promoting economic development in economically distressed areas (as defined in section 636(m)(11) <sup><a href="#657a_1_target" name="657a_1">1</a></sup> of this title).
+Not later than 1 year after December 12, 2017, the Administrator shall publish performance metrics designed to measure the success of the HUBZone program established under this section in meeting the program's objective of promoting economic development in economically distressed areas (as defined in section 636(m)(11) of this title).
 
 #### (2) Collecting and managing HUBZone data ####
 
@@ -528,7 +528,7 @@ A prior section 2[31] of Pub. L. 85–536 was renumbered section 2[47] and is se
 
 Subsec. (b). Pub. L. 115–91, §1701(a)(2)(A), substituted "In this section:" for "In this chapter:" in introductory provisions.
 
-Pub. L. 115–91, §1701(a)(2), transferred subsec. (p) of section 632 of this title and redesignated it as subsec. (b) of this section. See Codification note above. Former subsec. (b) redesignated (c).
+Pub. L. 115–91, §1701(a)(2), transferred subsec. (p) of section 632 of this title and redesignated it as subsec. (b) of this section. Former subsec. (b) redesignated (c).
 
 Subsec. (b)(1). Pub. L. 115–91, §1701(a)(2)(B), substituted "terms" for "term" and "or 'HUBZone' mean" for "means" in introductory provisions.
 

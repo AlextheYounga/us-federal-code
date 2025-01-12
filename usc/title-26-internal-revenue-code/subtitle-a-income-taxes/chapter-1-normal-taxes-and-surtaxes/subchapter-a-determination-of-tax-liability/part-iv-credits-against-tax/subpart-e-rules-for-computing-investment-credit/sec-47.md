@@ -362,7 +362,7 @@ Pub. L. 115–97, title I, §13402(c), Dec. 22, 2017, 131 Stat. 2134, provided t
 
 "(A) owned or leased by the taxpayer during the entirety of the period after December 31, 2017, and
 
-"(B) with respect to which the 24-month period selected by the taxpayer under clause (i) of section 47(c)(1)(B) of the Internal Revenue Code [26 U.S.C. 47(c)(1)(B)(i)] (as amended by subsection (b)), or the 60-month period applicable under clause (ii) of such section, begins not later than 180 days after the date of the enactment of this Act [Dec. 22, 2017],
+"(B) with respect to which the 24-month period selected by the taxpayer under clause (i) of section 47(c)(1)(B) of the Internal Revenue Code (as amended by subsection (b)), or the 60-month period applicable under clause (ii) of such section, begins not later than 180 days after the date of the enactment of this Act [Dec. 22, 2017],
 
 the amendments made by this section shall apply to such expenditures paid or incurred after the end of the taxable year in which the 24-month period, or the 60-month period, referred to in subparagraph (B) ends."
 

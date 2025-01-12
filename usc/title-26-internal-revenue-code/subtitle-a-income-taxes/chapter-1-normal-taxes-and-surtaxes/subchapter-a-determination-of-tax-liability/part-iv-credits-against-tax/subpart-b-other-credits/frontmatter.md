@@ -2,13 +2,11 @@
 
 Sec.
 
-27. Taxes of foreign countries and possessions of the United States; possession tax credit.
+27. Taxes of foreign countries and possessions of the United States.
 
 [28, 29. Renumbered.]
 
-[30. Repealed.]
-
-30A. Puerto Rico economic activity credit.
+[30, 30A. Repealed.]
 
 30B. Alternative motor vehicle credit.
 
@@ -17,6 +15,10 @@ Sec.
 30D. New qualified plug-in electric drive motor vehicles.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(i), Mar. 23, 2018, 132 Stat. 1206, substituted "Taxes of foreign countries and possessions of the United States" for "Taxes of foreign countries and possessions of the United States; possession tax credit" in item 27.
+
+Pub. L. 115–141, div. U, title IV, §401(d)(1)(B), Mar. 23, 2018, 132 Stat. 1206, which directed amendment of the table of sections for subpart C of part IV of subchapter A of chapter 1 by striking out item 30A "Puerto Rico economic activity credit", was executed to the table of sections for this subpart to reflect the probable intent of Congress.
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(2)(A), Dec. 19, 2014, 128 Stat. 4037, struck out item 30 "Certain plug-in electric vehicles".
 

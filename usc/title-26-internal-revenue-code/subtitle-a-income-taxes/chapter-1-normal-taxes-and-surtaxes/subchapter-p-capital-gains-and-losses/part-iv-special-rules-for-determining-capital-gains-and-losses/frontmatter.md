@@ -46,7 +46,7 @@ Sec.
 
 [1251. Repealed.]
 
-1252. Gain from the disposition of farm land. 1
+1252. Gain from disposition of farm land.
 
 1253. Transfers of franchises, trademarks, and trade names.
 
@@ -65,6 +65,8 @@ Sec.
 1260. Gains from constructive ownership transactions.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U. title IV, §401(a)(173), Mar. 23, 2018, 132 Stat. 1192, substituted "Gain from disposition of farm land" for "Gain from the disposition of farm land"
 
 **2004**—Pub. L. 108–357, title IV, §413(c)(32), Oct. 22, 2004, 118 Stat. 1510, struck out items 1246 "Gain on foreign investment company stock" and 1247 "Election by foreign investment companies to distribute income currently".
 

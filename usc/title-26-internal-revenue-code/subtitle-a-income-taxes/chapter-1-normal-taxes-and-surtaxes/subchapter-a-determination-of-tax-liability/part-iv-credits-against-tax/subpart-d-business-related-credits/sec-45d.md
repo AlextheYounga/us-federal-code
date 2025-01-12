@@ -190,7 +190,7 @@ There is a new markets tax credit limitation for each calendar year. Such limita
 
 (E) $5,000,000,000 for 2008,
 
-(F) $5,000,000,000 for 2009 <sup><a href="#45D_1_target" name="45D_1">1</a></sup>
+(F) $5,000,000,000 for 2009, and
 
 (G) $3,500,000,000 for each of calendar years 2010 through 2019.
 
@@ -244,7 +244,7 @@ Any increase in tax under this subsection shall not be treated as a tax imposed 
 
 #### (h) Basis reduction ####
 
-The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.
+The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of section 1202.
 
 #### (i) Regulations ####
 
@@ -262,13 +262,17 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) [title I, §121(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
+(Added Pub. L. 106–554, §1(a)(7) [title I, §121(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056; Pub. L. 115–141, div. U, title IV, §401(a)(18), (d)(4)(B)(iii), Mar. 23, 2018, 132 Stat. 1185, 1209.)
 
 #### References in Text ####
 
 Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97, title I, §13313(a), Dec. 22, 2017, 131 Stat. 2133.
 
 #### Amendments ####
+
+**2018**—Subsec. (f)(1)(F). Pub. L. 115–141, §401(a)(18), inserted ", and" at end.
+
+Subsec. (h). Pub. L. 115–141, §401(d)(4)(B)(iii), substituted "section 1202" for "sections 1202, 1400B, and 1400F".
 
 **2015**—Subsec. (f)(1)(G). Pub. L. 114–113, §141(a), substituted "for each of calendar years 2010 through 2019" for "for 2010, 2011, 2012, 2013, and 2014".
 
@@ -336,6 +340,12 @@ Pub. L. 108–357, title II, §223(b), Oct. 22, 2004, 118 Stat. 1432, provided t
 
 Section applicable to investments made after Dec. 31, 2000, see §1(a)(7) [title I, §121(e)] of Pub. L. 106–554, set out as a Effective Date of 2000 Amendment note under section 38 of this title.
 
+#### Savings Provision ####
+
+Amendment by section 401(d)(4)(B)(iii) of Pub. L. 115–141 not applicable to certain obligations issued, DC Zone assets acquired, or principal residences acquired before Jan. 1, 2012, see section 401(d)(4)(C) of Pub. L. 115–141, set out as a note under former section 1400A of this title.
+
+For provisions that nothing in amendment by section 401(d)(4)(B)(iii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Special Rule for Allocation of Increased 2008 Limitation ####
 
 Pub. L. 111–5, div. B, title I, §1403(b), Feb. 17, 2009, 123 Stat. 352, provided that: "The amount of the increase in the new markets tax credit limitation for calendar year 2008 by reason of the amendments made by subsection (a) [amending this section] shall be allocated in accordance with section 45D(f)(2) of the Internal Revenue Code of 1986 to qualified community development entities (as defined in section 45D(c) of such Code) which—
@@ -361,5 +371,3 @@ Pub. L. 106–554, §1(a)(7) [title I, §121(f)], Dec. 21, 2000, 114 Stat. 2763,
 Pub. L. 106–554, §1(a)(7) [title I, §121(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section."
 
 [<sup>1</sup> See References in Text note below.](#45D_1)
-
-[<sup>1</sup> So in original. Probably should be followed by ", and".](#45D_1)

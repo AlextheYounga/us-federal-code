@@ -15,7 +15,7 @@
 
 #### Amendment of Analysis ####
 
-Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that amendment by section 1081(d)(19)(A), (B) of Pub. L. 115–91, amending section 5541(2)(A), (C) of Pub. L. 114–328, set out below, is effective as of Dec. 23, 2016, and as if included within the amendment made by Pub. L. 114–328, as enacted. See 2017 Amendment note below.
+Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1599, amended Pub. L. 114–328, §5541(2), set out in part below, effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2017 Amendment note below.
 
 Pub. L. 114–328, div. E, title LXIII, §§5541(2)(A), (C), 5542, Dec. 23, 2016, 130 Stat. 2965, 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 825a and 829 and inserting the following new items:
 
@@ -28,7 +28,7 @@ See 2016 Amendment note below.
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, amended section 5541(2) of Pub. L. 114–328. See 2016 Amendment note below.
+**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, §5541(2). See 2016 Amendment note below.
 
 **2016**—Pub. L. 114–328, div. E, title LXIII, §5541(2), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, added items 825a, 826a, and 829 and struck out former items 825a "Art. 25a. Number of members in capital cases" and 829 "Art. 29. Absent and additional members".
 

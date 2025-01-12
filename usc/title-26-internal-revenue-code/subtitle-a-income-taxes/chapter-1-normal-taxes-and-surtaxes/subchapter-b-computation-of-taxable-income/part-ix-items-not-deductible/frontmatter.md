@@ -64,9 +64,11 @@ Sec.
 
 280G. Golden parachute payments.
 
-280H. Limitation on certain amounts paid to owner-employees by personal service corporations electing alternative taxable years. 1
+280H. Limitation on certain amounts paid to employee-owners by personal service corporations electing alternative taxable years.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(59), Mar. 23, 2018, 132 Stat. 1187, substituted "Limitation on certain amounts paid to employee-owners by personal service corporations electing alternative taxable years" for "Limitation on certain amounts paid to owner-employees by personal service corporations electing alternative taxable years" in item 280H.
 
 **2017**—Pub. L. 115–97, title I, §14222(b), Dec. 22, 2017, 131 Stat. 2220, added item 267A.
 
@@ -101,5 +103,3 @@ Sec.
 **1964**—Pub. L. 88–272, title II, §§207(b)(3)(B), 227(b)(4), Feb. 26, 1964, 78 Stat. 42, 98, inserted "or domestic iron ore" in item 272, and added item 275.
 
 **1962**—Pub. L. 87–834, §4(a)(2), Oct. 16, 1962, 76 Stat. 976, added item 274.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

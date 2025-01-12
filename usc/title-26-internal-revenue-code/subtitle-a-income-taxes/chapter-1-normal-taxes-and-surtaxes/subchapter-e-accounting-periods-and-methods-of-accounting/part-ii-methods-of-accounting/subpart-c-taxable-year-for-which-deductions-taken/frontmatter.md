@@ -6,7 +6,7 @@ Sec.
 
 [462, 463. Repealed.]
 
-464. Limitations on deductions for certain farming expenses. 1
+464. Limitations on deductions for certain farming expenses.
 
 465. Deductions limited to amount at risk.
 
@@ -41,5 +41,3 @@ Sec.
 **1975**—Pub. L. 93–625, §4(b), Jan. 3, 1975, 88 Stat. 2111, added item 463.
 
 **1955**—Act June 15, 1955, ch. 143, §2(3), 69 Stat. 135, struck out item 462 "Reserves for estimated expenses, etc."
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

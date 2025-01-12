@@ -78,7 +78,7 @@ Pub. L. 115–91, div. A, title V, §531(a), (p), Dec. 12, 2017, 131 Stat. 1384,
 
 *"(B) To the extent practicable, a petition for a writ of mandamus described in this subsection shall have priority over all other proceedings before the Court of Criminal Appeals.*
 
-*"(C) Review of any decision of the Court of Criminal Appeals on a petition for a writ of mandamus described in this subsection shall have priority in the Court of Appeals for the Armed Forces, as determined under the rules of the Court of Appeals for the Armed Forces.".*
+*"(C) Review of any decision of the Court of Criminal Appeals on a petition for a writ of mandamus described in this subsection shall have priority in the Court of Appeals for the Armed Forces, as determined under the rules of the Court of Appeals for the Armed Forces."*
 
 See 2017 Amendment note below.
 
@@ -108,9 +108,9 @@ See 2016 Amendment notes below.
 
 #### Amendments ####
 
-**2017**—Subsec. (b). Pub. L. 115–91, §1081(a)(22), struck out "(the Uniform Code of Military Justice)" after "this chapter".
+**2017**—Subsec. (b). Pub. L. 115–91, §1081(c)(1)(B), which directed striking out "(the Uniform Code of Military Justice)" after "this chapter", was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2017 Amendment note below.
 
-Pub. L. 115–91, §1081(c)(1)(B), which directed striking out "(the Uniform Code of Military Justice)" after "this chapter", was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91 to reflect the probable intent of Congress. See amendment note above and Effective Date of 2017 Amendment note below.
+Pub. L. 115–91, §1081(a)(22), struck out "(the Uniform Code of Military Justice)" after "this chapter".
 
 Subsec. (e)(3). Pub. L. 115–91, §531(a), designated existing provisions as subpar. (A), substituted "prescribed by the President, subject to section 830a of this title (article 30a)" for "prescribed by the President, and, to the extent practicable, shall have priority over all other proceedings before the court", and added subpars. (B) and (C).
 

@@ -56,7 +56,7 @@ Amounts in the accounts of the revolving fund under this section shall be availa
 
 #### (1) FEDLINK ####
 
-In this section, the "FEDLINK program" is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, and the District of Columbia:
+In this section, the "FEDLINK program" is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, tribal governments (as defined in 40 U.S.C. 502(c)(2)(B)) <sup><a href="#182c_2_target" name="182c_2">2</a></sup> and the District of Columbia:
 
 (A) The procurement of commercial information services, publications in any format, and library support services.
 
@@ -68,14 +68,20 @@ In this section, the "FEDLINK program" is the program of the Library of Congress
 
 In this section, the "Federal Research program" is the program of the Library of Congress under which the Librarian provides research reports, translations, and analytical studies for entities of the Federal Government and the District of Columbia (other than any program of the Congressional Research Service).
 
-(Pub. L. 106–481, title I, §103, Nov. 9, 2000, 114 Stat. 2189.)
+(Pub. L. 106–481, title I, §103, Nov. 9, 2000, 114 Stat. 2189; Pub. L. 115–141, div. I, title I, §151(2), Mar. 23, 2018, 132 Stat. 784.)
 
 #### References in Text ####
 
 Sections 182a to 182d of this title, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 106–481, Nov. 9, 2000, 114 Stat. 2187, known as the Library of Congress Fiscal Operations Improvement Act of 2000, which enacted this section and sections 182b to 182d of this title, amended section 154 of this title, and enacted provisions set out as notes under this section and section 154 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 182a of this title and Tables.
+
+#### Amendments ####
+
+**2018**—Subsec. (f)(1). Pub. L. 115–141 inserted "tribal governments (as defined in 40 U.S.C. 502(c)(2)(B))" after "the Federal Government," in introductory provisions.
 
 #### Effective Date ####
 
 Section applicable with respect to fiscal year 2002 and each succeeding fiscal year, see section 105 of Pub. L. 106–481, set out as a note under section 182a of this title.
 
 [<sup>1</sup> So in original. Probably should not be capitalized.](#182c_1)
+
+[<sup>2</sup> So in original. Probably should be followed by a comma.](#182c_2)

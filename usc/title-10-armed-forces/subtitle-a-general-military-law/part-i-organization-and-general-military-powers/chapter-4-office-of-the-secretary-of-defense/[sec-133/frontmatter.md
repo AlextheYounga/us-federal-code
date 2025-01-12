@@ -2,8 +2,6 @@
 
 Section, added Pub. L. 99–348, title V, §501(a), July 1, 1986, 100 Stat. 707, §134a; renumbered §133 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, §101(c) [title X, §901], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, §101(c) [title X, §901], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, §901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, §904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719; Pub. L. 107–107, div. A, title VIII, §801(a), Dec. 28, 2001, 115 Stat. 1174; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §907, Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–350, §5(b)(1), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 113–291, div. A, title IX, §901(j)(2)(A), Dec. 19, 2014, 128 Stat. 3467; Pub. L. 114–92, div. A, title VIII, §825(b), Nov. 25, 2015, 129 Stat. 908; Pub. L. 115–91, div. A, title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597, related to Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-#### Prior Provisions ####
-
 A prior section 133 was renumbered section 113 of this title.
 
 #### Change of Name ####

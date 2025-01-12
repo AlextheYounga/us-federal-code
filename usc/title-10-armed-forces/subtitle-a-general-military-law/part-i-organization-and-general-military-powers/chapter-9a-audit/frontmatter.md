@@ -16,4 +16,4 @@ Sec.
 
 #### Codification ####
 
-Chapter enacted and added after chapter 9 of this title by Pub. L. 115–91, div. A, title X, §1002(a)(1), Dec. 12, 2017, 131 Stat. 1537, resulting in out-of-sequence numbering. Sections 251 to 254 also appear in chapter 13 of this title.
+Chapter enacted and added after chapter 9 of this title by Pub. L. 115–91, div. A, title X, §1002(a)(1), Dec. 12, 2017, 131 Stat. 1537, resulting in out-of-sequence numbering. Sections numbered 251 to 254 also appear in chapter 13 of this title.

@@ -12,8 +12,6 @@ Sec.
 
 41. Credit for increasing research activities.
 
-41. 1 Employee stock ownership credit.
-
 42. Low-income housing credit.
 
 43. Enhanced oil recovery credit.
@@ -42,13 +40,13 @@ Sec.
 
 45I. Credit for producing oil and gas from marginal wells.
 
-45K. 2 Credit for producing fuel from a nonconventional source.
-
 45J. Credit for production from advanced nuclear power facilities.
+
+45K. Credit for producing fuel from a nonconventional source.
 
 45L. New energy efficient home credit.
 
-45M. Energy efficient appliance credit.
+[45M. Repealed.]
 
 45N. Mine rescue team training credit.
 
@@ -63,6 +61,8 @@ Sec.
 45S. Employer credit for paid family and medical leave.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(7), (d)(2)(A), Mar. 23, 2018, 132 Stat. 1184, 1208, struck out item 41 "Employee stock ownership credit" and item 45M "Energy efficient appliance credit" and transferred item 45K to appear after item 45J.
 
 **2017**—Pub. L. 115–97, title I, §13403(d)(3), Dec. 22, 2017, 131 Stat. 2138, added item 45S.
 
@@ -99,7 +99,3 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 **1986**—Pub. L. 99–514, title II, §§231(d)(3)(K), 252(d), Oct. 22, 1986, 100 Stat. 2180, 2205, added item 41 relating to credit for increasing research activities and item 42.
 
 **1984**—Pub. L. 98–369, div. A, title IV, §471(b), July 18, 1984, 98 Stat. 826, added subpart D heading and analysis of sections for subpart D, consisting of items 38 (new), 39 (new), 40 (formerly 44E), and 41 (formerly 44G). Former subpart D was redesignated F.
-
-[<sup>1</sup> Section 41 repealed by Pub. L. 99–514 without corresponding amendment of subpart analysis.](#I_1)
-
-[<sup>2</sup> So in original. Probably should follow item 45J.](#I_2)

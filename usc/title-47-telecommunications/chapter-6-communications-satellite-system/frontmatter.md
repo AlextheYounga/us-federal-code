@@ -8,7 +8,7 @@ Sec.
 
 702. Definitions.
 
-703. Satellite service report.
+703. Repealed.
 
 #### SUBCHAPTER II—FEDERAL COORDINATION, PLANNING, AND REGULATION ####
 
@@ -64,7 +64,7 @@ Sec.
 
 765d. Termination of provisions of this chapter.
 
-765e. Reports to Congress.
+765e. Repealed.
 
 765f. Satellite auctions.
 

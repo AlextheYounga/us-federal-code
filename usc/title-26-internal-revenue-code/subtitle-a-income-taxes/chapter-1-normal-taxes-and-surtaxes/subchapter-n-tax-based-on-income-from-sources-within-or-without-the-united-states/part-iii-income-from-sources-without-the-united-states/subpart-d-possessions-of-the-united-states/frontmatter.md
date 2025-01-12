@@ -12,11 +12,11 @@ Sec.
 
 [934A, 935. Repealed.]
 
-936. Puerto Rico and possession tax credit. 1
-
 937. Residence and source rules involving possessions.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(d)(1)(C), Mar. 23, 2018, 132 Stat. 1206, which directed that the table of sections for subpart C of part III of subchapter N of this chapter be amended by striking out item 936, could not be executed because item 936 "Puerto Rico and possession tax credit" had been editorially supplied.
 
 **2004**—Pub. L. 108–357, title VIII, §908(c)(6), Oct. 22, 2004, 118 Stat. 1657, added item 937.
 
@@ -27,5 +27,3 @@ Sec.
 **1972**—Pub. L. 92–606, §1(f)(5), Oct. 31, 1972, 86 Stat. 1497, added item 935.
 
 **1960**—Pub. L. 86–779, §4(a)(2), Sept. 14, 1960, 74 Stat. 999, added item 934.
-
-[<sup>1</sup> Editorially supplied. Section 936 added by Pub. L. 94–455 without corresponding amendment of subpart analysis.](#I_1)

@@ -82,6 +82,10 @@ Sec.
 
 1748a. FLAME Wildfire Suppression Reserve Funds.
 
+1748a–1. Request for additional wildfire suppression funds.
+
+1748a–2. Reporting requirements.
+
 1748b. Cohesive wildfire management strategy.
 
 1748c. Bureau of Land Management Foundation.
@@ -117,6 +121,8 @@ Sec.
 1770. Applicability of provisions to other Federal laws.
 
 1771. Coordination of applications.
+
+1772. Vegetation managment, facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way.
 
 #### SUBCHAPTER VI—DESIGNATED MANAGEMENT AREAS ####
 

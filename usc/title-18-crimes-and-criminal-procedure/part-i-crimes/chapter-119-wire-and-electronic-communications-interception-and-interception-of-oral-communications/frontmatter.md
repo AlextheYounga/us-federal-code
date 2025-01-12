@@ -28,7 +28,11 @@ Sec.
 
 2522. Enforcement of the Communications Assistance for Law Enforcement Act.
 
+2523. Executive agreements on access to data by foreign governments.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. V, §105(b), Mar. 23, 2018, 132 Stat. 1224, added item 2523.
 
 **1994**—Pub. L. 103–414, title II, §201(b)(3), Oct. 25, 1994, 108 Stat. 4290, added item 2522.
 

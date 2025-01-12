@@ -72,7 +72,17 @@ Subsec. (c). Pub. L. 99–514, §122(a)(1)(D), added subsec. (c).
 
 #### Effective Date of 2017 Amendment ####
 
-Pub. L. 115–97, title I, §13305(c), Dec. 22, 2017, 131 Stat. 2126, provided that: "The amendments made by this section [amending this section and sections 86, 135, 137, 170, 172, 219, 221, 222, 246, 469, 613, and 613A of this title and repealing section 199 of this title] shall apply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §13305(c), Dec. 22, 2017, 131 Stat. 2126, as amended by Pub. L. 115–141, div. T, §101(c), Mar. 23, 2018, 132 Stat. 1156, provided that:
+
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 86, 135, 137, 170, 172, 219, 221, 222, 246, 469, 613, and 613A of this title and repealing section 199 of this title] shall apply to taxable years beginning after December 31, 2017.
+
+"(2) Transition rule for qualified payments of patrons of cooperatives.—
+
+"(A) In general.—The amendments made by this section shall not apply to a qualified payment received by a taxpayer from a specified agricultural or horticultural cooperative in a taxable year of the taxpayer beginning after December 31, 2017, which is attributable to qualified production activities income with respect to which a deduction is allowable to the cooperative under section 199 of the Internal Revenue Code of 1986 (as in effect before the amendments made by this section) for a taxable year of the cooperative beginning before January 1, 2018. Any term used in this subparagraph which is also used in section 199 of such Code (as so in effect) shall have the same meaning as when used in such section.
+
+"(B) Coordination with section 199a.—No deduction shall be allowed under section 199A of such Code for any qualified payment to which subparagraph (A) applies."
+
+[Amendment by Pub. L. 115–141 to section 13305(c) of Pub. L. 115–97, set out above, effective as if included in section 13305 of Pub. L. 115–97, see section 101(d) of Pub. L. 115–141, set out as a note under section 62 of this title.]
 
 #### Effective Date of 2016 Amendment ####
 

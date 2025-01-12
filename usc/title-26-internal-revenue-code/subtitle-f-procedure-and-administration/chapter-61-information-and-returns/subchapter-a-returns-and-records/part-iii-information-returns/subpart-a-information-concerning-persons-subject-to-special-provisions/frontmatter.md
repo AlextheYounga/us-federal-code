@@ -54,7 +54,7 @@ Sec.
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–97, title I, §13821(c)(2), Dec. 22, 2017, 131 Stat. 2182, added item 6039H.
+**2017**—Pub. L. 115–97, title I, §13821(c)(2), Dec. 22, 2017, 131 Stat. 2182, substituted "Information With Respect to Alaska Native Settlement Trusts and Native Corporations" for "Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations" in item 6039H.
 
 **2015**—Pub. L. 114–41, title II, §2004(b)(3), July 31, 2015, 129 Stat. 456, added item 6035.
 

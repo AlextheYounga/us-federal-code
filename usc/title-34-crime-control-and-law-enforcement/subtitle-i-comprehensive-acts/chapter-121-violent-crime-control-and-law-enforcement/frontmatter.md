@@ -374,7 +374,11 @@ Sec.
 
 #### SUBCHAPTER X—PROTECTIONS FOR THE ELDERLY ####
 
-12621. Missing Alzheimer's Disease Patient Alert Program.
+12621. Missing Americans Alert Program.
+
+12622. Annual report.
+
+12623. Standards and best practices for use of non-invasive and non-permanent tracking devices.
 
 #### SUBCHAPTER XI—VIOLENT CRIME REDUCTION TRUST FUND ####
 

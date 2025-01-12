@@ -220,4 +220,4 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 #### Allocation of 1975 Taxable Income Among Component Members of Controlled Group of Corporations ####
 
-Pub. L. 94–12, title III, §303(c)(1), Mar. 29, 1975, 89 Stat. 44, provided in part that: "In applying subsection (b)(2) of section 11 [subsec. (b)(2) of this section], the first $25,000 of taxable income and the second $25,000 of taxable income shall each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated."
+Pub. L. 94–12, title III, §303(c)(1), Mar. 29, 1975, 89 Stat. 44, provided in part that: "In applying subsection (b)(2) of section 11 [former subsec. (b)(2) of this section], the first $25,000 of taxable income and the second $25,000 of taxable income shall each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated."

@@ -84,6 +84,10 @@ Sec.
 
 1720H. Mental health treatment for veterans who served in classified missions.
 
+1720I. 1
+
+Mental and behavioral health care for certain former members of the Armed Forces.
+
 #### SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME CARE AND MEDICAL TREATMENT OF VETERANS ####
 
 1721. Power to make rules and regulations.
@@ -178,6 +182,8 @@ Sec.
 
 **2018**—Pub. L. 115–159, §2(c), Mar. 27, 2018, 132 Stat. 1245, substituted "Nursing home care, adult day health care, and medications for veterans with service-connected disabilities" for "Nursing home care and medications for veterans with service-connected disabilities" in item 1745.
 
+Pub. L. 115–141, div. J, title II, §258(b), Mar. 23, 2018, 132 Stat. 828, added item 1720I.
+
 **2016**—Pub. L. 114–315, title VI, §§604(b), 605(c), 606(b), title VIII, §802(2), Dec. 16, 2016, 130 Stat. 1571, 1572, 1575, 1591, added items 1705A, 1720H, and 1784A and substituted "Traumatic brain injury: comprehensive program for long-term rehabilitation" for "Traumatic brain injury: comprehensive plan for long-term rehabilitation" in item 1710D and "Traumatic brain injury: use of non-Department facilities for rehabilitation" for "Traumatic brain injury: use of non-Departmental facilities for rehabilitation" in item 1710E.
 
 Pub. L. 114–218, §2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
@@ -271,3 +277,5 @@ Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 "Arr
 Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 **1959**—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
+
+[<sup>1</sup> So in original. Does not correspond to section number.](#CHAPTER17_1)

@@ -4,7 +4,7 @@
 
 The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
 
-(1) the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
+(1) the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27, and
 
 (2) the tax imposed by section 55(a) for the taxable year.
 
@@ -50,7 +50,7 @@ For purposes of paragraph (1), any tax imposed by any of the following provision
 
 (O) sections 453(l)(3) and 453A(c) (relating to interest on certain deferred tax liabilities),
 
-(P) section 860K <sup><a href="#26_1_target" name="26_1">1</a></sup> (relating to treatment of transfers of high-yield interests to disqualified holders),
+[(P) Repealed. Pub. L. 115–141, div. U, title IV, §401(b)(2), Mar. 23, 2018, 132 Stat. 1201.]
 
 (Q) section 220(f)(4) (relating to additional tax on Archer MSA distributions not used for qualified medical expenses),
 
@@ -74,13 +74,13 @@ For purposes of paragraph (1), any tax imposed by any of the following provision
 
 For purposes of this part, the term "tentative minimum tax" means the amount determined under section 55(b)(1).
 
-(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) [title II, §202(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636; Pub. L. 109–222, title III, §302(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §3(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–172, §11(a)(3), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–289, div. C, title I, §3011(b)(1), July 30, 2008, 122 Stat. 2891; Pub. L. 110–343, div. B, title I, §106(e)(2)(D), title II, §205(d)(1)(D), div. C, title I, §101(a), title VIII, §801(b), Oct. 3, 2008, 122 Stat. 3817, 3839, 3863, 3931; Pub. L. 111–5, div. B, title I, §§1004(b)(3), 1011(a), 1142(b)(1)(D), 1144(b)(1)(D), Feb. 17, 2009, 123 Stat. 314, 319, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(E), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), title II, §202(a), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §104(c)(1), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 113–295, div. A, title II, §221(a)(12)(B), div. B, title I, §102(e)(1), Dec. 19, 2014, 128 Stat. 4038, 4062; Pub. L. 115–97, title I, §14401(c), Dec. 22, 2017, 131 Stat. 2233.)
-
-#### References in Text ####
-
-Section 860K, referred to in subsec. (b)(2)(P), was repealed by Pub. L. 108–357, title VIII, §835(a), Oct. 22, 2004, 118 Stat. 1593.
+(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) [title II, §202(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636; Pub. L. 109–222, title III, §302(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §3(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–172, §11(a)(3), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–289, div. C, title I, §3011(b)(1), July 30, 2008, 122 Stat. 2891; Pub. L. 110–343, div. B, title I, §106(e)(2)(D), title II, §205(d)(1)(D), div. C, title I, §101(a), title VIII, §801(b), Oct. 3, 2008, 122 Stat. 3817, 3839, 3863, 3931; Pub. L. 111–5, div. B, title I, §§1004(b)(3), 1011(a), 1142(b)(1)(D), 1144(b)(1)(D), Feb. 17, 2009, 123 Stat. 314, 319, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(E), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), title II, §202(a), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §104(c)(1), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 113–295, div. A, title II, §221(a)(12)(B), div. B, title I, §102(e)(1), Dec. 19, 2014, 128 Stat. 4038, 4062; Pub. L. 115–97, title I, §14401(c), Dec. 22, 2017, 131 Stat. 2233; Pub. L. 115–141, div. U, title IV, §401(b)(2), (d)(1)(D)(ii), Mar. 23, 2018, 132 Stat. 1201, 1206.)
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(1). Pub. L. 115–141, §401(d)(1)(D)(ii), substituted "section 27" for "section 27(a)".
+
+Subsec. (b)(2)(P). Pub. L. 115–141, §401(b)(2), struck out subpar. (P) which read as follows: "section 860K (relating to treatment of transfers of high-yield interests to disqualified holders),".
 
 **2017**—Subsec. (b)(2)(B). Pub. L. 115–97 added subpar. (B).
 
@@ -348,6 +348,10 @@ Pub. L. 99–499, title V, §516(c), Oct. 17, 1986, 100 Stat. 1772, provided tha
 
 Section applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.
 
+#### Savings Provision ####
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States ####
 
 For applicability of amendment by section 701(c)(1) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
@@ -355,5 +359,3 @@ For applicability of amendment by section 701(c)(1) of Pub. L. 99–514 notwiths
 #### Treatment of Tax Imposed Under Former Section 409(c) ####
 
 Pub. L. 98–369, div. A, title IV, §491(f)(5), July 18, 1984, 98 Stat. 853, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes of section 26(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as amended by this Act), any tax imposed by section 409(c) of such Code (as in effect before its repeal by this section) shall be treated as a tax imposed by section 408(f) of such Code."
-
-[<sup>1</sup> See References in Text note below.](#26_1)

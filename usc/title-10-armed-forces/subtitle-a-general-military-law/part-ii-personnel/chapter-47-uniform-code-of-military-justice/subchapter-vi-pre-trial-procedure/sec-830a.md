@@ -30,7 +30,7 @@ For delayed effective date of section, see Effective Date note below.
 
 #### Amendments ####
 
-**2017**—Subsec. (a)(1). Pub. L. 115–91,§531(b)(1), inserted ", or otherwise act on," after "to review" in introductory provisions.
+**2017**—Subsec. (a)(1). Pub. L. 115–91, §531(b)(1), inserted ", or otherwise act on," after "to review" in introductory provisions.
 
 Subsec. (a)(1)(D). Pub. L. 115–91, §531(b)(2), added subpar. (D).
 

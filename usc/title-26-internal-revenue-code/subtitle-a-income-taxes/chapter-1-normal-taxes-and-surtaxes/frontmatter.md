@@ -36,9 +36,9 @@ P. Capital gains and losses 1201
 
 Q. Readjustment of tax between years and special limitations 1301
 
-S. Tax treatment of S corporations and their shareholders 1361
+R. Election to determine corporate tax on certain international shipping activities using per ton rate 1352
 
-R. 2 Election to determine corporate tax on certain international shipping activities using per ton rate 1352
+S. Tax treatment of S corporations and their shareholders 1361
 
 T. Cooperatives and their patrons 1381
 
@@ -46,15 +46,13 @@ U. Designation and treatment of empowerment zones, enterprise communities, and r
 
 V. Title 11 cases 1398
 
-W. District of Columbia Enterprise Zone 1400
-
-X. Renewal Communities 1400E
-
-Y. Short-Term Regional Benefits 1400L
+[W to Y. Repealed.]
 
 Z. Opportunity zones 1400Z–1
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(1), (d)(4)(A), (5)(A), (6)(A), Mar. 23, 2018, 132 Stat. 1184, 1209–1211, transferred subchapter R to follow subchapter Q and struck out subchapter W "District of Columbia Enterprise Zone", subchapter X "Renewal Communities", and subchapter Y "Short-Term Regional Benefits".
 
 **2017**—Pub. L. 115–97, title I, §13823(c), Dec. 22, 2017, 131 Stat. 2188, added subchapter Z.
 
@@ -87,5 +85,3 @@ Z. Opportunity zones 1400Z–1
 **1958**—Pub. L. 85–866, title I, §64(d)(1), Sept. 2, 1958, 72 Stat. 1656, added subchapter S.
 
 [<sup>1</sup> Section numbers editorially supplied.](#CHAPTER1_1)
-
-[<sup>2</sup> So in original. Probably should follow item for subchapter Q.](#CHAPTER1_2)

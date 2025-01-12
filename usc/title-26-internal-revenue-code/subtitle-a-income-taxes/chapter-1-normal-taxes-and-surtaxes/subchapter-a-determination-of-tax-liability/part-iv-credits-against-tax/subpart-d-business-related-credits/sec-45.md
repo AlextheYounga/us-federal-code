@@ -150,7 +150,7 @@ The term "small irrigation power" means power—
 
 #### (6) Municipal solid waste ####
 
-The term "municipal solid waste" has the meaning given the term "solid waste" under section 2(27) <sup><a href="#45_1_target" name="45_1">1</a></sup> of the Solid Waste Disposal Act (42 U.S.C. 6903), except that such term does not include paper which is commonly recycled and which has been segregated from other solid waste (as so defined).
+The term "municipal solid waste" has the meaning given the term "solid waste" under section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903), except that such term does not include paper which is commonly recycled and which has been segregated from other solid waste (as so defined).
 
 #### (7) Refined coal ####
 
@@ -162,9 +162,9 @@ The term "refined coal" means a fuel—
 
 (I) is a liquid, gaseous, or solid fuel produced from coal (including lignite) or high carbon fly ash, including such fuel used as a feedstock,
 
-(II) is sold by the taxpayer with the reasonable expectation that it will be used for purpose <sup><a href="#45_2_target" name="45_2">2</a></sup> of producing steam, and
+(II) is sold by the taxpayer with the reasonable expectation that it will be used for the purpose of producing steam, and
 
-(III) is certified by the taxpayer as resulting (when used in the production of steam) in a qualified emission reduction.<sup><a href="#45_3_target" name="45_3">3</a></sup>
+(III) is certified by the taxpayer as resulting (when used in the production of steam) in a qualified emission reduction, or
 
 (ii) which is steel industry fuel.
 
@@ -574,7 +574,7 @@ shall be treated as an increase in tax imposed by this chapter on the organizati
 
 For purposes of this section the term "eligible cooperative" means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
 
-(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) [title III, §319(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §§154(a), 155(a), title II, §210(g)(1), Dec. 19, 2014, 128 Stat. 4021, 4032; Pub. L. 114–113, div. P, title III, §301(a), div. Q, title I, §§186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, 129 Stat. 3038, 3073, 3074; Pub. L. 115–123, div. D, title I, §§40408(a), 40409(a), Feb. 9, 2018, 132 Stat. 149, 150.)
+(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) [title III, §319(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §§154(a), 155(a), title II, §210(g)(1), Dec. 19, 2014, 128 Stat. 4021, 4032; Pub. L. 114–113, div. P, title III, §301(a), div. Q, title I, §§186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, 129 Stat. 3038, 3073, 3074; Pub. L. 115–123, div. D, title I, §§40408(a), 40409(a), Feb. 9, 2018, 132 Stat. 149, 150; Pub. L. 115–141, div. U, title IV, §401(a)(14)–(16), Mar. 23, 2018, 132 Stat. 1185.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -585,8 +585,6 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 The date of the enactment of this paragraph, the date of the enactment of this clause, the date of the enactment of this subclause, and the date of the enactment of the American Jobs Creation Act of 2004, referred to in subsecs. (b)(4)(B)(ii) and (d)(2)(C)(i), (3)(A)(i), (4) to (8), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 The date of the enactment of this clause and the date of the enactment of this paragraph, referred to in subsecs. (b)(4)(B)(iii), (c)(8), and (d)(9)(A), are the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
-
-Section 2(27) of the Solid Waste Disposal Act, referred to in subsec. (c)(6), probably should be section 1004(27) of such Act which is classified to section 6903(27) of Title 42, The Public Health and Welfare.
 
 The Federal Power Act, referred to in subsec. (c)(8)(C), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
@@ -602,7 +600,13 @@ A prior section 45 was renumbered section 37 of this title.
 
 #### Amendments ####
 
-**2018**—Subsec. (d). Pub. L. 115–123, §40409(a), substituted "January 1, 2018" for "January 1, 2017" wherever appearing.
+**2018**—Subsec. (c)(6). Pub. L. 115–141, §401(a)(14), substituted "section 1004(27)" for "section 2(27)".
+
+Subsec. (c)(7)(A)(i)(II). Pub. L. 115–141, §401(a)(15), substituted "for the purpose" for "for purpose".
+
+Subsec. (c)(7)(A)(i)(III). Pub. L. 115–141, §401(a)(16), substituted ", or" for period at end.
+
+Subsec. (d). Pub. L. 115–123, §40409(a), substituted "January 1, 2018" for "January 1, 2017" wherever appearing.
 
 Subsec. (e)(10)(A)(i), (ii)(II). Pub. L. 115–123, §40408(a), substituted "12-year period" for "11-year period".
 
@@ -999,7 +1003,3 @@ Provisions relating to inflation adjustment of items in this section for certain
 **1996**—Internal Revenue Notice 96–25.
 
 [<sup>1</sup> See References in Text note below.](#45_1)
-
-[<sup>2</sup> So in original. Probably should be preceded by "the".](#45_2)
-
-[<sup>3</sup> So in original. The period probably should be ", or".](#45_3)

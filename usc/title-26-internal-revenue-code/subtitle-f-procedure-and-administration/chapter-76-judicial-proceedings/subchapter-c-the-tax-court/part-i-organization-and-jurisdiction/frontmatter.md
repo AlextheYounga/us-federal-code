@@ -20,9 +20,11 @@ Sec.
 
 7447. Retirement.
 
-7448. Annuities of surviving spouses and dependent children. 1
+7448. Annuities to surviving spouses and dependent children of judges and special trial judges.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(326), Mar. 23, 2018, 132 Stat. 1200, substituted "Annuities to surviving spouses and dependent children of judges and special trial judges" for "Annuities of surviving spouses and dependent children" in item 7448.
 
 **2008**—Pub. L. 110–458 repealed amendment made by section 856 of Pub. L. 109–280. See 2006 Amendment note below.
 
@@ -35,5 +37,3 @@ Pub. L. 109–280, title VIII, §854(c)(2), Aug. 17, 2006, 120 Stat. 1018, which
 **1976**—Pub. L. 94–455, title XIX, §1906(b)(10), Oct. 4, 1976, 90 Stat. 1834, substituted "Annuities of surviving spouses and dependent children" for "Annuities to widows and dependent children of judges" in item 7448.
 
 **1961**—Pub. L. 87–370, §2, Oct. 4, 1961, 75 Stat. 801, added item 7448.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

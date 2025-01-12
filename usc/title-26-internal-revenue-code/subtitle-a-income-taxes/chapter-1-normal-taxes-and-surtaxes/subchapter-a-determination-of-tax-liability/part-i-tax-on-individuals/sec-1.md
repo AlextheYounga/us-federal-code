@@ -574,7 +574,7 @@ For purposes of this paragraph, with respect to taxable years beginning in calen
 
 The Secretary shall adjust the tables prescribed under subsection (f) to carry out this subsection.
 
-#### (j) Modifications for Taxable Years 2018 Through 2025 ####
+#### (j) Modifications for taxable years 2018 through 2025 ####
 
 #### (1) In general ####
 
@@ -801,7 +801,7 @@ Subsec. (f)(3). Pub. L. 115–97, §11002(a), added par. (3) and struck out form
 
 Subsec. (f)(6), (7). Pub. L. 115–97, §11002(b), added par. (6), redesignated former par. (6) as (7), and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: "In prescribing tables under paragraph (1) which apply to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate bracket begins shall be determined under paragraph (3) by substituting '1993' for '1992'."
 
-Subsec. (h)(11)(C)(iii). Pub. L. 115–97, §14223(a), substituted "shall not include—(I) any foreign corporation" for "shall not include any foreign corporation " and added subcl. (II).
+Subsec. (h)(11)(C)(iii). Pub. L. 115–97, §14223(a), substituted "shall not include—" for "shall not include", inserted subcl. (I) designation before "any foreign corporation", and added subcl. (II).
 
 Subsec. (i)(1)(C)(i). Pub. L. 115–97, §11002(c)(2)(A), substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
 
@@ -1410,6 +1410,12 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 #### Effective Date of 1964 Amendment ####
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
+
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–141, div. M, title I, §1, Mar. 23, 2018, 132 Stat. 1046, provided that: "This title [amending sections 4081, 4083, 4261, 4271, and 9502 of this title and sections 106, 41742, 41743, 44506, 47104, 47107, 47115, 47124, 47141, and 48101 to 48103 of Title 49, Transportation, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2018'."
+
+Pub. L. 115–141, div. U, §1(a), Mar. 23, 2018, 132 Stat. 1159, provided that: "This division [see Tables for classification] may be cited as the 'Tax Technical Corrections Act of 2018'."
 
 #### Short Title of 2017 Amendment ####
 

@@ -4,8 +4,6 @@ Sec.
 
 2421. Transportation generally.
 
-2421A. Promotion or facilitation of prostitution and reckless disregard of sex trafficking.
-
 2422. Coercion and enticement.
 
 2423. Transportation of minors.
@@ -21,8 +19,6 @@ Sec.
 2428. Forfeitures.
 
 #### Amendments ####
-
-**2018**—Pub. L. 115–164, §3(b), Apr. 11, 2018, 132 Stat. 1254, added item 2421A.
 
 **2006**—Pub. L. 109–164, title I, §103(d)(2), Jan. 10, 2006, 119 Stat. 3563, added item 2428.
 

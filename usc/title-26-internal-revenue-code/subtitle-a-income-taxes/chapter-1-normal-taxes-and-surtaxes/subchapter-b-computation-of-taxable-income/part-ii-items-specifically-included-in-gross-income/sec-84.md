@@ -1,4 +1,4 @@
-### §84. Transfer of appreciated property to political organization ###
+### §84. Transfer of appreciated property to political organizations ###
 
 #### (a) General rule ####
 
@@ -18,7 +18,11 @@ In the case of a transfer of property to a political organization to which subse
 
 For purposes of this section, the term "political organization" has the meaning given to such term by section 527(e)(1).
 
-(Added Pub. L. 93–625, §13(a)(1), Jan. 3, 1975, 88 Stat. 2120.)
+(Added Pub. L. 93–625, §13(a)(1), Jan. 3, 1975, 88 Stat. 2120; amended Pub. L. 115–141, div. U, title IV, §401(a)(35), Mar. 23, 2018, 132 Stat. 1186.)
+
+#### Amendments ####
+
+**2018**—Pub. L. 115–141 substituted "political organizations" for "political organization" in section catchline.
 
 #### Effective Date ####
 

@@ -3288,7 +3288,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (A) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim because the debtor failed to timely file the list of creditors' names and addresses required by Rule 1007(a); or
 
-(B) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim, and the notice was mailed to the creditor at a foreign address.	
+(B) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim, and the notice was mailed to the creditor at a foreign address.
 
 (7) A proof of claim filed by the holder of a claim that is secured by a security interest in the debtor's principal residence is timely filed if:
 
@@ -3590,11 +3590,11 @@ This amendment is stylistic. Notice of the hearing need not be given to committe
 
 (A) The objection and notice shall be served on a claimant by first-class mail to the person most recently designated on the claimant's original or amended proof of claim as the person to receive notices, at the address so indicated; and
 
-(i)	if the objection is to a claim of the United States, or any of its officers or agencies, in the manner provided for service of a summons and complaint by Rule 7004(b)(4) or (5); or
+(i) if the objection is to a claim of the United States, or any of its officers or agencies, in the manner provided for service of a summons and complaint by Rule 7004(b)(4) or (5); or
 
 (ii) if the objection is to a claim of an insured depository institution, in the manner provided by Rule 7004(h).
 
-(B)	Service of the objection and notice shall also be made by first-class mail or other permitted means on the debtor or debtor in possession, the trustee, and, if applicable, the entity filing the proof of claim under Rule 3005.
+(B) Service of the objection and notice shall also be made by first-class mail or other permitted means on the debtor or debtor in possession, the trustee, and, if applicable, the entity filing the proof of claim under Rule 3005.
 
 (b) Demand for Relief Requiring an Adversary Proceeding. A party in interest shall not include a demand for relief of a kind specified in Rule 7001 in an objection to the allowance of a claim, but may include the objection in an adversary proceeding.
 
@@ -3904,7 +3904,7 @@ Notwithstanding Rule 9029(a)(1), a district may require that a Local Form for a 
 
 (1) the placement of nonstandard provisions, as defined in Rule 3015(c), along with a statement that any nonstandard provision placed elsewhere in the plan is void; and
 
-(2)	certification by the debtor's attorney or by an unrepresented debtor that the plan contains no nonstandard provision other than those set out in the final paragraph.
+(2) certification by the debtor's attorney or by an unrepresented debtor that the plan contains no nonstandard provision other than those set out in the final paragraph.
 
 (Added Apr. 27, 2017, eff. Dec. 1, 2017.)
 
@@ -8622,7 +8622,7 @@ This rule is amended and reorganized into separate subdivisions.
 
 Subdivision (a) addresses permissible modifications to Official Forms. It requires that an Official Form be used without alteration, except when another rule, the Official Form itself, or the national instructions applicable to an Official Form permit alteration. The former language generally permitting alterations has been deleted, but the rule preserves the ability to make minor modifications to an Official Form that do not affect the wording or the order in which information is presented on a form. Permissible changes include those that merely expand or delete the space for responses as appropriate or delete inapplicable items so long as the filer indicates that no response is intended. For example, when more space will be necessary to completely answer a question on an Official Form without an attachment, the answer space may be expanded. Similarly, varying the width or orientation of columnar data on a form for clarity of presentation would be a permissible minor change. On the other hand, many Official Forms indicate on their face that certain changes are not appropriate. Any changes that contravene the directions on an Official Form would be prohibited by this rule.
 
-Ihe creation of subdivision (b) and subdivision (c) is stylistic.
+The creation of subdivision (b) and subdivision (c) is stylistic.
 
 ### Rule 9010. Representation and Appearances; Powers of Attorney ###
 

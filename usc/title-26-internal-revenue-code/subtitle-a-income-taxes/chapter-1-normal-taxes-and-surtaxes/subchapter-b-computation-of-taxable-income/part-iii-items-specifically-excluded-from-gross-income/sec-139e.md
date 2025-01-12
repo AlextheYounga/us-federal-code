@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) Indian tribal government ####
 
-For purposes of this section, the term "Indian tribal government" includes any agencies or instrumentalities of an Indian tribal government and any Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601,<sup><a href="#139E_1_target" name="139E_1">1</a></sup> et seq.).
+For purposes of this section, the term "Indian tribal government" includes any agencies or instrumentalities of an Indian tribal government and any Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 
 #### (2) Dependent ####
 
@@ -34,7 +34,7 @@ The term "dependent" has the meaning given such term by section 152, determined 
 
 #### (3) Lavish or extravagant ####
 
-The Secretary shall, in consultation with the Tribal Advisory Committee (as established under section 3(a) of the Tribal General Welfare Exclusion Act of 2013),<sup><a href="#139E_2_target" name="139E_2">2</a></sup> establish guidelines for what constitutes lavish or extravagant benefits with respect to Indian tribal government programs.
+The Secretary shall, in consultation with the Tribal Advisory Committee (as established under section 3(a) of the Tribal General Welfare Exclusion Act of 2014), establish guidelines for what constitutes lavish or extravagant benefits with respect to Indian tribal government programs.
 
 #### (4) Establishment of tribal government program ####
 
@@ -44,13 +44,19 @@ A program shall not fail to be treated as an Indian tribal government program so
 
 Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as compensation for services.
 
-(Added Pub. L. 113–168, §2(a), Sept. 26, 2014, 128 Stat. 1883.)
+(Added Pub. L. 113–168, §2(a), Sept. 26, 2014, 128 Stat. 1883; amended Pub. L. 115–141, div. U, title IV, §401(a)(42), (43), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### References in Text ####
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 3(a) of the Tribal General Welfare Exclusion Act of 2013, referred to in subsec. (c)(3), probably should be a reference to section 3(a) of the Tribal General Welfare Exclusion Act of 2014, Pub. L. 113–168, §3(a), Sept. 26, 2014, 128 Stat. 1884, which is set out as a note under this section. There is no Tribal General Welfare Exclusion Act of 2013.
+Section 3(a) of the Tribal General Welfare Exclusion Act of 2014, referred to in subsec. (c)(3), is section 3(a) of Pub. L. 113–168, which is set out as a note under this section.
+
+#### Amendments ####
+
+**2018**—Subsec. (c)(1). Pub. L. 115–141, §401(a)(42), substituted "(43 U.S.C. 1601 et seq.)" for "(43 U.S.C. 1601, et seq.)".
+
+Subsec. (c)(3). Pub. L. 115–141, §401(a)(43), substituted "Act of 2014" for "Act of 2013".
 
 #### Effective Date ####
 
@@ -66,9 +72,9 @@ Pub. L. 113–168, §2(c), Sept. 26, 2014, 128 Stat. 1884, provided that: "Ambig
 
 #### Tribal Advisory Committee ####
 
-Pub. L. 113–168, §3, Sept. 26, 2014, 128 Stat. 1884, provided that:
+Pub. L. 113–168, §3, Sept. 26, 2014, 128 Stat. 1884, as amended by Pub. L. 115–141, div. U, title IV, §401(a)(44), Mar. 23, 2018, 132 Stat. 1186, provided that:
 
-"(a) Establishment.—The Secretary of the Treasury shall establish a Tribal Advisory Committee (hereinafter in this subsection [probably should be "section"] referred to as the 'Committee').
+"(a) Establishment.—The Secretary of the Treasury shall establish a Tribal Advisory Committee (hereinafter in this section referred to as the 'Committee').
 
 "(b) Duties.—
 
@@ -98,18 +104,14 @@ Pub. L. 113–168, §3, Sept. 26, 2014, 128 Stat. 1884, provided that:
 
 #### Other Relief for Indian Tribes ####
 
-Pub. L. 113–168, §4, Sept. 26, 2014, 128 Stat. 1885, provided that:
+Pub. L. 113–168, §4, Sept. 26, 2014, 128 Stat. 1885, as amended by Pub. L. 115–141, div. U, title IV, §401(a)(45), Mar. 23, 2018, 132 Stat. 1186, provided that:
 
 "(a) Temporary Suspension of Examinations.—The Secretary of the Treasury shall suspend all audits and examinations of Indian tribal governments and members of Indian tribes (or any spouse or dependent of such a member), to the extent such an audit or examination relates to the exclusion of a payment or benefit from an Indian tribal government under the general welfare exclusion, until the education and training prescribed by section 3(b)(2) of this Act [section 3(b)(2) of Pub. L. 113–168, set out as a note above] is completed. The running of any period of limitations under section 6501 of the Internal Revenue Code of 1986 with respect to Indian tribal governments and members of Indian tribes shall be suspended during the period during which audits and examinations are suspended under the preceding sentence.
 
 "(b) Waiver of Penalties and Interest.—The Secretary of the Treasury may waive any interest and penalties imposed under such Code on any Indian tribal government or member of an Indian tribe (or any spouse or dependent of such a member) to the extent such interest and penalties relate to excluding a payment or benefit from gross income under the general welfare exclusion.
 
-"(c) Definitions.—For purposes of this subsection [probably should be "section"]—
+"(c) Definitions.—For purposes of this section—
 
 "(1) Indian tribal government.—The term 'Indian tribal government' shall have the meaning given such term by section 139E of such Code, as added by this Act.
 
 "(2) Indian tribe.—The term 'Indian tribe' shall have the meaning given such term by section 45A(c)(6) of such Code."
-
-[<sup>1</sup> So in original. The comma probably should not appear.](#139E_1)
-
-[<sup>2</sup> See References in Text note below.](#139E_2)

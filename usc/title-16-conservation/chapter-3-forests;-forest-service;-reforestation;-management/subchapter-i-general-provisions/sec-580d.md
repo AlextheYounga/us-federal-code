@@ -10,7 +10,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Forest Service Facility Realignment and Enhancement ####
 
-Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, §421, Dec. 23, 2011, 125 Stat. 1045, provided that:
+Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, §421, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 115–141, div. G, title IV, §423, Mar. 23, 2018, 132 Stat. 692, provided that:
 
 #### "SEC. 501. SHORT TITLE. ####
 
@@ -104,7 +104,7 @@ Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 11
 
 "(3) Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
 
-"(f) Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2016.
+"(f) Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2018.
 
 "(g) Repeal of Pilot Conveyance Authority.—Effective September 30, 2006, section 329 of the Department of the Interior and Related Agencies Appropriations Act, 2002 (16 U.S.C. 580d note; Public Law 107–63), is repealed. Notwithstanding the repeal of such section, the Secretary may complete the conveyance under such section of any administrative site whose conveyance was initiated under such section before that date.
 

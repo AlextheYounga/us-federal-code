@@ -246,4 +246,4 @@ For applicability of amendment by section 701(b) of Pub. L. 99–514 [enacting t
 
 Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(ii), Dec. 19, 2014, 128 Stat. 4038, provided that: "The amendment made by clause (i) striking subsection (f) of section 53 of the Internal Revenue Code of 1986 shall not be construed to allow any tax abated by reason of section 53(f)(1) of such Code (as in effect before such amendment) to be included in the amount determined under section 53(b)(1) of such Code."
 
-[<sup>1</sup> So in original. Probably should be "the Tax Cuts and Jobs Act".](#53_1)
+[<sup>1</sup> So in original. Probably should be "the Tax Cuts and Jobs Act."](#53_1)

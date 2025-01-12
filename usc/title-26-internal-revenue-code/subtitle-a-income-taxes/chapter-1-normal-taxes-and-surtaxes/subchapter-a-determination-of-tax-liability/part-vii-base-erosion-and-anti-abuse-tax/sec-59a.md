@@ -334,4 +334,4 @@ A prior section 59A, added Pub. L. 99–499, title V, §516(a), Oct. 17, 1986, 1
 
 #### Effective Date ####
 
-Section applicable to base erosion payments (as defined in section 59A(d) of this title) paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 26 of this title.
+Section applicable to base erosion payments (as defined in subsec. (d) of this section) paid or accrued in taxable years beginning after Dec. 31, 2017, see section 14401(e) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 26 of this title.

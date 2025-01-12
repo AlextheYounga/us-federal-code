@@ -1,26 +1,16 @@
 ### §199A. Qualified business income ###
 
-#### (a) In general ####
+#### (a) Allowance of deduction ####
 
-In the case of a taxpayer other than a corporation, there shall be allowed as a deduction for any taxable year an amount equal to the sum of—
+In the case of a taxpayer other than a corporation, there shall be allowed as a deduction for any taxable year an amount equal to the lesser of—
 
-(1) the lesser of—
+(1) the combined qualified business income amount of the taxpayer, or
 
-(A) the combined qualified business income amount of the taxpayer, or
+(2) an amount equal to 20 percent of the excess (if any) of—
 
-(B) an amount equal to 20 percent of the excess (if any) of—
+(A) the taxable income of the taxpayer for the taxable year, over
 
-(i) the taxable income of the taxpayer for the taxable year, over
-
-(ii) the sum of any net capital gain (as defined in section 1(h)), plus the aggregate amount of the qualified cooperative dividends, of the taxpayer for the taxable year, plus
-
-(2) the lesser of—
-
-(A) 20 percent of the aggregate amount of the qualified cooperative dividends of the taxpayer for the taxable year, or
-
-(B) taxable income (reduced by the net capital gain (as so defined)) of the taxpayer for the taxable year.
-
-The amount determined under the preceding sentence shall not exceed the taxable income (reduced by the net capital gain (as so defined)) of the taxpayer for the taxable year.
+(B) the net capital gain (as defined in section 1(h)) of the taxpayer for such taxable year.
 
 #### (b) Combined qualified business income amount ####
 
@@ -80,7 +70,7 @@ For purposes of clause (ii), the excess amount is the excess of—
 
 (II) the amount determined under paragraph (2)(B) (determined without regard to this paragraph).
 
-#### (4) Wages, etc ####
+#### (4) Wages, etc. ####
 
 #### (A) In general ####
 
@@ -120,13 +110,21 @@ The term "depreciable period" means, with respect to qualified property of a tax
 
 (ii) the last day of the last full year in the applicable recovery period that would apply to the property under section 168 (determined without regard to subsection (g) thereof).
 
+#### (7) Special rule with respect to income received from cooperatives ####
+
+In the case of any qualified trade or business of a patron of a specified agricultural or horticultural cooperative, the amount determined under paragraph (2) with respect to such trade or business shall be reduced by the lesser of—
+
+(A) 9 percent of so much of the qualified business income with respect to such trade or business as is properly allocable to qualified payments received from such cooperative, or
+
+(B) 50 percent of so much of the W–2 wages with respect to such trade or business as are so allocable.
+
 #### (c) Qualified business income ####
 
 For purposes of this section—
 
 #### (1) In general ####
 
-The term "qualified business income" means, for any taxable year, the net amount of qualified items of income, gain, deduction, and loss with respect to any qualified trade or business of the taxpayer. Such term shall not include any qualified REIT dividends, qualified cooperative dividends, or qualified publicly traded partnership income.
+The term "qualified business income" means, for any taxable year, the net amount of qualified items of income, gain, deduction, and loss with respect to any qualified trade or business of the taxpayer. Such term shall not include any qualified REIT dividends or qualified publicly traded partnership income.
 
 #### (2) Carryover of losses ####
 
@@ -140,17 +138,17 @@ For purposes of this subsection—
 
 The term "qualified items of income, gain, deduction, and loss" means items of income, gain, deduction, and loss to the extent such items are—
 
-(i) effectively connected with the conduct of a trade or business within the United States (within the meaning of section 864(c), determined by substituting "qualified trade or business (within the meaning of section 199A)" for"nonresident alien individual or a foreign corporation" or for "a foreign corporation" each place it appears), and
+(i) effectively connected with the conduct of a trade or business within the United States (within the meaning of section 864(c), determined by substituting "qualified trade or business (within the meaning of section 199A)" for"nonresident alien individual or a foreign corporation" or for "a <sup><a href="#199A_1_target" name="199A_1">1</a></sup> foreign corporation" each place it appears), and
 
 (ii) included or allowed in determining taxable income for the taxable year.
 
 #### (B) Exceptions ####
 
-The following investment items shall not be taken into account as a qualified item of income, gain, deduction, or loss:
+The following items shall not be taken into account as a qualified item of income, gain, deduction, or loss:
 
 (i) Any item of short-term capital gain, short-term capital loss, long-term capital gain, or long-term capital loss.
 
-(ii) Any dividend, income equivalent to a dividend, or payment in lieu of dividends described in section 954(c)(1)(G).
+(ii) Any dividend, income equivalent to a dividend, or payment in lieu of dividends described in section 954(c)(1)(G). Any amount described in section 1385(a)(1) shall not be treated as described in this clause.
 
 (iii) Any interest income other than interest income which is properly allocable to a trade or business.
 
@@ -210,13 +208,13 @@ For purposes of subparagraph (A), the term "applicable percentage" means, with r
 
 (ii) $50,000 ($100,000 in the case of a joint return).
 
-#### (e) Other Definitions ####
+#### (e) Other definitions ####
 
 For purposes of this section—
 
 #### (1) Taxable income ####
 
-Taxable income shall be computed without regard to the deduction allowable under this section.
+Except as otherwise provided in subsection (g)(2)(B), taxable income shall be computed without regard to any deduction allowable under this section.
 
 #### (2) Threshold amount ####
 
@@ -242,29 +240,17 @@ The term "qualified REIT dividend" means any dividend from a real estate investm
 
 (B) is not qualified dividend income, as defined in section 1(h)(11).
 
-#### (4) Qualified cooperative dividend ####
-
-The term "qualified cooperative dividend" means any patronage dividend (as defined in section 1388(a)), any per-unit retain allocation (as defined in section 1388(f)), and any qualified written notice of allocation (as defined in section 1388(c)), or any similar amount received from an organization described in subparagraph (B)(ii), which—
-
-(A) is includible in gross income, and
-
-(B) is received from—
-
-(i) an organization or corporation described in section 501(c)(12) or 1381(a), or
-
-(ii) an organization which is governed under this title by the rules applicable to cooperatives under this title before the enactment of subchapter T.
-
-#### (5) Qualified publicly traded partnership income ####
+#### (4) Qualified publicly traded partnership income ####
 
 The term "qualified publicly traded partnership income" means, with respect to any qualified trade or business of a taxpayer, the sum of—
 
-(A) the net amount of such taxpayer's allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a)) <sup><a href="#199A_1_target" name="199A_1">1</a></sup> which is not treated as a corporation under section 7704(c), plus
+(A) the net amount of such taxpayer's allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a)) <sup><a href="#199A_2_target" name="199A_2">2</a></sup> which is not treated as a corporation under section 7704(c), plus
 
 (B) any gain recognized by such taxpayer upon disposition of its interest in such partnership to the extent such gain is treated as an amount realized from the sale or exchange of property other than a capital asset under section 751(a).
 
 #### (f) Special rules ####
 
-#### (1) Application to partnerships and s corporations ####
+#### (1) Application to partnerships and S corporations ####
 
 #### (A) In general ####
 
@@ -308,37 +294,185 @@ The Secretary shall prescribe such regulations as are necessary to carry out the
 
 (B) for the application of this section in the case of tiered entities.
 
-#### (g) Deduction allowed to specified agricultural or horticultural cooperatives ####
+#### (g) Deduction for income attributable to domestic production activities of specified agricultural or horticultural cooperatives ####
 
-#### (1) In general ####
+#### (1) Allowance of deduction ####
 
-In the case of any taxable year of a specified agricultural or horticultural cooperative beginning after December 31, 2017, there shall be allowed a deduction in an amount equal to the lesser of—
+#### (A) In general ####
 
-(A) 20 percent of the excess (if any) of—
+In the case of a taxpayer which is a specified agricultural or horticultural cooperative, there shall be allowed as a deduction an amount equal to 9 percent of the lesser of—
 
-(i) the gross income of a specified agricultural or horticultural cooperative, over
+(i) the qualified production activities income of the taxpayer for the taxable year, or
 
-(ii) the qualified cooperative dividends (as defined in subsection (e)(4)) paid during the taxable year for the taxable year, or
+(ii) the taxable income of the taxpayer for the taxable year.
 
-(B) the greater of—
+#### (B) Limitation ####
 
-(i) 50 percent of the W–2 wages of the cooperative with respect to its trade or business, or
+#### (i) In general ####
 
-(ii) the sum of 25 percent of the W–2 wages of the cooperative with respect to its trade or business, plus 2.5 percent of the unadjusted basis immediately after acquisition of all qualified property of the cooperative.
+The deduction allowable under subparagraph (A) for any taxable year shall not exceed 50 percent of the W–2 wages of the taxpayer for the taxable year.
 
-#### (2) Limitation ####
+#### (ii) W–2 wages ####
 
-The amount determined under paragraph (1) shall not exceed the taxable income of the specified agricultural or horticultural for the taxable year.
+For purposes of this subparagraph, the W–2 wages of the taxpayer shall be determined in the same manner as under subsection (b)(4) (without regard to subparagraph (B) thereof and after application of subsection (b)(5)), except that such wages shall not include any amount which is not properly allocable to domestic production gross receipts for purposes of paragraph (3)(A).
 
-#### (3) Specified agricultural or horticultural cooperative ####
+#### (C) Taxable income of cooperatives determined without regard to certain deductions ####
 
-For purposes of this subsection, the term "specified agricultural or horticultural cooperative" means an organization to which part I of subchapter T applies which is engaged in—
+For purposes of this subsection, the taxable income of a specified agricultural or horticultural cooperative shall be computed without regard to any deduction allowable under subsection (b) or (c) of section 1382 (relating to patronage dividends, per-unit retain allocations, and nonpatronage distributions).
 
-(A) the manufacturing, production, growth, or extraction in whole or significant part of any agricultural or horticultural product,
+#### (2) Deduction allowed to patrons ####
 
-(B) the marketing of agricultural or horticultural products which its patrons have so manufactured, produced, grown, or extracted, or
+#### (A) In general ####
 
-(C) the provision of supplies, equipment, or services to farmers or to organizations described in subparagraph (A) or (B).
+In the case of any eligible taxpayer who receives a qualified payment from a specified agricultural or horticultural cooperative, there shall be allowed as a deduction for the taxable year in which such payment is received an amount equal to the portion of the deduction allowed under paragraph (1) to such cooperative which is—
+
+(i) allowed with respect to the portion of the qualified production activities income to which such payment is attributable, and
+
+(ii) identified by such cooperative in a written notice mailed to such taxpayer during the payment period described in section 1382(d).
+
+#### (B) Limitation based on taxable income ####
+
+The deduction allowed to any taxpayer under this paragraph shall not exceed the taxable income of the taxpayer determined without regard to the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
+
+#### (C) Cooperative denied deduction for portion of qualified payments ####
+
+The taxable income of a specified agricultural or horticultural cooperative shall not be reduced under section 1382 by reason of that portion of any qualified payment as does not exceed the deduction allowable under subparagraph (A) with respect to such payment.
+
+#### (D) Eligible taxpayer ####
+
+For purposes of this paragraph, the term "eligible taxpayer" means—
+
+(i) a taxpayer other than a corporation, or
+
+(ii) a specified agricultural or horticultural cooperative.
+
+#### (E) Qualified payment ####
+
+For purposes of this section, the term "qualified payment" means, with respect to any eligible taxpayer, any amount which—
+
+(i) is described in paragraph (1) or (3) of section 1385(a),
+
+(ii) is received by such taxpayer from a specified agricultural or horticultural cooperative, and
+
+(iii) is attributable to qualified production activities income with respect to which a deduction is allowed to such cooperative under paragraph (1).
+
+#### (3) Qualified production activities income ####
+
+For purposes of this subsection—
+
+#### (A) In general ####
+
+The term "qualified production activities income" for any taxable year means an amount equal to the excess (if any) of—
+
+(i) the taxpayer's domestic production gross receipts for such taxable year, over
+
+(ii) the sum of—
+
+(I) the cost of goods sold that are allocable to such receipts, and
+
+(II) other expenses, losses, or deductions (other than the deduction allowed under this subsection), which are properly allocable to such receipts.
+
+#### (B) Allocation method ####
+
+The Secretary shall prescribe rules for the proper allocation of items described in subparagraph (A) for purposes of determining qualified production activities income. Such rules shall provide for the proper allocation of items whether or not such items are directly allocable to domestic production gross receipts.
+
+#### (C) Special rules for determining costs ####
+
+#### (i) In general ####
+
+For purposes of determining costs under subclause (I) of subparagraph (A)(ii), any item or service brought into the United States shall be treated as acquired by purchase, and its cost shall be treated as not less than its value immediately after it entered the United States. A similar rule shall apply in determining the adjusted basis of leased or rented property where the lease or rental gives rise to domestic production gross receipts.
+
+#### (ii) Exports for further manufacture ####
+
+In the case of any property described in clause (i) that had been exported by the taxpayer for further manufacture, the increase in cost or adjusted basis under clause (i) shall not exceed the difference between the value of the property when exported and the value of the property when brought back into the United States after the further manufacture.
+
+#### (D) Domestic production gross receipts ####
+
+#### (i) In general ####
+
+The term "domestic production gross receipts" means the gross receipts of the taxpayer which are derived from any lease, rental, license, sale, exchange, or other disposition of any agricultural or horticultural product which was manufactured, produced, grown, or extracted by the taxpayer (determined after the application of paragraph (4)(B)) in whole or significant part within the United States. Such term shall not include gross receipts of the taxpayer which are derived from the lease, rental, license, sale, exchange, or other disposition of land.
+
+#### (ii) Related persons ####
+
+#### (I) In general ####
+
+The term "domestic production gross receipts" shall not include any gross receipts of the taxpayer derived from property leased, licensed, or rented by the taxpayer for use by any related person.
+
+#### (II) Related person ####
+
+For purposes of subclause (I), a person shall be treated as related to another person if such persons are treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414, except that determinations under subsections (a) and (b) of section 52 shall be made without regard to section 1563(b).
+
+#### (4) Specified agricultural or horticultural cooperative ####
+
+For purposes of this section—
+
+#### (A) In general ####
+
+The term "specified agricultural or horticultural cooperative" means an organization to which part I of subchapter T applies which is engaged—
+
+(i) in the manufacturing, production, growth, or extraction in whole or significant part of any agricultural or horticultural product, or
+
+(ii) in the marketing of agricultural or horticultural products.
+
+#### (B) Application to marketing cooperatives ####
+
+A specified agricultural or horticultural cooperative described in subparagraph (A)(ii) shall be treated as having manufactured, produced, grown, or extracted in whole or significant part any agricultural or horticultural product marketed by the specified agricultural or horticultural cooperative which its patrons have so manufactured, produced, grown, or extracted.
+
+#### (5) Definitions and special rules ####
+
+#### (A) Special rule for affiliated groups ####
+
+#### (i) In general ####
+
+All members of an expanded affiliated group shall be treated as a single corporation for purposes of this subsection.
+
+#### (ii) Partnerships owned by expanded affiliated groups ####
+
+For purposes of paragraph (3)(D), if all of the interests in the capital and profits of a partnership are owned by members of a single expanded affiliated group at all times during the taxable year of such partnership, the partnership and all members of such group shall be treated as a single taxpayer during such period.
+
+#### (iii) Expanded affiliated group ####
+
+For purposes of this subsection, the term "expanded affiliated group" means an affiliated group as defined in section 1504(a), determined—
+
+(I) by substituting "more than 50 percent" for "at least 80 percent" each place it appears, and
+
+(II) without regard to paragraphs (2) and (4) of section 1504(b).
+
+#### (iv) Allocation of deduction ####
+
+Except as provided in regulations, the deduction under paragraph (1) shall be allocated among the members of the expanded affiliated group in proportion to each member's respective amount (if any) of qualified production activities income.
+
+#### (B) Special rule for cooperative partners ####
+
+In the case of a specified agricultural or horticultural cooperative which is a partner in a partnership, rules similar to the rules of subsection (f)(1) shall apply for purposes of this subsection.
+
+#### (C) Trade or business requirement ####
+
+This subsection shall be applied by only taking into account items which are attributable to the actual conduct of a trade or business.
+
+#### (D) Unrelated business taxable income ####
+
+For purposes of determining the tax imposed by section 511, this section shall be applied by substituting "unrelated business taxable income" for "taxable income" each place it appears in this section (other than this subparagraph).
+
+#### (E) Special rule for cooperative with oil related qualified production activities income ####
+
+#### (i) In general ####
+
+If a specified agricultural or horticultural cooperative has oil related qualified production activities income for any taxable year, the amount otherwise allowable as a deduction under paragraph (1) shall be reduced by 3 percent of the least of—
+
+(I) the oil related qualified production activities income of the cooperative for the taxable year,
+
+(II) the qualified production activities income of the cooperative for the taxable year, or
+
+(III) taxable income.
+
+#### (ii) Oil related qualified production activities income ####
+
+For purposes of this subparagraph, the term "oil related qualified production activities income" means for any taxable year the qualified production activities income which is attributable to the production, refining, processing, transportation, or distribution of oil, gas, or any primary product thereof (within the meaning of section 927(a)(2)(C), as in effect before its repeal) during such taxable year.
+
+#### (6) Regulations ####
+
+The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this subsection, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this subsection with respect to any activity described in paragraph (3)(D)(i). Such regulations shall be based on the regulations applicable to cooperatives and their patrons under section 199 (as in effect before its repeal).
 
 #### (h) Anti-abuse rules ####
 
@@ -352,16 +486,40 @@ The Secretary shall—
 
 This section shall not apply to taxable years beginning after December 31, 2025.
 
-(Added Pub. L. 115–97, title I, §11011(a), Dec. 22, 2017, 131 Stat. 2063.)
+(Added Pub. L. 115–97, title I, §11011(a), Dec. 22, 2017, 131 Stat. 2063; amended Pub. L. 115–141, div. T, §101(a)(1), (2)(A), (C), (b), Mar. 23, 2018, 132 Stat. 1151, 1155.)
 
 #### References in Text ####
 
-The enactment of subchapter T, referred to in subsec. (e)(4)(B)(ii), means the enactment of subchapter T (§1381 et seq.) of chapter 1 of this title, which was added by Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045.
-
 Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126.
+
+#### Amendments ####
+
+**2018**—Subsec. (a). Pub. L. 115–141, §101(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided equation for allowed deduction for any taxable year, which included special deduction for qualified cooperative dividends.
+
+Subsec. (b)(7). Pub. L. 115–141, §101(b)(3), added par. (7).
+
+Subsec. (c)(1). Pub. L. 115–141, §101(b)(2)(A), struck out ", qualified cooperative dividends," after "qualified REIT dividends".
+
+Subsec. (c)(3)(B). Pub. L. 115–141, §101(b)(2)(B)(i)(I), struck out "investment" before "items" in introductory provisions.
+
+Subsec. (c)(3)(B)(ii). Pub. L. 115–141, §101(b)(2)(B)(i)(II), inserted at end "Any amount described in section 1385(a)(1) shall not be treated as described in this clause."
+
+Subsec. (e)(1). Pub. L. 115–141, §101(a)(2)(C), substituted "Except as otherwise provided in subsection (g)(2)(B), taxable income" for "Taxable income".
+
+Pub. L. 115–141, §101(a)(2)(A), substituted "any deduction" for "the deduction".
+
+Subsec. (e)(4), (5). Pub. L. 115–141, §101(b)(2)(B)(ii), redesignated par. (5) as (4) and struck out former par. (4) which defined "qualified cooperative dividend".
+
+Subsec. (g). Pub. L. 115–141, §101(a)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to deduction allowed to specified agricultural or horticultural cooperatives.
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by Pub. L. 115–141 effective as if included in section 11011 of Pub. L. 115–97, see section 101(d) of Pub. L. 115–141, set out as a note under section 62 of this title.
 
 #### Effective Date ####
 
 Section applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 62 of this title.
 
-[<sup>1</sup> So in original. Probably should be "7704(b))".](#199A_1)
+[<sup>1</sup> So in original. The word "a" probably should not appear within the quoted text.](#199A_1)
+
+[<sup>2</sup> So in original. Probably should be "7704(b))".](#199A_2)

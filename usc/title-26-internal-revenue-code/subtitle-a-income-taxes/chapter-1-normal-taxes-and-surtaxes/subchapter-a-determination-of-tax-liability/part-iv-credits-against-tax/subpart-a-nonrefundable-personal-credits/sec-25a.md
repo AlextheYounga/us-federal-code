@@ -1,40 +1,40 @@
-### §25A. Hope and Lifetime Learning credits ###
+### §25A. American Opportunity and Lifetime Learning credits ###
 
 #### (a) Allowance of credit ####
 
 In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year the amount equal to the sum of—
 
-(1) the Hope Scholarship Credit, plus
+(1) the American Opportunity Tax Credit, plus
 
 (2) the Lifetime Learning Credit.
 
-#### (b) Hope Scholarship Credit ####
+#### (b) American Opportunity Tax Credit ####
 
 #### (1) Per student credit ####
 
-In the case of any eligible student for whom an election is in effect under this section for any taxable year, the Hope Scholarship Credit is an amount equal to the sum of—
+In the case of any eligible student for whom an election is in effect under this section for any taxable year, the American Opportunity Tax Credit is an amount equal to the sum of—
 
-(A) 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $1,000, plus
+(A) 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus
 
-(B) 50 percent of such expenses so paid as exceeds $1,000 but does not exceed the applicable limit.
+(B) 25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000.
 
-#### (2) Limitations applicable to Hope Scholarship Credit ####
+#### (2) Limitations applicable to American Opportunity Tax Credit ####
 
-#### (A) Credit allowed only for 2 taxable years ####
+#### (A) Credit allowed only for 4 taxable years ####
 
-An election to have this section apply with respect to any eligible student for purposes of the Hope Scholarship Credit under subsection (a)(1) may not be made for any taxable year if such an election (by the taxpayer or any other individual) is in effect with respect to such student for any 2 prior taxable years.
+An election to have this section apply with respect to any eligible student for purposes of the American Opportunity Tax Credit under subsection (a)(1) may not be made for any taxable year if such an election (by the taxpayer or any other individual) is in effect with respect to such student for any 4 prior taxable years.
 
 #### (B) Credit allowed for year only if individual is at least ½ time student for portion of year ####
 
-The Hope Scholarship Credit under subsection (a)(1) shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
+The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an individual unless such individual is an eligible student for at least one academic period which begins during such year.
 
-#### (C) Credit allowed only for first 2 years of postsecondary education ####
+#### (C) Credit allowed only for first 4 years of postsecondary education ####
 
-The Hope Scholarship Credit under subsection (a)(1) shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an eligible student if the student has completed (before the beginning of such taxable year) the first 2 years of postsecondary education at an eligible educational institution.
+The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for a taxable year with respect to the qualified tuition and related expenses of an eligible student if the student has completed (before the beginning of such taxable year) the first 4 years of postsecondary education at an eligible educational institution.
 
 #### (D) Denial of credit if student convicted of a felony drug offense ####
 
-The Hope Scholarship Credit under subsection (a)(1) shall not be allowed for qualified tuition and related expenses for the enrollment or attendance of a student for any academic period if such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends.
+The American Opportunity Tax Credit under subsection (a)(1) shall not be allowed for qualified tuition and related expenses for the enrollment or attendance of a student for any academic period if such student has been convicted of a Federal or State felony offense consisting of the possession or distribution of a controlled substance before the end of the taxable year with or within which such period ends.
 
 #### (3) Eligible student ####
 
@@ -44,35 +44,59 @@ For purposes of this subsection, the term "eligible student" means, with respect
 
 (B) is carrying at least ½ the normal full-time work load for the course of study the student is pursuing.
 
-#### (4) Applicable limit ####
+#### (4) Restrictions on taxpayers who improperly claimed American Opportunity Tax Credit in prior years ####
 
-For purposes of paragraph (1)(B), the applicable limit for any taxable year is an amount equal to 2 times the dollar amount in effect under paragraph (1)(A) for such taxable year.
+#### (A) Taxpayers making prior fraudulent or reckless claims ####
+
+#### (i) In general ####
+
+No American Opportunity Tax Credit shall be allowed under this section for any taxable year in the disallowance period.
+
+#### (ii) Disallowance period ####
+
+For purposes of subparagraph (A), the disallowance period is—
+
+(I) the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of the American Opportunity Tax Credit under this section was due to fraud, and
+
+(II) the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of the American Opportunity Tax Credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).
+
+#### (B) Taxpayers making improper prior claims ####
+
+In the case of a taxpayer who is denied the American Opportunity Tax Credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no American Opportunity Tax Credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
 
 #### (c) Lifetime Learning Credit ####
 
 #### (1) Per taxpayer credit ####
 
-The Lifetime Learning Credit for any taxpayer for any taxable year is an amount equal to 20 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished during any academic period beginning in such taxable year) as does not exceed $10,000 ($5,000 in the case of taxable years beginning before January 1, 2003).
+The Lifetime Learning Credit for any taxpayer for any taxable year is an amount equal to 20 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished during any academic period beginning in such taxable year) as does not exceed $10,000.
 
 #### (2) Special rules for determining expenses ####
 
-#### (A) Coordination with Hope Scholarship ####
+#### (A) Coordination with American Opportunity Tax Credit ####
 
-The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a Hope Scholarship Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
+The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a American Opportunity Tax Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
 
 #### (B) Expenses eligible for Lifetime Learning Credit ####
 
 For purposes of paragraph (1), qualified tuition and related expenses shall include expenses described in subsection (f)(1) with respect to any course of instruction at an eligible educational institution to acquire or improve job skills of the individual.
 
-#### (d) Limitation based on modified adjusted gross income ####
+#### (d) Limitations based on modified adjusted gross income ####
 
-#### (1) In general ####
+#### (1) American Opportunity Tax Credit ####
 
-The amount which would (but for this subsection) be taken into account under subsection (a) for the taxable year shall be reduced (but not below zero) by the amount determined under paragraph (2).
+The American Opportunity Tax Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
 
-#### (2) Amount of reduction ####
+(A) the excess of—
 
-The amount determined under this paragraph is the amount which bears the same ratio to the amount which would be so taken into account as—
+(i) the taxpayer's modified adjusted gross income for such taxable year, over
+
+(ii) $80,000 ($160,000 in the case of a joint return), bears to
+
+(B) $10,000 ($20,000 in the case of a joint return).
+
+#### (2) Lifetime Learning Credit ####
+
+The Lifetime Learning Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
 
 (A) the excess of—
 
@@ -84,7 +108,7 @@ The amount determined under this paragraph is the amount which bears the same ra
 
 #### (3) Modified adjusted gross income ####
 
-The term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+For purposes of this subsection, the term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
 #### (e) Election not to have section apply ####
 
@@ -116,6 +140,10 @@ Such term does not include expenses with respect to any course or other educatio
 
 Such term does not include student activity fees, athletic fees, insurance expenses, or other expenses unrelated to an individual's academic course of instruction.
 
+#### (D) Required course materials taken into account for American Opportunity Tax Credit ####
+
+For purposes of determining the American Opportunity Tax Credit, subparagraph (A) shall be applied by substituting "tuition, fees, and course materials" for "tuition and fees".
+
 #### (2) Eligible educational institution ####
 
 The term "eligible educational institution" means an institution—
@@ -128,7 +156,23 @@ The term "eligible educational institution" means an institution—
 
 #### (1) Identification requirement ####
 
+#### (A) In general ####
+
 No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
+
+#### (B) Additional identification requirements with respect to American Opportunity Tax Credit ####
+
+#### (i) Student ####
+
+The requirements of subparagraph (A) shall not be treated as met with respect to the American Opportunity Tax Credit unless the individual's taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.
+
+#### (ii) Taxpayer ####
+
+No American Opportunity Tax Credit shall be allowed under this section if the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year.
+
+#### (iii) Institution ####
+
+No American Opportunity Tax Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.
 
 #### (2) Adjustment for certain scholarships, etc. ####
 
@@ -170,111 +214,29 @@ If the taxpayer is a nonresident alien individual for any portion of the taxable
 
 Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
 
-#### (h) Inflation adjustments ####
+#### (h) Inflation adjustment ####
 
-#### (1) Dollar limitation on amount of credit ####
-
-#### (A) In general ####
-
-In the case of a taxable year beginning after 2001, each of the $1,000 amounts under subsection (b)(1) shall be increased by an amount equal to—
-
-(i) such dollar amount, multiplied by
-
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 2016" in subparagraph (A)(ii) thereof.
-
-#### (B) Rounding ####
-
-If any amount as adjusted under subparagraph (A) is not a multiple of $100, such amount shall be rounded to the next lowest multiple of $100.
-
-#### (2) Income limits ####
-
-#### (A) In general ####
+#### (1) In general ####
 
 In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amounts in subsection (d)(2) shall each be increased by an amount equal to—
 
-(i) such dollar amount, multiplied by
+(A) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
-#### (B) Rounding ####
+#### (2) Rounding ####
 
-If any amount as adjusted under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
+If any amount as adjusted under paragraph (1) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 
-#### (i) American Opportunity Tax Credit ####
+#### (i) Portion of American Opportunity Tax Credit made refundable ####
 
-In the case of any taxable year beginning after 2008—
-
-#### (1) Increase in credit ####
-
-The Hope Scholarship Credit shall be an amount equal to the sum of—
-
-(A) 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus
-
-(B) 25 percent of such expenses so paid as exceeds $2,000 but does not exceed $4,000.
-
-#### (2) Credit allowed for first 4 years of post-secondary education ####
-
-Subparagraphs (A) and (C) of subsection (b)(2) shall be applied by substituting "4" for "2".
-
-#### (3) Qualified tuition and related expenses to include required course materials ####
-
-For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied by substituting "tuition, fees, and course materials" for "tuition and fees".
-
-#### (4) Increase in AGI limits for Hope Scholarship Credit ####
-
-In lieu of applying subsection (d) with respect to the Hope Scholarship Credit, such credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
-
-(A) the excess of—
-
-(i) the taxpayer's modified adjusted gross income (as defined in subsection (d)(3)) for such taxable year, over
-
-(ii) $80,000 ($160,000 in the case of a joint return), bears to
-
-(B) $10,000 ($20,000 in the case of a joint return).
-
-#### (5) Portion of credit made refundable ####
-
-40 percent of so much of the credit allowed under subsection (a) as is attributable to the Hope Scholarship Credit (determined after application of paragraph (4) and without regard to this paragraph and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
-
-#### (6) Identification numbers ####
-
-#### (A) Student ####
-
-The requirements of subsection (g)(1) shall not be treated as met with respect to the Hope Scholarship Credit unless the individual's taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.
-
-#### (B) Taxpayer ####
-
-No Hope Scholarship Credit shall be allowed under this section if the identifying number of the taxpayer was issued after the due date for filing the return for the taxable year.
-
-#### (C) Institution ####
-
-No Hope Scholarship Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.
-
-#### (7) Restrictions on taxpayers who improperly claimed credit in prior year ####
-
-#### (A) Taxpayers making prior fraudulent or reckless claims ####
-
-#### (i) In general ####
-
-No credit shall be allowed under this section for any taxable year in the disallowance period.
-
-#### (ii) Disallowance period ####
-
-For purposes of clause (i), the disallowance period is—
-
-(I) the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to fraud, and
-
-(II) the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).
-
-#### (B) Taxpayers making improper prior claims ####
-
-In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
+Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph <sup><a href="#25A_1_target" name="25A_1">1</a></sup> and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 
 #### (j) Regulations ####
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -287,6 +249,36 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and
 The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, §101(l)(14), substituted "American Opportunity Tax Credit" for "Hope Scholarship Credit" wherever appearing in text.
+
+Pub. L. 115–141, §101(l)(9), substituted "American Opportunity" for "Hope" in section catchline.
+
+Subsec. (b). Pub. L. 115–141, §101(l)(11), substituted "American Opportunity Tax Credit" for "Hope Scholarship Credit" in heading.
+
+Subsec. (b)(1)(A). Pub. L. 115–141, §101(l)(1)(A), substituted "$2,000" for "$1,000".
+
+Subsec. (b)(1)(B). Pub. L. 115–141, §101(l)(1)(B), substituted "25 percent" for "50 percent", "$2,000" for "$1,000", and "$4,000" for "the applicable limit".
+
+Subsec. (b)(2). Pub. L. 115–141, §101(l)(12), substituted "American Opportunity Tax Credit" for "Hope Scholarship Credit" in heading.
+
+Subsec. (b)(2)(A), (C). Pub. L. 115–141, §101(l)(2), substituted "4" for "2" in heading and text.
+
+Subsec. (b)(4). Pub. L. 115–141, §101(l)(3), amended par. (4) generally. Prior to amendment, text read as follows: "For purposes of paragraph (1)(B), the applicable limit for any taxable year is an amount equal to 2 times the dollar amount in effect under paragraph (1)(A) for such taxable year."
+
+Subsec. (c)(1). Pub. L. 115–141, §401(b)(1), struck out "($5,000 in the case of taxable years beginning before January 1, 2003)" after "$10,000".
+
+Subsec. (c)(2)(A). Pub. L. 115–141, §101(l)(13), substituted "American Opportunity Tax Credit" for "Hope Scholarship" in heading.
+
+Subsec. (d). Pub. L. 115–141, §101(l)(4), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to limitation based on modified adjusted gross income.
+
+Subsec. (f)(1)(D). Pub. L. 115–141, §101(l)(5), added subpar. (D).
+
+Subsec. (g)(1). Pub. L. 115–141, §101(l)(6), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (h). Pub. L. 115–141, §101(l)(7), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to inflation adjustments.
+
+Subsec. (i). Pub. L. 115–141, §101(l)(8), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to the American Opportunity Tax Credit in any taxable year beginning after 2008.
 
 **2017**—Subsec. (h)(1)(A)(ii), (2)(A)(ii). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -322,6 +314,10 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
 
 "(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
 
+#### Effective Date of 2018 Amendment ####
+
+Amendment by section 101(l)(1) to (9), (11) to (14) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
+
 #### Effective Date of 2017 Amendment ####
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -330,13 +326,11 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 114–113, div. Q, title I, §102(c), Dec. 18, 2015, 129 Stat. 3044, provided that: "The amendments made by this section [amending this section and provisions set out as a note below] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 18, 2015]."
 
-Pub. L. 114–113, div. Q, title II, §206(b), Dec. 18, 2015, 129 Stat. 3082, provided that:
+Pub. L. 114–113, div. Q, title II, §206(b), Dec. 18, 2015, 129 Stat. 3082, as amended by Pub. L. 115–141, div. U, title I, §101(j), Mar. 23, 2018, 132 Stat. 1162, provided that:
 
-"(1) In general.—Except as provided in paragraph (2), the amendment made by subsection (a)(2) [amending this section] shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act [Dec. 18, 2015].
+"(1) In general.—The amendment made by subsection (a)(2) [amending this section] shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act [Dec. 18, 2015].
 
-"(2) Exception for timely-filed 2015 returns.—The amendment made by subsection (a)(2) shall not apply to any return of tax (other than an amendment or supplement to any return of tax) for any taxable year which includes the date of the enactment of this Act if such return is filed on or before the due date for such return of tax.
-
-"(3) Repeal of deadwood.—The amendment made by subsection (a)(1) [amending this section] shall take effect on the date of the enactment of this Act."
+"(2) Repeal of deadwood.—The amendment made by subsection (a)(1) [amending this section] shall take effect on the date of the enactment of this Act."
 
 Amendment by section 208(a)(2) of Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 208(c) of Pub. L. 114–113, set out as a note under section 24 of this title.
 
@@ -378,17 +372,21 @@ Pub. L. 105–34, title II, §201(f), Aug. 5, 1997, 111 Stat. 806, provided that
 
 "(2) Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 1986 shall apply to expenses paid after June 30, 1998 (in taxable years ending after such date), for education furnished in academic periods beginning after such dates."
 
+#### Savings Provision ####
+
+For provisions that nothing in amendment by section 401(b)(1) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
 #### Treatment of Possessions ####
 
 Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, as amended by Pub. L. 111–312, title I, §103(a)(2), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(a)(2), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 114–113, div. Q, title I, §102(b), Dec. 18, 2015, 129 Stat. 3044, provided that:
 
 "(1) Payments to possessions.—
 
-"(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+"(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) [now 25A(i)] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
-"(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of such Code (as so added) for taxable years beginning after 2008 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+"(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) [now 25A(i)] of such Code (as so added) for taxable years beginning after 2008 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
-"(2) Coordination with credit allowed against united states income taxes.—Section 25A(i)(6) [now 25A(i)(5)] of such Code (as added by this section) shall not apply to a bona fide resident of any possession of the United States.
+"(2) Coordination with credit allowed against united states income taxes.—Section 25A(i)(6) [now 25A(i)] of such Code (as added by this section) shall not apply to a bona fide resident of any possession of the United States.
 
 "(3) Definitions and special rules.—
 
@@ -399,3 +397,5 @@ Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, as am
 "(C) Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 25A of the Internal Revenue Code of 1986 by reason of subsection (i)(6) [now (i)(5)] of such section (as added by this section)."
 
 [Amendments by Pub. L. 112–240, §103(a)(2), and Pub. L. 114–113, §102(b), were executed as the probable intent of Congress to section 1004(c)(1) of the American Recovery and Reinvestment Tax Act of 2009, set out above, which act is title I of div. B of Pub. L. 111–5, notwithstanding directory language amending section 1004(c)(1) of division B of the American Recovery and Reinvestment Tax Act of 2009.]
+
+[<sup>1</sup> So in original. Probably should be "this subsection".](#25A_1)

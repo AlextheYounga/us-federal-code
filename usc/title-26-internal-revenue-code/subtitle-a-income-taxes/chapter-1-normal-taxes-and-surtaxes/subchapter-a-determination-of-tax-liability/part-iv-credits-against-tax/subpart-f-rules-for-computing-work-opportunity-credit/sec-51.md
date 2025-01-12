@@ -50,11 +50,11 @@ the term "wages" shall not include any amount paid or incurred by the employer t
 
 #### (4) Termination ####
 
-The term "wages" shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2019 <sup><a href="#51_2_target" name="51_2">2</a></sup>
+The term "wages" shall not include any amount paid or incurred to an individual who begins work for the employer after December 31, 2019.
 
 #### (5) Coordination with payroll tax forgiveness ####
 
-The term "wages" shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) unless such qualified employer makes an election not to have section 3111(d) apply.
+The term "wages" shall not include any amount paid or incurred to a qualified individual (as defined in section 3111(d)(3)) <sup><a href="#51_1_target" name="51_1">1</a></sup> during the 1-year period beginning on the hiring date of such individual by a qualified employer (as defined in section 3111(d)) <sup><a href="#51_1_target" name="51_1">1</a></sup> unless such qualified employer makes an election not to have section 3111(d) <sup><a href="#51_1_target" name="51_1">1</a></sup> apply.
 
 #### (d) Members of targeted groups ####
 
@@ -106,7 +106,7 @@ The term "qualified veteran" means any veteran who is certified by the designate
 
 (I) having a hiring date which is not more that 1 year after having been discharged or released from active duty in the Armed Forces of the United States, or
 
-(II) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months <sup><a href="#51_3_target" name="51_3">3</a></sup>
+(II) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 6 months,
 
 (iii) having aggregate periods of unemployment during the 1-year period ending on the hiring date which equal or exceed 4 weeks (but less than 6 months), or
 
@@ -200,7 +200,7 @@ The preceding sentence shall not apply to an individual who, with respect to the
 
 Paragraph (5)(B) shall apply for purposes of subparagraph (A)(iv).
 
-#### (8) Qualified food stamp recipient <sup><a href="#51_4_target" name="51_4">4</a></sup> ####
+#### (8) Qualified supplemental nutrition assistance program benefits recipient ####
 
 #### (A) In general ####
 
@@ -388,7 +388,7 @@ In any case to which subparagraph (A) or (B) of paragraph (1) applies, the term 
 
 No wages shall be taken into account under subsection (a) with respect to an individual who—
 
-(A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity,<sup><a href="#51_5_target" name="51_5">5</a></sup> (determined with the application of section 267(c)),
+(A) bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to the taxpayer, or, if the taxpayer is a corporation, to an individual who owns, directly or indirectly, more than 50 percent in value of the outstanding stock of the corporation, or, if the taxpayer is an entity other than a corporation, to any individual who owns, directly or indirectly, more than 50 percent of the capital and profits interests in the entity (determined with the application of section 267(c)),
 
 (B) if the taxpayer is an estate or trust, is a grantor, beneficiary, or fiduciary of the estate or trust, or is an individual who bears any of the relationships described in subparagraphs (A) through (G) of section 152(d)(2) to a grantor, beneficiary, or fiduciary of the estate or trust, or
 
@@ -432,11 +432,13 @@ Under regulations prescribed by the Secretary, in the case of a successor employ
 
 No credit shall be determined under this section with respect to remuneration paid by an employer to an employee for services performed by such employee for another person unless the amount reasonably expected to be received by the employer for such services from such other person exceeds the remuneration paid by the employer to such employee for such services.
 
-(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(l)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(l)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) [title I, §102(a)–(c), title III, §316(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–56, title II, §261(a)–(d), Nov. 21, 2011, 125 Stat. 729, 730; Pub. L. 112–240, title III, §309(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §119(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §142(a), (b), Dec. 18, 2015, 129 Stat. 3056.)
+(Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 141; amended Pub. L. 95–600, title III, §321(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 96–222, title I, §103(a)(6)(A), (E), (F), (G)(iii)–(ix), Apr. 1, 1980, 94 Stat. 209, 210; Pub. L. 97–34, title II, §261(a)–(b)(2)(A), (B)(ii)–(f)(1), Aug. 13, 1981, 95 Stat. 260–262; Pub. L. 97–248, title II, §233(a)–(d), (f), Sept. 3, 1982, 96 Stat. 501, 502; Pub. L. 97–448, title I, §102(l)(1), (3), (4), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title IV, §474(p)(1)–(3), title VII, §712(n), title X, §1041(a), (c)(1)–(4), div. B, title VI, §§2638(b), 2663(j)(5)(A), July 18, 1984, 98 Stat. 837, 955, 1042, 1043, 1144, 1171; Pub. L. 99–514, title XVII, §1701(a)–(c), title XVIII, §1878(f)(1), Oct. 22, 1986, 100 Stat. 2772, 2904; Pub. L. 100–203, title X, §10601(a), Dec. 22, 1987, 101 Stat. 1330–451; Pub. L. 100–485, title II, §202(c)(6), Oct. 13, 1988, 102 Stat. 2378; Pub. L. 100–647, title I, §1017(a), title IV, §4010(a), (c)(1), (d)(1), Nov. 10, 1988, 102 Stat. 3575, 3655; Pub. L. 101–239, title VII, §7103(a), (c)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §105(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §§13102(a), 13302(d), Aug. 10, 1993, 107 Stat. 420, 556; Pub. L. 104–188, title I, §1201(a)–(e)(1), (5), (f), Aug. 20, 1996, 110 Stat. 1768–1772; Pub. L. 104–193, title I, §110(l)(1), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title VI, §603(a)–(d), Aug. 5, 1997, 111 Stat. 862; Pub. L. 105–277, div. J, title I, §1002(a), title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681–888, 2681–912; Pub. L. 106–170, title V, §505(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 106–554, §1(a)(7) [title I, §102(a)–(c), title III, §316(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–644; Pub. L. 107–147, title VI, §604(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title II, §207(5), title III, §303(a)(1), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 109–432, div. A, title I, §105(a)–(e)(3), Dec. 20, 2006, 120 Stat. 2936, 2937; Pub. L. 110–28, title VIII, §8211(a)–(d), May 25, 2007, 121 Stat. 191; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (D), (2)(O), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (D), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1221(a), Feb. 17, 2009, 123 Stat. 337; Pub. L. 111–147, title I, §101(b), Mar. 18, 2010, 124 Stat. 74; Pub. L. 111–312, title VII, §757(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–56, title II, §261(a)–(d), Nov. 21, 2011, 125 Stat. 729, 730; Pub. L. 112–240, title III, §309(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §119(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §142(a), (b), Dec. 18, 2015, 129 Stat. 3056; Pub. L. 115–141, div. U, title IV, §401(a)(26)–(29), Mar. 23, 2018, 132 Stat. 1185.)
 
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to section 682 of Title 42, was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 3111(d), referred to in subsec. (c)(5), was repealed by Pub. L. 115–141, div. U, title IV, §401(b)(34), Mar. 23, 2018, 132 Stat. 1204.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (d)(3)(A)(i), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(o) of the Act is classified to section 2015(o) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
@@ -455,6 +457,14 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 51, added Pub. L. 90–364, title I, §102(a), June 28, 1968, 82 Stat. 252; amended Pub. L. 91–53, §5(a), Aug. 7, 1969, 83 Stat. 93; Pub. L. 91–172, title III, §301(b)(5), title VII, §701(a), Dec. 30, 1969, 83 Stat. 585, 657, related to the imposition of a tax surcharge, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(7), Oct. 4, 1976, 90 Stat. 1765.
 
 #### Amendments ####
+
+**2018**—Subsec. (c)(4). Pub. L. 115–141, §401(a)(26), inserted period at end.
+
+Subsec. (d)(3)(A)(ii)(II). Pub. L. 115–141, §401(a)(27), inserted comma at end.
+
+Subsec. (d)(8). Pub. L. 115–141, §401(a)(28), substituted "supplemental nutrition assistance program benefits recipient" for "food stamp recipient" in heading.
+
+Subsec. (i)(1)(A). Pub. L. 115–141, §401(a)(29), substituted "entity" for "entity,".
 
 **2015**—Subsec. (c)(4). Pub. L. 114–113, §142(a), substituted "December 31, 2019" for "December 31, 2014".
 
@@ -1019,11 +1029,3 @@ Pub. L. 95–600, title III, §321(d)(3), Nov. 6, 1978, 92 Stat. 2836, as amende
 "(B) the amount of the credit which would be so determined by reason of the amendments made by this section."
 
 [<sup>1</sup> See References in Text note below.](#51_1)
-
-[<sup>2</sup> So in original. Probably should be followed by a period.](#51_2)
-
-[<sup>3</sup> So in original. Probably should be followed by a comma.](#51_3)
-
-[<sup>4</sup> So in original. Probably should be "Qualified supplemental nutrition assistance program benefits recipient".](#51_4)
-
-[<sup>5</sup> So in original. The comma probably should not appear.](#51_5)

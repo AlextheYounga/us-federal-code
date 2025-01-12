@@ -42,7 +42,7 @@ If, after property is placed in service, there is a disposition or other cessati
 
 #### (E) Special rules ####
 
-Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4).
+Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
 
 #### (3) Carrybacks and carryovers adjusted ####
 
@@ -94,7 +94,7 @@ Subparagraph (A) shall not apply to any property described in section 168(g)(4).
 
 No credit shall be determined under this subpart with respect to any property which is used predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to—
 
-(A) nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities.<sup><a href="#50_1_target" name="50_1">1</a></sup>
+(A) nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities;
 
 (B) property used by a hotel or motel in connection with the trade or business of furnishing lodging where the predominant portion of the accommodations is used by transients;
 
@@ -190,7 +190,7 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
 
-(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036.)
+(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209.)
 
 #### References in Text ####
 
@@ -201,6 +201,10 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat. 498, related to restoration of credit for investment in certain depreciable property, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(2)(E). Pub. L. 115–141, §401(d)(3)(B)(ii), substituted "or 48C(b)(2)" for "48C(b)(2), or 48D(b)(4)".
+
+Subsec. (b)(2)(A). Pub. L. 115–141, §401(a)(25), substituted semicolon for period at end.
 
 **2014**—Subsec. (a)(2)(E). Pub. L. 113–295 inserted ", 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4)" after "in section 48(b)".
 
@@ -236,6 +240,8 @@ Section applicable to property placed in service after Dec. 31, 1990, but not ap
 
 #### Savings Provision ####
 
-For provisions that nothing in this section be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that amendment made by section 401(d)(3)(B)(ii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of section 48D(e)(1) of this title, see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under section 48D of this title.
 
-[<sup>1</sup> So in original. The period probably should be a semicolon.](#50_1)
+For provisions that nothing in amendment by section 401(d)(3)(B)(ii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
+For provisions that nothing in this section be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.

@@ -92,6 +92,8 @@ Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: "That notw
 
 Similar provisions were contained in the following appropriations acts:
 
+Pub. L. 115–141, div. G, title I, Mar. 23, 2018, 132 Stat. 645.
+
 Pub. L. 115–31, div. G, title I, May 5, 2017, 131 Stat. 446.
 
 Pub. L. 114–113, div. G, title I, Dec. 18, 2015, 129 Stat. 2536.

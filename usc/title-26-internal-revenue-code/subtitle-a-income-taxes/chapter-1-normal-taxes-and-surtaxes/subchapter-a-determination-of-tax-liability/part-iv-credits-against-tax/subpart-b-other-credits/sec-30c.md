@@ -68,21 +68,7 @@ No credit shall be allowed under subsection (a) for any property if the taxpayer
 
 Rules similar to the rules of section 179A(e)(4) shall apply.
 
-#### (6) Special rule for property placed in service during 2009 and 2010 ####
-
-In the case of property placed in service in taxable years beginning after December 31, 2008, and before January 1, 2011—
-
-(A) in the case of any such property which does not relate to hydrogen—
-
-(i) subsection (a) shall be applied by substituting "50 percent" for "30 percent",
-
-(ii) subsection (b)(1) shall be applied by substituting "$50,000" for "$30,000", and
-
-(iii) subsection (b)(2) shall be applied by substituting "$2,000" for "$1,000", and
-
-(B) in the case of any such property which relates to hydrogen, subsection (b)(1) shall be applied by substituting "$200,000" for "$30,000".
-
-#### (7) Reference ####
+#### (6) Reference ####
 
 For purposes of this section, any reference to section 179A shall be treated as a reference to such section as in effect immediately before its repeal.
 
@@ -94,15 +80,17 @@ The Secretary shall prescribe such regulations as necessary to carry out the pro
 
 This section shall not apply to any property placed in service after December 31, 2017.
 
-(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332; Pub. L. 111–312, title VII, §711(a), Dec. 17, 2010, 124 Stat. 3315; Pub. L. 112–240, title IV, §402(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §161(a), title II, §§218(b), 221(a)(34)(B), Dec. 19, 2014, 128 Stat. 4023, 4035, 4042; Pub. L. 114–113, div. Q, title I, §182(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40404(a), Feb. 9, 2018, 132 Stat. 148.)
+(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332; Pub. L. 111–312, title VII, §711(a), Dec. 17, 2010, 124 Stat. 3315; Pub. L. 112–240, title IV, §402(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §161(a), title II, §§218(b), 221(a)(34)(B), Dec. 19, 2014, 128 Stat. 4023, 4035, 4042; Pub. L. 114–113, div. Q, title I, §182(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40404(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(b)(3), Mar. 23, 2018, 132 Stat. 1201.)
 
 #### References in Text ####
 
-Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(7), means section 179A of this title as in effect before it was repealed by Pub. L. 113–295, div. A, title II, §221(a)(34)(A), Dec, 19, 2014, 128 Stat. 4042, effective Dec. 19, 2014.
+Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(6), means section 179A of this title as in effect before it was repealed by Pub. L. 113–295, div. A, title II, §221(a)(34)(A), Dec, 19, 2014, 128 Stat. 4042, effective Dec. 19, 2014.
 
 #### Amendments ####
 
-**2018**—Subsec. (g). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
+**2018**—Subsec. (e)(6), (7). Pub. L. 115–141 redesignated par. (7) as (6) and struck out former par. (6) which related to special rule for property placed in service during 2009 and 2010.
+
+Subsec. (g). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
 
 **2015**—Subsec. (g). Pub. L. 114–113 substituted "December 31, 2016" for "December 31, 2014".
 
@@ -199,3 +187,7 @@ Amendment by section 402(k) of Pub. L. 109–135 effective as if included in the
 #### Effective Date ####
 
 Pub. L. 109–58, title XIII, §1342(c), Aug. 8, 2005, 119 Stat. 1051, provided that: "The amendments made by this section [enacting this section and amending sections 38, 55, 1016, and 6501 of this title] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date."
+
+#### Savings Provision ####
+
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.

@@ -268,7 +268,7 @@ The term "long-term resident" has the meaning given to such term by section 877(
 
 #### (6) Early distribution tax ####
 
-The term "early distribution tax" means any increase in tax imposed under section 72(t), 220(e)(4),<sup><a href="#877A_1_target" name="877A_1">1</a></sup> 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
+The term "early distribution tax" means any increase in tax imposed under section 72(t), 220(f)(4), 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
 
 #### (h) Other rules ####
 
@@ -292,17 +292,15 @@ If the expatriation of any individual would result in the recognition of gain un
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(154), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
-#### References in Text ####
-
-Section 220(e), referred to in subsec. (g)(6), does not contain a par. (4).
-
 #### Amendments ####
+
+**2018**—Subsec. (g)(6). Pub. L. 115–141 substituted "220(f)(4)" for "220(e)(4)".
 
 **2017**—Subsec. (a)(3)(B)(i)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B) thereof".
 
@@ -321,5 +319,3 @@ Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 
 #### Effective Date ####
 
 Section applicable to any individual whose expatriation date is on or after June 17, 2008, see section 301(g)(1) of Pub. L. 110–245, set out as a note under section 2801 of this title.
-
-[<sup>1</sup> See References in Text note below.](#877A_1)

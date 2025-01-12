@@ -18,7 +18,7 @@ Any loss from a tax shelter farm activity disallowed under subparagraph (A) shal
 
 For purposes of this subsection, the term "tax shelter farm activity" means—
 
-(A) any farming syndicate as defined in section 461(j), and
+(A) any farming syndicate as defined in section 461(k), and
 
 (B) any other activity consisting of farming which is a passive activity (within the meaning of section 469(c)).
 
@@ -52,13 +52,15 @@ For purposes of this paragraph, the term "insolvent" means the excess of liabili
 
 If the taxpayer disposes of his entire interest in any tax shelter farm activity during any taxable year, the amount of the loss attributable to such activity (determined after carryovers under subsection (a)(1)(B)) shall (to the extent otherwise allowable) be allowed for such taxable year in computing alternative minimum taxable income and not treated as a loss from a tax shelter farm activity.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2335; amended Pub. L. 100–203, title X, §10212(b), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1007(d), Nov. 10, 1988, 102 Stat. 3432; Pub. L. 113–295, div. A, title II, §221(a)(58)(E), (60)(B), Dec. 19, 2014, 128 Stat. 4047, 4048; Pub. L. 115–97, title I, §12001(b)(9), Dec. 22, 2017, 131 Stat. 2093.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2335; amended Pub. L. 100–203, title X, §10212(b), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1007(d), Nov. 10, 1988, 102 Stat. 3432; Pub. L. 113–295, div. A, title II, §221(a)(58)(E), (60)(B), Dec. 19, 2014, 128 Stat. 4047, 4048; Pub. L. 115–97, title I, §12001(b)(9), Dec. 22, 2017, 131 Stat. 2093; Pub. L. 115–141, div. U, title IV, §401(a)(30), Mar. 23, 2018, 132 Stat. 1185.)
 
 #### Prior Provisions ####
 
 A prior section 58, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 583; amended Pub. L. 92–178, title III, §308(a), Dec. 10, 1971, 85 Stat. 524; Pub. L. 94–455, title III, §301(d), title XIX, §§1901(b)(40), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1803, 1834; Pub. L. 95–600, title IV, §§421(c), 423(a), title VII, §701(b)(2), Nov. 6, 1978, 92 Stat. 2875, 2877, 2898; Pub. L. 96–222, title I, §107(a)(1)(C), Apr. 1, 1980, 94 Stat. 222; Pub. L. 97–248, title II, §201(c)(1), §201(d)(3), formerly §201(c)(3), Sept. 3, 1982, 96 Stat. 417, 419, renumbered §201(d)(3), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 97–354, §§3(c), 5(a)(16), Oct. 19, 1982, 96 Stat. 1688, 1693; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title VII, §711(a)(2), (3)(B), July 18, 1984, 98 Stat. 942; Pub. L. 99–514, title XVIII, §1875(a), Oct. 22, 1986, 100 Stat. 2894, related to rules for application of minimum tax for tax preferences, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(2)(A). Pub. L. 115–141 substituted "461(k)" for "461(j)".
 
 **2017**—Subsec. (a)(3), (4). Pub. L. 115–97 redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: "For purposes of paragraph (1), a personal service corporation (within the meaning of section 469(j)(2)) shall be treated as a taxpayer other than a corporation."
 

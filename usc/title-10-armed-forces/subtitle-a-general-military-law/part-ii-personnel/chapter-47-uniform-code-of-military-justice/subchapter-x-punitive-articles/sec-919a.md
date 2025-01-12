@@ -34,7 +34,7 @@ Pub. L. 115–91, div. A, title X, §1081(c)(1)(N), (4), Dec. 12, 2017, 131 Stat
 
 (2) by striking "128a 126, and 128" and inserting "126, 128, and 128a".
 
-See 2017 Amendment note below. For text of subsection (b) after amendment by Pub. L. 114–328, §5401(13(B), on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
+See 2017 Amendment note below. For text of subsection (b) after amendment by Pub. L. 114–328, §5401(13)(B), on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
 
 Pub. L. 114–328, div. E, title LX, §5401(13)(B), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2939, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (b) of this section is amended by substituting "928a," for "924," and "128a" for "124,". See 2016 Amendment note below. For text of this section after amendment on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
 

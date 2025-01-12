@@ -758,6 +758,10 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 Amendment by Pub. L. 92–516 effective at close of Oct. 21, 1972, except if regulations are necessary for implementation of any provision that becomes effective on Oct. 21, 1972, and continuation in effect of subchapter I of chapter 6 of Title 7, Agriculture, and regulations thereunder, relating to control of economic poisons, as in existence prior to Oct. 21, 1972, until superseded by provisions of Pub. L. 92–516 and regulations thereunder, see section 4 of Pub. L. 92–516, set out as an Effective Date note under section 136 of Title 7.
 
+#### Extension of Prohibition of Tolerance Fees ####
+
+Pub. L. 115–141, div. M, title IV, §401(c), Mar. 23, 2018, 132 Stat. 1050, provided that: "Section 408(m)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a(m)(3)) shall be applied by substituting 'September 30, 2018' for 'September 30, 2017'."
+
 #### Regulation of Sulfuryl Fluoride ####
 
 Pub. L. 113–79, title X, §10015, Feb. 7, 2014, 128 Stat. 952, provided that: "Notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency shall exclude nonpesticideal sources of fluoride from any aggregate exposure assessment required under section 408 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a) when assessing tolerances associated with residues from the pesticide."

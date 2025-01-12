@@ -12,7 +12,7 @@ Sec.
 
 25. Interest on certain home mortgages.
 
-25A. Hope and Lifetime Learning credits.
+25A. American Opportunity and Lifetime Learning credits.
 
 25B. Elective deferrals and IRA contributions by certain individuals.
 
@@ -23,6 +23,8 @@ Sec.
 26. Limitation based on tax liability; definition of tax liability.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title I, §101(l)(10), Mar. 23, 2018, 132 Stat. 1165, substituted "American Opportunity and Lifetime Learning credits" for "Hope and Lifetime Learning credits" in item 25A.
 
 **2010**—Pub. L. 111–148, title X, §10909(b)(2)(O), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily struck out item 23 "Adoption expenses". See Effective and Termination Dates of 2010 Amendment note set out under section 1 of this title.
 

@@ -14,6 +14,8 @@ Sec.
 
 155. Commission.
 
+155a. Authority of Chief Information Officer.
+
 156. Authorization of appropriations.
 
 157. New technologies and services.
@@ -22,11 +24,15 @@ Sec.
 
 159. Regulatory fees.
 
+159a. Provisions applicable to application and regulatory fees.
+
 160. Competition in provision of telecommunications service.
 
 161. Regulatory reform.
 
 162. Additional research authorities of the FCC.
+
+163. Communications marketplace report.
 
 #### SUBCHAPTER II—COMMON CARRIERS ####
 
@@ -85,6 +91,8 @@ Sec.
 226. Telephone operator services.
 
 227. Restrictions on use of telephone equipment.
+
+227a. Consumer education materials on how to avoid scams that rely upon misleading or inaccurate caller identification information.
 
 228. Regulation of carrier offering of pay-per-call services.
 
@@ -163,6 +171,8 @@ Sec.
 308. Requirements for license.
 
 309. Application for license.
+
+309a. Reports related to spectrum auctions.
 
 310. License ownership restrictions.
 

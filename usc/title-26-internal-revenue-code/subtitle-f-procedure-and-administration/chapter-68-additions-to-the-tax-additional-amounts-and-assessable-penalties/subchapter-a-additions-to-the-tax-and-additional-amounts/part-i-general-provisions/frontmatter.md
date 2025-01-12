@@ -2,7 +2,7 @@
 
 Sec.
 
-6651. Failure to file tax return or pay tax. 1
+6651. Failure to file tax return or to pay tax.
 
 6652. Failure to file certain information returns, registration statements, etc.
 
@@ -21,6 +21,8 @@ Sec.
 [6659 to 6661. Repealed.]
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(298), Mar. 23, 2018, 132 Stat. 1198, substituted "Failure to file tax return or to pay tax" for "Failure to file tax return or pay tax" in item 6651.
 
 **1996**—Pub. L. 104–188, title I, §1704(t)(19), Aug. 20, 1996, 110 Stat. 1888, struck out item 6662 "Applicable rules".
 
@@ -41,5 +43,3 @@ Sec.
 **1974**—Pub. L. 93–406, title II, §1031(b)(1)(B)(ii), Sept. 2, 1974, 88 Stat. 946, inserted ", registration statements, etc." in item 6652.
 
 **1969**—Pub. L. 91–172, title IX, §943(c)(5), 83 Stat. 729, inserted "or pay tax" in item 6651.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

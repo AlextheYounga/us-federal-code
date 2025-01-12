@@ -150,7 +150,7 @@ such assets shall, for purposes of section 83, be treated as property transferre
 
 For purposes of this section, the term "restricted period" means, with respect to any plan described in subparagraph (A)—
 
-(i) any period during which the plan is in at-risk status (as defined in section 430(i)); <sup><a href="#409A_1_target" name="409A_1">1</a></sup>
+(i) any period during which the plan is in at-risk status (as defined in section 430(i)),
 
 (ii) any period the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, and
 
@@ -262,7 +262,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (5) disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
 
-(Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, §13603(c)(2), Dec. 22, 2017, 131 Stat. 2164.)
+(Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, §13603(c)(2), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 115–141, div. U, title IV, §401(a)(80), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### References in Text ####
 
@@ -275,6 +275,8 @@ Section 16(a) of the Securities Exchange Act of 1934, referred to in subsec. (b)
 A prior section 409A was renumbered section 409 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(3)(B)(i). Pub. L. 115–141 substituted comma for semicolon at end.
 
 **2017**—Subsec. (d)(7). Pub. L. 115–97 added par. (7).
 
@@ -345,5 +347,3 @@ Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amend
 "(1) to provide that a participant may terminate participation in the plan, or cancel an outstanding deferral election with regard to amounts deferred after December 31, 2004, but only if amounts subject to the termination or cancellation are includible in income of the participant as earned (or, if later, when no longer subject to substantial risk of forfeiture), and
 
 "(2) to conform to the requirements of such section 409A with regard to amounts deferred after December 31, 2004."
-
-[<sup>1</sup> So in original. The semicolon probably should be a comma.](#409A_1)

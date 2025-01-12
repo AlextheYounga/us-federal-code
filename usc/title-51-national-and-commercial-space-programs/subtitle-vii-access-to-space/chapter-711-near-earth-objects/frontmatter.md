@@ -58,7 +58,7 @@ Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended b
 
 "(f) Annual Reports.—After the initial report under subsection (e), the Administrator shall annually transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
 
-"(1) a summary of all activities carried out under subsection (d) since the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017 [Mar. 21, 2017], including the progress toward achieving 90 percent completion of the survey described in subsection (d); and
+"(1) a summary of all activities carried out under subsection (d) since the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017, including the progress toward achieving 90 percent completion of the survey described in subsection (d); and
 
 "(2) a summary of expenditures for all activities carried out under subsection (d) since the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017.
 
@@ -68,4 +68,4 @@ Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended b
 
 "(2) to expand the Administration's Near-Earth Object Program to include the detection, tracking, cataloguing, and characterization of potentially hazardous near-Earth objects less than 140 meters in diameter.
 
-"(h) Transmittal.—Not later than 270 days after the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017 [Mar. 21, 2017], the Administrator shall transmit the results of the assessment under subsection (g) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives."
+"(h) Transmittal.—Not later than 270 days after the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017, the Administrator shall transmit the results of the assessment under subsection (g) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives."

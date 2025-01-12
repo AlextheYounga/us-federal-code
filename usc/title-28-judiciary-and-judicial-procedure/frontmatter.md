@@ -746,7 +746,7 @@ R.S. §1012 as affected by act Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167 [sect
 
 #### Writs of Error ####
 
-Act Jan. 31, 1928, ch. 14, §1, 45 Stat. 54 [section 861a of former Title 28, Judicial Code and Judiciary], provided that: "The writ of error in cases, civil and criminal, is abolished. All relief which heretofore [Jan. 31, 1928] could be obtained by writ of error shall hereafter be obtainable by appeal." This provision was omitted from the 1948 Revised Judicial Code as obsolete, and repealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992.
+Act Jan. 31, 1928, ch. 14, §1, 45 Stat. 54 [section 861a of former Title 28, Judicial Code and Judiciary], provided that: "The writ of error in cases, civil and criminal, is abolished. All relief which heretofore [Jan. 31, 1928] could be obtained by writ of error shall hereafter be obtainable by appeal." This provision was omitted from the 1948 Revised Judicial Code as obsolete, and repealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992. Section 2 of act Jan. 31, 1928, which originally related to procedure in appeal cases, was also omitted from the 1948 Revised Judicial Code and was amended generally by act June 25, 1948, ch. 646, §23, 62 Stat. 990. Text as amended by section 23 of act June 25, 1948, is set out as a note preceding section 1 of Title 1, General Provisions.
 
 #### Title 28 as Continuation of Existing Law; Change of Name of Circuit Courts of Appeals ####
 

@@ -62,7 +62,7 @@ then the requirement of subsection (c)(1)(D) shall be treated as met with respec
 
 #### (B) Regulations ####
 
-The Secretary, after consultation with the Secretary of Energy, shall establish a target for each system described in subsection (c)(1)(C) which, if such targets were met for all such systems, the building <sup><a href="#179D_1_target" name="179D_1">1</a></sup> would meet the requirements of subsection (c)(1)(D).
+The Secretary, after consultation with the Secretary of Energy, shall establish a target for each system described in subsection (c)(1)(C) such that, if such targets were met for all such systems, the building would meet the requirements of subsection (c)(1)(D).
 
 #### (2) Methods of calculation ####
 
@@ -152,11 +152,13 @@ The Secretary shall promulgate such regulations as necessary—
 
 This section shall not apply with respect to property placed in service after December 31, 2017.
 
-(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151.)
+(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(54), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### Amendments ####
 
-**2018**—Subsec. (h). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
+**2018**—Subsec. (d)(1)(B). Pub. L. 115–141 substituted "such that" for "which".
+
+Subsec. (h). Pub. L. 115–123 substituted "December 31, 2017" for "December 31, 2016".
 
 **2015**—Subsec. (c)(1)(B)(ii), (D). Pub. L. 114–113, §341(a), substituted "Standard 90.1–2007" for "Standard 90.1–2001".
 
@@ -191,5 +193,3 @@ Pub. L. 113–295, div. A, title I, §158(b), Dec. 19, 2014, 128 Stat. 4022, pro
 #### Effective Date ####
 
 Pub. L. 109–58, title XIII, §1331(d), Aug. 8, 2005, 119 Stat. 1024, provided that: "The amendments made by this section [enacting this section and amending sections 263, 312, 1016, 1245, and 1250 of this title] shall apply to property placed in service after December 31, 2005."
-
-[<sup>1</sup> So in original.](#179D_1)

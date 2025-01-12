@@ -140,7 +140,7 @@ Any election under clause (iii) for any distributions during a taxable year may 
 
 #### (B) Distributions to which paragraph applies ####
 
-This paragraph shall apply to a distribution from an eligible retirement plan (as defined by section 402(c)(8)(B)) maintained for the benefit of an individual which is contributed to a Roth IRA maintained for the benefit of such individual in a qualified rollover contribution. This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A) <sup><a href="#408A_1_target" name="408A_1">1</a></sup>
+This paragraph shall apply to a distribution from an eligible retirement plan (as defined by section 402(c)(8)(B)) maintained for the benefit of an individual which is contributed to a Roth IRA maintained for the benefit of such individual in a qualified rollover contribution. This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).
 
 #### (C) Conversions ####
 
@@ -268,7 +268,7 @@ The term "qualified rollover contribution" includes a contribution to a Roth IRA
 
 #### (B) Annual limit on number of rollovers not to apply ####
 
-Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by the <sup><a href="#408A_2_target" name="408A_2">2</a></sup> subparagraph (A).
+Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
 
 #### (C) Application of section 72 ####
 
@@ -282,13 +282,17 @@ For purposes of this section—
 
 (2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
 
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (d)(3)(B). Pub. L. 115–141, §401(a)(77), inserted period at end.
+
+Subsec. (e)(2)(B). Pub. L. 115–141, §401(a)(78), substituted "subparagraph (A)" for "the subparagraph (A)".
 
 **2017**—Subsec. (c)(3)(D)(ii). Pub. L. 115–97, §11002(d)(1)(W), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -503,7 +507,3 @@ Pub. L. 110–458, title I, §125, Dec. 23, 2008, 122 Stat. 5115, provided that:
 Such reports shall be in such form, and contain such additional information, as the Secretary may prescribe.
 
 "(c) Effective Date.—This section shall apply to transfers made after the date of the enactment of this Act [Dec. 23, 2008] with respect to airline payment amounts paid before, on, or after such date."
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#408A_1)
-
-[<sup>2</sup> So in original. The word "the" probably should not appear.](#408A_2)

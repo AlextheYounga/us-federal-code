@@ -10,11 +10,13 @@ Sec.
 
 504. Status after organization ceases to qualify for exemption under section 501(c)(3) because of substantial lobbying or because of political activities.
 
-505. Additional requirements for organizations described in paragraph (9), (17), or (20) of section 501(c).
+505. Additional requirements for organizations described in paragraph (9) or (17) of section 501(c).
 
 506. Organizations required to notify Secretary of intent to operate under 501(c)(4).
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div., U, title IV, §401(b)(21)(I), Mar. 23, 2018, 132 Stat. 1203, substituted "Additional requirements for organizations described in paragraph (9) or (17) of section 501(c)" for "Additional requirements for organizations described in paragraph (9), (17), or (20) of section 501(c)" in item 505.
 
 **2015**—Pub. L. 114–113, div. Q, title IV, §405(d), Dec. 18, 2015, 129 Stat. 3119, added item 506.
 

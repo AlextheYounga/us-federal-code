@@ -190,9 +190,7 @@ Sec.
 
 2657. Annual report and certification on status of security of atomic energy defense facilities.
 
-2658, 2659. Repealed.
-
-2660. Repealed.
+2658 to 2660. Repealed.
 
 2661. Protection of certain nuclear facilities and assets from unmanned aircraft.
 

@@ -10,7 +10,7 @@ Sec.
 
 453A. Special rules for nondealers.
 
-453B. Gain or loss on disposition of installment obligations. 1
+453B. Gain or loss on disposition of installment obligations.
 
 [453C. Repealed.]
 
@@ -49,5 +49,3 @@ Pub. L. 99–514, title VIII, §§804(c), 811(b), Oct. 22, 1986, 100 Stat. 2361,
 **1958**—Pub. L. 85–866, title I, §28(b), Sept. 2, 1958, 72 Stat. 1626, added item 455, effective with respect to taxable years beginning after Dec. 31, 1957. See section 28(c) of Pub. L. 85–866 set out as an Effective Date note under section 455 of this title.
 
 **1955**—Act June 15, 1955, ch. 143, §2(2), 69 Stat. 135, struck out item 452 "Adjustment in case of position inconsistent with prior income tax liability".
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

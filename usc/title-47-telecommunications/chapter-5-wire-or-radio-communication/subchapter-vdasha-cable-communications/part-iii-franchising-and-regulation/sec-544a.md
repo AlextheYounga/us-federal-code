@@ -14,9 +14,9 @@ The Congress finds that—
 
 #### (b) Compatible interfaces ####
 
-#### (1) Report; regulations ####
+#### (1) Regulations ####
 
-Within 1 year after October 5, 1992, the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders. Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility.
+The Commission shall issue such regulations as are necessary to assure compatibility between televisions and video cassette recorders and cable systems, consistent with the need to prevent theft of cable service, so that cable subscribers will be able to enjoy the full benefit of both the programming available on cable systems and the functions available on their televisions and video cassette recorders.
 
 #### (2) Scrambling and encryption ####
 
@@ -74,9 +74,11 @@ The regulations prescribed by the Commission under this section shall include su
 
 The Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actions taken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology.
 
-(June 19, 1934, ch. 652, title VI, §624A, as added Pub. L. 102–385, §17, Oct. 5, 1992, 106 Stat. 1491; amended Pub. L. 104–104, title III, §301(f), Feb. 8, 1996, 110 Stat. 116.)
+(June 19, 1934, ch. 652, title VI, §624A, as added Pub. L. 102–385, §17, Oct. 5, 1992, 106 Stat. 1491; amended Pub. L. 104–104, title III, §301(f), Feb. 8, 1996, 110 Stat. 116; Pub. L. 115–141, div. P, title IV, §402(i)(10), Mar. 23, 2018, 132 Stat. 1090.)
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(1). Pub. L. 115–141, in heading, substituted "Regulations" for "Report; regulations", and in text, substituted "The Commission shall issue such regulations as are necessary to assure" for "Within 1 year after October 5, 1992, the Commission, in consultation with representatives of the cable industry and the consumer electronics industry, shall report to Congress on means of assuring" and struck out at end "Within 180 days after the date of submission of the report required by this subsection, the Commission shall issue such regulations as are necessary to assure such compatibility."
 
 **1996**—Subsec. (a)(4). Pub. L. 104–104, §301(f)(1), added par. (4).
 

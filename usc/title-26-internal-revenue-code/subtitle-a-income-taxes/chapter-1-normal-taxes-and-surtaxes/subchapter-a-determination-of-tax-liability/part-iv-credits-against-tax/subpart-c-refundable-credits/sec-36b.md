@@ -67,7 +67,7 @@ The applicable second lowest cost silver plan with respect to any applicable tax
 
 (I) self-only coverage in the case of an applicable taxpayer—
 
-(aa) whose tax for the taxable year is determined under section 1(c) (relating to unmarried individuals other than surviving spouses and heads of households) and who is not allowed a deduction under section 151 for the taxable year with respect to a dependent, or
+(aa) whose tax for the taxable year is determined under section 1(c) <sup><a href="#36B_2_target" name="36B_2">2</a></sup> (relating to unmarried individuals other than surviving spouses and heads of households) and who is not allowed a deduction under section 151 for the taxable year with respect to a dependent, or
 
 (bb) who is not described in item (aa) but who purchases only self-only coverage, and
 
@@ -301,7 +301,7 @@ If the advance payments to a taxpayer under section 1412 of the Patient Protecti
 
 #### (i) In general ####
 
-In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year):
+In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) <sup><a href="#36B_2_target" name="36B_2">2</a></sup> for the taxable year):
 
 |If the household income (expressed as a percent of poverty line) is:|The applicable dollar amount is:|
 |--------------------------------------------------------------------|--------------------------------|
@@ -352,6 +352,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 #### References in Text ####
 
 Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in text, are classified to sections 18011, 18021, 18022, 18031, 18041, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
+
+Section 1(c), referred to in subsecs. (b)(3)(B)(ii)(I)(aa) and (f)(2)(B)(i), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
 
 Sections 2701 and 2705(d) of the Public Health Service Act, referred to in subsec. (b)(3)(C), are classified to sections 300gg and 300gg–4(d), respectively, of Title 42, The Public Health and Welfare. The reference to section 2705(d) probably should be a reference to section 2705(l), which relates to wellness program demonstration project and is classified to section 300gg–4(l) of Title 42.
 

@@ -26,8 +26,10 @@ Sec.
 
 9012. Criminal penalties.
 
-9013. Effective date of chapter.
+[9013. Repealed.]
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(d)(8), Mar. 23, 2018, 132 Stat. 1212, struck out item 9013 "Effective date of chapter".
 
 **1974**—Pub. L. 93–443, title IV, §406(c), Oct. 15, 1974, 88 Stat. 1296, substituted "Payments for presidential nominating conventions" for "Information on proposed expenses" in item 9008.

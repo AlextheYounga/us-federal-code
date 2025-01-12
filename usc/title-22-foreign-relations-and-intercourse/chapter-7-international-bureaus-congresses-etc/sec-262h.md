@@ -10,9 +10,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### Similar Provisions ####
 
-Pub. L. 115–31, div. J, title VII, §7025(c), May 5, 2017, 131 Stat. 633, provided that: "The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions, as defined in section 7034(r)(3) of this Act [set out as a note below], to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or made available by this Act [div. J of Pub. L. 115–31, 131 Stat. 589, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity."
+Pub. L. 115–141, div. K, title VII, §7025(c), Mar. 23, 2018, 132 Stat. 877, provided that: "The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions, as defined in section 7034(r)(3) of this Act [set out as a note below], to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or made available by this Act [div. K of Pub. L. 115–141, 132 Stat. 833, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. J, title VII, §7025(c), May 5, 2017, 131 Stat. 633.
 
 Pub. L. 114–113, div. K, title VII, §7025(c), Dec. 18, 2015, 129 Stat. 2748.
 
@@ -82,9 +84,11 @@ Pub. L. 96–123, §101(a) [incorporating Pub. L. 95–481, title VI, §609], No
 
 Pub. L. 95–481, title VI, §609, Oct. 18, 1978, 92 Stat. 1601.
 
-Pub. L. 115–31, div. J, title VII, §7034(r)(3), May 5, 2017, 131 Stat. 654, provided that: "In this Act [div. J of Pub. L. 115–31, 131 Stat. 589, see Tables for classification] 'international financial institutions' means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency."
+Pub. L. 115–141, div. K, title VII, §7034(r)(3), Mar. 23, 2018, 132 Stat. 898, provided that: "In this Act [div. K of Pub. L. 115–141, 132 Stat. 833, see Tables for classification] 'international financial institutions' means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 115–31, div. J, title VII, §7034(r)(3), May 5, 2017, 131 Stat. 654.
 
 Pub. L. 114–113, div. K, title VII, §7034(r)(3), Dec. 18, 2015, 129 Stat. 2768.
 

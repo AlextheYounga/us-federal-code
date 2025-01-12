@@ -58,7 +58,7 @@ The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1
 
 **2017**—Subsec. (d). Pub. L. 115–91, §1635, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to command of activity or mission.
 
-Subsec. (e). Pub. L. 115–91, §1635(2), redesignated subsec. (e) as (d). Subsec. (f) redesignated (e).
+Subsec. (e). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
 Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, §1081(a)(12), substituted "Fiscal Year 2016" for "Fiscal Year 2014".
 

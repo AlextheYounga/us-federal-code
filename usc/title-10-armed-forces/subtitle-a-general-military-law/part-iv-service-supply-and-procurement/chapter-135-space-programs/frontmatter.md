@@ -32,7 +32,7 @@ Sec.
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–91, div. A, title X, §1051(a)(13)(B), title XVI, §§1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12, 2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c "Air Force Space Command", substituted "Space Rapid Capabilities Office" for "Operationally Responsive Space Program Office" in item 2273a and "Foreign commercial satellite services and foreign launches" for "Foreign commercial satellite services" in item 2279, and struck out items 2277 "Report on foreign counter-space programs", and 2279a "Principal Advisor on Space Control".
+**2017**—Pub. L. 115–91, div. A, title X, §1051(a)(13)(B), title XVI, §§1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12, 2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c "Air Force Space Command", substituted "Space Rapid Capabilities Office" for "Operationally Responsive Space Program Office" in item 2273a and "Foreign commercial satellite services and foreign launches" for "Foreign commercial satellite services" in item 2279, and struck out items 2277 "Report on foreign counter-space programs" and 2279a "Principal Advisor on Space Control".
 
 **2015**—Pub. L. 114–92, div. A, title XVI, §§1602(b), 1603(b), Nov. 25, 2015, 129 Stat. 1096, 1098, added items 2279a and 2279b.
 

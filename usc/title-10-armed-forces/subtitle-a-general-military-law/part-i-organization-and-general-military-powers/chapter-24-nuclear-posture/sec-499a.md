@@ -26,4 +26,4 @@
 
 #### References in Text ####
 
-The date of the enactment of this section, referred to in subsec. (d), is the date of the enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+The date of the enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
