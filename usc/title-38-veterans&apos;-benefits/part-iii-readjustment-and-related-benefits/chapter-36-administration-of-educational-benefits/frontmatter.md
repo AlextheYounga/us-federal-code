@@ -12,6 +12,8 @@ Sec.
 
 3673. Approval activities: cooperation and coordination of activities.
 
+3673A. Risk-based surveys.
+
 3674. Reimbursement of expenses.
 
 3674A. Evaluations of agency performance; qualifications and performance of agency personnel.
@@ -78,9 +80,17 @@ Sec.
 
 3699A. Provision of certain information to educational institutions.
 
+3699B. Treatment of certain for-profit educational institutions.
+
+#### Amendment of Analysis ####
+
+Pub. L. 116–315, title I, §1020(a)(2), (c), Jan. 5, 2021, 134 Stat. 4958, provided that, effective Aug. 1, 2021, this analysis is amended by striking item 3696 and adding new item 3696 "Prohibition on certain advertising, sales, and enrollment practices". See 2021 Amendment note below.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title I, §§1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, added items 3673A, 3696, and 3699B and struck out former item 3696 "Limitation on certain advertising, sales, and enrollment practices".
 
 **2017**—Pub. L. 115–48, title I, §109(a)(2), title III, §§307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.
 

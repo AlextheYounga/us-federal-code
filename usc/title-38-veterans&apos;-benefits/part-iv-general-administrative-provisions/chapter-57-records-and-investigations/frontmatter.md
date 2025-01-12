@@ -58,6 +58,14 @@ Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Removal of Dependents From Award of Compensation or Pension ####
+
+Pub. L. 116–315, title II, §2008, Jan. 5, 2021, 134 Stat. 4977, provided that: "Beginning not later than 90 days after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall ensure that—
+
+"(1) the recipient of an award of compensation or pension may remove any dependent from an award of compensation or pension to the individual using the eBenefits system of the Department of Veterans Affairs, or a successor system; and
+
+"(2) such removal takes effect not later than 60 days after the date on which the recipient elects such removal."
+
 #### Updating Dependent Information ####
 
 Pub. L. 115–407, title V, §502, Dec. 31, 2018, 132 Stat. 5376, provided that: "The Secretary of Veterans Affairs shall make such changes to such information technology systems of the Department of Veterans Affairs, including the eBenefits system or successor system, as may be necessary so that whenever the Secretary records in such systems information about a dependent of a person, the person is able to review and revise such information."

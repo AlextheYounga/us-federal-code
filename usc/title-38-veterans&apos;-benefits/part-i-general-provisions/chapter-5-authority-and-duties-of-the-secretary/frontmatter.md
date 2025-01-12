@@ -48,6 +48,8 @@ Sec.
 
 532. Authority to advertise in national media; VetStar Award Program.
 
+533. Anti-harassment and anti-sexual assault policy.
+
 #### SUBCHAPTER III—ADVISORY COMMITTEES ####
 
 541. Advisory Committee on Former Prisoners of War.
@@ -62,9 +64,13 @@ Sec.
 
 546. Advisory Committee on Disability Compensation.
 
+547. Advisory Committee on Tribal and Indian Affairs.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title V, §5303(b), title VII, §7002(a)(2), Jan. 5, 2021, 134 Stat. 5041, 5057, added items 533 and 547.
 
 **2015**—Pub. L. 114–58, title VI, §601(2), Sept. 30, 2015, 129 Stat. 538, which directed amendment of this analysis by striking item "521A" and adding item 521A, was executed by striking item 512A "Adaptive sports programs for disabled veterans and members of the Armed Forces" and adding item 521A, to reflect the probable intent of Congress.
 

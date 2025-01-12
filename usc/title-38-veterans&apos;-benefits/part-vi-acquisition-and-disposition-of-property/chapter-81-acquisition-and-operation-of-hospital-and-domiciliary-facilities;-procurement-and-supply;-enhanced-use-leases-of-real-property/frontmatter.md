@@ -64,6 +64,8 @@ Sec.
 
 8128. Small business concerns owned and controlled by veterans: contracting priority.
 
+8129. Preference for offerors employing veterans.
+
 #### SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME, AND HOSPITAL CARE ####
 
 8131. Definitions.
@@ -129,6 +131,8 @@ Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 23
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title VII, §7003(b), Jan. 5, 2021, 134 Stat, 5059, added item 8129.
 
 **2018**—Pub. L. 115–182, title I, §112(b), June 6, 2018, 132 Stat. 1421, added item 8159.
 

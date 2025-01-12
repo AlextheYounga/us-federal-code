@@ -24,6 +24,10 @@ Sec.
 
 7309A. Office of Patient Advocacy.
 
+7310. Office of Women's Health.
+
+7310A. Annual reports on women's health.
+
 #### SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION ####
 
 7311. Quality assurance.
@@ -107,6 +111,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title V, §5101(b)(3), Jan. 5, 2021, 134 Stat. 5026, added items 7310 and 7310A.
 
 **2018**—Pub. L. 115–182, title I, §106(b), June 6, 2018, 132 Stat. 1415, added item 7330C.
 

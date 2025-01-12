@@ -40,6 +40,8 @@ Sec.
 
 1709B. Evaluations of mental health care and suicide prevention programs.
 
+1709C. Assistance for child care for certain veterans receiving health care, 1
+
 #### SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMENT ####
 
 1710. Eligibility for hospital, nursing home, and domiciliary care.
@@ -198,9 +200,15 @@ Sec.
 
 1788. Transplant procedures with live donors and related services.
 
+#### Amendment of Analysis ####
+
+Pub. L. 116–315, title III, §3002(b), (c), Jan. 5, 2021, 134 Stat. 4991, provided that, effective one year after Jan. 5, 2021, this analysis is amended by striking item 1730A and inserting new item 1730A "Prohibition on collection of copayments from certain veterans". See 2021 Amendment note below.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title III, §3002(b), title V, §5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted "Prohibition on collection of copayments from certain veterans" for "Prohibition on collection of copayments from catastrophically disabled veterans" in item 1730A.
 
 **2020**—Pub. L. 116–214, title II, §201(b), Dec. 5, 2020, 134 Stat. 1033, added item 1720J.
 
@@ -303,3 +311,5 @@ Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 "Arr
 Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 **1959**—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
+
+[<sup>1</sup> So in original. The comma probably should be a period.](#CHAPTER17_1)

@@ -46,9 +46,11 @@ Sec.
 
 1921. Extra hazard costs.
 
-1922. Service disabled veterans' insurance.
+1922. Legacy service disabled veterans' insurance.
 
-1922A. Supplemental service disabled veterans' insurance for totally disabled veterans.
+1922A. Legacy supplemental service disabled veterans' insurance for totally disabled veterans.
+
+1922B. Service-disabled veterans insurance.
 
 1923. Veterans' Special Life Insurance.
 
@@ -171,6 +173,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title II, §2004(a)(2), (c)(3), Jan. 5, 2021, 134 Stat. 4974, added item 1922B and substituted "Legacy service" for "Service" in item 1922 and "Legacy supplemental" for "Supplemental" in item 1922A.
 
 **2005**—Pub. L. 109–13, div. A, title I, §1032(b), May 11, 2005, 119 Stat. 259, added item 1980A.
 

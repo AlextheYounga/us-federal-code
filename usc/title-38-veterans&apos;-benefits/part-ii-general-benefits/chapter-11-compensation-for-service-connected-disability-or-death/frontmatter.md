@@ -90,9 +90,17 @@ Sec.
 
 1163. Trial work periods and vocational rehabilitation for certain veterans with total disability ratings.
 
+1164. 1 Presumptions of service-connection for Coronavirus Disease 2019.
+
+1164. 1 Specialized teams to evaluate claims involving military sexual trauma.
+
+1165. Choice of sex of medical examiner for certain disabilities.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title IV, §4101(b), title V, §§5501(a)(2), 5502(b), Jan. 5, 2021, 134 Stat. 5008, 5048, 5050, added two items 1164 and item 1165.
 
 **2019**—Pub. L. 116–23, §§2(b), 3(b), June 25, 2019, 133 Stat. 968, 970, added items 1116A and 1116B.
 
@@ -137,3 +145,5 @@ Pub. L. 102–4, §2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 **1962**—Pub. L. 87–610, §2, Aug. 28, 1962, 76 Stat. 406, added item 360.
 
 **1960**—Pub. L. 86–501, §2, June 10, 1960, 74 Stat. 195, added item 359.
+
+[<sup>1</sup> So in original. Two sections 1164 have been enacted.](#CHAPTER11_1)

@@ -28,6 +28,8 @@ Sec.
 
 2022. Coordination of outreach services for veterans at risk of homelessness.
 
+2022A. Legal services for homeless veterans and veterans at risk for homelessness.
+
 2023. Referral and counseling services: veterans at risk of homelessness who are transitioning from certain institutions.
 
 #### SUBCHAPTER IV—TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS ####
@@ -79,6 +81,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title IV, §4202(b), Jan. 5, 2021, 134 Stat. 5012, added item 2022A.
 
 **2016**—Pub. L. 114–315, title VII, §§712(a)(2), 713(b), Dec. 16, 2016, 130 Stat. 1587, 1588, added items 2013, 2014, and 2067 and struck out former item 2013 "Authorization of appropriations".
 

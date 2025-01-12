@@ -52,9 +52,13 @@ Sec.
 
 5319. Limitations on access to financial records.
 
+5320. Threshold for reporting debts to consumer reporting agencies.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title II, §2007(b), Jan. 5, 2021, 134 Stat. 4977, added item 5320.
 
 **2018**—Pub. L. 115–141, div. J, title II, §259(b), Mar. 23, 2018, 132 Stat. 829, added item 5303B.
 

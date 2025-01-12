@@ -34,9 +34,15 @@ Sec.
 
 2414. Communication between Department of Veterans Affairs and medical examiners and funeral directors.
 
+#### Amendment of Analysis ####
+
+Pub. L. 116–315, title II, §2205(b)(2), (c), Jan. 5, 2021, 134 Stat. 4987, provided that, effective on the date that is two years after Jan. 5, 2021, this analysis is amended by inserting ", counties, and tribal organizations" after "States" in item 2408. See 2021 Amendment note below.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–315, title II, §2205(b)(2), Jan. 5, 2021, 134 Stat. 4987, inserted ", counties, and tribal organizations" after "States" in item 2408.
 
 **2013**—Pub. L. 112–260, title I, §103(b), Jan. 10, 2013, 126 Stat. 2420, added item 2414.
 
