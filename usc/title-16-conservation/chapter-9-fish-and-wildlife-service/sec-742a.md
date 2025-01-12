@@ -24,6 +24,10 @@ The Congress further declares that the provisions of this Act are necessary in o
 
 This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–168, §1, Apr. 23, 2018, 132 Stat. 1284, provided that: "This Act [amending section 742f of this title] may be cited as the 'Keep America's Refuges Operational Act'."
+
 #### Short Title of 2011 Amendment ####
 
 Pub. L. 111–357, §1, Jan. 4, 2011, 124 Stat. 3979, provided that: "This Act [amending sections 742f and 742f–1 of this title] may be cited as the 'National Wildlife Refuge Volunteer Improvement Act of 2010'."

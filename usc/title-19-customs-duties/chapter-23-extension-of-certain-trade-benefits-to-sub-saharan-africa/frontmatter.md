@@ -16,6 +16,8 @@ Sec.
 
 3706. Sub-Saharan Africa defined.
 
+3707. Activities in support of transparency.
+
 #### SUBCHAPTER II—TRADE BENEFITS ####
 
 3721. Treatment of certain textiles and apparel.

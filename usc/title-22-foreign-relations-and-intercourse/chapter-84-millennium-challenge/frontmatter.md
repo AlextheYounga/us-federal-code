@@ -18,7 +18,7 @@ Sec.
 
 7708. Millennium Challenge Compact.
 
-7709. Congressional and public notification of Compact.
+7709. Congressional and public notification.
 
 7710. Suspension and termination of assistance.
 
