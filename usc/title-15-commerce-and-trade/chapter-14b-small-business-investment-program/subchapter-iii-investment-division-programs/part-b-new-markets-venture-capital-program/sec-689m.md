@@ -12,7 +12,7 @@ With respect to any New Markets Venture Capital company that violates or fails t
 
 #### (1) In general ####
 
-Before the Administrator may cause a New Markets Venture Capital company to forfeit rights or privileges under subsection (a) of this section, a court of the United States of competent jurisdiction must find that the company committed a violation, or failed to comply, in a cause of action brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of the company is located.
+Before the Administrator may cause a New Markets Venture Capital company to forfeit rights or privileges under subsection (a), a court of the United States of competent jurisdiction must find that the company committed a violation, or failed to comply, in a cause of action brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of the company is located.
 
 #### (2) Parties authorized to file causes of action ####
 

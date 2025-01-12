@@ -46,7 +46,7 @@ The Secretary shall develop a plan to evaluate programs approved under this sect
 
 #### (f) Recipients' duty to furnish information ####
 
-For the purpose of the evaluation under subsection (e) of this section, the Secretary is authorized to require any small business international marketing program, or party receiving assistance under this section, to furnish such information as is deemed appropriate to complete the required evaluation.
+For the purpose of the evaluation under subsection (e), the Secretary is authorized to require any small business international marketing program, or party receiving assistance under this section, to furnish such information as is deemed appropriate to complete the required evaluation.
 
 #### (g) "Applicant" defined ####
 

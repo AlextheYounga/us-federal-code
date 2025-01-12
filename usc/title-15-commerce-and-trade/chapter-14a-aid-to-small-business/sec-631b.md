@@ -28,7 +28,7 @@ The Report on Small Business and Competition and all supplementary reports trans
 
 #### (e) Small business concerns owned by disadvantaged individuals and by women <sup><a href="#631b_1_target" name="631b_1">1</a></sup> ####
 
-The information and data required to be reported pursuant to subsection (a) of this section shall separately detail those portions of such information and data that are relevant to—
+The information and data required to be reported pursuant to subsection (a) shall separately detail those portions of such information and data that are relevant to—
 
 (1) small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, as defined pursuant to section 637(d) of this title;
 

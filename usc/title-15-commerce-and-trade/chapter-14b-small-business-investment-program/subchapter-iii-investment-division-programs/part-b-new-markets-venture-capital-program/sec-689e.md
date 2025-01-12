@@ -24,7 +24,7 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 #### (d) Fees ####
 
-The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2) of this section.
+The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2).
 
 #### (e) Subrogation and ownership rights ####
 

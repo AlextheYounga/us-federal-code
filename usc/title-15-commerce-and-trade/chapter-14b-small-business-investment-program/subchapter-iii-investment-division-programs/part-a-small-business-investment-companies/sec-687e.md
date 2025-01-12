@@ -60,7 +60,7 @@ An order under subparagraph (A) shall—
 
 #### (1) In general ####
 
-The Administrator may, if the Administrator deems it necessary for the protection of the licensee or the interests of the Administration, suspend from office or prohibit from further participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1) of this section, by written notice to such effect served upon the management official.
+The Administrator may, if the Administrator deems it necessary for the protection of the licensee or the interests of the Administration, suspend from office or prohibit from further participation in any manner in the management or conduct of the affairs of the licensee, or both, any management official referred to in subsection (b)(1), by written notice to such effect served upon the management official.
 
 #### (2) Effectiveness ####
 
@@ -70,13 +70,13 @@ A suspension or prohibition under paragraph (1)—
 
 (B) unless stayed by a court in proceedings authorized by paragraph (3), shall remain in effect—
 
-(i) pending the completion of the administrative proceedings pursuant to a notice of intention to remove served under subsection (b) of this section; and
+(i) pending the completion of the administrative proceedings pursuant to a notice of intention to remove served under subsection (b); and
 
 (ii) until such time as the Administrator shall dismiss the charges specified in the notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.
 
 #### (3) Judicial review ####
 
-Not later than 10 days after any management official has been suspended from office or prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States district court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b) of this section, and such court shall have jurisdiction to stay such action.
+Not later than 10 days after any management official has been suspended from office or prohibited from participation in the management or conduct of the affairs of a licensee, or both, under paragraph (1), that management official may apply to the United States district court for the judicial district in which the home office of the licensee is located, or the United States District Court for the District of Columbia, for a stay of the suspension or prohibition pending the completion of the administrative proceedings pursuant to a notice of intent to remove served upon the management official under subsection (b), and such court shall have jurisdiction to stay such action.
 
 #### (d) Authority to suspend on criminal charges ####
 
@@ -94,7 +94,7 @@ If a judgment of conviction with respect to an offense described in paragraph (1
 
 #### (4) Authority upon dismissal or other disposition ####
 
-A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c) of this section.
+A finding of not guilty or other disposition of charges described in paragraph (1) shall not preclude the Administrator from thereafter instituting proceedings to suspend or remove the management official from office, or to prohibit the management official from participation in the management or conduct of the affairs of the licensee, or both, pursuant to subsection (b) or (c).
 
 #### (e) Notification to licensees ####
 
@@ -130,7 +130,7 @@ Judicial review of an order issued under this section shall be exclusively as pr
 
 #### (B) Petition for review ####
 
-Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d) of this section), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order of the Administrator be modified, terminated, or set aside.
+Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d)), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order of the Administrator be modified, terminated, or set aside.
 
 #### (C) Notification to administration ####
 
