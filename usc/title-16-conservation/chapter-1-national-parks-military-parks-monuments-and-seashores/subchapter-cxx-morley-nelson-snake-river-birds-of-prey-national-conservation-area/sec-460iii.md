@@ -41,3 +41,7 @@ The Congress finds the following:
 #### Change of Name ####
 
 Pub. L. 111–11, title II, §2301(b), Mar. 30, 2009, 123 Stat. 1101, provided that: "Any reference in a law, map, regulation, document, paper, or other record of the United States to the Snake River Birds of Prey National Conservation Area shall be deemed to be a reference to the Morley Nelson Snake River Birds of Prey National Conservation Area."
+
+#### Short Title of 2017 Amendment ####
+
+Section 1 of H.R. 2104, One Hundred Fifteenth Congress, as introduced on Apr. 20, 2017, which was enacted into law by Pub. L. 115–31, div. G, title IV, §431(a)(1), May 5, 2017, 131 Stat. 502, provided that: "This Act [enacting provisions set out as a note under section 460iii–4 of this title] may be cited as the 'Morley Nelson Snake River Birds of Prey National Conservation Area Boundary Modification Act of 2017'."

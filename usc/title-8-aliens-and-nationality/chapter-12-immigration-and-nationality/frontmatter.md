@@ -320,6 +320,8 @@ Sec.
 
 1381. Secretary of Labor report.
 
+1382. Acceptance and administration of gifts for immigration integration grants program.
+
 #### SUBCHAPTER III—NATIONALITY AND NATURALIZATION ####
 
 #### Part I—Nationality at Birth and Collective Naturalization ####

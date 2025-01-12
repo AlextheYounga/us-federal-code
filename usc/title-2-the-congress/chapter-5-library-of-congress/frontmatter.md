@@ -224,6 +224,8 @@ Sec.
 
 182d. Audits by Comptroller General.
 
+182e. Library of Congress National Collection Stewardship Fund.
+
 183. Written history of the House of Representatives.
 
 183a. Oral history of the House of Representatives.

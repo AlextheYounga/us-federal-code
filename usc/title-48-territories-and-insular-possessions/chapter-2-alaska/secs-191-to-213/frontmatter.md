@@ -28,9 +28,9 @@ Section 201, acts Jan. 13, 1925, ch. 75, §13, 43 Stat. 746; Feb. 14, 1931, ch. 
 
 Section 202, acts Jan. 13, 1925, ch. 75, §15, 43 Stat. 747; Feb. 14, 1931, ch. 185, §13, 46 Stat. 1114; June 25, 1938, ch. 686, §6, 52 Stat. 1172; July 1, 1943, ch. 183, 57 Stat. 311, prescribed penalties for violations of sections 192, 193, and 195 to 211 of this title, required guides to report violations, and prescribed penalty for violation thereof.
 
-Section 202a, acts Jan. 13, 1925, ch. 75, §16, 43 Stat. 747; Feb. 14, 1931, ch. 185, §14, 46 Stat. 1114; July 1, 1943, ch. 183, 57 Stat. 310, related to administration of oaths for purposes of prosecution.
+Section 202a, acts Jan. 13, 1925, ch. 75, §16, 43 Stat. 747; Feb. 14, 1931, ch. 185, §14, 46 Stat. 1114; July 1, 1943, ch. 183, 57 Stat. 312, related to administration of oaths for purposes of prosecution.
 
-Section 202b, act Jan. 13, 1925, ch. 75, §12, 43 Stat. 746; July 1, 1943, ch. 183, 57 Stat. 312, related to burden of proof in prosecutions under sections 192, 193, and 195 to 211 of this title.
+Section 202b, act Jan. 13, 1925, ch. 75, §12, 43 Stat. 746; July 1, 1943, ch. 183, 57 Stat. 310, related to burden of proof in prosecutions under sections 192, 193, and 195 to 211 of this title.
 
 Section 203, act Jan. 13, 1925, ch. 75, §19, as added July 1, 1943, ch. 183, 57 Stat. 312, stated that sections 192, 193, and 195 to 211 of this title shall not apply to Mount McKinley National Park.
 

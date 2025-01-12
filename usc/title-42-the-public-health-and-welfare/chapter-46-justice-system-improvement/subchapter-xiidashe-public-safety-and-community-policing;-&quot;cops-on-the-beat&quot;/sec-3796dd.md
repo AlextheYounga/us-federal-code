@@ -2,11 +2,11 @@
 
 #### (a) Grant authorization ####
 
-The Attorney General shall carry out a single grant program under which the Attorney General makes grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia for the purposes described in subsection (b) of this section.
+The Attorney General shall carry out a single grant program under which the Attorney General makes grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia for the purposes described in subsection (b).
 
 #### (b) Uses of grant amounts ####
 
-The purposes for which grants made under subsection (a) of this section may be made are—
+The purposes for which grants made under subsection (a) may be made are—
 
 (1) to rehire law enforcement officers who have been laid off as a result of State, tribal, or local budget reductions for deployment in community-oriented policing;
 
@@ -108,11 +108,11 @@ The Attorney General may utilize any component or components of the Department o
 
 #### (f) Minimum amount ####
 
-Unless all applications submitted by any State and grantee within the State pursuant to subsection (a) of this section have been funded, each qualifying State, together with grantees within the State, shall receive in each fiscal year pursuant to subsection (a) of this section not less than 0.5 percent of the total amount appropriated in the fiscal year for grants pursuant to that subsection. In this subsection, "qualifying State" means any State which has submitted an application for a grant, or in which an eligible entity has submitted an application for a grant, which meets the requirements prescribed by the Attorney General and the conditions set out in this subchapter.
+Unless all applications submitted by any State and grantee within the State pursuant to subsection (a) have been funded, each qualifying State, together with grantees within the State, shall receive in each fiscal year pursuant to subsection (a) not less than 0.5 percent of the total amount appropriated in the fiscal year for grants pursuant to that subsection. In this subsection, "qualifying State" means any State which has submitted an application for a grant, or in which an eligible entity has submitted an application for a grant, which meets the requirements prescribed by the Attorney General and the conditions set out in this subchapter.
 
 #### (g) Matching funds ####
 
-The portion of the costs of a program, project, or activity provided by a grant under subsection (a) of this section may not exceed 75 percent, unless the Attorney General waives, wholly or in part, the requirement under this subsection of a non-Federal contribution to the costs of a program, project, or activity. In relation to a grant for a period exceeding 1 year for hiring or rehiring career law enforcement officers, the Federal share shall decrease from year to year for up to 5 years, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion of Federal support, as provided in an approved plan pursuant to section 3796dd–1(c)(8) of this title.
+The portion of the costs of a program, project, or activity provided by a grant under subsection (a) may not exceed 75 percent, unless the Attorney General waives, wholly or in part, the requirement under this subsection of a non-Federal contribution to the costs of a program, project, or activity. In relation to a grant for a period exceeding 1 year for hiring or rehiring career law enforcement officers, the Federal share shall decrease from year to year for up to 5 years, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion of Federal support, as provided in an approved plan pursuant to section 3796dd–1(c)(8) of this title.
 
 #### (h) Allocation of funds ####
 
@@ -204,7 +204,7 @@ Subsecs. (j), (k). Pub. L. 111–211, §243(3), added subsecs. (j) and (k).
 
 **2006**—Subsec. (a). Pub. L. 109–162, §1163(a)(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: "The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety."
 
-Subsec. (b). Pub. L. 109–162, §1163(a)(3)(A), substituted "Uses of grant amounts" for "Additional grant projects" in subsec. heading and "The purposes for which grants made under subsection (a) of this section may be made are—" for "Grants made under subsection (a) of this section may include programs, projects, and other activities to—" in introductory provisions.
+Subsec. (b). Pub. L. 109–162, §1163(a)(3)(A), substituted "Uses of grant amounts" for "Additional grant projects" in subsec. heading and "The purposes for which grants made under subsection (a) may be made are—" for "Grants made under subsection (a) may include programs, projects, and other activities to—" in introductory provisions.
 
 Pub. L. 109–162, §1163(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to rehiring, hiring, and initial redeployment grant projects.
 

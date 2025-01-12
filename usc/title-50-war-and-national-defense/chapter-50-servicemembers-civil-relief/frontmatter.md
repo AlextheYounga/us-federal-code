@@ -46,6 +46,8 @@ Sec.
 
 3938. Child custody protection.
 
+3938a. Annual notice to members of the Armed Forces regarding child custody protections guaranteed by the Servicemembers Civil Relief Act.
+
 #### SUBCHAPTER III—RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES ####
 
 3951. Evictions and distress.

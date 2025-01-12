@@ -80,7 +80,7 @@ The Attorney General shall award grants to—
 
 #### (3) Eligibility for other grants ####
 
-Receipt of an award under this subsection by each State domestic violence and sexual assault coalition shall not preclude the coalition from receiving additional grants under this part to carry out the purposes described in subsection (b) of this section.
+Receipt of an award under this subsection by each State domestic violence and sexual assault coalition shall not preclude the coalition from receiving additional grants under this part to carry out the purposes described in subsection (b).
 
 #### (d) Tribal coalition grants ####
 

@@ -84,6 +84,8 @@ Sec.
 
 1748b. Cohesive wildfire management strategy.
 
+1748c. Bureau of Land Management Foundation.
+
 #### SUBCHAPTER IV—RANGE MANAGEMENT ####
 
 1751. Grazing fees; feasibility study; contents; submission of report; annual distribution and use of range betterment funds; nature of distributions.

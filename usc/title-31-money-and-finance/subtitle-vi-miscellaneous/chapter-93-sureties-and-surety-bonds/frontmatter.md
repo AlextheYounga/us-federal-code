@@ -20,9 +20,7 @@ Sec.
 
 9309. Priority of sureties.
 
-#### Amendment of Analysis ####
-
-Pub. L. 114–92, div. A, title VIII, §874(a)(2), (c), Nov. 25, 2015, 129 Stat. 940, 941, provided that, effective 1 year after Nov. 25, 2015, this analysis is amended by adding item 9310 "Individual sureties". See 2015 Amendment note below.
+9310. Individual sureties.
 
 #### Amendments ####
 

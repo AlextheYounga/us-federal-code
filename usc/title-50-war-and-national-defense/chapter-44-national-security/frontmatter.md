@@ -36,7 +36,7 @@ Sec.
 
 3030. Director of Science and Technology.
 
-3031. National Counterintelligence Executive.
+3031. Director of the National Counterintelligence and Security Center.
 
 3032. Chief Information Officer.
 
@@ -79,6 +79,8 @@ Sec.
 3048. Detail of intelligence community personnel—Intelligence Community Assignment Program.
 
 3049. Non-reimbursable detail of other personnel.
+
+3049a. Special pay authority for science, technology, engineering, or mathematics positions.
 
 3050. Annual report on hiring and retention of minority employees.
 

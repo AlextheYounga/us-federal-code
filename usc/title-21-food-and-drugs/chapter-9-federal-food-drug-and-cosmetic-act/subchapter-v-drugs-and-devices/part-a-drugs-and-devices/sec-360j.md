@@ -466,7 +466,7 @@ Subsec. (g)(3)(B). Pub. L. 114–255, §3056(1)(B), substituted "an institutiona
 
 Subsec. (g)(3)(D). Pub. L. 114–255, §3024(a)(1), substituted "except where, subject to such conditions as the Secretary may prescribe—" for "except where subject to such conditions as the Secretary may prescribe,", added cl. (i), and inserted cl. (ii) designation before "the investigator".
 
-Subsec. (h)(4)(A). Pub. L. 114–255, §3038(b)(1), substituted "Subject to subparagraph (C), any information" for "Any information".
+Subsec. (h)(4)(A). Pub. L. 114–255, §3038(b)(1), substituted "Subject to subparagraph (C), any information" for "Any information" in introductory provisions.
 
 Subsec. (h)(4)(C). Pub. L. 114–255, §3038(b)(2), added subpar. (C).
 

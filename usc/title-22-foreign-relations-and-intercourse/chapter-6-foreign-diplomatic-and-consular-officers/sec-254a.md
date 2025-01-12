@@ -45,3 +45,29 @@ Pub. L. 95–393, §9, Sept. 30, 1978, 92 Stat. 810, provided that: "This Act [s
 #### Short Title ####
 
 Pub. L. 95–393, §1, Sept. 30, 1978, 92 Stat. 808, provided that: "This Act [enacting this section, sections 254b to 254e of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 1251 and 1351 of Title 28, repealing sections 252 to 254 of this title, and enacting provisions set out as a note under this section] may be cited as the 'Diplomatic Relations Act'."
+
+#### Strict Enforcement of Travel Protocols and Procedures of Accredited Diplomatic and Consular Personnel of the Russian Federation in the United States ####
+
+Pub. L. 115–31, div. N, title V, §502, May 5, 2017, 131 Stat. 825, provided that:
+
+"(a) Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+
+"(1) the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives];
+
+"(2) the Committee on Foreign Relations and the Committee on the Judiciary of the Senate; and
+
+"(3) the Committee on Foreign Affairs and the Committee on the Judiciary of the House of Representatives.
+
+"(b) Advance Notification Requirement.—The Secretary of State shall, in coordination with the Director of the Federal Bureau of Investigation and the Director of National Intelligence, establish a mandatory advance notification regime governing all travel by accredited diplomatic and consular personnel of the Russian Federation in the United States and take necessary action to secure full compliance by Russian personnel and address any noncompliance.
+
+"(c) Interagency Cooperation.—The Secretary of State, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence shall develop written mechanisms to share information—
+
+"(1) on travel by accredited diplomatic and consular personnel of the Russian Federation who are in the United States; and
+
+"(2) on any known or suspected noncompliance by such personnel with the regime required by subsection (b).
+
+"(d) Quarterly Reports.—Not later than 90 days after the date of the enactment of this Act [May 5, 2017], and quarterly thereafter, and consistent with the protection of intelligence sources and methods—
+
+"(1) the Secretary of State shall submit to the appropriate committees of Congress a written report detailing the number of notifications submitted under the regime required by subsection (b); and
+
+"(2) the Secretary of State and the Director of the Federal Bureau of Investigation shall jointly submit to the appropriate committees of Congress a written report detailing the number of known or suspected violations of such requirements by any accredited diplomatic and consular personnel of the Russian Federation."

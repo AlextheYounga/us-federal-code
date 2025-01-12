@@ -36,13 +36,13 @@ Sec.
 
 #### SUBCHAPTER II—RESPONSIBILITIES OF OVERSIGHT BOARD ####
 
-2141. Approval of fiscal plans.
+2141. Approval of Fiscal Plans.
 
-2142. Approval of budgets.
+2142. Approval of Budgets.
 
-2143. Effect of finding of noncompliance with budget.
+2143. Effect of finding of noncompliance with Budget.
 
-2144. Review of activities to ensure compliance with fiscal plan.
+2144. Review of activities to ensure compliance with Fiscal Plan.
 
 2145. Recommendations on financial stability and management responsibility.
 

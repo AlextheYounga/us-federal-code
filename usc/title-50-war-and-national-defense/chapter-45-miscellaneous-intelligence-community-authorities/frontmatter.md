@@ -28,6 +28,14 @@ Sec.
 
 3311. Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations.
 
+3312. Congressional oversight of policy directives and guidance.
+
+3313. Notification of memoranda of understanding.
+
+3314. Report on national security systems.
+
+3315. Annual certification of controlled access programs.
+
 #### SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES ####
 
 3321. National Intelligence Reserve Corps.
@@ -50,6 +58,12 @@ Sec.
 
 3330. Reports to the intelligence community on penetrations of networks and information systems of certain contractors.
 
+3331. Management of intelligence community personnel.
+
+3332. Guidance and reporting requirement regarding the interactions between the intelligence community and entertainment industry.
+
+3333. Joint facilities certification.
+
 #### SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION ####
 
 3341. Security clearances.
@@ -70,6 +84,8 @@ Sec.
 
 3349. Notification regarding the authorized public disclosure of national intelligence.
 
+3350. Maximum amount charged for declassification reviews.
+
 #### SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE ####
 
 3361. National Virtual Translation Center.
@@ -86,10 +102,12 @@ Sec.
 
 3367. Requirement for efficient use by intelligence community of open-source intelligence.
 
+3368. Assistance for governmental entities and private entities in recognizing online violent extremist content.
+
 #### SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES ####
 
 3381. Coordination of counterintelligence activities.
 
-3382. National Counterintelligence Executive.
+3382. Director of the National Counterintelligence and Security Center.
 
-3383. Office of the National Counterintelligence Executive.
+3383. National Counterintelligence and Security Center.

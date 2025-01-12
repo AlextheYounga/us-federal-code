@@ -8,7 +8,7 @@ Sec.
 
 2303. Identification of inholdings.
 
-2304. Disposal of public land.
+2304. Omitted.
 
 2305. Federal Land Disposal Account.
 

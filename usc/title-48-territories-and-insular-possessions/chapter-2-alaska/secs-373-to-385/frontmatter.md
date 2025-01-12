@@ -32,6 +32,6 @@ Section 382, act June 6, 1900, ch. 786, §15, 31 Stat. 327, which required recor
 
 Section 383, act June 6, 1900, ch. 786, §16, 31 Stat. 328, which authorized regulations for recording notices of location of mining claims, and legalized certain records, was transferred to section 49d of Title 30.
 
-Section 384, act Mar. 2, 1907, ch. 2559, §1, 34 Stat. 1343, which required annual labor or improvements on mining claims, was transferred to section 49e of Title 30.
+Section 384, act Mar. 2, 1907, ch. 2559, §1, 34 Stat. 1243, which required annual labor or improvements on mining claims, was transferred to section 49e of Title 30.
 
 Section 385, act Mar. 2, 1907, ch. 2559, §2, 34 Stat. 1243, which prescribed the fees for filing proofs of work and improvements, was transferred to section 49f of Title 30.

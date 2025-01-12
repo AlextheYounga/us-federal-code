@@ -28,7 +28,7 @@ Sec.
 
 3510b. Acquisition of critical skills.
 
-3511. Authority to pay death gratuities.
+3511. Benefits available in event of the death of personnel.
 
 3512. Gifts, devises, and bequests.
 

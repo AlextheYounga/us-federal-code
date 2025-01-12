@@ -88,7 +88,7 @@ Subsec. (a). Pub. L. 114–255, §6004(3), added subsec. (a). Former subsec. (a)
 
 Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in introductory provisions and in par. (2).
 
-Subsec. (b). Pub. L. 114–255, §6004(4), substituted "The Director shall—" for "The Secretary, acting through the Assistant Secretary, shall collect data each year on—", added par. (1), redesignated pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, substituted "Director" for "Assistant Secretary" in subpar. (B), and added pars. (2) to (4).
+Subsec. (b). Pub. L. 114–255, §6004(4), substituted "The Director shall—" for "The Secretary, acting through the Assistant Secretary, shall collect data each year on—", added par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, substituted "Director" for "Assistant Secretary" in subpar. (B), and added pars. (2) to (4).
 
 Pub. L. 114–255, §6004(2), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 

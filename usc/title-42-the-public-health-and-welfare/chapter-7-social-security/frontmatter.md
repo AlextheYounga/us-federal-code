@@ -146,7 +146,7 @@ Sec.
 
 612. Direct funding and administration by Indian tribes.
 
-613. Research, evaluations, and national studies.
+613. Evaluation of temporary assistance for needy families and related programs.
 
 614. Repealed.
 

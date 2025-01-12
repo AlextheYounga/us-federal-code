@@ -66,7 +66,7 @@ Sec.
 
 1077. Medical care for dependents: authorized care in facilities of uniformed services.
 
-1077a. Access to military medical treatment facilities and other facilities
+1077a. Access to military medical treatment facilities and other facilities 1
 
 1078. Medical and dental care for dependents: charges.
 
@@ -279,3 +279,5 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 **1965**—Pub. L. 89–264, §2, Oct. 19, 1965, 79 Stat. 989, substituted "executive department" for "uniformed service" in item 1085.
 
 **1958**—Pub. L. 85–861, §1(25)(A), (C), Sept. 2, 1958, 72 Stat. 1445, 1450, substituted "Medical and Dental Care" for "Voting by Members of Armed Forces" in heading of chapter, and substituted items 1071 to 1085 for former items 1071 to 1086.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER55_1)

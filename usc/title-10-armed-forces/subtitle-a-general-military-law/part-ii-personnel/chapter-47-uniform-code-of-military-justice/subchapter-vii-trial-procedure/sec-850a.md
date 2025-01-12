@@ -34,7 +34,7 @@ Pub. L. 114–328, div. E, title LVII, §5233, title LXIII, §5542, Dec. 23, 201
 
 #### Amendments ####
 
-**2016**—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out ", or the president of a court-martial without a military judge,' after "the military judge".
+**2016**—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out ", or the president of a court-martial without a military judge," after "the military judge".
 
 #### Effective Date of 2016 Amendment ####
 

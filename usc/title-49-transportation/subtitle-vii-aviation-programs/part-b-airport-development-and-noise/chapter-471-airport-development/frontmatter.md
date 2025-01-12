@@ -92,6 +92,8 @@ Sec.
 
 47142. Design-build contracting.
 
+47144. Use of funds for repairs for runway safety repairs.
+
 #### SUBCHAPTER II—SURPLUS PROPERTY FOR PUBLIC AIRPORTS ####
 
 47151. Authority to transfer an interest in surplus property.
@@ -113,6 +115,8 @@ Sec.
 47175. Definitions.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–31, div. K, title I, §119F(b), May 5, 2017, 131 Stat. 735, which directed amendment of the analysis for this chapter by adding item 47144 after item 47143, was executed by adding item 47144 after item 47142 to reflect the probable intent of Congress, because no item for section 47143 has been enacted.
 
 **2012**—Pub. L. 112–95, title I, §148(b), title V, §§511(c), 512(b), Feb. 14, 2012, 126 Stat. 32, 108, 109, substituted "Resolution of disputes concerning airport fees" for "Resolution of airport-air carrier disputes concerning airport fees" in item 47129 and added items 47136a and 47140a.
 

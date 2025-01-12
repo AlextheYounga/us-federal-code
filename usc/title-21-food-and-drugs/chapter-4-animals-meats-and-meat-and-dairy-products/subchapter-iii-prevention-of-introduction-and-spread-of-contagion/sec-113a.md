@@ -24,10 +24,6 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 Act July 31, 1956, ch. 804, title I, §119, 70 Stat. 742, which increased the maximum compensation of technical experts or scientists, was repealed by Pub. L. 88–426, title III, §305(1), Aug. 14, 1964, 78 Stat. 422.
 
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
-
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
 #### Live Virus Foot and Mouth Disease Research ####
 
 Pub. L. 110–234, title VII, §7524, May 22, 2008, 122 Stat. 1273, and Pub. L. 110–246, §4(a), title VII, §7524, June 18, 2008, 122 Stat. 1664, 2034, provided that:
@@ -45,3 +41,7 @@ Pub. L. 110–234, title VII, §7524, May 22, 2008, 122 Stat. 1273, and Pub. L. 
 "(2) is a nondelegable function."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
+
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.

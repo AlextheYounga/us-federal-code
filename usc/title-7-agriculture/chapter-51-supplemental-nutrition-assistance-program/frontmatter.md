@@ -12,6 +12,8 @@ Sec.
 
 2014. Eligible households.
 
+2014a. Notice of change in State of residence of certified household.
+
 2015. Eligibility disqualifications.
 
 2016. Issuance and use of program benefits.

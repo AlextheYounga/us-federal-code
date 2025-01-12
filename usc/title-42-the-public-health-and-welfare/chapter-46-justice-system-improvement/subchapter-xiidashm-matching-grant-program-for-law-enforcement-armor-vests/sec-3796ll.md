@@ -38,7 +38,7 @@ A qualifying State, unit of local government, or Indian tribe may not receive mo
 
 #### (1) In general ####
 
-The portion of the costs of a program provided by a grant under subsection (a) of this section—
+The portion of the costs of a program provided by a grant under subsection (a)—
 
 (A) may not exceed 50 percent; and
 
@@ -48,7 +48,7 @@ The portion of the costs of a program provided by a grant under subsection (a) o
 
 (ii) the Director of the Bureau of Justice Assistance determines that the quantity of vests to be purchased with such grant is reasonable; and
 
-(iii) such portion does not cause such grant to violate the requirements of subsection (e) of this section.
+(iii) such portion does not cause such grant to violate the requirements of subsection (e).
 
 #### (2) Indian assistance ####
 
@@ -64,7 +64,7 @@ The Director may waive in whole or in part, the match requirement of paragraph (
 
 #### (g) Allocation of funds ####
 
-Funds available under this subchapter shall be awarded, without regard to subsection (c) of this section, to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
+Funds available under this subchapter shall be awarded, without regard to subsection (c), to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
 
 #### (h) Expiration of appropriated funds ####
 
@@ -100,7 +100,7 @@ Subsec. (h). Pub. L. 114–155, §3, added subsec. (h).
 
 Subsec. (b)(1). Pub. L. 110–177, §302(d)(2), inserted "State or local court," after "government,".
 
-**2000**—Subsec. (f). Pub. L. 106–517, §3(a), designated first sentence as par. (1), inserted par. heading, substituted "subsection (a) of this section—" and subpars. (A) and (B) for "subsection (a) of this section may not exceed 50 percent.", and designated second sentence as par. (2) and inserted par. heading.
+**2000**—Subsec. (f). Pub. L. 106–517, §3(a), designated first sentence as par. (1), inserted par. heading, substituted "subsection (a)—" and subpars. (A) and (B) for "subsection (a) may not exceed 50 percent.", and designated second sentence as par. (2) and inserted par. heading.
 
 Subsec. (g). Pub. L. 106–517, §3(b), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: "At least half of the funds available under this subchapter shall be awarded to units of local government with fewer than 100,000 residents."
 

@@ -3568,7 +3568,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(6), is classified 
 
 Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (c)(4)(B), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
 
-The effective date of such clause (vi), referred to in concluding provisions of subsec. (d)(1)(B), probably means the date of enactment of Pub. L. 114–255, which redesignated subcl. (II) of cl.(iv) of subsec. (d)(1)(B) as cl. (vi) of subsec. (d)(1)(B), and which was approved December 13, 2016.
+The effective date of such clause (vi), referred to in concluding provisions of subsec. (d)(1)(B), probably means the date of enactment of Pub. L. 114–255, which redesignated subcl. (II) of cl. (iv) of subsec. (d)(1)(B) as cl. (vi) of subsec. (d)(1)(B), and which was approved December 13, 2016.
 
 Section 9104(a) of the Medicare and Medicaid Budget Reconciliation Amendments of 1985, referred to in subsec. (d)(2)(C)(i), is section 9104(a) of Pub. L. 99–272, which amended subsec. (d)(5)(B) of this section.
 

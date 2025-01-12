@@ -168,7 +168,7 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title XI, §1134(c)(2), Dec. 23, 2016, 130 Stat. 2459, amended item 5524a generally, subtituting "Advance payments for new appointees and employees relocating within the United States and its territories" for "Advance payments for new appointees".
+**2016**—Pub. L. 114–328, div. A, title XI, §1134(c)(2), Dec. 23, 2016, 130 Stat. 2459, substituted "Advance payments for new appointees and employees relocating within the United States and its territories" for "Advance payments for new appointees" in item 5524a.
 
 **2014**—Pub. L. 113–277, §2(g)(3), Dec. 18, 2014, 128 Stat. 3005, added item 5550.
 

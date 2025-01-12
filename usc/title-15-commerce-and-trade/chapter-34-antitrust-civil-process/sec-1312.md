@@ -110,7 +110,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original "this Act", meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original "this Act", meaning Pub. L. 87–664, known as the Antitrust Civil Process Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 Section 30 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 107–273, div. C, title IV, §14102(f), Nov. 2, 2002, 116 Stat. 1922.
 

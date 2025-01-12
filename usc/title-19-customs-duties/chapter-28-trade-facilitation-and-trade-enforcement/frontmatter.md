@@ -1,4 +1,4 @@
-### **CHAPTER 28—TRADE FACILITATION AND TRADE ENFORCEMENT ACT OF 2015** ###
+### **CHAPTER 28—TRADE FACILITATION AND TRADE ENFORCEMENT** ###
 
 Sec.
 
@@ -44,7 +44,7 @@ Sec.
 
 4341. Definition of intellectual property rights.
 
-4342. Notification of Persons Injured by Circumvention Devices.
+4342. Notification of persons injured by circumvention devices.
 
 4343. Enforcement by U.S. Customs and Border Protection of works for which copyright registration is pending.
 

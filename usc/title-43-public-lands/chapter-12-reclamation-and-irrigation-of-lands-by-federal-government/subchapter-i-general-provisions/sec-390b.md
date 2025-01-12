@@ -200,7 +200,7 @@ Pub. L. 114–322, title III, §4013, Dec. 16, 2016, 130 Stat. 1883, provided th
 
 "(1) section 4004 [not classified to the Code], which shall expire 10 years after the date of its enactment; and
 
-"(2) projects under construction in sections 4007 [set out in part as a note above], 4009(a) [set out as a note under section 10301 of Title 42, The Public Health and Welfare], and 4009(c) [amending section 390h of this title]."
+"(2) projects under construction in sections 4007 [set out in part as a note above], 4009(a) [amending a note under section 10301 of Title 42, The Public Health and Welfare], and 4009(c) [amending section 390h of this title]."
 
 #### Amendment of Contracts Existing Prior to November 17, 1986 ####
 

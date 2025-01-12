@@ -40,7 +40,7 @@ Pub. L. 114–152, May 9, 2016, 130 Stat. 373, provided that:
 
 "(5) members of Indian tribes have a combined herd on more than 1,000,000 acres of tribal land;
 
-"(6) the Intertribal Buffalo Council is a tribal organization incorporated pursuant to section 17 of the Act of June 18, 1934 (commonly known as the 'Indian Reorganization Act') (25 U.S.C. 477);
+"(6) the Intertribal Buffalo Council is a tribal organization incorporated pursuant to section 17 of the Act of June 18, 1934 (commonly known as the 'Indian Reorganization Act') (25 U.S.C. 477) [now 25 U.S.C. 5124];
 
 "(7) bison can play an important role in improving the types of grasses found in landscapes to the benefit of grasslands;
 

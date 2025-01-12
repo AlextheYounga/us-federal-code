@@ -340,7 +340,7 @@ In subsec. (d)(1)(A), "section 100502 of title 54" substituted for "section 12(b
 
 **2016**—Subsec. (b)(3). Pub. L. 114–289, §601(i), amended Pub. L. 113–291, §3037(a)(1). See 2014 Amendment note below.
 
-**2014**—Subsec. (b)(3). Pub. L. 113–291, §3037(a)(1), as amended by Pub. L. 114–287, §601(i), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
+**2014**—Subsec. (b)(3). Pub. L. 113–291, §3037(a)(1), as amended by Pub. L. 114–289, §601(i), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
 
 Subsec. (b)(4). Pub. L. 113–291, §3037(a)(2), substituted "The Map and the map referred to in paragraph (3)(B)" for "The Map".
 

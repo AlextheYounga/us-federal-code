@@ -67,3 +67,7 @@ Not more than 10 percent of a grant made under this subchapter may be used for c
 The period of a grant made under this subchapter may not be longer than 4 years, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General.
 
 (Pub. L. 90–351, title I, §3021, as added Pub. L. 114–198, title II, §201(a)(1), July 22, 2016, 130 Stat. 711.)
+
+#### References in Text ####
+
+Schedules II, III, and IV controlled substances, referred to in subsec. (a)(6), are set out in section 812(c) of Title 21, Food and Drugs.

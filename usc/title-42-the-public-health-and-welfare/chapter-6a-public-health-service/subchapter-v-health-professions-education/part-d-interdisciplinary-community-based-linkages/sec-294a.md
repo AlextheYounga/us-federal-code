@@ -174,9 +174,11 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Waiver of Requirements ####
 
-Pub. L. 114–113, div. H, title II, Dec. 18, 2015, 129 Stat. 2600, provided in part: "That for any program operating under section 751 of the PHS [Public Health Service] Act [42 U.S.C. 294a] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
+Pub. L. 115–31, div. H, title II, May 5, 2017, 131 Stat. 519, provided in part: "That for any program operating under section 751 of the PHS [Public Health Service] Act [42 U.S.C. 294a] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the 'Secretary') may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 114–113, div. H, title II, Dec. 18, 2015, 129 Stat. 2600.
 
 Pub. L. 113–235, div. G, title II, Dec. 16, 2014, 128 Stat. 2467.
 

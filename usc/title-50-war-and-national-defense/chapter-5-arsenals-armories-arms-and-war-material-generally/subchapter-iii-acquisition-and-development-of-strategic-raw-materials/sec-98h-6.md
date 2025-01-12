@@ -38,6 +38,6 @@ The President shall include in the reports required under section 98h–2(a) of 
 
 #### Amendments ####
 
-**2016**—Subsec. (a)(3),(4). Pub. L. 114–328 added pars. (3) and (4).
+**2016**—Subsec. (a)(3), (4). Pub. L. 114–328 added pars. (3) and (4).
 
 **2013**—Subsec. (a). Pub. L. 113–66 inserted "and appropriate conservation" after "development" in introductory provisions.

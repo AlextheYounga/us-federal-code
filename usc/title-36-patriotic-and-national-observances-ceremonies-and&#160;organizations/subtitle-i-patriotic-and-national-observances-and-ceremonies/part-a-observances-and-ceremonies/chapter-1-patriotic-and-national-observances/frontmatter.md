@@ -94,11 +94,183 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–240, §2(b), Oct. 7, 2016, 130 Stat. 974, added item 145.
+**2016**—Pub. L. 114–240, §2(b), Oct. 7, 2016, 130 Stat. 975, added item 145.
 
 **2004**—Pub. L. 108–447, div. J, title I, §111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted "Constitution Day and" before "Citizenship Day" in item 106.
 
 **2001**—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
+
+#### Women's Suffrage Centennial Commission ####
+
+S. 847, One Hundred Fifteenth Congress, as introduced on Apr. 5, 2017, which was enacted into law by Pub. L. 115–31, div. G, title IV, §431(a)(3), May 5, 2017, 131 Stat. 502, provided that:
+
+#### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS. ####
+
+"(a) Short Title.—This Act may be cited as the 'Women's Suffrage Centennial Commission Act'.
+
+"(b) Table of Contents.—[Omitted.]
+
+#### "SEC. 2. FINDINGS. ####
+
+"Congress finds the following:
+
+"(1) From 1919 to 1920, the Sixty-Sixth United States Congress debated, and State legislatures considered, an amendment to the Constitution of the United States to provide suffrage for women.
+
+"(2) A proposed women's suffrage amendment was first introduced in the United States Senate in 1878 and was brought to a vote, unsuccessfully, in 1887, 1914, 1918, and 1919. Finally, on May 21, 1919, the House of Representatives approved a proposed amendment, followed by the Senate a few weeks later on June 4. Within days, the legislatures of Wisconsin, Illinois, and Michigan had voted to ratify the amendment.
+
+"(3) On August 18, 1920, Tennessee became the 36th State to ratify the amendment, providing the support of three-fourths of States necessary under article V of the Constitution of the United States.
+
+"(4) The introduction, passage, and ultimate ratification of the 19th Amendment to the Constitution of the United States were the culmination of decades of work and struggle by advocates for the rights of women across the United States and worldwide.
+
+"(5) Ratification of the 19th Amendment ensured women could more fully participate in their democracy and fundamentally changed the role of women in the civic life of our Nation.
+
+"(6) The centennial offers an opportunity for people in the United States to learn about and commemorate the efforts of the women's suffrage movement and the role of women in our democracy.
+
+"(7) Commemorative programs, activities, and sites allow people in the United States to learn about the women's suffrage movement and to commemorate and honor the role of the ratification of the 19th Amendment in further fulfilling the promise of the Constitution of the United States and promoting the core values of our democracy.
+
+#### "SEC. 3. ESTABLISHMENT OF WOMEN'S SUFFRAGE CENTENNIAL COMMISSION. ####
+
+"(a) Establishment.—There is established a commission to be known as the 'Women's Suffrage Centennial Commission' (referred to in this Act as the 'Centennial Commission').
+
+"(b) Membership.—
+
+"(1) The Centennial Commission shall be composed of 14 members, of whom—
+
+"(A) 2 shall be appointed by the President;
+
+"(B) 2 shall be appointed by the Speaker of the House of Representatives;
+
+"(C) 2 shall be appointed by the minority leader of the House of Representatives;
+
+"(D) 2 shall be appointed by the majority leader of the Senate;
+
+"(E) 2 shall be appointed by the minority leader of the Senate;
+
+"(F) 1 shall be the Librarian of Congress, or the designee of the Librarian;
+
+"(G) 1 shall be the Archivist of the United States, or the designee of the Archivist;
+
+"(H) 1 shall be the Secretary of the Smithsonian Institution, or the designee of the Secretary; and
+
+"(I) 1 shall be the Director of the National Park Service, or the designee of the Director.
+
+"(2) Persons eligible.—
+
+"(A) In general.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission. The members may be from the public or private sector, and may include Federal, State, or local employees, former Members of Congress, members of academia, nonprofit organizations, or industry, or other interested individuals.
+
+"(B) Diversity.—It is the intent of Congress that persons appointed to the Commission under paragraph (1) be persons who represent diverse economic, professional, and cultural backgrounds.
+
+"(3) Consultation and appointment.—
+
+"(A) In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
+
+"(B) Completion of appointments; vacancies.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall conduct the consultation under subparagraph (A) and make their respective appointments not later than 60 days after the date of enactment of this Act [May 5, 2017].
+
+"(4) Vacancies.—A vacancy in the membership of the Commission shall not affect the powers of the Commission and shall be filled in the same manner as the original appointment not later than 30 days after the vacancy occurs.
+
+"(c) Meetings.—
+
+"(1) Initial meeting.—Not later than 30 days after the date on which all members of the Centennial Commission have been appointed, the Centennial Commission shall hold its first meeting.
+
+"(2) Subsequent meetings.—
+
+"(A) In general.—The Centennial Commission shall meet at the call of the Chair.
+
+"(B) Frequency.—The Chair shall call a meeting of the members of the Centennial Commission not less frequently than once every 6 months.
+
+"(3) Quorum.—Seven members of the Centennial Commission shall constitute a quorum, but a lesser number may hold hearings.
+
+"(4) Chair and vice chair.—The Centennial Commission shall select a Chair and Vice Chair from among its members.
+
+#### "SEC. 4. DUTIES OF CENTENNIAL COMMISSION. ####
+
+"(a) In General.—The duties of the Centennial Commission are as follows:
+
+"(1) To encourage, plan, develop, and execute programs, projects, and activities to commemorate the centennial of the passage and ratification of the 19th Amendment.
+
+"(2) To encourage private organizations and State and local governments to organize and participate in activities commemorating the centennial of the passage and ratification of the 19th Amendment.
+
+"(3) To facilitate and coordinate activities throughout the United States relating to the centennial of the passage and ratification of the 19th Amendment.
+
+"(4) To serve as a clearinghouse for the collection and dissemination of information about events and plans for the centennial of the passage and ratification of the 19th Amendment.
+
+"(5) To develop recommendations for Congress and the President for commemorating the centennial of the passage and ratification of the 19th Amendment.
+
+"(b) Consultation.—In conducting its work, the Centennial Commission shall consult the Historian of the Senate and the Historian of the House of Representatives when appropriate.
+
+"(c) Reports.—
+
+"(1) Periodic report.—Not later than the last day of the 6-month period beginning on the date of the enactment of this Act [May 5, 2017], and not later than the last day of each 3-month period thereafter, the Centennial Commission shall submit to Congress and the President a report on the activities and plans of the Centennial Commission.
+
+"(2) Recommendations.—Not later than 2 years after the date of the enactment of this Act, the Centennial Commission shall submit to Congress and the President a report containing specific recommendations for commemorating the centennial of the passage and ratification of the 19th Amendment and coordinating related activities.
+
+#### "SEC. 5. POWERS OF CENTENNIAL COMMISSION. ####
+
+"(a) Hearings.—The Centennial Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Centennial Commission considers appropriate to carry out its duties under this Act.
+
+"(b) Powers of Member and Agents.—If authorized by the Centennial Commission, any member or agent of the Centennial Commission may take any action which the Centennial Commission is authorized to take under this Act.
+
+"(c) Information From Federal Agencies.—The Centennial Commission shall secure directly from any Federal department or agency such information as the Centennial Commission considers necessary to carry out the provisions of this Act. Upon the request of the Chair of the Centennial Commission, the head of such department or agency shall furnish such information to the Centennial Commission.
+
+"(d) Administrative Support Services.—Upon the request of the Centennial Commission, the Administrator of the General Services Administration shall provide to the Centennial Commission, on a reimbursable basis, the administrative support services necessary for the Centennial Commission to carry out its responsibilities under this Act.
+
+"(e) Contract Authority.—
+
+"(1) In general.—Except as provided in paragraph (2), the Centennial Commission is authorized—
+
+"(A) to procure supplies, services, and property; and
+
+"(B) to make or enter into contracts, leases, or other legal agreements.
+
+"(2) Limitation.—The Centennial Commission may not enter into any contract, lease, or other legal agreement that extends beyond the date of the termination of the Centennial Commission under section 7(a).
+
+"(f) Postal Services.—The Centennial Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+"(g) Gifts, Bequests, and Devises.—The Centennial Commission is authorized to solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
+
+"(h) Grants.—The Centennial Commission is authorized to award grants to States and the District of Columbia to support programs and activities related to commemorating the centennial of the passage and ratification of the 19th Amendment.
+
+#### "SEC. 6. CENTENNIAL COMMISSION PERSONNEL MATTERS. ####
+
+"(a) Compensation of Members.—Members of the Centennial Commission shall serve without compensation for such service.
+
+"(b) Travel Expenses.—Each member of the Centennial Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in accordance with the applicable provisions of title 5, United States Code.
+
+"(c) Staff.—
+
+"(1) In general.—The Chair of the Centennial Commission shall, in consultation with the members of the Centennial Commission, appoint an executive director and such other additional personnel as may be necessary to enable the Centennial Commission to perform its duties.
+
+"(2) Compensation.—
+
+"(A) In general.—Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1).
+
+"(B) Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+"(d) Detail of Government Employees.—Upon request of the Centennial Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any employee of that department or agency to the Centennial Commission to assist it in carrying out its duties under this Act.
+
+"(e) Procurement of Temporary and Intermittent Services.—The Chair of the Centennial Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
+
+"(f) Acceptance of Voluntary Services.—Notwithstanding section 1342 of title 31, United States Code, the Centennial Commission may accept and use voluntary and uncompensated services as the Centennial Commission deems necessary.
+
+#### "SEC. 7. TERMINATION OF CENTENNIAL COMMISSION. ####
+
+"(a) In General.—The Centennial Commission shall terminate on the earlier of—
+
+"(1) the date that is 30 days after the date [of] the completion of the activities under this Act honoring the centennial observation of the passage and ratification of the 19th Amendment; or
+
+"(2) April 15, 2021.
+
+"(b) Application of Federal Advisory Committee Act.—
+
+"(1) In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
+
+"(2) Exception.—Section 14(a)(2) of such Act (5 U.S.C. App.) shall not apply to the Centennial Commission.
+
+#### "SEC. 8. AUTHORIZATION OF APPROPRIATIONS. ####
+
+"(a) In General.—There are authorized to be appropriated to carry out this Act such sums as may be necessary for the period of fiscal years 2017 through 2021.
+
+"(b) Amounts Available.—Amounts appropriated in accordance with this section for any fiscal year shall remain available until the termination of the Centennial Commission."
 
 #### Program to Commemorate the 100th Anniversary of the Tomb of the Unknown Soldier ####
 

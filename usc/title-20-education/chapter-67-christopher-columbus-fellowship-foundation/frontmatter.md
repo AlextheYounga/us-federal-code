@@ -19,3 +19,7 @@ Sec.
 5708. Administrative provisions.
 
 5709. Authorization of appropriations.
+
+#### Repeal of Chapter ####
+
+Pub. L. 115–31, div. E, title VI, §631(a), May 5, 2017, 131 Stat. 376, provided that, effective one year after May 5, 2017, this chapter is repealed.

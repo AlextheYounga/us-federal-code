@@ -172,10 +172,6 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 Nothing in amendment by section 3044(b)(3) of Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under section 356(h) of this title, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of this title.
 
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
-
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
-
 #### Termination of Advisory Committees ####
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -183,5 +179,9 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 #### Guidance ####
 
 Pub. L. 114–255, div. A, title III, §3053(b), Dec. 13, 2016, 130 Stat. 1125, provided that: "The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall review and update, if necessary, previously published guidance and standard operating procedures identifying the principles for recognizing standards, and for withdrawing the recognition of standards, under section 514(c) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360d(c)), taking into account the experience with and reliance on a standard by foreign regulatory authorities and the device industry, and whether recognition of a standard will promote harmonization among regulatory authorities in the regulation of devices."
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
+
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 [<sup>1</sup> So in original. Probably should be "standard development organization."](#360d_1)

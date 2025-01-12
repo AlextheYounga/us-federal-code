@@ -286,3 +286,7 @@ Chap. Sec.
 94. National Oceans and Coastal Security 7501
 
 95. Eliminate, Neutralize, and Disrupt Wildlife Trafficking 7601
+
+96. North Pacific Fisheries Convention 7701
+
+97. Convention on the Conservation and Management of High Seas Fishery Resources in the South Pacific 7801

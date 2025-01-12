@@ -10,6 +10,10 @@ II. Intelligence Commercial Activities 431
 
 **1991**—Pub. L. 102–88, title V, §504(a)(1), Aug. 14, 1991, 105 Stat. 437, added items for subchapters I and II.
 
+#### Limitation on Use of Funds ####
+
+Pub. L. 115–31, div. C, title VIII, §8037, May 5, 2017, 131 Stat. 255, provided that: "Notwithstanding any other provision of law, funds made available in this Act [div. C of Pub. L. 115–31, see Tables for classsification] and hereafter for the Defense Intelligence Agency may be used for the design, development, and deployment of General Defense Intelligence Program intelligence communications and intelligence information systems for the Services, the Unified and Specified Commands, and the component commands."
+
 #### Department of Defense Intelligence Priorities ####
 
 Pub. L. 113–66, div. A, title IX, §922, Dec. 26, 2013, 127 Stat. 828, provided that: "Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall—

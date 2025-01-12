@@ -44,7 +44,7 @@ Pub. L. 111–84, div. A, title XVIII, §1801, Oct. 28, 2009, 123 Stat. 2574, pr
 
 Pub. L. 109–366, §1(a), Oct. 17, 2006, 120 Stat. 2600, provided that: "This Act [see Tables for classification] may be cited as the 'Military Commissions Act of 2006'."
 
-#### Prohibition on Enforcement of Military Commission Rulings Preventing Members of the Armed Forces From Carrying out Otherwise Lawful Duties Based on Member Sex ####
+#### Prohibition on Enforcement of Military Commission Rulings Preventing Members of the Armed Forces From Carrying Out Otherwise Lawful Duties Based on Member Sex ####
 
 Pub. L. 114–328, div. A, title X, §1056, Dec. 23, 2016, 130 Stat. 2400, provided that:
 
