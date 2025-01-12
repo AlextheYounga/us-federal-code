@@ -106,7 +106,7 @@ Subparagraph (A) shall apply to amounts paid or incurred by a person (other than
 
 (i) the taxpayer described in subparagraph (A) has an equity interest of more than 50 percent in the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred, and
 
-(ii) such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of such the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
+(ii) such other person holds any part of the remaining equity interest and materially participates in the planting, maintenance, cultivation, or development of the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred.
 
 The determination of whether an individual materially participates in any activity shall be made in a manner similar to the manner in which such determination is made under section 2032A(e)(6).
 

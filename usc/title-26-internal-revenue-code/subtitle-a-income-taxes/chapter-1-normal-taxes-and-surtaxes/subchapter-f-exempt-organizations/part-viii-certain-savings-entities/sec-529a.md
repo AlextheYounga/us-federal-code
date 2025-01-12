@@ -62,7 +62,7 @@ For purposes of this paragraph, if distributions from a qualified ABLE programâ€
 
 #### (C) Change in designated beneficiaries or programs ####
 
-#### (i) Rollovers from able accounts ####
+#### (i) Rollovers from ABLE accounts ####
 
 Subparagraph (A) shall not apply to any amount paid or distributed from an ABLE account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another ABLE account for the benefit of the same designated beneficiary or an eligible individual who is a member of the family of the designated beneficiary.
 
@@ -136,7 +136,7 @@ Each officer or employee having control of the qualified ABLE program or their d
 
 For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the preceding sentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
 
-#### (3) Notice of establishment of able account ####
+#### (3) Notice of establishment of ABLE account ####
 
 A qualified ABLE program shall submit a notice to the Secretary upon the establishment of an ABLE account. Such notice shall contain the name of the designated beneficiary and such other information as the Secretary may require.
 

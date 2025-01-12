@@ -496,7 +496,7 @@ To the extent any amount of accumulated deductible employee contributions of an 
 
 #### (4) Special rule for treatment of rollover amounts ####
 
-For purposes of sections 402(c), 403(a)(4), and 403(b)(8), 408(d)(3), and 457(e)(16), the Secretary shall prescribe regulations providing for such allocations of amounts attributable to accumulated deductible employee contributions, and for such other rules, as may be necessary to insure that such accumulated deductible employee contributions do not become eligible for additional tax benefits (or freed from limitations) through the use of rollovers.
+For purposes of sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3), and 457(e)(16), the Secretary shall prescribe regulations providing for such allocations of amounts attributable to accumulated deductible employee contributions, and for such other rules, as may be necessary to insure that such accumulated deductible employee contributions do not become eligible for additional tax benefits (or freed from limitations) through the use of rollovers.
 
 #### (5) Definitions and special rules ####
 
@@ -628,7 +628,7 @@ If any taxpayer receives any amount under an annuity contract, the taxpayer's ta
 
 #### (2) Subsection not to apply to certain distributions ####
 
-Paragraph 1 shall not apply to any distribution—
+Paragraph (1) shall not apply to any distribution—
 
 (A) made on or after the date on which the taxpayer attains age 59½,
 
