@@ -35,7 +35,7 @@ Chap. Sec.
 
 27. Advisory Committee on the Records of Congress 2701
 
-29. Records Management by the Archivist of the United States 2901
+29. Records Management by the Archivist of the United States and by the Administrator of General Services 2901
 
 31. Records Management by Federal Agencies 3101
 
@@ -53,7 +53,9 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–187, §9(f)(2), Nov. 26, 2014, 128 Stat. 2014, struck out "and by the Administrator of General Services" after "United States" in item 29.
+**2017**—Pub. L. 115–85, §2(a)(4), Nov. 21, 2017, 131 Stat. 1275, repealed Pub. L. 113–187, §9(f)(2). See 2014 Amendment note below.
+
+**2014**—Pub. L. 113–187, §9(f)(2), Nov. 26, 2014, 128 Stat. 2014, which directed striking out "and by the Administrator of General Services" in item 29, was repealed by Pub. L. 115–85, §2(a)(4), (b), Nov. 21, 2017, 131 Stat. 1275, effective as if included in Pub. L. 113–187.
 
 **2002**—Pub. L. 107–347, title I, §101(b), Dec. 17, 2002, 116 Stat. 2910, added item 36.
 

@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to January 3, 2017)
+(As amended to December 1, 2017)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -426,7 +426,9 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (B)(i) If a party files a notice of appeal after the court announces or enters a judgment—but before it disposes of any motion listed in Rule 4(a)(4)(A)—the notice becomes effective to appeal a judgment or order, in whole or in part, when the order disposing of the last such remaining motion is entered.
 
-(ii) A party intending to challenge an order disposing of any motion listed in Rule 4(a)(4)(A), or a judgment's alteration or amendment upon such a motion, must file a notice of appeal, or an amended notice of appeal—in compliance with Rule 3(c)—within the time prescribed by this Rule measured from the entry of the order disposing of the last such remaining motion.<sup><a href="#Rule_4_1_target" name="Rule_4_1">1</a></sup>
+(ii) A party intending to challenge an order disposing of any motion listed in Rule 4(a)(4)(A), or a judgment's alteration or amendment upon such a motion, must file a notice of appeal, or an amended notice of appeal—in compliance with Rule 3(c)—within the time prescribed by this Rule measured from the entry of the order disposing of the last such remaining motion.
+
+(iii)	No additional fee is required to file an amended notice.
 
 (5) *Motion for Extension of Time.*
 
@@ -522,7 +524,7 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (d) Mistaken Filing in the Court of Appeals. If a notice of appeal in either a civil or a criminal case is mistakenly filed in the court of appeals, the clerk of that court must note on the notice the date when it was received and send it to the district clerk. The notice is then considered filed in the district court on the date so noted.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Pub. L. 100–690, title VII, §7111, Nov. 18, 1988, 102 Stat. 4419; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Pub. L. 100–690, title VII, §7111, Nov. 18, 1988, 102 Stat. 4419; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -780,9 +782,11 @@ The Rule requires the inmate to show timely deposit and prepayment of postage. T
 
 The amended rule also provides that a notice is timely without a declaration or notarized statement if other evidence accompanying the notice shows that the notice was deposited on or before the due date and that postage was prepaid. If the notice is not accompanied by evidence that establishes timely deposit and prepayment of postage, then the court of appeals has discretion to accept a declaration or notarized statement at a later date. The Rule uses the phrase "exercises its discretion to permit"—rather than simply "permits"—to help ensure that pro se inmate litigants are aware that a court will not necessarily forgive a failure to provide the declaration initially.
 
-#### References in Text ####
+#### Committee Notes on Rules—2017 Amendment ####
 
-Rule 4(a)(4)(B) is set out above as it appears in the Supreme Court order of Mar. 28, 2009. Prior to amendment, Rule 4(a)(4)(B) contained a subdivision (iii) which read as follows: "No additional fee is required to file an amended notice." The language of subdivision (iii) probably should be part of Rule 4(a)(4)(B), but does not appear in the 2009 amendment.
+*Subdivision (a)(4)(B)(iii)*. This technical amendment restores the former subdivision (a)(4)(B)(iii) that was inadvertently deleted in 2009.
+
+#### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subd. (a)(4), (6), and (7), are set out in this Appendix.
 
@@ -791,8 +795,6 @@ The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are s
 #### Amendment by Public Law ####
 
 **1988**—Subd. (b). Pub. L. 100–690 inserted "(i)" and "or (ii) a notice of appeal by the Government" in first sentence, and "(i)" and "or (ii) a notice of appeal by any defendant" in fifth sentence.
-
-[<sup>1</sup> See References in Text note below.](#Rule_4_1)
 
 ### Rule 5. Appeal by Permission ###
 
@@ -4280,13 +4282,13 @@ Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is se
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to January 3, 2017)
+(As amended to December 1, 2017)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -4932,7 +4934,7 @@ The caption of Rule 3 has been amended as part of the general restyling of the C
 
 (3) *Validity of Service; Amending Proof.* Failure to prove service does not affect the validity of service. The court may permit proof of service to be amended.
 
-(m) Time Limit for Service. If a defendant is not served within 90 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time. But if the plaintiff shows good cause for the failure, the court must extend the time for service for an appropriate period. This subdivision (m) does not apply to service in a foreign country under Rule 4(f), 4(h)(2), or 4(j)(1).<sup><a href="#Rule_4_1_target" name="Rule_4_1">1</a></sup>
+(m) Time Limit for Service. If a defendant is not served within 90 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time. But if the plaintiff shows good cause for the failure, the court must extend the time for service for an appropriate period. This subdivision (m) does not apply to service in a foreign country under Rule 4(f), 4(h)(2), or 4(j)(1), or to service of a notice under Rule 71.1(d)(3)(A).
 
 (n) Asserting Jurisdiction over Property or Assets.
 
@@ -4940,7 +4942,7 @@ The caption of Rule 3 has been amended as part of the general restyling of the C
 
 (2) *State Law.* On a showing that personal jurisdiction over a defendant cannot be obtained in the district where the action is brought by reasonable efforts to serve a summons under this rule, the court may assert jurisdiction over the defendant's assets found in the district. Jurisdiction is acquired by seizing the assets under the circumstances and in the manner provided by state law in that district.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 97–462, §2, Jan. 12, 1983, 96 Stat. 2527, eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 97–462, §2, Jan. 12, 1983, 96 Stat. 2527, eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 Rule 4 Notice of a Lawsuit and Request to Waive Service of Summons.
 
@@ -5574,9 +5576,9 @@ Rule 4(m) is amended to correct a possible ambiguity that appears to have genera
 
 The amendment resolves this possible ambiguity.
 
-#### References in Text ####
+#### Committee Notes on Rules—2017 Amendment ####
 
-Rule 4(m) is set out above as it appears in the Supreme Court order of Apr. 28, 2016. As amended by the Supreme Court order of Apr. 29, 2015, the last sentence of Rule 4(m) reads as follows: "This subdivision (m) does not apply to service in a foreign country under Rule 4(f) or 4(j)(1) or to service of a notice under Rule 71.1(d)(3)(A)." The language added to the last sentence in 2015, "or to service of a notice under Rule 71.1(d)(3)(A)", probably should be part of Rule 4(m), but does not appear in the 2016 amendment.
+This is a technical amendment that integrates the intended effect of the amendments adopted in 2015 and 2016.
 
 #### Amendment by Public Law ####
 
@@ -5599,8 +5601,6 @@ Subd. (j). Pub. L. 97–462, §2(7), added subd. (j).
 #### Effective Date of 1983 Amendment ####
 
 Amendment by Pub. L. 97–462 effective 45 days after Jan. 12, 1983, see section 4 of Pub. L. 97–462, set out as a note under section 2071 of this title.
-
-[<sup>1</sup> See References in Text note below.](#Rule_4_1)
 
 ### Rule 4.1. Serving Other Process ###
 
@@ -16294,7 +16294,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to January 3, 2017)
+(As amended to December 1, 2017)
 
 #### Effective Date and Application of Rules ####
 
@@ -16304,7 +16304,7 @@ Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1926, provided: "That the followin
 
 The Federal Rules of Evidence were adopted by order of the Supreme Court on Nov. 20, 1972, transmitted to Congress by the Chief Justice on Feb. 5, 1973, and to have become effective on July 1, 1973. Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided that the proposed rules "shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by Act of Congress". Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1926, enacted the Federal Rules of Evidence proposed by the Supreme Court, with amendments made by Congress, to take effect on July 1, 1975.
 
-The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.
+The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017.
 
 #### ARTICLE I. GENERAL PROVISIONS ####
 
@@ -18680,7 +18680,7 @@ When facts are in dispute, experts sometimes reach different conclusions based o
 
 There has been some confusion over the relationship between Rules 702 and 703. The amendment makes clear that the sufficiency of the basis of an expert's testimony is to be decided under Rule 702. Rule 702 sets forth the overarching requirement of reliability, and an analysis of the sufficiency of the expert's basis cannot be divorced from the ultimate reliability of the expert's opinion. In contrast, the "reasonable reliance" requirement of Rule 703 is a relatively narrow inquiry. When an expert relies on inadmissible information, Rule 703 requires the trial court to determine whether that information is of a type reasonably relied on by other experts in the field. If so, the expert can rely on the information in reaching an opinion. However, the question whether the expert is relying on a *sufficient* basis of information—whether admissible information or not—is governed by the requirements of Rule 702.
 
-The amendment makes no attempt to set forth procedural requirements for exercising the trial court's gatekeeping function over expert testimony. *See* Daniel J. Capra, *The Daubert Puzzle*, 38 Ga.L.Rev. 699, 766 (1998) ("Trial courts should be allowed substantial discretion in dealing with *Daubert* questions; any attempt to codify procedures will likely give rise to unnecessary changes in practice and create difficult questions for appellate review."). Courts have shown considerable ingenuity and flexibility in considering challenges to expert testimony under *Daubert*, and it is contemplated that this will continue under the amended Rule. *See, e.g., Cortes-Irizarry v. Corporacion Insular*, 111 F.3d 184 (1st Cir. 1997) (discussing the application of *Daubert* in ruling on a motion for summary judgment); *In re Paoli R.R. Yard PCB Litig*., 35 F.3d 717, 736, 739 (3d Cir. 1994) (discussing the use of *in limine* hearings); *Claar v. Burlington N.R.R*., 29 F.3d 499, 502–05 (9th Cir. 1994) (discussing the trial court's technique of ordering experts to submit serial affidavits explaining the reasoning and methods underlying their conclusions).
+The amendment makes no attempt to set forth procedural requirements for exercising the trial court's gatekeeping function over expert testimony. *See* Daniel J. Capra, *The Daubert Puzzle*, 38 [32] Ga.L.Rev. 699, 766 (1998) ("Trial courts should be allowed substantial discretion in dealing with *Daubert* questions; any attempt to codify procedures will likely give rise to unnecessary changes in practice and create difficult questions for appellate review."). Courts have shown considerable ingenuity and flexibility in considering challenges to expert testimony under *Daubert*, and it is contemplated that this will continue under the amended Rule. *See, e.g., Cortes-Irizarry v. Corporacion Insular*, 111 F.3d 184 (1st Cir. 1997) (discussing the application of *Daubert* in ruling on a motion for summary judgment); *In re Paoli R.R. Yard PCB Litig*., 35 F.3d 717, 736, 739 (3d Cir. 1994) (discussing the use of *in limine* hearings); *Claar v. Burlington N.R.R*., 29 F.3d 499, 502–05 (9th Cir. 1994) (discussing the trial court's technique of ordering experts to submit serial affidavits explaining the reasoning and methods underlying their conclusions).
 
 The amendment continues the practice of the original Rule in referring to a qualified witness as an "expert." This was done to provide continuity and to minimize change. The use of the term "expert" in the Rule does not, however, mean that a jury should actually be informed that a qualified witness is testifying as an "expert." Indeed, there is much to be said for a practice that prohibits the use of the term "expert" by both the parties and the court at trial. Such a practice "ensures that trial courts do not inadvertently put their stamp of authority" on a witness's opinion, and protects against the jury's being "overwhelmed by the so-called 'experts'." Hon. Charles Richey, *Proposals to Eliminate the Prejudicial Effect of the Use of the Word "Expert" Under the Federal Rules of Evidence in Criminal and Civil Jury Trials*, 154 F.R.D. 537, 559 (1994) (setting forth limiting instructions and a standing order employed to prohibit the use of the term "expert" in jury trials).
 
@@ -19206,7 +19206,7 @@ If admitted, the record may be read into evidence but may be received as an exhi
 
 (15) *Statements in Documents That Affect an Interest in Property.* A statement contained in a document that purports to establish or affect an interest in property if the matter stated was relevant to the document's purpose—unless later dealings with the property are inconsistent with the truth of the statement or the purport of the document.
 
-(16) *Statements in Ancient Documents.* A statement in a document that is at least 20 years old and whose authenticity is established.
+(16) *Statements in Ancient Documents.* A statement in a document that was prepared before January 1, 1998, and whose authenticity is established.
 
 (17) *Market Reports and Similar Commercial Publications.* Market quotations, lists, directories, or other compilations that are generally relied on by the public or by persons in particular occupations.
 
@@ -19244,7 +19244,7 @@ The pendency of an appeal may be shown but does not affect admissibility.
 
 (24) [*Other Exceptions.*] [Transferred to Rule 807.]
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1939; Pub. L. 94–149, §1(11), Dec. 12, 1975, 89 Stat. 805; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1939; Pub. L. 94–149, §1(11), Dec. 12, 1975, 89 Stat. 805; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -19529,6 +19529,20 @@ The opponent, in meeting its burden, is not necessarily required to introduce af
 The opponent, in meeting its burden, is not necessarily required to introduce affirmative evidence of untrustworthiness. For example, the opponent might argue that a record was prepared in anticipation of litigation and is favorable to the preparing party without needing to introduce evidence on the point. A determination of untrustworthiness necessarily depends on the circumstances.
 
 *Changes Made After Publication and Comment*. In accordance with a public comment, a slight change was made to the Committee Note to better track the language of the rule.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+The ancient documents exception to the rule against hearsay has been limited to statements in documents prepared before January 1, 1998. The Committee has determined that the ancient documents exception should be limited due to the risk that it will be used as a vehicle to admit vast amounts of unreliable electronically stored information (ESI). Given the exponential development and growth of electronic information since 1998, the hearsay exception for ancient documents has now become a possible open door for large amounts of unreliable ESI, as no showing of reliability needs to be made to qualify under the exception.
+
+The Committee is aware that in certain cases—such as cases involving latent diseases and environmental damage—parties must rely on hardcopy documents from the past. The ancient documents exception remains available for such cases for documents prepared before 1998. Going forward, it is anticipated that any need to admit old hardcopy documents produced after January 1, 1998 will decrease, because reliable ESI is likely to be available and can be offered under a reliability-based hearsay exception. Rule 803(6) may be used for many of these ESI documents, especially given its flexible standards on which witnesses might be qualified to provide an adequate foundation. And Rule 807 can be used to admit old documents upon a showing of reliability—which will often (though not always) be found by circumstances such as that the document was prepared with no litigation motive in mind, close in time to the relevant events. The limitation of the ancient documents exception is not intended to raise an inference that 20-year-old documents are, as a class, unreliable, or that they should somehow not qualify for admissibility under Rule 807. Finally, many old documents can be admitted for the non-hearsay purpose of proving notice, or as party-opponent statements.
+
+The limitation of the ancient documents hearsay exception is not intended to have any effect on authentication of ancient documents. The possibility of authenticating an old document under Rule 901(b)(8)—or under any ground available for any other document— remains unchanged.
+
+The Committee carefully considered, but ultimately rejected, an amendment that would preserve the ancient documents exception for hardcopy evidence only. A party will often offer hardcopy that is derived from ESI. Moreover, a good deal of old information in hardcopy has been digitized or will be so in the future. Thus, the line between ESI and hardcopy was determined to be one that could not be drawn usefully.
+
+The Committee understands that the choice of a cut-off date has a degree of arbitrariness. But January 1, 1998 is a rational date for treating concerns about old and unreliable ESI. And the date is no more arbitrary than the 20-year cutoff date in the original rule. See Committee Note to Rule 901(b)(8) ("Any time period selected is bound to be arbitrary.").
+
+Under the amendment, a document is "prepared" when the statement proffered was recorded in that document. For example, if a hardcopy document is prepared in 1995, and a party seeks to admit a scanned copy of that document, the date of preparation is 1995 even though the scan was made long after that—the subsequent scan does not alter the document. The relevant point is the date on which the information is recorded, not when the information is prepared for trial. However, if the content of the document is *itself* altered after the cut-off date, then the hearsay exception will not apply to statements that were added in the alteration.
 
 #### Amendment by Public Law ####
 
@@ -19974,7 +19988,11 @@ The following items of evidence are self-authenticating; they require no extrins
 
 (12) *Certified Foreign Records of a Regularly Conducted Activity.* In a civil case, the original or a copy of a foreign record that meets the requirements of Rule 902(11), modified as follows: the certification, rather than complying with a federal statute or Supreme Court rule, must be signed in a manner that, if falsely made, would subject the maker to a criminal penalty in the country where the certification is signed. The proponent must also meet the notice requirements of Rule 902(11).
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1944; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(13) *Certified Records Generated by an Electronic Process or System.* A record generated by an electronic process or system that produces an accurate result, as shown by a certification of a qualified person that complies with the certification requirements of Rule 902(11) or (12). The proponent must also meet the notice requirements of Rule 902(11).
+
+(14) *Certified Data Copied from an Electronic Device, Storage Medium, or File.* Data copied from an electronic device, storage medium, or file, if authenticated by a process of digital identification, as shown by a certification of a qualified person that complies with the certification requirements of Rule 902(11) or (12). The proponent also must meet the notice requirements of Rule 902(11).
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1944; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -20039,6 +20057,38 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 902 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+*Paragraph (13)*. The amendment sets forth a procedure by which parties can authenticate certain electronic evidence other than through the testimony of a foundation witness. As with the provisions on business records in Rules 902(11) and (12), the Committee has found that the expense and inconvenience of producing a witness to authenticate an item of electronic evidence is often unnecessary. It is often the case that a party goes to the expense of producing an authentication witness, and then the adversary either stipulates authenticity before the witness is called or fails to challenge the authentication testimony once it is presented. The amendment provides a procedure under which the parties can determine in advance of trial whether a real challenge to authenticity will be made, and can then plan accordingly.
+
+Nothing in the amendment is intended to limit a party from establishing authenticity of electronic evidence on any ground provided in these Rules, including through judicial notice where appropriate.
+
+A proponent establishing authenticity under this Rule must present a certification containing information that would be sufficient to establish authenticity were that information provided by a witness at trial. If the certification provides information that would be insufficient to authenticate the record if the certifying person testified, then authenticity is not established under this Rule. The Rule specifically allows the authenticity foundation that satisfies Rule 901(b)(9) to be established by a certification rather than the testimony of a live witness.
+
+The reference to the "certification requirements of Rule 902(11) or (12)" is only to the procedural requirements for a valid certification. There is no intent to require, or permit, a certification under this Rule to prove the requirements of Rule 803(6). Rule 902(13) is solely limited to authentication, and any attempt to satisfy a hearsay exception must be made independently.
+
+A certification under this Rule can establish only that the proffered item has satisfied the admissibility requirements for authenticity. The opponent remains free to object to admissibility of the proffered item on other grounds—including hearsay, relevance, or in criminal cases the right to confrontation. For example, assume that a plaintiff in a defamation case offers what purports to be a printout of a webpage on which a defamatory statement was made. Plaintiff offers a certification under this Rule in which a qualified person describes the process by which the webpage was retrieved. Even if that certification sufficiently establishes that the webpage is authentic, defendant remains free to object that the statement on the webpage was not placed there by defendant. Similarly, a certification authenticating a computer output, such as a spreadsheet, does not preclude an objection that the information produced is unreliable—the authentication establishes only that the output came from the computer.
+
+A challenge to the authenticity of electronic evidence may require technical information about the system or process at issue, including possibly retaining a forensic technical expert; such factors will affect whether the opponent has a fair opportunity to challenge the evidence given the notice provided.
+
+The reference to Rule 902(12) is intended to cover certifications that are made in a foreign country.
+
+*Paragraph (14)*. The amendment sets forth a procedure by which parties can authenticate data copied from an electronic device, storage medium, or an electronic file, other than through the testimony of a foundation witness. As with the provisions on business records in Rules 902(11) and (12), the Committee has found that the expense and inconvenience of producing an authenticating witness for this evidence is often unnecessary. It is often the case that a party goes to the expense of producing an authentication witness, and then the adversary either stipulates authenticity before the witness is called or fails to challenge the authentication testimony once it is presented. The amendment provides a procedure in which the parties can determine in advance of trial whether a real challenge to authenticity will be made, and can then plan accordingly.
+
+Today, data copied from electronic devices, storage media, and electronic files are ordinarily authenticated by "hash value." A hash value is a number that is often represented as a sequence of characters and is produced by an algorithm based upon the digital contents of a drive, medium, or file. If the hash values for the original and copy are different, then the copy is not identical to the original. If the hash values for the original and copy are the same, it is highly improbable that the original and copy are not identical. Thus, identical hash values for the original and copy reliably attest to the fact that they are exact duplicates. This amendment allows self-authentication by a certification of a qualified person that she checked the hash value of the proffered item and that it was identical to the original. The rule is flexible enough to allow certifications through processes other than comparison of hash value, including by other reliable means of identification provided by future technology.
+
+Nothing in the amendment is intended to limit a party from establishing authenticity of electronic evidence on any ground provided in these Rules, including through judicial notice where appropriate.
+
+A proponent establishing authenticity under this Rule must present a certification containing information that would be sufficient to establish authenticity were that information provided by a witness at trial. If the certification provides information that would be insufficient to authenticate the record if the certifying person testified, then authenticity is not established under this Rule.
+
+The reference to the "certification requirements of Rule 902(11) or (12)" is only to the procedural requirements for a valid certification. There is no intent to require, or permit, a certification under this Rule to prove the requirements of Rule 803(6). Rule 902(14) is solely limited to authentication, and any attempt to satisfy a hearsay exception must be made independently.
+
+A certification under this Rule can only establish that the proffered item is authentic. The opponent remains free to object to admissibility of the proffered item on other grounds—including hearsay, relevance, or in criminal cases the right to confrontation. For example, in a criminal case in which data copied from a hard drive is proffered, the defendant can still challenge hearsay found in the hard drive, and can still challenge whether the information on the hard drive was placed there by the defendant.
+
+A challenge to the authenticity of electronic evidence may require technical information about the system or process at issue, including possibly retaining a forensic technical expert; such factors will affect whether the opponent has a fair opportunity to challenge the evidence given the notice provided.
+
+The reference to Rule 902(12) is intended to cover certifications that are made in a foreign country.
 
 ### Rule 903. Subscribing Witness's Testimony ###
 

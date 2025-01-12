@@ -1,4 +1,4 @@
-### **CHAPTER 29—RECORDS MANAGEMENT BY THE ARCHIVIST OF THE UNITED STATES** ###
+### **CHAPTER 29—RECORDS MANAGEMENT BY THE ARCHIVIST OF THE UNITED STATES AND BY THE ADMINISTRATOR OF GENERAL SERVICES** ###
 
 Sec.
 
@@ -26,7 +26,11 @@ Sec.
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–187, §§9(b)(2), (f)(1), 10(b), Nov. 26, 2014, 128 Stat. 2013–2015, struck out "AND BY THE ADMINISTRATOR OF GENERAL SERVICES" after "UNITED STATES" in chapter heading, inserted "or digitization" after "microfilming" in item 2907, and added item 2911.
+**2017**—Pub. L. 115–85, §2(a)(4), Nov. 21, 2017, 131 Stat. 1275, repealed Pub. L. 113–187, §9(f)(1). See 2014 Amendment note below.
+
+**2014**—Pub. L. 113–187, §9(f)(1), Nov. 26, 2014, 128 Stat. 2014, which directed striking out "AND BY THE ADMINISTRATOR OF GENERAL SERVICES" in chapter heading, was repealed by Pub. L. 115–85, §2(a)(4), (b), Nov. 21, 2017, 131 Stat. 1275, effective as if included in Pub. L. 113–187.
+
+Pub. L. 113–187, §§9(b)(2), 10(b), Nov. 26, 2014, 128 Stat. 2013–2015, inserted "or digitization" after "microfilming" in item 2907 and added item 2911.
 
 **2000**—Pub. L. 106–444, §2(b), Nov. 6, 2000, 114 Stat. 1929, added item 2910.
 

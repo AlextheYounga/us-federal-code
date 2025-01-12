@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 3, 2017)
+(Effective August 1, 1983, as amended to December 1, 2017)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.
 
 Rule
 
@@ -142,13 +142,15 @@ Rule
 
 3011. Unclaimed Funds in Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, and Chapter 13 Individual's Debt Adjustment Cases.
 
-3012. Valuation of Security.
+3012. Determining the Amount of Secured and Priority Claims.
 
 3013. Classification of Claims and Interests.
 
 3014. Election Under §1111(b) by Secured Creditor in Chapter 9 Municipality or Chapter 11 Reorganization Case.
 
-3015. Filing, Objection to Confirmation, and Modification of a Plan in a Chapter 12 Family Farmer's Debt Adjustment or a Chapter 13 Individual's Debt Adjustment Case.
+3015. Filing, Objection to Confirmation, Effect of Confirmation, and Modification of a Plan in a Chapter 12 or a Chapter 13 Case.
+
+3015.1. Requirements for a Local Form for Plans Filed in a Chapter 13 Case.
 
 3016. Filing of Plan and Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case.
 
@@ -202,7 +204,7 @@ Rule
 
 5008. Notice Regarding Presumption of Abuse in Chapter 7 Cases of Individual Debtors.
 
-5009. Closing Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, Chapter 13 Individual's Debt Adjustment, and Chapter 15 Ancillary and Cross-Border Cases.
+5009. Closing Chapter 7, Chapter 12, Chapter 13, and Chapter 15 Cases; Order Declaring Lien Satisfied.
 
 5010. Reopening Cases.
 
@@ -500,9 +502,9 @@ Sections 2 to 4 of the Order of the Supreme Court, dated Apr. 25, 1983, provided
 
 ### Rule 1001. Scope of Rules and Forms; Short Title ###
 
-The Bankruptcy Rules and Forms govern procedure in cases under title 11 of the United States Code. The rules shall be cited as the Federal Rules of Bankruptcy Procedure and the forms as the Official Bankruptcy Forms. These rules shall be construed to secure the just, speedy, and inexpensive determination of every case and proceeding.
+The Bankruptcy Rules and Forms govern procedure in cases under title 11 of the United States Code. The rules shall be cited as the Federal Rules of Bankruptcy Procedure and the forms as the Official Bankruptcy Forms. These rules shall be construed, administered, and employed by the court and the parties to secure the just, speedy, and inexpensive determination of every case and proceeding.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -529,6 +531,16 @@ Rule 81(a)(1) F.R.Civ.P. provides that the civil rules do not apply to proceedin
 #### Notes of Advisory Committee on Rules—1991 Amendment ####
 
 The citation to these rules is amended to conform to the citation form of the Federal Rules of Civil Procedure, Federal Rules of Appellate Procedure, and Federal Rules of Criminal Procedure.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+The last sentence of the rule is amended to incorporate the changes to Rule 1 F.R.Civ.P. made in 1993 and 2015.
+
+The word "administered" is added to recognize the affirmative duty of the court to exercise the authority conferred by these rules to ensure that bankruptcy cases and the proceedings within them are resolved not only fairly, but also without undue cost or delay. As officers of the court, attorneys share this responsibility with the judge to whom the case is assigned.
+
+The addition of the phrase "employed by the court and the parties" emphasizes that parties share in the duty of using the rules to secure the just, speedy, and inexpensive determination of every case and proceeding. Achievement of this goal depends upon cooperative and proportional use of procedure by lawyers and parties.
+
+This amendment does not create a new or independent source of sanctions. Nor does it abridge the scope of any other of these rules.
 
 ### PART I—COMMENCEMENT OF CASE; PROCEEDINGS RELATING TO PETITION AND ORDER FOR RELIEF ###
 
@@ -688,7 +700,7 @@ The rule is amended to require the disclosure of all names used by the debtor in
 
 (b) Payment of Filing Fee in Installments.
 
-(1) *Application to Pay Filing Fee in Installments*. A voluntary petition by an individual shall be accepted for filing if accompanied by the debtor's signed application, prepared as prescribed by the appropriate Official Form, stating that the debtor is unable to pay the filing fee except in installments.
+(1) *Application to Pay Filing Fee in Installments*. A voluntary petition by an individual shall be accepted for filing, regardless of whether any portion of the filing fee is paid, if accompanied by the debtor's signed application, prepared as prescribed by the appropriate Official Form, stating that the debtor is unable to pay the filing fee except in installments.
 
 (2) *Action on Application*. Prior to the meeting of creditors, the court may order the filing fee paid to the clerk or grant leave to pay in installments and fix the number, amount and dates of payment. The number of installments shall not exceed four, and the final installment shall be payable not later than 120 days after filing the petition. For cause shown, the court may extend the time of any installment, provided the last installment is paid not later than 180 days after filing the petition.
 
@@ -696,7 +708,7 @@ The rule is amended to require the disclosure of all names used by the debtor in
 
 (c) Waiver of Filing Fee. A voluntary chapter 7 petition filed by an individual shall be accepted for filing if accompanied by the debtor's application requesting a waiver under 28 U.S.C. §1930(f), prepared as prescribed by the appropriate Official Form.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -725,6 +737,10 @@ Subdivision (b)(1) is amended to delete the sentence requiring a disclosure that
 Subdivision (b)(3) is amended in conformance with the changes to subdivision (b)(1) to reflect the 2005 amendments. The change is meant to clarify that subdivision (b)(3) refers to payments made after the debtor has filed the bankruptcy case and after the debtor has received permission to pay the fee in installments. Otherwise, the subdivision may conflict with the intent and effect of the amendments to subdivision (b)(1).
 
 *Changes Made After Publication*. No changes were made after publication.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+Subdivision (b)(1) is amended to clarify that an individual debtor's voluntary petition, accompanied by an application to pay the filing fee in installments, must be accepted for filing, even if the court requires the initial installment to be paid at the time the petition is filed and the debtor fails to make that payment. Because the debtor's bankruptcy case is commenced upon the filing of the petition, dismissal of the case due to the debtor's failure to make the initial or a subsequent installment payment is governed by Rule 1017(b)(1).
 
 ### Rule 1007. Lists, Schedules, Statements, and Other Documents; Time Limits ###
 
@@ -1272,11 +1288,11 @@ The other changes to subdivision (b) are stylistic.
 
 (a) Cases Involving Same Debtor. If two or more petitions by, regarding, or against the same debtor are pending in the same court, the court may order consolidation of the cases.
 
-(b) Cases Involving Two or More Related Debtors. If a joint petition or two or more petitions are pending in the same court by or against (1) a husband and wife, or (2) a partnership and one or more of its general partners, or (3) two or more general partners, or (4) a debtor and an affiliate, the court may order a joint administration of the estates. Prior to entering an order the court shall give consideration to protecting creditors of different estates against potential conflicts of interest. An order directing joint administration of individual cases of a husband and wife shall, if one spouse has elected the exemptions under §522(b)(2) of the Code and the other has elected the exemptions under §522(b)(3), fix a reasonable time within which either may amend the election so that both shall have elected the same exemptions. The order shall notify the debtors that unless they elect the same exemptions within the time fixed by the court, they will be deemed to have elected the exemptions provided by §522(b)(2).
+(b) Cases Involving Two or More Related Debtors. If a joint petition or two or more petitions are pending in the same court by or against (1) spouses, or (2) a partnership and one or more of its general partners, or (3) two or more general partners, or (4) a debtor and an affiliate, the court may order a joint administration of the estates. Prior to entering an order the court shall give consideration to protecting creditors of different estates against potential conflicts of interest. An order directing joint administration of individual cases of spouses shall, if one spouse has elected the exemptions under §522(b)(2) of the Code and the other has elected the exemptions under §522(b)(3), fix a reasonable time within which either may amend the election so that both shall have elected the same exemptions. The order shall notify the debtors that unless they elect the same exemptions within the time fixed by the court, they will be deemed to have elected the exemptions provided by §522(b)(2).
 
 (c) Expediting and Protective Orders. When an order for consolidation or joint administration of a joint case or two or more cases is entered pursuant to this rule, while protecting the rights of the parties under the Code, the court may enter orders as may tend to avoid unnecessary costs and delay.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1307,6 +1323,10 @@ The rule is amended to conform to the change in the numbering of §522(b) of the
 *Subdivision (a)*. By amending subdivision (a) to include cases regarding the same debtor, the rule explicitly recognizes that the court's authority to consolidate cases when more than one petition is filed includes the authority to consolidate cases when one or more of the petitions is filed under chapter 15. This amendment is made in conjunction with the amendment to Rule 1014(b), which also governs petitions filed under chapter 15 regarding the same debtor as well as those filed by or against the debtor.
 
 *Changes Made After Publication*. No changes since publication.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+Subdivision (b) is amended to replace "a husband and wife" with "spouses" in light of the Supreme Court's decision in *Obergefell v. Hodges*, 135 S. Ct. 2584 (2015).
 
 ### Rule 1016. Death or Incompetency of Debtor ###
 
@@ -1694,11 +1714,13 @@ This rule is amended to conform to §303(g) of the Code which provides that the 
 
 (6) a hearing on any entity's request for compensation or reimbursement of expenses if the request exceeds $1,000;
 
-(7) the time fixed for filing proofs of claims pursuant to Rule 3003(c); and
+(7) the time fixed for filing proofs of claims pursuant to Rule 3003(c);
 
-(8) the time fixed for filing objections and the hearing to consider confirmation of a chapter 12 plan.
+(8) the time fixed for filing objections and the hearing to consider confirmation of a chapter 12 plan; and
 
-(b) Twenty-Eight-Day Notices to Parties in Interest. Except as provided in subdivision (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees not less than 28 days' notice by mail of the time fixed (1) for filing objections and the hearing to consider approval of a disclosure statement or, under §1125(f), to make a final determination whether the plan provides adequate information so that a separate disclosure statement is not necessary; and (2) for filing objections and the hearing to consider confirmation of a chapter 9, chapter 11, or chapter 13 plan.
+(9) the time fixed for filing objections to confirmation of a chapter 13 plan.
+
+(b) Twenty-Eight-Day Notices to Parties in Interest. Except as provided in subdivision (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees not less than 28 days' notice by mail of the time fixed (1) for filing objections and the hearing to consider approval of a disclosure statement or, under §1125(f), to make a final determination whether the plan provides adequate information so that a separate disclosure statement is not necessary; (2) for filing objections and the hearing to consider confirmation of a chapter 9 or chapter 11 plan; and (3) for the hearing to consider confirmation of a chapter 13 plan.
 
 (c) Content of Notice.
 
@@ -1788,7 +1810,7 @@ This rule is amended to conform to §303(g) of the Code which provides that the 
 
 (2) *Notice of Court's Intention to Communicate with Foreign Courts and Foreign Representatives*. The clerk, or some other person as the court may direct, shall give the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and such other entities as the court may direct, notice by mail of the court's intention to communicate with a foreign court or foreign representative.
 
-(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1991,6 +2013,10 @@ The rule is amended to implement changes in connection with the amendment to Rul
 #### Committee Notes on Rules—2016 Amendment ####
 
 Subdivision (q) is amended to clarify the procedures for giving notice in cross-border proceedings. The amended rule provides, in keeping with Code §1517(c), for the court to schedule a hearing to be held promptly on the petition for recognition of a foreign proceeding. The amended rule contemplates that a hearing on a request for provisional relief may sometimes overlap substantially with the merits of the petition for recognition. In that case, the court may choose to consolidate the hearing on the request for provisional relief with the hearing on the petition for recognition, see Rules 1018 and 7065, and accordingly shorten the usual 21-day notice period.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+Subdivisions (a) and (b) are amended and reorganized to alter the provisions governing notice under this rule in chapter 13 cases. Subdivision (a)(9) is added to require at least 21 days' notice of the time for filing objections to confirmation of a chapter 13 plan. Subdivision (b)(3) is added to provide separately for 28 days' notice of the date of the confirmation hearing in a chapter 13 case. These amendments conform to amended Rule 3015, which governs the time for presenting objections to confirmation of a chapter 13 plan. Other changes are stylistic.
 
 #### References in Text ####
 
@@ -3242,11 +3268,11 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 ### Rule 3002. Filing Proof of Claim or Interest ###
 
-(a) Necessity for Filing. An unsecured creditor or an equity security holder must file a proof of claim or interest for the claim or interest to be allowed, except as provided in Rules 1019(3), 3003, 3004, and 3005.
+(a) Necessity for Filing. A secured creditor, unsecured creditor, or equity security holder must file a proof of claim or interest for the claim or interest to be allowed, except as provided in Rules 1019(3), 3003, 3004, and 3005. A lien that secures a claim against the debtor is not void due only to the failure of any entity to file a proof of claim.
 
 (b) Place of Filing. A proof of claim or interest shall be filed in accordance with Rule 5005.
 
-(c) Time for Filing. In a chapter 7 liquidation, chapter 12 family farmer's debt adjustment, or chapter 13 individual's debt adjustment case, a proof of claim is timely filed if it is filed not later than 90 days after the first date set for the meeting of creditors called under §341(a) of the Code, except as follows:
+(c) Time for Filing. In a voluntary chapter 7 case, chapter 12 case, or chapter 13 case, a proof of claim is timely filed if it is filed not later than 70 days after the order for relief under that chapter or the date of the order of conversion to a case under chapter 12 or chapter 13. In an involuntary chapter 7 case, a proof of claim is timely filed if it is filed not later than 90 days after the order for relief under that chapter is entered. But in all these cases, the following exceptions apply:
 
 (1) A proof of claim filed by a governmental unit, other than for a claim resulting from a tax return filed under §1308, is timely filed if it is filed not later than 180 days after the date of the order for relief. A proof of claim filed by a governmental unit for a claim resulting from a tax return filed under §1308 is timely filed if it is filed no later than 180 days after the date of the order for relief or 60 days after the date of the filing of the tax return. The court may, for cause, enlarge the time for a governmental unit to file a proof of claim only upon motion of the governmental unit made before expiration of the period for filing a timely proof of claim.
 
@@ -3258,9 +3284,19 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (5) If notice of insufficient assets to pay a dividend was given to creditors under Rule 2002(e), and subsequently the trustee notifies the court that payment of a dividend appears possible, the clerk shall give at least 90 days' notice by mail to creditors of that fact and of the date by which proofs of claim must be filed.
 
-(6) If notice of the time to file a proof of claim has been mailed to a creditor at a foreign address, on motion filed by the creditor before or after the expiration of the time, the court may extend the time by not more than 60 days if the court finds that the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim.
+(6) On motion filed by a creditor before or after the expiration of the time to file a proof of claim, the court may extend the time by not more than 60 days from the date of the order granting the motion. The motion may be granted if the court finds that:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(A) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim because the debtor failed to timely file the list of creditors' names and addresses required by Rule 1007(a); or
+
+(B) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim, and the notice was mailed to the creditor at a foreign address.	
+
+(7) A proof of claim filed by the holder of a claim that is secured by a security interest in the debtor's principal residence is timely filed if:
+
+(A) the proof of claim, together with the attachments required by Rule 3001(c)(2)(C), is filed not later than 70 days after the order for relief is entered; and
+
+(B) any attachments required by Rule 3001(c)(1) and (d) are filed as a supplement to the holder's claim not later than 120 days after the order for relief is entered.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3319,6 +3355,16 @@ Subdivision (c)(6) is added to give the court discretion to extend the time for 
 Other changes are stylistic.
 
 *Changes Made After Publication*. Subdivision (c)(1) was amended to allow governmental units to move for an enlargement of the time to file a proof of claim. The Committee Note was amended to describe this addition to the rule.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+Subdivision (a) is amended to clarify that a creditor, including a secured creditor, must file a proof of claim in order to have an allowed claim. The amendment also clarifies, in accordance with §506(d), that the failure of a secured creditor to file a proof of claim does not render the creditor's lien void. The inclusion of language from §506(d) is not intended to effect any change of law with respect to claims subject to setoff under §553. The amendment preserves the existing exceptions to this rule under Rules 1019(3), 3003, 3004, and 3005. Under Rule 1019(3), a creditor does not need to file another proof of claim after conversion of a case to chapter 7. Rule 3003 governs the filing of a proof of claim in chapter 9 and chapter 11 cases. Rules 3004 and 3005 govern the filing of a proof of claim by the debtor, trustee, or another entity if a creditor does not do so in a timely manner.
+
+Subdivision (c) is amended to alter the calculation of the bar date for proofs of claim in chapter 7, chapter 12, and chapter 13 cases. The amendment changes the time for filing a proof of claim in a voluntary chapter 7 case, a chapter 12 case, or a chapter 13 case from 90 days after the §341 meeting of creditors to 70 days after the petition date. If a case is converted to chapter 12 or chapter 13, the 70-day time for filing runs from the order of conversion. If a case is converted to chapter 7, Rule 1019(2) provides that a new time period for filing a claim commences under Rule 3002. In an involuntary chapter 7 case, a 90-day time for filing applies and runs from the entry of the order for relief.
+
+Subdivision (c)(6) is amended to expand the exception to the bar date for cases in which a creditor received insufficient notice of the time to file a proof of claim. The amendment provides that the court may extend the time to file a proof of claim if the debtor fails to file a timely list of names and addresses of creditors as required by Rule 1007(a). The amendment also clarifies that if a court grants a creditor's motion under this rule to extend the time to file a proof of claim, the extension runs from the date of the court's decision on the motion.
+
+Subdivision (c)(7) is added to provide a two-stage deadline for filing mortgage proofs of claim secured by an interest in the debtor's principal residence. Those proofs of claim must be filed with the appropriate Official Form mortgage attachment within 70 days of the order for relief. The claim will be timely if any additional documents evidencing the claim, as required by Rule 3001(c)(1) and (d), are filed within 120 days of the order for relief. The order for relief is the commencement of the case upon filing a petition, except in an involuntary case. See §301 and §303(h). The confirmation of a plan within the 120-day period set forth in subdivision (c)(7)(B) does not prohibit an objection to any proof of claim.
 
 ### Rule 3002.1. Notice Relating to Claims Secured by Security Interest in the Debtor's Principal Residence ###
 
@@ -3536,7 +3582,19 @@ This amendment is stylistic. Notice of the hearing need not be given to committe
 
 ### Rule 3007. Objections to Claims ###
 
-(a) Objections to Claims. An objection to the allowance of a claim shall be in writing and filed. A copy of the objection with notice of the hearing thereon shall be mailed or otherwise delivered to the claimant, the debtor or debtor in possession, and the trustee at least 30 days prior to the hearing.
+(a) Time and Manner of Service.
+
+(1) *Time of Service*. An objection to the allowance of a claim and a notice of objection that substantially conforms to the appropriate Official Form shall be filed and served at least 30 days before any scheduled hearing on the objection or any deadline for the claimant to request a hearing.
+
+(2) *Manner of Service.*
+
+(A) The objection and notice shall be served on a claimant by first-class mail to the person most recently designated on the claimant's original or amended proof of claim as the person to receive notices, at the address so indicated; and
+
+(i)	if the objection is to a claim of the United States, or any of its officers or agencies, in the manner provided for service of a summons and complaint by Rule 7004(b)(4) or (5); or
+
+(ii) if the objection is to a claim of an insured depository institution, in the manner provided by Rule 7004(h).
+
+(B)	Service of the objection and notice shall also be made by first-class mail or other permitted means on the debtor or debtor in possession, the trustee, and, if applicable, the entity filing the proof of claim under Rule 3005.
 
 (b) Demand for Relief Requiring an Adversary Proceeding. A party in interest shall not include a demand for relief of a kind specified in Rule 7001 in an objection to the allowance of a claim, but may include the objection in an adversary proceeding.
 
@@ -3576,7 +3634,7 @@ This amendment is stylistic. Notice of the hearing need not be given to committe
 
 (f) Finality of Objection. The finality of any order regarding a claim objection included in an omnibus objection shall be determined as though the claim had been subject to an individual objection.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3607,6 +3665,12 @@ Subdivision (f) provides that an order resolving an objection to any particular 
 *Changes Made After Publication*. There were several changes made to the rule after its publication. The Advisory Committee declined to follow Mr. Sabino's suggestion, concluding that the rule as proposed includes sufficient flexibility, and that expanding the flexibility might lead to excessive deviation from the appropriate format for omnibus claims objections. The Advisory Committee also declined to follow Mr. Horsley's suggestion because the deadline for filing a proof of claim varies based on the nature of the creditor (governmental units have different deadlines from other creditors) as well as on the chapter under which the case is pending. The Advisory Committee rejected Judge Grant's suggestion that a party proposing an omnibus claims objection be required to demonstrate some special cause to allow the joinder of the objections. The Advisory Committee concluded that the rule includes sufficient protections for claimants such that omnibus objections should be allowed without the need for a special showing by the claims objector that joinder is proper.
 
 The Advisory Committee did accept several of Judge Grant's suggestions, and the rule was amended by deleting the grounds for objection to claims based on the filing of a superceding proof of claim under proposed subdivision (d)(3) and the transfer of claims under proposed subdivision (d)(4). Subdivision (d)(3) now permits objections to claims that have been amended by a subsequently filed proof of claim and the paragraphs within subdivision (d) have been renumbered to reflect the deletion. The Committee Note also no longer includes any reliance on §502(j) for the statement indicating that a subsequent claim objection can be filed to a claim that was previously included in an omnibus claim objection.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+Subdivision (a) is amended to specify the manner in which an objection to a claim and notice of the objection must be served. It clarifies that Rule 7004 does not apply to the service of most claim objections. Instead, a claimant must be served by first-class mail addressed to the person whom the claimant most recently designated on its proof of claim to receive notices, at the address so indicated. If, however, the claimant is the United States, an officer or agency of the United States, or an insured depository institution, service must also be made according to the method prescribed by the appropriate provision of Rule 7004. The service methods for the depository institutions are statutorily mandated, and the size and dispersal of the decision-making and litigation authority of the federal government necessitate service on the appropriate United States attorney's office and the Attorney General, as well as the person designated on the proof of claim.
+
+As amended, subdivision (a) no longer requires that a hearing be scheduled or held on every objection. The rule requires the objecting party to provide notice and an opportunity for a hearing on the objection, but, by deleting from the subdivision references to "the hearing," it permits local practices that require a claimant to timely request a hearing or file a response in order to obtain a hearing. The official notice form served with a copy of the objection will inform the claimant of any actions it must take. However, while a local rule may require the claimant to respond to the objection to a proof of claim, the court will still need to determine if the claim is valid, even if the claimant does not file a response to a claim objection or request a hearing.
 
 ### Rule 3008. Reconsideration of Claims ###
 
@@ -3670,17 +3734,35 @@ This rule is derived from former Bankruptcy Rule 310. The operative provisions o
 
 The title of this rule is amended to include chapter 12 cases. The words "with the clerk" are deleted as unnecessary. See Rules 5005(a) and 9001(3).
 
-### Rule 3012. Valuation of Security ###
+### Rule 3012. Determining the Amount of Secured and Priority Claims ###
 
-The court may determine the value of a claim secured by a lien on property in which the estate has an interest on motion of any party in interest and after a hearing on notice to the holder of the secured claim and any other entity as the court may direct.
+(a) Determination of Amount of Claim. On request by a party in interest and after notice—to the holder of the claim and any other entity the court designates—and a hearing, the court may determine:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(1) the amount of a secured claim under §506(a) of the Code; or
+
+(2) the amount of a claim entitled to priority under §507 of the Code.
+
+(b) Request for Determination; How Made. Except as provided in subdivision (c), a request to determine the amount of a secured claim may be made by motion, in a claim objection, or in a plan filed in a chapter 12 or chapter 13 case. When the request is made in a chapter 12 or chapter 13 plan, the plan shall be served on the holder of the claim and any other entity the court designates in the manner provided for service of a summons and complaint by Rule 7004. A request to determine the amount of a claim entitled to priority may be made only by motion after a claim is filed or in a claim objection.
+
+(c) Claims of Governmental Units. A request to determine the amount of a secured claim of a governmental unit may be made only by motion or in a claim objection after the governmental unit files a proof of claim or after the time for filing one under Rule 3002(c)(1) has expired.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 Pursuant to §506(a) of the Code, secured claims are to be valued and allowed as secured to the extent of the value of the collateral and unsecured, to the extent it is enforceable, for the excess over such value. The valuation of secured claims may become important in different contexts *e.g*., to determine the issue of adequate protection under §361, impairment under §1124, or treatment of the claim in a plan pursuant to §1129(b) of the Code. This rule permits the issue to be raised on motion by a party in interest. The secured creditor is entitled to notice of the hearing on the motion and the court may direct that others in the case also receive such notice.
 
 An adversary proceeding is commenced when the validity, priority, or extent of a lien is at issue as prescribed by Rule 7001. That proceeding is relevant to the basis of the lien itself while valuation under Rule 3012 would be for the purposes indicated above.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+This rule is amended and reorganized.
+
+Subdivision (a) provides, in keeping with the former version of this rule, that a party in interest may seek a determination of the amount of a secured claim. The amended rule provides that the amount of a claim entitled to priority may also be determined by the court.
+
+Subdivision (b) is added to provide that a request to determine the amount of a secured claim may be made in a chapter 12 or chapter 13 plan, as well as by a motion or a claim objection. When the request is made in a plan, the plan must be served on the holder of the claim and any other entities the court designates according to Rule 7004. Secured claims of governmental units are not included in this subdivision and are governed by subdivision (c). The amount of a claim entitled to priority may be determined through a motion or a claim objection.
+
+Subdivision (c) clarifies that a determination under this rule with respect to a secured claim of a governmental unit may be made only by motion or in a claim objection, but not until the governmental unit has filed a proof of claim or its time for filing a proof of claim has expired.
 
 ### Rule 3013. Classification of Claims and Interests ###
 
@@ -3718,23 +3800,29 @@ This amendment provides a deadline for electing application of §1111(b)(2) in a
 
 *GAP Report on Rule 3014*. No changes to the published draft.
 
-### Rule 3015. Filing, Objection to Confirmation, and Modification of a Plan in a Chapter 12 Family Farmer's Debt Adjustment or a Chapter 13 Individual's Debt Adjustment Case ###
+### Rule 3015. Filing, Objection to Confirmation, Effect of Confirmation, and Modification of a Plan in a Chapter 12 or a Chapter 13 Case ###
 
-(a) Chapter 12 Plan. The debtor may file a chapter 12 plan with the petition. If a plan is not filed with the petition, it shall be filed within the time prescribed by §1221 of the Code.
+(a) Filing a Chapter 12 Plan. The debtor may file a chapter 12 plan with the petition. If a plan is not filed with the petition, it shall be filed within the time prescribed by §1221 of the Code.
 
-(b) Chapter 13 Plan. The debtor may file a chapter 13 plan with the petition. If a plan is not filed with the petition, it shall be filed within 14 days thereafter, and such time may not be further extended except for cause shown and on notice as the court may direct. If a case is converted to chapter 13, a plan shall be filed within 14 days thereafter, and such time may not be further extended except for cause shown and on notice as the court may direct.
+(b) Filing a Chapter 13 Plan. The debtor may file a chapter 13 plan with the petition. If a plan is not filed with the petition, it shall be filed within 14 days thereafter, and such time may not be further extended except for cause shown and on notice as the court may direct. If a case is converted to chapter 13, a plan shall be filed within 14 days thereafter, and such time may not be further extended except for cause shown and on notice as the court may direct.
 
-(c) Dating. Every proposed plan and any modification thereof shall be dated.
+(c) Form of Chapter 13 Plan. If there is an Official Form for a plan filed in a chapter 13 case, that form must be used unless a Local Form has been adopted in compliance with Rule 3015.1. With either the Official Form or a Local Form, a nonstandard provision is effective only if it is included in a section of the form designated for nonstandard provisions and is also identified in accordance with any other requirements of the form. As used in this rule and the Official Form or a Local Form, "nonstandard provision" means a provision not otherwise included in the Official or Local Form or deviating from it.
 
-(d) Notice and Copies. The plan or a summary of the plan shall be included with each notice of the hearing on confirmation mailed pursuant to Rule 2002. If required by the court, the debtor shall furnish a sufficient number of copies to enable the clerk to include a copy of the plan with the notice of the hearing.
+(d) Notice. If the plan is not included with the notice of the hearing on confirmation mailed under Rule 2002, the debtor shall serve the plan on the trustee and all creditors when it is filed with the court.
 
-(e) Transmission to United States Trustee. The clerk shall forthwith transmit to the United States trustee a copy of the plan and any modification thereof filed pursuant to subdivision (a) or (b) of this rule.
+(e) Transmission to United States Trustee. The clerk shall forthwith transmit to the United States trustee a copy of the plan and any modification thereof filed under subdivision (a) or (b) of this rule.
 
-(f) Objection to Confirmation; Determination of Good Faith in the Absence of an Objection. An objection to confirmation of a plan shall be filed and served on the debtor, the trustee, and any other entity designated by the court, and shall be transmitted to the United States trustee, before confirmation of the plan. An objection to confirmation is governed by Rule 9014. If no objection is timely filed, the court may determine that the plan has been proposed in good faith and not by any means forbidden by law without receiving evidence on such issues.
+(f) Objection to Confirmation; Determination of Good Faith in the Absence of an Objection. An objection to confirmation of a plan shall be filed and served on the debtor, the trustee, and any other entity designated by the court, and shall be transmitted to the United States trustee, at least seven days before the date set for the hearing on confirmation, unless the court orders otherwise. An objection to confirmation is governed by Rule 9014. If no objection is timely filed, the court may determine that the plan has been proposed in good faith and not by any means forbidden by law without receiving evidence on such issues.
 
-(g) Modification of Plan After Confirmation. A request to modify a plan pursuant to §1229 or §1329 of the Code shall identify the proponent and shall be filed together with the proposed modification. The clerk, or some other person as the court may direct, shall give the debtor, the trustee, and all creditors not less than 21 days' notice by mail of the time fixed for filing objections and, if an objection is filed, the hearing to consider the proposed modification, unless the court orders otherwise with respect to creditors who are not affected by the proposed modification. A copy of the notice shall be transmitted to the United States trustee. A copy of the proposed modification, or a summary thereof, shall be included with the notice. If required by the court, the proponent shall furnish a sufficient number of copies of the proposed modification, or a summary thereof, to enable the clerk to include a copy with each notice. Any objection to the proposed modification shall be filed and served on the debtor, the trustee, and any other entity designated by the court, and shall be transmitted to the United States trustee. An objection to a proposed modification is governed by Rule 9014.
+(g) Effect of Confirmation. Upon the confirmation of a chapter 12 or chapter 13 plan:
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(1) any determination in the plan made under Rule 3012 about the amount of a secured claim is binding on the holder of the claim, even if the holder files a contrary proof of claim or the debtor schedules that claim, and regardless of whether an objection to the claim has been filed; and
+
+(2) any request in the plan to terminate the stay imposed by §362(a), §1201(a), or §1301(a) is granted.
+
+(h) Modification of Plan After Confirmation. A request to modify a plan under §1229 or §1329 of the Code shall identify the proponent and shall be filed together with the proposed modification. The clerk, or some other person as the court may direct, shall give the debtor, the trustee, and all creditors not less than 21 days' notice by mail of the time fixed for filing objections and, if an objection is filed, the hearing to consider the proposed modification, unless the court orders otherwise with respect to creditors who are not affected by the proposed modification. A copy of the notice shall be transmitted to the United States trustee. A copy of the proposed modification, or a summary thereof, shall be included with the notice. Any objection to the proposed modification shall be filed and served on the debtor, the trustee, and any other entity designated by the court, and shall be transmitted to the United States trustee. An objection to a proposed modification is governed by Rule 9014.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3771,6 +3859,66 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 20-day periods become 21-day periods
 
 • 25-day periods become 28-day periods
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+This rule is amended and reorganized.
+
+Subdivision (c) is amended to require use of an Official Form if one is adopted for chapter 13 plans unless a Local Form has been adopted consistent with Rule 3015.1. Subdivision (c) also provides that nonstandard provisions in a chapter 13 plan must be set out in the section of the Official or Local Form specifically designated for such provisions and must be identified in the manner required by the Official or Local Form.
+
+Subdivision (d) is amended to ensure that the trustee and creditors are served with the plan before confirmation. Service may be made either at the time the plan is filed or with the notice under Rule 2002 of the hearing to consider confirmation of the plan.
+
+Subdivision (f) is amended to require service of an objection to confirmation at least seven days before the hearing to consider confirmation of a plan, unless the court orders otherwise.
+
+Subdivision (g) is amended to set out two effects of confirmation. Subdivision (g)(1) provides that the amount of a secured claim under §506(a) may be determined through a chapter 12 or chapter 13 plan in accordance with Rule 3012. That determination, unlike the amount of any current installment payments or arrearages, controls over a contrary proof of claim, without the need for a claim objection under Rule 3007, and over the schedule submitted by the debtor under §521(a). The amount of a secured claim of a governmental unit, however, may not be determined through a chapter 12 or chapter 13 plan under Rule 3012. Subdivision (g)(2) provides for termination of the automatic stay under §§362, 1201, and 1301 as requested in the plan.
+
+Subdivision (h) was formerly subdivision (g). It is redesignated and is amended to reflect that often the party proposing a plan modification is responsible for serving the proposed modification on other parties. The option to serve a summary of the proposed modification has been retained. Unless required by another rule, service under this subdivision does not need to be made in the manner provided for service of a summons and complaint by Rule 7004.
+
+### Rule 3015.1. Requirements for a Local Form for Plans Filed in a Chapter 13 Case ###
+
+Notwithstanding Rule 9029(a)(1), a district may require that a Local Form for a plan filed in a chapter 13 case be used instead of an Official Form adopted for that purpose if the following conditions are satisfied:
+
+(a) a single Local Form is adopted for the district after public notice and an opportunity for public comment;
+
+(b) each paragraph is numbered and labeled in boldface type with a heading stating the general subject matter of the paragraph;
+
+(c) the Local Form includes an initial paragraph for the debtor to indicate that the plan does or does not:
+
+(1) contain any nonstandard provision;
+
+(2) limit the amount of a secured claim based on a valuation of the collateral for the claim; or
+
+(3) avoid a security interest or lien;
+
+(d) the Local Form contains separate paragraphs for:
+
+(1) curing any default and maintaining payments on a claim secured by the debtor's principal residence;
+
+(2) paying a domestic-support obligation;
+
+(3) paying a claim described in the final paragraph of §1325(a) of the Bankruptcy Code; and
+
+(4) surrendering property that secures a claim with a request that the stay under §§362(a) and 1301(a) be terminated as to the surrendered collateral; and
+
+(e) the Local Form contains a final paragraph for:
+
+(1) the placement of nonstandard provisions, as defined in Rule 3015(c), along with a statement that any nonstandard provision placed elsewhere in the plan is void; and
+
+(2)	certification by the debtor's attorney or by an unrepresented debtor that the plan contains no nonstandard provision other than those set out in the final paragraph.
+
+(Added Apr. 27, 2017, eff. Dec. 1, 2017.)
+
+#### Committee Notes on Rules—2017 ####
+
+This rule is new. It sets out features required for all Local Forms for plans in chapter 13 cases. If a Local Form does not comply with this rule, it may not be used in lieu of the Official Chapter 13 Plan Form. See Rule 3015(c).
+
+Under the rule only one Local Form may be adopted in a district. The rule does not specify the method of adoption, but it does require that adoption of a Local Form be preceded by a public notice and comment period.
+
+To promote consistency among Local Forms and clarity of content of chapter 13 plans, the rule prescribes several formatting and disclosure requirements. Paragraphs in such a form must be numbered and labeled in bold type, and the form must contain separate paragraphs for the cure and maintenance of home mortgages, payment of domestic support obligations, treatment of secured claims covered by the "hanging paragraph" of §1325(a), and surrender of property securing a claim. Whether those portions of the Local Form are used in a given chapter 13 case will depend on the debtor's individual circumstances.
+
+The rule requires that a Local Form begin with a paragraph for the debtor to call attention to the fact that the plan contains a nonstandard provision; limits the amount of a secured claim based on a valuation of the collateral, as authorized by Rule 3012(b); or avoids a lien, as authorized by Rule 4003(d).
+
+The last paragraph of a Local Form must be for the inclusion of any nonstandard provisions, as defined by Rule 3015(c), and must include a statement that nonstandard provisions placed elsewhere in the plan are void. This part gives the debtor the opportunity to propose provisions that are not otherwise in, or that deviate from, the Local Form. The form must also require a certification by the debtor's attorney or unrepresented debtor that there are no nonstandard provisions other than those placed in the final paragraph.
 
 ### Rule 3016. Filing of Plan and Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case ###
 
@@ -4464,9 +4612,9 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 (c) Burden of Proof. In any hearing under this rule, the objecting party has the burden of proving that the exemptions are not properly claimed. After hearing on notice, the court shall determine the issues presented by the objections.
 
-(d) Avoidance by Debtor of Transfers of Exempt Property. A proceeding by the debtor to avoid a lien or other transfer of property exempt under §522(f) of the Code shall be by motion in accordance with Rule 9014. Notwithstanding the provisions of subdivision (b), a creditor may object to a motion filed under §522(f) by challenging the validity of the exemption asserted to be impaired by the lien.
+(d) Avoidance by Debtor of Transfers of Exempt Property. A proceeding under §522(f) to avoid a lien or other transfer of property exempt under the Code shall be commenced by motion in the manner provided by Rule 9014, or by serving a chapter 12 or chapter 13 plan on the affected creditors in the manner provided by Rule 7004 for service of a summons and complaint. Notwithstanding the provisions of subdivision (b), a creditor may object to a request under §522(f) by challenging the validity of the exemption asserted to be impaired by the lien.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4501,6 +4649,10 @@ Subdivision (d) is amended to clarify that a creditor with a lien on property th
 Other changes are stylistic.
 
 *Changes Made After Publication*. The deadline for filing objections to exemptions under subdivision (b)(1) was returned to 30 days after the conclusion of the §341 meeting of creditors rather than the 60 day period proposed in the published rule. The second paragraph of the Committee Note which discussed this change was therefore deleted. Subdivisions (b)(2) and (b)(3) were amended to add the debtor and the debtor's attorney to the list of persons to whom objections to exemptions must be delivered.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+Subdivision (d) is amended to provide that a request under §522(f) to avoid a lien or other transfer of exempt property may be made by motion or by a chapter 12 or chapter 13 plan. A plan that proposes lien avoidance in accordance with this rule must be served as provided under Rule 7004 for service of a summons and complaint. Lien avoidance not governed by this rule requires an adversary proceeding.
 
 ### Rule 4004. Grant or Denial of Discharge ###
 
@@ -5074,15 +5226,17 @@ This rule is new. The 2005 amendments to §342 of the Code require that clerks g
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 5009. Closing Chapter 7 Liquidation, Chapter 12 Family Farmer's Debt Adjustment, Chapter 13 Individual's Debt Adjustment, and Chapter 15 Ancillary and Cross-Border Cases ###
+### Rule 5009. Closing Chapter 7, Chapter 12, Chapter 13, and Chapter 15 Cases; Order Declaring Lien Satisfied ###
 
-(a) Cases Under Chapters 7, 12, and 13. If in a chapter 7, chapter 12, or chapter 13 case the trustee has filed a final report and final account and has certified that the estate has been fully administered, and if within 30 days no objection has been filed by the United States trustee or a party in interest, there shall be a presumption that the estate has been fully administered.
+(a) Closing of Cases Under Chapters 7, 12, and 13. If in a chapter 7, chapter 12, or chapter 13 case the trustee has filed a final report and final account and has certified that the estate has been fully administered, and if within 30 days no objection has been filed by the United States trustee or a party in interest, there shall be a presumption that the estate has been fully administered.
 
 (b) Notice of Failure To File Rule 1007(b)(7) Statement. If an individual debtor in a chapter 7 or 13 case is required to file a statement under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under §341(a) of the Code, the clerk shall promptly notify the debtor that the case will be closed without entry of a discharge unless the required statement is filed within the applicable time limit under Rule 1007(c).
 
 (c) Cases Under Chapter 15. A foreign representative in a proceeding recognized under §1517 of the Code shall file a final report when the purpose of the representative's appearance in the court is completed. The report shall describe the nature and results of the representative's activities in the court. The foreign representative shall transmit the report to the United States trustee, and give notice of its filing to the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all parties to litigation pending in the United States in which the debtor was a party at the time of the filing of the petition, and such other entities as the court may direct. The foreign representative shall file a certificate with the court that notice has been given. If no objection has been filed by the United States trustee or a party in interest within 30 days after the certificate is filed, there shall be a presumption that the case has been fully administered.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(d) Order Declaring Lien Satisfied. In a chapter 12 or chapter 13 case, if a claim that was secured by property of the estate is subject to a lien under applicable nonbankruptcy law, the debtor may request entry of an order declaring that the secured claim has been satisfied and the lien has been released under the terms of a confirmed plan. The request shall be made by motion and shall be served on the holder of the claim and any other entity the court designates in the manner provided by Rule 7004 for service of a summons and complaint.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5107,6 +5261,12 @@ Rule 3022 governs the closing of chapter 11 cases.
 Subdivision (b) is amended to conform to the amendment of Rule 1007(b)(7). Rule 1007(b)(7) relieves an individual debtor of the obligation to file a statement of completion of a personal financial management course if the course provider notifies the court that the debtor has completed the course. The clerk's duty under subdivision (b) to notify the debtor of the possible closure of the case without discharge if the statement is not timely filed therefore applies only if the course provider has not already notified the court of the debtor's completion of the course.
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+Subdivision (d) is added to provide a procedure by which a debtor in a chapter 12 or chapter 13 case may request an order declaring a secured claim satisfied and a lien released under the terms of a confirmed plan. A debtor may need documentation for title purposes of the elimination of a second mortgage or other lien that was secured by property of the estate. Although requests for such orders are likely to be made at the time the case is being closed, the rule does not prohibit a request at another time if the lien has been released and any other requirements for entry of the order have been met.
+
+Other changes to this rule are stylistic.
 
 ### Rule 5010. Reopening Cases ###
 
@@ -5558,7 +5718,7 @@ An adversary proceeding is governed by the rules of this Part VII. The following
 
 (1) a proceeding to recover money or property, other than a proceeding to compel the debtor to deliver property to the trustee, or a proceeding under §554(b) or §725 of the Code, Rule 2017, or Rule 6002;
 
-(2) a proceeding to determine the validity, priority, or extent of a lien or other interest in property, other than a proceeding under Rule 4003(d);
+(2) a proceeding to determine the validity, priority, or extent of a lien or other interest in property, but not a proceeding under Rule 3012 or Rule 4003(d);
 
 (3) a proceeding to obtain approval under §363(h) for the sale of both the interest of the estate and of a co-owner in property;
 
@@ -5576,7 +5736,7 @@ An adversary proceeding is governed by the rules of this Part VII. The following
 
 (10) a proceeding to determine a claim or cause of action removed under 28 U.S.C. §1452.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5641,6 +5801,10 @@ This rule is amended to recognize that an adversary proceeding is not necessary 
 Paragraph (4) of the rule is amended to create an exception for objections to discharge under §§727(a)(8), (a)(9), and 1328(f) of the Code. Because objections to discharge on these grounds typically present issues more easily resolved than other objections to discharge, the more formal procedures applicable to adversary proceedings, such as commencement by a complaint, are not required. Instead, objections on these three grounds are governed by Rule 4004(d). In an appropriate case, however, Rule 9014(c) allows the court to order that additional provisions of Part VII of the rules apply to these matters.
 
 *Changes Made After Publication*. The proposed addition of subsection (b) was deleted, and the content of that provision was moved to Rule 4004(d). The exception in paragraph (4) of the rule was revised to refer to objections to discharge under §§727(a)(8), (a)(9), and 1328(f) of the Code. The redesignation of the existing rule as subdivision (a) was also deleted. The Committee Note was revised to reflect these changes.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+Subdivision (2) is amended to provide that the determination of the amount of a secured claim under Rule 3012, like a proceeding by the debtor to avoid a lien on or other transfer of exempt property under Rule 4003(d), does not require an adversary proceeding. The determination of the amount of a secured claim may be sought by motion or through a chapter 12 or chapter 13 plan in accordance with Rule 3012. An adversary proceeding continues to be required for lien avoidance not governed by Rule 4003(d).
 
 [<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_7001_1)
 
@@ -8422,9 +8586,19 @@ Whenever these rules require or authorize service or notice by publication, the 
 
 ### Rule 9009. Forms ###
 
-Except as otherwise provided in Rule 3016(d), the Official Forms prescribed by the Judicial Conference of the United States shall be observed and used with alterations as may be appropriate. Forms may be combined and their contents rearranged to permit economies in their use. The Director of the Administrative Office of the United States Courts may issue additional forms for use under the Code. The forms shall be construed to be consistent with these rules and the Code.
+(a) Official Forms. The Official Forms prescribed by the Judicial Conference of the United States shall be used without alteration, except as otherwise provided in these rules, in a particular Official Form, or in the national instructions for a particular Official Form. Official Forms may be modified to permit minor changes not affecting wording or the order of presenting information, including changes that:
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(1) expand the prescribed areas for responses in order to permit complete responses;
+
+(2) delete space not needed for responses; or
+
+(3) delete items requiring detail in a question or category if the filer indicates—either by checking "no" or "none" or by stating in words—that there is nothing to report on that question or category.
+
+(b) Director's Forms. The Director of the Administrative Office of the United States Courts may issue additional forms for use under the Code.
+
+(c) Construction. The forms shall be construed to be consistent with these rules and the Code.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -8441,6 +8615,14 @@ Rule 9029 [9009] is amended to clarify that local court rules may not prohibit o
 The rule is amended to provide that a plan proponent in a small business chapter 11 case need not use an Official Form of a plan of reorganization and disclosure statement. The use of those forms is optional, and under Rule 3016(d) the proponent may submit a plan and disclosure statement in those cases that does not conform to the Official Forms.
 
 *Changes Made After Publication*. No changes were made after publication.
+
+#### Committee Notes on Rules—2017 Amendment ####
+
+This rule is amended and reorganized into separate subdivisions.
+
+Subdivision (a) addresses permissible modifications to Official Forms. It requires that an Official Form be used without alteration, except when another rule, the Official Form itself, or the national instructions applicable to an Official Form permit alteration. The former language generally permitting alterations has been deleted, but the rule preserves the ability to make minor modifications to an Official Form that do not affect the wording or the order in which information is presented on a form. Permissible changes include those that merely expand or delete the space for responses as appropriate or delete inapplicable items so long as the filer indicates that no response is intended. For example, when more space will be necessary to completely answer a question on an Official Form without an attachment, the answer space may be expanded. Similarly, varying the width or orientation of columnar data on a form for clarity of presentation would be a permissible minor change. On the other hand, many Official Forms indicate on their face that certain changes are not appropriate. Any changes that contravene the directions on an Official Form would be prohibited by this rule.
+
+Ihe creation of subdivision (b) and subdivision (c) is stylistic.
 
 ### Rule 9010. Representation and Appearances; Powers of Attorney ###
 
