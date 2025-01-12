@@ -22,34 +22,10 @@ For purposes of subsection (a)—
 
 The credit percentage and the phaseout percentage shall be determined as follows:
 
-#### (A) In general ####
-
-In the case of taxable years beginning after 1995:
-
 |In the case of an eligible individual with:|The credit percentage is:|The<br/><br/>phaseout<br/><br/>percentage<br/><br/>is:|
 |-------------------------------------------|-------------------------|------------------------------------------------------|
 |            1 qualifying child             |           34            |                        15.98                         |
 |       2 or more qualifying children       |           40            |                        21.06                         |
-|          No qualifying children           |           7.65          |                         7.65                         |
-
-#### (B) Transitional percentages for 1995 ####
-
-In the case of taxable years beginning in 1995:
-
-|In the case of an eligible individual with:|The credit percentage is:|The<br/><br/>phaseout<br/><br/>percentage<br/><br/>is:|
-|-------------------------------------------|-------------------------|------------------------------------------------------|
-|            1 qualifying child             |           34            |                        15.98                         |
-|       2 or more qualifying children       |           36            |                        20.22                         |
-|          No qualifying children           |           7.65          |                         7.65                         |
-
-#### (C) Transitional percentages for 1994 ####
-
-In the case of a taxable year beginning in 1994:
-
-|In the case of an eligible individual with:|The credit percentage is:|The<br/><br/>phaseout<br/><br/>percentage<br/><br/>is:|
-|-------------------------------------------|-------------------------|------------------------------------------------------|
-|            1 qualifying child             |          26.3           |                        15.98                         |
-|       2 or more qualifying children       |           30            |                        17.68                         |
 |          No qualifying children           |           7.65          |                         7.65                         |
 
 #### (2) Amounts ####
@@ -66,13 +42,7 @@ Subject to subparagraph (B), the earned income amount and the phaseout amount sh
 
 #### (B) Joint returns ####
 
-In the case of a joint return filed by an eligible individual and such individual's spouse, the phaseout amount determined under subparagraph (A) shall be increased by—
-
-(i) $1,000 in the case of taxable years beginning in 2002, 2003, and 2004,
-
-(ii) $2,000 in the case of taxable years beginning in 2005, 2006, and 2007, and
-
-(iii) $3,000 in the case of taxable years beginning after 2007.
+In the case of a joint return filed by an eligible individual and such individual's spouse, the phaseout amount determined under subparagraph (A) shall be increased by $3,000.
 
 #### (3) Special rules for for <sup><a href="#32_1_target" name="32_1">1</a></sup> certain years ####
 
@@ -90,7 +60,7 @@ The dollar amount in effect under paragraph (2)(B) shall be $5,000.
 
 #### (ii) Inflation adjustment ####
 
-In the case of any taxable year beginning in 2010, the $5,000 amount in clause (i) shall be increased by an amount equal to—
+In the case of any taxable year beginning after 2009, the $5,000 amount in clause (i) shall be increased by an amount equal to—
 
 (I) such dollar amount, multiplied by
 
@@ -320,7 +290,7 @@ any refund made to an individual (or the spouse of an individual) by reason of t
 
 Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
 
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title I, §106(a), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–245, title I, §102(a), June 17, 2008, 122 Stat. 1625; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1002(a), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–226, title II, §219(a)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–312, title I, §103(c), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(c), Jan. 2, 2013, 126 Stat. 2319.)
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608; Pub. L. 109–432, div. A, title I, §106(a), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–245, title I, §102(a), June 17, 2008, 122 Stat. 1625; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–5, div. B, title I, §1002(a), Feb. 17, 2009, 123 Stat. 312; Pub. L. 111–226, title II, §219(a)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–312, title I, §103(c), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(c), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, §§206(a), 221(a)(3), Dec. 19, 2014, 128 Stat. 4027, 4037.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -351,6 +321,18 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments ####
+
+**2014**—Subsec. (b)(1). Pub. L. 113–295, §221(a)(3)(A), struck out subpar. (A) designation, heading, and introductory provisions "In the case of taxable years beginning after 1995:" before the table and struck out subpars. (B) and (C) which related to transitional percentages for 1995 and transitional percentages for 1994, respectively, and realigned margins.
+
+Subsec. (b)(2)(B). Pub. L. 113–295, §221(a)(3)(B), substituted "increased by $3,000." for "increased by—
+
+"(i) $1,000 in the case of taxable years beginning in 2002, 2003, and 2004,
+
+"(ii) $2,000 in the case of taxable years beginning in 2005, 2006, and 2007, and
+
+"(iii) $3,000 in the case of taxable years beginning after 2007."
+
+Subsec. (b)(3)(B)(ii). Pub. L. 113–295, §206(a), substituted "after 2009" for "in 2010" in introductory provisions.
 
 **2013**—Subsec. (b)(3). Pub. L. 112–240 substituted "for certain years" for "2009, 2010, 2011, and 2012" in heading and "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in introductory provisions.
 
@@ -655,6 +637,12 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 **1975**—Subsec. (a). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title II, §206(d), Dec. 19, 2014, 128 Stat. 4027, provided that: "The amendments made by this section [amending this section and sections 1397B and 2801 of this title and provisions set out as a note under section 2001 of this title] shall take effect as if included in the provisions of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 [Pub. L. 111–312] to which they relate."
+
+Amendment by section 221(a)(3) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2013 Amendment ####
 

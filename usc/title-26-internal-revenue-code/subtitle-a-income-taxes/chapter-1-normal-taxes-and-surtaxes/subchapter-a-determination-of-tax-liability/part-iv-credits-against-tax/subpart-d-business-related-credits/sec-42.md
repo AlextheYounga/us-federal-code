@@ -12,7 +12,11 @@ For purposes of section 38, the amount of the low-income housing credit determin
 
 #### (1) Determination of applicable percentage ####
 
-For purposes of this section, the term "applicable percentage" means, with respect to any building, the appropriate percentage prescribed by the Secretary for the earlier of—
+For purposes of this section—
+
+#### (A) In general ####
+
+The term "applicable percentage" means, with respect to any building, the appropriate percentage prescribed by the Secretary for the earlier of—
 
 (i) the month in which such building is placed in service, or
 
@@ -22,9 +26,9 @@ For purposes of this section, the term "applicable percentage" means, with respe
 
 (II) in the case of any building to which subsection (h)(4)(B) applies, the month in which the tax-exempt obligations are issued.
 
-A month may be elected under clause (ii) only if the election is made not later than the 5th day after the close of such month. Such an election, once made, shall be irrevocable.
+ A month may be elected under clause (ii) only if the election is made not later than the 5th day after the close of such month. Such an election, once made, shall be irrevocable.
 
-#### (B) <sup><a href="#42_1_target" name="42_1">1</a></sup> Method of prescribing percentages ####
+#### (B) Method of prescribing percentages ####
 
 The percentages prescribed by the Secretary for any month shall be percentages which will yield over a 10-year period amounts of credit under subsection (a) which have a present value equal to—
 
@@ -38,7 +42,7 @@ The present value under subparagraph (B) shall be determined—
 
 (i) as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
 
-(ii) by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) <sup><a href="#42_1_target" name="42_1">1</a></sup> and compounded annually, and
+(ii) by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) and compounded annually, and
 
 (iii) by assuming that the credit allowable under this section for any year is received on the last day of such year.
 
@@ -46,7 +50,7 @@ The present value under subparagraph (B) shall be determined—
 
 In the case of any new building—
 
-(A) which is placed in service by the taxpayer after the date of the enactment of this paragraph with respect to housing credit dollar amount allocations made before January 1, 2014, and
+(A) which is placed in service by the taxpayer after the date of the enactment of this paragraph with respect to housing credit dollar amount allocations made before January 1, 2015, and
 
 (B) which is not federally subsidized for the taxable year,
 
@@ -340,7 +344,7 @@ For purposes of paragraph (1)—
 
 The term "rehabilitation expenditures" means amounts chargeable to capital account and incurred for property (or additions or improvements to property) of a character subject to the allowance for depreciation in connection with the rehabilitation of a building.
 
-#### (B) Cost of acquisition, etc,<sup><a href="#42_2_target" name="42_2">2</a></sup> not included ####
+#### (B) Cost of acquisition, etc,<sup><a href="#42_1_target" name="42_1">1</a></sup> not included ####
 
 Such term does not include the cost of acquiring any building (or interest therein) or any amount not permitted to be taken into account under paragraph (3) or (4) of subsection (d).
 
@@ -700,7 +704,7 @@ The State housing credit ceiling applicable to any State for any calendar year s
 
 (ii) the greater of—
 
-(I) $1.75 ($1.50 for 2001) multiplied by the State population, or
+(I) $1.75 multiplied by the State population, or
 
 (II) $2,000,000,
 
@@ -818,7 +822,7 @@ For purposes of this paragraph, the term "qualified nonprofit organization" mean
 
 (i) such organization is described in paragraph (3) or (4) of section 501(c) and is exempt from tax under section 501(a),
 
-(ii) such organization is determined by the State housing credit agency not to be affiliated with or controlled by a for-profit organization; <sup><a href="#42_3_target" name="42_3">3</a></sup> and
+(ii) such organization is determined by the State housing credit agency not to be affiliated with or controlled by a for-profit organization; <sup><a href="#42_2_target" name="42_2">2</a></sup> and
 
 (iii) 1 of the exempt purposes of such organization includes the fostering of low-income housing.
 
@@ -1012,7 +1016,7 @@ The term "compliance period" means, with respect to any building, the period of 
 
 #### (A) In general ####
 
-Except as otherwise provided in this paragraph, for purposes of subsection (b)(1), a new building shall be treated as federally subsidized for any taxable year if, at any time during such taxable year or any prior taxable year, there is or was outstanding any obligation the interest on which is exempt from tax under section 103 the proceeds of which <sup><a href="#42_4_target" name="42_4">4</a></sup> are or were used (directly or indirectly) with respect to such building or the operation thereof.
+Except as otherwise provided in this paragraph, for purposes of subsection (b)(1), a new building shall be treated as federally subsidized for any taxable year if, at any time during such taxable year or any prior taxable year, there is or was outstanding any obligation the interest on which is exempt from tax under section 103 the proceeds of which <sup><a href="#42_3_target" name="42_3">3</a></sup> are or were used (directly or indirectly) with respect to such building or the operation thereof.
 
 #### (B) Election to reduce eligible basis by proceeds of obligations ####
 
@@ -1080,7 +1084,7 @@ A unit shall not fail to be treated as a low-income unit merely because it is oc
 
 (ii) entirely by full-time students if such students are—
 
-(I) single parents and their children and such parents are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual and such children are not dependents (as so defined) of another individual other than a parent of such children, or.<sup><a href="#42_5_target" name="42_5">5</a></sup>
+(I) single parents and their children and such parents are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual and such children are not dependents (as so defined) of another individual other than a parent of such children, or.<sup><a href="#42_4_target" name="42_4">4</a></sup>
 
 (II) married and file a joint return.
 
@@ -1268,7 +1272,7 @@ The requirements of this subparagraph are met with respect to any financing if s
 
 (i) a security interest in such building is not permitted by a Federal agency holding or insuring the mortgage secured by such building, and
 
-(ii) the proceeds from the financing (if any) are applied to acquire or improve such building..<sup><a href="#42_6_target" name="42_6">6</a></sup>
+(ii) the proceeds from the financing (if any) are applied to acquire or improve such building..<sup><a href="#42_5_target" name="42_5">5</a></sup>
 
 #### (C) Portion of building attributable to financing ####
 
@@ -1468,7 +1472,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) [title I, §§131(a)–(c), 132–136], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) [title I, §§131(a)–(c), 132–136], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -1505,6 +1509,12 @@ A prior section 42, added Pub. L. 94–12, title II, §203(a), Mar. 29, 1975, 89
 Another prior section 42 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2014**—Subsec. (b)(1). Pub. L. 113–295, §212(a), substituted "For purposes of this section—" for "For purposes of this section, the term", inserted subpar. (A) designation and heading, and inserted "The term" at beginning of subpar. (A).
+
+Subsec. (b)(2)(A). Pub. L. 113–295, §112(a), substituted "January 1, 2015" for "January 1, 2014".
+
+Subsec. (h)(3)(C)(ii)(I). Pub. L. 113–295, §221(a)(7), struck out "($1.50 for 2001)" after "$1.75".
 
 **2013**—Subsec. (b)(2)(A). Pub. L. 112–240 substituted "with respect to housing credit dollar amount allocations made before January 1, 2014" for "and before December 31, 2013".
 
@@ -1964,6 +1974,14 @@ Subsec. (n)(1). Pub. L. 100–647, §1002(l)(25), inserted ", and, except for a
 
 **1986**—Subsec. (k)(1). Pub. L. 99–509 substituted "subparagraphs (D)(ii)(II) and (D)(iv)(I)" for "subparagraph (D)(iv)(I)".
 
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §112(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section [amending this section] shall take effect on January 1, 2014."
+
+Pub. L. 113–295, div. A, title II, §212(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section [amending this section and sections 121 and 168 of this title] shall take effect as if included in the provisions of the Housing Assistance Tax Act of 2008 [Pub. L. 110–289, div. C] to which they relate."
+
+Amendment by section 221(a)(7) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2013 Amendment ####
 
 Pub. L. 112–240, title III, §302(b), Jan. 2, 2013, 126 Stat. 2329, provided that: "The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Jan. 2, 2013]."
@@ -2340,14 +2358,12 @@ such building shall be treated as described in section 42(b)(1)(B) of such Code 
 
 The number of units to which the preceding sentence applies shall not exceed 150."
 
-[<sup>1</sup> So in original. No subpar. (A) has been enacted.](#42_1)
+[<sup>1</sup> So in original. Probably should be "etc.,".](#42_1)
 
-[<sup>2</sup> So in original. Probably should be "etc.,".](#42_2)
+[<sup>2</sup> So in original. The semicolon probably should be a comma.](#42_2)
 
-[<sup>3</sup> So in original. The semicolon probably should be a comma.](#42_3)
+[<sup>3</sup> So in original. See 2008 Amendment note below.](#42_3)
 
-[<sup>4</sup> So in original. See 2008 Amendment note below.](#42_4)
+[<sup>4</sup> So in original. The period probably should not appear.](#42_4)
 
-[<sup>5</sup> So in original. The period probably should not appear.](#42_5)
-
-[<sup>6</sup> So in original.](#42_6)
+[<sup>5</sup> So in original.](#42_5)

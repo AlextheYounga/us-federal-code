@@ -100,13 +100,11 @@ In determining the amount allowable as a deduction for interest, subsections (d)
 
 (i) in lieu of the exception under section 163(h)(2)(D), the term "personal interest" shall not include any qualified housing interest (as defined in subsection (e)),
 
-(ii) sections 163(d)(6) and 163(h)(5) (relating to phase-ins) shall not apply,
+(ii) interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section 163(d),
 
-(iii) interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section 163(d),
+(iii) in lieu of the exception under section 163(d)(3)(B)(i), the term "investment interest" shall not include any qualified housing interest (as defined in subsection (e)), and
 
-(iv) in lieu of the exception under section 163(d)(3)(B)(i), the term "investment interest" shall not include any qualified housing interest (as defined in subsection (e)), and
-
-(v) the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
+(iv) the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
 
 #### (D) Treatment of certain recoveries ####
 
@@ -114,7 +112,7 @@ No recovery of any tax to which subparagraph (A)(ii) applied shall be included i
 
 #### (E) Standard deduction and deduction for personal exemptions not allowed ####
 
-The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) of section 63(c)(1).
+The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) <sup><a href="#56_1_target" name="56_1">1</a></sup> of section 63(c)(1).
 
 #### (F) Section 68 not applicable ####
 
@@ -192,7 +190,7 @@ For purposes of subsection (a)(4), the term "alternative tax net operating loss 
 
 (ii) the lesser of—
 
-(I) the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H), or
+(I) the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H),<sup><a href="#56_1_target" name="56_1">1</a></sup> or
 
 (II) alternative minimum taxable income determined without regard to such deduction and the deduction under section 199 reduced by the amount determined under clause (i), and
 
@@ -217,10 +215,6 @@ An item of tax preference shall be taken into account under clause (ii) only to 
 #### (B) Pre-1987 years ####
 
 In the case of loss years beginning before January 1, 1987, the amount of the net operating loss which may be carried over to taxable years beginning after December 31, 1986, for purposes of paragraph (2), shall be equal to the amount which may be carried from the loss year to the first taxable year of the taxpayer beginning after December 31, 1986.
-
-#### (3) Net operating loss attributable to federally declared disasters ####
-
-In the case of a taxpayer which has a qualified disaster loss (as defined by section 172(b)(1)(J)) for the taxable year, paragraph (1) shall be applied by increasing the amount determined under subparagraph (A)(ii)(I) thereof by the sum of the carrybacks and carryovers of such loss.
 
 #### (e) Qualified housing interest ####
 
@@ -456,7 +450,7 @@ The allowance for depletion with respect to any property placed in service in a 
 
 #### (ii) Exception for independent oil and gas producers and royalty owners ####
 
-In the case of any taxable year beginning after December 31, 1992, clause (i) (and subparagraph (C)(i)) shall not apply to any deduction for depletion computed in accordance with section 613A(c).
+Clause (i) (and subparagraph (C)(i)) shall not apply to any deduction for depletion computed in accordance with section 613A(c).
 
 #### (G) Treatment of certain ownership changes ####
 
@@ -492,13 +486,17 @@ The treatment of any item for purposes of computing alternative minimum taxable 
 
 This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, or REMIC.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) [title III, §314(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2322; amended Pub. L. 100–203, title X, §§10202(d), 10243(a), Dec. 22, 1987, 101 Stat. 1330–392, 1330–423; Pub. L. 100–647, title I, §§1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§2001(c)(3)(A), 2004(b)(2), (3), title V, §5041(b)(4), title VI, §§6079(a)(1), 6303(a), Nov. 10, 1988, 102 Stat. 3355, 3428–3432, 3594, 3599, 3674, 3709, 3755; Pub. L. 101–239, title VII, §§7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, 103 Stat. 2335, 2371–2374, 2408, 2419; Pub. L. 101–508, title XI, §§11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, 104 Stat. 1388–406, 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; Pub. L. 102–486, title XIX, §1915(a)(2), (b)(2), (c)(1), (2), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13115(a), 13171(b), 13227(c), Aug. 10, 1993, 107 Stat. 432, 454, 493; Pub. L. 104–188, title I, §§1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, 110 Stat. 1832, 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; Pub. L. 105–34, title III, §312(d)(1), title IV, §§402, 403(a), title XII, §1212(a), Aug. 5, 1997, 111 Stat. 839, 844, 1000; Pub. L. 105–277, div. J, title IV, §4006(c)(2), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 106–519, §4(1), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 106–554, §1(a)(7) [title III, §314(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–147, title I, §102(c)(1), title IV, §417(5), Mar. 9, 2002, 116 Stat. 26, 56; Pub. L. 108–173, title XII, §1202(b), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–311, title IV, §403(b)(4), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 108–357, title I, §§101(b)(4), 102(b), title II, §248(b)(1), title IV, §422(b), title VIII, §835(b)(1), Oct. 22, 2004, 118 Stat. 1423, 1428, 1457, 1519, 1593; Pub. L. 109–58, title XIII, §1326(d), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–135, title IV, §403(a)(14), (r)(2), Dec. 21, 2005, 119 Stat. 2619, 2628; Pub. L. 109–304, §17(e)(1), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–172, §11(g)(1), (2), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 110–289, div. C, title I, §3022(a)(2), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. C, title VII, §§706(b)(3), 708(c), Oct. 3, 2008, 122 Stat. 3922, 3925; Pub. L. 111–5, div. B, title I, §§1008(d), 1503(b), Feb. 17, 2009, 123 Stat. 318, 354; Pub. L. 111–92, §13(b), Nov. 6, 2009, 123 Stat. 2993; Pub. L. 111–148, title IX, §9013(c), Mar. 23, 2010, 124 Stat. 868; Pub. L. 113–295, div. A, title II, §§215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, 128 Stat. 4034, 4038, 4040, 4042.)
 
 #### References in Text ####
 
 Section 201 of the Tax Reform Act of 1986, referred to in subsecs. (a)(1)(C) and (g)(4)(A)(ii), is section 201 of Pub. L. 99–514, which amended sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title.
 
 Sections 203, 204, and 251(d) of such Act, referred to in subsec. (a)(1)(C), are sections 203, 204, and 251(d) of the Tax Reform Act of 1986, Pub. L. 99–514. Sections 203 and 204 are set out as notes under section 168 of this title. Section 251(d) is set out as a note under section 46 of this title.
+
+Subpars. (D) and (E) of section 63(c)(1), referred to in subsec. (b)(1)(E), were repealed by Pub. L. 113–295, div. A, title II, §221(a)(13)(A), Dec. 19, 2014, 128 Stat. 4039.
+
+Subpar. (H) of section 172(b)(1), referred to subsec. (d)(1)(A)(ii)(I), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(30)(A)(i), Dec. 19, 2014, 128 Stat. 4041.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (g)(4)(A)(iii), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
@@ -509,6 +507,14 @@ The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in
 A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments ####
+
+**2014**—Subsec. (b)(1)(C)(ii) to (v). Pub. L. 113–295, §221(a)(25)(B), redesignated cls. (iii) to (v) as (ii) to (iv), respectively, and struck out former cl. (ii) which read as follows: "sections 163(d)(6) and 163(h)(5) (relating to phase-ins) shall not apply,".
+
+Subsec. (d)(3). Pub. L. 113–295, §221(a)(30)(C), struck out par. (3). Text read as follows: "In the case of a taxpayer which has a qualified disaster loss (as defined by section 172(b)(1)(J)) for the taxable year, paragraph (1) shall be applied by increasing the amount determined under subparagraph (A)(ii)(I) thereof by the sum of the carrybacks and carryovers of such loss."
+
+Subsec. (g)(4)(C)(iv). Pub. L. 113–295, §215(b), substituted "an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products" for "a cooperative described in section 927(a)(4)". See 2007 Amendment note below.
+
+Subsec. (g)(4)(F)(ii). Pub. L. 113–295, §221(a)(9), substituted "Clause (i)" for "In the case of any taxable year beginning after December 31, 1992, clause (i)".
 
 **2010**—Subsec. (b)(1)(B). Pub. L. 111–148 substituted "without regard to subsection (f) of such section" for "by substituting '10 percent' for '7.5 percent' ".
 
@@ -526,7 +532,7 @@ Subsec. (g)(4)(B)(iii). Pub. L. 110–289 added cl. (iii).
 
 **2007**—Subsec. (g)(4)(C)(ii)(I). Pub. L. 110–172, §11(g)(1), substituted "921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)" for "921".
 
-Subsec. (g)(4)(C)(iv). Pub. L. 110–172, §11(g)(2), which directed the amendment of section 54(g)(4)(C)(iv) of this title by substituting "an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products" for "a cooperative described in section 927(a)(4)", was executed to this section, to reflect the probable intent of Congress.
+Subsec. (g)(4)(C)(iv). Pub. L. 110–172, §11(g)(2), which purported to amend subsec. (g)(4)(C)(iv) of this section, but directed the amendment of section 54(g)(4)(C)(iv) of this title, by substituting "an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products" for "a cooperative described in section 927(a)(4)", was not executed in light of the identical amendment made by Pub. L. 113–295, §215(b), effective as if included in Pub. L. 110–172.
 
 **2006**—Subsec. (c)(2). Pub. L. 109–304, in introductory provisions, substituted "chapter 535 of title 46, United States Code" for "section 607 of the Merchant Marine Act, 1936 (46 U.S.C. 1177)", and, in subpars. (A) and (B), substituted "such chapter 535" for "such section 607".
 
@@ -778,13 +784,19 @@ income from such disposition shall be determined without regard to the installme
 
 Subsec. (f)(2)(H), (I). Pub. L. 100–203, §10243(a), added subpar. (H) and redesignated former subpar. (H) as (I).
 
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title II, §215(c), Dec. 19, 2014, 128 Stat. 4034, provided that: "The amendments made by this section [amending this section and section 911 of this title] shall take effect as if included in the provisions of the Tax Technical Corrections Act of 2007 [Pub. L. 110–172] to which they relate."
+
+Amendment by section 221(a)(9), (25)(B), (30)(C) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2010 Amendment ####
 
 Pub. L. 111–148, title IX, §9013(d), Mar. 23, 2010, 124 Stat. 868, provided that: "The amendments made by this section [amending this section and section 213 of this title] shall apply to taxable years beginning after December 31, 2012."
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–92, §13(e), (f), Nov. 6, 2009, 123 Stat. 2994, 2995, provided that:
+Pub. L. 111–92, §13(e), (f), Nov. 6, 2009, 123 Stat. 2994, 2995, as amended by Pub. L. 113–295, div. A, title II, §220(bb), Dec. 19, 2014, 128 Stat. 4037, provided that:
 
 "(e) Effective Dates.—
 
@@ -792,7 +804,7 @@ Pub. L. 111–92, §13(e), (f), Nov. 6, 2009, 123 Stat. 2994, 2995, provided tha
 
 "(2) Alternative tax net operating loss deduction.—The amendment made by subsection (b) [amending this section] shall apply to taxable years ending after December 31, 2002.
 
-"(3) Loss from operations of life insurance companies.—The amendment made by subsection (d) [probably means subsec. (c), amending section 810 of this title] shall apply to losses from operations arising in taxable years ending after December 31, 2007.
+"(3) Loss from operations of life insurance companies.—The amendment made by subsection (c) [amending section 810 of this title] shall apply to losses from operations arising in taxable years ending after December 31, 2007.
 
 "(4) Transitional rule.—In the case of any net operating loss (or, in the case of a life insurance company, any loss from operations) for a taxable year ending before the date of the enactment of this Act [Nov. 6, 2009]—
 
@@ -1048,7 +1060,7 @@ For provisions that nothing in amendment by sections 11801 and 11812 of Pub. L. 
 
 #### Coordination With Heartland Disaster Relief ####
 
-Pub. L. 110–343, div. C, title VII, §712, Oct. 3, 2008, 122 Stat. 3929, provided that: "The amendments made by this subtitle [subtitle B (§§706–712) of title VII of div. C of Pub. L. 110–343, enacting section 198A of this title and amending this section and sections 63, 139, 143, 165, 168, 172, 179, 1033, and 7508A of this title], other than the amendments made by sections 706(a)(2) [amending sections 139, 165, 172, 1033, and 7508A of this title], 710 [amending section 168 of this title], and 711 [amending section 179 of this title], shall not apply to any disaster described in section 702(c)(1)(A) [section 702(c)(1) has no subpar. (A)], or to any expenditure or loss resulting from such disaster."
+Pub. L. 110–343, div. C, title VII, §712, Oct. 3, 2008, 122 Stat. 3929, as amended by Pub. L. 113–295, div. A, title II, §211(c)(3), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this subtitle [subtitle B (§§706–712) of title VII of div. C of Pub. L. 110–343, enacting section 198A of this title and amending this section and sections 63, 139, 143, 165, 168, 172, 179, 1033, and 7508A of this title], other than the amendments made by sections 706(a)(2) [amending sections 139, 165, 172, 1033, and 7508A of this title], 710 [amending section 168 of this title], and 711 [amending section 179 of this title], shall not apply to any disaster described in section 702(b)(1)(A) [122 Stat. 3912], or to any expenditure or loss resulting from such disaster."
 
 #### Application of Subsection (g)(1) and (3) to Taxable Years Beginning in 1991 and 1992 ####
 
@@ -1065,3 +1077,5 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 [enacting t
 #### Study of Book and Earnings and Profits Adjustments ####
 
 Pub. L. 99–514, title VII, §702, Oct. 22, 1986, 100 Stat. 2345, required Secretary of the Treasury or his delegate to conduct a study of operation and effect of provisions of sections 56(f) and 56(g) of the Internal Revenue Code of 1986, prior to repeal by Pub. L. 101–508, title XI, §11832(4), Nov. 5, 1990, 104 Stat. 1388–559.
+
+[<sup>1</sup> See References in Text note below.](#56_1)

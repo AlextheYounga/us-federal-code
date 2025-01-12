@@ -86,9 +86,9 @@ In the case of any taxable year beginning in a calendar year after 2001, the $10
 
 Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
 
-#### (4) Special rule for for <sup><a href="#24_1_target" name="24_1">1</a></sup> certain years ####
+#### (4) Special rule for certain years ####
 
-Notwithstanding paragraph (3), in the case of any taxable year beginning after 2008 and before 2018, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000.
+In the case of any taxable year beginning after 2008 and before 2018, paragraph (1)(B)(i) shall be applied by substituting "$3,000" for "$10,000".
 
 #### (e) Identification requirement ####
 
@@ -98,7 +98,7 @@ No credit shall be allowed under this section to a taxpayer with respect to any 
 
 Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -109,6 +109,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments ####
+
+**2014**—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. Prior to amendment, text read as follows: "Notwithstanding paragraph (3), in the case of any taxable year beginning after 2008 and before 2018, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000."
 
 **2013**—Subsec. (b)(3). Pub. L. 112–240, §104(c)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: "In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
 
@@ -254,6 +256,10 @@ Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text 
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
 
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title II, §209(k), Dec. 19, 2014, 128 Stat. 4031, provided that: "The amendments made by this section [amending this section, sections 25A, 30, 30D, 35, 38, 45Q, 48, 48C, 164, 853A, and 1016 of this title, and provisions set out as notes under sections 6428 and 6432 of this title] shall take effect as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 [Pub. L. 111–5, div. B, title I] to which they relate."
+
 #### Effective Date of 2013 Amendment ####
 
 Pub. L. 112–240, title I, §103(e), Jan. 2, 2013, 126 Stat. 2320, provided that:
@@ -373,5 +379,3 @@ Pub. L. 105–34, title I, §101(e), Aug. 5, 1997, 111 Stat. 799, provided that:
 #### Refunds Disregarded in Administration of Federal and Federally Assisted Programs ####
 
 Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: "Any payment considered to have been made to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds."
-
-[<sup>1</sup> So in original.](#24_1)

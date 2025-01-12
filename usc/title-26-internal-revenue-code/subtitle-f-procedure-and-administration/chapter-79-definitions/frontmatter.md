@@ -14,7 +14,11 @@ Sec.
 
 7704. Certain publicly traded partnerships treated as corporations.
 
+7705. Certified professional employer organizations.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. B, title II, §206(d)(2), Dec. 19, 2014, 128 Stat. 4071, added item 7705.
 
 **1996**—Pub. L. 104–191, title III, §321(e), Aug. 21, 1996, 110 Stat. 2059, added item 7702B.
 

@@ -164,13 +164,13 @@ The amounts described in this subparagraph are—
 
 (i) each of the dollar amounts contained in subsection (b)(1)(A)(i),
 
-(ii) each of the dollar amounts contained in paragraph (1), and
+(ii) each of the dollar amounts contained in subparagraphs (A), (B), and (D) of paragraph (1), and
 
 (iii) each of the dollar amounts in subparagraphs (A) and (B) of paragraph (3).
 
 #### (C) Rounding ####
 
-Any increase determined under subparagraph (A) shall be rounded to the nearest multiple of $100.
+Any increased amount determined under subparagraph (A) shall be rounded to the nearest multiple of $100.
 
 #### (e) Exemption for small corporations ####
 
@@ -228,7 +228,7 @@ For purposes of paragraph (2), the change date is the first day of the first tax
 
 In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(6)(B) shall apply for purposes of the preceding sentence.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -243,6 +243,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments ####
+
+**2014**—Subsec. (d)(4)(B)(ii). Pub. L. 113–295, §202(c)(1), inserted "subparagraphs (A), (B), and (D) of" before "paragraph (1)".
+
+Subsec. (d)(4)(C). Pub. L. 113–295, §202(c)(2), substituted "increased amount" for "increase".
 
 **2013**—Subsec. (b)(1)(A)(iii). Pub. L. 112–240, §104(b)(2)(A), substituted "by substituting 50 percent of the dollar amount otherwise applicable under subclause (I) and subclause (II) thereof." for "by substituting '$87,500' for '$175,000' each place it appears."
 
@@ -412,6 +416,10 @@ Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end "In the case of
 
 **1986**—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted "or section 42(j)".
 
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title II, §202(f), Dec. 19, 2014, 128 Stat. 4024, provided that: "The amendments made by this section [amending this section and sections 168, 642, 911, and 6431 of this title] shall take effect as if included in the provision of the American Taxpayer Relief Act of 2012 [Pub. L. 112–240] to which they relate."
+
 #### Effective Date of 2013 Amendment ####
 
 Amendment by section 102(b)(2), (c)(2) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 102(d)(1) of Pub. L. 112–240, set out as a note under section 1 of this title.
@@ -508,7 +516,7 @@ Pub. L. 103–66, title XIII, §13203(d), Aug. 10, 1993, 107 Stat. 462, provided
 
 #### Effective Date of 1992 Amendment ####
 
-Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
+Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as a note under section 53 of this title.
 
 Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
 

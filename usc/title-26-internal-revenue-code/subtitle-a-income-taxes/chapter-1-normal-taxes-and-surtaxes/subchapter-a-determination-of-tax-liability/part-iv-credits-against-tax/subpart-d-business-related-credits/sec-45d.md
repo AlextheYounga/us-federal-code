@@ -192,7 +192,7 @@ There is a new markets tax credit limitation for each calendar year. Such limita
 
 (F) $5,000,000,000 for 2009 <sup><a href="#45D_1_target" name="45D_1">1</a></sup>
 
-(G) $3,500,000,000 for 2010, 2011, 2012, and 2013.
+(G) $3,500,000,000 for 2010, 2011, 2012, 2013, and 2014.
 
 #### (2) Allocation of limitation ####
 
@@ -204,7 +204,7 @@ The limitation under paragraph (1) shall be allocated by the Secretary among qua
 
 #### (3) Carryover of unused limitation ####
 
-If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2018.
+If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2019.
 
 #### (g) Recapture of credit in certain cases ####
 
@@ -262,9 +262,13 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) [title I, §121(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329.)
+(Added Pub. L. 106–554, §1(a)(7) [title I, §121(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014.)
 
 #### Amendments ####
+
+**2014**—Subsec. (f)(1)(G). Pub. L. 113–295, §115(a), substituted "2013, and 2014" for "and 2013".
+
+Subsec. (f)(3). Pub. L. 113–295, §115(b), substituted "2019" for "2018".
 
 **2013**—Subsec. (f)(1)(G). Pub. L. 112–240, §305(a), substituted "2010, 2011, 2012, and 2013" for "2010 and 2011".
 
@@ -289,6 +293,10 @@ Subsec. (i)(6). Pub. L. 109–432, §102(b), added par. (6).
 Subsec. (e)(4). Pub. L. 108–357, §221(b), added par. (4).
 
 Subsec. (e)(5). Pub. L. 108–357, §223(a), added par. (5).
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §115(c), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendments made by this section [amending this section] shall apply to calendar years beginning after December 31, 2013."
 
 #### Effective Date of 2013 Amendment ####
 

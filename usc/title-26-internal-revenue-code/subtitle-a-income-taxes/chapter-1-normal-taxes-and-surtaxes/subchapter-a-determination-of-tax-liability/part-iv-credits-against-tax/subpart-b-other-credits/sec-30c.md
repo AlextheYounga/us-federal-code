@@ -48,9 +48,9 @@ The credit allowed under subsection (a) (after the application of paragraph (1))
 
 For purposes of this section—
 
-#### (1) Basis reduction ####
+#### (1) Reduction in basis ####
 
-The basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).
+For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (d)).
 
 #### (2) Property used by tax-exempt entity ####
 
@@ -82,21 +82,35 @@ In the case of property placed in service in taxable years beginning after Decem
 
 (B) in the case of any such property which relates to hydrogen, subsection (b)(1) shall be applied by substituting "$200,000" for "$30,000".
 
+#### (7) Reference ####
+
+For purposes of this section, any reference to section 179A shall be treated as a reference to such section as in effect immediately before its repeal.
+
 #### (f) Regulations ####
 
 The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
 
 #### (g) Termination ####
 
-This section shall not apply to any property placed in service—
+This section shall not apply to any property placed in service after December 31, 2014.
 
-(1) in the case of property relating to hydrogen, after December 31, 2014, and
+(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332; Pub. L. 111–312, title VII, §711(a), Dec. 17, 2010, 124 Stat. 3315; Pub. L. 112–240, title IV, §402(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §161(a), title II, §§218(b), 221(a)(34)(B), Dec. 19, 2014, 128 Stat. 4023, 4035, 4042.)
 
-(2) in the case of any other property, after December 31, 2013.
+#### References in Text ####
 
-(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332; Pub. L. 111–312, title VII, §711(a), Dec. 17, 2010, 124 Stat. 3315; Pub. L. 112–240, title IV, §402(a), Jan. 2, 2013, 126 Stat. 2337.)
+Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(7), means section 179A of this title as in effect before it was repealed by Pub. L. 113–295, div. A, title II, §221(a)(34)(A), Dec, 19, 2014, 128 Stat. 4042, effective Dec. 19, 2014.
 
 #### Amendments ####
+
+**2014**—Subsec. (e)(1). Pub. L. 113–295, §218(b), amended par. (1) generally. Prior to amendment, text read as follows: "The basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a)."
+
+Subsec. (e)(7). Pub. L. 113–295, §221(a)(34)(B), added par. (7).
+
+Subsec. (g). Pub. L. 113–295, §161(a), substituted "placed in service after December 31, 2014." for "placed in service—
+
+"(1) in the case of property relating to hydrogen, after December 31, 2014, and
+
+"(2) in the case of any other property, after December 31, 2013."
 
 **2013**—Subsec. (g)(2). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011.".
 
@@ -127,6 +141,14 @@ Subsec. (c). Pub. L. 110–172, §6(b)(2), reenacted heading without change and 
 **2005**—Subsec. (d)(2)(A). Pub. L. 109–135, §412(d), substituted "regular tax liability (as defined in section 26(b))" for "regular tax".
 
 Subsec. (e)(2). Pub. L. 109–135, §402(k), inserted at end "For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §161(b), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2013."
+
+Amendment by section 218(b) of Pub. L. 113–295 effective as if included in the provision of the Energy Tax Incentives Act of 2005, title XIII of Pub. L. 109–58, to which such amendment relates, see section 218(c) of Pub. L. 113–295, set out as a note under section 30B of this title.
+
+Amendment by section 221(a)(34)(B) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2013 Amendment ####
 

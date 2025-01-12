@@ -8,7 +8,7 @@ Sec.
 
 243. Dividends received by corporations.
 
-244. Dividends received on certain preferred stock.
+[244. Repealed.]
 
 245. Dividends received from certain foreign corporations.
 
@@ -16,7 +16,7 @@ Sec.
 
 246A. Dividends received deduction reduced where portfolio stock is debt financed.
 
-247. Dividends paid on certain preferred stock of public utilities.
+[247. Repealed.]
 
 248. Organizational expenditures.
 
@@ -25,6 +25,8 @@ Sec.
 [250. Repealed.]
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(41)(A), Dec. 19, 2014, 128 Stat. 4043, struck out item 244 "Dividends received on certain preferred stock" and item 247 "Dividends paid on certain preferred stock of public utilities".
 
 **1990**—Pub. L. 101–508, title XI, §11801(b)(4), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 250 "Certain payments to the National Railroad Passenger Corporation".
 

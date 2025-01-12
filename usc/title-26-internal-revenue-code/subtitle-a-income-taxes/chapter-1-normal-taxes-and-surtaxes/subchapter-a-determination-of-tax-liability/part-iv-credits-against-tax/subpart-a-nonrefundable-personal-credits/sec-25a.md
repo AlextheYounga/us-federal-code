@@ -212,7 +212,7 @@ Subparagraphs (A) and (C) of subsection (b)(2) shall be applied by substituting 
 
 #### (3) Qualified tuition and related expenses to include required course materials ####
 
-Subsection (f)(1)(A) shall be applied by substituting "tuition, fees, and course materials" for "tuition and fees".
+For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied by substituting "tuition, fees, and course materials" for "tuition and fees".
 
 #### (4) Increase in AGI limits for Hope Scholarship Credit ####
 
@@ -238,7 +238,7 @@ In the case of a taxpayer with respect to whom section 702(a)(1)(B) of the Heart
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -253,6 +253,8 @@ The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 8
 Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred to in subsec. (i)(6), is section 702(a)(1)(B) of Pub. L. 110–343, div. C, title VII, Oct. 3, 2008, 122 Stat. 3912, which is not classified to the Code.
 
 #### Amendments ####
+
+**2014**—Subsec. (i)(3). Pub. L. 113–295 substituted "For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied" for "Subsection (f)(1)(A) shall be applied".
 
 **2013**—Subsec. (i). Pub. L. 112–240, §103(a)(1), substituted "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in introductory provisions.
 
@@ -269,6 +271,10 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
 "(1) In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
 "(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 #### Effective Date of 2013 Amendment ####
 

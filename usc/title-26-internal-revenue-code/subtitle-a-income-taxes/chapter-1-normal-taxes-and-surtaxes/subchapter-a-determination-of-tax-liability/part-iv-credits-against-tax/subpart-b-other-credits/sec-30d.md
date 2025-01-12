@@ -92,15 +92,15 @@ Rules similar to the rules of section 30B(f)(4) shall apply for purposes of this
 
 #### (1) Basis reduction ####
 
-For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed.
+For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
 
 #### (2) No double benefit ####
 
-The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle.
+The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
 
 #### (3) Property used by tax-exempt entity ####
 
-In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)).
+In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
 
 #### (4) Property used outside United States not qualified ####
 
@@ -154,13 +154,17 @@ The term "qualified 2- or 3-wheeled plug-in electric vehicle" means any vehicle 
 
 (E) is acquired after December 31, 2011, and before January 1, 2014.
 
-(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338.)
+(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338; Pub. L. 113–295, div. A, title II, §209(e), Dec. 19, 2014, 128 Stat. 4028.)
 
 #### References in Text ####
 
 The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to section 7543(b) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2014**—Subsec. (f)(1), (2). Pub. L. 113–295, §209(e)(1)(A), (B), inserted "(determined without regard to subsection (c))" before period at end.
+
+Subsec. (f)(3). Pub. L. 113–295, §209(e)(2), inserted at end "For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
 
 **2013**—Subsec. (c)(2). Pub. L. 112–240, §104(c)(2)(I), amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
@@ -173,6 +177,10 @@ Subsec. (g). Pub. L. 112–240, §403(a), added subsec. (g).
 **2010**—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted "section 25D" for "sections 23 and 25D". See Effective and Termination Dates of 2010 Amendment note below.
 
 **2009**—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining "applicable amount" and "new qualified plug-in electric drive motor vehicle" and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 #### Effective Date of 2013 Amendment ####
 

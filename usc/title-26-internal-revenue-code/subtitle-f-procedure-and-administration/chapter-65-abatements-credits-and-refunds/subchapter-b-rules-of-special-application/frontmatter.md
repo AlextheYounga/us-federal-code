@@ -34,9 +34,7 @@ Sec.
 
 6427. Fuels not used for taxable purposes.
 
-6428. 2008 recovery rebates for individuals.
-
-6429. Advance payment of portion of increased child credit for 2003.
+[6428, 6429. Repealed.]
 
 6430. Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate.
 
@@ -45,6 +43,8 @@ Sec.
 6432. COBRA premium assistance.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(112)(A), (113), Dec. 19, 2014, 128 Stat. 4054, struck out item 6428 "2008 recovery rebates for individuals" and item 6429 "Advance payment of portion of increased child credit for 2003".
 
 **2009**—Pub. L. 111–5, div. B, title I, §1531(c)(7), title III, §3001(a)(12)(C), Feb. 17, 2009, 123 Stat. 360, 463, added items 6431 and 6432.
 

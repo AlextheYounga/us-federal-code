@@ -40,7 +40,7 @@ Sec.
 
 119. Meals or lodging furnished for convenience of employer. 1
 
-120. Amounts received under qualified group legal services plans.
+[120. Repealed.]
 
 121. Exclusion of gain from sale of principal residence.
 
@@ -94,7 +94,9 @@ Sec.
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–168, §2(b), Sept. 26, 2014, 128 Stat. 1884, added item 139E.
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(19)(A), Dec. 19, 2014, 128 Stat. 4039, which directed amendment of part III by striking out item 120 in table of sections for "such subpart", was executed by striking out item 120 "Amounts received under qualified group legal services plans" in table of sections for this part to reflect the probable intent of Congress.
+
+Pub. L. 113–168, §2(b), Sept. 26, 2014, 128 Stat. 1884, added item 139E.
 
 **2011**—Pub. L. 112–10, div. B, title VIII, §1858(b)(2)(B), Apr. 15, 2011, 125 Stat. 168, struck out item 139D "Free choice vouchers".
 

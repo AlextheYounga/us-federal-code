@@ -6,7 +6,7 @@ Sec.
 
 [28, 29. Renumbered.]
 
-30. Certain plug-in electric vehicles.
+[30. Repealed.]
 
 30A. Puerto Rico economic activity credit.
 
@@ -17,6 +17,8 @@ Sec.
 30D. New qualified plug-in electric drive motor vehicles.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(2)(A), Dec. 19, 2014, 128 Stat. 4037, struck out item 30 "Certain plug-in electric vehicles".
 
 **2009**—Pub. L. 111–5, div. B, title I, §1142(b)(8), Feb. 17, 2009, 123 Stat. 331, substituted "Certain plug-in electric vehicles" for "Credit for qualified electric vehicles" in item 30.
 

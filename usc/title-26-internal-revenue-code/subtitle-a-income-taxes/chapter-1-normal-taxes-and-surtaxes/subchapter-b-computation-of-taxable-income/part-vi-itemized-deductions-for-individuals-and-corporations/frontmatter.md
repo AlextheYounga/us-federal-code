@@ -40,7 +40,7 @@ Sec.
 
 179. Election to expense certain depreciable business assets.
 
-179A. Deduction for clean-fuel vehicles and certain refueling property.
+[179A. Repealed.]
 
 179B. Deduction for capital costs incurred in complying with Environmental Protection Agency sulfur regulations.
 
@@ -84,11 +84,13 @@ Sec.
 
 198. Expensing of environmental remediation costs.
 
-198A. Expensing of Qualified Disaster Expenses. 2
+[198A. Repealed.]
 
 199. Income attributable to domestic production activities.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(34)(A), (35), Dec. 19, 2014, 128 Stat. 4042, which directed amendment of table of sections for part VI of subchapter A of this chapter by striking items 179A and 198A, was executed by striking items 179A "Deduction for clean-fuel vehicles and certain refueling property" and 198A "Expensing of Qualified Disaster Expenses" in table of sections for part VI of this subchapter to reflect the probable intent of Congress.
 
 **2008**—Pub. L. 110–343, div. C, title VII, §707(b), Oct. 3, 2008, 122 Stat. 3924, added item 198A.
 
@@ -149,5 +151,3 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 **1954**—Act Sept. 1, 1954, ch. 1206, title II, §210(b), 68 Stat. 1097, added item 176.
 
 [<sup>1</sup> Section 191 was repealed by Pub. L. 97–34 without corresponding amendment of part analysis.](#I_1)
-
-[<sup>2</sup> So in original. The words "Qualified Disaster Expenses" probably should not be capitalized.](#I_2)

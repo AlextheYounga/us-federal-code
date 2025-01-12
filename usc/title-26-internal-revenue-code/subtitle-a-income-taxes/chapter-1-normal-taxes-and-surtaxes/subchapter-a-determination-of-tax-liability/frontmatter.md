@@ -14,11 +14,11 @@ IV. Credits against tax.
 
 VI. Minimum tax for tax preferences. 1
 
-VII. Environmental tax.
-
-[VIII. Repealed.]
+[VII, VIII. Repealed.]
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(12)(A), Dec. 19, 2014, 128 Stat. 4038, struck out part VII "Environmental tax".
 
 **1989**—Pub. L. 101–234, title I, §102(a), Dec. 13, 1989, 103 Stat. 1980, repealed Pub. L. 100–360, §111, and provided that the provisions of law amended by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 

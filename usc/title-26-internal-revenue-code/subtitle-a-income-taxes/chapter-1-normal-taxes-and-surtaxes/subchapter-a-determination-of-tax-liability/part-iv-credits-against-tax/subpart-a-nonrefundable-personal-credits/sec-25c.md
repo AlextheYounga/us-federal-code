@@ -158,15 +158,17 @@ This section shall not apply with respect to any property placed in service—
 
 (1) after December 31, 2007, and before January 1, 2009, or
 
-(2) after December 31, 2013..<sup><a href="#25C_3_target" name="25C_3">3</a></sup>
+(2) after December 31, 2014..<sup><a href="#25C_3_target" name="25C_3">3</a></sup>
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337.)
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021.)
 
 #### References in Text ####
 
 The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(1), is the date of the enactment of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
 #### Amendments ####
+
+**2014**—Subsec. (g)(2). Pub. L. 113–295 substituted "December 31, 2014" for "December 31, 2013".
 
 **2013**—Subsec. (g)(2). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
@@ -249,6 +251,10 @@ Subsec. (g). Pub. L. 110–343, §302(a), substituted "placed in service—" for
 **2007**—Subsec. (c)(3). Pub. L. 110–172 substituted "part 3280" for "section 3280".
 
 **2005**—Subsec. (b)(2). Pub. L. 109–135 substituted "subsection (c)(2)(B)" for "subsection (c)(3)(B)".
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §151(b), Dec. 19, 2014, 128 Stat. 4021, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2013."
 
 #### Effective Date of 2013 Amendment ####
 

@@ -14,7 +14,7 @@ Sec.
 
 36. First-time homebuyer credit.
 
-36A. Making work pay credit.
+[36A. Repealed.]
 
 36B. Refundable credit for coverage under a qualified health plan.
 
@@ -23,6 +23,8 @@ Sec.
 37. Overpayments of tax.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037, struck out item 36A "Making work pay credit".
 
 **2010**—Pub. L. 111–148, title X, §10909(b)(2)(Q), (c), Mar. 23, 2010, 124 Stat. 1023, as amended by Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298, temporarily added item 36C "Adoption expenses". See Effective and Termination Dates of 2010 Amendment note set out under section 1 of this title.
 

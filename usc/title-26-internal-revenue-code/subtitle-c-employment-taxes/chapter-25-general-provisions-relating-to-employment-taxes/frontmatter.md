@@ -22,7 +22,11 @@ Sec.
 
 3510. Coordination of collection of domestic service employment taxes with collection of income taxes.
 
+3511. Certified professional employer organizations.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. B, title II, §206(d)(1), Dec. 19, 2014, 128 Stat. 4071, added item 3511.
 
 **2010**—Pub. L. 111–226, title II, §219(b)(3), Aug. 10, 2010, 124 Stat. 2403, struck out item 3507 "Advance payment of earned income credit".
 

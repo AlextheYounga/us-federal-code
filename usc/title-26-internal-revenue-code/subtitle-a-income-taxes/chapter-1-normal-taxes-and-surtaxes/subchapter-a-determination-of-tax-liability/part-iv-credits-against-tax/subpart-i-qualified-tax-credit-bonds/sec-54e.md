@@ -24,7 +24,7 @@ For purposes of subsection (a), the private business contribution requirement of
 
 #### (1) National limitation ####
 
-There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, and 2013 and, except as provided in paragraph (4), zero thereafter.
+There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 2008, $1,400,000,000 for 2009 and 2010, and $400,000,000 for 2011, 2012, 2013, and 2014 and, except as provided in paragraph (4), zero thereafter.
 
 #### (2) Allocation of limitation ####
 
@@ -102,7 +102,7 @@ The term "qualified contribution" means any contribution (of a type and quality 
 
 (E) any other property or service specified by the eligible local education agency.
 
-(Added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, §1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, §758(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §310(a), Jan. 2, 2013, 126 Stat. 2330.)
+(Added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008, 122 Stat. 3869; amended Pub. L. 111–5, div. B, title I, §1522(a), Feb. 17, 2009, 123 Stat. 358; Pub. L. 111–312, title VII, §758(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §310(a), Jan. 2, 2013, 126 Stat. 2330; Pub. L. 113–295, div. A, title I, §120(a), Dec. 19, 2014, 128 Stat. 4015.)
 
 #### References in Text ####
 
@@ -114,11 +114,17 @@ Section 9101 of the Elementary and Secondary Education Act of 1965, referred to 
 
 #### Amendments ####
 
+**2014**—Subsec. (c)(1). Pub. L. 113–295 substituted "2013, and 2014" for "and 2013".
+
 **2013**—Subsec. (c)(1). Pub. L. 112–240 inserted ", 2012, and 2013" after "for 2011".
 
 **2010**—Subsec. (c)(1). Pub. L. 111–312 substituted "2008," for "2008 and" and inserted "and $400,000,000 for 2011" after "2010,".
 
 **2009**—Subsec. (c)(1). Pub. L. 111–5 substituted "and $1,400,000,000 for 2009 and 2010" for "and 2009".
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §120(b), Dec. 19, 2014, 128 Stat. 4015, provided that: "The amendment made by this section [amending this section] shall apply to obligations issued after December 31, 2013."
 
 #### Effective Date of 2013 Amendment ####
 

@@ -56,11 +56,13 @@ For purposes of this subtitle, if a credit is allowed under this section with re
 
 #### (f) Application of section ####
 
-This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004, and before January 1, 2014.
+This section shall apply to qualified railroad track maintenance expenditures paid or incurred during taxable years beginning after December 31, 2004, and before January 1, 2015.
 
-(Added Pub. L. 108–357, title II, §245(a), Oct. 22, 2004, 118 Stat. 1447; amended Pub. L. 109–135, title IV, §403(f), Dec. 21, 2005, 119 Stat. 2623; Pub. L. 109–432, div. A, title IV, §423(a), Dec. 20, 2006, 120 Stat. 2973; Pub. L. 110–343, div. C, title III, §316(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §734(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §306(a), Jan. 2, 2013, 126 Stat. 2329.)
+(Added Pub. L. 108–357, title II, §245(a), Oct. 22, 2004, 118 Stat. 1447; amended Pub. L. 109–135, title IV, §403(f), Dec. 21, 2005, 119 Stat. 2623; Pub. L. 109–432, div. A, title IV, §423(a), Dec. 20, 2006, 120 Stat. 2973; Pub. L. 110–343, div. C, title III, §316(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §734(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §306(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §116(a), Dec. 19, 2014, 128 Stat. 4014.)
 
 #### Amendments ####
+
+**2014**—Subsec. (f). Pub. L. 113–295 substituted "January 1, 2015" for "January 1, 2014".
 
 **2013**—Subsec. (f). Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2012".
 
@@ -79,6 +81,10 @@ This section shall apply to qualified railroad track maintenance expenditures pa
 A mile of railroad track may be taken into account by a person other than the owner only if such mile is assigned to such person by the owner for purposes of this subsection. Any mile which is so assigned may not be taken into account by the owner for purposes of this subsection."
 
 Subsec. (c)(2). Pub. L. 109–135, §403(f)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "any person who transports property using the rail facilities of a person described in paragraph (1) or who furnishes railroad-related property or services to such a person."
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §116(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section [amending this section] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2013."
 
 #### Effective Date of 2013 Amendment ####
 

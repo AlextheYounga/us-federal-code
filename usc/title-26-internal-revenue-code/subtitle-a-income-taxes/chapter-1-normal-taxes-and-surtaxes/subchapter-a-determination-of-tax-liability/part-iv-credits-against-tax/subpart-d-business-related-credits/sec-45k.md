@@ -218,9 +218,9 @@ Subsection (b)(1) shall not apply.
 
 #### (E) Coordination with section 45 ####
 
-No credit shall be allowed with respect to any qualified fuel which is steel industry fuel (as defined in section 45(c)(7)) if a credit is allowed to the taxpayer for such fuel under section 45.
+No credit shall be allowed with respect to any coke or coke gas which is produced using steel industry fuel (as defined in section 45(c)(7)) as feedstock if a credit is allowed to any taxpayer under section 45 with respect to the production of such steel industry fuel.
 
-(Added Pub. L. 96–223, title II, §231(a), Apr. 2, 1980, 94 Stat. 268, §44D; amended Pub. L. 97–34, title VI §611(a), Aug. 13, 1981, 95 Stat. 339; Pub. L. 97–354, §5(a)(1), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title II, §202(a), Jan. 12, 1983, 96 Stat. 2396; renumbered §29 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(h), title VI, §612(e)(1), title VII, §722(d)(1), (2), July 18, 1984, 98 Stat. 826, 831, 912, 973; Pub. L. 99–514, title VII, §701(c)(3), title XVIII, §1879(c)(1), Oct. 22, 1986, 100 Stat. 2340, 2906; Pub. L. 100–647, title VI, §6302, Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §§11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, 104 Stat. 1388–479, 1388–550, 1388–558; Pub. L. 102–486, title XIX, §1918, Oct. 24, 1992, 106 Stat. 3025; Pub. L. 104–188, title I, §§1205(d)(3), 1207(a), Aug. 20, 1996, 110 Stat. 1776; renumbered §45K and amended Pub. L. 109–58, title XIII, §§1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, 119 Stat. 1010–1012; Pub. L. 109–135, title IV, §§402(g), 412(l), Dec. 21, 2005, 119 Stat. 2611, 2637; Pub. L. 109–432, div. A, title II, §211(a), (b), Dec. 20, 2006, 120 Stat. 2947, 2948; Pub. L. 110–343, div. B, title I, §108(d)(2), Oct. 3, 2008, 122 Stat. 3821.)
+(Added Pub. L. 96–223, title II, §231(a), Apr. 2, 1980, 94 Stat. 268, §44D; amended Pub. L. 97–34, title VI §611(a), Aug. 13, 1981, 95 Stat. 339; Pub. L. 97–354, §5(a)(1), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title II, §202(a), Jan. 12, 1983, 96 Stat. 2396; renumbered §29 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(h), title VI, §612(e)(1), title VII, §722(d)(1), (2), July 18, 1984, 98 Stat. 826, 831, 912, 973; Pub. L. 99–514, title VII, §701(c)(3), title XVIII, §1879(c)(1), Oct. 22, 1986, 100 Stat. 2340, 2906; Pub. L. 100–647, title VI, §6302, Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §§11501(a), (b)(1), (c)(1), 11813(b)(1), 11816, Nov. 5, 1990, 104 Stat. 1388–479, 1388–550, 1388–558; Pub. L. 102–486, title XIX, §1918, Oct. 24, 1992, 106 Stat. 3025; Pub. L. 104–188, title I, §§1205(d)(3), 1207(a), Aug. 20, 1996, 110 Stat. 1776; renumbered §45K and amended Pub. L. 109–58, title XIII, §§1321(a), 1322(a)(1), (3)(E), (F), (b), Aug. 8, 2005, 119 Stat. 1010–1012; Pub. L. 109–135, title IV, §§402(g), 412(l), Dec. 21, 2005, 119 Stat. 2611, 2637; Pub. L. 109–432, div. A, title II, §211(a), (b), Dec. 20, 2006, 120 Stat. 2947, 2948; Pub. L. 110–343, div. B, title I, §108(d)(2), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 113–295, div. A, title II, §210(a), Dec. 19, 2014, 128 Stat. 4031.)
 
 #### Inflation Adjusted Items for Certain Tax Years ####
 
@@ -235,6 +235,8 @@ Section 2(18) of the Natural Gas Policy Act of 1978, referred to in subsec. (c)(
 The date of the enactment of this clause, and such date of enactment, referred to in subsec. (c)(2)(B), probably mean the date of enactment of Pub. L. 101–508, which amended subsec. (c)(2)(B) of this section generally, and which was approved Nov. 5, 1990.
 
 #### Amendments ####
+
+**2014**—Subsec. (g)(2)(E). Pub. L. 113–295 amended subpar. (E) generally. Prior to amendment, text read as follows: "No credit shall be allowed with respect to any qualified fuel which is steel industry fuel (as defined in section 45(c)(7)) if a credit is allowed to the taxpayer for such fuel under section 45."
 
 **2008**—Subsec. (g)(2)(E). Pub. L. 110–343 added subpar. (E).
 
@@ -347,6 +349,10 @@ Pub. L. 98–369, §474(h), amended par. (5) generally, substituting "shall not 
 **1982**—Subsec. (d)(9). Pub. L. 97–354 substituted "Pass-thru in the case of estates and trusts" for "Pass-through in the case of subchapter S corporations, etc." in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 **1981**—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading "If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property."
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, Pub. L. 110–343, div. B, to which such amendment relates, see section 210(h) of Pub. L. 113–295, set out as a note under section 45 of this title.
 
 #### Effective Date of 2008 Amendment ####
 

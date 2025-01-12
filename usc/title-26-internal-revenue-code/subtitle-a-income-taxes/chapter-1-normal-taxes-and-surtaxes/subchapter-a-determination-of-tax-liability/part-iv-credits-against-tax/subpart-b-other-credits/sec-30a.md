@@ -46,13 +46,11 @@ If 75 percent or more of the gross income of the qualified domestic corporation 
 
 The credit provided by subsection (a) shall not be allowed against the tax imposed by—
 
-(1) section 59A (relating to environmental tax),
+(1) section 531 (relating to the tax on accumulated earnings),
 
-(2) section 531 (relating to the tax on accumulated earnings),
+(2) section 541 (relating to personal holding company tax), or
 
-(3) section 541 (relating to personal holding company tax), or
-
-(4) section 1351 (relating to recoveries of foreign expropriation losses).
+(3) section 1351 (relating to recoveries of foreign expropriation losses).
 
 #### (d) Limitations on credit for active business income ####
 
@@ -96,13 +94,19 @@ For purposes of this section, any term used in this section which is also used i
 
 This section shall apply to taxable years beginning after December 31, 1995, and before January 1, 2006.
 
-(Added Pub. L. 104–188, title I, §1601(b)(1), Aug. 20, 1996, 110 Stat. 1830; amended Pub. L. 105–34, title XVI, §1601(f)(1)(A), Aug. 5, 1997, 111 Stat. 1090; Pub. L. 106–554, §1(a)(7) [title III, §311(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–640.)
+(Added Pub. L. 104–188, title I, §1601(b)(1), Aug. 20, 1996, 110 Stat. 1830; amended Pub. L. 105–34, title XVI, §1601(f)(1)(A), Aug. 5, 1997, 111 Stat. 1090; Pub. L. 106–554, §1(a)(7) [title III, §311(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 113–295, div. A, title II, §221(a)(12)(C), Dec. 19, 2014, 128 Stat. 4038.)
 
 #### Amendments ####
+
+**2014**—Subsec. (c). Pub. L. 113–295 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: "section 59A (relating to environmental tax),".
 
 **2000**—Subsecs. (f) to (h). Pub. L. 106–554 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 **1997**—Pub. L. 105–34 substituted "Puerto Rico" for "Puerto Rican" in section catchline.
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment ####
 
@@ -124,7 +128,7 @@ Pub. L. 104–188, title I, §1601(c), Aug. 20, 1996, 110 Stat. 1833, provided t
 
 #### American Samoa Economic Development Credit ####
 
-Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §330(a), (b), Jan. 2, 2013, 126 Stat. 2335, provided that:
+Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §330(a), (b), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, §141(a), Dec. 19, 2014, 128 Stat. 4020, provided that:
 
 "(a) In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if—
 
@@ -148,11 +152,13 @@ Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as ame
 
 "(d) Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply—
 
-"(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 8 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2014, and
+"(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 9 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2015, and
 
-"(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 2 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2014.
+"(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 3 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2015.
 
 "(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting 'American Samoa' for 'the United States' each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year."
+
+[Pub. L. 113–295, div. A, title I, §141(b), Dec. 19, 2014, 128 Stat. 4020, provided that: "The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2013."]
 
 [Pub. L. 112–240, title III, §330(c), Jan. 2, 2013, 126 Stat. 2335, provided that: "The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2011."]
 

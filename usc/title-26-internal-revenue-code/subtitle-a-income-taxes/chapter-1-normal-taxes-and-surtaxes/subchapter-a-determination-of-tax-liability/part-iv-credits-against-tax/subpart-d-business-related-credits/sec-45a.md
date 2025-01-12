@@ -24,7 +24,7 @@ The term "qualified wages" means any wages paid or incurred by an employer for s
 
 #### (B) Coordination with work opportunity credit ####
 
-The term "qualified wages" shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
+The term "qualified wages" shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51. If any portion of wages are taken into account under subsection (e)(1)(A) of section 51, the preceding sentence shall be applied by substituting "2-year period" for "1-year period".
 
 #### (2) Qualified employee health insurance costs ####
 
@@ -154,9 +154,9 @@ For any taxable year having less than 12 months, the amount determined under sub
 
 #### (f) Termination ####
 
-This section shall not apply to taxable years beginning after December 31, 2013.
+This section shall not apply to taxable years beginning after December 31, 2014.
 
-(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §732(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §304(a), Jan. 2, 2013, 126 Stat. 2329.)
+(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188; Pub. L. 109–432, div. A, title I, §111(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §314(a), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–312, title VII, §732(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §304(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §114(a), title II, §216(a), Dec. 19, 2014, 128 Stat. 4014, 4034.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -169,6 +169,10 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
 #### Amendments ####
+
+**2014**—Subsec. (b)(1)(B). Pub. L. 113–295, §216(a), inserted at end "If any portion of wages are taken into account under subsection (e)(1)(A) of section 51, the preceding sentence shall be applied by substituting '2-year period' for '1-year period'."
+
+Subsec. (f). Pub. L. 113–295, §114(a), substituted "December 31, 2014" for "December 31, 2013".
 
 **2013**—Subsec. (f). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
@@ -187,6 +191,12 @@ Subsec. (f). Pub. L. 108–311, §315, substituted "December 31, 2005" for "Dece
 **1998**—Subsec. (b)(1)(B). Pub. L. 105–206 substituted "work opportunity credit" for "targeted jobs credit" in heading.
 
 **1996**—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting "work opportunity credit" for "targeted jobs credit", could not be executed because the words "targeted jobs credit" did not appear in the text.
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §114(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2013."
+
+Pub. L. 113–295, div. A, title II, §216(b), Dec. 19, 2014, 128 Stat. 4034, provided that: "The amendment made by this section [amending this section] shall take effect as if included in the provision of the Tax Relief and Health Care Act of 2006 [Pub. L. 109–432] to which it relates."
 
 #### Effective Date of 2013 Amendment ####
 

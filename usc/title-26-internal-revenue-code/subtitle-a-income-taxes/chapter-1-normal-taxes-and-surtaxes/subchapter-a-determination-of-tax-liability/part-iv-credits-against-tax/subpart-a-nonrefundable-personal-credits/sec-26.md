@@ -22,7 +22,7 @@ For purposes of paragraph (1), any tax imposed by any of the following provision
 
 (A) section 55 (relating to minimum tax),
 
-(B) section 59A (relating to environmental tax),
+[(B) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(12)(B), Dec. 19, 2014, 128 Stat. 4038.]
 
 (C) subsection (m)(5)(B), (q), (t), or (v) of section 72 (relating to additional taxes on certain distributions),
 
@@ -64,21 +64,27 @@ For purposes of paragraph (1), any tax imposed by any of the following provision
 
 (V) subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation),
 
-(W) section 36(f) (relating to recapture of homebuyer credit), and
+(W) section 36(f) (relating to recapture of homebuyer credit),
 
-(X) section 457A(c)(1)(B) (relating to determinability of amounts of compensation).
+(X) section 457A(c)(1)(B) (relating to determinability of amounts of compensation), and
+
+(Y) section 529A(c)(3)(A) (relating to additional tax on ABLE account distributions not used for qualified disability expenses).
 
 #### (c) Tentative minimum tax ####
 
 For purposes of this part, the term "tentative minimum tax" means the amount determined under section 55(b)(1).
 
-(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) [title II, §202(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636; Pub. L. 109–222, title III, §302(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §3(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–172, §11(a)(3), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–289, div. C, title I, §3011(b)(1), July 30, 2008, 122 Stat. 2891; Pub. L. 110–343, div. B, title I, §106(e)(2)(D), title II, §205(d)(1)(D), div. C, title I, §101(a), title VIII, §801(b), Oct. 3, 2008, 122 Stat. 3817, 3839, 3863, 3931; Pub. L. 111–5, div. B, title I, §§1004(b)(3), 1011(a), 1142(b)(1)(D), 1144(b)(1)(D), Feb. 17, 2009, 123 Stat. 314, 319, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(E), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), title II, §202(a), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §104(c)(1), Jan. 2, 2013, 126 Stat. 2321.)
+(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) [title II, §202(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636; Pub. L. 109–222, title III, §302(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §3(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–172, §11(a)(3), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–289, div. C, title I, §3011(b)(1), July 30, 2008, 122 Stat. 2891; Pub. L. 110–343, div. B, title I, §106(e)(2)(D), title II, §205(d)(1)(D), div. C, title I, §101(a), title VIII, §801(b), Oct. 3, 2008, 122 Stat. 3817, 3839, 3863, 3931; Pub. L. 111–5, div. B, title I, §§1004(b)(3), 1011(a), 1142(b)(1)(D), 1144(b)(1)(D), Feb. 17, 2009, 123 Stat. 314, 319, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(E), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), title II, §202(a), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §104(c)(1), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 113–295, div. A, title II, §221(a)(12)(B), div. B, title I, §102(e)(1), Dec. 19, 2014, 128 Stat. 4038, 4062.)
 
 #### References in Text ####
 
 Section 860K, referred to in subsec. (b)(2)(P), was repealed by Pub. L. 108–357, title VIII, §835(a), Oct. 22, 2004, 118 Stat. 1593.
 
 #### Amendments ####
+
+**2014**—Subsec. (b)(2)(B). Pub. L. 113–295, §221(a)(12)(B), struck out subpar. (B) which read as follows: "section 59A (relating to environmental tax),".
+
+Subsec. (b)(2)(Y). Pub. L. 113–295, §102(e)(1), added subpar. (Y).
 
 **2013**—Subsec. (a). Pub. L. 112–240 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to limitation based on amount of tax with a special rule for taxable years 2000 through 2011.
 
@@ -207,6 +213,12 @@ Pub. L. 99–514, §261(c), added subpar. (I).
 Pub. L. 99–514, §701(c)(1)(B)(iv), added subpar. (J).
 
 Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, substituting provisions relating to tentative minimum tax for provisions referring to section 55(c) of this title for similar rule for alternative minimum tax for taxpayers other than corporations.
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by section 221(a)(12)(B) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of div. A of Pub. L. 113–295, set out as a note under section 1 of this title.
+
+Amendment by section 102(e)(1) of Pub. L. 113–295 applicable to taxable years beginning after Dec. 31, 2014, see section 102(f)(1) of div. B of Pub. L. 113–295, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2013 Amendment ####
 

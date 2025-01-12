@@ -213,11 +213,11 @@ This paragraph shall apply only to a welfare benefit fund which, as of July 18, 
 
 #### (1) In general ####
 
-In the case of any welfare benefit fund which is not an organization described in paragraph (7), (9), (17), or (20) of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund's deemed unrelated income for the fund's taxable year ending within the employer's taxable year.
+In the case of any welfare benefit fund which is not an organization described in paragraph (7), (9), (17), or (20) <sup><a href="#419A_2_target" name="419A_2">2</a></sup> of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund's deemed unrelated income for the fund's taxable year ending within the employer's taxable year.
 
 #### (2) Deemed unrelated income ####
 
-For purposes of paragraph (1), the deemed unrelated income of any welfare benefit fund shall be the amount which would have been its unrelated business taxable income under section 512(a)(3) if such fund were an organization described in paragraph (7), (9), (17), or (20) of section 501(c).
+For purposes of paragraph (1), the deemed unrelated income of any welfare benefit fund shall be the amount which would have been its unrelated business taxable income under section 512(a)(3) if such fund were an organization described in paragraph (7), (9), (17), or (20) <sup><a href="#419A_2_target" name="419A_2">2</a></sup> of section 501(c).
 
 #### (3) Coordination with section 419 ####
 
@@ -250,6 +250,10 @@ Rules similar to the rules of subsections (b), (c), (m), and (n) of section 414 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
 
 (Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L. 99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590; Pub. L. 104–188, title I, §1704(t)(60), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–280, title VIII, §843(a), Aug. 17, 2006, 120 Stat. 1010.)
+
+#### References in Text ####
+
+Section 501(c)(20), referred to in subsec. (g)(1), (2), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(iii), Dec. 19, 2014, 128 Stat. 4040.
 
 #### Amendments ####
 
@@ -312,3 +316,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 Pub. L. 99–514, title XVIII, §1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102 Stat. 3587, provided that: "Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 [now 1986] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 [section 223(a) of Pub. L. 98–369, amending section 79 of this title] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act [set out as a note under section 79 of this title]."
 
 [<sup>1</sup> So in original. The period probably should be preceded by an additional closing parenthesis.](#419A_1)
+
+[<sup>2</sup> See References in Text note below.](#419A_2)

@@ -266,7 +266,11 @@ Payments made by the Secretary on behalf of any individual under section 7527 (r
 
 Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
 
-#### (9) <sup><a href="#35_1_target" name="35_1">1</a></sup> Continued qualification of family members after certain events ####
+#### (9) COBRA premium assistance ####
+
+In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+
+#### (10) Continued qualification of family members after certain events ####
 
 #### (A) Medicare eligibility ####
 
@@ -284,15 +288,11 @@ In the case of the death of an eligible individual—
 
 (ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
 
-#### (9) <sup><a href="#35_1_target" name="35_1">1</a></sup> COBRA premium assistance ####
-
-In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
-
-#### (10) Regulations ####
+#### (11) Regulations ####
 
 The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031.)
 
 #### References in Text ####
 
@@ -308,7 +308,7 @@ Section 2744(c)(2) of the Public Health Service Act, referred to in subsec. (e)(
 
 The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9) related to COBRA premium assistance, is section 3001(a) of Pub. L. 111–5, div. B, title III, Feb. 17, 2009, 123 Stat. 455, which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under section 6432 of this title.
+Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9), is section 3001(a) of Pub. L. 111–5, div. B, title III, Feb. 17, 2009, 123 Stat. 455, which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under section 6432 of this title.
 
 #### Prior Provisions ####
 
@@ -318,6 +318,8 @@ Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 19
 
 #### Amendments ####
 
+**2014**—Subsec. (g)(9) to (11). Pub. L. 113–295, §209(j)(3), amended directory language of Pub. L. 111–5, §3001(a)(14)(A). See 2009 Amendment notes below.
+
 **2011**—Subsec. (a). Pub. L. 112–40, §241(b)(1), substituted "72.5 percent" for "65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)".
 
 Subsec. (b)(1)(B). Pub. L. 112–40, §241(a), inserted ", and before January 1, 2014" after "2002".
@@ -326,7 +328,7 @@ Subsec. (c)(2)(B). Pub. L. 112–40, §241(b)(3)(A), struck out "and before Febr
 
 Subsec. (e)(1)(K). Pub. L. 112–40, §241(b)(3)(B), substituted "Coverage" for "In the case of eligible coverage months beginning before February 13, 2012, coverage".
 
-Subsec. (g)(9). Pub. L. 112–40, §241(b)(3)(C), in par. (9) relating to continued qualification of family members after certain events, struck out introductory provisions which read as follows: "In the case of eligible coverage months beginning before February 13, 2011—".
+Subsec. (g)(10). Pub. L. 112–40, §241(b)(3)(C), which directed amendment of par. (9) relating to continued qualification of family members after certain events by striking out "In the case of eligible coverage months beginning before February 13, 2011—", was executed by striking out such introductory provisions in par. (10) to reflect the probable intent of Congress and the redesignation of par. (9) as (10) by Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–295, §209(j)(3). See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
 **2010**—Subsec. (a). Pub. L. 111–344, §111(a), substituted "February 13, 2011" for "January 1, 2011".
 
@@ -334,9 +336,9 @@ Subsec. (c)(2)(B). Pub. L. 111–344, §113(a), substituted "February 13, 2011" 
 
 Subsec. (e)(1)(K). Pub. L. 111–344, §117(a), substituted "February 13, 2012" for "January 1, 2011".
 
-Subsec. (g)(9). Pub. L. 111–344, §115(a), substituted "February 13, 2011" for "January 1, 2011", in par. (9) relating to continued qualification of family members after certain events.
+Subsec. (g)(9). Pub. L. 111–144 substituted "section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009" for "section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009".
 
-Pub. L. 111–144, which directed amendment of par. (9) by substituting "section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009" for "section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009", was executed by making the substitution in par. (9) relating to COBRA premium assistance, to reflect the probable intent of Congress.
+Subsec. (g)(10). Pub. L. 111–344, §115(a), which directed amendment of par. (9) relating to continued qualification of family members after certain events by substituting "February 13, 2011" for "January 1, 2011", was executed by making the substitution in introductory provisions of par. (10) to reflect the probable intent of Congress and the redesignation of par. (9) as (10) by Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–295, §209(j)(3). See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
 **2009**—Subsec. (a). Pub. L. 111–5, §1899A(a)(1), inserted "(80 percent in the case of eligible coverage months beginning before January 1, 2011)" after "65 percent".
 
@@ -344,13 +346,19 @@ Subsec. (c)(2). Pub. L. 111–5, §1899C(a), amended par. (2) generally. Prior t
 
 Subsec. (e)(1)(K). Pub. L. 111–5, §1899G(a), added subpar. (K).
 
-Subsec. (g)(9), (10). Pub. L. 111–5, §3001(a)(14)(A), added par. (9) relating to COBRA premium assistance and redesignated former par. (9) as (10).
+Subsec. (g)(9), (10). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–295, §209(j)(3), added par. (9) relating to COBRA premium assistance and redesignated former par. (9) relating to continued qualification of family members after certain events as (10). Former par. (10) relating to Regulations redesignated (11).
 
-Pub. L. 111–5, §1899E(a), which directed addition of par. (9) and redesignation of par. (9) as (10), was executed by only adding par. (9) relating to continued qualification of family members after certain events.
+Pub. L. 111–5, §1899E(a), added par. (9) relating to continued qualification of family members after certain events and redesignated former par. (9) relating to Regulations as (10).
+
+Subsec. (g)(11). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–295, §209(j)(3), redesignated par. (10) relating to Regulations as (11).
 
 **2007**—Subsec. (d)(2). Pub. L. 110–172 struck out "paragraph (2) or (4) of" before "section 152(e)" and substituted "(as defined in section 152(e)(4)(A))" for "(within the meaning of section 152(e)(1))".
 
 **2004**—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a)."
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 #### Effective Date of 2011 Amendment ####
 
@@ -479,5 +487,3 @@ The information required under this paragraph shall be reported with respect to 
 "(6) The cost of administering the HCTC program by function, including the cost of subcontractors, and recommendations on ways to reduce administrative costs, including recommended statutory changes.
 
 "(7) The number of States applying for and receiving national emergency grants under section 173(f) of the Workforce Investment Act of 1998 (29 U.S.C. 2918(f)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants."
-
-[<sup>1</sup> So in original. There are two pars. designated "(9)".](#35_1)

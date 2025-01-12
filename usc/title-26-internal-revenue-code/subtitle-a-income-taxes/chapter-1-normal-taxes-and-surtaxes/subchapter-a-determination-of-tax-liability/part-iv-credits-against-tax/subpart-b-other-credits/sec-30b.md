@@ -446,7 +446,7 @@ The amount of any deduction or other credit allowable under this chapter—
 
 (A) for any incremental cost taken into account in computing the amount of the credit determined under subsection (e) shall be reduced by the amount of such credit attributable to such cost, and
 
-(B) with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year.
+(B) with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year (determined without regard to subsection (g)).
 
 #### (6) Property used by tax-exempt entity ####
 
@@ -458,7 +458,7 @@ No credit shall be allowable under subsection (a) with respect to any property r
 
 #### (8) Recapture ####
 
-The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).,<sup><a href="#30B_1_target" name="30B_1">1</a></sup> except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
+The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle), except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
 
 #### (9) Election to not take credit ####
 
@@ -512,7 +512,7 @@ This section shall not apply to any property purchased after—
 
 (4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322.)
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§218(a), 220(a), Dec. 19, 2014, 128 Stat. 4035.)
 
 #### References in Text ####
 
@@ -523,6 +523,10 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and
 The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (e)(2), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments ####
+
+**2014**—Subsec. (h)(5)(B). Pub. L. 113–295, §218(a), inserted "(determined without regard to subsection (g))" before period at end.
+
+Subsec. (h)(8). Pub. L. 113–295, §220(a), substituted "vehicle), except that" for "vehicle)., except that".
 
 **2013**—Subsec. (g)(2). Pub. L. 112–240 amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
@@ -549,6 +553,10 @@ Subsecs. (i) to (k). Pub. L. 111–5, §1143(a), added subsec. (i) and redesigna
 **2005**—Subsec. (g)(2)(A). Pub. L. 109–135, §412(d), substituted "regular tax liability (as defined in section 26(b))" for "regular tax".
 
 Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end "For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title II, §218(c), Dec. 19, 2014, 128 Stat. 4035, provided that: "The amendments made by this section [amending this section and section 30C of this title] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 [title XIII of Pub. L. 109–58] to which it relates."
 
 #### Effective Date of 2013 Amendment ####
 
@@ -581,5 +589,3 @@ Amendment by section 402(j) of Pub. L. 109–135 effective as if included in the
 #### Effective Date ####
 
 Pub. L. 109–58, title XIII, §1341(c), Aug. 8, 2005, 119 Stat. 1049, provided that: "The amendments made by this section [enacting this section and amending sections 38, 55, 1016, and 6501 of this title] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date."
-
-[<sup>1</sup> So in original.](#30B_1)

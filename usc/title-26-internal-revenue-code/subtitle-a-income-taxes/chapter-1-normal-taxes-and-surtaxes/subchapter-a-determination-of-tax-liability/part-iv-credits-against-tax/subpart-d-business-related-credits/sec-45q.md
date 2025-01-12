@@ -58,7 +58,7 @@ The credit under this section shall apply only with respect to qualified carbon 
 
 #### (2) Secure geological storage ####
 
-The Secretary, in consultation with the Administrator of the Environmental Protection Agency <sup><a href="#45Q_1_target" name="45Q_1">1</a></sup> the Secretary of Energy, and the Secretary of the Interior,,<sup><a href="#45Q_2_target" name="45Q_2">2</a></sup> shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
+The Secretary, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish regulations for determining adequate security measures for the geological storage of carbon dioxide under paragraph (1)(B) or (2)(C) of subsection (a) such that the carbon dioxide does not escape into the atmosphere. Such term shall include storage at deep saline formations, oil and gas reservoirs, and unminable coal seams under such conditions as the Secretary may determine under such regulations.
 
 #### (3) Tertiary injectant ####
 
@@ -88,13 +88,15 @@ In the case of any taxable year beginning in a calendar year after 2009, there s
 
 The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).
 
-(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325.)
+(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030.)
 
 #### Inflation Adjusted Items for Certain Tax Years ####
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
 #### Amendments ####
+
+**2014**—Subsec. (d)(2). Pub. L. 113–295 substituted "Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish" for "Administrator of the Environmental Protection Agency the Secretary of Energy, and the Secretary of the Interior,, shall establish".
 
 **2009**—Subsec. (a)(1)(B). Pub. L. 111–5, §1131(b)(2), inserted "and not used by the taxpayer as described in paragraph (2)(B)" after "storage".
 
@@ -103,6 +105,10 @@ Subsec. (a)(2)(C). Pub. L. 111–5, §1131(a), added subpar. (C).
 Subsec. (d)(2). Pub. L. 111–5, §1131(b)(1), inserted "the Secretary of Energy, and the Secretary of the Interior," after "Environmental Protection Agency" and substituted "paragraph (1)(B) or (2)(C) of subsection (a)" for "subsection (a)(1)(B)" and ", oil and gas reservoirs, and unminable coal seams" for "and unminable coal seems".
 
 Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted "taken into account in accordance with subsection (a)" for "captured and disposed of or used as a tertiary injectant".
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 #### Effective Date of 2009 Amendment ####
 
@@ -123,7 +129,3 @@ Provisions relating to inflation adjustment of items in this section for certain
 **2011**—Internal Revenue Notice 2011–50.
 
 **2010**—Internal Revenue Notice 2010–75.
-
-[<sup>1</sup> So in original. A comma probably should appear.](#45Q_1)
-
-[<sup>2</sup> So in original.](#45Q_2)

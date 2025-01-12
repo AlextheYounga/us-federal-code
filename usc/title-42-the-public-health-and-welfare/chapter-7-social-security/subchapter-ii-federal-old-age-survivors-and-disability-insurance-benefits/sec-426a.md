@@ -20,7 +20,7 @@ shall (subject to the limitations in this section) be deemed, solely for purpose
 
 The provisions of subsection (a) of this section shall not apply to any individual who—
 
-(1) is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) of this title,
+(1) is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) <sup><a href="#426a_1_target" name="426a_1">1</a></sup> of this title,
 
 (2) has, prior to the beginning of such first month, been convicted of any offense listed in section 402(u) of this title, or
 
@@ -50,6 +50,8 @@ in order to place such Trust Fund in the same position at the end of such fiscal
 
 Sections 228e(l) and 228s–2 of title 45, referred to in subsec. (a)(2), (3), are references to sections 5(l) and 21 of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. That Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Sections 228e and 228s–2 of title 45 are covered by sections 231e and 231f of Title 45, respectively.
 
+Section 410(a)(17) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(99)(C)(ii), Dec. 19, 2014, 128 Stat. 4052.
+
 #### Codification ####
 
 Section was not enacted as part of the Social Security Act which comprises this chapter.
@@ -59,3 +61,5 @@ Section was not enacted as part of the Social Security Act which comprises this 
 **1968**—Subsec. (a)(2)(B). Pub. L. 90–248, §139, substituted "1966" for "1965".
 
 Subsec. (b)(3)(A), (C). Pub. L. 90–248, §403(h)(1), (2), substituted "chapter 89 of title 5" and "such chapter" for "the Federal Employees Health Benefits Act of 1959" and "such Act" in subpars. (A) and (C), respectively.
+
+[<sup>1</sup> See References in Text note below.](#426a_1)

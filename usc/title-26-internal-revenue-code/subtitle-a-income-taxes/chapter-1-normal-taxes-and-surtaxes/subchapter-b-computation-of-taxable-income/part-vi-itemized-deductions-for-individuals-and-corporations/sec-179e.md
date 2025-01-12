@@ -46,9 +46,9 @@ No deduction shall be allowed under subsection (a) to any taxpayer for any taxab
 
 #### (g) Termination ####
 
-This section shall not apply to property placed in service after December 31, 2013.
+This section shall not apply to property placed in service after December 31, 2014.
 
-(Added Pub. L. 109–432, div. A, title IV, §404(a), Dec. 20, 2006, 120 Stat. 2955; amended Pub. L. 110–343, div. C, title III, §311, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §743(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §316(a), Jan. 2, 2013, 126 Stat. 2331.)
+(Added Pub. L. 109–432, div. A, title IV, §404(a), Dec. 20, 2006, 120 Stat. 2955; amended Pub. L. 110–343, div. C, title III, §311, Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §743(a), Dec. 17, 2010, 124 Stat. 3319; Pub. L. 112–240, title III, §316(a), Jan. 2, 2013, 126 Stat. 2331; Pub. L. 113–295, div. A, title I, §128(a), Dec. 19, 2014, 128 Stat. 4018.)
 
 #### References in Text ####
 
@@ -56,11 +56,17 @@ The date of the enactment of this section, referred to in subsec. (c)(2), is the
 
 #### Amendments ####
 
+**2014**—Subsec. (g). Pub. L. 113–295 substituted "December 31, 2014" for "December 31, 2013".
+
 **2013**—Subsec. (g). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
 **2010**—Subsec. (g). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
 
 **2008**—Subsec. (g). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2008".
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §128(b), Dec. 19, 2014, 128 Stat. 4018, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2013."
 
 #### Effective Date of 2013 Amendment ####
 

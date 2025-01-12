@@ -6,7 +6,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (1) Depletion ####
 
-With respect to each property (as defined in section 614), the excess of the deduction for depletion allowable under section 611 for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). Effective with respect to taxable years beginning after December 31, 1992, this paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).
+With respect to each property (as defined in section 614), the excess of the deduction for depletion allowable under section 611 for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). This paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).
 
 #### (2) Intangible drilling costs ####
 
@@ -44,11 +44,11 @@ In the case of any oil or gas well—
 
 #### (i) In general ####
 
-In the case of any taxable year beginning after December 31, 1992, this paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
+This paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
 
 #### (ii) Limitation on benefit ####
 
-The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent (30 percent in case of taxable years beginning in 1993) of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
+The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
 
 #### [(3) Repealed. Pub. L. 100–647, title I, §1007(b)(14)(B), Nov. 10, 1988, 102 Stat. 3430] ####
 
@@ -134,7 +134,7 @@ The term "straight line recovery of intangibles", when used with respect to inta
 
 If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term "straight line recovery of intangibles" means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, title I, §3022(a)(1), July 30, 2008, 122 Stat. 2893; Pub. L. 111–5, div. B, title I, §1503(a), Feb. 17, 2009, 123 Stat. 354.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, title I, §3022(a)(1), July 30, 2008, 122 Stat. 2893; Pub. L. 111–5, div. B, title I, §1503(a), Feb. 17, 2009, 123 Stat. 354; Pub. L. 113–295, div. A, title II, §221(a)(10), (11), Dec. 19, 2014, 128 Stat. 4038.)
 
 #### References in Text ####
 
@@ -147,6 +147,12 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 581; amended Pub. L. 92–178, title III, §§303(b), 304(a)(1), (b)(1), (d), Dec. 10, 1971, 85 Stat. 522–524; Pub. L. 94–455, title III, §301(c)(1)–(4)(A), (C), title XIX, §§1901(b)(33)(A), (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1550–1552, 1800, 1834; Pub. L. 95–30, title I, §101(d)(5), title III, §308(a), title IV, §402(a)(5), May 23, 1977, 91 Stat. 133, 153, 155; Pub. L. 95–600, title III, §301(b)(2), title IV, §§402(b)(1), 421(b), title VII, §701(b)(1), (3), (4), (f)(3)(D), Nov. 6, 1978, 92 Stat. 2820, 2868, 2874, 2898, 2899, 2901; Pub. L. 95–618, title IV, §402(b), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §§104(a)(4)(E), (F), 107(a)(1)(A), Apr. 1, 1980, 94 Stat. 217, 222; Pub. L. 96–596, §3(a), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 97–34, title I, §121(c)(1), title II, §§205, 212(d)(2)(B), Aug. 13, 1981, 95 Stat. 197, 223, 239; Pub. L. 97–248, title II, §§201(b), 204(b), Sept. 3, 1982, 96 Stat. 416, 426; Pub. L. 97–354, §5(a)(14), (15), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §102(b)(1)(A), (3), (4), Jan. 12, 1983, 96 Stat. 2369, 2370; Pub. L. 98–369, div. A, title I, §§16(b), 68(c), 111(e)(5)–(7), title V, §555(a)(2), title VII, §§711(a)(3)(A), 722(a)(1), July 18, 1984, 98 Stat. 505, 588, 633, 897, 942, 972; Pub. L. 99–121, title I, §103(b)(1)(B), (7), Oct. 11, 1985, 99 Stat. 509, 510; Pub. L. 99–272, title XIII, §13208(a), Apr. 7, 1986, 100 Stat. 321; Pub. L. 99–514, title XVIII, §§1804(k)(3)(B)–(D), 1809(a)(3), Oct. 22, 1986, 100 Stat. 2809, 2819, related to items of tax preference, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments ####
+
+**2014**—Subsec. (a)(1). Pub. L. 113–295, §221(a)(10), substituted "This paragraph" for "Effective with respect to taxable years beginning after December 31, 1992, this paragraph".
+
+Subsec. (a)(2)(E)(i). Pub. L. 113–295, §221(a)(11)(A), substituted "This paragraph" for "In the case of any taxable year beginning after December 31, 1992, this paragraph".
+
+Subsec. (a)(2)(E)(ii). Pub. L. 113–295, §221(a)(11)(B), struck out "(30 percent in case of taxable years beginning in 1993)" after "40 percent".
 
 **2009**—Subsec. (a)(5)(C)(vi). Pub. L. 111–5 added cl. (vi).
 
@@ -189,6 +195,10 @@ Subsec. (a)(5)(C)(i). Pub. L. 100–647, §1007(c)(2), amended cl. (i) generally
 Subsec. (a)(5)(C)(iii). Pub. L. 100–647, §1007(c)(1), inserted "(whether a current or advance refunding)" after "any refunding bond".
 
 Subsec. (a)(6)(A). Pub. L. 100–647, §1007(c)(3), inserted "or 642(c)" after "section 170".
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2009 Amendment ####
 

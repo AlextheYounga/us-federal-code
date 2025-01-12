@@ -150,15 +150,21 @@ The Secretary shall promulgate such regulations as necessary—
 
 #### (h) Termination ####
 
-This section shall not apply with respect to property placed in service after December 31, 2013.
+This section shall not apply with respect to property placed in service after December 31, 2014.
 
-(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845.)
+(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022.)
 
 #### Amendments ####
+
+**2014**—Subsec. (h). Pub. L. 113–295 substituted "December 31, 2014" for "December 31, 2013".
 
 **2008**—Subsec. (h). Pub. L. 110–343 substituted "December 31, 2013" for "December 31, 2008".
 
 **2006**—Subsec. (h). Pub. L. 109–432 substituted "2008" for "2007".
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–295, div. A, title I, §158(b), Dec. 19, 2014, 128 Stat. 4022, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2013."
 
 #### Effective Date ####
 

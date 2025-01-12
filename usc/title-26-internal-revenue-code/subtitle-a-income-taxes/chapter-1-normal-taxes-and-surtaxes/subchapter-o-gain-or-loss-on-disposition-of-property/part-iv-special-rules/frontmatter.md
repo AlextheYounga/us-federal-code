@@ -2,7 +2,7 @@
 
 Sec.
 
-1051. Property acquired during affiliation.
+[1051. Repealed.]
 
 1052. Basis established by the Revenue Act of 1932 or 1934 or by the Internal Revenue Code of 1939.
 
@@ -25,6 +25,8 @@ Sec.
 1061. Cross references.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(78), Dec. 19, 2014, 128 Stat. 4049, struck out item 1051 "Property acquired during affiliation".
 
 **2004**—Pub. L. 108–357, title VIII, §886(b)(1)(B), Oct. 22, 2004, 118 Stat. 1641, struck out item 1056 "Basis limitation for player contracts transferred in connection with the the sale of a franchise".
 

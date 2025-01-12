@@ -4,4 +4,4 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 401; June 25, 1959, Pub. L. 86�
 
 #### Effective Date of Repeal ####
 
-Repeal applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2011 of this title.
+Repeal applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2012 of this title.

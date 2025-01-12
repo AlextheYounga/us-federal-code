@@ -16,9 +16,11 @@ VI. Political organizations.
 
 VII. Certain homeowners associations.
 
-VIII. Higher education savings entities.
+VIII. Certain Savings Entities. 1
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. B, title I, §102(e)(5), Dec. 19, 2014, 128 Stat. 4062, substituted "Certain Savings Entities" for "Higher education savings entities" in part VIII heading.
 
 **1997**—Pub. L. 105–34, title II, §211(e)(1)(B), Aug. 5, 1997, 111 Stat. 812, substituted "Higher education savings entities" for "Qualified State tuition programs" in part VIII heading.
 
@@ -29,3 +31,5 @@ VIII. Higher education savings entities.
 **1975**—Pub. L. 93–625, §10(d), Jan. 3, 1975, 88 Stat. 2119, added part VI heading.
 
 **1969**—Pub. L. 91–172, title I, §101(j)(58), Dec. 30, 1969, 83 Stat. 532, added part II heading, and redesignated former parts II, III and IV as parts III, IV and V, respectively.
+
+[<sup>1</sup> So in original. Probably should be "Certain savings entities".](#SubchapterF_1)

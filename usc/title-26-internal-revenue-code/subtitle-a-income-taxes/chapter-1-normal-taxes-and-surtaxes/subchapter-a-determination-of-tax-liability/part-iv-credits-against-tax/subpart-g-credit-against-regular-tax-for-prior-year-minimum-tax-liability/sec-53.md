@@ -60,55 +60,15 @@ In the case of a corporation—
 
 The term "tentative minimum tax" has the meaning given to such term by section 55(b).
 
-#### (e) Special rule for individuals with long-term unused credits ####
-
-#### (1) In general ####
-
-If an individual has a long-term unused minimum tax credit for any taxable year beginning before January 1, 2013, the amount determined under subsection (c) for such taxable year shall not be less than the AMT refundable credit amount for such taxable year.
-
-#### (2) AMT refundable credit amount ####
-
-For purposes of paragraph (1), the term "AMT refundable credit amount" means, with respect to any taxable year, the amount (not in excess of the long-term unused minimum tax credit for such taxable year) equal to the greater of—
-
-(A) 50 percent of the long-term unused minimum tax credit for such taxable year, or
-
-(B) the amount (if any) of the AMT refundable credit amount determined under this paragraph for the taxpayer's preceding taxable year (determined without regard to subsection (f)(2)).
-
-#### (3) Long-term unused minimum tax credit ####
-
-#### (A) In general ####
-
-For purposes of this subsection, the term "long-term unused minimum tax credit" means, with respect to any taxable year, the portion of the minimum tax credit determined under subsection (b) attributable to the adjusted net minimum tax for taxable years before the 3rd taxable year immediately preceding such taxable year.
-
-#### (B) First-in, first-out ordering rule ####
-
-For purposes of subparagraph (A), credits shall be treated as allowed under subsection (a) on a first-in, first-out basis.
-
-#### (4) Credit refundable ####
-
-For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as if it were allowed under subpart C.
-
-#### (f) Treatment of certain underpayments, interest, and penalties attributable to the treatment of incentive stock options ####
-
-#### (1) Abatement ####
-
-Any underpayment of tax outstanding on the date of the enactment of this subsection which is attributable to the application of section 56(b)(3) for any taxable year ending before January 1, 2008, and any interest or penalty with respect to such underpayment which is outstanding on such date of enactment, is hereby abated. The amount determined under subsection (b)(1) shall not include any tax abated under the preceding sentence.
-
-#### (2) Increase in credit for certain interest and penalties already paid ####
-
-The AMT refundable credit amount, and the minimum tax credit determined under subsection (b), for the taxpayer's first 2 taxable years beginning after December 31, 2007, shall each be increased by 50 percent of the aggregate amount of the interest and penalties which were paid by the taxpayer before the date of the enactment of this subsection and which would (but for such payment) have been abated under paragraph (1).
-
-(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331.)
-
-#### References in Text ####
-
-The date of the enactment of this subsection, referred to in subsec. (f), is the date of enactment of Pub. L. 110–343, which was approved Oct. 3, 2008.
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331; Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038.)
 
 #### Prior Provisions ####
 
 A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments ####
+
+**2014**—Subsecs. (e), (f). Pub. L. 113–295 struck out subsecs. (e) and (f) which related to special rule for individuals with long-term unused credits and treatment of certain underpayments, interest, and penalties attributable to the treatment of incentive stock options, respectively.
 
 **2009**—Subsec. (d)(1)(B)(iii). Pub. L. 111–5, §1142(b)(4)(A), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B)."
 
@@ -164,6 +124,10 @@ Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
 
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+
 #### Effective Date of 2009 Amendment ####
 
 Amendment by Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
@@ -208,7 +172,7 @@ Pub. L. 103–66, title XIII, §13171(d), Aug. 10, 1993, 107 Stat. 455, provided
 
 Pub. L. 104–188, title I, §1702(e)(5), Aug. 20, 1996, 110 Stat. 1870, provided that: "The amendment made by section 1913(b)(2)(C)(i) of the Energy Policy Act of 1992 [Pub. L. 102–486] shall apply to taxable years beginning after December 31, 1990."
 
-Amendment by section 1913(b)(2)(C)(ii) of Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
+Pub. L. 102–486, title XIX, §1913(c), Oct. 24, 1992, 106 Stat. 3020, provided that: "The amendments made by this section [enacting sections 30 and 179A of this title and amending this section and sections 55, 62, and 1016 of this title] shall apply to property placed in service after June 30, 1993."
 
 #### Effective Date of 1989 Amendment ####
 
@@ -231,3 +195,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States ####
 
 For applicability of amendment by section 701(b) of Pub. L. 99–514 [enacting this section] notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+
+#### Construction ####
+
+Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(ii), Dec. 19, 2014, 128 Stat. 4038, provided that: "The amendment made by clause (i) striking subsection (f) of section 53 of the Internal Revenue Code of 1986 shall not be construed to allow any tax abated by reason of section 53(f)(1) of such Code (as in effect before such amendment) to be included in the amount determined under section 53(b)(1) of such Code."

@@ -66,7 +66,7 @@ which is part of an issue that meets requirements of paragraphs (2), (3), (4), (
 
 An issue shall be treated as meeting the requirements of this paragraph if, as of the date of issuance, the issuer reasonably expects—
 
-(i) 100 percent or more of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and
+(i) 100 percent of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and
 
 (ii) a binding commitment with a third party to spend at least 10 percent of such available project proceeds will be incurred within the 6-month period beginning on such date of issuance.
 
@@ -212,13 +212,15 @@ There may be a separation (including at issuance) of the ownership of a qualifie
 
 In the case of a separation described in paragraph (1), the rules of section 1286 shall apply to the qualified tax credit bond as if it were a stripped bond and to the credit under this section as if it were a stripped coupon.
 
-(Added Pub. L. 110–234, title XV, §15316(a), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, §4(a), title XV, §15316(a), June 18, 2008, 122 Stat. 1664, 2267; amended Pub. L. 110–343, div. B, title I, §107(b)(1), (2), title III, §301(b)(1), (2), div. C, title III, §313(b)(1), (2), Oct. 3, 2008, 122 Stat. 3818, 3819, 3843, 3844, 3872; Pub. L. 111–5, div. B, title I, §§1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, 123 Stat. 357, 360, 362.)
+(Added Pub. L. 110–234, title XV, §15316(a), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, §4(a), title XV, §15316(a), June 18, 2008, 122 Stat. 1664, 2267; amended Pub. L. 110–343, div. B, title I, §107(b)(1), (2), title III, §301(b)(1), (2), div. C, title III, §313(b)(1), (2), Oct. 3, 2008, 122 Stat. 3818, 3819, 3843, 3844, 3872; Pub. L. 111–5, div. B, title I, §§1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, 123 Stat. 357, 360, 362; Pub. L. 113–295, div. A, title II, §220(e), Dec. 19, 2014, 128 Stat. 4036.)
 
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2014**—Subsec. (d)(2)(A)(i). Pub. L. 113–295 substituted "100 percent" for "100 percent or more".
 
 **2009**—Subsec. (c)(1)(B). Pub. L. 111–5, §1531(c)(2), substituted "subparts C and J" for "subpart C".
 

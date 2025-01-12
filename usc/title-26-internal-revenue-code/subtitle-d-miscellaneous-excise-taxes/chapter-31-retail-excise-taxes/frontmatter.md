@@ -2,7 +2,7 @@
 
 Subchapter Sec. 1
 
-A. Luxury passenger vehicles 2 4001
+[A. Repealed.]
 
 B. Special fuels 4041
 
@@ -68,6 +68,8 @@ A prior section 4058, act Aug. 16, 1954, ch. 736, 68A Stat. 480, §4058, formerl
 
 #### Amendments ####
 
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(103)(A), Dec. 19, 2014, 128 Stat. 4052, struck out item for subchapter A "Luxury passenger vehicles".
+
 **1993**—Pub. L. 103–66, title XIII, §13161(b)(3), Aug. 10, 1993, 107 Stat. 453, substituted "Luxury passenger vehicles" for "Certain luxury items" in item for subchapter A.
 
 **1990**—Pub. L. 101–508, title XI, §11221(e), Nov. 5, 1990, 104 Stat. 1388–444, added item for subchapter A and redesignated former items for subchapters A and B as B and C, respectively.
@@ -77,5 +79,3 @@ A prior section 4058, act Aug. 16, 1954, ch. 736, 68A Stat. 480, §4058, formerl
 **1976**—Pub. L. 94–455, title XIX, §1904(a)(1)(A), Oct. 4, 1976, 90 Stat. 1810, substituted "Special Fuels" for "Retailers Excise Taxes" in chapter heading.
 
 [<sup>1</sup> Section numbers editorially supplied.](#CHAPTER31_1)
-
-[<sup>2</sup> So in original. Does not conform to subchapter heading.](#CHAPTER31_2)

@@ -16,11 +16,13 @@ Sec.
 
 2056A. Qualified domestic trust.
 
-2057. Family-owned business interests.
+[2057. Repealed].
 
 2058. State death taxes.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–295, div. A, title II, §221(a)(97)(A), Dec. 19, 2014, 128 Stat. 4051, which directed amendment of part IV of subchapter A of chapter 11 of this title by striking item 2057 from the table of sections for "such subpart", was executed by striking item 2057 "Family-owned business interests" from the table of sections for this part, to reflect the probable intent of Congress.
 
 **2001**—Pub. L. 107–16, title V, §532(c)(14), June 7, 2001, 115 Stat. 75, added item 2058.
 
