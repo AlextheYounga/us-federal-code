@@ -4,7 +4,7 @@ When title to the site of the Andrew Johnson Homestead and the site of the tailo
 
 (Aug. 29, 1935, ch. 801, §1, 49 Stat. 958; Pub. L. 88–197, §1, Dec. 11, 1963, 77 Stat. 349.)
 
-#### **Editorial Notes** ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

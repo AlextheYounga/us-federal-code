@@ -18,9 +18,13 @@ As part of the study under this section, the Secretary of the Army shall conduct
 
 (Pub. L. 95–625, title XI, §1115, as added Pub. L. 100–534, title I, §104, Oct. 26, 1988, 102 Stat. 2701.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460m–28 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

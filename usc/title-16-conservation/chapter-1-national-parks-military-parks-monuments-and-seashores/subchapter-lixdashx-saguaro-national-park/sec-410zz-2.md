@@ -22,6 +22,8 @@ Subject to valid existing rights, all Federal lands within the park are hereby w
 
 (Pub. L. 103–364, §4, Oct. 14, 1994, 108 Stat. 3468; Pub. L. 116–260, div. FF, title II, §201(b), Dec. 27, 2020, 134 Stat. 3088.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (a). Pub. L. 116–260, §201(b)(1), designated existing provisions as par. (1) and added par. (2).

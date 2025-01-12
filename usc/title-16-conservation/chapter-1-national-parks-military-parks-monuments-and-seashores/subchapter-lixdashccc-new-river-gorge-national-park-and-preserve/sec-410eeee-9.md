@@ -4,6 +4,8 @@ The Secretary of the Army shall cooperate with the Secretary of the Interior con
 
 (Pub. L. 95–625, title XI, §1110, Nov. 10, 1978, 92 Stat. 3548.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460m–23 of this title.

@@ -1,4 +1,4 @@
-### SUBCHAPTER XXXVII—ACADIA NATIONAL PARKbg ###
+### SUBCHAPTER XXXVII—ACADIA NATIONAL PARK ###
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

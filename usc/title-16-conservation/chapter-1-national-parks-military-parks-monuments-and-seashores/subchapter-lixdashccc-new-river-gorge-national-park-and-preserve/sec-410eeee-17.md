@@ -10,9 +10,13 @@ The provisions of the second sentence of section 460ww–2(a) of this title shal
 
 (Pub. L. 95–625, title XI, §1117, as added Pub. L. 104–333, div. I, title IV, §406(a)(3), Nov. 12, 1996, 110 Stat. 4150.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460m–30 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

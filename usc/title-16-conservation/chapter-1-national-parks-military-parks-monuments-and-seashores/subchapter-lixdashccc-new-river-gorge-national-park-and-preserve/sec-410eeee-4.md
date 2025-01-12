@@ -10,6 +10,8 @@ The Secretary shall on his own initiative, or at the request of any local govern
 
 (Pub. L. 95–625, title XI, §1104, Nov. 10, 1978, 92 Stat. 3546.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460m–18 of this title.

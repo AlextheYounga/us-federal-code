@@ -24,8 +24,6 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in s
 
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-#### **Statutory Notes and Related Subsidiaries** ####
-
 #### Codification ####
 
 In subsec. (c), "section 101703 of title 54" substituted for "section 3(l) of Public Law 91–383 (112 Stat. 3522; 16 U.S.C. 1a–2)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

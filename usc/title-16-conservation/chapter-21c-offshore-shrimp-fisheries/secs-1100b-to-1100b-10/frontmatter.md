@@ -1,5 +1,7 @@
 ### §§1100b to 1100b–10. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1100b to 1100b–10 were omitted pursuant to section 13 of Pub. L. 93–242, Jan. 2, 1974, 87 Stat. 1068, as amended by Pub. L. 94–58, §2, July 24, 1975, 89 Stat. 266, which provided that the provisions of this chapter would expire Sept. 30, 1977.

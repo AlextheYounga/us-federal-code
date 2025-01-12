@@ -20,6 +20,8 @@ The owner of a mineral estate subject to this section who believes he has suffer
 
 (Pub. L. 95–625, title XI, §1105, Nov. 10, 1978, 92 Stat. 3546.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460m–19 of this title.

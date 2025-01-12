@@ -12,9 +12,13 @@ Within three years from November 10, 1978, the Secretary shall develop and trans
 
 (Pub. L. 95–625, title XI, §1109, Nov. 10, 1978, 92 Stat. 3548.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460m–22 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

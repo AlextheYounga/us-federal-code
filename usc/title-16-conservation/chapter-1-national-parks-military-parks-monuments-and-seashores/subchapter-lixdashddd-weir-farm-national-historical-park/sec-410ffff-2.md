@@ -56,6 +56,8 @@ Prior to and as a prerequisite to any development of visitor and administrative 
 
 (Pub. L. 101–485, §4, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 103–449, title II, §203, Nov. 2, 1994, 108 Stat. 4756; Pub. L. 105–363, §1(a), Nov. 10, 1998, 112 Stat. 3296; Pub. L. 111–11, title VII, §7102, Mar. 30, 2009, 123 Stat. 1190; Pub. L. 116–305, §2(b)(2), Jan. 5, 2021, 134 Stat. 4917.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–305, §2(b)(2)(A), substituted "Historical Park" for "Historic Site" in section catchline.
@@ -77,6 +79,8 @@ Subsec. (d)(3). Pub. L. 111–11, §7102(3), in introductory provisions, substit
 Subsec. (b)(3), (4). Pub. L. 103–449, §203(a)(1), (3), added pars. (3) and (4).
 
 Subsec. (c). Pub. L. 103–449, §203(b), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Purpose ####
 

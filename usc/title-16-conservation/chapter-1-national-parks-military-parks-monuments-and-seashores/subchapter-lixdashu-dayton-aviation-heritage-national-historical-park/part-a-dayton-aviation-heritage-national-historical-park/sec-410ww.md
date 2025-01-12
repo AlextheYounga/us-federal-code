@@ -48,11 +48,11 @@ In addition to the sites described in subsection (b), the park shall consist of 
 
 "(4) The Paul Laurence Dunbar home, Dayton, Ohio."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2000 Amendment ####
 
 Pub. L. 106–356, §1, Oct. 24, 2000, 114 Stat. 1391, provided that: "This Act [amending this section and sections 410ww–6 and 410ww–8 of this title] may be cited as the 'Dayton Aviation Heritage Preservation Amendments Act of 2000'."
-
-#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

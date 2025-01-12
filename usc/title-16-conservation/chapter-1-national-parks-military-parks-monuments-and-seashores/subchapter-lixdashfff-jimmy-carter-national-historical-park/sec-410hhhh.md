@@ -44,6 +44,8 @@ In order to provide for the benefit, inspiration, and education of the American 
 
 (Pub. L. 100–206, §1, Dec. 23, 1987, 101 Stat. 1434; Pub. L. 105–106, §1, Nov. 20, 1997, 111 Stat. 2247; Pub. L. 116–341, §2(b)(1), (4)–(6), Jan. 13, 2021, 134 Stat. 5132.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 As enacted, the amendment by section 2(b)(5) of Pub. L. 116–341 substituting "historical park" for "historic site" is identical to the one by section 2(b)(4), and the amendment by section 2(b)(6) substituting "Historical Park" for "Historic Site" effectively duplicates those by section 2(b)(1), (2)(B), and (3), applies where it probably should not, and does not apply in other cases where it probably should. A companion bill, S. 3098 of the 116th Congress, 1st Session, contained amendments similar to those by section 2(b)(5) and (6) of Pub. L. 116–341, but they were formatted such that section 2(b)(5) applied specifically to section catchlines and section 2(b)(6) applied specifically to subsection headings. Nevertheless, the amendments as enacted by Pub. L. 116–341 have been executed as written and formatted.
@@ -57,6 +59,8 @@ Subsec. (a). Pub. L. 116–341, §2(b)(1) substituted "National Historical Park"
 Subsec. (b)(1). Pub. L. 116–341, §2(b)(6), substituted "Historical Park" for "Historic Site". Amendment was executed as directed, notwithstanding that it probably should not have applied to the quoted text. See Codification note above.
 
 **1997**—Subsec. (c)(2). Pub. L. 105–106 struck out ", the Plains Railroad Depot (described in subsection (b)(2)(B))," before "and the Plains High School".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2021 Amendment ####
 

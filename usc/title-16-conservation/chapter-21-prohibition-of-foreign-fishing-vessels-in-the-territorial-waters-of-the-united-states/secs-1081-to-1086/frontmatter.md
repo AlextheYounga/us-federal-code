@@ -12,6 +12,8 @@ Section 1085, Pub. L. 88–308, §5, May 20, 1964, 78 Stat. 196; Pub. L. 93–24
 
 Section 1086, Pub. L. 88–308, §6, as added Pub. L. 91–514, §3, Oct. 27, 1970, 84 Stat. 1297, authorized Secretary of the Treasury to pay up to $5,000 to an informer for original information concerning violations under this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–265, title IV, §402(b), Apr. 13, 1976, 90 Stat. 360, provided that repeal of sections 1081 to 1086 of this title is effective Mar. 1, 1977.

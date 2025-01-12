@@ -4,7 +4,7 @@ The Secretary of the Interior may do all things and make all expenditures necess
 
 (June 12, 1930, ch. 469, §4, 46 Stat. 579; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

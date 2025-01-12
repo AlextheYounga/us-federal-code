@@ -10,6 +10,8 @@ The Secretary is authorized to accept and use donated funds, property, and servi
 
 (Pub. L. 101–485, §5, Oct. 31, 1990, 104 Stat. 1172; Pub. L. 116–305, §2(b)(3), Jan. 5, 2021, 134 Stat. 4917.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (a). Pub. L. 116–305 substituted "historical park" for "historic site" in two places.

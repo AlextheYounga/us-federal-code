@@ -8,9 +8,13 @@ As used in this subchapter—
 
 (Pub. L. 101–485, §2, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 116–305, §2(b)(1), Jan. 5, 2021, 134 Stat. 4917.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Par. (2). Pub. L. 116–305 substituted "historical park" for "historic site" and "National Historical Park" for "National Historic Site".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2021 Amendment ####
 

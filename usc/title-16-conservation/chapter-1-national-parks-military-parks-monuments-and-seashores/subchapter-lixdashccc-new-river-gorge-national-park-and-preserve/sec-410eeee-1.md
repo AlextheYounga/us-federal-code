@@ -4,6 +4,8 @@ For the purpose of conserving and interpreting outstanding natural, scenic, and 
 
 (Pub. L. 95–625, title XI, §1101, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 100–534, title I, §101, Oct. 26, 1988, 102 Stat. 2700; Pub. L. 104–333, div. I, title IV, §406(a)(1), Nov. 12, 1996, 110 Stat. 4149; Pub. L. 107–356, §2(a), Dec. 17, 2002, 116 Stat. 3013.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -19,6 +21,8 @@ Section was formerly classified to section 460m–15 of this title.
 **1996**—Pub. L. 104–333 substituted "NERI–80,028A, dated March 1996" for "NERI–80,023, dated January 1987".
 
 **1988**—Pub. L. 100–534 substituted "NERI–80,023, dated January 1987" for "NERI–20,002, dated July 1978".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

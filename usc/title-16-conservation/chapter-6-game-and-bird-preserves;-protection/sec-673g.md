@@ -4,6 +4,8 @@ The Secretary of the Interior, in coordination with all Federal, State, and othe
 
 (Pub. L. 94–389, §3, formerly §4, Aug. 14, 1976, 90 Stat. 1190; Pub. L. 97–375, title I, §108(a), Dec. 21, 1982, 96 Stat. 1820; renumbered §3, Pub. L. 105–362, title IX, §901(b)(2), Nov. 10, 1998, 112 Stat. 3289.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 3 of Pub. L. 94–389 was classified to section 673f of this title, prior to repeal by Pub. L. 105–362.

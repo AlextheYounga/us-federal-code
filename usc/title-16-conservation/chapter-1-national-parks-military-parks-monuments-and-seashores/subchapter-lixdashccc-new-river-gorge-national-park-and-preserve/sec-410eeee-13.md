@@ -10,6 +10,8 @@ Pending completion of the developments and improvements referred to in subsectio
 
 (Pub. L. 95–625, title XI, §1114, as added Pub. L. 100–534, title I, §103, Oct. 26, 1988, 102 Stat. 2700.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 460m–27 of this title.

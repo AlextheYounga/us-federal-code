@@ -18,6 +18,8 @@ The Secretary is authorized to pay, in accordance with section 5703 of title 5, 
 
 (Pub. L. 100–206, §4, Dec. 23, 1987, 101 Stat. 1436; Pub. L. 116–341, §2(b)(4), (5), Jan. 13, 2021, 134 Stat. 5132.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (a). Pub. L. 116–341, §2(b)(4), (5), made identical amendments, substituting "historical park" for "historic site". See Codification note set out under section 410hhhh of this title.

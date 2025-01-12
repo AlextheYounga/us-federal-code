@@ -1,5 +1,7 @@
 ### §§450qq to 450qq–4. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections provided for the Biscayne National Monument which was abolished and its lands, waters, and interests incorporated within and made part of the Biscayne National Park and funds of and authorizations of funds for the Monument made available for the Park pursuant to Pub. L. 96–287, title I, §103(b), June 28, 1980, 94 Stat. 600, classified to section 410gg–2(b) of this title.

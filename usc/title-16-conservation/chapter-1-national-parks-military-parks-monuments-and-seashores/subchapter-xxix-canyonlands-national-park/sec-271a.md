@@ -18,4 +18,4 @@ Date of enactment of this Act or any amendment thereto, referred to in text, mea
 
 #### Transfer of Functions ####
 
-The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions whcih were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.

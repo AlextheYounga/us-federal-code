@@ -1,5 +1,7 @@
 ### §§1100 to 1100a–3. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1100 to 1100a–3 were omitted pursuant to section 1100 which prohibited certain activities during the five-year period beginning on Oct. 27, 1972.

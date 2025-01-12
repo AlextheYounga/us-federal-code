@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized and directed to acquire, on behalf o
 
 (Mar. 19, 1936, ch. 157, §1, 49 Stat. 1184; Pub. L. 116–328, §1(a), Jan. 13, 2021, 134 Stat. 5099.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The General Homestead Act, referred to in text, is act May 20, 1862, ch. 75, 12 Stat. 392. See chapter 7 (§161 et seq.) of Title 43, Public Lands.
@@ -15,6 +17,8 @@ Section was formerly classified to section 450u of this title.
 #### Amendments ####
 
 **2021**—Pub. L. 116–328 substituted "designated the 'Homestead National Historical Park'." for "designated 'The Homestead National Monument of America.' "
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

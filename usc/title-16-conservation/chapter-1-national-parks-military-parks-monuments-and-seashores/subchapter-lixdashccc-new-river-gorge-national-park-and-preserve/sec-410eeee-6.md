@@ -4,6 +4,8 @@ The Secretary shall permit hunting and fishing on lands and waters under his jur
 
 (Pub. L. 95–625, title XI, §1106, Nov. 10, 1978, 92 Stat. 3547; Pub. L. 104–333, div. I, title IV, §406(a)(2), Nov. 12, 1996, 110 Stat. 4149; Pub. L. 111–11, title VII, §7115, Mar. 30, 2009, 123 Stat. 1202.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables.
@@ -17,6 +19,8 @@ Section was formerly classified to section 460m–20 of this title.
 **2009**—Pub. L. 111–11, which directed substitution of "shall" for "may" in first sentence, was executed by substituting "shall" for "may" the first time appearing, which was preceding "permit hunting and fishing".
 
 **1996**—Pub. L. 104–333 inserted at end "The Secretary shall permit the State of West Virginia to undertake fish stocking activities carried out by the State, in consultation with the Secretary, on waters within the boundaries of the national river. Nothing in this Act shall be construed as affecting the jurisdiction of the State of West Virginia with respect to fish and wildlife."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

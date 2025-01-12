@@ -280,8 +280,6 @@ September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the origi
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-The Water and Power Resources Service, referred to in subsec. (h)(10)(C), changed to the Bureau of Reclamation on May 18, 1981. See 155 Dep't of the Interior, Departmental Manual 1.1 (2008 repl.); Sec'y James G. Watt, Dep't of the Interior, Secretarial Order 3064, §§3, 5 (May 18, 1981).
-
 #### Termination of Reporting Requirements ####
 
 For termination, effective May 15, 2000, of provisions in subsec. (h)(12)(A) of this section relating to submitting annually a detailed report to the Committee on Energy and Natural Resources of the Senate and to the Committees on Energy and Commerce and on Natural Resources of the House of Representatives, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
@@ -293,5 +291,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 #### Operation and Maintenance of Fish Passage Facilities Within the Yakima River Basin; Funding ####
 
 Pub. L. 98–381, title I, §109, Aug. 17, 1984, 98 Stat. 1340, provided that: "The Secretary of the Interior, acting pursuant to Federal reclamation law (Act of June 17, 1902, 32 Stat. 388 [see Short Title note under section 371 of Title 43, Public Lands], and Acts amendatory thereof and supplementary thereto) and in accordance with the Pacific Northwest Electric Power Planning and Conservation Act (94 Stat. 2697) [16 U.S.C. 839 et seq.] is authorized to design, construct, operate, and maintain fish passage facilities within the Yakima River Basin, and to accept funds from any entity, public or private, to design, construct, operate, and maintain such facilities."
+
+#### **Executive Documents** ####
+
+#### Change of Name ####
+
+The Water and Power Resources Service, referred to in subsec. (h)(10)(C), changed to the Bureau of Reclamation on May 18, 1981. See 155 Dep't of the Interior, Departmental Manual 1.1 (2008 repl.); Sec'y James G. Watt, Dep't of the Interior, Secretarial Order 3064, §§3, 5 (May 18, 1981).
 
 [<sup>1</sup> See References in Text note below.](#839b_1)
