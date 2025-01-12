@@ -6,13 +6,11 @@ Section 2199, Pub. L. 87–195, pt. I, §239, as added Pub. L. 91–175, pt. I, 
 
 Section 2200, Pub. L. 87–195, pt. I, §240, as added Pub. L. 95–268, §9, Apr. 24, 1978, 92 Stat. 216; amended Pub. L. 99–204, §9(b)(3), Dec. 23, 1985, 99 Stat. 1673; Pub. L. 108–158, §6(a), Dec. 3, 2003, 117 Stat. 1950, related to small business development in less developed friendly countries or areas; encouragement by other Federal departments, etc., of broadened participation by United States small business cooperatives and investors; project funding.
 
+A prior section 2200, Pub. L. 87–195, pt. I, §240, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 817; amended Pub. L. 92–226, pt. I, §104(c), Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §6(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–390, §2(6), Aug. 27, 1974, 88 Stat. 768, provided for agricultural credit and self-help community development projects in Latin America, prior to repeal by Pub. L. 93–559, §8(b), Dec. 30, 1974, 88 Stat. 1797. See section 2182a of this title.
+
 Section 2200a, Pub. L. 87–195, pt. I, §240A, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 818; amended Pub. L. 93–390, §2(7), Aug. 27, 1974, 88 Stat. 768; Pub. L. 95–268, §10, Apr. 24, 1978, 92 Stat. 216; Pub. L. 97–65, §9, formerly §9(a), Oct. 16, 1981, 95 Stat. 1024, renumbered §9, Pub. L. 99–204, §17(c)(1), Dec. 23, 1985, 99 Stat. 1677; Pub. L. 99–204, §14(a), Dec. 23, 1985, 99 Stat. 1674; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 102–549, title I, §108, Oct. 28, 1992, 106 Stat. 3654, required report to Congress after the end of each fiscal year.
 
 Section 2200b, Pub. L. 87–195, pt. I, §240B, as added Pub. L. 102–549, title I, §109, Oct. 28, 1992, 106 Stat. 3654, related to prohibition on noncompetitive awarding of insurance contracts on OPIC supported exports.
-
-#### Prior Provisions ####
-
-A prior section 2200, Pub. L. 87–195, pt. I, §240, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 817; amended Pub. L. 92–226, pt. I, §104(c), Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §6(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–390, §2(6), Aug. 27, 1974, 88 Stat. 768, provided for agricultural credit and self-help community development projects in Latin America, prior to repeal by Pub. L. 93–559, §8(b), Dec. 30, 1974, 88 Stat. 1797. See section 2182a of this title.
 
 A prior section 2200b, Pub. L. 87–195, pt. I, §240B, as added Pub. L. 97–65, §10, Oct. 16, 1981, 95 Stat. 1024, related to return of appropriated funds, prior to repeal by Pub. L. 99–204, §15, Dec. 23, 1985, 99 Stat. 1676.
 

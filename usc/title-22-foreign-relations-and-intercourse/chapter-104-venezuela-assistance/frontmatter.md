@@ -4,7 +4,7 @@
 
 Sec.
 
-9701. Findings; sense of Congress in support of the interim President of Venezuela.
+9701. Findings; sense of Congress in support of the Interim President of Venezuela.
 
 9702. Recognition of Venezuela's democratically elected National Assembly.
 

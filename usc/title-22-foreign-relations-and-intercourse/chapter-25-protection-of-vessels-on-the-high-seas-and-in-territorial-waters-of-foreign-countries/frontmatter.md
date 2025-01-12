@@ -26,7 +26,7 @@ Sec.
 
 1980b. Sanctions for imposition of conditions on U.S. fishing vessel found inconsistent with international law.
 
-#### Statement of Policy and Sense of Congress on, and Strategy to Fulfill Obligations Under, Mutual Defense Treaty With the Republic of the Philippines ####
+#### Statement of Policy and Sense of Congress on, and Strategy To Fulfill Obligations Under, Mutual Defense Treaty With the Republic of the Philippines ####
 
 Pub. L. 116–92, div. A, title XII, §1258, Dec. 20, 2019, 133 Stat. 1674, provided that:
 
