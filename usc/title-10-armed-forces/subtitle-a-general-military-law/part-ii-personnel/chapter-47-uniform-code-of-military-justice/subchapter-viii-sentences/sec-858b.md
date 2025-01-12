@@ -16,7 +16,7 @@
 
 #### Amendment of Subsection (a)(1) ####
 
-Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2923, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (a)(1) of this section is amended by striking "section 857(a) of this title (article 57(a))" and inserting "section 857 of this title (article 57)". See 2016 Amendment note below.
+Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2923, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (a)(1) of this section is amended by striking "section 857(a) of this title (article 57(a))" and inserting "section 857 of this title (article 57)". See 2016 Amendment note below.
 
 #### Amendment of Subsection (b) ####
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 115–91 effective immediately after the amendments made by
 
 #### Effective Date of 2016 Amendment ####
 
-Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
+Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
 #### Effective Date of 1996 Amendment ####
 

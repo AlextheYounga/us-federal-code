@@ -188,7 +188,7 @@ Subsec. (g). Pub. L. 115–123, §50103(a)(2), substituted ", $120,000,000" for
 
 Pub. L. 115–120, §3004(a)(2), substituted ", $40,000,000" for "and $40,000,000" and inserted ", and $120,000,000 for the period of fiscal years 2018 through 2023" after "2017".
 
-**2018**—Subsec. (h)(6), (7). Pub. L. 115–123, §50103(c), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (h)(6), (7). Pub. L. 115–123, §50103(c), added par. (6) and redesignated former par. (6) as (7).
 
 **2015**—Subsec. (a)(1). Pub. L. 114–10, §303(1), substituted "2017" for "2015".
 

@@ -22,7 +22,7 @@ Pub. L. 109–162, title XI, §1199, Jan. 5, 2006, 119 Stat. 3132, which authori
 
 #### National Police Athletic/Activities League Youth Enrichment ####
 
-Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–248, title VI, §§612–617, July 27, 2006, 120 Stat. 632, 633, known as the National Police Athletic/Activivies League Youth Enrichment Act of 2000, which authorized the Assistant Attorney General for the Office of Justice Programs of the Department of Justice to award grants to the Police Athletic/Activities League, was editorially reclassified and is set out as a note under section 11313 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–248, title VI, §§612–617, July 27, 2006, 120 Stat. 632, 633, known as the National Police Athletic/Activities League Youth Enrichment Act of 2000, which authorized the Assistant Attorney General for the Office of Justice Programs of the Department of Justice to award grants to the Police Athletic/Activities League, was editorially reclassified and is set out as a note under section 11313 of Title 34, Crime Control and Law Enforcement.
 
 #### Kids 2000 Crime Prevention and Computer Education Initiative ####
 

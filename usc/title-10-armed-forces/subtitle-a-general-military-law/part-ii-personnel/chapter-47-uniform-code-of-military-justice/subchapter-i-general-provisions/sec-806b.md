@@ -82,7 +82,7 @@ Pub. L. 115–91, div. A, title V, §531(a), (p), Dec. 12, 2017, 131 Stat. 1384,
 
 See 2017 Amendment note below.
 
-Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2895, 2906, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended:
+Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2895, 2906, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, this section is amended:
 
 (1) in subsection (a)(3), by striking "investigating officer" and inserting "preliminary hearing officer";
 
@@ -146,7 +146,7 @@ Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately aft
 
 #### Effective Date of 2016 Amendment ####
 
-Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
+Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
 #### Implementation ####
 

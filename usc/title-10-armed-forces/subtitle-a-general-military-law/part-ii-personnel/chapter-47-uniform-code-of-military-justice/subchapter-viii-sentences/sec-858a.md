@@ -18,7 +18,7 @@ reduces that member to pay grade E–1, effective on the date of that approval.
 
 Pub. L. 115–91, div. A, title V, §531(f)(1), (2), (p), Dec. 12, 2017, 131 Stat. 1385, 1388, provided that, effective immediately after the amendment made by section 5303 of Pub. L. 114–328, set out below, takes effect as provided for in section 5542 of that Act, this section is amended by amending the section catchline to read "Sentences: reduction in enlisted grade" and, in concluding provisions of subsection (a), by striking ", effective on the date" and inserting ", if such a reduction is authorized by regulation prescribed by the President. The reduction in pay grade shall take effect on the date". See 2017 Amendment notes below.
 
-Pub. L. 114–328, div. E, title LVIII, §5303, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2923, 2967, made amendments to this section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations. After such effective date, this section will read:
+Pub. L. 114–328, div. E, title LVIII, §5303, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2923, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, made amendments to this section effective, except as otherwise provided, on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations. After such effective date, this section will read:
 
 #### §858a. Art. 58a. Sentences: reduction in enlisted grade upon approval ####
 
@@ -52,4 +52,4 @@ Amendment by Pub. L. 115–91 effective immediately after the amendments made by
 
 #### Effective Date of 2016 Amendment ####
 
-Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
+Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.

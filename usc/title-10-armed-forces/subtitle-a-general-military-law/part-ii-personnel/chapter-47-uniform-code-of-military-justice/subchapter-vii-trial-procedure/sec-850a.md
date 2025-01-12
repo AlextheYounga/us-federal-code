@@ -30,7 +30,7 @@
 
 #### Amendment of Subsection (c) ####
 
-Pub. L. 114–328, div. E, title LVII, §5233, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2915, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (c) is amended by striking ", or the president of a court-martial without a military judge,". See 2016 Amendment note below.
+Pub. L. 114–328, div. E, title LVII, §5233, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2915, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (c) is amended by striking ", or the president of a court-martial without a military judge,". See 2016 Amendment note below.
 
 #### Amendments ####
 
@@ -38,7 +38,7 @@ Pub. L. 114–328, div. E, title LVII, §5233, title LXIII, §5542, Dec. 23, 201
 
 #### Effective Date of 2016 Amendment ####
 
-Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
+Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
 #### Effective Date ####
 

@@ -8,7 +8,7 @@
 
 #### Amendment of Subsection (a) ####
 
-Pub. L. 114–328, div. E, title LI, §5104, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2895, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (a)(1) is amended in the first sentence by striking "military judge" and all that follows through the end of the sentence and inserting "military appellate judge, military judge, or military magistrate to perform the duties of the position involved." See 2016 Amendment note below.
+Pub. L. 114–328, div. E, title LI, §5104, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2895, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (a)(1) is amended in the first sentence by striking "military judge" and all that follows through the end of the sentence and inserting "military appellate judge, military judge, or military magistrate to perform the duties of the position involved." See 2016 Amendment note below.
 
 #### Amendments ####
 
@@ -20,4 +20,4 @@ Pub. L. 114–328, div. E, title LI, §5104, title LXIII, §5542, Dec. 23, 2016,
 
 #### Effective Date of 2016 Amendment ####
 
-Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
+Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.

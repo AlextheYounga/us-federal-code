@@ -44,27 +44,25 @@ Pub. L. 110–181, div. A, title V, §544, Jan. 28, 2008, 122 Stat. 116, provide
 
 #### Military Service by Transgender Individuals ####
 
-Memorandum of President of the United States, Aug. 25, 2017, 82 F.R. 41319, provided:
+Memorandum of President of the United States, Aug. 25, 2017, 82 F.R. 41319, which related to transgender military personnel, was revoked by Memorandum of President of the United States, §1, Mar. 23, 2018, 83 F.R. 13367, set out below.
+
+Memorandum of President of the United States, Mar. 23, 2018, 83 F.R. 13367, provided:
 
 Memorandum for the Secretary of Defense [and] the Secretary of Homeland Security
 
-Section 1. *Policy*. (a) Until June 2016, the Department of Defense (DoD) and the Department of Homeland Security (DHS) (collectively, the Departments) generally prohibited openly transgender individuals from accession into the United States military and authorized the discharge of such individuals. Shortly before President Obama left office, however, his Administration dismantled the Departments' established framework by permitting transgender individuals to serve openly in the military, authorizing the use of the Departments' resources to fund sex-reassignment surgical procedures, and permitting accession of such individuals after July 1, 2017. The Secretary of Defense and the Secretary of Homeland Security have since extended the deadline to alter the currently effective accession policy to January 1, 2018, while the Departments continue to study the issue.
+Pursuant to my memorandum of August 25, 2017, "Military Service by Transgender Individuals," [formerly set out above] the Secretary of Defense, in consultation with the Secretary of Homeland Security, submitted to me a memorandum and report concerning military service by transgender individuals.
 
-In my judgment, the previous Administration failed to identify a sufficient basis to conclude that terminating the Departments' longstanding policy and practice would not hinder military effectiveness and lethality, disrupt unit cohesion, or tax military resources, and there remain meaningful concerns that further study is needed to ensure that continued implementation of last year's policy change would not have those negative effects.
+These documents set forth the policies on this issue that the Secretary of Defense, in the exercise of his independent judgment, has concluded should be adopted by the Department of Defense. The Secretary of Homeland Security concurs with these policies with respect to the U.S. Coast Guard.
 
-(b) Accordingly, by the authority vested in me as President and as Commander in Chief of the Armed Forces of the United States under the Constitution and the laws of the United States of America, including Article II of the Constitution, I am directing the Secretary of Defense, and the Secretary of Homeland Security with respect to the U.S. Coast Guard, to return to the longstanding policy and practice on military service by transgender individuals that was in place prior to June 2016 until such time as a sufficient basis exists upon which to conclude that terminating that policy and practice would not have the negative effects discussed above. The Secretary of Defense, after consulting with the Secretary of Homeland Security, may advise me at any time, in writing, that a change to this policy is warranted.
+Among other things, the policies set forth by the Secretary of Defense state that transgender persons with a history or diagnosis of gender dysphoria—individuals who the policies state may require substantial medical treatment, including medications and surgery—are disqualified from military service except under certain limited circumstances.
 
-Sec. 2. *Directives*. The Secretary of Defense, and the Secretary of Homeland Security with respect to the U.S. Coast Guard, shall:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
 
-(a) maintain the currently effective policy regarding accession of transgender individuals into military service beyond January 1, 2018, until such time as the Secretary of Defense, after consulting with the Secretary of Homeland Security, provides a recommendation to the contrary that I find convincing; and
+Section 1. I hereby revoke my memorandum of August 25, 2017, "Military Service by Transgender Individuals," and any other directive I may have made with respect to military service by transgender individuals.
 
-(b) halt all use of DoD or DHS resources to fund sex-reassignment surgical procedures for military personnel, except to the extent necessary to protect the health of an individual who has already begun a course of treatment to reassign his or her sex.
+Sec. 2. The Secretary of Defense, and the Secretary of Homeland Security, with respect to the U.S. Coast Guard, may exercise their authority to implement any appropriate policies concerning military service by transgender individuals.
 
-Sec. 3. *Effective Dates and Implementation*. Section 2(a) of this memorandum shall take effect on January 1, 2018. Sections 1(b) and 2(b) of this memorandum shall take effect on March 23, 2018. By February 21, 2018, the Secretary of Defense, in consultation with the Secretary of Homeland Security, shall submit to me a plan for implementing both the general policy set forth in section 1(b) of this memorandum and the specific directives set forth in section 2 of this memorandum. The implementation plan shall adhere to the determinations of the Secretary of Defense, made in consultation with the Secretary of Homeland Security, as to what steps are appropriate and consistent with military effectiveness and lethality, budgetary constraints, and applicable law. As part of the implementation plan, the Secretary of Defense, in consultation with the Secretary of Homeland Security, shall determine how to address transgender individuals currently serving in the United States military. Until the Secretary has made that determination, no action may be taken against such individuals under the policy set forth in section 1(b) of this memorandum.
-
-Sec. 4. *Severability*. If any provision of this memorandum, or the application of any provision of this memorandum, is held to be invalid, the remainder of this memorandum and other dissimilar applications of the provision shall not be affected.
-
-Sec. 5. *General Provisions*. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+Sec. 3. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 

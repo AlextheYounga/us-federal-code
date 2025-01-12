@@ -64,7 +64,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 #### Amendment of Subsection (h)(1) ####
 
-Pub. L. 114–328, div. E, title LX, §5430(c), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2950, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (h)(1) of this section is amended by inserting before the period at the end ", except that the term 'sexual act' also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person". See 2016 Amendment note below. For text of this section after amendment on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
+Pub. L. 114–328, div. E, title LX, §5430(c), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2950, 2967, and Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided that, except as otherwise provided, effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, subsection (h)(1) of this section is amended by inserting before the period at the end ", except that the term 'sexual act' also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person". See 2016 Amendment note below. For text of this section after amendment on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
 
 #### Amendments ####
 
@@ -74,7 +74,7 @@ Pub. L. 114–328, div. E, title LX, §5430(c), title LXIII, §5542, Dec. 23, 20
 
 #### Effective Date of 2016 Amendment ####
 
-Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
+Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
 #### Effective Date of 2013 Amendment ####
 
