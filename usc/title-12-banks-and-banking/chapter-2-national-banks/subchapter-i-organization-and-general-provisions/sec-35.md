@@ -4,19 +4,19 @@ Any bank incorporated by special law of any State or of the United States or org
 
 The Comptroller of the Currency may, in his discretion and subject to such conditions as he may prescribe, permit such converting bank to retain and carry at a value determined by the Comptroller such of the assets of such converting bank as do not conform to the legal requirements relative to assets acquired and held by national banking associations. The Comptroller of the Currency may not approve the conversion of a State bank or State savings association to a national banking association or Federal savings association during any period in which the State bank or State savings association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, a State bank supervisor or the appropriate Federal banking agency with respect to a significant supervisory matter or a final enforcement action by a State Attorney General.
 
-(R.S. §5154; Dec. 23, 1913, ch. 6, §8, 38 Stat. 258; Aug. 23, 1935, ch. 614, title III, §312, 49 Stat. 711; Pub. L. 97–457, §19(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, §612(b), July 21, 2010, 124 Stat. 1612.)
+([R.S. §5154](/statviewer.htm?volume=rs&page=996); [Dec. 23, 1913, ch. 6, §8, 38 Stat. 258](/statviewer.htm?volume=38&page=258); [Aug. 23, 1935, ch. 614, title III, §312, 49 Stat. 711](/statviewer.htm?volume=49&page=711); [Pub. L. 97–457, §19(b), Jan. 12, 1983, 96 Stat. 2509](/statviewer.htm?volume=96&page=2509); [Pub. L. 111–203, title VI, §612(b), July 21, 2010, 124 Stat. 1612](/statviewer.htm?volume=124&page=1612).)
 
 #### References in Text ####
 
-This Act, referred to in first par., may refer to the Federal Reserve Act, act Dec. 23, 1913, from which this wording is derived; or section 5154 of the Revised Statutes which the Federal Reserve Act amended; or act June 3, 1864, from which R.S. §5154 was derived; or Congress might have intended to refer to the preceding provisions of the 1913 amendment. Similar reference in R.S. §5154 prior to 1913 amendment was to "this Title," meaning title 62 of the Revised Statutes, which title comprised the National Bank Act (June 3, 1864, ch. 106, 13 Stat. 99). See section 38 of this title. Note also specific reference to the Federal Reserve Act and the National Banking Act in first par.
+This Act, referred to in first par., may refer to the Federal Reserve Act, act Dec. 23, 1913, from which this wording is derived; or [section 5154 of the Revised Statutes](/statviewer.htm?volume=rs&page=996) which the Federal Reserve Act amended; or act June 3, 1864, from which [R.S. §5154](/statviewer.htm?volume=rs&page=996) was derived; or Congress might have intended to refer to the preceding provisions of the 1913 amendment. Similar reference in [R.S. §5154](/statviewer.htm?volume=rs&page=996) prior to 1913 amendment was to "this Title," meaning title 62 of the Revised Statutes, which title comprised the National Bank Act ([June 3, 1864, ch. 106, 13 Stat. 99](/statviewer.htm?volume=13&page=99)). See section 38 of this title. Note also specific reference to the Federal Reserve Act and the National Banking Act in first par.
 
-The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in text, is act [Dec. 23, 1913, ch. 6, 38 Stat. 251](/statviewer.htm?volume=38&page=251), as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The National Banking Act, referred to in text, is probably intended to be a reference to the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code see References in Text note set out under section 38 of this title.
+The National Banking Act, referred to in text, is probably intended to be a reference to the National Bank Act, act [June 3, 1864, ch. 106, 13 Stat. 99](/statviewer.htm?volume=13&page=99), as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code see References in Text note set out under section 38 of this title.
 
 #### Codification ####
 
-R.S. §5154 derived from act June 3, 1864, ch. 106, §44, 13 Stat. 112, which was the National Bank Act. See section 38 of this title.
+[R.S. §5154](/statviewer.htm?volume=rs&page=996) derived from act [June 3, 1864, ch. 106, §44, 13 Stat. 112](/statviewer.htm?volume=13&page=112), which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 
@@ -36,7 +36,7 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 #### Exception to Prohibition on Approval of Conversions ####
 
-Pub. L. 111–203, title VI, §612(d), July 21, 2010, 124 Stat. 1613, provided that: "The prohibition on the approval of conversions under the amendments made by subsections (a), (b), and (c) [enacting section 214d of this title and amending this section and section 1464 of this title] shall not apply, if—
+[Pub. L. 111–203, title VI, §612(d), July 21, 2010, 124 Stat. 1613](/statviewer.htm?volume=124&page=1613), provided that: "The prohibition on the approval of conversions under the amendments made by subsections (a), (b), and (c) [enacting section 214d of this title and amending this section and section 1464 of this title] shall not apply, if—
 
 "(1) the Federal banking agency that would be the appropriate Federal banking agency after the proposed conversion gives the appropriate Federal banking agency or State bank supervisor that issued the cease and desist order (or other formal enforcement order) or memorandum of understanding, as appropriate, written notice of the proposed conversion including a plan to address the significant supervisory matter in a manner that is consistent with the safe and sound operation of the institution;
 
@@ -50,7 +50,7 @@ Pub. L. 111–203, title VI, §612(d), July 21, 2010, 124 Stat. 1613, provided t
 
 #### Notification of Pending Enforcement Actions ####
 
-Pub. L. 111–203, title VI, §612(e), July 21, 2010, 124 Stat. 1613, provided that:
+[Pub. L. 111–203, title VI, §612(e), July 21, 2010, 124 Stat. 1613](/statviewer.htm?volume=124&page=1613), provided that:
 
 "(1) Copy of conversion application.—At the time an insured depository institution files a conversion application, the insured depository institution shall transmit a copy of the conversion application to—
 

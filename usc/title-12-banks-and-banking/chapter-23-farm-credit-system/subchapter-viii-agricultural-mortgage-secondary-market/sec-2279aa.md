@@ -2,93 +2,151 @@
 
 For purposes of this subchapter:
 
+[]()
+
 #### (1) Agricultural real estate ####
 
 The term "agricultural real estate" means—
 
+[]()
+
 (A) a parcel or parcels of land, or a building or structure affixed to the parcel or parcels, that—
+
+[]()
 
 (i) is used for the production of one or more agricultural commodities or products; and
 
+[]()
+
 (ii) consists of a minimum acreage or is used in producing minimum annual receipts, as determined by the Corporation; or
+
+[]()
 
 (B) a principal residence that is a single family, moderate-priced residential dwelling located in a rural area, excluding—
 
+[]()
+
 (i) any community having a population in excess of 2,500 inhabitants; and
 
+[]()
+
 (ii) any dwelling, excluding the land to which the dwelling is affixed, with a value exceeding $100,000 (as adjusted for inflation).
+
+[]()
 
 #### (2) Board ####
 
 The term "Board" means—
 
+[]()
+
 (A) the interim board of directors established in section 2279aa–2(a) of this title; and
+
+[]()
 
 (B) the permanent board of directors established in section 2279aa–2(b) of this title;
 
 as the case may be.
 
+[]()
+
 #### (3) Certified facility ####
 
 The term "certified facility" means—
 
+[]()
+
 (A) an agricultural mortgage marketing facility that is certified under section 2279aa–5 of this title; or
 
+[]()
+
 (B) the Corporation and any affiliate thereof.
+
+[]()
 
 #### (4) Corporation ####
 
 The term "Corporation" means the Federal Agricultural Mortgage Corporation established in section 2279aa–1 of this title.
 
+[]()
+
 #### (5) Guarantee ####
 
 The term "guarantee" means the guarantee of timely payment of the principal and interest on securities representing interests in, or obligations backed by, pools of qualified loans, in accordance with this subchapter.
+
+[]()
 
 #### (6) Interim board ####
 
 The term "interim board" means the interim board of directors established in section 2279aa–2(a) of this title.
 
+[]()
+
 #### (7) Originator ####
 
 The term "originator" means any Farm Credit System institution, bank, insurance company, business and industrial development company, savings and loan association, association of agricultural producers, agricultural cooperative, commercial finance company, trust company, credit union, or other entity that originates and services agricultural mortgage loans.
+
+[]()
 
 #### (8) Permanent board ####
 
 The term "permanent board" means the permanent board of directors established in section 2279aa–2(b) of this title.
 
+[]()
+
 #### (9) Qualified loan ####
 
 The term "qualified loan" means an obligation—
 
+[]()[]()
+
 (A)(i) that is secured by a fee-simple or leasehold mortgage with status as a first lien, on agricultural real estate located in the United States that is not subject to any legal or equitable claims deriving from a preceding fee-simple or leasehold mortgage;
+
+[]()
 
 (ii) of—
 
+[]()
+
 (I) a citizen or national of the United States or an alien lawfully admitted for permanent residence in the United States; or
+
+[]()
 
 (II) a private corporation or partnership whose members, stockholders, or partners holding a majority interest in the corporation or partnership are individuals described in subclause (I); and
 
+[]()
+
 (iii) of a person, corporation, or partnership that has training or farming experience that, under criteria established by the Corporation, is sufficient to ensure a reasonable likelihood that the loan will be repaid according to its terms;
+
+[]()
 
 (B) that is the portion of a loan guaranteed by the Secretary of Agriculture pursuant to the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), except that—
 
+[]()
+
 (i) subsections (b) through (d) of section 2279aa–6 of this title, and sections 2279aa–8 and 2279aa–9 of this title, shall not apply to the portion of a loan guaranteed by the Secretary or to an obligation, pool, or security representing an interest in or obligation backed by a pool of obligations relating to the portion of a loan guaranteed by the Secretary; and
+
+[]()
 
 (ii) the portion of a loan guaranteed by the Secretary shall be considered to meet all standards for qualified loans for all purposes under this chapter; or
 
+[]()
+
 (C) that is a loan, or an interest in a loan, for an electric or telephone facility by a cooperative lender to a borrower that has received, or is eligible to receive, a loan under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.).
+
+[]()
 
 #### (10) State ####
 
 The term "State" has the meaning given such term in section 2277a of this title.
 
-(Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165; Pub. L. 110–234, title V, §5406(a), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(a), June 18, 2008, 122 Stat. 1664, 1920.)
+(Pub. L. 92–181, title VIII, §8.0, as added [Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686](/statviewer.htm?volume=101&page=1686); amended [Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005](/statviewer.htm?volume=102&page=1005); [Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834](/statviewer.htm?volume=104&page=3834); [Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165](/statviewer.htm?volume=110&page=163); [Pub. L. 110–234, title V, §5406(a), May 22, 2008, 122 Stat. 1158](/statviewer.htm?volume=122&page=1158); [Pub. L. 110–246, §4(a), title V, §5406(a), June 18, 2008, 122 Stat. 1664](/statviewer.htm?volume=122&page=1664), [1920](/statviewer.htm?volume=122&page=1920).)
 
 #### References in Text ####
 
-The Consolidated Farm and Rural Development Act, referred to in par. (9)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in par. (9)(B), is title III of [Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307](/statviewer.htm?volume=75&page=307), as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Rural Electrification Act of 1936, referred to in par. (9)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in par. (9)(C), is act [May 20, 1936, ch. 432, 49 Stat. 1363](/statviewer.htm?volume=49&page=1363), which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 #### Codification ####
 
@@ -132,7 +190,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Statement of Purpose ####
 
-Pub. L. 100–233, title VII, §701, Jan. 6, 1988, 101 Stat. 1686, provided that: "It is the purpose of this subtitle [subtitle A (§§701–705) of title VII of Pub. L. 100–233, enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance, and enacting provisions set out as a note below]—
+[Pub. L. 100–233, title VII, §701, Jan. 6, 1988, 101 Stat. 1686](/statviewer.htm?volume=101&page=1686), provided that: "It is the purpose of this subtitle [subtitle A (§§701–705) of title VII of Pub. L. 100–233, enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance, and enacting provisions set out as a note below]—
 
 "(1) to establish a corporation chartered by the Federal Government;
 
@@ -150,4 +208,4 @@ Pub. L. 100–233, title VII, §701, Jan. 6, 1988, 101 Stat. 1686, provided that
 
 #### GAO Studies ####
 
-Pub. L. 100–233, title VII, §704, Jan. 6, 1988, 101 Stat. 1706, as amended by Pub. L. 100–399, title VI, §603, Aug. 17, 1988, 102 Stat. 1006, directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§701–705) of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.
+[Pub. L. 100–233, title VII, §704, Jan. 6, 1988, 101 Stat. 1706](/statviewer.htm?volume=101&page=1706), as amended by [Pub. L. 100–399, title VI, §603, Aug. 17, 1988, 102 Stat. 1006](/statviewer.htm?volume=102&page=1006), directed Comptroller General of United States to conduct studies of (1) implementation of amendments made by subtitle A (§§701–705) of title VII of Pub. L. 100–233 (which enacted this subchapter and amended sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance) by Federal Agricultural Mortgage Corporation and effect of operations of Corporation on producers, Farm Credit System, and other lenders, and capital markets, (2) feasibility and appropriateness of promoting establishment of a secondary market for securities representing interests in, or obligations backed by, pools of agricultural real estate loans for which a guarantee had not been provided by Federal Agricultural Mortgage Corporation, and (3) feasibility of expanding authority granted under amendments made by such subtitle A to authorize sale of securities based on or backed by a trust or pool consisting of loans made to farm-related and rural small businesses, and required, not later than Jan. 6, 1990, Comptroller General to transmit to Congress a report on the studies, including therein such recommendations for administrative action and legislation as might be appropriate.

@@ -131,3 +131,17 @@ Sec.
 1870. House Historic Buildings Revitalization Trust Fund.
 
 1871. Expired appropriations available for deposit into Employees' Compensation Fund.
+
+#### SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FALLEN HEROES ####
+
+1881.
+
+Definitions. 1881a.
+
+Providing Capitol-flown flags for families of fallen heroes. 1881b.
+
+Regulations and procedures. 1881c.
+
+Authorization of appropriations. 1881d.
+
+Effective date.

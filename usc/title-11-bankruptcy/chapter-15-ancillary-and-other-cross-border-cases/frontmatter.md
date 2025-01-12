@@ -78,6 +78,6 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, §231, Oct. 27, 1986, 100 Stat. 3103.
+A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot program for a United States trustee system, prior to repeal by [Pub. L. 99–554, title II, §231, Oct. 27, 1986, 100 Stat. 3103](/statviewer.htm?volume=100&page=3103).
 
 [<sup>1</sup> So in original. Section catchline amended by Pub. L. 111–327 without corresponding amendment of chapter analysis.](#CHAPTER15_1)

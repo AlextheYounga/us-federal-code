@@ -92,14 +92,14 @@ Sec.
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–327, §2(a)(50), Dec. 22, 2010, 124 Stat. 3562, substituted "and master netting agreements" for "or master netting agreements" in item 562.
+**2010**—[Pub. L. 111–327, §2(a)(50), Dec. 22, 2010, 124 Stat. 3562](/statviewer.htm?volume=124&page=3562), substituted "and master netting agreements" for "or master netting agreements" in item 562.
 
-**2005**—Pub. L. 109–8, title II, §§227(b), 228(b), 229(b), title VII, §704(b), title IX, §§907(k)(2), (p)(1), 910(a)(2), Apr. 20, 2005, 119 Stat. 69, 71, 72, 126, 181, 182, 184, added items 511, 526 to 528, 561 and 562 and substituted "Contractual right to liquidate, terminate, or accelerate a securities contract" for "Contractual right to liquidate a securities contract" in item 555, "Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract" for "Contractual right to liquidate a commodity contract or forward contract" in item 556, "Contractual right to liquidate, terminate, or accelerate a repurchase agreement" for "Contractual right to liquidate a repurchase agreement" in item 559, and "Contractual right to liquidate, terminate, or accelerate a swap agreement" for "Contractual right to terminate a swap agreement" in item 560.
+**2005**—[Pub. L. 109–8, title II, §§227(b), 228(b), 229(b), title VII, §704(b), title IX, §§907(k)(2), (p)(1), 910(a)(2), Apr. 20, 2005, 119 Stat. 69](/statviewer.htm?volume=119&page=69), [71](/statviewer.htm?volume=119&page=71), [72](/statviewer.htm?volume=119&page=72), [126](/statviewer.htm?volume=119&page=126), [181](/statviewer.htm?volume=119&page=181), [182](/statviewer.htm?volume=119&page=182), [184](/statviewer.htm?volume=119&page=184), added items 511, 526 to 528, 561 and 562 and substituted "Contractual right to liquidate, terminate, or accelerate a securities contract" for "Contractual right to liquidate a securities contract" in item 555, "Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract" for "Contractual right to liquidate a commodity contract or forward contract" in item 556, "Contractual right to liquidate, terminate, or accelerate a repurchase agreement" for "Contractual right to liquidate a repurchase agreement" in item 559, and "Contractual right to liquidate, terminate, or accelerate a swap agreement" for "Contractual right to terminate a swap agreement" in item 560.
 
-**1990**—Pub. L. 101–311, title I, §106(b), June 25, 1990, 104 Stat. 268, added item 560.
+**1990**—[Pub. L. 101–311, title I, §106(b), June 25, 1990, 104 Stat. 268](/statviewer.htm?volume=104&page=268), added item 560.
 
-**1986**—Pub. L. 99–554, title II, §283(q), Oct. 27, 1986, 100 Stat. 3118, amended items 557 to 559 generally, substituting "interests in, and abandonment or other disposition of grain assets" for "in and disposition of grain" in item 557.
+**1986**—[Pub. L. 99–554, title II, §283(q), Oct. 27, 1986, 100 Stat. 3118](/statviewer.htm?volume=100&page=3118), amended items 557 to 559 generally, substituting "interests in, and abandonment or other disposition of grain assets" for "in and disposition of grain" in item 557.
 
-**1984**—Pub. L. 98–353, title III, §§352(b), 396(b), 470(b), July 10, 1984, 98 Stat. 361, 366, 380, added items 557, 558, and 559.
+**1984**—[Pub. L. 98–353, title III, §§352(b), 396(b), 470(b), July 10, 1984, 98 Stat. 361](/statviewer.htm?volume=98&page=361), [366](/statviewer.htm?volume=98&page=366), [380](/statviewer.htm?volume=98&page=380), added items 557, 558, and 559.
 
-**1982**—Pub. L. 97–222, §6(b), July 27, 1982, 96 Stat. 237, added items 555 and 556.
+**1982**—[Pub. L. 97–222, §6(b), July 27, 1982, 96 Stat. 237](/statviewer.htm?volume=96&page=237), added items 555 and 556.

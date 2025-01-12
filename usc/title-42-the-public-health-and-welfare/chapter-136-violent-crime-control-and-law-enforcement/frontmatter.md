@@ -392,7 +392,7 @@ Sec.
 
 14044g. Combat Human Trafficking Act.
 
-14044h. Establishing a National Strategy to Combat Human Trafficking.
+14044h. Establishing a national strategy to combat human trafficking.
 
 #### Part P—Miscellaneous Authorities ####
 

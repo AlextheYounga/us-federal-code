@@ -2,7 +2,7 @@
 
 Subject to such limitations, restrictions, and regulations as the Board of Governors of the Federal Reserve System may prescribe, any Federal reserve bank may make advances to any individual, partnership, or corporation on the promissory notes of such individual, partnership, or corporation secured by direct obligations of the United States or by any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by any agency of the United States. Such advances shall be made for periods not exceeding 90 days and shall bear interest at rates fixed from time to time by the Federal reserve bank, subject to the review and determination of the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, §13 (par.), as added Mar. 9, 1933, ch. 1, title IV, §403, 48 Stat. 7; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 90–505, §3(b), Sept. 21, 1968, 82 Stat. 856.)
+(Dec. 23, 1913, ch. 6, §13 (par.), as added [Mar. 9, 1933, ch. 1, title IV, §403, 48 Stat. 7](/statviewer.htm?volume=48&page=7); amended [Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704](/statviewer.htm?volume=49&page=704); [Pub. L. 90–505, §3(b), Sept. 21, 1968, 82 Stat. 856](/statviewer.htm?volume=82&page=856).)
 
 #### Codification ####
 

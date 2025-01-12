@@ -2,11 +2,11 @@
 
 The salaries of the Deputy Comptrollers and of all national bank examiners and assistant examiners assigned to duty in the office of the bureau in Washington in connection with the supervision of national banks shall be considered part of the expenses of the examinations provided for by subchapter XV of chapter 3 of this title.
 
-(Mar. 4, 1923, ch. 252, title II, §209(b), 42 Stat. 1467; Pub. L. 86–251, §1(c)(2), Sept. 9, 1959, 73 Stat. 488.)
+([Mar. 4, 1923, ch. 252, title II, §209(b), 42 Stat. 1467](/statviewer.htm?volume=42&page=1467); [Pub. L. 86–251, §1(c)(2), Sept. 9, 1959, 73 Stat. 488](/statviewer.htm?volume=73&page=488).)
 
 #### References in Text ####
 
-Subchapter XV [§481 et seq.] of chapter 3 of this title, referred to in text, was in the original a reference to section 5240 of the Revised Statutes.
+Subchapter XV [§481 et seq.] of chapter 3 of this title, referred to in text, was in the original a reference to [section 5240 of the Revised Statutes](/statviewer.htm?volume=rs&page=1013).
 
 #### Codification ####
 

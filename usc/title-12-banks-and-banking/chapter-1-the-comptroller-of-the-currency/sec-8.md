@@ -2,11 +2,11 @@
 
 The Comptroller of the Currency shall employ, from time to time, the necessary clerks, to be appointed and classified by the Secretary of the Treasury, to discharge such duties as the comptroller shall direct.
 
-(R.S. §328.)
+([R.S. §328](/statviewer.htm?volume=rs&page=55).)
 
 #### Codification ####
 
-R.S. §328 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 100, which was the National Bank Act. See section 38 of this title.
+[R.S. §328](/statviewer.htm?volume=rs&page=55) derived from act [June 3, 1864, ch. 106, §1, 13 Stat. 100](/statviewer.htm?volume=13&page=100), which was the National Bank Act. See section 38 of this title.
 
 #### Exception as to Transfer of Functions ####
 

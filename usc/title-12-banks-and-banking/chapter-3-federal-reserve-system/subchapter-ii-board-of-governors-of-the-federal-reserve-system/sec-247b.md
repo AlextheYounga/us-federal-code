@@ -2,7 +2,7 @@
 
 The Vice Chairman for Supervision shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives and at semi-annual hearings regarding the efforts, activities, objectives, and plans of the Board with respect to the conduct of supervision and regulation of depository institution holding companies and other financial firms supervised by the Board.
 
-(Dec. 23, 1913, ch. 6, §10(12), as added Pub. L. 111–203, title XI, §1108(b), July 21, 2010, 124 Stat. 2126.)
+(Dec. 23, 1913, ch. 6, §10(12), as added [Pub. L. 111–203, title XI, §1108(b), July 21, 2010, 124 Stat. 2126](/statviewer.htm?volume=124&page=2126).)
 
 #### Codification ####
 

@@ -1,136 +1,224 @@
 ### §93. Violation of provisions of chapter ###
 
+[]()
+
 #### (a) Forfeiture of franchise; personal liability of directors ####
 
 If the directors of any national banking association shall knowingly violate, or knowingly permit any of the officers, agents, or servants of the association to violate any of the provisions of title 62 of the Revised Statutes, all the rights, privileges, and franchises of the association shall be thereby forfeited. Such violation shall, however, be determined and adjudged by a proper district or Territorial court of the United States in a suit brought for that purpose by the Comptroller of the Currency, in his own name, before the association shall be declared dissolved. And in cases of such violation, every director who participated in or assented to the same shall be held liable in his personal and individual capacity for all damages which the association, its shareholders, or any other person, shall have sustained in consequence of such violation.
 
+[]()
+
 #### (b) Civil money penalty ####
+
+[]()
 
 #### (1) First tier ####
 
 Any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such association who, violates any provision of title 62 of the Revised Statutes or any of the provisions of section 92a of this title, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
+[]()
+
 #### (2) Second tier ####
 
 Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such association who, commits any violation described in paragraph (1) which— <sup><a href="#93_1_target" name="93_1">1</a></sup>
 
+[]()[]()
+
 (A)(i) commits any violation described in any <sup><a href="#93_2_target" name="93_2">2</a></sup> paragraph (1);
+
+[]()
 
 (ii) recklessly engages in an unsafe or unsound practice in conducting the affairs of such association; or
 
+[]()
+
 (iii) breaches any fiduciary duty;
+
+[]()
 
 (B) which violation, practice, or breach—
 
+[]()
+
 (i) is part of a pattern of misconduct;
 
+[]()
+
 (ii) causes or is likely to cause more than a minimal loss to such association; or
+
+[]()
 
 (iii) results in pecuniary gain or other benefit to such party,
 
 shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation, practice, or breach continues.
 
+[]()
+
 #### (3) Third tier ####
 
 Notwithstanding paragraphs (1) and (2), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such association who—
 
+[]()
+
 (A) knowingly—
+
+[]()
 
 (i) commits any violation described in paragraph (1);
 
+[]()
+
 (ii) engages in any unsafe or unsound practice in conducting the affairs of such association; or
 
+[]()
+
 (iii) breaches any fiduciary duty; and
+
+[]()
 
 (B) knowingly or recklessly causes a substantial loss to such association or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
 
 shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under paragraph (4) for each day during which such violation, practice, or breach continues.
 
+[]()
+
 #### (4) Maximum amounts of penalties for any violation described in paragraph (3) ####
 
 The maximum daily amount of any civil penalty which may be assessed pursuant to paragraph (3) for any violation, practice, or breach described in such paragraph is—
 
+[]()
+
 (A) in the case of any person other than a national banking association, an amount to not <sup><a href="#93_3_target" name="93_3">3</a></sup> exceed $1,000,000; and
+
+[]()
 
 (B) in the case of a national banking association, an amount not to exceed the lesser of—
 
+[]()
+
 (i) $1,000,000; or
 
+[]()
+
 (ii) 1 percent of the total assets of such association.
+
+[]()
 
 #### (5) Assessment; etc. ####
 
 Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
+[]()
+
 #### (6) Hearing ####
 
 The association or other person against whom any penalty is assessed under this subsection shall be afforded an agency hearing if such association or person submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this subsection.
+
+[]()
 
 #### (7) Disbursement ####
 
 All penalties collected under authority of this subsection shall be deposited into the Treasury.
 
+[]()
+
 #### (8) "Violate" defined ####
 
 For purposes of this section, the term "violate" includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+
+[]()
 
 #### (12) <sup><a href="#93_4_target" name="93_4">4</a></sup> Regulations ####
 
 The Comptroller shall prescribe regulations establishing such procedures as may be necessary to carry out this subsection.
 
+[]()
+
 #### (c) Notice under this section after separation from service ####
 
 The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such an association (including a separation caused by the closing of such an association) shall not affect the jurisdiction and authority of the Comptroller of the Currency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such association (whether such date occurs before, on, or after August 9, 1989).
 
+[]()
+
 #### (d) Forfeiture of franchise for money laundering or cash transaction reporting offenses ####
+
+[]()
 
 #### (1) In general ####
 
+[]()
+
 #### (A) Conviction of title 18 offenses ####
+
+[]()
 
 #### (i) Duty to notify ####
 
 If a national bank, a Federal branch, or Federal agency has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Comptroller of the Currency a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
 
+[]()
+
 #### (ii) Notice of termination; pretermination hearing ####
 
 After receiving written notification from the Attorney General of such a conviction, the Comptroller of the Currency shall issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
+
+[]()
 
 #### (B) Conviction of title 31 offenses ####
 
 If a national bank, a Federal branch, or a Federal agency is convicted of any criminal offense under section 5322 or 5324 of title 31, after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
 
+[]()
+
 #### (C) Judicial review ####
 
 Section 1818(h) of this title shall apply to any proceeding under this subsection.
+
+[]()
 
 #### (2) Factors to be considered ####
 
 In determining whether a franchise shall be forfeited under paragraph (1), the Comptroller of the Currency shall take into account the following factors:
 
+[]()
+
 (A) The extent to which directors or senior executive officers of the national bank, Federal branch, or Federal agency knew of, or were involved in, the commission of the money laundering offense of which the bank, Federal branch, or Federal agency was found guilty.
+
+[]()
 
 (B) The extent to which the offense occurred despite the existence of policies and procedures within the national bank, Federal branch, or Federal agency which were designed to prevent the occurrence of any such offense.
 
+[]()
+
 (C) The extent to which the national bank, Federal branch, or Federal agency has fully cooperated with law enforcement authorities with respect to the investigation of the money laundering offense of which the bank, Federal branch, or Federal agency was found guilty.
+
+[]()
 
 (D) The extent to which the national bank, Federal branch, or Federal agency has implemented additional internal controls (since the commission of the offense of which the bank, Federal branch, or Federal agency was found guilty) to prevent the occurrence of any other money laundering offense.
 
+[]()
+
 (E) The extent to which the interest of the local community in having adequate deposit and credit services available would be threatened by the forfeiture of the franchise.
+
+[]()
 
 #### (3) Successor liability ####
 
 This subsection shall not apply to a successor to the interests of, or a person who acquires, a bank, a Federal branch, or a Federal agency that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
 
+[]()
+
 #### (4) "Senior executive officer" defined ####
 
 The term "senior executive officer" has the same meaning as in regulations prescribed under section 1831i(f) of this title.
+
+[]()
 
 #### (d) <sup><a href="#93_5_target" name="93_5">5</a></sup> Authority ####
 
 The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
+([R.S. §5239](/statviewer.htm?volume=rs&page=1012); [Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167](/statviewer.htm?volume=36&page=1167); [Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643](/statviewer.htm?volume=92&page=3643); [Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523](/statviewer.htm?volume=96&page=1523); [Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510](/statviewer.htm?volume=96&page=2510); [Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460](/statviewer.htm?volume=103&page=460), [469](/statviewer.htm?volume=103&page=469); [Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045](/statviewer.htm?volume=106&page=4045); [Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149](/statviewer.htm?volume=108&page=2149); [Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232](/statviewer.htm?volume=108&page=2232), [2253](/statviewer.htm?volume=108&page=2253), [2254](/statviewer.htm?volume=108&page=2254).)
 
 #### References in Text ####
 
@@ -138,7 +226,7 @@ Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), 
 
 #### Codification ####
 
-R.S. §5239 derived from act June 3, 1864, ch. 106, §53, 13 Stat. 116, which was the National Bank Act. See section 38 of this title.
+[R.S. §5239](/statviewer.htm?volume=rs&page=1012) derived from act [June 3, 1864, ch. 106, §53, 13 Stat. 116](/statviewer.htm?volume=13&page=116), which was the National Bank Act. See section 38 of this title.
 
 Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
 
@@ -164,7 +252,7 @@ Subsec. (c). Pub. L. 101–73, §905(e), added subsec. (c) relating to notice af
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that: "The amendments made by this section [amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act [Aug. 9, 1989], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
+[Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476](/statviewer.htm?volume=103&page=476), provided that: "The amendments made by this section [amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act [Aug. 9, 1989], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
 
 "(1) is not already subject to a notice (initiating an administrative proceeding) issued by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act [12 U.S.C. 1813(q)]) or the National Credit Union Administration Board; and
 
@@ -172,7 +260,7 @@ Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665, provided that: "Any amendment made by this title which provides for the imposition of civil penalties [enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title] shall apply only to violations occurring or continuing after the date of its enactment [Nov. 10, 1978]."
+[Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665](/statviewer.htm?volume=92&page=3665), provided that: "Any amendment made by this title which provides for the imposition of civil penalties [enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title] shall apply only to violations occurring or continuing after the date of its enactment [Nov. 10, 1978]."
 
 #### Exception as to Transfer of Functions ####
 

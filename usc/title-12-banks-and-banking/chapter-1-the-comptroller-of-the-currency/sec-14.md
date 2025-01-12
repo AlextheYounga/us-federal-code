@@ -2,15 +2,15 @@
 
 The Comptroller of the Currency shall make an annual report to Congress. The report required under this section shall include the report required under section 57a(f)(7) <sup><a href="#14_1_target" name="14_1">1</a></sup> of title 15.
 
-(R.S. §333; Feb. 18, 1875, ch. 80, §1, 18 Stat. 317; Aug. 7, 1946, ch. 770, §1(39), 60 Stat. 869; Pub. L. 106–569, title XI, §1103(c), Dec. 27, 2000, 114 Stat. 3031.)
+([R.S. §333](/statviewer.htm?volume=rs&page=55); [Feb. 18, 1875, ch. 80, §1, 18 Stat. 317](/statviewer.htm?volume=18&page=317); [Aug. 7, 1946, ch. 770, §1(39), 60 Stat. 869](/statviewer.htm?volume=60&page=869); [Pub. L. 106–569, title XI, §1103(c), Dec. 27, 2000, 114 Stat. 3031](/statviewer.htm?volume=114&page=3031).)
 
 #### References in Text ####
 
-Section 57a(f)(7) of title 15, referred to in text, was repealed by Pub. L. 111–203, title X, §1092(3), July 21, 2010, 124 Stat. 2095.
+Section 57a(f)(7) of title 15, referred to in text, was repealed by [Pub. L. 111–203, title X, §1092(3), July 21, 2010, 124 Stat. 2095](/statviewer.htm?volume=124&page=2095).
 
 #### Codification ####
 
-R.S. §333 derived from acts June 3, 1864, ch. 106, §61, 13 Stat. 117, and Feb. 19, 1873, ch. 166, 17 Stat. 466. Act June 3, 1864, was the National Bank Act. See section 38 of this title.
+[R.S. §333](/statviewer.htm?volume=rs&page=55) derived from acts [June 3, 1864, ch. 106, §61, 13 Stat. 117](/statviewer.htm?volume=13&page=117), and [Feb. 19, 1873, ch. 166, 17 Stat. 466](/statviewer.htm?volume=17&page=466). Act June 3, 1864, was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

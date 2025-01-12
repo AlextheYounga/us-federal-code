@@ -4,13 +4,13 @@ Should any national banking association in the United States now organized fail 
 
 Such dissolution shall not take away or impair any remedy against such corporation, its stockholders, or officers, for any liability or penalty which shall have been previously incurred.
 
-(Dec. 23, 1913, ch. 6, §2 (pars.), 38 Stat. 252; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
+([Dec. 23, 1913, ch. 6, §2 (pars.), 38 Stat. 252](/statviewer.htm?volume=38&page=252); [Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704](/statviewer.htm?volume=49&page=704).)
 
 #### References in Text ####
 
-This chapter, referred to in text, was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act [Dec. 23, 1913, ch. 6, 38 Stat. 251](/statviewer.htm?volume=38&page=251), known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The national-bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The national-bank Act, referred to in text, is act [June 3, 1864, ch. 106, 13 Stat. 99](/statviewer.htm?volume=13&page=99), which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
 #### Codification ####
 

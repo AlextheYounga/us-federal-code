@@ -1,12 +1,12 @@
-### §§1730f to 1730i. Repealed. Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363 ###
+### §§1730f to 1730i. Repealed. [Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363](/statviewer.htm?volume=103&page=363) ###
 
-Section 1730f, act June 27, 1934, ch. 847, title IV, §413, as added Dec. 22, 1974, Pub. L. 93–533, §11(b), 88 Stat. 1729, related to disclosures with respect to certain federally related mortgage loans, identity of beneficiary interest as condition for loan, and report to Board.
+Section 1730f, act June 27, 1934, ch. 847, title IV, §413, as added Dec. 22, 1974, [Pub. L. 93–533, §11(b), 88 Stat. 1729](/statviewer.htm?volume=88&page=1729), related to disclosures with respect to certain federally related mortgage loans, identity of beneficiary interest as condition for loan, and report to Board.
 
-Section 1730g, act June 27, 1934, ch. 847, title IV, §414, as added Mar. 31, 1980, Pub. L. 96–221, title V, §522, 94 Stat. 165; amended Jan. 12, 1983, Pub. L. 97–457, §33, 96 Stat. 2511, related to insured savings and loan associations.
+Section 1730g, act June 27, 1934, ch. 847, title IV, §414, as added Mar. 31, 1980, [Pub. L. 96–221, title V, §522, 94 Stat. 165](/statviewer.htm?volume=94&page=165); amended Jan. 12, 1983, [Pub. L. 97–457, §33, 96 Stat. 2511](/statviewer.htm?volume=96&page=2511), related to insured savings and loan associations.
 
-Section 1730h, act June 27, 1934, ch. 847, title IV, §415, as added Aug. 10, 1987, Pub. L. 100–86, title IV, §402(b), 101 Stat. 606, related to accounting principles and other standards and requirements.
+Section 1730h, act June 27, 1934, ch. 847, title IV, §415, as added Aug. 10, 1987, [Pub. L. 100–86, title IV, §402(b), 101 Stat. 606](/statviewer.htm?volume=101&page=606), related to accounting principles and other standards and requirements.
 
-Section 1730i, act June 27, 1934, ch. 847, title IV, §416, as added Aug. 10, 1987, Pub. L. 100–86, title IV, §404(b), 101 Stat. 611, related to thrift industry recovery regulations.
+Section 1730i, act June 27, 1934, ch. 847, title IV, §416, as added Aug. 10, 1987, [Pub. L. 100–86, title IV, §404(b), 101 Stat. 611](/statviewer.htm?volume=101&page=611), related to thrift industry recovery regulations.
 
 #### Savings Provision ####
 

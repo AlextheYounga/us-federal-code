@@ -6,11 +6,11 @@ Certificates issued after August 23, 1935, representing shares of stock of the a
 
 After August 23, 1935, no certificate evidencing the stock of any such association shall bear any statement purporting to represent the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934, in holding the bank premises of such association, nor shall the ownership, sale, or transfer of any certificate representing the stock of any such association be conditioned in any manner whatsoever upon the ownership, sale, or transfer of a certificate representing the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934 in holding the bank premises of such association: *Provided*, That this section shall not operate to prevent the ownership, sale, or transfer of stock of any other corporation being conditioned upon the ownership, sale, or transfer of a certificate representing stock of a national banking association.
 
-(R.S. §5139; Feb. 25, 1927, ch. 191, §16, 44 Stat. 1233; June 16, 1933, ch. 89, §18, 48 Stat. 186; Aug. 23, 1935, ch. 614, title III, §§310(a), 335, 49 Stat. 710, 720.)
+([R.S. §5139](/statviewer.htm?volume=rs&page=993); [Feb. 25, 1927, ch. 191, §16, 44 Stat. 1233](/statviewer.htm?volume=44&page=1233); [June 16, 1933, ch. 89, §18, 48 Stat. 186](/statviewer.htm?volume=48&page=186); [Aug. 23, 1935, ch. 614, title III, §§310(a), 335, 49 Stat. 710](/statviewer.htm?volume=49&page=710), [720](/statviewer.htm?volume=49&page=720).)
 
 #### Codification ####
 
-R.S. §5139 derived from act June 3, 1864, ch. 106, §12, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
+[R.S. §5139](/statviewer.htm?volume=rs&page=993) derived from act [June 3, 1864, ch. 106, §12, 13 Stat. 102](/statviewer.htm?volume=13&page=102), which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

@@ -12,7 +12,7 @@ Fourth. The names and places of residence of the shareholders and the number of 
 
 Fifth. The fact that the certificate is made to enable such persons to avail themselves of the advantages of title 62 of the Revised Statutes.
 
-(R.S. §5134; Pub. L. 86–230, §25, Sept. 8, 1959, 73 Stat. 466; Pub. L. 97–320, title IV, §405(b), Oct. 15, 1982, 96 Stat. 1512.)
+([R.S. §5134](/statviewer.htm?volume=rs&page=992); [Pub. L. 86–230, §25, Sept. 8, 1959, 73 Stat. 466](/statviewer.htm?volume=73&page=466); [Pub. L. 97–320, title IV, §405(b), Oct. 15, 1982, 96 Stat. 1512](/statviewer.htm?volume=96&page=1512).)
 
 #### References in Text ####
 
@@ -20,7 +20,7 @@ Title 62 of the Revised Statutes, referred to in par. Fifth, was in the original
 
 #### Codification ####
 
-R.S. §5134 derived from act June 3, 1864, ch. 106, §6, 13 Stat. 101, which was the National Bank Act. See section 38 of this title.
+[R.S. §5134](/statviewer.htm?volume=rs&page=992) derived from act [June 3, 1864, ch. 106, §6, 13 Stat. 101](/statviewer.htm?volume=13&page=101), which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

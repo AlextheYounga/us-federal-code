@@ -1,7 +1,7 @@
 TITLE 11—BANKRUPTCY
 ==========
 
-This title was enacted by Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549
+This title was enacted by [Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549](/statviewer.htm?volume=92&page=2549)
 
 Chap. Sec.
 
@@ -25,11 +25,11 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145, 188, substituted "Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income" for "Adjustment of Debts of Family Farmers with Regular Annual Income" in item for chapter 12 and added item for chapter 15.
+**2005**—[Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145](/statviewer.htm?volume=119&page=145), [188](/statviewer.htm?volume=119&page=188), substituted "Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income" for "Adjustment of Debts of Family Farmers with Regular Annual Income" in item for chapter 12 and added item for chapter 15.
 
-**1994**—Pub. L. 103–394, title V, §501(d)(39), Oct. 22, 1994, 108 Stat. 4147, struck out item for chapter 15, "United States Trustees".
+**1994**—[Pub. L. 103–394, title V, §501(d)(39), Oct. 22, 1994, 108 Stat. 4147](/statviewer.htm?volume=108&page=4147), struck out item for chapter 15, "United States Trustees".
 
-**1986**—Pub. L. 99–554, title II, §257(a), Oct. 27, 1986, 100 Stat. 3114, added item for chapter 12.
+**1986**—[Pub. L. 99–554, title II, §257(a), Oct. 27, 1986, 100 Stat. 3114](/statviewer.htm?volume=100&page=3114), added item for chapter 12.
 
 |*Title 11<br/><br/>Former Sections*|*Title 11<br/><br/>New Sections*|
 |-----------------------------------|--------------------------------|
@@ -1113,15 +1113,15 @@ Chap. Sec.
 
 #### Enacting Clause ####
 
-Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549, provided in part: "The law relating to bankruptcy is codified and enacted as title 11 of the United States Code, entitled 'Bankruptcy', and may be cited as 11 U.S.C. §—."
+[Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549](/statviewer.htm?volume=92&page=2549), provided in part: "The law relating to bankruptcy is codified and enacted as title 11 of the United States Code, entitled 'Bankruptcy', and may be cited as 11 U.S.C. §—."
 
 #### Repeals ####
 
-Pub. L. 95–598, title IV, §401(a), Nov. 6, 1978, 92 Stat. 2682, provided that: "The Bankruptcy Act [act July 1, 1898, ch. 541, 30 Stat. 544, as amended] is repealed."
+[Pub. L. 95–598, title IV, §401(a), Nov. 6, 1978, 92 Stat. 2682](/statviewer.htm?volume=92&page=2682), provided that: "The Bankruptcy Act [act [July 1, 1898, ch. 541, 30 Stat. 544](/statviewer.htm?volume=30&page=544), as amended] is repealed."
 
 #### Effective Date ####
 
-Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682, as amended by Pub. L. 98–249, §1(a), Mar. 31, 1984, 98 Stat. 116; Pub. L. 98–271, §1(a), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §1(a), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §1(a), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§113, 121(a), July 10, 1984, 98 Stat. 343, 345; Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745, provided that:
+[Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682](/statviewer.htm?volume=92&page=2682), as amended by [Pub. L. 98–249, §1(a), Mar. 31, 1984, 98 Stat. 116](/statviewer.htm?volume=98&page=116); [Pub. L. 98–271, §1(a), Apr. 30, 1984, 98 Stat. 163](/statviewer.htm?volume=98&page=163); [Pub. L. 98–299, §1(a), May 25, 1984, 98 Stat. 214](/statviewer.htm?volume=98&page=214); [Pub. L. 98–325, §1(a), June 20, 1984, 98 Stat. 268](/statviewer.htm?volume=98&page=268); [Pub. L. 98–353, title I, §§113, 121(a), July 10, 1984, 98 Stat. 343](/statviewer.htm?volume=98&page=343), [345](/statviewer.htm?volume=98&page=345); [Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745](/statviewer.htm?volume=98&page=1745), provided that:
 
 "(a) Except as otherwise provided in this title [sections 401 to 411], this Act [for classification to the Code, see Tables] shall take effect on October 1, 1979.
 
@@ -1131,15 +1131,15 @@ Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682, as amended by Pu
 
 "(d) The amendments made by sections 217, 218, 230, 247, 302, 314(j), 317, 327, 328, 338, and 411 of this Act shall take effect on the date of enactment of this Act [Nov. 6, 1978].
 
-"(e) [Repealed. Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745]."
+"(e) [Repealed. [Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745](/statviewer.htm?volume=98&page=1745)]."
 
 [Amendment of section 402(b) of Pub. L. 95–598, set out above, by section 113 of Pub. L. 98–353 effective June 27, 1984, see section 122(c) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.]
 
 #### Savings Provision ####
 
-Pub. L. 95–598, title IV, §403, Nov. 6, 1978, 92 Stat. 2683, as amended by Pub. L. 98–353, title III, §382, July 10, 1984, 98 Stat. 364, provided that:
+[Pub. L. 95–598, title IV, §403, Nov. 6, 1978, 92 Stat. 2683](/statviewer.htm?volume=92&page=2683), as amended by [Pub. L. 98–353, title III, §382, July 10, 1984, 98 Stat. 364](/statviewer.htm?volume=98&page=364), provided that:
 
-"(a) A case commenced under the Bankruptcy Act, [act July 1, 1898, ch. 541, 30 Stat. 544, as amended], and all matters and proceedings in or relating to any such case, shall be conducted and determined under such Act as if this Act had not been enacted, and the substantive rights of parties in connection with any such bankruptcy case, matter, or proceeding shall continue to be governed by the law applicable to such case, matter, or proceeding as if the [this] Act had not been enacted.
+"(a) A case commenced under the Bankruptcy Act, [act [July 1, 1898, ch. 541, 30 Stat. 544](/statviewer.htm?volume=30&page=544), as amended], and all matters and proceedings in or relating to any such case, shall be conducted and determined under such Act as if this Act had not been enacted, and the substantive rights of parties in connection with any such bankruptcy case, matter, or proceeding shall continue to be governed by the law applicable to such case, matter, or proceeding as if the [this] Act had not been enacted.
 
 "(b) Notwithstanding subsection (a) of this section, sections 1165, 1167, 1168, 1169, and 1171 of title 11 of the United States Code, as enacted by section 101 of this Act, apply to cases pending under section 77 of the Bankruptcy Act ([former] 11 U.S.C. 205) on the date of enactment of this Act [Nov. 6, 1978] in which the trustee has not filed a plan of reorganization.
 
@@ -1161,30 +1161,30 @@ Pub. L. 95–598, title IV, §403, Nov. 6, 1978, 92 Stat. 2683, as amended by Pu
 
 "(4) any balance in the referees' salary and expense fund in the Treasury on October 1, 1979, shall be transferred to the general fund of the Treasury and the referees' salary and expense fund account shall be closed."
 
-Pub. L. 98–353, title III, §381, July 10, 1984, 98 Stat. 364, provided that: "This subtitle [(§§381, 382) amending section 403(e) of Pub. L. 95–598, set out above] may be cited as the 'Referees Salary and Expense Fund Act of 1984'."
+[Pub. L. 98–353, title III, §381, July 10, 1984, 98 Stat. 364](/statviewer.htm?volume=98&page=364), provided that: "This subtitle [(§§381, 382) amending section 403(e) of Pub. L. 95–598, set out above] may be cited as the 'Referees Salary and Expense Fund Act of 1984'."
 
 #### History of Bankruptcy Acts ####
 
-The bankruptcy laws were revised generally and enacted as Title 11, Bankruptcy, by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549.
+The bankruptcy laws were revised generally and enacted as Title 11, Bankruptcy, by [Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549](/statviewer.htm?volume=92&page=2549).
 
 Earlier bankruptcy laws included the following acts:
 
-Apr. 4, 1800, ch. 19, 2 Stat. 19, repealed Dec. 19, 1803, ch. 6, 2 Stat. 248.
+[Apr. 4, 1800, ch. 19, 2 Stat. 19](/statviewer.htm?volume=2&page=19), repealed [Dec. 19, 1803, ch. 6, 2 Stat. 248](/statviewer.htm?volume=2&page=248).
 
-Aug. 19, 1841, ch. 9, 5 Stat. 440, repealed Mar. 3, 1843, ch. 82, 5 Stat. 614.
+[Aug. 19, 1841, ch. 9, 5 Stat. 440](/statviewer.htm?volume=5&page=440), repealed [Mar. 3, 1843, ch. 82, 5 Stat. 614](/statviewer.htm?volume=5&page=614).
 
-Mar. 2, 1867, ch. 176, 14 Stat. 517, the provisions of which were incorporated in Rev. Stat. Title LXI, §§4972 to 5132, were materially amended June 22, 1874, ch. 390, 18 Stat. 178, and were repealed June 7, 1878, ch. 160, 20 Stat. 99.
+[Mar. 2, 1867, ch. 176, 14 Stat. 517](/statviewer.htm?volume=14&page=517), the provisions of which were incorporated in Rev. Stat. Title LXI, §§4972 to 5132, were materially amended [June 22, 1874, ch. 390, 18 Stat. 178](/statviewer.htm?volume=18&page=178), and were repealed [June 7, 1878, ch. 160, 20 Stat. 99](/statviewer.htm?volume=20&page=99).
 
-The Bankruptcy Act of July 1, 1898, ch. 541, 30 Stat. 544, as amended, sometimes called the Nelson Act, repealed by Pub. L. 95–598.
+The Bankruptcy Act of [July 1, 1898, ch. 541, 30 Stat. 544](/statviewer.htm?volume=30&page=544), as amended, sometimes called the Nelson Act, repealed by Pub. L. 95–598.
 
-The Chandler Act of July 22, 1938, ch. 575, 52 Stat. 883, which revised the Bankruptcy Act generally and materially amended the provisions covering corporate reorganizations, repealed by Pub. L. 95–598.
+The Chandler Act of [July 22, 1938, ch. 575, 52 Stat. 883](/statviewer.htm?volume=52&page=883), which revised the Bankruptcy Act generally and materially amended the provisions covering corporate reorganizations, repealed by Pub. L. 95–598.
 
 #### National Bankruptcy Review Commission ####
 
-Pub. L. 103–394, title VI, Oct. 22, 1994, 108 Stat. 4147, established the National Bankruptcy Review Commission to (1) investigate and study issues and problems relating to title 11, United States Code, (2) evaluate the advisability of proposals and current arrangements with respect to such issues and problems, (3) solicit divergent views of all parties concerned with the operation of the bankruptcy system, and (4) prepare and submit to the Congress, the Chief Justice, and the President a report not later than 2 years after the date of its first meeting, and provided for termination of the Commission 30 days after submission of the report which was submitted on Oct. 20, 1997.
+[Pub. L. 103–394, title VI, Oct. 22, 1994, 108 Stat. 4147](/statviewer.htm?volume=108&page=4147), established the National Bankruptcy Review Commission to (1) investigate and study issues and problems relating to title 11, United States Code, (2) evaluate the advisability of proposals and current arrangements with respect to such issues and problems, (3) solicit divergent views of all parties concerned with the operation of the bankruptcy system, and (4) prepare and submit to the Congress, the Chief Justice, and the President a report not later than 2 years after the date of its first meeting, and provided for termination of the Commission 30 days after submission of the report which was submitted on Oct. 20, 1997.
 
 #### Commission on the Bankruptcy Laws of the United States ####
 
-Pub. L. 91–354, §§1–6, July 24, 1970, 84 Stat. 468, as amended by Pub. L. 92–251, Mar. 17, 1972, 86 Stat. 63; Pub. L. 93–56, §1, July 1, 1973, 87 Stat. 140, established the Commission on the Bankruptcy Laws of the United States, to study and recommend changes to this title, which ceased to exist 30 days after the date of submission of its final report which was required prior to July 31, 1973.
+[Pub. L. 91–354, §§1–6, July 24, 1970, 84 Stat. 468](/statviewer.htm?volume=84&page=468), as amended by [Pub. L. 92–251, Mar. 17, 1972, 86 Stat. 63](/statviewer.htm?volume=86&page=63); [Pub. L. 93–56, §1, July 1, 1973, 87 Stat. 140](/statviewer.htm?volume=87&page=140), established the Commission on the Bankruptcy Laws of the United States, to study and recommend changes to this title, which ceased to exist 30 days after the date of submission of its final report which was required prior to July 31, 1973.
 
 [<sup>1</sup> So in original. Does not conform to chapter heading.](#_1)

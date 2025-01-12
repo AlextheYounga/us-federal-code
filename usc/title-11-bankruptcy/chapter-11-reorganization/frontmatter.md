@@ -112,15 +112,27 @@ The Senate amendment consolidates chapters X, XI, and XII [chapters 10, 11, and 
 
 The special provisions of the Senate amendment applicable to a "public company" are as follows:
 
+[]()
+
 (a) Section 1101(3) defines a "public company" as a debtor who, within 12 months prior to the filing of the petition, had outstanding $5 million or more in debt and had not less than 1000 security holders;
+
+[]()
 
 (b) Section 1104(a) requires the appointment of a disinterested trustee irrespective of whether creditors support such appointment and whether there is cause for such appointment;
 
+[]()
+
 (c) Section 1125(f) prohibits the solicitation of acceptances of a plan of reorganization prior to court approval of such plan even though the solicitation complies with all applicable securities laws;
+
+[]()
 
 (d) Section 1128(a) requires the court to conduct a hearing on any plan of reorganization proposed by the trustee or any other party;
 
+[]()
+
 (e) Section 1128(b) requires the court to refer any plans "worthy of consideration" to the Securities and Exchange Commission for their examination and report, prior to court approval of a plan; and
+
+[]()
 
 (f) Section 1128(c) and section 1130(a)(7) requires the court to approve a plan or plans which are "fair and equitable" and comply with the other provisions of chapter 11.
 
@@ -128,11 +140,11 @@ The record of the Senate hearings on S. 2266 and the House hearings on H.R. 8200
 
 The negative results under chapter X [chapter 10 of former title 11] have resulted from the stilted procedures, under which management is always ousted and replaced by an independent trustee, the courts and the Securities and Exchange Commission examine the plan of reorganization in great detail, no matter how long that takes, and the court values the business, a time consuming and inherently uncertain procedure.
 
-The House amendment deletes the "public company" exception, because it would codify the well recognized infirmities of chapter X [chapter 10 of former title 11], because it would extend the chapter X approach to a large number of new cases without regard to whether the rigid and formalized procedures of chapter X are needed, and because it is predicated upon the myth that provisions similar to those contained in chapter X are necessary for the protection of public investors. Bankruptcy practice in large reorganization cases has also changed substantially in the 40 years since the Chandler Act [June 22, 1938, ch. 575, 52 Stat. 883, amending former title 11] was enacted. This change is, in large part, attributable to the pervasive effect of the Federal securities laws and the extraordinary success of the Securities and Exchange Commission in sensitizing both management and members of the bar to the need for full disclosure and fair dealing in transactions involving publicly held securities.
+The House amendment deletes the "public company" exception, because it would codify the well recognized infirmities of chapter X [chapter 10 of former title 11], because it would extend the chapter X approach to a large number of new cases without regard to whether the rigid and formalized procedures of chapter X are needed, and because it is predicated upon the myth that provisions similar to those contained in chapter X are necessary for the protection of public investors. Bankruptcy practice in large reorganization cases has also changed substantially in the 40 years since the Chandler Act [[June 22, 1938, ch. 575, 52 Stat. 883](/statviewer.htm?volume=52&page=883), amending former title 11] was enacted. This change is, in large part, attributable to the pervasive effect of the Federal securities laws and the extraordinary success of the Securities and Exchange Commission in sensitizing both management and members of the bar to the need for full disclosure and fair dealing in transactions involving publicly held securities.
 
-It is important to note that Congress passed the Chandler Act [June 22, 1938, ch. 575, 52 Stat. 883, amending former title 11] prior to enactment of the Trust Indenture Act of 1939 [15 U.S.C. section 77aaa et seq.] and prior to the definition and enforcement of the disclosure requirements of the Securities Act of 1933 [15 U.S.C. 77a et seq.] and the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.]. The judgments made by the 75th Congress in enacting the Chandler Act are not equally applicable to the financial markets of 1978. First of all, most public debenture holders are neither weak nor unsophisticated investors. In most cases, a significant portion of the holders of publicly issued debentures are sophisticated institutions, acting for their own account or as trustees for investment funds, pension funds, or private trusts. In addition, debenture holders, sophisticated, and unsophisticated alike, are represented by indenture trustees, qualified under section 77ggg of the Trust Indenture Act [probably should be "section 307" which is 15 U.S.C. 77ggg]. Given the high standard of care to which indenture trustees are bound, they are invariably active and sophisticated participants in efforts to rehabilitate corporate debtors in distress.
+It is important to note that Congress passed the Chandler Act [[June 22, 1938, ch. 575, 52 Stat. 883](/statviewer.htm?volume=52&page=883), amending former title 11] prior to enactment of the Trust Indenture Act of 1939 [15 U.S.C. section 77aaa et seq.] and prior to the definition and enforcement of the disclosure requirements of the Securities Act of 1933 [15 U.S.C. 77a et seq.] and the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.]. The judgments made by the 75th Congress in enacting the Chandler Act are not equally applicable to the financial markets of 1978. First of all, most public debenture holders are neither weak nor unsophisticated investors. In most cases, a significant portion of the holders of publicly issued debentures are sophisticated institutions, acting for their own account or as trustees for investment funds, pension funds, or private trusts. In addition, debenture holders, sophisticated, and unsophisticated alike, are represented by indenture trustees, qualified under section 77ggg of the Trust Indenture Act [probably should be "section 307" which is 15 U.S.C. 77ggg]. Given the high standard of care to which indenture trustees are bound, they are invariably active and sophisticated participants in efforts to rehabilitate corporate debtors in distress.
 
-It is also important to note that in 1938 when the Chandler Act [June 22, 1938, ch. 575, 52 Stat. 883, amending former title 11] was enacted, public investors commonly held senior, not subordinated, debentures and corporations were very often privately owned. In this environment, the absolute priority rule protected debenture holders from an erosion of their position in favor of equity holders. Today, however, if there are public security holders in a case, they are likely to be holders of subordinated debentures and equity and thus the application of the absolute priority rule under chapter X [chapter 10 of former title 11] leads to the exclusion, rather than the protection, of the public.
+It is also important to note that in 1938 when the Chandler Act [[June 22, 1938, ch. 575, 52 Stat. 883](/statviewer.htm?volume=52&page=883), amending former title 11] was enacted, public investors commonly held senior, not subordinated, debentures and corporations were very often privately owned. In this environment, the absolute priority rule protected debenture holders from an erosion of their position in favor of equity holders. Today, however, if there are public security holders in a case, they are likely to be holders of subordinated debentures and equity and thus the application of the absolute priority rule under chapter X [chapter 10 of former title 11] leads to the exclusion, rather than the protection, of the public.
 
 The primary problem posed by chapter X [chapter 10 of former title 11] is delay. The modern corporation is a complex and multifaceted entity. Most corporations do not have a significant market share of the lines of business in which they compete. The success, and even the survival, of a corporation in contemporary markets depends on three elements: First, the ability to attract and hold skilled management; second, the ability to obtain credit; and third, the corporation's ability to project to the public an image of vitality. Over and over again, it is demonstrated that corporations which must avail themselves of the provisions of the Bankruptcy Act [former title 11] suffer appreciable deterioration if they are caught in a chapter X proceeding for any substantial period of time.
 
@@ -162,10 +174,10 @@ Having discussed the general reasons why chapter 11 of the House amendment is so
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–8, title III, §321(a)(2), title IV, §436(b), Apr. 20, 2005, 119 Stat. 95, 113, added items 1115 and 1116.
+**2005**—[Pub. L. 109–8, title III, §321(a)(2), title IV, §436(b), Apr. 20, 2005, 119 Stat. 95](/statviewer.htm?volume=119&page=95), [113](/statviewer.htm?volume=119&page=113), added items 1115 and 1116.
 
-**1988**—Pub. L. 100–334, §2(c), June 16, 1988, 102 Stat. 613, added item 1114.
+**1988**—[Pub. L. 100–334, §2(c), June 16, 1988, 102 Stat. 613](/statviewer.htm?volume=102&page=613), added item 1114.
 
-**1984**—Pub. L. 98–353, title III, §§514(b), 541(b), July 10, 1984, 98 Stat. 387, 391, added item 1113 and substituted "Implementation" for "Execution" in item 1142.
+**1984**—[Pub. L. 98–353, title III, §§514(b), 541(b), July 10, 1984, 98 Stat. 387](/statviewer.htm?volume=98&page=387), [391](/statviewer.htm?volume=98&page=391), added item 1113 and substituted "Implementation" for "Execution" in item 1142.
 
-**1983**—Pub. L. 97–449, §5(a)(1), Jan. 12, 1983, 96 Stat. 2442, substituted "subtitle IV of title 49" for "Interstate Commerce Act" in item 1166.
+**1983**—[Pub. L. 97–449, §5(a)(1), Jan. 12, 1983, 96 Stat. 2442](/statviewer.htm?volume=96&page=2442), substituted "subtitle IV of title 49" for "Interstate Commerce Act" in item 1166.

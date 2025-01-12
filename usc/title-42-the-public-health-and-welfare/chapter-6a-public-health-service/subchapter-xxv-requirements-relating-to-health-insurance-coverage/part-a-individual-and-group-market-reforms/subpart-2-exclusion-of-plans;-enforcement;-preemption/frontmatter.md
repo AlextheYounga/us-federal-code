@@ -1,4 +1,4 @@
-### subpart 2—exclusion of plans; enforcement; preemption ###
+### Subpart 2—Exclusion of Plans; Enforcement; Preemption ###
 
 #### Codification ####
 
