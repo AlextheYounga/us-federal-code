@@ -6,6 +6,8 @@ Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329, which 
 
 Part was formerly classified to part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to this part.
 
+Pub. L. 102–325, title IV, §441(a)(1), July 23, 1992, 106 Stat. 563, substituted "Federal Work-Study Programs" for "Work-Study Programs" in part heading.
+
 #### Prior Provisions ####
 
 A prior part C of this subchapter, consisting of part D of title IV of Pub. L. 89–329, was redesignated part D of this subchapter.

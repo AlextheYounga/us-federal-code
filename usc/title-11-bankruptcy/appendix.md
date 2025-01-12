@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 3, 2016)
+(Effective August 1, 1983, as amended to December 1, 2016)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016.
 
 Rule
 
@@ -40,11 +40,11 @@ Rule
 
 1009. Amendments of Voluntary Petitions, Lists, Schedules and Statements.
 
-1010. Service of Involuntary Petition and Summons; Petition For Recognition of a Foreign Nonmain Proceeding.
+1010. Service of Involuntary Petition and Summons
 
-1011. Responsive Pleading or Motion in Involuntary and Cross-Border Cases.
+1011. Responsive Pleading or Motion in Involuntary Cases.
 
-1012. [Abrogated].
+1012. Responsive Pleading in Cross-Border Cases.
 
 1013. Hearing and Disposition of a Petition in an Involuntary Case.
 
@@ -264,7 +264,7 @@ Rule
 
 7015. Amended and Supplemental Pleadings.
 
-7016. Pre-Trial Procedure; Formulating Issues.
+7016. Pretrial Procedures.
 
 7017. Parties Plaintiff and Defendant; Capacity.
 
@@ -472,7 +472,7 @@ Rule
 
 9032. Effect of Amendment of Federal Rules of Civil Procedure.
 
-9033. Review of Proposed Findings of Fact and Conclusions of Law in Non-Core Proceedings.
+9033. Proposed Findings of Fact and Conclusions of Law.
 
 9034. Transmittal of Pleadings, Motion Papers, Objections, and Other Papers to the United States Trustee.
 
@@ -1026,13 +1026,13 @@ Subdivision (b) is amended to conform to the 2005 amendments to §521 of the Cod
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 1010. Service of Involuntary Petition and Summons; Petition For Recognition of a Foreign Nonmain Proceeding ###
+### Rule 1010. Service of Involuntary Petition and Summons ###
 
-(a) Service of Involuntary Petition and Summons; Service of Petition for Recognition of Foreign Nonmain Proceeding. On the filing of an involuntary petition or a petition for recognition of a foreign nonmain proceeding, the clerk shall forthwith issue a summons for service. When an involuntary petition is filed, service shall be made on the debtor. When a petition for recognition of a foreign nonmain proceeding is filed, service shall be made on the debtor, any entity against whom provisional relief is sought under §1519 of the Code, and on any other party as the court may direct. The summons shall be served with a copy of the petition in the manner provided for service of a summons and complaint by Rule 7004(a) or (b). If service cannot be so made, the court may order that the summons and petition be served by mailing copies to the party's last known address, and by at least one publication in a manner and form directed by the court. The summons and petition may be served on the party anywhere. Rule 7004(e) and Rule 4(l) F.R.Civ.P. apply when service is made or attempted under this rule.
+(a) Service of Involuntary Petition and Summons. On the filing of an involuntary petition, the clerk shall forthwith issue a summons for service. When an involuntary petition is filed, service shall be made on the debtor. The summons shall be served with a copy of the petition in the manner provided for service of a summons and complaint by Rule 7004(a) or (b). If service cannot be so made, the court may order that the summons and petition be served by mailing copies to the party's last known address, and by at least one publication in a manner and form directed by the court. The summons and petition may be served on the party anywhere. Rule 7004(e) and Rule 4(l) F.R.Civ.P. apply when service is made or attempted under this rule.
 
 (b) Corporate Ownership Statement. Each petitioner that is a corporation shall file with the involuntary petition a corporate ownership statement containing the information described in Rule 7007.1.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1084,13 +1084,17 @@ The rule is also amended by renumbering the prior rule as subdivision (a) and ad
 
 *Changes Made After Publication*. No changes were made after publication.
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+Subdivision (a) of this rule is amended to remove provisions regarding the issuance of a summons for service in certain chapter 15 proceedings. The requirements for notice and service in chapter 15 proceedings are found in Rule 2002(q).
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 1011. Responsive Pleading or Motion in Involuntary and Cross-Border Cases ###
+### Rule 1011. Responsive Pleading or Motion in Involuntary Cases ###
 
-(a) Who May Contest Petition. The debtor named in an involuntary petition, or a party in interest to a petition for recognition of a foreign proceeding, may contest the petition. In the case of a petition against a partnership under Rule 1004, a nonpetitioning general partner, or a person who is alleged to be a general partner but denies the allegation, may contest the petition.
+(a) Who May Contest Petition. The debtor named in an involuntary petition may contest the petition. In the case of a petition against a partnership under Rule 1004, a nonpetitioning general partner, or a person who is alleged to be a general partner but denies the allegation, may contest the petition.
 
 (b) Defenses and Objections; When Presented. Defenses and objections to the petition shall be presented in the manner prescribed by Rule 12 F.R.Civ.P. and shall be filed and served within 21 days after service of the summons, except that if service is made by publication on a party or partner not residing or found within the state in which the court sits, the court shall prescribe the time for filing and serving the response.
 
@@ -1100,9 +1104,9 @@ The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in t
 
 (e) Other Pleadings. No other pleadings shall be permitted, except that the court may order a reply to an answer and prescribe the time for filing and service.
 
-(f) Corporate Ownership Statement. If the entity responding to the involuntary petition or the petition for recognition of a foreign proceeding is a corporation, the entity shall file with its first appearance, pleading, motion, response, or other request addressed to the court a corporate ownership statement containing the information described in Rule 7007.1.
+(f) Corporate Ownership Statement. If the entity responding to the involuntary petition is a corporation, the entity shall file with its first appearance, pleading, motion, response, or other request addressed to the court a corporate ownership statement containing the information described in Rule 7007.1.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1150,15 +1154,31 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 *Changes Made After Publication*. No changes were made after publication.
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+This rule is amended to remove provisions regarding chapter 15 proceedings. The requirements for responses to a petition for recognition of a foreign proceeding are found in Rule 1012.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subds. (b) and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### [Rule 1012. Examination of Debtor, Including Discovery, on Issue of Nonpayment of Debts in Involuntary Cases.] (Abrogated Mar. 30, 1987, eff. Aug. 1, 1987) ###
+### Rule 1012. Responsive Pleading in Cross-Border Cases ###
+
+(a) Who May Contest Petition. The debtor or any party in interest may contest a petition for recognition of a foreign proceeding.
+
+(b) Objections and Responses; When Presented. Objections and other responses to the petition shall be presented no later than seven days before the date set for the hearing on the petition, unless the court prescribes some other time or manner for responses.
+
+(c) Corporate Ownership Statement. If the entity responding to the petition is a corporation, then the entity shall file a corporate ownership statement containing the information described in Rule 7007.1 with its first appearance, pleading, motion, response, or other request addressed to the court.
+
+(Added Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1987 ####
 
-This rule is abrogated. The discovery rules apply whenever an involuntary petition is contested. Rule 1018.
+This rule [former Rule 1012—Examination of Debtor, Including Discovery, on Issue of Nonpayment of Debts in Involuntary Cases] is abrogated [Abrogated Mar. 30, 1987, eff. Aug. 1, 1987]. The discovery rules apply whenever an involuntary petition is contested. Rule 1018.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+This rule is added to govern responses to petitions for recognition in cross-border cases. It incorporates provisions formerly found in Rule 1011. Subdivision (a) provides that the debtor or a party in interest may contest the petition. Subdivision (b) provides for presentation of responses no later than 7 days before the hearing on the petition, unless the court directs otherwise. Subdivision (c) governs the filing of corporate ownership statements by entities responding to the petition.
 
 ### Rule 1013. Hearing and Disposition of a Petition in an Involuntary Case ###
 
@@ -1764,11 +1784,11 @@ This rule is amended to conform to §303(g) of the Code which provides that the 
 
 (q) Notice of Petition for Recognition of Foreign Proceeding and of Court's Intention to Communicate With Foreign Courts and Foreign Representatives.
 
-(1) *Notice of Petition for Recognition*. The clerk, or some other person as the court may direct, shall forthwith give the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and such other entities as the court may direct, at least 21 days' notice by mail of the hearing on the petition for recognition of a foreign proceeding. The notice shall state whether the petition seeks recognition as a foreign main proceeding or foreign nonmain proceeding.
+(1) *Notice of Petition for Recognition*. After the filing of a petition for recognition of a foreign proceeding, the court shall promptly schedule and hold a hearing on the petition. The clerk, or some other person as the court may direct, shall forthwith give the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and such other entities as the court may direct, at least 21 days' notice by mail of the hearing. The notice shall state whether the petition seeks recognition as a foreign main proceeding or foreign nonmain proceeding and shall include the petition and any other document the court may require. If the court consolidates the hearing on the petition with the hearing on a request for provisional relief, the court may set a shorter notice period, with notice to the entities listed in this subdivision.
 
 (2) *Notice of Court's Intention to Communicate with Foreign Courts and Foreign Representatives*. The clerk, or some other person as the court may direct, shall give the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and such other entities as the court may direct, notice by mail of the court's intention to communicate with a foreign court or foreign representative.
 
-(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2011.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1967,6 +1987,10 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 20-day periods become 21-day periods
 
 • 25-day periods become 28-day periods
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Subdivision (q) is amended to clarify the procedures for giving notice in cross-border proceedings. The amended rule provides, in keeping with Code §1517(c), for the court to schedule a hearing to be held promptly on the petition for recognition of a foreign proceeding. The amended rule contemplates that a hearing on a request for provisional relief may sometimes overlap substantially with the merits of the petition for recognition. In that case, the court may choose to consolidate the hearing on the request for provisional relief with the hearing on the petition for recognition, see Rules 1018 and 7065, and accordingly shorten the usual 21-day notice period.
 
 #### References in Text ####
 
@@ -3298,7 +3322,7 @@ Other changes are stylistic.
 
 ### Rule 3002.1. Notice Relating to Claims Secured by Security Interest in the Debtor's Principal Residence ###
 
-(a) In General. This rule applies in a chapter 13 case to claims that are (1) secured by a security interest in the debtor's principal residence, and (2) provided for under §1322(b)(5) of the Code in the debtor's plan.
+(a) In General. This rule applies in a chapter 13 case to claims (1) that are secured by a security interest in the debtor's principal residence, and (2) for which the plan provides that either the trustee or the debtor will make contractual installment payments. Unless the court orders otherwise, the notice requirements of this rule cease to apply when an order terminating or annulling the automatic stay becomes effective with respect to the residence that secures the claim.
 
 (b) Notice of Payment Changes. The holder of the claim shall file and serve on the debtor, debtor's counsel, and the trustee a notice of any change in the payment amount, including any change that results from an interest rate or escrow account adjustment, no later than 21 days before a payment in the new amount is due.
 
@@ -3320,7 +3344,7 @@ Other changes are stylistic.
 
 (2) award other appropriate relief, including reasonable expenses and attorney's fees caused by the failure.
 
-(Added Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Added Apr. 26, 2011, eff. Dec. 1, 2011; amended Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Committee Notes on Rules—2011 ####
 
@@ -3367,6 +3391,12 @@ If, after the chapter 13 debtor has completed payments under the plan and the ca
 *Committee Note*. A sentence was added to the first paragraph to clarify that the rule applies regardless of whether ongoing mortgage payments are made directly by the debtor or disbursed through the chapter 13 trustee. Other changes were made to the Committee Note to reflect the changes made to the rule.
 
 *Other changes*. Stylistic changes were made throughout the rule and Committee Note.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Subdivision (a) is amended to clarify the applicability of the rule. Its provisions apply whenever a chapter 13 plan provides that contractual payments on the debtor's home mortgage will be maintained, whether they will be paid by the trustee or directly by the debtor. The reference to §1322(b)(5) of the Code is deleted to make clear that the rule applies even if there is no prepetition arrearage to be cured. So long as a creditor has a claim that is secured by a security interest in the debtor's principal residence and the plan provides that contractual payments on the claim will be maintained, the rule applies.
+
+Subdivision (a) is further amended to provide that, unless the court orders otherwise, the notice obligations imposed by this rule cease on the effective date of an order granting relief from the automatic stay with regard to the debtor's principal residence. Debtors and trustees typically do not make payments on mortgages after the stay relief is granted, so there is generally no need for the holder of the claim to continue providing the notices required by this rule. Sometimes, however, there may be reasons for the debtor to continue receiving mortgage information after stay relief. For example, the debtor may intend to seek a mortgage modification or to cure the default. When the court determines that the debtor has a need for the information required by this rule, the court is authorized to order that the notice obligations remain in effect or be reinstated after the relief from the stay is granted.
 
 ### Rule 3003. Filing Proof of Claim or Equity Security Interest in Chapter 9 Municipality or Chapter 11 Reorganization Cases ###
 
@@ -5902,9 +5932,9 @@ The rule is amended to clarify that a party must file a corporate ownership stat
 
 ### Rule 7008. General Rules of Pleading ###
 
-Rule 8 F.R.Civ.P. applies in adversary proceedings. The allegation of jurisdiction required by Rule 8(a) shall also contain a reference to the name, number, and chapter of the case under the Code to which the adversary proceeding relates and to the district and division where the case under the Code is pending. In an adversary proceeding before a bankruptcy judge, the complaint, counterclaim, cross-claim, or third-party complaint shall contain a statement that the proceeding is core or non-core and, if non-core, that the pleader does or does not consent to entry of final orders or judgment by the bankruptcy judge.
+Rule 8 F.R.Civ.P. applies in adversary proceedings. The allegation of jurisdiction required by Rule 8(a) shall also contain a reference to the name, number, and chapter of the case under the Code to which the adversary proceeding relates and to the district and division where the case under the Code is pending. In an adversary proceeding before a bankruptcy court, the complaint, counterclaim, cross-claim, or third-party complaint shall contain a statement that the pleader does or does not consent to entry of final orders or judgment by the bankruptcy court.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1987 Amendment ####
 
@@ -5917,6 +5947,10 @@ The rule is amended to delete subdivision (b), which required a request for atto
 The procedures for seeking an award of attorney's fees are now set out in Rule 7054(b)(2), which makes applicable most of the provisions of Rule 54(d)(2) F.R.Civ.P. As specified by Rule 54(d)(2)(A) and (B) F.R.Civ.P., a claim for attorney's fees must be made by a motion filed no later than 14 days after entry of the judgment unless the governing substantive law requires those fees to be proved at trial as an element of damages. When fees are an element of damages, such as when the terms of a contract provide for the recovery of fees incurred prior to the instant adversary proceeding, the general pleading requirements of this rule still apply.
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+The rule is amended to remove the requirement that the pleader state whether the proceeding is core or non-core and to require in all proceedings that the pleader state whether the party does or does not consent to the entry of final orders or judgment by the bankruptcy court. Some proceedings that satisfy the statutory definition of core proceedings, 28 U.S.C. §157(b)(2), may remain beyond the constitutional power of a bankruptcy judge to adjudicate finally. The amended rule calls for the pleader to make a statement regarding consent, whether or not a proceeding is termed non-core. Rule 7012(b) has been amended to require a similar statement in a responsive pleading. The bankruptcy judge will then determine the appropriate course of proceedings under Rule 7016.
 
 #### References in Text ####
 
@@ -5948,9 +5982,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (a) When Presented. If a complaint is duly served, the defendant shall serve an answer within 30 days after the issuance of the summons, except when a different time is prescribed by the court. The court shall prescribe the time for service of the answer when service of a complaint is made by publication or upon a party in a foreign country. A party served with a pleading stating a cross-claim shall serve an answer thereto within 21 days after service. The plaintiff shall serve a reply to a counterclaim in the answer within 21 days after service of the answer or, if a reply is ordered by the court, within 21 days after service of the order, unless the order otherwise directs. The United States or an officer or agency thereof shall serve an answer to a complaint within 35 days after the issuance of the summons, and shall serve an answer to a cross-claim, or a reply to a counterclaim, within 35 days after service upon the United States attorney of the pleading in which the claim is asserted. The service of a motion permitted under this rule alters these periods of time as follows, unless a different time is fixed by order of the court: (1) if the court denies the motion or postpones its disposition until the trial on the merits, the responsive pleading shall be served within 14 days after notice of the court's action; (2) if the court grants a motion for a more definite statement, the responsive pleading shall be served within 14 days after the service of a more definite statement.
 
-(b) Applicability of Rule 12(b)–(i) F.R.Civ.P. Rule 12(b)–(i) F.R.Civ.P. applies in adversary proceedings. A responsive pleading shall admit or deny an allegation that the proceeding is core or non-core. If the response is that the proceeding is non-core, it shall include a statement that the party does or does not consent to entry of final orders or judgment by the bankruptcy judge. In non-core proceedings final orders and judgments shall not be entered on the bankruptcy judge's order except with the express consent of the parties.
+(b) Applicability of Rule 12(b)–(i) F.R.Civ.P. Rule 12(b)–(i) F.R.Civ.P. applies in adversary proceedings. A responsive pleading shall include a statement that the party does or does not consent to entry of final orders or judgment by the bankruptcy court.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5979,6 +6013,10 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 20-day periods become 21-day periods
 
 • 25-day periods become 28-day periods
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Subdivision (b) is amended to remove the requirement that the pleader state whether the proceeding is core or non-core and to require in all proceedings that the pleader state whether the party does or does not consent to the entry of final orders or judgment by the bankruptcy court. The amended rule also removes the provision requiring express consent before the entry of final orders and judgments in non-core proceedings. Some proceedings that satisfy the statutory definition of core proceedings, 28 U.S.C. §157(b)(2), may remain beyond the constitutional power of a bankruptcy judge to adjudicate finally. The amended rule calls for the pleader to make a statement regarding consent, whether or not a proceeding is termed non-core. This amendment complements the requirements of amended Rule 7008(a). The bankruptcy judge's subsequent determination of the appropriate course of proceedings, including whether to enter final orders and judgments or to issue proposed findings of fact and conclusions of law, is a pretrial matter now provided for in amended Rule 7016.	
 
 #### References in Text ####
 
@@ -6020,9 +6058,23 @@ Rule 15 F.R.Civ.P. applies in adversary proceedings.
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7016. Pre-Trial Procedure; Formulating Issues ###
+### Rule 7016. Pretrial Procedures ###
 
-Rule 16 F.R.Civ.P. applies in adversary proceedings.
+(a) Pretrial Conferences; Scheduling; Management. Rule 16 F.R.Civ.P. applies in adversary proceedings.
+
+(b) Determining Procedure. The bankruptcy court shall decide, on its own motion or a party's timely motion, whether:
+
+(1) to hear and determine the proceeding;
+
+(2) to hear the proceeding and issue proposed findings of fact and conclusions of law; or
+
+(3) to take some other action.
+
+(As amended Apr. 28, 2016, eff. Dec. 1, 2016.)
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+This rule is amended to create a new subdivision (b) that provides for the bankruptcy court to enter final orders and judgment, issue proposed findings and conclusions, or take some other action in a proceeding. The rule leaves the decision as to the appropriate course of proceedings to the bankruptcy court. The court's decision will be informed by the parties' statements, required under Rules 7008(a), 7012(b), and 9027(a) and (e), regarding consent to the entry of final orders and judgment. If the bankruptcy court chooses to issue proposed findings of fact and conclusions of law, Rule 9033 applies.
 
 #### References in Text ####
 
@@ -8176,11 +8228,11 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (e) Time of Service. Service of process and service of any paper other than process or of notice by mail is complete on mailing.
 
-(f) Additional Time After Service by Mail or Under Rule 5(b)(2)(D), (E), or (F) F.R.Civ.P. When there is a right or requirement to act or undertake some proceedings within a prescribed period after service and that service is by mail or under Rule 5(b)(2)(D), (E), or (F) F.R.Civ.P., three days are added after the prescribed period would otherwise expire under Rule 9006(a).
+(f) Additional Time After Service by Mail or Under Rule 5(b)(2)(D) or (F) F.R.Civ.P. When there is a right or requirement to act or undertake some proceedings within a prescribed period after being served and that service is by mail or under Rule 5(b)(2)(D) (leaving with the clerk) or (F) (other means consented to) F.R.Civ.P., three days are added after the prescribed period would otherwise expire under Rule 9006(a).
 
 (g) Grain Storage Facility Cases. This rule shall not limit the court's authority under §557 of the Code to enter orders governing procedures in cases in which the debtor is an owner or operator of a grain storage facility.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -8335,6 +8387,24 @@ Subdivision (f) is amended to conform to the changes made to Rule 5(b)(2) of the
 The title of this rule is amended to draw attention to the fact that it prescribes time limits for the service of motion papers. These time periods apply unless another Bankruptcy Rule or a court order, including a local rule, prescribes different time periods. Rules 9013 and 9014 should also be consulted regarding motion practice. Rule 9013 governs the form of motions and the parties who must be served. Rule 9014 prescribes the procedures applicable to contested matters, including the method of serving motions commencing contested matters and subsequent papers. Subdivision (d) is amended to apply to any written response to a motion, rather than just to opposing affidavits. The caption of the subdivision is amended to reflect this change. Other changes are stylistic.
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Subdivision (f) is amended to remove service by electronic means under Civil Rule 5(b)(2)(E) from the modes of service that allow three added days to act after being served.
+
+Rule 9006(f) and Civil Rule 6(d) contain similar provisions providing additional time for actions after being served by mail or by certain modes of service that are identified by reference to Civil Rule 5(b)(2). Rule 9006(f)—like Civil Rule 6(d)—is amended to remove the reference to service by electronic means under Rule 5(b)(2)(E). The amendment also adds clarifying parentheticals identifying the forms of service under Rule 5(b)(2) for which three days will still be added.
+
+Civil Rule 5(b)—made applicable in bankruptcy proceedings by Rules 7005 and 9014(b)—was amended in 2001 to allow service by electronic means with the consent of the person served. Although electronic transmission seemed virtually instantaneous even then, electronic service was included in the modes of service that allow three added days to act after being served. There were concerns that the transmission might be delayed for some time, and particular concerns that incompatible systems might make it difficult or impossible to open attachments. Those concerns have been substantially alleviated by advances in technology and widespread skill in using electronic transmission.
+
+A parallel reason for allowing the three added days was that electronic service was authorized only with the consent of the person to be served. Concerns about the reliability of electronic transmission might have led to refusals of consent; the three added days were calculated to alleviate these concerns.
+
+Diminution of the concerns that prompted the decision to allow the three added days for electronic transmission is not the only reason for discarding this indulgence. Many rules have been changed to ease the task of computing time by adopting 7-, 14-, 21-, and 28-day periods that allow "day-of-the-week" counting. Adding three days at the end complicated the counting, and increased the occasions for further complication by invoking the provisions that apply when the last day is a Saturday, Sunday, or legal holiday.
+
+Electronic service after business hours, or just before or during a weekend or holiday, may result in a practical reduction in the time available to respond. Extensions of time may be warranted to prevent prejudice.
+
+Eliminating Rule 5(b) subparagraph (2)(E) from the modes of service that allow three added days means that the three added days cannot be retained by consenting to service by electronic means. Consent to electronic service in registering for electronic case filing, for example, does not count as consent to service "by any other means" of delivery under subparagraph (F).
+
+Subdivision (f) is also amended to conform to a corresponding amendment of Civil Rule 6(d). The amendment clarifies that only the party that is served by mail or under the specified provisions of Civil Rule 5—and not the party making service—is permitted to add three days to any prescribed period for taking action after service is made.
 
 #### References in Text ####
 
@@ -8826,7 +8896,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (a) Notice of Removal.
 
-(1) *Where Filed; Form and Content*. A notice of removal shall be filed with the clerk for the district and division within which is located the state or federal court where the civil action is pending. The notice shall be signed pursuant to Rule 9011 and contain a short and plain statement of the facts which entitle the party filing the notice to remove, contain a statement that upon removal of the claim or cause of action the proceeding is core or non-core and, if non-core, that the party filing the notice does or does not consent to entry of final orders or judgment by the bankruptcy judge, and be accompanied by a copy of all process and pleadings.
+(1) *Where Filed; Form and Content*. A notice of removal shall be filed with the clerk for the district and division within which is located the state or federal court where the civil action is pending. The notice shall be signed pursuant to Rule 9011 and contain a short and plain statement of the facts which entitle the party filing the notice to remove, contain a statement that upon removal of the claim or cause of action, the party filing the notice does or does not consent to entry of final orders or judgment by the bankruptcy court, and be accompanied by a copy of all process and pleadings.
 
 (2) *Time for Filing; Civil Action Initiated Before Commencement of the Case Under the Code*. If the claim or cause of action in a civil action is pending when a case under the Code is commenced, a notice of removal may be filed only within the longest of (A) 90 days after the order for relief in the case under the Code, (B) 30 days after entry of an order terminating a stay, if the claim or cause of action in a civil action has been stayed under §362 of the Code, or (C) 30 days after a trustee qualifies in a chapter 11 reorganization case but not later than 180 days after the order for relief.
 
@@ -8844,7 +8914,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (2) The district court or, if the case under the Code has been referred to a bankruptcy judge of the district, the bankruptcy judge, may require the party filing the notice of removal to file with the clerk copies of all records and proceedings relating to the claim or cause of action in the court from which the claim or cause of action was removed.
 
-(3) Any party who has filed a pleading in connection with the removed claim or cause of action, other than the party filing the notice of removal, shall file a statement admitting or denying any allegation in the notice of removal that upon removal of the claim or cause of action the proceeding is core or non-core. If the statement alleges that the proceeding is non-core, it shall state that the party does or does not consent to entry of final orders or judgment by the bankruptcy judge. A statement required by this paragraph shall be signed pursuant to Rule 9011 and shall be filed not later than 14 days after the filing of the notice of removal. Any party who files a statement pursuant to this paragraph shall mail a copy to every other party to the removed claim or cause of action.
+(3) Any party who has filed a pleading in connection with the removed claim or cause of action, other than the party filing the notice of removal, shall file a statement that the party does or does not consent to entry of final orders or judgment by the bankruptcy court. A statement required by this paragraph shall be signed pursuant to Rule 9011 and shall be filed not later than 14 days after the filing of the notice of removal. Any party who files a statement pursuant to this paragraph shall mail a copy to every other party to the removed claim or cause of action.
 
 (f) Process After Removal. If one or more of the defendants has not been served with process, the service has not been perfected prior to removal, or the process served proves to be defective, such process or service may be completed or new process issued pursuant to Part VII of these rules. This subdivision shall not deprive any defendant on whom process is served after removal of the defendant's right to move to remand the case.
 
@@ -8854,7 +8924,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (i) Attachment or Sequestration; Securities. When a claim or cause of action is removed to a district court, any attachment or sequestration of property in the court from which the claim or cause of action was removed shall hold the property to answer the final judgment or decree in the same manner as the property would have been held to answer final judgment or decree had it been rendered by the court from which the claim or cause of action was removed. All bonds, undertakings, or security given by either party to the claim or cause of action prior to its removal shall remain valid and effectual notwithstanding such removal. All injunctions issued, orders entered and other proceedings had prior to removal shall remain in full force and effect until dissolved or modified by the court.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -8925,6 +8995,12 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 20-day periods become 21-day periods
 
 • 25-day periods become 28-day periods
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Subdivisions (a)(1) and (e)(3) are amended to delete the requirement for a statement that the proceeding is core or non-core and to require in all removed actions a statement that the party does or does not consent to the entry of final orders or judgment by the bankruptcy court. Some proceedings that satisfy the statutory definition of core proceedings, 28 U.S.C. §157(b)(2), may remain beyond the constitutional power of a bankruptcy judge to adjudicate finally. The amended rule calls for a statement regarding consent at the time of removal, whether or not a proceeding is termed non-core.
+
+The party filing the notice of removal must include a statement regarding consent in the notice, and the other parties who have filed pleadings must respond in a separate statement filed within 14 days after removal. If a party to the removed claim or cause of action has not filed a pleading prior to removal, however, there is no need to file a separate statement under subdivision (e)(3), because a statement regarding consent must be included in a responsive pleading filed pursuant to Rule 7012(b). Rule 7016 governs the bankruptcy court's decision whether to hear and determine the proceeding, issue proposed findings of fact and conclusions of law, or take some other action in the proceeding.
 
 ### Rule 9028. Disability of a Judge ###
 
@@ -9026,9 +9102,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 The effective date of these rules, referred to in text, is Aug. 1, 1983. See Effective Date note set out prec. Rule 1001 of this Appendix.
 
-### Rule 9033. Review of Proposed Findings of Fact and Conclusions of Law in Non-Core Proceedings ###
+### Rule 9033. Proposed Findings of Fact and Conclusions of Law ###
 
-(a) Service. In non-core proceedings heard pursuant to 28 U.S.C. §157(c)(1), the bankruptcy judge shall file proposed findings of fact and conclusions of law. The clerk shall serve forthwith copies on all parties by mail and note the date of mailing on the docket.
+(a) Service. In a proceeding in which the bankruptcy court has issued proposed findings of fact and conclusions of law, the clerk shall serve forthwith copies on all parties by mail and note the date of mailing on the docket.
 
 (b) Objections: Time for Filing. Within 14 days after being served with a copy of the proposed findings of fact and conclusions of law a party may serve and file with the clerk written objections which identify the specific proposed findings or conclusions objected to and state the grounds for such objection. A party may respond to another party's objections within 14 days after being served with a copy thereof. A party objecting to the bankruptcy judge's proposed findings or conclusions shall arrange promptly for the transcription of the record, or such portions of it as all parties may agree upon or the bankruptcy judge deems sufficient, unless the district judge otherwise directs.
 
@@ -9036,7 +9112,7 @@ The effective date of these rules, referred to in text, is Aug. 1, 1983. See Eff
 
 (d) Standard of Review. The district judge shall make a de novo review upon the record or, after additional evidence, of any portion of the bankruptcy judge's findings of fact or conclusions of law to which specific written objection has been made in accordance with this rule. The district judge may accept, reject, or modify the proposed findings of fact or conclusions of law, receive further evidence, or recommit the matter to the bankruptcy judge with instructions.
 
-(Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1987 ####
 
@@ -9063,6 +9139,10 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 20-day periods become 21-day periods
 
 • 25-day periods become 28-day periods
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Subdivision (a) is amended to delete language limiting this provision to non-core proceedings. Some proceedings that satisfy the statutory definition of core proceedings, 28 U.S.C. §157(b)(2), may remain beyond the constitutional power of a bankruptcy judge to adjudicate finally. If the bankruptcy court decides, pursuant to Rule 7016, that it is appropriate to issue proposed findings of fact and conclusions of law in a proceeding, this rule governs the subsequent procedures.
 
 ### Rule 9034. Transmittal of Pleadings, Motion Papers, Objections, and Other Papers to the United States Trustee ###
 

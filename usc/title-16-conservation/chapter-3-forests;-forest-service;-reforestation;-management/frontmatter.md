@@ -319,3 +319,17 @@ Sec.
 583j–8. Authorization of appropriations.
 
 583j–9. Federal funds.
+
+#### SUBCHAPTER VI—NATIONAL FOREST SYSTEM TRAILS STEWARDSHIP ####
+
+583k. Findings.
+
+583k–1. Definitions.
+
+583k–2. National Forest System Trails Volunteer and Partnership Strategy.
+
+583k–3. Priority trail maintenance program.
+
+583k–4. Cooperative agreements.
+
+583k–5. Stewardship credits for outfitters and guides.

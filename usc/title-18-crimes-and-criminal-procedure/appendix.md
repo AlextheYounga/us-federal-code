@@ -495,13 +495,13 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to January 3, 2016)
+(As amended to December 1, 2016)
 
 #### Historical Note ####
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016.
 
 #### TITLE I. APPLICABILITY ####
 
@@ -881,7 +881,7 @@ Under the amended rule, the complaint and supporting material may be submitted b
 
 ### Rule 4. Arrest Warrant or Summons on a Complaint ###
 
-(a) Issuance. If the complaint or one or more affidavits filed with the complaint establish probable cause to believe that an offense has been committed and that the defendant committed it, the judge must issue an arrest warrant to an officer authorized to execute it. At the request of an attorney for the government, the judge must issue a summons, instead of a warrant, to a person authorized to serve it. A judge may issue more than one warrant or summons on the same complaint. If a defendant fails to appear in response to a summons, a judge may, and upon request of an attorney for the government must, issue a warrant.
+(a) Issuance. If the complaint or one or more affidavits filed with the complaint establish probable cause to believe that an offense has been committed and that the defendant committed it, the judge must issue an arrest warrant to an officer authorized to execute it. At the request of an attorney for the government, the judge must issue a summons, instead of a warrant, to a person authorized to serve it. A judge may issue more than one warrant or summons on the same complaint. If an individual defendant fails to appear in response to a summons, a judge may, and upon request of an attorney for the government must, issue a warrant. If an organizational defendant fails to appear in response to a summons, a judge may take any action authorized by United States law.
 
 (b) Form.
 
@@ -899,9 +899,9 @@ Under the amended rule, the complaint and supporting material may be submitted b
 
 (c) Execution or Service, and Return.
 
-(1) *Whom.* Only a marshal or other authorized officer may execute a warrant. Any person authorized to serve a summons in a federal civil action may serve a summons.
+(1) *By Whom.* Only a marshal or other authorized officer may execute a warrant. Any person authorized to serve a summons in a federal civil action may serve a summons.
 
-(2) *Location.* A warrant may be executed, or a summons served, within the jurisdiction of the United States or anywhere else a federal statute authorizes an arrest.
+(2) *Location.* A warrant may be executed, or a summons served, within the jurisdiction of the United States or anywhere else a federal statute authorizes an arrest. A summons to an organization under Rule 4(c)(3)(D) may also be served at a place not within a judicial district of the United States.
 
 (3) *Manner.*
 
@@ -913,7 +913,19 @@ Under the amended rule, the complaint and supporting material may be submitted b
 
 (ii) by leaving a copy at the defendant's residence or usual place of abode with a person of suitable age and discretion residing at that location and by mailing a copy to the defendant's last known address.
 
-(C) A summons is served on an organization by delivering a copy to an officer, to a managing or general agent, or to another agent appointed or legally authorized to receive service of process. A copy must also be mailed to the organization's last known address within the district or to its principal place of business elsewhere in the United States.
+(C) A summons is served on an organization in a judicial district of the United States by delivering a copy to an officer, to a managing or general agent, or to another agent appointed or legally authorized to receive service of process. If the agent is one authorized by statute and the statute so requires, a copy must also be mailed to the organization.
+
+(D) A summons is served on an organization not within a judicial district of the United States:
+
+(i) by delivering a copy, in a manner authorized by the foreign jurisdiction's law, to an officer, to a managing or general agent, or to an agent appointed or legally authorized to receive service of process; or
+
+(ii) by any other means that gives notice, including one that is:
+
+(a) stipulated by the parties;
+
+(b) undertaken by a foreign authority in response to a letter rogatory, a letter of request, or a request submitted under an applicable international agreement; or
+
+(c)	permitted by an applicable international agreement.
 
 (4) *Return.*
 
@@ -925,7 +937,7 @@ Under the amended rule, the complaint and supporting material may be submitted b
 
 (d) Warrant by Telephone or Other Reliable Electronic Means. In accordance with Rule 4.1, a magistrate judge may issue a warrant or summons based on information communicated by telephone or other reliable electronic means.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(1)–(3), July 31, 1975, 89 Stat. 370; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(1)–(3), July 31, 1975, 89 Stat. 370; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -1032,6 +1044,34 @@ Second, consistent with the amendment to Rule 41(f), Rule 4(c)(4)(A) permits an 
 *Subdivision (d)*. Rule 4(d) provides that a magistrate judge may issue an arrest warrant or summons based on information submitted electronically rather than in person. This change works in conjunction with the amendment to Rule 3, which permits a magistrate judge to consider a criminal complaint and accompanying documents that are submitted electronically. Subdivision (d) also incorporates the procedures for applying for and issuing electronic warrants set forth in Rule 4.1.
 
 *Changes Made to Proposed Amendment Released for Public Comment*. No changes were made in the amendment as published.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+*Subdivision (a)*. The amendment addresses a gap in the current rule, which makes no provision for organizational defendants who fail to appear in response to a criminal summons. The amendment explicitly limits the issuance of a warrant to individual defendants who fail to appear, and provides that the judge may take whatever action is authorized by law when an organizational defendant fails to appear. The rule does not attempt to specify the remedial actions a court may take when an organizational defendant fails to appear.
+
+*Subdivision (c)(2)*. The amendment authorizes service of a criminal summons on an organization outside a judicial district of the United States.
+
+*Subdivision (c)(3)(C)*. The amendment makes two changes to subdivision (c)(3)(C) governing service of a summons on an organization. First, like Civil Rule 4(h), the amended provision does not require a separate mailing to the organization when delivery has been made in the United States to an officer or to a managing or general agent. Service of process on an officer or a managing or general agent is in effect service on the principal. Mailing is required when delivery has been made on an agent authorized by statute, if the statute itself requires mailing to the entity.
+
+Second, also like Civil Rule 4(h), the amendment recognizes that service outside the United States requires separate consideration, and it restricts Rule 4(c)(3)(C) and its modified mailing requirement to service on organizations within the United States. Service upon organizations outside the United States is governed by new subdivision (c)(3)(D).
+
+These two modifications of the mailing requirement remove an unnecessary impediment to the initiation of criminal proceedings against organizations that commit domestic offenses but have no place of business or mailing address within the United States. Given the realities of today's global economy, electronic communication, and federal criminal practice, the mailing requirement should not shield a defendant organization when the Rule's core objective—notice of pending criminal proceedings—is accomplished.
+
+*Subdivision (c)(3)(D)*. This new subdivision states that a criminal summons may be served on an organizational defendant outside the United States and enumerates a non-exhaustive list of permissible means of service that provide notice to that defendant.
+
+Although it is presumed that the enumerated means will provide notice, whether actual notice has been provided may be challenged in an individual case.
+
+*Subdivision (c)(3)(D)(i)*. Subdivision (i) notes that a foreign jurisdiction's law may authorize delivery of a copy of the criminal summons to an officer, or to a managing or general agent. This is a permissible means for serving an organization outside of the United States, just as it is for organizations within the United States. The subdivision also recognizes that a foreign jurisdiction's law may provide for service of a criminal summons by delivery to an appointed or legally authorized agent in a manner that provides notice to the entity, and states that this is an acceptable means of service.
+
+*Subdivision (c)(3)(D)(ii)*. Subdivision (ii) provides a non-exhaustive list illustrating other permissible means of giving service on organizations outside the United States, all of which must be carried out in a manner that "gives notice."
+
+Paragraph (a) recognizes that service may be made by a means stipulated by the parties.
+
+Paragraph (b) recognizes that service may be made by the diplomatic methods of letters rogatory and letters of request, and the last clause of the paragraph provides for service under international agreements that obligate the parties to provide broad measures of assistance, including the service of judicial documents. These include crime-specific multilateral agreements (e.g., the United Nations Convention Against Corruption (UNCAC), S. Treaty Doc. No. 109–6 (2003)), regional agreements (e.g., the Inter-American Convention on Mutual Assistance in Criminal Matters (OAS MLAT), S. Treaty Doc. No. 105–25 (1995)), and bilateral agreements.
+
+Paragraph (c) recognizes that other means of service that provide notice and are permitted by an applicable international agreement are also acceptable when serving organizations outside the United States.
+
+As used in this rule, the phrase "applicable international agreement" refers to an agreement that has been ratified by the United States and the foreign jurisdiction and is in force.
 
 #### Amendment by Public Law ####
 
@@ -7059,7 +7099,7 @@ Amendment by section 215(d) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 
 (E) "Tracking device" has the meaning set out in 18 U.S.C. §3117(b).
 
-(b) Authority to Issue a Warrant. At the request of a federal law enforcement officer or an attorney for the government:
+(b) Venue for a Warrant Application. At the request of a federal law enforcement officer or an attorney for the government:
 
 (1) a magistrate judge with authority in the district—or if none is reasonably available, a judge of a state court of record in the district—has authority to issue a warrant to search for and seize a person or property located within the district;
 
@@ -7076,6 +7116,12 @@ Amendment by section 215(d) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 (B) the premises—no matter who owns them—of a United States diplomatic or consular mission in a foreign state, including any appurtenant building, part of a building, or land used for the mission's purposes; or
 
 (C) a residence and any appurtenant land owned or leased by the United States and used by United States personnel assigned to a United States diplomatic or consular mission in a foreign state.
+
+(6) a magistrate judge with authority in any district where activities related to a crime may have occurred has authority to issue a warrant to use remote access to search electronic storage media and to seize or copy electronically stored information located within or outside that district if:
+
+(A) the district where the media or information is located has been concealed through technological means; or
+
+(B) in an investigation of a violation of 18 U.S.C. §1030(a)(5), the media are protected computers that have been damaged without authorization and are located in five or more districts.
 
 (c) Persons or Property Subject to Search or Seizure. A warrant may be issued for any of the following:
 
@@ -7133,7 +7179,7 @@ Amendment by section 215(d) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 
 (B) *Inventory.* An officer present during the execution of the warrant must prepare and verify an inventory of any property seized. The officer must do so in the presence of another officer and the person from whom, or from whose premises, the property was taken. If either one is not present, the officer must prepare and verify the inventory in the presence of at least one other credible person. In a case involving the seizure of electronic storage media or the seizure or copying of electronically stored information, the inventory may be limited to describing the physical storage media that were seized or copied. The officer may retain a copy of the electronically stored information that was seized or copied.
 
-(C) *Receipt.* The officer executing the warrant must give a copy of the warrant and a receipt for the property taken to the person from whom, or from whose premises, the property was taken or leave a copy of the warrant and receipt at the place where the officer took the property.
+(C) *Receipt.* The officer executing the warrant must give a copy of the warrant and a receipt for the property taken to the person from whom, or from whose premises, the property was taken or leave a copy of the warrant and receipt at the place where the officer took the property. For a warrant to use remote access to search electronic storage media and seize or copy electronically stored information, the officer must make reasonable efforts to serve a copy of the warrant and receipt on the person whose property was searched or who possessed the information that was seized or copied. Service may be accomplished by any means, including electronic means, reasonably calculated to reach that person.
 
 (D) *Return.* The officer executing the warrant must promptly return it—together with a copy of the inventory—to the magistrate judge designated on the warrant. The officer may do so by reliable electronic means. The judge must, on request, give a copy of the inventory to the person from whom, or from whose premises, the property was taken and to the applicant for the warrant.
 
@@ -7153,7 +7199,7 @@ Amendment by section 215(d) of Pub. L. 98–473 effective Nov. 1, 1987, and appl
 
 (i) Forwarding Papers to the Clerk. The magistrate judge to whom the warrant is returned must attach to the warrant a copy of the return, of the inventory, and of all other related papers and must deliver them to the clerk in the district where the property was seized.
 
-(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 9, 1956, eff. July 8, 1956; Apr. 24, 1972, eff. Oct. 1, 1972; Mar. 18, 1974, eff. July 1, 1974; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; Pub. L. 95–78, §2(e), July 30, 1977, 91 Stat. 320, eff. Oct. 1, 1977; Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Pub. L. 107–56, title II, §219, Oct. 26, 2001, 115 Stat. 291; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 9, 1956, eff. July 8, 1956; Apr. 24, 1972, eff. Oct. 1, 1972; Mar. 18, 1974, eff. July 1, 1974; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; Pub. L. 95–78, §2(e), July 30, 1977, 91 Stat. 320, eff. Oct. 1, 1977; Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Pub. L. 107–56, title II, §219, Oct. 26, 2001, 115 Stat. 291; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -7496,6 +7542,22 @@ Minor changes were also made to conform to style conventions.
 *Subdivisions (f)(1) and (2)*. The amendment permits any warrant return to be made by reliable electronic means. Requiring an in-person return can be burdensome on law enforcement, particularly in large districts when the return can require a great deal of time and travel. In contrast, no interest of the accused is affected by allowing what is normally a ministerial act to be done electronically. Additionally, in subdivision (f)(2) the amendment eliminates unnecessary references to "calendar" days. As amended effective December 1, 2009, Rule 45(a)(1) provides that all periods of time stated in days include "every day, including intermediate Saturdays, Sundays, and legal holidays[.]"
 
 *Changes Made to Proposed Amendment Released for Public Comment*. Obsolescent references to "calendar" days were deleted by a technical and conforming amendment not included in the rule as published. No other changes were made after publication.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+*Subdivision (b)*. The revision to the caption is not substantive. Adding the word "venue" makes clear that Rule 41(b) identifies the courts that may consider an application for a warrant, not the constitutional requirements for the issuance of a warrant, which must still be met.
+
+*Subdivision (b)(6)*. The amendment provides that in two specific circumstances a magistrate judge in a district where activities related to a crime may have occurred has authority to issue a warrant to use remote access to search electronic storage media and seize or copy electronically stored information even when that media or information is or may be located outside of the district.
+
+First, subparagraph (b)(6)(A) provides authority to issue a warrant to use remote access within or outside that district when the district in which the media or information is located is not known because of the use of technology such as anonymizing software.
+
+Second, (b)(6)(B) allows a warrant to use remote access within or outside the district in an investigation of a violation of 18 U.S.C. §1030(a)(5) if the media to be searched are protected computers that have been damaged without authorization, and they are located in many districts. Criminal activity under 18 U.S.C. §1030(a)(5) (such as the creation and control of "botnets") may target multiple computers in several districts. In investigations of this nature, the amendment would eliminate the burden of attempting to secure multiple warrants in numerous districts, and allow a single judge to oversee the investigation.
+
+As used in this rule, the terms "protected computer" and "damage" have the meaning provided in 18 U.S.C. §1030(e)(2) & (8).
+
+The amendment does not address constitutional questions, such as the specificity of description that the Fourth Amendment may require in a warrant for remotely searching electronic storage media or seizing or copying electronically stored information, leaving the application of this and other constitutional standards to ongoing case law development.
+
+Subdivision (f)(1)(C). The amendment is intended to ensure that reasonable efforts are made to provide notice of the search, seizure, or copying, as well as a receipt for any information that was seized or copied, to the person whose property was searched or who possessed the information that was seized or copied. Rule 41(f)(3) allows delayed notice only "if the delay is authorized by statute." See 18 U.S.C. §3103a (authorizing delayed notice in limited circumstances).
 
 #### Amendment by Public Law ####
 
@@ -7961,9 +8023,9 @@ Amendment of this rule by addition of subd. (c) by order of the United States Su
 
 (2) *Exception.* The court may not extend the time to take any action under Rule 35, except as stated in that rule.
 
-(c) Additional Time After Certain Kinds of Service. Whenever a party must or may act within a specified period after service and service is made in the manner provided under Federal Rule of Civil Procedure 5(b)(2)(C), (D), (E), or (F), 3 days are added after the period would otherwise expire under subdivision (a).
+(c) Additional Time After Certain Kinds of Service. Whenever a party must or may act within a specified time after being served and service is made under Federal Rule of Civil Procedure 5(b)(2)(C) (mailing), (D) (leaving with the clerk), or (F) (other means consented to), 3 days are added after the period would otherwise expire under subdivision (a).
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -8084,6 +8146,20 @@ The text of the rule no longer refers to "weather or other conditions" as the re
 For forward-counted periods—*i.e.*, periods that are measured after an event—subdivision (a)(6)(C) includes certain state holidays within the definition of legal holidays. However, state legal holidays are not recognized in computing backward-counted periods. For both forward- and backward-counted periods, the rule thus protects those who may be unsure of the effect of state holidays. For forward-counted deadlines, treating state holidays the same as federal holidays extends the deadline. Thus, someone who thought that the federal courts might be closed on a state holiday would be safeguarded against an inadvertent late filing. In contrast, for backward-counted deadlines, not giving state holidays the treatment of federal holidays allows filing on the state holiday itself rather than the day before. Take, for example, Monday, April 21, 2008 (Patriot's Day, a legal holiday in the relevant state). If a filing is due 14 days after an event, and the fourteenth day is April 21, then the filing is due on Tuesday, April 22 because Monday, April 21 counts as a legal holiday. But if a filing is due 14 days before an event, and the fourteenth day is April 21, the filing is due on Monday, April 21; the fact that April 21 is a state holiday does not make April 21 a legal holiday for purposes of computing this backward-counted deadline. But note that if the clerk's office is inaccessible on Monday, April 21, then subdivision (a)(3) extends the April 21 filing deadline forward to the next accessible day that is not a Saturday, Sunday or legal holiday—no earlier than Tuesday, April 22.
 
 *Changes Made to Proposed Amendment Released for Public Comment*. The Standing Committee changed Rule 45(a)(6) to exclude state holidays from the definition of "legal holiday" for purposes of computing backward-counted periods; conforming changes were made to the Committee Note to subdivision (a)(6).
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+*Subdivision (c)*. Rule 45(c) and Rule 6(d) of the Federal Rules of Civil Procedure contain parallel provisions providing additional time for actions after certain modes of service, identifying those modes by reference to Civil Rule 5(b)(2). Rule 45(c)—like Civil Rule 6(d)—is amended to remove service by electronic means under Rule 5(b)(2)(E) from the forms of service that allow 3 added days to act after being served. The amendment also adds clarifying parentheticals identifying the forms of service for which 3 days will still be added.
+
+Civil Rule 5 was amended in 2001 to allow service by electronic means with the consent of the person served, and a parallel amendment to Rule 45(c) was adopted in 2002. Although electronic transmission seemed virtually instantaneous even then, electronic service was included in the modes of service that allow 3 added days to act after being served. There were concerns that the transmission might be delayed for some time, and particular concerns that incompatible systems might make it difficult or impossible to open attachments. Those concerns have been substantially alleviated by advances in technology and widespread skill in using electronic transmission.
+
+A parallel reason for allowing the 3 added days was that electronic service was authorized only with the consent of the person to be served. Concerns about the reliability of electronic transmission might have led to refusals of consent; the 3 added days were calculated to alleviate these concerns.
+
+Diminution of the concerns that prompted the decision to allow the 3 added days for electronic transmission is not the only reason for discarding this indulgence. Many rules have been changed to ease the task of computing time by adopting 7-, 14-, 21-, and 28-day periods that allow "day-of-the-week" counting. Adding 3 days at the end complicated the counting, and increased the occasions for further complication by invoking the provisions that apply when the last day is a Saturday, Sunday, or legal holiday.
+
+Eliminating Rule 5(b) subparagraph (2)(E) from the modes of service that allow 3 added days means that the 3 added days cannot be retained by consenting to service by electronic means. Consent to electronic service in registering for electronic case filing, for example, does not count as consent to service "by any other means of delivery" under subparagraph (F).
+
+Electronic service after business hours, or just before or during a weekend or holiday, may result in a practical reduction in the time available to respond. Extensions of time may be warranted to prevent prejudice.
 
 #### References in Text ####
 

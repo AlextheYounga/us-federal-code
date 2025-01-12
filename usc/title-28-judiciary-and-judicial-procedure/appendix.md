@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to January 3, 2016)
+(As amended to December 1, 2016)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -182,21 +182,17 @@ Form
 
 4. Affidavit Accompanying Motion for Permission to Appeal In Forma Pauperis.
 
-5. Notice of Appeal to a Court of Appeals from a Judgment or Order of a District Court or a Bankruptcy Appellate Panel.
+5. Notice of Appeal to a Court of Appeals From a Judgment or Order of a District Court or a Bankruptcy Appellate Panel.
 
-6. Certificate of Compliance With Rule 32(a).
+6. Certificate of Compliance With Type-Volume Limit.
+
+7. Declaration of Inmate Filing.
+
+#### APPENDIX: LENGTH LIMITS STATED IN THE FEDERAL RULES OF APPELLATE PROCEDURE ####
 
 #### Effective Date and Application of Rules ####
 
 Section 2 of the Order of the Supreme Court, dated Dec. 4, 1967, provided: "That the foregoing rules shall take effect on July 1, 1968, and shall govern all proceedings in appeals and petitions for review or enforcement of orders thereafter brought in and in all such proceedings then pending, except to the extent that in the opinion of the court of appeals their application in a particular proceeding then pending would not be feasible or would work injustice, in which case the former procedure may be followed."
-
-#### Effective Date of 1970 Amendment; Transmission to Congress ####
-
-Sections 2 and 3 of the Order of the Supreme Court, dated Mar. 30, 1970, provided:
-
-"2. That the foregoing amendments to the Federal Rules of Appellate Procedure shall take effect on July 1, 1970, and shall govern all proceedings in actions brought thereafter and also in all further proceedings in actions then pending, except to the extent that in the opinion of the court their application in a particular action then pending would not be feasible or would work injustice, in which event the former procedure applies.
-
-"3. That the Chief Justice be, and he hereby is, authorized to transmit to the Congress the foregoing amendments to existing rules, in accordance with the provisions of Title 18, U.S.C., §3372, and Title 28, U.S.C., §§2072 and 2075."
 
 ### TITLE I. APPLICABILITY OF RULES ###
 
@@ -414,7 +410,7 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (4) *Effect of a Motion on a Notice of Appeal.*
 
-(A) If a party timely files in the district court any of the following motions under the Federal Rules of Civil Procedure, the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion:
+(A) If a party files in the district court any of the following motions under the Federal Rules of Civil Procedure—and does so within the time allowed by those rules—the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion:
 
 (i) for judgment under Rule 50(b);
 
@@ -510,7 +506,15 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (c) Appeal by an Inmate Confined in an Institution.
 
-(1) If an inmate confined in an institution files a notice of appeal in either a civil or a criminal case, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing. If an institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+(1) If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 4(c)(1). If an inmate files a notice of appeal in either a civil or a criminal case, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
+
+(A) it is accompanied by:
+
+(i) a declaration in compliance with 28 U.S.C. §1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or
+
+(ii) evidence (such as a postmark or date stamp) showing that the notice was so deposited and that postage was prepaid; or
+
+(B) the court of appeals exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies Rule 4(c)(1)(A)(i).
 
 (2) If an inmate files the first notice of appeal in a civil case under this Rule 4(c), the 14-day period provided in Rule 4(a)(3) for another party to file a notice of appeal runs from the date when the district court dockets the first notice.
 
@@ -518,7 +522,7 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (d) Mistaken Filing in the Court of Appeals. If a notice of appeal in either a civil or a criminal case is mistakenly filed in the court of appeals, the clerk of that court must note on the notice the date when it was received and send it to the district clerk. The notice is then considered filed in the district court on the date so noted.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Pub. L. 100–690, title VII, §7111, Nov. 18, 1988, 102 Stat. 4419; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Pub. L. 100–690, title VII, §7111, Nov. 18, 1988, 102 Stat. 4419; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -766,6 +770,16 @@ First, the Committee inserted the words "current or former" before "United State
 
 Second, the Committee added, at the end of Rule 4(a)(1)(B)(iv), the following new language: "—including all instances in which the United States represents that person when the judgment or order is entered or files the appeal for that person." During the public comment period, concerns were raised that a party might rely on the longer appeal period, only to risk the appeal being held untimely by a court that later concluded that the relevant act or omission had not actually occurred in connection with federal duties. The Committee decided to respond to this concern by adding two safe harbor provisions. These provisions make clear that the longer appeal periods apply in any case where the United States either represents the officer or employee at the time of entry of the relevant judgment or files the notice of appeal on the officer or employee's behalf.
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+*Subdivision (a)(4)*. A clarifying amendment is made to subdivision (a)(4). Former Rule 4(a)(4) provided that "[i]f a party timely files in the district court" certain post-judgment motions, "the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion." Responding to a circuit split concerning the meaning of "timely" in this provision, the amendment adopts the majority approach and rejects the approach taken in *National Ecological Foundation v. Alexander*, 496 F.3d 466 (6th Cir. 2007). A motion made after the time allowed by the Civil Rules will not qualify as a motion that, under Rule 4(a)(4)(A), re-starts the appeal time—and that fact is not altered by, for example, a court order that sets a due date that is later than permitted by the Civil Rules, another party's consent or failure to object to the motion's lateness, or the court's disposition of the motion without explicit reliance on untimeliness.
+
+*Subdivision (c)(1)*. Rule 4(c)(1) is revised to streamline and clarify the operation of the inmate-filing rule.
+
+The Rule requires the inmate to show timely deposit and prepayment of postage. The Rule is amended to specify that a notice is timely if it is accompanied by a declaration or notarized statement stating the date the notice was deposited in the institution's mail system and attesting to the prepayment of first-class postage. The declaration must state that first-class postage "is being prepaid," not (as directed by the former Rule) that first-class postage "has been prepaid." This change reflects the fact that inmates may need to rely upon the institution to affix postage after the inmate has deposited the document in the institution's mail system. New Form 7 in the Appendix of Forms sets out a suggested form of the declaration.
+
+The amended rule also provides that a notice is timely without a declaration or notarized statement if other evidence accompanying the notice shows that the notice was deposited on or before the due date and that postage was prepaid. If the notice is not accompanied by evidence that establishes timely deposit and prepayment of postage, then the court of appeals has discretion to accept a declaration or notarized statement at a later date. The Rule uses the phrase "exercises its discretion to permit"—rather than simply "permits"—to help ensure that pro se inmate litigants are aware that a court will not necessarily forgive a failure to provide the declaration initially.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subd. (a)(4), (6), and (7), are set out in this Appendix.
@@ -808,7 +822,11 @@ The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are s
 
 (3) The petition and answer will be submitted without oral argument unless the court of appeals orders otherwise.
 
-(c) Form of Papers; Number of Copies. All papers must conform to Rule 32(c)(2). Except by the court's permission, a paper must not exceed 20 pages, exclusive of the disclosure statement, the proof of service, and the accompanying documents required by Rule 5(b)(1)(E). An original and 3 copies must be filed unless the court requires a different number by local rule or by order in a particular case.
+(c) Form of Papers; Number of Copies; Length Limits. All papers must conform to Rule 32(c)(2). An original and 3 copies must be filed unless the court requires a different number by local rule or by order in a particular case. Except by the court's permission, and excluding the accompanying documents required by Rule 5(b)(1)(E):
+
+(1) a paper produced using a computer must not exceed 5,200 words; and
+
+(2) a handwritten or typewritten paper must not exceed 20 pages.
 
 (d) Grant of Permission; Fees; Cost Bond; Filing the Record.
 
@@ -822,7 +840,7 @@ The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are s
 
 (3) The district clerk must notify the circuit clerk once the petitioner has paid the fees. Upon receiving this notice, the circuit clerk must enter the appeal on the docket. The record must be forwarded and filed in accordance with Rules 11 and 12(c).
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -871,6 +889,10 @@ Rule 5(c) has been further amended to limit the length of papers filed under Rul
 *Subdivision (b)(2).* Subdivision (b)(2) is amended in the light of the change in Rule 26(a)'s time computation rules. Subdivision (b)(2) formerly required that an answer in opposition to a petition for permission to appeal, or a cross-petition for permission to appeal, be filed "within 7 days after the petition is served." Under former Rule 26(a), "7 days" always meant at least 9 days and could mean as many as 11 or even 13 days. Under current Rule 26(a), intermediate weekends and holidays are counted. Changing the period from 7 to 10 days offsets the change in computation approach. See the Note to Rule 26.
 
 *Subdivision (d)(1).* The time set in the former rule at 10 days has been revised to 14 days. See the Note to Rule 26.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes the accompanying documents required by Rule 5(b)(1)(E) and any items listed in Rule 32(f).
 
 ### [Rule 5.1. Appeal by Leave under 28 U.S.C. §636(c)(5)] (Abrogated Apr. 24, 1998, eff. Dec. 1, 1998) ###
 
@@ -1724,9 +1746,13 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (c) Other Extraordinary Writs. An application for an extraordinary writ other than one provided for in Rule 21(a) must be made by filing a petition with the circuit clerk with proof of service on the respondents. Proceedings on the application must conform, so far as is practicable, to the procedures prescribed in Rule 21(a) and (b).
 
-(d) Form of Papers; Number of Copies. All papers must conform to Rule 32(c)(2). Except by the court's permission, a paper must not exceed 30 pages, exclusive of the disclosure statement, the proof of service, and the accompanying documents required by Rule 21(a)(2)(C). An original and 3 copies must be filed unless the court requires the filing of a different number by local rule or by order in a particular case.
+(d) Form of Papers; Number of Copies; Length Limits. All papers must conform to Rule 32(c)(2). An original and 3 copies must be filed unless the court requires the filing of a different number by local rule or by order in a particular case. Except by the court's permission, and excluding the accompanying documents required by Rule 21(a)(2)(C):
 
-(As amended Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(1) a paper produced using a computer must not exceed 7,800 words; and
+
+(2) a handwritten or typewritten paper must not exceed 30 pages.
+
+(As amended Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1763,6 +1789,10 @@ The language and organization of the rule are amended to make the rule more easi
 Rule 21(d) has been further amended to limit the length of papers filed under Rule 21.
 
 *Changes Made After Publication and Comments.* No changes were made to the text of the proposed amendment or to the Committee Note, except that the page limit was increased from 20 pages to 30 pages. The Committee was persuaded by some commentators that petitions for extraordinary writs closely resemble principal briefs on the merits and should be allotted more than 20 pages.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes the accompanying documents required by Rule 21(a)(2)(C) and any items listed in Rule 32(f).
 
 ### TITLE VI. HABEAS CORPUS; PROCEEDINGS IN FORMA PAUPERIS ###
 
@@ -1948,7 +1978,15 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (ii) dispatched to a third-party commercial carrier for delivery to the clerk within 3 days.
 
-(C) *Inmate Filing.* A paper filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If an institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+(C) *Inmate Filing.* If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 25(a)(2)(C). A paper filed by an inmate is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
+
+(i) it is accompanied by:
+
+• a declaration in compliance with 28 U.S.C. §1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or
+
+• evidence (such as a postmark or date stamp) showing that the paper was so deposited and that postage was prepaid; or
+
+(ii) the court of appeals exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies Rule 25(a)(2)(C)(i).
 
 (D) *Electronic Filing.* A court of appeals may by local rule permit or require papers to be filed, signed, or verified by electronic means that are consistent with technical standards, if any, that the Judicial Conference of the United States establishes. A local rule may require filing by electronic means only if reasonable exceptions are allowed. A paper filed by electronic means in compliance with a local rule constitutes a written paper for the purpose of applying these rules.
 
@@ -1998,7 +2036,7 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (e) Number of Copies. When these rules require the filing or furnishing of a number of copies, a court may require a different number by local rule or by order in a particular case.
 
-(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2092,6 +2130,14 @@ Appellate Rule 25(a)(5) requires that, in cases that arise on appeal from a dist
 
 Under former Rule 26(a), short periods that span weekends or holidays were computed without counting those weekends or holidays. To specify that a period should be calculated by counting all intermediate days, including weekends or holidays, the Rules used the term "calendar days." Rule 26(a) now takes a "days-are-days" approach under which all intermediate days are counted, no matter how short the period. Accordingly, "3 calendar days" in subdivisions (a)(2)(B)(ii) and (c)(1)(C) is amended to read simply "3 days."
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+Rule 25(a)(2)(C) is revised to streamline and clarify the operation of the inmate-filing rule.
+
+The Rule requires the inmate to show timely deposit and prepayment of postage. The Rule is amended to specify that a paper is timely if it is accompanied by a declaration or notarized statement stating the date the paper was deposited in the institution's mail system and attesting to the prepayment of first-class postage. The declaration must state that first-class postage "is being prepaid," not (as directed by the former Rule) that first-class postage "has been prepaid." This change reflects the fact that inmates may need to rely upon the institution to affix postage after the inmate has deposited the document in the institution's mail system. New Form 7 in the Appendix of Forms sets out a suggested form of the declaration.
+
+The amended rule also provides that a paper is timely without a declaration or notarized statement if other evidence accompanying the paper shows that the paper was deposited on or before the due date and that postage was prepaid. If the paper is not accompanied by evidence that establishes timely deposit and prepayment of postage, then the court of appeals has discretion to accept a declaration or notarized statement at a later date. The Rule uses the phrase "exercises its discretion to permit"—rather than simply "permits"—to help ensure that pro se inmate litigants are aware that a court will not necessarily forgive a failure to provide the declaration initially.
+
 [<sup>1</sup> At its June 15–16, 2005, meeting, the Standing Rules Committee with the concurrence of the advisory committee chair agreed to set out the "reasonable exception" clause as a separate sentence in the rule, consistent with drafting conventions of the Style Project.](#Rule_25_1)
 
 ### Rule 26. Computing and Extending Time ###
@@ -2126,7 +2172,7 @@ Under former Rule 26(a), short periods that span weekends or holidays were compu
 
 (B) for electronic filing in the court of appeals, at midnight in the time zone of the circuit clerk's principal office;
 
-(C) for filing under Rules 4(c)(1), 25(a)(2)(B), and 25(a)(2)(C)—and filing by mail under Rule 13(b)—at the latest time for the method chosen for delivery to the post office, third-party commercial carrier, or prison mailing system; and
+(C) for filing under Rules 4(c)(1), 25(a)(2)(B), and 25(a)(2)(C)—and filing by mail under Rule 13(a)(2)—at the latest time for the method chosen for delivery to the post office, third-party commercial carrier, or prison mailing system; and
 
 (D) for filing by other means, when the clerk's office is scheduled to close.
 
@@ -2146,9 +2192,9 @@ Under former Rule 26(a), short periods that span weekends or holidays were compu
 
 (2) a notice of appeal from or a petition to enjoin, set aside, suspend, modify, enforce, or otherwise review an order of an administrative agency, board, commission, or officer of the United States, unless specifically authorized by law.
 
-(c) Additional Time after Service. When a party may or must act within a specified time after service, 3 days are added after the period would otherwise expire under Rule 26(a), unless the paper is delivered on the date of service stated in the proof of service. For purposes of this Rule 26(c), a paper that is served electronically is not treated as delivered on the date of service stated in the proof of service.
+(c) Additional Time after Certain Kinds of Service. When a party may or must act within a specified time after being served, 3 days are added after the period would otherwise expire under Rule 26(a), unless the paper is delivered on the date of service stated in the proof of service. For purposes of this Rule 26(c), a paper that is served electronically is treated as delivered on the date of service stated in the proof of service.
 
-(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2256,6 +2302,22 @@ To illustrate: A paper is served by mail on Thursday, November 1, 2007. The pres
 
 *Changes Made After Publication and Comment.* No changes were made after publication and comment, except for the style changes (described below) [omitted] which were suggested by Professor Kimble.
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+*Subdivision (a)(4)(C).* The reference to Rule 13(b) is revised to refer to Rule 13(a)(2) in light of a 2013 amendment to Rule 13. The amendment to subdivision (a)(4)(C) is technical and no substantive change is intended.
+
+*Subdivision (c).* Rule 26(c) is amended to remove service by electronic means under Rule 25(c)(1)(D) from the modes of service that allow 3 added days to act after being served.
+
+Rule 25(c) was amended in 2002 to provide for service by electronic means. Although electronic transmission seemed virtually instantaneous even then, electronic service was included in the modes of service that allow 3 added days to act after being served. There were concerns that the transmission might be delayed for some time, and particular concerns that incompatible systems might make it difficult or impossible to open attachments. Those concerns have been substantially alleviated by advances in technology and widespread skill in using electronic transmission.
+
+A parallel reason for allowing the 3 added days was that electronic service was authorized only with the consent of the person to be served. Concerns about the reliability of electronic transmission might have led to refusals of consent; the 3 added days were calculated to alleviate these concerns.
+
+Diminution of the concerns that prompted the decision to allow the 3 added days for electronic transmission is not the only reason for discarding this indulgence. Many rules have been changed to ease the task of computing time by adopting 7-, 14-, 21-, and 28-day periods that allow "day-of-the-week" counting. Adding 3 days at the end complicated the counting, and increased the occasions for further complication by invoking the provisions that apply when the last day is a Saturday, Sunday, or legal holiday.
+
+Electronic service after business hours, or just before or during a weekend or holiday, may result in a practical reduction in the time available to respond. Extensions of time may be warranted to prevent prejudice.
+
+Rule 26(c) has also been amended to refer to instances when a party "may or must act . . . after being served" rather than to instances when a party "may or must act . . . after service." If, in future, an Appellate Rule sets a deadline for a party to act after *that party itself effects service* on another person, this change in language will clarify that Rule 26(c)'s three added days are not accorded to the party who effected service.
+
 ### Rule 26.1. Corporate Disclosure Statement ###
 
 (a) Who Must File. Any nongovernmental corporate party to a proceeding in a court of appeals must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation.
@@ -2360,7 +2422,7 @@ I should note that, at its April meeting, the Appellate Rules Committee discusse
 
 (c) Power of a Single Judge to Entertain a Motion. A circuit judge may act alone on any motion, but may not dismiss or otherwise determine an appeal or other proceeding. A court of appeals may provide by rule or by order in a particular case that only the court may act on any motion or class of motions. The court may review the action of a single judge.
 
-(d) Form of Papers; Page Limits; and Number of Copies.
+(d) Form of Papers; Length Limits; Number of Copies.
 
 (1) *Format.*
 
@@ -2374,13 +2436,21 @@ I should note that, at its April meeting, the Appellate Rules Committee discusse
 
 (E) *Typeface and Type Styles.* The document must comply with the typeface requirements of Rule 32(a)(5) and the type-style requirements of Rule 32(a)(6).
 
-(2) *Page Limits.* A motion or a response to a motion must not exceed 20 pages, exclusive of the corporate disclosure statement and accompanying documents authorized by Rule 27(a)(2)(B), unless the court permits or directs otherwise. A reply to a response must not exceed 10 pages.
+(2) *Length Limits.* Except by the court's permission, and excluding the accompanying documents authorized by Rule 27(a)(2)(B):
+
+(A) a motion or response to a motion produced using a computer must not exceed 5,200 words;
+
+(B) a handwritten or typewritten motion or response to a motion must not exceed 20 pages;
+
+(C) a reply produced using a computer must not exceed 2,600 words; and
+
+(D) a handwritten or typewritten reply to a response must not exceed 10 pages.
 
 (3) *Number of Copies.* An original and 3 copies must be filed unless the court requires a different number by local rule or by order in a particular case.
 
 (e) Oral Argument. A motion will be decided without oral argument unless the court orders otherwise.
 
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2480,6 +2550,10 @@ Permitting parties to take 9 or more days to reply to a response to a motion wou
 
 *Subdivision (a)(4).* Subdivision (a)(4) formerly required that a reply to a response be filed "within 5 days after service of the response." Prior to the 2002 amendments, this period was set at 7 days; in 2002 it was shortened in the light of the 2002 change in time-computation approach (discussed above). Under current Rule 26(a), intermediate weekends and holidays are counted for all periods, and revised subdivision (a)(4) once again sets the period at 7 days.
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes the accompanying documents required by Rule 27(a)(2)(B) and any items listed in Rule 32(f).
+
 ### Rule 28. Briefs ###
 
 (a) Appellant's Brief. The appellant's brief must contain, under appropriate headings and in the order indicated:
@@ -2514,7 +2588,7 @@ Permitting parties to take 9 or more days to reply to a response to a motion wou
 
 (9) a short conclusion stating the precise relief sought; and
 
-(10) the certificate of compliance, if required by Rule 32(a)(7).
+(10) the certificate of compliance, if required by Rule 32(g)(1).
 
 (b) Appellee's Brief. The appellee's brief must conform to the requirements of Rule 28(a)(1)–(8) and (10), except that none of the following need appear unless the appellee is dissatisfied with the appellant's statement:
 
@@ -2550,7 +2624,7 @@ Only clear abbreviations may be used. A party referring to evidence whose admiss
 
 (j) Citation of Supplemental Authorities. If pertinent and significant authorities come to a party's attention after the party's brief has been filed—or after oral argument but before decision—a party may promptly advise the circuit clerk by letter, with a copy to all other parties, setting forth the citations. The letter must state the reasons for the supplemental citations, referring either to the page of the brief or to a point argued orally. The body of the letter must not exceed 350 words. Any response must be made promptly and must be similarly limited.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2636,6 +2710,10 @@ During the comment period, concerns were raised that the deletion of current Rul
 
 The Committee augmented the Note to Rule 28(a) in two respects. It added a reference to Supreme Court Rule 24.1(g), upon which the proposed revision to Rule 28(a)(6) is modeled. And it added—as a second paragraph in the Note—a discussion of the contents of the statement of the case.
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+Rule 28(a)(10) is revised to refer to Rule 32(g)(1) instead of Rule 32(a)(7), to reflect the relocation of the certificate-of-compliance requirement.
+
 ### Rule 28.1. Cross-Appeals ###
 
 (a) Applicability. This rule applies to a case in which a cross-appeal is filed. Rules 28(a)–(c), 31(a)(1), 32(a)(2), and 32(a)(7)(A)–(B) do not apply to such a case, except as otherwise provided in this rule.
@@ -2666,25 +2744,23 @@ The Committee augmented the Note to Rule 28(a) in two respects. It added a refer
 
 (e) Length.
 
-(1) *Page Limitation.* Unless it complies with Rule 28.1(e)(2) and (3), the appellant's principal brief must not exceed 30 pages; the appellee's principal and response brief, 35 pages; the appellant's response and reply brief, 30 pages; and the appellee's reply brief, 15 pages.
+(1) *Page Limitation.* Unless it complies with Rule 28.1(e)(2), the appellant's principal brief must not exceed 30 pages; the appellee's principal and response brief, 35 pages; the appellant's response and reply brief, 30 pages; and the appellee's reply brief, 15 pages.
 
 (2) *Type-Volume Limitation.*
 
-(A) The appellant's principal brief or the appellant's response and reply brief is acceptable if:
+(A) The appellant's principal brief or the appellant's response and reply brief is acceptable if it:
 
-(i) it contains no more than 14,000 words; or
+(i) contains no more than 13,000 words; or
 
-(ii) it uses a monospaced face and contains no more than 1,300 lines of text.
+(ii) uses a monospaced face and contains no more than 1,300 lines of text.
 
-(B) The appellee's principal and response brief is acceptable if:
+(B) The appellee's principal and response brief is acceptable if it:
 
-(i) it contains no more than 16,500 words; or
+(i) contains no more than 15,300 words; or
 
-(ii) it uses a monospaced face and contains no more than 1,500 lines of text.
+(ii) uses a monospaced face and contains no more than 1,500 lines of text.
 
 (C) The appellee's reply brief is acceptable if it contains no more than half of the type volume specified in Rule 28.1(e)(2)(A).
-
-(3) *Certificate of Compliance.* A brief submitted under Rule 28.1(e)(2) must comply with Rule 32(a)(7)(C).
 
 (f) Time to Serve and File a Brief. Briefs must be served and filed as follows:
 
@@ -2696,7 +2772,7 @@ The Committee augmented the Note to Rule 28(a) in two respects. It added a refer
 
 (4) the appellee's reply brief, within 14 days after the appellant's response and reply brief is served, but at least 7 days before argument unless the court, for good cause, allows a later filing.
 
-(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Committee Notes on Rules—2005 ####
 
@@ -2736,47 +2812,71 @@ The fourth brief is the "appellee's reply brief." Like a reply brief in a case t
 
 *Changes Made After Publication and Comment.* No changes were made to the text of the proposed amendment to Rule 28.1 after publication and comment. The Committee revised a quotation in the Committee Note to Rule 28.1(c) to conform to the changes (described above) to the text of proposed Rule 28(a)(6).
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+When Rule 28.1 was adopted in 2005, it modeled its type-volume limits on those set forth in Rule 32(a)(7) for briefs in cases that did not involve a cross-appeal. At that time, Rule 32(a)(7)(B) set word limits based on an estimate of 280 words per page.
+
+In the course of adopting word limits for the length limits in Rules 5, 21, 27, 35, and 40, and responding to concern about the length of briefs, the Committee has reevaluated the conversion ratio (from pages to words) and decided to apply a conversion ratio of 260 words per page. Rules 28.1 and 32(a)(7)(B) are amended to reduce the word limits accordingly.
+
+In a complex case, a party may need to file a brief that exceeds the type-volume limitations specified in these rules, such as to include unusually voluminous information explaining relevant background or legal provisions or to respond to multiple briefs by opposing parties or amici. The Committee expects that courts will accommodate those situations by granting leave to exceed the type-volume limitations as appropriate.
+
 ### Rule 29. Brief of an Amicus Curiae ###
 
-(a) When Permitted. The United States or its officer or agency or a state may file an amicus-curiae brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing.
+(a) During Initial Consideration of a Case on the Merits.
 
-(b) Motion for Leave to File. The motion must be accompanied by the proposed brief and state:
+(1) *Applicability.* This Rule 29(a) governs amicus filings during a court's initial consideration of a case on the merits.
 
-(1) the movant's interest; and
+(2) *When Permitted.* The United States or its officer or agency or a state may file an amicus-curiae brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing.
 
-(2) the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the case.
+(3) *Motion for Leave to File.* The motion must be accompanied by the proposed brief and state:
 
-(c) Contents and Form. An amicus brief must comply with Rule 32. In addition to the requirements of Rule 32, the cover must identify the party or parties supported and indicate whether the brief supports affirmance or reversal. An amicus brief need not comply with Rule 28, but must include the following:
+(A) the movant's interest; and
 
-(1) if the amicus curiae is a corporation, a disclosure statement like that required of parties by Rule 26.1;
+(B) the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the case.
 
-(2) a table of contents, with page references;
+(4) *Contents and Form.* An amicus brief must comply with Rule 32. In addition to the requirements of Rule 32, the cover must identify the party or parties supported and indicate whether the brief supports affirmance or reversal. An amicus brief need not comply with Rule 28, but must include the following:
 
-(3) a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the brief where they are cited;
+(A) if the amicus curiae is a corporation, a disclosure statement like that required of parties by Rule 26.1;
 
-(4) a concise statement of the identity of the amicus curiae, its interest in the case, and the source of its authority to file;
+(B) a table of contents, with page references;
 
-(5) unless the amicus curiae is one listed in the first sentence of Rule 29(a), a statement that indicates whether:
+(C) a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the brief where they are cited;
 
-(A) a party's counsel authored the brief in whole or in part;
+(D) a concise statement of the identity of the amicus curiae, its interest in the case, and the source of its authority to file;
 
-(B) a party or a party's counsel contributed money that was intended to fund preparing or submitting the brief; and
+(E) unless the amicus curiae is one listed in the first sentence of Rule 29(a)(2), a statement that indicates whether:
 
-(C) a person—other than the amicus curiae, its members, or its counsel—contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
+(i) a party's counsel authored the brief in whole or in part;
 
-(6) an argument, which may be preceded by a summary and which need not include a statement of the applicable standard of review; and
+(ii) a party or a party's counsel contributed money that was intended to fund preparing or submitting the brief; and
 
-(7) a certificate of compliance, if required by Rule 32(a)(7).
+(iii) a person—other than the amicus curiae, its members, or its counsel—contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
 
-(d) Length. Except by the court's permission, an amicus brief may be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
+(F) an argument, which may be preceded by a summary and which need not include a statement of the applicable standard of review; and
 
-(e) Time for Filing. An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant's or petitioner's principal brief is filed. A court may grant leave for later filing, specifying the time within which an opposing party may answer.
+(G) a certificate of compliance under Rule 32(g)(1), if length is computed using a word or line limit.
 
-(f) Reply Brief. Except by the court's permission, an amicus curiae may not file a reply brief.
+(5) *Length.* Except by the court's permission, an amicus brief may be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
 
-(g) Oral Argument. An amicus curiae may participate in oral argument only with the court's permission.
+(6) *Time for Filing.* An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant's or petitioner's principal brief is filed. A court may grant leave for later filing, specifying the time within which an opposing party may answer.
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(7) *Reply Brief.* Except by the court's permission, an amicus curiae may not file a reply brief.
+
+(8) *Oral Argument.* An amicus curiae may participate in oral argument only with the court's permission.
+
+(b) During Consideration of Whether to Grant Rehearing.
+
+(1) *Applicability.* This Rule 29(b) governs amicus filings during a court's consideration of whether to grant panel rehearing or rehearing en banc, unless a local rule or order in a case provides otherwise.
+
+(2) *When Permitted.* The United States or its officer or agency or a state may file an amicus-curiae brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court.
+
+(3) *Motion for Leave to File.* Rule 29(a)(3) applies to a motion for leave.
+
+(4) *Contents, Form, and Length.* Rule 29(a)(4) applies to the amicus brief. The brief must not exceed 2,600 words.
+
+(5) *Time for Filing.* An amicus curiae supporting the petition for rehearing or supporting neither party must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the petition is filed. An amicus curiae opposing the petition must file its brief, accompanied by a motion for filing when necessary, no later than the date set by the court for the response.
+
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2841,6 +2941,14 @@ One change concerns the third subdivision of the authorship and funding disclosu
 Another set of changes concerns the placement of the disclosure requirement. As published, the Rule 29(c) proposal would have placed the new authorship and funding disclosure requirement in a new subdivision (c)(7) and would have moved the requirement of a corporate disclosure statement from the initial block of text in Rule 29(c) to a new subdivision (c)(6). New subdivision (c)(7) would have directed that the authorship and funding disclosure be made "in the first footnote on the first page." Commentators criticized this directive as ambiguous and suggested that a better approach would be to direct that the authorship and funding disclosure follow the statement currently required by existing Rule 29(c)(3). The Committee found merit in these suggestions and decided to add the authorship and funding disclosure provision to existing subdivision (c)(3). However, a further revision to the structure of subdivision (c) was later made in response to style guidance from Professor Kimble, as discussed below.
 
 Subsequent to the Appellate Rules Committee's meeting, the language adopted by the advisory committee was circulated to Professor Kimble for style review. Professor Kimble argued that the authorship and funding disclosure provision should be placed in a separate subdivision rather than being placed in existing subdivision (c)(3). In the light of the Appellate Rules Committee's goal of listing the required components in the order in which they should appear in the brief, the decision was made to place the authorship and funding disclosure provision in a new subdivision following existing subdivision (c)(3). Though this requires renumbering the subparts of Rule 29(c), those subparts have only existed for about a decade (since the 1998 restyling) and citations to the specific subparts of Rule 29(c) do not appear in the caselaw. Given that this change entails renumbering some subparts of Rule 29(c), it also seems advisable to move the corporate disclosure provision into a new subdivision (c)(1) and to renumber the subsequent subdivisions accordingly. Professor Kimble also suggested two stylistic changes to the language of what will now become new subdivision (c)(5). First, instead of using the language "unless filed by an amicus curiae listed in the first sentence of Rule 29(a)," the provision now reads "unless the amicus curiae is one listed in the first sentence of Rule 29(a)." Second, the words "indicates whether" have been moved up into the introductory text in 29(c)(5) instead of being repeated at the outset of the three subsections (29(c)(5)(A), (B) and (C)). Also, a comma has been added to what will become Rule 29(c)(3).
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Rule 29 is amended to address amicus filings in connection with requests for panel rehearing and rehearing en banc.
+
+Existing Rule 29 is renumbered Rule 29(a), and language is added to that subdivision (a) to state that its provisions apply to amicus filings during the court's initial consideration of a case on the merits. Rule 29(c)(7) becomes Rule 29(a)(4)(G) and is revised to accord with the relocation and revision of the certificate-of-compliance requirement. New Rule 32(g)(1) states that "[a] brief submitted under Rules 28.1(e)(2), 29(b)(4), or 32(a)(7)(B) . . . must include" a certificate of compliance. An amicus brief submitted during initial consideration of a case on the merits counts as a "brief submitted under Rule[] . . . 32(a)(7)(B)" if the amicus computes Rule 29(a)(5)'s length limit by taking half of a type-volume limit in Rule 32(a)(7)(B). Rule 29(a)(4)(G) restates Rule 32(g)(1)'s requirement functionally, by providing that a certificate of compliance is required if an amicus brief's length is computed using a word or line limit.
+
+New subdivision (b) is added to address amicus filings in connection with a petition for panel rehearing or rehearing en banc. Subdivision (b) sets default rules that apply when a court does not provide otherwise by local rule or by order in a case. A court remains free to adopt different rules governing whether amicus filings are permitted in connection with petitions for rehearing, and governing the procedures when such filings are permitted.
 
 ### Rule 30. Appendix to the Briefs ###
 
@@ -3036,29 +3144,17 @@ The language and organization of the rule are amended to make the rule more easi
 
 (7) *Length.*
 
-(A) *Page Limitation.* A principal brief may not exceed 30 pages, or a reply brief 15 pages, unless it complies with Rule 32(a)(7)(B) and (C).
+(A) *Page Limitation.* A principal brief may not exceed 30 pages, or a reply brief 15 pages, unless it complies with Rule 32(a)(7)(B).
 
 (B) *Type-Volume Limitation.*
 
-(i) A principal brief is acceptable if:
+(i) A principal brief is acceptable if it:
 
-• it contains no more than 14,000 words; or
+• contains no more than 13,000 words; or
 
-• it uses a monospaced face and contains no more than 1,300 lines of text.
+• uses a monospaced face and contains no more than 1,300 lines of text.
 
 (ii) A reply brief is acceptable if it contains no more than half of the type volume specified in Rule 32(a)(7)(B)(i).
-
-(iii) Headings, footnotes, and quotations count toward the word and line limitations. The corporate disclosure statement, table of contents, table of citations, statement with respect to oral argument, any addendum containing statutes, rules or regulations, and any certificates of counsel do not count toward the limitation.
-
-(C) *Certificate of Compliance.*
-
-(i) A brief submitted under Rules 28.1(e)(2) or 32(a)(7)(B) must include a certificate by the attorney, or an unrepresented party, that the brief complies with the type-volume limitation. The person preparing the certificate may rely on the word or line count of the word-processing system used to prepare the brief. The certificate must state either:
-
-• the number of words in the brief; or
-
-• the number of lines of monospaced type in the brief.
-
-(ii) Form 6 in the Appendix of Forms is a suggested form of a certificate of compliance. Use of Form 6 must be regarded as sufficient to meet the requirements of Rules 28.1(e)(3) and 32(a)(7)(C)(i).
 
 (b) Form of an Appendix. An appendix must comply with Rule 32(a)(1), (2), (3), and (4), with the following exceptions:
 
@@ -3080,9 +3176,37 @@ The language and organization of the rule are amended to make the rule more easi
 
 (d) Signature. Every brief, motion, or other paper filed with the court must be signed by the party filing the paper or, if the party is represented, by one of the party's attorneys.
 
-(e) Local Variation. Every court of appeals must accept documents that comply with the form requirements of this rule. By local rule or order in a particular case a court of appeals may accept documents that do not meet all of the form requirements of this rule.
+(e) Local Variation. Every court of appeals must accept documents that comply with the form requirements of this rule and the length limits set by these rules. By local rule or order in a particular case, a court of appeals may accept documents that do not meet all the form requirements of this rule or the length limits set by these rules.
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005.)
+(f) Items Excluded from Length. In computing any length limit, headings, footnotes, and quotations count toward the limit but the following items do not:
+
+• the cover page;
+
+• a corporate disclosure statement;
+
+• a table of contents;
+
+• a table of citations;
+
+• a statement regarding oral argument;
+
+• an addendum containing statutes, rules, or regulations;
+
+• certificates of counsel;
+
+• the signature block;
+
+• the proof of service; and
+
+• any item specifically excluded by these rules or by local rule.
+
+(g) Certificate of Compliance.
+
+(1) *Briefs and Papers That Require a Certificate.* A brief submitted under Rules 28.1(e)(2), 29(b)(4), or 32(a)(7)(B)—and a paper submitted under Rules 5(c)(1), 21(d)(1), 27(d)(2)(A), 27(d)(2)(C), 35(b)(2)(A), or 40(b)(1)—must include a certificate by the attorney, or an unrepresented party, that the document complies with the type-volume limitation. The person preparing the certificate may rely on the word or line count of the word-processing system used to prepare the document. The certificate must state the number of words—or the number of lines of monospaced type—in the document.
+
+(2) *Acceptable Form.* Form 6 in the Appendix of Forms meets the requirements for a certificate of compliance.
+
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3198,6 +3322,16 @@ By requiring a signature, subdivision (d) ensures that a readily identifiable at
 #### Committee Notes on Rules—2005 Amendment ####
 
 *Subdivision (a)(7)(C).* Rule 32(a)(7)(C) has been amended to add cross-references to new Rule 28.1, which governs briefs filed in cases involving cross-appeals. Rule 28.1(e)(2) prescribes type-volume limitations that apply to such briefs, and Rule 28.1(e)(3) requires parties to certify compliance with those type-volume limitations under Rule 32(a)(7)(C).
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+When Rule 32(a)(7)(B)'s type-volume limits for briefs were adopted in 1998, the word limits were based on an estimate of 280 words per page. In the course of adopting word limits for the length limits in Rules 5, 21, 27, 35, and 40, and responding to concern about the length of briefs, the Committee has reevaluated the conversion ratio (from pages to words) and decided to apply a conversion ratio of 260 words per page. Rules 28.1 and 32(a)(7)(B) are amended to reduce the word limits accordingly.
+
+In a complex case, a party may need to file a brief that exceeds the type-volume limitations specified in these rules, such as to include unusually voluminous information explaining relevant background or legal provisions or to respond to multiple briefs by opposing parties or amici. The Committee expects that courts will accommodate those situations by granting leave to exceed the type-volume limitations as appropriate.
+
+Subdivision (e) is amended to make clear a court's ability (by local rule or order in a case) to increase the length limits for briefs and other documents. Subdivision (e) already established this authority as to the length limits in Rule 32(a)(7); the amendment makes clear that this authority extends to all length limits in the Appellate Rules.
+
+A new subdivision (f) is added to set out a global list of items excluded from length computations, and the list of exclusions in former subdivision (a)(7)(B)(iii) is deleted. The certificate-of-compliance provision formerly in Rule 32(a)(7)(C) is relocated to a new Rule 32(g) and now applies to filings under all type-volume limits (other than Rule 28(j)'s word limit)—including the new word limits in Rules 5, 21, 27, 29, 35, and 40. Conforming amendments are made to Form 6.
 
 ### Rule 32.1. Citing Judicial Dispositions ###
 
@@ -3339,9 +3473,13 @@ Paragraph (a)(2) states that one reason for deciding that oral argument is unnec
 
 (B) the proceeding involves one or more questions of exceptional importance, each of which must be concisely stated; for example, a petition may assert that a proceeding presents a question of exceptional importance if it involves an issue on which the panel decision conflicts with the authoritative decisions of other United States Courts of Appeals that have addressed the issue.
 
-(2) Except by the court's permission, a petition for an en banc hearing or rehearing must not exceed 15 pages, excluding material not counted under Rule 32.
+(2) Except by the court's permission:
 
-(3) For purposes of the page limit in Rule 35(b)(2), if a party files both a petition for panel rehearing and a petition for rehearing en banc, they are considered a single document even if they are filed separately, unless separate filing is required by local rule.
+(A) a petition for an en banc hearing or rehearing produced using a computer must not exceed 3,900 words; and
+
+(B) a handwritten or typewritten petition for an en banc hearing or rehearing must not exceed 15 pages.
+
+(3) For purposes of the limits in Rule 35(b)(2), if a party files both a petition for panel rehearing and a petition for rehearing en banc, they are considered a single document even if they are filed separately, unless separate filing is required by local rule.
 
 (c) Time for Petition for Hearing or Rehearing En Banc. A petition that an appeal be heard initially en banc must be filed by the date when the appellee's brief is due. A petition for a rehearing en banc must be filed within the time prescribed by Rule 40 for filing a petition for rehearing.
 
@@ -3351,7 +3489,7 @@ Paragraph (a)(2) states that one reason for deciding that oral argument is unnec
 
 (f) Call for a Vote. A vote need not be taken to determine whether the case will be heard or reheard en banc unless a judge calls for a vote.
 
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 25, 2005, eff. Dec. 1, 2005.)
+(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3436,6 +3574,10 @@ Second, the absolute majority approach can leave the en banc court helpless to o
 The amendment to Rule 35(a) is not meant to alter or affect the quorum requirement of 28 U.S.C. §46(d). In particular, the amendment is not intended to foreclose the possibility that §46(d) might be read to require that more than half of all circuit judges in regular active service be eligible to participate in order for the court to hear or rehear a case en banc.
 
 *Changes Made After Publication and Comments.* No changes were made to the text of the proposed amendment. The Committee Note was modified in three respects. First, the Note was changed to put more emphasis on the fact that the case majority rule is the best interpretation of §46(c). Second, the Note now clarifies that nothing in the proposed amendment is intended to foreclose courts from interpreting 28 U.S.C. §46(d) to provide that a case cannot be heard or reheard en banc unless a majority of all judges in regular active service—disqualified or not—are eligible to participate. Finally, a couple of arguments made by supporters of the amendment to Rule 35(a) were incorporated into the Note.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes any items listed in Rule 32(f).
 
 ### Rule 36. Entry of Judgment; Notice ###
 
@@ -3593,9 +3735,13 @@ The language and organization of the rule are amended to make the rule more easi
 
 (C) issue any other appropriate order.
 
-(b) Form of Petition; Length. The petition must comply in form with Rule 32. Copies must be served and filed as Rule 31 prescribes. Unless the court permits or a local rule provides otherwise, a petition for panel rehearing must not exceed 15 pages.
+(b) Form of Petition; Length. The petition must comply in form with Rule 32. Copies must be served and filed as Rule 31 prescribes. Except by the court's permission:	
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(1)	a petition for panel rehearing produced using a computer must not exceed 3,900 words; and
+
+(2) a handwritten or typewritten petition for panel rehearing must not exceed 15 pages.
+
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3626,6 +3772,10 @@ To promote clarity of application, the amendment to Rule 40(a)(1) includes safe 
 First, the Committee inserted the words "current or former" before "United States officer or employee." This insertion causes the text of the proposed Rule to diverge slightly from that of Civil Rules 4(i)(3) and 12(a)(3), which refer simply to "a United States officer or employee [etc.]." This divergence, though, is only stylistic. The 2000 Committee Notes to Civil Rules 4(i)(3) and 12(a)(3) make clear that those rules are intended to encompass former as well as current officers or employees.
 
 Second, the Committee added, at the end of Rule 40(a)(1)(D), the following new language: "—including all instances in which the United States represents that person when the court of appeals' judgment is entered or files the petition for that person." During the public comment period, concerns were raised that a party might rely on the longer period for filing the petition, only to risk the petition being held untimely by a court that later concluded that the relevant act or omission had not actually occurred in connection with federal duties. The Committee decided to respond to this concern by adding two safe harbor provisions. These provisions make clear that the longer period applies in any ease where the United States either represents the officer or employee at the time of entry of the relevant judgment or files the petition on the officer or employee's behalf.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes any items listed in Rule 32(f).
 
 ### Rule 41. Mandate: Contents; Issuance and Effective Date; Stay ###
 
@@ -3953,7 +4103,7 @@ The language and organization of the rule are amended to make the rule more easi
 
 A.B., Plaintiff
 
-*v.*
+v.
 
 }Notice of Appeal
 
@@ -3967,9 +4117,11 @@ Notice is hereby given that \_\_\_\_\_\_(here name all parties taking the appeal
 
 *Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
+[*Note to inmate filers:* *If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration along with this Notice of Appeal.*]
+
 \* See Rule 3(c) for permissible ways of identifying appellants.
 
-(As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003.)
+(As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 ### Form 2. Notice of Appeal to a Court of Appeals From a Decision of the United States Tax Court ###
 
@@ -4045,7 +4197,7 @@ Respondent
 
 *Changes Made After Publication and Comment.* No changes were made after publication and comment.
 
-### Form 5. Notice of Appeal to a Court of Appeals from a Judgment or Order of a District Court or a Bankruptcy Appellate Panel ###
+### Form 5. Notice of Appeal to a Court of Appeals From a Judgment or Order of a District Court or a Bankruptcy Appellate Panel ###
 
 ### United States District Court for the \_\_\_\_\_\_\_\_ ###
 
@@ -4069,28 +4221,68 @@ Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(As added Apr. 25, 1989, eff. Dec. 1, 1989; amended Mar. 27, 2003, eff. Dec. 1, 2003.)
+[*Note to inmate filers:* *If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration along with this Notice of Appeal.*]
+
+(As added Apr. 25, 1989, eff. Dec. 1, 1989; amended Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Form 6 ####
 
 <img src="http://uscode.house.gov/images/uscprelim/28ap6.gif" width="700" />
 
-(As added Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As added Apr. 29, 2002, eff. Dec. 1, 2002; amended Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Committee Notes on Rules—2002 ####
 
 **Changes Made After Publication and Comments.** No changes were made to the text of the proposed amendment or to the Committee Note.
 
+### Form 7. Declaration of Inmate Filing ###
+
+### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ###
+
+### [insert name of court; for example, ###
+
+### United States District Court for the District of Minnesota] ###
+
+A.B., Plaintiff
+
+v.
+
+}Case No.\_\_\_\_\_\_\_\_
+
+C.D., Defendant
+
+I am an inmate confined in an institution. Today, \_\_\_\_\_\_\_\_ [*insert date*], I am depositing the \_\_\_\_\_\_\_\_ [*insert title of document; for example, "notice of appeal"*] in this case in the institution's internal mail system. First-class postage is being prepaid either by me or by the institution on my behalf.
+
+I declare under penalty of perjury that the foregoing is true and correct (see 28 U.S.C. §1746; 18 U.S.C. §1621).
+
+Sign your name here\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
+
+[*Note to inmate filers:* *If your institution has a system designed for legal mail, you must use that system in order to receive the timing benefit of Fed. R. App. P. 4(c)(1) or Fed. R. App. P. 25(a)(2)(C).*]
+
+(As added Apr. 28, 2016, eff. Dec. 1, 2016.)
+
+### APPENDIX ###
+
+<img src="http://uscode.house.gov/images/uscprelim/28Aapp1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28Aapp2.gif" width="700" />
+
+(As added Apr. 28, 2016, eff. Dec. 1, 2016.)
+
+#### Length Limits ####
+
+Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is set out in the order of the Supreme Court amending the Federal Rules of Appellate Procedure, April 28, 2016, available at the Supreme Court website.
+
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to January 3, 2016)
+(As amended to December 1, 2016)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr.25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -4424,9 +4616,9 @@ This table shows the Equity Rules to which references are made in the notes to t
 |     80     |                    6                    |
 |     81     |                   86                    |
 
-### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS <sup><a href="#Form_6_1_target" name="Form_6_1">1</a></sup>** ###
+### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS <sup><a href="#I_1_target" name="I_1">1</a></sup>** ###
 
-[<sup>1</sup> Title amended December 29, 1948, effective October 20, 1949.](#Form_6_1)
+[<sup>1</sup> Title amended December 29, 1948, effective October 20, 1949.](#I_1)
 
 ### TITLE I. SCOPE OF RULES; FORM OF ACTION ###
 
@@ -4736,7 +4928,7 @@ The caption of Rule 3 has been amended as part of the general restyling of the C
 
 (3) *Validity of Service; Amending Proof.* Failure to prove service does not affect the validity of service. The court may permit proof of service to be amended.
 
-(m) Time Limit for Service. If a defendant is not served within 90 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time. But if the plaintiff shows good cause for the failure, the court must extend the time for service for an appropriate period. This subdivision (m) does not apply to service in a foreign country under Rule 4(f) or 4(j)(1) or to service of a notice under Rule 71.1(d)(3)(A).
+(m) Time Limit for Service. If a defendant is not served within 90 days after the complaint is filed, the court—on motion or on its own after notice to the plaintiff—must dismiss the action without prejudice against that defendant or order that service be made within a specified time. But if the plaintiff shows good cause for the failure, the court must extend the time for service for an appropriate period. This subdivision (m) does not apply to service in a foreign country under Rule 4(f), 4(h)(2), or 4(j)(1).<sup><a href="#Rule_4_1_target" name="Rule_4_1">1</a></sup>
 
 (n) Asserting Jurisdiction over Property or Assets.
 
@@ -4744,7 +4936,7 @@ The caption of Rule 3 has been amended as part of the general restyling of the C
 
 (2) *State Law.* On a showing that personal jurisdiction over a defendant cannot be obtained in the district where the action is brought by reasonable efforts to serve a summons under this rule, the court may assert jurisdiction over the defendant's assets found in the district. Jurisdiction is acquired by seizing the assets under the circumstances and in the manner provided by state law in that district.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 97–462, §2, Jan. 12, 1983, 96 Stat. 2527, eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 1980, eff. Aug. 1, 1980; Pub. L. 97–462, §2, Jan. 12, 1983, 96 Stat. 2527, eff. Feb. 26, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 Rule 4 Notice of a Lawsuit and Request to Waive Service of Summons.
 
@@ -5372,6 +5564,16 @@ The final sentence is amended to make it clear that the reference to Rule 4 in R
 
 Shortening the time to serve under Rule 4(m) means that the time of the notice required by Rule 15(c)(1)(C) for relation back is also shortened.
 
+#### Committee Notes on Rules—2016 Amendment ####
+
+Rule 4(m) is amended to correct a possible ambiguity that appears to have generated some confusion in practice. Service in a foreign country often is accomplished by means that require more than the time set by Rule 4(m). This problem is recognized by the two clear exceptions for service on an individual in a foreign country under Rule 4(f) and for service on a foreign state under Rule 4(j)(1). The potential ambiguity arises from the lack of any explicit reference to service on a corporation, partnership, or other unincorporated association. Rule 4(h)(2) provides for service on such defendants at a place outside any judicial district of the United States "in any manner prescribed by Rule 4(f) for serving an individual, except personal delivery under (f)(2)(C)(i)." Invoking service "in the manner prescribed by Rule 4(f)" could easily be read to mean that service under Rule 4(h)(2) is also service "under" Rule 4(f). That interpretation is in keeping with the purpose to recognize the delays that often occur in effecting service in a foreign country. But it also is possible to read the words for what they seem to say—service is under Rule 4(h)(2), albeit in a manner borrowed from almost all, but not quite all, of Rule 4(f).
+
+The amendment resolves this possible ambiguity.
+
+#### References in Text ####
+
+Rule 4(m) is set out above as it appears in the Supreme Court order of Apr. 28, 2016. As amended by the Supreme Court order of Apr. 29, 2015, the last sentence of Rule 4(m) reads as follows: "This subdivision (m) does not apply to service in a foreign country under Rule 4(f) or 4(j)(1) or to service of a notice under Rule 71.1(d)(3)(A)." The language added to the last sentence in 2015, "or to service of a notice under Rule 71.1(d)(3)(A)", probably should be part of Rule 4(m), but does not appear in the 2016 amendment.
+
 #### Amendment by Public Law ####
 
 **1983**—Subd. (a). Pub. L. 97–462, §2(1), substituted "deliver the summons to the plaintiff or the plaintiff's attorney, who shall be responsible for prompt service of the summons and a copy of the complaint" for "deliver it for service to the marshal or to any other person authorized by Rule 4(c) to serve it".
@@ -5393,6 +5595,8 @@ Subd. (j). Pub. L. 97–462, §2(7), added subd. (j).
 #### Effective Date of 1983 Amendment ####
 
 Amendment by Pub. L. 97–462 effective 45 days after Jan. 12, 1983, see section 4 of Pub. L. 97–462, set out as a note under section 2071 of this title.
+
+[<sup>1</sup> See References in Text note below.](#Rule_4_1)
 
 ### Rule 4.1. Serving Other Process ###
 
@@ -5806,9 +6010,9 @@ Subdivision (e) was published with a standard for protective orders, referring t
 
 (2) *Supporting Affidavit.* Any affidavit supporting a motion must be served with the motion. Except as Rule 59(c) provides otherwise, any opposing affidavit must be served at least 7 days before the hearing, unless the court permits service at another time.
 
-(d) Additional Time After Certain Kinds of Service. When a party may or must act within a specified time after service and service is made under Rule 5(b)(2)(C), (D), (E), or (F), 3 days are added after the period would otherwise expire under Rule 6(a).
+(d) Additional Time After Certain Kinds of Service. When a party may or must act within a specified time after being served and service is made under Rule 5(b)(2)(C) (mail), (D) (leaving with the clerk), or (F) (other means consented to), 3 days are added after the period would otherwise expire under Rule 6(a).
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -5959,6 +6163,22 @@ For forward-counted periods—*i.e.*, periods that are measured after an event�
 *Changes Made after Publication and Comment.* The Standing Committee changed Rule 6(a)(6) to exclude state holidays from the definition of "legal holiday" for purposes of computing backward-counted periods; conforming changes were made to the Committee Note.
 
 [*Subdivisions (b) and (c).*] The times set in the former rule at 1 or 5 days have been revised to 7 or 14 days. See the Note to Rule 6 [above].
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Rule 6(d) is amended to remove service by electronic means under Rule 5(b)(2)(E) from the modes of service that allow 3 added days to act after being served.
+
+Rule 5(b)(2) was amended in 2001 to provide for service by electronic means. Although electronic transmission seemed virtually instantaneous even then, electronic service was included in the modes of service that allow 3 added days to act after being served. There were concerns that the transmission might be delayed for some time, and particular concerns that incompatible systems might make it difficult or impossible to open attachments. Those concerns have been substantially alleviated by advances in technology and in widespread skill in using electronic transmission.
+
+A parallel reason for allowing the 3 added days was that electronic service was authorized only with the consent of the person to be served. Concerns about the reliability of electronic transmission might have led to refusals of consent; the 3 added days were calculated to alleviate these concerns.
+
+Diminution of the concerns that prompted the decision to allow the 3 added days for electronic transmission is not the only reason for discarding this indulgence. Many rules have been changed to ease the task of computing time by adopting 7-, 14-, 21-, and 28-day periods that allow "day-of-the-week" counting. Adding 3 days at the end complicated the counting, and increased the occasions for further complication by invoking the provisions that apply when the last day is a Saturday, Sunday, or legal holiday.
+
+Electronic service after business hours, or just before or during a weekend or holiday, may result in a practical reduction in the time available to respond. Extensions of time may be warranted to prevent prejudice.
+
+Eliminating Rule 5(b) subparagraph (2)(E) from the modes of service that allow 3 added days means that the 3 added days cannot be retained by consenting to service by electronic means. Consent to electronic service in registering for electronic case filing, for example, does not count as consent to service "by any other means" of delivery under subparagraph (F).
+
+What is now Rule 6(d) was amended in 2005 "to remove any doubt as to the method for calculating the time to respond after service by mail, leaving with the clerk of court, electronic means, or by other means consented to by the party served." A potential ambiguity was created by substituting "after service" for the earlier references to acting after service "upon the party" if a paper or notice "is served upon the party" by the specified means. "[A]fter service" could be read to refer not only to a party that has been served but also to a party that has made service. That reading would mean that a party who is allowed a specified time to act after making service can extend the time by choosing one of the means of service specified in the rule, something that was never intended by the original rule or the amendment. Rules setting a time to act after making service include Rules 14(a)(1), 15(a)(1)(A), and 38(b)(1). "[A]fter being served" is substituted for "after service" to dispel any possible misreading.
 
 ### TITLE III. PLEADINGS AND MOTIONS ###
 
@@ -14969,9 +15189,9 @@ Abrogation of par. (7) of subdivision (a) of this rule as effective August 1, 19
 
 ### Rule 82. Jurisdiction and Venue Unaffected ###
 
-These rules do not extend or limit the jurisdiction of the district courts or the venue of actions in those courts. An admiralty or maritime claim under Rule 9(h) is not a civil action for purposes of 28 U.S.C. §§1391–1392.
+These rules do not extend or limit the jurisdiction of the district courts or the venue of actions in those courts. An admiralty or maritime claim under Rule 9(h) is governed by 28 U.S.C. §1390.
 
-(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 29, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -14996,6 +15216,10 @@ The recommendation that the change be made without publication carries with it a
 #### Committee Notes on Rules—2007 Amendment ####
 
 The language of Rule 82 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2016 Amendment ####
+
+Rule 82 is amended to reflect the enactment of 28 U.S.C. §1390 and the repeal of §1392.
 
 ### Rule 83. Rules by District Courts; Judge's Directives ###
 
@@ -16066,7 +16290,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to January 3, 2016)
+(As amended to December 1, 2016)
 
 #### Effective Date and Application of Rules ####
 
