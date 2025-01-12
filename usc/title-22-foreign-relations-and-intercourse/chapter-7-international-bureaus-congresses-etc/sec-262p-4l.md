@@ -10,7 +10,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Certain mechanisms urged ####
 
-The mechanisms described in subsection (a) of this section shall include, at a minimum, the following measures:
+The mechanisms described in subsection (a) shall include, at a minimum, the following measures:
 
 (1) An instruction to the management of the bank to undertake efforts to appropriately train and significantly increase the number of bank professional staff (based in Washington, District of Columbia, as of November 5, 1990) assigned, on a rotating basis, to field offices of the bank in borrower countries.
 

@@ -65,3 +65,49 @@ Subsec. (e). Pub. L. 111–272, §2(b), added subsec. (e) and struck out former 
 "(3) any destructive device (as defined in section 921 of this title)."
 
 Subsec. (f). Pub. L. 111–272, §2(a)(2), added subsec. (f).
+
+#### Federal Law Enforcement Self-Defense and Protection ####
+
+Pub. L. 114–180, June 22, 2016, 130 Stat. 445, provided that:
+
+#### "SECTION 1. SHORT TITLE. ####
+
+"This Act may be cited as the 'Federal Law Enforcement Self-Defense and Protection Act of 2015'.
+
+#### "SEC. 2. FINDINGS. ####
+
+"Congress finds the following:
+
+"(1) Too often, Federal law enforcement officers encounter potentially violent criminals, placing officers in danger of grave physical harm.
+
+"(2) In 2012 alone, 1,857 Federal law enforcement officers were assaulted, with 206 sustaining serious injuries.
+
+"(3) From 2008 through 2011, an additional 8,587 Federal law enforcement officers were assaulted.
+
+"(4) Federal law enforcement officers remain a target even when they are off-duty. Over the past 3 years, 27 law enforcement officers have been killed off-duty.
+
+"(5) It is essential that law enforcement officers are able to defend themselves, so they can carry out their critical missions and ensure their own personal safety and the safety of their families whether on-duty or off-duty.
+
+"(6) These dangers to law enforcement officers continue to exist during a covered furlough.
+
+#### "SEC. 3. DEFINITIONS. ####
+
+"In this Act—
+
+"(1) the term 'agency' means each authority of the executive, legislative, or judicial branch of the Government of the United States;
+
+"(2) the term 'covered Federal law enforcement officer' means any individual who—
+
+"(A) is an employee of an agency;
+
+"(B) has the authority to make arrests or apprehensions for, or prosecute, violations of Federal law; and
+
+"(C) on the day before the date on which the applicable covered furlough begins, is authorized by the agency employing the individual to carry a firearm in the course of official duties;
+
+"(3) the term 'covered furlough' means a planned event by an agency during which employees are involuntarily furloughed due to downsizing, reduced funding, lack of work, or any budget situation including a lapse in appropriations; and
+
+"(4) the term 'firearm' has the meaning given that term in section 921 of title 18, United States Code.
+
+#### "SEC. 4. PROTECTING FEDERAL LAW ENFORCEMENT OFFICERS WHO ARE SUBJECTED TO A COVERED FURLOUGH. ####
+
+"During a covered furlough, a covered Federal law enforcement officer shall have the same rights to carry a firearm issued by the Federal Government as if the covered furlough was not in effect, including, if authorized on the day before the date on which the covered furlough begins, the right to carry a concealed firearm, if the sole reason the covered Federal law enforcement officer was placed on leave was due to the covered furlough."

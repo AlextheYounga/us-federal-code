@@ -1,16 +1,10 @@
 ### §49. Enforcement of animal fighting prohibitions ###
 
-#### (a) In general ####
+(a) In General.—Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
 
-Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+(b) Attending an Animal Fighting Venture.—Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act (7 U.S.C. 2156) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
 
-#### (b) Attending an animal fighting venture ####
-
-Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act (7 U.S.C. 2156) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
-
-#### (c) Causing an individual who has not attained the age of 16 to attend an animal fighting venture ####
-
-Whoever violates subsection (a)(2)(B) of section 26 (7 U.S.C. 2156) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
+(c) Causing an Individual Who Has Not Attained the Age of 16 To Attend an Animal Fighting Venture.—Whoever violates subsection (a)(2)(B) of section 26 (7 U.S.C. 2156) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
 
 (Added Pub. L. 110–22, §2(a), May 3, 2007, 121 Stat. 88; amended Pub. L. 110–234, title XIV, §14207(b), May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, §4(a), title XIV, §14207(b), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 113–79, title XII, §12308(b)(2), Feb. 7, 2014, 128 Stat. 991.)
 

@@ -10,7 +10,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Proposed contents of impact statements ####
 
-In the discussions referred to in subsection (a) of this section with respect to the impact statement described in paragraph (2) of such subsection, the United States Executive Director should propose that such impact statements—
+In the discussions referred to in subsection (a) with respect to the impact statement described in paragraph (2) of such subsection, the United States Executive Director should propose that such impact statements—
 
 (1) specify what the projected effects of the adjustment loan will be on the poor;
 

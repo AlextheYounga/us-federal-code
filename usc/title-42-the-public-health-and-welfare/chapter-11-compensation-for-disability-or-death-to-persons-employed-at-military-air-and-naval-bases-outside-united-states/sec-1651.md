@@ -88,7 +88,7 @@ Subsec. (e). Pub. L. 85–608, §201(c), substituted "may waive the application 
 
 Pub. L. 85–477, §502(a)(2), substituted "provisions of subparagraphs (3), (4), or (5)" for "provisions of subparagraphs (3) or (4)".
 
-Subsec. (f). Pub. L. 85–602, §201(d), substituted provisions making liability of a contractor, subcontractor, or subordinate contractor inapplicable with respect to persons who are prisoners of war or protected persons and who are detained or utilized by the United States for provisions which made liability inapplicable with respect to employees not citizens of the United States who incurred an injury or death resulting in death subsequent to June 30, 1953.
+Subsec. (f). Pub. L. 85–608, §201(d), substituted provisions making liability of a contractor, subcontractor, or subordinate contractor inapplicable with respect to persons who are prisoners of war or protected persons and who are detained or utilized by the United States for provisions which made liability inapplicable with respect to employees not citizens of the United States who incurred an injury or death resulting in death subsequent to June 30, 1953.
 
 Pub. L. 85–477, §502(a)(3), inserted "or any work under subparagraph (5) of subsection (a) of this section" before "shall not apply".
 

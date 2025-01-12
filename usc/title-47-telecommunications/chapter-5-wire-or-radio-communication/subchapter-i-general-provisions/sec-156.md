@@ -4,7 +4,7 @@
 
 (b) In addition to the amounts authorized to be appropriated under this section, not more than 4 percent of the amount of any fees or other charges payable to the United States which are collected by the Commission during fiscal year 1990 are authorized to be made available to the Commission until expended to defray the fully distributed costs of such fees collection.
 
-(c) Of the amounts appropriated pursuant to subsection (a) of this section for fiscal year 1991, such sums as may be necessary not to exceed $2,000,000 shall be expended for upgrading and modernizing equipment at the Commission's electronic emissions test laboratory located in Laurel, Maryland.
+(c) Of the amounts appropriated pursuant to subsection (a) for fiscal year 1991, such sums as may be necessary not to exceed $2,000,000 shall be expended for upgrading and modernizing equipment at the Commission's electronic emissions test laboratory located in Laurel, Maryland.
 
 (d) Of the sum appropriated in any fiscal year under this section, a portion, in an amount determined under section 159(b) of this title, shall be derived from fees authorized by section 159 of this title.
 

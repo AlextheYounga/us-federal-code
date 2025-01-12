@@ -22,11 +22,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Policy based lending for debt reduction and sustainable growth ####
 
-The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to propose that policy based loans be made by such bank for, among other reasons, facilitating a reduction in the debt service burden of any country which is participating in a voluntary market-based program for debt reduction described in subsection (c) of this section.
+The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to propose that policy based loans be made by such bank for, among other reasons, facilitating a reduction in the debt service burden of any country which is participating in a voluntary market-based program for debt reduction described in subsection (c).
 
 #### (c) Voluntary market-based program for debt reduction and sustainable growth ####
 
-In connection with the discussions initiated pursuant to subsection (b) of this section, the Secretary shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) of this section if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
+In connection with the discussions initiated pursuant to subsection (b), the Secretary shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
 
 #### (d) Reports ####
 
@@ -36,13 +36,13 @@ Not later than March 1, 1989, March 1, 1991, and March 1, 1993, respectively, th
 
 (2) contains an explanation of the measures taken by such bank to facilitate the reduction of the debt burden of the countries designated as "Highly Indebted Countries" in the 1987–1988 World Debt tables <sup><a href="#286hh_1_target" name="286hh_1">1</a></sup> published by such bank;
 
-(3) describes the extent (if any) to which such bank has implemented the measures described in subsections (b) and (c) of this section; and
+(3) describes the extent (if any) to which such bank has implemented the measures described in subsections (b) and (c); and
 
 (4) describes the success each of such countries has had in managing and reducing their debt burdens and achieving sustainable and equitable economic growth as measured by criteria including the ratio of debt service to exports, the ratio of debt to gross national product, net resource flows, and per capita income.
 
 #### (e) Review by House Banking Committee ####
 
-On receipt of each report required to be submitted pursuant to subsection (d) of this section, and after consultation with the Secretary of the Treasury, the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall forward such report to the Committee on Appropriations of the House of Representatives with an assessment by the Committee on Banking, Finance and Urban Affairs describing the effect on the international debt situation of funding the subscription of the United States to the shares of capital stock of the International Bank for Reconstruction and Development due for payment by the United States in the then next fiscal year.
+On receipt of each report required to be submitted pursuant to subsection (d), and after consultation with the Secretary of the Treasury, the Committee on Banking, Finance and Urban Affairs of the House of Representatives shall forward such report to the Committee on Appropriations of the House of Representatives with an assessment by the Committee on Banking, Finance and Urban Affairs describing the effect on the international debt situation of funding the subscription of the United States to the shares of capital stock of the International Bank for Reconstruction and Development due for payment by the United States in the then next fiscal year.
 
 (Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 111–203, title IX, §939(f), July 21, 2010, 124 Stat. 1886.)
 

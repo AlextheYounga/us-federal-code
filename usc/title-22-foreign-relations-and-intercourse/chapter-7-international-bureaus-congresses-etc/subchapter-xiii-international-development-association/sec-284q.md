@@ -1,8 +1,8 @@
 ### §284q. Special Facility for Sub-Saharan Africa ###
 
-(a) The Secretary of the Treasury shall pay to the Special Facility for Sub-Saharan Africa, administered by the Association, amounts appropriated pursuant to subsection (b) of this section.
+(a) The Secretary of the Treasury shall pay to the Special Facility for Sub-Saharan Africa, administered by the Association, amounts appropriated pursuant to subsection (b).
 
-(b) For purposes of the United States contribution provided for in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $225,000,000.
+(b) For purposes of the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $225,000,000.
 
 (Pub. L. 86–565, §19, as added Pub. L. 99–190, §101(i) [title I, (a)], Dec. 19, 1985, 99 Stat. 1291, 1294.)
 

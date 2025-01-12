@@ -18,10 +18,10 @@ For purposes of this section, the term "advertisement" means any message or othe
 
 #### (c) Use of funds from offering services, etc. ####
 
-Any public broadcast station which engages in any offering specified in subsection (b)(1) of this section may not use any funds distributed by the Corporation under section 396(k) of this title to defray any costs associated with such offering. Any such offering by a public broadcast station shall not interfere with the provision of public telecommunications services by such station.
+Any public broadcast station which engages in any offering specified in subsection (b)(1) may not use any funds distributed by the Corporation under section 396(k) of this title to defray any costs associated with such offering. Any such offering by a public broadcast station shall not interfere with the provision of public telecommunications services by such station.
 
 #### (d) Development of accounting system ####
 
-Each public broadcast station which engages in the activity specified in subsection (b)(1) of this section shall, in consultation with the Corporation, develop an accounting system which is designed to identify any amounts received as remuneration for, or costs related to, such activities under this section, and to account for such amounts separately from any other amounts received by such station from any source.
+Each public broadcast station which engages in the activity specified in subsection (b)(1) shall, in consultation with the Corporation, develop an accounting system which is designed to identify any amounts received as remuneration for, or costs related to, such activities under this section, and to account for such amounts separately from any other amounts received by such station from any source.
 
 (June 19, 1934, ch. 652, title III, §399B, as added Pub. L. 97–35, title XII, §1231, Aug. 13, 1981, 95 Stat. 731.)

@@ -16,6 +16,6 @@ The subscription authority provided in paragraph (1) shall be effective only to 
 
 #### (b) Limitations on authorization of appropriations ####
 
-In order to pay for the subscription authorized in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $50,000,000 for payment by the Secretary of the Treasury.
+In order to pay for the subscription authorized in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $50,000,000 for payment by the Secretary of the Treasury.
 
 (Aug. 11, 1955, ch. 788, §14, as added Pub. L. 102–145, §125(a), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 97.)

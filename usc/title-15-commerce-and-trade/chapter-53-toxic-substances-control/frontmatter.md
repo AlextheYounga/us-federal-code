@@ -12,7 +12,7 @@ Sec.
 
 2604. Manufacturing and processing notices.
 
-2605. Regulation of hazardous chemical substances and mixtures.
+2605. Prioritization, risk evaluation, and regulation of chemical substances and mixtures.
 
 2606. Imminent hazards.
 
@@ -20,7 +20,7 @@ Sec.
 
 2608. Relationship to other Federal laws.
 
-2609. Research, development, collection, dissemination, and utilization of data.
+2609. Research, development, collection, dissemination, and utilization of information.
 
 2610. Inspections and subpoenas.
 

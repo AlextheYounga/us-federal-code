@@ -60,7 +60,7 @@ The United States Executive Directors of the multilateral development banks shal
 
 #### (c) Inclusion of certain items in guidelines ####
 
-The United States Executive Directors shall endeavor to include the provisions of paragraphs (1) through (5) of subsection (b) of this section in the guidelines developed through the negotiations specified in this section.
+The United States Executive Directors shall endeavor to include the provisions of paragraphs (1) through (5) of subsection (b) in the guidelines developed through the negotiations specified in this section.
 
 (Pub. L. 95–118, title XVI, §1614, as added Pub. L. 101–240, title V, §512, Dec. 19, 1989, 103 Stat. 2508.)
 

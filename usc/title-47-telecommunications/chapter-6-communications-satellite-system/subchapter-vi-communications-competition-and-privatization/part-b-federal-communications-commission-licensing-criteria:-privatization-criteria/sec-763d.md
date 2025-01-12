@@ -22,7 +22,7 @@ Notwithstanding—
 
 (2) any transition period that would otherwise apply,
 
-the Commission may by rule prohibit United States carriers from paying an amount in excess of a cost-based settlement rate to overseas carriers in countries listed by the Commission pursuant to subsection (a) of this section.
+the Commission may by rule prohibit United States carriers from paying an amount in excess of a cost-based settlement rate to overseas carriers in countries listed by the Commission pursuant to subsection (a).
 
 #### (c) Settlements policy ####
 

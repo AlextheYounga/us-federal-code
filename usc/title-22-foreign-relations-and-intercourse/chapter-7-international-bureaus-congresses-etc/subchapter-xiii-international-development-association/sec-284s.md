@@ -6,7 +6,7 @@ The United States Governor is hereby authorized to agree on behalf of the United
 
 #### (b) Limitations on authorization of appropriations ####
 
-In order to pay for the United States contribution provided for in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $3,180,000,000 for payment by the Secretary of the Treasury.
+In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $3,180,000,000 for payment by the Secretary of the Treasury.
 
 (Pub. L. 86–565, §21, as added Pub. L. 101–513, title V, §562(a)(1), Nov. 5, 1990, 104 Stat. 2032.)
 

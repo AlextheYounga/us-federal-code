@@ -14,7 +14,7 @@ The Anzalduas diversion dam shall not be operated for irrigation or water supply
 
 #### (d) Improvements to Rio Grande Canalization Project ####
 
-Pursuant to the authority of subsection (a) of this section and in order to facilitate further compliance with the terms of the Convention for Equitable Distribution of the Waters of the Rio Grande, May 21, 1906, United States-Mexico, the Secretary of State, acting through the United States Commissioner of the International Boundary and Water Commission, may make improvements to the Rio Grande Canalization Project, originally authorized by the Act of August 29, 1935 (49 Stat. 961). Such improvements may include all such works as may be needed to stabilize the Rio Grande in the reach between the Percha Diversion Dam in New Mexico and the American Diversion Dam in El Paso.
+Pursuant to the authority of subsection (a) and in order to facilitate further compliance with the terms of the Convention for Equitable Distribution of the Waters of the Rio Grande, May 21, 1906, United States-Mexico, the Secretary of State, acting through the United States Commissioner of the International Boundary and Water Commission, may make improvements to the Rio Grande Canalization Project, originally authorized by the Act of August 29, 1935 (49 Stat. 961). Such improvements may include all such works as may be needed to stabilize the Rio Grande in the reach between the Percha Diversion Dam in New Mexico and the American Diversion Dam in El Paso.
 
 (May 13, 1924, ch. 153, §3, as added Aug. 19, 1935, ch. 561, 49 Stat. 660; amended Pub. L. 101–246, title IV, §412(b)(1), Feb. 16, 1990, 104 Stat. 70; Pub. L. 104–319, title I, §104, Oct. 19, 1996, 110 Stat. 3866.)
 

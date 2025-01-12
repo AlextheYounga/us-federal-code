@@ -6,7 +6,7 @@ Any securities issued by the Bank (including any guarantee by the Bank, whether 
 
 #### (b) Suspension of exemption provisions; annual reports of Commission to Congress ####
 
-The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) of this section at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
+The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
 (Pub. L. 86–147, §11, Aug. 7, 1959, 73 Stat. 301; Pub. L. 94–302, title I, §103(a)(3), May 31, 1976, 90 Stat. 593.)
 

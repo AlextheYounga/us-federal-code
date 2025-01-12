@@ -6,6 +6,6 @@
 
 #### (b) Limitations on authorization of appropriations ####
 
-In order to pay for the increase in the United States subscription to the Bank provided for in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $213,000,000 for payment by the Secretary of the Treasury.
+In order to pay for the increase in the United States subscription to the Bank provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $213,000,000 for payment by the Secretary of the Treasury.
 
 (Pub. L. 89–369, §30, as added Pub. L. 102–145, §125(b), as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 97.)

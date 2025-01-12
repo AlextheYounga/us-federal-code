@@ -10,7 +10,7 @@ Any person who willfully violates or evades or attempts to violate or evade any 
 
 #### (c) Steel mill products containing chromium; certificate of origin; regulations; subpenas; certificate exemption; release from customs custody; definitions ####
 
-(1) During the period in which measures are applied against Southern Rhodesia under subsection (a) of this section pursuant to any United Nations Security Council Resolution, a shipment of any steel mill product (as such product may be defined by the Secretary) containing chromium in any form may not be released from customs custody for entry into the United States if—
+(1) During the period in which measures are applied against Southern Rhodesia under subsection (a) pursuant to any United Nations Security Council Resolution, a shipment of any steel mill product (as such product may be defined by the Secretary) containing chromium in any form may not be released from customs custody for entry into the United States if—
 
 (A) a certificate of origin with respect to such shipment has not been filed with the Secretary; or
 

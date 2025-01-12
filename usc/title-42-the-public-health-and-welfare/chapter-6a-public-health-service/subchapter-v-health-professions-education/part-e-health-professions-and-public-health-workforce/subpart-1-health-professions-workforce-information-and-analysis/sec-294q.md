@@ -372,7 +372,7 @@ Pub. L. 111–148, title V, §5002(a), Mar. 23, 2010, 124 Stat. 588, provided th
 
 "(4) Low income individual, state workforce investment board, and local workforce investment board.—
 
-"(A) Low-income individual.—The term 'low-income individual' has the meaning given that term in section 101 of the Workforce investment [sic] Act of 1998 ([former] 29 U.S.C. 2801).
+"(A) Low-income individual.—The term 'low-income individual' has the meaning given that term in [former] section 101 of the Workforce investment [sic] Act of 1998 ([former] 29 U.S.C. 2801).
 
 "(B) State workforce investment board; local workforce investment board.—The terms 'State workforce investment board' and 'local workforce investment board', [sic] refer to a State workforce investment board established under [former] section 111 of the Workforce Investment Act of 1998 ([former] 29 U.S.C. 2821) and a local workforce investment board established under [former] section 117 of such Act ([former] 29 U.S.C. 2832), respectively.
 

@@ -14,13 +14,15 @@ Sec.
 
 6106. Grants to States.
 
-6107. Authorization of appropriations.
+6107. Funding.
 
 6108. Relationship to State laws.
 
 6109. Public education and awareness.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–183, §2(c)(2), June 22, 2016, 130 Stat. 516, substituted "Funding" for "Authorization of appropriations" in item 6107.
 
 **2006**—Pub. L. 109–468, §3(b), Dec. 29, 2006, 120 Stat. 3490, added item 6109.
 

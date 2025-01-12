@@ -8,7 +8,7 @@
 
 #### (b) Authorization of appropriations ####
 
-In order to pay for the increase in the United States subscription to the Bank provided for in subsection (a) of this section, there are authorized to be appropriated, without fiscal year limitation, $1,322,999,476 for payment by the Secretary of the Treasury.
+In order to pay for the increase in the United States subscription to the Bank provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $1,322,999,476 for payment by the Secretary of the Treasury.
 
 #### (c) Continued membership of Republic of China in Bank ####
 

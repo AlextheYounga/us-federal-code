@@ -894,7 +894,7 @@ Sec.
 
 286vv. Capital stock increases.
 
-286ww. Acceptance of amendments to the Articles of Agreement of the Fund.
+286ww. Acceptance of amendments to Articles of Agreement of Fund.
 
 286xx. Quota increase.
 

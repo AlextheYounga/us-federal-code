@@ -30,7 +30,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 Before the end of the 1-year period beginning on December 19, 1989, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs and the Committee on Appropriations of the House of Representatives, and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, a report on the following:
 
-(1) The status of advocacy and progress being made to implement the objectives of subsection (a) of this section, describing the success to date, the obstacles encountered, and future expectations of progress.
+(1) The status of advocacy and progress being made to implement the objectives of subsection (a), describing the success to date, the obstacles encountered, and future expectations of progress.
 
 (2) A description of the progress to date in achieving the purposes of section 262p–4f of this title, including the institutional capacity and effort devoted to assisting in the development of statistical measures to assess the well-being of the poor.
 

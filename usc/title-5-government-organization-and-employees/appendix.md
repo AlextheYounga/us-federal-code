@@ -1907,7 +1907,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (F) any entity in the judicial or legislative branches of the Government, including the Administrative Office of the United States Courts and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol;
 
-(2) the term "designated Federal entity" means Amtrak, the Appalachian Regional Commission, the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection, the Board for International Broadcasting, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Corporation for Public Broadcasting, the Defense Intelligence Agency, the Denali Commission, the Equal Employment Opportunity Commission, the Farm Credit Administration, the Federal Communications Commission, the Federal Election Commission, the Election Assistance Commission, the Federal Housing Finance Board, the Federal Labor Relations Authority, the Federal Maritime Commission, the Federal Trade Commission, the Legal Services Corporation, the National Archives and Records Administration, the National Credit Union Administration, the National Endowment for the Arts, the National Endowment for the Humanities, the National Geospatial-Intelligence Agency, the National Labor Relations Board, the National Science Foundation, the Panama Canal Commission, the Peace Corps, the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission, the Smithsonian Institution, the United States International Trade Commission, the Postal Regulatory Commission, and the United States Postal Service;
+(2) the term "designated Federal entity" means Amtrak, the Appalachian Regional Commission, the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection, the Board for International Broadcasting, the Committee for Purchase From People Who Are Blind or Severely Disabled, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Corporation for Public Broadcasting, the Defense Intelligence Agency, the Denali Commission, the Equal Employment Opportunity Commission, the Farm Credit Administration, the Federal Communications Commission, the Federal Election Commission, the Election Assistance Commission, the Federal Housing Finance Board, the Federal Labor Relations Authority, the Federal Maritime Commission, the Federal Trade Commission, the Legal Services Corporation, the National Archives and Records Administration, the National Credit Union Administration, the National Endowment for the Arts, the National Endowment for the Humanities, the National Geospatial-Intelligence Agency, the National Labor Relations Board, the National Science Foundation, the Panama Canal Commission, the Peace Corps, the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission, the Smithsonian Institution, the United States International Trade Commission, the Postal Regulatory Commission, and the United States Postal Service;
 
 (3) the term "head of the Federal entity" means any person or persons designated by statute as the head of a Federal entity, and if no such designation exists, the chief policymaking officer or board of a Federal entity as identified in the list published pursuant to subsection (h)(1) of this section;
 
@@ -1919,15 +1919,17 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (C) with respect to the Federal Labor Relations Authority, such term means the members of the Authority (described under section 7104 of title 5, United States Code);
 
-(D) with respect to the National Archives and Records Administration, such term means the Archivist of the United States;
+(D) with respect to the Committee for Purchase From People Who Are Blind or Severely Disabled, such term means the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled;
 
-(E) with respect to the National Credit Union Administration, such term means the National Credit Union Administration Board (described under section 102 of the Federal Credit Union Act (12 U.S.C. 1752a); <sup><a href="#8G_1_target" name="8G_1">1</a></sup>
+(E) with respect to the National Archives and Records Administration, such term means the Archivist of the United States;
 
-(F) with respect to the National Endowment of the Arts, such term means the National Council on the Arts;
+(F) with respect to the National Credit Union Administration, such term means the National Credit Union Administration Board (described under section 102 of the Federal Credit Union Act (12 U.S.C. 1752a); <sup><a href="#8G_1_target" name="8G_1">1</a></sup>
 
-(G) with respect to the National Endowment for the Humanities, such term means the National Council on the Humanities; and
+(G) with respect to the National Endowment of the Arts, such term means the National Council on the Arts;
 
-(H) with respect to the Peace Corps, such term means the Director of the Peace Corps;
+(H) with respect to the National Endowment for the Humanities, such term means the National Council on the Humanities; and
+
+(I) with respect to the Peace Corps, such term means the Director of the Peace Corps;
 
 (5) the term "Office of Inspector General" means an Office of Inspector General of a designated Federal entity; and
 
@@ -1961,7 +1963,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (ii) the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(e)(1) In the case of a designated Federal entity for which a board or commission is the head of the designated Federal entity, a removal under this subsection may only be made upon the written concurrence of a 2/3 majority of the board or commission.
+(e)(1) In the case of a designated Federal entity for which a board, chairman of a committee, or commission is the head of the designated Federal entity, a removal under this subsection may only be made upon the written concurrence of a 2/3 majority of the board, committee, or commission.
 
 (2) If an Inspector General is removed from office or is transferred to another position or location within a designated Federal entity, the head of the designated Federal entity shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal.
 
@@ -2028,30 +2030,6 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 (C) summarizes any matters relating to the personnel, programs, and operations of the Federal entity referred to prosecutive authorities, including a summary description of any preliminary investigation conducted by or at the request of the Federal entity concerning these matters, and the prosecutions and convictions which have resulted.
 
 (Pub. L. 95–452, §8G, formerly §8E, as added Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, §702(c), Aug. 9, 1989, 103 Stat. 415; renumbered §8F and amended Pub. L. 103–82, title II, §202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8G and amended Pub. L. 103–204, §23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, §1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–409, §§2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, 122 Stat. 4302, 4305, 4313; Pub. L. 111–203, title IX, §§989B, 989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §431(a), (c), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title IV, §§402(1), 412(1), July 7, 2014, 128 Stat. 1408, 1409; Pub. L. 114–113, div. H, title IV, §401(a), Dec. 18, 2015, 129 Stat. 2639.)
-
-#### Amendment of Subsections (a) and (e) ####
-
-Pub. L. 114–113, div. H, title IV, §401(a), (c), Dec. 18, 2015, 129 Stat. 2639, 2640, provided that, effective on the date that is 180 days after Dec. 18, 2015, this section is amended—
-
-(1) in subsection (a)—
-
-(A) in paragraph (2), by inserting "the Committee for Purchase From People Who Are Blind or Severely Disabled," after "the Board for International Broadcasting,"; and
-
-(B) in paragraph (4)—
-
-(i) by redesignating subparagraphs (D) through (H) as subparagraphs (E) through (I), respectively; and
-
-(ii) by inserting after subparagraph (C) the following new subparagraph:
-
-*"(D) with respect to the Committee for Purchase From People Who Are Blind or Severely Disabled, such term means the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled;"; and*
-
-(2) in subsection (e)(1)—
-
-(A) by striking "board or commission", the first place it appears, and inserting "board, chairman of a committee, or commission"; and
-
-(B) by striking "board or commission", the second place it appears, and inserting "board, committee, or commission".
-
-See 2015 Amendment notes below.
 
 #### Amendment of Subsection (a)(2) ####
 

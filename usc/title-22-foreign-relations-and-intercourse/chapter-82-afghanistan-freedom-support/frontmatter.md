@@ -24,23 +24,7 @@ Sec.
 
 #### SUBCHAPTER II—MILITARY ASSISTANCE FOR AFGHANISTAN AND CERTAIN OTHER FOREIGN COUNTRIES AND INTERNATIONAL ORGANIZATIONS ####
 
-7531. Support for security during transition in Afghanistan.
-
-7532. Authorization of assistance.
-
-7533. Eligible foreign countries and eligible international organizations.
-
-7534. Reimbursement for assistance.
-
-7535. Congressional notification requirements.
-
-7536. Promoting secure delivery of humanitarian and other assistance in Afghanistan and expansion of the International Security Assistance Force.
-
-7536a. Sense of Congress and report regarding counter-drug efforts in Afghanistan.
-
-7537. Relationship to other authority.
-
-7538. Sunset.
+7531 to 7538. Omitted.
 
 #### SUBCHAPTER III—MISCELLANEOUS PROVISIONS ####
 

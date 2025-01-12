@@ -6,7 +6,7 @@ Sec.
 
 24902. Goals and requirements.
 
-24903 General authority.
+24903. General authority.
 
 24904. Northeast Corridor planning.
 

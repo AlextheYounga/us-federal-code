@@ -6,7 +6,7 @@ The President and the Commission shall report to the Committees on Commerce and 
 
 #### (b) Contents of reports ####
 
-The reports submitted pursuant to subsection (a) of this section shall include the following:
+The reports submitted pursuant to subsection (a) shall include the following:
 
 (1) Progress with respect to each objective since the most recent preceding report.
 
