@@ -32,14 +32,14 @@ The scope of the research and development under subsection (a) shall include the
 
 #### (1) Information shared with the Federal Government ####
 
-Section 133 of this title, and any regulations issued pursuant to such section, shall apply to any information shared with the Federal Government under this section.
+Section 673 of this title, and any regulations issued pursuant to such section, shall apply to any information shared with the Federal Government under this section.
 
 #### (2) Information shared by the Federal Government ####
 
 Information shared by the Federal Government with a State, local, or tribal government under this section shall be exempt from disclosure under any provision of State, local, or tribal freedom of information law, open government law, open meetings law, open records law, sunshine law, or similar law requiring the disclosure of information or records.
 
-(Pub. L. 107–296, title III, §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685.)
+(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178.)
 
-#### Codification ####
+#### Amendments ####
 
-Another section 319 of Pub. L. 107–296 is classified to section 195e of this title.
+**2018**—Subsec. (c)(1). Pub. L. 115–278, §2(g)(3)(C), substituted "Section 673 of this title" for "Section 133 of this title".

@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to January 2, 2018)
+(As amended to December 1, 2018)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -1070,7 +1070,7 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (A) a stay of the judgment or order of a district court pending appeal;
 
-(B) approval of a supersedeas bond; or
+(B) approval of a bond or other security provided to obtain a stay of judgment; or
 
 (C) an order suspending, modifying, restoring, or granting an injunction while an appeal is pending.
 
@@ -1094,13 +1094,13 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (D) A motion under this Rule 8(a)(2) must be filed with the circuit clerk and normally will be considered by a panel of the court. But in an exceptional case in which time requirements make that procedure impracticable, the motion may be made to and considered by a single judge.
 
-(E) The court may condition relief on a party's filing a bond or other appropriate security in the district court.
+(E) The court may condition relief on a party's filing a bond or other security in the district court.
 
-(b) Proceeding Against a Surety. If a party gives security in the form of a bond or stipulation or other undertaking with one or more sureties, each surety submits to the jurisdiction of the district court and irrevocably appoints the district clerk as the surety's agent on whom any papers affecting the surety's liability on the bond or undertaking may be served. On motion, a surety's liability may be enforced in the district court without the necessity of an independent action. The motion and any notice that the district court prescribes may be served on the district clerk, who must promptly mail a copy to each surety whose address is known.
+(b) Proceeding Against a Security Provider. If a party gives security with one or more security providers, each provider submits to the jurisdiction of the district court and irrevocably appoints the district clerk as its agent on whom any papers affecting its liability on the security may be served. On motion, a security provider's liability may be enforced in the district court without the necessity of an independent action. The motion and any notice that the district court prescribes may be served on the district clerk, who must promptly send a copy to each security provider whose address is known.
 
 (c) Stay in a Criminal Case. Rule 38 of the Federal Rules of Criminal Procedure governs a stay in a criminal case.
 
-(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998.)
+(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1121,6 +1121,10 @@ The amendments to Rule 8(b) are technical. No substantive change is intended.
 #### Committee Notes on Rules—1998 Amendment ####
 
 The language and organization of the rule are amended to make the rule more easily understood. In addition to changes made to improve the understanding, the Advisory Committee has changed language to make style and terminology consistent throughout the appellate rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendments to subdivisions (a) and (b) conform this rule with the amendment of Federal Rule of Civil Procedure 62. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security" The word "mail" is changed to "send" to avoid restricting the method of serving security providers. Other rules specify the permissible manners of service.
 
 #### References in Text ####
 
@@ -1310,13 +1314,13 @@ The Criminal Justice Act, referred to in subd. (b)(1)(A)(ii), probably means the
 
 • for a stay pending appeal;
 
-• for additional security on the bond on appeal or on a supersedeas bond; or
+• for additional security on the bond on appeal or on a bond or other security provided to obtain a stay of judgment; or
 
 • for any other intermediate order—
 
 the district clerk must send the court of appeals any parts of the record designated by any party.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1345,6 +1349,10 @@ The amendments to Rule 11(b) are technical. No substantive change is intended.
 #### Committee Notes on Rules—1998 Amendment ####
 
 The language and organization of the rule are amended to make the rule more easily understood. In addition to changes made to improve the understanding, the Advisory Committee has changed language to make style and terminology consistent throughout the appellate rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendment of subdivision (g) conforms this rule with the amendment of Federal Rule of Civil Procedure 62. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
 
 ### Rule 12. Docketing the Appeal; Filing a Representation Statement; Filing the Record ###
 
@@ -1976,25 +1984,35 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (2) *Filing: Method and Timeliness.*
 
-(A) *In General.* Filing may be accomplished by mail addressed to the clerk, but filing is not timely unless the clerk receives the papers within the time fixed for filing.
+(A) *Nonelectronic Filing.*
 
-(B) *A brief or appendix.* A brief or appendix is timely filed, however, if on or before the last day for filing, it is:
+(i) *In General.* For a paper not filed electronically, filing may be accomplished by mail addressed to the clerk, but filing is not timely unless the clerk receives the papers within the time fixed for filing.
 
-(i) mailed to the clerk by First-Class Mail, or other class of mail that is at least as expeditious, postage prepaid; or
+(ii) *A Brief or Appendix.* A brief or appendix not filed electronically is timely filed, however, if on or before the last day for filing, it is:
 
-(ii) dispatched to a third-party commercial carrier for delivery to the clerk within 3 days.
+• mailed to the clerk by first-class mail, or other class of mail that is at least as expeditious, postage prepaid; or
 
-(C) *Inmate Filing.* If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 25(a)(2)(C). A paper filed by an inmate is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
+• dispatched to a third-party commercial carrier for delivery to the clerk within 3 days.
 
-(i) it is accompanied by:
+(iii) *Inmate Filing.* If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 25(a)(2)(A)(iii). A paper not filed electronically by an inmate is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
 
-• a declaration in compliance with 28 U.S.C. §1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or
+• it is accompanied by: a declaration in compliance with 28 U.S.C. §1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or evidence (such as a postmark or date stamp) showing that the paper was so deposited and that postage was prepaid; or
 
-• evidence (such as a postmark or date stamp) showing that the paper was so deposited and that postage was prepaid; or
+• the court of appeals exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies Rule 25(a)(2)(A)(iii).
 
-(ii) the court of appeals exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies Rule 25(a)(2)(C)(i).
+(B) *Electronic Filing and Signing.*
 
-(D) *Electronic Filing.* A court of appeals may by local rule permit or require papers to be filed, signed, or verified by electronic means that are consistent with technical standards, if any, that the Judicial Conference of the United States establishes. A local rule may require filing by electronic means only if reasonable exceptions are allowed. A paper filed by electronic means in compliance with a local rule constitutes a written paper for the purpose of applying these rules.
+(i) *By a Represented Person—Generally Required; Exceptions.* A person represented by an attorney must file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
+
+(ii) *By an Unrepresented Person—When Allowed or Required.* A person not represented by an attorney:
+
+• may file electronically only if allowed by court order or by local rule; and
+
+• may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
+
+(iii) *Signing.* A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature.
+
+(iv) *Same as a Written Paper.* A paper filed electronically is a written paper for purposes of these rules.
 
 (3) *Filing a Motion with a Judge.* If a motion requests relief that may be granted by a single judge, the judge may permit the motion to be filed with the judge; the judge must note the filing date on the motion and give it to the clerk.
 
@@ -2006,21 +2024,19 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (c) Manner of Service.
 
-(1) Service may be any of the following:
+(1) Nonelectronic service may be any of the following:
 
 (A) personal, including delivery to a responsible person at the office of counsel;
 
-(B) by mail;
+(B) by mail; or
 
-(C) by third-party commercial carrier for delivery within 3 days; or
+(C) by third-party commercial carrier for delivery within 3 days.
 
-(D) by electronic means, if the party being served consents in writing.
-
-(2) If authorized by local rule, a party may use the court's transmission equipment to make electronic service under Rule 25(c)(1)(D).
+(2) Electronic service of a paper may be made (A) by sending it to a registered user by filing it with the court's electronic-filing system or (B) by sending it by other electronic means that the person to be served consented to in writing.
 
 (3) When reasonable considering such factors as the immediacy of the relief sought, distance, and cost, service on a party must be by a manner at least as expeditious as the manner used to file the paper with the court.
 
-(4) Service by mail or by commercial carrier is complete on mailing or delivery to the carrier. Service by electronic means is complete on transmission, unless the party making service is notified that the paper was not received by the party served.
+(4) Service by mail or by commercial carrier is complete on mailing or delivery to the carrier. Service by electronic means is complete on filing or sending, unless the party making service is notified that the paper was not received by the party served.
 
 (d) Proof of Service.
 
@@ -2036,13 +2052,13 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (iii) their mail or electronic addresses, facsimile numbers, or the addresses of the places of delivery, as appropriate for the manner of service.
 
-(2) When a brief or appendix is filed by mailing or dispatch in accordance with Rule 25(a)(2)(B), the proof of service must also state the date and manner by which the document was mailed or dispatched to the clerk.
+(2) When a brief or appendix is filed by mailing or dispatch in accordance with Rule 25(a)(2)(A)(ii), the proof of service must also state the date and manner by which the document was mailed or dispatched to the clerk.
 
 (3) Proof of service may appear on or be affixed to the papers filed.
 
 (e) Number of Copies. When these rules require the filing or furnishing of a number of copies, a court may require a different number by local rule or by order in a particular case.
 
-(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2144,6 +2160,18 @@ The Rule requires the inmate to show timely deposit and prepayment of postage. T
 
 The amended rule also provides that a paper is timely without a declaration or notarized statement if other evidence accompanying the paper shows that the paper was deposited on or before the due date and that postage was prepaid. If the paper is not accompanied by evidence that establishes timely deposit and prepayment of postage, then the court of appeals has discretion to accept a declaration or notarized statement at a later date. The Rule uses the phrase "exercises its discretion to permit"—rather than simply "permits"—to help ensure that pro se inmate litigants are aware that a court will not necessarily forgive a failure to provide the declaration initially.
 
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendments conform Rule 25 to the amendments to Federal Rule of Civil Procedure 5 on electronic filing, signature, and service. They establish, in Rule 25(a)(2)(B), a new national rule that generally makes electronic filing mandatory. The rule recognizes exceptions for persons proceeding without an attorney, exceptions for good cause, and variations established by local rule. The amendments establish national rules regarding the methods of signing and serving electronic documents in Rule 25(a)(2)(B)(iii) and (c)(2).
+
+#### References in Text ####
+
+The Federal Rules of Bankruptcy Procedure, referred to in subd. (a)(5), are set out in the Appendix to Title 11, Bankruptcy.
+
+The Federal Rules of Civil Procedure, referred to in subd. (a)(5), are set out in this Appendix.
+
+The Federal Rules of Criminal Procedure, referred to in subd. (a)(5), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
 [<sup>1</sup> At its June 15–16, 2005, meeting, the Standing Rules Committee with the concurrence of the advisory committee chair agreed to set out the "reasonable exception" clause as a separate sentence in the rule, consistent with drafting conventions of the Style Project.](#Rule_25_1)
 
 ### Rule 26. Computing and Extending Time ###
@@ -2178,9 +2206,9 @@ The amended rule also provides that a paper is timely without a declaration or n
 
 (B) for electronic filing in the court of appeals, at midnight in the time zone of the circuit clerk's principal office;
 
-(C) for filing under Rules 4(c)(1), 25(a)(2)(B), and 25(a)(2)(C)—and filing by mail under Rule 13(a)(2)—at the latest time for the method chosen for delivery to the post office, third-party commercial carrier, or prison mailing system; and
+(C) for filing under Rules 4(c)(1), 25(a)(2)(A)(ii), and 25(a)(2)(A)(iii)—and filing by mail under Rule 13(a)(2)—at the latest time for the method chosen for delivery to the post office, third-party commercial carrier, or prison mailing system; and
 
-(D) for filing by other means, when the clerk's office is scheduled to close.
+(D)	for filing by other means, when the clerk's office is scheduled to close.
 
 (5) *"Next Day" Defined.* The "next day" is determined by continuing to count forward when the period is measured after an event and backward when measured before an event.
 
@@ -2200,7 +2228,7 @@ The amended rule also provides that a paper is timely without a declaration or n
 
 (c) Additional Time after Certain Kinds of Service. When a party may or must act within a specified time after being served, 3 days are added after the period would otherwise expire under Rule 26(a), unless the paper is delivered on the date of service stated in the proof of service. For purposes of this Rule 26(c), a paper that is served electronically is treated as delivered on the date of service stated in the proof of service.
 
-(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2323,6 +2351,10 @@ Diminution of the concerns that prompted the decision to allow the 3 added days 
 Electronic service after business hours, or just before or during a weekend or holiday, may result in a practical reduction in the time available to respond. Extensions of time may be warranted to prevent prejudice.
 
 Rule 26(c) has also been amended to refer to instances when a party "may or must act . . . after being served" rather than to instances when a party "may or must act . . . after service." If, in future, an Appellate Rule sets a deadline for a party to act after *that party itself effects service* on another person, this change in language will clarify that Rule 26(c)'s three added days are not accorded to the party who effected service.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendments adjust references to subdivisions of Rule 25 that have been renumbered.
 
 ### Rule 26.1. Corporate Disclosure Statement ###
 
@@ -2776,9 +2808,9 @@ Rule 28(a)(10) is revised to refer to Rule 32(g)(1) instead of Rule 32(a)(7), to
 
 (3) the appellant's response and reply brief, within 30 days after the appellee's principal and response brief is served; and
 
-(4) the appellee's reply brief, within 14 days after the appellant's response and reply brief is served, but at least 7 days before argument unless the court, for good cause, allows a later filing.
+(4) the appellee's reply brief, within 21 days after the appellant's response and reply brief is served, but at least 7 days before argument unless the court, for good cause, allows a later filing.
 
-(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Committee Notes on Rules—2005 ####
 
@@ -2826,13 +2858,17 @@ In the course of adopting word limits for the length limits in Rules 5, 21, 27, 
 
 In a complex case, a party may need to file a brief that exceeds the type-volume limitations specified in these rules, such as to include unusually voluminous information explaining relevant background or legal provisions or to respond to multiple briefs by opposing parties or amici. The Committee expects that courts will accommodate those situations by granting leave to exceed the type-volume limitations as appropriate.
 
+#### Committee Notes on Rules—2018 Amendment ####
+
+Subdivision (f)(4) is amended to extend the period for filing a reply brief from 14 days to 21 days. Before the elimination of the "three-day rule" in Rule 26(c), attorneys were accustomed to a period of 17 days within which to file a reply brief, and the committee concluded that shortening the period from 17 days to 14 days could adversely affect the preparation of useful reply briefs. Because time periods are best measured in increments of 7 days, the period is extended to 21 days.
+
 ### Rule 29. Brief of an Amicus Curiae ###
 
 (a) During Initial Consideration of a Case on the Merits.
 
 (1) *Applicability.* This Rule 29(a) governs amicus filings during a court's initial consideration of a case on the merits.
 
-(2) *When Permitted.* The United States or its officer or agency or a state may file an amicus-curiae brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing.
+(2) *When Permitted.* The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing, but a court of appeals may prohibit the filing of or may strike an amicus brief that would result in a judge's disqualification.
 
 (3) *Motion for Leave to File.* The motion must be accompanied by the proposed brief and state:
 
@@ -2872,9 +2908,9 @@ In a complex case, a party may need to file a brief that exceeds the type-volume
 
 (b) During Consideration of Whether to Grant Rehearing.
 
-(1) *Applicability.* This Rule 29(b) governs amicus filings during a court's consideration of whether to grant panel rehearing or rehearing en banc, unless a local rule or order in a case provides otherwise.
+(1)*Applicability.* This Rule 29(b) governs amicus filings during a court's consideration of whether to grant panel rehearing or rehearing en banc, unless a local rule or order in a case provides otherwise.
 
-(2) *When Permitted.* The United States or its officer or agency or a state may file an amicus-curiae brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court.
+(2) *When Permitted.* The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court.
 
 (3) *Motion for Leave to File.* Rule 29(a)(3) applies to a motion for leave.
 
@@ -2882,7 +2918,7 @@ In a complex case, a party may need to file a brief that exceeds the type-volume
 
 (5) *Time for Filing.* An amicus curiae supporting the petition for rehearing or supporting neither party must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the petition is filed. An amicus curiae opposing the petition must file its brief, accompanied by a motion for filing when necessary, no later than the date set by the court for the response.
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2955,6 +2991,10 @@ Rule 29 is amended to address amicus filings in connection with requests for pan
 Existing Rule 29 is renumbered Rule 29(a), and language is added to that subdivision (a) to state that its provisions apply to amicus filings during the court's initial consideration of a case on the merits. Rule 29(c)(7) becomes Rule 29(a)(4)(G) and is revised to accord with the relocation and revision of the certificate-of-compliance requirement. New Rule 32(g)(1) states that "[a] brief submitted under Rules 28.1(e)(2), 29(b)(4), or 32(a)(7)(B) . . . must include" a certificate of compliance. An amicus brief submitted during initial consideration of a case on the merits counts as a "brief submitted under Rule[] . . . 32(a)(7)(B)" if the amicus computes Rule 29(a)(5)'s length limit by taking half of a type-volume limit in Rule 32(a)(7)(B). Rule 29(a)(4)(G) restates Rule 32(g)(1)'s requirement functionally, by providing that a certificate of compliance is required if an amicus brief's length is computed using a word or line limit.
 
 New subdivision (b) is added to address amicus filings in connection with a petition for panel rehearing or rehearing en banc. Subdivision (b) sets default rules that apply when a court does not provide otherwise by local rule or by order in a case. A court remains free to adopt different rules governing whether amicus filings are permitted in connection with petitions for rehearing, and governing the procedures when such filings are permitted.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendment to subdivision (a)(2) authorizes orders or local rules that prohibit the filing of or permit the striking of an amicus brief if the brief would result in a judge's disqualification. The amendment does not alter or address the standards for when an amicus brief requires a judge's disqualification. A comparable amendment to subdivision (b) is not necessary. Subdivision (b)(1) currently authorizes local rules and orders governing filings during a court's consideration of whether to grant panel rehearing or rehearing en banc. These local rules or orders may prohibit the filing of or permit the striking of an amicus brief that would result in a judge's disqualification. In addition, under subdivision (b)(2), a court may deny leave to file an amicus brief that would result in a judge's disqualification.
 
 ### Rule 30. Appendix to the Briefs ###
 
@@ -3066,7 +3106,7 @@ The language and organization of the rule are amended to make the rule more easi
 
 (a) Time to Serve and File a Brief.
 
-(1) The appellant must serve and file a brief within 40 days after the record is filed. The appellee must serve and file a brief within 30 days after the appellant's brief is served. The appellant may serve and file a reply brief within 14 days after service of the appellee's brief but a reply brief must be filed at least 7 days before argument, unless the court, for good cause, allows a later filing.
+(1) The appellant must serve and file a brief within 40 days after the record is filed. The appellee must serve and file a brief within 30 days after the appellant's brief is served. The appellant may serve and file a reply brief within 21 days after service of the appellee's brief but a reply brief must be filed at least 7 days before argument, unless the court, for good cause, allows a later filing.
 
 (2) A court of appeals that routinely considers cases on the merits promptly after the briefs are filed may shorten the time to serve and file briefs, either by local rule or by order in a particular case.
 
@@ -3074,7 +3114,7 @@ The language and organization of the rule are amended to make the rule more easi
 
 (c) Consequence of Failure to File. If an appellant fails to file a brief within the time provided by this rule, or within an extended time, an appellee may move to dismiss the appeal. An appellee who fails to file a brief will not be heard at oral argument unless the court grants permission.
 
-(As amended Mar. 30, 1970, eff. July 1, 1970; Mar. 10, 1986, eff. July 1, 1986; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1970, eff. July 1, 1970; Mar. 10, 1986, eff. July 1, 1986; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3109,6 +3149,10 @@ The language and organization of the rule are amended to make the rule more easi
 #### Committee Notes on Rules—2009 Amendment ####
 
 *Subdivision (a)(1)*. Subdivision (a)(1) formerly required that the appellant's reply brief be served "at least 3 days before argument, unless the court, for good cause, allows a later filing." Under former Rule 26(a), "3 days" could mean as many as 5 or even 6 days. See the Note to Rule 26. Under revised Rule 26(a), intermediate weekends and holidays are counted. Changing "3 days" to "7 days" alters the period accordingly. Under revised Rule 26(a), when a period ends on a weekend or holiday, one must continue to count in the same direction until the next day that is not a weekend or holiday; the choice of the 7-day period for subdivision (a)(1) will minimize such occurrences.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Subdivision (a)(1) is revised to extend the period for filing a reply brief from 14 days to 21 days. Before the elimination of the "three-day rule" in Rule 26(c), attorneys were accustomed to a period of 17 days within which to file a reply brief, and the committee concluded that shortening the period from 17 days to 14 days could adversely affect the preparation of useful reply briefs. Because time periods are best measured in increments of 7 days, the period is extended to 21 days.
 
 ### Rule 32. Form of Briefs, Appendices, and Other Papers ###
 
@@ -3677,11 +3721,11 @@ Only the caption of this rule has been amended. The changes are intended to be s
 
 (2) the reporter's transcript, if needed to determine the appeal;
 
-(3) premiums paid for a supersedeas bond or other bond to preserve rights pending appeal; and
+(3) premiums paid for a bond or other security to preserve rights pending appeal; and
 
 (4) the fee for filing the notice of appeal.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes on Advisory Committee on Rules—1967 ####
 
@@ -3714,6 +3758,10 @@ The language and organization of the rule are amended to make the rule more easi
 #### Committee Notes on Rules—2009 Amendment ####
 
 *Subdivision (d)(2).* The time set in the former rule at 10 days has been revised to 14 days. See the Note to Rule 26.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendment of subdivision (e)(3) conforms this rule with the amendment of Federal Rule of Civil Procedure 62. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
 
 ### Rule 40. Petition for Panel Rehearing ###
 
@@ -3787,25 +3835,29 @@ The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been lar
 
 (a) Contents. Unless the court directs that a formal mandate issue, the mandate consists of a certified copy of the judgment, a copy of the court's opinion, if any, and any direction about costs.
 
-(b) When Issued. The court's mandate must issue 7 days after the time to file a petition for rehearing expires, or 7 days after entry of an order denying a timely petition for panel rehearing, petition for rehearing en banc, or motion for stay of mandate, whichever is later. The court may shorten or extend the time.
+(b) When Issued. The court's mandate must issue 7 days after the time to file a petition for rehearing expires, or 7 days after entry of an order denying a timely petition for panel rehearing, petition for rehearing en banc, or motion for stay of mandate, whichever is later. The court may shorten or extend the time by order.
 
 (c) Effective Date. The mandate is effective when issued.
 
-(d) Staying the Mandate.
+(d) Staying the Mandate Pending a Petition for Certiorari.
 
-(1) *On Petition for Rehearing or Motion.* The timely filing of a petition for panel rehearing, petition for rehearing en banc, or motion for stay of mandate, stays the mandate until disposition of the petition or motion, unless the court orders otherwise.
+(1) *Motion to Stay.* A party may move to stay the mandate pending the filing of a petition for a writ of certiorari in the Supreme Court. The motion must be served on all parties and must show that the petition would present a substantial question and that there is good cause for a stay.
 
-(2) *Pending Petition for Certiorari.*
+(2) *Duration of Stay; Extensions.* The stay must not exceed 90 days, unless:
 
-(A) A party may move to stay the mandate pending the filing of a petition for a writ of certiorari in the Supreme Court. The motion must be served on all parties and must show that the certiorari petition would present a substantial question and that there is good cause for a stay.
+(A) the period is extended for good cause; or
 
-(B) The stay must not exceed 90 days, unless the period is extended for good cause or unless the party who obtained the stay files a petition for the writ and so notifies the circuit clerk in writing within the period of the stay. In that case, the stay continues until the Supreme Court's final disposition.
+(B) the party who obtained the stay notifies the circuit clerk in writing within the period of the stay:
 
-(C) The court may require a bond or other security as a condition to granting or continuing a stay of the mandate.
+(i) that the time for filing a petition has been extended, in which case the stay continues for the extended period; or
 
-(D) The court of appeals must issue the mandate immediately when a copy of a Supreme Court order denying the petition for writ of certiorari is filed.
+(ii) that the petition has been filed, in which case the stay continues until the Supreme Court's final disposition.
 
-(As amended Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(3) *Security.* The court may require a bond or other security as a condition to granting or continuing a stay of the mandate.
+
+(4) *Issuance of Mandate.* The court of appeals must issue the mandate immediately on receiving a copy of a Supreme Court order denying the petition, unless extraordinary circumstances exist.
+
+(As amended Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3860,6 +3912,22 @@ The Appellate Rules Committee made one change to its proposed amendments concern
 By the time of the Appellate Rules Committee's April 2008 meeting, the Civil Rules Committee had discussed this issue and had determined that the best resolution would be to extend the deadline for tolling motions to 28 days rather than 30 days. The choice of a 28-day deadline responds to the concerns of those who feel that the current 10-day deadlines are much too short, but also takes into account the problem of the 30-day appeal deadline. As described in the draft minutes of the Committee's April meeting, Committee members carefully discussed the relevant concerns and determined, by a vote of 7 to 1, to assent to the 28-day time period for tolling motions and to change the cutoff time in Rule 4(a)(4)(A)(vi) to 28 days.
 
 The Standing Committee changed Rule 26(a)(6) to exclude state holidays from the definition of "legal holiday" for purposes of computing backward-counted periods; conforming changes were made to the Committee Note.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+*Subdivision (b).* Subdivision (b) is revised to clarify that an order is required for a stay of the mandate.
+
+Before 1998, the rule referred to a court's ability to shorten or enlarge the time for the mandate's issuance "by order." The phrase "by order" was deleted as part of the 1998 restyling of the rule. Though the change appears to have been intended as merely stylistic, it has caused uncertainty concerning whether a court of appeals can stay its mandate through mere inaction or whether such a stay requires an order. There are good reasons to require an affirmative act by the court. Litigants—particularly those not well versed in appellate procedure—may overlook the need to check that the court of appeals has issued its mandate in due course after handing down a decision. And, in *Bell v. Thompson*, 545 U.S. 794, 804 (2005), the lack of notice of a stay was one of the factors that contributed to the Court's holding that staying the mandate was an abuse of discretion. Requiring stays of the mandate to be accomplished by court order will provide notice to litigants and can also facilitate review of the stay.
+
+*Subdivision (d).* Three changes are made in subdivision (d).
+
+Subdivision (d)(1)—which formerly addressed stays of the mandate upon the timely filing of a motion to stay the mandate or a petition for panel or en banc rehearing— has been deleted and the rest of subdivision (d) has been renumbered and renamed accordingly. In instances where such a petition or motion is timely filed, subdivision (b) sets the presumptive date for issuance of the mandate at 7 days after entry of an order denying the petition or motion. Thus, it seems redundant to state (as subdivision (d)(1) did) that timely filing of such a petition or motion stays the mandate until disposition of the petition or motion. The deletion of subdivision (d)(1) is intended to streamline the rule; no substantive change is intended.
+
+Under the new subdivision (d)(2)(B), if the court of appeals issues a stay of the mandate for a party to file a petition for certiorari, and a Justice of the Supreme Court subsequently extends the time for filing the petition, the stay automatically continues for the extended period.
+
+Subdivision (d)(4)—i.e., former subdivision (d)(2)(D) —is amended to specify that a mandate stayed pending a petition for certiorari must issue immediately once the court of appeals receives a copy of the Supreme Court's order denying certiorari, unless the court of appeals finds that extraordinary circumstances justify a further stay. Without deciding whether the prior version of Rule 41 provided authority for a further stay of the mandate after denial of certiorari, the Supreme Court ruled that any such authority could be exercised only in "extraordinary circumstances." *Ryan v. Schad*, 570 U.S. 521, 525 (2013) (per curiam). The amendment to subdivision (d)(4) makes explicit that the court may stay the mandate after the denial of certiorari, and also makes explicit that such a stay is permissible only in extraordinary circumstances. Such a stay cannot occur through mere inaction but rather requires an order.	
+
+The reference in prior subdivision (d)(2)(D) to the *filing* of a copy of the Supreme Court's order is replaced by a reference to the court of appeals' *receipt* of a copy of the Supreme Court's order. The filing of the copy and its receipt by the court of appeals amount to the same thing (*cf*. Rule 25(a)(2)(A)(i), setting a general rule that "filing is not timely unless the clerk receives the papers within the time fixed for filing"), but "on receiving a copy" is more specific and, hence, clearer.
 
 ### Rule 42. Voluntary Dismissal ###
 
@@ -4191,9 +4259,9 @@ Respondent
 
 ### Form 4. Affidavit Accompanying Motion for Permission to Appeal In Forma Pauperis ###
 
-<img src="http://uscode.house.gov/images/uscprelim/28AApf4p1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p2.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p3.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p4.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p5.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28AApf4p6.gif" width="700" />
+[PRINT PUBLICATION IMAGES]
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Committee Notes on Rules—2010 Amendment ####
 
@@ -4265,9 +4333,9 @@ Sign your name here\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
 
-[*Note to inmate filers:* *If your institution has a system designed for legal mail, you must use that system in order to receive the timing benefit of Fed. R. App. P. 4(c)(1) or Fed. R. App. P. 25(a)(2)(C).*]
+[*Note to inmate filers:* *If your institution has a system designed for legal mail, you must use that system in order to receive the timing benefit of Fed. R. App. P. 4(c)(1) or Fed. R. App. P. 25(a)(2)(A)(iii).*]
 
-(As added Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As added Apr. 28, 2016, eff. Dec. 1, 2016; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 ####  ####
 
@@ -4284,13 +4352,13 @@ Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is se
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to January 2, 2018)
+(As amended to December 1, 2018)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -4456,7 +4524,7 @@ Rule
 
 65. Injunctions and Restraining Orders.
 
-65.1. Proceedings Against a Surety.
+65.1. Proceedings Against a Security Provider.
 
 66. Receivers.
 
@@ -5666,11 +5734,11 @@ The language of Rule 4.1 has been amended as part of the general restyling of th
 
 (D) leaving it with the court clerk if the person has no known address;
 
-(E) sending it by electronic means if the person consented in writing—in which event service is complete upon transmission, but is not effective if the serving party learns that it did not reach the person to be served; or
+(E) sending it to a registered user by filing it with the court's electronic-filing system or sending it by other electronic means that the person consented to in writing—in either of which events service is complete upon filing or sending, but is not effective if the filer or sender learns that it did not reach the person to be served; or
 
 (F) delivering it by any other means that the person consented to in writing—in which event service is complete when the person making service delivers it to the agency designated to make delivery.
 
-(3) *Using Court Facilities.* If a local rule so authorizes, a party may use the court's transmission facilities to make service under Rule 5(b)(2)(E).
+(3) *Using Court Facilities.* [Abrogated (Apr. 26, 2018, eff. Dec. 1, 2018.)]
 
 (c) Serving Numerous Defendants.
 
@@ -5686,19 +5754,39 @@ The language of Rule 4.1 has been amended as part of the general restyling of th
 
 (d) Filing.
 
-(1) *Required Filings; Certificate of Service.* Any paper after the complaint that is required to be served—together with a certificate of service—must be filed within a reasonable time after service. But disclosures under Rule 26(a)(1) or (2) and the following discovery requests and responses must not be filed until they are used in the proceeding or the court orders filing: depositions, interrogatories, requests for documents or tangible things or to permit entry onto land, and requests for admission.
+(1)*Required Filings; Certificate of Service.*
 
-(2) *How Filing Is Made—In General.* A paper is filed by delivering it:
+(A) *Papers after the Complaint.* Any paper after the complaint that is required to be served must be filed no later than a reasonable time after service. But disclosures under Rule 26(a)(1) or (2) and the following discovery requests and responses must not be filed until they are used in the proceeding or the court orders filing: depositions, interrogatories, requests for documents or tangible things or to permit entry onto land, and requests for admission.
+
+(B) *Certificate of Service.* No certificate of service is required when a paper is served by filing it with the court's electronic-filing system. When a paper that is required to be served is served by other means:
+
+(i) if the paper is filed, a certificate of service must be filed with it or within a reasonable time after service; and
+
+(ii) if the paper is not filed, a certificate of service need not be filed unless filing is required by court order or by local rule.
+
+(2) *Nonelectronic Filing.* A paper not filed electronically is filed by delivering it:
 
 (A) to the clerk; or
 
 (B) to a judge who agrees to accept it for filing, and who must then note the filing date on the paper and promptly send it to the clerk.
 
-(3) *Electronic Filing, Signing, or Verification.* A court may, by local rule, allow papers to be filed, signed, or verified by electronic means that are consistent with any technical standards established by the Judicial Conference of the United States. A local rule may require electronic filing only if reasonable exceptions are allowed. A paper filed electronically in compliance with a local rule is a written paper for purposes of these rules.
+(3) *Electronic Filing and Signing.*
+
+(A) *By a Represented Person—Generally Required; Exceptions.* A person represented by an attorney must file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
+
+(B) *By an Unrepresented Person—When Allowed or Required.* A person not represented by an attorney:
+
+(i) may file electronically only if allowed by court order or by local rule; and
+
+(ii) may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
+
+(C) *Signing.* A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature.
+
+(D) *Same as a Written Paper.* A paper filed electronically is a written paper for purposes of these rules.
 
 (4) *Acceptance by the Clerk.* The clerk must not refuse to file a paper solely because it is not in the form prescribed by these rules or by a local rule or practice.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -5819,6 +5907,26 @@ Rule 5(a)(1)(E) omits the former reference to a designation of record on appeal.
 Former Rule 5(b)(2)(D) literally provided that a local rule may authorize use of the court's transmission facilities to make service by non-electronic means agreed to by the parties. That was not intended. Rule 5(b)(3) restores the intended meaning—court transmission facilities can be used only for service by electronic means.
 
 Rule 5(d)(2)(B) provides that "a" judge may accept a paper for filing, replacing the reference in former Rule 5(e) to "the" judge. Some courts do not assign a designated judge to each case, and it may be important to have another judge accept a paper for filing even when a case is on the individual docket of a particular judge. The ministerial acts of accepting the paper, noting the time, and transmitting the paper to the court clerk do not interfere with the assigned judge's authority over the action.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+*Subdivision (b).* Rule 5(b) is amended to revise the provisions for electronic service. Provision for electronic service was first made when electronic communication was not as widespread or as fully reliable as it is now. Consent of the person served to receive service by electronic means was required as a safeguard. Those concerns have substantially diminished, but have not disappeared entirely, particularly as to persons proceeding without an attorney.
+
+The amended rule recognizes electronic service through the court's transmission facilities as to any registered user. A court may choose to allow registration only with the court's permission. But a party who registers will be subject to service through the court's facilities unless the court provides otherwise. With the consent of the person served, electronic service also may be made by means that do not utilize the court's facilities. Consent can be limited to service at a prescribed address or in a specified form, and may be limited by other conditions.
+
+Service is complete when a person files the paper with the court's electronic-filing system for transmission to a registered user, or when one person sends it to another person by other electronic means that the other person has consented to in writing. But service is not effective if the person who filed with the court or the person who sent by other agreed-upon electronic means learns that the paper did not reach the person to be served. The rule does not make the court responsible for notifying a person who filed the paper with the court's electronic-filing system that an attempted transmission by the court's system failed. But a filer who learns that the transmission failed is responsible for making effective service.
+
+Because Rule 5(b)(2)(E) now authorizes service through the court's facilities as a uniform national practice, Rule 5(b)(3) is abrogated. It is no longer necessary to rely on local rules to authorize such service.
+
+*Subdivision (d).* Rule 5(d)(1) has provided that any paper after the complaint that is required to be served "must be filed within a reasonable time after service." Because "within" might be read as barring filing before the paper is served, "no later than" is substituted to ensure that it is proper to file a paper before it is served.
+
+Under amended Rule 5(d)(1)(B), a certificate of service is not required when a paper is served by filing it with the court's electronic-filing system. When service is not made by filing with the court's electronic-filing system, a certificate of service must be filed with the paper or within a reasonable time after service, and should specify the date as well as the manner of service. For papers that are required to be served but must not be filed until they are used in the proceeding or the court orders filing, the certificate need not be filed until the paper is filed, unless filing is required by local rule or court order.
+
+Amended Rule 5(d)(3) recognizes increased reliance on electronic filing. Most districts have adopted local rules that require electronic filing, and allow reasonable exceptions as required by the former rule. The time has come to seize the advantages of electronic filing by making it generally mandatory in all districts for a person represented by an attorney. But exceptions continue to be available. Nonelectronic filing must be allowed for good cause. And a local rule may allow or require nonelectronic filing for other reasons.	
+
+Filings by a person proceeding without an attorney are treated separately. It is not yet possible to rely on an assumption that pro se litigants are generally able to seize the advantages of electronic filing. Encounters with the court's system may prove overwhelming to some. Attempts to work within the system may generate substantial burdens on a pro se party, on other parties, and on the court. Rather than mandate electronic filing, filing by pro se litigants is left for governing by local rules or court order. Efficiently handled electronic filing works to the advantage of all parties and the court. Many courts now allow electronic filing by pro se litigants with the court's permission. Such approaches may expand with growing experience in the courts, along with the greater availability of the systems required for electronic filing and the increasing familiarity of most people with electronic communication. Room is also left for a court to require electronic filing by a pro se litigant by court order or by local rule. Care should be taken to ensure that an order to file electronically does not impede access to the court, and reasonable exceptions must be included in a local rule that requires electronic filing by a pro se litigant. In the beginning, this authority is likely to be exercised only to support special programs, such as one requiring e-filing in collateral proceedings by state prisoners.
+
+A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature.
 
 ### Rule 5.1. Constitutional Challenge to a Statute—Notice, Certification, and Intervention ###
 
@@ -7856,7 +7964,7 @@ The language of Rule 22 has been amended as part of the general restyling of the
 
 (A) *For (b)(1) or (b)(2) Classes.* For any class certified under Rule 23(b)(1) or (b)(2), the court may direct appropriate notice to the class.
 
-(B) *For (b)(3) Classes.* For any class certified under Rule 23(b)(3), the court must direct to class members the best notice that is practicable under the circumstances, including individual notice to all members who can be identified through reasonable effort. The notice must clearly and concisely state in plain, easily understood language:
+(B) *For (b)(3) Classes.* For any class certified under Rule 23(b)(3)—or upon ordering notice under Rule 23(e)(1) to a class proposed to be certified for purposes of settlement under Rule 23(b)(3)—the court must direct to class members the best notice that is practicable under the circumstances, including individual notice to all members who can be identified through reasonable effort. The notice may be by one or more of the following: United States mail, electronic means, or other appropriate means. The notice must clearly and concisely state in plain, easily understood language:
 
 (i) the nature of the action;
 
@@ -7904,19 +8012,53 @@ The language of Rule 22 has been amended as part of the general restyling of the
 
 (2) *Combining and Amending Orders.* An order under Rule 23(d)(1) may be altered or amended from time to time and may be combined with an order under Rule 16.
 
-(e) Settlement, Voluntary Dismissal, or Compromise. The claims, issues, or defenses of a certified class may be settled, voluntarily dismissed, or compromised only with the court's approval. The following procedures apply to a proposed settlement, voluntary dismissal, or compromise:
+(e) Settlement, Voluntary Dismissal, or Compromise. The claims, issues, or defenses of a certified class—or a class proposed to be certified for purposes of settlement—may be settled, voluntarily dismissed, or compromised only with the court's approval. The following procedures apply to a proposed settlement, voluntary dismissal, or compromise:
 
-(1) The court must direct notice in a reasonable manner to all class members who would be bound by the proposal.
+(1) *Notice to the Class.*
 
-(2) If the proposal would bind class members, the court may approve it only after a hearing and on finding that it is fair, reasonable, and adequate.
+(A) *Information That Parties Must Provide to the Court.* The parties must provide the court with information sufficient to enable it to determine whether to give notice of the proposal to the class.
 
-(3) The parties seeking approval must file a statement identifying any agreement made in connection with the proposal.
+(B) *Grounds for a Decision to Give Notice.* The court must direct notice in a reasonable manner to all class members who would be bound by the proposal if giving notice is justified by the parties' showing that the court will likely be able to:
 
-(4) If the class action was previously certified under Rule 23(b)(3), the court may refuse to approve a settlement unless it affords a new opportunity to request exclusion to individual class members who had an earlier opportunity to request exclusion but did not do so.
+(i) approve the proposal under Rule 23(e)(2); and
 
-(5) Any class member may object to the proposal if it requires court approval under this subdivision (e); the objection may be withdrawn only with the court's approval.
+(ii) certify the class for purposes of judgment on the proposal.
 
-(f) Appeals. A court of appeals may permit an appeal from an order granting or denying class-action certification under this rule if a petition for permission to appeal is filed with the circuit clerk within 14 days after the order is entered. An appeal does not stay proceedings in the district court unless the district judge or the court of appeals so orders.
+(2) *Approval of the Proposal.* If the proposal would bind class members, the court may approve it only after a hearing and only on finding that it is fair, reasonable, and adequate after considering whether:
+
+(A) the class representatives and class counsel have adequately represented the class;
+
+(B) the proposal was negotiated at arm's length;
+
+(C) the relief provided for the class is adequate, taking into account:
+
+(i) the costs, risks, and delay of trial and appeal;
+
+(ii) the effectiveness of any proposed method of distributing relief to the class, including the method of processing class-member claims;
+
+(iii) the terms of any proposed award of attorney's fees, including timing of payment; and
+
+(iv) any agreement required to be identified under Rule 23(e)(3); and
+
+(D) the proposal treats class members equitably relative to each other.
+
+(3) *Identifying Agreements.* The parties seeking approval must file a statement identifying any agreement made in connection with the proposal.
+
+(4) *New Opportunity to Be Excluded.* If the class action was previously certified under Rule 23(b)(3), the court may refuse to approve a settlement unless it affords a new opportunity to request exclusion to individual class members who had an earlier opportunity to request exclusion but did not do so.
+
+(5) *Class-Member Objections.*
+
+(A) *In General.* Any class member may object to the proposal if it requires court approval under this subdivision (e). The objection must state whether it applies only to the objector, to a specific subset of the class, or to the entire class, and also state with specificity the grounds for the objection.
+
+(B) *Court Approval Required for Payment in Connection with an Objection.* Unless approved by the court after a hearing, no payment or other consideration may be provided in connection with:
+
+(i) forgoing or withdrawing an objection, or
+
+(ii) forgoing, dismissing, or abandoning an appeal from a judgment approving the proposal.
+
+(C) *Procedure for Approval After an Appeal.* If approval under Rule 23(e)(5)(B) has not been obtained before an appeal is docketed in the court of appeals, the procedure of Rule 62.1 applies while the appeal remains pending.
+
+(f) Appeals. A court of appeals may permit an appeal from an order granting or denying class-action certification under this rule, but not from an order under Rule 23(e)(1). A party must file a petition for permission to appeal with the circuit clerk within 14 days after the order is entered, or within 45 days after the order is entered if any party is the United States, a United States agency, or a United States officer or employee sued for an act or omission occurring in connection with duties performed on the United States' behalf. An appeal does not stay proceedings in the district court unless the district judge or the court of appeals so orders.
 
 (g) Class Counsel.
 
@@ -7956,7 +8098,7 @@ The language of Rule 22 has been amended as part of the general restyling of the
 
 (4) The court may refer issues related to the amount of the award to a special master or a magistrate judge, as provided in Rule 54(d)(2)(D).
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -8311,6 +8453,90 @@ As part of the general restyling, intensifiers that provide emphasis but add no 
 #### Committee Notes on Rules—2009 Amendment ####
 
 The time set in the former rule at 10 days has been revised to 14 days. See the Note to Rule 6.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Rule 23 is amended mainly to address issues related to settlement, and also to take account of issues that have emerged since the rule was last amended in 2003.
+
+*Subdivision (c)(2).* As amended, Rule 23(e)(1) provides that the court must direct notice to the class regarding a proposed class-action settlement only after determining that the prospect of class certification and approval of the proposed settlement justifies giving notice. This decision has been called "preliminary approval" of the proposed class certification in Rule 23(b)(3) actions. It is common to send notice to the class simultaneously under both Rule 23(e)(1) and Rule 23(c)(2)(B), including a provision for class members to decide by a certain date whether to opt out. This amendment recognizes the propriety of this combined notice practice.
+
+Subdivision (c)(2) is also amended to recognize contemporary methods of giving notice to class members. Since *Eisen v. Carlisle & Jacquelin*, 417 U.S. 156 (1974), interpreted the individual notice requirement for class members in Rule 23(b)(3) class actions, many courts have read the rule to require notice by first class mail in every case. But technological change since 1974 has introduced other means of communication that may sometimes provide a reliable additional or alternative method for giving notice. Although first class mail may often be the preferred primary method of giving notice, courts and counsel have begun to employ new technology to make notice more effective. Because there is no reason to expect that technological change will cease, when selecting a method or methods of giving notice courts should consider the capacity and limits of current technology, including class members' likely access to such technology.
+
+Rule 23(c)(2)(B) is amended to take account of these changes. The rule continues to call for giving class members "the best notice that is practicable." It does not specify any particular means as preferred. Although it may sometimes be true that electronic methods of notice, for example email, are the most promising, it is important to keep in mind that a significant portion of class members in certain cases may have limited or no access to email or the Internet.
+
+Instead of preferring any one means of notice, therefore, the amended rule relies on courts and counsel to focus on the means or combination of means most likely to be effective in the case before the court. The court should exercise its discretion to select appropriate means of giving notice. In providing the court with sufficient information to enable it to decide whether to give notice to the class of a proposed class-action settlement under Rule 23(e)(1), it would ordinarily be important to include details about the proposed method of giving notice and to provide the court with a copy of each notice the parties propose to use.
+
+In determining whether the proposed means of giving notice is appropriate, the court should also give careful attention to the content and format of the notice and, if notice is given under both Rule 23(e)(1) and Rule 23(c)(2)(B), any claim form class members must submit to obtain relief.
+
+Counsel should consider which method or methods of giving notice will be most effective; simply assuming that the "traditional" methods are best may disregard contemporary communication realities. The ultimate goal of giving notice is to enable class members to make informed decisions about whether to opt out or, in instances where a proposed settlement is involved, to object or to make claims. Rule 23(c)(2)(B) directs that the notice be "in plain, easily understood language." Means, format, and content that would be appropriate for class members likely to be sophisticated, for example in a securities fraud class action, might not be appropriate for a class having many members likely to be less sophisticated. The court and counsel may wish to consider the use of class notice experts or professional claims administrators.
+
+Attention should focus also on the method of opting out provided in the notice. The proposed method should be as convenient as possible, while protecting against unauthorized opt-out notices.
+
+*Subdivision (e).* The introductory paragraph of Rule 23(e) is amended to make explicit that its procedural requirements apply in instances in which the court has not certified a class at the time that a proposed settlement is presented to the court. The notice required under Rule 23(e)(1) then should also satisfy the notice requirements of amended Rule 23(c)(2)(B) for a class to be certified under Rule 23(b)(3), and trigger the class members' time to request exclusion. Information about the opt-out rate could then be available to the court when it considers final approval of the proposed settlement.
+
+*Subdivision (e)(1).* The decision to give notice of a proposed settlement to the class is an important event. It should be based on a solid record supporting the conclusion that the proposed settlement will likely earn final approval after notice and an opportunity to object. The parties must provide the court with information sufficient to determine whether notice should be sent. At the time they seek notice to the class, the proponents of the settlement should ordinarily provide the court with all available materials they intend to submit to support approval under Rule 23(e)(2) and that they intend to make available to class members. The amended rule also specifies the standard the court should use in deciding whether to send notice—that it likely will be able both to approve the settlement proposal under Rule 23(e)(2) and, if it has not previously certified a class, to certify the class for purposes of judgment on the proposal.	
+
+The subjects to be addressed depend on the specifics of the particular class action and proposed settlement. But some general observations can be made.
+
+One key element is class certification. If the court has already certified a class, the only information ordinarily necessary is whether the proposed settlement calls for any change in the class certified, or of the claims, defenses, or issues regarding which certification was granted. But if a class has not been certified, the parties must ensure that the court has a basis for concluding that it likely will be able, after the final hearing, to certify the class. Although the standards for certification differ for settlement and litigation purposes, the court cannot make the decision regarding the prospects for certification without a suitable basis in the record. The ultimate decision to certify the class for purposes of settlement cannot be made until the hearing on final approval of the proposed settlement. If the settlement is not approved, the parties' positions regarding certification for settlement should not be considered if certification is later sought for purposes of litigation.
+
+Regarding the proposed settlement, many types of information might appropriately be provided to the court. A basic focus is the extent and type of benefits that the settlement will confer on the members of the class. Depending on the nature of the proposed relief, that showing may include details of the contemplated claims process and the anticipated rate of claims by class members. Because some funds are frequently left unclaimed, the settlement agreement ordinarily should address the distribution of those funds.
+
+The parties should also supply the court with information about the likely range of litigated outcomes, and about the risks that might attend full litigation. Information about the extent of discovery completed in the litigation or in parallel actions may often be important. In addition, as suggested by Rule 23(b)(3)(B), the parties should provide information about the existence of other pending or anticipated litigation on behalf of class members involving claims that would be released under the proposal.
+
+The proposed handling of an award of attorney's fees under Rule 23(h) ordinarily should be addressed in the parties' submission to the court. In some cases, it will be important to relate the amount of an award of attorney's fees to the expected benefits to the class. One way to address this issue is to defer some or all of the award of attorney's fees until the court is advised of the actual claims rate and results.
+
+Another topic that normally should be considered is any agreement that must be identified under Rule 23(e)(3).
+
+The parties may supply information to the court on any other topic that they regard as pertinent to the determination whether the proposal is fair, reasonable, and adequate. The court may direct the parties to supply further information about the topics they do address, or to supply information on topics they do not address. The court should not direct notice to the class until the parties' submissions show it is likely that the court will be able to approve the proposal after notice to the class and a final approval hearing.
+
+*Subdivision (e)(2).* The central concern in reviewing a proposed class-action settlement is that it be fair, reasonable, and adequate. Courts have generated lists of factors to shed light on this concern. Overall, these factors focus on comparable considerations, but each circuit has developed its own vocabulary for expressing these concerns. In some circuits, these lists have remained essentially unchanged for thirty or forty years. The goal of this amendment is not to displace any factor, but rather to focus the court and the lawyers on the core concerns of procedure and substance that should guide the decision whether to approve the proposal.
+
+A lengthy list of factors can take on an independent life, potentially distracting attention from the central concerns that inform the settlement-review process. A circuit's list might include a dozen or more separately articulated factors. Some of those factors—perhaps many—may not be relevant to a particular case or settlement proposal. Those that are relevant may be more or less important to the particular case. Yet counsel and courts may feel it necessary to address every factor on a given circuit's list in every case. The sheer number of factors can distract both the court and the parties from the central concerns that bear on review under Rule 23(e)(2).
+
+This amendment therefore directs the parties to present the settlement to the court in terms of a shorter list of core concerns, by focusing on the primary procedural considerations and substantive qualities that should always matter to the decision whether to approve the proposal.
+
+Approval under Rule 23(e)(2) is required only when class members would be bound under Rule 23(c)(3). Accordingly, in addition to evaluating the proposal itself, the court must determine whether it can certify the class under the standards of Rule 23(a) and (b) for purposes of judgment based on the proposal.
+
+*Paragraphs (A) and (B).* These paragraphs identify matters that might be described as "procedural" concerns, looking to the conduct of the litigation and of the negotiations leading up to the proposed settlement. Attention to these matters is an important foundation for scrutinizing the substance of the proposed settlement. If the court has appointed class counsel or interim class counsel, it will have made an initial evaluation of counsel's capacities and experience. But the focus at this point is on the actual performance of counsel acting on behalf of the class.
+
+The information submitted under Rule 23(e)(1) may provide a useful starting point in assessing these topics. For example, the nature and amount of discovery in this or other cases, or the actual outcomes of other cases, may indicate whether counsel negotiating on behalf of the class had an adequate information base. The pendency of other litigation about the same general subject on behalf of class members may also be pertinent. The conduct of the negotiations may be important as well. For example, the involvement of a neutral or court-affiliated mediator or facilitator in those negotiations may bear on whether they were conducted in a manner that would protect and further the class interests. Particular attention might focus on the treatment of any award of attorney's fees, with respect to both the manner of negotiating the fee award and its terms.
+
+*Paragraphs (C) and (D).* These paragraphs focus on what might be called a "substantive" review of the terms of the proposed settlement. The relief that the settlement is expected to provide to class members is a central concern. Measuring the proposed relief may require evaluation of any proposed claims process; directing that the parties report back to the court about actual claims experience may be important. The contents of any agreement identified under Rule 23(e)(3) may also bear on the adequacy of the proposed relief, particularly regarding the equitable treatment of all members of the class.
+
+Another central concern will relate to the cost and risk involved in pursuing a litigated outcome. Often, courts may need to forecast the likely range of possible classwide recoveries and the likelihood of success in obtaining such results. That forecast cannot be done with arithmetic accuracy, but it can provide a benchmark for comparison with the settlement figure.
+
+If the class has not yet been certified for trial, the court may consider whether certification for litigation would be granted were the settlement not approved.
+
+Examination of the attorney-fee provisions may also be valuable in assessing the fairness of the proposed settlement. Ultimately, any award of attorney's fees must be evaluated under Rule 23(h), and no rigid limits exist for such awards. Nonetheless, the relief actually delivered to the class can be a significant factor in determining the appropriate fee award.
+
+Often it will be important for the court to scrutinize the method of claims processing to ensure that it facilitates filing legitimate claims. A claims processing method should deter or defeat unjustified claims, but the court should be alert to whether the claims process is unduly demanding.
+
+Paragraph (D) calls attention to a concern that may apply to some class action settlements—inequitable treatment of some class members vis-a-vis others. Matters of concern could include whether the apportionment of relief among class members takes appropriate account of differences among their claims, and whether the scope of the release may affect class members in different ways that bear on the apportionment of relief.
+
+*Subdivisions (e)(3) and (e)(4).* Headings are added to subdivisions (e)(3) and (e)(4) in accord with style conventions. These additions are intended to be stylistic only.
+
+*Subdivision (e)(5).* The submissions required by Rule 23(e)(1) may provide information critical to decisions whether to object or opt out. Objections by class members can provide the court with important information bearing on its determination under Rule 23(e)(2) whether to approve the proposal.
+
+*Subdivision (e)(5)(A).* The rule is amended to remove the requirement of court approval for every withdrawal of an objection. An objector should be free to withdraw on concluding that an objection is not justified. But Rule 23(e)(5)(B)(i) requires court approval of any payment or other consideration in connection with withdrawing the objection.
+
+The rule is also amended to clarify that objections must provide sufficient specifics to enable the parties to respond to them and the court to evaluate them. One feature required of objections is specification whether the objection asserts interests of only the objector, or of some subset of the class, or of all class members. Beyond that, the rule directs that the objection state its grounds "with specificity." Failure to provide needed specificity may be a basis for rejecting an objection. Courts should take care, however, to avoid unduly burdening class members who wish to object, and to recognize that a class member who is not represented by counsel may present objections that do not adhere to technical legal standards.
+
+*Subdivision (e)(5)(B).* Good-faith objections can assist the court in evaluating a proposal under Rule 23(e)(2). It is legitimate for an objector to seek payment for providing such assistance under Rule 23(h).
+
+But some objectors may be seeking only personal gain, and using objections to obtain benefits for themselves rather than assisting in the settlement-review process. At least in some instances, it seems that objectors—or their counsel—have sought to obtain consideration for withdrawing their objections or dismissing appeals from judgments approving class settlements. And class counsel sometimes may feel that avoiding the delay produced by an appeal justifies providing payment or other consideration to these objectors. Although the payment may advance class interests in a particular case, allowing payment perpetuates a system that can encourage objections advanced for improper purposes.
+
+The court-approval requirement currently in Rule 23(e)(5) partly addresses this concern. Because the concern only applies when consideration is given in connection with withdrawal of an objection, however, the amendment requires approval under Rule 23(e)(5)(B)(i) only when consideration is involved. Although such payment is usually made to objectors or their counsel, the rule also requires court approval if a payment in connection with forgoing or withdrawing an objection or appeal is instead to another recipient. The term consideration should be broadly interpreted, particularly when the withdrawal includes some arrangements beneficial to objector counsel. If the consideration involves a payment to counsel for an objector, the proper procedure is by motion under Rule 23(h) for an award of fees.
+
+Rule 23(e)(5)(B)(ii) applies to consideration in connection with forgoing, dismissing, or abandoning an appeal from a judgment approving the proposal. Because an appeal by a class-action objector may produce much longer delay than an objection before the district court, it is important to extend the court-approval requirement to apply in the appellate context. The district court is best positioned to determine whether to approve such arrangements; hence, the rule requires that the motion seeking approval be made to the district court.
+
+Until the appeal is docketed by the circuit clerk, the district court may dismiss the appeal on stipulation of the parties or on the appellant's motion. See Fed. R. App. P. 42(a). Thereafter, the court of appeals has authority to decide whether to dismiss the appeal. This rule's requirement of district court approval of any consideration in connection with such dismissal by the court of appeals has no effect on the authority of the court of appeals to decide whether to dismiss the appeal. It is, instead, a requirement that applies only to providing consideration in connection with forgoing, dismissing, or abandoning an appeal.
+
+*Subdivision (e)(5)(C).* Because the court of appeals has jurisdiction over an objector's appeal from the time that it is docketed in the court of appeals, the procedure of Rule 62.1 applies. That procedure does not apply after the court of appeals' mandate returns the case to the district court.
+
+*Subdivision (f).* As amended, Rule 23(e)(1) provides that the court must direct notice to the class regarding a proposed class-action settlement only after determining that the prospect of eventual class certification justifies giving notice. But this decision does not grant or deny class certification, and review under Rule 23(f) would be premature. This amendment makes it clear that an appeal under this rule is not permitted until the district court decides whether to certify the class.
+
+The rule is also amended to extend the time to file a petition for review of a class-action certification order to 45 days whenever a party is the United States, one of its agencies, or a United States officer or employee sued for an act or omission occurring in connection with duties performed on the United States' behalf. In such a case, the extension applies to a petition for permission to appeal by any party. The extension recognizes—as under Rules 4(i) and 12(a) and Appellate Rules 4(a)(1)(B) and 40(a)(1)—that the United States has a special need for additional time in regard to these matters. It applies whether the officer or employee is sued in an official capacity or an individual capacity. An action against a former officer or employee of the United States is covered by this provision in the same way as an action against a present officer or employee. Termination of the relationship between the individual defendant and the United States does not reduce the need for additional time.
 
 ### Rule 23.1. Derivative Actions ###
 
@@ -13389,29 +13615,21 @@ The language of Rule 61 has been amended as part of the general restyling of the
 
 ### Rule 62. Stay of Proceedings to Enforce a Judgment ###
 
-(a) Automatic Stay; Exceptions for Injunctions, Receiverships, and Patent Accountings. Except as stated in this rule, no execution may issue on a judgment, nor may proceedings be taken to enforce it, until 14 days have passed after its entry. But unless the court orders otherwise, the following are not stayed after being entered, even if an appeal is taken:
+(a) Automatic Stay. Except as provided in Rule 62(c) and (d), execution on a judgment and proceedings to enforce it are stayed for 30 days after its entry, unless the court orders otherwise.
 
-(1) an interlocutory or final judgment in an action for an injunction or a receivership; or
+(b) Stay by Bond or Other Security. At any time after judgment is entered, a party may obtain a stay by providing a bond or other security. The stay takes effect when the court approves the bond or other security and remains in effect for the time specified in the bond or other security.
+
+(c) Stay of an Injunction, Receivership, or Patent Accounting Order. Unless the court orders otherwise, the following are not stayed after being entered, even if an appeal is taken:
+
+(1) an interlocutory or final judgment in an action for an injunction or receivership; or
 
 (2) a judgment or order that directs an accounting in an action for patent infringement.
 
-(b) Stay Pending the Disposition of a Motion. On appropriate terms for the opposing party's security, the court may stay the execution of a judgment—or any proceedings to enforce it—pending disposition of any of the following motions:
-
-(1) under Rule 50, for judgment as a matter of law;
-
-(2) under Rule 52(b), to amend the findings or for additional findings;
-
-(3) under Rule 59, for a new trial or to alter or amend a judgment; or
-
-(4) under Rule 60, for relief from a judgment or order.
-
-(c) Injunction Pending an Appeal. While an appeal is pending from an interlocutory order or final judgment that grants, dissolves, or denies an injunction, the court may suspend, modify, restore, or grant an injunction on terms for bond or other terms that secure the opposing party's rights. If the judgment appealed from is rendered by a statutory three-judge district court, the order must be made either:
+(d) Injunction Pending an Appeal. While an appeal is pending from an interlocutory order or final judgment that grants, continues, modifies, refuses, dissolves, or refuses to dissolve or modify an injunction, the court may suspend, modify, restore, or grant an injunction on terms for bond or other terms that secure the opposing party's rights. If the judgment appealed from is rendered by a statutory three-judge district court, the order must be made either:
 
 (1) by that court sitting in open session; or
 
 (2) by the assent of all its judges, as evidenced by their signatures.
-
-(d) Stay with Bond on Appeal. If an appeal is taken, the appellant may obtain a stay by supersedeas bond, except in an action described in Rule 62(a)(1) or (2). The bond may be given upon or after filing the notice of appeal or after obtaining the order allowing the appeal. The stay takes effect when the court approves the bond.
 
 (e) Stay Without Bond on an Appeal by the United States, Its Officers, or Its Agencies. The court must not require a bond, obligation, or other security from the appellant when granting a stay on an appeal by the United States, its officers, or its agencies or on an appeal directed by a department of the federal government.
 
@@ -13425,7 +13643,7 @@ The language of Rule 61 has been amended as part of the general restyling of the
 
 (h) Stay with Multiple Claims or Parties. A court may stay the enforcement of a final judgment entered under Rule 54(b) until it enters a later judgment or judgments, and may prescribe terms necessary to secure the benefit of the stayed judgment for the party in whose favor it was entered.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 17, 1961, eff. July 19, 1961; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 17, 1961, eff. July 19, 1961; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -13492,6 +13710,18 @@ The final sentence of former Rule 62(a) referred to Rule 62(c). It is deleted as
 #### Committee Notes on Rules—2009 Amendment ####
 
 The time set in the former rule at 10 days has been revised to 14 days. See the Note to Rule 6.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Subdivisions (a), (b), (c), and (d) of former Rule 62 are reorganized and the provisions for staying a judgment are revised.
+
+The provisions for staying an injunction, receivership, or order for a patent accounting are reorganized by consolidating them in new subdivisions (c) and (d). There is no change in meaning. The language is revised to include all of the words used in 28 U.S.C. §1292(a)(1) to describe the right to appeal from interlocutory actions with respect to an injunction, but subdivisions (c) and (d) apply both to interlocutory injunction orders and to final judgments that grant, refuse, or otherwise deal with an injunction.
+
+New Rule 62(a) extends the period of the automatic stay to 30 days. Former Rule 62(a) set the period at 14 days, while former Rule 62(b) provided for a court-ordered stay "pending disposition of" motions under Rules 50, 52, 59, and 60. The time for making motions under Rules 50, 52, and 59, however, was later extended to 28 days, leaving an apparent gap between expiration of the automatic stay and any of those motions (or a Rule 60 motion) made more than 14 days after entry of judgment. The revised rule eliminates any need to rely on inherent power to issue a stay during this period. Setting the period at 30 days coincides with the time for filing most appeals in civil actions, providing a would-be appellant the full period of appeal time to arrange a stay by other means. A 30-day automatic stay also suffices in cases governed by a 60-day appeal period.
+
+Amended Rule 62(a) expressly recognizes the court's authority to dissolve the automatic stay or supersede it by a court-ordered stay. One reason for dissolving the automatic stay may be a risk that the judgment debtor's assets will be dissipated. Similarly, it may be important to allow immediate enforcement of a judgment that does not involve a payment of money. The court may address the risks of immediate execution by ordering dissolution of the stay only on condition that security be posted by the judgment creditor. Rather than dissolve the stay, the court may choose to supersede it by ordering a stay that lasts longer or requires security.
+
+Subdivision 62(b) carries forward in modified form the supersedeas bond provisions of former Rule 62(d). A stay may be obtained under subdivision (b) at any time after judgment is entered. Thus a stay may be obtained before the automatic stay has expired, or after the automatic stay has been lifted by the court. The new rule's text makes explicit the opportunity to post security in a form other than a bond. The stay takes effect when the court approves the bond or other security and remains in effect for the time specified in the bond or security—a party may find it convenient to arrange a single bond or other security that persists through completion of post-judgment proceedings in the trial court and on through completion of all proceedings on appeal by issuance of the appellate mandate. This provision does not supersede the opportunity for a stay under 28 U.S.C. §2101(f) pending review by the Supreme Court on certiorari. Finally, subdivision (b) changes the provision in former subdivision (d) that "an appellant" may obtain a stay. Under new subdivision (b), "a party" may obtain a stay. For example, a party may wish to secure a stay pending disposition of post-judgment proceedings after expiration of the automatic stay, not yet knowing whether it will want to appeal.
 
 ### Rule 62.1. Indicative Ruling on a Motion for Relief That is Barred by a Pending Appeal ###
 
@@ -13819,11 +14049,11 @@ Rule 65(d)(2) clarifies two ambiguities in former Rule 65(d). The former rule wa
 
 The time set in the former rule at 10 days has been revised to 14 days. See the Note to Rule 6.
 
-### Rule 65.1. Proceedings Against a Surety ###
+### Rule 65.1. Proceedings Against a Security Provider ###
 
-Whenever these rules (including the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions) require or allow a party to give security, and security is given through a bond or other undertaking with one or more sureties, each surety submits to the court's jurisdiction and irrevocably appoints the court clerk as its agent for receiving service of any papers that affect its liability on the bond or undertaking. The surety's liability may be enforced on motion without an independent action. The motion and any notice that the court orders may be served on the court clerk, who must promptly mail a copy of each to every surety whose address is known.
+Whenever these rules (including the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions) require or allow a party to give security, and security is given with one or more security providers, each provider submits to the court's jurisdiction and irrevocably appoints the court clerk as its agent for receiving service of any papers that affect its liability on the security. The security provider's liability may be enforced on motion without an independent action. The motion and any notice that the court orders may be served on the court clerk, who must promptly send a copy of each to every security provider whose address is known.
 
-(As added Feb. 28, 1966, eff. July 1, 1966; amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As added Feb. 28, 1966, eff. July 1, 1966; amended Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1966 ####
 
@@ -13840,6 +14070,12 @@ Rule 65.1 is amended to conform to the changed title of the Supplemental Rules.
 #### Committee Notes on Rules—2007 Amendment ####
 
 The language of Rule 65.1 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Rule 65.1 is amended to reflect the amendments of Rule 62. Rule 62 allows a party to obtain a stay of a judgment "by providing a bond or other security." Limiting Rule 65.1 enforcement procedures to sureties might exclude use of those procedures against a security provider that is not a surety. All security providers, including sureties, are brought into Rule 65.1 by these amendments. But the reference to "bond" is retained in Rule 62 because it has a long history.
+
+The word "mail" is changed to "send" to avoid restricting the method of serving security providers.
 
 ### Rule 66. Receivers ###
 
@@ -16296,7 +16532,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to January 2, 2018)
+(As amended to December 1, 2018)
 
 #### Effective Date and Application of Rules ####
 

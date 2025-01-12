@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 2, 2018)
+(Effective August 1, 1983, as amended to December 1, 2018)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018.
 
 Rule
 
@@ -386,6 +386,8 @@ Rule
 
 8018. Serving and Filing Briefs; Appendices.
 
+8018.1. District-Court Review of a Judgment that the Bankruptcy Court Lacked the Constitutional Authority to Enter.
+
 8019. Oral Argument.
 
 8020. Frivolous Appeal and Other Misconduct.
@@ -458,7 +460,7 @@ Rule
 
 9024. Relief from Judgment or Order.
 
-9025. Security: Proceedings Against Sureties.
+9025. Security: Proceedings Against Security Providers.
 
 9026. Exceptions Unnecessary.
 
@@ -487,6 +489,8 @@ Rule
 #### PART X. [ABROGATED] ####
 
 #### OFFICIAL FORMS [see United States Courts website] ####
+
+#### APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY PROCEDURE ####
 
 ### **BANKRUPTCY RULES** ###
 
@@ -3264,7 +3268,7 @@ The United States Warehouse Act, referred to in subd. (g), is Part C of act Aug.
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-[<sup>1</sup> So in original. Subsec. (g) enacted without a catchline.](#Rule_3001_1)
+[<sup>1</sup> So in original. Subsec. (g) adopted without a catchline.](#Rule_3001_1)
 
 ### Rule 3002. Filing Proof of Claim or Interest ###
 
@@ -3370,13 +3374,17 @@ Subdivision (c)(7) is added to provide a two-stage deadline for filing mortgage 
 
 (a) In General. This rule applies in a chapter 13 case to claims (1) that are secured by a security interest in the debtor's principal residence, and (2) for which the plan provides that either the trustee or the debtor will make contractual installment payments. Unless the court orders otherwise, the notice requirements of this rule cease to apply when an order terminating or annulling the automatic stay becomes effective with respect to the residence that secures the claim.
 
-(b) Notice of Payment Changes. The holder of the claim shall file and serve on the debtor, debtor's counsel, and the trustee a notice of any change in the payment amount, including any change that results from an interest rate or escrow account adjustment, no later than 21 days before a payment in the new amount is due.
+(b) Notice of Payment Changes; Objection.
+
+(1) *Notice*. The holder of the claim shall file and serve on the debtor, debtor's counsel, and the trustee a notice of any change in the payment amount, including any change that results from an interest-rate or escrow-account adjustment, no later than 21 days before a payment in the new amount is due. If the claim arises from a home-equity line of credit, this requirement may be modified by court order.
+
+(2) *Objection*. A party in interest who objects to the payment change may file a motion to determine whether the change is required to maintain payments in accordance with §1322(b)(5) of the Code. If no motion is filed by the day before the new amount is due, the change goes into effect, unless the court orders otherwise.
 
 (c) Notice of Fees, Expenses, and Charges. The holder of the claim shall file and serve on the debtor, debtor's counsel, and the trustee a notice itemizing all fees, expenses, or charges (1) that were incurred in connection with the claim after the bankruptcy case was filed, and (2) that the holder asserts are recoverable against the debtor or against the debtor's principal residence. The notice shall be served within 180 days after the date on which the fees, expenses, or charges are incurred.
 
 (d) Form and Content. A notice filed and served under subdivision (b) or (c) of this rule shall be prepared as prescribed by the appropriate Official Form, and filed as a supplement to the holder's proof of claim. The notice is not subject to Rule 3001(f).
 
-(e) Determination of Fees, Expenses, or Charges. On motion of the debtor or trustee filed within one year after service of a notice under subdivision (c) of this rule, the court shall, after notice and hearing, determine whether payment of any claimed fee, expense, or charge is required by the underlying agreement and applicable nonbankruptcy law to cure a default or maintain payments in accordance with §1322(b)(5) of the Code.
+(e) Determination of Fees, Expenses, or Charges. On motion of a party in interest filed within one year after service of a notice under subdivision (c) of this rule, the court shall, after notice and hearing, determine whether payment of any claimed fee, expense, or charge is required by the underlying agreement and applicable nonbankruptcy law to cure a default or maintain payments in accordance with §1322(b)(5) of the Code.
 
 (f) Notice of Final Cure Payment. Within 30 days after the debtor completes all payments under the plan, the trustee shall file and serve on the holder of the claim, the debtor, and debtor's counsel a notice stating that the debtor has paid in full the amount required to cure any default on the claim. The notice shall also inform the holder of its obligation to file and serve a response under subdivision (g). If the debtor contends that final cure payment has been made and all plan payments have been completed, and the trustee does not timely file and serve the notice required by this subdivision, the debtor may file and serve the notice.
 
@@ -3390,7 +3398,7 @@ Subdivision (c)(7) is added to provide a two-stage deadline for filing mortgage 
 
 (2) award other appropriate relief, including reasonable expenses and attorney's fees caused by the failure.
 
-(Added Apr. 26, 2011, eff. Dec. 1, 2011; amended Apr. 28, 2016, eff. Dec. 1, 2016.)
+(Added Apr. 26, 2011, eff. Dec. 1, 2011; amended Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Committee Notes on Rules—2011 ####
 
@@ -3443,6 +3451,14 @@ If, after the chapter 13 debtor has completed payments under the plan and the ca
 Subdivision (a) is amended to clarify the applicability of the rule. Its provisions apply whenever a chapter 13 plan provides that contractual payments on the debtor's home mortgage will be maintained, whether they will be paid by the trustee or directly by the debtor. The reference to §1322(b)(5) of the Code is deleted to make clear that the rule applies even if there is no prepetition arrearage to be cured. So long as a creditor has a claim that is secured by a security interest in the debtor's principal residence and the plan provides that contractual payments on the claim will be maintained, the rule applies.
 
 Subdivision (a) is further amended to provide that, unless the court orders otherwise, the notice obligations imposed by this rule cease on the effective date of an order granting relief from the automatic stay with regard to the debtor's principal residence. Debtors and trustees typically do not make payments on mortgages after the stay relief is granted, so there is generally no need for the holder of the claim to continue providing the notices required by this rule. Sometimes, however, there may be reasons for the debtor to continue receiving mortgage information after stay relief. For example, the debtor may intend to seek a mortgage modification or to cure the default. When the court determines that the debtor has a need for the information required by this rule, the court is authorized to order that the notice obligations remain in effect or be reinstated after the relief from the stay is granted.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Subdivision (b) is subdivided and amended in two respects. First, it is amended in what is now subdivision (b)(1) to authorize courts to modify its requirements for claims arising from home equity lines of credit (HELOCs). Because payments on HELOCs may adjust frequently and in small amounts, the rule provides flexibility for courts to specify alternative procedures for keeping the person who is maintaining payments on the loan apprised of the current payment amount. Courts may specify alternative requirements for providing notice of changes in HELOC payment amounts by local rules or orders in individual cases.
+
+Second, what is now subdivision (b)(2) is amended to acknowledge the right of the trustee, debtor, or other party in interest, such as the United States trustee, to object to a change in a home-mortgage payment amount after receiving notice of the change under subdivision (b)(1). The amended rule does not set a deadline for filing a motion for a determination of the validity of the payment change, but it provides as a general matter—subject to a contrary court order—that if no motion has been filed on or before the day before the change is to take effect, the announced change goes into effect. If there is a later motion and a determination that the payment change was not required to maintain payments under §1322(b)(5), appropriate adjustments will have to be made to reflect any overpayments. If, however, a motion is made during the time specified in subdivision (b)(2), leading to a suspension of the payment change, a determination that the payment change was valid will require the debtor to cure the resulting default in order to be current on the mortgage at the end of the bankruptcy case.
+
+Subdivision (e) is amended to allow parties in interest in addition to the debtor or trustee, such as the United States trustee, to seek a determination regarding the validity of any claimed fee, expense, or charge.
 
 ### Rule 3003. Filing Proof of Claim or Equity Security Interest in Chapter 9 Municipality or Chapter 11 Reorganization Cases ###
 
@@ -5106,7 +5122,19 @@ The rule is amended to be gender neutral. The bankruptcy judge before whom the m
 
 (1) *Place of Filing*. The lists, schedules, statements, proofs of claim or interest, complaints, motions, applications, objections and other papers required to be filed by these rules, except as provided in 28 U.S.C. §1409, shall be filed with the clerk in the district where the case under the Code is pending. The judge of that court may permit the papers to be filed with the judge, in which event the filing date shall be noted thereon, and they shall be forthwith transmitted to the clerk. The clerk shall not refuse to accept for filing any petition or other paper presented for the purpose of filing solely because it is not presented in proper form as required by these rules or any local rules or practices.
 
-(2) *Filing by Electronic Means*. A court may by local rule permit or require documents to be filed, signed, or verified by electronic means that are consistent with technical standards, if any, that the Judicial Conference of the United States establishes. A local rule may require filing by electronic means only if reasonable exceptions are allowed. A document filed by electronic means in compliance with a local rule constitutes a written paper for the purpose of applying these rules, the Federal Rules of Civil Procedure made applicable by these rules, and §107 of the Code.
+(2) *Electronic Filing and Signing*.
+
+(A) *By a Represented Entity—Generally Required; Exceptions*. An entity represented by an attorney shall file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
+
+(B) *By an Unrepresented Individual—When Allowed or Required*. An individual not represented by an attorney:
+
+(i) may file electronically only if allowed by court order or by local rule; and
+
+(ii) may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
+
+(C) *Signing*. A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature.
+
+(D) *Same as a Written Paper*. A paper filed electronically is a written paper for purposes of these rules, the Federal Rules of Civil Procedure made applicable by these rules, and §107 of the Code.
 
 (b) Transmittal to the United States Trustee.
 
@@ -5118,7 +5146,7 @@ The rule is amended to be gender neutral. The bankruptcy judge before whom the m
 
 (c) Error in Filing or Transmittal. A paper intended to be filed with the clerk but erroneously delivered to the United States trustee, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the clerk of the bankruptcy court. A paper intended to be transmitted to the United States trustee but erroneously delivered to the clerk, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the United States trustee. In the interest of justice, the court may order that a paper erroneously delivered shall be deemed filed with the clerk or transmitted to the United States trustee as of the date of its original delivery.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 12, 2006, eff. Dec. 1, 2006.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5171,6 +5199,14 @@ Although under subdivision (a)(2) electronically filed documents may be treated 
 *Subdivision (c).* The rule is amended to include the clerk of the bankruptcy appellate panel among the list of persons required to transmit to the proper person erroneously filed or transmitted papers. The amendment is necessary because the bankruptcy appellate panels were not in existence at the time of the original promulgation of the rule. The amendment also inserts the district judge on the list of persons required to transmit papers intended for the United States trustee but erroneously sent to another person. The district judge is included in the list of persons who must transmit papers to the clerk of the bankruptcy court in the first part of the rule, and there is no reason to exclude the district judge from the list of persons who must transmit erroneously filed papers to the United States trustee.
 
 *Changes Made After Publication.* The published version of the Rule did not include the sentence set out on lines 7–10 above [sic]. The Advisory Committee concluded, based on the written comments received and additional Advisory Committee consideration, that the text of the rule should include a statement regarding the need for courts to protect access to the courts for those whose status might not allow for electronic participation in cases. The published version had relegated this notion to the Committee Note, but further deliberations led to the conclusion that this matter is too important to leave to the Committee Note and instead should be included in the text of the rule.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Electronic filing has matured. Most districts have adopted local rules that require electronic filing and allow reasonable exceptions as required by the former rule. The time has come to seize the advantages of electronic filing by making it mandatory in all districts, except for filings made by an individual not represented by an attorney. But exceptions continue to be available. Paper filing must be allowed for good cause. And a local rule may allow or require paper filing for other reasons.
+
+Filings by an individual not represented by an attorney are treated separately. It is not yet possible to rely on an assumption that pro se litigants are generally able to seize the advantages of electronic filing. Encounters with the court's system may prove overwhelming to some. Attempts to work within the system may generate substantial burdens on a pro se party, on other parties, and on the court. Rather than mandate electronic filing, filing by pro se litigants is left for governing by local rules or court order. Efficiently handled electronic filing works to the advantage of all parties and the court. Many courts now allow electronic filing by pro se litigants with the court's permission. Such approaches may expand with growing experience in these and other courts, along with the growing availability of the systems required for electronic filing and the increasing familiarity of most people with electronic communication. Room is also left for a court to require electronic filing by a pro se litigant by court order or by local rule. Care should be taken to ensure that an order to file electronically does not impede access to the court, and reasonable exceptions must be included in a local rule that requires electronic filing by a pro se litigant.
+
+A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature. A person's electronic-filing account means an account established by the court for use of the court's electronic-filing system, which account the person accesses with the user name and password (or other credentials) issued to that person by the court.
 
 #### References in Text ####
 
@@ -5838,7 +5874,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (a) Summons; Service; Proof of Service.
 
-(1) Except as provided in Rule 7004(a)(2), Rule 4(a), (b), (c)(1), (d)(1), (e)–(j), (l), and (m) F.R.Civ.P. applies in adversary proceedings. Personal service under Rule 4(e)–(j) F.R.Civ.P. may be made by any person at least 18 years of age who is not a party, and the summons may be delivered by the clerk to any such person.
+(1) Except as provided in Rule 7004(a)(2), Rule 4(a), (b), (c)(1), (d)(5), (e)–(j), (l), and (m) F.R.Civ.P. applies in adversary proceedings. Personal service under Rule 4(e)–(j) F.R.Civ.P. may be made by any person at least 18 years of age who is not a party, and the summons may be delivered by the clerk to any such person.
 
 (2) The clerk may sign, seal, and issue a summons electronically by putting an "s/" before the clerk's name and including the court's seal on the summons.
 
@@ -5882,7 +5918,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (3) the institution has waived in writing its entitlement to service by certified mail by designating an officer to receive service.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6031,6 +6067,10 @@ The rule is amended to implement changes in connection with the amendment to Rul
 Subdivision (e) is amended to alter the period of time during which service of the summons and complaint must be made. The amendment reduces that period from fourteen days to seven days after issuance of the summons. Because Rule 7012 provides that the defendant's time to answer the complaint is calculated from the date the summons is issued, a lengthy delay between issuance and service of the summons may unduly shorten the defendant's time to respond. The amendment is therefore intended to encourage prompt service after issuance of a summons. If service of the summons within any seven-day period is impracticable, a court retains the discretion to enlarge that period of time under Rule 9006(b).
 
 *Changes Made After Publication and Comment*. A new sentence referring to the availability of an enlargement of time under Rule 9006(b) was added to the Committee Note. The only other change made after publication and comment was stylistic.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+In 1996, Rule 7004(a) was amended to incorporate by reference F.R.Civ.P. 4(d)(1). Civil Rule 4(d)(1) addresses the effect of a defendant's waiver of service. In 2007, Civil Rule 4 was amended, and the language of old Civil Rule 4(d)(1) was modified and renumbered as Civil Rule 4(d)(5). Accordingly, Rule 7004(a) is amended to update the cross-reference to Civil Rule 4.
 
 #### References in Text ####
 
@@ -6626,9 +6666,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7062. Stay of Proceedings to Enforce a Judgment ###
 
-Rule 62 F.R.Civ.P. applies in adversary proceedings.
+Rule 62 F.R.Civ.P. applies in adversary proceedings, except that proceedings to enforce a judgment are stayed for 14 days after its entry.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6643,6 +6683,10 @@ This rule is amended to include as additional exceptions to Rule 62(a) an order 
 The additional exceptions to Rule 62(a) consist of orders that are issued in contested matters. These exceptions are deleted from this rule because of the amendment to Rule 9014 that renders this rule inapplicable in contested matters unless the court orders otherwise. *See also* the amendments to Rules 3020, 3021, 4001, 6004, and 6006 that delay the implementation of certain types of orders for a period of ten days unless the court otherwise directs.
 
 *GAP Report on Rule 7062*. No changes since publication.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The rule is amended to retain a 14-day period for the automatic stay of a judgment. F.R.Civ.P. 62(a) now provides for a 30-day stay to accommodate the 28-day time periods under the Federal Rules of Civil Procedure for filing post-judgment motions and the 30-day period for filing a notice of appeal. Under the Bankruptcy Rules, however, those periods are limited to 14 days. *See* Rules 7052, 8002, 9015, and 9023.
 
 #### References in Text ####
 
@@ -6760,9 +6804,23 @@ These rules take account of the evolving technology in the federal courts for th
 
 (4) *Mistaken Filing in Another Court*. If a notice of appeal is mistakenly filed in a district court, BAP, or court of appeals, the clerk of that court must state on the notice the date on which it was received and transmit it to the bankruptcy clerk. The notice of appeal is then considered filed in the bankruptcy court on the date so stated.
 
+(5) *Entry Defined*.
+
+(A) A judgment, order, or decree is entered for purposes of this Rule 8002(a):
+
+(i) when it is entered in the docket under Rule 5003(a), or
+
+(ii) if Rule 7058 applies and Rule 58(a) F.R.Civ.P. requires a separate document, when the judgment, order, or decree is entered in the docket under Rule 5003(a) and when the earlier of these events occurs:
+
+• the judgment, order, or decree is set out in a separate document; or
+
+• 150 days have run from entry of the judgment, order, or decree in the docket under Rule 5003(a).
+
+(B) A failure to set out a judgment, order, or decree in a separate document when required by Rule 58(a) F.R.Civ.P. does not affect the validity of an appeal from that judgment, order, or decree.
+
 (b) Effect of a Motion on the Time to Appeal.
 
-(1) *In General*. If a party timely files in the bankruptcy court any of the following motions, the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion:
+(1) *In General*. If a party files in the bankruptcy court any of the following motions and does so within the time allowed by these rules, the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion:
 
 (A) to amend or make additional findings under Rule 7052, whether or not granting the motion would alter the judgment;
 
@@ -6780,7 +6838,15 @@ These rules take account of the evolving technology in the federal courts for th
 
 (c) Appeal by an Inmate Confined in an Institution.
 
-(1) *In General*. If an inmate confined in an institution files a notice of appeal from a judgment, order, or decree of a bankruptcy court, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing. If the institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+(1) *In General*. If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 8002(c)(1). If an inmate files a notice of appeal from a judgment, order, or decree of a bankruptcy court, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
+
+(A) it is accompanied by:
+
+(i) a declaration in compliance with 28 U.S.C. §1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or
+
+(ii) evidence (such as a postmark or date stamp) showing that the notice was so deposited and that postage was prepaid; or
+
+(B) the appellate court exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies Rule 8002(c)(1)(A)(i).
 
 (2) *Multiple Appeals*. If an inmate files under this subdivision the first notice of appeal, the 14-day period provided in subdivision (a)(3) for another party to file a notice of appeal runs from the date when the bankruptcy clerk dockets the first notice.
 
@@ -6808,7 +6874,7 @@ These rules take account of the evolving technology in the federal courts for th
 
 (3) *Time Limits on an Extension*. No extension of time may exceed 21 days after the time prescribed by this rule, or 14 days after the order granting the motion to extend time is entered, whichever is later.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -6829,6 +6895,22 @@ Subdivision (c) mirrors the provisions of F.R.App.P. 4(c)(1) and (2), which spec
 Subdivision (d) continues to allow the court to grant an extension of time to file a notice of appeal, except with respect to certain specified judgments, orders, and decrees.
 
 *Changes Made After Publication and Comment*. Stylistic changes were made to the title of subdivision (b)(3) and to subdivision (c)(1).
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Clarifying amendments are made to subdivisions (a), (b), and (c) of the rule. They are modeled on parallel provisions of F.R.App.P. 4.
+
+Paragraph (5) is added to subdivision (a) to clarify the effect of the separate-document requirement of F.R.Civ.P. 58(a) on the entry of a judgment, order, or decree for the purpose of determining the time for filing a notice of appeal.
+
+Rule 7058 adopts F.R.Civ.P. 58 for adversary proceedings. If Rule 58(a) requires a judgment to be set out in a separate document, the time for filing a notice of appeal runs—subject to subdivisions (b) and (c)—from when the judgment is docketed and the judgment is set out in a separate document or, if no separate document is prepared, from 150 days from when the judgment is entered in the docket. The court's failure to comply with the separate-document requirement of Rule 58(a), however, does not affect the validity of an appeal.
+
+Rule 58 does not apply in contested matters. Instead, under Rule 9021, a separate document is not required, and a judgment or order is effective when it is entered in the docket. The time for filing a notice of appeal under subdivision (a) therefore begins to run upon docket entry in contested matters, as well as in adversary proceedings for which Rule 58 does not require a separate document.
+
+A clarifying amendment is made to subdivision (b)(1) to conform to a recent amendment to F.R.App.P. 4(a)(4)—from which Rule 8002(b)(1) is derived. Former Rule 8002(b)(1) provided that "[i]f a party timely files in the bankruptcy court" certain post-judgment motions, "the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion." Responding to a circuit split concerning the meaning of "timely" in F.R.App.P. 4(a)(4), the amendment adopts the majority approach and rejects the approach taken in *National Ecological Foundation v. Alexander*, 496 F.3d 466 (6th Cir. 2007). A motion made after the time allowed by the Bankruptcy Rules will not qualify as a motion that, under Rule 8002(b)(1), re-starts the appeal time—and that fact is not altered by, for example, a court order that sets a due date that is later than permitted by the Bankruptcy Rules, another party's consent or failure to object to the motion's lateness, or the court's disposition of the motion without explicit reliance on untimeliness.
+
+Subdivision (c)(1) is revised to conform to F.R.App.P. 4(c)(1), which was recently amended to streamline and clarify the operation of the inmate-filing rule. The rule requires the inmate to show timely deposit and prepayment of postage. It is amended to specify that a notice is timely if it is accompanied by a declaration or notarized statement stating the date the notice was deposited in the institution's mail system and attesting to the prepayment of first-class postage. The declaration must state that first-class postage "is being prepaid,"; not (as directed by the former rule) that first-class postage "has been prepaid." This change reflects the fact that inmates may need to rely upon the institution to affix postage after the inmate has deposited the document in the institution's mail system. A new Director's Form sets out a suggested form of the declaration.
+
+The amended rule also provides that a notice is timely without a declaration or notarized statement if other evidence accompanying the notice shows that the notice was deposited on or before the due date and that postage was prepaid. If the notice is not accompanied by evidence that establishes timely deposit and prepayment of postage, then the appellate court—district court, BAP, or court of appeals in the case of a direct appeal—has discretion to accept a declaration or notarized statement at a later date. The rule uses the phrase "exercises its discretion to permit"—rather than simply "permits"—to help ensure that pro se inmates are aware that a court will not necessarily forgive a failure to provide the declaration initially.
 
 ### Rule 8003. Appeal as of Right—How Taken; Docketing the Appeal ###
 
@@ -6994,7 +7076,11 @@ Subdivision (d) provides that, in the case of an appeal by leave, if the appella
 
 (b) Filing the Certification. The certification must be filed with the clerk of the court where the matter is pending. For purposes of this rule, a matter remains pending in the bankruptcy court for 30 days after the effective date under Rule 8002 of the first notice of appeal from the judgment, order, or decree for which direct review is sought. A matter is pending in the district court or BAP thereafter.
 
-(c) Joint Certification by All Appellants and Appellees. A joint certification by all the appellants and appellees under 28 U.S.C. §158(d)(2)(A) must be made by using the appropriate Official Form. The parties may supplement the certification with a short statement of the basis for the certification, which may include the information listed in subdivision (f)(2).
+(c) Joint Certification by All Appellants and Appellees.
+
+(1) *How Accomplished*. A joint certification by all the appellants and appellees under 28 U.S.C. §158(d)(2)(A) must be made by using the appropriate Official Form. The parties may supplement the certification with a short statement of the basis for the certification, which may include the information listed in subdivision (f)(2).
+
+(2) *Supplemental Statement by the Court*. Within 14 days after the parties' certification, the bankruptcy court or the court in which the matter is then pending may file a short supplemental statement about the merits of the certification.
 
 (d) The Court That May Make the Certification. Only the court where the matter is pending, as provided in subdivision (b), may certify a direct review on request of parties or on its own motion.	
 
@@ -7028,7 +7114,7 @@ Subdivision (d) provides that, in the case of an appeal by leave, if the appella
 
 (g) Proceeding in the Court of Appeals Following a Certification. Within 30 days after the date the certification becomes effective under subdivision (a), a request for permission to take a direct appeal to the court of appeals must be filed with the circuit clerk in accordance with F.R.App.P. 6(c).
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -7050,6 +7136,12 @@ Subdivision (g) requires that, once a certification for direct review is made, a
 
 *Changes Made After Publication and Comment*. In subdivisions (b) and (g), cross-references were added. In subdivision (f)(4), the statement regarding the inapplicability of Rule 9014 was deleted as unnecessary. A clarifying change was made to the first paragraph of the Committee Note.
 
+#### Committee Notes on Rules—2018 Amendment ####
+
+Subdivision (c) is amended to provide authority for the court to file a statement on the merits of a certification for direct review by the court of appeals when the certification is made jointly by all of the parties to the appeal. It is a counterpart to subdivision (e)(2), which allows a party to file a similar statement when the court certifies direct review on the court's own motion.
+
+The bankruptcy court may file a supplemental statement within 14 days after the certification, even if the appeal is no longer pending before it according to subdivision (b). If the appeal is pending in the district court or BAP during that 14-day period, the appellate court is authorized to file a statement. In all cases, the filing of a statement by the court is discretionary.
+
 #### References in Text ####
 
 The Federal Rules of Appellate Procedure, referred to in subd. (g), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -7062,7 +7154,7 @@ The Federal Rules of Appellate Procedure, referred to in subd. (g), are set out 
 
 (A) a stay of a judgment, order, or decree of the bankruptcy court pending appeal;
 
-(B) the approval of a supersedeas bond;
+(B) the approval of a bond or other security provided to obtain a stay of judgment;
 
 (C) an order suspending, modifying, restoring, or granting an injunction while an appeal is pending; or
 
@@ -7090,9 +7182,9 @@ The Federal Rules of Appellate Procedure, referred to in subd. (g), are set out 
 
 (4) *Serving Notice*. The movant must give reasonable notice of the motion to all parties.
 
-(c) Filing a Bond or Other Security. The district court, BAP, or court of appeals may condition relief on filing a bond or other appropriate security with the bankruptcy court.
+(c) Filing a Bond or Other Security. The district court, BAP, or court of appeals may condition relief on filing a bond or other security with the bankruptcy court.
 
-(d) Bond for a Trustee or the United States. The court may require a trustee to file a bond or other appropriate security when the trustee appeals. A bond or other security is not required when an appeal is taken by the United States, its officer, or its agency or by direction of any department of the federal government.
+(d) Bond or Other Security for a Trustee or the United States. The court may require a trustee to file a bond or other security when the trustee appeals. A bond or other security is not required when an appeal is taken by the United States, its officer, or its agency or by direction of any department of the federal government.
 
 (e) Continuation of Proceedings in the Bankruptcy Court. Despite Rule 7062 and subject to the authority of the district court, BAP, or court of appeals, the bankruptcy court may:
 
@@ -7100,7 +7192,7 @@ The Federal Rules of Appellate Procedure, referred to in subd. (g), are set out 
 
 (2) issue any other appropriate orders during the pendency of an appeal to protect the rights of all parties in interest.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -7119,6 +7211,10 @@ Subdivisions (c) and (d) retain the provisions of the former rule that permit th
 Subdivision (e) retains the provision of the former rule that authorizes the bankruptcy court to decide whether to suspend or allow the continuation of other proceedings in the bankruptcy case while the matter for which a stay has been sought is pending on appeal.
 
 *Changes Made After Publication and Comment*. The clause "or where it will be taken" was deleted in subdivision (b)(1). Stylistic changes were made to the titles of subdivisions (b) and (e) and in subdivision (e)(1). A discussion of subdivision (e) was added to the Committee Note.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendments to subdivisions (a)(1)(B), (c), and (d) conform this rule with the amendment of Rule 62 F.R.Civ.P., which is made applicable to adversary proceedings by Rule 7062. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
 
 ### Rule 8008. Indicative Rulings ###
 
@@ -7304,13 +7400,13 @@ The Federal Rules of Appellate Procedure, referred to in subd. (d), are set out 
 
 • a stay pending appeal;
 
-• approval of a supersedeas bond, or additional security on a bond or undertaking on appeal; or
+• approval of a bond or other security provided to obtain a stay of judgment; or
 
 • any other intermediate order.
 
 The bankruptcy clerk must then transmit to the clerk of the court where the relief is sought any parts of the record designated by a party to the appeal or a notice that those parts are available electronically.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -7330,6 +7426,10 @@ Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g). It pro
 
 *Changes Made After Publication and Comment*. Subdivision (a)(1) was revised to more accurately reflect the way in which transcription services are selected. A cross-reference to Rule 8009(b) was added to subdivision (a)(2)(A).
 
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendment of subdivision (c) conforms this rule with the amendment of Rule 62 F.R.Civ.P., which is made applicable in adversary proceedings by Rule 7062. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
+
 ### Rule 8011. Filing and Service; Signature ###
 
 (a) Filing.	
@@ -7338,17 +7438,35 @@ Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g). It pro
 
 (2) *Method and Timeliness.*
 
-(A) *In General*. Filing may be accomplished by transmission to the clerk of the district court or BAP. Except as provided in subdivision (a)(2)(B) and (C), filing is timely only if the clerk receives the document within the time fixed for filing.
+(A) *Nonelectronic Filing.*
 
-(B) *Brief or Appendix*. A brief or appendix is also timely filed if, on or before the last day for filing, it is:
+(i) *In General*. For a document not filed electronically, filing may be accomplished by mail addressed to the clerk of the district court or BAP. Except as provided in subdivision (a)(2)(A)(ii) and (iii), filing is timely only if the clerk receives the document within the time fixed for filing.
 
-(i) mailed to the clerk by first-class mail—or other class of mail that is at least as expeditious—postage prepaid, if the district court's or BAP's procedures permit or require a brief or appendix to be filed by mailing; or
+(ii) *Brief or Appendix*. A brief or appendix not filed electronically is also timely filed if, on or before the last day for filing, it is:
 
-(ii) dispatched to a third-party commercial carrier for delivery within 3 days to the clerk, if the court's procedures so permit or require.
+• mailed to the clerk by first-class mail—or other class of mail that is at least as expeditious—postage prepaid; or
 
-(C) *Inmate Filing*. A document filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If the institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+• dispatched to a third-party commercial carrier for delivery within 3 days to the clerk.
 
-(D) *Copies*. If a document is filed electronically, no paper copy is required. If a document is filed by mail or delivery to the district court or BAP, no additional copies are required. But the district court or BAP may require by local rule or by order in a particular case the filing or furnishing of a specified number of paper copies.
+(iii) *Inmate Filing*. If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 8011(a)(2)(A)(iii). A document not filed electronically by an inmate confined in an institution is timely if it is deposited in the institution's internal mailing system on or before the last day for filing and:
+
+• it is accompanied by a declaration in compliance with 28 U.S.C. §1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or evidence (such as a postmark or date stamp) showing that the notice was so deposited and that postage was prepaid; or
+
+• the appellate court exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies this Rule 8011(a)(2)(A)(iii).
+
+(B) *Electronic Filing.*
+
+(i) *By a Represented Person—Generally Required; Exceptions*. An entity represented by an attorney must file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
+
+(ii) *By an Unrepresented Individual—When Allowed or Required*. An individual not represented by an attorney:
+
+• may file electronically only if allowed by court order or by local rule; and
+
+• may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
+
+(iii) *Same as a Written Paper*. A document filed electronically is a written paper for purposes of these rules.
+
+(C) *Copies*. If a document is filed electronically, no paper copy is required. If a document is filed by mail or delivery to the district court or BAP, no additional copies are required. But the district court or BAP may require by local rule or by order in a particular case the filing or furnishing of a specified number of paper copies.
 
 (3) *Clerk's Refusal of Documents*. The court's clerk must not refuse to accept for filing any document transmitted for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice.
 
@@ -7356,19 +7474,21 @@ Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g). It pro
 
 (c) Manner of Service.
 
-(1) *Methods*. Service must be made electronically, unless it is being made by or on an individual who is not represented by counsel or the court's governing rules permit or require service by mail or other means of delivery. Service may be made by or on an unrepresented party by any of the following methods:
+(1) *Nonelectronic Service*. Nonelectronic service may be by any of the following:
 
-(A) personal delivery;
+(A)	personal delivery;
 
-(B) mail; or
+(B)	mail; or
 
-(C) third-party commercial carrier for delivery within 3 days.
+(C)	third-party commercial carrier for delivery within 3 days.
 
-(2) *When Service is Complete*. Service by electronic means is complete on transmission, unless the party making service receives notice that the document was not transmitted successfully. Service by mail or by commercial carrier is complete on mailing or delivery to the carrier.
+(2) *Electronic Service*. Electronic service may be made by sending a document to a registered user by filing it with the court's electronic-filing system or by using other electronic means that the person served consented to in writing.
+
+(3) *When Service Is Complete*. Service by electronic means is complete on filing or sending, unless the person making service receives notice that the document was not received by the person served. Service by mail or by commercial carrier is complete on mailing or delivery to the carrier.
 
 (d) Proof of Service.
 
-(1) *What is Required*. A document presented for filing must contain either:
+(1) *What Is Required*. A document presented for filing must contain either of the following if it was served other than through the court's electronic-filing system:
 
 (A) an acknowledgment of service by the person served; or
 
@@ -7384,9 +7504,9 @@ Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g). It pro
 
 (3) *Brief or Appendix*. When a brief or appendix is filed, the proof of service must also state the date and manner by which it was filed.
 
-(e) Signature. Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the electronic signature of counsel. The electronic signature must be provided by electronic means that are consistent with any technical standards that the Judicial Conference of the United States establishes. Every document filed in paper form must be signed by the person filing the document or, if the person is represented, by counsel.
+(e) Signature. Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the electronic signature of counsel. A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature. Every document filed in paper form must be signed by the person filing the document or, if the person is represented, by counsel.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -7407,6 +7527,24 @@ Subdivision (d) retains the former rule's provisions regarding proof of service 
 Subdivision (e) is a new provision that requires an electronic signature of counsel or an unrepresented filer for documents that are filed electronically in the district court or BAP. A local rule may specify a method of providing an electronic signature that is consistent with any standards established by the Judicial Conference of the United States. Paper copies of documents filed in the district court or BAP must bear an actual signature of counsel or the filer. By requiring a signature, subdivision (e) ensures that a readily identifiable attorney or party takes responsibility for every document that is filed.
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The rule is amended to conform to the amendments to F.R.App.P. 25 on inmate filing, electronic filing, signature, service, and proof of service.
+
+Consistent with Rule 8001(c), subdivision (a)(2) generally makes electronic filing mandatory. The rule recognizes exceptions for persons proceeding without an attorney, exceptions for good cause, and variations established by local rule.
+
+Subdivision (a)(2)(A)(iii) is revised to conform to F.R.App.P. 25(a)(2)(A)(iii), which was recently amended to streamline and clarify the operation of the inmate-filing rule. The rule requires the inmate to show timely deposit and prepayment of postage. It is amended to specify that a notice is timely if it is accompanied by a declaration or notarized statement stating the date the notice was deposited in the institution's mail system and attesting to the prepayment of first-class postage. The declaration must state that first-class postage "is being prepaid," not (as directed by the former rule) that first-class postage "has been prepaid." This change reflects the fact that inmates may need to rely upon the institution to affix postage after the inmate has deposited the document in the institution's mail system. A new Director's Form sets out a suggested form of the declaration.
+
+The amended rule also provides that a notice is timely without a declaration or notarized statement if other evidence accompanying the notice shows that the notice was deposited on or before the due date and that postage was prepaid. If the notice is not accompanied by evidence that establishes timely deposit and prepayment of postage, then the appellate court—district court, BAP, or court of appeals in the case of a direct appeal—has discretion to accept a declaration or notarized statement at a later date. The rule uses the phrase "exercises its discretion to permit"—rather than simply "permits"—to help ensure that pro se inmates are aware that a court will not necessarily forgive a failure to provide the declaration initially.
+
+Subdivision (c) is amended to authorize electronic service by means of the court's electronic-filing system on registered users without requiring their written consent. All other forms of electronic service require the written consent of the person served.
+
+Service is complete when a person files the paper with the court's electronic-filing system for transmission to a registered user, or when one person sends it to another person by other electronic means that the other person has consented to in writing. But service is not effective if the person who filed with the court or the person who sent by other agreed-upon electronic means receives notice that the paper did not reach the person to be served. The rule does not make the court responsible for notifying a person who filed the paper with the court's electronic-filing system that an attempted transmission by the court's system failed. But a filer who receives notice that the transmission failed is responsible for making effective service.
+
+As amended, subdivision (d) eliminates the requirement of proof of service when service is made through the electronic-filing system. The notice of electronic filing generated by the system serves that purpose.
+
+Subdivision (e) requires the signature of counsel or an unrepresented party on every document that is filed. A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature. A person's electronic-filing account means an account established by the court for use of the court's electronic-filing system, which account the person accesses with the user name and password (or other credentials) issued to that person by the court.
 
 ### Rule 8012. Corporate Disclosure Statement ###
 
@@ -7486,23 +7624,27 @@ If filed separately from a brief, motion, response, petition, or answer, the sta
 
 (2) *Reviewing a Single Judge's Action*. The BAP may review a single judge's action, either on its own motion or on a party's motion.
 
-(f) Form of Documents; Page Limits; Number of Copies.
+(f) Form of Documents; Length Limits; Number of Copies.
 
 (1) *Format of a Paper Document*. Rule 27(d)(1) F.R.App.P. applies in the district court or BAP to a paper version of a motion, response, or reply.
 
-(2) *Format of an Electronically Filed Document*. A motion, response, or reply filed electronically must comply with the requirements for a paper version regarding covers, line spacing, margins, typeface, and type style. It must also comply with the page limits under paragraph (3).
+(2) *Format of an Electronically Filed Document*. A motion, response, or reply filed electronically must comply with the requirements for a paper version regarding covers, line spacing, margins, typeface, and type style. It must also comply with the length limits under paragraph (3).
 
-(3) *Page Limits*. Unless the district court or BAP orders otherwise:
+(3) *Length Limits*. Except by the district court's or BAP's permission, and excluding the accompanying documents authorized by subdivision (a)(2)(C):
 
-(A) a motion or a response to a motion must not exceed 20 pages, exclusive of the corporate disclosure statement and accompanying documents authorized by subdivision (a)(2)(C); and
+(A)	a motion or a response to a motion produced using a computer must include a certificate under Rule 8015(h) and not exceed 5,200 words;
 
-(B) a reply to a response must not exceed 10 pages.
+(B)	a handwritten or typewritten motion or a response to a motion must not exceed 20 pages;
+
+(C)	a reply produced using a computer must include a certificate under Rule 8015(h) and not exceed 2,600 words; and
+
+(D)	a handwritten or typewritten reply must not exceed 10 pages.
 
 (4) *Paper Copies*. Paper copies must be provided only if required by local rule or by an order in a particular case.
 
 (g) Intervening in an Appeal. Unless a statute provides otherwise, an entity that seeks to intervene in an appeal pending in the district court or BAP must move for leave to intervene and serve a copy of the motion on the parties to the appeal. The motion or other notice of intervention authorized by statute must be filed within 30 days after the appeal is docketed. It must concisely state the movant's interest, the grounds for intervention, whether intervention was sought in the bankruptcy court, why intervention is being sought at this stage of the proceeding, and why participating as an amicus curiae would not be adequate.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -7529,6 +7671,10 @@ Subdivision (f) incorporates by reference the formatting and appearance requirem
 Subdivision (g) clarifies the procedure for seeking to intervene in a proceeding that has been appealed. It is based on F.R.App.P. 15(d), but it also requires the moving party to explain why intervention is being sought at the appellate stage. The former Part VIII rules did not address intervention.
 
 *Changes Made After Publication and Comment*. Subdivision (a)(2)(D) was changed to allow the court to require a notice of motion or proposed order. A stylistic change was made to subdivision (d)(2)(B).
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Subdivision (f)(3) is amended to conform to F.R.App.P. 27(d)(2), which was recently amended to replace page limits with word limits for motions and responses produced using a computer. The word limits were derived from the current page limits, using the assumption that one page is equivalent to 260 words. Documents produced using a computer must include the certificate of compliance required by Rule 8015(h); Official Form 417C suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes the accompanying documents required by Rule 8013(a)(2)(C) and any items listed in Rule 8015(h).
 
 #### References in Text ####
 
@@ -7646,29 +7792,17 @@ Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the fi
 
 (7) *Length.*
 
-(A) *Page limitation*. A principal brief must not exceed 30 pages, or a reply brief 15 pages, unless it complies with (B) and (C).
+(A) *Page Limitation*. A principal brief must not exceed 30 pages, or a reply brief 15 pages, unless it complies with subparagraph (B).
 
-(B) *Type-volume limitation.*
+(B) *Type-volume Limitation.*
 
-(i) A principal brief is acceptable if:
+(i) A principal brief is acceptable if it contains a certificate under Rule 8015(h) and:
 
-• it contains no more than 14,000 words; or
+• contains no more than 13,000 words; or
 
-• it uses a monospaced face and contains no more than 1,300 lines of text.
+• uses a monospaced face and contains no more than 1,300 lines of text.
 
-(ii) A reply brief is acceptable if it contains no more than half of the type volume specified in item (i).
-
-(iii) Headings, footnotes, and quotations count toward the word and line limitations. The corporate disclosure statement, table of contents, table of citations, statement with respect to oral argument, any addendum containing statutes, rules, or regulations, and any certificates of counsel do not count toward the limitation.
-
-(C) *Certificate of Compliance.*
-
-(i) A brief submitted under subdivision (a)(7)(B) must include a certificate signed by the attorney, or an unrepresented party, that the brief complies with the type-volume limitation. The person preparing the certificate may rely on the word or line count of the word-processing system used to prepare the brief. The certificate must state either:
-
-• the number of words in the brief; or
-
-• the number of lines of monospaced type in the brief.
-
-(ii) The certification requirement is satisfied by a certificate of compliance that conforms substantially to the appropriate Official Form.
+(ii) A reply brief is acceptable if it includes a certificate under Rule 8015(h) and contains no more than half of the type volume specified in item (i).
 
 (b) Electronically Filed Briefs. A brief filed electronically must comply with subdivision (a), except for (a)(1), (a)(3), and the paper requirement of (a)(4).
 
@@ -7692,9 +7826,37 @@ Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the fi
 
 (3) *Other Documents Filed Electronically*. Any other document filed electronically, other than a submission under Rule 8014(f), must comply with the appearance requirements of paragraph (2).
 
-(f) Local Variation. A district court or BAP must accept documents that comply with the applicable requirements of this rule. By local rule, a district court or BAP may accept documents that do not meet all of the requirements of this rule.
+(f) Local Variation. A district court or BAP must accept documents that comply with the form requirements of this rule and the length limits set by Part VIII of these rules. By local rule or order in a particular case, a district court or BAP may accept documents that do not meet all the form requirements of this rule or the length limits set by Part VIII of these rules.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(g) Items Excluded From Length. In computing any length limit, headings, footnotes, and quotations count toward the limit, but the following items do not:
+
+• the cover page;
+
+• a corporate disclosure statement;
+
+• a table of contents;
+
+• a table of citations;
+
+• a statement regarding oral argument;
+
+• an addendum containing statutes, rules, or regulations;
+
+• certificates of counsel;
+
+• the signature block;
+
+• the proof of service; and
+
+• any item specifically excluded by these rules or by local rule.
+
+(h) Certificate of Compliance.
+
+(1) *Briefs and Documents That Require a Certificate*. A brief submitted under Rule 8015(a)(7)(B), 8016(d)(2), or 8017(b)(4)—and a document submitted under Rule 8013(f)(3)(A), 8013(f)(3)(C), or 8022(b)(1)—must include a certificate by the attorney, or an unrepresented party, that the document complies with the type-volume limitation. The individual preparing the certificate may rely on the word or line count of the word-processing system used to prepare the document. The certificate must state the number of words—or the number of lines of monospaced type—in the document.
+
+(2) *Acceptable Form*. The certificate requirement is satisfied by a certificate of compliance that conforms substantially to the appropriate Official Form.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -7720,6 +7882,16 @@ Under Rule 8011(e), the party filing the document or, if represented, its counse
 
 *Changes Made After Publication and Comment*. In subdivision (f), "or order in a particular case" was deleted as unnecessary. The discussion in the Committee Note about brief lengths was revised, and the discussion of subdivision (f) was expanded.
 
+#### Committee Notes on Rules—2018 Amendment ####
+
+The rule is amended to conform to recent amendments to F.R.App.P. 32, which reduced the word limits generally allowed for briefs. When Rule 32(a)(7)(B)'s type-volume limits for briefs were adopted in 1998, the word limits were based on an estimate of 280 words per page. Amended F.R.App.P. 32 applies a conversion ratio of 260 words per page and reduces the word limits accordingly. Rule 8015(a)(7) adopts the same reduced word limits for briefs prepared by computer.
+
+In a complex case, a party may need to file a brief that exceeds the type-volume limitations specified in these rules, such as to include unusually voluminous information explaining relevant background or legal provisions or to respond to multiple briefs by opposing parties or amici. The Committee expects that courts will accommodate those situations by granting leave to exceed the type-volume limitations as appropriate.
+
+Subdivision (f) is amended to make clear a court's ability (by local rule or order in a case) to increase the length limits for briefs and other documents. Subdivision (f) already established this authority as to the length limits in Rule 8015(a)(7); the amendment makes clear that this authority extends to all length limits in Part VIII of the Bankruptcy Rules.
+
+A new subdivision (g) is added to set out a global list of items excluded from length computations, and the list of exclusions in former subdivision (a)(7)(B)(iii) is deleted. The certificate-of-compliance provision formerly in subdivision (a)(7)(C) is relocated to a new subdivision (h) and now applies to filings under all type-volume limits (other than Rule 8014(f)'s word limit)—including the new word limits in Rules 8013, 8016, 8017, and 8022. Conforming amendments are made to Official Form 417C.
+
 ### Rule 8016. Cross-Appeals ###
 
 (a) Applicability. This rule applies to a case in which a cross-appeal is filed. Rules 8014(a)–(c), 8015(a)(7)(A)–(B), and 8018(a)(1)–(3) do not apply to such a case, except as otherwise provided in this rule.
@@ -7744,27 +7916,23 @@ Under Rule 8011(e), the party filing the document or, if represented, its counse
 
 (d) Length.
 
-(1) *Page Limitation*. Unless it complies with paragraphs (2) and (3), the appellant's principal brief must not exceed 30 pages; the appellee's principal and response brief, 35 pages; the appellant's response and reply brief, 30 pages; and the appellee's reply brief, 15 pages.
+(1) *Page Limitation*. Unless it complies with paragraph (2), the appellant's principal brief must not exceed 30 pages; the appellee's principal and response brief, 35 pages; the appellant's response and reply brief, 30 pages; and the appellee's reply brief, 15 pages.
 
-(2) *Type-Volume Limitation.*
+(2) *Type-volume Limitation.*
 
-(A) The appellant's principal brief or the appellant's response and reply brief is acceptable if:
+(A) The appellant's principal brief or the appellant's response and reply brief is acceptable if it includes a certificate under Rule 8015(h) and:
 
-(i) it contains no more than 14,000 words; or
+(i) contains no more than 13,000 words; or
 
-(ii) it uses a monospaced face and contains no more than 1,300 lines of text.
+(ii) uses a monospaced face and contains no more than 1,300 lines of text.
 
-(B) The appellee's principal and response brief is acceptable if:
+(B) The appellee's principal and response brief is acceptable if it includes a certificate under Rule 8015(h) and:
 
-(i) it contains no more than 16,500 words; or
+(i) contains no more than 15,300 words; or
 
-(ii) it uses a monospaced face and contains no more than 1,500 lines of text.
+(ii) uses a monospaced face and contains no more than 1,500 lines of text.
 
-(C) The appellee's reply brief is acceptable if it contains no more than half of the type volume specified in subparagraph (A).
-
-(D) Headings, footnotes, and quotations count toward the word and line limitations. The corporate disclosure statement, table of contents, table of citations, statement with respect to oral argument, any addendum containing statutes, rules, or regulations, and any certificates of counsel do not count toward the limitation.
-
-(3) *Certificate of Compliance*. A brief submitted either electronically or in paper form under paragraph (2) must comply with Rule 8015(a)(7)(C).
+(C) The appellee's reply brief is acceptable if it includes a certificate under Rule 8015(h) and contains no more than half of the type volume specified in subparagraph (A).
 
 (e) Time to Serve and File a Brief. Briefs must be served and filed as follows, unless the district court or BAP by order in a particular case excuses the filing of briefs or specifies different time limits:
 
@@ -7776,7 +7944,7 @@ Under Rule 8011(e), the party filing the document or, if represented, its counse
 
 (4) the appellee's reply brief, within 14 days after the appellant's response and reply brief is served, but at least 7 days before scheduled argument unless the district court or BAP, for good cause, allows a later filing.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -7796,45 +7964,69 @@ Subdivision (e) governs the time for filing briefs in cases in which there is a 
 
 *Changes Made After Publication and Comment*. Subdivision (d)(2)(D) was added, and subdivision (f) was deleted. In subdivision (a), the statement that Rule 8018(a) does not apply was changed to refer to Rule 8018(a)(1)–(3). In subdivision (b), Rule 8018(a)(4) was added to the list of rules. Conforming changes were made to the Committee Note.
 
+#### Committee Notes on Rules—2018 Amendment ####
+
+The rule is amended to conform to recent amendments to F.R.App.P. 28.1, which reduced the word limits generally allowed for briefs in cross-appeals. When Rule 28.1 was adopted in 2005, it modeled its type-volume limits on those set forth in F.R.App.P. 32(a)(7) for briefs in cases that did not involve a cross-appeal. At that time, Rule 32(a)(7)(B) set word limits based on an estimate of 280 words per page. Amended F.R.App.P. 32 and 28.1 apply a conversion ratio of 260 words per page and reduce the word limits accordingly. Rule 8016(d)(2) adopts the same reduced word limits.
+
+In a complex case, a party may need to file a brief that exceeds the type-volume limitations specified in these rules, such as to include unusually voluminous information explaining relevant background or legal provisions or to respond to multiple briefs by opposing parties or amici. The Committee expects that courts will accommodate those situations by granting leave to exceed the type-volume limitations as appropriate.
+
+Subdivision (d) is amended to refer to new Rule 8015(h) (which now contains the certificate-of-compliance provision formerly in Rule 8015(a)(7)(C)).
+
 ### Rule 8017. Brief of an Amicus Curiae	 ###
 
-(a) When Permitted. The United States or its officer or agency or a state may file an amicus-curiae brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing. On its own motion, and with notice to all parties to an appeal, the district court or BAP may request a brief by an amicus curiae.
+(a) During Initial Consideration of a Case on the Merits.
 
-(b) Motion for Leave to File. The motion must be accompanied by the proposed brief and state:
+(1) *Applicability*. This Rule 8017(a) governs amicus filings during a court's initial consideration of a case on the merits.
 
-(1) the movant's interest; and
+(2) *When Permitted*. The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing, but a district court or BAP may prohibit the filing of or may strike an amicus brief that would result in a judge's disqualification. On its own motion, and with notice to all parties to an appeal, the district court or BAP may request a brief by an amicus curiae.
 
-(2) the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the appeal.
+(3) *Motion for Leave to File*. The motion must be accompanied by the proposed brief and state:
 
-(c) Contents and Form. An amicus brief must comply with Rule 8015. In addition to the requirements of Rule 8015, the cover must identify the party or parties supported and indicate whether the brief supports affirmance or reversal. If an amicus curiae is a corporation, the brief must include a disclosure statement like that required of parties by Rule 8012. An amicus brief need not comply with Rule 8014, but must include the following:
+(A) the movant's interest; and
 
-(1) a table of contents, with page references;
+(B) the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the appeal.
 
-(2) a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the brief where they are cited;
+(4) *Contents and Form*. An amicus brief must comply with Rule 8015. In addition to the requirements of Rule 8015, the cover must identify the party or parties supported and indicate whether the brief supports affirmance or reversal. If an amicus curiae is a corporation, the brief must include a disclosure statement like that required of parties by Rule 8012. An amicus brief need not comply with Rule 8014, but must include the following:
 
-(3) a concise statement of the identity of the amicus curiae, its interest in the case, and the source of its authority to file;
+(A) a table of contents, with page references;
 
-(4) unless the amicus curiae is one listed in the first sentence of subdivision (a), a statement that indicates whether:
+(B) a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the brief where they are cited;
 
-(A) a party's counsel authored the brief in whole or in part;
+(C) a concise statement of the identity of the amicus curiae, its interest in the case, and the source of its authority to file;
 
-(B) a party or a party's counsel contributed money that was intended to fund preparing or submitting the brief; and
+(D) unless the amicus curiae is one listed in the first sentence of subdivision (a)(2), a statement that indicates whether:
 
-(C) a person—other than the amicus curiae, its members, or its counsel—contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
+(i) a party's counsel authored the brief in whole or in part;
 
-(5) an argument, which may be preceded by a summary and need not include a statement of the applicable standard of review; and
+(ii) a party or a party's counsel contributed money that was intended to fund preparing or submitting the brief; and
 
-(6) a certificate of compliance, if required by Rule 8015(a)(7)(C) or 8015(b).
+(iii) a person—other than the amicus curiae, its members, or its counsel— contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
 
-(d) Length. Except by the district court's or BAP's permission, an amicus brief must be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
+(E) an argument, which may be preceded by a summary and need not include a statement of the applicable standard of review; and
 
-(e) Time for Filing. An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant's principal brief is filed. The district court or BAP may grant leave for later filing, specifying the time within which an opposing party may answer.
+(F) a certificate of compliance, if required by Rule 8015(h).
 
-(f) Reply Brief. Except by the district court's or BAP's permission, an amicus curiae may not file a reply brief.
+(5) *Length*. Except by the district court's or BAP's permission, an amicus brief must be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
 
-(g) Oral Argument. An amicus curiae may participate in oral argument only with the district court's or BAP's permission.
+(6) *Time for Filing*. An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant's principal brief is filed. The district court or BAP may grant leave for later filing, specifying the time within which an opposing party may answer.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(7) *Reply Brief*. Except by the district court's or BAP's permission, an amicus curiae may not file a reply brief.
+
+(8) *Oral Argument*. An amicus curiae may participate in oral argument only with the district court's or BAP's permission.
+
+(b) During Consideration of Whether to Grant Rehearing.
+
+(1) *Applicability*. This Rule 8017(b) governs amicus filings during a district court's or BAP's consideration of whether to grant rehearing, unless a local rule or order in a case provides otherwise.
+
+(2) *When Permitted*. The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court.
+
+(3) *Motion for Leave to File*. Rule 8017(a)(3) applies to a motion for leave.
+
+(4) *Contents, Form, and Length*. Rule 8017(a)(4) applies to the amicus brief. The brief must include a certificate under Rule 8015(h) and not exceed 2,600 words.
+
+(5)*Time for Filing*. An amicus curiae supporting the motion for rehearing or supporting neither party must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the motion is filed. An amicus curiae opposing the motion for rehearing must file its brief, accompanied by a motion for filing when necessary, no later than the date set by the court for the response.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Prior Rule ####
 
@@ -7849,6 +8041,12 @@ Subdivision (a) adopts the provisions of F.R.App.P. 29(a). In addition, it autho
 Subdivisions (b)–(g) adopt F.R.App.P. 29(b)–(g).
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Rule 8017 is amended to conform to the recent amendment to F.R.App.P. 29, which now addresses amicus filings in connection with petitions for rehearing. Former Rule 8017 is renumbered Rule 8017(a), and language is added to that subdivision (a) to state that its provisions apply to amicus filings during the district court's or BAP's initial consideration of a case on the merits. New subdivision (b) is added to address amicus filings in connection with a motion for rehearing. Subdivision (b) sets default rules that apply when a district court or BAP does not provide otherwise by local rule or by order in a case. A court remains free to adopt different rules governing whether amicus filings are permitted in connection with motions for rehearing and the procedures when such filings are permitted.
+
+The amendment to subdivision (a)(2) authorizes orders or local rules that prohibit the filing of or permit the striking of an amicus brief by party consent if the brief would result in a judge's disqualification. The amendment does not alter or address the standards for when an amicus brief requires a judge's disqualification. It is modeled on an amendment to F.R.App.P. 29(a). A comparable amendment to subdivision (b) is not necessary. Subdivision (b)(1) authorizes local rules and orders governing filings during a court's consideration of whether to grant rehearing. These local rules or orders may prohibit the filing of or permit the striking of an amicus brief that would result in a judge's disqualification. In addition, under subdivision (b)(2), a court may deny leave to file an amicus brief that would result in a judge's disqualification.
 
 ### Rule 8018. Serving and Filing Briefs; Appendices ###
 
@@ -7915,6 +8113,16 @@ Subdivisions (b) and (c) govern the content and format of the appendix to a brie
 Subdivision (d), which addresses the inclusion of exhibits in the appendix, is derived from F.R.App.P. 30(e).	
 
 *Changes Made After Publication and Comment*. Subdivision (a)(4) was revised to provide more detail about the procedure for dismissing an appeal due to appellant's failure to timely file a brief.
+
+### Rule 8018.1. District-Court Review of a Judgment that the Bankruptcy Court Lacked the Constitutional Authority to Enter ###
+
+If, on appeal, a district court determines that the bankruptcy court did not have the power under Article III of the Constitution to enter the judgment, order, or decree appealed from, the district court may treat it as proposed findings of fact and conclusions of law.
+
+(Added Apr. 26, 2018, eff. Dec. 1, 2018.)
+
+#### Committee Notes on Rules—2018 ####
+
+This rule is new. It is added to prevent a district court from having to remand an appeal whenever it determines that the bankruptcy court lacked constitutional authority to enter the judgment, order, or decree appealed from. Consistent with the Supreme Court's decision in *Executive Benefits Ins. Agency v. Arkison*, 134 S. Ct. 2165 (2014), the district court in that situation may treat the bankruptcy court's judgment as proposed findings of fact and conclusions of law. Upon making the determination to proceed in that manner, the district court may choose to allow the parties to file written objections to specific proposed findings and conclusions and to respond to another party's objections, *see* Rule 9033; treat the parties' briefs as objections and responses; or prescribe other procedures for the review of the proposed findings of fact and conclusions of law.
 
 ### Rule 8019. Oral Argument ###
 
@@ -7998,19 +8206,23 @@ This rule is derived from former Rule 8020 and F.R.App.P. 38 and 46(c). Subdivis
 
 (3) the reporter's transcript, if needed to determine the appeal;
 
-(4) premiums paid for a supersedeas bond or other bonds to preserve rights pending appeal; and
+(4) premiums paid for a bond or other security to preserve rights pending appeal; and
 
 (5) the fee for filing the notice of appeal.
 
 (d) Bill of Costs; Objections. A party who wants costs taxed must, within 14 days after entry of judgment on appeal, file with the bankruptcy clerk, with proof of service, an itemized and verified bill of costs. Objections must be filed within 14 days after service of the bill of costs, unless the bankruptcy court extends the time.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Committee Notes on Rules—2014 ####
 
 This rule is derived from former Rule 8014 and F.R.App.P. 39. It retains the former rule's authorization for taxing appellate costs against the losing party and its specification of the costs that may be taxed. The rule also incorporates some of the additional details regarding the taxing of costs contained in F.R.App.P. 39. Consistent with former Rule 8014, the bankruptcy clerk has the responsibility for taxing all costs. Subdivision (b), derived from F.R.App.P. 39(b), clarifies that additional authority is required for the taxation of costs by or against federal governmental parties.	
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+The amendment of subdivision (c) conforms this rule with the amendment of F.R.Civ.P. 62, which is made applicable in adversary proceedings by Rule 7062. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
 
 ### Rule 8022. Motion for Rehearing ###
 
@@ -8030,15 +8242,25 @@ This rule is derived from former Rule 8014 and F.R.App.P. 39. It retains the for
 
 (C) issue any other appropriate order.
 
-(b) Form of the Motion; Length. The motion must comply in form with Rule 8013(f)(1) and (2). Copies must be served and filed as provided by Rule 8011. Unless the district court or BAP orders otherwise, a motion for rehearing must not exceed 15 pages.
+(b) Form of the Motion; Length. The motion must comply in form with Rule 8013(f)(1) and (2). Copies must be served and filed as provided by Rule 8011. Except by the district court's or BAP's permission:
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(1) a motion for rehearing produced using a computer must include a certificate under Rule 8015(h) and not exceed 3,900 words; and
+
+(2) a handwritten or typewritten motion must not exceed 15 pages.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Committee Notes on Rules—2014 ####
 
 This rule is derived from former Rule 8015 and F.R.App.P. 40. It deletes the provision of former Rule 8015 regarding the time for appeal to the court of appeals because the matter is addressed by F.R.App.P. 6(b)(2)(A).
 
 *Changes Made After Publication and Comment*. In subdivision (b), the reference to local rule was deleted as unnecessary.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+Subdivision (b) is amended to conform to the recent amendment to F.R.App.P. 40(b), which was one of several appellate rules in which word limits were substituted for page limits for documents prepared by computer. The word limits were derived from the previous page limits using the assumption that one page is equivalent to 260 words. Documents produced using a computer must include the certificate of compliance required by Rule 8015(h); completion of Official Form 417C suffices to meet that requirement.
+
+Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes any items listed in Rule 8015(g).
 
 ### Rule 8023. Voluntary Dismissal ###
 
@@ -9058,13 +9280,19 @@ This rule is amended to include a cross-reference to Rule 8008. That rule govern
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9025. Security: Proceedings Against Sureties ###
+### Rule 9025. Security: Proceedings Against Security Providers ###
 
-Whenever the Code or these rules require or permit the giving of security by a party, and security is given in the form of a bond or stipulation or other undertaking with one or more sureties, each surety submits to the jurisdiction of the court, and liability may be determined in an adversary proceeding governed by the rules in Part VII.
+Whenever the Code or these rules require or permit a party to give security, and security is given with one or more security providers, each provider submits to the jurisdiction of the court, and liability may be determined in an adversary proceeding governed by the rules in Part VII.
+
+(As amended Apr. 26, 2018, eff. Dec. 1, 2018)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 This rule is an adaptation of Rule 65.1 F.R.Civ.P. and applies to any surety on a bond given pursuant to §303(e) of the Code, Rules 2001, 2010, 5008, 7062, 7065, 8005, or any other rule authorizing the giving of such security.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+This rule is amended to reflect the amendment of Rule 62 F.R.Civ.P., which is made applicable to adversary proceedings by Rule 7062. Rule 62 allows a party to obtain a stay of a judgment "by providing a bond or other security." Limiting this rule's enforcement procedures to sureties might exclude use of those procedures against a security provider that is not a surety. All security providers are brought into the rule by these amendments.
 
 ### Rule 9026. Exceptions Unnecessary ###
 
@@ -9503,3 +9731,15 @@ Trial exhibits are subject to the redaction requirements of Rule 9037 to the ext
 ### **OFFICIAL FORMS** ###
 
 [The Official Forms prescribed pursuant to Rule 9009 may be found on the United States Courts website.]
+
+####  ####
+
+### APPENDIX ###
+
+[IMAGES IN PRINT VOLUME]	
+
+(As added Apr. 26, 2018, eff. Dec. 1, 2018.)
+
+#### Length Limits Stated in Part VIII of the Federal Rules of Bankruptcy Procedure ####
+
+Appendix: Length Limits Stated in Part VIII of the Federal Rules of Bankruptcy Procedure is set out in the order of the Supreme Court amending the Federal Rules of Bankruptcy Procedure, April 26, 2018, available at the Supreme Court website.

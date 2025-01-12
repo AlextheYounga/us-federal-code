@@ -495,13 +495,13 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to January 2, 2018)
+(As amended to December 1, 2018)
 
 #### Historical Note ####
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §12(c), Dec. 16, 2016, 130 Stat. 1948.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §12(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018.
 
 #### TITLE I. APPLICABILITY ####
 
@@ -3475,15 +3475,15 @@ In the case of victims who will testify concerning a public-authority claim, the
 
 (1) *Nongovernmental Corporate Party.* Any nongovernmental corporate party to a proceeding in a district court must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation.
 
-(2) *Organizational Victim.* If an organization is a victim of the alleged criminal activity, the government must file a statement identifying the victim. If the organizational victim is a corporation, the statement must also disclose the information required by Rule 12.4(a)(1) to the extent it can be obtained through due diligence.
+(2) *Organizational Victim.* Unless the government shows good cause, it must file a statement identifying any organizational victim of the alleged criminal activity. If the organizational victim is a corporation, the statement must also disclose the information required by Rule 12.4(a)(1) to the extent it can be obtained through due diligence.
 
-(b) Time for Filing; Supplemental Filing. A party must:
+(b) Time to File; Later Filing. A party must:
 
-(1) file the Rule 12.4(a) statement upon the defendant's initial appearance; and
+(1) file the Rule 12.4(a) statement within 28 days after the defendant's initial appearance; and
 
-(2) promptly file a supplemental statement upon any change in the information that the statement requires.
+(2) promptly file a later statement if any required information changes.
 
-(Added Apr. 29, 2002, eff. Dec. 1, 2002.)
+(Added Apr. 29, 2002, eff. Dec. 1, 2002; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Committee Notes on Rules—2002 ####
 
@@ -3502,6 +3502,14 @@ The rule does not cover disclosure of all financial information that could be re
 Rule 12.4(b)(1) indicates that the time for filing the disclosure statement is at the point when the defendant enters an initial appearance under Rule 5. Although there may be other instances where an earlier appearance of a party in a civil proceeding would raise concerns about whether the presiding judicial officer should be notified of a possible grounds for recusal, the Committee believed that in criminal cases, the most likely time for that to occur is at the initial appearance and that it was important to set a uniform triggering event for disclosures under this rule.
 
 Finally, Rule 12.4(b)(2) requires the parties to file supplemental statements with the court if there are any changes in the information required in the statement.
+
+#### Committee Notes on Rules—2018 Amendment ####
+
+*Subdivision (a).* Rule 12.4 requires the government to identify organizational victims to assist judges in complying with their obligations under the Code of Conduct for United States Judges. The 2009 amendments to Canon 3(C)(1)(c) of the Code require recusal only when a judge has an "interest that could be affected substantially by the outcome of the proceeding." In some cases, there are numerous organizational victims, but the impact of the crime on each is relatively small. In such cases, the amendment allows the government to show good cause to be relieved of making the disclosure statements because the organizations' interests could not be "affected substantially by the outcome of the proceeding."
+
+*Subdivision (b).* The amendment specifies that the time for making the disclosures is within 28 days after the initial appearance.
+
+Because a filing made after the 28-day period may disclose organizational victims in cases in which none were previously known or disclosed, the caption and text have been revised to refer to a later, rather than a supplemental, filing. The text was also revised to be more concise and to parallel Civil Rule 7.1(b)(2).
 
 ### Rule 13. Joint Trial of Separate Cases ###
 
@@ -8027,9 +8035,9 @@ Amendment of this rule by addition of subd. (c) by order of the United States Su
 
 (2) *Exception.* The court may not extend the time to take any action under Rule 35, except as stated in that rule.
 
-(c) Additional Time After Certain Kinds of Service. Whenever a party must or may act within a specified time after being served and service is made under Federal Rule of Civil Procedure 5(b)(2)(C) (mailing), (D) (leaving with the clerk), or (F) (other means consented to), 3 days are added after the period would otherwise expire under subdivision (a).
+(c) Additional Time After Certain Kinds of Service. Whenever a party must or may act within a specified time after being served and service is made under Rule 49(a)(4)(C), (D), and (E), 3 days are added after the period would otherwise expire under subdivision (a).
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -8165,9 +8173,9 @@ Eliminating Rule 5(b) subparagraph (2)(E) from the modes of service that allow 3
 
 Electronic service after business hours, or just before or during a weekend or holiday, may result in a practical reduction in the time available to respond. Extensions of time may be warranted to prevent prejudice.
 
-#### References in Text ####
+#### Committee Notes on Rules—2018 Amendment ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+Rule 49 previously required service and filing in a "manner provided" in the Civil Rules, and the time counting provisions in Criminal Rule 45(c) referred to certain means of service under Civil Rule 5. A contemporaneous amendment moves the instructions for filing and service in criminal cases from Civil Rule 5 into Criminal Rule 49. This amendment revises the cross references in Rule 45(c) to reflect this change.
 
 ### Rule 46. Release from Custody; Supervising Detention ###
 
@@ -8381,17 +8389,63 @@ The Committee considered the relationship between Rule 48(b) and the Speedy Tria
 
 ### Rule 49. Serving and Filing Papers ###
 
-(a) When Required. A party must serve on every other party any written motion (other than one to be heard ex parte), written notice, designation of the record on appeal, or similar paper.
+(a) Service on a Party.
 
-(b) How Made. Service must be made in the manner provided for a civil action. When these rules or a court order requires or permits service on a party represented by an attorney, service must be made on the attorney instead of the party, unless the court orders otherwise.
+(1) *What is Required.* Each of the following must be served on every party: any written motion (other than one to be heard ex parte), written notice, designation of the record on appeal, or similar paper.
 
-(c) Notice of a Court Order. When the court issues an order on any post-arraignment motion, the clerk must provide notice in a manner provided for in a civil action. Except as Federal Rule of Appellate Procedure 4(b) provides otherwise, the clerk's failure to give notice does not affect the time to appeal, or relieve—or authorize the court to relieve—a party's failure to appeal within the allowed time.
+(2) *Serving a Party's Attorney.* Unless the court orders otherwise, when these rules or a court order requires or permits service on a party represented by an attorney, service must be made on the attorney instead of the party.
 
-(d) Filing. A party must file with the court a copy of any paper the party is required to serve. A paper must be filed in a manner provided for in a civil action.
+(3) *Service by Electronic Means.*
 
-(e) Electronic Service and Filing. A court may, by local rule, allow papers to be filed, signed, or verified by electronic means that are consistent with any technical standards established by the Judicial Conference of the United States. A local rule may require electronic filing only if reasonable exceptions are allowed. A paper filed electronically in compliance with a local rule is written or in writing under these rules.
+(A) *Using the Court's Electronic-Filing System.* A party represented by an attorney may serve a paper on a registered user by filing it with the court's electronic-filing system. A party not represented by an attorney may do so only if allowed by court order or local rule. Service is complete upon filing, but is not effective if the serving party learns that it did not reach the person to be served.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(B) *Using Other Electronic Means.* A paper may be served by any other electronic means that the person consented to in writing. Service is complete upon transmission, but is not effective if the serving party learns that it did not reach the person to be served.
+
+(4) *Service by Nonelectronic Means.* A paper may be served by:
+
+(A) handing it to the person;
+
+(B) leaving it:
+
+(i) at the person's office with a clerk or other person in charge or, if no one is in charge, in a conspicuous place in the office; or
+
+(ii) if the person has no office or the office is closed, at the person's dwelling or usual place of abode with someone of suitable age and discretion who resides there;
+
+(C) mailing it to the person's last known address—in which event service is complete upon mailing;
+
+(D) leaving it with the court clerk if the person has no known address; or
+
+(E) delivering it by any other means that the person consented to in writing—in which event service is complete when the person making service delivers it to the agency designated to make delivery.
+
+(b) Filing.
+
+(1) *When Required; Certificate of Service.* Any paper that is required to be served must be filed no later than a reasonable time after service. No certificate of service is required when a paper is served by filing it with the court's electronic-filing system. When a paper is served by other means, a certificate of service must be filed with it or within a reasonable time after service or filing.
+
+(2) *Means of Filing.*
+
+(A) *Electronically.* A paper is filed electronically by filing it with the court's electronic-filing system. A filing made through a person's electronic-filing account and authorized by that person, together with the person's name on a signature block, constitutes the person's signature. A paper filed electronically is written or in writing under these rules.
+
+(B) *Nonelectronically.* A paper not filed electronically is filed by delivering it:
+
+(i) to the clerk; or
+
+(ii) to a judge who agrees to accept it for filing, and who must then note the filing date on the paper and promptly send it to the clerk.
+
+(3) *Means Used by Represented and Unrepresented Parties.*
+
+(A) *Represented Party.* A party represented by an attorney must file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
+
+(B) *Unrepresented Party.* A party not represented by an attorney must file nonelectronically, unless allowed to file electronically by court order or local rule.
+
+(4) *Signature.* Every written motion and other paper must be signed by at least one attorney of record in the attorney's name—or by a person filing a paper if the person is not represented by an attorney. The paper must state the signer's address, e-mail address, and telephone number. Unless a rule or statute specifically states otherwise, a pleading need not be verified or accompanied by an affidavit. The court must strike an unsigned paper unless the omission is promptly corrected after being called to the attorney's or person's attention.
+
+(5) *Acceptance by the Clerk.* The clerk must not refuse to file a paper solely because it is not in the form prescribed by these rules or by a local rule or practice.
+
+(c) Service and Filing by Nonparties. A nonparty may serve and file a paper only if doing so is required or permitted by law. A nonparty must serve every party as required by Rule 49(a), but may use the court's electronic-filing system only if allowed by court order or local rule.
+
+(d) Notice of a Court Order. When the court issues an order on any post-arraignment motion, the clerk must serve notice of the entry on each party as required by Rule 49(a). A party also may serve notice of the entry by the same means. Except as Federal Rule of Appellate Procedure 4(b) provides otherwise, the clerk's failure to give notice does not affect the time to appeal, or relieve—or authorize the court to relieve—a party's failure to appeal within the allowed time.
+
+(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -8445,9 +8499,57 @@ Rule 49(c) has been amended to reflect proposed changes in the Federal Rules of 
 
 *Changes Made to Proposed Amendment Released for Public Comment*. No changes were made in the rule as published.
 
+#### Committee Notes on Rules—2018 Amendment ####
+
+Rule 49 previously required service and filing in a "manner provided" in "a civil action." The amendments to Rule 49 move the instructions for filing and service from the Civil Rules into Rule 49. Placing instructions for filing and service in the criminal rule avoids the need to refer to two sets of rules, and permits independent development of those rules. Except where specifically noted, the amendments are intended to carry over the existing law on filing and service and to preserve parallelism with the Civil Rules.
+
+Additionally, the amendments eliminate the provision permitting electronic filing only when authorized by local rules, moving—with the Rules governing Appellate, Civil, and Bankruptcy proceedings—to a national rule that mandates electronic filing for parties represented by an attorney with certain exceptions. Electronic filing has matured. Most districts have adopted local rules that require electronic filing by represented parties, and allow reasonable exceptions as required by the former rule. The time has come to seize the advantages of electronic filing by making it mandatory in all districts for a party represented by an attorney, except that nonelectronic filing may be allowed by the court for good cause, or allowed or required by local rule.
+
+*Rule 49(a)(1).* The language from former Rule 49(a) is retained in new Rule 49(a)(1), except for one change. The new phrase, "Each of the following must be served on every party" restores to this part of the rule the passive construction that it had prior to restyling in 2002. That restyling revised the language to apply to parties only, inadvertently ending its application to nonparties who, on occasion, file motions in criminal cases. Additional guidance for nonparties appears in new subdivision (c).
+
+*Rule 49(a)(2).* The language from former Rule 49(b) concerning service on the attorney of a represented party is retained here, with the "unless" clause moved to the beginning for reasons of style only.
+
+*Rule 49(a)(3) and (4).* Subsections (a)(3) and (4) list the permissible means of service. These new provisions duplicate the description of permissible means from Civil Rule 5, carrying them into the criminal rule.
+
+By listing service by filing with the court's electronic-filing system first, in (3)(A), the rule now recognizes the advantages of electronic filing and service and its widespread use in criminal cases by represented defendants and government attorneys.
+
+But the e-filing system is designed for attorneys, and its use can pose many challenges for pro se parties. In the criminal context, the rules must ensure ready access to the courts by all pro se defendants and incarcerated individuals, filers who often lack reliable access to the internet or email. Although access to electronic-filing systems may expand with time, presently many districts do not allow e-filing by unrepresented defendants or prisoners. Accordingly, subsection (3)(A) provides that represented parties may serve registered users by filing with the court's electronic-filing system, but unrepresented parties may do so only if allowed by court order or local rule.
+
+Subparagraph (3)(B) permits service by "other electronic means," such as email, that the person served consented to in writing.
+
+Both subparagraphs (3)(A) and (B) include the direction from Civil Rule 5 that service is complete upon e-filing or transmission, but is not effective if the serving party learns that the person to be served did not receive the notice of e-filing or the paper transmitted by other electronic means. The language mirrors Civil Rule 5(b)(2)(E). But unlike Civil Rule 5, Criminal Rule 49 contains a separate provision for service by use of the court's electronic-filing system. The rule does not make the court responsible for notifying a person who filed the paper with the court's electronic-filing system that an attempted transmission by the court's system failed.
+
+Subsection (a)(4) lists a number of traditional, nonelectronic means of serving papers, identical to those provided in Civil Rule 5.
+
+*Rule 49(b)(1).* Filing rules in former Rule 49 appeared in subdivision (d), which provided that a party must file a copy of any paper the party is required to serve, and required filing in a manner provided in a civil action. These requirements now appear in subdivision (b).
+
+The language requiring filing of papers that must be served is retained from former subdivision (d), but has been moved to subsection (1) of subdivision (b), and revised to restore the passive phrasing prior to the restyling in 2002. That restyling departed from the phrasing in Civil Rule 5(d)(1) and inadvertently limited this requirement to filing by parties.
+
+The language in former subdivision (d) that required filing "in a manner provided for in a civil action" has been replaced in new subsection (b)(1) by language drawn from Civil Rule 5(d)(1). That provision used to state "Any paper . . . that is required to be served—together with a certificate of service—must be filed within a reasonable time after service." A contemporaneous amendment to Civil Rule 5(d)(1) has subdivided this provision into two parts, one of which addresses the Certificate of Service. Although the Criminal Rules version is not subdivided in the same way, it parallels the Civil Rules provision from which it was drawn. Because "within" might be read as barring filing before the paper is served, "no later than" is substituted to ensure that it is proper to file a paper before it is served.
+
+The second sentence of subsection (b)(1), which states that no certificate of service is required when service is made using the court's electronic-filing system, mirrors the contemporaneous amendment to Civil Rule 5. When service is not made by filing with the court's electronic-filing system, a certificate of service must be filed.
+
+*Rule 49(b)(2).* New subsection (b)(2) lists the three ways papers can be filed. (A) provides for electronic filing using the court's electronic-filing system and includes a provision, drawn from the Civil Rule, stating that a filing made through a person's electronic-filing account and authorized by that person, together with the person's name on a signature block, constitutes the person's signature. The last sentence of subsection (b)(2)(A) contains the language of former Rule 49(e), providing that e-filed papers are "written or in writing," deleting the words "in compliance with a local rule" as no longer necessary.
+
+Subsection (b)(2)(B) carries over from the Civil Rule two nonelectronic methods of filing a paper: delivery to the court clerk and delivery to a judge who agrees to accept it for filing.
+
+*Rule 49(b)(3).* New subsection (b)(3) provides instructions for parties regarding the means of filing to be used, depending upon whether the party is represented by an attorney. Subsection (b)(3)(A) requires represented parties to use the court's electronic-filing system, but provides that nonelectronic filing may be allowed for good cause, and may be required or allowed for other reasons by local rule. This language is identical to that adopted in the contemporaneous amendment to Civil Rule 5.
+
+Subsection (b)(3)(B) requires unrepresented parties to file nonelectronically, unless allowed to file electronically by court order or local rule. This language differs from that of the amended Civil Rule, which provides that an unrepresented party may be "required" to file electronically by a court order or local rule that allows reasonable exceptions. A different approach to electronic filing by unrepresented parties is needed in criminal cases, where electronic filing by pro se prisoners presents significant challenges. Pro se parties filing papers under the criminal rules generally lack the means to e-file or receive electronic confirmations, yet must be provided access to the courts under the Constitution.
+
+*Rule 49(b)(4).* This new language requiring a signature and additional information was drawn from Civil Rule 11(a). The language has been restyled (with no intent to change the meaning) and the word "party" changed to "person" in order to accommodate filings by nonparties.
+
+*Rule 49(b)(5).* This new language prohibiting a clerk from refusing a filing for improper form was drawn from Civil Rule 5(d)(4).
+
+*Rule 49(c).* This provision is new. It recognizes that in limited circumstances nonparties may file motions in criminal cases. Examples include representatives of the media challenging the closure of proceedings, material witnesses requesting to be deposed under Rule 15, or victims asserting rights under Rule 60. Subdivision (c) permits nonparties to file a paper in a criminal case, but only when required or permitted by law to do so. It also requires nonparties who file to serve every party and to use means authorized by subdivision (a).
+
+The rule provides that nonparties, like unrepresented parties, may use the court's electronic-filing system only when permitted to do so by court order or local rule.
+
+*Rule 49(d).* This provision carries over the language formerly in Rule 49(c) with one change. The former language requiring that notice be provided "in a manner provided for in a civil action" has been replaced by a requirement that notice be served as required by Rule 49(a). This parallels Civil Rule 77(d)(1), which requires that the clerk give notice as provided in Civil Rule 5(b).
+
 #### References in Text ####
 
-The Federal Rules of Appellate Procedure, referred to in subd. (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Appellate Procedure, referred to in subd. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 49.1. Privacy Protection For Filings Made with the Court ###
 

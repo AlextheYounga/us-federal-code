@@ -16,7 +16,7 @@ The Secretary shall designate an officer responsible for the accreditation and c
 
 (ii) the responsibilities of the Administrator as the principal advisor to the President for all matters relating to emergency management in the United States.
 
-(B) The Assistant Secretary for Infrastructure Protection, based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
+(B) The Assistant Secretary for Infrastructure Protection,<sup><a href="#321m_1_target" name="321m_1">1</a></sup> based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
 
 (i) protection of critical infrastructure;
 
@@ -200,6 +200,12 @@ Nothing in this section may be construed as—
 
 (Pub. L. 107–296, title V, §524, as added Pub. L. 110–53, title IX, §901(a), Aug. 3, 2007, 121 Stat. 365.)
 
+#### Change of Name ####
+
+Reference to Assistant Secretary for Infrastructure Protection deemed to be a reference to Assistant Director for Infrastructure Security, see section 654(a)(3) of this title. Assistant Secretary for Infrastructure Protection serving on the day before Nov. 16, 2018, authorized to continue to serve as Assistant Director for Infrastructure Security on and after such date, see section 2(b)(4) of Pub. L. 115–278, set out as a note under section 654 of this title.
+
 #### Deadline for Designation of Officer ####
 
 Pub. L. 110–53, title IX, §901(c), Aug. 3, 2007, 121 Stat. 371, provided that: "The Secretary of Homeland Security shall designate the officer as described in section 524 of the Homeland Security Act of 2002 [6 U.S.C. 321m], as added by subsection (a), by not later than 30 days after the date of the enactment of this Act [Aug. 3, 2007]."
+
+[<sup>1</sup> See Change of Name note below.](#321m_1)
