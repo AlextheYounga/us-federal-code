@@ -114,7 +114,7 @@ increased by the applicable percentage increase under subparagraph (B) for that 
 
 (III) for fiscal year 1988, 3.0 percent for hospitals located in a rural area, 1.5 percent for hospitals located in a large urban area (as defined in subsection (d)(2)(D)), and 1.0 percent for hospitals located in other urban areas,
 
-(IV) for fiscal year 1989, the market basket percentage increase minus 1.5 percent for hospitals located in a rural area, the market basket percentage increase minus 2.0 percentage points for hospitals located in a large urban area, and the market basket percentage increase minus 2.5 percentage points for hospitals located in other urban areas,
+(IV) for fiscal year 1989, the market basket percentage increase minus 1.5 percentage points for hospitals located in a rural area, the market basket percentage increase minus 2.0 percentage points for hospitals located in a large urban area, and the market basket percentage increase minus 2.5 percentage points for hospitals located in other urban areas,
 
 (V) for fiscal year 1990, the market basket percentage increase plus 4.22 percentage points for hospitals located in a rural area, the market basket percentage increase plus 0.12 percentage points for hospitals located in a large urban area, and the market basket percentage increase minus 0.53 percentage points for hospitals located in other urban areas,
 
@@ -634,7 +634,7 @@ For purposes of this subsection, the term "region" means one of the nine census 
 
 (C) Maintaining budget neutrality for fiscal year 1985.—(i) For discharges occurring in fiscal year 1985, the Secretary shall adjust each of such average standardized amounts as may be required under subsection (e)(1)(B) for that fiscal year.
 
-(ii) For discharges occurring after September 30, 1986, the Secretary shall further reduce each of the average standardized amounts (in a proportion which takes into account the differing effects of the standardization effected under paragraph (2)(C)(i)) so as to provide for a reduction in the total of the payments (attributable to this paragraph) made for discharges occurring on or after October 1, 1986, of an amount equal to the estimated reduction in the payment amounts under paragraph (5)(B) that would have resulted from the enactment of the amendments made by section 9104 of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 and by section 4003(a)(1) of the Omnibus Budget Reconciliation Act of 1987 if the factor described in clause (ii)(II) of paragraph (5)(B) (determined without regard to amendments made by the Omnibus Budget Reconciliation Act of 1990) were applied for discharges occurring on or after such date instead of the factor described in clause (ii) of that paragraph.
+(ii) Reducing for savings from amendment to indirect teaching adjustment for discharges after september 30, 1986.—For discharges occurring after September 30, 1986, the Secretary shall further reduce each of the average standardized amounts (in a proportion which takes into account the differing effects of the standardization effected under paragraph (2)(C)(i)) so as to provide for a reduction in the total of the payments (attributable to this paragraph) made for discharges occurring on or after October 1, 1986, of an amount equal to the estimated reduction in the payment amounts under paragraph (5)(B) that would have resulted from the enactment of the amendments made by section 9104 of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 and by section 4003(a)(1) of the Omnibus Budget Reconciliation Act of 1987 if the factor described in clause (ii)(II) of paragraph (5)(B) (determined without regard to amendments made by the Omnibus Budget Reconciliation Act of 1990) were applied for discharges occurring on or after such date instead of the factor described in clause (ii) of that paragraph.
 
 (D) Computing drg-specific rates for hospitals.—For each discharge classified within a diagnosis-related group, the Secretary shall establish for the fiscal year a national DRG prospective payment rate and shall establish, for fiscal years before fiscal year 1997, a regional DRG prospective payment rate for each region which is equal—
 
@@ -2036,7 +2036,7 @@ the Secretary shall apply subparagraph (A)(i)(I) using the higher resident refer
 
 #### (E) Judicial review ####
 
-There shall be no administrative or judicial review under section 1395ff, 1395oo of this title, or otherwise, with respect to determinations made under this this <sup><a href="#1395ww_14_target" name="1395ww_14">14</a></sup> paragraph, paragraph (8), or paragraph (4)(H)(vi).
+There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise, with respect to determinations made under this this <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> paragraph, paragraph (8), or paragraph (4)(H)(vi).
 
 #### (8) Distribution of additional residency positions ####
 
@@ -2096,7 +2096,7 @@ In determining for which hospitals the increase in the otherwise applicable resi
 
 (ii) Whether the hospital is located in a State, a territory of the United States, or the District of Columbia that is among the top 10 States, territories, or Districts in terms of the ratio of—
 
-(I) the total population of the State, territory, or District living in an area designated (under such section 332(a)(1)(A) <sup><a href="#1395ww_4_target" name="1395ww_4">4</a></sup>) as a health professional shortage area (as of the date of enactment of this paragraph); to
+(I) the total population of the State, territory, or District living in an area designated (under such section 332(a)(1)(A) <sup><a href="#1395ww_4_target" name="1395ww_4">4</a></sup>) as a health professional shortage area (as of March 23, 2010); to
 
 (II) the total population of the State, territory, or District (as determined by the Secretary based on the most recent available population data published by the Bureau of the Census).
 
@@ -2372,7 +2372,7 @@ For cost reporting periods beginning on or after October 1, 1997, the Secretary 
 
 For purposes of this subsection, the term "qualified nonhospital providers" means—
 
-(A) a Federally <sup><a href="#1395ww_15_target" name="1395ww_15">15</a></sup> qualified health center, as defined in section 1395x(aa)(4) of this title;
+(A) a Federally <sup><a href="#1395ww_14_target" name="1395ww_14">14</a></sup> qualified health center, as defined in section 1395x(aa)(4) of this title;
 
 (B) a rural health clinic, as defined in section 1395x(aa)(2) of this title;
 
@@ -2848,7 +2848,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 (ii) the methodology and standards for determining a meaningful EHR user under paragraph (3), including selection of measures under paragraph (3)(B), specification of the means of demonstrating meaningful EHR use under paragraph (3)(C), and the hardship exception under subsection (b)(3)(B)(ix)(II); and
 
-(iii) the specification of EHR reporting periods under paragraph (6)(B) <sup><a href="#1395ww_16_target" name="1395ww_16">16</a></sup> and the selection of the form of payment under paragraph (2)(F).
+(iii) the specification of EHR reporting periods under paragraph (6)(B) <sup><a href="#1395ww_15_target" name="1395ww_15">15</a></sup> and the selection of the form of payment under paragraph (2)(F).
 
 #### (B) Posting on website ####
 
@@ -2856,7 +2856,7 @@ The Secretary shall post on the Internet website of the Centers for Medicare & M
 
 #### (5) Certified EHR technology defined ####
 
-The term "certified EHR technology" has the meaning given such term in section 1395w–4(o)(4) this title.
+The term "certified EHR technology" has the meaning given such term in section 1395w–4(o)(4) of this title.
 
 #### (6) Definitions ####
 
@@ -3172,7 +3172,7 @@ The Secretary shall promulgate regulations to carry out the Program, including t
 
 #### (1) In general ####
 
-In order to provide an incentive for applicable hospitals to reduce hospital acquired conditions under this subchapter, with respect to discharges from an applicable hospital occurring during fiscal year 2015 or a subsequent fiscal year, the amount of payment under this section or section 1395f(b)(3) of this title, as applicable, for such discharges during the fiscal year shall be equal to 99 percent of the amount of payment that would otherwise apply to such discharges under this section or section 1395f(b)(3) of this title (determined after the application of subsections (o) and (q) and section 1395f(l)(4) but without regard to this subsection).
+In order to provide an incentive for applicable hospitals to reduce hospital acquired conditions under this subchapter, with respect to discharges from an applicable hospital occurring during fiscal year 2015 or a subsequent fiscal year, the amount of payment under this section or section 1395f(b)(3) of this title, as applicable, for such discharges during the fiscal year shall be equal to 99 percent of the amount of payment that would otherwise apply to such discharges under this section or section 1395f(b)(3) of this title (determined after the application of subsections (o) and (q) and section 1395f(l)(4) of this title but without regard to this subsection).
 
 #### (2) Applicable hospitals ####
 
@@ -3682,7 +3682,7 @@ Subsec. (d)(12)(D). Pub. L. 115–123, §50204(a)(3), substituted "through 2022"
 
 "(i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer"
 
-for "hospitals with 200 or fewer", "fiscal year or portion of fiscal year; and" for "fiscal year.", and added subcl. (ii).
+for "hospitals with 200 or fewer", and "fiscal year or portion of fiscal year; and" for "fiscal year.", and added subcl. (ii).
 
 Subsec. (m)(6)(B)(i)(I). Pub. L. 115–123, §51005(a)(1), substituted "fiscal years 2016 through 2019" for "fiscal year 2016 or fiscal year 2017".
 
@@ -7700,6 +7700,6 @@ Pub. L. 97–248, title I, §101(b)(2)(B), Sept. 3, 1982, 96 Stat. 335, as amend
 
 [<sup>13</sup> So in original. The comma probably should be a semicolon.](#1395ww_13)
 
-[<sup>15</sup> So in original. Probably should not be capitalized.](#1395ww_15)
+[<sup>14</sup> So in original. Probably should not be capitalized.](#1395ww_14)
 
-[<sup>16</sup> So in original. Probably should be "(6)(A)".](#1395ww_16)
+[<sup>15</sup> So in original. Probably should be "(6)(A)".](#1395ww_15)

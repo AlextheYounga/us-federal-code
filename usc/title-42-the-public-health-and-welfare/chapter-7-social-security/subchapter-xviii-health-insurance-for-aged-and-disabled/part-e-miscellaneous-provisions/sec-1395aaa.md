@@ -88,7 +88,7 @@ By not later than March 1 of each year (beginning with 2009), the entity shall s
 
 (I) specifically identifying any modifications to the disclosure of interests and conflicts of interests for committees, work groups, task forces, and advisory panels of the entity; and
 
-(II) information on external stakeholder participation in the duties of the entity under this section (including complete rosters for all committees, work groups, task forces, and advisory panels funded through government contracts, descriptions of relevant interests and any conflicts of interest for members of all committees, work groups, task forces, and advisory panels, and the total percentage by health care sector of all convened committees, work groups, task forces, and advisory panels.
+(II) information on external stakeholder participation in the duties of the entity under this section (including complete rosters for all committees, work groups, task forces, and advisory panels funded through government contracts, descriptions of relevant interests and any conflicts of interest for members of all committees, work groups, task forces, and advisory panels, and the total percentage by health care sector of all convened committees, work groups, task forces, and advisory panels.<sup><a href="#1395aaa_2_target" name="1395aaa_2">2</a></sup>
 
 #### (B) Secretarial review and publication of annual report ####
 
@@ -122,7 +122,7 @@ The entity shall convene multi-stakeholder groups to provide input on—
 
 Subject to clause (ii), the quality and efficiency measures described in this subparagraph are quality and efficiency measures—
 
-(I) for use pursuant to sections 1395f(i)(5)(D), 1395l(i)(7), 1395l(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii),<sup><a href="#1395aaa_2_target" name="1395aaa_2">2</a></sup> 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(o)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
+(I) for use pursuant to sections 1395f(i)(5)(D), 1395l(i)(7), 1395l(t)(17), 1395w–4(k)(2)(C), 1395cc(k)(3), 1395rr(h)(2)(A)(iii),<sup><a href="#1395aaa_3_target" name="1395aaa_3">3</a></sup> 1395ww(b)(3)(B)(viii), 1395ww(j)(7)(D), 1395ww(m)(5)(D), 1395ww(o)(2), 1395ww(s)(4)(D), and 1395fff(b)(3)(B)(v) of this title;
 
 (II) for use in reporting performance information to the public; and
 
@@ -276,4 +276,6 @@ Pub. L. 115–123, div. E, title II, §50206(c)(2), Feb. 9, 2018, 132 Stat. 185,
 
 [<sup>1</sup> See Amendment of Subsection (b)(5)(A) note below.](#1395aaa_1)
 
-[<sup>2</sup> See References in Text note below.](#1395aaa_2)
+[<sup>2</sup> So in original. Probably should be "panels)."](#1395aaa_2)
+
+[<sup>3</sup> See References in Text note below.](#1395aaa_3)

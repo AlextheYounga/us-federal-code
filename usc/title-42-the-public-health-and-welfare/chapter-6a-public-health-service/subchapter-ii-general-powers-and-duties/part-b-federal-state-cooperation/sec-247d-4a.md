@@ -8,7 +8,7 @@ There is established in the Treasury a reserve fund to be known as the "Infectio
 
 CDC and NIH, referred to in text, mean the Centers for Disease Control and Prevention and the National Institutes of Health, respectively.
 
-The PHS Act, referred to in text, means the Public Health Service Act, act July 1, 1944, ch. 373, 58 Stat. 682. Titles II, III, and XVII of the Act are classified generally to subchapters I (§201 et seq.), II (§241 et seq.), and XV (§300u et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The PHS Act, referred to in text, means the Public Health Service Act, act July 1, 1944, ch. 373, 58 Stat. 682. Titles II, III, and XVII of the Act are classified generally to subchapters I (§201 et seq.), II (§241 et seq.), and XV (§300u et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification ####
 

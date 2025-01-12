@@ -594,7 +594,7 @@ Subsec. (h). Pub. L. 113–93, §215(b), added subsec. (h).
 
 Subsec. (f). Pub. L. 111–148, §6104, added subsec. (f).
 
-**2008**—Subsec. (e)(2)(A)(ii). Pub. L. 110–275 inserted "telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title," after "section 1395x(s)(2)(K) of this title,".
+**2008**—Subsec. (e)(2)(A)(ii). Pub. L. 110–275 inserted "telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title," after "section 1395x(s)(2) of this title,".
 
 **2003**—Subsec. (e)(2)(A)(i)(II). Pub. L. 108–173, §410(a)(1), substituted "clauses (ii), (iii), and (iv)" for "clauses (ii) and (iii)".
 

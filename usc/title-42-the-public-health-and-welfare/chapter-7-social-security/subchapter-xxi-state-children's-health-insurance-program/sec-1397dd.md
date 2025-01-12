@@ -782,11 +782,11 @@ The first half ratio described in this subparagraph is the ratio of—
 
 (II) the amount of the appropriation for such period under section 108 of the Children's Health Insurance Program Reauthorization Act of 2009; to
 
-(ii) the sum of the—
+(ii) the sum of the <sup><a href="#1397dd_3_target" name="1397dd_3">3</a></sup> —
 
 (I) amount described in clause (i); and
 
-(II) the amount made available under subsection (a)(18)(B).
+(II) the <sup><a href="#1397dd_3_target" name="1397dd_3">3</a></sup> amount made available under subsection (a)(18)(B).
 
 #### (4) For fiscal year 2017 ####
 
