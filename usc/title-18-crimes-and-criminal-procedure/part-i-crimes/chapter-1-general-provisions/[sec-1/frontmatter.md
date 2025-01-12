@@ -6,6 +6,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2019 Amendment ####
+
+Pub. L. 116–31, §1, July 25, 2019, 133 Stat. 1034, provided that: "This Act [amending section 175b of this title] may be cited as the 'Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019'."
+
 #### Short Title of 2018 Amendment ####
 
 Pub. L. 115–395, §1, Dec. 21, 2018, 132 Stat. 5287, provided that: "This Act [amending sections 2258A to 2258E of this title] may be cited as the 'CyberTipline Modernization Act of 2018'."

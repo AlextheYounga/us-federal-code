@@ -72,9 +72,9 @@ The term "State" has the meaning given such term in section 2277a of this title.
 
 #### References in Text ####
 
-The Consolidated Farm and Rural Development Act, referred to in par. (9)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in par. (7)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Rural Electrification Act of 1936, referred to in par. (9)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in par. (7)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 #### Codification ####
 

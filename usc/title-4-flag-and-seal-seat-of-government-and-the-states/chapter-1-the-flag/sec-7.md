@@ -34,7 +34,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 (3) the term "Member of Congress" means a Senator, a Representative, a Delegate, or the Resident Commissioner from Puerto Rico; and
 
-(4) the term "first responder" means a "public safety officer" as defined in section 10284 of title 34.
+(4) the term "first responder" means a "public safety officer" as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284).
 
 (n) When the flag is used to cover a casket, it should be so placed that the union is at the head and over the left shoulder. The flag should not be lowered into the grave or allowed to touch the ground.
 
@@ -48,7 +48,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 #### Amendments ####
 
-**2018**—Subsec. (m). Pub. L. 115–123, §10102(a), in sixth sentence of introductory provisions, substituted "possession of the United States," for "possession of the United States or" and "former officials of the District of Columbia," for "former officials of the District of Columbia and", and inserted "or the death of a first responder working in any State, territory, or possession who dies while serving in the line of duty," after "while serving on active duty," and ", and first responders working in the District of Columbia" before the period.
+**2018**—Subsec. (m). Pub. L. 115–123, §10102(a), in sixth sentence of introductory provisions, substituted "possession of the United States," for "possession of the United States or" and "former officials of the District of Columbia," for "former officials of the District of Columbia and" and inserted "or the death of a first responder working in any State, territory, or possession who dies while serving in the line of duty," after "while serving on active duty," and ", and first responders working in the District of Columbia" before the period.
 
 Subsec. (m)(2). Pub. L. 115–123, §10102(b)(1), substituted a semicolon for ", United States Code; and".
 

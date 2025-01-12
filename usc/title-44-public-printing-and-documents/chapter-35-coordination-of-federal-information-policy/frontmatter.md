@@ -24,7 +24,7 @@ Sec.
 
 3510. Cooperation of agencies in making information available.
 
-3511. Establishment and operation of Government Information Locator Service.
+3511. Data inventory and Federal data catalogue.
 
 3512. Public protection.
 
@@ -42,9 +42,7 @@ Sec.
 
 3519. Access to information.
 
-3520. Establishment of task force on information collection and dissemination.
-
-3520A. Chief Data Officer Council.
+3520. Chief Data Officers.
 
 3521. Authorization of appropriations.
 
@@ -107,10 +105,6 @@ Sec.
 3582. Expanding secure access to CIPSEA data assets.
 
 3583. Application to access data assets for developing evidence.
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–435, title II, §202(d)(2)(A), (e)(2), title IV, §403, Jan. 14, 2019, 132 Stat. 5541, 5542, 5557, provided that, effective 180 days after Jan. 14, 2019, this analysis is amended by amending item 3511 to read "Data inventory and Federal data catalogue" and by amending item 3520 to read "Chief Data Officers". See 2019 Amendment note below.
 
 #### Codification ####
 

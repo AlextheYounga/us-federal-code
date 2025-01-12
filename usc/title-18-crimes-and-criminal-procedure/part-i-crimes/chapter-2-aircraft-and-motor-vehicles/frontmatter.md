@@ -30,7 +30,7 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–254, div. B, title III, §§382(b), 384(b), Oct. 5, 2018, 132 Stat. 3320, 3322, added items 39B and 40A.
+**2018**—Pub. L. 115–254, div. B, title III, §§382(b), 384(b), Oct. 5, 2018, 132 Stat. 3320, 3323, added items 39B and 40A.
 
 **2012**—Pub. L. 112–95, title III, §311(b), Feb. 14, 2012, 126 Stat. 66, transferred item 39 to appear after item 38 and added item 39A.
 

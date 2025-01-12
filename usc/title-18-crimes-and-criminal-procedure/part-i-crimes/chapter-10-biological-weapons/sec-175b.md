@@ -1,8 +1,20 @@
 ### §175b. Possession by restricted persons ###
 
-(a)(1) No restricted person shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations.
+(a) Offense.—
 
-(2) Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
+(1) In general.—It shall be unlawful for a restricted person to—
+
+(A) ship, transport, or possess in or affecting interstate or foreign commerce any biological agent or toxin described in paragraph (2); or
+
+(B) receive any biological agent or toxin described in paragraph (2) that has been shipped or transported in interstate or foreign commerce.
+
+(2) Agents and toxins covered.—A biological agent or toxin described in this paragraph is a biological agent or toxin that—
+
+(A) is listed as a non-overlap or overlap select biological agent or toxin under part 73 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act (42 U.S.C. 262a); and
+
+(B) is not excluded or exempted under part 73 of title 42, Code of Federal Regulations.
+
+(3) Penalty.—Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
 
 (b) Transfer to Unregistered Person.—
 
@@ -16,7 +28,7 @@
 
 (2) Certain other biological agents and toxins.—Whoever knowingly possesses a biological agent or toxin where such agent or toxin is a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 for which such person has not obtained a registration required by regulations under section 212(c) of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
 
-(d) In this section:
+(d) Definitions.—In this section:
 
 (1) The term "select agent" means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include any such biological agent or toxin that is in its naturally-occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
 
@@ -44,17 +56,21 @@
 
 (4) The term "lawfully admitted for permanent residence" has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
-(Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767.)
+(Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767; Pub. L. 116–31, §2, July 25, 2019, 133 Stat. 1034.)
 
 #### References in Text ####
 
-Section 351A of the Public Health Service Act, referred to in subsecs. (a)(1), (b)(1), and (c)(1), is classified to section 262a of Title 42, The Public Health and Welfare.
+Section 351A of the Public Health Service Act, referred to in subsecs. (b)(1) and (c)(1), is classified to section 262a of Title 42, The Public Health and Welfare.
 
 Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to in subsecs. (b)(2) and (c)(2), is classified to section 8401 of Title 7, Agriculture.
 
 Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d)(2)(G)(i), was classified to section 2405(j) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of Title 50, see section 4813(c) of Title 50, as enacted by Pub. L. 115–232.
 
 #### Amendments ####
+
+**2019**—Subsec. (a). Pub. L. 116–31, §2(1), inserted subsec. heading, added pars. (1) and (2), redesignated former par. (2) as (3), inserted par. heading and realigned margin, and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
+
+Subsec. (d). Pub. L. 116–31, §2(2), inserted heading.
 
 **2004**—Subsec. (a)(1). Pub. L. 108–458, §6802(d)(1), substituted "as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations" for "as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations".
 
