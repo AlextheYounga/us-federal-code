@@ -52,7 +52,7 @@ Only a major league baseball player has standing to sue under this section. For 
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
-Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, as amended, which is classified generally to chapter 32 (§1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, which is classified generally to chapter 32 (§1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification ####
 

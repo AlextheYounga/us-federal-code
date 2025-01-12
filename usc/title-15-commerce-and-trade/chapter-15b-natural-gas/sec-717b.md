@@ -76,9 +76,9 @@ Except as specifically provided in this chapter, nothing in this chapter affects
 
 #### References in Text ####
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
-The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 

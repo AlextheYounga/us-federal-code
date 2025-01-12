@@ -22,7 +22,7 @@ Sec.
 
 1862h. Congressional statement of findings and declaration of purposes respecting scientific and technical education and training.
 
-1862i. Scientific and technical education.
+1862i. STEM education.
 
 1862j. Authorization of appropriations.
 

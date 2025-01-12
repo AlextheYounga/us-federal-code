@@ -64,7 +64,7 @@ For purposes of this subchapter, any textile fiber product shall be misbranded i
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (k), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, as amended, which is classified generally to subchapter IV (§69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 69 of this title and Tables.
+The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, which is classified generally to subchapter IV (§69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 69 of this title and Tables.
 
 #### Amendments ####
 

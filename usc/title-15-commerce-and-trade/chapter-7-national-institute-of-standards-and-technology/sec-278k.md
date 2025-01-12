@@ -30,15 +30,35 @@ The term "community college" means an institution of higher education (as define
 
 #### (5) Eligible entity ####
 
-The term "eligible entity" means a United States-based nonprofit institution, or consortium thereof, an institution of higher education, or a State, United States territory, local, or tribal government.
+The term "eligible entity" means a United States-based nonprofit institution, an institution of higher education, or a State, United States territory, local, or tribal government or a consortium thereof.
 
-#### (6) Hollings Manufacturing Extension Partnership or Program ####
+#### (6) Historically Black college and university ####
+
+The term "historically Black college and university" has the meaning given the term "part B institution" in section 1061 of title 20.
+
+#### (7) <sup><a href="#278k_1_target" name="278k_1">1</a></sup> Institution of higher education ####
+
+The term "institution of higher education" has the meaning given such term in section 1001 of title 20.
+
+#### (7) <sup><a href="#278k_1_target" name="278k_1">1</a></sup> Hollings Manufacturing Extension Partnership or Program ####
 
 The term "Hollings Manufacturing Extension Partnership" or "Program" means the program established under subsection (b).
 
-#### (7) MEP advisory board ####
+#### (8) MEP Advisory Board ####
 
-The term "MEP Advisory Board" means the Manufacturing Extension Partnership Advisory Board established under subsection (n).<sup><a href="#278k_1_target" name="278k_1">1</a></sup>
+The term "MEP Advisory Board" means the Manufacturing Extension Partnership Advisory Board established under subsection (n).<sup><a href="#278k_2_target" name="278k_2">2</a></sup>
+
+#### (9) Minority-serving institution ####
+
+The term "minority-serving institution" means a Hispanic-serving institution as defined in section 1101a(a) of title 20; an Alaska Native-serving institution or Native Hawaiian-serving institution as defined in section 1059d(b) of title 20; or a Predominantly Black institution, Asian American and Native American Pacific Islander-serving institution, or Native American-serving nontribal institution as defined in section 1067q(c) of title 20.
+
+#### (10) Secondary school ####
+
+The term "secondary school" has the meaning given such term in section 7801 of title 20.
+
+#### (11) Tribal College or University ####
+
+The term "Tribal College or University" has the meaning given the term "Tribal College or University" in section 1059c of title 20.
 
 #### (b) Establishment and purpose ####
 
@@ -54,13 +74,13 @@ The objective of the Program shall be to enhance competitiveness, productivity, 
 
 (3) efforts to make new manufacturing technology and processes usable by United States-based small and medium-sized companies;
 
-(4) the active dissemination of scientific, engineering, technical, and management information about manufacturing to industrial firms, including small and medium-sized manufacturing companies;
+(4) the active dissemination of scientific, engineering, technical, and management information about manufacturing to United States-based industrial firms, including small and medium-sized manufacturing companies;
 
 (5) the utilization, when appropriate, of the expertise and capability that exists in Federal agencies, other than the Institute, and federally-sponsored laboratories;
 
-(6) the provision to community colleges and area career and technical education schools of information about the job skills needed in manufacturing companies, including small and medium-sized manufacturing businesses in the regions they serve;
+(6) the provision to secondary schools, community colleges, and area career and technical education schools, including those in underserved and rural communities, of information about the job skills needed in manufacturing companies, including small and medium-sized manufacturing businesses in the regions they serve;
 
-(7) the promotion and expansion of certification systems offered through industry, associations, and local colleges when appropriate, including efforts such as facilitating training, supporting new or existing apprenticeships, and providing access to information and experts, to address workforce needs and skills gaps in order to assist small- and medium-sized manufacturing businesses; and
+(7) the promotion and expansion of certification systems offered through industry, associations, local secondary schools and local colleges, including historically Black colleges and universities, Tribal Colleges or Universities, minority-serving institutions, community colleges, and secondary schools and colleges in underserved and rural communities, when appropriate, including efforts such as facilitating training, supporting new or existing apprenticeships or other applied learning opportunities, and providing access to information and experts, to address workforce needs and skills gaps in order to assist small- and medium-sized manufacturing businesses; and
 
 (8) the growth in employment and wages at United States-based small and medium-sized companies.
 
@@ -68,11 +88,11 @@ The objective of the Program shall be to enhance competitiveness, productivity, 
 
 The activities of a Center shall include—
 
-(1) the establishment of automated manufacturing systems and other advanced production technologies, based on Institute-supported research, for the purpose of demonstrations and technology transfer;
+(1) the establishment of automated manufacturing systems and other advanced production technologies, at United States-based industrial facilities, including small and medium manufacturing companies based on Institute-supported research, for the purpose of demonstrations and technology transfer;
 
-(2) the active transfer and dissemination of research findings and Center expertise to a wide range of companies and enterprises, particularly small and medium-sized manufacturers; and
+(2) the active transfer and dissemination of research findings and Center expertise to a wide range of United States-based companies and enterprises, particularly small and medium-sized manufacturers; and
 
-(3) the facilitation of collaborations and partnerships between small and medium-sized manufacturing companies, community colleges, and area career and technical education schools, to help those entities better understand the specific needs of manufacturers and to help manufacturers better understand the skill sets that students learn in the programs offered by such colleges and schools.
+(3) the facilitation of collaborations and partnerships between United States-based small and medium-sized manufacturing companies and local high schools, community colleges, and area career and technical education schools, including those in underserved and rural communities, to help those entities better understand the specific needs of manufacturers and to help manufacturers better understand the skill sets that students learn in the programs offered by such colleges and schools.
 
 #### (e) Financial assistance ####
 
@@ -108,9 +128,9 @@ The Secretary shall establish and update, as necessary—
 
 (C) performance metrics;
 
-(D) criteria for determining qualified applicants; and <sup><a href="#278k_2_target" name="278k_2">2</a></sup>
+(D) criteria for determining qualified applicants; and <sup><a href="#278k_3_target" name="278k_3">3</a></sup>
 
-(E) criteria for choosing recipients of financial assistance from among the qualified applicants.<sup><a href="#278k_2_target" name="278k_2">2</a></sup>
+(E) criteria for choosing recipients of financial assistance from among the qualified applicants.<sup><a href="#278k_3_target" name="278k_3">3</a></sup>
 
 (F) procedures for determining allowable cost share contributions; and
 
@@ -146,7 +166,7 @@ The Secretary shall subject each application to merit review.
 
 In making a decision whether to approve an application and provide financial assistance under subsection (e), the Secretary shall consider, at a minimum—
 
-(i) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors;
+(i) the merits of the application, particularly those portions of the application regarding technology transfer, training and education, and adaptation of manufacturing technologies to the needs of particular industrial sectors in the United States;
 
 (ii) the quality of service to be provided;
 
@@ -318,7 +338,19 @@ Bylaws adopted under subparagraph (A) shall include policies to minimize conflic
 
 #### (l) Acceptance of funds ####
 
-In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under section 272(c)(7) of this title, to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing.
+#### (1) In general ####
+
+To the extent provided in advance in appropriations Acts, other Federal departments and agencies may transfer amounts to the Institute, and the Secretary and Director may accept and make available cash donations from the private sector pursuant to section 272(c)(7) of this title, to be used for strengthening United States manufacturing under this section.
+
+#### (2) Competitive awards ####
+
+Funds accepted from other Federal departments and agencies and from the private sector under paragraph (1) shall be awarded competitively by the Secretary and Director to Centers, provided that the Secretary and Director may make noncompetitive <sup><a href="#278k_3_target" name="278k_3">3</a></sup> awards, pursuant to this section or section 278k–1 of this title, or as a non-competitive <sup><a href="#278k_3_target" name="278k_3">3</a></sup> contract, as appropriate, if the Secretary and Director determine that—
+
+(A) the manufacturing market or sector targeted is limited geographically or in scope;
+
+(B) the number of States (or territory, in the case of Puerto Rico) with Centers serving manufacturers of such market or sector is five or fewer; and
+
+(C) such Center has or Centers have received a positive evaluation in the most recent evaluation conducted pursuant to subsection (g).
 
 #### (m) MEP Advisory Board ####
 
@@ -392,7 +424,7 @@ At a minimum, the MEP Advisory Board shall transmit an annual report to the Secr
 
 #### (B) Contents ####
 
-The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i <sup><a href="#278k_3_target" name="278k_3">3</a></sup> of this title.
+The report shall address the status of the Program and describe the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i <sup><a href="#278k_4_target" name="278k_4">4</a></sup> of this title.
 
 #### (n) Small manufacturers ####
 
@@ -400,7 +432,7 @@ The report shall address the status of the Program and describe the relevant sec
 
 As part of the Program, the Director shall—
 
-(A) identify obstacles that prevent small manufacturers from effectively competing in the global market;
+(A) identify obstacles that prevent United States-based small manufacturers from effectively competing in the global market;
 
 (B) implement a comprehensive plan to train the Centers to address the obstacles identified in paragraph (2); and
 
@@ -410,7 +442,7 @@ As part of the Program, the Director shall—
 
 As part of the Program, the Secretary shall develop open access resources that address best practices related to inventory sourcing, supply chain management, manufacturing techniques, available Federal resources, and other topics to further the competitiveness and profitability of small manufacturers.
 
-(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, §501(b), Jan. 6, 2017, 130 Stat. 3023.)
+(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, §501(b), Jan. 6, 2017, 130 Stat. 3023; Pub. L. 117–167, div. B, title II, §§10252(a), (b), (d), 10255, Aug. 9, 2022, 136 Stat. 1499, 1503.)
 
 #### **Editorial Notes** ####
 
@@ -421,6 +453,32 @@ The Federal Advisory Committee Act, referred to in subsec. (m)(4), is Pub. L. 92
 Subsections (c) and (d) of section 278i of this title, referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were repealed by Pub. L. 114–329, title II, §204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(5). Pub. L. 117–167, §10252(b)(1), struck out "or consortium thereof," before "an institution of higher education" and inserted "or a consortium thereof" before period at end.
+
+Subsec. (a)(6) to (8). Pub. L. 117–167, §10255(1)–(4), added pars. (6) defining historically Black college and university and (7) defining institution of higher education and redesignated former pars. (6) defining Hollings Manufacturing Extension Partnership or Program and (7) defining MEP Advisory Board as (7) and (8), respectively.
+
+Subsec. (a)(9) to (11). Pub. L. 117–167, §10255(5), added pars. (9) to (11).
+
+Subsec. (c)(4). Pub. L. 117–167, §10252(b)(2), inserted "United States-based" before "industrial".
+
+Subsec. (c)(6). Pub. L. 117–167, §10252(d)(1)(A), substituted "secondary schools, community colleges, and area career and technical education schools, including those in underserved and rural communities," for "community colleges and area career and technical education schools".
+
+Subsec. (c)(7). Pub. L. 117–167, §10252(d)(1)(B), substituted "local secondary schools and local colleges, including historically Black colleges and universities, Tribal Colleges or Universities, minority-serving institutions, community colleges, and secondary schools and colleges in underserved and rural communities," for "and local colleges" and inserted "or other applied learning opportunities" after "apprenticeships".
+
+Subsec. (d)(1). Pub. L. 117–167, §10252(b)(3)(A), inserted "at United States-based industrial facilities, including small and medium manufacturing companies" before "based".
+
+Subsec. (d)(2). Pub. L. 117–167, §10252(b)(3)(B), inserted "United States-based" before "companies".
+
+Subsec. (d)(3). Pub. L. 117–167, §10252(d)(2), substituted "and local high schools, community colleges, and area career and technical education schools, including those in underserved and rural communities," for ", community colleges, and area career and technical education schools,".
+
+Pub. L. 117–167, §10252(b)(3)(C), inserted "United States-based" before "small".
+
+Subsec. (f)(5)(B)(i). Pub. L. 117–167, §10252(b)(4), inserted before semicolon at end "in the United States".
+
+Subsec. (l). Pub. L. 117–167, §10252(a), amended subsec. (l) generally. Prior to amendment, text read as follows: "In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under section 272(c)(7) of this title, to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing."
+
+Subsec. (n)(1)(A). Pub. L. 117–167, §10252(b)(5), inserted "United States-based" before "small".
 
 **2017**—Pub. L. 114–329 amended section generally. Prior to amendment, section related to establishment of regional centers for the transfer of manufacturing technology, the MEP Advisory Board, a competitive grant program, and an innovative services initiative.
 
@@ -486,6 +544,10 @@ Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, which in part
 
 Pub. L. 114–329, title V, §501(f), Jan. 6, 2017, 130 Stat. 3033, provided that: "Notwithstanding the amendments made by subsections (a) [sic; subsec. (a) is set out as a Short Title of 2017 Amendment note under section 271 of this title] and (b) of this section [amending this section], the Secretary of Commerce may carry out section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) as that section was in effect on the day before the date of enactment of this Act [Jan. 6, 2017], with respect to existing grants, agreements, cooperative agreements, or contracts, and with respect to applications for such items that are received by the Secretary prior to the date of enactment of this Act."
 
+#### Resource Optimization ####
+
+Pub. L. 117–167, div. B, title II, §10251(b), Aug. 9, 2022, 136 Stat. 1498, provided that: "Of amounts authorized for the Hollings Manufacturing Extension Partnership program under section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k), the Secretary [of Commerce] shall optimize funding across sections 25 and 25A of such Act [15 U.S.C. 278k, 278k–1], as well as the program established under section 25B of such Act [15 U.S.C. 278k–2] (as added by subsection (a)), to the extent practicable and subject to the availability of appropriations, in order to maximize Center (as such term is defined in such section 25) participation as well as competitiveness, productivity, and technological performance in United States manufacturing."
+
 #### Patent Rights ####
 
 Pub. L. 114–329, title V, §501(g), Jan. 6, 2017, 130 Stat. 3033, provided that: "The provisions of chapter 18 of title 35, United States Code, shall apply, to the extent not inconsistent with section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) and section 25 [sic] of that Act, to the promotion of technology from research by Centers under those sections, except for contracts for such specific technology extension or transfer services as may be specified by the Director of NIST [National Institute of Standards and Technology] or under other law."
@@ -530,8 +592,10 @@ Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that the requirement of former subsec. (c)(2) of this section was met by the publication made by the National Bureau of Standards on July 18, 1988, at 53 F.R. 27060.
 
-[<sup>1</sup> So in original. Probably should refer to subsec. (m).](#278k_1)
+[<sup>1</sup> So in original. Two pars. (7) have been enacted.](#278k_1)
 
-[<sup>2</sup> So in original.](#278k_2)
+[<sup>2</sup> So in original. Probably should refer to subsec. (m).](#278k_2)
 
-[<sup>3</sup> See References in Text note below.](#278k_3)
+[<sup>3</sup> So in original.](#278k_3)
+
+[<sup>4</sup> See References in Text note below.](#278k_4)

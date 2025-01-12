@@ -206,7 +206,7 @@ This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), 
 
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (e)(1)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original "section 9 of the Federal Reserve Act", meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original "section 9 of the Federal Reserve Act", meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 Section 3401(6) of title 12, referred to in subsec. (h)(4)(A), was redesignated section 3401(7) of title 12 by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 

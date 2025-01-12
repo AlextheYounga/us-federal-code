@@ -168,7 +168,7 @@ The Commission may, by such rules as it determines to be necessary or appropriat
 
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Amendments ####
 

@@ -50,9 +50,9 @@ Whenever the Commission, on its own motion or upon application, finds that a reg
 
 #### References in Text ####
 
-The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 Words "such Act", referred to in subsec. (c)(1), mean the Securities Act of 1933 and the Securities Exchange Act of 1934, respectively.
 

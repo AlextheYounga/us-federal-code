@@ -26,6 +26,8 @@ Sec.
 
 2056d. Performance standards to protect against portable fuel container explosions near open flames or other ignition sources.
 
+2056e. Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries.
+
 2057. Banned hazardous products.
 
 2057a. Banning of butyl nitrite.

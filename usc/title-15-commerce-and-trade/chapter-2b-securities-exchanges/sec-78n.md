@@ -198,9 +198,9 @@ The Commission shall, by rule, require each issuer to disclose in any proxy or c
 
 This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1), and (g)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1), and (g)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments ####
 

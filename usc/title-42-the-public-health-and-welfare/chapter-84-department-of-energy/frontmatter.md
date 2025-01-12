@@ -334,6 +334,10 @@ Sec.
 
 7381c–1. Partnerships with historically Black colleges and universities, Hispanic-serving institutions, and tribal colleges.
 
+7381c–2. Broadening participation for teachers and scientists.
+
+7381c–3. Expanding opportunities for highly skilled science, technology, engineering, and mathematics (STEM) professionals.
+
 7381d. Definitions.
 
 7381e. Authorization of appropriations.

@@ -16,7 +16,7 @@ Subsection (a) shall not apply to cases commenced before the effective date of t
 
 For the effective date of this Act, referred to in subsec. (b), see Effective Date note below.
 
-The Clayton Act, referred to in subsecs. (a) and (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title and to sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+The Clayton Act, referred to in subsecs. (a) and (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title and to sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

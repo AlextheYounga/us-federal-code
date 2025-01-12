@@ -6,7 +6,7 @@ Sec.
 
 3702. Definitions.
 
-3703. Interagency Subcommittee.
+3703. Interagency working group.
 
 3704. Strategic research plan.
 

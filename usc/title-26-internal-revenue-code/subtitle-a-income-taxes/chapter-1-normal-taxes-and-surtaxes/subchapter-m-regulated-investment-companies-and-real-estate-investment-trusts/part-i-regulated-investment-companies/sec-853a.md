@@ -72,6 +72,8 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 (Added Pub. L. 111–5, div. B, title I, §1541(a), Feb. 17, 2009, 123 Stat. 360; amended Pub. L. 111–325, title III, §301(d), Dec. 22, 2010, 124 Stat. 3544; Pub. L. 113–295, div. A, title II, §209(h), Dec. 19, 2014, 128 Stat. 4029.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 54, 54A, and 54AA, referred to in subsecs. (a) and (e)(1), were repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
@@ -79,8 +81,6 @@ Sections 54, 54A, and 54AA, referred to in subsecs. (a) and (e)(1), were repeale
 Section 1397E, referred to in subsec. (a), was repealed by Pub. L. 115–97, title I, §13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
 
 Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (e)(1)(A)(iii), is subpart H (§54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
-
-#### **Editorial Notes** ####
 
 #### Amendments ####
 

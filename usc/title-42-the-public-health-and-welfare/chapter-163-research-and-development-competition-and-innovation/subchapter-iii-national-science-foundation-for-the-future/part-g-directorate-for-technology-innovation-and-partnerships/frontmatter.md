@@ -1,0 +1,1 @@
+### Part G—Directorate for Technology, Innovation, and Partnerships ###

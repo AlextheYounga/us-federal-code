@@ -96,6 +96,8 @@ Sec.
 
 17113. Industrial emissions reduction technology development program.
 
+17113a. Low-emissions steel manufacturing research program.
+
 17114. Industrial Technology Innovation Advisory Committee.
 
 17115. Technical assistance program to implement industrial emissions reduction.
@@ -321,6 +323,8 @@ Sec.
 17373. Convention on Supplementary Compensation for Nuclear Damage contingent cost allocation.
 
 17374. Transparency in extractive industries resource payments.
+
+17375. Regional clean energy innovation program.
 
 #### SUBCHAPTER IX—SMART GRID ####
 

@@ -32,9 +32,9 @@ For purposes of this section—
 
 #### References in Text ####
 
-The Natural Gas Policy Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
-The Natural Gas Act, referred to in subsec. (c)(3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to this chapter (§717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (c)(3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to this chapter (§717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
 #### Codification ####
 

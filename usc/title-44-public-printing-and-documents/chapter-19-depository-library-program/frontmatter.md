@@ -40,15 +40,15 @@ Sec.
 
 **2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 1914.
 
+**1978**—Pub. L. 95–261, §2, Apr. 17, 1978, 92 Stat. 199, added item 1916.
+
+**1972**—Pub. L. 92–368, §1(b), Aug. 10, 1972, 86 Stat. 507, added item 1915.
+
 #### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
 "Government Publishing Office" substituted for "Government Printing Office" in item 1902 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
-
-**1978**—Pub. L. 95–261, §2, Apr. 17, 1978, 92 Stat. 199, added item 1916.
-
-**1972**—Pub. L. 92–368, §1(b), Aug. 10, 1972, 86 Stat. 507, added item 1915.
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

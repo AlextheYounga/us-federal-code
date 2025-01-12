@@ -8,7 +8,7 @@ The prohibition against "unfair methods of competition" and the remedies provide
 
 #### References in Text ####
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Codification ####
 

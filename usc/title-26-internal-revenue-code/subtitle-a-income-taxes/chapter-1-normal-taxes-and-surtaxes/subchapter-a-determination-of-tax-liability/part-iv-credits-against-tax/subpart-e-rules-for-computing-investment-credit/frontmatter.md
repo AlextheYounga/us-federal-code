@@ -14,7 +14,7 @@ Sec.
 
 48C. Qualifying advanced energy project credit.
 
-[48D. Repealed.]
+48D. Advanced manufacturing investment credit.
 
 49. At-risk rules.
 
@@ -25,6 +25,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–167, div. A, §107(d)(4), Aug. 9, 2022, 136 Stat. 1399, added item 48D.
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(d)(3)(A), Mar. 23, 2018, 132 Stat. 1209, struck out item 48D "Qualifying therapeutic discovery project credit".
 

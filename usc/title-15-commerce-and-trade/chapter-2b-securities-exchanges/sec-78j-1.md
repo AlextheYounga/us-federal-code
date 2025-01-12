@@ -198,7 +198,7 @@ Each issuer shall provide for appropriate funding, as determined by the audit co
 
 This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments ####
 

@@ -2,7 +2,7 @@
 
 #### (a) Financial assistance to foreign nationals ####
 
-The Secretary is authorized, notwithstanding any other provision of law, to expend such sums, within the limit of appropriated funds, as the Secretary may deem desirable, through the grant of fellowships or any other form of financial assistance, to defray the expenses of foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute.
+The Secretary is authorized, notwithstanding any other provision of law, to expend such sums, within the limit of appropriated funds, as the Secretary may determine desirable through direct support for activities of international organizations and foreign national metrology institutes with which the Institute cooperates to advance measurement methods, technical standards, and related basic technologies, for official representation, to host official receptions, dinners, and similar events, and to otherwise extend official courtesies, including transportation of foreign dignitaries and representatives of foreign national metrology institutes to and from the Institute, for the purpose of maintaining the standing and prestige of the Department of Commerce and the Institute, through the grant of fellowships or other appropriate form of financial or logistical assistance or support to foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute.
 
 #### (b) Foreign assistance and compensation to Institute employees ####
 
@@ -16,19 +16,21 @@ Provisions of law prohibiting the use of any part of any appropriation for the p
 
 For any scientific and engineering disciplines for which there is a shortage of suitably qualified and available United States citizens and nationals, the Secretary is authorized to recruit and employ in scientific and engineering fields at the Institute foreign nationals who have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act [8 U.S.C. 1101 et seq.] and who intend to become United States citizens. Employment of a person under this paragraph shall not be subject to the provisions of title 5 governing employment in the competitive service, or to any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them.
 
-(Mar. 3, 1901, ch. 872, §17, as added Pub. L. 96–461, §9, Oct. 15, 1980, 94 Stat. 2051; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, §104(h)(2), Feb. 14, 1992, 106 Stat. 11.)
+(Mar. 3, 1901, ch. 872, §17, as added Pub. L. 96–461, §9, Oct. 15, 1980, 94 Stat. 2051; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, §104(h)(2), Feb. 14, 1992, 106 Stat. 11; Pub. L. 117–167, div. B, title II, §10246(a)(1), Aug. 9, 2022, 136 Stat. 1491.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
-The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (d), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Prior Provisions ####
 
 A prior section 278g, act Mar. 3, 1901, ch. 872, §17, as added Mar. 1, 1968, Pub. L. 90–259, title I, §102, 82 Stat. 35, related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegation of powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by Pub. L. 93–498, §18, Oct. 29, 1974, 88 Stat. 1545.
 
 #### Amendments ####
+
+**2022**—Subsec. (a). Pub. L. 117–167 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary is authorized, notwithstanding any other provision of law, to expend such sums, within the limit of appropriated funds, as the Secretary may deem desirable, through the grant of fellowships or any other form of financial assistance, to defray the expenses of foreign nationals not in service to the Government of the United States while they are performing scientific or engineering work at the Institute or participating in the exchange of scientific or technical information at the Institute."
 
 **1992**—Subsec. (d). Pub. L. 102–245 added subsec. (d).
 

@@ -70,7 +70,7 @@ Each valuation submitted under this subsection shall be prepared by the licensee
 
 For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
-The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments ####
 

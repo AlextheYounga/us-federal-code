@@ -17,3 +17,5 @@ Sec.
 4657. Prohibition relating to foreign entities of concern.
 
 4658. Defense Production Act of 1950 efforts.
+
+4659. Additional authorities.

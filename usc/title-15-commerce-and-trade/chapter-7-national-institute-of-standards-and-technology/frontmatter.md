@@ -16,7 +16,7 @@ Sec.
 
 274. Director; powers and duties; report; compensation.
 
-275. Appointment of officers and employees.
+275. Hiring critical technical experts.
 
 275a. Service charges.
 
@@ -78,6 +78,8 @@ Sec.
 
 278k–1. Competitive awards program.
 
+278k–2. Expansion awards pilot program.
+
 278 l. Assistance to State technology programs.
 
 278m, 278n. Repealed.
@@ -95,6 +97,8 @@ Sec.
 278r. Collaborative manufacturing research pilot grants.
 
 278s. Manufacturing USA.
+
+278t. Advanced communications research activities.
 
 279. Absence of Director.
 

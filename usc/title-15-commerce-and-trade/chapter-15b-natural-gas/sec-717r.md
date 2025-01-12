@@ -40,7 +40,7 @@ The Court shall set any action brought under this subsection for expedited consi
 
 #### References in Text ####
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 #### Codification ####
 

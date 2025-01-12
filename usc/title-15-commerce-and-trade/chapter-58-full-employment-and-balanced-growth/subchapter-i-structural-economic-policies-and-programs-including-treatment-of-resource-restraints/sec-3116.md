@@ -52,7 +52,7 @@ The Secretary, in carrying out the provisions of this section, shall establish r
 
 For definition of "this chapter", referred to in subsecs. (a) and (d)(2), see References in Text note set out under section 3102 of this title.
 
-The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
+The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsecs. (b) and (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 

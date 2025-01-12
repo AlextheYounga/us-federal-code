@@ -260,6 +260,18 @@ Except as provided in subparagraph (B), an agency head may not, with respect to 
 
 An agency head awarding financial assistance under paragraph (1) with respect to a Manufacturing USA institute may waive the requirements of subparagraph (A) in the case of satellite centers, large capital facilities, equipment purchases, workforce development, or general operations.
 
+#### (8) Diversity preferences ####
+
+In awarding financial assistance under paragraph (1) for planning or establishing a Manufacturing USA institute, an agency head shall give special consideration to Manufacturing USA institutes that—
+
+(A) contribute to the geographic diversity of the Manufacturing USA Program;
+
+(B) are located in an area with a low per capita income;
+
+(C) are located in an area with a high proportion of socially disadvantaged residents; or
+
+(D) are located in small and rural communities.
+
 #### (f) Grant program for public service activities for Manufacturing USA institutes without Federal funding ####
 
 The Secretary may award a grant on a competitive basis to a Manufacturing USA institute that is not receiving financial assistance under subsection (e) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
@@ -300,7 +312,7 @@ The functions of the National Program Office are—
 
 (B) to coordinate with and, as appropriate, enter into memorandums of understanding with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation, to carry out the purposes set forth under subsection (b)(2);
 
-(C) to develop, not later than December 16, 2015, and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program;
+(C) to develop, not later than December 16, 2015, and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program, including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued;
 
 (D) to establish such procedures, processes, and criteria as may be necessary and appropriate to maximize cooperation and coordinate the activities of the Program with programs and activities of other Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing;
 
@@ -314,7 +326,7 @@ The functions of the National Program Office are—
 
 (I) to help develop pilot programs that may be implemented by the Manufacturing USA institutes to address specific purposes of the Program, including to accelerate technology transfer to the private sector and to develop entrepreneurship programs;
 
-(J) to provide support services to promote workforce development activities;
+(J) to provide support services to promote workforce development activities, including the development of industry credentials;
 
 (K) to identify and disseminate best practices for workforce education and training across the Network and further enhance collaboration among Manufacturing USA institutes in developing and implementing such practices;
 
@@ -355,6 +367,20 @@ The Secretary may provide financial assistance to a manufacturing extension cent
 #### (6) Detailees ####
 
 Any Federal Government employee may be detailed to the National Program Office without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
+
+#### (7) Council for coordination of institutes ####
+
+#### (A) Council ####
+
+The National Program Office shall establish or designate a council of heads of any Manufacturing USA institute receiving Federal funding at any time to foster collaboration between Manufacturing USA institutes.
+
+#### (B) Meetings ####
+
+The council established or designated pursuant to subparagraph (A) shall meet not less frequently than twice each year.
+
+#### (C) Duties of the council ####
+
+The council established pursuant to subparagraph (A) shall assist the National Program Office in carrying out the functions of the National Program Office under paragraph (2).
 
 #### (i) Reporting and auditing ####
 
@@ -480,7 +506,7 @@ Chapter 18 of title 35 shall apply to any funding agreement (as defined in secti
 
 Any reference in law, regulation, map, document, paper, or other record of the United States to the "Network for Manufacturing Innovation Program", the "Network for Manufacturing Innovation", "National Office of the Network for Manufacturing Innovation Program", or a "center for manufacturing innovation" shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
 
-(Mar. 3, 1901, ch. 872, §34, as added Pub. L. 113–235, div. B, title VII, §703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, §1741(a), Dec. 20, 2019, 133 Stat. 1826.)
+(Mar. 3, 1901, ch. 872, §34, as added Pub. L. 113–235, div. B, title VII, §703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, §1741(a), Dec. 20, 2019, 133 Stat. 1826; Pub. L. 117–167, div. B, title II, §§10261, 10263(b)–(d), Aug. 9, 2022, 136 Stat. 1503, 1505, 1506.)
 
 #### **Editorial Notes** ####
 
@@ -489,6 +515,14 @@ Any reference in law, regulation, map, document, paper, or other record of the U
 A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under section 271 of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (e)(8). Pub. L. 117–167, §10261, added par. (8).
+
+Subsec. (h)(2)(C). Pub. L. 117–167, §10263(c), inserted ", including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued" after "Program".
+
+Subsec. (h)(2)(J). Pub. L. 117–167, §10263(d), inserted ", including the development of industry credentials" after "activities".
+
+Subsec. (h)(7). Pub. L. 117–167, §10263(b), added par. (7).
 
 **2019**—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
 

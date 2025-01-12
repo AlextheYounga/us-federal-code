@@ -12,9 +12,53 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Planetary Defense Coordination Office ####
+
+Pub. L. 117–167, div. B, title VII, §10825, Aug. 9, 2022, 136 Stat. 1744, provided that:
+
+"(a) Findings.—Congress makes the following findings:
+
+"(1) Near-Earth objects remain a threat to the United States.
+
+"(2) Section 321(d)(1) of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2922; 51 U.S.C. 71101 note prec.) [set out below], established a requirement that the Administrator [of the National Aeronautics and Space Administration] plan, develop, and implement a Near-Earth Object Survey program to detect, track, catalogue, and characterize the physical characteristics of near-Earth objects equal to, or greater than, 140 meters in diameter in order to assess the threat of such near-Earth objects to the Earth, with the goal of 90 percent completion of the catalogue of such near-Earth objects by December 30, 2020.
+
+"(3) The goal described in paragraph (2) has not be met.
+
+"(4) The report of the National Academies of Sciences, Engineering, and Medicine entitled 'Finding Hazardous Asteroids Using Infrared and Visible Wavelength Telescopes', issued in 2019, states that—
+
+"(A) NASA [National Aeronautics and Space Administration] should develop and launch a dedicated space-based infrared survey telescope to meet the requirements of section 321(d)(1) of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2922; 51 U.S.C. 71101 note prec.); and
+
+"(B) the early detection of potentially hazardous near-Earth objects enabled by a space-based infrared survey telescope is important to enable deflection of a dangerous asteroid.
+
+"(b) Maintenance of Planetary Defense Coordination Office.—The Administrator shall maintain an office within the Planetary Science Division of the Science Mission Directorate, to be known as the 'Planetary Defense Coordination Office'—
+
+"(1) to plan, develop, and implement a program to survey threats posed by near-Earth objects equal to or greater than 140 meters in diameter, as required by section 321(d)(1) of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2922; 51 U.S.C. 71101 note prec.);
+
+"(2) identify, track, and characterize potentially hazardous near-Earth objects, issue warnings of the effects of potential impacts of such objects, and investigate strategies and technologies for mitigating the potential impacts of such objects; and
+
+"(3) assist in coordinating government planning for response to a potential impact of a near-Earth object.
+
+"(c) Dedicated Survey Mission.—
+
+"(1) Sense of congress.—It is the sense of Congress that—
+
+"(A) the Near-Earth Object Surveyor mission, as designed, is anticipated to make significant progress toward carrying out congressional policy and direction, as set forth in section 321(d)(1) of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2922; 51 U.S.C. 71101 note prec.), to detect 90 percent of near-Earth objects equal to, or greater than, 140 meters in diameter; and
+
+"(B) the Administrator should prioritize the public safety role of the Near-Earth Object Surveyor mission and should not delay the development and launch of the mission due to cost growth on other planetary science missions.
+
+"(2) Continuation of mission.—
+
+"(A) In general.—The Administrator shall continue the development of a dedicated space-based infrared survey telescope mission, known as the 'Near-Earth Object Surveyor', on a schedule to achieve a launch-readiness date not later than March 30, 2026, or the earliest practicable date, for the purpose of accomplishing the objectives set forth in section 321(d)(1) of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2922; 51 U.S.C. 71101 note prec.).
+
+"(B) Consideration of recommendations.—The design of the mission described in subparagraph (A) shall take into account the recommendations of the 2019 report of the National Academies of Sciences, Engineering, and Medicine entitled 'Finding Hazardous Asteroids Using Infrared and Visible Wavelength Telescopes', the planetary science decadal survey, and the 2018 United States National Near-Earth Object Preparedness Strategy and Action Plan.
+
+"(d) Annual Report.—[Amended section 321(f) of Pub. L. 109–155, set out below.]
+
+"(e) Near-earth Object Defined.—In this section, the term 'near-Earth object' has the meaning given the term in section 321(c) of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155; 119 Stat. 2922; 51 U.S.C. 71101 note prec.)."
+
 #### George E. Brown, Jr. Near-Earth Object Survey ####
 
-Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended by Pub. L. 115–10, title V, §511, Mar. 21, 2017, 131 Stat. 51, provided that:
+Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended by Pub. L. 115–10, title V, §511, Mar. 21, 2017, 131 Stat. 51; Pub. L. 117–167, div. B, title VII, §10825(d), Aug. 9, 2022, 136 Stat. 1745, provided that:
 
 "(a) Short Title.—This section may be cited as the 'George E. Brown, Jr. Near-Earth Object Survey Act'.
 
@@ -58,11 +102,17 @@ Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended b
 
 "(3) a description of the status of efforts to coordinate and cooperate with other countries to discover hazardous asteroids and comets, plan a mitigation strategy, and implement that strategy in the event of the discovery of an object on a likely collision course with Earth.
 
-"(f) Annual Reports.—After the initial report under subsection (e), the Administrator shall annually transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
+"(f) Annual Report.—Not later than 180 days after the date of the enactment of the National Aeronautics and Space Administration Authorization Act of 2022 [Aug. 9, 2022] and annually thereafter through 90-percent completion of the catalogue required by subsection (d)(1), the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes the following:
 
-"(1) a summary of all activities carried out under subsection (d) since the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017, including the progress toward achieving 90 percent completion of the survey described in subsection (d); and
+"(1) A summary of all activities carried out by the Planetary Defense Coordination Office established under section 10825 of the National Aeronautics and Space Administration Authorization Act of 2022 [Pub. L. 117–167, set out above] since the date of enactment of that Act.
 
-"(2) a summary of expenditures for all activities carried out under subsection (d) since the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017.
+"(2) A description of the progress with respect to the design, development, and launch of the space-based infrared survey telescope required by section 10825(c) of the National Aeronautics and Space Administration Authorization Act of 2022.
+
+"(3) An assessment of the progress toward meeting the requirements under subsection (d)(1).
+
+"(4) A description of the status of efforts to coordinate and cooperate with other countries to detect hazardous asteroids and comets, plan a mitigation strategy, and implement that strategy in the event of the discovery of an object on a likely collision course with Earth.
+
+"(5) A summary of expenditures for all activities carried out by the Planetary Defense Coordination Office since the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2022[.]
 
 "(g) Assessment.—The Administrator, in collaboration with other relevant Federal agencies, shall carry out a technical and scientific assessment of the capabilities and resources—
 

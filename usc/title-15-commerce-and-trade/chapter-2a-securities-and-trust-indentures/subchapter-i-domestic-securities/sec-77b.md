@@ -64,9 +64,9 @@ Whenever pursuant to this subchapter the Commission is engaged in rulemaking and
 
 #### References in Text ####
 
-The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(15)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(15)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Codification ####
 

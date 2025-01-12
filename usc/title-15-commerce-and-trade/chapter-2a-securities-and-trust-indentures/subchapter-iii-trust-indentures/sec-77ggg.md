@@ -18,7 +18,7 @@ The provisions of section 77h of this title and the provisions of subsection (b)
 
 #### References in Text ####
 
-The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments ####
 

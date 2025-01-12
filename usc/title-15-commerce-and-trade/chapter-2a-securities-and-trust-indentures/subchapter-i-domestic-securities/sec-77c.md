@@ -98,13 +98,13 @@ The Commission may from time to time by its rules and regulations and subject to
 
 Section 103 of title 26, referred to in subsec. (a)(2), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, §1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2) (formerly section 103(c)(2)), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 Section 926 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (b)(2)(G)(ii), is section 926 of Pub. L. 111–203, which is set out as a note under section 77d of this title.
 
 April 5, 2012, referred to in subsec. (b)(5), was in the original "the date of enactment of the Small Company Capital Formation Act of 2011", and was translated as meaning the date of enactment of the Jumpstart Our Business Startups Act, Pub. L. 112–106, which enacted subsec. (b)(5), to reflect the probable intent of Congress.
 
-The Small Business Investment Act of 1958, referred to in subsec. (c), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Amendments ####
 

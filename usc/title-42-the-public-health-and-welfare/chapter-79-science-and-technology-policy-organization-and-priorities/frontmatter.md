@@ -24,7 +24,9 @@ Sec.
 
 6614. Policy planning; analysis; advice; establishment of advisory panel.
 
-6615. Science and technology report and outlook.
+6615. National science and technology strategy.
+
+6615b. Quadrennial science and technology review.
 
 6616. Additional functions of Director.
 

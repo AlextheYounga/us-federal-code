@@ -14,7 +14,7 @@ No publisher, radio-broadcast licensee, or agency or medium for the disseminatio
 
 #### References in Text ####
 
-The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, as amended, which is classified to subchapters I to IV (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which is classified to subchapters I to IV (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

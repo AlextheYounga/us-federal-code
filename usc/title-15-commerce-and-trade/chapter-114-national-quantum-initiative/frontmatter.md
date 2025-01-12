@@ -34,4 +34,8 @@ Sec.
 
 8851. Quantum information science research program.
 
-8851. National Quantum Information Science Research Centers.
+8852. National Quantum Information Science Research Centers.
+
+8853. Department of Energy quantum network infrastructure research and development program.
+
+8854. Department of Energy Quantum User Expansion for Science and Technology program.

@@ -34,6 +34,22 @@ Sec.
 
 18645. Fusion energy.
 
-18646. Isotope development and production for research applications.
+18646. Nuclear physics.
 
 18647. Science laboratories infrastructure program.
+
+18648. Accelerator research and development.
+
+18649. Isotope research, development, and production.
+
+18650. Increased collaboration with teachers and scientists.
+
+18651. High intensity laser research initiative.
+
+18652. Helium conservation program.
+
+18653. Office of Science Biological Threat Preparedness Research Initiative.
+
+18654. Midscale instrumentation and research equipment program.
+
+18655. Authorization of appropriations.

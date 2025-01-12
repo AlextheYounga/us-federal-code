@@ -68,6 +68,10 @@ Sec.
 
 3722. Regional innovation program.
 
+3722a. Regional Technology and Innovation Hub Program.
+
+3722b. Distressed area Recompete Pilot Program.
+
 3723. STEM apprenticeship programs.
 
 3724. Crowdsourcing and citizen science.

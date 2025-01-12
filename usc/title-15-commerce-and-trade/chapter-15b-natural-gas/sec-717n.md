@@ -54,9 +54,9 @@ All hearings, investigations, and proceedings under this chapter shall be govern
 
 #### References in Text ####
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, , which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 #### Amendments ####
 

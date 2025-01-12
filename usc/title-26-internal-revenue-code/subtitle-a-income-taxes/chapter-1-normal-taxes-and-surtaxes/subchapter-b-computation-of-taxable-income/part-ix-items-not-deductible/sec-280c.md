@@ -312,7 +312,7 @@ Section applicable to taxable years beginning after Dec. 31, 1976, and to credit
 
 #### Savings Provision ####
 
-For provisions that amendment made by section 401(d)(3)(B)(iii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of section 48D(e)(1) of this title, see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under section 48D of this title.
+For provisions that amendment made by section 401(d)(3)(B)(iii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of section 48D(e)(1) of this title, see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under section 49 of this title.
 
 For provisions that amendment made by section 401(d)(6)(B)(iv) of Pub. L. 115–141 not apply, in the case of certain repeals, to various types of wages, bonds, property, or other items before specific dates, see section 401(d)(6)(C) of Pub. L. 115–141, set out as a note under former section 1400L of this title.
 

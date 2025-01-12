@@ -716,7 +716,7 @@ In producing a credit rating, a nationally recognized statistical rating organiz
 
 This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments ####
 

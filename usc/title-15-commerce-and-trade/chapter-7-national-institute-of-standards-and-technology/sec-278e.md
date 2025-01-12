@@ -22,8 +22,4 @@ In the performance of the functions of the Institute the Secretary of Commerce i
 
 #### NIST Campus Security ####
 
-Pub. L. 114–329, title I, §113, Jan. 6, 2017, 130 Stat. 2993, provided that:
-
-"(a) Supervisory Authority.—The Department of Commerce Office of Security shall directly manage the law enforcement and site security programs of NIST [National Institute of Standards and Technology] through an assigned Director of Security for NIST without increasing the number of full-time equivalent employees of the Department of Commerce, including NIST.
-
-"(b) Reports.—The Director of Security for NIST shall provide an activities and security report on a quarterly basis for the first year after the date of enactment of this Act [Jan. 6, 2017], and on an annual basis thereafter, to the Under Secretary for Standards and Technology and the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives]."
+Pub. L. 114–329, title I, §113, Jan. 6, 2017, 130 Stat. 2993, which authorized the Department of Commerce Office of Security to directly manage the law enforcement and site security programs of the National Institute of Standards and Technology (NIST) and required the Director of Security for NIST to provide an activities and security report to the Under Secretary for Standards and Technology and the Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives, was repealed by Pub. L. 117–167, div. B, title II, §10246(c), Aug. 9, 2022, 136 Stat. 1492.

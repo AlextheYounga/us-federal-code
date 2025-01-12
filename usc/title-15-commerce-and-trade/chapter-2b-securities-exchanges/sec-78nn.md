@@ -20,7 +20,7 @@ Nothing in this section shall be construed to diminish, impair, or otherwise aff
 
 This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title and Codification note below.
 
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 #### Codification ####
 
