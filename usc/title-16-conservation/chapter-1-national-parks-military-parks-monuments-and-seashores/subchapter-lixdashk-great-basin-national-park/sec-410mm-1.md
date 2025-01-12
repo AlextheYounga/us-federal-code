@@ -2,11 +2,11 @@
 
 #### (a) Laws governing; conservation and protection of resources ####
 
-The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 of this title. The Secretary shall protect, manage, and administer the park in such manner as to conserve and protect the scenery, the natural, geologic, historic, and archaeological resources of the park, including fish and wildlife and to provide for the public use and enjoyment of the same in such a manner as to perpetuate these qualities for future generations.
+The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 <sup><a href="#410mm-1_1_target" name="410mm-1_1">1</a></sup> of this title. The Secretary shall protect, manage, and administer the park in such manner as to conserve and protect the scenery, the natural, geologic, historic, and archaeological resources of the park, including fish and wildlife and to provide for the public use and enjoyment of the same in such a manner as to perpetuate these qualities for future generations.
 
 #### (b) Fishing ####
 
-The Secretary shall permit fishing on lands and waters under his jurisdiction within the park in accordance with the applicable laws of the United States and the State of Nevada, except that he may designate zones where, and periods when, no fishing may be permitted for reasons of public safety. Except in emergencies, any regulations prescribing such restrictions relating to fishing,<sup><a href="#410mm-1_1_target" name="410mm-1_1">1</a></sup> shall be put into effect only after consultation with the appropriate State agency having jurisdiction over fishing activities.
+The Secretary shall permit fishing on lands and waters under his jurisdiction within the park in accordance with the applicable laws of the United States and the State of Nevada, except that he may designate zones where, and periods when, no fishing may be permitted for reasons of public safety. Except in emergencies, any regulations prescribing such restrictions relating to fishing,<sup><a href="#410mm-1_2_target" name="410mm-1_2">2</a></sup> shall be put into effect only after consultation with the appropriate State agency having jurisdiction over fishing activities.
 
 #### (c) Preparation of management plan; submission to Congress; amendment of plan ####
 
@@ -52,6 +52,8 @@ In order to encourage unified and cost-effective interpretation of the Great Bas
 
 #### References in Text ####
 
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
 The Geothermal Steam Act of 1970, as amended, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 #### Amendments ####
@@ -64,4 +66,6 @@ Subsec. (f). Pub. L. 104–134, §101(c) [title III, §319(2)], designated exist
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-[<sup>1</sup> So in original. The comma probably should not appear.](#410mm-1_1)
+[<sup>1</sup> See References in Text note below.](#410mm-1_1)
+
+[<sup>2</sup> So in original. The comma probably should not appear.](#410mm-1_2)

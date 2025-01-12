@@ -34,9 +34,9 @@
 
 (8) The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
 
-(b) Victim of an Offense Under This Chapter Defined.—In this section, the term "victim of an offense under this chapter" means a person who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter (the Uniform Code of Military Justice).
+(b) Victim of an Offense Under This Chapter Defined.—In this section, the term "victim of an offense under this chapter" means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter (the Uniform Code of Military Justice).
 
-(c) Legal Guardian for Certain Victims.—In the case of a victim of an offense under this chapter who is under 18 years of age, incompetent, incapacitated, or deceased, the military judge shall designate a legal guardian from among the representatives of the estate of the victim, a family member, or other suitable person to assume the victim's rights under this section. However, in no event may the person so designated be the accused.
+(c) Appointment of Individuals to Assume Rights for Certain Victims.—In the case of a victim of an offense under this chapter who is under 18 years of age (but who is not a member of the armed forces), incompetent, incapacitated, or deceased, the military judge shall designate a representative of the estate of the victim, a family member, or another suitable individual to assume the victim's rights under this section. However, in no event may the individual so designated be the accused.
 
 (d) Rule of Construction.—Nothing in this section (article) shall be construed—
 
@@ -44,7 +44,23 @@
 
 (2) to create, to enlarge, or to imply any duty or obligation to any victim of an offense under this chapter or other person for the breach of which the United States or any of its officers or employees could be held liable in damages.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952.)
+(e) Enforcement by Court of Criminal Appeals.—(1) If the victim of an offense under this chapter believes that a court-martial ruling violates the victim's rights afforded by a Military Rule of Evidence specified in paragraph (2), the victim may petition the Court of Criminal Appeals for a writ of mandamus to require the court-martial to comply with the Military Rule of Evidence.
+
+(2) Paragraph (1) applies with respect to the protections afforded by the following:
+
+(A) Military Rule of Evidence 513, relating to the psychotherapist-patient privilege.
+
+(B) Military Rule of Evidence 412, relating to the admission of evidence regarding a victim's sexual background.
+
+(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368.)
+
+#### Amendments ####
+
+**2014**—Subsec. (b). Pub. L. 113–291, §531(f)(1), substituted "an individual" for "a person".
+
+Subsec. (c). Pub. L. 113–291, §531(f)(2), in heading, substituted "Appointment of Individuals to Assume Rights" for "Legal Guardian" and, in text, inserted "(but who is not a member of the armed forces)" after "under 18 years of age" and substituted "designate a representative" for "designate a legal guardian from among the representatives", "another suitable individual" for "other suitable person", and "the individual" for "the person".
+
+Subsec. (e). Pub. L. 113–291, §535, added subsec. (e).
 
 #### Implementation ####
 

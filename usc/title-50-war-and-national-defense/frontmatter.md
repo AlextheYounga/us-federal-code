@@ -105,6 +105,8 @@ Chap. Sec.
 
 47. National Security Agency 3601
 
+48. Department of Defense Cooperative Threat Reduction 3701
+
 |                                        *Title 50<br/><br/>Former Classification*                                        |*Title 50<br/><br/>New Classification*|
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 |                                                           401                                                           |                 3002                 |

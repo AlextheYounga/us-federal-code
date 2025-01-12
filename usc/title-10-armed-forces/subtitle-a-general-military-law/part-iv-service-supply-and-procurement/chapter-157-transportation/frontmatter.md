@@ -32,7 +32,7 @@ Sec.
 
 2641b. Space-available travel on Department of Defense aircraft: program authorized and eligible recipients.
 
-2642. Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates. 1
+2642. Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate.
 
 2643. Commissary and exchange services: transportation overseas.
 
@@ -53,6 +53,10 @@ Sec.
 2651. Passengers and merchandise to Guam: sea transport.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title X, §1071(f)(21), Dec. 19, 2014, 128 Stat. 3511, which directed substitution of "rate" for "rates" in item 2642, could not be executed because the word "rates" does not appear after the amendment by Pub. L. 113–291, §1044(c)(2). See below.
+
+Pub. L. 113–291, div. A, title X, §1044(c)(2), Dec. 19, 2014, 128 Stat. 3494, amended item 2642 generally, substituting "Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate" for "Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates".
 
 **2013**—Pub. L. 113–66, div. A, title VI, §621(g)(2), title X, §1073(c), Dec. 26, 2013, 127 Stat. 784, 870, struck out item 2634 "Motor vehicles: transportation or storage for members on change of permanent station or extended deployment", added item 2642, and struck out former item 2642 "Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate".
 
@@ -103,5 +107,3 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 **1962**—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted "Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department" for "Terminal Services, furnish to commercial steamship companies" in item 2633, and added item 2634.
 
 **1957**—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER157_1)

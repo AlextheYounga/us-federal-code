@@ -1,5 +1,3 @@
-### §17m. Consent of Congress to agreements between States; when agreements effective ###
+### §17m. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-The consent of Congress is given to any two or more States to negotiate and enter into compacts or agreements with one another with reference to planning, establishing, developing, improving, and maintaining any park, parkway, or recreational area. No such compact or agreement shall be effective until approved by the legislatures of the several States which are parties thereto and by the Congress of the United States.
-
-(June 23, 1936, ch. 735, §3, 49 Stat. 1895.)
+Section, act June 23, 1936, ch. 735, §3, 49 Stat. 1895, related to consent of Congress to agreements between States; when agreements effective. See section 100504(b) of Title 54, National Park Service and Related Programs.

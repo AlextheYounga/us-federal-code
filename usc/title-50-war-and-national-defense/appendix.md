@@ -4636,6 +4636,8 @@ Sec.
 
 527. Maximum rate of interest on debts incurred before military service.
 
+528. Child custody protection.
+
 #### TITLE III—RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES ####
 
 531. Evictions and distress.
@@ -5385,6 +5387,36 @@ A prior section 527, act Oct. 17, 1940, ch. 888, art. II, §207, as added Oct. 2
 Subsec. (d). Pub. L. 110–289, §2203(b)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "As used in this section, the term 'interest' includes service charges, renewal charges, fees, or any other charges (except bona fide insurance) with respect to an obligation or liability."
 
 Subsecs. (e), (f). Pub. L. 110–389 added subsecs. (e) and (f).
+
+### §528. Child custody protection ###
+
+#### (a) Duration of temporary custody order based on certain deployments ####
+
+If a court renders a temporary order for custodial responsibility for a child based solely on a deployment or anticipated deployment of a parent who is a servicemember, the court shall require that the temporary order shall expire not later than the period justified by the deployment of the servicemember.
+
+#### (b) Limitation on consideration of member's deployment in determination of child's best interest ####
+
+If a motion or a petition is filed seeking a permanent order to modify the custody of the child of a servicemember, no court may consider the absence of the servicemember by reason of deployment, or the possibility of deployment, as the sole factor in determining the best interest of the child.
+
+#### (c) No Federal jurisdiction or right of action or removal ####
+
+Nothing in this section shall create a Federal right of action or otherwise give rise to Federal jurisdiction or create a right of removal.
+
+#### (d) Preemption ####
+
+In any case where State law applicable to a child custody proceeding involving a temporary order as contemplated in this section provides a higher standard of protection to the rights of the parent who is a deploying servicemember than the rights provided under this section with respect to such temporary order, the appropriate court shall apply the higher State standard.
+
+#### (e) Deployment defined ####
+
+In this section, the term "deployment" means the movement or mobilization of a servicemember to a location for a period of longer than 60 days and not longer than 540 days pursuant to temporary or permanent official orders—
+
+(1) that are designated as unaccompanied;
+
+(2) for which dependent travel is not authorized; or
+
+(3) that otherwise do not permit the movement of family members to that location.
+
+(Oct. 17, 1940, ch. 888, title II, §208, as added Pub. L. 113–291, div. A, title V, §566(a), Dec. 19, 2014, 128 Stat. 3384.)
 
 ### TITLE III—RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES, TELEPHONE SERVICE CONTRACTS ###
 

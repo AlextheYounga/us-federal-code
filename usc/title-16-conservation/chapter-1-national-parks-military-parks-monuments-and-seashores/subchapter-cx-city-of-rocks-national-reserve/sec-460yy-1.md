@@ -30,7 +30,7 @@ At such time as the State or appropriate units of local government having jurisd
 
 (2) Lands and waters, and interests therein, within the boundaries of the reserve which were administered by the Forest Service, United States Department of Agriculture or the Bureau of Land Management, Department of the Interior prior to November 18, 1988, are hereby transferred to the administrative jurisdiction of the Secretary to be administered by the National Park Service in accordance with this subchapter.
 
-(3) Lands and interest therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of sections 1, 2, 3, and 4 of this title, and in a manner consistent with the purpose of this subchapter.
+(3) Lands and interest therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of sections 1, 2, 3, and 4 <sup><a href="#460yy-1_1_target" name="460yy-1_1">1</a></sup> of this title, and in a manner consistent with the purpose of this subchapter.
 
 #### (e) Withdrawal of management and administration from State or local units of government ####
 
@@ -52,10 +52,14 @@ There is hereby authorized to be appropriated not to exceed $2,000,000 to carry 
 
 #### References in Text ####
 
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (d)(3), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
 The Geothermal Steam Act of 1970, referred to in subsec. (g), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified generally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 
 #### Permission To Hunt on Reserve; Restrictions ####
 
 Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923, provided that: "with respect to lands and waters under the jurisdiction of the Secretary of the Interior within the City of Rocks National Reserve established by title II of Public Law 100–696 [enacting sections 460yy and 460yy–1 of this title], the Secretary shall hereafter permit hunting in accordance with the otherwise applicable laws of the United States and the State of Idaho, except that he may designate zones where and periods when no hunting may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment: *Provided further*, That except in emergencies, any regulation prescribing such restrictions shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting activities".
+
+[<sup>1</sup> See References in Text note below.](#460yy-1_1)
 
 [<sup>1</sup> So in original. Probably should not be capitalized.](#460yy-1_1)

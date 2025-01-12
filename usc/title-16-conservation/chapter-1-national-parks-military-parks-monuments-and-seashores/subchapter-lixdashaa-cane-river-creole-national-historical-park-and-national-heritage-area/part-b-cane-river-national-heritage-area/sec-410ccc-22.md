@@ -98,7 +98,7 @@ The Commission shall submit an annual report to the Secretary identifying its ex
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (a), was in the original "titles II and III of this Act" and was translated as reading "titles III and IV of this Act" meaning titles III and IV of Pub. L. 103–449, which are classified generally to this subchapter, to reflect the probable intent of Congress in view of similar references in subsecs. (c) and (d) of this section. Title II of Pub. L. 103–449, known as the Weir Farm National Historic Site Expansion Act of 1994, amended provisions listed in a table of National Historic Sites set out under section 461 of this title.
+This subchapter, referred to in subsec. (a), was in the original "titles II and III of this Act" and was translated as reading "titles III and IV of this Act" meaning titles III and IV of Pub. L. 103–449, which are classified generally to this subchapter, to reflect the probable intent of Congress in view of similar references in subsecs. (c) and (d) of this section. Title II of Pub. L. 103–449, known as the Weir Farm National Historic Site Expansion Act of 1994, amended provisions listed in a table of National Historic Sites set out under section 320101 of Title 54, National Park Service and Related Programs.
 
 [<sup>1</sup> See References in Text note below.](#410ccc-22_1)
 

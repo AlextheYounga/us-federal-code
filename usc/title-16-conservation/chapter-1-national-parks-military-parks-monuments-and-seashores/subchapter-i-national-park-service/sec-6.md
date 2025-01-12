@@ -1,5 +1,3 @@
-### §6. Donations of lands within national parks and monuments and moneys ###
+### §6. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-The Secretary of the Interior in his administration of the National Park Service is authorized, in his discretion, to accept patented lands, rights-of-way over patented lands or other lands, buildings, or other property within the various national parks and national monuments, and moneys which may be donated for the purposes of the national park and monument system.
-
-(June 5, 1920, ch. 235, §1, 41 Stat. 917.)
+Section, act June 5, 1920, ch. 235, §1, 41 Stat. 917, related to donations of lands within national parks and monuments and moneys. See section 101101 of Title 54, National Park Service and Related Programs.

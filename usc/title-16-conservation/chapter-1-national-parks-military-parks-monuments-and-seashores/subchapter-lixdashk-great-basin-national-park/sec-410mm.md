@@ -14,7 +14,7 @@ Within 6 months after October 27, 1986, the Secretary of the Interior (hereinaft
 
 #### (d) Incorporation of Lehman Caves National Monument within park ####
 
-(1) The Lehman Caves National Monument, designated on January 24, 1922, by Presidential proclamation under the authority contained in the Act of June 8, 1906 (34 Stat. 225) [16 U.S.C. 431, 432, 433] is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
+(1) The Lehman Caves National Monument, designated on January 24, 1922, by Presidential proclamation under the authority contained in the Act of June 8, 1906 (34 Stat. 225) is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
 
 (2) Any funds available for purposes of the national monument shall be available for purposes of the park.
 
@@ -22,7 +22,7 @@ Within 6 months after October 27, 1986, the Secretary of the Interior (hereinaft
 
 #### References in Text ####
 
-Act of June 8, 1906, referred to in subsec. (d)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
+Act of June 8, 1906, referred to in subsec. (d)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Short Title of 1906 Act note set out under section 100101 of Title 54, National Park Service and Related Programs, and Tables.
 
 #### Change of Name ####
 

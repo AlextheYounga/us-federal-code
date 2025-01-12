@@ -6,4 +6,4 @@ The Secretary is authorized to acquire lands, waters, and interests therein with
 
 #### References in Text ####
 
-This Act, referred to in text, is Pub. L. 101–313, June 27, 1990, 104 Stat. 272, which enacted this subchapter, amended sections 410pp, 410pp–1, and 460uu–12 of this title, and enacted and repealed provisions listed in a Miscellaneous National Monuments table set out under section 431 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 101–313, June 27, 1990, 104 Stat. 272, which enacted this subchapter, amended sections 410pp, 410pp–1, and 460uu–12 of this title, and enacted and repealed provisions listed in a Miscellaneous National Monuments table set out under section 320301 of Title 54, National Park Service and Related Programs. For complete classification of this Act to the Code, see Tables.

@@ -2155,7 +2155,7 @@ This title has been enacted into positive law by section 1 of act Aug. 10, 1956,
 
 #### Repeals ####
 
-Act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at large covering provisions codified in this act, "except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act [Aug. 10, 1956] and except as provided in section 49."
+Act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, "except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act [Aug. 10, 1956] and except as provided in section 49."
 
 #### Savings Provision and Separability ####
 

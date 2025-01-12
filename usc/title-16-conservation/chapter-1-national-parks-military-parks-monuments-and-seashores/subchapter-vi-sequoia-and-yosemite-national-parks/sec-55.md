@@ -13,5 +13,3 @@ Any mortgage, lien, or encumbrance created under the provisions hereof shall be 
 This section superseded earlier provisions as to leases contained in section 2 of act Oct. 1, 1890.
 
 As enacted by act July 23, 1914, this section contained a provision, omitted for purposes of codification, continuing in effect all existing laws relating to the park and not in conflict with it.
-
-Section 1 of the act of June 12, 1917, incorporated in section 452 of this title, provides for the disposition of all revenue of National Parks and did not directly affect this section. It may have been considered as superseding similar provisions of the act of Oct. 1, 1890, §2.

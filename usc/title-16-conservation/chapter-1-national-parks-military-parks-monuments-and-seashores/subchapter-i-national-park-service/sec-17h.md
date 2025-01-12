@@ -1,9 +1,3 @@
-### §17h. Hire, rental, and purchase of property of employees; when authorized ###
+### §17h. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-The Secretary of the Interior may, under such regulations as he may prescribe, authorize the hire, rental, or purchase of property from employees of the National Park Service whenever the public interest will be promoted thereby.
-
-(May 26, 1930, ch. 324, §9, 46 Stat. 383.)
-
-#### Transfer of Functions ####
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, act May 26, 1930, ch. 324, §9, 46 Stat. 383, related to hire, rental, and purchase of property of employees; when authorized. See section 101304(d) of Title 54, National Park Service and Related Programs.

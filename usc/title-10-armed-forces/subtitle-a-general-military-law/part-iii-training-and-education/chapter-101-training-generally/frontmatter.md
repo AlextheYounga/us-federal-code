@@ -36,11 +36,13 @@ Sec.
 
 2014. Administrative actions adversely affecting military training or other readiness activities.
 
-2015. Payment of expenses to obtain professional credentials.
+2015. Program to assist members in obtaining professional credentials.
 
 2016. Undergraduate nurse training program: establishment through agreement with academic institution.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title V, §551(b), Dec. 19, 2014, 128 Stat. 3377, substituted "Program to assist members in obtaining professional credentials" for "Payment of expenses to obtain professional credentials" in item 2015.
 
 **2013**—Pub. L. 113–66, div. A, title V, §541(b), Dec. 26, 2013, 127 Stat. 762, added item 2006a.
 

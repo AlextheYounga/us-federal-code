@@ -2,7 +2,7 @@
 
 Sec.
 
-10201. Assistant Secretary of Defense for Reserve Affairs.
+10201. Assistant Secretary of Defense for Manpower and Reserve Affairs.
 
 10202. Regulations.
 
@@ -41,6 +41,8 @@ Sec.
 10219. Suicide prevention and resilience program.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title IX, §902(b)(2), Dec. 19, 2014, 128 Stat. 3470, added item 10201 and struck out former item 10201 "Assistant Secretary of Defense for Reserve Affairs".
 
 **2013**—Pub. L. 112–239, div. A, title V, §581(a)(2), Jan. 2, 2013, 126 Stat. 1765, added item 10219.
 

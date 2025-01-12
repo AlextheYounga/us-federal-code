@@ -113,3 +113,13 @@ Sec.
 1542. Establishment of the Ernest F. Hollings Scholarship Program.
 
 1543. Task force on job repatriation and manufacturing growth.
+
+1544. Promotion of tourist travel.
+
+1545. Cooperation with travel agencies; publication of information.
+
+1546. Advisory committee for promotion of tourist travel; expenses.
+
+1547. Rules and regulations; employees.
+
+1548. Authorization of appropriations.

@@ -14,11 +14,13 @@ Sec.
 
 666. Reserve officers not on the active-duty list.
 
-667. Annual report to Congress.
+[667. Repealed.]
 
 668. Definitions.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title V, §505(b), Dec. 19, 2014, 128 Stat. 3356, struck out item 667 "Annual report to Congress".
 
 **2008**—Pub. L. 110–417, [div. A], title V, §522(a)(3), (c)(3), Oct. 14, 2008, 122 Stat. 4445, added items 661 and 665 and struck out former items 661 "Management policies for officers who are joint qualified" and 665 "Procedures for monitoring careers of joint officers".
 

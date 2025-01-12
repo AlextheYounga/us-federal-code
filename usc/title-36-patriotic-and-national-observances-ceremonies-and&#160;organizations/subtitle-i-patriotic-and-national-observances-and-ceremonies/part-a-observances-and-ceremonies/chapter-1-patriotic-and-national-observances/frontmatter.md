@@ -96,9 +96,51 @@ Sec.
 
 **2001**—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
-#### World War I Centennial Commission ####
+#### World War I Centennial ####
 
-Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, provided that:
+Pub. L. 113–291, div. B, title XXX, §3091, Dec. 19, 2014, 128 Stat. 3858, provided that:
+
+"(a) Liberty Memorial as World War I Museum and Memorial.—
+
+"(1) Designation of liberty memorial.—The Liberty Memorial of Kansas City at America's National World War I Museum in Kansas City, Missouri, is hereby designated as a 'World War I Museum and Memorial'.
+
+"(2) Ceremonies.—The World War I Centennial Commission (in this section referred to as the 'Commission') may plan, develop, and execute ceremonies to recognize the designation of the Liberty Memorial of Kansas City as a World War I Museum and Memorial.
+
+"(b) Pershing Park as World War I Memorial.—
+
+"(1) Redesignation of pershing park.—Pershing Park in the District of Columbia is hereby redesignated as a 'World War I Memorial'.
+
+"(2) Ceremonies.—The Commission may plan, develop, and execute ceremonies for the rededication of Pershing Park, as it approaches its 50th anniversary, as a World War I Memorial and for the enhancement of the General Pershing Commemorative Work as authorized by paragraph (3).
+
+"(3) Authority to enhance commemorative work.—
+
+"(A) In general.—The Commission may enhance the General Pershing Commemorative Work by constructing on the land designated by paragraph (1) as a World War I Memorial appropriate sculptural and other commemorative elements, including landscaping, to further honor the service of members of the United States Armed Forces in World War I.
+
+"(B) General pershing commemorative work defined.—In this subsection, the term 'General Pershing Commemorative Work' means the memorial to the late John J. Pershing, General of the Armies of the United States, who commanded the American Expeditionary Forces in World War I, and to the officers and men under his command, as authorized by Public Law 89–786 (80 Stat. 1377).
+
+"(4) Compliance with standards for commemorative works.—
+
+"(A) In general.—Except as provided in subparagraph (B), chapter 89 of title 40, United States Code, applies to the enhancement of the General Pershing Commemorative Work under this subsection.
+
+"(B) Waiver of certain requirements.—
+
+"(i) Site selection for memorial.—Section 8905 of such title does not apply with respect to the selection of the site for the World War I Memorial.
+
+"(ii) Certain conditions.—Section 8908(b) of such title does not apply to this subsection.
+
+"(5) No infringement upon existing memorial.—The World War I Memorial designated by paragraph (1) may not interfere with or encroach on the District of Columbia War Memorial.
+
+"(6) Deposit of excess funds.—
+
+"(A) Use for other world war i commemorative activities.—If, upon payment of all expenses for the enhancement of the General Pershing Commemorative Work under this subsection (including the maintenance and preservation amount required by section 8906(b)(1) of title 40, United States Code), there remains a balance of funds received for such purpose, the Commission may use the amount of the balance for other commemorative activities authorized under the World War I Centennial Commission Act (Public Law 112–272; 126 Stat. 2448) [set out below].
+
+"(B) Use for other commemorative works.—If the authority for enhancement of the General Pershing Commemorative Work and the authority of the Commission to plan and conduct commemorative activities under the World War I Centennial Commission Act have expired and there remains a balance of funds received for the enhancement of the General Pershing Commemorative Work, the Commission shall transmit the amount of the balance to a separate account with the National Park Foundation, to be available to the Secretary of the Interior following the process provided in section 8906(b)(4) of title 40, United States Code, for accounts established under section 8906(b)(3) of such title, except that funds in such account may only be obligated subject to appropriation.
+
+"(7) Authorization to complete construction after termination of commission.—[Amended section 8 of Pub. L. 112–272, set out below.]
+
+"(c) Additional Amendments to World War I Centennial Commission Act.—[Amended sections 4, 7, and 9 of Pub. L. 112–272, set out below.]"
+
+Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS. ####
 
@@ -184,6 +226,36 @@ Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, provided that:
 
 "(d) Chair and Vice Chair.—The Centennial Commission shall select a Chair and Vice Chair from among its members.
 
+"(e) Ex Officio and Other Advisory Members.—
+
+"(1) Powers.—The individuals listed in paragraphs (2) and (3), or their designated representative, shall serve on the Centennial Commission solely to provide advice and information to the members of the Centennial Commission appointed pursuant to subsection (b)(1), and shall not be considered members for purposes of any other provision of this Act.
+
+"(2) Ex officio members.—The following individuals shall serve as ex officio members:
+
+"(A) The Archivist of the United States.
+
+"(B) The Librarian of Congress.
+
+"(C) The Secretary of the Smithsonian Institution.
+
+"(D) The Secretary of Education.
+
+"(E) The Secretary of State.
+
+"(F) The Secretary of Veterans Affairs.
+
+"(G) The Administrator of General Services.
+
+"(3) Other advisory members.—The following individuals shall serve as other advisory members:
+
+"(A) Four members appointed by the Secretary of Defense in the following manner: One from the Navy, one from the Marine Corps, one from the Army, and one from the Air Force.
+
+"(B) Two members appointed by the Secretary of Homeland Security in the following manner: One from the Coast Guard and one from the United States Secret Service.
+
+"(C) Two members appointed by the Secretary of the Interior, including one from the National Parks Service.
+
+"(4) Vacancies.—A vacancy in a member position under paragraph (3) shall be filled in the same manner in which the original appointment was made.
+
 #### "SEC. 5. DUTIES OF CENTENNIAL COMMISSION. ####
 
 "(a) In General.—The duties of the Centennial Commission are as follows:
@@ -240,9 +312,9 @@ Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, provided that:
 
 "(2) Compensation.—
 
-"(A) In general.—Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1).
+"(A) In general.—Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1), without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates.
 
-"(B) Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable [sic] for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+"(B) Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable [sic] for level II of the Executive Schedule under section 5315 of title 5, United States Code.
 
 "(C) Work location.—If the city government for Kansas City, Missouri, and the Liberty Memorial Association make space available in the building in which the America's National World War I Museum is located, the executive director of the Centennial Commission and other personnel appointed under paragraph (1) shall work in such building to the extent practical.
 
@@ -250,11 +322,9 @@ Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, provided that:
 
 "(e) Procurement of Temporary and Intermittent Services.—The Chair of the Centennial Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
 
-"(f) Source of Funds.—Gifts, bequests, and devises of services or property, both real and personal, received by the Centennial Commission under section 6(g) shall be the only source of funds to cover the costs incurred by the Centennial Commission under this section.
-
 #### "SEC. 8. TERMINATION OF CENTENNIAL COMMISSION. ####
 
-"(a) In General.—The Centennial Commission shall terminate on the earlier of—
+"(a) In General.—Except as provided in subsection (c), the Centennial Commission shall terminate on the earlier of—
 
 "(1) the date that is 30 days after the date the completion of the activities under this Act honoring the centennial observation of World War I; or
 
@@ -266,9 +336,11 @@ Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, provided that:
 
 "(2) Exception.—Section 14(a)(2) of such Act shall not apply to the Centennial Commission.
 
-#### "SEC. 9. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS. ####
+"(c) Exception for Completion of World War I Memorial.—The Centennial Commission may perform such work as is necessary to complete the rededication of a World War I Memorial and enhancement of the General Pershing Commemorative Work under section 3091(b) of the National Defense Authorization Act for Fiscal Year 2015 [Pub. L. 113–291, set out above], subject to section 8903 of title 40, United States Code.
 
-"No Federal funds may be obligated to carry out this Act."
+#### "SEC. 9. LIMITATION ON OBLIGATION OF FEDERAL FUNDS. ####
+
+"No Federal funds may be obligated or expended for the designation, establishment, or enhancement of a memorial or commemorative work by the World War I Centennial Commission."
 
 #### Ronald Reagan Centennial Commission ####
 

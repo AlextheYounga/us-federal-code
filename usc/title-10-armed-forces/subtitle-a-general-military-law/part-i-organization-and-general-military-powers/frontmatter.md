@@ -31,6 +31,8 @@ Chap. Sec.
 
 18. Military Support for Civilian Law Enforcement Agencies 371
 
+19. Cyber matters 1 391
+
 20. Humanitarian and Other Assistance 401
 
 21. Department of Defense Intelligence Matters 421
@@ -42,6 +44,8 @@ Chap. Sec.
 24. Nuclear Posture 491
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added item for chapter 19.
 
 **2013**—Pub. L. 113–66, div. A, title X, §1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted "Nuclear Posture" for "Nuclear posture" in item for chapter 24.
 
@@ -78,3 +82,5 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 **1981**—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 **1962**—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+
+[<sup>1</sup> So in original. Probably should be "Matters".](#PARTI_1)

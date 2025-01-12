@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary of the Interior (hereinafter in this subchapter referred to as the "Secretary") shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to sections 1, 2, 3, and 4 of this title.
+The Secretary of the Interior (hereinafter in this subchapter referred to as the "Secretary") shall administer the park in accordance with this subchapter, and laws generally applicable to units of the National Park System, including, but not limited to sections 1, 2, 3, and 4 <sup><a href="#410vv-2_1_target" name="410vv-2_1">1</a></sup> of this title.
 
 #### (b) Acquisition of lands ####
 
@@ -24,6 +24,12 @@ The primary purposes of the historic zone shall be preservation, education, and 
 
 (Pub. L. 102–350, §4, Aug. 26, 1992, 106 Stat. 934; Pub. L. 105–277, div. A, §101(e) [title I, §143], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267.)
 
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
 #### Amendments ####
 
 **1998**—Subsec. (d)(1). Pub. L. 105–277 substituted "Marsh-Billings-Rockefeller" for "Marsh-Billings".
+
+[<sup>1</sup> See References in Text note below.](#410vv-2_1)

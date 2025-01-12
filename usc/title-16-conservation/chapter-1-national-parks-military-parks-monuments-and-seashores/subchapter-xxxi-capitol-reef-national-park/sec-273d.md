@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary ####
 
-The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 <sup><a href="#273d_1_target" name="273d_1">1</a></sup> of this title, as amended and supplemented.
 
 #### (b) Easements and rights-of-way ####
 
@@ -16,4 +16,8 @@ Within three years from December 18, 1971, the Secretary of the Interior shall r
 
 #### References in Text ####
 
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
 The Wilderness Act, referred to in subsec. (c), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+
+[<sup>1</sup> See References in Text note below.](#273d_1)

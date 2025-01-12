@@ -14,7 +14,7 @@ The management plan described in paragraph (1) shall be developed with full publ
 
 (B) proposals for public facilities to be developed, expanded, or improved for the Recreation Area, including one or more visitor centers to accommodate both local and out-of-State visitors;
 
-(C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Recreation Area;
+(C) plans for the management of natural and cultural resources in the Recreation Area, with emphasis on the preservation and long-term scientific use of archaeological resources, with priority in development given to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act<sup><a href="#460hhh-4_2_target" name="460hhh-4_2">2</a></sup> within the Recreation Area;
 
 (D) wildlife and fish resource management plans for the Recreation Area prepared in consultation with appropriate departments of the State of Nevada and using other available studies of the Recreation Area;
 
@@ -26,7 +26,7 @@ The management plan described in paragraph (1) shall be developed with full publ
 
 #### (3) Consultation ####
 
-The plans for the management of natural and cultural resources described in paragraph (2)(C) shall be prepared in consultation with the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act (16 U.S.C. 470i et seq.) and the Nevada State Department of Conservation and Natural Resources, Division of Historic Preservation and Archaeology.
+The plans for the management of natural and cultural resources described in paragraph (2)(C) shall be prepared in consultation with the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act<sup><a href="#460hhh-4_2_target" name="460hhh-4_2">2</a></sup> and the Nevada State Department of Conservation and Natural Resources, Division of Historic Preservation and Archaeology.
 
 #### (b) Wilderness study areas ####
 
@@ -44,6 +44,8 @@ Pending submission of a recommendation and until otherwise directed by Act of Co
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(2)(C) and (3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. Title II of the Act is classified generally to part B (§470i et seq.) of subchapter II of chapter 1A of this chapter. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
+The National Historic Preservation Act, referred to in subsec. (a)(2)(C) and (3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See 54 U.S.C. 300101 et seq. Title II of the Act was classified generally to part B (§470i et seq.) of subchapter II of chapter 1A of this chapter. See 54 U.S.C. 304101 et seq.
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#460hhh-4_1)
+
+[<sup>2</sup> See References in Text note below.](#460hhh-4_2)

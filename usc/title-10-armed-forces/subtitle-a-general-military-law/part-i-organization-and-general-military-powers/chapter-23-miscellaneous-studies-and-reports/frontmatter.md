@@ -6,6 +6,8 @@ Sec.
 
 481. Racial and ethnic issues; gender issues: surveys.
 
+481a. Workplace and gender relations issues: surveys of Department of Defense civilian employees.
+
 482. Quarterly reports: personnel and unit readiness.
 
 [483. Repealed.]
@@ -18,11 +20,11 @@ Sec.
 
 488. Management of electromagnetic spectrum.
 
-489. Annual report on Department of Defense operation and financial support for military museums.
-
-[490 to 491. Repealed or Renumbered.]
+[489 to 491. Repealed or Renumbered.]
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title III, §331(b), title X, §1073(a)(2), Dec. 19, 2014, 128 Stat. 3344, 3518, added item 481a and struck out item 489 "Annual report on Department of Defense operation and financial support for military museums".
 
 **2013**—Pub. L. 113–66, div. A, title X, §§1042(a)(2), 1072(b)(2), 1084(a)(1)(B), Dec. 26, 2013, 127 Stat. 857, 869, 871, added item 485, substituted "Management of electromagnetic spectrum" for "Management of electromagnetic spectrum: biennial strategic plan" in item 488, and struck out item 483 "Reports on transfers from high-priority readiness appropriations".
 

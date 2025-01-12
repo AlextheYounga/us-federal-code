@@ -2,7 +2,7 @@
 
 #### (a) Laws governing ####
 
-The Secretary shall administer the park in accordance with the provisions of this subchapter and the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the park in accordance with the provisions of this subchapter and the provisions of law generally applicable to the administration of units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4),<sup><a href="#410ii-5_1_target" name="410ii-5_1">1</a></sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7).<sup><a href="#410ii-5_1_target" name="410ii-5_1">1</a></sup>
 
 #### (b) Protection, preservation, and maintenance of cultural resources ####
 
@@ -18,7 +18,7 @@ Nothing in this subchapter shall be deemed to prevent the continuation of livest
 
 #### (e) General management plan; transmittal to Congress ####
 
-Within three complete fiscal years from December 19, 1980, the Secretary shall transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a general management plan for the identification, research, and protection of the park, pursuant to the provisions of section 1a–7(b) of this title, to be developed by the Director, National Park Service, in consultation with the Directors, Bureau of Land Management and Bureau of Indian Affairs and the Governor, State of New Mexico, and a joint management plan for the identification, research, and protection of the archeological protection sites, to be developed by the Director, National Park Service, in consultation and concurrence with the Directors, Bureau of Land Management and Bureau of Indian Affairs, and the Governor, State of New Mexico.
+Within three complete fiscal years from December 19, 1980, the Secretary shall transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a general management plan for the identification, research, and protection of the park, pursuant to the provisions of section 100502 of title 54, to be developed by the Director, National Park Service, in consultation with the Directors, Bureau of Land Management and Bureau of Indian Affairs and the Governor, State of New Mexico, and a joint management plan for the identification, research, and protection of the archeological protection sites, to be developed by the Director, National Park Service, in consultation and concurrence with the Directors, Bureau of Land Management and Bureau of Indian Affairs, and the Governor, State of New Mexico.
 
 #### (f) Assistance to Navajo Nation ####
 
@@ -28,7 +28,15 @@ The Secretary, acting through the Director of the National Park Service, shall a
 
 #### References in Text ####
 
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under section 100101 of Title 54 and Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the "Historic Sites, Buildings and Antiquities Act", which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and section 1866(a) of Title 18, Crimes and Criminal Procedure, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
 The Indian Self-Determination and Education Act, referred to in subsec. (f), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+
+#### Codification ####
+
+In subsec. (e), "section 100502 of title 54" substituted for "subsection 12(b) of the Act of August 18, 1970" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 
@@ -37,3 +45,5 @@ The Indian Self-Determination and Education Act, referred to in subsec. (f), pro
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
+
+[<sup>1</sup> See References in Text note below.](#410ii-5_1)

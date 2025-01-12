@@ -2,7 +2,7 @@
 
 #### (a) Laws governing ####
 
-The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title, and the provisions of this Act.
+The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 <sup><a href="#410jj-4_1_target" name="410jj-4_1">1</a></sup> of this title, and sections 461 to 467 <sup><a href="#410jj-4_1_target" name="410jj-4_1">1</a></sup> of this title, and the provisions of this Act.
 
 #### (b) Emergency, temporary, and interim activities; cooperative agreements; expenditures; rehabilitation projects ####
 
@@ -17,6 +17,10 @@ The Secretary shall administer the park in accordance with the provisions of sec
 (Pub. L. 96–565, title I, §105, Dec. 22, 1980, 94 Stat. 3322.)
 
 #### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
 
 This Act, referred to in subsecs. (a) and (b)(3), is Pub. L. 96–565, Dec. 22, 1980, 94 Stat. 3321, which enacted this subchapter and provisions set out as a note under section 2991a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
@@ -37,3 +41,5 @@ Pub. L. 111–11, title VII, §7108, Mar. 30, 2009, 123 Stat. 1196, provided tha
 "(2) Approval.—The location, size, design, and inscriptions of the memorial authorized by subsection (a) shall be subject to the approval of the Secretary of the Interior.
 
 "(c) Funding.—Ka 'Ohana O Kalaupapa, a nonprofit organization, shall be solely responsible for acceptance of contributions for and payment of the expenses associated with the establishment of the memorial."
+
+[<sup>1</sup> See References in Text note below.](#410jj-4_1)

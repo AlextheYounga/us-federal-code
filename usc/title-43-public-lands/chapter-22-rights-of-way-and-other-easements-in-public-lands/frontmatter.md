@@ -88,7 +88,7 @@ Sec.
 
 959. Rights of way for electrical plants, etc.
 
-961. Rights-of-way through public lands, Indian, and other reservations for power and communications facilities.
+961. Rights-of-way for power and communications facilities.
 
 962. Right of way in Colorado and Wyoming to pipeline companies.
 

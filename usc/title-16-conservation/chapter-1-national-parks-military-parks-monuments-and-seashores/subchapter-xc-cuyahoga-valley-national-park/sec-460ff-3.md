@@ -2,7 +2,7 @@
 
 #### (a) Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources ####
 
-The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter.
+The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 <sup><a href="#460ff-3_1_target" name="460ff-3_1">1</a></sup> of this title, as amended and supplemented. In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter.
 
 #### (b) Federal-State cooperative agreements for police and fire protection ####
 
@@ -36,6 +36,10 @@ Assistance under this subsection may include payments for technical aid.
 
 (Pub. L. 93–555, §4, Dec. 27, 1974, 88 Stat. 1787; Pub. L. 95–625, title III, §315(e), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, §104(j)(1), Nov. 14, 1986, 100 Stat. 3677; Pub. L. 106–291, title I, §149(c)(2), Oct. 11, 2000, 114 Stat. 956.)
 
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–291 substituted "park" for "recreation area" wherever appearing.
@@ -47,3 +51,5 @@ Assistance under this subsection may include payments for technical aid.
 #### Appropriations for Roads ####
 
 Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 996, as amended by Pub. L. 106–291, title I, §149(b), Oct. 11, 2000, 114 Stat. 956, provided in part that: "appropriations for maintenance and improvement of roads within the boundary of the Cuyahoga Valley National Park shall be available for such purposes without regard to whether title to such road rights-of-way is in the United States".
+
+[<sup>1</sup> See References in Text note below.](#460ff-3_1)

@@ -14,7 +14,7 @@ Section 16376, Pub. L. 109–58, title IX, §999F, Aug. 8, 2005, 119 Stat. 923, 
 
 Section 16377, Pub. L. 109–58, title IX, §999G, Aug. 8, 2005, 119 Stat. 923, defined terms for this part.
 
-Section 16378, Pub. L. 109–58, title IX, §999H, Aug. 8, 2005, 119 Stat. 924, related to the Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund.
+Section 16378, Pub. L. 109–58, title IX, §999H, Aug. 8, 2005, 119 Stat. 924; Pub. L. 113–287, §5(k)(6), Dec. 19, 2014, 128 Stat. 3270, related to the Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund.
 
 #### Ex. Ord. No. 13605. Supporting Safe and Responsible Development of Unconventional Domestic Natural Gas Resources ####
 

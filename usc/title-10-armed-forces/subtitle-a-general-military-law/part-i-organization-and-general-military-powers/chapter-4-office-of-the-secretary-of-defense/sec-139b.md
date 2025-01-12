@@ -104,9 +104,13 @@
 
 (4) Transmittal of records and data.—The chief developmental tester and the lead developmental test and evaluation organization for a major defense acquisition program shall promptly transmit to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation any records or data relating to the program that are requested by the Deputy Assistant Secretary, as provided in subsection (a)(6).
 
-(d) Annual Report.—
+(d) Annual and Biennial Reports.—
 
-(1) In general.—Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall each submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
+(1) Annual report by deputy assistant secretary of defense for developmental test and evaluation.—Not later than March 31 of each year, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation shall submit to the congressional defense committees a report on the activities undertaken pursuant to subsection (a) during the preceding year.
+
+(2) Biennial report by deputy assistant secretary of defense for systems engineering.—Not later than March 31 of every other year, the Deputy Assistant Secretary of Defense for Systems Engineering shall submit to the congressional defense committees a report on the activities undertaken pursuant to subsection (b) during the preceding two-year period.
+
+(3) Contents.—Each report submitted under paragraph (1) or (2) shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
 
 (A) A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their systems engineering master plans and developmental test and evaluation plans.
 
@@ -116,7 +120,7 @@
 
 (D) Any comments on such report that the Secretary of Defense considers appropriate.
 
-(2) Additional requirements for report by deputy assistant secretary of defense for developmental test and evaluation.—With respect to the report required under paragraph (1) by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, the report shall include—
+(4) Additional requirements for report by deputy assistant secretary of defense for developmental test and evaluation.—With respect to the report required under paragraph (1) by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, the report shall include—
 
 (A) a separate section that covers the activities of the Department of Defense Test Resource Management Center (established under section 196 of this title) during the preceding year; and
 
@@ -132,11 +136,11 @@
 
 (f) Major Defense Acquisition Program Defined.—In this section, the term "major defense acquisition program" has the meaning given that term in section 2430 of this title.
 
-(Added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, §835(b), Dec. 31, 2011, 125 Stat. 1507; Pub. L. 112–239, div. A, title IX, §904(a)–(d), (f), (g), title X, §1076(f)(5), Jan. 2, 2013, 126 Stat. 1866, 1867, 1952.)
+(Added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, §835(b), Dec. 31, 2011, 125 Stat. 1507; Pub. L. 112–239, div. A, title IX, §904(a)–(d), (f), (g), title X, §1076(f)(5), Jan. 2, 2013, 126 Stat. 1866, 1867, 1952; Pub. L. 113–291, div. A, title II, §221(a), Dec. 19, 2014, 128 Stat. 3330.)
 
 #### References in Text ####
 
-Section 103 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (d), is section 103 of Pub. L. 111–23, which was redesignated as section 2438 of this title.
+Section 103 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (e), is section 103 of Pub. L. 111–23, which was redesignated as section 2438 of this title.
 
 #### Prior Provisions ####
 
@@ -145,6 +149,8 @@ A prior section 139b was renumbered section 138c of this title.
 Another prior section 139b was renumbered section 2433 of this title.
 
 #### Amendments ####
+
+Subsec. (d). Pub. L. 113–291 substituted "Annual and Biennial Reports" for "Annual Report" in heading, added pars. (1) and (2), redesignated former pars. (1) and (2) as (3) and (4), respectively, and in par. (3), substituted "Contents.— Each report submitted under paragraph (1) or (2)" for "In general.—Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall each submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report".
 
 **2013**—Subsec. (a)(3). Pub. L. 112–239, §904(a), substituted "to the Under Secretary. The Deputy Assistant Secretary may communicate views on matters within the responsibility of the Deputy Assistant Secretary directly to the Under Secretary without obtaining the approval or concurrence of any other official within the Department of Defense" for "to the Under Secretary".
 
@@ -197,6 +203,10 @@ Subsec. (b)(5). Pub. L. 111–383, §901(e)(4)(B), substituted "Deputy Assistant
 Subsec. (b)(6). Pub. L. 111–383, §901(e)(4)(B), (D), substituted "Deputy Assistant Secretary" for "Director" in two places and substituted "Deputy Assistant Secretary's" for "Director's".
 
 Subsecs. (c) to (f). Pub. L. 112–81 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–291, div. A, title II, §221(b), Dec. 19, 2014, 128 Stat. 3330, provided that: "The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 19, 2014] and the first report submitted under paragraph (2) of section 139b(d) of such title, as added by subsection (a)(3), shall be submitted not later than March 31, 2015."
 
 #### Effective Date of 2011 Amendment ####
 

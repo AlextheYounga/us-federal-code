@@ -238,26 +238,8 @@ Sec.
 
 698u–7. Authorization of appropriations.
 
-698v. Findings and purposes.
+698v to 698v–10. Repealed.
 
-698v–1. Definitions.
-
-698v–2. Acquisition of lands.
-
-698v–3. The Valles Caldera National Preserve.
-
-698v–4. The Valles Caldera Trust.
-
-698v–5. Board of Trustees.
-
-698v–6. Resource management.
-
-698v–7. Authorities of the Secretary.
-
-698v–8. Termination of the Trust.
-
-698v–9. Limitations on funding.
-
-698v–10. Government Accountability Office study.
+698v–11. Valles Caldera National Preserve, New Mexico.
 
 698w. Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho.

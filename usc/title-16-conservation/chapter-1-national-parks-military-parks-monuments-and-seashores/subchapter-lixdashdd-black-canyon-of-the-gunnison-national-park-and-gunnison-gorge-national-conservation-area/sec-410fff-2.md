@@ -8,7 +8,7 @@
 
 #### (b) Administration ####
 
-Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park <sup><a href="#410fff-2_1_target" name="410fff-2_1">1</a></sup> to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park <sup><a href="#410fff-2_1_target" name="410fff-2_1">1</a></sup> in accordance with this subchapter and laws generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park <sup><a href="#410fff-2_1_target" name="410fff-2_1">1</a></sup> to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park <sup><a href="#410fff-2_1_target" name="410fff-2_1">1</a></sup> in accordance with this subchapter and laws generally applicable to units of the National Park System, including sections 1, 2, 3, 4,<sup><a href="#410fff-2_2_target" name="410fff-2_2">2</a></sup> and 461 to 467 <sup><a href="#410fff-2_2_target" name="410fff-2_2">2</a></sup> of this title.
 
 #### (c) Maps and legal description ####
 
@@ -46,6 +46,10 @@ Subject to valid existing rights, all Federal lands within the park <sup><a hre
 
 Upon enactment of this subchapter, referred to in subsec. (b), was in the original "upon enactment of this title", which was translated as reading "upon enactment of this act", meaning upon enactment of Pub. L. 106–76, which was approved Oct. 21, 1999, to reflect the probable intent of Congress.
 
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (b), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (b), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
 The Wilderness Act, referred to in subsec. (e)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 #### Codification ####
@@ -73,3 +77,5 @@ Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: "On the
 Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: "The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled 'Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications', and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation."
 
 [<sup>1</sup> So in original. The word "park" probably should be capitalized.](#410fff-2_1)
+
+[<sup>1</sup> See References in Text note below.](#410fff-2_1)

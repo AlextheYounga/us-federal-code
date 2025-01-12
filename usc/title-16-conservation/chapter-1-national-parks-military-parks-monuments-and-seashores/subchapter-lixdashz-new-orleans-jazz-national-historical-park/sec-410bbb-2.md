@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-(1) The Secretary shall administer the historical park in accordance with this subchapter and with provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title. The Secretary shall manage the historical park in such a manner as will preserve and perpetuate knowledge and understanding of the history of jazz and its continued evolution as a true American art form.
+(1) The Secretary shall administer the historical park in accordance with this subchapter and with provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 <sup><a href="#410bbb-2_1_target" name="410bbb-2_1">1</a></sup> of this title and sections 461 to 467 <sup><a href="#410bbb-2_1_target" name="410bbb-2_1">1</a></sup> of this title. The Secretary shall manage the historical park in such a manner as will preserve and perpetuate knowledge and understanding of the history of jazz and its continued evolution as a true American art form.
 
 (2) To minimize operational costs associated with the management and administration of the historical park and to avoid duplication of effort, the Secretary shall, to the maximum extent practicable, utilize the facilities, administrative staff and other services of the Jean Lafitte National Historical Park and Preserve.
 
@@ -33,3 +33,11 @@ In furtherance of the purposes of this subchapter—
 The Secretary shall, in the administration of the historical park, promote a broad range of educational activities relating to jazz and its history. The Secretary shall cooperate with schools, universities, and organizations supporting jazz education to develop educational programs that provide expanded public understanding of jazz and enhanced opportunities for public appreciation. The Secretary may assist appropriate entities in the development of an information base including archival material, audiovisual records, and objects that relate to the history of jazz.
 
 (Pub. L. 103–433, title XII, §1204, Oct. 31, 1994, 108 Stat. 4520.)
+
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (a)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
+[<sup>1</sup> See References in Text note below.](#410bbb-2_1)

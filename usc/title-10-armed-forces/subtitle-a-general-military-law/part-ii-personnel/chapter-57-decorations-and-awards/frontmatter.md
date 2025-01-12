@@ -20,6 +20,8 @@ Sec.
 
 1129. Purple Heart: members killed or wounded in action by friendly fire.
 
+1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations.
+
 1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review.
 
 1131. Purple Heart: limitation to members of the armed forces.
@@ -35,6 +37,8 @@ Sec.
 1135. Replacement of military decorations.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title V, §571(a)(1)(B), Dec. 19, 2014, 128 Stat. 3387, added item 1129a.
 
 **2013**—Pub. L. 113–66, div. A, title V, §563(a)(2), Dec. 26, 2013, 127 Stat. 767, added item 1134a.
 

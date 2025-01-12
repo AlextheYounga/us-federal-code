@@ -110,7 +110,7 @@ Sec.
 
 15923. Methodology.
 
-15924. Pilot project to improve Federal permit coordination.
+15924. Project to improve Federal permit coordination.
 
 15925. Fair market value determinations for linear rights-of-way across public lands and national forests.
 

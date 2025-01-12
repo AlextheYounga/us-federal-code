@@ -8,7 +8,7 @@ Sec.
 
 2461a. Development and implementation of system for monitoring cost saving resulting from public-private competitions.
 
-2462. Reports on public-private competition.
+[2462. Repealed.]
 
 2463. Guidelines and procedures for use of civilian employees to perform Department of Defense functions.
 
@@ -39,6 +39,8 @@ Sec.
 2476. Minimum capital investment for certain depots.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title X, §1060(a)(2)(B), Dec. 19, 2014, 128 Stat. 3502, struck out item 2462 "Reports on public-private competition".
 
 **2013**—Pub. L. 112–239, div. A, title III, §322(b)(2)(B), Jan. 2, 2013, 126 Stat. 1695, substituted "Core logistics capabilities" for "Core depot-level maintenance and repair capabilities" in item 2464.
 

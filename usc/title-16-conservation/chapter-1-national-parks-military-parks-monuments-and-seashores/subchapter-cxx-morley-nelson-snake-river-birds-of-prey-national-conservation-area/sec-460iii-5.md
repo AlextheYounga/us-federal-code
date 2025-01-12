@@ -4,7 +4,7 @@
 
 (1) Nothing in this subchapter shall be construed to supersede, limit, or otherwise affect administration and enforcement of the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or to limit the applicability of the National Trails System Act [16 U.S.C. 1241 et seq.] to any lands within the conservation area.
 
-(2) Except as otherwise specifically provided in this subchapter, nothing in this subchapter shall be construed as limiting the applicability to lands in the conservation area of laws applicable to public lands generally, including but not limited to the National Historic Preservation Act [16 U.S.C. 470 et seq.], the Archaeological Resources Protection Act of 1979 [16 U.S.C. 470aa et seq.], or the Native American Graves Protection and Repatriation Act [25 U.S.C. 3001 et seq.].
+(2) Except as otherwise specifically provided in this subchapter, nothing in this subchapter shall be construed as limiting the applicability to lands in the conservation area of laws applicable to public lands generally, including but not limited to the National Historic Preservation Act,<sup><a href="#460iii-5_1_target" name="460iii-5_1">1</a></sup> the Archaeological Resources Protection Act of 1979 [16 U.S.C. 470aa et seq.], or the Native American Graves Protection and Repatriation Act [25 U.S.C. 3001 et seq.].
 
 (3) Nothing in this subchapter shall be construed as by itself altering the status of any lands that on August 4, 1993, were not managed by the Bureau of Land Management.
 
@@ -36,8 +36,10 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93
 
 The National Trails System Act, referred to in subsec. (a)(1), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, as amended, which is classified generally to chapter 27 (§1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(2), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470 of this title and Tables.
+The National Historic Preservation Act, referred to in subsec. (a)(2), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See 54 U.S.C. 300101 et seq.
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
 The Native American Graves Protection and Repatriation Act, referred to in subsec. (a)(2), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 25 and Tables.
+
+[<sup>1</sup> See References in Text note below.](#460iii-5_1)

@@ -4,7 +4,7 @@ Sec.
 
 [4531. Repealed.]
 
-4532. Factories and arsenals: manufacture at; abolition of.
+4532. Factories and arsenals: manufacture at.
 
 [4533 to 4535. Repealed.]
 
@@ -23,6 +23,8 @@ Sec.
 4544. Army industrial facilities: cooperative activities with non-Army entities.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title III, §323(b), Dec. 19, 2014, 128 Stat. 3343, added item 4532 and struck out former item 4532 "Factories and arsenals: manufacture at; abolition of".
 
 **2004**—Pub. L. 108–375, div. A, title III, §353(b), Oct. 28, 2004, 118 Stat. 1861, added item 4544.
 

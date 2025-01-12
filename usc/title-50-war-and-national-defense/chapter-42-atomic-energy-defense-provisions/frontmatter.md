@@ -60,9 +60,11 @@ Sec.
 
 2536. Reports on lifetime extension programs.
 
-2537. Selected Acquisition Reports and independent cost estimates on life extension programs and new nuclear facilities.
+2537. Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities.
 
 2538. Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile.
+
+2538a. Plutonium pit production capacity.
 
 #### Part B—Tritium ####
 
@@ -259,6 +261,8 @@ Sec.
 2752. Funds available for all national security programs of the Department of Energy.
 
 2753. Notification of cost overruns for certain Department of Energy projects.
+
+2754. Life-cycle cost estimates of certain atomic energy defense capital assets.
 
 #### Part B—Penalties ####
 

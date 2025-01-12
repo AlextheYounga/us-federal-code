@@ -88,4 +88,4 @@ Subsec. (g). Pub. L. 111–11, §7105(b)(3), redesignated subsec. (g) as (d).
 
 #### "Secretary" Defined ####
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 45f of this title.

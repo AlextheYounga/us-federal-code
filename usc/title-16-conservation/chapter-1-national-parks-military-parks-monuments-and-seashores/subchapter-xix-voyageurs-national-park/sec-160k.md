@@ -14,9 +14,13 @@ The Secretary is directed to study existing road access to the park and to repor
 
 #### (d) Statutory ceilings respecting appropriations ####
 
-For purposes of section 460l–9(a)(3) of this title, the statutory ceilings on appropriations established by this section shall be deemed to be statutory ceilings contained in a provision of law enacted prior to the convening of the Ninety-fifth Congress.
+For purposes of section 200306(a)(4) of title 54, the statutory ceilings on appropriations established by this section shall be deemed to be statutory ceilings contained in a provision of law enacted prior to the convening of the Ninety-fifth Congress.
 
 (Pub. L. 91–661, §401, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 97–405, §1(4), Jan. 3, 1983, 96 Stat. 2029.)
+
+#### Codification ####
+
+In subsec. (d), "section 200306(a)(4) of title 54" substituted for "section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9(a)(3))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 

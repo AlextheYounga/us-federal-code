@@ -2,7 +2,7 @@
 
 #### (a) Natural and ecological integrity ####
 
-The area within the boundaries depicted on the map referred to in section 698 of this title shall be known as the Big Thicket National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698 to 698e of this title and with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+The area within the boundaries depicted on the map referred to in section 698 of this title shall be known as the Big Thicket National Preserve. Such lands shall be administered by the Secretary as a unit of the National Park System in a manner which will assure their natural and ecological integrity in perpetuity in accordance with the provisions of sections 698 to 698e of this title and with the provisions of sections 1, 2, 3, and 4 <sup><a href="#698c_1_target" name="698c_1">1</a></sup> of this title, as amended and supplemented.
 
 #### (b) Limitation on construction of roads, campgrounds, etc.; rules and regulations for use of Federal lands and waters ####
 
@@ -23,3 +23,9 @@ In the interest of maintaining the ecological integrity of the preserve, the Sec
 The Secretary shall permit hunting, fishing, and trapping on lands and waters under his jurisdiction within the preserve in accordance with the applicable laws of the United States and the State of Texas, except that he may designate zones where and periods when, no hunting, fishing, trapping, or entry may be permitted for reasons of public safety, administration, floral and faunal protection and management, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting, fishing, or trapping shall be put into effect only after consultation with the appropriate State agency having jurisdiction over hunting, fishing and trapping activities.
 
 (Pub. L. 93–439, §4, Oct. 11, 1974, 88 Stat. 1257.)
+
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+[<sup>1</sup> See References in Text note below.](#698c_1)

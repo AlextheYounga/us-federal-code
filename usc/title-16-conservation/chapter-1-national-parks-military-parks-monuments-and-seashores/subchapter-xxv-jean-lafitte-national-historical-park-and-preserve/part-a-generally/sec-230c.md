@@ -14,6 +14,6 @@ Paragraphs (4) and (5) of section 230 of this title, included within the referen
 
 #### "Secretary" Defined ####
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 45f of this title.
 
 [<sup>1</sup> See References in Text note below.](#230c_1)

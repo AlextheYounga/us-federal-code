@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 100–668, §104(c)(3), substituted "sheets 1 through 9" fo
 
 #### Transfer of Administrative Jurisdiction of Exchanged Park and Forest Lands; Authorization of Appropriations ####
 
-Sections 2 to 5 of Pub. L. 99–635, as amended by Pub. L. 100–668, title I, §104(c)(4)–(6), Nov. 16, 1988, 102 Stat. 3962, provided that:
+Pub. L. 99–635, §§2–5, Nov. 7, 1986, 100 Stat. 3528, 3529, as amended by Pub. L. 100–668, title I, §104(c)(4)–(6), Nov. 16, 1988, 102 Stat. 3962, provided that:
 
 "Sec. 2. (a) Federal lands, waters, and interests therein formerly within the boundary of Olympic National Forest which are included within the boundary of Olympic National Park pursuant to section 1 of this Act [16 U.S.C. 251n] are, subject to valid existing rights, hereby transferred to the administrative jurisdiction of the Secretary of the Interior for administration as part of the park, and shall be subject to all the laws and regulations applicable to the park: *Provided further*, That within section 15, township 24 north, range 9 west Willamette meridian, and within an area extending not more than one mile north of such section, nothing herein shall be construed to limit or otherwise modify the authority of the Secretary of Agriculture to design and construct a forest logging road east of the park boundary: *Provided, however*, That the Secretary of Agriculture shall construct the road as close as practically possible to the park boundary but not more than five hundred feet east of the divide. Following construction, the Secretary of the Interior is hereby authorized and directed to redescribe and relocate the boundary of the park along the eastern clearing limits of the road.
 
@@ -30,7 +30,7 @@ Sections 2 to 5 of Pub. L. 99–635, as amended by Pub. L. 100–668, title I, �
 
 "Sec. 3. (a) The Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, exchange, bequest or otherwise any non-Federal lands, waters, and interests therein included within the boundary of Olympic National Park pursuant to section 1 of this Act [16 U.S.C. 251n]: *Provided*: That any lands, waters, or interests therein owned by the State of Washington or any political subdivision thereof may be acquired only by donation or exchange.
 
-"(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 (78 Stat. 903, as amended; 16 U.S.C. 460l–9), the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act [16 U.S.C. 251n], shall be treated as if it was the boundary of that national forest on January 1, 1965.
+"(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 (78 Stat. 903, as amended; 16 U.S.C. 460l–9) [now 54 U.S.C. 100506(c), 200306], the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act [16 U.S.C. 251n], shall be treated as if it was the boundary of that national forest on January 1, 1965.
 
 "Sec. 4. Effective upon acceptance thereof by the State of Washington, the jurisdiction which the United States acquired over those lands excluded from the boundaries of Olympic National Park by this Act [enacting this section and this note] is hereby retroceded to the State.
 

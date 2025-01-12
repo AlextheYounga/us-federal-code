@@ -40,7 +40,9 @@ Sec.
 
 2678. Feral horses and burros: removal from military installations.
 
-[2679, 2680. Repealed.]
+2679. Installation-support services: intergovernmental support agreements.
+
+[2680. Repealed.]
 
 2681. Use of test and evaluation installations by commercial entities.
 
@@ -92,7 +94,9 @@ This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments ####
 
-Pub. L. 111–383, div. A, title III, §341(b), div. B, title XXVIII, §2814(c), Jan. 7, 2011, 124 Stat. 4190, 4464, struck out item 2680 "Leases: land for special operations activities" and added item 2697.
+**2014**—Pub. L. 113–291, div. A, title III, §351(c)(2), Dec. 19, 2014, 128 Stat. 3347, added item 2679.
+
+**2011**—Pub. L. 111–383, div. A, title III, §341(b), div. B, title XXVIII, §2814(c), Jan. 7, 2011, 124 Stat. 4190, 4464, struck out item 2680 "Leases: land for special operations activities" and added item 2697.
 
 **2009**—Pub. L. 111–84, div. B, title XXVIII, §2822(a)(2), Oct. 28, 2009, 123 Stat. 2666, added item 2687a.
 

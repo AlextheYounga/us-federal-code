@@ -2,7 +2,7 @@
 
 #### (a) Applicability of statutory provisions; consideration of Federal, State, and local plans ####
 
-The Secretary shall administer, protect, and develop the recreation area in accordance with sections 1, 2, 3, and 4 of this title, and in accordance with any other statutory authorities available to him for the conservation and management of historic and natural resources, including fish and wildlife, to the extent he finds such authority will further the purposes of this subchapter. In developing and administering the recreation area, the Secretary shall take into consideration applicable Federal, State, and local recreation plans and resource use and development plans, including, but not limited to, the Atlanta Regional Commission Chattahoochee Corridor Study, dated July 1972.
+The Secretary shall administer, protect, and develop the recreation area in accordance with sections 1, 2, 3, and 4 <sup><a href="#460ii-2_1_target" name="460ii-2_1">1</a></sup> of this title, and in accordance with any other statutory authorities available to him for the conservation and management of historic and natural resources, including fish and wildlife, to the extent he finds such authority will further the purposes of this subchapter. In developing and administering the recreation area, the Secretary shall take into consideration applicable Federal, State, and local recreation plans and resource use and development plans, including, but not limited to, the Atlanta Regional Commission Chattahoochee Corridor Study, dated July 1972.
 
 #### (b) Cooperative agreements ####
 
@@ -18,8 +18,14 @@ In administering the recreation area, the Secretary may permit fishing in waters
 
 (Pub. L. 95–344, title I, §103, Aug. 15, 1978, 92 Stat. 475; Pub. L. 106–154, §2(c), (e)(1), Dec. 9, 1999, 113 Stat. 1737, 1738.)
 
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
 #### Amendments ####
 
 **1999**—Subsec. (a). Pub. L. 106–154, §2(e)(1), substituted "of this subchapter" for "of this subchapter and chapter 43 of this title".
 
 Subsec. (b). Pub. L. 106–154, §2(c), added subsec. (b) and struck out former subsec. (b) which read as follows: "The Secretary is authorized and encouraged to enter into cooperative agreements with the State or its political subdivisions whereby he may assist in the planning for and interpretation of non-Federal publicly owned lands within or adjacent or related to the recreation area to assure that such lands are used in a manner consistent with the findings and purposes of this subchapter and chapter 43 of this title."
+
+[<sup>1</sup> See References in Text note below.](#460ii-2_1)

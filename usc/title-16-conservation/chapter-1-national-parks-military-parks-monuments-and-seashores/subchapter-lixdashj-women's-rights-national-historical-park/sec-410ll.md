@@ -58,7 +58,7 @@ The Secretary shall encourage State and local governmental agencies to develop a
 
 #### (g) Administration ####
 
-The Secretary shall administer the park in accordance with the provisions of this section and the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the park in accordance with the provisions of this section and the provisions of law generally applicable to the administration of units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2-4) <sup><a href="#410ll_1_target" name="410ll_1">1</a></sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461-7).<sup><a href="#410ll_1_target" name="410ll_1">1</a></sup>
 
 #### (h) Women's Rights National Historical Park Advisory Commission; membership; Chair; compensation and expenses; function; consultation; termination ####
 
@@ -93,6 +93,10 @@ The Secretary shall administer the park in accordance with the provisions of thi
 (Pub. L. 96–607, title XVI, §1601, Dec. 28, 1980, 94 Stat. 3546; Pub. L. 98–402, Aug. 28, 1984, 98 Stat. 1478; Pub. L. 100–475, §1, Oct. 6, 1988, 102 Stat. 2303; Pub. L. 104–333, div. I, title V, §505, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–258, §1, Aug. 8, 2000, 114 Stat. 655.)
 
 #### References in Text ####
+
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2-4), referred to in subsec. (g), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, and section 1865(a) of Title 18, Crimes and Criminal Procedure, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under section 100101 of Title 54 and Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461-7), referred to in subsec. (g), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the "Historic Sites, Buildings and Antiquities Act", which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and section 1866(a) of Title 18, Crimes and Criminal Procedure, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The effective date of this section, referred to in subsec. (h)(5), probably means the date of enactment of Pub. L. 96–607, which was approved Dec. 28, 1980.
 
@@ -132,4 +136,6 @@ Subsec. (d). Pub. L. 98–402, §1(b), substituted "paragraphs (7) and (9)" for 
 
 #### General Management Plans; Submittal to Congressional Committees ####
 
-Section 501 of Pub. L. 96–607 directed Secretary of the Interior, within three complete fiscal years from Dec. 28, 1980, to submit to Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, comprehensive general management plans for the areas established pursuant to titles XII and XVI of Pub. L. 96–607, pursuant to the provisions of section 1a–7(b) of this title.
+Section 501 of Pub. L. 96–607 directed Secretary of the Interior, within three complete fiscal years from Dec. 28, 1980, to submit to Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, comprehensive general management plans for the areas established pursuant to titles XII and XVI of Pub. L. 96–607, pursuant to the provisions of former section 1a–7(b) of this title.
+
+[<sup>1</sup> See References in Text note below.](#410ll_1)

@@ -40,6 +40,8 @@ Sec.
 
 2218. National Defense Sealift Fund.
 
+2218a. National Sea-Based Deterrence Fund.
+
 [2219. Renumbered.]
 
 2220. Performance based management: acquisition programs.
@@ -69,6 +71,8 @@ Sec.
 2229a. Annual report on prepositioned materiel and equipment.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title X, §1022(a)(2), Dec. 19, 2014, 128 Stat. 3487, added item 2218a.
 
 **2011**—Pub. L. 112–81, div. A, title VIII, §846(a)(2), Dec. 31, 2011, 125 Stat. 1517, added item 2216a.
 

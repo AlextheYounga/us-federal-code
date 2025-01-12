@@ -30,7 +30,7 @@ A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Effective Date of 2013 Amendment ####
 
-Amendment by Pub. L. 113–66 effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, see section 1702(d)(1) of Pub. L. 113–66, set out as a note under section 802 of this title.
+Amendment by Pub. L. 113–66 effective on the later of Dec. 26, 2014, or the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Dec. 19, 2014) and applicable with respect to preliminary hearings conducted on or after that effective date, see section 1702(d)(1) of Pub. L. 113–66, set out as a note under section 802 of this title.
 
 #### Ex. Ord. No. 13425. Trial of Alien Unlawful Enemy Combatants by Military Commission ####
 

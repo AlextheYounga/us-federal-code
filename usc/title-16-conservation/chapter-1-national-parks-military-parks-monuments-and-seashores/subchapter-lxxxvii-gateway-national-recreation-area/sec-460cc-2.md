@@ -2,7 +2,7 @@
 
 #### (a) Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; Jamaica Bay Unit ####
 
-The Secretary shall administer the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented. In the administration of the recreation area the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter: *Provided*, That the Secretary shall administer and protect the islands and waters within the Jamaica Bay Unit with the primary aim of conserving the natural resources, fish, and wildlife located therein and shall permit no development or use of this area which is incompatible with this purpose.
+The Secretary shall administer the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 <sup><a href="#460cc-2_1_target" name="460cc-2_1">1</a></sup> of this title, as amended and supplemented. In the administration of the recreation area the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter: *Provided*, That the Secretary shall administer and protect the islands and waters within the Jamaica Bay Unit with the primary aim of conserving the natural resources, fish, and wildlife located therein and shall permit no development or use of this area which is incompatible with this purpose.
 
 #### (b) William Fitts Ryan Visitor Center; designation ####
 
@@ -40,6 +40,10 @@ Notwithstanding the provisions of subsection (a) of this section, the United Sta
 
 (Pub. L. 92–592, §3, Oct. 27, 1972, 86 Stat. 1309; Pub. L. 96–344, §11(1), Sept. 8, 1980, 94 Stat. 1136; Pub. L. 97–232, §1, Aug. 9, 1982, 96 Stat. 259; Pub. L. 106–132, §1, Dec. 7, 1999, 113 Stat. 1681.)
 
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
 #### Amendments ####
 
 **1999**—Subsec. (b). Pub. L. 106–132 designated existing provisions as par. (1) and added par. (2).
@@ -47,3 +51,5 @@ Notwithstanding the provisions of subsection (a) of this section, the United Sta
 **1982**—Subsec. (i). Pub. L. 97–232 added subsec. (i).
 
 **1980**—Subsec. (b). Pub. L. 96–344 struck out "constructed" after "visitor center" and inserted provision authorizing the Secretary to inform the public of the contributions of Representative Ryan to the creation of the recreation area by means of signs, markers, etc., and to take such additional action, not later than Dec. 31, 1980, as deemed appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
+
+[<sup>1</sup> See References in Text note below.](#460cc-2_1)

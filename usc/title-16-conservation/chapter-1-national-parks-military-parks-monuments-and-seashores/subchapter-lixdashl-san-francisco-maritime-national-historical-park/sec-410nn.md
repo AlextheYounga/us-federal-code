@@ -6,7 +6,7 @@ In order to preserve and interpret the history and achievements of seafaring Ame
 
 #### (b) Area included ####
 
-The park shall consist of the lands and interests therein within the area generally depicted on the map entitled "Boundary Map, San Francisco Maritime National Historical Park", numbered 641/80,053 and dated April 7, 1987. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior and in the office of the Superintendent of the park. If the Secretary of the Interior (hereinafter in this subchapter referred to as the "Secretary") determines, upon completion of the General Management Plan for the park, that the inclusion of the property at Jefferson and Hyde Streets, San Francisco, known as the Haslett Warehouse, would promote the purposes of the park, the Secretary may adjust the boundaries of the park to include that property after notification to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. The Secretary may make other minor revisions of the boundary of the park in accordance with section 460l–9(c) of this title.
+The park shall consist of the lands and interests therein within the area generally depicted on the map entitled "Boundary Map, San Francisco Maritime National Historical Park", numbered 641/80,053 and dated April 7, 1987. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior and in the office of the Superintendent of the park. If the Secretary of the Interior (hereinafter in this subchapter referred to as the "Secretary") determines, upon completion of the General Management Plan for the park, that the inclusion of the property at Jefferson and Hyde Streets, San Francisco, known as the Haslett Warehouse, would promote the purposes of the park, the Secretary may adjust the boundaries of the park to include that property after notification to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. The Secretary may make other minor revisions of the boundary of the park in accordance with section 100506(c) of title 54.
 
 #### (c) Golden Gate National Recreation Area ####
 
@@ -21,6 +21,10 @@ The building housing and displaying the marine collections, libraries, historic 
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Codification ####
+
+In subsec. (b), "section 100506(c) of title 54" substituted for "section 7(c) of the Land and Water Conservation Fund Act of 1965" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 

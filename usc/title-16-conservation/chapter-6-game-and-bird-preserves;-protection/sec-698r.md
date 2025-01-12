@@ -4,9 +4,9 @@
 
 The Preserve shall be administered by the Secretary in accordance with sections 698q to 698t of this title and in accordance with the laws generally applicable to units of the National Park System, including—
 
-(1) sections 1, 2, 3, and 4 of this title; and
+(1) sections 1, 2, 3, and 4 <sup><a href="#698r_1_target" name="698r_1">1</a></sup> of this title; and
 
-(2) sections 461 to 467 of this title.
+(2) sections 461 to 467 <sup><a href="#698r_1_target" name="698r_1">1</a></sup> of this title.
 
 #### (b) Hunting and fishing ####
 
@@ -63,3 +63,11 @@ In preparing and implementing the plan described in paragraph (1), the Secretary
 Upon the transfer by Alabama Power Company to the United States of any lands within the boundaries of the Preserve that contain the Green Pitcher Plant (Sarracenia oreophila), all rights and obligations of Alabama Power Company under the agreement entered into between the company and the Department of the Interior (including the United States Fish and Wildlife Service) on May 12, 1983, in settlement of the action brought on September 24, 1980, against the Secretary and the Director of the Fish and Wildlife Service in the United States District Court for the Northern District of Alabama (Civil Action No. CV 80–C–1242–M), shall be extinguished.
 
 (Pub. L. 102–427, §3, Oct. 21, 1992, 106 Stat. 2179.)
+
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (a)(2), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
+[<sup>1</sup> See References in Text note below.](#698r_1)

@@ -6,7 +6,7 @@ In order to preserve and interpret the Battle of Glorieta for the benefit and en
 
 #### (b) Administration ####
 
-The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle of Glorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle of Glorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 <sup><a href="#410rr-7_1_target" name="410rr-7_1">1</a></sup> of this title and sections 461 to 467 <sup><a href="#410rr-7_1_target" name="410rr-7_1">1</a></sup> of this title.
 
 #### (c) Acquisition ####
 
@@ -30,6 +30,10 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 This section, referred to in subsecs. (a), (b), (d), and (f), was in the original "this Act", meaning Pub. L. 101–536, Nov. 8, 1990, 104 Stat. 2368, known as the Pecos National Historical Park Expansion Act of 1990, which enacted this section and provisions set out as notes under this section and section 410rr of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 410rr of this title and Tables.
 
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (b), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (b), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
 #### Codification ####
 
 Section was enacted as part of the Pecos National Historical Park Expansion Act of 1990, and not as part of title II of Pub. L. 101–313 which comprises this subchapter.
@@ -47,3 +51,5 @@ Pub. L. 101–536, §2, Nov. 8, 1990, 104 Stat. 2368, provided that:
 "(3) the campsite and headquarters of the Union forces during the Battle of Glorieta are currently within the boundary of Pecos National Historical Park.
 
 "(b) Purpose.—The purpose of this Act [enacting this section and provisions set out as a note under section 410rr of this title] is to preserve and interpret the Battle of Glorieta and to enhance visitor understanding of the Civil War and the Far West by establishing a new unit of Pecos National Historical Park."
+
+[<sup>1</sup> See References in Text note below.](#410rr-7_1)

@@ -40,7 +40,7 @@ Sec.
 
 #### Pilot Programs on Career Flexibility To Enhance Retention of Members of the Armed Forces ####
 
-Pub. L. 110–417, [div. A], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465; Pub. L. 112–239, div. A, title V, §522, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1722, 1948, provided that:
+Pub. L. 110–417, [div. A], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465; Pub. L. 112–239, div. A, title V, §522, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1722, 1948; Pub. L. 113–291, div. A, title V, §522, Dec. 19, 2014, 128 Stat. 3360, provided that:
 
 "(a) Pilot Programs Authorized.—
 
@@ -150,9 +150,9 @@ Pub. L. 110–417, [div. A], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as a
 
 "(k) Reports.—
 
-"(1) Interim reports.—Not later than June 1 of 2011, 2013, 2015, and 2017, the Secretary of each military department shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the implementation and current status of the pilot programs conducted by such Secretary under this section.
+"(1) Interim reports.—Not later than June 1 of 2011, 2013, 2015, 2017, and 2019, the Secretary of each military department shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the implementation and current status of the pilot programs conducted by such Secretary under this section.
 
-"(2) Final report.—Not later than March 1, 2019, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot programs conducted under this section.
+"(2) Final report.—Not later than March 1, 2023, the Secretary of Defense shall submit to the congressional defense committees a report on the pilot programs conducted under this section.
 
 "(3) Elements of report.—Each interim report and the final report under this subsection shall include the following:
 
@@ -168,6 +168,20 @@ Pub. L. 110–417, [div. A], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as a
 
 "(C) Such recommendations for legislative or administrative action as the Secretary concerned considers appropriate for the modification or continuation of the pilot programs.
 
+"(4) Additional elements for final report.—In addition to the elements required by paragraph (3), the final report under this subsection shall include the following:
+
+"(A) A description of the costs to each military department of each pilot program conducted under this section.
+
+"(B) A description of the reasons why members choose to participate in the pilot programs.
+
+"(C) A description of the members who did not return to active duty at the conclusion of their inactivation from active duty under the pilot programs, and a statement of the reasons why the members did not return to active duty.
+
+"(D) A statement whether members were required to perform inactive duty training as part of their participation in the pilot programs, and if so, a description of the members who were required to perform such inactive duty training, a statement of the reasons why the members were required to perform such inactive duty training, and a description of how often the members were required to perform such inactive duty training.
+
 "(l) Definition.—In this section, the term 'active Guard and Reserve duty' has the meaning given that term in section 101(d)(6) of title 10, United States Code.
 
-"(m) Duration of Program Authority.—No member of the Armed Forces may be released from active duty under a pilot program conducted under this section after December 31, 2015."
+"(m) Duration of Program Authority.—
+
+"(1) No member of the Armed Forces may be released from active duty under a pilot program conducted under this section after December 31, 2019.
+
+"(2) A member may not be reactivated to active duty in the Armed Forces under a pilot program conducted under this section after December 31, 2022."

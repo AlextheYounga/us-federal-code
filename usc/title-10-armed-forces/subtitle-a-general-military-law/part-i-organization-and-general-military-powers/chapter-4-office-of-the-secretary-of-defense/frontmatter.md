@@ -30,13 +30,7 @@ Sec.
 
 138. Assistant Secretaries of Defense.
 
-138a. Assistant Secretary of Defense for Logistics and Materiel Readiness.
-
-138b. Assistant Secretary of Defense for Research and Engineering.
-
-138c. Assistant Secretary of Defense for Operational Energy Plans and Programs.
-
-138d. Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
+[138a to 138d. Repealed.]
 
 139. Director of Operational Test and Evaluation.
 
@@ -54,13 +48,21 @@ Sec.
 
 141. Inspector General.
 
-[142. Renumbered.]
+142. Chief Information Officer.
 
 143. Office of the Secretary of Defense personnel: limitation.
 
 144. Director of Small Business Programs.
 
+#### Amendment of Analysis ####
+
+Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: "132a. Under Secretary of Defense for Business Management and Information."
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title IX, §901(l)(1)(B), (C), Dec. 19, 2014, 128 Stat. 3468, added item 142 and struck out items 138a "Assistant Secretary of Defense for Logistics and Materiel Readiness", 138b "Assistant Secretary of Defense for Research and Engineering", 138c "Assistant Secretary of Defense for Operational Energy Plans and Programs", and 138d "Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs".
+
+Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" in item 132a.
 
 **2013**—Pub. L. 112–239, div. A, title X, §1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b "Deputy Under Secretary of Defense for Logistics and Materiel Readiness".
 
@@ -125,3 +127,7 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 **1973**—Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, added items 138 and 139.
 
 **1972**—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted "Deputy Secretaries" for "Deputy Secretary" in item 134.
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1), which is on Feb. 1, 2017.

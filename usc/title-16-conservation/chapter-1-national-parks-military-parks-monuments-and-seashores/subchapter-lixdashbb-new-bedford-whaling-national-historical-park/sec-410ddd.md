@@ -76,7 +76,7 @@ To ensure that the contribution of Alaska Natives to the history of whaling in t
 
 #### (1) In general ####
 
-The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4)<sup><a href="#410ddd_2_target" name="410ddd_2">2</a></sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467).<sup><a href="#410ddd_2_target" name="410ddd_2">2</a></sup>
 
 #### (2) Cooperative agreements ####
 
@@ -104,7 +104,7 @@ The Secretary may accept donated funds, property, and services to carry out this
 
 #### (f) General management plan ####
 
-Not later than the end of the second fiscal year beginning after November 12, 1996, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 1a–7(b) of this title and other applicable law.
+Not later than the end of the second fiscal year beginning after November 12, 1996, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a general management plan for the park and shall implement such plan as soon as practically possible. The plan shall be prepared in accordance with section 100502 of title 54 and other applicable law.
 
 #### (g) Authorization of appropriations ####
 
@@ -123,6 +123,16 @@ In carrying out this section—
 (C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2) of this section.
 
 (Pub. L. 104–333, div. I, title V, §511, Nov. 12, 1996, 110 Stat. 4159; Pub. L. 106–176, title I, §111(a), Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–7, div. F, title I, §154, Feb. 20, 2003, 117 Stat. 246.)
+
+#### References in Text ####
+
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4), referred to in subsec. (e)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under section 100101 of Title 54 and Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (e)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the "Historic Sites, Buildings and Antiquities Act", which enacted sections 461 to 467 of this title. The Act was repealed and restated as sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, and section 1866(a) of Title 18, Crimes and Criminal Procedure, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+#### Codification ####
+
+In subsec. (f), "section 100502 of title 54" substituted for "section 12(b) of the Act of August 18, 1970 (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 
@@ -149,3 +159,5 @@ Subsec. (g)(2)(C). Pub. L. 106–176, §111(a)(5)(B), substituted "cooperative a
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 [<sup>1</sup> So in original. The word "and" probably should not appear.](#410ddd_1)
+
+[<sup>2</sup> See References in Text note below.](#410ddd_2)

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary ####
 
-Except as hereinafter provided, the Secretary shall administer the lands acquired for the park, and after establishment shall administer the park, in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+Except as hereinafter provided, the Secretary shall administer the lands acquired for the park, and after establishment shall administer the park, in accordance with the provisions of sections 1, 2, 3, and 4 <sup><a href="#160f_1_target" name="160f_1">1</a></sup> of this title, as amended and supplemented.
 
 #### (b) Preservation of area as a wilderness; study and report to President; procedure for designation as a wilderness ####
 
@@ -14,6 +14,12 @@ All mining and mineral activities and commercial water power development within 
 
 (Pub. L. 91–661, §301, Jan. 8, 1971, 84 Stat. 1972; Pub. L. 97–405, §1(3), Jan. 3, 1983, 96 Stat. 2029.)
 
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
 #### Amendments ####
 
 **1983**—Subsec. (b). Pub. L. 97–405 inserted provision directing the President to advise the Senate and House of Representatives no later than June 1, 1983, of his recommendation with respect to the suitability or nonsuitability as wilderness of any area within the park.
+
+[<sup>1</sup> See References in Text note below.](#160f_1)

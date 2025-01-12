@@ -12,7 +12,7 @@ At least once a year between February 1 and April 1, the Wyoming Game and Fish C
 
 #### References in Text ####
 
-This Act, referred to in subsecs. (a) and (b), is act Sept. 14, 1950, which is classified to sections 406d–1 to 406d–5, 531a, 451a, 482m, 673b, 673c of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a) and (b), is act Sept. 14, 1950, which is classified to sections 406d–1 to 406d–5, and 531a of this title, former section 451a of this title, and sections 482m, 673b, 673c of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Repeal of Inconsistent Laws ####
 

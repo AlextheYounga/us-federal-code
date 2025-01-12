@@ -4,7 +4,7 @@
 
 (b) Submittal of Matters by Accused to Convening Authority.—(1) The accused may submit to the convening authority matters for consideration by the convening authority with respect to the findings and the sentence of the military commission under this chapter.
 
-(2)(A) Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been give <sup><a href="#950b_1_target" name="950b_1">1</a></sup> an authenticated record of trial under section 949o(c) of this title.
+(2)(A) Except as provided in subparagraph (B), a submittal under paragraph (1) shall be made in writing within 20 days after the accused has been given an authenticated record of trial under section 949o(c) of this title.
 
 (B) If the accused shows that additional time is required for the accused to make a submittal under paragraph (1), the convening authority may, for good cause, extend the applicable period under subparagraph (A) for not more than an additional 20 days.
 
@@ -44,10 +44,12 @@
 
 (3) A rehearing may be ordered by the convening authority if the convening authority disapproves the findings and sentence and states the reasons for disapproval of the findings. If the convening authority disapproves the finding and sentence and does not order a rehearing, the convening authority shall dismiss the charges. A rehearing as to the findings may not be ordered by the convening authority when there is a lack of sufficient evidence in the record to support the findings. A rehearing as to the sentence may be ordered by the convening authority if the convening authority disapproves the sentence.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2599.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2599; amended Pub. L. 113–291, div. A, title X, §1071(f)(10), Dec. 19, 2014, 128 Stat. 3510.)
 
 #### Prior Provisions ####
 
 A prior section 950b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to review by the convening authority, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-[<sup>1</sup> So in original. Probably should read "given".](#950b_1)
+#### Amendments ####
+
+**2014**—Subsec. (b)(2)(A). Pub. L. 113–291 substituted "given" for "give".

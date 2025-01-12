@@ -106,11 +106,13 @@ Sec.
 
 2335. Prohibition on collection of political information.
 
-2336. Intergovernmental support agreements with State and local governments.
+[2336. Repealed.]
 
 2337. Life-cycle management and product support.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title III, §351(c)(1), Dec. 19, 2014, 128 Stat. 3347, struck out item 2336 "Intergovernmental support agreements with State and local governments".
 
 **2013**—Pub. L. 112–239, div. A, title III, §331(b), title VIII, §823(a)(2), Jan. 2, 2013, 126 Stat. 1697, 1832, added items 2336 and 2337.
 

@@ -16,7 +16,7 @@ Except for review by the Supreme Court on writ of certiorari, the United States 
 
 (C) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
-(D) the National Historic Preservation Act (16 U.S.C. 470 et seq.); and
+(D) chapter 2003 of title 54; <sup><a href="#720e_1_target" name="720e_1">1</a></sup> and
 
 (E) the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.).
 
@@ -28,7 +28,7 @@ A claim arising under this chapter may be brought not later than 60 days after t
 
 The United States Court of Appeals for the District of Columbia Circuit shall set any action brought under subsection (a) for expedited consideration, taking into account the national interest of enhancing national energy security by providing access to the significant gas reserves in Alaska needed to meet the anticipated demand for natural gas.
 
-(Pub. L. 108–324, div. C, §107, Oct. 13, 2004, 118 Stat. 1261; Pub. L. 111–11, title XIII, §13003, Mar. 30, 2009, 123 Stat. 1448.)
+(Pub. L. 108–324, div. C, §107, Oct. 13, 2004, 118 Stat. 1261; Pub. L. 111–11, title XIII, §13003, Mar. 30, 2009, 123 Stat. 1448; Pub. L. 113–287, §5(c), Dec. 19, 2014, 128 Stat. 3264.)
 
 #### References in Text ####
 
@@ -38,8 +38,6 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(3)(B), is Pub. L.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(3)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(3)(D), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
-
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (a)(3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
 #### Codification ####
@@ -48,4 +46,8 @@ Section is comprised of section 107 of Pub. L. 108–324. Subsec. (d) of section
 
 #### Amendments ####
 
+**2014**—Subsec. (a)(3)(D). Pub. L. 113–287, which directed the substitution of "chapter 2003 of title 54" for "the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)" in section 1072(a)(3)(D) of the Alaska Natural Gas Pipeline Act, was executed to this section, which is section 107 of the Alaska Natural Gas Pipeline Act, to reflect the probable intent of Congress.
+
 **2009**—Subsec. (a)(3). Pub. L. 111–11 added par. (3) and struck out former par. (3) which read as follows: "the adequacy of any environmental impact statement prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any action under this chapter."
+
+[<sup>1</sup> So in original. Probably should be "division A of subtitle III of title 54;".](#720e_1)

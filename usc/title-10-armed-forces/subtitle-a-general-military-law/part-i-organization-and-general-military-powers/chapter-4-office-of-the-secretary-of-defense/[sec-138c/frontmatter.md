@@ -1,0 +1,3 @@
+### [§138c. Repealed. Pub. L. 113–291, div. A, title IX, §901(g)(2), Dec. 19, 2014, 128 Stat. 3466] ###
+
+Section, added Pub. L. 110–417, [div. A], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564, §139b; renumbered §138c and amended Pub. L. 111–383, div. A, title IX, §901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title X, §1076(f)(3), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–66, div. A, title III, §311, Dec. 26, 2013, 127 Stat. 728; Pub. L. 113–291, div. A, title IX, §901(g)(1)(B), (D), Dec. 19, 2014, 128 Stat. 3464, 3465, related to Assistant Secretary of Defense for Operational Energy Plans and Programs.

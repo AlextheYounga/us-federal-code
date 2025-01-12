@@ -12,7 +12,7 @@ The Secretary is authorized to—
 
 #### References in Text ####
 
-Act of June 7, 1974, referred to in par. (3), is Pub. L. 93–303, June 7, 1974, 88 Stat. 192, which amended sections 460l–6a, 460l–8, and 460l–10a of this title. For complete classification of this Act to the Code, see Tables.
+Act of June 7, 1974, referred to in par. (3), is Pub. L. 93–303, June 7, 1974, 88 Stat. 192, which amended former sections 460l–6a, 460l–8, and 460l–10a of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 

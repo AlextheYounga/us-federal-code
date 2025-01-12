@@ -4,7 +4,7 @@
 
 In this section—
 
-(1) the term "Chief Acquisition Officer" means the employee of a Federal agency designated as the Chief Acquisition Officer for the Federal agency under section 1702(a) of title 41;
+(1) the term "Chief Acquisition Officer" means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under section section 1702(a) of title 41;
 
 (2) the term "consolidation of contract requirements", with respect to contract requirements of a Federal agency, means a use of a solicitation to obtain offers for a single contract or a multiple award contract—
 
@@ -56,19 +56,17 @@ The benefits considered for the purposes of paragraphs (1) and (2) may include c
 
 (D) any other benefit.
 
-(Pub. L. 85–536, §2[44], as added Pub. L. 111–240, title I, §1313(a)(2), Sept. 27, 2010, 124 Stat. 2538; amended Pub. L. 112–239, div. A, title XVI, §1671(a), (b), (c)(2), Jan. 2, 2013, 126 Stat. 2084, 2085.)
-
-#### Codification ####
-
-In subsec. (a)(1), "section 1702(a) of title 41" substituted for "section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (a)(3), "section 1702(c) of title 41" substituted for "section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+(Pub. L. 85–536, §2[44], as added Pub. L. 111–240, title I, §1313(a)(2), Sept. 27, 2010, 124 Stat. 2538; amended Pub. L. 112–239, div. A, title XVI, §1671(a), (b), (c)(2), Jan. 2, 2013, 126 Stat. 2084, 2085; Pub. L. 113–291, div. A, title VIII, §822(b), Dec. 19, 2014, 128 Stat. 3436.)
 
 #### Prior Provisions ####
 
 A prior section 2[44] of Pub. L. 85–536 was renumbered section 2[47] and is set out as a note under section 631 of this title.
 
 #### Amendments ####
+
+**2014**—Subsec. (a)(1). Pub. L. 113–291, §822(b)(1), inserted "appointed or" before "designated" and substituted "section 1702(a) of title 41" for "section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(a))".
+
+Subsec. (a)(3). Pub. L. 113–291, §822(b)(2), substituted "section 1702(c) of title 41" for "section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))".
 
 **2013**—Subsec. (a)(2). Pub. L. 112–239, §1671(a), substituted "or a multiple award contract—" and subpars. (A) and (B) for "or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and".
 

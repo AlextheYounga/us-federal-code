@@ -26,7 +26,7 @@ The map of the Historical Park shall be on file and available for public inspect
 
 #### (1) In general ####
 
-The Secretary shall administer the Historical Park in accordance with this section and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the Historical Park in accordance with this section and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 <sup><a href="#410mmm_1_target" name="410mmm_1">1</a></sup> of this title and sections 461 to 467 <sup><a href="#410mmm_1_target" name="410mmm_1">1</a></sup> of this title.
 
 #### (2) Acquisition of property ####
 
@@ -54,6 +54,14 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 (Pub. L. 111–11, title VII, §7110, Mar. 30, 2009, 123 Stat. 1198.)
 
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (c)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
 #### Codification ####
 
-Section is comprised of section 7110 of Pub. L. 111–11. Subsec. (c)(4) of section 7110 of Pub. L. 111–11 repealed Pub. L. 87–628, which enacted provisions listed in a table of National Historic Sites set out under section 461 of this title.
+Section is comprised of section 7110 of Pub. L. 111–11. Subsec. (c)(4) of section 7110 of Pub. L. 111–11 repealed Pub. L. 87–628, which enacted provisions listed in a table of National Historic Sites set out under section 320101 of Title 54, National Park Service and Related Programs.
+
+[<sup>1</sup> See References in Text note below.](#410mmm_1)

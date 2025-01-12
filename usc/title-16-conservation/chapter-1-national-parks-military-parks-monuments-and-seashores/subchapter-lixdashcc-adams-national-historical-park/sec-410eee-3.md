@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+The park shall be administered by the Secretary in accordance with this section and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, 4,<sup><a href="#410eee-3_1_target" name="410eee-3_1">1</a></sup> and 461 to 467 <sup><a href="#410eee-3_1_target" name="410eee-3_1">1</a></sup> of this title.
 
 #### (b) Cooperative agreements ####
 
@@ -22,6 +22,14 @@ Any reference in any law (other than this subchapter), regulation, document, rec
 
 (Pub. L. 105–342, §5, Nov. 2, 1998, 112 Stat. 3201.)
 
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
 #### Codification ####
 
 Section is comprised of section 5 of Pub. L. 105–342. Subsec. (d) of section 5 of Pub. L. 105–342 amended section 312 of Pub. L. 95–625 and the first section of Pub. L. 96–435, which are not classified to the Code.
+
+[<sup>1</sup> See References in Text note below.](#410eee-3_1)

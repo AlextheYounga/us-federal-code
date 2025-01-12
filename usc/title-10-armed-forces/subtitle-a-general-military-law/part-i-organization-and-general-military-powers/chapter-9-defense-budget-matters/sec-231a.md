@@ -30,7 +30,7 @@
 
 (11) Any other major support aircraft designated by the Secretary of Defense for purposes of this section.
 
-(c) Annual Aircraft Procurement Plan.—(1) The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a),<sup><a href="#231a_1_target" name="231a_1">1</a></sup> except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
+(c) Annual Aircraft Procurement Plan.—(1) The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 3043), except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
 
 (2) Each annual aircraft procurement plan shall include the following:
 
@@ -96,13 +96,11 @@
 
 (2) The term "Quadrennial Defense Review" means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 of this title.
 
-(Added Pub. L. 110–417, [div. A], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, §1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591; Pub. L. 113–66, div. A, title X, §1091(a)(5), Dec. 26, 2013, 127 Stat. 875.)
-
-#### References in Text ####
-
-The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 110–417, [div. A], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, §1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591; Pub. L. 113–66, div. A, title X, §1091(a)(5), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508.)
 
 #### Amendments ####
+
+**2014**—Subsec. (c)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
 
 **2013**—Subsec. (a). Pub. L. 113–66 substituted "fiscal year, the Secretary of Defense" for "fiscal year of Defense" in introductory provisions.
 
@@ -135,5 +133,3 @@ Subsec. (d). Pub. L. 112–81, §1069(a)(4), inserted ", the Department of the 
 Subsec. (e). Pub. L. 112–81, §1069(a)(6), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 112–81, §1069(a)(5), (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "The term 'defense budget materials', with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year."
-
-[<sup>1</sup> See References in Text note below.](#231a_1)

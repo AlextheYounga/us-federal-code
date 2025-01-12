@@ -1,5 +1,3 @@
-### §19i. Corporate succession; powers and duties of trustee; suits; personal liability for malfeasance ###
+### §19i. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-The Foundation shall have perpetual succession, with all the usual powers and obligations of a corporation acting as a trustee, including the power to sue and to be sued in its own name, but the members of the Board shall not be personally liable, except for malfeasance.
-
-(Pub. L. 90–209, §5, Dec. 18, 1967, 81 Stat. 657.)
+Section, Pub. L. 90–209, §5, Dec. 18, 1967, 81 Stat. 657, related to corporate succession and powers. See section 101115 of Title 54, National Park Service and Related Programs.

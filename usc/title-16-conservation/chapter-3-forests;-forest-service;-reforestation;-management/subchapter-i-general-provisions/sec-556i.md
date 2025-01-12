@@ -6,7 +6,7 @@ None of the funds made available to the Forest Service in this Act or any other 
 
 #### References in Text ####
 
-This Act, referred to in text, Pub. L. 113–235, div. F, Dec. 16, 2014, 128 Stat. 2396, known as the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 113–235, div. F, Dec. 16, 2014, 128 Stat. 2396, known as the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015. For complete classification of this Act to the Code, see Tables.
 
 Section 8316(b) of title 7, referred to in text, was in the original "section 10417(b) of Public Law 107–107 (7 U.S.C. 8316(b))" which was translated as meaning section 10417(b) of Pub. L. 107–171 to reflect the probable intent of Congress.
 

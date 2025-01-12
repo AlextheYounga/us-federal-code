@@ -14,7 +14,7 @@ Employees of the Hospital directly affected by the assumption of programs and fu
 
 (1) While on the retention list or the District or Federal agency reemployment priority list, the system implementation plan shall provide to Hospital employees a right-of-first-refusal to District employment in positions for which such employees may qualify, (A) created under the system implementation plan in the comprehensive District mental health system, (B) available under the Department of Human Services of the District, and (C) available at the District of Columbia General Hospital.
 
-(2) In accordance with Federal regulations, the Secretary shall establish retention registers of Hospital employees and provide such retention registers to the District government. Employment in positions identified in the system implementation plan under subsection (b) of this section shall be offered to Hospital employees by the District government according to each such employee's relative standing on the retention registers.
+(2) In accordance with Federal regulations, the Secretary shall establish retention registers of Hospital employees and provide such retention registers to the District government. Employment in positions identified in the system implementation plan under subsection (b) shall be offered to Hospital employees by the District government according to each such employee's relative standing on the retention registers.
 
 (3) Employee appeals concerning the retention registers established by the Secretary shall be in accordance with Federal regulations.
 
@@ -28,13 +28,13 @@ Employees of the Hospital directly affected by the assumption of programs and fu
 
 (3) A Federal agency reemployment priority list and a displaced employees program shall be maintained for employees of the Hospital by the Secretary and the Office of Personnel Management in accordance with Federal regulations for Federal employees separated by reduction-in-force procedures.
 
-(4) The Mayor shall create and maintain, in consultation with the Secretary, a District agency reemployment priority list of those employees of the Hospital on the retention registers who are not offered employment under subsection (c) of this section. Individuals who refuse an offer of employment under subsection (c) of this section shall be ineligible for inclusion on the District agency reemployment priority list. Such reemployment priority list shall be administered in accordance with procedures established pursuant to the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (D.C. Law 2–139).
+(4) The Mayor shall create and maintain, in consultation with the Secretary, a District agency reemployment priority list of those employees of the Hospital on the retention registers who are not offered employment under subsection (c). Individuals who refuse an offer of employment under subsection (c) shall be ineligible for inclusion on the District agency reemployment priority list. Such reemployment priority list shall be administered in accordance with procedures established pursuant to the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (D.C. Law 2–139).
 
 (5) Acceptance of nontemporary employment as a result of referral from any retention list or agency reemployment priority list shall automatically terminate an individual's severance pay as of the effective date of such employment.
 
 #### (e) Contracts; mental health services; preferences ####
 
-Any contract entered into by the District of Columbia for the provision of mental health services formerly provided by or at the Hospital shall require the contractor or provider, in filling new positions created to perform under the contract, to give preference to qualified candidates on the District agency reemployment priority list created pursuant to subsection (d) of this section. An individual who is offered nontemporary employment with a contractor shall have his or her name remain on the District agency reemployment priority list under subsection (d) of this section for not more than 24 months from the date of acceptance of such employment.
+Any contract entered into by the District of Columbia for the provision of mental health services formerly provided by or at the Hospital shall require the contractor or provider, in filling new positions created to perform under the contract, to give preference to qualified candidates on the District agency reemployment priority list created pursuant to subsection (d) of this section. An individual who is offered nontemporary employment with a contractor shall have his or her name remain on the District agency reemployment priority list under subsection (d) for not more than 24 months from the date of acceptance of such employment.
 
 (Pub. L. 98–621, §6, Nov. 8, 1984, 98 Stat. 3374.)
 

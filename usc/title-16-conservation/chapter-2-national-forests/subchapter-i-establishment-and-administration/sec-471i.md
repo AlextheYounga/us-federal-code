@@ -126,7 +126,7 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 (1)(A) During the development of the management plan, the Secretary is authorized to make grants to the State of New Jersey for the acquisition of lands and waters or interests therein within the Pinelands National Reserve that he determines, in consultation with the State planning entity, have critical ecological values which are in immediate danger of being adversely affected or destroyed.
 
-(B) The grants authorized by subsection (h)(1)(A) of this section together with the grants made under paragraph (4) of this subsection, shall (i) be made in a manner consistent with the requirements of the Land and Water Conservation Fund Act [16 U.S.C. 460l–4 et seq.]; (ii) not exceed 75 percent of the total cost of all property acquired by the State pursuant to this subsection; (iii) be supplemental to any other Federal financial assistance for any other program; and (iv) be subject to such additional terms and conditions as the Secretary may deem necessary to effectuate the purposes of this section.
+(B) The grants authorized by subsection (h)(1)(A) of this section together with the grants made under paragraph (4) of this subsection, shall (i) be made in a manner consistent with the requirements of chapter 2003 of title 54; (ii) not exceed 75 percent of the total cost of all property acquired by the State pursuant to this subsection; (iii) be supplemental to any other Federal financial assistance for any other program; and (iv) be subject to such additional terms and conditions as the Secretary may deem necessary to effectuate the purposes of this section.
 
 (2) In the event the State elects not to make acquisitions as authorized under subsection (h)(1) of this section, the Secretary, during the development of the management plan, is authorized to acquire such lands, waters or interests therein by donation, purchase with donated or appropriated funds, exchange, or otherwise, and to administer such property under the laws generally applicable to units of the National Park System or National Wildlife Refuge System in a manner to carry out the purposes of this section.
 
@@ -186,7 +186,7 @@ The Secretary shall study the Pinelands Municipal Council, and submit to the Con
 
 The Secretary may enter into such contracts and agreements with the State of New Jersey and other public and private entities as may be necessary and appropriate to carry out the authorities and responsibilities of the Secretary under this subsection. For purposes of this subsection, there is authorized to be appropriated not more than $500,000 to prepare and complete the study pursuant to paragraph (1) and $3,000,000 to implement the recommendations of such study upon its approval by the Congress, the Federal share of which may not exceed 75 percent of the total cost.
 
-(Pub. L. 95–625, title V, §502, Nov. 10, 1978, 92 Stat. 3492; Pub. L. 100–486, Oct. 13, 1988, 102 Stat. 2429.)
+(Pub. L. 95–625, title V, §502, Nov. 10, 1978, 92 Stat. 3492; Pub. L. 100–486, Oct. 13, 1988, 102 Stat. 2429; Pub. L. 113–287, §5(d)(10), Dec. 19, 2014, 128 Stat. 3265.)
 
 #### References in Text ####
 
@@ -194,13 +194,13 @@ The Clean Water Act, referred to in subsec. (f)(9), is act June 30, 1948, ch. 75
 
 The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Land and Water Conservation Fund Act, referred to in subsec. (h)(1)(B), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
-
 The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 Enactment of this Act, referred to in subsec. (k)(2), probably means date of enactment of Pub. L. 100–486, which enacted subsec. (k)(2) of this section and which was approved Oct. 13, 1988.
 
 #### Amendments ####
+
+**2014**—Subsec. (h)(1)(B). Pub. L. 113–287, which directed substitution of "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act" in section 502 of the National Parks and Recreation Act of 1998, was executed to this section, which is section 502 of the National Parks and Recreation Act of 1978, to reflect the probable intent of Congress.
 
 **1988**—Subsec. (k). Pub. L. 100–486, §2, designated existing provisions as par. (1) and added par. (2).
 

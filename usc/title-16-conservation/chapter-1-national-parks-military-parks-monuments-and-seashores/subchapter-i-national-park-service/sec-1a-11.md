@@ -1,11 +1,3 @@
-### §1a–11. Contents of report ###
+### §1a–11. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 327 ###
 
-The report shall contain—
-
-(a) A comprehensive listing of all authorized but unacquired lands within the exterior boundaries of each unit of the National Park System as of November 28, 1990.
-
-(b) A priority listing of all such unacquired parcels by individual park unit and for the National Park System as a whole. The list shall describe the acreage and ownership of each parcel, the estimated cost of acquisition for each parcel (subject to any statutory acquisition limitations for such lands), and the basis for such estimate.
-
-(c) An analysis and evaluation of the current and future needs of each unit of the National Park System for resource management, interpretation, construction, operation and maintenance, personnel, housing, together with an estimate of the costs thereof.
-
-(Pub. L. 101–628, title XII, §1215, Nov. 28, 1990, 104 Stat. 4508.)
+Section, Pub. L. 101–628, title XII, §1215, Nov. 28, 1990, 104 Stat. 4508, related to contents of the report on the periodic review of the National Park System. See section 100505(c) of Title 54, National Park Service and Related Programs.

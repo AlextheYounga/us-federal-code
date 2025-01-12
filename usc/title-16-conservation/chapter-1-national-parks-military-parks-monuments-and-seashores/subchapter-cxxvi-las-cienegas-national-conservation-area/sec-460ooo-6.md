@@ -33,3 +33,7 @@ All Federal agencies are authorized to transfer jurisdiction of Federal lands or
 Lands acquired under this section shall, upon acquisition, become part of the Conservation Area and shall be administered as part of the Conservation Area. These lands shall be managed in accordance with this subchapter, other applicable laws, and the management plan.
 
 (Pub. L. 106–538, §7, Dec. 6, 2000, 114 Stat. 2567.)
+
+#### Land Exchange and Conservation in Arizona ####
+
+For provisions relating to land exchange and conservation in southeastern Arizona, see section 539p of this title.

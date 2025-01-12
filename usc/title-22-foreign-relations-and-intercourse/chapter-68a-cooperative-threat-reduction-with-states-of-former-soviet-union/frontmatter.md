@@ -4,32 +4,16 @@ Sec.
 
 5951. Findings on cooperative threat reduction.
 
-5952. Authority for programs to facilitate cooperative threat reduction.
-
-5953. Demilitarization Enterprise Fund.
+5952, 5953. Repealed.
 
 5954. Funding for fiscal year 1994.
 
-5955. Prior notice to Congress of obligation of funds.
-
-5956. Repealed.
-
-5957. "Appropriate congressional committees" defined.
+5955 to 5957. Repealed.
 
 5958. Authorization for additional fiscal year 1993 assistance to independent states of the former Soviet Union.
 
-5959. Reports on activities and assistance under cooperative threat reduction programs.
-
-5960. Limitation on use of funds until certain permits obtained.
-
-5961. Requirement for on-site managers.
+5959 to 5961. Repealed.
 
 5961a. Requirement for on-site managers.
 
-5962. Annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities.
-
-5963. Authority to use Cooperative Threat Reduction funds outside the former Soviet Union.
-
-5964. Metrics for the Cooperative Threat Reduction Program.
-
-5965. Cooperative Threat Reduction Program authority for urgent threat reduction activities.
+5962 to 5965. Repealed.

@@ -24,7 +24,7 @@ A map with the legal description shall be on file and available for public inspe
 
 #### (1) In general ####
 
-The Secretary shall manage the Park for the purpose of preserving and interpreting the Battles of the River Raisin in accordance with sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall manage the Park for the purpose of preserving and interpreting the Battles of the River Raisin in accordance with sections 1, 2, 3, and 4 <sup><a href="#430vv_1_target" name="430vv_1">1</a></sup> of this title and sections 461 to 467 of this title.
 
 #### (2) General management plan ####
 
@@ -61,3 +61,11 @@ Not later than 3 years after March 30, 2009, the Secretary shall submit to the C
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 (Pub. L. 111–11, title VII, §7003, Mar. 30, 2009, 123 Stat. 1188.)
+
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
+[<sup>1</sup> See References in Text note below.](#430vv_1)

@@ -1,5 +1,3 @@
-### §470e. Recordkeeping; recipients of assistance; audit ###
+### §470e. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-The beneficiary of assistance under this subchapter shall keep such records as the Secretary shall prescribe, including records which fully disclose the disposition by the beneficiary of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount and nature of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
-
-(Pub. L. 89–665, title I, §105, Oct. 15, 1966, 80 Stat. 917.)
+Section, Pub. L. 89–665, title I, §105, Oct. 15, 1966, 80 Stat. 917, related to recordkeeping. See section 302910 of Title 54, National Park Service and Related Programs.

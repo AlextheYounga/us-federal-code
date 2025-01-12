@@ -68,7 +68,7 @@ Nothing in this section shall be construed to affect any additional or alternati
 
 #### References in Text ####
 
-This Act, referred to in subsecs. (a), (b), (g)(3)(B), and (h), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended sections 1a–1, 79b, and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b), (g)(3)(B), and (h), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification ####
 

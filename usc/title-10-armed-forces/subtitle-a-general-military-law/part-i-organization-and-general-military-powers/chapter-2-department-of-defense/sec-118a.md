@@ -6,7 +6,7 @@
 
 (b) Conduct of Review.—Each quadrennial quality of life review shall be conducted so as—
 
-(1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a); <sup><a href="#118a_1_target" name="118a_1">1</a></sup>
+(1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 3043);
 
 (2) to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessary to encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
 
@@ -50,14 +50,12 @@
 
 (2) The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31.
 
-(Added Pub. L. 107–314, div. A, title V, §581(a)(1), Dec. 2, 2002, 116 Stat. 2559.)
+(Added Pub. L. 107–314, div. A, title V, §581(a)(1), Dec. 2, 2002, 116 Stat. 2559; amended Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508.)
 
-#### References in Text ####
+#### Amendments ####
 
-The National Security Act of 1947, referred to in subsec. (b)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
+**2014**—Subsec. (b)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
 
 #### First Quadrennial Quality of Life Review ####
 
 Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
-
-[<sup>1</sup> See References in Text note below.](#118a_1)

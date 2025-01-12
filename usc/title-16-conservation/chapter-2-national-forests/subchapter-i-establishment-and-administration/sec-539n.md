@@ -134,9 +134,9 @@ On the date of acquisition, any land acquired under subparagraph (A) shall be in
 
 Section 1206(a)(2), referred to in par. (1)(A), is section 1206(a)(2) of Pub. L. 111–11, title I, Mar. 30, 2009, 123 Stat. 1018, which is not classified to the Code.
 
-Section 1202, referred to in par. (1)(B), is section 1202 of Pub. L. 111–11, which enacted provisions listed in a table of National Memorials set out under section 431 of this title and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title.
+Section 1202, referred to in par. (1)(B), is section 1202 of Pub. L. 111–11, which enacted provisions listed in a table of National Memorials set out under section 320301 of Title 54, National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title.
 
-This subtitle, referred to in par. (3)(B), is subtitle C (§§1201–1207) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1007, which enacted this section and subchapter CXXXII of chapter 1 of this title, amended sections 544k and 1274 of this title, enacted provisions set out as notes under sections 460uuu and 1274 of this title, enacted provisions listed in a table of National Memorials set out under section 431 of this title, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle C to the Code, see Tables.
+This subtitle, referred to in par. (3)(B), is subtitle C (§§1201–1207) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1007, which enacted this section and subchapter CXXXII of chapter 1 of this title, amended sections 544k and 1274 of this title, enacted provisions set out as notes under sections 460uuu and 1274 of this title, enacted provisions listed in a table of National Memorials set out under section 320301 of Title 54, National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle C to the Code, see Tables.
 
 #### Definitions ####
 

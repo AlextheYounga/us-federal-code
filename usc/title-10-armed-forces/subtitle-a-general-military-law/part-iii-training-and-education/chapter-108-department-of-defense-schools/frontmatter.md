@@ -48,9 +48,9 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 
 **1990**—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted "DEPARTMENT OF DEFENSE SCHOOLS" for "GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS" as chapter heading and added item 2162.
 
-#### Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations ####
+#### Daniel K. Inouye Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations ####
 
-Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, provided that: "During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: *Provided*, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center."
+Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, as amended by Pub. L. 113–291, div. B, title XXVIII, §2861(c), Dec. 19, 2014, 128 Stat. 3716, provided that: "During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Daniel K. Inouye Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: *Provided*, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center."
 
 Similar provisions were contained in the following prior appropriation acts:
 

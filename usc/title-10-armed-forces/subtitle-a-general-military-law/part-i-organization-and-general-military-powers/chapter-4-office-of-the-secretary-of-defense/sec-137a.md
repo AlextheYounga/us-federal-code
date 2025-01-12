@@ -4,7 +4,9 @@
 
 (2) The Principal Deputy Under Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
-(b) Each Principal Deputy Under Secretary of Defense shall be the first assistant to an Under Secretary of Defense and shall assist such Under Secretary in the performance of the duties of the position of such Under Secretary and shall act for, and exercise the powers of, such Under Secretary when such Under Secretary is absent or disabled.
+(3) The officials authorized under this section shall be the only Deputy Under Secretaries of Defense.
+
+(b) Each Principal Deputy Under Secretary of Defense shall be the first assistant to an Under Secretary of Defense and shall assist such Under Secretary in the performance of the duties of the position of such Under Secretary and shall act for, and exercise the powers of, such Under Secretary when such Under Secretary dies, resigns, or is otherwise unable to perform the functions and duties of the office.
 
 (c)(1) One of the Principal Deputy Under Secretaries is the Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -18,9 +20,19 @@
 
 (d) The Principal Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense. The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325.)
+(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468.)
+
+#### Amendment of Subsection (d) ####
+
+Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that, effective Feb. 1, 2017, subsection (d) of this section is amended in the first sentence by striking all that follows after "the military departments," and inserting "and the Under Secretaries of Defense." See 2014 Amendment note below.
 
 #### Amendments ####
+
+**2014**—Subsec. (a)(3). Pub. L. 113–291, §901(i)(1), added par. (3).
+
+Subsec. (b). Pub. L. 113–291, §901(k)(3), substituted "dies, resigns, or is otherwise unable to perform the functions and duties of the office" for "is absent or disabled".
+
+Subsec. (d). Pub. L. 113–291, §901(j)(2)(C), substituted "and the Under Secretaries of Defense." for "the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense."
 
 **2011**—Pub. L. 111–383, §901(k)(1)(A), substituted "Principal Deputy Under Secretaries of Defense" for "Deputy Under Secretaries of Defense" in section catchline.
 
@@ -42,6 +54,12 @@ Subsec. (c)(5). Pub. L. 111–383, §901(b)(3)(C)(i), (iii), (iv), substituted "
 
 Subsec. (d). Pub. L. 111–383, §901(b)(3)(A), (D), substituted "Principal Deputy Under" for "Deputy Under" and inserted at end "The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense."
 
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–291, div. A, title IX, §901(i)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment by section 901(i)(1) is effective Jan. 1, 2015.
+
+Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment by section 901(j)(2)(C) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
+
 #### Effective Date of 2011 Amendment ####
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
@@ -50,7 +68,7 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 Pub. L. 111–84, div. A, title IX, §906(e), Oct. 28, 2009, 123 Stat. 2428, provided that:
 
-"(1) In general.—Notwithstanding the amendments made by this section [enacting this section and amending sections 133a, 134a, 136a, 138, and 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act [Oct. 28, 2009] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act.
+"(1) In general.—Notwithstanding the amendments made by this section [enacting this section and amending sections 133a, 134a, 136a, 138, and former 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act [Oct. 28, 2009] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act.
 
 "(2) Covered positions.—The positions specified in this paragraph are the following:
 
@@ -64,4 +82,6 @@ Pub. L. 111–383, div. A, title IX, §901(i)(2), Jan. 7, 2011, 124 Stat. 4323, 
 
 #### Delayed Limitation on Number of Deputy Under Secretaries of Defense ####
 
-Pub. L. 111–84, div. A, title IX, §906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, §901(i)(1), Jan. 7, 2011, 124 Stat. 4323, provided that: "Effective as of January 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as added by paragraph (1)), shall be the only Deputy Under Secretaries of Defense."
+Pub. L. 111–84, div. A, title IX, §906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, §901(i)(1), Jan. 7, 2011, 124 Stat. 4323, which provided that, effective Jan. 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10 would be the only Deputy Under Secretaries of Defense, was repealed by Pub. L. 113–291, div. A, title IX, §901(i)(2), Dec. 19, 2014, 128 Stat. 3467.
+
+[Pub. L. 113–291, div. A, title IX, §901(i)(2), Dec. 19, 2014, 128 Stat. 3467, provided that section 901(i)(2), which repealed section 906(a)(2) of Pub. L. 111–84, formerly set out above, is effective on the effective date specified in section 901(i)(1) of Pub. L. 113–291, which is Jan. 1, 2015.]

@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title, sections 461 to 467 of this title, and the National Historic Preservation Act [16 U.S.C. 470 et seq.]. The Secretary shall manage the park in such manner as will preserve and perpetuate knowledge and understanding of American maritime history and to provide for public understanding and enjoyment of maritime history.
+The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 <sup><a href="#410nn-1_1_target" name="410nn-1_1">1</a></sup> of this title, sections 461 to 467 <sup><a href="#410nn-1_1_target" name="410nn-1_1">1</a></sup> of this title, and the National Historic Preservation Act.<sup><a href="#410nn-1_1_target" name="410nn-1_1">1</a></sup> The Secretary shall manage the park in such manner as will preserve and perpetuate knowledge and understanding of American maritime history and to provide for public understanding and enjoyment of maritime history.
 
 #### (b) Donations ####
 
@@ -26,7 +26,7 @@ Within 2 years after establishment of the park, the Secretary shall prepare and 
 
 (3) plans for the location, preliminary design, and estimated cost of public facilities to be developed for the park, including a museum building, visitor parking, and public transit access; and
 
-(4) Plans <sup><a href="#410nn-1_1_target" name="410nn-1_1">1</a></sup> for the interpretation of the historic vessels and park collections.
+(4) Plans <sup><a href="#410nn-1_2_target" name="410nn-1_2">2</a></sup> for the interpretation of the historic vessels and park collections.
 
 (Pub. L. 100–348, §3, June 27, 1988, 102 Stat. 655.)
 
@@ -34,10 +34,16 @@ Within 2 years after establishment of the park, the Secretary shall prepare and 
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 410nn of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
+The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title prior to the enactment of Title 54. See 54 U.S.C. 300101 et seq.
 
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-[<sup>1</sup> So in original. Probably should not be capitalized.](#410nn-1_1)
+[<sup>1</sup> See References in Text note below.](#410nn-1_1)
+
+[<sup>2</sup> So in original. Probably should not be capitalized.](#410nn-1_2)

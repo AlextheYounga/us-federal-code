@@ -6,7 +6,7 @@ For fiscal year 2014 and each fiscal year thereafter, the Secretary of Agricultu
 
 #### (b) Deposit of fees ####
 
-Subject to subsections (a) and (f), each fiscal year, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 185(l) of title 30, section 1764(g) of title 43, section 9701 of title 31, and section 470h–2(g) of this title.
+Subject to subsections (a) and (f), each fiscal year, the Secretary of Agriculture shall deposit into a special account established in the Treasury all fees collected by the Secretary to recover the costs of processing applications for, and monitoring compliance with, authorizations to use and occupy National Forest System lands pursuant to section 185(l) of title 30, section 1764(g) of title 43, section 9701 of title 31, and section 306109 of title 54.
 
 #### (c) Use of retained amounts ####
 
@@ -29,6 +29,8 @@ This section shall take effect upon promulgation of Forest Service regulations f
 #### Codification ####
 
 Section was formerly set out as a note under section 497 of this title.
+
+In subsec. (b), "section 306109 of title 54" substituted for "section 470h–2(g) of this title" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 

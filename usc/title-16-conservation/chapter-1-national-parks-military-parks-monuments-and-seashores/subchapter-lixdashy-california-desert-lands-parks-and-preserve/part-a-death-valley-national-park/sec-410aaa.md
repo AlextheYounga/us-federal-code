@@ -228,4 +228,8 @@ Pub. L. 103–433, §2, Oct. 31, 1994, 108 Stat. 4471, provided that:
 
 "(E) retain and enhance opportunities for scientific research in undisturbed ecosystems."
 
+#### Removal of Feral Burros and Horses From Death Valley National Monument ####
+
+Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1384, provided in part: "That in fiscal year 1993 and thereafter, the National Park Service may use helicopters and motorized equipment at Death Valley National Monument for removal of feral burros and horses".
+
 [<sup>1</sup> So in original. Probably should be "and".](#410aaa_1)

@@ -44,7 +44,7 @@ Notwithstanding subsection (h) of this section, the Secretary is authorized to a
 
 #### (1) In general ####
 
-The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
+The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 <sup><a href="#460kkk_1_target" name="460kkk_1">1</a></sup> of this title and sections 461 to 467 <sup><a href="#460kkk_1_target" name="460kkk_1">1</a></sup> of this title as amended and supplemented and in accordance with the integrated management plan specified in subsection (f) of this section.
 
 #### (2) State and local jurisdiction ####
 
@@ -106,7 +106,7 @@ The Partnership shall be composed of 13 members, as follows:
 
 (A) One individual, appointed by the Secretary, to represent the National Park Service.
 
-(B) One individual, appointed by the Commandant of the Coast Guard.. <sup><a href="#460kkk_1_target" name="460kkk_1">1</a></sup>
+(B) One individual, appointed by the Commandant of the Coast Guard.. <sup><a href="#460kkk_2_target" name="460kkk_2">2</a></sup>
 
 (C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of Environmental Management and the Metropolitan District Commission.
 
@@ -272,6 +272,10 @@ Amounts appropriated in any fiscal year to carry out this section may only be ex
 
 #### References in Text ####
 
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (d)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (d)(1), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
@@ -312,4 +316,6 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(8) is effective with enactment of Pub. L. 109–241.
 
-[<sup>1</sup> So in original.](#460kkk_1)
+[<sup>1</sup> See References in Text note below.](#460kkk_1)
+
+[<sup>2</sup> So in original.](#460kkk_2)

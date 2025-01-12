@@ -1,0 +1,27 @@
+### §§1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations ###
+
+(a) In General.—For purposes of the award of the Purple Heart, the Secretary concerned shall treat a member of the armed forces described in subsection (b) in the same manner as a member who is killed or wounded as a result of an international terrorist attack against the United States.
+
+(b) Covered Members.—(1) A member described in this subsection is a member on active duty who was killed or wounded in an attack by a foreign terrorist organization in circumstances where the death or wound is the result of an attack targeted on the member due to such member's status as a member of the armed forces, unless the death or wound is the result of willful misconduct of the member.
+
+(2) For purposes of this section, an attack by an individual or entity shall be considered to be an attack by a foreign terrorist organization if—
+
+(A) the individual or entity was in communication with the foreign terrorist organization before the attack; and
+
+(B) the attack was inspired or motivated by the foreign terrorist organization.
+
+(c) Foreign Terrorist Organization Defined.—In this section, the term "foreign terrorist organization" means an entity designated as a foreign terrorist organization by the Secretary of State pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+
+(Added Pub. L. 113–291, div. A, title V, §571(a)(1)(A), Dec. 19, 2014, 128 Stat. 3387.)
+
+#### Retroactive Effective Date and Application ####
+
+Pub. L. 113–291, div. A, title V, §571(a)(2), Dec. 19, 2014, 128 Stat. 3387, provided that:
+
+"(A) Effective date.—The amendments made by paragraph (1) [enacting this section] shall take effect as of September 11, 2001.
+
+"(B) Review of certain previous incidents.—The Secretary concerned shall undertake a review of each death or wounding of a member of the Armed Forces that occurred between September 11, 2001, and the date of the enactment of this Act [Dec. 19, 2014] under circumstances that could qualify as being the result of an attack described in section 1129a of title 10, United States Code (as added by paragraph (1)), to determine whether the death or wounding qualifies as a death or wounding resulting from an attack by a foreign terrorist organization for purposes of the award of the Purple Heart pursuant to such section (as so added).
+
+"(C) Actions following review.—If the death or wounding of a member of the Armed Forces reviewed under subparagraph (B) is determined to qualify as a death or wounding resulting from an attack by a foreign terrorist organization as described in section 1129a of title 10, United States Code (as so added), the Secretary concerned shall take appropriate action under such section to award the Purple Heart to the member.
+
+"(D) Secretary concerned defined.—In this paragraph, the term 'Secretary concerned' has the meaning given that term in section 101(a)(9) of title 10, United States Code."

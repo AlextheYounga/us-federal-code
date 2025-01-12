@@ -26,7 +26,11 @@ Sec.
 
 2263. United States contributions to the North Atlantic Treaty Organization common-funded budgets.
 
+2264. Reimbursement for assistance provided to nongovernmental entertainment-oriented media producers.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title VIII, §859(b), Dec. 19, 2014, 128 Stat. 3461, added item 2264.
 
 **2011**—Pub. L. 112–81, div. A, title X, §1082(a)(2), Dec. 31, 2011, 125 Stat. 1601, added item 2254a.
 

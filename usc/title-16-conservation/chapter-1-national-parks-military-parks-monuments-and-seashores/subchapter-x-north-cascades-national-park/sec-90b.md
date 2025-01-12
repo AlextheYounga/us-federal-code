@@ -10,4 +10,8 @@
 
 **1988**—Subsec. (b). Pub. L. 100–668 added subsec. (b).
 
+#### Boundary Adjustments for Road ####
+
+Pub. L. 100–668, title II, §207, as added by Pub. L. 113–291, div. B, title XXX, §3040, Dec. 19, 2014, 128 Stat. 3788, authorized Secretary to adjust boundaries of North Cascades National Park and Stephen Mather Wilderness in order to provide a 100-foot-wide corridor along which the Stehekin Valley Road could be rebuilt and directed that such adjustment be made so that equal acreage amounts would be exchanged, resulting in no net loss of acreage to either the Park or the Wilderness.
+
 [<sup>1</sup> Subsec. (a) designation editorially supplied.](#90b_1)

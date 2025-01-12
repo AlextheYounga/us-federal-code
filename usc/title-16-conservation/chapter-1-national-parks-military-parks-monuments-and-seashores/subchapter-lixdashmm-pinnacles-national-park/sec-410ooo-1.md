@@ -24,7 +24,7 @@ Any references in law (other than in this subchapter), regulation, document, rec
 
 #### (d) Administration ####
 
-The Secretary of the Interior shall administer Pinnacles National Park in accordance with this subchapter and laws generally applicable to units of the National Park System, including the National Park Service Organic Act (16 U.S.C. 1, 2–4).
+The Secretary of the Interior shall administer Pinnacles National Park in accordance with this subchapter and laws generally applicable to units of the National Park System, including the National Park Service Organic Act.<sup><a href="#410ooo-1_1_target" name="410ooo-1_1">1</a></sup>
 
 (Pub. L. 112–245, §3, Jan. 10, 2013, 126 Stat. 2386.)
 
@@ -32,4 +32,6 @@ The Secretary of the Interior shall administer Pinnacles National Park in accord
 
 This subchapter, referred to in subsecs. (c)(2) and (d), was in the original "this Act", meaning Pub. L. 112–245, Jan. 10, 2013, 126 Stat. 2385, known as the Pinnacles National Park Act, which enacted this subchapter and amended provisions listed in a table of Wilderness Areas under section 1132 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 410ooo of this title and Tables.
 
-National Park Service Organic Act, referred to in subsec. (d), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
+National Park Service Organic Act, referred to in subsec. (d), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1, 2, 3, and 4 of this title were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under section 100101 of Title 54 and Tables.
+
+[<sup>1</sup> See References in Text note below.](#410ooo-1_1)

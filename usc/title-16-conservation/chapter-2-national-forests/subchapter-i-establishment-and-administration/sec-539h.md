@@ -34,7 +34,7 @@ Geothermal leasing laws of the United States, referred to in subsec. (e), are cl
 
 #### Greer Spring Acquisition and Protection ####
 
-Pub. L. 102–220, §§1–3, 5, Dec. 11, 1991, 105 Stat. 1674, 1675, provided that:
+Pub. L. 102–220, §§1–3, 5, Dec. 11, 1991, 105 Stat. 1674, 1675, as amended by Pub. L. 113–287, §5(d)(13), Dec. 19, 2014, 128 Stat. 3265, provided that:
 
 #### "SECTION 1. SHORT TITLE. ####
 
@@ -44,7 +44,7 @@ Pub. L. 102–220, §§1–3, 5, Dec. 11, 1991, 105 Stat. 1674, 1675, provided t
 
 "(a) The Secretary of Agriculture (hereinafter referred to as the 'Secretary') is hereby authorized and directed, subject to appropriations, to acquire all of the lands, waters, and interests therein, on a willing seller basis only, within the area generally depicted on a map entitled 'Dennig Tract', dated November 5, 1991 (hereinafter referred to as 'the map'). The map, together with a legal description of such lands, shall be on file and available for public inspection in the offices of the Forest Service, Department of Agriculture. The boundaries of the Mark Twain National Forest are hereby modified to include the area denoted 'Dennig Property Outside of National Forest Boundary' on the map. Such map and legal description shall have the same force and effect as if included in this Act, except that the correction of clerical and typographical errors in such map and legal description may be made by the Secretary.
 
-"(b) Such modified boundaries shall be considered as the boundaries in existence as of January 1, 1965, for the purposes of section 7 of the Land and Water Conservation Fund Act (16 U.S.C. 460l–9).
+"(b) Such modified boundaries shall be considered as the boundaries in existence as of January 1, 1965, for the purposes of section 100506 of title 54, United States Code.
 
 #### "SEC. 3. ELEVEN POINT WILD AND SCENIC RIVER. ####
 
@@ -53,3 +53,5 @@ Pub. L. 102–220, §§1–3, 5, Dec. 11, 1991, 105 Stat. 1674, 1675, provided t
 #### "SEC. 5. APPROPRIATIONS. ####
 
 "There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act."
+
+[Pub. L. 113–287, §5(d)(13), Dec. 19, 2014, 128 Stat. 3265, which directed amendment of section 2(b) of Pub. L. 102–220, set out above, by substituting "section 100506 of title 54, United States Code" for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)", was executed by making the substitution for "section 7 of the Land and Water Conservation Fund Act (16 U.S.C. 460l–9)" to reflect the probable intent of Congress.]

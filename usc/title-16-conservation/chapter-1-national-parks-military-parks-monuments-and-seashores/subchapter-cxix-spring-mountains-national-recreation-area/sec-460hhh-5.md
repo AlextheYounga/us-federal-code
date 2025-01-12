@@ -10,6 +10,10 @@ Any lands, waters, or interests in lands or interests therein located within the
 
 #### (c) Land and Water Conservation Fund ####
 
-For purposes of section 460l–9 of this title, where such boundaries are established for units of the National Forest System, such established boundaries shall be treated as if they were the boundaries of the National Forests as of January 1, 1965. Money appropriated from the Land and Water Conservation Fund shall be available for the acquisition of lands and interests therein in furtherance of the purposes of this subchapter.
+For purposes of section 100506 of title 54, where such boundaries are established for units of the National Forest System, such established boundaries shall be treated as if they were the boundaries of the National Forests as of January 1, 1965. Money appropriated from the Land and Water Conservation Fund shall be available for the acquisition of lands and interests therein in furtherance of the purposes of this subchapter.
 
-(Pub. L. 103–63, §7, Aug. 4, 1993, 107 Stat. 300.)
+(Pub. L. 103–63, §7, Aug. 4, 1993, 107 Stat. 300; Pub. L. 113–287, §5(d)(3), Dec. 19, 2014, 128 Stat. 3264.)
+
+#### Amendments ####
+
+**2014**—Subsec. (c). Pub. L. 113–287, which directed substitution of "section 100506 of title 54" for "section 460l–9 of this title" in section 7 of the Springs Mountain National Recreation Area Act, was executed to this section, which is section 7 of the Spring Mountains National Recreation Area Act, to reflect the probable intent of Congress.

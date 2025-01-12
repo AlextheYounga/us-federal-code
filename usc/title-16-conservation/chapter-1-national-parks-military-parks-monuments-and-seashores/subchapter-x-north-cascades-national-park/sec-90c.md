@@ -1,8 +1,12 @@
 ### §90c. Administration ###
 
-The Secretary shall administer the park in accordance with sections 1, 2, 3, and 4 of this title, as amended and supplemented.
+The Secretary shall administer the park in accordance with sections 1, 2, 3, and 4 <sup><a href="#90c_1_target" name="90c_1">1</a></sup> of this title, as amended and supplemented.
 
 (Pub. L. 90–544, title IV, §401, Oct. 2, 1968, 82 Stat. 928.)
+
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 #### North Cascades National Park Service Complex Fish Stocking ####
 
@@ -45,3 +49,5 @@ Pub. L. 113–137, July 25, 2014, 128 Stat. 1741, provided that:
 "(1) continue a program of research and monitoring of the impacts of fish stocking on the resources of the applicable unit of the North Cascades National Park Service Complex; and
 
 "(2) beginning on the date that is 5 years after the date of enactment of this Act [July 25, 2014] and every 5 years thereafter, submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the results of the research and monitoring under paragraph (1)."
+
+[<sup>1</sup> See References in Text note below.](#90c_1)

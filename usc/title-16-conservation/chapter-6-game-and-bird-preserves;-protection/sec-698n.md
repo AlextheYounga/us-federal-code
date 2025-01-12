@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-There is established in the St. Johns River Valley, Florida, where the Timucuan Indians lived in prehistoric and historic times, the Timucuan Ecological and Historic Preserve (hereafter in sections 698n to 698p of this title referred to as the "Preserve"). The Preserve shall comprise the lands, waters, and interests therein within the boundaries generally depicted on a map of Duval County, Florida, entitled "Timucuan Ecological and Historic Preserve" numbered NA–TEHP 80,003–A and dated July 1987. The map shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior may make minor revisions in the boundary of the Preserve in accordance with section 460l–9(c) of this title. The Preserve shall also include within its boundaries all that land consisting of approximately 500 acres adjacent to Fort Caroline National Memorial and known as the Theodore Roosevelt Preserve, being land formerly owned by one Willie Brown and donated by him to The Nature Conservancy.
+There is established in the St. Johns River Valley, Florida, where the Timucuan Indians lived in prehistoric and historic times, the Timucuan Ecological and Historic Preserve (hereafter in sections 698n to 698p of this title referred to as the "Preserve"). The Preserve shall comprise the lands, waters, and interests therein within the boundaries generally depicted on a map of Duval County, Florida, entitled "Timucuan Ecological and Historic Preserve" numbered NA–TEHP 80,003–A and dated July 1987. The map shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior may make minor revisions in the boundary of the Preserve in accordance with section 100506(c) of title 54. The Preserve shall also include within its boundaries all that land consisting of approximately 500 acres adjacent to Fort Caroline National Memorial and known as the Theodore Roosevelt Preserve, being land formerly owned by one Willie Brown and donated by him to The Nature Conservancy.
 
 #### (2) Modification of boundary ####
 
@@ -26,13 +26,21 @@ The Secretary of the Interior (hereinafter in sections 698n to 698p of this titl
 
 #### (c) Administration ####
 
-The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
+The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 <sup><a href="#698n_1_target" name="698n_1">1</a></sup> of this title. The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
 
 #### (d) Development of multiunit residential/resort project ####
 
 Nothing in sections 698n to 698p of this title shall affect development of a multiunit residential/resort project currently proposed for Fort George Island, nor shall any provision of sections 698n to 698p of this title be construed to affect any Federal, State or local law applicable to such project.
 
 (Pub. L. 100–249, title II, §201, Feb. 16, 1988, 102 Stat. 13; Pub. L. 108–321, §2, Oct. 5, 2004, 118 Stat. 1214.)
+
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+#### Codification ####
+
+In subsec. (a)(1), "section 100506(c) of title 54" substituted for "section 7(c) of the Land and Water Conservation Fund Act of 1965" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 
@@ -41,3 +49,5 @@ Nothing in sections 698n to 698p of this title shall affect development of a mul
 #### Short Title of 2004 Amendment ####
 
 Pub. L. 108–321, §1, Oct. 5, 2004, 118 Stat. 1214, provided that: "This Act [amending this section] may be cited as the 'Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004'."
+
+[<sup>1</sup> See References in Text note below.](#698n_1)

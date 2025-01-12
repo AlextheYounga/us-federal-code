@@ -60,7 +60,7 @@ The Secretary shall promptly seek to identify lands acceptable to equalize value
 
 "(i) The deadline for the Report to Congress required by section 609(c) of the Interstate 90 Land Exchange Act of 1998 [section 101(e) [title VI, §609(c)] of Pub. L. 105–277, set out below] is hereby extended. Such Report is due to the Congress 18 months from the date of the enactment of this Interstate 90 Land Exchange Amendment [Nov. 29, 1999]."
 
-Pub. L. 105–277, div. A, §101(e) [title VI], Oct. 21, 1998, 112 Stat. 2681–231, 2681–326, as amended by Pub. L. 106–113, div. B, §1000(a)(3) [title III, §346(b)–(e), (h), (j)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204 to 1501A–206, provided that:
+Pub. L. 105–277, div. A, §101(e) [title VI], Oct. 21, 1998, 112 Stat. 2681–231, 2681–326, as amended by Pub. L. 106–113, div. B, §1000(a)(3) [title III, §346(b)–(e), (h), (j)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204 to 1501A–206; Pub. L. 113–287, §5(d)(14), Dec. 19, 2014, 128 Stat. 3265, provided that:
 
 #### "SEC. 601. SHORT TITLE. ####
 
@@ -252,7 +252,7 @@ Pub. L. 105–277, div. A, §101(e) [title VI], Oct. 21, 1998, 112 Stat. 2681–
 
 "(2) Nothing in this section shall limit the authority of the Secretary to adjust the boundaries of such National Forests pursuant to section 11 of the Act of March 1, 1911 (commonly known as the 'Weeks Act') [16 U.S.C. 521].
 
-"(3) For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9 [460l–9]) the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965.
+"(3) For purposes of section 100506 of title 54, United States Code, the boundaries of Mt. Baker-Snoqualmie, Wenatchee and Gifford Pinchot as modified by this Act shall be considered to be the boundaries of such forests as of January 1, 1965.
 
 "(C) Management.—Land acquired by the Secretary under this Act shall have the status of lands acquired under the Act of March 1, 1911 [act Mar. 1, 1911, ch. 186, 36 Stat. 961, see Tables for classification] and shall be managed in accordance with the laws, rules, regulations and guidelines applicable to the National Forest System.
 
@@ -262,7 +262,7 @@ Pub. L. 105–277, div. A, §101(e) [title VI], Oct. 21, 1998, 112 Stat. 2681–
 
 "(1) Finding.—Congress finds that Plum Creek and the Secretary should have adequate and timely post-exchange access to lands acquired pursuant to this Act over existing primary, secondary, or other national forest system roads as may be needed.
 
-"(2) Intention.—It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act [of 1969] [42 U.S.C. 4321 et seq.], the Endangered Species Act [of 1973] [16 U.S.C. 1531 et seq.], the National Historic Preservation Act [16 U.S.C. 470 et seq.], and other applicable laws, rules, and regulations.
+"(2) Intention.—It is the intention of Congress that Plum Creek have access to all lands it acquires under this Act, and when such access requires construction of new roads, it shall be granted in compliance with the National Environmental Policy Act [of 1969] [42 U.S.C. 4321 et seq.], the Endangered Species Act [of 1973] [16 U.S.C. 1531 et seq.], division A of subtitle III of title 54, United States Code, and other applicable laws, rules, and regulations.
 
 "(3) Access within cost share agreement areas.—Within Cost Share Construction and Use Agreement Areas, Plum Creek and the Secretary will convey road access, at no cost, to the lands acquired by each party upon consummation of the exchange pursuant to this Act in accordance with the appropriate terms and procedures of said cost share construction and use agreements.
 
@@ -278,7 +278,7 @@ Pub. L. 105–277, div. A, §101(e) [title VI], Oct. 21, 1998, 112 Stat. 2681–
 
 "(g) Parcels Subject to Historic or Cultural Resource Restrictions.—
 
-"(1) Report to plum creek.—No later than 180 days after enactment of this Act [Oct. 21, 1998], the Secretary shall complete determinations and consultation under the National Historic Preservation Act [16 U.S.C. 470 et seq.] and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
+"(1) Report to plum creek.—No later than 180 days after enactment of this Act [Oct. 21, 1998], the Secretary shall complete determinations and consultation under division A of subtitle III of title 54, United States Code, and submit a report to Plum Creek and other consulting parties under the National Historic Preservation Act listing by exact aliquot part description any parcel or parcels of selected land on which cultural properties have been identified and for which protection, use restrictions or mitigation requirements will be imposed. Such report shall include an exact description of each restriction or mitigation action required.
 
 "(2) Plum creek response.—Within 30 days of receipt of the Secretary's report under paragraph (1), Plum Creek shall notify the Secretary as to: (i) those parcels it will accept subject to the identified use restrictions or mitigation requirements; and (ii) those parcels it will not accept because the restrictions or mitigation requirements are deemed by Plum Creek to be an unacceptable encumbrance on the land.
 
@@ -319,3 +319,5 @@ Pub. L. 105–277, div. A, §101(e) [title VI], Oct. 21, 1998, 112 Stat. 2681–
 #### "SEC. 612. EFFECT ON COUNTY REVENUES. ####
 
 "The Secretary shall consult with the appropriate Committees of Congress, and local elected officials in the counties in the State of Washington in which the offered lands are located, regarding options to minimize the adverse effect on county revenues of the transfer of the offered lands from private to Federal ownership."
+
+[Pub. L. 113–287, §5(d)(14)(A), Dec. 19, 2014, 128 Stat. 3265, which directed substitution of "section 100506 of title 54, United States Code," for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)" in subsec. (a)(3) of section 606 of Pub. L. 105–277, set out above, was executed by making the substitution for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9)" in subsec. (a)(1)(B)(3) of section 606 of Pub. L. 105–277, to reflect the probable intent of Congress.]

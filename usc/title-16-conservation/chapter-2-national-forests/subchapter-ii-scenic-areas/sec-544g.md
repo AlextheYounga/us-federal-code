@@ -182,9 +182,13 @@ Notwithstanding any other provision of law—
 
 #### (g) Boundaries ####
 
-For the purposes of section 460l–9 of this title, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
+For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of the scenic area, including special management areas and the Dodson/Warrendale Special Purchase Unit shall be treated as if they were within the boundaries of the Mount Hood or Gifford Pinchot National Forests as of January 1, 1965.
 
 (Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109 Stat. 710; Pub. L. 106–291, title III, §346(a), Oct. 11, 2000, 114 Stat. 999.)
+
+#### Codification ####
+
+In subsec. (g), "sections 100506(c) and 200306 of title 54" substituted for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 

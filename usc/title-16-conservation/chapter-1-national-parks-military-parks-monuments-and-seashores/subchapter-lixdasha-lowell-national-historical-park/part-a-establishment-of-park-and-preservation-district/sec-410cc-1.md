@@ -16,4 +16,4 @@ For purposes of this subchapter—
 
 #### References in Text ####
 
-An Act entitled "An Act to provide for a plan for the preservation, interpretation development and use of the historic, cultural, and architectural resources of the Lowell Historic Canal District in Lowell, Massachusetts, and for other purposes", approved January 4, 1975 (88 Stat. 2330), referred to in par. (5), is Pub. L. 93–645, Jan. 4, 1975, 88 Stat. 2330, which is set out as a note under section 461 of this title.
+An Act entitled "An Act to provide for a plan for the preservation, interpretation development and use of the historic, cultural, and architectural resources of the Lowell Historic Canal District in Lowell, Massachusetts, and for other purposes", approved January 4, 1975 (88 Stat. 2330), referred to in par. (5), is Pub. L. 93–645, Jan. 4, 1975, 88 Stat. 2330.

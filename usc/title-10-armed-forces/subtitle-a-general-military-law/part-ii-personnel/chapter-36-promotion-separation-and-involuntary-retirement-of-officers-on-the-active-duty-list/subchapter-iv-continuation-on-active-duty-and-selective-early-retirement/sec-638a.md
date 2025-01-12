@@ -48,21 +48,21 @@
 
 (B) in each grade, year group, or specialty (or combination thereof) in each competitive category, except that through December 31, 2018, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade.
 
-(3) The total number of officers described in subsection (b)(3) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
+(3) An officer who is recommended for discharge by a selection board convened pursuant to the authority of subsection (b)(3) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
 
-(4) An officer who is recommended for discharge by a selection board convened pursuant to the authority of subsection (b)(3) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
-
-(5) Selection of officers for discharge under this subsection shall be based on the needs of the service.
+(4) Selection of officers for discharge under this subsection shall be based on the needs of the service.
 
 (e) The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
 
-(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 [[div. A], title V, §571(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–364, div. A, title VI, §623(b), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 112–239, div. A, title V, §502, Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, §503(a), Dec. 26, 2013, 127 Stat. 750.)
+(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 [[div. A], title V, §571(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–364, div. A, title VI, §623(b), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 112–239, div. A, title V, §502, Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, §503(a), Dec. 26, 2013, 127 Stat. 750; Pub. L. 113–291, div. A, title V, §503, Dec. 19, 2014, 128 Stat. 3355.)
 
 #### References in Text ####
 
 Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(3)(C), is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
 
 #### Amendments ####
+
+**2014**—Subsec. (d)(3) to (5). Pub. L. 113–291, §503, redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "The total number of officers described in subsection (b)(3) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year."
 
 **2013**—Subsec. (a). Pub. L. 112–239, §502(1), designated existing provisions as par. (1), struck out ", during the period beginning on October 1, 1990, and ending on December 31, 2001, and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012," after "military department", and added par. (2).
 

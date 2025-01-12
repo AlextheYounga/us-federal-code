@@ -20,7 +20,7 @@ The management plan shall include—
 
 (3) a proposal for minimal administrative and public facilities to be developed or improved at a level compatible with achieving the resource objectives for the Conservation Area and with the other proposed management activities to accommodate visitors to the Conservation Area;
 
-(4) cultural resources management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona, with emphasis on the preservation of the resources of the Conservation Area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act (16 U.S.C. 470 et seq.) within the Conservation Area;
+(4) cultural resources management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona, with emphasis on the preservation of the resources of the Conservation Area and the interpretive, educational, and long-term scientific uses of these resources, giving priority to the enforcement of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act <sup><a href="#460ooo-5_1_target" name="460ooo-5_1">1</a></sup> within the Conservation Area;
 
 (5) wildlife management strategies for the Conservation Area, prepared in consultation with appropriate departments of the State of Arizona and using previous studies of the Conservation Area;
 
@@ -48,6 +48,8 @@ In order to assist in the development and implementation of the management plan,
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(4), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (b)(4), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
+The National Historic Preservation Act, referred to in subsec. (b)(4), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See 54 U.S.C. 300101 et seq.
 
 The Federal Cave Resources Protection Act of 1988, referred to in subsec. (b)(9), is Pub. L. 100–691, Nov. 18, 1988, 102 Stat. 4546, which is classified generally to chapter 63 (§4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4301 of this title and Tables.
+
+[<sup>1</sup> See References in Text note below.](#460ooo-5_1)

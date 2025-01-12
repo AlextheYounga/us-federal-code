@@ -50,7 +50,7 @@ Pub. L. 111–261, §1, Oct. 8, 2010, 124 Stat. 2777, provided that:
 
 "(B) on the acquisition of property under subparagraph (A), administer the property as part of the Park.
 
-"(3) Authority.—Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of section 3 of Public Law 91–383 (16 U.S.C. 1a–2(k)), notwithstanding paragraph (2) of that subsection.
+"(3) Authority.—Except as otherwise provided by this section, a lease shall be in accordance with subsection (k) of section 3 of Public Law 91–383 ([former] 16 U.S.C. 1a–2(k)) [see 54 U.S.C. 102102], notwithstanding paragraph (2) of that subsection.
 
 "(4) Terms and conditions.—A lease authorized under this section shall—
 
@@ -70,7 +70,7 @@ Pub. L. 111–261, §1, Oct. 8, 2010, 124 Stat. 2777, provided that:
 
 "(F) include any other provisions determined by the Secretary to be necessary to protect the Park and the public interest.
 
-"(5) Rental amounts.—In determining the fair market value rental of the lease required under section 3(k)(4) of Public Law 91–383 (16 U.S.C. 1a–2(k)(4)), the Secretary shall take into consideration—
+"(5) Rental amounts.—In determining the fair market value rental of the lease required under section 3(k)(4) of Public Law 91–383 ([former] 16 U.S.C. 1a–2(k)(4)) [see 54 U.S.C. 102102], the Secretary shall take into consideration—
 
 "(A) the value of any associated property conveyed to the United States; and
 
@@ -82,7 +82,7 @@ Pub. L. 111–261, §1, Oct. 8, 2010, 124 Stat. 2777, provided that:
 
 "(8) Renewal.—A lease entered into under this section may not be extended or renewed.
 
-"(9) Termination.—Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 (16 U.S.C. 5951 et seq.).
+"(9) Termination.—Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 ([former] 16 U.S.C. 5951 et seq.) [now 54 U.S.C. 101911 et seq.].
 
 "(c) Retained Use Estate.—
 

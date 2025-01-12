@@ -34,30 +34,40 @@ Any permit issued under this section may be suspended by the Federal land manage
 
 #### (g) Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands ####
 
-(1) No permit shall be required under this section or under the Act of June 8, 1906 (16 U.S.C. 431), for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
+(1) No permit shall be required under this section or under the Act of June 8, 1906, for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
 (2) In the case of any permits for the excavation or removal of any archaelogical <sup><a href="#470cc_1_target" name="470cc_1">1</a></sup> resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
-#### (h) Permits issued under Antiquities Act of 1906 ####
+#### (h) Permits issued under chapter 3203 of title 54 ####
 
-(1) No permit or other permission shall be required under the Act of June 8, 1906 (16 U.S.C. 431–433), for any activity for which a permit is issued under this section.
+(1) No permit or other permission shall be required under chapter 3203 of title 54,<sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> for any activity for which a permit is issued under this section.
 
-(2) Any permit issued under the Act of June 8, 1906 [16 U.S.C. 431–433], shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under the Act of June 8, 1906, before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
+(2) Any permit issued under chapter 3203 of title 54,<sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,<sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 
 #### (i) Compliance with provisions relating to undertakings on property listed in the National Register not required ####
 
-Issuance of a permit in accordance with this section and applicable regulations shall not require compliance with section 470f of this title.
+Issuance of a permit in accordance with this section and applicable regulations shall not require compliance with section 306108 of title 54.
 
 #### (j) Issuance of permits to State Governors for archaeological activities on behalf of States or their educational institutions ####
 
 Upon the written request of the Governor of any State, the Federal land manager shall issue a permit, subject to the provisions of subsections (b)(3), (b)(4), (c), (e), (f), (g), (h), and (i) of this section for the purpose of conducting archaeological research, excavation, removal, and curation, on behalf of the State or its educational institutions, to such Governor or to such designee as the Governor deems qualified to carry out the intent of this chapter.
 
-(Pub. L. 96–95, §4, Oct. 31, 1979, 93 Stat. 722.)
+(Pub. L. 96–95, §4, Oct. 31, 1979, 93 Stat. 722; Pub. L. 113–287, §5(d)(6), Dec. 19, 2014, 128 Stat. 3264.)
 
 #### References in Text ####
 
-Act of June 8, 1906, referred to in subsecs. (g)(1) and (h), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which is classified generally to sections 431, 432, and 433 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
+The Antiquities Act of 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, also known as the National Monument Act, which was classified generally to sections 431, 432, and 433 of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs by Pub. L. 113–287, Dec. 19, 2014, 128 Stat. 3094. See chapter 3203 of Title 54.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 
+#### Amendments ####
+
+**2014**—Subsec. (h)(1). Pub. L. 113–287, §5(d)(6)(A)(i), substituted "chapter 3203 of title 54" for "the Act of June 8, 1906 (16 U.S.C. 431–433)".
+
+Subsec. (h)(2). Pub. L. 113–287, §5(d)(6)(A)(ii), substituted "chapter 3203 of title 54" for "the Act of June 8, 1906" in two places.
+
+Subsec. (i). Pub. L. 113–287, §5(d)(6)(B), substituted "section 306108 of title 54" for "section 470f of this title".
+
 [<sup>1</sup> So in original. Probably should be "archaeological".](#470cc_1)
+
+[<sup>2</sup> So in original. The comma probably should not appear.](#470cc_2)

@@ -1,5 +1,3 @@
-### §1d. Appropriations ###
+### §1d. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-On and after August 8, 1953, applicable appropriations of the National Park Service shall be available for the objects and purposes specified in section 17j–2 of this title.
-
-(Aug. 8, 1953, ch. 384, §3, 67 Stat. 496.)
+Section, act Aug. 8, 1953, ch. 384, §3, 67 Stat. 496, related to appropriations. See section 103102 of Title 54, National Park Service and Related Programs.

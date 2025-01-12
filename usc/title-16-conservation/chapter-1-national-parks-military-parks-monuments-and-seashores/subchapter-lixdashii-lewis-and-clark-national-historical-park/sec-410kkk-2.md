@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The park shall be administered by the Secretary in accordance with this subchapter and with laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The park shall be administered by the Secretary in accordance with this subchapter and with laws generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.) <sup><a href="#410kkk-2_1_target" name="410kkk-2_1">1</a></sup> and sections 461 to 467 <sup><a href="#410kkk-2_1_target" name="410kkk-2_1">1</a></sup> of this title.
 
 #### (b) Management plan ####
 
@@ -10,10 +10,18 @@ Not later than 3 years after funds are made available for this purpose, the Secr
 
 #### (c) Cooperative management ####
 
-In order to facilitate the presentation of a comprehensive picture of the Lewis and Clark Expedition's experiences in the lower Columbia River area and to promote more efficient administration of the sites associated with those experiences, the Secretary may enter into cooperative management agreements with appropriate officials in the States of Washington and Oregon in accordance with the authority provided under section 1a–2(l) of this title.
+In order to facilitate the presentation of a comprehensive picture of the Lewis and Clark Expedition's experiences in the lower Columbia River area and to promote more efficient administration of the sites associated with those experiences, the Secretary may enter into cooperative management agreements with appropriate officials in the States of Washington and Oregon in accordance with the authority provided under section 1a–2(l) <sup><a href="#410kkk-2_1_target" name="410kkk-2_1">1</a></sup> of this title.
 
 (Pub. L. 108–387, title I, §104, Oct. 30, 2004, 118 Stat. 2236.)
 
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a), was in the original "this title", meaning title I of Pub. L. 108–387, Oct. 30, 2004, 118 Stat. 2234, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 410kkk of this title and Tables.
+
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, and section 1865(a) of Title 18, Crimes and Criminal Procedure, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Short Title of 1916 Act note set out under section 100101 of Title 54 and Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+Sections 461 to 467 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
+Section 1a–2 of this title, referred to in subsec. (c), was repealed and restated in sections 100751, 100901, 100906, 101302, 101702, 101703, and 102102 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
+
+[<sup>1</sup> See References in Text note below.](#410kkk-2_1)

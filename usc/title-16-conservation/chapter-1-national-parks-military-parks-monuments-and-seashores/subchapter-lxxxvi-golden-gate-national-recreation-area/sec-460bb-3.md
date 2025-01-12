@@ -2,7 +2,7 @@
 
 #### (a) Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources; provisions applicable to Muir Woods National Monument and Fort Point National Historic Site ####
 
-The Secretary shall administer the lands, waters and interests therein acquired for the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented, and the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter. Notwithstanding their inclusion within the boundaries of the recreation area, the Muir Woods National Monument and Fort Point National Historic Site shall continue to be administered as distinct and identifiable units of the national park system in accordance with the laws applicable to such monument and historic site.
+The Secretary shall administer the lands, waters and interests therein acquired for the recreation area in accordance with the provisions of sections 1, 2, 3, and 4 <sup><a href="#460bb-3_1_target" name="460bb-3_1">1</a></sup> of this title, as amended and supplemented, and the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter. Notwithstanding their inclusion within the boundaries of the recreation area, the Muir Woods National Monument and Fort Point National Historic Site shall continue to be administered as distinct and identifiable units of the national park system in accordance with the laws applicable to such monument and historic site.
 
 #### (b) Federal-State cooperative agreements for police and fire protection ####
 
@@ -25,6 +25,10 @@ No fees or admission charges shall be levied for admission of the general public
 Notwithstanding any other provisions of law, in the administration of those parcels of property known as Haslett Warehouse, Cliff House Properties and Louis' Restaurant, the Secretary shall credit any proceeds from the rental of space in the aforementioned properties to the appropriation, if any, bearing the cost of their administration, maintenance, repair and related expenses and also for the maintenance, repair and related expenses of the vessels and the adjacent piers comprising the San Francisco Maritime National Historical Park, and for major renovation and park rehabilitation of those buildings included in the Fort Mason Foundation Cooperative Agreement: *Provided*, That surplus funds, if any, will be deposited into the Treasury of the United States: *Provided further*, That notwithstanding any other provision of law, in the administration of said parcels and of the AFDL–38 Drydock or other vessels or heavy marine equipment, the Secretary may, if he deems appropriate, enter into a contract for the management (including rental or lease) of said properties with such terms and conditions as will protect the Government's interest, with excess funds being used as set forth above.
 
 (Pub. L. 92–589, §4, Oct. 27, 1972, 86 Stat. 1302; Pub. L. 95–625, title III, §317(f), Nov. 10, 1978, 92 Stat. 3486; Pub. L. 99–395, §§1, 2(a), Aug. 27, 1986, 100 Stat. 836; Pub. L. 100–348, §6, June 27, 1988, 102 Stat. 657.)
+
+#### References in Text ####
+
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 
@@ -55,3 +59,5 @@ Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) [title 
 #### Fees or Admission Charges; Moneys Collected Since November 10, 1983 ####
 
 Pub. L. 99–395, §2(b), Aug. 27, 1986, 100 Stat. 836, provided that: "Notwithstanding any other provisions of law, moneys collected pursuant to section 4(e) of the Act of October 27, 1972 (16 U.S.C. 460bb–3; 92 Stat. 3486), since November 10, 1983, shall be deemed to have been collected in accordance with such section as amended by this Act."
+
+[<sup>1</sup> See References in Text note below.](#460bb-3_1)

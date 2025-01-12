@@ -62,7 +62,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 (ii) The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
-(iii) Projects under the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11) and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+(iii) Projects under chapter 2003 of title 54 and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
 (iv) Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
@@ -80,7 +80,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 Subject to valid existing rights, all public lands within the scenic area administered by the Secretary of the Interior through the Bureau of Land Management are hereby transferred without consideration to the jurisdiction of the Secretary to be managed as National Forest lands in accordance with the provisions of sections 544 to 544p of this title.
 
-(Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294; Pub. L. 106–291, title III, §346(e), Oct. 11, 2000, 114 Stat. 1000.)
+(Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294; Pub. L. 106–291, title III, §346(e), Oct. 11, 2000, 114 Stat. 1000; Pub. L. 113–287, §5(d)(16), Dec. 19, 2014, 128 Stat. 3265.)
 
 #### References in Text ####
 
@@ -89,8 +89,6 @@ The Mineral Lands Leasing Act of 1920, referred to in subsec. (e)(2)(A)(ii), is 
 Act of June 9, 1916, referred to in subsec. (e)(2)(A)(ii), is act June 9, 1916, ch. 137, 39 Stat. 218, which is not classified to the Code.
 
 Act of Feb. 26, 1919, referred to in subsec. (e)(2)(A)(ii), is act Feb. 26, 1919, ch. 47, 40 Stat. 1179, which is not classified to the Code.
-
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (e)(3)(D)(iii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
@@ -101,6 +99,8 @@ Section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103), refer
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
 #### Amendments ####
+
+**2014**—Subsec. (e)(3)(D)(iii). Pub. L. 113–287 substituted "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11)".
 
 **2000**—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Except as provided in subparagraph (B), no payment" for "No payment", substituted "eighth full fiscal year" for "fifth full fiscal year", and added subpar. (B).
 

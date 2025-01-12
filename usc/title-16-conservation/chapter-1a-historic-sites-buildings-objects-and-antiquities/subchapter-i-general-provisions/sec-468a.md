@@ -1,5 +1,3 @@
-### §468a. Principal office of National Trust Commission ###
+### §468a. Repealed. Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272 ###
 
-The National Trust shall have its principal office in the District of Columbia and shall be deemed, for purposes of venue in civil actions, to be an inhabitant and resident thereof. The National Trust may establish offices in such other place or places as it may deem necessary or appropriate in the conduct of its business.
-
-(Oct. 26, 1949, ch. 755, §2, 63 Stat. 927.)
+Section, act Oct. 26, 1949, ch. 755, §2, 63 Stat. 927, related to principal office of National Trust. See section 312103 of Title 54, National Park Service and Related Programs.

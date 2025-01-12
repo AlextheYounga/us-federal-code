@@ -8,7 +8,7 @@ Notwithstanding any provision of this subchapter the vesting in the United State
 
 Section 79c(b)(1) of this title, referred to in text, was in the original "subsection (a)(4) of the first section of this Act", meaning section 101(a)(4) of Pub. L. 95–250, which amended section 79c(b)(1) of this title.
 
-This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended sections 1a–1, 79b, and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
 
 The effective date of this section, referred to in text, probably means the date of enactment of section 101 of Pub. L. 95–250, which was approved Mar. 27, 1978.
 

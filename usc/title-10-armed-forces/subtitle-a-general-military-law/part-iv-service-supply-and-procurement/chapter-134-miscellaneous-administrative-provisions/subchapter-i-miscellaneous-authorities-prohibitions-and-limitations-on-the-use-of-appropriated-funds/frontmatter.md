@@ -30,7 +30,11 @@ Sec.
 
 2249d. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces.
 
+2249e. Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title XII, §1204(a)(2), Dec. 19, 2014, 128 Stat. 3533, added item 2249e.
 
 **2013**—Pub. L. 112–239, div. A, title V, §588(b)(2), Jan. 2, 2013, 126 Stat. 1769, substituted "Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces." for "Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display." in item 2249b.
 

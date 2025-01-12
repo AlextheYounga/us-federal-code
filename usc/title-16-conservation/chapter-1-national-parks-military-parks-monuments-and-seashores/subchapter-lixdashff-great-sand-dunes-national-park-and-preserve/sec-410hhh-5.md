@@ -8,9 +8,9 @@ The Secretary shall administer the national park and the preserve in accordance 
 
 (2) all laws generally applicable to units of the National Park System, including—
 
-(A) sections 1, 2, 3, and 4 of this title; and
+(A) sections 1, 2, 3, and 4 <sup><a href="#410hhh-5_1_target" name="410hhh-5_1">1</a></sup> of this title; and
 
-(B) sections 461 to 467 of this title.
+(B) sections 461 to 467 <sup><a href="#410hhh-5_1_target" name="410hhh-5_1">1</a></sup> of this title.
 
 #### (b) Grazing ####
 
@@ -78,10 +78,16 @@ Any feature of the Closed Basin Division, San Luis Valley Project, located withi
 
 #### References in Text ####
 
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (a)(2)(A), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in subsec. (a)(2)(B), were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
+
 The Reclamation Project Authorization Act of 1972, referred to in subsec. (d)(2), is Pub. L. 92–514, Oct. 20, 1972, 86 Stat. 964. Title I of the Act was classified generally to subchapter XXXI (§615aaa et seq.) of chapter 12 of Title 43, Public Lands, prior to its omission from the Code. See Codification notes under sections 615aaa to 615iii of Title 43.
 
 The Wilderness Act, referred to in subsec. (f)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Colorado Wilderness Act of 1993, referred to in subsec. (f)(2), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
+
+[<sup>1</sup> See References in Text note below.](#410hhh-5_1)
 
 [<sup>1</sup> See References in Text note below.](#410hhh-5_1)

@@ -54,6 +54,6 @@ Subsec. (e). Pub. L. 96–87, §401(q)(4), provided that the Commission terminat
 
 #### "Secretary" Defined ####
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 45f of this title.
 
 [<sup>1</sup> So in original. There are two pars. designated "(8)".](#230f_1)

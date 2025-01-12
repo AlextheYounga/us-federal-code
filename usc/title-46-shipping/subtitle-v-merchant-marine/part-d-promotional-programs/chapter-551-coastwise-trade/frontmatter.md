@@ -44,6 +44,10 @@ Sec.
 
 55121. Transportation of merchandise and passengers on Canadian vessels.
 
+55122. Floating dry docks.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. C, title XXXV, §3502(b), Dec. 19, 2014, 128 Stat. 3904, added item 55122.
 
 **2008**—Pub. L. 110–181, div. C, title XXXV, §3527(b)(2), Jan. 28, 2008, 122 Stat. 602, inserted "valueless material or" before "dredged material" in item 55110.

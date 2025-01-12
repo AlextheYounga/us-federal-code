@@ -4,223 +4,35 @@
 
 Sec.
 
-1. Service created; director; other employees.
-
-1a. Repealed.
-
-1a–1. National Park System: administration; declaration of findings and purpose.
-
-1a–2. Secretary of the Interior's authorization of activities.
-
-1a–3. Legislative jurisdiction; relinquishment by Secretary; submittal of proposed agreement to Congressional committees; concurrent legislative jurisdiction.
-
-1a–4. Uniform allowance.
-
-1a–5. Additional areas for National Park System.
-
-1a–6. Law enforcement personnel within National Park System.
-
-1a–7. National Park System development program.
-
-1a–7a. National Park System crime prevention assistance.
+1 to 1a–7a. Repealed.
 
 1a–7b. Protecting Americans from violent crime.
 
-1a–8. Maintenance management system.
+1a–8 to 1a–14. Repealed.
 
-1a–9. Periodic review of National Park System.
+1b. Repealed or Transferred.
 
-1a–10. Consultation with affected agencies and organizations.
+1c to 4. Repealed.
 
-1a–11. Contents of report.
+5. Omitted.
 
-1a–12. Evaluation of proposed boundary changes.
+6 to 17j–1. Repealed.
 
-1a–13. Proposals for boundary changes.
+17j–2. Authorization of appropriations for road maintenance and repair, etc.
 
-1a–14. National Park System advisory committees.
+17k to 17n. Repealed.
 
-1b. Secretary of the Interior's authorization of additional activities; administration of National Park System.
+17 o. Repealed or Omitted.
 
-1c. General administration provisions; system defined; particular areas.
-
-1d. Appropriations.
-
-1e. National Capital region arts and cultural affairs; grant program.
-
-1f. Challenge cost-share agreement authority.
-
-1g. Cooperative agreements.
-
-1h. Sums provided by private entities for utility services.
-
-1i. Reimbursable agreements.
-
-1j. Cooperative agreements for national park natural resource protection.
-
-2. National parks, reservations, and monuments; supervision.
-
-3. Rules and regulations of national parks, reservations, and monuments; timber; leases.
-
-3a. Recovery of costs associated with special use permits.
-
-3b. Maintenance and repair of Government improvements under concession contracts.
-
-4. Rights-of-way through public lands.
-
-5. Rights-of-way through parks or reservations for power and communications facilities.
-
-6. Donations of lands within national parks and monuments and moneys.
-
-6a, 7. Repealed.
-
-7a. Airports in national parks, monuments and recreation areas; construction, etc.
-
-7b. Acquisition of lands for airport use; contracts for operation and maintenance.
-
-7c. Authorization to sponsor airport projects; use of funds.
-
-7d. Jurisdiction over airports; public operation.
-
-7e. Definitions.
-
-8. Roads and trails in national parks and monuments; construction, etc.
-
-8–1. Repealed.
-
-8a. National-park approach roads; designation.
-
-8b. National-park approach roads and roads and trails within national parks and national monuments; construction, improvement, and maintenance; appropriation.
-
-8c. National-park approach roads across or within national forests; approval of Secretary of Agriculture.
-
-8d. National-monument approach roads.
-
-8e. Conveyance to States of roads leading to certain historical areas; conditions; jurisdiction.
-
-8f. Roads leading to certain historical areas; "State" defined.
-
-9. Repealed.
-
-9a. Government of parks, etc.; violation of regulations as misdemeanor.
-
-10, 10a. Repealed.
-
-11. Medical attention for employees.
-
-12. Aid to visitors in emergencies.
-
-13. Medical attention to employees at isolated places; removal of bodies for burial.
-
-14. Repealed.
-
-14a. Appropriations; availability for printing information and signs.
-
-14b. Credits of receipts for meals and quarters furnished Government employees in the field.
-
-14c. Availability for expense of recording donated lands.
-
-14d. Use of funds for law enforcement and emergencies.
-
-14e. Contribution for annuity benefits.
-
-15. Appropriations for purchase of equipment; waterproof footwear.
-
-16. Central warehouses at parks and monuments; maintenance; purchase of supplies and materials; distribution.
-
-17. Personal equipment and supplies for employees; purchase by Secretary of the Interior; deductions from moneys due employees.
-
-17a. Repealed.
-
-17b. Services or other accommodations for public; contracts; rates.
-
-17b–1. Repealed.
-
-17c. Procurement of supplies, materials, and special services to aid permittees and licensees in emergencies; authority of Secretary of the Interior.
-
-17d. Omitted.
-
-17e. Care and removal of indigents; disposition of dead persons.
-
-17f. Property of employee lost, damaged, or destroyed while in use on official business; reimbursement of employee.
-
-17g. Equipment required by field employees; by whom furnished and maintained.
-
-17h. Hire, rental, and purchase of property of employees; when authorized.
-
-17i. Hire of work animals, vehicles and equipment with or without personal services; rates.
-
-17j. Traveling expenses of National Park System employees and dependents of deceased employees.
-
-17j–1. Omitted.
-
-17j–2. Authorization of appropriations for road maintenance and repair; administrative expenses; lectures, investigations, telephone service, etc.
-
-17k. Park, parkway and recreational-area programs; study by National Park Service; consent of States; purpose; cooperation of government agencies.
-
-17 l. Coordination; planning by States with aid of National Park Service.
-
-17m. Consent of Congress to agreements between States; when agreements effective.
-
-17n. "State" defined.
-
-17 o. National Park Service housing improvement.
-
-18. Promotion of tourist travel.
-
-18a. Cooperation with travel agencies; publication of information.
-
-18b. Advisory committee for promotion of tourist travel; expenses.
-
-18c. Rules and regulations; employees.
-
-18d. Authorization of appropriations.
-
-18e. Repealed.
-
-18f. Management of museum properties.
-
-18f–1. Disposal of unnecessary or duplicate museum objects; use of proceeds.
-
-18f–2. Additional functions.
-
-18f–3. Application and definitions.
+18 to 18f–3. Repealed or Transferred.
 
 #### SUBCHAPTER II—VOLUNTEERS IN PARKS PROGRAM ####
 
-18g. Creation of program.
-
-18h. Incidental expenses.
-
-18i. Federal employee status for volunteers.
-
-18j. Authorization of appropriations.
+18g to 18j. Repealed.
 
 #### SUBCHAPTER III—NATIONAL PARK FOUNDATION ####
 
-19 to 19d. Repealed.
-
-19e. Congressional statement of purpose; establishment of Foundation.
-
-19f. Board: membership, term of office, vacancies, Chairman, Secretary, non-Federal office, quorum, seal, meetings, compensation, traveling and subsistence expenses; Foundation as successor to right, title, and interest of National Park Trust Fund Board in property or funds; abolition and repeal of National Park Trust Fund and Board provisions.
-
-19g. Gifts, devises, or bequests; restriction; real property interests; property with encumbrances, restrictions, or subject to beneficial interests of private persons.
-
-19h. Property and income dealings and transactions; prohibition of engagement in business; trust company type of investments; utilization of services and facilities of Federal agencies without reimbursement; transfer instrument requirements and investments.
-
-19i. Corporate succession; powers and duties of trustee; suits; personal liability for malfeasance.
-
-19j. Authority for execution of contracts, instruments, and necessary or appropriate acts.
-
-19k. Bylaws, rules, and regulations; contracts for services.
-
-19 l. Tax exemptions; contributions toward costs of local government; contributions, gifts, or transfers to or for use of United States.
-
-19m. Liability of United States.
-
-19n. Omitted.
-
-19o. Promotion of local fundraising support.
+19 to 19o. Repealed.
 
 #### SUBCHAPTER III–A—NATIONAL PARK SYSTEM VISITOR FACILITY ####
 
@@ -228,15 +40,7 @@ Sec.
 
 #### SUBCHAPTER III–B—PARK SYSTEM RESOURCE PROTECTION ####
 
-19jj. Definitions.
-
-19jj–1. Liability.
-
-19jj–2. Actions.
-
-19jj–3. Use of recovered amounts.
-
-19jj–4. Donations.
+19jj to 19jj–4. Repealed.
 
 #### SUBCHAPTER IV—CONCESSIONS FOR ACCOMMODATIONS, FACILITIES, AND SERVICES IN AREAS ADMINISTERED BY NATIONAL PARK SERVICE ####
 
@@ -1870,7 +1674,7 @@ Sec.
 
 #### SUBCHAPTER LIX–C—SAN ANTONIO MISSIONS NATIONAL HISTORICAL PARK ####
 
-410ee. Establishment.
+410ee. San Antonio Missions National Historical Park.
 
 #### SUBCHAPTER LIX–D—CHANNEL ISLANDS NATIONAL PARK ####
 
@@ -2476,25 +2280,37 @@ Sec.
 
 410ooo–1. Establishment of Pinnacles National Park.
 
+#### SUBCHAPTER LIX–NN—BLACKSTONE VALLEY NATIONAL HISTORICAL PARK ####
+
+410ppp. Blackstone River Valley National Historical Park.
+
+#### SUBCHAPTER LIX–OO—COLTSVILLE NATIONAL HISTORICAL PARK ####
+
+410qqq. Coltsville National Historical Park.
+
+#### SUBCHAPTER LIX–PP—FIRST STATE NATIONAL HISTORICAL PARK ####
+
+410rrr. First State National Historical Park.
+
+#### SUBCHAPTER LIX–QQ—HARRIET TUBMAN UNDERGROUND RAILROAD NATIONAL HISTORICAL PARK ####
+
+410sss. Harriet Tubman Underground Railroad National Historical Park, Maryland.
+
+#### SUBCHAPTER LIX–RR—HARRIET TUBMAN NATIONAL HISTORICAL PARK ####
+
+410ttt. Harriet Tubman National Historical Park, Auburn, New York.
+
+#### SUBCHAPTER LIX–SS—MANHATTAN PROJECT NATIONAL HISTORICAL PARK ####
+
+410uuu. Manhattan Project National Historical Park.
+
+#### SUBCHAPTER LIX–TT—OREGON CAVES NATIONAL MONUMENT AND PRESERVE ####
+
+410vvv. Oregon Caves National Monument and Preserve.
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS ####
 
-411. Military maneuvers.
-
-412. Camps for military instruction; regulations for militia.
-
-413. Offenses relating to structures and vegetation.
-
-414. Trespassing for hunting, or shooting.
-
-415. Repealed.
-
-416. Refusal to surrender leased land; recovery.
-
-417 to 419. Omitted, Repealed, or Transferred.
-
-420. Rights-of-way through military and other reservations for power and communications facilities.
-
-421. Vacancies occurring in commissions in charge of parks not to be filled.
+411 to 421. Omitted, Repealed, or Transferred.
 
 422. Moores Creek National Battlefield; establishment.
 
@@ -2806,6 +2622,8 @@ Sec.
 
 430h–13. Authorization of appropriations.
 
+430h–14. Vicksburg National Military Park.
+
 430i. Guilford Courthouse National Military Park.
 
 430j. Monocacy National Battlefield; establishment.
@@ -2902,13 +2720,7 @@ Sec.
 
 #### SUBCHAPTER LXI—NATIONAL AND INTERNATIONAL MONUMENTS AND MEMORIALS ####
 
-431. National monuments; reservation of lands; relinquishment of private claims.
-
-431a. Limitation on further extension or establishment of national monuments in Wyoming.
-
-432. Permits to examine ruins, excavations, and gathering of objects; regulations.
-
-433. American antiquities.
+431 to 433. Repealed.
 
 433a. Perry's Victory and International Peace Memorial; establishment.
 
@@ -3238,35 +3050,11 @@ Sec.
 
 #### SUBCHAPTER LXII—MISCELLANEOUS ####
 
-451. Repealed.
-
-451a. Limitation on further extension or establishment of national parks in Wyoming.
-
-452. Revenues of national parks covered into Treasury; estimates for care of parks.
-
-452a. Acquisition of non-Federal land within existing boundaries of any National Park; donations; authorization of appropriations.
+451 to 452a. Repealed.
 
 453. Donations of land for park purposes near or adjacent to National Forest Reserve in North Carolina.
 
-454. Repealed.
-
-455. Study of battlefields for commemorative purposes.
-
-455a. Report to Congress.
-
-455b. Inclusion of estimate of cost of projected surveys in appropriation estimates.
-
-455c. Purchase of real estate for military park.
-
-456. Expense of depositing money payable from appropriations.
-
-456a. Collections and pay-roll deductions for meals and quarters.
-
-457. Action for death or personal injury within national park or other place under jurisdiction of United States; application of State laws.
-
-458. Travel expenses incident to study of battlefields; payment.
-
-458a. Mats for reproduction in magazines and newspapers of photographs of scenery.
+454 to 458a. Repealed.
 
 #### SUBCHAPTER LXIII—NATIONAL SEASHORE RECREATIONAL AREAS ####
 
@@ -3560,51 +3348,17 @@ Sec.
 
 #### Part A—Coordination of Programs ####
 
-460 l. Congressional findings and declaration of policy.
-
-460l–1. Powers and duties of Secretary of the Interior.
-
-460l–2. Consultations of Secretary of the Interior with administrative officers; execution of administrative responsibilities in conformity with nationwide plan.
-
-460l–3. Definitions.
+460 l to 460 l–3. Repealed.
 
 #### Part B—Land and Water Conservation Fund ####
 
-460l–4. Land and water conservation provisions; statement of purposes.
-
-460l–5. Land and water conservation fund; establishment; covering certain revenues and collections into fund.
-
-460l–5a. Repealed.
-
-460l–6. Appropriations for expenditure of land and water conservation fund moneys; transfers to miscellaneous receipts of Treasury.
-
-460l–6a. Admission and special recreation use fees.
-
-460l–6b. Repealed.
+460l–4 to 460l–6b. Repealed or Transferred.
 
 460l–6c. Admission, entrance, and recreation fees.
 
 460l–6d. Commercial filming.
 
-460l–7. Allocation of land and water conservation fund for State and Federal purposes.
-
-460l–8. Financial assistance to States.
-
-460l–9. Allocation of land and water conservation fund moneys for Federal purposes.
-
-460l–10. Availability of land and water conservation fund for publicity purposes; standardized temporary signing; standards and guidelines.
-
-460l–10a. Contracts for acquisition of lands and waters.
-
-460l–10b. Contracts for options to acquire lands and waters in national park system.
-
-460l–10c. Repeal of provisions prohibiting collection of recreation fees or user charges.
-
-460l–10d. Review and report; submittal to Congressional committees; contents.
-
-460l–10e. Advisory Commission on water-based recreation.
-
-460l–11. Transfers to and from land and water conservation fund.
+460l–7 to 460l–11. Repealed.
 
 #### Part C—Water Resources Projects ####
 
@@ -3630,7 +3384,7 @@ Sec.
 
 #### Part D—Land Transfers ####
 
-460l–22. Conveyance of property and interests in property in national park system and miscellaneous areas.
+460l–22. Repealed.
 
 #### Part E—Reclamation Recreation Management ####
 
@@ -4893,3 +4647,7 @@ Sec.
 460zzz–6. Advisory Council.
 
 460zzz–7. Authorization of appropriations.
+
+#### SUBCHAPTER CXXXVIII—NELLIS DUNES OFF-HIGHWAY VEHICLE RECREATION AREA ####
+
+460aaaa. Nellis Dunes Off-Highway Vehicle Recreation Area.

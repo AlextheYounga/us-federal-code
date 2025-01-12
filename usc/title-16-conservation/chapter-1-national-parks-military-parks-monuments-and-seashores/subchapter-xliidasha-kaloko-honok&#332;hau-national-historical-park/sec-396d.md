@@ -14,7 +14,7 @@ Except for any lands owned by the State of Hawaii or its subdivisions, which may
 
 #### (c) Administration; applicable provisions ####
 
-The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4, and 461 to 467 of this title, and generally in accordance with the guidelines provided in the study report entitled "Kaloko-Honokōhau" prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
+The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4,<sup><a href="#396d_1_target" name="396d_1">1</a></sup> and 461 to 467<sup><a href="#396d_1_target" name="396d_1">1</a></sup> of this title, and generally in accordance with the guidelines provided in the study report entitled "Kaloko-Honokōhau" prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
 
 #### (d) Activities and agreements; native accommodations; cooperative marine management agreement; fishing, shoreline food gathering and small boat harbor activities: regulation; land and water management agreements ####
 
@@ -54,7 +54,9 @@ There are hereby authorized to be appropriated not to exceed $25,000,000 for acq
 
 #### References in Text ####
 
-Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original a reference to the act "approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467)". Act Aug. 25, 1916, known as the "National Park Service Organic Act", is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original a reference to the act "approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467)". Act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, enacted sections 1, 2, 3, and 4 of this title, which sections were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
+
+Sections 461 to 467 of this title, referred to in text, were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54.
 
 #### Amendments ####
 
@@ -84,4 +86,6 @@ Section 503(a) of title V of div. I of Pub. L. 104–333, as amended by Pub. L. 
 
 #### "Secretary" Defined ####
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 45f of this title.
+
+[<sup>1</sup> See References in Text note below.](#396d_1)

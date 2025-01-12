@@ -32,7 +32,13 @@ Sec.
 
 119. Special access programs: congressional oversight.
 
+#### Amendment of Analysis ####
+
+Pub. L. 113–291, div. A, title X, §1072(a)(2), (b)(2), (c), Dec. 19, 2014, 128 Stat. 3516, 3517, provided that, effective Oct. 1, 2015, this analysis is amended by substituting "Defense Strategy Review" for "Quadrennial defense review" in item 118 and by striking the item relating to section 118b. See 2014 Amendment note below.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title X, §1072(a)(2), (b)(2), Dec. 19, 2014, 128 Stat. 3516, 3517, substituted "Defense Strategy Review" for "Quadrennial defense review" in item 118 and struck out item 118b "Quadrennial roles and missions review".
 
 **2011**—Pub. L. 112–81, div. A, title IX, §935(a)(2), Dec. 31, 2011, 125 Stat. 1545, substituted "Biennial strategic workforce plan" for "Annual strategic workforce plan" in item 115b.
 

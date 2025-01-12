@@ -14,7 +14,7 @@ Section 506(b) of Pub. L. 95–625, referred to in par. (1), is set out as a not
 
 #### Codification ####
 
-This subchapter is comprised of Pub. L. 102–304. Pub. L. 102–304 was formerly listed in a table of National Historic Sites set out under section 461 of this title.
+This subchapter is comprised of Pub. L. 102–304. Pub. L. 102–304 was formerly listed in a table of National Historic Sites set out under section 320101 of Title 54, National Park Service and Related Programs.
 
 #### Short Title ####
 

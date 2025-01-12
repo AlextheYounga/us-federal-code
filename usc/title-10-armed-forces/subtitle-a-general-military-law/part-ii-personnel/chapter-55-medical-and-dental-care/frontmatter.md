@@ -40,6 +40,8 @@ Sec.
 
 1074m. Mental health assessments for members of the armed forces deployed in support of a contingency operation.
 
+1074n. Annual mental health assessments for members of the armed forces.
+
 [1075. Repealed.]
 
 1076. Medical and dental care for dependents: general rule.
@@ -67,6 +69,8 @@ Sec.
 1079a. CHAMPUS: treatment of refunds and other amounts collected.
 
 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected.
+
+1079c. Provisional coverage for emerging services and supplies.
 
 1080. Contracts for medical care for spouses and children: election of facilities.
 
@@ -132,6 +136,8 @@ Sec.
 
 1097c. TRICARE program: relationship with employer-sponsored group health plans.
 
+1097d. TRICARE program: notice of change to benefits.
+
 1098. Incentives for participation in cost-effective health care plans.
 
 1099. Health care enrollment system.
@@ -165,6 +171,8 @@ Sec.
 1110b. TRICARE program: extension of dependent coverage.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title VII, §§701(a)(2), 704(b), 711(b), Dec. 19, 2014, 128 Stat. 3408, 3413, 3414, added items 1074n, 1079c, and 1097d.
 
 **2011**—Pub. L. 112–81, div. A, title VII, §§702(a)(2), 704(b), 711(a)(2), Dec. 31, 2011, 125 Stat. 1471, 1473, 1476, added items 1074m, 1078b, and 1090a.
 

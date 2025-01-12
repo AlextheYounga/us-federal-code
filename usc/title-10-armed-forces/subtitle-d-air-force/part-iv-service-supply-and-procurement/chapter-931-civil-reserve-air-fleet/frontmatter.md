@@ -8,11 +8,13 @@ Sec.
 
 9512. Contracts for the inclusion or incorporation of defense features.
 
-9513. Use of military installations by Civil Reserve Air Fleet contractors.
+[9513. Repealed.]
 
 9514. Indemnification of Department of Transportation for losses covered by defense-related aviation insurance.
 
 9515. Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet.
+
+9516. Airlift service.
 
 #### Prior Provisions ####
 
@@ -33,6 +35,8 @@ Prior section 9506, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale,
 Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale of ordnance and ordnance stores to designers, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–291, div. A, title X, §§1042(b), 1045(b), Dec. 19, 2014, 128 Stat. 3493, 3494, struck out item 9513 "Use of military installations by Civil Reserve Air Fleet contractors" and added item 9516.
 
 **2011**—Pub. L. 112–81, div. A, title III, §366(b), Dec. 31, 2011, 125 Stat. 1381, added item 9511a.
 

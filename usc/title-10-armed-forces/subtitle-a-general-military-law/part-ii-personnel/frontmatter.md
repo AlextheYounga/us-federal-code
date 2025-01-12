@@ -157,7 +157,7 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 #### Enhanced Protections for Prospective Members and New Members of the Armed Forces During Entry-Level Processing and Training ####
 
-Pub. L. 113–66, div. A, title XVII, §1741, Dec. 26, 2013, 127 Stat. 977, provided that:
+Pub. L. 113–66, div. A, title XVII, §1741, Dec. 26, 2013, 127 Stat. 977, as amended by Pub. L. 113–291, div. A, title V, §531(e), Dec. 19, 2014, 128 Stat. 3364, provided that:
 
 "(a) Defining Inappropriate and Prohibited Relationships, Communication, Conduct, and Contact Between Certain Members.—
 
@@ -205,6 +205,6 @@ Pub. L. 113–66, div. A, title XVII, §1741, Dec. 26, 2013, 127 Stat. 977, prov
 
 "(1) The term 'entry-level processing or training', with respect to a member of the Armed Forces, means the period beginning on the date on which the member became a member of the Armed Forces and ending on the date on which the member physically arrives at that member's first duty assignment following completion of initial entry training (or its equivalent), as defined by the Secretary of the military department concerned or the Secretary of the Department in which the Coast Guard is operating.
 
-"(2) The term 'prospective member of the Armed Forces' means a person who has had a face-to-face meeting with a member of the Armed Forces assigned or attached to duty described in subsection (a)(3)(A) regarding becoming a member of the Armed Forces, regardless of whether the person eventually becomes a member of the Armed Forces.
+"(2) The term 'prospective member of the Armed Forces' means a person who is pursuing or has recently pursued becoming a member of the Armed Forces and who has had a face-to-face meeting with a member of the Armed Forces assigned or attached to duty described in subsection (a)(3)(A) regarding becoming a member of the Armed Forces, regardless of whether the person eventually becomes a member of the Armed Forces.
 
 "(f) Regulations.—Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall issue such regulations as may be necessary to carry out this section. The Secretary of Defense shall ensure that, to the extent practicable, the regulations are uniform for each armed force under the jurisdiction of that Secretary."
