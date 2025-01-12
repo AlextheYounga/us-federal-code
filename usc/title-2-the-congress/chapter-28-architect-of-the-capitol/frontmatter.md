@@ -74,6 +74,8 @@ Sec.
 
 1834. Heating and ventilating Senate wing.
 
+1835. Interagency details.
+
 #### Part B—Compensation ####
 
 1841. Single per annum gross rates of pay.
@@ -133,6 +135,8 @@ Sec.
 1871. Expired appropriations available for deposit into Employees' Compensation Fund.
 
 1872. Use of expired funds for unemployment compensation payments.
+
+1873. Acceptance of travel expenses from non-Federal sources.
 
 #### SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FAMILIES OF FALLEN HEROES ####
 

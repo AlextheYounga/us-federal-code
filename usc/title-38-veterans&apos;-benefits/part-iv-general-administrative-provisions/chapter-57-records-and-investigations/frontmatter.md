@@ -56,12 +56,16 @@ Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered 
 
 #### Discontinuation of Use of Social Security Numbers to Identify Individuals in Department of Veterans Affairs Information Systems ####
 
-Pub. L. 115–141, div. J, title II, §240, Mar. 23, 2018, 132 Stat. 822, provided that:
+Pub. L. 115–244, div. C, title II, §239, Sept. 21, 2018, 132 Stat. 2972, provided that:
 
 "(a) Except as provided in subsection (b), the Secretary of Veterans Affairs, in consultation with the Secretary of Defense and the Secretary of Labor, shall discontinue using Social Security account numbers to identify individuals in all information systems of the Department of Veterans Affairs as follows:
 
-"(1) For all veterans submitting to the Secretary of Veterans Affairs new claims for benefits under laws administered by the Secretary, not later than 5 years after the date of the enactment of this Act [Mar. 23, 2018].
+"(1) For all veterans submitting to the Secretary of Veterans Affairs new claims for benefits under laws administered by the Secretary, not later than 5 years after the date of the enactment of this Act [Sept. 21, 2018].
 
 "(2) For all individuals not described in paragraph (1), not later than 8 years after the date of the enactment of this Act.
 
 "(b) The Secretary of Veterans Affairs may use a Social Security account number to identify an individual in an information system of the Department of Veterans Affairs if and only if the use of such number is required to obtain information the Secretary requires from an information system that is not under the jurisdiction of the Secretary."
+
+Similar provisions were contained in the following acts:
+
+Pub. L. 115–141, div. J, title II, §240, Mar. 23, 2018, 132 Stat. 822.

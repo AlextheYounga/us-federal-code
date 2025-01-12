@@ -30,6 +30,8 @@ Sec.
 
 5322. Lyndon Baines Johnson congressional interns.
 
+5322a. Allowance for compensation of interns in member offices.
+
 5323. Pay of clerical assistants as affected by death of Senator or Representative.
 
 5324. Pay of clerical assistants as affected by death or resignation of Member of House.
@@ -57,3 +59,15 @@ Sec.
 5345. Annotated United States Code for Members of House of Representatives to be paid for from Members' Representational Allowance.
 
 5346. Transportation of official records and papers to House Member's district.
+
+5347. Delivery of bills and resolutions.
+
+5348. Delivery of Congressional Record.
+
+5349. Limitation on printed copies of U.S. Code to House.
+
+5350. Delivery of reports of disbursements.
+
+5351. Delivery of Daily Calendar.
+
+5352. Delivery of Congressional Pictorial Directory.

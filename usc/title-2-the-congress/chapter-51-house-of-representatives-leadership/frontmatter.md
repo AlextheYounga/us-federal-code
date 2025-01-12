@@ -24,15 +24,7 @@ Sec.
 
 5124. Lump sum allowance for Speaker.
 
-5125. Former Speakers of House of Representatives; retention of office, furniture, etc., in Congressional district following expiration of term as Representative; exceptions.
-
-5126. Allowance available to former Speaker for payment of office and other expenses for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker.
-
-5127. Franked mail and printing privileges of former Speaker.
-
-5128. Staff assistance to former Speaker for administration, etc., of matters pertaining to incumbency in office as Representative and Speaker; compensation and status of staff.
-
-5129. Availability of entitlements of former Speaker for 5 years.
+5125 to 5129. Repealed.
 
 #### SUBCHAPTER III—MAJORITY AND MINORITY LEADERS AND WHIPS ####
 
