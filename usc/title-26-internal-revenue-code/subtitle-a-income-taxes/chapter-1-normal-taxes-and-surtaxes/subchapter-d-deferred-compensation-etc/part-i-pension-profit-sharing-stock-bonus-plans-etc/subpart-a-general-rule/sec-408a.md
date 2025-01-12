@@ -66,6 +66,14 @@ In the case of any taxable year beginning in a calendar year after 2006, the dol
 
 Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
+#### (E) Special rule for certain transfers from qualified tuition programs ####
+
+The amount determined under subparagraph (A) shall be increased by the lesser of—
+
+(i) the amount of contributions described in section 529(c)(3)(E) for the taxable year, or
+
+(ii) the amount of the reduction determined under such subparagraph (determined without regard to this subparagraph).
+
 #### (4) Mandatory distribution rules not to apply before death ####
 
 Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
@@ -82,7 +90,13 @@ No rollover contribution may be made to a Roth IRA unless it is a qualified roll
 
 #### (B) Coordination with limit ####
 
+#### (i) In general ####
+
 A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
+
+#### (ii) Exception for rollovers from qualified tuition programs ####
+
+Clause (i) shall not apply to any qualified rollover contribution described in subsection (e)(1)(C).
 
 #### (6) Time when contributions made ####
 
@@ -248,9 +262,11 @@ The term "qualified rollover contribution" means a rollover contribution—
 
 (i) in the case of an individual retirement plan, such rollover contribution meets the requirements of section 408(d)(3), and
 
-(ii) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable.
+(ii) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable, and
 
-For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
+*"(C) from a qualified tuition program to the extent provided in section 529(c)(3)(E).*
+
+For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA. The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A).
 
 #### (2) Military death gratuity ####
 
@@ -279,48 +295,6 @@ In the case of any payment or distribution out of a simple retirement account (a
 #### Inflation Adjusted Items for Certain Years ####
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.
-
-#### Amendment of Section ####
-
-Pub. L. 117–328, div. T, title I, §126(b), (d), Dec. 29, 2022, 136 Stat. 5316, 5317, provided that, applicable with respect to distributions after Dec. 31, 2023, this section is amended as follows:
-
-(1) in subsection (c)—
-
-(A) in paragraph (3), by adding at the end the following new subparagraph:
-
-#### *"(E) Special rule for certain transfers from qualified tuition programs* ####
-
-*"The amount determined under subparagraph (A) shall be increased by the lesser of—*
-
-*"(i) the amount of contributions described in section 529(c)(3)(E) for the taxable year, or*
-
-*"(ii) the amount of the reduction determined under such subparagraph (determined without regard to this subparagraph)."; and*
-
-(B) in paragraph (5)(B)—
-
-(i) by striking "A qualified rollover contribution" and inserting the following:
-
-#### *"(i) In general* ####
-
-*"A qualified rollover contribution"; and*
-
-(ii) by adding at the end the following:
-
-#### *"(ii) Exception for rollovers from qualified tuition programs* ####
-
-*"Clause (i) shall not apply to any qualified rollover contribution described in subsection (e)(1)(C)."; and*
-
-(2) in subsection (e)(1)—
-
-(A) by striking the period at the end of subparagraph (B) and inserting ", and";
-
-(B) by inserting after subparagraph (B) the following new subparagraph:
-
-*"(C) from a qualified tuition program to the extent provided in section 529(c)(3)(E)."; and*
-
-(C) by adding at the end the following new sentence: "The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A)."
-
-See 2022 Amendment notes below.
 
 #### **Editorial Notes** ####
 

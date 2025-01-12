@@ -76,11 +76,13 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 (31) the small employer health insurance credit determined under section 45R,
 
-(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a), plus
+(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a),
 
-(33) in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a).
+(33) in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a), plus
 
-(35) <sup><a href="#38_1_target" name="38_1">1</a></sup> the sustainable aviation fuel credit determined under section 40B,
+(34) the zero-emission nuclear power production credit determined under section 45U(a).
+
+(35) the sustainable aviation fuel credit determined under section 40B,
 
 (36) the clean hydrogen production credit determined under section 45V(a),
 
@@ -229,12 +231,6 @@ The order in which the credits listed in section 46 are used shall be determined
 (Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) [title I, §121(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129 Stat. 3049, 3074; Pub. L. 115–97, title I, §§12001(b)(1), 13403(b), (c), Dec. 22, 2017, 131 Stat. 2092, 2137; Pub. L. 115–141, div. U, title IV, §401(a)(8), (b)(5)(A)–(D), (d)(2)(B), (6)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1184, 1201, 1208, 1211; Pub. L. 116–94, div. O, title I, §105(b), Dec. 20, 2019, 133 Stat. 3148; Pub. L. 117–169, title I, §§10101(d), 13105(b)(1), 13203(b), 13204(a)(4)(A), 13401(i)(3), 13403(b)(1), 13502(b)(1), 13701(b)(1), 13704(b)(3), Aug. 16, 2022, 136 Stat. 1828, 1931, 1934, 1939, 1961, 1965, 1981, 1990, 2002; Pub. L. 117–328, div. T, title I, §112(b), Dec. 29, 2022, 136 Stat. 5295.)
 
 #### Amendment of Subsection (b) ####
-
-Pub. L. 117–169, title I, §13105(b)(1), (c), Aug. 16, 2022, 136 Stat. 1931, provided that, applicable to electricity produced and sold after Dec. 31, 2023, in taxable years beginning after such date, subsection (b) of this section is amended by striking "plus" at the end of paragraph (32), striking the period at the end of paragraph (33) and inserting ", plus", and adding at the end the following new paragraph:
-
-*(34) the zero-emission nuclear power production credit determined under section 45U(a).*
-
-See 2022 Amendment note below.
 
 Pub. L. 117–169, title I, §13701(b)(1), (c), Aug. 16, 2022, 136 Stat. 1990, provided that, applicable to facilities placed in service after Dec. 31, 2024, subsection (b) of this section is amended by striking "plus" at the end of paragraph (37), striking the period at the end of paragraph (38) and inserting ", plus", and adding at the end the following new paragraph:
 

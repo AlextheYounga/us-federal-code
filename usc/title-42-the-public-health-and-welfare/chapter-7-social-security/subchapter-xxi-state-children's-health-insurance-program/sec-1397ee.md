@@ -160,7 +160,7 @@ For purposes of paragraph (3)(A), a State meets the condition of this paragraph 
 
 #### (A) Continuous eligibility ####
 
-The State has elected the option of continuous eligibility for a full 12 months for all children described in section 1396a(e)(12) of this title under subchapter XIX under 19 years of age, as well as applying such policy under its State child health plan under this subchapter.
+The State has elected the option of continuous eligibility for a full 12 months for all children described in section 1396a(e)(12) <sup><a href="#1397ee_3_target" name="1397ee_3">3</a></sup> of this title under subchapter XIX under 19 years of age, as well as applying such policy under its State child health plan under this subchapter.
 
 #### (B) Liberalization of asset requirements ####
 
@@ -248,11 +248,11 @@ Expenditures necessary for the State to comply with paragraph (9)(A).
 
 #### (iii) Expenditures for outreach to increase the enrollment of children under this subchapter and subchapter XIX through premium assistance subsidies ####
 
-Expenditures for outreach activities to families of children likely to be eligible for premium assistance subsidies in accordance with paragraph (2)(B), (3), or (10), or a waiver approved under section 1315 of this title, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and to employers likely to provide qualified employer-sponsored coverage (as defined in subparagraph (B) of such paragraph <sup><a href="#1397ee_3_target" name="1397ee_3">3</a></sup>), but not to exceed an amount equal to 1.25 percent of the maximum amount permitted to be expended under subparagraph (A) for items described in subsection (a)(1)(D).
+Expenditures for outreach activities to families of children likely to be eligible for premium assistance subsidies in accordance with paragraph (2)(B), (3), or (10), or a waiver approved under section 1315 of this title, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and to employers likely to provide qualified employer-sponsored coverage (as defined in subparagraph (B) of such paragraph <sup><a href="#1397ee_4_target" name="1397ee_4">4</a></sup>), but not to exceed an amount equal to 1.25 percent of the maximum amount permitted to be expended under subparagraph (A) for items described in subsection (a)(1)(D).
 
 #### (iv) Payment error rate measurement (PERM) expenditures ####
 
-Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup><a href="#1397ee_4_target" name="1397ee_4">4</a></sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
+Expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup><a href="#1397ee_5_target" name="1397ee_5">5</a></sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations).
 
 #### (3) Waiver for purchase of family coverage ####
 
@@ -330,7 +330,7 @@ A State may elect to offer a premium assistance subsidy (as defined in subparagr
 
 Subject to clause (ii), in this paragraph, the term "qualified employer-sponsored coverage" means a group health plan or health insurance coverage offered through an employer—
 
-(I) that qualifies as creditable coverage as a group health plan under section 2701(c)(1) of the Public Health Service Act; <sup><a href="#1397ee_5_target" name="1397ee_5">5</a></sup>
+(I) that qualifies as creditable coverage as a group health plan under section 2701(c)(1) of the Public Health Service Act; <sup><a href="#1397ee_3_target" name="1397ee_3">3</a></sup>
 
 (II) for which the employer contribution toward any premium for such coverage is at least 40 percent; and
 
@@ -434,7 +434,7 @@ In the case of a targeted low-income child who receives child health assistance 
 
 #### (11) Enhanced payments ####
 
-Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup><a href="#1397ee_4_target" name="1397ee_4">4</a></sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
+Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the <sup><a href="#1397ee_5_target" name="1397ee_5">5</a></sup> subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
 
 #### (12) Temporary enhanced payment for coverage and administration of COVID–19 vaccines ####
 
@@ -541,6 +541,8 @@ For purposes of subparagraph (A), the expenditures described in this subparagrap
 #### References in Text ####
 
 Sections 108 and 115 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (a)(3)(E)(ii)(I)(bb), (H), are sections 108 and 115, respectively, of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, 35. Section 108 is not classified to the Code. Section 115 is set out as a note under section 1396d of this title.
+
+Section 1396a(e)(12) of this title, referred to in subsec. (a)(4)(A), was repealed, and a new section 1396a(e)(12) was added, by Pub. L. 117–328, div. FF, title V, §5112(a), Dec. 29, 2022, 136 Stat. 5940.
 
 Section 2701 of the Public Health Service Act, referred to in subsec. (c)(10)(B)(i)(I), is section 2701 of act July 1, 1944, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
@@ -780,8 +782,8 @@ Pub. L. 111–3, title VI, §601(b)–(g), Feb. 4, 2009, 123 Stat. 96–98, as a
 
 [<sup>2</sup> So in original. Subsec. (a) of this section does not contain a par. (16).](#1397ee_2)
 
-[<sup>3</sup> So in original. Probably means subpar. (B) of par. (10).](#1397ee_3)
+[<sup>3</sup> See References in Text note below.](#1397ee_3)
 
-[<sup>4</sup> So in original. The word "the" probably should not appear.](#1397ee_4)
+[<sup>4</sup> So in original. Probably means subpar. (B) of par. (10).](#1397ee_4)
 
-[<sup>5</sup> See References in Text note below.](#1397ee_5)
+[<sup>5</sup> So in original. The word "the" probably should not appear.](#1397ee_5)

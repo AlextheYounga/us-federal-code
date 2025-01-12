@@ -94,21 +94,15 @@ No credit shall be allowed under subsection (a) with respect to any vehicle unle
 
 For purposes of this section, rules similar to the rules of section 30D(f) (without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.
 
-#### (f) Termination ####
+#### (f) Transfer of credit ####
+
+Rules similar to the rules of section 30D(g) shall apply.
+
+#### (g) Termination ####
 
 No credit shall be allowed under this section with respect to any vehicle acquired after December 31, 2032.
 
 (Added and amended Pub. L. 117–169, title I, §13402(a), (b), Aug. 16, 2022, 136 Stat. 1962, 1963.)
-
-#### Amendment of Section ####
-
-Pub. L. 117–169, title I, §13402(b), (e)(2), Aug. 16, 2022, 136 Stat. 1963, 1964, provided that, applicable to vehicles acquired after Dec. 31, 2023, this section is amended by redesignating subsection (f) as subsection (g) and adding the following new subsection (f):
-
-#### *(f) Transfer of credit* ####
-
-*Rules similar to the rules of section 30D(g) shall apply.*
-
-See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 

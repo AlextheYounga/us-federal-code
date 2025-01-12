@@ -62,9 +62,11 @@ The term "new clean vehicle" means a motor vehicle—
 
 (iii) the battery capacity of the vehicle,
 
-(iv) verification that original use of the vehicle commences with the taxpayer, and
+(iv) verification that original use of the vehicle commences with the taxpayer,
 
-(v) the maximum credit under this section allowable to the taxpayer with respect to the vehicle.
+(v) the maximum credit under this section allowable to the taxpayer with respect to the vehicle, and
+
+(vi) in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer.
 
 #### (2) Motor vehicle ####
 
@@ -168,9 +170,7 @@ For purposes of this subtitle, the basis of any property for which a credit is a
 
 The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
 
-#### (3) Property used by tax-exempt entity ####
-
-In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
+#### (3) Repealed. Pub. L. 117–169, title I, §13401(g)(2)(B)(i), Aug. 16, 2022, 136 Stat. 1960 ####
 
 #### (4) Property used outside United States not qualified ####
 
@@ -194,7 +194,7 @@ A vehicle shall not be considered eligible for a credit under this section unles
 
 #### (8) One credit per vehicle ####
 
-In the case of any vehicle, the credit described in subsection (a) shall only be allowed once with respect to such vehicle, as determined based upon the vehicle identification number of such vehicle.
+In the case of any vehicle, the credit described in subsection (a) shall only be allowed once with respect to such vehicle, as determined based upon the vehicle identification number of such vehicle, including any vehicle with respect to which the taxpayer elects the application of subsection (g).
 
 #### (9) VIN requirement ####
 
@@ -258,145 +258,91 @@ In the case of any other vehicle, $55,000.
 
 For purposes of this paragraph, the Secretary shall prescribe such regulations or other guidance as the Secretary determines necessary for determining vehicle classifications using criteria similar to that employed by the Environmental Protection Agency and the Department of the Energy to determine size and class of vehicles.
 
-#### (g) Credit allowed for 2- and 3-wheeled plug-in electric vehicles ####
+#### (g) Transfer of credit ####
 
 #### (1) In general ####
 
-In the case of a qualified 2- or 3-wheeled plug-in electric vehicle—
+Subject to such regulations or other guidance as the Secretary determines necessary, if the taxpayer who acquires a new clean vehicle elects the application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer).
 
-(A) there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable amount with respect to each such qualified 2- or 3-wheeled plug-in electric vehicle placed in service by the taxpayer during the taxable year, and
+#### (2) Eligible entity ####
 
-(B) the amount of the credit allowed under subparagraph (A) shall be treated as a credit allowed under subsection (a).
+For purposes of this subsection, the term "eligible entity" means, with respect to the vehicle for which the credit is allowed under subsection (a), the dealer which sold such vehicle to the taxpayer and has—
 
-#### (2) Applicable amount ####
+(A) subject to paragraph (4), registered with the Secretary for purposes of this paragraph, at such time, and in such form and manner, as the Secretary may prescribe,
 
-For purposes of paragraph (1), the applicable amount is an amount equal to the lesser of—
+(B) prior to the election described in paragraph (1) and not later than at the time of such sale, disclosed to the taxpayer purchasing such vehicle—
 
-(A) 10 percent of the cost of the qualified 2- or 3-wheeled plug-in electric vehicle, or
+(i) the manufacturer's suggested retail price,
 
-(B) $2,500.
+(ii) the value of the credit allowed and any other incentive available for the purchase of such vehicle, and
 
-#### (3) Qualified 2- or 3-wheeled plug-in electric vehicle ####
+(iii) the amount provided by the dealer to such taxpayer as a condition of the election described in paragraph (1),
 
-The term "qualified 2- or 3-wheeled plug-in electric vehicle" means any vehicle which—
+(C) not later than at the time of such sale, made payment to such taxpayer (whether in cash or in the form of a partial payment or down payment for the purchase of such vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, and
 
-(A) has 2 or 3 wheels,
+(D) with respect to any incentive otherwise available for the purchase of a vehicle for which a credit is allowed under this section, including any incentive in the form of a rebate or discount provided by the dealer or manufacturer, ensured that—
 
-(B) meets the requirements of subparagraphs (A), (B), (C), (E), and (F) of subsection (d)(1) (determined by substituting "2.5 kilowatt hours" for "4 kilowatt hours" in subparagraph (F)(i)),
+(i) the availability or use of such incentive shall not limit the ability of a taxpayer to make an election described in paragraph (1), and
 
-(C) is manufactured primarily for use on public streets, roads, and highways,
+(ii) such election shall not limit the value or use of such incentive.
 
-(D) is capable of achieving a speed of 45 miles per hour or greater, and
+#### (3) Timing ####
 
-(E) is acquired—
+An election described in paragraph (1) shall be made by the taxpayer not later than the date on which the vehicle for which the credit is allowed under subsection (a) is purchased.
 
-(i) after December 31, 2011, and before January 1, 2014, or
+#### (4) Revocation of registration ####
 
-(ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2022.
+Upon determination by the Secretary that a dealer has failed to comply with the requirements described in paragraph (2), the Secretary may revoke the registration (as described in subparagraph (A) of such paragraph) of such dealer.
+
+#### (5) Tax treatment of payments ####
+
+With respect to any payment described in paragraph (2)(C), such payment—
+
+(A) shall not be includible in the gross income of the taxpayer, and
+
+(B) with respect to the dealer, shall not be deductible under this title.
+
+#### (6) Application of certain other requirements ####
+
+In the case of any election under paragraph (1) with respect to any vehicle—
+
+(A) the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section with respect to such vehicle were allowed to such taxpayer,
+
+(B) paragraph (6) of such subsection shall not apply, and
+
+(C) the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied if the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide.
+
+#### (7) Advance payment to registered dealers ####
+
+#### (A) In general ####
+
+The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph (1) has been made.
+
+#### (B) Excessive payments ####
+
+Rules similar to the rules of section 6417(d)(6) shall apply for purposes of this paragraph.
+
+#### (C) Treatment of advance payments ####
+
+For purposes of section 1324 of title 31, United States Code, the payments under subparagraph (A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+#### (8) Dealer ####
+
+For purposes of this subsection, the term "dealer" means a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)) <sup><a href="#30D_1_target" name="30D_1">1</a></sup> to engage in the sale of vehicles.
+
+#### (9) Indian tribal government ####
+
+For purposes of this subsection, the term "Indian tribal government" means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
+
+#### (10) Recapture ####
+
+In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity, if the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer.
 
 #### (h) Termination ####
 
 No credit shall be allowed under this section with respect to any vehicle placed in service after December 31, 2032.
 
 (Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338; Pub. L. 113–295, div. A, title II, §209(e), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–113, div. Q, title I, §183(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40405(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §126(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §144(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §13401(a)–(i)(1), Aug. 16, 2022, 136 Stat. 1954–1961.)
-
-#### Amendment of Section ####
-
-Pub. L. 117–169, title I, §13401(g), (k)(4), Aug. 16, 2022, 136 Stat. 1958, 1962, provided that, applicable to vehicles placed in service after Dec. 31, 2023, this section is amended as follows:
-
-(1) in subsection (d)(1)(H), by striking "and" at the end of clause (iv), striking the period at the end of clause (v) and inserting ", and", and adding at the end the following:
-
-*"(vi) in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer.";*
-
-(2) in subsection (f):
-
-(A) by striking paragraph (3); and
-
-(B) in paragraph (8), by inserting ", including any vehicle with respect to which the taxpayer elects the application of subsection (g)" before the period at the end; and
-
-(3) by striking subsection (g) and inserting the following:
-
-#### *"(g) Transfer of credit* ####
-
-#### *"(1) In general* ####
-
-*"Subject to such regulations or other guidance as the Secretary determines necessary, if the taxpayer who acquires a new clean vehicle elects the application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer).*
-
-#### *"(2) Eligible entity* ####
-
-*"For purposes of this subsection, the term 'eligible entity' means, with respect to the vehicle for which the credit is allowed under subsection (a), the dealer which sold such vehicle to the taxpayer and has—*
-
-*"(A) subject to paragraph (4), registered with the Secretary for purposes of this paragraph, at such time, and in such form and manner, as the Secretary may prescribe,*
-
-*"(B) prior to the election described in paragraph (1) and not later than at the time of such sale, disclosed to the taxpayer purchasing such vehicle—*
-
-*"(i) the manufacturer's suggested retail price,*
-
-*"(ii) the value of the credit allowed and any other incentive available for the purchase of such vehicle, and*
-
-*"(iii) the amount provided by the dealer to such taxpayer as a condition of the election described in paragraph (1),*
-
-*"(C) not later than at the time of such sale, made payment to such taxpayer (whether in cash or in the form of a partial payment or down payment for the purchase of such vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, and*
-
-*"(D) with respect to any incentive otherwise available for the purchase of a vehicle for which a credit is allowed under this section, including any incentive in the form of a rebate or discount provided by the dealer or manufacturer, ensured that—*
-
-*"(i) the availability or use of such incentive shall not limit the ability of a taxpayer to make an election described in paragraph (1), and*
-
-*"(ii) such election shall not limit the value or use of such incentive.*
-
-#### *"(3) Timing* ####
-
-*"An election described in paragraph (1) shall be made by the taxpayer not later than the date on which the vehicle for which the credit is allowed under subsection (a) is purchased.*
-
-#### *"(4) Revocation of registration* ####
-
-*"Upon determination by the Secretary that a dealer has failed to comply with the requirements described in paragraph (2), the Secretary may revoke the registration (as described in subparagraph (A) of such paragraph) of such dealer.*
-
-#### *"(5) Tax treatment of payments* ####
-
-*"With respect to any payment described in paragraph (2)(C), such payment—*
-
-*"(A) shall not be includible in the gross income of the taxpayer, and*
-
-*"(B) with respect to the dealer, shall not be deductible under this title.*
-
-#### *"(6) Application of certain other requirements* ####
-
-*"In the case of any election under paragraph (1) with respect to any vehicle—*
-
-*"(A) the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section with respect to such vehicle were allowed to such taxpayer,*
-
-*"(B) paragraph (6) of such subsection shall not apply, and*
-
-*"(C) the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied if the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide.*
-
-#### *"(7) Advance payment to registered dealers* ####
-
-#### *"(A) In general* ####
-
-*"The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph (1) has been made.*
-
-#### *"(B) Excessive payments* ####
-
-*"Rules similar to the rules of section 6417(d)(6) shall apply for purposes of this paragraph.*
-
-#### *"(C) Treatment of advance payments* ####
-
-*"For purposes of section 1324 of title 31, United States Code, the payments under subparagraph (A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.*
-
-#### *"(8) Dealer* ####
-
-*"For purposes of this subsection, the term 'dealer' means a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)) to engage in the sale of vehicles.*
-
-#### *"(9) Indian tribal government* ####
-
-*"For purposes of this subsection, the term 'Indian tribal government' means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).*
-
-#### *"(10) Recapture* ####
-
-*"In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity, if the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer."*
-
-See 2022 Amendment notes below.
 
 #### **Editorial Notes** ####
 
@@ -543,3 +489,5 @@ Section applicable to taxable years beginning after Dec. 31, 2008, see section 2
 #### Gross-Up of Direct Spending ####
 
 Pub. L. 117–169, title I, §13401(j), Aug. 16, 2022, 136 Stat. 1961, provided that: "Beginning in fiscal year 2023 and each fiscal year thereafter, the portion of any credit allowed to an eligible entity (as defined in section 30D(g)(2) of the Internal Revenue Code of 1986) pursuant to an election made under section 30D(g) of the Internal Revenue Code of 1986 that is direct spending shall be increased by 6.0445 percent."
+
+[<sup>1</sup> So in original. Another closing parenthesis probably should appear.](#30D_1)
