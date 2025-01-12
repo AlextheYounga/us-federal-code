@@ -138,7 +138,7 @@ An individual entitled to an annuity under this section who has completed five y
 
 #### References in Text ####
 
-The Social Security Act, referred to in subsecs. (c)(4), (d)(1)(iv), (f)(1), (2), (4), and (i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(4), (d)(1)(iv), (f)(1), (2), (4), and (i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Paragraph (3) of section 202(e) of the Social Security Act [42 U.S.C. 402(e)(3)], referred to in subsec. (d)(1)(v), was repealed, and paragraph (4) of section 202(e) of that Act was redesignated as paragraph (3) of section 202(e) and was further amended, by Pub. L. 98–21, title I, §131(a)(1)–(3)(A), Apr. 20, 1983, 97 Stat. 92.
 

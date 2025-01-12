@@ -8,7 +8,7 @@ In any case in which it may be necessary or advisable in the execution of an aut
 
 #### References in Text ####
 
-The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

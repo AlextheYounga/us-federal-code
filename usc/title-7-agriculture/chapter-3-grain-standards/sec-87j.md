@@ -4,9 +4,9 @@
 
 Not later than ninety days after October 24, 1988, the Secretary shall establish an advisory committee to provide advice to the Secretary with respect to implementation of this chapter consistent with the declarations of policy in section 74 of this title. The advisory committee shall consist of fifteen members, appointed by the Secretary, who represent the interests of all segments of the grain producing, processing, storing, merchandising, consuming, and exporting industries, including grain inspection and weighing agencies and scientists with expertise in research related to the policies established in section 74 of this title. Members of the advisory committee shall be appointed to three-year terms, except that of the initial fifteen members of the advisory committee first appointed following the enactment of this section, five shall be appointed for terms of one year and five shall be appointed for terms of two years. No member of the advisory committee may serve successively for more than 2 terms.
 
-#### (b) Federal Advisory Committee Act as governing ####
+#### (b) Chapter 10 of title 5 as governing ####
 
-The advisory committee shall be governed by the provisions of the Federal Advisory Committee Act [5 U.S.C. App.].
+The advisory committee shall be governed by the provisions of chapter 10 of title 5.
 
 #### (c) Clerical assistance and staff personnel ####
 
@@ -20,7 +20,7 @@ Members of the advisory committee shall serve without compensation, if not other
 
 The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2025.
 
-(Aug. 11, 1916, ch. 313, pt. B, §21, as added Pub. L. 100–518, §2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §109, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(g), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, §7, Dec. 11, 2020, 134 Stat. 1050.)
+(Aug. 11, 1916, ch. 313, pt. B, §21, as added Pub. L. 100–518, §2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §109, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(g), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, §7, Dec. 11, 2020, 134 Stat. 1050; Pub. L. 117–286, §4(a)(20), Dec. 27, 2022, 136 Stat. 4307.)
 
 #### **Editorial Notes** ####
 
@@ -28,9 +28,9 @@ The authority provided to the Secretary for the establishment and maintenance of
 
 The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, the date of enactment of Pub. L. 100–518.
 
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments ####
+
+**2022**—Subsec. (b). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 **2020**—Subsec. (a). Pub. L. 116–216, §7(1), in last sentence, substituted "successively for more than 2 terms" for "successive terms".
 

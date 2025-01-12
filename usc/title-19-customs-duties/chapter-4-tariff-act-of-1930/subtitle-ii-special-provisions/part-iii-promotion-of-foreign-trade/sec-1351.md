@@ -110,7 +110,7 @@ The Trade Agreements Extension Act of 1955, referred to in subsec. (a)(1)(A), is
 
 Paragraph (5) of this subsection, referred to in subsec. (a)(3)(A), was repealed by Pub. L. 87–794, title III, §257(b), Oct. 11, 1962, 76 Stat. 882.
 
-The Trade Expansion Act of 1962, referred to in subsec. (b), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, as amended, which is classified generally to chapter 7 (§1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Trade Expansion Act of 1962, referred to in subsec. (b), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, which is classified generally to chapter 7 (§1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1362 of this title, referred to in subsec. (c)(2)(A), related to suspension or withdrawal of concessions from Communistic areas and was repealed by Pub. L. 87–794, title II, §257(e)(1), Oct. 11, 1962, 76 Stat. 882.
 

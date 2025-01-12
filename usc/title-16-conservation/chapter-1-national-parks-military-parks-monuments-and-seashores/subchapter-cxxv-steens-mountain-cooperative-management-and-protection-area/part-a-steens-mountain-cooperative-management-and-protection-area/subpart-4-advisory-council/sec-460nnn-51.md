@@ -60,13 +60,13 @@ The Secretary shall provide the advisory council with necessary administrative s
 
 #### (g) State liaison ####
 
-The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the advisory council.
+The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the adv1isory council.
 
 #### (h) Applicable law ####
 
-The advisory committee <sup><a href="#460nnn-51_2_target" name="460nnn-51_2">2</a></sup> shall be subject to the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and the Federal Advisory Committee Act (5 U.S.C. App.).
+The advisory committee <sup><a href="#460nnn-51_2_target" name="460nnn-51_2">2</a></sup> shall be subject to the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and chapter 10 of title 5.
 
-(Pub. L. 106–399, title I, §131, Oct. 30, 2000, 114 Stat. 1664.)
+(Pub. L. 106–399, title I, §131, Oct. 30, 2000, 114 Stat. 1664; Pub. L. 117–286, §4(a)(96), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### **Editorial Notes** ####
 
@@ -74,7 +74,9 @@ The advisory committee <sup><a href="#460nnn-51_2_target" name="460nnn-51_2">2<
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments ####
+
+**2022**—Subsec. (h). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 
 [<sup>1</sup> So in original. Two subsecs. (d) have been enacted.](#460nnn-51_1)
 

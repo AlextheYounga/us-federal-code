@@ -18,13 +18,9 @@
 
 (D) any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
 
-(c) <sup><a href="#122a_1_target" name="122a_1">1</a></sup> Semi-annual Summaries.—Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
+(c) Semi-annual Summaries.—Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
 
 (Added Pub. L. 111–383, div. A, title X, §1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, §1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, §1081(a), Dec. 26, 2013, 127 Stat. 871; Pub. L. 115–91, div. A, title X, §1081(a)(3), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 117–81, div. A, title X, §1062(a), Dec. 27, 2021, 135 Stat. 1909.)
-
-#### Applicability of Amendment ####
-
-Subsec. (c) of this section as added by section 1062(a) of Pub. L. 117–81 applicable one year after Dec. 27, 2021. See Effective Date of 2021 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -81,5 +77,3 @@ Pub. L. 115–232, div. A, title V, §595, Aug. 13, 2018, 132 Stat. 1789, provid
 "(B) the reasons for the determination to issue the waiver.
 
 "(c) Sensitive Military Operation Defined.—The term 'sensitive military operation' has the meaning given that term in section 130f(d) of title 10, United States Code."
-
-[<sup>1</sup> See Applicability of Amendment note below.](#122a_1)

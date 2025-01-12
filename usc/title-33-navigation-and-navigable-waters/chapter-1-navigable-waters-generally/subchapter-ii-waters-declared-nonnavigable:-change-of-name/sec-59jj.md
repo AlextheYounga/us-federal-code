@@ -142,9 +142,9 @@ If, on the date that is 20 years after November 12, 2001, any area or portion of
 
 #### References in Text ####
 
-Act of March 3, 1899, referred to in subsec. (b)(2)(A), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, as amended, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended section 686 of this title. For complete classification of this Act to the Code, see Tables.
+Act of March 3, 1899, referred to in subsec. (b)(2)(A), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended section 686 of this title. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 [<sup>1</sup> So in original. Probably should be preceded by "this".](#59jj_1)
 

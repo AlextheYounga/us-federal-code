@@ -1472,7 +1472,7 @@ Pub. L. 113–291, div. B, title XXX, §3091(a)–(c)(3)(B), Dec. 19, 2014, 128 
 
 "(c) Additional Amendments to World War I Centennial Commission Act.—[Pars. (1) to (3)(B) amended sections 4, 7, and 9 of Pub. L. 112–272, set out below. Par. (3)(C) amended table of contents of Pub. L. 112–272, which was omitted from the Code.]"
 
-Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860; Pub. L. 114–289, title VI, §601(l), Dec. 16, 2016, 130 Stat. 1492, provided that:
+Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860; Pub. L. 114–289, title VI, §601(l), Dec. 16, 2016, 130 Stat. 1492; Pub. L. 117–286, §4(a)(216), Dec. 27, 2022, 136 Stat. 4329, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS. ####
 
@@ -1662,11 +1662,11 @@ Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–29
 
 "(2) July 28, 2019.
 
-"(b) Application of Federal Advisory Committee Act.—
+"(b) Application of Chapter 10 of Title 5, United States Code.—
 
-"(1) In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
+"(1) In general.—Except as provided in paragraph (2), the provisions of chapter 10 of title 5, United States Code, shall apply to the activities of the Centennial Commission under this Act.
 
-"(2) Exception.—Section 14(a)(2) of such Act shall not apply to the Centennial Commission.
+"(2) Exception.—Section 1013(a) of title 5, United States Code, shall not apply to the Centennial Commission.
 
 "(c) Exception for Completion of World War I Memorial.—The Centennial Commission may perform such work as is necessary to complete the rededication of a World War I Memorial and enhancement of the General Pershing Commemorative Work under section 3091(b) of the National Defense Authorization Act for Fiscal Year 2015 [Pub. L. 113–291, set out above], subject to section 8903 of title 40, United States Code.
 
@@ -1866,37 +1866,41 @@ Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, 
 
 #### **Executive Documents** ####
 
-#### Proc. No. 10210. Armed Forces Day ####
+#### Proc. No. 10400. Armed Forces Day ####
 
-Proc. No. 10210, May 14, 2021, 86 F.R. 27017, provided:
+Proc. No. 10400, May 20, 2022, 87 F.R. 31701, provided:
 
-On Armed Forces Day, we honor and offer our profound appreciation and gratitude to the patriots who are serving in our Nation's Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard. Their professionalism and unwavering dedication to supporting and defending our Constitution has been vital in allowing our democracy to flourish, safeguarding peace and growing prosperity for our citizens, and giving hope to oppressed peoples or those facing tyranny abroad. Less than one percent of Americans serve on active duty in the Armed Forces. Those who do volunteer to put their lives on the line to protect our country and democracy wherever they are called to serve. Whether they are Active Duty, National Guard, or in the Reserve, they are true American heroes, and we all owe them.
+On Armed Forces Day, we share our unending appreciation for the proud patriots who answer the call to serve, taking the sacred oath to defend our Constitution. The brave members of our Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, and National Guard and Reserve forces represent the best of our Nation. Today and every day, we honor their immeasurable service on behalf of our grateful Nation.
 
-Our military members do not swear allegiance to an individual, group, or political party. Their oath is to the United States Constitution. By bringing together people from different races, religions, and sexual orientations and melding them into a cohesive fighting force, our military embodies the promise of our democratic experiment. My Administration is determined to foster an environment that empowers our Armed Forces and improves retention and promotion of the best talent, to strengthen military readiness. Any ideology, actions, or influences that seek to undermine this solidarity must be exposed and eliminated.
+On this special day of tribute, we recognize the sacrifices that our service members and their families make on our behalf, and we recommit to our solemn duty to support them as they protect us. Our Nation has a sacred obligation to properly equip and prepare our troops when we send them in to harm's way and to support them—both while they are serving abroad and when they return home—as well as their families, caregivers, and survivors. We must meet this obligation.
 
-The unmatched strength of the United States Armed Forces reflects our greatest strength as a people, our diversity. Our military has proven—time and time again—that the insistent pursuit of greater inclusion and equality makes us a more robust, more resilient, and more powerful Nation. As we pay tribute to those who serve, we acknowledge our continuing obligation to ensure that all qualified and willing Americans who wish to serve in the United States Armed Forces are able to do so openly and free from discrimination.
+My Administration's unity agenda focuses on key issues that bring Americans together: supporting our veterans, beating the opioid epidemic, addressing our national mental health crisis, and ending cancer as we know it. Each of these issues impact our military community, and each is essential to meeting our obligation to our troops, their families, caregivers, and survivors. Mental health issues pose a real challenge to our service members and their families, and my Administration will continue to strengthen the tools, resources, and support for our military community so our brave service members, who have answered the call to serve, can thrive. This includes taking bold action to reduce suicide among service members, veterans, and their families.
 
-My Administration is committed to confronting and driving out sexual assault and harassment, so that all members of the Armed Services feel safe and welcome in the ranks. We will improve retention and promotion of our best talent by using a single standard, one based on excellence.
+The success of our Armed Forces also rests on every member of our military community feeling that their safety and ability to prosper is prioritized as they defend our Nation. That is why my Administration is so focused on addressing the potential adverse consequences related to toxic exposures or exposures to other environmental hazards during deployment or in garrison.
 
-The Biden family knows personally that the burden of service does not fall solely on those who wear a uniform. Our military family members also serve our country and make great sacrifices to support their loved ones. They give their best to their service members, and we must give our best to ensuring military families have what they need to thrive. This is a national security imperative that supports military retention and readiness, and my Administration is committed to supporting policies that promote the well-being of our war fighters and their families.
+Safety for our troops also means addressing the scourge of sexual harassment and sexual assault in our military. We have already taken important steps. In December, I was proud to sign into law historic military justice reforms as part of the 2022 National Defense Authorization Act [Pub. L. 117–81]. The Department of Defense is working to implement these critical changes, alongside recommendations from the Independent Review Commission on Sexual Assault in the Military for prevention, climate and culture, and victim care and support. Much work still lies ahead to deliver the progress that our troops deserve, and this will remain a top priority for my Administration.
 
-Through the First Lady's work with Joining Forces, the White House has committed to supporting military and veteran families, caregivers, and survivors through economic and entrepreneurship opportunities, support for military child education, and health and well-being resources. Joining Forces will continue to convene and collaborate with Federal agency partners, non-profit organizations, corporate stakeholders, and service providers to develop comprehensive, meaningful, and long-term solutions to address the holistic well-being of military and veteran families, caregivers, and survivors.
+Our diversity is one of our greatest strengths as a Nation, and we will continue to strive for our Armed Forces to reflect society at every level within its ranks. Ensuring equal opportunity and greater inclusivity will bolster the strength of our military and make sure every American knows they can succeed and thrive as a member of the United States Armed Forces. We are renewing our efforts to address the recruitment, retention, and well-being of women in the military as well as providing a path to service for other under-represented groups.
 
-The United States Armed Forces are the greatest fighting force in the history of the world. They defend universal values and advance the cause of freedom around the globe. On this day, we salute and show gratitude for all who serve and commit to ensuring our Armed Forces remain strong, united, and unmatched.
+As we look around the world today, we are reminded again that freedom comes at great cost. Throughout our history, brave Americans have always stepped forward to defend our liberties—willing to pay the price to keep our country safe. Our Nation's Armed Forces are the best in the world. And we know that it is not only the person who wears our Nation's uniform that serves. Their loved ones serve as well. Today, we also honor the families, caregivers, and survivors of our Armed Forces—all those who sacrifice on our behalf and who give their all to support the service members they stand behind.
+
+On Armed Forces Day, we salute our brave service members, whose dedication and sacrifice ensure that our Nation's Armed Forces are unmatched in strength, unity, and resilience. They are the greatest fighting force the world has ever known.
 
 NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
-I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, Marine Corps, Space Force, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for soliciting the participation and cooperation of civil authorities and private citizens. I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and other organizations to join in the observance of Armed Forces Day each year.
+I direct the Secretary of Defense, on behalf of the Army, Navy, Air Force, Marine Corps, Space Force, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for soliciting the participation and cooperation of civil authorities and private citizens. I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States to provide for the observance of Armed Forces Day within their respective jurisdictions each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and other organizations to join in the observance of Armed Forces Day each year.
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 10034 of May 15, 2020, is hereby superseded.
+Proclamation 10210 of May 14, 2021, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of May, in the year of our Lord two thousand twenty-one, and of the Independence of the United States of America the two hundred and forty-fifth.
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of May, in the year of our Lord two thousand twenty-two, and of the Independence of the United States of America the two hundred and forty-sixth.
 
 J.R. Biden, Jr.
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 10210, May 14, 2021, 86 F.R. 27017, superseded by Proc No. 10400, May 20, 2022, 87 F.R. 31702.
 
 Proc. No. 10034, May 15, 2020, 85 F.R. 30585, superseded by Proc. No. 10210, May 14, 2021, 86 F.R. 27017.
 

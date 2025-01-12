@@ -10,18 +10,18 @@ The Secretary shall establish an Advisory Commission of no more than fifteen mem
 
 (2) Vacancies in the advisory commission shall be filled by the Secretary so as to maintain the full diversity of views required to be represented on the advisory commission.
 
-#### (c) Applicability of Federal Advisory Committee Act ####
+#### (c) Applicability of chapter 10 of title 5 ####
 
-The Federal Advisory Committee Act shall apply to the procedures and activities of the advisory commission.
+Chapter 10 of title 5 shall apply to the procedures and activities of the advisory commission.
 
 #### (d) Termination ####
 
 The advisory commission shall cease to exist ten years after the date of its establishment.
 
-(Pub. L. 103–433, title IV, §407, Oct. 31, 1994, 108 Stat. 4489.)
+(Pub. L. 103–433, title IV, §407, Oct. 31, 1994, 108 Stat. 4489; Pub. L. 117–286, §4(a)(85), Dec. 27, 2022, 136 Stat. 4315.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
+#### Amendments ####
 
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+**2022**—Subsec. (c). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act".

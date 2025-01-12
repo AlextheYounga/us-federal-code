@@ -176,7 +176,7 @@ The members of the Council shall not receive compensation for the performance of
 
 #### (F) Permanent Council ####
 
-Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+Section 1013 of title 5 shall not apply to the Council.
 
 #### (e) State responsibilities ####
 
@@ -230,15 +230,13 @@ There are authorized to be appropriated to carry out this section $60,153,000 fo
 
 In this section, the term "local area" means the smallest geographical area for which data can be produced with statistical reliability.
 
-(June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, §308, July 22, 2014, 128 Stat. 1627; Pub. L. 115–224, title III, §301, July 31, 2018, 132 Stat. 1622.)
+(June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, §308, July 22, 2014, 128 Stat. 1627; Pub. L. 115–224, title III, §301, July 31, 2018, 132 Stat. 1622; Pub. L. 117–286, §4(a)(186), Dec. 27, 2022, 136 Stat. 4326.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
 Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 134(d) of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to section 2864(d) of this title. The Wagner-Peyser Act, of which this section is a part, does not contain a section 134.
-
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(2)(F), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
@@ -247,6 +245,8 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set out as a Short Title note under section 49 of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (d)(2)(F). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)".
 
 **2018**—Subsec. (e)(2)(B). Pub. L. 115–224, §301(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;".
 

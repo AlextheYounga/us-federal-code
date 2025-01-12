@@ -26,7 +26,7 @@
 
 (3) The Commission is authorized in furtherance of the directive in paragraph (2) of this subsection—
 
-(A) to create one or more advisory committees pursuant to the Federal Advisory Committee Act (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section) and to employ one or more outside experts;
+(A) to create one or more advisory committees pursuant to chapter 10 of title 5 (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section),<sup><a href="#78k-1_2_target" name="78k-1_2">2</a></sup> and to employ one or more outside experts;
 
 (B) by rule or order, to authorize or require self-regulatory organizations to act jointly with respect to matters as to which they share authority under this chapter in planning, developing, operating, or regulating a national market system (or a subsystem thereof) or one or more facilities thereof; and
 
@@ -128,7 +128,7 @@ With respect to security futures products, the Commission and the Commodity Futu
 
 No rule adopted pursuant to this section shall be applied to any person with respect to the trading of security futures products on an exchange that is registered under section 78f(g) of this title unless the Commodity Futures Trading Commission has issued an order directing that such rule is applicable to such persons.
 
-(June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) [title II, §206(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–430; Pub. L. 112–106, title I, §106(b), Apr. 5, 2012, 126 Stat. 312.)
+(June 6, 1934, ch. 404, title I, §11A, as added Pub. L. 94–29, §7, June 4, 1975, 89 Stat. 111; amended Pub. L. 98–620, title IV, §402(14), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–181, title III, §§313, 314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 106–554, §1(a)(5) [title II, §206(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–430; Pub. L. 112–106, title I, §106(b), Apr. 5, 2012, 126 Stat. 312; Pub. L. 117–286, §4(a)(62), Dec. 27, 2022, 136 Stat. 4312.)
 
 #### **Editorial Notes** ####
 
@@ -136,9 +136,9 @@ No rule adopted pursuant to this section shall be applied to any person with res
 
 This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments ####
+
+**2022**—Subsec. (a)(3)(A). Pub. L. 117–286 substituted "chapter 10 of title 5 (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section)," for "the Federal Advisory Committee Act (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section)".
 
 **2012**—Subsec. (c)(6). Pub. L. 112–106 added par. (6).
 
@@ -167,3 +167,5 @@ Section effective June 4, 1975, except for subsec. (b) which is effective 180 da
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 [<sup>1</sup> So in original. Probably should be "are hereinafter".](#78k-1_1)
+
+[<sup>2</sup> So in original. The comma probably should not appear.](#78k-1_2)

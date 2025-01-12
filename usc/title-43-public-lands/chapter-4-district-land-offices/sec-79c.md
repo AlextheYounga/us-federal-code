@@ -8,7 +8,7 @@ No provision of this Act shall relieve any public land applicant or claimant fro
 
 #### References in Text ####
 
-This Act, referred to in text, is act Apr. 24, 1944, ch. 177, 58 Stat. 215, as amended, which enacted sections 79a to 79c of this title, repealed sections 80 and 80a of this title, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Apr. 24, 1944, ch. 177, 58 Stat. 215, which enacted sections 79a to 79c of this title, repealed sections 80 and 80a of this title, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

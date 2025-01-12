@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 Section 101 of the National Historic Preservation Act (16 U.S.C. 470a), referred to in subsec. (b), is section 101 of Pub. L. 89–665, which was repealed and restated as chapters 3021 to 3027 and sections 302902(a), 302903(a), 302904 to 302909, 303902, 303903, and 306101(b) and (c) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
 
-The Archaeological Resource Protection Act of 1979, referred to in subsec. (c), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
+The Archaeological Resource Protection Act of 1979, referred to in subsec. (c), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
 Section 801 of Public Law 94–241, referred to in subsec. (f)(4), probably means section 801 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as contained in section 1 of Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
 

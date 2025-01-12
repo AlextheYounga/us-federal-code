@@ -2,7 +2,7 @@
 
 Section 3311, Pub. L. 103–182, title I, §101, Dec. 8, 1993, 107 Stat. 2061, related to approval and entry into force of the North American Free Trade Agreement.
 
-Section 3312, Pub. L. 103–182, title I, §102, Dec. 8, 1993, 107 Stat. 2062, described the relationship of the Agreement to United States and State law.
+Section 3312, Pub. L. 103–182, title I, §102, Dec. 8, 1993, 107 Stat. 2062; Pub. L. 117–286, §4(a)(141), Dec. 27, 2022, 136 Stat. 4321, described the relationship of the Agreement to United States and State law.
 
 Section 3313, Pub. L. 103–182, title I, §103, Dec. 8, 1993, 107 Stat. 2063, related to consultation and layover requirements for, and effective date of, proclaimed actions.
 

@@ -194,7 +194,7 @@ the Secretary shall establish the Council pursuant to this subsection as a Feder
 
 (ii) Scientific Peer Review Groups.—The Council shall establish Scientific Peer Review Groups (Peer Review Groups), which shall be comprised of the appropriate number of scientists, from a list submitted by the Academy to assist the Panel in making its recommendations to the Council for projects to be funded through BPA's annual fish and wildlife budget, provided that Pacific Northwest scientists with expertise in Columbia River anadromous and non-anadromous fish and wildlife and ocean experts shall be among those represented on the Peer Review Groups. The Academy shall provide such nominations within 90 days of September 30, 1996, and in any case not later than December 31, 1996. If appointments are required in subsequent years, the Council shall request nominations from the Academy and the Academy shall provide nominations not later than 90 days after the date of this request. If the Academy does not provide nominations within these time requirements, the Council may appoint such members as the Council deems appropriate.
 
-(iii) Conflict of Interest and Compensation.—Panel and Peer Review Group members may be compensated and shall be considered subject to the conflict of interest standards that apply to scientists performing comparable work for the National Academy of Sciences; provided that a Panel or Peer Review Group members with a direct or indirect financial interest in a project, or projects, shall recuse himself or herself from review of, or recommendations associated with, such project or projects. All expenses of the Panel and the Peer Review Groups shall be paid by BPA as provided for under paragraph (vii). Neither the Panel nor the Peer Review Groups shall be deemed advisory committees within the meaning of the Federal Advisory Committee Act.
+(iii) Conflict of Interest and Compensation.—Panel and Peer Review Group members may be compensated and shall be considered subject to the conflict of interest standards that apply to scientists performing comparable work for the National Academy of Sciences; provided that a Panel or Peer Review Group members with a direct or indirect financial interest in a project, or projects, shall recuse himself or herself from review of, or recommendations associated with, such project or projects. All expenses of the Panel and the Peer Review Groups shall be paid by BPA as provided for under paragraph (vii). Neither the Panel nor the Peer Review Groups shall be deemed advisory committees within the meaning of chapter 10 of title 5.
 
 (iv) Project Criteria and Review.—The Peer Groups, in conjunction with the Panel, shall review projects proposed to be funded through BPA's annual fish and wildlife budget and make recommendations on matters related to such projects to the Council no later than June 15 of each year. If the recommendations are not received by the Council by this date, the Council may proceed to make final recommendations on project funding to BPA, relying on the best information available. The Panel and Peer Review Groups shall review a sufficient number of projects to adequately ensure that the list of prioritized projects recommended is consistent with the Council's program. Project recommendations shall be based on a determination that projects: are based on sound science principles; benefit fish and wildlife; and have a clearly defined objective and outcome with provisions for monitoring and evaluation of results. The Panel, with assistance from the Peer Review Groups, shall review, on an annual basis, the results of prior year expenditures based upon these criteria and submit its findings to the Council for its review.
 
@@ -244,7 +244,7 @@ The Council may from time to time review the actions of the Administrator pursua
 
 (2) The Administrator may determine that section 839a(4)(D) of this title shall not apply to any proposed conservation measure or resource if the Administrator finds after receipt of such analysis from the Council that such measure or resource would have any result or effect described in subparagraph (A), (B) or (C) of paragraph (1).
 
-(Pub. L. 96–501, §4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, §6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, §512, Sept. 30, 1996, 110 Stat. 3005; Pub. L. 106–60, title VI, §610, Sept. 29, 1999, 113 Stat. 502; Pub. L. 112–74, div. B, title III, §307, Dec. 23, 2011, 125 Stat. 877.)
+(Pub. L. 96–501, §4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, §6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, §512, Sept. 30, 1996, 110 Stat. 3005; Pub. L. 106–60, title VI, §610, Sept. 29, 1999, 113 Stat. 502; Pub. L. 112–74, div. B, title III, §307, Dec. 23, 2011, 125 Stat. 877; Pub. L. 117–286, §4(a)(104), Dec. 27, 2022, 136 Stat. 4317.)
 
 #### **Editorial Notes** ####
 
@@ -254,13 +254,13 @@ The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 
 
 The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(10)(A) and (h)(10)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h)(10)(D)(iii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification ####
 
 September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the original "the date of this enactment", which was translated as meaning the date of enactment of Pub. L. 104–206, which enacted subsec. (h)(10)(D), to reflect the probable intent of Congress.
 
 #### Amendments ####
+
+**2022**—Subsec. (h)(10)(D)(iii). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 **2011**—Subsec. (h)(10)(B). Pub. L. 112–74, which directed amendment of "section 839b(h)(10)(B) of title 16, United States Code" by substituting "$2,500,000" for "$1,000,000", was executed by making the substitution in subsec. (h)(10)(B) of this section, which is section 4 of the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress.
 

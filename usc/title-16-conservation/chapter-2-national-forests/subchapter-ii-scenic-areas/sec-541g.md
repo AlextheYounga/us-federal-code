@@ -2,7 +2,7 @@
 
 #### (a) Advisory council; establishment; consultation; members; term; appointment ####
 
-The Secretary, pursuant to the Federal Advisory Committee Act, shall establish an advisory council for the Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management of the Area. The members of the advisory council, who shall not exceed eleven in number, shall serve for the individual staggered terms of three years each and shall be appointed by the Secretary as follows—
+The Secretary, pursuant to chapter 10 of title 5, shall establish an advisory council for the Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management of the Area. The members of the advisory council, who shall not exceed eleven in number, shall serve for the individual staggered terms of three years each and shall be appointed by the Secretary as follows—
 
 (1) a member to represent each county in which a portion of the Area is located, each such appointee to be designated by the respective governing body of the county involved;
 
@@ -22,13 +22,13 @@ The members shall not receive any compensation for their services as members of 
 
 In addition to his consultation with the advisory council, the Secretary shall seek the views of other private groups, individuals, and the public, and shall seek the views and assistance of, and cooperate with all other Federal, State, and local agencies with responsibilities for zoning, planning, migratory fish, waterfowl, and marine animals, water, and natural resources, and all nonprofit agencies and organizations which may contribute information or expertise about the resources, and the management, of the Area, in order that the knowledge, expertise and views of all agencies and groups may contribute affirmatively to the most sensitive present and future use of the Area and its various subareas for the benefit of the public.
 
-(Pub. L. 93–535, §8, Dec. 22, 1974, 88 Stat. 1733.)
+(Pub. L. 93–535, §8, Dec. 22, 1974, 88 Stat. 1733; Pub. L. 117–286, §4(a)(98), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
+#### Amendments ####
 
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+**2022**—Subsec. (a). Pub. L. 117–286 substituted "chapter 10 of title 5," for "the Federal Advisory Committee Act," in introductory provisions.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

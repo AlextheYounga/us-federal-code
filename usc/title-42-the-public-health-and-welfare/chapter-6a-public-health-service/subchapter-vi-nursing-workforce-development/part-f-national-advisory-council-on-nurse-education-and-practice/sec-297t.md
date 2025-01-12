@@ -74,17 +74,13 @@ The members of the Advisory Council shall be allowed travel expenses, including 
 
 Amounts appropriated for carrying out parts B, C, and D may be utilized by the Secretary to support the nurse education and practice activities of the Council.
 
-#### (h) FACA ####
+#### (h) Chapter 10 of title 5 ####
 
-The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
+Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5 do not conflict with the requirements of this section.
 
-(July 1, 1944, ch. 373, title VIII, §851, formerly §845, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3572; renumbered §851, Pub. L. 111–148, title V, §5310(b)(8)(A), Mar. 23, 2010, 124 Stat. 631; amended Pub. L. 116–136, div. A, title III, §3404(a)(11), Mar. 27, 2020, 134 Stat. 394; Pub. L. 116–260, div. BB, title III, §331(b), Dec. 27, 2020, 134 Stat. 2938.)
+(July 1, 1944, ch. 373, title VIII, §851, formerly §845, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3572; renumbered §851, Pub. L. 111–148, title V, §5310(b)(8)(A), Mar. 23, 2010, 124 Stat. 631; amended Pub. L. 116–136, div. A, title III, §3404(a)(11), Mar. 27, 2020, 134 Stat. 394; Pub. L. 116–260, div. BB, title III, §331(b), Dec. 27, 2020, 134 Stat. 2938; Pub. L. 117–286, §4(a)(240), Dec. 27, 2022, 136 Stat. 4332.)
 
 #### **Editorial Notes** ####
-
-#### References in Text ####
-
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification ####
 
@@ -97,6 +93,8 @@ A prior section 851 of act July 1, 1944, was renumbered section 861 and classifi
 Another prior section 851 of act July 1, 1944, was classified to section 298 of this title, prior to repeal by Pub. L. 105–392.
 
 #### Amendments ####
+
+**2022**—Subsec. (h). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5 shall apply to the Advisory Committee under this section only to the extent that the provisions of chapter 10 of title 5" for "The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act" in text.
 
 **2020**—Subsec. (b)(1)(A)(iv). Pub. L. 116–136, §3404(a)(11)(A), substituted "nurse anesthetists, and clinical nurse specialists" for "and nurse anesthetists".
 

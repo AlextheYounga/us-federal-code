@@ -8,7 +8,7 @@ From and after May 17, 1932, the island designated "Porto Rico" in the Act entit
 
 #### References in Text ####
 
-Act approved March 2, 1917, as amended, referred to in text, is act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
+Act approved March 2, 1917, as amended, referred to in text, is act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 731 of this title and Tables.
 
 #### Codification ####
 

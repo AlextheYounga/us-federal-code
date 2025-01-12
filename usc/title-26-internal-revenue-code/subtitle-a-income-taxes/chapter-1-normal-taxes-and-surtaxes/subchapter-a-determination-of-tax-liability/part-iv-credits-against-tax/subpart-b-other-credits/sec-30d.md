@@ -72,7 +72,7 @@ The term "motor vehicle" means any vehicle which is manufactured primarily for u
 
 #### (3) Qualified manufacturer ####
 
-he term "qualified manufacturer" means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.
+The term "qualified manufacturer" means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.
 
 #### (4) Battery capacity ####
 

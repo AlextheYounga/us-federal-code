@@ -26,7 +26,7 @@ The Advisory Council shall consist of 10 members, to be appointed by the Secreta
 
 #### (d) Applicable law ####
 
-The Advisory Council shall function in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) and other applicable laws.
+The Advisory Council shall function in accordance with chapter 10 of title 5 and other applicable laws.
 
 #### (e) Vacancy ####
 
@@ -44,10 +44,10 @@ Members of the Advisory Council shall serve without compensation.
 
 The Advisory Council shall terminate upon the completion of the management plan for the national park and preserve.
 
-(Pub. L. 106–530, §10, Nov. 22, 2000, 114 Stat. 2535.)
+(Pub. L. 106–530, §10, Nov. 22, 2000, 114 Stat. 2535; Pub. L. 117–286, §4(a)(87), Dec. 27, 2022, 136 Stat. 4315.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
+#### Amendments ####
 
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+**2022**—Subsec. (d). Pub. L. 117–286 substituted "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)".

@@ -22,10 +22,10 @@ Any benefits received by an employee under an agreement entered into pursuant to
 
 Section 797 of this title, referred to in subsecs. (a)(1) and (b), was repealed by Pub. L. 99–509, title IV, §4024(c), Oct. 21, 1986, 100 Stat. 1904, effective on the sale date (Apr. 2, 1987).
 
-The Northeast Rail Service Act of 1981, referred to in subsec. (a)(1), is subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Northeast Rail Service Act of 1981, referred to in subsec. (a)(1), is subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsecs. (a)(2) and (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of this title. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of this title, section 231t of this title, and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsecs. (a)(2) and (b)(2), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsecs. (a)(2) and (b)(2), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
 [<sup>1</sup> See References in Text note below.](#797d_1)

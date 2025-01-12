@@ -132,15 +132,15 @@ The Commission shall use its authority under this chapter to end the physical mo
 
 (3) Any State may, prior to the expiration of 2 years after the Commission adopts a rule under this subsection, enact a statute that specifically refers to this subsection and the specific rule thereunder and establishes, prospectively from the date of enactment of the State statute, a provision that differs from that applicable under the Commission's rule.
 
-(4)(A) Within 90 days after October 16, 1990, the Commission shall (and at such times thereafter as the Commission may determine, the Commission may), after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, establish an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.). The Advisory Committee shall be directed to consider and report to the Commission on such matters as the Commission, after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, determines, including the areas, if any, in which State commercial laws and related Federal laws concerning the transfer of certificated or uncertificated securities, limited interests (including security interests) in such securities, or the creation or perfection of security interests in such securities do not provide the necessary certainty, uniformity, and clarity for purchasers, sellers, owners, lenders, borrowers, and financial intermediaries concerning their respective rights and obligations.
+(4)(A) Within 90 days after October 16, 1990, the Commission shall (and at such times thereafter as the Commission may determine, the Commission may), after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, establish an advisory committee under chapter 10 of title 5. The Advisory Committee shall be directed to consider and report to the Commission on such matters as the Commission, after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, determines, including the areas, if any, in which State commercial laws and related Federal laws concerning the transfer of certificated or uncertificated securities, limited interests (including security interests) in such securities, or the creation or perfection of security interests in such securities do not provide the necessary certainty, uniformity, and clarity for purchasers, sellers, owners, lenders, borrowers, and financial intermediaries concerning their respective rights and obligations.
 
 (B) The Advisory Committee shall consist of 15 members, of which—
 
-(i) 11 shall be designated by the Commission in accordance with the Federal Advisory Committee Act; and
+(i) 11 shall be designated by the Commission in accordance with chapter 10 of title 5; and
 
 (ii) 2 each shall be designated by the Board of Governors of the Federal Reserve System and the Secretary of the Treasury.
 
-(C) The Advisory Committee shall conduct its activities in accordance with the Federal Advisory Committee Act. Within 6 months of its designation, or such longer time as the Commission may designate, the Advisory Committee shall issue a report to the Commission, and shall cause copies of that report to be delivered to the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System.
+(C) The Advisory Committee shall conduct its activities in accordance with chapter 10 of title 5. Within 6 months of its designation, or such longer time as the Commission may designate, the Advisory Committee shall issue a report to the Commission, and shall cause copies of that report to be delivered to the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System.
 
 #### (g) <sup><a href="#78q-1_3_target" name="78q-1_3">3</a></sup> Due diligence for the delivery of dividends, interest, and other valuable property rights ####
 
@@ -206,7 +206,7 @@ The Commodity Futures Trading Commission shall make available to the Commission,
 
 The Commission may conform the core principles established in this section to reflect evolving United States and international standards.
 
-(June 6, 1934, ch. 404, title I, §17A, as added Pub. L. 94–29, §15, June 4, 1975, 89 Stat. 141; amended Pub. L. 100–181, title III, §322, Dec. 4, 1987, 101 Stat. 1257; Pub. L. 101–429, title II, §206, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–432, §5, Oct. 16, 1990, 104 Stat. 973; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–554, §1(a)(5) [title II, §§206(d), 207], Dec. 21, 2000, 114 Stat. 2763, 2763A–431, 2763A–434; Pub. L. 107–204, title VI, §604(c)(1)(C), July 30, 2002, 116 Stat. 796; Pub. L. 111–203, title VII, §763(b), title IX, §§925(a)(3), 929W, July 21, 2010, 124 Stat. 1768, 1851, 1869.)
+(June 6, 1934, ch. 404, title I, §17A, as added Pub. L. 94–29, §15, June 4, 1975, 89 Stat. 141; amended Pub. L. 100–181, title III, §322, Dec. 4, 1987, 101 Stat. 1257; Pub. L. 101–429, title II, §206, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–432, §5, Oct. 16, 1990, 104 Stat. 973; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–554, §1(a)(5) [title II, §§206(d), 207], Dec. 21, 2000, 114 Stat. 2763, 2763A–431, 2763A–434; Pub. L. 107–204, title VI, §604(c)(1)(C), July 30, 2002, 116 Stat. 796; Pub. L. 111–203, title VII, §763(b), title IX, §§925(a)(3), 929W, July 21, 2010, 124 Stat. 1768, 1851, 1869; Pub. L. 117–286, §4(a)(63), Dec. 27, 2022, 136 Stat. 4312.)
 
 #### **Editorial Notes** ####
 
@@ -216,9 +216,13 @@ This chapter, referred to in subsecs. (a)(2), (b)(3)(A), (F), (I), (8), (d)(1), 
 
 The Commodity Exchange Act, referred to in subsecs. (b)(8) and (l)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments ####
+
+**2022**—Subsec. (f)(4)(A). Pub. L. 117–286, §4(a)(63)(A), substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
+
+Subsec. (f)(4)(B)(i). Pub. L. 117–286, §4(a)(63)(B), substituted "chapter 10 of title 5;" for "the Federal Advisory Committee Act;".
+
+Subsec. (f)(4)(C). Pub. L. 117–286, §4(a)(63)(C), substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 **2010**—Subsec. (c)(4)(C). Pub. L. 111–203, §925(a)(3), substituted "12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization," for "twelve months or bar any such person from being associated with the transfer agent,".
 

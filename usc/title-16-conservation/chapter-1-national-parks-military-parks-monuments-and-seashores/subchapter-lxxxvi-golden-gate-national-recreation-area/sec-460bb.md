@@ -38,7 +38,7 @@ Similar provisions were contained in Pub. L. 106–113, div. B, §1000(a)(3) [ti
 
 #### The Presidio of San Francisco ####
 
-Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) [title III, §334], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, §101, Mar. 10, 2000, 114 Stat. 23; Pub. L. 107–107, div. B, title XXVIII, §2861, Dec. 28, 2001, 115 Stat. 1328, provided that:
+Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) [title III, §334], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, §101, Mar. 10, 2000, 114 Stat. 23; Pub. L. 107–107, div. B, title XXVIII, §2861, Dec. 28, 2001, 115 Stat. 1328; Pub. L. 117–286, §4(c)(26), Dec. 27, 2022, 136 Stat. 4357, provided that:
 
 #### "SEC. 101. FINDINGS. ####
 
@@ -96,7 +96,7 @@ Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by
 
 "(4) Organization and compensation.—The Board shall organize itself in such a manner as it deems most appropriate to effectively carry out the authorized activities of the Trust. Board members shall serve without pay, but may be reimbursed for the actual and necessary travel and subsistence expenses incurred by them in the performance of the duties of the Trust.
 
-"(5) Liability of directors.—Members of the Board of Directors shall not be considered Federal employees by virtue of their membership on the Board, except for purposes of the Federal Tort Claims Act [see Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure] and the Ethics in Government Act [of 1978] [5 U.S.C. App.], and the provisions of chapter 11 of title 18, United States Code.
+"(5) Liability of directors.—Members of the Board of Directors shall not be considered Federal employees by virtue of their membership on the Board, except for purposes of the Federal Tort Claims Act [see Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure] and chapter 131 of title 5, United States Code, and the provisions of chapter 11 of title 18, United States Code.
 
 "(6) Meetings.—The Board shall meet at least three times per year in San Francisco and at least two of those meetings shall be open to the public. Upon a majority vote, the Board may close any other meetings to the public. The Board shall establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues. The Board may establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues through the Golden Gate National Recreation Area Advisory Commission.
 

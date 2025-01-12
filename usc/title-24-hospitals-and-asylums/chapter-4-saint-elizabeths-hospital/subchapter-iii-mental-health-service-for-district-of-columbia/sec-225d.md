@@ -42,7 +42,7 @@ Any contract entered into by the District of Columbia for the provision of menta
 
 #### References in Text ####
 
-The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (c)(4) and (d)(4), is D.C. Law 2–139, Mar. 3, 1979, as amended, which is not classified to the Code.
+The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (c)(4) and (d)(4), is D.C. Law 2–139, Mar. 3, 1979, which is not classified to the Code.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

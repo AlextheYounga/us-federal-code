@@ -38,7 +38,7 @@ The system implementation plan shall—
 
 (1) The Mayor shall develop the system implementation plan in close consultation with officials of Saint Elizabeths Hospital, through working groups to be established by the Secretary and the Mayor for that purpose.
 
-(2) The Mayor and the Secretary shall establish a labor-management advisory committee, requesting the participation of Federal and District employee organizations affected by this subchapter, to make recommendations on the system implementation plan. The committee shall consider staffing patterns under a comprehensive District mental health care system, retention of Hospital employees under such system, Federal retraining for such employees, and any other areas of concern related to the establishment of a comprehensive District system. In developing the system implementation plan the Mayor shall carefully consider the recommendations of the committee. Such advisory committee shall not be subject to the Federal Advisory Committee Act.
+(2) The Mayor and the Secretary shall establish a labor-management advisory committee, requesting the participation of Federal and District employee organizations affected by this subchapter, to make recommendations on the system implementation plan. The committee shall consider staffing patterns under a comprehensive District mental health care system, retention of Hospital employees under such system, Federal retraining for such employees, and any other areas of concern related to the establishment of a comprehensive District system. In developing the system implementation plan the Mayor shall carefully consider the recommendations of the committee. Such advisory committee shall not be subject to chapter 10 of title 5.
 
 (3) The Mayor and such working groups shall, in developing the plan, solicit comments from the public, which shall include professional organizations, provider agencies and individuals, and mental health advocacy groups in the District of Columbia.
 
@@ -64,17 +64,17 @@ The system implementation plan shall—
 
 During the service coordination period, the District of Columbia and the Secretary, to the extent provided in the Federal court consent decree, shall be jointly responsible for providing citizens with the full range and scope of mental health services set forth in such decree and the system implementation plan. No provision of this subchapter or any action or agreement during the service coordination period may be so construed as to absolve or relieve the District or the Federal Government of their joint or respective responsibilities to implement fully the mandates of the Federal court consent decree.
 
-(Pub. L. 98–621, §4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§2, 3(a), Oct. 31, 1991, 105 Stat. 980; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
+(Pub. L. 98–621, §4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§2, 3(a), Oct. 31, 1991, 105 Stat. 980; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 117–286, §4(a)(179), Dec. 27, 2022, 136 Stat. 4325.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
-Section 422 of the District of Columbia Home Rule Act, referred to in subsec. (b)(3), is section 422 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 790, as amended, which is not classified to the Code.
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in Title 5, Appendix, Government Organization and Employees.
+Section 422 of the District of Columbia Home Rule Act, referred to in subsec. (b)(3), is section 422 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 790, which is not classified to the Code.
 
 #### Amendments ####
+
+**2022**—Subsec. (d)(2). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 **1997**—Subsec. (b)(3). Pub. L. 105–33 substituted "District of Columbia Home Rule Act" for "District of Columbia Self-Government and Governmental Reorganization Act".
 

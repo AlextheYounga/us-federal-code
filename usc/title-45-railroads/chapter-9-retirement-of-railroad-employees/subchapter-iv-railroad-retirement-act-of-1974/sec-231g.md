@@ -8,4 +8,4 @@ Decisions of the Board determining the rights or liabilities of any person under
 
 #### References in Text ####
 
-The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
+The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.

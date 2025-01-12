@@ -858,7 +858,9 @@ A prior section 45 was renumbered section 37 of this title.
 
 **2022**—Subsec. (a)(1). Pub. L. 117–169, §13101(b)(1), substituted "0.3 cents" for "1.5 cents".
 
-Subsec. (b)(2). Pub. L. 117–169, §13101(i)(1), substituted "If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent." for "If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."Pub. L. 117–169, §13101(b)(2), substituted "0.3 cent" for "1.5 cent".
+Subsec. (b)(2). Pub. L. 117–169, §13101(i)(1), substituted "If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent." for "If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
+
+Pub. L. 117–169, §13101(b)(2), substituted "0.3 cent" for "1.5 cent".
 
 Subsec. (b)(3). Pub. L. 117–169, §13101(h), amended par. (3) generally. Prior to amendment, par. (3) related to credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits.
 
@@ -870,7 +872,9 @@ Subsec. (b)(5). Pub. L. 117–169, §13101(e)(2)(A), inserted "which is placed i
 
 Subsec. (b)(6) to (8). Pub. L. 117–169, §13101(f), added pars. (6) to (8).
 
-Subsec. (b)(9). Pub. L. 117–169, §13101(g)(2), added par. (9). Former par. (9) (added by section 13101(f), see below) redesignated (12).Pub. L. 117–169, §13101(f), added par. (9), which was subsequently redesignated (12).
+Subsec. (b)(9). Pub. L. 117–169, §13101(g)(2), added par. (9). Former par. (9) (added by section 13101(f), see below) redesignated (12).
+
+Pub. L. 117–169, §13101(f), added par. (9), which was subsequently redesignated (12).
 
 Subsec. (b)(10), (11). Pub. L. 117–169, §13101(g)(2), added pars. (10) and (11).
 
@@ -1309,6 +1313,8 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Years ####
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2022–Internal Revenue Notice 2022–20.
 
 **2021**—Internal Revenue Notice 2021–32.
 

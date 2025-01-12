@@ -82,7 +82,7 @@ Sec.
 
 136. Commutation of rations and other supplies; payment per capita.
 
-137, 138. Repealed
+137, 138. Repealed.
 
 139. Appropriations for subsistence.
 
@@ -146,6 +146,6 @@ Sec.
 
 165. Notice to Congressional committees.
 
-166. Applicability of Federal Advisory Committee Act.
+166. Applicability of chapter 10 of title 5.
 
 167. Trust status of lease payments.

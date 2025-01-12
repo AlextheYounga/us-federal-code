@@ -52,7 +52,7 @@ The Tobacco Products Scientific Advisory Committee shall provide advice, informa
 
 (4) on its review of other safety, dependence, or health issues relating to tobacco products as requested by the Secretary.
 
-#### (d) Compensation; support; FACA ####
+#### (d) Compensation; support; chapter 10 of title 5 ####
 
 #### (1) Compensation and travel ####
 
@@ -62,21 +62,23 @@ Members of the Advisory Committee who are not officers or employees of the Unite
 
 The Secretary shall furnish the Advisory Committee clerical and other assistance.
 
-#### (3) Nonapplication of FACA ####
+#### (3) Nonapplication of chapter 10 of title 5 ####
 
-Section 14 of the Federal Advisory Committee Act does not apply to the Advisory Committee.
+Section 1013 of title 5 does not apply to the Advisory Committee.
 
 #### (e) Proceedings of advisory panels and committees ####
 
 The Advisory Committee shall make and maintain a transcript of any proceeding of the panel or committee. Each such panel and committee shall delete from any transcript made under this subsection information which is exempt from disclosure under section 552(b) of title 5.
 
-(June 25, 1938, ch. 675, §917, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1824.)
+(June 25, 1938, ch. 675, §917, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1824; amended Pub. L. 117–286, §4(a)(160), Dec. 27, 2022, 136 Stat. 4323.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
+#### Amendments ####
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+**2022**—Subsec. (d). Pub. L. 117–286, §4(a)(160)(A), substituted "chapter 10 of title 5" for "FACA" in heading.
+
+Subsec. (d)(3). Pub. L. 117–286, §4(a)(160)(B), substituted "chapter 10 of title 5" for "FACA" in heading and "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act" in text.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

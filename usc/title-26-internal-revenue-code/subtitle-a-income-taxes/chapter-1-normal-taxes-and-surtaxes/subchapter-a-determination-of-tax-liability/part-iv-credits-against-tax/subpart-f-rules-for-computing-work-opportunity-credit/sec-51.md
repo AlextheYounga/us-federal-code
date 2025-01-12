@@ -438,13 +438,13 @@ No credit shall be determined under this section with respect to remuneration pa
 
 #### References in Text ####
 
-The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to section 682 of Title 42, was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to section 682 of Title 42, was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 3111(d), referred to in subsec. (c)(5), was repealed by Pub. L. 115–141, div. U, title IV, §401(b)(34), Mar. 23, 2018, 132 Stat. 1204.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (d)(3)(A)(i), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(o) of the Act is classified to section 2015(o) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Section 212 of Public Law 93–66, referred to in subsec. (d)(9), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 

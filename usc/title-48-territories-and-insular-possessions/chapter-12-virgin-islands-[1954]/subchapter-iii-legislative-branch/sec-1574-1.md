@@ -10,7 +10,7 @@ Effective on the date when section 502 of the Covenant to Establish a Commonweal
 
 The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in text, is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title. For Jan. 9, 1978, as the date section 502 of the Covenant came into force, see Proc. No. 4534, §2, set out as a note under section 1801 of this title.
 
-The joint resolution approved on March 24, 1976, referred to in text, is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of this title. For complete classification of this Act to the Code, see Tables.
+The joint resolution approved on March 24, 1976, referred to in text, is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§1801 et seq.) of chapter 17 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Micronesian Claims Act of 1971, referred to in text, is Pub. L. 92–39, July 1, 1971, 85 Stat. 92, as amended, which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
 

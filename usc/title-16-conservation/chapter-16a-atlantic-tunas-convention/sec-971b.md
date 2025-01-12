@@ -20,9 +20,9 @@ Each member of the advisory committee appointed under paragraph (1) shall serve 
 
 (5) The advisory committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures.
 
-(6) The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+(6) The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to chapter 10 of title 5.
 
-(Pub. L. 94–70, §4, Aug. 5, 1975, 89 Stat. 386; Pub. L. 96–339, §1(1), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 101–627, title II, §204, Nov. 28, 1990, 104 Stat. 4460; Pub. L. 104–43, title III, §304, Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, §202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453.)
+(Pub. L. 94–70, §4, Aug. 5, 1975, 89 Stat. 386; Pub. L. 96–339, §1(1), Sept. 4, 1980, 94 Stat. 1069; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 101–627, title II, §204, Nov. 28, 1990, 104 Stat. 4460; Pub. L. 104–43, title III, §304, Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, §202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 117–286, §4(a)(106), Dec. 27, 2022, 136 Stat. 4317.)
 
 #### **Editorial Notes** ####
 
@@ -30,9 +30,9 @@ Each member of the advisory committee appointed under paragraph (1) shall serve 
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(5), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments ####
+
+**2022**—Subsec. (b)(6). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 
 **1998**—Subsecs. (a)(2), (b)(5). Pub. L. 105–384 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
 

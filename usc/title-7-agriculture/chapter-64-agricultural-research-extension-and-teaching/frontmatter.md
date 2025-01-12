@@ -48,7 +48,7 @@ Sec.
 
 3129. Accountability.
 
-3129a. Federal Advisory Committee Act exemption for competitive research, extension, and education programs.
+3129a. Exemption from chapter 10 of title 5 for competitive research, extension, and education programs.
 
 3130. Repealed.
 

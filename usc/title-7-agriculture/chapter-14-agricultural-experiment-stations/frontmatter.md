@@ -56,6 +56,6 @@ Sec.
 
 390b. Competitive grant program.
 
-390c. Applicability of Federal Advisory Committee Act.
+390c. Applicability of chapter 10 of title 5.
 
 390d. Authorization of appropriations.

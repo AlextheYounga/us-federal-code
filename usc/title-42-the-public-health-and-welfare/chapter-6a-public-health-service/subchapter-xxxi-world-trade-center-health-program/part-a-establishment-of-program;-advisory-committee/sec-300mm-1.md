@@ -40,9 +40,9 @@ The WTC Program Administrator shall provide for publication of recommendations o
 
 Notwithstanding any other provision of law, the Advisory Committee shall continue in operation during the period in which the WTC Program is in operation.
 
-#### (6) Application of FACA ####
+#### (6) Application of chapter 10 of title 5 ####
 
-Except as otherwise specifically provided, the Advisory Committee shall be subject to the Federal Advisory Committee Act.
+Except as otherwise specifically provided, the Advisory Committee shall be subject to Chapter <sup><a href="#300mm-1_1_target" name="300mm-1_1">1</a></sup> 10 of title 5.
 
 #### (b) WTC Health Program Steering Committees ####
 
@@ -102,10 +102,12 @@ Each Steering Committee may recommend, if approved by a majority of voting membe
 
 A vacancy in a Steering Committee shall be filled by an individual recommended by the Steering Committee.
 
-(July 1, 1944, ch. 373, title XXXIII, §3302, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3627.)
+(July 1, 1944, ch. 373, title XXXIII, §3302, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3627; amended Pub. L. 117–286, §4(a)(247), Dec. 27, 2022, 136 Stat. 4333.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
+#### Amendments ####
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+**2022**—Subsec. (a)(6). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5." for "the Federal Advisory Committee Act." in text.
+
+[<sup>1</sup> So in original. Probably should not be capitalized.](#300mm-1_1)

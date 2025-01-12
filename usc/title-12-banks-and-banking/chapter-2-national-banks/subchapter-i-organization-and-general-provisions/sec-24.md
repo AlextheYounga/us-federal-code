@@ -52,13 +52,13 @@ Section 9 of the National Capital Transportation Act of 1969, referred to in par
 
 The Federal Farm Loan Act, referred to in par. Seventh, is act July 17, 1916, ch. 245, 39 Stat. 360, which was classified to section 641 et seq. of this title prior to its repeal by Pub. L. 92–181, §5.26(a), Dec. 10, 1971, 85 Stat. 624. See chapter 23 (§2001 et seq.) of this title.
 
-The National Housing Act, referred to in par. Seventh, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title XI of the National Housing Act is title XI of act June 27, 1934, ch. 847, as added by act Nov. 3, 1966, Pub. L. 89–754, title V, §502(a), 80 Stat. 1274, which is classified generally to subchapter IX–B (§1749aaa et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. Seventh, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title XI of the National Housing Act is title XI of act June 27, 1934, ch. 847, as added by act Nov. 3, 1966, Pub. L. 89–754, title V, §502(a), 80 Stat. 1274, which is classified generally to subchapter IX–B (§1749aaa et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 Section 110 of the Housing Act of 1949 [42 U.S.C. 1460], referred to in par. Seventh, was omitted from the Code pursuant to section 5316 of Title 42, The Public Health and Welfare, which terminated authority to make grants or loans under title I of that Act [42 U.S.C. 1450 et seq.] after Jan. 1, 1975.
 
 The United States Housing Act of 1937, referred to in par. Seventh, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, and is classified to chapter 8 (§1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Housing and Urban Development Act of 1968, referred to in par. Seventh, is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476, as amended. Title IX of the Housing and Urban Development Act is classified principally to chapter 49 (§3931 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1701 of this title and Tables.
+The Housing and Urban Development Act of 1968, referred to in par. Seventh, is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IX of the Housing and Urban Development Act is classified principally to chapter 49 (§3931 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1701 of this title and Tables.
 
 Section 4 of the Securities Act of 1933, referred to in par. Seventh, was amended by section 201(b), (c) of Pub. L. 112–106, and the provisions which formerly appeared in section 4 of the Act now appear in section 4(a) of the Act.
 

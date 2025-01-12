@@ -214,7 +214,7 @@ The effective date of this Act, referred to in subsec. (b)(2)(E), probably means
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (b)(11) and (e)(4)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-This chapter, referred to in subsec. (e)(4)(B), was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in subsec. (e)(4)(B), was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Amendments ####
 

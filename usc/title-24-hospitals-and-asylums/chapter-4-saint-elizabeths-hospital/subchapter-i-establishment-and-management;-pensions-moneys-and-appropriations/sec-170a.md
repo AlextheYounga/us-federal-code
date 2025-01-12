@@ -10,7 +10,7 @@ In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizab
 
 The appropriations made under this heading, referred to in text, refers to appropriations under the headings "Alcohol, Drug Abuse, and Mental Health Administration" and "federal subsidy for saint elizabeths hospital" of title II, "Department of Health and Human Services", of the Departments of Labor, Health and Human Services, and Education and Related Agencies Appropriation Act, 1989, Pub. L. 100–436.
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 9(c) of Public Law 98–621, referred to in text, is section 9(c) of Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3378, par. (1) of which is classified to section 225g(c) of this title.
 

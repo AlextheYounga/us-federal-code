@@ -12,7 +12,7 @@
 
 (1) The Comptroller General of the United States shall evaluate the expenditures by States of funds received under this chapter in order to assure that expenditures are consistent with the provisions of this chapter and to determine the effectiveness of the State in accomplishing the purposes of this chapter. The Comptroller General shall conduct evaluations whenever determined necessary and shall periodically report to the Congress on the findings of such evaluations.
 
-(2) Nothing in this chapter shall be deemed to relieve the Inspector General of the Department of Labor of his responsibilities under the Inspector General Act.
+(2) Nothing in this chapter shall be deemed to relieve the Inspector General of the Department of Labor of his responsibilities under chapter 4 of title 5.
 
 (3) For the purpose of evaluating and reviewing programs established or provided for by this chapter, the Comptroller General shall have access to and the right to copy any books, accounts, records, correspondence, or other documents pertinent to such programs that are in the possession, custody, or control of the State.
 
@@ -20,15 +20,13 @@
 
 Each State shall repay to the United States amounts found not to have been expended in accordance with this chapter. No such finding shall be made except after notice and opportunity for a fair hearing. The Secretary may offset such amounts against any other amount to which the recipient is or may be entitled under this chapter.
 
-(June 6, 1933, ch. 49, §9, 48 Stat. 116; Pub. L. 97–300, title VI, §601(e), formerly title V, §501(e), Oct. 18, 1982, 96 Stat. 1396; renumbered title VI, §601(e), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §9, 48 Stat. 116; Pub. L. 97–300, title VI, §601(e), formerly title V, §501(e), Oct. 18, 1982, 96 Stat. 1396; renumbered title VI, §601(e), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 117–286, §4(b)(47), Dec. 27, 2022, 136 Stat. 4348.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
-
-The Inspector General Act, referred to in subsec. (b)(2), probably means the Inspector General Act of 1978, Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments ####
+
+**2022**—Subsec. (b)(2). Pub. L. 117–286 substituted "chapter 4 of title 5." for "the Inspector General Act."
 
 **1982**—Pub. L. 97–300 amended section generally, substituting provisions requiring the States to prepare accounting procedures under Federal guidance, to submit to biennial audit with evaluation of expenditures by the Comptroller General and providing for repayment of improperly expended funds, for provisions requiring reports on expenditures to the Secretary under his regulations and giving him authority to revoke State certification.
 

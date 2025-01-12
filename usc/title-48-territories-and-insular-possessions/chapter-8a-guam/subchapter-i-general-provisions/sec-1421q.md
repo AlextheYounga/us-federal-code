@@ -10,7 +10,7 @@ The laws of the United States which are made applicable to the Northern Mariana 
 
 Section 502(a)(1) of H.J. Res. 549, referred to in text, probably means section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Social Security Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVI of the Social Security Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Micronesia Claims Act, referred to in text, probably means the Micronesian Claims Act of 1971, Pub. L. 92–39, July 1, 1971, 85 Stat. 92, which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
 

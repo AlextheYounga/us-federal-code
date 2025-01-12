@@ -102,7 +102,7 @@ No deduction shall be allowed under subsection (a) to any taxpayer for any taxab
 
 The date of the enactment of this section, referred to in subsec. (c)(1)(B), (2)(A), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
-The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments ####
 

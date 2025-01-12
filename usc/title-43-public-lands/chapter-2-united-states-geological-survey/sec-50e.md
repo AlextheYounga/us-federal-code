@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Director of the United States Geological Survey (referred to in this section as the "Director"), shall fund, through a cooperative agreement with an academic partner, the design, construction, and tenant build-out of a facility to support energy and minerals research and appurtenant associated structures.
+The Director of the United States Geological Survey (referred to in this section as the "Director"),<sup><a href="#50e_1_target" name="50e_1">1</a></sup> shall fund, through a cooperative agreement with an academic partner, the design, construction, and tenant build-out of a facility to support energy and minerals research and appurtenant associated structures.
 
 #### (b) Ownership ####
 
@@ -45,3 +45,5 @@ There is authorized to be appropriated to the Secretary of the Interior to carry
 #### Wage Rate Requirements ####
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+
+[<sup>1</sup> So in original. The comma probably should not appear.](#50e_1)

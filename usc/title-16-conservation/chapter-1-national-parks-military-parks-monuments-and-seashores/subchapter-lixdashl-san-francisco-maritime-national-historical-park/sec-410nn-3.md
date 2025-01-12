@@ -26,11 +26,11 @@ The Chair and other officers of the Commission shall be elected by a majority of
 
 #### (d) Meetings ####
 
-The Commission shall meet at the call of the Chair or a majority of its members, but not less than twice annually. Seven members of the Commission shall constitute a quorum. Consistent with the public meeting requirements of the Federal Advisory Committee Act, the Commission shall, from time to time, meet with persons concerned with maritime preservation.
+The Commission shall meet at the call of the Chair or a majority of its members, but not less than twice annually. Seven members of the Commission shall constitute a quorum. Consistent with the public meeting requirements of chapter 10 of title 5, the Commission shall, from time to time, meet with persons concerned with maritime preservation.
 
 #### (e) Bylaws and charter ####
 
-The Commission may make such bylaws, rules, and regulations as it considers necessary to carry out its functions under this subchapter. The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Commission.
+The Commission may make such bylaws, rules, and regulations as it considers necessary to carry out its functions under this subchapter. The provisions of section 1013(b) of title 5 are hereby waived with respect to this Commission.
 
 #### (f) Functions ####
 
@@ -40,7 +40,7 @@ The Commission shall advise the Secretary on the management and development of t
 
 The Commission shall cease to exist 10 years after the date on which the first meeting of the Commission is held.
 
-(Pub. L. 100–348, §5, June 27, 1988, 102 Stat. 656.)
+(Pub. L. 100–348, §5, June 27, 1988, 102 Stat. 656; Pub. L. 117–286, §4(a)(79), Dec. 27, 2022, 136 Stat. 4314.)
 
 #### **Editorial Notes** ####
 
@@ -48,4 +48,8 @@ The Commission shall cease to exist 10 years after the date on which the first m
 
 This subchapter, referred to in subsecs. (a) and (e), was in the original "this Act", meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 410nn of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsecs. (d) and (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments ####
+
+**2022**—Subsec. (d). Pub. L. 117–286, §4(a)(79)(A), substituted "chapter 10 of title 5," for "the Federal Advisory Committee Act,".
+
+Subsec. (e). Pub. L. 117–286, §4(a)(79)(B), substituted "section 1013(b) of title 5" for "section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),".

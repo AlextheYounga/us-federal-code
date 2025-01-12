@@ -8,8 +8,8 @@ The purposes of the chapter are: (1) To avoid any interruption to commerce or to
 
 #### Codification ####
 
-Section is comprised of the first sentence of section 2 of act May 20, 1926. The remainder of section 2 of act May 20, 1926, is classified to section 152 of this title.
+Section is comprised of the first sentence of section 2 of act May 20, 1926, as added in the general amendment of section 2 by act June 21, 1934. The remainder of section 2 of act May 20, 1926, is classified to section 152 of this title.
 
 #### Amendments ####
 
-**1934**—Act June 21, 1934, reenacted provisions comprising this section without change.
+**1934**—Act June 21, 1934, amended section 2 of act May 20, 1926, generally, adding the text of this section.

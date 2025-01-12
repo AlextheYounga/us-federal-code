@@ -8,6 +8,6 @@ Nothing in this Act shall be construed as repealing or amending any provision of
 
 #### References in Text ####
 
-This Act, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
 
 [<sup>1</sup> So in original. Probably should be "in".](#701e_1)

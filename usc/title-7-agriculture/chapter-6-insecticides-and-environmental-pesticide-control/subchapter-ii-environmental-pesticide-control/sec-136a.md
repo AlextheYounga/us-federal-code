@@ -362,9 +362,9 @@ In carrying out the duties under this paragraph, the working group shall, as app
 
 (ii) take into consideration factors, such as actual and potential differences in interest between, and the views of, those stakeholders and organizations.
 
-#### (F) Federal Advisory Committee Act ####
+#### (F) Chapter 10 of title 5 ####
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this paragraph.
+Chapter 10 of title 5 shall not apply to the working group established under this paragraph.
 
 #### (G) Savings clause ####
 
@@ -628,7 +628,7 @@ A report submitted under subparagraph (A) shall include a description of—
 
 (iii) recommendations to improve the activities of the Agency pertaining to antimicrobial registrations.
 
-(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, §10115, Dec. 20, 2018, 132 Stat. 4914.)
+(June 25, 1947, ch. 125, §3, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 979; amended Pub. L. 94–140, §12, Nov. 28, 1975, 89 Stat. 755; Pub. L. 95–396, §§2(a), 3–8, Sept. 30, 1978, 92 Stat. 820, 824–827; Pub. L. 100–532, title I, §§102(b), 103, title VI, §601(b)(1), title VIII, §801(b), Oct. 25, 1988, 102 Stat. 2667, 2677, 2680; Pub. L. 101–624, title XIV, §1492, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(3), (b)(1), (2), (c), Dec. 13, 1991, 105 Stat. 1894–1896; Pub. L. 104–170, title I, §§105(b), 106(b), title II, §§210(b), (c)(1), (d), (e), (f)(2), 222–224, 231, 250, Aug. 3, 1996, 110 Stat. 1491, 1494–1497, 1499, 1503, 1504, 1508, 1510; Pub. L. 108–199, div. G, title V, §501(b), Jan. 23, 2004, 118 Stat. 419; Pub. L. 110–94, §§2, 3, Oct. 9, 2007, 121 Stat. 1000; Pub. L. 115–334, title X, §10115, Dec. 20, 2018, 132 Stat. 4914; Pub. L. 117–286, §4(a)(21), Dec. 27, 2022, 136 Stat. 4307.)
 
 #### **Editorial Notes** ####
 
@@ -636,13 +636,13 @@ A report submitted under subparagraph (A) shall include a description of—
 
 The Endangered Species Act of 1973, referred to in subsec. (c)(11)(C)(i)(I), (II), (v), (vi), (G)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(11)(F), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions ####
 
 A prior section 3 of act June 25, 1947, was classified to section 135a of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
 
 #### Amendments ####
+
+**2022**—Subsec. (c)(11)(F). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 **2018**—Subsec. (c)(11). Pub. L. 115–334 added par. (11).
 

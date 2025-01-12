@@ -16,7 +16,7 @@ The Secretary shall ensure that the Committee is composed of experts on risk com
 
 #### (4) Permanence of Committee ####
 
-Section 14 of the Federal Advisory Committee Act shall not apply to the Committee established under this subsection.
+Section 1013 of title 5 shall not apply to the Committee established under this subsection.
 
 #### (b) Partnerships for risk communication ####
 
@@ -32,10 +32,10 @@ The systems developed under paragraph (1) shall—
 
 (B) include the use of existing communication channels, including electronic communications, in place at the Food and Drug Administration.
 
-(June 25, 1938, ch. 675, §567, as added Pub. L. 110–85, title IX, §917, Sept. 27, 2007, 121 Stat. 960.)
+(June 25, 1938, ch. 675, §567, as added Pub. L. 110–85, title IX, §917, Sept. 27, 2007, 121 Stat. 960; amended Pub. L. 117–286, §4(a)(157), Dec. 27, 2022, 136 Stat. 4323.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
+#### Amendments ####
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+**2022**—Subsec. (a)(4). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act".

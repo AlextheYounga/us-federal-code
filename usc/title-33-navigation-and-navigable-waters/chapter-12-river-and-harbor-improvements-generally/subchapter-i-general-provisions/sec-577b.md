@@ -8,7 +8,7 @@ The cost of operation and maintenance of the general navigation features of smal
 
 #### References in Text ####
 
-This Act, referred to in text, means Pub. L. 91–611, Dec. 31, 1970, 84 Stat. 1818, as amended. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 91–611, Dec. 31, 1970, 84 Stat. 1818. For complete classification of this Act to the Code, see Tables.
 
 Hereafter, referred to in text, probably means after Dec. 31, 1970.
 

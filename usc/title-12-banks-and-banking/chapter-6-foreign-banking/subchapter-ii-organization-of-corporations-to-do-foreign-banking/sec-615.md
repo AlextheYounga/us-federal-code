@@ -24,7 +24,7 @@ Nothing contained herein shall prevent corporations organized under this subchap
 
 Each corporation organized as provided in sections 611 to 614 of this title, referred to in first par., was in the original "Each corporation so organized".
 
-This act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 This subchapter, referred to in subsecs. (a) and (c), was in the original "this section", meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
 

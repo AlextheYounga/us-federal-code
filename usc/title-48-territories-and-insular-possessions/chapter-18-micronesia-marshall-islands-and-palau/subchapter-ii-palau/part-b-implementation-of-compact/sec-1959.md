@@ -26,7 +26,7 @@ The Compact of Free Association for Palau as approved by Public Law 99–658, re
 
 Public Law 99–239, referred to in subsec. (b), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of subchapter I of this chapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-Public Law 99–658, referred to in subsec. (b), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A of this subchapter. For complete classification of this Act to the Code, see Tables.
+Public Law 99–658, referred to in subsec. (b), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, which is classified generally to part A of this subchapter. For complete classification of this Act to the Code, see Tables.
 
 This part, referred to in subsec. (c), was in the original "this title", meaning title I of Pub. L. 101–219, Dec. 12, 1989, 103 Stat. 1870, which enacted this part and amended section 1933 of this title. For complete classification of this title to the Code, see Tables.
 

@@ -8,7 +8,7 @@ Title III of the National Prohibition Act, as amended, and all provisions of the
 
 #### References in Text ####
 
-The National Prohibition Act, as amended, referred to in text, is act Oct. 28, 1919, ch. 85, 41 Stat. 305, as amended. Title III of such Act was classified principally to chapter 3 (§71 et seq.) of Title 27, Intoxicating Liquors, and was omitted from the Code in view of the incorporation of such provisions in the Internal Revenue Code of 1939, and subsequently into the Internal Revenue Code of 1986.
+The National Prohibition Act, as amended, referred to in text, is act Oct. 28, 1919, ch. 85, 41 Stat. 305. Title III of such Act was classified principally to chapter 3 (§71 et seq.) of Title 27, Intoxicating Liquors, and was omitted from the Code in view of the incorporation of such provisions in the Internal Revenue Code of 1939, and subsequently into the Internal Revenue Code of 1986.
 
 #### Codification ####
 

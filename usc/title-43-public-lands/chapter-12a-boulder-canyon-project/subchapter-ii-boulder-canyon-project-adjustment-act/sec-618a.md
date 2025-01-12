@@ -42,7 +42,7 @@ Transfer to the Lower Colorado River Basin Development Fund established by title
 
 The Project Act, referred to in text, is defined in section 618k of this title.
 
-The Colorado River Basin Project Act, referred to in subd. (e), is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, which is classified principally to chapter 32 (§1501 et seq.) of this title. Title IV of the Act is classified to subchapter IV (§1541 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Colorado River Basin Project Act, referred to in subd. (e), is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, which is classified principally to chapter 32 (§1501 et seq.) of this title. Title IV of the Act is classified to subchapter IV (§1541 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
 #### Amendments ####
 

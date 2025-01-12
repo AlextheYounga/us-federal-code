@@ -58,7 +58,7 @@ Title I, Alien Registration Act, 1940 (ch. 439, 54 Stat. 670), referred to in su
 
 Act October 17, 1940 (ch. 897, 54 Stat. 1201), referred to in subsec. (a), is act Oct. 17, 1940, ch. 897, 54 Stat. 1201, which was classified to sections 14 to 17 of former Title 18, Criminal Code and Criminal Procedure, prior to repeal and reenactment as section 2386 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §21, 62 Stat. 862.
 
-Act of June 25, 1942 (ch. 447, 56 Stat. 390), referred to in subsec. (a), is act June 25, 1942, ch. 447, 56 Stat. 390, as amended, which was classified to sections 781 to 785 of the former Appendix to this title and was omitted from the Code as terminated.
+Act of June 25, 1942 (ch. 447, 56 Stat. 390), referred to in subsec. (a), is act June 25, 1942, ch. 447, 56 Stat. 390, which was classified to sections 781 to 785 of the former Appendix to this title and was omitted from the Code as terminated.
 
 The Alien Enemy Act, referred to in subsec. (a), probably means sections 4067 to 4070 of the Revised Statutes, which are classified to sections 21 to 24 of this title.
 

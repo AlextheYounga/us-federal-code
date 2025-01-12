@@ -154,7 +154,9 @@ Subsec. (c). Pub. L. 117–169, §13304(c), amended subsec. (c) generally. Prior
 
 Subsec. (e). Pub. L. 117–169, §13304(e), inserted at end "This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42."
 
-Subsec. (g). Pub. L. 117–169, §13304(d), added subsec. (g). Former subsec. (g) redesignated (h).Pub. L. 117–169, §13304(a), substituted "December 31, 2032" for "December 31, 2021".
+Subsec. (g). Pub. L. 117–169, §13304(d), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 117–169, §13304(a), substituted "December 31, 2032" for "December 31, 2021".
 
 Subsec. (h). Pub. L. 117–169, §13304(d), redesignated subsec. (g) as (h).
 

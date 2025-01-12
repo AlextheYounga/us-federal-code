@@ -8,7 +8,7 @@ Penstocks or other similar facilities adapted to possible future use in the deve
 
 #### References in Text ####
 
-Herein, referred to in text, means act June 28, 1938, ch. 795, 52 Stat. 1215, as amended, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 28, 1938, ch. 795, 52 Stat. 1215, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

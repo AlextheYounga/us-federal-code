@@ -12,9 +12,9 @@ Act of October 20, 1914, referred to in text, is act Oct. 20, 1914, ch. 330, 38 
 
 Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, as amended, which is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
+Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, which is classified generally to subchapter VIII (§271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 Stat. 1057, as amended, which enacted subchapter IX (§281 et seq.) of chapter 3A of this title, amended sections 181 and 193 of this title, and repealed subchapter VII (§141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
+Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted subchapter IX (§281 et seq.) of chapter 3A of this title, amended sections 181 and 193 of this title, and repealed subchapter VII (§141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

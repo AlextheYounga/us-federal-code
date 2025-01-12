@@ -22,7 +22,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (1) Number and appointment ####
 
-The Commission shall be composed of 15 members to be appointed by the Comptroller General, without regard to section 5 of the Federal Advisory Committee Act (5 U.S.C. App.).
+The Commission shall be composed of 15 members to be appointed by the Comptroller General, without regard to section 1004 of title 5.
 
 #### (2) Qualifications ####
 
@@ -66,7 +66,7 @@ Individuals who are directly involved in health professions education or practic
 
 #### (D) Ethical disclosure ####
 
-The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 [5 U.S.C. App.]. Members of the Commission shall not be treated as special government employees under title 18.
+The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5. Members of the Commission shall not be treated as special government employees under title 18.
 
 #### (3) Terms ####
 
@@ -276,15 +276,11 @@ The term "health professionals" includes—
 
 (E) any other health professional the Comptroller General of the United States determines appropriate.
 
-(Pub. L. 111–148, title V, §5101, title X, §10501(a), Mar. 23, 2010, 124 Stat. 592, 993; Pub. L. 113–128, title V, §512(y), July 22, 2014, 128 Stat. 1716.)
+(Pub. L. 111–148, title V, §5101, title X, §10501(a), Mar. 23, 2010, 124 Stat. 592, 993; Pub. L. 113–128, title V, §512(y), July 22, 2014, 128 Stat. 1716; Pub. L. 117–286, §4(a)(239), (c)(40), Dec. 27, 2022, 136 Stat. 4332, 4359.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
-
-Section 5 of the Federal Advisory Committee Act, referred to in subsec. (c)(1), is section 5 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 The Public Health Service Act, referred to in subsec. (d)(3)(C), (D), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to this subchapter and subchapter VI (§296 et seq.) of this chapter, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -317,6 +313,10 @@ Section 294q–2, act July 1, 1944, ch. 373, title VII, §746, as added Oct. 22,
 Section 294q–3, act July 1, 1944, ch. 373, title VII, §747, formerly §745, as added and renumbered §747, Oct. 22, 1985, Pub. L. 99–129, title II, §209(a)(4), (h)(1), 99 Stat. 532, 535, defined "school of pharmacy".
 
 #### Amendments ####
+
+**2022**—Subsec. (c)(1). Pub. L. 117–286, §4(a)(239), substituted "section 1004 of title 5." for "section 5 of the Federal Advisory Committee Act (5 U.S.C. App.)."
+
+Subsec. (c)(2)(D). Pub. L. 117–286, §4(c)(40), substituted "subchapter I of chapter 131 of title 5." for "title I of the Ethics in Government Act of 1978."
 
 **2014**—Subsec. (d)(3)(D). Pub. L. 113–128 substituted "other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act," for "other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),".
 

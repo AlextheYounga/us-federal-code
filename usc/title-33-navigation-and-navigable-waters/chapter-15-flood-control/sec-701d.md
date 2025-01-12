@@ -8,7 +8,7 @@ The consent of Congress is given to any two or more States to enter into compact
 
 #### References in Text ####
 
-This Act, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 and sections 6 and 7 of act June 22, 1936, enumerating certain projects and operations with regard to flood control, were not classified to the Code.
+This Act, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 and sections 6 and 7 of act June 22, 1936, enumerating certain projects and operations with regard to flood control, were not classified to the Code.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

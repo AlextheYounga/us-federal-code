@@ -4,7 +4,7 @@
 
 #### National Foundation on Fitness, Sports, and Nutrition ####
 
-Pub. L. 111–332, Dec. 22, 2010, 124 Stat. 3576, provided that:
+Pub. L. 111–332, Dec. 22, 2010, 124 Stat. 3576, as amended by Pub. L. 117–286, §4(c)(37), Dec. 27, 2022, 136 Stat. 4358, provided that:
 
 #### "SECTION 1. SHORT TITLE. ####
 
@@ -68,7 +68,7 @@ The membership of the Board, to the extent practicable, should represent diverse
 
 "(4) Any individual who is an employee or member of the Board of the Foundation may not (in accordance with the policies developed under subsection (i)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of—
 
-"(A) the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act, 1978 [5 U.S.C. App.]) of the individual; or
+"(A) the individual or a relative (as such term is defined in section 13101(16) of title 5, United States Code) of the individual; or
 
 "(B) any business organization, or other entity, of which the individual is an officer or employee, is negotiating for employment, or in which the individual has any other financial interest.
 

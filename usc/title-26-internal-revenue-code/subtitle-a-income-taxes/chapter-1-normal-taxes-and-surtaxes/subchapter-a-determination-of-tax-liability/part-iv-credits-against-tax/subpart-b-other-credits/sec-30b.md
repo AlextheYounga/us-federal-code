@@ -502,7 +502,7 @@ This section shall not apply to any property purchased after—
 
 #### References in Text ####
 
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Sections 202(i), 209(b), and 243(e)(2) of the Act are classified to sections 7521(i), 7543(b), and 7583(e)(2), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Sections 202(i), 209(b), and 243(e)(2) of the Act are classified to sections 7521(i), 7543(b), and 7583(e)(2), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and (h)(2), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 

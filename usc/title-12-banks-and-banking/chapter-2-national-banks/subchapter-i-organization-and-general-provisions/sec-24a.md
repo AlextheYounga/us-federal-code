@@ -238,7 +238,7 @@ The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (g)(3)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of this title.
 
-The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, as amended, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
+The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
 
 #### Prior Provisions ####
 

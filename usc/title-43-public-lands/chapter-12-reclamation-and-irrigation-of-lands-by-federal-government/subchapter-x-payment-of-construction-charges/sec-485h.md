@@ -82,7 +82,7 @@ No less than sixty days before entering into or amending any repayment contract 
 
 #### References in Text ####
 
-The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -112,7 +112,7 @@ Subsec. (d)(5). Pub. L. 85–611, §3, struck out provisions which required repa
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Construction With Section 101–1 of Title 33 ####
+#### Construction With Section 701–1 of Title 33 ####
 
 Section as amended and modified by act Dec. 22, 1944, ch. 665, §1(c), 58 Stat. 665, see section 701–1(c) of Title 33, Navigation and Navigable Waters.
 

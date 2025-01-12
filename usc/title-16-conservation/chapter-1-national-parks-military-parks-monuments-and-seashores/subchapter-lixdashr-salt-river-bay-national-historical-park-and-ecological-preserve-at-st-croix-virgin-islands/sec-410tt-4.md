@@ -44,18 +44,18 @@ The Commission shall meet on a regular basis or at the call of the Chair. Notice
 
 Members of the Commission shall serve without compensation as such, but the Secretary may pay each member of the Commission travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5. Members of the Commission who are full-time officers or employees of the United States or the Virgin Islands Government may not receive additional pay, allowances, or benefits by reason of their service on the Commission. The Secretary shall provide the Commission with a budget for travel expenses and staff, and guidelines by which expenditures shall be accounted for.
 
-#### (h) Federal Advisory Committee Act ####
+#### (h) Chapter 10 of title 5 ####
 
-Except with respect to the provisions of section 14(b) of the Federal Advisory Committee Act, and except as otherwise provided in this subchapter, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Commission.
+Except with respect to the provisions of section 1013(b) of title 5, and except as otherwise provided in this subchapter, the provisions of chapter 10 of title 5 shall apply to the Commission.
 
 #### (i) Termination ####
 
 The Commission shall terminate 10 years after February 24, 1992, unless the Secretary determines that it is necessary to continue consulting with the Commission in carrying out the purposes of this subchapter.
 
-(Pub. L. 102–247, title I, §106, Feb. 24, 1992, 106 Stat. 35.)
+(Pub. L. 102–247, title I, §106, Feb. 24, 1992, 106 Stat. 35; Pub. L. 117–286, §4(a)(82), Dec. 27, 2022, 136 Stat. 4314.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
+#### Amendments ####
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+**2022**—Subsec. (h). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "section 1013(b) of title 5, and except as otherwise provided in this subchapter, the provisions of chapter 10 of title 5" for "section 14(b) of the Federal Advisory Committee Act, and except as otherwise provided in this subchapter, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.)" in text.

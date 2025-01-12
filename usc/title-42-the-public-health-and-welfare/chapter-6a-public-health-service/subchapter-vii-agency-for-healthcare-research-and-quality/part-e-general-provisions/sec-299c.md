@@ -94,15 +94,11 @@ The Director shall provide to the Advisory Council such staff, information, and 
 
 #### (j) Duration ####
 
-Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Advisory Council shall continue in existence until otherwise provided by law.
+Notwithstanding section 1013(a) of title 5, the Advisory Council shall continue in existence until otherwise provided by law.
 
-(July 1, 1944, ch. 373, title IX, §941, formerly §921, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1663; amended Pub. L. 108–173, title IX, §900(e)(2)(D), Dec. 8, 2003, 117 Stat. 2372; renumbered §931, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §941, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
+(July 1, 1944, ch. 373, title IX, §941, formerly §921, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1663; amended Pub. L. 108–173, title IX, §900(e)(2)(D), Dec. 8, 2003, 117 Stat. 2372; renumbered §931, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §941, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381; Pub. L. 117–286, §4(a)(242), Dec. 27, 2022, 136 Stat. 4332.)
 
 #### **Editorial Notes** ####
-
-#### References in Text ####
-
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (j), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5.
 
 #### Prior Provisions ####
 
@@ -111,5 +107,7 @@ A prior section 299c, act July 1, 1944, ch. 373, title IX, §921, as added Pub. 
 Another prior section 299c, act July 1, 1944, ch. 373, title IX, §903, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 927; amended Oct. 15, 1968, Pub. L. 90–574, title I, §104, 82 Stat. 1005; Oct. 30, 1970, Pub. L. 91–515, title I, §§105, 111(b), 84 Stat. 1299, 1301, authorized Secretary to make planning grants and set forth requirements for grant applications, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
 #### Amendments ####
+
+**2022**—Subsec. (j). Pub. L. 117–286 which directed amendment of "Section 942(j) of the Public Health Service Act" by substituting "section 1013(a) of title 5," for "section 14(a) of the Federal Advisory Committee Act,", was executed to this section, which is section 941 of the Public Health Service Act, to reflect the probable intent of Congress.
 
 **2003**—Subsec. (c)(3)(A). Pub. L. 108–173 substituted "Centers for Medicare & Medicaid Services" for "Health Care Financing Administration".

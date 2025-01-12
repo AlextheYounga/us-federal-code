@@ -12,7 +12,7 @@ The sum of $5,000,000 is authorized to be used out of the appropriation authoriz
 
 Act of January 21, 1927 [ch. 47, 44 Stat. 1010], referred to in text, popularly known as the River and Harbor Act of January 21, 1927, was not classified to the Code, except for subsections (b) and (d) of section 5 of the act, which enacted sections 569 and 584 of this title.
 
-Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

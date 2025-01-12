@@ -20,4 +20,4 @@ The Secretary is authorized and directed to enter into memorandums of agreement 
 
 Federal reclamation law, referred to in subsecs. (a) and (b), is defined in section 390aa of this title.
 
-The Water Supply Act of 1958, as amended, referred to in subsec. (b), is title III of Pub. L. 85–500, July 3, 1958, 72 Stat. 319, as amended, which enacted section 390b of this title and enacted a provision set out as a note under section 390b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 390b of this title and Tables.
+The Water Supply Act of 1958, as amended, referred to in subsec. (b), is title III of Pub. L. 85–500, July 3, 1958, 72 Stat. 319, which enacted section 390b of this title and enacted a provision set out as a note under section 390b of this title. For complete classification of this Act to the Code, see Short Title note set out under section 390b of this title and Tables.

@@ -53,7 +53,7 @@ Chapter Sec.
 
 553. Passenger and Cargo Preferences 55301
 
-[555. TRANSFERRED]
+[555. Transferred]
 
 556. Short Sea Transportation 1 55601
 

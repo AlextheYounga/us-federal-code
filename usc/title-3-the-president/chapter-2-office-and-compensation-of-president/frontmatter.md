@@ -544,7 +544,7 @@ Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 1349
 
 #### Executive Order No. 13283 ####
 
-Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, §9, Sept. 29, 2005, 70 F.R. 57991, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, §9, Sept. 29, 2005, 70 F.R. 57991, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 13498 ####
 
@@ -662,7 +662,7 @@ Barack Obama.
 
 #### Additional Extensions of Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships ####
 
-Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extension of term of President's Advisory Council on Faith-Based and Neighborhood Partnerships was contained in the following prior Executive Order:
 

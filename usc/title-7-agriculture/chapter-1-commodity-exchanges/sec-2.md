@@ -336,9 +336,9 @@ The Commission shall appoint members with a wide diversity of opinion and who re
 
 Members shall be entitled to per diem and travel expense reimbursement by the Commission.
 
-#### (E) FACA ####
+#### (E) Chapter 10 of title 5 ####
 
-The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+The Committee shall not be subject to chapter 10 of title 5.
 
 #### (b) Transaction in interstate commerce ####
 
@@ -924,7 +924,7 @@ The provisions of this chapter relating to swaps that were enacted by the Wall S
 
 Exemptions from the requirements of subsection (h)(1) to clear a swap and subsection (h)(8) to execute a swap through a board of trade or swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l) or that is required to file reports pursuant to section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o[d]) only if an appropriate committee of the issuer's board or governing body has reviewed and approved its decision to enter into swaps that are subject to such exemptions.
 
-(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) [title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749; Pub. L. 114–113, div. O, title VII, §705(a), Dec. 18, 2015, 129 Stat. 3025.)
+(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) [title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749; Pub. L. 114–113, div. O, title VII, §705(a), Dec. 18, 2015, 129 Stat. 3025; Pub. L. 117–286, §4(a)(19), Dec. 27, 2022, 136 Stat. 4307.)
 
 #### **Editorial Notes** ####
 
@@ -935,8 +935,6 @@ The Wall Street Transparency and Accountability Act of 2010, referred to in subs
 Section 77b(1) of title 15, referred to in subsec. (a)(1)(C)(i)(I), was redesignated section 77b(a)(1) of title 15 by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(1)(D)(i)(VI), (iii)(II), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (a)(15)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of the enactment of this clause and such date of enactment, referred to in subsec. (c)(2)(B)(ii), are the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -955,6 +953,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Subsec. (a)(1)(B) of this section was formerly classified to section 4 of this title. Subsec. (a)(1)(C) of this section was formerly classified to section 2a of this title. Subsec. (a)(2) to (11) of this section was formerly classified to section 4a of this title. Subsec. (b) of this section was formerly classified to section 3 of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(15)(E). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "FACA" in heading and "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)." in text.
 
 **2015**—Subsec. (h)(7)(D). Pub. L. 114–113 added cls. (i) to (iv) and (vi), redesignated former cl. (iii) as (v), and struck out former cls. (i) and (ii) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
 

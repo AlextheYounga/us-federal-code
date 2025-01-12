@@ -278,9 +278,9 @@ The Secretary shall provide the Commission with any staff members and technical 
 
 The Secretary may accept the services of personnel detailed from the State or any political subdivision of the State.
 
-#### (9) FACA nonapplicability ####
+#### (9) Nonapplicability of chapter 10 of title 5 ####
 
-Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+Section 1013(b) of title 5 shall not apply to the Commission.
 
 #### (10) Termination ####
 
@@ -298,7 +298,7 @@ Eight years after December 19, 2014, the Commission shall make a recommendation 
 
 If, based on a recommendation under clause (i), the Secretary determines that the Commission is still necessary, the Secretary may extend the life of the Commission for not more than 10 years.
 
-(Pub. L. 113–291, div. B, title XXX, §3032, Dec. 19, 2014, 128 Stat. 3770; Pub. L. 115–111, §1, Jan. 10, 2018, 131 Stat. 2273.)
+(Pub. L. 113–291, div. B, title XXX, §3032, Dec. 19, 2014, 128 Stat. 3770; Pub. L. 115–111, §1, Jan. 10, 2018, 131 Stat. 2273; Pub. L. 117–286, §4(a)(89), Dec. 27, 2022, 136 Stat. 4315.)
 
 #### **Editorial Notes** ####
 
@@ -308,13 +308,13 @@ The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subs
 
 The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (f)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (k)(9), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification ####
 
 In subsec. (j)(1)(A), "section 100502 of title 54" substituted for "section 12(b) of Public Law 91–383 (commonly known as the 'National Park Service General Authorities Act') (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
+
+**2022**—Subsec. (k)(9). Pub. L. 117–286 substituted "Nonapplicability of chapter 10 of title 5" for "FACA nonapplicability" in heading and "Section 1013(b) of title 5" for "Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 **2018**—Subsec. (b)(2)(B). Pub. L. 115–111 substituted "Colt Armory Complex" for "East Armory".
 

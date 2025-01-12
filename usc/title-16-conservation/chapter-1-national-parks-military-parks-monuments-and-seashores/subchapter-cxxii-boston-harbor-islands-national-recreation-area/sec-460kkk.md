@@ -254,9 +254,9 @@ The Advisory Council shall consist of not fewer than 18 individuals, to be appoi
 
 Each meeting of the Advisory Council and its committees shall be open to the public.
 
-#### (4) FACA ####
+#### (4) Chapter 10 of title 5 ####
 
-The provisions of section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), are hereby waived with respect to the Advisory Council.
+The provisions of section 1013 of title 5 are hereby waived with respect to the Advisory Council.
 
 #### (h) Authorization of appropriations ####
 
@@ -268,7 +268,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
-(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197; Pub. L. 111–281, title IX, §903(a)(8), Oct. 15, 2010, 124 Stat. 3010.)
+(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197; Pub. L. 111–281, title IX, §903(a)(8), Oct. 15, 2010, 124 Stat. 3010; Pub. L. 117–286, §4(a)(93), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### **Editorial Notes** ####
 
@@ -278,9 +278,9 @@ The Act entitled "An Act to establish a National Park Service, and for other pur
 
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (d)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments ####
+
+**2022**—Subsec. (g)(4). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "FACA" in heading and "section 1013 of title 5" for "section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)," in text.
 
 **2010**—Subsec. (e)(2)(B). Pub. L. 111–281 made technical amendment to directory language of Pub. L. 109–241, §902(h)(1). See 2006 Amendment note below.
 

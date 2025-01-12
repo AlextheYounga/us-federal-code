@@ -62,7 +62,7 @@ Sec.
 
 1599d. Financial management positions: authority to prescribe professional certification and credential standards.
 
-1599e. Probationary period for employees.
+[1599e. Repealed.]
 
 1599f. United States Cyber Command recruitment and retention.
 
@@ -72,17 +72,11 @@ Sec.
 
 1599i. Recruitment incentives for placement at remote locations.
 
-#### Amendment of Analysis ####
-
-Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950, provided that this analysis is amended by striking the item relating to section 1599e "Probationary period for employees". See 2021 Amendment note below.
-
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title XVII, §1701(w)(1), Dec. 27, 2021, 135 Stat. 2154, struck out item 1599h "Personnel management authority to attract experts in science and engineering".
-
-Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950, which directed amendment of this analysis by striking item 1599e "Probationary period for employees", was executed as if effective on Dec. 31, 2022, concurrent with the repeal of section 1599e by Pub. L. 117–81, div. A, title XI, §1106(a)(1), to reflect the probable intent of Congress.
+**2021**—Pub. L. 117–81, div. A, title XI, §1106(b)(1), title XVII, §1701(w)(1), Dec. 27, 2021, 135 Stat. 1950, 2154, struck out items 1599e "Probationary period for employees" and 1599h "Personnel management authority to attract experts in science and engineering".
 
 Pub. L. 116–283, div. A, title II, §241(c)(2), title XI, §1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
 

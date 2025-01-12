@@ -230,9 +230,9 @@ Nothing in this Act shall be construed as affecting the authority, jurisdiction,
 
 #### (o) Coordination with State agencies ####
 
-Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to chapter 10 of title 5.
 
-(Pub. L. 89–669, §4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, §1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, §13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, §5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, §4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, §904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259; Pub. L. 105–312, title II, §206, Oct. 30, 1998, 112 Stat. 2958.)
+(Pub. L. 89–669, §4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, §1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, §13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, §5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, §4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, §904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259; Pub. L. 105–312, title II, §206, Oct. 30, 1998, 112 Stat. 2958; Pub. L. 117–286, §4(a)(99), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### **Editorial Notes** ####
 
@@ -248,9 +248,9 @@ The Refuge Recreation Act and the Act of September 28, 1962, referred to in subs
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (o), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is classified to the Appendix of Title 5, Government Organization and Employees.
-
 #### Amendments ####
+
+**2022**—Subsec. (o). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 
 **1998**—Subsec. (c). Pub. L. 105–312, §206(1), struck out "knowingly" after "No person shall" in first sentence.
 

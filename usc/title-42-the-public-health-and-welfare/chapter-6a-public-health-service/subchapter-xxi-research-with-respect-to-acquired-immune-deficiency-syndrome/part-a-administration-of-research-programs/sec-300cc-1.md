@@ -128,7 +128,7 @@ William J. Clinton.
 
 #### Extension of Term of Presidential Advisory Council on HIV/AIDS ####
 
-Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Presidential Advisory Council on HIV/AIDS were contained in the following prior Executive Orders:
 

@@ -8,4 +8,4 @@ There are authorized to be appropriated such funds as may be necessary to acquir
 
 #### References in Text ####
 
-Herein, referred to in text, means act Aug. 6, 1947, ch. 504, 61 Stat. 787, as amended, which is classified generally to this subchapter (§883a et seq.). For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act Aug. 6, 1947, ch. 504, 61 Stat. 787, which is classified generally to this subchapter (§883a et seq.). For complete classification of this Act to the Code, see Tables.

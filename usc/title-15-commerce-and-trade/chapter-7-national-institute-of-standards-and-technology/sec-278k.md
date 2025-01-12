@@ -406,15 +406,15 @@ The MEP Advisory Board shall—
 
 (iii) assessments of current performance against the plans of the Program.
 
-#### (4) FACA applicability ####
+#### (4) Applicability of chapter 10 of title 5 ####
 
 #### (A) In general ####
 
-In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
+In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with chapter 10 of title 5.
 
 #### (B) Exception ####
 
-Section 14 of the Federal Advisory Committee Act shall not apply to the MEP Advisory Board.
+Section 1013 of title 5 shall not apply to the MEP Advisory Board.
 
 #### (5) Annual report ####
 
@@ -442,13 +442,11 @@ As part of the Program, the Director shall—
 
 As part of the Program, the Secretary shall develop open access resources that address best practices related to inventory sourcing, supply chain management, manufacturing techniques, available Federal resources, and other topics to further the competitiveness and profitability of small manufacturers.
 
-(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, §501(b), Jan. 6, 2017, 130 Stat. 3023; Pub. L. 117–167, div. B, title II, §§10252(a), (b), (d), 10255, Aug. 9, 2022, 136 Stat. 1499, 1503.)
+(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, §501(b), Jan. 6, 2017, 130 Stat. 3023; Pub. L. 117–167, div. B, title II, §§10252(a), (b), (d), 10255, Aug. 9, 2022, 136 Stat. 1499, 1503; Pub. L. 117–286, §4(a)(65), Dec. 27, 2022, 136 Stat. 4312.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
-
-The Federal Advisory Committee Act, referred to in subsec. (m)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Subsections (c) and (d) of section 278i of this title, referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were repealed by Pub. L. 114–329, title II, §204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
 
@@ -477,6 +475,12 @@ Pub. L. 117–167, §10252(b)(3)(C), inserted "United States-based" before "smal
 Subsec. (f)(5)(B)(i). Pub. L. 117–167, §10252(b)(4), inserted before semicolon at end "in the United States".
 
 Subsec. (l). Pub. L. 117–167, §10252(a), amended subsec. (l) generally. Prior to amendment, text read as follows: "In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under section 272(c)(7) of this title, to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing."
+
+Subsec. (m)(4). Pub. L. 117–286, §4(a)(65)(A), substituted "Applicability of chapter 10 of title 5" for "FACA applicability" in heading.
+
+Subsec. (m)(4)(A). Pub. L. 117–286, §4(a)(65)(B), substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
+
+Subsec. (m)(4)(B). Pub. L. 117–286, §4(a)(65)(C), substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act".
 
 Subsec. (n)(1)(A). Pub. L. 117–167, §10252(b)(5), inserted "United States-based" before "small".
 

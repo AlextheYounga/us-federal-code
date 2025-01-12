@@ -16,7 +16,7 @@ After June 22, 1936, no money appropriated under authority of section 701f of th
 
 #### References in Text ####
 
-Herein, referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain dams to be constructed, were not classified to the Code.
+Herein, referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain dams to be constructed, were not classified to the Code.
 
 #### Amendments ####
 

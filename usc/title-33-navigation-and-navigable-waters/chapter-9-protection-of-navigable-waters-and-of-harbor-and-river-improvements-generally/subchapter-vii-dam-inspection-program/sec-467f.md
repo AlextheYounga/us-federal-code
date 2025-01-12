@@ -224,19 +224,17 @@ To the extent amounts are made available in advance in appropriations Acts, each
 
 To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from home or regular place of business of the member in performance of services for the Board.
 
-#### (9) Applicability of Federal Advisory Committee Act ####
+#### (9) Applicability of chapter 10 of title 5 ####
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+Chapter 10 of title 5 shall not apply to the Board.
 
-(Pub. L. 92–367, §8, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, §3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451; Pub. L. 109–460, §1(c), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 113–121, title III, §3001(a)(1), (c), June 10, 2014, 128 Stat. 1282.)
+(Pub. L. 92–367, §8, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, §3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451; Pub. L. 109–460, §1(c), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 113–121, title III, §3001(a)(1), (c), June 10, 2014, 128 Stat. 1282; Pub. L. 117–286, §4(a)(198), Dec. 27, 2022, 136 Stat. 4327.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
 Section 467j of this title, referred to in subsec. (e)(1), was in the original "section 13" and was translated as meaning section 13 of Pub. L. 92–367 prior to its redesignation as section 14 by Pub. L. 113–121, §3001(d)(1).
-
-The Federal Advisory Committee Act, referred to in subsec. (f)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions ####
 
@@ -245,6 +243,8 @@ A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XI
 A prior section 8 of Pub. L. 92–367 was classified to section 467g of this title prior to repeal by Pub. L. 104–303.
 
 #### Amendments ####
+
+**2022**—Subsec. (f)(9). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 **2014**—Pub. L. 113–121, §3001(a)(1), substituted "Administrator" for "Director" wherever appearing.
 

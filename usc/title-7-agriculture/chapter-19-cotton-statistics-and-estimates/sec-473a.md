@@ -26,7 +26,7 @@ In establishing the amount of fees under this section, the Secretary shall consu
 
 #### (2) Exemption ####
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations with representatives of the United States cotton industry under this section.
+Chapter 10 of title 5 shall not apply to consultations with representatives of the United States cotton industry under this section.
 
 #### (d) Crediting of fees ####
 
@@ -52,19 +52,17 @@ Notwithstanding any other provision of law, the Secretary may enter into long-te
 
 To the extent that financing is not available from fees and the proceeds from the sales of samples, there are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Mar. 3, 1927, ch. 337, §3a, as added Apr. 13, 1937, ch. 75, 50 Stat. 62; amended Pub. L. 97–35, title I, §156(b), Aug. 13, 1981, 95 Stat. 373; Pub. L. 98–403, §1, Aug. 28, 1984, 98 Stat. 1479; Pub. L. 100–108, §2, Aug. 20, 1987, 101 Stat. 728; Pub. L. 102–237, title I, §120(a)–(c), Dec. 13, 1991, 105 Stat. 1842, 1843; Pub. L. 104–127, title IX, §912(a), Apr. 4, 1996, 110 Stat. 1185; Pub. L. 107–171, title X, §10801(a), May 13, 2002, 116 Stat. 525; Pub. L. 110–234, title XIV, §14201, May 22, 2008, 122 Stat. 1457; Pub. L. 110–246, §4(a), title XIV, §14201, June 18, 2008, 122 Stat. 1664, 2219.)
+(Mar. 3, 1927, ch. 337, §3a, as added Apr. 13, 1937, ch. 75, 50 Stat. 62; amended Pub. L. 97–35, title I, §156(b), Aug. 13, 1981, 95 Stat. 373; Pub. L. 98–403, §1, Aug. 28, 1984, 98 Stat. 1479; Pub. L. 100–108, §2, Aug. 20, 1987, 101 Stat. 728; Pub. L. 102–237, title I, §120(a)–(c), Dec. 13, 1991, 105 Stat. 1842, 1843; Pub. L. 104–127, title IX, §912(a), Apr. 4, 1996, 110 Stat. 1185; Pub. L. 107–171, title X, §10801(a), May 13, 2002, 116 Stat. 525; Pub. L. 110–234, title XIV, §14201, May 22, 2008, 122 Stat. 1457; Pub. L. 110–246, §4(a), title XIV, §14201, June 18, 2008, 122 Stat. 1664, 2219; Pub. L. 117–286, §4(a)(23), Dec. 27, 2022, 136 Stat. 4307.)
 
 #### **Editorial Notes** ####
-
-#### References in Text ####
-
-The Federal Advisory Committee Act, referred to in subsec. (c)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2022**—Subsec. (c)(2). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
 
 **2008**—Pub. L. 110–246, §14201, inserted section catchline and amended text generally, substituting provisions consisting of subsecs. (a) to (g) for former undesignated provisions which related to cotton classification services in fiscal years 1992 through 2007.
 

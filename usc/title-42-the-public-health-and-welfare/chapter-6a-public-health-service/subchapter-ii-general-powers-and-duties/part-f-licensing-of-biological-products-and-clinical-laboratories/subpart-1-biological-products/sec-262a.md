@@ -274,7 +274,7 @@ In addition to any other penalties that may apply under law, any person who viol
 
 #### (2) Applicability of certain provisions ####
 
-The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary may delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title, and such authority shall include all powers as contained in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary may delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title, and such authority shall include all powers as contained in section 406 of title 5.
 
 #### (j) Notification in event of release ####
 
@@ -328,7 +328,7 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007.
 
-(July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318; Pub. L. 116–22, title IV, §405, June 24, 2019, 133 Stat. 949.)
+(July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318; Pub. L. 116–22, title IV, §405, June 24, 2019, 133 Stat. 949; Pub. L. 117–286, §4(b)(75), Dec. 27, 2022, 136 Stat. 4351.)
 
 #### **Editorial Notes** ####
 
@@ -340,9 +340,9 @@ The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments ####
+
+**2022**—Subsec. (i)(2). Pub. L. 117–286 substituted "section 406 of title 5." for "section 6 of the Inspector General Act of 1978 (5 U.S.C. App.)."
 
 **2019**—Subsec. (k). Pub. L. 116–22 designated existing provisions as par. (1), inserted heading, and added par. (2).
 

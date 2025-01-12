@@ -54,7 +54,7 @@ The Government of the United States shall be solely responsible for—
 
 #### References in Text ####
 
-Public Law 83–472, referred to in subsec. (d), is act July 2, 1954, ch. 457, 68 Stat. 434, as amended, known as the Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1955. Certain provisions of this Act relating to Saint Elizabeths Hospital and appearing at 68 Stat. 443, were repealed by section 10(d)(2) of Pub. L. 98–621 effective Oct. 1, 1987. For complete classification of this Act to the Code, see Tables.
+Public Law 83–472, referred to in subsec. (d), is act July 2, 1954, ch. 457, 68 Stat. 434, known as the Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1955. Certain provisions of this Act relating to Saint Elizabeths Hospital and appearing at 68 Stat. 443, were repealed by section 10(d)(2) of Pub. L. 98–621 effective Oct. 1, 1987. For complete classification of this Act to the Code, see Tables.
 
 #### Codification ####
 

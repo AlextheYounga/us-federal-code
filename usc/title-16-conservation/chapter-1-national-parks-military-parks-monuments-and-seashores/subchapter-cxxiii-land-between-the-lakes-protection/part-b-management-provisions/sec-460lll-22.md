@@ -66,12 +66,12 @@ The chairperson, through the placement of notices in local news media and by oth
 
 #### (h) No termination ####
 
-Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
+Section 1013(a) of title 5 shall not apply to the Advisory Board.
 
-(Pub. L. 105–277, div. A, §101(e) [title V, §522], Oct. 21, 1998, 112 Stat. 2681–231, 2681–314.)
+(Pub. L. 105–277, div. A, §101(e) [title V, §522], Oct. 21, 1998, 112 Stat. 2681–231, 2681–314; Pub. L. 117–286, §4(a)(94), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
+#### Amendments ####
 
-Section 14(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (h), is section 14(a)(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+**2022**—Subsec. (h). Pub. L. 117–286 substituted "Section 1013(a) of title 5" for "Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.)".

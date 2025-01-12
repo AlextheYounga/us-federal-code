@@ -216,7 +216,7 @@ The National Railroad Retirement Investment Trust shall from time to time transf
 
 Sections 4 and 15 of the Railroad Retirement Act of 1937, referred to in subsecs. (a) and (b)(1), which were classified to sections 228c–1 and 228o of this title, have been omitted from the Code.
 
-The Railroad Retirement Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
+The Railroad Retirement Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
 The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

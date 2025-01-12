@@ -82,7 +82,7 @@ In this subsection—
 
 (i) any individual (other than a Member of Congress), whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
 
-(ii) any other officer or employee of the legislative branch (as defined in section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
+(ii) any other officer or employee of the legislative branch (as defined in section 13101(11) of title 5).
 
 #### (3) Rule of construction ####
 
@@ -110,9 +110,9 @@ In this subsection—
 
 (III) an employee of the United States Postal Service or the Postal Regulatory Commission;
 
-(B) the term "judicial employee" has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)); and
+(B) the term "judicial employee" has the meaning given that term in section 13101(9) of title 5; and
 
-(C) the term "judicial officer" has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(10)).
+(C) the term "judicial officer" has the meaning given that term under section 13101(10) of title 5.
 
 #### (3) Rule of construction ####
 
@@ -120,9 +120,9 @@ Nothing in this subsection shall be construed to impair or limit the constructio
 
 #### (i) Participation in initial public offerings ####
 
-An individual described in section 101(f) of the Ethics in Government Act of 1978 may not purchase securities that are the subject of an initial public offering (within the meaning given such term in section 78l(f)(1)(G)(i) of this title) in any manner other than is available to members of the public generally.
+An individual described in section 13103(f) of title 5 may not purchase securities that are the subject of an initial public offering (within the meaning given such term in section 78l(f)(1)(G)(i) of this title) in any manner other than is available to members of the public generally.
 
-(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) [title II, §205(a)(4), title III, §303(k), (l)], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850; Pub. L. 112–105, §§4(b)(2), 9(b)(2)(B), 12, Apr. 4, 2012, 126 Stat. 292, 297, 300.)
+(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) [title II, §205(a)(4), title III, §303(k), (l)], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850; Pub. L. 112–105, §§4(b)(2), 9(b)(2)(B), 12, Apr. 4, 2012, 126 Stat. 292, 297, 300; Pub. L. 117–286, §4(c)(24), Dec. 27, 2022, 136 Stat. 4357.)
 
 #### **Editorial Notes** ####
 
@@ -132,13 +132,17 @@ This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original "
 
 Subsec. (f) of section 78o of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by Pub. L. 111–203, title IX, §929X(c)(1), July 21, 2010, 124 Stat. 1870.
 
-Section 10 of the STOCK Act, referred to in subsecs. (g)(1) and (h)(1), is section 10 of Pub. L. 112–105, which is set out as a note under section 101 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Section 109 of the Ethics in Government Act of 1978, referred to in subsecs. (g)(2)(B)(ii) and (h)(2)(B), (C), is section 109 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (i), is section 101(f) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 10 of the STOCK Act, referred to in subsecs. (g)(1) and (h)(1), is section 10 of Pub. L. 112–105, which is set out as a note preceding section 13101 of Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2022**—Subsec. (g)(2)(B)(ii). Pub. L. 117–286, §4(c)(24)(A), substituted "section 13101(11) of title 5)." for "section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11)))."
+
+Subsec. (h)(2)(B). Pub. L. 117–286, §4(c)(24)(B)(i), substituted "section 13101(9) of title 5;" for "section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8));".
+
+Subsec. (h)(2)(C). Pub. L. 117–286, §4(c)(24)(B)(ii), substituted "section 13101(10) of title 5." for "section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(10))."
+
+Subsec. (i). Pub. L. 117–286, §4(c)(24)(C), substituted "section 13103(f) of title 5" for "section 101(f) of the Ethics in Government Act of 1978".
 
 **2012**—Subsec. (g). Pub. L. 112–105, §4(b)(2), added subsec. (g).
 
@@ -188,7 +192,11 @@ Section not applicable to actions occurring before Nov. 19, 1988, see section 9 
 
 Pub. L. 112–105, §4(b)(1), Apr. 4, 2012, 126 Stat. 292, provided that: "The purpose of the amendment made by this subsection [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each Member of Congress and each employee of Congress."
 
+[For definitions of "Member of Congress" and "employee of Congress", see section 2 of Pub. L. 112–105, set out as a note under section 13101 of Title 5, Government Organization and Employees.]
+
 Pub. L. 112–105, §9(b)(2)(A), Apr. 4, 2012, 126 Stat. 297, provided that: "The purpose of the amendment made by this paragraph [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each executive branch employee, judicial officer, and judicial employee."
+
+[For definitions of "executive branch employee", "judicial officer", and "judicial employee", see section 2 of Pub. L. 112–105, set out as a note under section 13101 of Title 5, Government Organization and Employees.]
 
 #### Congressional Findings ####
 

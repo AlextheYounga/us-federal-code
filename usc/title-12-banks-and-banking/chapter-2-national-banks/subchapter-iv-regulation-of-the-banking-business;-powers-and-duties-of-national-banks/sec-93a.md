@@ -8,4 +8,4 @@ Except to the extent that authority to issue such rules and regulations has been
 
 #### References in Text ####
 
-The Glass-Steagall Act, referred to in text, probably refers to act June 16, 1933, ch. 89, 48 Stat. 162, as amended, also known as the Banking Act of 1933 or the Glass-Steagall Act, 1933, rather than to act Feb. 27, 1932, ch. 58, 47 Stat. 56, known as the Glass-Steagall Act, 1932. Section 16 of the 1933 act, which amended section 24 (Seventh) of this title, related in part to securities activities of national banks. For complete classification of these Acts to the Code, see Tables.
+The Glass-Steagall Act, referred to in text, probably refers to act June 16, 1933, ch. 89, 48 Stat. 162, also known as the Banking Act of 1933 or the Glass-Steagall Act, 1933, rather than to act Feb. 27, 1932, ch. 58, 47 Stat. 56, known as the Glass-Steagall Act, 1932. Section 16 of the 1933 act, which amended section 24 (Seventh) of this title, related in part to securities activities of national banks. For complete classification of these Acts to the Code, see Tables.

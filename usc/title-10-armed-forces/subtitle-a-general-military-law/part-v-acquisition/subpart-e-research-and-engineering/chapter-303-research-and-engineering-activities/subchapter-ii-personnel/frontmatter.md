@@ -66,7 +66,7 @@ Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as am
 
 #### Pilot Program on Assignment to Defense Advanced Research Projects Agency of Private Sector Personnel With Critical Research and Development Expertise ####
 
-Pub. L. 113–291, div. A, title II, §232, Dec. 19, 2014, 128 Stat. 3332, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(1), Dec. 12, 2017, 131 Stat. 1566, provided that:
+Pub. L. 113–291, div. A, title II, §232, Dec. 19, 2014, 128 Stat. 3332, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(1), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 117–286, §4(c)(20), Dec. 27, 2022, 136 Stat. 4356, provided that:
 
 "(a) Pilot Program Authorized.—In accordance with the provisions of this section, the Director of the Defense Advanced Research Projects Agency may carry out a pilot program to assess the feasibility and advisability of temporarily assigning covered individuals with significant technical expertise in research and development areas of critical importance to defense missions to the Defense Advanced Research Projects Agency to lead research or development projects of the Agency.
 
@@ -94,7 +94,7 @@ Pub. L. 113–291, div. A, title II, §232, Dec. 19, 2014, 128 Stat. 3332, as am
 
 "(iv) Chapter 171 of title 28, United States Code (commonly known as the 'Federal Tort Claims Act'), and any other Federal tort liability statute.
 
-"(v) The Ethics in Government Act of 1978 (5 U.S.C. App.).
+"(v) Chapter 131 of title 5, United States Code.
 
 "(vi) Section 1043 of the Internal Revenue Code of 1986 [26 U.S.C. 1043].
 

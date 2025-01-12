@@ -394,7 +394,9 @@ Subsec. (b)(1)(A)(ii)(II). Pub. L. 117–169, §13104(b)(2)(B), substituted "$12
 
 Subsec. (b)(1)(B), (C). Pub. L. 117–169, §13104(c)(1)(B), added subpars. (B) and (C). Former subpar. (B) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 117–169, §13104(c)(2)(B), substituted "subparagraph (A), (B), or (C)" for "subparagraph (A)".Pub. L. 117–169, §13104(c)(1)(A), redesignated subpar. (B) as (D).
+Subsec. (b)(1)(D). Pub. L. 117–169, §13104(c)(2)(B), substituted "subparagraph (A), (B), or (C)" for "subparagraph (A)".
+
+Pub. L. 117–169, §13104(c)(1)(A), redesignated subpar. (B) as (D).
 
 Subsec. (d). Pub. L. 117–169, §13104(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined qualified facility.
 
@@ -430,7 +432,7 @@ Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted "taken into account in a
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Effective Dates of 2022 Amendment ####
+#### Effective Date of 2022 Amendment ####
 
 Pub. L. 117–169, title I, §13104(i), Aug. 16, 2022, 136 Stat. 1929, provided that:
 

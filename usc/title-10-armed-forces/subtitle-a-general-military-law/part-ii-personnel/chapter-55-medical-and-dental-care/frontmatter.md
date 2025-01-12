@@ -114,7 +114,9 @@ Sec.
 
 1090. Identifying and treating drug and alcohol dependence.
 
-1090a. Commanding officer and supervisor referrals of members for mental health evaluations.
+1090a. Identifying and treating eating disorders.
+
+1090b. Commanding officer and supervisor referrals of members for mental health evaluations.
 
 1091. Personal services contracts.
 
@@ -189,10 +191,6 @@ Sec.
 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B.
 
 1110b. TRICARE program: extension of dependent coverage.
-
-#### Amendment of Analysis ####
-
-Pub. L. 117–81, div. A, title VII, §701(c)(2), (d), Dec. 27, 2021, 135 Stat. 1779, provided that, effective Oct. 1, 2022, this analysis is amended by striking item 1090a and inserting new items 1090a "Identifying and treating eating disorders" and 1090b "Commanding officer and supervisor referrals of members for mental health evaluations". See 2021 Amendment note below.
 
 #### **Editorial Notes** ####
 

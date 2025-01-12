@@ -150,7 +150,7 @@ any social security benefit shall be treated as an amount received as a pension 
 
 #### References in Text ####
 
-The Social Security Act, referred to in subsecs. (a)(1) and (d)(1)(A), (3), (4)(A), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of Title 42. Sections 207, 224, and 708 of the Act are classified to sections 407, 424a, and 909 of Title 42, respectively. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1) and (d)(1)(A), (3), (4)(A), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of Title 42. Sections 207, 224, and 708 of the Act are classified to sections 407, 424a, and 909 of Title 42, respectively. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (d)(3), (4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 3(a)(1), (f)(3) of the Act is classified to section 231b(a)(1), (f)(3) of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 

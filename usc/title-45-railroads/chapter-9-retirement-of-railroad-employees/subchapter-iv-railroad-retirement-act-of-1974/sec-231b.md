@@ -90,7 +90,7 @@ The annuity of any individual under subsection (a) of this section for any month
 
 #### References in Text ####
 
-The Social Security Act, referred to in subsecs. (a)(1), (f), (g), (h)(1) to (5), (i)(2), and (m), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (f), (g), (h)(1) to (5), (i)(2), and (m), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Retirement Act of 1937, referred to in subsec. (f)(2), is act Aug. 29, 1935, ch. 812, 49 Stat. 867, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, which is classified principally to subchapter III (§228a et seq.) of this chapter. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to this subchapter. For complete classification of these Acts to the Code, see Tables.
 

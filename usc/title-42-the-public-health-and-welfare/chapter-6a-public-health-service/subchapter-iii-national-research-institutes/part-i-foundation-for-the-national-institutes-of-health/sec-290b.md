@@ -190,7 +190,7 @@ The members of the Board shall be accountable for the integrity of the operation
 
 #### (2) Financial conflicts of interest ####
 
-Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
+Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(6)) personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 13101(16) of title 5) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
 
 #### (3) Audits; availability of records ####
 
@@ -280,13 +280,11 @@ The Director of the National Institutes of Health may provide facilities, utilit
 
 From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $1,250,000 and not more than $5,000,000 to the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(d)(4), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 112–144, title V, §509(f), July 9, 2012, 126 Stat. 1050; Pub. L. 117–101, §2(b), Mar. 15, 2022, 136 Stat. 47.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417; Pub. L. 109–482, title I, §107, Jan. 15, 2007, 120 Stat. 3696; Pub. L. 110–85, title V, §502(c), Sept. 27, 2007, 121 Stat. 889; Pub. L. 111–148, title X, §10409(c), Mar. 23, 2010, 124 Stat. 978; Pub. L. 112–74, div. F, title II, §221(d)(4), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 112–144, title V, §509(f), July 9, 2012, 126 Stat. 1050; Pub. L. 117–101, §2(b), Mar. 15, 2022, 136 Stat. 47; Pub. L. 117–286, §4(c)(39), Dec. 27, 2022, 136 Stat. 4358.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
-
-Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, which enacted this section, section 285g–4 of this title, and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
 
@@ -298,7 +296,9 @@ A prior section 499 of act July 1, 1944, was classified to section 289h of this 
 
 #### Amendments ####
 
-**2022**—Subsec. (l). Pub. L. 117–101 substituted "$1,250,000 and not more than $5,000,000" for "$500,000 and not more than $1,250,000".
+**2022**—Subsec. (j)(2). Pub. L. 117–286 substituted "section 13101(16) of title 5)" for "section 109(16) of the Ethics in Government Act of 1978)".
+
+Subsec. (l). Pub. L. 117–101 substituted "$1,250,000 and not more than $5,000,000" for "$500,000 and not more than $1,250,000".
 
 **2012**—Subsec. (c)(1)(C). Pub. L. 112–144 struck out "for which the Secretary issues a certification in the affirmative under section 355a(n)(1)(A) of title 21" before period at end.
 

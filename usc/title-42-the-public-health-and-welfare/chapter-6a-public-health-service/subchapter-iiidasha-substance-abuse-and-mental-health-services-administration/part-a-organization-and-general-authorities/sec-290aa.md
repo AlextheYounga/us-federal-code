@@ -234,7 +234,7 @@ The Assistant Secretary may obtain (in accordance with section 3109 of title 5, 
 
 #### (i) Peer review groups ####
 
-The Assistant Secretary shall, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, establish such peer review groups and program advisory committees as are needed to carry out the requirements of this subchapter and appoint and pay members of such groups, except that officers and employees of the United States shall not receive additional compensation for services as members of such groups. The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under this subsection.
+The Assistant Secretary shall, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, establish such peer review groups and program advisory committees as are needed to carry out the requirements of this subchapter and appoint and pay members of such groups, except that officers and employees of the United States shall not receive additional compensation for services as members of such groups. Chapter 10 of title 5 shall not apply to the duration of a peer review group appointed under this subsection.
 
 #### (j) Voluntary services ####
 
@@ -356,15 +356,13 @@ No information, if an establishment or person supplying the information or descr
 
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. B, title VI, §§6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, 130 Stat. 1202–1206, 1209, 1210.)
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. B, title VI, §§6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, 130 Stat. 1202–1206, 1209, 1210; Pub. L. 117–286, §4(a)(236), Dec. 27, 2022, 136 Stat. 4331.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
 Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsecs. (d)(25), (l)(2), and (m)(7), is section 6021 of Pub. L. 114–255, which is set out as a note below.
-
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5.
 
 Section 6031 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsec. (l)(2), is section 6031 of Pub. L. 114–255, div. B, title VI, Dec. 13, 2016, 130 Stat. 1217, which is not classified to the Code.
 
@@ -377,6 +375,8 @@ Section was formerly classified to section 3511 of this title prior to renumberi
 A prior section 501 of act July 1, 1944, which was classified to section 219 of this title, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (i). Pub. L. 117–286 which directed amendment of subsec. (h) by substituting "Chapter 10 of title 5" for "The Federal Advisory Committee Act", was executed by making the substitution in subsec. (i) to reflect the probable intent of Congress and the prior amendment by Pub. L. 114–255, §6003(1). See 2016 Amendment note below.
 
 **2016**—Subsec. (b). Pub. L. 114–255, §6002(1), substituted "Centers" for "Agencies" in heading and "Centers" for "entities" in introductory provisions.
 
@@ -722,7 +722,7 @@ Pub. L. 115–271, title VII, §7022, Oct. 24, 2018, 132 Stat. 4010, provided th
 
 "(g) Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
 
-"(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
+"(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) [see chapter 10 of title 5, United States Code] shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
 "(i) Sunset.—The Committee shall terminate on the date that is 6 years after the date on which the Committee is established under subsection (a)."
 

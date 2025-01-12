@@ -56,7 +56,7 @@ Modifications of a reservoir project heretofore authorized, surveyed, planned, o
 
 #### References in Text ####
 
-The Reclamation Projects Act of 1939, referred to in subsec. (b), is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, which is classified principally to subchapter X (§485 et seq.) of this chapter. For complete classification of this Act to the Code, see section 485k of this title and Tables.
+The Reclamation Projects Act of 1939, referred to in subsec. (b), is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, which is classified principally to subchapter X (§485 et seq.) of this chapter. For complete classification of this Act to the Code, see section 485k of this title and Tables.
 
 This Act, referred to in subsec. (c)(1)(A), (2), probably means the Water Supply Act of 1958. See below.
 
