@@ -112,7 +112,7 @@ D. The functions of the Domestic Council are hereby transferred to the President
 
 E. Those functions of the Council on Environmental Quality and the Office of Environmental Quality relating to the evaluation provided for by Section 11 of the Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577, 88 Stat. 1878) [42 U.S.C. 5910], are hereby transferred to the Administrator of the Environmental Protection Agency.
 
-F. Those functions of the Office of Management and Budget and its Director relating to the Committee Management Secretariat (Public Law 92–463, 86 Stat. 770, as amended by Public Law 94–409, 90 Stat. 1247) [see section 7 of the Federal Advisory Committee Act, Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 774, as amended, set out in Title 5, Appendix] are hereby transferred to the Administrator of General Services.
+F. Those functions of the Office of Management and Budget and its Director relating to the Committee Management Secretariat (Public Law 92–463, 86 Stat. 770, as amended by Public Law 94–409, 90 Stat. 1247) [see 5 U.S.C. 1006] are hereby transferred to the Administrator of General Services.
 
 G. The functions of the Economic Opportunity Council are hereby transferred to the President, who may delegate such functions within the Executive Office of the President as the President may from time to time deem desirable.
 
@@ -544,7 +544,7 @@ Ex. Ord. No. 13199, Jan. 29, 2001, 66 F.R. 8499, as amended by Ex. Ord. No. 1349
 
 #### Executive Order No. 13283 ####
 
-Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, §9, Sept. 29, 2005, 70 F.R. 57991, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, which established the Office of Global Communications in the White House Office, was revoked by Ex. Ord. No. 13385, §9, Sept. 29, 2005, 70 F.R. 57991, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 13498 ####
 
@@ -644,7 +644,7 @@ Barack Obama.
 
 Ex. Ord. No. 13640, Apr. 5, 2013, 78 F.R. 21211, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.], it is hereby ordered as follows:
 
 Section 1. *Continuing the President's Advisory Council on Faith-Based and Neighborhood Partnerships*. The President's Advisory Council on Faith-Based and Neighborhood Partnerships, as set forth under the provisions of Executive Order 13498 of February 5, 2009 [formerly set out as a note above], and reestablished by section 5 of Executive Order 13569 of April 5, 2011 [set out as a note above], is hereby extended and shall terminate 2 years from the date of this order unless further extended by the President.
 
@@ -662,7 +662,7 @@ Barack Obama.
 
 #### Additional Extensions of Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships ####
 
-Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extension of term of President's Advisory Council on Faith-Based and Neighborhood Partnerships was contained in the following prior Executive Order:
 

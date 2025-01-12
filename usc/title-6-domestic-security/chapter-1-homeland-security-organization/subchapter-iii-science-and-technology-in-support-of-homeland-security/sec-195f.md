@@ -338,6 +338,6 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning give such term in section 650 of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.]
+[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 650 of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.]
 
 [<sup>1</sup> So in original. Probably should be "construed—".](#195f_1)

@@ -106,7 +106,7 @@ Pub. L. 94–409, §6, Sept. 13, 1976, 90 Stat. 1248, provided that:
 
 #### Short Title of 1976 Amendment ####
 
-Pub. L. 94–409, §1, Sept. 13, 1976, 90 Stat. 1241, provided: "That this Act [enacting this section, amending sections 551, 552, 556, and 557 of this title, section 10 of Pub. L. 92–463, set out in the Appendix to this title, and section 410 of Title 39, and enacting provisions set out as notes under this section] may be cited as the 'Government in the Sunshine Act'."
+Pub. L. 94–409, §1, Sept. 13, 1976, 90 Stat. 1241, provided: "That this Act [enacting this section, amending sections 551, 552, 556, and 557 of this title, section 10 of Pub. L. 92–463, formerly set out in the Appendix to this title, and section 410 of Title 39, and enacting provisions set out as notes under this section] may be cited as the 'Government in the Sunshine Act'."
 
 #### Termination of Reporting Requirements ####
 

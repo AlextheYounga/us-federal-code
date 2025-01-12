@@ -50,7 +50,7 @@ The exemption in clause (i) shall take effect with respect to a covered entity o
 
 Nothing in this paragraph shall be construed to—
 
-(I) exempt a covered entity from the reporting requirements under paragraph (3) unless the supplemental report also meets the requirements of clauses (i) and (ii) of this paragraph;
+(I) exempt a covered entity from the reporting requirements under paragraph (3) unless the supplemental report also meets the requirements of clauses (i) and (ii) of this paragraph; <sup><a href="#681b_1_target" name="681b_1">1</a></sup>
 
 (II) prevent the Agency from contacting an entity submitting information to another Federal agency that is provided to the Agency pursuant to section 681g of this title; or
 
@@ -106,7 +106,7 @@ The final rule issued pursuant to subsection (b) shall be composed of the follow
 
 (i) a cyber incident that leads to substantial loss of confidentiality, integrity, or availability of such information system or network, or a serious impact on the safety and resiliency of operational systems and processes;
 
-(ii) a disruption of business or industrial operations, including due to a denial of service attack, ransomware attack, or exploitation of a zero day vulnerability, against <sup><a href="#681b_1_target" name="681b_1">1</a></sup>
+(ii) a disruption of business or industrial operations, including due to a denial of service attack, ransomware attack, or exploitation of a zero day vulnerability, against <sup><a href="#681b_2_target" name="681b_2">2</a></sup>
 
 (I) an information system or network; or
 
@@ -126,7 +126,7 @@ The final rule issued pursuant to subsection (b) shall be composed of the follow
 
 (i) any event where the cyber incident is perpetrated in good faith by an entity in response to a specific request by the owner or operator of the information system; and
 
-(ii) the threat of disruption as extortion, as described in section 681(14)(A) <sup><a href="#681b_2_target" name="681b_2">2</a></sup> of this title.
+(ii) the threat of disruption as extortion, as described in section 681(14)(A) <sup><a href="#681b_3_target" name="681b_3">3</a></sup> of this title.
 
 (3) A requirement that, if a covered cyber incident or a ransom payment occurs following an exempted threat described in paragraph (2)(C)(ii), the covered entity shall comply with the requirements in this part in reporting the covered cyber incident or ransom payment.
 
@@ -214,7 +214,7 @@ If a covered entity impacted by a ransomware attack uses a third party to make a
 
 #### (3) Duty to report ####
 
-Third-party reporting under this subparagraph does not relieve a covered entity from the duty to comply with the requirements for covered cyber incident report or ransom payment report submission.
+Third-party reporting under this subparagraph <sup><a href="#681b_4_target" name="681b_4">4</a></sup> does not relieve a covered entity from the duty to comply with the requirements for covered cyber incident report or ransom payment report submission.
 
 #### (4) Responsibility to advise ####
 
@@ -280,6 +280,10 @@ Section 681(14)(A) of this title, referred to in subsec. (c)(2)(C)(ii), was repe
 
 Executive Order 14028, referred to in subsec. (g), is Ex. Ord. No. 14028, May 12, 2021, 86 F.R. 26633, which is set out as a note under section 3551 of Title 44, Public Printing and Documents.
 
-[<sup>1</sup> So in original. Probably should be followed by a dash.](#681b_1)
+[<sup>1</sup> So in original. Probably should be "subparagraph".](#681b_1)
 
-[<sup>2</sup> See References in Text note below.](#681b_2)
+[<sup>2</sup> So in original. Probably should be followed by a dash.](#681b_2)
+
+[<sup>3</sup> See References in Text note below.](#681b_3)
+
+[<sup>4</sup> So in original. Probably should be "subsection".](#681b_4)

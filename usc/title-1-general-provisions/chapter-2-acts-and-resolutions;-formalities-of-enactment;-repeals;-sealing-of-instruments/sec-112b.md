@@ -140,7 +140,7 @@ Pub. L. 117–263, div. E, title LIX, §5947(a)(1), (c), Dec. 23, 2022, 136 Stat
 
 *(II) is the subject of a written communication from the Chair or Ranking Member of either of the appropriate congressional committees to the Secretary; and*
 
-(B) does not include any non-binding instrument that is signed or otherwise becomes operative or is implemented pursuant to the authorities relied upon by the Department of Defense, the Armed Forces of the United States, or any element of the intelligence community.
+*(B) does not include any non-binding instrument that is signed or otherwise becomes operative or is implemented pursuant to the authorities relied upon by the Department of Defense, the Armed Forces of the United States, or any element of the intelligence community.*
 
 *(6) The term "Secretary" means the Secretary of State.*
 

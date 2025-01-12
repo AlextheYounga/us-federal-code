@@ -28,7 +28,7 @@ Chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act"), shall 
 
 #### (B) Federal Advisory Committee Act ####
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply for the purposes of carrying out this section.
+The Federal Advisory Committee Act (5 U.S.C. App.) <sup><a href="#665k_1_target" name="665k_1">1</a></sup> shall not apply for the purposes of carrying out this section.
 
 #### (b) Clearinghouse contents ####
 
@@ -84,7 +84,7 @@ The Secretary shall—
 
 (A) regularly assess and identify Clearinghouse evidence-based practices and recommendations for which there are no resources available through Federal Government programs for implementation; and
 
-(B) establish an external advisory board, which shall be comprised of appropriate State, local, Tribal, private sector, and nongovernmental organizations, including organizations representing parents of elementary and secondary school students, representative <sup><a href="#665k_1_target" name="665k_1">1</a></sup> from civil rights organizations, representatives of disability rights organizations, representatives of educators, representatives of law enforcement, and nonprofit school safety and security organizations, to—
+(B) establish an external advisory board, which shall be comprised of appropriate State, local, Tribal, private sector, and nongovernmental organizations, including organizations representing parents of elementary and secondary school students, representative <sup><a href="#665k_2_target" name="665k_2">2</a></sup> from civil rights organizations, representatives of disability rights organizations, representatives of educators, representatives of law enforcement, and nonprofit school safety and security organizations, to—
 
 (i) provide feedback on the implementation of evidence-based practices and recommendations of the Clearinghouse; and
 
@@ -186,4 +186,6 @@ Pub. L. 117–159, div. A, title III, subtitle C, June 25, 2022, 136 Stat. 1334,
 
 "(b) Prohibition on Federally Developed, Mandated, or Endorsed Curriculum.—Nothing in this subtitle or the amendments made by this subtitle shall be construed to authorize any officer or employee of the Federal Government to engage in an activity otherwise prohibited under section 103(b) of the Department of Education Organization Act (20 U.S.C. 3403(b))."
 
-[<sup>1</sup> So in original. Probably should be "representatives".](#665k_1)
+[<sup>1</sup> See References in Text note below.](#665k_1)
+
+[<sup>2</sup> So in original. Probably should be "representatives".](#665k_2)

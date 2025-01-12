@@ -162,11 +162,11 @@ Section, Pub. L. 95–452, §13, formerly §12, Oct. 12, 1978, 92 Stat. 1109; re
 ETHICS IN GOVERNMENT ACT OF 1978
 ==========
 
-Sec.
-
 #### [TITLES I TO III—REPEALED] ####
 
 #### [TITLE IV—REPEALED OR OMITTED] ####
+
+Sec.
 
 [401 to 405. Repealed.]
 
