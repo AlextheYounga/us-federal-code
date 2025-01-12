@@ -8,6 +8,10 @@ Sec.
 
 1901. Establishment; officer appointments.
 
+1901a. Capitol Police Board.
+
+1901b. Joint oversight hearings.
+
 1902. Compensation of Chief.
 
 1903. Chief Administrative Officer.
