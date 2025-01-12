@@ -4,9 +4,13 @@ Any officer or agent of said railroad or telegraph companies, or of any company 
 
 (Aug. 7, 1888, ch. 772, §5, 25 Stat. 384; Mar. 3, 1911, ch. 231, §289, 36 Stat. 1167; June 19, 1934, ch. 652, §601, 48 Stat. 1101.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Words "circuit or" which preceded "district court" were omitted in view of the abolition of the circuit courts and the transfer of their jurisdiction to the district courts by act Mar. 3, 1911.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

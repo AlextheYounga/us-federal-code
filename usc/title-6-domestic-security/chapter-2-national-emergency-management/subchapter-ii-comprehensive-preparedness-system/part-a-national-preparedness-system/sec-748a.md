@@ -10,9 +10,13 @@ Not later than 180 days after October 5, 2018, the Administrator shall provide g
 
 (Pub. L. 115–254, div. D, §1208, Oct. 5, 2018, 132 Stat. 3441.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Disaster Recovery Reform Act of 2018 and also as part of the FAA Reauthorization Act of 2018, and not as part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

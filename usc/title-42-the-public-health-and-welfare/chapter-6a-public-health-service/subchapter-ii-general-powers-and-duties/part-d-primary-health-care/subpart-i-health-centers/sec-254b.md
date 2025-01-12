@@ -1058,6 +1058,40 @@ Pub. L. 104–299, §4(c), Oct. 11, 1996, 110 Stat. 3645, provided that: "Whenev
 
 Pub. L. 104–299, §4(e), Oct. 11, 1996, 110 Stat. 3645, provided that: "After consultation with the appropriate committees of the Congress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act [see Short Title of 1996 Amendments note set out under section 201 of this title]."
 
+#### Ex. Ord. No. 13937. Access to Affordable Life-Saving Medications ####
+
+Ex. Ord. No. 13937, July 24, 2020, 85 F.R. 45755, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. *Purpose*. Insulin is a critical and life-saving medication that approximately 8 million Americans rely on to manage diabetes. Likewise, injectable epinephrine is a life-saving medication used to stop severe allergic reactions.
+
+The price of insulin in the United States has risen dramatically over the past decade. The list price for a single vial of insulin today is often more than $250 and most patients use at least two vials per month. As for injectable epinephrine, recent increased competition is helping to drive prices down. Nevertheless, the price for some types of injectable epinephrine remains more than $600 per kit. While Americans with diabetes and severe allergic reactions may have access to affordable insulin and injectable epinephrine through commercial insurance or Federal programs such as Medicare and Medicaid, many Americans still struggle to purchase these products.
+
+Federally Qualified Health Centers (FQHCs), as defined in section 1905(l)(2)(B)(i) and (ii) of the Social Security Act, as amended, 42 U.S.C. 1396d(l)(2)(B)(i) and (ii), receive discounted prices through the 340B Prescription Drug Program on prescription drugs. Due to the sharp increases in list prices for many insulins and some types of injectable epinephrine in recent years, many of these products may be subject to the "penny pricing" policy when distributed to FQHCs, meaning FQHCs may purchase the drug at a price of one penny per unit of measure. These steep discounts, however, are not always passed through to low-income Americans at the point of sale. Those with low-incomes can be exposed to high insulin and injectable epinephrine prices, as they often do not benefit from discounts negotiated by insurers or the Federal or State governments.
+
+Sec. 2. *Policy*. It is the policy of the United States to enable Americans without access to affordable insulin and injectable epinephrine through commercial insurance or Federal programs, such as Medicare and Medicaid, to purchase these pharmaceuticals from an FQHC at a price that aligns with the cost at which the FQHC acquired the medication.
+
+Sec. 3. *Improving the Availability of Insulin and Injectable Epinephrine for the Uninsured*. To the extent permitted by law, the Secretary of Health and Human Services shall take action to ensure future grants available under section 330(e) of the Public Health Service Act, as amended, 42 U.S.C. 254b(e), are conditioned upon FQHCs' having established practices to make insulin and injectable epinephrine available at the discounted price paid by the FQHC grantee or sub-grantee under the 340B Prescription Drug Program (plus a minimal administration fee) to individuals with low incomes, as determined by the Secretary, who:
+
+(a) have a high cost sharing requirement for either insulin or injectable epinephrine;
+
+(b) have a high unmet deductible; or
+
+(c) have no health care insurance.
+
+Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof;
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
 #### Medicare Demonstration To Test Medical Homes in Federally Qualified Health Centers ####
 
 Memorandum of President of the United States, Dec. 9, 2009, 74 F.R. 66207, provided:

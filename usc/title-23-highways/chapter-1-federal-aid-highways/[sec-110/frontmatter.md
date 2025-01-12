@@ -6,6 +6,8 @@ Another section 110 was renumbered section 126 of this title.
 
 A prior section 110, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894, related to project agreements, prior to repeal by Pub. L. 105–178, title I, §1105(a), June 9, 1998, 112 Stat. 130.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.

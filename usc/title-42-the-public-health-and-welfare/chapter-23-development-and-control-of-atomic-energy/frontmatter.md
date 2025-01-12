@@ -326,9 +326,7 @@ Sec.
 
 2211. Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception; terms and conditions.
 
-2212, 2213. Repealed or Transferred.
-
-2214. NRC user fees and annual charges.
+2212 to 2214. Repealed or Transferred.
 
 2215. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter.
 

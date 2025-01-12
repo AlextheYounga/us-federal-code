@@ -22,9 +22,13 @@ As used in this section, the term "commercial television broadcast licensee" inc
 
 (Pub. L. 101–437, title I, §102, Oct. 17, 1990, 104 Stat. 996.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Children's Television Act of 1990, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Congressional Findings ####
 

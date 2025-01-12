@@ -34,6 +34,8 @@ Based on Title 35, U.S.C., 1946 ed., §79 (Mar. 6, 1920, ch. 94, §1 (part), 41 
 
 Language has been changed.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 31 of the Trademark Act of 1946, referred to in subsec. (c)(3)(B), is classified to section 1113 of Title 15, Commerce and Trade.
@@ -67,6 +69,8 @@ Subsec. (c). Pub. L. 97–247 inserted provision that fees available to the Comm
 **1980**—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United States in such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
 
 **1975**—Pub. L. 94–131 inserted ", except as provided in sections 361(b) and 376(b) of this title,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

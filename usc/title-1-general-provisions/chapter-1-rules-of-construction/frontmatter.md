@@ -18,6 +18,8 @@ Sec.
 
 8. "Person", "human being", "child", and "individual" as including born-alive infant.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–207, §2(b), Aug. 5, 2002, 116 Stat. 926, added item 8.

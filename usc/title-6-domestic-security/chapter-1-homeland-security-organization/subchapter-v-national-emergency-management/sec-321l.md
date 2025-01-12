@@ -38,6 +38,8 @@ Nothing in this section may be construed to supersede any requirement establishe
 
 (Pub. L. 107–296, title V, §523, as added Pub. L. 110–53, title IX, §901(a), Aug. 3, 2007, 121 Stat. 364; amended Pub. L. 115–278, §2(g)(4)(C), Nov. 16, 2018, 132 Stat. 4178.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsecs. (a), (c). Pub. L. 115–278 substituted "Director of Cybersecurity and Infrastructure Security" for "Assistant Secretary for Infrastructure Protection".

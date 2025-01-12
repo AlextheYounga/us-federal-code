@@ -30,6 +30,8 @@ Sec.
 
 1010. Determination of certain disputes.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–419, §5(i)(4)(B), Nov. 30, 2004, 118 Stat. 2369, substituted "Determination" for "Arbitration" in item 1010.

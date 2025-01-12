@@ -44,6 +44,8 @@ Sec.
 
 21. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–497, title I, §107(e)(3), Oct. 19, 1984, 98 Stat. 2292, substituted "Archivist of the United States" for "Administrator of General Services" in items 6 and 12.

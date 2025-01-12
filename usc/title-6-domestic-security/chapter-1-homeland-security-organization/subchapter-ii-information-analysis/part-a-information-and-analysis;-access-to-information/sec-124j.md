@@ -34,6 +34,8 @@ There are authorized to be appropriated to carry out this section (including for
 
 (Pub. L. 107–296, title II, §210C, as added Pub. L. 110–53, title V, §513(a), Aug. 3, 2007, 121 Stat. 327.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Rural Area ####
 
 Pub. L. 112–74, div. D, title V, §546, Dec. 23, 2011, 125 Stat. 977, provided that: "For fiscal year 2012 and thereafter, for purposes of section 210C of the Homeland Security Act of 2002 (6 U.S.C. 124j), a rural area shall also include any area that is located in a metropolitan statistical area and a county, borough, parish, or area under the jurisdiction of an Indian tribe with a population of not more than 50,000."

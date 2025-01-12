@@ -14,6 +14,8 @@ Sec.
 
 376. Fees.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Pub. L. 112–274, §1(i), Jan. 14, 2013, 126 Stat. 2457, struck out item 373 "Improper applicant".

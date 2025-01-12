@@ -24,6 +24,8 @@
 
 (June 25, 1948, ch. 644, 62 Stat. 677; Pub. L. 89–174, §6(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–670, §10(a), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(b), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, §709(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, §508(a), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, §13(a), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–177, title V, §503, Mar. 9, 2006, 120 Stat. 247.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Subsec. (d)(1). Pub. L. 109–177 inserted ", Secretary of Homeland Security" after "Secretary of Veterans Affairs".
@@ -39,6 +41,8 @@
 **1966**—Subsec. (d)(1). Pub. L. 89–670 inserted reference to Secretary of Transportation.
 
 **1965**—Subsec. (d)(1). Pub. L. 89–174 inserted reference to Secretary of Health, Education, and Welfare and Secretary of Housing and Urban Development.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

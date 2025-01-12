@@ -32,9 +32,13 @@ The Disability Coordinator shall be responsible for—
 
 (Pub. L. 107–296, title V, §513, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1408.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Executive Order No. 13347, referred to in subsecs. (a) and (b)(2), is set out as a note under section 314 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

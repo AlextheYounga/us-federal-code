@@ -1,6 +1,8 @@
 Subtitle II—Patriotic and National Organizations
 ----------
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–237, §3(a)(2)(B), Dec. 18, 2014, 128 Stat. 2836, struck out item for part A "General", which consisted of item for chapter 101, and item for part B "Organizations", which consisted of items for chapters 201 to 2701.

@@ -1,5 +1,7 @@
 ### §§731 to 735. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 731 and 732 ceased to be effective Apr. 15, 2005, pursuant to section 765d(4) of this title.

@@ -20,6 +20,8 @@ For purposes of this section, the term "appropriate committees of Congress" mean
 
 (Pub. L. 115–141, div. P, title V, §512, Mar. 23, 2018, 132 Stat. 1097.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 512 of div. P of Pub. L. 115–141. Subsec. (a) of section 512 of div. P of Pub. L. 115–141 amended section 309 of this title.

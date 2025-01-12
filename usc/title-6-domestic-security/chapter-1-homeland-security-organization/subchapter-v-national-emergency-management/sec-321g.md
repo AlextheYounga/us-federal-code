@@ -10,6 +10,8 @@ In carrying out subsection (a), the Secretary of Health and Human Services shall
 
 (Pub. L. 107–296, title V, §518, formerly §505, Nov. 25, 2002, 116 Stat. 2213; renumbered §518, Pub. L. 109–295, title VI, §611(6), Oct. 4, 2006, 120 Stat. 1395.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 315 of this title prior to renumbering by Pub. L. 109–295.

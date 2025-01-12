@@ -74,6 +74,8 @@ Based on Title 35, U.S.C., 1946 ed., §3 (R.S. 478).
 
 "Certificates of trade-mark registrations" is added, see note under section 1. Changes in language are made and the specific date eliminated.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
@@ -97,6 +99,8 @@ Subsec. (b)(11). Pub. L. 112–29, §21(a), inserted ", and the Office is autho
 **1999**—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: "The Patent and Trademark Office shall have a seal with which letters patent, certificates of trade-mark registrations, and papers issued from the Office shall be authenticated."
 
 **1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

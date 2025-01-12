@@ -68,7 +68,7 @@ Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d
 
 #### Amendments ####
 
-**2019**—Subsec. (a). Pub. L. 116–31, §2(1), inserted subsec. heading, added pars. (1) and (2), redesignated former par. (2) as (3), inserted par. heading and realigned margin, and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
+**2019**—Subsec. (a). Pub. L. 116–31, §2(1), inserted subsec. heading; added pars. (1) and (2); redesignated former par. (2) as (3), inserted par. heading and realigned margin; and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
 
 Subsec. (d). Pub. L. 116–31, §2(2), inserted heading.
 

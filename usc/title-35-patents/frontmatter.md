@@ -15,6 +15,8 @@ IV. Patent Cooperation Treaty 351
 
 V. The Hague Agreement Concerning International Registration of Industrial Designs 401 1
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–211, title I, §101(b), Dec. 18, 2012, 126 Stat. 1531, added item V.
@@ -112,6 +114,8 @@ V. The Hague Agreement Concerning International Registration of Industrial Desig
 |                157                |              187               |
 |                158                |              188               |
 |                159                |              Rep.              |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Citation ####
 

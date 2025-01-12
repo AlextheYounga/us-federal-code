@@ -66,7 +66,7 @@
 
 (2) vest in the Secretary of Transportation or the Administrator of the Federal Aviation Administration any authority of the Secretary of Defense under this title.
 
-(i) Partial Termination.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C)shall terminate on December 31, 2023.
+(i) Partial Termination.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2023.
 
 (2) The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023, the President certifies to Congress that such extension is in the national security interests of the United States.
 

@@ -24,6 +24,8 @@ Sec.
 
 511. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–284, §5(1), (2), Sept. 27, 2006, 120 Stat. 1211, added item 510 and redesignated former item 510 as 511.

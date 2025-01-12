@@ -142,6 +142,8 @@ Sec.
 
 170. Funding flexibility for transportation emergencies.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–94, div. A, title I, §§1105(b), 1109(c)(6)(A), 1116(b), 1403(b), 1413(b), Dec. 4, 2015, 129 Stat. 1337, 1344, 1356, 1409, 1418, substituted "Surface transportation block grant program" for "Surface transportation program" in item 133, "National highway freight program" for "National freight program" in item 167, and added items 105, 117, and 151.

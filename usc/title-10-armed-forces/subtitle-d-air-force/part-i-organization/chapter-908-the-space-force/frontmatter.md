@@ -1,4 +1,4 @@
-### CHAPTER 908—THE SPACE FORCE ###
+### **CHAPTER 908—THE SPACE FORCE** ###
 
 Sec.
 

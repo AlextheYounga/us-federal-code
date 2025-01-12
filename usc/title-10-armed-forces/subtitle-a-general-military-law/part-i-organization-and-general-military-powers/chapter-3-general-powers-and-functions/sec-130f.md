@@ -114,7 +114,7 @@ Pub. L. 116–92, div. A, title XVII, §1754, Dec. 20, 2019, 133 Stat. 1853, pro
 
 "(3) Form.—The report required by paragraph (1) may be submitted in classified form.
 
-"(d) Briefing on Policy.—Not later than 30 days after the date of the submittal of the report required by subsection (c), the Secretary shall provide the congressional defense committees a classified briefing on the policy prescribed pursuant to subsection (a). The briefing shall make use of vignettes designated to illustrate real world application of the policy in each the circumstances enumerated in subsection (b)(1)."
+"(d) Briefing on Policy.—Not later than 30 days after the date of the submittal of the report required by subsection (c), the Secretary shall provide the congressional defense committees a classified briefing on the policy prescribed pursuant to subsection (a). The briefing shall make use of vignettes designated to illustrate real world application of the policy in each [of] the circumstances enumerated in subsection (b)(1)."
 
 #### Deadline for Submittal of Procedures ####
 

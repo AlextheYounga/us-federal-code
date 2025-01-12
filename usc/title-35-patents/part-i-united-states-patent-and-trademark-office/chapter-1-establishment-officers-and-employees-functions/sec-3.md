@@ -78,6 +78,8 @@ Changes in language are made. "Assistant commissioners" is used in the second se
 
 This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263) which vests all functions of the Patent Office in the Secretary of Commerce and authorizes delegation by him. It has been found impractical to so word the various sections of the title, and a general provision has been inserted as the second paragraph of this section of the bill, leaving the wording of various sections of the title in terms of officers previously specified and to whom the functions presently stand delegated.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (f), is Pub. L. 106–113, div. B, §1000(a)(9) [title IV, subtitle G (§4701 et seq.)], Nov. 29, 1999, 113 Stat. 1536, 1501A–572. For the effective date of the Act as 4 months after Nov. 29, 1999, see section 1009(a)(9) [title IV, §4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1 of this title and Tables.
@@ -131,6 +133,8 @@ Subsecs. (b), (c). Pub. L. 93–601 designated second and third pars. as subsecs
 **1959**—Pub. L. 86–370 authorized Secretary of Commerce to fix compensation of examiners-in-chief.
 
 **1958**—Pub. L. 85–933 increased number of examiners-in-chief from nine to not more than fifteen and specified annual compensation of Commissioner.
+
+#### **Statutory Notes and Related Subsidiairies** ####
 
 #### Effective Date of 2011 Amendment ####
 

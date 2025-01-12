@@ -4,6 +4,8 @@ In fiscal year 2013 and thereafter: (a) the Center for Domestic Preparedness may
 
 (Pub. L. 113–6, div. D, title III, Mar. 26, 2013, 127 Stat. 359.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2013, and not as part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.

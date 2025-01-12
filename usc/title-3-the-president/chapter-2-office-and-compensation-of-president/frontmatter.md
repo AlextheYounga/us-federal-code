@@ -32,11 +32,15 @@ Sec.
 
 115. Veterans' preference.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–339, §4(b)(2), Oct. 31, 1998, 112 Stat. 3185, added item 115.
 
 **1978**—Pub. L. 95–570, §§1(b), 2(b), 3(b), 5(b)(2), (c)(2), Nov. 2, 1978, 92 Stat. 2447, 2449, 2450, 2451, substituted in item 105 "Assistance and services for the President" for "Compensation of secretaries and executive, administrative, and staff assistants to President"; in item 106 "Assistance and services for the Vice President" for "Administrative assistants"; in item 107 "Domestic Policy Staff and Office of Administration; personnel" for "Detail of employees of executive departments to office of President"; in item 108 "Assistance to the President for unanticipated needs" for "Accommodations for vehicles"; and in item 109 "the Executive Residence at the White House" for "Executive Mansion"; inserted in item 110 "the Executive Residence at the" before "White House"; and added items 112, 113 and 114.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Executive Office Personnel Background Investigations; Leaves of Absence ####
 
@@ -51,6 +55,8 @@ Pub. L. 103–329, title VI, §632, Sept. 30, 1994, 108 Stat. 2425, provided tha
 "(b) Exemption.—Subsection (a) shall not apply to any individual specifically exempted from such subsection by the President or his designee."
 
 [For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
+
+#### **Executive Documents** ####
 
 #### **REORGANIZATION PLAN NO. 1 OF 1977** ####
 

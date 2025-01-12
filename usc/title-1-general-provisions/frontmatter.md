@@ -11,6 +11,8 @@ Chap. Sec.
 
 3. Code of Laws of United States and Supplements; District of Columbia Code and Supplements 201
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Positive Law; Citation ####
 
 This title has been made positive law by section 1 of act July 30, 1947, ch. 388, 61 Stat. 633, which provided in part that: "Title 1 of the United States Code entitled 'General Provisions', is codified and enacted into positive law and may be cited as '1 U. S. C., §——.' "

@@ -76,6 +76,8 @@ The Commission shall develop accounting systems necessary to make the amendments
 
 (June 19, 1934, ch. 652, title I, §9A, as added Pub. L. 115–141, div. P, title I, §102(c), Mar. 23, 2018, 132 Stat. 1084.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Oct. 1, 2018, see section 103 of div. P of Pub. L. 115–141, set out as an Effective Date of 2018 Amendment note under section 156 of this title.

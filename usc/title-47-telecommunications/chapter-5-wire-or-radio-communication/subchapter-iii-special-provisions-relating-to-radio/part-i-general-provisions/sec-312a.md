@@ -4,6 +4,8 @@ The Federal Communications Commission may revoke any private operator's license 
 
 (Pub. L. 99–570, title III, §3451, Oct. 27, 1986, 100 Stat. 3207–103.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to this chapter (§151 et seq.). For complete classification of this Act to the Code, see section 609 of this title and Tables.

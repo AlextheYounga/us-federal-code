@@ -52,6 +52,8 @@ The term "enhanced 9–1–1 service" means the delivery of 9–1–1 calls with
 
 (Pub. L. 106–81, §7, formerly §6, Oct. 26, 1999, 113 Stat. 1289; renumbered §7 and amended Pub. L. 110–283, title I, §101(1), (3), title II, §201(b), July 23, 2008, 122 Stat. 2620, 2623, 2624.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is Pub. L. 106–81, Oct. 26, 1999, 113 Stat. 1286, known as the Wireless Communications and Public Safety Act of 1999, which enacted sections 615 to 615b of this title, amended sections 222 and 251 of this title, and enacted provisions set out as notes under sections 609 and 615 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendments note set out under section 609 of this title and Tables.

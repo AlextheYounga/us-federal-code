@@ -4,6 +4,8 @@ No right shall accrue to any government, person, or corporation under the terms 
 
 (May 27, 1921, ch. 12, §6, 42 Stat. 9.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.

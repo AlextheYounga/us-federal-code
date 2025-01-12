@@ -40,6 +40,8 @@ Sec.
 
 299. Joinder of parties.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–29, §19(d)(2), Sept. 16, 2011, 125 Stat. 333, added item 299.

@@ -178,6 +178,8 @@ The Secretary shall, as appropriate, provide prior notice to a person whose regi
 
 (Pub. L. 107–296, title VIII, §899B, as added Pub. L. 110–161, div. E, title V, §563(a), Dec. 26, 2007, 121 Stat. 2084; amended Pub. L. 115–278, §2(g)(5)(B), Nov. 16, 2018, 132 Stat. 4179.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The USA PATRIOT ACT, referred to in subsec. (h)(1), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, also known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.

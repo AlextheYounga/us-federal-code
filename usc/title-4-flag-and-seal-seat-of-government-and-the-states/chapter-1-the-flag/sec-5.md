@@ -8,9 +8,13 @@ The following codification of existing rules and customs pertaining to the displ
 |--------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |            5             |      36:173.       |June 22, 1942, ch. 435, §1, 56 Stat. 377; Dec. 22, 1942, ch. 806, §1, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (1), 90 Stat. 810.|
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Executive Order 10834, referred to in text, is set out as a note under section 1 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Freedom To Display the American Flag ####
 

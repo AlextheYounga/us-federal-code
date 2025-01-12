@@ -14,9 +14,13 @@ Sec.
 
 146. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1951**—Chapter added by act Oct. 31, 1951, ch. 655, §12, 65 Stat. 713.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Similar Provisions; Repeal; Saving Clause; Delegation of Functions; Transfer of Property and Personnel ####
 

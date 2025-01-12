@@ -52,6 +52,8 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 
 **Reproductions for the Blind and Handicapped.** Section 710 directs the Register of Copyrights to establish by regulation forms and procedures by which the copyright owners of certain categories of works may voluntarily grant to the Library of Congress a license to reproduce and distribute copies or phonorecords of the work solely for the use of the blind and physically handicapped.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–136, div. B, title IX, §19011(b), Mar. 27, 2020, 134 Stat. 582, added item 710.

@@ -138,9 +138,13 @@ In this section:
 
 (Pub. L. 107–296, title III, §316, as added Pub. L. 110–53, title XI, §1101(a), Aug. 3, 2007, 121 Stat. 375; amended Pub. L. 115–387, §2(f)(2), Dec. 21, 2018, 132 Stat. 5168.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (a). Pub. L. 115–387 substituted "Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall" for "Secretary shall".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Deadline for Implementation ####
 

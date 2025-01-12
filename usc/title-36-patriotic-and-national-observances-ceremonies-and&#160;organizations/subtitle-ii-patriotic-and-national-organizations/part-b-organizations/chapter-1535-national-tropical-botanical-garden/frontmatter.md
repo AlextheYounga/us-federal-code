@@ -30,6 +30,8 @@ Sec.
 
 153514. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–237, §3(c)(7), Dec. 18, 2014, 128 Stat. 2840, added item 153514.

@@ -20,6 +20,8 @@ Section 1109, Pub. L. 106–553, §1(a)(2) [title X, §1011], Dec. 21, 2000, 114
 
 Section 1110, Pub. L. 106–553, §1(a)(2) [title X, §1012], Dec. 21, 2000, 114 Stat. 2762, 2762A–141, related to prevention of interference to direct broadcast satellite services.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 106–553, §1(a)(2) [title X, §1001], Dec. 21, 2000, 114 Stat. 2762, 2762A–128, which provided that title X of H.R. 5548, as enacted by section 1(a)(2) of Pub. L. 106–553, which enacted former chapter X and amended section 339 of this title, could be cited as the "Launching Our Communities' Access to Local Television Act of 2000", was repealed by Pub. L. 115–334, title VI, §6603(2), Dec. 20, 2018, 132 Stat. 4777.

@@ -132,7 +132,7 @@ Sec.
 
 355–1. Risk evaluation and mitigation strategies.
 
-§355–2. Actions for delays of generic drugs and biosimilar biological products.
+355–2. Actions for delays of generic drugs and biosimilar biological products.
 
 355a. Pediatric studies of drugs.
 

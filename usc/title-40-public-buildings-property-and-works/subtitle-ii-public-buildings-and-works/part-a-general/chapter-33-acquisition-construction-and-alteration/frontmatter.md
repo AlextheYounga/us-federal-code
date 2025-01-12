@@ -40,7 +40,7 @@ Sec.
 
 #### Amendments ####
 
-**2019**—Pub. L. 116–30, §2(b), July 25, 2019, 133 Stat. 1033, added item 3318.
+**2019**—Pub. L. 116–30, §2(b), July 25, 2019, 133 Stat. 1033, which directed adding item 3318 after item 3316, was executed by adding it after item 3317, to reflect the probable intent of Congress.
 
 **2016**—Pub. L. 114–235, §2(b), Oct. 7, 2016, 130 Stat. 965, added items 3314 to 3317 and struck out former items 3314 "Delegation", 3315 "Report to Congress", and 3316 "Certain authority not affected".
 

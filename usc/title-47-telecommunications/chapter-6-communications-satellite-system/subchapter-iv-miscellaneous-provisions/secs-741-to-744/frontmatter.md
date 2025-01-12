@@ -1,5 +1,7 @@
 ### §§741 to 744. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 741 to 744 ceased to be effective Apr. 15, 2005, pursuant to section 765d(4) of this title.

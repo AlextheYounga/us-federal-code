@@ -234,6 +234,8 @@ The report required under paragraph (1) shall be submitted in unclassified form,
 
 (Pub. L. 107–296, title II, §210G, as added Pub. L. 115–254, div. H, §1602(a), Oct. 5, 2018, 132 Stat. 3522.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.

@@ -46,6 +46,8 @@ The flag, when carried in a procession with another flag or flags, should be eit
 |--------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |            7             |      36:175.       |June 22, 1942, ch. 435, §3, 56 Stat. 378; Dec. 22, 1942, ch. 806, §3, 56 Stat. 1075; July 9, 1953, ch. 183, 67 Stat. 142; July 7, 1976, Pub. L. 94–344, (6)–(11), 90 Stat. 811; Sept. 13, 1994, Pub. L. 103–322, title XXXII, §320922(b), 108 Stat. 2131.|
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (m). Pub. L. 115–123, §10102(a), in sixth sentence of introductory provisions, substituted "possession of the United States," for "possession of the United States or" and "former officials of the District of Columbia," for "former officials of the District of Columbia and" and inserted "or the death of a first responder working in any State, territory, or possession who dies while serving in the line of duty," after "while serving on active duty," and ", and first responders working in the District of Columbia" before the period.
@@ -56,6 +58,8 @@ Subsec. (m)(4). Pub. L. 115–123, §10102(b)(2), (3), added par. (4).
 
 **2007**—Subsec. (m). Pub. L. 110–41, in sixth sentence, inserted "or the death of a member of the Armed Forces from any State, territory, or possession who dies while serving on active duty" after "present or former official of the government of any State, territory, or possession of the United States" and substituted ", and the same authority is provided to the Mayor of the District of Columbia with respect to present or former officials of the District of Columbia and members of the Armed Forces from the District of Columbia. When the Governor of a State, territory, or possession, or the Mayor of the District of Columbia, issues a proclamation under the preceding sentence that the National flag be flown at half-staff in that State, territory, or possession or in the District of Columbia because of the death of a member of the Armed Forces, the National flag flown at any Federal installation or facility in the area covered by that proclamation shall be flown at half-staff consistent with that proclamation." for period at end.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2018 Amendment ####
 
 Pub. L. 115–123, div. A, §10102(c), Feb. 9, 2018, 132 Stat. 64, provided that: "The amendments made by this section [amending this section] shall apply with respect to deaths of first responders occurring on or after the date of the enactment of this Act [Feb. 9, 2018]."
@@ -63,6 +67,8 @@ Pub. L. 115–123, div. A, §10102(c), Feb. 9, 2018, 132 Stat. 64, provided that
 #### Finding ####
 
 Pub. L. 110–41, §2, June 29, 2007, 121 Stat. 233, provided that: "Congress finds that members of the Armed Forces of the United States defend the freedom and security of the United States."
+
+#### **Executive Documents** ####
 
 #### Proc. No. 3044. Display of Flag at Half-Staff Upon Death of Certain Officials and Former Officials ####
 

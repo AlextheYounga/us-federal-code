@@ -136,6 +136,8 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 (Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519; Pub. L. 115–387, §2(f)(3), Dec. 21, 2018, 132 Stat. 5168.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (h)(1), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963. Title V of the Act is classified generally to sections 2656a to 2656d of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Tables.
@@ -147,6 +149,8 @@ The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec
 **2016**—Subsec. (e)(3), (4). Pub. L. 114–304, §2(a)(1), added pars. (3) and (4).
 
 Subsecs. (g) to (i). Pub. L. 114–304, §2(a)(2), (3), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Findings ####
 

@@ -44,6 +44,8 @@ Sec.
 
 1533. Improving cybersecurity in the health care industry.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Limitation Relating to Establishment or Support of Cybersecurity Unit With the Russian Federation ####
 
 Pub. L. 116–92, div. E, title LXVII, §6701, Dec. 20, 2019, 133 Stat. 2221, provided that:
@@ -75,6 +77,8 @@ Pub. L. 116–92, div. E, title LXVII, §6701, Dec. 20, 2019, 133 Stat. 2221, pr
 "(d) Rule of Construction.—This section shall not be construed to affect any existing authority of the Director of National Intelligence, the Director of the Central Intelligence Agency, or another head of an element of the intelligence community, to share or receive foreign intelligence on a case-by-case basis."
 
 [For definitions of "congressional intelligence committees" and "intelligence community" as used in section 6701 of div. E of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of Title 50, War and National Defense.]
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13800. Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure ####
 

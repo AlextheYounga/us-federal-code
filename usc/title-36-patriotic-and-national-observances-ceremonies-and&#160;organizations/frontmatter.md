@@ -282,6 +282,8 @@ Subtitle III—Treaty Obligation Organizations
 
 3001. The American National Red Cross 300101
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–237, §3(a)(1), Dec. 18, 2014, 128 Stat. 2833, added complete analysis and struck out former analysis which consisted only of items for subtitles I to III.
@@ -1794,6 +1796,8 @@ Subtitle III—Treaty Obligation Organizations
 |                         5913 (related to duty to maintain status)                          |                             21008                             |
 |                                            5914                                            |                             21002                             |
 |                                            5915                                            |                             21001                             |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Enacting Clause ####
 

@@ -92,6 +92,8 @@ Sec.
 
 145. Veterans Day.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–240, §2(b), Oct. 7, 2016, 130 Stat. 975, added item 145.
@@ -99,6 +101,8 @@ Sec.
 **2004**—Pub. L. 108–447, div. J, title I, §111(c)(2), Dec. 8, 2004, 118 Stat. 3345, inserted "Constitution Day and" before "Citizenship Day" in item 106.
 
 **2001**—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### American World War II Heritage Cities ####
 
@@ -1663,6 +1667,8 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 #### Abraham Lincoln Bicentennial Commission ####
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
+
+#### **Executive Documents** ####
 
 #### Proc. No. 10034. Armed Forces Day ####
 

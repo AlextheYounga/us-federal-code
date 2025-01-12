@@ -16,6 +16,8 @@ Sec.
 
 307. Certificate of patentability, unpatentability, and claim cancellation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–29, §6(g)(2), Sept. 16, 2011, 125 Stat. 312, amended item 301 generally, substituting "Citation of prior art and written statements" for "Citation of prior art".

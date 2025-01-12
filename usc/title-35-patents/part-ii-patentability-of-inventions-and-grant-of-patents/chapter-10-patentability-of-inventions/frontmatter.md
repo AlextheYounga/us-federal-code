@@ -14,6 +14,8 @@ Sec.
 
 105. Inventions in outer space.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–29, §3(b)(3), (d), Sept. 16, 2011, 125 Stat. 287, substituted in item 102 "Conditions for patentability; novelty" for "Conditions for patentability; novelty and loss of right to patent" and struck out item 104 "Invention made abroad".

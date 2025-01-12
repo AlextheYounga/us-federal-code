@@ -44,6 +44,8 @@ In addition to the voting members, each Advisory Committee shall include a repre
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4714], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, §1(l)(1), Jan. 14, 2013, 126 Stat. 2458.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -67,6 +69,8 @@ Subsec. (g). Pub. L. 107–273, §13206(a)(3), struck out ", United States Code
 Subsec. (i). Pub. L. 107–273, §13203(b)(1), inserted ", privileged," after "personnel".
 
 Subsec. (j). Pub. L. 107–273, §13203(b)(2), added subsec. (j).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

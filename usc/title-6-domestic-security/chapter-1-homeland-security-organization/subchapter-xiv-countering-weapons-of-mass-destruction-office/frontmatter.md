@@ -1,5 +1,7 @@
 ### SUBCHAPTER XIV—COUNTERING WEAPONS OF MASS DESTRUCTION OFFICE ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 115–387, §2(a)(1), Dec. 21, 2018, 132 Stat. 5162, substituted "COUNTERING WEAPONS OF MASS DESTRUCTION OFFICE" for "DOMESTIC NUCLEAR DETECTION OFFICE" in subchapter heading.

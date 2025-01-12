@@ -4,6 +4,8 @@ The electors of President and Vice President shall be appointed, in each State, 
 
 (June 25, 1948, ch. 644, 62 Stat. 672.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2020 Amendment ####
 
 Pub. L. 116–121, §1, Mar. 3, 2020, 134 Stat. 138, provided that: "This Act [amending provisions set out as a note under section 102 of this title] may be cited as the 'Presidential Transition Enhancement Act of 2019'."

@@ -24,6 +24,8 @@ For the purpose of carrying out the acquisition and deployment of secure facilit
 
 (Pub. L. 107–296, title V, §521, formerly §510, as added Pub. L. 108–276, §3(b)(2), July 21, 2004, 118 Stat. 852; renumbered §521, Pub. L. 109–295, title VI, §611(7), Oct. 4, 2006, 120 Stat. 1395; amended Pub. L. 109–417, title IV, §403(c), Dec. 19, 2006, 120 Stat. 2874; Pub. L. 110–53, title V, §531(b)(1)(D), Aug. 3, 2007, 121 Stat. 334.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 247d–6b(c)(1)(B) of title 42, referred to in subsec. (a), was in the original "section 319F–2(c)(1)(B)", which was translated as meaning section 319F–2(c)(1)(B) of the Public Health Service Act, to reflect the probable intent of Congress.
@@ -43,6 +45,8 @@ Section was formerly classified to section 320 of this title prior to renumberin
 Subsec. (d)(2). Pub. L. 110–53, §531(b)(1)(D)(ii), substituted "Under Secretary for Intelligence and Analysis" for "Under Secretary for Information Analysis and Infrastructure Protection".
 
 **2006**—Subsec. (a). Pub. L. 109–417, which directed amendment of section 510(a) of the Homeland Security Act of 2002, Pub. L. 107–296, by inserting a new last sentence, was executed to subsec. (a) of this section to reflect the probable intent of Congress and the redesignation of section 510(a) as 521(a) by Pub. L. 109–295, §611(7).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

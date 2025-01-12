@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §78, part (R.S. 4934, Feb. 18, 1922, ch. 5
 
 The proviso in the schedule of fees of the existing statute is made a separate section and some changes in language are made.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 12 was renumbered section 11 of this title.
@@ -33,6 +35,8 @@ Pub. L. 106–113, §1000(a)(9) [title IV, §4717(1)], renumbered section 13 of 
 Pub. L. 106–113, §1000(a)(9) [title IV, §4507(3)], as amended by Pub. L. 107–273, §13205(2)(C), inserted "and applications" after "patents" in section catchline and "and published applications for patents" after "patents" in text.
 
 **1982**—Pub. L. 97–247 substituted "section 41(d)" for "section 41(a)9".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

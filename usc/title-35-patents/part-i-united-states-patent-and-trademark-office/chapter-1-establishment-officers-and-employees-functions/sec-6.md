@@ -18,6 +18,8 @@
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4717(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; amended Pub. L. 107–273, div. C, title III, §13203(a)(2), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, §1(a)(1), Aug. 12, 2008, 122 Stat. 3014; Pub. L. 112–29, §7(a)(1), Sept. 16, 2011, 125 Stat. 313.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 112–29, which amended this section generally and was approved Sept. 16, 2011.
@@ -35,6 +37,8 @@ A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, 
 Subsecs. (c), (d). Pub. L. 110–313, §1(a)(1)(C), which directed addition of subsecs. (c) and (d) at end of subsec. (a), was executed by adding subsecs. (c) and (d) at end of section to reflect the probable intent of Congress.
 
 **2002**—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting "the Deputy Commissioner," after "Commissioner,", was executed by making the insertion after "The Director," to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

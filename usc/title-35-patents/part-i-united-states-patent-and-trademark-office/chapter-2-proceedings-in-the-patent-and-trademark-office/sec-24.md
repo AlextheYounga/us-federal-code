@@ -14,6 +14,8 @@ Based on Title 35, U.S.C., 1946 ed., §§54, 55 and 56 (R.S. 4906, amended Feb. 
 
 Three sections of the existing statute are combined with some changes in language and placed in part 1 since they apply to trade-mark cases in the Patent Office as well as to patent cases. Reference to a repealed statute in the first paragraph is replaced by reference to the Federal Rules of Civil Procedure and certain rules are made applicable.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -21,6 +23,8 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 #### Amendments ####
 
 **1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1975 Amendment ####
 

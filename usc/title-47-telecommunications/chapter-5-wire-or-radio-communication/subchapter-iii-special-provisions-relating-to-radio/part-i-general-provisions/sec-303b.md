@@ -14,6 +14,8 @@
 
 (Pub. L. 101–437, title I, §103, Oct. 17, 1990, 104 Stat. 997; Pub. L. 102–356, §15, Aug. 26, 1992, 106 Stat. 954; Pub. L. 103–414, title III, §303(c), Oct. 25, 1994, 108 Stat. 4296.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Children's Television Act of 1990, and not as part of the Communications Act of 1934 which comprises this chapter.

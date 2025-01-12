@@ -28,6 +28,8 @@ Sec.
 
 123. Micro entity defined.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–29, §10(g)(2), Sept. 16, 2011, 125 Stat. 319, which directed adding item 123 at the end of this chapter, was executed by adding the item at the end of the table of sections of this chapter, to reflect the probable intent of Congress.

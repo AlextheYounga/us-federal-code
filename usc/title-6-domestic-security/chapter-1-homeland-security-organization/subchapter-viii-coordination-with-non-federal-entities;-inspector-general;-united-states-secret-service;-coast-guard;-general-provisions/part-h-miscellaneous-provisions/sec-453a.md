@@ -4,6 +4,8 @@ In fiscal year 2004 and thereafter, unless otherwise provided, funds may be used
 
 (Pub. L. 108–90, title V, §505, Oct. 1, 2003, 117 Stat. 1153.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.

@@ -2,6 +2,8 @@
 
 Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 909, related to the Inter-American Highway.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.

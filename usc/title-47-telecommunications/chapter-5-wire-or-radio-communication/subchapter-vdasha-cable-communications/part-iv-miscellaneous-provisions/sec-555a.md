@@ -18,6 +18,8 @@ Nothing in this section shall be construed as creating or authorizing liability 
 
 (June 19, 1934, ch. 652, title VI, §635A, as added Pub. L. 102–385, §24(a), Oct. 5, 1992, 106 Stat. 1500.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective 60 days after Oct. 5, 1992, see section 28 of Pub. L. 102–385, set out as an Effective Date of 1992 Amendment note under section 325 of this title.

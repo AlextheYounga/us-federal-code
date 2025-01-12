@@ -30,6 +30,8 @@ The antitrust laws shall not apply to any joint discussion, consideration, revie
 
 (Pub. L. 101–650, title V, §501, Dec. 1, 1990, 104 Stat. 5127.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Television Program Improvement Act of 1990 and also as part of the Judicial Improvements Act of 1990, and not as part of the Communications Act of 1934 which comprises this chapter.

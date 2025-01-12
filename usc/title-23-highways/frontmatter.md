@@ -17,6 +17,8 @@ Chap. Sec.
 
 6. Infrastructure Finance 601
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–59, title I, §1602(e)(2), title V, 5201(a)(1), Aug. 10, 2005, 119 Stat. 1248, 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 "Research and Technology".
@@ -179,6 +181,8 @@ Chap. Sec.
 |                173                |                       120 note                       |
 |                174                |                       307 note                       |
 |                175                |                        Elim.                         |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Citation ####
 

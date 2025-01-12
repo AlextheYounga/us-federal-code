@@ -30,6 +30,8 @@ Sec.
 
 [14. Renumbered 13.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–29, §7(a)(2), Sept. 16, 2011, 125 Stat. 313, amended item 6 generally, substituting "Patent Trial and Appeal Board" for "Board of Patent Appeals and Interferences".

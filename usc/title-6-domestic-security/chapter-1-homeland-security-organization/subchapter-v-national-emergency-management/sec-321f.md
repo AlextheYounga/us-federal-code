@@ -10,6 +10,8 @@ Nothing in this subchapter shall be construed to limit the ordinary responsibili
 
 (Pub. L. 107–296, title V, §517, formerly §504, Nov. 25, 2002, 116 Stat. 2213; renumbered §517, Pub. L. 109–295, title VI, §611(6), Oct. 4, 2006, 120 Stat. 1395.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 314 of this title prior to renumbering by Pub. L. 109–295.

@@ -90,6 +90,8 @@ Sec.
 
 2209j. Permanent debarment from participation in Department of Agriculture programs for fraud.
 
+2209k. Prohibition on payments to fossil fuel refiners and importers.
+
 2210. Deputy Secretary of Agriculture; appointment.
 
 2211. Powers and duties of Deputy Secretary of Agriculture.

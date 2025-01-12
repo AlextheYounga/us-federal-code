@@ -4,6 +4,8 @@ None of the funds made available in this or any other Act for fiscal year 2012 a
 
 (Pub. L. 112–74, div. D, title V, §526, Dec. 23, 2011, 125 Stat. 974.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, means div. D of Pub. L. 112–74, Dec. 23, 2011, 125 Stat. 943, known as the Department of Homeland Security Appropriations Act, 2012. For complete classification of this Act to the Code, see Tables.

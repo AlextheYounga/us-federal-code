@@ -4,6 +4,8 @@ Whoever knowingly commits, instigates, or assists in any act forbidden by sectio
 
 (May 27, 1921, ch. 12, §4, 42 Stat. 8.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.

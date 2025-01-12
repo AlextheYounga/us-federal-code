@@ -8,6 +8,8 @@ In fiscal year 2004 and thereafter, the Center is authorized to accept detailees
 
 The Center, referred to in text, means the Federal Law Enforcement Training Center.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.

@@ -12,11 +12,15 @@ Fourth. They shall forthwith cause the other of the certificates and lists to be
 
 (June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, §7, 65 Stat. 712; Pub. L. 98–497, title I, §107(e)(1), Oct. 19, 1984, 98 Stat. 2291.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services" two places in par. "Third".
 
 **1951**—Act Oct. 31, 1951, substituted "Administrator of General Services" for "Secretary of State" two places in par. "Third".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

@@ -176,6 +176,8 @@ An omnibus item to take care of miscellaneous minor fees is added; in view of th
 
 The fee for reissue applications is changed slightly.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classified to section 632 of Title 15, Commerce and Trade.
@@ -367,6 +369,8 @@ Subsec. (a)9. Pub. L. 89–83, §1, increased the fee for copies of specificatio
 Subsec. (a)10. Pub. L. 89–83, §1, changed the recording fee from $3 for every document not exceeding six pages and $1 for each additional two pages or less to a flat $20 fee for every document, and substituted a $3 fee for each additional item where the document relates to more than one patent or application for a 50 cents additional fee for each additional patent or application included in one writing where more than one is so included.
 
 Subsec. (c). Pub. L. 89–83, §2, added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2012 Amendment ####
 

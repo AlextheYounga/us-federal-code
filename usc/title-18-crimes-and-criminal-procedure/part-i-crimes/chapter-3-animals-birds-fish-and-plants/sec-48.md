@@ -66,10 +66,6 @@
 
 (Added Pub. L. 106–152, §1(a), Dec. 9, 1999, 113 Stat. 1732; amended Pub. L. 111–294, §3(a), Dec. 9, 2010, 124 Stat. 3178; Pub. L. 116–72, §2(a), Nov. 25, 2019, 133 Stat. 1151.)
 
-#### References in Text ####
-
-Section 3 of the Religious Freedom Restoration Act of 1993, referred to in subsec. (d)(4), is section 3 of Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified to section 2000bb–1 of Title 42, The Public Health and Welfare.
-
 #### Amendments ####
 
 **2019**—Pub. L. 116–72 amended section generally. Prior to amendment, section related to animal crush videos.

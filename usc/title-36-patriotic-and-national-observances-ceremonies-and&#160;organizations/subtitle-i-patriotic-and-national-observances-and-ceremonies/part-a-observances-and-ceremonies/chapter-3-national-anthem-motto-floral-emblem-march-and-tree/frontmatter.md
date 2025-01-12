@@ -12,11 +12,15 @@ Sec.
 
 305. National tree.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–237, §3(c)(1), Dec. 18, 2014, 128 Stat. 2840, substituted "FLORAL EMBLEM, MARCH" for "FLORAL EMBLEM MARCH" in chapter heading.
 
 **2004**—Pub. L. 108–447, div. J, title I, §109(b)(2), (3), Dec. 8, 2004, 118 Stat. 3344, substituted "MARCH, AND TREE" for ", AND MARCH" in chapter heading and added item 305.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### National Bison Legacy ####
 

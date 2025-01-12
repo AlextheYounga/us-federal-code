@@ -8,6 +8,8 @@ Sec.
 
 603. Importation prohibitions: Enforcement and disposition of excluded articles.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–295, §4(a), (b)(1)(A), Dec. 9, 2010, 124 Stat. 3180, substituted "IMPORTATION AND EXPORTATION" for "MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION" in chapter heading and struck out item 601 "Manufacture, importation, and public distribution of certain copies".

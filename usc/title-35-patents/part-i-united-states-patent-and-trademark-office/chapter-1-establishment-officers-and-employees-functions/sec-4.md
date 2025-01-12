@@ -16,9 +16,13 @@ The further restriction, that no priority date earlier than one year after leavi
 
 The one year period is made inapplicable to applications which may be pending when the revised title goes into effect by section 4(g) of the bill.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### **Statutory Notes and Related Subsidiairies** ####
 
 #### Effective Date of 1975 Amendment ####
 

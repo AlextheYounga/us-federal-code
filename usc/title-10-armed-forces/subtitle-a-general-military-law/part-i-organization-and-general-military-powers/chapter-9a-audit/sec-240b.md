@@ -50,13 +50,13 @@
 
 (viii) If less than 25 percent of the auditing services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
 
-(ix) If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in suhsection (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
+(ix) If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in suhsection <sup><a href="#240b_1_target" name="240b_1">1</a></sup> (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
 
 (x) If less than 25 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in subsection (c), a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
 
 (xi) A description of audit activities and results for classified programs, including a description of the use of procedures and requirements to prevent unauthorized exposure of classified information in such activities.
 
-(xii) An identification <sup><a href="#240b_1_target" name="240b_1">1</a></sup> the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
+(xii) An identification <sup><a href="#240b_2_target" name="240b_2">2</a></sup> the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
 
 (C) Additional requirements.—
 
@@ -144,4 +144,6 @@ Subsec. (b). Pub. L. 115–91, §1002(c)(3)(C), added subsec. (b).
 
 Pub. L. 116–92, div. A, title X, §1009(c), Dec. 20, 2019, 133 Stat. 1576, provided that: "Not later than five days after the submittal to Congress under section 1105(a) of title 31, United States Code, of the budget of the President for any fiscal year after fiscal year 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a reporting [sic] setting forth a detailed estimate of the funding required for such fiscal year to procure, obtain, or otherwise implement each process, system, and technology identified to address the current corrective action plans of the departments, agencies, components, and elements of the Department of Defense, and the corrective action plan of the Department as a whole, for purposes of chapter 9A of title 10, United States Code, during such fiscal year."
 
-[<sup>1</sup> So in original. The word "of" probably should appear.](#240b_1)
+[<sup>1</sup> So in original. Probably should be "subsection".](#240b_1)
+
+[<sup>2</sup> So in original. The word "of" probably should appear.](#240b_2)

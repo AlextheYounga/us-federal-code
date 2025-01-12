@@ -90,6 +90,8 @@ Nothing in this section overrides or otherwise affects the requirements specifie
 
 (Pub. L. 107–296, title III, §319, as added Pub. L. 114–328, div. A, title XIX, §1906(a), Dec. 23, 2016, 130 Stat. 2676.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Executive Order 13556, referred to in subsec. (d)(3), is set out as a note under section 3501 of Title 44, Public Printing and Documents.

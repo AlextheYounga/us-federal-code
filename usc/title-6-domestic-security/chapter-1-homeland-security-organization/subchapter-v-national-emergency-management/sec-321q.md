@@ -28,6 +28,8 @@ Nothing in this section may be construed as altering or superseding the authorit
 
 (Pub. L. 107–296, title V, §528, as added Pub. L. 115–43, §2(a), June 30, 2017, 131 Stat. 884; amended Pub. L. 115–387, §2(f)(5), Dec. 21, 2018, 132 Stat. 5168.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (a). Pub. L. 115–387 substituted "the Countering Weapons of Mass Destruction Office," for "Health Affairs,".

@@ -34,6 +34,8 @@ Sec.
 
 519. Infrastructure development.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 5, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 830, consisting of sections 501 to 512, related to highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare. For Effective Date of Repeal and Savings Provisions, see sections 221 and 220(b) of Pub. L. 91–646, set out as notes under sections 4601 and 4621, respectively, of Title 42.

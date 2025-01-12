@@ -16,6 +16,8 @@ Sec.
 
 27. Revival of applications; reinstatement of reexamination proceedings.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–211, title II, §201(b)(2), Dec. 18, 2012, 126 Stat. 1534, added item 27.

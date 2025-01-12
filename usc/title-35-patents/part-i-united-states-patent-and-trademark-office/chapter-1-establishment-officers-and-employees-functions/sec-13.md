@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §20 (R.S. 494).
 
 Language is changed. The lists referred to in the corresponding section of existing statute, and which are omitted from the revised section, are the indexes provided for in section 11(a)4. The month of reporting is omitted. The report contemplated by R.S. 494 has been discontinued since 1925 under authority of 44 U.S.C., 1946 ed., §212.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 13 was renumbered section 12 of this title.
@@ -17,6 +19,8 @@ A prior section 13 was renumbered section 12 of this title.
 #### Amendments ####
 
 **1999**—Pub. L. 106–113 renumbered section 14 of this title as this section and amended section catchline and text generally. Prior to amendment, text read as follows: "The Commissioner shall report to Congress annually the moneys received and expended, statistics concerning the work of the Office, and other information relating to the Office as may be useful to the Congress or the public."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1999 Amendment ####
 

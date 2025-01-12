@@ -12,6 +12,8 @@ Cargo ships of three hundred gross tons and upward but less than one thousand si
 
 (June 19, 1934, ch. 652, title III, §356, as added Aug. 13, 1954, ch. 729, §2(d), 68 Stat. 706; amended Pub. L. 89–121, §7, Aug. 13, 1965, 79 Stat. 515.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1965**—Pub. L. 89–121 limited the opening provisions to cargo ships of 300 gross tons and upwards.

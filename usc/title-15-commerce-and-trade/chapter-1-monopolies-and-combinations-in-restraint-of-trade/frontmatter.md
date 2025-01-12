@@ -18,6 +18,12 @@ Sec.
 
 7. "Person" or "persons" defined.
 
+7a. Definitions.
+
+7a–1. Limitation on recovery.
+
+7a–2. Rights, authorities, and liabilities not affected.
+
 8. Trusts in restraint of import trade illegal; penalty.
 
 9. Jurisdiction of courts; duty of United States attorneys; procedure.

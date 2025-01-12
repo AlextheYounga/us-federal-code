@@ -4,9 +4,13 @@ Notwithstanding any other provision of Federal law, as of April 1, 2007, the Dir
 
 (Pub. L. 109–347, title VI, §612, Oct. 13, 2006, 120 Stat. 1943.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

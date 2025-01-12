@@ -28,6 +28,8 @@ Nothing in this section may be construed as applying to the editorial use by a l
 
 (Pub. L. 115–91, div. A, title X, §1093, Dec. 12, 2017, 131 Stat. 1611.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2018, and not as part of the Communications Act of 1934 which comprises this chapter.

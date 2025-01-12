@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §14 (Mar. 3, 1891, ch. 541, §1 (part), 26
 
 Reference to other records is added. The fee for certification is omitted as it appears in the table of fees.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 9 was renumbered section 8 of this title.
@@ -23,6 +25,8 @@ A prior section 9 was renumbered section 8 of this title.
 Pub. L. 106–113, §1000(a)(9) [title IV, §4717(1)], renumbered section 10 of this title as this section.
 
 **1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1999 Amendment ####
 

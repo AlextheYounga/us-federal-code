@@ -10,9 +10,13 @@ The Administrator of the United States Fire Administration shall have a rank equ
 
 (Pub. L. 107–296, title V, §514, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1409; amended Pub. L. 115–278, §2(g)(4)(B), Nov. 16, 2018, 132 Stat. 4178.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsecs. (b), (c). Pub. L. 115–278 redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "There is in the Department an Assistant Secretary for Cybersecurity and Communications."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

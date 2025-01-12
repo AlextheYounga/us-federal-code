@@ -4,11 +4,15 @@ It shall be the duty of the executive of each State, as soon as practicable afte
 
 (June 25, 1948, ch. 644, 62 Stat. 673; Oct. 31, 1951, ch. 655, §6, 65 Stat. 711; Pub. L. 98–497, title I, §107(e)(1), (2)(A), Oct. 19, 1984, 98 Stat. 2291.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services" in section catchline and wherever appearing in text and "National Archives and Records Administration" for "General Services Administration".
 
 **1951**—Act Oct. 31, 1951, substituted "Administrator of General Services" for "Secretary of State" in section catchline and several places in text, and for "Secretary of State of the United States" in one place, and "General Services Administration" for "State Department".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

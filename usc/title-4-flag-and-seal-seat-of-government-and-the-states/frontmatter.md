@@ -15,9 +15,13 @@ Chap. Sec.
 
 5. Official Territorial Papers 141
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1951**—Act Oct. 31, 1951, ch. 655, §11, 65 Stat. 713, added item for chapter 5.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Positive Law; Citation ####
 

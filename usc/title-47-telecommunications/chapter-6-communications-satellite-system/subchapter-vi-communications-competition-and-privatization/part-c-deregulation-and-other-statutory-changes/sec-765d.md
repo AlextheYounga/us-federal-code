@@ -12,6 +12,8 @@ Effective on the dates specified, the following provisions of this chapter shall
 
 (Pub. L. 87–624, title VI, §645, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 56.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The transfer of assets and receipt by signatories of ownership shares in the successor entity of INTELSAT, referred to in par. (2), occurred on July 18, 2001. See *FCC Report to Congress as Required by the ORBIT Act*, FCC 02-170, 17 FCC Rcd. 11458 (released June 14, 2002).

@@ -4,6 +4,8 @@ The Director may establish procedures, including the requirement for payment of 
 
 (Added Pub. L. 112–211, title II, §201(b)(1), Dec. 18, 2012, 126 Stat. 1534.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 112–211, title II, §203, Dec. 18, 2012, 126 Stat. 1536, provided that:

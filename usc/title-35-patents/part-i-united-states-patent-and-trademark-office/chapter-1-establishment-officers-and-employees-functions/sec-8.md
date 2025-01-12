@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §6 note (June 10, 1898, ch. 430, §1, 30 S
 
 Changes in language are made.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 8 was renumbered section 7 of this title.
@@ -21,6 +23,8 @@ A prior section 8 was renumbered section 7 of this title.
 **1999**—Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 Pub. L. 106–113, §1000(a)(9) [title IV, §4717(1)], renumbered section 9 of this title as this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1999 Amendment ####
 

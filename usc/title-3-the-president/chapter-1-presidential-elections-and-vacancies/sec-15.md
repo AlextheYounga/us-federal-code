@@ -4,6 +4,8 @@ Congress shall be in session on the sixth day of January succeeding every meetin
 
 (June 25, 1948, ch. 644, 62 Stat. 675.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Counting of Electoral Votes ####
 
 **2013**—Pub. L. 112–228, §1, Dec. 28, 2012, 126 Stat. 1610, provided that: "The meeting of the Senate and House of Representatives to be held in January 2013 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2012 shall be held on January 4, 2013 (rather than on the date specified in the first sentence of that section)."

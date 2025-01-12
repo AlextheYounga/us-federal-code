@@ -8,9 +8,13 @@ Any rule or custom pertaining to the display of the flag of the United States of
 |--------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 |            10            |      36:178.       |June 22, 1942, ch. 435, §8, 56 Stat. 380; Dec. 22, 1942, ch. 806, §8, 56 Stat. 1077; July 7, 1976, Pub. L. 94–344, (20), 90 Stat. 813.|
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Herein, referred to in text, means sections 4 to 10 of this title.
+
+#### **Executive Documents** ####
 
 #### Proc. No. 2605. The Flag of the United States ####
 

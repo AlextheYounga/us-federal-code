@@ -4,6 +4,8 @@ For fiscal year 2010 and thereafter, the Secretary of Homeland Security may coll
 
 (Pub. L. 111–83, title V, §554, Oct. 28, 2009, 123 Stat. 2179; Pub. L. 114–113, div. F, title V, §510(c), Dec. 18, 2015, 129 Stat. 2514.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2010, and not as part of the Homeland Security Act of 2002 which comprises this chapter.

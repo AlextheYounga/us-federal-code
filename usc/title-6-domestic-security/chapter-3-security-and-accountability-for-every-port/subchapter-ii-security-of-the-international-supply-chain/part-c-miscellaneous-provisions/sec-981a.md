@@ -56,6 +56,8 @@ If the Secretary determines the available technology meets the criteria outlined
 
 (Pub. L. 109–295, title V, §558, Oct. 4, 2006, 120 Stat. 1392.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2007, and not as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, which comprises this chapter.

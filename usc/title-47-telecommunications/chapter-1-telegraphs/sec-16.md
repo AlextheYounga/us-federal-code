@@ -4,9 +4,13 @@ On and after May 20, 1926, such amount of money as may be authorized by the Secr
 
 (May 20, 1926, ch. 345, 44 Stat. 576; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 92–310, title III, §233, June 6, 1972, 86 Stat. 214.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Pub. L. 92–310 struck out provisions which permitted the expenses of procuring necessary official bonds of certain enlisted men to be paid from the receipts of the system.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

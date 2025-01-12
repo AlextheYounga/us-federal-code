@@ -4,9 +4,13 @@ It shall be the duty of each and every one of the aforesaid railroad and telegra
 
 (Aug. 7, 1888, ch. 772, §6, 25 Stat. 384; June 19, 1934, ch. 652, §601, 48 Stat. 1101.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 A provision in the original enactment of this section requiring filing of copies of contracts, agreements, etc., within 60 days from passage of act Aug. 7, 1888 was omitted.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

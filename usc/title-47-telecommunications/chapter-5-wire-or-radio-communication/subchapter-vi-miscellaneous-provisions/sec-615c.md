@@ -100,6 +100,8 @@ In this section—
 
 (Pub. L. 111–260, title I, §106, Oct. 8, 2010, 124 Stat. 2762.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 158(e)(4) of the National Telecommunications and Information Administration Organization Act, referred to in subsec. (c)(7), probably means section 158(f)(4) of title I of Pub. L. 102–538, which was formerly classified to section 942(f)(4) of this title and was omitted from the Code.

@@ -18,6 +18,8 @@ This section is enacted as an exercise of the enforcement power of the Congress 
 
 (Pub. L. 106–81, §4, Oct. 26, 1999, 113 Stat. 1288; Pub. L. 110–283, title II, §201(a), July 23, 2008, 122 Stat. 2624.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Wireless Communications and Public Safety Act of 1999, and not as part of the Communications Act of 1934 which comprises this chapter.

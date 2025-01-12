@@ -200,6 +200,8 @@ Nothing in this section may be construed as—
 
 (Pub. L. 107–296, title V, §524, as added Pub. L. 110–53, title IX, §901(a), Aug. 3, 2007, 121 Stat. 365.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Reference to Assistant Secretary for Infrastructure Protection deemed to be a reference to Assistant Director for Infrastructure Security, see section 654(a)(3) of this title. Assistant Secretary for Infrastructure Protection serving on the day before Nov. 16, 2018, authorized to continue to serve as Assistant Director for Infrastructure Security on and after such date, see section 2(b)(4) of Pub. L. 115–278, set out as a note under section 654 of this title.

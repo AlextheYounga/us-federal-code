@@ -6,6 +6,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2020 Amendment ####
+
+Pub. L. 116–159, div. D, title II, §4201, Oct. 1, 2020, 134 Stat. 741, provided that: "This title [enacting provisions set out as a note under section 3551 of this title] may be cited as the 'United States Parole Commission Extension Act of 2020'."
+
 #### Short Title of 2019 Amendment ####
 
 Pub. L. 116–72, §1, Nov. 25, 2019, 133 Stat. 1151, provided that: "This Act [amending section 48 of this title] may be cited as the 'Preventing Animal Cruelty and Torture Act' or the 'PACT Act'."

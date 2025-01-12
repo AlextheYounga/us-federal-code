@@ -4,6 +4,8 @@ Section 410, added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 St
 
 Section 411, added Pub. L. 105–178, title II, §2005(a), June 9, 1998, 112 Stat. 332; amended Pub. L. 110–244, title III, §303(c)(4), June 6, 2008, 122 Stat. 1619, related to State highway safety data improvements.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.

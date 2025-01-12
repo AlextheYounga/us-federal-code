@@ -26,6 +26,8 @@ The Secretary shall manage the position established pursuant to paragraph (1) in
 
 (Pub. L. 107–296, title V, §515, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1409; amended Pub. L. 110–376, §8, Oct. 8, 2008, 122 Stat. 4060; Pub. L. 114–328, div. A, title XIX, §1909, Dec. 23, 2016, 130 Stat. 2681.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (a). Pub. L. 114–328, §1909(1), substituted "emergency managers, decision makers, and other appropriate officials" for "emergency managers and decision makers" and inserted "and steady-state activity" before period at end.

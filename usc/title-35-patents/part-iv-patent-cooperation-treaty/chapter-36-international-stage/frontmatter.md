@@ -18,6 +18,8 @@ Sec.
 
 368. Secrecy of certain inventions; filing international applications in foreign countries.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–616, §3, Nov. 6, 1986, 100 Stat. 3485, amended item 362 generally.

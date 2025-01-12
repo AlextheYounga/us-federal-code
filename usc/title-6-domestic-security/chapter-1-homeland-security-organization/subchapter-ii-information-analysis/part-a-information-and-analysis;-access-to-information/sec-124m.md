@@ -28,9 +28,13 @@ Not later than 90 days after October 7, 2010, the Secretary shall—
 
 (Pub. L. 107–296, title II, §210E, formerly §210F, as added Pub. L. 111–258, §4(a), Oct. 7, 2010, 124 Stat. 2649; renumbered §210E, Pub. L. 115–278, §2(g)(2)(J), Nov. 16, 2018, 132 Stat. 4178.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 210E of Pub. L. 107–296, title II, as added Pub. L. 110–53, title X, §1001(a), Aug. 3, 2007, 121 Stat. 372, was renumbered section 2214 of Pub. L. 107–296 by Pub. L. 115–278, §2(g)(2)(G), Nov. 16, 2018, 132 Stat. 4178, and transferred to section 664 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Findings ####
 

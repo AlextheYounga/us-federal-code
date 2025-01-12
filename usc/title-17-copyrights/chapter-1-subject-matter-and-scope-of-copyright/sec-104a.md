@@ -172,6 +172,8 @@ The President may revise, suspend, or revoke any such proclamation or impose any
 
 (Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–80, §2, Nov. 13, 1997, 111 Stat. 1530; Pub. L. 105–304, title I, §102(c), Oct. 28, 1998, 112 Stat. 2862.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (d)(3)(A) and (h)(3), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
@@ -225,6 +227,8 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 **1996**—Subsec. (h)(3). Pub. L. 104–295 substituted "subsection (g)" for "section 104A(g)".
 
 **1994**—Pub. L. 103–465 substituted "Copyright in restored works" for "Copyright in certain motion pictures" as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

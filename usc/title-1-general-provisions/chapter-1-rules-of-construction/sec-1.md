@@ -24,6 +24,8 @@ the words "person" and "whoever" include corporations, companies, associations, 
 
 (July 30, 1947, ch. 388, 61 Stat. 633; June 25, 1948, ch. 645, §6, 62 Stat. 859; Oct. 31, 1951, ch. 655, §1, 65 Stat. 710; Pub. L. 112–231, §2(a), Dec. 28, 2012, 126 Stat. 1619.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–231, in fifth clause after opening clause, struck out "and 'lunatic' " before "shall include every" and "lunatic," before "insane person,".
@@ -31,6 +33,8 @@ the words "person" and "whoever" include corporations, companies, associations, 
 **1951**—Act Oct. 31, 1951, substituted, in fourth clause after opening clause, "used" for "use".
 
 **1948**—Act June 25, 1948, included "tense", "whoever", "signature", "subscription", "writing" and a broader definition of "person".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2012 Amendment ####
 
@@ -43,6 +47,10 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: "This Act [e
 #### Short Title of 1996 Amendment ####
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: "This Act [enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure] may be cited as the 'Defense of Marriage Act'."
+
+#### References in Pub. L. 116–159 ####
+
+Pub. L. 116–159, §3, Oct. 1, 2020, 134 Stat. 709, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act [Continuing Appropriations Act, 2021 and Other Extensions Act, see Tables for classification] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 116–136 ####
 

@@ -228,11 +228,15 @@ There is authorized to be appropriated $10,000,000 for each of fiscal years 2008
 
 (Pub. L. 107–296, title II, §210A, as added Pub. L. 110–53, title V, §511(a), Aug. 3, 2007, 121 Stat. 317; amended Pub. L. 115–278, §2(g)(2)(F), Nov. 16, 2018, 132 Stat. 4177; Pub. L. 116–116, §2, Mar. 2, 2020, 134 Stat. 110.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsecs. (j) to (l). Pub. L. 116–116 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
 
 **2018**—Subsec. (c)(2)(B). Pub. L. 115–278 substituted "Cybersecurity and Infrastructure Security Agency" for "Office of Infrastructure Protection".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Office of Intelligence and Analysis Field Personnel Support to Fusion Centers ####
 

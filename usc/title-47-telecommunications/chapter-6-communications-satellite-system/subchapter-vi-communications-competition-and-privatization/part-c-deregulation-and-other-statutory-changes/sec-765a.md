@@ -34,6 +34,8 @@ Notwithstanding any other law or executive agreement, the Commission shall have 
 
 (Pub. L. 87–624, title VI, §642, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 55.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 763c of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 109–34, §3, July 12, 2005, 119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization.

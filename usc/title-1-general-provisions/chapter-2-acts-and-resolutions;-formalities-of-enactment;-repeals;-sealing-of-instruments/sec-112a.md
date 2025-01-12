@@ -16,6 +16,8 @@
 
 (Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Pub. L. 103–236, title I, §138, Apr. 30, 1994, 108 Stat. 397; Pub. L. 108–458, title VII, §7121(a), Dec. 17, 2004, 118 Stat. 3807.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 103–236, which was approved Apr. 30, 1994.
@@ -25,6 +27,8 @@ The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1
 **2004**—Subsec. (d). Pub. L. 108–458 added subsec. (d).
 
 **1994**—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

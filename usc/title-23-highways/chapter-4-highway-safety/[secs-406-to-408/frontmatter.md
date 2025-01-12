@@ -6,6 +6,8 @@ Section 407, added Pub. L. 95–599, title II, §208(a), Nov. 6, 1978, 92 Stat. 
 
 Section 408, added Pub. L. 97–364, title I, §101(a), Oct. 25, 1982, 96 Stat. 1738; amended Pub. L. 98–363, §§4, 7, July 17, 1984, 98 Stat. 436, 438; Pub. L. 100–17, title II, §203(a), (b), Apr. 2, 1987, 101 Stat. 219; Pub. L. 109–59, title II, §2006(a), Aug. 10, 2005, 119 Stat. 1527, related to State traffic safety information system improvements.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.

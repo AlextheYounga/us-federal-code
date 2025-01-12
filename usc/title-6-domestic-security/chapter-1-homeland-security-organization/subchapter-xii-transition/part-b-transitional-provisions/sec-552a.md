@@ -4,6 +4,8 @@ The transfer of functions under subtitle B of title XI of the Homeland Security 
 
 (Pub. L. 108–7, div. L, §106, Feb. 20, 2003, 117 Stat. 531.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, as amended, which is classified principally to this chapter. Subtitle B of title XI of the Act is classified principally to part B (§531 et seq.) of subchapter XI of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.

@@ -69,7 +69,7 @@ Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item fo
 
 #### Continuation of Department of Veterans Affairs Educational Assistance Benefits for Certain Programs of Education Converted to Distance Learning by Reason of Emergencies and Health-Related Situations ####
 
-Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, provided that:
+Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, as amended by Pub. L. 116–159, div. E, title II, §5202(b), Oct. 1, 2020, 134 Stat. 750, provided that:
 
 "(a) In General.—In the case of a program of education approved by a State approving agency, or the Secretary of Veterans Affairs when acting in the role of a State approving agency, that is converted from being offered on-site at an educational institution to being offered by distance learning by reason of an emergency or health-related situation, as determined by the Secretary, the Secretary may continue to provide educational assistance under the laws administered by the Secretary without regard to such conversion, including with respect to paying any—
 
@@ -77,7 +77,7 @@ Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, provided that:
 
 "(2) payments or subsistence allowances under chapters 30, 31, 32, and 35 of such title and chapters 1606 and 1607 of title 10, United States Code.
 
-"(b) Applicability Period.—Subsection (a) shall apply during the period beginning on March 1, 2020, and ending on December 21, 2020.
+"(b) Applicability Period.—Subsection (a) shall apply during the period beginning on March 1, 2020, and ending on December 21, 2021.
 
 "(c) Definitions.—In this section:
 

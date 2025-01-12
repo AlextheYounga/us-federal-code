@@ -22,6 +22,8 @@ Sec.
 
 610. State infrastructure bank program.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter, consisting of sections 601 to 610 of this title, was previously set out as subchapter II, consisting of sections 181 to 190, of chapter 1 of this title.

@@ -20,6 +20,8 @@ Sec.
 
 319. Appeal.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–29, §6(a), Sept. 16, 2011, 125 Stat. 299, substituted "INTER PARTES REVIEW" for "OPTIONAL INTER PARTES REEXAMINATION PROCEDURES" in chapter heading and amended analysis generally, adding items 311 to 319, and striking out former items 311 "Request for inter partes reexamination", 312 "Determination of issue by Director", 313 "Inter partes reexamination order by Director", 314 "Conduct of inter partes reexamination proceedings", 315 "Appeal", 316 "Certificate of patentability, unpatentability, and claim cancellation", 317 "Inter partes reexamination prohibited", and 318 "Stay of litigation".

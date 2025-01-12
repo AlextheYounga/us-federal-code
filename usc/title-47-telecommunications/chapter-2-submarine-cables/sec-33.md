@@ -4,6 +4,8 @@ The district courts of the United States shall have jurisdiction over all offens
 
 (Feb. 29, 1888, ch. 17, §13, 25 Stat. 42.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Abolition of Writs of Error ####
 
 Writs of error were abolished, and relief previously obtainable by writs of error declared to be obtainable by appeal, by act Jan. 31, 1928, ch. 14, §1, 45 Stat. 54. See note preceding section 1 of Title 28, Judiciary and Judicial Procedure.

@@ -4,9 +4,13 @@ The Secretary of State shall have the custody and charge of such seal. Except as
 
 (July 30, 1947, ch. 389, 61 Stat. 643; Pub. L. 89–554, §2(a), Sept. 6, 1966, 80 Stat. 608.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–554 struck out provisions which required the Secretary of State to make out and record, and to affix the seal to, all civil commissions for officers of the United States appointed by the President. See section 2902(a) of Title 5, Government Organization and Employees.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 10347. Affixing of Seal Without Special Warrant ####
 

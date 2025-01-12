@@ -112,6 +112,8 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 (Pub. L. 107–296, title II, §210D, as added Pub. L. 110–53, title V, §521(a), Aug. 3, 2007, 121 Stat. 328; amended Pub. L. 111–258, §5(b)(2), (c), Oct. 7, 2010, 124 Stat. 2650, 2651; Pub. L. 116–92, div. E, title LXVII, §6726(b), Dec. 20, 2019, 133 Stat. 2236.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subsection (d)(5) and (6), referred to in subsec. (f)(2), was redesignated subsec. (c)(5) and (6), respectively, by Pub. L. 116–92, div. E, title LXVII, §6726(b)(2), Dec. 20, 2019, 133 Stat. 2236.

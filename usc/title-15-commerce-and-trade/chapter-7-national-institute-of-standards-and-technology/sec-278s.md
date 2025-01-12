@@ -512,4 +512,4 @@ Pub. L. 113–235, div. B, title VII, §702, Dec. 16, 2014, 128 Stat. 2220, prov
 
 [<sup>1</sup> So in original. Probably should be followed by "a".](#278s_1)
 
-[<sup>2</sup> So in original.](#278s_2)
+[<sup>2</sup> So in original. Subpars. (J) and (K) are identical and the words "additional programs" do not follow from introductory provisions.](#278s_2)

@@ -30,9 +30,13 @@ The Commission shall include the consumer education materials developed under pa
 
 (Pub. L. 115–141, div. P, title V, §503(b), Mar. 23, 2018, 132 Stat. 1092.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Repack Airwaves Yielding Better Access for Users of Modern Services Act of 2018, also known as the RAY BAUM'S Act of 2018, and as part of the Consolidated Appropriations Act, 2018, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

@@ -48,6 +48,8 @@ The Under Secretary for Intelligence and Analysis shall—
 
 (Pub. L. 107–296, title II, §204, as added Pub. L. 110–53, title V, §501(a)(1), Aug. 3, 2007, 121 Stat. 307; amended Pub. L. 115–278, §2(g)(2)(E), Nov. 16, 2018, 132 Stat. 4177.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (d)(2)(A), was in the original "this title", meaning title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2145, which enacted this subchapter, amended sections 1030, 2511, 2512, 2520, 2701 to 2703, and 3125 of Title 18, Crimes and Criminal Procedure, sections 10102 and 10122 of Title 34, Crime Control and Law Enforcement, and section 401a of Title 50, War and National Defense, and enacted provisions set out as a note under section 101 of this title and listed in a Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses table set out under section 994 of Title 28, Judiciary and Judicial Procedure. For complete classification of title II to the Code, see Tables.
@@ -55,6 +57,8 @@ This subchapter, referred to in subsec. (d)(2)(A), was in the original "this tit
 #### Amendments ####
 
 **2018**—Subsecs. (c)(1), (d)(1). Pub. L. 115–278 substituted "Director of the Cybersecurity and Infrastructure Security Agency" for "Assistant Secretary for Infrastructure Protection" in introductory provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Receipt of Information From United States Secret Service ####
 

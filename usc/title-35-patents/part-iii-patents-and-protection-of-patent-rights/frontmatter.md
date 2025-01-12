@@ -18,6 +18,8 @@ Chap. Sec.
 
 32. Post-Grant Review 321
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–29, §6(b), (e), Sept. 16, 2011, 125 Stat. 304, 311, added items for chapters 31 and 32 and struck out former item for chapter 31 "Optional Inter Partes Reexamination of Patents".

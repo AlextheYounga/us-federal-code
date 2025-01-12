@@ -1,5 +1,7 @@
 ### Part A—Information and Analysis; Access to Information ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 115–278, §2(g)(2)(B), Nov. 16, 2018, 132 Stat. 4177, struck out "and Infrastructure Protection" after "Information and Analysis" in part heading.

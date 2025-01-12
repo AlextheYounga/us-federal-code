@@ -62,6 +62,8 @@ The Commission may—
 
 (June 19, 1934, ch. 652, title III, §302, as added Pub. L. 90–379, July 5, 1968, 82 Stat. 290; amended Pub. L. 97–259, title I, §108(a), Sept. 13, 1982, 96 Stat. 1091; Pub. L. 102–556, title IV, §403(a), Oct. 28, 1992, 106 Stat. 4195; Pub. L. 104–104, title IV, §403(f), Feb. 8, 1996, 110 Stat. 131; Pub. L. 106–521, §1, Nov. 22, 2000, 114 Stat. 2438.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Subsec. (f). Pub. L. 106–521 added subsec. (f).
@@ -76,10 +78,12 @@ Subsec. (b). Pub. L. 97–259, §108(a)(3), substituted "or ship devices or home
 
 Subsec. (c). Pub. L. 97–259, §108(a)(4), inserted "or home electronic equipment and systems" after "devices" wherever appearing, inserted "and home electronic equipment and systems" after "Devices", substituted "objectives" for "common objective", and inserted "and to home electronic equipment and systems" after "reception".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effect on Other Laws ####
 
 Pub. L. 102–556, title IV, §403(c), Oct. 28, 1992, 106 Stat. 4195, provided that: "This section [amending this section] shall not affect section 2512(2) of title 18, United States Code."
 
 #### Minimum Performance Standards; Home Electronic Equipment and Systems Manufactured Before September 13, 1982 ####
 
-Pub. L. 97–259, title I, §108(b), Sept. 13, 1982, 96 Stat. 1092, provided that: "Any minimum performance standard established by the Federal Communications Commission under section 302(a)(2) of the Communications Act of 1934 [subsec. (a)(2) of this section], as added by the amendment made in subsection (a)(1), shall not apply to any home electronic equipment or systems manufactured before the date of the enactment of this Act [Sept. 13, 1982]."
+Pub. L. 97–259, title I, §108(b), Sept. 13, 1982, 96 Stat. 1092, provided that any minimum performance standard established by the Federal Communications Commission under subsec. (a)(2) of this section would not apply to any home electronic equipment or systems manufactured before Sept. 13, 1982.

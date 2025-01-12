@@ -10,6 +10,8 @@ Based on Title 35, U.S.C., 1946 ed., §11 (R.S. 487, amended Feb. 18, 1922, ch. 
 
 See note under section 31.
 
+#### **Editoral Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–29, §20(j), struck out "of this title" after "2(b)(2)(D)" the first time appearing.
@@ -27,6 +29,8 @@ Pub. L. 106–113, §1000(a)(9) [title IV, §4719], inserted before last sentenc
 Pub. L. 106–113, §1000(a)(9) [title IV, §4715(c)], substituted "2(b)(2)(D)" for "31".
 
 **1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

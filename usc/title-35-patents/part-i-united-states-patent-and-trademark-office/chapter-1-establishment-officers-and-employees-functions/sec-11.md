@@ -12,6 +12,8 @@ The first act mentioned applies to Canada only, the second to any country; these
 
 Language is changed.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 104(b), referred to in text, was repealed by Pub. L. 112–29, §3(d), Sept. 16, 2011, 125 Stat. 287.
@@ -33,6 +35,8 @@ Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub.
 Pub. L. 106–113, §1000(a)(9) [title IV, §4717(1)], renumbered section 12 of this title as this section.
 
 Pub. L. 106–113, §1000(a)(9) [title IV, §4507(2)], as amended by Pub. L. 107–273, §13205(2)(B), inserted "and applications" after "patents" in section catchline and "and published applications for patents" after "patents" in text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1999 Amendment ####
 

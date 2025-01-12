@@ -4,6 +4,8 @@ The President may withhold or revoke such license when he shall be satisfied aft
 
 (May 27, 1921, ch. 12, §2, 42 Stat. 8; June 19, 1934, ch. 652, title VII, §702(c), formerly title VI, §602(c), 48 Stat. 1102; renumbered Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.
@@ -11,6 +13,8 @@ Section was not enacted as part of the Submarine Cable Act which comprises this 
 #### Amendments ####
 
 **1934**—Act June 19, 1934, substituted "of the Federal Communications Commission" for "heretofore granted the Interstate Commerce Commission".
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

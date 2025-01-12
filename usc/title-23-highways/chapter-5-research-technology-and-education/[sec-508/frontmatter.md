@@ -4,6 +4,8 @@ Section, added Pub. L. 105–178, title V, §5108, June 9, 1998, 112 Stat. 435; 
 
 A prior section 508, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 833, related to highway relocation services, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.

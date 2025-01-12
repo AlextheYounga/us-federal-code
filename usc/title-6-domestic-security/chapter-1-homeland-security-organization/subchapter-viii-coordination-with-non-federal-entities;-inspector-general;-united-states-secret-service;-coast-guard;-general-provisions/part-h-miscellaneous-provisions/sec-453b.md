@@ -70,6 +70,8 @@ This section applies with respect to contracts entered into by the Department of
 
 (Pub. L. 111–5, div. A, title VI, §604, Feb. 17, 2009, 123 Stat. 165; Pub. L. 115–232, div. A, title VIII, §836(g)(1), Aug. 13, 2018, 132 Stat. 1872.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (g), "section 1906 of title 41" substituted for "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -79,6 +81,8 @@ Section was enacted as part of the American Recovery and Reinvestment Act of 200
 #### Amendments ####
 
 **2018**—Subsec. (g). Pub. L. 115–232, substituted "commercial products" for "commercial items" in heading and, in text, substituted "procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed" for "procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed" and " 'commercial product' shall be as defined in section 103 of title 41." for " 'commercial' shall be as defined in the Federal Acquisition Regulation—Part 2."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment; Savings Provision ####
 

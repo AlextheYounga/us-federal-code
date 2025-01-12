@@ -68,6 +68,16 @@ The Librarian of Congress may prescribe regulations to carry out this section.
 
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under section 141 of this title.
 
+#### Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center ####
+
+Pub. L. 116–159, div. A, §159, Oct. 1, 2020, 134 Stat. 721, provided that: "Notwithstanding any other provision of this Act [div. A of Pub. L. 116–159, see Tables for classification]—
+
+"(1) the authority of the Library of Congress to reimburse the Little Scholars Child Development Center at the Library of Congress under section 19004 of the CARES Act (2 U.S.C. 162b note; 134 Stat. 578) shall remain in effect with respect to salaries incurred until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic; and
+
+"(2) the authority of the Government Accountability Office to reimburse the Tiny Findings Child Development Center under section 19009 of the CARES Act (134 Stat. 579) shall remain in effect with respect to salaries incurred until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic."
+
+(3) [Amended section 19005(a) of Pub. L. 116–136, set out as a note under 1816b of this title.]
+
 #### Source of Funds Used for Payment of Salaries and Expenses of Little Scholars Child Development Center ####
 
 Pub. L. 116–136, div. B, title IX, §19004, Mar. 27, 2020, 134 Stat. 578, provided that: "The Library of Congress shall reimburse Little Scholars Child Development Center for salaries for employees incurred from April 1, 2020, to September 30, 2020, for employees of such Center who have been ordered to cease working due to measures taken in the Capitol complex to combat coronavirus, not to exceed $113,000 per month, from amounts in the appropriations account 'Library of Congress—Salaries and Expenses'."

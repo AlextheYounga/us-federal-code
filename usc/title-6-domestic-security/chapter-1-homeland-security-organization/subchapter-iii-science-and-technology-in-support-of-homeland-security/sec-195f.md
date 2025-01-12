@@ -160,6 +160,8 @@ Nothing in this section may be construe— <sup><a href="#195f_1_target" name="
 
 (Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 116–92, div. A, title XVII, §1740(a)(1), Dec. 20, 2019, 133 Stat. 1821.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Executive Order 13865, referred to in subsec. (e)(1), is Ex. Ord. No. 13865, Mar. 26, 2019, 84 F.R. 12041, which is set out as a note under this section.
@@ -174,6 +176,8 @@ Subsecs. (d), (e). Pub. L. 116–92, §1740(a)(1)(B), added subsecs. (d) and (e)
 
 **2018**—Subsec. (c)(1). Pub. L. 115–278, §2(g)(3)(C), substituted "Section 673 of this title" for "Section 133 of this title".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Benchmarks; Definitions ####
 
 Pub. L. 116–92, div. A, title XVII, §1740(d), (h), Dec. 20, 2019, 133 Stat. 1824, 1825, provided that:
@@ -185,6 +189,8 @@ Pub. L. 116–92, div. A, title XVII, §1740(d), (h), Dec. 20, 2019, 133 Stat. 1
 "(1) The term 'appropriate congressional committees' has the meaning given that term in subsection (d) of section 320 of the Homeland Security Act of 2002 [6 U.S.C. 195f(d)], as added by subsection (a) of this section; and
 
 "(2) The terms 'critical infrastructure', 'EMP', and 'GMD' have the meanings given such terms in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101)."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13865. Coordinating National Resilience to Electromagnetic Pulses ####
 

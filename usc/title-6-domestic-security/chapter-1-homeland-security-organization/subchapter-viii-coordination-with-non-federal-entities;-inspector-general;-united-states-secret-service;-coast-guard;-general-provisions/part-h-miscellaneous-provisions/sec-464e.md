@@ -4,6 +4,8 @@ In fiscal year 2004 and thereafter, the Center is authorized to provide short-te
 
 (Pub. L. 108–90, title IV, Oct. 1, 2003, 117 Stat. 1151.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Center, referred to in text, means the Federal Law Enforcement Training Center.

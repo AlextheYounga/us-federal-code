@@ -26,6 +26,8 @@ Sec.
 
 412. Registration as prerequisite to certain remedies for infringement.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–403, title I, §101(b)(2), Oct. 13, 2008, 122 Stat. 4258, inserted "civil" before "infringement" in item 411.
