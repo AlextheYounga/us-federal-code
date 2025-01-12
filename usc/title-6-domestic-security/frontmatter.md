@@ -13,6 +13,8 @@ Chap. Sec.
 
 5. Border Infrastructure and Technology Modernization 1401
 
+6. Cybersecurity 1501
+
 #### Prior Provisions ####
 
 A prior Title 6, Surety Bonds, was enacted by act July 30, 1947, ch. 390, §1, 61 Stat. 646, and was repealed by act Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085.
