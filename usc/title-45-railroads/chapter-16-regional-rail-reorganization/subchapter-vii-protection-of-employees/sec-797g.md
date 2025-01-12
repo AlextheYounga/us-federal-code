@@ -16,6 +16,8 @@ Employees of the Corporation may not serve notices under section 156 of this tit
 
 (Pub. L. 93–236, title VII, §708, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 665.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 774 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 97–35, title XI, §1144(a)(1), Aug. 13, 1981, 95 Stat. 669.

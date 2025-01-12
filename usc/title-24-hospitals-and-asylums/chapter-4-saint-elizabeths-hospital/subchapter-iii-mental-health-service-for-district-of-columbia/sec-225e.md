@@ -46,6 +46,8 @@ For purposes of this section, Hospital employees shall include former patient em
 
 (Pub. L. 98–621, §7, Nov. 8, 1984, 98 Stat. 3375.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (a)(1), (3), (4), (8), (b), and (c)(2), is D.C. Law 2–139, Mar. 3, 1979, as amended, which is not classified to the Code.

@@ -34,6 +34,8 @@ Sec.
 
 2531. Personnel of former Lighthouse Service.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior analysis for chapter 25 "GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY" consisted of items 891 "Flags; pennants; uniforms and insignia", 892 "Penalty", 893 "Limitation on rights of members of the Auxiliary and temporary members of the Reserve", and 894 "Availability of facilities and appropriations", prior to repeal by Pub. L. 115–282, title I, §114(a), Dec. 4, 2018, 132 Stat. 4223.

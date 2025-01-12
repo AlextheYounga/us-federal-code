@@ -22,6 +22,8 @@ Changes were made in phraseology.
 
 For remainder of sections 122 and 252 of title 13, U.S.C., 1952 ed., and of section 1442 of title 42, U.S.C., 1952 ed. (which has been transferred in its entirety to this revised title), see Distribution Table.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–521 substituted "Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources" for "Requests to other departments and offices for information, acquisition of reports from governmental and other sources" in section catchline.
@@ -31,6 +33,8 @@ Subsec. (a). Pub. L. 94–521 substituted "considers" for "deems", and "agency, 
 Subsec. (c). Pub. L. 94–521 added subsec. (c).
 
 **1957**—Pub. L. 85–207 inserted ", acquisition of reports from governmental and other sources" in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

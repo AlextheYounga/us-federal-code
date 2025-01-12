@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—APPOINTMENT AND PROMOTION ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter A of chapter 21 designation and accompanying heading "GENERAL" were repealed by Pub. L. 115–282, title I, §112(c)(1), Dec. 4, 2018, 132 Stat. 4220.
@@ -7,6 +9,8 @@ A prior subchapter A of chapter 21 designation and accompanying heading "GENERAL
 #### Amendments ####
 
 **2018**—Pub. L. 115–282, title I, §112(c)(2), Dec. 4, 2018, 132 Stat. 4220, inserted subchapter I designation and heading.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Officer Evaluation Report ####
 

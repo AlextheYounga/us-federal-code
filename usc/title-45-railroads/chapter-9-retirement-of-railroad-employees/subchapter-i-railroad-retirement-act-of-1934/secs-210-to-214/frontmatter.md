@@ -1,5 +1,7 @@
 ### §§210 to 214. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 210 to 214, sections 10 to 14, respectively, of act June 27, 1934, ch. 868, §10, 48 Stat. 1288, 1289, were omitted as unconstitutional. See section 201 of this title.

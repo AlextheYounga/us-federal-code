@@ -12,9 +12,13 @@ See, also, section 253 of title 13, U.S.C., 1952 ed., which provided for delegat
 
 Because of the transfer effected by 1950 Reorganization Plan No. 5, referred to above, sections of title 13, U.S.C., 1952 ed., which prescribed functions of the Bureau of the Census, the Census Office, or the Director of the Census, have, in this revised title, been changed to refer to the Secretary.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–521 inserted "regulations;" in section catchline, authorized the Secretary to issue such rules and regulations as he deems necessary to carry out the functions and duties imposed upon him by this title, authorized delegation of authority to issue such rules and regulations to officers and employees of the Department of Commerce, and struck out a provision which allowed delegation of performance of such functions and duties to bureaus and agencies of the Department of Commerce.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

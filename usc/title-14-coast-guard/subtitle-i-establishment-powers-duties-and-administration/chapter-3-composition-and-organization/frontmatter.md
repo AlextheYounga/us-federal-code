@@ -42,6 +42,8 @@ Sec.
 
 320. Coast Guard Junior Reserve Officers' Training Corps.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior analysis for chapter 3 "COMPOSITION AND ORGANIZATION" consisted of items 41 "Grades and ratings", 41a "Active duty promotion list", 42 "Number and distribution of commissioned officers on active duty promotion list", 44 "Commandant; appointment", 46 "Retirement of Commandant or Vice Commandant", 47 "Vice Commandant; appointment", 50 "Vice admirals", 51 "Retirement", 52 "Vice admirals and admiral, continuity of grade", 53 "Office of the Coast Guard Reserve; Director", 54 "Chief of Staff to President: appointment", 56 "Chief Acquisition Officer", 57 "Prevention and response workforces", 58 "Centers of expertise for Coast Guard prevention and response", 59 "Marine industry training programs", and 60 "Training course on workings of Congress", prior to repeal by Pub. L. 115–282, title I, §104(a), Dec. 4, 2018, 132 Stat. 4196.

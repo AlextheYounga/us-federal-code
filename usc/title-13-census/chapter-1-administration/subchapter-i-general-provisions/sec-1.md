@@ -14,9 +14,13 @@ As used in this title, unless the context requires another meaning or unless it 
 
 Section is new, and was inserted to eliminate the necessity for referring, throughout this title, to the Bureau of the Census, and the Secretary of Commerce, by their full designations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–521 designated existing provisions as pars. (1) and (2), and added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

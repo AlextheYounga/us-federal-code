@@ -20,6 +20,8 @@
 
 (Aug. 29, 1935, ch. 812, §14, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1345; amended Pub. L. 98–76, title IV, §419(a), Aug. 12, 1983, 97 Stat. 438; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–458, title I, §110(a)(1), Dec. 23, 2008, 122 Stat. 5112.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (b)(3). Pub. L. 110–458 added par. (3).
@@ -31,6 +33,8 @@
 Subsec. (b)(1). Pub. L. 98–76, §419(a)(2), substituted "(b)(1) This" for ": *Provided, however*, That the provisions of this".
 
 Subsec. (b)(2). Pub. L. 98–76, §419(a)(3), added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

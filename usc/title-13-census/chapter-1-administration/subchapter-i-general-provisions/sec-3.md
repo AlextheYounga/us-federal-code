@@ -14,11 +14,15 @@ In any event, this new section merely confirms past and present practice, and re
 
 The language of this section follows substantially the language of section 31 of the act of Mar. 3, 1899, referred to above, but has been reworded because of jurisdictional and other changes since that time. The "Census Office" was transferred from the Department of the Interior to the Department of Commerce and Labor by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 826. Act Mar. 4, 1913, ch. 141, §1, 37 Stat. 736, changed the name of the latter to the Department of Commerce, and created, as a separate department, the Department of Labor. It transferred a number of bureaus and agencies from the Department of Commerce to the Department of Labor, but these transfers did not affect the Bureau of the Census, which has remained under the jurisdiction of the Department of Commerce. 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, transferred all functions of all officers, employees, bureaus, and agencies of the Department of Commerce to the Secretary of Commerce, and vested power in him to delegate them or any of his other functions to any of such officers, employees, bureaus, and agencies. Therefore, in this section, "Secretary", and "Secretary or such officer or employee of the Bureau as he designates", were substituted, respectively, for two references to the Director of the Census, to conform with such Plan.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–521 substituted "affixed to all documents authenticated by the Bureau" for "affixed to all certificates and attestations that may be required from the Bureau".
 
 **1957**—Pub. L. 85–207 provided for judicial recognition of the seal.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

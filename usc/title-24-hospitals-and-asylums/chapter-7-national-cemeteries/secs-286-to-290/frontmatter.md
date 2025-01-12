@@ -10,6 +10,8 @@ Section 289, act May 23, 1941, ch. 130, 55 Stat. 191, provided for conveyance to
 
 Section 290, act July 27, 1953, ch. 245, §101, 67 Stat. 197, prohibited encroachment by railroad on rights of way. See section 2404 of Title 38.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.

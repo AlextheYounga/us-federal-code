@@ -4,6 +4,8 @@ In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizab
 
 (Pub. L. 100–436, title II, Sept. 20, 1988, 102 Stat. 1693.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The appropriations made under this heading, referred to in text, refers to appropriations under the headings "Alcohol, Drug Abuse, and Mental Health Administration" and "federal subsidy for saint elizabeths hospital" of title II, "Department of Health and Human Services", of the Departments of Labor, Health and Human Services, and Education and Related Agencies Appropriation Act, 1989, Pub. L. 100–436.
@@ -15,6 +17,8 @@ Section 9(c) of Public Law 98–621, referred to in text, is section 9(c) of Pub
 #### Codification ####
 
 Section is from the appropriation act cited as the credit to this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Similar Provisions ####
 

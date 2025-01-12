@@ -10,7 +10,7 @@ Proviso directing the Secretary of the Interior to file with the National Archiv
 
 #### Change of Name ####
 
-White Sands National Monument abolished, and White Sands National Park established, by Pub. L. 116–92, div. B, title XXVIII, §2851, Dec. 20, 2019, 133 Stat. 1895, which is classified to section 410dddd of this title and which provides that any reference to the White Sands National Monument shall be considered to be a reference to the White Sands National Park.White Sands National Park.
+White Sands National Monument abolished, and White Sands National Park established, by Pub. L. 116–92, div. B, title XXVIII, §2851, Dec. 20, 2019, 133 Stat. 1895, which is classified to section 410dddd of this title and which provides that any reference to the White Sands National Monument shall be considered to be a reference to the White Sands National Park.
 
 #### Hopewell Village Boundary Revision ####
 

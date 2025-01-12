@@ -52,7 +52,7 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior in
 
 #### Prize Competitions ####
 
-Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided that:
+Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, as amended by Pub. L. 116–188, title I, §101(a), Oct. 30, 2020, 134 Stat. 906, provided that:
 
 "(1) Definitions.—In this subsection:
 
@@ -130,13 +130,13 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the prevention of wildlife poaching and trafficking.
 
-"(v) Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+"(v) Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 "(D) Agreement with national fish and wildlife foundation.—
 
 "(i) In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
 
-"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 "(E) Judges.—
 
@@ -148,7 +148,7 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 "(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -208,13 +208,13 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the promotion of wildlife conservation.
 
-"(v) Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+"(v) Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 "(D) Agreement with national fish and wildlife foundation.—
 
 "(i) In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
 
-"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 "(E) Judges.—
 
@@ -226,7 +226,7 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 "(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -286,13 +286,13 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the management of invasive species.
 
-"(v) Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+"(v) Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 "(D) Agreement with national fish and wildlife foundation.—
 
 "(i) In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
 
-"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 "(E) Judges.—
 
@@ -304,7 +304,7 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 "(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -364,13 +364,13 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the protection of endangered species.
 
-"(v) Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+"(v) Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 "(D) Agreement with national fish and wildlife foundation.—
 
 "(i) In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
 
-"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 "(E) Judges.—
 
@@ -382,7 +382,7 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 "(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
@@ -434,7 +434,7 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the nonlethal management of human-wildlife conflicts.
 
-"(iv) Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of subparagraph (C), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+"(iv) Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of clause (iii), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
 
 "(I) 1 or more Federal agencies with jurisdiction over the management of native wildlife species at risk due to conflict with human activities;
 
@@ -444,13 +444,13 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the management of native wildlife species at risk due to conflict with human activities.
 
-"(v) Requirements.—The Board shall comply with all requirements under paragraph (7)(A).
+"(v) Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
 
 "(D) Agreement with national fish and wildlife foundation.—
 
 "(i) In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
 
-"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (7)(B).
+"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
 
 "(E) Judges.—
 
@@ -462,15 +462,97 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
 
-"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (7)(B); and
+"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
 
 "(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
 
 "(G) Termination of authority.—The Board and all authority provided under this paragraph shall terminate on December 31, 2023.
 
-"(7) Administration of prize competitions.—
+"(7) Theodore roosevelt genius prize for reducing human-predator conflict.—
 
-"(A) Additional requirements for advisory boards.—An advisory board established under paragraph (2)(C)(i), (3)(C)(i), (4)(C)(i), (5)(C)(i), or (6)(C)(i) (referred to in this paragraph as a 'Board') shall comply with the following requirements:
+"(A) Definitions.—In this paragraph:
+
+"(i) Board.—The term 'Board' means the Reducing Human-Predator Conflict Technology Advisory Board established by subparagraph (C)(i).
+
+"(ii) Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for reducing human-predator conflict established under subparagraph (B).
+
+"(B) Authority.—Not later than 180 days after the date of enactment of the America's Conservation Enhancement Act [Oct. 30, 2020], the Secretary shall establish under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) a prize competition, to be known as the 'Theodore Roosevelt Genius Prize for reducing human-predator conflict'—
+
+"(i) to encourage technological innovation with the potential to advance the mission of the United States Fish and Wildlife Service with respect to reducing the frequency of human-predator conflict using nonlethal means; and
+
+"(ii) to award 1 or more prizes annually for a technological advancement that promotes reducing human-predator conflict using nonlethal means, which may include the application and monitoring of tagging technologies.
+
+"(C) Advisory board.—
+
+"(i) Establishment.—There is established an advisory board, to be known as the 'Reducing Human-Predator Conflict Technology Advisory Board'.
+
+"(ii) Composition.—The Board shall be composed of not fewer than 9 members appointed by the Secretary, who shall provide expertise in—
+
+"(I) predator-human interactions;
+
+"(II) the habitats of large predators;
+
+"(III) biology;
+
+"(IV) technology development;
+
+"(V) engineering;
+
+"(VI) economics;
+
+"(VII) business development and management; and
+
+"(VIII) any other discipline, as the Secretary determines to be necessary to achieve the purposes of this paragraph.
+
+"(iii) Duties.—Subject to clause (iv), with respect to the prize competition, the Board shall—
+
+"(I) select a topic;
+
+"(II) issue a problem statement;
+
+"(III) advise the Secretary regarding any opportunity for technological innovation to reduce human-predator conflict using nonlethal means; and
+
+"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian Tribes, private entities, and research institutions with expertise or interest relating to reducing human-predator conflict using nonlethal means.
+
+"(iv) Consultation.—In selecting a topic and issuing a problem statement for the prize competition under subclauses (I) and (II) of clause (iii), respectively, the Board shall consult widely with Federal and non-Federal stakeholders, including—
+
+"(I) 1 or more Federal agencies with jurisdiction over the management of native wildlife species at risk due to conflict with human activities;
+
+"(II) 1 or more State agencies with jurisdiction over the management of native wildlife species at risk due to conflict with human activities;
+
+"(III) 1 or more State, regional, or local wildlife organizations, the mission of which relates to the management of native wildlife species at risk due to conflict with human activities; and
+
+"(IV) 1 or more wildlife conservation groups, technology companies, research institutions, institutions of higher education, industry associations, or individual stakeholders with an interest in the management of native wildlife species at risk due to conflict with human activities.
+
+"(v) Requirements.—The Board shall comply with all requirements under paragraph (8)(A).
+
+"(D) Agreement with national fish and wildlife foundation.—
+
+"(i) In general.—The Secretary shall offer to enter into an agreement under which the National Fish and Wildlife Foundation shall administer the prize competition.
+
+"(ii) Requirements.—An agreement entered into under clause (i) shall comply with all requirements under paragraph (8)(B).
+
+"(E) Judges.—
+
+"(i) Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, except as provided in clause (ii), select the 1 or more annual winners of the prize competition.
+
+"(ii) Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+
+"(F) Consultation with national oceanic and atmospheric administration.—The Secretary shall consult with the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in the case of a cash prize awarded under the prize competition for a technology that addresses conflict between humans and marine predators under the jurisdiction of the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+
+"(G) Report to congress.—Not later than 60 days after the date on which a cash prize is awarded under this paragraph, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report on the prize competition that includes—
+
+"(i) a statement by the Board that describes the activities carried out by the Board relating to the duties described in subparagraph (C)(iii);
+
+"(ii) if the Secretary has entered into an agreement under subparagraph (D)(i), a statement by the National Fish and Wildlife Foundation that describes the activities carried out by the National Fish and Wildlife Foundation relating to the duties described in paragraph (8)(B); and
+
+"(iii) a statement by 1 or more of the judges appointed under subparagraph (E) that explains the basis on which the winner of the cash prize was selected.
+
+"(H) Termination of authority.—The Board and all authority provided under this paragraph shall terminate on December 31, 2023.
+
+"(8) Administration of prize competitions.—
+
+"(A) Additional requirements for advisory boards.—An advisory board established under paragraph (2)(C)(i), (3)(C)(i), (4)(C)(i), (5)(C)(i), (6)(C)(i), or (7)(C)(i) (referred to in this paragraph as a 'Board') shall comply with the following requirements:
 
 "(i) Term; vacancies.—
 
@@ -504,7 +586,7 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(vi) Administrative cost reduction.—The Board shall, to the maximum extent practicable, minimize the administrative costs of the Board, including by encouraging the remote participation described in clause (iii)(II)(aa) to reduce travel costs.
 
-"(B) Agreements with national fish and wildlife foundation.—Any agreement entered into under paragraph (2)(D)(i), (3)(D)(i), (4)(D)(i), (5)(D)(i), or (6)(D)(i) shall comply with the following requirements:
+"(B) Agreements with national fish and wildlife foundation.—Any agreement entered into under paragraph (2)(D)(i), (3)(D)(i), (4)(D)(i), (5)(D)(i), (6)(D)(i), or (7)(D)(i) shall comply with the following requirements:
 
 "(i) Duties.—An agreement shall provide that the National Fish and Wildlife Foundation shall—
 
@@ -528,7 +610,7 @@ Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, provided th
 
 "(VI) in consultation with, and subject to final approval by, the Secretary, develop criteria for the selection of prize competition winners;
 
-"(VII) provide advice and consultation to the Secretary on the selection of judges under paragraphs (2)(E), (3)(E), (4)(E), (5)(E), and (6)(E) based on criteria developed in consultation with, and subject to the final approval of, the Secretary;
+"(VII) provide advice and consultation to the Secretary on the selection of judges under paragraphs (2)(E), (3)(E), (4)(E), (5)(E), (6)(E), and (7)(E) based on criteria developed in consultation with, and subject to the final approval of, the Secretary;
 
 "(VIII) announce 1 or more annual winners of the prize competition;
 

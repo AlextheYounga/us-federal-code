@@ -106,6 +106,8 @@ Sec.
 
 2779. Transportation to and from certain places of employment.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior analysis for part III of this title "COAST GUARD AUTHORIZATIONS AND REPORTS TO CONGRESS" preceded prior section 2701 and consisted of items for chapter 27 "Authorizations" beginning with section 2701 and chapter 29 "Reports" beginning with section 2901, prior to repeal by Pub. L. 115–282, title I, §115, Dec. 4, 2018, 132 Stat. 4225.

@@ -20,9 +20,13 @@ The provision in section 5 of title 13, U.S.C., 1952 ed., giving preference in a
 
 Changes were made in phraseology.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1960**—Pub. L. 86–769 struck out references to appointment and compensation under the Civil Service laws and the Classification Act of 1949.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Program for Employment of Spanish-Origin Personnel in Bureau; Report to Congress ####
 

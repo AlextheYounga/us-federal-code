@@ -44,6 +44,8 @@ Sec.
 
 2947. Reports.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior analysis for chapter 29 "REPORTS" consisted of items 2901 "Transmission of annual Coast Guard authorization request", 2902 "Capital investment plan", 2903 "Major acquisitions", 2904 "Manpower requirements plan", 2905 "Annual performance report", and 2906 "Major acquisition program risk assessment", prior to repeal by Pub. L. 115–282, title I, §117(a), Dec. 4, 2018, 132 Stat. 4229.

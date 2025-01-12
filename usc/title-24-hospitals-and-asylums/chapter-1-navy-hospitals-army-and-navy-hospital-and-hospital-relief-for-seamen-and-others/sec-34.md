@@ -4,9 +4,13 @@ In addition to those persons, including the dependents of naval and Marine Corps
 
 (May 10, 1943, ch. 95, §4, 57 Stat. 81.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 32 of this title, referred to in text, was repealed by act June 7, 1956, ch. 374, §306(2), 70 Stat. 254. See section 1071 et seq. of Title 10, Armed Forces.
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

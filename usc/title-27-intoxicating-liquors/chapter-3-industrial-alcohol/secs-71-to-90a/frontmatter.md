@@ -1,5 +1,7 @@
 ### §§71 to 90a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 71 to 75, 78 to 81, 83 to 88, and 90, contained provisions which were incorporated in various sections of the Internal Revenue Code of 1939. For distribution of the Internal Revenue Code of 1939 to the Internal Revenue Code of 1986, see Table I preceding section 1 of Title 26, Internal Revenue Code.

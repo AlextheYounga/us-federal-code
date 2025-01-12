@@ -108,7 +108,7 @@ Pub. L. 106–541, title II, §220, Dec. 11, 2000, 114 Stat. 2596, provided that
 
 #### Shore Management Program ####
 
-Pub. L. 106–53, title II, §213, Aug. 17, 1999, 113 Stat. 291, required the Secretary to review the implementation of the Corps of Engineers shore management program, with particular attention to inconsistencies in implementation among the divisions and districts of the Corps of Engineers and complaints by or potential inequities regarding property owners in the Savannah District during the 5-year period preceding Aug. 17, 1999, and directed the Secrretary to submit to Congress a report of the review by Aug. 17, 1999.
+Pub. L. 106–53, title II, §213, Aug. 17, 1999, 113 Stat. 291, required the Secretary to review the implementation of the Corps of Engineers shore management program, with particular attention to inconsistencies in implementation among the divisions and districts of the Corps of Engineers and complaints by or potential inequities regarding property owners in the Savannah District during the 5-year period preceding Aug. 17, 1999, and directed the Secretary to submit to Congress a report of the review by Aug. 17, 1999.
 
 #### Report on Shores of the United States ####
 

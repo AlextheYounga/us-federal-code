@@ -1,5 +1,7 @@
 ### §§63a to 63d. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 63a to 63d, act June 19, 1934, ch. 657, §§1–4, 48 Stat. 1116, which were transferred to sections 1314b to 1314e, respectively, of Title 48, Territories and Insular Possessions, were subsequently repealed by act Aug. 10, 1949, ch. 415, §9(d), 63 Stat. 597.

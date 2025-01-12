@@ -18,6 +18,8 @@ Section 77, R.S. §4830, related to sites for military homes and to the purchase
 
 Section 77a, act Feb. 20, 1929, ch. 272, §1, 45 Stat. 1248, related to a site for a home at Dayton, Ohio.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

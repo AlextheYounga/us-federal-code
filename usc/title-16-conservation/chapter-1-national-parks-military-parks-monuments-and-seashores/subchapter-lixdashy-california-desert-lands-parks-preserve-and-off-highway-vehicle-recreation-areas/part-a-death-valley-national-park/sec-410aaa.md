@@ -48,7 +48,7 @@ Pub. L. 106–423, Nov. 1, 2000, 114 Stat. 1875, provided that:
 
 #### "SEC. 3. PURPOSES. ####
 
-"Consistent with the recommendations of the report required by section 705(b) [now (c) of the California Desert Protection Act of 1994 [16 U.S.C. 410aaa–75(b) [now (c)]] (Public Law 103–433; 108 Stat. 4498), the purposes of this Act are—
+"Consistent with the recommendations of the report required by section 705(b) [now (c)] of the California Desert Protection Act of 1994 [16 U.S.C. 410aaa–75(b) [now (c)]] (Public Law 103–433; 108 Stat. 4498), the purposes of this Act are—
 
 "(1) to provide in trust to the Tribe land on which the Tribe can live permanently and govern the Tribe's affairs in a modern community within the ancestral homeland of the Tribe outside and within the Park;
 

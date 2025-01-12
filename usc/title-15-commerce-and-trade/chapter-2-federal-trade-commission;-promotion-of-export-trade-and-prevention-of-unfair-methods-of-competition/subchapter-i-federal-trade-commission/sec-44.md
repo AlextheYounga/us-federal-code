@@ -58,6 +58,8 @@ The Act entitled "An Act to supplement existing laws against unlawful restraints
 
 Pub. L. 109–455, §13, Dec. 22, 2006, 120 Stat. 3382, as amended by Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484; Pub. L. 116–173, §1, Oct. 20, 2020, 134 Stat. 837, provided that: "Effective September 30, 2027, this Act [enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 45, 46, 56, 57b–2, and 58 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section and section 58 of this title], and the amendments made by this Act, are repealed, and any provision of law amended by this Act shall be amended to read as if this Act had not been enacted into law."
 
+[Pub. L. 116–173, §1, which delayed the repeal of Pub. L. 109–455, and reversion of any amended text, by substituting "September 30, 2027" for "September 30, 2020" in section 13 of Pub. L. 109–455, set out above, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 116–173 was enacted on Oct. 20, 2020.]
+
 #### Effective Date of 2002 Amendment ####
 
 Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of this title.

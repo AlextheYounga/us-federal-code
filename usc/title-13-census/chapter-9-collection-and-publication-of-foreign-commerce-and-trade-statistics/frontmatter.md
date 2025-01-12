@@ -16,6 +16,8 @@ Sec.
 
 307. Relationship to general census law.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–228, div. B, title XIV, §1404(f)(2), Sept. 30, 2002, 116 Stat. 1456, added item 305 and struck out former item 305 "Violations, penalties".

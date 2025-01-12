@@ -38,6 +38,8 @@ Sec.
 
 718. Training; emergency response providers.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior analysis for part II of this title "COAST GUARD RESERVE AND AUXILIARY" preceded prior section 701 and consisted of items for chapter 21 "Coast Guard Reserve" beginning with section 701, chapter 23 "Coast Guard Auxiliary" beginning with section 821, and chapter 25 "General Provisions for Coast Guard Reserve and Auxiliary" beginning with section 891, prior to repeal by Pub. L. 115–282, title I, §111, Dec. 4, 2018, 132 Stat. 4215.

@@ -86,6 +86,8 @@ The annuity of any individual under subsection (a) of this section for any month
 
 (Aug. 29, 1935, ch. 812, §3, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1319; amended Pub. L. 95–216, title III, §358(a), Dec. 20, 1977, 91 Stat. 1556; Pub. L. 96–582, §1, Dec. 23, 1980, 94 Stat. 3374; Pub. L. 97–35, title XI, §1118, Aug. 13, 1981, 95 Stat. 630; Pub. L. 98–76, title I, §§101(a), 102(a), 107(a), (b), title IV, §§404(1), (2), 405(a), Aug. 12, 1983, 97 Stat. 411, 413, 418, 434, 435; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–90, title I, §§102(a), (c), 103(b), 104(a)(1), (2)(A), Dec. 21, 2001, 115 Stat. 879, 880, 882.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (a)(1), (f), (g), (h)(1) to (5), (i)(2), and (m), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -157,6 +159,8 @@ Pub. L. 97–35, §1118(h)(1), substituted "shall, after any reduction pursuant 
 **1980**—Subsec. (g). Pub. L. 96–582 designated existing provisions as subdiv. (1) and added subdiv. (2).
 
 **1977**—Subsec. (f)(1). Pub. L. 95–216 substituted "Wages and self-employment income included as compensation for purposes of this subdivision shall, in the absence of evidence to the contrary, be presumed to have been paid in equal proportions with respect to all months in the calendar quarter in which credited, in the case of wages paid before 1978, or in equal proportions with respect to all months in the calendar year in which credited, in the case of self-employment income and in the case of wages paid after 1977" for "Wages and self-employment income included as compensation for purposes of this subdivision shall, in the absence of evidence to the contrary, be presumed to have been paid in equal proportions with respect to all months in the calendar quarter in which credited in the case of wages, or in equal proportions with respect to all months in the calendar year in which credited, in the case of self-employment income".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2001 Amendment ####
 

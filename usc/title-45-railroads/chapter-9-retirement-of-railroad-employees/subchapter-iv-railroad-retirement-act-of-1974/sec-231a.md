@@ -134,6 +134,8 @@ An individual entitled to an annuity under this section who has completed five y
 
 (Aug. 29, 1935, ch. 812, §2, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1312; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XI, §1117, Aug. 13, 1981, 95 Stat. 628; Pub. L. 98–76, title I, §§104(a), (b), 106(a)–(g), title IV, §§409(a), 413(a), 414(a), 415, Aug. 12, 1983, 97 Stat. 416–418, 435, 436; Pub. L. 100–647, title VII, §§7302(a), (b), 7303(a), Nov. 10, 1988, 102 Stat. 3777, 3778; Pub. L. 107–90, title I, §103(a), (c), (d), Dec. 21, 2001, 115 Stat. 880; Pub. L. 109–280, title X, §1002(a), Aug. 17, 2006, 120 Stat. 1053; Pub. L. 109–478, §2(a), Jan. 12, 2007, 120 Stat. 3573.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (c)(4), (d)(1)(iv), (f)(1), (2), (4), and (i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -215,6 +217,8 @@ Subsec. (f)(3) to (5). Pub. L. 97–35, §1117(e)(2), added subdivs. (3) to (5).
 Subsec. (g)(2). Pub. L. 97–35, §1117(f), substituted "such survivor would be charged with" for "such survivor is under the age of seventy-two and is charged with".
 
 Subsec. (h). Pub. L. 97–35, §1117(g), substituted "the spouse or divorced wife of such individual" for "the spouse of such individual" in subdiv. (1), and "If a spouse or divorced wife entitled" for "If a spouse entitled" in subdiv. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -6,6 +6,8 @@ Section 213, acts June 23, 1874, ch. 465, §2, 18 Stat. 251; July 1, 1916, ch. 2
 
 Section 214, act June 23, 1874, ch. 465, §3, 18 Stat. 252, related to return of transferred insane convicts and prisoners to prison on restoration of their sanity.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.

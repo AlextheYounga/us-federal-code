@@ -33,3 +33,5 @@ Sec.
 669j. Repealed.
 
 669k. Reports and certifications.
+
+669l. Value of land.

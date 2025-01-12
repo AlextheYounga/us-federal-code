@@ -66,6 +66,8 @@ During the service coordination period, the District of Columbia and the Secreta
 
 (Pub. L. 98–621, §4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§2, 3(a), Oct. 31, 1991, 105 Stat. 980; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 422 of the District of Columbia Home Rule Act, referred to in subsec. (b)(3), is section 422 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 790, as amended, which is not classified to the Code.
@@ -81,6 +83,8 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 Subsec. (f)(2)(A). Pub. L. 102–150, §§2(1), 3(a), substituted "and, except as provided under an agreement entered into pursuant to subparagraph (C), complete" for "and complete" and "October 1, 1993" for "October 1, 1991".
 
 Subsec. (f)(2)(C). Pub. L. 102–150, §2(2), added subpar. (C).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

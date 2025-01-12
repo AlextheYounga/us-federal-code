@@ -8,6 +8,8 @@ Section 73, act June 29, 1906, ch. 3594, §3, 34 Stat. 608, provided penalty for
 
 Section 74, acts June 29, 1906, ch. 3594, §4, 34 Stat. 608; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167, provided that penalty created by section 73 of this title was recoverable by civil action and that United States attorneys had duty to prosecute violations of this chapter. See section 80502 of Title 49.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act June 29, 1906, ch. 3594, 34 Stat. 607, which enacted this chapter and which was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, was popularly known as the "Live Stock Transportation Act" and also as the "Cruelty to Animals Act", "Twenty-Eight Hour Law", and "Food and Rest Law".

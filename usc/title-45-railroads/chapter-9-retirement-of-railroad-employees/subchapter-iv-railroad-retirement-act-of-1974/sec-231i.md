@@ -18,6 +18,8 @@ No certifying or disbursing officer shall be held liable for any amount certifie
 
 (Aug. 29, 1935, ch. 812, §10, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1344; amended Pub. L. 97–35, title XI, §1123, Aug. 13, 1981, 95 Stat. 638.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Railroad Unemployment Insurance Act, referred to in subsecs. (a) and (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
@@ -27,6 +29,8 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 #### Amendments ####
 
 **1981**—Subsec. (a). Pub. L. 97–35 inserted provisions authorizing Board to recover from any payment which would be made to an individual by Board under section 231f(b)(2) of this title amount of annuity payments made to such individual which are erroneous because of such individual's entitlement to monthly insurance benefits under title II of the Social Security Act.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

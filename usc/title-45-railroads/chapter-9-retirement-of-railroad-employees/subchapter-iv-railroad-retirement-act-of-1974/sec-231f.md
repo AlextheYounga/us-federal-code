@@ -80,6 +80,8 @@ Whenever the Board submits or transmits any budget estimate, budget request, sup
 
 (Aug. 29, 1935, ch. 812, §7, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1338; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–101, §10(h), Nov. 4, 1979, 93 Stat. 742; Pub. L. 96–254, title I, §106(f), May 30, 1980, 94 Stat. 402, as amended Pub. L. 96–448, title VII, §701(b)(1), Oct. 14, 1980, 94 Stat. 1960; Pub. L. 96–265, title I, §103(a)(4), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §930(r), Dec. 5, 1980, 94 Stat. 2633; Pub. L. 97–35, title XI, §1122, Aug. 13, 1981, 95 Stat. 638; Pub. L. 97–248, title I, §122(a)(2), Sept. 3, 1982, 96 Stat. 356; Pub. L. 98–76, title III, §301(a), title IV, §416, Aug. 12, 1983, 97 Stat. 430, 436; Pub. L. 98–369, div. B, title III, §2349(b)(2), July 18, 1984, 98 Stat. 1097; Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329; Pub. L. 107–90, title I, §§103(i)(2), 104(a)(2)(B), 106(a), 107(e), (f), Dec. 21, 2001, 115 Stat. 882, 887, 889; Pub. L. 108–173, title I, §101(e)(1), Dec. 8, 2003, 117 Stat. 2150; Pub. L. 109–305, §2, Oct. 6, 2006, 120 Stat. 1719.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Railroad Retirement Act of 1937, referred to in subsecs. (a) and (d)(2)(ii), is act Aug. 29, 1935, ch. 812, as amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, which was classified principally to subchapter III (§228a et seq.) of this chapter. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974 is classified generally to this subchapter. For complete classification of these Acts to the Code, see Tables.
@@ -152,6 +154,8 @@ Subsec. (d)(2)(ii). Pub. L. 96–265 substituted "24 months" and "24 calendar mo
 
 **1979**—Subsec. (b)(7). Pub. L. 96–101 substituted "Notwithstanding any other provision of law, the Secretary" for "The Secretary" and inserted "and the Milwaukee Railroad Restructuring Act" after "administration of this subchapter".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (b)(7), (c)(2), and (d)(4) and (5) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
@@ -196,10 +200,6 @@ Pub. L. 93–445, title VI, §602(e), Oct. 16, 1974, 88 Stat. 1361, provided tha
 
 Section 106(f) of Pub. L. 96–254, cited as a credit to this section, was omitted in the complete revision of section 106 of Pub. L. 96–254 by Pub. L. 97–468, title II, §231, Jan. 14, 1983, 96 Stat. 2543.
 
-#### Transfer of Functions ####
-
-"Fiscal Service" substituted for "Division of Disbursements" in subsec. (b)(4) on authority of section 1(a)(1) of 1940 Reorg. Plan No. III, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Treasury Department. See section 306 of Title 31, Money and Finance.
-
 #### Limitation on the Office of Inspector General ####
 
 Pub. L. 110–161, div. G, title IV, Dec. 26, 2007, 121 Stat. 2206, provided in part: "That funds made available under the heading in this Act [the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008, Pub. L. 110–161, div. G, see Tables for classification], or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be used for any audit, investigation, or review of the Medicare Program."
@@ -215,6 +215,12 @@ Pub. L. 104–208, div. A, title I, §101(e) [title IV], Sept. 30, 1996, 110 Sta
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, §101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+"Fiscal Service" substituted for "Division of Disbursements" in subsec. (b)(4) on authority of section 1(a)(1) of 1940 Reorg. Plan No. III, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Treasury Department. See section 306 of Title 31, Money and Finance.
 
 #### Delegation of Reporting Authority ####
 

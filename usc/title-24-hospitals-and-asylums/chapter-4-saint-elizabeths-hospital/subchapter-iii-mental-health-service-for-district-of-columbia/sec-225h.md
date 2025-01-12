@@ -28,6 +28,8 @@ If it has been finally determined by a court or Federal agency that any person i
 
 (Pub. L. 98–621, §11, as added Pub. L. 102–150, §4(2), Oct. 31, 1991, 105 Stat. 981.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Title III of the Act entitled "An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes", approved March 3, 1933, referred to in subsec. (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of title III to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.

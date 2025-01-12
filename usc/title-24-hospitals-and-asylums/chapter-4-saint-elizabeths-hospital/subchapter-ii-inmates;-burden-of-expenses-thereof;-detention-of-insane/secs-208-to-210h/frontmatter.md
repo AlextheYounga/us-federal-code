@@ -22,6 +22,8 @@ Section 210g, act Oct. 11, 1949, ch. 672, §7, 63 Stat. 761, related to persons 
 
 Section 210h, act Oct. 11, 1949, ch. 672, §8, 63 Stat. 761, related to payment of expenses of transfer to state hospitals or to the custody of relatives.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1966, see section 7 of Pub. L. 89–183, Sept. 14, 1965, 79 Stat. 780.

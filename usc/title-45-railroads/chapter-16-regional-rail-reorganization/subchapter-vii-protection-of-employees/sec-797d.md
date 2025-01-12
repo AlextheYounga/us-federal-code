@@ -16,6 +16,8 @@ Any benefits received by an employee under an agreement entered into pursuant to
 
 (Pub. L. 93–236, title VII, §705, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 664.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 797 of this title, referred to in subsecs. (a)(1) and (b), was repealed by Pub. L. 99–509, title IV, §4024(c), Oct. 21, 1986, 100 Stat. 1904, effective on the sale date (Apr. 2, 1987).

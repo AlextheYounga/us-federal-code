@@ -44,6 +44,8 @@
 
 For termination of section by section 4(b) of Pub. L. 97–454, see Effective and Termination Date note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this section, referred to in subsec. (b), is Jan. 12, 1983, see Effective and Termination Date note set out below.
@@ -59,6 +61,8 @@ Section 3(a) of the Small Business Act, referred to in subsec. (d)(4)(A), is cla
 **1995**—Subsec. (d). Pub. L. 104–13 added subsec. (d).
 
 **1986**—Subsec. (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1995 Amendment ####
 

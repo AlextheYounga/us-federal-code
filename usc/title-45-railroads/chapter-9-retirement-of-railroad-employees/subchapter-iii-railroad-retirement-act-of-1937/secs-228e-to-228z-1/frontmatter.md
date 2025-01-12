@@ -1,5 +1,7 @@
 ### §§228e to 228z–1. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 228e to 228z–1 were omitted pursuant to the amendment and revision of act Aug. 29, 1935, ch. 812, by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974.
@@ -57,6 +59,8 @@ Section 228y, act Oct. 30, 1951, ch. 632, §25(i), 65 Stat. 691, related to cert
 Section 228z, act Aug. 7, 1956, ch. 1022, §3, 70 Stat. 1076, related to increased pensions and annuities awarded before July 1, 1956 and annuities under subchapter II of this chapter.
 
 Section 228z–1, Pub. L. 86–28, pt. I, §5, May 19, 1959, 73 Stat. 28, related to additional increases in certain pensions and annuities.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Actuarial Soundness of the Railroad Retirement System ####
 

@@ -16,9 +16,13 @@ Changes were made in phraseology.
 
 For remainder of sections 111, 123, 204, 216, and 251 of title 13, U.S.C., 1952 ed., and of section 1442 of title 42, U.S.C., 1952 ed. (which has been transferred in its entirety to this revised title), see Distribution Table.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–521 substituted "Questionnaires" for "Schedules" in section catchline and in text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

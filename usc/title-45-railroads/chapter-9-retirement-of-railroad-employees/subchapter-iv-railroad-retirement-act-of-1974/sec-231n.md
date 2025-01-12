@@ -210,6 +210,8 @@ The National Railroad Retirement Investment Trust shall from time to time transf
 
 (Aug. 29, 1935, ch. 812, §15, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1346; amended Pub. L. 94–92, title II, §201(a)–(d), Aug. 9, 1975, 89 Stat. 464, 465; Pub. L. 94–547, §3(a), Oct. 18, 1976, 90 Stat. 2525; Pub. L. 97–34, title VII, §742, Aug. 13, 1981, 95 Stat. 348; Pub. L. 97–35, title XI, §§1124, 1127(a), Aug. 13, 1981, 95 Stat. 639, 641; Pub. L. 98–76, title III, §301(b), title IV, §§401(a), 417(a), Aug. 12, 1983, 97 Stat. 431, 433, 437; Pub. L. 107–90, title I, §§105(a), (b), 106(b), (c), 107(a), (b), (d), Dec. 21, 2001, 115 Stat. 882, 886–889; Pub. L. 108–203, title IV, §426(a)–(d), (f), Mar. 2, 2004, 118 Stat. 537, 538.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 4 and 15 of the Railroad Retirement Act of 1937, referred to in subsecs. (a) and (b)(1), which were classified to sections 228c–1 and 228o of this title, have been omitted from the Code.
@@ -280,6 +282,8 @@ Subsec. (c). Pub. L. 94–92, §201(c), substituted in second sentence "is hereb
 
 Subsec. (h). Pub. L. 94–92, §201(d), added subsec. (h).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2001 Amendment ####
 
 Pub. L. 107–90, title I, §105(d), Dec. 21, 2001, 115 Stat. 887, provided that: "The amendments made by this section [amending this section] shall take effect on the first day of the month that begins more than 30 days after enactment [Dec. 21, 2001]."
@@ -340,7 +344,7 @@ Pub. L. 100–203, title IX, §9033, Dec. 22, 1987, 101 Stat. 1330–296, as ame
 
 #### Section 72(r) Revenue Increase Transferred to Certain Railroad Retirement Accounts ####
 
-Section 224(c) of Pub. L. 98–76, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9034, Dec. 22, 1987, 101 Stat. 1330–299; Pub. L. 101–239, title X, §10102, Dec. 19, 1989, 103 Stat. 2471; Pub. L. 101–508, title V, §5126, Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 103–296, title III, §317, Aug. 15, 1994, 108 Stat. 1532, provided that:
+Pub. L. 98–76, title II, §224(c), Aug. 12, 1983, 97 Stat. 423, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9034, Dec. 22, 1987, 101 Stat. 1330–299; Pub. L. 101–239, title X, §10102, Dec. 19, 1989, 103 Stat. 2471; Pub. L. 101–508, title V, §5126, Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 103–296, title III, §317, Aug. 15, 1994, 108 Stat. 1532, provided that:
 
 "(1) In general.—
 
@@ -356,7 +360,7 @@ Section 224(c) of Pub. L. 98–76, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 #### Tax Used To Repay Loans Made to Railroad Unemployment Insurance Account ####
 
-Section 232 of Pub. L. 98–76, as amended by Pub. L. 99–272, title XIII, §13301(c), Apr. 7, 1986, 100 Stat. 326; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VII, §7106(c)(6), (7), Nov. 10, 1988, 102 Stat. 3774; Pub. L. 101–508, title XI, §11704(a)(40), Nov. 5, 1990, 104 Stat. 1388–520, provided that:
+Pub. L. 98–76, title II, §232, Aug. 12, 1983, 97 Stat. 429, as amended by Pub. L. 99–272, title XIII, §13301(c), Apr. 7, 1986, 100 Stat. 326; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VII, §7106(c)(6), (7), Nov. 10, 1988, 102 Stat. 3774; Pub. L. 101–508, title XI, §11704(a)(40), Nov. 5, 1990, 104 Stat. 1388–520, provided that:
 
 "(a) Transfer to Railroad Retirement Account.—
 
@@ -400,4 +404,4 @@ Pub. L. 98–21, title I, §123(b)(5), Apr. 20, 1983, 97 Stat. 89, as amended by
 
 #### Analysis of Options That Will Assure Long-Term Financial Integrity of the Railroad Retirement System: Report and Recommendations to Congress ####
 
-Section 1126(a) of Pub. L. 97–35 directed President, not later than Oct. 1, 1982, to analyze options that would assure long-term financial integrity of railroad retirement system and report to Congress results of such analysis, together with recommendations with respect to such options and such comments as may have been submitted by representatives of railroad labor and management.
+Pub. L. 97–35, title XI, §1126(a), Aug. 13, 1981, 95 Stat. 639, directed President, not later than Oct. 1, 1982, to analyze options that would assure long-term financial integrity of railroad retirement system and report to Congress results of such analysis, together with recommendations with respect to such options and such comments as may have been submitted by representatives of railroad labor and management.

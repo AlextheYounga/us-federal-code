@@ -1,5 +1,7 @@
 ### §§283 to 285. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 283, R.S. §4879, related to the military cemetery near Mexico City. See section 2111 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.

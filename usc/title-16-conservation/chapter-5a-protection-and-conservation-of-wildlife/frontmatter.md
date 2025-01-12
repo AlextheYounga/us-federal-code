@@ -60,6 +60,8 @@ Sec.
 
 667g–2. Authorization of appropriations for reimbursement of Commodity Credit Corporation.
 
+667h. Chronic wasting disease task force.
+
 #### SUBCHAPTER II—PROTECTION OF BALD AND GOLDEN EAGLES ####
 
 668. Bald and golden eagles.

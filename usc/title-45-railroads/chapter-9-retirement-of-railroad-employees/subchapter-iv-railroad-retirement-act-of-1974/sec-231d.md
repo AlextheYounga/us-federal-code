@@ -52,6 +52,8 @@ For purposes of the payment of benefits under this subchapter, the death of an i
 
 (Aug. 29, 1935, ch. 812, §5, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1332; amended Pub. L. 97–35, title XI, §1120, Aug. 13, 1981, 95 Stat. 636; Pub. L. 98–76, title I, §§103(a), 104(c), 106(i), (j), Aug. 12, 1983, 97 Stat. 415, 416, 418; Pub. L. 107–90, title I, §103(f), Dec. 21, 2001, 115 Stat. 881; Pub. L. 109–280, title X, §1003(a), Aug. 17, 2006, 120 Stat. 1053; Pub. L. 110–458, title I, §110(a)(2), Dec. 23, 2008, 122 Stat. 5112.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -87,6 +89,8 @@ Subsec. (b). Pub. L. 97–35, §1120(b), substituted "title II of the Social Sec
 Subsec. (c)(3). Pub. L. 97–35, §1120(c), inserted provision that entitlement of the divorced wife of an individual to an annuity under section 231a(c) shall end on the last day of the month preceding the month in which (A) the divorced wife or the individual dies or (B) the divorced wife remarries.
 
 Subsec. (c)(9). Pub. L. 97–35, §1120(d), added subdiv. (9).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

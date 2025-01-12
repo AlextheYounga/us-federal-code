@@ -4,6 +4,8 @@ The 15 percent limitation contained in section 322 <sup><a href="#15_1_target" 
 
 (Added Pub. L. 96–52, §1(a), Aug. 13, 1979, 93 Stat. 358; amended Pub. L. 108–178, §4(c), Dec. 15, 2003, 117 Stat. 2641.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 322 of the Act of June 30, 1932 (47 Stat. 412), referred to in text, was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
@@ -11,6 +13,8 @@ Section 322 of the Act of June 30, 1932 (47 Stat. 412), referred to in text, was
 #### Amendments ####
 
 **2003**—Pub. L. 108–178 struck out "; 40 U.S.C. 278a" after "47 Stat. 412".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2003 Amendment ####
 

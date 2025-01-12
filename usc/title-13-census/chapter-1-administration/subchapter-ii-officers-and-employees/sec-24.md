@@ -36,6 +36,8 @@ Changes were made in phraseology and arrangement.
 
 Remainder of section 203 of title 13, U.S.C., 1952 ed., is incorporated in this subchapter, and for remainder of sections 111, 122 and 252 thereof, and of section 1442 of title 42, U.S.C., 1952 ed. (which has been transferred in its entirety to this revised title), see Distribution Table.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Title VII of the Classification Act of 1949, as amended, referred to in subsec. (a), is title VII of act Oct. 28, 1949, ch. 872, 63 Stat. 967, as amended, which was classified to sections 1121 to 1123 of former Title 5, Executive Departments and Government Officers and Employees, and was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as sections 5335 and 5336 of Title 5, Government Organization and Employees.
@@ -47,6 +49,8 @@ Section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), referred
 **1964**—Subsec. (f). Pub. L. 88–535 added subsec. (f).
 
 **1960**—Pub. L. 86–769 amended section generally, and among other changes, permitted the utilization of nontemporary employees in temporary service, and their return, when the Secretary so determines, to a continuing position with rank and compensation not less than that of their last permanent position, with no loss of protection of any law or regulation with respect to their separation, suspension, furlough or reduction in rank or compensation below their last permanent position, provided that service by nontemporary employees in temporary positions is creditable for step-increases as though a continuation of their last permanent positions, defined "temporary", and provided for payments to enumerators for the use of private automobiles on official business.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Salary Protection for Employees Subject to Classification Act of 1949 ####
 

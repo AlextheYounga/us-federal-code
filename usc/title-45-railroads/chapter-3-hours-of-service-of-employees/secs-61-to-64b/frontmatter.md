@@ -14,6 +14,8 @@ Section 64a, acts Mar. 4, 1907, ch. 2939, §5, 34 Stat. 1417; Dec. 26, 1969, Pub
 
 Section 64b, act Mar. 4, 1907, ch. 2939, §6, as added Dec. 26, 1969, Pub. L. 91–169, §1, 83 Stat. 465, provided that Secretary of Transportation was to have duty to carry out provisions of this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act Mar. 4, 1907, ch. 2939, 34 Stat. 1415, which enacted this chapter and which was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, was popularly known as the "Hours of Service Act".

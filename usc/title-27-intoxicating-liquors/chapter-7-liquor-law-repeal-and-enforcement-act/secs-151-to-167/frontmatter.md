@@ -1,5 +1,7 @@
 ### §§151 to 167. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections contained provisions which were incorporated in various sections of the Internal Revenue Code of 1939. For distribution of the Internal Revenue Code of 1939 to the Internal Revenue Code of 1986, see Table I preceding section 1 of Title 26, Internal Revenue Code.

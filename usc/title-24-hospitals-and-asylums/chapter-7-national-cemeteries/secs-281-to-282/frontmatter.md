@@ -18,6 +18,8 @@ Section 281g, act Aug. 10, 1950, ch. 672, §§1, 2, 64 Stat. 434, provided for e
 
 Section 282, act Aug. 24, 1912, ch. 355, §1, 37 Stat. 440, provided for burial of Confederate veterans.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.

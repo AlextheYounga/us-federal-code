@@ -4,6 +4,8 @@ Section 65, act Sept. 3, 5, 1916, ch. 436, §1, 39 Stat. 721, established eight 
 
 Section 66, act Sept. 3, 5, 1916, ch. 436, §4, 39 Stat. 722, provided penalty for violation of section 65 of this title. See section 28302 of Title 49, Transportation.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act Sept. 3, 5, 1916, ch. 436, 39 Stat. 721, which enacted sections 65 and 66 of this title, was popularly known as the "Adamson Law".

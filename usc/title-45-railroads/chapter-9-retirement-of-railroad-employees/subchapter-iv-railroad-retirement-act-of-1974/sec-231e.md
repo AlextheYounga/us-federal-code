@@ -64,6 +64,8 @@ if that divorced wife makes an election to repay to the Board the lump sum payme
 
 (Aug. 29, 1935, ch. 812, §6, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1334; amended Pub. L. 97–35, title XI, §1121, Aug. 13, 1981, 95 Stat. 637; Pub. L. 98–76, title IV, §408, Aug. 12, 1983, 97 Stat. 435; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VII, §7301, Nov. 10, 1988, 102 Stat. 3776; Pub. L. 105–277, div. A, §101(f) [title VII, §709(a)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–391; Pub. L. 107–90, title I, §103(i)(1), (4), Dec. 21, 2001, 115 Stat. 882.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -97,6 +99,8 @@ Subsec. (c)(1). Pub. L. 97–35, §1121(c)(1), inserted provision that after a l
 Subsec. (c)(2). Pub. L. 97–35, §1121(c)(3), substituted "spouse or divorced wife" for "spouse".
 
 Pub. L. 97–35, §1121(c)(2), substituted "any supplemental annuity payments made to the employee under section 231a(b) of this title or section 3(j) of the Railroad Retirement Act of 1937, any amounts" for "any amounts".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2001 Amendment ####
 

@@ -16,6 +16,8 @@ Section 276, R.S. §4875; act July 30, 1912, ch. 258, 37 Stat. 240, provided for
 
 Subject matter is generally covered by section 2400 et seq. of Title 38, Veterans' Benefits. See sections 2404 and 2406 of Title 38.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.

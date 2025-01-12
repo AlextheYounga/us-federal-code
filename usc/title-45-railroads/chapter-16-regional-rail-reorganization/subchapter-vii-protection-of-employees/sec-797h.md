@@ -10,6 +10,8 @@ All cases or claims by employees or their personal representatives for personal 
 
 (Pub. L. 93–236, title VII, §709, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 666.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Abolition of United States Railway Association and Transfer of Functions and Securities ####
 
 See section 1341 of this title.

@@ -253,7 +253,7 @@ Subtitle II—Patriotic and National Organizations
 
 2203. United States Capitol Historical Society 220301
 
-2205. United States Olympic Committee 220501
+2205. United States Olympic and Paralympic Committee 220501
 
 2207. United States Submarine Veterans of World War II 220701
 
@@ -285,6 +285,8 @@ Subtitle III—Treaty Obligation Organizations
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–189, §4(b), Oct. 30, 2020, 134 Stat. 946, which directed amendment of analysis for part B of subtitle II of this title by substituting "United States Olympic and Paralympic Committee" for "United States Olympic Committee" in item for chapter 2205, was executed by making the substitution in this analysis to reflect the probable intent of Congress.
 
 **2014**—Pub. L. 113–237, §3(a)(1), Dec. 18, 2014, 128 Stat. 2833, added complete analysis and struck out former analysis which consisted only of items for subtitles I to III.
 

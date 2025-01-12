@@ -10,6 +10,8 @@ Act July 1, 1898, ch. 546, 30 Stat. 597, which was set out as a note under secti
 
 Section 96, act Mar. 3, 1901, ch. 853, §1, 31 Stat. 1178, provided for designation of an officer to act in absence of treasurer or quartermaster at any of branch homes of National Home for Disabled Volunteer Soldiers.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

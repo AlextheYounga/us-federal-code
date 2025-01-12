@@ -6,6 +6,8 @@ Section 49, R.S. §§4814, 4821, related to persons entitled to membership in an
 
 Section 50, R.S. §4822, related to persons excluded from benefits of Soldiers' Home.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of this title.

@@ -1,5 +1,7 @@
 ### §§215 to 228. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 215 to 228 were omitted pursuant to the amendment and revision of act Aug. 29, 1935, ch. 812 by act June 24, 1937, ch. 382, 50 Stat. 307, known as the Railroad Retirement Act of 1937.
@@ -31,6 +33,8 @@ Section 226, act Aug. 29, 1935, ch. 812, §12, 49 Stat. 973, related to separabi
 Section 227, act Aug. 29, 1935, ch. 812, §13, 49 Stat. 973, related to authorization of appropriations under this subchapter.
 
 Section 228, act Aug. 29, 1935, ch. 812, §14, 49 Stat. 973, related to short title of this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effect of Amendments to Section 215 of This Title ####
 

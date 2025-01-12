@@ -44,6 +44,8 @@ Any dispute, grievance, or claim arising under this section, section 797b of thi
 
 (Pub. L. 93–236, title VII, §704, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 663; amended Pub. L. 97–468, title II, §235, Jan. 14, 1983, 96 Stat. 2547; Pub. L. 99–272, title IV, §4011(a), (b), Apr. 7, 1986, 100 Stat. 108, 109.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Subsec. (c). Pub. L. 99–272, §4011(a), designated existing provisions as par. (1) and added par. (2).
@@ -53,6 +55,8 @@ Subsec. (f). Pub. L. 99–272, §4011(b), substituted "6-year" for "4-year".
 **1983**—Subsec. (f). Pub. L. 97–468, §235(a), substituted "4-year" for "3-year".
 
 Subsec. (g). Pub. L. 97–468, §235(b), substituted "this section, section 797b of this title, section 907 of this title, or section 1004 of this title" for "this section or section 797b of this title" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

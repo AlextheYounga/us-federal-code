@@ -8,6 +8,8 @@ Acts Aug. 1, 1939, ch. 408, §2, 53 Stat. 1145; Dec. 17, 1943, ch. 347, §2, 57 
 
 Section 135, act June 7, 1924, ch. 295, §2, 43 Stat. 534, enumerated persons entitled to admission to hospital erected at Pacific branch of National Home for Disabled Volunteer Soldiers.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

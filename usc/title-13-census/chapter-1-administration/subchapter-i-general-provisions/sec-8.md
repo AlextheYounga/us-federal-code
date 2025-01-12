@@ -20,6 +20,8 @@ References to the Secretary, meaning the Secretary of Commerce, were substituted
 
 Changes were made in phraseology and arrangement.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–521 substituted "Authenticated transcripts or copies" for "Certified copies" in section catchline.
@@ -33,6 +35,8 @@ Subsec. (c). Pub. L. 94–521 struck out "the authority of" after "furnished und
 **1957**—Subsec. (b). Pub. L. 85–207, §4(a), inserted sentence at end respecting engagement in joint statistical projects.
 
 Subsec. (d). Pub. L. 85–207, §4(b), required the deposit in a separate account of moneys received in payment for work or services, previously credited to an appropriation for collecting statistics, and permitted certain uses of such account.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

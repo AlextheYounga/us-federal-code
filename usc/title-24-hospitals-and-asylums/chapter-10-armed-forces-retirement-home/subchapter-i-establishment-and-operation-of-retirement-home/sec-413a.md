@@ -36,6 +36,8 @@ In carrying out the responsibilities set forth in subsection (b) and the duties 
 
 (Pub. L. 101–510, div. A, title XV, §1513A, as added Pub. L. 110–181, div. A, title XIV, §1422(d)(1), Jan. 28, 2008, 122 Stat. 420; amended Pub. L. 112–81, div. A, title V, §§562, 567(c)(3), Dec. 31, 2011, 125 Stat. 1420, 1426; Pub. L. 113–291, div. A, title VII, §721, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 115–91, div. A, title XIV, §1413(a)(1), Dec. 12, 2017, 131 Stat. 1707; Pub. L. 115–232, div. A, title XIV, §1413, Aug. 13, 2018, 132 Stat. 2092.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (c)(1). Pub. L. 115–232, §1413(1), added par. (1) and struck out former par. (1) which read as follows: "Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home."

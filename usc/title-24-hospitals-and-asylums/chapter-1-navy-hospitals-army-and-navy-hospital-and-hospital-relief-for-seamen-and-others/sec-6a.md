@@ -4,9 +4,13 @@ Pensions of inmates of a naval hospital, required by law prior to July 1, 1943, 
 
 (June 15, 1943, ch. 125, §3, 57 Stat. 153; Pub. L. 101–510, div. A, title XV, §1533(c)(2), Nov. 5, 1990, 104 Stat. 1736.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–510 struck out "naval home or" before "naval hospital".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1990 Amendment ####
 

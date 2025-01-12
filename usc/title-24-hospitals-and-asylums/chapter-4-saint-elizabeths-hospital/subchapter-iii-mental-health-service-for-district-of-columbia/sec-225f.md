@@ -16,9 +16,13 @@ On October 1, 1985, the Secretary shall transfer to the District, without compen
 
 (Pub. L. 98–621, §8, Nov. 8, 1984, 98 Stat. 3377; Pub. L. 102–150, §3(b), Oct. 31, 1991, 105 Stat. 980.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Subsec. (b). Pub. L. 102–150 substituted "October 1, 1992" for "October 1, 1991" and "2-year" for "twelve-month".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

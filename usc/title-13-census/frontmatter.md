@@ -78,11 +78,15 @@ Chap. Sec.
 |                252                |            6, 9, 24, 162, 211, 212, 213, 214            |
 |                253                |                          Rep.                           |
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–533, §5(b)(1), Nov. 7, 1990, 104 Stat. 2348, added item for chapter 10.
 
 **1962**—Pub. L. 87–826, §1, Oct. 15, 1962, 76 Stat. 951, added item for chapter 9.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Positive Law; Citation ####
 

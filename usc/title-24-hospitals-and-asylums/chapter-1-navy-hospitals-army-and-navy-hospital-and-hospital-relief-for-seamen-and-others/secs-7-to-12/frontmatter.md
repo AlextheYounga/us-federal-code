@@ -14,6 +14,8 @@ Section 11a, R.S. §4805; acts Mar. 3, 1875, ch. 156, §6, 18 Stat. 486; 1939 Re
 
 Section 12, R.S. §4804, provided for exclusion of employees on canal boats in coasting trade from hospital care. See section 249 of Title 42.
 
+#### **Editorial Notes** ####
+
 #### Renumbering of Repealing Act ####
 
 For renumbering of act July 1, 1944, which repealed these sections, see note set out under sections 1, 2 of this title.

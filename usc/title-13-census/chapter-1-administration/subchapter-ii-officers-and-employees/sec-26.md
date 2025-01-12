@@ -4,6 +4,8 @@ The Secretary may contract with field employees for the rental and use within th
 
 (Added Pub. L. 85–207, §6, Aug. 28, 1957, 71 Stat. 482.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), referred to in text, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5704 of Title 5, Government Organization and Employees.

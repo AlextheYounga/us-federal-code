@@ -6,6 +6,8 @@ Under this chapter an action may be brought in a district court of the United St
 
 (Apr. 22, 1908, ch. 149, §6, 35 Stat. 66; Apr. 5, 1910, ch. 143, §1, 36 Stat. 291; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Aug. 11, 1939, ch. 685, §2, 53 Stat. 1404; June 25, 1948, ch. 646, §18, 62 Stat. 989.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The first par. of this section is from act Apr. 22, 1908.
@@ -17,6 +19,8 @@ The second par. of this section is from act Apr. 5, 1910.
 **1948**—Act June 25, 1948, struck out provision in last sentence relating to removal of actions.
 
 **1939**—Act Aug. 11, 1939, changed limitation in first sentence from two to three years.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

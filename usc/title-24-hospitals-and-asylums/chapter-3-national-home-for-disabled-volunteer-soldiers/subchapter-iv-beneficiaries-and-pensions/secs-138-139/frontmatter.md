@@ -4,6 +4,8 @@ Section 138, acts Feb. 26, 1881, ch. 80, §2, 21 Stat. 350; Aug. 7, 1882, ch. 43
 
 Section 139, act July 1, 1902, ch. 1351, §1, 32 Stat. 564, related to disposition of balance of pension money due deceased inmates of National Home for Disabled Volunteer Soldiers.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

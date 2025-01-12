@@ -4,6 +4,8 @@ The provisions of the Railroad Unemployment Insurance Act, as herein amended, sh
 
 (June 20, 1939, ch. 227, §22, 53 Stat. 848.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 367 of this title and Tables.

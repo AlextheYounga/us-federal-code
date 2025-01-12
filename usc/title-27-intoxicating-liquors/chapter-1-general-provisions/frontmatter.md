@@ -1,5 +1,7 @@
 ### **CHAPTER 1—GENERAL PROVISIONS** ###
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effect of 21st Amendment; Extent of Repeal of Title II of National Prohibition Act ####
 
 Act Oct. 28, 1919, ch. 85, 41 Stat. 305, as amended and supplemented, known as the National Prohibition Act, was included in chapters 1, 2, 3, and 4 of this title. Such provisions of that act and subsequent legislation as were dependent upon the 18th Amendment to the United States Constitution became inoperative by adoption of the 21st Amendment to the Constitution on Dec. 5, 1933, repealing the 18th Amendment.

@@ -30,6 +30,8 @@ Changes were made in phraseology.
 
 For remainder of sections 122, 208, and 252 of title 13, U.S.C., 1952 ed., and of section 1442 of title 42, U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 210 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (a), is section 210 of Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2483, which amended this section and enacted provisions set out as a note under section 141 of this title.

@@ -16,6 +16,8 @@ The provisions have been reworded to make it clear that they relate to all stati
 
 For remainder of section 1442 of title 42, U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Director of the Government Publishing Office" substituted for "Public Printer" in section catchline and in two places in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.

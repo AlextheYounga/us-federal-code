@@ -40,6 +40,8 @@ Sec.
 
 2319. Critical skill training bonus.
 
+#### **Editoral Notes** ####
+
 #### Prior Provisions ####
 
 A prior analysis for chapter 23 "COAST GUARD AUXILIARY" consisted of items 821 "Administration of the Coast Guard Auxiliary", 822 "Purpose of the Coast Guard Auxiliary", 823 "Eligibility; enrollments", 823a "Members of the Auxiliary; status", 824 "Disenrollment", 825 "Membership in other organizations", 826 "Use of member's facilities", 827 "Vessel deemed public vessel", 828 "Aircraft deemed public aircraft", 829 "Radio station deemed government station", 830 "Availability of appropriations", 831 "Assignment and performance of duties", and 832 "Injury or death in line of duty", prior to repeal by Pub. L. 115–282, title I, §113(a), Dec. 4, 2018, 132 Stat. 4221.

@@ -8,6 +8,8 @@ Section 27, act Mar. 3, 1919, ch. 98, §2, 40 Stat. 1302, provided for transfer 
 
 Section 28, acts Mar. 3, 1919, ch. 98, §3, 40 Stat. 1303; Mar. 4, 1921, ch. 156, 41 Stat. 1365, provided for transfer of property and equipment by Secretary of War to the Treasury Department for use of the Public Health Service.
 
+#### **Editorial Notes** ####
+
 #### Renumbering of Repealing Act ####
 
 For renumbering of act July 1, 1944, which repealed these sections, see note set out under sections 1, 2 of this title.

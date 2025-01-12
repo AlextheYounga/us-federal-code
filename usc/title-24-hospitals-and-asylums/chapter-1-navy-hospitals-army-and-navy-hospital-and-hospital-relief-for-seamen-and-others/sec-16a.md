@@ -4,6 +4,8 @@ On and after May 29, 1945, additional commissioned, warranted, appointed, enlist
 
 (May 29, 1945, ch. 130, §1, 59 Stat. 208; Pub. L. 102–54, §13(i)(1), June 13, 1991, 105 Stat. 276.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from act May 29, 1945, popularly known as the Naval Appropriation Act, 1946.
@@ -11,6 +13,8 @@ Section is from act May 29, 1945, popularly known as the Naval Appropriation Act
 #### Amendments ####
 
 **1991**—Pub. L. 102–54 substituted "Department of Veterans Affairs" for "United States Veterans' Administration".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Similar Provisions ####
 

@@ -12,6 +12,8 @@ Section 279c, act July 1, 1948, ch. 791, §3, 62 Stat. 1216, related to preserva
 
 Section 279d, acts Aug. 27, 1954, ch. 1013, 68 Stat. 880; July 3, 1956, ch. 509, 70 Stat. 489, provided for markers to honor memory of certain Armed Forces personnel. See section 2403(a), (b) of Title 38.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.

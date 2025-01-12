@@ -1,5 +1,7 @@
 ### §§43a, 43b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 43a, acts May 14, 1937, ch. 180, §1, 50 Stat. 145; Mar. 28, 1938, ch. 55, §1, 52 Stat. 128, related to use by narcotics agents of motor vehicles confiscated pursuant to section 43 of this title.

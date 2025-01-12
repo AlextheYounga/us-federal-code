@@ -28,6 +28,8 @@ Changes were made in phraseology and arrangement.
 
 Remainder of section 203 of title 13, U.S.C., 1952 ed., is incorporated in this subchapter, and for remainder of section 216 thereof, and of section 1442 of title 42, U.S.C., 1952 ed. (which has been transferred in its entirety to this revised title), see Distribution Table.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949, ch. 782, 63 Stat. 954, as amended, which was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
@@ -43,6 +45,8 @@ Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was 
 **1960**—Subsec. (a). Pub. L. 86–769 substituted "The Secretary may establish, at rates of compensation to be fixed by him without regard to the Classification Act of 1949, as many temporary positions as may be necessary to meet the requirements of the work provided for by law. Bureau employees who are transferred to any such temporary positions shall not lose their permanent civil service status by reason of the transfer. The Secretary may make appointments to such temporary positions in conformity with the civil service laws and rules" for "The Secretary may appoint, without regard to the Classification Act of 1949, at rates of compensation to be fixed by him, as many temporary employees in the Departmental Service as may be necessary to meet the requirements of the work provided for in this title. Census employees who are transferred to any such temporary positions shall not lose their permanent Civil Service status by reason of the transfer. The Secretary shall make all such temporary appointments in conformity with the Civil Service laws and rules".
 
 Subsec. (b). Pub. L. 86–769 substituted "by law" for "in this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

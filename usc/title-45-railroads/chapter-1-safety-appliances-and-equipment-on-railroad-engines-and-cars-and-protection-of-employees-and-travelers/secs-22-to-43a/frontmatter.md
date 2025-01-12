@@ -46,6 +46,8 @@ Section 43, acts May 6, 1910, ch. 208, §7, 36 Stat. 351; Sept. 13, 1960, Pub. L
 
 Section 43a, Pub. L. 100–342, §24, June 22, 1988, 102 Stat. 639, related to accident reports in which railroads assign human error as cause of accident or incident and provision that such reports contain an explanatory statement by employees involved. See section 20901 of Title 49.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act May 6, 1910, ch. 208, 36 Stat. 350, as amended, popularly known as the "Accident Reports Act", was classified to sections 38 to 43 of this title prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.

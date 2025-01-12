@@ -4,6 +4,8 @@ No State may adopt or continue in force any law, rule, regulation, order, or sta
 
 (Pub. L. 93–236, title VII, §711, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 667; amended Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–272 struck out ", the National Railroad Passenger Corporation, or the Amtrak Commuter Services Corporation" before "to employ any".

@@ -96,6 +96,8 @@ Nothing in this section may be construed to prohibit an authorized State officia
 
 (Mar. 1, 1913, ch. 90, §2, as added Pub. L. 106–386, div. C, §2004(a), Oct. 28, 2000, 114 Stat. 1546.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 106–386, div. C, §2004(b), Oct. 28, 2000, 114 Stat. 1548, provided that: "This section [enacting this section and section 122b of this title and provisions set out as a note under this section] and the amendments made by this section shall become effective 90 days after the date of the enactment of this Act [Oct. 28, 2000]."

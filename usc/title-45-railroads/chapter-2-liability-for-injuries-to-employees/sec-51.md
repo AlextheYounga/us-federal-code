@@ -6,9 +6,13 @@ Any employee of a carrier, any part of whose duties as such employee shall be th
 
 (Apr. 22, 1908, ch. 149, §1, 35 Stat. 65; Aug. 11, 1939, ch. 685, §1, 53 Stat. 1404.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1939**—Act Aug. 11, 1939, inserted last par.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

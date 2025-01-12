@@ -1,5 +1,7 @@
 ### §§228a to 228c–1. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 228a to 228c–1 were omitted pursuant to the amendment and revision of act Aug. 29, 1935, ch. 812, by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, known as the Railroad Retirement Act of 1974.
@@ -11,6 +13,8 @@ Section 228b, act Aug. 29, 1935, ch. 812, §2, as restated June 24, 1937, ch. 38
 Section 228c, act Aug. 29, 1935, ch. 812, §3, as restated June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 310; amended July 31, 1946, ch. 709, §§207–211, 60 Stat. 728, 729; June 23, 1948, ch. 608, §1, 62 Stat. 576; Oct. 30, 1951, ch. 632; §§6–10, 65 Stat. 684; June 16, 1954, ch. 300, §1, 68 Stat. 250; Aug. 31, 1954, ch. 1164, pt. I, §§4–7, 68 Stat. 1038, 1039; Aug. 7, 1956, ch. 1022, §1, 70 Stat. 1076; Sept. 6, 1958, Pub. L. 85–927, pt. I, §1, 72 Stat. 1778; May 19, 1959, Pub. L. 86–28, pt. I, §2, 73 Stat. 26; Sept. 13, 1960, Pub. L. 86–778, title II, §211(o)(1), 74 Stat. 958; Oct. 5, 1963, Pub. L. 88–133, title I, §§1, 2, 77 Stat. 219; Sept. 29, 1965, Pub. L. 89–212, §3(a), (b), 79 Stat. 860; Oct. 30, 1966, Pub. L. 89–699, title I, §1, title II, §201(b), (c), 80 Stat. 1073, 1075, 1076; Oct. 30, 1966, Pub. L. 89–700, title I, §103, title III, §301(i), (iv)(a), 80 Stat. 1080, 1088; Feb. 15, 1968, Pub. L. 90–257, title I, §104, 82 Stat. 17; Mar. 17, 1970, Pub. L. 91–215, §§1, 2, 84 Stat. 70; Aug. 12, 1970, Pub. L. 91–377, §1, 84 Stat. 791, July 2, 1971, Pub. L. 92–46, §1, 85 Stat. 101; Oct. 4, 1972, Pub. L. 92–460, §1(a), (d), 86 Stat. 765; July 6, 1973, Pub. L. 93–58, §1, 87 Stat. 141; July 10, 1973, Pub. L. 93–69, title I, §104(a), 87 Stat. 163; Oct. 16, 1974, Pub. L. 93–445, title VI, §601, 88 Stat. 1360, related to computation of annuities under this subchapter. See section 231b of this title.
 
 Section 228c–1, act Aug. 29, 1935, ch. 812, §4, as restated June 24, 1937, ch. 382, pt. I, §1, as added Oct. 8, 1940, ch. 757, title VI, pt. II, §625, 54 Stat. 1014; amended Apr. 8, 1942, ch. 227, §§1–8, 56 Stat. 204–206; July 31, 1946, ch. 709, §212, 60 Stat. 729; Oct. 30, 1951, ch. 632, §4, 65 Stat. 683; Aug. 1, 1956, ch. 837, title IV, §408(a), (b), 70 Stat. 876; Oct. 5, 1963, Pub. L. 88–133, title I, §§3, 4, 77 Stat. 219; Oct. 30, 1966, Pub. L. 89–700, title I, §104, 80 Stat. 1081, related to consideration of time spent in military service in computation of annuities. See section 228a of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Annuities, Pensions, and Joint and Survivor Annuity Elections ####
 

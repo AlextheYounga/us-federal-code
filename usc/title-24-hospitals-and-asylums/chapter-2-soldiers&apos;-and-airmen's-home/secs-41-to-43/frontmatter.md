@@ -6,6 +6,8 @@ Section 42, acts Mar. 4, 1909, ch. 299, §1, 35 Stat. 1004; May 11, 1926, ch. 28
 
 Section 43, R.S. §4816; Mar. 3, 1883, ch. 130, §7, 22 Stat. 565; June 6, 1972, Pub. L. 92–310, title II, §228(a), 86 Stat. 207, related to appointment and removal of officers of Soldiers' Home.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of this title.

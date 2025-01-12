@@ -12,6 +12,8 @@ Section 24, act Mar. 4, 1917, ch. 180, 39 Stat. 1175, provided that moneys deriv
 
 Section 25, act Aug. 22, 1912, ch. 335, 37 Stat. 334, related to employment of beneficiaries in service of Naval Home.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of this title.

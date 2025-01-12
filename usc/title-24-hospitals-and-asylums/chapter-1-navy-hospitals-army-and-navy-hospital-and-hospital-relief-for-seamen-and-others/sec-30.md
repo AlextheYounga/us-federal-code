@@ -4,6 +4,8 @@ Any person, whether or not in the employ of the United States, who shall furnish
 
 (Feb. 9, 1927, ch. 91, 44 Stat. 1066; June 2, 1939, ch. 173, 53 Stat. 803; July 30, 1941, ch. 332, 55 Stat. 609.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1941**—Act July 30, 1941, struck out requirement that donor had to be in the Military Establishment or a Government employee and that patient had to be in a Government hospital to have donor qualify for payment.

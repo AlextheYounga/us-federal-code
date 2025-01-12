@@ -6,6 +6,8 @@ Section 211a, R.S. §4852; July 1, 1916, ch. 209, 39 Stat. 309, related to admis
 
 Section 211b, R.S. §4855; July 1, 1916, ch. 209, 39 Stat. 309, related to insane persons in Saint Elizabeths Hospital who are accused of crimes and their delivery to court upon restoration of sanity.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.

@@ -52,6 +52,8 @@ Sec.
 
 1948. Marine safety curriculum.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 19, consisting of sections 690 to 693, related to carrying out an environmental compliance and restoration program, prior to repeal by Pub. L. 115–282, title I, §§104(c)(2), 110(a), Dec. 4, 2018, 132 Stat. 4199, 4211.

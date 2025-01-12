@@ -28,6 +28,8 @@ Section 122, act Mar. 3, 1875, ch. 129, §1, 18 Stat. 359, related to employment
 
 Section 123, acts Aug. 5, 1892, ch. 380, §1, 27 Stat. 384; June 10, 1921, ch. 18, §304, 42 Stat. 24, required statement of expenses of Board of Managers of National Home for Disabled Volunteer Soldiers, to be included in annual budget.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

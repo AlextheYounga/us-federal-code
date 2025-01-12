@@ -1,5 +1,7 @@
 ### §§261 to 273. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 261 to 273 were omitted pursuant to section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1, which provided that all laws or parts of laws codified into the Internal Revenue Code of 1939, enacted by act Feb. 10, 1939, to the extent they related exclusively to internal revenue laws, were repealed. The Internal Revenue Code of 1939 was generally repealed by section 7851 of act Aug. 16, 1954, ch. 736, 68A Stat. 919 (section 7851 of Title 26, Internal Revenue Code), which act enacted the Internal Revenue Code of 1954 [now 1986]. See section 7807 of Title 26, relating to applicability of rules in effect upon the enactment of the Internal Revenue Code of 1986.
@@ -47,6 +49,8 @@ For provisions formerly set out in this subchapter which were covered by section
 |                               271                                |                      |                                                                            |
 |                               272                                |         1535         |                               7805(a), (c).                                |
 |                               273                                |                      |                                                                            |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Compensation From Local Division of Railway-Labor-Organization Employer Tax—Unpaid Before July 1, 1940 ####
 

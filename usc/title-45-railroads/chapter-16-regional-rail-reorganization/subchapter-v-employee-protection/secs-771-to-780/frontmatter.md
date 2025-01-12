@@ -20,6 +20,8 @@ Section 779, Pub. L. 93–236, title V, §509, Jan. 2, 1974, 87 Stat. 1020; Pub.
 
 Section 780, Pub. L. 93–236, title V, §510, as added Pub. L. 96–448, title V, §505, Oct. 14, 1980, 94 Stat. 1956, related to railroad hiring.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal; Continuation of Benefits After Repeal; Law Governing Disputes; Prerequisites to Disbursement of Benefits ####
 
 Pub. L. 97–35, title XI, §1144(a)(2)–(4), Aug. 13, 1981, 95 Stat. 669, provided that:

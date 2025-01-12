@@ -44,11 +44,15 @@ If the emergency board selects the final offer submitted by the employees and, a
 
 (May 20, 1926, ch. 347, §9A, as added Pub. L. 97–35, title XI, §1157, Aug. 13, 1981, 95 Stat. 681.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 590(h) of this title, referred to in subsec. (a), was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (i), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -1,5 +1,7 @@
 ### §§261 to 264. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 261 to 264 related to Freedmen's Hospital in the District of Columbia, and were also set out as sections 32–317 to 32–320 of the District of Columbia Code. Freedmen's Hospital was transferred to Howard University by Pub. L. 87–262, Sept. 21, 1961, 75 Stat. 542 (20 U.S.C. 124–129), section 7 of which repealed all laws specifically applicable to Freedmen's Hospital effective with the transfer. Sections 32–317 to 32–320 were omitted from the 1981 edition of the District of Columbia Code.
