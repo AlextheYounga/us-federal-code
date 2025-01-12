@@ -66,11 +66,11 @@ Amendment by Pub. L. 104–13 effective Oct. 1, 1995, see section 4(a) of Pub. L
 
 #### Effective and Termination Date; Report to Congress ####
 
-Pub. L. 97–454, §4, Jan. 12, 1983, 96 Stat. 2495, as amended by Pub. L. 101–227, §1, Dec. 12, 1989, 103 Stat. 1943; Pub. L. 103–105, §1(a), Oct. 12, 1993, 107 Stat. 1030; Pub. L. 105–252, §1, Oct. 9, 1998, 112 Stat. 1886; Pub. L. 109–79, §1, Sept. 30, 2005, 119 Stat. 2044, provided that:
+Pub. L. 97–454, §4, Jan. 12, 1983, 96 Stat. 2495, as amended by Pub. L. 101–227, §1, Dec. 12, 1989, 103 Stat. 1943; Pub. L. 103–105, §1(a), Oct. 12, 1993, 107 Stat. 1030; Pub. L. 105–252, §1, Oct. 9, 1998, 112 Stat. 1886; Pub. L. 109–79, §1, Sept. 30, 2005, 119 Stat. 2044; Pub. L. 114–72, §2, Oct. 22, 2015, 129 Stat. 566, provided that:
 
 "(a) This Act [enacting section 91 of this title and provisions set out as notes under sections 23 and 91 of this title] shall take effect on the date of the enactment of this Act [Jan. 12, 1983].
 
-"(b) This Act, including the amendments made by this Act, shall cease to have effect after September 30, 2015.
+"(b) This Act, including the amendments made by this Act, shall cease to have effect after September 30, 2030.
 
 "(c) Not later than 2 years after such effective date [Jan. 12, 1983], the Secretary of Commerce shall submit a report to the Congress regarding the administration of the program transferred by this Act [enacting section 91 of this title and provisions set out as notes under sections 23 and 91 of this title]. Such report shall describe—
 
