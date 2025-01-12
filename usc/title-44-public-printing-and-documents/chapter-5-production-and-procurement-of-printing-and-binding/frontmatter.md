@@ -36,11 +36,15 @@ Sec.
 
 517. Purchase of paper in open market.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 502.
 
 **1976**—Pub. L. 94–553, §105(a)(2), Oct. 19, 1976, 90 Stat. 2599, struck out "; copyright" after "plates" in item 505.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

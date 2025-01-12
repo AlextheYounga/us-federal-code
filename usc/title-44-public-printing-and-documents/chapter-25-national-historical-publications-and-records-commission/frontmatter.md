@@ -16,6 +16,8 @@ Sec.
 
 [2507. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–365, §5, July 13, 1988, 102 Stat. 825, amended analysis generally, inserting "; vacancies; meetings" after "tenure" in item 2501, substituted "staff; transportation expenses" for "editorial and clerical staff; reimbursement of members for transportation expenses; honorarium" in item 2503 and "historical publications and records programs; authorization for appropriations" for "collection, reproduction, and publication of documentary historical source material" in item 2504, and reenacting items 2502, 2505, and 2506 without change.

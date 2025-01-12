@@ -4,11 +4,15 @@ All patents granted, or homesteads allowed, shall be subject to any vested and a
 
 (R.S. §2340; Mar. 3, 1891, ch. 561, §4, 26 Stat. 1097.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2340 derived from act July 9, 1870, ch. 235, §17, 16 Stat. 218.
 
 Section is also set out as the second par. of section 661 of Title 43, Public Lands.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeal; Savings Provision ####
 

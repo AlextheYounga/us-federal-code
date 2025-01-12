@@ -4,9 +4,13 @@ Any person desiring to make entry under the homestead laws or the desert-land la
 
 (June 22, 1910, ch. 318, §2, 36 Stat. 584.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Supplemental Provisions ####
 

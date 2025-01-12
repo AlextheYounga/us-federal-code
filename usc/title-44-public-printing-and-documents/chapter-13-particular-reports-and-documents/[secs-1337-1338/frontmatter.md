@@ -4,6 +4,8 @@ Section 1337, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1271, related to publica
 
 Section 1338, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1272, related to limitations and conditions concerning printing and lithographing by the Patent Office.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, §4731] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of Title 35, Patents.

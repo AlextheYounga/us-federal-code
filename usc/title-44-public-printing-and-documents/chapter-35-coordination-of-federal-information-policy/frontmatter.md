@@ -106,6 +106,8 @@ Sec.
 
 3583. Application to access data assets for developing evidence.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter was originally added by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, which act enacted this title, and was based on act Dec. 24, 1942, ch. 811, 56 Stat. 1078, known as the Federal Reports Act of 1942, which was classified to sections 139 to 139f of former Title 5, transferred to chapter 12 (§421 et seq.) of former Title 44, and repealed by Pub. L. 90–620 upon the enactment of this title. Subsequent to its original enactment by Pub. L. 90–620, this chapter was amended generally by Pub. L. 96–511 and again by Pub. L. 104–13. As a result, this chapter is shown herein as having been added beginning with Pub. L. 104–13 without reference to earlier amendatory laws. See Prior Provisions notes throughout this chapter.

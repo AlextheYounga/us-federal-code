@@ -4,6 +4,8 @@ Qualified individuals appointed by the Secretary of Labor may hear and determine
 
 (Pub. L. 94–504, Oct. 15, 1976, 90 Stat. 2428; Pub. L. 107–275, §2(b)(5), Nov. 2, 2002, 116 Stat. 1926.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Coal Mine Health and Safety Act of 1969, referred to in text, is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was renamed the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290. Parts B and C of title IV of the Federal Mine Safety and Health Act of 1977 are classified generally to part B (§921 et seq.) of this subchapter and to this part (§931 et seq.), respectively. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -15,6 +17,8 @@ Section was not enacted as part of the Federal Mine Safety and Health Act of 197
 #### Amendments ####
 
 **2002**—Pub. L. 107–275 substituted "under part B or part C" for "under part C".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 

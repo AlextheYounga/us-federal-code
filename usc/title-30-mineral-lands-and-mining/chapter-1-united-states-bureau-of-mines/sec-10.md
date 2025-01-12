@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized to accept any suitable land or lands
 
 (June 5, 1920, ch. 235, §1, 41 Stat. 912; Ex. Ord. No. 6611, Feb. 22, 1934.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 See note set out under section 1 of this title.

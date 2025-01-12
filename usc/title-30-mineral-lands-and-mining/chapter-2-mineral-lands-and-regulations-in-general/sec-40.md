@@ -4,6 +4,8 @@ All affidavits required to be made under sections 21, 22 to 24, 26 to 28, 29, 30
 
 (R.S. §2335; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original "this chapter", meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
@@ -15,6 +17,8 @@ R.S. §2335 derived from act May 10, 1872, ch. 152, §13, 17 Stat. 95.
 #### Amendments ####
 
 **1925**—Act Mar. 3, 1925, affected words in first sentence of text, now reading "before the register of the land office." Such words formerly read "before the register and receiver of the land-office." Such act is treated more fully in note under section 29 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

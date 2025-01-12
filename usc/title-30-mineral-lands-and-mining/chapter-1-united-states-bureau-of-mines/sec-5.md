@@ -4,6 +4,8 @@ The Director of the United States Bureau of Mines shall prepare and publish, sub
 
 (May 16, 1910, ch. 240, §3, 36 Stat. 370; Feb. 25, 1913, ch. 72, §3, 37 Stat. 681; Ex. Ord. No. 4239, June 4, 1925; Ex. Ord. No. 6611, Feb. 22, 1934; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "United States Bureau of Mines" substituted in text for "Bureau of Mines" pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.

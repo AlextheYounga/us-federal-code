@@ -4,6 +4,8 @@ The description of vein or lode claims upon surveyed lands shall designate the l
 
 (R.S. §2327; Apr. 28, 1904, ch. 1796, 33 Stat. 545; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2327 derived from act May 10, 1872, ch. 152, §8, 17 Stat. 94.
@@ -11,6 +13,8 @@ R.S. §2327 derived from act May 10, 1872, ch. 152, §8, 17 Stat. 94.
 #### Amendments ####
 
 **1925**—Act Mar. 3, 1925, affected words now reading "United States supervisor of surveys" in first and second sentences of text. These words formerly read "the surveyor-general." This act abolished the office of surveyor general, and transferred to and consolidated with the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys, the administration, equipment, etc., of such office.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

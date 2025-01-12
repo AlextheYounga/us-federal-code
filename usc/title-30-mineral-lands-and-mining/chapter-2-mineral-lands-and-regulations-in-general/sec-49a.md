@@ -4,6 +4,8 @@ The laws of the United States relating to mining claims, mineral locations, and 
 
 (June 6, 1900, ch. 786, title I, §26, 31 Stat. 329; May 31, 1938, ch. 297, 52 Stat. 588; Aug. 8, 1947, ch. 514, §1, 61 Stat. 916; Pub. L. 85–662, Aug. 14, 1958, 72 Stat. 615.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 687a–2 of title 43, referred to in text, was repealed by Pub. L. 94–579, title VII, §§703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792.
@@ -20,12 +22,16 @@ Section was formerly classified to section 381 of Title 48, Territories and Insu
 
 **1938**—Act May 31, 1938, extended waters subject to exploration and mining for gold to include all water on shores, bays, and inlets of Alaska, and substituted Secretary of the Interior for Secretary of War, among other changes.
 
-#### Admission of Alaska as State ####
-
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Non-Impairment of Valid Claims and Rights ####
 
 Act Aug. 8, 1947, ch. 514, §2, 61 Stat. 916, provided: "Nothing in this Act [amending this section] shall be deemed to affect or impair any valid claims, rights or privileges, including possessory claims under the first proviso of section 8 of the Act of May 17, 1884 (23 Stat. 26) [25 U.S.C. 280a], arising under any other provision of law."
+
+#### **Executive Documents** ####
+
+#### Admission of Alaska as State ####
+
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
 [<sup>1</sup> See References in Text note below.](#49a_1)

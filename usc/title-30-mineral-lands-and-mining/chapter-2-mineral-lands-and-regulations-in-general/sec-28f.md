@@ -38,6 +38,8 @@ For purposes of this section, the term control includes actual control, legal co
 
 (Pub. L. 103–66, title X, §10101, Aug. 10, 1993, 107 Stat. 405; Pub. L. 105–240, §116, Sept. 25, 1998, 112 Stat. 1570; Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–235; Pub. L. 107–63, title I, (1), Nov. 5, 2001, 115 Stat. 418; Pub. L. 108–108, title I, (1), Nov. 10, 2003, 117 Stat. 1245; Pub. L. 110–161, div. F, title I, (2), Dec. 26, 2007, 121 Stat. 2101; Pub. L. 111–8, div. E, title I, Mar. 11, 2009, 123 Stat. 704; Pub. L. 111–88, div. A, title I, Oct. 30, 2009, 123 Stat. 2907; Pub. L. 112–74, div. E, title IV, §430, Dec. 23, 2011, 125 Stat. 1047; Pub. L. 113–6, div. F, title IV, §1403, Mar. 26, 2013, 127 Stat. 419.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Mining Law of 1872 (30 U.S.C. 28–28e), referred to in subsecs. (a) and (d)(1)(B), probably means act May 10, 1872, ch. 152, 17 Stat. 91. That act was incorporated into the Revised Statutes as R.S. §§2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of this title. For complete classification of R.S. §§2319 to 2328, 2331, 2333 to 2337, and 2344 to the Code, see Tables.
@@ -83,6 +85,8 @@ Pub. L. 111–8, which directed the removal of the modifications made by Pub. L.
 Pub. L. 105–240 substituted "The holder of each unpatented mining claim, mill, or tunnel site located pursuant to the mining laws of the United States before October 1, 1998 shall pay the Secretary of the Interior, on or before September 1, 1999 a claim maintenance fee of $100 per claim site." for "The holder of each unpatented mining claim, mill or tunnel site located pursuant to the Mining Laws of the United States, whether located before or after August 10, 1993, shall pay to the Secretary of the Interior, on or before August 31 of each year, for years 1994 through 1998, a claim maintenance fee of $100 per claim." See Codification note above.
 
 Subsec. (d)(3). Pub. L. 105–277 added par. (3). See Codification note above.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Similar Provisions ####
 

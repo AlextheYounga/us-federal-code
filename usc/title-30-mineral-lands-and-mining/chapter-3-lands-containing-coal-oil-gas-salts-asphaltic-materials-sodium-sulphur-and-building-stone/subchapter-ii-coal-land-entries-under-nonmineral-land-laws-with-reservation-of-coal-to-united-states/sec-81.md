@@ -4,6 +4,8 @@ Any person who has in good faith located, selected, or entered under the nonmine
 
 (Mar. 3, 1909, ch. 270, 35 Stat. 844.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Protection of Sanctity of Contracts and Leases of Surface Patent Holders With Respect to Coalbed Methane Gas ####
 
 Pub. L. 105–367, §1, Nov. 10, 1998, 112 Stat. 3313, provided that:

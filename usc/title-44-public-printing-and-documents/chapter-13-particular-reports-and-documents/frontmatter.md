@@ -90,6 +90,8 @@ Sec.
 
 1344. Treasury Department: reports.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 1340.
@@ -107,6 +109,8 @@ Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 268
 **1986**—Pub. L. 99–272, title VI, §6011(b), Apr. 7, 1986, 100 Stat. 122, substituted "National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution" for "Environmental Science Service Administration: charts; sale and distribution" in item 1307.
 
 **1980**—Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167, added item 1320A.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

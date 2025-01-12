@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized to accept the surrender of any lease
 
 (Nov. 28, 1943, ch. 329, 57 Stat. 593; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

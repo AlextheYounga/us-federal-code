@@ -8,9 +8,13 @@ Sec.
 
 3903. Duties, responsibilities, authority, and reports.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–94, div. P, title XVI, §1602(c)(2), Dec. 20, 2019, 133 Stat. 3212, substituted "Appointment of Inspector General; supervision; removal; pay; limits on bonuses; counsel" for "Appointment of Inspector General; supervision; removal" in item 3902.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

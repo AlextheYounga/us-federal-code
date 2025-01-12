@@ -1,10 +1,48 @@
-### §87h. Appropriations ###
+### §87h. Funding ###
 
-There are hereby authorized to be appropriated such sums as are necessary for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 1988 through 2020, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+#### (a) Authorization of appropriations ####
 
-(Aug. 11, 1916, ch. 313, pt. B, §19, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, §21, Oct. 21, 1976, 90 Stat. 2886; Pub. L. 95–113, title XVI, §§1602(c), 1604(n), Sept. 29, 1977, 91 Stat. 1025, 1029; Pub. L. 97–35, title I, §155(4), Aug. 13, 1981, 95 Stat. 372; Pub. L. 98–469, §2(3), Oct. 11, 1984, 98 Stat. 1832; Pub. L. 100–518, §2(4), Oct. 24, 1988, 102 Stat. 2586; Pub. L. 103–156, §3, Nov. 24, 1993, 107 Stat. 1525; Pub. L. 106–472, title I, §108, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(f), Sept. 30, 2015, 129 Stat. 520.)
+There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+
+#### (b) Limitations on uses of user fees ####
+
+#### (1) Definitions ####
+
+In this subsection:
+
+#### (A) Official inspection or weighing service ####
+
+The term "official inspection or weighing service" means official inspection, official weighing, supervision of weighing, supervision of agency personnel, supervision of the field office personnel of the Secretary, testing of equipment or instruments, other services, or registration, the cost to the Secretary of which is authorized to be covered by the collection of a user fee pursuant to section 79, 79a, 79b, 87e, or 87f–1 of this title, as applicable.
+
+#### (B) User fee ####
+
+The term "user fee" means a fee collected by the Secretary under section 79, 79a, 79b, 87e, or 87f–1 of this title.
+
+#### (2) Requirement ####
+
+A user fee—
+
+(A) shall be used solely to cover—
+
+(i) the cost to the Secretary for carrying out official inspection or weighing services; and
+
+(ii) administrative costs to the Secretary directly relating to official inspection or weighing services; and
+
+(B) shall not be used for—
+
+(i) activities relating to the development or maintenance of grain standards; or
+
+(ii) any other activity that is not directly related to the performance of official inspection or weighing services.
+
+(Aug. 11, 1916, ch. 313, pt. B, §19, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, §21, Oct. 21, 1976, 90 Stat. 2886; Pub. L. 95–113, title XVI, §§1602(c), 1604(n), Sept. 29, 1977, 91 Stat. 1025, 1029; Pub. L. 97–35, title I, §155(4), Aug. 13, 1981, 95 Stat. 372; Pub. L. 98–469, §2(3), Oct. 11, 1984, 98 Stat. 1832; Pub. L. 100–518, §2(4), Oct. 24, 1988, 102 Stat. 2586; Pub. L. 103–156, §3, Nov. 24, 1993, 107 Stat. 1525; Pub. L. 106–472, title I, §108, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(f), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, §6, Dec. 11, 2020, 134 Stat. 1049.)
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–216, §6(1), substituted "Funding" for "Appropriations" in section catchline.
+
+Subsec. (a). Pub. L. 116–216, §6(1), (2), designated existing provisions as subsec. (a), inserted heading, and substituted "There are authorized" for "There are hereby authorized", "$23,000,000" for "such sums as are necessary", and "2021 through 2025" for "1988 through 2020".
+
+Subsec. (b). Pub. L. 116–216, §6(3), added subsec. (b).
 
 **2015**—Pub. L. 114–54 substituted "2020" for "2015".
 

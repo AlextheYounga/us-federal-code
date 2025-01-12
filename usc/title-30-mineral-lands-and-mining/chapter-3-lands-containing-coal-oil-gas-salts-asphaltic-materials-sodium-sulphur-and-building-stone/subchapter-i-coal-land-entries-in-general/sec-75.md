@@ -4,11 +4,15 @@ In case of conflicting claims upon coal lands where the improvements shall be co
 
 (R.S. §2351; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2351 derived from act Mar. 3, 1873, ch. 279, §5, 17 Stat. 608.
 
-#### Transfer of Functions ####
+#### Transfer of Functi ####
+
+#### **Executive Documentsons** ####
 
 "Director of the Bureau of Land Management" substituted in text for "Commissioner of the General Land Office" on authority of Reorg. Plan No. 3 of 1946, §403, set out in the Appendix to Title 5, Government Organization and Employees.
 

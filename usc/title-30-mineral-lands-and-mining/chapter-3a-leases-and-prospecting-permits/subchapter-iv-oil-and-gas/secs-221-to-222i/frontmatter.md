@@ -1,5 +1,7 @@
 ### §§221 to 222i. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections expired by their own terms. They provided as follows:
@@ -25,6 +27,8 @@ Section 222g, act June 30, 1932, ch. 319, §1, 47 Stat. 445, provided for a furt
 Section 222h, act June 30, 1932, ch. 319, §2, 47 Stat. 446, authorized an extension, for permits already expired, of three years from June 30, 1932.
 
 Section 222i, acts Aug. 26, 1937, ch. 828, 50 Stat. 842; Aug. 11, 1939, ch. 716, 53 Stat. 1418, provided for final extension of prospecting permits, outstanding on Dec. 31, 1937, to Dec. 31, 1939.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Compromise of Claims for Accrued Rental ####
 

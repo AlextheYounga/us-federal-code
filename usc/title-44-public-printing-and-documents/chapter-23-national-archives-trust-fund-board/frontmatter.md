@@ -18,6 +18,8 @@ Sec.
 
 2308. Tax exemption for gifts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–497, title II, §202(c), Oct. 19, 1984, 98 Stat. 2294, amended item 2302 generally.

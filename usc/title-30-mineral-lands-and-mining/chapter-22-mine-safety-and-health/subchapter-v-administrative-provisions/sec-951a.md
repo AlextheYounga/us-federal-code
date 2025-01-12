@@ -14,9 +14,13 @@ For the purposes of section 951(b) of this title, as amended, activities in the 
 
 (Pub. L. 102–486, title XXV, §2512, Oct. 24, 1992, 106 Stat. 3111.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

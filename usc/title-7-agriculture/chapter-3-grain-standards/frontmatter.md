@@ -60,7 +60,7 @@ Sec.
 
 87g. Relation to State and local laws; separability.
 
-87h. Appropriations.
+87h. Funding.
 
 87i. Omitted.
 

@@ -18,6 +18,10 @@ Section is comprised of part of section 1 of part B of act Aug. 11, 1916. Other 
 
 Amendment by Pub. L. 90–487 effective 180 days after Aug. 15, 1968, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
+#### Short Title of 2020 Amendment ####
+
+Pub. L. 116–216, §1, Dec. 11, 2020, 134 Stat. 1048, provided that: "This Act [amending sections 76, 79, 79a, 79d, 87f–2, 87h, and 87j of this title] may be cited as the 'United States Grain Standards Reauthorization Act of 2020'."
+
 #### Short Title of 2015 Amendment ####
 
 Pub. L. 114–54, §1(a), Sept. 30, 2015, 129 Stat. 513, provided that: "This Act [amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under section 1635m of this title, and amending provisions set out as a note under section 1635 of this title] may be cited as the 'Agriculture Reauthorizations Act of 2015'."

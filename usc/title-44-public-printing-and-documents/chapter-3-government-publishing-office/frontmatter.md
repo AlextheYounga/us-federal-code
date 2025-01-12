@@ -38,6 +38,8 @@ Sec.
 
 318. Transfer of surplus property; acceptance of voluntary services.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–235, div. H, title I, §1301(e)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Deputy Director of the Government Publishing Office" for "Deputy Public Printer" in items 302 and 303.
@@ -59,6 +61,8 @@ Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537,
 **1972**—Pub. L. 92–310, title II, §210(a)(3), June 6, 1972, 86 Stat. 204, struck out "; bond" in item 301.
 
 **1970**—Pub. L. 91–359, §1(b), July 31, 1970, 84 Stat. 668, added item 317.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

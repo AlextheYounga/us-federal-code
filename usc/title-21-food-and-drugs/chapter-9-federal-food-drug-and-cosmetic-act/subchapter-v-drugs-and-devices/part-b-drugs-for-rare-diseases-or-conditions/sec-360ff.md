@@ -92,11 +92,11 @@ The sponsor of a human drug application that provides notification of the intent
 
 #### (5) Termination of authority ####
 
-The Secretary may not award any priority review vouchers under paragraph (1) after December 11, 2020, unless the rare pediatric disease product application—
+The Secretary may not award any priority review vouchers under paragraph (1) after December 18, 2020, unless the rare pediatric disease product application—
 
-(A) is for a drug that, not later than December 11, 2020, is designated under subsection (d) as a drug for a rare pediatric disease; and
+(A) is for a drug that, not later than December 18, 2020, is designated under subsection (d) as a drug for a rare pediatric disease; and
 
-(B) is, not later than December 11, 2022, approved under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)].
+(B) is, not later than December 18, 2022, approved under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)].
 
 #### (c) Priority review user fee ####
 
@@ -228,7 +228,7 @@ In conducting the study under subparagraph (A), the Comptroller General shall ex
 
 Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
 
-(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943; Pub. L. 114–255, div. A, title III, §3013(a), Dec. 13, 2016, 130 Stat. 1093; Pub. L. 116–159, div. C, title I, §2105, Oct. 1, 2020, 134 Stat. 729.)
+(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943; Pub. L. 114–255, div. A, title III, §3013(a), Dec. 13, 2016, 130 Stat. 1093; Pub. L. 116–159, div. C, title I, §2105, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1211, Dec. 11, 2020, 134 Stat. 1045.)
 
 #### References in Text ####
 
@@ -238,7 +238,9 @@ The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, 
 
 #### Amendments ####
 
-**2020**—Subsec. (b)(5). Pub. L. 116–159 substituted "December 11, 2020" for "September 30, 2020" in introductory provisions and in subpar. (A) and substituted "December 11, 2022" for "September 30, 2022" in subpar. (B).
+**2020**—Subsec. (b)(5). Pub. L. 116–215 substituted "December 18, 2020" for "December 11, 2020" in introductory provisions and in subpar. (A) and substituted "December 18, 2022" for "December 11, 2022" in subpar. (B).
+
+Pub. L. 116–159 substituted "December 11, 2020" for "September 30, 2020" in introductory provisions and in subpar. (A) and substituted "December 11, 2022" for "September 30, 2022" in subpar. (B).
 
 **2016**—Subsec. (a)(3)(A). Pub. L. 114–229, §2(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The disease primarily affects individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents."
 

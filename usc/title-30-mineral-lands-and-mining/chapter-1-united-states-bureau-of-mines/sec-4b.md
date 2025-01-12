@@ -4,6 +4,8 @@ The Secretary of the Interior and the Secretary of Commerce jointly are hereby a
 
 (June 25, 1926, ch. 674, §2, 44 Stat. 768; Mar. 3, 1927, ch. 356, 44 Stat. 1388.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1927**—Act Mar. 3, 1927, amended provisions generally.

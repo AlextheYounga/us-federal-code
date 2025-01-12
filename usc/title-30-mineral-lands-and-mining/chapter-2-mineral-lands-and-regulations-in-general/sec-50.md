@@ -4,6 +4,8 @@ No act passed at the first session of the Thirty-eighth Congress, granting lands
 
 (R.S. §2346.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The first session of the Thirty-eighth Congress, referred to in text, was begun Dec. 7, 1863, and ended July 4, 1864, 13 Stat. 1 to 417, contain legislation passed at such session.

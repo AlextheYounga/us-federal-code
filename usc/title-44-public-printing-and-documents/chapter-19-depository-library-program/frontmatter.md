@@ -34,9 +34,13 @@ Sec.
 
 1916. Designation of libraries of accredited law schools as depository libraries.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in item 1914.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

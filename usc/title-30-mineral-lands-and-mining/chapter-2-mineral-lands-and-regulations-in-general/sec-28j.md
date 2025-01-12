@@ -16,9 +16,13 @@ Nothing in sections 28f to 28k of this title shall change or modify the requirem
 
 (Pub. L. 103–66, title X, §10105, Aug. 10, 1993, 107 Stat. 406.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 10105 of Pub. L. 103–66. Subsec. (b) of section 10105 of Pub. L. 103–66 amended section 28 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Similar Provisions ####
 

@@ -1,5 +1,7 @@
 ### §§681 to 689. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 681, Pub. L. 87–347, §1, Oct. 3, 1961, 75 Stat. 766, stated purpose of this chapter as establishment and maintenance of a program of stabilization payments (which terminated December 31, 1969) to small domestic producers of lead and zinc ores and concentrates in order to stabilize the mining of lead and zinc by such producers. See note for section 687 below.

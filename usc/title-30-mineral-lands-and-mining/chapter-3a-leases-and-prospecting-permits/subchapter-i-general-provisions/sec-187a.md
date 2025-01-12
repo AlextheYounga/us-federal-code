@@ -12,6 +12,8 @@ Requests for approval of assignment or sublease shall be processed promptly by t
 
 (Feb. 25, 1920, ch. 85, §30A, formerly §30a, as added Aug. 8, 1946, ch. 916, §7, 60 Stat. 955; amended July 29, 1954, ch. 644, §1(6), 68 Stat. 585; Pub. L. 86–705, §6, Sept. 2, 1960, 74 Stat. 790; renumbered §30A and amended Pub. L. 100–203, title V, §5103, Dec. 22, 1987, 101 Stat. 1330–258.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1987**—Pub. L. 100–203 substituted third to fifth sentences for former third sentence which read as follows: "The Secretary shall disapprove the assignment or sublease only for lack of qualification of the assignee or sublessee or for lack of sufficient bond: *Provided, however*, That the Secretary may, in his discretion, disapprove an assignment of a separate zone or deposit under any lease, or of a part of a legal subdivision."
@@ -19,6 +21,8 @@ Requests for approval of assignment or sublease shall be processed promptly by t
 **1960**—Pub. L. 86–705 amended last sentence to restrict automatic extensions after Sept. 2, 1960.
 
 **1954**—Act July 29, 1954, authorized partial assignment of a lease in its extended term regardless of reason for extension.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Savings Provision ####
 

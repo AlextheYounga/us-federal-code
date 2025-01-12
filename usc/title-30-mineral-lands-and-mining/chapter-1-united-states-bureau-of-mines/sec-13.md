@@ -4,6 +4,8 @@ The Secretary of the Interior, acting through the United States Bureau of Mines,
 
 (Dec. 18, 1942, ch. 764, §1, 56 Stat. 1056.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of this title.

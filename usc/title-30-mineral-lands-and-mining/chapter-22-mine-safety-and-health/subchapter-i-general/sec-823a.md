@@ -4,9 +4,13 @@ The principal office of the Commission shall be in the District of Columbia. Whe
 
 (Pub. L. 95–164, title III, §302(d), Nov. 9, 1977, 91 Stat. 1320.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of Pub. L. 95–164, known as the Federal Mine Safety and Health Amendments Act of 1977, and not as part of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

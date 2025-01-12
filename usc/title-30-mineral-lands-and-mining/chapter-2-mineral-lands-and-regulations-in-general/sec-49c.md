@@ -4,6 +4,8 @@ Notices of location of mining claims shall be filed for record within ninety day
 
 (June 6, 1900, ch. 786, title I, §15, 31 Stat. 327.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of the proviso of section 15 of act June 6, 1900, which was formerly classified to section 382 of Title 48, Territories and Insular Possessions. The remainder of section 15, which was formerly classified to section 119 of Title 48, was omitted from the Code.

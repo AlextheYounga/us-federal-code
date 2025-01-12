@@ -46,9 +46,13 @@ Sec.
 
 1722. Departmental distribution of publications.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in items 1701 and 1712.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

@@ -14,6 +14,8 @@ Any interest, or other charge referred to in subsection (a), which was paid to t
 
 (Pub. L. 100–524, §7, Oct. 24, 1988, 102 Stat. 2607.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Congaree Swamp National Monument Expansion and Wilderness Act, and not as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.

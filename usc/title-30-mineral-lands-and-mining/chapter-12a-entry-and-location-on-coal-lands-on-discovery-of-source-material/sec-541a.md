@@ -4,6 +4,8 @@ Any mining claim located in a manner prescribed by the mining laws of the United
 
 (Aug. 11, 1955, ch. 795, §2, 69 Stat. 679.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Extension of Time for Annual Assessment Work ####
 
 Act June 29, 1956, ch. 478, 70 Stat. 438, as amended by Pub. L. 85–68, June 29, 1957, 71 Stat. 226, provided for extension of time for period commencing July 1, 1955, to 12 o'clock noon July 1, 1958, during which labor must be performed, or improvements made pursuant to section 28 of this title, or any unpatented mining claim validated under this section and for extension of time for period commencing July 1, 1956, to 12 o'clock noon July 1, 1958, during which labor must be performed, or improvements made pursuant to section 28 of this title, on any other unpatented mining claim subject to this chapter.

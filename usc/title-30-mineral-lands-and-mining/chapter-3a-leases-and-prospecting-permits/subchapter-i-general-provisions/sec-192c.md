@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized under general rules and regulations 
 
 (Sept. 1, 1949, ch. 529, §3, 63 Stat. 683.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 19, 1948 (Public Law 449, Eightieth Congress), referred to in text, is act Mar. 19, 1948, ch. 139, 62 Stat. 83. See Shasta National Forest codification note set out under sections 486a to 486w of Title 16, Conservation.
@@ -11,6 +13,8 @@ Act of March 19, 1948 (Public Law 449, Eightieth Congress), referred to in text,
 #### Codification ####
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

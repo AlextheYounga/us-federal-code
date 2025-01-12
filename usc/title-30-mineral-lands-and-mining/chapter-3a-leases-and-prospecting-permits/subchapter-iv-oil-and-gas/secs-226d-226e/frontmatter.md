@@ -1,5 +1,7 @@
 ### §§226d, 226e. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were completely amended by Pub. L. 86–705, §2, Sept. 2, 1960, 74 Stat. 781, and included in section 17 of Mineral Leasing Act of Feb. 25, 1920, classified to section 226 of this title.

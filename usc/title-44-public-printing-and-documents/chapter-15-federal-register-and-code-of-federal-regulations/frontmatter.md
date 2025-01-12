@@ -24,9 +24,13 @@ Sec.
 
 1511. International agreements excluded from provisions of chapter.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1977**—Pub. L. 95–94, title IV, §408(a)(2), Aug. 5, 1977, 91 Stat. 683, substituted "Costs of publication, etc." for "Cost of publication; appropriations authorized; penalty mail privilege" in item 1509.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

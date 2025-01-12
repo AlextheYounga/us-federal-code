@@ -6,6 +6,8 @@ Where a person or company has or may run a tunnel for the purposes of developing
 
 (R.S. §2324; Feb. 11, 1875, ch. 41, 18 Stat. 315; Jan. 22, 1880, ch. 9, §2, 21 Stat. 61; Aug. 24, 1921, ch. 84, 42 Stat. 186; Pub. L. 85–736, §1, Aug. 23, 1958, 72 Stat. 829; Pub. L. 103–66, title X, §10105(b), Aug. 10, 1993, 107 Stat. 406; Pub. L. 110–161, div. F, title I, (1), Dec. 26, 2007, 121 Stat. 2101.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2324 derived from act May 10, 1872, ch. 152, §5, 17 Stat. 92.
@@ -20,10 +22,14 @@ Pub. L. 110–161, which directed the amendment of section 28 of title 30, Unite
 
 **1958**—Pub. L. 85–736 changed period for doing annual assessment work on unpatented mineral claims, substituting "1st day of September" for "1st day of July".
 
-#### Admission of Alaska as State ####
-
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Assessment Work Years, 1957–58 and 1958–59 ####
 
 Pub. L. 85–736, §2, Aug. 23, 1958, 72 Stat. 829, provided that the period commencing in 1957 for the performance of annual assessment work under this section shall end at 12 o'clock meridian on the 1st day of July 1958, and the period commencing in 1958 for the performance of such annual assessment work shall commence at 12 o'clock meridian on the 1st day of July 1958, and shall continue to 12 o'clock meridian on Sept. 1, 1959.
+
+#### **Executive Documents** ####
+
+#### Admission of Alaska as State ####
+
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.

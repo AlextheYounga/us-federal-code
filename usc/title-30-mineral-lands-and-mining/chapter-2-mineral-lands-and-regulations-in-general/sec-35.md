@@ -4,11 +4,15 @@ Claims usually called "placers," including all forms of deposit, excepting veins
 
 (R.S. §§2329, 2331; Mar. 3, 1891, ch. 561, §4, 26 Stat. 1097.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2329 derived from act July 9, 1870, ch. 235, §12, 16 Stat. 217.
 
 R.S. §2331 derived from act May 10, 1872, ch. 152, §10, 17 Stat. 94.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Submerged Lands Act ####
 

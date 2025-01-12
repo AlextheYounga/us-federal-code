@@ -48,11 +48,15 @@ Sec.
 
 1123. Binding materials; bookbinding for libraries.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537, substituted "Director of the Government Publishing Office" for "Public Printer" in items 1102, 1111, and 1115.
 
 **1984**—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted "Presidential" for "Bureau of Budget" in item 1108.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

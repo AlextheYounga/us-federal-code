@@ -4,9 +4,13 @@ For tests or investigations authorized by the Secretary of the Interior under th
 
 (May 16, 1910, ch. 240, §5, 36 Stat. 370; Feb. 25, 1913, ch. 72, §5, 37 Stat. 682; June 30, 1932, ch. 314, pt. II, title III, §311, 47 Stat. 410; Ex. Ord. No. 4239, June 4, 1935; Ex. Ord. No. 6611, Feb. 22, 1934; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1932**—Act June 30, 1932, substituted "Secretary of Commerce" for "Secretary of the Interior" and changed a reasonable fee to be charged to a fee sufficient to compensate for entire cost of services rendered.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

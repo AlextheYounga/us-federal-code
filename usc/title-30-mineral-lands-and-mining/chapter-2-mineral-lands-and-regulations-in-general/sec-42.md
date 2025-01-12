@@ -10,6 +10,8 @@ Where nonmineral land is needed by the proprietor of a placer claim for mining, 
 
 (R.S. §2337; Pub. L. 86–390, Mar. 18, 1960, 74 Stat. 7.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in subsec. (a), were in the original "this chapter", meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.

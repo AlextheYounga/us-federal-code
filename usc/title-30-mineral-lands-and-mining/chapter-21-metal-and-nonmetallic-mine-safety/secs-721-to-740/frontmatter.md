@@ -42,6 +42,8 @@ Section 739, Pub. L. 89–577, §20, Sept. 16, 1966, 80 Stat. 784, related to an
 
 Section 740, Pub. L. 89–577, §21, Sept. 16, 1966, 80 Stat. 784, authorized appropriations necessary to carry out chapter. See section 824 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.

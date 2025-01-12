@@ -4,6 +4,8 @@ Nothing in this act shall be construed as affecting existing leases within the b
 
 (Aug. 8, 1946, ch. 916, §13, 60 Stat. 958; Aug. 10, 1956, ch. 1041, §53, 70A Stat. 675.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This act, referred to in text, is act Aug. 8, 1946, ch. 916, 60 Stat. 950, as amended, which is classified generally to sections 181, 184, 187a, 187b, 188, 193, 209, 225, 226, 226c to 226e, 236b, and 285 of this title. For complete classification of this Act to the Code, see Tables.

@@ -4,6 +4,8 @@ The locators of all mining locations made on any mineral vein, lode, or ledge, s
 
 (R.S. §2322.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2322 derived from act May 10, 1872, ch. 152, §3, 17 Stat. 91.

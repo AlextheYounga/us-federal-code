@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized to accept lands, buildings, or other
 
 (Mar. 3, 1915, ch. 95, §2, 38 Stat. 959; Ex. Ord. No. 6611, Feb. 22, 1934.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 See note set out under section 1 of this title.

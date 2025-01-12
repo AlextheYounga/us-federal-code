@@ -4,6 +4,8 @@ Notwithstanding any provision to the contrary in section 187 of this title, a le
 
 (Feb. 25, 1920, ch. 85, §30B, formerly §30b, as added Aug. 8, 1946, ch. 916, §8, 60 Stat. 956; renumbered §30B, Pub. L. 100–203, title V, §5103, Dec. 22, 1987, 101 Stat. 1330–258.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 See note set out under section 181 of this title.

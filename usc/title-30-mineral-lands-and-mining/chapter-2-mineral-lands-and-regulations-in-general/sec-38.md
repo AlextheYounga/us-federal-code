@@ -4,6 +4,8 @@ Where such person or association, they and their grantors, have held and worked 
 
 (R.S. §2332.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original "this chapter", meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
@@ -11,6 +13,8 @@ Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this ti
 #### Codification ####
 
 R.S. §2332 derived from act July 9, 1870, ch. 235, §13, 16 Stat. 217.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Submerged Lands Act ####
 

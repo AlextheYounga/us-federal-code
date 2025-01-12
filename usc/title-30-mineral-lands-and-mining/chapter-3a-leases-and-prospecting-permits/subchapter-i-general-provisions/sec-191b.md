@@ -4,9 +4,13 @@ Beginning in fiscal year 1996 and thereafter, the Secretary shall take appropria
 
 (Pub. L. 104–134, title I, §101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–167; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Similar Provisions ####
 

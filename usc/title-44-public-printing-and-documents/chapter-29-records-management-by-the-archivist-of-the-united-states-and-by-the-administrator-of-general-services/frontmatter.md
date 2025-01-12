@@ -24,6 +24,8 @@ Sec.
 
 2911. Disclosure requirement for official business conducted using non-official electronic messaging accounts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–85, §2(a)(4), Nov. 21, 2017, 131 Stat. 1275, repealed Pub. L. 113–187, §9(f)(1). See 2014 Amendment note below.

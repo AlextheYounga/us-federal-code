@@ -40,6 +40,8 @@ Nothing in this section shall be construed to waive the acreage limitations for 
 
 (Feb. 25, 1920, ch. 85, §2(d), as added Pub. L. 94–377, §5(b), Aug. 4, 1976, 90 Stat. 1086; amended Pub. L. 109–58, title IV, §433, Aug. 8, 2005, 119 Stat. 761.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of enactment of this Act, referred to in par. (5), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976.
@@ -53,6 +55,8 @@ Section is comprised of subsec. (d) of section 2 of act Feb. 25, 1920, as added 
 #### Amendments ####
 
 **2005**—Par. (2). Pub. L. 109–58 designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2005 Amendment ####
 

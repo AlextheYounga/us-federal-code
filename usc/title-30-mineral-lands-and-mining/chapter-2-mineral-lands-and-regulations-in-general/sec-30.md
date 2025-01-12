@@ -4,6 +4,8 @@ Where an adverse claim is filed during the period of publication, it shall be up
 
 (R.S. §2326; Mar. 3, 1925, ch. 462, 43 Stat. 1144, 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2326 derived from act May 10, 1872, ch. 152, §7, 17 Stat. 93.
@@ -11,6 +13,8 @@ R.S. §2326 derived from act May 10, 1872, ch. 152, §7, 17 Stat. 93.
 #### Amendments ####
 
 **1925**—Act Mar. 3, 1925, affected words, in third and fourth sentences of text, now reading "United States supervisor of surveys", and words, in third sentence of text, now reading "pay to the register $5 per acre." Such words formerly read "surveyor-general", and "pay to the receiver five dollars per acre", respectively. Such act is treated more fully in notes under section 29 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

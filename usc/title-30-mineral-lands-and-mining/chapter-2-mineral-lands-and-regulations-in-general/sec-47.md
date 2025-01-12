@@ -4,6 +4,8 @@ Nothing contained in sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52
 
 (R.S. §2344.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original "this chapter", meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
@@ -11,6 +13,8 @@ Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this ti
 #### Codification ####
 
 R.S. §2344 derived from acts July 9, 1870, ch. 235, §17, 16 Stat. 218; May 10, 1872, ch. 152, §16, 17 Stat. 96.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Submerged Lands Act ####
 
