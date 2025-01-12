@@ -313,11 +313,11 @@ For periods of enrollment other than 9 months, the parents' contribution from ad
 
 For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g)) is determined, for purposes other than subpart 2 of part A, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
 
-(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948; Pub. L. 116–260, div. FF, title VII, §702(d), Dec. 27, 2020, 134 Stat. 3141.)
+(Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948; Pub. L. 116–260, div. FF, title VII, §702(d), Dec. 27, 2020, 134 Stat. 3141; Pub. L. 118–40, div. B, §101(a), Mar. 1, 2024, 138 Stat. 18.)
 
 #### Amendment of Section ####
 
-Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 Stat. 3137, 3141; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 Stat. 3137, 3141; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819; Pub. L. 118–40, div. B, §101(a), Mar. 1, 2024, 138 Stat. 18, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 #### §1087oo. Student aid index for dependent students ####
 
@@ -504,9 +504,11 @@ Pub. L. 116–260, div. FF, title VII, §§701(b), 702(d), Dec. 27, 2020, 134 St
 
 *The student's available income is equal to—*
 
-*(A) the difference between the student's total income (determined in accordance with section 1087vv of this title) and the adjustment to student income (determined in accordance with paragraph (2)); multiplied by*
+*(A) the difference between the student's total income (determined in accordance with section 1087vv of this title) and the adjustment to student income (determined in accordance withparagraph (2)); multiplied by*
 
-*(B) 50 percent.*
+*(B) 50 percent,*
+
+*except that the amount determined under this paragraph shall not be less than -$1,500 for award year 2024–2025 and not less than zero for award year 2025–2026 and each award year thereafter.*
 
 #### *(2) Adjustment to student income* ####
 
@@ -615,6 +617,10 @@ Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former
 Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2024 Amendment ####
+
+Amendment by Pub. L. 118–40 effective and applicable as if included in title VII of div. FF of Pub. L. 116–260, see section 101(d) of div. B of Pub. L. 118–40, set out as a note under section 1070a of this title.
 
 #### Effective Date of 2020 Amendment ####
 
