@@ -16,7 +16,7 @@ The term "priority review voucher" means a voucher issued by the Secretary to th
 
 The term "rare pediatric disease" means a disease that meets each of the following criteria:
 
-(A) The disease primarily affects individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents.
+(A) The disease is a serious or life-threatening disease in which the serious or life-threatening manifestations primarily affect individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents.
 
 (B) The disease is a rare disease or condition, within the meaning of section 360bb of this title.
 
@@ -38,7 +38,7 @@ The term "rare pediatric disease product application" means a human drug applica
 
 (E) that <sup><a href="#360ff_1_target" name="360ff_1">1</a></sup> does not seek approval for an adult indication in the original rare pediatric disease product application; and
 
-(F) is approved after July 9, 2012.
+(F) is approved after September 30, 2016.
 
 #### (b) Priority review voucher ####
 
@@ -62,17 +62,37 @@ A sponsor of a rare pediatric disease product application may not receive a prio
 
 #### (4) Notification ####
 
-#### (A) In general ####
+#### (A) Sponsor of a rare pediatric disease product ####
 
-The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
+#### (i) In general ####
 
-#### (B) Transfer after notice ####
+Beginning on the date that is 90 days after September 30, 2016, the sponsor of a rare pediatric disease product application that intends to request a priority review voucher under this section shall notify the Secretary of such intent upon submission of the rare pediatric disease product application that is the basis of the request for a priority review voucher.
 
-The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
+#### (ii) Applications submitted but not yet approved ####
+
+The sponsor of a rare pediatric disease product application that was submitted and that has not been approved as of September 30, 2016, shall be considered eligible for a priority review voucher, if—
+
+(I) such sponsor has submitted such rare pediatric disease product application—
+
+(aa) on or after the date that is 90 days after July 9, 2012; and
+
+(bb) on or before September 30, 2016; and
+
+(II) such application otherwise meets the criteria for a priority review voucher under this section.
+
+#### (B) Sponsor of a drug application using a priority review voucher ####
+
+#### (i) In general ####
+
+The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay the user fee to be assessed in accordance with this section.
+
+#### (ii) Transfer after notice ####
+
+The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under clause (i) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification.
 
 #### (5) Termination of authority ####
 
-The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016.
+The Secretary may not award any priority review vouchers under paragraph (1) after December 31, 2016.
 
 #### (c) Priority review user fee ####
 
@@ -172,7 +192,7 @@ If, after the last day of the 1-year period that begins on the date that the Sec
 
 #### (g) Eligibility for other programs ####
 
-Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter.
+Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made..<sup><a href="#360ff_2_target" name="360ff_2">2</a></sup>
 
 #### (h) Relation to other provisions ####
 
@@ -204,7 +224,7 @@ In conducting the study under subparagraph (A), the Comptroller General shall ex
 
 Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
 
-(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286.)
+(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943.)
 
 #### References in Text ####
 
@@ -214,6 +234,26 @@ The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, 
 
 #### Amendments ####
 
+**2016**—Subsec. (a)(3)(A). Pub. L. 114–229, §2(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The disease primarily affects individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents."
+
+Subsec. (a)(4)(F). Pub. L. 114–229, §2(a)(1)(B), substituted "September 30, 2016" for "July 9, 2012".
+
+Subsec. (b)(4). Pub. L. 114–229, §2(a)(2)(A), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows:
+
+"(A) In general.—The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
+
+"(B) Transfer after notice.—The sponsor of a human drug application that provides notification of the intent of such sponsor to use the voucher for the human drug application under subparagraph (A) may transfer the voucher after such notification is provided, if such sponsor has not yet submitted the human drug application described in the notification."
+
+Subsec. (b)(5). Pub. L. 114–229, §2(a)(2)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016."
+
+Subsec. (g). Pub. L. 114–229, §2(a)(3), inserted before period at end ", except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made."
+
 **2015**—Subsec. (b)(5). Pub. L. 114–113 substituted "September 30, 2016." for "the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section."
 
+#### Construction ####
+
+Pub. L. 114–229, §2(b), Sept. 30, 2016, 130 Stat. 944, provided that: "Nothing in this Act [amending this section and enacting provisions set out as a note under section 301 of this title], or the amendments made by this Act, shall be construed to affect the validity of a priority review voucher that was issued under section 529 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ff) before the date of enactment of this Act [Sept. 30, 2016]."
+
 [<sup>1</sup> So in original. The word "that" probably should not appear.](#360ff_1)
+
+[<sup>2</sup> So in original.](#360ff_2)

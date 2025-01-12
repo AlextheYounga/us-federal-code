@@ -12,6 +12,8 @@ Sec.
 
 1605A. Terrorism exception to the jurisdictional immunity of a foreign state.
 
+1605B. Responsibility of foreign states for international terrorism against the United States.
+
 1606. Extent of liability.
 
 1607. Counterclaims.
@@ -25,6 +27,8 @@ Sec.
 1611. Certain types of property immune from execution.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–222, §3(b)(1), Sept. 28, 2016, 130 Stat. 853, added item 1605B.
 
 **2008**—Pub. L. 110–181, div. A, title X, §1083(a)(2), Jan. 28, 2008, 122 Stat. 341, added item 1605A.
 

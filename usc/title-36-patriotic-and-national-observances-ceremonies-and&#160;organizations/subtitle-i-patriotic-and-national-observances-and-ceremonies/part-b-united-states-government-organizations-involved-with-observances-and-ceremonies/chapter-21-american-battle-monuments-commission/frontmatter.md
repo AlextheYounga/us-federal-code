@@ -30,6 +30,10 @@ Sec.
 
 2114. Intellectual property and related items.
 
+2115. Acquisition, operation, and maintenance of Lafayette Escadrille Memorial.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–227, §1(b), Sept. 29, 2016, 130 Stat. 934, added item 2115.
 
 **1999**—Pub. L. 106–117, title VI, §§601(a)(2), 603(b), Nov. 30, 1999, 113 Stat. 1578, 1579, added items 2113 and 2114.
