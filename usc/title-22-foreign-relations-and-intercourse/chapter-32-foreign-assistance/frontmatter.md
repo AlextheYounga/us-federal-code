@@ -102,6 +102,16 @@ Sec.
 
 2152i. Small Grants Program.
 
+2152j. Statement of policy.
+
+2152j–1. United States strategy to promote the participation of women in conflict prevention and peace building.
+
+2152j–2. Training requirements regarding the participation of women in conflict prevention and peace building.
+
+2152j–3. Consultation and collaboration.
+
+2152j–4. Definitions.
+
 #### Part II—Other Programs ####
 
 #### subpart i—multilateral and regional development programs ####

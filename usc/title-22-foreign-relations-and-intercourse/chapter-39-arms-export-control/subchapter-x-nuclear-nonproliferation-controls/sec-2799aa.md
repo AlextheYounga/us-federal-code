@@ -42,7 +42,7 @@ Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519, provided 
 
 #### Effective Date ####
 
-Subchapter effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
+Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
 
 #### Waiver of Sanctions ####
 

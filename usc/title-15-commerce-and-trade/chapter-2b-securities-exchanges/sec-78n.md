@@ -192,6 +192,10 @@ The Commission shall, by rule, require each issuer to disclose in any proxy or c
 
 (June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–123, §6, Jan. 16, 2002, 115 Stat. 2396; Pub. L. 111–203, title IX, §§953(a), 955, 971(a), 991(b)(3), July 21, 2010, 124 Stat. 1903, 1904, 1915, 1953; Pub. L. 112–106, title I, §102(a)(2), Apr. 5, 2012, 126 Stat. 309.)
 
+#### Adjustment of Fee Amount ####
+
+For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Registration Fee Rate notes below.
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -321,3 +325,19 @@ Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided 
 "(F) the usefulness of such opinions to limited partners.
 
 "(2) Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1)."
+
+#### Adjustment of Registration Fee Rate ####
+
+By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
+
+By order dated Aug. 30, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $115.90 per $1,000,000, effective Oct. 1, 2016, see 81 F.R. 61283.
+
+By order dated Aug. 26, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $100.70 per $1,000,000, effective Oct. 1, 2015, see 80 F.R. 52824.
+
+By order dated Aug. 29, 2014, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $116.20 per $1,000,000, effective Oct. 1, 2014, see 79 F.R. 52771.
+
+By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $128.80 per $1,000,000, effective Oct. 1, 2013, see 78 F.R. 54934.
+
+By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
+
+By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
