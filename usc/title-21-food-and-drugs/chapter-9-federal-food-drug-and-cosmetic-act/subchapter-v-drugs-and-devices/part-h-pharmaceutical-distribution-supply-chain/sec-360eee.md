@@ -236,7 +236,7 @@ The term "transaction history" means a statement in paper or electronic form, in
 
 #### (26) Transaction information ####
 
-The term"transaction information" means—
+The term "transaction information" means—
 
 (A) the proprietary or established name or names of the product;
 

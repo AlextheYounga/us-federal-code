@@ -202,7 +202,7 @@ Before issuing regulations to implement subsection (a)(6), the Secretary shall c
 
 #### (A) In general ####
 
-Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such subsection by—
+Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such <sup><a href="#353b_1_target" name="353b_1">1</a></sup> subsection by—
 
 (i) publishing a notice of such substances, drugs, categories of drugs, or conditions proposed for designation, including the rationale for such designation, in the Federal Register;
 
@@ -222,7 +222,7 @@ Any notice provided under subparagraph (A) shall not be effective after the earl
 
 The Secretary shall review, and update as necessary, the regulations containing the lists of drugs, categories of drugs, or conditions described in subsection (a)(6) regularly, but not less than once every 4 years. Nothing in the previous sentence prohibits submissions to the Secretary, before or during any 4-year period described in such sentence, requesting updates to such lists.
 
-#### (d) <sup><a href="#353b_1_target" name="353b_1">1</a></sup> Definitions ####
+#### (d) <sup><a href="#353b_2_target" name="353b_2">2</a></sup> Definitions ####
 
 In this section:
 
@@ -250,7 +250,7 @@ In this section:
 
 (5) The term "sterile drug" means a drug that is intended for parenteral administration, an ophthalmic or oral inhalation drug in aqueous format, or a drug that is required to be sterile under Federal or State law.
 
-#### (d) <sup><a href="#353b_1_target" name="353b_1">1</a></sup> Obligation to pay fees ####
+#### (d) <sup><a href="#353b_2_target" name="353b_2">2</a></sup> Obligation to pay fees ####
 
 Payment of the fee under section 379j–62 of this title, as described in subsection (a)(9), shall not relieve an outsourcing facility that is licensed as a pharmacy in any State that requires pharmacy licensing fees of its obligation to pay such State fees.
 
@@ -260,4 +260,6 @@ Payment of the fee under section 379j–62 of this title, as described in subsec
 
 A prior section 503B of act June 25, 1938, ch. 675, was renumbered section 503C by Pub. L. 113–54, §102(a)(1), Nov. 27, 2013, 127 Stat. 587, and transferred to section 353c of this title.
 
-[<sup>1</sup> So in original. Two subsecs. (d) have been enacted.](#353b_1)
+[<sup>1</sup> So in original.](#353b_1)
+
+[<sup>2</sup> So in original. Two subsecs. (d) have been enacted.](#353b_2)

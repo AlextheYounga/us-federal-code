@@ -92,7 +92,7 @@ With respect to any requirement relating to product identifiers under this part�
 
 Beginning not later than January 1, 2015, a manufacturer shall—
 
-(i) prior to, or at the time of, each transaction in which such manufacturer transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement, in a single document in an paper or electronic format; and
+(i) prior to, or at the time of, each transaction in which such manufacturer transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement, in a single document in an <sup><a href="#360eee-1_2_target" name="360eee-1_2">2</a></sup> paper or electronic format; and
 
 (ii) capture the transaction information (including lot level information), transaction history, and transaction statement for each transaction and maintain such information, history, and statement for not less than 6 years after the date of the transaction.
 
@@ -819,3 +819,5 @@ On the date that is 10 years after November 27, 2013, the timeline for responses
 **2013**—Subsecs. (g) to (m). Pub. L. 113–54, §203, added subsecs. (g) to (m).
 
 [<sup>1</sup> So in original. Probably should be "title".](#360eee-1_1)
+
+[<sup>2</sup> So in original. Probably should be "a".](#360eee-1_2)

@@ -16,7 +16,7 @@ An authorization under paragraph (1) may authorize an emergency use of a product
 
 #### (3) Relation to other uses ####
 
-An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act referred to in paragraph (2)(A).
+An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act [42 U.S.C. 201 et seq.] referred to in paragraph (2)(A).
 
 #### (4) Definitions ####
 
