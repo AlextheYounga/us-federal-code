@@ -30,8 +30,6 @@ Amounts in the Fund shall—
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–67, §705(b)(1), inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and substituted “There is authorized” for “There are hereby authorized” which, for purposes of the Code, had been editorially changed to “There are authorized”.
-
-Subsec. (b). Pub. L. 113–67, §705(b)(2), added subsec. (b).
+**2013**—Pub. L. 113–67 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are hereby authorized”, and added subsec. (b).
 
 **1944**—Act Sept. 21, 1944, inserted second par.

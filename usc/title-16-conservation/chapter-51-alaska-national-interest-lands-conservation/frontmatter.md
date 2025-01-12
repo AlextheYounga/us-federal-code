@@ -241,3 +241,5 @@ Sec. 5. *General Provisions*. (a) This order shall be implemented consistent wit
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.
+
+[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.]

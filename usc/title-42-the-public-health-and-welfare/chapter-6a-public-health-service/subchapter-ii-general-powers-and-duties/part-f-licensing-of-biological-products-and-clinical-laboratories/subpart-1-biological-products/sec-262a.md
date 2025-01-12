@@ -498,6 +498,8 @@ Sec. 9. *General Provisions*. (a) The National Security Staff shall, on a bienni
 
 Barack Obama.
 
+[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.]
+
 [<sup>1</sup> So in original. Probably should be “judicial”.](#262a_1)
 
 [<sup>2</sup> So in original. Probably should be “section”.](#262a_2)

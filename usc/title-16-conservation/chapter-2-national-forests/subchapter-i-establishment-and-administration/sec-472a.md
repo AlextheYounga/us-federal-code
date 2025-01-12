@@ -44,9 +44,23 @@ The Secretary shall select or alter the bidding method or methods as he determin
 
 The Secretary of Agriculture, under such rules and regulations as he may prescribe, is authorized to dispose of, by sale or otherwise, trees, portions of trees, or other forest products related to research and demonstration projects.
 
-#### (g) Designation, marking, and supervision of harvesting; personnel ####
+#### (g) Designation and supervision of harvesting ####
 
-Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.
+#### (1) In general ####
+
+Designation, including marking when necessary, designation by description, or designation by prescription, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture.
+
+#### (2) Requirement ####
+
+Persons employed by the Secretary of Agriculture under paragraph (1)—
+
+(A) shall have no personal interest in the purchase or harvest of the products; and
+
+(B) shall not be directly or indirectly in the employment of the purchaser of the products.
+
+#### (3) Methods for designation ####
+
+Designation by prescription and designation by description shall be considered valid methods for designation, and may be supervised by use of post-harvest cruise, sample weight scaling, or other methods determined by the Secretary of Agriculture to be appropriate.
 
 #### (h) Utilization standards, methods of measurement, and harvesting practices; monetary deposits by purchasers of salvage harvests; nature, purposes and availability of designated fund; return of surplus to Treasury ####
 
@@ -60,7 +74,7 @@ The Secretary of Agriculture shall develop utilization standards, methods of mea
 
 (3) The provisions of this subsection shall become effective on October 1, 1976.
 
-(Pub. L. 94–588, §14, Oct. 22, 1976, 90 Stat. 2958; Pub. L. 95–233, Feb. 20, 1978, 92 Stat. 32; Pub. L. 101–626, title I, §105(a), Nov. 28, 1990, 104 Stat. 4427.)
+(Pub. L. 94–588, §14, Oct. 22, 1976, 90 Stat. 2958; Pub. L. 95–233, Feb. 20, 1978, 92 Stat. 32; Pub. L. 101–626, title I, §105(a), Nov. 28, 1990, 104 Stat. 4427; Pub. L. 113–79, title VIII, §8303, Feb. 7, 2014, 128 Stat. 924.)
 
 #### References in Text ####
 
@@ -73,6 +87,8 @@ This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 
 The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 #### Amendments ####
+
+**2014**—Subsec. (g). Pub. L. 113–79 added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Designation, marking when necessary, and supervision of harvesting of trees, portions of trees, or forest products shall be conducted by persons employed by the Secretary of Agriculture. Such persons shall have no personal interest in the purchase or harvest of such products and shall not be directly or indirectly in the employment of the purchaser thereof.”
 
 **1990**—Subsec. (i)(1). Pub. L. 101–626 struck out proviso that this subsec. not apply to sales of timber on National Forest System lands in the State of Alaska.
 

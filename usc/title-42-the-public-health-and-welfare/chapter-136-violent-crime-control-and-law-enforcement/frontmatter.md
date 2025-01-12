@@ -370,7 +370,7 @@ Sec.
 
 14045. Grants for outreach and services to underserved populations.
 
-14045a. Enhancing culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking.
+14045a. Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking.
 
 14045b. Grants to combat violent crimes on campuses.
 

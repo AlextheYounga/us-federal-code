@@ -8,11 +8,11 @@ Sec.
 
 2102. Rural forestry assistance.
 
-2103. Forest land enhancement program.
+2103. Repealed.
 
 2103a. Forest Stewardship Program.
 
-2103b. Watershed forestry assistance program.
+2103b. Repealed.
 
 2103c. Forest Legacy Program.
 
@@ -46,8 +46,10 @@ Sec.
 
 2111. Other Federal programs.
 
-2112. Cooperative national forest products marketing program.
+2112. Repealed.
 
 2113. Federal, State, and local coordination and cooperation.
+
+2113a. Good neighbor authority.
 
 2114. Administration.
