@@ -152,7 +152,7 @@ Subsec. (b)(1)(A). Pub. L. 116–22, §202(c)(2)(A), substituted "coalition that
 
 Subsec. (b)(1)(A)(iv). Pub. L. 116–22, §202(c)(2)(B), (C), added cl. (iv).
 
-Subsec. (d)(1)(A)(ii). Pub. L. 116–22, §203(e)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (d)(1)(A)(ii), (iii). Pub. L. 116–22, §203(e)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 Subsec. (d)(1)(B). Pub. L. 116–22, §202(c)(3)(A), substituted "coalition" for "partnership" in two places.
 

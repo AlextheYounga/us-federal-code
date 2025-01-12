@@ -8,6 +8,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2019 Amendment ####
 
+Pub. L. 116–72, §1, Nov. 25, 2019, 133 Stat. 1151, provided that: "This Act [amending section 48 of this title] may be cited as the 'Preventing Animal Cruelty and Torture Act' or the 'PACT Act'."
+
 Pub. L. 116–31, §1, July 25, 2019, 133 Stat. 1034, provided that: "This Act [amending section 175b of this title] may be cited as the 'Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019'."
 
 #### Short Title of 2018 Amendment ####

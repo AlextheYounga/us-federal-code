@@ -200,7 +200,7 @@ If the entity requires a membership fee for participation in the functions of th
 
 (1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
-(2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, $7,500,000 for each of fiscal years 2018 and 2019, and $1,069,000 for the period beginning on October 1, 2019, and ending on November 21, 2019. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018 and 2019 and for the period beginning on October 1, 2019, and ending on November 21, 2019, shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.
+(2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare & Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, $7,500,000 for each of fiscal years 2018 and 2019, and $1,665,000 for the period beginning on October 1, 2019, and ending on December 20, 2019. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018 and 2019 and for the period beginning on October 1, 2019, and ending on December 20, 2019, shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.
 
 #### (e) Annual report by Secretary to Congress ####
 
@@ -218,7 +218,7 @@ By not later than March 1 of each year (beginning with 2019), the Secretary shal
 
 (6) Estimates for, and descriptions of, obligations and expenditures that the Secretary anticipates will be needed in the succeeding two year period to carry out each of the quality measurement activities required under this section and section 1395aaa–1 of this title, including any obligations that will require funds to be expended in a future year.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §207, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50206(a)–(c)(1), Feb. 9, 2018, 132 Stat. 183–185; Pub. L. 116–59, div. B, title IV, §1401, Sept. 27, 2019, 133 Stat. 1105.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §207, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50206(a)–(c)(1), Feb. 9, 2018, 132 Stat. 183–185; Pub. L. 116–59, div. B, title IV, §1401, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title IV, §1401(a), Nov. 21, 2019, 133 Stat. 1138.)
 
 #### Amendment of Subsection (b)(5)(A) ####
 
@@ -240,7 +240,9 @@ A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as add
 
 #### Amendments ####
 
-**2019**—Subsec. (d)(2). Pub. L. 116–59 substituted "$7,500,000 for each of fiscal years 2018 and 2019, and $1,069,000 for the period beginning on October 1, 2019, and ending on November 21, 2019" for "and $7,500,000 for each of fiscal years 2018 and 2019" in first sentence and inserted "and for the period beginning on October 1, 2019, and ending on November 21, 2019," after "2018 and 2019" in last sentence.
+**2019**—Subsec. (d)(2). Pub. L. 116–69 substituted "$1,665,000 for the period beginning on October 1, 2019, and ending on December 20, 2019" for "$1,069,000 for the period beginning on October 1, 2019, and ending on November 21, 2019" and "December 20, 2019" for "November 21, 2019".
+
+Pub. L. 116–59 substituted "$7,500,000 for each of fiscal years 2018 and 2019, and $1,069,000 for the period beginning on October 1, 2019, and ending on November 21, 2019" for "and $7,500,000 for each of fiscal years 2018 and 2019" in first sentence and inserted "and for the period beginning on October 1, 2019, and ending on November 21, 2019," after "2018 and 2019" in last sentence.
 
 **2018**—Subsec. (b)(5)(A). Pub. L. 115–123, §50206(c)(1), substituted "containing the following:" for "containing a description of—" in introductory provisions, inserted "(i) A description of—", redesignated former cls. (i) to (vi) as subcls. (I) to (VI), respectively, of cl. (i), realigned margins, and added cls. (ii) and (iii).
 
@@ -271,6 +273,10 @@ Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of "q
 Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted "1395ww(s)(4)(D)," after "1395ww(o)(2),".
 
 Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
+
+#### Effective Date of 2019 Amendment ####
+
+Pub. L. 116–69, div. B, title IV, §1401(b), Nov. 21, 2019, 133 Stat. 1138, provided that: "The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Continuing Appropriations Act, 2020, and Health Extenders Act of 2019 (Public Law 116–59) [see Tables for classification]."
 
 #### Effective Date of 2018 Amendment ####
 

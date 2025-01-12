@@ -1,50 +1,78 @@
-### §48. Animal crush videos ###
+### §48. Animal crushing ###
 
-(a) Definition.—In this section the term "animal crush video" means any photograph, motion-picture film, video or digital recording, or electronic image that—
+(a) Offenses.—
 
-(1) depicts actual conduct in which 1 or more living non-human mammals, birds, reptiles, or amphibians is intentionally crushed, burned, drowned, suffocated, impaled, or otherwise subjected to serious bodily injury (as defined in section 1365 and including conduct that, if committed against a person and in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242); and
+(1) Crushing.—It shall be unlawful for any person to purposely engage in animal crushing in or affecting interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
 
-(2) is obscene.
-
-(b) Prohibitions.—
-
-(1) Creation of animal crush videos.—It shall be unlawful for any person to knowingly create an animal crush video, if—
+(2) Creation of animal crush videos.—It shall be unlawful for any person to knowingly create an animal crush video, if—
 
 (A) the person intends or has reason to know that the animal crush video will be distributed in, or using a means or facility of, interstate or foreign commerce; or
 
 (B) the animal crush video is distributed in, or using a means or facility of, interstate or foreign commerce.
 
-(2) Distribution of animal crush videos.—It shall be unlawful for any person to knowingly sell, market, advertise, exchange, or distribute an animal crush video in, or using a means or facility of, interstate or foreign commerce.
+(3) Distribution of animal crush videos.—It shall be unlawful for any person to knowingly sell, market, advertise, exchange, or distribute an animal crush video in, or using a means or facility of, interstate or foreign commerce.
 
-(c) Extraterritorial Application.—Subsection (b) shall apply to the knowing sale, marketing, advertising, exchange, distribution, or creation of an animal crush video outside of the United States, if—
+(b) Extraterritorial Application.—This section applies to the knowing sale, marketing, advertising, exchange, distribution, or creation of an animal crush video outside of the United States, if—
 
 (1) the person engaging in such conduct intends or has reason to know that the animal crush video will be transported into the United States or its territories or possessions; or
 
 (2) the animal crush video is transported into the United States or its territories or possessions.
 
-(d) Penalty.—Any person who violates subsection (b) shall be fined under this title, imprisoned for not more than 7 years, or both.
+(c) Penalties.—Whoever violates this section shall be fined under this title, imprisoned for not more than 7 years, or both.
 
-(e) Exceptions.—
+(d) Exceptions.—
 
-(1) In general.—This section shall not apply with regard to any visual depiction of—
+(1) In general.—This section does not apply with regard to any conduct, or a visual depiction of that conduct, that is—
 
-(A) customary and normal veterinary or agricultural husbandry practices;
+(A) a customary and normal veterinary, agricultural husbandry, or other animal management practice;
 
-(B) the slaughter of animals for food; or
+(B) the slaughter of animals for food;
 
-(C) hunting, trapping, or fishing.
+(C) hunting, trapping, fishing, a sporting activity not otherwise prohibited by Federal law, predator control, or pest control;
 
-(2) Good-faith distribution.—This section shall not apply to the good-faith distribution of an animal crush video to—
+(D) medical or scientific research;
+
+(E) necessary to protect the life or property of a person; or
+
+(F) performed as part of euthanizing an animal.
+
+(2) Good-faith distribution.—This section does not apply to the good-faith distribution of an animal crush video to—
 
 (A) a law enforcement agency; or
 
 (B) a third party for the sole purpose of analysis to determine if referral to a law enforcement agency is appropriate.
 
-(f) No Preemption.—Nothing in this section shall be construed to preempt the law of any State or local subdivision thereof to protect animals.
+(3) Unintentional conduct.—This section does not apply to unintentional conduct that injures or kills an animal.
 
-(Added Pub. L. 106–152, §1(a), Dec. 9, 1999, 113 Stat. 1732; amended Pub. L. 111–294, §3(a), Dec. 9, 2010, 124 Stat. 3178.)
+(4) Consistency with rfra.—This section shall be enforced in a manner that is consistent with section 3 of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2000bb–1).
+
+(e) No Preemption.—Nothing in this section shall be construed to preempt the law of any State or local subdivision thereof to protect animals.
+
+(f) Definitions.—In this section—
+
+(1) the term "animal crushing" means actual conduct in which one or more living non-human mammals, birds, reptiles, or amphibians is purposely crushed, burned, drowned, suffocated, impaled, or otherwise subjected to serious bodily injury (as defined in section 1365 and including conduct that, if committed against a person and in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242);
+
+(2) the term "animal crush video" means any photograph, motion-picture film, video or digital recording, or electronic image that—
+
+(A) depicts animal crushing; and
+
+(B) is obscene; and
+
+(3) the term "euthanizing an animal" means the humane destruction of an animal accomplished by a method that—
+
+(A) produces rapid unconsciousness and subsequent death without evidence of pain or distress; or
+
+(B) uses anesthesia produced by an agent that causes painless loss of consciousness and subsequent death.
+
+(Added Pub. L. 106–152, §1(a), Dec. 9, 1999, 113 Stat. 1732; amended Pub. L. 111–294, §3(a), Dec. 9, 2010, 124 Stat. 3178; Pub. L. 116–72, §2(a), Nov. 25, 2019, 133 Stat. 1151.)
+
+#### References in Text ####
+
+Section 3 of the Religious Freedom Restoration Act of 1993, referred to in subsec. (d)(4), is section 3 of Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified to section 2000bb–1 of Title 42, The Public Health and Welfare.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–72 amended section generally. Prior to amendment, section related to animal crush videos.
 
 **2010**—Pub. L. 111–294 amended section generally. Prior to amendment, section related to depiction of animal cruelty.
 
