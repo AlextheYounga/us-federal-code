@@ -1573,7 +1573,7 @@ The times set in the former rule at 10 or 20 days have been revised to 14 or 21 
 
 (h) Excusing a Juror. At any time, for good cause, the court may excuse a juror either temporarily or permanently, and if permanently, the court may impanel an alternate juror in place of the excused juror.
 
-(i) "Indian Tribe" Defined. "Indian tribe" means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. §479a–1.
+(i) "Indian Tribe" Defined. "Indian tribe" means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. §479a–1.<sup><a href="#Rule_6_1_target" name="Rule_6_1">1</a></sup>
 
 (As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; Pub. L. 95–78, §2(a), July 30, 1977, 91 Stat. 319; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; Pub. L. 98–473, title II, §215(f), Oct. 12, 1984, 98 Stat. 2016; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Pub. L. 107–56, title II, §203(a), Oct. 26, 2001, 115 Stat. 278; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–296, title VIII, §895, Nov. 25, 2002, 116 Stat. 2256; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
@@ -1881,6 +1881,8 @@ Under the amendment, the grand jury (or the foreperson) would appear in a courtr
 
 The Uniform Code of Military Justice, referred to in subd. (e)(3)(E)(v), is classified to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
 
+25 U.S.C. §479a–1, referred to in subd. (i), was editorially reclassified as 25 U.S.C. 5131.
+
 #### Amendment by Public Law ####
 
 **2004**—Subd. (e)(3)(A)(ii). Pub. L. 108–458, §6501(a)(1)(A), substituted ", state subdivision, Indian tribe, or foreign government" for "or state subdivision or of an Indian tribe".
@@ -1962,6 +1964,8 @@ Amendment of this rule by order of the United States Supreme Court on Apr. 26, 1
 #### Effective Date of 1976 Amendment ####
 
 Amendment of subd. (f) by the order of the United States Supreme Court of Apr. 26, 1976, effective Aug. 1, 1976, see section 1 of Pub. L. 94–349, July 8, 1976, 90 Stat. 822, set out as a note under section 2074 of Title 28, Judiciary and Judicial Procedure.
+
+[<sup>1</sup> See References in Text note below.](#Rule_6_1)
 
 ### Rule 7. The Indictment and the Information ###
 

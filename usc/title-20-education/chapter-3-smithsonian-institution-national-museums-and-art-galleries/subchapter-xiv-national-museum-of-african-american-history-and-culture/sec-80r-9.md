@@ -10,7 +10,7 @@ There are authorized to be appropriated to the Smithsonian Institution to carry 
 
 #### (b) Availability ####
 
-Amounts made available under subsection (a) of this section shall remain available until expended.
+Amounts made available under subsection (a) shall remain available until expended.
 
 #### (c) Use of funds for fundraising ####
 

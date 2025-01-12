@@ -20,7 +20,7 @@ The term "Indian product" has the meaning given the term in any regulation promu
 
 #### (A) In general ####
 
-The term "Indian tribe" has the meaning given the term in section 450b of this title.
+The term "Indian tribe" has the meaning given the term in section 5304 of this title.
 
 #### (B) Inclusion ####
 

@@ -40,7 +40,7 @@ The Board shall be composed of—
 
 (iii) three additional Members of the Senate appointed by the President of the Senate; and
 
-(L) thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b) of this section.
+(L) thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b).
 
 #### (b) General trustees ####
 

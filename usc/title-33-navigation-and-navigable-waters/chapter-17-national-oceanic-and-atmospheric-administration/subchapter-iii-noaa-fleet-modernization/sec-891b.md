@@ -6,11 +6,11 @@ To carry out the program authorized in section 891a of this title, the Secretary
 
 #### (b) Timing ####
 
-The Plan required in subsection (a) of this section shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.
+The Plan required in subsection (a) shall be submitted to Congress within 30 days of October 29, 1992, and updated on an annual basis.
 
 #### (c) Plan elements ####
 
-The Plan required in subsection (a) of this section shall include the following—
+The Plan required in subsection (a) shall include the following—
 
 (1) the number of vessels proposed to be modernized or replaced, the schedule for their modernization or replacement, and anticipated funding requirements;
 
@@ -26,7 +26,7 @@ The Plan required in subsection (a) of this section shall include the following�
 
 #### (d) Contracting limitation ####
 
-The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a) of this section.
+The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a).
 
 (Pub. L. 102–567, title VI, §604, Oct. 29, 1992, 106 Stat. 4300.)
 

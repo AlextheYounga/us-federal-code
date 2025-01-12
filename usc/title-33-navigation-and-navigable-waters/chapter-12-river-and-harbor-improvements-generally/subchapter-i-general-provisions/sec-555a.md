@@ -2,7 +2,7 @@
 
 #### (a) Disclosure to States ####
 
-The Secretary shall disclose petroleum product information to any State taxing agency making a request under subsection (b) of this section. Such information shall be disclosed for the purpose of, and only to the extent necessary in, the administration of State tax laws.
+The Secretary shall disclose petroleum product information to any State taxing agency making a request under subsection (b). Such information shall be disclosed for the purpose of, and only to the extent necessary in, the administration of State tax laws.
 
 #### (b) Requests for disclosure ####
 

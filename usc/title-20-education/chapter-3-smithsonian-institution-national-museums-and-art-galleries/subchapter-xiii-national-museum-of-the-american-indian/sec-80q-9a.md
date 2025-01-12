@@ -6,7 +6,7 @@ Not later than December 31, 1996, the Secretary of the Smithsonian Institution s
 
 #### (b) Repatriation ####
 
-Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant to subsection (a) of this section, or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
+Where cultural affiliation of Native American unassociated funerary objects, sacred objects, and objects of cultural patrimony has been established in the summary prepared pursuant to subsection (a), or where a requesting Indian tribe or Native Hawaiian organization can show cultural affiliation by a preponderance of the evidence based upon geographical, kinship, biological, archaeological, anthropological, linguistic, folkloric, oral traditional, historical, or other relevant information or expert opinion, then the Smithsonian Institution shall expeditiously return such unassociated funerary object, sacred object, or object of cultural patrimony where—
 
 (1) the requesting party is the direct lineal descendant of an individual who owned the unassociated funerary object or sacred object;
 

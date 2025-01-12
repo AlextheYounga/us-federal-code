@@ -8,7 +8,7 @@ The Secretary, acting through the Director of the Center for Mental Health Servi
 
 #### (2) "Public entity" defined ####
 
-For purposes of this part, the term "public entity" means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 450b(b) and section 450b(c) <sup><a href="#290ff_1_target" name="290ff_1">1</a></sup> of title 25).
+For purposes of this part, the term "public entity" means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 5304(b) and section 5304(c) <sup><a href="#290ff_1_target" name="290ff_1">1</a></sup> of title 25).
 
 #### (b) Considerations in making grants ####
 
@@ -72,7 +72,7 @@ A funding agreement for a grant under subsection (a) of this section is that the
 
 #### References in Text ####
 
-Subsections (b) and (c) of section 450b of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in section 450b of Title 25, Indians.
+Subsections (b) and (c) of section 5304 of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

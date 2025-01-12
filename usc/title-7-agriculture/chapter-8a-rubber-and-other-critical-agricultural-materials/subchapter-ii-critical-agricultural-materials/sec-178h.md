@@ -2,7 +2,7 @@
 
 In carrying out the provisions of this subchapter, the Secretary of Commerce is authorized to—
 
-(a) make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), and enter into contracts with such institutions and organizations and with industrial or engineering firms;
+(a) make grants to States, education institutions, scientific organizations, and Indian tribes as defined in the Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450),<sup><a href="#178h_1_target" name="178h_1">1</a></sup> and enter into contracts with such institutions and organizations and with industrial or engineering firms;
 
 (b) acquire the services of biologists, agronomists, foresters, geneticists, engineers, economists, and other personnel having expertise in native agricultural crops which could supply critical agricultural materials by contract or otherwise;
 
@@ -18,7 +18,7 @@ In carrying out the provisions of this subchapter, the Secretary of Commerce is 
 
 #### References in Text ####
 
-The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), as amended, referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act (Public Law 93–638, 25 U.S.C. 450), referred to in cl. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments ####
 
@@ -27,3 +27,5 @@ The Indian Self-Determination and Education Assistance Act (Public Law 93–638,
 Cl. (b). Pub. L. 98–284, §10(3), inserted "having expertise in native agricultural crops which could supply critical agricultural materials".
 
 Cl. (f). Pub. L. 98–284, §10(4), substituted "the activities authorized by this subchapter" for "natural rubber manufacture".
+
+[<sup>1</sup> See References in Text note below.](#178h_1)

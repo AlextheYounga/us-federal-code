@@ -26,7 +26,7 @@ Pub. L. 105–367, §1, Nov. 10, 1998, 112 Stat. 3313, provided that:
 
 "(3) shall apply only to land with respect to which the United States is the owner of coal reserved to the United States in a patent issued under the Act of March 3, 1909 (30 U.S.C. 81), or the Act of June 22, 1910 (30 U.S.C. 83 et seq.), the position of the United States as the owner of the coal not having passed to a third party by deed, patent or other conveyance by the United States;
 
-"(4) shall not apply to any interest in coal or land conveyed, restored, or transferred by the United States to a federally recognized Indian tribe, including any conveyance, restoration, or transfer made pursuant to the Indian Reorganization Act, June 18, 1934 (c. 576, 48 Stat. 984, as amended) [25 U.S.C. 461 et seq.]; the Act of June 28, 1938 (c. 776, 52 Stat. 1209 as implemented by the order of September 14, 1938, 3 Fed. Reg. 1425); and including the area described in section 3 of Public Law 98–290 [25 U.S.C. 668 note]; or any executive order;
+"(4) shall not apply to any interest in coal or land conveyed, restored, or transferred by the United States to a federally recognized Indian tribe, including any conveyance, restoration, or transfer made pursuant to the Indian Reorganization Act, June 18, 1934 (c. 576, 48 Stat. 984, as amended) [25 U.S.C. 5101 et seq.]; the Act of June 28, 1938 (c. 776, 52 Stat. 1209 as implemented by the order of September 14, 1938, 3 Fed. Reg. 1425); and including the area described in section 3 of Public Law 98–290 [former 25 U.S.C. 668 note]; or any executive order;
 
 "(5) shall not be construed to constitute a waiver of any rights of the United States with respect to coalbed methane production that is not subject to subsection (a); and
 

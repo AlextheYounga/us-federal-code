@@ -2,7 +2,7 @@
 
 #### (a) Design requirement ####
 
-Except for the vessel designs identified under subsection (b) of this section, the Secretary, working through the Office of the NOAA Corps Operations and the Systems Procurement Office, shall—
+Except for the vessel designs identified under subsection (b), the Secretary, working through the Office of the NOAA Corps Operations and the Systems Procurement Office, shall—
 
 (1) prepare requirements for each class of vessel to be constructed or converted under the Plan; and
 

@@ -96,7 +96,7 @@ Sec.
 
 4370m. Definitions.
 
-4370m–1. Federal permitting improvement council.
+4370m–1. Federal Permitting Improvement Council.
 
 4370m–2. Permitting process improvement.
 

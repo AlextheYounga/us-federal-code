@@ -1,27 +1,5 @@
-### §712b. Organization of tribe ###
+### §712b. Omitted ###
 
-#### (a) Organization and organic governing document ####
+#### Codification ####
 
-The tribe may organize for its common welfare and adopt an appropriate instrument, in writing, to govern the affairs of the tribe when acting in its governmental capacity. The tribe shall file with the Secretary of the Interior a copy of its organic governing document and any amendments thereto.
-
-#### (b) New governing document or amendments or revisions of interim governing document; tribal election ####
-
-Not less than one year following October 26, 1987, the tribe's governing body may propose a new governing document or amendments or revisions to the interim governing document, and the Secretary shall conduct a tribal election as to the adoption of that proposed document within one hundred twenty days from the date it is submitted to the Bureau of Indian Affairs.
-
-#### (c) Approval of new governing document ####
-
-The Secretary shall approve the new governing document if approved by a majority of the tribal voters unless he or she determines that such document is in violation of any laws of the United States.
-
-#### (d) Interim governing document pending approval ####
-
-Until the tribe adopts and the Secretary approves a new governing document, its interim governing document shall be the tribal bylaws entitled "By-Laws of Cow Creek Band of Umpqua Tribe of Indians" which bear an "approved" date of "9–10–78,".
-
-#### (e) Governing body pending adoption of final document ####
-
-Until the tribe adopts a final governing document, the tribe's governing body shall consist of its current board of directors elected at the tribe's annual meeting of August 10, 1986, or such new board members as are selected under election procedures of the interim governing document identified at subsection (d).
-
-(Pub. L. 97–391, §4, Dec. 29, 1982, 96 Stat. 1961; Pub. L. 100–139, §7(a), Oct. 26, 1987, 101 Stat. 828.)
-
-#### Amendments ####
-
-**1987**—Pub. L. 100–139 amended section generally. Prior to amendment, section read as follows: "The tribe may organize for its common welfare and adopt an appropriate instrument, in writing, to govern the affairs of the tribe when acting in its governmental capacity. The tribe shall file with the Secretary of the Interior a copy of its organic governing document and any amendments thereto."
+Section, Pub. L. 97–391, §4, Dec. 29, 1982, 96 Stat. 1961; Pub. L. 100–139, §7(a), Oct. 26, 1987, 101 Stat. 828, which related to organization of tribe, was omitted from the Code as being of special and not general application.

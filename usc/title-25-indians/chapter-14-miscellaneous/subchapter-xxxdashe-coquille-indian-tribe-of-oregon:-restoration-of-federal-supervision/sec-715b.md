@@ -1,17 +1,5 @@
-### §715b. Economic development ###
+### §715b. Omitted ###
 
-#### (a) Plan for economic development ####
+#### Codification ####
 
-The Secretary shall—
-
-(1) enter into negotiations with the governing body of the Tribe with respect to establishing a plan for economic development for this Tribe;
-
-(2) in accordance with this section and not later than two years after the adoption of a tribal constitution as provided in section 715g of this title, develop such a plan; and
-
-(3) upon the approval of such plan by the governing body of the Tribe, submit such plan to the Congress.
-
-#### (b) Restrictions to be contained in plan ####
-
-Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) shall be consistent with the requirements of section 715c of this title.
-
-(Pub. L. 101–42, §4, June 28, 1989, 103 Stat. 92.)
+Section, Pub. L. 101–42, §4, June 28, 1989, 103 Stat. 92, which related to plan for economic development for the Tribe, was omitted from the Code as being of special and not general application.

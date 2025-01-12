@@ -6,11 +6,11 @@ That portion of the waterway in which is located Dark Head Creek in the communit
 
 #### (b) Pierhead and bulkhead line of Dark Head Creek ####
 
-The line described in subsection (a) of this section shall be established as a combined pierhead and bulkhead line of Dark Head Creek.
+The line described in subsection (a) shall be established as a combined pierhead and bulkhead line of Dark Head Creek.
 
 #### (c) Previously authorized projects ####
 
-Any project heretofore authorized by any Act of Congress, insofar as such project is within the boundaries of Dark Head Creek as described in subsection (a) of this section, is not authorized after November 17, 1986.
+Any project heretofore authorized by any Act of Congress, insofar as such project is within the boundaries of Dark Head Creek as described in subsection (a), is not authorized after November 17, 1986.
 
 #### (d) Reservation of rights ####
 

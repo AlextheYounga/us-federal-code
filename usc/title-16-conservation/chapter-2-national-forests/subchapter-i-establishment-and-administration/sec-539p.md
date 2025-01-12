@@ -18,7 +18,7 @@ The term "Federal land" means the approximately 2,422 acres of land located in P
 
 #### (3) Indian tribe ####
 
-The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (4) Non-Federal land ####
 

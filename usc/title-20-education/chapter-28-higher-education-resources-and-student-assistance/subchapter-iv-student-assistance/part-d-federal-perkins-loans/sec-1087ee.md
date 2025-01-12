@@ -74,17 +74,17 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 #### (1) List ####
 
-If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (2) Continuing eligibility ####
 
 Any teacher who performs service in a school which—
 
-(A) meets the requirements of subsection (a)(2)(A) of this section in any year; and
+(A) meets the requirements of subsection (a)(2)(A) in any year; and
 
 (B) in a subsequent year fails to meet the requirements of such subsection,
 
-may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such <sup><a href="#1087ee_2_target" name="1087ee_2">2</a></sup> subsequent years.
+may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) such <sup><a href="#1087ee_2_target" name="1087ee_2">2</a></sup> subsequent years.
 
 (Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947.)
 

@@ -48,7 +48,7 @@ Subsection (a) shall not apply to the amount of any qualified Indian health care
 
 #### References in Text ####
 
-Section 4(l) of the Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2), is classified to section 450b(l) of Title 25, Indians.
+Section 4(l) of the Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2), is classified to section 5304(l) of Title 25, Indians.
 
 #### Codification ####
 

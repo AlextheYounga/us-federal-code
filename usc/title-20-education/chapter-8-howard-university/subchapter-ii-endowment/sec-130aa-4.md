@@ -8,7 +8,7 @@
 
 (3) fails to account properly to the Secretary concerning investments and expenditures of its endowment fund corpus or income.
 
-(b) If the Secretary terminates a grant under subsection (a) of this section, the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter <sup><a href="#130aa-4_1_target" name="130aa-4_1">1</a></sup> plus any income earned thereon. The Secretary may direct the University to take such other appropriate measures to remedy any violation of this subchapter and to protect the financial interest of the United States.
+(b) If the Secretary terminates a grant under subsection (a), the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter <sup><a href="#130aa-4_1_target" name="130aa-4_1">1</a></sup> plus any income earned thereon. The Secretary may direct the University to take such other appropriate measures to remedy any violation of this subchapter and to protect the financial interest of the United States.
 
 (Pub. L. 98–480, title II, §206, Oct. 17, 1984, 98 Stat. 2247.)
 

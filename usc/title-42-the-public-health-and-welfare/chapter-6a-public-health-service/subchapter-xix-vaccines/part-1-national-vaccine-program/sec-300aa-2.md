@@ -56,13 +56,7 @@ A prior section 2102 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Grants for Research on Vaccine Against Valley Fever ####
 
-Pub. L. 109–432, div. B, title IV, §402, Dec. 20, 2006, 120 Stat. 2994, provided that:
-
-"(a) In General.—In supporting research on the development of vaccines against human diseases, the Secretary of Health and Human Services shall make grants for the purpose of conducting research toward the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever).
-
-"(b) Sunset.—No grant may be made under subsection (a) on or after October 1, 2012. The preceding sentence does not have any legal effect on payments under grants for which amounts appropriated under subsection (c) were obligated prior to such date.
-
-"(c) Authorization of Appropriations.—For the purpose of making grants under subsection (a), there are authorized to be appropriated $40,000,000 for the period of fiscal years 2007 through 2012."
+Pub. L. 109–432, div. B, title IV, §402, Dec. 20, 2006, 120 Stat. 2994, authorized the Secretary of Health and Human Services to make grants for research on the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever) before Oct. 1, 2012.
 
 #### Demonstration Projects for Outreach Programs ####
 

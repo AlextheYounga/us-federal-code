@@ -6,7 +6,7 @@ Nothing in this part shall be interpreted as limiting the authority of the finan
 
 #### (b) Adjustments to assets taken into account ####
 
-A student financial aid administrator shall be considered to be making a necessary adjustment in accordance with subsection (a) of this section if—
+A student financial aid administrator shall be considered to be making a necessary adjustment in accordance with subsection (a) if—
 
 (1) the administrator makes adjustments excluding from family income any proceeds of a sale of farm or business assets of a family if such sale results from a voluntary or involuntary foreclosure, forfeiture, or bankruptcy or an involuntary liquidation; or
 
@@ -14,7 +14,7 @@ A student financial aid administrator shall be considered to be making a necessa
 
 #### (c) Refusal or adjustment of loan certifications ####
 
-On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or C of this subchapter, or may certify a loan amount or make a loan that is less than the student's determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
+On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or C, or may certify a loan amount or make a loan that is less than the student's determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
 
 (Pub. L. 89–329, title IV, §479A, as added Pub. L. 100–50, §14(26), June 3, 1987, 101 Stat. 352; amended Pub. L. 101–239, title II, §2009, Dec. 19, 1989, 103 Stat. 2122; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 605; Pub. L. 103–208, §2(g)(16), Dec. 20, 1993, 107 Stat. 2473; Pub. L. 105–244, title IV, §478, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 110–84, title VI, §603(a), Sept. 27, 2007, 121 Stat. 805; Pub. L. 110–315, title IV, §472(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 113–128, title V, §512(n)(3), July 22, 2014, 128 Stat. 1710.)
 

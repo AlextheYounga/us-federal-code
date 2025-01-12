@@ -54,7 +54,7 @@ The panel shall meet on a biannual basis and, at any other time, at the call of 
 
 #### (f) Powers ####
 
-The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
+The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b).
 
 (Pub. L. 105–384, title III, §305, Nov. 13, 1998, 112 Stat. 3456; Pub. L. 105–383, title IV, §432(c), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §105, Dec. 19, 2002, 116 Stat. 3080; Pub. L. 110–386, §4, Oct. 10, 2008, 122 Stat. 4107.)
 

@@ -1,5 +1,5 @@
-### §564s. Set off of individual indebtedness; credit ###
+### §564s. Omitted ###
 
-The Secretary is authorized to set off against any indebtedness payable to the tribe or to the United States by an individual member of the tribe or payable to the United States by the tribe, any funds payable to such individual or tribe under this subchapter and to deposit the amounts set off to the credit of the tribe or the United States as the case may be.
+#### Codification ####
 
-(Aug. 13, 1954, ch. 732, §20, 68 Stat. 723.)
+Section, act Aug. 13, 1954, ch. 732, §20, 68 Stat. 723, which related to set-off of indebtedness payable to the tribe or to the United States, was omitted from the Code as being of special and not general application.

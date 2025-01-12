@@ -1004,7 +1004,7 @@ In this subsection, the term "newly eligible Medicare beneficiary" means an indi
 
 (B) An individual who was entitled to benefits under part A pursuant to section 426(b) or 426–1 of this title, or deemed to be eligible for benefits under section 426(a) of this title, before January 1, 2020.
 
-#### (3) Treatment of waivered states ####
+#### (3) Treatment of waivered States ####
 
 In the case of a State described in subsection (p)(6), nothing in this section shall be construed as preventing the State from modifying its alternative simplification program under such subsection so as to eliminate the coverage of the part B deductible for any medical supplemental policy sold or issued under such program to a newly eligible Medicare beneficiary on or after January 1, 2020.
 

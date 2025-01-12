@@ -1,17 +1,5 @@
-### §566g. Definitions ###
+### §566g. Omitted ###
 
-For the purposes of this subchapter the following definitions apply:
+#### Codification ####
 
-(1) The term "tribe" means the Klamath Tribe consisting of the Klamath and Modoc Tribes of Oregon and the Yahooskin Band of Snake Indians.
-
-(2) The term "member" means those persons eligible for enrollment under the Constitution and Bylaws of the Klamath Tribe.
-
-(3) The term "Secretary" means the Secretary of the Interior or his designated representative.
-
-(4) The term "State" means the State of Oregon.
-
-(5) The term "Constitution and Bylaws" means the Constitution and Bylaws of the Klamath Tribe of Indians in effect on August 27, 1986.
-
-(6) The term "General Council" means the governing body of the tribe under the Constitution and Bylaws.
-
-(Pub. L. 99–398, §9, Aug. 27, 1986, 100 Stat. 851.)
+Section, Pub. L. 99–398, §9, Aug. 27, 1986, 100 Stat. 851, which set out definitions, was omitted from the Code as being of special and not general application.

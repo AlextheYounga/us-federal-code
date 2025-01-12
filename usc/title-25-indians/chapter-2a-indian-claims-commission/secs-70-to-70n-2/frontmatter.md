@@ -40,4 +40,4 @@ Section 70n–2, Pub. L. 88–168, §2, Nov. 4, 1963, 77 Stat. 301, related to i
 
 #### Indian Self-Determination Conflict of Interest Requirement Inapplicable to Commissioner Not in Office ####
 
-Pub. L. 95–453, Oct. 12, 1978, 92 Stat. 1110, provided in part that section 105(j) of the Indian Self-Determination Act (section 450i(f) of this title) was not to apply to members of the Indian Claims Commission affected by Pub. L. 95–453 (which amended subsec. (c) of section 70b of this title).
+Pub. L. 95–453, Oct. 12, 1978, 92 Stat. 1110, provided in part that section 105(j) of the Indian Self-Determination Act (section 5323(f) of this title) was not to apply to members of the Indian Claims Commission affected by Pub. L. 95–453 (which amended subsec. (c) of section 70b of this title).

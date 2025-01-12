@@ -1,5 +1,5 @@
-### §788d. Rules and regulations ###
+### §788d. Omitted ###
 
-The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 788a to 788d of this title, including establishing an appropriate deadline for filing applications.
+#### Codification ####
 
-(Pub. L. 90–504, §4, Sept. 21, 1968, 82 Stat. 855.)
+Section, Pub. L. 90–504, §4, Sept. 21, 1968, 82 Stat. 855, which authorized the prescription of rules and regulations to carry out the provisions of former sections 788a to 788d of this title, was omitted from the Code as being of special and not general application.

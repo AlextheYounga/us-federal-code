@@ -30,7 +30,7 @@ Subsections (d) and (e) <sup><a href="#238m_1_target" name="238m_1">1</a></sup>
 
 #### (e) "Fiscal agent" defined ####
 
-In this section, the term "fiscal agent" means a carrier described in section 1395u(f)(1) <sup><a href="#238m_1_target" name="238m_1">1</a></sup> of this title and includes, with respect to contracts under subsection (a)(1)(A) of this section, an Indian tribe or tribal organization acting under contract with the Secretary under the Indian Self-Determination Act (Public Law 93–638) [25 U.S.C. 450f et seq.].
+In this section, the term "fiscal agent" means a carrier described in section 1395u(f)(1) <sup><a href="#238m_1_target" name="238m_1">1</a></sup> of this title and includes, with respect to contracts under subsection (a)(1)(A) of this section, an Indian tribe or tribal organization acting under contract with the Secretary under the Indian Self-Determination Act (Public Law 93–638) [25 U.S.C. 5321 et seq.].
 
 (July 1, 1944, ch. 373, title II, §244, formerly title XXI, §2116, as added Pub. L. 99–272, title XVII, §17003, Apr. 7, 1986, 100 Stat. 359; renumbered title XXIII, §2316, Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3755; renumbered title XXV, §2514, Pub. L. 100–607, title II, §201(1), (3), Nov. 4, 1988, 102 Stat. 3062, 3063; renumbered title XXVI, §2614, Pub. L. 100–690, title II, §2620(a), Nov. 18, 1988, 102 Stat. 4244; renumbered title XXVII, §2714, Pub. L. 101–381, title I, §101(1), (2), Aug. 18, 1990, 104 Stat. 576; renumbered title II, §244, Pub. L. 103–43, title XX, §2010(a)(1)–(3), June 10, 1993, 107 Stat. 213.)
 
@@ -38,7 +38,7 @@ In this section, the term "fiscal agent" means a carrier described in section 13
 
 Subsections (d), (e), and (f) of section 1395u of this title, referred to in subsecs. (d) and (e), were repealed by Pub. L. 108–173, title IX, §911(c)(5), Dec. 8, 2003, 117 Stat. 2384.
 
-The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (e), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Codification ####
 

@@ -1,5 +1,5 @@
-### §788h. Rules and regulations ###
+### §788h. Omitted ###
 
-The Secretary of the Interior is authorized to prescribe rules and regulations to carry out the provisions of sections 788e to 788h of this title, including an appropriate deadline for filing applications for enrollment.
+#### Codification ####
 
-(Pub. L. 90–506, §4, Sept. 21, 1968, 82 Stat. 859.)
+Section, Pub. L. 90–506, §4, Sept. 21, 1968, 82 Stat. 859, which authorized the prescription of rules and regulations to carry out the provisions of former sections 788e to 788h of this title, was omitted from the Code as being of special and not general application.

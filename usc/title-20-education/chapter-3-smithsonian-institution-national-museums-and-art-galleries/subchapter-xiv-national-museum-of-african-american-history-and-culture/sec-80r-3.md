@@ -76,7 +76,7 @@ Except as provided in this subsection, each appointed member of the Council shal
 
 #### (2) Initial appointees ####
 
-As designated by the Board of Regents at the time of appointment, of the voting members first appointed under subparagraph (C) of subsection (c)(2) of this section—
+As designated by the Board of Regents at the time of appointment, of the voting members first appointed under subparagraph (C) of subsection (c)(2)—
 
 (A) six members shall be appointed for a term of 1 year;
 

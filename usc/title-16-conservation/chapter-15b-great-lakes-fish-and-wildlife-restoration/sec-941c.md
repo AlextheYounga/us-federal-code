@@ -106,7 +106,7 @@ The Director may not consider the expenditure, directly or indirectly, of Federa
 
 #### (4) Effect on certain Indian tribes ####
 
-Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup><a href="#941c_1_target" name="941c_1">1</a></sup>
 
 (Pub. L. 101–537, title I, §1005, Nov. 8, 1990, 104 Stat. 2372; Pub. L. 101–646, title II, §2005, Nov. 29, 1990, 104 Stat. 4775; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§3(b), 6, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, §4, Oct. 11, 2006, 120 Stat. 1762.)
 
@@ -116,7 +116,7 @@ The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred 
 
 Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Codification ####
 
@@ -129,3 +129,5 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 **1998**—Pub. L. 105–265 amended section generally, substituting present provisions for provisions requiring a Great Lakes fishery resources restoration study and development of proposals for implementing recommendations.
 
 **1996**—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2005, which enacted this section.
+
+[<sup>1</sup> See References in Text note below.](#941c_1)

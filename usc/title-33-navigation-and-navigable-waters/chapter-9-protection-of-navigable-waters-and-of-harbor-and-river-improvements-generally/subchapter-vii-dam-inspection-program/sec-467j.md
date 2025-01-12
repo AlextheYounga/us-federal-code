@@ -4,7 +4,7 @@
 
 #### (1) Annual amounts ####
 
-There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e) of this section), $9,200,000 for each of fiscal years 2015 through 2019, to remain available until expended.
+There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2015 through 2019, to remain available until expended.
 
 #### (2) Allocation ####
 

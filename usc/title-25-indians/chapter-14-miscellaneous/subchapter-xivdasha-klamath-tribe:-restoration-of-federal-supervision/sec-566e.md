@@ -1,5 +1,5 @@
-### §566e. Criminal and civil jurisdiction ###
+### §566e. Omitted ###
 
-The State shall exercise criminal and civil jurisdiction within the boundaries of the reservation, in accordance with section 1162 of title 18 and section 1360 of title 28, respectively.
+#### Codification ####
 
-(Pub. L. 99–398, §7, Aug. 27, 1986, 100 Stat. 850.)
+Section, Pub. L. 99–398, §7, Aug. 27, 1986, 100 Stat. 850, which related to criminal and civil jurisdiction within the reservation, was omitted from the Code as being of special and not general application.

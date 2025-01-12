@@ -6,13 +6,13 @@ For each independent student without dependents other than a spouse, the expecte
 
 (1) adding—
 
-(A) the family's contribution from available income (determined in accordance with subsection (b) of this section); and
+(A) the family's contribution from available income (determined in accordance with subsection (b)); and
 
-(B) the family's contribution from assets (determined in accordance with subsection (c) of this section);
+(B) the family's contribution from assets (determined in accordance with subsection (c));
 
 (2) dividing the sum resulting under paragraph (1) by the number of students who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested; and
 
-(3) for periods of enrollment of less than 9 months, for purposes other than subpart 2 of part A of this subchapter—
+(3) for periods of enrollment of less than 9 months, for purposes other than subpart 2 of part A—
 
 (A) dividing the quotient resulting under paragraph (2) by 9; and
 

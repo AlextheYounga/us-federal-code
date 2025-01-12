@@ -566,7 +566,7 @@ Except as provided in subsection (e)(1)(B) of this section, the Secretary may no
 
 (iv) has submitted to the Secretary such reports as the Secretary may require to determine compliance with this subparagraph;
 
-(H) the center has established a governing board which except in the case of an entity operated by an Indian tribe or tribal or Indian organization under the Indian Self-Determination Act [25 U.S.C. 450f et seq.] or an urban Indian organization under the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.)—
+(H) the center has established a governing board which except in the case of an entity operated by an Indian tribe or tribal or Indian organization under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.] or an urban Indian organization under the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.)—
 
 (i) is composed of individuals, a majority of whom are being served by the center and who, as a group, represent the individuals being served by the center;
 
@@ -792,7 +792,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (d)(1)(E), is titl
 
 The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (k)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (k)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (k)(3)(H), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 

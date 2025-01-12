@@ -6,13 +6,13 @@ The portion of the canal known as the James River and Kanawha Canal in Richmond,
 
 #### (b) Ensuring public safety ####
 
-The Secretary of Transportation shall provide such technical advice, information, and assistance as the City of Richmond, Virginia, or its designee may request to insure that the vessels operating on the waters declared nonnavigable by subsection (a) of this section are built, maintained, and operated in a manner consistent with protecting public safety.
+The Secretary of Transportation shall provide such technical advice, information, and assistance as the City of Richmond, Virginia, or its designee may request to insure that the vessels operating on the waters declared nonnavigable by subsection (a) are built, maintained, and operated in a manner consistent with protecting public safety.
 
 #### (c) Termination of declaration ####
 
 #### (1) In general ####
 
-The Secretary of Transportation may terminate the effectiveness of the declaration made by subsection (a) of this section by publishing a determination that vessels operating on the waters declared nonnavigable by subsection (a) of this section have not been built, maintained, and operated in a manner consistent with protecting public safety.
+The Secretary of Transportation may terminate the effectiveness of the declaration made by subsection (a) by publishing a determination that vessels operating on the waters declared nonnavigable by subsection (a) have not been built, maintained, and operated in a manner consistent with protecting public safety.
 
 #### (2) Public input ####
 

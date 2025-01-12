@@ -1,33 +1,5 @@
-### §458ccc–2. Administrative services and support ###
+### §458ccc–2. Transferred ###
 
-#### (a) Provision of support by Secretary ####
+#### Codification ####
 
-Subject to subsection (b), during the 5-year period beginning on the date on which the Foundation is established, the Secretary—
-
-(1) may provide personnel, facilities, and other administrative support services to the Foundation;
-
-(2) may provide funds for initial operating costs and to reimburse the travel expenses of the members of the Board; and
-
-(3) shall require and accept reimbursements from the Foundation for—
-
-(A) services provided under paragraph (1); and
-
-(B) funds provided under paragraph (2).
-
-#### (b) Reimbursement ####
-
-Reimbursements accepted under subsection (a)(3)—
-
-(1) shall be deposited in the Treasury of the United States to the credit of the applicable appropriations account; and
-
-(2) shall be chargeable for the cost of providing services described in subsection (a)(1) and travel expenses described in subsection (a)(2).
-
-#### (c) Continuation of certain services ####
-
-The Secretary may continue to provide facilities and necessary support services to the Foundation after the termination of the 5-year period specified in subsection (a) if the facilities and services are—
-
-(1) available; and
-
-(2) provided on reimbursable cost basis.
-
-(Pub. L. 93–638, title VII, §703, as added Pub. L. 111–211, title II, §231(c), July 29, 2010, 124 Stat. 2277.)
+Section 458ccc–2 was editorially reclassified as section 5413 of this title.

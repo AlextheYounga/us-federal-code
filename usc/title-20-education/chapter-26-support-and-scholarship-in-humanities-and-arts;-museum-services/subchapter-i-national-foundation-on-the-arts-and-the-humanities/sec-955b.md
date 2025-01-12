@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is hereby established a National Medal of Arts, which shall be a medal of such design as is deemed appropriate by the President, on the basis of recommendations submitted by the National Council on the Arts, and which shall be awarded as provided in subsection (b) of this section.
+There is hereby established a National Medal of Arts, which shall be a medal of such design as is deemed appropriate by the President, on the basis of recommendations submitted by the National Council on the Arts, and which shall be awarded as provided in subsection (b).
 
 #### (b) Award of Medal; conditions; recipients; presentation ceremonies ####
 

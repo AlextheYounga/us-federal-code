@@ -1,5 +1,5 @@
-### §713a. Consideration of Confederated Tribes of Grand Ronde Community as one tribe ###
+### §713a. Omitted ###
 
-The Confederated Tribes of the Grand Ronde Community of Oregon shall be considered as one tribal unit for purposes of Federal recognition and eligibility for Federal benefits under section 713b of this title, the establishment of tribal self-government under sections 713c and 713d of this title, the compilation of a tribal membership roll under section 713e of this title, and the establishment of a tribal reservation under section 713f of this title.
+#### Codification ####
 
-(Pub. L. 98–165, §3, Nov. 22, 1983, 97 Stat. 1064.)
+Section, Pub. L. 98–165, §3, Nov. 22, 1983, 97 Stat. 1064, which related to consideration of Confederated Tribes of Grand Ronde Community as one tribe, was omitted from the Code as being of special and not general application.

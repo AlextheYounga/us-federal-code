@@ -2,7 +2,7 @@
 
 #### (a) Description of nonnavigable area ####
 
-Subject to subsections (b) and (c) of this section, the area of Long Island City, Queens County, New York, that—
+Subject to subsections (b) and (c), the area of Long Island City, Queens County, New York, that—
 
 (1) is not submerged;
 
@@ -16,7 +16,7 @@ is declared to be nonnavigable waters of the United States.
 
 #### (1) In general ####
 
-The declaration of nonnavigability under subsection (a) of this section shall apply only to those portions of the area described in subsection (a) of this section that are, or will be, bulkheaded, filled, or otherwise occupied by permanent structures or other permanent physical improvements (including parkland).
+The declaration of nonnavigability under subsection (a) shall apply only to those portions of the area described in subsection (a) that are, or will be, bulkheaded, filled, or otherwise occupied by permanent structures or other permanent physical improvements (including parkland).
 
 #### (2) Applicability of Federal law ####
 
@@ -30,11 +30,11 @@ Improvements described in paragraph (1) shall be subject to applicable Federal l
 
 #### (c) Expiration date ####
 
-The declaration of nonnavigability under subsection (a) of this section shall expire with respect to a portion of the area described in subsection (a) of this section, if the portion—
+The declaration of nonnavigability under subsection (a) shall expire with respect to a portion of the area described in subsection (a), if the portion—
 
-(1) is not bulkheaded, filled, or otherwise occupied by a permanent structure or other permanent physical improvement (including parkland) in accordance with subsection (b) of this section by the date that is 20 years after October 12, 1996; or
+(1) is not bulkheaded, filled, or otherwise occupied by a permanent structure or other permanent physical improvement (including parkland) in accordance with subsection (b) by the date that is 20 years after October 12, 1996; or
 
-(2) requires an improvement described in subsection (b)(2) of this section that is subject to a permit under an applicable Federal law, and the improvement is not commenced by the date that is 5 years after the date of issuance of the permit.
+(2) requires an improvement described in subsection (b)(2) that is subject to a permit under an applicable Federal law, and the improvement is not commenced by the date that is 5 years after the date of issuance of the permit.
 
 (Pub. L. 104–303, title V, §556, Oct. 12, 1996, 110 Stat. 3782.)
 

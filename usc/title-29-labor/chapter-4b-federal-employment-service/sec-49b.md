@@ -20,9 +20,13 @@ The Secretary shall—
 
 (4) in coordination with the State agencies and the staff of such agencies, assist in the planning and implementation of activities to enhance the professional development and career advancement opportunities of such staff, in order to strengthen the provision of a broad range of career guidance services, the identification of job openings (including providing intensive outreach to small and medium-sized employers and enhanced employer services), the provision of technical assistance and training to other providers of workforce development activities (including workplace learning advisors) relating to counseling and employment-related services, and the development of new strategies for coordinating counseling and technology.
 
-#### (d) Colocation of employment service offices and one-stop centersIn order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensure access to services under section 49f(a) of this title statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers. ####
+#### (d) Colocation of employment service offices and one-stop centers ####
 
-#### (e) Development of national electronic toolsThe Secretary, in consultation with States, is authorized to assist the States in the development of national electronic tools that may be used to improve access to workforce information for individuals through— ####
+In order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensure access to services under section 49f(a) of this title statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers.
+
+#### (e) Development of national electronic tools ####
+
+The Secretary, in consultation with States, is authorized to assist the States in the development of national electronic tools that may be used to improve access to workforce information for individuals through—
 
 (1) the one-stop delivery systems established as described in section 3151(e) of this title; and
 

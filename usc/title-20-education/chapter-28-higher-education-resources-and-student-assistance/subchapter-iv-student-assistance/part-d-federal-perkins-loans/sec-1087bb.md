@@ -6,9 +6,9 @@
 
 (A) 100 percent of the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year), multiplied by
 
-(B) the institution's default penalty, as determined under subsection (e) of this section,
+(B) the institution's default penalty, as determined under subsection (e),
 
-except that if the institution has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f) of this section, the institution may not receive an allocation under this paragraph.
+except that if the institution has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f), the institution may not receive an allocation under this paragraph.
 
 (2)(A) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 but is not a first or second time participant, an amount equal to the greater of—
 
@@ -36,9 +36,9 @@ an amount equal to 90 percent of the amount it received under this subsection in
 
 (i) the amount determined under subparagraph (A), (B), or (C), multiplied by
 
-(ii) the institution's default penalty, as determined under subsection (e) of this section,
+(ii) the institution's default penalty, as determined under subsection (e),
 
-except that if the institution has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f) of this section, the institution may not receive an allocation under this paragraph.
+except that if the institution has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f), the institution may not receive an allocation under this paragraph.
 
 (3)(A) If the amount appropriated for any fiscal year is less than the amount required to be allocated to all institutions under paragraph (1) of this subsection, then the amount of the allocation to each such institution shall be ratably reduced.
 
@@ -58,19 +58,19 @@ except that if the institution has a cohort default rate in excess of the applic
 
 (A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) <sup><a href="#1087bb_1_target" name="1087bb_1">1</a></sup> of this title for the fiscal year; exceeds
 
-(B) the amount required to be allocated to that institution under subsection (a) of this section,
+(B) the amount required to be allocated to that institution under subsection (a),
 
-except that an eligible institution which has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f) of this section may not receive an allocation under this paragraph.
+except that an eligible institution which has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f) may not receive an allocation under this paragraph.
 
 (3) For any eligible institution, the eligible amount of that institution is equal to—
 
-(A) the amount of the institution's self-help need, as determined under subsection (c) of this section; minus
+(A) the amount of the institution's self-help need, as determined under subsection (c); minus
 
 (B) the institution's anticipated collections; multiplied by
 
-(C) the institution's default penalty, as determined under subsection (e) of this section;
+(C) the institution's default penalty, as determined under subsection (e);
 
-except that, if the institution has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f) of this section, the eligible amount of that institution is zero.
+except that, if the institution has a cohort default rate in excess of the applicable maximum cohort default rate under subsection (f), the eligible amount of that institution is zero.
 
 #### (c) Determination of institution's self-help need ####
 
@@ -146,13 +146,13 @@ For any fiscal year preceding fiscal year 2000, any institution with a cohort de
 
 #### (2) Years following fiscal year 2000 ####
 
-For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined under subsection (g) of this section) that equals or exceeds 25 percent shall have a default penalty of zero.
+For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined under subsection (g)) that equals or exceeds 25 percent shall have a default penalty of zero.
 
 #### (3) Ineligibility ####
 
 #### (A) In general ####
 
-For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g) of this section) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after the submission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
+For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g)) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after the submission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
 
 (i) the institution demonstrates to the satisfaction of the Secretary that the calculation of the institution's cohort default rate is not accurate, and that recalculation would reduce the institution's cohort default rate for any of the 3 fiscal years below 50 percent; or
 
@@ -172,7 +172,7 @@ Within 90 days after the date of any termination pursuant to subparagraph (A), o
 
 #### (D) Use of returned funds ####
 
-Any funds returned to the Secretary under this paragraph shall be reallocated to institutions of higher education pursuant to subsection (i) of this section.
+Any funds returned to the Secretary under this paragraph shall be reallocated to institutions of higher education pursuant to subsection (i).
 
 #### (E) Definition ####
 
@@ -238,15 +238,15 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 (i) was a participant in the program assisted under this part in fiscal year 1999; and
 
-(ii) did not receive an allocation under subsection (a) of this section in the fiscal year for which the reallocation determination is made.
+(ii) did not receive an allocation under subsection (a) in the fiscal year for which the reallocation determination is made.
 
 #### (2) Excess eligible amount ####
 
 For any participating institution, the excess eligible amount is the amount, if any, by which—
 
-(A)(i) that institution's eligible amount (as determined under subsection (b)(3) of this section), divided by (ii) the sum of the eligible amounts of all participating institutions (as determined under paragraph (3)), multiplied by (iii) the amount of funds available for reallocation under this subsection; exceeds
+(A)(i) that institution's eligible amount (as determined under subsection (b)(3)), divided by (ii) the sum of the eligible amounts of all participating institutions (as determined under paragraph (3)), multiplied by (iii) the amount of funds available for reallocation under this subsection; exceeds
 
-(B) the amount required to be allocated to that institution under subsection (b) of this section.
+(B) the amount required to be allocated to that institution under subsection (b).
 
 #### (3) Remainder ####
 
@@ -432,7 +432,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–244, title IV, §462(a)(3), Oct. 7, 1998, 112 Stat. 1721, provided that: "The amendments made by this subsection [amending this section] shall apply with respect to allocations of amounts appropriated pursuant to section 461(b) [20 U.S.C. 1087aa(b)] for fiscal year 2000 or any succeeding fiscal year."
+Pub. L. 105–244, title IV, §462(a)(3), Oct. 7, 1998, 112 Stat. 1721, provided that: "The amendments made by this subsection [amending this section] shall apply with respect to allocations of amounts appropriated pursuant to section 461(b) [former 20 U.S.C. 1087aa(b)] for fiscal year 2000 or any succeeding fiscal year."
 
 Amendment by section 462(b)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

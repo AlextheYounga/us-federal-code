@@ -52,7 +52,7 @@ Applications submitted for assistance under this section shall—
 
 (1) be jointly submitted by at least two eligible applicants with the express purpose of assisting individuals in academic institutions in establishing long-term collaborative relationships with health care providers in rural areas; and
 
-(2) designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community behavioral and mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian Health Service under the Indian Self-Determination Act [25 U.S.C. 450f et seq.].
+(2) designate a rural health care agency or agencies for clinical treatment or training, including hospitals, community health centers, migrant health centers, rural health clinics, community behavioral and mental health centers, long-term care facilities, Native Hawaiian health centers, or facilities operated by the Indian Health Service or an Indian tribe or tribal organization or Indian organization under a contract with the Indian Health Service under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.].
 
 #### (d) Definitions ####
 
@@ -62,7 +62,7 @@ For the purposes of this section, the term "rural" means geographic areas that a
 
 #### References in Text ####
 
-The Indian Self-Determination Act, referred to in subsec. (c)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions ####
 

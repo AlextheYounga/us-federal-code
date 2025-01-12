@@ -22,7 +22,7 @@ Within three complete fiscal years from December 19, 1980, the Secretary shall t
 
 #### (f) Assistance to Navajo Nation ####
 
-The Secretary, acting through the Director of the National Park Service, shall assist the Navajo Nation in the protection and management of those Chaco Culture Archeological Protection Sites located on land under the jurisdiction of the Navajo Nation through a grant, contract, or cooperative agreement entered into pursuant to the Indian Self-Determination and Education Act (Public Law 93–638), as amended [25 U.S.C. 450 et seq.], to assist the Navajo Nation in site planning, resource protection, interpretation, resource management actions, and such other purposes as may be identified in such grant, contract, or cooperative agreement. This cooperative assistance shall include assistance with the development of a Navajo facility to serve those who seek to appreciate the Chacoan Outlier Sites.
+The Secretary, acting through the Director of the National Park Service, shall assist the Navajo Nation in the protection and management of those Chaco Culture Archeological Protection Sites located on land under the jurisdiction of the Navajo Nation through a grant, contract, or cooperative agreement entered into pursuant to the Indian Self-Determination and Education Act (Public Law 93–638), as amended [25 U.S.C. 5301 et seq.], to assist the Navajo Nation in site planning, resource protection, interpretation, resource management actions, and such other purposes as may be identified in such grant, contract, or cooperative agreement. This cooperative assistance shall include assistance with the development of a Navajo facility to serve those who seek to appreciate the Chacoan Outlier Sites.
 
 (Pub. L. 96–550, title V, §506, Dec. 19, 1980, 94 Stat. 3229; Pub. L. 104–11, §5, May 18, 1995, 109 Stat. 159.)
 
@@ -32,7 +32,7 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in su
 
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-The Indian Self-Determination and Education Act, referred to in subsec. (f), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination and Education Act, referred to in subsec. (f), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Codification ####
 

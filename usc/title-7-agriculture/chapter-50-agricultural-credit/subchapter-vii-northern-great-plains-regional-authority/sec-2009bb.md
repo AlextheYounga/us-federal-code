@@ -22,7 +22,7 @@ The term "Federal grant program" means a Federal grant program to provide assist
 
 #### (3) Indian tribe ####
 
-The term "Indian tribe" has the meaning given the term in section 450b of title 25.
+The term "Indian tribe" has the meaning given the term in section 5304 of title 25.
 
 #### (4) Region ####
 

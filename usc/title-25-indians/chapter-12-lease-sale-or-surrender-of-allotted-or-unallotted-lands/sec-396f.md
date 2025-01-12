@@ -14,4 +14,4 @@ For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a
 
 #### Papago Indian Reservation ####
 
-Section 1 of act May 27, 1955, authorized the leasing of minerals for mining purposes. See note under section 463 of this title.
+Section 1 of act May 27, 1955, authorized the leasing of minerals for mining purposes. See note under section 5103 of this title.

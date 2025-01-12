@@ -4,7 +4,7 @@ As used in this part:
 
 #### (a) Total income ####
 
-(1)(A) Except as provided in subparagraph (B) and paragraph (2), the term "total income" is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e) of this section).
+(1)(A) Except as provided in subparagraph (B) and paragraph (2), the term "total income" is equal to adjusted gross income plus untaxed income and benefits for the preceding tax year minus excludable income (as defined in subsection (e)).
 
 (B) Notwithstanding section 1087rr(a) of this title, the Secretary may provide for the use of data from the second preceding tax year when and to the extent necessary to carry out the simplification of applications (including simplification for a subset of applications) used for the estimation and determination of financial aid eligibility. Such simplification may include the sharing of data between the Internal Revenue Service and the Department, pursuant to the consent of the taxpayer.
 
@@ -92,7 +92,7 @@ The term "independent", when used with respect to a student, means any individua
 
 (C) is, or was immediately prior to attaining the age of majority, an emancipated minor or in legal guardianship as determined by a court of competent jurisdiction in the individual's State of legal residence;
 
-(D) is a veteran of the Armed Forces of the United States (as defined in subsection (c)(1) of this section) or is currently serving on active duty in the Armed Forces for other than training purposes;
+(D) is a veteran of the Armed Forces of the United States (as defined in subsection (c)(1)) or is currently serving on active duty in the Armed Forces for other than training purposes;
 
 (E) is a graduate or professional student;
 
@@ -168,7 +168,7 @@ The term "excludable income" means—
 
 #### (g) Net assets ####
 
-The term "net assets" means the current market value at the time of application of the assets (as defined in subsection (f) of this section), minus the outstanding liabilities or indebtedness against the assets.
+The term "net assets" means the current market value at the time of application of the assets (as defined in subsection (f)), minus the outstanding liabilities or indebtedness against the assets.
 
 #### (h) Treatment of income taxes paid to other jurisdictions ####
 

@@ -4,11 +4,11 @@
 
 For each dependent student, the expected family contribution is equal to the sum of—
 
-(1) the parents' contribution from adjusted available income (determined in accordance with subsection (b) of this section);
+(1) the parents' contribution from adjusted available income (determined in accordance with subsection (b));
 
-(2) the student contribution from available income (determined in accordance with subsection (g) of this section); and
+(2) the student contribution from available income (determined in accordance with subsection (g)); and
 
-(3) the student contribution from assets (determined in accordance with subsection (h) of this section).
+(3) the student contribution from assets (determined in accordance with subsection (h)).
 
 #### (b) Parents' contribution from adjusted available income ####
 
@@ -16,11 +16,11 @@ The parents' contribution from adjusted available income is equal to the amount 
 
 (1) computing adjusted available income by adding—
 
-(A) the parents' available income (determined in accordance with subsection (c) of this section); and
+(A) the parents' available income (determined in accordance with subsection (c)); and
 
-(B) the parents' contribution from assets (determined in accordance with subsection (d) of this section);
+(B) the parents' contribution from assets (determined in accordance with subsection (d));
 
-(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e) of this section; and
+(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e); and
 
 (3) dividing the assessment resulting under paragraph (2) by the number of the family members, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
 
@@ -182,7 +182,7 @@ The asset conversion rate is 12 percent.
 
 #### (e) Assessment schedule ####
 
-The adjusted available income (as determined under subsection (b)(1) of this section and hereafter in this subsection referred to as "AAI") is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+The adjusted available income (as determined under subsection (b)(1) and hereafter in this subsection referred to as "AAI") is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
 
 |    If AAI is—    |    Then the assessment is—     |
 |------------------|--------------------------------|
@@ -287,7 +287,7 @@ The student's available income (determined in accordance with paragraph (1) of t
 
 #### (6) Allowance for parents' negative available income ####
 
-The allowance for parents' negative available income is the amount, if any, by which the sum of the amounts deducted under subparagraphs (A) through (F) of subsection (c)(1) of this section exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' contribution from assets (as determined in accordance with subsection (d) of this section).
+The allowance for parents' negative available income is the amount, if any, by which the sum of the amounts deducted under subparagraphs (A) through (F) of subsection (c)(1) exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' contribution from assets (as determined in accordance with subsection (d)).
 
 #### (h) Student contribution from assets ####
 
@@ -295,15 +295,15 @@ The student contribution from assets is determined by calculating the net assets
 
 #### (i) Adjustments to parents' contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter ####
 
-For periods of enrollment other than 9 months, the parents' contribution from adjusted available income (as determined under subsection (b) of this section) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
+For periods of enrollment other than 9 months, the parents' contribution from adjusted available income (as determined under subsection (b)) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
 
 (1) For periods of enrollment less than 9 months, the parents' contribution from adjusted available income is divided by 9 and the result multiplied by the number of months enrolled.
 
 (2) For periods of enrollment greater than 9 months—
 
-(A) the parents' adjusted available income (determined in accordance with subsection (b)(1) of this section) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4) of this section) for a family of four and a family of five, each with one child in college;
+(A) the parents' adjusted available income (determined in accordance with subsection (b)(1)) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4)) for a family of four and a family of five, each with one child in college;
 
-(B) the resulting revised parents' adjusted available income is assessed according to subsection (e) of this section and adjusted according to subsection (b)(3) of this section to determine a revised parents' contribution from adjusted available income;
+(B) the resulting revised parents' adjusted available income is assessed according to subsection (e) and adjusted according to subsection (b)(3) to determine a revised parents' contribution from adjusted available income;
 
 (C) the original parents' contribution from adjusted available income is subtracted from the revised parents' contribution from adjusted available income, and the result is divided by 12 to determine the monthly adjustment amount; and
 
@@ -311,7 +311,7 @@ For periods of enrollment other than 9 months, the parents' contribution from ad
 
 #### (j) Adjustments to student's contribution for enrollment periods of less than nine months ####
 
-For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g) of this section) is determined, for purposes other than subpart 2 of part A of this subchapter, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
+For periods of enrollment of less than 9 months, the student's contribution from adjusted available income (as determined under subsection (g)) is determined, for purposes other than subpart 2 of part A, by dividing the amount determined under such subsection by 9, and multiplying the result by the number of months in the period of enrollment.
 
 (Pub. L. 89–329, title IV, §475, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–50, §14(1)–(12), June 3, 1987, 101 Stat. 349, 350; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 103–208, §2(g)(2)–(5), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(g), Nov. 13, 1997, 111 Stat. 1523; Pub. L. 105–244, title IV, §473, Oct. 7, 1998, 112 Stat. 1729; Pub. L. 109–171, title VIII, §8017(a)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(a), Sept. 27, 2007, 121 Stat. 801; Pub. L. 111–39, title IV, §406(a)(2), July 1, 2009, 123 Stat. 1948.)
 

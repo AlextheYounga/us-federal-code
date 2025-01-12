@@ -18,7 +18,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (1) In general ####
 
-The Secretary may not make a grant under section 300k of this title unless the State involved agrees that services and activities under the grant will be made available throughout the State, including availability to members of any Indian tribe or tribal organization (as such terms are defined in section 450b of title 25).
+The Secretary may not make a grant under section 300k of this title unless the State involved agrees that services and activities under the grant will be made available throughout the State, including availability to members of any Indian tribe or tribal organization (as such terms are defined in section 5304 of title 25).
 
 #### (2) Waiver ####
 

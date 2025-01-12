@@ -1,5 +1,5 @@
-### §677b. Method of determining Ute Indian blood ###
+### §677b. Omitted ###
 
-For the purposes of this subchapter Ute Indian blood shall be determined in accordance with the constitution and bylaws of the tribe and all tribal ordinances in force and effect on August 27, 1954.
+#### Codification ####
 
-(Aug. 27, 1954, ch. 1009, §3, 68 Stat. 868.)
+Section, act Aug. 27, 1954, ch. 1009, §3, 68 Stat. 868, which related to method of determining Ute Indian blood, was omitted from the Code as being of special and not general application.

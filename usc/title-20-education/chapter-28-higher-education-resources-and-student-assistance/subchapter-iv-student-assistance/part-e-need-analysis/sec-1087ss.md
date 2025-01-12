@@ -10,9 +10,9 @@ The Secretary shall develop and use an easily identifiable simplified applicatio
 
 The simplified application form shall—
 
-(A) in the case of a family meeting the requirements of subsection (b)(1) of this section, permit such family to submit only the data elements required under subsection (b)(2) of this section for the purposes of establishing eligibility for student financial aid under this part; and
+(A) in the case of a family meeting the requirements of subsection (b)(1), permit such family to submit only the data elements required under subsection (b)(2) for the purposes of establishing eligibility for student financial aid under this part; and
 
-(B) in the case of a family meeting the requirements of subsection (c) of this section, permit such family to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c) of this section.
+(B) in the case of a family meeting the requirements of subsection (c), permit such family to be treated as having an expected family contribution equal to zero for purposes of establishing such eligibility and to submit only the data elements required to make a determination under subsection (c).
 
 #### (b) Simplified needs test ####
 

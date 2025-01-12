@@ -6,11 +6,11 @@ Unless the Secretary finds, after consultation with local and regional public of
 
 #### (b) Limits on applicability; regulatory requirements ####
 
-The declaration under subsection (a) of this section shall apply only to those parts of the areas described in the Committee print referred to in subsection (a) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations including, but not limited to, sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
+The declaration under subsection (a) shall apply only to those parts of the areas described in the Committee print referred to in subsection (a) which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations including, but not limited to, sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
 
 #### (c) Expiration date ####
 
-If, 20 years from November 28, 1990, any area or part thereof described in the Committee print referred to in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitting <sup><a href="#59bb_1_target" name="59bb_1">1</a></sup> in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
+If, 20 years from November 28, 1990, any area or part thereof described in the Committee print referred to in subsection (a) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b), or if work in connection with any activity permitting <sup><a href="#59bb_1_target" name="59bb_1">1</a></sup> in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
 (Pub. L. 101–640, title IV, §408, Nov. 28, 1990, 104 Stat. 4647.)
 

@@ -68,7 +68,7 @@ Any vacancy shall be filled only for the remainder of the term involved. Any vac
 
 #### (1) Membership ####
 
-Upon the expiration of the terms under subsection (e) of this section, the Board of Trustees shall consist of—
+Upon the expiration of the terms under subsection (e), the Board of Trustees shall consist of—
 
 (A) the Secretary of the Smithsonian Institution;
 

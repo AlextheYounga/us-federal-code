@@ -34,7 +34,7 @@ There is established in the Treasury a separate account, which shall be known as
 
 The account shall consist of—
 
-(A) amounts received by the United States as fees charged under subsection (b)(1)(C) of this section; and
+(A) amounts received by the United States as fees charged under subsection (b)(1)(C); and
 
 (B) such other amounts as may be provided by law.
 

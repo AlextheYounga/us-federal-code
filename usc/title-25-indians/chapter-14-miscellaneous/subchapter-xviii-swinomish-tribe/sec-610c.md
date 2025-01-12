@@ -1,5 +1,5 @@
-### §610c. Mortgages or deeds in trust; law governing mortgage foreclosure or sale; United States as party; removal of cases: appeals ###
+### §610c. Omitted ###
 
-The Swinomish Indian Tribal Community may, with the approval of the Secretary of the Interior, execute mortgages or deeds of trust to land the title to which is held by the community, or by the United States in trust for the community. Such land shall be subject to foreclosure or sale pursuant to the terms of such mortgage or deed of trust in accordance with the laws of the State of Washington. The United States shall be an indispensable party to, and may be joined in, any such proceeding involving trust land with the right to remove the action to the United States district court for the district in which the land is situated, according to the procedure in section 1446 of title 28, and the United States shall have the right to appeal from any order of remand entered in such action.
+#### Codification ####
 
-(Pub. L. 90–534, §4, Sept. 28, 1968, 82 Stat. 884.)
+Section, Pub. L. 90–534, §4, Sept. 28, 1968, 82 Stat. 884, which related to mortgages and deeds of trust, was omitted from the Code as being of special and not general application.

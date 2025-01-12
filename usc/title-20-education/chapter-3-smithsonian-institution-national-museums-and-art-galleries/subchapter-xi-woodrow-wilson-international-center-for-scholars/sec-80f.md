@@ -28,11 +28,11 @@ The Board of Trustees shall be composed of 17 members as follows:
 
 #### (c) Appointment of alternate members by members of Board ####
 
-Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) of this section may designate another official to serve on the Board of Trustees in his stead.
+Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) may designate another official to serve on the Board of Trustees in his stead.
 
 #### (d) Terms of office; vacancies; reappointment ####
 
-Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) of this section shall serve for a term of six years from the expiration of his predecessor's term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968, and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
+Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) shall serve for a term of six years from the expiration of his predecessor's term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968, and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
 
 #### (e) Chairman and Vice Chairman of Board ####
 

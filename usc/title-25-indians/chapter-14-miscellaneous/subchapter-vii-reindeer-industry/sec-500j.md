@@ -1,9 +1,5 @@
-### §500j. "Reindeer" defined ###
-
-"Reindeer" as used in this subchapter shall be understood to include reindeer and such caribou as have been introduced into animal husbandry or have actually joined reindeer herds, and the increase thereof.
-
-(Sept. 1, 1937, ch. 897, §11, 50 Stat. 902.)
+### §500j. Omitted ###
 
 #### Codification ####
 
-Section was formerly classified to section 250j of Title 48, Territories and Insular Possessions.
+Section, act Sept. 1, 1937, ch. 897, §11, 50 Stat. 902, which defined "reindeer" as used in this subchapter, was omitted from the Code as being of special and not general application.

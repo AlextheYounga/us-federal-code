@@ -12,7 +12,7 @@ The Board of Regents shall—
 
 #### (b) Determination of charges ####
 
-Any charge by the Board of Regents for activities pursuant to agreements under paragraph (2) or (3) of subsection (a) of this section shall be determined according to the ability of the successor to pay.
+Any charge by the Board of Regents for activities pursuant to agreements under paragraph (2) or (3) of subsection (a) shall be determined according to the ability of the successor to pay.
 
 #### (c) Definition ####
 

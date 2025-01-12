@@ -262,7 +262,7 @@ Not less than 50 percent of any amount appropriated pursuant to paragraph (4) sh
 
 To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973; Pub. L. 113–183, title II, §§201—205, Sept. 29, 2014, 128 Stat. 1935—1939.)
+(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973; Pub. L. 113–183, title II, §§201–205, Sept. 29, 2014, 128 Stat. 1935–1939.)
 
 #### Amendments ####
 

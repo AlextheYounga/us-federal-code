@@ -80,7 +80,7 @@ Pub. L. 105–178, title I, §1214(b), June 9, 1998, 112 Stat. 204, provided tha
 
 #### National Health Museum ####
 
-Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall, established the National Health Museum Commission and its duties, including submission of a report to the President and Congress, provided that all Commission activities would be administered in accordance with the Federal Advisory Committee Act, provided for compensation of Commission members who were not officers or employees of the U.S., appropriated funds, and specified the Commission would terminate 60 days after submission of the report, was repealed, except for section 702, by Pub. L. 107–303, title III, §303, Nov. 27, 2002, 116 Stat. 2361. Section 702 of Pub. L. 105–78 amended section 1067 of Pub. L. 103–337, set out as a note under section 176 of Title 10, Armed Forces.
+Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall and established the National Health Museum Commission and its duties, was repealed, except for section 702, by Pub. L. 107–303, title III, §303, Nov. 27, 2002, 116 Stat. 2361. Section 702 of Pub. L. 105–78 amended section 1067 of Pub. L. 103–337, set out as a note under section 176 of Title 10, Armed Forces.
 
 #### West Court of National Museum of Natural History Building ####
 

@@ -6,7 +6,7 @@ In order to preserve and interpret the Battle of Glorieta for the benefit and en
 
 #### (b) Administration ####
 
-The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle of Glorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4),<sup><a href="#410rr-7_1_target" name="410rr-7_1">1</a></sup> and the Act of August 21, 1935 (49 U.S.C. <sup><a href="#410rr-7_2_target" name="410rr-7_2">2</a></sup> 666; 16 U.S.C. 461–7).<sup><a href="#410rr-7_1_target" name="410rr-7_1">1</a></sup>
+The Secretary shall administer the Glorieta Unit to preserve and interpret the Battle of Glorieta for the benefit and enjoyment of present and future generations, in accordance with the provisions of this section, applicable provisions of this subchapter, and provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4),<sup><a href="#410rr-7_1_target" name="410rr-7_1">1</a></sup> and the Act of August 21, 1935 (49 U.S.C.<sup><a href="#410rr-7_2_target" name="410rr-7_2">2</a></sup> 666; 16 U.S.C. 461–7).<sup><a href="#410rr-7_1_target" name="410rr-7_1">1</a></sup>
 
 #### (c) Acquisition ####
 

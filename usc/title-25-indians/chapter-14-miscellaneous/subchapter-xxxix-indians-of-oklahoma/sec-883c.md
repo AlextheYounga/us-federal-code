@@ -1,5 +1,5 @@
-### §883c. Income tax exemption ###
+### §883c. Omitted ###
 
-None of the funds distributed per capita under the provisions of sections 883 to 883d of this title shall be subject to Federal or State income taxes.
+#### Codification ####
 
-(Pub. L. 92–586, §4, Oct. 27, 1972, 86 Stat. 1296.)
+Section, Pub. L. 92–586, §4, Oct. 27, 1972, 86 Stat. 1296, which exempted per capita distributions under sections 883 to 883d of this title from Federal and State income taxes, was omitted from the Code as being of special and not general application.

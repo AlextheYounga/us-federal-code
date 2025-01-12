@@ -1,5 +1,5 @@
-### §564v. Rules and regulations; tribal referenda ###
+### §564v. Omitted ###
 
-The Secretary is authorized to issue rules or regulations necessary to effectuate the purposes of this subchapter, and may in his discretion provide for tribal referenda on matters pertaining to management or disposition of tribal assets.
+#### Codification ####
 
-(Aug. 13, 1954, ch. 732, §23, 68 Stat. 723.)
+Section, act Aug. 13, 1954, ch. 732, §23, 68 Stat. 723, which authorized the Secretary of the Interior to issue rules and regulations and to provide for tribal referenda on certain matters, was omitted from the Code as being of special and not general application.

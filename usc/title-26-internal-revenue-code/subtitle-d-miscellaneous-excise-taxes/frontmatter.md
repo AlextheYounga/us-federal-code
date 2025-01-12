@@ -226,7 +226,7 @@ The Centers for Medicare and Medicaid Services shall establish a process for det
 
 #### Imposition of Annual Fee on Medical Device Manufacturers and Importers ####
 
-Pub. L. 111–148, title IX, §9009, Mar. 23, 2010, 124 Stat. 862, as amended by Pub. L. 111–148, title X, §10904(a), Mar. 23, 2010, 124 Stat. 1016, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065.
+Pub. L. 111–148, title IX, §9009, Mar. 23, 2010, 124 Stat. 862, as amended by Pub. L. 111–148, title X, §10904(a), Mar. 23, 2010, 124 Stat. 1016, provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065. See section 4191 of this title.
 
 [Pub. L. 111–152, title I, §1405(d), Mar. 30, 2010, 124 Stat. 1065, provided that the repeal of section 9009 of Pub. L. 111–148, formerly set out above, is effective as of Mar. 23, 2010.]
 

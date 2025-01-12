@@ -98,7 +98,7 @@ Except as provided in subparagraph (B) and subsection (f), each establishment su
 
 #### (B) Exception ####
 
-No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup><a href="#379j_1_target" name="379j_1">1</a></sup> [25 U.S.C. 450 et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
+No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup><a href="#379j_1_target" name="379j_1">1</a></sup> [25 U.S.C. 5301 et seq.]), unless a device manufactured by the establishment is to be distributed commercially.
 
 #### (C) Payment ####
 
@@ -375,7 +375,7 @@ For termination of section by section 207(a) of Pub. L. 112–144, see Effective
 
 #### References in Text ####
 
-The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments ####
 

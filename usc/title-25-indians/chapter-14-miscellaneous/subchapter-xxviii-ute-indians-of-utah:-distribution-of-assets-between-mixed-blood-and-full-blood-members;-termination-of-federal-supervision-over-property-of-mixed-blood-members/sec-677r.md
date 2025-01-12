@@ -1,5 +1,5 @@
-### §677r. Indian claims unaffected ###
+### §677r. Omitted ###
 
-Nothing in this subchapter shall affect any claim heretofore filed against the United States by the tribe, or the individual bands comprising the tribe.
+#### Codification ####
 
-(Aug. 27, 1954, ch. 1009, §19, 68 Stat. 877.)
+Section, act Aug. 27, 1954, ch. 1009, §19, 68 Stat. 877, which provided that nothing in this subchapter would affect any claim filed against the United States by the tribe before Aug. 27, 1954, was omitted from the Code as being of special and not general application.

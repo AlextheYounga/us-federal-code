@@ -1,5 +1,5 @@
-### §463g. Use of funds appropriated under section 465 ###
+### §463g. Transferred ###
 
-For the purpose of carrying into effect the land-purchase provision of sections 463d to 463g of this title, the Secretary of the Interior is authorized to use so much as may be necessary of any funds heretofore or hereafter appropriated pursuant to section 465 of this title.
+#### Codification ####
 
-(Aug. 10, 1939, ch. 662, §4, 53 Stat. 1351.)
+Section 463g was editorially reclassified as section 5106 of this title.

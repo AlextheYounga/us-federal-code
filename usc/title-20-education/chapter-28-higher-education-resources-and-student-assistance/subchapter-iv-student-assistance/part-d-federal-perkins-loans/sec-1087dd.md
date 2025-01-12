@@ -118,7 +118,7 @@ An agreement under this part for payment of Federal capital contributions shall 
 
 (B) the institution determines that the borrower should qualify for forbearance for other reasons; or
 
-(C) the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
+(C) the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j), except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j).
 
 (2) For the purpose of paragraph (1), the terms of forbearance agreed to by the parties shall be documented by—
 

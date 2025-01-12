@@ -8,7 +8,7 @@
 
 (A) a hospital, State mental hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, community mental health center, migrant health center, facility operated by a city or county health department, and community health center;
 
-(B) such a facility of a State correctional institution or of the Indian Health Service, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act [25 U.S.C. 450f et seq.];
+(B) such a facility of a State correctional institution or of the Indian Health Service, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.];
 
 (C) such a facility used in connection with the delivery of health services under section 248 of this title (relating to hospitals), 249 of this title (relating to care and treatment of persons under quarantine and others), 250 of this title (relating to care and treatment of Federal prisoners), 251 of this title (relating to examination and treatment of certain Federal employees), 252 of this title (relating to examination of aliens), 253 of this title (relating to services to certain Federal employees), 247e of this title (relating to services for persons with Hansen's disease), or 254b(h) of this title (relating to the provision of health services to homeless individuals); and
 
@@ -90,7 +90,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 #### References in Text ####
 
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

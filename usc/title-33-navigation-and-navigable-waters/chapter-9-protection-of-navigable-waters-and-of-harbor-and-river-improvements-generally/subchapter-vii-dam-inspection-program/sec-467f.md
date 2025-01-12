@@ -4,17 +4,17 @@
 
 The Administrator, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
 
-(1) be administered by FEMA to achieve the objectives set forth in subsection (c) of this section;
+(1) be administered by FEMA to achieve the objectives set forth in subsection (c);
 
 (2) involve, to the extent appropriate, each Federal agency; and
 
 (3) include—
 
-(A) each of the components described in subsection (d) of this section;
+(A) each of the components described in subsection (d);
 
-(B) the strategic plan described in subsection (b) of this section; and
+(B) the strategic plan described in subsection (b); and
 
-(C) assistance for State dam safety programs described in subsection (e) of this section.
+(C) assistance for State dam safety programs described in subsection (e).
 
 #### (b) Duties ####
 

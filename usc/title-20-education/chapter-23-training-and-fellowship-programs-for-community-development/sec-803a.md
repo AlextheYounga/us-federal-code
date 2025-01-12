@@ -14,7 +14,7 @@ The Secretary is authorized to make grants to or contracts with institutions of 
 
 (C) provides for making such reports, in such form and containing such information, as the Secretary may require to carry out his functions under this subsection, and for keeping such records and for affording such access thereto as the Secretary may find necessary to assure the correctness and verification of such reports.
 
-(2) Payments under this section may be used, in accordance with regulations of the Secretary, and subject to the terms and conditions set forth in an application approved under paragraph (1), to pay part of the compensation of students employed in professions referred to in subsection (a)(1) of this section, except students employed in any branch of the Government of the United States, as part of a program for which a grant has been approved pursuant to this subsection.
+(2) Payments under this section may be used, in accordance with regulations of the Secretary, and subject to the terms and conditions set forth in an application approved under paragraph (1), to pay part of the compensation of students employed in professions referred to in subsection (a)(1), except students employed in any branch of the Government of the United States, as part of a program for which a grant has been approved pursuant to this subsection.
 
 (Pub. L. 88–560, title VIII, §804, as added Pub. L. 93–383, title IV, §402(c)(2), Aug. 22, 1974, 88 Stat. 692.)
 

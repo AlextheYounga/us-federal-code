@@ -120,7 +120,7 @@ The areas referred to in paragraph (1) are certain parcels of property situated 
 
 #### (1) In general ####
 
-The designation under subsection (a)(1) of this section shall apply to those parts of the areas described in subsection (a) of this section that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities.
+The designation under subsection (a)(1) shall apply to those parts of the areas described in subsection (a) that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities.
 
 #### (2) Applicable law ####
 
@@ -134,7 +134,7 @@ All activities described in paragraph (1) shall be subject to all applicable Fed
 
 #### (c) Termination of designation ####
 
-If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) <sup><a href="#59jj_4_target" name="59jj_4">4</a></sup> of this section is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b) of this section, or if work in connection with any activity authorized under subsection (b) of this section is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) of this section for that area or portion of an area shall terminate.
+If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) <sup><a href="#59jj_4_target" name="59jj_4">4</a></sup> is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b), or if work in connection with any activity authorized under subsection (b) is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) for that area or portion of an area shall terminate.
 
 (Pub. L. 107–66, title I, §107, Nov. 12, 2001, 115 Stat. 494.)
 

@@ -6,7 +6,7 @@ There is hereby established in the Center a Hubert H. Humphrey Fellowship in Soc
 
 #### (b) Selection of Humphrey Fellow; term; compensation ####
 
-Each year the Board shall select a distinguished scholar, statesman, or cultural figure, from the United States or abroad, to serve at the Center for a period of up to one year as the Hubert H. Humphrey Fellow in Social and Political Thought (hereinafter in this section referred to as the "Humphrey Fellow"). Each Humphrey Fellow shall receive compensation in an amount, determined by the Board, not to exceed the annual income of the trust fund established under subsection (d) of this section.
+Each year the Board shall select a distinguished scholar, statesman, or cultural figure, from the United States or abroad, to serve at the Center for a period of up to one year as the Hubert H. Humphrey Fellow in Social and Political Thought (hereinafter in this section referred to as the "Humphrey Fellow"). Each Humphrey Fellow shall receive compensation in an amount, determined by the Board, not to exceed the annual income of the trust fund established under subsection (d).
 
 #### (c) Functions of Humphrey Fellow; publication and dissemination by Board of Memorial Lectures ####
 
@@ -20,7 +20,7 @@ The Board shall provide for the publication and dissemination of the Hubert H. H
 
 #### (d) Hubert H. Humphrey Fellowship Trust Fund; establishment, composition, investments, etc. ####
 
-(1) There is hereby established in the Treasury of the United States a trust fund to be known as the Hubert H. Humphrey Fellowship Trust Fund (hereinafter in this section referred to as the "fund"). The Secretary of the Treasury shall deposit in the fund such sums as may be appropriated to the fund under subsection (f) of this section and shall receive into the Treasury and deposit into the fund such sums as may be received as contributions to the fund.
+(1) There is hereby established in the Treasury of the United States a trust fund to be known as the Hubert H. Humphrey Fellowship Trust Fund (hereinafter in this section referred to as the "fund"). The Secretary of the Treasury shall deposit in the fund such sums as may be appropriated to the fund under subsection (f) and shall receive into the Treasury and deposit into the fund such sums as may be received as contributions to the fund.
 
 (2) The Secretary of the Treasury shall invest amounts in the fund in public debt securities with maturities suitable for the needs of the fund and bearing interest at prevailing market rates; and the interest on such investments shall be credited to and form a part of the fund.
 
@@ -28,7 +28,7 @@ The Board shall provide for the publication and dissemination of the Hubert H. H
 
 #### (e) Payments to Board from investments for implementation of Fellowship purposes ####
 
-The Secretary of the Treasury shall pay to the Board from amounts received as interest on investments under subsection (d)(2) of this section such sums as the Board determines are necessary and appropriate for the purposes of the Humphrey Fellowship.
+The Secretary of the Treasury shall pay to the Board from amounts received as interest on investments under subsection (d)(2) such sums as the Board determines are necessary and appropriate for the purposes of the Humphrey Fellowship.
 
 #### (f) Authorization of appropriations ####
 

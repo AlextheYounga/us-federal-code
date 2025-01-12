@@ -21,7 +21,7 @@ Chap. Sec.
 
 9. Interception of Digital and Other Communications 1001
 
-10. LOCAL TV 1101
+10. LOCAL TV [Omitted] 1101
 
 11. Commercial Mobile Service Alerts 1201
 

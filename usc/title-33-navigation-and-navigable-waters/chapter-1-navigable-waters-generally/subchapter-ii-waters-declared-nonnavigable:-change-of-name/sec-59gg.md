@@ -2,7 +2,7 @@
 
 #### (a) Area to be declared nonnavigable; public interest ####
 
-Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects to be undertaken within the boundaries in the portions of the county of Cuyahoga, Ohio, described as follows, are not in the public interest then, subject to subsections (b) and (c) of this section, those portions of such county, bounded and described as follows, are declared to be nonnavigable waters of the United States:
+Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects to be undertaken within the boundaries in the portions of the county of Cuyahoga, Ohio, described as follows, are not in the public interest then, subject to subsections (b) and (c), those portions of such county, bounded and described as follows, are declared to be nonnavigable waters of the United States:
 
 Situated in the city of Cleveland, county of Cuyahoga, and State of Ohio, T7N, R13W, and known as being a part of original two acre lots numbers 16, 17, 18, 19, and 20 and the northerly extensions thereof, and being more fully described as follows:
 
@@ -10,11 +10,11 @@ Beginning at the intersection of the centerline of East 9th Street (99 feet wide
 
 #### (b) Limits on applicability; regulatory requirements ####
 
-The declaration under subsection (a) of this section shall apply to those parts of the areas described in subsection (a) of this section which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
+The declaration under subsection (a) shall apply to those parts of the areas described in subsection (a) which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations, including sections 401 and 403 of this title, section 1344 of this title, and the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
 
 #### (c) Expiration date ####
 
-If, 20 years from October 31, 1992, any area or part thereof described in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set forth in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
+If, 20 years from October 31, 1992, any area or part thereof described in subsection (a) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set forth in subsection (b), or if work in connection with any activity permitted in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
 (Pub. L. 102–580, title III, §335, Oct. 31, 1992, 106 Stat. 4853.)
 

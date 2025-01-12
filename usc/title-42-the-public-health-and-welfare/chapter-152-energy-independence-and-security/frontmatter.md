@@ -256,7 +256,7 @@ Sec.
 
 17321. Definitions.
 
-#### Part A—Assistance to Promote Clean and Efficient Energy Technologies in Foreign Countries ####
+#### Part A—Assistance To Promote Clean and Efficient Energy Technologies in Foreign Countries ####
 
 17331. United States assistance for developing countries.
 

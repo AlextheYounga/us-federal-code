@@ -1,6 +1,6 @@
 ### §§6201 to 6213. Repealed. Pub. L. 113–291, div. B, title XXX, §3024(k), Dec. 19, 2014, 128 Stat. 3766 ###
 
-Section 6201, Pub. L. 106–291, title VI, §602, Oct. 11, 2000, 114 Stat. 1014, set forth Congressional findings.
+Section 6201, Pub. L. 106–291, title VI, §602, Oct. 11, 2000, 114 Stat. 1014, set forth congressional findings.
 
 Section 6202, Pub. L. 106–291, title VI, §603, Oct. 11, 2000, 114 Stat. 1014, related to purposes of chapter.
 
@@ -25,8 +25,6 @@ Section 6211, Pub. L. 106–291, title VI, §612, Oct. 11, 2000, 114 Stat. 1021,
 Section 6212, Pub. L. 106–291, title VI, §613, Oct. 11, 2000, 114 Stat. 1022, related to promulgation of regulations.
 
 Section 6213, Pub. L. 106–291, title VI, §614, Oct. 11, 2000, 114 Stat. 1022, related to fees during period of transition.
-
-See section 6214 of this title.
 
 #### Effective Date of Repeal ####
 

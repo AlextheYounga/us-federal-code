@@ -22,7 +22,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 (A) loans to students, in accordance with the provisions of this part;
 
-(B) administrative expenses, as provided in subsection (b) of this section;
+(B) administrative expenses, as provided in subsection (b);
 
 (C) capital distributions, as provided in section 1087ff of this title; and
 
@@ -50,7 +50,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 #### (b) Administrative expenses ####
 
-An institution which has entered into an agreement under subsection (a) of this section shall be entitled, for each fiscal year during which it makes student loans from a student loan fund established under such agreement, to a payment in lieu of reimbursement for its expenses in administering its student loan program under this part during such year. Such payment shall be made in accordance with section 1096 of this title.
+An institution which has entered into an agreement under subsection (a) shall be entitled, for each fiscal year during which it makes student loans from a student loan fund established under such agreement, to a payment in lieu of reimbursement for its expenses in administering its student loan program under this part during such year. Such payment shall be made in accordance with section 1096 of this title.
 
 #### (c) Cooperative agreements with consumer reporting agencies ####
 
@@ -74,17 +74,17 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 #### (d) Limitation on use of interest bearing accounts ####
 
-In carrying out the provisions of subsection (a)(9) of this section, the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
+In carrying out the provisions of subsection (a)(9), the Secretary may not require that any collection agency, collection attorney, or loan servicer collecting loans made under this part deposit amounts collected on such loans in interest bearing accounts, unless such agency, attorney, or servicer holds such amounts for more than 45 days.
 
 #### (e) Special due diligence rule ####
 
-In carrying out the provisions of subsection (a)(5) <sup><a href="#1087cc_1_target" name="1087cc_1">1</a></sup> of this section relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
+In carrying out the provisions of subsection (a)(5) <sup><a href="#1087cc_1_target" name="1087cc_1">1</a></sup> relating to due diligence, the Secretary shall make every effort to ensure that institutions of higher education may use Internal Revenue Service skip-tracing collection procedures on loans made under this part.
 
 (Pub. L. 89–329, title IV, §463, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1444; amended Pub. L. 100–50, §13(e), (f), June 3, 1987, 101 Stat. 349; Pub. L. 102–325, title IV, §463(a), (b), July 23, 1992, 106 Stat. 579; Pub. L. 103–208, §2(f)(5)–(7), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §463, Oct. 7, 1998, 112 Stat. 1724; Pub. L. 110–315, title IV, §§432(b)(5), 463, Aug. 14, 2008, 122 Stat. 3246, 3266; Pub. L. 111–39, title IV, §405(2), July 1, 2009, 123 Stat. 1947.)
 
 #### References in Text ####
 
-Subsection (a)(5) of this section relating to due diligence, referred to in subsec. (e), was redesignated subsec. (a)(4), by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724.
+Subsection (a)(5) relating to due diligence, referred to in subsec. (e), was redesignated subsec. (a)(4), by Pub. L. 105–244, title IV, §463(a)(3), Oct. 7, 1998, 112 Stat. 1724.
 
 #### Prior Provisions ####
 

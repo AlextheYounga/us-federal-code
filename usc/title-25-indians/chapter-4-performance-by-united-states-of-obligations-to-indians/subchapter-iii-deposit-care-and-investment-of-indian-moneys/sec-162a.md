@@ -30,7 +30,7 @@ The Secretary of the Interior is authorized to use earning <sup><a href="#162a_
 
 (2) The Secretary, as a condition to complying with a request pursuant to paragraph (1) of this subsection, is authorized to require such tribe or individual Indian, as the case may be, to enter into an agreement with the Secretary for the purpose of relieving the United States of any liability in connection with the interest, or amount thereof, payable in connection with such trust funds so invested during the period of that investment.
 
-(3) Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of section 955 of this title.
+(3) Investments pursuant to paragraph (1) of this subsection shall be deemed to be the same as cash or a bank deposit for purposes of section 955 of this title.<sup><a href="#162a_2_target" name="162a_2">2</a></sup>
 
 #### (d) Trust responsibilities of Secretary of the Interior ####
 
@@ -58,6 +58,8 @@ The Secretary's proper discharge of the trust responsibilities of the United Sta
 
 Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly classified to section 264 of Title 12, Banks and Banking, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified to chapter 16 (§1811 et seq.) of Title 12.
 
+Section 955 of this title, referred to in subsec. (c)(3), which related to tax exemptions for equalization allotments and cash payments received in lieu thereof by members of the Agua Caliente Band, was omitted from the Code as being of special and not general application.
+
 #### Amendments ####
 
 **1994**—Subsec. (a). Pub. L. 103–412, §103(b), inserted "to withdraw from the United States Treasury and" after "prescribe," in second sentence.
@@ -81,3 +83,5 @@ Act June 24, 1938, ch. 648, §3, 52 Stat. 1038, provided: "Nothing contained in 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 [<sup>1</sup> So in original. Probably should be "earnings".](#162a_1)
+
+[<sup>2</sup> See References in Text note below.](#162a_2)

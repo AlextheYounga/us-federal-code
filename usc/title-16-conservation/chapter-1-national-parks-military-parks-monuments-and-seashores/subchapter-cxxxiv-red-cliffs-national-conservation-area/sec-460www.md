@@ -154,7 +154,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsecs. (e)(
 
 #### Definitions ####
 
-Pub. L. 111–11, title I, §1971, Mar. 30, 2009, 123 Stat. 1075, as amended by Pub. L. 111–88, div. A, title IV, §436, Oct. 30, 2009, 123 Stat. 2965, provided that: "In this subtitle [subtitle O (§§1971–1983) of title I of Pub. L. 111–11, enacting this subchapter, subchapter CXXXV of this chapter, and section 346a–6 of this title, amending section 1274 of this title, enacting provisions set out as notes under section 1274 of this title and section 766 of Title 25, Indians, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title]:
+Pub. L. 111–11, title I, §1971, Mar. 30, 2009, 123 Stat. 1075, as amended by Pub. L. 111–88, div. A, title IV, §436, Oct. 30, 2009, 123 Stat. 2965, provided that: "In this subtitle [subtitle O (§§1971–1983) of title I of Pub. L. 111–11, enacting this subchapter, subchapter CXXXV of this chapter, and section 346a–6 of this title, amending section 1274 of this title, enacting provisions set out as notes under section 1274 of this title and provisions formerly set out as a note under section 766 of Title 25, Indians, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title]:
 
 "(1) Beaver dam wash national conservation area map.—The term 'Beaver Dam Wash National Conservation Area Map' means the map entitled 'Beaver Dam Wash National Conservation Area' and dated September 20, 2009.
 

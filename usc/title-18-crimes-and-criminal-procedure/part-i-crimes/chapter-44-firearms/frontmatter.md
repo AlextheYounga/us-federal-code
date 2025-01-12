@@ -85,3 +85,33 @@ Sec. 2. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 Sec. 3. *Publication*. The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
+
+#### Promoting Smart Gun Technology ####
+
+Memorandum of President of the United States, Jan. 4, 2016, 81 F.R. 719, provided:
+
+Memorandum for the Secretary of Defense[,] the Attorney General[, and] the Secretary of Homeland Security
+
+For more than 20 years, the Federal Government has worked to keep guns out of the wrong hands through background checks. This critical effort in addressing gun violence has prevented more than two million prohibited firearms purchases from being completed. But tens of thousands of people are still injured or killed by firearms every year—in many cases by guns that were sold legally but then stolen, misused, or discharged accidentally. Developing and promoting technology that would help prevent these tragedies is an urgent priority.
+
+In 2013, I directed the Department of Justice to review the availability and most effective use of new gun safety technologies, such as devices requiring a scan of the owner's fingerprint before a gun can fire. In its report, the Department made clear that technological advancements in this area could help reduce accidental deaths and the use of stolen guns in criminal activities.
+
+Millions of dollars have already been invested to support research into a broad range of concepts for improving gun safety. We must all do our part to continue to advance this research and encourage its practical application, and it is possible to do so in a way that makes the public safer and is consistent with the Second Amendment. The Federal Government has a unique opportunity to do so, as it is the single largest purchaser of firearms in the country. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. *Research and Development*. The Department of Defense, the Department of Justice, and the Department of Homeland Security (departments) shall, to the extent practicable and permitted by law, conduct or sponsor research into gun safety technology that would reduce the frequency of accidental discharge or unauthorized use of firearms, and improve the tracing of lost or stolen guns. Not later than 90 days after the date of this memorandum, the Secretary of Defense, the Attorney General, and the Secretary of Homeland Security shall prepare jointly a report outlining a research and development strategy designed to expedite the real-world deployment of such technology for use in practice.
+
+Sec. 2. *Department Consideration of New Technology*. The departments shall, to the extent permitted by law, regularly (a) review the availability of the technology described in section 1, and (b) explore potential ways to further its use and development to more broadly improve gun safety. In connection with these efforts, the departments shall consult with other agencies that acquire firearms and take appropriate steps to consider whether including such technology in specifications for acquisition of firearms would be consistent with operational needs.
+
+Sec. 3. *General Provisions*. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to a department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 4. *Publication*. The Attorney General is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.

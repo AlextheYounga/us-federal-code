@@ -2,7 +2,7 @@
 
 #### (a) Definitions of Indian tribe; tribal organizations ####
 
-In this section, the terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 450b of title 25.
+In this section, the terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 5304 of title 25.
 
 #### (b) Authority ####
 

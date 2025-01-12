@@ -1,5 +1,5 @@
-### §712d. Rules ###
+### §712d. Omitted ###
 
-The Secretary of the Interior may make such rules as are necessary to carry out the provisions of this subchapter.
+#### Codification ####
 
-(Pub. L. 97–391, §6, Dec. 29, 1982, 96 Stat. 1961.)
+Section, Pub. L. 97–391, §6, Dec. 29, 1982, 96 Stat. 1961 which authorized the Secretary of the Interior to make rules necessary to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.

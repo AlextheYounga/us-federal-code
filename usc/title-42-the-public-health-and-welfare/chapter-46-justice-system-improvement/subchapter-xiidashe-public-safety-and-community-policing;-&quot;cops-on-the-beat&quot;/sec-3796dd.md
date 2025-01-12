@@ -244,7 +244,7 @@ Pub. L. 111–211, title II, §247(a)–(d), July 29, 2010, 124 Stat. 2296, 2297
 
 "(2) Village public safety officer.—The term 'village public safety officer' means an individual employed as a village public safety officer under the program established by the State pursuant to Alaska Statute 18.65.670.
 
-"(3) Tribal organization.—The term 'tribal organization' has the meaning given that term in section 4 of the Indian Self-Determination and Educational [Education] Assistance Act (25 U.S.C. 450b(l)).
+"(3) Tribal organization.—The term 'tribal organization' has the meaning given that term in section 4 of the Indian Self-Determination and Educational [Education] Assistance Act (25 U.S.C. 450b(l)) [now 25 U.S.C. 5304(l)].
 
 "(b) COPS Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd) (provided that only an Indian tribe or tribal organization may receive a grant under the tribal resources grant program under subsection (j) of that section) on an equal basis with other eligible applicants for funding under that section.
 

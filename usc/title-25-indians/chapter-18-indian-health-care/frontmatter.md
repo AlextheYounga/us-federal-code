@@ -349,3 +349,7 @@ Sec.
 1682. Subrogation of claims by Indian Health Service.
 
 1683. Indian Catastrophic Health Emergency Fund.
+
+1684. Emergency plan for Indian safety and health.
+
+1685. Service of traditional foods in public facilities.

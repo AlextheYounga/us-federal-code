@@ -38,7 +38,7 @@ The entities specified in this subsection are the following:
 
 (9) Entities receiving assistance under subchapter XXIV of this chapter (relating to services with respect to acquired immune deficiency syndrome).
 
-(10) Non-Federal entities authorized under the Indian Self-Determination Act [25 U.S.C. 450f et seq.].
+(10) Non-Federal entities authorized under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.].
 
 (July 1, 1944, ch. 373, title III, §340D, as added Pub. L. 103–183, title I, §104, Dec. 14, 1993, 107 Stat. 2230; amended Pub. L. 106–310, div. A, title XXV, §2502(b), Oct. 17, 2000, 114 Stat. 1163; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
@@ -50,7 +50,7 @@ Sections 254b and 254c of this title, referred to in subsec. (c)(3), (4), were i
 
 Section 256a of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
-The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments ####
 

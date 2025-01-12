@@ -2,7 +2,7 @@
 
 #### (a) Declaration of nonnavigability ####
 
-Subject to subsections (c), (d), and (e) of this section, the area described in subsection (b) of this section is declared to be nonnavigable waters of the United States.
+Subject to subsections (c), (d), and (e), the area described in subsection (b) is declared to be nonnavigable waters of the United States.
 
 #### (b) Area subject to declaration ####
 
@@ -62,7 +62,7 @@ Thence north 12°–24′–40″ west, along the United States Bulkhead Line ap
 
 #### (c) Determination of public interest ####
 
-The declaration made in subsection (a) of this section shall not take effect if the Secretary of the Army (acting through the Chief of Engineers), using reasonable discretion, finds that the proposed project is not in the public interest—
+The declaration made in subsection (a) shall not take effect if the Secretary of the Army (acting through the Chief of Engineers), using reasonable discretion, finds that the proposed project is not in the public interest—
 
 (1) before the date which is 120 days after the date of the submission to the Secretary of appropriate plans for the proposed project; and
 
@@ -72,11 +72,11 @@ The declaration made in subsection (a) of this section shall not take effect if 
 
 #### (1) Affected area ####
 
-The declaration made in subsection (a) of this section shall apply only to those portions of the area described in subsection (b) of this section which are or will be occupied by permanent structures (including docking facilities) comprising the proposed project.
+The declaration made in subsection (a) shall apply only to those portions of the area described in subsection (b) which are or will be occupied by permanent structures (including docking facilities) comprising the proposed project.
 
 #### (2) Application of other laws ####
 
-Notwithstanding subsection (a) of this section, all activities conducted in the area described in subsection (b) of this section are subject to all Federal laws which apply to such activities, including—
+Notwithstanding subsection (a), all activities conducted in the area described in subsection (b) are subject to all Federal laws which apply to such activities, including—
 
 (A) sections 401 and 403 of this title;
 
@@ -86,17 +86,17 @@ Notwithstanding subsection (a) of this section, all activities conducted in the 
 
 #### (e) Expiration date ####
 
-The declaration made in subsection (a) of this section shall expire—
+The declaration made in subsection (a) shall expire—
 
-(1) on the date which is 6 years after December 18, 1991, if work on the proposed project to be performed in the area described in subsection (b) of this section is not commenced before such date; or
+(1) on the date which is 6 years after December 18, 1991, if work on the proposed project to be performed in the area described in subsection (b) is not commenced before such date; or
 
-(2) on the date which is 20 years after December 18, 1991, for any portion of the area described in subsection (b) of this section which on such date is not bulkheaded, filled, or occupied by a permanent structure (including docking facilities).
+(2) on the date which is 20 years after December 18, 1991, for any portion of the area described in subsection (b) which on such date is not bulkheaded, filled, or occupied by a permanent structure (including docking facilities).
 
 #### (f) "Proposed project" defined ####
 
 For the purposes of this section, the term "proposed project" means any project for the rehabilitation and development of—
 
-(1) the structure located in the area described in subsection (b) of this section, commonly referred to as Pier A; and
+(1) the structure located in the area described in subsection (b), commonly referred to as Pier A; and
 
 (2) the area surrounding such structure.
 
