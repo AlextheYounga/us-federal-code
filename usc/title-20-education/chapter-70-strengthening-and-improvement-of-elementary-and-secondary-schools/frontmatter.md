@@ -220,7 +220,15 @@ Sec.
 
 6674. Technical assistance and national evaluation.
 
-6675. STEM master teacher corps.
+6675.
+
+#### subpart 5—recognizing achievement in classified school employees ####
+
+6681. Findings.
+
+6682. Definitions.
+
+6683. Recognition program established.
 
 #### Part C—General Provisions ####
 
