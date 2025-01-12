@@ -40,7 +40,11 @@ Sec.
 
 46319. Permanent closure of an airport without providing sufficient notice.
 
+46320. Interference with wildfire suppression, law enforcement, or emergency response effort by operation of unmanned aircraft.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–190, title II, §2205(c), July 15, 2016, 130 Stat. 631, added item 46320.
 
 **2003**—Pub. L. 108–176, title I, §185(b), Dec. 12, 2003, 117 Stat. 2518, added item 46319.
 

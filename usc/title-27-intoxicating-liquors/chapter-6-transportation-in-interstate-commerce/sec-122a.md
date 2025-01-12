@@ -42,7 +42,7 @@ An action under this section shall be tried before the court.
 
 #### (1) In general ####
 
-In any action brought under this section, upon a proper showing by the attorney general of the State, the court may issue a preliminary or permanent injunction to restrain a violation of this section. A proper showing under this paragraph shall require that a State prove by a preponderance of the evidence that a violation of State law as described in subsection (b) of this section has taken place or is taking place.
+In any action brought under this section, upon a proper showing by the attorney general of the State, the court may issue a preliminary or permanent injunction to restrain a violation of this section. A proper showing under this paragraph shall require that a State prove by a preponderance of the evidence that a violation of State law as described in subsection (b) has taken place or is taking place.
 
 #### (2) Additional showing for preliminary injunction ####
 

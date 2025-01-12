@@ -648,6 +648,8 @@ Sec.
 
 2394b. HELP Commission.
 
+2394c. Information on covered United States foreign assistance programs.
+
 2395. General authorities.
 
 2395a. International agreements concerning debt relief; transmittal to congressional committees.
