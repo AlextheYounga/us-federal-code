@@ -14,7 +14,7 @@ Sec.
 
 6. Limitation of term "products of American fisheries."
 
-7. Definition of "marriage" and "spouse".
+7. Definition of "marriage" and "spouse". 2
 
 8. "Person", "human being", "child", and "individual" as including born-alive infant.
 
@@ -27,3 +27,5 @@ Sec.
 **1996**—Pub. L. 104–199, §3(b), Sept. 21, 1996, 110 Stat. 2420, added item 7.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER1_1)
+
+[<sup>2</sup> Section catchline amended by Pub. L. 117–228 without corresponding amendment of chapter analysis.](#CHAPTER1_2)

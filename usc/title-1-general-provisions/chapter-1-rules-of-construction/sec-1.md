@@ -36,6 +36,10 @@ the words "person" and "whoever" include corporations, companies, associations, 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–228, §1, Dec. 13, 2022, 136 Stat. 2305, provided that: "This Act [enacting section 1738C of Title 28, Judiciary and Judicial Procedure, amending section 7 of this title, repealing section 1738C of Title 28, and enacting provisions set out as notes under section 7 of this title] may be cited as the 'Respect for Marriage Act'."
+
 #### Short Title of 2012 Amendment ####
 
 Pub. L. 112–231, §1, Dec. 28, 2012, 126 Stat. 1619, provided that: "This Act [amending this section and sections 92a, 215, and 215a of Title 12, Banks and Banking] may be cited as the '21st Century Language Act of 2012'."
