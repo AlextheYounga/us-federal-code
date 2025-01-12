@@ -240,6 +240,48 @@ Subsec. (p). Act Aug. 3, 1950, substituted "; and" for the period at end.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Training of Coast Guard Personnel ####
+
+Pub. L. 115–265, title II, §210, Oct. 11, 2018, 132 Stat. 3748, provided that:
+
+"(a) Prospective Sector Commander Training.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall implement an Officer in Charge, Marine Inspections segment to the sector commander indoctrination course for prospective sector commanders without a Coast Guard prevention ashore officer specialty code.
+
+"(b) Steamship Inspections.—Not later than 1 year after the date of the enactment of this Act, the Commandant shall implement steam plant inspection training for Coast Guard marine inspectors and, subject to availability, recognized organizations to which authority is delegated under section 3316 of title 46, United States Code.
+
+"(c) Advanced Journeyman Inspector Training.—
+
+"(1) In general.—Not later than 2 years after the date of the enactment of this Act, the Commandant shall establish advanced training to provide instruction on the oversight of recognized organizations to which authority is delegated under section 3316 of title 46, United States Code, auditing responsibilities, and the inspection of unique vessel types.
+
+"(2) Recipients.—The Commandant shall—
+
+"(A) require that such training be completed by senior Coast Guard marine inspectors; and
+
+"(B) subject to availability of training capacity, make such training available to recognized organization surveyors authorized by the Coast Guard to conduct inspections.
+
+"(d) Coast Guard Inspections Staff; Briefing.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018], the Commandant [of the Coast Guard] shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing detailing—
+
+"(1) the estimated time and funding necessary to triple the current size of the Coast Guard's traveling inspector staff; and
+
+"(2) other options available to the Coast Guard to enhance and maintain marine safety knowledge, including discussion of increased reliance on—
+
+"(A) civilian marine inspectors;
+
+"(B) experienced licensed mariners;
+
+"(C) retired members of the Coast Guard;
+
+"(D) arranging for Coast Guard inspectors to ride onboard commercial oceangoing vessels documented under chapter 121 of title 46, United States Code, to gain experience and insight; and
+
+"(E) extending tour-lengths for Coast Guard marine safety officers assigned to inspection billets.
+
+"(e) Audits; Coast Guard Attendance and Performance.—Not later than 180 days after the date of the enactment of this Act, the Commandant shall—
+
+"(1) update Coast Guard policy to utilize risk analysis to target the attendance of Coast Guard personnel during external safety management certificate and document of compliance audits; and
+
+"(2) perform a quality assurance audit of recognized organization representation and performance regarding United States-flagged vessels."
+
+[For definition of "recognized organizations" as used in section 210 of Pub. L. 115–265, set out above, see section 203 of Pub. L. 115–265, set out as a note under section 2101 of this title.]
+
 #### Days Away From Homeport ####
 
 Pub. L. 114–120, title II, §204(c), Feb. 8, 2016, 130 Stat. 35, provided that: "Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Commandant of the Coast Guard shall—

@@ -14,6 +14,8 @@ Sec.
 
 2504. Peace Corps volunteers.
 
+2504a. Health care for volunteers at Peace Corps posts.
+
 2505. Peace Corps volunteer leaders; number; applicability of chapter; benefits.
 
 2506. Peace Corps employees.

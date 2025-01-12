@@ -104,6 +104,8 @@ Sec.
 
 648b. Grants for SBDCs.
 
+648c. SBA and USPTO partnerships.
+
 649. Office of International Trade.
 
 649a. Omitted.

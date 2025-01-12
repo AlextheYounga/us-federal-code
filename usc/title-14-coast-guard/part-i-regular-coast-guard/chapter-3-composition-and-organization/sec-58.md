@@ -45,3 +45,53 @@
 "(2) develop a repository of information on its missions and specialties; and
 
 "(3) perform any other missions as the Commandant may specify."
+
+#### Coast Guard Blue Technology Center of Expertise ####
+
+Pub. L. 115–265, title III, §302, Oct. 11, 2018, 132 Stat. 3752, provided that:
+
+"(a) Establishment.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018] and subject to the availability of appropriations, the Commandant may establish under section 58 of title 14, United States Code, a Blue Technology center of expertise.
+
+"(b) Missions.—In addition to the missions listed in section 58(b) of title 14, United States Code, the Center may—
+
+"(1) promote awareness within the Coast Guard of the range and diversity of Blue Technologies and their potential to enhance Coast Guard mission readiness, operational performance, and regulation of such technologies;
+
+"(2) function as an interactive conduit to enable the sharing and dissemination of Blue Technology information between the Coast Guard and representatives from the private sector, academia, nonprofit organizations, and other Federal agencies;
+
+"(3) increase awareness among Blue Technology manufacturers, entrepreneurs, and vendors of Coast Guard acquisition policies, procedures, and business practices;
+
+"(4) provide technical support, coordination, and assistance to Coast Guard districts and the Coast Guard Research and Development Center, as appropriate; and
+
+"(5) subject to the requirements of the Coast Guard Academy, coordinate with the Academy to develop appropriate curricula regarding Blue Technology to be offered in professional courses of study to give Coast Guard cadets and officer candidates a greater background and understanding of Blue Technologies.
+
+"(c) Blue Technology Exposition; Briefing.—Not later than 6 months after the date of the enactment of this Act [Oct. 11, 2018], the Commandant shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on the costs and benefits of hosting a biennial Coast Guard Blue Technology exposition to further interactions between representatives from the private sector, academia, and nonprofit organizations, and the Coast Guard and examine emerging technologies and Coast Guard mission demands.
+
+"(d) Definitions.—In this section:
+
+"(1) Center.—The term 'Center' means the Blue Technology center of expertise established under this section.
+
+"(2) Commandant.—The term 'Commandant' means the Commandant of the Coast Guard.
+
+"(3) Blue technology.—The term 'Blue Technology' means any technology, system, or platform that—
+
+"(A) is designed for use or application above, on, or below the sea surface or that is otherwise applicable to Coast Guard operational needs, including such a technology, system, or platform that provides continuous or persistent coverage; and
+
+"(B) supports or facilitates—
+
+"(i) maritime domain awareness, including—
+
+ "(I) surveillance and monitoring;
+
+ "(II) observation, measurement, and modeling:[;] or
+
+ "(III) information technology and communications;
+
+"(ii) search and rescue;
+
+"(iii) emergency response;
+
+"(iv) maritime law enforcement;
+
+"(v) marine inspections and investigations; or
+
+"(vi) protection and conservation of the marine environment."

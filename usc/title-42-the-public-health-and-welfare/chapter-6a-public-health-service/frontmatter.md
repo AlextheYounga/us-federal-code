@@ -3050,6 +3050,8 @@ Sec.
 
 300gg–19a. Patient protections.
 
+300gg–19b. Information on prescription drugs.
+
 #### subpart 2—exclusion of plans; enforcement; preemption ####
 
 300gg–21. Exclusion of certain plans.

@@ -50,9 +50,13 @@ Sec.
 
 121. Limitations on exclusive rights: Reproduction for blind or other people with disabilities.
 
+121A. Limitations on exclusive rights: reproduction for blind or other people with disabilities in Marrakesh Treaty countries.
+
 122. Limitations on exclusive rights: Secondary transmissions of local television programming by satellite.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–261, §2(b), Oct. 9, 2018, 132 Stat. 3669, added item 121A.
 
 **2010**—Pub. L. 111–175, title I, §§102(a)(2), 103(a)(2), 104(a)(2), May 27, 2010, 124 Stat. 1219, 1227, 1231, added items 111, 119, and 122 and struck out former items 111 "Limitations on exclusive rights: Secondary transmissions", 119 "Limitations on exclusive rights: Secondary transmissions of superstations and network stations for private home viewing", and 122 "Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets".
 

@@ -31,7 +31,11 @@ Chap. Sec.
 
 13. Protection of Original Designs 1301
 
+14. Unauthorized use of pre-1972 sound recordings 1 1401
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–264, title II, §202(b), Oct. 11, 2018, 132 Stat. 3737, added item relating to chapter 14.
 
 **2010**—Pub. L. 111–295, §4(b)(1)(B), Dec. 9, 2010, 124 Stat. 3180, substituted "Importation and Exportation" for "Manufacturing Requirements, Importation, and Exportation" in item relating to chapter 6.
 
@@ -201,3 +205,5 @@ Pub. L. 94–553, title I, §114, Oct. 19, 1976, 90 Stat. 2602, provided that: "
 #### Lost and Expired Copyrights; Recording Rights ####
 
 Pub. L. 94–553, title I, §103, Oct. 19, 1976, 90 Stat. 2599, provided that: "This Act [enacting this title] does not provide copyright protection for any work that goes into the public domain before January 1, 1978. The exclusive rights, as provided by section 106 of title 17 as amended by the first section of this Act, to reproduce a work in phonorecords and to distribute phonorecords of the work, do not extend to any nondramatic musical work copyrighted before July 1, 1909."
+
+[<sup>1</sup> So in original. Probably should be "Unauthorized Use of Pre-1972 Sound Recordings".](#_1)

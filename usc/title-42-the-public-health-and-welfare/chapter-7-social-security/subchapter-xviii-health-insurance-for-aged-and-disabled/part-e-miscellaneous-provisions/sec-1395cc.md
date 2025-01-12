@@ -468,7 +468,7 @@ The Secretary shall establish procedures for making data submitted under paragra
 
 #### Amendment of Subsection (a)(1)(L) ####
 
-Pub. L. 115–182, title I, §144(a)(2), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under section 1701 of Title 38, Veterans' Benefits, subsection (a)(1)(L) of this section is amended by striking "under section 603" and inserting "under chapter 17". See 2018 Amendment note below.
+Pub. L. 115–182, title I, §144(a)(2), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under section 1703 of Title 38, Veterans' Benefits, subsection (a)(1)(L) of this section is amended by striking "under section 603" and inserting "under chapter 17". See 2018 Amendment note below.
 
 #### References in Text ####
 
@@ -484,7 +484,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(2)(E), (6)(B)(i), 
 
 #### Amendments ####
 
-**2018**—Subsec. (a)(1)(L). Pub. L. 115–182, which directed the substitution of "under chapter 17" for "under section 603", was executed by making the substitution for "under section 1703", to reflect the probable intent of Congress. See 1991 Amendment note below.
+**2018**—Subsec. (a)(1)(L). Pub. L. 115–182 substituted "under chapter 17" for "under section 603". Amendment was executed by making the substitution for "under section 1703", which appeared in text after the substitution of "section 1703" for "section 603" pursuant to Pub. L. 102–83. See 1991 Amendment note below.
 
 **2016**—Subsec. (j)(1)(A). Pub. L. 114–255, §17004(b)(2)(A)(i), substituted "requirements in accordance with paragraph (5)" for "requirements in accordance with paragraph (4)", "moratoria in accordance with paragraph (7)" for "moratoria in accordance with paragraph (5)", and "paragraph (9)" for "paragraph (6)".
 

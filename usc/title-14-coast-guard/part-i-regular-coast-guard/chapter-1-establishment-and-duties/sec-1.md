@@ -26,6 +26,10 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–265, title III, §301, Oct. 11, 2018, 132 Stat. 3752, provided that: "This title [enacting provisions set out as a note under section 58 of this title] may be cited as the 'Coast Guard Blue Technology Center of Expertise Act'."
+
 #### Short Title of 2014 Amendment ####
 
 Pub. L. 113–281, §1, Dec. 18, 2014, 128 Stat. 3022, provided that: "This Act [see Tables for classification] may be cited as the 'Howard Coble Coast Guard and Maritime Transportation Act of 2014'."
