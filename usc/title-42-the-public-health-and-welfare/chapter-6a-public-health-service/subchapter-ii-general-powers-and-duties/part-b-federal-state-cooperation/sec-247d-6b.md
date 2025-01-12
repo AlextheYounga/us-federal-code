@@ -586,10 +586,6 @@ Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end "Such agreeme
 
 Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted "of Health and Human Services" after "Secretary" wherever appearing.
 
-#### Change of Name ####
-
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2002 Amendment ####
 
 Pub. L. 107–296, title XVII, §1705(b), Nov. 25, 2002, 116 Stat. 2316, provided that: "The amendments made by this section [amending this section] shall take effect on the date of transfer of the Strategic National Stockpile of the Department of Health and Human Services to the Department [of Homeland Security]."

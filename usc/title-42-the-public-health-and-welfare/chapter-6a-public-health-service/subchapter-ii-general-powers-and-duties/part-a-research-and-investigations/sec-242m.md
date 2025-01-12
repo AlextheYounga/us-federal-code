@@ -204,4 +204,4 @@ Pub. L. 95–623, §10, Nov. 9, 1978, 92 Stat. 3455, as amended by S. Res. 30, M
 
 #### Authorization of Appropriations for Fiscal Year Ending June 30, 1977 ####
 
-Pub. L. 93–353, title I, §107(b), July 23, 1974, 88 Stat. 371, provided that: "The authorizations of appropriations provided by section 308(i) of the Public Health Service Act [42 U.S.C. 242m(i)] is extended for the fiscal year ending June 30, 1977, in the amounts authorized for the preceding fiscal year unless before June 30, 1976, Congress has passed legislation repealing this subsection."
+Pub. L. 93–353, title I, §107(b), July 23, 1974, 88 Stat. 371, provided that the authorizations provided by subsec. (i) of this section would be extended for the fiscal year ending June 30, 1977, unless before June 30, 1976, Congress passed legislation repealing the extension.

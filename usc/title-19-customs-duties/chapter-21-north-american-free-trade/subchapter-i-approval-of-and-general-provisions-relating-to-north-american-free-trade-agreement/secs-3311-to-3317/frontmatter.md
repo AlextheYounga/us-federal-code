@@ -1,52 +1,26 @@
-### §3311. Approval and entry into force of North American Free Trade Agreement ###
+### §§3311 to 3317. Repealed. Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78 ###
 
-#### (a) Approval of Agreement and statement of administrative action ####
+Section 3311, Pub. L. 103–182, title I, §101, Dec. 8, 1993, 107 Stat. 2061, related to approval and entry into force of the North American Free Trade Agreement.
 
-Pursuant to section 2903 of this title and section 2191 of this title, the Congress approves—
+Section 3312, Pub. L. 103–182, title I, §102, Dec. 8, 1993, 107 Stat. 2062, described the relationship of the Agreement to United States and State law.
 
-(1) the North American Free Trade Agreement entered into on December 17, 1992, with the Governments of Canada and Mexico and submitted to the Congress on November 4, 1993; and
+Section 3313, Pub. L. 103–182, title I, §103, Dec. 8, 1993, 107 Stat. 2063, related to consultation and layover requirements for, and effective date of, proclaimed actions.
 
-(2) the statement of administrative action proposed to implement the Agreement that was submitted to the Congress on November 4, 1993.
+Section 3314, Pub. L. 103–182, title I, §104, Dec. 8, 1993, 107 Stat. 2064, related to implementing actions in anticipation of entry into force and initial regulations.
 
-#### (b) Conditions for entry into force of Agreement ####
+Section 3315, Pub. L. 103–182, title I, §105, Dec. 8, 1993, 107 Stat. 2064; Pub. L. 110–161, div. B, title I, §107, Dec. 26, 2007, 121 Stat. 1893, related to establishment of United States Section of NAFTA Secretariat.
 
-The President is authorized to exchange notes with the Government of Canada or Mexico providing for the entry into force, on or after January 1, 1994, of the Agreement for the United States with respect to such country at such time as—
+Section 3316, Pub. L. 103–182, title I, §106, Dec. 8, 1993, 107 Stat. 2065, related to appointments to chapter 20 panel proceedings, with emphasis on individuals having expertise in environmental issues.
 
-(1) the President—
-
-(A) determines that such country has implemented the statutory changes necessary to bring that country into compliance with its obligations under the Agreement and has made provision to implement the Uniform Regulations provided for under article 511 of the Agreement regarding the interpretation, application, and administration of the rules of origin, and
-
-(B) transmits a report to the House of Representatives and the Senate setting forth the determination under subparagraph (A) and including, in the case of Mexico, a description of the specific measures taken by that country to—
-
-(i) bring its laws into conformity with the requirements of the Schedule of Mexico in Annex 1904.15 of the Agreement, and
-
-(ii) otherwise ensure the effective implementation of the binational panel review process under chapter 19 of the Agreement regarding final antidumping and countervailing duty determinations; and
-
-(2) the Government of such country exchanges notes with the United States providing for the entry into force of the North American Agreement on Environmental Cooperation and the North American Agreement on Labor Cooperation for that country and the United States.
-
-(Pub. L. 103–182, title I, §101, Dec. 8, 1993, 107 Stat. 2061.)
-
-#### Repeal of Section ####
-
-Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, provided that, effective on the date the USMCA enters into force, this section is repealed.
+Section 3317, Pub. L. 103–182, title I, §108, Dec. 8, 1993, 107 Stat. 2066, related to congressional intent regarding future accessions with respect to countries other than Canada and Mexico.
 
 #### Effective Date of Repeal ####
 
-Repeal effective on the date on which the USMCA enters into force, see section 601 of Pub. L. 116–113, set out as a note under section 3301 of this title.
+Repeal effective on the date on which the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of this title.
 
 #### Effective Date; Termination of NAFTA Status ####
 
-Pub. L. 103–182, title I, §109, Dec. 8, 1993, 107 Stat. 2067, provided that:
-
-"(a) Effective Dates.—
-
-"(1) In general.—This title [enacting this subchapter and amending provisions set out as a note under section 2112 of this title] (other than the amendment made by section 107 [amending provisions set out as a note under section 2112 of this title]) takes effect on the date of the enactment of this Act [Dec. 8, 1993].
-
-"(2) Section 107 amendment.—The amendment made by section 107 takes effect on the date the Agreement enters into force between the United States and Canada [Jan. 1, 1994].
-
-"(b) Termination of NAFTA Status.—During any period in which a country ceases to be a NAFTA country, sections 101 through 106 [enacting this section and sections 3312 to 3316 of this title] shall cease to have effect with respect to such country."
-
-*[Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, provided that, effective on the date the USMCA enters into force, section 109 of Pub. L. 103–182, set out above, is repealed.]*
+Pub. L. 103–182, title I, §109, Dec. 8, 1993, 107 Stat. 2067, which provided that title I of Pub. L. 103–182 (except for section 107) would take effect on Dec. 8, 1993, and terminated the effect of sections 101 through 106 of Pub. L. 103–182 with respect to a country ceasing to be a NAFTA country, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### North American Free Trade Agreement: Entry Into Force ####
 
@@ -56,15 +30,15 @@ A Presidential Memorandum on the Implementation of the North American Free Trade
 
 Ex. Ord. No. 12889, Dec. 27, 1993, 58 F.R. 69681, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the North American Free Trade Agreement Implementation Act (Public Law 103–182, 107 Stat. 2057) (the NAFTA Implementation Act) [see Short Title note set out under section 3301 of this title] and section 302 of title 3, United States Code, and in order to implement the North American Free Trade Agreement (NAFTA), it is hereby ordered:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the North American Free Trade Agreement Implementation Act (Public Law 103–182, 107 Stat. 2057) (the NAFTA Implementation Act) [see Short Title note under former section 3301 of this title] and section 302 of title 3, United States Code, and in order to implement the North American Free Trade Agreement (NAFTA), it is hereby ordered:
 
-Section 1. *Establishment of United States Section of the NAFTA Secretariat*. Pursuant to section 105(a) of the NAFTA Implementation Act [19 U.S.C. 3315(a)], a United States section of the NAFTA Secretariat shall be established within the Department of Commerce and shall carry out the functions set out in that section.
+Section 1. *Establishment of United States Section of the NAFTA Secretariat*. Pursuant to section 105(a) of the NAFTA Implementation Act [former 19 U.S.C. 3315(a)], a United States section of the NAFTA Secretariat shall be established within the Department of Commerce and shall carry out the functions set out in that section.
 
 Sec. 2. *Acceptance by the President of Panel and Committee Decisions*. Pursuant to subparagraph 516A(g)(7)(B) of the Tariff Act of 1930, as amended, 19 U.S.C. 1516a(g)(7)(B), in the event that the provisions of that subparagraph take effect, I accept, as a whole, all decisions of binational panels and extraordinary challenge committees.
 
-Sec. 3. *Implementation of Safeguard Provisions for Textile and Apparel Goods*. Pursuant to section 201 of the NAFTA Implementation Act [19 U.S.C. 3331], the Committee for the Implementation of Textile Agreements (the Committee) shall take such action as necessary to implement the bilateral safeguard provisions (tariff actions) set out in section 4 of Annex 300–B of the NAFTA. The United States Customs Service shall take such actions to carry out those safeguard provisions as directed by the Secretary of the Treasury, upon the advice and recommendation of the Chairman of the Committee.
+Sec. 3. *Implementation of Safeguard Provisions for Textile and Apparel Goods*. Pursuant to section 201 of the NAFTA Implementation Act [former 19 U.S.C. 3331], the Committee for the Implementation of Textile Agreements (the Committee) shall take such action as necessary to implement the bilateral safeguard provisions (tariff actions) set out in section 4 of Annex 300–B of the NAFTA. The United States Customs Service shall take such actions to carry out those safeguard provisions as directed by the Secretary of the Treasury, upon the advice and recommendation of the Chairman of the Committee.
 
-Sec. 4. *Publication of Proposed Rules regarding Technical Regulations and Sanitary and Phytosanitary Measures*. (a) In accordance with Articles 718 and 909 of the NAFTA, each agency subject to the provisions of the Administrative Procedure Act, as amended (5 U.S.C. 551 *et seq*.), shall, in applying section 553 of title 5, United States Code, with respect to any proposed Federal technical regulation or any Federal sanitary or phytosanitary measure of general application, other than a regulation issued pursuant to section 104(a) of the NAFTA Implementation Act [19 U.S.C. 3314(a)], publish or serve notice of such regulation or measure not less than 75 days before the comment due date, except:
+Sec. 4. *Publication of Proposed Rules regarding Technical Regulations and Sanitary and Phytosanitary Measures*. (a) In accordance with Articles 718 and 909 of the NAFTA, each agency subject to the provisions of the Administrative Procedure Act, as amended (5 U.S.C. 551 *et seq*.), shall, in applying section 553 of title 5, United States Code, with respect to any proposed Federal technical regulation or any Federal sanitary or phytosanitary measure of general application, other than a regulation issued pursuant to section 104(a) of the NAFTA Implementation Act [former 19 U.S.C. 3314(a)], publish or serve notice of such regulation or measure not less than 75 days before the comment due date, except:
 
 (1) in the case of a technical regulation relating to perishable goods, in which case the agency shall, to the greatest extent practicable, publish or serve notice at least 30 days prior to adoption of such regulation;
 
@@ -239,3 +213,23 @@ St. Lawrence Seaway Development Corporation
 [For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.]
 
 [For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.]
+
+#### Consultation and Layover Requirements; Delegation of Authority ####
+
+Memorandum of President of the United States, Sept. 29, 1995, 60 F.R. 52061, provided:
+
+Memorandum for the United States Trade Representative
+
+By virtue of the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, you are hereby delegated the authority set forth in section 103(a) of the North American Free Trade Agreement Implementation Act ("NAFTA Act") [former 19 U.S.C. 3313(a)] and section 115 of the Uruguay Round Agreements Act ("Uruguay Round Act") [19 U.S.C. 3524] to perform certain functions in order to fulfill the consultation and layover requirements set forth in those provisions, including:
+
+(1) obtaining advice from the appropriate advisory committees and the U.S. International Trade Commission on the proposed implementation of an action by Presidential proclamation;
+
+(2) submitting a report on such action to the House Ways and Means and Senate Finance Committees; and
+
+(3) consulting with such committees during the 60-day period following the date on which the requirements under (1) and (2) have been met.
+
+The President retains the sole authority under the NAFTA Act [Pub. L. 103–182, see Tables for classification] and Uruguay Round Act [Pub. L. 103–465, see Tables for classification] to implement an action by proclamation after the consultation and layover requirements set forth in section 103(a)(1) through (4) and section 115 of such Acts, respectively, have been met.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.

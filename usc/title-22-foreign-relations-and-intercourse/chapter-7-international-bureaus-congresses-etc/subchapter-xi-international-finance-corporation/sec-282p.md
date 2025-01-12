@@ -19,3 +19,5 @@ The United States Governor of the Corporation is authorized to agree to and acce
 #### Purposes; Effective Date ####
 
 Pub. L. 116–136, div. B, title XI, §21012(a), Mar. 27, 2020, 134 Stat. 593, provided that: "For purposes of strengthening the ability of foreign countries to prevent, prepare for, and respond to coronavirus and to the adverse economic impacts of coronavirus, in a manner that would protect the United States from the spread of coronavirus and mitigate an international economic crisis resulting from coronavirus that may pose a significant risk to the economy of the United States, each paragraph of subsection (b) [enacting this section and sections 284cc, 290g–25, and 290i–12 of this title and amending section 286e–2 of this title] shall take effect upon enactment of this Act [Mar. 27, 2020]."
+
+[For definition of "coronavirus" as used in section 21012(a) of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.]

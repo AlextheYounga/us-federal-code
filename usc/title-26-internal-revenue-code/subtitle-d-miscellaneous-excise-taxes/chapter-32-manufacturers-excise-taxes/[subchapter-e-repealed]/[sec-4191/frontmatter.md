@@ -2,8 +2,6 @@
 
 Section, added Pub. L. 111–152, title I, §1405(a)(1), Mar. 30, 2010, 124 Stat. 1064; amended Pub. L. 114–113, div. Q, title I, §174(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–120, div. D, §4001(a), Jan. 22, 2018, 132 Stat. 38, imposed on the sale of any taxable medical device by the manufacturer, producer, or importer a tax equal to 2.3 percent of the price for which so sold.
 
-#### Prior Provisions ####
-
 For prior sections 4191, 4192, 4201, and 4211, see Prior Provisions note set out preceding this section.
 
 #### Effective Date of Repeal ####

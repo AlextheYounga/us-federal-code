@@ -614,7 +614,7 @@ Sec.
 
 1677k. Third-country dumping.
 
-1677 l. Antidumping and countervailing duty collections.
+1677 l. Repealed.
 
 1677m. Conduct of investigations and administrative reviews.
 

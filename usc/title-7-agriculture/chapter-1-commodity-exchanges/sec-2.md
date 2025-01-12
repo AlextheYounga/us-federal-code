@@ -1284,25 +1284,11 @@ Pub. L. 110–234, title XIII, §13106, May 22, 2008, 122 Stat. 1435, and Pub. L
 
 #### Study Regarding Retail Swaps ####
 
-Pub. L. 106–554, §1(a)(5) [title I, §105(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–379, provided that:
-
-"(1) In general.—The Board of Governors of the Federal Reserve System, the Secretary of the Treasury, the Commodity Futures Trading Commission, and the Securities and Exchange Commission shall conduct a study of issues involving the offering of swap agreements to persons other than eligible contract participants (as defined in section 1a of the Commodity Exchange Act [7 U.S.C. 1a]).
-
-"(2) Matters to be addressed.—The study shall address—
-
-"(A) the potential uses of swap agreements by persons other than eligible contract participants;
-
-"(B) the extent to which financial institutions are willing to offer swap agreements to persons other than eligible contract participants;
-
-"(C) the appropriate regulatory structure to address customer protection issues that may arise in connection with the offer of swap agreements to persons other than eligible contract participants; and
-
-"(D) such other relevant matters deemed necessary or appropriate to address.
-
-"(3) Report.—Before the end of the 1-year period beginning on the date of the enactment of this Act [Dec. 21, 2000], a report on the findings and conclusions of the study required by paragraph (1) shall be submitted to Congress, together with such recommendations for legislative action as are deemed necessary and appropriate."
+Pub. L. 106–554, §1(a)(5) [title I, §105(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–379, required the Board of Governors of the Federal Reserve System, the Secretary of the Treasury, the Commodity Futures Trading Commission, and the Securities and Exchange Commission to conduct a study of issues involving the offering of swap agreements to persons other than eligible contract participants and, before the end of the 1-year period beginning on Dec. 21, 2000, submit a report on findings and conclusions of the study and recommendations for any necessary legislative action to Congress.
 
 #### Educational Events and Symposia ####
 
-Pub. L. 106–554, §1(a)(5) [title I, §105(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–379, required the Board of Governors of the Federal Reserve System, the Secretary of the Treasury, the Commodity Futures Trading Commission, and the Securities and Exchange Commission to conduct a study of issues involving the offering of swap agreements to persons other than eligible contract participants and, before the end of the 1-year period beginning on Dec. 21, 2000, submit a report on findings and conclusions of the study and recommendations for any necessary legislative action to Congress.
+Pub. L. 106–78, title VI, Oct. 22, 1999, 113 Stat. 1160, provided in part: "That for fiscal year 2000 and thereafter, the Commission [Commodity Futures Trading Commission] is authorized to charge reasonable fees to attendees of Commission sponsored educational events and symposia to cover the Commission's costs of providing those events and symposia, and notwithstanding 31 U.S.C. 3302, said fees shall be credited to this account, to be available without further appropriation."
 
 Similar provisions were contained in the following prior appropriations acts:
 

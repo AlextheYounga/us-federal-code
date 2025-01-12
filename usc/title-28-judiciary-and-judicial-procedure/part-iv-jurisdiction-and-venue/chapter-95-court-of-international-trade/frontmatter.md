@@ -8,13 +8,9 @@ Sec.
 
 1583. Counterclaims, cross-claims, and third-party actions.
 
-1584. Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement.
+1584. Civil actions under the United States-Canada Free-Trade Agreement or the USMCA.
 
 1585. Powers in law and equity.
-
-#### Amendment of Analysis ####
-
-Pub. L. 116–113, title IV, §§423(a)(3), 432, Jan. 29, 2020, 134 Stat. 66, provided that, effective on the date on which the USMCA enters into force, but not applicable to certain determinations under section 1516a of this title or binational panel reviews under NAFTA, this analysis is amended by striking item 1584 and adding new item 1584 "Civil actions under the United States-Canada Free-Trade Agreement or the USMCA". See 2020 Amendment note below.
 
 #### Amendments ####
 

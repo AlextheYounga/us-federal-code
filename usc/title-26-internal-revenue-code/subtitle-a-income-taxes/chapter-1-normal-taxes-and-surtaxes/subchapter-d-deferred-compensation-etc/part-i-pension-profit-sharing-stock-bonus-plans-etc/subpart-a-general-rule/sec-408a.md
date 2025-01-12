@@ -430,7 +430,7 @@ Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
 
 #### Effective Date of 2019 Amendment ####
 
-Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out as a note under section 219 of this title.
+Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out in a note under section 219 of this title.
 
 #### Effective Date of 2017 Amendment ####
 

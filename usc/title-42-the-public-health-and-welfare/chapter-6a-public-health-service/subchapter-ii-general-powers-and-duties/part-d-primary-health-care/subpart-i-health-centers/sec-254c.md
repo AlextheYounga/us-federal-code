@@ -230,7 +230,7 @@ Subsec. (e)(2). Pub. L. 116–136, §3213(2)(B)(i), inserted "shall" after "enti
 
 Subsec. (e)(2)(A). Pub. L. 116–136, §3213(2)(B)(ii), substituted "be an entity with demonstrated experience serving, or the capacity to serve, rural underserved populations" for "shall be a rural public or rural nonprofit private entity".
 
-Subsec. (e)(2)(B). Pub. L. 116–136, §3213(2)(B)(iii), (iv). struck out "shall" before "represent" and inserted "that" after "members" in introductory provisions and struck out "that" at beginning of cls. (i) and (ii).
+Subsec. (e)(2)(B). Pub. L. 116–136, §3213(2)(B)(iii), (iv), struck out "shall" before "represent" and inserted "that" after "members" in introductory provisions and struck out "that" at beginning of cls. (i) and (ii).
 
 Subsec. (e)(2)(C). Pub. L. 116–136, §3213(2)(B)(iii), struck out "shall" before "not previously".
 

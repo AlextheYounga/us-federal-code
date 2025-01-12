@@ -1048,7 +1048,7 @@ Pub. L. 110–355, §2(b)(1)–(3), Oct. 8, 2008, 122 Stat. 3988, 3989, provided
 
 #### Guarantee Study ####
 
-Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, §2(n)(2), Dec. 6, 2003, 117 Stat. 2023, provided that: "The Secretary of Health and Human Services shall conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under section 330 of the Public Health Service Act [42 U.S.C. 254b]. The Secretary shall prepare and submit a report to the appropriate Committees of Congress regarding such ability not later than 2 years after the date of enactment of the Health Care Safety Net Amendments of 2002 [Oct. 26, 2002]."
+Pub. L. 107–251, title V, §501, Oct. 26, 2002, 116 Stat. 1664, as amended by Pub. L. 108–163, §2(n)(2), Dec. 6, 2003, 117 Stat. 2023, required the Secretary of Health and Human Services to conduct a study regarding the ability of the Department of Health and Human Services to provide for guarantees of solvency for managed care networks or plans involving health centers receiving funding under this section and to prepare and submit a report to Congress regarding such ability by 2 years after Oct. 26, 2002.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center ####
 

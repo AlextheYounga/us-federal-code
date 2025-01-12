@@ -296,6 +296,6 @@ Pub. L. 93–618, title II, ch. 5, §285, formerly §284, Jan. 3, 1975, 88 Stat.
 
 [Amendment by Pub. L. 106–113 to section 285 of Pub. L. 93–618, set out above, effective as of July 1, 1999, see section 1000(a)(5) [title VII, §702(e)] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 2317 of this title.]
 
-[Amendment by Pub. L. 103–182 to section 285 of Pub. L. 93–618, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 2271 of this title.]
+[Amendment by Pub. L. 103–182 to section 285 of Pub. L. 93–618, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as an Effective Date of 1993 Amendment note under section 2271 of this title.]
 
 [Parts 2 and 3 of this subchapter applicable as if amendments by sections 13007 and 13008 of Pub. L. 99–272, amending section 285 of Pub. L. 93–618, set out above, and sections 2317 and 2346 of this title, had taken effect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 2291 of this title.]

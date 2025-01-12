@@ -16,4 +16,4 @@ Pub. L. 106–310, div. A, title XXVIII, §2802, Oct. 17, 2000, 114 Stat. 1167, 
 
 #### Review of Disease Research Programs of the National Institute of Diabetes and Digestive and Kidney Diseases ####
 
-Pub. L. 99–158, §10, Nov. 20, 1985, 99 Stat. 883, provided that: "The Secretary of Health and Human Services shall conduct an administrative review of the disease research programs of the National Institute of Diabetes and Digestive and Kidney Diseases to determine if any of such programs could be more effectively and efficiently managed by other national research institutes. The Secretary shall complete such review within the one-year period beginning on the date of enactment of this Act [Nov. 20, 1985]."
+Pub. L. 99–158, §10, Nov. 20, 1985, 99 Stat. 883, required the Secretary of Health and Human Services to review the efficiency of the disease research programs of the National Institute of Diabetes and Digestive and Kidney Diseases, to be completed within one year of Nov. 20, 1985.

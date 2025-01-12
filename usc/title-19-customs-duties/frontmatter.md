@@ -45,7 +45,7 @@ Chap. Sec.
 
 20. Andean Trade Preference 3201
 
-21. North American Free Trade 3301
+21. North American Free Trade [Repealed or Transferred] 3301
 
 22. Uruguay Round Trade Agreements 3501
 

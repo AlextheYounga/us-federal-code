@@ -76,7 +76,7 @@ The Securities and Exchange Commission, acting in consultation with the National
 
 #### Repeal of Section ####
 
-Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, provided that, effective on the date the USMCA enters into force, this section is repealed.
+Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, repealed Pub. L. 103–182, which enacted this section, effective on the date the USMCA entered into force (July 1, 2020). See Codification note preceding this section.
 
 #### References in Text ####
 
@@ -88,4 +88,4 @@ Section is comprised of section 541 of Pub. L. 103–182. Subsec. (h)(1) of sect
 
 #### Effective Date of Repeal ####
 
-Repeal effective on the date the USMCA enters into force, see section 601 of Pub. L. 116–113, set out as a note under section 3301 of Title 19, Customs Duties.
+Repeal effective on the date the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of Title 19, Customs Duties.

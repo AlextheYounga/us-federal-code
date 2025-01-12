@@ -220,10 +220,6 @@ By not later than March 1 of each year (beginning with 2019), the Secretary shal
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §207, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50206(a)–(c)(1), Feb. 9, 2018, 132 Stat. 183–185; Pub. L. 116–59, div. B, title IV, §1401, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title IV, §1401(a), Nov. 21, 2019, 133 Stat. 1138; Pub. L. 116–94, div. N, title I, §102(a), Dec. 20, 2019, 133 Stat. 3096; Pub. L. 116–136, div. A, title III, §3802(a), Mar. 27, 2020, 134 Stat. 427.)
 
-#### Amendment of Subsection (b)(5)(A) ####
-
-For applicability of subsec. (b)(5)(A) of this section as amended by section 50206(c)(1) of Pub. L. 115–123, see Effective Date of 2018 Amendment note below.
-
 #### References in Text ####
 
 Clause (iii) of section 1395rr(h)(2)(A) of this title, referred to in subsec. (b)(7)(B)(i)(I), was redesignated clause (iv) by Pub. L. 113–93, title II, §217(d)(1)(B), Apr. 1, 2014, 128 Stat. 1062.

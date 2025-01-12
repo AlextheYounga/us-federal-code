@@ -20,7 +20,7 @@ Pub. L. 116–136, div. A, title III, §3402, Mar. 27, 2020, 134 Stat. 387, prov
 
 "(b) Coordination With Other Agencies.—The Secretary shall coordinate with the heads of other Federal agencies and departments that fund or administer health care workforce development programs, including education and training programs, to—
 
-"(1) evaluate the performance of such programs, including the extent to which such programs are efficient and effective and are meeting the nation's health workforce needs; and
+"(1) evaluate the performance of such programs, including the extent to which such programs are efficient and effective and are meeting the nation's [sic] health workforce needs; and
 
 "(2) identify opportunities to improve the quality and consistency of the information collected to evaluate within and across such programs, and to implement such improvements.
 

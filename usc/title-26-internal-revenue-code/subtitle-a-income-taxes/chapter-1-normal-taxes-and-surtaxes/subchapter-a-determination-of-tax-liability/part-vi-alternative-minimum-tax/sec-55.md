@@ -412,7 +412,7 @@ Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end "In the case of
 
 #### Effective Date of 2019 Amendment ####
 
-Amendment by Pub. L. 116–94 applicable to taxable years beginning after Dec. 31, 2017, see section 501(c)(2) of Pub. L. 116–94, set out as a note under section 1 of this title.
+Amendment by Pub. L. 116–94 applicable to taxable years beginning after Dec. 31, 2017, see section 501(c)(2) of Pub. L. 116–94, set out in a note under section 1 of this title.
 
 #### Effective Date of 2017 Amendment ####
 

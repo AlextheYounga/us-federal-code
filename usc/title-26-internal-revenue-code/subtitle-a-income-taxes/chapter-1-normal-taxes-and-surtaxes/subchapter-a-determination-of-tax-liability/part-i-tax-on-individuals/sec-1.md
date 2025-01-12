@@ -1377,7 +1377,7 @@ Pub. L. 116–94, div. O, §1(a), Dec. 20, 2019, 133 Stat. 3137, provided that: 
 
 Pub. L. 116–94, div. P, title XIII, §1301, Dec. 20, 2019, 133 Stat. 3204, provided that: "This title [amending section 4975 of this title and section 1108 of Title 29, Labor, and enacting provisions set out as a note under section 4975 of this title] may be cited as the 'Temporary Relief from Certain ERISA Requirements Act of 2020'."
 
-Pub. L. 116–94, div. Q, §1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: "This division [see Tables for classification] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2019'."
+Pub. L. 116–94, div. Q, §1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: "This division [div. Q of Pub. L. 116–94, see Tables for classification] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2019'."
 
 Pub. L. 116–25, §1(a), July 1, 2019, 133 Stat. 981, provided that: "This Act [see Tables for classification] may be cited as the 'Taxpayer First Act'."
 

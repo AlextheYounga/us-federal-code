@@ -230,7 +230,7 @@ Another prior section 38 was renumbered section 37 of this title.
 
 #### Amendments ####
 
-**2019**—Subsec. (b)(31) to (33). Pub. L. 116–94 struck out "plus" at end of par. (31), substituted ", plus" for period at end of par. (32), and added par. (33).
+**2019**—Subsec. (b)(33). Pub. L. 116–94 added par. (33).
 
 **2018**—Subsec. (b)(24), (25). Pub. L. 115–141, §401(d)(2)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) which read as follows: "the energy efficient appliance credit determined under section 45M(a),".
 

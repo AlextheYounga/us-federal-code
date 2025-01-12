@@ -158,15 +158,7 @@ Pub. L. 104–182, §3, Aug. 6, 1996, 110 Stat. 1614, provided that: "The Congre
 
 #### GAO Study ####
 
-Pub. L. 104–182, title I, §101(b)(2), Aug. 6, 1996, 110 Stat. 1617, provided that: "The Comptroller General of the United States shall undertake a study to—
-
-"(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act [42 U.S.C. 300f(4)(B)] that are not public water systems subject to the Safe Drinking Water Act [42 U.S.C. 300f et seq.];
-
-"(B) determine the sources and costs and affordability (to users and systems) of water used by such populations for their residential water needs; and
-
-"(C) review State and water system compliance with the exclusion provisions of section 1401(4)(B) of such Act.
-
-The Comptroller General shall submit a report to the Congress within 3 years after the date of enactment of this Act [Aug. 6, 1996] containing the results of such study."
+Pub. L. 104–182, title I, §101(b)(2), Aug. 6, 1996, 110 Stat. 1617, required the Comptroller General to study the reliance for residential water on various nonpublic water systems and to submit a report on the results of the study to Congress within 3 years after Aug. 6, 1996.
 
 #### Safe Drinking Water Amendments of 1977 Restrictions on Appropriations for Research ####
 

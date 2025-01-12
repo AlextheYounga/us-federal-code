@@ -1,4 +1,4 @@
-### §247d–7f. Collaboration and Coordination ###
+### §247d–7f. Collaboration and coordination ###
 
 #### (a) Limited antitrust exemption ####
 

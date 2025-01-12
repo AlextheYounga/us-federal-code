@@ -232,7 +232,7 @@ Pub. L. 107–251, title III, §302(d)(1), Oct. 26, 2002, 116 Stat. 1644, provid
 
 #### GAO Study ####
 
-Pub. L. 107–251, title III, §302(e), Oct. 26, 2002, 116 Stat. 1645, provided that: "Not later than February 1, 2005, the Comptroller General of the United States shall submit to the Congress a report on the appropriateness of the criteria, including but not limited to infant mortality rates, access to health services taking into account the distance to primary health services, the rate of poverty and ability to pay for health services, and low birth rates, established by the Secretary of Health and Human Services for the designation of health professional shortage areas and whether the deeming of federally qualified health centers and rural health clinics as such areas is appropriate and necessary."
+Pub. L. 107–251, title III, §302(e), Oct. 26, 2002, 116 Stat. 1645, required the Comptroller General, no later than Feb. 1, 2005, to submit to Congress a report on the appropriateness of certain criteria established by the Secretary of Health and Human Services for the designation of health professional shortage areas and whether federally qualified health centers and rural health clinics should be deemed as such areas.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center ####
 

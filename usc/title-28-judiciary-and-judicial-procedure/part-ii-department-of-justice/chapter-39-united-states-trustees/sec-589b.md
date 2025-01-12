@@ -52,7 +52,7 @@ in each case by appropriate category and, in cases under subchapter V of chapter
 
 (7) plans of reorganization filed and confirmed and, with respect thereto, by class, the recoveries of the holders, expressed in aggregate dollar values and, in the case of claims, as a percentage of total claims of the class allowed.
 
-(Added Pub. L. 109–8, title VI, §602(a), Apr. 20, 2005, 119 Stat. 120; Pub. L. 116–54, §4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
+(Added Pub. L. 109–8, title VI, §602(a), Apr. 20, 2005, 119 Stat. 120; amended Pub. L. 116–54, §4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
 
 #### References in Text ####
 
