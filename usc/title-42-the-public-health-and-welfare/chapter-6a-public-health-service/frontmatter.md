@@ -932,7 +932,11 @@ Sec.
 
 285a–10. Research, information, and education with respect to blood cancer.
 
-285a–11. Pediatric cancer research and awareness.
+285a–11. Pediatric cancer research, awareness, and survivorship.
+
+285a–11a. Cancer survivorship programs.
+
+285a–11b. Best practices for long-term follow-up services for pediatric cancer survivors.
 
 285a–12. Interagency Breast Cancer and Environmental Research Coordinating Committee.
 

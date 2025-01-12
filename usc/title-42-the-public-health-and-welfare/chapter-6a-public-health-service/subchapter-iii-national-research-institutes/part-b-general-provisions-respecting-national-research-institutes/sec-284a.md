@@ -72,7 +72,11 @@ Each advisory council may prepare, for inclusion in the biennial report made und
 
 (ii) the term of office of an appointed member shall be 6 years;
 
-(iii) of the members appointed to the Board not less than five members shall be individuals knowledgeable in environmental carcinogenesis (including carcinogenesis involving occupational and dietary factors);
+(iii) of the members appointed to the Board—
+
+(I) not less than 5 members shall be individuals knowledgeable in environmental carcinogenesis (including carcinogenesis involving occupational and dietary factors); and
+
+(II) not less than one member shall be an individual knowledgeable in pediatric oncology;
 
 (iv) the chairman of the Board shall be selected by the President from the appointed members and shall serve as chairman for a term of two years;
 
@@ -82,13 +86,15 @@ Each advisory council may prepare, for inclusion in the biennial report made und
 
 (B) This section applies to the advisory council to the National Heart, Lung, and Blood Institute, except that the advisory council shall meet at least four times each fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amended Pub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853.)
+(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amended Pub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 115–180, title I, §111, June 5, 2018, 132 Stat. 1386.)
 
 #### References in Text ####
 
 Section 284b of this title, referred to in subsec. (g), was repealed by Pub. L. 109–482, title I, §104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
 
 #### Amendments ####
+
+**2018**—Subsec. (h)(2)(A)(iii). Pub. L. 115–180 substituted "appointed to the Board—" for "appointed to the Board", inserted subcl. (I) designation before "not less than", substituted "5 members" for "five members", inserted "and" at end, and added subcl. (II).
 
 **1998**—Subsec. (h)(2)(A)(v). Pub. L. 105–245 substituted "Science of the Department of Energy" for "Energy Research of the Department of Energy".
 

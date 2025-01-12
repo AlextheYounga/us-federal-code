@@ -2,17 +2,41 @@
 
 #### (a) In general ####
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award a grant to enhance and expand infrastructure to track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer. Such registry shall be updated to include an actual occurrence within weeks of the date of such occurrence.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make awards to State cancer registries to enhance and expand infrastructure to collect information to better understand the epidemiology of cancer in children, adolescents, and young adults. Such registries may be updated to include each occurrence of such cancers within a period of time designated by the Secretary.
 
-#### (b) Informed consent and privacy requirements and coordination with existing programs ####
+#### (b) Activities ####
 
-The registry established pursuant to subsection (a) shall be subject to section 552a of title 5, the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996, applicable Federal and State informed consent regulations, any other applicable Federal and State laws relating to the privacy of patient information, and section 280e(d)(4) of this title.
+The grants described in subsection (a) may be used for—
 
-(July 1, 1944, ch. 373, title III, §399E–1, as added Pub. L. 110–285, §4(b)(1), July 29, 2008, 122 Stat. 2630.)
+(1) identifying, recruiting, and training potential sources for reporting childhood, adolescent, and young adult cancer cases;
+
+(2) developing practices to ensure early inclusion of childhood, adolescent, and young adult cancer cases in State cancer registries through the use of electronic reporting;
+
+(3) collecting and submitting deidentified data to the Centers for Disease Control and Prevention for inclusion in a national database that includes information on childhood, adolescent, and young adult cancers; and
+
+(4) improving State cancer registries and the database described in paragraph (3), as appropriate, including to support the early inclusion of childhood, adolescent, and young adult cancer cases.
+
+#### (c) Coordination ####
+
+To encourage the greatest possible efficiency and effectiveness of federally supported efforts with respect to the activities described in this section, the Secretary shall ensure the appropriate coordination of programs supported under this section with other federally supported cancer registry programs and the activities under section 285a–11(a) of this title, as appropriate.
+
+#### (d) Informed consent and privacy requirements and coordination with existing programs ####
+
+The activities described in this section shall be subject to section 552a of title 5, the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996, applicable Federal and State informed consent regulations, any other applicable Federal and State laws relating to the privacy of patient information, and section 280e(d)(4) of this title.
+
+(July 1, 1944, ch. 373, title III, §399E–1, as added Pub. L. 110–285, §4(b)(1), July 29, 2008, 122 Stat. 2630; amended Pub. L. 115–180, title I, §102(a), June 5, 2018, 132 Stat. 1385.)
 
 #### References in Text ####
 
-Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
+
+#### Amendments ####
+
+**2018**—Subsec. (a). Pub. L. 115–180, §102(a)(1), substituted "may make awards to State cancer registries" for "shall award a grant", "collect information to better understand the epidemiology of cancer in children, adolescents, and young adults" for "track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer", and "Such registries may be updated to include each occurrence of such cancers within a period of time designated by the Secretary." for "Such registry shall be updated to include an actual occurrence within weeks of the date of such occurrence."
+
+Subsecs. (b), (c). Pub. L. 115–180, §102(a)(3), added subsecs. (b) and (c). Former subsec. (b) redesignated (d).
+
+Subsec. (d). Pub. L. 115–180, §102(a)(2), (4), redesignated subsec. (b) as (d) and substituted "activities described in this section" for "registry established pursuant to subsection (a)".
 
 #### Findings and Purposes ####
 
