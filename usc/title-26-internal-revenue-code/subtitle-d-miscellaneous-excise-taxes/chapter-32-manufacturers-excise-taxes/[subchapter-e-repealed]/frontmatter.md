@@ -1,5 +1,7 @@
 ### **[Subchapter E—Repealed]** ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter E consisted of sections 4191, 4192, 4201, and 4211 of this title, prior to repeal by Pub. L. 89–44, title II, §206, title VII, §701(a), June 21, 1965, 79 Stat. 140, 155, applicable with respect to articles sold on or after June 22, 1965.

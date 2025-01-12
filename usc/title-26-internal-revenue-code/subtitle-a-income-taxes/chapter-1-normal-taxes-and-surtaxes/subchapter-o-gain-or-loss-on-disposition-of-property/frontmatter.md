@@ -16,6 +16,8 @@ IV. Special rules.
 
 VII. Wash sales; straddles.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1995**—Pub. L. 104–7, §2(c), Apr. 11, 1995, 109 Stat. 93, struck out item for part V "Changes to effectuate F.C.C. policy".

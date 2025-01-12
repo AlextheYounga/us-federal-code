@@ -6,6 +6,8 @@ A prior section 5233, act Aug. 16, 1954, ch. 736, 68A Stat. 644, made a cross re
 
 Provisions similar to those comprising subsecs. (a) to (d) and (e)(1) of section 5233 added by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1366, were contained in prior section 5243(a) to (c), (g), act Aug. 16, 1954, ch. 736, 68A Stat. 645, as amended by Pub. L. 85–859, title II, §206(c), Sept. 2, 1958, 72 Stat. 1431.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.

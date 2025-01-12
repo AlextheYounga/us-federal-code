@@ -22,6 +22,8 @@ Sec.
 
 2519. Dispositions of certain life estates.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–514, title XIV, §1432(d)(2), title XVIII, §1852(e)(2)(B), Oct. 22, 1986, 100 Stat. 2730, 2868, added item 2515 and struck out item 2517 "Certain annuities under qualified plans".

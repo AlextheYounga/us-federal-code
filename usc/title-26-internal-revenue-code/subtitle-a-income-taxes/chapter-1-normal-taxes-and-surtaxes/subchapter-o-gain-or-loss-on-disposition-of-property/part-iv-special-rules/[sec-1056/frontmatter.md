@@ -4,6 +4,8 @@ Section, added Pub. L. 94–455, title II, §212(a)(1), Oct. 4, 1976, 90 Stat. 1
 
 A prior section 1056 was renumbered section 1062 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to property acquired after Oct. 22, 2004, see section 886(c)(1) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 197 of this title.

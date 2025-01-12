@@ -284,6 +284,8 @@ For purposes of this section—
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subsection (d)(1) of such section, referred to in subsec. (c)(2)(A), means section 219(d)(1) of this title, which was repealed by Pub. L. 116–94, div. O, title I, §107(a), Dec. 20, 2019, 133 Stat. 3148.
@@ -427,6 +429,8 @@ Subsec. (d)(6). Pub. L. 105–206, §6005(b)(6)(A), added par. (6).
 Subsec. (d)(7). Pub. L. 105–206, §6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2019 Amendment ####
 

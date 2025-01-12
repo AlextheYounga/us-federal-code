@@ -8,6 +8,8 @@ Sec.
 
 [7233 to 7241. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–59, title XI, §11164(b)(4), Aug. 10, 2005, 119 Stat. 1976, inserted "or reregister" after "register" in item 7232.

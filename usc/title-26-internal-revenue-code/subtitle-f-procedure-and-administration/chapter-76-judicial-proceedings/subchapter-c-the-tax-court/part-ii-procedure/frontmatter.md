@@ -34,6 +34,8 @@ Sec.
 
 7466. Judicial conduct and disability procedures.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–113, div. Q, title IV, §431(b), Dec. 18, 2015, 129 Stat. 3125, added item 7466.

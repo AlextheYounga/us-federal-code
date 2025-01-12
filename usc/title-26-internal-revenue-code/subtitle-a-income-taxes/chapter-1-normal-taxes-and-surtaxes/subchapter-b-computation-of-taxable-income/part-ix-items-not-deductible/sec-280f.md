@@ -238,6 +238,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (a)(1)(A)(i). Pub. L. 115–97, §13202(a)(1)(A), substituted "$10,000" for "$2,560".
@@ -353,6 +355,8 @@ Subsec. (d)(7)(A). Pub. L. 99–44, §4(b)(1), inserted "placed in service after
 Subsec. (d)(7)(B)(i). Pub. L. 99–44, §4(b)(3), struck out last sentence which directed that in the case of calendar year 1984, the automobile price inflation adjustment would be zero.
 
 Subsec. (d)(7)(B)(i)(II). Pub. L. 99–44, §4(b)(2), substituted "1987" for "1983".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

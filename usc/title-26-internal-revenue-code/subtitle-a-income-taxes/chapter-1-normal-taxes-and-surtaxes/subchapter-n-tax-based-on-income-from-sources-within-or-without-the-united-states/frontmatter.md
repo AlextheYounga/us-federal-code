@@ -12,6 +12,8 @@ IV. Domestic international sales corporations. 1
 
 V. International boycott determinations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–647, title I, §1012(h)(2)(D), Nov. 10, 1988, 102 Stat. 3503, substituted "Source rules and other general rules relating to foreign income" for "Determination of sources of income" in item for part I.

@@ -8,6 +8,8 @@ Sec.
 
 [913. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1981**—Pub. L. 97–34, title I, §§111(b)(1), 112(b)(1), Aug. 13, 1981, 95 Stat. 194, 195, substituted "Citizens or residents of the United States living abroad" for "Income earned by individuals in certain camps or from charitable services" in item 911 and struck out item 913 "Deduction for certain expenses of living abroad".

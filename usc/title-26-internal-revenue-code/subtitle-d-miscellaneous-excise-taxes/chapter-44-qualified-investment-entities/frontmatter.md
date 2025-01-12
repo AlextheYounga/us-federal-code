@@ -6,6 +6,8 @@ Sec.
 
 4982. Excise tax on undistributed income of regulated investment companies.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–514, title VI, §651(c), Oct. 22, 1986, 100 Stat. 2297, substituted: "QUALIFIED INVESTMENT ENTITIES" for "REAL ESTATE INVESTMENT TRUSTS" as chapter heading, substituted "Excise tax on undistributed income of real estate investment trusts" for "Excise tax based on certain real estate investment trust taxable income not distributed during the taxable year" in item 4981, and added item 4982.

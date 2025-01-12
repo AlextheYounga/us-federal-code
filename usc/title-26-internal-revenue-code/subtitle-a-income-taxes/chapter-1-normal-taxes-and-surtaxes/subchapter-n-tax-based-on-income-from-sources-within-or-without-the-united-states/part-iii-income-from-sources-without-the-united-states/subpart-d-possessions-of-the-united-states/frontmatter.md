@@ -16,6 +16,8 @@ Sec.
 
 937. Residence and source rules involving possessions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(d)(1)(C), Mar. 23, 2018, 132 Stat. 1206, which directed that the table of sections for subpart C of part III of subchapter N of this chapter be amended by striking out item 936, could not be executed because item 936 "Puerto Rico and possession tax credit" had been editorially supplied.

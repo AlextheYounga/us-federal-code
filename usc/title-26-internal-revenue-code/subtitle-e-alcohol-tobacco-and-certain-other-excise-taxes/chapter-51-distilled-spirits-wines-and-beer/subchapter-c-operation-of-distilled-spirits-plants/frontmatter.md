@@ -8,6 +8,8 @@ II. Operations on bonded premises.
 
 [III. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter C, Internal Revenue Bonded Warehouses, consisted of part I, Establishment, and part II, Operation, and consisted of sections 5231 to 5233 and 5241 to 5252, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

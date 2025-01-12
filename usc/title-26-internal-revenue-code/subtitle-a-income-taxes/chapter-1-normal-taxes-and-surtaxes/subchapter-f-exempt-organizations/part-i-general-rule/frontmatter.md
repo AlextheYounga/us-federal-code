@@ -14,6 +14,8 @@ Sec.
 
 506. Organizations required to notify Secretary of intent to operate under 501(c)(4).
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(b)(21)(I), Mar. 23, 2018, 132 Stat. 1203, substituted "Additional requirements for organizations described in paragraph (9) or (17) of section 501(c)" for "Additional requirements for organizations described in paragraph (9), (17), or (20) of section 501(c)" in item 505.

@@ -12,6 +12,8 @@ D. Court review of Tax Court decisions 7481
 
 E. Burden of proof 7491
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–206, title III, §3001(b), July 22, 1998, 112 Stat. 727, added item for subchapter E.

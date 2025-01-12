@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 93–625, §4(a), Jan. 3, 1974, 88 Stat. 2109; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title V, §561(a), July 18, 1984, 98 Stat. 901; Pub. L. 99–514, title XI, §1165(a), Oct. 22, 1986, 100 Stat. 2511, related to deduction allowable for accrual basis taxpayers under section 162(a) of this title with respect to vacation pay.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10201(c)(1) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 404 of this title.

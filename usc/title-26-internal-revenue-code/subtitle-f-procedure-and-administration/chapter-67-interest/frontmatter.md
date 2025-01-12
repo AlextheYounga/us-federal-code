@@ -10,6 +10,8 @@ C. Determination of interest rate; compounding of interest 6621
 
 D. Notice requirements 6631
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–206, title III, §3308(b), July 22, 1998, 112 Stat. 745, added item for subchapter D.

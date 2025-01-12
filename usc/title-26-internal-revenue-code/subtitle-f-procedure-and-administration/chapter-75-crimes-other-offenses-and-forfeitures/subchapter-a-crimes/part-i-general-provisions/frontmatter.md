@@ -38,6 +38,8 @@ Sec.
 
 7217. Prohibition on executive branch influence over taxpayer audits and other investigations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–206, title I, §1105(b), July 22, 1998, 112 Stat. 711, added item 7217.

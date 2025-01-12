@@ -24,6 +24,8 @@ Sec.
 
 9511. Patient-Centered Outcomes Research Trust Fund.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The amendment by section 8033(b) of Pub. L. 99–509, which provided for adding item 9507 to the table of sections for subchapter A, did not take effect pursuant to section 8033(c)(2)(C) of Pub. L. 99–509 and the enactment of the Superfund Amendments and Reauthorization Act of 1986 (Pub. L. 99–499).

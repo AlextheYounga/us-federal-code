@@ -4,6 +4,8 @@ Section 7237, acts Aug. 16, 1954, ch. 736, 68A Stat. 860; Jan. 20, 1955, ch. 1, 
 
 Section 7238, act Aug. 16, 1954, ch. 736, 68A Stat. 861, set the penalty for the violation of provisions of this title relating to opium for smoking.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.

@@ -8,6 +8,8 @@ Sec.
 
 448. Limitation on use of cash method of accounting.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–514, title VIII, §801(c), Oct. 22, 1986, 100 Stat. 2348, added item 448.

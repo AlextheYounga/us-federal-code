@@ -10,6 +10,8 @@ Sec.
 
 818. Other definitions and special rules.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–188, title I, §1612(b), Aug. 20, 1996, 110 Stat. 1847, added item 817A.

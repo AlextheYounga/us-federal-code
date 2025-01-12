@@ -26,6 +26,8 @@ Sec.
 
 5182. Cross references.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter B, Distilleries, consisted of part I, Establishment, part II, Operation, and part III, General Provisions Relating to Distilleries and Distilled Spirits, and consisted of sections 5171 to 5180, 5191 to 5197, and 5211 to 5217, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

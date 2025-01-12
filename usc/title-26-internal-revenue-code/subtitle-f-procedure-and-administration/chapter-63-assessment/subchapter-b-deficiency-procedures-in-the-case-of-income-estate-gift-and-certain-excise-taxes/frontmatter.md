@@ -14,6 +14,8 @@ Sec.
 
 6216. Cross references.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1969**—Pub. L. 91–172, title I, §101(j)(62), Dec. 30, 1969, 83 Stat. 532, inserted reference to certain excise taxes in subchapter heading.

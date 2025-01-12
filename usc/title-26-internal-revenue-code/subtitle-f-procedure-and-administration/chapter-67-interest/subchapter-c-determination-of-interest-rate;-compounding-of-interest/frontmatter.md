@@ -6,6 +6,8 @@ Sec.
 
 6622. Interest compounded daily.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1982**—Pub. L. 97–248, title III, §344(b)(3)(A), Sept. 3, 1982, 96 Stat. 636, inserted "; Compounding of Interest" after "Rate" in heading for subchapter C.

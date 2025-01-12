@@ -10,6 +10,8 @@ C. General provisions 3121
 
 D. Credits 3131
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 Pub. L. 117–2, title IX, §9641(c), Mar. 11, 2021, 135 Stat. 171, added item for subchapter D.

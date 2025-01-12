@@ -10,6 +10,8 @@ B. Effects on corporation.
 
 D. Definition and special rule.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Pub. L. 108–27, title III, §302(e)(4)(B)(iii), May 28, 2003, 117 Stat. 764, struck out item for subpart C "Collapsible corporations".

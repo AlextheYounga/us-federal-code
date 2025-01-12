@@ -116,6 +116,8 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2251; amended Pub. L. 99–514, title VIII, §812(b), Oct. 22, 1986, 100 Stat. 2371; Pub. L. 100–203, title X, §10202(c)[(1)], Dec. 22, 1987, 101 Stat. 1330–390; Pub. L. 100–647, title I, §1008(g)(2), title II, §2004(d)(2), (7), (8), title V, §5076(a), (b)(1), Nov. 10, 1988, 102 Stat. 3442, 3599, 3600, 3682; Pub. L. 101–239, title VII, §§7812(c)(2), 7815(g), 7821(a)(1)–(3), (4)(B), Dec. 19, 1989, 103 Stat. 2412, 2420, 2423, 2424; Pub. L. 103–66, title XIII, §13201(b)(4), Aug. 10, 1993, 107 Stat. 459; Pub. L. 106–170, title V, §536(b), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 115–97, title I, §13001(b)(2)(C), Dec. 22, 2017, 131 Stat. 2096.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those comprising this section were contained in former section 453 of this title.
@@ -161,6 +163,8 @@ Subsec. (e). Pub. L. 100–647, §2004(d)(2), added subsec. (e).
 **1986**—Subsec. (a)(2). Pub. L. 99–514, §812(b)(1), struck out last sentence which read as follows: "This paragraph shall not apply with respect to sales of personal property under a revolving credit type plan."
 
 Subsec. (c). Pub. L. 99–514, §812(b)(2), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

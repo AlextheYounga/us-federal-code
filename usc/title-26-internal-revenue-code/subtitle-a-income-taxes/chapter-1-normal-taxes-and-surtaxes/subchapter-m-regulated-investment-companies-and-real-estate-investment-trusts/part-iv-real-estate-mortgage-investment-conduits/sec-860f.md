@@ -126,6 +126,8 @@ For purposes of subtitle F, a REMIC shall be treated as a partnership (and holde
 
 (Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2313; amended Pub. L. 100–647, title I, §1006(t)(3), (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, 102 Stat. 3419, 3420, 3423, 3426; Pub. L. 104–188, title I, §1704(t)(74), Aug. 20, 1996, 110 Stat. 1891.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (a)(5). Pub. L. 104–188 substituted "paragraph (2)" for "paragraph (1)" in introductory provisions.
@@ -147,6 +149,8 @@ Subsec. (b)(1)(C)(ii). Pub. L. 100–647, §1006(t)(22)(D), substituted "REMIC" 
 Subsec. (b)(1)(D)(ii). Pub. L. 100–647, §1006(t)(14), (22)(E), amended cl. (ii) identically, substituting "REMIC" for "real estate mortgage pool".
 
 Subsec. (e). Pub. L. 100–647, §1006(t)(18)(A), inserted at end "Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

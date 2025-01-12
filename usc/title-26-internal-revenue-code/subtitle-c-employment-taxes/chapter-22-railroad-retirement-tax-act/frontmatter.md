@@ -12,6 +12,8 @@ D. General provisions 3231
 
 E. Tier 2 tax rate determination. 3241
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2001**—Pub. L. 107–90, title II, §204(e)(5), Dec. 21, 2001, 115 Stat. 893, added item for subchapter E.

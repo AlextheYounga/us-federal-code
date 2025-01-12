@@ -18,6 +18,8 @@ Section 926, added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984
 
 Section 927, added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984, 98 Stat. 991; amended Pub. L. 99–514, title XVIII, §1876(a)(1), (e)(1), (f)(1), (p)(5), Oct. 22, 1986, 100 Stat. 2897, 2899, 2902; Pub. L. 100–647, title I, §1012(bb)(8)(A), Nov. 10, 1988, 102 Stat. 3536; Pub. L. 101–508, title XI, §11704(a)(10), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 103–66, title XIII, §13239(a), Aug. 10, 1993, 107 Stat. 509; Pub. L. 105–34, title XI, §1171(a), Aug. 5, 1997, 111 Stat. 987, related to other definitions and special rules.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as an Effective Date of 2000 Amendments note under section 56 of this title.

@@ -13,6 +13,8 @@ Provisions similar to those comprising section 5234(a)(1)(A) and (b) to (d) of t
 
 The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 606, 641, 649, 657.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.

@@ -6,6 +6,8 @@ Section 1082, acts Aug. 16, 1954, ch. 736, 68A Stat. 315; Pub. L. 91–172, titl
 
 Section 1083, acts Aug. 16, 1954, ch. 736, 68A Stat. 317; Pub. L. 94–455, title XIX, §1901(a)(133), Oct. 4, 1976, 90 Stat. 1786, related to definitions for this part.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before that Act's repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.

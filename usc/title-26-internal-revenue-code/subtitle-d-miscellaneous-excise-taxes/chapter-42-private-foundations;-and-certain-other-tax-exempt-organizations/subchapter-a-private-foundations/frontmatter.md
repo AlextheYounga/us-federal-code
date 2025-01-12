@@ -20,6 +20,8 @@ Sec.
 
 4948. Application of taxes and denial of exemption with respect to certain foreign organizations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–227, §4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, added subchapter A heading and designated sections 4940 to 4948 as subchapter A.

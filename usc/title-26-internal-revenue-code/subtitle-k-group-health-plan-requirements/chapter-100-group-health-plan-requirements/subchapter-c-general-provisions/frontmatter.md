@@ -10,6 +10,8 @@ Sec.
 
 9834. Enforcement.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–233, title I, §103(e)(2), May 21, 2008, 122 Stat. 899, added item 9834.

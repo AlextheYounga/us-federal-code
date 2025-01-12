@@ -28,6 +28,8 @@ Sec.
 
 [9013. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(d)(8), Mar. 23, 2018, 132 Stat. 1212, struck out item 9013 "Effective date of chapter".

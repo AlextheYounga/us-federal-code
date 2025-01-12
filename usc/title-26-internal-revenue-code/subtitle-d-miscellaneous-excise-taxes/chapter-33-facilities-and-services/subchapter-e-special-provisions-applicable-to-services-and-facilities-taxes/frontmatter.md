@@ -10,6 +10,8 @@ Sec.
 
 [4294, 4295. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–455, title XIX, §1904(b)(4), Oct. 4, 1976, 90 Stat. 1815, struck out items 4292, 4294, and 4295 relating to State and local governmental exemption, exemption for nonprofit educational organizations, and cross reference to general administrative provisions, respectively.

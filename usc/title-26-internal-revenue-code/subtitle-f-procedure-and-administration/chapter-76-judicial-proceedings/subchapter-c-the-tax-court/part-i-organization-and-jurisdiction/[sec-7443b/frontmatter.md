@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 109–280, title VIII, §856(a), Aug. 17, 2006, 120 Stat. 1019, related to the recall of retired special trial judges of the Tax Court.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective as if included in the provisions of Pub. L. 109–280 to which the repeal relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as an Effective Date of 2008 Amendment note under section 72 of this title.

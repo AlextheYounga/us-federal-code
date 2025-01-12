@@ -14,6 +14,8 @@ Sec.
 
 [586. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–514, title IX, §901(d)(4)(H), Oct. 22, 1986, 100 Stat. 2380, struck out item 586 "Reserves for losses on loans of small business investment companies, etc."

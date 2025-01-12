@@ -1,5 +1,7 @@
 ### **[Subchapter A—Repealed]** ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 This subchapter consisted of part I with subparts A (§§4001–4004) and B (§§4006, 4007) and part II (§§4011, 4012), prior to being amended generally by Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449.

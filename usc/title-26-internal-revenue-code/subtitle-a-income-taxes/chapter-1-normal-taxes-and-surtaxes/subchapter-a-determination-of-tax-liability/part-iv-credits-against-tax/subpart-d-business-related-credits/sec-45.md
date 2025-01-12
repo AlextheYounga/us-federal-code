@@ -990,7 +990,7 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
-2021–Internal Revenue Notice 2021–32.
+**2021**—Internal Revenue Notice 2021–32.
 
 **2020**—Internal Revenue Notice 2020–38.
 

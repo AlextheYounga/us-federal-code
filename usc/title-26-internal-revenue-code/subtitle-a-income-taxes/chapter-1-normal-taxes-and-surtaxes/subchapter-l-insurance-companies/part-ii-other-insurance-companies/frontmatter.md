@@ -12,6 +12,8 @@ Sec.
 
 835. Election by reciprocal.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part II (§§821 to 826) related to mutual insurance companies other than life and certain marine insurance companies and other than fire and flood insurance companies which operated on the basis of perpetual policies or premium deposits, consisted of sections 821–826, prior to repeal (except for sections 822 and 826 which were renumbered sections 834 and 835, respectively, by Pub. L. 99–514, title X, §1024(a)(1)–(3), Oct. 22, 1986, 100 Stat. 2405. See Prior Provisions note set out under section 818 of this title.

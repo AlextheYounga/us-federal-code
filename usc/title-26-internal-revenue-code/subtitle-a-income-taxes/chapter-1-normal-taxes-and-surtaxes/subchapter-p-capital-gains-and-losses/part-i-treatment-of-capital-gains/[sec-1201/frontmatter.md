@@ -38,6 +38,8 @@ Prior to repeal by section 13001(b)(2)(A) of Pub. L. 115–97, subsection (b) of
 
 See Extension of Special Rule Relating to Qualified Timber Gain note set out below.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 11 of this title.

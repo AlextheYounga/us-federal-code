@@ -110,6 +110,8 @@ For purposes of this paragraph, the term "government entity" means the United St
 
 (Added Pub. L. 99–514, title XVIII, §1807(a)(7)(A), Oct. 22, 1986, 100 Stat. 2814; amended Pub. L. 100–647, title I, §1018(f)(1), (2), (4), (5)(A), Nov. 10, 1988, 102 Stat. 3582; Pub. L. 101–508, title XI, §11702(e)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 109–222, title II, §201(a), May 17, 2006, 120 Stat. 347; Pub. L. 109–432, div. A, title IV, §409(a), Dec. 20, 2006, 120 Stat. 2963.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (g)(2)(B), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
@@ -133,6 +135,8 @@ Subsec. (d)(2)(A). Pub. L. 100–647, §1018(f)(2), amended subpar. (A) generall
 Subsec. (d)(2)(E). Pub. L. 100–647, §1018(f)(1), inserted "(or any related person)" after "taxpayer".
 
 Subsec. (g). Pub. L. 100–647, §1018(f)(5)(A), added subsec. (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2006 Amendment ####
 

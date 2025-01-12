@@ -4,6 +4,8 @@ Section, added July 18, 1956, ch. 629, title I, §104(a), 70 Stat. 570; amended 
 
 Another section 7607 was renumbered section 7613 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under section 1304 of Title 19, Customs Duties.

@@ -18,6 +18,8 @@ Sec.
 
 5388. Designation of wines.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part III consisted of sections 5381 to 5388 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, Sept. 2, 1958, 72 Stat. 1313.

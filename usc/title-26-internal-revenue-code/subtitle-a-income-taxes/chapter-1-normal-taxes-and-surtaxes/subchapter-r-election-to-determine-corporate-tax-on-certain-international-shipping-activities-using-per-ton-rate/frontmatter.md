@@ -18,6 +18,8 @@ Sec.
 
 1359. Disposition of qualifying vessels.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter R, consisting of section 1361, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.

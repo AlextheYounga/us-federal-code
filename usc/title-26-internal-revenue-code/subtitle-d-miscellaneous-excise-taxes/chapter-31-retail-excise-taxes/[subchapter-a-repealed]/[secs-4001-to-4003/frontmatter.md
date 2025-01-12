@@ -18,6 +18,8 @@ Section 4011, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 S
 
 Section 4012, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–444, provided that taxes imposed by this subchapter did not apply to any sale or use after Dec. 31, 1999.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 1 of this title.

@@ -18,6 +18,8 @@ VII. Place for filing returns or other documents.
 
 VIII. Designation of income tax payments to Presidential Election Campaign Fund.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–809, title III, §302(b), Nov. 13, 1966, 80 Stat. 1588, added item VIII.

@@ -4,6 +4,8 @@ Section, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1327; 
 
 A prior section 5009, act Aug. 16, 1954, ch. 736, 68A Stat. 603, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5205(c)(1), (f), (i)(4) and 5206(c) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.

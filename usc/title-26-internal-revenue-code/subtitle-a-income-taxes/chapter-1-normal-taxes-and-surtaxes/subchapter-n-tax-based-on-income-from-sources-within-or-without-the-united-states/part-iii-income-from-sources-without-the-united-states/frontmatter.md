@@ -22,6 +22,8 @@ I. Admissibility of documentation maintained in foreign countries.
 
 J. Foreign currency transactions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–357, title I, §101(b)(2), Oct. 22, 2004, 118 Stat. 1423, struck out item for subpart E "Qualifying foreign trade income".

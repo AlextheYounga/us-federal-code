@@ -6,6 +6,8 @@ A prior section 222 was renumbered section 224 of this title.
 
 Another prior section 222, added Pub. L. 97–34, title I, §125(a), Aug. 13, 1981, 95 Stat. 201; amended Pub. L. 97–448, title I, §101(f), Jan. 12, 1983, 96 Stat. 2367, related to deduction of adoption expenses, prior to repeal by Pub. L. 99–514, title I, §§135(a), 151(a), Oct. 22, 1986, 100 Stat. 2116, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of section applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 25A of this title.

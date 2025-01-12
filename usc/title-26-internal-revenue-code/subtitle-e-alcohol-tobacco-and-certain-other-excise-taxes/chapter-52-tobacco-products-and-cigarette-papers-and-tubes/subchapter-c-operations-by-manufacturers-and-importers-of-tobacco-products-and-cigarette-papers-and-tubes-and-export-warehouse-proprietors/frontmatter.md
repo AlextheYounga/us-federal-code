@@ -8,6 +8,8 @@ Sec.
 
 5723. Packages, marks, labels, and notices.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–455, title XIX, §1905(b)(7)(D), Oct. 4, 1976, 90 Stat. 1823, substituted "and notices" for "notices, and stamps" in item 5723.

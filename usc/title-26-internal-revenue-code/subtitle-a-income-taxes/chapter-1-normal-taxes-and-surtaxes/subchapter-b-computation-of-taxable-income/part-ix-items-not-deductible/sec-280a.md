@@ -192,6 +192,8 @@ Notwithstanding any other provision of this section or section 183, if a dwellin
 
 (Added Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569; amended Pub. L. 95–30, title III, §306(a), (b), May 23, 1977, 91 Stat. 152, 153; Pub. L. 95–600, title VII, §701(h)(1), Nov. 6, 1978, 92 Stat. 2904; Pub. L. 97–119, title I, §113(a)–(d), Dec. 29, 1981, 95 Stat. 1641, 1642; Pub. L. 97–216, title II, §215(b), July 18, 1982, 96 Stat. 194; Pub. L. 97–354, §5(a)(26), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(b), (c), Oct. 22, 1986, 100 Stat. 2120; Pub. L. 100–647, title I, §1001(h)(1), (2), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 104–188, title I, §§1113(a), 1704(t)(39), Aug. 20, 1996, 110 Stat. 1759, 1889; Pub. L. 105–34, title III, §312(d)(1), title IX, §932(a), Aug. 5, 1997, 111 Stat. 839, 881.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of enactment of the Tax Reduction and Simplification Act of 1977, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 95–30, 91 Stat. 126, which was May 23, 1977.
@@ -229,6 +231,8 @@ Subsec. (f)(4). Pub. L. 97–119, §113(b)(1), added par. (4).
 **1978**—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
 
 **1977**—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted "paragraph (1), (2), or (4)" for "paragraph (1) or (2)" in introductory provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1997 Amendment ####
 

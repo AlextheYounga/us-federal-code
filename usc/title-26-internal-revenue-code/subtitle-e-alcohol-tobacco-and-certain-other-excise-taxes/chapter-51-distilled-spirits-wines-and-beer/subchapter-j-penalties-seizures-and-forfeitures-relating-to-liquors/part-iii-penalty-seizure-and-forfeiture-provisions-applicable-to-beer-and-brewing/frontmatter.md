@@ -14,6 +14,8 @@ Sec.
 
 [5676. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part III consisted of sections 5671 to 5676 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

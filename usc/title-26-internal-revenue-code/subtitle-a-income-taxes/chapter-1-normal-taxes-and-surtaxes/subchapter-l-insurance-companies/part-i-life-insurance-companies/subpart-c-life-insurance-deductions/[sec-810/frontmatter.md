@@ -4,6 +4,8 @@ Section, added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 S
 
 A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I, §121(b)(5)(B), title IX, §907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to losses arising in taxable years beginning after Dec. 31, 2017, see section 13511(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 381 of this title.

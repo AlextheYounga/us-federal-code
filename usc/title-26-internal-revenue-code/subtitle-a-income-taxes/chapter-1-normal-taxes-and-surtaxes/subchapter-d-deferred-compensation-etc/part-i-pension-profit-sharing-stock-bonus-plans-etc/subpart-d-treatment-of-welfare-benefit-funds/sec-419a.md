@@ -251,6 +251,8 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L. 99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590; Pub. L. 104–188, title I, §1704(t)(60), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–280, title VIII, §843(a), Aug. 17, 2006, 120 Stat. 1010; Pub. L. 115–141, div. U, title IV, §401(a)(96), (b)(21)(B), (C), Mar. 23, 2018, 132 Stat. 1188, 1202, 1203.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (c)(6)(B). Pub. L. 115–141, §401(a)(96), substituted "(42 U.S.C. 300gg–91(d)(3)))" for "(42 U.S.C. 300gg–91(d)(3))".
@@ -294,6 +296,8 @@ Subsec. (f)(7)(C), (D). Pub. L. 99–514, §1851(a)(7), added subpars. (C) and (
 Subsec. (g)(3). Pub. L. 99–514, §1851(a)(9), added par. (3).
 
 Subsec. (h)(1). Pub. L. 99–514, §1851(a)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "At the election of the employer, 2 or more welfare benefit funds of such employer may be treated as 1 fund."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2006 Amendment ####
 

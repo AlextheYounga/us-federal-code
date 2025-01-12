@@ -6,6 +6,8 @@ Sec.
 
 1202. Partial exclusion for gain from certain small business stock.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–97, title I, §13001(b)(2)(A), Dec. 22, 2017, 131 Stat. 2096, struck out item 1201 "Alternative tax for corporations".

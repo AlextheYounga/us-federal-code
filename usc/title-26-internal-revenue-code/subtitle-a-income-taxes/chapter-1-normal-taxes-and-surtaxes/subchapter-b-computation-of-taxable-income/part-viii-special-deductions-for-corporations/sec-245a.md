@@ -90,6 +90,8 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 (Added Pub. L. 115–97, title I, §14101(a), Dec. 22, 2017, 131 Stat. 2189.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 115–97, title I, §14101(f), Dec. 22, 2017, 131 Stat. 2192, provided that: "The amendments made by this section [enacting this section and amending sections 246, 904, 951, 957, and 1059 of this title] shall apply to distributions made after (and, in the case of the amendments made by subsection (d) [amending section 904 of this title], deductions with respect to taxable years ending after) December 31, 2017."

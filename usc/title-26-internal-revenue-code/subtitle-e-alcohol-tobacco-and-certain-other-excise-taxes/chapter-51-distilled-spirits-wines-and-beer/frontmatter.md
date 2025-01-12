@@ -22,6 +22,8 @@ I. Miscellaneous general provisions 5551
 
 J. Penalties, seizures, and forfeitures relating to liquors 5601
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 The provisions of a prior chapter 51, Distilled Spirits, Wines, and Beer, were set out as:

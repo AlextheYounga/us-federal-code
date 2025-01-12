@@ -138,6 +138,8 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 (Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1282; amended Pub. L. 109–280, title II, §213(a), Aug. 17, 2006, 120 Stat. 917; Pub. L. 113–235, div. O, title I, §108(b)(2), Dec. 16, 2014, 128 Stat. 2787; Pub. L. 115–141, div. U, title IV, §401(a)(92)–(94), Mar. 23, 2018, 132 Stat. 1188.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4022A(g)(5) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a), is classified to section 1322a(g)(5) of Title 29, Labor.
@@ -175,6 +177,8 @@ Subsec. (e)(2). Pub. L. 113–235, §108(b)(2)(A), substituted "critical status,
 Subsec. (h). Pub. L. 113–235, §108(b)(2)(E), added subsec. (h).
 
 **2006**—Subsec. (d)(1). Pub. L. 109–280 substituted "5 plan years" for "3 plan years" the second place it appeared and inserted at end "If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

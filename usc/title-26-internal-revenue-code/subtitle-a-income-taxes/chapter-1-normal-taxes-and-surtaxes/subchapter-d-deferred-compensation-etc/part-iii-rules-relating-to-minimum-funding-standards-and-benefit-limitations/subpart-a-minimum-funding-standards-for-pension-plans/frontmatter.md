@@ -10,6 +10,8 @@ Sec.
 
 433. Minimum funding standards for CSEC plans.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(109)(B), Mar. 23, 2018, 132 Stat. 1189, added item 433.

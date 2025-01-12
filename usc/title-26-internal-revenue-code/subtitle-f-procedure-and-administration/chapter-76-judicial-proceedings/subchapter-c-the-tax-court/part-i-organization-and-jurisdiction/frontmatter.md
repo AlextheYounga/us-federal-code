@@ -22,6 +22,8 @@ Sec.
 
 7448. Annuities to surviving spouses and dependent children of judges and special trial judges.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(326), Mar. 23, 2018, 132 Stat. 1200, substituted "Annuities to surviving spouses and dependent children of judges and special trial judges" for "Annuities of surviving spouses and dependent children" in item 7448.

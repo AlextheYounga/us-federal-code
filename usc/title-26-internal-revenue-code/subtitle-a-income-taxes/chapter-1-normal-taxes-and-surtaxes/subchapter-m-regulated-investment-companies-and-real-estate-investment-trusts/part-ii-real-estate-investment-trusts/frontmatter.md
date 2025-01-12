@@ -10,6 +10,8 @@ Sec.
 
 859. Adoption of annual accounting period.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–600, title III, §362(d)(7), Nov. 6, 1978, 92 Stat. 2852, substituted in item 859 "Adoption of annual accounting period" for "Deduction of deficiency dividends" and struck out item 860 "Adoption of annual accounting period".

@@ -12,6 +12,8 @@ A prior section 6660 was renumbered section 6662 of this title.
 
 Section 6661, added Pub. L. 97–248, title III, §323(a), Sept. 3, 1982, 96 Stat. 613; amended Pub. L. 97–354, §5(a)(42), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 98–369, div. A, title VII, §714(h)(3), July 18, 1984, 98 Stat. 962; Pub. L. 99–509, title VIII, §8002(a), (c), Oct. 21, 1986, 100 Stat. 1951; Pub. L. 99–514, title XV, §1504(a), Oct. 22, 1986, 100 Stat. 2743, related to substantial understatements of liability.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.

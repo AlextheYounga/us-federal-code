@@ -8,6 +8,8 @@ Section 4473, acts Aug. 16, 1954, ch. 736, 68A Stat. 532; Sept. 2, 1958, Pub. L.
 
 Section 4474, act Aug. 16, 1954, ch. 736, 68A Stat. 532, made cross references to chapter 40 and subtitle F for penalties and administrative provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable on and after July 1, 1965, see section 701(c)(2) of Pub. L. 89–44, set out in part as an Effective Date of 1965 Amendment note under section 4402 of this title.

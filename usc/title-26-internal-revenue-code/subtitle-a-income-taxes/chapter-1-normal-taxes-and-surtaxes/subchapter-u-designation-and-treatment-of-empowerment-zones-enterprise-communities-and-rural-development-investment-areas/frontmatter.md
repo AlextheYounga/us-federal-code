@@ -12,6 +12,8 @@ IV. Incentives for education zones.
 
 V. Regulations.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter U consisted of sections 1391 to 1397, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.

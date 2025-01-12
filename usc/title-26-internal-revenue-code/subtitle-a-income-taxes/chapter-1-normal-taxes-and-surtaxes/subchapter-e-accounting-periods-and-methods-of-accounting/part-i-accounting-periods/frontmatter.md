@@ -10,6 +10,8 @@ Sec.
 
 444. Election of taxable year other than required taxable year.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1987**—Pub. L. 100–203, title X, §10206(a)(2), Dec. 22, 1987, 101 Stat. 1330–398, added item 444.

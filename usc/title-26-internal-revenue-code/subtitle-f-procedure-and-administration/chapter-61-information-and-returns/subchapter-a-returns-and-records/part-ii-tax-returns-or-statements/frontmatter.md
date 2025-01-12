@@ -10,6 +10,8 @@ C. Estate and gift tax returns.
 
 D. Miscellaneous provisions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(b)(5)(B), had never been enacted. See 2001 Amendment note below.

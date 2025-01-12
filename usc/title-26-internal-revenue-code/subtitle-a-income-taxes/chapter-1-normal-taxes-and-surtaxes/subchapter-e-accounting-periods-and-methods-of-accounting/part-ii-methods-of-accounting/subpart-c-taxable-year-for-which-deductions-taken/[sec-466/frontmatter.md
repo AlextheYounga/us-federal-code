@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 95–600, title III, §373(a), Nov. 6, 1978, 92 Stat. 2863; amended Pub. L. 96–222, title I, §103(a)(16), Apr. 1, 1980, 94 Stat. 214, related to qualified discount coupons redeemed after close of taxable year.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 99–514, title VIII, §823(c), Oct. 22, 1986, 100 Stat. 2374, provided:

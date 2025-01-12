@@ -100,9 +100,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 110–343, div. C, title VIII, §801(a), Oct. 3, 2008, 122 Stat. 3929; amended Pub. L. 115–141, div. U, title IV, §401(a)(113), Mar. 23, 2018, 132 Stat. 1189.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (d)(4). Pub. L. 115–141 substituted "case of a foreign" for "case a foreign" and "been paid" for "had been paid".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

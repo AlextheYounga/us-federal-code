@@ -16,6 +16,8 @@ Section 776, added Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Sta
 
 Section 777, added Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Stat. 1008, related to regulations under this part.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.

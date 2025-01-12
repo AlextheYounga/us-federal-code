@@ -158,6 +158,8 @@ The term "elective deferral" means—
 
 (Added Pub. L. 107–16, title VI, §617(a), June 7, 2001, 115 Stat. 103; amended Pub. L. 111–240, title II, §§2111(a), (b), 2112(a), Sept. 27, 2010, 124 Stat. 2565, 2566; Pub. L. 112–240, title IX, §902(a), Jan. 2, 2013, 126 Stat. 2371; Pub. L. 113–295, div. A, title II, §220(k), Dec. 19, 2014, 128 Stat. 4036.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means section 403(b)(7)(A)(ii) of this title prior to amendment by Pub. L. 116–94, div. O, title I, §109(c)(2), Dec. 20, 2019, 133 Stat. 3151.
@@ -173,6 +175,8 @@ Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means 
 Subsec. (e)(1)(C). Pub. L. 111–240, §2111(a), added subpar. (C).
 
 Subsec. (e)(2). Pub. L. 111–240, §2111(b), amended par. (2) generally. Prior to amendment, text read as follows: "The term 'elective deferral' means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3)."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

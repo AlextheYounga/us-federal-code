@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 99–514, title VIII, §811(a), Oct. 22, 1986, 100 Stat. 2365; amended Pub. L. 100–647, title I, §1008(f)(1)–(5), Nov. 10, 1988, 102 Stat. 3441, 3442, related to treatment of certain indebtedness as payment on installment obligations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to dispositions in taxable years beginning after Dec. 31, 1987, with special rules for dealers and non-dealers, and coordination with Tax Reform Act of 1986, see section 10202(e)(1)–(3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.

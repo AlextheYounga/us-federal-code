@@ -166,6 +166,8 @@ Pub. L. 115–97, title I, §13206(d)(2), (e), Dec. 22, 2017, 131 Stat. 2112, 21
 
 See 2017 Amendment notes below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1301(a) of the Patient Protection and Affordable Care Act, referred to in subsec. (h), is classified to section 18021(a) of Title 42, The Public Health and Welfare.
@@ -259,6 +261,8 @@ Subsec. (c). Pub. L. 98–369, §474(r)(10)(A), redesignated subsec. (c) as (b).
 Subsec. (c). Pub. L. 97–414, §4(b)(1), added subsec. (c).
 
 **1978**—Pub. L. 95–600, as amended by Pub. L. 96–178 and Pub. L. 96–222, substituted "section 40 or 44B" for "section 44B" in section catchline, and in text designated existing provisions as subsec. (b) and added subsec. (a).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

@@ -12,6 +12,8 @@ Section 3455, Pub. L. 97–248, title III, §301, Sept. 3, 1982, 96 Stat. 583, s
 
 Section 3456, Pub. L. 97–248, title III, §301, Sept. 3, 1982, 96 Stat. 585, set forth administrative provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Dates; Special Rules ####
 
 Pub. L. 97–248, title III, §308, Sept. 3, 1982, 96 Stat. 591, which provided that the amendments made by sections 301 to 308 [enacting subchapter B (§§3451–3456) of chapter 24 of this title and amending sections 31, 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title] would apply to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, provided for the delay in applications for payors unable to comply with the requirements of such provisions without undue hardship, provided a temporary rule for certain withholding exemptions, and provided for delays in making deposits, was repealed by Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369.

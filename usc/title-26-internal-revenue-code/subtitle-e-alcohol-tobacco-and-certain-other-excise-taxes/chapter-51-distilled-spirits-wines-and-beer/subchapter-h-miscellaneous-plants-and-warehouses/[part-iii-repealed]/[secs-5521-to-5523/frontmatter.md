@@ -12,6 +12,8 @@ Section 5523, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1
 
 A prior section 5523, act Aug. 16, 1954, ch. 736, 68A Stat. 679, made special provision for distilled spirits and wines rectified in manufacturing bonded warehouses, prior to general revision of this chapter by Pub. L. 85–859.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.

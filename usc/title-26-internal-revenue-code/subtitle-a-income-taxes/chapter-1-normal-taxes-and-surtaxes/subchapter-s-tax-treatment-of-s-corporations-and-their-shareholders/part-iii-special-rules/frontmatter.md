@@ -12,6 +12,8 @@ Sec.
 
 1375. Tax imposed when passive investment income of corporation having accumulated earnings and profits exceeds 25 percent of gross receipts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–188, title I, §1311(b)(2)(D), Aug. 20, 1996, 110 Stat. 1784, substituted "accumulated" for "subchapter C" in item 1375.

@@ -4,6 +4,8 @@ Section, added Pub. L. 87–61, title II, §203(c)(1), June 29, 1961, 75 Stat. 1
 
 A prior section 6156 was renumbered section 6157 of this title, prior to repeal by Pub. L. 91–53, §2(a), Aug. 7, 1969, 83 Stat. 91.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable periods beginning after Oct. 22, 2004, see section 867(e) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 4481 of this title.

@@ -4,6 +4,8 @@ Sec.
 
 6241. Definitions and special rules.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter D, Treatment of Electing Large Partnerships, consisted of sections 6240 to 6255, prior to repeal by Pub. L. 114–74, title XI, §1101(b)(2), (g), Nov. 2, 2015, 129 Stat. 625, 638, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017.

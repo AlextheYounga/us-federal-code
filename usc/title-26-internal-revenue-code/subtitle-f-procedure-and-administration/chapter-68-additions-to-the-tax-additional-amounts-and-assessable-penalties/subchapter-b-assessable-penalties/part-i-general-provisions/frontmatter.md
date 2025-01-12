@@ -114,6 +114,8 @@ Sec.
 
 6720C. Penalty for failure to notify health plan of cessation of eligibility for continuation coverage premium assistance.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 117–2, title IX, §9501(b)(2)(B), Mar. 11, 2021, 135 Stat. 137, added item 6720C.

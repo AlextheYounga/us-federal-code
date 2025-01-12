@@ -30,6 +30,8 @@ A prior section 5027, act Aug. 16, 1954, ch. 736, 68A Stat. 609, related to stam
 
 A prior section 5028, act Aug. 16, 1954, ch. 736, 68A Stat. 609, related to cross references for penalty provisions, prior to the general revision of this chapter by Pub. L. 85–859.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.

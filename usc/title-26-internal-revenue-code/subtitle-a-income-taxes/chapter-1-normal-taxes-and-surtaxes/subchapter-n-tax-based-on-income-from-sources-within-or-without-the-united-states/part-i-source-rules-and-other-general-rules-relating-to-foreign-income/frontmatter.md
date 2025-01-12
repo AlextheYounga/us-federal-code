@@ -12,6 +12,8 @@ Sec.
 
 865. Source rules for personal property sales.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–647, title I, §§1012(e)(3)(B), (h)(2)(C), 1018(u)(37), Nov. 10, 1988, 102 Stat. 3500, 3502, 3592, substituted "SOURCE RULES AND OTHER GENERAL RULES RELATING TO FOREIGN INCOME" for "DETERMINATION OF SOURCES OF INCOME" as part I heading, substituted "Special rules for determining source" for "Items not specified in section 861 or 862" in item 863, and added item 865.

@@ -8,6 +8,8 @@ II. Tax treatment by patrons of patronage dividends and per-unit retain allocati
 
 III. Definitions; special rules.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–809, title II, §211(b)(5), Nov. 13, 1966, 80 Stat. 1582, inserted "and per-unit retain allocations" in heading of part II.

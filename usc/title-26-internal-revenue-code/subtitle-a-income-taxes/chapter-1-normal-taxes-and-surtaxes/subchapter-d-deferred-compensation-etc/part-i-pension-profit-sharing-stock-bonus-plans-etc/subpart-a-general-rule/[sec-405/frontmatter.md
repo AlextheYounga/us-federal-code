@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 87–792, §5(a), Oct. 10, 1962, 76 Stat. 826; amended Pub. L. 89–97, title I, §106(d)(5), July 30, 1965, 79 Stat. 337; Pub. L. 91–172, title V, §515(c)(1), Dec. 30, 1969, 83 Stat. 645; Pub. L. 93–406, title II, §§2004(c)(2), 2005(c)(11), Sept. 2, 1974, 88 Stat. 986, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §313(a), (b)(1), Aug. 13, 1981, 95 Stat. 285, 286; Pub. L. 97–452, §2(c)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–369, div. A, title I, §42(a)(6), July 18, 1984, 98 Stat. 557, related to qualified bond purchase plans.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 62 of this title.

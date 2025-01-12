@@ -80,6 +80,8 @@ Section 1397E, referred to in subsec. (a), was repealed by Pub. L. 115–97, tit
 
 Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (e)(1)(A)(iii), is subpart H (§54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (a). Pub. L. 113–295, §209(h)(2), in concluding provisions, substituted "with respect to some or all of the credits" for "with respect to credits" and inserted "(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))" after "credits allowable".
@@ -101,6 +103,8 @@ Subsec. (e)(1)(A)(ii). Pub. L. 113–295, §209(h)(5), inserted "other than a qu
 **2010**—Subsec. (c). Pub. L. 111–325, §301(d)(1), which directed substitution of "Statements" for "Notice" in heading and "so reported by the regulated investment company in a written statement furnished to such shareholder" for "so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in text, could not be executed to the text because the words "so reported by the regulated investment company in a written statement furnished to such shareholder" already appeared after the subsequent general amendment of subsec. (c) by Pub. L. 113–295 which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. However, the substitution was executed to the heading to reflect the probable intent of Congress. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 Subsec. (d). Pub. L. 111–325, §301(d)(2), struck out "and notifying shareholders" after "election" in heading and "and the notice to shareholders required by subsection (c)" after "subsection (a)" in text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

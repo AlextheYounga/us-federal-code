@@ -66,6 +66,8 @@ Sec.
 
 280H. Limitation on certain amounts paid to employee-owners by personal service corporations electing alternative taxable years.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(59), Mar. 23, 2018, 132 Stat. 1187, substituted "Limitation on certain amounts paid to employee-owners by personal service corporations electing alternative taxable years" for "Limitation on certain amounts paid to owner-employees by personal service corporations electing alternative taxable years" in item 280H.

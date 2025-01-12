@@ -16,6 +16,8 @@ Section 557, act Aug. 16, 1954, ch. 736, 68A Stat. 198, related to inapplicabili
 
 Section 558, added Pub. L. 85–866, title I, §33(d)(1), Sept. 2, 1958, 72 Stat. 1632, related to returns of officers, directors, and shareholders of foreign personal holding companies.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.

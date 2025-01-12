@@ -8,6 +8,8 @@ II. Certain stock options.
 
 III. 1 Rules relating to minimum funding standards and benefit limitations. 1
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–280, title I, §113(a)(2), Aug. 17, 2006, 120 Stat. 852, added item for part III.

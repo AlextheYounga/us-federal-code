@@ -43,6 +43,8 @@ Chapter Sec. 1
 
 80. General Rules 7801
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Pub. L. 96–589, §6(g)(3)(E), Dec. 24, 1980, 94 Stat. 3410, substituted "Jeopardy, receiverships, etc." for "Jeopardy, bankruptcy and receiverships" in item for chapter 70.

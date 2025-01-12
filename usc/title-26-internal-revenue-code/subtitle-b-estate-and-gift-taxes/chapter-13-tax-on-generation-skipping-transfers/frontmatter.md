@@ -16,6 +16,8 @@ F. Other definitions and special rules 2651
 
 G. Administration 2661
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2717, struck out "CERTAIN" after "TAX ON" in chapter heading, substituted "Generation-skipping transfers" for "Definitions and special rules" in item for subchapter B and "Taxable amount" for "Administration" in item for subchapter C, and added items for subchapters D, E, and F.

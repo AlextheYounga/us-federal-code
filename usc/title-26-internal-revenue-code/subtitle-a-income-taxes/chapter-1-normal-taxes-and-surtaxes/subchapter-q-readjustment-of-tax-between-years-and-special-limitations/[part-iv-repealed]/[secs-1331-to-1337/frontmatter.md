@@ -14,6 +14,8 @@ Section 1336, act Aug. 16, 1954, ch. 736, 68A Stat. 347, related to basis of rec
 
 Section 1337, act Aug. 16, 1954, ch. 736, 68A Stat. 347, related to applicable rules.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 94–455, title XIX, §1901(a)(145)(B), Oct. 4, 1976, 90 Stat. 1788, provided that: "The repeal by subparagraph (A) [repealing sections 1331 to 1337 of this title] shall apply with respect to war loss recoveries in taxable years beginning after December 31, 1976".

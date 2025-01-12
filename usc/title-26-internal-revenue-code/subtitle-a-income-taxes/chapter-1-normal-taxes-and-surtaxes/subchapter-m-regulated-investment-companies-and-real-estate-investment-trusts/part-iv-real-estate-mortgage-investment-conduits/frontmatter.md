@@ -14,4 +14,4 @@ Sec.
 
 860F. Other rules.
 
-860G. Other definitions and special rules.
+860G. Other definitions and special rules..

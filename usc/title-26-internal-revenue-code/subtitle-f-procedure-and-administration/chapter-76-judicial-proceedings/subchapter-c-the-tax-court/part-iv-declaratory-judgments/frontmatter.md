@@ -10,6 +10,8 @@ Sec.
 
 7479. Declaratory judgments relating to eligibility of estate with respect to installment payments under section 6166.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Pub. L. 105–34, title V, §§505(b), 506(c)(2), Aug. 5, 1997, 111 Stat. 855, 856, added items 7477 and 7479.

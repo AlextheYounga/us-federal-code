@@ -8,6 +8,8 @@ Section 4493, added Pub. L. 91–258, title II, §206(a), May 21, 1970, 84 Stat.
 
 Section 4494, added Pub. L. 91–258, title II, §206(a), May 21, 1970, 84 Stat. 245, provided a cross reference to subtitle F of this title for penalties and administrative provisions applicable to this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to transportation beginning after Aug. 31, 1982, but inapplicable to amounts paid on or before such date, see section 280(d) of Pub. L. 97–248, set out as an Effective Date of 1982 Amendment note under section 4261 of this title.

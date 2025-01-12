@@ -236,6 +236,8 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 (Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, also known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014". Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section.
@@ -265,6 +267,8 @@ Subsec. (d)(3). Pub. L. 114–113, §303(b)(1), struck out "and State of residen
 Subsec. (d)(4). Pub. L. 114–113, §303(c)(1), substituted "section 103" for "section 4".
 
 Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contracting State' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

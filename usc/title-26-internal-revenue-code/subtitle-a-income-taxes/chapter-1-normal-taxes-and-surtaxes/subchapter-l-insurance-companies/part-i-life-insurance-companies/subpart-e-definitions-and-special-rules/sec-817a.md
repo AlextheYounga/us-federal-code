@@ -64,9 +64,13 @@ The Secretary may prescribe regulations—
 
 (Added Pub. L. 104–188, title I, §1612(a), Aug. 20, 1996, 110 Stat. 1846; amended Pub. L. 115–97, title I, §13518(b), Dec. 22, 2017, 131 Stat. 2148.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (e)(2). Pub. L. 115–97 substituted "and 807(d)(2)(B)" for ", 807(d)(2)(B), and 812".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

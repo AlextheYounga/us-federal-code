@@ -12,6 +12,8 @@ Sec.
 
 [6076. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–418, title I, §1941(b)(3)(C), Aug. 23, 1988, 102 Stat. 1324, struck out item 6076 "Time for filing return of windfall profit tax".

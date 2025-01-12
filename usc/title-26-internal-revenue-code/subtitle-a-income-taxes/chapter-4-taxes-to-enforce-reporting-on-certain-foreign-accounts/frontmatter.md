@@ -10,6 +10,8 @@ Sec.
 
 1474. Special rules.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 4, consisting of sections 1481 and 1482, which related to rules applicable to recovery of excessive profits on government contracts, was repealed by Pub. L. 101–508, title XI, §11801(a)(37), Nov. 5, 1990, 104 Stat. 1388–521.

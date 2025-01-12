@@ -150,6 +150,8 @@ For purposes of this section, a taxpayer shall be deemed to have made a payment 
 
 (Added Pub. L. 98–369, div. A, title I, §91(c)(1), July 18, 1984, 98 Stat. 604; amended Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(i), (B)–(E)(vi), Oct. 22, 1986, 100 Stat. 2812, 2813; Pub. L. 102–486, title XIX, §1917(a), (b), Oct. 24, 1992, 106 Stat. 3024, 3025; Pub. L. 104–188, title I, §1704(j)(6), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 109–58, title XIII, §1310(a)–(e), Aug. 8, 2005, 119 Stat. 1007–1009.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
@@ -209,6 +211,8 @@ Subsec. (e)(6). Pub. L. 99–514, §1807(a)(4)(E)(v), substituted "this section"
 Subsec. (f). Pub. L. 99–514, §1807(a)(4)(E)(vi), substituted "For purposes of this section, the" for "The".
 
 Subsec. (g). Pub. L. 99–514, §1807(a)(4)(A)(i), added subsec. (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2005 Amendment ####
 

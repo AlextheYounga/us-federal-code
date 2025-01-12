@@ -4,6 +4,8 @@ Section 4294, added Pub. L. 85–859, title I, §135(a), Sept. 2, 1958, 72 Stat.
 
 Section 4295, act Aug. 16, 1954, ch. 736, 68A Stat. 511, §4295, formerly §4294, renumbered Sept. 2, 1958, Pub. L. 85–859, title I, §135(a), 72 Stat. 1292, related to a cross reference to general administrative provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.

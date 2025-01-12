@@ -18,6 +18,8 @@ Sec.
 
 5418. Beer imported in bulk.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part II consisted of sections 5411 to 5416, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

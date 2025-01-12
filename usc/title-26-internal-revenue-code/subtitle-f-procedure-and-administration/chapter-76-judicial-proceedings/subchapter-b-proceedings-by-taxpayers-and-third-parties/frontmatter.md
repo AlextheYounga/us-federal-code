@@ -38,6 +38,8 @@ Sec.
 
 7437. Cross references.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Pub. L. 110–28, title VIII, §8246(a)(2)(J)(ii), May 25, 2007, 121 Stat. 202, substituted "Tax return preparers" for "Income tax return preparers" in item 7427.

@@ -14,6 +14,8 @@ Sec.
 
 1446. Withholding of tax on foreign partners' share of effectively connected income.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–647, title I, §1012(s)(1)(C), Nov. 10, 1988, 102 Stat. 3527, substituted "Withholding of tax on foreign partners' share of effectively connected income" for "Withholding tax on amounts paid by partnerships to foreign partners" in item 1446.

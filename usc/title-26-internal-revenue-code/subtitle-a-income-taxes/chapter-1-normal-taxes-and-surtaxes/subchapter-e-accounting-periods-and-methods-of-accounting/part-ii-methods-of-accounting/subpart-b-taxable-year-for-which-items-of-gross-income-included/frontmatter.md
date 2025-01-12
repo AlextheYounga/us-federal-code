@@ -28,6 +28,8 @@ Sec.
 
 460. Special rules for long-term contracts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 Pub. L. 110–343, div. C, title VIII, §801(c), Oct. 3, 2008, 122 Stat. 3931, added item 457A.

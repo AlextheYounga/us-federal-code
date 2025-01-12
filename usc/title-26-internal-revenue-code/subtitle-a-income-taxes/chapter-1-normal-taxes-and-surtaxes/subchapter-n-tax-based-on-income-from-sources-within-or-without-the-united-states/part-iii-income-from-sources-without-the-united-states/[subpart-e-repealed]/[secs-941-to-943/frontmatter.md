@@ -12,6 +12,8 @@ Section 943, added Pub. L. 106–519, §3(b), Nov. 15, 2000, 114 Stat. 2428; ame
 
 A prior section 943, acts Aug. 16, 1954, ch. 736, 68A Stat. 294; Oct. 4, 1976, Pub. L. 94–455, title X, §1053(b), 90 Stat. 1648, set forth provisions relating to exclusion from gross income of residents of Formosa or Hong Kong of amounts distributed as dividends by China Trade Act corporations, prior to repeal by Pub. L. 94–455, title X, §1053(c), (e), Oct. 4, 1976, 90 Stat. 1649, effective with respect to taxable years beginning after Dec. 31, 1977.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to transactions after Dec. 31, 2004, see section 101(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.

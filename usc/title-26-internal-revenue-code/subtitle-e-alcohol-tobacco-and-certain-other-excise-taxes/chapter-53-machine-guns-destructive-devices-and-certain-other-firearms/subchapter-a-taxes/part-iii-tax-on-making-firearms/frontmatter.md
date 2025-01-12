@@ -6,6 +6,8 @@ Sec.
 
 5822. Making.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part III consisted of section 5821, prior to the general revision of this chapter by Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1227.

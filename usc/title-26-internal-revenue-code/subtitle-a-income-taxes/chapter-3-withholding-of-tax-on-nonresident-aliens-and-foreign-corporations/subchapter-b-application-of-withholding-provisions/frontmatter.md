@@ -12,6 +12,8 @@ Sec.
 
 [1465. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter B, consisting of section 1451, acts Aug. 16, 1954, ch. 736, 68A Stat. 359; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834, related to tax-free covenant bonds, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(r)(29)(A), July 18, 1984, 98 Stat. 844, which repeal was not applicable with respect to obligations issued before Jan. 1, 1984, pursuant to section 475(b) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 33 of this title.

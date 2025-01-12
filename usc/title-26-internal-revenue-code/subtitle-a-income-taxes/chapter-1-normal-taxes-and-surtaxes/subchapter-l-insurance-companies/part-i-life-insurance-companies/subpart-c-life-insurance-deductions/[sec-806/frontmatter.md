@@ -6,6 +6,8 @@ A prior section 806, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 120;
 
 Another prior section 806, act Aug. 16, 1954, ch. 736, 68A Stat. 258, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, §2, 70 Stat. 36.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13512(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 453B of this title.

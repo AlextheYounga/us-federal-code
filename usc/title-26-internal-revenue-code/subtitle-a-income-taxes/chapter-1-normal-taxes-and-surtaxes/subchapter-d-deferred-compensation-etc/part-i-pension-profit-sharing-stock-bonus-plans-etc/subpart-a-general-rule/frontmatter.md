@@ -28,6 +28,8 @@ Sec.
 
 409A. Inclusion in gross income of deferred compensation under nonqualified deferred compensation plans.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–357, title VIII, §885(c), Oct. 22, 2004, 118 Stat. 1640, added item 409A.

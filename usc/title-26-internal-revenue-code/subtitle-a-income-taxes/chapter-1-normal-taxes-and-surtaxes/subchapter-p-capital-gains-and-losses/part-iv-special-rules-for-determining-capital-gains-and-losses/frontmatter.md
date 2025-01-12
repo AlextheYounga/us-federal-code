@@ -64,6 +64,8 @@ Sec.
 
 1260. Gains from constructive ownership transactions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U. title IV, §401(a)(173), Mar. 23, 2018, 132 Stat. 1192, substituted "Gain from disposition of farm land" for "Gain from the disposition of farm land" in item 1252.

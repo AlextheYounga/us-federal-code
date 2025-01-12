@@ -106,6 +106,8 @@ The regulations prescribed for purposes of this section under section 7701(f) sh
 
 (Added Pub. L. 98–369, div. A, title I, §51(a), July 18, 1984, 98 Stat. 562; amended Pub. L. 99–514, title VI, §611(a)(4), title XVIII, §1804(a), Oct. 22, 1986, 100 Stat. 2249, 2798; Pub. L. 100–203, title X, §10221(d)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1012(l)(1), Nov. 10, 1988, 102 Stat. 3513; Pub. L. 108–311, title IV, §408(a)(9), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 113–295, div. A, title II, §221(a)(41)(F), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §13002(d), Dec. 22, 2017, 131 Stat. 2100; Pub. L. 115–141, div. U, title IV, §401(b)(17), Mar. 23, 2018, 132 Stat. 1202.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
@@ -129,6 +131,8 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)
 **1986**—Subsec. (a). Pub. L. 99–514, §1804(a), substituted "or 245(a)" for "or 245" and inserted "The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a)."
 
 Subsec. (a)(1). Pub. L. 99–514, §611(a)(4), substituted "80 percent" for "85 percent".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

@@ -10,6 +10,8 @@ C. Tax on certain imported substances 4671
 
 D. Ozone-depleting chemicals, etc. 4681
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 38, consisting of sections 4521 to 4603 and relating to import taxes, was repealed by Pub. L. 87–456, title III, §302(d), May 24, 1962, 76 Stat. 77, and Pub. L. 94–455, title XIX, §1904(a)(15), Oct. 4, 1976, 90 Stat. 1814.

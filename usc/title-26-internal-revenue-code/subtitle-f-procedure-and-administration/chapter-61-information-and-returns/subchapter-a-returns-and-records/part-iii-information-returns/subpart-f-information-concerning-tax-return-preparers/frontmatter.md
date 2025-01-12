@@ -4,6 +4,8 @@ Sec.
 
 6060. Information returns of tax return preparers.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Pub. L. 110–28, title VIII, §8246(a)(2)(A)(iii), (iv), May 25, 2007, 121 Stat. 201, substituted "Tax Return Preparers" for "Income Tax Return Preparers" in subpart heading and "tax return preparers" for "income tax return preparers" in item 6060.

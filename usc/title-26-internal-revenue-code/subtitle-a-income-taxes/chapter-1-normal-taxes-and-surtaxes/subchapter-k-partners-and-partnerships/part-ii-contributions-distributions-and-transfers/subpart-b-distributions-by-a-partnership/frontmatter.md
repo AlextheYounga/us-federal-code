@@ -16,6 +16,8 @@ Sec.
 
 737. Recognition of precontribution gain in case of certain distributions to contributing partner.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–357, title VIII, §833(c)(5)(B), Oct. 22, 2004, 118 Stat. 1592, substituted "Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction" for "Optional adjustment to basis of undistributed partnership property" in item 734.

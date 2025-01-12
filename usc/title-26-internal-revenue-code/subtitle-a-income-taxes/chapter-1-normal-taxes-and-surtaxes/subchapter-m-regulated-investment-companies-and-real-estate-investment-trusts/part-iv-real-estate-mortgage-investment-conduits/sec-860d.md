@@ -50,6 +50,8 @@ then, notwithstanding such terminating event, such entity shall be treated as co
 
 (Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(2)(A), (16)(A), (19), Nov. 10, 1988, 102 Stat. 3419, 3423, 3426; Pub. L. 101–508, title XI, §11704(a)(8), Nov. 5, 1990, 104 Stat. 1388–518.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (a). Pub. L. 101–508 inserted closing parenthesis before period at end.
@@ -61,6 +63,8 @@ Subsec. (a)(4). Pub. L. 100–647, §1006(t)(2)(A)(i), substituted "3rd month be
 Pub. L. 100–647, §1006(t)(2)(A)(ii), substituted "and at all times thereafter" for "and each quarter ending thereafter".
 
 Subsec. (a)(6). Pub. L. 100–647, §1006(t)(16)(A), added par. (6).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

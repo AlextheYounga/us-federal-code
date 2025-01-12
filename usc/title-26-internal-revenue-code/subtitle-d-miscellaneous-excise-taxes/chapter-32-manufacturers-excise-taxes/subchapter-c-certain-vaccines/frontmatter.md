@@ -6,6 +6,8 @@ Sec.
 
 4132. Definitions and special rules.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter C consisted of sections 4141 to 4143, 4151, and 4152 of this title.

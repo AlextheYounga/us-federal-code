@@ -12,6 +12,8 @@ D. Treatment of welfare benefit funds.
 
 E. Treatment of transfers to retiree health accounts. 1
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(95), Mar. 23, 2018, 132 Stat. 1188, substituted "Insolvent plans" for "Special rules for multiemployer plans" in heading for subpart C.

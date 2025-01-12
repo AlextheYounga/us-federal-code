@@ -28,6 +28,8 @@ Sec.
 
 9825. Reporting on pharmacy benefits and drug costs.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–260, div. BB, title I, §§102(c)(3), 105(a)(3)(B), 106(b)(3)(B), 113(b)(2), 114(b)(2), 116(d)(2), title II, §§201(d)(2), 204(d)(2), Dec. 27, 2020, 134 Stat. 2796, 2851, 2855, 2871, 2874, 2887, 2894, 2922, added items 9815 to 9820 and 9822 to 9825.

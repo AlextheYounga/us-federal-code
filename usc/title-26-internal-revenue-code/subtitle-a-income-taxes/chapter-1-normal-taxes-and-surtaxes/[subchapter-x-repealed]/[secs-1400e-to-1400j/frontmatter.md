@@ -12,6 +12,8 @@ Section 1400I, added Pub. L. 106–554, §1(a)(7) [title I, §101(a)], Dec. 21, 
 
 Section 1400J, added Pub. L. 106–554, §1(a)(7) [title I, §101(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–598, related to increase in expensing under section 179.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 115–141, div. U, title IV, §401(d)(5)(C), Mar. 23, 2018, 132 Stat. 1210, provided that: "The amendments made by this paragraph [amending sections 469 and 1397B of this title and repealing sections 1400E to 1400J of this title], shall not apply to—

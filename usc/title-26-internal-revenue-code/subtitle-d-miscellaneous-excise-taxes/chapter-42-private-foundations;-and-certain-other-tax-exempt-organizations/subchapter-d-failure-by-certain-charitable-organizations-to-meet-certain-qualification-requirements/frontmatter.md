@@ -8,6 +8,8 @@ Sec.
 
 4960. Tax on excess tax-exempt organization executive compensation.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter D, consisting of sections 4961 to 4963 of this title, was redesignated subchapter E.

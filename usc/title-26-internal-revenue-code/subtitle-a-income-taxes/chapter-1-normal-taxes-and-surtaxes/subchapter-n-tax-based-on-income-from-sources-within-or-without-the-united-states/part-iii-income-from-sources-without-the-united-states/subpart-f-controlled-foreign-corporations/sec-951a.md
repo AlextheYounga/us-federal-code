@@ -160,9 +160,13 @@ For purposes of the sections referred to in paragraph (1), with respect to any c
 
 (Added Pub. L. 115–97, title I, §14201(a), Dec. 22, 2017, 131 Stat. 2208.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this section, referred to in subsec. (d)(3), is the date of the enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

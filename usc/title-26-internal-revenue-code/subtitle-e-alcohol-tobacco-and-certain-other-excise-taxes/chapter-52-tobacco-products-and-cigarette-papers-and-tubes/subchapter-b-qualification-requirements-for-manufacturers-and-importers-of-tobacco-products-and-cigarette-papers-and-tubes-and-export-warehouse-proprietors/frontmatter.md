@@ -8,6 +8,8 @@ Sec.
 
 5713. Permit.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Pub. L. 105–33, title IX, §9302(h)(2)(C), Aug. 5, 1997, 111 Stat. 674, inserted "and Importers" after "Manufacturers" in subchapter heading.

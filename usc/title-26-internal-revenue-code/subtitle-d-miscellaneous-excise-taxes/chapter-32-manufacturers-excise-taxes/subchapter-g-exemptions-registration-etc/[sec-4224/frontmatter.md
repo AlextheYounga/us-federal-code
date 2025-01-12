@@ -4,6 +4,8 @@ Section, Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1286, exem
 
 A prior section 4224, act Aug. 16, 1954, ch. 736, 68A Stat. 495, exempted articles for the exclusive use of any State, Territory, or political subdivision of either, or the District of Columbia, prior to repeal by Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1282.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to articles sold on or after June 22, 1965, see section 701(a) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 4161 of this title.

@@ -4,6 +4,8 @@ Section, added Pub. L. 94–12, title VI, §602(d)(3)(A), Mar. 29, 1975, 89 Stat
 
 A prior section 955, added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1013, related to investments in less developed countries and dealing with less developed country corporations, prior to repeal by Pub. L. 94–12, title VI, §602(c)(5), Mar. 29, 1975, 89 Stat. 59.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14212(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 851 of this title.

@@ -16,6 +16,8 @@ Sec.
 
 6159. Agreements for payment of tax liability in installments.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–357, title VIII, §867(b)(2), Oct. 22, 2004, 118 Stat. 1622, struck out item 6156 "Installment payments of tax on use of highway motor vehicles".

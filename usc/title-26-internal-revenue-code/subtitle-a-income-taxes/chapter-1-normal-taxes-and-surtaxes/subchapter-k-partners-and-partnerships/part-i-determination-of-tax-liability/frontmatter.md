@@ -20,6 +20,8 @@ Sec.
 
 709. Treatment of organization and syndication fees.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–455, title II, §213(b)(2), title XIX, §1901(b)(23), Oct. 4, 1976, 90 Stat. 1547, 1798, struck out part IV "Effective date for subchapter" in table of parts of subchapter K of chapter 1 and added item 709.

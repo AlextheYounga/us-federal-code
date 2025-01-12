@@ -4,6 +4,8 @@ Section 1246, added Pub. L. 87–834, §14(a)(1), Oct. 16, 1962, 76 Stat. 1036; 
 
 Section 1247, added Pub. L. 87–834, §14(a)(1), Oct. 16, 1962, 76 Stat. 1037; amended Pub. L. 94–455, title XIV, §1402(b)(1)(X), (2), title XIX, §§1901(b)(33)(P), (R), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1802, 1834; Pub. L. 98–369, div. A, title X, §1001(b)(21), (e), July 18, 1984, 98 Stat. 1012, related to election by foreign investment companies to distribute income currently.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.

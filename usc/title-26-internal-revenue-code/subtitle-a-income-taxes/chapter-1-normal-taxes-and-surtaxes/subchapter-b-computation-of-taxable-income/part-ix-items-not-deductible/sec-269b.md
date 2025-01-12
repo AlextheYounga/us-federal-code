@@ -52,11 +52,15 @@ is held directly (or indirectly through applying paragraphs (2) and (3) of secti
 
 (Added Pub. L. 98–369, div. A, title I, §136(a), July 18, 1984, 98 Stat. 669; amended Pub. L. 99–514, title XVIII, §1810(j), Oct. 22, 1986, 100 Stat. 2829.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Subsec. (b). Pub. L. 99–514, §1810(j)(1), inserted "and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation".
 
 Subsec. (e). Pub. L. 99–514, §1810(j)(2), added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

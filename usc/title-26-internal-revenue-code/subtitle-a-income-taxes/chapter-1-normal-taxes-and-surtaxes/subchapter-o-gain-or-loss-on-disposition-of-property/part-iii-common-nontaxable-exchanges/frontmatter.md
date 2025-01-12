@@ -32,6 +32,8 @@ Sec.
 
 1045. Rollover of gain from qualified small business stock to another qualified small business stock.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–97, title I, §§13303(b)(6), 13313(a), Dec. 22, 2017, 131 Stat. 2124, 2133, substituted "Exchange of real property held for productive use or investment" for "Exchange of property held for productive use or investment" in item 1031 and struck out item 1044 "Rollover of publicly traded securities gain into specialized small business investment companies".

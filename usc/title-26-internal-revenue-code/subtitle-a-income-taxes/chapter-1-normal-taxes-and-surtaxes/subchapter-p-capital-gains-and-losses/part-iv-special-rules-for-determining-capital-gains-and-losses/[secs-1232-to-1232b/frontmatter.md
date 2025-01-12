@@ -6,6 +6,8 @@ Section 1232A, added Pub. L. 97–248, title II, §231(a), Sept. 3, 1982, 96 Sta
 
 Section 1232B, added Pub. L. 97–248, title II, §232(a), Sept. 3, 1982, 96 Stat. 499, related to stripped bonds. See section 1286 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years ending after July 18, 1984, see section 44 of Pub. L. 98–369, set out as an Effective Date note under section 1271 of this title.

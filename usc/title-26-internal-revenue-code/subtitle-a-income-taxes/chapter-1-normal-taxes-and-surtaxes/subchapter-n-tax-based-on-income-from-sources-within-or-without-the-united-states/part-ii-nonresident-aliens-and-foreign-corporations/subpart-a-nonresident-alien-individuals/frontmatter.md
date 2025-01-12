@@ -22,6 +22,8 @@ Sec.
 
 879. Tax treatment of certain community income in the case of nonresident alien individuals.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–245, title III, §301(f), June 17, 2008, 122 Stat. 1647, added item 877A.

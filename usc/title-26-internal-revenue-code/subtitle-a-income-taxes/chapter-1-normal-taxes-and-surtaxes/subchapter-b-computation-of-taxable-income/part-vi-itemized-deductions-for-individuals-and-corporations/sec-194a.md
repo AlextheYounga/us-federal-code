@@ -18,9 +18,13 @@ No deduction shall be allowed under subsection (a) with respect to any contribut
 
 (Added Pub. L. 96–364, title II, §209(c)(1), Sept. 26, 1980, 94 Stat. 1290, §194; renumbered §194A, Pub. L. 97–448, title III, §305(b)(1), Jan. 12, 1983, 96 Stat. 2399.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4223(h) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a), is classified to section 1403(h) of Title 29, Labor.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1983 Amendment ####
 

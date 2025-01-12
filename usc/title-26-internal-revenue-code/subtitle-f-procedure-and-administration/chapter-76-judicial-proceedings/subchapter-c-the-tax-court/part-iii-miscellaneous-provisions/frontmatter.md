@@ -16,6 +16,8 @@ Sec.
 
 7475. Practice fee.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–113, div. Q, title IV, §432(c), Dec. 18, 2015, 129 Stat. 3126, added items 7470 and 7470A.

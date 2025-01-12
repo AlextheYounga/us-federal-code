@@ -174,6 +174,8 @@ Except as provided in regulations, with respect to any variable contract (as def
 
 (Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, §13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–136, div. A, title II, §2303(a)(2)(C), Mar. 27, 2020, 134 Stat. 353.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (a)(3)(B). Pub. L. 116–136 substituted "subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172." for "the 2nd sentence of section 172(b)(2)."
@@ -205,6 +207,8 @@ Subsec. (d). Pub. L. 100–647, §1006(t)(23), inserted at end "Rules similar to
 Subsec. (e). Pub. L. 100–647, §1006(t)(16)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

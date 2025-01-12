@@ -16,6 +16,8 @@ VI. Treatment of certain corporate interests as stock or indebtedness.
 
 [VII. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–508, title XI, §11801(b)(5), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for part IV "Insolvency reorganizations".

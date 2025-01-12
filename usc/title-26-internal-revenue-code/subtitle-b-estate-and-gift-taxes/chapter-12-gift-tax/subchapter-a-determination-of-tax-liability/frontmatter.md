@@ -12,6 +12,8 @@ Sec.
 
 2505. Unified credit against gift tax.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1981**—Pub. L. 97–34, title IV, §442(a)(4)(E), Aug. 13, 1981, 95 Stat. 321, substituted "preceding calendar periods" for "preceding years and quarters" in item 2504.

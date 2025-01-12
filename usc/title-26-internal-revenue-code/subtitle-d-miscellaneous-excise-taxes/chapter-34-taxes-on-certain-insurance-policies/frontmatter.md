@@ -6,6 +6,8 @@ A. Policies issued by foreign insurers 4371
 
 B. Insured and self-insured health plans 4375
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 The provisions of a prior chapter 34, Documentary Stamp Taxes, were set out as:
@@ -107,6 +109,8 @@ A prior section 4384, acts Aug. 16, 1954, ch. 736, 68A Stat. 524, §4384, former
 **1976**—Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1812, substituted "POLICIES ISSUED BY FOREIGN INSURERS" for "DOCUMENTARY STAMP TAXES" as chapter heading and struck out items relating to subchapters C to E.
 
 **1965**—Pub. L. 89–44, title IV, §401(a), June 21, 1965, 79 Stat. 148, struck out items relating to subchapters A and B.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Dates of Repeal ####
 

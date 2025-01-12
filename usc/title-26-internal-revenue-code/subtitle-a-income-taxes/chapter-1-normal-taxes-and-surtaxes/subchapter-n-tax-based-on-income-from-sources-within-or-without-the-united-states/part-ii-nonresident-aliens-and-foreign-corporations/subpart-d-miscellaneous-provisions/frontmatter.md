@@ -18,6 +18,8 @@ Sec.
 
 898. Taxable year of certain foreign corporations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Pub. L. 101–239, title VII, §7401(c), Dec. 19, 1989, 103 Stat. 2357, added item 898.

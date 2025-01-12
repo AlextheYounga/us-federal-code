@@ -32,6 +32,8 @@ Sec.
 
 5615. Property subject to forfeiture.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior part I consisted of sections 5601 to 5650, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

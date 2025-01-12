@@ -8,6 +8,8 @@ Sec.
 
 5763. Forfeitures.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1987**—Pub. L. 100–203, title X, §10512(f)(1), Dec. 22, 1987, 101 Stat. 1330–449, redesignated subchapter F as G.

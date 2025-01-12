@@ -10,6 +10,8 @@ Sec.
 
 [2604. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(95)(B)(i), Dec. 19, 2014, 128 Stat. 4051, which directed amendment of subchapter A of chapter 13 of this title by striking out item 2604 in the table of sections for "such subpart", was executed by striking out item 2604 "Credit for certain State taxes" in the table of sections for this subchapter, to reflect the probable intent of Congress.

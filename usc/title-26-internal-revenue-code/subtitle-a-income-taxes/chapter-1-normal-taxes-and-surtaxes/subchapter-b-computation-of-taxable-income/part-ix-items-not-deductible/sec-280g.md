@@ -198,6 +198,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 98–369, div. A, title I, §67(a), July 18, 1984, 98 Stat. 585; amended Pub. L. 99–121, title I, §102(c)(4), Oct. 11, 1985, 99 Stat. 508; Pub. L. 99–514, title XVIII, §1804(j), Oct. 22, 1986, 100 Stat. 2807; Pub. L. 100–647, title I, §1018(d)(6)–(8), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 104–188, title I, §1421(b)(9)(A), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 110–343, div. A, title III, §302(b), Oct. 3, 2008, 122 Stat. 3805.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (e)(1), (2)(C)(ii)(I), is Pub. L. 110–343, div. A, Oct. 3, 2008, 122 Stat. 3765. Section 101(a) of the Act enacted section 5211(a) of Title 12, Banks and Banking, and amended section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance. Section 120 of the Act is classified to section 5230 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
@@ -229,6 +231,8 @@ Subsec. (c). Pub. L. 99–514, §1804(j)(5), inserted provision defining "highly
 Subsec. (d)(2). Pub. L. 99–514, §1804(j)(8), substituted "performed personal services for the corporation" for "was an employee of the corporation".
 
 Subsec. (d)(5). Pub. L. 99–514, §1804(j)(4), added par. (5).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

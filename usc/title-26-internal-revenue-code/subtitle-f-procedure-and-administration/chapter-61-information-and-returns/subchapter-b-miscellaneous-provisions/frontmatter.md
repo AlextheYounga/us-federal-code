@@ -36,6 +36,8 @@ Sec.
 
 6117. Cross reference.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–41, title V, §502(b), Oct. 21, 2011, 125 Stat. 460, added items 6116 and 6117 and struck out former item 6116 "Cross reference".

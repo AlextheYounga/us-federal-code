@@ -6,6 +6,8 @@ Sec.
 
 5132. Prohibited purchases by dealers.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subpart D, consisting of sections 5111 to 5117, related to wholesale dealers in liquors or beer, prior to repeal, except for sections 5114 and 5116, by Pub. L. 109–59, title XI, §11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.

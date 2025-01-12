@@ -14,6 +14,8 @@ Sec.
 
 855. Dividends paid by regulated investment company after close of taxable year.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–5, div. B, title I, §1541(b)(3), Feb. 17, 2009, 123 Stat. 362, added item 853A.

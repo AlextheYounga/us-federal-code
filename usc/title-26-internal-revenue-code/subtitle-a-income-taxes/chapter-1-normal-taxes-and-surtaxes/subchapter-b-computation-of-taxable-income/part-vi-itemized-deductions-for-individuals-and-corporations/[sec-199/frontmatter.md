@@ -44,6 +44,8 @@ Prior to repeal by section 13305(a) of Pub. L. 115–97, subsection (d)(8) of th
 
 See Extension of Deduction Allowable With Respect to Income Attributable to Domestic Production Activities in Puerto Rico note below.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 74 of this title.

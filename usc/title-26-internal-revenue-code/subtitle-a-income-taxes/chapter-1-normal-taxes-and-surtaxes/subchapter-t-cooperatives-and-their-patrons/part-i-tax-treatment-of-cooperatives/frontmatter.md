@@ -8,6 +8,8 @@ Sec.
 
 1383. Computation of tax where cooperative redeems nonqualified written notices of allocation or nonqualified per-unit retain certificates.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–809, title II, §211(a)(8), Nov. 13, 1966, 80 Stat. 1582, inserted "or nonqualified per-unit retain certificates" in item 1383.

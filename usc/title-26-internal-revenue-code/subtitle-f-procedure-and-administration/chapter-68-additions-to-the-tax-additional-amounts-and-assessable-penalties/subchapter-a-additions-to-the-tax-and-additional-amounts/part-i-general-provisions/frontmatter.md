@@ -20,6 +20,8 @@ Sec.
 
 [6659 to 6661. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(298), Mar. 23, 2018, 132 Stat. 1198, substituted "Failure to file tax return or to pay tax" for "Failure to file tax return or pay tax" in item 6651.

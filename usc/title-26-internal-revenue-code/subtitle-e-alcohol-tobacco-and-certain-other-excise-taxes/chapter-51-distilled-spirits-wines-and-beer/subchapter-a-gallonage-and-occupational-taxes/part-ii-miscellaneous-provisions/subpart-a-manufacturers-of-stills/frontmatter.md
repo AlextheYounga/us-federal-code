@@ -6,6 +6,8 @@ Sec.
 
 5102. Definition of manufacturer of stills.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subpart A, consisting of section 5081 of this title, related to proprietors of distilled spirits plants, bonded wine cellars, etc., prior to repeal by Pub. L. 109–59, title XI, §11125(a)(1)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.

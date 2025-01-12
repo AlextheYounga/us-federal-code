@@ -14,6 +14,8 @@ E. Registration of and information concerning pension, etc., plans.
 
 F. Information concerning tax return preparers.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–148, title I, §1502(d), Mar. 23, 2010, 124 Stat. 251, added item relating to subpart D.
@@ -27,6 +29,8 @@ F. Information concerning tax return preparers.
 **1974**—Pub. L. 93–406, title II, §1031(c)(1), Sept. 2, 1974, 88 Stat. 946, added item relating to subpart E.
 
 **1969**—Pub. L. 91–172, title I, §101(j)(64), Dec. 30, 1969, 82 Stat. 533, added item relating to subpart D.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Information Returns in Electronic Format ####
 

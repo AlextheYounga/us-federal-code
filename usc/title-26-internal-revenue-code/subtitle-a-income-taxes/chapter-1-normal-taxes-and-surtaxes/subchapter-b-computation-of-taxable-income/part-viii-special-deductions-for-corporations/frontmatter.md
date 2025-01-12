@@ -26,6 +26,8 @@ Sec.
 
 250. Foreign-derived intangible income and global intangible low-taxed income.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–97, title I, §§13821(b)(2), 14101(e)(3), 14202(b)(4), Dec. 22, 2017, 131 Stat. 2181, 2192, 2216, added items 245A, 247, and 250.

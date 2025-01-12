@@ -10,6 +10,8 @@ Section 6364, added Pub. L. 92–512, title II, §202(a), Oct. 20, 1972, 86 Stat
 
 Section 6365, added Pub. L. 92–512, title II, §202(a), Oct. 20, 1972, 86 Stat. 944; amended Pub. L. 94–455, title XIX, §1906(a)(21), Oct. 4, 1976, 90 Stat. 1826; Pub. L. 97–248, title III, §§307(a)(8), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369, set forth definitions and special rules for this subchapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.

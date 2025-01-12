@@ -2,9 +2,13 @@
 
 Section, added Pub. L. 107–16, title V, §501(a), June 7, 2001, 115 Stat. 69, related to termination of applicability of chapter to estates of decedents dying after Dec. 31, 2009.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 2210, added Pub. L. 98–369, div. A, title V, §544(a), July 18, 1984, 98 Stat. 892; amended Pub. L. 99–514, title XVIII, §§1854(d)(1)(A), (2)–(6), 1899A(37), Oct. 22, 1986, 100 Stat. 2879, 2880, 2960, related to liability for payment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative, prior to repeal by Pub. L. 101–239, title VII, §7304(b)(1), (3), Dec. 19, 1989, 103 Stat. 2353, applicable to estates of decedents dying after July 12, 1989.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 

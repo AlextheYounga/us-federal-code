@@ -12,6 +12,8 @@ Sec.
 
 515. Taxes of foreign countries and possessions of the United States.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(125), Mar. 23, 2018, 132 Stat. 1190, substituted "Imposition of tax on unrelated business income of charitable, etc., organizations." for "Imposition of tax on unrelated business income of charitable organizations, etc." in item 511.

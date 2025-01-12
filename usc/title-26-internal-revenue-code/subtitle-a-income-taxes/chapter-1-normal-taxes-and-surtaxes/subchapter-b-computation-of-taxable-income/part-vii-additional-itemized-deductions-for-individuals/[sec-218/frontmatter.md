@@ -4,6 +4,8 @@ Section, added Pub. L. 92–178, title VII, §702(a), Dec. 10, 1971, 85 Stat. 56
 
 A prior section 218 was renumbered section 224 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective with respect to contributions the payment of which is made after Dec. 31, 1978, in taxable years beginning after such date, see section 113(d) of Pub. L. 95–600, set out as an Effective Date of 1978 Amendment note under section 24 of this title.

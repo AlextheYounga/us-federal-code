@@ -10,6 +10,8 @@ Sec.
 
 5114. Drawback.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subpart B, consisting of sections 5091 to 5093, related to brewers, prior to repeal by Pub. L. 109–59, title XI, §11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.

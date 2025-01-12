@@ -14,6 +14,8 @@ V. Claim of right.
 
 VII. Recoveries of foreign expropriation losses.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Pub. L. 105–34, title IX, §933(b), Aug. 5, 1997, 111 Stat. 882, added item for part I.

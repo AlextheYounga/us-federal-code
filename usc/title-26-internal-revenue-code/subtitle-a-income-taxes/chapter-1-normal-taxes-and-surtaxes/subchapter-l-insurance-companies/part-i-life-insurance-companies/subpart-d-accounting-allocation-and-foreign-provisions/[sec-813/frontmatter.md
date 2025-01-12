@@ -4,6 +4,8 @@ Section, added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 S
 
 A prior section 813, act Aug. 16, 1954, ch. 736, §813, as added Mar. 13, 1956, ch. 83, §2, 70 Stat. 46, related to adjustment for certain reserves, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10242(d) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 816 of this title.

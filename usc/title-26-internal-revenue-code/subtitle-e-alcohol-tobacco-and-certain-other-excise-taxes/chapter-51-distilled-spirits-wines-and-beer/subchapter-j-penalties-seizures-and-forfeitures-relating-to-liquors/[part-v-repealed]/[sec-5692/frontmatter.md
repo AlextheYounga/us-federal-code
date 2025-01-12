@@ -6,6 +6,8 @@ A prior section 5692, act Aug. 16, 1954, ch. 736, 68A Stat. 703, related to pena
 
 A prior section 5693, act Aug. 16, 1954, ch. 736, 68A Stat. 703, consisted of provisions similar to those comprising section 5692, prior to the general revision of this chapter by Pub. L. 85–859.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 22, 1968, see section 207 of Pub. L. 90–618, set out as an Effective Date note under section 5801 of this title.

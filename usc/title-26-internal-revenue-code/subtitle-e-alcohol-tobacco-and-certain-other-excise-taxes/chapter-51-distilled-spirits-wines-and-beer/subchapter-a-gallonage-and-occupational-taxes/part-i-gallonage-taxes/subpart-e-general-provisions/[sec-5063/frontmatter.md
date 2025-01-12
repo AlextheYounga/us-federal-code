@@ -4,6 +4,8 @@ Section, Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1336; Pub. L
 
 A prior section 5063, act Aug. 16, 1954, ch. 736, 68A Stat. 615, consisted of provisions similar to those comprising section 5063, prior to the general revision of this chapter by Pub. L. 85–859.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable on and after July 1, 1965, see section 701(d) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 5701 of this title.

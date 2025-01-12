@@ -492,6 +492,8 @@ This section shall not apply to taxable years beginning after December 31, 2025.
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126.
@@ -515,6 +517,8 @@ Pub. L. 115–141, §101(a)(2)(A), substituted "any deduction" for "the deductio
 Subsec. (e)(4), (5). Pub. L. 115–141, §101(b)(2)(B)(ii), redesignated par. (5) as (4) and struck out former par. (4) which defined "qualified cooperative dividend".
 
 Subsec. (g). Pub. L. 115–141, §101(a)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to deduction allowed to specified agricultural or horticultural cooperatives.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

@@ -4,6 +4,8 @@ Sec.
 
 4701. Tax on issuer of registration-required obligation not in registered form.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 The provisions of a prior chapter 39, Regulatory Taxes, were set out as:

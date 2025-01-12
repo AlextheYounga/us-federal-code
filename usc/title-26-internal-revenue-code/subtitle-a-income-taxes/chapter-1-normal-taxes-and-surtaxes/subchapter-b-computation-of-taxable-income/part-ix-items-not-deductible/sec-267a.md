@@ -60,6 +60,8 @@ The Secretary shall issue such regulations or other guidance as may be necessary
 
 (Added Pub. L. 115–97, title I, §14222(a), Dec. 22, 2017, 131 Stat. 2219.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 115–97, title I, §14222(c), Dec. 22, 2017, 131 Stat. 2220, provided that: "The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017."

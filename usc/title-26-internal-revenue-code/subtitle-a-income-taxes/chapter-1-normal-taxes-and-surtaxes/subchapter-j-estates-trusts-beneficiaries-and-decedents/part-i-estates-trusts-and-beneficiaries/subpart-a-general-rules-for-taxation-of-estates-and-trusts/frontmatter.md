@@ -14,6 +14,8 @@ Sec.
 
 646. Tax treatment of electing Alaska Native Settlement Trusts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2001**—Pub. L. 107–16, title VI, §671(c)(1), June 7, 2001, 115 Stat. 147, added item 646.

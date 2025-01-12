@@ -20,6 +20,8 @@ Sec.
 
 5849. Citation of chapter.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(251), Mar. 23, 2018, 132 Stat. 1196, substituted "Effect on other laws" for "Effect on other law" in item 5847.

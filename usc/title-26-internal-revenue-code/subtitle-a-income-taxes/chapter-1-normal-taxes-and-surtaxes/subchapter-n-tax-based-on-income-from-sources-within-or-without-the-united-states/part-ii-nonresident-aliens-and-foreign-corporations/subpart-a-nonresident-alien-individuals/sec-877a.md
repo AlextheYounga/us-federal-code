@@ -298,6 +298,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (g)(6). Pub. L. 115–141 substituted "220(f)(4)" for "220(e)(4)".
@@ -307,6 +309,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 **2014**—Subsec. (e)(2). Pub. L. 113–295, §102(e)(2)(A), inserted "a qualified ABLE program (as defined in section 529A)," after "529),".
 
 Subsec. (g)(6). Pub. L. 113–295, §102(e)(2)(B), inserted "529A(c)(3)," after "529(c)(6),".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

@@ -10,6 +10,8 @@ C. Prohibited acts 5861
 
 D. Penalties and forfeitures 5871
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 53, act Aug. 16, 1954, ch. 736, 68A Stat. 721, was generally revised by Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1227. The analysis reflects changes:

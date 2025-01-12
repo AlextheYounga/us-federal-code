@@ -6,6 +6,8 @@ Sec.
 
 4472. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter B, consisted of sections 4461 to 4464 of this title, prior to repeal by Pub. L. 95–600, title V, §521(b), Nov. 6, 1978, 92 Stat. 2884, applicable with respect to years beginning after June 30, 1980.

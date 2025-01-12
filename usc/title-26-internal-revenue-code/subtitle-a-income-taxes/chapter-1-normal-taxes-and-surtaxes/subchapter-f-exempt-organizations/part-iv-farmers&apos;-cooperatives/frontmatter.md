@@ -6,6 +6,8 @@ Sec.
 
 [522. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1969**—Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 492, substituted "PART IV" for "PART III" as part designation.

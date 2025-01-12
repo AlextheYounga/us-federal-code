@@ -24,6 +24,8 @@ Section 1400U–2, added Pub. L. 111–5, div. B, title I, §1401(a), Feb. 17, 2
 
 Section 1400U–3, added Pub. L. 111–5, div. B, title I, §1401(a), Feb. 17, 2009, 123 Stat. 350, related to recovery zone facility bonds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provisions ####
 
 Pub. L. 115–141, div. U, title IV, §401(d)(6)(C), Mar. 23, 2018, 132 Stat. 1211, provided that: "The amendments made by this paragraph [amending sections 38, 280C, 6033, and 6049 of this title and repealing sections 1400L to 1400U–3 of this title] shall not apply to—

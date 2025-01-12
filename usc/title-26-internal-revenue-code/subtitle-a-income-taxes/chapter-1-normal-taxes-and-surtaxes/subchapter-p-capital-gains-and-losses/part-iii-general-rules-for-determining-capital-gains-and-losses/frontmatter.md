@@ -8,6 +8,8 @@ Sec.
 
 1223. Holding period of property.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(172), Mar. 23, 2018, 132 Stat. 1192, substituted "Other terms relating to capital gains and losses" for "Other items relating to capital gains and losses" in item 1222.

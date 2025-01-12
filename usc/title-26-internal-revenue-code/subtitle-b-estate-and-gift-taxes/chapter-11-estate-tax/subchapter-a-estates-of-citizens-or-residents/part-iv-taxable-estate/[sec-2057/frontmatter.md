@@ -6,6 +6,8 @@ A prior section 2057, added Pub. L. 99–514, title XI, §1172(a), Oct. 22, 1986
 
 Another prior section 2057, added Pub. L. 94–455, title XX, §2007(a), Oct. 4, 1976, 90 Stat. 1890; amended Pub. L. 95–600, title VII, §702(l)(1), (2), Nov. 6, 1978, 92 Stat. 2934, 2935, related to bequests, etc., to certain minor children, prior to repeal by Pub. L. 97–34, title IV, §427(a), (c), Aug. 13, 1981, 95 Stat. 3181, applicable to estates of decedents dying after Dec. 31, 1981.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 1 of this title.
