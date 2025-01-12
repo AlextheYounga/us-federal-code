@@ -140,6 +140,8 @@ Sec.
 
 1414. Remote location filing.
 
+1415. Mandatory advance electronic information for cargo and other improved customs reporting procedures.
+
 #### Part II—Report, Entry, and Unlading of Vessels and Vehicles ####
 
 1431. Manifests.
@@ -155,6 +157,8 @@ Sec.
 1435 to 1435b. Repealed or Transferred.
 
 1436. Penalties for violations of arrival, reporting, entry, and clearance requirements.
+
+1436a. Report on violations of arrival, reporting, entry, and clearance requirements and falsity or lack of manifest.
 
 1437. Repealed.
 
@@ -361,6 +365,8 @@ Sec.
 1582. Search of persons and baggage; regulations.
 
 1583. Examination of outbound mail.
+
+1583a. Development of technology to detect illicit narcotics.
 
 1584. Falsity or lack of manifest; penalties.
 

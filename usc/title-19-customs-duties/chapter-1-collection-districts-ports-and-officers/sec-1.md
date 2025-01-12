@@ -58,6 +58,8 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 #### Short Title of 2018 Amendment ####
 
+Pub. L. 115–271, title VIII, §8001, Oct. 24, 2018, 132 Stat. 4073, provided that: "This subtitle [subtitle A (§§8001–8009) of title VIII of Pub. L. 115–271, enacting sections 1436a and 1583a of this title, amending sections 58c, 1415, and 1436 of this title, and enacting provisions set out as notes under sections 58c, 1415, and 1436 of this title] may be cited as the 'Synthetics Trafficking and Overdose Prevention Act of 2018' or 'STOP Act of 2018'."
+
 Pub. L. 115–239, §1(a), Sept. 13, 2018, 132 Stat. 2451, provided that: "This Act [amending section 58c of this title and the Harmonized Tariff Schedule of the United States, which is not set out in the Code, and enacting provisions set out as a note under section 58c of this title] may be cited as the 'Miscellaneous Tariff Bill Act of 2018'."
 
 #### Short Title of 2010 Amendment ####

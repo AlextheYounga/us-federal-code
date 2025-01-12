@@ -454,6 +454,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2018**—Revenue Procedure 2018–25.
+
 **2017**—Revenue Procedure 2017–29.
 
 **2016**—Revenue Procedure 2016–23.

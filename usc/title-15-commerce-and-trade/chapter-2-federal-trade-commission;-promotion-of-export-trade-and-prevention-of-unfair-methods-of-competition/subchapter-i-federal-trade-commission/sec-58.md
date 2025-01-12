@@ -12,6 +12,10 @@ For repeal of amendment renumbering this section by section 13 of Pub. L. 109–
 
 Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a note under section 44 of this title.
 
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–271, title VIII, §8021, Oct. 24, 2018, 132 Stat. 4082, provided that: "This subtitle [subtitle B (§§8021–8023) of title VIII of Pub. L. 115–271, enacting section 45d of this title and provisions set out as a note under section 45d of this title] may be cited as the 'Opioid Addiction Recovery Fraud Prevention Act of 2018'."
+
 #### Short Title of 2016 Amendment ####
 
 Pub. L. 114–274, §1, Dec. 14, 2016, 130 Stat. 1401, provided that: "This Act [enacting section 45c of this title and provisions set out as a note under section 45c of this title] may be cited as the 'Better Online Ticket Sales Act of 2016' or the 'BOTS Act of 2016'."

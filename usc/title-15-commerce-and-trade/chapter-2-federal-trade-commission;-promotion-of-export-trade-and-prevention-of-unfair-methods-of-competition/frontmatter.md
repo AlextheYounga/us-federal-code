@@ -20,6 +20,8 @@ Sec.
 
 45c. Unfair and deceptive acts and practices relating to circumvention of ticket access control measures.
 
+45d. Unfair or deceptive acts or practices with respect to substance use disorder treatment service and products.
+
 46. Additional powers of Commission.
 
 46a. Concurrent resolution essential to authorize investigations

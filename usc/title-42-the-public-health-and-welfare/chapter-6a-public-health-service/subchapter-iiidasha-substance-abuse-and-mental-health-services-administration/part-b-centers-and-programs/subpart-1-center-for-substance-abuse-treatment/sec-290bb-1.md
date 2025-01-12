@@ -268,9 +268,9 @@ For purposes of this subsection, the term "State substance abuse agency" means, 
 
 #### (s) Authorization of appropriations ####
 
-For the purpose of carrying out this section, there are authorized to be appropriated $16,900,000 for each of fiscal years 2017 through 2021. Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.
+For the purpose of carrying out this section, there are authorized to be appropriated $29,931,000 for each of fiscal years 2019 through 2023. Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.
 
-(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6006(b), Dec. 13, 2016, 130 Stat. 1203, 1212.)
+(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6006(b), Dec. 13, 2016, 130 Stat. 1203, 1212; Pub. L. 115–271, title VII, §7062(b), Oct. 24, 2018, 132 Stat. 4020.)
 
 #### References in Text ####
 
@@ -283,6 +283,8 @@ A prior section 290bb–1, act July 1, 1944, ch. 373, title V, §511, formerly P
 A prior section 508 of act July 1, 1944, which was classified to section 290aa–6 of this title, was renumbered section 515 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–21 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (s). Pub. L. 115–271 substituted "$29,931,000 for each of fiscal years 2019 through 2023" for "$16,900,000 for each of fiscal years 2017 through 2021".
 
 **2016**—Subsec. (a). Pub. L. 114–198, §501(a)(1)(A), in introductory provisions, inserted "(referred to in this section as the 'Director')" after "Substance Abuse Treatment" and substituted "grants, including the grants under subsection (r), cooperative agreements" for "grants, cooperative agreement," and "for substance use disorders" for "for substance abuse".
 
@@ -367,3 +369,15 @@ Pub. L. 102–321, title I, §108(b), July 10, 1992, 106 Stat. 341, provided tha
 "(B) The term 'current section 508' means section 508 of the Public Health Service Act [42 U.S.C. 290bb–1], as in effect for fiscal year 1993 and subsequent fiscal years.
 
 "(C) The term 'current section 509' means section 509 of the Public Health Service Act [42 U.S.C. 290bb–2], as in effect for fiscal year 1993 and subsequent fiscal years."
+
+#### Report on Implementation of Strategy Relating to Prenatal Opioid Use ####
+
+Pub. L. 115–271, title VII, §7062(a), Oct. 24, 2018, 132 Stat. 4019, provided that:
+
+"(1) In general.—Not later than 60 days after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and make available to the public on the Internet website of the Department of Health and Human Services, a report regarding the implementation of the recommendations in the strategy relating to prenatal opioid use, including neonatal abstinence syndrome, developed pursuant to section 2 of the Protecting Our Infants Act of 2015 (Public Law 114–91) [129 Stat. 723]. Such report shall include—
+
+"(A) an update on the implementation of the recommendations in the strategy, including information regarding the agencies involved in the implementation; and
+
+"(B) information on additional funding or authority the Secretary requires, if any, to implement the strategy, which may include authorities needed to coordinate implementation of such strategy across the Department of Health and Human Services.
+
+"(2) Periodic updates.—The Secretary shall periodically update the report under paragraph (1)."

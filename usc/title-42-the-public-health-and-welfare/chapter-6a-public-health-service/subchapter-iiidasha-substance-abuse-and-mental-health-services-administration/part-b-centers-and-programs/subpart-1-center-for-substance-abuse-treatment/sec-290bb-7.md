@@ -1,12 +1,12 @@
-### §290bb–7. Substance use disorder treatment and early intervention services for children and adolescents ###
+### §290bb–7. Substance use disorder treatment and early intervention services for children, adolescents, and young adults ###
 
 #### (a) In general ####
 
 The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), or health facilities or programs operated by or in accordance with a contract or grant with the Indian Health Service, for the purpose of—
 
-(1) providing early identification and services to meet the needs of children and adolescents who are at risk of substance use disorders;
+(1) providing early identification and services to meet the needs of children, adolescents, and young adults who are at risk of substance use disorders;
 
-(2) providing substance use disorder treatment services for children, including children and adolescents with co-occurring mental illness and substance use disorders; and
+(2) providing substance use disorder treatment services for children, adolescents, and young adults, including children, adolescents, and young adults with co-occurring mental illness and substance use disorders; and
 
 (3) providing assistance to pregnant women, and parenting women, with substance use disorders, in obtaining treatment services, linking mothers to community resources to support independent family lives, and staying in recovery so that children are in safe, stable home environments and receive appropriate health care services.
 
@@ -18,13 +18,13 @@ In awarding grants, contracts, or cooperative agreements under subsection (a), t
 
 (2) coordinate the provision of services with other social service agencies in the community, including educational, juvenile justice, child welfare, substance abuse, and mental health agencies;
 
-(3) provide a continuum of integrated treatment services, including case management, for children and adolescents with substance use disorders, including children and adolescents with co-occurring mental illness and substance use disorders, and their families;
+(3) provide a continuum of integrated treatment services, including case management, for children, adolescents, and young adults with substance use disorders, including children, adolescents, and young adults with co-occurring mental illness and substance use disorders, and their families;
 
 (4) provide treatment that is gender-specific and culturally appropriate;
 
-(5) involve and work with families of children and adolescents receiving services; and
+(5) involve and work with families of children, adolescents, and young adults receiving services; and
 
-(6) provide aftercare services for children and adolescents and their families after completion of treatment.
+(6) provide aftercare services for children, adolescents, and young adults and their families after completion of treatment.
 
 #### (c) Duration of grants ####
 
@@ -42,13 +42,19 @@ An entity that receives a grant, contract, or cooperative agreement under subsec
 
 There are authorized to be appropriated to carry out this section, $29,605,000 for each of fiscal years 2018 through 2022.
 
-(July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1171; amended Pub. L. 114–255, div. B, title X, §10003, Dec. 13, 2016, 130 Stat. 1264.)
+(July 1, 1944, ch. 373, title V, §514, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1171; amended Pub. L. 114–255, div. B, title X, §10003, Dec. 13, 2016, 130 Stat. 1264; Pub. L. 115–271, title VII, §7102(a), Oct. 24, 2018, 132 Stat. 4038.)
 
 #### Codification ####
 
 Another section 514 of act July 1, 1944, was classified to section 290bb–9 of this title prior to repeal by Pub. L. 114–255, div. B, title IX, §9017, Dec. 13, 2016, 130 Stat. 1248.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–271, §7102(a)(3), substituted "children, adolescents, and young adults" for "children and adolescents" wherever appearing.
+
+Pub. L. 115–271, §7102(a)(1), substituted "children, adolescents, and young adults" for "children and adolescents" in section catchline.
+
+Subsec. (a)(2). Pub. L. 115–271, §7102(a)(2), substituted "children, adolescents, and young adults, including" for "children, including".
 
 **2016**—Pub. L. 114–255, §10003(1), substituted "use disorder treatment and early intervention" for "abuse treatment" in section catchline.
 

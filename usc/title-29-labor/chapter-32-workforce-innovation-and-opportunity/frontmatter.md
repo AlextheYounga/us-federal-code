@@ -130,6 +130,8 @@ Sec.
 
 3225. National dislocated worker grants.
 
+3225a. Addressing economic and workforce impacts of the opioid crisis.
+
 3226. YouthBuild program.
 
 3226a. Re-enrollment in alternative school by high-school dropout.

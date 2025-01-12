@@ -8,6 +8,10 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2018 Amendment ####
 
+Pub. L. 115–299, §1, Dec. 7, 2018, 132 Stat. 4383, provided that: "This Act [enacting sections 2259A and 2259B of this title, amending sections 1593, 2252A, 2256, 2259, 3509, and 3613 of this title and section 20101 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as a note under section 2259 of this title] may be cited as the 'Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018'."
+
+Pub. L. 115–271, title VIII, §8121, Oct. 24, 2018, 132 Stat. 4108, provided that: "This subtitle [subtitle J (§§8121, 8122) of title VIII of Pub. L. 115–271, enacting section 220 of this title] may be cited as the 'Eliminating Kickbacks in Recovery Act of 2018'."
+
 Pub. L. 115–253, §1, Oct. 3, 2018, 132 Stat. 3183, provided that: "This Act [amending sections 2331, 2333 and 2334 of this title and enacting provisions set out as notes under sections 2331, 2332 and 2334 of this title] may be cited as the 'Anti-Terrorism Clarification Act of 2018'."
 
 Pub. L. 115–249, §1, Sept. 28, 2018, 132 Stat. 3162, provided that: "This Act [amending section 247 of this title] may be cited as the 'Protecting Religiously Affiliated Institutions Act of 2018'."

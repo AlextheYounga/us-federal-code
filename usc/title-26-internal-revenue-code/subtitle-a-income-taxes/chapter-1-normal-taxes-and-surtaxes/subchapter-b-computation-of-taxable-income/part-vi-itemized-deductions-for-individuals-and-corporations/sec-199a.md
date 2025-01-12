@@ -488,6 +488,10 @@ This section shall not apply to taxable years beginning after December 31, 2025.
 
 (Added Pub. L. 115–97, title I, §11011(a), Dec. 22, 2017, 131 Stat. 2063; amended Pub. L. 115–141, div. T, §101(a)(1), (2)(A), (C), (b), Mar. 23, 2018, 132 Stat. 1151, 1155.)
 
+#### Inflation Adjusted Items for Certain Years ####
+
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
+
 #### References in Text ####
 
 Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126.

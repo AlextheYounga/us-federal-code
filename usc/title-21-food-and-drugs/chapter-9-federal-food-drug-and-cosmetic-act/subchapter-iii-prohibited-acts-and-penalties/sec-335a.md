@@ -20,13 +20,15 @@ the Secretary shall debar such individual from providing services in any capacit
 
 #### (1) In general ####
 
-The Secretary, on the Secretary's own initiative or in response to a petition, may, in accordance with paragraph (2), debar—
+The Secretary, on the Secretary's own initiative or in response to a petition, may, in accordance with paragraph (2) or (3), debar—
 
-(A) a person other than an individual from submitting or assisting in the submission of any abbreviated drug application,
+(A) a person other than an individual from submitting or assisting in the submission of any abbreviated drug application;
 
-(B) an individual from providing services in any capacity to a person that has an approved or pending drug product application, or
+(B) an individual from providing services in any capacity to a person that has an approved or pending drug product application;
 
-(C) a person from importing an article of food or offering such an article for import into the United States.
+(C) a person from importing an article of food or offering such an article for import into the United States; or
+
+(D) a person from importing or offering for import into the United States a drug.
 
 #### (2) Persons subject to permissive debarment; certain drug applications ####
 
@@ -78,17 +80,33 @@ if the Secretary finds, on the basis of the conviction of such individual and ot
 
 if the Secretary finds that the type of conduct which served as the basis for such other individual's conviction undermines the process for the regulation of drugs.
 
-#### (3) Persons subject to permissive debarment; food importation ####
+#### (3) Persons subject to permissive debarment; food or drug importation ####
 
 A person is subject to debarment under paragraph (1)(C) if—
 
-(A) the person has been convicted of a felony for conduct relating to the importation into the United States of any food; or
+(A) the person has been convicted of a felony for conduct relating to the importation into the United States of any food;
 
-(B) the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals.
+(B) the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals;
+
+(C) the person has been convicted of a felony for conduct relating to the importation into the United States of any drug or controlled substance (as defined in section 802 of this title);
+
+(D) the person has engaged in a pattern of importing or offering for import—
+
+(i) controlled substances that are prohibited from importation under section 1401(m) of title 19; or
+
+(ii) adulterated or misbranded drugs that are—
+
+(I) not designated in an authorized electronic data interchange system as a product that is regulated by the Secretary; or
+
+(II) knowingly or intentionally falsely designated in an authorized electronic data interchange system as a product that is regulated by the Secretary.
 
 #### (4) Stay of certain orders ####
 
 An order of the Secretary under clause (iii) or (iv) of paragraph (2)(B) shall not take effect until 30 days after the order has been issued.
+
+#### (5) Definition ####
+
+For purposes of paragraph (3)(D), the term "pattern of importing or offering for import" means importing or offering for import a drug described in clause (i) or (ii) of paragraph (3)(D) in an amount, frequency, or dosage that is inconsistent with personal or household use by the importer.
 
 #### (c) Debarment period and considerations ####
 
@@ -350,13 +368,23 @@ The Secretary shall debar a person under paragraph (1) for the following periods
 
 Subsections (c)(3), (d), (e), (i), (j), and (l)(1) apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1), or an individual who is debarred under subsection (a)(2), respectively.
 
-(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
+(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610; Pub. L. 115–271, title III, §3022(b)(2), Oct. 24, 2018, 132 Stat. 3938.)
 
 #### Prior Provisions ####
 
 A prior section 306 of act June 25, 1938, was renumbered section 309 and is classified to section 336 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(1). Pub. L. 115–271, §3022(b)(2)(A)(i), inserted "or (3)" after "paragraph (2)" in introductory provisions.
+
+Subsec. (b)(1)(D). Pub. L. 115–271, §3022(b)(2)(A)(ii)–(v), added subpar. (D).
+
+Subsec. (b)(3). Pub. L. 115–271, §3022(b)(2)(B)(i), inserted "or drug" after "food" in heading.
+
+Subsec. (b)(3)(C), (D). Pub. L. 115–271, §3022(b)(2)(B)(ii)–(iv), added subpars. (C) and (D).
+
+Subsec. (b)(5). Pub. L. 115–271, §3022(b)(2)(C), added par. (5).
 
 **2002**—Subsec. (a). Pub. L. 107–188, §304(b)(1), substituted "Mandatory debarment; certain drug applications" for "Mandatory debarment" in heading.
 

@@ -86,15 +86,11 @@ Sec.
 
 #### Part A—Projects Regarding Abandonment of Infants and Young Children in Hospitals ####
 
-5117aa–11. Establishment of local projects.
-
-5117aa–12. Evaluations, study, and reports by Secretary.
+5117aa–11, 5117aa–12. Repealed.
 
 #### Part B—General Provisions ####
 
-5117aa–21. Definitions.
-
-5117aa–22. Authorization of appropriations.
+5117aa–21, 5117aa–22. Repealed.
 
 #### SUBCHAPTER V—CERTAIN PREVENTIVE SERVICES REGARDING CHILDREN OF HOMELESS FAMILIES OR FAMILIES AT RISK OF HOMELESSNESS ####
 

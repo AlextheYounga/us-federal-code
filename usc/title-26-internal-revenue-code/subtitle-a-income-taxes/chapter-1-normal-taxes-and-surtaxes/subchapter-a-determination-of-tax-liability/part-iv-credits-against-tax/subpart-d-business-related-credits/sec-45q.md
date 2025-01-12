@@ -300,6 +300,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2018**—Internal Revenue Notice 2018–40.
+
 **2017**—Internal Revenue Notice 2017–32.
 
 **2016**—Internal Revenue Notice 2016–53.

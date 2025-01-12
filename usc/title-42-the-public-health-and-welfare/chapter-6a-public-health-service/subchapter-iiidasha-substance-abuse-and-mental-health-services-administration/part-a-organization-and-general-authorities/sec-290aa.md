@@ -624,6 +624,94 @@ shall continue in effect according to their terms until modified, terminated, su
 
 "With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) [42 U.S.C. 284(a)], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute's advisory council."
 
+#### Interdepartmental Substance Use Disorders Coordinating Committee ####
+
+Pub. L. 115–271, title VII, §7022, Oct. 24, 2018, 132 Stat. 4010, provided that:
+
+"(a) Establishment.—Not later than 3 months after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall, in coordination with the Director of National Drug Control Policy, establish a committee, to be known as the Interdepartmental Substance Use Disorders Coordinating Committee (in this section referred to as the 'Committee'), to coordinate Federal activities related to substance use disorders.
+
+"(b) Membership.—
+
+"(1) Federal members.—The Committee shall be composed of the following Federal representatives, or the designees of such representatives:
+
+"(A) The Secretary, who shall serve as the Chair of the Committee.
+
+"(B) The Attorney General of the United States.
+
+"(C) The Secretary of Labor.
+
+"(D) The Secretary of Housing and Urban Development.
+
+"(E) The Secretary of Education.
+
+"(F) The Secretary of Veterans Affairs.
+
+"(G) The Commissioner of Social Security.
+
+"(H) The Assistant Secretary for Mental Health and Substance Use.
+
+"(I) The Director of National Drug Control Policy.
+
+"(J) Representatives of other Federal agencies that support or conduct activities or programs related to substance use disorders, as determined appropriate by the Secretary.
+
+"(2) Non-federal members.—The Committee shall include a minimum of 15 non-Federal members appointed by the Secretary, of which—
+
+"(A) at least two such members shall be an individual who has received treatment for a diagnosis of a substance use disorder;
+
+"(B) at least two such members shall be a director of a State substance abuse agency;
+
+"(C) at least two such members shall be a representative of a leading research, advocacy, or service organization for adults with substance use disorder;
+
+"(D) at least two such members shall—
+
+"(i) be a physician, licensed mental health professional, advance practice registered nurse, or physician assistant; and
+
+"(ii) have experience in treating individuals with substance use disorders;
+
+"(E) at least one such member shall be a substance use disorder treatment professional who provides treatment services at a certified opioid treatment program;
+
+"(F) at least one such member shall be a substance use disorder treatment professional who has research or clinical experience in working with racial and ethnic minority populations;
+
+"(G) at least one such member shall be a substance use disorder treatment professional who has research or clinical mental health experience in working with medically underserved populations;
+
+"(H) at least one such member shall be a State-certified substance use disorder peer support specialist;
+
+"(I) at least one such member shall be a drug court judge or a judge with experience in adjudicating cases related to substance use disorder;
+
+"(J) at least one such member shall be a public safety officer with extensive experience in interacting with adults with a substance use disorder; and
+
+"(K) at least one such member shall be an individual with experience providing services for homeless individuals with a substance use disorder.
+
+"(c) Terms.—
+
+"(1) In general.—A member of the Committee appointed under subsection (b)(2) shall be appointed for a term of 3 years and may be reappointed for one or more 3-year terms.
+
+"(2) Vacancies.—A vacancy on the Committee shall be filled in the same manner in which the original appointment was made. Any individual appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and may serve after the expiration of such term until a successor has been appointed.
+
+"(d) Meetings.—The Committee shall meet not fewer than two times each year.
+
+"(e) Duties.—The Committee shall—
+
+"(1) identify areas for improved coordination of activities, if any, related to substance use disorders, including research, services, supports, and prevention activities across all relevant Federal agencies;
+
+"(2) identify and provide to the Secretary recommendations for improving Federal programs for the prevention and treatment of, and recovery from, substance use disorders, including by expanding access to prevention, treatment, and recovery services;
+
+"(3) analyze substance use disorder prevention and treatment strategies in different regions of and populations in the United States and evaluate the extent to which Federal substance use disorder prevention and treatment strategies are aligned with State and local substance use disorder prevention and treatment strategies;
+
+"(4) make recommendations to the Secretary regarding any appropriate changes with respect to the activities and strategies described in paragraphs (1) through (3);
+
+"(5) make recommendations to the Secretary regarding public participation in decisions relating to substance use disorders and the process by which public feedback can be better integrated into such decisions; and
+
+"(6) make recommendations to ensure that substance use disorder research, services, supports, and prevention activities of the Department of Health and Human Services and other Federal agencies are not unnecessarily duplicative.
+
+"(f) Annual Report.—Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], and annually thereafter for the life of the Committee, the Committee shall publish on the Internet website of the Department of Health and Human Services, which may include the public information dashboard established under section 1711 of the Public Health Service Act [42 U.S.C. 300u–16], as added by section 7021, a report summarizing the activities carried out by the Committee pursuant to subsection (e), including any findings resulting from such activities.
+
+"(g) Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
+
+"(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
+
+"(i) Sunset.—The Committee shall terminate on the date that is 6 years after the date on which the Committee is established under subsection (a)."
+
 #### Improving Oversight of Mental and Substance Use Disorders Programs Through the Assistant Secretary for Planning and Evaluation ####
 
 Pub. L. 114–255, div. B, title VI, §6021, Dec. 13, 2016, 130 Stat. 1215, provided that:

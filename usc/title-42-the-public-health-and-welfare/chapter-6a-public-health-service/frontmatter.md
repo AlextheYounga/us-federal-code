@@ -200,6 +200,8 @@ Sec.
 
 242s. Centers for Disease Control and Prevention Office of Women's Health.
 
+242t. CDC surveillance and data collection for child, youth, and adult trauma.
+
 #### Part B—Federal-State Cooperation ####
 
 243. General grant of authority for cooperation.
@@ -266,7 +268,7 @@ Sec.
 
 247b–14a. Identification of interventions that reduce the burden and transmission of oral, dental, and craniofacial diseases in high risk populations; development of approaches for pediatric oral and craniofacial assessment.
 
-247b–15. Surveillance and education regarding hepatitis C virus.
+247b–15. Surveillance and education regarding infections associated with illicit drug use and other risk factors.
 
 247b–16. Grants for lead poisoning related activities.
 
@@ -299,6 +301,8 @@ Sec.
 247d–3b. Partnerships for State and regional hospital preparedness to improve surge capacity.
 
 247d–4. Revitalizing the Centers for Disease Control and Prevention.
+
+247d–4a. Infectious Diseases Rapid Response Reserve Fund.
 
 247d–5. Combating antimicrobial resistance.
 
@@ -333,6 +337,8 @@ Sec.
 247d–8. Coordinated program to improve pediatric oral health.
 
 247d–9. Dental education for parents of newborns.
+
+247d–10. Pilot program for public health laboratories to detect fentanyl and other synthetic opioids.
 
 #### Part C—Hospitals, Medical Examinations, and Medical Care ####
 
@@ -467,6 +473,8 @@ Sec.
 254t. Demonstration project.
 
 254u. Public health departments.
+
+254v. Clarification regarding service in schools and other community-based settings.
 
 #### subpart iv—home health services ####
 
@@ -628,7 +636,9 @@ Sec.
 
 280b. Research.
 
-280b–1. Prevention and control activities.
+280b–0. Prevention and control activities.
+
+280b–1. Preventing overdoses of controlled substances.
 
 280b–1a. Interpersonal violence within families and among acquaintances.
 
@@ -708,7 +718,7 @@ Sec.
 
 280g–2. Childhood malignancies.
 
-280g–3. Controlled substance monitoring program.
+280g–3. Prescription drug monitoring program.
 
 280g–4. Grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking.
 
@@ -755,6 +765,10 @@ Sec.
 280h–5. School-based health centers.
 
 280h–6. Infant and early childhood mental health promotion, intervention, and treatment.
+
+280h–7. Grants to improve trauma support services and mental health care for children and youth in educational settings.
+
+280h–8. Recognizing early childhood trauma related to substance abuse.
 
 #### Part R—Programs Relating to Autism ####
 
@@ -1388,11 +1402,15 @@ Sec.
 
 290bb–6. Action by Center for Substance Abuse Treatment and States concerning military facilities.
 
-290bb–7. Substance use disorder treatment and early intervention services for children and adolescents.
+290bb–7. Substance use disorder treatment and early intervention services for children, adolescents, and young adults.
+
+290bb–7a. Youth prevention and recovery.
 
 290bb–8, 290bb–9. Repealed.
 
 290bb–10. Evidence-based prescription opioid and heroin treatment and interventions demonstration.
+
+290bb–11. Building capacity for family-focused residential treatment.
 
 #### subpart 2—center for substance abuse prevention ####
 
@@ -1502,15 +1520,31 @@ Sec.
 
 290dd–3. Grants for reducing overdose deaths.
 
+290dd–4. Program to support coordination and continuation of care for drug overdose patients.
+
 290ee. Opioid overdose reversal medication access and education grant programs.
 
 290ee–1. First responder training.
 
 290ee–2. Building communities of recovery.
 
+290ee–2a. Peer support technical assistance center.
+
 290ee–3. State demonstration grants for comprehensive opioid abuse response.
 
 290ee–4. Mental and behavioral health outreach and education on college campuses.
+
+290ee–5. National recovery housing best practices.
+
+290ee–6. Regional Centers of Excellence in Substance Use Disorder Education.
+
+290ee–7. Comprehensive opioid recovery centers.
+
+290ee–8. Career Act.
+
+290ee–9. Services for families and patients in crisis.
+
+290ee–10. Sobriety treatment and recovery teams.
 
 #### Part E—Children With Serious Emotional Disturbances ####
 
@@ -1790,7 +1824,11 @@ Sec.
 
 295f–3. Fellowship training in applied public health epidemiology, public health laboratory science, public health informatics, and expansion of the Epidemic Intelligence Service.
 
-#### Part F—General Provisions ####
+#### Part F—Substance Use Disorder Treatment Workforce ####
+
+295h. Loan repayment program for substance use disorder treatment workforce.
+
+#### Part G—General Provisions ####
 
 295j. Preferences and required information in certain programs.
 
@@ -2445,6 +2483,8 @@ Sec.
 300u–14. Healthy aging, living well; evaluation of community-based prevention and wellness programs for Medicare beneficiaries.
 
 300u–15. Research on optimizing the delivery of public health services.
+
+300u–16. Establishment of substance use disorder information dashboard.
 
 #### SUBCHAPTER XVI—PRESIDENT'S COMMISSION FOR THE STUDY OF ETHICAL PROBLEMS IN MEDICINE AND BIOMEDICAL AND BEHAVIOR RESEARCH ####
 

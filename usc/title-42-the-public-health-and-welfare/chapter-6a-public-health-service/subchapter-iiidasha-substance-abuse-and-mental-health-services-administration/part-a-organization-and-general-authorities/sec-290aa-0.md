@@ -22,9 +22,15 @@ The Laboratory shall—
 
 (B) identify any such programs or activities that are not evidence-based, effective, or efficient; and
 
-(C) formulate recommendations for coordinating, eliminating, or improving programs or activities identified under subparagraph (A) or (B) and merging such programs or activities into other successful programs or activities; and
+(C) formulate recommendations for coordinating, eliminating, or improving programs or activities identified under subparagraph (A) or (B) and merging such programs or activities into other successful programs or activities;
 
-(6) carry out other activities as deemed necessary to continue to encourage innovation and disseminate evidence-based programs and practices.
+(6) issue and periodically update information for entities applying for grants or cooperative agreements from the Substance Abuse and Mental Health Services Administration in order to—
+
+(A) encourage the implementation and replication of evidence-based practices; and
+
+(B) provide technical assistance to applicants for funding, including with respect to justifications for such programs and activities; and
+
+(7) carry out other activities as deemed necessary to continue to encourage innovation and disseminate evidence-based programs and practices.
 
 #### (c) Evidence-based practices and service delivery models ####
 
@@ -90,4 +96,8 @@ There are authorized to be appropriated—
 
 (B) to carry out paragraph (1)(B), $7,000,000 for the period of fiscal years 2018 through 2020.
 
-(July 1, 1944, ch. 373, title V, §501A, as added Pub. L. 114–255, div. B, title VII, §7001, Dec. 13, 2016, 130 Stat. 1220.)
+(July 1, 1944, ch. 373, title V, §501A, as added Pub. L. 114–255, div. B, title VII, §7001, Dec. 13, 2016, 130 Stat. 1220; amended Pub. L. 115–271, title VII, §7111, Oct. 24, 2018, 132 Stat. 4042.)
+
+#### Amendments ####
+
+**2018**—Subsec. (b)(6), (7). Pub. L. 115–271 added par. (6) and redesignated former par. (6) as (7).

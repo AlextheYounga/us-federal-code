@@ -24,7 +24,7 @@ Sec.
 
 7706. Authorization of appropriations.
 
-7707. Advanced National Seismic Research and Monitoring System.
+7707. Advanced National Seismic System.
 
 7708. Network for Earthquake Engineering Simulation.
 

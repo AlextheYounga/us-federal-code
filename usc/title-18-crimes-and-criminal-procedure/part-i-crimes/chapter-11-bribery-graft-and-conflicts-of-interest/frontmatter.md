@@ -40,7 +40,9 @@ Sec.
 
 219. Officers and employees acting as agents of foreign principals.
 
-[220 to 222. Renumbered.]
+220. Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories.
+
+[221, 222. Renumbered.]
 
 [223. Repealed.]
 
@@ -53,6 +55,8 @@ Sec.
 227. Wrongfully influencing a private entity's employment decisions by a Member of Congress or an officer or employee of the legislative or executive branch.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–271, title VIII, §8122(b), Oct. 24, 2018, 132 Stat. 4110, added item 220.
 
 **2012**—Pub. L. 112–105, §18(b), Apr. 4, 2012, 126 Stat. 304, inserted "or an officer or employee of the legislative or executive branch" after "Congress" in item 227.
 

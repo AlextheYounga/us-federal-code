@@ -86,6 +86,76 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of Title 38, Veterans' Benefits.
 
+#### Jessie's Law ####
+
+Pub. L. 115–271, title VII, §§7051–7053, Oct. 24, 2018, 132 Stat. 4017, 4018, provided that:
+
+#### "SEC. 7051. INCLUSION OF OPIOID ADDICTION HISTORY IN PATIENT RECORDS. ####
+
+"(a) Best Practices.—
+
+"(1) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the 'Secretary'), in consultation with appropriate stakeholders, including a patient with a history of opioid use disorder, an expert in electronic health records, an expert in the confidentiality of patient health information and records, and a health care provider, shall identify or facilitate the development of best practices regarding—
+
+"(A) the circumstances under which information that a patient has provided to a health care provider regarding such patient's history of opioid use disorder should, only at the patient's request, be prominently displayed in the medical records (including electronic health records) of such patient;
+
+"(B) what constitutes the patient's request for the purpose described in subparagraph (A); and
+
+"(C) the process and methods by which the information should be so displayed.
+
+"(2) Dissemination.—The Secretary shall disseminate the best practices developed under paragraph (1) to health care providers and State agencies.
+
+"(b) Requirements.—In identifying or facilitating the development of best practices under subsection (a), as applicable, the Secretary, in consultation with appropriate stakeholders, shall consider the following:
+
+"(1) The potential for addiction relapse or overdose, including overdose death, when opioid medications are prescribed to a patient recovering from opioid use disorder.
+
+"(2) The benefits of displaying information about a patient's opioid use disorder history in a manner similar to other potentially lethal medical concerns, including drug allergies and contraindications.
+
+"(3) The importance of prominently displaying information about a patient's opioid use disorder when a physician or medical professional is prescribing medication, including methods for avoiding alert fatigue in providers.
+
+"(4) The importance of a variety of appropriate medical professionals, including physicians, nurses, and pharmacists, having access to information described in this section when prescribing or dispensing opioid medication, consistent with Federal and State laws and regulations.
+
+"(5) The importance of protecting patient privacy, including the requirements related to consent for disclosure of substance use disorder information under all applicable laws and regulations.
+
+"(6) All applicable Federal and State laws and regulations.
+
+#### "SEC. 7052. COMMUNICATION WITH FAMILIES DURING EMERGENCIES. ####
+
+"(a) Promoting Awareness of Authorized Disclosures During Emergencies.—The Secretary of Health and Human Services shall annually notify health care providers regarding permitted disclosures under Federal health care privacy law during emergencies, including overdoses, of certain health information to families, caregivers, and health care providers.
+
+"(b) Use of Material.—For the purposes of carrying out subsection (a), the Secretary of Health and Human Services may use material produced under section 7053 of this Act or section 11004 of the 21st Century Cures Act (42 U.S.C. 1320d–2 note).
+
+#### "SEC. 7053. DEVELOPMENT AND DISSEMINATION OF MODEL TRAINING PROGRAMS FOR SUBSTANCE USE DISORDER PATIENT RECORDS. ####
+
+"(a) Initial Programs and Materials.—Not later than 1 year after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the 'Secretary'), in consultation with appropriate experts, shall identify the following model programs and materials (or if no such programs or materials exist, recognize private or public entities to develop and disseminate such programs and materials):
+
+"(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) concerning the permitted uses and disclosures, consistent with the standards and regulations governing the privacy and security of substance use disorder patient records promulgated by the Secretary under section 543 of the Public Health Service Act (42 U.S.C. 290dd–2) for the confidentiality of patient records.
+
+"(2) Model programs and materials for training patients and their families regarding their rights to protect and obtain information under the standards and regulations described in paragraph (1).
+
+"(b) Requirements.—The model programs and materials described in paragraphs (1) and (2) of subsection (a) shall address circumstances under which disclosure of substance use disorder patient records is needed to—
+
+"(1) facilitate communication between substance use disorder treatment providers and other health care providers to promote and provide the best possible integrated care;
+
+"(2) avoid inappropriate prescribing that can lead to dangerous drug interactions, overdose, or relapse; and
+
+"(3) notify and involve families and caregivers when individuals experience an overdose.
+
+"(c) Periodic Updates.—The Secretary shall—
+
+"(1) periodically review and update the model program and materials identified or developed under subsection (a); and
+
+"(2) disseminate such updated programs and materials to the individuals described in subsection (a)(1).
+
+"(d) Input of Certain Entities.—In identifying, reviewing, or updating the model programs and materials under this section, the Secretary shall solicit the input of relevant stakeholders.
+
+"(e) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section—
+
+"(1) $4,000,000 for fiscal year 2019;
+
+"(2) $2,000,000 for each of fiscal years 2020 and 2021; and
+
+"(3) $1,000,000 for each of fiscal years 2022 and 2023."
+
 #### Report of Administrator of Veterans' Affairs to Congressional Committees; Publication in Federal Register ####
 
 Pub. L. 93–282, title I, §121(b), May 14, 1974, 88 Stat. 131, which directed Administrator of Veterans' Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 [former 42 U.S.C. 290dd–2(b)(2)], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act [42 U.S.C. 290dd–2(b)(1)], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator's regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) [42 U.S.C. 290dd–2(b)(1)], and to publish such report in Federal Register, was characterized by section 111(c)(5) of Pub. L. 94–581 as having been superseded by section 4134 [now 7334] of Title 38, Veterans' Benefits.

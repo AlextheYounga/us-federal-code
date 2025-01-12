@@ -40,18 +40,4 @@ Sec.
 
 #### Part B—Advisory Commission ####
 
-1541. Establishment of Advisory Commission.
-
-1542. Duties.
-
-1543. Membership.
-
-1544. Compensation.
-
-1545. Terms of office.
-
-1546. Meetings.
-
-1547. Staff.
-
-1548. Termination.
+1541 to 1548. Repealed.

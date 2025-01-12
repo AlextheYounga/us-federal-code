@@ -54,20 +54,48 @@ The Committee shall meet at the call of the chairperson of the Committee or upon
 
 The Committee shall—
 
-(A) develop a summary of advances in pain care research supported or conducted by the Federal agencies relevant to the diagnosis, prevention, and treatment of pain and diseases and disorders associated with pain;
+(A) develop a summary of advances in pain care research supported or conducted by the Federal agencies relevant to the diagnosis, prevention, treatment, and management of pain and diseases and disorders associated with pain, including information on best practices for the utilization of non-pharmacologic treatments, non-addictive medical products, and other drugs or devices approved or cleared by the Food and Drug Administration;
 
-(B) identify critical gaps in basic and clinical research on the symptoms and causes of pain;
+(B) identify critical gaps in basic and clinical research on—
 
-(C) make recommendations to ensure that the activities of the National Institutes of Health and other Federal agencies are free of unnecessary duplication of effort;
+(i) the symptoms and causes of pain, including the identification of relevant biomarkers and screening models and the epidemiology of acute and chronic pain;
 
-(D) make recommendations on how best to disseminate information on pain care; and
+(ii) the diagnosis, prevention, treatment, and management of acute and chronic pain, including with respect to non-pharmacologic treatments, non-addictive medical products, and other drugs or devices approved or cleared by the Food and Drug Administration; and
 
-(E) make recommendations on how to expand partnerships between public entities and private entities to expand collaborative, cross-cutting research.
+(iii) risk factors for, and early warning signs of, substance use disorders in populations with acute and chronic pain; and
 
-#### (6) Review ####
+(C) make recommendations to the Director of NIH—
+
+(i) to ensure that the activities of the National Institutes of Health and other Federal agencies are free of unnecessary duplication of effort;
+
+(ii) on how best to disseminate information on pain care and epidemiological data related to acute and chronic pain; and
+
+(iii) on how to expand partnerships between public entities and private entities to expand collaborative, cross-cutting research.
+
+#### (6) Report ####
+
+The Secretary shall ensure that recommendations and actions taken by the Director with respect to the topics discussed at the meetings described in paragraph (4) are included in appropriate reports to Congress.
+
+#### (7) Review ####
 
 The Secretary shall review the necessity of the Committee at least once every 2 years.
 
-(July 1, 1944, ch. 373, title IV, §409J, as added Pub. L. 111–148, title IV, §4305(b), Mar. 23, 2010, 124 Stat. 585.)
+(July 1, 1944, ch. 373, title IV, §409J, as added Pub. L. 111–148, title IV, §4305(b), Mar. 23, 2010, 124 Stat. 585; amended Pub. L. 115–271, title VII, §7042, Oct. 24, 2018, 132 Stat. 4016.)
+
+#### Amendments ####
+
+**2018**—Subsec. (b)(5)(A). Pub. L. 115–271, §7042(1)(A), substituted "treatment, and management of pain and diseases and disorders associated with pain, including information on best practices for the utilization of non-pharmacologic treatments, non-addictive medical products, and other drugs or devices approved or cleared by the Food and Drug Administration" for "and treatment of pain and diseases and disorders associated with pain".
+
+Subsec. (b)(5)(B). Pub. L. 115–271, §7042(1)(B), substituted "on—" and cls. (i) to (iii) for "on the symptoms and causes of pain;".
+
+Subsec. (b)(5)(C) to (E). Pub. L. 115–271, §7042(1)(C), added subpar. (C) and struck out former subpars. (C) to (E) which read as follows:
+
+"(C) make recommendations to ensure that the activities of the National Institutes of Health and other Federal agencies are free of unnecessary duplication of effort;
+
+"(D) make recommendations on how best to disseminate information on pain care; and
+
+"(E) make recommendations on how to expand partnerships between public entities and private entities to expand collaborative, cross-cutting research."
+
+Subsec. (b)(6), (7). Pub. L. 115–271, §7042(2), (3), added par. (6) and redesignated former par. (6) as (7).
 
 [<sup>1</sup> So in original. Probably should be "appointed".](#284q_1)

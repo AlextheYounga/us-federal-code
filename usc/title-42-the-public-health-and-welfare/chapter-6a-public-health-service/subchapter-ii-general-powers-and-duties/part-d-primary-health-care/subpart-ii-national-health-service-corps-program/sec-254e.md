@@ -86,7 +86,25 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 (3) Each regulation described in paragraph (1) shall take effect 180 days after the committees described in paragraph (2) receive a report referred to in such paragraph describing the regulation.
 
-(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §3(b), Oct. 8, 2008, 122 Stat. 3993.)
+#### (k) Maternity care health professional target areas ####
+
+(1) The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall identify, based on the data collected under paragraph (3), maternity care health professional target areas that satisfy the criteria described in paragraph (2) for purposes of, in connection with receipt of assistance under this subchapter, assigning to such identified areas maternity care health professionals who, without application of this subsection, would otherwise be eligible for such assistance. The Secretary shall distribute maternity care health professionals within health professional shortage areas using the maternity care health professional target areas so identified.
+
+(2) For purposes of paragraph (1), the Secretary shall establish criteria for maternity care health professional target areas that identify geographic areas within health professional shortage areas that have a shortage of maternity care health professionals.
+
+(3) For purposes of this subsection, the Secretary shall collect and publish in the Federal Register data comparing the availability and need of maternity care health services in health professional shortage areas and in areas within such health professional shortage areas.
+
+(4) In carrying out paragraph (1), the Secretary shall seek input from relevant provider organizations, including medical societies, organizations representing medical facilities, and other organizations with expertise in maternity care.
+
+(5) For purposes of this subsection, the term 'full scope maternity care health services' includes during labor care, birthing, prenatal care, and postpartum care.
+
+(6) Nothing in this subsection shall be construed as—
+
+(A) requiring the identification of a maternity care health professional target area in an area not otherwise already designated as a health professional shortage area; or
+
+(B) affecting the types of health professionals, without application of this subsection, otherwise eligible for assistance, including a loan repayment or scholarship, pursuant to the application of this section.
+
+(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §3(b), Oct. 8, 2008, 122 Stat. 3993; Pub. L. 115–320, §2, Dec. 17, 2018, 132 Stat. 4437.)
 
 #### References in Text ####
 
@@ -99,6 +117,8 @@ The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch
 A prior section 332 of act July 1, 1944, was renumbered section 340, and was classified to section 256 of this title prior to repeal by Pub. L. 95–626.
 
 #### Amendments ####
+
+**2018**—Subsec. (k). Pub. L. 115–320 added subsec. (k).
 
 **2008**—Subsec. (a)(1). Pub. L. 110–355 struck out "Not earlier than 6 years after such date of designation, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations regarding the definition of a health professional shortage area for purposes of this section." before "The Secretary shall not".
 

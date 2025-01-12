@@ -32,15 +32,19 @@ The Director of the Center shall—
 
 (12) evaluate treatment programs to determine the quality and appropriateness of various forms of treatment, which shall be carried out through grants, contracts, or cooperative agreements provided to public or nonprofit private entities;
 
-(13) ensure the consistent documentation of the application of criteria when awarding grants and the ongoing oversight of grantees after such grants are awarded; and
+(13) ensure the consistent documentation of the application of criteria when awarding grants and the ongoing oversight of grantees after such grants are awarded;
 
-(14) work with States, providers, and individuals in recovery, and their families, to promote the expansion of recovery support services and systems of care oriented toward recovery.
+(14) work with States, providers, and individuals in recovery, and their families, to promote the expansion of recovery support services and systems of care oriented toward recovery;
+
+(15) in cooperation with the Secretary, implement and disseminate, as appropriate, the recommendations in the report entitled "Protecting Our Infants Act: Final Strategy" issued by the Department of Health and Human Services in 2017; and
+
+(16) in cooperation with relevant stakeholders, and through public-private partnerships, encourage education about substance use disorders for pregnant women and health care providers who treat pregnant women and babies.
 
 #### (c) Grants and contracts ####
 
 In carrying out the duties established in subsection (b), the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §507, as added Pub. L. 102–321, title I, §107(2), July 10, 1992, 106 Stat. 335; amended Pub. L. 106–310, div. B, title XXXI, §3112(a), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 108–173, title IX, §900(e)(2)(B), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 114–255, div. B, title VI, §6007(c), Dec. 13, 2016, 130 Stat. 1214.)
+(July 1, 1944, ch. 373, title V, §507, as added Pub. L. 102–321, title I, §107(2), July 10, 1992, 106 Stat. 335; amended Pub. L. 106–310, div. B, title XXXI, §3112(a), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 108–173, title IX, §900(e)(2)(B), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 114–255, div. B, title VI, §6007(c), Dec. 13, 2016, 130 Stat. 1214; Pub. L. 115–271, title VII, §7063(b), (c), Oct. 24, 2018, 132 Stat. 4020.)
 
 #### Prior Provisions ####
 
@@ -49,6 +53,10 @@ A prior section 290bb, act July 1, 1944, ch. 373, title V, §510, formerly Pub. 
 A prior section 507 of act July 1, 1944, which was classified to section 290aa–5 of this title, was renumbered section 504 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290aa–3 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (b)(15). Pub. L. 115–271, §7063(b), added subsec. (b)(15).
+
+Subsec. (b)(16). Pub. L. 115–271, §7063(c), added par. (16).
 
 **2016**—Subsec. (a). Pub. L. 114–255, §6007(c)(1), substituted "treatment of substance use disorders" for "treatment of substance abuse" and "use disorder treatment systems" for "abuse treatment systems".
 

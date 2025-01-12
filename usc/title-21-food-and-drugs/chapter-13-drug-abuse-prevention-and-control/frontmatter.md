@@ -48,9 +48,13 @@ Sec.
 
 829. Prescriptions.
 
+829a. Delivery of a controlled substance by a pharmacy to an administering practitioner.
+
 830. Regulation of listed chemicals and certain machines.
 
 831. Additional requirements relating to online pharmacies and telemedicine.
+
+832. Suspicious orders.
 
 #### Part D—Offenses and Penalties ####
 

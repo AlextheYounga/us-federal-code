@@ -20,11 +20,7 @@ Sec.
 
 #### SUBCHAPTER II—TRAFFIC IN INTOXICATING LIQUORS ####
 
-241 to 250. Repealed.
-
-251. Setting up distillery.
-
-252. Repealed.
+241 to 252. Repealed.
 
 253. Wines for sacramental purposes.
 

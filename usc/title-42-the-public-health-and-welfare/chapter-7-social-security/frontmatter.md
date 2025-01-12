@@ -998,6 +998,8 @@ Sec.
 
 1395cc–5. Independence at home medical practice demonstration program.
 
+1395cc–6. Opioid use disorder treatment demonstration program.
+
 1395dd. Examination and treatment for emergency medical conditions and women in labor.
 
 1395ee. Practicing Physicians Advisory Council; Council for Technology and Innovation.
@@ -1181,6 +1183,8 @@ Sec.
 1396w–2. Authorization to receive relevant information.
 
 1396w–3. Enrollment simplification and coordination with State health insurance exchanges.
+
+1396w–3a. Requirements relating to qualified prescription drug monitoring programs and prescribing certain controlled substances.
 
 1396w–4. State option to provide coordinated care through a health home for individuals with chronic conditions.
 

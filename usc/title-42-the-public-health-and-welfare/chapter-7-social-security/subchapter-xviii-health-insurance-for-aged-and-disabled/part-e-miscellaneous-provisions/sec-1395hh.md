@@ -126,6 +126,26 @@ Pub. L. 101–508, title IV, §4207(j), formerly §4027(j), Nov. 5, 1990, 104 St
 
 Section 4039(g) of title IV of Pub. L. 100–203 provided that: "The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle and the amendments made by this subtitle [subtitle A (§§4001–4097) of title IV of Pub. L. 100–203, see Tables for classification]."
 
+#### Requiring the Posting and Periodic Update of Opioid Prescribing Guidance for Medicare Beneficiaries ####
+
+Pub. L. 115–271, title VI, §6095, Oct. 24, 2018, 132 Stat. 4003, provided that:
+
+"(a) In General.—Not later than 180 days after the date of the enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall post on the public website of the Centers for Medicare & Medicaid Services all guidance published by the Department of Health and Human Services on or after January 1, 2016, relating to the prescribing of opioids and applicable to opioid prescriptions for individuals entitled to benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) or enrolled under part B of such title of such Act (42 U.S.C. 1395j et seq.).
+
+"(b) Update of Guidance.—
+
+"(1) Periodic update.—The Secretary shall, in consultation with the entities specified in paragraph (2), periodically (as determined appropriate by the Secretary) update guidance described in subsection (a) and revise the posting of such guidance on the website described in such subsection.
+
+"(2) Consultation.—The entities specified in this paragraph are the following:
+
+"(A) Medical professional organizations.
+
+"(B) Providers and suppliers of services (as such terms are defined in section 1861 of the Social Security Act (42 U.S.C. 1395x)).
+
+"(C) Health care consumers or groups representing such consumers.
+
+"(D) Other entities determined appropriate by the Secretary."
+
 #### GAO Study on Advisory Opinion Authority ####
 
 Pub. L. 108–173, title IX, §904(a), Dec. 8, 2003, 117 Stat. 2377, provided that:

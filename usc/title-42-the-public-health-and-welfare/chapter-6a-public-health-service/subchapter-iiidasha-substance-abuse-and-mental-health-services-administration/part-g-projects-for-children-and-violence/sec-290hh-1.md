@@ -46,19 +46,21 @@ With respect to a grant, contract or cooperative agreement under subsection (a),
 
 #### (j) Authorization of appropriations ####
 
-There is authorized to be appropriated to carry out this section, $46,887,000 for each of fiscal years 2018 through 2022.
+There is authorized to be appropriated to carry out this section, $63,887,000 for each of fiscal years 2019 through 2023.
 
 #### (k) Short title ####
 
 This section may be cited as the "Donald J. Cohen National Child Traumatic Stress Initiative".
 
-(July 1, 1944, ch. 373, title V, §582, as added Pub. L. 106–310, div. B, title XXXI, §3101, Oct. 17, 2000, 114 Stat. 1169; amended Pub. L. 107–116, title II, §218, Jan. 10, 2002, 115 Stat. 2201; Pub. L. 107–188, title I, §155, June 12, 2002, 116 Stat. 633; Pub. L. 114–255, div. B, title X, §10004, Dec. 13, 2016, 130 Stat. 1265.)
+(July 1, 1944, ch. 373, title V, §582, as added Pub. L. 106–310, div. B, title XXXI, §3101, Oct. 17, 2000, 114 Stat. 1169; amended Pub. L. 107–116, title II, §218, Jan. 10, 2002, 115 Stat. 2201; Pub. L. 107–188, title I, §155, June 12, 2002, 116 Stat. 633; Pub. L. 114–255, div. B, title X, §10004, Dec. 13, 2016, 130 Stat. 1265; Pub. L. 115–271, title VII, §7133, Oct. 24, 2018, 132 Stat. 4051.)
 
 #### Codification ####
 
 Another section 582 of act July 1, 1944, is classified to section 290kk–1 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (j). Pub. L. 115–271 substituted "$63,887,000 for each of fiscal years 2019 through 2023" for "$46,887,000 for each of fiscal years 2018 through 2022".
 
 **2016**—Subsec. (a). Pub. L. 114–255, §10004(1), substituted "developing and maintaining programs that provide for—" and pars. (1) and (2) for "developing programs focusing on the behavioral and biological aspects of psychological trauma response and for developing knowledge with regard to evidence-based practices for treating psychiatric disorders of children and youth resulting from witnessing or experiencing a traumatic event."
 

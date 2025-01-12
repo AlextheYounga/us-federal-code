@@ -94,7 +94,11 @@ Coordination of the administration of the State program under this subchapter wi
 
 In the case of a State that provides for premium assistance subsidies under the State child health plan in accordance with paragraph (2)(B), (3), or (10) of section 1397ee(c) of this title, or a waiver approved under section 1315 of this title, outreach, education, and enrollment assistance for families of children likely to be eligible for such subsidies, to inform such families of the availability of, and to assist them in enrolling their children in, such subsidies, and for employers likely to provide coverage that is eligible for such subsidies, including the specific, significant resources the State intends to apply to educate employers about the availability of premium assistance subsidies under the State child health plan.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754.)
+(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, §5022(c), Oct. 24, 2018, 132 Stat. 3964.)
+
+#### Amendment of Subsection (a)(7)(B) ####
+
+Pub. L. 115–271, title V, §5022(c), (e), Oct. 24, 2018, 132 Stat. 3964, 3965, provided that, effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, subsection (a)(7)(B) of this section is amended by striking "section 1397cc(c)(5)" and inserting "paragraphs (5) and (6) of section 1397cc(c)". See 2018 Amendment note below.
 
 #### References in Text ####
 
@@ -103,6 +107,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is class
 Section 1603(c) of title 25, referred to in subsec. (b)(3)(D), was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(7)(B). Pub. L. 115–271 substituted "paragraphs (5) and (6) of section 1397cc(c)" for "section 1397cc(c)(5)".
 
 **2016**—Subsec. (a)(7)(C). Pub. L. 114–198 added subpar. (C).
 
@@ -119,6 +125,14 @@ Subsec. (b)(4), (5). Pub. L. 111–3, §212, added par. (4) and redesignated for
 Subsec. (c)(1). Pub. L. 111–3, §201(b)(2)(B)(i), inserted "(through community health workers and others)" after "Outreach".
 
 Subsec. (c)(3). Pub. L. 111–3, §302(a), added par. (3).
+
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–271, title V, §5022(e), Oct. 24, 2018, 132 Stat. 3965, provided that:
+
+"(1) In general.—Subject to paragraph (2), the amendments made by this section [amending this section and sections 1397cc and 1397jj of this title] shall take effect with respect to child health assistance provided on or after the date that is 1 year after the date of the enactment of this Act [Oct. 24, 2018].
+
+"(2) Exception for state legislation.—In the case of a State child health plan under title XXI of the Social Security Act [42 U.S.C. 1397aa et seq.] (or a waiver of such plan), which the Secretary of Health and Human Services determines requires State legislation in order for the respective plan (or waiver) to meet any requirement imposed by the amendments made by this section, the respective plan (or waiver) shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this section [Oct. 24, 2018]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature."
 
 #### Effective Date of 2009 Amendment ####
 
