@@ -98,4 +98,4 @@ Not later than 3 fiscal years after the date on which funds are first made avail
 
 #### References in Text ####
 
-Proclamation Number 9233, referred to in subsec. (b)(1), (4), is Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10315, which appears in a table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 320301 of Title 54, National Park Service and Related Programs.
+Proclamation Number 9233 and Presidential Proclamation Number 9233, referred to in subsecs. (b)(1), (4), and (c)(5), is Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10315, which appears in a table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 320301 of Title 54, National Park Service and Related Programs.

@@ -20,7 +20,7 @@
 
 #### Effective Date of 2022 Amendment ####
 
-Pub. L. 117–263, div. E, title LIX, §5947(c), Dec. 23, 2022, 136 Stat. 3482, provided that: "The amendments made by this section [amending this section, section 112b of this title, and section 195c of Title 6, Domestic Security] shall take effect on the date that is 270 days after the date of the enactment of this Act."
+Pub. L. 117–263, div. E, title LIX, §5947(c), Dec. 23, 2022, 136 Stat. 3482, provided that: "The amendments made by this section [amending this section, section 112b of this title, and section 195c of Title 6, Domestic Security] shall take effect on the date that is 270 days after the date of the enactment of this Act [Dec. 23, 2022]."
 
 #### Effective Date of 2004 Amendment ####
 

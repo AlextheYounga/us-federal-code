@@ -1,4 +1,4 @@
-### §§2841, 2851 to 2856. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519 ###
+### §§2841 to 2856. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519 ###
 
 Section 2841, Pub. L. 88–452, title III, §301, Aug. 20, 1964, 78 Stat. 524; Pub. L. 90–222, title I, §105(b), Dec. 23, 1967, 81 Stat. 709; Pub. L. 95–568, §8(b)(1), Nov. 2, 1978, 92 Stat. 2428, set forth Congressional statement of purpose for special programs to combat poverty in rural areas.
 

@@ -1,4 +1,4 @@
-### §§729 to 729a, 731. Omitted ###
+### §§729 to 731. Omitted ###
 
 #### **Editorial Notes** ####
 

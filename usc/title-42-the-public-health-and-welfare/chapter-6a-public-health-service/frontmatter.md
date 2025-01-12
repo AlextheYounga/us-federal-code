@@ -448,7 +448,7 @@ Sec.
 
 254c–14. Telehealth network and telehealth resource centers grant programs.
 
-254c–15. Rural emergency medical service training and equipment assistance program.
+254c–15. Transferred.
 
 254c–16. Mental health services delivered via telehealth.
 
@@ -1630,7 +1630,7 @@ Sec.
 
 290ee–9. Services for families and patients in crisis.
 
-290ee–10. Transferred.
+290ee–10. Rural emergency medical service training and equipment assistance program.
 
 #### Part E—Children With Serious Emotional Disturbances ####
 

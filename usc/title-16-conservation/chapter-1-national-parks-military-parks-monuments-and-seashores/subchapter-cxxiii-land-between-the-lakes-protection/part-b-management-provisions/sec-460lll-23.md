@@ -18,7 +18,7 @@ No general entrance fees shall be charged within the Recreation Area.
 
 #### References in Text ####
 
-The Federal Lands Recreation Enhancement Act, referred to in subsec. (a), is title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, which is classified principally to chapter 87 (16 U.S.C. 6801 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Federal Lands Recreation Enhancement Act, referred to in subsec. (a), is title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, which is classified principally to chapter 87 (§6801 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments ####
 

@@ -66,7 +66,7 @@ Sec.
 
 547. Advisory Committee on Tribal and Indian Affairs.
 
-548. Advisory Committee on United States Outlying Areas and Freely Associated States 1
+548. Advisory Committee on United States Outlying Areas and Freely Associated States.
 
 #### **Editorial Notes** ####
 
@@ -97,5 +97,3 @@ Pub. L. 113–37, §2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and 
 **1994**—Pub. L. 103–446, title V, §510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
 
 **1992**—Pub. L. 102–405, title I, §105(b)(2), Oct. 9, 1992, 106 Stat. 1976, added item 543.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER5_1)

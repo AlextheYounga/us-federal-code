@@ -52,13 +52,15 @@ The term "State" means each of the several States, the District of Columbia, the
 
 #### (e) Sunset ####
 
-This section shall not apply after September 30, 2024.
+This section shall not apply after December 20, 2024.
 
-(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(a), Sept. 30, 2019, 133 Stat. 1111.)
+(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(a), Sept. 30, 2019, 133 Stat. 1111; Pub. L. 118–83, div. B, title II, §201(a), Sept. 26, 2024, 138 Stat. 1537.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Subsec. (e). Pub. L. 118–83 substituted "December 20, 2024" for "September 30, 2024".
 
 **2019**—Subsec. (a)(1). Pub. L. 116–60, §3(a)(1), substituted "adults with autism spectrum disorder" for "adults on autism spectrum disorder".
 
