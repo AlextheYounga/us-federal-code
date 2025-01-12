@@ -22,7 +22,11 @@ Sec.
 
 2280. Violence against maritime navigation.
 
+2280a. Violence against maritime navigation and maritime transport involving weapons of mass destruction.
+
 2281. Violence against maritime fixed platforms.
+
+2281a. Additional offenses against maritime fixed platforms.
 
 2282A. Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce.
 
@@ -35,6 +39,8 @@ Sec.
 2285. Operation of submersible vessel or semi-submersible vessel without nationality 2
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–23, title VIII, §§802(b), 804(b), June 2, 2015, 129 Stat. 307, 308, added items 2280a and 2281a.
 
 **2008**—Pub. L. 110–407, title I, §102(b), Oct. 13, 2008, 122 Stat. 4298, added item 2285.
 

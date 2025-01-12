@@ -4,7 +4,7 @@
 
 In this section—
 
-(1) the term "Chief Acquisition Officer" means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under section section 1702(a) of title 41;
+(1) the term "Chief Acquisition Officer" means the employee of a Federal agency appointed or designated as the Chief Acquisition Officer for the Federal agency under section 1702(a) of title 41;
 
 (2) the term "consolidation of contract requirements", with respect to contract requirements of a Federal agency, means a use of a solicitation to obtain offers for a single contract or a multiple award contract—
 

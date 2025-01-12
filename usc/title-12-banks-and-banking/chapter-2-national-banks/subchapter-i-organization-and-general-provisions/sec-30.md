@@ -16,7 +16,7 @@ In the case of a national bank which relocates the main office of such bank from
 
 #### (1) In general ####
 
-Notwithstanding subsection (a) of this section or any other provision of law, any depository institution, the charter of which is converted from that of a Federal savings association to a national bank or a State bank after November 12, 1999, may retain the term "Federal" in the name of such institution if such institution remains an insured depository institution.
+Notwithstanding subsection (a) or any other provision of law, any depository institution, the charter of which is converted from that of a Federal savings association to a national bank or a State bank after November 12, 1999, may retain the term "Federal" in the name of such institution if such institution remains an insured depository institution.
 
 #### (2) Definitions ####
 

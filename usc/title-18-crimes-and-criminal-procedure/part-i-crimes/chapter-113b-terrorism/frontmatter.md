@@ -22,6 +22,8 @@ Sec.
 
 2332h. Radiological dispersal devices.
 
+2332i. Acts of nuclear terrorism.
+
 2333. Civil remedies.
 
 2334. Jurisdiction and venue.
@@ -53,6 +55,8 @@ Pub. L. 101–519, §132, Nov. 5, 1990, 104 Stat. 2250, known as the "Antiterror
 Another chapter 113B, consisting of sections 2340 to 2340B, was renumbered chapter 113C.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–23, title VIII, §811(b), June 2, 2015, 129 Stat. 311, added item 2332i.
 
 **2004**—Pub. L. 108–458, title VI, §6911(a), Dec. 17, 2004, 118 Stat. 3775, added items 2332g and 2332h.
 

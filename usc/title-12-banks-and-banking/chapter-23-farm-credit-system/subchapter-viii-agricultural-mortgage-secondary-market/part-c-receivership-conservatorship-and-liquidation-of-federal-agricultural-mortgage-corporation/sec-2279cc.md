@@ -60,7 +60,7 @@ The conservator or receiver may contract with any governmental entity, including
 
 #### (3) Expenses ####
 
-A valid claim for expenses of the conservatorship or receivership (including compensation under paragraph (2)) and a valid claim with respect to a loan made under subsection (f) of this section shall—
+A valid claim for expenses of the conservatorship or receivership (including compensation under paragraph (2)) and a valid claim with respect to a loan made under subsection (f) shall—
 
 (A) be paid by the conservator or receiver from funds of the Corporation before any other valid claim against the Corporation; and
 
@@ -78,7 +78,7 @@ The Farm Credit Administration may allow indemnification of the conservator or r
 
 #### (1) In general ####
 
-Notwithstanding subsection (i)(1) of this section, not later than 30 days after a conservator or receiver is appointed under subsection (b) of this section, the Corporation may bring an action in the United States District Court for the District of Columbia for an order requiring the Farm Credit Administration Board to remove the conservator or receiver. The court shall, on the merits, dismiss the action or direct the Farm Credit Administration Board to remove the conservator or receiver.
+Notwithstanding subsection (i)(1), not later than 30 days after a conservator or receiver is appointed under subsection (b), the Corporation may bring an action in the United States District Court for the District of Columbia for an order requiring the Farm Credit Administration Board to remove the conservator or receiver. The court shall, on the merits, dismiss the action or direct the Farm Credit Administration Board to remove the conservator or receiver.
 
 #### (2) Stay of other actions ####
 

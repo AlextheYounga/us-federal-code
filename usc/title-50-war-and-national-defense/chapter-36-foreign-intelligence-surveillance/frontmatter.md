@@ -74,9 +74,15 @@ Sec.
 
 1863. Repealed.
 
-#### SUBCHAPTER V—REPORTING REQUIREMENT ####
+#### SUBCHAPTER V—OVERSIGHT ####
 
 1871. Semiannual report of the Attorney General.
+
+1872. Declassification of significant decisions, orders, and opinions.
+
+1873. Annual reports.
+
+1874. Public reporting by persons subject to orders.
 
 #### SUBCHAPTER VI—ADDITIONAL PROCEDURES REGARDING CERTAIN PERSONS OUTSIDE THE UNITED STATES ####
 

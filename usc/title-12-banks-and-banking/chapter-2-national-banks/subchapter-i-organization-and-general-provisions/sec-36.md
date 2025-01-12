@@ -36,17 +36,17 @@ A national banking association may, with the approval of the Comptroller of the 
 
 #### (d) Branches resulting from interstate merger transactions ####
 
-A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup><a href="#36_1_target" name="36_1">1</a></sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B) of this section) of such bank in accordance with section 1831u of this title.
+A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup><a href="#36_1_target" name="36_1">1</a></sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B)) of such bank in accordance with section 1831u of this title.
 
 #### (e) Exclusive authority for additional branches ####
 
 #### (1) In general ####
 
-Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
+Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B)) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
 
 #### (2) Retention of branches ####
 
-In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank's home State (as defined in subsection (g)(3)(B) of this section) before the relocation of such office only to the extent the bank would be authorized, under this section or any other provision of law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
+In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank's home State (as defined in subsection (g)(3)(B)) before the relocation of such office only to the extent the bank would be authorized, under this section or any other provision of law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
 
 (A) the bank had no branches in such State; or
 
