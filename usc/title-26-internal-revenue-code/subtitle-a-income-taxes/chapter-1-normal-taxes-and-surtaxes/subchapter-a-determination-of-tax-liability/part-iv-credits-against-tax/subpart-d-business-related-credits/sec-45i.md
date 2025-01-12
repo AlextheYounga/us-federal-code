@@ -132,6 +132,10 @@ Section applicable to production in taxable years beginning after Dec. 31, 2004,
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2023**—Internal Revenue Notice 2023–58.
+
+**2022**—Internal Revenue Notice 2023–41.
+
 **2021**—Internal Revenue Notice 2022–18.
 
 **2020**—Internal Revenue Notice 2021–34.

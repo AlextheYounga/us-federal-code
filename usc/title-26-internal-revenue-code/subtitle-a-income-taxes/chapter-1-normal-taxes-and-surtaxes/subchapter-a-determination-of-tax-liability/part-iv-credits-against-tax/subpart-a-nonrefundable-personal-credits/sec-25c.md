@@ -238,9 +238,13 @@ Pub. L. 117–169, title I, §13301(g)(1), (i)(3), Aug. 16, 2022, 136 Stat. 1941
 
 *For purposes of this subsection, the term "specified property" means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).*
 
-See 2022 Amendment note below.
+See 2022 Amendments note below.
 
 #### **Editorial Notes** ####
+
+#### References in Text ####
+
+The date of the enactment of this subsection, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 #### Amendments ####
 

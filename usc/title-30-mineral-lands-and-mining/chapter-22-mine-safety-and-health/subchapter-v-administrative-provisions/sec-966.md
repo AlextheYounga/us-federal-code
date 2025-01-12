@@ -20,6 +20,8 @@ Section was enacted as part of the Departments of Labor, Health and Human Servic
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–47, div. D, title I, Mar. 23, 2024, 138 Stat. 639.
+
 Pub. L. 117–328, div. H, title I, Dec. 29, 2022, 136 Stat. 4845.
 
 Pub. L. 117–103, div. H, title I, Mar. 15, 2022, 136 Stat. 432.

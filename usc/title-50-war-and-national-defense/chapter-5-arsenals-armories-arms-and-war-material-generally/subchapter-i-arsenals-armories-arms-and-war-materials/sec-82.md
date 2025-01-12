@@ -32,11 +32,11 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 In subsec. (d), "section 1346 or section 1491 of title 28" substituted for "section twenty-four, paragraph twenty, and section one hundred and forty-five of the Judicial Code" (those sections classified to sections 41(20) and 250 of former Title 28, Judicial Code and Judiciary) on authority of act June 25, 1948, ch. 646, 62 Stat. 869, section 1 of which enacted Title 28, Judiciary and Judicial Procedure. Section 1346 of Title 28 sets forth the basic jurisdiction of the district courts in cases in which the United States is defendant. Section 1491 of Title 28 sets forth the basic jurisdiction of the United States Court of Claims. Sections 24(20) and 145 of the Judicial Code were also classified to sections 1496, 1501, 1503, 2401, 2402, and 2501 of Title 28.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Similar Provisions ####
 
 Provisions similar to those in this section were contained in the Naval Appropriation Act, 1918, act July 1, 1918, ch. 114, 40 Stat. 719, which terminated six months after the treaty of peace between the United States and Germany (Oct. 18, 1921).
-
-#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of War and Emergencies ####
 

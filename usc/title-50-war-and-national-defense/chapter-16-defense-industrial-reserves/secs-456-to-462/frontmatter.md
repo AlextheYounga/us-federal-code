@@ -1,5 +1,7 @@
 ### §§456 to 462. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 456 to 462 were omitted in the general amendment of act July 2, 1948, ch. 811 by Pub. L. 93–155, title VIII, §809, Nov. 16, 1973, 87 Stat. 617. See sections 453 to 455 of this title.

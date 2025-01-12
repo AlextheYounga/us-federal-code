@@ -1314,6 +1314,8 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2023**—Internal Revenue Notice 2023–51.
+
 2022–Internal Revenue Notice 2022–20.
 
 **2021**—Internal Revenue Notice 2021–32.

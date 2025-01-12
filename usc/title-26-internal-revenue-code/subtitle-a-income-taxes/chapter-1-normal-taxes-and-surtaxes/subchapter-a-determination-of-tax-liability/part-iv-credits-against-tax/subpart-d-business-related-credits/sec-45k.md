@@ -462,7 +462,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Provisions relating to inflation adjustment of items in this section and reference price for certain years were contained in the following:
 
-**2021**—Internal Revenue Notice 2022—17.
+**2022**—Internal Revenue Notice 2023–49.
+
+**2021**—Internal Revenue Notice 2022–17.
 
 **2020**—Internal Revenue Notice 2021–29.
 

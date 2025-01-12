@@ -108,7 +108,7 @@ Sec.
 
 3334q. Detail of individuals from intelligence community to Department of Commerce.
 
-3334r. Designation of a Chief Technology Officer within certain elements of the intelligence community.
+3334r. Designation of a chief technology officer within certain elements of the intelligence community.
 
 3334s. Programs for next-generation microelectronics in support of artificial intelligence.
 

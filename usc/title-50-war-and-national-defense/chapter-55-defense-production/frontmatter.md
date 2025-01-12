@@ -74,6 +74,10 @@ Sec.
 
 4568. Annual report on impact of offsets.
 
+#### Termination Date ####
+
+For termination of certain provisions of this chapter, see section 4564(a) of this title.
+
 #### **Editorial Notes** ####
 
 #### Codification ####
@@ -81,9 +85,3 @@ Sec.
 Act Sept. 8, 1950, ch. 932, 64 Stat. 798, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter. For disposition of sections of the former Appendix to this title, see Table II, set out preceding section 1 of this title.
 
 Chapter is comprised of the portions of act Sept. 8, 1950, ch. 932, as amended, that had not previously been repealed when the Act was editorially reclassified as this chapter. As enacted, this Act contained titles I through VII. Titles II, IV, V, and VI of the Act were repealed by Pub. L. 111–67, §2(a)(2), Sept. 30, 2009, 123 Stat. 2007. Titles I, III, and VII of the Act have been codified in this chapter to appear as subchapters I to III, respectively. For complete classification of this Act to the Code, see Tables.
-
-#### **Statutory Notes and Related Subsidiaries** ####
-
-#### Termination Date ####
-
-For termination of certain provisions of this chapter, see section 4564(a) of this title.

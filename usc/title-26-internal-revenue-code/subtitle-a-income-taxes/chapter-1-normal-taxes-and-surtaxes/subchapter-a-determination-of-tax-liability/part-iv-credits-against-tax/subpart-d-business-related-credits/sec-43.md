@@ -188,6 +188,8 @@ Pub. L. 101–508, title XI, §11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pro
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2023**—Internal Revenue Notice 2023–57.
+
 **2022**—Internal Revenue Notice 2022–19.
 
 **2021**—Internal Revenue Notice 2021–47.

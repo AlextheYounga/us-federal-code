@@ -532,11 +532,13 @@ Pub. L. 102–429, title I, §117, Oct. 21, 1992, 106 Stat. 2196, provided that:
 
 "(B) whether or not the authority of subsection (a) should be extended."
 
-[Pub. L. 117–328, div. K, title VI, Dec. 29, 2022, 136 Stat. 4997, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) of such section shall remain in effect until September 30, 2023".]
+[Pub. L. 118–47, div. F, title VI, Mar. 23, 2024, 138 Stat. 753, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) of such section shall remain in effect until September 30, 2024".]
 
 [Prior to repeal, section 117(a) of Pub. L. 102–429 read as follows: "In General.—The Board of Directors of the Export-Import Bank of the United States may compensate not more than 35 employees of the Bank without regard to the provisions of chapter 51 or subchapter III or VIII of chapter 53 of title 5, United States Code."]
 
 [Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+[Pub. L. 117–328, div. K, title VI, Dec. 29, 2022, 136 Stat. 4997.
 
 [Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588.
 

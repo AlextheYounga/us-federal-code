@@ -680,6 +680,8 @@ Sec.
 
 2396a. Property Management Fund.
 
+2396b. USAID Buying Power Maintenance Account.
+
 2397. Administrative expenses.
 
 2398. Assistance to countries pursuant to other statutes.

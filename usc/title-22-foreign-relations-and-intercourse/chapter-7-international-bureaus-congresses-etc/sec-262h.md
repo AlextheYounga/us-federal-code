@@ -12,9 +12,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### Similar Provisions ####
 
-Pub. L. 117–328, div. K, title VII, §7025(c), Dec. 29, 2022, 136 Stat. 5018, provided that: "The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any assistance by such institution, using funds appropriated or otherwise made available by this Act [div. K of Pub. L. 117–328, 136 Stat. 4974, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity."
+Pub. L. 118–47, div. F, title VII, §7025(c), Mar. 23, 2024, 138 Stat. 775, provided that: "The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any assistance by such institution, using funds appropriated or otherwise made available by this Act [div. F of Pub. L. 118–47, 138 Stat. 729, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. K, title VII, §7025(c), Dec. 29, 2022, 136 Stat. 5018.
 
 Pub. L. 117–103, div. K, title VII, §7025(c), Mar. 15, 2022, 136 Stat. 609.
 
@@ -98,9 +100,11 @@ Pub. L. 95–481, title VI, §609, Oct. 18, 1978, 92 Stat. 1601.
 
 #### Definition of "International Financial Institutions" ####
 
-Pub. L. 117–328, div. K, title VII, §7034(s)(3), Dec. 29, 2022, 136 Stat. 5035, provided that: "In this Act [div. K of Pub. L. 117–328, 136 Stat. 4974, see Tables for classification] 'international financial institutions' means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the International Fund for Agricultural Development, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency."
+Pub. L. 118–47, div. F, title VII, §7034(s)(3), Mar. 23, 2024, 138 Stat. 793, provided that: "In this Act [div. F of Pub. L. 118–47, 138 Stat. 729, see Tables for classification] 'international financial institutions' means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the International Fund for Agricultural Development, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. K, title VII, §7034(s)(3), Dec. 29, 2022, 136 Stat. 5035.
 
 Pub. L. 117–103, div. K, title VII, §7034(t)(3), Mar. 15, 2022, 136 Stat. 626.
 

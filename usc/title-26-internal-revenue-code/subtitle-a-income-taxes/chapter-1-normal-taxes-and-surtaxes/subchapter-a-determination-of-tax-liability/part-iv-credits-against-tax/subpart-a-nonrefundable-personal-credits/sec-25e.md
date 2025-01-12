@@ -106,6 +106,10 @@ No credit shall be allowed under this section with respect to any vehicle acquir
 
 #### **Editorial Notes** ####
 
+#### References in Text ####
+
+The date of the enactment of this section, referred to in subsec. (c)(2)(C), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
 #### Amendments ####
 
 **2022**—Subsecs. (f), (g). Pub. L. 117–169, §13402(b), added subsec. (f) and redesignated former subsec. (f) as (g).

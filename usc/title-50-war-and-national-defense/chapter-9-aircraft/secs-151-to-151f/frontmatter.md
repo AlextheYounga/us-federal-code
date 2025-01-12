@@ -1,5 +1,7 @@
 ### §§151 to 151f. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 151 to 151f which related to a National Advisory Committee for Aeronautics were omitted pursuant to section 301(a) of Pub. L. 85–568, title III, July 29, 1958, 72 Stat. 432, formerly set out as a note under former section 2472 of Title 42, The Public Health and Welfare, which terminated the Committee and transferred all its functions, powers, duties, and obligations to the National Aeronautics and Space Administration.

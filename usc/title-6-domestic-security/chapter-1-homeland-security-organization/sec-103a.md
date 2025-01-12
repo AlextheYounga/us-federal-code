@@ -12,14 +12,28 @@ Unobligated balances of expired discretionary funds appropriated for this or any
 
 Amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for information technology system modernization and facilities infrastructure improvements necessary for the operation of the Department, subject to approval by the Office of Management and Budget.
 
-#### (d) Notification of planned use of funds ####
+#### (d) Limitation on apportionment or allotment of funds ####
 
-Amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds.
+Amounts in the Fund may not be apportioned or allotted for any fiscal year until after the date on which the Act making full-year appropriations for the Department of Homeland Security for the applicable fiscal year is enacted into law, subject to subsection (e).
 
-(Pub. L. 117–103, div. F, title V, §538, Mar. 15, 2022, 136 Stat. 343.)
+#### (e) Notification of planned use of funds ####
+
+The Committees on Appropriations of the House of Representatives and the Senate shall be notified at least 15 days in advance of the planned use of funds.
+
+(Pub. L. 117–103, div. F, title V, §538, Mar. 15, 2022, 136 Stat. 343; Pub. L. 118–47, div. C, title V, §539(a), Mar. 23, 2024, 138 Stat. 623.)
 
 #### **Editorial Notes** ####
 
 #### Codification ####
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### Amendments ####
+
+**2024**—Subsecs. (d), (e). Pub. L. 118–47 added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "Amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds."
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2024 Amendment ####
+
+Pub. L. 118–47, div. C, title V, §539(b), Mar. 23, 2024, 138 Stat. 624, provided that: "The amendments made by this section [amending this section] shall apply to amounts transferred under such section 538 [6 U.S.C. 103a] on or after the date of enactment of this Act [Mar. 23, 2024]."
