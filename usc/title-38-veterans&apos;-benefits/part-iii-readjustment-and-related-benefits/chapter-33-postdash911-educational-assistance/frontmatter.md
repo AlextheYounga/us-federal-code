@@ -8,8 +8,6 @@ Sec.
 
 #### SUBCHAPTER II—EDUCATIONAL ASSISTANCE ####
 
-Sec.
-
 3311. Educational assistance for service in the Armed Forces commencing on or after September 11, 2001: entitlement.
 
 3312. Educational assistance: duration.
@@ -21,6 +19,8 @@ Sec.
 3315. Licensure and certification tests.
 
 3315A. National tests.
+
+3315B. Preparatory courses for licensure, certification, or national tests.
 
 3316. Supplemental educational assistance: members with critical skills or specialty; members serving additional service.
 
@@ -49,6 +49,8 @@ Sec.
 3327. Election to receive educational assistance.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–154, §5(b), Aug. 8, 2020, 134 Stat. 692, added item 3315B.
 
 **2017**—Pub. L. 115–48, title I, §111(b), Aug. 16, 2017, 131 Stat. 983, added item 3320.
 

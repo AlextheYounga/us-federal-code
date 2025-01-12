@@ -152,7 +152,7 @@ Subtitle III—National Preservation Programs
 
 #### Amendments ####
 
-**2020**—Pub. L. 116–152, §2(b), Aug. 4, 2020, 134 Stat. 685, which directed amendment of the analysis for subtitle II of this title by adding item for chapter 2003, was executed to this analysis to reflect the probable intent of Congress.
+**2020**—Pub. L. 116–152, §2(b), Aug. 4, 2020, 134 Stat. 685, which directed amendment of the analysis for subtitle II of this title by adding item for chapter 2004, was executed to this analysis to reflect the probable intent of Congress.
 
 **2019**—Pub. L. 116–9, title II, §2407(b), Mar. 12, 2019, 133 Stat. 750, substituted "African American Civil Rights Network" for "U.S. Civil Rights Network" in item for chapter 3084.
 

@@ -495,7 +495,7 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to December 1, 2019)
+(As amended to January 24, 2020)
 
 #### Historical Note ####
 
@@ -557,7 +557,7 @@ Rule
 
 16. Discovery and Inspection.
 
-16.1. Pretrial Discovery Conference; Request for Court Action
+16.1. Pretrial Discovery Conference; Request for Court Action.
 
 17. Subpoena.
 
