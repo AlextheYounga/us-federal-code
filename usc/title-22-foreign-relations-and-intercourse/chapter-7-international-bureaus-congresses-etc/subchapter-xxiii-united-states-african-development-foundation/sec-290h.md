@@ -24,6 +24,10 @@ The Foreign Assistance Act of 1969, referred to in par. (4), is Pub. L. 91–175
 
 Amendment by Pub. L. 106–113, div. B, §1000(a)(2) [title V, §586(h)(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–119, directing the repeal of pars. (4) and (5) of this section did not become effective pursuant to section 1000(a)(2) [title V, §586] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under section 290f of this title.
 
+#### Change of Name ####
+
+African Development Foundation changed to United States African Development Foundation by Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482. See section 290h–1 of this title.
+
 #### Short Title ####
 
 Pub. L. 96–533, title V, §501, Dec. 16, 1980, 94 Stat. 3151, provided: “This title [enacting this subchapter] may be cited as the ‘African Development Foundation Act’.”

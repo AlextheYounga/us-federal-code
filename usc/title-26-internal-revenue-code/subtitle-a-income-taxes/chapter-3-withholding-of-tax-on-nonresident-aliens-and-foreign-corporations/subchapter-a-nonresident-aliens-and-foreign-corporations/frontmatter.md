@@ -12,7 +12,7 @@ Sec.
 
 1445. Withholding of tax on dispositions of United States real property interests.
 
-1446. Withholding of tax on foreign partners’ share of effectively connected income.
+1446. Withholding of tax on foreign partners’ share of effectively connected income.�1�
 
 #### Amendments ####
 
@@ -23,3 +23,5 @@ Sec.
 **1984**—Pub. L. 98–369, div. A, title I, §129(a)(2), July 18, 1984, 98 Stat. 659, added item 1445.
 
 **1983**—Pub. L. 97–455, §1(d)(2), Jan. 12, 1983, 96 Stat. 2498, added item 1444.
+
+[�1� So in original. Does not conform to section catchline.](#SubchapterA_I)

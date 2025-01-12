@@ -202,6 +202,10 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added and amended Pub. L. 111–148, title I, §1421(a), title X, §10105(e)(1), (2), Mar. 23, 2010, 124 Stat. 237, 906.)
 
+#### Inflation Adjusted Items for Certain Years ####
+
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
+
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.

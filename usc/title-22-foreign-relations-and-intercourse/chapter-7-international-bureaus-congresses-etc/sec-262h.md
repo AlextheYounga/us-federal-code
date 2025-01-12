@@ -10,9 +10,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### Similar Provisions ####
 
-Pub. L. 112–74, div. I, title VII, §7025(c), Dec. 23, 2011, 125 Stat. 1206, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to titles III through VI of this Act [div. I of Pub. L. 112–74, 125 Stat. 1175–1193, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+Pub. L. 113–76, div. K, title VII, §7025(c), Jan. 17, 2014, 128 Stat. 504, provided that: “The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions, as defined in section 7029(g) of this Act [set out as a note below], to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or made available by this Act [div. K of Pub. L. 113–76, 128 Stat. 465, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 112–74, div. I, title VII, §7025(c), Dec. 23, 2011, 125 Stat. 1206.
 
 Pub. L. 111–117, div. F, title VII, §7026(c), Dec. 16, 2009, 123 Stat. 3354.
 
@@ -73,3 +75,5 @@ Pub. L. 96–536, §101(b) [H.J. Res. 637, §101(b); H.R. 4473, title V, §522A]
 Pub. L. 96–123, §101(a) [incorporating Pub. L. 95–481, title VI, §609], Nov. 20, 1979, 93 Stat. 923.
 
 Pub. L. 95–481, title VI, §609, Oct. 18, 1978, 92 Stat. 1601.
+
+Pub. L. 113–76, div. K, title VII, §7029(g), Jan. 17, 2014, 128 Stat. 508, provided that: “For the purposes of this Act ‘international financial institutions’ shall mean the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund.”

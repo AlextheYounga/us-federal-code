@@ -193,3 +193,5 @@ Sec.
 964. Scholarships.
 
 965. Brookwood-Sago Mine Safety Grants.
+
+966. Retention of fees.

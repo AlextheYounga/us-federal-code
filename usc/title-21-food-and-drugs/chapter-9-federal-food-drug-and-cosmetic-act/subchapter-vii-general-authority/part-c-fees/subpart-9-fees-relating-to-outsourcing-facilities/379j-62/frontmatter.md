@@ -1,4 +1,4 @@
-### §379j–62. Authority to assess and use outsourcing facility fees ###
+### 379j–62. Authority to assess and use outsourcing facility fees ###
 
 #### (a) Establishment and reinspection fees ####
 

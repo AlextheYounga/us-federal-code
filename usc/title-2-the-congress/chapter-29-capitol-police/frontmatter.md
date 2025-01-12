@@ -22,6 +22,10 @@ Sec.
 
 1907. Transfer of disbursing function.
 
+1907a. Authority to transfer amounts between salaries and general expenses.
+
+1907b. Funds available for workers compensation payments.
+
 1908. Legal representation authority.
 
 1909. Inspector General for the United States Capitol Police.

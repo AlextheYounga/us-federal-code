@@ -1048,7 +1048,7 @@ Sec.
 
 1395hhh. Health care infrastructure improvement program.
 
-1395iii. Medicare Improvement Fund.
+1395iii. Transitional Fund for Sustainable Growth Rate (SGR) Reform.
 
 1395jjj. Shared savings program.
 

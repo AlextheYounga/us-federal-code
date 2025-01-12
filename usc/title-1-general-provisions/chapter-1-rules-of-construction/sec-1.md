@@ -44,6 +44,10 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act 
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act [enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Defense of Marriage Act’.”
 
+#### References in Pub. L. 113–76 ####
+
+Pub. L. 113–76, §3, Jan. 17, 2014, 128 Stat. 7, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated Appropriations Act, 2014, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
 #### References in Pub. L. 113–67 ####
 
 Pub. L. 113–67, div. A, §1(c), Dec. 26, 2013, 127 Stat. 1166, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Bipartisan Budget Act of 2013, see Tables for classification] shall be treated as referring only to the provisions of that division.”

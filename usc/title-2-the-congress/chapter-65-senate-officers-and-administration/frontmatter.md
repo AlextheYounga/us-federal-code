@@ -38,6 +38,8 @@ Sec.
 
 6517. Receipts from sale of used or surplus furniture and furnishings of Senate.
 
+6518. Workers compensation payments.
+
 #### SUBCHAPTER II—SECRETARY OF THE SENATE ####
 
 #### Part A—Organization and Personnel ####

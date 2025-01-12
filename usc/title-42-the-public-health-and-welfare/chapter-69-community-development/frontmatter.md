@@ -28,6 +28,8 @@ Sec.
 
 5313. Reporting requirements.
 
+5313a. Duplication of benefits.
+
 5314. Consultation by Secretary with other Federal departments, etc.
 
 5315. Interstate agreements or compacts; purposes.

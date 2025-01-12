@@ -174,6 +174,8 @@ Sec.
 
 1308a. Use of civil penalty funds to reclaim lands.
 
+1308b. Transfer of computer hardware, software and other technical equipment.
+
 1309. Certification and training of blasters.
 
 1309a. Subsidence.

@@ -1060,11 +1060,11 @@ Sec.
 
 290g–21. Multilateral debt relief.
 
-#### SUBCHAPTER XXIII—AFRICAN DEVELOPMENT FOUNDATION ####
+#### SUBCHAPTER XXIII—UNITED STATES AFRICAN DEVELOPMENT FOUNDATION ####
 
 290h. Congressional findings.
 
-290h–1. African Development Foundation.
+290h–1. United States African Development Foundation.
 
 290h–2. Congressional declaration of purposes.
 

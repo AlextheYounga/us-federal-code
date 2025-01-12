@@ -1,22 +1,18 @@
-### §1395iii. Medicare Improvement Fund ###
+### §1395iii. Transitional Fund for Sustainable Growth Rate (SGR) Reform ###
 
 #### (a) Establishment ####
 
-The Secretary shall establish under this subchapter a Medicare Improvement Fund (in this section referred to as the “Fund”) which shall be available to the Secretary to make improvements under the original medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part A or enrolled under part B including, but not limited to, an increase in the conversion factor under section 1395w–4(d) of this title to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program.
+The Secretary shall establish under this subchapter a Transitional Fund for Sustainable Growth Rate (SGR) Reform (in this section referred to as the “Fund”) which shall be available to the Secretary to provide funds to pay for physicians’ services under part B to supplement the conversion factor under section 1395w–4(d) of this title for 2017 if the conversion factor for 2017 is less than conversion <sup><a href="#1395iii_1_target" name="1395iii_1">1</a></sup> factor for 2013.
 
 #### (b) Funding ####
 
 #### (1) In general ####
 
-There shall be available to the Fund, for expenditures from the Fund for services furnished during—
-
-(A) fiscal year 2014, $0; and
-
-(B) fiscal year 2015, $0.
+There shall be available to the Fund, for expenditures from the Fund for services furnished during or after 2017, $2,300,000,000.
 
 #### (2) Payment from Trust Funds ####
 
-The amount specified under paragraph (1) shall be available to the Fund, as expenditures are made from the Fund, from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate.
+The amount specified under paragraph (1) shall be available to the Fund, as expenditures are made from the Fund, from the Federal Supplementary Medical Insurance Trust Fund.
 
 #### (3) Funding limitation ####
 
@@ -26,9 +22,21 @@ Amounts in the Fund shall be available in advance of appropriations but only if 
 
 In the case that expenditures from the Fund are applied to, or otherwise affect, a payment rate for an item or service under this subchapter for a year, the payment rate for such item or service shall be computed for a subsequent year as if such application or effect had never occurred.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1898, as added Pub. L. 110–252, title VII, §7002(a), June 30, 2008, 122 Stat. 2394; amended Pub. L. 110–275, title I, §188(a)(2)(B), July 15, 2008, 122 Stat. 2589; Pub. L. 110–379, §6, Oct. 8, 2008, 122 Stat. 4079; Pub. L. 111–5, div. B, title IV, §4103(b), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–118, div. B, §1011(b), Dec. 19, 2009, 123 Stat. 3474; Pub. L. 111–148, title III, §3112, Mar. 23, 2010, 124 Stat. 421; Pub. L. 111–309, title II, §207, Dec. 15, 2010, 124 Stat. 3291; Pub. L. 112–240, title VI, §640, Jan. 2, 2013, 126 Stat. 2357.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1898, as added Pub. L. 110–252, title VII, §7002(a), June 30, 2008, 122 Stat. 2394; amended Pub. L. 110–275, title I, §188(a)(2)(B), July 15, 2008, 122 Stat. 2589; Pub. L. 110–379, §6, Oct. 8, 2008, 122 Stat. 4079; Pub. L. 111–5, div. B, title IV, §4103(b), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–118, div. B, §1011(b), Dec. 19, 2009, 123 Stat. 3474; Pub. L. 111–148, title III, §3112, Mar. 23, 2010, 124 Stat. 421; Pub. L. 111–309, title II, §207, Dec. 15, 2010, 124 Stat. 3291; Pub. L. 112–240, title VI, §640, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–82, §3, Feb. 15, 2014, 128 Stat. 1009.)
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–82, §3(1), substituted “Transitional Fund for Sustainable Growth Rate (SGR) Reform” for “Medicare Improvement Fund” in section catchline.
+
+Subsec. (a). Pub. L. 113–82, §3(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish under this subchapter a Medicare Improvement Fund (in this section referred to as the ‘Fund’) which shall be available to the Secretary to make improvements under the original medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part A or enrolled under part B including, but not limited to, an increase in the conversion factor under section 1395w–4(d) of this title to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program.”
+
+Subsec. (b)(1). Pub. L. 113–82, §3(3), substituted “during or after 2017, $2,300,000,000.” for “during—
+
+“(A) fiscal year 2014, $0; and
+
+“(B) fiscal year 2015, $0.”
+
+Subsec. (b)(2). Pub. L. 113–82, §3(4), substituted “from the Federal Supplementary Medical Insurance Trust Fund.” for “from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate.”
 
 **2013**—Subsec. (b)(1). Pub. L. 112–240 added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
@@ -55,3 +63,5 @@ Subsec. (b)(4). Pub. L. 111–5, §4103(b)(2)(B), added par. (4).
 **2008**—Subsec. (b)(1). Pub. L. 110–379 substituted “$2,290,000,000” for “$2,220,000,000”.
 
 Pub. L. 110–275 inserted “and, in addition for services furnished during fiscal years 2014 through 2017, $19,900,000,000” before period at end.
+
+[<sup>1</sup> So in original. Probably should be preceded by “the”.](#1395iii_1)

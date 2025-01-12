@@ -308,7 +308,7 @@ Subsec. (b)(5). Pub. L. 109–58, §1345(b), added par. (5).
 
 Subsec. (b)(5)(B). Pub. L. 109–135 struck out “(determined without regard to the last sentence of subsection (d)(2))” after “any agri-biodiesel” in introductory provisions.
 
-Subsec. (d)(3)(C),(D). Pub. L. 109–58, §1345(d)(3), added subpar. (C) and redesignated former subpar. (C) as (D). The words following “subsection (b)(5)(B),” in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
+Subsec. (d)(3)(C), (D). Pub. L. 109–58, §1345(d)(3), added subpar. (C) and redesignated former subpar. (C) as (D). The words following “subsection (b)(5)(B),” in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
 
 Subsec. (e). Pub. L. 109–58, §1345(c), added subsec. (e). The words following “subparagraph (A) for the taxable year,” in subsec. (e)(6)(B)(iii) are shown as a flush provision notwithstanding directory language showing them as part of subcl. (II), to reflect the probable intent of Congress. Former subsec. (e) redesignated (f).
 

@@ -34,6 +34,10 @@ The multistate economic issues referred to in subsection (a) shall include—
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### Prior Provisions ####
+
+A prior section 383C of Pub. L. 87–128, title III, was renumbered section 383D and is classified to section 2009bb–2 of this title.
+
 #### Effective Date ####
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.

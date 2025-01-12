@@ -106,4 +106,8 @@ Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.
 
 #### Requirements Adopted by Reference ####
 
-Pub. L. 113–6, div. B, title I, §105(b), Mar. 26, 2013, 127 Stat. 242, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [33 U.S.C. 878a], as amended by subsection (a) of this section, are hereby adopted by reference.”
+Pub. L. 113–76, div. B, title I, §104, Jan. 17, 2014, 128 Stat. 51, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [33 U.S.C. 878a], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2014.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 113–6, div. B, title I, §105(b), Mar. 26, 2013, 127 Stat. 242.

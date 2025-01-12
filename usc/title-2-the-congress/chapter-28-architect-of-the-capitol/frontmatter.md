@@ -54,6 +54,8 @@ Sec.
 
 1824. Energy and environmental measures in Capitol Complex Master Plan.
 
+1824a. Recyclable materials.
+
 1825. Repealed.
 
 1826. Easements for rights-of-way.
@@ -121,6 +123,8 @@ Sec.
 1867. Advancement and reimbursement of expenses for flying American flags and providing certification services therefor.
 
 1868. Semiannual compilation and report of expenditures.
+
+1868a. Semiannual report of disbursements.
 
 1869. Advance payments.
 

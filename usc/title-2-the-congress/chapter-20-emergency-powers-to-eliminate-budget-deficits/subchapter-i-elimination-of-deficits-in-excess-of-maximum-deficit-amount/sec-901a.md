@@ -78,7 +78,7 @@ Except as provided by paragraph (10), on the date of the submission of its seque
 
 (A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in section 935 of this title, the exemptions specified in section 905 of this title, and the special rules specified in section 906 of this title, except that the percentage reduction for the Medicare programs specified in section 906(d) of this title shall not be more than 2 percent for a fiscal year.
 
-(B) On the dates OMB issues its sequestration preview reports for fiscal year 2022 and for fiscal year 2023, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
+(B) On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, and for fiscal year 2024, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
 
 (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
@@ -108,7 +108,7 @@ On the dates specified in paragraph (2), OMB shall submit a report to Congress c
 
 (B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200.)
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009.)
 
 #### References in Text ####
 
@@ -121,6 +121,8 @@ The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of Pub
 A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103–322, title XXXI, §310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, §10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments ####
+
+**2014**—Par. (6)(B). Pub. L. 113–82 substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
 
 **2013**—Pub. L. 113–67, §101(d)(2)(A), in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in section 901(c) of this title shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
 

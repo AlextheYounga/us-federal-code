@@ -70,7 +70,7 @@ The Administrator shall, by written procedures, provide for peer review with res
 
 #### References in Text ####
 
-The Poison Prevention Packaging Act, referred to in subsec. (c)(3), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, as amended, which is classified principally to chapter 39A (§1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15, and Tables.
+The Poison Prevention Packaging Act, referred to in subsec. (c)(3), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15, and Tables.
 
 References in subsec. (c)(4) to “section 136(q)(1)” was, in the original, a reference to “paragraph 2(q)(1)” and has been editorially translated as “section 136(q)(1)” as the probable intent of Congress.
 

@@ -2,7 +2,7 @@
 
 None of the funds made available to the Forest Service in this Act or any other Act with respect to any fiscal year shall be subject to transfer under the provisions of section 2257 of title 7, section 7772 of title 7, or section 8316(b) of title 7.
 
-(Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1025.)
+(Pub. L. 113–76, div. G, title III, Jan. 17, 2014, 128 Stat. 326.)
 
 #### References in Text ####
 
@@ -11,6 +11,8 @@ Section 8316(b) of title 7, referred to in text, was in the original “section 
 #### Similar Provisions ####
 
 Provisions similar to this section were contained in the following prior appropriation acts:
+
+Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1025.
 
 Pub. L. 111–88, div. A, title III, Oct. 30, 2009, 123 Stat. 2944.
 

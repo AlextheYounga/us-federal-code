@@ -1176,7 +1176,7 @@ Pub. L. 94–455, title VIII, §804(c), Oct. 4, 1976, 90 Stat. 1594, as amended 
 
 #### Entitlement to Credit ####
 
-Pub. L. 94–455, title VIII, §804(d), Oct. 4, 1976, 90 Stat. 1596,, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 48(k) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to entitlement to credit) shall apply to any motion picture film or video tape placed in service in any taxable year beginning before January 1, 1975.”
+Pub. L. 94–455, title VIII, §804(d), Oct. 4, 1976, 90 Stat. 1596, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 48(k) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to entitlement to credit) shall apply to any motion picture film or video tape placed in service in any taxable year beginning before January 1, 1975.”
 
 #### Increase in Basis of Property Placed in Service Before January 1, 1964 ####
 

@@ -184,6 +184,8 @@ Pub. L. 101–508, title XI, §11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pro
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
 
+**2013**—Internal Revenue Notice 2013–50.
+
 **2012**—Internal Revenue Notice 2012–49.
 
 **2011**—Internal Revenue Notice 2011–57.

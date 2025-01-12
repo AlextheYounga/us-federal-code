@@ -38,7 +38,7 @@ For purposes of this subchapter, the term—
 
 #### References in Text ####
 
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
 

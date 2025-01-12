@@ -24,7 +24,7 @@ Sec.
 
 [111. Repealed.]
 
-112. Research and Innovative Technology Administration.
+112. Office of the Assistant Secretary for Research and Technology of the Department of Transportation.
 
 113. Federal Motor Carrier Safety Administration.
 
@@ -47,3 +47,7 @@ Sec.
 **1992**—Pub. L. 102–508, title IV, §401(b), Oct. 24, 1992, 106 Stat. 3310, added item 112.
 
 **1991**—Pub. L. 102–240, title III, §3004(c)(3), title VI, §6006(c), Dec. 18, 1991, 105 Stat. 2088, 2174, substituted “Federal Transit Administration” for “Urban Mass Transportation Administration” in item 107 and added second item 110 and item 111.
+
+#### Change of Name ####
+
+“Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in item 112 on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under section 112 of this title.

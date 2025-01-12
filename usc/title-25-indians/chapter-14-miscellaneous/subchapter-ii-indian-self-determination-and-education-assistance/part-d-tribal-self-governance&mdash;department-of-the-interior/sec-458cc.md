@@ -118,7 +118,7 @@ Act of April 16, 1934, referred to in subsec. (b)(1)(A), is act Apr. 16, 1934, c
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(4)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+This subchapter, referred to in subsecs. (e)(1), (g)(3), and (j), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Title III of this Act, referred to in subsecs. (g)(2) and (l), is title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 

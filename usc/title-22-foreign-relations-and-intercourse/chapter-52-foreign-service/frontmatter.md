@@ -102,6 +102,10 @@ Sec.
 
 3974. Border equalization pay adjustment.
 
+3975. Group life insurance supplement applicable to those killed in terrorist attacks.
+
+3976. Survivors’ and dependents’ educational assistance.
+
 #### SUBCHAPTER V—CLASSIFICATION OF POSITIONS AND ASSIGNMENTS ####
 
 3981. Authority of Secretary.

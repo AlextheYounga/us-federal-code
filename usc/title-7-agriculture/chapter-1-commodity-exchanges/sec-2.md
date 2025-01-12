@@ -890,11 +890,11 @@ The Securities Exchange Act of 1934, referred to in subsec. (a)(1)(D)(i)(VI), (i
 
 The Federal Advisory Committee Act, referred to in subsec. (a)(15)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+The date of the enactment of this clause and such date of enactment, referred to in subsec. (c)(2)(B)(ii), are the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
 Item (ee) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (II)(aa), (C)(i)(I)(aa), (ii)(II)(aa), (iii)(I), (II)(aa), was redesignated item (dd) by Pub. L. 111–203, title VII, §742(c)(1)(C), July 21, 2010, 124 Stat. 1733.
 
 Item (gg) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (III), (v), was redesignated item (ff) by Pub. L. 111–203, title VII, §742(c)(1)(C), July 21, 2010, 124 Stat. 1733.
-
-The date of the enactment of this clause and such date of enactment, referred to in subsec. (c)(2)(B)(ii), are the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 The Commodity Futures Modernization Act of 2000, referred to in subsec. (g)(1)(A), (2), is H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–365. Title IV of the Act, known as the Legal Certainty for Bank Products Act of 2000, is classified to sections 27 to 27f of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of this title, and Tables.
 

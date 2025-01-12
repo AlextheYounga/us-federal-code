@@ -24,7 +24,7 @@ Sec.
 
 3415. Office of Postsecondary Education.
 
-3416. Office of Vocational and Adult Education.
+3416. Office of Career, Technical, and Adult Education.
 
 3417. Office of Special Education and Rehabilitative Services.
 

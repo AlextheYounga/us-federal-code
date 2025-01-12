@@ -12,6 +12,8 @@ Sec.
 
 132a–2. Furniture, furnishings, and office and library equipment; transfer of funds.
 
+132a–3. Authority to transfer amounts between categories of appropriations.
+
 132b. Joint Committee on the Library.
 
 133. Joint Committee during recess of Congress.

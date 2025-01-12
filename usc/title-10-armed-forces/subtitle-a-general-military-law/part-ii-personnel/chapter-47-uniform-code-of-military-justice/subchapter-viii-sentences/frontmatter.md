@@ -15,11 +15,11 @@
 
 Pub. L. 113–66, div. A, title XVII, §1705(a)(2)(B), (c), Dec. 26, 2013, 127 Stat. 959, 960, provided that, effective 180 days after Dec. 26, 2013, and applicable to offenses specified in section 856(b)(2) of this title committed on or after that date, this analysis is amended by striking the item relating to section 856 and inserting the following new item:
 
-|   Sec.   |Art.|                           |
-|----------|----|---------------------------|
-|*856. Art*|56. |Maximum and minimum limits.|
+|      |*Art.*|                             |
+|------|------|-----------------------------|
+|*856.*|*56.* |*Maximum and minimum limits.*|
 
-See 2013 Amendment notes below.
+See 2013 Amendment note below.
 
 #### Amendments ####
 

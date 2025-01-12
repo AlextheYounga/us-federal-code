@@ -22,6 +22,8 @@ Sec.
 
 373e. Bureau of Reclamation site security.
 
+373f. Partnerships, grants, and cooperative agreements with local joint powers authorities.
+
 374. Sale of lands acquired in connection with irrigation project.
 
 375. Sale of land improved at expense of reclamation fund.

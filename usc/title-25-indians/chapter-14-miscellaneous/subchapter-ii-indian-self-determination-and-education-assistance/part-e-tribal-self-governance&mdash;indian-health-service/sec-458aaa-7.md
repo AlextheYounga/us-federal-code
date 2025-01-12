@@ -78,6 +78,6 @@ An Indian tribe shall not be obligated to continue performance that requires an 
 
 #### References in Text ####
 
-This subchapter, referred to in subsecs. (c) and (d), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+This subchapter, referred to in subsecs. (c) and (d), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (j), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.

@@ -46,6 +46,8 @@ The Secretary may, with respect to a contract entered into under this subchapter
 
 #### References in Text ####
 
+This subchapter, referred to in subsecs. (a), (b), (d)(2)(A), (D), and (e), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
 The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, which enacted section 450l of this title, amended this section and sections 450b, 450c, 450e, 450f, 450j, 450j–1, 450m, and 450m–1 of this title, and enacted provisions set out as a note under section 450 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 450 of this title and Tables.
 
 #### Codification ####
