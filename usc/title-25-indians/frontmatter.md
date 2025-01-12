@@ -73,6 +73,8 @@ Chap. Sec.
 
 32A. Cultural and Heritage Cooperation Authority 3051
 
+32B. Safeguard Tribal Objects of Patrimony 3071
+
 33. National Indian Forest Resources Management 3101
 
 34. Indian Child Protection and Family Violence Prevention 3201

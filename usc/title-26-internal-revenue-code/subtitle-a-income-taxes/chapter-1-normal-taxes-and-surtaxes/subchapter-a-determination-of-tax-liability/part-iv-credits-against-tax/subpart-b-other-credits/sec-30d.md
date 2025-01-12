@@ -86,8 +86,6 @@ For purposes of paragraph (1)(G), the term "final assembly" means the process by
 
 For purposes of this section, the term "new clean vehicle" shall include any new qualified fuel cell motor vehicle (as defined in section 30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).
 
-#### [(e) Repealed. Pub. L. 117–169, title I, §13401(d), Aug. 16, 2022, 136 Stat. 1956] ####
-
 #### (f) Special rules ####
 
 #### (1) Basis reduction ####
@@ -444,7 +442,7 @@ Subsec. (d)(1)(F)(i). Pub. L. 117–169, §13401(c)(1)(B)(iii)(I), substituted "
 
 Subsec. (d)(1)(G). Pub. L. 117–169, §13401(b)(1), added subpar. (G).
 
-Subsec. (d)(1)(H). Pub. L. 117–169, §13401(c)(1)(B)(iii)(II), (iv), (v), added subpar. (H).
+Subsec. (d)(1)(H). Pub. L. 117–169, §13401(c)(1)(B)(iii)(II)–(v), added subpar. (H).
 
 Subsec. (d)(1)(H)(vi). Pub. L. 117–169, §13401(g)(2)(A), added cl. (vi).
 
@@ -460,7 +458,7 @@ Subsec. (e). Pub. L. 117–169, §13401(e)(1), added subsec. (e).
 
 Pub. L. 117–169, §13401(d), struck out subsec. (e) which related to limitation on number of new qualified plug-in electric drive motor vehicles eligible for credit.
 
-Subsec. (f)(3). Pub. L. 117–169, §13401(g)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: "In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+Subsec. (f)(3). Pub. L. 117–169, §13401(g)(2)(B)(i), struck out par. (3). Text read as follows: "In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
 
 Subsec. (f)(8). Pub. L. 117–169, §13401(g)(2)(B)(ii), inserted ", including any vehicle with respect to which the taxpayer elects the application of subsection (g)" before period at end.
 

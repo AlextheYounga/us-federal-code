@@ -86,7 +86,7 @@ For purposes of this section:
 
 (2) The term "domestic facility" means a facility located in any of the States or Territories.
 
-(3)(A) The term "foreign facility" means a facility that manufacturers, processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
+(3)(A) The term "foreign facility" means a facility that manufacturers,<sup><a href="#350d_1_target" name="350d_1">1</a></sup> processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
 
 (B) A food may not be considered to have undergone further processing or packaging for purposes of subparagraph (A) solely on the basis that labeling was added or that any similar activity of a de minimis nature was carried out with respect to the food.
 
@@ -177,3 +177,5 @@ Pub. L. 111–353, title I, §102(b)(2), Jan. 4, 2011, 124 Stat. 3888, provided 
 #### Electronic Filing ####
 
 Pub. L. 107–188, title III, §305(d), June 12, 2002, 116 Stat. 668, provided that: "For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section [enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out as a note under this section]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate."
+
+[<sup>1</sup> So in original. Probably should be "manufactures,".](#350d_1)

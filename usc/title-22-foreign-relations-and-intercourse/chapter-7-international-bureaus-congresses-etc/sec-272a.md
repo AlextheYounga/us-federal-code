@@ -38,10 +38,10 @@ Subsec. (b). Joint Res. Sept. 21, 1950, §1(e)(3), struck out limitation of $95,
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Limitation of Contributions ####
-
-Contributions by United States, except for special projects, limited to amount provided by Joint Res. Sept. 21, 1950; consent by State Department and reports to Congress, see section 262a of this title.
-
 #### Annual Appropriations ####
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
+
+#### Limitation of Contributions ####
+
+Contributions by United States, except for special projects, limited to amount provided by Joint Res. Sept. 21, 1950; consent by State Department and reports to Congress, see section 262a of this title.

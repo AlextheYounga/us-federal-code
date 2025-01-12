@@ -122,7 +122,7 @@ For purposes of this paragraph, the term "specified tax-exempt entity" means—
 
 (i) the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing,
 
-(ii) an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)), and
+(ii) an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)),<sup><a href="#179D_1_target" name="179D_1">1</a></sup> and
 
 (iii) any organization exempt from tax imposed by this chapter.
 
@@ -369,3 +369,5 @@ Pub. L. 113–295, div. A, title I, §158(b), Dec. 19, 2014, 128 Stat. 4022, pro
 #### Effective Date ####
 
 Pub. L. 109–58, title XIII, §1331(d), Aug. 8, 2005, 119 Stat. 1024, provided that: "The amendments made by this section [enacting this section and amending sections 263, 312, 1016, 1245, and 1250 of this title] shall apply to property placed in service after December 31, 2005."
+
+[<sup>1</sup> So in original. Another closing parenthesis probably should precede the comma.](#179D_1)

@@ -56,7 +56,7 @@ Pub. L. 117–328, div. FF, title III, §3208, Dec. 29, 2022, 136 Stat. 5821, pr
 
 "(1) Interim report.—Not later than September 30, 2026, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the completed and ongoing activities in the pilot program established under this section and public workshops described in subsection (b).
 
-"(2) Final report.—Not later than September 30, 2027, the Secretaryshall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the outcomes of the pilot program established under this section.
+"(2) Final report.—Not later than September 30, 2027, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report describing the outcomes of the pilot program established under this section.
 
 "(d) Guidance.—Not later than September 30, 2027, the Secretary shall issue guidance describing best practices and strategies for development of efficacy endpoints, including surrogate and intermediate endpoints, for rare diseases.
 

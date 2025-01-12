@@ -34,7 +34,7 @@ Sec.
 
 4832. Security Review Committee.
 
-4833. Serious security incident investigation process.
+4833. Serious Security Incident investigation process.
 
 4834. Security Review Committee findings and report.
 

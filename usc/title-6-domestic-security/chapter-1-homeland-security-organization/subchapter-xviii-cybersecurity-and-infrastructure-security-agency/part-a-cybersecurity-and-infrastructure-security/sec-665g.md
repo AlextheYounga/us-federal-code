@@ -620,7 +620,7 @@ The Food and Nutrition Act of 2008, referred to in subsec. (m)(2)(C)(ii), is Pub
 
 #### Amendments ####
 
-**2022**—Subsec. (a). Pub. L. 117–263, §7143(b)(2)(K)(i), redesignated pars. (3), (4), and (8) to (12) as pars. (1) to (7), respectively, and struck out former pars. (1), (2), and (5) to (7) which defined appropriate committees of Congress, cyber threat indicator, incident, information sharing and analysis organization, and information system, respectively.
+**2022**—Subsec. (a). Pub. L. 117–263, §7143(b)(2)(K)(i), redesignated pars. (3), (4), and (8) to (12) as (1) to (7), respectively, and struck out former pars. (1), (2), and (5) to (7) which defined appropriate committees of Congress, cyber threat indicator, incident, information sharing and analysis organization, and information system, respectively.
 
 Subsec. (e)(2)(B)(xiv)(II)(aa). Pub. L. 117–263, §7143(b)(2)(K)(ii), substituted "Information Sharing and Analysis Organization" for "information sharing and analysis organization".
 

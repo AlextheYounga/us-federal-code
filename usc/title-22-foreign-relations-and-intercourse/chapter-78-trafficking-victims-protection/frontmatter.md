@@ -10,7 +10,7 @@ Sec.
 
 7103a. Creating, building, and strengthening partnerships against significant trafficking in persons.
 
-7103b. United States Advisory Council on Human Trafficking.
+7103b. Survivors of Human Trafficking Empowerment Act.
 
 7104. Prevention of trafficking.
 

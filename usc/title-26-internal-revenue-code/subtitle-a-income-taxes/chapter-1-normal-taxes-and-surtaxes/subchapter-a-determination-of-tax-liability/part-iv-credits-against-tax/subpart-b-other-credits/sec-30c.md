@@ -202,15 +202,13 @@ Subsec. (c)(1)(B)(iv). Pub. L. 117–169, §13704(b)(2), added cl. (iv).
 
 Subsec. (c)(3). Pub. L. 117–169, §13404(e), added par. (3).
 
-Subsec. (f). Pub. L. 117–169, §13404(c), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 117–169, §13404(c), added subsec. (f). Former subsec. (f) redesignated (g), then (h).
 
-Subsec. (g). Pub. L. 117–169, §13404(d), added subsec. (g). Former subsec. (g) redesignated (h).
-
-Pub. L. 117–169, §13404(c), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 117–169, §13404(d), added subsec. (g). Former subsec. (g) redesignated (h), then (i).
 
 Pub. L. 117–169, §13404(a), substituted "December 31, 2032" for "December 31, 2021".
 
-Subsecs. (h), (i). Pub. L. 117–169, §13404(d), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (h), (i). Pub. L. 117–169, §13404(c), (d), successively redesignated subsecs. (f) and (g) as (h) and (i), respectively.
 
 **2020**—Subsec. (g). Pub. L. 116–260 substituted "December 31, 2021" for "December 31, 2020".
 

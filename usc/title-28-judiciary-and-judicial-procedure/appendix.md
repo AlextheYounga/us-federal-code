@@ -18,13 +18,13 @@ Federal Rules of Evidence
 JUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS
 ==========
 
-[Title III (§§301–309) of Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1851–1861, as amended by Pub. L. 96–19, §§2(a)(3), (c)(3), 3(a)(3), (b), 4(c), 6, 7(a)–(c), (d)(2), (e), (f), 8(c), 9(c)(3), (d), (j), (p)–(r), June 13, 1979, 93 Stat. 37–43; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §10, Nov. 11, 1983, 97 Stat. 962; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 101–237, title VI, §602(a)(1), Dec. 18, 1989, 103 Stat. 2094, which related to judicial personnel financial disclosure requirements, was repealed by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. See title I of the Ethics in Government Act of 1978, Pub. L. 95–521, as amended, relating to financial disclosure requirements of Federal personnel, set out in the Appendix to Title 5, Government Organization and Employees.]
+[Title III (§§301–309) of Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1851–1861, as amended by Pub. L. 96–19, §§2(a)(3), (c)(3), 3(a)(3), (b), 4(c), 6, 7(a)–(c), (d)(2), (e), (f), 8(c), 9(c)(3), (d), (j), (p)–(r), June 13, 1979, 93 Stat. 37–43; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §10, Nov. 11, 1983, 97 Stat. 962; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 101–237, title VI, §602(a)(1), Dec. 18, 1989, 103 Stat. 2094, which related to judicial personnel financial disclosure requirements, was repealed by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. See subchapter I of chapter 131 of Title 5, Government Organization and Employees, relating to financial disclosure requirements of Federal personnel.]
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 1, 1991, see section 204 of Pub. L. 101–194, set out as an Effective Date of 1989 Amendment note under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees.
+Repeal effective Jan. 1, 1991, see section 204 of Pub. L. 101–194, set out as an Effective Date of 1989 Amendment note under section 13104 of Title 5, Government Organization and Employees.
 
-Provisions of title III of Pub. L. 95–521, as in effect prior to Nov. 30, 1989, effective until Jan. 1, 1991, as if Pub. L. 101–194 had not been enacted, and nothing in title II of Pub. L. 101–194 to be construed to prevent prosecution of civil actions against individuals for violations of title III of Pub. L. 95–521 before Jan. 1, 1991, see section 3(10)(C), (D) of Pub. L. 101–280, set out as an Effective Date of 1989 Amendment note under section 101 of Pub. L. 95–521 in the Appendix to Title 5.
+Provisions of title III of Pub. L. 95–521, as in effect prior to Nov. 30, 1989, effective until Jan. 1, 1991, as if Pub. L. 101–194 had not been enacted, and nothing in title II of Pub. L. 101–194 to be construed to prevent prosecution of civil actions against individuals for violations of title III of Pub. L. 95–521 before Jan. 1, 1991, see section 3(10)(C), (D) of Pub. L. 101–280, May 4, 1990, 104 Stat. 157, which was formerly set out as an Effective Date of 1989 Amendment note under section 101 of Pub. L. 95–521 in the Appendix to Title 5.
 
 **DEVELOPMENT OF MECHANISMS FOR RESOLVING MINOR DISPUTES**
 ==========
@@ -36,7 +36,7 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to December 1, 2022)
+(As amended to January 5, 2023)
 
 #### Historical Note ####
 
@@ -1188,7 +1188,7 @@ The amendments to subdivisions (a) and (b) conform this rule with the amendment 
 
 #### References in Text ####
 
-Rule 38 of the Federal Rules of Criminal Procedure, referred to in subd. (c), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+The Federal Rules of Criminal Procedure, referred to in subd. (c), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 ### Rule 9. Release in a Criminal Case ###
 
@@ -1332,7 +1332,7 @@ The language and organization of the rule are amended to make the rule more easi
 
 #### References in Text ####
 
-The Criminal Justice Act, referred to in subd. (b)(1)(A)(ii), probably means the Criminal Justice Act of 1964, Pub. L. 88–455, Aug. 20, 1964, 78 Stat. 552, as amended, which enacted section 3006A of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under section 3006A of Title 18. For complete classification of this Act to the Code, see Short Title note set out under section 3006A of Title 18 and Tables.
+The Criminal Justice Act, referred to in subd. (b)(1)(A)(ii), probably means the Criminal Justice Act of 1964, Pub. L. 88–455, Aug. 20, 1964, 78 Stat. 552, which enacted section 3006A of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under section 3006A of Title 18. For complete classification of this Act to the Code, see Short Title note set out under section 3006A of Title 18 and Tables.
 
 ### Rule 11. Forwarding the Record ###
 
@@ -4327,7 +4327,7 @@ v.
 
 }Notice of Appeal
 
-C. D., Defendant
+C.D., Defendant
 
 \_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the final judgment entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(state the date the judgment was entered).
 
@@ -4355,7 +4355,7 @@ v.
 
 }Notice of Appeal
 
-C. D., Defendant
+C.D., Defendant
 
 \_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the order \_\_\_\_\_\_(describe the order) entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(state the date the order was entered).
 
@@ -4522,7 +4522,7 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to December 1, 2022)
+(As amended to January 5, 2023)
 
 #### Historical Note ####
 
@@ -5850,11 +5850,11 @@ Subd. (d). Pub. L. 97–462, §2(3), (4), substituted "Summons and Complaint: Pe
 
 Subd. (d)(5). Pub. L. 97–462, §2(4), substituted "sending a copy of the summons and of the complaint by registered or certified mail" for "delivering a copy of the summons and of the complaint".
 
-Subd. (d)(7). Pub. L. 97–462, §2(3)(B), struck out par. (7) which read: "Upon a defendant of any class referred to in paragraph (1) or (3) of this subdivision of this rule, it is also sufficient if the summons and complaint are served in the manner prescribed by any statute of the United States or in the manner prescribed by the law of the state in which the district court is held for the service of summons or other like process upon any such defendant in an action brought in the courts of general jurisdiction of that state.". See subd. (c)(2)(C) of this rule.
+Subd. (d)(7). Pub. L. 97–462, §2(3)(B), struck out par. (7) which read: "Upon a defendant of any class referred to in paragraph (1) or (3) of this subdivision of this rule, it is also sufficient if the summons and complaint are served in the manner prescribed by any statute of the United States or in the manner prescribed by the law of the state in which the district court is held for the service of summons or other like process upon any such defendant in an action brought in the courts of general jurisdiction of that state." See subd. (c)(2)(C) of this rule.
 
 Subd. (e). Pub. L. 97–462, §2(5), substituted "Summons" for "Same" as subd. heading.
 
-Subd. (g). Pub. L. 97–462, §2(6), substituted in second sentence "deputy United States marshal" and "such person" for "his deputy" and "he" and inserted third sentence "If service is made under subdivision (c)(2)(C)(ii) of this rule, return shall be made by the sender's filing with the court the acknowledgment received pursuant to such subdivision.".
+Subd. (g). Pub. L. 97–462, §2(6), substituted in second sentence "deputy United States marshal" and "such person" for "his deputy" and "he" and inserted third sentence "If service is made under subdivision (c)(2)(C)(ii) of this rule, return shall be made by the sender's filing with the court the acknowledgment received pursuant to such subdivision."
 
 Subd. (j). Pub. L. 97–462, §2(7), added subd. (j).
 
@@ -10291,10 +10291,6 @@ The amendment of the second paragraph is clarifying. The purpose of the paragrap
 
 The amendments are technical. No substantive change is intended.
 
-#### Effective Date of Amendment Proposed November 20, 1972 ####
-
-Amendment of this rule embraced by the order entered by the Supreme Court of the United States on November 20, 1972, effective on the 180th day beginning after January 2, 1975, see section 3 of Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1959, set out as a note under section 2074 of this title.
-
 #### Notes of Advisory Committee on Rules—1993 Amendment ####
 
 *Subdivision (a)*. Paragraph (1) retains the first and third sentences from the former subdivision (a) without significant modification. The second and fourth sentences are relocated.
@@ -10390,6 +10386,10 @@ The amended rule directs that the parties confer either before or promptly after
 When the need for a Rule 30(b)(6) deposition is known early in the case, the Rule 26(f) conference may provide an occasion for beginning discussion of these topics. In appropriate cases, it may also be helpful to include reference to Rule 30(b)(6) depositions in the discovery plan submitted to the court under Rule 26(f)(3) and in the matters considered at a pretrial conference under Rule 16.
 
 Because a Rule 31 deposition relies on written questions rather than a description with reasonable particularity of the matters for examination, the duty to confer about the matters for examination does not apply when an organization is deposed under Rule 31(a)(4).
+
+#### Effective Date of Amendment Proposed November 20, 1972 ####
+
+Amendment of this rule embraced by the order entered by the Supreme Court of the United States on November 20, 1972, effective on the 180th day beginning after January 2, 1975, see section 3 of Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1959, set out as a note under section 2074 of this title.
 
 ### Rule 31. Depositions by Written Questions ###
 
@@ -11405,7 +11405,7 @@ Courts should exercise caution, however, in using the measures specified in (e)(
 
 #### Effective Date of 1980 Amendment ####
 
-Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversary adjudication defined in section 504(b)(1)(C) of Title 5, and to civil actions and adversary adjudications described in section 2412 of Title 28, Judiciary and Judicial Procedure, which are pending on, or commenced on or after Oct. 1, 1981, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 504 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversary adjudication defined in section 504(b)(1)(C) of Title 5, Government Organization and Employees, and to civil actions and adversary adjudications described in section 2412 of Title 28, Judiciary and Judicial Procedure, which are pending on, or commenced on or after Oct. 1, 1981, see section 208 of Pub. L. 96–481, set out as an Effective Date note under section 504 of Title 5.
 
 ### TITLE VI. TRIALS ###
 
@@ -15651,7 +15651,7 @@ The Longshore and Harbor Workers' Compensation Act, referred to in subd. (a)(6)(
 
 #### Effective Date of Abrogation ####
 
-Abrogation of par. (7) of subdivision (a) of this rule as effective August 1, 1951, see Effective Date note under Rule 71A.
+Abrogation of par. (7) of subdivision (a) of this rule as effective August 1, 1951, see Notes of Advisory Committee on Rules—1951, set as a note under Rule 71.1.
 
 [\* Note.—The Supreme Court made these changes in the committee's proposed amendment to Rule 81(c): The phrase, "or within 20 days after the service of summons upon such initial pleading, then filed," was inserted following the phrase, "within 20 days after the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based", because in several states suit is commenced by service of summons upon the defendant, notifying him that the plaintiff's pleading has been filed with the clerk of court. Thus, he may never receive a copy of the initial pleading. The added phrase is intended to give the defendant 20 days after the service of such summons in which to answer in a removed action, or 5 days after the filing of the petition for removal, whichever is longer. In these states, the 20-day period does not begin to run until such pleading is actually filed. The last word of the third sentence was changed from "longer" to "longest" because of the added phrase.](#Rule_81_I)
 
@@ -16769,7 +16769,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 
 (As added Apr. 11, 2022, eff. Dec. 1, 2022.)
 
-#### Codification ####
+Codification
 
 For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
 
@@ -16795,7 +16795,7 @@ For discussion of establishment and application of procedure under these supplem
 
 (As added Apr. 11, 2022, eff. Dec. 1, 2022.)
 
-#### Codification ####
+Codification
 
 For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
 
@@ -16809,7 +16809,7 @@ The court must notify the Commissioner of the commencement of the action by tran
 
 Civil Rule 4, referred to in text, probably means Rule 4 of the Federal Rules of Civil Procedure, which is set out in this Appendix.
 
-#### Codification ####
+Codification
 
 For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
 
@@ -16827,9 +16827,9 @@ For discussion of establishment and application of procedure under these supplem
 
 #### References in Text ####
 
-Civil Rules, referred to in subds. (b) to (d), probably means the Federal Rules of Civil Procedure, which is set out in this Appendix.
+Civil Rules, referred to in subds. (b) to (d), probably means the Federal Rules of Civil Procedure, which are set out in this Appendix.
 
-#### Codification ####
+Codification
 
 For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
 
@@ -16839,7 +16839,7 @@ The action is presented for decision by the parties' briefs. A brief must suppor
 
 (As added Apr. 11, 2022, eff. Dec. 1, 2022.)
 
-#### Codification ####
+Codification
 
 For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
 
@@ -16849,7 +16849,7 @@ The plaintiff must file and serve on the Commissioner a brief for the requested 
 
 (As added Apr. 11, 2022, eff. Dec. 1, 2022.)
 
-#### Codification ####
+Codification
 
 For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
 
@@ -16859,7 +16859,7 @@ The Commissioner must file a brief and serve it on the plaintiff within 30 days 
 
 (As added Apr. 11, 2022, eff. Dec. 1, 2022.)
 
-#### Codification ####
+Codification
 
 For discussion of establishment and application of procedure under these supplemental rules, see Committee Notes on Rules—2022, set out as a note under Rule 8.
 
@@ -16898,7 +16898,7 @@ Rules 6, 7, and 8 set the times for serving the briefs: 30 days after the answer
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to December 1, 2022)
+(As amended to January 5, 2023)
 
 #### Effective Date and Application of Rules ####
 
@@ -18048,6 +18048,10 @@ The conference adopts the Senate amendment with an amendment that expresses the 
 
 Present rule 410 conforms to rule 11(e)(6) of the Federal Rules of Criminal Procedure. A proposed amendment to rule 11(e)(6) would clarify the circumstances in which pleas, plea discussions and related statements are inadmissible in evidence; see Advisory Committee Note thereto. The amendment proposed above would make comparable changes in rule 410.
 
+#### Committee Notes on Rules—2011 Amendment ####
+
+The language of Rule 410 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
 #### Amendment by Public Law ####
 
 **1975**—Pub. L. 94–149 substituted heading reading "Inadmissibility of Pleas, Offers of Pleas, and Related Statements" for "Offer to Plead Guilty; Nolo Contendere; Withdrawn Pleas of Guilty"; substituted in first sentence "provided in this rule" for "provided by Act of Congress", inserted therein ", and relevant to," following 'in connection with", and deleted therefrom "action, case, or" preceding "proceeding"; added second sentence relating to admissibility of statements in criminal proceedings for perjury or false statements; deleted former second sentence providing that "This rule shall not apply to the introduction of voluntary and reliable statements made in court on the record in connection with any of the foregoing pleas or offers where offered for impeachment purposes or in a subsequent prosecution of the declarant for perjury or false statement."; and deleted former second par. providing that "This rule shall not take effect until August 1, 1975, and shall be superseded by any amendment to the Federal Rules of Criminal Procedure which is inconsistent with this rule, and which takes effect after the date of the enactment of the Act establishing these Federal Rules of Evidence."
@@ -18055,10 +18059,6 @@ Present rule 410 conforms to rule 11(e)(6) of the Federal Rules of Criminal Proc
 #### Effective Date of 1979 Amendment ####
 
 Pub. L. 96–42, July 31, 1979, 93 Stat. 326, provided in part that the effective date of the amendment transmitted to Congress on Apr. 30, 1979, be extended from Aug. 1, 1979, to Dec. 1, 1980.
-
-#### Committee Notes on Rules—2011 Amendment ####
-
-The language of Rule 410 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
 
 ### Rule 411. Liability Insurance ###
 
@@ -18196,7 +18196,7 @@ Subds. (c)(1), (d). Pub. L. 100–690, §7046(a)(4), substituted "an offense und
 
 #### Effective Date ####
 
-Section 3 of Pub. L. 95–540 provided that: "The amendments made by this Act [enacting this rule] shall apply to trials which begin more than thirty days after the date of the enactment of this Act [Oct. 28, 1978]."
+Pub. L. 95–540, §3, Oct. 28, 1978, 92 Stat. 2047, provided that: "The amendments made by this Act [enacting this rule] shall apply to trials which begin more than thirty days after the date of the enactment of this Act [Oct. 28, 1978]."
 
 ### Rule 413. Similar Crimes in Sexual-Assault Cases ###
 
@@ -18226,7 +18226,7 @@ The language of Rule 413 has been amended as part of the restyling of the Eviden
 
 #### Effective Date ####
 
-Section 320935(b)–(e) of Pub. L. 103–322, as amended by Pub. L. 104–208, div. A, title I, §101(a), [title I, §120], Sept. 30, 1996, 110 Stat. 3009, 3009–25, provided that:
+Pub. L. 103–322, title XXXII, §320935(b)–(e), Sept. 13, 1994, 108 Stat. 2137, as amended by Pub. L. 104–208, div. A, title I, §101(a), [title I, §120], Sept. 30, 1996, 110 Stat. 3009, 3009–25, provided that:
 
 "(b) Implementation.—The amendments made by subsection (a) [enacting this rule and rules 414 and 415 of these rules] shall become effective pursuant to subsection (d).
 
@@ -19692,7 +19692,7 @@ The amendment does not change the traditional and well-accepted limits on bringi
 
 #### Effective Date of 1975 Amendment ####
 
-Section 2 of Pub. L. 94–113 provided that: "This Act [enacting subd. (d)(1)(C)] shall become effective on the fifteenth day after the date of the enactment of this Act [Oct. 16, 1975]."
+Pub. L. 94–113, §2, Oct. 16, 1975, 89 Stat. 576, provided that: "This Act [enacting subd. (d)(1)(C)] shall become effective on the fifteenth day after the date of the enactment of this Act [Oct. 16, 1975]."
 
 ### Rule 802. The Rule Against Hearsay ###
 
@@ -21104,13 +21104,13 @@ Subd. (b). Pub. L. 95–598, §251(b), substituted "title 11, United States Code
 
 References to United States Claims Court deemed to refer to United States Court of Federal Claims, see section 902(b) of Pub. L. 102–572, set out as a note under section 171 of this title.
 
-#### Effective Date of 1978 Amendment ####
-
-Amendment of subds. (a) and (b) of this rule by section 251 of Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Dates note preceding section 101 of the Appendix to Title 11, Bankruptcy. For Bankruptcy Jurisdiction and procedure during transition period, see note preceding section 1471 of this title.
-
 #### Effective Date of 1982 Amendment ####
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
+
+#### Effective Date of 1978 Amendment ####
+
+Amendment of subds. (a) and (b) of this rule by section 251 of Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Dates note preceding section 101 of the Appendix to Title 11, Bankruptcy. For Bankruptcy Jurisdiction and procedure during transition period, see note preceding section 1471 of this title.
 
 ### Rule 1102. Amendments ###
 

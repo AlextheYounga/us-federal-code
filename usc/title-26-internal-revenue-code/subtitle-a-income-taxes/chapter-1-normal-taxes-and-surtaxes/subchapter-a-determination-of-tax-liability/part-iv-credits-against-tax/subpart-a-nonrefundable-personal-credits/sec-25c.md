@@ -202,7 +202,7 @@ This section shall not apply with respect to any property placed in service—
 
 #### Amendment of Section ####
 
-Pub. L. 117–169, title I, §13704(b)(1), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (d)(3) of this section is amended by striking "and" at the end of subparagraph (A), striking the period at the end of subparagraph (B) and inserting ", and", and adding at the end the following new subparagraph:
+Pub. L. 117–169, title I, §13704(b)(1), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (d)(3) of this section is amended by striking "and" at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting ", and", and by adding at the end the following new subparagraph:
 
 *(C) transportation fuel (as defined in section 45Z(d)(5)).*
 
@@ -254,7 +254,7 @@ Subsec. (a). Pub. L. 117–169, §13301(b), amended subsec. (a) generally. Prior
 
 Subsec. (a)(3). Pub. L. 117–169, §13301(f)(1), added par. (3).
 
-Subsec. (b). Pub. L. 117–169, §13301(c), amended subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows:
+Subsec. (b). Pub. L. 117–169, §13301(c), amended subsec. (b) generally. Prior to amendment, text read as follows:
 
 "(1) Lifetime limitation.—The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed the excess (if any) of $500 over the aggregate credits allowed under this section with respect to such taxpayer for all prior taxable years ending after December 31, 2005.
 

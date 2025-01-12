@@ -26,11 +26,11 @@ Section 4605(j) of title 50, referred to in subsec. (a), was repealed by Pub. L.
 
 Another section 1621 of Pub. L. 95–118 is classified to section 262p–4p of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Similar Provisions ####
 
 Similar provisions are contained in section 262p–11 of this title.
-
-#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

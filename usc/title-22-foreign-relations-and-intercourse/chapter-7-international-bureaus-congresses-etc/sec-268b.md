@@ -22,6 +22,8 @@ Section was formerly classified to section 535 of Title 31 prior to the general 
 
 **1966**—Pub. L. 89–554 struck out provisions that related to traveling expenses of the commissioner.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 "General Accounting Office" substituted in text for "Treasury Department" pursuant to act June 10, 1921, which transferred powers and duties conferred upon Comptroller, six auditors, and certain other officers of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.

@@ -22,7 +22,7 @@ Nothing in this section may be construed to—
 
 The Internet Tax Freedom Act, referred to in subsec. (a), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telecommunications.
 
-This Act, referred to in subsec. (b), is act Mar. 1, 1913, ch. 90, 37 Stat. 699, as amended, popularly known as the Webb-Kenyon Act, which is classified to this section and sections 122 and 122a of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (b), is act Mar. 1, 1913, ch. 90, 37 Stat. 699, popularly known as the Webb-Kenyon Act, which is classified to this section and sections 122 and 122a of this title. For complete classification of this Act to the Code, see Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

@@ -52,7 +52,7 @@ The Secretary may take actions to expedite the development and review of an appl
 
 #### (f) Leveraging data from designated platform technologies ####
 
-The Secretary shall, consistent with applicable standards for approval, authorization, or licensure under this chapter and section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)], allow the sponsor of an application under section 355(b) of this title or section 351(a) of the Public Health Service Act or a request for emergency use authorization under section 300bbb–3 of this title, in order to support approval, licensure, or authorization, to reference or rely upon data and information within an application or request for a drug or biological product that incorporates or utilizes the same platform technology designated under subsection (d), provided that—
+The Secretary shall, consistent with applicable standards for approval, authorization, or licensure under this chapter and section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)], allow the sponsor of an application under section 355(b) of this title or section 351(a) of the Public Health Service Act or a request for emergency use authorization under section 360bbb–3 of this title, in order to support approval, licensure, or authorization, to reference or rely upon data and information within an application or request for a drug or biological product that incorporates or utilizes the same platform technology designated under subsection (d), provided that—
 
 (1) such data and information was submitted by the same sponsor, pursuant to the application for the drug with respect to which designation of the designated platform technology under subsection (d) was granted; or
 

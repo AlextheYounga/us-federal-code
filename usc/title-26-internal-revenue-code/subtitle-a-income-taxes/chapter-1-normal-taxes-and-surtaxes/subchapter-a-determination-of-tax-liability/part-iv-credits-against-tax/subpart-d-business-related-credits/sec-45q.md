@@ -402,7 +402,7 @@ Subsec. (d). Pub. L. 117–169, §13104(a)(1), amended subsec. (d) generally. Pr
 
 Subsec. (e). Pub. L. 117–169, §13104(a)(2)(A), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
 
-Subsec. (f)(3). Pub. L. 117–169, §13104(e)(1), struck out par. (3) which related to credit reduced for certain tax-exempt bonds at end of subsec. (f).
+Subsec. (f)(3). Pub. L. 117–169, §13104(e)(1), struck out par. (3) which had appeared after par. (7) and related to credit reduced for certain tax-exempt bonds.
 
 Subsec. (f)(8). Pub. L. 117–169, §13104(e)(2), added par. (8).
 

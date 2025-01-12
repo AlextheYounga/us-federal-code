@@ -112,7 +112,7 @@ Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended b
 
 "(4) A description of the status of efforts to coordinate and cooperate with other countries to detect hazardous asteroids and comets, plan a mitigation strategy, and implement that strategy in the event of the discovery of an object on a likely collision course with Earth.
 
-"(5) A summary of expenditures for all activities carried out by the Planetary Defense Coordination Office since the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2022[.]
+"(5) A summary of expenditures for all activities carried out by the Planetary Defense Coordination Office since the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2022
 
 "(g) Assessment.—The Administrator, in collaboration with other relevant Federal agencies, shall carry out a technical and scientific assessment of the capabilities and resources—
 

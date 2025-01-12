@@ -140,7 +140,7 @@ Section is comprised of section 9002 of Pub. L. 116–283. Subsec. (c)(1) of sec
 
 #### Amendments ####
 
-**2022**—Subsec. (a)(5). Pub. L. 117–263, §7143(d)(5)(A)(i), (ii), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment, text of par (5) read as follows: "The term 'information sharing and analysis organization' has the meaning given that term in section 671(5) of this title."
+**2022**—Subsec. (a)(5). Pub. L. 117–263, §7143(d)(5)(A)(i), (ii), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: "The term 'information sharing and analysis organization' has the meaning given that term in section 671(5) of this title."
 
 Subsec. (a)(6), (7). Pub. L. 117–263, §7143(d)(5)(A)(ii), (iii), which redesignated par. (7) as (6) and then directed the general amendment of par. (7), was executed by making the redesignation and generally amending par. (6) as redesignated, to reflect the probable intent of Congress. As amended, such par. remained designated as (7). Prior to amendment, text of par. (7) read as follows: "The term 'sector risk management agency' has the meaning given the term 'Sector-Specific Agency' in section 651(5) of this title."
 

@@ -1,5 +1,7 @@
 ### §§245j to 245j–19. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 245j, Joint Res. Nov. 4, 1939, ch. 2, §1, 54 Stat. 4, which related to a proclamation of a state of war between foreign states, was transferred to section 441 of this title.

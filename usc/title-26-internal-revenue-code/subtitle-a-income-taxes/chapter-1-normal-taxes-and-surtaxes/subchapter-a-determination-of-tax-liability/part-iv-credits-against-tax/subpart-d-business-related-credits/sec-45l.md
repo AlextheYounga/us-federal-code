@@ -144,8 +144,6 @@ This section shall not apply to any qualified new energy efficient home acquired
 
 The date of the enactment of this section, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
-The National Appliance Energy Conservation Act of 1987, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6201 of Title 42, The Public Health and Welfare, and Tables.
-
 #### Amendments ####
 
 **2022**—Subsec. (a)(2). Pub. L. 117–169, §13304(b), amended par. (2) generally. Prior to amendment, par. (2) related to applicable amount for dwelling unit.

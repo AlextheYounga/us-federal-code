@@ -1422,7 +1422,7 @@ See 2022 Amendment note below.
 
 #### Amendment of Subsection (t)(2) ####
 
-ub. L. 117–328, div. T, title I, §115(a), (c), Dec. 29, 2022, 136 Stat. 5296, 5297, provided that, applicable to distributions made after Dec. 31, 2023, subsection (t)(2) of this section is amended by adding at the end the following new subparagraph:
+Pub. L. 117–328, div. T, title I, §115(a), (c), Dec. 29, 2022, 136 Stat. 5296, 5297, provided that, applicable to distributions made after Dec. 31, 2023, subsection (t)(2) of this section is amended by adding at the end the following new subparagraph:
 
 #### *"(I) Distributions for certain emergency expenses* ####
 
@@ -1444,7 +1444,7 @@ ub. L. 117–328, div. T, title I, §115(a), (c), Dec. 29, 2022, 136 Stat. 5296,
 
 #### *"(iv) Emergency personal expense distribution* ####
 
-*For purposes of this subparagraph, the term 'emergency personal expense distribution' means any distribution from an applicable eligible retirement plan (as defined in subparagraph (H)(vi)(I)) to an individual for purposes of meeting unforeseeable or immediate financial needs relating to necessary personal or family emergency expenses. The administrator of an applicable eligible retirement plan may rely on an employee's written certification that the employee satisfies the conditions of the preceding sentence in determining whether any distribution is an emergency personal expense distribution. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee's certification, and for procedures for addressing cases of employee misrepresentation.*
+*"For purposes of this subparagraph, the term 'emergency personal expense distribution' means any distribution from an applicable eligible retirement plan (as defined in subparagraph (H)(vi)(I)) to an individual for purposes of meeting unforeseeable or immediate financial needs relating to necessary personal or family emergency expenses. The administrator of an applicable eligible retirement plan may rely on an employee's written certification that the employee satisfies the conditions of the preceding sentence in determining whether any distribution is an emergency personal expense distribution. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee's certification, and for procedures for addressing cases of employee misrepresentation.*
 
 #### *"(v) Treatment of plan distributions* ####
 
@@ -1556,7 +1556,7 @@ Pub. L. 117–328, div. T, title III, §334(c), (e), Dec. 29, 2022, 136 Stat. 53
 
 *"For purposes of sections 401(a)(31), 402(f), and 3405, any qualified long-term care distribution described in clause (i) shall not be treated as an eligible rollover distribution.".*
 
-See 2022 Amendment notes below.
+See 2022 Amendment note below.
 
 #### Amendment of Subsection (t)(4) ####
 

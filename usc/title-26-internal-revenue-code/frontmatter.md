@@ -4042,7 +4042,7 @@ Subtitle D—Miscellaneous Excise Taxes
 
 36. Certain other excise taxes 4461
 
-[37. Repealed.]
+37. Repurchase of corporate stock 4501
 
 38. Environmental taxes 4611
 
@@ -4069,6 +4069,8 @@ Subtitle D—Miscellaneous Excise Taxes
 49. Cosmetic services 5000B
 
 50. Foreign procurement 5000C
+
+50A. Designated drugs 5000D
 
 Subtitle E—Alcohol, Tobacco, and Certain Other Excise Taxes
 ----------

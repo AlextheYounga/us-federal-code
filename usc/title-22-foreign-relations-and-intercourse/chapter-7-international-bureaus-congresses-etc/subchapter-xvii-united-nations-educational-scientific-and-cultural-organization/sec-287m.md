@@ -4,6 +4,8 @@ The President is hereby authorized to accept membership for the United States in
 
 (July 30, 1946, ch. 700, §1, 60 Stat. 712.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Constitution of the United Nations Educational, Scientific, and Cultural Organization ####
 
 #### the governments of the states parties to this constitution on behalf of their peoples declare ####

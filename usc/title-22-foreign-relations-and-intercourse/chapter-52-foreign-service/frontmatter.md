@@ -462,6 +462,8 @@ Sec.
 
 4226. Fees and official monies from diplomatic missions, consular offices and district accounting and disbursing offices; disposition.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions of this chapter are derived from the Foreign Service Act of 1946, former section 801 et seq. of this title, and related and miscellaneous provisions as follows:

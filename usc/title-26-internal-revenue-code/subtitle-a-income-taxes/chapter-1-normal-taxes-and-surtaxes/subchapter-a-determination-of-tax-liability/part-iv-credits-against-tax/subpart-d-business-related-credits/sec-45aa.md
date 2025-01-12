@@ -6,7 +6,7 @@ For purposes of section 38, in the case of any eligible small employer, the mili
 
 (1) $200 with respect to each military spouse who is an employee of such employer and who participates in an eligible defined contribution plan of such employer at any time during such taxable year, plus
 
-(2) so much of the contributions made by such employer (other than an elective deferral (as defined in section 402(g)(3)) to all such plans with respect to such employee during such taxable year as do not exceed $300.
+(2) so much of the contributions made by such employer (other than an elective deferral (as defined in section 402(g)(3)) <sup><a href="#45AA_1_target" name="45AA_1">1</a></sup> to all such plans with respect to such employee during such taxable year as do not exceed $300.
 
 #### (b) Limitation ####
 
@@ -14,7 +14,7 @@ An individual shall only be taken into account as a military spouse under subsec
 
 #### (c) Eligible small employer ####
 
-For purposes of this section, the term "eligible small employer" means an eligible employer (as defined in section 408(p)(2)(C)(i)(I).<sup><a href="#45AA_1_target" name="45AA_1">1</a></sup>
+For purposes of this section, the term "eligible small employer" means an eligible employer (as defined in section 408(p)(2)(C)(i)(I).<sup><a href="#45AA_2_target" name="45AA_2">2</a></sup>
 
 #### (d) Military spouse ####
 
@@ -46,4 +46,12 @@ All persons treated as a single employer under subsection (b), (c), (m), or (o) 
 
 (Added Pub. L. 117–328, div. T, title I, §112(a), Dec. 29, 2022, 136 Stat. 5294.)
 
-[<sup>1</sup> So in original. Another closing parenthesis probably should precede the period.](#45AA_1)
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date ####
+
+Section applicable to taxable years beginning after Dec. 29, 2022, see section 112(e) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under section 38 of this title.
+
+[<sup>1</sup> So in original. Probably should be followed by another closing parenthesis.](#45AA_1)
+
+[<sup>2</sup> So in original. Another closing parenthesis probably should precede the period.](#45AA_2)

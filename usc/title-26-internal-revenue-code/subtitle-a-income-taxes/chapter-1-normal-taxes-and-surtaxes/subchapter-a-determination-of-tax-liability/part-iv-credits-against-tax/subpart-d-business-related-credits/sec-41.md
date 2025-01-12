@@ -820,7 +820,7 @@ Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments ####
 
-**2022**—Subsec. (h)(4)(B)(i). Pub. L. 117–169, §13902(a), designated existing provisions as subcl. I, inserted heading, and added subcl. (II).
+**2022**—Subsec. (h)(4)(B)(i). Pub. L. 117–169, §13902(a), designated existing provisions as subcl. (I), inserted heading, and added subcl. (II).
 
 Subsec. (h)(5)(B)(ii). Pub. L. 117–169, §13902(c), substituted "each of the $250,000 amounts" for "the $250,000 amount".
 

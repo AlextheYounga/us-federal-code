@@ -182,7 +182,7 @@ Pub. L. 115–237, Sept. 4, 2018, 132 Stat. 2447, as amended by Pub. L. 117–25
 
 "(8)	Legal representation increases the possibility of successfully obtaining a protective order against an attacker, which prevents further mental and physical injury to a victim and his or her family, as demonstrated by a study that found that 83 percent of victims represented by an attorney were able to obtain a protective order, whereas only 32 percent of victims without an attorney were able to do so.
 
-"(9) The American Bar Association Model Rules include commentary stating that 'every lawyer, regardless of professional prominence or professional workload, has a responsibility to provide legal services to those unable to pay, and personal involvement in the problems of the disadvantaged can be one of the most rewarding experiences in the life of a lawyer.
+"(9) The American Bar Association Model Rules include commentary stating that 'every lawyer, regardless of professional prominence or professional workload, has a responsibility to provide legal services to those unable to pay, and personal involvement in the problems of the disadvantaged can be one of the most rewarding experiences in the life of a lawyer'.
 
 "(10) As leaders in their legal communities, judges in district courts should encourage lawyers to provide pro bono resources in an effort to help victims of such violence or behavior escape the cycle of abuse.
 

@@ -172,7 +172,7 @@ Subsec. (a)(6). Pub. L. 117–169, §13302(b)(1), amended par. (6) generally. Pr
 
 Subsec. (d)(3). Pub. L. 117–169, §13302(c)(1), inserted ", without regard to subparagraph (D) thereof" after "section 48(c)(1)".
 
-Subsec. (d)(6). Pub. L. 117–169, §13302(b)(2), amended par. (6) generally. Prior to amendment, par. (6) related to qualified biomass fuel property expenditure, and subpars. (A) and (B) read as follows:
+Subsec. (d)(6). Pub. L. 117–169, §13302(b)(2), amended par. (6) generally. Prior to amendment, text read as follows:
 
 "(A) In general.—The term 'qualified biomass fuel property expenditure' means an expenditure for property—
 
@@ -182,7 +182,7 @@ Subsec. (d)(6). Pub. L. 117–169, §13302(b)(2), amended par. (6) generally. Pr
 
 "(B) Biomass fuel.—For purposes of this section, the term 'biomass fuel' means any plant-derived fuel available on a renewable or recurring basis."
 
-Subsec. (g)(2). Pub. L. 117–169, §13302(a)(2)(A), substituted "before January 1, 2022, 26 percent," for "before January 1, 2023, 26 percent, and"
+Subsec. (g)(2). Pub. L. 117–169, §13302(a)(2)(A), substituted "before January 1, 2022, 26 percent," for "before January 1, 2023, 26 percent, and".
 
 Subsec. (g)(3) to (5). Pub. L. 117–169, §13302(a)(2)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: "in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent."
 

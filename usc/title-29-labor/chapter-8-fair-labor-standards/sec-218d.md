@@ -26,7 +26,7 @@ An employer that employs less than 50 employees shall not be subject to the requ
 
 #### (1) In general ####
 
-An employer that is an air carrier shall not be subject to the requirements of this section with respect to an employee of such air carrier who is a crewmember
+An employer that is an air carrier shall not be subject to the requirements of this section with respect to an employee of such air carrier who is a crewmember <sup><a href="#218d_1_target" name="218d_1">1</a></sup>
 
 #### (2) Definitions ####
 
@@ -181,3 +181,5 @@ Pub. L. 117–328, div. KK, §103(e), Dec. 29, 2022, 136 Stat. 6097, provided th
 "(A) Employee; employer.—The terms 'employee' and 'employer' have the meanings given such terms in section 3 of the Fair Labor Standards Act of 1938 (29 U.S.C. 203).
 
 "(B) Motorcoach; motorcoach services operator.—The terms 'motorcoach' and 'motorcoach services operator' have the meanings given such terms in section 18D(f)(4) of the Fair Labor Standards Act of 1938 [29 U.S.C. 218d(f)(4)], as added by section 102(a)."
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#218d_1)

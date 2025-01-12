@@ -274,7 +274,7 @@ The term "applicable facility" means any qualified facility—
 
 A facility shall be treated as part of a qualified low-income residential building project if—
 
-(i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
+(i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)),<sup><a href="#48E_1_target" name="48E_1">1</a></sup> a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
 
 (ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
 
@@ -351,3 +351,5 @@ The Housing Act of 1949, referred to in subsec. (h)(2)(B)(i), is act July 15, 19
 #### Effective Date ####
 
 Pub. L. 117–169, title I, §13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: "The amendments made by this section [enacting this section and amending sections 46, 49 and 50 of this title] shall apply to property placed in service after December 31, 2024."
+
+[<sup>1</sup> So in original. Another closing parenthesis probably should precede the comma.](#48E_1)

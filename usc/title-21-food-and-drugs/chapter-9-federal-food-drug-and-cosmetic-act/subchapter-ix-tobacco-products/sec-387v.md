@@ -70,6 +70,8 @@ Reporting under this section shall include best estimates for any reporting cate
 
 (Pub. L. 117–103, div. P, title I, §112, Mar. 15, 2022, 136 Stat. 790.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Consolidated Appropriations Act, 2022, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

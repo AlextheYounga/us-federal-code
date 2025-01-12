@@ -318,7 +318,7 @@ Pub. L. 117–328, div. T, title I, §126(b), (d), Dec. 29, 2022, 136 Stat. 5316
 
 *"(C) from a qualified tuition program to the extent provided in section 529(c)(3)(E)."; and*
 
-(C) by adding at the end the following new sentence: "The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A).".
+(C) by adding at the end the following new sentence: "The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A)."
 
 See 2022 Amendment notes below.
 

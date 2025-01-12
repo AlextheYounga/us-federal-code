@@ -268,7 +268,7 @@ Pub. L. 117–167, §107(b)(3)(A)(i), which directed the insertion of ", or any
 
 Pub. L. 117–167, §107(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5), (6). Pub. L. 117–167, §107(b)(1), redesignated pars. (4) as (5) as (5) and (6), respectively.
+Subsec. (a)(5), (6). Pub. L. 117–167, §107(b)(1), redesignated pars. (4) and (5) as (5) and (6), respectively.
 
 Subsec. (a)(6)(C). Pub. L. 117–167, §107(b)(3)(B), substituted "paragraph (1), (2), or (3)" for "paragraph (1) or (2)".
 

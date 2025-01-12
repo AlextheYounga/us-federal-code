@@ -4,9 +4,13 @@ In order to carry out the provisions of sections 277 to 277d of this title, the 
 
 (May 13, 1924, ch. 153, §4, as added Aug. 19, 1935, ch. 561, 49 Stat. 660; amended May 22, 1936, ch. 447, 49 Stat. 1370.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1936**—Act May 22, 1936, inserted "paragraph (2) of section 277a".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeal; Savings Provision ####
 

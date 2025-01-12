@@ -40,8 +40,6 @@ Any modification under this subsection shall be for a period of not less than 7 
 
 #### References in Text ####
 
-Par. (2) of section 823(h) of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 117–328, div. FF, title I, §1262(a)(1), Dec. 29, 2022, 136 Stat. 5681.
-
 Section 3204(b) of the SUPPORT for Patients and Communities Act, referred to in subsec. (b)(2), is section 3204(b) of Pub. L. 115–271, title III, Oct. 24, 2018, 132 Stat. 3946, which is not classified to the Code.
 
 #### Amendments ####

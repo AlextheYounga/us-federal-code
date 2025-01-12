@@ -860,7 +860,7 @@ A prior section 45 was renumbered section 37 of this title.
 
 Subsec. (b)(2). Pub. L. 117–169, §13101(i)(1), substituted "If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent." for "If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."
 
-Pub. L. 117–169, §13101(b)(2), substituted "0.3 cent" for "1.5 cent".
+Pub. L. 117–169, §13101(b)(2), substituted "The 0.3 cent" for "The 1.5 cent".
 
 Subsec. (b)(3). Pub. L. 117–169, §13101(h), amended par. (3) generally. Prior to amendment, par. (3) related to credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits.
 
@@ -880,7 +880,7 @@ Subsec. (b)(10), (11). Pub. L. 117–169, §13101(g)(2), added pars. (10) and (1
 
 Subsec. (b)(12). Pub. L. 117–169, §13101(g)(1), redesignated par. (9) as (12).
 
-Subsec. (c)(10)(A)(v). Pub. L. 117–169, §13101(j)(2)(A), added cl. (v). Conforming amendment striking "or" in cl. (iii) was executed by striking the "or" at the end of the clause, to reflect the probable intent of Congress.
+Subsec. (c)(10)(A)(v). Pub. L. 117–169, §13101(j)(2)(A), added cl. (v). Conforming amendment striking "or" in cl. (iii) of subsec. (c)(10)(A) was executed by striking the "or" at the end of the clause, to reflect the probable intent of Congress.
 
 Subsec. (d)(1). Pub. L. 117–169, §13101(e)(1), substituted "January 1, 2025" for "January 1, 2022".
 
